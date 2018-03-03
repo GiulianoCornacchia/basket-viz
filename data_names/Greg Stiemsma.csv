@@ -1,0 +1,9 @@
+name,period,minutes_remaining,shot_made_flag,shot_distance,x,y,shot_clock,shot_2pnt
+Greg Stiemsma,4,5,0,2,18,9,2.0,True
+Greg Stiemsma,4,10,1,0,0,1,14.1,True
+Greg Stiemsma,2,9,1,0,0,1,19.4,True
+Greg Stiemsma,4,1,1,6,56,26,10.3,True
+Greg Stiemsma,4,1,1,13,132,-11,2.9,True
+Greg Stiemsma,4,0,0,5,53,14,14.0,True
+Greg Stiemsma,2,8,1,0,2,0,10.4,True
+Greg Stiemsma,2,6,1,2,-23,-5,12.4,True

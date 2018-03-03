@@ -1,0 +1,8 @@
+name,period,minutes_remaining,shot_made_flag,shot_distance,x,y,shot_clock,shot_2pnt
+Darius Miller,1,9,0,20,-45,205,12.1,True
+Darius Miller,4,7,1,7,42,58,12.6,True
+Darius Miller,4,2,0,20,13,206,13.7,True
+Darius Miller,4,6,0,13,88,102,14.2,True
+Darius Miller,4,3,0,14,75,129,14.0,True
+Darius Miller,1,5,0,4,-10,42,6.0,True
+Darius Miller,1,7,0,26,-169,208,17.8,False

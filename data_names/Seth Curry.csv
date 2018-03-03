@@ -1,0 +1,4 @@
+name,period,minutes_remaining,shot_made_flag,shot_distance,x,y,shot_clock,shot_2pnt
+Seth Curry,2,11,0,21,78,198,6.0,True
+Seth Curry,4,0,0,24,222,102,18.7,False
+Seth Curry,2,8,0,22,-116,194,10.8,True

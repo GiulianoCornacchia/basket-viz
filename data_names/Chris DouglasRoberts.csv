@@ -1,0 +1,22 @@
+name,period,minutes_remaining,shot_made_flag,shot_distance,x,y,shot_clock,shot_2pnt
+Chris DouglasRoberts,2,11,1,0,0,1,21.3,True
+Chris DouglasRoberts,4,0,1,0,4,7,20.3,True
+Chris DouglasRoberts,4,11,1,1,1,14,13.2,True
+Chris DouglasRoberts,4,1,1,1,13,12,14.0,True
+Chris DouglasRoberts,2,10,0,3,10,37,21.0,True
+Chris DouglasRoberts,4,2,1,22,-228,17,11.0,False
+Chris DouglasRoberts,2,10,0,23,230,-3,14.8,False
+Chris DouglasRoberts,2,10,0,4,-35,20,11.7,True
+Chris DouglasRoberts,1,1,0,23,-239,-13,9.0,False
+Chris DouglasRoberts,4,2,0,5,10,55,18.1,True
+Chris DouglasRoberts,2,9,0,22,-229,9,13.4,False
+Chris DouglasRoberts,3,2,0,23,-239,11,6.7,False
+Chris DouglasRoberts,2,8,0,20,-174,110,9.2,True
+Chris DouglasRoberts,2,6,0,25,-231,119,11.0,False
+Chris DouglasRoberts,3,0,0,23,-234,-3,0.9,False
+Chris DouglasRoberts,2,9,0,1,10,17,18.9,True
+Chris DouglasRoberts,4,11,0,1,-5,11,19.6,True
+Chris DouglasRoberts,2,9,0,2,26,7,5.2,True
+Chris DouglasRoberts,2,9,0,2,23,11,18.5,True
+Chris DouglasRoberts,1,0,0,2,20,-10,18.7,True
+Chris DouglasRoberts,1,1,0,13,62,116,3.2,True

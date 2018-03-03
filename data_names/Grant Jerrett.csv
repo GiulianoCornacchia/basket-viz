@@ -1,0 +1,27 @@
+name,period,minutes_remaining,shot_made_flag,shot_distance,x,y,shot_clock,shot_2pnt
+Grant Jerrett,4,5,1,6,61,25,3.3,True
+Grant Jerrett,4,3,0,21,37,214,4.0,True
+Grant Jerrett,4,0,0,24,-157,189,11.2,False
+Grant Jerrett,4,1,0,24,91,230,15.3,False
+Grant Jerrett,4,0,0,22,-224,6,15.2,False
+Grant Jerrett,4,2,0,24,-157,192,13.8,False
+Grant Jerrett,4,7,0,23,225,77,4.6,False
+Grant Jerrett,4,1,0,22,226,23,15.2,False
+Grant Jerrett,4,1,0,24,-11,246,5.7,False
+Grant Jerrett,4,6,0,17,-175,15,9.1,True
+Grant Jerrett,4,7,0,24,4,242,16.5,False
+Grant Jerrett,4,1,0,22,222,7,8.3,False
+Grant Jerrett,4,0,0,25,-103,228,5.2,False
+Grant Jerrett,4,2,1,24,77,233,13.0,False
+Grant Jerrett,4,0,1,0,-4,4,18.7,True
+Grant Jerrett,4,1,0,25,-138,213,14.7,False
+Grant Jerrett,4,3,0,26,-117,241,18.5,False
+Grant Jerrett,4,4,1,8,-64,58,13.9,True
+Grant Jerrett,2,6,1,3,-30,-2,8.1,True
+Grant Jerrett,4,8,0,17,59,168,9.0,True
+Grant Jerrett,4,0,0,7,-45,56,14.6,True
+Grant Jerrett,4,3,0,3,-32,7,14.8,True
+Grant Jerrett,4,2,0,25,-48,246,9.6,False
+Grant Jerrett,4,2,0,25,141,208,15.5,False
+Grant Jerrett,4,6,1,10,105,25,16.4,True
+Grant Jerrett,4,5,1,4,2,41,19.3,True

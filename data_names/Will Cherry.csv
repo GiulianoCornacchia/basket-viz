@@ -1,0 +1,20 @@
+name,period,minutes_remaining,shot_made_flag,shot_distance,x,y,shot_clock,shot_2pnt
+Will Cherry,4,1,0,0,6,3,20.9,True
+Will Cherry,2,4,0,8,-11,82,7.4,True
+Will Cherry,4,6,1,25,-221,118,15.4,False
+Will Cherry,1,0,1,24,236,67,14.8,False
+Will Cherry,4,3,0,19,118,149,8.3,True
+Will Cherry,4,8,0,26,-155,216,16.8,False
+Will Cherry,2,3,0,25,-171,192,8.6,False
+Will Cherry,4,0,0,27,124,247,4.6,False
+Will Cherry,4,3,0,25,-231,101,13.0,False
+Will Cherry,2,10,0,25,-213,132,17.8,False
+Will Cherry,1,0,0,24,237,42,16.0,False
+Will Cherry,4,1,0,3,15,30,10.0,True
+Will Cherry,3,0,0,23,-235,0,3.2,False
+Will Cherry,2,2,1,0,2,1,19.1,True
+Will Cherry,4,3,0,0,-7,7,21.4,True
+Will Cherry,4,2,0,0,-4,4,21.4,True
+Will Cherry,4,10,1,0,0,-2,22.7,True
+Will Cherry,4,3,0,1,4,19,4.3,True
+Will Cherry,4,0,1,5,48,34,3.5,True

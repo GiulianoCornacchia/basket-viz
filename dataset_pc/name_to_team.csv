@@ -1,0 +1,492 @@
+name,team_name
+Mike Scott,Atlanta Hawks
+Al Horford,Atlanta Hawks
+Mike Muscala,Atlanta Hawks
+Kent Bazemore,Atlanta Hawks
+Paul Millsap,Atlanta Hawks
+Thabo Sefolosha,Atlanta Hawks
+Pero Antic,Atlanta Hawks
+Dennis Schroder,Atlanta Hawks
+Jeff Teague,Atlanta Hawks
+DeMarre Carroll,Atlanta Hawks
+Shelvin Mack,Atlanta Hawks
+Kyle Korver,Atlanta Hawks
+John Jenkins,Atlanta Hawks
+Austin Daye,Atlanta Hawks
+Elton Brand,Atlanta Hawks
+Adreian Payne,Atlanta Hawks
+Gerald Henderson,Charlotte Hornets
+Bismack Biyombo,Charlotte Hornets
+Cody Zeller,Charlotte Hornets
+Michael KiddGilchrist,Charlotte Hornets
+Lance Stephenson,Charlotte Hornets
+Noah Vonleh,Charlotte Hornets
+Kemba Walker,Charlotte Hornets
+Gary Neal,Charlotte Hornets
+Mo Williams,Charlotte Hornets
+PJ Hairston,Charlotte Hornets
+Marvin Williams,Charlotte Hornets
+Jeff Taylor,Charlotte Hornets
+Jason Maxiell,Charlotte Hornets
+Brian Roberts,Charlotte Hornets
+Al Jefferson,Charlotte Hornets
+Jannero Pargo,Charlotte Hornets
+Troy Daniels,Charlotte Hornets
+Jeff Green,Boston Celtics
+James Young,Boston Celtics
+Marcus Smart,Boston Celtics
+Avery Bradley,Boston Celtics
+Gerald Wallace,Boston Celtics
+Brandon Bass,Boston Celtics
+Dwight Powell,Boston Celtics
+Kelly Olynyk,Boston Celtics
+Jonas Jerebko,Boston Celtics
+Tyler Zeller,Boston Celtics
+Jae Crowder,Boston Celtics
+Evan Turner,Boston Celtics
+Phil Pressey,Boston Celtics
+Rajon Rondo,Boston Celtics
+Jared Sullinger,Boston Celtics
+Tayshaun Prince,Boston Celtics
+Gigi Datome,Boston Celtics
+Marcus Thornton,Boston Celtics
+Isaiah Thomas,Boston Celtics
+Jameer Nelson,Boston Celtics
+Brandan Wright,Boston Celtics
+Shavlik Randolph,Boston Celtics
+Mason Plumlee,Brooklyn Nets
+Cory Jefferson,Brooklyn Nets
+Brook Lopez,Brooklyn Nets
+Jerome Jordan,Brooklyn Nets
+Kevin Garnett,Brooklyn Nets
+Markel Brown,Brooklyn Nets
+Deron Williams,Brooklyn Nets
+Mirza Teletovic,Brooklyn Nets
+Jarrett Jack,Brooklyn Nets
+Joe Johnson,Brooklyn Nets
+Bojan Bogdanovic,Brooklyn Nets
+Thaddeus Young,Brooklyn Nets
+Alan Anderson,Brooklyn Nets
+Darius Morris,Brooklyn Nets
+Brandon Davies,Brooklyn Nets
+Sergey Karasev,Brooklyn Nets
+Earl Clark,Brooklyn Nets
+Jorge Gutierrez,Brooklyn Nets
+Andrei Kirilenko,Brooklyn Nets
+Nikola Mirotic,Chicago Bulls
+Pau Gasol,Chicago Bulls
+Jimmy Butler,Chicago Bulls
+Taj Gibson,Chicago Bulls
+Nazr Mohammed,Chicago Bulls
+ETwaun Moore,Chicago Bulls
+Joakim Noah,Chicago Bulls
+Derrick Rose,Chicago Bulls
+Aaron Brooks,Chicago Bulls
+Tony Snell,Chicago Bulls
+Doug McDermott,Chicago Bulls
+Kirk Hinrich,Chicago Bulls
+Mike Dunleavy,Chicago Bulls
+Cameron Bairstow,Chicago Bulls
+JaVale McGee,Denver Nuggets
+Alonzo Gee,Denver Nuggets
+Timofey Mozgov,Denver Nuggets
+Kenneth Faried,Denver Nuggets
+Will Barton,Denver Nuggets
+JJ Hickson,Denver Nuggets
+Wilson Chandler,Denver Nuggets
+Joffrey Lauvergne,Denver Nuggets
+Arron Afflalo,Denver Nuggets
+Darrell Arthur,Denver Nuggets
+Ty Lawson,Denver Nuggets
+Jusuf Nurkic,Denver Nuggets
+Danilo Gallinari,Denver Nuggets
+Gary Harris,Denver Nuggets
+Erick Green,Denver Nuggets
+Randy Foye,Denver Nuggets
+Nate Robinson,Denver Nuggets
+Ian Clark,Denver Nuggets
+Jamaal Franklin,Denver Nuggets
+Tyson Chandler,Dallas Mavericks
+AlFarouq Aminu,Dallas Mavericks
+Charlie Villanueva,Dallas Mavericks
+Amare Stoudemire,Dallas Mavericks
+Richard Jefferson,Dallas Mavericks
+Bernard James,Dallas Mavericks
+Dirk Nowitzki,Dallas Mavericks
+Jose Juan Barea,Dallas Mavericks
+Devin Harris,Dallas Mavericks
+Chandler Parsons,Dallas Mavericks
+Monta Ellis,Dallas Mavericks
+Raymond Felton,Dallas Mavericks
+Ricky Ledo,Dallas Mavericks
+Greg Smith,Dallas Mavericks
+Andrew Bogut,Golden State Warriors
+Festus Ezeli,Golden State Warriors
+Shaun Livingston,Golden State Warriors
+Andre Iguodala,Golden State Warriors
+Justin Holiday,Golden State Warriors
+Harrison Barnes,Golden State Warriors
+Klay Thompson,Golden State Warriors
+Marreese Speights,Golden State Warriors
+David Lee,Golden State Warriors
+Draymond Green,Golden State Warriors
+Stephen Curry,Golden State Warriors
+James Michael McAdoo,Golden State Warriors
+Leandro Barbosa,Golden State Warriors
+Brandon Rush,Golden State Warriors
+Ognjen Kuzmic,Golden State Warriors
+Tristan Thompson,Cleveland Cavaliers
+Iman Shumpert,Cleveland Cavaliers
+Kevin Love,Cleveland Cavaliers
+JR Smith,Cleveland Cavaliers
+Shawn Marion,Cleveland Cavaliers
+LeBron James,Cleveland Cavaliers
+Kendrick Perkins,Cleveland Cavaliers
+Kyrie Irving,Cleveland Cavaliers
+James Jones,Cleveland Cavaliers
+Matthew Dellavedova,Cleveland Cavaliers
+Dion Waiters,Cleveland Cavaliers
+Joe Harris,Cleveland Cavaliers
+Will Cherry,Cleveland Cavaliers
+AJ Price,Cleveland Cavaliers
+Anderson Varejao,Cleveland Cavaliers
+Brendan Haywood,Cleveland Cavaliers
+Lou Amundson,Cleveland Cavaliers
+Mike Miller,Cleveland Cavaliers
+Alex Kirk,Cleveland Cavaliers
+Wesley Johnson,Los Angeles Lakers
+Ed Davis,Los Angeles Lakers
+Jordan Clarkson,Los Angeles Lakers
+Tarik Black,Los Angeles Lakers
+Jabari Brown,Los Angeles Lakers
+Ryan Kelly,Los Angeles Lakers
+Wayne Ellington,Los Angeles Lakers
+Ronnie Price,Los Angeles Lakers
+Nick Young,Los Angeles Lakers
+Jordan Hill,Los Angeles Lakers
+Vander Blue,Los Angeles Lakers
+Kobe Bryant,Los Angeles Lakers
+Jeremy Lin,Los Angeles Lakers
+Carlos Boozer,Los Angeles Lakers
+Robert Sacre,Los Angeles Lakers
+Dwight Buycks,Los Angeles Lakers
+Julius Randle,Los Angeles Lakers
+Xavier Henry,Los Angeles Lakers
+Gorgui Dieng,Minnesota Timberwolves
+Zach LaVine,Minnesota Timberwolves
+Andrew Wiggins,Minnesota Timberwolves
+Chase Budinger,Minnesota Timberwolves
+Justin Hamilton,Minnesota Timberwolves
+Shabazz Muhammad,Minnesota Timberwolves
+Kevin Martin,Minnesota Timberwolves
+Corey Brewer,Minnesota Timberwolves
+Lorenzo Brown,Minnesota Timberwolves
+Anthony Bennett,Minnesota Timberwolves
+Sean Kilpatrick,Minnesota Timberwolves
+Nikola Pekovic,Minnesota Timberwolves
+Ricky Rubio,Minnesota Timberwolves
+Jeff Adrien,Minnesota Timberwolves
+Glenn Robinson,Minnesota Timberwolves
+Robbie Hummel,Minnesota Timberwolves
+Arinze Onuaku,Minnesota Timberwolves
+Miroslav Raduljica,Minnesota Timberwolves
+Carmelo Anthony,New York Knicks
+Samuel Dalembert,New York Knicks
+Quincy Acy,New York Knicks
+Tim Hardaway Jr,New York Knicks
+Cleanthony Early,New York Knicks
+Jason Smith,New York Knicks
+Travis Wear,New York Knicks
+Shane Larkin,New York Knicks
+Andrea Bargnani,New York Knicks
+Langston Galloway,New York Knicks
+Cole Aldrich,New York Knicks
+Alexey Shved,New York Knicks
+Lance Thomas,New York Knicks
+Pablo Prigioni,New York Knicks
+Jose Calderon,New York Knicks
+Andre Drummond,Detroit Pistons
+Joel Anthony,Detroit Pistons
+Kentavious CaldwellPope,Detroit Pistons
+Greg Monroe,Detroit Pistons
+Josh Smith,Detroit Pistons
+Shawne Williams,Detroit Pistons
+Reggie Jackson,Detroit Pistons
+DJ Augustin,Detroit Pistons
+Brandon Jennings,Detroit Pistons
+Jodie Meeks,Detroit Pistons
+Caron Butler,Detroit Pistons
+Spencer Dinwiddie,Detroit Pistons
+Kyle Singler,Detroit Pistons
+Anthony Tolliver,Detroit Pistons
+Cartier Martin,Detroit Pistons
+John Lucas III,Detroit Pistons
+Quincy Miller,Detroit Pistons
+Andre Roberson,Oklahoma City Thunder
+Steven Adams,Oklahoma City Thunder
+Kevin Durant,Oklahoma City Thunder
+Serge Ibaka,Oklahoma City Thunder
+Russell Westbrook,Oklahoma City Thunder
+Perry Jones,Oklahoma City Thunder
+Jeremy Lamb,Oklahoma City Thunder
+Anthony Morrow,Oklahoma City Thunder
+Nick Collison,Oklahoma City Thunder
+Mitch McGary,Oklahoma City Thunder
+Sebastian Telfair,Oklahoma City Thunder
+Ish Smith,Oklahoma City Thunder
+Enes Kanter,Oklahoma City Thunder
+Grant Jerrett,Oklahoma City Thunder
+Steve Novak,Oklahoma City Thunder
+Nerlens Noel,Philadelphia 76ers
+JaKarr Sampson,Philadelphia 76ers
+KJ McDaniels,Philadelphia 76ers
+Malcolm Thomas,Philadelphia 76ers
+Michael CarterWilliams,Philadelphia 76ers
+Thomas Robinson,Philadelphia 76ers
+Robert Covington,Philadelphia 76ers
+Jerami Grant,Philadelphia 76ers
+Hollis Thompson,Philadelphia 76ers
+Henry Sims,Philadelphia 76ers
+Isaiah Canaan,Philadelphia 76ers
+Jason Richardson,Philadelphia 76ers
+Luc Mbah a Moute,Philadelphia 76ers
+Tony Wroten,Philadelphia 76ers
+Tim Frazier,Philadelphia 76ers
+Malcolm Lee,Philadelphia 76ers
+Furkan Aldemir,Philadelphia 76ers
+Chris Johnson,Philadelphia 76ers
+Larry Drew,Philadelphia 76ers
+Drew Gordon,Philadelphia 76ers
+Dewayne Dedmon,Orlando Magic
+Victor Oladipo,Orlando Magic
+Aaron Gordon,Orlando Magic
+Maurice Harkless,Orlando Magic
+Nikola Vucevic,Orlando Magic
+Tobias Harris,Orlando Magic
+Evan Fournier,Orlando Magic
+Willie Green,Orlando Magic
+Elfrid Payton,Orlando Magic
+Channing Frye,Orlando Magic
+Kyle OQuinn,Orlando Magic
+Devyn Marble,Orlando Magic
+Ben Gordon,Orlando Magic
+Luke Ridnour,Orlando Magic
+Andrew Nicholson,Orlando Magic
+Robin Lopez,Portland Trail Blazers
+Nicolas Batum,Portland Trail Blazers
+LaMarcus Aldridge,Portland Trail Blazers
+Damian Lillard,Portland Trail Blazers
+Allen Crabbe,Portland Trail Blazers
+Meyers Leonard,Portland Trail Blazers
+Victor Claver,Portland Trail Blazers
+Chris Kaman,Portland Trail Blazers
+Wesley Matthews,Portland Trail Blazers
+Dorell Wright,Portland Trail Blazers
+Joel Freeland,Portland Trail Blazers
+CJ McCollum,Portland Trail Blazers
+Steve Blake,Portland Trail Blazers
+Markieff Morris,Phoenix Suns
+Miles Plumlee,Phoenix Suns
+Marcus Morris,Phoenix Suns
+Alex Len,Phoenix Suns
+Archie Goodwin,Phoenix Suns
+Gerald Green,Phoenix Suns
+Eric Bledsoe,Phoenix Suns
+PJ Tucker,Phoenix Suns
+Goran Dragic,Phoenix Suns
+TJ Warren,Phoenix Suns
+Brandon Knight,Phoenix Suns
+Zoran Dragic,Phoenix Suns
+Tyler Ennis,Phoenix Suns
+Reggie Bullock,Phoenix Suns
+Earl Barron,Phoenix Suns
+Jerel McNeal,Phoenix Suns
+Seth Curry,Phoenix Suns
+Chris Andersen,Miami Heat
+Hassan Whiteside,Miami Heat
+Tyler Johnson,Miami Heat
+James Ennis,Miami Heat
+Chris Bosh,Miami Heat
+Josh McRoberts,Miami Heat
+Udonis Haslem,Miami Heat
+Michael Beasley,Miami Heat
+Dwyane Wade,Miami Heat
+Mario Chalmers,Miami Heat
+Henry Walker,Miami Heat
+Shannon Brown,Miami Heat
+Luol Deng,Miami Heat
+Shabazz Napier,Miami Heat
+Norris Cole,Miami Heat
+Danny Granger,Miami Heat
+Andre Dawkins,Miami Heat
+Ben McLemore,Sacramento Kings
+Derrick Williams,Sacramento Kings
+Rudy Gay,Sacramento Kings
+DeMarcus Cousins,Sacramento Kings
+Ryan Hollins,Sacramento Kings
+Ray McCallum,Sacramento Kings
+Jason Thompson,Sacramento Kings
+Omri Casspi,Sacramento Kings
+Ramon Sessions,Sacramento Kings
+Reggie Evans,Sacramento Kings
+Darren Collison,Sacramento Kings
+Nik Stauskas,Sacramento Kings
+Andre Miller,Sacramento Kings
+Carl Landry,Sacramento Kings
+David Stockton,Sacramento Kings
+Sim Bhullar,Sacramento Kings
+Eric Moreland,Sacramento Kings
+David Wear,Sacramento Kings
+Terrence Ross,Toronto Raptors
+Patrick Patterson,Toronto Raptors
+Amir Johnson,Toronto Raptors
+James Johnson,Toronto Raptors
+Lucas Nogueira,Toronto Raptors
+Jonas Valanciunas,Toronto Raptors
+DeMar DeRozan,Toronto Raptors
+Bruno Caboclo,Toronto Raptors
+Landry Fields,Toronto Raptors
+Greg Stiemsma,Toronto Raptors
+Tyler Hansbrough,Toronto Raptors
+Lou Williams,Toronto Raptors
+Kyle Lowry,Toronto Raptors
+Greivis Vasquez,Toronto Raptors
+Louis Williams,Toronto Raptors
+Charles Hayes,Toronto Raptors
+Otto Porter,Washington Wizards
+Marcin Gortat,Washington Wizards
+John Wall,Washington Wizards
+Martell Webster,Washington Wizards
+Rasual Butler,Washington Wizards
+Bradley Beal,Washington Wizards
+Kevin Seraphin,Washington Wizards
+Kris Humphries,Washington Wizards
+Garrett Temple,Washington Wizards
+Nene,Washington Wizards
+Paul Pierce,Washington Wizards
+Toure Murry,Washington Wizards
+Drew Gooden,Washington Wizards
+Glen Rice Jr,Washington Wizards
+DeJuan Blair,Washington Wizards
+Will Bynum,Washington Wizards
+John Henson,Milwaukee Bucks
+Giannis Antetokounmpo,Milwaukee Bucks
+Jerryd Bayless,Milwaukee Bucks
+Kenyon Martin,Milwaukee Bucks
+Larry Sanders,Milwaukee Bucks
+Jabari Parker,Milwaukee Bucks
+Ersan Ilyasova,Milwaukee Bucks
+Khris Middleton,Milwaukee Bucks
+Nate Wolters,Milwaukee Bucks
+OJ Mayo,Milwaukee Bucks
+Jared Dudley,Milwaukee Bucks
+Zaza Pachulia,Milwaukee Bucks
+Johnny OBryant,Milwaukee Bucks
+Kendall Marshall,Milwaukee Bucks
+Rudy Gobert,Utah Jazz
+Jeremy Evans,Utah Jazz
+Gordon Hayward,Utah Jazz
+Derrick Favors,Utah Jazz
+Trevor Booker,Utah Jazz
+Bryce Cotton,Utah Jazz
+Trey Burke,Utah Jazz
+Alec Burks,Utah Jazz
+Joe Ingles,Utah Jazz
+Elijah Millsap,Utah Jazz
+Dante Exum,Utah Jazz
+Rodney Hood,Utah Jazz
+Patrick Christopher,Utah Jazz
+Jack Cooley,Utah Jazz
+Elliot Williams,Utah Jazz
+Anthony Davis,New Orleans Pelicans
+Austin Rivers,New Orleans Pelicans
+Alexis Ajinca,New Orleans Pelicans
+Dante Cunningham,New Orleans Pelicans
+Jeff Withey,New Orleans Pelicans
+Omer Asik,New Orleans Pelicans
+Tyreke Evans,New Orleans Pelicans
+Jrue Holiday,New Orleans Pelicans
+Ryan Anderson,New Orleans Pelicans
+Eric Gordon,New Orleans Pelicans
+Luke Babbitt,New Orleans Pelicans
+Toney Douglas,New Orleans Pelicans
+Quincy Pondexter,New Orleans Pelicans
+John Salmons,New Orleans Pelicans
+Jimmer Fredette,New Orleans Pelicans
+Gal Mekel,New Orleans Pelicans
+Darius Miller,New Orleans Pelicans
+Russ Smith,New Orleans Pelicans
+Ian Mahinmi,Indiana Pacers
+CJ Miles,Indiana Pacers
+Solomon Hill,Indiana Pacers
+Rodney Stuckey,Indiana Pacers
+CJ Watson,Indiana Pacers
+Luis Scola,Indiana Pacers
+Donald Sloan,Indiana Pacers
+George Hill,Indiana Pacers
+Chris Copeland,Indiana Pacers
+Damjan Rudez,Indiana Pacers
+David West,Indiana Pacers
+Roy Hibbert,Indiana Pacers
+Lavoy Allen,Indiana Pacers
+Paul George,Indiana Pacers
+Shayne Whittington,Indiana Pacers
+Blake Griffin,Los Angeles Clippers
+DeAndre Jordan,Los Angeles Clippers
+Matt Barnes,Los Angeles Clippers
+Spencer Hawes,Los Angeles Clippers
+Glen Davis,Los Angeles Clippers
+Jamal Crawford,Los Angeles Clippers
+Chris Paul,Los Angeles Clippers
+JJ Redick,Los Angeles Clippers
+Chris DouglasRoberts,Los Angeles Clippers
+Jordan Farmar,Los Angeles Clippers
+Hedo Turkoglu,Los Angeles Clippers
+Jared Cunningham,Los Angeles Clippers
+Lester Hudson,Los Angeles Clippers
+CJ Wilcox,Los Angeles Clippers
+Dahntay Jones,Los Angeles Clippers
+Jordan Hamilton,Los Angeles Clippers
+Ekpe Udoh,Los Angeles Clippers
+Aron Baynes,San Antonio Spurs
+Kawhi Leonard,San Antonio Spurs
+Jeff Ayres,San Antonio Spurs
+Tim Duncan,San Antonio Spurs
+Marco Belinelli,San Antonio Spurs
+Boris Diaw,San Antonio Spurs
+Danny Green,San Antonio Spurs
+Manu Ginobili,San Antonio Spurs
+Tony Parker,San Antonio Spurs
+Cory Joseph,San Antonio Spurs
+Tiago Splitter,San Antonio Spurs
+Reggie Williams,San Antonio Spurs
+Kyle Anderson,San Antonio Spurs
+Matt Bonner,San Antonio Spurs
+Patty Mills,San Antonio Spurs
+JaMychal Green,San Antonio Spurs
+Dwight Howard,Houston Rockets
+Joey Dorsey,Houston Rockets
+Clint Capela,Houston Rockets
+Terrence Jones,Houston Rockets
+James Harden,Houston Rockets
+Kostas Papanikolaou,Houston Rockets
+Nick Johnson,Houston Rockets
+Donatas Motiejunas,Houston Rockets
+Patrick Beverley,Houston Rockets
+Trevor Ariza,Houston Rockets
+Jason Terry,Houston Rockets
+Francisco Garcia,Houston Rockets
+Kosta Koufos,Memphis Grizzlies
+Jon Leuer,Memphis Grizzlies
+Marc Gasol,Memphis Grizzlies
+Courtney Lee,Memphis Grizzlies
+Tony Allen,Memphis Grizzlies
+Vince Carter,Memphis Grizzlies
+Mike Conley,Memphis Grizzlies
+Nick Calathes,Memphis Grizzlies
+Beno Udrih,Memphis Grizzlies
+Zach Randolph,Memphis Grizzlies
+Jordan Adams,Memphis Grizzlies
+Jarnell Stokes,Memphis Grizzlies
+Kalin Lucas,Memphis Grizzlies
+Tyrus Thomas,Memphis Grizzlies

@@ -1,0 +1,13 @@
+name,period,minutes_remaining,shot_made_flag,shot_distance,x,y,shot_clock,shot_2pnt
+Bruno Caboclo,4,10,1,0,2,0,24.0,True
+Bruno Caboclo,4,0,0,7,-62,33,3.3,True
+Bruno Caboclo,4,1,0,2,9,20,16.5,True
+Bruno Caboclo,4,1,0,8,-82,28,9.6,True
+Bruno Caboclo,4,9,1,23,233,1,4.1,False
+Bruno Caboclo,4,6,1,24,-111,220,4.0,False
+Bruno Caboclo,4,11,0,24,152,195,3.3,False
+Bruno Caboclo,4,1,1,1,1,12,19.0,True
+Bruno Caboclo,4,1,0,3,27,16,14.6,True
+Bruno Caboclo,4,3,0,16,-169,1,1.5,True
+Bruno Caboclo,4,2,0,7,69,25,8.3,True
+Bruno Caboclo,4,9,0,8,-84,7,10.0,True

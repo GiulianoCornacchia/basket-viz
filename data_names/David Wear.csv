@@ -1,0 +1,3 @@
+name,period,minutes_remaining,shot_made_flag,shot_distance,x,y,shot_clock,shot_2pnt
+David Wear,1,1,0,24,-97,230,16.0,False
+David Wear,1,2,0,0,1,3,24.0,True

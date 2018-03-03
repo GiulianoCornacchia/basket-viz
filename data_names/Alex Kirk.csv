@@ -1,0 +1,5 @@
+name,period,minutes_remaining,shot_made_flag,shot_distance,x,y,shot_clock,shot_2pnt
+Alex Kirk,4,1,0,17,170,0,7.9,True
+Alex Kirk,4,1,0,21,91,190,13.7,True
+Alex Kirk,4,0,0,0,-4,0,0.0,True
+Alex Kirk,4,2,1,1,-10,0,8.2,True

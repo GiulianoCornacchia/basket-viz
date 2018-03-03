@@ -1,0 +1,20 @@
+name,period,minutes_remaining,shot_made_flag,shot_distance,x,y,shot_clock,shot_2pnt
+Shannon Brown,2,2,1,0,0,1,17.3,True
+Shannon Brown,4,10,1,0,0,1,21.0,True
+Shannon Brown,4,2,1,1,18,3,17.6,True
+Shannon Brown,3,9,0,1,4,12,20.5,True
+Shannon Brown,4,10,0,1,7,9,22.1,True
+Shannon Brown,3,7,0,2,-10,20,3.0,True
+Shannon Brown,2,11,0,11,-2,113,7.1,True
+Shannon Brown,4,8,0,25,184,172,3.4,False
+Shannon Brown,2,10,1,23,-232,-2,14.2,False
+Shannon Brown,2,0,0,27,201,192,0.0,False
+Shannon Brown,3,10,1,24,-205,132,7.1,False
+Shannon Brown,4,2,1,23,-237,11,1.2,False
+Shannon Brown,2,6,0,17,-79,156,14.6,True
+Shannon Brown,1,6,0,19,124,153,13.1,True
+Shannon Brown,3,1,0,24,190,160,4.8,False
+Shannon Brown,2,8,0,26,146,217,14.2,False
+Shannon Brown,3,10,0,20,-155,132,3.9,True
+Shannon Brown,3,2,0,0,6,3,7.2,True
+Shannon Brown,2,0,1,0,0,1,22.8,True

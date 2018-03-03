@@ -1,0 +1,26 @@
+name,period,minutes_remaining,shot_made_flag,shot_distance,x,y,shot_clock,shot_2pnt
+Russ Smith,4,5,0,24,166,186,9.4,False
+Russ Smith,4,7,0,26,75,249,16.5,False
+Russ Smith,4,2,0,3,34,3,15.9,True
+Russ Smith,1,0,0,24,-223,105,12.2,False
+Russ Smith,4,7,0,14,15,149,9.2,True
+Russ Smith,2,0,0,39,141,367,0.0,False
+Russ Smith,4,1,0,25,31,249,15.0,False
+Russ Smith,4,9,1,25,-174,190,10.0,False
+Russ Smith,4,4,0,1,-11,14,11.9,True
+Russ Smith,4,1,1,2,-19,12,19.7,True
+Russ Smith,4,1,1,5,4,55,10.0,True
+Russ Smith,4,9,0,23,233,33,10.8,False
+Russ Smith,4,2,0,21,-217,4,12.1,True
+Russ Smith,4,0,0,25,203,159,4.1,False
+Russ Smith,2,0,0,63,-179,613,0.0,False
+Russ Smith,4,5,0,10,-103,34,15.5,True
+Russ Smith,4,0,0,26,-177,195,21.6,False
+Russ Smith,4,11,0,1,-15,1,19.4,True
+Russ Smith,4,4,0,1,-15,11,14.9,True
+Russ Smith,4,0,1,24,-70,236,19.6,False
+Russ Smith,4,7,0,13,45,123,1.2,True
+Russ Smith,4,8,1,8,-45,67,7.4,True
+Russ Smith,4,8,1,10,-8,102,14.2,True
+Russ Smith,4,0,1,5,4,50,16.7,True
+Russ Smith,4,5,1,0,4,9,8.7,True

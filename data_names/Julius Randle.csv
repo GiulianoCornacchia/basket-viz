@@ -1,0 +1,4 @@
+name,period,minutes_remaining,shot_made_flag,shot_distance,x,y,shot_clock,shot_2pnt
+Julius Randle,2,10,1,9,94,26,6.7,True
+Julius Randle,4,9,0,16,69,153,10.3,True
+Julius Randle,1,0,0,2,20,6,14.3,True

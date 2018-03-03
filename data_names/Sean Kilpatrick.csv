@@ -1,0 +1,21 @@
+name,period,minutes_remaining,shot_made_flag,shot_distance,x,y,shot_clock,shot_2pnt
+Sean Kilpatrick,2,7,1,0,0,1,19.8,True
+Sean Kilpatrick,2,7,1,1,15,9,12.9,True
+Sean Kilpatrick,4,10,0,24,185,167,5.4,False
+Sean Kilpatrick,4,7,0,22,-229,17,9.0,False
+Sean Kilpatrick,3,3,0,25,80,241,14.6,False
+Sean Kilpatrick,2,9,0,10,-16,107,16.6,True
+Sean Kilpatrick,2,5,1,25,204,157,19.2,False
+Sean Kilpatrick,3,1,0,25,165,194,6.3,False
+Sean Kilpatrick,2,9,0,25,-138,213,16.4,False
+Sean Kilpatrick,2,7,0,24,214,124,15.0,False
+Sean Kilpatrick,4,8,1,23,231,12,17.3,False
+Sean Kilpatrick,4,11,1,21,39,208,10.5,True
+Sean Kilpatrick,4,7,1,24,152,197,5.0,False
+Sean Kilpatrick,4,8,1,24,146,198,11.0,False
+Sean Kilpatrick,2,11,0,24,138,205,15.4,False
+Sean Kilpatrick,4,0,0,24,-223,113,0.0,False
+Sean Kilpatrick,4,8,0,24,-191,154,18.3,False
+Sean Kilpatrick,2,9,0,2,-21,3,20.2,True
+Sean Kilpatrick,2,9,0,2,20,7,16.5,True
+Sean Kilpatrick,4,8,0,2,-16,15,22.7,True

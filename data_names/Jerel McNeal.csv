@@ -1,0 +1,12 @@
+name,period,minutes_remaining,shot_made_flag,shot_distance,x,y,shot_clock,shot_2pnt
+Jerel McNeal,2,8,0,1,15,7,8.0,True
+Jerel McNeal,4,7,0,9,53,77,11.8,True
+Jerel McNeal,4,2,1,24,-213,129,9.4,False
+Jerel McNeal,4,4,1,6,29,56,11.0,True
+Jerel McNeal,3,0,0,17,-105,138,0.0,True
+Jerel McNeal,4,0,0,9,1,93,19.4,True
+Jerel McNeal,1,0,0,9,95,22,4.4,True
+Jerel McNeal,3,4,0,25,152,209,18.3,False
+Jerel McNeal,3,6,1,11,-114,28,8.3,True
+Jerel McNeal,2,9,0,21,-86,198,6.9,True
+Jerel McNeal,1,2,0,0,1,0,0.0,True

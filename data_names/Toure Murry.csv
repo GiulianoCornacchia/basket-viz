@@ -1,0 +1,6 @@
+name,period,minutes_remaining,shot_made_flag,shot_distance,x,y,shot_clock,shot_2pnt
+Toure Murry,4,2,1,0,6,6,20.3,True
+Toure Murry,4,2,1,1,-11,0,6.8,True
+Toure Murry,4,8,0,19,-158,121,13.7,True
+Toure Murry,4,2,0,6,-62,12,21.4,True
+Toure Murry,4,0,0,20,122,159,16.5,True

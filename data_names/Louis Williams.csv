@@ -1,0 +1,12 @@
+name,period,minutes_remaining,shot_made_flag,shot_distance,x,y,shot_clock,shot_2pnt
+Louis Williams,3,0,1,16,-158,34,0.0,True
+Louis Williams,2,9,1,13,-82,113,6.1,True
+Louis Williams,1,0,1,25,-160,194,11.0,False
+Louis Williams,1,0,0,24,-106,224,0.0,False
+Louis Williams,1,0,0,11,34,105,0.0,True
+Louis Williams,1,0,0,16,-155,61,16.1,True
+Louis Williams,4,7,0,22,223,15,4.7,False
+Louis Williams,2,7,0,22,225,16,20.1,False
+Louis Williams,3,1,0,19,-166,107,11.5,True
+Louis Williams,4,8,0,20,-7,200,13.6,True
+Louis Williams,4,11,0,10,-105,15,17.0,True
