@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	
+	<script type="text/javascript" src="maps.js"></script>
+	<script type="text/javascript" src="grafici.js"></script>
+	<script type="text/javascript" src="main_script.js"></script>
+	<script type="text/javascript" src="stats.js"></script>
+	<script type="text/javascript" src="heatmap.js"></script>
+	<link href="./lib/nouislider.min.css" rel="stylesheet">
+	
+   
+
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+	<link rel="stylesheet" href="./lib/jquery-ui.css">
+	<link rel="stylesheet" href="./lib/style(1).css">
+	<script src="./lib/nouislider.min.js"> </script>
+	<script src="./lib/jquery-1.12.4.js.download"></script>
+	<script src="./lib/jquery-ui.js.download"></script>
+	<script src="names.js"></script>
+  
+	<link href="my_style.css" rel="stylesheet" type="text/css">
+  
+    <meta charset="utf-8">
+    <title>NBA data</title>
+
+	<script src="https://d3js.org/d3.v4.min.js"></script>
+  </head>
+  <body>
+   
+
+   
+<div id="b">  </div>
+   
+ <div id="mydiv">
+     <div id="heatmapContainerWrapper">
+	    <div id="heatmapContainer" >  
+	        </div> <div id="bb"> </div> 
+	 </div>
+   </div> 
+   
+<div id="filter_menu">
+ <input  type="checkbox" id="made" value="made" checked="checked"/> made
+ <br /> 
+ <input type="checkbox" id="miss" value="miss" checked="checked"/> miss
+ <br />
+ <input type="checkbox" id="pnt2" value="2pnt" checked="checked"/> 2 pnt
+  <br />
+ <input type="checkbox" id="pnt3" value="3pnt" checked="checked"/> 3 pnt
+  <br />
+  <button style="position: absolute; bottom:0px; height:25px;" onclick="play()">&#9658;</button>
+  <button style="position: absolute;bottom:0px; right:0px; height:25px;"  onclick="stop()">&#9632;</button>
+  <button style="position: absolute;bottom:0px; right:33px; height:25px;"  onclick="pause()">&#10074;&#10074;</button>
+  
+  <div id="pct">
+  </div>
+ 
+</div>
+ 
+ <div id="msp"> </div>
+ 
+ <div id="range"> </div>
+ 
+	<script type="text/javascript">
+
+	
+	 //without this dummy function the first request fails
+	 fake_update()
+	
+	
+	read_data("./dataset_pc/most_similar_players.csv",
+			  "./dataset_pc/total_assist.csv",
+			  "./dataset_pc/total_defenders.csv",
+			  "./dataset_pc/name_to_team.csv")
+	
+	
+  
+	
+	</script>
+
+	
+	
+	
+	
+	</div>
+	<div id="min"></div>
+	<div id="max"></div>
+	
+
+	
+	<div id="grafico"> </div>
+	
+	<div id="grafico2">  </div>
+	
+	<div id="grafico3">  </div>
+	
+	<div id="grafico4">  </div>
+	
+	<div id="radar"> </div>
+	
+	<div id="search">
+
+	<div class="ui-widget">
+	<input id="tags" type="text" spellcheck="false">
+	<button onclick="update(tags.value)">Search</button>
+</div>
+	
+	
+
+<script>
+
+
+
+filter_flag=[]
+for(i=0;i<5;i++)
+filter_flag[i]=true
+
+
+
+
+
+$('#filter_menu :checkbox').change(function () {
+   
+   if($(this).val()=="made")
+     index = 0;
+    if($(this).val()=="miss")
+     index = 1;
+    if($(this).val()=="2pnt")
+     index = 2;
+    if($(this).val()=="3pnt")
+     index = 3;
+	if($(this).val()=="assisted")
+     index = 4;
+   
+    filter_flag[index]=$(this).is(':checked')
+   
+   draw_shotchart("",true,q1,m1,q2,m2,500,350,false,filter_flag,true)
+   
+  
+   
+   
+});
+
+
+var q1
+var q2
+var m1
+var m2
+
+
+
+var startSlider = document.getElementById('range');
+
+noUiSlider.create(startSlider, {
+	start: [0, 52],
+	width: "200px",
+	//tooltips: [ true, true ],
+	connect: true,
+	step: 1,
+	range: {
+		'min': [ 0 ],
+		'max': [ 65 ]
+	}
+});
+
+
+
+var paddingMin = document.getElementById('min'),
+	paddingMax = document.getElementById('max');
+	
+
+
+startSlider.noUiSlider.on('update', function ( values, handle ) {
+	if ( handle ) {
+	    
+		q2 = parseInt(values[handle]/13)+1;
+	    m2 = (13*q2)-values[handle]-1
+		
+		if(values[handle]==52)
+		{
+		  q2 = 4;
+		  m2=0;
+		}
+		
+	    var str1 = ''+q2+'-'+m2+':00'
+		paddingMax.innerHTML = 'To:'+str1;
+		
+	
+	} else {
+	q1 = parseInt(values[handle]/13)+1;
+	m1 = (13*q1)-values[handle]-1
+	
+	if(values[handle]==52)
+		{
+		  q1 = 4;
+		  m1=0;
+		}
+	var str1 = ''+q1+'-'+m1+':00'
+		paddingMin.innerHTML = 'From:'+str1;
+		
+	}
+	
+	draw_shotchart("",true,q1,m1,q2,m2,500,350,false,filter_flag,false)
+
+	
+});
+
+
+var min_play=0
+var interval_play
+var pausa=1
+
+function play()
+{
+	pausa=1
+    interval_play = setInterval(p,500);
+	
+}
+
+function stop()
+{
+	clearInterval(interval_play);
+	draw_shotchart("",true,q1,m1,q2,m2,500,350,false,filter_flag,false)
+	min_play=0
+	
+}
+
+function pause()
+{
+	clearInterval(interval_play);
+}
+
+function p()
+{
+	
+	
+	q2 = parseInt(min_play/13)+1;
+	m2 = (13*q2)-min_play-1
+	
+	draw_shotchart("",true,0,0,q2,m2,400,400,true,[],false)
+	
+	min_play=min_play+1;
+	
+	console.log(min_play)
+	
+	if(min_play==62)
+	   clearInterval(interval_play);
+	
+}
+
+</script>
+
+
+
+
+	
+	
+	
+	
+	
+  </body>
+</html>
