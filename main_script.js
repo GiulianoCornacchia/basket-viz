@@ -69,7 +69,7 @@ function analytics(data_player,name_player)
 	
 	
 	//work in progress..
-	//radar_chart(total_defender,350,300,5,110,2000,data_player,data_player[0].name)
+	radar_chart(total_defender,350,300,5,110,2000,data_player,data_player[0].name)
 
 	
 	

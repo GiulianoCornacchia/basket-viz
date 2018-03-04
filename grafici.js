@@ -24,22 +24,26 @@ function my_gb(data,val,name)
 	  
 		data = data.filter(function(d){return d.name == name;})
 		  
+		 //group by defender name
+		 
 		  var expensesByName = d3.nest()
          .key(function(d) { return d.defender_name; })
          .entries(data);
 		 
-
+		
+		 
 		  var expensesCount = d3.nest()
 			.key(function(d) { return d.defender_name; })
 		    .rollup(function(v) { return{
-					count: v.length,
-			        made: d3.sum(v,function(d){return d.shot_made_flag}),
-					miss: d3.sum(v,function(d){return 1-d.shot_made_flag})}})
+					count: v[0].n_shot,
+					made: v[0].n_made
+									}})
             .entries(data);
 		  
-		  //console.log(expensesCount)
 		
 		  expensesCount.sort(compare)
+		  
+		  console.log(expensesCount)
 		  
 		num=5;
 		for(i=0;i<num;i++)
@@ -49,8 +53,8 @@ function my_gb(data,val,name)
 			else
 			{ 
 		
-			console.log(rev_name(expensesCount[i].key)+" - "+expensesCount[i].value.count+" - "+expensesCount[i].value.made+"/"+expensesCount[i].value.miss)		
-			  val.push({"name":String(rev_name(expensesCount[i].key)),"pct":Number((expensesCount[i].value.made/expensesCount[i].value.count))})
+			console.log(expensesCount[i].key+" - "+expensesCount[i].value.count+" - "+expensesCount[i].value.made+"/"+expensesCount[i].value.miss)		
+			  val.push({"name":String(expensesCount[i].key),"pct":Number((expensesCount[i].value.made/expensesCount[i].value.count))})
 			}
 		}
 		
@@ -74,7 +78,7 @@ function fg_opp(data_init,name_p)
 	
 
 	
-	data = data_init.filter(function(d){return rev_name(d.defender_name) == name_p;})
+	data = data_init.filter(function(d){return d.defender_name == name_p;})
 	
 
 	  var expensesByName = d3.nest()
@@ -86,9 +90,9 @@ function fg_opp(data_init,name_p)
 	  var expensesCount = d3.nest()
 			.key(function(d) { return d.defender_name; })
 		    .rollup(function(v) { return{
-					count: v.length,
-			        made: d3.sum(v,function(d){return d.shot_made_flag}),
-					miss: d3.sum(v,function(d){return 1-d.shot_made_flag})}})
+					count: d3.sum(v,function(d){return d.n_shot}),
+			        made: d3.sum(v,function(d){return d.n_made}),
+					}})
             .entries(data);
 	
 
@@ -294,7 +298,6 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
         .style("font-size", "12px")
 		.attr("fill", "grey")
 		.attr("opacity",0)
-        //.style("text-decoration", "underline")  
         .text("3pnt");
 					 
 		if(fun=="fg_clock"||fun=="freq_clock")
@@ -310,8 +313,7 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
         .attr("text-anchor", "right")  
         .style("font-size", "12px")
 		.attr("fill", "black")
-		.attr("opacity",0)
-        //.style("text-decoration", "underline")  
+		.attr("opacity",0) 
         .text("");			 
 		
 		// filtro per glowe 
@@ -323,7 +325,6 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
 		
 		filter.append("feGaussianBlur")
 	          .attr("stdDeviation","2.5")
-			 // .attr("opacity",0.5)
 	          .attr("result","coloredBlur");
 			  
 		var feMerge = filter.append("feMerge");
@@ -550,7 +551,7 @@ for(i=0;i<num_elem;i++)
 	//compute def FG of the five players
 	for(i=0;i<num_elem;i++)
 	{
-		pct = fg_opp(data_init,val[i].name)
+		pct = fg_opp(data_def,val[i].name)
 		
 
 	  console.log(pct)
@@ -607,7 +608,7 @@ for(i=0;i<num_elem;i++)
 					
 		//compute FG of the player			
 					
-			fg_player = fg_pct(data)		
+			fg_player = fg_pct(data_ply)		
 					
 			
 			 fg2.transition()
@@ -715,15 +716,15 @@ area_ug.transition()
 		 
 		 
 		 
-		 var fg= FG_pct(data,0)
-		 var fg2 = FG_pct(data,2)
-		 var fg3 = FG_pct(data,3)
+		 var fg= FG_pct(data_ply,0)
+		 var fg2 = FG_pct(data_ply,2)
+		 var fg3 = FG_pct(data_ply,3)
 		 
 		document.getElementById('pct').innerHTML+="<br>FG%"+" "+fg
 		document.getElementById('pct').innerHTML+="<br>2P%"+" "+fg2
 		document.getElementById('pct').innerHTML+="<br>3P%"+" "+fg3
 		 
-		 most_similar_player(data_init,data[0].name)
+		
 		
 		 
 	
