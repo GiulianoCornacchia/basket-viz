@@ -262,23 +262,33 @@ if(to_update)
    
    
   i=frm; 
+  if(!play)
+	  
   for(i=frm;i<=to;i++)
   {
 	  op_lvl = 0.7
 	  
 	var s = '#G'+i.toString()
 	
-	if(play)
-	{	
-       op_lvl = Math.pow(3,i)/Math.pow(3,to)
-        console.log(op_lvl)
-	}
-	
     d3.selectAll(s)
   	  .attr('opacity',op_lvl)
 
   }
-   
+   else
+   {
+	   
+	  var s = '#G'+to
+	
+     d3.selectAll(s)
+  	  .attr('opacity',1)
+	  
+	  d3.selectAll(s)
+	  .transition()
+	  .duration(2000)
+  	  .attr('opacity',0)
+	   
+	   
+   }
    //filtering according to the "flags" array
    if(filter)
    {
