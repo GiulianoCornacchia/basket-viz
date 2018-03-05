@@ -284,7 +284,7 @@ if(to_update)
 	  
 	  d3.selectAll(s)
 	  .transition()
-	  .duration(2000)
+	  .duration(1800)
   	  .attr('opacity',0)
 	   
 	   
