@@ -1,6 +1,6 @@
 $( function() {
 		var availableTags = [
-			'Mike Scott', 'Al Horford', 'Mike Muscala', 'Kent Bazemore',
+	   'Mike Scott', 'Al Horford', 'Mike Muscala', 'Kent Bazemore',
        'Paul Millsap', 'Thabo Sefolosha', 'Pero Antic', 'Dennis Schroder',
        'Jeff Teague', 'DeMarre Carroll', 'Shelvin Mack', 'Kyle Korver',
        'John Jenkins', 'Austin Daye', 'Elton Brand', 'Adreian Payne',
@@ -136,6 +136,7 @@ $( function() {
        'Tyrus Thomas'
 		];
 		$( "#tags" ).autocomplete({
-			source: availableTags
+			source: availableTags,
+			select: function (event,ui){update(ui.item.label)}
 		});
 	} );
