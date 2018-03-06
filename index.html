@@ -65,9 +65,7 @@
  
 	<script type="text/javascript">
 
-	
-	 //without this dummy function the first request fails
-	 fake_update()
+
 	
 	
 	read_data("./dataset_pc/most_similar_players.csv",
@@ -118,12 +116,11 @@ filter_flag[i]=true
 
 $('#tags').keypress(function (e){
 
-console.log(e.which)
-
 if(e.which==13)
 {
-
-update($(this).val())
+console.log(tags.value)
+setURL(tags.value)
+update()
 }
 
 

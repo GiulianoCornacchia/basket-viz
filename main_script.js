@@ -1,5 +1,4 @@
 
-
 var most_similar_player
 var total_assist
 var total_defender
@@ -7,9 +6,37 @@ var name_to_team
 var current_player
 
 
+function getPar()
+{
+	str = window.location.href;
+	
+	str = str.split('?')
+	
+	
+	//check whether the name of parameter is "player"
+	if(str[1]==undefined)
+	   return undefined
+	
+	check = str[1].split('=')
+	
+	if(check[0]!="player")
+	{
+		console.log("Bad parameters..")
+		return undefined;	
+	}
+	
+	name_player=str[1].toString().replace("player=","")
+	
+	name_player=name_player.toString().replace("_"," ")
+	
+	return name_player
+	
+}
+
 
 function read_data(msp,tot_ast,tot_def,name_team)
 {
+	
 	
 	console.log("Start loading..")
 	d3.csv(msp, function(data){
@@ -28,14 +55,6 @@ function read_data(msp,tot_ast,tot_def,name_team)
 	console.log("total_assist loaded")
 	
 	
-	d3.csv(tot_def, function(data){
-		
-		total_defender = data
-		
-	});
-	
-	console.log("total_defender loaded")
-	
 	
 		d3.csv(name_team, function(data){
 		
@@ -44,14 +63,42 @@ function read_data(msp,tot_ast,tot_def,name_team)
 	});
 	
 	console.log("name_to_team loaded")
+	
+
+	d3.csv(tot_def, function(data){
+		
+		total_defender = data
+		
+		//this function has to be here, since total_defender is the biggest dataset, it takes more time to load, and if the update()
+		//is out of this function it could be executed while total_defender is still undefined
+		
+		par = getPar()
+	
+	
+		if(par!=undefined)
+		{	
+			update()
+		}
+		
+		
+	});
+	
+	console.log("total_defender loaded")
+	
+	
+	
+	
+	
 }
 
 
-function analytics(data_player,name_player)
+function analytics(data_player,name_player,tot_def)
 {
 	
 	var w=500
 	var h=350
+	
+	
 	
 	most_similar_players(most_similar_player,name_player,1)
 	line_chart(data_player,400,170,"#grafico2",1500,"freq_dist","red","orange",1,2000,30);
@@ -69,7 +116,8 @@ function analytics(data_player,name_player)
 	
 	
 	//work in progress..
-	radar_chart(total_defender,350,300,5,110,2000,data_player,data_player[0].name)
+	
+	radar_chart(total_defender,350,300,5,110,2000,data_player,name_player)
 
 	
 	
@@ -79,8 +127,16 @@ function analytics(data_player,name_player)
 }
 
 
-function update(name_player)
+function update()
 {
+	//i take the url parameter
+	
+	name_player=getPar()
+
+    console.log(name_player)
+	
+	if(name_player!="")
+	{	
 	
 	
 	d3.csv("./data_names/"+name_player+".csv", function(data){
@@ -115,23 +171,12 @@ function update(name_player)
 	
 	
 	
-	analytics(current_player,name_player)
+	analytics(current_player,name_player,total_defender)
 	
 	});
 	
-	
+	}
 }
 
-
-function fake_update()
-{
-	d3.csv("./data_names/Kobe Bryant.csv", function(data){
-		
-		console.log("ok ready")
-		
-	});
-	
-	
-}
 
 
