@@ -104,7 +104,6 @@
 
 	<div class="ui-widget">
 	<input id="tags" type="text" spellcheck="false">
-	<button onclick="update(tags.value)">Search</button>
 </div>
 	
 	
@@ -117,8 +116,18 @@ filter_flag=[]
 for(i=0;i<5;i++)
 filter_flag[i]=true
 
+$('#tags').keypress(function (e){
+
+console.log(e.which)
+
+if(e.which==13)
+{
+
+update($(this).val())
+}
 
 
+});
 
 
 $('#filter_menu :checkbox').change(function () {
