@@ -192,11 +192,11 @@
 		
 		
 		if((x1-off_x)>-30 && (x1-off_x)<30  && (y1-off_y)>-50 && (y1-off_y)<50)
-		  heatmap.addData({x:x1, y:y1, value:12})
+		  heatmap.addData({x:x1, y:y1, value:2})
 	
 	  
         else	  
-		heatmap2.addData({x:x1, y:y1, value:12}) 
+		heatmap2.addData({x:x1, y:y1, value:12})
 	
 	  }
 	  
@@ -276,22 +276,29 @@ if(to_update)
   }
    else
    {
-	
-	
-	  var s = '#G'+(to+2)
-	
-		console.log(s)
+      var s = '#G'+(to+2)
+
 	
      d3.selectAll(s)
-  	  .attr('opacity',0)
+  	   .attr('opacity',0)
 	  
 	  d3.selectAll(s)
 	  .transition()
-	  .duration(1500)
+	  .duration(1600)
+  	.attr('opacity',1)
+	   
+	   
+	   var s = '#G'+(to)
+	   
+	   d3.selectAll(s)
   	  .attr('opacity',1)
-	  */
 	  
-	  console.log(to)
+	   
+	  d3.selectAll(s)
+	  .transition()
+	  .duration(1600)
+  	  .attr('opacity',0)
+	  
 	   
 	   
    }
