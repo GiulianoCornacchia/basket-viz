@@ -276,20 +276,16 @@ if(to_update)
   }
    else
    {
-	   
-	   
-	   
-	  var s = '#G'+(to+2)
-	
-	console.log("0 to 1 "+s)
+      var s = '#G'+(to+2)
+
 	
      d3.selectAll(s)
-  	  .attr('opacity',0)
+  	   .attr('opacity',0)
 	  
 	  d3.selectAll(s)
 	  .transition()
 	  .duration(1600)
-  	  .attr('opacity',1)
+  	.attr('opacity',1)
 	   
 	   
 	   var s = '#G'+(to)
@@ -303,6 +299,7 @@ if(to_update)
 	  .duration(1600)
   	  .attr('opacity',0)
 	  
+	   
 	   
    }
    //filtering according to the "flags" array
