@@ -276,10 +276,7 @@ if(to_update)
   }
    else
    {
-	   
-	   
-	   
-	  var s = '#G'+(to+2)
+    var s = '#G'+(to+2)
 	
 	console.log("0 to 1 "+s)
 	
@@ -302,7 +299,6 @@ if(to_update)
 	  .transition()
 	  .duration(1600)
   	  .attr('opacity',0)
-	  
 	   
    }
    //filtering according to the "flags" array

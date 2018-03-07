@@ -159,7 +159,9 @@ $( function() {
        'Zach Randolph', 'Jordan Adams', 'Jarnell Stokes', 'Kalin Lucas',
        'Tyrus Thomas'
 		];
-		$( "#tags" ).autocomplete({
+
+	$( "#tags" ).autocomplete({
+
 			source: availableTags,
 			select: function (event,ui){
 				
