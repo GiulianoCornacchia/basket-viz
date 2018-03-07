@@ -276,16 +276,22 @@ if(to_update)
   }
    else
    {
-	   
-	  var s = '#G'+to
+	
+	
+	  var s = '#G'+(to+2)
+	
+		console.log(s)
 	
      d3.selectAll(s)
-  	  .attr('opacity',1)
+  	  .attr('opacity',0)
 	  
 	  d3.selectAll(s)
 	  .transition()
-	  .duration(2000)
-  	  .attr('opacity',0)
+	  .duration(1500)
+  	  .attr('opacity',1)
+	  */
+	  
+	  console.log(to)
 	   
 	   
    }
