@@ -192,11 +192,11 @@
 		
 		
 		if((x1-off_x)>-30 && (x1-off_x)<30  && (y1-off_y)>-50 && (y1-off_y)<50)
-		  heatmap.addData({x:x1, y:y1, value:12})
+		  heatmap.addData({x:x1, y:y1, value:2})
 	
 	  
         else	  
-		heatmap2.addData({x:x1, y:y1, value:12}) 
+		heatmap2.addData({x:x1, y:y1, value:12})
 	
 	  }
 	  
@@ -277,16 +277,32 @@ if(to_update)
    else
    {
 	   
-	  var s = '#G'+to
+	   
+	   
+	  var s = '#G'+(to+2)
+	
+	console.log("0 to 1 "+s)
 	
      d3.selectAll(s)
-  	  .attr('opacity',1)
+  	  .attr('opacity',0)
 	  
 	  d3.selectAll(s)
 	  .transition()
-	  .duration(1800)
-  	  .attr('opacity',0)
+	  .duration(1600)
+  	  .attr('opacity',1)
 	   
+	   
+	   var s = '#G'+(to)
+	   
+	   d3.selectAll(s)
+  	  .attr('opacity',1)
+	  
+	   
+	  d3.selectAll(s)
+	  .transition()
+	  .duration(1600)
+  	  .attr('opacity',0)
+	  
 	   
    }
    //filtering according to the "flags" array

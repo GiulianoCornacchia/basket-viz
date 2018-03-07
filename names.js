@@ -1,6 +1,30 @@
+var ur = window.location.href
+
+//this lines are executed at the beginning, so if te URL is "dirty" with same parameters these lines clean it and
+//made the url in the form https://name.something?player=
+
+ur = ur.split("?")
+
+console.log(ur[0])
+
+url = ur[0]+"?player="
+
+
+function setURL(name)
+{
+		name_url = 	name.replace(" ","_")
+		my_url = url+name_url
+		console.log(url)
+		console.log(my_url)
+		window.history.pushState({path:my_url},'',my_url);
+	
+}
+
+
+
 $( function() {
 		var availableTags = [
-			'Mike Scott', 'Al Horford', 'Mike Muscala', 'Kent Bazemore',
+	   'Mike Scott', 'Al Horford', 'Mike Muscala', 'Kent Bazemore',
        'Paul Millsap', 'Thabo Sefolosha', 'Pero Antic', 'Dennis Schroder',
        'Jeff Teague', 'DeMarre Carroll', 'Shelvin Mack', 'Kyle Korver',
        'John Jenkins', 'Austin Daye', 'Elton Brand', 'Adreian Payne',
@@ -136,6 +160,11 @@ $( function() {
        'Tyrus Thomas'
 		];
 		$( "#tags" ).autocomplete({
-			source: availableTags
+			source: availableTags,
+			select: function (event,ui){
+				
+			setURL(ui.item.label)	
+			update()
+			}
 		});
 	} );
