@@ -161,6 +161,7 @@ $( function() {
 		];
 
 	$( "#tags" ).autocomplete({
+
 			source: availableTags,
 			select: function (event,ui){
 				
