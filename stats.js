@@ -1,3 +1,6 @@
+var name_ms1
+
+
 function array_freq_dist(data_1,vector,dim)
 {
 	
@@ -135,19 +138,34 @@ function array_freq_clock(data_1,vector,dim)
 }
 
 
+function fun1()
+{
+	setURL(name_ms1)
+	update()	
+}
+
+
 
 function most_similar_players(data,name,x)
 {
+	
+	
 	data = data.filter(function(d){return d.name == name;})
 	
 	name_ms = data[0].msp1
+	
+	name_ms1=name_ms
 	
 	score_ms = data[0].score1
 	
 	console.log("THE MOST SIMILAR PLAYER IS "+name_ms+" ("+score_ms+")")
 	
-	document.getElementById('msp').innerHTML = "<i> The most similar player to <u>"+name+"</u> is <u>"+name_ms+"</u> "+"with a score of "+score_ms+"<i>"
+	mid_txt = '<a onClick="fun1();" style="cursor: pointer; cursor: hand;">'+name_ms+'</a>'
+	
+	document.getElementById('msp').innerHTML = "<i> The most similar player to <u>"+name+"</u> is <u>"+mid_txt+"</u> "+"with a score of "+score_ms+"<i>"
 
+	
+	
 		
 }
 	 

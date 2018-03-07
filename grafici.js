@@ -14,7 +14,6 @@ function compare(a,b)
 
 
 
-
 function my_gb(data,val,name)
 {
 	   
@@ -43,7 +42,6 @@ function my_gb(data,val,name)
 		
 		  expensesCount.sort(compare)
 		  
-		  console.log(expensesCount)
 		  
 		num=5;
 		for(i=0;i<num;i++)
@@ -443,6 +441,7 @@ function radar_chart(data_def,w,h,num_elem,r,delay,data_ply,name)
 		 
     var margin = {top: 20, right: 30, bottom: 20, left: 30},
     width = w - margin.left - margin.right,
+    width = w - margin.left - margin.right,
     height = h - margin.top - margin.bottom;
 		 
 		 
@@ -520,19 +519,27 @@ n_circle=3
 	
 	console.log(val)
 	
+	var ns=[]
+	
+	//DRAW defenders names
+	
 for(i=0;i<num_elem;i++)	
 	{	
 			x2 = (r+10) * Math.cos(start+(i*angle));
 			y2 = (r+10) * Math.sin(start+(i*angle));
 			
-		svg.append("text")
+		ns[i]=svg.append("text")
         .attr("x", x2)             
         .attr("y", y2)
         .attr("text-anchor", "middle")  
         .style("font-size", "12px") 
         .style("text-decoration", "underline")  
-        .text(val[i].name);
+        .text(val[i].name)
+		.on("click",function(){setURL(this.innerHTML);update()})
+		.on("mouseover",function(){document.body.style.cursor = "pointer";})
+		.on("mouseout",function(){document.body.style.cursor = "default";})
 		
+	
 			
 	}
 	

@@ -214,14 +214,14 @@ startSlider.noUiSlider.on('update', function ( values, handle ) {
 });
 
 
-var min_play=1
+var min_play=-2
 var interval_play
 var pausa=1
 
 function play()
 {
 	pausa=1
-    interval_play = setInterval(p,600);
+    interval_play = setInterval(p,800);
 	
 }
 
@@ -249,7 +249,6 @@ function p()
 	
 	min_play=min_play+1;
 	
-	console.log(min_play)
 	
 	if(min_play==62)
 	   clearInterval(interval_play);
