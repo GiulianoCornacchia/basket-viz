@@ -186,7 +186,9 @@ function FG_pct(data,zona)
 		if(data[i].shot_made_flag==1)
 			made++;
 	}
-	
-	return (100*(made/data.length)).toFixed(2)
+	if(data.length!=0)
+		return (100*(made/data.length)).toFixed(2)
+	else
+		return (0).toFixed(2)
 }
 
