@@ -119,6 +119,7 @@ function analytics(data_player,name_player,tot_def)
 	
 	menu_stats(data_player,total_assist,name_player)
 	
+	
 	radar_chart(total_defender,350,300,5,110,2000,data_player,name_player)
 
 	
