@@ -14,7 +14,6 @@ function compare(a,b)
 
 
 
-
 function my_gb(data,val,name)
 {
 	   
@@ -24,22 +23,25 @@ function my_gb(data,val,name)
 	  
 		data = data.filter(function(d){return d.name == name;})
 		  
+		 //group by defender name
+		 
 		  var expensesByName = d3.nest()
          .key(function(d) { return d.defender_name; })
          .entries(data);
 		 
-
+		
+		 
 		  var expensesCount = d3.nest()
 			.key(function(d) { return d.defender_name; })
 		    .rollup(function(v) { return{
-					count: v.length,
-			        made: d3.sum(v,function(d){return d.shot_made_flag}),
-					miss: d3.sum(v,function(d){return 1-d.shot_made_flag})}})
+					count: v[0].n_shot,
+					made: v[0].n_made
+									}})
             .entries(data);
 		  
-		  //console.log(expensesCount)
 		
 		  expensesCount.sort(compare)
+		  
 		  
 		num=5;
 		for(i=0;i<num;i++)
@@ -49,8 +51,8 @@ function my_gb(data,val,name)
 			else
 			{ 
 		
-			console.log(rev_name(expensesCount[i].key)+" - "+expensesCount[i].value.count+" - "+expensesCount[i].value.made+"/"+expensesCount[i].value.miss)		
-			  val.push({"name":String(rev_name(expensesCount[i].key)),"pct":Number((expensesCount[i].value.made/expensesCount[i].value.count))})
+			console.log(expensesCount[i].key+" - "+expensesCount[i].value.count+" - "+expensesCount[i].value.made+"/"+expensesCount[i].value.miss)		
+			  val.push({"name":String(expensesCount[i].key),"pct":Number((expensesCount[i].value.made/expensesCount[i].value.count))})
 			}
 		}
 		
@@ -74,7 +76,7 @@ function fg_opp(data_init,name_p)
 	
 
 	
-	data = data_init.filter(function(d){return rev_name(d.defender_name) == name_p;})
+	data = data_init.filter(function(d){return d.defender_name == name_p;})
 	
 
 	  var expensesByName = d3.nest()
@@ -86,9 +88,9 @@ function fg_opp(data_init,name_p)
 	  var expensesCount = d3.nest()
 			.key(function(d) { return d.defender_name; })
 		    .rollup(function(v) { return{
-					count: v.length,
-			        made: d3.sum(v,function(d){return d.shot_made_flag}),
-					miss: d3.sum(v,function(d){return 1-d.shot_made_flag})}})
+					count: d3.sum(v,function(d){return d.n_shot}),
+			        made: d3.sum(v,function(d){return d.n_made}),
+					}})
             .entries(data);
 	
 
@@ -113,7 +115,7 @@ function fg_pct(data)
 }
 
 
-function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
+function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,legend_text){
 	
 	
 	
@@ -294,8 +296,18 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
         .style("font-size", "12px")
 		.attr("fill", "grey")
 		.attr("opacity",0)
-        //.style("text-decoration", "underline")  
         .text("3pnt");
+		
+		
+		var legend_txt=svg.append("text")
+        .attr("x", width/2)             
+        .attr("y", 0)
+		.attr("text-anchor", "middle") 
+        .style("font-size", "14px")
+		.style("font-style", "italic")
+		.attr("fill", c_line)
+		.attr("opacity",1)
+        .text(legend_text);
 					 
 		if(fun=="fg_clock"||fun=="freq_clock")
 		{
@@ -304,15 +316,25 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
 		}
 				
 					 
+			
+
+		
+		var txt_rec = svg.append("rect")
+					 .attr('x',0)
+					 .attr('y',-10)
+					 .attr('width',40)
+					 .attr('height',15)
+					 .attr('fill',"white")
+					 .attr('opacity',0)
+
 		var txt_pct=svg.append("text")
         .attr("x", 0)             
         .attr("y", 0)
         .attr("text-anchor", "right")  
         .style("font-size", "12px")
 		.attr("fill", "black")
-		.attr("opacity",0)
-        //.style("text-decoration", "underline")  
-        .text("");			 
+		.attr("opacity",0) 
+        .text("");
 		
 		// filtro per glowe 
 
@@ -323,7 +345,6 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
 		
 		filter.append("feGaussianBlur")
 	          .attr("stdDeviation","2.5")
-			 // .attr("opacity",0.5)
 	          .attr("result","coloredBlur");
 			  
 		var feMerge = filter.append("feMerge");
@@ -383,10 +404,12 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
 	  .on("mouseover",function(){path.attr("opacity",0.8)
 								 mouse_line.attr("opacity",1)
 								 txt_pct.attr("opacity",1)
+								 txt_rec.attr("opacity",0.7)
 								 area_ug.attr("opacity",0.7)
 								 mouse_circle.attr("opacity",1)})
 	  .on("mouseout",function(){path.attr("opacity",0.7)
 								txt_pct.attr("opacity",0)
+								txt_rec.attr("opacity",0)
 								mouse_line.attr("opacity",0)
 								area_ug.attr("opacity",0.3)
 								mouse_circle.attr("opacity",0)})
@@ -395,7 +418,7 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
 		  y = d3.mouse(this)[1]
 		  
 		  
-		  //console.log(x)
+		  
 		  
 
 		 x2 = mouseScale(x)
@@ -406,7 +429,6 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
 		  
 		  y=yScale(abc[x2].b)
 		  
-		  //console.log(abc[x2].b)
 		  
 		  mouse_line.attr("x1",x)
 					.attr("x2",x)
@@ -417,6 +439,9 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
 		  
 		  txt_pct.attr("x",x)
 		  .text((100*(abc[x2].b)).toFixed(2)+"%")
+		  
+		  txt_rec.attr("x",x)
+				 .attr("opacity",0.7)
 		  
 		  
 		  
@@ -435,12 +460,13 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
 
 
 
-function radar_chart(data_def,w,h,num_elem,r,delay,data_ply,name)
+function radar_chart(data_def,w,h,num_elem,r,delay,data_ply,name,legend_text)
 {
 	
 	
 		 
     var margin = {top: 20, right: 30, bottom: 20, left: 30},
+    width = w - margin.left - margin.right,
     width = w - margin.left - margin.right,
     height = h - margin.top - margin.bottom;
 		 
@@ -519,19 +545,27 @@ n_circle=3
 	
 	console.log(val)
 	
+	var ns=[]
+	
+	//DRAW defenders names
+	
 for(i=0;i<num_elem;i++)	
 	{	
 			x2 = (r+10) * Math.cos(start+(i*angle));
 			y2 = (r+10) * Math.sin(start+(i*angle));
 			
-		svg.append("text")
+		ns[i]=svg.append("text")
         .attr("x", x2)             
         .attr("y", y2)
         .attr("text-anchor", "middle")  
         .style("font-size", "12px") 
         .style("text-decoration", "underline")  
-        .text(val[i].name);
+        .text(val[i].name)
+		.on("click",function(){setURL(this.innerHTML);update()})
+		.on("mouseover",function(){document.body.style.cursor = "pointer";})
+		.on("mouseout",function(){document.body.style.cursor = "default";})
 		
+	
 			
 	}
 	
@@ -550,7 +584,7 @@ for(i=0;i<num_elem;i++)
 	//compute def FG of the five players
 	for(i=0;i<num_elem;i++)
 	{
-		pct = fg_opp(data_init,val[i].name)
+		pct = fg_opp(data_def,val[i].name)
 		
 
 	  console.log(pct)
@@ -607,7 +641,7 @@ for(i=0;i<num_elem;i++)
 					
 		//compute FG of the player			
 					
-			fg_player = fg_pct(data)		
+			fg_player = fg_pct(data_ply)		
 					
 			
 			 fg2.transition()
@@ -661,7 +695,14 @@ for(i=0;i<num_elem;i++)
 						.on("mouseout",function(){area_ug.attr("opacity",0.4)})
 						
 						
-	
+			var legend_txt=svg.append("text")
+        .attr("x", -w/2)             
+        .attr("y", -h/2 + 14)
+		.attr("text-anchor", "left") 
+        .style("font-size", "14px")
+		.attr("fill", "black")
+		.attr("opacity",1)
+        .text(legend_text);
 								
 		 	  					  
 						  
@@ -713,17 +754,8 @@ area_ug.transition()
 				
 		d3.selectAll(".a1").style("filter", "url(#glow)");
 		 
-		 
-		 
-		 var fg= FG_pct(data,0)
-		 var fg2 = FG_pct(data,2)
-		 var fg3 = FG_pct(data,3)
-		 
-		document.getElementById('pct').innerHTML+="<br>FG%"+" "+fg
-		document.getElementById('pct').innerHTML+="<br>2P%"+" "+fg2
-		document.getElementById('pct').innerHTML+="<br>3P%"+" "+fg3
-		 
-		 most_similar_player(data_init,data[0].name)
+
+		
 		
 		 
 	
