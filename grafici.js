@@ -721,16 +721,7 @@ area_ug.transition()
 				
 		d3.selectAll(".a1").style("filter", "url(#glow)");
 		 
-		 
-		 
-		 var fg= FG_pct(data_ply,0)
-		 var fg2 = FG_pct(data_ply,2)
-		 var fg3 = FG_pct(data_ply,3)
-		 
-		document.getElementById('pct').innerHTML+="<br>FG%"+" "+fg
-		document.getElementById('pct').innerHTML+="<br>2P%"+" "+fg2
-		document.getElementById('pct').innerHTML+="<br>3P%"+" "+fg3
-		 
+
 		
 		
 		 
