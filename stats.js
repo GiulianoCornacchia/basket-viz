@@ -1,5 +1,8 @@
+
 var name_ms1
 
+
+console.log("New stats version")
 
 function array_freq_dist(data_1,vector,dim)
 {
