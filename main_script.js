@@ -11,7 +11,7 @@ function getPar()
 	str = window.location.href;
 	
 	str = str.split('?')
-	
+
 	
 	//check whether the name of parameter is "player"
 	if(str[1]==undefined)
@@ -36,12 +36,19 @@ function getPar()
 
 function read_data(msp,tot_ast,tot_def,name_team)
 {
-	
+	par = getPar()
 	
 	console.log("Start loading..")
 	d3.csv(msp, function(data){
 		
 		most_similar_player = data
+		
+		if(par==undefined)
+		{
+			build_graph(most_similar_player,[])
+			graph_active=1
+		}
+		
 		
 	});
 	console.log("most_similar_player loaded")
@@ -72,13 +79,16 @@ function read_data(msp,tot_ast,tot_def,name_team)
 		//this function has to be here, since total_defender is the biggest dataset, it takes more time to load, and if the update()
 		//is out of this function it could be executed while total_defender is still undefined
 		
-		par = getPar()
-	
-	
+		
+
 		if(par!=undefined)
 		{	
-			update()
+			if(is_validname(par))
+				update()
+			else
+			  alert("Name/URL invalid");
 		}
+	
 		
 		
 	});
@@ -101,27 +111,27 @@ function analytics(data_player,name_player,tot_def)
 	
 	
 	most_similar_players(most_similar_player,name_player,1)
-	line_chart(data_player,400,170,"#grafico2",1500,"freq_dist","red","orange",1,2000,30);
+	line_chart(data_player,400,170,"#grafico2",1500,"freq_dist","red","orange",1,2000,30,"Freq. vs distance (ft.)");
 
 	
 	
-	line_chart(data_player,400,170,"#grafico",1500,"fg_dist","blue","lightblue",0,2000,30);
-	line_chart(data_player,400,170,"#grafico3",1500,"fg_clock","green","lightgreen",0,2000,25);
-	line_chart(data_player,400,170,"#grafico4",1500,"freq_clock","orange","yellow",1,2000,25);
+	line_chart(data_player,400,170,"#grafico",1500,"fg_dist","blue","lightblue",0,2000,30,"FG vs distance (ft.)");
+	line_chart(data_player,400,170,"#grafico3",1500,"fg_clock","green","lightgreen",0,2000,25,"FG vs shot_clock (s)");
+	line_chart(data_player,400,170,"#grafico4",1500,"freq_clock","orange","yellow",1,2000,25,"Freq. vs shot_clock (s)");
 	
 	draw_heatmap(data_player);
 	
-	draw_shotchart(data_player,false,0,0,0,0,w,h,null);
+	draw_shotchart(data_player,false,q1,m1,q2,m2,500,350,filter_flag,false,"vis")
 	
 	
 	
 	//work in progress..
 	
+	radar_chart(total_defender,350,300,5,110,2000,data_player,name_player,"TOP 5 matchups")
+
 	menu_stats(data_player,total_assist,name_player)
 	
-	
-	radar_chart(total_defender,350,300,5,110,2000,data_player,name_player)
-
+	//chord_diagram(name_player,name_to_team,total_assist,350,300)
 	
 	
 	
@@ -156,6 +166,7 @@ function update()
 	document.getElementById('grafico3').innerHTML = "";
 	document.getElementById('grafico4').innerHTML = "";
 	document.getElementById('radar').innerHTML = "";
+	document.getElementById('chord').innerHTML = "";
 	document.getElementById('b').innerHTML = "";
 	document.getElementById('pct').innerHTML = "";
 	document.getElementById('msp').innerHTML = "";
@@ -169,9 +180,11 @@ function update()
 	document.getElementById('max').setAttribute("style", "opacity: 1;");
 	document.getElementById('min').setAttribute("style", "opacity: 1;");
 	
+	var el = document.getElementById('graph');
+	if(el!=null)
+		el.parentNode.removeChild( el );
 	
-	
-	
+	graph_active=0
 	
 	
 	analytics(current_player,name_player,total_defender)

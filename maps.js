@@ -220,7 +220,7 @@
 
 	  
 	  	  
-	  function draw_shotchart(data,to_update,q1,m1,q2,m2,w,h,play,flags,filter)
+	  function draw_shotchart(data,to_update,q1,m1,q2,m2,w,h,flags,filter,state)
      {
 
 
@@ -252,7 +252,7 @@ if(to_update)
 	
 	var frm = parseInt(x)
 	var to = parseInt(y)
-
+	var svg
 	
 	//ripristino tutto
 		
@@ -262,7 +262,7 @@ if(to_update)
    
    
   i=frm; 
-  if(!play)
+  if(state=="vis")
 	  
   for(i=frm;i<=to;i++)
   {
@@ -274,36 +274,50 @@ if(to_update)
   	  .attr('opacity',op_lvl)
 
   }
-   else
-   {
-    var s = '#G'+(to+2)
+  else if(state=="play")
+  {
+	  var s = '#G'+(to+2)
 	
-	console.log("0 to 1 "+s)
-	
-     d3.selectAll(s)
-  	  .attr('opacity',0)
-	  
+	  console.log("0 to 1 "+s)
+
 	  d3.selectAll(s)
+	  .attr('opacity',0)
 	  .transition()
-	  .duration(1600)
+	  .duration(2000)
+	  .ease(d3.easeCubic)
   	  .attr('opacity',1)
-	   
-	   
+	  
+
 	   var s = '#G'+(to)
 	   
 	   d3.selectAll(s)
   	  .attr('opacity',1)
-	  
-	   
-	  d3.selectAll(s)
 	  .transition()
-	  .duration(1600)
-  	  .attr('opacity',0)
-	   
-   }
+	  .duration(2000)
+	  .ease(d3.easeCubic)
+  	  .attr('opacity',0)	 
+
+	
+		console.log(svg)
+
+	  
+  }
+  else if(state=="stop")
+  {
+	   d3.selectAll('.made').transition().duration(0)
+	   d3.selectAll('.miss').transition().duration(0)
+	   d3.selectAll('.made').attr('opacity',0.7);
+	   d3.selectAll('.miss').attr('opacity',0.7);
+	  
+  }
+  
    //filtering according to the "flags" array
    if(filter)
    {
+	   
+	   d3.selectAll('.made').attr('opacity',0.7);
+	   d3.selectAll('.miss').attr('opacity',0.7);
+	   
    if(!flags[0])
      d3.selectAll('.made').attr('opacity',0.0);
    if(!flags[1])
@@ -312,8 +326,7 @@ if(to_update)
      d3.selectAll('.shot2').attr('opacity',0.0);
     if(!flags[3])
      d3.selectAll('.shot3').attr('opacity',0.0);
-    if(!flags[4])
-     d3.selectAll('.ast').attr('opacity',0.0);
+
    }
 }
 else
@@ -321,7 +334,7 @@ else
 
 
  
-var svg = d3.select('#b').append('svg')
+   svg = d3.select('#b').append('svg')
   .attr('width',w)
   .attr('height',h)
  /// w/2   -60   w    h

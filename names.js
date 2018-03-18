@@ -1,6 +1,6 @@
 var ur = window.location.href
-
-//this lines are executed at the beginning, so if te URL is "dirty" with same parameters these lines clean it and
+var availableTags=[]
+//this lines are executed at the beginning, so if the URL is "dirty" with same parameters these lines clean it and
 //made the url in the form https://name.something?player=
 
 ur = ur.split("?")
@@ -9,21 +9,41 @@ console.log(ur[0])
 
 url = ur[0]+"?player="
 
-
-function setURL(name)
+function is_validname(name)
 {
-		name_url = 	name.replace(" ","_")
-		my_url = url+name_url
-		console.log(url)
-		console.log(my_url)
-		window.history.pushState({path:my_url},'',my_url);
+	return(availableTags.indexOf(name)!=-1)
+		
 	
 }
 
 
 
+
+function setURL(name)
+{
+	
+		if(is_validname(name))
+		{	
+			console.log("NOME VALIDO")
+			name_url = 	name.replace(" ","_")
+			my_url = url+name_url
+			console.log(url)
+			console.log(my_url)
+			window.history.pushState({path:my_url},'',my_url);
+		}
+		else
+		alert("Name/URL invalid");
+}
+
+
+function p(x)
+{
+	console.log(x)
+}
+
+
 $( function() {
-		var availableTags = [
+		availableTags = [
 	   'Mike Scott', 'Al Horford', 'Mike Muscala', 'Kent Bazemore',
        'Paul Millsap', 'Thabo Sefolosha', 'Pero Antic', 'Dennis Schroder',
        'Jeff Teague', 'DeMarre Carroll', 'Shelvin Mack', 'Kyle Korver',
@@ -159,14 +179,20 @@ $( function() {
        'Zach Randolph', 'Jordan Adams', 'Jarnell Stokes', 'Kalin Lucas',
        'Tyrus Thomas'
 		];
-
-	$( "#tags" ).autocomplete({
-
+		$( "#tags" ).autocomplete({
 			source: availableTags,
 			select: function (event,ui){
-				
 			setURL(ui.item.label)	
 			update()
-			}
+			},
+			focus: function(event,ui){ if(graph_active)	highlight(ui.item.label)},
+			close: function(event,ui){ if(graph_active) highlight("")},
+			response: function (event,ui){
+				console.log(ui.content)
+				console.log("AGG GRAPH")
+				if(graph_active)
+				build_graph(most_similar_player,ui.content)
+				}
+			
 		});
 	} );

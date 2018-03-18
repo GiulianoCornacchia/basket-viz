@@ -115,7 +115,7 @@ function fg_pct(data)
 }
 
 
-function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
+function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,legend_text){
 	
 	
 	
@@ -297,6 +297,17 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
 		.attr("fill", "grey")
 		.attr("opacity",0)
         .text("3pnt");
+		
+		
+		var legend_txt=svg.append("text")
+        .attr("x", width/2)             
+        .attr("y", 0)
+		.attr("text-anchor", "middle") 
+        .style("font-size", "14px")
+		.style("font-style", "italic")
+		.attr("fill", c_line)
+		.attr("opacity",1)
+        .text(legend_text);
 					 
 		if(fun=="fg_clock"||fun=="freq_clock")
 		{
@@ -305,6 +316,17 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
 		}
 				
 					 
+			
+
+		
+		var txt_rec = svg.append("rect")
+					 .attr('x',0)
+					 .attr('y',-10)
+					 .attr('width',40)
+					 .attr('height',15)
+					 .attr('fill',"white")
+					 .attr('opacity',0)
+
 		var txt_pct=svg.append("text")
         .attr("x", 0)             
         .attr("y", 0)
@@ -312,7 +334,7 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
         .style("font-size", "12px")
 		.attr("fill", "black")
 		.attr("opacity",0) 
-        .text("");			 
+        .text("");
 		
 		// filtro per glowe 
 
@@ -382,10 +404,12 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
 	  .on("mouseover",function(){path.attr("opacity",0.8)
 								 mouse_line.attr("opacity",1)
 								 txt_pct.attr("opacity",1)
+								 txt_rec.attr("opacity",0.7)
 								 area_ug.attr("opacity",0.7)
 								 mouse_circle.attr("opacity",1)})
 	  .on("mouseout",function(){path.attr("opacity",0.7)
 								txt_pct.attr("opacity",0)
+								txt_rec.attr("opacity",0)
 								mouse_line.attr("opacity",0)
 								area_ug.attr("opacity",0.3)
 								mouse_circle.attr("opacity",0)})
@@ -394,7 +418,7 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
 		  y = d3.mouse(this)[1]
 		  
 		  
-		  //console.log(x)
+		  
 		  
 
 		 x2 = mouseScale(x)
@@ -405,7 +429,6 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
 		  
 		  y=yScale(abc[x2].b)
 		  
-		  //console.log(abc[x2].b)
 		  
 		  mouse_line.attr("x1",x)
 					.attr("x2",x)
@@ -416,6 +439,9 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
 		  
 		  txt_pct.attr("x",x)
 		  .text((100*(abc[x2].b)).toFixed(2)+"%")
+		  
+		  txt_rec.attr("x",x)
+				 .attr("opacity",0.7)
 		  
 		  
 		  
@@ -434,7 +460,7 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x){
 
 
 
-function radar_chart(data_def,w,h,num_elem,r,delay,data_ply,name)
+function radar_chart(data_def,w,h,num_elem,r,delay,data_ply,name,legend_text)
 {
 	
 	
@@ -669,7 +695,14 @@ for(i=0;i<num_elem;i++)
 						.on("mouseout",function(){area_ug.attr("opacity",0.4)})
 						
 						
-	
+			var legend_txt=svg.append("text")
+        .attr("x", -w/2)             
+        .attr("y", -h/2 + 14)
+		.attr("text-anchor", "left") 
+        .style("font-size", "14px")
+		.attr("fill", "black")
+		.attr("opacity",1)
+        .text(legend_text);
 								
 		 	  					  
 						  
