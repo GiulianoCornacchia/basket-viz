@@ -56,7 +56,7 @@
        width: 500px;
        height: 330px;
 	   //background-color: red;
-	   //pointer-events:none;
+	   pointer-events:none;
 	   
 
     }
@@ -108,6 +108,14 @@
 	  //background-color: red;
     }
 	
+		  #chord{
+      position:absolute;
+	  top: 355px;
+	  right:450px; 
+	 // background-color: red;
+    }
+	
+	
 	 #min{
       position:absolute;
 	  top: 322px;
@@ -142,3 +150,17 @@
     /* prevent horizontal scrollbar */
     overflow-x: hidden;
   }
+
+  
+  
+  
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+  

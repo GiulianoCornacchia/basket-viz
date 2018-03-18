@@ -7,8 +7,6 @@
 	<script type="text/javascript" src="main_script.js"></script>
 	<script type="text/javascript" src="stats.js"></script>
 	<script type="text/javascript" src="heatmap.js"></script>
-	<script type="text/javascript" src="msp_graph.js"></script>
-	<script type="text/javascript" src="my_chord.js"></script>
 	<link href="./lib/nouislider.min.css" rel="stylesheet">
 	
    
@@ -32,7 +30,7 @@
   </head>
   <body>
    
-<div id="graph"> </div>
+
    
 <div id="b">  </div>
    
@@ -88,7 +86,7 @@
 	<div id="min"></div>
 	<div id="max"></div>
 	
-	
+
 	
 	<div id="grafico"> </div>
 	
@@ -99,8 +97,6 @@
 	<div id="grafico4">  </div>
 	
 	<div id="radar"> </div>
-	
-	<div id="chord"> </div>
 	
 	<div id="search">
 
@@ -127,6 +123,7 @@ setURL(tags.value)
 update()
 }
 
+
 });
 
 
@@ -145,7 +142,7 @@ $('#filter_menu :checkbox').change(function () {
    
     filter_flag[index]=$(this).is(':checked')
    
-   draw_shotchart("",true,q1,m1,q2,m2,500,350,filter_flag,true,"vis")
+   draw_shotchart("",true,q1,m1,q2,m2,500,350,false,filter_flag,true)
    
   
    
@@ -211,7 +208,6 @@ startSlider.noUiSlider.on('update', function ( values, handle ) {
 		
 	}
 	
-	//draw_shotchart("",true,,500,350,filter_flag,false,"vis")
 	draw_shotchart("",true,q1,m1,q2,m2,500,350,filter_flag,false,"vis")
 
 	
@@ -224,25 +220,23 @@ document.getElementById("b_pause").disabled = true;
 document.getElementById("b_stop").disabled = true;
 
 
-var min_play = -2
-var incr=1
-var init=1
 
+var min_play=-2
+var interval_play
+state_next = "play"
+var t0
+var t1
+var dt=-1
 
 function play()
 {
-	
 	document.getElementById("b_play").disabled = true;
 	document.getElementById("b_pause").disabled = false;
 	document.getElementById("b_stop").disabled = false;
-	
-	if(init==1)
-	{
-		init = 0
-		interval_play = setInterval(p,1000);		
-	}
-	
-	incr=1
+	if(dt==-1)
+		interval_play = setInterval(p,800);
+	else
+		interval_play = setInterval(p2,dt);
 	
 }
 
@@ -251,13 +245,10 @@ function stop()
 	document.getElementById("b_play").disabled = false;
 	document.getElementById("b_pause").disabled = true;
 	document.getElementById("b_stop").disabled = true;
-	
 	clearInterval(interval_play);
-	draw_shotchart("",true,0,0,7,0,500,350,filter_flag,false,"stop")
-	draw_shotchart("",true,0,0,7,0,500,350,filter_flag,true,"vis")
+	draw_shotchart("",true,0,0,9,0,500,350,filter_flag,false,"vis")
 	
-	init = 1;
-	min_play = -2
+	min_play=0
 	
 }
 
@@ -266,25 +257,33 @@ function pause()
 	document.getElementById("b_play").disabled = false;
 	document.getElementById("b_pause").disabled = true;
 	document.getElementById("b_stop").disabled = false;
+	draw_shotchart("",true,q1,m1,q2,m2,500,350,filter_flag,false,"pause")
+	state_next = "resume"
+	var d = new Date();
+	t1  = d.getMilliseconds();
 	
-	draw_shotchart("",true,0,0,7,0,500,350,filter_flag,false,"pause")
-	incr = 0;
+	dt = (t1-t0)
 	
+	clearInterval(interval_play);
+		
 }
-
 
 function p()
 {
+	var d = new Date();
+	t0  = d.getMilliseconds();
+	
 	q2 = parseInt(min_play/13)+1;
 	m2 = (13*q2)-min_play-1
 	
 
 	console.log("Partiti")
 	
-	draw_shotchart("",true,0,0,q2,m2,500,350,filter_flag,false,"play")
+	draw_shotchart("",true,0,0,q2,m2,500,350,filter_flag,false,state_next)
 	
-		
-	min_play=min_play+incr;
+	
+	
+	min_play=min_play+1;
 	
 	
 	if(min_play==62)
@@ -294,7 +293,21 @@ function p()
 
 
 
+function p2()
+{
 
+	
+	q2 = parseInt(min_play/13)+1;
+	m2 = (13*q2)-min_play-1
+
+	draw_shotchart("",true,dt,0,q2,m2,500,350,filter_flag,false,"resume")
+	
+		
+	
+	if(min_play==62)
+	   clearInterval(interval_play);
+	
+}
 
 
 </script>
