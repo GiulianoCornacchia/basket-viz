@@ -192,3 +192,54 @@ function FG_pct(data,zona)
 		return (0).toFixed(2)
 }
 
+
+function num_ast(data,name)
+{
+	data = data.filter(function(d){return d.from == name;})
+	
+	var expensesByName = d3.nest()
+         .key(function(d) { return d.from; })
+         .entries(data);
+	
+	  var expensesCount = d3.nest()
+			.key(function(d) { return d.from; })
+		    .rollup(function(v) { return{
+					total: d3.sum(v, function(d) { return d.count; }),
+									}})
+            .entries(data);
+	
+	return(expensesCount[0].value.total)
+}
+
+
+function menu_stats(data,data_ast,name)
+{
+			 
+		 
+		 var fg= FG_pct(data,0)
+		 var fg2 = FG_pct(data,2)
+		 var fg3 = FG_pct(data,3)
+		 
+		data2 = data.filter(function(d){return d.shot_2pnt == "True";})
+		data3 = data.filter(function(d){return d.shot_2pnt == "False";})
+		
+		data2_made = data2.filter(function(d){return d.shot_made_flag == 1;})
+		
+		data3_made = data3.filter(function(d){return d.shot_made_flag == 1;})
+		 
+		
+		total_points = data2_made.length*2 + data3_made.length*3
+		
+		
+		document.getElementById('pct').innerHTML+="<br><b>FG%</b>"+" "+fg
+		document.getElementById('pct').innerHTML+="<br><b>2P%</b>"+" "+fg2
+		document.getElementById('pct').innerHTML+="<br><b>3P%</b>"+" "+fg3
+		document.getElementById('pct').innerHTML+="<br><b>shots:</b> "+" "+data.length
+		document.getElementById('pct').innerHTML+="<br><b>2P:</b> "+data2_made.length+"/"+data2.length
+		document.getElementById('pct').innerHTML+="<br><b>3P:</b> "+data3_made.length+"/"+data3.length
+		document.getElementById('pct').innerHTML+="<br><b>points:</b> "+total_points
+		document.getElementById('pct').innerHTML+="<br><b>pps:</b> "+(total_points/data.length).toFixed(3)
+		document.getElementById('pct').innerHTML+="<br><b>ast:</b> "+num_ast(data_ast,name)
+
+}
+
