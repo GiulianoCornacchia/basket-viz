@@ -44,7 +44,7 @@ background-color: grey;
 #b{
 width: auto;
 height: 350px;
-zoom:0.9;
+//zoom:0.9;
 //margin-left: 100px;
 //background-color: black;
 pointer-events:none;
