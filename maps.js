@@ -145,7 +145,7 @@
 		
 		
 		
-		function draw_heatmap(data)
+		function draw_heatmap(data,filter)
 		{
 		
 
@@ -156,7 +156,7 @@
           container: document.getElementById('heatmapContainer'),
           maxOpacity: 0.8,
 		  minOpacity: 0.001,
-          radius: 20,
+          radius: 25,
           blur: 0.7,
           backgroundColor: 'rgba(0, 0, 58, 0.96)'
         });
@@ -165,7 +165,7 @@
           container: document.getElementById('heatmapContainer'),
           maxOpacity: 0.8,
 		  minOpacity: 0.001,
-          radius: 20,
+          radius: 25,
           blur: 0.8,
           backgroundColor: 'None'
         });
@@ -191,12 +191,22 @@
 		var y1= parseInt(data[i].y)+off_y
 		
 		
+		if(filter=="none")
+		{	
 		if((x1-off_x)>-30 && (x1-off_x)<30  && (y1-off_y)>-50 && (y1-off_y)<50)
 		  heatmap.addData({x:x1, y:y1, value:2})
-	
-	  
         else	  
 		heatmap2.addData({x:x1, y:y1, value:12})
+		}
+		else if(filter=="made")
+		{
+			if(data[i].shot_made_flag == 1)
+				if((x1-off_x)>-30 && (x1-off_x)<30  && (y1-off_y)>-50 && (y1-off_y)<50)
+					heatmap.addData({x:x1, y:y1, value:2})
+			else	  
+					heatmap2.addData({x:x1, y:y1, value:12})
+			
+		}
 	
 	  }
 	  
@@ -205,7 +215,7 @@
 	
 	  
 	  var svg = d3.select('#bb').append('svg')
-      .attr('width',500)
+      .attr('width',505)
       .attr('height',350)
 	  .attr("viewBox","-250 -60 500 350")
 	 
@@ -333,14 +343,18 @@ else
 {
 
 
- 
+ /*
    svg = d3.select('#b').append('svg')
   .attr('width',w)
   .attr('height',h)
- /// w/2   -60   w    h
-   .attr("viewBox","-"+(w/2)+"-60 "+w+" "+h)
-   .attr("preserveAspectRatio","xMinYMax meet")
+  .attr("viewBox","-"+(w/2)+"-60 "+w+" "+h)
+  .attr("preserveAspectRatio","xMinYMax meet")
+  */
   
+    var svg = d3.select('#b').append('svg')
+      .attr('width',505)
+      .attr('height',350)
+	  .attr("viewBox","-250 -60 500 350")
   
  draw_court(svg,"white",'rgba(0, 0, 58, 0.96)')
 
