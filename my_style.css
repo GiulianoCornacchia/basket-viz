@@ -55,9 +55,9 @@ height: 300px;
 background-color: yellow;
 }
 #chord{
-width: auto;
+width: 400px;
 height: 300px;
-//background-color: orange;
+background-color: orange;
 }
 #bb{
 position:absolute;
