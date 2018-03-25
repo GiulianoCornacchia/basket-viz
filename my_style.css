@@ -45,8 +45,6 @@ background-color: grey;
 width: auto;
 height: 350px;
 zoom:0.9;
-//margin-left: 100px;
-//background-color: black;
 pointer-events:none;
 }
 #hmap{
@@ -57,7 +55,7 @@ background-color: yellow;
 #chord{
 width: 400px;
 height: 300px;
-background-color: orange;
+//background-color: orange;
 }
 #bb{
 position:absolute;
