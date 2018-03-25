@@ -114,10 +114,10 @@ function analytics(data_player,name_player,tot_def)
 	
 	var x_g = 350
 	
-	line_chart(data_player,x_g,170,"#grafico2",2000,"freq_dist","red","orange",1,2000,30,"Freq. vs distance (ft.)");
-	line_chart(data_player,x_g,170,"#grafico",2000,"fg_dist","blue","lightblue",0,2000,30,"FG vs distance (ft.)");
-	line_chart(data_player,x_g,170,"#grafico3",2000,"fg_clock","green","lightgreen",0,2000,25,"FG vs shot_clock (s)");
-	line_chart(data_player,x_g,170,"#grafico4",2000,"freq_clock","orange","yellow",1,2000,25,"Freq. vs shot_clock (s)");
+	line_chart(data_player,x_g,170,"#grafico2",3500,"freq_dist","red","orange",1,2000,30,"Freq. vs distance (ft.)");
+	line_chart(data_player,x_g,170,"#grafico",3500,"fg_dist","blue","lightblue",0,2000,30,"FG vs distance (ft.)");
+	line_chart(data_player,x_g,170,"#grafico3",3500,"fg_clock","green","lightgreen",0,2000,25,"FG vs shot_clock (s)");
+	line_chart(data_player,x_g,170,"#grafico4",3500,"freq_clock","orange","yellow",1,2000,25,"Freq. vs shot_clock (s)");
 	
 	draw_heatmap(data_player,"none");
 	
@@ -127,7 +127,7 @@ function analytics(data_player,name_player,tot_def)
 	
 	//work in progress..
 	
-	radar_chart(total_defender,400,300,5,110,3000,data_player,name_player,"TOP 5 matchups")
+	radar_chart(total_defender,400,300,5,110,4000,data_player,name_player,"TOP 5 matchups")
 
 	menu_stats(data_player,total_assist,name_player,name_to_team)
 	

@@ -136,7 +136,7 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,le
 			array_freq_clock(data,vector,dim_x)
 	  
 	  
-	var margin = {top: 20, right: 20, bottom: 30, left: 50},
+	var margin = {top: 20, right: 10, bottom: 30, left: 35},
     width = w - margin.left - margin.right,
     height = h - margin.top - margin.bottom;
 	 
@@ -741,7 +741,6 @@ area_ug.transition()
 		
 		filter.append("feGaussianBlur")
 	          .attr("stdDeviation","2.5")
-			 // .attr("opacity",0.5)
 	          .attr("result","coloredBlur");
 			  
 		var feMerge = filter.append("feMerge");
