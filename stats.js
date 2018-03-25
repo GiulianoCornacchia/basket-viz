@@ -215,7 +215,7 @@ function num_ast(data,name)
 }
 
 
-function menu_stats(data,data_ast,name)
+function menu_stats(data,data_ast,name,data_team)
 {
 			 
 		 
@@ -230,6 +230,8 @@ function menu_stats(data,data_ast,name)
 		
 		data3_made = data3.filter(function(d){return d.shot_made_flag == 1;})
 		 
+		team = data_team.filter(function(d){return d.name == name;})
+		
 		
 		total_points = data2_made.length*2 + data3_made.length*3
 		
@@ -243,6 +245,9 @@ function menu_stats(data,data_ast,name)
 		document.getElementById('pct').innerHTML+="<br><b>points:</b> "+total_points
 		document.getElementById('pct').innerHTML+="<br><b>pps:</b> "+(total_points/data.length).toFixed(3)
 		document.getElementById('pct').innerHTML+="<br><b>ast:</b> "+num_ast(data_ast,name)
+		document.getElementById('info_player').innerHTML="<b>"+name+"</b>, "+"<i>"+team[0].team_name+"</i>"
+		
+	
 
 }
 
