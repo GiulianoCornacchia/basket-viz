@@ -74,7 +74,7 @@ function chord_diagram(name_player,name_to_team,total_assist,w,h)
               .attr("width", w)
               .attr("height", h)
     
-	outerRadius = Math.min(w, h) * 0.5 - 10,
+	outerRadius = Math.min(w, h) * 0.5 - 5,
     innerRadius = outerRadius - 20;
 
 	var chord = d3.chord()
@@ -166,16 +166,27 @@ group.append("path")
   .data(function(chords) { return chords; })
   .enter().append("path")
     .attr("d", ribbon)
-	.attr("opacity",1)
-	
+	//.attr("opacity",1)
 	.attr("class", function(d) {
               return "chord chord-" + d.source.index + " chord-" + d.target.index // The first chord allows us to select all of them. The second chord allows us to select each individual one. 
             })
 	.style("fill", function(d){ return "url(#" + getGradID(d) + ")"; })
+
 	
-
-
-
+/*
+	group.append("text")
+            .each(function(d){ d.angle = (d.startAngle + d.endAngle) / 2; })
+            .attr("dy", ".35em")
+            .attr("class", "titles")
+            .attr("text-anchor", function(d) { return d.angle > Math.PI ? "end" : null; })
+            .attr("transform", function(d) {
+              return "rotate(" + (d.angle * 180 / Math.PI - 90) + ")"
+              + "translate(" + (outerRadius + 10) + ")"
+              + (d.angle > Math.PI ? "rotate(180)" : "");
+            })
+            .text(function(d,i){ s=teammates[i].split(" "); return s[1]; })
+            .style("font-size", "10px")
+*/
 
 
 

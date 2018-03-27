@@ -131,7 +131,7 @@ function analytics(data_player,name_player,tot_def)
 
 	menu_stats(data_player,total_assist,name_player,name_to_team)
 	
-	chord_diagram(name_player,name_to_team,total_assist,400,300)
+	chord_diagram(name_player,name_to_team,total_assist,400,310)
 	
 	
 	
