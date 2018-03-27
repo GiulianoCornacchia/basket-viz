@@ -105,6 +105,40 @@ function chord_diagram(name_player,name_to_team,total_assist,w,h)
     .attr("transform", "translate(" + w / 2 + "," + h / 2 + ")")
     .datum(chord(matrix));
 
+	
+	
+	 // creating the fill gradient
+          function getGradID(d){ return "linkGrad-" + d.source.index + "-" + d.target.index; }
+
+
+          var grads = svg.append("defs")
+            .selectAll("linearGradient")
+            .data(chord(matrix))
+            .enter()
+            .append("linearGradient")
+            .attr("id", getGradID)
+            .attr("gradientUnits", "userSpaceOnUse")
+            .attr("x1", function(d, i){ return innerRadius * Math.cos((d.source.endAngle-d.source.startAngle) / 2 + d.source.startAngle - Math.PI/2); })
+            .attr("y1", function(d, i){ return innerRadius * Math.sin((d.source.endAngle-d.source.startAngle) / 2 + d.source.startAngle - Math.PI/2); })
+            .attr("x2", function(d,i){ return innerRadius * Math.cos((d.target.endAngle-d.target.startAngle) / 2 + d.target.startAngle - Math.PI/2); })
+            .attr("y2", function(d,i){ return innerRadius * Math.sin((d.target.endAngle-d.target.startAngle) / 2 + d.target.startAngle - Math.PI/2); })
+
+            // set the starting color (at 0%)
+
+            grads.append("stop")
+              .attr("offset", "0%")
+              .attr("stop-color", function(d){ return color(d.source.index)})
+
+              //set the ending color (at 100%)
+            grads.append("stop")
+              .attr("offset", "100%")
+              .attr("stop-color", function(d){ return color(d.target.index)})
+	
+	
+	
+	
+	
+	
 //ARCO ESTERNO	
 var group = g.append("g")
     .attr("class", "groups")
@@ -120,22 +154,10 @@ group.append("path")
 	.attr("id",function(d){ return("R"+d.index)})
     .style("stroke", function(d) { return d3.rgb(color(d.index)).darker(); })
     .attr("d", arc)
-	.on("mouseover",function(){console.log("QUAA"); hig_arc(this.id)})
-	.on("mouseout",function(){console.log("QUAA"); d3.selectAll("#arco").attr("opacity",0.9)})
+	.on("mouseover",function(){hig_arc(this.id,0.1)})
+	.on("mouseout",function(){hig_arc(this.id,1)})
 
-var groupTick = group.selectAll(".group-tick")
-  .data(function(d) { return d; })
-  .enter().append("g")
-    .attr("class", "group-tick")
-    .attr("transform", function(d) { return "rotate(" + (d.angle * 180 / Math.PI - 90) + ") translate(" + outerRadius + ",0)"; });
 
-	groupTick
-  .append("text")
-    .attr("x", 8)
-    .attr("dy", ".35em")
-    .attr("transform", function(d) { return d.angle > Math.PI ? "rotate(180) translate(-16)" : null; })
-    .style("text-anchor", function(d) { return d.angle > Math.PI ? "end" : null; })
-    .text(function(d) { return formatValue(d.value); });
 	
 	//ARCHI INTERNI
 	g.append("g")
@@ -144,30 +166,38 @@ var groupTick = group.selectAll(".group-tick")
   .data(function(chords) { return chords; })
   .enter().append("path")
     .attr("d", ribbon)
-	.attr("id","arco")
-	.attr("class", function(d){ return("A"+d.target.index+" "+"A"+d.source.index)})
-    .style("fill", function(d) { return color(d.target.index); })
-	.on("mouseover",function(){console.log("ARCO")})
-    .style("stroke", function(d) { return d3.rgb(color(d.target.index)).darker(); });
+	.attr("opacity",1)
 	
+	.attr("class", function(d) {
+              return "chord chord-" + d.source.index + " chord-" + d.target.index // The first chord allows us to select all of them. The second chord allows us to select each individual one. 
+            })
+	.style("fill", function(d){ return "url(#" + getGradID(d) + ")"; })
 	
 
 
 
 
+
+
 	
-function hig_arc(id_target)
+function hig_arc(id_target,op)
 {
+
 	console.log("H_A su "+id_target)
 	
 	str=id_target.replace("R","")
 	
-	d3.selectAll("#arco").attr("opacity",0.08)
-	d3.selectAll(".A"+str).attr("opacity",1)
+	d3.selectAll("path.chord").filter(function(d){ return (str!=d.source.index && str!=d.target.index)})
+	.transition()
+	.duration(500)
+	.attr("opacity",op)
 	
-}				
-		
+	
+	
+	//d3.selectAll(".chord-"+str).attr("opacity",1)
+
+			
 	
 }
 
-
+}
