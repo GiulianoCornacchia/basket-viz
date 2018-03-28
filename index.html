@@ -72,25 +72,7 @@
 	
 	</script>
 
-	
-	
-	
-	
 
-	
-	
-	
-	
-
-	
-	
-	
-
-	
-	
-
-
-	
 	
 <div class="container-fluid">
 
@@ -100,7 +82,7 @@
 		<div class="col-md-2"> 	
 			<div id="search">
 				<div class="ui-widget">
-					<input id="tags" style="height:20px; width:198px" type="text" spellcheck="false">
+					<input id="tags" style="height:20px; width:198px" type="text" spellcheck="false" placeholder="Search a player..">
 					
 				</div> 
 			</div>
@@ -125,21 +107,27 @@
 		
 		
 		<div class="col-md-1 padding-0">	<div id="filter_menu">
- <input  type="checkbox" id="made" value="made" checked="checked"/> made
- <br /> 
- <input type="checkbox" id="miss" value="miss" checked="checked"/> miss
- <br />
- <input type="checkbox" id="pnt2" value="2pnt" checked="checked"/> 2 pnt
-  <br />
- <input type="checkbox" id="pnt3" value="3pnt" checked="checked"/> 3 pnt
-  <br />
+
   <button id="b_play" style="position: absolute; bottom:0px; height:25px;" onclick="play()">&#9658;</button>
   <button id="b_stop"  style="position: absolute;bottom:0px; left:33px; height:25px;"  onclick="stop()">&#9632;</button>
   <button id="b_pause" style="position: absolute;bottom:0px; left:60px; height:25px;"  onclick="pause()">&#10074;&#10074;</button>
-  
+  <br>
+  <b> Stats: </b>
+  <br>
   <div id="pct">
   </div>
- 
+  <br>
+
+  <b> Filters: </b>
+  <br>
+  <input  type="checkbox" id="made" value="made" checked="checked"/> made
+
+ <input type="checkbox" id="miss" value="miss" checked="checked"/> miss
+ <br>
+ <input type="checkbox" id="pnt2" value="2pnt" checked="checked"/> 2 pnt
+
+ <input type="checkbox" id="pnt3" value="3pnt" checked="checked"/> 3 pnt
+  <br>
 </div>
 		</div>
 		<div class="col-md-7">
@@ -214,6 +202,13 @@ update()
 }
 
 });
+
+$('#tags').click(function (e){
+
+tags.value=""
+
+});
+
 
 
 $('#filter_menu :checkbox').change(function () {

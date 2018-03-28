@@ -30,7 +30,7 @@ width:auto;
 #filter_menu
 {
 zoom:0.9;
-width: 100px;
+width: auto;
 height: 350px;
 background-color: #F0F0F0;
 opacity: 0;
@@ -124,3 +124,10 @@ stroke: #999;
 .ribbons {
 fill-opacity: 0.85;
 }  
+
+::placeholder{
+	color:#8080c0;
+	opacity:0.5;
+	font-style:italic;
+	font-size:13px;
+}

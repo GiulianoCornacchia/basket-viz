@@ -181,7 +181,7 @@ $( function() {
 		];
 		$( "#tags" ).autocomplete({
 			source: availableTags,
-			select: function (event,ui){
+			select: function (event,ui){	
 			setURL(ui.item.label)	
 			update()
 			},
