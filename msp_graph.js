@@ -160,7 +160,7 @@ var simulation = d3.forceSimulation()
           .on("start", dragstarted)
           .on("drag", dragged)
           .on("end", dragended))
-	      .on("click", function(){console.log("HEY!"+this.id.replace("-"," ")); setURL(this.id.replace("-"," ")); update()})
+	      .on("click", function(){setURL(this.id.replace("-"," ")); update()})
 		  .on("mouseover", function(){d3.select("#"+this.id).transition().duration(300).attr("r",10)})
 		  .on("mouseout", function(){d3.select("#"+this.id).transition().duration(300).attr("r",6)})
 

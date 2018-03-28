@@ -45,8 +45,6 @@ background-color: grey;
 width: auto;
 height: 350px;
 zoom:0.9;
-//margin-left: 100px;
-//background-color: black;
 pointer-events:none;
 }
 #hmap{
@@ -55,9 +53,9 @@ height: 300px;
 background-color: yellow;
 }
 #chord{
-width: 400px;
+width: auto;
 height: 300px;
-background-color: orange;
+//background-color: orange;
 }
 #bb{
 position:absolute;
@@ -76,8 +74,7 @@ height: 330px;
 background-color: brown;   
 }
 #radar{
-position:absolute;
-weight:500px; 
+width:auto; 
 height:330px;
 //background-color: red;
 }
@@ -94,12 +91,12 @@ opacity: 0;
 //background-color: blue;
 }
 #range{
-width:auto;
+width:270px;
 height:20px;
 opacity: 0;
 }
 .ui-autocomplete {
-max-height: 100px;
+max-height: 300px;
 overflow-y: auto;
 /* prevent horizontal scrollbar */
 overflow-x: hidden;
