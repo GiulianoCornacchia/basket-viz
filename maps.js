@@ -192,6 +192,10 @@
 		
 		
 		if(filter=="none")
+
+		{
+
+		if((x1<500)&&(y1<300))
 		{	
 		if((x1-off_x)>-30 && (x1-off_x)<30  && (y1-off_y)>-50 && (y1-off_y)<50)
 		  heatmap.addData({x:x1, y:y1, value:2})
@@ -207,9 +211,10 @@
 					heatmap2.addData({x:x1, y:y1, value:12})
 			
 		}
-	
-	  }
-	  
+
+		}
+
+    }
 	  
 	  
 	

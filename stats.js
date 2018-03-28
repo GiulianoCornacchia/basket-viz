@@ -210,8 +210,10 @@ function num_ast(data,name)
 					total: d3.sum(v, function(d) { return d.count; }),
 									}})
             .entries(data);
-	
-	return(expensesCount[0].value.total)
+	if(expensesCount.length!=0)
+		return(expensesCount[0].value.total)
+	else
+		return 0;
 }
 
 

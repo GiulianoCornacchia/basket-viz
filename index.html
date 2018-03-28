@@ -85,7 +85,7 @@
 	
 	
 	
-<div id="graph"> </div>
+
 	
 	
 
@@ -95,12 +95,13 @@
 <div class="container-fluid">
 
 	 <div class="row">	
-		<div class="col-md-4 "> <div id="info_player"> </div> </div>
+		<div class="col-md-4 "> <div id="graph"> </div> <div id="info_player"> </div> </div>
 		<div class="col-md-6 padding-0"> <div id="msp"> </div> </div>
 		<div class="col-md-2"> 	
 			<div id="search">
 				<div class="ui-widget">
 					<input id="tags" style="height:20px; width:198px" type="text" spellcheck="false">
+					
 				</div> 
 			</div>
 			
@@ -194,7 +195,9 @@
 	
 
 <script>
-
+window.onresize = function(event) {
+    update()
+};
 
 
 filter_flag=[]

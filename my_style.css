@@ -53,7 +53,7 @@ height: 300px;
 background-color: yellow;
 }
 #chord{
-width: 400px;
+width: auto;
 height: 300px;
 //background-color: orange;
 }
@@ -74,8 +74,7 @@ height: 330px;
 background-color: brown;   
 }
 #radar{
-position:absolute;
-weight:500px; 
+width:auto; 
 height:330px;
 //background-color: red;
 }
@@ -92,7 +91,7 @@ opacity: 0;
 //background-color: blue;
 }
 #range{
-width:auto;
+width:270px;
 height:20px;
 opacity: 0;
 }
