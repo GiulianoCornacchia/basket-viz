@@ -110,29 +110,37 @@ function analytics(data_player,name_player,tot_def)
 	
 	
 	
-	most_similar_players(most_similar_player,name_player,1)
-	line_chart(data_player,400,170,"#grafico2",1500,"freq_dist","red","orange",1,2000,30,"Freq. vs distance (ft.)");
+	//getting the div's width
+	var w_graph = $(".grafico_").width();
+	var w_chord = document.getElementById("chord").getBoundingClientRect().width;
+	var w_radar = document.getElementById("radar").getBoundingClientRect().width;
+		 
 
 	
+	most_similar_players(most_similar_player,name_player,1)
 	
-	line_chart(data_player,400,170,"#grafico",1500,"fg_dist","blue","lightblue",0,2000,30,"FG vs distance (ft.)");
-	line_chart(data_player,400,170,"#grafico3",1500,"fg_clock","green","lightgreen",0,2000,25,"FG vs shot_clock (s)");
-	line_chart(data_player,400,170,"#grafico4",1500,"freq_clock","orange","yellow",1,2000,25,"Freq. vs shot_clock (s)");
 	
-	draw_heatmap(data_player);
+	line_chart(data_player,w_graph,170,"#grafico2",3500,"freq_dist","red","orange",1,2000,30,"Freq. vs distance (ft.)");
+	line_chart(data_player,w_graph,170,"#grafico",3500,"fg_dist","blue","lightblue",0,2000,30,"FG vs distance (ft.)");
+	line_chart(data_player,w_graph,170,"#grafico3",3500,"fg_clock","green","lightgreen",0,2000,25,"FG vs shot_clock (s)");
+	line_chart(data_player,w_graph,170,"#grafico4",3500,"freq_clock","orange","yellow",1,2000,25,"Freq. vs shot_clock (s)");
+
 	
-	draw_shotchart(data_player,false,q1,m1,q2,m2,500,350,filter_flag,false,"vis")
+	draw_heatmap(data_player,"none");
+	
+	draw_shotchart(data_player,false,q1,m1,q2,m2,505,350,filter_flag,false,"vis")
 	
 	
 	
 	//work in progress..
 	
-	radar_chart(total_defender,350,300,5,110,2000,data_player,name_player,"TOP 5 matchups")
 
-	menu_stats(data_player,total_assist,name_player)
+	radar_chart(total_defender,w_radar,300,5,110,4000,data_player,name_player,"TOP 5 matchups")
+
+	menu_stats(data_player,total_assist,name_player,name_to_team)
 	
-	//chord_diagram(name_player,name_to_team,total_assist,350,300)
-	
+	chord_diagram(name_player,name_to_team,total_assist,w_chord,310)
+
 	
 	
 
@@ -170,6 +178,8 @@ function update()
 	document.getElementById('b').innerHTML = "";
 	document.getElementById('pct').innerHTML = "";
 	document.getElementById('msp').innerHTML = "";
+	document.getElementById('info_player').innerHTML = "";
+	document.getElementById('bb').innerHTML = "";
 	document.getElementById('made').checked = true;
 	document.getElementById('miss').checked = true;
 	document.getElementById('pnt2').checked = true;

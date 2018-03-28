@@ -2,6 +2,19 @@
 <html lang="en">
   <head>
 	
+	
+	<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	
+	
+	
+	
 	<script type="text/javascript" src="maps.js"></script>
 	<script type="text/javascript" src="grafici.js"></script>
 	<script type="text/javascript" src="main_script.js"></script>
@@ -26,44 +39,23 @@
 	<link href="my_style.css" rel="stylesheet" type="text/css">
   
     <meta charset="utf-8">
-    <title>NBA data</title>
+    <title>NBA shots analytics</title>
 
 	<script src="https://d3js.org/d3.v4.min.js"></script>
   </head>
   <body>
    
-<div id="graph"> </div>
+
    
-<div id="b">  </div>
+
    
- <div id="mydiv">
-     <div id="heatmapContainerWrapper">
-	    <div id="heatmapContainer" >  
-	        </div> <div id="bb"> </div> 
-	 </div>
-   </div> 
+
    
-<div id="filter_menu">
- <input  type="checkbox" id="made" value="made" checked="checked"/> made
- <br /> 
- <input type="checkbox" id="miss" value="miss" checked="checked"/> miss
- <br />
- <input type="checkbox" id="pnt2" value="2pnt" checked="checked"/> 2 pnt
-  <br />
- <input type="checkbox" id="pnt3" value="3pnt" checked="checked"/> 3 pnt
-  <br />
-  <button id="b_play" style="position: absolute; bottom:0px; height:25px;" onclick="play()">&#9658;</button>
-  <button id="b_stop"  style="position: absolute;bottom:0px; right:0px; height:25px;"  onclick="stop()">&#9632;</button>
-  <button id="b_pause" style="position: absolute;bottom:0px; right:33px; height:25px;"  onclick="pause()">&#10074;&#10074;</button>
-  
-  <div id="pct">
-  </div>
+
  
-</div>
  
- <div id="msp"> </div>
  
- <div id="range"> </div>
+ 
  
 	<script type="text/javascript">
 
@@ -84,34 +76,128 @@
 	
 	
 	
-	</div>
-	<div id="min"></div>
-	<div id="max"></div>
-	
-	
-	
-	<div id="grafico"> </div>
-	
-	<div id="grafico2">  </div>
-	
-	<div id="grafico3">  </div>
-	
-	<div id="grafico4">  </div>
-	
-	<div id="radar"> </div>
-	
-	<div id="chord"> </div>
-	
-	<div id="search">
 
-	<div class="ui-widget">
-	<input id="tags" type="text" spellcheck="false">
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+
+
+	
+	
+<div class="container-fluid">
+
+	 <div class="row">	
+		<div class="col-md-4 "> <div id="graph"> </div> <div id="info_player"> </div> </div>
+		<div class="col-md-6 padding-0"> <div id="msp"> </div> </div>
+		<div class="col-md-2"> 	
+			<div id="search">
+				<div class="ui-widget">
+					<input id="tags" style="height:20px; width:198px" type="text" spellcheck="false">
+					
+				</div> 
+			</div>
+			
+		</div>
 </div>
 	
+	<div class="row ">
+
+		<div class="col-md-4 "> 
+		<div class="row"> 
+			<div class="col-md-12 padding-0"> <div id="b"> </div>	 </div>	 
+		</div>	
+		 <div class="row">
+			 <div class="col-md-2 padding-0">	<div id="min"></div>	 </div>	
+			 <div class="col-md-8">	<div id="range"> </div>	 </div>	 
+			 <div class="col-md-2 padding-0">	<div id="max"></div>	 </div>	
+		 </div>
+		</div>
+		
+		
+		
+		
+		<div class="col-md-1 padding-0">	<div id="filter_menu">
+ <input  type="checkbox" id="made" value="made" checked="checked"/> made
+ <br /> 
+ <input type="checkbox" id="miss" value="miss" checked="checked"/> miss
+ <br />
+ <input type="checkbox" id="pnt2" value="2pnt" checked="checked"/> 2 pnt
+  <br />
+ <input type="checkbox" id="pnt3" value="3pnt" checked="checked"/> 3 pnt
+  <br />
+  <button id="b_play" style="position: absolute; bottom:0px; height:25px;" onclick="play()">&#9658;</button>
+  <button id="b_stop"  style="position: absolute;bottom:0px; left:33px; height:25px;"  onclick="stop()">&#9632;</button>
+  <button id="b_pause" style="position: absolute;bottom:0px; left:60px; height:25px;"  onclick="pause()">&#10074;&#10074;</button>
+  
+  <div id="pct">
+  </div>
+ 
+</div>
+		</div>
+		<div class="col-md-7">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="row">
+						<div class="col-md-12">		<div class="grafico_" id="grafico"> </div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">		<div class="grafico_" id="grafico2"> </div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="row">
+						<div class="col-md-12">		<div class="grafico_" id="grafico3"> </div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">		<div class="grafico_" id="grafico4"> </div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-4 padding-0">	
+     <div id="heatmapContainerWrapper">
+	    <div id="heatmapContainer" >  
+	        </div> <div id="bb"> </div> 
+	 </div>
+ 
+		</div>
+		<div class="col-md-4">	<div id="chord"></div>	
+		</div>
+		<div class="col-md-4">	<div id="radar"> </div>
+		</div>
+	</div>
+</div>
+
+
+
+	
+	
+	
+	
+
+	
+		
 	
 
 <script>
-
+window.onresize = function(event) {
+    update()
+};
 
 
 filter_flag=[]
@@ -146,7 +232,6 @@ $('#filter_menu :checkbox').change(function () {
     filter_flag[index]=$(this).is(':checked')
    
    draw_shotchart("",true,q1,m1,q2,m2,500,350,filter_flag,true,"vis")
-   
   
    
    
@@ -194,7 +279,7 @@ startSlider.noUiSlider.on('update', function ( values, handle ) {
 		}
 		
 	    var str1 = ''+q2+'-'+m2+':00'
-		paddingMax.innerHTML = 'To:'+str1;
+		paddingMax.innerHTML = str1;
 		
 	
 	} else {
@@ -207,7 +292,7 @@ startSlider.noUiSlider.on('update', function ( values, handle ) {
 		  m1=0;
 		}
 	var str1 = ''+q1+'-'+m1+':00'
-		paddingMin.innerHTML = 'From:'+str1;
+		paddingMin.innerHTML = str1;
 		
 	}
 	
@@ -298,7 +383,6 @@ function p()
 
 
 </script>
-
 
 
 

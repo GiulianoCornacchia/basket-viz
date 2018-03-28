@@ -210,10 +210,11 @@
 					heatmap2.addData({x:x1, y:y1, value:12})
 			
 		}
+
 		}
 	  }
 	  
-	  
+
 	  
 	
 	  
