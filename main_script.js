@@ -119,12 +119,12 @@ function analytics(data_player,name_player,tot_def)
 	
 	most_similar_players(most_similar_player,name_player,1)
 	
-	var x_g = 350
 	
 	line_chart(data_player,w_graph,170,"#grafico2",3500,"freq_dist","red","orange",1,2000,30,"Freq. vs distance (ft.)");
 	line_chart(data_player,w_graph,170,"#grafico",3500,"fg_dist","blue","lightblue",0,2000,30,"FG vs distance (ft.)");
 	line_chart(data_player,w_graph,170,"#grafico3",3500,"fg_clock","green","lightgreen",0,2000,25,"FG vs shot_clock (s)");
 	line_chart(data_player,w_graph,170,"#grafico4",3500,"freq_clock","orange","yellow",1,2000,25,"Freq. vs shot_clock (s)");
+
 	
 	draw_heatmap(data_player,"none");
 	
@@ -134,11 +134,13 @@ function analytics(data_player,name_player,tot_def)
 	
 	//work in progress..
 	
+
 	radar_chart(total_defender,w_radar,300,5,110,4000,data_player,name_player,"TOP 5 matchups")
 
 	menu_stats(data_player,total_assist,name_player,name_to_team)
 	
 	chord_diagram(name_player,name_to_team,total_assist,w_chord,310)
+
 	
 	
 

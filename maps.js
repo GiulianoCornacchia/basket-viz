@@ -192,6 +192,7 @@
 		
 		
 		if(filter=="none")
+
 		{
 
 		if((x1<500)&&(y1<300))
@@ -210,9 +211,10 @@
 					heatmap2.addData({x:x1, y:y1, value:12})
 			
 		}
+
 		}
-	  }
-	  
+
+    }
 	  
 	  
 	
