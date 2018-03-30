@@ -74,8 +74,8 @@ function chord_diagram(name_player,name_to_team,total_assist,w,h)
               .attr("width", w)
               .attr("height", h)
     
-	outerRadius = Math.min(w, h) * 0.5 - 5,
-    innerRadius = outerRadius - 20;
+	outerRadius = Math.min(w, h) * 0.5 - 10,
+    innerRadius = outerRadius - 15;
 
 	var chord = d3.chord()
     .padAngle(0.05)
@@ -102,7 +102,7 @@ function chord_diagram(name_player,name_to_team,total_assist,w,h)
     .range(colori);
 	
 	var g = svg.append("g")
-    .attr("transform", "translate(" + w / 2 + "," + h / 2 + ")")
+    .attr("transform", "translate(" + (outerRadius+5) + "," + h / 2 + ")")
     .datum(chord(matrix));
 
 	
@@ -146,6 +146,8 @@ var group = g.append("g")
   .data(function(chords) { return chords.groups; })
   .enter().append("g")
   
+  group.append("title")
+      .text(function(d) { return d.id; });
 
   
 
@@ -155,60 +157,150 @@ group.append("path")
     .style("stroke", function(d) { return d3.rgb(color(d.index)).darker(); })
     .attr("d", arc)
 	.on("mouseover",function(){hig_arc(this.id,0.1)})
-	.on("mouseout",function(){hig_arc(this.id,1)})
+	.on("mouseout",function(){hig_arc(this.id,1)
+							  restore_legend()
+							  })
 
 
 	
 	//ARCHI INTERNI
-	g.append("g")
+   g.append("g")
     .attr("class", "ribbons")
   .selectAll("path")
   .data(function(chords) { return chords; })
   .enter().append("path")
     .attr("d", ribbon)
-	//.attr("opacity",1)
 	.attr("class", function(d) {
               return "chord chord-" + d.source.index + " chord-" + d.target.index // The first chord allows us to select all of them. The second chord allows us to select each individual one. 
             })
 	.style("fill", function(d){ return "url(#" + getGradID(d) + ")"; })
 
+
+		var legend_txt=svg.append("text")
+        .attr("x", 0)             
+        .attr("y", 14)
+		.attr("text-anchor", "left") 
+        .style("font-size", "14px")
+		.attr("fill", "black")
+		.attr("opacity",1)
+        .text("Team assists");	  	
+	  
+
+
+//// DRAWING THE LEGEND ON THE RIGHT
+
+
+
+var legendScale = d3.scaleLinear().domain([0, teammates.length]).range([15,h-15]);
+   
+console.log(teammates.length)
+
+   
+for(var i=0;i<teammates.length;i++)
+{
+	y_scaled = legendScale(i)
 	
-/*
-	group.append("text")
-            .each(function(d){ d.angle = (d.startAngle + d.endAngle) / 2; })
-            .attr("dy", ".35em")
-            .attr("class", "titles")
-            .attr("text-anchor", function(d) { return d.angle > Math.PI ? "end" : null; })
-            .attr("transform", function(d) {
-              return "rotate(" + (d.angle * 180 / Math.PI - 90) + ")"
-              + "translate(" + (outerRadius + 10) + ")"
-              + (d.angle > Math.PI ? "rotate(180)" : "");
-            })
-            .text(function(d,i){ s=teammates[i].split(" "); return s[1]; })
-            .style("font-size", "10px")
-*/
+	console.log(teammates[i])
+	
+	 svg.append('rect')
+    .attr('x',w-100)
+    .attr('y',y_scaled)
+    .attr('width',12)
+	.attr('height',12)
+	.attr("id","Leg_rec-"+i)
+	.attr("class","legend_square")
+	.attr("stroke","black")
+	.attr("stroke-width","1")
+    .attr('fill',color(i))
+	
+	var surname=teammates[i].split(" ")
+	
+	svg.append("text")
+        .attr("x", w-80)             
+        .attr("y", y_scaled+10)
+		.attr("id","Leg_txt-"+i)  
+		.attr("class","legend_name")
+        .style("font-size", "12px") 
+		.attr("fill","black")
+		.on("dblclick",function(){
+			var n=(this.id).split("-")
+			var ind = parseInt(n[1])
+			setURL(teammates[ind]);update()})
+		.on("click",function(){
+			var n=(this.id).split("-")
+			var ind = parseInt(n[1])
+			hig_arc("R"+ind,0.1)})	
+		.on("mouseover",function(){document.body.style.cursor = "pointer";})
+		.on("mouseout",function(){
+			var n=(this.id).split("-")
+			var ind = parseInt(n[1])
+			hig_arc("R"+ind,1)
+			document.body.style.cursor = "default";
+			restore_legend()})
+        .text(surname[1])
+	
+	
+}
+
+function legend_opacity(touched,tot)
+{
+	for(i=0;i<=tot;i++)
+		if(touched.indexOf(i)==-1)	
+		{
+			d3.select("#Leg_txt-"+i).transition().duration(300).style("opacity",0.3)
+			d3.select("#Leg_rec-"+i).transition().duration(300).style("opacity",0.2)
+		}	
+}
 
 
+function restore_legend()
+{
+	d3.selectAll(".legend_name").style("fill","black").style("opacity",1).style("font-size","12px")
+	d3.selectAll(".legend_square").style("opacity",1)
+}
 
+function hig_name(index)
+{
+	d3.selectAll("#Leg_txt-"+index).style("fill","blue").style("font-size","14px")
+		
+}
+
+var old_id=""
 	
 function hig_arc(id_target,op)
 {
 
-	console.log("H_A su "+id_target)
 	
 	str=id_target.replace("R","")
 	
+
 	d3.selectAll("path.chord").filter(function(d){ return (str!=d.source.index && str!=d.target.index)})
 	.transition()
 	.duration(500)
 	.attr("opacity",op)
 	
+	//working on the legend
 	
+	//highlight player source
 	
-	//d3.selectAll(".chord-"+str).attr("opacity",1)
-
-			
+	hig_name(str)
 	
+	if(op!=1)
+	{
+	var tou=[]
+	d3.selectAll("path.chord").each(function(d){ if(str==d.source.index)
+													if(tou.indexOf(d.target.index)==-1)
+														tou.push(d.target.index)
+													if(str==d.target.index)
+														
+													if(tou.indexOf(d.source.index)==-1)
+														tou.push(d.source.index)
+												})
+											
+	tou.push(parseInt(str))	
+	console.log(tou)	
+	legend_opacity(tou,teammates.length)											
+	}
 }
 
 }
