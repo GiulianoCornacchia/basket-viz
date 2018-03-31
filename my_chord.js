@@ -1,4 +1,13 @@
-
+var id_to_modify
+var colori
+var color
+var teammates=[]
+var grads
+var matrix=[]
+var g
+var group
+var ribbon
+var chord
 
 function ast_from_to(data,f,t)
 {
@@ -39,8 +48,8 @@ function give_teammates(data,name,vector)
 
 function chord_diagram(name_player,name_to_team,total_assist,w,h)
 {
-	var teammates=[]
-	var matrix=[]
+	
+	
 	give_teammates(name_to_team,name_player,teammates)
 	teammates.sort()
 	console.log(teammates)
@@ -77,7 +86,7 @@ function chord_diagram(name_player,name_to_team,total_assist,w,h)
 	outerRadius = Math.min(w, h) * 0.5 - 10,
     innerRadius = outerRadius - 15;
 
-	var chord = d3.chord()
+	chord = d3.chord()
     .padAngle(0.05)
     .sortSubgroups(d3.descending);
 	
@@ -85,11 +94,11 @@ function chord_diagram(name_player,name_to_team,total_assist,w,h)
     .innerRadius(innerRadius)
     .outerRadius(outerRadius);
 	
-	var ribbon = d3.ribbon()
+	ribbon = d3.ribbon()
     .radius(innerRadius);
 	
 	
-	var colori= new Array(teammates.length)
+	colori= new Array(teammates.length)
 	
 	for(j=0;j<teammates.length;j++)
 		colori[j]=getRandomColor()
@@ -97,25 +106,22 @@ function chord_diagram(name_player,name_to_team,total_assist,w,h)
 	console.log(colori);
 	
 	
-	var color = d3.scaleOrdinal()
+	color = d3.scaleOrdinal()
     .domain(d3.range(teammates.length))
     .range(colori);
 	
-	var g = svg.append("g")
+	g = svg.append("g")
     .attr("transform", "translate(" + (outerRadius+5) + "," + h / 2 + ")")
     .datum(chord(matrix));
 
 	
-	
-	 // creating the fill gradient
-          function getGradID(d){ return "linkGrad-" + d.source.index + "-" + d.target.index; }
 
-
-          var grads = svg.append("defs")
+             grads = svg.append("defs")
             .selectAll("linearGradient")
             .data(chord(matrix))
             .enter()
             .append("linearGradient")
+			.attr("class","x1")
             .attr("id", getGradID)
             .attr("gradientUnits", "userSpaceOnUse")
             .attr("x1", function(d, i){ return innerRadius * Math.cos((d.source.endAngle-d.source.startAngle) / 2 + d.source.startAngle - Math.PI/2); })
@@ -140,14 +146,13 @@ function chord_diagram(name_player,name_to_team,total_assist,w,h)
 	
 	
 //ARCO ESTERNO	
-var group = g.append("g")
+ group = g.append("g")
     .attr("class", "groups")
   .selectAll("g")
   .data(function(chords) { return chords.groups; })
   .enter().append("g")
   
-  group.append("title")
-      .text(function(d) { return d.id; });
+
 
   
 
@@ -212,6 +217,11 @@ for(var i=0;i<teammates.length;i++)
 	.attr("stroke","black")
 	.attr("stroke-width","1")
     .attr('fill',color(i))
+	.on("dblclick",function(){
+		document.getElementById('foo').jscolor.show()
+		id_to_modify=this.id;
+	
+		})
 	
 	var surname=teammates[i].split(" ")
 	
@@ -265,8 +275,8 @@ function hig_name(index)
 		
 }
 
-var old_id=""
-	
+
+
 function hig_arc(id_target,op)
 {
 
@@ -304,3 +314,62 @@ function hig_arc(id_target,op)
 }
 
 }
+
+
+function update_color(color)
+{
+	var id=id_to_modify.split("Leg_rec-")
+	
+	d3.selectAll("#"+id_to_modify).attr("fill","#"+color)
+	console.log(id[1])
+
+	col1=["#"+color]
+	
+	cl = d3.scaleOrdinal()
+    .domain(d3.range(1))
+    .range(col1); 
+	
+	d3.selectAll("#R"+id[1]).style("fill","#"+color)
+							.style("stroke", function(d) { return d3.rgb(cl(id[1])).darker(); })
+				
+	colori[id[1]]="#"+color
+	
+	d3.selectAll(".x1").remove()
+	
+
+	
+	color2 = d3.scaleOrdinal()
+    .domain(d3.range(teammates.length))
+    .range(colori);
+
+	   grads2 = svg.append("defs")
+            .selectAll("linearGradient")
+            .data(chord(matrix))
+            .enter()
+            .append("linearGradient")
+            .attr("id", getGradID)
+			.attr("class","x1")
+            .attr("gradientUnits", "userSpaceOnUse")
+            .attr("x1", function(d, i){ return innerRadius * Math.cos((d.source.endAngle-d.source.startAngle) / 2 + d.source.startAngle - Math.PI/2); })
+            .attr("y1", function(d, i){ return innerRadius * Math.sin((d.source.endAngle-d.source.startAngle) / 2 + d.source.startAngle - Math.PI/2); })
+            .attr("x2", function(d,i){ return innerRadius * Math.cos((d.target.endAngle-d.target.startAngle) / 2 + d.target.startAngle - Math.PI/2); })
+            .attr("y2", function(d,i){ return innerRadius * Math.sin((d.target.endAngle-d.target.startAngle) / 2 + d.target.startAngle - Math.PI/2); })
+
+            // set the starting color (at 0%)
+
+            grads2.append("stop")
+              .attr("offset", "0%")
+              .attr("stop-color", function(d){ return color2(d.source.index)})
+
+              //set the ending color (at 100%)
+            grads2.append("stop")
+              .attr("offset", "100%")
+              .attr("stop-color", function(d){ return color2(d.target.index)})
+	
+	d3.selectAll(".chord-"+id[1]).style("fill", function(d){ return "url(#" + getGradID(d) + ")"; })
+	
+	
+}
+
+  function getGradID(d)
+  { return "linkGrad-" + d.source.index + "-" + d.target.index; }
