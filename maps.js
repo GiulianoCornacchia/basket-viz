@@ -192,6 +192,9 @@
 		
 		
 		if(filter=="none")
+		{
+
+		if((x1<500)&&(y1<300))
 		{	
 		if((x1-off_x)>-30 && (x1-off_x)<30  && (y1-off_y)>-50 && (y1-off_y)<50)
 		  heatmap.addData({x:x1, y:y1, value:2})
@@ -207,10 +210,11 @@
 					heatmap2.addData({x:x1, y:y1, value:12})
 			
 		}
-	
+
+		}
 	  }
 	  
-	  
+
 	  
 	
 	  
@@ -307,8 +311,12 @@ if(to_update)
 	  .ease(d3.easeCubic)
   	  .attr('opacity',0)	 
 
+		if(to>=0)
+			if(m2<10)
+				d3.select("#current_min").text("Q"+q2+"- 0"+m2+":00")
+			else
+				d3.select("#current_min").text("Q"+q2+"- "+m2+":00")
 	
-		console.log(svg)
 
 	  
   }
@@ -318,6 +326,7 @@ if(to_update)
 	   d3.selectAll('.miss').transition().duration(0)
 	   d3.selectAll('.made').attr('opacity',0.7);
 	   d3.selectAll('.miss').attr('opacity',0.7);
+	   d3.select("#current_min").text("")
 	  
   }
   
@@ -343,13 +352,6 @@ else
 {
 
 
- /*
-   svg = d3.select('#b').append('svg')
-  .attr('width',w)
-  .attr('height',h)
-  .attr("viewBox","-"+(w/2)+"-60 "+w+" "+h)
-  .attr("preserveAspectRatio","xMinYMax meet")
-  */
   
     var svg = d3.select('#b').append('svg')
       .attr('width',505)
@@ -358,7 +360,15 @@ else
   
  draw_court(svg,"white",'rgba(0, 0, 58, 0.96)')
 
-	 
+	 var txt_pct=svg.append("text")
+        .attr("x", 0)             
+        .attr("y", h-70)
+		.attr("id","current_min")
+        .attr("text-anchor", "middle")  
+        .style("font-size", "27px")
+		.attr("fill", "yellow")
+		.attr("opacity",1) 
+        .text("");
 	 
 
 	 
