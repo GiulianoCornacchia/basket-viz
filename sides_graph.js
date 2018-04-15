@@ -96,20 +96,7 @@ function sides_chart(data_ply,w,h,delay)
 				.curve(d3.curveCardinal);
 	
 	
-	
-	var area_left = svg.append("path")
-						.data(left_line)
-						.attr("class", "area")
-						.attr("fill","orange")
-						.attr("opacity","0.2")
-						.attr("d", area(left_line));
-	
-	var area_right = svg.append("path")
-						.data(right_line)
-						.attr("class", "area")
-						.attr("fill","blue")
-						.attr("opacity","0.2")
-						.attr("d", area2(right_line));
+
 	
 	
    	 var path = svg.append("path")
