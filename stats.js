@@ -239,6 +239,31 @@ function fun_change()
 }
 
 
+function sides(data,left,right,dim)
+{
+	
+	for(i=0;i<dim;i++)
+	{
+		left[i]=0
+		right[i]=0
+	}
+		 
+	
+		
+	for(i=0;i<data.length;i++)
+	{  
+     bin = parseInt(data[i].shot_distance)
+	 
+	 if(data[i].x <0)
+		 left[bin]=left[bin]+1
+	 else
+		 right[bin]=right[bin]+1
+	 
+	}
+	
+	
+}
+
 
 function most_similar_players(data,name,x)
 {
