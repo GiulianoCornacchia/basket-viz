@@ -80,10 +80,16 @@
 <div class="container-fluid">
 
 	 <div class="row">	
+	
+			 
 		<div class="col-md-4 "> 
-				<div id="graph"> </div> <div id="info_player"> </div> 
+				<div> <h1>NBA Shot Analytics </h1><h5><b>by Giuliano Cornacchia</b></h5> <h5>Select a player from the similarity graph or using the search bar. </h5></div> <div id="graph"> </div> <div id="info_player"> </div> 
 		</div>
+		
+
+		
 		<div class="col-md-5 padding-0"> <div id="msp"> </div> </div>
+		
 		<div class="col-md-3">
 			<div class="col-md-5 padding-0">
 				<select name="years" onchange="fun1(this.value)" id="anno">
@@ -100,6 +106,7 @@
 		  </div>			
 		</div>
 
+		
 		
    </div>
 	
@@ -195,13 +202,6 @@
 
 
 	
-	
-	
-	
-
-	
-		
-	
 
 <script>
 window.onresize = function(event) {
@@ -209,8 +209,8 @@ window.onresize = function(event) {
 };
 
 
-current_year=2014	
-	
+current_year=2014
+
 function fun1(val)
 {
 	set_tags(val)
@@ -238,7 +238,6 @@ function fun1(val)
 	});
 
 }
-
 
 
 filter_flag=[]
