@@ -1,0 +1,27 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jabari Bird,2,10,24,1,Cutting Dunk Shot,0,-3,-4,True
+Jabari Bird,2,8,40,1,Cutting Dunk Shot,0,-1,2,True
+Jabari Bird,2,9,47,1,Cutting Layup Shot,0,6,2,True
+Jabari Bird,2,7,35,1,Cutting Layup Shot,0,7,5,True
+Jabari Bird,4,9,18,1,Cutting Layup Shot,0,0,6,True
+Jabari Bird,2,7,38,1,Cutting Layup Shot,0,4,4,True
+Jabari Bird,2,7,3,1,Cutting Layup Shot,0,8,-1,True
+Jabari Bird,4,0,54,1,Driving Dunk Shot,1,6,10,True
+Jabari Bird,2,0,17,1,Driving Layup Shot,0,6,-4,True
+Jabari Bird,2,4,51,0,Driving Layup Shot,1,13,1,True
+Jabari Bird,4,3,59,0,Driving Layup Shot,1,-18,-3,True
+Jabari Bird,3,0,18,0,Driving Layup Shot,1,11,6,True
+Jabari Bird,2,7,35,1,Driving Layup Shot,1,3,13,True
+Jabari Bird,3,11,27,0,Driving Layup Shot,2,24,6,True
+Jabari Bird,4,2,19,0,Fadeaway Jump Shot,16,-33,165,True
+Jabari Bird,3,5,19,0,Jump Shot,28,-150,244,False
+Jabari Bird,2,11,10,0,Jump Shot,26,-196,179,False
+Jabari Bird,4,1,11,1,Jump Shot,26,-21,261,False
+Jabari Bird,4,7,9,1,Jump Shot,22,225,46,False
+Jabari Bird,1,1,30,1,Jump Shot,23,230,17,False
+Jabari Bird,1,2,32,0,Jump Shot,24,-197,152,False
+Jabari Bird,4,4,45,0,Jump Shot,25,-196,158,False
+Jabari Bird,1,1,7,0,Pullup Jump shot,14,140,38,True
+Jabari Bird,2,4,43,1,Putback Dunk Shot,0,0,-6,True
+Jabari Bird,2,11,14,1,Putback Layup Shot,1,3,16,True
+Jabari Bird,4,1,15,0,Turnaround Fadeaway shot,7,70,37,True

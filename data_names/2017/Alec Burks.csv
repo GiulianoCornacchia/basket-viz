@@ -1,0 +1,389 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Alec Burks,4,3,45,1,Alley Oop Dunk Shot,2,25,-2,True
+Alec Burks,3,0,27,1,Alley Oop Dunk Shot,3,-6,38,True
+Alec Burks,2,0,8,1,Cutting Dunk Shot,1,-11,11,True
+Alec Burks,4,10,4,1,Cutting Dunk Shot,1,-6,10,True
+Alec Burks,2,0,58,1,Cutting Dunk Shot,2,-3,27,True
+Alec Burks,2,8,46,0,Cutting Layup Shot,2,-4,21,True
+Alec Burks,1,1,17,1,Cutting Layup Shot,1,0,12,True
+Alec Burks,1,6,10,0,Cutting Layup Shot,2,-2,26,True
+Alec Burks,4,6,39,1,Cutting Layup Shot,1,2,16,True
+Alec Burks,2,11,3,1,Cutting Layup Shot,1,13,4,True
+Alec Burks,2,11,10,1,Driving Dunk Shot,0,5,7,True
+Alec Burks,2,5,29,0,Driving Dunk Shot,2,-14,20,True
+Alec Burks,4,11,44,1,Driving Dunk Shot,2,18,20,True
+Alec Burks,2,10,1,1,Driving Dunk Shot,1,-19,-1,True
+Alec Burks,2,9,11,1,Driving Dunk Shot,1,-9,10,True
+Alec Burks,4,11,39,1,Driving Dunk Shot,1,-9,10,True
+Alec Burks,4,10,26,0,Driving Finger Roll Layup Shot,1,6,17,True
+Alec Burks,1,4,41,1,Driving Finger Roll Layup Shot,0,-3,1,True
+Alec Burks,4,0,16,1,Driving Finger Roll Layup Shot,1,5,11,True
+Alec Burks,1,2,33,1,Driving Floating Bank Jump Shot,11,-99,62,True
+Alec Burks,2,10,10,1,Driving Floating Bank Jump Shot,9,-33,84,True
+Alec Burks,4,11,16,1,Driving Floating Bank Jump Shot,1,-3,16,True
+Alec Burks,3,1,50,0,Driving Floating Bank Jump Shot,5,49,20,True
+Alec Burks,4,11,21,1,Driving Floating Bank Jump Shot,6,-49,40,True
+Alec Burks,2,8,17,0,Driving Floating Bank Jump Shot,8,52,67,True
+Alec Burks,3,4,9,0,Driving Floating Bank Jump Shot,11,103,48,True
+Alec Burks,1,0,33,0,Driving Floating Bank Jump Shot,11,93,64,True
+Alec Burks,1,0,0,0,Driving Floating Bank Jump Shot,2,5,24,True
+Alec Burks,3,4,29,0,Driving Floating Bank Jump Shot,7,-50,53,True
+Alec Burks,1,1,46,1,Driving Floating Bank Jump Shot,4,18,39,True
+Alec Burks,3,6,2,0,Driving Floating Jump Shot,9,47,84,True
+Alec Burks,4,9,44,1,Driving Floating Jump Shot,3,30,13,True
+Alec Burks,4,10,7,1,Driving Floating Jump Shot,6,14,61,True
+Alec Burks,1,1,43,1,Driving Floating Jump Shot,10,81,70,True
+Alec Burks,3,4,54,1,Driving Floating Jump Shot,9,-13,96,True
+Alec Burks,4,9,25,1,Driving Floating Jump Shot,4,-28,31,True
+Alec Burks,1,3,16,0,Driving Floating Jump Shot,8,-43,75,True
+Alec Burks,4,3,7,0,Driving Floating Jump Shot,6,-26,55,True
+Alec Burks,2,9,29,1,Driving Floating Jump Shot,8,40,75,True
+Alec Burks,2,10,49,1,Driving Floating Jump Shot,5,-30,43,True
+Alec Burks,3,0,44,0,Driving Floating Jump Shot,6,2,62,True
+Alec Burks,1,2,1,0,Driving Layup Shot,2,24,16,True
+Alec Burks,2,9,37,0,Driving Layup Shot,2,21,4,True
+Alec Burks,4,2,2,1,Driving Layup Shot,1,3,11,True
+Alec Burks,3,4,13,1,Driving Layup Shot,1,-17,8,True
+Alec Burks,3,8,58,0,Driving Layup Shot,2,18,9,True
+Alec Burks,4,0,32,0,Driving Layup Shot,1,-12,5,True
+Alec Burks,2,6,44,0,Driving Layup Shot,3,14,28,True
+Alec Burks,3,1,42,1,Driving Layup Shot,2,-19,21,True
+Alec Burks,1,0,30,0,Driving Layup Shot,4,27,31,True
+Alec Burks,2,8,4,1,Driving Layup Shot,1,-17,5,True
+Alec Burks,3,0,0,0,Driving Layup Shot,3,-16,27,True
+Alec Burks,2,10,25,0,Driving Layup Shot,2,16,25,True
+Alec Burks,3,0,2,0,Driving Layup Shot,3,20,25,True
+Alec Burks,1,5,0,0,Driving Layup Shot,2,17,11,True
+Alec Burks,4,7,51,1,Driving Layup Shot,1,0,14,True
+Alec Burks,4,7,20,1,Driving Layup Shot,2,-17,11,True
+Alec Burks,4,5,57,0,Driving Layup Shot,2,-20,-1,True
+Alec Burks,4,11,26,1,Driving Layup Shot,0,6,5,True
+Alec Burks,2,10,51,0,Driving Layup Shot,5,-14,58,True
+Alec Burks,2,11,21,0,Driving Layup Shot,2,-3,29,True
+Alec Burks,3,1,0,1,Driving Layup Shot,1,10,0,True
+Alec Burks,1,0,37,0,Driving Layup Shot,4,-3,46,True
+Alec Burks,1,1,49,0,Driving Layup Shot,2,12,17,True
+Alec Burks,2,11,9,0,Driving Layup Shot,4,-22,34,True
+Alec Burks,3,2,32,0,Driving Layup Shot,3,-4,36,True
+Alec Burks,2,11,36,0,Driving Layup Shot,1,19,2,True
+Alec Burks,1,1,5,1,Driving Layup Shot,2,24,7,True
+Alec Burks,2,10,46,0,Driving Layup Shot,3,-23,28,True
+Alec Burks,2,8,13,0,Driving Layup Shot,8,8,85,True
+Alec Burks,3,0,2,0,Driving Layup Shot,4,-9,41,True
+Alec Burks,2,9,54,0,Driving Layup Shot,2,-20,13,True
+Alec Burks,1,4,26,1,Driving Layup Shot,1,0,16,True
+Alec Burks,1,3,43,1,Driving Layup Shot,3,-23,22,True
+Alec Burks,2,7,56,0,Driving Layup Shot,3,32,10,True
+Alec Burks,4,6,12,1,Driving Layup Shot,2,19,11,True
+Alec Burks,4,7,49,1,Driving Layup Shot,2,22,15,True
+Alec Burks,1,0,1,0,Driving Layup Shot,2,24,16,True
+Alec Burks,4,11,8,0,Driving Layup Shot,1,-8,15,True
+Alec Burks,2,8,24,0,Driving Layup Shot,4,17,42,True
+Alec Burks,4,10,33,1,Driving Layup Shot,3,8,32,True
+Alec Burks,2,6,25,0,Driving Layup Shot,5,49,20,True
+Alec Burks,2,9,45,0,Driving Layup Shot,1,-5,16,True
+Alec Burks,3,5,25,0,Driving Layup Shot,4,2,49,True
+Alec Burks,1,2,45,0,Driving Layup Shot,6,-55,36,True
+Alec Burks,2,10,59,1,Driving Layup Shot,1,15,12,True
+Alec Burks,4,1,12,0,Driving Layup Shot,3,35,17,True
+Alec Burks,4,5,15,0,Driving Layup Shot,2,14,17,True
+Alec Burks,1,0,50,1,Driving Layup Shot,2,-20,7,True
+Alec Burks,3,4,39,1,Driving Layup Shot,1,-14,6,True
+Alec Burks,3,4,27,1,Driving Layup Shot,1,-6,15,True
+Alec Burks,2,10,37,0,Driving Layup Shot,1,15,13,True
+Alec Burks,4,11,27,0,Driving Layup Shot,1,-6,8,True
+Alec Burks,2,7,35,1,Driving Reverse Layup Shot,1,-17,10,True
+Alec Burks,4,10,5,1,Driving Reverse Layup Shot,2,-21,6,True
+Alec Burks,4,11,6,0,Driving Reverse Layup Shot,2,-19,7,True
+Alec Burks,4,1,39,0,Driving Reverse Layup Shot,2,-16,17,True
+Alec Burks,4,3,10,1,Driving Reverse Layup Shot,1,14,10,True
+Alec Burks,3,0,19,1,Driving Reverse Layup Shot,1,18,8,True
+Alec Burks,4,11,34,1,Driving Reverse Layup Shot,2,-21,-1,True
+Alec Burks,4,8,11,1,Driving Reverse Layup Shot,2,20,5,True
+Alec Burks,2,7,54,1,Driving Reverse Layup Shot,3,33,13,True
+Alec Burks,2,11,5,0,Driving Reverse Layup Shot,4,22,34,True
+Alec Burks,3,10,55,0,Driving Reverse Layup Shot,1,13,1,True
+Alec Burks,4,8,45,1,Driving Reverse Layup Shot,1,-18,6,True
+Alec Burks,2,6,25,1,Driving Reverse Layup Shot,1,-9,17,True
+Alec Burks,3,3,17,1,Dunk Shot,1,1,15,True
+Alec Burks,2,5,42,1,Dunk Shot,2,2,23,True
+Alec Burks,4,2,35,0,Fadeaway Jump Shot,14,-58,129,True
+Alec Burks,2,7,45,0,Fadeaway Jump Shot,9,-1,99,True
+Alec Burks,4,4,2,0,Fadeaway Jump Shot,12,58,111,True
+Alec Burks,1,3,47,1,Fadeaway Jump Shot,19,-1,191,True
+Alec Burks,1,3,47,0,Fadeaway Jump Shot,13,-43,130,True
+Alec Burks,1,0,3,0,Fadeaway Jump Shot,15,7,158,True
+Alec Burks,4,3,49,1,Finger Roll Layup Shot,1,1,13,True
+Alec Burks,1,1,25,0,Floating Jump shot,4,-36,33,True
+Alec Burks,2,9,15,0,Floating Jump shot,11,54,96,True
+Alec Burks,4,6,43,1,Floating Jump shot,12,57,111,True
+Alec Burks,3,3,35,1,Floating Jump shot,10,64,86,True
+Alec Burks,1,2,17,1,Floating Jump shot,11,-90,67,True
+Alec Burks,3,4,55,1,Floating Jump shot,12,-59,114,True
+Alec Burks,2,0,28,0,Floating Jump shot,11,-82,75,True
+Alec Burks,4,10,0,1,Floating Jump shot,9,11,90,True
+Alec Burks,2,8,1,0,Floating Jump shot,11,-19,110,True
+Alec Burks,1,4,40,0,Floating Jump shot,9,77,59,True
+Alec Burks,3,4,53,0,Floating Jump shot,5,-27,53,True
+Alec Burks,1,3,17,1,Floating Jump shot,7,33,67,True
+Alec Burks,3,2,7,0,Floating Jump shot,9,36,88,True
+Alec Burks,1,3,57,0,Floating Jump shot,12,1,125,True
+Alec Burks,2,10,4,0,Floating Jump shot,5,48,15,True
+Alec Burks,4,2,0,1,Floating Jump shot,8,21,79,True
+Alec Burks,1,0,1,1,Floating Jump shot,4,10,47,True
+Alec Burks,2,10,38,1,Hook Bank Shot,13,105,80,True
+Alec Burks,2,5,21,0,Hook Shot,9,51,75,True
+Alec Burks,4,9,50,0,Jump Bank Shot,6,25,62,True
+Alec Burks,4,6,37,0,Jump Shot,25,46,247,False
+Alec Burks,2,11,10,1,Jump Shot,26,59,256,False
+Alec Burks,3,2,42,0,Jump Shot,25,-127,225,False
+Alec Burks,1,0,22,0,Jump Shot,25,-47,247,False
+Alec Burks,4,8,1,0,Jump Shot,25,16,256,False
+Alec Burks,2,5,3,1,Jump Shot,22,228,-6,False
+Alec Burks,2,6,41,1,Jump Shot,24,122,216,False
+Alec Burks,4,2,28,0,Jump Shot,25,145,208,False
+Alec Burks,4,1,27,1,Jump Shot,23,21,234,True
+Alec Burks,1,5,10,1,Jump Shot,26,159,216,False
+Alec Burks,4,11,5,0,Jump Shot,4,42,7,True
+Alec Burks,4,1,25,1,Jump Shot,25,120,229,False
+Alec Burks,3,5,31,1,Jump Shot,25,-46,253,False
+Alec Burks,2,9,43,0,Jump Shot,25,-209,146,False
+Alec Burks,2,10,16,0,Jump Shot,16,3,160,True
+Alec Burks,4,9,59,1,Jump Shot,24,52,243,False
+Alec Burks,1,1,56,0,Jump Shot,9,-65,69,True
+Alec Burks,4,0,21,0,Jump Shot,27,111,248,False
+Alec Burks,1,0,49,0,Jump Shot,25,113,226,False
+Alec Burks,2,7,48,0,Jump Shot,2,-20,6,True
+Alec Burks,1,3,2,0,Jump Shot,25,81,237,False
+Alec Burks,1,3,52,1,Jump Shot,23,235,19,False
+Alec Burks,1,3,40,0,Jump Shot,26,-130,231,False
+Alec Burks,4,3,51,0,Jump Shot,13,7,132,True
+Alec Burks,4,10,35,0,Jump Shot,22,-226,-8,False
+Alec Burks,1,2,47,1,Jump Shot,26,-9,269,False
+Alec Burks,1,2,42,0,Jump Shot,23,223,86,False
+Alec Burks,2,3,16,0,Jump Shot,22,221,0,False
+Alec Burks,1,2,11,0,Jump Shot,13,-102,94,True
+Alec Burks,2,0,12,0,Jump Shot,22,223,16,False
+Alec Burks,1,5,47,1,Jump Shot,26,-65,258,False
+Alec Burks,4,11,16,0,Jump Shot,27,76,261,False
+Alec Burks,3,1,27,1,Jump Shot,16,136,101,True
+Alec Burks,4,9,53,1,Jump Shot,22,-228,-13,False
+Alec Burks,1,2,20,0,Jump Shot,25,-192,172,False
+Alec Burks,4,8,44,0,Jump Shot,22,-227,-12,False
+Alec Burks,1,0,44,0,Jump Shot,24,-152,190,False
+Alec Burks,1,3,23,0,Jump Shot,16,-65,147,True
+Alec Burks,2,10,51,0,Jump Shot,26,-82,252,False
+Alec Burks,2,11,43,0,Jump Shot,28,-187,217,False
+Alec Burks,4,8,24,1,Jump Shot,24,-230,79,False
+Alec Burks,3,4,22,0,Jump Shot,22,-223,56,False
+Alec Burks,2,7,0,0,Jump Shot,25,74,242,False
+Alec Burks,4,1,41,0,Jump Shot,22,224,34,False
+Alec Burks,3,1,40,0,Jump Shot,25,33,249,False
+Alec Burks,2,10,23,0,Jump Shot,23,230,4,False
+Alec Burks,2,9,39,1,Jump Shot,24,168,176,False
+Alec Burks,2,9,25,0,Jump Shot,22,227,-11,False
+Alec Burks,1,3,9,1,Jump Shot,25,139,215,False
+Alec Burks,4,8,53,1,Jump Shot,24,-16,243,False
+Alec Burks,4,9,45,0,Jump Shot,24,14,246,False
+Alec Burks,1,2,3,0,Jump Shot,26,-171,202,False
+Alec Burks,3,1,58,1,Jump Shot,25,-154,209,False
+Alec Burks,4,9,53,1,Jump Shot,24,-2,245,False
+Alec Burks,1,1,25,0,Jump Shot,3,22,25,True
+Alec Burks,4,10,56,0,Jump Shot,25,123,226,False
+Alec Burks,4,1,36,1,Jump Shot,25,-190,164,False
+Alec Burks,4,0,37,1,Jump Shot,23,231,0,False
+Alec Burks,4,1,5,0,Jump Shot,24,-63,241,False
+Alec Burks,2,8,18,0,Jump Shot,22,-225,11,False
+Alec Burks,2,5,50,0,Jump Shot,24,119,218,False
+Alec Burks,4,10,59,0,Jump Shot,26,-142,226,False
+Alec Burks,2,7,37,0,Jump Shot,5,-5,58,True
+Alec Burks,4,7,40,0,Jump Shot,26,-116,238,False
+Alec Burks,4,7,21,0,Jump Shot,26,109,243,False
+Alec Burks,1,1,30,0,Jump Shot,25,3,257,False
+Alec Burks,4,3,47,0,Jump Shot,24,-235,49,False
+Alec Burks,4,8,59,0,Jump Shot,25,-111,233,False
+Alec Burks,2,10,29,1,Jump Shot,22,-228,20,False
+Alec Burks,4,10,43,0,Jump Shot,22,-226,3,False
+Alec Burks,1,4,8,1,Jump Shot,23,-230,0,False
+Alec Burks,3,1,34,0,Jump Shot,28,125,251,False
+Alec Burks,3,0,58,0,Jump Shot,24,143,201,False
+Alec Burks,1,0,9,0,Jump Shot,25,82,244,False
+Alec Burks,1,2,32,0,Jump Shot,24,97,228,False
+Alec Burks,3,1,47,1,Jump Shot,24,185,167,False
+Alec Burks,3,10,22,0,Jump Shot,25,40,248,False
+Alec Burks,1,0,43,1,Jump Shot,25,-137,211,False
+Alec Burks,3,0,1,0,Jump Shot,30,181,251,False
+Alec Burks,4,4,9,0,Jump Shot,20,-194,68,True
+Alec Burks,2,10,47,0,Jump Shot,24,27,247,False
+Alec Burks,4,10,42,1,Jump Shot,24,-193,156,False
+Alec Burks,4,11,45,1,Jump Shot,22,-136,176,True
+Alec Burks,4,8,22,1,Jump Shot,25,224,113,False
+Alec Burks,4,9,5,1,Jump Shot,26,-109,239,False
+Alec Burks,3,0,0,0,Jump Shot,48,-216,429,False
+Alec Burks,4,3,14,1,Jump Shot,27,198,188,False
+Alec Burks,4,0,50,1,Jump Shot,20,25,201,True
+Alec Burks,4,9,20,0,Jump Shot,24,223,111,False
+Alec Burks,4,10,36,0,Jump Shot,25,165,200,False
+Alec Burks,4,2,59,0,Jump Shot,24,83,229,False
+Alec Burks,1,4,38,0,Jump Shot,24,30,241,False
+Alec Burks,4,10,34,0,Jump Shot,18,114,148,True
+Alec Burks,4,5,50,1,Jump Shot,24,63,237,False
+Alec Burks,3,1,25,0,Jump Shot,27,-159,227,False
+Alec Burks,2,10,34,0,Jump Shot,22,228,0,False
+Alec Burks,3,0,55,0,Jump Shot,20,110,171,True
+Alec Burks,1,1,41,0,Jump Shot,23,232,27,False
+Alec Burks,1,0,40,0,Jump Shot,24,-122,213,False
+Alec Burks,4,10,42,1,Jump Shot,25,-157,200,False
+Alec Burks,4,8,16,1,Jump Shot,25,-26,258,False
+Alec Burks,2,8,32,0,Jump Shot,25,125,225,False
+Alec Burks,1,3,50,0,Jump Shot,25,-110,231,False
+Alec Burks,1,3,11,0,Jump Shot,24,211,115,False
+Alec Burks,4,1,43,1,Jump Shot,11,14,117,True
+Alec Burks,4,7,29,0,Jump Shot,24,73,237,False
+Alec Burks,2,4,19,0,Jump Shot,25,150,210,False
+Alec Burks,2,9,15,0,Jump Shot,17,107,138,True
+Alec Burks,3,0,47,1,Jump Shot,24,-150,189,False
+Alec Burks,3,2,36,0,Jump Shot,23,-231,57,False
+Alec Burks,3,5,26,0,Jump Shot,25,17,255,False
+Alec Burks,2,7,6,0,Jump Shot,25,-111,234,False
+Alec Burks,2,11,39,0,Jump Shot,23,236,3,False
+Alec Burks,1,3,16,1,Jump Shot,25,-98,232,False
+Alec Burks,4,2,47,0,Jump Shot,25,131,215,False
+Alec Burks,1,2,19,0,Jump Shot,24,58,243,False
+Alec Burks,4,0,25,1,Jump Shot,23,-204,125,False
+Alec Burks,2,9,54,0,Jump Shot,26,152,216,False
+Alec Burks,3,1,34,1,Jump Shot,25,94,234,False
+Alec Burks,1,1,2,1,Jump Shot,23,-235,8,False
+Alec Burks,2,7,49,1,Jump Shot,24,187,164,False
+Alec Burks,1,1,24,0,Jump Shot,22,-229,20,False
+Alec Burks,3,0,3,0,Jump Shot,14,0,142,True
+Alec Burks,1,2,19,1,Layup Shot,0,-1,8,True
+Alec Burks,2,9,31,0,Layup Shot,1,8,11,True
+Alec Burks,2,11,25,0,Layup Shot,10,-100,5,True
+Alec Burks,4,9,50,1,Layup Shot,2,23,8,True
+Alec Burks,3,2,12,0,Layup Shot,4,-41,17,True
+Alec Burks,2,8,5,0,Layup Shot,5,24,48,True
+Alec Burks,4,8,18,0,Layup Shot,2,3,29,True
+Alec Burks,2,9,22,0,Layup Shot,3,-16,33,True
+Alec Burks,2,9,16,1,Layup Shot,2,-19,15,True
+Alec Burks,4,0,32,1,Layup Shot,0,-2,9,True
+Alec Burks,2,3,58,0,Layup Shot,5,-31,48,True
+Alec Burks,3,0,59,0,Layup Shot,1,-3,14,True
+Alec Burks,1,1,42,0,Layup Shot,1,19,6,True
+Alec Burks,2,7,31,0,Layup Shot,2,-18,13,True
+Alec Burks,3,0,54,0,Pullup Jump shot,18,106,146,True
+Alec Burks,4,9,18,0,Pullup Jump shot,6,-46,50,True
+Alec Burks,1,1,16,1,Pullup Jump shot,16,-3,168,True
+Alec Burks,3,1,28,1,Pullup Jump shot,18,114,149,True
+Alec Burks,4,10,44,0,Pullup Jump shot,10,4,105,True
+Alec Burks,1,3,1,1,Pullup Jump shot,21,111,185,True
+Alec Burks,1,1,13,0,Pullup Jump shot,26,-110,237,False
+Alec Burks,3,1,2,1,Pullup Jump shot,25,-81,241,False
+Alec Burks,3,1,13,1,Pullup Jump shot,14,116,82,True
+Alec Burks,1,5,6,1,Pullup Jump shot,14,-100,109,True
+Alec Burks,1,0,56,0,Pullup Jump shot,25,73,243,False
+Alec Burks,1,5,1,1,Pullup Jump shot,26,79,255,False
+Alec Burks,1,2,30,0,Pullup Jump shot,19,93,173,True
+Alec Burks,1,2,15,1,Pullup Jump shot,16,107,122,True
+Alec Burks,1,1,14,0,Pullup Jump shot,24,1,246,False
+Alec Burks,1,1,32,1,Pullup Jump shot,25,-79,244,False
+Alec Burks,4,3,40,0,Pullup Jump shot,28,-83,268,False
+Alec Burks,2,9,15,0,Pullup Jump shot,12,85,89,True
+Alec Burks,2,8,2,0,Pullup Jump shot,14,-136,58,True
+Alec Burks,4,9,13,0,Pullup Jump shot,25,70,244,False
+Alec Burks,2,1,30,1,Pullup Jump shot,14,113,91,True
+Alec Burks,4,10,35,1,Pullup Jump shot,25,-120,226,False
+Alec Burks,3,2,11,1,Pullup Jump shot,12,-2,129,True
+Alec Burks,2,11,41,0,Pullup Jump shot,19,106,163,True
+Alec Burks,2,5,19,1,Pullup Jump shot,11,63,99,True
+Alec Burks,4,10,45,0,Pullup Jump shot,16,132,104,True
+Alec Burks,3,1,5,1,Pullup Jump shot,18,136,121,True
+Alec Burks,1,2,23,0,Pullup Jump shot,24,31,248,False
+Alec Burks,2,2,31,0,Pullup Jump shot,8,86,-6,True
+Alec Burks,2,11,26,0,Pullup Jump shot,24,127,213,False
+Alec Burks,1,3,26,0,Pullup Jump shot,15,0,158,True
+Alec Burks,1,2,7,0,Pullup Jump shot,25,-24,249,False
+Alec Burks,1,2,43,0,Pullup Jump shot,26,109,238,False
+Alec Burks,4,8,37,0,Pullup Jump shot,24,89,226,False
+Alec Burks,2,9,9,1,Pullup Jump shot,15,36,152,True
+Alec Burks,3,6,23,1,Pullup Jump shot,19,62,180,True
+Alec Burks,2,10,32,0,Pullup Jump shot,20,-135,155,True
+Alec Burks,2,11,48,0,Pullup Jump shot,13,-72,113,True
+Alec Burks,2,8,32,1,Pullup Jump shot,15,-96,122,True
+Alec Burks,2,10,15,0,Pullup Jump shot,25,11,256,False
+Alec Burks,3,3,30,1,Pullup Jump shot,9,66,69,True
+Alec Burks,3,2,51,0,Pullup Jump shot,24,119,218,False
+Alec Burks,1,2,11,0,Pullup Jump shot,25,-112,227,False
+Alec Burks,3,4,24,0,Pullup Jump shot,11,33,111,True
+Alec Burks,4,10,4,1,Pullup Jump shot,15,87,123,True
+Alec Burks,4,9,55,1,Pullup Jump shot,8,-57,61,True
+Alec Burks,3,2,6,0,Pullup Jump shot,15,114,111,True
+Alec Burks,2,6,23,0,Pullup Jump shot,19,160,104,True
+Alec Burks,1,1,35,0,Pullup Jump shot,14,0,146,True
+Alec Burks,4,8,11,1,Pullup Jump shot,26,-149,215,False
+Alec Burks,4,6,54,1,Pullup Jump shot,7,1,79,True
+Alec Burks,2,9,39,0,Pullup Jump shot,27,136,234,False
+Alec Burks,4,10,56,0,Pullup Jump shot,19,-115,159,True
+Alec Burks,1,1,37,0,Pullup Jump shot,16,-53,161,True
+Alec Burks,1,0,0,0,Pullup Jump shot,25,5,253,False
+Alec Burks,2,3,58,0,Pullup Jump shot,19,122,157,True
+Alec Burks,1,4,28,0,Pullup Jump shot,18,31,178,True
+Alec Burks,3,0,0,0,Pullup Jump shot,21,105,190,True
+Alec Burks,4,8,59,1,Pullup Jump shot,17,-32,172,True
+Alec Burks,4,9,56,0,Pullup Jump shot,14,11,147,True
+Alec Burks,4,11,26,0,Pullup Jump shot,17,-142,105,True
+Alec Burks,1,3,1,1,Pullup Jump shot,15,82,136,True
+Alec Burks,1,1,9,0,Pullup Jump shot,17,95,151,True
+Alec Burks,3,1,27,0,Pullup Jump shot,14,-36,141,True
+Alec Burks,1,2,28,0,Pullup Jump shot,11,96,61,True
+Alec Burks,4,10,40,1,Pullup Jump shot,24,130,211,False
+Alec Burks,1,2,47,0,Pullup Jump shot,10,83,63,True
+Alec Burks,4,4,42,1,Pullup Jump shot,14,-16,146,True
+Alec Burks,3,7,32,1,Pullup Jump shot,17,-138,113,True
+Alec Burks,2,11,21,1,Pullup Jump shot,14,-68,130,True
+Alec Burks,2,9,52,0,Pullup Jump shot,15,43,145,True
+Alec Burks,1,2,10,0,Pullup Jump shot,22,-78,209,True
+Alec Burks,3,2,21,1,Pullup Jump shot,15,49,148,True
+Alec Burks,1,2,6,1,Pullup Jump shot,24,-131,211,False
+Alec Burks,4,5,11,0,Pullup Jump shot,17,41,172,True
+Alec Burks,4,1,1,1,Putback Dunk Shot,0,-8,4,True
+Alec Burks,2,9,49,1,Reverse Dunk Shot,2,20,19,True
+Alec Burks,3,0,25,0,Reverse Layup Shot,0,-2,5,True
+Alec Burks,4,7,4,0,Reverse Layup Shot,1,13,9,True
+Alec Burks,1,0,30,1,Reverse Layup Shot,2,-17,13,True
+Alec Burks,2,4,4,1,Running Dunk Shot,0,3,5,True
+Alec Burks,2,10,46,1,Running Dunk Shot,1,15,13,True
+Alec Burks,4,5,1,1,Running Dunk Shot,1,3,11,True
+Alec Burks,1,0,35,1,Running Dunk Shot,2,-3,22,True
+Alec Burks,1,0,0,0,Running Jump Shot,26,-107,239,False
+Alec Burks,2,11,1,1,Running Layup Shot,1,13,7,True
+Alec Burks,1,0,30,1,Running Layup Shot,2,-13,17,True
+Alec Burks,2,8,32,0,Running Layup Shot,2,-9,22,True
+Alec Burks,4,4,7,0,Running Layup Shot,6,-44,51,True
+Alec Burks,1,0,25,1,Running Layup Shot,1,9,5,True
+Alec Burks,4,10,8,0,Running Layup Shot,2,20,4,True
+Alec Burks,2,9,23,1,Running Layup Shot,1,18,-1,True
+Alec Burks,2,9,8,1,Running Layup Shot,0,-7,1,True
+Alec Burks,2,8,17,1,Running Layup Shot,1,3,10,True
+Alec Burks,1,0,0,0,Running Pull-Up Jump Shot,30,129,279,False
+Alec Burks,3,0,0,1,Running Pull-Up Jump Shot,21,87,194,True
+Alec Burks,3,0,0,1,Running Pull-Up Jump Shot,33,155,294,False
+Alec Burks,2,8,22,0,Running Reverse Layup Shot,2,21,11,True
+Alec Burks,3,5,57,0,Step Back Jump shot,19,65,180,True
+Alec Burks,4,7,38,0,Step Back Jump shot,26,87,248,False
+Alec Burks,4,8,47,1,Step Back Jump shot,25,62,245,False
+Alec Burks,4,3,31,0,Step Back Jump shot,20,-194,62,True
+Alec Burks,2,9,54,0,Step Back Jump shot,25,159,198,False
+Alec Burks,2,5,36,1,Step Back Jump shot,24,-104,227,False
+Alec Burks,2,8,42,0,Step Back Jump shot,20,-122,169,True
+Alec Burks,4,8,19,0,Step Back Jump shot,24,87,231,False
+Alec Burks,3,1,39,0,Step Back Jump shot,26,-101,242,False
+Alec Burks,2,9,10,1,Tip Layup Shot,0,0,-6,True
+Alec Burks,4,4,3,0,Tip Layup Shot,0,0,-6,True
+Alec Burks,3,1,59,0,Turnaround Fadeaway Bank Jump Shot,5,51,25,True
+Alec Burks,3,2,59,0,Turnaround Fadeaway Bank Jump Shot,8,-1,88,True
+Alec Burks,3,2,21,1,Turnaround Fadeaway Bank Jump Shot,9,-87,35,True
+Alec Burks,4,9,47,0,Turnaround Fadeaway shot,6,5,64,True
+Alec Burks,1,2,54,0,Turnaround Jump Shot,6,-40,48,True
+Alec Burks,2,11,44,0,Turnaround Jump Shot,13,55,118,True
+Alec Burks,3,0,40,0,Turnaround Jump Shot,14,7,148,True

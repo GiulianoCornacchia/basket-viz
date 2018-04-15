@@ -1,0 +1,747 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Tyreke Evans,3,0,1,1,Alley Oop Layup shot,2,4,27,True
+Tyreke Evans,1,7,23,1,Cutting Finger Roll Layup Shot,1,6,11,True
+Tyreke Evans,2,10,21,1,Cutting Layup Shot,1,-9,9,True
+Tyreke Evans,3,9,2,1,Cutting Layup Shot,0,-5,6,True
+Tyreke Evans,3,3,7,0,Cutting Layup Shot,0,-1,5,True
+Tyreke Evans,2,7,18,1,Cutting Layup Shot,1,13,4,True
+Tyreke Evans,1,4,13,1,Cutting Layup Shot,4,38,17,True
+Tyreke Evans,2,0,24,0,Cutting Layup Shot,1,-2,15,True
+Tyreke Evans,1,7,49,0,Cutting Layup Shot,1,-5,11,True
+Tyreke Evans,1,11,44,1,Cutting Layup Shot,0,-4,-1,True
+Tyreke Evans,1,2,42,1,Cutting Layup Shot,2,2,25,True
+Tyreke Evans,2,7,35,1,Cutting Layup Shot,1,-9,9,True
+Tyreke Evans,4,7,32,1,Driving Finger Roll Layup Shot,4,-6,46,True
+Tyreke Evans,1,10,32,0,Driving Finger Roll Layup Shot,0,1,4,True
+Tyreke Evans,4,9,56,1,Driving Finger Roll Layup Shot,3,26,26,True
+Tyreke Evans,2,3,51,0,Driving Finger Roll Layup Shot,7,55,48,True
+Tyreke Evans,3,10,26,1,Driving Finger Roll Layup Shot,1,6,12,True
+Tyreke Evans,4,7,54,1,Driving Finger Roll Layup Shot,0,4,2,True
+Tyreke Evans,1,3,43,1,Driving Finger Roll Layup Shot,2,13,19,True
+Tyreke Evans,3,6,14,1,Driving Finger Roll Layup Shot,3,2,32,True
+Tyreke Evans,2,0,27,1,Driving Finger Roll Layup Shot,3,-2,31,True
+Tyreke Evans,4,3,11,1,Driving Finger Roll Layup Shot,1,-8,12,True
+Tyreke Evans,3,4,24,1,Driving Finger Roll Layup Shot,1,0,10,True
+Tyreke Evans,4,1,28,1,Driving Finger Roll Layup Shot,0,-7,1,True
+Tyreke Evans,3,6,18,1,Driving Finger Roll Layup Shot,0,-5,6,True
+Tyreke Evans,2,2,21,1,Driving Finger Roll Layup Shot,1,11,7,True
+Tyreke Evans,2,1,1,1,Driving Finger Roll Layup Shot,2,23,6,True
+Tyreke Evans,1,5,45,0,Driving Finger Roll Layup Shot,2,9,26,True
+Tyreke Evans,4,10,19,0,Driving Finger Roll Layup Shot,1,6,9,True
+Tyreke Evans,2,6,20,0,Driving Finger Roll Layup Shot,0,5,5,True
+Tyreke Evans,3,6,31,1,Driving Finger Roll Layup Shot,1,-11,7,True
+Tyreke Evans,4,0,7,1,Driving Finger Roll Layup Shot,1,11,13,True
+Tyreke Evans,4,7,51,1,Driving Finger Roll Layup Shot,1,5,16,True
+Tyreke Evans,4,9,42,0,Driving Finger Roll Layup Shot,0,2,5,True
+Tyreke Evans,2,10,45,0,Driving Finger Roll Layup Shot,2,1,25,True
+Tyreke Evans,1,6,25,1,Driving Finger Roll Layup Shot,0,2,9,True
+Tyreke Evans,1,4,9,0,Driving Finger Roll Layup Shot,1,-5,10,True
+Tyreke Evans,4,1,31,1,Driving Finger Roll Layup Shot,3,13,34,True
+Tyreke Evans,4,4,39,0,Driving Finger Roll Layup Shot,1,10,16,True
+Tyreke Evans,2,0,19,1,Driving Finger Roll Layup Shot,1,3,13,True
+Tyreke Evans,1,9,4,1,Driving Finger Roll Layup Shot,2,-13,25,True
+Tyreke Evans,4,10,35,0,Driving Finger Roll Layup Shot,3,-23,21,True
+Tyreke Evans,4,10,16,1,Driving Finger Roll Layup Shot,1,0,12,True
+Tyreke Evans,2,2,36,0,Driving Finger Roll Layup Shot,0,3,8,True
+Tyreke Evans,4,0,28,1,Driving Finger Roll Layup Shot,0,-5,5,True
+Tyreke Evans,2,6,45,0,Driving Floating Bank Jump Shot,3,29,21,True
+Tyreke Evans,1,0,35,1,Driving Floating Bank Jump Shot,2,17,14,True
+Tyreke Evans,4,9,25,0,Driving Floating Bank Jump Shot,1,7,11,True
+Tyreke Evans,2,1,13,1,Driving Floating Bank Jump Shot,5,50,17,True
+Tyreke Evans,2,0,40,1,Driving Floating Bank Jump Shot,2,-18,16,True
+Tyreke Evans,2,5,54,0,Driving Floating Bank Jump Shot,4,44,14,True
+Tyreke Evans,1,0,0,1,Driving Floating Bank Jump Shot,6,43,48,True
+Tyreke Evans,1,10,54,1,Driving Floating Bank Jump Shot,3,22,29,True
+Tyreke Evans,2,0,25,0,Driving Floating Bank Jump Shot,6,63,24,True
+Tyreke Evans,2,8,50,0,Driving Floating Jump Shot,8,49,69,True
+Tyreke Evans,3,2,16,0,Driving Floating Jump Shot,5,16,57,True
+Tyreke Evans,2,7,18,0,Driving Floating Jump Shot,4,-2,48,True
+Tyreke Evans,4,10,8,0,Driving Floating Jump Shot,0,8,5,True
+Tyreke Evans,4,10,37,0,Driving Floating Jump Shot,7,-24,71,True
+Tyreke Evans,4,0,0,0,Driving Floating Jump Shot,1,15,11,True
+Tyreke Evans,4,10,43,0,Driving Floating Jump Shot,4,17,41,True
+Tyreke Evans,1,0,15,0,Driving Floating Jump Shot,5,5,51,True
+Tyreke Evans,2,1,28,1,Driving Floating Jump Shot,1,-1,12,True
+Tyreke Evans,4,4,43,0,Driving Floating Jump Shot,8,-56,68,True
+Tyreke Evans,3,7,42,0,Driving Floating Jump Shot,3,30,26,True
+Tyreke Evans,4,7,59,0,Driving Floating Jump Shot,7,-44,57,True
+Tyreke Evans,2,2,39,1,Driving Floating Jump Shot,7,16,71,True
+Tyreke Evans,4,1,29,0,Driving Floating Jump Shot,3,2,38,True
+Tyreke Evans,3,4,46,1,Driving Floating Jump Shot,6,-25,57,True
+Tyreke Evans,3,7,18,0,Driving Floating Jump Shot,11,-32,113,True
+Tyreke Evans,4,1,22,0,Driving Floating Jump Shot,1,13,11,True
+Tyreke Evans,2,8,56,1,Driving Floating Jump Shot,2,-2,22,True
+Tyreke Evans,2,4,37,1,Driving Layup Shot,1,8,16,True
+Tyreke Evans,2,9,10,1,Driving Layup Shot,1,0,14,True
+Tyreke Evans,3,4,10,0,Driving Layup Shot,1,9,17,True
+Tyreke Evans,3,1,46,0,Driving Layup Shot,2,14,25,True
+Tyreke Evans,2,9,48,0,Driving Layup Shot,1,9,13,True
+Tyreke Evans,1,9,38,0,Driving Layup Shot,1,13,10,True
+Tyreke Evans,4,0,46,1,Driving Layup Shot,2,17,15,True
+Tyreke Evans,1,0,0,0,Driving Layup Shot,1,19,-5,True
+Tyreke Evans,3,9,19,1,Driving Layup Shot,0,3,4,True
+Tyreke Evans,2,6,0,0,Driving Layup Shot,1,6,14,True
+Tyreke Evans,4,4,24,1,Driving Layup Shot,3,8,29,True
+Tyreke Evans,3,4,48,0,Driving Layup Shot,1,5,15,True
+Tyreke Evans,1,1,57,0,Driving Layup Shot,2,-13,21,True
+Tyreke Evans,2,6,46,1,Driving Layup Shot,1,14,8,True
+Tyreke Evans,4,3,24,0,Driving Layup Shot,1,-8,11,True
+Tyreke Evans,2,3,47,1,Driving Layup Shot,2,10,21,True
+Tyreke Evans,3,5,12,1,Driving Layup Shot,1,9,15,True
+Tyreke Evans,4,11,47,1,Driving Layup Shot,1,2,18,True
+Tyreke Evans,4,1,34,0,Driving Layup Shot,1,-11,8,True
+Tyreke Evans,3,8,16,0,Driving Layup Shot,4,24,32,True
+Tyreke Evans,4,0,18,0,Driving Layup Shot,0,-3,5,True
+Tyreke Evans,2,1,7,1,Driving Layup Shot,2,14,19,True
+Tyreke Evans,4,10,48,0,Driving Layup Shot,1,9,12,True
+Tyreke Evans,2,11,31,1,Driving Layup Shot,1,13,5,True
+Tyreke Evans,2,9,6,0,Driving Layup Shot,1,1,19,True
+Tyreke Evans,3,1,15,1,Driving Layup Shot,1,0,15,True
+Tyreke Evans,2,9,12,1,Driving Layup Shot,0,8,5,True
+Tyreke Evans,1,6,2,1,Driving Layup Shot,1,8,8,True
+Tyreke Evans,2,0,32,0,Driving Layup Shot,1,-11,10,True
+Tyreke Evans,1,1,32,0,Driving Layup Shot,1,9,7,True
+Tyreke Evans,3,0,2,1,Driving Layup Shot,0,-8,0,True
+Tyreke Evans,3,1,32,0,Driving Layup Shot,2,11,20,True
+Tyreke Evans,4,0,0,0,Driving Layup Shot,2,-2,21,True
+Tyreke Evans,4,1,25,1,Driving Layup Shot,0,-9,1,True
+Tyreke Evans,4,9,34,0,Driving Layup Shot,1,14,10,True
+Tyreke Evans,2,1,39,1,Driving Layup Shot,0,3,1,True
+Tyreke Evans,3,4,57,1,Driving Layup Shot,1,9,15,True
+Tyreke Evans,4,8,32,0,Driving Layup Shot,2,19,23,True
+Tyreke Evans,1,1,40,1,Driving Layup Shot,0,5,4,True
+Tyreke Evans,1,3,5,0,Driving Layup Shot,3,20,24,True
+Tyreke Evans,1,0,3,0,Driving Layup Shot,2,27,12,True
+Tyreke Evans,3,8,21,0,Driving Layup Shot,2,-10,21,True
+Tyreke Evans,4,0,6,1,Driving Layup Shot,0,3,8,True
+Tyreke Evans,1,2,1,1,Driving Layup Shot,1,8,11,True
+Tyreke Evans,2,3,11,0,Driving Layup Shot,0,1,6,True
+Tyreke Evans,4,4,10,0,Driving Layup Shot,0,0,8,True
+Tyreke Evans,4,11,24,0,Driving Layup Shot,2,-19,16,True
+Tyreke Evans,1,0,50,1,Driving Layup Shot,1,11,10,True
+Tyreke Evans,1,6,51,0,Driving Layup Shot,0,2,4,True
+Tyreke Evans,4,2,44,0,Driving Layup Shot,1,0,16,True
+Tyreke Evans,3,1,32,0,Driving Layup Shot,0,0,4,True
+Tyreke Evans,2,0,46,1,Driving Layup Shot,2,-19,7,True
+Tyreke Evans,4,7,23,1,Driving Layup Shot,1,-5,13,True
+Tyreke Evans,4,1,5,0,Driving Layup Shot,1,8,15,True
+Tyreke Evans,3,8,59,1,Driving Layup Shot,0,1,5,True
+Tyreke Evans,3,0,29,0,Driving Layup Shot,2,17,17,True
+Tyreke Evans,2,1,48,1,Driving Layup Shot,1,9,10,True
+Tyreke Evans,1,0,13,0,Driving Layup Shot,1,-3,13,True
+Tyreke Evans,4,1,5,0,Driving Layup Shot,1,8,13,True
+Tyreke Evans,2,3,38,0,Driving Layup Shot,4,16,37,True
+Tyreke Evans,3,0,4,0,Driving Layup Shot,2,16,17,True
+Tyreke Evans,2,0,11,0,Driving Layup Shot,3,-27,22,True
+Tyreke Evans,2,1,34,1,Driving Layup Shot,3,-16,35,True
+Tyreke Evans,3,0,37,1,Driving Layup Shot,1,10,13,True
+Tyreke Evans,1,8,46,0,Driving Layup Shot,3,-26,20,True
+Tyreke Evans,4,8,5,1,Driving Layup Shot,3,26,22,True
+Tyreke Evans,1,5,42,1,Driving Layup Shot,3,3,31,True
+Tyreke Evans,4,5,2,0,Driving Layup Shot,2,11,18,True
+Tyreke Evans,4,9,24,0,Driving Layup Shot,5,35,46,True
+Tyreke Evans,4,6,52,0,Driving Layup Shot,4,9,44,True
+Tyreke Evans,3,1,4,0,Driving Layup Shot,3,-25,18,True
+Tyreke Evans,2,7,54,1,Driving Layup Shot,0,-1,8,True
+Tyreke Evans,4,11,15,1,Driving Layup Shot,6,-9,64,True
+Tyreke Evans,2,4,27,0,Driving Layup Shot,0,-2,7,True
+Tyreke Evans,1,10,42,0,Driving Layup Shot,0,3,5,True
+Tyreke Evans,4,5,40,1,Driving Layup Shot,0,0,5,True
+Tyreke Evans,4,5,55,1,Driving Layup Shot,1,9,17,True
+Tyreke Evans,2,7,35,0,Driving Layup Shot,1,2,14,True
+Tyreke Evans,4,5,17,1,Driving Layup Shot,0,0,4,True
+Tyreke Evans,4,5,30,0,Driving Layup Shot,2,-2,26,True
+Tyreke Evans,4,5,52,0,Driving Layup Shot,0,-3,9,True
+Tyreke Evans,2,10,9,1,Driving Layup Shot,1,6,15,True
+Tyreke Evans,3,7,15,1,Driving Layup Shot,1,4,15,True
+Tyreke Evans,3,9,47,0,Driving Layup Shot,7,24,66,True
+Tyreke Evans,3,8,42,0,Driving Layup Shot,1,-12,8,True
+Tyreke Evans,3,1,13,1,Driving Layup Shot,2,-12,18,True
+Tyreke Evans,3,6,39,0,Driving Layup Shot,2,5,25,True
+Tyreke Evans,1,10,43,0,Driving Layup Shot,3,0,35,True
+Tyreke Evans,5,3,30,1,Driving Layup Shot,0,-5,7,True
+Tyreke Evans,4,0,25,1,Driving Layup Shot,0,-3,8,True
+Tyreke Evans,4,10,59,1,Driving Layup Shot,0,-2,2,True
+Tyreke Evans,5,4,6,1,Driving Layup Shot,0,-1,5,True
+Tyreke Evans,1,10,6,0,Driving Layup Shot,4,18,42,True
+Tyreke Evans,3,4,18,1,Driving Layup Shot,1,4,17,True
+Tyreke Evans,3,6,13,0,Driving Layup Shot,2,18,10,True
+Tyreke Evans,4,5,22,1,Driving Layup Shot,0,-2,-4,True
+Tyreke Evans,3,9,22,0,Driving Layup Shot,4,-29,29,True
+Tyreke Evans,2,4,28,0,Driving Layup Shot,0,7,6,True
+Tyreke Evans,2,11,48,1,Driving Layup Shot,2,22,10,True
+Tyreke Evans,1,9,43,0,Driving Layup Shot,2,11,19,True
+Tyreke Evans,2,6,37,1,Driving Layup Shot,0,-5,-4,True
+Tyreke Evans,1,8,59,0,Driving Layup Shot,0,9,3,True
+Tyreke Evans,4,2,1,1,Driving Layup Shot,0,0,6,True
+Tyreke Evans,2,10,39,0,Driving Layup Shot,0,2,6,True
+Tyreke Evans,4,7,29,0,Driving Layup Shot,0,-1,8,True
+Tyreke Evans,2,0,10,0,Driving Layup Shot,0,-6,3,True
+Tyreke Evans,2,6,53,1,Driving Layup Shot,1,-2,15,True
+Tyreke Evans,3,0,0,0,Driving Layup Shot,0,-4,9,True
+Tyreke Evans,1,10,34,1,Driving Layup Shot,2,5,25,True
+Tyreke Evans,3,3,49,1,Driving Layup Shot,0,4,6,True
+Tyreke Evans,2,6,1,1,Driving Layup Shot,3,0,31,True
+Tyreke Evans,3,4,18,1,Driving Layup Shot,0,0,6,True
+Tyreke Evans,2,3,57,0,Driving Layup Shot,5,7,50,True
+Tyreke Evans,1,1,45,0,Driving Layup Shot,3,16,26,True
+Tyreke Evans,4,8,52,1,Driving Layup Shot,1,7,13,True
+Tyreke Evans,1,3,33,0,Driving Layup Shot,1,13,11,True
+Tyreke Evans,1,9,43,0,Driving Layup Shot,3,-16,36,True
+Tyreke Evans,2,11,12,1,Driving Layup Shot,1,6,14,True
+Tyreke Evans,4,7,53,0,Driving Layup Shot,0,2,7,True
+Tyreke Evans,3,8,24,0,Driving Layup Shot,2,19,13,True
+Tyreke Evans,3,0,16,0,Driving Layup Shot,0,6,5,True
+Tyreke Evans,3,4,56,1,Driving Layup Shot,4,19,36,True
+Tyreke Evans,1,1,59,1,Driving Layup Shot,2,-1,22,True
+Tyreke Evans,4,6,14,1,Driving Layup Shot,3,25,21,True
+Tyreke Evans,2,6,27,1,Driving Layup Shot,1,10,11,True
+Tyreke Evans,2,8,41,1,Driving Layup Shot,1,5,13,True
+Tyreke Evans,3,10,34,0,Driving Layup Shot,2,19,22,True
+Tyreke Evans,4,9,23,0,Driving Layup Shot,1,3,13,True
+Tyreke Evans,1,1,31,1,Driving Layup Shot,0,-5,4,True
+Tyreke Evans,1,9,7,1,Driving Layup Shot,1,6,9,True
+Tyreke Evans,2,3,34,1,Driving Layup Shot,0,0,5,True
+Tyreke Evans,1,4,54,0,Driving Layup Shot,0,6,1,True
+Tyreke Evans,1,6,51,1,Driving Layup Shot,1,-13,15,True
+Tyreke Evans,1,0,8,1,Driving Layup Shot,1,-19,5,True
+Tyreke Evans,1,0,0,1,Driving Layup Shot,0,6,0,True
+Tyreke Evans,2,8,31,0,Driving Layup Shot,2,-3,21,True
+Tyreke Evans,2,2,31,1,Driving Layup Shot,1,10,4,True
+Tyreke Evans,3,6,16,1,Driving Layup Shot,1,1,11,True
+Tyreke Evans,3,4,33,1,Driving Layup Shot,1,2,10,True
+Tyreke Evans,1,3,23,1,Driving Layup Shot,0,-4,8,True
+Tyreke Evans,4,7,39,1,Driving Layup Shot,1,-3,16,True
+Tyreke Evans,3,5,6,1,Driving Layup Shot,0,2,4,True
+Tyreke Evans,4,9,21,1,Driving Layup Shot,0,-3,8,True
+Tyreke Evans,4,11,40,1,Driving Layup Shot,1,2,16,True
+Tyreke Evans,2,2,48,1,Driving Layup Shot,1,-2,15,True
+Tyreke Evans,2,0,59,0,Driving Layup Shot,1,13,3,True
+Tyreke Evans,4,3,39,1,Driving Layup Shot,1,2,11,True
+Tyreke Evans,4,2,21,0,Driving Layup Shot,1,8,12,True
+Tyreke Evans,1,0,3,1,Driving Layup Shot,1,9,6,True
+Tyreke Evans,4,7,45,1,Driving Layup Shot,1,-7,12,True
+Tyreke Evans,4,0,13,0,Driving Layup Shot,2,-8,20,True
+Tyreke Evans,2,9,26,1,Driving Layup Shot,1,13,9,True
+Tyreke Evans,1,6,43,1,Driving Layup Shot,1,-2,19,True
+Tyreke Evans,1,11,1,1,Driving Layup Shot,0,1,4,True
+Tyreke Evans,1,7,0,1,Driving Layup Shot,1,-2,19,True
+Tyreke Evans,2,5,36,0,Driving Layup Shot,0,2,5,True
+Tyreke Evans,4,2,15,0,Driving Layup Shot,1,3,17,True
+Tyreke Evans,3,1,14,0,Driving Reverse Layup Shot,0,3,2,True
+Tyreke Evans,4,5,31,1,Driving Reverse Layup Shot,5,-44,27,True
+Tyreke Evans,1,7,19,1,Driving Reverse Layup Shot,0,2,8,True
+Tyreke Evans,2,11,26,0,Driving Reverse Layup Shot,1,-14,12,True
+Tyreke Evans,2,9,1,0,Driving Reverse Layup Shot,0,2,4,True
+Tyreke Evans,3,9,10,0,Driving Reverse Layup Shot,1,9,9,True
+Tyreke Evans,2,1,10,1,Driving Reverse Layup Shot,0,3,0,True
+Tyreke Evans,3,7,53,0,Driving Reverse Layup Shot,1,16,6,True
+Tyreke Evans,4,2,34,0,Driving Reverse Layup Shot,3,-27,19,True
+Tyreke Evans,3,10,16,1,Driving Reverse Layup Shot,1,8,10,True
+Tyreke Evans,2,11,24,0,Driving Reverse Layup Shot,1,-2,14,True
+Tyreke Evans,4,8,19,1,Driving Reverse Layup Shot,0,-1,6,True
+Tyreke Evans,3,11,3,0,Driving Reverse Layup Shot,0,-2,0,True
+Tyreke Evans,2,9,0,1,Driving Reverse Layup Shot,0,5,8,True
+Tyreke Evans,4,3,45,1,Driving Reverse Layup Shot,0,-2,4,True
+Tyreke Evans,4,8,0,1,Driving Reverse Layup Shot,2,12,20,True
+Tyreke Evans,1,1,12,1,Driving Reverse Layup Shot,2,24,3,True
+Tyreke Evans,2,6,10,0,Driving Reverse Layup Shot,1,-2,14,True
+Tyreke Evans,4,3,7,1,Driving Reverse Layup Shot,2,5,22,True
+Tyreke Evans,4,9,54,0,Driving Reverse Layup Shot,1,13,-1,True
+Tyreke Evans,2,4,39,0,Driving Reverse Layup Shot,2,13,21,True
+Tyreke Evans,4,2,3,1,Driving Reverse Layup Shot,1,-9,7,True
+Tyreke Evans,4,7,56,0,Driving Reverse Layup Shot,0,-5,8,True
+Tyreke Evans,1,2,48,0,Driving Reverse Layup Shot,0,-4,6,True
+Tyreke Evans,3,10,38,0,Fadeaway Jump Shot,24,234,58,False
+Tyreke Evans,4,2,0,0,Fadeaway Jump Shot,21,128,176,True
+Tyreke Evans,4,2,10,0,Fadeaway Jump Shot,17,-88,157,True
+Tyreke Evans,3,9,46,1,Fadeaway Jump Shot,20,190,78,True
+Tyreke Evans,1,3,5,1,Finger Roll Layup Shot,3,-3,34,True
+Tyreke Evans,4,2,39,0,Finger Roll Layup Shot,1,-11,7,True
+Tyreke Evans,4,2,37,1,Finger Roll Layup Shot,0,0,4,True
+Tyreke Evans,1,9,22,0,Floating Jump shot,7,66,34,True
+Tyreke Evans,3,4,42,0,Hook Shot,3,2,37,True
+Tyreke Evans,3,11,47,0,Hook Shot,2,-11,26,True
+Tyreke Evans,4,5,12,0,Hook Shot,6,-49,47,True
+Tyreke Evans,1,7,31,0,Hook Shot,2,-21,14,True
+Tyreke Evans,1,10,27,1,Jump Bank Shot,11,40,103,True
+Tyreke Evans,2,3,20,1,Jump Bank Shot,20,163,118,True
+Tyreke Evans,1,6,46,1,Jump Bank Shot,17,107,142,True
+Tyreke Evans,4,6,0,0,Jump Shot,26,-159,207,False
+Tyreke Evans,3,6,56,1,Jump Shot,19,60,185,True
+Tyreke Evans,3,8,4,0,Jump Shot,25,113,226,False
+Tyreke Evans,1,8,12,0,Jump Shot,17,177,13,True
+Tyreke Evans,2,4,11,1,Jump Shot,25,8,255,False
+Tyreke Evans,1,2,32,0,Jump Shot,25,96,234,False
+Tyreke Evans,1,7,58,1,Jump Shot,25,93,242,False
+Tyreke Evans,3,9,48,1,Jump Shot,25,122,221,False
+Tyreke Evans,1,8,43,0,Jump Shot,25,-187,174,False
+Tyreke Evans,4,9,43,0,Jump Shot,20,150,137,True
+Tyreke Evans,2,1,51,0,Jump Shot,25,29,256,False
+Tyreke Evans,2,10,23,1,Jump Shot,25,-105,231,False
+Tyreke Evans,2,8,35,0,Jump Shot,25,-129,220,False
+Tyreke Evans,4,9,39,0,Jump Shot,25,150,205,False
+Tyreke Evans,4,10,41,1,Jump Shot,27,57,267,False
+Tyreke Evans,1,10,6,1,Jump Shot,25,46,248,False
+Tyreke Evans,4,9,36,0,Jump Shot,25,-19,251,False
+Tyreke Evans,3,9,22,1,Jump Shot,24,84,232,False
+Tyreke Evans,1,1,23,0,Jump Shot,24,179,162,False
+Tyreke Evans,3,10,4,0,Jump Shot,24,-154,192,False
+Tyreke Evans,2,1,34,1,Jump Shot,26,49,262,False
+Tyreke Evans,4,3,6,0,Jump Shot,26,-177,192,False
+Tyreke Evans,1,6,27,0,Jump Shot,25,51,254,False
+Tyreke Evans,4,0,6,0,Jump Shot,24,199,151,False
+Tyreke Evans,3,0,0,0,Jump Shot,21,-136,164,True
+Tyreke Evans,1,5,41,0,Jump Shot,26,1,263,False
+Tyreke Evans,2,10,38,0,Jump Shot,21,39,208,True
+Tyreke Evans,3,9,48,1,Jump Shot,26,47,258,False
+Tyreke Evans,3,4,54,0,Jump Shot,26,96,244,False
+Tyreke Evans,4,3,17,0,Jump Shot,27,-126,239,False
+Tyreke Evans,3,9,11,0,Jump Shot,22,-228,28,False
+Tyreke Evans,1,10,12,0,Jump Shot,25,106,234,False
+Tyreke Evans,2,7,50,0,Jump Shot,22,62,216,True
+Tyreke Evans,3,5,20,1,Jump Shot,30,25,306,False
+Tyreke Evans,3,2,42,0,Jump Shot,25,144,210,False
+Tyreke Evans,3,10,36,0,Jump Shot,26,139,221,False
+Tyreke Evans,2,6,1,0,Jump Shot,25,116,229,False
+Tyreke Evans,1,9,56,1,Jump Shot,19,-42,194,True
+Tyreke Evans,4,8,4,1,Jump Shot,25,222,130,False
+Tyreke Evans,4,3,39,0,Jump Shot,20,-185,95,True
+Tyreke Evans,1,10,58,0,Jump Shot,25,73,243,False
+Tyreke Evans,2,5,42,0,Jump Shot,26,88,252,False
+Tyreke Evans,2,5,18,1,Jump Shot,21,95,197,True
+Tyreke Evans,4,1,16,0,Jump Shot,25,63,252,False
+Tyreke Evans,3,5,45,0,Jump Shot,24,-28,248,False
+Tyreke Evans,4,0,27,0,Jump Shot,22,-221,33,False
+Tyreke Evans,3,8,44,1,Jump Shot,24,113,221,False
+Tyreke Evans,2,11,15,0,Jump Shot,10,34,99,True
+Tyreke Evans,1,7,24,0,Jump Shot,26,179,197,False
+Tyreke Evans,2,10,40,1,Jump Shot,26,137,231,False
+Tyreke Evans,4,0,5,0,Jump Shot,25,80,242,False
+Tyreke Evans,1,9,41,0,Jump Shot,20,168,125,True
+Tyreke Evans,1,7,22,1,Jump Shot,25,109,232,False
+Tyreke Evans,3,10,12,0,Jump Shot,25,108,231,False
+Tyreke Evans,4,3,12,0,Jump Shot,26,-5,260,False
+Tyreke Evans,4,9,26,0,Jump Shot,26,-119,232,False
+Tyreke Evans,2,11,15,0,Jump Shot,27,77,261,False
+Tyreke Evans,4,0,18,1,Jump Shot,25,140,217,False
+Tyreke Evans,4,0,0,1,Jump Shot,27,134,235,False
+Tyreke Evans,4,10,37,0,Jump Shot,26,17,260,False
+Tyreke Evans,3,9,28,0,Jump Shot,26,-26,266,False
+Tyreke Evans,4,3,17,0,Jump Shot,25,157,206,False
+Tyreke Evans,3,10,31,1,Jump Shot,25,127,222,False
+Tyreke Evans,1,10,2,1,Jump Shot,25,192,164,False
+Tyreke Evans,1,7,5,0,Jump Shot,23,228,38,False
+Tyreke Evans,1,5,49,1,Jump Shot,25,196,159,False
+Tyreke Evans,3,10,1,1,Jump Shot,25,193,172,False
+Tyreke Evans,2,0,36,1,Jump Shot,25,151,201,False
+Tyreke Evans,2,5,16,1,Jump Shot,19,-98,172,True
+Tyreke Evans,2,10,17,0,Jump Shot,25,-165,197,False
+Tyreke Evans,4,4,25,0,Jump Shot,20,-126,157,True
+Tyreke Evans,1,10,36,0,Jump Shot,26,-22,266,False
+Tyreke Evans,3,5,31,1,Jump Shot,26,172,204,False
+Tyreke Evans,1,4,12,1,Jump Shot,19,-81,177,True
+Tyreke Evans,2,4,39,0,Jump Shot,7,2,72,True
+Tyreke Evans,2,3,46,0,Jump Shot,6,-5,61,True
+Tyreke Evans,4,4,53,1,Jump Shot,26,125,233,False
+Tyreke Evans,4,3,43,1,Jump Shot,25,-7,256,False
+Tyreke Evans,2,5,14,0,Jump Shot,26,141,219,False
+Tyreke Evans,1,2,11,0,Jump Shot,25,141,212,False
+Tyreke Evans,3,3,13,0,Jump Shot,28,35,284,False
+Tyreke Evans,4,8,13,1,Jump Shot,21,-138,169,True
+Tyreke Evans,2,5,15,0,Jump Shot,25,92,241,False
+Tyreke Evans,4,10,11,0,Jump Shot,19,-122,152,True
+Tyreke Evans,2,2,55,1,Jump Shot,26,-24,263,False
+Tyreke Evans,2,2,3,1,Jump Shot,25,-98,235,False
+Tyreke Evans,1,2,9,0,Jump Shot,25,203,148,False
+Tyreke Evans,4,10,31,1,Jump Shot,21,180,121,True
+Tyreke Evans,3,6,43,0,Jump Shot,25,38,254,False
+Tyreke Evans,3,2,45,0,Jump Shot,26,139,221,False
+Tyreke Evans,3,11,8,1,Jump Shot,26,149,221,False
+Tyreke Evans,2,4,2,1,Jump Shot,24,-174,179,False
+Tyreke Evans,4,3,29,0,Jump Shot,26,16,269,False
+Tyreke Evans,1,10,47,1,Jump Shot,24,-209,136,False
+Tyreke Evans,1,7,37,1,Jump Shot,26,99,241,False
+Tyreke Evans,4,6,49,1,Jump Shot,25,11,259,False
+Tyreke Evans,4,0,1,0,Jump Shot,25,227,115,False
+Tyreke Evans,4,8,41,0,Jump Shot,26,107,246,False
+Tyreke Evans,2,3,5,0,Jump Shot,26,92,250,False
+Tyreke Evans,2,6,19,0,Jump Shot,26,170,208,False
+Tyreke Evans,3,0,0,0,Jump Shot,15,141,71,True
+Tyreke Evans,3,9,36,0,Jump Shot,19,-100,162,True
+Tyreke Evans,4,10,47,0,Jump Shot,7,-46,62,True
+Tyreke Evans,1,7,36,0,Jump Shot,24,-152,197,False
+Tyreke Evans,4,9,22,1,Jump Shot,26,-84,253,False
+Tyreke Evans,4,3,15,0,Jump Shot,25,162,197,False
+Tyreke Evans,1,9,36,0,Jump Shot,25,160,194,False
+Tyreke Evans,2,3,34,1,Jump Shot,26,87,247,False
+Tyreke Evans,2,11,22,1,Jump Shot,24,196,154,False
+Tyreke Evans,3,10,20,1,Jump Shot,25,-173,192,False
+Tyreke Evans,3,1,31,0,Jump Shot,24,-109,222,False
+Tyreke Evans,4,2,54,0,Jump Shot,24,194,154,False
+Tyreke Evans,1,9,2,0,Jump Shot,27,117,247,False
+Tyreke Evans,3,11,26,1,Jump Shot,26,-101,249,False
+Tyreke Evans,4,5,16,0,Jump Shot,26,103,247,False
+Tyreke Evans,2,5,13,0,Jump Shot,26,-169,206,False
+Tyreke Evans,3,8,10,0,Jump Shot,25,173,185,False
+Tyreke Evans,1,1,57,0,Jump Shot,26,70,251,False
+Tyreke Evans,2,3,7,0,Jump Shot,25,126,226,False
+Tyreke Evans,5,0,0,0,Jump Shot,25,64,251,False
+Tyreke Evans,5,1,3,1,Jump Shot,25,167,193,False
+Tyreke Evans,3,5,35,0,Jump Shot,26,105,238,False
+Tyreke Evans,4,3,44,0,Jump Shot,26,-27,259,False
+Tyreke Evans,4,11,17,0,Jump Shot,26,-83,251,False
+Tyreke Evans,1,6,19,0,Jump Shot,27,98,252,False
+Tyreke Evans,1,9,15,1,Jump Shot,26,98,247,False
+Tyreke Evans,3,11,10,0,Jump Shot,25,92,243,False
+Tyreke Evans,4,1,42,1,Jump Shot,17,168,54,True
+Tyreke Evans,3,7,47,1,Jump Shot,23,238,12,False
+Tyreke Evans,4,4,48,1,Jump Shot,25,101,238,False
+Tyreke Evans,2,2,37,0,Jump Shot,22,-91,201,True
+Tyreke Evans,4,7,50,0,Jump Shot,27,-44,269,False
+Tyreke Evans,4,4,17,0,Jump Shot,27,141,231,False
+Tyreke Evans,1,9,15,1,Jump Shot,24,-79,236,False
+Tyreke Evans,1,5,43,1,Jump Shot,25,-194,164,False
+Tyreke Evans,3,11,22,0,Jump Shot,22,-121,185,True
+Tyreke Evans,2,10,21,0,Jump Shot,24,-63,241,False
+Tyreke Evans,3,10,44,1,Jump Shot,25,-188,170,False
+Tyreke Evans,3,7,53,0,Jump Shot,16,-164,22,True
+Tyreke Evans,1,10,28,1,Jump Shot,27,175,213,False
+Tyreke Evans,3,3,51,0,Jump Shot,29,-122,264,False
+Tyreke Evans,1,11,5,1,Jump Shot,26,12,262,False
+Tyreke Evans,3,8,0,0,Jump Shot,22,120,195,True
+Tyreke Evans,4,3,28,1,Jump Shot,25,-107,226,False
+Tyreke Evans,1,8,0,1,Jump Shot,20,-46,201,True
+Tyreke Evans,2,4,7,0,Jump Shot,26,-211,163,False
+Tyreke Evans,3,9,32,1,Jump Shot,25,119,220,False
+Tyreke Evans,1,2,37,0,Jump Shot,11,-98,53,True
+Tyreke Evans,4,4,38,1,Jump Shot,24,233,67,False
+Tyreke Evans,4,7,10,0,Jump Shot,20,-55,197,True
+Tyreke Evans,4,6,59,0,Jump Shot,24,-131,208,False
+Tyreke Evans,2,0,35,1,Jump Shot,25,-122,226,False
+Tyreke Evans,3,2,19,0,Jump Shot,26,13,264,False
+Tyreke Evans,2,11,1,0,Jump Shot,26,-15,261,False
+Tyreke Evans,2,2,8,1,Jump Shot,19,103,164,True
+Tyreke Evans,4,9,15,0,Jump Shot,27,114,250,False
+Tyreke Evans,2,8,29,1,Jump Shot,25,93,241,False
+Tyreke Evans,2,1,19,0,Jump Shot,27,85,261,False
+Tyreke Evans,1,2,56,0,Jump Shot,25,-6,253,False
+Tyreke Evans,4,1,37,0,Jump Shot,25,149,205,False
+Tyreke Evans,3,3,32,0,Jump Shot,25,67,251,False
+Tyreke Evans,2,7,13,0,Jump Shot,22,225,25,False
+Tyreke Evans,2,0,0,0,Jump Shot,25,-158,205,False
+Tyreke Evans,4,8,22,0,Jump Shot,25,59,247,False
+Tyreke Evans,3,6,33,0,Jump Shot,26,-74,252,False
+Tyreke Evans,1,5,20,1,Jump Shot,25,-113,232,False
+Tyreke Evans,4,3,15,0,Jump Shot,26,-73,251,False
+Tyreke Evans,4,8,8,1,Jump Shot,27,-130,247,False
+Tyreke Evans,2,9,45,1,Jump Shot,26,143,227,False
+Tyreke Evans,4,10,22,1,Jump Shot,26,156,220,False
+Tyreke Evans,1,3,42,0,Jump Shot,27,99,256,False
+Tyreke Evans,2,1,37,0,Jump Shot,24,150,199,False
+Tyreke Evans,3,6,44,1,Jump Shot,24,173,178,False
+Tyreke Evans,3,2,28,0,Jump Shot,25,166,193,False
+Tyreke Evans,3,4,52,0,Jump Shot,23,226,58,False
+Tyreke Evans,3,0,47,1,Jump Shot,24,144,201,False
+Tyreke Evans,2,11,44,1,Jump Shot,26,-170,197,False
+Tyreke Evans,4,6,0,0,Jump Shot,28,155,234,False
+Tyreke Evans,4,2,53,0,Jump Shot,27,-172,210,False
+Tyreke Evans,4,10,38,0,Jump Shot,25,127,219,False
+Tyreke Evans,2,1,36,1,Jump Shot,24,163,188,False
+Tyreke Evans,4,2,8,0,Jump Shot,27,165,218,False
+Tyreke Evans,1,0,29,0,Jump Shot,26,-138,223,False
+Tyreke Evans,2,1,12,0,Jump Shot,25,192,163,False
+Tyreke Evans,3,3,18,0,Jump Shot,24,153,194,False
+Tyreke Evans,3,4,26,1,Jump Shot,24,-190,156,False
+Tyreke Evans,2,2,22,0,Jump Shot,25,20,251,False
+Tyreke Evans,4,8,48,1,Jump Shot,25,-82,243,False
+Tyreke Evans,3,4,7,0,Jump Shot,26,20,263,False
+Tyreke Evans,4,1,48,1,Jump Shot,27,-58,269,False
+Tyreke Evans,2,6,9,0,Jump Shot,26,168,201,False
+Tyreke Evans,4,8,55,0,Jump Shot,24,217,111,False
+Tyreke Evans,4,10,0,0,Jump Shot,25,154,207,False
+Tyreke Evans,2,11,43,0,Jump Shot,26,83,251,False
+Tyreke Evans,2,4,16,0,Jump Shot,23,-232,-4,False
+Tyreke Evans,1,1,17,1,Jump Shot,6,-30,57,True
+Tyreke Evans,2,7,32,1,Jump Shot,24,-200,134,False
+Tyreke Evans,4,4,27,1,Jump Shot,27,122,244,False
+Tyreke Evans,2,10,14,0,Jump Shot,26,83,247,False
+Tyreke Evans,3,9,6,0,Jump Shot,22,149,169,True
+Tyreke Evans,3,6,50,1,Jump Shot,25,-157,204,False
+Tyreke Evans,1,2,43,1,Jump Shot,24,160,187,False
+Tyreke Evans,4,1,57,0,Jump Shot,27,-107,258,False
+Tyreke Evans,2,1,51,1,Jump Shot,21,124,178,True
+Tyreke Evans,1,2,4,1,Jump Shot,25,80,244,False
+Tyreke Evans,3,7,20,1,Jump Shot,21,68,208,True
+Tyreke Evans,4,4,25,0,Jump Shot,25,-38,257,False
+Tyreke Evans,2,11,37,0,Jump Shot,27,-137,236,False
+Tyreke Evans,4,9,31,0,Jump Shot,21,118,185,True
+Tyreke Evans,3,3,27,1,Jump Shot,25,107,236,False
+Tyreke Evans,3,1,12,0,Jump Shot,25,189,178,False
+Tyreke Evans,1,1,13,1,Jump Shot,25,82,246,False
+Tyreke Evans,3,1,41,1,Jump Shot,25,116,232,False
+Tyreke Evans,4,10,1,0,Jump Shot,25,109,230,False
+Tyreke Evans,2,10,30,0,Jump Shot,22,224,5,False
+Tyreke Evans,3,3,29,0,Jump Shot,26,130,226,False
+Tyreke Evans,3,6,12,0,Layup Shot,2,-12,20,True
+Tyreke Evans,1,1,57,0,Layup Shot,2,14,21,True
+Tyreke Evans,4,7,0,0,Layup Shot,4,-5,48,True
+Tyreke Evans,3,0,23,0,Layup Shot,3,30,18,True
+Tyreke Evans,4,11,18,0,Layup Shot,2,-8,25,True
+Tyreke Evans,1,3,4,1,Layup Shot,0,2,6,True
+Tyreke Evans,3,0,1,1,Layup Shot,3,-6,36,True
+Tyreke Evans,2,10,30,0,Layup Shot,2,-2,21,True
+Tyreke Evans,4,4,23,0,Layup Shot,1,6,8,True
+Tyreke Evans,1,11,40,1,Layup Shot,0,0,5,True
+Tyreke Evans,4,8,25,0,Layup Shot,1,-2,10,True
+Tyreke Evans,1,1,45,0,Layup Shot,4,38,27,True
+Tyreke Evans,2,5,44,0,Layup Shot,2,9,22,True
+Tyreke Evans,4,4,13,0,Layup Shot,0,4,2,True
+Tyreke Evans,2,9,5,0,Layup Shot,2,10,27,True
+Tyreke Evans,2,0,5,1,Layup Shot,3,-26,25,True
+Tyreke Evans,4,7,57,0,Layup Shot,2,-14,18,True
+Tyreke Evans,2,6,16,1,Layup Shot,0,3,6,True
+Tyreke Evans,1,11,17,1,Layup Shot,2,-24,8,True
+Tyreke Evans,4,1,53,0,Layup Shot,3,-23,26,True
+Tyreke Evans,2,8,48,0,Layup Shot,4,30,34,True
+Tyreke Evans,4,10,6,0,Layup Shot,3,-11,36,True
+Tyreke Evans,2,11,3,0,Layup Shot,2,21,7,True
+Tyreke Evans,1,6,0,0,Layup Shot,2,6,20,True
+Tyreke Evans,3,6,3,0,Layup Shot,2,11,22,True
+Tyreke Evans,4,10,43,0,Layup Shot,0,4,8,True
+Tyreke Evans,4,1,24,0,Layup Shot,2,-10,20,True
+Tyreke Evans,1,1,29,0,Layup Shot,1,5,10,True
+Tyreke Evans,3,5,12,0,Layup Shot,1,2,11,True
+Tyreke Evans,4,2,53,0,Pullup Jump shot,25,-152,208,False
+Tyreke Evans,4,3,57,0,Pullup Jump shot,26,-46,256,False
+Tyreke Evans,2,6,14,1,Pullup Jump shot,20,93,183,True
+Tyreke Evans,3,11,15,0,Pullup Jump shot,9,-57,74,True
+Tyreke Evans,2,8,31,1,Pullup Jump shot,8,11,80,True
+Tyreke Evans,2,10,46,1,Pullup Jump shot,16,20,161,True
+Tyreke Evans,3,2,45,1,Pullup Jump shot,25,62,249,False
+Tyreke Evans,3,7,29,1,Pullup Jump shot,24,81,235,False
+Tyreke Evans,4,5,21,0,Pullup Jump shot,25,-137,220,False
+Tyreke Evans,1,7,12,0,Pullup Jump shot,18,62,170,True
+Tyreke Evans,2,0,41,0,Pullup Jump shot,18,-85,161,True
+Tyreke Evans,4,10,45,0,Pullup Jump shot,24,95,230,False
+Tyreke Evans,4,0,27,0,Pullup Jump shot,26,-11,260,False
+Tyreke Evans,3,7,5,0,Pullup Jump shot,16,-39,159,True
+Tyreke Evans,4,2,23,0,Pullup Jump shot,25,117,230,False
+Tyreke Evans,3,7,58,0,Pullup Jump shot,20,-112,170,True
+Tyreke Evans,2,2,13,0,Pullup Jump shot,25,65,248,False
+Tyreke Evans,1,7,19,0,Pullup Jump shot,21,40,213,True
+Tyreke Evans,2,11,45,1,Pullup Jump shot,4,25,38,True
+Tyreke Evans,1,7,46,0,Pullup Jump shot,26,84,250,False
+Tyreke Evans,1,0,1,0,Pullup Jump shot,25,-30,253,False
+Tyreke Evans,3,1,40,1,Pullup Jump shot,20,152,143,True
+Tyreke Evans,4,2,58,0,Pullup Jump shot,26,-36,258,False
+Tyreke Evans,4,9,20,1,Pullup Jump shot,24,54,243,False
+Tyreke Evans,4,0,53,0,Pullup Jump shot,24,-137,206,False
+Tyreke Evans,2,2,32,0,Pullup Jump shot,25,-54,248,False
+Tyreke Evans,4,11,7,1,Pullup Jump shot,13,-73,116,True
+Tyreke Evans,1,7,29,1,Pullup Jump shot,25,-11,255,False
+Tyreke Evans,4,0,26,0,Pullup Jump shot,23,-73,220,True
+Tyreke Evans,3,5,17,1,Pullup Jump shot,25,-47,252,False
+Tyreke Evans,1,7,42,0,Pullup Jump shot,27,114,252,False
+Tyreke Evans,2,8,56,1,Pullup Jump shot,24,155,189,False
+Tyreke Evans,1,1,37,1,Pullup Jump shot,25,111,227,False
+Tyreke Evans,4,6,13,0,Pullup Jump shot,26,-78,252,False
+Tyreke Evans,2,9,9,1,Pullup Jump shot,25,65,245,False
+Tyreke Evans,4,1,58,1,Pullup Jump shot,21,95,196,True
+Tyreke Evans,1,3,34,0,Pullup Jump shot,25,-125,222,False
+Tyreke Evans,4,0,19,0,Pullup Jump shot,26,-51,257,False
+Tyreke Evans,2,0,1,0,Pullup Jump shot,25,107,235,False
+Tyreke Evans,1,8,31,1,Pullup Jump shot,20,101,175,True
+Tyreke Evans,4,7,17,1,Pullup Jump shot,26,99,243,False
+Tyreke Evans,2,5,10,1,Pullup Jump shot,26,-116,234,False
+Tyreke Evans,3,10,25,1,Pullup Jump shot,26,-99,251,False
+Tyreke Evans,4,11,26,1,Pullup Jump shot,25,62,246,False
+Tyreke Evans,4,9,20,0,Pullup Jump shot,26,116,233,False
+Tyreke Evans,3,0,7,1,Pullup Jump shot,25,-141,216,False
+Tyreke Evans,2,0,16,1,Pullup Jump shot,26,118,235,False
+Tyreke Evans,1,11,17,0,Pullup Jump shot,25,120,221,False
+Tyreke Evans,4,10,34,1,Pullup Jump shot,25,117,222,False
+Tyreke Evans,2,0,1,1,Pullup Jump shot,25,-75,248,False
+Tyreke Evans,1,2,6,0,Pullup Jump shot,25,53,248,False
+Tyreke Evans,3,0,26,0,Pullup Jump shot,25,9,258,False
+Tyreke Evans,2,0,1,0,Pullup Jump shot,25,-30,251,False
+Tyreke Evans,1,11,18,0,Pullup Jump shot,2,20,17,True
+Tyreke Evans,2,1,5,1,Pullup Jump shot,25,176,178,False
+Tyreke Evans,2,10,31,0,Pullup Jump shot,21,195,82,True
+Tyreke Evans,4,8,44,0,Pullup Jump shot,17,25,174,True
+Tyreke Evans,4,10,45,1,Pullup Jump shot,19,152,121,True
+Tyreke Evans,1,0,0,0,Pullup Jump shot,24,-14,249,False
+Tyreke Evans,1,0,3,1,Pullup Jump shot,19,-22,194,True
+Tyreke Evans,4,10,57,0,Pullup Jump shot,24,136,206,False
+Tyreke Evans,4,0,23,0,Pullup Jump shot,21,-104,183,True
+Tyreke Evans,3,9,46,0,Pullup Jump shot,25,1,257,False
+Tyreke Evans,2,0,10,1,Pullup Jump shot,26,94,251,False
+Tyreke Evans,3,5,31,1,Pullup Jump shot,25,98,238,False
+Tyreke Evans,2,3,41,0,Pullup Jump shot,25,-31,253,False
+Tyreke Evans,4,1,58,0,Pullup Jump shot,26,92,252,False
+Tyreke Evans,3,1,15,0,Pullup Jump shot,25,76,242,False
+Tyreke Evans,1,2,19,0,Pullup Jump shot,19,190,26,True
+Tyreke Evans,3,2,2,1,Pullup Jump shot,26,24,262,False
+Tyreke Evans,1,1,35,0,Putback Layup Shot,1,1,17,True
+Tyreke Evans,3,5,8,0,Putback Layup Shot,0,5,0,True
+Tyreke Evans,4,0,38,0,Putback Layup Shot,0,2,4,True
+Tyreke Evans,2,4,24,0,Putback Layup Shot,0,0,-6,True
+Tyreke Evans,4,8,22,0,Putback Layup Shot,0,0,-6,True
+Tyreke Evans,2,5,44,1,Putback Layup Shot,0,0,-6,True
+Tyreke Evans,1,2,12,0,Putback Layup Shot,0,0,-6,True
+Tyreke Evans,4,3,10,0,Reverse Layup Shot,1,-9,16,True
+Tyreke Evans,4,2,41,0,Reverse Layup Shot,0,3,7,True
+Tyreke Evans,1,11,19,0,Reverse Layup Shot,0,-6,4,True
+Tyreke Evans,3,5,18,0,Reverse Layup Shot,1,4,12,True
+Tyreke Evans,1,3,16,1,Running Dunk Shot,1,12,10,True
+Tyreke Evans,1,2,51,1,Running Dunk Shot,1,-3,10,True
+Tyreke Evans,2,9,26,1,Running Finger Roll Layup Shot,3,0,30,True
+Tyreke Evans,1,7,54,1,Running Finger Roll Layup Shot,1,1,11,True
+Tyreke Evans,4,11,2,0,Running Finger Roll Layup Shot,0,2,8,True
+Tyreke Evans,2,0,29,1,Running Finger Roll Layup Shot,1,-6,10,True
+Tyreke Evans,4,11,3,1,Running Finger Roll Layup Shot,1,15,7,True
+Tyreke Evans,2,9,52,1,Running Finger Roll Layup Shot,0,-5,6,True
+Tyreke Evans,2,11,12,1,Running Finger Roll Layup Shot,1,0,10,True
+Tyreke Evans,3,10,54,1,Running Finger Roll Layup Shot,1,-2,12,True
+Tyreke Evans,2,2,7,1,Running Finger Roll Layup Shot,0,-4,3,True
+Tyreke Evans,3,8,40,1,Running Finger Roll Layup Shot,0,0,5,True
+Tyreke Evans,2,10,16,1,Running Finger Roll Layup Shot,1,6,16,True
+Tyreke Evans,2,8,28,1,Running Finger Roll Layup Shot,0,0,6,True
+Tyreke Evans,2,11,33,1,Running Finger Roll Layup Shot,0,2,8,True
+Tyreke Evans,4,1,38,1,Running Finger Roll Layup Shot,2,1,21,True
+Tyreke Evans,1,7,17,1,Running Finger Roll Layup Shot,1,9,15,True
+Tyreke Evans,1,1,22,1,Running Finger Roll Layup Shot,1,3,15,True
+Tyreke Evans,2,0,0,0,Running Jump Shot,43,-160,404,False
+Tyreke Evans,1,0,0,0,Running Jump Shot,44,41,447,False
+Tyreke Evans,3,0,0,0,Running Jump Shot,26,-143,223,False
+Tyreke Evans,3,11,1,0,Running Jump Shot,25,168,193,False
+Tyreke Evans,2,7,21,0,Running Jump Shot,25,89,238,False
+Tyreke Evans,3,6,19,1,Running Layup Shot,2,15,21,True
+Tyreke Evans,1,4,3,0,Running Layup Shot,3,13,34,True
+Tyreke Evans,2,8,28,1,Running Layup Shot,1,11,2,True
+Tyreke Evans,4,2,47,1,Running Layup Shot,1,-13,5,True
+Tyreke Evans,2,4,16,1,Running Layup Shot,0,5,4,True
+Tyreke Evans,2,10,54,0,Running Layup Shot,6,3,61,True
+Tyreke Evans,2,11,20,1,Running Layup Shot,1,-5,11,True
+Tyreke Evans,1,3,13,1,Running Layup Shot,0,1,5,True
+Tyreke Evans,1,0,22,1,Running Layup Shot,4,19,37,True
+Tyreke Evans,4,4,11,0,Running Layup Shot,4,2,49,True
+Tyreke Evans,1,11,22,1,Running Layup Shot,0,1,8,True
+Tyreke Evans,4,7,38,0,Running Layup Shot,3,-7,32,True
+Tyreke Evans,2,9,4,0,Running Layup Shot,1,-1,16,True
+Tyreke Evans,2,7,34,1,Running Layup Shot,3,30,15,True
+Tyreke Evans,3,0,22,0,Running Layup Shot,1,-9,5,True
+Tyreke Evans,1,9,35,0,Running Layup Shot,1,0,16,True
+Tyreke Evans,3,4,46,1,Running Layup Shot,1,5,13,True
+Tyreke Evans,2,3,24,1,Running Layup Shot,0,0,8,True
+Tyreke Evans,3,3,7,1,Running Layup Shot,0,4,8,True
+Tyreke Evans,1,4,57,0,Running Layup Shot,3,36,10,True
+Tyreke Evans,3,11,5,0,Running Layup Shot,0,-6,1,True
+Tyreke Evans,3,10,28,1,Running Layup Shot,2,7,20,True
+Tyreke Evans,2,10,17,0,Running Layup Shot,2,23,19,True
+Tyreke Evans,1,9,16,0,Running Layup Shot,0,-1,5,True
+Tyreke Evans,2,0,29,1,Running Layup Shot,0,8,4,True
+Tyreke Evans,3,9,38,1,Running Layup Shot,0,-6,7,True
+Tyreke Evans,4,8,31,1,Running Layup Shot,1,-14,0,True
+Tyreke Evans,2,7,24,1,Running Layup Shot,2,14,15,True
+Tyreke Evans,2,2,44,1,Running Layup Shot,1,-5,16,True
+Tyreke Evans,4,7,52,1,Running Layup Shot,1,-11,4,True
+Tyreke Evans,3,7,8,1,Running Layup Shot,0,6,4,True
+Tyreke Evans,1,10,29,0,Running Layup Shot,1,-13,4,True
+Tyreke Evans,3,2,31,1,Running Layup Shot,1,-5,18,True
+Tyreke Evans,4,9,57,1,Running Layup Shot,2,18,21,True
+Tyreke Evans,1,8,44,1,Running Layup Shot,3,27,16,True
+Tyreke Evans,3,6,49,0,Running Layup Shot,1,2,15,True
+Tyreke Evans,1,5,44,0,Running Layup Shot,2,1,26,True
+Tyreke Evans,2,6,39,0,Running Layup Shot,1,-2,10,True
+Tyreke Evans,1,9,43,0,Running Layup Shot,4,35,25,True
+Tyreke Evans,4,0,52,1,Running Layup Shot,0,1,9,True
+Tyreke Evans,2,0,58,1,Running Layup Shot,0,-2,6,True
+Tyreke Evans,3,0,27,1,Running Layup Shot,0,-3,8,True
+Tyreke Evans,4,10,51,1,Running Layup Shot,0,8,4,True
+Tyreke Evans,1,5,21,1,Running Layup Shot,0,1,3,True
+Tyreke Evans,4,0,37,0,Running Layup Shot,1,4,18,True
+Tyreke Evans,2,0,46,0,Running Layup Shot,2,-22,17,True
+Tyreke Evans,4,11,3,0,Running Layup Shot,4,2,41,True
+Tyreke Evans,2,8,17,1,Running Layup Shot,3,33,17,True
+Tyreke Evans,4,6,57,1,Running Layup Shot,1,3,11,True
+Tyreke Evans,3,7,19,1,Running Layup Shot,3,4,32,True
+Tyreke Evans,1,1,45,1,Running Layup Shot,1,12,9,True
+Tyreke Evans,3,10,7,0,Running Layup Shot,2,3,25,True
+Tyreke Evans,2,10,51,1,Running Layup Shot,1,-3,11,True
+Tyreke Evans,1,6,41,1,Running Layup Shot,1,7,9,True
+Tyreke Evans,3,3,1,0,Running Layup Shot,1,-12,8,True
+Tyreke Evans,2,11,43,0,Running Layup Shot,0,2,6,True
+Tyreke Evans,3,4,14,1,Running Layup Shot,1,-6,9,True
+Tyreke Evans,2,7,30,0,Running Layup Shot,2,23,15,True
+Tyreke Evans,2,0,1,1,Running Pull-Up Jump Shot,26,-109,246,False
+Tyreke Evans,3,7,57,0,Running Reverse Layup Shot,1,-6,15,True
+Tyreke Evans,3,5,50,0,Running Reverse Layup Shot,3,-25,22,True
+Tyreke Evans,4,0,47,1,Step Back Bank Jump Shot,26,-142,223,False
+Tyreke Evans,3,0,0,0,Step Back Jump shot,20,105,175,True
+Tyreke Evans,2,3,3,1,Step Back Jump shot,21,96,192,True
+Tyreke Evans,2,10,21,1,Step Back Jump shot,24,-10,245,False
+Tyreke Evans,2,1,11,0,Step Back Jump shot,21,107,188,True
+Tyreke Evans,4,1,32,0,Step Back Jump shot,25,143,211,False
+Tyreke Evans,4,5,27,0,Step Back Jump shot,26,-61,258,False
+Tyreke Evans,1,7,34,1,Step Back Jump shot,25,154,206,False
+Tyreke Evans,1,9,16,1,Step Back Jump shot,22,-106,194,True
+Tyreke Evans,3,4,6,0,Step Back Jump shot,23,233,-22,False
+Tyreke Evans,2,10,47,0,Step Back Jump shot,21,133,172,True
+Tyreke Evans,4,10,39,1,Step Back Jump shot,22,-225,27,False
+Tyreke Evans,3,3,10,0,Step Back Jump shot,18,-109,152,True
+Tyreke Evans,4,3,45,0,Step Back Jump shot,21,-150,152,True
+Tyreke Evans,4,5,29,0,Step Back Jump shot,24,-144,203,False
+Tyreke Evans,1,8,19,1,Step Back Jump shot,22,121,187,True
+Tyreke Evans,2,9,46,1,Step Back Jump shot,20,203,17,True
+Tyreke Evans,3,0,50,0,Step Back Jump shot,16,20,164,True
+Tyreke Evans,4,0,58,0,Step Back Jump shot,16,158,36,True
+Tyreke Evans,2,7,36,0,Step Back Jump shot,20,127,167,True
+Tyreke Evans,1,9,42,0,Step Back Jump shot,27,-81,267,False
+Tyreke Evans,3,0,8,1,Step Back Jump shot,22,91,209,True
+Tyreke Evans,4,3,42,1,Step Back Jump shot,17,2,176,True
+Tyreke Evans,2,11,35,0,Step Back Jump shot,21,-157,148,True
+Tyreke Evans,4,7,3,0,Step Back Jump shot,19,176,84,True
+Tyreke Evans,1,2,28,1,Step Back Jump shot,21,-92,197,True
+Tyreke Evans,2,2,41,0,Step Back Jump shot,22,-183,127,True
+Tyreke Evans,2,10,17,0,Step Back Jump shot,19,8,198,True
+Tyreke Evans,2,0,0,0,Step Back Jump shot,26,68,257,False
+Tyreke Evans,3,3,53,0,Step Back Jump shot,21,-37,210,True
+Tyreke Evans,2,6,46,1,Step Back Jump shot,26,-148,220,False
+Tyreke Evans,3,7,16,0,Step Back Jump shot,28,-56,275,False
+Tyreke Evans,4,8,26,0,Step Back Jump shot,26,-122,233,False
+Tyreke Evans,1,3,14,0,Step Back Jump shot,20,138,148,True
+Tyreke Evans,4,10,43,0,Step Back Jump shot,25,-97,234,False
+Tyreke Evans,2,9,48,0,Step Back Jump shot,25,-81,245,False
+Tyreke Evans,3,3,31,0,Step Back Jump shot,25,103,238,False
+Tyreke Evans,2,9,3,0,Step Back Jump shot,26,70,255,False
+Tyreke Evans,3,6,2,1,Step Back Jump shot,25,-96,239,False
+Tyreke Evans,2,9,57,1,Step Back Jump shot,25,-107,234,False
+Tyreke Evans,3,10,49,0,Step Back Jump shot,21,111,189,True
+Tyreke Evans,2,9,21,0,Step Back Jump shot,26,125,230,False
+Tyreke Evans,3,3,9,0,Step Back Jump shot,19,36,189,True
+Tyreke Evans,4,1,26,1,Step Back Jump shot,25,-166,190,False
+Tyreke Evans,2,4,58,0,Step Back Jump shot,22,86,209,True
+Tyreke Evans,3,1,4,0,Step Back Jump shot,20,187,73,True
+Tyreke Evans,1,8,55,1,Step Back Jump shot,18,-184,-11,True
+Tyreke Evans,4,7,31,0,Step Back Jump shot,15,-81,137,True
+Tyreke Evans,2,8,42,1,Step Back Jump shot,22,-37,226,True
+Tyreke Evans,4,1,55,0,Step Back Jump shot,21,-1,210,True
+Tyreke Evans,4,5,47,1,Step Back Jump shot,26,-71,257,False
+Tyreke Evans,2,3,31,0,Step Back Jump shot,26,-173,195,False
+Tyreke Evans,2,9,18,1,Step Back Jump shot,25,-121,221,False
+Tyreke Evans,1,9,52,1,Step Back Jump shot,23,-206,116,False
+Tyreke Evans,1,4,20,1,Step Back Jump shot,20,-206,10,True
+Tyreke Evans,3,4,42,0,Step Back Jump shot,24,241,42,False
+Tyreke Evans,4,7,26,1,Step Back Jump shot,22,189,113,True
+Tyreke Evans,4,6,5,1,Step Back Jump shot,25,153,208,False
+Tyreke Evans,3,10,26,1,Tip Layup Shot,0,0,-6,True
+Tyreke Evans,3,7,19,0,Tip Layup Shot,0,0,-6,True
+Tyreke Evans,2,6,17,0,Tip Layup Shot,0,0,-6,True
+Tyreke Evans,1,3,28,0,Tip Layup Shot,0,0,-6,True
+Tyreke Evans,1,2,20,1,Tip Layup Shot,0,0,-6,True
+Tyreke Evans,1,9,49,0,Turnaround Fadeaway Bank Jump Shot,7,63,48,True
+Tyreke Evans,3,2,37,0,Turnaround Fadeaway Bank Jump Shot,2,3,22,True
+Tyreke Evans,3,0,4,1,Turnaround Fadeaway shot,1,14,4,True
+Tyreke Evans,3,6,45,0,Turnaround Jump Shot,6,14,63,True
+Tyreke Evans,2,5,7,0,Turnaround Jump Shot,22,-221,4,False

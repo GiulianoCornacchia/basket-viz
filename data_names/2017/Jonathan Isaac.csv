@@ -1,0 +1,116 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jonathan Isaac,4,11,23,0,Alley Oop Dunk Shot,4,-29,31,True
+Jonathan Isaac,4,7,1,1,Alley Oop Dunk Shot,0,-2,1,True
+Jonathan Isaac,1,6,35,1,Cutting Dunk Shot,1,2,11,True
+Jonathan Isaac,1,2,35,1,Cutting Dunk Shot,1,-3,18,True
+Jonathan Isaac,4,3,29,1,Cutting Dunk Shot,1,2,16,True
+Jonathan Isaac,3,9,9,1,Cutting Dunk Shot,0,-3,5,True
+Jonathan Isaac,2,7,59,1,Cutting Dunk Shot,3,-9,29,True
+Jonathan Isaac,4,11,43,1,Cutting Dunk Shot,2,1,22,True
+Jonathan Isaac,4,9,22,1,Cutting Layup Shot,1,4,13,True
+Jonathan Isaac,3,5,40,0,Driving Finger Roll Layup Shot,2,-8,26,True
+Jonathan Isaac,4,2,49,1,Driving Floating Jump Shot,8,21,78,True
+Jonathan Isaac,1,0,25,0,Driving Layup Shot,3,32,0,True
+Jonathan Isaac,3,10,25,0,Driving Layup Shot,2,-6,20,True
+Jonathan Isaac,4,0,28,1,Driving Layup Shot,3,2,32,True
+Jonathan Isaac,2,7,50,1,Driving Layup Shot,1,-13,6,True
+Jonathan Isaac,4,11,21,1,Driving Layup Shot,2,-19,20,True
+Jonathan Isaac,2,11,24,1,Dunk Shot,3,9,36,True
+Jonathan Isaac,2,2,22,0,Dunk Shot,0,-3,-6,True
+Jonathan Isaac,4,4,16,0,Fadeaway Jump Shot,12,129,2,True
+Jonathan Isaac,2,10,0,1,Finger Roll Layup Shot,4,14,45,True
+Jonathan Isaac,1,1,6,0,Floating Jump shot,10,-100,5,True
+Jonathan Isaac,1,4,38,0,Hook Shot,6,-42,45,True
+Jonathan Isaac,4,3,46,1,Jump Bank Shot,25,-21,250,False
+Jonathan Isaac,2,10,25,0,Jump Shot,26,154,214,False
+Jonathan Isaac,3,6,41,0,Jump Shot,25,58,248,False
+Jonathan Isaac,2,1,33,1,Jump Shot,23,236,5,False
+Jonathan Isaac,4,1,16,0,Jump Shot,23,-230,25,False
+Jonathan Isaac,1,6,33,0,Jump Shot,24,48,243,False
+Jonathan Isaac,2,1,2,0,Jump Shot,22,228,13,False
+Jonathan Isaac,1,10,32,1,Jump Shot,24,-121,218,False
+Jonathan Isaac,3,9,39,1,Jump Shot,24,-143,199,False
+Jonathan Isaac,3,6,23,0,Jump Shot,23,232,6,False
+Jonathan Isaac,1,7,41,0,Jump Shot,23,234,-15,False
+Jonathan Isaac,1,6,25,1,Jump Shot,26,-48,257,False
+Jonathan Isaac,1,5,39,1,Jump Shot,26,115,234,False
+Jonathan Isaac,1,10,45,0,Jump Shot,13,-136,-15,True
+Jonathan Isaac,2,1,4,0,Jump Shot,16,8,160,True
+Jonathan Isaac,2,10,9,0,Jump Shot,18,-187,5,True
+Jonathan Isaac,4,7,19,0,Jump Shot,25,17,258,False
+Jonathan Isaac,3,0,28,0,Jump Shot,10,-107,4,True
+Jonathan Isaac,3,11,16,0,Jump Shot,10,101,25,True
+Jonathan Isaac,4,3,30,0,Jump Shot,25,-224,123,False
+Jonathan Isaac,2,8,29,0,Jump Shot,24,209,131,False
+Jonathan Isaac,2,9,29,0,Jump Shot,23,231,14,False
+Jonathan Isaac,4,8,22,1,Jump Shot,25,-224,121,False
+Jonathan Isaac,1,0,57,0,Jump Shot,16,163,13,True
+Jonathan Isaac,1,0,0,0,Jump Shot,10,41,94,True
+Jonathan Isaac,2,9,21,0,Jump Shot,15,-55,140,True
+Jonathan Isaac,4,2,59,1,Jump Shot,22,-229,18,False
+Jonathan Isaac,2,4,22,0,Jump Shot,22,228,20,False
+Jonathan Isaac,1,0,49,0,Jump Shot,24,-144,202,False
+Jonathan Isaac,3,0,44,0,Jump Shot,25,76,246,False
+Jonathan Isaac,2,11,43,0,Jump Shot,18,-46,181,True
+Jonathan Isaac,1,1,30,1,Jump Shot,24,216,123,False
+Jonathan Isaac,4,0,4,0,Jump Shot,26,37,265,False
+Jonathan Isaac,2,5,58,0,Jump Shot,22,-221,51,False
+Jonathan Isaac,2,7,23,0,Jump Shot,22,-16,225,True
+Jonathan Isaac,3,0,35,1,Jump Shot,17,-89,156,True
+Jonathan Isaac,4,6,19,0,Jump Shot,23,233,32,False
+Jonathan Isaac,4,0,32,0,Jump Shot,20,8,204,True
+Jonathan Isaac,2,4,44,0,Jump Shot,25,-67,244,False
+Jonathan Isaac,2,5,13,1,Jump Shot,12,2,121,True
+Jonathan Isaac,2,3,50,0,Jump Shot,22,-224,-3,False
+Jonathan Isaac,2,11,23,0,Jump Shot,16,-25,162,True
+Jonathan Isaac,3,3,14,1,Jump Shot,25,-51,247,False
+Jonathan Isaac,2,8,55,0,Jump Shot,23,234,-12,False
+Jonathan Isaac,3,9,25,1,Jump Shot,25,81,243,False
+Jonathan Isaac,3,5,42,0,Jump Shot,25,67,246,False
+Jonathan Isaac,1,9,55,0,Jump Shot,13,130,-5,True
+Jonathan Isaac,2,10,42,0,Layup Shot,6,-21,64,True
+Jonathan Isaac,4,9,20,1,Layup Shot,3,6,34,True
+Jonathan Isaac,1,2,39,0,Layup Shot,3,-33,17,True
+Jonathan Isaac,1,3,3,1,Layup Shot,0,4,7,True
+Jonathan Isaac,3,4,35,0,Layup Shot,3,-36,6,True
+Jonathan Isaac,2,1,9,0,Layup Shot,11,-22,113,True
+Jonathan Isaac,2,3,5,0,Layup Shot,3,6,34,True
+Jonathan Isaac,1,5,52,1,Layup Shot,2,-20,11,True
+Jonathan Isaac,3,10,20,1,Layup Shot,0,5,-8,True
+Jonathan Isaac,2,2,44,0,Pullup Jump shot,17,-60,169,True
+Jonathan Isaac,4,2,13,0,Pullup Jump shot,20,190,70,True
+Jonathan Isaac,2,7,42,1,Pullup Jump shot,17,118,127,True
+Jonathan Isaac,2,8,0,0,Pullup Jump shot,20,-134,154,True
+Jonathan Isaac,4,8,53,0,Pullup Jump shot,17,-2,172,True
+Jonathan Isaac,4,1,51,1,Pullup Jump shot,19,-51,190,True
+Jonathan Isaac,4,5,41,0,Pullup Jump shot,16,68,154,True
+Jonathan Isaac,4,1,32,0,Pullup Jump shot,18,4,181,True
+Jonathan Isaac,2,5,30,0,Pullup Jump shot,20,-79,194,True
+Jonathan Isaac,2,3,59,0,Pullup Jump shot,16,-127,109,True
+Jonathan Isaac,2,11,9,0,Pullup Jump shot,23,-88,216,True
+Jonathan Isaac,4,5,7,0,Pullup Jump shot,18,182,-1,True
+Jonathan Isaac,2,7,17,0,Pullup Jump shot,11,-113,30,True
+Jonathan Isaac,3,6,18,1,Pullup Jump shot,18,183,-4,True
+Jonathan Isaac,4,9,12,0,Pullup Jump shot,18,-123,138,True
+Jonathan Isaac,2,7,42,0,Pullup Jump shot,16,-42,156,True
+Jonathan Isaac,2,10,17,1,Pullup Jump shot,13,20,138,True
+Jonathan Isaac,2,10,43,0,Pullup Jump shot,26,-108,240,False
+Jonathan Isaac,4,9,20,0,Pullup Jump shot,14,22,147,True
+Jonathan Isaac,4,9,58,1,Putback Dunk Shot,0,0,-6,True
+Jonathan Isaac,2,3,56,1,Putback Dunk Shot,0,0,-6,True
+Jonathan Isaac,4,10,8,0,Putback Layup Shot,2,-18,20,True
+Jonathan Isaac,1,2,55,1,Putback Layup Shot,1,-10,14,True
+Jonathan Isaac,3,7,33,1,Reverse Layup Shot,3,26,17,True
+Jonathan Isaac,1,8,44,1,Running Dunk Shot,3,30,19,True
+Jonathan Isaac,1,8,31,1,Running Dunk Shot,0,0,6,True
+Jonathan Isaac,2,9,53,0,Running Finger Roll Layup Shot,3,-28,21,True
+Jonathan Isaac,2,6,49,1,Running Finger Roll Layup Shot,1,-8,11,True
+Jonathan Isaac,2,3,27,0,Step Back Jump shot,13,131,-6,True
+Jonathan Isaac,1,6,17,0,Step Back Jump shot,11,20,109,True
+Jonathan Isaac,4,5,39,0,Step Back Jump shot,16,40,163,True
+Jonathan Isaac,2,4,58,1,Tip Layup Shot,0,0,-6,True
+Jonathan Isaac,3,0,52,1,Turnaround Jump Shot,13,108,73,True
+Jonathan Isaac,2,9,48,0,Turnaround Jump Shot,10,106,-1,True
+Jonathan Isaac,2,6,35,0,Turnaround Jump Shot,15,141,57,True
+Jonathan Isaac,4,7,4,0,Turnaround Jump Shot,11,-93,73,True
+Jonathan Isaac,1,8,38,0,Turnaround Jump Shot,14,142,35,True

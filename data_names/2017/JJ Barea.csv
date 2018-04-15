@@ -1,0 +1,641 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+JJ Barea,4,9,23,0,Cutting Layup Shot,1,9,5,True
+JJ Barea,4,1,4,1,Cutting Layup Shot,0,5,6,True
+JJ Barea,2,2,1,0,Cutting Layup Shot,1,4,11,True
+JJ Barea,4,8,25,1,Driving Finger Roll Layup Shot,1,7,9,True
+JJ Barea,2,8,25,1,Driving Finger Roll Layup Shot,2,-22,8,True
+JJ Barea,2,11,6,0,Driving Finger Roll Layup Shot,2,0,25,True
+JJ Barea,4,11,32,0,Driving Finger Roll Layup Shot,0,9,4,True
+JJ Barea,4,11,6,0,Driving Finger Roll Layup Shot,2,4,26,True
+JJ Barea,4,10,20,1,Driving Finger Roll Layup Shot,1,7,15,True
+JJ Barea,4,7,10,0,Driving Finger Roll Layup Shot,2,1,21,True
+JJ Barea,3,1,11,1,Driving Finger Roll Layup Shot,1,-3,16,True
+JJ Barea,1,0,38,1,Driving Finger Roll Layup Shot,1,8,11,True
+JJ Barea,1,1,46,1,Driving Finger Roll Layup Shot,0,2,1,True
+JJ Barea,2,10,18,1,Driving Finger Roll Layup Shot,2,-22,0,True
+JJ Barea,2,10,44,1,Driving Finger Roll Layup Shot,3,19,27,True
+JJ Barea,4,7,15,1,Driving Finger Roll Layup Shot,1,1,12,True
+JJ Barea,3,3,30,1,Driving Finger Roll Layup Shot,1,17,8,True
+JJ Barea,4,8,23,0,Driving Finger Roll Layup Shot,0,-2,1,True
+JJ Barea,1,0,33,1,Driving Floating Bank Jump Shot,3,-30,13,True
+JJ Barea,2,6,1,1,Driving Floating Bank Jump Shot,4,-41,21,True
+JJ Barea,2,9,10,1,Driving Floating Bank Jump Shot,6,-51,43,True
+JJ Barea,3,0,31,0,Driving Floating Bank Jump Shot,6,-54,34,True
+JJ Barea,1,10,35,1,Driving Floating Bank Jump Shot,6,62,27,True
+JJ Barea,4,7,1,1,Driving Floating Bank Jump Shot,6,-11,59,True
+JJ Barea,4,2,0,1,Driving Floating Bank Jump Shot,9,-84,42,True
+JJ Barea,1,4,55,0,Driving Floating Bank Jump Shot,6,-36,52,True
+JJ Barea,2,4,3,1,Driving Floating Bank Jump Shot,10,90,56,True
+JJ Barea,4,10,47,1,Driving Floating Bank Jump Shot,10,-86,57,True
+JJ Barea,3,0,31,0,Driving Floating Bank Jump Shot,4,30,35,True
+JJ Barea,1,1,33,1,Driving Floating Bank Jump Shot,2,-24,0,True
+JJ Barea,1,4,25,0,Driving Floating Bank Jump Shot,8,-47,67,True
+JJ Barea,1,0,56,0,Driving Floating Bank Jump Shot,9,96,12,True
+JJ Barea,1,3,55,1,Driving Floating Bank Jump Shot,8,70,41,True
+JJ Barea,4,11,16,1,Driving Floating Bank Jump Shot,6,52,35,True
+JJ Barea,1,2,1,1,Driving Floating Bank Jump Shot,12,-94,85,True
+JJ Barea,4,8,36,0,Driving Floating Bank Jump Shot,11,58,98,True
+JJ Barea,2,2,31,0,Driving Floating Bank Jump Shot,7,-62,41,True
+JJ Barea,2,2,19,1,Driving Floating Bank Jump Shot,6,-41,54,True
+JJ Barea,3,0,31,1,Driving Floating Bank Jump Shot,8,79,36,True
+JJ Barea,4,8,33,0,Driving Floating Bank Jump Shot,3,-27,26,True
+JJ Barea,4,10,13,1,Driving Floating Bank Jump Shot,6,56,36,True
+JJ Barea,1,5,59,0,Driving Floating Bank Jump Shot,6,-11,61,True
+JJ Barea,4,2,12,1,Driving Floating Bank Jump Shot,3,25,23,True
+JJ Barea,3,0,2,0,Driving Floating Jump Shot,11,2,115,True
+JJ Barea,4,1,57,0,Driving Floating Jump Shot,3,-14,37,True
+JJ Barea,2,5,31,0,Driving Floating Jump Shot,1,11,8,True
+JJ Barea,2,8,25,1,Driving Floating Jump Shot,6,-11,67,True
+JJ Barea,2,1,57,0,Driving Floating Jump Shot,0,3,2,True
+JJ Barea,2,11,0,1,Driving Floating Jump Shot,7,14,71,True
+JJ Barea,2,11,40,0,Driving Floating Jump Shot,10,-99,28,True
+JJ Barea,1,0,30,0,Driving Floating Jump Shot,7,47,56,True
+JJ Barea,2,5,23,1,Driving Floating Jump Shot,6,56,36,True
+JJ Barea,1,1,21,1,Driving Floating Jump Shot,9,81,56,True
+JJ Barea,3,0,5,1,Driving Floating Jump Shot,24,-190,148,False
+JJ Barea,4,11,23,0,Driving Floating Jump Shot,8,44,75,True
+JJ Barea,2,9,58,1,Driving Floating Jump Shot,4,18,43,True
+JJ Barea,3,7,7,0,Driving Floating Jump Shot,15,11,152,True
+JJ Barea,3,2,16,0,Driving Floating Jump Shot,9,-44,89,True
+JJ Barea,2,1,16,0,Driving Floating Jump Shot,4,-30,39,True
+JJ Barea,2,8,28,1,Driving Floating Jump Shot,8,-45,75,True
+JJ Barea,1,11,31,1,Driving Floating Jump Shot,5,-35,46,True
+JJ Barea,2,0,7,0,Driving Floating Jump Shot,9,-3,91,True
+JJ Barea,4,9,28,1,Driving Floating Jump Shot,8,0,83,True
+JJ Barea,1,2,0,0,Driving Floating Jump Shot,5,57,4,True
+JJ Barea,4,8,6,1,Driving Floating Jump Shot,6,60,22,True
+JJ Barea,1,3,29,0,Driving Floating Jump Shot,8,69,55,True
+JJ Barea,1,2,19,0,Driving Floating Jump Shot,5,-8,55,True
+JJ Barea,3,2,25,0,Driving Floating Jump Shot,5,-20,47,True
+JJ Barea,3,5,12,0,Driving Floating Jump Shot,11,-9,111,True
+JJ Barea,2,9,24,0,Driving Floating Jump Shot,10,-6,102,True
+JJ Barea,4,10,19,1,Driving Layup Shot,1,6,17,True
+JJ Barea,4,3,22,1,Driving Layup Shot,0,8,2,True
+JJ Barea,3,2,24,0,Driving Layup Shot,1,11,16,True
+JJ Barea,4,6,26,0,Driving Layup Shot,0,-3,-6,True
+JJ Barea,2,8,17,0,Driving Layup Shot,0,-6,-1,True
+JJ Barea,4,5,42,0,Driving Layup Shot,1,9,8,True
+JJ Barea,2,10,22,1,Driving Layup Shot,7,57,53,True
+JJ Barea,3,8,47,0,Driving Layup Shot,5,41,34,True
+JJ Barea,2,9,31,1,Driving Layup Shot,1,9,5,True
+JJ Barea,5,3,49,1,Driving Layup Shot,1,-7,18,True
+JJ Barea,2,10,26,1,Driving Layup Shot,0,0,5,True
+JJ Barea,1,0,57,1,Driving Layup Shot,2,6,21,True
+JJ Barea,4,9,55,1,Driving Layup Shot,1,-12,13,True
+JJ Barea,2,11,9,0,Driving Layup Shot,1,14,11,True
+JJ Barea,4,6,45,0,Driving Layup Shot,1,-18,8,True
+JJ Barea,2,4,16,1,Driving Layup Shot,3,-30,14,True
+JJ Barea,4,10,3,0,Driving Layup Shot,1,-7,15,True
+JJ Barea,2,6,12,0,Driving Layup Shot,1,-13,4,True
+JJ Barea,1,6,32,1,Driving Layup Shot,4,27,42,True
+JJ Barea,2,1,6,1,Driving Layup Shot,2,-13,17,True
+JJ Barea,3,1,57,1,Driving Layup Shot,1,14,10,True
+JJ Barea,1,1,33,1,Driving Layup Shot,3,36,8,True
+JJ Barea,3,2,46,1,Driving Layup Shot,2,-29,4,True
+JJ Barea,2,8,32,0,Driving Layup Shot,2,-7,26,True
+JJ Barea,3,5,29,1,Driving Layup Shot,1,14,5,True
+JJ Barea,4,5,25,0,Driving Layup Shot,8,-81,25,True
+JJ Barea,1,1,2,1,Driving Layup Shot,1,-3,12,True
+JJ Barea,1,1,15,1,Driving Layup Shot,2,14,17,True
+JJ Barea,3,7,15,1,Driving Layup Shot,2,19,8,True
+JJ Barea,2,5,44,0,Driving Layup Shot,0,2,8,True
+JJ Barea,4,9,39,1,Driving Layup Shot,2,-6,21,True
+JJ Barea,2,0,54,0,Driving Layup Shot,4,-8,43,True
+JJ Barea,3,0,0,0,Driving Layup Shot,3,6,33,True
+JJ Barea,3,6,26,1,Driving Layup Shot,0,6,4,True
+JJ Barea,2,8,30,1,Driving Layup Shot,0,2,7,True
+JJ Barea,2,0,52,1,Driving Layup Shot,1,-14,10,True
+JJ Barea,1,1,0,0,Driving Layup Shot,2,-22,20,True
+JJ Barea,1,0,35,1,Driving Layup Shot,1,0,10,True
+JJ Barea,3,0,58,1,Driving Layup Shot,0,-1,0,True
+JJ Barea,2,8,7,0,Driving Layup Shot,2,-27,-1,True
+JJ Barea,1,1,14,0,Driving Layup Shot,2,20,20,True
+JJ Barea,4,9,3,1,Driving Layup Shot,2,-18,12,True
+JJ Barea,2,9,44,0,Driving Layup Shot,3,15,34,True
+JJ Barea,3,2,25,1,Driving Layup Shot,2,18,13,True
+JJ Barea,1,1,43,1,Driving Layup Shot,1,10,4,True
+JJ Barea,2,2,33,1,Driving Layup Shot,1,11,15,True
+JJ Barea,2,9,52,1,Driving Layup Shot,3,25,31,True
+JJ Barea,2,10,36,1,Driving Layup Shot,0,-3,9,True
+JJ Barea,4,9,10,0,Driving Layup Shot,4,28,29,True
+JJ Barea,4,11,5,1,Driving Layup Shot,0,6,-1,True
+JJ Barea,4,9,10,0,Driving Layup Shot,2,-27,0,True
+JJ Barea,4,10,57,1,Driving Layup Shot,1,13,-6,True
+JJ Barea,4,10,0,0,Driving Layup Shot,2,-16,17,True
+JJ Barea,3,11,8,1,Driving Layup Shot,1,11,14,True
+JJ Barea,3,6,13,0,Driving Layup Shot,2,-19,17,True
+JJ Barea,4,8,56,0,Driving Layup Shot,3,-3,38,True
+JJ Barea,1,0,6,0,Driving Layup Shot,1,-1,13,True
+JJ Barea,2,10,20,0,Driving Layup Shot,3,35,13,True
+JJ Barea,2,8,45,0,Driving Layup Shot,3,-18,27,True
+JJ Barea,1,0,6,0,Driving Layup Shot,2,16,25,True
+JJ Barea,3,2,21,0,Driving Layup Shot,1,6,9,True
+JJ Barea,4,8,9,1,Driving Layup Shot,4,35,24,True
+JJ Barea,3,6,34,1,Driving Layup Shot,1,-16,11,True
+JJ Barea,2,5,38,1,Driving Layup Shot,1,7,9,True
+JJ Barea,3,1,38,0,Driving Reverse Layup Shot,1,14,11,True
+JJ Barea,2,10,57,1,Driving Reverse Layup Shot,1,5,13,True
+JJ Barea,4,0,10,1,Driving Reverse Layup Shot,0,1,4,True
+JJ Barea,3,6,47,1,Driving Reverse Layup Shot,1,-11,11,True
+JJ Barea,3,3,58,1,Driving Reverse Layup Shot,0,-8,-2,True
+JJ Barea,4,6,44,1,Driving Reverse Layup Shot,0,-1,-4,True
+JJ Barea,4,1,46,1,Driving Reverse Layup Shot,2,14,16,True
+JJ Barea,1,0,30,0,Fadeaway Jump Shot,11,-44,103,True
+JJ Barea,4,7,12,1,Fadeaway Jump Shot,16,121,106,True
+JJ Barea,3,2,52,0,Fadeaway Jump Shot,8,-75,41,True
+JJ Barea,4,5,14,1,Fadeaway Jump Shot,14,67,124,True
+JJ Barea,4,9,39,1,Fadeaway Jump Shot,12,11,122,True
+JJ Barea,3,0,0,0,Fadeaway Jump Shot,15,-157,24,True
+JJ Barea,1,7,19,1,Fadeaway Jump Shot,7,13,72,True
+JJ Barea,2,10,53,0,Fadeaway Jump Shot,19,-164,112,True
+JJ Barea,2,10,23,1,Fadeaway Jump Shot,11,-113,37,True
+JJ Barea,4,6,40,0,Fadeaway Jump Shot,11,55,106,True
+JJ Barea,2,6,11,1,Fadeaway Jump Shot,12,123,23,True
+JJ Barea,2,1,36,0,Fadeaway Jump Shot,12,-107,55,True
+JJ Barea,4,9,57,0,Fadeaway Jump Shot,12,-97,79,True
+JJ Barea,1,3,5,0,Fadeaway Jump Shot,10,-17,99,True
+JJ Barea,1,0,29,1,Fadeaway Jump Shot,7,3,73,True
+JJ Barea,4,11,20,0,Fadeaway Jump Shot,7,-74,23,True
+JJ Barea,3,1,38,1,Fadeaway Jump Shot,10,-38,97,True
+JJ Barea,3,1,17,0,Fadeaway Jump Shot,8,-84,31,True
+JJ Barea,4,4,28,0,Fadeaway Jump Shot,13,76,111,True
+JJ Barea,2,10,46,0,Fadeaway Jump Shot,15,-52,145,True
+JJ Barea,2,10,29,1,Fadeaway Jump Shot,12,-54,117,True
+JJ Barea,2,4,51,0,Fadeaway Jump Shot,8,74,31,True
+JJ Barea,1,2,31,0,Fadeaway Jump Shot,8,-51,73,True
+JJ Barea,1,6,52,0,Fadeaway Jump Shot,22,-227,22,False
+JJ Barea,2,10,57,0,Fadeaway Jump Shot,9,62,70,True
+JJ Barea,3,3,4,1,Fadeaway Jump Shot,15,-152,16,True
+JJ Barea,2,8,15,0,Fadeaway Jump Shot,17,100,147,True
+JJ Barea,1,1,4,0,Fadeaway Jump Shot,5,37,39,True
+JJ Barea,4,7,14,1,Fadeaway Jump Shot,10,-62,90,True
+JJ Barea,1,0,1,0,Fadeaway Jump Shot,16,118,121,True
+JJ Barea,4,6,38,1,Fadeaway Jump Shot,5,14,57,True
+JJ Barea,2,8,19,1,Fadeaway Jump Shot,12,-9,129,True
+JJ Barea,2,9,53,0,Fadeaway Jump Shot,11,-93,69,True
+JJ Barea,4,11,39,1,Fadeaway Jump Shot,5,6,58,True
+JJ Barea,4,7,44,0,Fadeaway Jump Shot,17,106,138,True
+JJ Barea,2,6,12,0,Fadeaway Jump Shot,13,-86,109,True
+JJ Barea,1,1,22,0,Fadeaway Jump Shot,12,-43,117,True
+JJ Barea,4,11,11,0,Fadeaway Jump Shot,8,-43,73,True
+JJ Barea,1,0,53,0,Fadeaway Jump Shot,9,79,52,True
+JJ Barea,1,2,26,1,Fadeaway Jump Shot,10,-103,37,True
+JJ Barea,2,5,19,0,Fadeaway Jump Shot,3,-20,34,True
+JJ Barea,1,8,49,0,Fadeaway Jump Shot,13,-59,116,True
+JJ Barea,4,5,45,0,Fadeaway Jump Shot,9,-73,59,True
+JJ Barea,2,7,34,0,Fadeaway Jump Shot,11,-109,23,True
+JJ Barea,1,0,54,0,Finger Roll Layup Shot,5,-56,11,True
+JJ Barea,1,4,9,1,Floating Jump shot,10,-49,94,True
+JJ Barea,3,1,47,1,Floating Jump shot,6,-14,59,True
+JJ Barea,4,4,5,0,Floating Jump shot,5,24,49,True
+JJ Barea,3,0,22,0,Floating Jump shot,24,-160,184,False
+JJ Barea,4,2,52,1,Floating Jump shot,4,-35,34,True
+JJ Barea,2,6,57,0,Floating Jump shot,9,27,88,True
+JJ Barea,2,5,17,0,Floating Jump shot,10,27,100,True
+JJ Barea,1,1,31,0,Floating Jump shot,7,2,78,True
+JJ Barea,1,7,15,0,Floating Jump shot,9,-5,90,True
+JJ Barea,4,7,57,1,Floating Jump shot,4,-7,49,True
+JJ Barea,3,1,48,0,Floating Jump shot,14,-100,106,True
+JJ Barea,1,3,15,1,Floating Jump shot,2,-29,5,True
+JJ Barea,3,2,6,1,Floating Jump shot,10,52,95,True
+JJ Barea,2,10,48,0,Hook Shot,4,-5,41,True
+JJ Barea,2,10,57,1,Hook Shot,3,-18,27,True
+JJ Barea,4,4,4,1,Jump Bank Shot,7,-67,37,True
+JJ Barea,4,7,24,1,Jump Bank Shot,2,-23,18,True
+JJ Barea,4,7,35,1,Jump Bank Shot,25,199,157,False
+JJ Barea,4,9,16,0,Jump Bank Shot,6,33,56,True
+JJ Barea,4,11,20,0,Jump Bank Shot,9,61,74,True
+JJ Barea,4,10,39,0,Jump Bank Shot,10,97,44,True
+JJ Barea,1,0,0,0,Jump Shot,30,144,272,False
+JJ Barea,1,7,46,0,Jump Shot,25,-132,223,False
+JJ Barea,1,3,40,1,Jump Shot,26,43,260,False
+JJ Barea,3,11,35,0,Jump Shot,26,166,206,False
+JJ Barea,1,5,6,1,Jump Shot,27,120,252,False
+JJ Barea,1,1,10,1,Jump Shot,18,87,158,True
+JJ Barea,1,3,10,0,Jump Shot,25,105,231,False
+JJ Barea,1,0,0,0,Jump Shot,56,10,563,False
+JJ Barea,2,7,16,1,Jump Shot,26,-148,220,False
+JJ Barea,4,8,24,0,Jump Shot,25,23,257,False
+JJ Barea,1,8,42,1,Jump Shot,24,-161,188,False
+JJ Barea,1,8,12,1,Jump Shot,24,-112,221,False
+JJ Barea,2,6,30,1,Jump Shot,25,130,225,False
+JJ Barea,3,9,49,0,Jump Shot,14,129,73,True
+JJ Barea,2,0,38,1,Jump Shot,27,-81,260,False
+JJ Barea,4,7,53,0,Jump Shot,25,114,231,False
+JJ Barea,4,9,9,1,Jump Shot,25,-22,252,False
+JJ Barea,3,10,10,0,Jump Shot,4,30,29,True
+JJ Barea,3,6,33,0,Jump Shot,26,106,239,False
+JJ Barea,3,10,50,0,Jump Shot,27,-83,263,False
+JJ Barea,2,7,14,1,Jump Shot,15,-59,143,True
+JJ Barea,3,8,59,0,Jump Shot,28,-199,200,False
+JJ Barea,2,10,40,0,Jump Shot,25,62,247,False
+JJ Barea,4,6,53,0,Jump Shot,4,-15,42,True
+JJ Barea,4,6,36,0,Jump Shot,24,-201,137,False
+JJ Barea,4,2,49,0,Jump Shot,14,-128,66,True
+JJ Barea,4,8,57,0,Jump Shot,28,175,220,False
+JJ Barea,4,7,25,0,Jump Shot,22,-227,-6,False
+JJ Barea,2,7,56,1,Jump Shot,25,169,190,False
+JJ Barea,1,1,49,1,Jump Shot,25,89,237,False
+JJ Barea,4,9,37,0,Jump Shot,24,197,153,False
+JJ Barea,1,0,32,0,Jump Shot,2,15,22,True
+JJ Barea,2,7,15,0,Jump Shot,25,113,225,False
+JJ Barea,1,1,30,0,Jump Shot,11,-50,101,True
+JJ Barea,1,0,31,0,Jump Shot,25,189,172,False
+JJ Barea,5,1,55,0,Jump Shot,26,163,213,False
+JJ Barea,4,4,59,0,Jump Shot,25,152,200,False
+JJ Barea,4,5,35,1,Jump Shot,25,94,241,False
+JJ Barea,4,7,40,0,Jump Shot,28,120,260,False
+JJ Barea,4,9,4,1,Jump Shot,25,114,230,False
+JJ Barea,3,0,52,0,Jump Shot,24,-149,198,False
+JJ Barea,3,3,55,0,Jump Shot,11,52,106,True
+JJ Barea,2,9,7,0,Jump Shot,26,-180,196,False
+JJ Barea,2,6,15,1,Jump Shot,26,-171,206,False
+JJ Barea,2,10,30,1,Jump Shot,25,69,242,False
+JJ Barea,2,8,1,0,Jump Shot,25,85,240,False
+JJ Barea,4,6,30,0,Jump Shot,26,162,210,False
+JJ Barea,4,10,4,1,Jump Shot,23,-226,62,False
+JJ Barea,2,9,14,0,Jump Shot,19,-192,53,True
+JJ Barea,2,3,7,0,Jump Shot,14,-105,94,True
+JJ Barea,3,0,26,1,Jump Shot,26,152,218,False
+JJ Barea,2,10,14,1,Jump Shot,27,-175,210,False
+JJ Barea,3,9,9,0,Jump Shot,20,101,179,True
+JJ Barea,2,10,55,1,Jump Shot,26,-51,260,False
+JJ Barea,1,10,19,0,Jump Shot,24,-94,221,False
+JJ Barea,3,8,10,0,Jump Shot,28,-69,273,False
+JJ Barea,1,0,47,0,Jump Shot,29,86,281,False
+JJ Barea,1,10,46,1,Jump Shot,25,106,230,False
+JJ Barea,2,9,12,0,Jump Shot,26,-128,227,False
+JJ Barea,4,6,37,1,Jump Shot,23,231,24,False
+JJ Barea,1,6,9,0,Jump Shot,25,173,181,False
+JJ Barea,1,8,8,0,Jump Shot,26,-138,228,False
+JJ Barea,4,9,19,1,Jump Shot,24,-109,220,False
+JJ Barea,3,5,41,0,Jump Shot,11,119,5,True
+JJ Barea,3,7,57,0,Jump Shot,11,3,112,True
+JJ Barea,3,11,42,0,Jump Shot,26,-51,260,False
+JJ Barea,4,8,22,0,Jump Shot,27,85,263,False
+JJ Barea,2,10,7,0,Jump Shot,24,-122,213,False
+JJ Barea,1,6,29,0,Jump Shot,26,120,240,False
+JJ Barea,1,0,34,0,Jump Shot,26,6,268,False
+JJ Barea,3,1,16,0,Jump Shot,16,120,108,True
+JJ Barea,3,0,1,0,Jump Shot,25,13,253,False
+JJ Barea,1,1,54,0,Jump Shot,25,-193,167,False
+JJ Barea,3,0,0,0,Jump Shot,24,-147,200,False
+JJ Barea,2,9,44,0,Jump Shot,25,154,200,False
+JJ Barea,3,2,32,0,Jump Shot,26,99,241,False
+JJ Barea,4,7,0,0,Jump Shot,27,1,278,False
+JJ Barea,3,4,59,0,Jump Shot,25,-188,169,False
+JJ Barea,1,2,16,0,Jump Shot,24,-145,202,False
+JJ Barea,2,4,48,1,Jump Shot,24,-220,111,False
+JJ Barea,4,5,42,0,Jump Shot,27,125,245,False
+JJ Barea,4,9,59,0,Jump Shot,25,168,186,False
+JJ Barea,2,4,7,0,Jump Shot,24,-91,232,False
+JJ Barea,2,10,20,0,Jump Shot,25,-2,251,False
+JJ Barea,3,0,36,0,Jump Shot,26,43,263,False
+JJ Barea,2,7,59,0,Jump Shot,26,-143,228,False
+JJ Barea,4,9,44,0,Jump Shot,25,170,195,False
+JJ Barea,1,1,23,0,Jump Shot,18,38,184,True
+JJ Barea,4,8,41,0,Jump Shot,26,133,226,False
+JJ Barea,1,0,15,0,Jump Shot,26,-49,259,False
+JJ Barea,2,6,46,0,Jump Shot,19,-63,189,True
+JJ Barea,1,2,4,0,Jump Shot,17,-117,132,True
+JJ Barea,2,11,42,0,Jump Shot,24,119,215,False
+JJ Barea,4,10,15,0,Jump Shot,25,166,195,False
+JJ Barea,4,7,38,0,Jump Shot,25,110,227,False
+JJ Barea,2,8,36,0,Jump Shot,25,-83,246,False
+JJ Barea,1,1,24,1,Jump Shot,24,98,227,False
+JJ Barea,4,8,43,0,Jump Shot,24,-93,226,False
+JJ Barea,2,5,9,1,Jump Shot,26,196,180,False
+JJ Barea,1,2,7,0,Jump Shot,12,-67,104,True
+JJ Barea,4,10,1,0,Jump Shot,26,82,251,False
+JJ Barea,3,0,45,0,Jump Shot,14,-98,100,True
+JJ Barea,2,7,26,0,Jump Shot,18,-113,141,True
+JJ Barea,4,9,29,1,Jump Shot,6,16,58,True
+JJ Barea,2,1,36,0,Jump Shot,19,27,191,True
+JJ Barea,2,11,20,0,Jump Shot,25,-130,223,False
+JJ Barea,2,10,0,0,Jump Shot,25,-63,246,False
+JJ Barea,2,3,49,0,Jump Shot,25,109,236,False
+JJ Barea,4,0,19,0,Jump Shot,26,45,258,False
+JJ Barea,4,7,55,0,Jump Shot,24,213,122,False
+JJ Barea,4,6,56,0,Jump Shot,24,-64,240,False
+JJ Barea,4,4,37,0,Jump Shot,23,-173,166,False
+JJ Barea,4,10,39,0,Jump Shot,26,81,253,False
+JJ Barea,3,1,3,0,Jump Shot,26,87,246,False
+JJ Barea,4,9,56,0,Jump Shot,15,126,87,True
+JJ Barea,4,5,52,1,Jump Shot,25,105,230,False
+JJ Barea,1,2,51,1,Jump Shot,25,-76,243,False
+JJ Barea,2,9,9,1,Jump Shot,24,95,228,False
+JJ Barea,4,1,58,1,Jump Shot,22,-229,-10,False
+JJ Barea,2,8,22,1,Jump Shot,25,-59,252,False
+JJ Barea,4,1,27,0,Jump Shot,23,230,-1,False
+JJ Barea,2,7,10,0,Jump Shot,28,157,237,False
+JJ Barea,4,10,11,0,Jump Shot,8,51,73,True
+JJ Barea,3,0,0,0,Jump Shot,39,82,385,False
+JJ Barea,3,4,53,0,Jump Shot,24,112,221,False
+JJ Barea,2,6,11,1,Jump Shot,25,164,190,False
+JJ Barea,2,5,12,0,Jump Shot,24,40,243,False
+JJ Barea,2,8,1,0,Jump Shot,21,163,143,True
+JJ Barea,3,5,2,0,Jump Shot,24,17,246,False
+JJ Barea,4,2,28,1,Jump Shot,25,109,232,False
+JJ Barea,4,1,42,0,Jump Shot,26,38,258,False
+JJ Barea,1,1,36,0,Jump Shot,22,226,28,False
+JJ Barea,3,3,13,1,Jump Shot,25,-201,152,False
+JJ Barea,2,10,11,0,Jump Shot,17,-172,32,True
+JJ Barea,2,6,54,1,Jump Shot,25,-147,210,False
+JJ Barea,4,3,59,0,Jump Shot,25,116,231,False
+JJ Barea,4,11,26,0,Jump Shot,18,61,176,True
+JJ Barea,2,6,19,1,Jump Shot,25,13,253,False
+JJ Barea,4,3,39,0,Jump Shot,25,-81,242,False
+JJ Barea,4,9,55,0,Jump Shot,23,-230,28,False
+JJ Barea,4,9,0,0,Jump Shot,25,215,133,False
+JJ Barea,4,0,40,0,Jump Shot,26,-130,231,False
+JJ Barea,2,4,5,0,Jump Shot,25,-127,216,False
+JJ Barea,2,7,52,0,Jump Shot,25,-85,236,False
+JJ Barea,1,1,1,1,Jump Shot,24,-143,204,False
+JJ Barea,1,2,36,1,Jump Shot,22,-227,-1,False
+JJ Barea,4,3,34,0,Jump Shot,25,-87,236,False
+JJ Barea,3,1,49,1,Jump Shot,25,-234,104,False
+JJ Barea,2,7,44,0,Jump Shot,25,125,225,False
+JJ Barea,3,1,21,1,Jump Shot,25,-202,151,False
+JJ Barea,3,2,11,1,Jump Shot,25,-185,176,False
+JJ Barea,4,8,9,1,Jump Shot,25,-87,237,False
+JJ Barea,1,0,0,0,Jump Shot,26,-96,242,False
+JJ Barea,4,8,7,0,Jump Shot,26,-208,165,False
+JJ Barea,4,2,21,0,Jump Shot,28,-5,280,False
+JJ Barea,2,1,21,0,Jump Shot,15,153,-18,True
+JJ Barea,4,11,4,0,Jump Shot,16,-108,123,True
+JJ Barea,4,6,32,0,Jump Shot,25,-7,258,False
+JJ Barea,4,6,11,1,Jump Shot,25,-177,178,False
+JJ Barea,2,8,2,0,Jump Shot,25,141,207,False
+JJ Barea,3,3,3,1,Jump Shot,25,-60,252,False
+JJ Barea,3,1,29,0,Jump Shot,27,-84,260,False
+JJ Barea,2,10,4,1,Jump Shot,25,221,118,False
+JJ Barea,1,1,38,1,Jump Shot,18,-188,5,True
+JJ Barea,2,9,26,1,Jump Shot,25,14,254,False
+JJ Barea,4,11,33,0,Jump Shot,23,237,-8,False
+JJ Barea,3,1,17,0,Jump Shot,25,-38,249,False
+JJ Barea,2,9,53,0,Jump Shot,24,33,247,False
+JJ Barea,4,9,28,0,Jump Shot,26,-6,260,False
+JJ Barea,4,1,26,1,Jump Shot,25,-133,216,False
+JJ Barea,3,3,17,0,Jump Shot,24,54,244,False
+JJ Barea,3,5,40,0,Jump Shot,26,-136,226,False
+JJ Barea,4,9,5,1,Jump Shot,26,3,263,False
+JJ Barea,1,0,36,1,Jump Shot,25,-76,248,False
+JJ Barea,2,7,40,0,Jump Shot,8,-85,29,True
+JJ Barea,1,0,9,0,Jump Shot,24,138,206,False
+JJ Barea,4,6,19,0,Jump Shot,24,-190,162,False
+JJ Barea,1,4,24,0,Jump Shot,26,-107,247,False
+JJ Barea,3,1,0,0,Jump Shot,25,-11,252,False
+JJ Barea,4,9,34,1,Jump Shot,25,-141,209,False
+JJ Barea,2,9,33,0,Jump Shot,27,-74,270,False
+JJ Barea,2,11,35,0,Jump Shot,27,150,227,False
+JJ Barea,2,10,36,0,Jump Shot,24,-217,110,False
+JJ Barea,3,0,51,1,Jump Shot,27,-169,223,False
+JJ Barea,4,2,39,0,Jump Shot,22,226,-8,False
+JJ Barea,2,2,5,1,Jump Shot,25,-123,225,False
+JJ Barea,4,9,9,0,Jump Shot,24,74,235,False
+JJ Barea,2,3,5,0,Jump Shot,23,-229,57,False
+JJ Barea,4,9,5,1,Jump Shot,30,137,277,False
+JJ Barea,2,8,3,0,Jump Shot,12,-89,90,True
+JJ Barea,3,6,54,0,Jump Shot,27,0,272,False
+JJ Barea,3,8,12,1,Jump Shot,24,-162,185,False
+JJ Barea,2,2,28,1,Jump Shot,26,-18,265,False
+JJ Barea,4,9,29,0,Jump Shot,25,105,227,False
+JJ Barea,3,3,43,1,Jump Shot,24,-171,182,False
+JJ Barea,4,10,23,0,Jump Shot,24,-103,227,False
+JJ Barea,4,7,10,0,Jump Shot,25,94,241,False
+JJ Barea,2,5,46,0,Jump Shot,25,176,178,False
+JJ Barea,3,1,44,1,Jump Shot,25,-138,214,False
+JJ Barea,2,10,56,1,Jump Shot,22,225,32,False
+JJ Barea,2,7,55,0,Jump Shot,22,-227,14,False
+JJ Barea,1,3,33,0,Jump Shot,24,-71,237,False
+JJ Barea,3,2,23,1,Jump Shot,25,176,183,False
+JJ Barea,3,0,1,0,Jump Shot,26,3,260,False
+JJ Barea,4,6,56,0,Jump Shot,25,-109,229,False
+JJ Barea,4,11,0,1,Jump Shot,12,1,121,True
+JJ Barea,1,1,55,1,Jump Shot,24,-179,174,False
+JJ Barea,3,2,52,0,Jump Shot,25,116,226,False
+JJ Barea,1,1,16,0,Jump Shot,28,161,239,False
+JJ Barea,3,0,32,0,Jump Shot,24,23,247,False
+JJ Barea,1,2,5,1,Jump Shot,25,-183,184,False
+JJ Barea,3,1,22,0,Jump Shot,24,98,226,False
+JJ Barea,1,1,46,1,Jump Shot,26,-44,257,False
+JJ Barea,3,1,38,0,Jump Shot,25,105,227,False
+JJ Barea,1,3,3,0,Jump Shot,26,-117,237,False
+JJ Barea,2,11,45,1,Jump Shot,19,-87,172,True
+JJ Barea,3,4,3,1,Jump Shot,24,157,193,False
+JJ Barea,1,1,12,1,Jump Shot,27,-16,279,False
+JJ Barea,4,10,48,1,Jump Shot,26,128,227,False
+JJ Barea,3,0,37,0,Jump Shot,26,120,240,False
+JJ Barea,3,5,55,0,Jump Shot,23,-230,8,False
+JJ Barea,3,7,23,0,Jump Shot,19,47,190,True
+JJ Barea,3,0,4,0,Jump Shot,24,-127,210,False
+JJ Barea,3,3,44,0,Jump Shot,25,-8,250,False
+JJ Barea,2,8,53,0,Jump Shot,24,160,186,False
+JJ Barea,3,0,45,0,Jump Shot,22,-223,-4,False
+JJ Barea,3,1,43,0,Jump Shot,25,36,250,False
+JJ Barea,1,4,19,1,Jump Shot,22,-97,200,True
+JJ Barea,1,1,28,0,Jump Shot,26,-114,240,False
+JJ Barea,1,0,4,1,Jump Shot,25,-178,178,False
+JJ Barea,2,6,49,0,Jump Shot,23,231,26,False
+JJ Barea,2,3,48,1,Jump Shot,26,-128,230,False
+JJ Barea,1,0,56,1,Jump Shot,26,74,251,False
+JJ Barea,4,11,39,1,Jump Shot,24,-167,185,False
+JJ Barea,4,7,43,1,Jump Shot,24,-124,213,False
+JJ Barea,1,2,38,0,Jump Shot,18,127,136,True
+JJ Barea,3,2,10,0,Jump Shot,24,-206,131,False
+JJ Barea,2,0,15,0,Jump Shot,26,105,238,False
+JJ Barea,4,8,15,0,Jump Shot,23,-230,-7,False
+JJ Barea,1,0,22,0,Jump Shot,25,125,218,False
+JJ Barea,2,8,13,0,Jump Shot,23,-230,-16,False
+JJ Barea,4,6,58,0,Jump Shot,25,-140,213,False
+JJ Barea,4,9,33,1,Jump Shot,24,-76,236,False
+JJ Barea,4,11,38,0,Jump Shot,25,-60,250,False
+JJ Barea,2,1,0,0,Jump Shot,22,209,71,True
+JJ Barea,2,8,13,1,Jump Shot,24,-148,200,False
+JJ Barea,3,0,43,0,Jump Shot,17,107,134,True
+JJ Barea,2,10,50,1,Jump Shot,25,162,194,False
+JJ Barea,2,3,30,1,Jump Shot,25,109,228,False
+JJ Barea,4,7,6,0,Jump Shot,25,34,252,False
+JJ Barea,2,4,45,1,Jump Shot,20,49,200,True
+JJ Barea,3,0,47,0,Jump Shot,26,99,250,False
+JJ Barea,4,9,57,0,Jump Shot,25,126,224,False
+JJ Barea,2,9,47,1,Jump Shot,26,-101,247,False
+JJ Barea,2,9,58,1,Jump Shot,24,-118,220,False
+JJ Barea,1,2,3,1,Jump Shot,24,117,215,False
+JJ Barea,2,1,3,0,Jump Shot,25,-118,227,False
+JJ Barea,2,4,53,0,Jump Shot,20,-33,198,True
+JJ Barea,2,3,49,1,Jump Shot,25,133,218,False
+JJ Barea,1,5,10,1,Jump Shot,14,-92,111,True
+JJ Barea,1,2,38,0,Jump Shot,16,-147,74,True
+JJ Barea,3,7,13,0,Jump Shot,24,-112,220,False
+JJ Barea,3,9,1,1,Jump Shot,25,-103,237,False
+JJ Barea,1,9,32,0,Jump Shot,26,-150,218,False
+JJ Barea,1,0,44,0,Jump Shot,11,46,109,True
+JJ Barea,4,1,39,0,Jump Shot,25,14,252,False
+JJ Barea,4,7,47,0,Jump Shot,25,-163,199,False
+JJ Barea,1,3,35,1,Jump Shot,25,145,204,False
+JJ Barea,3,0,3,1,Jump Shot,27,48,268,False
+JJ Barea,1,1,58,1,Jump Shot,24,106,218,False
+JJ Barea,4,9,14,0,Jump Shot,24,55,241,False
+JJ Barea,1,2,55,0,Jump Shot,22,-222,0,False
+JJ Barea,1,0,34,1,Layup Shot,4,36,29,True
+JJ Barea,3,6,2,1,Layup Shot,2,19,20,True
+JJ Barea,2,10,39,0,Layup Shot,5,-14,57,True
+JJ Barea,4,11,2,0,Layup Shot,2,14,21,True
+JJ Barea,1,11,3,1,Layup Shot,1,-16,5,True
+JJ Barea,2,7,39,1,Layup Shot,0,-2,9,True
+JJ Barea,1,9,22,1,Layup Shot,2,-14,17,True
+JJ Barea,1,0,1,0,Layup Shot,5,53,23,True
+JJ Barea,1,0,7,0,Layup Shot,1,16,10,True
+JJ Barea,4,4,34,0,Layup Shot,3,0,36,True
+JJ Barea,1,0,0,1,Layup Shot,0,-4,5,True
+JJ Barea,2,4,34,1,Layup Shot,0,1,5,True
+JJ Barea,2,10,59,0,Pullup Jump shot,25,-105,234,False
+JJ Barea,2,6,33,1,Pullup Jump shot,25,-54,251,False
+JJ Barea,4,2,46,0,Pullup Jump shot,20,30,204,True
+JJ Barea,3,3,11,1,Pullup Jump shot,17,124,118,True
+JJ Barea,1,3,11,0,Pullup Jump shot,10,9,101,True
+JJ Barea,1,1,6,0,Pullup Jump shot,15,112,105,True
+JJ Barea,2,5,16,0,Pullup Jump shot,13,-114,68,True
+JJ Barea,1,0,18,0,Pullup Jump shot,25,91,235,False
+JJ Barea,4,4,23,0,Pullup Jump shot,24,-210,120,False
+JJ Barea,3,1,0,0,Pullup Jump shot,24,10,247,False
+JJ Barea,2,0,55,1,Pullup Jump shot,25,87,239,False
+JJ Barea,2,5,34,0,Pullup Jump shot,25,-129,215,False
+JJ Barea,2,6,51,0,Pullup Jump shot,25,-11,257,False
+JJ Barea,2,10,31,1,Pullup Jump shot,10,0,106,True
+JJ Barea,4,9,22,0,Pullup Jump shot,16,-114,116,True
+JJ Barea,1,1,14,1,Pullup Jump shot,26,93,248,False
+JJ Barea,4,0,16,0,Pullup Jump shot,26,146,226,False
+JJ Barea,4,10,54,0,Pullup Jump shot,16,-145,69,True
+JJ Barea,2,9,24,0,Pullup Jump shot,24,134,210,False
+JJ Barea,4,9,35,0,Pullup Jump shot,10,77,66,True
+JJ Barea,2,0,45,1,Pullup Jump shot,24,152,195,False
+JJ Barea,4,6,32,1,Pullup Jump shot,17,95,148,True
+JJ Barea,3,1,1,0,Pullup Jump shot,25,-97,231,False
+JJ Barea,3,0,30,0,Pullup Jump shot,26,42,258,False
+JJ Barea,2,6,28,0,Pullup Jump shot,26,-59,258,False
+JJ Barea,2,8,30,1,Pullup Jump shot,14,-112,89,True
+JJ Barea,4,7,24,1,Pullup Jump shot,25,-144,206,False
+JJ Barea,1,0,36,1,Pullup Jump shot,26,-79,256,False
+JJ Barea,4,8,59,0,Pullup Jump shot,27,120,242,False
+JJ Barea,1,0,1,0,Pullup Jump shot,26,43,262,False
+JJ Barea,4,2,31,1,Pullup Jump shot,19,-130,141,True
+JJ Barea,1,0,44,0,Pullup Jump shot,25,-46,252,False
+JJ Barea,2,10,13,0,Pullup Jump shot,14,32,137,True
+JJ Barea,4,10,36,1,Pullup Jump shot,26,90,246,False
+JJ Barea,4,8,6,0,Pullup Jump shot,26,-195,174,False
+JJ Barea,4,2,36,1,Pullup Jump shot,27,-106,254,False
+JJ Barea,4,9,21,0,Pullup Jump shot,8,2,84,True
+JJ Barea,1,8,13,1,Pullup Jump shot,18,-111,147,True
+JJ Barea,2,3,59,1,Pullup Jump shot,10,-13,105,True
+JJ Barea,1,0,1,1,Pullup Jump shot,4,-2,49,True
+JJ Barea,2,6,6,0,Pullup Jump shot,17,172,46,True
+JJ Barea,2,9,15,0,Pullup Jump shot,23,-44,231,True
+JJ Barea,2,5,9,1,Pullup Jump shot,17,117,127,True
+JJ Barea,4,6,53,1,Pullup Jump shot,8,43,75,True
+JJ Barea,4,10,30,1,Pullup Jump shot,27,127,241,False
+JJ Barea,4,6,24,0,Pullup Jump shot,17,70,161,True
+JJ Barea,2,8,29,1,Pullup Jump shot,17,99,145,True
+JJ Barea,3,1,19,0,Pullup Jump shot,25,98,230,False
+JJ Barea,2,6,50,0,Pullup Jump shot,25,-192,162,False
+JJ Barea,4,6,3,1,Pullup Jump shot,24,-211,119,False
+JJ Barea,2,6,51,0,Pullup Jump shot,25,-175,186,False
+JJ Barea,3,0,32,1,Pullup Jump shot,26,-65,252,False
+JJ Barea,2,1,22,1,Pullup Jump shot,18,-130,132,True
+JJ Barea,1,1,43,0,Pullup Jump shot,13,62,123,True
+JJ Barea,4,3,53,1,Pullup Jump shot,24,-221,110,False
+JJ Barea,1,0,34,1,Pullup Jump shot,18,138,130,True
+JJ Barea,3,1,40,0,Pullup Jump shot,18,149,106,True
+JJ Barea,3,8,12,0,Pullup Jump shot,26,103,242,False
+JJ Barea,1,0,32,1,Pullup Jump shot,9,-49,84,True
+JJ Barea,2,10,45,1,Pullup Jump shot,26,-148,215,False
+JJ Barea,4,1,3,1,Pullup Jump shot,27,95,257,False
+JJ Barea,3,0,32,1,Pullup Jump shot,8,-31,79,True
+JJ Barea,3,2,36,1,Pullup Jump shot,19,-174,80,True
+JJ Barea,4,3,49,1,Pullup Jump shot,26,47,256,False
+JJ Barea,4,10,39,1,Pullup Jump shot,13,-5,132,True
+JJ Barea,3,5,52,0,Pullup Jump shot,25,-103,233,False
+JJ Barea,5,0,38,0,Pullup Jump shot,27,134,237,False
+JJ Barea,4,9,26,0,Pullup Jump shot,26,-71,258,False
+JJ Barea,2,9,33,1,Pullup Jump shot,24,36,243,False
+JJ Barea,2,2,39,1,Pullup Jump shot,7,3,75,True
+JJ Barea,1,6,2,1,Pullup Jump shot,14,-129,67,True
+JJ Barea,4,8,53,0,Pullup Jump shot,26,-127,230,False
+JJ Barea,1,5,32,1,Pullup Jump shot,19,133,142,True
+JJ Barea,4,7,39,1,Pullup Jump shot,13,93,96,True
+JJ Barea,2,4,16,1,Pullup Jump shot,24,225,106,False
+JJ Barea,4,7,21,0,Pullup Jump shot,12,17,126,True
+JJ Barea,2,6,12,1,Pullup Jump shot,25,-5,255,False
+JJ Barea,1,6,8,1,Pullup Jump shot,24,-183,159,False
+JJ Barea,1,0,6,0,Pullup Jump shot,25,-20,257,False
+JJ Barea,2,9,19,0,Pullup Jump shot,24,108,220,False
+JJ Barea,2,6,56,1,Pullup Jump shot,24,-124,210,False
+JJ Barea,4,10,6,0,Reverse Layup Shot,2,-1,27,True
+JJ Barea,2,9,21,0,Reverse Layup Shot,1,-11,15,True
+JJ Barea,4,3,39,1,Running Finger Roll Layup Shot,1,-6,10,True
+JJ Barea,4,8,37,1,Running Finger Roll Layup Shot,1,3,13,True
+JJ Barea,4,1,55,1,Running Finger Roll Layup Shot,1,2,17,True
+JJ Barea,2,5,54,1,Running Finger Roll Layup Shot,2,-22,20,True
+JJ Barea,2,7,52,1,Running Finger Roll Layup Shot,1,11,8,True
+JJ Barea,4,10,11,1,Running Jump Shot,2,-10,24,True
+JJ Barea,1,3,4,0,Running Jump Shot,25,97,241,False
+JJ Barea,4,9,10,1,Running Jump Shot,8,18,79,True
+JJ Barea,3,0,0,0,Running Jump Shot,53,-167,509,False
+JJ Barea,1,0,0,0,Running Jump Shot,58,138,567,False
+JJ Barea,3,3,36,1,Running Jump Shot,24,-158,193,False
+JJ Barea,1,7,38,1,Running Layup Shot,0,0,9,True
+JJ Barea,1,1,37,1,Running Layup Shot,2,-14,18,True
+JJ Barea,3,11,27,1,Running Layup Shot,2,11,18,True
+JJ Barea,4,9,32,1,Running Layup Shot,1,4,13,True
+JJ Barea,5,0,59,0,Running Layup Shot,2,20,16,True
+JJ Barea,2,1,9,1,Running Layup Shot,0,-6,6,True
+JJ Barea,3,0,4,0,Running Layup Shot,1,-13,5,True
+JJ Barea,2,0,46,1,Running Layup Shot,0,2,8,True
+JJ Barea,2,9,36,1,Running Layup Shot,3,25,29,True
+JJ Barea,1,0,1,0,Running Layup Shot,3,-28,27,True
+JJ Barea,2,11,17,1,Running Layup Shot,0,-4,4,True
+JJ Barea,4,7,24,1,Running Layup Shot,1,18,3,True
+JJ Barea,1,1,22,1,Running Layup Shot,2,-20,-3,True
+JJ Barea,2,9,56,1,Running Layup Shot,2,-21,-8,True
+JJ Barea,2,5,41,1,Running Layup Shot,2,-6,27,True
+JJ Barea,2,4,40,0,Running Layup Shot,3,-28,26,True
+JJ Barea,2,7,4,1,Running Pull-Up Jump Shot,24,-169,184,False
+JJ Barea,3,0,34,1,Running Pull-Up Jump Shot,25,14,257,False
+JJ Barea,1,0,0,0,Running Pull-Up Jump Shot,27,-174,214,False
+JJ Barea,4,8,35,0,Running Reverse Layup Shot,1,-13,8,True
+JJ Barea,4,11,18,1,Running Reverse Layup Shot,1,-11,8,True
+JJ Barea,3,4,24,1,Running Reverse Layup Shot,1,-17,4,True
+JJ Barea,4,8,50,1,Running Reverse Layup Shot,1,-7,12,True
+JJ Barea,3,4,14,1,Running Reverse Layup Shot,0,-6,4,True
+JJ Barea,4,9,33,1,Step Back Bank Jump Shot,10,-78,70,True
+JJ Barea,1,9,32,0,Step Back Jump shot,12,-127,24,True
+JJ Barea,4,6,6,1,Step Back Jump shot,24,-151,198,False
+JJ Barea,1,0,10,0,Step Back Jump shot,10,30,99,True
+JJ Barea,3,6,35,0,Step Back Jump shot,21,-3,215,True
+JJ Barea,1,4,31,1,Step Back Jump shot,7,-36,69,True
+JJ Barea,3,0,36,0,Step Back Jump shot,12,39,115,True
+JJ Barea,2,11,42,0,Step Back Jump shot,21,-55,204,True
+JJ Barea,1,0,3,0,Step Back Jump shot,22,-226,36,False
+JJ Barea,2,8,24,0,Step Back Jump shot,25,123,227,False
+JJ Barea,4,11,3,1,Step Back Jump shot,11,-39,106,True
+JJ Barea,2,10,12,1,Step Back Jump shot,16,-63,148,True
+JJ Barea,3,9,14,1,Step Back Jump shot,8,-24,78,True
+JJ Barea,3,0,33,1,Step Back Jump shot,26,148,215,False
+JJ Barea,3,0,8,0,Step Back Jump shot,28,-63,280,False
+JJ Barea,3,9,28,1,Step Back Jump shot,13,-24,137,True
+JJ Barea,2,8,13,1,Step Back Jump shot,25,231,96,False
+JJ Barea,2,4,40,0,Step Back Jump shot,9,-30,92,True
+JJ Barea,1,8,25,0,Tip Layup Shot,0,-2,1,True
+JJ Barea,4,5,13,1,Turnaround Fadeaway Bank Jump Shot,7,-60,48,True
+JJ Barea,4,5,2,1,Turnaround Fadeaway Bank Jump Shot,10,-74,69,True
+JJ Barea,4,8,22,0,Turnaround Fadeaway shot,12,52,116,True
+JJ Barea,1,1,27,1,Turnaround Fadeaway shot,15,60,138,True
+JJ Barea,2,2,48,1,Turnaround Fadeaway shot,4,-38,14,True
+JJ Barea,2,10,49,0,Turnaround Fadeaway shot,7,-43,62,True
+JJ Barea,4,7,44,0,Turnaround Fadeaway shot,8,31,76,True
+JJ Barea,1,8,58,1,Turnaround Fadeaway shot,9,-57,81,True
+JJ Barea,2,11,4,0,Turnaround Hook Shot,3,10,29,True
+JJ Barea,3,1,14,0,Turnaround Jump Shot,5,6,57,True
+JJ Barea,1,5,18,1,Turnaround Jump Shot,10,-90,44,True
+JJ Barea,2,9,42,1,Turnaround Jump Shot,5,16,53,True

@@ -1,0 +1,323 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Nemanja Bjelica,1,8,22,1,Alley Oop Layup shot,1,5,12,True
+Nemanja Bjelica,2,8,35,1,Cutting Dunk Shot,0,2,9,True
+Nemanja Bjelica,4,1,23,1,Cutting Dunk Shot,0,-3,0,True
+Nemanja Bjelica,4,6,44,1,Cutting Layup Shot,0,5,3,True
+Nemanja Bjelica,2,7,35,1,Cutting Layup Shot,1,9,13,True
+Nemanja Bjelica,4,9,1,1,Cutting Layup Shot,1,9,8,True
+Nemanja Bjelica,4,9,39,1,Cutting Layup Shot,1,6,12,True
+Nemanja Bjelica,2,10,8,0,Cutting Layup Shot,2,18,10,True
+Nemanja Bjelica,1,1,21,1,Cutting Layup Shot,2,6,26,True
+Nemanja Bjelica,4,8,50,1,Cutting Layup Shot,0,9,4,True
+Nemanja Bjelica,2,7,42,1,Cutting Layup Shot,2,-20,5,True
+Nemanja Bjelica,3,6,12,1,Cutting Layup Shot,0,5,5,True
+Nemanja Bjelica,4,4,30,1,Cutting Layup Shot,1,9,6,True
+Nemanja Bjelica,4,10,15,1,Cutting Layup Shot,1,6,8,True
+Nemanja Bjelica,4,10,52,1,Driving Dunk Shot,2,-22,16,True
+Nemanja Bjelica,4,8,11,1,Driving Dunk Shot,1,-10,15,True
+Nemanja Bjelica,1,2,21,0,Driving Dunk Shot,4,3,47,True
+Nemanja Bjelica,4,8,56,0,Driving Finger Roll Layup Shot,5,-27,53,True
+Nemanja Bjelica,4,11,18,0,Driving Floating Bank Jump Shot,5,41,42,True
+Nemanja Bjelica,4,0,41,1,Driving Floating Bank Jump Shot,2,3,21,True
+Nemanja Bjelica,3,3,22,1,Driving Floating Bank Jump Shot,3,-36,13,True
+Nemanja Bjelica,1,2,47,1,Driving Floating Bank Jump Shot,12,85,90,True
+Nemanja Bjelica,3,8,16,1,Driving Floating Bank Jump Shot,7,-55,49,True
+Nemanja Bjelica,3,2,9,1,Driving Floating Bank Jump Shot,5,34,45,True
+Nemanja Bjelica,2,8,15,1,Driving Floating Bank Jump Shot,3,-21,34,True
+Nemanja Bjelica,3,1,37,0,Driving Floating Jump Shot,8,-46,67,True
+Nemanja Bjelica,4,6,38,0,Driving Floating Jump Shot,4,-35,34,True
+Nemanja Bjelica,4,1,6,1,Driving Floating Jump Shot,2,29,-3,True
+Nemanja Bjelica,2,7,36,0,Driving Floating Jump Shot,6,52,41,True
+Nemanja Bjelica,1,5,20,1,Driving Floating Jump Shot,4,39,9,True
+Nemanja Bjelica,3,10,15,0,Driving Floating Jump Shot,14,126,66,True
+Nemanja Bjelica,4,5,22,0,Driving Floating Jump Shot,9,-32,88,True
+Nemanja Bjelica,3,6,16,0,Driving Floating Jump Shot,7,-24,70,True
+Nemanja Bjelica,3,7,4,1,Driving Floating Jump Shot,7,-9,77,True
+Nemanja Bjelica,4,10,25,1,Driving Floating Jump Shot,6,33,57,True
+Nemanja Bjelica,4,8,8,1,Driving Floating Jump Shot,9,-61,78,True
+Nemanja Bjelica,3,9,45,1,Driving Floating Jump Shot,8,-34,79,True
+Nemanja Bjelica,1,11,33,0,Driving Hook Shot,6,41,47,True
+Nemanja Bjelica,1,3,19,1,Driving Hook Shot,0,1,5,True
+Nemanja Bjelica,3,3,18,1,Driving Hook Shot,5,4,58,True
+Nemanja Bjelica,1,1,33,0,Driving Hook Shot,1,9,5,True
+Nemanja Bjelica,1,5,53,0,Driving Hook Shot,4,12,42,True
+Nemanja Bjelica,2,8,21,0,Driving Hook Shot,8,40,74,True
+Nemanja Bjelica,4,9,42,0,Driving Hook Shot,3,29,21,True
+Nemanja Bjelica,2,1,53,1,Driving Hook Shot,7,25,74,True
+Nemanja Bjelica,4,10,0,1,Driving Layup Shot,1,-8,6,True
+Nemanja Bjelica,3,9,43,1,Driving Layup Shot,4,40,18,True
+Nemanja Bjelica,2,3,2,0,Driving Layup Shot,3,-6,30,True
+Nemanja Bjelica,4,10,4,0,Driving Layup Shot,1,10,8,True
+Nemanja Bjelica,4,8,1,1,Driving Layup Shot,10,-76,73,True
+Nemanja Bjelica,2,10,49,0,Driving Layup Shot,5,45,27,True
+Nemanja Bjelica,4,0,56,0,Driving Layup Shot,2,-8,20,True
+Nemanja Bjelica,3,4,18,0,Driving Layup Shot,2,0,22,True
+Nemanja Bjelica,2,11,8,1,Driving Layup Shot,0,-2,5,True
+Nemanja Bjelica,1,8,56,0,Driving Layup Shot,3,2,32,True
+Nemanja Bjelica,2,11,41,1,Driving Layup Shot,1,-8,7,True
+Nemanja Bjelica,4,10,42,0,Driving Layup Shot,6,55,29,True
+Nemanja Bjelica,2,8,32,0,Driving Layup Shot,5,45,26,True
+Nemanja Bjelica,2,4,32,1,Driving Layup Shot,3,0,30,True
+Nemanja Bjelica,4,2,22,1,Driving Layup Shot,1,4,18,True
+Nemanja Bjelica,2,3,39,0,Driving Layup Shot,5,-33,39,True
+Nemanja Bjelica,4,8,35,0,Driving Layup Shot,3,-22,33,True
+Nemanja Bjelica,4,0,9,0,Driving Layup Shot,3,19,25,True
+Nemanja Bjelica,4,1,3,0,Driving Layup Shot,2,4,25,True
+Nemanja Bjelica,3,7,11,1,Driving Layup Shot,1,9,5,True
+Nemanja Bjelica,3,7,19,0,Finger Roll Layup Shot,2,2,22,True
+Nemanja Bjelica,2,9,33,1,Finger Roll Layup Shot,7,8,73,True
+Nemanja Bjelica,2,10,56,1,Finger Roll Layup Shot,1,-5,10,True
+Nemanja Bjelica,2,11,18,1,Floating Jump shot,9,29,95,True
+Nemanja Bjelica,1,0,55,1,Floating Jump shot,12,8,122,True
+Nemanja Bjelica,1,9,55,0,Floating Jump shot,8,14,80,True
+Nemanja Bjelica,4,5,24,1,Floating Jump shot,8,79,16,True
+Nemanja Bjelica,4,9,14,0,Floating Jump shot,9,89,27,True
+Nemanja Bjelica,4,10,56,0,Floating Jump shot,6,-2,67,True
+Nemanja Bjelica,4,5,3,1,Floating Jump shot,7,4,71,True
+Nemanja Bjelica,1,6,46,0,Floating Jump shot,5,38,41,True
+Nemanja Bjelica,2,9,4,1,Floating Jump shot,6,-62,24,True
+Nemanja Bjelica,2,0,33,0,Floating Jump shot,6,58,25,True
+Nemanja Bjelica,4,2,9,0,Floating Jump shot,3,-22,22,True
+Nemanja Bjelica,2,10,48,0,Floating Jump shot,7,51,55,True
+Nemanja Bjelica,2,8,19,1,Hook Bank Shot,6,46,50,True
+Nemanja Bjelica,3,5,26,0,Hook Shot,5,-4,52,True
+Nemanja Bjelica,4,8,29,1,Jump Bank Shot,9,74,62,True
+Nemanja Bjelica,4,11,25,1,Jump Bank Shot,7,-51,60,True
+Nemanja Bjelica,2,8,23,0,Jump Shot,25,-146,206,False
+Nemanja Bjelica,3,9,49,1,Jump Shot,25,167,189,False
+Nemanja Bjelica,2,11,40,0,Jump Shot,7,50,61,True
+Nemanja Bjelica,3,6,2,1,Jump Shot,25,-210,152,False
+Nemanja Bjelica,4,4,0,0,Jump Shot,25,6,258,False
+Nemanja Bjelica,1,1,53,0,Jump Shot,22,-223,6,False
+Nemanja Bjelica,2,10,55,1,Jump Shot,24,-207,135,False
+Nemanja Bjelica,4,11,36,0,Jump Shot,19,-106,159,True
+Nemanja Bjelica,4,7,3,1,Jump Shot,24,-134,204,False
+Nemanja Bjelica,2,11,7,1,Jump Shot,24,-215,121,False
+Nemanja Bjelica,2,8,38,0,Jump Shot,25,-131,217,False
+Nemanja Bjelica,4,8,1,0,Jump Shot,22,-225,-8,False
+Nemanja Bjelica,4,2,45,1,Jump Shot,25,-113,232,False
+Nemanja Bjelica,3,8,41,0,Jump Shot,23,-226,67,False
+Nemanja Bjelica,3,8,36,0,Jump Shot,24,-199,145,False
+Nemanja Bjelica,2,7,11,1,Jump Shot,26,2,261,False
+Nemanja Bjelica,3,1,39,0,Jump Shot,25,98,230,False
+Nemanja Bjelica,1,3,12,0,Jump Shot,9,-91,14,True
+Nemanja Bjelica,3,0,6,0,Jump Shot,22,225,4,False
+Nemanja Bjelica,3,1,30,0,Jump Shot,26,-95,252,False
+Nemanja Bjelica,4,1,11,0,Jump Shot,28,-136,255,False
+Nemanja Bjelica,3,0,48,0,Jump Shot,26,234,131,False
+Nemanja Bjelica,1,1,57,1,Jump Shot,24,-126,207,False
+Nemanja Bjelica,1,0,46,0,Jump Shot,25,-117,228,False
+Nemanja Bjelica,4,10,54,0,Jump Shot,26,180,194,False
+Nemanja Bjelica,4,2,48,1,Jump Shot,25,-159,195,False
+Nemanja Bjelica,1,3,16,0,Jump Shot,22,-225,-5,False
+Nemanja Bjelica,4,7,55,0,Jump Shot,27,15,270,False
+Nemanja Bjelica,1,6,22,1,Jump Shot,22,-225,4,False
+Nemanja Bjelica,3,4,7,0,Jump Shot,22,-225,5,False
+Nemanja Bjelica,4,11,15,1,Jump Shot,25,-178,183,False
+Nemanja Bjelica,3,8,15,0,Jump Shot,25,-131,220,False
+Nemanja Bjelica,4,4,32,0,Jump Shot,25,-146,214,False
+Nemanja Bjelica,4,2,28,0,Jump Shot,27,52,273,False
+Nemanja Bjelica,4,5,6,1,Jump Shot,28,-133,254,False
+Nemanja Bjelica,4,7,43,1,Jump Shot,29,189,222,False
+Nemanja Bjelica,1,6,6,0,Jump Shot,23,-231,39,False
+Nemanja Bjelica,4,7,22,0,Jump Shot,25,139,215,False
+Nemanja Bjelica,4,10,19,1,Jump Shot,25,166,193,False
+Nemanja Bjelica,1,1,3,1,Jump Shot,23,232,-3,False
+Nemanja Bjelica,1,8,49,0,Jump Shot,23,230,40,False
+Nemanja Bjelica,3,4,46,0,Jump Shot,8,38,72,True
+Nemanja Bjelica,3,3,53,0,Jump Shot,26,-148,214,False
+Nemanja Bjelica,3,11,15,0,Jump Shot,28,-128,254,False
+Nemanja Bjelica,2,4,7,0,Jump Shot,25,188,170,False
+Nemanja Bjelica,1,8,4,1,Jump Shot,25,204,154,False
+Nemanja Bjelica,3,3,50,0,Jump Shot,23,-232,40,False
+Nemanja Bjelica,3,7,6,0,Jump Shot,23,235,4,False
+Nemanja Bjelica,2,0,32,0,Jump Shot,22,-226,-13,False
+Nemanja Bjelica,3,1,19,1,Jump Shot,22,225,16,False
+Nemanja Bjelica,4,11,8,1,Jump Shot,25,-141,214,False
+Nemanja Bjelica,2,9,13,0,Jump Shot,23,232,15,False
+Nemanja Bjelica,2,8,26,1,Jump Shot,23,-230,29,False
+Nemanja Bjelica,4,11,47,0,Jump Shot,22,-228,-3,False
+Nemanja Bjelica,3,7,22,0,Jump Shot,26,144,221,False
+Nemanja Bjelica,4,0,29,0,Jump Shot,24,-128,210,False
+Nemanja Bjelica,3,9,24,1,Jump Shot,23,-229,27,False
+Nemanja Bjelica,1,1,30,0,Jump Shot,28,208,198,False
+Nemanja Bjelica,3,7,27,1,Jump Shot,25,-7,252,False
+Nemanja Bjelica,2,0,4,0,Jump Shot,32,163,277,False
+Nemanja Bjelica,3,9,20,1,Jump Shot,28,-52,280,False
+Nemanja Bjelica,3,3,22,0,Jump Shot,24,-112,223,False
+Nemanja Bjelica,3,1,54,1,Jump Shot,22,-226,23,False
+Nemanja Bjelica,2,10,4,0,Jump Shot,27,208,183,False
+Nemanja Bjelica,1,8,30,0,Jump Shot,25,157,197,False
+Nemanja Bjelica,3,10,53,1,Jump Shot,25,159,197,False
+Nemanja Bjelica,1,9,21,1,Jump Shot,25,-175,181,False
+Nemanja Bjelica,3,4,40,0,Jump Shot,28,181,222,False
+Nemanja Bjelica,3,4,1,0,Jump Shot,25,165,191,False
+Nemanja Bjelica,3,10,7,0,Jump Shot,22,-220,5,False
+Nemanja Bjelica,2,5,12,0,Jump Shot,23,-234,25,False
+Nemanja Bjelica,2,10,52,0,Jump Shot,25,98,231,False
+Nemanja Bjelica,1,7,52,1,Jump Shot,24,-80,232,False
+Nemanja Bjelica,2,9,25,1,Jump Shot,26,51,260,False
+Nemanja Bjelica,4,11,28,0,Jump Shot,27,-161,225,False
+Nemanja Bjelica,1,0,40,0,Jump Shot,2,-3,29,True
+Nemanja Bjelica,2,7,55,1,Jump Shot,26,0,262,False
+Nemanja Bjelica,2,10,35,1,Jump Shot,23,-231,-21,False
+Nemanja Bjelica,2,6,3,0,Jump Shot,27,-88,264,False
+Nemanja Bjelica,4,5,26,0,Jump Shot,25,-74,242,False
+Nemanja Bjelica,2,8,2,0,Jump Shot,31,139,284,False
+Nemanja Bjelica,4,11,14,1,Jump Shot,27,-221,164,False
+Nemanja Bjelica,4,9,19,0,Jump Shot,31,-138,281,False
+Nemanja Bjelica,2,6,8,0,Jump Shot,25,12,257,False
+Nemanja Bjelica,1,0,49,1,Jump Shot,24,106,224,False
+Nemanja Bjelica,4,9,5,0,Jump Shot,25,-107,227,False
+Nemanja Bjelica,4,6,19,0,Jump Shot,26,-5,263,False
+Nemanja Bjelica,4,0,18,1,Jump Shot,26,166,204,False
+Nemanja Bjelica,4,10,12,0,Jump Shot,23,232,44,False
+Nemanja Bjelica,2,7,31,1,Jump Shot,23,-231,37,False
+Nemanja Bjelica,2,6,58,0,Jump Shot,24,-147,199,False
+Nemanja Bjelica,2,8,31,1,Jump Shot,25,-73,240,False
+Nemanja Bjelica,1,0,9,0,Jump Shot,24,-183,168,False
+Nemanja Bjelica,2,11,16,1,Jump Shot,25,-131,217,False
+Nemanja Bjelica,2,9,29,0,Jump Shot,16,-149,68,True
+Nemanja Bjelica,4,9,8,0,Jump Shot,24,63,241,False
+Nemanja Bjelica,4,11,21,0,Jump Shot,22,223,52,False
+Nemanja Bjelica,3,9,34,1,Jump Shot,25,140,218,False
+Nemanja Bjelica,3,8,0,0,Jump Shot,7,0,72,True
+Nemanja Bjelica,2,0,43,1,Jump Shot,22,-225,-2,False
+Nemanja Bjelica,2,9,22,1,Jump Shot,26,-204,164,False
+Nemanja Bjelica,2,7,53,1,Jump Shot,22,228,8,False
+Nemanja Bjelica,2,10,33,0,Jump Shot,24,187,164,False
+Nemanja Bjelica,4,11,48,1,Jump Shot,27,-106,249,False
+Nemanja Bjelica,4,8,19,1,Jump Shot,22,-224,29,False
+Nemanja Bjelica,2,7,30,1,Jump Shot,24,-143,201,False
+Nemanja Bjelica,2,10,56,0,Jump Shot,24,-196,151,False
+Nemanja Bjelica,2,11,8,0,Jump Shot,26,-118,234,False
+Nemanja Bjelica,2,9,32,0,Jump Shot,22,225,21,False
+Nemanja Bjelica,2,9,14,1,Jump Shot,25,88,242,False
+Nemanja Bjelica,4,0,14,0,Jump Shot,26,-187,185,False
+Nemanja Bjelica,2,8,45,0,Jump Shot,27,165,222,False
+Nemanja Bjelica,2,6,21,0,Jump Shot,25,90,237,False
+Nemanja Bjelica,2,9,40,1,Jump Shot,24,25,248,False
+Nemanja Bjelica,4,1,40,0,Jump Shot,23,232,6,False
+Nemanja Bjelica,4,9,2,0,Jump Shot,26,-32,262,False
+Nemanja Bjelica,4,2,45,0,Jump Shot,28,-127,259,False
+Nemanja Bjelica,2,10,37,0,Jump Shot,23,232,17,False
+Nemanja Bjelica,4,5,36,0,Jump Shot,7,-68,22,True
+Nemanja Bjelica,4,11,8,0,Jump Shot,29,-163,244,False
+Nemanja Bjelica,1,0,51,0,Jump Shot,23,232,11,False
+Nemanja Bjelica,2,11,12,0,Jump Shot,29,6,291,False
+Nemanja Bjelica,2,10,5,0,Jump Shot,18,12,180,True
+Nemanja Bjelica,2,11,48,0,Jump Shot,24,-36,247,False
+Nemanja Bjelica,4,9,39,0,Jump Shot,26,11,263,False
+Nemanja Bjelica,1,0,2,1,Jump Shot,25,-8,257,False
+Nemanja Bjelica,1,2,2,0,Jump Shot,17,-117,132,True
+Nemanja Bjelica,3,0,54,0,Jump Shot,26,123,230,False
+Nemanja Bjelica,1,1,33,1,Jump Shot,24,-118,219,False
+Nemanja Bjelica,4,7,37,1,Jump Shot,26,-92,253,False
+Nemanja Bjelica,4,8,34,0,Jump Shot,24,-210,130,False
+Nemanja Bjelica,1,1,46,0,Jump Shot,3,-3,37,True
+Nemanja Bjelica,1,3,10,1,Jump Shot,25,-160,204,False
+Nemanja Bjelica,1,5,11,0,Jump Shot,25,152,202,False
+Nemanja Bjelica,1,1,47,1,Jump Shot,25,-5,251,False
+Nemanja Bjelica,4,8,2,0,Jump Shot,26,-1,269,False
+Nemanja Bjelica,1,1,35,0,Jump Shot,25,-166,192,False
+Nemanja Bjelica,4,7,9,0,Jump Shot,25,-212,148,False
+Nemanja Bjelica,2,10,44,0,Jump Shot,27,1,271,False
+Nemanja Bjelica,4,9,34,0,Jump Shot,32,3,321,False
+Nemanja Bjelica,2,7,24,1,Jump Shot,24,126,214,False
+Nemanja Bjelica,2,8,56,0,Jump Shot,26,-163,206,False
+Nemanja Bjelica,4,1,3,0,Jump Shot,7,75,16,True
+Nemanja Bjelica,2,11,20,1,Jump Shot,25,32,253,False
+Nemanja Bjelica,2,10,3,1,Jump Shot,26,19,260,False
+Nemanja Bjelica,1,2,22,0,Jump Shot,25,-125,219,False
+Nemanja Bjelica,1,0,4,1,Jump Shot,22,-222,-4,False
+Nemanja Bjelica,2,9,17,1,Jump Shot,20,-207,17,True
+Nemanja Bjelica,1,0,59,1,Jump Shot,25,124,226,False
+Nemanja Bjelica,4,11,32,0,Jump Shot,25,-182,182,False
+Nemanja Bjelica,4,10,8,1,Jump Shot,25,0,258,False
+Nemanja Bjelica,3,5,29,0,Jump Shot,23,-235,13,False
+Nemanja Bjelica,4,9,15,0,Jump Shot,25,65,248,False
+Nemanja Bjelica,3,3,54,1,Jump Shot,27,-11,273,False
+Nemanja Bjelica,4,11,42,1,Jump Shot,25,-111,233,False
+Nemanja Bjelica,3,1,6,0,Jump Shot,23,230,5,False
+Nemanja Bjelica,2,9,39,1,Jump Shot,25,-97,234,False
+Nemanja Bjelica,2,9,3,0,Jump Shot,25,23,252,False
+Nemanja Bjelica,4,2,54,0,Jump Shot,23,234,4,False
+Nemanja Bjelica,4,4,59,1,Jump Shot,26,52,259,False
+Nemanja Bjelica,2,5,48,0,Jump Shot,25,65,242,False
+Nemanja Bjelica,2,10,23,1,Jump Shot,26,-85,252,False
+Nemanja Bjelica,4,10,21,1,Jump Shot,25,-35,248,False
+Nemanja Bjelica,1,0,51,1,Jump Shot,22,222,-6,False
+Nemanja Bjelica,3,0,0,1,Jump Shot,26,-197,170,False
+Nemanja Bjelica,4,7,24,0,Jump Shot,25,19,251,False
+Nemanja Bjelica,2,7,25,0,Jump Shot,27,-107,252,False
+Nemanja Bjelica,1,9,37,0,Jump Shot,26,114,242,False
+Nemanja Bjelica,2,5,41,0,Jump Shot,24,202,147,False
+Nemanja Bjelica,2,11,34,0,Jump Shot,10,-103,37,True
+Nemanja Bjelica,2,9,45,0,Jump Shot,23,-118,199,True
+Nemanja Bjelica,2,0,0,1,Layup Shot,1,-7,8,True
+Nemanja Bjelica,4,7,12,0,Layup Shot,1,-12,6,True
+Nemanja Bjelica,2,8,27,0,Layup Shot,1,-13,10,True
+Nemanja Bjelica,4,11,3,1,Layup Shot,2,19,16,True
+Nemanja Bjelica,1,10,25,1,Layup Shot,2,20,11,True
+Nemanja Bjelica,3,8,37,0,Layup Shot,4,2,43,True
+Nemanja Bjelica,1,4,57,0,Layup Shot,1,-4,11,True
+Nemanja Bjelica,4,11,6,1,Layup Shot,0,-1,5,True
+Nemanja Bjelica,2,11,2,1,Layup Shot,2,24,5,True
+Nemanja Bjelica,2,5,19,1,Layup Shot,0,6,6,True
+Nemanja Bjelica,1,6,13,1,Layup Shot,1,12,10,True
+Nemanja Bjelica,3,1,41,1,Layup Shot,0,1,9,True
+Nemanja Bjelica,3,2,57,0,Layup Shot,2,-6,26,True
+Nemanja Bjelica,4,3,32,0,Layup Shot,1,10,17,True
+Nemanja Bjelica,3,10,23,1,Layup Shot,0,-3,8,True
+Nemanja Bjelica,4,10,40,1,Layup Shot,1,16,7,True
+Nemanja Bjelica,3,7,21,0,Layup Shot,2,14,18,True
+Nemanja Bjelica,4,1,31,1,Layup Shot,1,8,11,True
+Nemanja Bjelica,4,7,50,0,Pullup Jump shot,4,-32,29,True
+Nemanja Bjelica,2,10,56,0,Pullup Jump shot,10,103,10,True
+Nemanja Bjelica,1,3,33,0,Pullup Jump shot,22,-26,226,True
+Nemanja Bjelica,2,4,54,0,Pullup Jump shot,18,-116,146,True
+Nemanja Bjelica,1,8,46,0,Pullup Jump shot,25,-173,184,False
+Nemanja Bjelica,2,7,40,0,Pullup Jump shot,7,-65,36,True
+Nemanja Bjelica,1,9,37,0,Pullup Jump shot,24,-154,192,False
+Nemanja Bjelica,2,10,41,0,Pullup Jump shot,4,16,47,True
+Nemanja Bjelica,1,1,56,1,Putback Layup Shot,0,0,4,True
+Nemanja Bjelica,4,6,40,0,Putback Layup Shot,0,0,-6,True
+Nemanja Bjelica,1,11,26,1,Putback Layup Shot,0,0,-6,True
+Nemanja Bjelica,2,8,23,1,Putback Layup Shot,0,0,-6,True
+Nemanja Bjelica,2,10,15,1,Reverse Layup Shot,1,-9,8,True
+Nemanja Bjelica,4,10,42,1,Reverse Layup Shot,0,3,4,True
+Nemanja Bjelica,2,6,5,1,Reverse Layup Shot,1,9,9,True
+Nemanja Bjelica,3,2,51,1,Running Dunk Shot,0,8,1,True
+Nemanja Bjelica,2,8,41,1,Running Dunk Shot,0,8,4,True
+Nemanja Bjelica,4,9,17,1,Running Finger Roll Layup Shot,2,-24,13,True
+Nemanja Bjelica,4,10,13,1,Running Jump Shot,8,-25,83,True
+Nemanja Bjelica,2,8,51,1,Running Layup Shot,3,-23,21,True
+Nemanja Bjelica,1,11,9,0,Running Layup Shot,2,-22,11,True
+Nemanja Bjelica,4,10,16,1,Running Layup Shot,1,-14,5,True
+Nemanja Bjelica,1,10,2,1,Running Layup Shot,2,29,-1,True
+Nemanja Bjelica,4,9,21,0,Running Layup Shot,2,2,26,True
+Nemanja Bjelica,2,6,51,0,Running Layup Shot,5,30,40,True
+Nemanja Bjelica,2,10,21,1,Running Layup Shot,1,9,15,True
+Nemanja Bjelica,2,3,45,1,Running Layup Shot,1,5,19,True
+Nemanja Bjelica,2,11,15,1,Running Reverse Layup Shot,0,-7,4,True
+Nemanja Bjelica,3,8,53,0,Running Reverse Layup Shot,2,17,21,True
+Nemanja Bjelica,4,3,18,1,Step Back Jump shot,29,101,275,False
+Nemanja Bjelica,2,8,16,1,Step Back Jump shot,24,1,245,False
+Nemanja Bjelica,4,10,42,1,Step Back Jump shot,25,-201,159,False
+Nemanja Bjelica,2,7,15,0,Step Back Jump shot,18,186,-7,True
+Nemanja Bjelica,1,7,31,1,Tip Layup Shot,0,0,-6,True
+Nemanja Bjelica,2,11,17,0,Tip Layup Shot,0,0,-6,True
+Nemanja Bjelica,4,5,33,0,Tip Layup Shot,0,0,-6,True
+Nemanja Bjelica,2,8,14,1,Tip Layup Shot,0,0,-6,True
+Nemanja Bjelica,3,2,53,0,Tip Layup Shot,0,0,-6,True
+Nemanja Bjelica,2,7,0,1,Tip Layup Shot,0,0,-6,True
+Nemanja Bjelica,2,7,15,0,Tip Layup Shot,0,0,-6,True
+Nemanja Bjelica,2,7,49,1,Tip Layup Shot,0,0,-6,True
+Nemanja Bjelica,4,6,34,0,Tip Layup Shot,0,0,-6,True
+Nemanja Bjelica,2,3,37,1,Tip Layup Shot,0,0,-6,True
+Nemanja Bjelica,1,1,39,0,Tip Layup Shot,0,0,-6,True
+Nemanja Bjelica,2,9,24,1,Tip Layup Shot,0,0,-6,True
+Nemanja Bjelica,4,4,50,0,Tip Layup Shot,0,0,-6,True
+Nemanja Bjelica,4,5,32,0,Tip Layup Shot,0,0,-6,True
+Nemanja Bjelica,3,7,57,0,Turnaround Hook Shot,4,-24,42,True
+Nemanja Bjelica,1,7,5,0,Turnaround Hook Shot,6,-68,11,True

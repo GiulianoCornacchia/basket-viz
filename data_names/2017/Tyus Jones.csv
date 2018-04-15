@@ -1,0 +1,298 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Tyus Jones,1,7,41,1,Cutting Finger Roll Layup Shot,1,-2,11,True
+Tyus Jones,4,7,44,1,Cutting Layup Shot,1,6,15,True
+Tyus Jones,1,10,25,1,Cutting Layup Shot,2,27,13,True
+Tyus Jones,4,11,9,1,Cutting Layup Shot,2,-24,13,True
+Tyus Jones,2,6,41,1,Cutting Layup Shot,1,14,10,True
+Tyus Jones,1,5,6,1,Cutting Layup Shot,1,2,10,True
+Tyus Jones,4,7,1,0,Cutting Layup Shot,0,3,8,True
+Tyus Jones,4,0,47,1,Cutting Layup Shot,1,1,10,True
+Tyus Jones,2,2,39,1,Driving Dunk Shot,1,7,9,True
+Tyus Jones,2,1,11,0,Driving Dunk Shot,0,-6,-6,True
+Tyus Jones,1,1,31,0,Driving Finger Roll Layup Shot,4,32,34,True
+Tyus Jones,3,5,45,1,Driving Finger Roll Layup Shot,0,1,5,True
+Tyus Jones,4,11,26,1,Driving Finger Roll Layup Shot,1,18,5,True
+Tyus Jones,3,0,29,1,Driving Finger Roll Layup Shot,1,-3,11,True
+Tyus Jones,2,9,41,1,Driving Finger Roll Layup Shot,2,-9,20,True
+Tyus Jones,2,8,58,1,Driving Finger Roll Layup Shot,1,-6,16,True
+Tyus Jones,2,10,7,1,Driving Finger Roll Layup Shot,2,-18,14,True
+Tyus Jones,2,4,58,1,Driving Floating Bank Jump Shot,6,63,12,True
+Tyus Jones,4,11,3,1,Driving Floating Bank Jump Shot,9,-73,62,True
+Tyus Jones,2,9,54,1,Driving Floating Bank Jump Shot,7,5,78,True
+Tyus Jones,1,10,33,1,Driving Floating Bank Jump Shot,7,-32,67,True
+Tyus Jones,4,2,50,0,Driving Floating Bank Jump Shot,3,29,27,True
+Tyus Jones,4,3,21,1,Driving Floating Bank Jump Shot,13,-57,126,True
+Tyus Jones,2,6,20,1,Driving Floating Bank Jump Shot,8,-78,25,True
+Tyus Jones,3,0,59,1,Driving Floating Jump Shot,9,-36,83,True
+Tyus Jones,3,4,22,0,Driving Floating Jump Shot,10,-45,97,True
+Tyus Jones,3,6,7,1,Driving Floating Jump Shot,12,-30,126,True
+Tyus Jones,1,2,17,0,Driving Floating Jump Shot,3,-10,37,True
+Tyus Jones,1,5,59,0,Driving Floating Jump Shot,7,-52,58,True
+Tyus Jones,1,0,29,0,Driving Floating Jump Shot,6,49,43,True
+Tyus Jones,2,9,23,1,Driving Floating Jump Shot,11,-110,10,True
+Tyus Jones,4,7,19,1,Driving Floating Jump Shot,6,-9,60,True
+Tyus Jones,4,7,0,1,Driving Floating Jump Shot,10,8,107,True
+Tyus Jones,3,8,33,0,Driving Floating Jump Shot,7,-20,73,True
+Tyus Jones,1,2,53,1,Driving Floating Jump Shot,2,-5,29,True
+Tyus Jones,4,10,47,1,Driving Floating Jump Shot,13,-61,125,True
+Tyus Jones,2,10,36,0,Driving Floating Jump Shot,11,-111,35,True
+Tyus Jones,2,9,2,1,Driving Floating Jump Shot,6,1,68,True
+Tyus Jones,3,0,29,1,Driving Floating Jump Shot,9,58,79,True
+Tyus Jones,3,0,31,0,Driving Floating Jump Shot,8,8,84,True
+Tyus Jones,2,8,30,0,Driving Floating Jump Shot,8,-40,74,True
+Tyus Jones,3,0,30,0,Driving Floating Jump Shot,6,16,68,True
+Tyus Jones,2,9,16,1,Driving Floating Jump Shot,7,-4,71,True
+Tyus Jones,3,1,45,1,Driving Floating Jump Shot,8,2,83,True
+Tyus Jones,2,9,28,0,Driving Layup Shot,2,-9,25,True
+Tyus Jones,1,1,17,0,Driving Layup Shot,1,3,15,True
+Tyus Jones,2,7,33,0,Driving Layup Shot,4,-34,29,True
+Tyus Jones,4,10,48,0,Driving Layup Shot,3,26,29,True
+Tyus Jones,2,9,57,1,Driving Layup Shot,0,-6,5,True
+Tyus Jones,4,11,16,0,Driving Layup Shot,6,65,18,True
+Tyus Jones,2,9,21,0,Driving Layup Shot,4,0,43,True
+Tyus Jones,1,1,2,0,Driving Layup Shot,5,44,31,True
+Tyus Jones,3,2,48,0,Driving Layup Shot,1,-5,17,True
+Tyus Jones,2,0,25,0,Driving Layup Shot,1,-12,5,True
+Tyus Jones,1,0,54,1,Driving Layup Shot,2,-24,3,True
+Tyus Jones,1,7,50,1,Driving Layup Shot,1,0,14,True
+Tyus Jones,4,7,44,1,Driving Layup Shot,1,15,13,True
+Tyus Jones,2,5,0,1,Driving Layup Shot,0,-2,1,True
+Tyus Jones,2,10,52,0,Driving Layup Shot,6,3,69,True
+Tyus Jones,4,7,18,1,Driving Layup Shot,1,3,12,True
+Tyus Jones,4,8,37,0,Driving Layup Shot,3,30,22,True
+Tyus Jones,3,1,36,0,Driving Layup Shot,2,2,26,True
+Tyus Jones,4,8,16,1,Driving Layup Shot,2,-17,18,True
+Tyus Jones,3,1,16,1,Driving Layup Shot,0,-8,3,True
+Tyus Jones,2,5,31,0,Driving Layup Shot,0,0,9,True
+Tyus Jones,2,9,43,1,Driving Layup Shot,4,38,20,True
+Tyus Jones,2,9,3,1,Driving Layup Shot,3,20,25,True
+Tyus Jones,4,7,52,0,Driving Layup Shot,9,39,87,True
+Tyus Jones,2,9,28,1,Driving Layup Shot,0,4,7,True
+Tyus Jones,2,11,16,1,Driving Layup Shot,1,-5,10,True
+Tyus Jones,3,11,4,0,Driving Layup Shot,2,-14,16,True
+Tyus Jones,4,1,22,1,Driving Layup Shot,2,22,0,True
+Tyus Jones,1,0,26,0,Driving Layup Shot,1,9,14,True
+Tyus Jones,4,9,16,0,Driving Layup Shot,3,-10,37,True
+Tyus Jones,1,1,25,1,Driving Layup Shot,2,22,6,True
+Tyus Jones,3,0,32,0,Driving Layup Shot,2,-3,20,True
+Tyus Jones,4,6,6,1,Driving Layup Shot,1,5,16,True
+Tyus Jones,3,2,47,0,Driving Layup Shot,2,-18,15,True
+Tyus Jones,2,9,19,1,Driving Layup Shot,1,-11,0,True
+Tyus Jones,4,8,54,0,Driving Layup Shot,0,-2,5,True
+Tyus Jones,4,7,38,0,Driving Layup Shot,5,-36,43,True
+Tyus Jones,4,8,56,0,Fadeaway Jump Shot,10,-72,76,True
+Tyus Jones,2,0,12,0,Finger Roll Layup Shot,3,6,34,True
+Tyus Jones,4,5,23,0,Floating Jump shot,10,-41,98,True
+Tyus Jones,3,7,30,0,Floating Jump shot,10,15,101,True
+Tyus Jones,1,3,57,0,Floating Jump shot,7,-47,59,True
+Tyus Jones,2,6,41,0,Floating Jump shot,5,7,55,True
+Tyus Jones,2,7,2,1,Floating Jump shot,10,18,101,True
+Tyus Jones,1,1,51,1,Floating Jump shot,12,-53,111,True
+Tyus Jones,4,7,23,1,Floating Jump shot,13,60,121,True
+Tyus Jones,4,6,24,1,Floating Jump shot,10,1,108,True
+Tyus Jones,2,10,5,0,Floating Jump shot,7,12,78,True
+Tyus Jones,4,0,10,0,Floating Jump shot,11,-103,39,True
+Tyus Jones,1,7,50,1,Floating Jump shot,14,70,125,True
+Tyus Jones,4,2,21,1,Floating Jump shot,6,13,67,True
+Tyus Jones,1,2,59,1,Floating Jump shot,12,-14,125,True
+Tyus Jones,1,7,6,1,Floating Jump shot,8,-33,80,True
+Tyus Jones,4,9,44,0,Floating Jump shot,7,-40,62,True
+Tyus Jones,1,0,1,0,Jump Bank Shot,11,-103,57,True
+Tyus Jones,1,0,54,1,Jump Bank Shot,9,-95,-4,True
+Tyus Jones,2,11,39,0,Jump Bank Shot,10,-84,56,True
+Tyus Jones,3,0,38,1,Jump Bank Shot,5,-42,34,True
+Tyus Jones,1,8,27,0,Jump Shot,26,-10,267,False
+Tyus Jones,2,0,6,1,Jump Shot,22,-222,26,False
+Tyus Jones,2,3,3,1,Jump Shot,23,230,34,False
+Tyus Jones,3,0,34,0,Jump Shot,22,-226,15,False
+Tyus Jones,1,0,0,0,Jump Shot,42,-93,410,False
+Tyus Jones,1,2,2,0,Jump Shot,22,-225,13,False
+Tyus Jones,2,5,3,0,Jump Shot,25,55,247,False
+Tyus Jones,4,11,38,1,Jump Shot,23,-238,-10,False
+Tyus Jones,4,8,15,0,Jump Shot,27,145,229,False
+Tyus Jones,4,0,43,1,Jump Shot,25,245,68,False
+Tyus Jones,3,3,3,0,Jump Shot,24,38,242,False
+Tyus Jones,3,3,29,0,Jump Shot,23,-226,52,False
+Tyus Jones,1,3,21,0,Jump Shot,24,-52,237,False
+Tyus Jones,3,5,8,1,Jump Shot,22,-222,43,False
+Tyus Jones,3,10,47,0,Jump Shot,28,120,253,False
+Tyus Jones,3,11,24,1,Jump Shot,22,-222,-11,False
+Tyus Jones,1,8,52,0,Jump Shot,26,125,235,False
+Tyus Jones,3,2,28,1,Jump Shot,22,-228,4,False
+Tyus Jones,2,1,13,0,Jump Shot,23,235,1,False
+Tyus Jones,2,5,57,0,Jump Shot,26,134,226,False
+Tyus Jones,1,2,18,0,Jump Shot,24,-148,199,False
+Tyus Jones,4,1,23,0,Jump Shot,20,118,164,True
+Tyus Jones,1,5,11,0,Jump Shot,26,-33,262,False
+Tyus Jones,1,0,41,0,Jump Shot,26,-116,234,False
+Tyus Jones,3,4,38,1,Jump Shot,26,-130,235,False
+Tyus Jones,3,0,10,1,Jump Shot,25,-218,123,False
+Tyus Jones,3,0,39,0,Jump Shot,26,-169,207,False
+Tyus Jones,4,11,28,0,Jump Shot,24,141,202,False
+Tyus Jones,2,10,41,1,Jump Shot,25,-206,155,False
+Tyus Jones,4,10,32,0,Jump Shot,25,-153,200,False
+Tyus Jones,4,0,43,0,Jump Shot,23,-229,31,False
+Tyus Jones,4,2,36,1,Jump Shot,23,-230,44,False
+Tyus Jones,4,9,56,0,Jump Shot,26,-148,216,False
+Tyus Jones,1,2,39,0,Jump Shot,23,-232,17,False
+Tyus Jones,2,8,8,0,Jump Shot,24,-57,242,False
+Tyus Jones,2,7,16,0,Jump Shot,22,228,22,False
+Tyus Jones,4,8,12,0,Jump Shot,22,-226,7,False
+Tyus Jones,1,1,32,1,Jump Shot,25,-152,205,False
+Tyus Jones,2,11,21,0,Jump Shot,26,-153,215,False
+Tyus Jones,2,9,49,0,Jump Shot,22,-226,1,False
+Tyus Jones,2,11,25,1,Jump Shot,20,204,28,True
+Tyus Jones,3,3,38,0,Jump Shot,23,-229,27,False
+Tyus Jones,4,8,17,1,Jump Shot,22,-229,0,False
+Tyus Jones,4,9,47,0,Jump Shot,19,-199,2,True
+Tyus Jones,4,11,17,0,Jump Shot,24,65,239,False
+Tyus Jones,2,6,46,0,Jump Shot,24,97,228,False
+Tyus Jones,4,10,22,1,Jump Shot,18,-21,187,True
+Tyus Jones,4,1,36,0,Jump Shot,24,-64,239,False
+Tyus Jones,4,9,35,1,Jump Shot,25,-112,226,False
+Tyus Jones,1,3,22,1,Jump Shot,15,-3,155,True
+Tyus Jones,4,7,32,0,Jump Shot,23,-235,15,False
+Tyus Jones,4,10,43,0,Jump Shot,24,8,245,False
+Tyus Jones,2,8,2,1,Jump Shot,24,138,205,False
+Tyus Jones,4,7,49,1,Jump Shot,26,-52,256,False
+Tyus Jones,3,0,8,0,Jump Shot,19,-145,133,True
+Tyus Jones,2,10,55,1,Jump Shot,24,239,45,False
+Tyus Jones,4,9,55,0,Jump Shot,23,226,73,False
+Tyus Jones,4,11,3,1,Jump Shot,25,-160,196,False
+Tyus Jones,2,7,23,0,Jump Shot,28,126,251,False
+Tyus Jones,2,8,34,1,Jump Shot,26,202,167,False
+Tyus Jones,2,10,55,0,Jump Shot,23,-226,68,False
+Tyus Jones,4,6,41,1,Jump Shot,25,-145,212,False
+Tyus Jones,1,1,34,0,Jump Shot,25,93,236,False
+Tyus Jones,2,8,30,0,Jump Shot,25,134,216,False
+Tyus Jones,1,0,54,0,Jump Shot,23,-90,212,True
+Tyus Jones,1,1,53,0,Jump Shot,5,44,40,True
+Tyus Jones,4,8,6,1,Jump Shot,22,-225,0,False
+Tyus Jones,3,3,14,0,Jump Shot,26,-127,237,False
+Tyus Jones,3,8,23,0,Jump Shot,24,-104,227,False
+Tyus Jones,1,3,45,0,Jump Shot,24,72,237,False
+Tyus Jones,4,3,16,0,Jump Shot,27,-19,275,False
+Tyus Jones,2,4,12,0,Jump Shot,25,12,258,False
+Tyus Jones,3,1,8,0,Jump Shot,25,-147,204,False
+Tyus Jones,4,6,34,0,Jump Shot,22,-229,6,False
+Tyus Jones,3,1,12,1,Jump Shot,25,-110,233,False
+Tyus Jones,1,4,32,0,Jump Shot,22,-226,-5,False
+Tyus Jones,3,5,31,0,Jump Shot,25,155,207,False
+Tyus Jones,2,0,0,0,Jump Shot,56,-86,554,False
+Tyus Jones,2,3,48,0,Jump Shot,26,-151,219,False
+Tyus Jones,2,5,57,0,Jump Shot,23,228,50,False
+Tyus Jones,3,2,17,0,Jump Shot,26,-120,240,False
+Tyus Jones,3,1,28,1,Jump Shot,23,-239,1,False
+Tyus Jones,4,10,39,1,Jump Shot,23,-230,16,False
+Tyus Jones,1,0,0,0,Jump Shot,24,202,142,False
+Tyus Jones,1,3,26,0,Jump Shot,22,-220,-15,False
+Tyus Jones,4,10,46,1,Jump Shot,25,-89,234,False
+Tyus Jones,4,11,19,1,Jump Shot,23,-152,183,False
+Tyus Jones,1,0,29,1,Jump Shot,5,3,53,True
+Tyus Jones,2,8,45,1,Jump Shot,24,-57,243,False
+Tyus Jones,1,1,50,0,Jump Shot,10,5,103,True
+Tyus Jones,2,8,35,1,Jump Shot,24,157,191,False
+Tyus Jones,4,9,24,0,Jump Shot,25,-159,200,False
+Tyus Jones,2,8,54,1,Jump Shot,22,-225,-17,False
+Tyus Jones,2,10,3,1,Jump Shot,24,158,193,False
+Tyus Jones,3,9,34,1,Jump Shot,20,156,126,True
+Tyus Jones,4,7,59,1,Jump Shot,27,-109,248,False
+Tyus Jones,3,1,51,1,Jump Shot,23,-228,53,False
+Tyus Jones,3,9,20,0,Jump Shot,25,76,242,False
+Tyus Jones,3,11,25,0,Jump Shot,27,-99,260,False
+Tyus Jones,1,4,52,0,Jump Shot,23,-230,-7,False
+Tyus Jones,3,8,8,1,Jump Shot,11,-9,112,True
+Tyus Jones,4,4,13,1,Jump Shot,25,-123,223,False
+Tyus Jones,3,5,18,0,Jump Shot,23,-234,47,False
+Tyus Jones,4,2,17,0,Jump Shot,23,-231,13,False
+Tyus Jones,3,9,28,1,Jump Shot,24,-100,225,False
+Tyus Jones,1,7,26,0,Jump Shot,22,-225,25,False
+Tyus Jones,4,0,31,0,Jump Shot,22,225,20,False
+Tyus Jones,1,3,17,1,Jump Shot,24,114,216,False
+Tyus Jones,3,5,48,1,Jump Shot,25,30,253,False
+Tyus Jones,4,0,36,0,Jump Shot,8,79,41,True
+Tyus Jones,1,0,0,0,Jump Shot,25,-167,193,False
+Tyus Jones,4,11,17,0,Jump Shot,22,-228,16,False
+Tyus Jones,2,10,2,0,Jump Shot,25,104,237,False
+Tyus Jones,2,10,12,0,Jump Shot,24,223,109,False
+Tyus Jones,2,9,2,1,Jump Shot,18,-186,8,True
+Tyus Jones,4,8,42,0,Jump Shot,22,-228,19,False
+Tyus Jones,2,8,10,0,Jump Shot,22,-225,0,False
+Tyus Jones,4,2,10,0,Jump Shot,23,-232,8,False
+Tyus Jones,2,9,29,1,Jump Shot,24,-221,111,False
+Tyus Jones,3,0,6,1,Jump Shot,25,-119,225,False
+Tyus Jones,2,9,56,1,Jump Shot,24,25,240,False
+Tyus Jones,4,10,10,0,Jump Shot,6,-38,53,True
+Tyus Jones,2,8,1,1,Jump Shot,26,165,209,False
+Tyus Jones,1,0,0,0,Jump Shot,66,9,662,False
+Tyus Jones,4,10,48,0,Jump Shot,6,55,36,True
+Tyus Jones,4,9,17,0,Jump Shot,11,103,57,True
+Tyus Jones,2,10,9,0,Jump Shot,26,158,208,False
+Tyus Jones,2,6,10,0,Jump Shot,24,174,172,False
+Tyus Jones,2,4,58,0,Jump Shot,23,233,-5,False
+Tyus Jones,1,0,54,0,Layup Shot,2,-18,15,True
+Tyus Jones,3,3,30,1,Layup Shot,0,3,7,True
+Tyus Jones,3,7,37,1,Layup Shot,0,-3,5,True
+Tyus Jones,1,8,34,0,Pullup Jump shot,15,6,152,True
+Tyus Jones,1,0,23,1,Pullup Jump shot,16,-29,158,True
+Tyus Jones,2,5,10,0,Pullup Jump shot,19,-130,144,True
+Tyus Jones,4,7,4,0,Pullup Jump shot,11,-52,107,True
+Tyus Jones,4,10,55,0,Pullup Jump shot,15,-73,138,True
+Tyus Jones,2,8,16,1,Pullup Jump shot,18,-89,158,True
+Tyus Jones,2,7,34,1,Pullup Jump shot,14,-87,120,True
+Tyus Jones,4,2,12,0,Pullup Jump shot,13,40,130,True
+Tyus Jones,2,6,41,0,Pullup Jump shot,18,32,183,True
+Tyus Jones,4,0,11,1,Pullup Jump shot,25,-142,214,False
+Tyus Jones,2,6,34,0,Pullup Jump shot,22,-96,206,True
+Tyus Jones,2,10,4,1,Pullup Jump shot,15,-151,15,True
+Tyus Jones,2,6,33,1,Pullup Jump shot,19,115,157,True
+Tyus Jones,3,0,0,0,Pullup Jump shot,12,-81,89,True
+Tyus Jones,2,1,48,1,Pullup Jump shot,25,-98,235,False
+Tyus Jones,4,8,26,0,Pullup Jump shot,16,101,132,True
+Tyus Jones,1,0,38,0,Pullup Jump shot,25,84,236,False
+Tyus Jones,4,8,20,1,Pullup Jump shot,17,20,174,True
+Tyus Jones,2,10,25,0,Pullup Jump shot,17,-102,143,True
+Tyus Jones,4,7,45,0,Pullup Jump shot,24,-151,190,False
+Tyus Jones,2,9,50,0,Pullup Jump shot,19,98,168,True
+Tyus Jones,2,5,17,1,Pullup Jump shot,17,-18,176,True
+Tyus Jones,1,6,4,1,Pullup Jump shot,13,41,129,True
+Tyus Jones,3,2,1,1,Pullup Jump shot,16,-73,151,True
+Tyus Jones,4,2,5,0,Pullup Jump shot,25,-40,247,False
+Tyus Jones,3,1,49,1,Pullup Jump shot,7,17,78,True
+Tyus Jones,3,0,2,1,Pullup Jump shot,15,-154,17,True
+Tyus Jones,3,1,11,0,Pullup Jump shot,15,-128,87,True
+Tyus Jones,2,6,57,1,Pullup Jump shot,21,94,190,True
+Tyus Jones,3,7,40,1,Running Dunk Shot,1,16,5,True
+Tyus Jones,2,4,51,0,Running Finger Roll Layup Shot,4,28,36,True
+Tyus Jones,2,7,41,1,Running Finger Roll Layup Shot,1,8,14,True
+Tyus Jones,4,7,53,1,Running Finger Roll Layup Shot,1,-3,16,True
+Tyus Jones,3,3,50,0,Running Jump Shot,6,6,68,True
+Tyus Jones,2,11,23,0,Running Jump Shot,9,-7,91,True
+Tyus Jones,3,0,0,0,Running Jump Shot,25,-20,256,False
+Tyus Jones,3,6,44,1,Running Jump Shot,10,-20,101,True
+Tyus Jones,4,3,9,0,Running Jump Shot,14,-85,112,True
+Tyus Jones,3,0,26,0,Running Jump Shot,2,-18,20,True
+Tyus Jones,4,10,40,0,Running Jump Shot,10,-76,79,True
+Tyus Jones,4,10,22,0,Running Jump Shot,9,-36,85,True
+Tyus Jones,2,8,17,0,Running Layup Shot,1,-9,8,True
+Tyus Jones,1,0,2,0,Running Layup Shot,1,-9,17,True
+Tyus Jones,2,1,11,0,Running Layup Shot,1,17,1,True
+Tyus Jones,1,11,12,0,Running Layup Shot,1,1,14,True
+Tyus Jones,1,0,27,0,Running Layup Shot,1,-13,5,True
+Tyus Jones,1,9,26,1,Running Layup Shot,1,-4,15,True
+Tyus Jones,4,1,9,0,Running Layup Shot,0,6,5,True
+Tyus Jones,2,7,37,1,Running Layup Shot,0,-2,5,True
+Tyus Jones,2,9,56,1,Running Layup Shot,1,11,8,True
+Tyus Jones,2,8,32,1,Running Layup Shot,0,-6,6,True
+Tyus Jones,2,10,54,1,Running Layup Shot,2,-27,10,True
+Tyus Jones,2,7,25,1,Running Layup Shot,1,-7,8,True
+Tyus Jones,1,0,48,1,Running Layup Shot,0,-4,5,True
+Tyus Jones,2,7,35,0,Running Layup Shot,5,-28,50,True
+Tyus Jones,3,7,53,0,Running Layup Shot,6,1,66,True
+Tyus Jones,4,11,44,0,Running Layup Shot,1,14,13,True
+Tyus Jones,2,9,6,1,Running Layup Shot,3,33,9,True
+Tyus Jones,2,5,9,0,Running Layup Shot,3,-35,10,True
+Tyus Jones,2,5,19,1,Running Layup Shot,2,3,21,True
+Tyus Jones,2,5,43,0,Step Back Jump shot,24,-157,185,False
+Tyus Jones,1,4,37,1,Turnaround Bank Hook Shot,6,34,51,True
+Tyus Jones,1,3,14,0,Turnaround Jump Shot,18,-117,148,True

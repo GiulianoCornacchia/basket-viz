@@ -1,0 +1,365 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Larry Nance Jr,2,3,21,1,Alley Oop Dunk Shot,1,-11,5,True
+Larry Nance Jr,4,9,31,1,Alley Oop Dunk Shot,1,5,11,True
+Larry Nance Jr,2,9,7,1,Alley Oop Dunk Shot,0,-8,4,True
+Larry Nance Jr,4,11,20,1,Alley Oop Dunk Shot,2,-11,17,True
+Larry Nance Jr,1,2,39,1,Alley Oop Dunk Shot,1,6,10,True
+Larry Nance Jr,2,10,53,1,Alley Oop Dunk Shot,0,-3,-2,True
+Larry Nance Jr,1,0,33,1,Alley Oop Dunk Shot,0,5,8,True
+Larry Nance Jr,2,9,48,1,Alley Oop Dunk Shot,0,3,5,True
+Larry Nance Jr,3,8,26,1,Alley Oop Dunk Shot,1,15,7,True
+Larry Nance Jr,2,2,38,1,Alley Oop Dunk Shot,1,0,10,True
+Larry Nance Jr,3,3,43,0,Alley Oop Dunk Shot,3,5,38,True
+Larry Nance Jr,2,2,42,1,Alley Oop Dunk Shot,1,-2,10,True
+Larry Nance Jr,2,9,28,1,Alley Oop Dunk Shot,0,-1,5,True
+Larry Nance Jr,4,8,10,1,Alley Oop Dunk Shot,0,9,3,True
+Larry Nance Jr,2,5,28,1,Alley Oop Dunk Shot,0,-5,1,True
+Larry Nance Jr,2,1,54,1,Alley Oop Dunk Shot,1,6,11,True
+Larry Nance Jr,3,2,23,1,Alley Oop Dunk Shot,1,-1,11,True
+Larry Nance Jr,3,9,26,1,Alley Oop Dunk Shot,0,0,6,True
+Larry Nance Jr,1,6,10,1,Alley Oop Dunk Shot,1,-8,6,True
+Larry Nance Jr,4,2,38,0,Alley Oop Dunk Shot,2,22,-11,True
+Larry Nance Jr,4,11,25,1,Alley Oop Dunk Shot,0,-6,2,True
+Larry Nance Jr,2,0,46,0,Alley Oop Dunk Shot,0,9,3,True
+Larry Nance Jr,2,11,46,1,Alley Oop Dunk Shot,1,3,10,True
+Larry Nance Jr,2,7,1,1,Alley Oop Dunk Shot,1,2,15,True
+Larry Nance Jr,1,3,30,0,Alley Oop Dunk Shot,1,2,14,True
+Larry Nance Jr,3,6,15,0,Alley Oop Dunk Shot,2,16,15,True
+Larry Nance Jr,2,7,30,1,Alley Oop Dunk Shot,0,-1,1,True
+Larry Nance Jr,1,9,19,1,Alley Oop Layup shot,0,3,9,True
+Larry Nance Jr,3,6,36,1,Alley Oop Layup shot,0,-5,8,True
+Larry Nance Jr,2,11,48,0,Alley Oop Layup shot,4,38,30,True
+Larry Nance Jr,1,9,5,1,Alley Oop Layup shot,1,2,14,True
+Larry Nance Jr,4,1,54,1,Alley Oop Layup shot,0,-2,0,True
+Larry Nance Jr,4,10,44,0,Alley Oop Layup shot,2,24,17,True
+Larry Nance Jr,1,9,52,0,Alley Oop Layup shot,2,12,19,True
+Larry Nance Jr,4,7,30,1,Alley Oop Layup shot,1,-13,11,True
+Larry Nance Jr,1,3,13,0,Alley Oop Layup shot,1,2,17,True
+Larry Nance Jr,1,9,27,1,Alley Oop Layup shot,1,-2,13,True
+Larry Nance Jr,2,7,50,0,Alley Oop Layup shot,2,1,25,True
+Larry Nance Jr,4,11,27,1,Alley Oop Layup shot,2,-1,23,True
+Larry Nance Jr,1,9,12,1,Alley Oop Layup shot,0,-8,5,True
+Larry Nance Jr,2,7,25,1,Cutting Dunk Shot,1,13,2,True
+Larry Nance Jr,4,6,40,1,Cutting Dunk Shot,3,-8,31,True
+Larry Nance Jr,4,9,20,1,Cutting Dunk Shot,1,5,12,True
+Larry Nance Jr,4,6,42,1,Cutting Dunk Shot,2,-3,20,True
+Larry Nance Jr,3,2,21,1,Cutting Dunk Shot,1,3,12,True
+Larry Nance Jr,4,10,36,1,Cutting Dunk Shot,0,-4,4,True
+Larry Nance Jr,2,9,24,1,Cutting Dunk Shot,1,-1,10,True
+Larry Nance Jr,3,5,58,1,Cutting Dunk Shot,0,-5,-3,True
+Larry Nance Jr,1,8,59,1,Cutting Dunk Shot,0,5,6,True
+Larry Nance Jr,4,9,0,1,Cutting Dunk Shot,1,-14,13,True
+Larry Nance Jr,2,1,3,1,Cutting Dunk Shot,2,-22,8,True
+Larry Nance Jr,2,6,12,1,Cutting Dunk Shot,0,-7,-1,True
+Larry Nance Jr,3,11,44,1,Cutting Dunk Shot,2,0,22,True
+Larry Nance Jr,3,3,19,1,Cutting Dunk Shot,0,8,4,True
+Larry Nance Jr,4,4,58,1,Cutting Dunk Shot,1,-13,0,True
+Larry Nance Jr,2,3,52,1,Cutting Dunk Shot,2,9,26,True
+Larry Nance Jr,2,9,38,1,Cutting Dunk Shot,0,-8,0,True
+Larry Nance Jr,4,10,56,1,Cutting Dunk Shot,1,5,13,True
+Larry Nance Jr,4,2,44,0,Cutting Dunk Shot,3,11,35,True
+Larry Nance Jr,3,2,31,1,Cutting Dunk Shot,1,3,12,True
+Larry Nance Jr,4,10,59,1,Cutting Dunk Shot,0,-6,6,True
+Larry Nance Jr,2,1,0,1,Cutting Dunk Shot,1,3,14,True
+Larry Nance Jr,4,6,44,1,Cutting Dunk Shot,2,-6,22,True
+Larry Nance Jr,2,10,39,0,Cutting Dunk Shot,1,-2,14,True
+Larry Nance Jr,2,6,23,0,Cutting Finger Roll Layup Shot,2,-9,27,True
+Larry Nance Jr,3,4,58,1,Cutting Finger Roll Layup Shot,2,-5,20,True
+Larry Nance Jr,3,3,44,1,Cutting Finger Roll Layup Shot,1,-5,17,True
+Larry Nance Jr,1,3,17,1,Cutting Layup Shot,0,9,0,True
+Larry Nance Jr,2,2,1,1,Cutting Layup Shot,0,-2,4,True
+Larry Nance Jr,4,8,33,0,Cutting Layup Shot,2,-2,23,True
+Larry Nance Jr,2,2,25,1,Cutting Layup Shot,0,8,4,True
+Larry Nance Jr,2,10,15,1,Cutting Layup Shot,0,-5,4,True
+Larry Nance Jr,2,7,14,0,Cutting Layup Shot,4,37,17,True
+Larry Nance Jr,3,0,40,1,Cutting Layup Shot,2,-8,23,True
+Larry Nance Jr,4,11,44,1,Cutting Layup Shot,2,-4,21,True
+Larry Nance Jr,3,6,53,1,Cutting Layup Shot,2,-6,20,True
+Larry Nance Jr,2,2,11,1,Cutting Layup Shot,0,-2,5,True
+Larry Nance Jr,3,3,25,1,Cutting Layup Shot,3,14,37,True
+Larry Nance Jr,4,11,6,1,Cutting Layup Shot,3,-12,31,True
+Larry Nance Jr,2,11,12,1,Cutting Layup Shot,2,-12,21,True
+Larry Nance Jr,4,2,2,1,Cutting Layup Shot,1,9,6,True
+Larry Nance Jr,1,3,28,1,Cutting Layup Shot,0,4,-1,True
+Larry Nance Jr,2,6,11,0,Cutting Layup Shot,0,5,8,True
+Larry Nance Jr,1,1,16,1,Cutting Layup Shot,0,-4,9,True
+Larry Nance Jr,1,10,53,1,Cutting Layup Shot,1,1,15,True
+Larry Nance Jr,4,6,22,1,Driving Dunk Shot,1,-12,2,True
+Larry Nance Jr,2,4,40,1,Driving Dunk Shot,0,-4,3,True
+Larry Nance Jr,2,8,11,1,Driving Dunk Shot,1,3,11,True
+Larry Nance Jr,4,10,2,1,Driving Dunk Shot,2,-12,20,True
+Larry Nance Jr,2,1,24,0,Driving Floating Bank Jump Shot,10,49,98,True
+Larry Nance Jr,2,9,18,0,Driving Floating Jump Shot,12,-33,121,True
+Larry Nance Jr,2,7,56,0,Driving Floating Jump Shot,8,-2,86,True
+Larry Nance Jr,4,6,22,0,Driving Hook Shot,9,84,51,True
+Larry Nance Jr,4,11,7,0,Driving Hook Shot,5,5,57,True
+Larry Nance Jr,1,5,38,1,Driving Layup Shot,1,-9,17,True
+Larry Nance Jr,1,10,38,0,Driving Layup Shot,2,29,0,True
+Larry Nance Jr,3,7,53,1,Driving Layup Shot,1,6,10,True
+Larry Nance Jr,3,0,25,1,Driving Layup Shot,0,-2,9,True
+Larry Nance Jr,4,9,36,0,Driving Layup Shot,1,-14,9,True
+Larry Nance Jr,3,1,46,0,Driving Layup Shot,0,-2,1,True
+Larry Nance Jr,2,10,11,0,Driving Reverse Dunk Shot,2,-16,16,True
+Larry Nance Jr,4,4,58,0,Driving Reverse Layup Shot,5,-40,44,True
+Larry Nance Jr,1,4,31,1,Dunk Shot,0,-4,5,True
+Larry Nance Jr,2,4,6,0,Dunk Shot,1,2,16,True
+Larry Nance Jr,3,3,17,1,Dunk Shot,1,10,4,True
+Larry Nance Jr,2,7,15,0,Dunk Shot,2,-10,25,True
+Larry Nance Jr,3,10,57,1,Dunk Shot,15,13,153,True
+Larry Nance Jr,3,3,40,1,Dunk Shot,0,4,5,True
+Larry Nance Jr,4,0,27,1,Dunk Shot,1,0,13,True
+Larry Nance Jr,3,2,7,1,Dunk Shot,0,4,0,True
+Larry Nance Jr,2,9,6,1,Dunk Shot,0,-9,-4,True
+Larry Nance Jr,3,1,52,1,Dunk Shot,1,-2,13,True
+Larry Nance Jr,3,5,25,1,Dunk Shot,0,-2,8,True
+Larry Nance Jr,1,9,37,0,Fadeaway Jump Shot,10,97,36,True
+Larry Nance Jr,3,3,11,1,Finger Roll Layup Shot,2,8,22,True
+Larry Nance Jr,3,8,50,0,Floating Jump shot,8,35,82,True
+Larry Nance Jr,1,8,11,0,Floating Jump shot,18,123,135,True
+Larry Nance Jr,3,1,26,1,Floating Jump shot,12,-7,127,True
+Larry Nance Jr,1,5,57,1,Floating Jump shot,9,-3,94,True
+Larry Nance Jr,4,2,16,0,Floating Jump shot,5,53,21,True
+Larry Nance Jr,4,9,25,0,Floating Jump shot,9,-3,97,True
+Larry Nance Jr,3,7,56,0,Floating Jump shot,5,-6,58,True
+Larry Nance Jr,4,11,16,1,Floating Jump shot,12,47,115,True
+Larry Nance Jr,2,3,55,0,Hook Bank Shot,4,15,38,True
+Larry Nance Jr,4,5,58,1,Hook Shot,3,-2,36,True
+Larry Nance Jr,1,9,38,0,Hook Shot,14,149,15,True
+Larry Nance Jr,4,11,38,0,Hook Shot,4,14,39,True
+Larry Nance Jr,4,9,25,0,Hook Shot,3,-39,5,True
+Larry Nance Jr,3,9,33,0,Hook Shot,4,30,32,True
+Larry Nance Jr,2,8,28,0,Hook Shot,4,8,43,True
+Larry Nance Jr,1,3,22,0,Hook Shot,7,73,-31,True
+Larry Nance Jr,1,8,52,1,Hook Shot,7,8,73,True
+Larry Nance Jr,2,4,20,0,Hook Shot,5,9,52,True
+Larry Nance Jr,1,0,45,1,Hook Shot,5,52,15,True
+Larry Nance Jr,1,11,47,0,Hook Shot,9,-82,56,True
+Larry Nance Jr,2,4,23,1,Hook Shot,3,29,16,True
+Larry Nance Jr,3,3,41,0,Hook Shot,6,-65,11,True
+Larry Nance Jr,1,0,56,0,Jump Bank Shot,4,-32,29,True
+Larry Nance Jr,3,3,53,1,Jump Bank Shot,3,30,25,True
+Larry Nance Jr,1,3,47,0,Jump Bank Shot,12,-44,116,True
+Larry Nance Jr,3,7,40,0,Jump Shot,20,55,194,True
+Larry Nance Jr,4,9,33,1,Jump Shot,19,-179,71,True
+Larry Nance Jr,3,2,20,1,Jump Shot,15,-135,78,True
+Larry Nance Jr,2,0,36,0,Jump Shot,20,-182,97,True
+Larry Nance Jr,1,4,26,1,Jump Shot,12,124,16,True
+Larry Nance Jr,3,10,43,1,Jump Shot,19,-20,192,True
+Larry Nance Jr,3,10,25,1,Jump Shot,25,-226,113,False
+Larry Nance Jr,3,9,33,0,Jump Shot,15,27,155,True
+Larry Nance Jr,1,6,51,1,Jump Shot,19,89,178,True
+Larry Nance Jr,1,7,54,1,Jump Shot,16,16,169,True
+Larry Nance Jr,1,10,22,0,Jump Shot,20,90,183,True
+Larry Nance Jr,3,3,51,0,Jump Shot,21,-88,199,True
+Larry Nance Jr,1,0,0,0,Jump Shot,41,-119,400,False
+Larry Nance Jr,1,1,2,0,Jump Shot,23,230,22,False
+Larry Nance Jr,2,0,0,0,Jump Shot,58,131,571,False
+Larry Nance Jr,3,6,18,0,Jump Shot,23,-193,142,False
+Larry Nance Jr,3,4,30,0,Jump Shot,20,78,192,True
+Larry Nance Jr,3,11,46,1,Jump Shot,17,71,161,True
+Larry Nance Jr,1,3,53,1,Jump Shot,20,33,204,True
+Larry Nance Jr,1,7,23,1,Jump Shot,16,-10,166,True
+Larry Nance Jr,3,3,43,0,Jump Shot,26,111,240,False
+Larry Nance Jr,2,7,31,1,Jump Shot,16,73,146,True
+Larry Nance Jr,3,0,0,0,Jump Shot,11,-117,16,True
+Larry Nance Jr,2,10,46,0,Jump Shot,12,124,37,True
+Larry Nance Jr,3,1,9,1,Jump Shot,19,110,163,True
+Larry Nance Jr,1,2,19,1,Jump Shot,16,8,162,True
+Larry Nance Jr,4,1,32,1,Jump Shot,14,70,122,True
+Larry Nance Jr,2,7,48,1,Jump Shot,19,-37,188,True
+Larry Nance Jr,3,1,39,0,Jump Shot,17,176,-18,True
+Larry Nance Jr,3,0,35,0,Jump Shot,15,150,-5,True
+Larry Nance Jr,2,9,7,0,Jump Shot,24,237,51,False
+Larry Nance Jr,1,2,19,0,Jump Shot,19,45,193,True
+Larry Nance Jr,1,0,19,0,Jump Shot,19,106,159,True
+Larry Nance Jr,2,9,29,1,Jump Shot,24,-3,247,False
+Larry Nance Jr,2,7,13,0,Jump Shot,15,-40,148,True
+Larry Nance Jr,4,10,24,0,Jump Shot,21,8,210,True
+Larry Nance Jr,2,8,56,1,Jump Shot,18,-20,183,True
+Larry Nance Jr,2,9,20,0,Jump Shot,22,227,28,False
+Larry Nance Jr,3,9,42,1,Jump Shot,20,-117,170,True
+Larry Nance Jr,4,9,50,0,Jump Shot,21,-107,188,True
+Larry Nance Jr,1,3,45,1,Jump Shot,16,-109,127,True
+Larry Nance Jr,4,10,23,0,Jump Shot,14,-96,114,True
+Larry Nance Jr,2,6,31,0,Jump Shot,14,-145,20,True
+Larry Nance Jr,3,3,48,1,Jump Shot,20,119,167,True
+Larry Nance Jr,4,9,41,0,Jump Shot,18,-166,78,True
+Larry Nance Jr,1,3,41,0,Jump Shot,19,-110,155,True
+Larry Nance Jr,2,8,2,0,Jump Shot,2,9,19,True
+Larry Nance Jr,2,11,1,0,Jump Shot,19,-112,158,True
+Larry Nance Jr,3,1,58,1,Jump Shot,20,-41,204,True
+Larry Nance Jr,4,1,21,1,Jump Shot,13,-136,8,True
+Larry Nance Jr,3,1,47,0,Jump Shot,10,-31,101,True
+Larry Nance Jr,4,6,18,0,Jump Shot,17,-171,14,True
+Larry Nance Jr,2,11,2,0,Jump Shot,18,-118,141,True
+Larry Nance Jr,3,2,37,1,Jump Shot,13,131,48,True
+Larry Nance Jr,4,9,30,0,Jump Shot,17,27,170,True
+Larry Nance Jr,2,0,56,0,Jump Shot,19,60,189,True
+Larry Nance Jr,2,6,30,1,Jump Shot,16,163,32,True
+Larry Nance Jr,2,8,45,1,Jump Shot,17,55,168,True
+Larry Nance Jr,1,5,39,0,Jump Shot,11,2,115,True
+Larry Nance Jr,2,9,53,1,Jump Shot,18,-125,142,True
+Larry Nance Jr,1,10,23,0,Jump Shot,13,-127,51,True
+Larry Nance Jr,1,9,15,0,Jump Shot,7,66,42,True
+Larry Nance Jr,3,3,56,0,Jump Shot,10,-78,64,True
+Larry Nance Jr,1,3,43,0,Jump Shot,13,132,31,True
+Larry Nance Jr,2,3,1,1,Jump Shot,12,43,115,True
+Larry Nance Jr,1,8,55,1,Jump Shot,10,23,101,True
+Larry Nance Jr,2,4,26,0,Jump Shot,19,-46,193,True
+Larry Nance Jr,1,6,42,0,Jump Shot,20,-85,186,True
+Larry Nance Jr,2,3,28,0,Jump Shot,18,-59,178,True
+Larry Nance Jr,1,10,14,0,Jump Shot,18,177,43,True
+Larry Nance Jr,1,8,48,0,Jump Shot,17,103,141,True
+Larry Nance Jr,2,1,56,1,Jump Shot,17,165,69,True
+Larry Nance Jr,1,5,37,0,Jump Shot,14,-14,148,True
+Larry Nance Jr,3,7,1,0,Jump Shot,16,-56,159,True
+Larry Nance Jr,3,10,39,0,Jump Shot,4,29,38,True
+Larry Nance Jr,3,10,35,0,Jump Shot,2,20,8,True
+Larry Nance Jr,1,9,6,0,Jump Shot,15,36,153,True
+Larry Nance Jr,3,7,51,1,Jump Shot,16,162,12,True
+Larry Nance Jr,3,0,0,0,Jump Shot,68,96,682,False
+Larry Nance Jr,1,6,10,1,Jump Shot,21,130,166,True
+Larry Nance Jr,2,2,41,1,Jump Shot,3,17,25,True
+Larry Nance Jr,3,7,16,0,Jump Shot,17,73,157,True
+Larry Nance Jr,1,9,32,0,Jump Shot,21,110,180,True
+Larry Nance Jr,1,10,5,0,Jump Shot,5,6,57,True
+Larry Nance Jr,2,1,29,1,Jump Shot,16,2,163,True
+Larry Nance Jr,2,0,0,0,Jump Shot,69,2,691,False
+Larry Nance Jr,4,7,52,0,Jump Shot,16,-161,34,True
+Larry Nance Jr,3,2,59,1,Layup Shot,1,18,8,True
+Larry Nance Jr,5,2,21,1,Layup Shot,1,-5,13,True
+Larry Nance Jr,3,0,57,1,Layup Shot,0,-3,-1,True
+Larry Nance Jr,4,8,6,0,Layup Shot,1,-9,13,True
+Larry Nance Jr,2,7,30,1,Layup Shot,1,0,17,True
+Larry Nance Jr,3,9,51,1,Layup Shot,1,-6,16,True
+Larry Nance Jr,3,0,0,0,Layup Shot,1,-16,8,True
+Larry Nance Jr,1,0,44,0,Layup Shot,4,38,32,True
+Larry Nance Jr,2,8,4,1,Layup Shot,2,-8,21,True
+Larry Nance Jr,2,3,20,0,Layup Shot,2,18,14,True
+Larry Nance Jr,1,2,0,1,Layup Shot,2,-11,25,True
+Larry Nance Jr,4,3,58,1,Layup Shot,2,9,22,True
+Larry Nance Jr,1,9,41,0,Layup Shot,1,-19,-1,True
+Larry Nance Jr,2,5,32,0,Layup Shot,1,1,17,True
+Larry Nance Jr,3,2,12,0,Layup Shot,1,-8,17,True
+Larry Nance Jr,2,11,42,0,Layup Shot,3,-38,12,True
+Larry Nance Jr,1,4,55,0,Layup Shot,2,24,13,True
+Larry Nance Jr,1,2,50,1,Layup Shot,1,3,17,True
+Larry Nance Jr,4,6,31,1,Layup Shot,1,-5,10,True
+Larry Nance Jr,4,5,50,1,Layup Shot,1,-5,13,True
+Larry Nance Jr,4,4,43,1,Layup Shot,1,6,13,True
+Larry Nance Jr,2,1,16,0,Layup Shot,2,7,22,True
+Larry Nance Jr,2,0,44,0,Layup Shot,2,-5,20,True
+Larry Nance Jr,1,9,52,1,Layup Shot,1,2,11,True
+Larry Nance Jr,3,4,10,1,Layup Shot,2,-12,23,True
+Larry Nance Jr,2,7,49,1,Layup Shot,0,-7,7,True
+Larry Nance Jr,2,1,20,0,Layup Shot,2,7,27,True
+Larry Nance Jr,3,4,29,0,Layup Shot,1,16,-1,True
+Larry Nance Jr,4,5,31,1,Layup Shot,1,2,10,True
+Larry Nance Jr,3,9,33,1,Layup Shot,1,1,14,True
+Larry Nance Jr,1,3,32,0,Layup Shot,0,5,6,True
+Larry Nance Jr,1,7,41,1,Layup Shot,0,1,6,True
+Larry Nance Jr,4,4,22,0,Layup Shot,1,5,16,True
+Larry Nance Jr,3,3,41,0,Pullup Jump shot,13,-13,131,True
+Larry Nance Jr,2,2,21,0,Pullup Jump shot,20,7,208,True
+Larry Nance Jr,1,5,54,1,Putback Dunk Shot,0,0,-6,True
+Larry Nance Jr,1,1,16,0,Putback Dunk Shot,0,-2,-3,True
+Larry Nance Jr,3,7,59,1,Putback Dunk Shot,0,0,-6,True
+Larry Nance Jr,3,10,24,1,Putback Dunk Shot,0,0,-6,True
+Larry Nance Jr,2,10,15,1,Putback Dunk Shot,0,-5,4,True
+Larry Nance Jr,3,0,55,1,Putback Dunk Shot,0,0,-6,True
+Larry Nance Jr,4,11,29,1,Putback Dunk Shot,0,0,-6,True
+Larry Nance Jr,1,10,7,1,Putback Dunk Shot,0,0,-6,True
+Larry Nance Jr,1,3,5,1,Putback Dunk Shot,0,0,-6,True
+Larry Nance Jr,2,0,14,1,Putback Dunk Shot,0,0,-6,True
+Larry Nance Jr,2,10,54,1,Putback Dunk Shot,0,0,-6,True
+Larry Nance Jr,2,6,24,1,Putback Layup Shot,0,-1,0,True
+Larry Nance Jr,1,7,5,1,Putback Layup Shot,0,0,-6,True
+Larry Nance Jr,3,2,38,1,Putback Layup Shot,0,0,-6,True
+Larry Nance Jr,4,7,18,1,Putback Layup Shot,0,0,-6,True
+Larry Nance Jr,1,3,2,0,Putback Layup Shot,1,2,17,True
+Larry Nance Jr,2,10,24,1,Putback Layup Shot,1,0,16,True
+Larry Nance Jr,4,10,44,0,Putback Layup Shot,0,0,-6,True
+Larry Nance Jr,4,7,42,1,Putback Layup Shot,1,-3,15,True
+Larry Nance Jr,4,10,34,1,Putback Layup Shot,3,-2,38,True
+Larry Nance Jr,2,7,59,1,Putback Layup Shot,1,-6,8,True
+Larry Nance Jr,2,9,22,1,Putback Layup Shot,1,8,10,True
+Larry Nance Jr,2,7,41,1,Reverse Dunk Shot,1,10,10,True
+Larry Nance Jr,2,0,0,1,Reverse Layup Shot,1,2,10,True
+Larry Nance Jr,3,0,25,1,Reverse Layup Shot,2,-8,19,True
+Larry Nance Jr,4,8,6,0,Reverse Layup Shot,2,-26,-2,True
+Larry Nance Jr,1,0,55,1,Reverse Layup Shot,1,-11,0,True
+Larry Nance Jr,4,1,17,1,Running Alley Oop Dunk Shot,1,-11,1,True
+Larry Nance Jr,3,0,57,1,Running Alley Oop Dunk Shot,0,-1,8,True
+Larry Nance Jr,4,5,23,1,Running Alley Oop Dunk Shot,0,0,9,True
+Larry Nance Jr,4,6,0,1,Running Alley Oop Dunk Shot,2,14,22,True
+Larry Nance Jr,4,9,7,1,Running Dunk Shot,0,8,4,True
+Larry Nance Jr,1,10,17,1,Running Dunk Shot,0,0,5,True
+Larry Nance Jr,1,1,40,1,Running Dunk Shot,0,-2,6,True
+Larry Nance Jr,2,6,39,0,Running Dunk Shot,4,-36,20,True
+Larry Nance Jr,4,2,49,0,Running Dunk Shot,3,-5,32,True
+Larry Nance Jr,4,0,11,1,Running Dunk Shot,0,3,0,True
+Larry Nance Jr,1,3,42,1,Running Dunk Shot,2,18,11,True
+Larry Nance Jr,2,11,15,1,Running Dunk Shot,0,5,-1,True
+Larry Nance Jr,2,8,23,1,Running Dunk Shot,2,5,25,True
+Larry Nance Jr,3,5,30,1,Running Dunk Shot,1,-13,12,True
+Larry Nance Jr,1,3,15,1,Running Dunk Shot,1,-2,10,True
+Larry Nance Jr,2,11,38,1,Running Dunk Shot,1,-2,17,True
+Larry Nance Jr,3,3,27,1,Running Finger Roll Layup Shot,3,0,31,True
+Larry Nance Jr,3,6,31,1,Running Layup Shot,1,3,16,True
+Larry Nance Jr,4,10,15,0,Running Layup Shot,0,-2,5,True
+Larry Nance Jr,3,5,23,1,Running Layup Shot,0,-2,6,True
+Larry Nance Jr,3,0,34,1,Running Reverse Layup Shot,1,-1,17,True
+Larry Nance Jr,2,11,36,0,Step Back Jump shot,10,105,-10,True
+Larry Nance Jr,1,11,4,1,Tip Dunk Shot,0,0,-6,True
+Larry Nance Jr,2,10,32,0,Tip Dunk Shot,0,0,-6,True
+Larry Nance Jr,1,9,3,0,Tip Dunk Shot,0,0,-6,True
+Larry Nance Jr,1,1,17,1,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,3,11,5,1,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,1,3,27,1,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,2,11,38,0,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,3,10,35,1,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,3,8,32,0,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,4,7,13,1,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,4,10,59,0,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,3,1,27,1,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,2,2,44,0,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,1,5,22,0,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,1,4,41,1,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,2,6,12,1,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,3,7,51,1,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,3,7,48,0,Tip Layup Shot,1,9,13,True
+Larry Nance Jr,2,2,14,0,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,2,3,51,1,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,3,8,1,1,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,4,8,30,1,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,4,0,1,0,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,2,0,40,1,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,1,10,50,0,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,2,0,19,0,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,3,0,36,0,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,4,11,11,0,Tip Layup Shot,1,-8,10,True
+Larry Nance Jr,3,0,15,0,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,4,10,26,0,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,3,4,33,0,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,3,1,33,0,Tip Layup Shot,0,3,6,True
+Larry Nance Jr,1,11,1,1,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,1,4,0,0,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,1,1,40,0,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,1,11,36,1,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,1,0,48,1,Tip Layup Shot,0,0,-6,True
+Larry Nance Jr,1,5,20,1,Turnaround Fadeaway Bank Jump Shot,7,-70,13,True
+Larry Nance Jr,2,3,27,1,Turnaround Hook Shot,4,23,40,True
+Larry Nance Jr,3,9,19,0,Turnaround Hook Shot,7,-23,67,True
+Larry Nance Jr,3,0,45,0,Turnaround Hook Shot,6,-60,23,True
+Larry Nance Jr,1,2,51,0,Turnaround Hook Shot,5,-51,16,True
+Larry Nance Jr,3,10,39,1,Turnaround Hook Shot,6,-34,58,True
+Larry Nance Jr,4,10,51,0,Turnaround Hook Shot,5,52,25,True
+Larry Nance Jr,2,6,31,0,Turnaround Hook Shot,8,-70,46,True
+Larry Nance Jr,2,5,1,1,Turnaround Hook Shot,8,2,81,True
+Larry Nance Jr,1,2,20,1,Turnaround Hook Shot,8,81,25,True
+Larry Nance Jr,2,10,1,1,Turnaround Hook Shot,5,13,56,True
+Larry Nance Jr,2,4,26,0,Turnaround Hook Shot,9,-16,91,True
+Larry Nance Jr,1,8,55,0,Turnaround Jump Shot,15,154,42,True
+Larry Nance Jr,4,1,49,1,Turnaround Jump Shot,2,25,-3,True
+Larry Nance Jr,2,7,14,0,Turnaround Jump Shot,8,25,83,True
+Larry Nance Jr,1,11,18,0,Turnaround Jump Shot,15,153,13,True

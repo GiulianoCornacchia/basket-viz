@@ -1,0 +1,104 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Luke Kornet,4,7,35,1,Alley Oop Layup shot,1,-18,3,True
+Luke Kornet,4,6,39,1,Cutting Dunk Shot,0,-5,1,True
+Luke Kornet,1,2,37,1,Driving Finger Roll Layup Shot,1,16,11,True
+Luke Kornet,4,5,11,0,Driving Hook Shot,2,16,20,True
+Luke Kornet,3,3,38,0,Driving Layup Shot,2,-21,-4,True
+Luke Kornet,2,7,27,0,Driving Layup Shot,6,55,40,True
+Luke Kornet,4,4,47,0,Driving Layup Shot,4,-28,37,True
+Luke Kornet,4,3,23,1,Dunk Shot,0,-8,-3,True
+Luke Kornet,4,0,12,1,Dunk Shot,0,-1,2,True
+Luke Kornet,4,7,49,1,Dunk Shot,0,-2,6,True
+Luke Kornet,3,4,3,1,Dunk Shot,1,3,11,True
+Luke Kornet,2,7,31,0,Hook Shot,7,-22,68,True
+Luke Kornet,4,0,15,0,Hook Shot,3,-24,29,True
+Luke Kornet,2,8,13,1,Jump Bank Shot,24,155,193,False
+Luke Kornet,3,3,22,0,Jump Shot,27,104,256,False
+Luke Kornet,4,8,7,1,Jump Shot,24,-101,226,False
+Luke Kornet,4,9,18,1,Jump Shot,26,-112,241,False
+Luke Kornet,1,3,47,1,Jump Shot,25,-119,225,False
+Luke Kornet,2,9,5,1,Jump Shot,26,85,252,False
+Luke Kornet,2,6,43,0,Jump Shot,23,-229,50,False
+Luke Kornet,3,3,9,0,Jump Shot,25,-21,258,False
+Luke Kornet,4,8,46,1,Jump Shot,25,45,247,False
+Luke Kornet,1,0,9,0,Jump Shot,27,-17,274,False
+Luke Kornet,1,4,12,0,Jump Shot,25,-142,211,False
+Luke Kornet,3,3,54,1,Jump Shot,27,157,229,False
+Luke Kornet,1,2,3,0,Jump Shot,25,-51,252,False
+Luke Kornet,1,1,35,0,Jump Shot,12,119,26,True
+Luke Kornet,2,8,54,1,Jump Shot,25,-109,235,False
+Luke Kornet,1,3,18,1,Jump Shot,27,201,184,False
+Luke Kornet,3,5,34,1,Jump Shot,27,47,275,False
+Luke Kornet,4,0,17,0,Jump Shot,26,-226,134,False
+Luke Kornet,2,10,13,0,Jump Shot,26,-65,253,False
+Luke Kornet,4,3,37,1,Jump Shot,24,222,107,False
+Luke Kornet,2,8,9,0,Jump Shot,14,117,84,True
+Luke Kornet,3,3,40,0,Jump Shot,23,-231,19,False
+Luke Kornet,3,0,2,1,Jump Shot,28,89,274,False
+Luke Kornet,1,1,9,0,Jump Shot,20,-168,121,True
+Luke Kornet,4,5,26,0,Jump Shot,18,39,180,True
+Luke Kornet,2,3,48,0,Jump Shot,27,-122,241,False
+Luke Kornet,2,2,17,0,Jump Shot,25,192,173,False
+Luke Kornet,2,2,44,0,Jump Shot,26,-19,260,False
+Luke Kornet,4,1,45,0,Jump Shot,27,180,211,False
+Luke Kornet,4,1,9,0,Jump Shot,26,-136,231,False
+Luke Kornet,4,9,7,0,Jump Shot,29,-92,280,False
+Luke Kornet,2,9,6,0,Jump Shot,27,-95,263,False
+Luke Kornet,4,8,9,0,Jump Shot,27,98,259,False
+Luke Kornet,4,6,48,0,Jump Shot,25,51,251,False
+Luke Kornet,1,2,35,1,Jump Shot,23,230,8,False
+Luke Kornet,2,8,49,1,Jump Shot,25,136,220,False
+Luke Kornet,2,11,22,0,Jump Shot,25,1,256,False
+Luke Kornet,4,11,10,1,Jump Shot,25,-57,252,False
+Luke Kornet,4,11,43,0,Jump Shot,24,44,241,False
+Luke Kornet,2,10,14,0,Jump Shot,22,-226,-6,False
+Luke Kornet,2,7,23,1,Jump Shot,25,119,221,False
+Luke Kornet,2,7,49,0,Jump Shot,27,4,277,False
+Luke Kornet,4,8,24,0,Jump Shot,25,-55,252,False
+Luke Kornet,2,9,5,0,Jump Shot,27,-39,273,False
+Luke Kornet,1,2,13,0,Jump Shot,25,-76,242,False
+Luke Kornet,4,7,37,0,Jump Shot,28,6,281,False
+Luke Kornet,1,3,26,0,Jump Shot,27,-121,246,False
+Luke Kornet,3,3,22,0,Jump Shot,26,-128,230,False
+Luke Kornet,1,1,57,0,Jump Shot,26,-33,264,False
+Luke Kornet,4,10,51,0,Jump Shot,25,-2,253,False
+Luke Kornet,3,2,57,0,Jump Shot,25,-96,235,False
+Luke Kornet,4,7,58,1,Jump Shot,27,3,277,False
+Luke Kornet,3,5,30,0,Jump Shot,26,-199,168,False
+Luke Kornet,5,4,26,0,Jump Shot,9,-68,71,True
+Luke Kornet,4,2,57,0,Jump Shot,23,231,8,False
+Luke Kornet,2,8,57,1,Jump Shot,26,98,248,False
+Luke Kornet,3,1,30,0,Jump Shot,29,-166,242,False
+Luke Kornet,1,0,11,0,Jump Shot,29,60,289,False
+Luke Kornet,2,9,49,1,Jump Shot,26,56,258,False
+Luke Kornet,2,8,37,1,Jump Shot,31,-149,277,False
+Luke Kornet,3,4,53,0,Jump Shot,24,-239,-22,False
+Luke Kornet,2,0,3,0,Jump Shot,21,-116,186,True
+Luke Kornet,3,0,38,0,Jump Shot,24,-172,177,False
+Luke Kornet,2,11,45,1,Jump Shot,26,-5,265,False
+Luke Kornet,3,2,3,0,Jump Shot,25,-65,243,False
+Luke Kornet,2,6,40,0,Jump Shot,25,-136,214,False
+Luke Kornet,2,5,51,0,Jump Shot,25,-96,237,False
+Luke Kornet,2,5,25,1,Jump Shot,25,-203,155,False
+Luke Kornet,2,3,33,0,Jump Shot,26,-82,250,False
+Luke Kornet,2,3,13,0,Jump Shot,25,57,249,False
+Luke Kornet,2,0,57,1,Jump Shot,25,111,230,False
+Luke Kornet,4,1,36,0,Jump Shot,23,-230,30,False
+Luke Kornet,2,2,51,0,Jump Shot,25,78,243,False
+Luke Kornet,4,0,54,1,Jump Shot,23,235,14,False
+Luke Kornet,4,1,8,0,Jump Shot,26,-2,261,False
+Luke Kornet,4,8,46,1,Layup Shot,1,-8,6,True
+Luke Kornet,3,4,4,1,Layup Shot,2,1,20,True
+Luke Kornet,4,4,28,0,Layup Shot,1,-6,11,True
+Luke Kornet,4,8,35,1,Layup Shot,1,-12,5,True
+Luke Kornet,1,4,25,0,Pullup Jump shot,17,38,167,True
+Luke Kornet,2,11,42,1,Reverse Layup Shot,1,-2,15,True
+Luke Kornet,4,3,38,1,Reverse Layup Shot,0,0,4,True
+Luke Kornet,4,8,51,1,Running Layup Shot,1,9,6,True
+Luke Kornet,2,4,50,0,Tip Layup Shot,0,0,-6,True
+Luke Kornet,2,1,20,0,Tip Layup Shot,0,0,-6,True
+Luke Kornet,1,4,8,0,Tip Layup Shot,0,0,-6,True
+Luke Kornet,4,7,21,1,Turnaround Fadeaway Bank Jump Shot,15,-136,76,True
+Luke Kornet,3,4,12,1,Turnaround Hook Shot,7,62,37,True
+Luke Kornet,4,10,38,1,Turnaround Jump Shot,15,110,109,True
+Luke Kornet,3,2,48,0,Turnaround Jump Shot,14,17,148,True

@@ -1,0 +1,781 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Julius Randle,2,3,42,1,Alley Oop Dunk Shot,0,7,6,True
+Julius Randle,4,7,57,1,Alley Oop Dunk Shot,1,-1,11,True
+Julius Randle,2,3,54,0,Alley Oop Dunk Shot,0,4,0,True
+Julius Randle,4,2,10,1,Alley Oop Layup shot,0,-5,-6,True
+Julius Randle,4,11,45,1,Alley Oop Layup shot,0,9,-1,True
+Julius Randle,3,5,7,1,Alley Oop Layup shot,1,2,13,True
+Julius Randle,4,6,27,0,Alley Oop Layup shot,2,-8,20,True
+Julius Randle,2,8,44,1,Alley Oop Layup shot,0,0,6,True
+Julius Randle,1,1,41,1,Alley Oop Layup shot,2,-8,23,True
+Julius Randle,2,7,31,0,Alley Oop Layup shot,4,-2,42,True
+Julius Randle,4,1,53,0,Alley Oop Layup shot,2,-24,17,True
+Julius Randle,1,4,43,1,Alley Oop Layup shot,2,-6,21,True
+Julius Randle,1,8,14,0,Alley Oop Layup shot,2,-22,14,True
+Julius Randle,2,7,18,1,Alley Oop Layup shot,1,-5,14,True
+Julius Randle,2,5,33,1,Cutting Dunk Shot,0,-8,4,True
+Julius Randle,1,11,5,1,Cutting Dunk Shot,0,5,6,True
+Julius Randle,2,11,35,1,Cutting Dunk Shot,0,-5,0,True
+Julius Randle,1,5,21,1,Cutting Dunk Shot,0,-6,1,True
+Julius Randle,3,0,53,1,Cutting Dunk Shot,1,-13,10,True
+Julius Randle,4,4,16,1,Cutting Dunk Shot,0,-3,5,True
+Julius Randle,3,5,39,1,Cutting Dunk Shot,2,-12,21,True
+Julius Randle,3,11,8,1,Cutting Dunk Shot,0,0,-7,True
+Julius Randle,4,6,57,1,Cutting Dunk Shot,1,-3,17,True
+Julius Randle,3,3,53,1,Cutting Dunk Shot,1,-9,13,True
+Julius Randle,1,7,30,1,Cutting Dunk Shot,2,5,27,True
+Julius Randle,3,7,4,1,Cutting Dunk Shot,2,-3,24,True
+Julius Randle,1,5,11,1,Cutting Dunk Shot,2,-5,20,True
+Julius Randle,3,9,41,1,Cutting Dunk Shot,1,-8,8,True
+Julius Randle,4,0,58,1,Cutting Dunk Shot,1,15,12,True
+Julius Randle,1,4,8,1,Cutting Dunk Shot,0,2,6,True
+Julius Randle,2,5,3,1,Cutting Dunk Shot,1,0,12,True
+Julius Randle,2,7,4,1,Cutting Dunk Shot,0,3,9,True
+Julius Randle,1,2,41,1,Cutting Dunk Shot,1,11,15,True
+Julius Randle,2,9,49,1,Cutting Dunk Shot,1,5,10,True
+Julius Randle,3,4,11,1,Cutting Dunk Shot,2,2,23,True
+Julius Randle,2,9,50,1,Cutting Dunk Shot,2,6,26,True
+Julius Randle,2,1,24,1,Cutting Dunk Shot,2,-12,22,True
+Julius Randle,4,5,31,1,Cutting Dunk Shot,2,-1,21,True
+Julius Randle,4,10,49,1,Cutting Dunk Shot,2,-16,17,True
+Julius Randle,1,0,52,1,Cutting Finger Roll Layup Shot,1,-6,8,True
+Julius Randle,2,9,56,1,Cutting Layup Shot,0,-4,8,True
+Julius Randle,1,9,28,0,Cutting Layup Shot,3,-29,26,True
+Julius Randle,4,5,58,1,Cutting Layup Shot,1,-7,16,True
+Julius Randle,1,0,3,1,Cutting Layup Shot,1,-11,12,True
+Julius Randle,1,0,35,1,Cutting Layup Shot,0,-5,5,True
+Julius Randle,2,10,10,1,Cutting Layup Shot,0,-6,1,True
+Julius Randle,4,1,25,1,Cutting Layup Shot,1,-13,10,True
+Julius Randle,3,4,26,1,Cutting Layup Shot,3,-11,34,True
+Julius Randle,2,2,25,1,Cutting Layup Shot,2,-8,20,True
+Julius Randle,3,0,53,1,Cutting Layup Shot,0,4,0,True
+Julius Randle,1,10,39,0,Cutting Layup Shot,2,-9,26,True
+Julius Randle,4,10,47,1,Cutting Layup Shot,1,-11,16,True
+Julius Randle,1,2,45,1,Cutting Layup Shot,1,-7,15,True
+Julius Randle,2,7,13,1,Cutting Layup Shot,3,-16,26,True
+Julius Randle,2,6,25,1,Cutting Layup Shot,2,3,21,True
+Julius Randle,1,1,36,1,Cutting Layup Shot,1,-6,12,True
+Julius Randle,4,3,17,1,Cutting Layup Shot,3,-13,32,True
+Julius Randle,3,3,25,1,Cutting Layup Shot,1,13,8,True
+Julius Randle,1,5,3,1,Cutting Layup Shot,0,-8,5,True
+Julius Randle,1,0,34,0,Cutting Layup Shot,1,6,10,True
+Julius Randle,2,2,6,1,Cutting Layup Shot,1,0,13,True
+Julius Randle,1,3,59,1,Cutting Layup Shot,1,-2,10,True
+Julius Randle,1,7,23,1,Cutting Layup Shot,1,-3,15,True
+Julius Randle,4,0,10,1,Cutting Layup Shot,3,-13,31,True
+Julius Randle,3,7,14,1,Cutting Layup Shot,2,-20,17,True
+Julius Randle,4,1,57,1,Cutting Layup Shot,0,-8,1,True
+Julius Randle,3,10,3,1,Cutting Layup Shot,1,-10,17,True
+Julius Randle,1,1,13,1,Cutting Layup Shot,1,-4,15,True
+Julius Randle,1,4,47,1,Cutting Layup Shot,3,-8,29,True
+Julius Randle,4,3,12,1,Cutting Layup Shot,2,9,20,True
+Julius Randle,2,10,15,1,Cutting Layup Shot,2,-3,20,True
+Julius Randle,3,10,43,1,Cutting Layup Shot,1,-15,4,True
+Julius Randle,4,11,14,1,Cutting Layup Shot,1,-9,17,True
+Julius Randle,2,9,46,1,Cutting Layup Shot,2,-3,26,True
+Julius Randle,4,3,28,1,Cutting Layup Shot,0,-5,3,True
+Julius Randle,3,10,0,0,Cutting Layup Shot,2,1,24,True
+Julius Randle,3,10,24,1,Cutting Layup Shot,2,-4,29,True
+Julius Randle,2,3,5,1,Cutting Layup Shot,1,5,17,True
+Julius Randle,4,7,29,1,Cutting Layup Shot,1,-3,15,True
+Julius Randle,2,10,10,1,Cutting Layup Shot,1,-15,10,True
+Julius Randle,4,1,30,1,Cutting Layup Shot,1,-7,18,True
+Julius Randle,1,10,42,0,Cutting Layup Shot,5,-13,52,True
+Julius Randle,3,10,40,1,Cutting Layup Shot,1,-16,7,True
+Julius Randle,2,1,34,1,Cutting Layup Shot,1,-4,11,True
+Julius Randle,4,4,49,1,Cutting Layup Shot,1,-9,16,True
+Julius Randle,4,6,55,1,Cutting Layup Shot,1,-1,11,True
+Julius Randle,2,1,11,1,Cutting Layup Shot,1,-18,6,True
+Julius Randle,1,5,34,1,Cutting Layup Shot,2,-13,25,True
+Julius Randle,4,1,32,1,Driving Bank Hook Shot,2,-9,25,True
+Julius Randle,2,0,54,1,Driving Bank Hook Shot,2,-11,21,True
+Julius Randle,2,1,59,1,Driving Bank Hook Shot,3,-26,24,True
+Julius Randle,4,2,40,1,Driving Bank Hook Shot,2,-16,16,True
+Julius Randle,1,8,33,1,Driving Bank Hook Shot,6,-43,50,True
+Julius Randle,2,0,3,1,Driving Bank Hook Shot,2,-16,22,True
+Julius Randle,1,10,6,1,Driving Dunk Shot,1,-12,0,True
+Julius Randle,3,3,46,1,Driving Dunk Shot,4,-7,44,True
+Julius Randle,3,4,25,1,Driving Dunk Shot,0,2,2,True
+Julius Randle,2,4,20,0,Driving Dunk Shot,1,8,17,True
+Julius Randle,1,11,23,1,Driving Dunk Shot,3,9,29,True
+Julius Randle,1,6,16,1,Driving Dunk Shot,1,2,13,True
+Julius Randle,1,2,14,1,Driving Dunk Shot,1,5,13,True
+Julius Randle,1,10,17,1,Driving Dunk Shot,1,11,4,True
+Julius Randle,2,7,25,1,Driving Dunk Shot,2,-4,20,True
+Julius Randle,3,11,9,1,Driving Dunk Shot,2,-3,26,True
+Julius Randle,3,0,45,1,Driving Dunk Shot,0,-1,6,True
+Julius Randle,2,6,4,1,Driving Dunk Shot,1,6,10,True
+Julius Randle,1,4,12,1,Driving Dunk Shot,1,-12,13,True
+Julius Randle,2,10,45,1,Driving Dunk Shot,0,-2,8,True
+Julius Randle,1,11,15,1,Driving Dunk Shot,3,28,13,True
+Julius Randle,1,0,10,1,Driving Finger Roll Layup Shot,0,0,8,True
+Julius Randle,1,2,30,1,Driving Finger Roll Layup Shot,2,20,20,True
+Julius Randle,1,6,24,1,Driving Finger Roll Layup Shot,0,-2,0,True
+Julius Randle,1,5,31,1,Driving Finger Roll Layup Shot,3,2,31,True
+Julius Randle,3,5,56,1,Driving Finger Roll Layup Shot,1,-8,14,True
+Julius Randle,2,8,48,1,Driving Finger Roll Layup Shot,2,-2,20,True
+Julius Randle,1,5,15,0,Driving Floating Bank Jump Shot,7,28,69,True
+Julius Randle,2,10,15,0,Driving Floating Bank Jump Shot,4,-37,26,True
+Julius Randle,1,7,30,1,Driving Floating Bank Jump Shot,3,28,13,True
+Julius Randle,1,10,44,1,Driving Floating Bank Jump Shot,8,1,88,True
+Julius Randle,4,0,48,1,Driving Floating Bank Jump Shot,2,-24,15,True
+Julius Randle,4,0,30,0,Driving Floating Bank Jump Shot,7,-68,22,True
+Julius Randle,3,1,39,1,Driving Floating Bank Jump Shot,5,-33,44,True
+Julius Randle,1,4,37,0,Driving Floating Bank Jump Shot,6,34,53,True
+Julius Randle,2,5,2,0,Driving Floating Bank Jump Shot,5,-49,21,True
+Julius Randle,1,11,40,0,Driving Floating Bank Jump Shot,3,-13,31,True
+Julius Randle,2,11,14,1,Driving Floating Bank Jump Shot,3,-30,25,True
+Julius Randle,2,9,58,0,Driving Floating Jump Shot,12,-98,78,True
+Julius Randle,1,4,25,0,Driving Floating Jump Shot,6,41,45,True
+Julius Randle,2,11,0,0,Driving Floating Jump Shot,4,17,37,True
+Julius Randle,2,8,45,1,Driving Floating Jump Shot,7,39,69,True
+Julius Randle,5,2,55,0,Driving Floating Jump Shot,6,-50,46,True
+Julius Randle,2,6,50,1,Driving Floating Jump Shot,6,11,64,True
+Julius Randle,1,10,15,0,Driving Floating Jump Shot,6,-8,62,True
+Julius Randle,1,4,41,0,Driving Floating Jump Shot,6,32,61,True
+Julius Randle,1,3,29,0,Driving Floating Jump Shot,7,-16,70,True
+Julius Randle,2,3,12,1,Driving Floating Jump Shot,4,2,43,True
+Julius Randle,1,7,7,0,Driving Hook Shot,4,-26,36,True
+Julius Randle,2,10,54,1,Driving Hook Shot,11,-111,34,True
+Julius Randle,2,0,34,1,Driving Hook Shot,2,-11,26,True
+Julius Randle,1,2,30,0,Driving Hook Shot,3,32,20,True
+Julius Randle,1,8,49,0,Driving Hook Shot,6,-13,67,True
+Julius Randle,1,2,55,1,Driving Hook Shot,6,-20,64,True
+Julius Randle,1,6,52,1,Driving Hook Shot,6,2,61,True
+Julius Randle,1,4,50,1,Driving Hook Shot,4,0,40,True
+Julius Randle,1,3,45,0,Driving Hook Shot,2,-20,1,True
+Julius Randle,1,9,3,1,Driving Hook Shot,4,-5,42,True
+Julius Randle,1,10,25,1,Driving Hook Shot,7,13,73,True
+Julius Randle,1,4,13,0,Driving Hook Shot,6,-27,55,True
+Julius Randle,1,3,53,0,Driving Hook Shot,5,-20,46,True
+Julius Randle,3,8,14,0,Driving Hook Shot,6,-48,36,True
+Julius Randle,1,0,25,1,Driving Hook Shot,3,-9,34,True
+Julius Randle,2,11,28,0,Driving Hook Shot,6,-25,55,True
+Julius Randle,4,0,55,0,Driving Hook Shot,5,-9,58,True
+Julius Randle,3,2,50,0,Driving Layup Shot,2,-19,7,True
+Julius Randle,2,1,50,1,Driving Layup Shot,0,-3,9,True
+Julius Randle,1,8,49,1,Driving Layup Shot,1,13,6,True
+Julius Randle,4,5,48,0,Driving Layup Shot,3,30,-11,True
+Julius Randle,4,1,36,0,Driving Layup Shot,7,-60,42,True
+Julius Randle,4,8,36,1,Driving Layup Shot,3,3,36,True
+Julius Randle,1,1,8,1,Driving Layup Shot,3,-26,24,True
+Julius Randle,1,3,40,1,Driving Layup Shot,1,-9,14,True
+Julius Randle,1,3,26,0,Driving Layup Shot,1,15,2,True
+Julius Randle,3,6,51,1,Driving Layup Shot,1,-11,10,True
+Julius Randle,1,4,42,1,Driving Layup Shot,1,-6,17,True
+Julius Randle,2,8,54,1,Driving Layup Shot,2,-6,20,True
+Julius Randle,4,1,26,1,Driving Layup Shot,2,-9,21,True
+Julius Randle,2,4,19,1,Driving Layup Shot,3,-14,29,True
+Julius Randle,3,10,10,0,Driving Layup Shot,2,-14,20,True
+Julius Randle,1,11,39,0,Driving Layup Shot,1,11,5,True
+Julius Randle,2,5,2,1,Driving Layup Shot,0,2,6,True
+Julius Randle,1,8,48,1,Driving Layup Shot,2,24,13,True
+Julius Randle,3,4,53,1,Driving Layup Shot,2,-5,21,True
+Julius Randle,2,4,27,1,Driving Layup Shot,1,9,16,True
+Julius Randle,3,4,22,1,Driving Layup Shot,1,-2,16,True
+Julius Randle,1,4,51,0,Driving Layup Shot,1,9,7,True
+Julius Randle,1,6,56,0,Driving Layup Shot,2,-1,25,True
+Julius Randle,3,2,40,1,Driving Layup Shot,1,-11,4,True
+Julius Randle,4,0,12,1,Driving Layup Shot,0,0,6,True
+Julius Randle,1,10,55,0,Driving Layup Shot,3,-13,29,True
+Julius Randle,3,11,22,1,Driving Layup Shot,1,7,17,True
+Julius Randle,4,8,54,1,Driving Layup Shot,1,-11,5,True
+Julius Randle,2,0,40,0,Driving Layup Shot,2,11,20,True
+Julius Randle,2,8,37,0,Driving Layup Shot,2,22,11,True
+Julius Randle,3,4,35,1,Driving Layup Shot,0,-1,5,True
+Julius Randle,4,9,59,0,Driving Layup Shot,2,24,5,True
+Julius Randle,4,0,38,1,Driving Layup Shot,3,0,38,True
+Julius Randle,4,7,56,1,Driving Layup Shot,2,9,25,True
+Julius Randle,1,2,44,0,Driving Layup Shot,3,-37,9,True
+Julius Randle,2,1,33,0,Driving Layup Shot,1,-8,11,True
+Julius Randle,2,2,1,1,Driving Layup Shot,4,-41,10,True
+Julius Randle,3,4,40,0,Driving Layup Shot,3,-32,21,True
+Julius Randle,1,4,28,1,Driving Layup Shot,1,-5,11,True
+Julius Randle,2,1,41,1,Driving Layup Shot,1,-2,16,True
+Julius Randle,1,5,20,0,Driving Layup Shot,3,-8,37,True
+Julius Randle,2,2,2,1,Driving Layup Shot,0,-3,8,True
+Julius Randle,4,5,58,0,Driving Layup Shot,1,16,8,True
+Julius Randle,2,0,49,1,Driving Layup Shot,1,6,11,True
+Julius Randle,2,9,40,1,Driving Layup Shot,1,-11,0,True
+Julius Randle,3,0,57,1,Driving Layup Shot,1,-9,11,True
+Julius Randle,2,5,24,0,Driving Layup Shot,2,19,22,True
+Julius Randle,4,10,54,0,Driving Layup Shot,2,-24,13,True
+Julius Randle,4,6,34,1,Driving Layup Shot,0,4,6,True
+Julius Randle,4,4,26,0,Driving Layup Shot,1,-11,9,True
+Julius Randle,1,0,17,1,Driving Layup Shot,3,-27,14,True
+Julius Randle,1,1,37,0,Driving Layup Shot,3,-26,21,True
+Julius Randle,2,2,48,0,Driving Layup Shot,5,-43,38,True
+Julius Randle,1,0,39,1,Driving Layup Shot,2,-3,22,True
+Julius Randle,2,7,39,0,Driving Layup Shot,4,-3,41,True
+Julius Randle,1,1,12,0,Driving Layup Shot,3,-11,32,True
+Julius Randle,2,11,44,1,Driving Layup Shot,1,11,14,True
+Julius Randle,3,2,22,0,Driving Layup Shot,5,-39,32,True
+Julius Randle,4,11,21,1,Driving Layup Shot,1,0,17,True
+Julius Randle,5,0,19,0,Driving Layup Shot,2,16,12,True
+Julius Randle,1,3,0,1,Driving Layup Shot,2,5,26,True
+Julius Randle,4,7,50,0,Driving Layup Shot,2,-22,13,True
+Julius Randle,2,6,15,1,Driving Layup Shot,1,-5,14,True
+Julius Randle,1,2,19,1,Driving Layup Shot,1,-14,8,True
+Julius Randle,1,10,52,1,Driving Layup Shot,1,-12,8,True
+Julius Randle,1,9,43,1,Driving Layup Shot,1,-12,13,True
+Julius Randle,4,11,19,1,Driving Layup Shot,1,-8,13,True
+Julius Randle,1,1,56,1,Driving Layup Shot,2,-23,12,True
+Julius Randle,4,2,57,0,Driving Layup Shot,2,-13,23,True
+Julius Randle,1,10,20,0,Driving Layup Shot,2,14,18,True
+Julius Randle,4,8,40,1,Driving Layup Shot,2,-7,25,True
+Julius Randle,1,2,6,1,Driving Layup Shot,1,2,15,True
+Julius Randle,3,6,52,0,Driving Layup Shot,3,-23,31,True
+Julius Randle,1,9,31,0,Driving Layup Shot,2,-8,20,True
+Julius Randle,4,2,3,1,Driving Layup Shot,0,2,3,True
+Julius Randle,4,5,14,1,Driving Layup Shot,1,-11,12,True
+Julius Randle,1,4,35,1,Driving Layup Shot,3,-13,31,True
+Julius Randle,1,4,41,1,Driving Layup Shot,0,-4,-8,True
+Julius Randle,2,5,58,1,Driving Reverse Layup Shot,1,-14,14,True
+Julius Randle,1,7,32,1,Driving Reverse Layup Shot,1,-13,7,True
+Julius Randle,3,7,19,0,Driving Reverse Layup Shot,1,-14,13,True
+Julius Randle,4,7,4,0,Driving Reverse Layup Shot,2,-1,28,True
+Julius Randle,4,5,5,1,Dunk Shot,1,-6,8,True
+Julius Randle,1,1,49,1,Dunk Shot,1,1,10,True
+Julius Randle,1,3,2,1,Dunk Shot,1,7,14,True
+Julius Randle,3,3,24,1,Dunk Shot,1,-9,15,True
+Julius Randle,3,3,59,1,Dunk Shot,0,2,5,True
+Julius Randle,2,0,24,1,Dunk Shot,0,8,4,True
+Julius Randle,2,0,50,1,Dunk Shot,2,-6,25,True
+Julius Randle,1,7,9,1,Dunk Shot,0,-2,4,True
+Julius Randle,1,10,55,1,Dunk Shot,1,-5,10,True
+Julius Randle,3,11,17,1,Dunk Shot,1,-11,16,True
+Julius Randle,4,3,47,1,Dunk Shot,1,2,14,True
+Julius Randle,3,9,53,1,Dunk Shot,2,-16,16,True
+Julius Randle,1,8,11,1,Dunk Shot,0,3,7,True
+Julius Randle,2,0,7,1,Dunk Shot,0,0,2,True
+Julius Randle,5,0,4,1,Dunk Shot,2,-8,21,True
+Julius Randle,4,3,55,1,Dunk Shot,0,2,2,True
+Julius Randle,3,5,32,1,Dunk Shot,2,4,21,True
+Julius Randle,2,5,27,1,Dunk Shot,1,0,14,True
+Julius Randle,2,6,33,0,Fadeaway Jump Shot,7,-6,79,True
+Julius Randle,4,11,5,0,Fadeaway Jump Shot,6,60,29,True
+Julius Randle,2,6,5,0,Fadeaway Jump Shot,4,-2,45,True
+Julius Randle,2,3,55,1,Fadeaway Jump Shot,10,8,100,True
+Julius Randle,3,8,11,0,Fadeaway Jump Shot,13,92,101,True
+Julius Randle,2,7,56,1,Fadeaway Jump Shot,6,-30,58,True
+Julius Randle,3,0,44,1,Fadeaway Jump Shot,9,30,86,True
+Julius Randle,1,8,51,1,Fadeaway Jump Shot,8,-5,88,True
+Julius Randle,3,6,25,1,Fadeaway Jump Shot,7,30,73,True
+Julius Randle,4,7,10,0,Fadeaway Jump Shot,8,37,74,True
+Julius Randle,1,11,40,0,Fadeaway Jump Shot,12,-109,61,True
+Julius Randle,3,8,6,1,Fadeaway Jump Shot,15,-43,152,True
+Julius Randle,4,2,31,0,Fadeaway Jump Shot,6,-29,62,True
+Julius Randle,3,3,40,0,Fadeaway Jump Shot,1,-18,8,True
+Julius Randle,4,8,36,1,Fadeaway Jump Shot,9,-7,94,True
+Julius Randle,1,5,5,1,Fadeaway Jump Shot,11,2,117,True
+Julius Randle,2,7,8,1,Finger Roll Layup Shot,2,3,29,True
+Julius Randle,3,3,56,1,Finger Roll Layup Shot,3,18,29,True
+Julius Randle,3,5,9,1,Finger Roll Layup Shot,2,-11,21,True
+Julius Randle,1,6,29,1,Finger Roll Layup Shot,8,-8,80,True
+Julius Randle,1,1,26,1,Finger Roll Layup Shot,1,-2,11,True
+Julius Randle,1,4,37,1,Finger Roll Layup Shot,2,5,24,True
+Julius Randle,3,8,33,0,Floating Jump shot,5,-5,54,True
+Julius Randle,3,4,55,0,Floating Jump shot,2,-1,29,True
+Julius Randle,4,5,28,1,Floating Jump shot,2,0,28,True
+Julius Randle,1,0,55,0,Floating Jump shot,3,0,34,True
+Julius Randle,3,6,36,0,Floating Jump shot,10,-20,105,True
+Julius Randle,2,0,35,0,Floating Jump shot,7,-76,20,True
+Julius Randle,1,6,5,0,Floating Jump shot,5,-4,59,True
+Julius Randle,3,10,15,0,Floating Jump shot,3,-16,31,True
+Julius Randle,2,5,50,1,Floating Jump shot,3,-23,32,True
+Julius Randle,2,1,48,0,Floating Jump shot,9,-7,92,True
+Julius Randle,1,8,20,0,Floating Jump shot,3,1,38,True
+Julius Randle,4,1,23,0,Floating Jump shot,10,-61,88,True
+Julius Randle,1,0,53,1,Floating Jump shot,4,-5,46,True
+Julius Randle,1,1,36,0,Hook Bank Shot,6,17,62,True
+Julius Randle,2,9,12,0,Hook Bank Shot,2,-27,11,True
+Julius Randle,3,2,35,0,Hook Shot,4,-43,25,True
+Julius Randle,1,4,13,0,Hook Shot,4,-32,32,True
+Julius Randle,4,0,23,0,Hook Shot,9,-11,90,True
+Julius Randle,1,6,14,1,Hook Shot,7,-73,19,True
+Julius Randle,3,11,16,0,Hook Shot,9,-45,86,True
+Julius Randle,3,11,26,0,Hook Shot,3,3,38,True
+Julius Randle,1,7,50,0,Hook Shot,1,11,13,True
+Julius Randle,1,9,7,1,Hook Shot,3,0,33,True
+Julius Randle,1,4,21,0,Hook Shot,6,-46,48,True
+Julius Randle,1,11,8,0,Hook Shot,3,-27,20,True
+Julius Randle,4,4,56,0,Hook Shot,5,-25,49,True
+Julius Randle,3,5,45,1,Hook Shot,5,-9,58,True
+Julius Randle,2,0,9,1,Hook Shot,1,2,19,True
+Julius Randle,1,3,27,0,Hook Shot,5,-55,5,True
+Julius Randle,1,7,26,0,Hook Shot,8,-84,17,True
+Julius Randle,1,10,21,1,Hook Shot,4,-18,36,True
+Julius Randle,1,3,46,0,Hook Shot,5,3,52,True
+Julius Randle,4,10,42,0,Hook Shot,2,-16,20,True
+Julius Randle,1,6,0,1,Hook Shot,7,-43,66,True
+Julius Randle,1,11,44,1,Hook Shot,9,-31,90,True
+Julius Randle,2,7,49,0,Hook Shot,5,-20,55,True
+Julius Randle,1,8,46,0,Hook Shot,4,-41,25,True
+Julius Randle,4,3,4,1,Hook Shot,5,12,58,True
+Julius Randle,3,4,40,0,Hook Shot,8,-4,87,True
+Julius Randle,2,10,12,0,Hook Shot,7,-2,78,True
+Julius Randle,2,8,9,0,Hook Shot,5,-43,29,True
+Julius Randle,1,4,17,0,Hook Shot,5,-49,15,True
+Julius Randle,1,0,1,1,Hook Shot,5,-51,27,True
+Julius Randle,2,10,55,0,Hook Shot,3,-12,34,True
+Julius Randle,1,3,8,1,Hook Shot,5,-59,10,True
+Julius Randle,1,4,19,0,Hook Shot,7,35,64,True
+Julius Randle,1,3,13,1,Hook Shot,5,-29,50,True
+Julius Randle,2,8,10,0,Hook Shot,4,-35,27,True
+Julius Randle,2,10,20,0,Hook Shot,4,-17,44,True
+Julius Randle,3,3,19,0,Hook Shot,7,-47,59,True
+Julius Randle,2,0,16,0,Jump Bank Shot,4,-39,29,True
+Julius Randle,2,3,13,0,Jump Bank Shot,2,0,25,True
+Julius Randle,1,9,54,0,Jump Bank Shot,1,10,12,True
+Julius Randle,2,4,17,0,Jump Bank Shot,8,-4,83,True
+Julius Randle,3,2,56,0,Jump Bank Shot,2,-16,21,True
+Julius Randle,1,7,38,1,Jump Bank Shot,19,143,136,True
+Julius Randle,4,4,16,1,Jump Bank Shot,1,-15,13,True
+Julius Randle,1,3,33,0,Jump Shot,25,107,231,False
+Julius Randle,4,1,51,0,Jump Shot,25,-107,236,False
+Julius Randle,3,2,5,1,Jump Shot,14,20,144,True
+Julius Randle,1,2,43,0,Jump Shot,6,-27,64,True
+Julius Randle,2,10,58,0,Jump Shot,7,60,37,True
+Julius Randle,4,10,21,0,Jump Shot,19,19,191,True
+Julius Randle,3,1,5,1,Jump Shot,15,-134,75,True
+Julius Randle,4,2,28,0,Jump Shot,6,-8,67,True
+Julius Randle,4,10,47,1,Jump Shot,10,-99,34,True
+Julius Randle,1,0,51,0,Jump Shot,16,-147,64,True
+Julius Randle,2,1,33,0,Jump Shot,4,13,45,True
+Julius Randle,2,10,54,0,Jump Shot,20,20,200,True
+Julius Randle,4,4,47,0,Jump Shot,7,10,70,True
+Julius Randle,4,2,27,0,Jump Shot,26,110,242,False
+Julius Randle,2,0,0,0,Jump Shot,22,-23,222,True
+Julius Randle,4,1,5,0,Jump Shot,27,73,267,False
+Julius Randle,1,1,49,0,Jump Shot,1,-2,19,True
+Julius Randle,4,8,51,1,Jump Shot,7,6,74,True
+Julius Randle,4,7,43,1,Jump Shot,28,-3,280,False
+Julius Randle,3,1,7,0,Jump Shot,5,8,54,True
+Julius Randle,4,6,21,0,Jump Shot,26,93,253,False
+Julius Randle,3,7,1,0,Jump Shot,4,-13,48,True
+Julius Randle,2,8,39,1,Jump Shot,25,-143,213,False
+Julius Randle,2,9,45,0,Jump Shot,20,3,204,True
+Julius Randle,1,3,22,1,Jump Shot,22,-229,13,False
+Julius Randle,2,10,14,0,Jump Shot,23,229,36,False
+Julius Randle,1,10,1,1,Jump Shot,20,137,148,True
+Julius Randle,3,10,45,0,Jump Shot,11,70,93,True
+Julius Randle,4,6,56,0,Jump Shot,5,-17,50,True
+Julius Randle,2,7,30,0,Jump Shot,8,22,82,True
+Julius Randle,3,11,11,0,Jump Shot,5,-5,59,True
+Julius Randle,4,2,14,0,Jump Shot,15,62,141,True
+Julius Randle,1,0,22,0,Jump Shot,22,76,209,True
+Julius Randle,1,2,50,0,Jump Shot,20,-77,185,True
+Julius Randle,4,11,25,0,Jump Shot,9,-66,69,True
+Julius Randle,2,11,11,0,Jump Shot,14,140,2,True
+Julius Randle,1,10,12,0,Jump Shot,4,-9,43,True
+Julius Randle,1,1,24,0,Jump Shot,22,-48,215,True
+Julius Randle,1,3,21,0,Jump Shot,18,84,163,True
+Julius Randle,3,2,51,0,Jump Shot,9,2,90,True
+Julius Randle,1,4,10,0,Jump Shot,26,66,257,False
+Julius Randle,1,1,47,0,Jump Shot,13,-54,126,True
+Julius Randle,1,6,0,0,Jump Shot,20,-18,207,True
+Julius Randle,4,10,13,0,Jump Shot,26,-157,216,False
+Julius Randle,3,6,48,0,Jump Shot,13,-129,46,True
+Julius Randle,1,11,46,0,Jump Shot,2,7,20,True
+Julius Randle,2,10,25,1,Jump Shot,21,-131,171,True
+Julius Randle,1,4,47,0,Jump Shot,19,-180,77,True
+Julius Randle,4,9,49,0,Jump Shot,16,24,160,True
+Julius Randle,4,4,43,0,Jump Shot,13,6,138,True
+Julius Randle,2,4,2,0,Jump Shot,25,-99,239,False
+Julius Randle,1,4,9,1,Jump Shot,3,-4,31,True
+Julius Randle,1,10,53,1,Jump Shot,19,-41,195,True
+Julius Randle,2,9,53,0,Jump Shot,4,-43,25,True
+Julius Randle,3,5,45,0,Jump Shot,18,-112,152,True
+Julius Randle,4,0,20,1,Jump Shot,26,-23,260,False
+Julius Randle,2,5,33,0,Jump Shot,25,-88,236,False
+Julius Randle,3,2,25,0,Jump Shot,25,96,239,False
+Julius Randle,4,4,16,0,Jump Shot,3,-7,39,True
+Julius Randle,3,5,57,0,Jump Shot,18,-98,151,True
+Julius Randle,1,4,41,0,Jump Shot,2,8,24,True
+Julius Randle,1,6,14,1,Jump Shot,23,103,208,True
+Julius Randle,1,6,5,1,Jump Shot,3,24,26,True
+Julius Randle,1,5,52,0,Jump Shot,15,34,147,True
+Julius Randle,1,7,17,0,Jump Shot,7,-67,31,True
+Julius Randle,4,10,45,1,Jump Shot,26,10,262,False
+Julius Randle,2,7,18,0,Jump Shot,25,-110,230,False
+Julius Randle,1,7,35,0,Jump Shot,19,131,148,True
+Julius Randle,2,11,31,1,Jump Shot,26,-94,248,False
+Julius Randle,1,10,20,0,Jump Shot,5,0,59,True
+Julius Randle,1,11,4,0,Jump Shot,19,100,173,True
+Julius Randle,3,8,45,0,Jump Shot,14,137,32,True
+Julius Randle,1,3,11,0,Jump Shot,24,-87,232,False
+Julius Randle,3,1,19,0,Jump Shot,17,-157,79,True
+Julius Randle,4,7,29,0,Jump Shot,25,-155,197,False
+Julius Randle,1,11,15,0,Jump Shot,25,112,231,False
+Julius Randle,2,3,54,1,Jump Shot,3,28,14,True
+Julius Randle,2,0,35,0,Jump Shot,26,-38,262,False
+Julius Randle,2,2,38,1,Jump Shot,5,0,53,True
+Julius Randle,4,9,32,1,Jump Shot,27,-84,264,False
+Julius Randle,2,3,4,1,Jump Shot,14,135,53,True
+Julius Randle,1,3,11,0,Jump Shot,21,65,206,True
+Julius Randle,1,4,8,0,Jump Shot,26,-84,247,False
+Julius Randle,2,2,7,1,Jump Shot,8,0,80,True
+Julius Randle,1,1,4,0,Jump Shot,12,-30,125,True
+Julius Randle,2,11,6,1,Jump Shot,19,-123,152,True
+Julius Randle,4,10,15,0,Jump Shot,26,107,237,False
+Julius Randle,4,1,46,0,Jump Shot,26,-31,262,False
+Julius Randle,2,6,30,0,Jump Shot,24,37,246,False
+Julius Randle,3,2,50,1,Jump Shot,25,40,249,False
+Julius Randle,3,5,24,0,Jump Shot,15,-155,38,True
+Julius Randle,4,11,49,0,Jump Shot,26,-131,225,False
+Julius Randle,4,7,18,1,Jump Shot,1,-9,7,True
+Julius Randle,3,7,55,0,Jump Shot,6,-9,69,True
+Julius Randle,4,10,44,0,Jump Shot,27,-11,276,False
+Julius Randle,2,1,30,0,Jump Shot,17,-9,179,True
+Julius Randle,3,0,31,0,Jump Shot,27,235,137,False
+Julius Randle,1,2,46,1,Jump Shot,17,3,178,True
+Julius Randle,1,11,39,0,Jump Shot,23,-231,42,False
+Julius Randle,1,9,33,0,Jump Shot,15,-137,75,True
+Julius Randle,1,9,30,0,Jump Shot,16,-119,118,True
+Julius Randle,1,8,11,1,Jump Shot,26,95,251,False
+Julius Randle,1,1,0,0,Jump Shot,26,-117,238,False
+Julius Randle,3,7,22,1,Jump Shot,2,-6,25,True
+Julius Randle,1,6,54,1,Jump Shot,4,38,26,True
+Julius Randle,2,8,6,0,Jump Shot,26,128,227,False
+Julius Randle,2,0,41,0,Jump Shot,4,1,41,True
+Julius Randle,1,9,17,1,Jump Shot,23,-231,45,False
+Julius Randle,4,9,33,0,Layup Shot,3,-9,36,True
+Julius Randle,1,3,24,1,Layup Shot,2,-20,5,True
+Julius Randle,3,3,28,1,Layup Shot,0,-8,3,True
+Julius Randle,2,2,10,1,Layup Shot,2,-11,27,True
+Julius Randle,2,1,56,0,Layup Shot,3,15,29,True
+Julius Randle,3,1,31,0,Layup Shot,7,3,79,True
+Julius Randle,3,1,32,0,Layup Shot,3,-9,37,True
+Julius Randle,2,5,30,0,Layup Shot,4,-15,40,True
+Julius Randle,2,1,55,1,Layup Shot,2,-18,17,True
+Julius Randle,2,4,8,1,Layup Shot,1,-11,13,True
+Julius Randle,3,6,2,0,Layup Shot,2,-25,11,True
+Julius Randle,2,5,40,0,Layup Shot,2,-29,0,True
+Julius Randle,1,7,19,0,Layup Shot,0,3,8,True
+Julius Randle,2,0,26,0,Layup Shot,2,-13,20,True
+Julius Randle,2,11,32,0,Layup Shot,3,-18,27,True
+Julius Randle,3,5,11,0,Layup Shot,5,-17,54,True
+Julius Randle,4,4,5,0,Layup Shot,3,18,25,True
+Julius Randle,3,7,6,0,Layup Shot,4,-35,21,True
+Julius Randle,2,5,24,1,Layup Shot,0,5,8,True
+Julius Randle,2,7,35,0,Layup Shot,0,-5,5,True
+Julius Randle,2,7,9,0,Layup Shot,2,9,21,True
+Julius Randle,1,0,3,1,Layup Shot,1,1,13,True
+Julius Randle,4,0,52,0,Layup Shot,4,-9,47,True
+Julius Randle,1,11,5,1,Layup Shot,6,3,61,True
+Julius Randle,1,9,28,0,Layup Shot,3,-33,0,True
+Julius Randle,3,3,47,1,Layup Shot,2,-8,23,True
+Julius Randle,3,5,7,1,Layup Shot,1,-9,8,True
+Julius Randle,3,8,59,0,Layup Shot,1,-9,8,True
+Julius Randle,2,0,11,1,Layup Shot,1,9,15,True
+Julius Randle,4,11,18,1,Layup Shot,2,6,23,True
+Julius Randle,5,1,3,0,Layup Shot,2,-17,13,True
+Julius Randle,1,5,2,1,Layup Shot,2,-25,1,True
+Julius Randle,3,10,32,1,Layup Shot,2,-24,4,True
+Julius Randle,1,10,9,1,Layup Shot,3,-36,13,True
+Julius Randle,1,6,15,0,Layup Shot,1,-13,-1,True
+Julius Randle,3,10,27,0,Layup Shot,1,11,9,True
+Julius Randle,3,6,19,0,Layup Shot,2,-14,16,True
+Julius Randle,3,10,30,0,Layup Shot,3,-5,31,True
+Julius Randle,1,9,51,0,Layup Shot,4,40,21,True
+Julius Randle,1,4,16,1,Layup Shot,8,11,87,True
+Julius Randle,3,10,27,0,Layup Shot,2,-17,12,True
+Julius Randle,4,4,53,0,Layup Shot,1,-3,17,True
+Julius Randle,2,6,26,0,Layup Shot,1,-4,17,True
+Julius Randle,1,3,44,0,Layup Shot,2,-11,23,True
+Julius Randle,4,4,50,0,Layup Shot,1,-11,12,True
+Julius Randle,1,6,27,1,Layup Shot,2,6,21,True
+Julius Randle,3,2,24,1,Layup Shot,2,0,22,True
+Julius Randle,3,7,29,0,Layup Shot,1,-18,4,True
+Julius Randle,4,5,8,0,Layup Shot,1,-8,10,True
+Julius Randle,2,5,48,1,Layup Shot,1,-10,6,True
+Julius Randle,1,9,10,0,Layup Shot,2,-16,17,True
+Julius Randle,2,4,2,0,Layup Shot,3,-4,30,True
+Julius Randle,2,7,47,0,Layup Shot,3,14,34,True
+Julius Randle,2,1,28,1,Layup Shot,2,8,21,True
+Julius Randle,2,10,0,1,Layup Shot,2,9,18,True
+Julius Randle,3,6,41,1,Layup Shot,2,18,16,True
+Julius Randle,1,5,26,0,Layup Shot,7,-49,59,True
+Julius Randle,1,6,40,1,Layup Shot,2,-8,23,True
+Julius Randle,4,0,37,0,Layup Shot,1,-2,18,True
+Julius Randle,3,0,4,1,Layup Shot,1,2,16,True
+Julius Randle,3,2,47,1,Layup Shot,0,-9,4,True
+Julius Randle,1,1,40,0,Layup Shot,1,-8,17,True
+Julius Randle,1,8,38,0,Layup Shot,0,-2,0,True
+Julius Randle,3,8,34,1,Layup Shot,1,-9,6,True
+Julius Randle,1,1,18,1,Layup Shot,0,-6,7,True
+Julius Randle,3,9,58,0,Layup Shot,2,-6,27,True
+Julius Randle,2,4,40,1,Layup Shot,3,-7,32,True
+Julius Randle,4,4,19,0,Layup Shot,2,-3,28,True
+Julius Randle,4,2,31,0,Layup Shot,1,-3,17,True
+Julius Randle,1,9,20,0,Layup Shot,2,-11,24,True
+Julius Randle,4,5,9,0,Layup Shot,2,-8,25,True
+Julius Randle,4,5,35,1,Layup Shot,2,-1,26,True
+Julius Randle,1,6,47,0,Layup Shot,1,-18,5,True
+Julius Randle,3,2,36,0,Layup Shot,3,12,36,True
+Julius Randle,2,7,42,0,Layup Shot,0,-4,0,True
+Julius Randle,4,5,52,1,Layup Shot,2,-4,21,True
+Julius Randle,3,11,16,1,Layup Shot,1,6,15,True
+Julius Randle,2,6,7,1,Layup Shot,0,1,9,True
+Julius Randle,4,3,17,0,Layup Shot,0,-6,6,True
+Julius Randle,3,0,52,0,Layup Shot,2,-17,21,True
+Julius Randle,4,0,39,0,Layup Shot,2,-1,20,True
+Julius Randle,1,1,38,1,Layup Shot,1,-7,10,True
+Julius Randle,4,0,41,0,Layup Shot,2,-11,17,True
+Julius Randle,4,4,29,1,Layup Shot,2,5,23,True
+Julius Randle,1,0,26,0,Layup Shot,1,5,13,True
+Julius Randle,2,9,59,1,Layup Shot,1,2,13,True
+Julius Randle,2,5,52,1,Layup Shot,1,5,9,True
+Julius Randle,4,6,16,0,Layup Shot,1,-2,15,True
+Julius Randle,2,6,35,0,Layup Shot,2,-19,21,True
+Julius Randle,3,7,29,0,Layup Shot,2,8,20,True
+Julius Randle,4,2,8,1,Layup Shot,1,3,17,True
+Julius Randle,3,8,3,0,Layup Shot,3,3,32,True
+Julius Randle,4,3,31,1,Layup Shot,5,-55,13,True
+Julius Randle,4,6,32,1,Layup Shot,1,0,13,True
+Julius Randle,3,3,25,0,Layup Shot,3,-1,35,True
+Julius Randle,1,2,1,1,Layup Shot,2,-6,24,True
+Julius Randle,3,7,35,1,Layup Shot,1,-11,16,True
+Julius Randle,1,1,13,0,Layup Shot,0,6,4,True
+Julius Randle,3,6,35,0,Layup Shot,2,-21,8,True
+Julius Randle,1,2,51,1,Layup Shot,2,-19,12,True
+Julius Randle,4,3,26,1,Layup Shot,1,-14,0,True
+Julius Randle,1,4,51,1,Layup Shot,1,0,14,True
+Julius Randle,2,10,27,0,Layup Shot,2,0,27,True
+Julius Randle,2,4,10,1,Layup Shot,2,14,26,True
+Julius Randle,3,6,49,1,Layup Shot,4,-32,32,True
+Julius Randle,2,10,48,1,Layup Shot,1,-6,17,True
+Julius Randle,4,7,19,0,Layup Shot,2,20,11,True
+Julius Randle,4,4,27,0,Layup Shot,3,9,37,True
+Julius Randle,3,1,27,1,Layup Shot,5,-44,32,True
+Julius Randle,2,5,16,0,Layup Shot,5,-52,9,True
+Julius Randle,1,0,28,1,Layup Shot,1,-9,8,True
+Julius Randle,3,6,18,0,Layup Shot,5,-40,42,True
+Julius Randle,4,1,9,0,Layup Shot,1,5,17,True
+Julius Randle,2,8,36,1,Layup Shot,1,-3,15,True
+Julius Randle,4,9,46,0,Layup Shot,1,4,16,True
+Julius Randle,2,11,30,1,Layup Shot,1,-4,19,True
+Julius Randle,3,1,14,1,Layup Shot,1,-8,8,True
+Julius Randle,1,10,32,1,Layup Shot,1,5,14,True
+Julius Randle,2,8,41,1,Layup Shot,3,17,25,True
+Julius Randle,3,11,34,0,Layup Shot,3,-34,10,True
+Julius Randle,2,2,4,0,Layup Shot,7,10,74,True
+Julius Randle,2,6,44,1,Layup Shot,2,5,20,True
+Julius Randle,4,8,7,1,Layup Shot,1,-6,12,True
+Julius Randle,3,6,59,1,Layup Shot,2,19,13,True
+Julius Randle,4,3,18,1,Layup Shot,0,0,7,True
+Julius Randle,2,10,51,1,Layup Shot,1,16,4,True
+Julius Randle,4,7,55,0,Layup Shot,2,20,17,True
+Julius Randle,1,11,31,0,Layup Shot,2,2,29,True
+Julius Randle,2,5,48,0,Layup Shot,2,-12,22,True
+Julius Randle,1,7,21,0,Layup Shot,2,-12,18,True
+Julius Randle,4,11,37,1,Layup Shot,1,6,16,True
+Julius Randle,1,3,1,0,Layup Shot,3,-3,38,True
+Julius Randle,2,9,16,1,Layup Shot,1,-11,11,True
+Julius Randle,2,0,46,1,Layup Shot,2,20,21,True
+Julius Randle,1,11,13,1,Layup Shot,2,21,7,True
+Julius Randle,1,11,13,0,Layup Shot,2,0,26,True
+Julius Randle,1,3,31,1,Pullup Jump shot,17,32,172,True
+Julius Randle,1,8,52,0,Pullup Jump shot,20,-26,205,True
+Julius Randle,1,6,42,0,Pullup Jump shot,17,89,145,True
+Julius Randle,1,7,54,0,Pullup Jump shot,8,-4,84,True
+Julius Randle,1,10,40,1,Pullup Jump shot,17,-83,153,True
+Julius Randle,1,11,37,0,Pullup Jump shot,19,120,148,True
+Julius Randle,1,2,36,0,Pullup Jump shot,25,-144,205,False
+Julius Randle,1,4,58,0,Pullup Jump shot,15,54,143,True
+Julius Randle,3,6,42,0,Putback Dunk Shot,2,-9,20,True
+Julius Randle,3,11,5,1,Putback Dunk Shot,1,4,10,True
+Julius Randle,4,4,49,1,Putback Dunk Shot,0,0,-6,True
+Julius Randle,1,4,39,1,Putback Dunk Shot,2,-3,22,True
+Julius Randle,4,1,12,1,Putback Dunk Shot,0,0,-6,True
+Julius Randle,1,3,23,1,Putback Layup Shot,0,-8,4,True
+Julius Randle,3,8,19,1,Putback Layup Shot,0,0,-6,True
+Julius Randle,3,1,1,1,Putback Layup Shot,0,-1,7,True
+Julius Randle,4,3,30,1,Putback Layup Shot,1,6,12,True
+Julius Randle,1,4,54,1,Putback Layup Shot,1,0,13,True
+Julius Randle,2,2,54,1,Putback Layup Shot,2,18,20,True
+Julius Randle,1,3,34,1,Putback Layup Shot,2,5,21,True
+Julius Randle,3,7,29,1,Putback Layup Shot,1,3,18,True
+Julius Randle,4,0,51,1,Putback Layup Shot,1,3,13,True
+Julius Randle,4,6,53,0,Putback Layup Shot,1,2,15,True
+Julius Randle,4,6,49,1,Putback Layup Shot,1,-3,15,True
+Julius Randle,3,1,59,0,Putback Layup Shot,2,3,26,True
+Julius Randle,1,1,10,1,Putback Layup Shot,2,5,25,True
+Julius Randle,1,2,33,1,Putback Layup Shot,1,8,16,True
+Julius Randle,2,6,36,1,Putback Layup Shot,0,0,-6,True
+Julius Randle,4,6,4,0,Putback Layup Shot,1,-6,10,True
+Julius Randle,4,6,22,1,Putback Layup Shot,0,0,-6,True
+Julius Randle,1,9,15,0,Putback Layup Shot,1,-4,16,True
+Julius Randle,1,8,35,1,Putback Layup Shot,0,3,6,True
+Julius Randle,3,11,10,1,Putback Layup Shot,2,-8,21,True
+Julius Randle,3,7,8,1,Putback Layup Shot,0,-8,5,True
+Julius Randle,2,7,6,1,Putback Layup Shot,2,2,21,True
+Julius Randle,2,4,20,0,Putback Layup Shot,1,18,4,True
+Julius Randle,4,1,26,1,Putback Layup Shot,0,0,-6,True
+Julius Randle,3,2,13,1,Putback Layup Shot,1,8,11,True
+Julius Randle,1,0,23,1,Putback Layup Shot,2,25,9,True
+Julius Randle,1,3,25,1,Putback Layup Shot,1,-14,12,True
+Julius Randle,2,8,31,1,Putback Layup Shot,0,0,-6,True
+Julius Randle,3,5,29,0,Reverse Layup Shot,1,16,11,True
+Julius Randle,2,2,55,0,Reverse Layup Shot,1,-19,5,True
+Julius Randle,2,10,52,1,Reverse Layup Shot,1,0,13,True
+Julius Randle,1,11,13,1,Reverse Layup Shot,1,-2,13,True
+Julius Randle,3,3,32,0,Running Alley Oop Dunk Shot,1,11,0,True
+Julius Randle,1,5,44,1,Running Alley Oop Dunk Shot,1,-6,17,True
+Julius Randle,1,11,39,0,Running Alley Oop Layup Shot,1,-4,17,True
+Julius Randle,1,10,41,1,Running Dunk Shot,1,-6,8,True
+Julius Randle,2,10,36,1,Running Dunk Shot,1,-8,9,True
+Julius Randle,2,8,58,1,Running Dunk Shot,1,-4,13,True
+Julius Randle,3,10,24,1,Running Dunk Shot,0,-3,9,True
+Julius Randle,2,7,44,1,Running Dunk Shot,1,-2,15,True
+Julius Randle,1,11,1,1,Running Dunk Shot,0,3,-1,True
+Julius Randle,1,6,4,1,Running Dunk Shot,1,2,10,True
+Julius Randle,4,2,16,1,Running Dunk Shot,0,-4,-1,True
+Julius Randle,2,4,45,1,Running Dunk Shot,1,-4,16,True
+Julius Randle,4,0,35,1,Running Dunk Shot,3,-14,33,True
+Julius Randle,3,7,39,0,Running Dunk Shot,5,2,59,True
+Julius Randle,3,3,15,1,Running Dunk Shot,1,-8,18,True
+Julius Randle,1,1,0,1,Running Dunk Shot,1,1,13,True
+Julius Randle,3,7,47,1,Running Dunk Shot,0,2,5,True
+Julius Randle,4,10,9,1,Running Dunk Shot,0,1,0,True
+Julius Randle,3,5,2,1,Running Dunk Shot,0,-1,6,True
+Julius Randle,1,3,22,1,Running Dunk Shot,3,11,29,True
+Julius Randle,2,2,10,1,Running Dunk Shot,0,-5,5,True
+Julius Randle,1,4,42,1,Running Dunk Shot,2,1,24,True
+Julius Randle,2,8,24,1,Running Dunk Shot,2,-7,23,True
+Julius Randle,2,1,30,1,Running Dunk Shot,1,1,17,True
+Julius Randle,4,1,8,1,Running Dunk Shot,0,-2,0,True
+Julius Randle,1,6,54,1,Running Dunk Shot,1,6,11,True
+Julius Randle,2,4,3,1,Running Dunk Shot,3,5,37,True
+Julius Randle,3,3,52,1,Running Finger Roll Layup Shot,2,-3,23,True
+Julius Randle,4,8,17,1,Running Finger Roll Layup Shot,1,-3,16,True
+Julius Randle,3,3,52,1,Running Finger Roll Layup Shot,2,-17,18,True
+Julius Randle,1,7,1,1,Running Finger Roll Layup Shot,1,-2,13,True
+Julius Randle,2,5,46,0,Running Finger Roll Layup Shot,1,1,13,True
+Julius Randle,1,9,15,1,Running Finger Roll Layup Shot,0,7,6,True
+Julius Randle,3,4,22,1,Running Finger Roll Layup Shot,2,-5,20,True
+Julius Randle,3,7,19,1,Running Finger Roll Layup Shot,2,-1,22,True
+Julius Randle,2,0,0,0,Running Jump Shot,53,39,533,False
+Julius Randle,2,9,39,0,Running Jump Shot,6,-3,65,True
+Julius Randle,2,4,2,0,Running Jump Shot,3,22,26,True
+Julius Randle,1,0,56,1,Running Jump Shot,1,-3,10,True
+Julius Randle,1,10,1,1,Running Layup Shot,1,3,17,True
+Julius Randle,1,9,29,1,Running Layup Shot,1,-18,8,True
+Julius Randle,2,9,58,0,Running Layup Shot,2,7,25,True
+Julius Randle,1,0,44,1,Running Layup Shot,1,-10,14,True
+Julius Randle,1,5,44,1,Running Layup Shot,2,-18,15,True
+Julius Randle,3,6,46,0,Running Layup Shot,2,-22,10,True
+Julius Randle,1,6,14,0,Running Layup Shot,1,-9,13,True
+Julius Randle,2,0,31,0,Running Layup Shot,3,-2,38,True
+Julius Randle,1,8,20,1,Running Layup Shot,2,2,20,True
+Julius Randle,5,4,14,0,Running Layup Shot,3,-14,32,True
+Julius Randle,1,4,16,1,Running Layup Shot,3,-9,33,True
+Julius Randle,3,4,6,1,Running Layup Shot,0,-9,4,True
+Julius Randle,4,8,30,1,Running Layup Shot,1,1,13,True
+Julius Randle,1,6,59,1,Running Layup Shot,1,8,13,True
+Julius Randle,1,2,52,1,Running Layup Shot,2,-18,20,True
+Julius Randle,2,2,25,1,Running Layup Shot,2,-25,11,True
+Julius Randle,1,0,28,0,Running Layup Shot,1,-11,11,True
+Julius Randle,3,10,16,0,Running Layup Shot,5,-20,46,True
+Julius Randle,4,8,43,1,Running Layup Shot,1,-2,17,True
+Julius Randle,1,7,28,1,Running Layup Shot,1,-5,14,True
+Julius Randle,1,3,7,0,Running Layup Shot,2,-5,24,True
+Julius Randle,2,10,18,0,Running Layup Shot,1,9,8,True
+Julius Randle,2,5,10,1,Running Layup Shot,2,-6,24,True
+Julius Randle,2,2,24,0,Running Layup Shot,2,-5,27,True
+Julius Randle,1,7,5,1,Running Layup Shot,1,-2,17,True
+Julius Randle,2,8,37,1,Running Layup Shot,1,0,14,True
+Julius Randle,2,0,2,0,Running Layup Shot,1,0,15,True
+Julius Randle,1,5,14,1,Running Layup Shot,1,-11,15,True
+Julius Randle,1,8,30,0,Running Layup Shot,1,5,17,True
+Julius Randle,1,2,13,1,Running Layup Shot,1,17,9,True
+Julius Randle,4,6,21,1,Running Layup Shot,2,-24,17,True
+Julius Randle,3,5,44,0,Running Layup Shot,5,1,50,True
+Julius Randle,1,8,30,0,Step Back Jump shot,19,-16,193,True
+Julius Randle,2,10,42,0,Step Back Jump shot,12,46,120,True
+Julius Randle,1,10,33,0,Step Back Jump shot,20,41,205,True
+Julius Randle,1,1,21,1,Step Back Jump shot,13,11,132,True
+Julius Randle,2,2,20,1,Step Back Jump shot,14,117,90,True
+Julius Randle,1,8,55,1,Step Back Jump shot,20,111,177,True
+Julius Randle,3,1,0,0,Step Back Jump shot,20,-152,137,True
+Julius Randle,4,1,26,1,Tip Layup Shot,0,0,-6,True
+Julius Randle,2,10,2,0,Tip Layup Shot,0,0,-6,True
+Julius Randle,1,4,20,1,Tip Layup Shot,0,0,-6,True
+Julius Randle,3,9,29,1,Tip Layup Shot,0,0,-6,True
+Julius Randle,3,0,41,1,Tip Layup Shot,0,0,-6,True
+Julius Randle,1,7,54,1,Tip Layup Shot,0,0,-6,True
+Julius Randle,3,6,11,1,Tip Layup Shot,0,0,-6,True
+Julius Randle,3,4,32,1,Tip Layup Shot,0,0,-6,True
+Julius Randle,2,3,5,0,Tip Layup Shot,0,0,-6,True
+Julius Randle,2,6,21,0,Tip Layup Shot,0,0,-6,True
+Julius Randle,1,1,31,1,Tip Layup Shot,0,0,-6,True
+Julius Randle,4,5,9,1,Tip Layup Shot,0,0,-6,True
+Julius Randle,4,11,18,1,Tip Layup Shot,0,0,-6,True
+Julius Randle,3,7,25,1,Tip Layup Shot,0,0,-6,True
+Julius Randle,1,8,4,1,Turnaround Bank Hook Shot,3,-30,17,True
+Julius Randle,2,4,31,0,Turnaround Bank Hook Shot,5,-38,37,True
+Julius Randle,1,4,0,1,Turnaround Bank Hook Shot,4,11,46,True
+Julius Randle,1,10,45,1,Turnaround Bank Hook Shot,5,-55,19,True
+Julius Randle,1,6,35,1,Turnaround Bank Hook Shot,4,-46,17,True
+Julius Randle,1,3,49,0,Turnaround Bank Hook Shot,5,-41,34,True
+Julius Randle,1,11,19,1,Turnaround Bank Hook Shot,3,-33,19,True
+Julius Randle,2,5,51,0,Turnaround Bank Hook Shot,3,-35,14,True
+Julius Randle,3,9,33,1,Turnaround Fadeaway Bank Jump Shot,3,35,17,True
+Julius Randle,5,0,18,1,Turnaround Fadeaway Bank Jump Shot,2,-25,15,True
+Julius Randle,3,8,49,1,Turnaround Fadeaway Bank Jump Shot,6,-63,7,True
+Julius Randle,1,11,27,1,Turnaround Fadeaway Bank Jump Shot,12,-110,48,True
+Julius Randle,3,4,3,0,Turnaround Fadeaway Bank Jump Shot,5,41,38,True
+Julius Randle,4,1,16,0,Turnaround Fadeaway Bank Jump Shot,2,-16,16,True
+Julius Randle,3,1,8,0,Turnaround Fadeaway Bank Jump Shot,7,-54,48,True
+Julius Randle,1,4,23,0,Turnaround Fadeaway Bank Jump Shot,7,-71,22,True
+Julius Randle,4,0,14,0,Turnaround Fadeaway shot,5,54,18,True
+Julius Randle,2,3,29,0,Turnaround Fadeaway shot,13,-131,36,True
+Julius Randle,1,0,47,0,Turnaround Fadeaway shot,15,45,146,True
+Julius Randle,5,2,35,1,Turnaround Fadeaway shot,6,-69,10,True
+Julius Randle,3,8,50,0,Turnaround Fadeaway shot,9,53,78,True
+Julius Randle,1,7,5,0,Turnaround Fadeaway shot,8,38,71,True
+Julius Randle,1,10,50,1,Turnaround Fadeaway shot,5,-10,56,True
+Julius Randle,3,3,34,1,Turnaround Hook Shot,0,-9,-1,True
+Julius Randle,1,11,15,0,Turnaround Hook Shot,4,-40,24,True
+Julius Randle,1,8,20,1,Turnaround Hook Shot,3,-29,14,True
+Julius Randle,2,5,24,1,Turnaround Hook Shot,2,-19,16,True
+Julius Randle,3,5,37,0,Turnaround Hook Shot,8,-83,5,True
+Julius Randle,1,3,31,0,Turnaround Hook Shot,2,-18,20,True
+Julius Randle,1,6,9,1,Turnaround Hook Shot,6,-59,29,True
+Julius Randle,1,7,24,1,Turnaround Hook Shot,7,-63,45,True
+Julius Randle,2,0,48,0,Turnaround Hook Shot,5,-49,19,True
+Julius Randle,3,2,53,0,Turnaround Hook Shot,4,-44,23,True
+Julius Randle,2,5,26,0,Turnaround Hook Shot,5,-13,55,True
+Julius Randle,2,0,25,1,Turnaround Hook Shot,6,-27,63,True
+Julius Randle,1,5,10,1,Turnaround Hook Shot,5,-13,58,True
+Julius Randle,1,9,51,1,Turnaround Hook Shot,9,-92,8,True
+Julius Randle,2,3,17,1,Turnaround Hook Shot,8,-13,88,True
+Julius Randle,1,7,59,0,Turnaround Hook Shot,2,3,26,True
+Julius Randle,1,3,42,0,Turnaround Hook Shot,8,35,82,True
+Julius Randle,4,11,11,1,Turnaround Hook Shot,4,-6,47,True
+Julius Randle,2,1,44,1,Turnaround Hook Shot,8,-83,16,True
+Julius Randle,2,8,3,1,Turnaround Hook Shot,4,-11,46,True
+Julius Randle,1,3,23,1,Turnaround Hook Shot,6,-62,2,True
+Julius Randle,3,8,4,1,Turnaround Hook Shot,2,-12,26,True
+Julius Randle,1,5,33,0,Turnaround Hook Shot,9,20,88,True
+Julius Randle,2,4,27,1,Turnaround Hook Shot,4,-7,43,True
+Julius Randle,3,2,19,1,Turnaround Hook Shot,5,-47,30,True
+Julius Randle,4,2,13,1,Turnaround Hook Shot,5,-43,36,True
+Julius Randle,4,3,43,1,Turnaround Hook Shot,5,6,53,True
+Julius Randle,1,2,13,1,Turnaround Jump Shot,5,17,55,True
+Julius Randle,4,3,8,0,Turnaround Jump Shot,3,-38,4,True
+Julius Randle,2,9,58,0,Turnaround Jump Shot,7,29,66,True
+Julius Randle,2,11,23,0,Turnaround Jump Shot,5,-58,14,True
+Julius Randle,1,11,35,0,Turnaround Jump Shot,8,-13,85,True
+Julius Randle,2,10,42,0,Turnaround Jump Shot,12,-41,120,True
+Julius Randle,2,4,54,0,Turnaround Jump Shot,6,-17,63,True
+Julius Randle,4,4,51,0,Turnaround Jump Shot,8,-24,84,True
+Julius Randle,2,6,31,1,Turnaround Jump Shot,4,12,45,True
+Julius Randle,1,0,28,0,Turnaround Jump Shot,17,153,78,True
+Julius Randle,2,10,4,0,Turnaround Jump Shot,3,11,31,True
+Julius Randle,1,0,0,1,Turnaround Jump Shot,6,-56,22,True
+Julius Randle,1,2,17,0,Turnaround Jump Shot,2,-16,22,True
+Julius Randle,2,0,7,1,Turnaround Jump Shot,8,-81,-1,True
+Julius Randle,3,8,47,0,Turnaround Jump Shot,8,-6,89,True
+Julius Randle,2,7,12,0,Turnaround Jump Shot,6,0,62,True
+Julius Randle,2,6,0,0,Turnaround Jump Shot,17,174,40,True

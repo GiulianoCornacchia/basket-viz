@@ -1,0 +1,292 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Sean Kilpatrick,4,1,39,1,Cutting Layup Shot,2,-20,4,True
+Sean Kilpatrick,4,7,44,1,Cutting Layup Shot,1,-9,8,True
+Sean Kilpatrick,2,9,30,1,Cutting Layup Shot,2,2,21,True
+Sean Kilpatrick,4,3,15,1,Cutting Layup Shot,2,13,26,True
+Sean Kilpatrick,2,11,48,1,Cutting Layup Shot,1,19,2,True
+Sean Kilpatrick,4,1,39,1,Cutting Layup Shot,0,8,4,True
+Sean Kilpatrick,2,8,2,0,Driving Finger Roll Layup Shot,1,-4,19,True
+Sean Kilpatrick,3,3,35,1,Driving Finger Roll Layup Shot,0,4,2,True
+Sean Kilpatrick,2,9,27,1,Driving Floating Bank Jump Shot,6,-51,46,True
+Sean Kilpatrick,4,11,1,1,Driving Floating Jump Shot,6,-2,60,True
+Sean Kilpatrick,4,9,18,0,Driving Floating Jump Shot,6,-5,69,True
+Sean Kilpatrick,3,2,1,0,Driving Floating Jump Shot,6,-33,57,True
+Sean Kilpatrick,3,1,5,0,Driving Floating Jump Shot,6,-1,69,True
+Sean Kilpatrick,1,1,58,0,Driving Floating Jump Shot,12,29,120,True
+Sean Kilpatrick,2,8,23,1,Driving Floating Jump Shot,9,-23,89,True
+Sean Kilpatrick,2,10,59,0,Driving Floating Jump Shot,8,47,69,True
+Sean Kilpatrick,4,6,11,1,Driving Floating Jump Shot,11,-17,115,True
+Sean Kilpatrick,4,2,45,0,Driving Floating Jump Shot,6,40,50,True
+Sean Kilpatrick,4,1,52,1,Driving Layup Shot,3,8,38,True
+Sean Kilpatrick,4,3,52,0,Driving Layup Shot,1,-7,11,True
+Sean Kilpatrick,4,3,25,0,Driving Layup Shot,2,6,24,True
+Sean Kilpatrick,4,2,29,1,Driving Layup Shot,1,18,4,True
+Sean Kilpatrick,3,3,34,0,Driving Layup Shot,1,14,-8,True
+Sean Kilpatrick,1,1,45,1,Driving Layup Shot,3,-33,18,True
+Sean Kilpatrick,1,1,53,1,Driving Layup Shot,1,-10,11,True
+Sean Kilpatrick,4,9,26,0,Driving Layup Shot,5,-48,32,True
+Sean Kilpatrick,3,0,0,0,Driving Layup Shot,5,56,-1,True
+Sean Kilpatrick,4,9,52,1,Driving Layup Shot,2,0,25,True
+Sean Kilpatrick,2,6,32,1,Driving Layup Shot,0,8,5,True
+Sean Kilpatrick,3,8,24,0,Driving Layup Shot,1,3,17,True
+Sean Kilpatrick,1,2,1,1,Driving Layup Shot,9,12,96,True
+Sean Kilpatrick,1,0,2,0,Driving Layup Shot,2,25,8,True
+Sean Kilpatrick,4,4,56,0,Driving Layup Shot,3,24,22,True
+Sean Kilpatrick,4,2,23,0,Driving Layup Shot,2,-22,18,True
+Sean Kilpatrick,4,2,22,1,Driving Layup Shot,1,-18,6,True
+Sean Kilpatrick,2,11,25,1,Driving Layup Shot,4,30,27,True
+Sean Kilpatrick,1,2,14,0,Driving Layup Shot,1,4,12,True
+Sean Kilpatrick,4,3,33,0,Driving Layup Shot,1,-8,10,True
+Sean Kilpatrick,3,1,45,0,Driving Layup Shot,0,5,4,True
+Sean Kilpatrick,2,7,2,1,Driving Layup Shot,1,-2,19,True
+Sean Kilpatrick,3,0,43,0,Driving Layup Shot,3,-4,36,True
+Sean Kilpatrick,4,0,16,0,Driving Layup Shot,1,-7,12,True
+Sean Kilpatrick,3,0,38,1,Driving Layup Shot,2,7,19,True
+Sean Kilpatrick,1,2,35,1,Driving Layup Shot,1,3,13,True
+Sean Kilpatrick,4,3,45,1,Driving Layup Shot,1,-18,7,True
+Sean Kilpatrick,4,2,21,1,Driving Layup Shot,1,-3,15,True
+Sean Kilpatrick,4,0,44,0,Driving Layup Shot,1,5,19,True
+Sean Kilpatrick,2,9,9,0,Driving Layup Shot,4,-34,25,True
+Sean Kilpatrick,2,7,29,0,Driving Layup Shot,4,-34,34,True
+Sean Kilpatrick,3,2,14,1,Driving Layup Shot,2,-11,25,True
+Sean Kilpatrick,4,1,23,0,Driving Layup Shot,1,-9,16,True
+Sean Kilpatrick,4,5,26,0,Driving Layup Shot,2,27,-3,True
+Sean Kilpatrick,4,0,23,0,Driving Reverse Layup Shot,1,0,11,True
+Sean Kilpatrick,4,0,47,0,Driving Reverse Layup Shot,2,-13,16,True
+Sean Kilpatrick,4,11,46,0,Driving Reverse Layup Shot,1,10,4,True
+Sean Kilpatrick,1,3,36,1,Driving Reverse Layup Shot,2,11,26,True
+Sean Kilpatrick,3,1,8,1,Driving Reverse Layup Shot,0,3,-8,True
+Sean Kilpatrick,4,4,31,1,Fadeaway Jump Shot,10,58,90,True
+Sean Kilpatrick,3,0,55,0,Floating Jump shot,6,16,58,True
+Sean Kilpatrick,1,3,26,0,Floating Jump shot,13,51,121,True
+Sean Kilpatrick,2,11,41,0,Floating Jump shot,8,30,75,True
+Sean Kilpatrick,4,1,46,0,Floating Jump shot,3,11,34,True
+Sean Kilpatrick,2,8,0,0,Floating Jump shot,9,71,64,True
+Sean Kilpatrick,4,6,2,0,Floating Jump shot,9,-19,95,True
+Sean Kilpatrick,2,7,12,0,Jump Bank Shot,11,-96,61,True
+Sean Kilpatrick,3,2,59,1,Jump Bank Shot,15,139,61,True
+Sean Kilpatrick,3,1,1,1,Jump Shot,15,-42,151,True
+Sean Kilpatrick,2,9,48,0,Jump Shot,25,-73,242,False
+Sean Kilpatrick,2,8,45,0,Jump Shot,24,-184,162,False
+Sean Kilpatrick,1,9,46,1,Jump Shot,22,-220,-13,False
+Sean Kilpatrick,1,6,52,0,Jump Shot,26,98,241,False
+Sean Kilpatrick,3,2,58,1,Jump Shot,22,-229,17,False
+Sean Kilpatrick,3,5,58,0,Jump Shot,16,35,157,True
+Sean Kilpatrick,3,0,5,1,Jump Shot,26,-78,252,False
+Sean Kilpatrick,4,3,39,0,Jump Shot,25,-201,155,False
+Sean Kilpatrick,3,5,5,0,Jump Shot,24,-155,184,False
+Sean Kilpatrick,1,5,3,1,Jump Shot,23,238,-19,False
+Sean Kilpatrick,4,11,1,0,Jump Shot,25,68,245,False
+Sean Kilpatrick,3,0,27,1,Jump Shot,16,-73,150,True
+Sean Kilpatrick,2,11,40,1,Jump Shot,19,-30,197,True
+Sean Kilpatrick,4,10,14,0,Jump Shot,19,-59,185,True
+Sean Kilpatrick,2,10,47,1,Jump Shot,25,43,248,False
+Sean Kilpatrick,3,0,0,0,Jump Shot,41,-161,382,False
+Sean Kilpatrick,4,7,56,0,Jump Shot,25,70,240,False
+Sean Kilpatrick,2,3,40,1,Jump Shot,20,71,197,True
+Sean Kilpatrick,4,3,27,1,Jump Shot,24,-112,220,False
+Sean Kilpatrick,4,10,11,1,Jump Shot,23,233,25,False
+Sean Kilpatrick,4,0,32,1,Jump Shot,25,-163,195,False
+Sean Kilpatrick,4,10,57,1,Jump Shot,25,59,253,False
+Sean Kilpatrick,3,3,8,0,Jump Shot,25,-28,252,False
+Sean Kilpatrick,2,9,21,1,Jump Shot,26,-140,225,False
+Sean Kilpatrick,1,2,53,0,Jump Shot,22,-228,10,False
+Sean Kilpatrick,4,10,34,1,Jump Shot,25,-19,259,False
+Sean Kilpatrick,4,7,48,1,Jump Shot,17,-72,158,True
+Sean Kilpatrick,2,7,16,0,Jump Shot,23,-232,-22,False
+Sean Kilpatrick,4,3,20,1,Jump Shot,25,-70,249,False
+Sean Kilpatrick,4,10,1,0,Jump Shot,23,-231,44,False
+Sean Kilpatrick,1,0,33,0,Jump Shot,24,-108,215,False
+Sean Kilpatrick,4,0,56,1,Jump Shot,25,-16,256,False
+Sean Kilpatrick,4,4,52,0,Jump Shot,24,-235,67,False
+Sean Kilpatrick,4,1,23,1,Jump Shot,24,-20,247,False
+Sean Kilpatrick,2,10,57,1,Jump Shot,22,229,11,False
+Sean Kilpatrick,2,5,28,0,Jump Shot,22,-221,-1,False
+Sean Kilpatrick,3,0,58,0,Jump Shot,23,-231,39,False
+Sean Kilpatrick,3,1,31,0,Jump Shot,4,41,17,True
+Sean Kilpatrick,4,6,48,0,Jump Shot,26,145,222,False
+Sean Kilpatrick,4,5,33,0,Jump Shot,23,230,-10,False
+Sean Kilpatrick,4,0,35,0,Jump Shot,27,-149,235,False
+Sean Kilpatrick,1,3,3,0,Jump Shot,26,96,246,False
+Sean Kilpatrick,2,11,43,1,Jump Shot,26,-43,264,False
+Sean Kilpatrick,4,8,0,0,Jump Shot,27,83,264,False
+Sean Kilpatrick,2,5,38,0,Jump Shot,25,177,181,False
+Sean Kilpatrick,2,5,34,0,Jump Shot,18,-154,95,True
+Sean Kilpatrick,3,0,6,0,Jump Shot,25,-146,206,False
+Sean Kilpatrick,2,5,5,0,Jump Shot,25,-133,217,False
+Sean Kilpatrick,4,8,15,0,Jump Shot,25,131,222,False
+Sean Kilpatrick,4,6,16,1,Jump Shot,25,-223,120,False
+Sean Kilpatrick,2,9,43,0,Jump Shot,23,231,-14,False
+Sean Kilpatrick,2,10,57,0,Jump Shot,24,30,246,False
+Sean Kilpatrick,3,3,53,0,Jump Shot,22,-225,3,False
+Sean Kilpatrick,4,5,36,0,Jump Shot,25,-105,229,False
+Sean Kilpatrick,3,7,31,0,Jump Shot,24,-4,247,False
+Sean Kilpatrick,1,1,32,1,Jump Shot,22,-226,0,False
+Sean Kilpatrick,4,8,57,0,Jump Shot,26,182,189,False
+Sean Kilpatrick,1,2,41,0,Jump Shot,26,-155,209,False
+Sean Kilpatrick,2,7,25,0,Jump Shot,26,122,237,False
+Sean Kilpatrick,4,8,54,0,Jump Shot,24,-180,171,False
+Sean Kilpatrick,2,6,16,0,Jump Shot,24,-223,109,False
+Sean Kilpatrick,4,6,54,1,Jump Shot,22,-226,8,False
+Sean Kilpatrick,2,10,56,0,Jump Shot,27,83,257,False
+Sean Kilpatrick,4,10,39,0,Jump Shot,22,226,-9,False
+Sean Kilpatrick,4,5,35,0,Jump Shot,23,-228,46,False
+Sean Kilpatrick,2,10,0,0,Jump Shot,25,-178,188,False
+Sean Kilpatrick,4,7,58,1,Jump Shot,23,-230,-13,False
+Sean Kilpatrick,4,10,30,0,Jump Shot,26,-105,243,False
+Sean Kilpatrick,4,1,17,1,Jump Shot,26,76,258,False
+Sean Kilpatrick,2,6,16,1,Jump Shot,25,166,197,False
+Sean Kilpatrick,2,6,49,1,Jump Shot,20,-3,209,True
+Sean Kilpatrick,2,6,20,0,Jump Shot,26,57,258,False
+Sean Kilpatrick,4,0,26,0,Jump Shot,23,-233,8,False
+Sean Kilpatrick,4,1,1,0,Jump Shot,14,-100,99,True
+Sean Kilpatrick,2,2,38,0,Jump Shot,24,133,209,False
+Sean Kilpatrick,2,7,38,0,Jump Shot,23,-237,-22,False
+Sean Kilpatrick,4,0,50,0,Jump Shot,15,-130,89,True
+Sean Kilpatrick,4,0,26,0,Jump Shot,23,-231,1,False
+Sean Kilpatrick,4,6,55,1,Jump Shot,24,-241,-3,False
+Sean Kilpatrick,4,4,26,0,Jump Shot,23,-237,8,False
+Sean Kilpatrick,2,6,47,1,Jump Shot,26,6,263,False
+Sean Kilpatrick,2,10,27,0,Jump Shot,22,223,31,False
+Sean Kilpatrick,4,1,38,0,Jump Shot,23,230,30,False
+Sean Kilpatrick,2,9,2,0,Jump Shot,24,176,171,False
+Sean Kilpatrick,1,2,51,1,Jump Shot,24,-128,213,False
+Sean Kilpatrick,2,4,28,1,Jump Shot,25,130,224,False
+Sean Kilpatrick,4,11,30,0,Jump Shot,26,165,202,False
+Sean Kilpatrick,2,11,13,0,Jump Shot,20,-182,95,True
+Sean Kilpatrick,2,4,43,0,Jump Shot,24,-127,213,False
+Sean Kilpatrick,2,8,1,0,Jump Shot,26,79,251,False
+Sean Kilpatrick,4,9,7,0,Jump Shot,22,-226,13,False
+Sean Kilpatrick,3,5,35,1,Jump Shot,23,230,37,False
+Sean Kilpatrick,3,0,38,1,Jump Shot,12,123,-4,True
+Sean Kilpatrick,4,1,49,0,Jump Shot,22,223,44,False
+Sean Kilpatrick,1,0,58,0,Jump Shot,24,165,182,False
+Sean Kilpatrick,4,2,4,0,Jump Shot,22,-224,0,False
+Sean Kilpatrick,4,11,36,1,Jump Shot,25,-158,200,False
+Sean Kilpatrick,4,8,23,0,Jump Shot,23,-224,78,False
+Sean Kilpatrick,3,1,11,1,Jump Shot,24,-191,149,False
+Sean Kilpatrick,1,2,39,0,Jump Shot,24,-152,197,False
+Sean Kilpatrick,2,8,41,1,Jump Shot,23,-234,22,False
+Sean Kilpatrick,3,0,57,0,Jump Shot,24,142,205,False
+Sean Kilpatrick,3,4,3,0,Jump Shot,24,117,215,False
+Sean Kilpatrick,3,2,56,0,Jump Shot,24,-87,232,False
+Sean Kilpatrick,4,6,59,0,Jump Shot,25,185,182,False
+Sean Kilpatrick,4,4,16,1,Jump Shot,25,-10,256,False
+Sean Kilpatrick,1,5,37,0,Jump Shot,25,205,144,False
+Sean Kilpatrick,1,1,37,0,Jump Shot,21,76,205,True
+Sean Kilpatrick,4,11,21,1,Jump Shot,23,230,2,False
+Sean Kilpatrick,2,11,12,0,Jump Shot,23,226,66,False
+Sean Kilpatrick,4,10,7,0,Jump Shot,26,96,244,False
+Sean Kilpatrick,2,11,13,0,Jump Shot,8,46,71,True
+Sean Kilpatrick,4,9,44,1,Jump Shot,25,-95,235,False
+Sean Kilpatrick,2,10,47,1,Jump Shot,25,-11,256,False
+Sean Kilpatrick,4,10,52,0,Jump Shot,25,11,253,False
+Sean Kilpatrick,4,0,25,0,Jump Shot,30,99,287,False
+Sean Kilpatrick,1,1,58,0,Jump Shot,24,-231,83,False
+Sean Kilpatrick,4,2,28,1,Jump Shot,24,149,200,False
+Sean Kilpatrick,3,4,47,0,Jump Shot,24,-96,227,False
+Sean Kilpatrick,3,1,32,0,Jump Shot,24,220,110,False
+Sean Kilpatrick,4,7,20,1,Jump Shot,24,152,193,False
+Sean Kilpatrick,3,8,23,0,Jump Shot,12,-107,69,True
+Sean Kilpatrick,3,1,3,0,Jump Shot,23,230,22,False
+Sean Kilpatrick,3,0,0,0,Jump Shot,44,-83,441,False
+Sean Kilpatrick,4,0,37,0,Jump Shot,23,-227,45,False
+Sean Kilpatrick,4,1,41,0,Jump Shot,25,-160,195,False
+Sean Kilpatrick,4,6,24,1,Jump Shot,19,-127,146,True
+Sean Kilpatrick,2,6,26,0,Jump Shot,26,-103,248,False
+Sean Kilpatrick,2,9,22,0,Jump Shot,26,44,260,False
+Sean Kilpatrick,4,7,41,0,Jump Shot,26,128,236,False
+Sean Kilpatrick,2,7,43,0,Jump Shot,23,-229,53,False
+Sean Kilpatrick,3,5,17,0,Jump Shot,24,164,183,False
+Sean Kilpatrick,4,10,23,0,Jump Shot,23,-237,13,False
+Sean Kilpatrick,3,1,32,1,Jump Shot,25,182,176,False
+Sean Kilpatrick,2,10,23,1,Jump Shot,23,229,40,False
+Sean Kilpatrick,4,0,7,1,Jump Shot,25,-168,190,False
+Sean Kilpatrick,4,11,21,0,Jump Shot,25,-161,204,False
+Sean Kilpatrick,2,5,13,0,Jump Shot,24,-198,146,False
+Sean Kilpatrick,4,5,37,0,Jump Shot,16,-93,133,True
+Sean Kilpatrick,2,9,36,0,Jump Shot,26,-120,241,False
+Sean Kilpatrick,1,2,31,0,Jump Shot,22,228,19,False
+Sean Kilpatrick,2,9,32,0,Jump Shot,9,-26,88,True
+Sean Kilpatrick,4,9,29,1,Jump Shot,9,-14,99,True
+Sean Kilpatrick,4,10,49,0,Jump Shot,15,-50,147,True
+Sean Kilpatrick,2,9,0,0,Jump Shot,23,-230,-1,False
+Sean Kilpatrick,4,11,45,0,Jump Shot,26,-64,257,False
+Sean Kilpatrick,2,7,58,1,Jump Shot,25,-123,228,False
+Sean Kilpatrick,2,10,16,1,Layup Shot,2,24,8,True
+Sean Kilpatrick,4,1,0,1,Layup Shot,1,5,16,True
+Sean Kilpatrick,3,4,32,1,Layup Shot,0,0,0,True
+Sean Kilpatrick,2,6,44,0,Layup Shot,1,8,15,True
+Sean Kilpatrick,1,2,5,0,Layup Shot,1,-7,18,True
+Sean Kilpatrick,4,0,14,0,Layup Shot,1,-1,17,True
+Sean Kilpatrick,4,1,50,1,Layup Shot,0,-1,5,True
+Sean Kilpatrick,4,4,56,0,Layup Shot,8,47,73,True
+Sean Kilpatrick,4,0,10,0,Layup Shot,1,-16,9,True
+Sean Kilpatrick,4,7,56,0,Layup Shot,1,6,17,True
+Sean Kilpatrick,2,7,36,0,Layup Shot,4,32,30,True
+Sean Kilpatrick,4,9,54,0,Layup Shot,2,2,22,True
+Sean Kilpatrick,4,6,25,0,Layup Shot,3,-10,29,True
+Sean Kilpatrick,4,10,21,0,Layup Shot,1,-3,11,True
+Sean Kilpatrick,2,0,34,0,Layup Shot,1,13,15,True
+Sean Kilpatrick,4,1,24,0,Layup Shot,0,0,6,True
+Sean Kilpatrick,4,7,36,1,Layup Shot,4,-29,31,True
+Sean Kilpatrick,4,10,43,0,Pullup Jump shot,18,-79,163,True
+Sean Kilpatrick,4,5,19,1,Pullup Jump shot,18,-73,172,True
+Sean Kilpatrick,3,2,28,0,Pullup Jump shot,15,-97,127,True
+Sean Kilpatrick,4,0,32,0,Pullup Jump shot,14,-83,120,True
+Sean Kilpatrick,4,8,54,1,Pullup Jump shot,22,226,16,False
+Sean Kilpatrick,1,2,55,0,Pullup Jump shot,24,-216,114,False
+Sean Kilpatrick,4,2,54,1,Pullup Jump shot,27,-98,260,False
+Sean Kilpatrick,2,7,30,1,Pullup Jump shot,17,-110,141,True
+Sean Kilpatrick,3,5,10,0,Pullup Jump shot,18,32,182,True
+Sean Kilpatrick,4,10,44,0,Pullup Jump shot,24,100,225,False
+Sean Kilpatrick,1,3,58,1,Pullup Jump shot,9,51,81,True
+Sean Kilpatrick,4,0,6,0,Pullup Jump shot,14,-58,137,True
+Sean Kilpatrick,1,0,0,1,Pullup Jump shot,27,76,264,False
+Sean Kilpatrick,2,10,10,0,Pullup Jump shot,26,-92,244,False
+Sean Kilpatrick,4,5,25,0,Pullup Jump shot,18,42,176,True
+Sean Kilpatrick,2,7,31,0,Pullup Jump shot,19,120,158,True
+Sean Kilpatrick,1,0,43,1,Pullup Jump shot,24,-188,162,False
+Sean Kilpatrick,2,10,17,0,Pullup Jump shot,19,-15,190,True
+Sean Kilpatrick,1,0,0,0,Pullup Jump shot,27,-193,193,False
+Sean Kilpatrick,3,0,0,0,Pullup Jump shot,59,189,567,False
+Sean Kilpatrick,2,11,49,0,Pullup Jump shot,21,-103,188,True
+Sean Kilpatrick,2,9,33,0,Pullup Jump shot,20,-83,185,True
+Sean Kilpatrick,4,2,35,0,Pullup Jump shot,16,39,163,True
+Sean Kilpatrick,4,2,25,1,Pullup Jump shot,8,-16,84,True
+Sean Kilpatrick,4,1,20,0,Pullup Jump shot,5,28,52,True
+Sean Kilpatrick,4,11,23,1,Pullup Jump shot,14,63,136,True
+Sean Kilpatrick,2,7,34,0,Pullup Jump shot,24,22,246,False
+Sean Kilpatrick,2,11,17,0,Pullup Jump shot,20,-9,207,True
+Sean Kilpatrick,2,7,20,0,Pullup Jump shot,18,-114,144,True
+Sean Kilpatrick,2,8,1,0,Pullup Jump shot,26,-11,262,False
+Sean Kilpatrick,3,2,23,1,Pullup Jump shot,18,87,164,True
+Sean Kilpatrick,2,10,1,0,Pullup Jump shot,11,91,65,True
+Sean Kilpatrick,4,1,58,0,Pullup Jump shot,26,-47,256,False
+Sean Kilpatrick,4,11,13,0,Pullup Jump shot,12,-6,129,True
+Sean Kilpatrick,4,9,1,0,Pullup Jump shot,17,88,148,True
+Sean Kilpatrick,4,9,5,1,Running Dunk Shot,1,-1,10,True
+Sean Kilpatrick,4,4,56,1,Running Finger Roll Layup Shot,1,0,13,True
+Sean Kilpatrick,4,11,11,0,Running Jump Shot,5,30,48,True
+Sean Kilpatrick,4,0,6,0,Running Jump Shot,9,-59,69,True
+Sean Kilpatrick,4,10,30,1,Running Layup Shot,1,-11,8,True
+Sean Kilpatrick,4,9,43,1,Running Layup Shot,1,-16,10,True
+Sean Kilpatrick,3,2,14,0,Running Layup Shot,0,8,5,True
+Sean Kilpatrick,2,9,27,1,Running Layup Shot,0,-3,-2,True
+Sean Kilpatrick,2,8,51,1,Running Layup Shot,0,-5,-1,True
+Sean Kilpatrick,1,1,11,0,Running Layup Shot,1,-13,15,True
+Sean Kilpatrick,2,11,36,1,Running Layup Shot,2,16,13,True
+Sean Kilpatrick,4,9,29,1,Running Layup Shot,2,21,-9,True
+Sean Kilpatrick,3,0,56,1,Running Layup Shot,3,23,25,True
+Sean Kilpatrick,4,4,14,1,Running Layup Shot,1,-19,2,True
+Sean Kilpatrick,1,0,23,1,Running Layup Shot,0,-4,5,True
+Sean Kilpatrick,2,9,1,0,Running Layup Shot,1,7,17,True
+Sean Kilpatrick,2,8,57,1,Running Layup Shot,1,0,14,True
+Sean Kilpatrick,1,0,0,0,Running Pull-Up Jump Shot,25,10,254,False
+Sean Kilpatrick,4,9,31,1,Step Back Jump shot,24,-95,227,False
+Sean Kilpatrick,1,0,48,1,Step Back Jump shot,17,46,174,True
+Sean Kilpatrick,3,5,22,1,Step Back Jump shot,25,-89,234,False
+Sean Kilpatrick,4,1,59,0,Step Back Jump shot,25,-11,252,False
+Sean Kilpatrick,2,9,54,0,Step Back Jump shot,26,-174,201,False
+Sean Kilpatrick,1,3,13,0,Turnaround Jump Shot,21,90,196,True
+Sean Kilpatrick,1,0,15,0,Turnaround Jump Shot,15,-119,92,True

@@ -1,0 +1,114 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Khem Birch,4,4,10,1,Alley Oop Dunk Shot,0,2,8,True
+Khem Birch,4,9,43,1,Alley Oop Dunk Shot,0,3,8,True
+Khem Birch,4,11,46,1,Alley Oop Dunk Shot,0,0,5,True
+Khem Birch,2,8,16,0,Alley Oop Dunk Shot,1,6,15,True
+Khem Birch,3,0,47,1,Alley Oop Dunk Shot,0,3,7,True
+Khem Birch,2,7,12,0,Alley Oop Dunk Shot,1,-12,7,True
+Khem Birch,4,8,49,0,Alley Oop Dunk Shot,2,13,27,True
+Khem Birch,4,11,43,1,Alley Oop Dunk Shot,1,-12,2,True
+Khem Birch,4,5,12,1,Alley Oop Dunk Shot,1,5,12,True
+Khem Birch,2,7,10,1,Alley Oop Dunk Shot,1,14,6,True
+Khem Birch,4,5,33,1,Alley Oop Dunk Shot,2,0,21,True
+Khem Birch,2,6,46,0,Alley Oop Layup shot,2,-15,20,True
+Khem Birch,2,6,9,0,Alley Oop Layup shot,1,-9,11,True
+Khem Birch,2,2,18,1,Cutting Dunk Shot,0,0,7,True
+Khem Birch,4,4,38,1,Cutting Dunk Shot,1,-11,11,True
+Khem Birch,4,5,38,1,Cutting Dunk Shot,0,-5,-1,True
+Khem Birch,2,9,31,1,Cutting Finger Roll Layup Shot,0,0,5,True
+Khem Birch,3,0,26,0,Cutting Layup Shot,2,-3,26,True
+Khem Birch,2,2,10,1,Cutting Layup Shot,2,-21,10,True
+Khem Birch,4,2,7,1,Cutting Layup Shot,1,19,2,True
+Khem Birch,4,11,41,1,Cutting Layup Shot,0,2,6,True
+Khem Birch,2,5,56,1,Cutting Layup Shot,2,5,21,True
+Khem Birch,3,2,15,1,Cutting Layup Shot,1,13,15,True
+Khem Birch,2,9,26,1,Driving Dunk Shot,0,0,-4,True
+Khem Birch,4,3,4,1,Driving Floating Jump Shot,2,4,29,True
+Khem Birch,4,1,32,0,Driving Hook Shot,6,-16,59,True
+Khem Birch,4,8,43,0,Driving Layup Shot,1,-1,12,True
+Khem Birch,2,7,14,0,Driving Layup Shot,1,-7,8,True
+Khem Birch,2,6,52,0,Driving Layup Shot,1,16,10,True
+Khem Birch,3,7,28,1,Driving Layup Shot,1,6,18,True
+Khem Birch,4,10,39,0,Driving Layup Shot,5,-41,33,True
+Khem Birch,4,2,37,1,Driving Layup Shot,2,22,6,True
+Khem Birch,4,9,47,1,Dunk Shot,1,5,17,True
+Khem Birch,4,0,53,1,Dunk Shot,1,4,12,True
+Khem Birch,4,3,25,1,Dunk Shot,1,-1,13,True
+Khem Birch,4,0,24,0,Dunk Shot,1,-8,15,True
+Khem Birch,2,11,12,1,Dunk Shot,1,0,11,True
+Khem Birch,4,2,0,1,Dunk Shot,1,9,12,True
+Khem Birch,3,5,42,0,Dunk Shot,2,-27,13,True
+Khem Birch,4,9,8,1,Dunk Shot,2,-2,25,True
+Khem Birch,4,7,54,1,Floating Jump shot,12,-63,104,True
+Khem Birch,4,11,20,1,Floating Jump shot,9,-54,78,True
+Khem Birch,2,11,39,0,Hook Shot,8,-25,82,True
+Khem Birch,2,9,15,0,Hook Shot,6,38,48,True
+Khem Birch,3,4,3,1,Hook Shot,6,-24,65,True
+Khem Birch,2,8,12,1,Hook Shot,3,2,38,True
+Khem Birch,3,1,0,1,Hook Shot,2,13,27,True
+Khem Birch,2,3,59,0,Hook Shot,2,13,18,True
+Khem Birch,4,5,41,0,Hook Shot,10,-65,86,True
+Khem Birch,1,1,0,0,Hook Shot,8,-18,82,True
+Khem Birch,2,3,12,0,Hook Shot,9,-2,90,True
+Khem Birch,3,0,20,0,Hook Shot,5,-57,18,True
+Khem Birch,2,6,35,0,Hook Shot,4,43,25,True
+Khem Birch,4,1,5,0,Jump Bank Shot,15,46,143,True
+Khem Birch,4,11,22,0,Jump Shot,12,-126,18,True
+Khem Birch,4,1,24,1,Jump Shot,15,-8,154,True
+Khem Birch,4,10,31,0,Jump Shot,14,-11,146,True
+Khem Birch,3,0,13,1,Jump Shot,12,-57,113,True
+Khem Birch,2,5,22,1,Jump Shot,5,20,56,True
+Khem Birch,4,1,1,0,Jump Shot,16,-24,159,True
+Khem Birch,2,9,30,0,Jump Shot,16,-161,20,True
+Khem Birch,1,0,27,0,Jump Shot,14,-142,5,True
+Khem Birch,1,1,45,0,Jump Shot,12,-16,122,True
+Khem Birch,4,11,47,0,Jump Shot,8,-39,76,True
+Khem Birch,1,1,37,0,Jump Shot,6,-3,67,True
+Khem Birch,2,7,58,1,Jump Shot,8,50,66,True
+Khem Birch,4,10,0,0,Jump Shot,12,3,125,True
+Khem Birch,4,6,25,0,Jump Shot,9,-62,74,True
+Khem Birch,2,6,32,1,Jump Shot,10,63,83,True
+Khem Birch,4,11,5,0,Jump Shot,11,-119,5,True
+Khem Birch,4,11,10,0,Jump Shot,10,-95,42,True
+Khem Birch,4,0,14,0,Jump Shot,12,-38,122,True
+Khem Birch,4,0,25,1,Layup Shot,0,2,4,True
+Khem Birch,3,1,30,1,Layup Shot,1,16,8,True
+Khem Birch,4,0,28,0,Layup Shot,5,11,50,True
+Khem Birch,2,3,47,1,Layup Shot,0,8,4,True
+Khem Birch,2,9,5,0,Layup Shot,2,-3,24,True
+Khem Birch,2,5,35,0,Layup Shot,1,2,11,True
+Khem Birch,2,11,41,1,Layup Shot,1,-6,17,True
+Khem Birch,4,10,2,0,Layup Shot,3,22,32,True
+Khem Birch,3,4,58,0,Layup Shot,2,-9,18,True
+Khem Birch,4,4,14,1,Layup Shot,2,9,21,True
+Khem Birch,2,5,24,0,Layup Shot,1,5,17,True
+Khem Birch,4,7,59,1,Layup Shot,2,10,26,True
+Khem Birch,1,4,12,0,Pullup Jump shot,11,-36,109,True
+Khem Birch,4,4,25,1,Putback Dunk Shot,1,-2,10,True
+Khem Birch,2,6,8,0,Putback Dunk Shot,0,0,-6,True
+Khem Birch,4,5,35,0,Putback Dunk Shot,2,5,23,True
+Khem Birch,2,10,7,1,Putback Layup Shot,0,0,-6,True
+Khem Birch,4,1,21,1,Putback Layup Shot,0,-8,5,True
+Khem Birch,4,5,49,1,Putback Layup Shot,2,-2,23,True
+Khem Birch,2,5,23,1,Putback Layup Shot,0,0,-6,True
+Khem Birch,4,8,41,1,Putback Layup Shot,0,0,-6,True
+Khem Birch,3,0,1,0,Running Finger Roll Layup Shot,1,-12,12,True
+Khem Birch,2,6,54,1,Tip Dunk Shot,0,0,-6,True
+Khem Birch,2,8,28,1,Tip Dunk Shot,0,0,-6,True
+Khem Birch,4,7,45,1,Tip Dunk Shot,0,0,-6,True
+Khem Birch,4,9,45,0,Tip Layup Shot,1,8,13,True
+Khem Birch,2,10,53,0,Tip Layup Shot,0,0,-6,True
+Khem Birch,4,0,23,1,Tip Layup Shot,0,0,-6,True
+Khem Birch,3,0,22,1,Tip Layup Shot,0,0,-6,True
+Khem Birch,2,4,10,0,Tip Layup Shot,0,0,-6,True
+Khem Birch,4,6,10,1,Tip Layup Shot,3,-11,38,True
+Khem Birch,4,3,13,1,Tip Layup Shot,0,0,-6,True
+Khem Birch,2,7,46,1,Turnaround Fadeaway Bank Jump Shot,5,55,5,True
+Khem Birch,4,1,11,1,Turnaround Hook Shot,8,5,81,True
+Khem Birch,2,5,18,1,Turnaround Hook Shot,6,-27,55,True
+Khem Birch,4,7,24,0,Turnaround Hook Shot,5,-19,52,True
+Khem Birch,3,0,59,0,Turnaround Jump Shot,7,-45,55,True
+Khem Birch,2,7,5,1,Turnaround Jump Shot,3,-36,6,True
+Khem Birch,4,6,1,0,Turnaround Jump Shot,6,14,64,True
+Khem Birch,2,5,11,1,Turnaround Jump Shot,7,-24,72,True
+Khem Birch,2,8,31,0,Turnaround Jump Shot,7,-59,42,True

@@ -1,0 +1,693 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Willie CauleyStein,4,1,2,1,Alley Oop Dunk Shot,1,-2,16,True
+Willie CauleyStein,4,0,30,1,Alley Oop Dunk Shot,1,-8,12,True
+Willie CauleyStein,4,1,46,1,Alley Oop Dunk Shot,0,-2,8,True
+Willie CauleyStein,1,1,55,1,Alley Oop Dunk Shot,0,-6,4,True
+Willie CauleyStein,2,2,58,1,Alley Oop Dunk Shot,2,14,20,True
+Willie CauleyStein,2,10,28,1,Alley Oop Dunk Shot,0,-2,8,True
+Willie CauleyStein,1,11,43,1,Alley Oop Dunk Shot,0,-5,8,True
+Willie CauleyStein,3,9,29,1,Alley Oop Dunk Shot,1,1,15,True
+Willie CauleyStein,3,7,10,1,Alley Oop Dunk Shot,1,2,15,True
+Willie CauleyStein,2,8,29,1,Alley Oop Dunk Shot,2,14,16,True
+Willie CauleyStein,3,10,51,1,Alley Oop Dunk Shot,1,11,0,True
+Willie CauleyStein,3,11,26,1,Alley Oop Dunk Shot,2,-2,22,True
+Willie CauleyStein,4,6,27,1,Alley Oop Dunk Shot,2,24,13,True
+Willie CauleyStein,3,8,14,1,Alley Oop Dunk Shot,1,-5,10,True
+Willie CauleyStein,4,2,44,1,Alley Oop Dunk Shot,1,-16,6,True
+Willie CauleyStein,2,3,39,1,Alley Oop Dunk Shot,0,2,4,True
+Willie CauleyStein,3,5,14,1,Alley Oop Dunk Shot,0,2,4,True
+Willie CauleyStein,1,5,38,1,Alley Oop Dunk Shot,1,9,5,True
+Willie CauleyStein,4,9,47,1,Alley Oop Dunk Shot,1,-10,5,True
+Willie CauleyStein,2,8,20,1,Alley Oop Dunk Shot,1,7,11,True
+Willie CauleyStein,2,2,5,1,Alley Oop Dunk Shot,1,-11,6,True
+Willie CauleyStein,3,7,44,1,Alley Oop Dunk Shot,1,9,15,True
+Willie CauleyStein,2,2,40,1,Alley Oop Dunk Shot,0,-3,3,True
+Willie CauleyStein,1,2,20,1,Alley Oop Dunk Shot,1,2,12,True
+Willie CauleyStein,4,5,16,1,Alley Oop Dunk Shot,1,19,5,True
+Willie CauleyStein,3,10,39,1,Alley Oop Dunk Shot,1,10,7,True
+Willie CauleyStein,4,0,19,1,Alley Oop Dunk Shot,1,2,17,True
+Willie CauleyStein,3,10,24,1,Alley Oop Dunk Shot,2,-9,18,True
+Willie CauleyStein,1,6,57,1,Alley Oop Dunk Shot,1,1,14,True
+Willie CauleyStein,2,4,53,1,Alley Oop Dunk Shot,1,3,10,True
+Willie CauleyStein,3,9,9,1,Alley Oop Dunk Shot,1,-11,2,True
+Willie CauleyStein,4,11,7,1,Alley Oop Dunk Shot,1,-13,7,True
+Willie CauleyStein,1,1,46,1,Alley Oop Dunk Shot,1,-8,11,True
+Willie CauleyStein,3,4,45,1,Alley Oop Dunk Shot,1,-13,15,True
+Willie CauleyStein,4,2,46,1,Alley Oop Dunk Shot,1,2,15,True
+Willie CauleyStein,3,0,39,1,Alley Oop Layup shot,2,2,29,True
+Willie CauleyStein,3,4,35,0,Alley Oop Layup shot,1,-6,18,True
+Willie CauleyStein,4,2,36,1,Alley Oop Layup shot,2,-2,20,True
+Willie CauleyStein,2,11,47,1,Alley Oop Layup shot,3,29,9,True
+Willie CauleyStein,4,10,16,1,Alley Oop Layup shot,1,-1,15,True
+Willie CauleyStein,3,2,26,1,Alley Oop Layup shot,1,17,1,True
+Willie CauleyStein,4,2,42,0,Alley Oop Layup shot,1,11,8,True
+Willie CauleyStein,2,1,36,1,Alley Oop Layup shot,2,-25,12,True
+Willie CauleyStein,2,0,45,1,Alley Oop Layup shot,2,14,21,True
+Willie CauleyStein,1,5,44,0,Alley Oop Layup shot,2,19,16,True
+Willie CauleyStein,4,2,47,0,Alley Oop Layup shot,1,-2,11,True
+Willie CauleyStein,4,6,8,0,Alley Oop Layup shot,1,0,13,True
+Willie CauleyStein,4,0,35,1,Alley Oop Layup shot,2,0,22,True
+Willie CauleyStein,1,10,54,1,Alley Oop Layup shot,1,-15,6,True
+Willie CauleyStein,4,9,8,1,Alley Oop Layup shot,1,8,16,True
+Willie CauleyStein,2,0,48,1,Cutting Dunk Shot,0,-4,9,True
+Willie CauleyStein,4,7,16,1,Cutting Dunk Shot,1,0,12,True
+Willie CauleyStein,4,0,14,1,Cutting Dunk Shot,1,-6,15,True
+Willie CauleyStein,1,9,6,1,Cutting Dunk Shot,2,-6,20,True
+Willie CauleyStein,4,4,45,1,Cutting Dunk Shot,1,-11,15,True
+Willie CauleyStein,4,3,10,1,Cutting Dunk Shot,1,-3,11,True
+Willie CauleyStein,2,1,44,1,Cutting Dunk Shot,1,2,13,True
+Willie CauleyStein,1,1,34,1,Cutting Dunk Shot,1,-14,1,True
+Willie CauleyStein,1,6,3,1,Cutting Dunk Shot,1,-10,8,True
+Willie CauleyStein,3,1,28,1,Cutting Dunk Shot,1,-6,18,True
+Willie CauleyStein,3,10,54,1,Cutting Dunk Shot,0,0,0,True
+Willie CauleyStein,1,5,46,0,Cutting Dunk Shot,2,22,1,True
+Willie CauleyStein,2,6,12,1,Cutting Dunk Shot,0,-5,4,True
+Willie CauleyStein,3,0,42,1,Cutting Dunk Shot,2,10,23,True
+Willie CauleyStein,2,2,31,1,Cutting Dunk Shot,1,-4,13,True
+Willie CauleyStein,4,5,52,1,Cutting Dunk Shot,2,-8,21,True
+Willie CauleyStein,4,5,18,1,Cutting Dunk Shot,1,3,15,True
+Willie CauleyStein,2,1,8,1,Cutting Dunk Shot,1,-16,-7,True
+Willie CauleyStein,4,9,15,1,Cutting Dunk Shot,2,-2,21,True
+Willie CauleyStein,1,7,8,1,Cutting Dunk Shot,0,0,5,True
+Willie CauleyStein,3,8,7,1,Cutting Dunk Shot,0,-2,5,True
+Willie CauleyStein,2,7,3,1,Cutting Dunk Shot,2,18,21,True
+Willie CauleyStein,1,7,40,1,Cutting Dunk Shot,2,-8,25,True
+Willie CauleyStein,1,8,26,1,Cutting Dunk Shot,1,-9,17,True
+Willie CauleyStein,3,8,18,1,Cutting Dunk Shot,1,14,14,True
+Willie CauleyStein,4,11,2,1,Cutting Dunk Shot,1,-9,5,True
+Willie CauleyStein,3,8,2,1,Cutting Dunk Shot,1,-11,10,True
+Willie CauleyStein,3,9,17,1,Cutting Dunk Shot,1,-8,11,True
+Willie CauleyStein,4,4,9,1,Cutting Dunk Shot,1,-10,3,True
+Willie CauleyStein,4,0,55,1,Cutting Dunk Shot,0,-8,3,True
+Willie CauleyStein,2,8,13,0,Cutting Dunk Shot,0,4,0,True
+Willie CauleyStein,2,3,48,1,Cutting Dunk Shot,1,-6,10,True
+Willie CauleyStein,1,8,2,1,Cutting Dunk Shot,0,2,0,True
+Willie CauleyStein,4,9,31,1,Cutting Dunk Shot,1,3,16,True
+Willie CauleyStein,1,8,35,1,Cutting Dunk Shot,1,1,14,True
+Willie CauleyStein,1,8,57,1,Cutting Dunk Shot,0,-6,6,True
+Willie CauleyStein,2,10,51,1,Cutting Dunk Shot,0,5,4,True
+Willie CauleyStein,1,2,43,1,Cutting Finger Roll Layup Shot,2,13,26,True
+Willie CauleyStein,2,9,33,1,Cutting Finger Roll Layup Shot,1,6,11,True
+Willie CauleyStein,1,1,42,0,Cutting Finger Roll Layup Shot,1,14,8,True
+Willie CauleyStein,2,7,53,0,Cutting Layup Shot,2,-16,17,True
+Willie CauleyStein,4,9,57,1,Cutting Layup Shot,1,18,4,True
+Willie CauleyStein,2,5,36,0,Cutting Layup Shot,3,20,26,True
+Willie CauleyStein,3,2,7,0,Cutting Layup Shot,3,32,20,True
+Willie CauleyStein,1,0,27,1,Cutting Layup Shot,0,-3,-5,True
+Willie CauleyStein,4,1,50,0,Cutting Layup Shot,1,-10,11,True
+Willie CauleyStein,2,4,7,1,Cutting Layup Shot,2,24,8,True
+Willie CauleyStein,2,7,30,0,Cutting Layup Shot,2,-23,6,True
+Willie CauleyStein,1,9,41,1,Cutting Layup Shot,2,-18,14,True
+Willie CauleyStein,4,2,10,1,Cutting Layup Shot,2,13,26,True
+Willie CauleyStein,2,1,6,1,Cutting Layup Shot,1,12,3,True
+Willie CauleyStein,1,6,12,1,Cutting Layup Shot,3,21,30,True
+Willie CauleyStein,1,6,20,0,Cutting Layup Shot,2,17,11,True
+Willie CauleyStein,3,4,26,1,Cutting Layup Shot,1,-18,3,True
+Willie CauleyStein,3,4,48,0,Cutting Layup Shot,2,-23,11,True
+Willie CauleyStein,2,5,40,1,Cutting Layup Shot,2,9,24,True
+Willie CauleyStein,2,3,51,1,Cutting Layup Shot,2,-20,11,True
+Willie CauleyStein,1,4,17,1,Cutting Layup Shot,2,12,16,True
+Willie CauleyStein,3,5,50,1,Cutting Layup Shot,2,20,11,True
+Willie CauleyStein,2,0,30,1,Cutting Layup Shot,2,-15,14,True
+Willie CauleyStein,2,5,49,1,Cutting Layup Shot,2,16,16,True
+Willie CauleyStein,1,0,49,1,Driving Bank Hook Shot,3,35,13,True
+Willie CauleyStein,4,6,0,1,Driving Dunk Shot,1,-7,17,True
+Willie CauleyStein,2,10,29,1,Driving Dunk Shot,2,-4,21,True
+Willie CauleyStein,2,1,30,1,Driving Dunk Shot,1,8,17,True
+Willie CauleyStein,2,7,23,1,Driving Dunk Shot,1,6,8,True
+Willie CauleyStein,1,8,42,1,Driving Dunk Shot,0,-6,2,True
+Willie CauleyStein,4,6,57,1,Driving Dunk Shot,1,-3,15,True
+Willie CauleyStein,1,5,35,1,Driving Dunk Shot,1,-3,11,True
+Willie CauleyStein,4,3,31,1,Driving Dunk Shot,0,3,8,True
+Willie CauleyStein,4,4,49,1,Driving Dunk Shot,1,-6,15,True
+Willie CauleyStein,3,9,23,1,Driving Dunk Shot,0,0,9,True
+Willie CauleyStein,3,11,44,1,Driving Dunk Shot,1,0,11,True
+Willie CauleyStein,3,2,58,0,Driving Dunk Shot,3,-19,26,True
+Willie CauleyStein,1,5,9,0,Driving Dunk Shot,1,14,6,True
+Willie CauleyStein,3,4,53,0,Driving Finger Roll Layup Shot,1,-9,17,True
+Willie CauleyStein,4,3,58,1,Driving Finger Roll Layup Shot,3,12,30,True
+Willie CauleyStein,3,10,24,1,Driving Finger Roll Layup Shot,4,14,41,True
+Willie CauleyStein,1,10,20,1,Driving Finger Roll Layup Shot,1,-8,-8,True
+Willie CauleyStein,4,5,5,0,Driving Finger Roll Layup Shot,4,10,46,True
+Willie CauleyStein,1,11,20,1,Driving Finger Roll Layup Shot,1,-2,13,True
+Willie CauleyStein,2,2,44,1,Driving Floating Bank Jump Shot,12,41,114,True
+Willie CauleyStein,2,3,33,1,Driving Floating Bank Jump Shot,5,30,47,True
+Willie CauleyStein,4,6,1,1,Driving Floating Bank Jump Shot,6,68,9,True
+Willie CauleyStein,2,9,55,1,Driving Floating Bank Jump Shot,3,33,21,True
+Willie CauleyStein,1,11,0,1,Driving Floating Jump Shot,6,-20,64,True
+Willie CauleyStein,2,2,1,0,Driving Floating Jump Shot,3,16,29,True
+Willie CauleyStein,2,2,23,0,Driving Floating Jump Shot,2,-5,29,True
+Willie CauleyStein,1,9,12,0,Driving Floating Jump Shot,1,2,14,True
+Willie CauleyStein,1,8,6,0,Driving Hook Shot,3,-11,31,True
+Willie CauleyStein,1,5,43,1,Driving Hook Shot,7,3,71,True
+Willie CauleyStein,4,10,30,1,Driving Hook Shot,7,3,76,True
+Willie CauleyStein,2,4,56,1,Driving Hook Shot,3,9,29,True
+Willie CauleyStein,1,4,18,1,Driving Hook Shot,8,0,86,True
+Willie CauleyStein,4,9,36,0,Driving Hook Shot,6,8,65,True
+Willie CauleyStein,2,7,43,0,Driving Hook Shot,5,41,43,True
+Willie CauleyStein,2,4,17,0,Driving Hook Shot,3,-9,38,True
+Willie CauleyStein,2,11,14,0,Driving Hook Shot,3,-3,31,True
+Willie CauleyStein,3,11,39,1,Driving Hook Shot,6,-9,69,True
+Willie CauleyStein,4,8,13,1,Driving Hook Shot,3,29,25,True
+Willie CauleyStein,1,4,18,0,Driving Layup Shot,8,55,62,True
+Willie CauleyStein,3,5,6,0,Driving Layup Shot,5,24,47,True
+Willie CauleyStein,2,2,26,1,Driving Layup Shot,7,72,16,True
+Willie CauleyStein,2,2,36,0,Driving Layup Shot,1,10,-1,True
+Willie CauleyStein,3,9,33,0,Driving Layup Shot,2,-17,12,True
+Willie CauleyStein,4,4,25,1,Driving Layup Shot,3,35,4,True
+Willie CauleyStein,1,9,21,1,Driving Layup Shot,1,14,9,True
+Willie CauleyStein,1,7,57,0,Driving Layup Shot,2,-18,22,True
+Willie CauleyStein,2,3,42,0,Driving Layup Shot,3,-11,31,True
+Willie CauleyStein,2,1,59,1,Driving Layup Shot,2,18,20,True
+Willie CauleyStein,1,10,17,0,Driving Layup Shot,1,18,6,True
+Willie CauleyStein,2,3,17,1,Driving Layup Shot,3,25,22,True
+Willie CauleyStein,3,8,13,0,Driving Layup Shot,1,10,7,True
+Willie CauleyStein,2,4,7,1,Driving Layup Shot,0,5,-1,True
+Willie CauleyStein,1,8,23,0,Driving Layup Shot,2,10,23,True
+Willie CauleyStein,3,11,21,1,Driving Layup Shot,2,0,22,True
+Willie CauleyStein,4,7,56,1,Driving Layup Shot,2,-24,12,True
+Willie CauleyStein,2,10,38,1,Driving Layup Shot,5,41,40,True
+Willie CauleyStein,4,4,4,1,Driving Layup Shot,0,-3,4,True
+Willie CauleyStein,4,8,33,1,Driving Layup Shot,2,21,18,True
+Willie CauleyStein,1,9,57,0,Driving Layup Shot,3,21,31,True
+Willie CauleyStein,2,5,17,0,Driving Layup Shot,2,-19,10,True
+Willie CauleyStein,2,3,12,0,Driving Layup Shot,1,9,5,True
+Willie CauleyStein,3,11,19,1,Driving Layup Shot,0,-6,1,True
+Willie CauleyStein,2,4,1,0,Driving Layup Shot,2,19,20,True
+Willie CauleyStein,2,0,52,1,Driving Layup Shot,0,1,-5,True
+Willie CauleyStein,2,3,54,0,Driving Layup Shot,3,-5,39,True
+Willie CauleyStein,3,7,29,1,Driving Layup Shot,1,-16,11,True
+Willie CauleyStein,2,11,43,0,Driving Layup Shot,3,16,35,True
+Willie CauleyStein,3,8,5,0,Driving Layup Shot,1,-1,15,True
+Willie CauleyStein,2,9,1,0,Driving Layup Shot,5,44,37,True
+Willie CauleyStein,4,5,28,1,Driving Layup Shot,0,3,9,True
+Willie CauleyStein,3,4,34,1,Driving Layup Shot,1,-9,-5,True
+Willie CauleyStein,3,11,14,1,Driving Layup Shot,3,-20,25,True
+Willie CauleyStein,2,11,12,1,Driving Layup Shot,2,-19,15,True
+Willie CauleyStein,3,5,41,0,Driving Layup Shot,5,-48,32,True
+Willie CauleyStein,2,2,56,0,Driving Layup Shot,0,-6,5,True
+Willie CauleyStein,4,4,39,1,Driving Layup Shot,1,2,17,True
+Willie CauleyStein,2,0,52,0,Driving Layup Shot,1,13,13,True
+Willie CauleyStein,2,3,58,1,Driving Layup Shot,0,3,5,True
+Willie CauleyStein,1,3,45,0,Driving Layup Shot,3,30,14,True
+Willie CauleyStein,3,8,0,0,Driving Layup Shot,2,25,4,True
+Willie CauleyStein,3,8,43,1,Driving Layup Shot,3,29,12,True
+Willie CauleyStein,2,2,32,0,Driving Layup Shot,1,9,17,True
+Willie CauleyStein,2,1,49,1,Driving Layup Shot,0,6,5,True
+Willie CauleyStein,3,11,29,0,Driving Layup Shot,1,19,-4,True
+Willie CauleyStein,3,2,31,0,Driving Layup Shot,2,24,12,True
+Willie CauleyStein,3,11,23,0,Driving Layup Shot,1,10,11,True
+Willie CauleyStein,2,5,59,0,Driving Layup Shot,4,45,20,True
+Willie CauleyStein,2,5,10,1,Driving Layup Shot,0,2,0,True
+Willie CauleyStein,3,9,35,0,Driving Layup Shot,1,10,1,True
+Willie CauleyStein,2,4,11,0,Driving Layup Shot,2,22,17,True
+Willie CauleyStein,1,3,18,1,Driving Layup Shot,5,36,38,True
+Willie CauleyStein,2,5,19,1,Driving Layup Shot,2,24,11,True
+Willie CauleyStein,3,6,13,0,Driving Layup Shot,2,8,26,True
+Willie CauleyStein,1,4,1,1,Driving Layup Shot,2,4,25,True
+Willie CauleyStein,2,3,4,1,Driving Layup Shot,1,5,9,True
+Willie CauleyStein,3,11,41,1,Driving Layup Shot,1,7,15,True
+Willie CauleyStein,4,1,32,1,Driving Layup Shot,1,14,6,True
+Willie CauleyStein,2,7,7,1,Driving Layup Shot,2,23,10,True
+Willie CauleyStein,1,3,58,1,Driving Layup Shot,1,9,7,True
+Willie CauleyStein,4,2,42,0,Driving Layup Shot,6,-61,34,True
+Willie CauleyStein,4,6,4,0,Driving Layup Shot,0,6,6,True
+Willie CauleyStein,4,3,7,1,Driving Layup Shot,1,10,17,True
+Willie CauleyStein,3,2,20,1,Driving Layup Shot,5,51,16,True
+Willie CauleyStein,4,1,26,0,Driving Layup Shot,1,5,18,True
+Willie CauleyStein,2,5,27,0,Driving Layup Shot,8,18,82,True
+Willie CauleyStein,3,10,59,0,Driving Reverse Layup Shot,2,16,14,True
+Willie CauleyStein,3,6,52,1,Driving Reverse Layup Shot,1,-5,17,True
+Willie CauleyStein,2,3,37,0,Driving Reverse Layup Shot,2,-24,5,True
+Willie CauleyStein,2,3,46,0,Dunk Shot,2,16,14,True
+Willie CauleyStein,2,11,10,1,Dunk Shot,1,-11,6,True
+Willie CauleyStein,2,6,51,1,Dunk Shot,2,5,26,True
+Willie CauleyStein,2,0,2,1,Dunk Shot,1,-3,10,True
+Willie CauleyStein,1,11,24,0,Dunk Shot,1,-14,5,True
+Willie CauleyStein,4,6,46,1,Dunk Shot,1,-2,18,True
+Willie CauleyStein,2,3,10,1,Dunk Shot,0,3,4,True
+Willie CauleyStein,3,8,50,1,Dunk Shot,1,-5,9,True
+Willie CauleyStein,2,3,59,1,Dunk Shot,1,8,10,True
+Willie CauleyStein,3,5,4,1,Dunk Shot,1,13,14,True
+Willie CauleyStein,2,2,9,0,Dunk Shot,2,24,2,True
+Willie CauleyStein,1,3,47,1,Dunk Shot,2,14,26,True
+Willie CauleyStein,1,3,56,0,Dunk Shot,2,22,11,True
+Willie CauleyStein,1,9,15,0,Dunk Shot,2,13,19,True
+Willie CauleyStein,2,11,20,0,Dunk Shot,1,2,17,True
+Willie CauleyStein,3,5,13,0,Dunk Shot,2,0,29,True
+Willie CauleyStein,4,8,46,1,Dunk Shot,2,-9,20,True
+Willie CauleyStein,4,10,30,1,Dunk Shot,0,3,9,True
+Willie CauleyStein,4,6,20,1,Dunk Shot,1,-10,10,True
+Willie CauleyStein,4,5,38,0,Dunk Shot,2,-3,22,True
+Willie CauleyStein,1,7,32,1,Dunk Shot,0,3,8,True
+Willie CauleyStein,3,0,42,1,Dunk Shot,1,5,17,True
+Willie CauleyStein,1,2,29,1,Dunk Shot,1,-3,10,True
+Willie CauleyStein,3,7,51,1,Dunk Shot,1,2,18,True
+Willie CauleyStein,3,6,45,1,Dunk Shot,1,3,16,True
+Willie CauleyStein,2,5,32,1,Dunk Shot,1,1,16,True
+Willie CauleyStein,3,9,26,1,Dunk Shot,1,5,15,True
+Willie CauleyStein,4,2,19,1,Dunk Shot,1,-3,13,True
+Willie CauleyStein,4,1,44,0,Dunk Shot,4,-5,42,True
+Willie CauleyStein,3,0,3,1,Dunk Shot,0,-2,5,True
+Willie CauleyStein,2,3,16,1,Dunk Shot,1,-10,11,True
+Willie CauleyStein,4,0,7,1,Dunk Shot,1,-3,10,True
+Willie CauleyStein,2,1,59,0,Fadeaway Jump Shot,11,84,80,True
+Willie CauleyStein,4,9,19,0,Fadeaway Jump Shot,8,-6,89,True
+Willie CauleyStein,1,3,44,1,Fadeaway Jump Shot,10,6,109,True
+Willie CauleyStein,2,4,14,0,Fadeaway Jump Shot,8,-85,25,True
+Willie CauleyStein,2,3,58,0,Fadeaway Jump Shot,13,130,34,True
+Willie CauleyStein,2,3,36,0,Fadeaway Jump Shot,13,-16,138,True
+Willie CauleyStein,2,1,44,0,Fadeaway Jump Shot,12,-122,1,True
+Willie CauleyStein,4,0,26,0,Fadeaway Jump Shot,17,79,154,True
+Willie CauleyStein,2,4,49,1,Fadeaway Jump Shot,12,50,117,True
+Willie CauleyStein,2,5,56,0,Fadeaway Jump Shot,12,-115,48,True
+Willie CauleyStein,3,3,7,0,Fadeaway Jump Shot,9,-5,92,True
+Willie CauleyStein,2,3,4,0,Fadeaway Jump Shot,14,123,85,True
+Willie CauleyStein,1,10,48,0,Fadeaway Jump Shot,14,115,89,True
+Willie CauleyStein,3,4,54,1,Finger Roll Layup Shot,3,-5,32,True
+Willie CauleyStein,2,6,51,1,Finger Roll Layup Shot,2,5,26,True
+Willie CauleyStein,1,8,7,1,Finger Roll Layup Shot,3,-6,35,True
+Willie CauleyStein,1,4,1,0,Floating Jump shot,9,-3,92,True
+Willie CauleyStein,2,1,44,0,Floating Jump shot,10,-78,71,True
+Willie CauleyStein,2,2,48,0,Floating Jump shot,4,8,47,True
+Willie CauleyStein,1,11,38,0,Floating Jump shot,5,-52,10,True
+Willie CauleyStein,1,10,11,0,Floating Jump shot,9,-19,92,True
+Willie CauleyStein,1,8,51,0,Floating Jump shot,7,0,72,True
+Willie CauleyStein,3,11,7,0,Floating Jump shot,8,-7,89,True
+Willie CauleyStein,2,0,1,1,Floating Jump shot,7,-71,27,True
+Willie CauleyStein,1,4,53,1,Floating Jump shot,9,-24,88,True
+Willie CauleyStein,4,1,16,0,Floating Jump shot,9,-3,95,True
+Willie CauleyStein,2,10,29,1,Floating Jump shot,6,-3,64,True
+Willie CauleyStein,2,3,32,1,Hook Bank Shot,5,-42,34,True
+Willie CauleyStein,4,11,42,0,Hook Shot,0,0,5,True
+Willie CauleyStein,1,4,59,1,Hook Shot,9,-16,96,True
+Willie CauleyStein,2,4,36,0,Hook Shot,8,55,64,True
+Willie CauleyStein,4,11,35,1,Hook Shot,8,19,80,True
+Willie CauleyStein,4,3,45,0,Hook Shot,10,-5,108,True
+Willie CauleyStein,3,0,56,0,Hook Shot,9,-13,90,True
+Willie CauleyStein,4,8,21,0,Hook Shot,5,36,38,True
+Willie CauleyStein,4,5,29,1,Hook Shot,7,-40,64,True
+Willie CauleyStein,3,5,50,1,Hook Shot,9,-24,87,True
+Willie CauleyStein,1,6,51,1,Hook Shot,10,9,101,True
+Willie CauleyStein,3,8,15,0,Hook Shot,7,18,69,True
+Willie CauleyStein,1,4,15,0,Hook Shot,4,10,39,True
+Willie CauleyStein,3,11,45,0,Hook Shot,12,-41,122,True
+Willie CauleyStein,3,7,27,1,Hook Shot,7,-12,73,True
+Willie CauleyStein,2,5,2,1,Hook Shot,1,3,14,True
+Willie CauleyStein,3,3,6,0,Hook Shot,6,-9,60,True
+Willie CauleyStein,1,2,50,1,Hook Shot,5,24,53,True
+Willie CauleyStein,3,7,52,0,Hook Shot,9,-32,92,True
+Willie CauleyStein,2,1,28,0,Hook Shot,4,-29,32,True
+Willie CauleyStein,4,2,33,1,Hook Shot,3,-16,29,True
+Willie CauleyStein,3,8,24,0,Hook Shot,7,21,74,True
+Willie CauleyStein,4,9,30,0,Hook Shot,11,3,112,True
+Willie CauleyStein,1,9,0,0,Hook Shot,8,5,88,True
+Willie CauleyStein,3,6,30,0,Hook Shot,10,49,93,True
+Willie CauleyStein,3,1,18,0,Hook Shot,7,-25,75,True
+Willie CauleyStein,4,3,48,1,Hook Shot,5,6,55,True
+Willie CauleyStein,3,9,45,1,Hook Shot,6,20,62,True
+Willie CauleyStein,1,7,10,0,Hook Shot,5,13,53,True
+Willie CauleyStein,4,3,54,1,Hook Shot,6,16,59,True
+Willie CauleyStein,2,2,13,0,Hook Shot,5,30,43,True
+Willie CauleyStein,3,9,50,1,Hook Shot,5,-22,55,True
+Willie CauleyStein,3,8,55,0,Hook Shot,5,11,50,True
+Willie CauleyStein,2,9,34,0,Hook Shot,7,-4,75,True
+Willie CauleyStein,3,5,42,0,Hook Shot,7,-40,69,True
+Willie CauleyStein,1,2,56,1,Hook Shot,8,-3,83,True
+Willie CauleyStein,1,1,58,0,Hook Shot,6,40,51,True
+Willie CauleyStein,2,5,3,0,Hook Shot,8,-8,85,True
+Willie CauleyStein,2,6,16,0,Hook Shot,5,17,52,True
+Willie CauleyStein,2,6,25,1,Hook Shot,8,-2,83,True
+Willie CauleyStein,3,3,18,0,Hook Shot,6,-63,14,True
+Willie CauleyStein,3,3,58,0,Hook Shot,11,-1,111,True
+Willie CauleyStein,1,2,36,0,Hook Shot,3,-25,27,True
+Willie CauleyStein,1,11,5,1,Hook Shot,3,5,32,True
+Willie CauleyStein,2,0,53,0,Hook Shot,3,-9,38,True
+Willie CauleyStein,2,6,5,0,Hook Shot,8,18,80,True
+Willie CauleyStein,2,0,23,1,Hook Shot,6,-29,60,True
+Willie CauleyStein,1,4,39,0,Hook Shot,5,43,34,True
+Willie CauleyStein,1,1,31,0,Hook Shot,4,30,33,True
+Willie CauleyStein,3,1,58,0,Hook Shot,8,25,83,True
+Willie CauleyStein,1,5,15,0,Hook Shot,5,8,54,True
+Willie CauleyStein,1,3,50,1,Hook Shot,6,17,63,True
+Willie CauleyStein,4,3,45,0,Hook Shot,10,-76,75,True
+Willie CauleyStein,1,7,46,0,Hook Shot,13,-55,118,True
+Willie CauleyStein,1,6,22,0,Hook Shot,5,-3,59,True
+Willie CauleyStein,1,9,53,1,Hook Shot,6,-16,68,True
+Willie CauleyStein,2,1,30,0,Hook Shot,8,19,85,True
+Willie CauleyStein,2,1,55,0,Hook Shot,4,40,14,True
+Willie CauleyStein,4,0,20,0,Hook Shot,8,-62,60,True
+Willie CauleyStein,2,3,41,0,Hook Shot,9,-3,92,True
+Willie CauleyStein,4,8,57,0,Hook Shot,9,8,92,True
+Willie CauleyStein,2,4,54,1,Hook Shot,9,35,88,True
+Willie CauleyStein,3,6,5,0,Hook Shot,4,32,33,True
+Willie CauleyStein,3,4,31,1,Hook Shot,7,-11,73,True
+Willie CauleyStein,1,7,51,0,Hook Shot,7,39,62,True
+Willie CauleyStein,2,6,49,0,Hook Shot,4,33,25,True
+Willie CauleyStein,1,7,59,1,Hook Shot,7,37,69,True
+Willie CauleyStein,3,10,43,0,Hook Shot,6,14,67,True
+Willie CauleyStein,1,4,20,0,Hook Shot,7,13,78,True
+Willie CauleyStein,3,0,37,0,Hook Shot,7,31,68,True
+Willie CauleyStein,1,9,36,1,Hook Shot,6,23,58,True
+Willie CauleyStein,4,4,43,1,Hook Shot,2,-11,18,True
+Willie CauleyStein,3,9,42,1,Hook Shot,9,-30,85,True
+Willie CauleyStein,1,3,35,1,Hook Shot,8,0,83,True
+Willie CauleyStein,3,10,10,1,Jump Bank Shot,15,-8,150,True
+Willie CauleyStein,1,10,39,1,Jump Bank Shot,20,14,200,True
+Willie CauleyStein,3,8,30,0,Jump Bank Shot,11,92,64,True
+Willie CauleyStein,4,3,30,1,Jump Bank Shot,5,-13,49,True
+Willie CauleyStein,3,7,20,0,Jump Bank Shot,5,26,49,True
+Willie CauleyStein,1,1,33,0,Jump Bank Shot,11,19,117,True
+Willie CauleyStein,1,5,1,0,Jump Shot,19,63,189,True
+Willie CauleyStein,3,1,1,0,Jump Shot,7,-20,73,True
+Willie CauleyStein,3,1,55,0,Jump Shot,7,-3,78,True
+Willie CauleyStein,2,9,48,0,Jump Shot,23,-230,-6,False
+Willie CauleyStein,2,5,48,0,Jump Shot,14,-143,36,True
+Willie CauleyStein,2,8,20,0,Jump Shot,19,-8,190,True
+Willie CauleyStein,1,1,34,0,Jump Shot,18,-98,152,True
+Willie CauleyStein,4,5,45,0,Jump Shot,20,-103,183,True
+Willie CauleyStein,4,8,27,1,Jump Shot,25,-89,238,False
+Willie CauleyStein,1,1,3,0,Jump Shot,18,187,-12,True
+Willie CauleyStein,1,0,20,1,Jump Shot,21,80,196,True
+Willie CauleyStein,4,1,39,0,Jump Shot,17,73,161,True
+Willie CauleyStein,4,4,26,0,Jump Shot,21,104,187,True
+Willie CauleyStein,2,5,53,0,Jump Shot,14,146,17,True
+Willie CauleyStein,3,8,43,0,Jump Shot,19,87,170,True
+Willie CauleyStein,1,7,25,0,Jump Shot,17,86,148,True
+Willie CauleyStein,1,5,25,0,Jump Shot,5,-20,55,True
+Willie CauleyStein,3,11,25,0,Jump Shot,16,47,158,True
+Willie CauleyStein,3,6,39,0,Jump Shot,17,47,166,True
+Willie CauleyStein,3,5,12,0,Jump Shot,18,40,179,True
+Willie CauleyStein,3,6,3,0,Jump Shot,18,19,189,True
+Willie CauleyStein,1,4,41,1,Jump Shot,20,100,177,True
+Willie CauleyStein,4,4,26,0,Jump Shot,17,65,164,True
+Willie CauleyStein,3,2,20,0,Jump Shot,17,-170,57,True
+Willie CauleyStein,4,5,48,0,Jump Shot,18,108,147,True
+Willie CauleyStein,3,3,46,0,Jump Shot,14,-1,141,True
+Willie CauleyStein,3,6,55,1,Jump Shot,16,-61,153,True
+Willie CauleyStein,2,1,40,1,Jump Shot,11,40,104,True
+Willie CauleyStein,1,7,22,0,Jump Shot,18,50,174,True
+Willie CauleyStein,1,10,21,1,Jump Shot,15,157,19,True
+Willie CauleyStein,4,8,25,1,Jump Shot,18,-6,189,True
+Willie CauleyStein,2,2,27,0,Jump Shot,15,-64,137,True
+Willie CauleyStein,1,7,4,0,Jump Shot,7,-3,71,True
+Willie CauleyStein,1,4,6,1,Jump Shot,18,-26,188,True
+Willie CauleyStein,1,4,56,0,Jump Shot,17,-43,173,True
+Willie CauleyStein,3,0,32,1,Jump Shot,19,195,23,True
+Willie CauleyStein,3,10,8,1,Jump Shot,17,79,154,True
+Willie CauleyStein,2,0,29,0,Jump Shot,6,46,45,True
+Willie CauleyStein,3,10,44,1,Jump Shot,18,30,179,True
+Willie CauleyStein,3,6,48,0,Jump Shot,17,-43,169,True
+Willie CauleyStein,2,2,10,0,Jump Shot,6,-53,29,True
+Willie CauleyStein,3,1,44,0,Jump Shot,7,-28,74,True
+Willie CauleyStein,2,4,7,1,Jump Shot,17,164,72,True
+Willie CauleyStein,1,6,43,0,Jump Shot,9,47,79,True
+Willie CauleyStein,1,6,42,1,Jump Shot,21,-54,203,True
+Willie CauleyStein,3,4,26,0,Jump Shot,83,-1,831,False
+Willie CauleyStein,1,5,4,1,Jump Shot,17,-18,179,True
+Willie CauleyStein,1,8,52,0,Jump Shot,15,-130,92,True
+Willie CauleyStein,2,8,15,0,Jump Shot,18,48,175,True
+Willie CauleyStein,2,2,31,0,Jump Shot,17,53,167,True
+Willie CauleyStein,1,8,10,1,Jump Shot,5,-2,59,True
+Willie CauleyStein,2,6,20,0,Jump Shot,4,5,41,True
+Willie CauleyStein,3,10,16,1,Jump Shot,12,-112,45,True
+Willie CauleyStein,3,6,8,1,Jump Shot,15,137,64,True
+Willie CauleyStein,2,2,12,1,Jump Shot,19,-57,186,True
+Willie CauleyStein,3,10,39,0,Jump Shot,17,-29,175,True
+Willie CauleyStein,4,6,52,1,Jump Shot,21,-156,144,True
+Willie CauleyStein,3,10,27,1,Jump Shot,17,-82,153,True
+Willie CauleyStein,3,7,23,0,Jump Shot,19,-39,188,True
+Willie CauleyStein,1,7,47,1,Jump Shot,21,104,183,True
+Willie CauleyStein,3,10,26,1,Jump Shot,18,26,188,True
+Willie CauleyStein,1,8,31,1,Jump Shot,18,82,164,True
+Willie CauleyStein,3,6,40,1,Jump Shot,18,-61,173,True
+Willie CauleyStein,2,0,57,0,Jump Shot,18,93,157,True
+Willie CauleyStein,2,0,12,0,Jump Shot,19,-91,174,True
+Willie CauleyStein,3,11,44,0,Jump Shot,21,-44,209,True
+Willie CauleyStein,3,5,2,0,Jump Shot,17,16,179,True
+Willie CauleyStein,4,5,26,0,Jump Shot,14,-128,63,True
+Willie CauleyStein,2,1,9,0,Jump Shot,18,-111,144,True
+Willie CauleyStein,1,7,50,0,Jump Shot,8,-12,84,True
+Willie CauleyStein,1,11,45,1,Jump Shot,17,84,151,True
+Willie CauleyStein,1,0,36,0,Jump Shot,17,-85,157,True
+Willie CauleyStein,4,3,4,1,Jump Shot,17,51,168,True
+Willie CauleyStein,4,4,58,1,Jump Shot,18,-14,185,True
+Willie CauleyStein,4,3,58,1,Jump Shot,18,13,185,True
+Willie CauleyStein,2,0,0,0,Jump Shot,25,105,229,False
+Willie CauleyStein,2,1,32,0,Jump Shot,15,5,156,True
+Willie CauleyStein,4,2,45,0,Jump Shot,19,55,186,True
+Willie CauleyStein,3,7,46,1,Jump Shot,16,-138,91,True
+Willie CauleyStein,1,4,30,0,Jump Shot,19,-30,193,True
+Willie CauleyStein,4,3,42,0,Jump Shot,16,76,141,True
+Willie CauleyStein,2,2,47,1,Jump Shot,19,45,189,True
+Willie CauleyStein,3,9,20,0,Jump Shot,17,-111,141,True
+Willie CauleyStein,1,6,42,1,Jump Shot,20,46,198,True
+Willie CauleyStein,1,7,8,0,Jump Shot,17,-65,159,True
+Willie CauleyStein,3,2,34,1,Jump Shot,17,37,168,True
+Willie CauleyStein,3,5,29,1,Jump Shot,16,-6,164,True
+Willie CauleyStein,3,0,0,0,Jump Shot,63,22,639,False
+Willie CauleyStein,2,4,55,1,Jump Shot,6,-16,67,True
+Willie CauleyStein,4,6,16,0,Jump Shot,18,50,177,True
+Willie CauleyStein,2,6,7,1,Jump Shot,16,49,155,True
+Willie CauleyStein,3,9,20,1,Jump Shot,22,-226,-6,False
+Willie CauleyStein,1,7,37,0,Jump Shot,21,3,218,True
+Willie CauleyStein,1,3,24,1,Jump Shot,19,-35,191,True
+Willie CauleyStein,3,11,18,0,Jump Shot,17,50,168,True
+Willie CauleyStein,3,6,52,0,Jump Shot,19,57,186,True
+Willie CauleyStein,3,3,4,0,Jump Shot,17,177,32,True
+Willie CauleyStein,1,9,37,1,Jump Shot,13,119,63,True
+Willie CauleyStein,2,5,12,0,Jump Shot,17,82,151,True
+Willie CauleyStein,4,4,47,0,Jump Shot,25,94,240,False
+Willie CauleyStein,2,2,17,1,Jump Shot,17,-163,60,True
+Willie CauleyStein,1,4,35,0,Jump Shot,21,156,147,True
+Willie CauleyStein,3,1,46,0,Jump Shot,16,62,158,True
+Willie CauleyStein,3,8,41,1,Jump Shot,16,107,124,True
+Willie CauleyStein,1,8,50,0,Jump Shot,18,30,179,True
+Willie CauleyStein,3,2,28,0,Jump Shot,19,79,176,True
+Willie CauleyStein,3,5,7,0,Jump Shot,18,161,100,True
+Willie CauleyStein,4,9,22,0,Jump Shot,19,-20,190,True
+Willie CauleyStein,3,6,5,0,Jump Shot,15,44,153,True
+Willie CauleyStein,4,3,25,0,Jump Shot,17,58,168,True
+Willie CauleyStein,2,8,40,1,Jump Shot,17,-38,175,True
+Willie CauleyStein,4,8,53,0,Jump Shot,3,12,35,True
+Willie CauleyStein,3,10,37,0,Jump Shot,19,-143,139,True
+Willie CauleyStein,1,6,14,1,Jump Shot,1,-9,11,True
+Willie CauleyStein,3,3,55,0,Jump Shot,15,78,136,True
+Willie CauleyStein,1,5,22,0,Jump Shot,15,-55,141,True
+Willie CauleyStein,2,0,1,0,Jump Shot,22,-223,41,False
+Willie CauleyStein,3,1,5,0,Jump Shot,17,99,145,True
+Willie CauleyStein,1,5,29,1,Jump Shot,11,-113,20,True
+Willie CauleyStein,3,5,7,0,Jump Shot,18,-7,185,True
+Willie CauleyStein,1,5,45,0,Jump Shot,2,0,27,True
+Willie CauleyStein,2,6,38,0,Jump Shot,10,2,101,True
+Willie CauleyStein,3,8,45,0,Jump Shot,15,-31,155,True
+Willie CauleyStein,1,8,42,0,Jump Shot,3,-9,38,True
+Willie CauleyStein,3,10,21,0,Jump Shot,19,-69,180,True
+Willie CauleyStein,2,2,53,1,Jump Shot,19,101,162,True
+Willie CauleyStein,2,3,49,0,Jump Shot,2,13,20,True
+Willie CauleyStein,4,2,24,1,Jump Shot,7,14,75,True
+Willie CauleyStein,2,11,25,0,Jump Shot,5,-29,43,True
+Willie CauleyStein,2,10,27,1,Jump Shot,19,75,178,True
+Willie CauleyStein,1,6,1,0,Jump Shot,16,163,26,True
+Willie CauleyStein,2,11,21,1,Jump Shot,18,38,179,True
+Willie CauleyStein,2,10,6,0,Jump Shot,16,-20,163,True
+Willie CauleyStein,4,8,42,0,Jump Shot,2,-13,21,True
+Willie CauleyStein,1,8,3,1,Jump Shot,19,-82,174,True
+Willie CauleyStein,4,5,46,0,Jump Shot,4,11,43,True
+Willie CauleyStein,2,0,0,0,Jump Shot,45,148,434,False
+Willie CauleyStein,4,2,43,1,Layup Shot,3,33,13,True
+Willie CauleyStein,3,11,33,1,Layup Shot,2,-16,12,True
+Willie CauleyStein,3,3,4,1,Layup Shot,2,18,13,True
+Willie CauleyStein,4,3,12,0,Layup Shot,3,-28,12,True
+Willie CauleyStein,3,7,6,0,Layup Shot,2,21,8,True
+Willie CauleyStein,3,7,43,1,Layup Shot,1,-5,10,True
+Willie CauleyStein,3,2,0,0,Layup Shot,3,33,20,True
+Willie CauleyStein,3,2,54,0,Layup Shot,7,14,74,True
+Willie CauleyStein,2,5,39,0,Layup Shot,5,11,58,True
+Willie CauleyStein,3,3,55,0,Layup Shot,4,0,46,True
+Willie CauleyStein,3,5,43,0,Layup Shot,0,8,2,True
+Willie CauleyStein,2,5,59,0,Layup Shot,3,-29,19,True
+Willie CauleyStein,1,7,14,0,Layup Shot,2,-19,13,True
+Willie CauleyStein,3,7,1,0,Layup Shot,6,-1,68,True
+Willie CauleyStein,2,1,31,0,Layup Shot,6,-62,16,True
+Willie CauleyStein,4,3,5,0,Layup Shot,1,-5,18,True
+Willie CauleyStein,1,4,33,1,Layup Shot,8,35,74,True
+Willie CauleyStein,1,5,29,0,Layup Shot,3,-24,22,True
+Willie CauleyStein,1,6,35,0,Layup Shot,1,13,7,True
+Willie CauleyStein,4,1,48,0,Layup Shot,5,16,48,True
+Willie CauleyStein,3,1,26,0,Layup Shot,1,14,6,True
+Willie CauleyStein,3,5,31,0,Layup Shot,1,13,11,True
+Willie CauleyStein,2,2,4,1,Layup Shot,1,13,11,True
+Willie CauleyStein,1,7,56,0,Layup Shot,1,-16,11,True
+Willie CauleyStein,4,4,3,1,Layup Shot,2,-1,23,True
+Willie CauleyStein,4,6,9,0,Layup Shot,12,94,88,True
+Willie CauleyStein,1,10,1,0,Layup Shot,2,-2,21,True
+Willie CauleyStein,1,10,7,0,Layup Shot,3,19,28,True
+Willie CauleyStein,3,4,28,0,Layup Shot,6,-20,67,True
+Willie CauleyStein,1,8,33,0,Layup Shot,5,55,9,True
+Willie CauleyStein,3,6,51,0,Layup Shot,6,14,63,True
+Willie CauleyStein,3,8,30,0,Layup Shot,3,29,26,True
+Willie CauleyStein,1,7,55,1,Layup Shot,2,24,14,True
+Willie CauleyStein,4,3,48,0,Layup Shot,3,16,28,True
+Willie CauleyStein,4,6,0,0,Layup Shot,6,62,11,True
+Willie CauleyStein,4,10,5,1,Layup Shot,1,5,9,True
+Willie CauleyStein,3,0,57,0,Layup Shot,6,-60,17,True
+Willie CauleyStein,4,10,8,0,Layup Shot,6,11,66,True
+Willie CauleyStein,1,0,59,0,Layup Shot,2,-24,9,True
+Willie CauleyStein,1,3,38,0,Layup Shot,4,34,27,True
+Willie CauleyStein,2,4,13,1,Layup Shot,1,-14,10,True
+Willie CauleyStein,2,0,12,1,Layup Shot,2,-10,21,True
+Willie CauleyStein,3,0,24,0,Layup Shot,5,49,15,True
+Willie CauleyStein,2,3,26,1,Layup Shot,1,2,18,True
+Willie CauleyStein,1,2,24,0,Layup Shot,1,-9,16,True
+Willie CauleyStein,2,10,12,0,Layup Shot,2,27,8,True
+Willie CauleyStein,2,0,47,1,Layup Shot,8,65,56,True
+Willie CauleyStein,4,0,25,0,Layup Shot,2,-9,21,True
+Willie CauleyStein,4,9,18,1,Layup Shot,1,3,11,True
+Willie CauleyStein,4,3,39,1,Layup Shot,1,-10,8,True
+Willie CauleyStein,1,2,11,0,Layup Shot,2,-20,-4,True
+Willie CauleyStein,3,8,10,0,Layup Shot,1,0,13,True
+Willie CauleyStein,1,0,39,0,Layup Shot,1,-3,13,True
+Willie CauleyStein,1,0,37,0,Layup Shot,1,2,11,True
+Willie CauleyStein,3,6,50,0,Layup Shot,1,-2,14,True
+Willie CauleyStein,2,0,41,0,Layup Shot,1,14,11,True
+Willie CauleyStein,3,3,34,0,Layup Shot,2,-16,16,True
+Willie CauleyStein,1,4,8,0,Layup Shot,2,-14,26,True
+Willie CauleyStein,1,1,49,0,Layup Shot,2,0,22,True
+Willie CauleyStein,1,1,58,0,Layup Shot,4,38,26,True
+Willie CauleyStein,3,3,21,0,Layup Shot,2,20,11,True
+Willie CauleyStein,3,1,4,1,Layup Shot,2,-16,15,True
+Willie CauleyStein,4,11,13,0,Layup Shot,4,-45,13,True
+Willie CauleyStein,4,10,11,0,Layup Shot,4,-45,8,True
+Willie CauleyStein,3,3,31,1,Layup Shot,2,-22,10,True
+Willie CauleyStein,3,2,58,1,Layup Shot,1,9,11,True
+Willie CauleyStein,1,2,6,0,Layup Shot,1,-9,9,True
+Willie CauleyStein,1,3,43,1,Layup Shot,2,-14,24,True
+Willie CauleyStein,4,3,58,0,Layup Shot,2,16,19,True
+Willie CauleyStein,1,11,27,0,Layup Shot,1,-9,5,True
+Willie CauleyStein,3,9,10,0,Layup Shot,7,27,73,True
+Willie CauleyStein,1,5,13,1,Layup Shot,4,-20,36,True
+Willie CauleyStein,2,2,46,1,Layup Shot,3,-19,34,True
+Willie CauleyStein,4,2,40,0,Layup Shot,2,-25,16,True
+Willie CauleyStein,1,9,15,0,Layup Shot,1,-8,16,True
+Willie CauleyStein,2,3,29,1,Layup Shot,2,2,20,True
+Willie CauleyStein,1,11,18,0,Layup Shot,4,0,43,True
+Willie CauleyStein,3,11,20,1,Layup Shot,0,-6,4,True
+Willie CauleyStein,1,7,58,0,Layup Shot,3,-26,19,True
+Willie CauleyStein,1,6,0,1,Layup Shot,1,5,13,True
+Willie CauleyStein,3,8,58,0,Layup Shot,4,35,34,True
+Willie CauleyStein,3,1,34,0,Layup Shot,5,9,54,True
+Willie CauleyStein,4,0,6,1,Layup Shot,1,-7,16,True
+Willie CauleyStein,1,8,30,1,Layup Shot,1,7,8,True
+Willie CauleyStein,3,6,21,0,Layup Shot,4,-27,40,True
+Willie CauleyStein,1,8,1,1,Layup Shot,2,-28,8,True
+Willie CauleyStein,4,8,31,1,Layup Shot,1,14,11,True
+Willie CauleyStein,2,0,35,0,Layup Shot,7,-12,79,True
+Willie CauleyStein,3,4,5,0,Pullup Jump shot,14,20,148,True
+Willie CauleyStein,4,4,13,0,Pullup Jump shot,20,0,202,True
+Willie CauleyStein,2,7,27,0,Pullup Jump shot,14,74,127,True
+Willie CauleyStein,3,6,5,1,Pullup Jump shot,17,15,174,True
+Willie CauleyStein,3,10,41,1,Pullup Jump shot,16,82,146,True
+Willie CauleyStein,2,0,55,1,Pullup Jump shot,18,72,172,True
+Willie CauleyStein,3,11,41,0,Pullup Jump shot,5,52,26,True
+Willie CauleyStein,3,7,55,1,Pullup Jump shot,19,-6,191,True
+Willie CauleyStein,2,5,34,0,Pullup Jump shot,19,149,128,True
+Willie CauleyStein,1,8,24,1,Pullup Jump shot,12,-99,80,True
+Willie CauleyStein,1,3,14,0,Pullup Jump shot,15,-42,146,True
+Willie CauleyStein,1,5,59,1,Putback Dunk Shot,0,0,-6,True
+Willie CauleyStein,1,6,30,0,Putback Dunk Shot,0,0,-6,True
+Willie CauleyStein,2,7,45,1,Putback Dunk Shot,0,0,-6,True
+Willie CauleyStein,1,1,36,1,Putback Dunk Shot,0,0,-6,True
+Willie CauleyStein,4,3,20,1,Putback Layup Shot,2,-23,18,True
+Willie CauleyStein,2,0,27,1,Putback Layup Shot,3,-2,33,True
+Willie CauleyStein,2,6,35,1,Putback Layup Shot,2,-1,26,True
+Willie CauleyStein,2,0,46,0,Putback Layup Shot,1,-13,9,True
+Willie CauleyStein,2,0,13,1,Putback Layup Shot,0,0,-6,True
+Willie CauleyStein,3,2,7,1,Putback Layup Shot,0,0,-6,True
+Willie CauleyStein,3,8,11,1,Putback Layup Shot,0,0,-6,True
+Willie CauleyStein,2,2,55,0,Putback Layup Shot,0,0,-6,True
+Willie CauleyStein,4,2,13,0,Putback Layup Shot,4,-6,43,True
+Willie CauleyStein,3,4,45,0,Reverse Layup Shot,3,-8,33,True
+Willie CauleyStein,1,5,21,0,Reverse Layup Shot,1,-18,-1,True
+Willie CauleyStein,1,2,50,1,Reverse Layup Shot,2,-25,2,True
+Willie CauleyStein,1,9,27,0,Reverse Layup Shot,1,-6,11,True
+Willie CauleyStein,2,9,37,1,Reverse Layup Shot,3,-30,17,True
+Willie CauleyStein,4,0,13,1,Reverse Layup Shot,1,16,11,True
+Willie CauleyStein,4,0,54,1,Reverse Layup Shot,0,-1,7,True
+Willie CauleyStein,1,5,3,0,Reverse Layup Shot,2,-21,19,True
+Willie CauleyStein,4,7,44,0,Reverse Layup Shot,4,-47,-2,True
+Willie CauleyStein,4,4,22,1,Reverse Layup Shot,0,3,-1,True
+Willie CauleyStein,2,3,54,1,Reverse Layup Shot,0,4,6,True
+Willie CauleyStein,2,7,52,1,Running Alley Oop Dunk Shot,0,-3,7,True
+Willie CauleyStein,1,5,33,1,Running Alley Oop Dunk Shot,1,-12,4,True
+Willie CauleyStein,3,6,26,1,Running Alley Oop Dunk Shot,1,3,12,True
+Willie CauleyStein,4,9,22,1,Running Alley Oop Dunk Shot,0,6,6,True
+Willie CauleyStein,1,1,26,1,Running Alley Oop Dunk Shot,0,-1,6,True
+Willie CauleyStein,1,8,21,1,Running Alley Oop Dunk Shot,0,7,3,True
+Willie CauleyStein,1,1,50,1,Running Dunk Shot,1,-2,15,True
+Willie CauleyStein,1,11,32,1,Running Dunk Shot,0,6,2,True
+Willie CauleyStein,4,7,31,1,Running Dunk Shot,1,11,7,True
+Willie CauleyStein,1,0,59,1,Running Dunk Shot,1,6,11,True
+Willie CauleyStein,3,2,11,1,Running Dunk Shot,2,6,21,True
+Willie CauleyStein,4,0,8,1,Running Dunk Shot,2,-5,22,True
+Willie CauleyStein,3,0,1,0,Running Jump Shot,57,38,569,False
+Willie CauleyStein,1,3,41,1,Running Layup Shot,1,-9,6,True
+Willie CauleyStein,1,8,1,0,Running Layup Shot,5,-6,50,True
+Willie CauleyStein,4,0,57,0,Running Layup Shot,3,-5,32,True
+Willie CauleyStein,3,9,52,0,Running Layup Shot,1,3,10,True
+Willie CauleyStein,1,6,3,1,Running Layup Shot,3,-29,15,True
+Willie CauleyStein,1,10,21,0,Step Back Jump shot,15,143,62,True
+Willie CauleyStein,4,7,56,0,Step Back Jump shot,17,-18,178,True
+Willie CauleyStein,3,10,53,1,Tip Dunk Shot,0,0,-6,True
+Willie CauleyStein,2,2,6,0,Tip Layup Shot,0,0,-6,True
+Willie CauleyStein,2,0,0,0,Tip Layup Shot,0,0,-6,True
+Willie CauleyStein,1,7,34,1,Tip Layup Shot,2,5,20,True
+Willie CauleyStein,4,4,57,1,Tip Layup Shot,0,0,-6,True
+Willie CauleyStein,1,1,5,0,Tip Layup Shot,0,0,-6,True
+Willie CauleyStein,3,4,28,0,Tip Layup Shot,0,0,-6,True
+Willie CauleyStein,2,2,46,0,Tip Layup Shot,0,0,-6,True
+Willie CauleyStein,3,5,6,1,Tip Layup Shot,0,0,-6,True
+Willie CauleyStein,2,7,48,0,Tip Layup Shot,0,0,-6,True
+Willie CauleyStein,1,1,44,1,Tip Layup Shot,0,0,-6,True
+Willie CauleyStein,4,3,2,0,Tip Layup Shot,1,-6,13,True
+Willie CauleyStein,4,2,24,1,Tip Layup Shot,0,0,-6,True
+Willie CauleyStein,3,10,3,0,Tip Layup Shot,0,0,-6,True
+Willie CauleyStein,1,10,44,0,Tip Layup Shot,1,5,11,True
+Willie CauleyStein,2,2,3,0,Tip Layup Shot,0,0,-6,True
+Willie CauleyStein,1,4,2,0,Tip Layup Shot,0,0,-6,True
+Willie CauleyStein,1,9,18,0,Tip Layup Shot,0,0,-6,True
+Willie CauleyStein,3,7,36,0,Tip Layup Shot,0,0,-6,True
+Willie CauleyStein,2,9,22,1,Tip Layup Shot,0,0,-6,True
+Willie CauleyStein,1,9,19,1,Tip Layup Shot,0,7,6,True
+Willie CauleyStein,1,2,36,1,Turnaround Fadeaway Bank Jump Shot,1,11,-2,True
+Willie CauleyStein,3,8,54,0,Turnaround Fadeaway Bank Jump Shot,7,-67,31,True
+Willie CauleyStein,3,11,21,0,Turnaround Fadeaway Bank Jump Shot,8,-52,68,True
+Willie CauleyStein,1,6,6,1,Turnaround Fadeaway Bank Jump Shot,5,-46,24,True
+Willie CauleyStein,1,8,30,1,Turnaround Fadeaway Bank Jump Shot,4,-26,37,True
+Willie CauleyStein,1,11,19,0,Turnaround Fadeaway Bank Jump Shot,8,-69,42,True
+Willie CauleyStein,4,7,52,0,Turnaround Fadeaway shot,9,-23,92,True
+Willie CauleyStein,1,8,13,0,Turnaround Fadeaway shot,8,-2,86,True
+Willie CauleyStein,4,4,47,0,Turnaround Fadeaway shot,11,-24,113,True
+Willie CauleyStein,3,5,27,0,Turnaround Fadeaway shot,10,60,88,True
+Willie CauleyStein,1,7,19,1,Turnaround Fadeaway shot,11,-16,110,True
+Willie CauleyStein,4,2,42,0,Turnaround Fadeaway shot,14,144,6,True
+Willie CauleyStein,3,8,38,1,Turnaround Fadeaway shot,11,-107,31,True
+Willie CauleyStein,2,0,6,1,Turnaround Fadeaway shot,18,158,87,True
+Willie CauleyStein,2,6,15,0,Turnaround Fadeaway shot,8,2,80,True
+Willie CauleyStein,3,7,22,1,Turnaround Fadeaway shot,12,3,120,True
+Willie CauleyStein,3,2,40,0,Turnaround Fadeaway shot,16,2,165,True
+Willie CauleyStein,4,9,27,0,Turnaround Hook Shot,8,36,78,True
+Willie CauleyStein,2,3,52,0,Turnaround Hook Shot,4,-40,11,True
+Willie CauleyStein,3,9,56,1,Turnaround Hook Shot,7,59,41,True
+Willie CauleyStein,2,4,18,1,Turnaround Hook Shot,1,-3,10,True
+Willie CauleyStein,1,10,5,1,Turnaround Hook Shot,4,3,43,True
+Willie CauleyStein,3,7,40,0,Turnaround Hook Shot,5,-22,46,True
+Willie CauleyStein,4,0,32,1,Turnaround Hook Shot,9,-5,94,True
+Willie CauleyStein,2,7,54,0,Turnaround Hook Shot,3,-32,20,True
+Willie CauleyStein,3,0,43,0,Turnaround Jump Shot,5,7,58,True
+Willie CauleyStein,4,10,24,1,Turnaround Jump Shot,8,26,85,True
+Willie CauleyStein,1,7,34,0,Turnaround Jump Shot,8,-86,10,True
+Willie CauleyStein,2,0,45,0,Turnaround Jump Shot,5,-48,31,True
+Willie CauleyStein,2,8,15,0,Turnaround Jump Shot,9,-4,98,True
+Willie CauleyStein,4,1,48,0,Turnaround Jump Shot,7,4,74,True
+Willie CauleyStein,1,7,45,0,Turnaround Jump Shot,7,-13,70,True

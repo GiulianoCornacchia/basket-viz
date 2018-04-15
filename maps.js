@@ -190,31 +190,40 @@
 	    var x1= parseInt(data[i].x)+off_x
 		var y1= parseInt(data[i].y)+off_y
 		
+		//2-12
 		
+		var w1=2
+		var w2=12
+		
+	
 		if(filter=="none")
 		{
 
 		if((x1<500)&&(y1<300))
 		{	
 		if((x1-off_x)>-30 && (x1-off_x)<30  && (y1-off_y)>-50 && (y1-off_y)<50)
-		  heatmap.addData({x:x1, y:y1, value:2})
+		  heatmap.addData({x:x1, y:y1, value:w1})
         else	  
-		heatmap2.addData({x:x1, y:y1, value:12})
+			heatmap2.addData({x:x1, y:y1, value:w2})
+		
+		}
 		}
 		else if(filter=="made")
 		{
 			if(data[i].shot_made_flag == 1)
-				if((x1-off_x)>-30 && (x1-off_x)<30  && (y1-off_y)>-50 && (y1-off_y)<50)
-					heatmap.addData({x:x1, y:y1, value:2})
+			{
+			if((x1-off_x)>-30 && (x1-off_x)<30  && (y1-off_y)>-50 && (y1-off_y)<50)
+				heatmap.addData({x:x1, y:y1, value:w1})
 			else	  
-					heatmap2.addData({x:x1, y:y1, value:12})
+			heatmap2.addData({x:x1, y:y1, value:w2})
+			   
+			}
 			
 		}
-
 		}
-	  }
 	  
-
+	  
+	  
 	  
 	
 	  
@@ -228,7 +237,7 @@
       draw_court(svg,"white","None");
       
 	 
-    
+
 	  
 	  }
 
@@ -313,9 +322,9 @@ if(to_update)
 
 		if(to>=0)
 			if(m2<10)
-				d3.select("#current_min").text("Q"+q2+"- 0"+m2+":00")
+				d3.select("#current_min").text("Q"+q2+" - 0"+m2+":00")
 			else
-				d3.select("#current_min").text("Q"+q2+"- "+m2+":00")
+				d3.select("#current_min").text("Q"+q2+" - "+m2+":00")
 	
 
 	  

@@ -1,0 +1,101 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Eric Moreland,1,2,51,0,Alley Oop Dunk Shot,5,-36,39,True
+Eric Moreland,2,8,58,1,Alley Oop Dunk Shot,0,2,-3,True
+Eric Moreland,4,7,12,1,Alley Oop Dunk Shot,0,3,0,True
+Eric Moreland,1,3,50,1,Alley Oop Layup shot,3,-32,3,True
+Eric Moreland,1,3,2,1,Alley Oop Layup shot,1,-2,10,True
+Eric Moreland,3,0,38,1,Alley Oop Layup shot,1,8,9,True
+Eric Moreland,2,8,33,1,Cutting Dunk Shot,0,-4,9,True
+Eric Moreland,2,10,24,0,Cutting Layup Shot,2,25,-2,True
+Eric Moreland,2,9,21,0,Cutting Layup Shot,2,9,21,True
+Eric Moreland,1,8,49,1,Cutting Layup Shot,2,-8,20,True
+Eric Moreland,3,5,29,1,Cutting Layup Shot,1,-18,6,True
+Eric Moreland,4,10,23,1,Driving Floating Bank Jump Shot,5,-11,51,True
+Eric Moreland,3,7,25,0,Driving Floating Jump Shot,2,-15,14,True
+Eric Moreland,1,6,34,1,Driving Floating Jump Shot,11,-61,99,True
+Eric Moreland,4,8,45,0,Driving Floating Jump Shot,7,14,69,True
+Eric Moreland,2,11,14,1,Driving Floating Jump Shot,6,-7,68,True
+Eric Moreland,4,7,45,1,Driving Floating Jump Shot,11,9,113,True
+Eric Moreland,2,7,54,0,Driving Floating Jump Shot,11,-4,111,True
+Eric Moreland,2,8,46,0,Driving Hook Shot,7,-62,38,True
+Eric Moreland,2,5,8,0,Driving Hook Shot,3,11,29,True
+Eric Moreland,1,1,1,0,Driving Layup Shot,1,-13,5,True
+Eric Moreland,4,8,0,1,Driving Layup Shot,0,1,6,True
+Eric Moreland,4,8,34,0,Driving Layup Shot,2,20,2,True
+Eric Moreland,2,9,38,0,Dunk Shot,3,9,29,True
+Eric Moreland,3,5,15,1,Dunk Shot,0,3,4,True
+Eric Moreland,2,8,6,1,Dunk Shot,1,-4,13,True
+Eric Moreland,4,7,39,1,Dunk Shot,1,-11,8,True
+Eric Moreland,4,3,33,1,Floating Jump shot,11,115,19,True
+Eric Moreland,3,1,38,1,Floating Jump shot,7,5,78,True
+Eric Moreland,3,11,12,1,Floating Jump shot,6,17,64,True
+Eric Moreland,2,7,25,0,Floating Jump shot,12,109,58,True
+Eric Moreland,2,6,10,0,Floating Jump shot,10,13,103,True
+Eric Moreland,2,11,15,0,Floating Jump shot,9,-30,90,True
+Eric Moreland,4,2,27,0,Floating Jump shot,11,55,105,True
+Eric Moreland,2,7,34,0,Floating Jump shot,13,-49,131,True
+Eric Moreland,2,10,26,0,Floating Jump shot,10,-73,79,True
+Eric Moreland,3,5,49,1,Floating Jump shot,8,-11,82,True
+Eric Moreland,2,8,58,1,Floating Jump shot,8,5,84,True
+Eric Moreland,1,2,15,1,Floating Jump shot,3,4,33,True
+Eric Moreland,3,4,41,0,Hook Shot,9,-58,76,True
+Eric Moreland,1,1,21,1,Hook Shot,4,42,20,True
+Eric Moreland,2,10,12,1,Hook Shot,8,-88,-8,True
+Eric Moreland,2,11,41,1,Hook Shot,3,-9,38,True
+Eric Moreland,3,0,4,1,Hook Shot,8,36,72,True
+Eric Moreland,2,8,49,0,Hook Shot,3,30,21,True
+Eric Moreland,4,6,39,0,Hook Shot,6,-61,32,True
+Eric Moreland,3,6,13,1,Hook Shot,1,-13,5,True
+Eric Moreland,2,10,56,0,Hook Shot,4,2,48,True
+Eric Moreland,1,8,45,0,Jump Shot,16,-161,53,True
+Eric Moreland,1,0,40,0,Jump Shot,7,73,-8,True
+Eric Moreland,4,4,38,0,Jump Shot,21,-189,96,True
+Eric Moreland,4,3,3,1,Layup Shot,2,-4,20,True
+Eric Moreland,2,4,13,1,Layup Shot,1,8,6,True
+Eric Moreland,4,7,22,0,Layup Shot,1,-8,16,True
+Eric Moreland,4,7,26,0,Layup Shot,2,-4,22,True
+Eric Moreland,4,7,46,1,Layup Shot,0,-3,-2,True
+Eric Moreland,4,2,51,0,Layup Shot,2,14,18,True
+Eric Moreland,4,3,24,0,Layup Shot,1,4,15,True
+Eric Moreland,2,11,21,1,Layup Shot,0,8,5,True
+Eric Moreland,2,9,34,0,Layup Shot,1,6,12,True
+Eric Moreland,2,0,54,1,Layup Shot,1,1,11,True
+Eric Moreland,2,9,51,0,Layup Shot,3,-25,27,True
+Eric Moreland,2,6,58,0,Layup Shot,1,-5,12,True
+Eric Moreland,2,6,54,1,Layup Shot,1,-3,18,True
+Eric Moreland,4,10,4,0,Layup Shot,2,13,26,True
+Eric Moreland,4,1,41,1,Layup Shot,1,9,11,True
+Eric Moreland,2,8,11,0,Layup Shot,3,2,31,True
+Eric Moreland,1,5,51,0,Layup Shot,0,9,1,True
+Eric Moreland,2,8,16,0,Layup Shot,4,-12,47,True
+Eric Moreland,4,8,38,0,Putback Layup Shot,10,5,108,True
+Eric Moreland,1,0,0,1,Putback Layup Shot,0,0,-6,True
+Eric Moreland,2,9,21,0,Putback Layup Shot,3,35,10,True
+Eric Moreland,1,0,30,1,Reverse Layup Shot,4,-33,27,True
+Eric Moreland,2,7,1,1,Reverse Layup Shot,0,-5,8,True
+Eric Moreland,4,4,3,1,Reverse Layup Shot,1,8,15,True
+Eric Moreland,2,8,52,1,Reverse Layup Shot,0,-3,8,True
+Eric Moreland,4,0,9,1,Reverse Layup Shot,2,-23,17,True
+Eric Moreland,2,10,30,1,Reverse Layup Shot,1,-9,8,True
+Eric Moreland,2,8,43,1,Running Dunk Shot,3,0,38,True
+Eric Moreland,4,5,28,0,Running Dunk Shot,2,6,28,True
+Eric Moreland,2,10,3,1,Running Layup Shot,0,1,8,True
+Eric Moreland,1,3,17,1,Running Reverse Layup Shot,1,3,13,True
+Eric Moreland,4,6,2,0,Step Back Jump shot,18,131,137,True
+Eric Moreland,1,9,20,1,Tip Dunk Shot,0,0,-6,True
+Eric Moreland,1,0,2,0,Tip Dunk Shot,0,0,-6,True
+Eric Moreland,4,2,24,1,Tip Dunk Shot,0,0,-6,True
+Eric Moreland,4,7,40,1,Tip Dunk Shot,0,0,-6,True
+Eric Moreland,1,1,21,0,Tip Layup Shot,2,0,25,True
+Eric Moreland,2,9,46,1,Tip Layup Shot,0,0,-6,True
+Eric Moreland,4,2,47,0,Tip Layup Shot,0,0,-6,True
+Eric Moreland,4,0,41,0,Tip Layup Shot,0,-3,5,True
+Eric Moreland,1,0,1,0,Tip Layup Shot,0,0,-6,True
+Eric Moreland,1,0,46,1,Tip Layup Shot,0,0,-6,True
+Eric Moreland,1,1,30,1,Tip Layup Shot,0,0,-6,True
+Eric Moreland,2,11,3,1,Tip Layup Shot,0,0,-6,True
+Eric Moreland,3,1,34,0,Tip Layup Shot,0,0,-6,True
+Eric Moreland,1,10,2,0,Turnaround Hook Shot,6,-46,48,True
+Eric Moreland,2,10,23,1,Turnaround Hook Shot,6,-67,5,True
+Eric Moreland,4,3,22,0,Turnaround Hook Shot,7,76,21,True
+Eric Moreland,2,8,51,0,Turnaround Jump Shot,3,30,15,True

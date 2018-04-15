@@ -1,0 +1,131 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Boban Marjanovic,4,0,52,1,Cutting Dunk Shot,0,-2,5,True
+Boban Marjanovic,4,8,43,1,Cutting Dunk Shot,0,5,6,True
+Boban Marjanovic,1,0,24,1,Dunk Shot,2,-5,20,True
+Boban Marjanovic,2,9,12,1,Dunk Shot,0,-2,4,True
+Boban Marjanovic,4,9,56,1,Dunk Shot,0,7,6,True
+Boban Marjanovic,2,11,40,1,Dunk Shot,0,-5,6,True
+Boban Marjanovic,4,10,31,1,Dunk Shot,0,2,9,True
+Boban Marjanovic,4,7,8,1,Dunk Shot,1,2,16,True
+Boban Marjanovic,4,2,57,1,Dunk Shot,0,-2,-5,True
+Boban Marjanovic,2,11,10,1,Dunk Shot,0,-5,8,True
+Boban Marjanovic,4,4,36,1,Dunk Shot,1,-3,13,True
+Boban Marjanovic,4,7,30,0,Dunk Shot,2,-14,21,True
+Boban Marjanovic,4,3,14,1,Dunk Shot,2,-12,23,True
+Boban Marjanovic,4,8,54,1,Dunk Shot,1,0,18,True
+Boban Marjanovic,4,11,43,1,Dunk Shot,1,-13,13,True
+Boban Marjanovic,2,11,24,0,Dunk Shot,1,-11,15,True
+Boban Marjanovic,4,11,49,1,Dunk Shot,0,-4,1,True
+Boban Marjanovic,4,2,41,0,Floating Jump shot,5,47,35,True
+Boban Marjanovic,4,0,19,0,Floating Jump shot,6,-60,17,True
+Boban Marjanovic,4,1,32,0,Hook Shot,3,-29,20,True
+Boban Marjanovic,1,6,39,1,Hook Shot,5,2,52,True
+Boban Marjanovic,2,9,27,0,Hook Shot,5,51,21,True
+Boban Marjanovic,4,5,39,0,Hook Shot,7,-71,31,True
+Boban Marjanovic,4,1,14,0,Hook Shot,6,-44,49,True
+Boban Marjanovic,2,5,25,1,Hook Shot,4,17,38,True
+Boban Marjanovic,4,9,39,0,Hook Shot,4,-3,42,True
+Boban Marjanovic,2,10,1,0,Hook Shot,4,-24,34,True
+Boban Marjanovic,2,11,32,1,Hook Shot,4,40,2,True
+Boban Marjanovic,2,9,17,0,Hook Shot,10,-62,84,True
+Boban Marjanovic,4,7,28,0,Hook Shot,4,-12,47,True
+Boban Marjanovic,2,9,5,0,Hook Shot,2,8,23,True
+Boban Marjanovic,2,0,11,1,Hook Shot,10,-85,57,True
+Boban Marjanovic,4,0,16,0,Hook Shot,10,-62,89,True
+Boban Marjanovic,4,7,7,0,Hook Shot,2,22,10,True
+Boban Marjanovic,4,6,25,1,Hook Shot,1,-4,17,True
+Boban Marjanovic,4,3,15,1,Hook Shot,5,-3,59,True
+Boban Marjanovic,4,0,45,0,Hook Shot,2,27,1,True
+Boban Marjanovic,2,9,55,0,Hook Shot,6,1,62,True
+Boban Marjanovic,2,8,40,1,Jump Bank Shot,7,-67,25,True
+Boban Marjanovic,4,7,44,0,Jump Bank Shot,3,-36,15,True
+Boban Marjanovic,3,11,12,1,Jump Bank Shot,2,-24,17,True
+Boban Marjanovic,2,5,9,0,Jump Bank Shot,10,-94,48,True
+Boban Marjanovic,4,7,15,0,Jump Shot,18,-161,89,True
+Boban Marjanovic,4,0,42,1,Jump Shot,13,136,2,True
+Boban Marjanovic,3,0,22,1,Jump Shot,10,-29,96,True
+Boban Marjanovic,4,3,44,0,Jump Shot,19,102,165,True
+Boban Marjanovic,4,8,44,1,Jump Shot,7,3,73,True
+Boban Marjanovic,2,10,54,0,Jump Shot,4,-1,48,True
+Boban Marjanovic,2,10,23,0,Jump Shot,4,6,47,True
+Boban Marjanovic,2,7,47,0,Jump Shot,3,-13,36,True
+Boban Marjanovic,4,11,41,0,Jump Shot,18,147,118,True
+Boban Marjanovic,4,5,10,1,Jump Shot,4,19,46,True
+Boban Marjanovic,3,0,1,0,Jump Shot,10,-25,98,True
+Boban Marjanovic,4,1,0,1,Layup Shot,2,18,16,True
+Boban Marjanovic,4,6,17,1,Layup Shot,1,-16,10,True
+Boban Marjanovic,3,0,27,1,Layup Shot,0,2,1,True
+Boban Marjanovic,4,4,21,1,Layup Shot,4,-33,37,True
+Boban Marjanovic,4,3,52,0,Layup Shot,4,-35,33,True
+Boban Marjanovic,4,8,39,0,Layup Shot,4,-12,47,True
+Boban Marjanovic,4,6,6,0,Layup Shot,2,-18,11,True
+Boban Marjanovic,4,9,55,0,Layup Shot,1,9,6,True
+Boban Marjanovic,4,10,50,1,Layup Shot,1,0,17,True
+Boban Marjanovic,2,10,39,0,Layup Shot,2,21,20,True
+Boban Marjanovic,4,6,44,0,Layup Shot,1,7,9,True
+Boban Marjanovic,4,8,28,1,Layup Shot,0,2,9,True
+Boban Marjanovic,4,10,57,1,Layup Shot,0,-8,4,True
+Boban Marjanovic,3,1,52,0,Layup Shot,4,6,48,True
+Boban Marjanovic,4,5,23,1,Layup Shot,2,2,23,True
+Boban Marjanovic,3,2,19,1,Layup Shot,3,-24,21,True
+Boban Marjanovic,1,0,9,1,Layup Shot,1,4,16,True
+Boban Marjanovic,2,10,5,1,Layup Shot,4,-45,16,True
+Boban Marjanovic,1,0,44,0,Layup Shot,1,6,18,True
+Boban Marjanovic,4,8,45,1,Layup Shot,3,-35,13,True
+Boban Marjanovic,2,9,27,0,Layup Shot,1,14,4,True
+Boban Marjanovic,2,11,43,1,Layup Shot,1,-13,-4,True
+Boban Marjanovic,2,11,42,0,Layup Shot,4,-27,41,True
+Boban Marjanovic,3,8,48,1,Layup Shot,1,12,1,True
+Boban Marjanovic,1,1,45,1,Layup Shot,2,2,26,True
+Boban Marjanovic,2,7,50,0,Layup Shot,1,4,10,True
+Boban Marjanovic,2,11,2,1,Layup Shot,3,-24,18,True
+Boban Marjanovic,4,8,45,1,Layup Shot,1,0,19,True
+Boban Marjanovic,2,0,41,0,Layup Shot,3,-38,0,True
+Boban Marjanovic,2,9,6,1,Layup Shot,2,-25,7,True
+Boban Marjanovic,2,10,17,1,Layup Shot,2,5,24,True
+Boban Marjanovic,4,8,41,1,Putback Dunk Shot,0,0,-6,True
+Boban Marjanovic,4,2,20,1,Putback Dunk Shot,0,0,-6,True
+Boban Marjanovic,3,0,21,1,Putback Dunk Shot,0,-4,-4,True
+Boban Marjanovic,4,4,36,1,Putback Layup Shot,0,0,-6,True
+Boban Marjanovic,4,1,41,1,Putback Layup Shot,0,0,-6,True
+Boban Marjanovic,4,9,55,1,Putback Layup Shot,1,16,1,True
+Boban Marjanovic,2,0,44,1,Putback Layup Shot,1,8,10,True
+Boban Marjanovic,4,11,11,1,Putback Layup Shot,0,0,-6,True
+Boban Marjanovic,3,0,23,0,Putback Layup Shot,0,1,5,True
+Boban Marjanovic,3,2,49,1,Putback Layup Shot,0,0,-6,True
+Boban Marjanovic,4,8,53,1,Putback Layup Shot,0,0,-6,True
+Boban Marjanovic,4,7,35,1,Running Dunk Shot,1,6,12,True
+Boban Marjanovic,3,1,47,0,Tip Layup Shot,2,-3,27,True
+Boban Marjanovic,4,2,0,1,Tip Layup Shot,1,-3,14,True
+Boban Marjanovic,3,0,1,0,Tip Layup Shot,0,0,-6,True
+Boban Marjanovic,4,6,27,0,Turnaround Fadeaway Bank Jump Shot,11,-111,29,True
+Boban Marjanovic,4,1,47,1,Turnaround Fadeaway Bank Jump Shot,8,-79,37,True
+Boban Marjanovic,4,5,16,1,Turnaround Fadeaway Bank Jump Shot,7,21,68,True
+Boban Marjanovic,2,10,30,1,Turnaround Hook Shot,5,-16,50,True
+Boban Marjanovic,1,5,9,0,Turnaround Hook Shot,6,-18,65,True
+Boban Marjanovic,4,10,11,0,Turnaround Hook Shot,5,-47,22,True
+Boban Marjanovic,3,4,0,1,Turnaround Hook Shot,2,2,23,True
+Boban Marjanovic,4,0,13,1,Turnaround Hook Shot,3,30,11,True
+Boban Marjanovic,2,10,53,0,Turnaround Hook Shot,3,-27,25,True
+Boban Marjanovic,4,5,35,0,Turnaround Hook Shot,4,-9,46,True
+Boban Marjanovic,4,11,45,0,Turnaround Hook Shot,6,45,52,True
+Boban Marjanovic,2,1,5,0,Turnaround Hook Shot,6,-25,57,True
+Boban Marjanovic,4,5,52,0,Turnaround Hook Shot,10,8,102,True
+Boban Marjanovic,2,11,28,0,Turnaround Hook Shot,6,-51,46,True
+Boban Marjanovic,4,10,49,1,Turnaround Hook Shot,13,-62,121,True
+Boban Marjanovic,4,11,37,0,Turnaround Hook Shot,12,42,121,True
+Boban Marjanovic,2,8,22,1,Turnaround Hook Shot,5,0,57,True
+Boban Marjanovic,4,10,19,0,Turnaround Hook Shot,5,-58,8,True
+Boban Marjanovic,4,8,54,0,Turnaround Hook Shot,5,19,53,True
+Boban Marjanovic,2,9,25,1,Turnaround Hook Shot,6,52,36,True
+Boban Marjanovic,4,1,41,1,Turnaround Hook Shot,6,-39,46,True
+Boban Marjanovic,4,7,1,0,Turnaround Hook Shot,4,-11,46,True
+Boban Marjanovic,2,4,48,1,Turnaround Hook Shot,7,-67,39,True
+Boban Marjanovic,2,3,0,1,Turnaround Hook Shot,3,-33,21,True
+Boban Marjanovic,4,8,36,0,Turnaround Jump Shot,7,-6,75,True
+Boban Marjanovic,1,2,39,0,Turnaround Jump Shot,8,80,41,True
+Boban Marjanovic,1,3,17,0,Turnaround Jump Shot,7,-66,37,True
+Boban Marjanovic,3,10,7,0,Turnaround Jump Shot,9,-91,26,True
+Boban Marjanovic,4,0,53,1,Turnaround Jump Shot,17,-125,125,True
+Boban Marjanovic,3,1,58,0,Turnaround Jump Shot,10,41,96,True
+Boban Marjanovic,1,10,35,1,Turnaround Jump Shot,9,-33,89,True

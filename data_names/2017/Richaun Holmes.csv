@@ -1,0 +1,220 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Richaun Holmes,2,0,27,1,Alley Oop Dunk Shot,0,-2,0,True
+Richaun Holmes,3,1,8,1,Alley Oop Dunk Shot,0,-7,-1,True
+Richaun Holmes,1,0,35,1,Alley Oop Dunk Shot,1,-5,-13,True
+Richaun Holmes,1,5,6,1,Alley Oop Dunk Shot,1,-15,-6,True
+Richaun Holmes,2,3,51,1,Alley Oop Dunk Shot,0,7,-1,True
+Richaun Holmes,3,8,18,1,Alley Oop Dunk Shot,0,-6,0,True
+Richaun Holmes,1,4,14,1,Alley Oop Dunk Shot,0,0,9,True
+Richaun Holmes,3,2,8,1,Alley Oop Dunk Shot,0,-1,8,True
+Richaun Holmes,1,10,10,1,Alley Oop Dunk Shot,0,-5,3,True
+Richaun Holmes,4,8,36,1,Alley Oop Dunk Shot,0,9,2,True
+Richaun Holmes,2,7,19,1,Alley Oop Dunk Shot,0,-1,7,True
+Richaun Holmes,4,7,14,1,Alley Oop Dunk Shot,0,-3,6,True
+Richaun Holmes,1,4,27,1,Alley Oop Dunk Shot,1,8,9,True
+Richaun Holmes,2,5,31,1,Alley Oop Layup shot,2,-23,5,True
+Richaun Holmes,3,7,54,0,Alley Oop Layup shot,3,-26,20,True
+Richaun Holmes,2,1,32,1,Alley Oop Layup shot,1,-8,16,True
+Richaun Holmes,4,7,39,0,Alley Oop Layup shot,3,-28,25,True
+Richaun Holmes,1,5,7,1,Cutting Dunk Shot,1,8,15,True
+Richaun Holmes,2,5,16,1,Cutting Dunk Shot,0,-3,4,True
+Richaun Holmes,2,9,14,1,Cutting Dunk Shot,0,3,5,True
+Richaun Holmes,1,1,14,1,Cutting Dunk Shot,1,3,13,True
+Richaun Holmes,4,2,22,1,Cutting Dunk Shot,0,-2,0,True
+Richaun Holmes,3,5,5,1,Cutting Dunk Shot,0,3,8,True
+Richaun Holmes,2,2,49,1,Cutting Dunk Shot,1,0,11,True
+Richaun Holmes,2,1,40,1,Cutting Dunk Shot,0,6,6,True
+Richaun Holmes,4,2,8,1,Cutting Dunk Shot,1,-11,11,True
+Richaun Holmes,3,1,33,1,Cutting Dunk Shot,0,1,3,True
+Richaun Holmes,2,6,36,1,Cutting Dunk Shot,2,5,21,True
+Richaun Holmes,1,3,3,1,Cutting Dunk Shot,0,-2,9,True
+Richaun Holmes,3,5,19,1,Cutting Layup Shot,1,-13,13,True
+Richaun Holmes,1,1,41,1,Cutting Layup Shot,2,-11,17,True
+Richaun Holmes,1,4,20,0,Cutting Layup Shot,4,26,33,True
+Richaun Holmes,1,2,8,0,Cutting Layup Shot,5,24,47,True
+Richaun Holmes,4,7,56,1,Cutting Layup Shot,2,-13,18,True
+Richaun Holmes,1,0,2,1,Cutting Layup Shot,3,21,27,True
+Richaun Holmes,1,4,49,0,Cutting Layup Shot,5,40,44,True
+Richaun Holmes,2,5,28,1,Driving Dunk Shot,1,16,-2,True
+Richaun Holmes,2,4,31,1,Driving Dunk Shot,0,-3,4,True
+Richaun Holmes,3,3,57,1,Driving Dunk Shot,0,-2,9,True
+Richaun Holmes,4,4,26,0,Driving Dunk Shot,1,3,10,True
+Richaun Holmes,4,9,0,1,Driving Dunk Shot,0,-1,-5,True
+Richaun Holmes,1,4,40,1,Driving Dunk Shot,1,3,13,True
+Richaun Holmes,4,10,14,0,Driving Floating Bank Jump Shot,1,14,10,True
+Richaun Holmes,3,3,1,1,Driving Floating Jump Shot,6,57,20,True
+Richaun Holmes,3,2,14,1,Driving Floating Jump Shot,5,17,54,True
+Richaun Holmes,3,2,11,0,Driving Floating Jump Shot,5,9,50,True
+Richaun Holmes,2,10,50,1,Driving Floating Jump Shot,2,6,29,True
+Richaun Holmes,1,2,51,0,Driving Floating Jump Shot,10,2,105,True
+Richaun Holmes,4,6,36,1,Driving Floating Jump Shot,11,-95,64,True
+Richaun Holmes,3,2,52,1,Driving Floating Jump Shot,11,79,85,True
+Richaun Holmes,2,10,30,1,Driving Layup Shot,2,5,22,True
+Richaun Holmes,4,2,44,1,Driving Layup Shot,1,1,12,True
+Richaun Holmes,4,1,5,0,Driving Layup Shot,1,10,8,True
+Richaun Holmes,4,7,58,0,Driving Layup Shot,4,-17,38,True
+Richaun Holmes,4,8,18,0,Driving Layup Shot,2,-19,10,True
+Richaun Holmes,4,3,11,0,Driving Layup Shot,1,-4,10,True
+Richaun Holmes,4,1,20,1,Driving Layup Shot,1,13,4,True
+Richaun Holmes,4,8,2,0,Driving Layup Shot,9,5,91,True
+Richaun Holmes,3,1,50,1,Driving Layup Shot,3,3,30,True
+Richaun Holmes,1,6,33,0,Driving Layup Shot,2,25,4,True
+Richaun Holmes,4,2,55,1,Driving Layup Shot,2,18,-9,True
+Richaun Holmes,1,9,4,1,Driving Layup Shot,2,20,16,True
+Richaun Holmes,3,1,22,0,Driving Reverse Layup Shot,2,-20,-6,True
+Richaun Holmes,4,0,39,0,Driving Reverse Layup Shot,0,9,2,True
+Richaun Holmes,2,5,49,1,Driving Reverse Layup Shot,2,20,14,True
+Richaun Holmes,2,5,43,1,Dunk Shot,2,8,20,True
+Richaun Holmes,2,3,0,1,Dunk Shot,0,0,8,True
+Richaun Holmes,1,0,3,1,Dunk Shot,2,-11,25,True
+Richaun Holmes,1,3,40,1,Dunk Shot,1,1,14,True
+Richaun Holmes,2,11,32,1,Dunk Shot,0,3,5,True
+Richaun Holmes,2,3,42,1,Dunk Shot,0,6,3,True
+Richaun Holmes,2,9,50,1,Dunk Shot,0,5,6,True
+Richaun Holmes,1,0,50,1,Dunk Shot,2,11,19,True
+Richaun Holmes,1,1,2,1,Dunk Shot,1,3,16,True
+Richaun Holmes,4,5,41,1,Dunk Shot,1,11,10,True
+Richaun Holmes,3,4,55,1,Dunk Shot,1,5,16,True
+Richaun Holmes,1,3,40,1,Dunk Shot,0,0,1,True
+Richaun Holmes,4,2,17,1,Dunk Shot,0,-2,7,True
+Richaun Holmes,1,5,36,1,Dunk Shot,1,8,6,True
+Richaun Holmes,2,3,28,0,Dunk Shot,2,15,16,True
+Richaun Holmes,2,2,31,1,Dunk Shot,1,0,15,True
+Richaun Holmes,1,5,45,0,Fadeaway Jump Shot,8,-70,53,True
+Richaun Holmes,2,7,22,0,Fadeaway Jump Shot,8,18,78,True
+Richaun Holmes,4,2,46,0,Fadeaway Jump Shot,13,-61,125,True
+Richaun Holmes,3,7,34,0,Finger Roll Layup Shot,4,23,43,True
+Richaun Holmes,1,2,47,1,Floating Jump shot,3,8,34,True
+Richaun Holmes,4,5,59,0,Floating Jump shot,10,67,75,True
+Richaun Holmes,2,7,57,1,Floating Jump shot,5,58,0,True
+Richaun Holmes,4,0,36,0,Floating Jump shot,13,3,131,True
+Richaun Holmes,3,2,9,0,Floating Jump shot,9,18,95,True
+Richaun Holmes,3,11,5,1,Floating Jump shot,8,62,64,True
+Richaun Holmes,3,2,2,0,Floating Jump shot,12,-16,119,True
+Richaun Holmes,1,11,14,1,Floating Jump shot,11,6,115,True
+Richaun Holmes,4,4,12,1,Floating Jump shot,8,47,71,True
+Richaun Holmes,1,1,9,0,Hook Shot,7,-3,70,True
+Richaun Holmes,4,2,33,0,Hook Shot,5,0,51,True
+Richaun Holmes,4,0,12,1,Hook Shot,5,9,55,True
+Richaun Holmes,4,4,32,1,Hook Shot,2,-20,21,True
+Richaun Holmes,3,2,46,1,Hook Shot,6,24,64,True
+Richaun Holmes,1,5,18,1,Hook Shot,8,24,78,True
+Richaun Holmes,4,9,21,1,Hook Shot,9,-37,83,True
+Richaun Holmes,4,2,31,0,Jump Bank Shot,11,-4,119,True
+Richaun Holmes,1,6,18,0,Jump Shot,24,187,163,False
+Richaun Holmes,1,0,45,1,Jump Shot,12,0,125,True
+Richaun Holmes,1,0,0,0,Jump Shot,16,-41,161,True
+Richaun Holmes,1,0,33,0,Jump Shot,7,-25,73,True
+Richaun Holmes,4,4,40,0,Jump Shot,17,61,162,True
+Richaun Holmes,4,0,58,0,Jump Shot,25,-55,248,False
+Richaun Holmes,4,0,14,0,Jump Shot,24,-130,211,False
+Richaun Holmes,3,10,13,0,Jump Shot,17,63,165,True
+Richaun Holmes,4,8,49,0,Jump Shot,23,75,221,True
+Richaun Holmes,4,10,12,0,Jump Shot,21,-112,185,True
+Richaun Holmes,4,4,3,1,Jump Shot,13,40,130,True
+Richaun Holmes,4,1,22,1,Jump Shot,27,-113,248,False
+Richaun Holmes,4,2,30,1,Jump Shot,20,106,171,True
+Richaun Holmes,4,3,1,1,Jump Shot,21,-53,211,True
+Richaun Holmes,4,7,0,0,Jump Shot,18,95,156,True
+Richaun Holmes,4,9,2,0,Jump Shot,27,-43,270,False
+Richaun Holmes,3,5,50,1,Jump Shot,6,55,34,True
+Richaun Holmes,1,6,24,0,Jump Shot,12,-92,88,True
+Richaun Holmes,3,5,5,0,Jump Shot,24,6,248,False
+Richaun Holmes,3,3,23,0,Jump Shot,26,69,254,False
+Richaun Holmes,4,9,57,0,Jump Shot,26,-3,260,False
+Richaun Holmes,4,1,1,0,Jump Shot,18,-109,151,True
+Richaun Holmes,2,6,19,0,Jump Shot,25,-160,204,False
+Richaun Holmes,4,9,18,0,Jump Shot,23,-230,36,False
+Richaun Holmes,4,2,8,0,Jump Shot,16,-59,153,True
+Richaun Holmes,4,1,54,0,Jump Shot,26,-35,258,False
+Richaun Holmes,1,1,1,0,Jump Shot,24,105,225,False
+Richaun Holmes,4,5,9,1,Jump Shot,6,60,30,True
+Richaun Holmes,2,1,45,0,Jump Shot,21,77,203,True
+Richaun Holmes,1,0,28,0,Jump Shot,26,18,269,False
+Richaun Holmes,4,8,0,0,Jump Shot,25,-179,181,False
+Richaun Holmes,3,8,42,1,Jump Shot,25,-134,214,False
+Richaun Holmes,2,7,33,0,Jump Shot,24,181,171,False
+Richaun Holmes,4,8,25,0,Jump Shot,8,87,7,True
+Richaun Holmes,2,0,59,0,Jump Shot,9,-9,97,True
+Richaun Holmes,2,8,16,0,Jump Shot,13,2,133,True
+Richaun Holmes,2,6,4,1,Jump Shot,25,119,230,False
+Richaun Holmes,1,2,12,0,Jump Shot,26,86,246,False
+Richaun Holmes,4,0,36,0,Jump Shot,25,-48,247,False
+Richaun Holmes,4,2,4,0,Jump Shot,25,-49,251,False
+Richaun Holmes,4,0,0,0,Jump Shot,25,93,238,False
+Richaun Holmes,2,11,47,0,Jump Shot,23,226,67,False
+Richaun Holmes,2,0,32,1,Jump Shot,24,24,246,False
+Richaun Holmes,4,3,37,0,Jump Shot,24,-114,217,False
+Richaun Holmes,4,1,6,0,Jump Shot,26,151,220,False
+Richaun Holmes,1,5,28,0,Jump Shot,25,-29,254,False
+Richaun Holmes,3,2,51,0,Jump Shot,10,49,88,True
+Richaun Holmes,3,4,22,0,Jump Shot,25,-43,251,False
+Richaun Holmes,2,4,52,1,Layup Shot,3,29,21,True
+Richaun Holmes,2,4,0,0,Layup Shot,4,-47,-11,True
+Richaun Holmes,3,6,44,0,Layup Shot,2,-11,17,True
+Richaun Holmes,2,8,2,1,Layup Shot,1,8,16,True
+Richaun Holmes,4,7,29,0,Layup Shot,3,9,33,True
+Richaun Holmes,3,6,3,1,Layup Shot,4,40,-5,True
+Richaun Holmes,2,7,24,0,Layup Shot,3,-27,20,True
+Richaun Holmes,1,4,21,1,Layup Shot,0,-2,8,True
+Richaun Holmes,4,5,10,1,Layup Shot,1,12,8,True
+Richaun Holmes,1,2,59,0,Layup Shot,2,0,25,True
+Richaun Holmes,3,2,53,1,Layup Shot,3,-10,37,True
+Richaun Holmes,3,2,5,0,Layup Shot,4,-41,10,True
+Richaun Holmes,4,3,32,1,Layup Shot,2,2,23,True
+Richaun Holmes,4,6,56,1,Layup Shot,0,3,5,True
+Richaun Holmes,3,4,24,0,Layup Shot,2,9,20,True
+Richaun Holmes,1,7,55,0,Layup Shot,1,8,13,True
+Richaun Holmes,2,0,45,0,Layup Shot,3,-26,22,True
+Richaun Holmes,2,2,17,1,Layup Shot,0,-5,4,True
+Richaun Holmes,4,11,20,0,Layup Shot,3,0,35,True
+Richaun Holmes,3,6,48,0,Layup Shot,5,36,37,True
+Richaun Holmes,4,1,59,1,Layup Shot,2,-8,26,True
+Richaun Holmes,4,8,44,0,Layup Shot,3,-29,18,True
+Richaun Holmes,1,4,3,1,Layup Shot,4,-3,40,True
+Richaun Holmes,1,0,30,1,Pullup Jump shot,12,19,123,True
+Richaun Holmes,4,5,45,1,Pullup Jump shot,15,-19,153,True
+Richaun Holmes,2,5,35,1,Pullup Jump shot,9,88,29,True
+Richaun Holmes,4,4,37,0,Pullup Jump shot,15,-78,137,True
+Richaun Holmes,4,2,16,1,Putback Dunk Shot,0,0,-6,True
+Richaun Holmes,1,3,49,1,Putback Dunk Shot,0,0,-6,True
+Richaun Holmes,3,7,49,1,Putback Dunk Shot,0,0,-6,True
+Richaun Holmes,3,0,38,1,Putback Dunk Shot,0,0,-6,True
+Richaun Holmes,2,4,55,1,Putback Dunk Shot,0,0,-6,True
+Richaun Holmes,3,5,1,0,Putback Layup Shot,2,9,19,True
+Richaun Holmes,4,8,32,1,Putback Layup Shot,1,-6,8,True
+Richaun Holmes,3,2,19,1,Putback Layup Shot,2,16,23,True
+Richaun Holmes,3,5,46,1,Putback Layup Shot,2,22,14,True
+Richaun Holmes,3,2,23,0,Putback Layup Shot,2,24,10,True
+Richaun Holmes,3,5,36,1,Reverse Layup Shot,3,23,30,True
+Richaun Holmes,1,3,47,1,Reverse Layup Shot,1,2,11,True
+Richaun Holmes,2,3,34,1,Reverse Layup Shot,1,9,-5,True
+Richaun Holmes,3,7,23,1,Reverse Layup Shot,6,-58,38,True
+Richaun Holmes,3,5,35,1,Reverse Layup Shot,2,-21,17,True
+Richaun Holmes,4,8,5,1,Running Alley Oop Dunk Shot,0,-3,-1,True
+Richaun Holmes,4,2,2,1,Running Alley Oop Dunk Shot,0,1,6,True
+Richaun Holmes,1,9,57,1,Running Alley Oop Dunk Shot,2,-8,26,True
+Richaun Holmes,3,1,22,0,Running Alley Oop Dunk Shot,1,6,13,True
+Richaun Holmes,1,4,5,1,Running Dunk Shot,1,3,10,True
+Richaun Holmes,1,3,2,1,Running Dunk Shot,0,3,7,True
+Richaun Holmes,1,1,37,1,Running Dunk Shot,1,-3,10,True
+Richaun Holmes,4,0,13,1,Running Dunk Shot,1,-1,-11,True
+Richaun Holmes,4,10,53,1,Running Dunk Shot,1,-1,11,True
+Richaun Holmes,2,8,39,1,Running Dunk Shot,1,13,8,True
+Richaun Holmes,1,0,0,0,Running Jump Shot,55,87,549,False
+Richaun Holmes,4,5,39,1,Running Layup Shot,0,-7,1,True
+Richaun Holmes,4,6,55,0,Running Layup Shot,7,-40,58,True
+Richaun Holmes,3,0,23,1,Tip Dunk Shot,0,0,-6,True
+Richaun Holmes,2,10,1,0,Tip Layup Shot,0,0,-6,True
+Richaun Holmes,2,9,44,0,Tip Layup Shot,2,6,22,True
+Richaun Holmes,1,0,26,0,Tip Layup Shot,0,0,-6,True
+Richaun Holmes,2,4,35,1,Tip Layup Shot,0,0,-6,True
+Richaun Holmes,4,8,14,0,Tip Layup Shot,0,0,-6,True
+Richaun Holmes,2,3,15,1,Tip Layup Shot,0,0,-6,True
+Richaun Holmes,4,10,25,0,Tip Layup Shot,0,0,-6,True
+Richaun Holmes,1,5,3,0,Tip Layup Shot,2,3,25,True
+Richaun Holmes,3,4,22,1,Tip Layup Shot,0,0,-6,True
+Richaun Holmes,3,3,17,1,Turnaround Fadeaway Bank Jump Shot,4,26,31,True
+Richaun Holmes,4,2,3,0,Turnaround Hook Shot,3,-36,16,True
+Richaun Holmes,3,1,26,0,Turnaround Hook Shot,9,-77,49,True
+Richaun Holmes,4,5,18,0,Turnaround Jump Shot,11,25,115,True

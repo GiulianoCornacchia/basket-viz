@@ -1,0 +1,362 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Gorgui Dieng,3,0,6,1,Alley Oop Dunk Shot,2,9,26,True
+Gorgui Dieng,2,10,28,1,Alley Oop Layup shot,1,-13,15,True
+Gorgui Dieng,1,1,7,1,Cutting Dunk Shot,0,-6,3,True
+Gorgui Dieng,4,10,33,1,Cutting Dunk Shot,0,6,0,True
+Gorgui Dieng,2,10,48,1,Cutting Dunk Shot,1,7,9,True
+Gorgui Dieng,4,11,16,1,Cutting Dunk Shot,1,-3,11,True
+Gorgui Dieng,4,9,30,1,Cutting Dunk Shot,1,5,11,True
+Gorgui Dieng,2,1,11,1,Cutting Dunk Shot,1,1,10,True
+Gorgui Dieng,2,11,25,1,Cutting Dunk Shot,1,-3,15,True
+Gorgui Dieng,3,3,18,1,Cutting Dunk Shot,0,-1,1,True
+Gorgui Dieng,1,0,47,1,Cutting Dunk Shot,1,3,16,True
+Gorgui Dieng,1,3,0,1,Cutting Dunk Shot,1,8,13,True
+Gorgui Dieng,2,9,18,1,Cutting Layup Shot,2,-8,23,True
+Gorgui Dieng,1,1,47,1,Cutting Layup Shot,1,-2,11,True
+Gorgui Dieng,2,10,47,1,Cutting Layup Shot,1,-14,4,True
+Gorgui Dieng,2,9,29,1,Cutting Layup Shot,1,6,15,True
+Gorgui Dieng,2,11,31,1,Cutting Layup Shot,4,-28,31,True
+Gorgui Dieng,2,7,8,1,Cutting Layup Shot,2,24,11,True
+Gorgui Dieng,2,10,21,1,Cutting Layup Shot,1,7,10,True
+Gorgui Dieng,1,2,58,0,Cutting Layup Shot,2,6,29,True
+Gorgui Dieng,1,1,25,1,Cutting Layup Shot,1,12,4,True
+Gorgui Dieng,1,4,9,1,Cutting Layup Shot,1,2,15,True
+Gorgui Dieng,4,0,54,1,Driving Dunk Shot,1,-5,9,True
+Gorgui Dieng,1,3,23,1,Driving Dunk Shot,1,8,16,True
+Gorgui Dieng,1,0,36,1,Driving Dunk Shot,1,1,14,True
+Gorgui Dieng,4,9,23,1,Driving Finger Roll Layup Shot,4,-3,46,True
+Gorgui Dieng,2,5,40,0,Driving Floating Jump Shot,9,6,90,True
+Gorgui Dieng,3,2,35,0,Driving Layup Shot,1,-8,14,True
+Gorgui Dieng,2,11,38,0,Driving Layup Shot,2,-8,19,True
+Gorgui Dieng,3,0,9,0,Driving Layup Shot,3,-24,29,True
+Gorgui Dieng,2,11,15,1,Driving Layup Shot,3,8,33,True
+Gorgui Dieng,2,8,4,0,Driving Layup Shot,9,-19,90,True
+Gorgui Dieng,4,9,32,0,Driving Layup Shot,1,4,13,True
+Gorgui Dieng,3,0,59,0,Driving Layup Shot,1,13,11,True
+Gorgui Dieng,4,4,33,1,Driving Layup Shot,0,6,2,True
+Gorgui Dieng,2,6,5,0,Driving Reverse Layup Shot,3,30,16,True
+Gorgui Dieng,2,6,31,1,Dunk Shot,1,1,11,True
+Gorgui Dieng,3,0,2,1,Dunk Shot,1,-13,11,True
+Gorgui Dieng,4,8,54,1,Dunk Shot,2,-5,23,True
+Gorgui Dieng,1,3,31,1,Dunk Shot,0,-3,2,True
+Gorgui Dieng,4,10,35,1,Dunk Shot,1,-1,15,True
+Gorgui Dieng,4,9,8,1,Dunk Shot,0,1,9,True
+Gorgui Dieng,4,9,52,1,Dunk Shot,0,6,6,True
+Gorgui Dieng,2,1,34,1,Fadeaway Jump Shot,8,-84,15,True
+Gorgui Dieng,2,6,27,1,Fadeaway Jump Shot,14,-55,132,True
+Gorgui Dieng,2,9,1,0,Fadeaway Jump Shot,8,-79,14,True
+Gorgui Dieng,4,10,31,0,Fadeaway Jump Shot,10,-38,102,True
+Gorgui Dieng,4,9,57,0,Fadeaway Jump Shot,14,-8,147,True
+Gorgui Dieng,1,2,3,0,Fadeaway Jump Shot,14,-136,55,True
+Gorgui Dieng,2,7,49,1,Fadeaway Jump Shot,11,-106,35,True
+Gorgui Dieng,2,11,47,1,Fadeaway Jump Shot,6,7,68,True
+Gorgui Dieng,1,1,11,1,Fadeaway Jump Shot,8,-85,13,True
+Gorgui Dieng,4,0,56,0,Finger Roll Layup Shot,8,29,78,True
+Gorgui Dieng,2,8,23,1,Floating Jump shot,7,1,73,True
+Gorgui Dieng,2,6,2,1,Floating Jump shot,11,-9,111,True
+Gorgui Dieng,1,2,18,0,Floating Jump shot,8,-60,55,True
+Gorgui Dieng,2,9,28,1,Hook Shot,9,-40,85,True
+Gorgui Dieng,4,0,34,0,Hook Shot,7,-21,75,True
+Gorgui Dieng,3,0,0,1,Jump Bank Shot,24,-134,209,False
+Gorgui Dieng,3,6,22,1,Jump Bank Shot,9,90,43,True
+Gorgui Dieng,4,0,36,1,Jump Shot,21,-38,207,True
+Gorgui Dieng,4,6,51,0,Jump Shot,20,-111,167,True
+Gorgui Dieng,4,2,3,0,Jump Shot,17,57,165,True
+Gorgui Dieng,4,11,34,1,Jump Shot,21,-137,167,True
+Gorgui Dieng,3,0,1,0,Jump Shot,20,2,204,True
+Gorgui Dieng,4,9,33,1,Jump Shot,15,10,159,True
+Gorgui Dieng,2,11,13,0,Jump Shot,17,9,174,True
+Gorgui Dieng,1,1,40,0,Jump Shot,23,-230,-4,False
+Gorgui Dieng,1,1,29,1,Jump Shot,20,54,193,True
+Gorgui Dieng,2,9,41,1,Jump Shot,21,9,218,True
+Gorgui Dieng,1,1,23,1,Jump Shot,17,64,164,True
+Gorgui Dieng,3,2,58,1,Jump Shot,13,-138,9,True
+Gorgui Dieng,3,1,24,1,Jump Shot,17,-29,171,True
+Gorgui Dieng,1,0,0,0,Jump Shot,33,-77,331,False
+Gorgui Dieng,1,2,49,0,Jump Shot,19,-3,190,True
+Gorgui Dieng,2,9,27,1,Jump Shot,20,39,206,True
+Gorgui Dieng,4,8,2,0,Jump Shot,22,-225,17,False
+Gorgui Dieng,3,0,32,0,Jump Shot,7,-68,41,True
+Gorgui Dieng,1,0,40,0,Jump Shot,11,7,114,True
+Gorgui Dieng,4,9,14,1,Jump Shot,20,182,95,True
+Gorgui Dieng,4,8,45,1,Jump Shot,20,27,202,True
+Gorgui Dieng,4,11,21,0,Jump Shot,14,52,130,True
+Gorgui Dieng,3,1,36,0,Jump Shot,17,-93,143,True
+Gorgui Dieng,1,1,4,0,Jump Shot,17,81,157,True
+Gorgui Dieng,3,0,39,0,Jump Shot,23,231,8,False
+Gorgui Dieng,4,10,26,0,Jump Shot,23,-231,12,False
+Gorgui Dieng,4,9,53,1,Jump Shot,18,-72,170,True
+Gorgui Dieng,1,3,18,0,Jump Shot,10,-107,19,True
+Gorgui Dieng,1,3,0,0,Jump Shot,22,-226,6,False
+Gorgui Dieng,1,2,19,1,Jump Shot,23,231,21,False
+Gorgui Dieng,3,5,27,1,Jump Shot,22,-228,18,False
+Gorgui Dieng,1,0,49,1,Jump Shot,22,-225,22,False
+Gorgui Dieng,2,2,2,0,Jump Shot,15,-18,156,True
+Gorgui Dieng,3,1,16,1,Jump Shot,21,150,147,True
+Gorgui Dieng,2,1,44,1,Jump Shot,24,245,5,False
+Gorgui Dieng,2,6,53,0,Jump Shot,17,64,159,True
+Gorgui Dieng,3,2,33,1,Jump Shot,22,6,228,True
+Gorgui Dieng,1,2,13,1,Jump Shot,15,158,5,True
+Gorgui Dieng,2,11,47,0,Jump Shot,22,-220,-1,False
+Gorgui Dieng,1,4,26,0,Jump Shot,18,5,188,True
+Gorgui Dieng,2,6,16,0,Jump Shot,13,5,137,True
+Gorgui Dieng,2,9,57,0,Jump Shot,22,-226,21,False
+Gorgui Dieng,2,8,34,1,Jump Shot,19,-2,191,True
+Gorgui Dieng,1,1,18,0,Jump Shot,21,-74,198,True
+Gorgui Dieng,1,2,3,0,Jump Shot,23,230,37,False
+Gorgui Dieng,2,0,11,0,Jump Shot,25,215,146,False
+Gorgui Dieng,1,5,21,0,Jump Shot,21,47,209,True
+Gorgui Dieng,2,10,4,1,Jump Shot,21,-218,13,False
+Gorgui Dieng,4,5,53,1,Jump Shot,15,-152,-17,True
+Gorgui Dieng,4,0,23,0,Jump Shot,20,-98,185,True
+Gorgui Dieng,4,4,20,1,Jump Shot,26,187,189,False
+Gorgui Dieng,2,2,32,0,Jump Shot,11,-41,107,True
+Gorgui Dieng,4,9,23,1,Jump Shot,15,127,97,True
+Gorgui Dieng,1,1,24,0,Jump Shot,11,-103,40,True
+Gorgui Dieng,4,0,21,0,Jump Shot,25,-123,218,False
+Gorgui Dieng,2,0,58,0,Jump Shot,21,-52,209,True
+Gorgui Dieng,4,7,44,0,Jump Shot,20,-149,137,True
+Gorgui Dieng,1,0,41,0,Jump Shot,21,-2,213,True
+Gorgui Dieng,4,1,49,1,Jump Shot,20,-11,205,True
+Gorgui Dieng,3,2,25,0,Jump Shot,23,-236,27,False
+Gorgui Dieng,1,3,50,1,Jump Shot,20,202,45,True
+Gorgui Dieng,2,11,48,0,Jump Shot,21,-3,210,True
+Gorgui Dieng,4,1,56,0,Jump Shot,13,91,94,True
+Gorgui Dieng,3,2,17,0,Jump Shot,17,-171,22,True
+Gorgui Dieng,1,3,20,1,Jump Shot,18,-179,34,True
+Gorgui Dieng,2,8,51,0,Jump Shot,16,81,141,True
+Gorgui Dieng,1,0,37,1,Jump Shot,14,143,23,True
+Gorgui Dieng,2,6,34,0,Jump Shot,14,143,37,True
+Gorgui Dieng,1,2,0,0,Jump Shot,23,-227,48,False
+Gorgui Dieng,4,11,41,0,Jump Shot,16,3,162,True
+Gorgui Dieng,2,8,11,1,Jump Shot,18,8,182,True
+Gorgui Dieng,1,1,28,0,Jump Shot,25,-111,225,False
+Gorgui Dieng,1,4,13,0,Jump Shot,20,62,194,True
+Gorgui Dieng,1,3,21,0,Jump Shot,17,-62,162,True
+Gorgui Dieng,3,3,7,0,Jump Shot,16,-1,160,True
+Gorgui Dieng,1,0,39,0,Jump Shot,20,200,41,True
+Gorgui Dieng,3,3,42,0,Jump Shot,19,104,166,True
+Gorgui Dieng,1,3,9,0,Jump Shot,20,-16,206,True
+Gorgui Dieng,2,11,10,1,Jump Shot,11,1,117,True
+Gorgui Dieng,2,8,34,1,Jump Shot,20,120,163,True
+Gorgui Dieng,1,3,51,0,Jump Shot,21,114,178,True
+Gorgui Dieng,3,1,7,1,Jump Shot,16,161,29,True
+Gorgui Dieng,4,10,23,0,Jump Shot,19,-188,38,True
+Gorgui Dieng,4,10,1,1,Jump Shot,15,-153,-9,True
+Gorgui Dieng,2,10,38,0,Jump Shot,14,141,51,True
+Gorgui Dieng,1,1,15,1,Jump Shot,18,-111,146,True
+Gorgui Dieng,2,10,55,0,Jump Shot,19,60,187,True
+Gorgui Dieng,1,4,26,1,Jump Shot,21,-37,208,True
+Gorgui Dieng,4,8,10,1,Jump Shot,21,18,214,True
+Gorgui Dieng,3,2,34,1,Jump Shot,21,-78,199,True
+Gorgui Dieng,2,5,44,1,Jump Shot,20,36,197,True
+Gorgui Dieng,2,11,12,0,Jump Shot,10,-60,82,True
+Gorgui Dieng,1,0,45,1,Jump Shot,17,174,10,True
+Gorgui Dieng,3,2,17,0,Jump Shot,18,71,167,True
+Gorgui Dieng,3,3,14,0,Jump Shot,19,-41,190,True
+Gorgui Dieng,2,1,7,1,Jump Shot,19,-55,189,True
+Gorgui Dieng,2,2,9,0,Jump Shot,17,-91,155,True
+Gorgui Dieng,3,3,15,0,Jump Shot,23,-234,4,False
+Gorgui Dieng,2,9,40,0,Jump Shot,23,-228,36,False
+Gorgui Dieng,3,2,41,0,Jump Shot,6,24,65,True
+Gorgui Dieng,2,10,46,1,Jump Shot,23,230,29,False
+Gorgui Dieng,1,0,49,1,Jump Shot,23,-234,18,False
+Gorgui Dieng,3,3,24,0,Jump Shot,23,-232,-6,False
+Gorgui Dieng,4,11,9,1,Jump Shot,22,-226,41,False
+Gorgui Dieng,2,11,33,0,Jump Shot,17,72,156,True
+Gorgui Dieng,2,9,3,1,Jump Shot,25,-118,224,False
+Gorgui Dieng,4,5,58,0,Jump Shot,19,32,190,True
+Gorgui Dieng,1,2,34,0,Jump Shot,20,149,146,True
+Gorgui Dieng,4,8,48,0,Jump Shot,22,221,8,False
+Gorgui Dieng,3,1,16,1,Jump Shot,15,154,32,True
+Gorgui Dieng,1,1,8,1,Jump Shot,20,-96,177,True
+Gorgui Dieng,2,10,29,0,Jump Shot,20,-35,200,True
+Gorgui Dieng,1,4,3,1,Jump Shot,19,103,165,True
+Gorgui Dieng,2,11,3,0,Jump Shot,22,227,-5,False
+Gorgui Dieng,2,2,33,0,Jump Shot,18,-107,157,True
+Gorgui Dieng,2,11,11,1,Jump Shot,21,-8,219,True
+Gorgui Dieng,4,9,5,0,Jump Shot,19,-130,146,True
+Gorgui Dieng,1,1,52,0,Jump Shot,5,-33,48,True
+Gorgui Dieng,4,9,43,0,Jump Shot,23,-230,-7,False
+Gorgui Dieng,4,6,34,0,Jump Shot,18,-179,21,True
+Gorgui Dieng,2,10,2,0,Jump Shot,14,147,4,True
+Gorgui Dieng,1,1,19,1,Jump Shot,21,31,215,True
+Gorgui Dieng,4,9,45,0,Jump Shot,13,-14,137,True
+Gorgui Dieng,4,9,12,0,Jump Shot,21,-76,199,True
+Gorgui Dieng,3,2,14,0,Jump Shot,17,16,172,True
+Gorgui Dieng,2,9,29,1,Jump Shot,19,-38,188,True
+Gorgui Dieng,1,3,53,1,Jump Shot,18,-84,163,True
+Gorgui Dieng,4,10,56,1,Jump Shot,13,87,104,True
+Gorgui Dieng,2,7,10,1,Jump Shot,10,-109,13,True
+Gorgui Dieng,2,11,6,0,Jump Shot,22,226,19,False
+Gorgui Dieng,2,0,7,0,Jump Shot,22,-227,4,False
+Gorgui Dieng,2,9,43,0,Jump Shot,16,163,43,True
+Gorgui Dieng,4,11,33,1,Jump Shot,18,178,50,True
+Gorgui Dieng,3,1,14,1,Jump Shot,21,111,183,True
+Gorgui Dieng,1,4,17,1,Jump Shot,20,3,202,True
+Gorgui Dieng,4,4,24,1,Jump Shot,18,-77,172,True
+Gorgui Dieng,4,0,22,1,Jump Shot,25,-223,127,False
+Gorgui Dieng,2,8,51,1,Jump Shot,14,18,140,True
+Gorgui Dieng,4,6,56,0,Jump Shot,23,-237,5,False
+Gorgui Dieng,3,5,40,1,Jump Shot,18,-110,146,True
+Gorgui Dieng,2,11,32,1,Jump Shot,21,-211,27,True
+Gorgui Dieng,2,1,53,0,Jump Shot,23,-231,26,False
+Gorgui Dieng,4,3,4,0,Jump Shot,23,-234,13,False
+Gorgui Dieng,3,8,32,0,Jump Shot,20,-1,207,True
+Gorgui Dieng,2,0,13,1,Jump Shot,17,-95,147,True
+Gorgui Dieng,4,1,53,1,Jump Shot,20,-138,153,True
+Gorgui Dieng,3,4,0,1,Jump Shot,20,-32,200,True
+Gorgui Dieng,1,1,29,0,Jump Shot,22,-228,10,False
+Gorgui Dieng,3,1,48,1,Jump Shot,22,226,16,False
+Gorgui Dieng,1,0,45,0,Jump Shot,11,-101,64,True
+Gorgui Dieng,2,8,50,1,Jump Shot,20,-46,200,True
+Gorgui Dieng,1,1,23,0,Jump Shot,7,14,77,True
+Gorgui Dieng,1,2,3,0,Jump Shot,22,228,17,False
+Gorgui Dieng,3,2,49,1,Jump Shot,24,-240,0,False
+Gorgui Dieng,1,2,45,0,Jump Shot,23,-230,4,False
+Gorgui Dieng,1,2,41,0,Jump Shot,11,115,15,True
+Gorgui Dieng,2,9,13,0,Jump Shot,23,-230,9,False
+Gorgui Dieng,4,1,15,1,Jump Shot,18,180,12,True
+Gorgui Dieng,4,0,6,0,Jump Shot,18,-187,-15,True
+Gorgui Dieng,1,0,57,0,Jump Shot,15,141,66,True
+Gorgui Dieng,4,0,46,0,Jump Shot,19,106,158,True
+Gorgui Dieng,1,1,42,0,Jump Shot,19,9,190,True
+Gorgui Dieng,3,1,58,1,Jump Shot,16,15,165,True
+Gorgui Dieng,2,9,40,0,Jump Shot,7,1,71,True
+Gorgui Dieng,2,7,43,0,Jump Shot,19,70,183,True
+Gorgui Dieng,3,6,21,1,Jump Shot,23,-236,8,False
+Gorgui Dieng,1,0,32,1,Jump Shot,16,-44,163,True
+Gorgui Dieng,3,4,31,0,Jump Shot,22,226,17,False
+Gorgui Dieng,1,4,13,0,Jump Shot,24,-178,172,False
+Gorgui Dieng,3,3,0,0,Jump Shot,17,-175,32,True
+Gorgui Dieng,1,1,8,0,Jump Shot,22,224,10,False
+Gorgui Dieng,2,2,13,1,Jump Shot,13,-131,11,True
+Gorgui Dieng,3,0,0,1,Jump Shot,16,144,76,True
+Gorgui Dieng,3,1,6,1,Jump Shot,14,129,55,True
+Gorgui Dieng,1,0,0,0,Jump Shot,25,-139,216,False
+Gorgui Dieng,4,11,15,1,Jump Shot,13,-11,137,True
+Gorgui Dieng,2,10,17,1,Jump Shot,20,94,185,True
+Gorgui Dieng,1,3,31,0,Jump Shot,17,179,8,True
+Gorgui Dieng,1,4,16,1,Jump Shot,22,-228,7,False
+Gorgui Dieng,2,11,17,0,Jump Shot,22,-224,5,False
+Gorgui Dieng,2,4,33,0,Jump Shot,25,175,189,False
+Gorgui Dieng,1,3,31,0,Jump Shot,21,-65,210,True
+Gorgui Dieng,1,3,1,0,Jump Shot,23,232,0,False
+Gorgui Dieng,3,0,59,1,Jump Shot,12,-31,121,True
+Gorgui Dieng,3,3,1,0,Jump Shot,25,-139,214,False
+Gorgui Dieng,2,4,31,1,Jump Shot,13,3,130,True
+Gorgui Dieng,3,3,3,0,Jump Shot,22,-225,-7,False
+Gorgui Dieng,2,11,39,0,Jump Shot,7,21,74,True
+Gorgui Dieng,2,6,38,1,Jump Shot,22,226,8,False
+Gorgui Dieng,2,9,55,1,Jump Shot,15,98,123,True
+Gorgui Dieng,4,10,6,0,Jump Shot,23,232,58,False
+Gorgui Dieng,4,5,31,0,Jump Shot,2,16,18,True
+Gorgui Dieng,4,10,59,1,Jump Shot,21,-78,201,True
+Gorgui Dieng,1,3,58,0,Jump Shot,18,-189,4,True
+Gorgui Dieng,3,1,4,1,Jump Shot,21,-38,210,True
+Gorgui Dieng,1,0,43,0,Jump Shot,20,-204,15,True
+Gorgui Dieng,2,11,26,0,Jump Shot,22,-222,22,False
+Gorgui Dieng,2,10,26,1,Jump Shot,20,27,206,True
+Gorgui Dieng,2,1,10,1,Jump Shot,20,-87,183,True
+Gorgui Dieng,4,10,48,0,Jump Shot,23,231,0,False
+Gorgui Dieng,1,1,35,0,Jump Shot,18,47,176,True
+Gorgui Dieng,4,11,15,0,Layup Shot,1,-10,-17,True
+Gorgui Dieng,1,2,45,0,Layup Shot,3,22,21,True
+Gorgui Dieng,3,2,54,1,Layup Shot,1,-10,1,True
+Gorgui Dieng,1,1,38,0,Layup Shot,3,3,32,True
+Gorgui Dieng,4,9,9,1,Layup Shot,1,4,13,True
+Gorgui Dieng,1,1,7,0,Layup Shot,0,-3,7,True
+Gorgui Dieng,3,0,37,0,Layup Shot,4,11,44,True
+Gorgui Dieng,2,10,54,1,Layup Shot,1,1,11,True
+Gorgui Dieng,4,9,48,0,Layup Shot,3,19,28,True
+Gorgui Dieng,4,8,19,0,Layup Shot,1,-5,17,True
+Gorgui Dieng,1,0,27,1,Layup Shot,1,-1,13,True
+Gorgui Dieng,1,4,13,0,Layup Shot,3,-24,21,True
+Gorgui Dieng,2,7,44,0,Layup Shot,3,-35,13,True
+Gorgui Dieng,2,11,10,0,Layup Shot,4,-34,29,True
+Gorgui Dieng,1,1,11,0,Layup Shot,3,-3,37,True
+Gorgui Dieng,2,10,51,1,Layup Shot,1,6,15,True
+Gorgui Dieng,3,0,39,0,Layup Shot,0,-2,4,True
+Gorgui Dieng,2,5,12,1,Layup Shot,2,1,27,True
+Gorgui Dieng,3,1,23,1,Layup Shot,3,-14,37,True
+Gorgui Dieng,2,3,31,1,Layup Shot,1,-16,-2,True
+Gorgui Dieng,1,1,11,0,Layup Shot,0,0,4,True
+Gorgui Dieng,2,0,7,1,Layup Shot,2,7,21,True
+Gorgui Dieng,4,9,19,0,Layup Shot,4,-11,41,True
+Gorgui Dieng,1,1,50,1,Layup Shot,1,8,8,True
+Gorgui Dieng,4,9,24,0,Layup Shot,2,6,26,True
+Gorgui Dieng,4,9,27,0,Layup Shot,2,11,22,True
+Gorgui Dieng,4,0,45,1,Layup Shot,1,3,17,True
+Gorgui Dieng,2,10,44,0,Layup Shot,3,13,29,True
+Gorgui Dieng,1,0,24,0,Layup Shot,5,-22,49,True
+Gorgui Dieng,4,11,6,0,Layup Shot,2,-18,16,True
+Gorgui Dieng,3,0,35,0,Layup Shot,1,15,8,True
+Gorgui Dieng,2,7,37,1,Pullup Jump shot,10,-19,101,True
+Gorgui Dieng,1,4,43,1,Pullup Jump shot,16,-165,4,True
+Gorgui Dieng,1,0,7,1,Pullup Jump shot,14,-16,149,True
+Gorgui Dieng,2,5,17,0,Pullup Jump shot,15,155,5,True
+Gorgui Dieng,4,1,57,0,Pullup Jump shot,13,-49,130,True
+Gorgui Dieng,1,2,45,0,Pullup Jump shot,18,-2,184,True
+Gorgui Dieng,4,3,41,1,Putback Dunk Shot,0,0,-6,True
+Gorgui Dieng,4,9,12,1,Putback Dunk Shot,0,0,-6,True
+Gorgui Dieng,4,11,12,0,Putback Layup Shot,1,-9,10,True
+Gorgui Dieng,2,8,21,1,Putback Layup Shot,0,0,-6,True
+Gorgui Dieng,4,7,50,1,Putback Layup Shot,1,1,10,True
+Gorgui Dieng,1,2,57,0,Reverse Layup Shot,3,10,31,True
+Gorgui Dieng,3,0,53,1,Reverse Layup Shot,0,3,7,True
+Gorgui Dieng,4,11,41,0,Reverse Layup Shot,2,-16,19,True
+Gorgui Dieng,1,1,9,1,Running Alley Oop Dunk Shot,1,11,13,True
+Gorgui Dieng,3,2,34,1,Running Dunk Shot,1,-2,11,True
+Gorgui Dieng,4,2,58,1,Running Jump Shot,7,28,66,True
+Gorgui Dieng,1,1,31,1,Running Layup Shot,1,-1,12,True
+Gorgui Dieng,2,6,40,0,Running Layup Shot,0,0,9,True
+Gorgui Dieng,3,1,11,0,Step Back Jump shot,19,95,173,True
+Gorgui Dieng,4,11,23,0,Step Back Jump shot,14,3,142,True
+Gorgui Dieng,4,3,51,0,Step Back Jump shot,23,230,-1,False
+Gorgui Dieng,1,4,32,1,Step Back Jump shot,16,-107,131,True
+Gorgui Dieng,2,9,39,0,Step Back Jump shot,10,36,94,True
+Gorgui Dieng,4,4,6,1,Step Back Jump shot,10,-89,54,True
+Gorgui Dieng,3,1,35,0,Step Back Jump shot,21,-196,96,True
+Gorgui Dieng,4,9,40,0,Step Back Jump shot,18,-61,179,True
+Gorgui Dieng,2,7,10,0,Tip Dunk Shot,0,0,-6,True
+Gorgui Dieng,1,0,37,0,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,2,3,57,1,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,3,0,29,0,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,1,0,53,1,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,1,0,29,1,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,3,2,59,1,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,3,1,57,0,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,1,0,5,1,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,4,9,12,0,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,4,3,28,1,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,4,10,0,0,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,3,0,29,1,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,3,0,43,1,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,4,5,6,1,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,2,11,10,0,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,1,0,0,1,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,1,0,4,0,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,2,7,48,1,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,3,0,24,0,Tip Layup Shot,0,0,-6,True
+Gorgui Dieng,2,10,37,0,Tip Layup Shot,0,2,3,True
+Gorgui Dieng,2,5,41,1,Turnaround Fadeaway Bank Jump Shot,4,-43,18,True
+Gorgui Dieng,2,4,38,0,Turnaround Fadeaway Bank Jump Shot,8,67,55,True
+Gorgui Dieng,4,1,25,0,Turnaround Fadeaway shot,13,-5,137,True
+Gorgui Dieng,4,6,40,1,Turnaround Fadeaway shot,11,-117,21,True
+Gorgui Dieng,1,0,35,0,Turnaround Fadeaway shot,8,-6,89,True
+Gorgui Dieng,1,3,10,1,Turnaround Fadeaway shot,16,-59,159,True
+Gorgui Dieng,2,7,41,0,Turnaround Hook Shot,3,3,35,True
+Gorgui Dieng,1,1,22,1,Turnaround Hook Shot,5,18,52,True
+Gorgui Dieng,4,9,20,1,Turnaround Hook Shot,5,0,58,True
+Gorgui Dieng,3,1,3,0,Turnaround Hook Shot,8,-18,79,True
+Gorgui Dieng,2,10,25,1,Turnaround Jump Shot,15,-108,108,True
+Gorgui Dieng,2,10,1,1,Turnaround Jump Shot,13,-12,131,True
+Gorgui Dieng,4,8,59,1,Turnaround Jump Shot,16,-161,-7,True
+Gorgui Dieng,4,7,52,1,Turnaround Jump Shot,13,-130,49,True
+Gorgui Dieng,1,1,59,0,Turnaround Jump Shot,13,-114,75,True
+Gorgui Dieng,4,11,39,0,Turnaround Jump Shot,16,-166,17,True
+Gorgui Dieng,1,2,36,0,Turnaround Jump Shot,18,172,62,True
+Gorgui Dieng,2,11,18,1,Turnaround Jump Shot,8,-84,25,True
+Gorgui Dieng,4,7,28,0,Turnaround Jump Shot,8,-2,84,True
+Gorgui Dieng,4,4,8,0,Turnaround Jump Shot,9,90,39,True
+Gorgui Dieng,3,1,4,0,Turnaround Jump Shot,10,102,38,True

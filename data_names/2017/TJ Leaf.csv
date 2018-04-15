@@ -1,0 +1,124 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+TJ Leaf,4,11,29,1,Cutting Layup Shot,1,-5,15,True
+TJ Leaf,4,0,54,1,Driving Dunk Shot,2,-7,20,True
+TJ Leaf,4,3,4,1,Driving Dunk Shot,2,8,23,True
+TJ Leaf,4,5,21,0,Driving Finger Roll Layup Shot,0,2,5,True
+TJ Leaf,2,10,39,1,Driving Finger Roll Layup Shot,2,8,23,True
+TJ Leaf,4,4,16,0,Driving Finger Roll Layup Shot,9,68,61,True
+TJ Leaf,4,2,0,1,Driving Finger Roll Layup Shot,0,4,7,True
+TJ Leaf,2,9,46,0,Driving Finger Roll Layup Shot,1,2,10,True
+TJ Leaf,4,11,29,1,Driving Floating Jump Shot,11,1,113,True
+TJ Leaf,1,0,28,0,Driving Floating Jump Shot,4,-38,32,True
+TJ Leaf,4,4,58,0,Driving Floating Jump Shot,12,-8,128,True
+TJ Leaf,2,9,21,0,Driving Layup Shot,0,-3,8,True
+TJ Leaf,4,10,25,1,Driving Layup Shot,0,-8,4,True
+TJ Leaf,4,10,20,1,Driving Layup Shot,1,0,15,True
+TJ Leaf,1,2,7,0,Driving Layup Shot,1,-7,12,True
+TJ Leaf,4,1,20,1,Driving Layup Shot,1,3,19,True
+TJ Leaf,2,11,43,1,Driving Layup Shot,1,6,15,True
+TJ Leaf,2,11,46,0,Driving Layup Shot,3,9,29,True
+TJ Leaf,1,2,8,0,Driving Layup Shot,1,5,18,True
+TJ Leaf,4,8,46,1,Driving Layup Shot,1,-7,15,True
+TJ Leaf,4,11,36,1,Dunk Shot,3,1,32,True
+TJ Leaf,2,8,20,1,Fadeaway Jump Shot,13,-130,46,True
+TJ Leaf,4,3,33,0,Floating Jump shot,11,-25,113,True
+TJ Leaf,2,10,51,0,Floating Jump shot,10,-13,107,True
+TJ Leaf,4,3,9,0,Floating Jump shot,8,-86,19,True
+TJ Leaf,4,6,30,1,Hook Bank Shot,1,5,14,True
+TJ Leaf,2,11,48,1,Hook Bank Shot,3,26,25,True
+TJ Leaf,4,1,59,0,Hook Shot,7,74,-4,True
+TJ Leaf,4,3,6,0,Hook Shot,1,2,10,True
+TJ Leaf,4,2,57,0,Hook Shot,11,47,104,True
+TJ Leaf,4,11,25,0,Hook Shot,7,63,31,True
+TJ Leaf,2,8,54,0,Jump Shot,22,228,20,False
+TJ Leaf,2,4,58,1,Jump Shot,21,173,122,True
+TJ Leaf,4,5,32,0,Jump Shot,23,-231,36,False
+TJ Leaf,3,9,13,0,Jump Shot,26,-130,231,False
+TJ Leaf,3,7,11,1,Jump Shot,10,-106,14,True
+TJ Leaf,3,6,36,0,Jump Shot,26,-96,252,False
+TJ Leaf,4,4,9,1,Jump Shot,27,-185,209,False
+TJ Leaf,1,0,53,0,Jump Shot,25,73,248,False
+TJ Leaf,1,1,25,0,Jump Shot,27,135,239,False
+TJ Leaf,2,11,7,1,Jump Shot,23,-234,22,False
+TJ Leaf,2,11,9,0,Jump Shot,15,-13,152,True
+TJ Leaf,2,10,27,0,Jump Shot,23,-231,11,False
+TJ Leaf,2,11,0,0,Jump Shot,25,15,258,False
+TJ Leaf,4,10,25,0,Jump Shot,26,-149,214,False
+TJ Leaf,3,1,55,1,Jump Shot,26,-22,262,False
+TJ Leaf,1,1,23,0,Jump Shot,26,68,252,False
+TJ Leaf,4,2,59,0,Jump Shot,23,228,57,False
+TJ Leaf,4,1,59,0,Jump Shot,7,-9,77,True
+TJ Leaf,2,9,38,1,Jump Shot,27,-195,197,False
+TJ Leaf,4,3,24,0,Jump Shot,20,-4,201,True
+TJ Leaf,1,0,54,0,Jump Shot,25,125,226,False
+TJ Leaf,2,9,8,0,Jump Shot,23,-229,50,False
+TJ Leaf,4,0,37,1,Jump Shot,26,-92,253,False
+TJ Leaf,4,2,18,1,Jump Shot,3,-19,30,True
+TJ Leaf,4,1,36,1,Jump Shot,10,105,13,True
+TJ Leaf,2,10,4,1,Jump Shot,24,-155,194,False
+TJ Leaf,1,1,24,0,Jump Shot,17,-175,13,True
+TJ Leaf,2,8,17,1,Jump Shot,22,227,-5,False
+TJ Leaf,4,1,2,1,Jump Shot,23,234,17,False
+TJ Leaf,4,7,43,0,Jump Shot,27,-82,260,False
+TJ Leaf,2,9,5,0,Jump Shot,25,-145,214,False
+TJ Leaf,2,6,18,0,Jump Shot,22,-223,0,False
+TJ Leaf,4,11,49,0,Jump Shot,27,133,236,False
+TJ Leaf,1,0,1,1,Jump Shot,21,-36,207,True
+TJ Leaf,2,10,9,0,Jump Shot,3,-28,23,True
+TJ Leaf,2,7,50,1,Jump Shot,26,223,147,False
+TJ Leaf,3,2,32,0,Jump Shot,16,-2,165,True
+TJ Leaf,2,11,18,1,Jump Shot,27,-161,223,False
+TJ Leaf,4,8,26,0,Jump Shot,13,6,135,True
+TJ Leaf,4,1,56,0,Jump Shot,26,39,262,False
+TJ Leaf,3,2,16,0,Jump Shot,22,-225,21,False
+TJ Leaf,3,2,13,0,Jump Shot,23,-230,62,False
+TJ Leaf,1,2,42,1,Jump Shot,10,-107,11,True
+TJ Leaf,2,7,53,1,Jump Shot,23,231,27,False
+TJ Leaf,4,7,54,0,Jump Shot,26,153,213,False
+TJ Leaf,2,9,3,1,Jump Shot,27,72,263,False
+TJ Leaf,3,0,27,1,Jump Shot,29,-99,277,False
+TJ Leaf,4,11,29,0,Jump Shot,7,59,38,True
+TJ Leaf,4,11,27,1,Jump Shot,7,-47,59,True
+TJ Leaf,4,8,12,0,Jump Shot,23,230,54,False
+TJ Leaf,1,0,41,1,Jump Shot,22,226,-9,False
+TJ Leaf,2,10,3,1,Layup Shot,0,2,1,True
+TJ Leaf,2,9,9,1,Layup Shot,1,8,8,True
+TJ Leaf,4,5,49,0,Layup Shot,3,31,-9,True
+TJ Leaf,4,10,42,1,Layup Shot,2,14,21,True
+TJ Leaf,4,6,55,0,Layup Shot,1,9,16,True
+TJ Leaf,4,0,29,1,Layup Shot,2,-9,23,True
+TJ Leaf,4,9,39,0,Layup Shot,1,-2,10,True
+TJ Leaf,2,6,49,0,Layup Shot,1,3,16,True
+TJ Leaf,3,2,28,1,Layup Shot,0,-5,5,True
+TJ Leaf,2,8,28,0,Layup Shot,1,-11,11,True
+TJ Leaf,4,4,58,1,Layup Shot,2,12,19,True
+TJ Leaf,2,9,28,1,Pullup Jump shot,17,13,178,True
+TJ Leaf,4,3,24,0,Pullup Jump shot,19,144,134,True
+TJ Leaf,1,0,33,1,Pullup Jump shot,11,-18,110,True
+TJ Leaf,2,11,16,0,Pullup Jump shot,18,-30,179,True
+TJ Leaf,3,1,50,0,Pullup Jump shot,1,-13,-1,True
+TJ Leaf,4,8,36,0,Pullup Jump shot,6,27,55,True
+TJ Leaf,4,5,51,0,Pullup Jump shot,16,-63,157,True
+TJ Leaf,2,10,5,1,Putback Layup Shot,0,8,1,True
+TJ Leaf,2,9,18,1,Putback Layup Shot,0,0,-6,True
+TJ Leaf,2,10,22,1,Putback Layup Shot,0,0,-6,True
+TJ Leaf,2,10,26,0,Putback Layup Shot,0,0,-6,True
+TJ Leaf,4,0,26,0,Putback Layup Shot,0,0,-6,True
+TJ Leaf,4,1,32,1,Putback Layup Shot,0,-4,5,True
+TJ Leaf,3,5,51,1,Reverse Layup Shot,1,0,14,True
+TJ Leaf,2,8,20,1,Running Dunk Shot,1,6,11,True
+TJ Leaf,2,10,54,1,Running Dunk Shot,1,-7,15,True
+TJ Leaf,1,1,21,1,Running Layup Shot,1,2,17,True
+TJ Leaf,4,3,14,0,Running Layup Shot,1,2,16,True
+TJ Leaf,4,8,34,0,Running Reverse Layup Shot,1,0,11,True
+TJ Leaf,2,7,35,1,Tip Layup Shot,0,0,-6,True
+TJ Leaf,4,5,43,0,Tip Layup Shot,0,0,-6,True
+TJ Leaf,4,1,35,0,Tip Layup Shot,0,0,-6,True
+TJ Leaf,4,0,36,0,Tip Layup Shot,0,0,-6,True
+TJ Leaf,2,8,36,1,Turnaround Fadeaway Bank Jump Shot,5,-46,27,True
+TJ Leaf,2,10,13,0,Turnaround Fadeaway shot,8,-86,-4,True
+TJ Leaf,3,0,26,0,Turnaround Hook Shot,1,16,6,True
+TJ Leaf,3,1,38,1,Turnaround Jump Shot,4,-16,43,True
+TJ Leaf,2,9,31,0,Turnaround Jump Shot,9,-96,18,True
+TJ Leaf,2,10,3,0,Turnaround Jump Shot,14,98,111,True
+TJ Leaf,2,10,52,1,Turnaround Jump Shot,3,22,24,True

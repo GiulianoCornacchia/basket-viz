@@ -1,0 +1,10 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Aaron Jackson,2,8,50,1,Cutting Layup Shot,2,16,15,True
+Aaron Jackson,1,4,5,0,Cutting Layup Shot,4,9,48,True
+Aaron Jackson,4,8,43,1,Driving Floating Bank Jump Shot,8,65,52,True
+Aaron Jackson,3,7,43,0,Driving Layup Shot,3,27,19,True
+Aaron Jackson,4,1,27,0,Jump Shot,26,-74,250,False
+Aaron Jackson,2,1,24,0,Jump Shot,25,130,218,False
+Aaron Jackson,4,10,24,0,Jump Shot,23,-236,2,False
+Aaron Jackson,3,5,14,0,Layup Shot,2,5,23,True
+Aaron Jackson,2,8,29,1,Pullup Jump shot,24,-147,202,False

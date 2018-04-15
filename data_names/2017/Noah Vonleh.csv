@@ -1,0 +1,186 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Noah Vonleh,4,0,39,1,Alley Oop Dunk Shot,1,-6,15,True
+Noah Vonleh,1,11,14,1,Alley Oop Dunk Shot,0,-5,-5,True
+Noah Vonleh,1,5,27,1,Cutting Dunk Shot,0,-5,6,True
+Noah Vonleh,1,9,4,0,Cutting Dunk Shot,1,-1,10,True
+Noah Vonleh,3,6,59,1,Cutting Dunk Shot,1,5,18,True
+Noah Vonleh,4,1,29,1,Cutting Dunk Shot,0,2,-2,True
+Noah Vonleh,3,6,12,1,Cutting Dunk Shot,0,-4,3,True
+Noah Vonleh,4,11,42,1,Cutting Dunk Shot,1,1,11,True
+Noah Vonleh,4,0,59,0,Cutting Layup Shot,0,2,5,True
+Noah Vonleh,4,9,4,1,Cutting Layup Shot,0,-2,1,True
+Noah Vonleh,3,1,35,1,Cutting Layup Shot,1,2,18,True
+Noah Vonleh,1,9,17,0,Cutting Layup Shot,0,5,4,True
+Noah Vonleh,3,7,56,0,Cutting Layup Shot,2,14,15,True
+Noah Vonleh,2,8,9,1,Driving Dunk Shot,0,0,0,True
+Noah Vonleh,3,4,53,1,Driving Dunk Shot,1,-6,13,True
+Noah Vonleh,2,7,41,1,Driving Finger Roll Layup Shot,1,19,1,True
+Noah Vonleh,3,10,17,1,Driving Floating Bank Jump Shot,1,8,15,True
+Noah Vonleh,3,2,35,1,Driving Floating Jump Shot,2,26,-4,True
+Noah Vonleh,4,1,20,0,Driving Floating Jump Shot,2,-16,16,True
+Noah Vonleh,4,0,38,0,Driving Floating Jump Shot,9,50,78,True
+Noah Vonleh,1,0,44,1,Driving Hook Shot,3,-6,38,True
+Noah Vonleh,4,5,32,0,Driving Hook Shot,3,-5,37,True
+Noah Vonleh,3,8,7,0,Driving Hook Shot,3,32,17,True
+Noah Vonleh,2,7,41,0,Driving Hook Shot,3,33,20,True
+Noah Vonleh,4,4,23,0,Driving Layup Shot,6,49,46,True
+Noah Vonleh,2,11,39,1,Driving Layup Shot,1,11,5,True
+Noah Vonleh,4,9,45,0,Driving Layup Shot,1,11,15,True
+Noah Vonleh,2,6,15,0,Driving Layup Shot,2,21,5,True
+Noah Vonleh,4,1,38,1,Driving Layup Shot,2,-20,13,True
+Noah Vonleh,1,6,9,1,Driving Layup Shot,2,15,15,True
+Noah Vonleh,3,8,24,0,Driving Layup Shot,2,19,15,True
+Noah Vonleh,4,3,35,0,Driving Layup Shot,0,1,3,True
+Noah Vonleh,4,7,44,1,Driving Layup Shot,1,11,11,True
+Noah Vonleh,2,4,42,0,Driving Reverse Layup Shot,0,-2,1,True
+Noah Vonleh,4,10,34,1,Dunk Shot,1,7,10,True
+Noah Vonleh,2,9,58,0,Dunk Shot,0,2,7,True
+Noah Vonleh,3,10,24,1,Dunk Shot,1,3,10,True
+Noah Vonleh,1,5,25,1,Dunk Shot,0,3,2,True
+Noah Vonleh,4,11,29,1,Dunk Shot,1,-6,15,True
+Noah Vonleh,1,6,30,1,Dunk Shot,1,8,13,True
+Noah Vonleh,4,8,53,0,Dunk Shot,1,17,10,True
+Noah Vonleh,4,8,39,1,Fadeaway Jump Shot,15,153,16,True
+Noah Vonleh,4,5,37,0,Fadeaway Jump Shot,10,24,100,True
+Noah Vonleh,3,9,59,0,Finger Roll Layup Shot,3,3,34,True
+Noah Vonleh,4,5,0,0,Floating Jump shot,7,-19,72,True
+Noah Vonleh,2,9,21,1,Floating Jump shot,4,28,40,True
+Noah Vonleh,3,4,48,0,Hook Shot,5,51,10,True
+Noah Vonleh,3,6,44,1,Hook Shot,10,11,106,True
+Noah Vonleh,2,1,49,1,Hook Shot,5,-1,58,True
+Noah Vonleh,1,1,48,1,Hook Shot,7,-5,75,True
+Noah Vonleh,3,1,6,0,Hook Shot,6,3,69,True
+Noah Vonleh,4,10,48,1,Hook Shot,5,19,48,True
+Noah Vonleh,2,10,36,0,Hook Shot,4,-20,42,True
+Noah Vonleh,2,8,12,1,Hook Shot,5,-13,57,True
+Noah Vonleh,2,8,20,1,Jump Shot,17,-175,0,True
+Noah Vonleh,4,5,59,1,Jump Shot,25,-139,215,False
+Noah Vonleh,1,2,34,0,Jump Shot,26,-159,210,False
+Noah Vonleh,4,9,50,1,Jump Shot,26,-6,260,False
+Noah Vonleh,3,1,35,0,Jump Shot,26,-93,243,False
+Noah Vonleh,1,0,0,0,Jump Shot,22,-228,26,False
+Noah Vonleh,3,3,42,0,Jump Shot,13,123,58,True
+Noah Vonleh,4,1,49,0,Jump Shot,27,-163,218,False
+Noah Vonleh,3,10,57,0,Jump Shot,25,-201,158,False
+Noah Vonleh,2,2,58,1,Jump Shot,25,-133,222,False
+Noah Vonleh,2,3,56,0,Jump Shot,25,-32,252,False
+Noah Vonleh,4,7,37,0,Jump Shot,2,20,16,True
+Noah Vonleh,1,0,28,0,Jump Shot,25,-123,227,False
+Noah Vonleh,4,5,1,0,Jump Shot,24,-32,247,False
+Noah Vonleh,1,8,41,0,Jump Shot,27,-147,237,False
+Noah Vonleh,4,4,30,0,Jump Shot,25,93,233,False
+Noah Vonleh,4,3,26,0,Jump Shot,22,-229,-6,False
+Noah Vonleh,4,10,3,1,Jump Shot,25,-67,251,False
+Noah Vonleh,4,1,43,1,Jump Shot,26,8,262,False
+Noah Vonleh,4,2,45,1,Jump Shot,24,183,169,False
+Noah Vonleh,4,7,23,1,Jump Shot,26,-89,246,False
+Noah Vonleh,2,10,28,0,Jump Shot,25,-25,251,False
+Noah Vonleh,2,11,12,0,Jump Shot,23,-232,-8,False
+Noah Vonleh,2,8,38,1,Jump Shot,27,-27,269,False
+Noah Vonleh,4,8,35,0,Jump Shot,17,-9,176,True
+Noah Vonleh,4,9,1,0,Jump Shot,25,65,247,False
+Noah Vonleh,4,4,33,0,Jump Shot,25,-63,242,False
+Noah Vonleh,4,5,58,1,Jump Shot,16,-2,162,True
+Noah Vonleh,2,8,53,0,Jump Shot,25,-101,238,False
+Noah Vonleh,4,2,13,0,Jump Shot,24,213,126,False
+Noah Vonleh,1,0,48,0,Jump Shot,19,-38,188,True
+Noah Vonleh,1,1,41,0,Jump Shot,25,120,227,False
+Noah Vonleh,2,7,57,0,Jump Shot,26,14,262,False
+Noah Vonleh,2,10,4,0,Jump Shot,24,-87,234,False
+Noah Vonleh,4,1,21,0,Jump Shot,26,-50,263,False
+Noah Vonleh,3,0,11,0,Jump Shot,22,-226,22,False
+Noah Vonleh,1,1,5,1,Jump Shot,26,-70,260,False
+Noah Vonleh,3,1,59,1,Jump Shot,7,-2,73,True
+Noah Vonleh,2,9,23,1,Jump Shot,25,-12,253,False
+Noah Vonleh,2,0,26,1,Jump Shot,24,35,247,False
+Noah Vonleh,4,1,48,0,Jump Shot,25,-59,252,False
+Noah Vonleh,4,4,42,0,Jump Shot,19,-180,78,True
+Noah Vonleh,4,3,39,1,Jump Shot,25,44,251,False
+Noah Vonleh,4,0,9,0,Jump Shot,24,-163,185,False
+Noah Vonleh,4,2,55,0,Jump Shot,25,141,207,False
+Noah Vonleh,4,6,1,0,Jump Shot,20,-22,205,True
+Noah Vonleh,4,6,32,0,Jump Shot,11,108,25,True
+Noah Vonleh,4,5,48,0,Jump Shot,21,-130,167,True
+Noah Vonleh,4,3,10,0,Jump Shot,21,127,177,True
+Noah Vonleh,4,4,32,1,Jump Shot,20,206,22,True
+Noah Vonleh,4,2,50,0,Jump Shot,18,122,140,True
+Noah Vonleh,2,7,13,1,Jump Shot,20,-104,180,True
+Noah Vonleh,2,4,59,0,Jump Shot,16,-125,109,True
+Noah Vonleh,4,7,41,0,Jump Shot,6,12,61,True
+Noah Vonleh,4,2,46,1,Jump Shot,17,171,10,True
+Noah Vonleh,2,9,32,0,Jump Shot,24,-92,226,False
+Noah Vonleh,3,1,22,0,Jump Shot,15,142,62,True
+Noah Vonleh,2,0,0,1,Jump Shot,18,-115,148,True
+Noah Vonleh,1,6,19,0,Jump Shot,18,-185,21,True
+Noah Vonleh,3,7,19,1,Jump Shot,17,172,1,True
+Noah Vonleh,4,10,47,1,Jump Shot,18,106,149,True
+Noah Vonleh,1,10,12,0,Jump Shot,20,9,204,True
+Noah Vonleh,1,11,35,0,Jump Shot,12,-120,22,True
+Noah Vonleh,1,7,49,1,Jump Shot,20,139,155,True
+Noah Vonleh,1,0,0,0,Jump Shot,21,138,162,True
+Noah Vonleh,3,1,43,0,Jump Shot,21,-36,212,True
+Noah Vonleh,3,5,48,1,Jump Shot,19,-199,17,True
+Noah Vonleh,2,11,17,1,Jump Shot,14,46,136,True
+Noah Vonleh,2,7,18,1,Jump Shot,16,-157,62,True
+Noah Vonleh,1,7,21,0,Jump Shot,22,-162,157,True
+Noah Vonleh,4,3,3,0,Jump Shot,25,-157,198,False
+Noah Vonleh,4,5,45,0,Jump Shot,27,-18,276,False
+Noah Vonleh,1,6,6,1,Jump Shot,26,-28,265,False
+Noah Vonleh,2,2,48,0,Jump Shot,25,188,175,False
+Noah Vonleh,2,11,14,0,Layup Shot,3,-23,23,True
+Noah Vonleh,4,4,8,0,Layup Shot,2,-26,0,True
+Noah Vonleh,1,1,6,0,Layup Shot,6,63,7,True
+Noah Vonleh,3,9,1,0,Layup Shot,1,8,6,True
+Noah Vonleh,4,8,24,0,Layup Shot,2,-16,20,True
+Noah Vonleh,3,5,51,0,Layup Shot,1,-8,9,True
+Noah Vonleh,4,4,2,0,Layup Shot,4,-2,40,True
+Noah Vonleh,1,1,55,1,Layup Shot,2,20,15,True
+Noah Vonleh,3,7,33,1,Layup Shot,1,12,-2,True
+Noah Vonleh,4,8,35,0,Layup Shot,1,-12,15,True
+Noah Vonleh,2,7,28,1,Layup Shot,2,25,11,True
+Noah Vonleh,4,0,22,1,Layup Shot,1,8,14,True
+Noah Vonleh,3,6,34,0,Layup Shot,4,3,46,True
+Noah Vonleh,1,11,17,1,Layup Shot,1,-14,-11,True
+Noah Vonleh,4,8,57,0,Layup Shot,5,51,-4,True
+Noah Vonleh,2,6,41,0,Layup Shot,2,16,17,True
+Noah Vonleh,3,10,39,1,Pullup Jump shot,16,-116,120,True
+Noah Vonleh,4,1,51,0,Pullup Jump shot,24,154,195,False
+Noah Vonleh,4,1,58,0,Pullup Jump shot,21,-155,146,True
+Noah Vonleh,4,2,54,1,Pullup Jump shot,24,-154,193,False
+Noah Vonleh,4,2,37,1,Putback Dunk Shot,0,0,-6,True
+Noah Vonleh,4,6,12,1,Putback Dunk Shot,1,9,6,True
+Noah Vonleh,3,3,2,1,Putback Dunk Shot,2,-19,13,True
+Noah Vonleh,3,8,20,1,Putback Dunk Shot,0,0,-6,True
+Noah Vonleh,2,10,51,1,Putback Dunk Shot,0,0,-6,True
+Noah Vonleh,3,4,31,1,Putback Layup Shot,0,0,-6,True
+Noah Vonleh,1,8,51,1,Putback Layup Shot,0,0,-6,True
+Noah Vonleh,1,5,3,0,Putback Layup Shot,0,0,-6,True
+Noah Vonleh,3,8,54,1,Putback Layup Shot,0,0,-6,True
+Noah Vonleh,1,1,56,1,Putback Layup Shot,0,0,-6,True
+Noah Vonleh,2,1,34,1,Reverse Layup Shot,0,8,4,True
+Noah Vonleh,2,7,54,1,Reverse Layup Shot,1,-13,-5,True
+Noah Vonleh,4,8,28,1,Reverse Layup Shot,1,2,16,True
+Noah Vonleh,4,2,2,1,Step Back Jump shot,14,-116,80,True
+Noah Vonleh,1,3,23,1,Tip Dunk Shot,0,0,-6,True
+Noah Vonleh,2,9,0,1,Tip Layup Shot,0,0,-6,True
+Noah Vonleh,1,3,36,0,Tip Layup Shot,0,0,-6,True
+Noah Vonleh,4,2,25,1,Tip Layup Shot,0,0,-6,True
+Noah Vonleh,1,5,23,0,Tip Layup Shot,0,0,-6,True
+Noah Vonleh,2,1,45,1,Tip Layup Shot,0,0,-6,True
+Noah Vonleh,2,9,4,0,Tip Layup Shot,0,0,-6,True
+Noah Vonleh,4,0,22,0,Tip Layup Shot,0,0,-6,True
+Noah Vonleh,3,0,51,1,Tip Layup Shot,0,0,-6,True
+Noah Vonleh,4,4,27,0,Tip Layup Shot,0,-5,7,True
+Noah Vonleh,1,3,13,0,Tip Layup Shot,0,0,-6,True
+Noah Vonleh,4,3,3,1,Tip Layup Shot,0,0,-6,True
+Noah Vonleh,3,9,27,0,Turnaround Fadeaway shot,15,-109,105,True
+Noah Vonleh,4,0,25,1,Turnaround Fadeaway shot,13,-134,38,True
+Noah Vonleh,4,3,43,1,Turnaround Fadeaway shot,9,-2,95,True
+Noah Vonleh,4,0,16,0,Turnaround Fadeaway shot,3,-13,37,True
+Noah Vonleh,3,8,46,1,Turnaround Fadeaway shot,9,-42,84,True
+Noah Vonleh,1,8,37,0,Turnaround Fadeaway shot,13,-3,131,True
+Noah Vonleh,1,1,18,1,Turnaround Hook Shot,2,-13,26,True
+Noah Vonleh,1,9,22,0,Turnaround Hook Shot,8,-72,44,True
+Noah Vonleh,2,9,2,0,Turnaround Hook Shot,3,-3,35,True
+Noah Vonleh,1,5,6,0,Turnaround Hook Shot,7,-38,64,True
+Noah Vonleh,1,0,0,0,Turnaround Jump Shot,10,23,98,True

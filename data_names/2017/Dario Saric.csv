@@ -1,0 +1,775 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Dario Saric,2,4,58,0,Alley Oop Layup shot,1,-11,-3,True
+Dario Saric,4,6,22,1,Alley Oop Layup shot,0,2,4,True
+Dario Saric,3,9,28,0,Alley Oop Layup shot,0,-2,4,True
+Dario Saric,1,9,52,1,Cutting Dunk Shot,1,-2,16,True
+Dario Saric,1,6,49,1,Cutting Dunk Shot,1,9,13,True
+Dario Saric,2,3,51,1,Cutting Dunk Shot,1,0,16,True
+Dario Saric,3,11,27,1,Cutting Dunk Shot,1,-13,12,True
+Dario Saric,2,4,27,1,Cutting Dunk Shot,0,-2,0,True
+Dario Saric,1,11,46,1,Cutting Dunk Shot,1,-8,12,True
+Dario Saric,4,1,42,1,Cutting Finger Roll Layup Shot,0,-5,-6,True
+Dario Saric,2,1,40,1,Cutting Finger Roll Layup Shot,0,3,6,True
+Dario Saric,3,10,49,0,Cutting Layup Shot,1,-12,11,True
+Dario Saric,3,8,29,0,Cutting Layup Shot,1,-7,17,True
+Dario Saric,3,10,13,1,Cutting Layup Shot,1,11,-3,True
+Dario Saric,1,7,4,0,Cutting Layup Shot,1,11,11,True
+Dario Saric,1,3,46,1,Cutting Layup Shot,2,27,13,True
+Dario Saric,1,3,57,1,Cutting Layup Shot,0,-9,-1,True
+Dario Saric,1,10,42,0,Cutting Layup Shot,0,4,0,True
+Dario Saric,4,1,57,1,Cutting Layup Shot,1,6,8,True
+Dario Saric,1,9,13,1,Cutting Layup Shot,1,16,10,True
+Dario Saric,4,6,58,1,Cutting Layup Shot,0,8,3,True
+Dario Saric,2,11,46,1,Cutting Layup Shot,2,-16,20,True
+Dario Saric,1,8,20,1,Cutting Layup Shot,2,25,8,True
+Dario Saric,3,5,12,1,Cutting Layup Shot,1,-5,14,True
+Dario Saric,2,9,12,1,Cutting Layup Shot,1,16,6,True
+Dario Saric,3,10,20,0,Cutting Layup Shot,5,44,29,True
+Dario Saric,1,5,15,1,Cutting Layup Shot,1,-16,1,True
+Dario Saric,1,3,46,0,Cutting Layup Shot,2,1,25,True
+Dario Saric,4,5,43,1,Cutting Layup Shot,1,7,11,True
+Dario Saric,1,11,23,1,Cutting Layup Shot,1,9,13,True
+Dario Saric,1,11,18,0,Cutting Layup Shot,1,11,6,True
+Dario Saric,2,6,10,1,Cutting Layup Shot,1,-12,7,True
+Dario Saric,4,0,16,1,Cutting Layup Shot,1,14,5,True
+Dario Saric,1,7,9,1,Cutting Layup Shot,2,-11,17,True
+Dario Saric,1,8,58,1,Cutting Layup Shot,1,11,14,True
+Dario Saric,3,11,16,1,Cutting Layup Shot,1,-3,10,True
+Dario Saric,1,1,35,1,Cutting Layup Shot,0,-4,8,True
+Dario Saric,2,6,53,1,Cutting Layup Shot,1,-2,15,True
+Dario Saric,3,7,0,0,Cutting Layup Shot,6,-8,67,True
+Dario Saric,3,6,11,1,Cutting Layup Shot,3,27,15,True
+Dario Saric,4,10,6,1,Cutting Layup Shot,0,-1,8,True
+Dario Saric,1,11,49,1,Cutting Layup Shot,1,2,13,True
+Dario Saric,1,7,21,1,Cutting Layup Shot,2,3,20,True
+Dario Saric,4,0,22,1,Cutting Layup Shot,0,-8,4,True
+Dario Saric,2,4,40,0,Cutting Layup Shot,1,-5,15,True
+Dario Saric,2,3,26,0,Cutting Layup Shot,3,18,27,True
+Dario Saric,3,10,52,0,Cutting Layup Shot,1,-7,17,True
+Dario Saric,4,2,1,1,Driving Dunk Shot,0,1,0,True
+Dario Saric,2,8,26,1,Driving Dunk Shot,1,12,8,True
+Dario Saric,2,0,56,1,Driving Dunk Shot,0,0,4,True
+Dario Saric,3,4,19,1,Driving Finger Roll Layup Shot,2,-24,8,True
+Dario Saric,2,2,31,1,Driving Finger Roll Layup Shot,2,5,27,True
+Dario Saric,2,6,11,1,Driving Finger Roll Layup Shot,2,13,27,True
+Dario Saric,1,10,25,1,Driving Finger Roll Layup Shot,1,6,10,True
+Dario Saric,3,7,44,1,Driving Finger Roll Layup Shot,1,15,10,True
+Dario Saric,4,2,42,0,Driving Finger Roll Layup Shot,2,0,27,True
+Dario Saric,2,6,6,0,Driving Finger Roll Layup Shot,5,-36,41,True
+Dario Saric,3,7,39,0,Driving Floating Jump Shot,6,44,50,True
+Dario Saric,3,10,40,1,Driving Floating Jump Shot,5,-3,59,True
+Dario Saric,3,1,26,1,Driving Floating Jump Shot,8,-17,84,True
+Dario Saric,4,10,21,0,Driving Floating Jump Shot,27,-67,262,False
+Dario Saric,2,10,12,0,Driving Floating Jump Shot,2,22,15,True
+Dario Saric,1,8,29,0,Driving Floating Jump Shot,8,16,84,True
+Dario Saric,3,11,6,0,Driving Floating Jump Shot,12,-39,116,True
+Dario Saric,4,4,3,0,Driving Floating Jump Shot,6,40,50,True
+Dario Saric,3,5,22,1,Driving Hook Shot,4,7,40,True
+Dario Saric,2,11,1,1,Driving Hook Shot,7,74,14,True
+Dario Saric,3,9,5,0,Driving Hook Shot,2,-8,27,True
+Dario Saric,4,1,46,0,Driving Hook Shot,6,-19,65,True
+Dario Saric,1,6,40,1,Driving Hook Shot,7,63,42,True
+Dario Saric,2,3,21,1,Driving Hook Shot,4,3,43,True
+Dario Saric,3,2,38,0,Driving Hook Shot,8,4,88,True
+Dario Saric,1,5,14,1,Driving Hook Shot,7,-1,78,True
+Dario Saric,1,9,32,0,Driving Hook Shot,5,-17,48,True
+Dario Saric,4,6,29,0,Driving Hook Shot,9,33,84,True
+Dario Saric,3,6,46,0,Driving Layup Shot,8,67,55,True
+Dario Saric,3,5,44,1,Driving Layup Shot,0,2,5,True
+Dario Saric,1,8,25,1,Driving Layup Shot,1,9,16,True
+Dario Saric,4,9,47,1,Driving Layup Shot,3,-19,27,True
+Dario Saric,3,3,57,0,Driving Layup Shot,2,-20,6,True
+Dario Saric,1,8,21,1,Driving Layup Shot,2,-22,14,True
+Dario Saric,2,5,40,0,Driving Layup Shot,1,13,13,True
+Dario Saric,3,10,53,1,Driving Layup Shot,4,-29,28,True
+Dario Saric,1,9,32,0,Driving Layup Shot,1,10,2,True
+Dario Saric,1,11,27,0,Driving Layup Shot,3,27,16,True
+Dario Saric,2,0,57,1,Driving Layup Shot,2,-11,21,True
+Dario Saric,2,6,36,1,Driving Layup Shot,2,25,15,True
+Dario Saric,1,6,25,1,Driving Layup Shot,11,3,116,True
+Dario Saric,2,7,53,1,Driving Layup Shot,2,-3,23,True
+Dario Saric,2,1,44,0,Driving Layup Shot,4,-9,42,True
+Dario Saric,2,2,32,0,Driving Layup Shot,4,-21,35,True
+Dario Saric,3,10,51,1,Driving Layup Shot,2,22,8,True
+Dario Saric,3,2,13,1,Driving Layup Shot,1,7,9,True
+Dario Saric,1,7,6,0,Driving Layup Shot,4,-8,40,True
+Dario Saric,2,8,50,0,Driving Layup Shot,3,-18,31,True
+Dario Saric,1,9,12,0,Driving Layup Shot,3,28,15,True
+Dario Saric,1,7,28,1,Driving Layup Shot,1,-10,17,True
+Dario Saric,2,4,9,0,Driving Layup Shot,2,27,4,True
+Dario Saric,2,9,43,0,Driving Layup Shot,2,-23,10,True
+Dario Saric,3,5,18,0,Driving Layup Shot,1,-13,8,True
+Dario Saric,1,2,54,0,Driving Layup Shot,1,17,8,True
+Dario Saric,3,10,46,1,Driving Layup Shot,1,14,0,True
+Dario Saric,1,0,58,0,Driving Layup Shot,0,-9,3,True
+Dario Saric,1,6,24,0,Driving Layup Shot,4,35,31,True
+Dario Saric,2,9,16,0,Driving Layup Shot,2,25,15,True
+Dario Saric,2,11,21,0,Driving Layup Shot,3,5,34,True
+Dario Saric,3,5,11,0,Driving Layup Shot,4,24,37,True
+Dario Saric,1,6,17,0,Driving Layup Shot,1,11,11,True
+Dario Saric,2,9,4,1,Driving Layup Shot,6,-48,43,True
+Dario Saric,3,6,31,0,Driving Layup Shot,1,17,7,True
+Dario Saric,2,10,46,0,Driving Layup Shot,4,3,46,True
+Dario Saric,3,8,33,0,Driving Layup Shot,2,21,11,True
+Dario Saric,1,7,37,1,Driving Layup Shot,0,3,4,True
+Dario Saric,1,7,16,1,Driving Layup Shot,2,-11,19,True
+Dario Saric,4,6,35,1,Driving Layup Shot,0,-3,5,True
+Dario Saric,3,11,34,1,Driving Layup Shot,0,4,4,True
+Dario Saric,3,4,0,1,Driving Layup Shot,3,24,22,True
+Dario Saric,4,6,6,0,Driving Layup Shot,3,2,37,True
+Dario Saric,1,8,31,1,Driving Reverse Layup Shot,0,2,4,True
+Dario Saric,3,7,27,1,Driving Reverse Layup Shot,1,14,9,True
+Dario Saric,1,6,7,1,Driving Reverse Layup Shot,0,-3,2,True
+Dario Saric,3,6,41,1,Driving Reverse Layup Shot,0,-5,4,True
+Dario Saric,2,1,46,1,Driving Reverse Layup Shot,0,-4,4,True
+Dario Saric,3,6,48,1,Driving Reverse Layup Shot,1,-2,18,True
+Dario Saric,3,4,35,1,Driving Reverse Layup Shot,0,-3,2,True
+Dario Saric,1,10,38,1,Driving Reverse Layup Shot,3,31,6,True
+Dario Saric,2,10,50,0,Driving Reverse Layup Shot,2,25,5,True
+Dario Saric,2,1,35,1,Dunk Shot,1,-9,13,True
+Dario Saric,1,9,6,1,Dunk Shot,1,0,10,True
+Dario Saric,2,11,14,1,Dunk Shot,0,-3,2,True
+Dario Saric,4,8,24,0,Fadeaway Jump Shot,15,35,151,True
+Dario Saric,2,4,6,0,Fadeaway Jump Shot,14,-145,19,True
+Dario Saric,2,9,23,0,Fadeaway Jump Shot,15,-5,151,True
+Dario Saric,4,3,23,0,Fadeaway Jump Shot,16,2,169,True
+Dario Saric,3,11,28,0,Fadeaway Jump Shot,16,-125,112,True
+Dario Saric,4,0,44,0,Fadeaway Jump Shot,25,3,251,False
+Dario Saric,1,8,22,0,Fadeaway Jump Shot,18,100,152,True
+Dario Saric,3,8,36,1,Fadeaway Jump Shot,14,122,80,True
+Dario Saric,4,5,10,1,Finger Roll Layup Shot,3,-7,39,True
+Dario Saric,3,10,31,1,Finger Roll Layup Shot,2,-23,6,True
+Dario Saric,3,4,30,1,Floating Jump shot,3,37,5,True
+Dario Saric,3,4,42,0,Floating Jump shot,5,55,16,True
+Dario Saric,4,3,57,1,Floating Jump shot,5,16,52,True
+Dario Saric,2,5,7,1,Floating Jump shot,3,-18,31,True
+Dario Saric,1,8,38,1,Floating Jump shot,7,15,73,True
+Dario Saric,3,8,1,1,Floating Jump shot,13,57,121,True
+Dario Saric,4,10,36,0,Floating Jump shot,7,-47,54,True
+Dario Saric,4,7,45,1,Hook Bank Shot,6,0,69,True
+Dario Saric,2,11,1,0,Hook Shot,7,-13,74,True
+Dario Saric,2,10,7,0,Hook Shot,6,3,67,True
+Dario Saric,2,3,38,1,Hook Shot,3,-5,35,True
+Dario Saric,1,6,48,1,Hook Shot,3,-33,-16,True
+Dario Saric,1,3,39,0,Hook Shot,7,25,69,True
+Dario Saric,3,11,22,0,Hook Shot,2,0,22,True
+Dario Saric,3,9,35,0,Hook Shot,4,-10,41,True
+Dario Saric,2,7,58,0,Hook Shot,3,-3,37,True
+Dario Saric,2,8,38,0,Hook Shot,6,44,42,True
+Dario Saric,3,11,11,0,Hook Shot,2,0,25,True
+Dario Saric,1,4,10,1,Hook Shot,7,-40,68,True
+Dario Saric,1,8,45,0,Hook Shot,3,0,33,True
+Dario Saric,1,11,37,0,Hook Shot,9,67,71,True
+Dario Saric,2,7,2,0,Hook Shot,7,4,70,True
+Dario Saric,1,5,18,0,Hook Shot,10,-16,101,True
+Dario Saric,2,9,54,0,Hook Shot,4,4,41,True
+Dario Saric,1,6,9,1,Hook Shot,5,2,59,True
+Dario Saric,2,10,15,0,Hook Shot,6,-22,56,True
+Dario Saric,1,6,12,0,Hook Shot,2,-14,24,True
+Dario Saric,1,10,42,1,Hook Shot,10,14,109,True
+Dario Saric,3,4,35,0,Hook Shot,2,-7,25,True
+Dario Saric,3,4,7,1,Hook Shot,6,57,31,True
+Dario Saric,4,7,52,1,Hook Shot,3,-25,29,True
+Dario Saric,4,3,55,0,Jump Shot,27,134,235,False
+Dario Saric,1,8,40,0,Jump Shot,27,3,272,False
+Dario Saric,2,0,0,1,Jump Shot,16,-111,117,True
+Dario Saric,3,7,14,1,Jump Shot,19,36,193,True
+Dario Saric,1,8,56,0,Jump Shot,27,20,278,False
+Dario Saric,4,10,1,1,Jump Shot,22,195,115,True
+Dario Saric,1,4,13,0,Jump Shot,26,9,263,False
+Dario Saric,3,11,10,1,Jump Shot,24,-133,206,False
+Dario Saric,3,11,50,1,Jump Shot,22,226,32,False
+Dario Saric,3,8,5,1,Jump Shot,25,18,257,False
+Dario Saric,3,4,23,1,Jump Shot,23,-226,80,False
+Dario Saric,3,8,27,1,Jump Shot,25,190,174,False
+Dario Saric,2,4,40,0,Jump Shot,27,-76,263,False
+Dario Saric,1,11,47,0,Jump Shot,25,-180,185,False
+Dario Saric,2,1,51,1,Jump Shot,16,136,93,True
+Dario Saric,3,1,39,0,Jump Shot,21,6,214,True
+Dario Saric,3,3,21,1,Jump Shot,25,-17,258,False
+Dario Saric,3,10,20,0,Jump Shot,26,188,183,False
+Dario Saric,3,5,15,1,Jump Shot,26,-107,238,False
+Dario Saric,2,3,32,1,Jump Shot,25,-22,257,False
+Dario Saric,2,3,23,0,Jump Shot,25,-92,236,False
+Dario Saric,1,5,59,0,Jump Shot,27,84,258,False
+Dario Saric,2,5,47,0,Jump Shot,25,-117,224,False
+Dario Saric,3,8,38,0,Jump Shot,25,30,257,False
+Dario Saric,4,5,2,1,Jump Shot,25,165,196,False
+Dario Saric,2,7,17,0,Jump Shot,26,-138,231,False
+Dario Saric,4,7,11,0,Jump Shot,26,-162,208,False
+Dario Saric,1,2,49,0,Jump Shot,26,-68,258,False
+Dario Saric,3,7,32,1,Jump Shot,26,-115,244,False
+Dario Saric,2,2,55,0,Jump Shot,26,-120,234,False
+Dario Saric,2,3,30,0,Jump Shot,25,-156,205,False
+Dario Saric,3,11,9,0,Jump Shot,25,200,162,False
+Dario Saric,1,10,34,0,Jump Shot,22,153,171,True
+Dario Saric,1,7,32,1,Jump Shot,25,23,256,False
+Dario Saric,1,9,20,1,Jump Shot,26,8,268,False
+Dario Saric,2,8,2,0,Jump Shot,25,38,253,False
+Dario Saric,1,7,38,0,Jump Shot,26,-138,226,False
+Dario Saric,1,7,14,0,Jump Shot,23,-233,30,False
+Dario Saric,4,5,30,0,Jump Shot,25,-29,249,False
+Dario Saric,1,4,59,1,Jump Shot,26,199,179,False
+Dario Saric,4,7,9,0,Jump Shot,19,107,159,True
+Dario Saric,3,6,57,0,Jump Shot,28,-61,277,False
+Dario Saric,1,11,38,0,Jump Shot,23,-228,32,False
+Dario Saric,3,11,23,0,Jump Shot,23,230,60,False
+Dario Saric,3,8,16,0,Jump Shot,26,67,254,False
+Dario Saric,1,5,40,1,Jump Shot,27,22,279,False
+Dario Saric,4,8,44,0,Jump Shot,26,183,185,False
+Dario Saric,1,5,5,0,Jump Shot,18,-47,182,True
+Dario Saric,2,7,47,0,Jump Shot,15,120,100,True
+Dario Saric,2,11,32,0,Jump Shot,26,-195,172,False
+Dario Saric,2,9,54,0,Jump Shot,24,-185,155,False
+Dario Saric,3,7,5,0,Jump Shot,25,-90,235,False
+Dario Saric,2,3,58,0,Jump Shot,22,228,17,False
+Dario Saric,3,8,15,1,Jump Shot,25,-95,232,False
+Dario Saric,3,10,25,1,Jump Shot,23,-226,51,False
+Dario Saric,1,9,56,0,Jump Shot,25,67,242,False
+Dario Saric,2,8,1,0,Jump Shot,25,0,252,False
+Dario Saric,1,8,32,1,Jump Shot,24,22,245,False
+Dario Saric,1,10,39,0,Jump Shot,25,-89,242,False
+Dario Saric,3,9,32,0,Jump Shot,25,-2,252,False
+Dario Saric,4,7,58,1,Jump Shot,25,-109,235,False
+Dario Saric,2,2,38,1,Jump Shot,16,163,-1,True
+Dario Saric,2,3,20,0,Jump Shot,14,36,136,True
+Dario Saric,1,6,43,1,Jump Shot,16,-160,-12,True
+Dario Saric,4,4,57,0,Jump Shot,26,-180,194,False
+Dario Saric,1,3,33,0,Jump Shot,22,-228,9,False
+Dario Saric,3,9,21,1,Jump Shot,25,81,239,False
+Dario Saric,4,2,25,0,Jump Shot,25,-190,163,False
+Dario Saric,1,6,55,1,Jump Shot,18,125,142,True
+Dario Saric,1,4,28,0,Jump Shot,25,23,258,False
+Dario Saric,1,6,19,1,Jump Shot,25,-222,129,False
+Dario Saric,3,4,56,0,Jump Shot,26,-145,220,False
+Dario Saric,3,6,9,0,Jump Shot,25,-109,230,False
+Dario Saric,1,10,10,1,Jump Shot,25,131,221,False
+Dario Saric,1,6,17,0,Jump Shot,26,-8,261,False
+Dario Saric,1,6,58,1,Jump Shot,23,232,38,False
+Dario Saric,1,9,19,1,Jump Shot,26,32,261,False
+Dario Saric,1,4,59,0,Jump Shot,22,-121,186,True
+Dario Saric,1,10,16,0,Jump Shot,26,-1,265,False
+Dario Saric,2,6,5,1,Jump Shot,25,-43,249,False
+Dario Saric,3,7,16,0,Jump Shot,26,-24,264,False
+Dario Saric,3,5,26,1,Jump Shot,22,225,34,False
+Dario Saric,1,7,41,1,Jump Shot,25,-14,258,False
+Dario Saric,2,3,14,0,Jump Shot,25,39,248,False
+Dario Saric,2,6,53,1,Jump Shot,25,81,243,False
+Dario Saric,1,8,48,0,Jump Shot,25,49,252,False
+Dario Saric,4,7,9,1,Jump Shot,26,92,244,False
+Dario Saric,4,0,45,0,Jump Shot,22,85,204,True
+Dario Saric,1,11,18,0,Jump Shot,6,-14,59,True
+Dario Saric,3,11,3,0,Jump Shot,12,109,58,True
+Dario Saric,1,7,34,0,Jump Shot,27,41,268,False
+Dario Saric,2,4,41,0,Jump Shot,26,-15,260,False
+Dario Saric,3,5,36,0,Jump Shot,24,-114,222,False
+Dario Saric,1,4,44,0,Jump Shot,25,174,184,False
+Dario Saric,2,1,50,1,Jump Shot,20,-92,180,True
+Dario Saric,3,8,14,1,Jump Shot,26,-155,209,False
+Dario Saric,1,11,9,1,Jump Shot,27,196,189,False
+Dario Saric,1,4,42,1,Jump Shot,25,106,235,False
+Dario Saric,3,6,32,1,Jump Shot,27,116,254,False
+Dario Saric,3,10,41,1,Jump Shot,27,-90,258,False
+Dario Saric,4,10,32,0,Jump Shot,27,8,272,False
+Dario Saric,4,9,29,0,Jump Shot,25,106,233,False
+Dario Saric,2,6,25,0,Jump Shot,25,82,242,False
+Dario Saric,1,7,41,1,Jump Shot,4,-33,32,True
+Dario Saric,4,7,14,1,Jump Shot,25,-20,256,False
+Dario Saric,3,6,54,0,Jump Shot,25,-7,254,False
+Dario Saric,3,8,3,0,Jump Shot,16,-16,168,True
+Dario Saric,1,4,8,0,Jump Shot,26,127,232,False
+Dario Saric,1,5,1,0,Jump Shot,25,-46,251,False
+Dario Saric,2,4,33,1,Jump Shot,25,24,257,False
+Dario Saric,3,4,37,0,Jump Shot,17,-116,132,True
+Dario Saric,3,6,19,0,Jump Shot,25,125,222,False
+Dario Saric,3,1,21,1,Jump Shot,25,-150,200,False
+Dario Saric,2,5,46,0,Jump Shot,26,-158,207,False
+Dario Saric,3,0,9,0,Jump Shot,25,-161,198,False
+Dario Saric,4,4,35,1,Jump Shot,25,-27,253,False
+Dario Saric,1,4,40,0,Jump Shot,25,206,146,False
+Dario Saric,3,9,1,1,Jump Shot,24,150,197,False
+Dario Saric,3,5,42,1,Jump Shot,19,-62,180,True
+Dario Saric,3,6,36,0,Jump Shot,25,-122,225,False
+Dario Saric,4,5,46,1,Jump Shot,26,-106,244,False
+Dario Saric,3,10,35,0,Jump Shot,25,189,169,False
+Dario Saric,2,1,12,0,Jump Shot,26,1,264,False
+Dario Saric,2,8,0,0,Jump Shot,25,-80,243,False
+Dario Saric,4,6,44,1,Jump Shot,25,141,209,False
+Dario Saric,3,8,3,0,Jump Shot,25,183,173,False
+Dario Saric,3,5,42,0,Jump Shot,22,-114,189,True
+Dario Saric,2,1,27,0,Jump Shot,26,170,198,False
+Dario Saric,2,6,47,0,Jump Shot,26,57,260,False
+Dario Saric,3,8,26,0,Jump Shot,28,18,280,False
+Dario Saric,3,10,7,1,Jump Shot,27,24,274,False
+Dario Saric,2,8,18,1,Jump Shot,21,47,214,True
+Dario Saric,3,8,26,0,Jump Shot,25,-214,131,False
+Dario Saric,2,3,55,0,Jump Shot,18,84,169,True
+Dario Saric,3,5,6,0,Jump Shot,25,79,245,False
+Dario Saric,4,2,53,0,Jump Shot,21,-85,198,True
+Dario Saric,2,6,45,1,Jump Shot,22,225,-6,False
+Dario Saric,2,5,59,0,Jump Shot,27,-100,256,False
+Dario Saric,2,4,59,0,Jump Shot,27,131,245,False
+Dario Saric,2,1,57,0,Jump Shot,26,128,236,False
+Dario Saric,3,7,48,1,Jump Shot,26,-131,236,False
+Dario Saric,3,2,12,0,Jump Shot,25,-193,167,False
+Dario Saric,1,9,4,1,Jump Shot,25,-106,235,False
+Dario Saric,3,11,28,1,Jump Shot,25,113,227,False
+Dario Saric,3,5,23,0,Jump Shot,26,-81,251,False
+Dario Saric,2,7,31,1,Jump Shot,29,-166,240,False
+Dario Saric,4,7,0,1,Jump Shot,27,-139,232,False
+Dario Saric,1,4,58,0,Jump Shot,26,-73,251,False
+Dario Saric,4,4,27,1,Jump Shot,26,183,196,False
+Dario Saric,2,4,51,0,Jump Shot,26,-215,158,False
+Dario Saric,3,7,34,1,Jump Shot,15,101,123,True
+Dario Saric,1,5,54,1,Jump Shot,25,82,245,False
+Dario Saric,4,2,40,0,Jump Shot,25,217,143,False
+Dario Saric,1,5,31,0,Jump Shot,16,-117,121,True
+Dario Saric,1,6,23,0,Jump Shot,26,28,266,False
+Dario Saric,1,4,40,1,Jump Shot,26,-98,241,False
+Dario Saric,4,5,28,0,Jump Shot,25,-164,194,False
+Dario Saric,3,6,9,0,Jump Shot,28,-29,280,False
+Dario Saric,1,6,5,1,Jump Shot,27,-57,264,False
+Dario Saric,3,7,40,1,Jump Shot,15,-13,158,True
+Dario Saric,3,6,10,0,Jump Shot,25,67,244,False
+Dario Saric,2,8,3,1,Jump Shot,27,-81,260,False
+Dario Saric,1,4,55,1,Jump Shot,27,150,229,False
+Dario Saric,2,7,30,0,Jump Shot,18,-81,161,True
+Dario Saric,1,6,57,1,Jump Shot,25,-144,213,False
+Dario Saric,2,6,13,0,Jump Shot,19,137,141,True
+Dario Saric,4,8,3,0,Jump Shot,9,-57,81,True
+Dario Saric,3,8,11,0,Jump Shot,26,-144,225,False
+Dario Saric,3,0,51,1,Jump Shot,27,139,233,False
+Dario Saric,1,11,44,0,Jump Shot,12,-106,73,True
+Dario Saric,2,7,7,1,Jump Shot,18,-37,178,True
+Dario Saric,4,6,18,0,Jump Shot,27,-121,242,False
+Dario Saric,2,5,43,1,Jump Shot,26,-155,216,False
+Dario Saric,1,11,35,0,Jump Shot,16,92,141,True
+Dario Saric,4,5,26,0,Jump Shot,27,-29,269,False
+Dario Saric,2,4,54,1,Jump Shot,14,126,64,True
+Dario Saric,1,4,20,0,Jump Shot,16,161,31,True
+Dario Saric,3,9,24,0,Jump Shot,26,193,179,False
+Dario Saric,2,6,33,1,Jump Shot,25,2,258,False
+Dario Saric,3,5,0,0,Jump Shot,27,-16,272,False
+Dario Saric,1,3,7,1,Jump Shot,26,-172,208,False
+Dario Saric,1,5,44,1,Jump Shot,25,110,234,False
+Dario Saric,2,8,22,0,Jump Shot,24,228,99,False
+Dario Saric,3,9,16,1,Jump Shot,25,-158,206,False
+Dario Saric,2,10,10,0,Jump Shot,27,32,269,False
+Dario Saric,3,3,7,0,Jump Shot,23,-237,34,False
+Dario Saric,4,6,24,0,Jump Shot,27,16,274,False
+Dario Saric,3,6,51,1,Jump Shot,26,-24,260,False
+Dario Saric,1,9,57,1,Jump Shot,18,-31,187,True
+Dario Saric,2,3,45,0,Jump Shot,25,66,251,False
+Dario Saric,1,8,49,1,Jump Shot,26,166,204,False
+Dario Saric,3,4,10,0,Jump Shot,21,-3,211,True
+Dario Saric,2,6,51,0,Jump Shot,25,-112,234,False
+Dario Saric,2,7,39,0,Jump Shot,28,-114,257,False
+Dario Saric,1,11,2,0,Jump Shot,26,-212,155,False
+Dario Saric,4,4,33,0,Jump Shot,26,92,244,False
+Dario Saric,3,11,19,0,Jump Shot,27,-88,257,False
+Dario Saric,3,7,46,0,Jump Shot,20,-77,186,True
+Dario Saric,2,11,36,0,Jump Shot,14,64,133,True
+Dario Saric,1,5,42,1,Jump Shot,19,40,190,True
+Dario Saric,3,4,15,1,Jump Shot,25,81,241,False
+Dario Saric,4,4,24,1,Jump Shot,24,-109,224,False
+Dario Saric,2,7,10,0,Jump Shot,21,135,168,True
+Dario Saric,2,0,3,0,Jump Shot,24,-5,248,False
+Dario Saric,3,11,13,1,Jump Shot,25,-91,235,False
+Dario Saric,1,10,16,1,Jump Shot,25,118,221,False
+Dario Saric,3,4,56,1,Jump Shot,18,104,157,True
+Dario Saric,1,10,36,0,Jump Shot,22,152,168,True
+Dario Saric,2,3,28,0,Jump Shot,22,-56,220,True
+Dario Saric,2,5,26,0,Jump Shot,23,-232,21,False
+Dario Saric,1,8,0,0,Jump Shot,25,57,246,False
+Dario Saric,3,8,22,0,Jump Shot,25,-47,248,False
+Dario Saric,4,5,39,0,Jump Shot,26,132,225,False
+Dario Saric,2,6,20,1,Jump Shot,21,-57,206,True
+Dario Saric,2,3,56,0,Jump Shot,26,38,262,False
+Dario Saric,3,6,0,0,Jump Shot,25,-59,246,False
+Dario Saric,1,7,29,0,Jump Shot,12,-125,-6,True
+Dario Saric,4,7,2,1,Jump Shot,26,-48,257,False
+Dario Saric,4,4,36,0,Jump Shot,26,-92,253,False
+Dario Saric,2,10,9,0,Jump Shot,26,-148,216,False
+Dario Saric,4,5,40,1,Jump Shot,26,165,201,False
+Dario Saric,3,11,0,0,Jump Shot,15,147,37,True
+Dario Saric,4,11,0,0,Jump Shot,20,84,189,True
+Dario Saric,2,9,16,1,Jump Shot,25,52,253,False
+Dario Saric,2,1,57,1,Jump Shot,25,-90,235,False
+Dario Saric,4,3,36,0,Jump Shot,27,-65,264,False
+Dario Saric,1,7,28,0,Jump Shot,27,67,267,False
+Dario Saric,3,7,23,0,Jump Shot,26,55,258,False
+Dario Saric,4,8,14,0,Jump Shot,4,38,13,True
+Dario Saric,1,11,17,1,Jump Shot,25,148,206,False
+Dario Saric,3,11,43,0,Jump Shot,27,-139,242,False
+Dario Saric,4,0,20,0,Jump Shot,25,-17,252,False
+Dario Saric,1,9,57,0,Jump Shot,26,-68,258,False
+Dario Saric,4,1,45,1,Jump Shot,25,113,231,False
+Dario Saric,2,3,52,0,Jump Shot,25,0,250,False
+Dario Saric,1,6,58,0,Jump Shot,24,-195,141,False
+Dario Saric,2,0,55,0,Jump Shot,24,-117,215,False
+Dario Saric,2,11,14,1,Jump Shot,24,-165,179,False
+Dario Saric,3,9,14,1,Jump Shot,19,-138,136,True
+Dario Saric,3,5,56,0,Jump Shot,25,-103,237,False
+Dario Saric,4,2,48,1,Jump Shot,25,-126,218,False
+Dario Saric,2,7,0,1,Jump Shot,23,227,38,False
+Dario Saric,4,1,41,0,Jump Shot,25,-221,121,False
+Dario Saric,4,7,58,0,Jump Shot,26,6,262,False
+Dario Saric,4,11,30,0,Jump Shot,26,195,176,False
+Dario Saric,4,8,49,0,Jump Shot,17,38,166,True
+Dario Saric,1,9,13,1,Jump Shot,25,-40,251,False
+Dario Saric,3,6,34,1,Jump Shot,25,-166,200,False
+Dario Saric,4,7,0,0,Jump Shot,5,-14,55,True
+Dario Saric,3,9,42,0,Jump Shot,3,-31,10,True
+Dario Saric,2,2,54,1,Jump Shot,22,227,37,False
+Dario Saric,1,9,30,0,Jump Shot,14,-137,32,True
+Dario Saric,1,8,13,0,Jump Shot,28,-45,278,False
+Dario Saric,4,2,48,0,Jump Shot,25,160,198,False
+Dario Saric,2,2,4,0,Jump Shot,26,-195,178,False
+Dario Saric,3,1,30,0,Jump Shot,14,3,140,True
+Dario Saric,4,4,6,0,Jump Shot,27,-13,271,False
+Dario Saric,2,4,56,0,Jump Shot,18,158,101,True
+Dario Saric,4,7,29,0,Jump Shot,25,43,253,False
+Dario Saric,2,0,7,0,Jump Shot,25,-192,162,False
+Dario Saric,3,1,37,0,Jump Shot,26,34,260,False
+Dario Saric,4,2,39,0,Jump Shot,25,-116,226,False
+Dario Saric,4,1,17,1,Jump Shot,2,19,15,True
+Dario Saric,4,6,6,1,Jump Shot,27,-30,278,False
+Dario Saric,1,10,35,0,Jump Shot,24,141,203,False
+Dario Saric,3,10,7,0,Jump Shot,27,118,244,False
+Dario Saric,4,1,41,1,Jump Shot,24,184,157,False
+Dario Saric,3,7,35,0,Jump Shot,24,241,62,False
+Dario Saric,3,7,14,0,Jump Shot,26,-64,262,False
+Dario Saric,3,9,26,1,Jump Shot,26,-155,213,False
+Dario Saric,1,10,34,1,Jump Shot,26,-122,233,False
+Dario Saric,4,5,38,0,Jump Shot,27,161,222,False
+Dario Saric,1,11,42,0,Jump Shot,19,-50,191,True
+Dario Saric,4,4,41,1,Jump Shot,27,-116,246,False
+Dario Saric,1,9,4,0,Jump Shot,25,234,111,False
+Dario Saric,1,7,45,1,Jump Shot,26,214,157,False
+Dario Saric,3,10,6,1,Jump Shot,10,-73,73,True
+Dario Saric,4,10,17,0,Jump Shot,26,29,260,False
+Dario Saric,4,6,34,0,Jump Shot,25,-18,253,False
+Dario Saric,1,0,4,0,Jump Shot,26,-200,176,False
+Dario Saric,2,10,36,0,Jump Shot,21,-14,219,True
+Dario Saric,1,9,56,0,Jump Shot,22,-221,-16,False
+Dario Saric,1,10,57,0,Jump Shot,12,3,127,True
+Dario Saric,1,7,26,0,Jump Shot,27,-32,271,False
+Dario Saric,3,2,13,1,Jump Shot,16,-133,105,True
+Dario Saric,3,10,10,0,Jump Shot,27,-66,267,False
+Dario Saric,4,2,33,1,Jump Shot,23,230,46,False
+Dario Saric,4,4,47,0,Jump Shot,23,233,11,False
+Dario Saric,1,8,23,1,Jump Shot,26,-1,260,False
+Dario Saric,2,9,53,0,Jump Shot,25,-137,216,False
+Dario Saric,2,0,17,1,Jump Shot,25,-122,227,False
+Dario Saric,3,8,17,0,Jump Shot,24,-233,71,False
+Dario Saric,4,0,26,0,Jump Shot,26,-183,193,False
+Dario Saric,2,4,19,0,Jump Shot,26,90,249,False
+Dario Saric,3,2,34,0,Jump Shot,20,111,168,True
+Dario Saric,2,8,29,1,Jump Shot,25,-176,189,False
+Dario Saric,4,8,57,0,Jump Shot,19,196,-9,True
+Dario Saric,4,5,18,0,Jump Shot,17,177,-14,True
+Dario Saric,4,7,59,0,Jump Shot,9,5,95,True
+Dario Saric,2,0,31,0,Jump Shot,26,-84,253,False
+Dario Saric,2,0,5,0,Jump Shot,25,-128,226,False
+Dario Saric,1,9,55,0,Jump Shot,22,150,170,True
+Dario Saric,1,7,15,1,Jump Shot,27,12,271,False
+Dario Saric,3,3,41,0,Jump Shot,17,96,146,True
+Dario Saric,2,1,53,0,Jump Shot,19,51,187,True
+Dario Saric,1,0,52,0,Jump Shot,27,55,267,False
+Dario Saric,4,3,13,0,Jump Shot,26,130,226,False
+Dario Saric,3,6,36,0,Jump Shot,25,196,158,False
+Dario Saric,2,3,19,0,Jump Shot,24,234,69,False
+Dario Saric,2,2,21,0,Jump Shot,26,-36,266,False
+Dario Saric,1,3,5,0,Jump Shot,25,168,188,False
+Dario Saric,1,8,55,1,Jump Shot,15,133,84,True
+Dario Saric,3,0,57,1,Jump Shot,26,-196,171,False
+Dario Saric,3,1,26,0,Jump Shot,23,236,35,False
+Dario Saric,2,2,2,1,Jump Shot,22,-37,218,True
+Dario Saric,2,0,0,0,Jump Shot,23,-230,43,False
+Dario Saric,1,10,1,1,Jump Shot,26,84,248,False
+Dario Saric,1,10,10,1,Jump Shot,9,-17,89,True
+Dario Saric,2,2,30,0,Jump Shot,24,-57,242,False
+Dario Saric,4,7,6,0,Jump Shot,23,226,48,False
+Dario Saric,1,1,37,0,Jump Shot,24,-118,216,False
+Dario Saric,4,4,10,1,Jump Shot,22,227,17,False
+Dario Saric,3,8,17,1,Jump Shot,24,172,181,False
+Dario Saric,3,10,19,1,Jump Shot,25,0,252,False
+Dario Saric,2,4,30,1,Jump Shot,26,93,247,False
+Dario Saric,3,4,52,1,Jump Shot,25,-115,230,False
+Dario Saric,1,4,35,1,Jump Shot,25,-80,242,False
+Dario Saric,2,8,26,1,Jump Shot,25,65,251,False
+Dario Saric,1,9,6,0,Jump Shot,25,-14,256,False
+Dario Saric,4,6,7,0,Jump Shot,24,218,106,False
+Dario Saric,1,7,55,0,Jump Shot,25,134,221,False
+Dario Saric,4,5,10,1,Jump Shot,23,235,22,False
+Dario Saric,3,10,10,1,Jump Shot,24,-152,192,False
+Dario Saric,3,3,55,1,Jump Shot,25,-60,243,False
+Dario Saric,2,2,55,0,Jump Shot,24,15,249,False
+Dario Saric,2,0,50,0,Jump Shot,25,-19,252,False
+Dario Saric,2,7,14,1,Jump Shot,23,-230,22,False
+Dario Saric,1,4,16,1,Jump Shot,24,188,159,False
+Dario Saric,2,2,28,0,Jump Shot,25,-6,251,False
+Dario Saric,2,0,16,0,Jump Shot,25,-99,237,False
+Dario Saric,1,10,23,1,Jump Shot,20,49,196,True
+Dario Saric,1,8,9,1,Jump Shot,25,-138,220,False
+Dario Saric,1,1,4,0,Jump Shot,26,132,225,False
+Dario Saric,2,4,33,1,Jump Shot,24,-131,205,False
+Dario Saric,1,10,20,1,Jump Shot,16,-82,146,True
+Dario Saric,4,11,15,1,Jump Shot,26,203,173,False
+Dario Saric,1,3,9,0,Jump Shot,26,-57,255,False
+Dario Saric,1,8,42,1,Jump Shot,26,-121,235,False
+Dario Saric,3,11,13,0,Jump Shot,23,-228,71,False
+Dario Saric,1,11,20,0,Jump Shot,19,105,162,True
+Dario Saric,1,0,1,0,Jump Shot,16,70,149,True
+Dario Saric,1,0,7,0,Jump Shot,24,200,143,False
+Dario Saric,1,7,41,0,Jump Shot,25,-215,131,False
+Dario Saric,4,11,19,0,Jump Shot,25,50,252,False
+Dario Saric,1,7,12,1,Jump Shot,20,-188,88,True
+Dario Saric,2,3,31,1,Jump Shot,25,-152,207,False
+Dario Saric,2,3,59,1,Jump Shot,26,-96,244,False
+Dario Saric,4,8,55,0,Jump Shot,24,240,22,False
+Dario Saric,3,2,29,1,Jump Shot,25,-32,254,False
+Dario Saric,2,10,6,1,Jump Shot,24,232,79,False
+Dario Saric,1,7,42,0,Jump Shot,25,-206,142,False
+Dario Saric,3,1,0,0,Jump Shot,17,30,169,True
+Dario Saric,3,0,1,0,Jump Shot,25,-139,217,False
+Dario Saric,3,10,12,1,Jump Shot,25,-157,200,False
+Dario Saric,1,10,53,0,Jump Shot,24,-151,197,False
+Dario Saric,1,11,46,1,Jump Shot,24,29,242,False
+Dario Saric,3,9,4,0,Jump Shot,25,-176,183,False
+Dario Saric,2,8,34,0,Jump Shot,19,199,5,True
+Dario Saric,3,6,53,0,Jump Shot,24,195,153,False
+Dario Saric,3,10,12,0,Jump Shot,13,62,117,True
+Dario Saric,2,1,31,0,Jump Shot,26,172,205,False
+Dario Saric,3,9,53,0,Jump Shot,23,233,17,False
+Dario Saric,2,5,56,0,Jump Shot,26,-93,245,False
+Dario Saric,2,5,12,1,Jump Shot,26,82,251,False
+Dario Saric,3,2,39,1,Jump Shot,22,-223,27,False
+Dario Saric,2,2,23,0,Jump Shot,24,-3,247,False
+Dario Saric,3,5,2,0,Jump Shot,16,128,111,True
+Dario Saric,1,5,51,0,Jump Shot,26,124,233,False
+Dario Saric,3,3,18,0,Jump Shot,24,-150,192,False
+Dario Saric,3,4,5,0,Jump Shot,25,-166,189,False
+Dario Saric,4,8,6,0,Jump Shot,25,-93,239,False
+Dario Saric,2,1,20,0,Jump Shot,18,-90,163,True
+Dario Saric,4,9,2,0,Jump Shot,9,91,1,True
+Dario Saric,2,8,1,1,Jump Shot,26,-150,217,False
+Dario Saric,3,11,16,1,Jump Shot,27,153,224,False
+Dario Saric,4,2,12,0,Jump Shot,26,-90,245,False
+Dario Saric,2,4,58,0,Jump Shot,19,73,179,True
+Dario Saric,1,7,9,1,Jump Shot,23,42,227,True
+Dario Saric,3,5,15,0,Jump Shot,17,90,151,True
+Dario Saric,3,3,49,0,Jump Shot,17,-153,76,True
+Dario Saric,2,4,37,1,Jump Shot,26,192,176,False
+Dario Saric,3,1,20,1,Jump Shot,6,-55,39,True
+Dario Saric,4,8,23,0,Jump Shot,25,-20,254,False
+Dario Saric,4,10,49,0,Jump Shot,26,-155,217,False
+Dario Saric,3,7,35,0,Jump Shot,25,89,235,False
+Dario Saric,1,6,26,0,Jump Shot,25,7,250,False
+Dario Saric,3,8,26,1,Jump Shot,25,87,239,False
+Dario Saric,1,10,30,1,Jump Shot,26,-103,241,False
+Dario Saric,2,7,0,0,Jump Shot,23,231,38,False
+Dario Saric,1,9,28,0,Jump Shot,25,-108,227,False
+Dario Saric,2,9,40,0,Jump Shot,11,16,112,True
+Dario Saric,2,9,20,1,Jump Shot,25,129,217,False
+Dario Saric,2,4,30,0,Jump Shot,25,140,209,False
+Dario Saric,4,8,7,0,Jump Shot,25,92,234,False
+Dario Saric,2,6,30,1,Jump Shot,26,-144,225,False
+Dario Saric,4,6,3,0,Jump Shot,25,76,245,False
+Dario Saric,4,7,33,1,Jump Shot,25,45,247,False
+Dario Saric,2,8,39,1,Jump Shot,25,-14,257,False
+Dario Saric,2,10,38,1,Jump Shot,25,-103,236,False
+Dario Saric,1,10,24,0,Jump Shot,21,-41,215,True
+Dario Saric,2,0,59,0,Jump Shot,25,105,236,False
+Dario Saric,4,10,33,0,Jump Shot,18,-40,183,True
+Dario Saric,4,3,33,0,Jump Shot,25,-117,226,False
+Dario Saric,2,5,21,1,Jump Shot,26,154,216,False
+Dario Saric,2,7,28,1,Jump Shot,25,-130,222,False
+Dario Saric,3,6,37,1,Jump Shot,26,115,234,False
+Dario Saric,3,9,8,0,Jump Shot,26,98,242,False
+Dario Saric,4,1,45,0,Jump Shot,24,-145,201,False
+Dario Saric,4,9,55,0,Layup Shot,1,0,11,True
+Dario Saric,1,8,25,1,Layup Shot,1,-11,3,True
+Dario Saric,3,10,24,0,Layup Shot,2,5,24,True
+Dario Saric,3,0,45,1,Layup Shot,2,-25,16,True
+Dario Saric,3,3,42,1,Layup Shot,1,11,7,True
+Dario Saric,2,2,6,0,Layup Shot,1,0,14,True
+Dario Saric,4,8,14,0,Layup Shot,2,24,17,True
+Dario Saric,1,11,46,1,Layup Shot,1,2,10,True
+Dario Saric,3,10,21,1,Layup Shot,0,6,3,True
+Dario Saric,4,11,25,0,Layup Shot,3,-38,7,True
+Dario Saric,1,5,43,0,Layup Shot,20,43,204,True
+Dario Saric,1,9,58,1,Layup Shot,0,5,6,True
+Dario Saric,1,10,50,0,Layup Shot,2,-9,28,True
+Dario Saric,2,11,29,0,Layup Shot,2,-14,17,True
+Dario Saric,3,11,38,0,Layup Shot,9,93,6,True
+Dario Saric,3,4,42,1,Layup Shot,1,6,16,True
+Dario Saric,1,9,53,0,Layup Shot,3,-32,17,True
+Dario Saric,3,2,7,1,Layup Shot,0,-1,1,True
+Dario Saric,3,9,9,0,Layup Shot,6,-5,67,True
+Dario Saric,1,5,55,1,Layup Shot,2,13,18,True
+Dario Saric,1,11,44,1,Layup Shot,0,-2,1,True
+Dario Saric,3,10,48,0,Layup Shot,2,-8,22,True
+Dario Saric,4,4,20,0,Layup Shot,2,-1,27,True
+Dario Saric,4,0,58,0,Layup Shot,2,-2,28,True
+Dario Saric,3,8,14,0,Layup Shot,2,-2,27,True
+Dario Saric,2,0,0,1,Layup Shot,0,-3,4,True
+Dario Saric,3,4,39,0,Layup Shot,1,16,2,True
+Dario Saric,1,1,57,1,Layup Shot,4,38,19,True
+Dario Saric,2,7,12,1,Layup Shot,1,13,5,True
+Dario Saric,1,6,33,0,Layup Shot,4,39,10,True
+Dario Saric,3,8,21,0,Layup Shot,2,14,17,True
+Dario Saric,3,1,54,0,Layup Shot,6,6,68,True
+Dario Saric,1,8,1,0,Layup Shot,3,32,5,True
+Dario Saric,1,7,56,0,Layup Shot,2,26,-1,True
+Dario Saric,2,4,35,1,Layup Shot,1,11,3,True
+Dario Saric,2,10,43,0,Layup Shot,2,-6,21,True
+Dario Saric,1,6,21,0,Layup Shot,2,18,13,True
+Dario Saric,3,7,38,0,Layup Shot,2,-11,20,True
+Dario Saric,2,2,34,1,Layup Shot,1,-2,17,True
+Dario Saric,2,9,54,0,Layup Shot,3,-30,5,True
+Dario Saric,2,1,57,1,Layup Shot,3,-10,29,True
+Dario Saric,3,5,4,0,Layup Shot,1,7,17,True
+Dario Saric,2,3,42,1,Layup Shot,2,7,29,True
+Dario Saric,1,8,16,1,Layup Shot,2,8,20,True
+Dario Saric,2,5,27,0,Layup Shot,1,14,11,True
+Dario Saric,2,10,8,1,Layup Shot,2,22,4,True
+Dario Saric,2,3,5,1,Layup Shot,1,11,4,True
+Dario Saric,1,3,21,1,Layup Shot,1,-15,5,True
+Dario Saric,1,2,39,1,Layup Shot,5,33,42,True
+Dario Saric,2,0,5,0,Layup Shot,4,44,0,True
+Dario Saric,2,7,22,0,Layup Shot,5,-31,41,True
+Dario Saric,1,11,4,1,Layup Shot,3,-30,-4,True
+Dario Saric,3,5,2,1,Layup Shot,3,24,20,True
+Dario Saric,1,9,5,0,Layup Shot,2,8,23,True
+Dario Saric,2,6,8,1,Layup Shot,1,16,-4,True
+Dario Saric,1,8,23,1,Layup Shot,2,18,21,True
+Dario Saric,2,6,40,0,Layup Shot,9,19,92,True
+Dario Saric,4,5,59,0,Layup Shot,3,-38,11,True
+Dario Saric,2,0,0,1,Layup Shot,0,-8,2,True
+Dario Saric,2,5,53,1,Layup Shot,2,-26,10,True
+Dario Saric,4,10,46,0,Layup Shot,2,-3,22,True
+Dario Saric,2,3,33,1,Layup Shot,2,22,10,True
+Dario Saric,2,6,23,1,Layup Shot,2,-18,11,True
+Dario Saric,1,6,21,0,Pullup Jump shot,18,-78,172,True
+Dario Saric,4,6,46,0,Pullup Jump shot,15,-96,116,True
+Dario Saric,2,2,52,1,Pullup Jump shot,19,-82,173,True
+Dario Saric,2,10,44,0,Pullup Jump shot,20,76,193,True
+Dario Saric,2,6,56,1,Pullup Jump shot,25,134,222,False
+Dario Saric,1,10,29,0,Pullup Jump shot,18,68,167,True
+Dario Saric,1,7,48,1,Pullup Jump shot,11,-47,110,True
+Dario Saric,1,5,35,1,Pullup Jump shot,18,-56,176,True
+Dario Saric,1,2,2,1,Pullup Jump shot,20,171,120,True
+Dario Saric,3,5,51,1,Pullup Jump shot,21,-122,173,True
+Dario Saric,3,6,16,0,Pullup Jump shot,25,-80,241,False
+Dario Saric,2,3,22,0,Pullup Jump shot,22,-136,173,True
+Dario Saric,1,5,40,0,Pullup Jump shot,19,-106,169,True
+Dario Saric,2,9,45,0,Pullup Jump shot,17,79,153,True
+Dario Saric,4,0,24,1,Pullup Jump shot,26,-58,255,False
+Dario Saric,2,8,59,0,Pullup Jump shot,20,60,201,True
+Dario Saric,2,0,50,0,Pullup Jump shot,25,27,255,False
+Dario Saric,3,11,15,0,Pullup Jump shot,7,43,56,True
+Dario Saric,1,3,50,1,Pullup Jump shot,19,84,176,True
+Dario Saric,3,6,44,0,Pullup Jump shot,19,110,155,True
+Dario Saric,2,6,16,0,Pullup Jump shot,12,-24,126,True
+Dario Saric,2,4,52,0,Pullup Jump shot,25,136,220,False
+Dario Saric,2,8,24,0,Putback Layup Shot,3,22,24,True
+Dario Saric,2,9,3,0,Putback Layup Shot,2,11,21,True
+Dario Saric,4,0,31,1,Putback Layup Shot,1,-8,13,True
+Dario Saric,2,8,22,1,Putback Layup Shot,2,22,9,True
+Dario Saric,2,8,23,0,Putback Layup Shot,1,1,16,True
+Dario Saric,2,3,24,0,Putback Layup Shot,1,14,13,True
+Dario Saric,2,1,30,1,Putback Layup Shot,0,0,-6,True
+Dario Saric,2,6,3,1,Putback Layup Shot,2,-22,18,True
+Dario Saric,3,9,1,1,Putback Layup Shot,0,0,-6,True
+Dario Saric,2,3,43,0,Reverse Layup Shot,1,-15,-10,True
+Dario Saric,3,2,42,1,Reverse Layup Shot,1,-12,7,True
+Dario Saric,3,8,20,1,Reverse Layup Shot,0,3,1,True
+Dario Saric,4,2,30,0,Reverse Layup Shot,0,2,1,True
+Dario Saric,1,7,29,1,Reverse Layup Shot,3,-10,29,True
+Dario Saric,2,7,44,1,Reverse Layup Shot,0,5,6,True
+Dario Saric,3,6,10,0,Reverse Layup Shot,2,18,15,True
+Dario Saric,1,9,18,0,Reverse Layup Shot,1,-14,4,True
+Dario Saric,3,9,58,1,Reverse Layup Shot,0,4,6,True
+Dario Saric,3,7,4,0,Reverse Layup Shot,1,11,10,True
+Dario Saric,1,6,57,1,Reverse Layup Shot,0,3,-2,True
+Dario Saric,4,7,47,1,Reverse Layup Shot,0,-2,8,True
+Dario Saric,2,7,15,0,Reverse Layup Shot,1,-13,-4,True
+Dario Saric,2,10,51,1,Reverse Layup Shot,1,-3,10,True
+Dario Saric,1,10,48,1,Reverse Layup Shot,1,-3,11,True
+Dario Saric,1,10,15,1,Reverse Layup Shot,1,14,12,True
+Dario Saric,1,3,34,0,Reverse Layup Shot,2,24,17,True
+Dario Saric,1,8,42,1,Reverse Layup Shot,2,-10,25,True
+Dario Saric,2,1,14,1,Reverse Layup Shot,1,13,-2,True
+Dario Saric,2,8,36,0,Running Alley Oop Layup Shot,1,-9,10,True
+Dario Saric,1,6,57,1,Running Dunk Shot,1,9,14,True
+Dario Saric,1,5,44,1,Running Dunk Shot,0,5,5,True
+Dario Saric,3,11,12,1,Running Dunk Shot,1,-7,15,True
+Dario Saric,1,8,55,0,Running Finger Roll Layup Shot,1,9,15,True
+Dario Saric,3,8,48,1,Running Finger Roll Layup Shot,6,-3,65,True
+Dario Saric,4,1,46,0,Running Finger Roll Layup Shot,3,-19,34,True
+Dario Saric,1,8,46,1,Running Finger Roll Layup Shot,0,3,2,True
+Dario Saric,1,5,28,1,Running Finger Roll Layup Shot,3,22,26,True
+Dario Saric,1,5,43,1,Running Jump Shot,0,-6,6,True
+Dario Saric,2,6,44,1,Running Jump Shot,8,23,82,True
+Dario Saric,1,7,4,0,Running Jump Shot,24,-150,192,False
+Dario Saric,3,9,2,1,Running Jump Shot,25,5,252,False
+Dario Saric,4,0,17,1,Running Layup Shot,3,30,-13,True
+Dario Saric,3,8,17,1,Running Layup Shot,2,-22,13,True
+Dario Saric,1,4,24,1,Running Layup Shot,4,47,0,True
+Dario Saric,2,7,35,0,Running Layup Shot,2,14,20,True
+Dario Saric,2,4,37,0,Running Layup Shot,4,-6,46,True
+Dario Saric,1,4,39,1,Running Layup Shot,2,-18,16,True
+Dario Saric,2,7,22,1,Running Layup Shot,4,38,22,True
+Dario Saric,3,6,29,1,Running Layup Shot,2,-2,27,True
+Dario Saric,4,5,19,0,Running Layup Shot,2,-9,23,True
+Dario Saric,1,4,10,1,Running Layup Shot,0,-3,5,True
+Dario Saric,1,7,9,1,Running Layup Shot,5,-43,29,True
+Dario Saric,3,7,21,1,Running Layup Shot,1,1,17,True
+Dario Saric,3,4,15,0,Running Layup Shot,2,-24,2,True
+Dario Saric,1,7,29,1,Running Pull-Up Jump Shot,15,109,111,True
+Dario Saric,1,11,1,0,Running Pull-Up Jump Shot,26,-161,205,False
+Dario Saric,3,8,4,0,Running Reverse Layup Shot,0,0,1,True
+Dario Saric,4,11,40,1,Step Back Jump shot,16,-50,157,True
+Dario Saric,2,6,56,1,Step Back Jump shot,19,-149,132,True
+Dario Saric,2,9,27,1,Step Back Jump shot,25,-25,253,False
+Dario Saric,2,3,7,1,Step Back Jump shot,20,-90,188,True
+Dario Saric,1,7,26,0,Step Back Jump shot,25,-96,236,False
+Dario Saric,4,11,9,0,Step Back Jump shot,15,-24,151,True
+Dario Saric,1,2,16,0,Step Back Jump shot,20,46,204,True
+Dario Saric,4,7,52,0,Step Back Jump shot,28,78,273,False
+Dario Saric,2,7,46,1,Step Back Jump shot,18,-183,21,True
+Dario Saric,4,4,14,0,Step Back Jump shot,20,56,198,True
+Dario Saric,3,3,19,1,Step Back Jump shot,24,-29,248,False
+Dario Saric,1,4,15,1,Tip Layup Shot,0,0,-6,True
+Dario Saric,2,2,2,1,Tip Layup Shot,0,0,-6,True
+Dario Saric,1,9,22,1,Tip Layup Shot,0,0,-6,True
+Dario Saric,3,7,22,0,Tip Layup Shot,0,0,-6,True
+Dario Saric,3,4,32,0,Tip Layup Shot,0,0,-6,True
+Dario Saric,1,9,20,1,Tip Layup Shot,0,0,-6,True
+Dario Saric,3,9,31,1,Tip Layup Shot,0,0,-6,True
+Dario Saric,1,3,45,0,Tip Layup Shot,0,0,-6,True
+Dario Saric,4,4,15,0,Tip Layup Shot,0,0,-6,True
+Dario Saric,2,7,8,0,Tip Layup Shot,0,0,-6,True
+Dario Saric,3,8,4,1,Tip Layup Shot,0,0,-6,True
+Dario Saric,1,5,8,1,Turnaround Fadeaway Bank Jump Shot,4,27,30,True
+Dario Saric,1,5,34,0,Turnaround Fadeaway shot,5,36,45,True
+Dario Saric,3,1,27,0,Turnaround Fadeaway shot,7,-75,3,True
+Dario Saric,3,4,26,0,Turnaround Hook Shot,4,11,45,True
+Dario Saric,4,6,25,0,Turnaround Hook Shot,7,7,71,True
+Dario Saric,3,10,47,0,Turnaround Hook Shot,11,101,46,True
+Dario Saric,3,2,4,0,Turnaround Hook Shot,15,51,151,True
+Dario Saric,1,10,8,0,Turnaround Hook Shot,9,46,80,True
+Dario Saric,1,7,37,1,Turnaround Hook Shot,9,-8,97,True
+Dario Saric,2,3,28,1,Turnaround Hook Shot,7,8,75,True
+Dario Saric,3,11,10,0,Turnaround Hook Shot,8,41,75,True
+Dario Saric,2,5,30,0,Turnaround Hook Shot,8,8,83,True
+Dario Saric,2,1,0,1,Turnaround Hook Shot,7,3,74,True
+Dario Saric,1,5,33,0,Turnaround Hook Shot,7,-18,73,True
+Dario Saric,1,8,59,1,Turnaround Hook Shot,3,35,14,True
+Dario Saric,4,7,15,0,Turnaround Jump Shot,17,93,147,True
+Dario Saric,3,6,2,0,Turnaround Jump Shot,12,-35,121,True
+Dario Saric,4,11,16,0,Turnaround Jump Shot,11,113,8,True
+Dario Saric,4,2,16,1,Turnaround Jump Shot,7,-11,71,True
+Dario Saric,2,0,0,0,Turnaround Jump Shot,17,120,132,True
+Dario Saric,4,1,49,0,Turnaround Jump Shot,8,-5,88,True

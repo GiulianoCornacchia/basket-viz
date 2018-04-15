@@ -1,0 +1,705 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Kevin Love,1,11,9,1,Alley Oop Layup shot,1,-3,13,True
+Kevin Love,3,7,45,0,Alley Oop Layup shot,3,-13,35,True
+Kevin Love,1,8,33,0,Alley Oop Layup shot,1,-5,19,True
+Kevin Love,1,5,47,0,Alley Oop Layup shot,1,7,13,True
+Kevin Love,3,6,0,0,Alley Oop Layup shot,2,0,25,True
+Kevin Love,3,11,46,1,Alley Oop Layup shot,1,-13,12,True
+Kevin Love,2,2,38,0,Alley Oop Layup shot,1,9,17,True
+Kevin Love,2,6,9,1,Cutting Dunk Shot,1,0,11,True
+Kevin Love,1,4,42,1,Cutting Dunk Shot,1,-1,10,True
+Kevin Love,2,2,53,1,Cutting Dunk Shot,0,-2,8,True
+Kevin Love,3,11,45,1,Cutting Finger Roll Layup Shot,1,-12,8,True
+Kevin Love,2,6,22,0,Cutting Layup Shot,0,3,8,True
+Kevin Love,2,5,41,0,Cutting Layup Shot,2,4,20,True
+Kevin Love,1,11,34,1,Cutting Layup Shot,6,-3,69,True
+Kevin Love,2,5,9,1,Cutting Layup Shot,1,12,10,True
+Kevin Love,1,9,42,1,Cutting Layup Shot,0,0,1,True
+Kevin Love,4,8,37,1,Cutting Layup Shot,1,3,10,True
+Kevin Love,1,9,39,1,Cutting Layup Shot,2,-24,2,True
+Kevin Love,3,5,32,1,Cutting Layup Shot,1,-14,7,True
+Kevin Love,4,4,0,1,Cutting Layup Shot,1,5,16,True
+Kevin Love,4,4,14,1,Cutting Layup Shot,1,-3,18,True
+Kevin Love,1,5,44,1,Cutting Layup Shot,1,2,11,True
+Kevin Love,3,9,6,1,Cutting Layup Shot,1,0,16,True
+Kevin Love,1,11,24,0,Cutting Layup Shot,1,6,11,True
+Kevin Love,3,6,59,1,Cutting Layup Shot,1,9,14,True
+Kevin Love,1,9,29,1,Cutting Layup Shot,1,-7,15,True
+Kevin Love,3,10,43,1,Cutting Layup Shot,1,13,10,True
+Kevin Love,4,7,2,1,Cutting Layup Shot,1,13,11,True
+Kevin Love,1,11,32,1,Cutting Layup Shot,1,2,16,True
+Kevin Love,2,4,12,0,Cutting Layup Shot,3,0,34,True
+Kevin Love,4,4,50,1,Cutting Layup Shot,1,14,6,True
+Kevin Love,3,8,59,0,Cutting Layup Shot,2,14,16,True
+Kevin Love,2,3,38,1,Cutting Layup Shot,1,-4,19,True
+Kevin Love,1,11,24,1,Cutting Layup Shot,0,4,5,True
+Kevin Love,1,11,34,0,Cutting Layup Shot,2,-22,14,True
+Kevin Love,1,11,46,0,Cutting Layup Shot,1,9,13,True
+Kevin Love,3,4,31,1,Cutting Layup Shot,0,-5,7,True
+Kevin Love,4,0,19,0,Driving Dunk Shot,1,5,11,True
+Kevin Love,1,4,28,1,Driving Dunk Shot,1,-11,6,True
+Kevin Love,1,8,29,1,Driving Finger Roll Layup Shot,0,2,9,True
+Kevin Love,3,3,45,0,Driving Finger Roll Layup Shot,0,-3,-1,True
+Kevin Love,3,8,1,0,Driving Floating Bank Jump Shot,6,43,42,True
+Kevin Love,3,8,19,0,Driving Floating Bank Jump Shot,1,14,10,True
+Kevin Love,2,3,5,1,Driving Floating Bank Jump Shot,1,-8,11,True
+Kevin Love,1,5,57,1,Driving Floating Bank Jump Shot,8,-78,35,True
+Kevin Love,1,4,54,0,Driving Floating Jump Shot,3,12,36,True
+Kevin Love,3,6,58,1,Driving Floating Jump Shot,10,-38,95,True
+Kevin Love,1,5,33,1,Driving Floating Jump Shot,1,-3,13,True
+Kevin Love,2,6,49,0,Driving Floating Jump Shot,8,8,83,True
+Kevin Love,4,5,24,0,Driving Hook Shot,7,-25,71,True
+Kevin Love,1,7,21,1,Driving Hook Shot,8,23,78,True
+Kevin Love,1,4,39,0,Driving Hook Shot,11,4,113,True
+Kevin Love,1,11,9,0,Driving Layup Shot,4,28,32,True
+Kevin Love,2,3,36,1,Driving Layup Shot,0,3,-2,True
+Kevin Love,1,2,13,1,Driving Layup Shot,2,-23,10,True
+Kevin Love,2,3,44,0,Driving Layup Shot,4,34,31,True
+Kevin Love,3,5,38,1,Driving Layup Shot,1,9,6,True
+Kevin Love,3,8,59,0,Driving Layup Shot,1,0,14,True
+Kevin Love,1,3,50,0,Driving Layup Shot,2,-24,-9,True
+Kevin Love,3,5,44,0,Driving Layup Shot,2,5,22,True
+Kevin Love,2,1,3,0,Driving Layup Shot,2,0,21,True
+Kevin Love,1,4,43,0,Driving Layup Shot,1,7,11,True
+Kevin Love,1,6,23,0,Driving Layup Shot,5,0,55,True
+Kevin Love,3,9,38,0,Driving Layup Shot,5,-44,38,True
+Kevin Love,1,10,10,1,Driving Layup Shot,0,-2,0,True
+Kevin Love,3,5,34,0,Driving Layup Shot,1,9,11,True
+Kevin Love,2,1,21,1,Driving Layup Shot,1,8,16,True
+Kevin Love,1,2,28,0,Driving Layup Shot,6,53,42,True
+Kevin Love,3,7,34,1,Driving Layup Shot,0,3,3,True
+Kevin Love,2,7,22,0,Driving Layup Shot,5,-56,18,True
+Kevin Love,1,5,27,0,Driving Layup Shot,0,-9,0,True
+Kevin Love,1,7,11,1,Driving Layup Shot,0,-6,4,True
+Kevin Love,2,4,27,1,Driving Layup Shot,0,0,2,True
+Kevin Love,1,7,22,1,Driving Layup Shot,1,-8,10,True
+Kevin Love,1,6,5,0,Driving Layup Shot,3,23,22,True
+Kevin Love,2,1,25,1,Driving Layup Shot,1,-9,10,True
+Kevin Love,3,7,32,1,Driving Layup Shot,1,8,6,True
+Kevin Love,4,3,6,0,Driving Reverse Layup Shot,2,20,12,True
+Kevin Love,2,5,38,1,Driving Reverse Layup Shot,0,1,8,True
+Kevin Love,3,9,25,0,Driving Reverse Layup Shot,3,-33,16,True
+Kevin Love,3,0,41,1,Driving Reverse Layup Shot,0,-3,2,True
+Kevin Love,2,7,17,0,Fadeaway Jump Shot,12,-120,6,True
+Kevin Love,1,7,34,1,Fadeaway Jump Shot,13,-131,22,True
+Kevin Love,3,9,9,1,Fadeaway Jump Shot,6,-20,60,True
+Kevin Love,2,6,52,1,Fadeaway Jump Shot,12,5,125,True
+Kevin Love,2,7,30,0,Fadeaway Jump Shot,12,-88,84,True
+Kevin Love,3,7,0,0,Fadeaway Jump Shot,7,-3,71,True
+Kevin Love,3,11,29,1,Finger Roll Layup Shot,1,-6,10,True
+Kevin Love,3,9,7,0,Finger Roll Layup Shot,2,8,28,True
+Kevin Love,1,8,57,1,Floating Jump shot,3,-8,31,True
+Kevin Love,1,4,11,0,Floating Jump shot,1,0,16,True
+Kevin Love,3,4,53,1,Hook Bank Shot,1,12,1,True
+Kevin Love,1,7,14,1,Hook Shot,14,-115,89,True
+Kevin Love,3,7,9,0,Hook Shot,4,-40,13,True
+Kevin Love,1,11,5,0,Hook Shot,4,41,17,True
+Kevin Love,1,9,59,0,Hook Shot,10,46,89,True
+Kevin Love,1,6,0,0,Hook Shot,8,54,71,True
+Kevin Love,2,4,51,1,Hook Shot,4,2,42,True
+Kevin Love,1,2,20,0,Hook Shot,9,-52,82,True
+Kevin Love,1,10,48,0,Hook Shot,14,-111,89,True
+Kevin Love,2,6,58,1,Hook Shot,9,-71,65,True
+Kevin Love,2,6,27,1,Hook Shot,3,-9,38,True
+Kevin Love,3,10,40,1,Hook Shot,9,-67,63,True
+Kevin Love,1,2,31,0,Hook Shot,4,39,27,True
+Kevin Love,3,5,7,0,Hook Shot,3,36,0,True
+Kevin Love,3,6,30,0,Hook Shot,5,-33,49,True
+Kevin Love,1,5,39,1,Hook Shot,1,-8,17,True
+Kevin Love,1,10,57,1,Hook Shot,5,-6,53,True
+Kevin Love,1,4,55,0,Hook Shot,7,-14,71,True
+Kevin Love,4,7,18,0,Hook Shot,4,44,6,True
+Kevin Love,1,8,33,1,Hook Shot,7,-14,78,True
+Kevin Love,2,2,5,0,Hook Shot,3,3,31,True
+Kevin Love,1,8,14,1,Hook Shot,5,-41,31,True
+Kevin Love,1,11,19,1,Hook Shot,6,-5,67,True
+Kevin Love,1,11,47,0,Hook Shot,5,0,58,True
+Kevin Love,1,5,1,0,Hook Shot,6,-62,21,True
+Kevin Love,2,4,6,1,Hook Shot,6,48,36,True
+Kevin Love,1,6,30,1,Hook Shot,3,3,35,True
+Kevin Love,1,10,15,1,Hook Shot,4,-42,13,True
+Kevin Love,1,11,28,0,Hook Shot,5,0,59,True
+Kevin Love,1,11,34,0,Hook Shot,7,-5,74,True
+Kevin Love,1,11,31,0,Hook Shot,1,-3,11,True
+Kevin Love,3,9,49,1,Hook Shot,6,-7,64,True
+Kevin Love,2,5,1,1,Hook Shot,1,16,10,True
+Kevin Love,1,7,49,0,Hook Shot,11,36,108,True
+Kevin Love,2,3,21,1,Jump Bank Shot,7,61,37,True
+Kevin Love,4,11,0,1,Jump Bank Shot,18,-161,90,True
+Kevin Love,3,10,4,1,Jump Bank Shot,12,-120,41,True
+Kevin Love,1,5,41,1,Jump Bank Shot,20,-153,139,True
+Kevin Love,2,7,51,0,Jump Bank Shot,17,-137,112,True
+Kevin Love,4,11,16,0,Jump Bank Shot,19,-131,144,True
+Kevin Love,1,6,50,1,Jump Bank Shot,14,-125,72,True
+Kevin Love,2,1,54,0,Jump Bank Shot,5,-50,2,True
+Kevin Love,2,5,2,1,Jump Shot,22,226,14,False
+Kevin Love,1,6,33,1,Jump Shot,28,75,270,False
+Kevin Love,3,7,1,1,Jump Shot,23,234,10,False
+Kevin Love,3,7,3,1,Jump Shot,16,-143,72,True
+Kevin Love,3,10,32,1,Jump Shot,20,-205,-11,True
+Kevin Love,1,7,46,0,Jump Shot,25,80,242,False
+Kevin Love,4,5,39,0,Jump Shot,17,115,138,True
+Kevin Love,3,1,41,0,Jump Shot,26,131,227,False
+Kevin Love,4,11,18,1,Jump Shot,25,125,226,False
+Kevin Love,4,8,56,0,Jump Shot,23,-230,35,False
+Kevin Love,4,1,27,0,Jump Shot,24,231,73,False
+Kevin Love,4,3,3,0,Jump Shot,16,112,119,True
+Kevin Love,2,0,45,1,Jump Shot,23,-234,25,False
+Kevin Love,1,8,0,1,Jump Shot,24,92,231,False
+Kevin Love,1,9,3,0,Jump Shot,15,-143,65,True
+Kevin Love,2,1,19,1,Jump Shot,11,-84,74,True
+Kevin Love,1,5,28,0,Jump Shot,23,-231,23,False
+Kevin Love,5,1,47,1,Jump Shot,25,-200,155,False
+Kevin Love,3,3,36,1,Jump Shot,26,6,261,False
+Kevin Love,2,2,37,1,Jump Shot,24,-237,70,False
+Kevin Love,1,7,33,0,Jump Shot,23,-230,12,False
+Kevin Love,1,8,31,0,Jump Shot,21,-212,40,True
+Kevin Love,1,11,43,0,Jump Shot,13,-134,0,True
+Kevin Love,1,7,38,1,Jump Shot,29,-14,295,False
+Kevin Love,1,11,33,0,Jump Shot,17,-171,23,True
+Kevin Love,3,3,44,0,Jump Shot,17,149,86,True
+Kevin Love,3,8,48,1,Jump Shot,23,-239,5,False
+Kevin Love,1,9,17,0,Jump Shot,14,143,31,True
+Kevin Love,1,6,6,0,Jump Shot,23,234,33,False
+Kevin Love,3,6,6,1,Jump Shot,24,-229,85,False
+Kevin Love,4,4,2,1,Jump Shot,27,226,151,False
+Kevin Love,1,9,34,0,Jump Shot,21,-78,199,True
+Kevin Love,1,10,7,1,Jump Shot,25,187,170,False
+Kevin Love,4,1,43,0,Jump Shot,24,-215,122,False
+Kevin Love,1,4,13,0,Jump Shot,26,91,246,False
+Kevin Love,3,7,53,1,Jump Shot,17,-168,58,True
+Kevin Love,3,7,9,0,Jump Shot,25,-215,137,False
+Kevin Love,3,4,27,1,Jump Shot,27,105,252,False
+Kevin Love,1,5,36,1,Jump Shot,25,-107,231,False
+Kevin Love,1,8,32,0,Jump Shot,24,-235,85,False
+Kevin Love,1,4,28,0,Jump Shot,23,-230,-4,False
+Kevin Love,1,9,20,0,Jump Shot,17,-134,115,True
+Kevin Love,3,7,20,1,Jump Shot,19,55,185,True
+Kevin Love,1,11,21,1,Jump Shot,28,-136,247,False
+Kevin Love,1,5,11,1,Jump Shot,25,228,115,False
+Kevin Love,3,5,22,1,Jump Shot,5,-2,52,True
+Kevin Love,2,4,18,0,Jump Shot,23,231,34,False
+Kevin Love,3,5,52,1,Jump Shot,26,151,223,False
+Kevin Love,1,5,33,0,Jump Shot,14,-127,75,True
+Kevin Love,1,5,9,1,Jump Shot,25,208,151,False
+Kevin Love,3,8,11,0,Jump Shot,22,-220,36,False
+Kevin Love,1,9,26,0,Jump Shot,26,-2,267,False
+Kevin Love,2,0,45,0,Jump Shot,23,-237,-1,False
+Kevin Love,2,2,25,1,Jump Shot,22,-227,25,False
+Kevin Love,1,11,43,1,Jump Shot,24,-114,222,False
+Kevin Love,1,6,22,1,Jump Shot,25,78,248,False
+Kevin Love,4,0,27,1,Jump Shot,23,231,15,False
+Kevin Love,1,5,21,1,Jump Shot,25,-65,248,False
+Kevin Love,1,11,21,0,Jump Shot,20,81,189,True
+Kevin Love,3,6,0,1,Jump Shot,25,-125,227,False
+Kevin Love,3,5,40,0,Jump Shot,26,152,218,False
+Kevin Love,1,10,57,0,Jump Shot,25,-195,163,False
+Kevin Love,3,11,19,0,Jump Shot,27,-129,239,False
+Kevin Love,4,5,36,1,Jump Shot,23,-234,15,False
+Kevin Love,2,6,14,0,Jump Shot,25,-150,207,False
+Kevin Love,3,5,5,0,Jump Shot,13,-125,59,True
+Kevin Love,1,10,54,1,Jump Shot,24,230,90,False
+Kevin Love,1,5,38,0,Jump Shot,22,226,11,False
+Kevin Love,2,5,5,0,Jump Shot,24,-211,124,False
+Kevin Love,2,3,18,0,Jump Shot,23,-234,-10,False
+Kevin Love,1,11,42,0,Jump Shot,25,-147,206,False
+Kevin Love,3,11,10,0,Jump Shot,23,-237,9,False
+Kevin Love,1,3,17,0,Jump Shot,25,-133,222,False
+Kevin Love,3,6,39,0,Jump Shot,25,-40,253,False
+Kevin Love,1,7,38,1,Jump Shot,23,-231,16,False
+Kevin Love,1,4,49,0,Jump Shot,22,226,0,False
+Kevin Love,3,8,56,0,Jump Shot,19,139,131,True
+Kevin Love,1,6,37,0,Jump Shot,15,-143,54,True
+Kevin Love,1,7,4,1,Jump Shot,25,15,253,False
+Kevin Love,1,8,39,0,Jump Shot,26,-28,259,False
+Kevin Love,3,11,51,1,Jump Shot,26,83,250,False
+Kevin Love,2,4,28,0,Jump Shot,25,13,257,False
+Kevin Love,3,6,28,0,Jump Shot,22,-223,-18,False
+Kevin Love,1,6,3,0,Jump Shot,25,-122,227,False
+Kevin Love,3,11,7,1,Jump Shot,20,-16,209,True
+Kevin Love,1,6,34,0,Jump Shot,23,-167,160,True
+Kevin Love,3,8,12,0,Jump Shot,26,-33,258,False
+Kevin Love,2,0,0,0,Jump Shot,36,174,322,False
+Kevin Love,2,11,14,0,Jump Shot,20,185,80,True
+Kevin Love,3,8,50,0,Jump Shot,25,-226,115,False
+Kevin Love,3,10,38,0,Jump Shot,31,149,282,False
+Kevin Love,1,4,3,0,Jump Shot,25,-231,109,False
+Kevin Love,1,5,18,1,Jump Shot,25,108,233,False
+Kevin Love,1,9,2,1,Jump Shot,24,185,165,False
+Kevin Love,1,6,56,1,Jump Shot,19,-170,97,True
+Kevin Love,1,8,12,0,Jump Shot,28,37,278,False
+Kevin Love,2,4,13,0,Jump Shot,25,62,249,False
+Kevin Love,2,4,57,1,Jump Shot,26,-138,223,False
+Kevin Love,1,10,38,0,Jump Shot,19,141,132,True
+Kevin Love,3,5,6,0,Jump Shot,26,-187,181,False
+Kevin Love,1,0,39,1,Jump Shot,27,-158,227,False
+Kevin Love,1,6,27,0,Jump Shot,13,-130,40,True
+Kevin Love,1,7,37,1,Jump Shot,28,127,260,False
+Kevin Love,1,3,48,0,Jump Shot,23,-236,13,False
+Kevin Love,2,3,27,1,Jump Shot,24,-236,58,False
+Kevin Love,3,9,4,0,Jump Shot,26,164,208,False
+Kevin Love,1,5,1,1,Jump Shot,32,-204,252,False
+Kevin Love,3,8,56,1,Jump Shot,20,-207,17,True
+Kevin Love,4,7,1,0,Jump Shot,24,135,207,False
+Kevin Love,1,10,4,0,Jump Shot,20,-160,127,True
+Kevin Love,1,11,2,0,Jump Shot,15,-131,83,True
+Kevin Love,3,4,39,0,Jump Shot,4,7,41,True
+Kevin Love,3,11,13,1,Jump Shot,18,-130,126,True
+Kevin Love,2,1,44,0,Jump Shot,23,-229,48,False
+Kevin Love,1,5,8,1,Jump Shot,26,-139,226,False
+Kevin Love,3,9,27,1,Jump Shot,25,-128,221,False
+Kevin Love,3,3,2,0,Jump Shot,26,143,218,False
+Kevin Love,3,10,36,1,Jump Shot,23,-232,-6,False
+Kevin Love,1,4,11,1,Jump Shot,15,-145,43,True
+Kevin Love,1,10,28,0,Jump Shot,25,61,251,False
+Kevin Love,3,9,38,0,Jump Shot,24,41,244,False
+Kevin Love,3,3,37,0,Jump Shot,25,80,242,False
+Kevin Love,4,0,46,1,Jump Shot,22,227,21,False
+Kevin Love,3,7,51,1,Jump Shot,19,-133,146,True
+Kevin Love,1,2,9,1,Jump Shot,25,-168,195,False
+Kevin Love,3,0,3,1,Jump Shot,13,-135,29,True
+Kevin Love,3,4,29,0,Jump Shot,24,-185,167,False
+Kevin Love,3,4,55,1,Jump Shot,22,-220,27,False
+Kevin Love,1,7,43,1,Jump Shot,25,149,207,False
+Kevin Love,1,11,44,0,Jump Shot,22,-227,-5,False
+Kevin Love,3,6,28,0,Jump Shot,17,51,169,True
+Kevin Love,2,5,50,0,Jump Shot,25,-162,193,False
+Kevin Love,1,9,52,1,Jump Shot,25,-143,210,False
+Kevin Love,1,2,18,1,Jump Shot,20,199,67,True
+Kevin Love,1,10,8,0,Jump Shot,15,-143,65,True
+Kevin Love,1,5,48,0,Jump Shot,24,38,246,False
+Kevin Love,3,11,20,0,Jump Shot,11,-109,25,True
+Kevin Love,3,11,2,0,Jump Shot,25,225,121,False
+Kevin Love,2,4,51,0,Jump Shot,19,-122,154,True
+Kevin Love,2,6,55,1,Jump Shot,25,-183,180,False
+Kevin Love,3,1,37,1,Jump Shot,24,235,75,False
+Kevin Love,4,3,7,0,Jump Shot,25,-136,215,False
+Kevin Love,2,4,25,1,Jump Shot,25,189,169,False
+Kevin Love,2,2,27,0,Jump Shot,26,10,266,False
+Kevin Love,4,2,42,0,Jump Shot,25,-3,253,False
+Kevin Love,4,4,43,0,Jump Shot,24,239,34,False
+Kevin Love,3,4,52,0,Jump Shot,22,227,6,False
+Kevin Love,1,6,23,0,Jump Shot,16,-1,169,True
+Kevin Love,4,2,6,0,Jump Shot,23,227,62,False
+Kevin Love,1,9,3,0,Jump Shot,26,-134,230,False
+Kevin Love,4,1,35,1,Jump Shot,25,-5,252,False
+Kevin Love,2,3,45,0,Jump Shot,3,27,16,True
+Kevin Love,1,3,35,0,Jump Shot,25,161,200,False
+Kevin Love,2,2,44,0,Jump Shot,25,-38,248,False
+Kevin Love,3,5,23,0,Jump Shot,28,-29,281,False
+Kevin Love,1,9,30,1,Jump Shot,25,6,250,False
+Kevin Love,3,11,8,0,Jump Shot,22,-228,3,False
+Kevin Love,1,10,37,0,Jump Shot,24,93,232,False
+Kevin Love,3,10,9,1,Jump Shot,19,110,167,True
+Kevin Love,2,1,50,0,Jump Shot,24,112,223,False
+Kevin Love,3,6,17,0,Jump Shot,25,127,216,False
+Kevin Love,4,3,38,0,Jump Shot,25,-171,185,False
+Kevin Love,2,10,30,0,Jump Shot,25,-206,154,False
+Kevin Love,1,11,20,0,Jump Shot,26,118,235,False
+Kevin Love,2,7,11,0,Jump Shot,25,127,222,False
+Kevin Love,2,9,28,0,Jump Shot,23,-231,60,False
+Kevin Love,3,3,41,1,Jump Shot,10,-109,8,True
+Kevin Love,1,10,28,0,Jump Shot,26,80,248,False
+Kevin Love,3,8,35,1,Jump Shot,25,92,236,False
+Kevin Love,5,2,58,1,Jump Shot,26,77,252,False
+Kevin Love,2,1,41,0,Jump Shot,23,-235,31,False
+Kevin Love,2,5,55,0,Jump Shot,19,-188,67,True
+Kevin Love,3,7,28,0,Jump Shot,24,232,69,False
+Kevin Love,4,1,42,0,Jump Shot,26,-204,168,False
+Kevin Love,4,5,12,1,Jump Shot,27,133,236,False
+Kevin Love,4,4,4,0,Jump Shot,26,124,233,False
+Kevin Love,3,6,35,0,Jump Shot,23,-235,43,False
+Kevin Love,1,3,15,1,Jump Shot,27,106,252,False
+Kevin Love,1,10,30,1,Jump Shot,16,-122,114,True
+Kevin Love,1,2,27,0,Jump Shot,9,-74,57,True
+Kevin Love,3,7,10,0,Jump Shot,27,-141,232,False
+Kevin Love,3,9,59,0,Jump Shot,26,-27,264,False
+Kevin Love,3,9,31,1,Jump Shot,16,151,59,True
+Kevin Love,3,2,39,0,Jump Shot,25,-236,89,False
+Kevin Love,3,1,24,0,Jump Shot,25,87,239,False
+Kevin Love,2,1,54,0,Jump Shot,27,-198,190,False
+Kevin Love,1,9,6,1,Jump Shot,27,-35,268,False
+Kevin Love,2,1,19,1,Jump Shot,23,-233,6,False
+Kevin Love,1,11,4,1,Jump Shot,23,-231,-2,False
+Kevin Love,1,2,55,0,Jump Shot,27,132,237,False
+Kevin Love,1,3,55,1,Jump Shot,19,-36,189,True
+Kevin Love,1,6,53,0,Jump Shot,28,172,221,False
+Kevin Love,3,7,26,0,Jump Shot,28,-120,253,False
+Kevin Love,2,5,1,0,Jump Shot,25,-220,121,False
+Kevin Love,2,6,16,0,Jump Shot,18,149,113,True
+Kevin Love,1,11,24,1,Jump Shot,25,205,158,False
+Kevin Love,4,0,44,0,Jump Shot,28,-98,269,False
+Kevin Love,3,9,26,0,Jump Shot,26,0,267,False
+Kevin Love,2,3,1,0,Jump Shot,25,136,214,False
+Kevin Love,3,2,1,1,Jump Shot,26,-24,261,False
+Kevin Love,3,6,11,0,Jump Shot,16,-145,68,True
+Kevin Love,3,8,28,0,Jump Shot,29,103,272,False
+Kevin Love,3,1,39,1,Jump Shot,15,-150,25,True
+Kevin Love,3,0,54,0,Jump Shot,27,-7,272,False
+Kevin Love,1,11,31,0,Jump Shot,25,220,125,False
+Kevin Love,3,4,21,1,Jump Shot,25,-154,208,False
+Kevin Love,3,3,22,1,Jump Shot,16,-163,4,True
+Kevin Love,1,7,26,0,Jump Shot,22,-226,36,False
+Kevin Love,2,3,21,1,Jump Shot,23,230,20,False
+Kevin Love,3,4,35,0,Jump Shot,27,128,241,False
+Kevin Love,2,3,51,0,Jump Shot,16,-133,102,True
+Kevin Love,1,8,35,1,Jump Shot,14,-127,76,True
+Kevin Love,4,3,45,0,Jump Shot,26,145,225,False
+Kevin Love,1,4,17,0,Jump Shot,25,79,238,False
+Kevin Love,1,4,42,1,Jump Shot,25,67,244,False
+Kevin Love,2,6,24,1,Jump Shot,22,-228,-6,False
+Kevin Love,1,10,7,0,Jump Shot,28,112,258,False
+Kevin Love,3,7,43,0,Jump Shot,13,-131,47,True
+Kevin Love,3,10,45,1,Jump Shot,26,-123,230,False
+Kevin Love,3,9,54,0,Jump Shot,17,-168,26,True
+Kevin Love,3,6,5,0,Jump Shot,24,239,59,False
+Kevin Love,2,6,6,1,Jump Shot,22,-227,3,False
+Kevin Love,3,3,32,1,Jump Shot,22,228,29,False
+Kevin Love,4,4,44,1,Jump Shot,24,206,132,False
+Kevin Love,3,5,42,1,Jump Shot,22,-226,23,False
+Kevin Love,4,0,16,0,Jump Shot,28,-177,217,False
+Kevin Love,2,0,27,0,Jump Shot,25,-190,171,False
+Kevin Love,1,7,50,0,Jump Shot,26,63,257,False
+Kevin Love,3,6,48,0,Jump Shot,6,-7,62,True
+Kevin Love,2,5,33,1,Jump Shot,24,-24,247,False
+Kevin Love,3,11,48,1,Jump Shot,25,-29,256,False
+Kevin Love,3,6,46,0,Jump Shot,6,-5,60,True
+Kevin Love,3,11,15,0,Jump Shot,26,-165,202,False
+Kevin Love,1,4,38,1,Jump Shot,25,92,243,False
+Kevin Love,2,0,0,0,Jump Shot,9,-98,-5,True
+Kevin Love,2,6,50,1,Jump Shot,27,2,274,False
+Kevin Love,2,4,39,0,Jump Shot,27,-103,252,False
+Kevin Love,3,5,14,1,Jump Shot,22,225,6,False
+Kevin Love,1,5,52,0,Jump Shot,29,183,235,False
+Kevin Love,3,7,20,1,Jump Shot,24,-232,70,False
+Kevin Love,2,4,0,0,Jump Shot,28,188,209,False
+Kevin Love,1,1,54,1,Jump Shot,26,-47,257,False
+Kevin Love,1,9,47,0,Jump Shot,25,-205,157,False
+Kevin Love,3,7,2,1,Jump Shot,27,67,267,False
+Kevin Love,4,0,6,0,Jump Shot,28,-159,231,False
+Kevin Love,1,9,45,0,Jump Shot,24,-241,-17,False
+Kevin Love,3,8,21,0,Jump Shot,25,-19,251,False
+Kevin Love,1,10,59,0,Jump Shot,26,-134,234,False
+Kevin Love,4,6,57,1,Jump Shot,26,-198,170,False
+Kevin Love,1,10,8,0,Jump Shot,12,-71,104,True
+Kevin Love,2,2,43,1,Jump Shot,22,-226,17,False
+Kevin Love,3,9,10,0,Jump Shot,22,226,16,False
+Kevin Love,1,6,9,0,Jump Shot,6,-16,68,True
+Kevin Love,1,10,45,1,Jump Shot,25,177,186,False
+Kevin Love,4,8,42,0,Jump Shot,22,225,15,False
+Kevin Love,3,6,53,1,Jump Shot,23,-227,48,False
+Kevin Love,1,9,57,0,Jump Shot,23,230,21,False
+Kevin Love,4,7,27,1,Jump Shot,9,-43,84,True
+Kevin Love,2,3,54,1,Jump Shot,27,208,173,False
+Kevin Love,3,9,54,0,Jump Shot,29,21,298,False
+Kevin Love,4,10,18,0,Jump Shot,27,-229,149,False
+Kevin Love,1,10,25,1,Jump Shot,17,-177,1,True
+Kevin Love,1,6,50,1,Jump Shot,14,139,47,True
+Kevin Love,1,5,24,1,Jump Shot,25,-209,143,False
+Kevin Love,2,0,12,0,Jump Shot,22,226,24,False
+Kevin Love,3,7,27,1,Jump Shot,25,-138,211,False
+Kevin Love,1,4,50,1,Jump Shot,24,-209,131,False
+Kevin Love,3,11,47,0,Jump Shot,22,-63,218,True
+Kevin Love,3,11,4,0,Jump Shot,25,5,251,False
+Kevin Love,3,10,21,0,Jump Shot,22,224,10,False
+Kevin Love,3,6,34,0,Jump Shot,22,-228,13,False
+Kevin Love,1,10,46,0,Jump Shot,22,-229,15,False
+Kevin Love,1,10,10,1,Jump Shot,22,-225,42,False
+Kevin Love,1,10,34,0,Jump Shot,23,-228,64,False
+Kevin Love,2,5,44,0,Jump Shot,26,-195,174,False
+Kevin Love,1,6,9,0,Jump Shot,24,-235,78,False
+Kevin Love,1,3,0,0,Jump Shot,22,-223,30,False
+Kevin Love,4,3,33,0,Jump Shot,23,-235,1,False
+Kevin Love,2,3,57,1,Jump Shot,24,98,223,False
+Kevin Love,3,8,8,1,Jump Shot,23,236,40,False
+Kevin Love,1,8,35,1,Jump Shot,24,-239,29,False
+Kevin Love,3,9,37,0,Jump Shot,13,-14,139,True
+Kevin Love,1,11,26,0,Jump Shot,22,225,-6,False
+Kevin Love,2,4,46,1,Jump Shot,26,105,239,False
+Kevin Love,2,0,42,0,Jump Shot,13,-136,29,True
+Kevin Love,2,5,20,0,Jump Shot,27,121,242,False
+Kevin Love,1,6,52,0,Jump Shot,27,166,213,False
+Kevin Love,1,11,3,0,Jump Shot,17,-135,105,True
+Kevin Love,1,9,14,0,Jump Shot,26,76,258,False
+Kevin Love,2,2,48,0,Jump Shot,28,219,187,False
+Kevin Love,1,5,50,0,Jump Shot,25,229,104,False
+Kevin Love,3,9,49,0,Jump Shot,24,-174,179,False
+Kevin Love,4,4,3,0,Jump Shot,23,-233,4,False
+Kevin Love,3,8,10,0,Jump Shot,24,187,163,False
+Kevin Love,3,10,19,1,Jump Shot,24,192,157,False
+Kevin Love,1,4,27,1,Jump Shot,24,188,163,False
+Kevin Love,2,3,16,1,Jump Shot,21,184,114,True
+Kevin Love,3,10,43,1,Jump Shot,25,-33,250,False
+Kevin Love,1,10,31,0,Jump Shot,22,227,10,False
+Kevin Love,2,0,1,0,Jump Shot,22,227,21,False
+Kevin Love,3,4,41,1,Jump Shot,23,-230,1,False
+Kevin Love,1,7,19,1,Jump Shot,23,-235,8,False
+Kevin Love,1,9,35,0,Jump Shot,23,-230,-7,False
+Kevin Love,1,4,3,0,Jump Shot,15,-154,8,True
+Kevin Love,3,8,21,0,Jump Shot,24,-158,188,False
+Kevin Love,2,6,5,1,Jump Shot,23,-230,3,False
+Kevin Love,4,2,57,0,Jump Shot,22,-228,-1,False
+Kevin Love,3,5,23,1,Jump Shot,24,-23,247,False
+Kevin Love,3,8,37,0,Jump Shot,25,-209,143,False
+Kevin Love,1,5,9,1,Jump Shot,25,13,257,False
+Kevin Love,3,11,24,0,Jump Shot,25,-207,154,False
+Kevin Love,2,4,24,1,Jump Shot,25,-173,189,False
+Kevin Love,1,5,11,0,Jump Shot,27,-3,271,False
+Kevin Love,2,1,3,0,Jump Shot,26,50,257,False
+Kevin Love,4,4,29,0,Jump Shot,24,-230,75,False
+Kevin Love,1,8,34,1,Jump Shot,25,207,142,False
+Kevin Love,1,10,48,1,Jump Shot,25,116,222,False
+Kevin Love,1,6,37,1,Jump Shot,26,92,245,False
+Kevin Love,1,10,12,0,Jump Shot,23,232,-4,False
+Kevin Love,4,4,50,0,Jump Shot,24,-203,137,False
+Kevin Love,4,3,31,1,Jump Shot,25,-70,241,False
+Kevin Love,2,6,53,1,Jump Shot,29,19,298,False
+Kevin Love,4,7,3,0,Jump Shot,13,-118,57,True
+Kevin Love,2,2,18,1,Jump Shot,32,-55,316,False
+Kevin Love,2,1,47,0,Jump Shot,27,82,262,False
+Kevin Love,1,3,56,1,Jump Shot,18,-163,97,True
+Kevin Love,2,8,52,0,Jump Shot,25,-138,214,False
+Kevin Love,2,2,49,1,Jump Shot,25,41,248,False
+Kevin Love,3,6,38,1,Jump Shot,30,191,242,False
+Kevin Love,1,4,0,0,Jump Shot,17,-158,78,True
+Kevin Love,1,5,31,0,Jump Shot,23,-235,-24,False
+Kevin Love,2,9,17,0,Jump Shot,26,-101,242,False
+Kevin Love,3,11,8,0,Jump Shot,22,-222,10,False
+Kevin Love,4,0,44,0,Jump Shot,24,-204,138,False
+Kevin Love,2,3,33,1,Jump Shot,26,21,265,False
+Kevin Love,1,6,25,1,Jump Shot,25,187,166,False
+Kevin Love,4,2,21,0,Jump Shot,24,-212,117,False
+Kevin Love,3,6,26,0,Jump Shot,26,165,208,False
+Kevin Love,2,7,25,1,Jump Shot,24,221,109,False
+Kevin Love,1,8,50,1,Jump Shot,22,-221,25,False
+Kevin Love,4,10,40,0,Jump Shot,24,-236,49,False
+Kevin Love,1,10,56,1,Jump Shot,25,148,204,False
+Kevin Love,2,4,30,1,Jump Shot,22,225,1,False
+Kevin Love,1,11,46,0,Jump Shot,24,90,231,False
+Kevin Love,1,10,3,0,Jump Shot,22,227,-11,False
+Kevin Love,1,5,41,0,Jump Shot,18,183,15,True
+Kevin Love,1,4,27,0,Jump Shot,26,113,235,False
+Kevin Love,2,7,23,0,Jump Shot,23,230,0,False
+Kevin Love,3,7,23,1,Jump Shot,22,229,17,False
+Kevin Love,3,3,52,1,Jump Shot,25,60,247,False
+Kevin Love,2,5,55,0,Jump Shot,19,-168,101,True
+Kevin Love,1,9,45,1,Jump Shot,28,-52,278,False
+Kevin Love,3,7,33,0,Jump Shot,7,2,73,True
+Kevin Love,2,2,39,0,Jump Shot,27,-85,262,False
+Kevin Love,3,9,47,0,Jump Shot,25,-41,252,False
+Kevin Love,3,11,37,1,Jump Shot,23,-232,10,False
+Kevin Love,2,1,35,0,Jump Shot,28,-147,241,False
+Kevin Love,1,3,0,0,Jump Shot,27,-119,247,False
+Kevin Love,3,10,49,0,Jump Shot,24,142,204,False
+Kevin Love,1,10,11,1,Jump Shot,25,10,251,False
+Kevin Love,1,7,15,1,Jump Shot,11,93,59,True
+Kevin Love,1,3,44,0,Jump Shot,23,234,22,False
+Kevin Love,1,5,9,0,Jump Shot,25,121,229,False
+Kevin Love,3,7,1,0,Jump Shot,25,106,234,False
+Kevin Love,4,7,50,0,Jump Shot,23,234,24,False
+Kevin Love,4,10,33,1,Jump Shot,25,103,236,False
+Kevin Love,2,3,20,0,Jump Shot,25,-136,210,False
+Kevin Love,1,11,6,1,Jump Shot,25,-140,216,False
+Kevin Love,1,6,7,0,Jump Shot,22,-221,34,False
+Kevin Love,4,8,15,0,Jump Shot,25,-192,173,False
+Kevin Love,4,2,55,0,Jump Shot,11,-112,25,True
+Kevin Love,2,0,57,1,Jump Shot,26,-226,137,False
+Kevin Love,1,2,41,0,Jump Shot,26,-174,197,False
+Kevin Love,2,2,35,0,Jump Shot,25,-240,89,False
+Kevin Love,2,2,7,0,Jump Shot,26,-120,232,False
+Kevin Love,1,10,29,0,Jump Shot,26,-230,126,False
+Kevin Love,1,10,59,1,Jump Shot,24,49,244,False
+Kevin Love,1,3,46,0,Jump Shot,22,226,-10,False
+Kevin Love,1,5,35,0,Jump Shot,25,219,134,False
+Kevin Love,3,7,31,1,Jump Shot,25,216,131,False
+Kevin Love,1,1,33,0,Jump Shot,14,-145,16,True
+Kevin Love,4,3,24,1,Jump Shot,26,-224,132,False
+Kevin Love,3,10,9,0,Jump Shot,26,-188,183,False
+Kevin Love,1,11,25,0,Jump Shot,21,77,200,True
+Kevin Love,3,3,15,1,Jump Shot,26,78,254,False
+Kevin Love,3,4,39,1,Jump Shot,26,-182,190,False
+Kevin Love,2,1,26,0,Jump Shot,26,92,251,False
+Kevin Love,3,8,19,1,Layup Shot,1,-2,10,True
+Kevin Love,1,2,49,0,Layup Shot,3,-9,33,True
+Kevin Love,1,10,36,1,Layup Shot,1,5,10,True
+Kevin Love,3,2,44,1,Layup Shot,1,17,8,True
+Kevin Love,2,4,33,0,Layup Shot,0,-7,7,True
+Kevin Love,1,4,26,0,Layup Shot,1,-6,17,True
+Kevin Love,1,8,21,1,Layup Shot,2,7,25,True
+Kevin Love,2,5,48,0,Layup Shot,1,9,13,True
+Kevin Love,1,3,58,1,Layup Shot,0,0,3,True
+Kevin Love,1,7,37,0,Layup Shot,1,5,10,True
+Kevin Love,3,11,46,0,Layup Shot,1,2,-10,True
+Kevin Love,3,0,19,1,Layup Shot,2,0,20,True
+Kevin Love,2,0,54,0,Layup Shot,3,-27,19,True
+Kevin Love,3,3,14,1,Layup Shot,0,-2,8,True
+Kevin Love,3,10,58,1,Layup Shot,0,3,7,True
+Kevin Love,3,11,40,1,Layup Shot,2,-4,25,True
+Kevin Love,4,3,34,1,Layup Shot,0,-6,-1,True
+Kevin Love,1,7,49,0,Layup Shot,4,-31,29,True
+Kevin Love,1,11,2,0,Layup Shot,2,-21,13,True
+Kevin Love,2,5,31,1,Layup Shot,1,-4,14,True
+Kevin Love,2,5,15,0,Layup Shot,4,3,47,True
+Kevin Love,3,8,33,0,Layup Shot,3,-35,10,True
+Kevin Love,2,1,40,1,Layup Shot,2,9,18,True
+Kevin Love,3,8,52,0,Layup Shot,1,-13,8,True
+Kevin Love,1,2,26,1,Layup Shot,1,-3,15,True
+Kevin Love,3,9,22,0,Layup Shot,7,-71,21,True
+Kevin Love,2,3,46,1,Layup Shot,1,7,9,True
+Kevin Love,2,9,6,1,Layup Shot,1,3,11,True
+Kevin Love,1,11,9,0,Layup Shot,1,19,4,True
+Kevin Love,3,6,30,1,Layup Shot,1,4,15,True
+Kevin Love,2,4,12,1,Layup Shot,0,-2,1,True
+Kevin Love,2,0,47,0,Layup Shot,1,3,15,True
+Kevin Love,1,2,2,1,Layup Shot,1,9,11,True
+Kevin Love,3,4,31,1,Layup Shot,1,-2,11,True
+Kevin Love,1,2,54,1,Layup Shot,2,-15,16,True
+Kevin Love,1,4,17,0,Layup Shot,4,-13,43,True
+Kevin Love,5,1,1,0,Layup Shot,3,-25,27,True
+Kevin Love,2,5,1,0,Layup Shot,2,19,20,True
+Kevin Love,1,6,30,1,Layup Shot,0,-2,7,True
+Kevin Love,2,4,18,1,Layup Shot,2,1,22,True
+Kevin Love,3,4,39,1,Layup Shot,0,-3,6,True
+Kevin Love,3,7,25,0,Layup Shot,1,2,11,True
+Kevin Love,2,5,26,1,Layup Shot,1,11,12,True
+Kevin Love,2,2,41,1,Layup Shot,2,22,16,True
+Kevin Love,3,6,16,0,Layup Shot,1,-9,13,True
+Kevin Love,3,7,25,0,Layup Shot,3,-31,24,True
+Kevin Love,3,6,45,1,Layup Shot,1,2,13,True
+Kevin Love,2,7,15,0,Layup Shot,6,2,69,True
+Kevin Love,2,0,18,1,Layup Shot,2,5,22,True
+Kevin Love,1,7,18,0,Layup Shot,6,30,57,True
+Kevin Love,2,4,40,1,Layup Shot,1,13,14,True
+Kevin Love,3,6,58,0,Layup Shot,2,9,22,True
+Kevin Love,2,7,27,1,Layup Shot,0,-2,6,True
+Kevin Love,1,9,9,1,Layup Shot,1,11,15,True
+Kevin Love,1,6,0,0,Layup Shot,1,6,9,True
+Kevin Love,3,10,44,1,Layup Shot,1,-7,17,True
+Kevin Love,3,7,21,1,Layup Shot,0,3,7,True
+Kevin Love,4,2,11,0,Layup Shot,2,5,22,True
+Kevin Love,2,4,33,1,Layup Shot,2,24,15,True
+Kevin Love,4,3,37,1,Layup Shot,2,-5,20,True
+Kevin Love,3,8,11,0,Layup Shot,3,33,4,True
+Kevin Love,2,3,58,1,Layup Shot,0,3,-3,True
+Kevin Love,2,5,27,1,Layup Shot,0,-6,5,True
+Kevin Love,2,1,43,1,Layup Shot,1,-11,7,True
+Kevin Love,3,9,40,0,Layup Shot,2,22,15,True
+Kevin Love,2,3,47,1,Layup Shot,1,-6,16,True
+Kevin Love,1,11,5,1,Layup Shot,0,-2,5,True
+Kevin Love,1,11,10,1,Layup Shot,1,-2,19,True
+Kevin Love,1,11,33,0,Layup Shot,1,3,11,True
+Kevin Love,3,8,38,1,Layup Shot,0,-2,5,True
+Kevin Love,2,4,10,0,Layup Shot,1,11,2,True
+Kevin Love,1,4,1,0,Pullup Jump shot,21,-158,146,True
+Kevin Love,1,6,27,0,Pullup Jump shot,10,18,103,True
+Kevin Love,2,2,14,1,Pullup Jump shot,27,90,257,False
+Kevin Love,1,9,37,0,Pullup Jump shot,14,-145,-1,True
+Kevin Love,2,2,12,0,Pullup Jump shot,16,-120,109,True
+Kevin Love,1,8,44,1,Pullup Jump shot,12,-53,114,True
+Kevin Love,1,11,2,0,Pullup Jump shot,12,-81,100,True
+Kevin Love,1,11,2,0,Pullup Jump shot,17,70,162,True
+Kevin Love,1,3,2,0,Pullup Jump shot,14,-131,72,True
+Kevin Love,2,8,18,0,Pullup Jump shot,24,-171,171,False
+Kevin Love,3,5,24,0,Pullup Jump shot,17,-159,75,True
+Kevin Love,1,10,30,1,Pullup Jump shot,17,-111,136,True
+Kevin Love,3,9,12,0,Pullup Jump shot,18,-185,21,True
+Kevin Love,1,8,35,1,Pullup Jump shot,13,-103,84,True
+Kevin Love,2,10,13,0,Pullup Jump shot,20,-195,49,True
+Kevin Love,1,5,4,1,Pullup Jump shot,19,186,63,True
+Kevin Love,3,6,22,1,Putback Dunk Shot,1,3,14,True
+Kevin Love,3,1,56,1,Putback Layup Shot,1,0,13,True
+Kevin Love,2,6,10,1,Putback Layup Shot,0,0,-6,True
+Kevin Love,2,0,7,0,Putback Layup Shot,0,0,-6,True
+Kevin Love,3,9,33,1,Putback Layup Shot,0,0,8,True
+Kevin Love,3,7,49,1,Putback Layup Shot,0,2,1,True
+Kevin Love,1,11,39,1,Putback Layup Shot,0,0,-6,True
+Kevin Love,4,3,30,0,Putback Layup Shot,1,-5,9,True
+Kevin Love,4,4,3,0,Putback Layup Shot,0,0,-6,True
+Kevin Love,4,4,8,0,Putback Layup Shot,1,0,12,True
+Kevin Love,3,7,58,1,Putback Layup Shot,1,10,9,True
+Kevin Love,3,8,43,1,Putback Layup Shot,0,0,-6,True
+Kevin Love,2,3,44,0,Putback Layup Shot,0,-4,3,True
+Kevin Love,3,5,39,1,Putback Layup Shot,0,-3,0,True
+Kevin Love,2,5,52,0,Putback Layup Shot,0,6,4,True
+Kevin Love,2,3,44,1,Putback Layup Shot,0,0,3,True
+Kevin Love,2,0,2,1,Reverse Layup Shot,1,5,16,True
+Kevin Love,3,4,20,0,Reverse Layup Shot,1,-14,8,True
+Kevin Love,3,4,22,1,Reverse Layup Shot,0,1,6,True
+Kevin Love,3,11,47,1,Reverse Layup Shot,1,4,12,True
+Kevin Love,1,11,21,1,Reverse Layup Shot,0,-2,2,True
+Kevin Love,1,8,38,1,Reverse Layup Shot,0,0,1,True
+Kevin Love,1,11,37,1,Reverse Layup Shot,1,3,12,True
+Kevin Love,2,6,45,1,Reverse Layup Shot,1,2,18,True
+Kevin Love,2,5,40,0,Reverse Layup Shot,2,-2,20,True
+Kevin Love,3,8,44,1,Reverse Layup Shot,1,-9,6,True
+Kevin Love,4,2,40,0,Reverse Layup Shot,2,8,22,True
+Kevin Love,2,3,27,1,Running Finger Roll Layup Shot,0,-5,6,True
+Kevin Love,1,10,39,1,Running Jump Shot,1,-7,10,True
+Kevin Love,1,5,28,1,Running Layup Shot,0,2,8,True
+Kevin Love,4,3,4,0,Step Back Jump shot,23,-231,15,False
+Kevin Love,1,5,17,1,Step Back Jump shot,25,118,221,False
+Kevin Love,3,4,38,0,Step Back Jump shot,17,-158,73,True
+Kevin Love,1,7,36,0,Step Back Jump shot,16,-78,151,True
+Kevin Love,4,4,32,1,Step Back Jump shot,18,-187,-3,True
+Kevin Love,4,5,48,0,Step Back Jump shot,23,224,73,False
+Kevin Love,3,8,52,0,Step Back Jump shot,13,134,40,True
+Kevin Love,3,8,31,0,Step Back Jump shot,24,-161,188,False
+Kevin Love,2,8,1,0,Step Back Jump shot,16,-66,151,True
+Kevin Love,1,10,49,0,Step Back Jump shot,25,-81,237,False
+Kevin Love,1,7,41,0,Step Back Jump shot,17,165,62,True
+Kevin Love,3,7,34,1,Tip Layup Shot,0,0,-6,True
+Kevin Love,4,0,18,0,Tip Layup Shot,0,0,-6,True
+Kevin Love,1,5,44,0,Tip Layup Shot,1,-3,13,True
+Kevin Love,3,7,9,1,Tip Layup Shot,0,0,-6,True
+Kevin Love,2,0,0,1,Tip Layup Shot,0,0,-6,True
+Kevin Love,3,1,9,0,Tip Layup Shot,0,0,-6,True
+Kevin Love,3,5,55,1,Tip Layup Shot,0,0,-6,True
+Kevin Love,2,0,41,0,Tip Layup Shot,0,0,-6,True
+Kevin Love,3,8,13,1,Tip Layup Shot,0,0,-6,True
+Kevin Love,4,0,0,1,Tip Layup Shot,0,0,-6,True
+Kevin Love,3,7,35,1,Tip Layup Shot,0,0,-6,True
+Kevin Love,3,0,22,0,Tip Layup Shot,0,2,5,True
+Kevin Love,4,0,4,0,Tip Layup Shot,0,0,-6,True
+Kevin Love,1,7,40,1,Tip Layup Shot,0,0,-6,True
+Kevin Love,3,8,6,0,Tip Layup Shot,0,0,-6,True
+Kevin Love,1,9,49,0,Tip Layup Shot,0,0,-6,True
+Kevin Love,1,4,48,1,Tip Layup Shot,0,0,-6,True
+Kevin Love,4,10,49,1,Turnaround Fadeaway Bank Jump Shot,13,-130,33,True
+Kevin Love,4,5,21,0,Turnaround Fadeaway Bank Jump Shot,6,22,58,True
+Kevin Love,1,1,29,0,Turnaround Fadeaway shot,8,40,75,True
+Kevin Love,2,2,11,0,Turnaround Fadeaway shot,11,108,25,True
+Kevin Love,1,11,4,0,Turnaround Fadeaway shot,14,-45,137,True
+Kevin Love,3,8,14,1,Turnaround Fadeaway shot,16,154,58,True
+Kevin Love,1,2,12,1,Turnaround Fadeaway shot,14,-142,33,True
+Kevin Love,3,9,48,1,Turnaround Fadeaway shot,12,-128,22,True
+Kevin Love,2,5,56,1,Turnaround Fadeaway shot,9,-25,90,True
+Kevin Love,3,2,6,0,Turnaround Fadeaway shot,10,-105,15,True
+Kevin Love,2,0,35,1,Turnaround Fadeaway shot,12,5,126,True
+Kevin Love,1,8,8,0,Turnaround Fadeaway shot,9,70,64,True
+Kevin Love,1,7,38,1,Turnaround Hook Shot,11,98,57,True
+Kevin Love,4,3,54,1,Turnaround Hook Shot,5,11,49,True
+Kevin Love,1,2,20,1,Turnaround Hook Shot,8,30,79,True
+Kevin Love,1,6,32,1,Turnaround Hook Shot,6,-4,62,True
+Kevin Love,1,10,37,0,Turnaround Hook Shot,6,-30,52,True
+Kevin Love,1,9,34,0,Turnaround Hook Shot,11,0,117,True
+Kevin Love,2,1,15,0,Turnaround Hook Shot,10,20,104,True
+Kevin Love,1,6,38,1,Turnaround Hook Shot,11,-87,69,True
+Kevin Love,2,10,41,1,Turnaround Hook Shot,6,-63,4,True
+Kevin Love,2,5,59,0,Turnaround Hook Shot,6,12,67,True
+Kevin Love,2,6,38,0,Turnaround Hook Shot,11,-95,62,True
+Kevin Love,1,4,7,1,Turnaround Hook Shot,6,-61,15,True
+Kevin Love,2,0,58,1,Turnaround Hook Shot,11,-66,94,True
+Kevin Love,2,2,20,0,Turnaround Hook Shot,13,40,126,True
+Kevin Love,4,6,49,0,Turnaround Hook Shot,5,-27,49,True
+Kevin Love,1,9,24,1,Turnaround Hook Shot,10,106,-20,True
+Kevin Love,3,4,44,0,Turnaround Hook Shot,8,77,38,True
+Kevin Love,3,6,11,1,Turnaround Hook Shot,11,-92,74,True
+Kevin Love,1,5,16,0,Turnaround Jump Shot,8,-47,67,True
+Kevin Love,3,10,14,0,Turnaround Jump Shot,6,22,61,True
+Kevin Love,4,3,32,1,Turnaround Jump Shot,9,-36,84,True
+Kevin Love,1,8,41,0,Turnaround Jump Shot,9,-70,60,True
+Kevin Love,1,7,9,0,Turnaround Jump Shot,11,6,115,True
+Kevin Love,1,5,6,1,Turnaround Jump Shot,16,155,45,True
+Kevin Love,2,1,10,0,Turnaround Jump Shot,10,-72,70,True
+Kevin Love,2,5,12,0,Turnaround Jump Shot,11,-111,-8,True
+Kevin Love,4,9,41,0,Turnaround Jump Shot,10,-47,98,True

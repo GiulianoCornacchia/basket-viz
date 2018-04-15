@@ -1,0 +1,59 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Iman Shumpert,4,6,6,1,Cutting Dunk Shot,0,7,6,True
+Iman Shumpert,2,9,59,1,Cutting Layup Shot,1,9,17,True
+Iman Shumpert,3,3,20,1,Cutting Layup Shot,0,0,7,True
+Iman Shumpert,3,9,3,1,Cutting Layup Shot,1,11,11,True
+Iman Shumpert,4,7,56,1,Cutting Layup Shot,3,-23,28,True
+Iman Shumpert,2,7,48,1,Cutting Layup Shot,7,-62,47,True
+Iman Shumpert,3,9,59,0,Driving Layup Shot,5,-19,53,True
+Iman Shumpert,4,0,0,0,Driving Layup Shot,2,17,16,True
+Iman Shumpert,3,10,30,0,Jump Shot,23,-228,55,False
+Iman Shumpert,4,7,42,0,Jump Shot,19,-43,188,True
+Iman Shumpert,3,11,34,0,Jump Shot,24,-169,184,False
+Iman Shumpert,1,10,43,1,Jump Shot,19,114,161,True
+Iman Shumpert,3,10,20,0,Jump Shot,25,172,189,False
+Iman Shumpert,4,6,29,1,Jump Shot,14,-132,68,True
+Iman Shumpert,1,4,25,0,Jump Shot,21,158,141,True
+Iman Shumpert,4,10,25,0,Jump Shot,26,-47,257,False
+Iman Shumpert,3,9,16,0,Jump Shot,25,-174,189,False
+Iman Shumpert,2,3,57,0,Jump Shot,22,-226,9,False
+Iman Shumpert,1,4,20,0,Jump Shot,25,84,242,False
+Iman Shumpert,3,9,46,1,Jump Shot,23,-236,10,False
+Iman Shumpert,1,8,47,0,Jump Shot,25,154,204,False
+Iman Shumpert,2,6,41,0,Jump Shot,23,-229,60,False
+Iman Shumpert,1,0,50,0,Jump Shot,26,90,251,False
+Iman Shumpert,4,6,9,1,Jump Shot,24,236,72,False
+Iman Shumpert,4,0,44,0,Jump Shot,22,-201,110,True
+Iman Shumpert,4,9,36,0,Jump Shot,20,181,92,True
+Iman Shumpert,3,8,58,1,Jump Shot,25,-84,240,False
+Iman Shumpert,2,10,55,0,Jump Shot,19,120,158,True
+Iman Shumpert,2,8,2,1,Jump Shot,19,44,188,True
+Iman Shumpert,3,8,38,0,Jump Shot,24,-33,247,False
+Iman Shumpert,4,1,46,1,Jump Shot,26,76,251,False
+Iman Shumpert,4,5,11,0,Jump Shot,19,164,110,True
+Iman Shumpert,4,5,36,1,Jump Shot,25,-54,247,False
+Iman Shumpert,1,2,17,0,Jump Shot,23,232,14,False
+Iman Shumpert,1,3,39,0,Jump Shot,21,-192,92,True
+Iman Shumpert,1,5,9,0,Jump Shot,24,-135,201,False
+Iman Shumpert,1,7,5,1,Jump Shot,24,142,204,False
+Iman Shumpert,4,4,22,0,Jump Shot,23,231,17,False
+Iman Shumpert,1,8,34,1,Jump Shot,28,191,215,False
+Iman Shumpert,3,4,1,0,Jump Shot,27,-206,184,False
+Iman Shumpert,1,10,10,1,Jump Shot,17,119,127,True
+Iman Shumpert,1,1,36,0,Jump Shot,26,165,203,False
+Iman Shumpert,2,10,7,0,Jump Shot,25,63,246,False
+Iman Shumpert,3,11,15,0,Layup Shot,0,6,7,True
+Iman Shumpert,4,7,39,0,Pullup Jump shot,16,13,162,True
+Iman Shumpert,1,5,23,0,Pullup Jump shot,20,-158,134,True
+Iman Shumpert,3,1,37,0,Pullup Jump shot,23,-230,68,False
+Iman Shumpert,2,8,12,0,Pullup Jump shot,21,-137,164,True
+Iman Shumpert,4,7,2,1,Pullup Jump shot,11,-112,20,True
+Iman Shumpert,3,5,19,1,Pullup Jump shot,19,-183,78,True
+Iman Shumpert,2,5,43,0,Pullup Jump shot,11,67,99,True
+Iman Shumpert,4,11,14,1,Pullup Jump shot,16,137,90,True
+Iman Shumpert,4,5,46,1,Putback Layup Shot,0,0,-6,True
+Iman Shumpert,1,10,5,0,Step Back Jump shot,17,-150,92,True
+Iman Shumpert,1,9,10,0,Step Back Jump shot,22,112,194,True
+Iman Shumpert,1,2,19,1,Step Back Jump shot,18,92,159,True
+Iman Shumpert,4,9,2,0,Step Back Jump shot,26,220,143,False
+Iman Shumpert,3,7,23,0,Turnaround Fadeaway Bank Jump Shot,9,84,36,True

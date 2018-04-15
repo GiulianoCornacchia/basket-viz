@@ -1,0 +1,141 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Cody Zeller,4,9,37,1,Alley Oop Layup shot,2,-12,17,True
+Cody Zeller,2,9,24,1,Cutting Dunk Shot,1,9,10,True
+Cody Zeller,2,1,51,1,Cutting Dunk Shot,1,-1,10,True
+Cody Zeller,4,10,53,1,Cutting Dunk Shot,1,-4,11,True
+Cody Zeller,2,7,56,1,Cutting Dunk Shot,1,-7,15,True
+Cody Zeller,2,7,49,1,Cutting Dunk Shot,1,10,16,True
+Cody Zeller,1,1,52,1,Cutting Dunk Shot,0,-1,7,True
+Cody Zeller,3,1,49,1,Cutting Layup Shot,0,0,2,True
+Cody Zeller,2,11,48,0,Cutting Layup Shot,3,-29,14,True
+Cody Zeller,1,1,10,1,Cutting Layup Shot,1,-6,16,True
+Cody Zeller,2,10,55,1,Cutting Layup Shot,1,-14,0,True
+Cody Zeller,2,9,6,0,Cutting Layup Shot,1,9,16,True
+Cody Zeller,3,0,1,0,Cutting Layup Shot,1,6,8,True
+Cody Zeller,2,9,12,1,Cutting Layup Shot,1,-3,16,True
+Cody Zeller,3,0,12,0,Cutting Layup Shot,2,17,14,True
+Cody Zeller,2,11,3,1,Cutting Layup Shot,1,2,15,True
+Cody Zeller,4,9,31,1,Driving Dunk Shot,1,12,11,True
+Cody Zeller,2,10,25,1,Driving Floating Bank Jump Shot,11,106,43,True
+Cody Zeller,2,5,39,0,Driving Hook Shot,5,-14,58,True
+Cody Zeller,1,1,41,0,Driving Layup Shot,3,19,31,True
+Cody Zeller,4,0,57,1,Driving Layup Shot,1,2,13,True
+Cody Zeller,2,9,19,0,Driving Layup Shot,0,1,4,True
+Cody Zeller,2,9,47,0,Driving Layup Shot,1,-15,6,True
+Cody Zeller,2,7,16,1,Dunk Shot,1,-13,6,True
+Cody Zeller,3,0,36,1,Dunk Shot,1,0,10,True
+Cody Zeller,2,7,35,1,Dunk Shot,1,0,16,True
+Cody Zeller,4,10,7,1,Dunk Shot,1,-3,15,True
+Cody Zeller,4,1,12,1,Dunk Shot,0,7,-5,True
+Cody Zeller,4,10,8,1,Dunk Shot,1,3,12,True
+Cody Zeller,1,2,42,0,Floating Jump shot,8,51,69,True
+Cody Zeller,2,7,3,1,Floating Jump shot,3,-13,31,True
+Cody Zeller,2,7,54,1,Floating Jump shot,9,-44,88,True
+Cody Zeller,2,10,5,0,Floating Jump shot,5,-36,46,True
+Cody Zeller,2,9,27,1,Floating Jump shot,6,-9,62,True
+Cody Zeller,2,10,22,0,Floating Jump shot,10,31,100,True
+Cody Zeller,2,11,21,1,Hook Bank Shot,4,35,33,True
+Cody Zeller,3,3,25,1,Hook Shot,2,4,23,True
+Cody Zeller,4,4,33,1,Jump Shot,4,-27,40,True
+Cody Zeller,4,10,33,0,Jump Shot,21,108,183,True
+Cody Zeller,1,2,43,1,Jump Shot,15,-154,-7,True
+Cody Zeller,4,7,45,0,Jump Shot,18,93,163,True
+Cody Zeller,2,9,27,0,Jump Shot,17,152,89,True
+Cody Zeller,1,2,13,1,Jump Shot,21,-22,214,True
+Cody Zeller,4,8,8,0,Jump Shot,20,111,178,True
+Cody Zeller,3,0,39,0,Jump Shot,19,71,181,True
+Cody Zeller,2,5,39,1,Jump Shot,20,44,203,True
+Cody Zeller,1,2,34,0,Jump Shot,17,116,130,True
+Cody Zeller,3,0,17,1,Jump Shot,17,88,157,True
+Cody Zeller,2,11,20,0,Jump Shot,21,-109,183,True
+Cody Zeller,4,9,30,0,Jump Shot,1,-6,13,True
+Cody Zeller,4,0,16,1,Jump Shot,25,-141,218,False
+Cody Zeller,1,2,1,0,Jump Shot,20,-55,200,True
+Cody Zeller,1,1,40,1,Jump Shot,21,-115,179,True
+Cody Zeller,1,3,13,0,Jump Shot,19,-108,161,True
+Cody Zeller,1,0,55,0,Jump Shot,20,-100,178,True
+Cody Zeller,2,8,35,0,Jump Shot,20,134,160,True
+Cody Zeller,3,3,39,1,Jump Shot,7,19,68,True
+Cody Zeller,4,10,41,0,Jump Shot,20,114,165,True
+Cody Zeller,4,0,26,1,Jump Shot,24,-18,248,False
+Cody Zeller,4,0,27,0,Jump Shot,25,105,230,False
+Cody Zeller,4,3,2,1,Jump Shot,1,0,19,True
+Cody Zeller,2,9,31,0,Jump Shot,21,-127,168,True
+Cody Zeller,4,9,20,1,Jump Shot,20,108,170,True
+Cody Zeller,4,7,21,1,Jump Shot,20,101,177,True
+Cody Zeller,4,10,49,1,Layup Shot,8,3,88,True
+Cody Zeller,3,2,20,1,Layup Shot,2,-1,26,True
+Cody Zeller,2,7,53,0,Layup Shot,1,-11,16,True
+Cody Zeller,3,4,51,1,Layup Shot,3,-28,25,True
+Cody Zeller,4,11,46,0,Layup Shot,1,-13,6,True
+Cody Zeller,3,0,12,0,Layup Shot,1,-10,17,True
+Cody Zeller,2,0,8,0,Layup Shot,5,-6,53,True
+Cody Zeller,2,9,56,1,Layup Shot,2,-2,21,True
+Cody Zeller,2,10,1,0,Layup Shot,1,11,13,True
+Cody Zeller,4,4,49,1,Layup Shot,1,12,4,True
+Cody Zeller,2,4,18,0,Layup Shot,3,-1,38,True
+Cody Zeller,3,0,49,0,Layup Shot,2,-8,21,True
+Cody Zeller,3,2,11,0,Layup Shot,3,3,31,True
+Cody Zeller,4,8,35,0,Layup Shot,1,-5,9,True
+Cody Zeller,2,4,48,1,Layup Shot,0,-7,5,True
+Cody Zeller,4,9,7,0,Layup Shot,0,-3,5,True
+Cody Zeller,4,6,19,1,Layup Shot,3,-19,32,True
+Cody Zeller,4,7,0,1,Layup Shot,1,-5,16,True
+Cody Zeller,2,9,53,1,Layup Shot,1,0,14,True
+Cody Zeller,1,2,26,0,Layup Shot,5,40,31,True
+Cody Zeller,2,6,30,1,Layup Shot,1,4,18,True
+Cody Zeller,4,11,48,1,Layup Shot,0,-3,8,True
+Cody Zeller,2,5,38,1,Layup Shot,1,4,17,True
+Cody Zeller,4,8,40,1,Layup Shot,1,-8,13,True
+Cody Zeller,2,9,16,1,Layup Shot,0,-6,6,True
+Cody Zeller,2,0,1,0,Layup Shot,3,15,27,True
+Cody Zeller,3,0,36,0,Layup Shot,1,-11,16,True
+Cody Zeller,4,4,2,1,Layup Shot,1,-11,8,True
+Cody Zeller,1,1,39,0,Layup Shot,1,-4,14,True
+Cody Zeller,1,0,25,0,Layup Shot,1,11,16,True
+Cody Zeller,1,1,40,0,Layup Shot,2,9,25,True
+Cody Zeller,1,1,2,0,Layup Shot,5,-22,53,True
+Cody Zeller,2,11,45,0,Layup Shot,3,-20,25,True
+Cody Zeller,3,0,51,0,Layup Shot,1,13,14,True
+Cody Zeller,2,9,50,0,Layup Shot,2,6,25,True
+Cody Zeller,3,0,48,0,Layup Shot,2,-6,27,True
+Cody Zeller,4,6,18,0,Layup Shot,3,35,17,True
+Cody Zeller,2,6,40,1,Layup Shot,1,13,6,True
+Cody Zeller,2,10,3,1,Layup Shot,2,6,23,True
+Cody Zeller,2,9,34,0,Layup Shot,0,7,3,True
+Cody Zeller,4,11,41,0,Layup Shot,1,-7,11,True
+Cody Zeller,4,4,38,1,Pullup Jump shot,8,4,85,True
+Cody Zeller,4,11,42,0,Pullup Jump shot,2,-13,19,True
+Cody Zeller,4,10,24,1,Putback Dunk Shot,0,0,-6,True
+Cody Zeller,4,7,3,0,Putback Dunk Shot,2,-12,22,True
+Cody Zeller,2,8,47,0,Putback Layup Shot,2,-19,13,True
+Cody Zeller,3,0,47,1,Putback Layup Shot,0,0,-6,True
+Cody Zeller,2,10,55,1,Reverse Layup Shot,0,2,8,True
+Cody Zeller,4,7,20,0,Reverse Layup Shot,2,-18,9,True
+Cody Zeller,2,10,25,0,Reverse Layup Shot,6,-43,42,True
+Cody Zeller,4,4,30,1,Running Dunk Shot,2,-3,27,True
+Cody Zeller,2,5,52,0,Running Layup Shot,1,11,11,True
+Cody Zeller,4,6,53,1,Running Layup Shot,0,3,8,True
+Cody Zeller,4,1,20,0,Tip Layup Shot,0,0,-6,True
+Cody Zeller,2,11,42,0,Tip Layup Shot,0,0,-6,True
+Cody Zeller,3,3,32,1,Tip Layup Shot,0,0,-6,True
+Cody Zeller,4,3,4,0,Tip Layup Shot,0,0,-6,True
+Cody Zeller,1,0,54,1,Tip Layup Shot,0,0,-6,True
+Cody Zeller,3,0,0,0,Tip Layup Shot,0,0,-6,True
+Cody Zeller,4,9,37,1,Tip Layup Shot,0,0,-6,True
+Cody Zeller,4,9,0,0,Tip Layup Shot,0,0,-6,True
+Cody Zeller,4,6,56,1,Tip Layup Shot,0,0,-6,True
+Cody Zeller,2,8,6,1,Tip Layup Shot,0,0,-6,True
+Cody Zeller,4,7,5,1,Tip Layup Shot,0,0,-6,True
+Cody Zeller,1,0,0,1,Tip Layup Shot,0,0,-6,True
+Cody Zeller,2,5,39,1,Tip Layup Shot,0,0,-6,True
+Cody Zeller,1,0,32,0,Tip Layup Shot,0,0,-6,True
+Cody Zeller,1,0,4,0,Tip Layup Shot,0,0,-6,True
+Cody Zeller,2,7,45,1,Tip Layup Shot,0,0,-6,True
+Cody Zeller,2,7,47,0,Tip Layup Shot,0,0,-6,True
+Cody Zeller,4,1,19,1,Tip Layup Shot,0,0,-6,True
+Cody Zeller,4,11,0,1,Tip Layup Shot,0,0,-6,True
+Cody Zeller,3,3,26,1,Turnaround Bank Hook Shot,4,-2,46,True
+Cody Zeller,4,7,5,0,Turnaround Hook Shot,5,-13,50,True
+Cody Zeller,4,6,23,0,Turnaround Hook Shot,3,-6,31,True
+Cody Zeller,2,1,14,1,Turnaround Jump Shot,16,-68,154,True

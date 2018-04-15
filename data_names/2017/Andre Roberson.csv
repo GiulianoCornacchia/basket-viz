@@ -1,0 +1,152 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Andre Roberson,3,6,59,1,Alley Oop Dunk Shot,1,11,-5,True
+Andre Roberson,3,5,25,1,Alley Oop Dunk Shot,0,2,6,True
+Andre Roberson,3,5,13,1,Alley Oop Dunk Shot,0,7,5,True
+Andre Roberson,2,2,9,0,Alley Oop Layup shot,0,3,2,True
+Andre Roberson,4,1,31,0,Alley Oop Layup shot,1,8,10,True
+Andre Roberson,1,7,14,1,Alley Oop Layup shot,0,3,-1,True
+Andre Roberson,4,7,11,0,Alley Oop Layup shot,3,16,32,True
+Andre Roberson,3,4,44,1,Alley Oop Layup shot,1,9,14,True
+Andre Roberson,2,6,56,1,Cutting Dunk Shot,0,-7,-1,True
+Andre Roberson,3,10,4,1,Cutting Dunk Shot,0,6,-1,True
+Andre Roberson,1,3,40,1,Cutting Dunk Shot,0,0,4,True
+Andre Roberson,2,0,3,1,Cutting Dunk Shot,0,-2,4,True
+Andre Roberson,1,6,49,1,Cutting Dunk Shot,1,-3,15,True
+Andre Roberson,2,3,2,1,Cutting Dunk Shot,2,3,25,True
+Andre Roberson,3,7,8,1,Cutting Dunk Shot,1,-11,5,True
+Andre Roberson,3,6,44,1,Cutting Dunk Shot,2,8,21,True
+Andre Roberson,3,9,41,1,Cutting Layup Shot,1,-11,8,True
+Andre Roberson,1,8,53,1,Cutting Layup Shot,0,5,-6,True
+Andre Roberson,1,6,41,1,Cutting Layup Shot,2,0,20,True
+Andre Roberson,2,0,41,1,Cutting Layup Shot,1,2,18,True
+Andre Roberson,1,5,57,1,Cutting Layup Shot,1,-6,10,True
+Andre Roberson,1,11,43,1,Cutting Layup Shot,1,-5,15,True
+Andre Roberson,1,8,33,0,Cutting Layup Shot,0,-2,5,True
+Andre Roberson,3,4,51,1,Cutting Layup Shot,0,3,1,True
+Andre Roberson,4,8,17,1,Cutting Layup Shot,1,-9,10,True
+Andre Roberson,4,4,39,1,Cutting Layup Shot,1,-5,16,True
+Andre Roberson,1,10,47,0,Cutting Layup Shot,2,-18,16,True
+Andre Roberson,1,8,56,1,Cutting Layup Shot,1,-11,1,True
+Andre Roberson,1,11,13,1,Cutting Layup Shot,1,14,9,True
+Andre Roberson,3,8,38,1,Cutting Layup Shot,0,7,6,True
+Andre Roberson,3,4,59,1,Cutting Layup Shot,0,4,5,True
+Andre Roberson,3,8,28,1,Cutting Layup Shot,2,14,23,True
+Andre Roberson,1,6,43,1,Cutting Layup Shot,0,5,-1,True
+Andre Roberson,3,7,20,1,Cutting Layup Shot,0,0,-2,True
+Andre Roberson,1,6,46,1,Cutting Layup Shot,2,-6,21,True
+Andre Roberson,3,8,31,0,Cutting Layup Shot,1,-14,12,True
+Andre Roberson,2,7,40,1,Driving Finger Roll Layup Shot,1,-6,13,True
+Andre Roberson,2,0,28,0,Driving Floating Jump Shot,8,17,83,True
+Andre Roberson,3,2,14,0,Driving Layup Shot,3,29,27,True
+Andre Roberson,4,10,11,0,Driving Layup Shot,3,-18,25,True
+Andre Roberson,1,10,38,0,Driving Layup Shot,1,8,13,True
+Andre Roberson,3,10,51,0,Driving Layup Shot,3,-35,18,True
+Andre Roberson,2,3,12,0,Driving Layup Shot,3,24,27,True
+Andre Roberson,3,2,54,0,Driving Layup Shot,2,21,10,True
+Andre Roberson,2,4,30,1,Driving Layup Shot,1,14,4,True
+Andre Roberson,3,3,4,1,Dunk Shot,0,-3,1,True
+Andre Roberson,1,9,36,1,Dunk Shot,1,10,6,True
+Andre Roberson,2,10,47,0,Jump Shot,23,-230,-17,False
+Andre Roberson,2,8,24,0,Jump Shot,22,-223,-5,False
+Andre Roberson,2,5,20,0,Jump Shot,22,-225,9,False
+Andre Roberson,4,8,3,0,Jump Shot,25,-136,214,False
+Andre Roberson,1,11,43,0,Jump Shot,23,236,-6,False
+Andre Roberson,3,11,47,1,Jump Shot,22,-228,-1,False
+Andre Roberson,2,5,25,0,Jump Shot,24,-144,193,False
+Andre Roberson,3,8,7,0,Jump Shot,23,-231,-10,False
+Andre Roberson,4,0,17,0,Jump Shot,25,-75,246,False
+Andre Roberson,3,7,2,0,Jump Shot,23,230,-2,False
+Andre Roberson,2,0,4,0,Jump Shot,34,-100,326,False
+Andre Roberson,3,4,52,1,Jump Shot,24,-209,130,False
+Andre Roberson,4,1,48,1,Jump Shot,22,-226,25,False
+Andre Roberson,3,4,14,0,Jump Shot,23,-230,8,False
+Andre Roberson,1,6,9,0,Jump Shot,25,172,192,False
+Andre Roberson,1,8,32,0,Jump Shot,22,-221,6,False
+Andre Roberson,1,9,43,0,Jump Shot,22,-223,-15,False
+Andre Roberson,2,0,51,1,Jump Shot,25,-117,227,False
+Andre Roberson,1,2,44,1,Jump Shot,23,-231,14,False
+Andre Roberson,2,2,15,0,Jump Shot,22,-226,0,False
+Andre Roberson,4,0,47,1,Jump Shot,25,183,174,False
+Andre Roberson,3,5,13,0,Jump Shot,23,-231,18,False
+Andre Roberson,3,8,25,0,Jump Shot,23,235,16,False
+Andre Roberson,3,9,37,0,Jump Shot,23,228,70,False
+Andre Roberson,4,3,55,0,Jump Shot,22,226,-4,False
+Andre Roberson,4,2,43,1,Jump Shot,22,-223,-1,False
+Andre Roberson,3,11,4,0,Jump Shot,22,223,2,False
+Andre Roberson,2,9,19,0,Jump Shot,24,-166,183,False
+Andre Roberson,3,6,39,1,Jump Shot,26,152,223,False
+Andre Roberson,1,9,12,0,Jump Shot,29,90,283,False
+Andre Roberson,1,4,59,0,Jump Shot,22,-228,-13,False
+Andre Roberson,3,5,4,0,Jump Shot,24,-192,156,False
+Andre Roberson,1,10,21,0,Jump Shot,25,-163,190,False
+Andre Roberson,1,11,3,0,Jump Shot,24,-180,166,False
+Andre Roberson,1,9,1,0,Layup Shot,2,-25,-6,True
+Andre Roberson,3,5,26,1,Layup Shot,2,14,18,True
+Andre Roberson,4,7,20,0,Layup Shot,1,10,5,True
+Andre Roberson,1,6,23,1,Layup Shot,2,-10,27,True
+Andre Roberson,3,5,30,0,Layup Shot,1,8,11,True
+Andre Roberson,1,6,26,0,Layup Shot,1,0,19,True
+Andre Roberson,3,6,1,1,Layup Shot,1,-6,17,True
+Andre Roberson,3,8,37,1,Layup Shot,1,10,8,True
+Andre Roberson,3,6,33,1,Layup Shot,1,-14,3,True
+Andre Roberson,2,2,1,1,Layup Shot,1,-7,16,True
+Andre Roberson,3,6,2,1,Layup Shot,0,2,-1,True
+Andre Roberson,4,3,37,1,Layup Shot,2,-18,13,True
+Andre Roberson,1,7,9,1,Layup Shot,0,-5,5,True
+Andre Roberson,2,6,53,0,Layup Shot,3,2,34,True
+Andre Roberson,1,6,32,0,Layup Shot,1,-13,7,True
+Andre Roberson,2,0,4,0,Layup Shot,4,-39,28,True
+Andre Roberson,3,7,8,1,Layup Shot,1,0,10,True
+Andre Roberson,1,6,13,0,Layup Shot,2,-7,29,True
+Andre Roberson,1,7,50,0,Layup Shot,1,2,15,True
+Andre Roberson,2,5,10,0,Layup Shot,0,-9,4,True
+Andre Roberson,4,4,18,0,Layup Shot,3,-33,13,True
+Andre Roberson,1,2,57,1,Layup Shot,1,14,0,True
+Andre Roberson,2,10,39,0,Layup Shot,0,3,4,True
+Andre Roberson,2,3,6,0,Pullup Jump shot,1,16,6,True
+Andre Roberson,2,3,36,0,Putback Dunk Shot,0,0,-6,True
+Andre Roberson,4,10,26,1,Putback Dunk Shot,0,0,-6,True
+Andre Roberson,4,7,38,1,Putback Layup Shot,0,0,-6,True
+Andre Roberson,4,4,51,1,Putback Layup Shot,1,0,14,True
+Andre Roberson,1,4,7,1,Putback Layup Shot,0,0,-6,True
+Andre Roberson,3,6,4,0,Putback Layup Shot,0,0,-6,True
+Andre Roberson,2,10,36,0,Putback Layup Shot,0,2,-2,True
+Andre Roberson,3,2,41,1,Putback Layup Shot,1,5,12,True
+Andre Roberson,1,4,16,1,Putback Layup Shot,0,0,-6,True
+Andre Roberson,4,2,52,1,Putback Layup Shot,1,3,13,True
+Andre Roberson,3,9,38,1,Putback Layup Shot,0,0,-6,True
+Andre Roberson,3,9,30,0,Putback Layup Shot,1,-8,10,True
+Andre Roberson,4,0,18,0,Putback Layup Shot,2,5,20,True
+Andre Roberson,4,3,38,1,Putback Layup Shot,0,0,9,True
+Andre Roberson,2,6,55,0,Reverse Layup Shot,0,7,0,True
+Andre Roberson,2,7,9,0,Reverse Layup Shot,1,12,9,True
+Andre Roberson,1,9,53,1,Running Dunk Shot,0,-5,7,True
+Andre Roberson,1,8,11,1,Running Dunk Shot,0,2,0,True
+Andre Roberson,1,10,23,1,Running Dunk Shot,0,6,1,True
+Andre Roberson,2,1,30,1,Running Dunk Shot,0,0,-1,True
+Andre Roberson,2,4,18,1,Running Dunk Shot,0,1,8,True
+Andre Roberson,1,0,0,0,Running Jump Shot,34,117,327,False
+Andre Roberson,1,10,8,1,Running Layup Shot,1,7,8,True
+Andre Roberson,1,5,54,0,Running Layup Shot,0,2,5,True
+Andre Roberson,1,9,28,1,Running Layup Shot,1,-13,0,True
+Andre Roberson,3,5,8,1,Running Layup Shot,1,-12,1,True
+Andre Roberson,1,7,14,1,Running Layup Shot,1,9,-6,True
+Andre Roberson,1,10,39,1,Running Layup Shot,0,7,5,True
+Andre Roberson,3,8,56,1,Running Layup Shot,1,15,10,True
+Andre Roberson,2,6,10,0,Running Layup Shot,1,16,8,True
+Andre Roberson,3,9,40,1,Running Layup Shot,2,-23,6,True
+Andre Roberson,4,0,21,1,Running Reverse Layup Shot,1,-14,5,True
+Andre Roberson,1,4,16,0,Running Reverse Layup Shot,1,-11,4,True
+Andre Roberson,2,11,8,1,Running Reverse Layup Shot,0,-3,-1,True
+Andre Roberson,3,10,12,0,Tip Layup Shot,0,0,-6,True
+Andre Roberson,3,3,27,1,Tip Layup Shot,0,0,-6,True
+Andre Roberson,3,0,0,0,Tip Layup Shot,0,0,-6,True
+Andre Roberson,1,11,4,1,Tip Layup Shot,0,4,2,True
+Andre Roberson,1,2,59,1,Tip Layup Shot,0,0,-6,True
+Andre Roberson,1,9,46,1,Tip Layup Shot,0,0,-6,True
+Andre Roberson,2,0,39,0,Tip Layup Shot,0,0,-6,True
+Andre Roberson,1,7,41,0,Tip Layup Shot,0,0,-6,True
+Andre Roberson,3,9,24,0,Tip Layup Shot,0,0,-6,True
+Andre Roberson,1,6,24,0,Tip Layup Shot,0,7,1,True
+Andre Roberson,2,5,5,1,Tip Layup Shot,0,0,-6,True
+Andre Roberson,1,9,30,0,Turnaround Jump Shot,16,114,121,True

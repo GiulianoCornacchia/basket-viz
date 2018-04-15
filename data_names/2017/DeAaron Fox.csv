@@ -1,0 +1,708 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+DeAaron Fox,1,9,24,0,Alley Oop Dunk Shot,19,-30,192,True
+DeAaron Fox,3,8,34,1,Alley Oop Layup shot,1,8,7,True
+DeAaron Fox,4,7,37,1,Cutting Dunk Shot,2,-5,21,True
+DeAaron Fox,4,11,27,1,Cutting Dunk Shot,0,5,8,True
+DeAaron Fox,2,0,44,1,Cutting Dunk Shot,1,5,9,True
+DeAaron Fox,4,2,3,0,Cutting Layup Shot,4,-43,-1,True
+DeAaron Fox,1,9,54,1,Cutting Layup Shot,2,-25,0,True
+DeAaron Fox,1,7,5,1,Cutting Layup Shot,0,7,6,True
+DeAaron Fox,4,10,7,1,Cutting Layup Shot,2,-27,6,True
+DeAaron Fox,4,8,23,1,Cutting Layup Shot,3,32,23,True
+DeAaron Fox,4,7,8,1,Cutting Layup Shot,0,2,6,True
+DeAaron Fox,4,4,51,1,Cutting Layup Shot,1,-8,15,True
+DeAaron Fox,4,6,49,1,Cutting Layup Shot,2,-22,8,True
+DeAaron Fox,1,11,3,1,Cutting Layup Shot,1,-16,10,True
+DeAaron Fox,4,4,30,0,Cutting Layup Shot,0,-5,8,True
+DeAaron Fox,2,5,15,0,Cutting Layup Shot,2,-9,21,True
+DeAaron Fox,4,1,38,1,Cutting Layup Shot,2,-18,20,True
+DeAaron Fox,3,6,36,1,Driving Dunk Shot,0,3,5,True
+DeAaron Fox,1,9,9,0,Driving Dunk Shot,0,-2,5,True
+DeAaron Fox,1,7,42,1,Driving Dunk Shot,1,16,11,True
+DeAaron Fox,1,3,23,1,Driving Dunk Shot,1,10,17,True
+DeAaron Fox,4,11,3,1,Driving Finger Roll Layup Shot,2,2,20,True
+DeAaron Fox,2,1,56,0,Driving Finger Roll Layup Shot,1,-13,4,True
+DeAaron Fox,1,7,34,1,Driving Finger Roll Layup Shot,2,17,17,True
+DeAaron Fox,4,9,11,0,Driving Finger Roll Layup Shot,3,-35,-3,True
+DeAaron Fox,3,7,23,1,Driving Finger Roll Layup Shot,0,1,9,True
+DeAaron Fox,2,0,27,1,Driving Finger Roll Layup Shot,1,-16,0,True
+DeAaron Fox,4,2,10,0,Driving Finger Roll Layup Shot,1,9,17,True
+DeAaron Fox,4,11,25,0,Driving Floating Bank Jump Shot,6,62,23,True
+DeAaron Fox,1,8,16,0,Driving Floating Bank Jump Shot,9,3,96,True
+DeAaron Fox,3,4,44,1,Driving Floating Bank Jump Shot,3,-31,16,True
+DeAaron Fox,3,7,32,1,Driving Floating Bank Jump Shot,2,-19,16,True
+DeAaron Fox,2,1,44,0,Driving Floating Bank Jump Shot,14,89,113,True
+DeAaron Fox,2,0,1,0,Driving Floating Bank Jump Shot,6,-62,21,True
+DeAaron Fox,1,11,7,1,Driving Floating Bank Jump Shot,7,-71,26,True
+DeAaron Fox,1,11,10,1,Driving Floating Bank Jump Shot,5,-52,8,True
+DeAaron Fox,2,3,8,0,Driving Floating Bank Jump Shot,1,-9,11,True
+DeAaron Fox,4,1,30,0,Driving Floating Bank Jump Shot,7,-67,34,True
+DeAaron Fox,2,3,37,1,Driving Floating Bank Jump Shot,2,-21,8,True
+DeAaron Fox,4,4,7,0,Driving Floating Bank Jump Shot,4,-27,31,True
+DeAaron Fox,2,0,0,0,Driving Floating Bank Jump Shot,4,-41,0,True
+DeAaron Fox,1,10,9,0,Driving Floating Bank Jump Shot,8,-86,5,True
+DeAaron Fox,4,2,22,1,Driving Floating Jump Shot,5,0,53,True
+DeAaron Fox,1,6,47,1,Driving Floating Jump Shot,8,-3,84,True
+DeAaron Fox,4,0,58,1,Driving Floating Jump Shot,7,40,63,True
+DeAaron Fox,4,2,18,1,Driving Floating Jump Shot,8,-20,85,True
+DeAaron Fox,3,10,55,0,Driving Floating Jump Shot,10,-46,94,True
+DeAaron Fox,4,2,40,1,Driving Floating Jump Shot,12,-3,128,True
+DeAaron Fox,4,3,1,0,Driving Floating Jump Shot,10,54,90,True
+DeAaron Fox,1,8,6,1,Driving Floating Jump Shot,8,-81,-2,True
+DeAaron Fox,3,10,12,1,Driving Floating Jump Shot,6,-16,64,True
+DeAaron Fox,3,6,12,0,Driving Floating Jump Shot,7,-38,63,True
+DeAaron Fox,1,4,25,0,Driving Floating Jump Shot,9,-60,73,True
+DeAaron Fox,2,2,19,0,Driving Floating Jump Shot,8,-55,61,True
+DeAaron Fox,3,10,56,0,Driving Floating Jump Shot,7,10,73,True
+DeAaron Fox,2,8,15,0,Driving Floating Jump Shot,8,-41,74,True
+DeAaron Fox,1,2,40,0,Driving Floating Jump Shot,12,-58,110,True
+DeAaron Fox,1,1,58,0,Driving Floating Jump Shot,7,8,73,True
+DeAaron Fox,1,10,53,1,Driving Floating Jump Shot,6,38,53,True
+DeAaron Fox,1,5,42,1,Driving Floating Jump Shot,4,-2,41,True
+DeAaron Fox,2,1,17,0,Driving Floating Jump Shot,4,-9,48,True
+DeAaron Fox,3,6,55,0,Driving Floating Jump Shot,7,-36,66,True
+DeAaron Fox,1,6,1,0,Driving Floating Jump Shot,5,13,51,True
+DeAaron Fox,2,1,57,1,Driving Floating Jump Shot,7,12,78,True
+DeAaron Fox,2,0,0,0,Driving Floating Jump Shot,15,-14,158,True
+DeAaron Fox,2,0,7,0,Driving Floating Jump Shot,3,-29,20,True
+DeAaron Fox,1,6,32,0,Driving Floating Jump Shot,7,12,73,True
+DeAaron Fox,3,10,53,1,Driving Layup Shot,3,-22,21,True
+DeAaron Fox,1,4,14,0,Driving Layup Shot,3,-38,12,True
+DeAaron Fox,3,5,13,0,Driving Layup Shot,2,17,13,True
+DeAaron Fox,4,3,30,1,Driving Layup Shot,1,-1,13,True
+DeAaron Fox,2,11,22,1,Driving Layup Shot,1,8,17,True
+DeAaron Fox,4,10,59,0,Driving Layup Shot,9,81,41,True
+DeAaron Fox,3,9,54,1,Driving Layup Shot,2,-5,20,True
+DeAaron Fox,2,6,24,0,Driving Layup Shot,3,17,30,True
+DeAaron Fox,1,7,3,1,Driving Layup Shot,2,19,10,True
+DeAaron Fox,1,7,43,0,Driving Layup Shot,2,-6,22,True
+DeAaron Fox,1,9,11,1,Driving Layup Shot,2,18,13,True
+DeAaron Fox,2,2,42,1,Driving Layup Shot,2,-25,8,True
+DeAaron Fox,2,3,44,1,Driving Layup Shot,1,-1,12,True
+DeAaron Fox,1,1,33,0,Driving Layup Shot,8,3,82,True
+DeAaron Fox,2,11,37,1,Driving Layup Shot,1,8,15,True
+DeAaron Fox,3,2,27,1,Driving Layup Shot,0,-7,0,True
+DeAaron Fox,4,5,35,1,Driving Layup Shot,3,30,18,True
+DeAaron Fox,4,3,21,1,Driving Layup Shot,1,14,12,True
+DeAaron Fox,3,6,43,0,Driving Layup Shot,1,6,11,True
+DeAaron Fox,1,11,17,0,Driving Layup Shot,2,18,10,True
+DeAaron Fox,3,9,45,0,Driving Layup Shot,2,-16,16,True
+DeAaron Fox,2,0,35,0,Driving Layup Shot,1,-15,-1,True
+DeAaron Fox,3,3,55,0,Driving Layup Shot,2,-17,12,True
+DeAaron Fox,3,2,54,0,Driving Layup Shot,2,-20,2,True
+DeAaron Fox,2,9,28,1,Driving Layup Shot,2,-24,1,True
+DeAaron Fox,3,11,41,0,Driving Layup Shot,2,25,8,True
+DeAaron Fox,3,0,1,1,Driving Layup Shot,7,-60,47,True
+DeAaron Fox,1,7,53,1,Driving Layup Shot,1,-19,0,True
+DeAaron Fox,3,4,9,0,Driving Layup Shot,1,-14,5,True
+DeAaron Fox,1,1,58,0,Driving Layup Shot,1,9,14,True
+DeAaron Fox,4,3,41,0,Driving Layup Shot,1,19,4,True
+DeAaron Fox,3,0,28,0,Driving Layup Shot,1,-11,16,True
+DeAaron Fox,4,3,19,1,Driving Layup Shot,2,20,19,True
+DeAaron Fox,1,11,3,1,Driving Layup Shot,1,-7,11,True
+DeAaron Fox,1,11,6,1,Driving Layup Shot,1,-17,10,True
+DeAaron Fox,3,10,28,1,Driving Layup Shot,4,-32,29,True
+DeAaron Fox,3,8,40,1,Driving Layup Shot,2,-15,20,True
+DeAaron Fox,2,1,40,0,Driving Layup Shot,6,69,6,True
+DeAaron Fox,4,1,38,1,Driving Layup Shot,3,-25,30,True
+DeAaron Fox,1,4,30,0,Driving Layup Shot,2,-29,6,True
+DeAaron Fox,4,3,27,1,Driving Layup Shot,1,2,16,True
+DeAaron Fox,4,0,54,1,Driving Layup Shot,2,-6,23,True
+DeAaron Fox,2,0,25,0,Driving Layup Shot,3,-23,31,True
+DeAaron Fox,1,8,57,1,Driving Layup Shot,1,-11,11,True
+DeAaron Fox,2,3,47,1,Driving Layup Shot,1,-2,15,True
+DeAaron Fox,4,1,36,1,Driving Layup Shot,1,-12,5,True
+DeAaron Fox,4,2,14,0,Driving Layup Shot,2,-19,13,True
+DeAaron Fox,2,1,4,0,Driving Layup Shot,3,-32,13,True
+DeAaron Fox,3,4,31,0,Driving Layup Shot,4,46,13,True
+DeAaron Fox,3,8,33,0,Driving Layup Shot,6,-8,64,True
+DeAaron Fox,4,8,43,0,Driving Layup Shot,3,-22,29,True
+DeAaron Fox,4,8,10,0,Driving Layup Shot,5,27,50,True
+DeAaron Fox,4,1,27,1,Driving Layup Shot,2,-18,11,True
+DeAaron Fox,1,0,41,0,Driving Layup Shot,3,-32,12,True
+DeAaron Fox,4,3,51,1,Driving Layup Shot,2,-20,5,True
+DeAaron Fox,3,0,2,1,Driving Layup Shot,0,-8,2,True
+DeAaron Fox,1,8,39,0,Driving Layup Shot,1,13,9,True
+DeAaron Fox,2,0,28,0,Driving Layup Shot,1,-14,6,True
+DeAaron Fox,2,5,43,1,Driving Layup Shot,2,-19,11,True
+DeAaron Fox,2,6,53,0,Driving Layup Shot,1,-9,-5,True
+DeAaron Fox,1,10,49,0,Driving Layup Shot,2,-11,21,True
+DeAaron Fox,1,8,50,1,Driving Layup Shot,2,-21,10,True
+DeAaron Fox,3,8,51,0,Driving Layup Shot,0,-6,5,True
+DeAaron Fox,1,7,25,1,Driving Layup Shot,2,-9,20,True
+DeAaron Fox,2,0,8,1,Driving Layup Shot,1,3,17,True
+DeAaron Fox,1,11,13,0,Driving Layup Shot,2,16,13,True
+DeAaron Fox,4,2,59,0,Driving Layup Shot,5,42,38,True
+DeAaron Fox,2,6,49,0,Driving Layup Shot,3,-30,6,True
+DeAaron Fox,3,1,54,1,Driving Layup Shot,2,-22,4,True
+DeAaron Fox,4,1,12,0,Driving Layup Shot,2,-20,10,True
+DeAaron Fox,3,11,16,1,Driving Layup Shot,4,-40,26,True
+DeAaron Fox,2,0,48,1,Driving Layup Shot,1,-15,11,True
+DeAaron Fox,2,1,57,0,Driving Layup Shot,4,-15,42,True
+DeAaron Fox,4,9,44,0,Driving Layup Shot,3,-33,17,True
+DeAaron Fox,2,1,35,0,Driving Layup Shot,0,8,5,True
+DeAaron Fox,2,0,2,1,Driving Layup Shot,1,-15,13,True
+DeAaron Fox,4,1,19,0,Driving Layup Shot,3,-20,30,True
+DeAaron Fox,2,6,59,0,Driving Layup Shot,3,-15,28,True
+DeAaron Fox,4,3,25,0,Driving Layup Shot,2,-27,8,True
+DeAaron Fox,3,4,1,1,Driving Layup Shot,1,-4,13,True
+DeAaron Fox,3,4,29,1,Driving Layup Shot,1,-14,11,True
+DeAaron Fox,2,0,31,0,Driving Layup Shot,3,-30,10,True
+DeAaron Fox,1,11,47,1,Driving Layup Shot,1,10,8,True
+DeAaron Fox,2,5,19,1,Driving Layup Shot,1,8,10,True
+DeAaron Fox,2,2,25,1,Driving Layup Shot,1,-17,10,True
+DeAaron Fox,3,4,55,0,Driving Layup Shot,2,10,26,True
+DeAaron Fox,2,4,24,0,Driving Layup Shot,3,34,21,True
+DeAaron Fox,4,1,42,1,Driving Layup Shot,4,-1,43,True
+DeAaron Fox,4,4,45,1,Driving Layup Shot,2,-29,6,True
+DeAaron Fox,2,1,28,0,Driving Layup Shot,3,-32,1,True
+DeAaron Fox,1,5,6,1,Driving Layup Shot,1,11,8,True
+DeAaron Fox,1,0,30,0,Driving Layup Shot,4,25,39,True
+DeAaron Fox,1,11,1,1,Driving Reverse Layup Shot,1,-13,15,True
+DeAaron Fox,4,1,21,0,Driving Reverse Layup Shot,2,14,15,True
+DeAaron Fox,4,11,9,1,Dunk Shot,1,0,10,True
+DeAaron Fox,3,10,41,0,Dunk Shot,2,-14,26,True
+DeAaron Fox,3,4,27,1,Dunk Shot,1,9,10,True
+DeAaron Fox,3,5,46,0,Fadeaway Jump Shot,8,-63,58,True
+DeAaron Fox,4,3,11,0,Fadeaway Jump Shot,20,59,196,True
+DeAaron Fox,1,6,36,0,Fadeaway Jump Shot,12,-3,121,True
+DeAaron Fox,2,8,39,0,Fadeaway Jump Shot,14,-97,111,True
+DeAaron Fox,3,6,25,0,Fadeaway Jump Shot,25,215,130,False
+DeAaron Fox,3,5,13,0,Fadeaway Jump Shot,17,-85,153,True
+DeAaron Fox,4,2,24,0,Fadeaway Jump Shot,17,-98,141,True
+DeAaron Fox,1,7,21,0,Fadeaway Jump Shot,8,-3,85,True
+DeAaron Fox,2,6,4,0,Fadeaway Jump Shot,10,102,38,True
+DeAaron Fox,2,8,33,0,Fadeaway Jump Shot,21,-67,201,True
+DeAaron Fox,4,3,39,0,Fadeaway Jump Shot,38,50,382,False
+DeAaron Fox,4,6,28,0,Floating Jump shot,11,82,79,True
+DeAaron Fox,4,4,41,0,Floating Jump shot,8,-34,78,True
+DeAaron Fox,3,9,43,1,Floating Jump shot,6,-18,61,True
+DeAaron Fox,3,5,24,0,Floating Jump shot,12,-79,96,True
+DeAaron Fox,3,4,8,0,Floating Jump shot,10,20,106,True
+DeAaron Fox,4,4,53,1,Floating Jump shot,7,0,75,True
+DeAaron Fox,2,4,0,0,Floating Jump shot,8,0,86,True
+DeAaron Fox,1,10,52,0,Floating Jump shot,4,31,38,True
+DeAaron Fox,3,7,31,1,Floating Jump shot,9,95,21,True
+DeAaron Fox,2,2,21,1,Floating Jump shot,11,63,99,True
+DeAaron Fox,1,3,54,0,Floating Jump shot,9,-38,88,True
+DeAaron Fox,2,10,21,1,Floating Jump shot,8,-43,79,True
+DeAaron Fox,3,0,9,1,Floating Jump shot,2,-14,20,True
+DeAaron Fox,4,0,11,1,Floating Jump shot,6,-15,64,True
+DeAaron Fox,4,9,33,0,Floating Jump shot,11,-51,106,True
+DeAaron Fox,2,3,25,0,Floating Jump shot,7,-8,78,True
+DeAaron Fox,1,1,22,0,Floating Jump shot,5,16,57,True
+DeAaron Fox,2,2,13,1,Floating Jump shot,5,4,50,True
+DeAaron Fox,4,10,19,0,Floating Jump shot,11,89,73,True
+DeAaron Fox,2,6,20,1,Floating Jump shot,11,26,113,True
+DeAaron Fox,1,11,13,1,Floating Jump shot,5,2,59,True
+DeAaron Fox,2,9,37,0,Floating Jump shot,8,-31,75,True
+DeAaron Fox,3,2,34,0,Floating Jump shot,13,-85,99,True
+DeAaron Fox,4,9,4,0,Floating Jump shot,15,-47,143,True
+DeAaron Fox,1,6,44,0,Floating Jump shot,9,18,98,True
+DeAaron Fox,2,0,23,0,Floating Jump shot,10,-42,101,True
+DeAaron Fox,4,4,43,1,Floating Jump shot,8,-40,80,True
+DeAaron Fox,4,2,22,0,Floating Jump shot,10,-3,109,True
+DeAaron Fox,3,2,49,0,Floating Jump shot,7,-14,77,True
+DeAaron Fox,4,2,32,0,Floating Jump shot,4,40,13,True
+DeAaron Fox,4,2,34,0,Floating Jump shot,10,-67,78,True
+DeAaron Fox,3,9,51,0,Floating Jump shot,12,-65,104,True
+DeAaron Fox,2,1,42,1,Floating Jump shot,10,63,80,True
+DeAaron Fox,3,11,36,0,Floating Jump shot,13,-117,57,True
+DeAaron Fox,3,8,20,0,Floating Jump shot,4,18,46,True
+DeAaron Fox,1,9,37,0,Floating Jump shot,14,-84,119,True
+DeAaron Fox,2,1,51,0,Floating Jump shot,5,-6,56,True
+DeAaron Fox,2,4,32,0,Floating Jump shot,7,-2,76,True
+DeAaron Fox,2,0,41,0,Floating Jump shot,4,-39,22,True
+DeAaron Fox,3,2,35,0,Hook Shot,7,-19,69,True
+DeAaron Fox,1,9,8,1,Jump Bank Shot,9,-93,20,True
+DeAaron Fox,2,3,29,1,Jump Bank Shot,4,-29,37,True
+DeAaron Fox,3,9,40,0,Jump Bank Shot,9,-83,54,True
+DeAaron Fox,3,9,32,0,Jump Bank Shot,7,-74,27,True
+DeAaron Fox,1,10,38,0,Jump Bank Shot,9,-89,40,True
+DeAaron Fox,4,9,25,1,Jump Bank Shot,2,-20,17,True
+DeAaron Fox,1,8,44,0,Jump Bank Shot,9,89,15,True
+DeAaron Fox,1,5,41,0,Jump Shot,5,0,51,True
+DeAaron Fox,1,7,10,0,Jump Shot,24,-155,192,False
+DeAaron Fox,1,5,1,1,Jump Shot,23,-234,25,False
+DeAaron Fox,3,7,59,1,Jump Shot,21,184,115,True
+DeAaron Fox,2,3,0,0,Jump Shot,24,-180,171,False
+DeAaron Fox,2,8,44,1,Jump Shot,22,-225,-13,False
+DeAaron Fox,4,2,12,0,Jump Shot,25,38,250,False
+DeAaron Fox,3,4,3,0,Jump Shot,25,-218,130,False
+DeAaron Fox,1,4,27,1,Jump Shot,26,96,243,False
+DeAaron Fox,2,6,11,0,Jump Shot,13,6,130,True
+DeAaron Fox,2,3,22,0,Jump Shot,25,-55,251,False
+DeAaron Fox,2,0,31,0,Jump Shot,18,125,138,True
+DeAaron Fox,4,3,10,0,Jump Shot,25,-201,153,False
+DeAaron Fox,4,6,29,1,Jump Shot,22,-169,153,True
+DeAaron Fox,4,0,13,1,Jump Shot,25,-106,228,False
+DeAaron Fox,3,0,26,1,Jump Shot,25,97,236,False
+DeAaron Fox,1,7,34,0,Jump Shot,24,16,247,False
+DeAaron Fox,1,9,15,0,Jump Shot,25,-101,235,False
+DeAaron Fox,3,5,27,0,Jump Shot,28,106,266,False
+DeAaron Fox,2,1,1,0,Jump Shot,23,-228,34,False
+DeAaron Fox,1,4,10,1,Jump Shot,15,-144,55,True
+DeAaron Fox,2,0,38,0,Jump Shot,17,161,64,True
+DeAaron Fox,1,11,22,0,Jump Shot,22,226,26,False
+DeAaron Fox,1,5,2,1,Jump Shot,15,44,147,True
+DeAaron Fox,1,6,2,0,Jump Shot,24,175,176,False
+DeAaron Fox,3,7,58,0,Jump Shot,20,127,158,True
+DeAaron Fox,4,4,17,0,Jump Shot,22,228,-9,False
+DeAaron Fox,3,10,39,1,Jump Shot,16,-77,141,True
+DeAaron Fox,2,4,41,0,Jump Shot,24,90,232,False
+DeAaron Fox,2,3,50,0,Jump Shot,24,149,199,False
+DeAaron Fox,2,0,12,0,Jump Shot,25,-123,226,False
+DeAaron Fox,1,11,22,1,Jump Shot,17,-178,8,True
+DeAaron Fox,1,0,0,0,Jump Shot,27,-111,254,False
+DeAaron Fox,2,2,7,1,Jump Shot,24,236,64,False
+DeAaron Fox,3,11,47,0,Jump Shot,19,-53,192,True
+DeAaron Fox,1,7,58,0,Jump Shot,25,-52,247,False
+DeAaron Fox,3,5,35,0,Jump Shot,13,-105,79,True
+DeAaron Fox,2,4,50,0,Jump Shot,24,221,115,False
+DeAaron Fox,1,5,37,1,Jump Shot,22,-152,165,True
+DeAaron Fox,2,2,45,1,Jump Shot,10,-5,108,True
+DeAaron Fox,2,3,34,1,Jump Shot,12,89,92,True
+DeAaron Fox,4,3,2,1,Jump Shot,20,200,31,True
+DeAaron Fox,3,9,14,0,Jump Shot,22,-106,193,True
+DeAaron Fox,1,11,19,0,Jump Shot,25,106,230,False
+DeAaron Fox,1,7,50,0,Jump Shot,25,-36,248,False
+DeAaron Fox,3,4,26,0,Jump Shot,5,32,49,True
+DeAaron Fox,3,9,14,0,Jump Shot,9,95,4,True
+DeAaron Fox,1,10,23,0,Jump Shot,14,141,22,True
+DeAaron Fox,4,0,59,1,Jump Shot,7,-9,74,True
+DeAaron Fox,3,4,14,0,Jump Shot,24,155,187,False
+DeAaron Fox,3,8,14,0,Jump Shot,24,-198,147,False
+DeAaron Fox,3,9,34,1,Jump Shot,24,-210,133,False
+DeAaron Fox,2,1,15,0,Jump Shot,19,-107,158,True
+DeAaron Fox,1,7,16,1,Jump Shot,17,-71,160,True
+DeAaron Fox,2,4,15,1,Jump Shot,15,14,154,True
+DeAaron Fox,3,7,28,0,Jump Shot,25,153,201,False
+DeAaron Fox,2,2,20,0,Jump Shot,24,161,189,False
+DeAaron Fox,3,9,44,0,Jump Shot,13,-106,88,True
+DeAaron Fox,4,6,13,1,Jump Shot,24,108,223,False
+DeAaron Fox,3,7,11,0,Jump Shot,24,160,190,False
+DeAaron Fox,3,8,15,1,Jump Shot,24,-183,169,False
+DeAaron Fox,1,11,4,1,Jump Shot,25,-109,225,False
+DeAaron Fox,1,9,25,0,Jump Shot,4,20,38,True
+DeAaron Fox,2,4,2,1,Jump Shot,25,36,250,False
+DeAaron Fox,3,8,22,0,Jump Shot,26,-125,232,False
+DeAaron Fox,1,11,46,0,Jump Shot,26,-155,216,False
+DeAaron Fox,2,6,27,0,Jump Shot,24,95,229,False
+DeAaron Fox,1,5,15,0,Jump Shot,24,-226,82,False
+DeAaron Fox,2,0,0,0,Jump Shot,50,-196,461,False
+DeAaron Fox,3,2,30,0,Jump Shot,22,229,15,False
+DeAaron Fox,3,0,57,0,Jump Shot,17,-112,137,True
+DeAaron Fox,2,1,17,0,Jump Shot,12,-87,88,True
+DeAaron Fox,1,7,49,0,Jump Shot,16,-71,145,True
+DeAaron Fox,1,10,55,0,Jump Shot,24,-231,73,False
+DeAaron Fox,1,3,21,0,Jump Shot,21,-165,132,True
+DeAaron Fox,3,1,41,1,Jump Shot,23,206,106,True
+DeAaron Fox,4,5,30,1,Jump Shot,17,-143,101,True
+DeAaron Fox,3,7,47,1,Jump Shot,18,-104,155,True
+DeAaron Fox,3,10,56,0,Jump Shot,24,-22,249,False
+DeAaron Fox,4,6,8,1,Jump Shot,13,-68,117,True
+DeAaron Fox,2,3,13,0,Jump Shot,25,3,253,False
+DeAaron Fox,4,3,2,0,Jump Shot,24,-228,88,False
+DeAaron Fox,4,3,53,0,Jump Shot,11,-45,109,True
+DeAaron Fox,1,11,19,1,Jump Shot,26,-165,201,False
+DeAaron Fox,4,7,42,1,Jump Shot,25,-183,179,False
+DeAaron Fox,4,8,10,1,Jump Shot,24,216,118,False
+DeAaron Fox,3,11,41,1,Jump Shot,24,231,74,False
+DeAaron Fox,1,10,26,1,Jump Shot,24,126,214,False
+DeAaron Fox,3,8,0,0,Jump Shot,6,-35,55,True
+DeAaron Fox,3,4,27,0,Jump Shot,26,-10,261,False
+DeAaron Fox,4,3,14,0,Jump Shot,11,-111,-1,True
+DeAaron Fox,1,6,7,0,Jump Shot,9,89,32,True
+DeAaron Fox,1,9,15,0,Jump Shot,16,-125,105,True
+DeAaron Fox,1,8,20,1,Jump Shot,24,-232,84,False
+DeAaron Fox,2,5,17,0,Jump Shot,20,-60,199,True
+DeAaron Fox,1,9,43,1,Jump Shot,25,-74,248,False
+DeAaron Fox,4,1,32,0,Jump Shot,17,120,127,True
+DeAaron Fox,4,8,25,0,Jump Shot,25,-86,240,False
+DeAaron Fox,2,0,43,0,Jump Shot,25,-177,186,False
+DeAaron Fox,2,7,2,0,Jump Shot,23,-225,78,False
+DeAaron Fox,3,10,44,0,Jump Shot,4,34,24,True
+DeAaron Fox,4,4,1,0,Jump Shot,21,148,152,True
+DeAaron Fox,4,0,15,0,Jump Shot,29,139,261,False
+DeAaron Fox,1,2,33,0,Jump Shot,25,204,158,False
+DeAaron Fox,1,9,21,1,Jump Shot,26,-89,248,False
+DeAaron Fox,4,9,18,1,Jump Shot,20,-119,166,True
+DeAaron Fox,4,8,53,0,Jump Shot,4,-32,27,True
+DeAaron Fox,1,10,6,1,Jump Shot,23,-120,201,True
+DeAaron Fox,4,2,7,0,Jump Shot,14,-42,140,True
+DeAaron Fox,2,3,18,1,Jump Shot,16,71,148,True
+DeAaron Fox,2,5,8,1,Jump Shot,24,-62,241,False
+DeAaron Fox,4,0,32,0,Jump Shot,25,-11,253,False
+DeAaron Fox,2,0,34,0,Jump Shot,18,-55,176,True
+DeAaron Fox,2,2,14,0,Jump Shot,25,-109,229,False
+DeAaron Fox,2,1,2,1,Jump Shot,25,-90,236,False
+DeAaron Fox,3,8,28,0,Jump Shot,22,-16,224,True
+DeAaron Fox,4,5,9,1,Jump Shot,19,89,179,True
+DeAaron Fox,2,3,7,0,Jump Shot,25,130,217,False
+DeAaron Fox,3,7,1,0,Jump Shot,25,149,204,False
+DeAaron Fox,2,0,9,0,Jump Shot,5,30,51,True
+DeAaron Fox,1,3,54,0,Jump Shot,24,-29,246,False
+DeAaron Fox,2,1,20,0,Jump Shot,23,231,22,False
+DeAaron Fox,1,5,54,0,Jump Shot,28,-84,276,False
+DeAaron Fox,1,4,49,1,Jump Shot,24,167,185,False
+DeAaron Fox,4,0,24,0,Jump Shot,16,-159,24,True
+DeAaron Fox,1,10,9,1,Jump Shot,25,-152,210,False
+DeAaron Fox,2,6,42,0,Jump Shot,26,-130,227,False
+DeAaron Fox,4,5,15,0,Jump Shot,23,-232,4,False
+DeAaron Fox,3,4,21,1,Jump Shot,25,-25,250,False
+DeAaron Fox,1,7,2,0,Jump Shot,24,-168,184,False
+DeAaron Fox,2,3,8,0,Jump Shot,6,-43,46,True
+DeAaron Fox,2,0,30,0,Jump Shot,24,203,143,False
+DeAaron Fox,3,9,6,1,Jump Shot,16,-96,129,True
+DeAaron Fox,2,0,0,0,Jump Shot,69,-156,676,False
+DeAaron Fox,1,4,43,0,Jump Shot,17,-107,134,True
+DeAaron Fox,3,9,58,1,Jump Shot,23,-232,48,False
+DeAaron Fox,4,5,44,0,Jump Shot,25,76,242,False
+DeAaron Fox,3,7,5,0,Jump Shot,25,151,203,False
+DeAaron Fox,1,6,22,1,Jump Shot,11,-66,96,True
+DeAaron Fox,1,8,14,0,Jump Shot,23,236,7,False
+DeAaron Fox,3,7,0,1,Jump Shot,24,217,122,False
+DeAaron Fox,1,5,51,0,Jump Shot,20,-190,74,True
+DeAaron Fox,2,4,47,0,Jump Shot,20,-120,172,True
+DeAaron Fox,3,10,57,0,Jump Shot,10,95,46,True
+DeAaron Fox,1,11,31,1,Jump Shot,26,163,215,False
+DeAaron Fox,2,0,0,0,Jump Shot,39,13,390,False
+DeAaron Fox,3,1,38,1,Jump Shot,13,-35,128,True
+DeAaron Fox,1,4,21,0,Jump Shot,26,29,260,False
+DeAaron Fox,1,3,29,1,Jump Shot,19,110,167,True
+DeAaron Fox,1,3,7,0,Jump Shot,22,228,15,False
+DeAaron Fox,1,1,54,0,Jump Shot,20,202,-5,True
+DeAaron Fox,3,4,45,0,Jump Shot,18,-185,-1,True
+DeAaron Fox,3,6,35,0,Jump Shot,12,-105,76,True
+DeAaron Fox,3,7,54,1,Jump Shot,23,-229,60,False
+DeAaron Fox,3,4,14,1,Jump Shot,21,123,180,True
+DeAaron Fox,2,5,54,1,Jump Shot,11,41,111,True
+DeAaron Fox,2,6,36,0,Jump Shot,28,49,284,False
+DeAaron Fox,1,9,22,0,Jump Shot,23,-230,20,False
+DeAaron Fox,1,4,23,1,Jump Shot,18,-185,26,True
+DeAaron Fox,1,9,5,0,Jump Shot,21,-141,167,True
+DeAaron Fox,3,3,32,0,Jump Shot,24,96,230,False
+DeAaron Fox,3,5,17,0,Jump Shot,25,-183,181,False
+DeAaron Fox,1,10,20,0,Jump Shot,25,-166,188,False
+DeAaron Fox,4,2,47,0,Jump Shot,18,-71,168,True
+DeAaron Fox,3,10,36,0,Jump Shot,25,13,251,False
+DeAaron Fox,3,8,27,0,Jump Shot,19,2,196,True
+DeAaron Fox,1,5,18,0,Jump Shot,19,120,152,True
+DeAaron Fox,4,0,47,1,Jump Shot,24,196,146,False
+DeAaron Fox,3,5,38,0,Jump Shot,9,0,99,True
+DeAaron Fox,3,10,51,1,Jump Shot,24,-230,79,False
+DeAaron Fox,2,3,57,0,Jump Shot,7,45,64,True
+DeAaron Fox,1,11,16,0,Jump Shot,22,-195,109,True
+DeAaron Fox,1,6,38,0,Jump Shot,15,-16,155,True
+DeAaron Fox,4,0,12,1,Jump Shot,25,-224,112,False
+DeAaron Fox,3,7,51,1,Jump Shot,23,-232,-19,False
+DeAaron Fox,1,5,23,0,Jump Shot,18,187,21,True
+DeAaron Fox,1,0,42,0,Jump Shot,23,-223,84,False
+DeAaron Fox,4,3,45,0,Jump Shot,14,-92,115,True
+DeAaron Fox,4,1,10,0,Jump Shot,22,14,220,True
+DeAaron Fox,2,5,0,0,Jump Shot,20,67,197,True
+DeAaron Fox,4,8,29,0,Jump Shot,23,230,18,False
+DeAaron Fox,2,9,13,0,Jump Shot,14,-60,136,True
+DeAaron Fox,4,7,44,0,Jump Shot,23,228,57,False
+DeAaron Fox,3,0,25,0,Jump Shot,23,-230,-1,False
+DeAaron Fox,2,3,47,0,Jump Shot,24,177,175,False
+DeAaron Fox,2,7,36,1,Jump Shot,19,-125,144,True
+DeAaron Fox,1,5,33,0,Jump Shot,10,-107,19,True
+DeAaron Fox,4,5,51,0,Jump Shot,25,-166,194,False
+DeAaron Fox,1,3,8,0,Jump Shot,25,224,115,False
+DeAaron Fox,3,5,51,0,Jump Shot,23,-234,-3,False
+DeAaron Fox,1,9,18,1,Jump Shot,4,-2,45,True
+DeAaron Fox,1,4,38,0,Jump Shot,23,-230,-16,False
+DeAaron Fox,4,2,17,0,Jump Shot,11,-46,100,True
+DeAaron Fox,1,0,39,0,Jump Shot,25,-16,256,False
+DeAaron Fox,2,9,21,0,Jump Shot,22,-226,22,False
+DeAaron Fox,1,4,43,0,Jump Shot,26,-55,261,False
+DeAaron Fox,3,0,1,0,Jump Shot,10,6,105,True
+DeAaron Fox,3,2,19,0,Jump Shot,22,-62,221,True
+DeAaron Fox,1,8,2,0,Jump Shot,14,71,122,True
+DeAaron Fox,1,10,58,0,Jump Shot,23,-230,45,False
+DeAaron Fox,2,8,59,0,Jump Shot,17,-27,173,True
+DeAaron Fox,4,10,47,0,Jump Shot,20,-141,142,True
+DeAaron Fox,3,0,0,0,Jump Shot,22,-93,209,True
+DeAaron Fox,2,6,58,0,Jump Shot,19,51,184,True
+DeAaron Fox,1,0,57,1,Jump Shot,20,7,206,True
+DeAaron Fox,4,1,52,0,Jump Shot,8,-1,84,True
+DeAaron Fox,2,10,5,1,Jump Shot,24,-207,135,False
+DeAaron Fox,1,0,58,0,Jump Shot,15,-22,152,True
+DeAaron Fox,2,9,16,1,Jump Shot,16,-105,121,True
+DeAaron Fox,2,8,52,0,Jump Shot,21,-125,169,True
+DeAaron Fox,2,4,24,0,Jump Shot,19,-85,173,True
+DeAaron Fox,2,9,45,1,Jump Shot,17,-147,100,True
+DeAaron Fox,1,1,38,0,Jump Shot,6,11,63,True
+DeAaron Fox,1,1,19,0,Jump Shot,23,89,218,True
+DeAaron Fox,4,11,28,0,Jump Shot,7,-52,57,True
+DeAaron Fox,2,6,12,1,Jump Shot,22,228,20,False
+DeAaron Fox,4,6,20,0,Jump Shot,8,11,80,True
+DeAaron Fox,1,2,15,0,Jump Shot,25,-130,218,False
+DeAaron Fox,1,0,0,0,Jump Shot,16,-156,37,True
+DeAaron Fox,2,8,34,0,Jump Shot,19,40,193,True
+DeAaron Fox,4,3,27,1,Jump Shot,7,-1,75,True
+DeAaron Fox,3,4,3,0,Jump Shot,21,4,210,True
+DeAaron Fox,1,10,53,1,Layup Shot,0,-3,0,True
+DeAaron Fox,3,4,9,0,Layup Shot,2,-5,20,True
+DeAaron Fox,2,5,58,0,Layup Shot,3,5,35,True
+DeAaron Fox,3,5,6,0,Layup Shot,7,66,26,True
+DeAaron Fox,4,1,26,0,Layup Shot,2,-21,15,True
+DeAaron Fox,2,1,1,0,Layup Shot,2,-3,27,True
+DeAaron Fox,1,3,58,1,Layup Shot,1,-13,10,True
+DeAaron Fox,4,3,15,1,Layup Shot,1,-7,17,True
+DeAaron Fox,2,2,19,0,Layup Shot,3,24,19,True
+DeAaron Fox,2,1,53,0,Layup Shot,3,-14,37,True
+DeAaron Fox,2,2,3,1,Layup Shot,2,-21,1,True
+DeAaron Fox,2,1,33,0,Layup Shot,3,35,13,True
+DeAaron Fox,2,0,1,1,Layup Shot,5,-46,22,True
+DeAaron Fox,2,5,30,0,Layup Shot,2,-19,13,True
+DeAaron Fox,3,5,49,1,Layup Shot,2,20,15,True
+DeAaron Fox,3,4,47,0,Layup Shot,1,-14,4,True
+DeAaron Fox,2,10,52,1,Layup Shot,2,18,17,True
+DeAaron Fox,2,3,31,1,Layup Shot,2,1,29,True
+DeAaron Fox,1,7,12,1,Layup Shot,2,-22,11,True
+DeAaron Fox,2,7,50,0,Layup Shot,2,-6,22,True
+DeAaron Fox,1,3,12,1,Layup Shot,5,-31,48,True
+DeAaron Fox,2,3,40,0,Layup Shot,1,-10,3,True
+DeAaron Fox,2,7,23,0,Layup Shot,6,23,59,True
+DeAaron Fox,1,9,58,0,Layup Shot,1,3,15,True
+DeAaron Fox,4,0,24,1,Layup Shot,1,11,-4,True
+DeAaron Fox,4,4,53,1,Layup Shot,3,-24,25,True
+DeAaron Fox,4,3,11,0,Layup Shot,2,2,24,True
+DeAaron Fox,1,5,38,1,Layup Shot,3,-13,32,True
+DeAaron Fox,1,3,56,0,Layup Shot,5,36,38,True
+DeAaron Fox,4,2,39,1,Layup Shot,1,-1,10,True
+DeAaron Fox,2,4,53,0,Layup Shot,3,-32,22,True
+DeAaron Fox,3,10,9,0,Layup Shot,2,11,21,True
+DeAaron Fox,3,4,3,1,Layup Shot,5,-43,34,True
+DeAaron Fox,1,0,31,1,Layup Shot,1,-10,-2,True
+DeAaron Fox,3,10,3,0,Layup Shot,4,3,46,True
+DeAaron Fox,4,7,22,1,Layup Shot,1,0,17,True
+DeAaron Fox,3,7,21,0,Layup Shot,1,11,12,True
+DeAaron Fox,3,9,34,0,Layup Shot,2,15,17,True
+DeAaron Fox,3,6,25,0,Layup Shot,3,-13,34,True
+DeAaron Fox,2,4,37,1,Layup Shot,2,-13,18,True
+DeAaron Fox,4,2,25,1,Layup Shot,6,-56,31,True
+DeAaron Fox,3,7,9,0,Layup Shot,7,-70,2,True
+DeAaron Fox,2,4,49,0,Layup Shot,2,-17,20,True
+DeAaron Fox,2,2,19,0,Layup Shot,1,-10,10,True
+DeAaron Fox,2,4,25,0,Layup Shot,3,-24,19,True
+DeAaron Fox,4,9,30,0,Layup Shot,8,-30,75,True
+DeAaron Fox,1,10,26,0,Layup Shot,6,-41,48,True
+DeAaron Fox,2,7,33,0,Layup Shot,4,-48,9,True
+DeAaron Fox,3,4,26,0,Layup Shot,7,-60,41,True
+DeAaron Fox,2,6,36,1,Pullup Jump shot,16,-97,130,True
+DeAaron Fox,2,1,18,0,Pullup Jump shot,15,-40,150,True
+DeAaron Fox,2,2,12,1,Pullup Jump shot,15,-6,151,True
+DeAaron Fox,3,4,45,1,Pullup Jump shot,4,-46,11,True
+DeAaron Fox,4,0,55,1,Pullup Jump shot,17,-105,139,True
+DeAaron Fox,4,9,46,0,Pullup Jump shot,12,-8,122,True
+DeAaron Fox,3,9,45,0,Pullup Jump shot,15,-20,155,True
+DeAaron Fox,1,10,42,0,Pullup Jump shot,24,-11,247,False
+DeAaron Fox,2,4,33,1,Pullup Jump shot,4,41,21,True
+DeAaron Fox,2,3,31,0,Pullup Jump shot,19,-48,194,True
+DeAaron Fox,3,8,52,1,Pullup Jump shot,13,62,116,True
+DeAaron Fox,2,2,11,0,Pullup Jump shot,19,125,145,True
+DeAaron Fox,2,2,43,1,Pullup Jump shot,20,-139,155,True
+DeAaron Fox,4,1,30,0,Pullup Jump shot,19,-176,76,True
+DeAaron Fox,4,2,23,0,Pullup Jump shot,10,2,109,True
+DeAaron Fox,2,0,28,0,Pullup Jump shot,21,44,210,True
+DeAaron Fox,4,6,59,0,Pullup Jump shot,19,-131,147,True
+DeAaron Fox,2,3,45,0,Pullup Jump shot,14,-44,135,True
+DeAaron Fox,1,8,40,0,Pullup Jump shot,11,73,95,True
+DeAaron Fox,3,7,11,1,Pullup Jump shot,17,-90,152,True
+DeAaron Fox,3,3,40,0,Pullup Jump shot,7,-14,70,True
+DeAaron Fox,2,2,43,0,Pullup Jump shot,17,-90,145,True
+DeAaron Fox,1,0,5,1,Pullup Jump shot,18,98,158,True
+DeAaron Fox,3,4,44,0,Pullup Jump shot,19,17,194,True
+DeAaron Fox,4,1,18,0,Pullup Jump shot,25,-201,152,False
+DeAaron Fox,4,0,0,0,Pullup Jump shot,25,117,231,False
+DeAaron Fox,3,9,32,0,Pullup Jump shot,13,-62,123,True
+DeAaron Fox,3,8,4,1,Pullup Jump shot,5,-24,48,True
+DeAaron Fox,2,4,12,1,Pullup Jump shot,16,-116,120,True
+DeAaron Fox,3,6,44,0,Pullup Jump shot,13,5,138,True
+DeAaron Fox,3,8,43,1,Pullup Jump shot,12,-107,69,True
+DeAaron Fox,3,7,29,1,Pullup Jump shot,19,-71,181,True
+DeAaron Fox,2,0,7,0,Pullup Jump shot,8,-8,82,True
+DeAaron Fox,1,7,41,0,Pullup Jump shot,14,-112,88,True
+DeAaron Fox,3,6,27,1,Pullup Jump shot,24,-43,243,False
+DeAaron Fox,1,9,46,1,Pullup Jump shot,14,-117,77,True
+DeAaron Fox,1,4,20,0,Pullup Jump shot,16,5,164,True
+DeAaron Fox,4,9,16,1,Pullup Jump shot,19,-83,172,True
+DeAaron Fox,3,1,10,0,Pullup Jump shot,25,135,216,False
+DeAaron Fox,2,0,1,0,Pullup Jump shot,15,-100,116,True
+DeAaron Fox,1,6,27,0,Pullup Jump shot,15,88,125,True
+DeAaron Fox,3,6,10,1,Pullup Jump shot,18,53,181,True
+DeAaron Fox,2,4,46,0,Pullup Jump shot,17,-62,162,True
+DeAaron Fox,1,3,11,0,Pullup Jump shot,21,7,216,True
+DeAaron Fox,4,11,11,1,Pullup Jump shot,15,-105,110,True
+DeAaron Fox,4,1,32,1,Pullup Jump shot,19,-8,190,True
+DeAaron Fox,3,4,31,0,Pullup Jump shot,15,-144,67,True
+DeAaron Fox,4,0,48,0,Pullup Jump shot,21,-148,151,True
+DeAaron Fox,2,8,8,0,Pullup Jump shot,14,-124,78,True
+DeAaron Fox,1,7,34,1,Pullup Jump shot,18,-108,147,True
+DeAaron Fox,1,4,34,0,Pullup Jump shot,22,78,211,True
+DeAaron Fox,1,6,50,1,Pullup Jump shot,7,-22,69,True
+DeAaron Fox,3,3,39,1,Pullup Jump shot,14,-5,142,True
+DeAaron Fox,4,0,14,1,Pullup Jump shot,18,-48,183,True
+DeAaron Fox,3,11,3,1,Pullup Jump shot,13,-131,-13,True
+DeAaron Fox,4,1,55,0,Pullup Jump shot,17,-100,140,True
+DeAaron Fox,4,9,6,0,Pullup Jump shot,10,-82,73,True
+DeAaron Fox,3,10,50,0,Pullup Jump shot,10,-79,68,True
+DeAaron Fox,3,1,59,1,Pullup Jump shot,6,-32,58,True
+DeAaron Fox,2,9,28,1,Pullup Jump shot,19,119,158,True
+DeAaron Fox,1,6,13,0,Pullup Jump shot,19,-134,147,True
+DeAaron Fox,4,0,35,0,Pullup Jump shot,14,-24,148,True
+DeAaron Fox,3,9,24,0,Pullup Jump shot,19,-160,111,True
+DeAaron Fox,4,7,26,0,Pullup Jump shot,13,-59,124,True
+DeAaron Fox,1,10,9,0,Pullup Jump shot,18,-109,144,True
+DeAaron Fox,3,0,55,1,Pullup Jump shot,19,-63,181,True
+DeAaron Fox,2,0,15,0,Pullup Jump shot,18,-121,146,True
+DeAaron Fox,1,10,27,1,Pullup Jump shot,14,-8,147,True
+DeAaron Fox,1,0,1,1,Pullup Jump shot,13,-131,19,True
+DeAaron Fox,3,3,3,0,Pullup Jump shot,11,35,109,True
+DeAaron Fox,3,4,1,0,Pullup Jump shot,19,-35,189,True
+DeAaron Fox,2,0,37,0,Pullup Jump shot,16,35,160,True
+DeAaron Fox,1,10,57,1,Pullup Jump shot,15,-30,154,True
+DeAaron Fox,3,3,10,0,Pullup Jump shot,17,49,165,True
+DeAaron Fox,4,1,8,1,Pullup Jump shot,16,-109,124,True
+DeAaron Fox,1,7,4,0,Pullup Jump shot,25,-30,253,False
+DeAaron Fox,4,1,10,0,Pullup Jump shot,16,-29,163,True
+DeAaron Fox,2,3,28,0,Pullup Jump shot,6,-42,45,True
+DeAaron Fox,3,7,6,1,Pullup Jump shot,26,81,248,False
+DeAaron Fox,4,1,44,0,Pullup Jump shot,15,-90,126,True
+DeAaron Fox,1,3,21,0,Pullup Jump shot,20,-103,173,True
+DeAaron Fox,1,1,29,0,Pullup Jump shot,19,-74,178,True
+DeAaron Fox,4,5,34,0,Pullup Jump shot,19,-155,115,True
+DeAaron Fox,2,0,1,0,Pullup Jump shot,15,-4,156,True
+DeAaron Fox,1,6,31,1,Pullup Jump shot,14,96,105,True
+DeAaron Fox,1,4,59,0,Pullup Jump shot,17,9,172,True
+DeAaron Fox,1,3,42,1,Pullup Jump shot,17,113,128,True
+DeAaron Fox,1,7,23,0,Pullup Jump shot,19,-40,195,True
+DeAaron Fox,4,7,35,1,Pullup Jump shot,13,-116,67,True
+DeAaron Fox,4,0,27,0,Pullup Jump shot,20,-105,180,True
+DeAaron Fox,4,0,40,0,Pullup Jump shot,16,-166,12,True
+DeAaron Fox,4,1,39,1,Pullup Jump shot,16,-101,129,True
+DeAaron Fox,3,3,52,0,Pullup Jump shot,12,24,125,True
+DeAaron Fox,4,2,36,0,Pullup Jump shot,23,0,231,True
+DeAaron Fox,2,7,3,0,Pullup Jump shot,17,69,165,True
+DeAaron Fox,1,5,15,0,Pullup Jump shot,25,-117,229,False
+DeAaron Fox,3,5,50,0,Pullup Jump shot,15,-71,136,True
+DeAaron Fox,1,4,23,1,Pullup Jump shot,17,-53,171,True
+DeAaron Fox,3,10,38,0,Pullup Jump shot,22,222,-11,False
+DeAaron Fox,3,8,21,1,Pullup Jump shot,15,4,157,True
+DeAaron Fox,1,9,37,1,Pullup Jump shot,11,112,8,True
+DeAaron Fox,1,2,9,1,Pullup Jump shot,15,-120,104,True
+DeAaron Fox,3,7,14,1,Pullup Jump shot,23,-81,218,True
+DeAaron Fox,1,8,10,1,Pullup Jump shot,8,-3,82,True
+DeAaron Fox,4,4,23,0,Pullup Jump shot,16,-71,150,True
+DeAaron Fox,4,0,17,1,Pullup Jump shot,17,-12,174,True
+DeAaron Fox,2,0,5,1,Pullup Jump shot,16,-25,165,True
+DeAaron Fox,3,2,26,0,Pullup Jump shot,17,-24,169,True
+DeAaron Fox,3,7,15,0,Pullup Jump shot,13,-17,131,True
+DeAaron Fox,2,9,56,0,Pullup Jump shot,14,-116,87,True
+DeAaron Fox,2,10,56,1,Pullup Jump shot,19,116,158,True
+DeAaron Fox,2,2,48,0,Pullup Jump shot,12,-95,75,True
+DeAaron Fox,3,9,53,0,Pullup Jump shot,18,-33,178,True
+DeAaron Fox,4,6,0,1,Pullup Jump shot,17,-136,116,True
+DeAaron Fox,1,3,41,1,Pullup Jump shot,15,-3,151,True
+DeAaron Fox,3,7,25,0,Pullup Jump shot,16,-76,148,True
+DeAaron Fox,1,1,43,1,Pullup Jump shot,15,-67,136,True
+DeAaron Fox,1,5,10,1,Pullup Jump shot,16,-93,137,True
+DeAaron Fox,3,2,17,0,Pullup Jump shot,12,-71,106,True
+DeAaron Fox,4,0,34,0,Pullup Jump shot,26,-12,260,False
+DeAaron Fox,1,9,20,0,Pullup Jump shot,8,70,48,True
+DeAaron Fox,2,6,48,1,Pullup Jump shot,5,-33,47,True
+DeAaron Fox,3,5,20,0,Pullup Jump shot,19,2,195,True
+DeAaron Fox,2,0,30,1,Pullup Jump shot,22,-109,200,True
+DeAaron Fox,4,5,4,0,Pullup Jump shot,20,-95,179,True
+DeAaron Fox,1,8,59,0,Pullup Jump shot,6,-46,46,True
+DeAaron Fox,4,1,12,1,Pullup Jump shot,25,-127,216,False
+DeAaron Fox,1,11,10,0,Pullup Jump shot,15,-150,8,True
+DeAaron Fox,4,0,47,1,Pullup Jump shot,20,54,201,True
+DeAaron Fox,2,7,28,1,Pullup Jump shot,17,-87,149,True
+DeAaron Fox,1,1,27,0,Pullup Jump shot,19,-92,172,True
+DeAaron Fox,4,11,22,0,Pullup Jump shot,21,-80,198,True
+DeAaron Fox,4,0,37,1,Pullup Jump shot,26,-98,251,False
+DeAaron Fox,4,10,31,1,Pullup Jump shot,32,40,321,False
+DeAaron Fox,3,2,3,1,Pullup Jump shot,17,-96,146,True
+DeAaron Fox,1,6,45,0,Pullup Jump shot,14,-144,-7,True
+DeAaron Fox,3,11,26,0,Pullup Jump shot,14,6,142,True
+DeAaron Fox,4,8,29,0,Pullup Jump shot,21,-191,90,True
+DeAaron Fox,4,0,0,0,Pullup Jump shot,25,-116,232,False
+DeAaron Fox,1,4,57,1,Putback Dunk Shot,0,0,-6,True
+DeAaron Fox,4,2,36,0,Reverse Layup Shot,2,-23,17,True
+DeAaron Fox,3,10,0,1,Running Dunk Shot,0,-4,3,True
+DeAaron Fox,4,1,11,1,Running Dunk Shot,2,-20,18,True
+DeAaron Fox,2,9,0,1,Running Dunk Shot,0,-2,6,True
+DeAaron Fox,1,9,7,1,Running Dunk Shot,1,-10,4,True
+DeAaron Fox,2,3,3,0,Running Dunk Shot,2,-23,15,True
+DeAaron Fox,2,5,11,1,Running Dunk Shot,0,-2,6,True
+DeAaron Fox,2,3,34,1,Running Dunk Shot,0,-6,6,True
+DeAaron Fox,1,9,57,1,Running Dunk Shot,0,-3,6,True
+DeAaron Fox,4,4,10,1,Running Dunk Shot,1,-17,7,True
+DeAaron Fox,4,0,27,1,Running Dunk Shot,2,-3,21,True
+DeAaron Fox,1,6,11,1,Running Finger Roll Layup Shot,0,0,0,True
+DeAaron Fox,1,5,25,1,Running Finger Roll Layup Shot,1,-14,10,True
+DeAaron Fox,2,0,2,1,Running Finger Roll Layup Shot,1,-11,2,True
+DeAaron Fox,1,5,17,1,Running Jump Shot,18,-98,152,True
+DeAaron Fox,1,7,13,0,Running Jump Shot,5,-39,32,True
+DeAaron Fox,4,3,49,1,Running Jump Shot,9,-7,90,True
+DeAaron Fox,1,2,48,1,Running Layup Shot,1,-5,18,True
+DeAaron Fox,4,3,11,0,Running Layup Shot,10,0,103,True
+DeAaron Fox,2,0,25,1,Running Layup Shot,1,16,11,True
+DeAaron Fox,4,3,25,1,Running Layup Shot,1,-9,11,True
+DeAaron Fox,4,7,49,0,Running Layup Shot,8,-51,74,True
+DeAaron Fox,1,2,41,1,Running Layup Shot,2,-9,19,True
+DeAaron Fox,3,6,13,1,Running Layup Shot,1,-5,17,True
+DeAaron Fox,2,1,57,1,Running Layup Shot,3,-14,37,True
+DeAaron Fox,4,0,49,1,Running Layup Shot,2,-19,17,True
+DeAaron Fox,1,0,51,0,Running Layup Shot,1,1,10,True
+DeAaron Fox,1,6,11,0,Running Layup Shot,1,2,18,True
+DeAaron Fox,4,0,38,0,Running Layup Shot,0,0,2,True
+DeAaron Fox,4,1,10,1,Running Layup Shot,0,-6,5,True
+DeAaron Fox,3,4,28,1,Running Layup Shot,1,-6,12,True
+DeAaron Fox,4,0,47,0,Running Layup Shot,4,-40,23,True
+DeAaron Fox,3,3,47,1,Running Layup Shot,2,-23,0,True
+DeAaron Fox,3,6,19,0,Running Layup Shot,1,-15,-2,True
+DeAaron Fox,1,3,12,0,Running Layup Shot,4,19,39,True
+DeAaron Fox,3,4,14,1,Running Layup Shot,2,-11,20,True
+DeAaron Fox,2,3,34,0,Running Layup Shot,1,12,10,True
+DeAaron Fox,1,10,7,0,Running Layup Shot,6,-55,26,True
+DeAaron Fox,1,8,4,0,Running Layup Shot,2,-27,9,True
+DeAaron Fox,2,3,20,1,Running Layup Shot,2,-18,11,True
+DeAaron Fox,2,5,5,1,Running Layup Shot,0,-3,-1,True
+DeAaron Fox,3,3,22,1,Running Layup Shot,0,7,6,True
+DeAaron Fox,3,11,0,1,Running Layup Shot,1,-15,5,True
+DeAaron Fox,4,3,54,1,Running Layup Shot,1,-19,1,True
+DeAaron Fox,4,2,16,0,Running Layup Shot,0,-3,4,True
+DeAaron Fox,1,10,17,0,Running Layup Shot,1,-9,13,True
+DeAaron Fox,1,8,18,1,Running Layup Shot,1,-11,3,True
+DeAaron Fox,2,9,10,0,Running Pull-Up Jump Shot,17,-159,68,True
+DeAaron Fox,2,2,41,0,Running Pull-Up Jump Shot,21,-9,212,True
+DeAaron Fox,3,4,13,0,Running Pull-Up Jump Shot,14,-27,138,True
+DeAaron Fox,2,6,54,1,Running Pull-Up Jump Shot,12,-58,112,True
+DeAaron Fox,1,11,13,1,Running Reverse Dunk Shot,1,-1,13,True
+DeAaron Fox,2,5,31,1,Running Reverse Layup Shot,0,-8,5,True
+DeAaron Fox,3,4,23,1,Step Back Jump shot,25,112,230,False
+DeAaron Fox,4,4,32,1,Step Back Jump shot,13,-131,9,True
+DeAaron Fox,3,3,37,0,Step Back Jump shot,24,-123,215,False
+DeAaron Fox,3,9,49,1,Step Back Jump shot,24,-113,220,False
+DeAaron Fox,3,6,41,0,Step Back Jump shot,22,-223,33,False
+DeAaron Fox,1,11,22,0,Step Back Jump shot,18,92,157,True
+DeAaron Fox,4,9,49,0,Step Back Jump shot,19,192,32,True
+DeAaron Fox,2,8,17,1,Step Back Jump shot,23,-146,188,False
+DeAaron Fox,4,6,55,0,Step Back Jump shot,13,4,131,True
+DeAaron Fox,1,8,38,0,Step Back Jump shot,25,-220,133,False
+DeAaron Fox,3,6,26,0,Step Back Jump shot,19,-187,44,True
+DeAaron Fox,1,6,13,0,Step Back Jump shot,15,-74,139,True
+DeAaron Fox,1,7,12,0,Step Back Jump shot,24,223,106,False
+DeAaron Fox,2,1,54,1,Step Back Jump shot,25,-210,146,False
+DeAaron Fox,1,4,17,0,Step Back Jump shot,21,-2,211,True
+DeAaron Fox,4,0,3,1,Tip Dunk Shot,0,0,-6,True
+DeAaron Fox,1,6,39,0,Tip Dunk Shot,5,-55,15,True
+DeAaron Fox,3,4,48,1,Tip Layup Shot,0,0,-6,True
+DeAaron Fox,3,2,35,0,Turnaround Jump Shot,4,-40,23,True
+DeAaron Fox,2,11,26,0,Turnaround Jump Shot,12,-101,74,True
+DeAaron Fox,4,1,40,1,Turnaround Jump Shot,5,4,50,True

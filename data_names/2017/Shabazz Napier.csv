@@ -1,0 +1,473 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Shabazz Napier,2,6,38,0,Cutting Layup Shot,3,-9,38,True
+Shabazz Napier,1,11,14,0,Cutting Layup Shot,0,8,-3,True
+Shabazz Napier,2,6,21,0,Cutting Layup Shot,1,11,10,True
+Shabazz Napier,2,2,56,1,Cutting Layup Shot,1,7,13,True
+Shabazz Napier,1,11,19,1,Cutting Layup Shot,1,12,4,True
+Shabazz Napier,1,9,44,0,Cutting Layup Shot,0,-6,-6,True
+Shabazz Napier,4,7,59,1,Cutting Layup Shot,3,-33,10,True
+Shabazz Napier,2,11,17,1,Cutting Layup Shot,0,-8,-1,True
+Shabazz Napier,4,4,38,1,Cutting Layup Shot,1,0,15,True
+Shabazz Napier,4,0,23,1,Driving Finger Roll Layup Shot,0,0,3,True
+Shabazz Napier,3,0,3,1,Driving Finger Roll Layup Shot,1,-7,-8,True
+Shabazz Napier,4,8,3,0,Driving Finger Roll Layup Shot,4,-30,30,True
+Shabazz Napier,4,9,58,1,Driving Finger Roll Layup Shot,3,-35,4,True
+Shabazz Napier,2,4,50,0,Driving Finger Roll Layup Shot,3,-5,32,True
+Shabazz Napier,4,2,8,1,Driving Finger Roll Layup Shot,2,-23,-5,True
+Shabazz Napier,2,10,2,0,Driving Finger Roll Layup Shot,1,-11,7,True
+Shabazz Napier,3,1,53,0,Driving Finger Roll Layup Shot,4,-41,9,True
+Shabazz Napier,3,1,14,1,Driving Finger Roll Layup Shot,1,-12,12,True
+Shabazz Napier,2,5,55,1,Driving Finger Roll Layup Shot,1,-16,10,True
+Shabazz Napier,2,9,29,1,Driving Finger Roll Layup Shot,0,2,5,True
+Shabazz Napier,4,5,8,1,Driving Floating Bank Jump Shot,6,-44,47,True
+Shabazz Napier,2,9,4,0,Driving Floating Bank Jump Shot,14,-131,68,True
+Shabazz Napier,2,10,45,0,Driving Floating Jump Shot,8,9,80,True
+Shabazz Napier,2,3,31,0,Driving Floating Jump Shot,5,-1,57,True
+Shabazz Napier,4,7,54,0,Driving Floating Jump Shot,3,-18,35,True
+Shabazz Napier,4,10,48,0,Driving Floating Jump Shot,9,-51,79,True
+Shabazz Napier,1,6,42,0,Driving Floating Jump Shot,6,47,41,True
+Shabazz Napier,2,11,23,0,Driving Floating Jump Shot,10,-73,74,True
+Shabazz Napier,3,7,54,1,Driving Floating Jump Shot,12,15,120,True
+Shabazz Napier,4,9,26,0,Driving Floating Jump Shot,13,33,126,True
+Shabazz Napier,1,7,23,0,Driving Floating Jump Shot,3,19,29,True
+Shabazz Napier,2,10,33,0,Driving Floating Jump Shot,3,19,31,True
+Shabazz Napier,3,0,26,0,Driving Floating Jump Shot,12,8,124,True
+Shabazz Napier,3,3,57,1,Driving Layup Shot,0,-5,8,True
+Shabazz Napier,4,7,59,0,Driving Layup Shot,1,7,8,True
+Shabazz Napier,4,3,42,0,Driving Layup Shot,1,-6,18,True
+Shabazz Napier,2,9,10,0,Driving Layup Shot,11,40,108,True
+Shabazz Napier,2,10,59,1,Driving Layup Shot,1,-5,13,True
+Shabazz Napier,4,2,3,0,Driving Layup Shot,0,-2,-3,True
+Shabazz Napier,3,0,0,1,Driving Layup Shot,0,-5,4,True
+Shabazz Napier,2,10,16,0,Driving Layup Shot,1,6,8,True
+Shabazz Napier,2,7,41,0,Driving Layup Shot,1,2,13,True
+Shabazz Napier,4,11,23,0,Driving Layup Shot,1,-14,10,True
+Shabazz Napier,1,8,26,0,Driving Layup Shot,1,-9,9,True
+Shabazz Napier,4,7,42,0,Driving Layup Shot,2,-10,20,True
+Shabazz Napier,4,1,25,0,Driving Layup Shot,2,-16,21,True
+Shabazz Napier,4,11,45,1,Driving Layup Shot,0,-1,6,True
+Shabazz Napier,4,11,43,0,Driving Layup Shot,2,17,13,True
+Shabazz Napier,4,10,43,1,Driving Layup Shot,0,2,9,True
+Shabazz Napier,2,1,7,1,Driving Layup Shot,0,-4,6,True
+Shabazz Napier,2,9,20,0,Driving Layup Shot,3,-29,22,True
+Shabazz Napier,4,11,21,0,Driving Layup Shot,2,-20,14,True
+Shabazz Napier,4,2,30,0,Driving Layup Shot,1,-8,8,True
+Shabazz Napier,4,4,17,0,Driving Layup Shot,3,-36,10,True
+Shabazz Napier,4,11,48,0,Driving Layup Shot,2,-11,19,True
+Shabazz Napier,1,0,2,0,Driving Layup Shot,2,-1,29,True
+Shabazz Napier,4,10,56,1,Driving Layup Shot,1,-10,8,True
+Shabazz Napier,4,10,26,1,Driving Layup Shot,1,8,14,True
+Shabazz Napier,4,11,9,0,Driving Layup Shot,2,14,17,True
+Shabazz Napier,2,10,25,0,Driving Layup Shot,0,5,6,True
+Shabazz Napier,3,6,0,1,Driving Layup Shot,4,3,42,True
+Shabazz Napier,2,8,28,1,Driving Layup Shot,1,9,13,True
+Shabazz Napier,4,10,19,0,Driving Layup Shot,2,-7,22,True
+Shabazz Napier,4,9,6,0,Driving Layup Shot,4,40,8,True
+Shabazz Napier,3,8,37,0,Driving Layup Shot,0,5,0,True
+Shabazz Napier,4,0,55,1,Driving Layup Shot,0,-9,3,True
+Shabazz Napier,4,9,40,0,Driving Layup Shot,8,-81,9,True
+Shabazz Napier,4,2,4,1,Driving Layup Shot,2,20,6,True
+Shabazz Napier,4,0,39,1,Driving Layup Shot,1,-15,-5,True
+Shabazz Napier,4,10,46,0,Driving Layup Shot,5,-40,35,True
+Shabazz Napier,4,8,17,0,Driving Layup Shot,2,18,10,True
+Shabazz Napier,4,9,45,1,Driving Layup Shot,2,-22,10,True
+Shabazz Napier,4,10,36,0,Driving Layup Shot,7,36,68,True
+Shabazz Napier,4,11,41,1,Driving Layup Shot,1,0,15,True
+Shabazz Napier,3,0,50,1,Driving Layup Shot,1,-6,10,True
+Shabazz Napier,1,8,43,1,Driving Layup Shot,1,11,8,True
+Shabazz Napier,3,10,16,1,Driving Layup Shot,1,-19,-3,True
+Shabazz Napier,4,7,53,1,Driving Layup Shot,1,-16,1,True
+Shabazz Napier,4,6,29,0,Driving Layup Shot,2,-12,20,True
+Shabazz Napier,4,10,11,1,Driving Reverse Layup Shot,1,11,4,True
+Shabazz Napier,3,1,22,1,Driving Reverse Layup Shot,0,5,6,True
+Shabazz Napier,4,10,24,1,Driving Reverse Layup Shot,1,12,13,True
+Shabazz Napier,4,7,57,1,Driving Reverse Layup Shot,0,3,4,True
+Shabazz Napier,4,3,20,1,Driving Reverse Layup Shot,1,8,16,True
+Shabazz Napier,4,7,15,0,Driving Reverse Layup Shot,2,-2,29,True
+Shabazz Napier,4,6,39,0,Fadeaway Jump Shot,12,-122,13,True
+Shabazz Napier,2,10,10,0,Fadeaway Jump Shot,9,-85,47,True
+Shabazz Napier,2,6,9,0,Finger Roll Layup Shot,2,-20,15,True
+Shabazz Napier,4,1,41,1,Finger Roll Layup Shot,0,0,7,True
+Shabazz Napier,2,0,48,1,Finger Roll Layup Shot,1,-1,15,True
+Shabazz Napier,2,6,47,0,Floating Jump shot,8,-38,74,True
+Shabazz Napier,2,6,0,1,Floating Jump shot,16,-57,150,True
+Shabazz Napier,2,6,58,1,Floating Jump shot,16,-157,51,True
+Shabazz Napier,2,9,53,0,Floating Jump shot,13,52,124,True
+Shabazz Napier,1,1,11,0,Floating Jump shot,6,-36,53,True
+Shabazz Napier,4,10,18,0,Floating Jump shot,4,16,43,True
+Shabazz Napier,3,1,28,1,Floating Jump shot,11,-109,40,True
+Shabazz Napier,3,4,45,0,Floating Jump shot,8,-81,-18,True
+Shabazz Napier,2,7,7,1,Floating Jump shot,5,12,57,True
+Shabazz Napier,4,0,57,0,Floating Jump shot,8,-9,89,True
+Shabazz Napier,1,0,0,0,Floating Jump shot,7,29,66,True
+Shabazz Napier,1,0,2,0,Floating Jump shot,5,28,45,True
+Shabazz Napier,2,4,34,0,Floating Jump shot,11,31,110,True
+Shabazz Napier,2,10,6,1,Floating Jump shot,12,24,127,True
+Shabazz Napier,2,4,13,1,Jump Shot,25,-62,252,False
+Shabazz Napier,4,9,56,0,Jump Shot,23,-231,52,False
+Shabazz Napier,4,11,27,0,Jump Shot,25,-125,218,False
+Shabazz Napier,4,9,44,0,Jump Shot,12,-127,11,True
+Shabazz Napier,2,11,48,0,Jump Shot,18,-165,73,True
+Shabazz Napier,3,2,10,0,Jump Shot,26,-13,263,False
+Shabazz Napier,2,5,55,1,Jump Shot,24,214,113,False
+Shabazz Napier,2,9,47,0,Jump Shot,30,-111,280,False
+Shabazz Napier,2,0,0,0,Jump Shot,22,-224,8,False
+Shabazz Napier,2,8,6,0,Jump Shot,25,210,142,False
+Shabazz Napier,2,8,16,1,Jump Shot,25,-196,167,False
+Shabazz Napier,1,7,7,0,Jump Shot,24,213,115,False
+Shabazz Napier,3,6,53,1,Jump Shot,24,-162,187,False
+Shabazz Napier,2,4,52,1,Jump Shot,25,-61,243,False
+Shabazz Napier,2,0,26,0,Jump Shot,23,226,44,False
+Shabazz Napier,2,0,1,0,Jump Shot,26,122,237,False
+Shabazz Napier,2,9,55,1,Jump Shot,25,-228,115,False
+Shabazz Napier,2,0,49,0,Jump Shot,25,-80,237,False
+Shabazz Napier,2,3,13,1,Jump Shot,24,-165,183,False
+Shabazz Napier,3,3,51,0,Jump Shot,24,-177,172,False
+Shabazz Napier,2,5,44,1,Jump Shot,27,60,267,False
+Shabazz Napier,4,6,26,1,Jump Shot,22,-29,221,True
+Shabazz Napier,2,8,1,1,Jump Shot,26,112,236,False
+Shabazz Napier,4,3,51,1,Jump Shot,24,180,164,False
+Shabazz Napier,2,4,56,1,Jump Shot,23,-228,40,False
+Shabazz Napier,4,10,16,1,Jump Shot,25,-190,168,False
+Shabazz Napier,4,7,41,0,Jump Shot,24,158,193,False
+Shabazz Napier,3,1,49,1,Jump Shot,27,-93,260,False
+Shabazz Napier,2,8,57,1,Jump Shot,25,-188,174,False
+Shabazz Napier,3,0,34,0,Jump Shot,26,-176,192,False
+Shabazz Napier,2,9,28,0,Jump Shot,10,-30,99,True
+Shabazz Napier,4,11,16,0,Jump Shot,26,112,240,False
+Shabazz Napier,1,1,27,0,Jump Shot,8,-62,65,True
+Shabazz Napier,4,8,59,0,Jump Shot,25,-148,212,False
+Shabazz Napier,2,5,58,0,Jump Shot,24,211,126,False
+Shabazz Napier,2,10,36,0,Jump Shot,24,204,136,False
+Shabazz Napier,2,11,27,1,Jump Shot,22,226,15,False
+Shabazz Napier,4,11,40,0,Jump Shot,26,155,209,False
+Shabazz Napier,1,1,23,0,Jump Shot,19,70,185,True
+Shabazz Napier,4,6,6,1,Jump Shot,22,-222,17,False
+Shabazz Napier,5,0,23,0,Jump Shot,18,113,144,True
+Shabazz Napier,4,0,57,0,Jump Shot,1,-9,11,True
+Shabazz Napier,2,1,53,0,Jump Shot,23,-224,59,False
+Shabazz Napier,2,10,29,0,Jump Shot,23,-228,53,False
+Shabazz Napier,2,9,5,1,Jump Shot,15,-109,116,True
+Shabazz Napier,1,2,29,0,Jump Shot,19,79,176,True
+Shabazz Napier,4,11,31,1,Jump Shot,27,-153,223,False
+Shabazz Napier,3,0,40,0,Jump Shot,17,0,170,True
+Shabazz Napier,1,0,44,1,Jump Shot,25,34,257,False
+Shabazz Napier,2,8,16,0,Jump Shot,20,25,205,True
+Shabazz Napier,2,7,47,1,Jump Shot,23,235,47,False
+Shabazz Napier,2,5,45,0,Jump Shot,25,-149,212,False
+Shabazz Napier,4,0,47,0,Jump Shot,25,-172,185,False
+Shabazz Napier,3,2,21,0,Jump Shot,23,-128,203,False
+Shabazz Napier,1,5,1,1,Jump Shot,12,-118,53,True
+Shabazz Napier,4,11,4,1,Jump Shot,25,-155,201,False
+Shabazz Napier,3,11,45,0,Jump Shot,24,-165,186,False
+Shabazz Napier,1,7,9,0,Jump Shot,26,-195,172,False
+Shabazz Napier,4,9,27,0,Jump Shot,26,183,189,False
+Shabazz Napier,4,8,54,0,Jump Shot,26,160,206,False
+Shabazz Napier,2,6,16,0,Jump Shot,24,-16,246,False
+Shabazz Napier,4,6,9,0,Jump Shot,25,227,110,False
+Shabazz Napier,3,1,3,1,Jump Shot,24,-188,159,False
+Shabazz Napier,3,2,54,0,Jump Shot,24,-183,163,False
+Shabazz Napier,3,8,43,0,Jump Shot,25,214,134,False
+Shabazz Napier,4,6,11,1,Jump Shot,24,-93,231,False
+Shabazz Napier,1,4,15,1,Jump Shot,26,-149,218,False
+Shabazz Napier,1,3,3,1,Jump Shot,23,226,65,False
+Shabazz Napier,2,2,41,1,Jump Shot,24,125,216,False
+Shabazz Napier,2,4,50,0,Jump Shot,26,2,263,False
+Shabazz Napier,2,9,53,1,Jump Shot,27,-157,226,False
+Shabazz Napier,4,10,10,1,Jump Shot,19,109,164,True
+Shabazz Napier,2,8,34,0,Jump Shot,22,-225,6,False
+Shabazz Napier,4,9,55,1,Jump Shot,25,165,198,False
+Shabazz Napier,1,0,32,0,Jump Shot,26,134,230,False
+Shabazz Napier,3,10,44,0,Jump Shot,28,-114,259,False
+Shabazz Napier,2,5,30,0,Jump Shot,24,-231,95,False
+Shabazz Napier,2,6,51,0,Jump Shot,11,-27,113,True
+Shabazz Napier,4,8,14,0,Jump Shot,25,-141,218,False
+Shabazz Napier,2,2,17,0,Jump Shot,24,54,241,False
+Shabazz Napier,4,10,54,0,Jump Shot,26,-120,233,False
+Shabazz Napier,2,5,34,0,Jump Shot,24,-164,188,False
+Shabazz Napier,4,3,29,0,Jump Shot,26,123,232,False
+Shabazz Napier,1,11,44,0,Jump Shot,23,-231,-10,False
+Shabazz Napier,2,1,43,1,Jump Shot,25,-168,191,False
+Shabazz Napier,4,9,15,0,Jump Shot,24,-205,132,False
+Shabazz Napier,2,5,59,1,Jump Shot,19,-114,155,True
+Shabazz Napier,1,1,47,1,Jump Shot,26,-117,241,False
+Shabazz Napier,1,8,8,0,Jump Shot,25,-156,199,False
+Shabazz Napier,4,11,49,1,Jump Shot,25,-126,220,False
+Shabazz Napier,1,5,24,1,Jump Shot,24,-149,200,False
+Shabazz Napier,4,8,35,1,Jump Shot,22,-225,-6,False
+Shabazz Napier,2,9,24,1,Jump Shot,25,-172,189,False
+Shabazz Napier,4,8,12,0,Jump Shot,24,-206,126,False
+Shabazz Napier,2,7,39,0,Jump Shot,25,-122,225,False
+Shabazz Napier,2,2,7,0,Jump Shot,24,198,148,False
+Shabazz Napier,1,1,31,1,Jump Shot,26,136,230,False
+Shabazz Napier,4,9,8,0,Jump Shot,26,93,250,False
+Shabazz Napier,2,9,0,1,Jump Shot,25,-179,176,False
+Shabazz Napier,4,10,22,1,Jump Shot,24,-223,104,False
+Shabazz Napier,4,2,48,0,Jump Shot,25,206,147,False
+Shabazz Napier,3,10,3,0,Jump Shot,28,-25,279,False
+Shabazz Napier,4,10,30,0,Jump Shot,26,-95,243,False
+Shabazz Napier,2,9,53,1,Jump Shot,21,0,213,True
+Shabazz Napier,2,7,1,0,Jump Shot,23,194,141,False
+Shabazz Napier,3,6,9,0,Jump Shot,26,72,256,False
+Shabazz Napier,2,0,31,1,Jump Shot,28,-230,173,False
+Shabazz Napier,1,1,9,1,Jump Shot,17,-13,172,True
+Shabazz Napier,2,10,47,0,Jump Shot,26,100,247,False
+Shabazz Napier,2,4,35,0,Jump Shot,27,11,270,False
+Shabazz Napier,3,3,26,1,Jump Shot,24,-171,175,False
+Shabazz Napier,1,2,33,0,Jump Shot,7,-24,74,True
+Shabazz Napier,2,9,43,1,Jump Shot,14,-7,144,True
+Shabazz Napier,3,0,2,1,Jump Shot,25,-153,206,False
+Shabazz Napier,4,1,55,1,Jump Shot,23,-230,37,False
+Shabazz Napier,3,2,19,0,Jump Shot,22,-228,10,False
+Shabazz Napier,4,7,8,0,Jump Shot,24,-199,144,False
+Shabazz Napier,4,8,1,0,Jump Shot,23,-233,18,False
+Shabazz Napier,2,2,18,0,Jump Shot,26,218,147,False
+Shabazz Napier,2,10,50,0,Jump Shot,22,-227,26,False
+Shabazz Napier,3,1,25,0,Jump Shot,26,150,213,False
+Shabazz Napier,4,8,32,0,Jump Shot,20,-139,152,True
+Shabazz Napier,2,7,43,0,Jump Shot,20,-132,163,True
+Shabazz Napier,3,7,34,0,Jump Shot,18,143,124,True
+Shabazz Napier,4,9,52,0,Jump Shot,26,-93,252,False
+Shabazz Napier,2,2,38,0,Jump Shot,15,-9,154,True
+Shabazz Napier,2,4,44,0,Jump Shot,25,-157,204,False
+Shabazz Napier,4,4,45,1,Jump Shot,27,38,269,False
+Shabazz Napier,3,1,15,0,Jump Shot,25,-138,210,False
+Shabazz Napier,2,6,29,0,Jump Shot,24,-43,246,False
+Shabazz Napier,3,2,47,0,Jump Shot,24,168,175,False
+Shabazz Napier,2,9,4,0,Jump Shot,23,225,54,False
+Shabazz Napier,4,9,31,0,Jump Shot,22,-227,3,False
+Shabazz Napier,1,3,34,0,Jump Shot,26,-138,226,False
+Shabazz Napier,3,5,34,0,Jump Shot,25,117,230,False
+Shabazz Napier,4,1,21,0,Jump Shot,24,-53,239,False
+Shabazz Napier,2,5,16,0,Jump Shot,24,222,106,False
+Shabazz Napier,3,8,30,1,Jump Shot,22,228,30,False
+Shabazz Napier,4,10,2,0,Jump Shot,14,-89,115,True
+Shabazz Napier,2,9,56,0,Jump Shot,25,3,252,False
+Shabazz Napier,3,0,47,1,Jump Shot,23,-230,61,False
+Shabazz Napier,2,11,8,1,Jump Shot,27,-190,205,False
+Shabazz Napier,4,8,48,0,Jump Shot,25,-177,178,False
+Shabazz Napier,1,2,8,0,Jump Shot,16,-117,110,True
+Shabazz Napier,4,10,14,0,Jump Shot,23,-233,22,False
+Shabazz Napier,2,5,6,1,Jump Shot,25,166,188,False
+Shabazz Napier,2,8,57,1,Jump Shot,28,-165,230,False
+Shabazz Napier,4,9,55,0,Jump Shot,23,-235,31,False
+Shabazz Napier,3,4,34,0,Jump Shot,26,-73,250,False
+Shabazz Napier,4,7,15,0,Jump Shot,24,-116,215,False
+Shabazz Napier,3,8,13,1,Jump Shot,22,-226,22,False
+Shabazz Napier,4,1,26,0,Jump Shot,22,-228,1,False
+Shabazz Napier,2,5,51,1,Jump Shot,25,-81,244,False
+Shabazz Napier,4,0,28,0,Jump Shot,23,-232,-3,False
+Shabazz Napier,3,10,39,1,Jump Shot,25,199,160,False
+Shabazz Napier,2,9,39,0,Jump Shot,25,10,259,False
+Shabazz Napier,2,4,55,1,Jump Shot,26,66,258,False
+Shabazz Napier,2,7,11,1,Jump Shot,24,81,234,False
+Shabazz Napier,4,11,30,0,Jump Shot,25,143,208,False
+Shabazz Napier,1,0,2,0,Jump Shot,25,-95,234,False
+Shabazz Napier,1,8,46,0,Jump Shot,25,76,247,False
+Shabazz Napier,4,1,6,1,Jump Shot,18,159,98,True
+Shabazz Napier,2,5,55,1,Layup Shot,0,-5,4,True
+Shabazz Napier,4,9,17,0,Layup Shot,0,-3,5,True
+Shabazz Napier,3,0,26,0,Layup Shot,2,10,20,True
+Shabazz Napier,2,3,40,0,Layup Shot,1,-6,11,True
+Shabazz Napier,2,9,25,0,Layup Shot,3,-27,15,True
+Shabazz Napier,2,8,28,1,Layup Shot,1,2,15,True
+Shabazz Napier,2,8,16,0,Layup Shot,1,-11,11,True
+Shabazz Napier,1,1,4,0,Layup Shot,2,24,10,True
+Shabazz Napier,2,5,35,1,Layup Shot,1,-9,13,True
+Shabazz Napier,4,2,24,1,Layup Shot,2,-9,22,True
+Shabazz Napier,2,8,48,1,Layup Shot,2,-20,21,True
+Shabazz Napier,1,1,50,0,Pullup Jump shot,13,102,81,True
+Shabazz Napier,2,9,32,0,Pullup Jump shot,20,62,200,True
+Shabazz Napier,1,1,13,0,Pullup Jump shot,17,-166,46,True
+Shabazz Napier,4,9,56,0,Pullup Jump shot,15,-62,143,True
+Shabazz Napier,4,0,53,1,Pullup Jump shot,14,-100,106,True
+Shabazz Napier,3,1,41,0,Pullup Jump shot,26,72,252,False
+Shabazz Napier,4,4,29,0,Pullup Jump shot,27,49,266,False
+Shabazz Napier,3,2,52,0,Pullup Jump shot,25,-152,210,False
+Shabazz Napier,4,5,0,0,Pullup Jump shot,15,-111,115,True
+Shabazz Napier,2,10,36,0,Pullup Jump shot,25,-22,259,False
+Shabazz Napier,2,8,53,0,Pullup Jump shot,21,-105,191,True
+Shabazz Napier,2,10,18,0,Pullup Jump shot,25,-144,210,False
+Shabazz Napier,3,3,48,0,Pullup Jump shot,16,60,157,True
+Shabazz Napier,4,9,29,1,Pullup Jump shot,17,-5,176,True
+Shabazz Napier,1,0,38,1,Pullup Jump shot,28,-106,269,False
+Shabazz Napier,2,10,59,1,Pullup Jump shot,13,-111,85,True
+Shabazz Napier,2,9,14,1,Pullup Jump shot,17,-91,155,True
+Shabazz Napier,2,8,50,0,Pullup Jump shot,22,-105,201,True
+Shabazz Napier,2,9,43,1,Pullup Jump shot,18,79,164,True
+Shabazz Napier,2,9,13,1,Pullup Jump shot,16,66,152,True
+Shabazz Napier,2,10,32,1,Pullup Jump shot,20,-142,154,True
+Shabazz Napier,4,8,33,1,Pullup Jump shot,25,-85,241,False
+Shabazz Napier,2,10,2,0,Pullup Jump shot,24,81,230,False
+Shabazz Napier,2,0,32,0,Pullup Jump shot,24,205,133,False
+Shabazz Napier,2,3,43,0,Pullup Jump shot,26,-2,265,False
+Shabazz Napier,4,9,0,0,Pullup Jump shot,18,119,148,True
+Shabazz Napier,3,5,45,0,Pullup Jump shot,24,-144,198,False
+Shabazz Napier,3,1,15,0,Pullup Jump shot,26,-2,268,False
+Shabazz Napier,4,9,39,0,Pullup Jump shot,15,48,152,True
+Shabazz Napier,2,11,2,0,Pullup Jump shot,24,200,136,False
+Shabazz Napier,2,7,55,1,Pullup Jump shot,20,53,197,True
+Shabazz Napier,4,5,44,1,Pullup Jump shot,17,-49,171,True
+Shabazz Napier,2,6,53,0,Pullup Jump shot,19,96,173,True
+Shabazz Napier,4,0,27,0,Pullup Jump shot,26,-120,232,False
+Shabazz Napier,2,11,14,1,Pullup Jump shot,19,48,190,True
+Shabazz Napier,2,5,42,0,Pullup Jump shot,24,20,244,False
+Shabazz Napier,2,7,1,0,Pullup Jump shot,13,119,53,True
+Shabazz Napier,1,0,1,0,Pullup Jump shot,24,230,90,False
+Shabazz Napier,4,7,24,0,Pullup Jump shot,4,-13,38,True
+Shabazz Napier,4,9,55,1,Pullup Jump shot,14,9,140,True
+Shabazz Napier,4,11,45,0,Pullup Jump shot,19,-31,189,True
+Shabazz Napier,4,7,30,1,Pullup Jump shot,13,125,45,True
+Shabazz Napier,2,4,25,1,Pullup Jump shot,20,134,151,True
+Shabazz Napier,3,0,0,1,Pullup Jump shot,23,-232,32,False
+Shabazz Napier,2,3,50,0,Pullup Jump shot,26,-7,269,False
+Shabazz Napier,4,8,18,0,Pullup Jump shot,17,6,172,True
+Shabazz Napier,2,10,46,0,Pullup Jump shot,17,14,178,True
+Shabazz Napier,2,9,58,1,Pullup Jump shot,18,117,146,True
+Shabazz Napier,1,3,0,1,Pullup Jump shot,18,0,187,True
+Shabazz Napier,2,11,28,0,Pullup Jump shot,19,181,62,True
+Shabazz Napier,1,1,24,1,Pullup Jump shot,21,182,106,True
+Shabazz Napier,1,4,17,1,Pullup Jump shot,17,-55,167,True
+Shabazz Napier,2,7,31,0,Pullup Jump shot,21,5,216,True
+Shabazz Napier,3,3,27,0,Pullup Jump shot,25,132,220,False
+Shabazz Napier,2,10,28,0,Pullup Jump shot,11,-45,107,True
+Shabazz Napier,2,11,37,0,Pullup Jump shot,20,-19,205,True
+Shabazz Napier,4,1,53,0,Pullup Jump shot,18,117,141,True
+Shabazz Napier,2,1,2,1,Pullup Jump shot,25,131,215,False
+Shabazz Napier,4,8,5,1,Pullup Jump shot,21,-111,188,True
+Shabazz Napier,4,10,26,1,Pullup Jump shot,26,-68,260,False
+Shabazz Napier,1,1,39,0,Pullup Jump shot,14,61,137,True
+Shabazz Napier,3,0,22,1,Pullup Jump shot,27,-68,270,False
+Shabazz Napier,2,8,27,0,Pullup Jump shot,11,-38,105,True
+Shabazz Napier,4,10,1,0,Pullup Jump shot,24,-30,248,False
+Shabazz Napier,4,2,48,1,Pullup Jump shot,16,-5,168,True
+Shabazz Napier,1,2,25,1,Pullup Jump shot,19,-2,198,True
+Shabazz Napier,2,11,42,1,Pullup Jump shot,25,3,250,False
+Shabazz Napier,1,0,29,0,Pullup Jump shot,20,-18,209,True
+Shabazz Napier,1,9,37,0,Pullup Jump shot,3,5,30,True
+Shabazz Napier,3,10,32,0,Pullup Jump shot,24,-76,235,False
+Shabazz Napier,4,10,57,1,Pullup Jump shot,25,-12,257,False
+Shabazz Napier,2,11,24,0,Pullup Jump shot,18,-122,143,True
+Shabazz Napier,4,9,38,1,Pullup Jump shot,16,-84,141,True
+Shabazz Napier,2,6,54,0,Pullup Jump shot,27,81,258,False
+Shabazz Napier,2,11,15,1,Pullup Jump shot,7,0,74,True
+Shabazz Napier,4,9,45,0,Pullup Jump shot,24,-154,190,False
+Shabazz Napier,2,10,38,0,Pullup Jump shot,17,93,148,True
+Shabazz Napier,3,2,19,0,Pullup Jump shot,15,-101,111,True
+Shabazz Napier,1,0,59,0,Pullup Jump shot,9,-97,17,True
+Shabazz Napier,4,5,46,0,Pullup Jump shot,15,-19,157,True
+Shabazz Napier,4,1,59,1,Pullup Jump shot,17,130,112,True
+Shabazz Napier,1,0,33,0,Pullup Jump shot,15,-111,104,True
+Shabazz Napier,1,1,19,0,Pullup Jump shot,16,47,158,True
+Shabazz Napier,4,9,39,0,Pullup Jump shot,26,-123,234,False
+Shabazz Napier,3,7,0,0,Pullup Jump shot,17,-62,164,True
+Shabazz Napier,2,10,42,1,Pullup Jump shot,16,-110,121,True
+Shabazz Napier,1,0,3,0,Pullup Jump shot,27,-133,246,False
+Shabazz Napier,1,0,51,0,Pullup Jump shot,26,-94,243,False
+Shabazz Napier,1,2,17,1,Pullup Jump shot,18,-101,158,True
+Shabazz Napier,3,0,58,0,Pullup Jump shot,12,-123,4,True
+Shabazz Napier,2,7,13,1,Pullup Jump shot,16,-80,143,True
+Shabazz Napier,2,9,14,1,Pullup Jump shot,16,157,57,True
+Shabazz Napier,2,7,43,0,Pullup Jump shot,26,62,257,False
+Shabazz Napier,2,1,19,0,Pullup Jump shot,25,-144,205,False
+Shabazz Napier,3,1,24,0,Pullup Jump shot,19,-38,188,True
+Shabazz Napier,2,10,42,1,Pullup Jump shot,16,-91,137,True
+Shabazz Napier,4,10,50,0,Pullup Jump shot,25,-103,229,False
+Shabazz Napier,1,2,55,0,Pullup Jump shot,17,140,105,True
+Shabazz Napier,2,8,3,0,Pullup Jump shot,28,-179,223,False
+Shabazz Napier,2,7,41,0,Pullup Jump shot,21,-41,210,True
+Shabazz Napier,2,11,17,0,Pullup Jump shot,21,-130,165,True
+Shabazz Napier,2,7,1,0,Pullup Jump shot,19,49,189,True
+Shabazz Napier,3,3,24,1,Pullup Jump shot,19,49,186,True
+Shabazz Napier,3,2,44,0,Pullup Jump shot,14,8,148,True
+Shabazz Napier,4,7,4,0,Pullup Jump shot,21,-121,180,True
+Shabazz Napier,2,1,53,0,Pullup Jump shot,20,-108,172,True
+Shabazz Napier,4,1,32,0,Pullup Jump shot,21,92,190,True
+Shabazz Napier,3,3,59,0,Pullup Jump shot,16,90,138,True
+Shabazz Napier,2,5,20,1,Pullup Jump shot,16,-163,6,True
+Shabazz Napier,4,7,23,1,Pullup Jump shot,20,-78,188,True
+Shabazz Napier,2,4,4,1,Pullup Jump shot,17,85,151,True
+Shabazz Napier,4,8,41,1,Pullup Jump shot,14,-59,136,True
+Shabazz Napier,2,8,32,1,Pullup Jump shot,22,120,186,True
+Shabazz Napier,4,11,5,0,Pullup Jump shot,17,-90,152,True
+Shabazz Napier,4,10,47,1,Pullup Jump shot,19,93,168,True
+Shabazz Napier,2,7,55,1,Pullup Jump shot,19,-40,194,True
+Shabazz Napier,4,7,39,1,Pullup Jump shot,25,-150,201,False
+Shabazz Napier,2,9,54,0,Pullup Jump shot,19,-190,37,True
+Shabazz Napier,3,3,24,0,Pullup Jump shot,13,-48,124,True
+Shabazz Napier,2,8,41,0,Pullup Jump shot,16,124,104,True
+Shabazz Napier,2,10,32,1,Pullup Jump shot,20,-92,185,True
+Shabazz Napier,4,4,24,1,Putback Layup Shot,0,0,-6,True
+Shabazz Napier,4,0,7,0,Reverse Layup Shot,2,9,19,True
+Shabazz Napier,2,8,18,1,Reverse Layup Shot,4,-44,2,True
+Shabazz Napier,1,1,20,1,Running Dunk Shot,0,3,1,True
+Shabazz Napier,2,7,19,0,Running Jump Shot,16,-160,1,True
+Shabazz Napier,1,0,33,1,Running Jump Shot,28,141,249,False
+Shabazz Napier,2,8,13,0,Running Layup Shot,12,-18,127,True
+Shabazz Napier,4,8,13,0,Running Layup Shot,2,20,3,True
+Shabazz Napier,2,0,28,1,Running Layup Shot,0,3,6,True
+Shabazz Napier,2,1,56,1,Running Layup Shot,1,11,6,True
+Shabazz Napier,3,0,58,0,Running Layup Shot,4,6,40,True
+Shabazz Napier,2,3,31,1,Running Layup Shot,2,7,19,True
+Shabazz Napier,4,10,44,1,Running Layup Shot,0,-7,6,True
+Shabazz Napier,1,2,33,0,Running Layup Shot,1,-8,9,True
+Shabazz Napier,2,5,49,1,Running Layup Shot,0,0,5,True
+Shabazz Napier,2,8,22,1,Running Layup Shot,1,1,17,True
+Shabazz Napier,4,7,26,0,Running Layup Shot,2,5,20,True
+Shabazz Napier,4,11,21,1,Running Layup Shot,1,14,8,True
+Shabazz Napier,2,8,15,1,Running Layup Shot,1,7,17,True
+Shabazz Napier,4,5,38,1,Running Layup Shot,0,2,2,True
+Shabazz Napier,3,2,50,0,Running Pull-Up Jump Shot,2,6,26,True
+Shabazz Napier,3,3,2,0,Running Pull-Up Jump Shot,27,-189,198,False
+Shabazz Napier,4,8,7,1,Running Pull-Up Jump Shot,20,72,194,True
+Shabazz Napier,3,0,0,0,Running Pull-Up Jump Shot,25,-107,236,False
+Shabazz Napier,2,10,12,1,Running Pull-Up Jump Shot,24,-31,247,False
+Shabazz Napier,4,4,28,0,Running Reverse Layup Shot,0,-9,-4,True
+Shabazz Napier,3,2,18,0,Running Reverse Layup Shot,0,-9,4,True
+Shabazz Napier,2,7,54,1,Running Reverse Layup Shot,2,6,20,True
+Shabazz Napier,3,3,56,1,Running Reverse Layup Shot,0,-1,-3,True
+Shabazz Napier,4,3,15,0,Step Back Jump shot,18,-32,186,True
+Shabazz Napier,2,6,45,1,Step Back Jump shot,22,77,208,True
+Shabazz Napier,3,0,4,1,Step Back Jump shot,25,-25,249,False
+Shabazz Napier,1,7,55,0,Step Back Jump shot,26,130,226,False
+Shabazz Napier,2,7,58,0,Step Back Jump shot,18,94,156,True
+Shabazz Napier,2,4,36,0,Step Back Jump shot,20,-63,199,True
+Shabazz Napier,1,0,17,1,Step Back Jump shot,13,-51,126,True
+Shabazz Napier,4,11,41,1,Step Back Jump shot,20,90,189,True
+Shabazz Napier,2,6,8,1,Step Back Jump shot,16,136,97,True
+Shabazz Napier,1,6,41,1,Step Back Jump shot,26,-210,155,False
+Shabazz Napier,2,5,18,1,Step Back Jump shot,17,71,163,True
+Shabazz Napier,2,10,49,0,Step Back Jump shot,19,-58,191,True
+Shabazz Napier,2,9,30,0,Step Back Jump shot,24,-111,221,False
+Shabazz Napier,4,7,19,0,Step Back Jump shot,18,-152,110,True
+Shabazz Napier,1,2,50,0,Step Back Jump shot,11,-99,65,True
+Shabazz Napier,3,1,23,0,Step Back Jump shot,24,-151,199,False
+Shabazz Napier,2,9,0,0,Step Back Jump shot,24,205,133,False
+Shabazz Napier,2,6,29,0,Step Back Jump shot,25,-2,259,False
+Shabazz Napier,3,4,46,0,Step Back Jump shot,20,112,176,True
+Shabazz Napier,2,10,19,1,Step Back Jump shot,19,-120,149,True
+Shabazz Napier,2,3,56,0,Step Back Jump shot,24,226,83,False
+Shabazz Napier,2,3,14,0,Step Back Jump shot,27,128,242,False
+Shabazz Napier,2,6,6,0,Step Back Jump shot,25,107,232,False
+Shabazz Napier,2,7,45,0,Step Back Jump shot,18,-103,152,True
+Shabazz Napier,2,5,5,1,Step Back Jump shot,26,-33,265,False
+Shabazz Napier,2,5,54,0,Step Back Jump shot,22,-229,15,False
+Shabazz Napier,2,1,10,0,Step Back Jump shot,26,-128,228,False
+Shabazz Napier,2,0,33,0,Step Back Jump shot,26,-121,235,False
+Shabazz Napier,2,9,42,0,Step Back Jump shot,25,206,155,False
+Shabazz Napier,4,10,39,0,Step Back Jump shot,24,175,176,False
+Shabazz Napier,2,7,56,0,Step Back Jump shot,22,-51,215,True
+Shabazz Napier,2,9,56,1,Step Back Jump shot,27,-98,256,False
+Shabazz Napier,2,0,32,0,Step Back Jump shot,22,-227,6,False
+Shabazz Napier,1,4,22,0,Step Back Jump shot,16,-143,86,True
+Shabazz Napier,4,9,17,1,Step Back Jump shot,25,-32,248,False
+Shabazz Napier,2,3,58,1,Step Back Jump shot,23,226,71,False
+Shabazz Napier,2,0,0,0,Step Back Jump shot,21,-206,63,True
+Shabazz Napier,3,5,24,1,Step Back Jump shot,19,-150,120,True
+Shabazz Napier,4,7,51,0,Tip Layup Shot,0,0,-6,True
+Shabazz Napier,3,2,21,1,Turnaround Fadeaway Bank Jump Shot,11,-70,88,True
+Shabazz Napier,1,0,48,1,Turnaround Fadeaway shot,7,73,28,True
+Shabazz Napier,2,10,40,1,Turnaround Jump Shot,14,107,92,True
+Shabazz Napier,2,8,51,1,Turnaround Jump Shot,8,-8,80,True
+Shabazz Napier,2,7,17,1,Turnaround Jump Shot,14,-126,68,True
+Shabazz Napier,4,0,18,0,Turnaround Jump Shot,24,-4,245,False

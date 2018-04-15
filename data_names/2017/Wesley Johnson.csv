@@ -1,0 +1,346 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Wesley Johnson,2,8,9,1,Cutting Dunk Shot,1,9,8,True
+Wesley Johnson,1,8,28,1,Cutting Dunk Shot,2,-7,23,True
+Wesley Johnson,1,9,15,1,Cutting Dunk Shot,0,-5,8,True
+Wesley Johnson,1,9,20,1,Cutting Dunk Shot,1,5,13,True
+Wesley Johnson,4,9,51,1,Cutting Dunk Shot,0,-3,-3,True
+Wesley Johnson,3,6,52,1,Cutting Dunk Shot,0,-6,5,True
+Wesley Johnson,2,2,19,1,Cutting Dunk Shot,1,-4,13,True
+Wesley Johnson,2,3,58,1,Cutting Finger Roll Layup Shot,2,8,25,True
+Wesley Johnson,4,8,18,1,Cutting Layup Shot,0,0,4,True
+Wesley Johnson,1,10,1,0,Cutting Layup Shot,1,-6,16,True
+Wesley Johnson,1,2,14,1,Cutting Layup Shot,1,-5,11,True
+Wesley Johnson,1,8,53,1,Cutting Layup Shot,0,-1,7,True
+Wesley Johnson,2,3,59,1,Cutting Layup Shot,1,-6,15,True
+Wesley Johnson,3,10,19,0,Driving Dunk Shot,1,-5,12,True
+Wesley Johnson,1,8,44,1,Driving Dunk Shot,0,3,3,True
+Wesley Johnson,1,9,10,1,Driving Dunk Shot,0,-8,5,True
+Wesley Johnson,2,0,37,1,Driving Finger Roll Layup Shot,2,25,3,True
+Wesley Johnson,1,9,6,0,Driving Finger Roll Layup Shot,1,2,17,True
+Wesley Johnson,2,8,47,1,Driving Floating Bank Jump Shot,4,-42,19,True
+Wesley Johnson,2,10,22,1,Driving Layup Shot,1,7,17,True
+Wesley Johnson,2,6,41,1,Driving Layup Shot,2,-7,22,True
+Wesley Johnson,3,1,29,1,Driving Layup Shot,1,10,8,True
+Wesley Johnson,1,8,42,1,Driving Layup Shot,0,-3,8,True
+Wesley Johnson,1,9,36,0,Driving Layup Shot,3,-29,13,True
+Wesley Johnson,4,10,29,0,Driving Layup Shot,1,13,11,True
+Wesley Johnson,1,7,48,0,Driving Layup Shot,3,-8,34,True
+Wesley Johnson,3,7,37,0,Driving Reverse Layup Shot,1,10,6,True
+Wesley Johnson,4,0,30,1,Dunk Shot,1,5,11,True
+Wesley Johnson,1,8,10,1,Dunk Shot,0,5,0,True
+Wesley Johnson,1,4,10,1,Dunk Shot,1,5,10,True
+Wesley Johnson,1,10,15,0,Fadeaway Jump Shot,13,128,-25,True
+Wesley Johnson,1,7,32,0,Fadeaway Jump Shot,12,-46,111,True
+Wesley Johnson,3,3,53,0,Fadeaway Jump Shot,20,-192,68,True
+Wesley Johnson,1,10,46,0,Fadeaway Jump Shot,16,131,94,True
+Wesley Johnson,3,5,53,0,Fadeaway Jump Shot,20,41,201,True
+Wesley Johnson,1,10,16,1,Fadeaway Jump Shot,9,-96,25,True
+Wesley Johnson,3,9,29,0,Floating Jump shot,9,95,1,True
+Wesley Johnson,1,1,6,1,Jump Shot,22,-228,-4,False
+Wesley Johnson,4,10,13,0,Jump Shot,24,160,189,False
+Wesley Johnson,4,0,3,0,Jump Shot,27,-138,235,False
+Wesley Johnson,3,5,7,1,Jump Shot,24,-242,37,False
+Wesley Johnson,2,5,51,0,Jump Shot,19,65,180,True
+Wesley Johnson,1,4,11,0,Jump Shot,19,-120,153,True
+Wesley Johnson,1,7,40,0,Jump Shot,15,158,-16,True
+Wesley Johnson,2,1,14,1,Jump Shot,20,163,117,True
+Wesley Johnson,1,6,2,0,Jump Shot,27,217,164,False
+Wesley Johnson,3,5,37,0,Jump Shot,7,75,-10,True
+Wesley Johnson,2,5,12,1,Jump Shot,20,-205,0,True
+Wesley Johnson,2,1,4,1,Jump Shot,24,188,161,False
+Wesley Johnson,3,10,22,0,Jump Shot,28,161,241,False
+Wesley Johnson,3,8,46,0,Jump Shot,27,149,228,False
+Wesley Johnson,1,11,9,0,Jump Shot,21,-156,143,True
+Wesley Johnson,1,9,9,1,Jump Shot,19,72,183,True
+Wesley Johnson,1,11,44,0,Jump Shot,22,-225,22,False
+Wesley Johnson,2,1,11,0,Jump Shot,22,-228,-7,False
+Wesley Johnson,3,2,34,0,Jump Shot,25,117,225,False
+Wesley Johnson,1,8,39,0,Jump Shot,22,-226,-1,False
+Wesley Johnson,1,4,37,0,Jump Shot,23,-227,50,False
+Wesley Johnson,3,10,57,0,Jump Shot,23,-230,17,False
+Wesley Johnson,1,9,48,1,Jump Shot,22,-223,8,False
+Wesley Johnson,4,6,35,0,Jump Shot,23,230,12,False
+Wesley Johnson,1,8,39,1,Jump Shot,22,-221,19,False
+Wesley Johnson,4,4,12,1,Jump Shot,23,-235,27,False
+Wesley Johnson,3,9,1,1,Jump Shot,23,233,-4,False
+Wesley Johnson,2,4,53,1,Jump Shot,23,-222,69,False
+Wesley Johnson,3,5,14,1,Jump Shot,24,-226,81,False
+Wesley Johnson,1,11,44,1,Jump Shot,29,-165,243,False
+Wesley Johnson,2,6,9,0,Jump Shot,19,20,192,True
+Wesley Johnson,3,10,54,0,Jump Shot,27,-122,242,False
+Wesley Johnson,1,5,9,1,Jump Shot,23,-233,9,False
+Wesley Johnson,1,3,24,0,Jump Shot,23,-230,63,False
+Wesley Johnson,1,9,59,0,Jump Shot,23,232,41,False
+Wesley Johnson,4,0,49,1,Jump Shot,23,-234,5,False
+Wesley Johnson,4,0,38,1,Jump Shot,23,236,43,False
+Wesley Johnson,2,9,53,1,Jump Shot,16,69,148,True
+Wesley Johnson,1,1,28,0,Jump Shot,25,-172,192,False
+Wesley Johnson,1,10,21,0,Jump Shot,23,-234,-1,False
+Wesley Johnson,3,8,16,0,Jump Shot,22,225,20,False
+Wesley Johnson,1,0,39,0,Jump Shot,23,232,30,False
+Wesley Johnson,3,7,39,0,Jump Shot,22,226,27,False
+Wesley Johnson,1,6,7,1,Jump Shot,22,-228,-28,False
+Wesley Johnson,1,0,28,0,Jump Shot,22,-221,14,False
+Wesley Johnson,1,2,20,1,Jump Shot,14,-144,-10,True
+Wesley Johnson,1,0,46,0,Jump Shot,22,-226,-13,False
+Wesley Johnson,1,10,27,0,Jump Shot,17,-68,157,True
+Wesley Johnson,1,4,11,0,Jump Shot,16,162,29,True
+Wesley Johnson,4,0,23,0,Jump Shot,24,147,198,False
+Wesley Johnson,2,6,41,0,Jump Shot,18,-165,85,True
+Wesley Johnson,1,7,29,1,Jump Shot,20,123,162,True
+Wesley Johnson,3,7,40,1,Jump Shot,25,-220,128,False
+Wesley Johnson,3,8,26,0,Jump Shot,26,-176,204,False
+Wesley Johnson,2,6,29,0,Jump Shot,20,-150,143,True
+Wesley Johnson,3,5,15,0,Jump Shot,23,-239,-13,False
+Wesley Johnson,1,9,36,0,Jump Shot,20,115,174,True
+Wesley Johnson,3,6,51,1,Jump Shot,12,-31,121,True
+Wesley Johnson,1,0,21,0,Jump Shot,23,-229,57,False
+Wesley Johnson,3,4,29,0,Jump Shot,22,-225,27,False
+Wesley Johnson,1,9,32,0,Jump Shot,23,-230,64,False
+Wesley Johnson,3,3,12,1,Jump Shot,21,-3,219,True
+Wesley Johnson,4,5,40,0,Jump Shot,23,-232,29,False
+Wesley Johnson,2,9,21,0,Jump Shot,24,-112,216,False
+Wesley Johnson,4,6,22,1,Jump Shot,17,11,178,True
+Wesley Johnson,2,4,0,0,Jump Shot,19,43,188,True
+Wesley Johnson,1,11,39,0,Jump Shot,23,-237,-20,False
+Wesley Johnson,2,6,11,1,Jump Shot,11,-110,27,True
+Wesley Johnson,4,4,44,1,Jump Shot,23,234,25,False
+Wesley Johnson,4,3,37,1,Jump Shot,23,234,36,False
+Wesley Johnson,2,8,27,0,Jump Shot,22,-228,21,False
+Wesley Johnson,1,10,36,0,Jump Shot,20,-206,5,True
+Wesley Johnson,3,6,45,1,Jump Shot,26,83,250,False
+Wesley Johnson,1,6,0,1,Jump Shot,23,230,8,False
+Wesley Johnson,3,10,43,1,Jump Shot,22,228,16,False
+Wesley Johnson,4,4,15,1,Jump Shot,22,228,21,False
+Wesley Johnson,2,0,26,1,Jump Shot,23,231,32,False
+Wesley Johnson,2,0,37,1,Jump Shot,23,233,7,False
+Wesley Johnson,2,6,6,1,Jump Shot,19,-187,46,True
+Wesley Johnson,4,0,51,0,Jump Shot,24,-228,83,False
+Wesley Johnson,3,4,45,0,Jump Shot,23,-229,22,False
+Wesley Johnson,4,7,18,0,Jump Shot,24,20,248,False
+Wesley Johnson,1,8,47,1,Jump Shot,25,-127,220,False
+Wesley Johnson,3,9,25,1,Jump Shot,22,225,31,False
+Wesley Johnson,1,11,16,1,Jump Shot,23,-231,-12,False
+Wesley Johnson,3,4,14,0,Jump Shot,17,-14,173,True
+Wesley Johnson,1,6,58,0,Jump Shot,25,-105,232,False
+Wesley Johnson,4,2,26,0,Jump Shot,18,-148,117,True
+Wesley Johnson,3,8,55,1,Jump Shot,14,149,15,True
+Wesley Johnson,3,9,57,0,Jump Shot,6,-50,43,True
+Wesley Johnson,3,5,49,1,Jump Shot,15,158,20,True
+Wesley Johnson,2,4,37,0,Jump Shot,22,226,30,False
+Wesley Johnson,1,4,9,1,Jump Shot,24,236,66,False
+Wesley Johnson,2,1,26,0,Jump Shot,13,-134,20,True
+Wesley Johnson,3,2,32,0,Jump Shot,25,134,220,False
+Wesley Johnson,1,8,59,1,Jump Shot,28,177,221,False
+Wesley Johnson,2,1,17,0,Jump Shot,23,-232,3,False
+Wesley Johnson,1,8,6,0,Jump Shot,24,239,31,False
+Wesley Johnson,3,4,52,1,Jump Shot,23,-231,12,False
+Wesley Johnson,2,8,38,0,Jump Shot,23,-232,-22,False
+Wesley Johnson,2,6,13,1,Jump Shot,23,-230,-1,False
+Wesley Johnson,3,0,20,0,Jump Shot,28,-128,254,False
+Wesley Johnson,1,7,5,0,Jump Shot,23,-230,21,False
+Wesley Johnson,2,3,2,1,Jump Shot,25,-214,144,False
+Wesley Johnson,1,9,22,0,Jump Shot,23,-232,13,False
+Wesley Johnson,3,8,5,0,Jump Shot,24,71,236,False
+Wesley Johnson,1,10,58,0,Jump Shot,23,225,60,False
+Wesley Johnson,3,10,54,0,Jump Shot,17,112,137,True
+Wesley Johnson,2,11,26,1,Jump Shot,22,-228,4,False
+Wesley Johnson,1,8,36,0,Jump Shot,24,-79,234,False
+Wesley Johnson,1,5,18,1,Jump Shot,22,-225,9,False
+Wesley Johnson,3,6,36,0,Jump Shot,22,223,17,False
+Wesley Johnson,3,11,36,0,Jump Shot,23,194,141,False
+Wesley Johnson,1,2,38,0,Jump Shot,25,-166,192,False
+Wesley Johnson,2,8,34,0,Jump Shot,23,231,6,False
+Wesley Johnson,4,6,36,0,Jump Shot,25,-139,215,False
+Wesley Johnson,2,8,9,0,Jump Shot,24,206,131,False
+Wesley Johnson,4,5,54,1,Jump Shot,20,-177,95,True
+Wesley Johnson,3,3,43,0,Jump Shot,24,-240,-4,False
+Wesley Johnson,1,1,30,1,Jump Shot,16,147,69,True
+Wesley Johnson,3,2,26,0,Jump Shot,18,-126,129,True
+Wesley Johnson,1,2,37,0,Jump Shot,24,226,94,False
+Wesley Johnson,3,1,53,0,Jump Shot,25,129,220,False
+Wesley Johnson,4,10,0,0,Jump Shot,23,-234,12,False
+Wesley Johnson,1,1,27,1,Jump Shot,27,138,236,False
+Wesley Johnson,3,3,51,0,Jump Shot,23,-231,12,False
+Wesley Johnson,4,10,54,0,Jump Shot,19,-103,162,True
+Wesley Johnson,2,11,19,0,Jump Shot,25,98,230,False
+Wesley Johnson,3,3,0,1,Jump Shot,27,89,256,False
+Wesley Johnson,3,1,4,0,Jump Shot,25,109,232,False
+Wesley Johnson,4,8,5,1,Jump Shot,22,148,166,True
+Wesley Johnson,1,0,26,0,Jump Shot,24,141,201,False
+Wesley Johnson,3,1,12,1,Jump Shot,26,225,142,False
+Wesley Johnson,3,1,45,0,Jump Shot,19,143,132,True
+Wesley Johnson,4,8,11,0,Jump Shot,25,-151,208,False
+Wesley Johnson,3,1,42,1,Jump Shot,18,104,158,True
+Wesley Johnson,4,2,58,0,Jump Shot,23,-239,20,False
+Wesley Johnson,3,7,44,0,Jump Shot,21,-154,152,True
+Wesley Johnson,2,6,4,0,Jump Shot,22,-228,1,False
+Wesley Johnson,1,1,40,0,Jump Shot,26,-204,175,False
+Wesley Johnson,1,11,15,0,Jump Shot,26,-190,178,False
+Wesley Johnson,4,1,1,0,Jump Shot,21,-151,147,True
+Wesley Johnson,1,6,13,1,Jump Shot,21,-180,109,True
+Wesley Johnson,1,4,24,1,Jump Shot,19,-196,33,True
+Wesley Johnson,4,2,46,1,Jump Shot,25,228,104,False
+Wesley Johnson,4,1,53,1,Jump Shot,25,128,220,False
+Wesley Johnson,4,2,13,0,Jump Shot,23,-230,35,False
+Wesley Johnson,3,0,59,0,Jump Shot,26,-107,243,False
+Wesley Johnson,1,5,33,0,Jump Shot,18,112,152,True
+Wesley Johnson,3,0,33,1,Jump Shot,25,155,199,False
+Wesley Johnson,4,3,40,0,Jump Shot,21,-201,74,True
+Wesley Johnson,2,2,45,0,Jump Shot,12,-122,9,True
+Wesley Johnson,1,1,26,0,Jump Shot,22,229,10,False
+Wesley Johnson,2,0,4,0,Jump Shot,25,40,247,False
+Wesley Johnson,1,2,58,1,Jump Shot,24,78,234,False
+Wesley Johnson,4,5,7,0,Jump Shot,22,222,12,False
+Wesley Johnson,2,2,33,0,Jump Shot,24,-222,98,False
+Wesley Johnson,3,9,53,1,Jump Shot,22,225,8,False
+Wesley Johnson,1,0,53,1,Jump Shot,24,-97,224,False
+Wesley Johnson,3,1,24,0,Jump Shot,28,-199,204,False
+Wesley Johnson,3,6,27,1,Jump Shot,20,-208,1,True
+Wesley Johnson,4,0,37,0,Jump Shot,24,-234,60,False
+Wesley Johnson,4,11,25,0,Jump Shot,24,-214,125,False
+Wesley Johnson,4,9,13,1,Jump Shot,25,-139,214,False
+Wesley Johnson,4,4,59,0,Jump Shot,23,-235,25,False
+Wesley Johnson,2,8,32,1,Jump Shot,22,-223,-8,False
+Wesley Johnson,4,0,21,0,Jump Shot,22,227,10,False
+Wesley Johnson,4,1,58,1,Jump Shot,23,222,73,False
+Wesley Johnson,2,8,55,0,Jump Shot,25,237,93,False
+Wesley Johnson,1,2,46,0,Jump Shot,23,231,32,False
+Wesley Johnson,4,9,41,1,Jump Shot,26,-213,155,False
+Wesley Johnson,1,1,34,1,Jump Shot,25,147,210,False
+Wesley Johnson,2,8,21,0,Jump Shot,24,-102,220,False
+Wesley Johnson,4,4,56,0,Jump Shot,25,-115,228,False
+Wesley Johnson,1,3,34,0,Jump Shot,25,144,209,False
+Wesley Johnson,2,10,5,1,Jump Shot,22,-226,13,False
+Wesley Johnson,4,7,51,0,Jump Shot,22,223,-5,False
+Wesley Johnson,2,9,51,1,Jump Shot,23,-229,27,False
+Wesley Johnson,3,0,0,1,Jump Shot,25,-177,180,False
+Wesley Johnson,1,4,4,0,Jump Shot,22,-106,193,True
+Wesley Johnson,4,8,16,0,Jump Shot,24,165,187,False
+Wesley Johnson,4,11,34,1,Jump Shot,25,-150,200,False
+Wesley Johnson,1,9,44,0,Jump Shot,22,-89,209,True
+Wesley Johnson,1,7,5,0,Jump Shot,12,-125,-4,True
+Wesley Johnson,1,9,2,0,Jump Shot,23,-232,-7,False
+Wesley Johnson,3,10,33,0,Jump Shot,18,139,127,True
+Wesley Johnson,1,11,46,1,Jump Shot,23,-230,5,False
+Wesley Johnson,2,7,58,0,Jump Shot,22,-228,21,False
+Wesley Johnson,4,4,52,0,Jump Shot,24,-90,230,False
+Wesley Johnson,1,4,48,1,Jump Shot,16,-168,11,True
+Wesley Johnson,4,6,5,0,Jump Shot,21,-212,2,True
+Wesley Johnson,2,10,56,1,Jump Shot,23,231,37,False
+Wesley Johnson,3,9,57,1,Jump Shot,22,-228,17,False
+Wesley Johnson,3,7,51,1,Jump Shot,22,-229,2,False
+Wesley Johnson,2,9,8,0,Jump Shot,18,183,15,True
+Wesley Johnson,3,11,7,1,Jump Shot,17,70,157,True
+Wesley Johnson,2,11,17,0,Jump Shot,16,-138,87,True
+Wesley Johnson,2,2,36,0,Jump Shot,26,76,256,False
+Wesley Johnson,4,0,54,0,Jump Shot,22,228,1,False
+Wesley Johnson,1,10,5,0,Jump Shot,22,-228,17,False
+Wesley Johnson,1,9,18,0,Jump Shot,19,-65,181,True
+Wesley Johnson,3,11,43,0,Jump Shot,27,-159,226,False
+Wesley Johnson,3,7,34,0,Jump Shot,23,233,44,False
+Wesley Johnson,3,8,54,0,Jump Shot,26,-107,237,False
+Wesley Johnson,2,5,43,0,Jump Shot,25,105,234,False
+Wesley Johnson,1,10,10,0,Jump Shot,24,-156,189,False
+Wesley Johnson,4,5,15,1,Jump Shot,23,-230,11,False
+Wesley Johnson,3,6,49,0,Jump Shot,22,-226,37,False
+Wesley Johnson,4,5,32,0,Jump Shot,23,-232,15,False
+Wesley Johnson,4,9,7,0,Jump Shot,24,207,132,False
+Wesley Johnson,1,8,15,0,Jump Shot,6,-59,22,True
+Wesley Johnson,3,2,29,0,Jump Shot,24,-226,97,False
+Wesley Johnson,3,8,57,1,Jump Shot,21,-180,113,True
+Wesley Johnson,2,5,27,0,Jump Shot,25,180,177,False
+Wesley Johnson,4,1,30,0,Jump Shot,22,-226,28,False
+Wesley Johnson,3,0,36,0,Jump Shot,23,228,54,False
+Wesley Johnson,2,2,17,0,Jump Shot,18,-150,105,True
+Wesley Johnson,2,2,54,0,Jump Shot,23,225,73,False
+Wesley Johnson,1,3,10,0,Jump Shot,22,223,-17,False
+Wesley Johnson,3,10,47,0,Layup Shot,1,15,2,True
+Wesley Johnson,3,10,19,1,Layup Shot,1,13,7,True
+Wesley Johnson,1,1,6,0,Layup Shot,2,11,17,True
+Wesley Johnson,3,10,37,0,Layup Shot,3,11,36,True
+Wesley Johnson,4,10,16,0,Layup Shot,0,2,9,True
+Wesley Johnson,3,0,33,1,Layup Shot,3,-11,32,True
+Wesley Johnson,1,11,14,0,Layup Shot,1,6,11,True
+Wesley Johnson,3,10,34,0,Layup Shot,0,-5,7,True
+Wesley Johnson,2,2,48,0,Layup Shot,3,-6,34,True
+Wesley Johnson,3,1,39,1,Layup Shot,1,-8,16,True
+Wesley Johnson,3,7,42,0,Layup Shot,2,14,25,True
+Wesley Johnson,1,7,2,0,Pullup Jump shot,13,126,59,True
+Wesley Johnson,1,1,46,1,Pullup Jump shot,17,153,94,True
+Wesley Johnson,3,8,8,0,Pullup Jump shot,17,10,179,True
+Wesley Johnson,3,5,32,1,Pullup Jump shot,19,-188,38,True
+Wesley Johnson,1,5,22,1,Pullup Jump shot,18,154,109,True
+Wesley Johnson,2,0,31,1,Pullup Jump shot,13,129,37,True
+Wesley Johnson,1,10,54,1,Pullup Jump shot,18,107,157,True
+Wesley Johnson,2,7,50,1,Pullup Jump shot,16,-90,136,True
+Wesley Johnson,4,7,43,0,Pullup Jump shot,16,57,151,True
+Wesley Johnson,1,5,8,1,Pullup Jump shot,11,106,46,True
+Wesley Johnson,1,1,49,0,Pullup Jump shot,9,-96,10,True
+Wesley Johnson,1,11,38,0,Pullup Jump shot,15,-158,21,True
+Wesley Johnson,3,3,30,0,Pullup Jump shot,20,-92,179,True
+Wesley Johnson,4,3,16,1,Pullup Jump shot,24,118,218,False
+Wesley Johnson,2,10,15,0,Pullup Jump shot,21,62,206,True
+Wesley Johnson,2,1,38,0,Pullup Jump shot,18,-160,88,True
+Wesley Johnson,3,6,32,0,Pullup Jump shot,18,-182,2,True
+Wesley Johnson,3,8,44,0,Pullup Jump shot,13,122,65,True
+Wesley Johnson,1,7,54,0,Pullup Jump shot,18,136,120,True
+Wesley Johnson,3,4,6,0,Pullup Jump shot,20,25,206,True
+Wesley Johnson,4,11,5,1,Pullup Jump shot,18,46,176,True
+Wesley Johnson,4,11,49,0,Pullup Jump shot,18,-77,163,True
+Wesley Johnson,1,6,8,1,Pullup Jump shot,15,-91,126,True
+Wesley Johnson,2,10,25,0,Pullup Jump shot,13,-18,131,True
+Wesley Johnson,2,6,44,1,Pullup Jump shot,18,-79,163,True
+Wesley Johnson,1,7,16,0,Pullup Jump shot,15,-157,-10,True
+Wesley Johnson,1,3,18,1,Pullup Jump shot,17,176,8,True
+Wesley Johnson,3,4,10,0,Pullup Jump shot,18,185,31,True
+Wesley Johnson,3,10,2,0,Pullup Jump shot,16,150,63,True
+Wesley Johnson,3,1,53,0,Pullup Jump shot,19,-170,86,True
+Wesley Johnson,3,1,54,0,Pullup Jump shot,21,204,78,True
+Wesley Johnson,1,7,57,1,Pullup Jump shot,19,-151,126,True
+Wesley Johnson,3,3,4,1,Pullup Jump shot,17,-17,178,True
+Wesley Johnson,2,5,47,1,Pullup Jump shot,21,154,154,True
+Wesley Johnson,2,8,46,1,Pullup Jump shot,20,131,152,True
+Wesley Johnson,1,7,51,1,Pullup Jump shot,17,-68,162,True
+Wesley Johnson,2,0,54,0,Pullup Jump shot,14,144,-4,True
+Wesley Johnson,2,8,50,0,Pullup Jump shot,20,-81,187,True
+Wesley Johnson,3,4,33,0,Pullup Jump shot,21,190,92,True
+Wesley Johnson,2,8,10,0,Pullup Jump shot,16,153,55,True
+Wesley Johnson,1,10,23,1,Pullup Jump shot,26,76,256,False
+Wesley Johnson,4,7,20,0,Pullup Jump shot,15,155,6,True
+Wesley Johnson,1,3,20,1,Pullup Jump shot,21,145,158,True
+Wesley Johnson,2,10,18,1,Putback Layup Shot,0,0,-6,True
+Wesley Johnson,4,2,14,1,Reverse Layup Shot,2,-22,11,True
+Wesley Johnson,2,5,40,1,Reverse Layup Shot,0,9,4,True
+Wesley Johnson,1,6,23,1,Running Dunk Shot,1,8,16,True
+Wesley Johnson,4,9,42,1,Running Dunk Shot,0,-2,7,True
+Wesley Johnson,4,0,26,1,Running Dunk Shot,0,0,-1,True
+Wesley Johnson,3,7,7,0,Running Finger Roll Layup Shot,1,-6,15,True
+Wesley Johnson,3,11,13,0,Running Jump Shot,25,-224,113,False
+Wesley Johnson,1,0,0,0,Running Jump Shot,48,197,439,False
+Wesley Johnson,1,10,18,0,Running Layup Shot,0,-2,5,True
+Wesley Johnson,3,11,31,1,Running Layup Shot,1,17,-1,True
+Wesley Johnson,2,3,33,0,Running Layup Shot,2,19,10,True
+Wesley Johnson,1,9,2,1,Running Layup Shot,2,-9,22,True
+Wesley Johnson,1,6,30,1,Running Layup Shot,1,-11,5,True
+Wesley Johnson,2,5,55,0,Running Layup Shot,1,-5,17,True
+Wesley Johnson,3,5,45,1,Running Layup Shot,2,4,21,True
+Wesley Johnson,1,6,54,0,Running Pull-Up Jump Shot,25,-148,209,False
+Wesley Johnson,3,5,55,0,Running Pull-Up Jump Shot,16,-155,49,True
+Wesley Johnson,1,0,50,1,Running Pull-Up Jump Shot,22,-227,1,False
+Wesley Johnson,1,10,20,0,Running Reverse Layup Shot,0,6,2,True
+Wesley Johnson,1,4,5,0,Running Reverse Layup Shot,0,8,5,True
+Wesley Johnson,3,2,18,1,Step Back Jump shot,16,-119,110,True
+Wesley Johnson,3,8,38,0,Step Back Jump shot,20,-193,55,True
+Wesley Johnson,2,3,25,1,Step Back Jump shot,15,-56,142,True
+Wesley Johnson,1,1,22,0,Step Back Jump shot,17,172,31,True
+Wesley Johnson,3,7,42,0,Step Back Jump shot,14,-149,-11,True
+Wesley Johnson,4,10,55,1,Step Back Jump shot,12,-125,32,True
+Wesley Johnson,2,0,2,0,Step Back Jump shot,25,224,124,False
+Wesley Johnson,2,8,19,1,Step Back Jump shot,17,136,116,True
+Wesley Johnson,3,10,32,0,Tip Layup Shot,0,0,-6,True
+Wesley Johnson,1,2,28,1,Tip Layup Shot,0,0,-6,True
+Wesley Johnson,4,10,58,1,Turnaround Fadeaway Bank Jump Shot,6,-57,32,True
+Wesley Johnson,3,9,22,0,Turnaround Jump Shot,12,60,109,True
+Wesley Johnson,1,3,59,1,Turnaround Jump Shot,13,-129,36,True
+Wesley Johnson,2,10,16,0,Turnaround Jump Shot,20,175,98,True

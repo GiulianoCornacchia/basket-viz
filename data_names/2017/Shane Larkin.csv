@@ -1,0 +1,195 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Shane Larkin,1,1,32,1,Cutting Layup Shot,0,8,5,True
+Shane Larkin,4,9,28,1,Cutting Layup Shot,2,7,21,True
+Shane Larkin,3,0,41,1,Cutting Layup Shot,0,5,-2,True
+Shane Larkin,2,8,27,1,Driving Finger Roll Layup Shot,1,-14,6,True
+Shane Larkin,3,0,23,0,Driving Finger Roll Layup Shot,3,2,35,True
+Shane Larkin,2,11,26,1,Driving Finger Roll Layup Shot,1,-11,12,True
+Shane Larkin,2,11,50,1,Driving Finger Roll Layup Shot,1,8,7,True
+Shane Larkin,3,0,28,1,Driving Finger Roll Layup Shot,2,12,25,True
+Shane Larkin,4,10,51,1,Driving Finger Roll Layup Shot,1,3,12,True
+Shane Larkin,4,5,37,1,Driving Finger Roll Layup Shot,7,-63,31,True
+Shane Larkin,2,9,41,0,Driving Finger Roll Layup Shot,0,-6,7,True
+Shane Larkin,3,1,22,1,Driving Finger Roll Layup Shot,2,22,0,True
+Shane Larkin,2,9,44,0,Driving Finger Roll Layup Shot,1,3,17,True
+Shane Larkin,4,9,46,0,Driving Finger Roll Layup Shot,3,-18,29,True
+Shane Larkin,4,0,49,0,Driving Finger Roll Layup Shot,3,-16,26,True
+Shane Larkin,4,11,52,0,Driving Finger Roll Layup Shot,2,5,24,True
+Shane Larkin,2,9,11,0,Driving Floating Bank Jump Shot,11,47,102,True
+Shane Larkin,4,9,10,0,Driving Floating Bank Jump Shot,2,-14,16,True
+Shane Larkin,4,3,53,1,Driving Floating Bank Jump Shot,4,28,34,True
+Shane Larkin,2,11,0,0,Driving Floating Jump Shot,9,-46,84,True
+Shane Larkin,3,2,22,0,Driving Floating Jump Shot,10,51,89,True
+Shane Larkin,4,4,4,0,Driving Floating Jump Shot,9,97,-4,True
+Shane Larkin,4,10,29,1,Driving Floating Jump Shot,7,40,58,True
+Shane Larkin,1,0,42,1,Driving Floating Jump Shot,12,-108,66,True
+Shane Larkin,2,8,8,1,Driving Floating Jump Shot,5,5,51,True
+Shane Larkin,4,7,43,1,Driving Floating Jump Shot,9,63,65,True
+Shane Larkin,1,5,14,0,Driving Layup Shot,5,-23,48,True
+Shane Larkin,2,6,37,0,Driving Layup Shot,1,14,-4,True
+Shane Larkin,3,4,59,1,Driving Layup Shot,0,-6,7,True
+Shane Larkin,3,9,32,0,Driving Layup Shot,4,-5,44,True
+Shane Larkin,1,7,11,0,Driving Layup Shot,2,-14,22,True
+Shane Larkin,4,8,38,0,Driving Layup Shot,2,-27,3,True
+Shane Larkin,4,8,3,1,Driving Layup Shot,0,-3,9,True
+Shane Larkin,2,11,3,0,Driving Layup Shot,2,18,11,True
+Shane Larkin,3,1,53,1,Driving Layup Shot,1,-13,7,True
+Shane Larkin,3,1,11,1,Driving Layup Shot,2,8,24,True
+Shane Larkin,4,0,9,0,Driving Layup Shot,2,-14,17,True
+Shane Larkin,4,6,1,0,Driving Layup Shot,0,-9,1,True
+Shane Larkin,4,10,0,1,Driving Layup Shot,1,-18,4,True
+Shane Larkin,4,7,44,0,Driving Layup Shot,1,6,16,True
+Shane Larkin,1,0,14,1,Driving Layup Shot,3,-30,-4,True
+Shane Larkin,2,7,14,0,Driving Layup Shot,1,-3,17,True
+Shane Larkin,2,10,31,0,Driving Reverse Layup Shot,1,6,-8,True
+Shane Larkin,1,2,43,1,Driving Reverse Layup Shot,1,16,8,True
+Shane Larkin,2,11,27,0,Driving Reverse Layup Shot,1,8,15,True
+Shane Larkin,2,6,29,0,Floating Jump shot,13,60,125,True
+Shane Larkin,4,10,39,0,Floating Jump shot,6,42,52,True
+Shane Larkin,3,0,52,0,Jump Shot,25,71,242,False
+Shane Larkin,2,3,26,0,Jump Shot,19,38,192,True
+Shane Larkin,3,10,40,0,Jump Shot,26,-60,257,False
+Shane Larkin,2,3,39,0,Jump Shot,26,-76,255,False
+Shane Larkin,3,7,14,1,Jump Shot,25,-110,235,False
+Shane Larkin,3,4,10,1,Jump Shot,23,-232,18,False
+Shane Larkin,1,5,51,0,Jump Shot,26,-199,176,False
+Shane Larkin,4,8,38,0,Jump Shot,24,138,206,False
+Shane Larkin,4,2,54,0,Jump Shot,25,73,244,False
+Shane Larkin,2,4,56,0,Jump Shot,27,-57,266,False
+Shane Larkin,4,0,45,0,Jump Shot,24,162,183,False
+Shane Larkin,4,0,4,0,Jump Shot,26,145,216,False
+Shane Larkin,4,9,40,0,Jump Shot,27,-122,243,False
+Shane Larkin,4,5,45,1,Jump Shot,25,13,250,False
+Shane Larkin,4,9,48,0,Jump Shot,24,-30,241,False
+Shane Larkin,2,9,5,1,Jump Shot,25,-149,204,False
+Shane Larkin,2,2,40,0,Jump Shot,25,-223,117,False
+Shane Larkin,2,5,48,0,Jump Shot,26,69,259,False
+Shane Larkin,4,4,29,0,Jump Shot,26,208,159,False
+Shane Larkin,2,7,32,0,Jump Shot,22,-116,188,True
+Shane Larkin,4,7,1,1,Jump Shot,26,141,230,False
+Shane Larkin,4,10,29,0,Jump Shot,21,95,190,True
+Shane Larkin,2,11,41,0,Jump Shot,23,-231,-19,False
+Shane Larkin,4,5,51,0,Jump Shot,25,-157,200,False
+Shane Larkin,1,0,19,0,Jump Shot,7,-34,69,True
+Shane Larkin,2,11,2,0,Jump Shot,26,-123,239,False
+Shane Larkin,3,2,39,1,Jump Shot,23,-230,-20,False
+Shane Larkin,4,5,53,0,Jump Shot,25,-70,243,False
+Shane Larkin,2,3,16,0,Jump Shot,23,-229,29,False
+Shane Larkin,4,11,29,0,Jump Shot,23,234,46,False
+Shane Larkin,2,4,20,1,Jump Shot,24,163,189,False
+Shane Larkin,2,5,26,0,Jump Shot,22,-227,-8,False
+Shane Larkin,1,6,7,1,Jump Shot,25,165,193,False
+Shane Larkin,3,10,6,1,Jump Shot,25,-35,251,False
+Shane Larkin,4,1,1,0,Jump Shot,18,-70,171,True
+Shane Larkin,4,11,6,0,Jump Shot,25,128,225,False
+Shane Larkin,1,1,3,0,Jump Shot,10,0,107,True
+Shane Larkin,4,8,30,0,Jump Shot,22,-13,220,True
+Shane Larkin,4,5,13,0,Jump Shot,25,147,204,False
+Shane Larkin,2,9,5,0,Jump Shot,25,192,172,False
+Shane Larkin,1,2,0,1,Jump Shot,26,169,198,False
+Shane Larkin,4,4,57,0,Jump Shot,25,220,130,False
+Shane Larkin,3,0,42,0,Jump Shot,25,150,200,False
+Shane Larkin,4,10,58,0,Jump Shot,26,139,227,False
+Shane Larkin,4,5,13,0,Jump Shot,22,228,25,False
+Shane Larkin,2,9,46,0,Jump Shot,25,123,220,False
+Shane Larkin,2,9,1,0,Jump Shot,24,195,151,False
+Shane Larkin,2,4,53,1,Jump Shot,23,-228,31,False
+Shane Larkin,2,10,25,1,Jump Shot,23,-235,25,False
+Shane Larkin,4,10,29,0,Jump Shot,25,-78,240,False
+Shane Larkin,2,3,22,0,Jump Shot,18,85,168,True
+Shane Larkin,2,9,57,1,Jump Shot,26,-122,236,False
+Shane Larkin,2,10,37,1,Jump Shot,25,112,231,False
+Shane Larkin,2,6,57,0,Jump Shot,26,56,256,False
+Shane Larkin,2,6,25,0,Jump Shot,25,-74,241,False
+Shane Larkin,4,10,51,1,Jump Shot,26,24,261,False
+Shane Larkin,2,6,22,1,Jump Shot,25,-185,171,False
+Shane Larkin,2,8,22,0,Jump Shot,24,-97,221,False
+Shane Larkin,4,7,35,0,Jump Shot,26,5,262,False
+Shane Larkin,4,8,59,0,Jump Shot,17,-1,173,True
+Shane Larkin,2,10,16,0,Jump Shot,25,111,227,False
+Shane Larkin,4,9,43,1,Jump Shot,27,-100,251,False
+Shane Larkin,2,11,12,0,Jump Shot,25,31,258,False
+Shane Larkin,2,9,54,1,Jump Shot,24,95,228,False
+Shane Larkin,2,9,26,1,Jump Shot,24,-230,88,False
+Shane Larkin,1,1,9,0,Jump Shot,19,42,194,True
+Shane Larkin,4,9,42,0,Jump Shot,23,232,37,False
+Shane Larkin,2,5,28,0,Jump Shot,20,-32,199,True
+Shane Larkin,4,7,49,0,Jump Shot,24,-201,142,False
+Shane Larkin,2,11,40,0,Jump Shot,24,133,206,False
+Shane Larkin,2,7,33,1,Jump Shot,24,84,235,False
+Shane Larkin,2,9,38,1,Jump Shot,26,-72,254,False
+Shane Larkin,4,5,8,0,Jump Shot,27,105,251,False
+Shane Larkin,4,8,53,0,Jump Shot,29,77,287,False
+Shane Larkin,4,6,42,0,Jump Shot,24,78,237,False
+Shane Larkin,4,5,3,0,Jump Shot,28,-96,266,False
+Shane Larkin,4,1,35,0,Jump Shot,25,163,194,False
+Shane Larkin,2,11,8,0,Jump Shot,17,-43,168,True
+Shane Larkin,2,11,8,0,Jump Shot,19,43,187,True
+Shane Larkin,2,9,1,0,Jump Shot,25,-209,147,False
+Shane Larkin,4,8,25,0,Jump Shot,27,134,240,False
+Shane Larkin,2,7,6,1,Jump Shot,25,-177,181,False
+Shane Larkin,4,10,37,1,Jump Shot,25,-168,193,False
+Shane Larkin,2,8,22,0,Jump Shot,21,210,13,True
+Shane Larkin,4,8,32,1,Jump Shot,20,-52,195,True
+Shane Larkin,4,3,26,1,Jump Shot,24,73,238,False
+Shane Larkin,2,4,22,0,Layup Shot,3,-30,18,True
+Shane Larkin,4,8,47,0,Layup Shot,1,-11,-4,True
+Shane Larkin,4,7,58,0,Layup Shot,2,4,28,True
+Shane Larkin,4,10,18,0,Layup Shot,1,11,1,True
+Shane Larkin,1,0,49,0,Layup Shot,4,40,8,True
+Shane Larkin,2,10,26,0,Layup Shot,1,5,19,True
+Shane Larkin,1,2,14,0,Layup Shot,2,-20,-6,True
+Shane Larkin,3,0,3,0,Layup Shot,2,-18,17,True
+Shane Larkin,1,0,59,1,Layup Shot,1,19,6,True
+Shane Larkin,3,0,33,0,Pullup Jump shot,19,44,194,True
+Shane Larkin,2,11,3,1,Pullup Jump shot,19,-70,178,True
+Shane Larkin,4,6,6,0,Pullup Jump shot,24,-59,240,False
+Shane Larkin,4,10,26,1,Pullup Jump shot,16,50,152,True
+Shane Larkin,3,1,32,0,Pullup Jump shot,19,-38,194,True
+Shane Larkin,4,9,29,0,Pullup Jump shot,24,184,169,False
+Shane Larkin,4,0,38,0,Pullup Jump shot,24,209,130,False
+Shane Larkin,4,1,12,1,Pullup Jump shot,20,24,201,True
+Shane Larkin,4,8,40,0,Pullup Jump shot,15,-4,153,True
+Shane Larkin,4,7,56,1,Pullup Jump shot,20,111,171,True
+Shane Larkin,4,3,13,0,Pullup Jump shot,28,95,272,False
+Shane Larkin,4,7,5,0,Pullup Jump shot,20,-68,189,True
+Shane Larkin,2,9,21,0,Pullup Jump shot,18,50,176,True
+Shane Larkin,4,6,36,1,Pullup Jump shot,20,124,163,True
+Shane Larkin,4,7,51,0,Pullup Jump shot,22,-142,174,True
+Shane Larkin,2,11,19,1,Pullup Jump shot,18,101,159,True
+Shane Larkin,4,8,32,0,Pullup Jump shot,18,81,168,True
+Shane Larkin,1,10,21,0,Pullup Jump shot,18,6,182,True
+Shane Larkin,1,0,28,1,Pullup Jump shot,14,-40,138,True
+Shane Larkin,2,8,59,0,Pullup Jump shot,9,-74,65,True
+Shane Larkin,4,9,11,1,Pullup Jump shot,18,68,172,True
+Shane Larkin,2,9,14,0,Pullup Jump shot,17,47,164,True
+Shane Larkin,2,9,9,0,Pullup Jump shot,11,47,100,True
+Shane Larkin,2,11,43,1,Pullup Jump shot,16,135,100,True
+Shane Larkin,4,11,0,1,Pullup Jump shot,25,-133,216,False
+Shane Larkin,4,4,41,1,Pullup Jump shot,21,128,174,True
+Shane Larkin,2,6,57,1,Pullup Jump shot,17,-61,162,True
+Shane Larkin,3,0,8,0,Pullup Jump shot,19,44,194,True
+Shane Larkin,2,4,4,0,Pullup Jump shot,22,115,190,True
+Shane Larkin,2,5,40,0,Pullup Jump shot,14,96,107,True
+Shane Larkin,4,8,28,0,Pullup Jump shot,15,16,158,True
+Shane Larkin,1,0,20,0,Pullup Jump shot,15,36,155,True
+Shane Larkin,2,7,27,0,Pullup Jump shot,18,18,189,True
+Shane Larkin,1,0,59,0,Pullup Jump shot,19,130,148,True
+Shane Larkin,4,4,23,1,Reverse Layup Shot,1,-15,8,True
+Shane Larkin,4,6,29,1,Reverse Layup Shot,3,-16,27,True
+Shane Larkin,3,3,22,1,Running Finger Roll Layup Shot,1,-13,6,True
+Shane Larkin,2,8,56,1,Running Finger Roll Layup Shot,0,2,4,True
+Shane Larkin,3,0,0,1,Running Jump Shot,26,3,267,False
+Shane Larkin,3,7,9,1,Running Jump Shot,25,79,246,False
+Shane Larkin,4,6,53,1,Running Layup Shot,0,-8,-4,True
+Shane Larkin,4,11,28,0,Running Layup Shot,1,-9,8,True
+Shane Larkin,3,3,37,1,Running Layup Shot,0,-3,-1,True
+Shane Larkin,4,9,55,1,Running Layup Shot,1,-9,8,True
+Shane Larkin,3,0,44,0,Running Layup Shot,1,-6,13,True
+Shane Larkin,2,10,2,1,Step Back Jump shot,25,-4,257,False
+Shane Larkin,3,0,3,0,Step Back Jump shot,19,-1,199,True
+Shane Larkin,4,7,37,0,Step Back Jump shot,20,-34,200,True
+Shane Larkin,4,5,53,1,Step Back Jump shot,13,133,-16,True
+Shane Larkin,2,9,15,0,Step Back Jump shot,20,55,196,True
+Shane Larkin,2,4,21,1,Tip Layup Shot,0,0,-6,True
+Shane Larkin,4,1,33,0,Tip Layup Shot,0,0,-6,True

@@ -1,0 +1,170 @@
+ #heatmapContainerWrapper { width:500px; height:350px; position:absolute; top:300px;
+	   left:-555px; zoom: 0.9; pointer-events:none;}
+      #heatmapContainer{ width:100%; height:100%; left:0px  pointer-events:none}
+	  
+	  	  #msp {
+     position:absolute;
+       top:7px;
+	   left:450px;
+   
+    }
+	  
+	  	.padding-0{
+    padding-right:0;
+    padding-left:0;
+}
+	  
+	  
+	  #mydiv {
+    position:fixed;
+    top: 220px;
+    left: 60%;
+    width:50em;
+    height:18em;
+    margin-top: -9em; 
+    margin-left: -20em;
+	pointer-events:none
+   
+    }
+
+	 #search{
+       position:absolute;
+       top:0px;
+	   right:0px;
+
+	   //background-color: red;
+	   //pointer-events:none;
+	   
+
+    }
+	
+	#filter_menu
+	{
+	  position:absolute;
+       top:50px;
+	   left:500px;
+	   	zoom:0.9;
+       width: 100px;
+       height: 300px;
+	   background-color: #F0F0F0;
+	   opacity: 0;
+	}
+	
+	
+	
+ #b{
+       
+	   	zoom:0.9;
+       width: auto;
+       height: 330px;
+	   pointer-events:none;
+	   
+
+    }
+
+ #bb{
+       position:absolute;
+       top:0px;
+
+       width: 500px;
+       height: 450px;
+	   pointer-events:none;
+
+
+    }
+	
+	#x{
+		  width: 50%;
+       height: 330px;
+	   background-color: grey;
+		
+	}
+	
+	 #grafico{
+		 left:0px;
+      width: auto;
+       height: 160px;
+     
+    }
+	
+	
+		 #grafico2{
+       width: auto;
+       height: 160px;
+     
+    }
+	
+			 #grafico3{
+       width: auto;
+       height: 160px;   
+    }
+	
+				 #grafico4{
+      width: auto;
+       height: 160px;  
+    }
+	
+	
+	  #radar{
+      position:absolute;
+	  top: 355px;
+	  right:70px; 
+	  //background-color: red;
+    }
+	
+		  #chord{
+      position:absolute;
+	  top: 355px;
+	  right:450px; 
+	 // background-color: red;
+    }
+	
+	
+	 #min{
+      position:absolute;
+	  top: 322px;
+	  left:5px;
+	  width:100px;
+	  opacity: 0;
+    }
+	
+	
+	#max{
+      position:absolute;
+	  top: 322px;
+	  left:370px;
+	  width:85px;
+	  opacity: 0;
+    }
+	
+	
+	 #range{
+      position:absolute;
+	  width:250px;
+	  height:15px;
+      top:322px;
+	  left: 115px;
+	  opacity: 0;
+
+    }
+
+	  .ui-autocomplete {
+    max-height: 100px;
+    overflow-y: auto;
+    /* prevent horizontal scrollbar */
+    overflow-x: hidden;
+  }
+
+  
+  
+  
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+  

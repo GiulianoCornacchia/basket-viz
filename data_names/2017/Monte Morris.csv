@@ -1,0 +1,7 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Monte Morris,4,6,0,1,Driving Layup Shot,1,0,10,True
+Monte Morris,4,11,18,1,Driving Layup Shot,1,5,13,True
+Monte Morris,4,3,26,0,Driving Reverse Layup Shot,1,-6,12,True
+Monte Morris,4,1,46,0,Jump Shot,25,-54,249,False
+Monte Morris,4,1,37,1,Pullup Jump shot,11,4,110,True
+Monte Morris,3,3,9,1,Running Layup Shot,0,-5,7,True

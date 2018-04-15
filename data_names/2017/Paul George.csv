@@ -1,0 +1,1206 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Paul George,2,3,10,1,Alley Oop Dunk Shot,1,-3,15,True
+Paul George,2,1,30,1,Alley Oop Layup shot,0,0,5,True
+Paul George,2,1,50,1,Alley Oop Layup shot,1,13,8,True
+Paul George,4,3,26,1,Cutting Dunk Shot,0,1,5,True
+Paul George,2,6,22,1,Cutting Dunk Shot,0,3,7,True
+Paul George,1,5,20,1,Cutting Dunk Shot,0,-2,1,True
+Paul George,3,4,40,1,Cutting Dunk Shot,0,5,8,True
+Paul George,2,0,59,1,Cutting Finger Roll Layup Shot,1,-10,6,True
+Paul George,1,5,22,0,Cutting Layup Shot,4,26,33,True
+Paul George,2,5,55,1,Cutting Layup Shot,0,8,4,True
+Paul George,3,10,9,1,Cutting Layup Shot,1,-9,6,True
+Paul George,1,5,49,1,Cutting Layup Shot,0,-3,1,True
+Paul George,1,5,2,1,Cutting Layup Shot,0,8,4,True
+Paul George,3,9,51,1,Cutting Layup Shot,0,-1,6,True
+Paul George,1,10,0,0,Cutting Layup Shot,1,17,5,True
+Paul George,1,8,12,1,Cutting Layup Shot,0,-5,-5,True
+Paul George,2,3,30,0,Cutting Layup Shot,0,3,6,True
+Paul George,1,8,5,1,Cutting Layup Shot,1,17,10,True
+Paul George,1,10,30,1,Cutting Layup Shot,0,-4,3,True
+Paul George,1,2,50,1,Cutting Layup Shot,0,6,-2,True
+Paul George,3,9,14,0,Cutting Layup Shot,2,-18,17,True
+Paul George,4,7,56,0,Driving Dunk Shot,1,8,11,True
+Paul George,3,8,19,1,Driving Dunk Shot,0,-3,4,True
+Paul George,3,11,27,1,Driving Dunk Shot,1,8,13,True
+Paul George,3,10,19,1,Driving Dunk Shot,2,-3,22,True
+Paul George,4,2,41,1,Driving Dunk Shot,0,-3,2,True
+Paul George,2,10,38,0,Driving Dunk Shot,1,-9,13,True
+Paul George,1,0,31,1,Driving Dunk Shot,0,-8,-5,True
+Paul George,4,11,45,0,Driving Dunk Shot,2,-1,22,True
+Paul George,2,11,12,1,Driving Dunk Shot,0,-4,-2,True
+Paul George,3,9,10,1,Driving Dunk Shot,0,-1,0,True
+Paul George,3,8,36,1,Driving Dunk Shot,0,-3,2,True
+Paul George,2,2,28,1,Driving Dunk Shot,1,5,19,True
+Paul George,3,6,58,1,Driving Dunk Shot,1,-12,0,True
+Paul George,4,4,33,1,Driving Dunk Shot,1,6,13,True
+Paul George,4,4,31,1,Driving Dunk Shot,1,-1,13,True
+Paul George,2,2,27,1,Driving Dunk Shot,0,3,4,True
+Paul George,1,1,18,1,Driving Finger Roll Layup Shot,0,-3,1,True
+Paul George,2,6,0,0,Driving Finger Roll Layup Shot,5,-41,31,True
+Paul George,1,4,31,1,Driving Floating Bank Jump Shot,11,-108,40,True
+Paul George,2,7,53,0,Driving Floating Bank Jump Shot,5,40,41,True
+Paul George,2,4,9,0,Driving Floating Bank Jump Shot,2,18,19,True
+Paul George,3,9,29,1,Driving Floating Bank Jump Shot,3,29,25,True
+Paul George,2,3,44,1,Driving Floating Bank Jump Shot,9,94,32,True
+Paul George,2,9,59,1,Driving Floating Bank Jump Shot,7,48,63,True
+Paul George,1,8,56,1,Driving Floating Bank Jump Shot,5,-51,21,True
+Paul George,2,4,11,0,Driving Floating Jump Shot,6,-51,39,True
+Paul George,1,11,43,0,Driving Floating Jump Shot,6,-41,48,True
+Paul George,1,9,4,1,Driving Floating Jump Shot,9,38,92,True
+Paul George,3,0,59,1,Driving Floating Jump Shot,8,64,58,True
+Paul George,3,5,1,0,Driving Floating Jump Shot,8,62,62,True
+Paul George,2,1,28,0,Driving Floating Jump Shot,6,2,69,True
+Paul George,2,3,25,1,Driving Floating Jump Shot,4,-5,46,True
+Paul George,1,7,6,1,Driving Floating Jump Shot,5,1,55,True
+Paul George,1,8,37,1,Driving Floating Jump Shot,7,14,77,True
+Paul George,4,7,14,1,Driving Floating Jump Shot,7,-12,76,True
+Paul George,1,7,47,1,Driving Floating Jump Shot,6,-44,50,True
+Paul George,2,1,49,0,Driving Floating Jump Shot,1,1,17,True
+Paul George,2,3,27,0,Driving Floating Jump Shot,5,-21,52,True
+Paul George,4,1,29,0,Driving Floating Jump Shot,9,37,84,True
+Paul George,2,8,54,0,Driving Floating Jump Shot,5,8,55,True
+Paul George,1,10,4,0,Driving Floating Jump Shot,5,-32,44,True
+Paul George,2,11,25,1,Driving Floating Jump Shot,6,58,19,True
+Paul George,4,7,56,1,Driving Floating Jump Shot,7,-65,27,True
+Paul George,1,1,46,0,Driving Floating Jump Shot,8,-8,87,True
+Paul George,1,7,14,1,Driving Floating Jump Shot,4,0,42,True
+Paul George,1,6,34,0,Driving Floating Jump Shot,4,0,46,True
+Paul George,1,11,43,0,Driving Floating Jump Shot,4,-9,40,True
+Paul George,4,9,25,0,Driving Floating Jump Shot,8,-3,83,True
+Paul George,3,7,43,1,Driving Floating Jump Shot,11,31,110,True
+Paul George,3,10,58,0,Driving Hook Shot,5,-5,53,True
+Paul George,2,9,36,1,Driving Layup Shot,1,11,9,True
+Paul George,1,3,49,1,Driving Layup Shot,0,9,1,True
+Paul George,1,6,41,1,Driving Layup Shot,1,13,10,True
+Paul George,2,0,35,0,Driving Layup Shot,3,21,34,True
+Paul George,4,1,50,1,Driving Layup Shot,0,0,6,True
+Paul George,4,3,2,0,Driving Layup Shot,2,24,5,True
+Paul George,1,9,40,0,Driving Layup Shot,1,1,10,True
+Paul George,3,10,22,0,Driving Layup Shot,5,-29,49,True
+Paul George,1,8,8,1,Driving Layup Shot,0,5,-2,True
+Paul George,1,3,42,1,Driving Layup Shot,0,-8,0,True
+Paul George,4,9,17,0,Driving Layup Shot,1,10,2,True
+Paul George,4,10,28,1,Driving Layup Shot,1,11,3,True
+Paul George,4,1,5,0,Driving Layup Shot,1,1,15,True
+Paul George,1,1,14,0,Driving Layup Shot,6,-19,59,True
+Paul George,1,2,27,0,Driving Layup Shot,3,19,25,True
+Paul George,1,7,8,0,Driving Layup Shot,3,-32,21,True
+Paul George,1,8,0,1,Driving Layup Shot,0,-5,4,True
+Paul George,3,10,44,1,Driving Layup Shot,2,20,6,True
+Paul George,3,10,55,1,Driving Layup Shot,1,-6,10,True
+Paul George,3,5,11,1,Driving Layup Shot,2,-9,18,True
+Paul George,1,6,26,0,Driving Layup Shot,4,-41,1,True
+Paul George,4,10,51,0,Driving Layup Shot,1,-4,10,True
+Paul George,1,0,37,1,Driving Layup Shot,2,24,11,True
+Paul George,3,2,21,1,Driving Layup Shot,0,-2,1,True
+Paul George,1,10,9,0,Driving Layup Shot,1,-9,12,True
+Paul George,3,10,43,1,Driving Layup Shot,2,12,17,True
+Paul George,1,1,32,0,Driving Layup Shot,2,-18,21,True
+Paul George,1,2,24,0,Driving Layup Shot,3,17,26,True
+Paul George,4,5,29,1,Driving Layup Shot,2,-4,29,True
+Paul George,2,10,11,1,Driving Layup Shot,5,36,38,True
+Paul George,2,7,33,0,Driving Layup Shot,0,6,1,True
+Paul George,1,10,59,0,Driving Layup Shot,2,-15,21,True
+Paul George,4,2,31,0,Driving Layup Shot,1,2,18,True
+Paul George,4,2,12,0,Driving Layup Shot,1,-3,14,True
+Paul George,1,2,46,1,Driving Layup Shot,1,-7,10,True
+Paul George,3,3,49,1,Driving Layup Shot,3,31,21,True
+Paul George,1,11,37,0,Driving Layup Shot,5,49,27,True
+Paul George,4,6,10,0,Driving Layup Shot,5,-5,52,True
+Paul George,2,10,42,1,Driving Layup Shot,0,5,-5,True
+Paul George,4,2,52,1,Driving Layup Shot,2,-20,11,True
+Paul George,2,3,27,1,Driving Layup Shot,2,7,22,True
+Paul George,4,3,59,0,Driving Layup Shot,2,19,15,True
+Paul George,3,5,11,0,Driving Layup Shot,2,-9,27,True
+Paul George,4,10,59,1,Driving Layup Shot,1,-6,10,True
+Paul George,4,11,43,1,Driving Layup Shot,0,0,4,True
+Paul George,3,3,20,1,Driving Layup Shot,2,14,15,True
+Paul George,4,10,46,0,Driving Layup Shot,2,-16,13,True
+Paul George,3,11,25,0,Driving Layup Shot,2,2,26,True
+Paul George,2,1,52,0,Driving Layup Shot,1,-15,10,True
+Paul George,1,3,50,0,Driving Layup Shot,1,9,17,True
+Paul George,3,0,27,1,Driving Layup Shot,0,5,5,True
+Paul George,2,11,43,0,Driving Layup Shot,2,-22,11,True
+Paul George,2,1,31,0,Driving Layup Shot,1,9,16,True
+Paul George,1,1,23,1,Driving Layup Shot,0,-6,2,True
+Paul George,3,8,40,0,Driving Layup Shot,5,-22,55,True
+Paul George,1,2,19,0,Driving Layup Shot,2,-13,22,True
+Paul George,2,2,16,0,Driving Layup Shot,3,-32,21,True
+Paul George,4,2,48,0,Driving Layup Shot,0,-1,4,True
+Paul George,1,11,28,0,Driving Layup Shot,6,-13,68,True
+Paul George,4,9,39,1,Driving Layup Shot,0,-3,9,True
+Paul George,3,7,33,1,Driving Layup Shot,1,4,10,True
+Paul George,4,4,4,0,Driving Layup Shot,1,18,1,True
+Paul George,1,0,49,1,Driving Layup Shot,1,-2,15,True
+Paul George,1,9,47,0,Driving Layup Shot,2,14,16,True
+Paul George,1,7,1,1,Driving Layup Shot,1,-19,6,True
+Paul George,2,8,8,1,Driving Layup Shot,0,3,8,True
+Paul George,2,7,42,1,Driving Layup Shot,1,2,10,True
+Paul George,1,8,24,1,Driving Layup Shot,1,-2,14,True
+Paul George,4,4,53,0,Driving Layup Shot,6,-54,39,True
+Paul George,2,10,58,1,Driving Layup Shot,0,2,-2,True
+Paul George,1,9,16,1,Driving Layup Shot,1,16,11,True
+Paul George,4,11,34,0,Driving Layup Shot,1,13,4,True
+Paul George,2,6,7,0,Driving Layup Shot,3,-38,10,True
+Paul George,1,1,17,1,Driving Layup Shot,0,0,4,True
+Paul George,2,8,34,0,Driving Layup Shot,0,3,5,True
+Paul George,4,3,47,0,Driving Layup Shot,1,-17,7,True
+Paul George,3,7,26,1,Driving Layup Shot,1,-14,5,True
+Paul George,3,10,28,1,Driving Layup Shot,0,3,8,True
+Paul George,3,1,34,0,Driving Layup Shot,3,25,17,True
+Paul George,3,10,43,0,Driving Layup Shot,4,16,37,True
+Paul George,3,1,37,0,Driving Layup Shot,1,13,13,True
+Paul George,1,0,46,1,Driving Layup Shot,2,14,17,True
+Paul George,4,2,23,0,Driving Layup Shot,3,-36,5,True
+Paul George,2,4,9,0,Driving Layup Shot,3,-22,22,True
+Paul George,3,3,0,0,Driving Layup Shot,1,2,18,True
+Paul George,3,1,25,0,Driving Layup Shot,1,18,-1,True
+Paul George,2,4,10,1,Driving Layup Shot,2,19,13,True
+Paul George,3,1,42,1,Driving Layup Shot,2,-17,13,True
+Paul George,4,1,32,1,Driving Layup Shot,2,16,21,True
+Paul George,2,1,42,1,Driving Layup Shot,2,22,6,True
+Paul George,1,1,29,1,Driving Layup Shot,2,15,18,True
+Paul George,2,7,38,1,Driving Layup Shot,2,-5,21,True
+Paul George,4,5,52,0,Driving Layup Shot,0,-5,4,True
+Paul George,1,10,19,0,Driving Layup Shot,5,52,29,True
+Paul George,4,8,33,1,Driving Layup Shot,3,33,19,True
+Paul George,3,0,7,0,Driving Layup Shot,4,15,41,True
+Paul George,2,2,56,0,Driving Layup Shot,1,-16,9,True
+Paul George,4,2,33,1,Driving Layup Shot,1,-3,18,True
+Paul George,1,9,57,1,Driving Layup Shot,1,-14,-7,True
+Paul George,4,5,20,0,Driving Layup Shot,1,11,3,True
+Paul George,2,10,12,1,Driving Layup Shot,0,4,7,True
+Paul George,3,7,19,1,Driving Layup Shot,4,42,15,True
+Paul George,3,10,32,1,Driving Layup Shot,0,-2,7,True
+Paul George,4,3,1,0,Driving Layup Shot,1,8,10,True
+Paul George,2,5,30,0,Driving Layup Shot,5,30,43,True
+Paul George,2,2,50,1,Driving Layup Shot,0,6,0,True
+Paul George,2,1,19,0,Driving Layup Shot,2,-19,17,True
+Paul George,3,10,59,0,Driving Layup Shot,3,20,27,True
+Paul George,4,1,9,0,Driving Layup Shot,1,-8,17,True
+Paul George,2,1,5,1,Driving Layup Shot,3,29,11,True
+Paul George,1,3,34,1,Driving Layup Shot,1,11,13,True
+Paul George,3,6,11,1,Driving Layup Shot,1,16,8,True
+Paul George,3,1,58,0,Driving Layup Shot,3,0,32,True
+Paul George,1,6,6,1,Driving Layup Shot,2,-15,15,True
+Paul George,3,11,43,1,Driving Layup Shot,0,6,6,True
+Paul George,4,4,40,1,Driving Layup Shot,3,-20,26,True
+Paul George,2,10,42,1,Driving Layup Shot,2,20,6,True
+Paul George,1,6,38,0,Driving Layup Shot,2,-16,15,True
+Paul George,3,3,40,1,Driving Layup Shot,2,-2,26,True
+Paul George,3,9,28,1,Driving Layup Shot,7,-58,50,True
+Paul George,3,8,24,1,Driving Layup Shot,2,-22,12,True
+Paul George,4,2,54,0,Driving Layup Shot,1,-1,10,True
+Paul George,4,9,4,0,Driving Layup Shot,3,-10,37,True
+Paul George,4,0,48,1,Driving Reverse Layup Shot,1,-11,11,True
+Paul George,4,4,0,1,Driving Reverse Layup Shot,0,-4,0,True
+Paul George,3,10,26,1,Driving Reverse Layup Shot,0,-8,0,True
+Paul George,1,9,29,0,Driving Reverse Layup Shot,1,-15,-8,True
+Paul George,1,11,4,1,Driving Reverse Layup Shot,1,14,8,True
+Paul George,3,7,20,0,Driving Reverse Layup Shot,0,4,5,True
+Paul George,2,10,31,1,Driving Reverse Layup Shot,1,-11,11,True
+Paul George,2,8,18,1,Driving Reverse Layup Shot,1,14,5,True
+Paul George,4,10,7,1,Driving Reverse Layup Shot,0,-6,0,True
+Paul George,3,5,27,1,Dunk Shot,0,3,8,True
+Paul George,1,11,15,1,Dunk Shot,1,-10,3,True
+Paul George,1,4,32,1,Dunk Shot,0,-2,-6,True
+Paul George,1,9,21,1,Dunk Shot,1,5,9,True
+Paul George,3,5,5,1,Dunk Shot,1,-7,16,True
+Paul George,1,11,8,0,Fadeaway Jump Shot,9,-90,36,True
+Paul George,4,6,20,0,Fadeaway Jump Shot,16,71,149,True
+Paul George,1,11,0,0,Fadeaway Jump Shot,11,-39,106,True
+Paul George,1,0,2,0,Fadeaway Jump Shot,16,139,84,True
+Paul George,1,11,44,0,Fadeaway Jump Shot,16,-161,42,True
+Paul George,1,9,59,1,Fadeaway Jump Shot,17,-178,-6,True
+Paul George,4,0,1,0,Fadeaway Jump Shot,23,-232,39,False
+Paul George,1,10,56,1,Fadeaway Jump Shot,12,95,85,True
+Paul George,1,5,52,1,Fadeaway Jump Shot,9,-93,9,True
+Paul George,2,5,4,0,Fadeaway Jump Shot,12,-49,113,True
+Paul George,3,7,36,1,Fadeaway Jump Shot,16,4,167,True
+Paul George,1,4,43,0,Fadeaway Jump Shot,17,-155,79,True
+Paul George,4,6,33,0,Fadeaway Jump Shot,12,-50,113,True
+Paul George,2,10,47,0,Fadeaway Jump Shot,14,133,45,True
+Paul George,1,1,17,0,Fadeaway Jump Shot,9,-80,57,True
+Paul George,4,9,38,0,Fadeaway Jump Shot,15,8,155,True
+Paul George,1,10,42,1,Finger Roll Layup Shot,1,-5,13,True
+Paul George,3,4,4,0,Floating Jump shot,9,0,94,True
+Paul George,1,7,50,1,Floating Jump shot,4,-15,46,True
+Paul George,1,7,52,0,Floating Jump shot,9,51,79,True
+Paul George,2,7,46,0,Floating Jump shot,10,-46,94,True
+Paul George,1,0,52,0,Floating Jump shot,14,103,101,True
+Paul George,3,10,6,0,Floating Jump shot,10,-49,92,True
+Paul George,3,11,51,0,Floating Jump shot,12,10,128,True
+Paul George,4,7,38,1,Floating Jump shot,7,12,77,True
+Paul George,1,11,30,0,Floating Jump shot,3,5,32,True
+Paul George,1,11,12,0,Floating Jump shot,9,82,57,True
+Paul George,2,2,44,0,Floating Jump shot,6,8,61,True
+Paul George,1,11,22,0,Floating Jump shot,7,-13,73,True
+Paul George,3,1,12,0,Floating Jump shot,8,-13,83,True
+Paul George,1,1,4,1,Jump Bank Shot,24,84,230,False
+Paul George,2,0,28,0,Jump Bank Shot,5,14,58,True
+Paul George,3,3,48,0,Jump Shot,22,-225,4,False
+Paul George,3,3,40,1,Jump Shot,23,231,13,False
+Paul George,1,0,35,0,Jump Shot,25,-133,221,False
+Paul George,4,8,6,0,Jump Shot,25,65,242,False
+Paul George,2,4,22,1,Jump Shot,18,141,117,True
+Paul George,1,11,6,1,Jump Shot,16,-159,60,True
+Paul George,3,9,44,1,Jump Shot,25,17,251,False
+Paul George,2,3,51,0,Jump Shot,25,40,248,False
+Paul George,2,2,26,1,Jump Shot,25,172,186,False
+Paul George,2,2,47,1,Jump Shot,25,-158,205,False
+Paul George,4,5,17,1,Jump Shot,25,-85,236,False
+Paul George,4,8,35,1,Jump Shot,20,-4,204,True
+Paul George,3,11,18,0,Jump Shot,26,100,240,False
+Paul George,1,9,50,0,Jump Shot,23,229,29,False
+Paul George,2,7,46,1,Jump Shot,24,196,143,False
+Paul George,1,9,43,1,Jump Shot,24,-25,248,False
+Paul George,1,4,44,0,Jump Shot,22,225,43,False
+Paul George,3,4,52,0,Jump Shot,25,-136,210,False
+Paul George,2,9,53,0,Jump Shot,26,84,250,False
+Paul George,2,2,22,0,Jump Shot,16,-38,157,True
+Paul George,3,0,36,1,Jump Shot,25,51,249,False
+Paul George,4,11,26,1,Jump Shot,24,11,244,False
+Paul George,4,9,2,0,Jump Shot,23,231,53,False
+Paul George,1,9,7,1,Jump Shot,24,95,225,False
+Paul George,4,6,2,0,Jump Shot,14,144,25,True
+Paul George,3,5,12,1,Jump Shot,26,-44,264,False
+Paul George,2,2,41,1,Jump Shot,25,-119,231,False
+Paul George,3,4,23,0,Jump Shot,25,193,164,False
+Paul George,3,9,30,0,Jump Shot,23,230,27,False
+Paul George,4,6,15,0,Jump Shot,22,223,27,False
+Paul George,1,4,40,0,Jump Shot,26,-23,269,False
+Paul George,3,7,44,0,Jump Shot,26,-1,267,False
+Paul George,3,11,18,0,Jump Shot,17,-179,-8,True
+Paul George,4,4,28,1,Jump Shot,25,116,231,False
+Paul George,4,1,43,0,Jump Shot,24,-5,248,False
+Paul George,4,7,57,0,Jump Shot,23,234,43,False
+Paul George,3,10,53,0,Jump Shot,23,228,32,False
+Paul George,2,1,58,0,Jump Shot,20,-32,206,True
+Paul George,1,0,56,1,Jump Shot,22,225,13,False
+Paul George,4,5,41,0,Jump Shot,26,-131,235,False
+Paul George,1,9,47,1,Jump Shot,12,119,27,True
+Paul George,1,10,21,0,Jump Shot,25,71,247,False
+Paul George,4,4,46,0,Jump Shot,17,177,14,True
+Paul George,2,1,47,0,Jump Shot,25,-29,258,False
+Paul George,4,0,13,0,Jump Shot,23,232,8,False
+Paul George,1,0,28,0,Jump Shot,25,-142,212,False
+Paul George,3,6,14,1,Jump Shot,6,1,68,True
+Paul George,4,6,54,0,Jump Shot,27,14,271,False
+Paul George,3,5,29,1,Jump Shot,23,-233,6,False
+Paul George,1,9,23,1,Jump Shot,23,222,74,False
+Paul George,1,11,48,1,Jump Shot,25,73,246,False
+Paul George,3,2,27,0,Jump Shot,28,126,253,False
+Paul George,2,1,35,0,Jump Shot,21,95,193,True
+Paul George,2,3,30,0,Jump Shot,20,-141,149,True
+Paul George,2,6,4,0,Jump Shot,20,133,154,True
+Paul George,1,9,18,1,Jump Shot,23,231,37,False
+Paul George,3,3,41,1,Jump Shot,18,22,187,True
+Paul George,3,4,26,1,Jump Shot,18,99,152,True
+Paul George,1,10,19,0,Jump Shot,8,-85,4,True
+Paul George,2,7,40,1,Jump Shot,26,-60,258,False
+Paul George,1,8,18,1,Jump Shot,25,125,220,False
+Paul George,1,5,47,1,Jump Shot,25,-52,252,False
+Paul George,3,3,43,0,Jump Shot,18,-50,176,True
+Paul George,3,5,19,0,Jump Shot,15,-109,106,True
+Paul George,4,2,55,0,Jump Shot,17,69,164,True
+Paul George,3,9,29,0,Jump Shot,11,-2,112,True
+Paul George,3,9,24,0,Jump Shot,25,106,235,False
+Paul George,2,2,7,0,Jump Shot,24,-138,208,False
+Paul George,1,6,13,1,Jump Shot,25,195,159,False
+Paul George,3,11,26,0,Jump Shot,19,-179,79,True
+Paul George,1,9,16,0,Jump Shot,10,63,80,True
+Paul George,2,4,47,0,Jump Shot,27,196,197,False
+Paul George,2,6,36,0,Jump Shot,26,-2,263,False
+Paul George,1,1,0,1,Jump Shot,26,-43,262,False
+Paul George,2,4,20,0,Jump Shot,22,226,42,False
+Paul George,4,5,14,0,Jump Shot,25,-45,252,False
+Paul George,4,5,19,0,Jump Shot,25,108,236,False
+Paul George,3,5,18,1,Jump Shot,23,233,18,False
+Paul George,3,7,38,0,Jump Shot,18,-49,174,True
+Paul George,1,11,21,1,Jump Shot,24,-187,165,False
+Paul George,1,0,0,0,Jump Shot,29,168,248,False
+Paul George,4,7,8,0,Jump Shot,24,120,219,False
+Paul George,3,7,15,0,Jump Shot,23,-231,51,False
+Paul George,1,5,53,0,Jump Shot,26,-43,259,False
+Paul George,3,7,31,0,Jump Shot,26,72,255,False
+Paul George,4,9,0,0,Jump Shot,25,18,258,False
+Paul George,2,3,43,1,Jump Shot,17,47,168,True
+Paul George,3,11,46,0,Jump Shot,26,128,230,False
+Paul George,1,5,8,1,Jump Shot,24,209,132,False
+Paul George,2,1,42,1,Jump Shot,23,-235,2,False
+Paul George,1,9,47,1,Jump Shot,23,-233,53,False
+Paul George,3,5,2,0,Jump Shot,17,108,138,True
+Paul George,2,1,50,1,Jump Shot,24,110,221,False
+Paul George,3,9,40,1,Jump Shot,25,107,228,False
+Paul George,1,8,1,0,Jump Shot,25,30,250,False
+Paul George,4,6,23,0,Jump Shot,24,97,223,False
+Paul George,3,10,21,1,Jump Shot,24,134,209,False
+Paul George,1,9,15,0,Jump Shot,24,213,126,False
+Paul George,3,9,13,0,Jump Shot,25,107,226,False
+Paul George,1,2,14,0,Jump Shot,24,141,203,False
+Paul George,2,10,3,0,Jump Shot,7,29,72,True
+Paul George,3,3,58,0,Jump Shot,24,74,238,False
+Paul George,2,8,35,0,Jump Shot,16,-86,145,True
+Paul George,2,5,57,1,Jump Shot,21,171,124,True
+Paul George,3,6,57,0,Jump Shot,22,223,-3,False
+Paul George,2,5,53,0,Jump Shot,24,99,229,False
+Paul George,1,11,24,1,Jump Shot,17,170,17,True
+Paul George,3,8,13,1,Jump Shot,24,123,217,False
+Paul George,2,0,26,0,Jump Shot,24,-122,214,False
+Paul George,1,1,58,1,Jump Shot,24,109,224,False
+Paul George,4,1,22,1,Jump Shot,24,127,207,False
+Paul George,3,6,1,0,Jump Shot,26,36,263,False
+Paul George,4,1,25,1,Jump Shot,25,38,256,False
+Paul George,3,11,30,0,Jump Shot,13,122,57,True
+Paul George,3,7,52,1,Jump Shot,25,91,235,False
+Paul George,3,1,48,0,Jump Shot,25,106,236,False
+Paul George,1,9,13,0,Jump Shot,25,55,251,False
+Paul George,3,4,16,1,Jump Shot,25,103,232,False
+Paul George,3,5,44,0,Jump Shot,25,-18,256,False
+Paul George,4,6,44,1,Jump Shot,24,74,236,False
+Paul George,4,1,24,0,Jump Shot,25,-110,235,False
+Paul George,3,4,8,0,Jump Shot,25,33,251,False
+Paul George,2,4,45,0,Jump Shot,16,112,116,True
+Paul George,4,6,0,0,Jump Shot,25,42,251,False
+Paul George,4,2,51,0,Jump Shot,25,-39,254,False
+Paul George,1,6,14,0,Jump Shot,20,208,13,True
+Paul George,1,7,13,0,Jump Shot,25,122,229,False
+Paul George,1,11,16,0,Jump Shot,22,-221,-15,False
+Paul George,1,4,18,1,Jump Shot,22,225,5,False
+Paul George,1,1,56,0,Jump Shot,18,-178,37,True
+Paul George,2,10,37,0,Jump Shot,25,103,230,False
+Paul George,4,10,46,0,Jump Shot,24,154,195,False
+Paul George,2,0,4,1,Jump Shot,25,98,231,False
+Paul George,3,6,51,0,Jump Shot,18,106,151,True
+Paul George,2,11,16,1,Jump Shot,21,116,177,True
+Paul George,4,3,15,1,Jump Shot,26,85,246,False
+Paul George,1,10,23,1,Jump Shot,25,161,203,False
+Paul George,1,9,5,1,Jump Shot,26,141,224,False
+Paul George,4,1,9,1,Jump Shot,25,192,170,False
+Paul George,4,0,39,0,Jump Shot,26,118,242,False
+Paul George,2,3,15,0,Jump Shot,25,210,138,False
+Paul George,3,10,35,0,Jump Shot,24,60,236,False
+Paul George,1,7,8,1,Jump Shot,19,-153,113,True
+Paul George,2,8,2,1,Jump Shot,22,222,-1,False
+Paul George,2,8,22,1,Jump Shot,24,52,244,False
+Paul George,3,8,54,0,Jump Shot,24,106,218,False
+Paul George,1,7,3,0,Jump Shot,24,-13,247,False
+Paul George,4,0,8,1,Jump Shot,27,-122,243,False
+Paul George,1,4,56,1,Jump Shot,23,-225,57,False
+Paul George,1,3,59,1,Jump Shot,25,237,83,False
+Paul George,1,7,9,0,Jump Shot,24,187,157,False
+Paul George,1,2,7,1,Jump Shot,23,-232,31,False
+Paul George,4,0,34,0,Jump Shot,25,156,196,False
+Paul George,3,4,44,0,Jump Shot,27,135,237,False
+Paul George,3,6,42,0,Jump Shot,25,205,147,False
+Paul George,2,0,28,1,Jump Shot,27,-130,243,False
+Paul George,2,2,53,0,Jump Shot,27,16,276,False
+Paul George,3,11,20,0,Jump Shot,23,230,10,False
+Paul George,4,4,45,1,Jump Shot,25,48,251,False
+Paul George,3,9,55,1,Jump Shot,25,132,214,False
+Paul George,1,8,1,0,Jump Shot,26,191,179,False
+Paul George,1,1,46,1,Jump Shot,24,230,77,False
+Paul George,1,7,22,0,Jump Shot,16,-141,87,True
+Paul George,3,8,47,0,Jump Shot,21,-12,218,True
+Paul George,4,5,36,0,Jump Shot,25,42,256,False
+Paul George,2,0,33,0,Jump Shot,26,125,237,False
+Paul George,1,11,43,1,Jump Shot,25,-174,187,False
+Paul George,1,7,7,0,Jump Shot,24,-27,246,False
+Paul George,3,10,37,0,Jump Shot,26,-107,247,False
+Paul George,1,1,49,0,Jump Shot,15,139,62,True
+Paul George,2,10,48,1,Jump Shot,16,119,121,True
+Paul George,2,8,23,0,Jump Shot,24,-214,113,False
+Paul George,3,11,36,0,Jump Shot,22,226,39,False
+Paul George,4,11,16,0,Jump Shot,25,130,215,False
+Paul George,4,4,5,1,Jump Shot,25,6,252,False
+Paul George,3,7,4,1,Jump Shot,24,114,219,False
+Paul George,4,9,37,1,Jump Shot,22,226,17,False
+Paul George,1,10,25,0,Jump Shot,22,-226,34,False
+Paul George,1,1,40,1,Jump Shot,6,-1,68,True
+Paul George,4,4,35,0,Jump Shot,22,228,7,False
+Paul George,3,3,58,0,Jump Shot,14,118,80,True
+Paul George,2,4,28,1,Jump Shot,24,-106,222,False
+Paul George,3,11,25,0,Jump Shot,25,165,193,False
+Paul George,2,0,37,0,Jump Shot,23,-192,142,False
+Paul George,3,10,1,0,Jump Shot,23,231,13,False
+Paul George,3,5,26,0,Jump Shot,25,-195,157,False
+Paul George,1,4,48,1,Jump Shot,27,84,261,False
+Paul George,3,11,49,0,Jump Shot,19,114,157,True
+Paul George,3,3,56,0,Jump Shot,27,-165,216,False
+Paul George,2,6,11,0,Jump Shot,23,-231,29,False
+Paul George,2,4,29,1,Jump Shot,20,-76,185,True
+Paul George,2,0,0,0,Jump Shot,27,70,271,False
+Paul George,2,6,57,0,Jump Shot,23,228,69,False
+Paul George,3,11,43,1,Jump Shot,26,-11,263,False
+Paul George,2,5,8,1,Jump Shot,23,-230,21,False
+Paul George,3,0,56,0,Jump Shot,12,-123,17,True
+Paul George,1,4,16,1,Jump Shot,19,81,178,True
+Paul George,3,1,44,1,Jump Shot,22,225,34,False
+Paul George,4,1,13,0,Jump Shot,29,157,249,False
+Paul George,3,5,21,0,Jump Shot,13,-139,8,True
+Paul George,3,6,7,0,Jump Shot,27,180,209,False
+Paul George,1,2,10,1,Jump Shot,22,226,38,False
+Paul George,1,8,16,0,Jump Shot,19,-191,16,True
+Paul George,4,0,36,0,Jump Shot,25,114,229,False
+Paul George,2,0,0,0,Jump Shot,26,-187,184,False
+Paul George,4,0,11,0,Jump Shot,25,-161,195,False
+Paul George,3,0,7,0,Jump Shot,28,83,268,False
+Paul George,3,4,1,0,Jump Shot,15,95,120,True
+Paul George,4,3,39,0,Jump Shot,19,109,158,True
+Paul George,4,5,40,1,Jump Shot,24,-230,85,False
+Paul George,3,10,55,0,Jump Shot,21,92,192,True
+Paul George,2,3,47,1,Jump Shot,22,225,11,False
+Paul George,3,9,46,0,Jump Shot,24,-109,222,False
+Paul George,3,1,54,0,Jump Shot,14,-106,101,True
+Paul George,2,10,41,0,Jump Shot,27,169,214,False
+Paul George,1,0,0,0,Jump Shot,29,3,295,False
+Paul George,2,9,49,1,Jump Shot,25,100,238,False
+Paul George,3,10,38,0,Jump Shot,26,47,261,False
+Paul George,4,2,58,1,Jump Shot,26,-20,269,False
+Paul George,4,9,56,0,Jump Shot,15,-62,147,True
+Paul George,1,9,44,0,Jump Shot,18,59,172,True
+Paul George,1,9,42,0,Jump Shot,18,52,176,True
+Paul George,1,3,58,0,Jump Shot,26,87,255,False
+Paul George,1,8,7,0,Jump Shot,22,223,19,False
+Paul George,1,4,20,0,Jump Shot,24,-49,243,False
+Paul George,3,5,53,0,Jump Shot,24,216,117,False
+Paul George,4,5,20,0,Jump Shot,24,129,214,False
+Paul George,3,4,58,1,Jump Shot,26,49,263,False
+Paul George,4,5,54,1,Jump Shot,25,133,215,False
+Paul George,4,0,43,0,Jump Shot,25,90,239,False
+Paul George,4,7,51,1,Jump Shot,25,-125,223,False
+Paul George,3,11,16,0,Jump Shot,22,226,4,False
+Paul George,3,7,52,1,Jump Shot,24,-168,180,False
+Paul George,1,5,27,0,Jump Shot,24,-73,237,False
+Paul George,3,4,18,1,Jump Shot,28,-77,270,False
+Paul George,2,1,8,0,Jump Shot,25,-64,251,False
+Paul George,1,0,0,0,Jump Shot,55,-3,556,False
+Paul George,1,8,8,1,Jump Shot,26,154,219,False
+Paul George,4,10,34,1,Jump Shot,25,-231,97,False
+Paul George,1,2,15,0,Jump Shot,10,-105,19,True
+Paul George,3,11,25,1,Jump Shot,23,228,71,False
+Paul George,4,4,17,1,Jump Shot,19,53,184,True
+Paul George,4,5,17,1,Jump Shot,25,76,243,False
+Paul George,4,4,15,1,Jump Shot,25,130,223,False
+Paul George,2,2,14,1,Jump Shot,26,54,261,False
+Paul George,4,1,4,0,Jump Shot,25,-186,179,False
+Paul George,1,0,50,1,Jump Shot,24,100,224,False
+Paul George,1,1,1,0,Jump Shot,25,208,140,False
+Paul George,2,8,19,1,Jump Shot,24,136,205,False
+Paul George,2,7,53,0,Jump Shot,21,88,193,True
+Paul George,3,9,52,1,Jump Shot,24,119,217,False
+Paul George,1,2,26,1,Jump Shot,26,54,257,False
+Paul George,1,7,33,0,Jump Shot,25,120,221,False
+Paul George,2,11,14,0,Jump Shot,15,132,80,True
+Paul George,3,9,50,0,Jump Shot,26,-127,237,False
+Paul George,3,9,28,0,Jump Shot,24,234,54,False
+Paul George,2,5,30,0,Jump Shot,23,-206,121,False
+Paul George,2,0,30,0,Jump Shot,25,26,252,False
+Paul George,3,7,11,0,Jump Shot,22,-228,13,False
+Paul George,4,5,40,1,Jump Shot,23,224,85,False
+Paul George,1,6,47,0,Jump Shot,20,89,188,True
+Paul George,2,4,39,1,Jump Shot,25,27,256,False
+Paul George,4,6,45,1,Jump Shot,23,230,4,False
+Paul George,2,8,51,1,Jump Shot,25,185,178,False
+Paul George,4,3,31,0,Jump Shot,25,148,206,False
+Paul George,2,11,37,0,Jump Shot,25,92,239,False
+Paul George,2,10,9,0,Jump Shot,22,-228,6,False
+Paul George,1,8,50,0,Jump Shot,25,133,213,False
+Paul George,2,11,47,0,Jump Shot,25,85,239,False
+Paul George,1,11,20,0,Jump Shot,22,-225,10,False
+Paul George,2,0,29,0,Jump Shot,24,231,88,False
+Paul George,4,10,44,1,Jump Shot,24,64,241,False
+Paul George,4,9,4,0,Jump Shot,24,-22,248,False
+Paul George,1,5,50,0,Jump Shot,24,94,229,False
+Paul George,3,7,11,0,Jump Shot,13,122,52,True
+Paul George,1,5,53,1,Jump Shot,23,-237,-6,False
+Paul George,3,3,25,0,Jump Shot,25,128,217,False
+Paul George,1,3,28,1,Jump Shot,24,55,243,False
+Paul George,2,0,2,0,Jump Shot,23,235,19,False
+Paul George,1,5,13,0,Jump Shot,12,-101,75,True
+Paul George,4,8,43,0,Jump Shot,26,-145,227,False
+Paul George,2,11,46,1,Jump Shot,15,-134,80,True
+Paul George,1,8,54,1,Jump Shot,11,-98,56,True
+Paul George,2,8,0,1,Jump Shot,23,231,22,False
+Paul George,4,9,8,1,Jump Shot,25,74,249,False
+Paul George,1,5,15,1,Jump Shot,25,228,111,False
+Paul George,3,0,16,0,Jump Shot,6,-43,42,True
+Paul George,1,1,27,1,Jump Shot,25,176,183,False
+Paul George,2,7,34,0,Jump Shot,24,-98,222,False
+Paul George,3,4,20,1,Jump Shot,25,49,251,False
+Paul George,1,8,28,0,Jump Shot,25,208,143,False
+Paul George,2,7,21,0,Jump Shot,23,230,59,False
+Paul George,2,9,49,0,Jump Shot,24,-196,153,False
+Paul George,3,4,53,1,Jump Shot,24,92,228,False
+Paul George,2,5,16,0,Jump Shot,24,-108,220,False
+Paul George,3,4,14,1,Jump Shot,25,111,226,False
+Paul George,1,8,0,1,Jump Shot,22,-226,-13,False
+Paul George,3,7,1,0,Jump Shot,25,216,133,False
+Paul George,4,2,0,0,Jump Shot,22,-229,12,False
+Paul George,4,7,26,0,Jump Shot,22,-225,13,False
+Paul George,1,8,2,1,Jump Shot,23,230,35,False
+Paul George,3,9,52,0,Jump Shot,22,227,-14,False
+Paul George,4,9,28,0,Jump Shot,26,-190,183,False
+Paul George,4,11,19,0,Jump Shot,7,-7,75,True
+Paul George,2,8,28,0,Jump Shot,27,-19,271,False
+Paul George,3,7,52,1,Jump Shot,25,102,237,False
+Paul George,2,0,41,0,Jump Shot,26,137,231,False
+Paul George,1,6,17,0,Jump Shot,26,179,189,False
+Paul George,3,6,14,0,Jump Shot,26,-210,159,False
+Paul George,1,7,6,0,Jump Shot,25,-176,188,False
+Paul George,4,7,48,1,Jump Shot,24,-58,243,False
+Paul George,1,6,37,0,Jump Shot,23,228,53,False
+Paul George,1,10,34,1,Jump Shot,18,-177,53,True
+Paul George,3,8,41,1,Jump Shot,25,82,241,False
+Paul George,1,2,37,1,Jump Shot,22,-222,13,False
+Paul George,1,8,56,0,Jump Shot,22,-220,-1,False
+Paul George,3,9,41,0,Jump Shot,25,-179,178,False
+Paul George,3,11,49,1,Jump Shot,24,-223,111,False
+Paul George,3,4,48,0,Jump Shot,25,142,208,False
+Paul George,1,4,26,1,Jump Shot,8,0,80,True
+Paul George,1,5,35,1,Jump Shot,26,125,230,False
+Paul George,4,11,47,0,Jump Shot,25,-5,257,False
+Paul George,1,5,55,0,Jump Shot,24,-130,211,False
+Paul George,1,8,52,1,Jump Shot,24,95,225,False
+Paul George,1,0,37,0,Jump Shot,24,122,216,False
+Paul George,1,2,24,1,Jump Shot,24,233,62,False
+Paul George,3,11,41,0,Jump Shot,25,-23,256,False
+Paul George,3,10,38,0,Jump Shot,24,52,242,False
+Paul George,4,4,43,1,Jump Shot,23,228,58,False
+Paul George,1,8,44,1,Jump Shot,26,-63,255,False
+Paul George,1,8,1,1,Jump Shot,25,177,182,False
+Paul George,3,2,48,0,Jump Shot,25,121,220,False
+Paul George,4,5,7,0,Jump Shot,10,-14,103,True
+Paul George,2,5,29,1,Jump Shot,26,8,265,False
+Paul George,4,3,23,0,Jump Shot,24,24,245,False
+Paul George,4,5,58,0,Jump Shot,5,8,59,True
+Paul George,3,6,47,0,Jump Shot,22,-223,15,False
+Paul George,3,0,0,0,Jump Shot,29,-17,294,False
+Paul George,4,5,30,1,Jump Shot,14,60,136,True
+Paul George,2,9,2,0,Jump Shot,25,178,181,False
+Paul George,2,2,46,0,Jump Shot,26,5,262,False
+Paul George,3,2,11,0,Jump Shot,16,-150,70,True
+Paul George,1,0,30,1,Jump Shot,24,-80,229,False
+Paul George,1,9,18,0,Jump Shot,25,-198,167,False
+Paul George,3,0,14,0,Jump Shot,25,41,247,False
+Paul George,1,0,2,0,Jump Shot,21,-130,176,True
+Paul George,1,5,18,1,Jump Shot,25,20,253,False
+Paul George,2,1,56,1,Jump Shot,22,228,5,False
+Paul George,4,2,50,0,Jump Shot,27,112,252,False
+Paul George,3,2,19,0,Jump Shot,20,-24,204,True
+Paul George,1,8,55,1,Jump Shot,25,239,75,False
+Paul George,3,0,20,1,Jump Shot,5,53,6,True
+Paul George,4,5,19,0,Jump Shot,25,151,205,False
+Paul George,1,7,53,0,Jump Shot,25,-90,236,False
+Paul George,3,5,41,0,Jump Shot,24,156,194,False
+Paul George,2,11,24,0,Jump Shot,24,-143,197,False
+Paul George,3,6,48,0,Jump Shot,23,231,25,False
+Paul George,1,10,10,0,Jump Shot,11,-106,53,True
+Paul George,1,8,34,0,Jump Shot,23,235,45,False
+Paul George,4,5,7,1,Jump Shot,22,-227,15,False
+Paul George,1,11,16,1,Jump Shot,18,-160,86,True
+Paul George,1,9,10,0,Jump Shot,13,16,137,True
+Paul George,3,0,0,0,Jump Shot,35,-138,325,False
+Paul George,1,10,32,0,Jump Shot,23,-226,50,False
+Paul George,3,6,44,0,Jump Shot,25,46,249,False
+Paul George,4,11,54,0,Jump Shot,25,-17,256,False
+Paul George,3,7,3,0,Jump Shot,25,195,158,False
+Paul George,3,7,57,1,Jump Shot,25,-72,249,False
+Paul George,3,4,15,0,Jump Shot,18,-100,158,True
+Paul George,1,5,31,1,Jump Shot,24,-225,106,False
+Paul George,4,5,27,0,Jump Shot,26,141,225,False
+Paul George,1,2,1,0,Jump Shot,29,138,261,False
+Paul George,4,0,36,0,Jump Shot,22,227,37,False
+Paul George,4,5,15,0,Jump Shot,24,92,231,False
+Paul George,4,0,24,1,Jump Shot,25,-23,257,False
+Paul George,3,4,27,1,Jump Shot,25,-122,225,False
+Paul George,1,8,40,0,Jump Shot,23,235,29,False
+Paul George,4,0,5,0,Jump Shot,24,-140,204,False
+Paul George,2,2,43,0,Jump Shot,25,-71,247,False
+Paul George,4,0,0,0,Jump Shot,23,234,34,False
+Paul George,2,1,48,0,Jump Shot,25,85,243,False
+Paul George,1,11,45,0,Jump Shot,26,122,231,False
+Paul George,1,1,18,0,Jump Shot,25,67,242,False
+Paul George,3,10,31,0,Jump Shot,24,66,236,False
+Paul George,1,7,38,1,Jump Shot,24,82,230,False
+Paul George,2,0,0,1,Jump Shot,28,168,232,False
+Paul George,1,3,9,0,Jump Shot,22,229,-1,False
+Paul George,3,2,6,1,Jump Shot,25,112,225,False
+Paul George,1,10,5,1,Jump Shot,25,139,213,False
+Paul George,3,3,52,1,Jump Shot,25,140,216,False
+Paul George,2,5,55,0,Jump Shot,25,174,188,False
+Paul George,3,6,38,1,Jump Shot,24,101,223,False
+Paul George,2,1,8,0,Jump Shot,25,26,249,False
+Paul George,3,1,14,0,Jump Shot,24,78,236,False
+Paul George,3,6,13,1,Jump Shot,25,-35,248,False
+Paul George,3,9,23,0,Jump Shot,11,-30,111,True
+Paul George,2,6,21,1,Jump Shot,22,-226,27,False
+Paul George,4,1,11,0,Jump Shot,26,67,252,False
+Paul George,1,4,3,0,Jump Shot,22,229,10,False
+Paul George,1,2,38,0,Jump Shot,12,34,116,True
+Paul George,1,11,42,0,Jump Shot,24,-239,29,False
+Paul George,3,11,11,0,Jump Shot,23,-230,13,False
+Paul George,2,6,13,0,Jump Shot,21,-131,171,True
+Paul George,3,1,10,0,Jump Shot,26,49,257,False
+Paul George,2,6,8,1,Jump Shot,26,-29,261,False
+Paul George,2,6,45,0,Jump Shot,23,234,11,False
+Paul George,2,0,59,1,Jump Shot,23,-231,-16,False
+Paul George,3,7,36,1,Jump Shot,21,-76,199,True
+Paul George,3,3,57,0,Jump Shot,23,-232,21,False
+Paul George,1,4,28,1,Jump Shot,23,231,6,False
+Paul George,4,5,57,0,Jump Shot,17,-174,22,True
+Paul George,4,7,19,0,Jump Shot,24,167,184,False
+Paul George,3,5,18,0,Jump Shot,16,-3,160,True
+Paul George,2,0,7,0,Jump Shot,24,229,74,False
+Paul George,3,7,14,0,Jump Shot,17,48,172,True
+Paul George,1,8,10,0,Jump Shot,25,-149,201,False
+Paul George,4,2,1,0,Jump Shot,25,149,202,False
+Paul George,3,3,9,0,Jump Shot,25,187,167,False
+Paul George,1,8,40,0,Jump Shot,24,110,221,False
+Paul George,3,9,31,0,Jump Shot,25,146,207,False
+Paul George,4,1,0,1,Jump Shot,23,231,-10,False
+Paul George,3,6,44,0,Jump Shot,23,113,202,True
+Paul George,2,6,19,0,Jump Shot,25,136,210,False
+Paul George,4,1,59,0,Jump Shot,21,119,175,True
+Paul George,1,4,38,1,Jump Shot,23,230,38,False
+Paul George,1,4,17,0,Jump Shot,24,42,243,False
+Paul George,2,7,7,1,Jump Shot,26,107,238,False
+Paul George,4,9,8,0,Jump Shot,26,-35,260,False
+Paul George,2,8,21,1,Jump Shot,26,147,223,False
+Paul George,3,11,8,1,Jump Shot,26,-46,256,False
+Paul George,3,7,40,0,Jump Shot,24,-114,220,False
+Paul George,1,4,56,1,Jump Shot,21,-119,176,True
+Paul George,2,5,32,0,Jump Shot,28,-13,281,False
+Paul George,1,8,22,0,Jump Shot,23,222,76,False
+Paul George,1,8,33,0,Jump Shot,24,45,241,False
+Paul George,2,2,24,0,Jump Shot,24,60,237,False
+Paul George,2,2,29,1,Jump Shot,23,-227,67,False
+Paul George,1,1,10,0,Jump Shot,26,-97,246,False
+Paul George,1,10,40,0,Jump Shot,12,-18,127,True
+Paul George,2,3,10,1,Jump Shot,25,-149,206,False
+Paul George,1,3,16,0,Jump Shot,24,225,104,False
+Paul George,2,4,5,1,Jump Shot,27,2,272,False
+Paul George,3,4,32,1,Jump Shot,28,-147,244,False
+Paul George,1,10,27,1,Jump Shot,24,74,234,False
+Paul George,4,4,40,0,Jump Shot,25,67,248,False
+Paul George,2,3,13,0,Jump Shot,25,96,234,False
+Paul George,4,0,48,1,Jump Shot,26,-94,248,False
+Paul George,4,0,28,0,Jump Shot,25,152,200,False
+Paul George,3,10,30,1,Jump Shot,22,-229,21,False
+Paul George,2,4,1,1,Jump Shot,25,-60,246,False
+Paul George,4,4,48,1,Jump Shot,22,226,12,False
+Paul George,1,2,30,1,Jump Shot,25,235,99,False
+Paul George,1,1,10,0,Jump Shot,24,-113,221,False
+Paul George,2,1,30,1,Jump Shot,24,89,231,False
+Paul George,2,5,23,1,Jump Shot,26,81,252,False
+Paul George,3,6,43,1,Jump Shot,23,-230,68,False
+Paul George,3,0,9,0,Jump Shot,25,54,252,False
+Paul George,1,5,22,1,Jump Shot,24,230,96,False
+Paul George,2,2,6,0,Jump Shot,19,94,169,True
+Paul George,2,6,0,0,Jump Shot,18,168,73,True
+Paul George,2,9,9,0,Jump Shot,25,105,229,False
+Paul George,1,4,23,1,Jump Shot,22,-228,30,False
+Paul George,2,5,52,1,Jump Shot,24,-234,57,False
+Paul George,2,0,53,0,Jump Shot,24,-228,85,False
+Paul George,3,4,7,0,Jump Shot,24,219,119,False
+Paul George,3,6,22,0,Jump Shot,5,55,19,True
+Paul George,3,0,49,0,Jump Shot,24,43,246,False
+Paul George,1,10,28,0,Jump Shot,23,230,22,False
+Paul George,3,9,7,0,Jump Shot,23,231,-6,False
+Paul George,3,2,53,0,Jump Shot,24,152,193,False
+Paul George,1,5,42,0,Jump Shot,25,47,248,False
+Paul George,3,6,54,0,Jump Shot,24,12,240,False
+Paul George,1,1,10,0,Jump Shot,26,-94,248,False
+Paul George,3,7,2,0,Jump Shot,25,-129,216,False
+Paul George,2,0,0,0,Jump Shot,24,185,162,False
+Paul George,2,6,2,0,Jump Shot,25,41,252,False
+Paul George,2,2,19,0,Jump Shot,27,79,268,False
+Paul George,1,9,45,0,Jump Shot,22,228,-4,False
+Paul George,4,6,50,0,Jump Shot,25,-1,253,False
+Paul George,4,3,14,0,Jump Shot,22,228,22,False
+Paul George,3,9,46,1,Jump Shot,26,143,223,False
+Paul George,1,9,32,1,Jump Shot,22,229,13,False
+Paul George,4,1,27,0,Jump Shot,24,201,145,False
+Paul George,3,9,17,1,Jump Shot,25,188,168,False
+Paul George,3,3,2,0,Jump Shot,26,204,170,False
+Paul George,1,7,18,0,Jump Shot,26,-101,241,False
+Paul George,2,1,34,0,Jump Shot,29,133,260,False
+Paul George,4,1,41,0,Jump Shot,25,149,202,False
+Paul George,1,7,16,1,Jump Shot,19,147,125,True
+Paul George,4,2,55,0,Jump Shot,15,71,134,True
+Paul George,3,6,24,0,Jump Shot,25,114,225,False
+Paul George,4,1,18,1,Jump Shot,23,237,-10,False
+Paul George,1,2,20,0,Jump Shot,25,212,143,False
+Paul George,2,10,5,1,Jump Shot,27,1,272,False
+Paul George,3,9,44,0,Jump Shot,25,188,168,False
+Paul George,3,7,36,0,Jump Shot,24,220,111,False
+Paul George,3,10,31,0,Jump Shot,19,58,185,True
+Paul George,2,2,38,0,Jump Shot,15,-122,92,True
+Paul George,2,0,48,1,Jump Shot,23,231,1,False
+Paul George,5,4,23,0,Jump Shot,17,151,81,True
+Paul George,1,2,49,1,Jump Shot,29,122,273,False
+Paul George,4,5,20,1,Jump Shot,25,151,205,False
+Paul George,2,2,40,0,Jump Shot,29,141,264,False
+Paul George,2,2,6,1,Jump Shot,26,-2,264,False
+Paul George,4,2,54,1,Jump Shot,22,228,9,False
+Paul George,2,10,36,0,Jump Shot,24,-67,239,False
+Paul George,3,7,27,0,Jump Shot,23,-232,-4,False
+Paul George,2,5,32,0,Jump Shot,22,229,1,False
+Paul George,1,4,49,1,Jump Shot,25,114,225,False
+Paul George,1,10,2,1,Jump Shot,24,-178,174,False
+Paul George,2,2,7,0,Jump Shot,22,-225,4,False
+Paul George,4,3,16,1,Jump Shot,23,227,41,False
+Paul George,2,1,30,1,Jump Shot,25,155,205,False
+Paul George,3,0,39,0,Jump Shot,25,-95,242,False
+Paul George,4,1,30,1,Jump Shot,25,105,237,False
+Paul George,3,4,41,0,Jump Shot,23,233,6,False
+Paul George,2,4,14,1,Jump Shot,24,218,105,False
+Paul George,4,5,43,0,Jump Shot,27,166,221,False
+Paul George,3,6,31,0,Jump Shot,19,177,71,True
+Paul George,1,6,18,1,Jump Shot,24,-4,247,False
+Paul George,4,8,13,0,Jump Shot,22,223,18,False
+Paul George,4,8,35,0,Jump Shot,24,155,191,False
+Paul George,3,11,1,1,Jump Shot,25,75,243,False
+Paul George,1,4,27,1,Jump Shot,25,63,251,False
+Paul George,3,6,37,0,Jump Shot,25,84,244,False
+Paul George,1,5,44,1,Jump Shot,24,237,63,False
+Paul George,2,2,55,1,Jump Shot,25,-11,253,False
+Paul George,2,8,53,1,Jump Shot,19,166,95,True
+Paul George,4,2,44,0,Jump Shot,24,221,99,False
+Paul George,4,7,27,0,Layup Shot,2,-13,20,True
+Paul George,2,4,13,0,Layup Shot,2,24,9,True
+Paul George,1,2,36,1,Layup Shot,1,9,11,True
+Paul George,3,8,34,1,Layup Shot,2,-20,16,True
+Paul George,3,5,53,1,Layup Shot,1,15,11,True
+Paul George,3,4,28,0,Layup Shot,3,29,26,True
+Paul George,3,0,57,1,Layup Shot,2,10,18,True
+Paul George,1,10,25,1,Layup Shot,1,6,14,True
+Paul George,4,5,28,1,Layup Shot,3,-22,21,True
+Paul George,1,6,8,1,Layup Shot,2,20,10,True
+Paul George,1,1,24,0,Layup Shot,4,2,41,True
+Paul George,3,0,46,1,Layup Shot,0,7,5,True
+Paul George,2,9,16,0,Layup Shot,5,-16,53,True
+Paul George,1,6,43,0,Layup Shot,1,-10,11,True
+Paul George,2,4,42,1,Layup Shot,0,-2,8,True
+Paul George,2,10,7,0,Layup Shot,1,18,5,True
+Paul George,3,8,49,1,Layup Shot,1,9,5,True
+Paul George,3,2,45,0,Layup Shot,1,3,16,True
+Paul George,4,3,29,0,Layup Shot,1,-17,8,True
+Paul George,3,9,22,1,Layup Shot,2,3,22,True
+Paul George,3,10,37,1,Layup Shot,2,-3,20,True
+Paul George,4,8,14,0,Layup Shot,1,9,15,True
+Paul George,2,8,23,0,Layup Shot,2,20,4,True
+Paul George,2,3,16,0,Layup Shot,0,5,6,True
+Paul George,3,0,16,1,Layup Shot,1,8,11,True
+Paul George,4,11,38,1,Layup Shot,0,0,-1,True
+Paul George,1,9,16,0,Layup Shot,3,14,31,True
+Paul George,3,1,50,0,Layup Shot,1,-12,11,True
+Paul George,3,2,46,0,Layup Shot,2,-3,20,True
+Paul George,1,9,20,0,Layup Shot,3,-4,37,True
+Paul George,3,1,13,0,Layup Shot,1,8,18,True
+Paul George,1,0,38,0,Layup Shot,3,-1,31,True
+Paul George,3,3,43,0,Layup Shot,6,62,11,True
+Paul George,1,9,14,0,Layup Shot,3,-4,31,True
+Paul George,1,0,29,0,Layup Shot,1,7,17,True
+Paul George,4,8,56,0,Layup Shot,2,11,18,True
+Paul George,2,8,51,0,Layup Shot,3,33,6,True
+Paul George,3,8,24,0,Layup Shot,2,-17,23,True
+Paul George,1,7,48,0,Layup Shot,2,-17,12,True
+Paul George,4,5,5,0,Pullup Jump shot,19,-150,132,True
+Paul George,2,7,49,1,Pullup Jump shot,14,126,74,True
+Paul George,1,0,37,0,Pullup Jump shot,18,43,180,True
+Paul George,1,5,5,0,Pullup Jump shot,14,30,137,True
+Paul George,1,1,30,0,Pullup Jump shot,19,45,190,True
+Paul George,1,5,37,1,Pullup Jump shot,16,68,148,True
+Paul George,3,10,4,0,Pullup Jump shot,18,-84,164,True
+Paul George,3,5,25,0,Pullup Jump shot,12,53,110,True
+Paul George,2,9,29,1,Pullup Jump shot,25,-150,201,False
+Paul George,3,0,0,0,Pullup Jump shot,25,-147,210,False
+Paul George,3,4,30,1,Pullup Jump shot,25,124,220,False
+Paul George,1,8,22,0,Pullup Jump shot,25,-174,192,False
+Paul George,2,1,7,0,Pullup Jump shot,18,61,173,True
+Paul George,3,1,49,0,Pullup Jump shot,25,-99,237,False
+Paul George,3,3,59,0,Pullup Jump shot,18,0,184,True
+Paul George,1,10,56,1,Pullup Jump shot,19,-74,182,True
+Paul George,2,8,29,0,Pullup Jump shot,21,47,210,True
+Paul George,3,7,5,0,Pullup Jump shot,11,62,95,True
+Paul George,3,1,6,1,Pullup Jump shot,25,-3,252,False
+Paul George,3,6,51,0,Pullup Jump shot,25,124,220,False
+Paul George,3,10,4,0,Pullup Jump shot,13,130,18,True
+Paul George,2,0,2,1,Pullup Jump shot,10,18,108,True
+Paul George,5,1,7,0,Pullup Jump shot,24,221,101,False
+Paul George,4,7,38,0,Pullup Jump shot,25,71,242,False
+Paul George,3,3,56,1,Pullup Jump shot,17,-3,173,True
+Paul George,1,11,39,0,Pullup Jump shot,14,136,53,True
+Paul George,1,10,22,0,Pullup Jump shot,16,-85,136,True
+Paul George,3,1,31,0,Pullup Jump shot,16,-13,169,True
+Paul George,2,2,44,0,Pullup Jump shot,17,109,142,True
+Paul George,3,2,48,0,Pullup Jump shot,26,129,226,False
+Paul George,1,7,46,0,Pullup Jump shot,11,-87,78,True
+Paul George,1,3,28,0,Pullup Jump shot,6,50,37,True
+Paul George,4,9,49,1,Pullup Jump shot,26,-58,260,False
+Paul George,4,3,39,0,Pullup Jump shot,13,-134,26,True
+Paul George,4,10,32,0,Pullup Jump shot,25,10,256,False
+Paul George,4,9,31,0,Pullup Jump shot,10,-65,77,True
+Paul George,3,11,18,0,Pullup Jump shot,17,-72,154,True
+Paul George,2,3,11,1,Pullup Jump shot,19,-26,193,True
+Paul George,1,10,4,0,Pullup Jump shot,5,-57,17,True
+Paul George,3,3,2,0,Pullup Jump shot,24,174,174,False
+Paul George,3,4,23,0,Pullup Jump shot,19,-99,170,True
+Paul George,3,0,31,0,Pullup Jump shot,12,-50,116,True
+Paul George,4,7,57,0,Pullup Jump shot,9,-3,91,True
+Paul George,1,9,18,1,Pullup Jump shot,13,8,138,True
+Paul George,3,11,23,0,Pullup Jump shot,17,157,81,True
+Paul George,1,8,31,0,Pullup Jump shot,7,12,71,True
+Paul George,2,4,10,1,Pullup Jump shot,15,-48,151,True
+Paul George,3,5,31,0,Pullup Jump shot,18,-16,185,True
+Paul George,4,2,7,1,Pullup Jump shot,27,172,214,False
+Paul George,1,8,2,1,Pullup Jump shot,15,88,126,True
+Paul George,2,6,16,0,Pullup Jump shot,16,-50,162,True
+Paul George,2,1,20,0,Pullup Jump shot,15,147,59,True
+Paul George,4,6,46,1,Pullup Jump shot,15,-11,157,True
+Paul George,3,7,23,0,Pullup Jump shot,17,104,140,True
+Paul George,3,1,30,0,Pullup Jump shot,17,72,159,True
+Paul George,4,0,38,1,Pullup Jump shot,24,49,241,False
+Paul George,2,9,23,1,Pullup Jump shot,17,93,148,True
+Paul George,4,11,26,0,Pullup Jump shot,18,28,187,True
+Paul George,3,4,12,0,Pullup Jump shot,16,88,137,True
+Paul George,4,4,28,0,Pullup Jump shot,25,-11,256,False
+Paul George,3,0,4,0,Pullup Jump shot,25,-166,189,False
+Paul George,4,1,54,0,Pullup Jump shot,24,-13,240,False
+Paul George,3,2,34,1,Pullup Jump shot,16,-145,71,True
+Paul George,2,6,14,1,Pullup Jump shot,17,-54,171,True
+Paul George,3,1,36,0,Pullup Jump shot,25,3,254,False
+Paul George,2,6,46,0,Pullup Jump shot,25,-54,246,False
+Paul George,3,7,39,0,Pullup Jump shot,18,106,155,True
+Paul George,4,9,52,0,Pullup Jump shot,25,81,239,False
+Paul George,3,8,2,1,Pullup Jump shot,12,38,117,True
+Paul George,2,6,43,0,Pullup Jump shot,25,164,195,False
+Paul George,4,5,27,0,Pullup Jump shot,18,-50,175,True
+Paul George,2,3,45,0,Pullup Jump shot,17,-57,163,True
+Paul George,1,10,43,1,Pullup Jump shot,16,-42,158,True
+Paul George,3,3,1,0,Pullup Jump shot,24,195,146,False
+Paul George,1,9,8,0,Pullup Jump shot,25,141,213,False
+Paul George,1,8,8,0,Pullup Jump shot,15,73,135,True
+Paul George,2,1,14,0,Pullup Jump shot,22,158,164,True
+Paul George,2,8,5,1,Pullup Jump shot,25,128,225,False
+Paul George,3,4,4,1,Pullup Jump shot,17,64,158,True
+Paul George,3,11,19,0,Pullup Jump shot,15,2,154,True
+Paul George,3,0,46,0,Pullup Jump shot,26,130,230,False
+Paul George,3,0,30,0,Pullup Jump shot,24,37,247,False
+Paul George,2,4,59,1,Pullup Jump shot,13,-20,138,True
+Paul George,4,8,36,0,Pullup Jump shot,14,-118,82,True
+Paul George,4,6,58,0,Pullup Jump shot,25,-208,148,False
+Paul George,3,9,32,0,Pullup Jump shot,25,69,241,False
+Paul George,3,9,1,1,Pullup Jump shot,13,12,137,True
+Paul George,4,8,6,1,Pullup Jump shot,19,103,168,True
+Paul George,1,3,33,0,Pullup Jump shot,20,94,177,True
+Paul George,2,7,1,0,Pullup Jump shot,6,-20,61,True
+Paul George,3,11,15,1,Pullup Jump shot,12,117,36,True
+Paul George,1,0,5,0,Pullup Jump shot,14,-124,71,True
+Paul George,3,4,13,0,Pullup Jump shot,12,0,125,True
+Paul George,2,7,39,1,Pullup Jump shot,25,-8,258,False
+Paul George,3,11,40,1,Pullup Jump shot,17,73,156,True
+Paul George,3,9,26,1,Pullup Jump shot,16,3,168,True
+Paul George,2,11,49,0,Pullup Jump shot,19,-95,165,True
+Paul George,4,8,19,0,Pullup Jump shot,14,3,143,True
+Paul George,1,8,43,0,Pullup Jump shot,19,36,188,True
+Paul George,4,4,5,0,Pullup Jump shot,18,-161,81,True
+Paul George,2,3,20,0,Pullup Jump shot,17,-100,142,True
+Paul George,4,5,31,0,Pullup Jump shot,15,124,99,True
+Paul George,2,9,54,0,Pullup Jump shot,21,104,183,True
+Paul George,3,0,21,0,Pullup Jump shot,26,-92,247,False
+Paul George,2,2,1,0,Pullup Jump shot,20,-101,178,True
+Paul George,1,2,32,0,Pullup Jump shot,17,-128,126,True
+Paul George,1,2,9,1,Pullup Jump shot,9,72,66,True
+Paul George,4,2,51,1,Pullup Jump shot,24,207,134,False
+Paul George,1,7,8,1,Pullup Jump shot,24,106,226,False
+Paul George,4,4,4,1,Pullup Jump shot,24,-55,243,False
+Paul George,1,4,25,0,Pullup Jump shot,18,-42,185,True
+Paul George,3,4,0,0,Pullup Jump shot,21,-8,215,True
+Paul George,1,0,0,1,Pullup Jump shot,25,111,234,False
+Paul George,2,4,14,1,Pullup Jump shot,15,-13,151,True
+Paul George,2,11,14,0,Pullup Jump shot,19,14,195,True
+Paul George,1,8,59,1,Pullup Jump shot,19,-111,164,True
+Paul George,1,9,34,0,Pullup Jump shot,11,36,105,True
+Paul George,2,4,28,0,Pullup Jump shot,21,122,171,True
+Paul George,3,11,13,0,Pullup Jump shot,18,69,170,True
+Paul George,4,5,42,0,Pullup Jump shot,24,207,127,False
+Paul George,2,2,4,0,Pullup Jump shot,14,114,89,True
+Paul George,4,3,18,0,Pullup Jump shot,25,-112,227,False
+Paul George,1,0,45,0,Pullup Jump shot,14,-125,81,True
+Paul George,3,10,9,0,Pullup Jump shot,14,5,146,True
+Paul George,4,9,15,1,Pullup Jump shot,20,179,100,True
+Paul George,1,0,0,0,Pullup Jump shot,20,111,168,True
+Paul George,1,0,1,1,Pullup Jump shot,15,95,122,True
+Paul George,3,9,43,0,Pullup Jump shot,11,111,44,True
+Paul George,3,11,48,0,Pullup Jump shot,18,-3,185,True
+Paul George,3,8,25,1,Pullup Jump shot,18,49,181,True
+Paul George,3,4,49,0,Pullup Jump shot,13,31,134,True
+Paul George,3,9,36,0,Pullup Jump shot,19,-54,183,True
+Paul George,4,4,48,1,Pullup Jump shot,24,51,243,False
+Paul George,3,9,1,0,Pullup Jump shot,24,147,199,False
+Paul George,4,0,12,0,Pullup Jump shot,28,158,241,False
+Paul George,1,8,7,1,Pullup Jump shot,14,-93,117,True
+Paul George,3,11,37,1,Pullup Jump shot,22,-87,210,True
+Paul George,3,2,27,0,Pullup Jump shot,24,38,243,False
+Paul George,3,11,29,1,Pullup Jump shot,14,-125,68,True
+Paul George,3,10,55,0,Pullup Jump shot,18,-49,180,True
+Paul George,2,3,41,0,Pullup Jump shot,24,168,179,False
+Paul George,4,2,8,0,Pullup Jump shot,18,-95,158,True
+Paul George,3,9,37,0,Pullup Jump shot,14,18,147,True
+Paul George,3,6,21,1,Pullup Jump shot,25,-144,212,False
+Paul George,4,3,30,1,Pullup Jump shot,13,62,125,True
+Paul George,2,5,6,1,Pullup Jump shot,14,125,68,True
+Paul George,3,5,47,1,Pullup Jump shot,17,88,148,True
+Paul George,4,8,23,0,Pullup Jump shot,18,-150,100,True
+Paul George,2,0,0,1,Pullup Jump shot,14,-25,143,True
+Paul George,2,0,59,0,Pullup Jump shot,25,-167,190,False
+Paul George,2,4,4,1,Pullup Jump shot,25,137,211,False
+Paul George,2,8,52,0,Pullup Jump shot,15,123,97,True
+Paul George,4,11,40,0,Pullup Jump shot,12,-46,115,True
+Paul George,1,0,58,0,Pullup Jump shot,18,-79,164,True
+Paul George,3,0,0,0,Pullup Jump shot,46,6,468,False
+Paul George,3,7,34,0,Pullup Jump shot,11,40,104,True
+Paul George,3,0,32,0,Pullup Jump shot,25,26,253,False
+Paul George,2,1,22,1,Pullup Jump shot,14,87,110,True
+Paul George,1,8,46,0,Pullup Jump shot,26,101,243,False
+Paul George,2,9,37,0,Pullup Jump shot,26,74,255,False
+Paul George,4,4,12,0,Pullup Jump shot,9,19,89,True
+Paul George,1,2,57,1,Pullup Jump shot,26,66,261,False
+Paul George,3,4,36,0,Pullup Jump shot,17,-8,170,True
+Paul George,1,1,48,1,Pullup Jump shot,18,121,135,True
+Paul George,1,3,7,0,Pullup Jump shot,25,68,248,False
+Paul George,2,11,8,0,Pullup Jump shot,13,-111,71,True
+Paul George,1,4,55,1,Pullup Jump shot,13,-47,126,True
+Paul George,2,1,54,0,Pullup Jump shot,16,-64,147,True
+Paul George,1,11,26,0,Pullup Jump shot,13,-135,11,True
+Paul George,4,7,57,0,Pullup Jump shot,26,-88,246,False
+Paul George,3,11,19,1,Pullup Jump shot,13,124,54,True
+Paul George,2,7,42,0,Pullup Jump shot,16,106,126,True
+Paul George,1,2,58,1,Pullup Jump shot,14,95,103,True
+Paul George,3,0,17,1,Pullup Jump shot,26,36,258,False
+Paul George,4,1,39,0,Pullup Jump shot,16,48,162,True
+Paul George,3,2,57,1,Pullup Jump shot,14,-138,37,True
+Paul George,2,11,6,0,Pullup Jump shot,12,-96,85,True
+Paul George,1,2,28,0,Pullup Jump shot,24,-100,227,False
+Paul George,2,4,58,0,Pullup Jump shot,24,136,203,False
+Paul George,4,7,57,0,Pullup Jump shot,19,87,170,True
+Paul George,3,2,18,1,Pullup Jump shot,13,43,133,True
+Paul George,3,0,31,0,Pullup Jump shot,25,-23,253,False
+Paul George,2,8,52,1,Pullup Jump shot,14,3,143,True
+Paul George,1,1,57,0,Pullup Jump shot,18,87,159,True
+Paul George,3,1,22,1,Pullup Jump shot,19,60,187,True
+Paul George,1,8,22,0,Pullup Jump shot,15,73,141,True
+Paul George,2,10,16,0,Pullup Jump shot,19,103,162,True
+Paul George,4,5,45,1,Pullup Jump shot,18,92,160,True
+Paul George,1,10,25,1,Pullup Jump shot,20,149,145,True
+Paul George,1,1,3,1,Pullup Jump shot,25,-2,251,False
+Paul George,3,5,9,0,Pullup Jump shot,14,64,127,True
+Paul George,4,0,7,0,Pullup Jump shot,27,-44,275,False
+Paul George,1,4,4,1,Pullup Jump shot,22,-19,227,True
+Paul George,4,2,43,1,Pullup Jump shot,16,70,147,True
+Paul George,3,9,53,1,Pullup Jump shot,22,227,-4,False
+Paul George,2,1,3,1,Pullup Jump shot,16,32,161,True
+Paul George,3,7,55,0,Pullup Jump shot,24,-28,247,False
+Paul George,3,9,52,1,Pullup Jump shot,24,-54,244,False
+Paul George,3,0,43,1,Pullup Jump shot,20,-147,138,True
+Paul George,2,11,25,1,Pullup Jump shot,18,2,187,True
+Paul George,3,2,43,1,Pullup Jump shot,15,-2,150,True
+Paul George,3,10,1,0,Pullup Jump shot,28,-49,284,False
+Paul George,4,2,17,1,Pullup Jump shot,18,-169,65,True
+Paul George,1,4,16,0,Pullup Jump shot,25,174,180,False
+Paul George,1,2,13,0,Pullup Jump shot,26,19,264,False
+Paul George,4,0,24,1,Pullup Jump shot,25,75,248,False
+Paul George,1,11,8,1,Pullup Jump shot,10,91,58,True
+Paul George,1,5,22,0,Pullup Jump shot,23,234,21,False
+Paul George,2,3,10,1,Pullup Jump shot,11,36,108,True
+Paul George,3,2,18,0,Pullup Jump shot,16,-104,130,True
+Paul George,1,9,32,1,Pullup Jump shot,14,0,145,True
+Paul George,4,11,47,0,Pullup Jump shot,26,-114,238,False
+Paul George,1,7,44,1,Pullup Jump shot,21,-85,193,True
+Paul George,4,5,9,0,Pullup Jump shot,15,-44,149,True
+Paul George,3,11,20,0,Pullup Jump shot,19,-125,152,True
+Paul George,1,6,38,0,Pullup Jump shot,15,-105,115,True
+Paul George,3,9,42,0,Pullup Jump shot,15,-3,153,True
+Paul George,2,3,16,1,Putback Layup Shot,0,1,6,True
+Paul George,1,5,49,1,Putback Layup Shot,0,0,-6,True
+Paul George,3,0,4,1,Putback Layup Shot,0,-3,2,True
+Paul George,1,10,44,1,Putback Layup Shot,1,10,0,True
+Paul George,2,8,33,1,Putback Layup Shot,0,0,-8,True
+Paul George,1,6,27,0,Reverse Layup Shot,1,-15,13,True
+Paul George,1,8,42,1,Reverse Layup Shot,0,8,1,True
+Paul George,2,2,34,1,Reverse Layup Shot,2,19,10,True
+Paul George,4,6,49,1,Reverse Layup Shot,0,7,1,True
+Paul George,4,0,46,1,Running Dunk Shot,0,-6,2,True
+Paul George,1,6,16,1,Running Dunk Shot,0,2,0,True
+Paul George,2,4,28,1,Running Dunk Shot,1,-9,14,True
+Paul George,2,0,0,1,Running Dunk Shot,1,0,11,True
+Paul George,4,6,7,1,Running Dunk Shot,1,2,18,True
+Paul George,1,9,43,1,Running Dunk Shot,0,2,8,True
+Paul George,3,5,20,1,Running Dunk Shot,1,6,9,True
+Paul George,1,10,12,1,Running Dunk Shot,0,-2,5,True
+Paul George,1,7,6,1,Running Dunk Shot,0,1,-5,True
+Paul George,3,2,18,1,Running Dunk Shot,1,10,6,True
+Paul George,2,0,29,1,Running Dunk Shot,1,0,14,True
+Paul George,3,7,49,0,Running Finger Roll Layup Shot,0,0,8,True
+Paul George,3,6,43,1,Running Jump Shot,25,154,207,False
+Paul George,3,3,4,1,Running Jump Shot,24,156,190,False
+Paul George,1,6,37,1,Running Jump Shot,25,230,110,False
+Paul George,1,10,17,1,Running Jump Shot,24,224,89,False
+Paul George,2,3,22,1,Running Jump Shot,26,-116,233,False
+Paul George,4,4,57,0,Running Jump Shot,25,-39,252,False
+Paul George,2,0,59,0,Running Jump Shot,25,159,203,False
+Paul George,3,10,14,1,Running Jump Shot,25,-203,153,False
+Paul George,2,0,41,1,Running Jump Shot,25,-4,255,False
+Paul George,1,11,3,0,Running Jump Shot,25,122,227,False
+Paul George,3,5,28,1,Running Jump Shot,25,38,252,False
+Paul George,3,10,34,0,Running Jump Shot,24,221,105,False
+Paul George,1,0,1,0,Running Jump Shot,26,89,251,False
+Paul George,3,7,11,1,Running Jump Shot,6,0,67,True
+Paul George,4,7,40,1,Running Jump Shot,25,80,247,False
+Paul George,4,6,6,1,Running Jump Shot,25,119,231,False
+Paul George,3,8,39,1,Running Layup Shot,8,60,55,True
+Paul George,3,0,55,1,Running Layup Shot,1,3,10,True
+Paul George,4,5,21,0,Running Layup Shot,3,16,28,True
+Paul George,2,10,19,0,Running Layup Shot,2,-18,17,True
+Paul George,1,4,36,1,Running Layup Shot,1,0,11,True
+Paul George,4,1,52,0,Running Layup Shot,3,9,33,True
+Paul George,3,4,44,0,Running Layup Shot,3,-22,22,True
+Paul George,1,1,16,1,Running Layup Shot,0,-9,-2,True
+Paul George,3,11,5,1,Running Layup Shot,0,0,7,True
+Paul George,1,2,2,1,Running Layup Shot,2,-5,20,True
+Paul George,1,7,43,1,Running Layup Shot,0,2,5,True
+Paul George,2,3,20,0,Running Layup Shot,3,27,14,True
+Paul George,3,9,25,0,Running Layup Shot,1,-5,16,True
+Paul George,1,5,48,1,Running Layup Shot,2,20,21,True
+Paul George,2,10,41,1,Running Layup Shot,0,8,-1,True
+Paul George,2,1,3,1,Running Layup Shot,2,9,22,True
+Paul George,4,8,44,0,Running Layup Shot,3,0,36,True
+Paul George,1,6,10,1,Running Layup Shot,0,-6,3,True
+Paul George,1,3,46,1,Running Layup Shot,0,9,4,True
+Paul George,3,6,23,1,Running Layup Shot,1,-7,10,True
+Paul George,1,3,7,1,Running Layup Shot,0,2,0,True
+Paul George,2,11,11,1,Running Layup Shot,1,-8,9,True
+Paul George,3,6,49,1,Running Layup Shot,1,-11,8,True
+Paul George,2,0,32,0,Running Layup Shot,1,-3,10,True
+Paul George,3,2,46,0,Running Layup Shot,0,-2,1,True
+Paul George,4,0,38,1,Running Layup Shot,1,10,0,True
+Paul George,1,6,35,0,Running Layup Shot,1,-9,5,True
+Paul George,1,10,58,1,Running Layup Shot,1,2,10,True
+Paul George,4,6,18,1,Running Layup Shot,0,9,0,True
+Paul George,3,5,9,1,Running Layup Shot,1,14,13,True
+Paul George,4,0,0,0,Running Pull-Up Jump Shot,39,189,349,False
+Paul George,4,9,17,1,Running Pull-Up Jump Shot,24,122,216,False
+Paul George,1,8,53,1,Running Pull-Up Jump Shot,25,-49,248,False
+Paul George,3,10,24,1,Running Pull-Up Jump Shot,25,-101,231,False
+Paul George,3,5,14,0,Running Pull-Up Jump Shot,25,72,240,False
+Paul George,3,0,0,0,Running Pull-Up Jump Shot,43,-10,437,False
+Paul George,3,10,1,0,Running Pull-Up Jump Shot,24,-126,215,False
+Paul George,4,8,11,1,Running Pull-Up Jump Shot,25,-128,220,False
+Paul George,1,3,30,1,Running Pull-Up Jump Shot,24,-106,221,False
+Paul George,2,11,28,1,Running Pull-Up Jump Shot,18,132,129,True
+Paul George,3,0,0,0,Running Pull-Up Jump Shot,42,105,412,False
+Paul George,3,0,27,0,Running Pull-Up Jump Shot,25,-61,247,False
+Paul George,3,0,28,0,Running Pull-Up Jump Shot,25,-114,225,False
+Paul George,1,11,10,0,Step Back Jump shot,13,-135,-4,True
+Paul George,1,11,21,0,Step Back Jump shot,20,-4,200,True
+Paul George,2,10,52,0,Step Back Jump shot,26,103,240,False
+Paul George,2,3,5,1,Step Back Jump shot,9,-93,19,True
+Paul George,2,3,2,0,Step Back Jump shot,14,126,77,True
+Paul George,3,0,2,0,Step Back Jump shot,25,-94,232,False
+Paul George,3,7,14,1,Step Back Jump shot,19,25,198,True
+Paul George,2,1,54,1,Step Back Jump shot,15,79,131,True
+Paul George,4,8,19,0,Step Back Jump shot,19,-74,178,True
+Paul George,3,8,52,0,Step Back Jump shot,14,-145,21,True
+Paul George,4,5,45,0,Step Back Jump shot,14,141,34,True
+Paul George,3,9,58,1,Step Back Jump shot,24,93,230,False
+Paul George,3,10,30,0,Step Back Jump shot,14,-105,106,True
+Paul George,1,0,12,0,Step Back Jump shot,16,-165,4,True
+Paul George,1,8,7,0,Step Back Jump shot,20,83,187,True
+Paul George,2,8,21,0,Step Back Jump shot,16,-89,135,True
+Paul George,4,10,38,1,Step Back Jump shot,12,120,38,True
+Paul George,1,1,49,1,Step Back Jump shot,17,-111,138,True
+Paul George,2,9,42,0,Step Back Jump shot,17,-150,92,True
+Paul George,3,8,12,1,Step Back Jump shot,15,-148,48,True
+Paul George,3,3,17,0,Step Back Jump shot,9,-36,92,True
+Paul George,4,2,17,0,Step Back Jump shot,23,-231,11,False
+Paul George,2,10,43,0,Step Back Jump shot,24,126,208,False
+Paul George,3,9,48,0,Step Back Jump shot,18,-60,172,True
+Paul George,1,7,36,1,Step Back Jump shot,15,30,147,True
+Paul George,1,3,9,0,Step Back Jump shot,26,125,229,False
+Paul George,1,8,24,1,Step Back Jump shot,21,-115,180,True
+Paul George,3,5,46,1,Step Back Jump shot,25,-6,252,False
+Paul George,2,10,8,0,Step Back Jump shot,15,-123,96,True
+Paul George,1,7,23,1,Step Back Jump shot,12,55,116,True
+Paul George,4,4,27,1,Step Back Jump shot,10,3,104,True
+Paul George,4,6,44,0,Step Back Jump shot,25,-223,120,False
+Paul George,1,0,54,1,Step Back Jump shot,18,-114,143,True
+Paul George,4,9,52,0,Step Back Jump shot,25,51,249,False
+Paul George,3,0,1,1,Step Back Jump shot,17,-92,151,True
+Paul George,3,4,43,0,Step Back Jump shot,23,-126,194,True
+Paul George,4,0,2,1,Step Back Jump shot,25,-152,205,False
+Paul George,3,2,26,0,Step Back Jump shot,17,-136,115,True
+Paul George,4,10,49,0,Step Back Jump shot,15,-151,50,True
+Paul George,1,8,52,0,Step Back Jump shot,12,0,129,True
+Paul George,2,9,47,0,Step Back Jump shot,13,-133,41,True
+Paul George,4,3,33,0,Step Back Jump shot,24,-181,168,False
+Paul George,3,6,24,1,Step Back Jump shot,15,-111,106,True
+Paul George,3,8,33,1,Step Back Jump shot,26,-149,215,False
+Paul George,1,1,2,1,Step Back Jump shot,25,105,233,False
+Paul George,1,6,59,0,Step Back Jump shot,10,-107,14,True
+Paul George,2,7,11,1,Step Back Jump shot,13,-118,72,True
+Paul George,2,0,1,1,Step Back Jump shot,20,-201,-18,True
+Paul George,1,7,44,1,Step Back Jump shot,25,14,251,False
+Paul George,3,10,7,1,Step Back Jump shot,18,-92,164,True
+Paul George,3,7,39,1,Step Back Jump shot,17,162,65,True
+Paul George,4,11,2,1,Step Back Jump shot,15,-107,109,True
+Paul George,2,11,44,0,Step Back Jump shot,22,-223,20,False
+Paul George,1,10,18,1,Step Back Jump shot,25,-107,230,False
+Paul George,1,9,56,1,Step Back Jump shot,16,-146,66,True
+Paul George,1,2,57,0,Step Back Jump shot,14,-149,-1,True
+Paul George,2,11,27,0,Step Back Jump shot,19,-30,188,True
+Paul George,2,0,54,0,Step Back Jump shot,18,-88,159,True
+Paul George,1,6,30,1,Step Back Jump shot,22,-222,14,False
+Paul George,4,5,41,1,Step Back Jump shot,24,-14,248,False
+Paul George,2,9,37,1,Step Back Jump shot,23,225,52,False
+Paul George,3,7,28,0,Step Back Jump shot,20,-130,162,True
+Paul George,1,10,8,1,Step Back Jump shot,18,46,179,True
+Paul George,1,5,18,1,Step Back Jump shot,22,228,19,False
+Paul George,1,7,18,0,Step Back Jump shot,19,60,184,True
+Paul George,1,8,6,1,Step Back Jump shot,24,-30,239,False
+Paul George,1,5,19,1,Tip Dunk Shot,0,0,-6,True
+Paul George,4,2,30,1,Tip Layup Shot,0,0,-6,True
+Paul George,1,11,25,0,Tip Layup Shot,0,0,-6,True
+Paul George,1,6,15,0,Tip Layup Shot,0,0,-6,True
+Paul George,4,9,1,0,Tip Layup Shot,0,0,-6,True
+Paul George,2,0,26,1,Tip Layup Shot,0,0,-6,True
+Paul George,5,4,0,0,Turnaround Fadeaway Bank Jump Shot,1,16,7,True
+Paul George,2,6,12,0,Turnaround Fadeaway Bank Jump Shot,13,-128,31,True
+Paul George,3,5,30,1,Turnaround Fadeaway shot,13,-95,91,True
+Paul George,3,1,12,0,Turnaround Fadeaway shot,20,-147,143,True
+Paul George,3,9,59,1,Turnaround Fadeaway shot,8,49,75,True
+Paul George,3,10,14,0,Turnaround Fadeaway shot,12,120,22,True
+Paul George,1,11,9,0,Turnaround Fadeaway shot,14,130,70,True
+Paul George,1,11,2,0,Turnaround Fadeaway shot,8,11,82,True
+Paul George,1,10,33,1,Turnaround Fadeaway shot,5,28,52,True
+Paul George,3,10,6,1,Turnaround Jump Shot,10,58,88,True
+Paul George,2,3,1,0,Turnaround Jump Shot,19,199,0,True
+Paul George,3,10,37,0,Turnaround Jump Shot,10,-9,100,True
+Paul George,3,1,33,1,Turnaround Jump Shot,1,4,17,True
+Paul George,4,0,16,1,Turnaround Jump Shot,24,90,233,False
+Paul George,3,5,48,0,Turnaround Jump Shot,13,130,48,True
+Paul George,3,1,48,1,Turnaround Jump Shot,12,4,121,True
+Paul George,2,10,43,1,Turnaround Jump Shot,15,-90,132,True
+Paul George,3,3,38,0,Turnaround Jump Shot,14,141,15,True
+Paul George,3,6,52,1,Turnaround Jump Shot,10,45,95,True
+Paul George,3,10,45,0,Turnaround Jump Shot,11,-107,32,True
+Paul George,3,3,19,1,Turnaround Jump Shot,6,-30,62,True
+Paul George,3,10,53,1,Turnaround Jump Shot,12,-111,55,True
+Paul George,4,1,9,0,Turnaround Jump Shot,12,123,20,True
+Paul George,1,6,37,0,Turnaround Jump Shot,9,90,6,True
+Paul George,4,5,55,1,Turnaround Jump Shot,6,-62,8,True
+Paul George,2,11,37,1,Turnaround Jump Shot,12,-120,-10,True
+Paul George,1,0,0,0,Turnaround Jump Shot,19,98,166,True
+Paul George,2,0,0,1,Turnaround Jump Shot,11,23,111,True

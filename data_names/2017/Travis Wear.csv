@@ -1,0 +1,54 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Travis Wear,2,10,26,1,Fadeaway Jump Shot,12,-66,101,True
+Travis Wear,1,0,56,0,Floating Jump shot,12,68,104,True
+Travis Wear,2,9,20,1,Jump Bank Shot,27,159,219,False
+Travis Wear,4,9,41,0,Jump Shot,24,176,172,False
+Travis Wear,4,9,29,0,Jump Shot,26,135,223,False
+Travis Wear,2,9,37,0,Jump Shot,26,166,211,False
+Travis Wear,2,11,12,0,Jump Shot,26,-201,171,False
+Travis Wear,1,2,50,1,Jump Shot,23,229,69,False
+Travis Wear,3,0,24,0,Jump Shot,21,125,173,True
+Travis Wear,4,11,47,1,Jump Shot,24,105,226,False
+Travis Wear,4,10,47,1,Jump Shot,25,143,206,False
+Travis Wear,2,11,17,0,Jump Shot,25,-141,218,False
+Travis Wear,3,1,59,0,Jump Shot,26,172,208,False
+Travis Wear,2,10,4,1,Jump Shot,26,-159,210,False
+Travis Wear,4,9,17,0,Jump Shot,25,-152,201,False
+Travis Wear,2,0,37,0,Jump Shot,25,148,204,False
+Travis Wear,4,4,9,1,Jump Shot,21,169,127,True
+Travis Wear,4,10,8,1,Jump Shot,23,226,58,False
+Travis Wear,4,6,30,0,Jump Shot,25,172,188,False
+Travis Wear,2,6,4,0,Jump Shot,24,237,40,False
+Travis Wear,2,3,14,0,Jump Shot,25,-160,204,False
+Travis Wear,4,11,20,0,Jump Shot,26,225,131,False
+Travis Wear,4,1,39,0,Jump Shot,18,-188,22,True
+Travis Wear,2,10,32,1,Jump Shot,25,-196,159,False
+Travis Wear,2,10,57,0,Jump Shot,24,228,75,False
+Travis Wear,2,9,5,1,Jump Shot,15,152,14,True
+Travis Wear,2,10,43,0,Jump Shot,25,-199,153,False
+Travis Wear,2,9,15,0,Jump Shot,21,-218,8,False
+Travis Wear,2,10,34,0,Jump Shot,25,120,230,False
+Travis Wear,2,4,18,1,Jump Shot,26,165,201,False
+Travis Wear,2,11,7,1,Jump Shot,25,-147,207,False
+Travis Wear,2,3,42,0,Jump Shot,25,-116,228,False
+Travis Wear,3,0,28,0,Jump Shot,25,149,208,False
+Travis Wear,4,7,59,0,Jump Shot,25,-203,157,False
+Travis Wear,1,0,55,0,Jump Shot,27,-125,247,False
+Travis Wear,2,11,16,1,Jump Shot,24,234,63,False
+Travis Wear,4,10,48,0,Jump Shot,11,119,1,True
+Travis Wear,3,1,32,0,Jump Shot,26,-212,159,False
+Travis Wear,1,3,43,1,Jump Shot,26,119,237,False
+Travis Wear,4,4,47,1,Pullup Jump shot,20,3,205,True
+Travis Wear,4,9,38,0,Pullup Jump shot,15,73,142,True
+Travis Wear,4,11,49,0,Pullup Jump shot,19,126,153,True
+Travis Wear,2,9,1,1,Pullup Jump shot,19,-134,142,True
+Travis Wear,2,5,37,1,Running Jump Shot,23,116,202,True
+Travis Wear,2,2,42,0,Running Jump Shot,22,19,221,True
+Travis Wear,3,0,39,0,Running Pull-Up Jump Shot,18,-94,158,True
+Travis Wear,2,1,25,0,Running Pull-Up Jump Shot,26,-149,224,False
+Travis Wear,2,9,38,1,Step Back Jump shot,26,180,197,False
+Travis Wear,4,9,10,1,Turnaround Fadeaway shot,14,-97,108,True
+Travis Wear,4,2,27,0,Turnaround Jump Shot,19,167,105,True
+Travis Wear,2,0,1,0,Turnaround Jump Shot,16,169,14,True
+Travis Wear,2,11,12,0,Turnaround Jump Shot,16,139,90,True
+Travis Wear,4,11,13,0,Turnaround Jump Shot,13,-46,128,True

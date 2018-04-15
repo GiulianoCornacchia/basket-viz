@@ -1,0 +1,23 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Damian Jones,4,1,5,1,Alley Oop Dunk Shot,0,-2,1,True
+Damian Jones,2,2,40,1,Alley Oop Dunk Shot,0,5,7,True
+Damian Jones,4,5,7,1,Alley Oop Dunk Shot,1,-1,16,True
+Damian Jones,3,2,36,0,Alley Oop Layup shot,2,-22,0,True
+Damian Jones,4,0,29,0,Alley Oop Layup shot,3,0,34,True
+Damian Jones,3,0,54,0,Driving Dunk Shot,1,0,11,True
+Damian Jones,4,0,20,1,Driving Dunk Shot,1,6,15,True
+Damian Jones,1,0,11,1,Driving Layup Shot,2,17,14,True
+Damian Jones,3,2,29,1,Dunk Shot,0,5,5,True
+Damian Jones,2,3,2,0,Floating Jump shot,13,-14,136,True
+Damian Jones,4,1,48,0,Hook Shot,5,39,34,True
+Damian Jones,4,3,38,0,Jump Shot,19,192,42,True
+Damian Jones,4,2,52,0,Jump Shot,17,5,172,True
+Damian Jones,4,0,42,0,Jump Shot,22,6,221,True
+Damian Jones,4,3,45,0,Jump Shot,19,-105,167,True
+Damian Jones,1,0,33,0,Jump Shot,3,36,8,True
+Damian Jones,3,4,15,1,Layup Shot,1,5,15,True
+Damian Jones,4,11,34,1,Layup Shot,3,0,39,True
+Damian Jones,2,0,7,0,Layup Shot,3,-26,26,True
+Damian Jones,4,4,44,1,Reverse Layup Shot,0,6,1,True
+Damian Jones,4,2,4,1,Reverse Layup Shot,0,-2,0,True
+Damian Jones,4,3,37,1,Turnaround Fadeaway shot,9,84,46,True

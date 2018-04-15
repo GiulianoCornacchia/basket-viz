@@ -1,0 +1,21 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Andrew Bogut,2,8,54,1,Cutting Dunk Shot,0,2,1,True
+Andrew Bogut,1,7,32,1,Cutting Finger Roll Layup Shot,2,3,21,True
+Andrew Bogut,3,7,19,1,Finger Roll Layup Shot,1,-5,10,True
+Andrew Bogut,2,10,9,1,Floating Jump shot,6,6,68,True
+Andrew Bogut,2,8,50,0,Hook Shot,7,41,63,True
+Andrew Bogut,1,6,51,0,Hook Shot,10,6,109,True
+Andrew Bogut,3,1,3,0,Hook Shot,8,-7,89,True
+Andrew Bogut,3,0,1,1,Jump Shot,18,73,167,True
+Andrew Bogut,3,0,44,1,Layup Shot,0,0,8,True
+Andrew Bogut,3,10,26,1,Tip Dunk Shot,0,0,-6,True
+Andrew Bogut,2,8,14,0,Tip Layup Shot,0,0,-6,True
+Andrew Bogut,2,9,42,1,Tip Layup Shot,0,0,-6,True
+Andrew Bogut,2,8,33,1,Tip Layup Shot,0,0,-6,True
+Andrew Bogut,3,10,44,0,Tip Layup Shot,0,0,-6,True
+Andrew Bogut,3,10,42,1,Tip Layup Shot,0,0,-6,True
+Andrew Bogut,2,9,16,1,Tip Layup Shot,0,0,-6,True
+Andrew Bogut,2,2,36,1,Tip Layup Shot,0,0,-6,True
+Andrew Bogut,3,2,35,1,Tip Layup Shot,0,0,-6,True
+Andrew Bogut,2,7,10,0,Tip Layup Shot,0,0,-6,True
+Andrew Bogut,1,10,56,1,Turnaround Hook Shot,6,-58,37,True

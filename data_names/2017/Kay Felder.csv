@@ -1,0 +1,71 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Kay Felder,4,0,46,0,Alley Oop Dunk Shot,1,-11,6,True
+Kay Felder,2,2,28,1,Driving Bank Hook Shot,6,-59,27,True
+Kay Felder,3,0,24,1,Driving Finger Roll Layup Shot,1,-6,11,True
+Kay Felder,2,7,56,0,Driving Floating Bank Jump Shot,7,67,37,True
+Kay Felder,2,9,16,1,Driving Floating Jump Shot,3,11,32,True
+Kay Felder,4,11,3,0,Driving Floating Jump Shot,9,6,95,True
+Kay Felder,4,2,54,0,Driving Layup Shot,1,-11,11,True
+Kay Felder,3,0,48,0,Driving Layup Shot,4,-39,29,True
+Kay Felder,4,9,3,0,Driving Layup Shot,9,-2,94,True
+Kay Felder,4,6,38,1,Driving Layup Shot,6,55,36,True
+Kay Felder,3,1,15,0,Driving Layup Shot,2,11,17,True
+Kay Felder,4,8,4,0,Driving Layup Shot,2,26,4,True
+Kay Felder,2,8,53,1,Floating Jump shot,11,65,100,True
+Kay Felder,4,1,31,0,Floating Jump shot,9,70,65,True
+Kay Felder,4,1,7,1,Floating Jump shot,11,-20,116,True
+Kay Felder,4,0,6,0,Floating Jump shot,5,-14,55,True
+Kay Felder,2,1,0,1,Jump Shot,15,60,147,True
+Kay Felder,4,0,35,0,Jump Shot,26,138,222,False
+Kay Felder,4,2,1,0,Jump Shot,18,51,180,True
+Kay Felder,4,1,49,0,Jump Shot,26,-199,168,False
+Kay Felder,4,3,41,1,Jump Shot,21,0,215,True
+Kay Felder,4,0,58,0,Jump Shot,18,71,173,True
+Kay Felder,4,2,10,0,Jump Shot,26,-114,244,False
+Kay Felder,1,1,31,0,Jump Shot,24,172,180,False
+Kay Felder,4,1,46,0,Jump Shot,24,-141,206,False
+Kay Felder,4,8,44,0,Jump Shot,16,165,26,True
+Kay Felder,4,8,4,0,Jump Shot,27,-98,256,False
+Kay Felder,4,9,18,0,Jump Shot,18,-120,139,True
+Kay Felder,2,6,44,0,Jump Shot,15,115,111,True
+Kay Felder,4,0,12,0,Jump Shot,26,-153,211,False
+Kay Felder,4,5,13,0,Jump Shot,26,176,204,False
+Kay Felder,2,9,54,0,Jump Shot,18,119,137,True
+Kay Felder,2,10,57,1,Jump Shot,15,-152,21,True
+Kay Felder,4,11,24,0,Jump Shot,25,210,141,False
+Kay Felder,2,10,22,0,Jump Shot,25,-111,233,False
+Kay Felder,2,8,42,0,Jump Shot,28,168,226,False
+Kay Felder,2,10,57,1,Jump Shot,24,-38,246,False
+Kay Felder,1,2,25,1,Jump Shot,19,93,174,True
+Kay Felder,1,0,41,0,Jump Shot,26,177,197,False
+Kay Felder,2,9,34,1,Jump Shot,22,-227,-21,False
+Kay Felder,1,1,1,0,Jump Shot,12,-122,25,True
+Kay Felder,4,1,54,1,Jump Shot,20,-47,197,True
+Kay Felder,2,7,54,0,Jump Shot,21,-96,189,True
+Kay Felder,3,1,24,0,Jump Shot,20,35,204,True
+Kay Felder,2,3,41,0,Jump Shot,19,-103,167,True
+Kay Felder,2,8,11,0,Layup Shot,0,2,-2,True
+Kay Felder,1,1,51,1,Layup Shot,0,7,6,True
+Kay Felder,4,9,43,0,Layup Shot,3,-17,25,True
+Kay Felder,1,0,0,0,Layup Shot,1,-19,1,True
+Kay Felder,2,9,26,1,Layup Shot,2,19,15,True
+Kay Felder,3,2,41,0,Layup Shot,1,-19,3,True
+Kay Felder,4,11,7,0,Layup Shot,3,22,27,True
+Kay Felder,2,11,34,1,Pullup Jump shot,20,-73,193,True
+Kay Felder,4,1,45,0,Pullup Jump shot,26,-11,263,False
+Kay Felder,2,5,53,1,Pullup Jump shot,18,-80,171,True
+Kay Felder,4,1,23,0,Pullup Jump shot,18,66,174,True
+Kay Felder,4,11,28,0,Pullup Jump shot,18,-182,-9,True
+Kay Felder,3,3,29,0,Pullup Jump shot,17,-105,142,True
+Kay Felder,2,7,46,0,Pullup Jump shot,17,-76,159,True
+Kay Felder,3,2,20,1,Pullup Jump shot,20,-47,204,True
+Kay Felder,3,1,44,0,Pullup Jump shot,14,2,144,True
+Kay Felder,2,8,22,0,Pullup Jump shot,17,131,121,True
+Kay Felder,4,10,44,0,Pullup Jump shot,14,116,92,True
+Kay Felder,4,5,30,1,Pullup Jump shot,27,-6,270,False
+Kay Felder,2,9,18,1,Running Finger Roll Layup Shot,1,-4,14,True
+Kay Felder,4,7,16,0,Running Layup Shot,4,-33,27,True
+Kay Felder,3,0,0,0,Running Pull-Up Jump Shot,25,146,205,False
+Kay Felder,2,1,20,0,Running Pull-Up Jump Shot,25,132,220,False
+Kay Felder,4,4,46,0,Step Back Jump shot,17,112,131,True
+Kay Felder,2,6,47,1,Step Back Jump shot,23,234,-7,False

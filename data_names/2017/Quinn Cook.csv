@@ -1,0 +1,219 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Quinn Cook,3,5,47,1,Cutting Finger Roll Layup Shot,1,9,5,True
+Quinn Cook,4,4,50,1,Cutting Layup Shot,2,16,16,True
+Quinn Cook,3,10,39,0,Cutting Layup Shot,1,6,14,True
+Quinn Cook,2,7,59,0,Cutting Layup Shot,1,8,17,True
+Quinn Cook,4,5,44,1,Cutting Layup Shot,1,6,13,True
+Quinn Cook,3,3,57,1,Cutting Layup Shot,2,16,17,True
+Quinn Cook,4,2,54,1,Cutting Layup Shot,1,3,13,True
+Quinn Cook,4,3,27,1,Cutting Layup Shot,1,-11,16,True
+Quinn Cook,3,11,28,0,Cutting Layup Shot,2,9,26,True
+Quinn Cook,1,6,31,1,Driving Finger Roll Layup Shot,1,11,16,True
+Quinn Cook,1,1,19,0,Driving Floating Bank Jump Shot,8,76,45,True
+Quinn Cook,3,3,4,0,Driving Floating Bank Jump Shot,6,-67,12,True
+Quinn Cook,3,7,34,1,Driving Floating Jump Shot,7,8,73,True
+Quinn Cook,2,5,41,1,Driving Floating Jump Shot,10,-12,107,True
+Quinn Cook,4,2,55,1,Driving Floating Jump Shot,5,0,58,True
+Quinn Cook,2,2,42,0,Driving Floating Jump Shot,13,22,136,True
+Quinn Cook,4,5,18,0,Driving Layup Shot,2,-20,17,True
+Quinn Cook,3,4,35,0,Driving Layup Shot,1,11,13,True
+Quinn Cook,2,0,55,0,Driving Layup Shot,4,-4,48,True
+Quinn Cook,2,1,42,0,Driving Layup Shot,1,12,13,True
+Quinn Cook,1,3,8,1,Driving Layup Shot,1,11,0,True
+Quinn Cook,4,0,25,1,Driving Layup Shot,1,-6,14,True
+Quinn Cook,4,1,11,0,Driving Layup Shot,2,8,25,True
+Quinn Cook,3,1,6,1,Driving Reverse Layup Shot,2,10,18,True
+Quinn Cook,4,2,17,1,Driving Reverse Layup Shot,1,-16,-1,True
+Quinn Cook,2,3,0,1,Fadeaway Jump Shot,17,172,14,True
+Quinn Cook,4,0,52,1,Fadeaway Jump Shot,22,-201,95,True
+Quinn Cook,4,6,6,0,Fadeaway Jump Shot,15,101,122,True
+Quinn Cook,4,2,57,0,Fadeaway Jump Shot,0,0,1,True
+Quinn Cook,1,10,29,1,Fadeaway Jump Shot,11,57,104,True
+Quinn Cook,1,8,10,1,Fadeaway Jump Shot,17,115,137,True
+Quinn Cook,1,1,57,1,Finger Roll Layup Shot,2,-16,20,True
+Quinn Cook,4,9,1,0,Floating Jump shot,10,-52,91,True
+Quinn Cook,3,0,8,0,Floating Jump shot,11,19,109,True
+Quinn Cook,4,0,7,1,Hook Shot,2,6,29,True
+Quinn Cook,1,8,9,0,Jump Shot,25,161,200,False
+Quinn Cook,2,0,51,0,Jump Shot,11,60,94,True
+Quinn Cook,3,11,7,1,Jump Shot,23,-234,18,False
+Quinn Cook,3,6,20,0,Jump Shot,27,-224,155,False
+Quinn Cook,1,2,44,0,Jump Shot,25,-123,225,False
+Quinn Cook,3,2,9,0,Jump Shot,26,187,185,False
+Quinn Cook,4,2,58,1,Jump Shot,26,-101,244,False
+Quinn Cook,4,2,17,0,Jump Shot,12,-122,17,True
+Quinn Cook,3,4,50,1,Jump Shot,25,-189,171,False
+Quinn Cook,3,3,36,0,Jump Shot,22,-223,-8,False
+Quinn Cook,1,4,11,0,Jump Shot,19,-152,127,True
+Quinn Cook,2,1,25,0,Jump Shot,26,-200,172,False
+Quinn Cook,3,2,2,0,Jump Shot,26,161,208,False
+Quinn Cook,4,0,17,0,Jump Shot,27,-207,178,False
+Quinn Cook,1,3,12,1,Jump Shot,22,-228,-8,False
+Quinn Cook,1,6,31,0,Jump Shot,19,12,198,True
+Quinn Cook,1,7,8,0,Jump Shot,25,-206,143,False
+Quinn Cook,3,4,31,1,Jump Shot,25,-31,256,False
+Quinn Cook,2,0,21,0,Jump Shot,22,228,0,False
+Quinn Cook,3,5,40,1,Jump Shot,18,59,175,True
+Quinn Cook,1,8,8,0,Jump Shot,7,24,71,True
+Quinn Cook,3,6,15,1,Jump Shot,25,-119,229,False
+Quinn Cook,1,2,18,0,Jump Shot,22,223,52,False
+Quinn Cook,3,7,31,0,Jump Shot,24,-21,247,False
+Quinn Cook,1,10,40,0,Jump Shot,24,230,84,False
+Quinn Cook,4,2,34,0,Jump Shot,24,-80,236,False
+Quinn Cook,4,3,2,1,Jump Shot,22,-227,15,False
+Quinn Cook,4,5,17,0,Jump Shot,17,144,103,True
+Quinn Cook,2,1,57,0,Jump Shot,21,-11,216,True
+Quinn Cook,2,7,58,1,Jump Shot,17,130,114,True
+Quinn Cook,2,0,42,0,Jump Shot,15,2,157,True
+Quinn Cook,2,9,32,0,Jump Shot,26,77,255,False
+Quinn Cook,1,5,25,1,Jump Shot,24,-10,247,False
+Quinn Cook,1,5,56,0,Jump Shot,24,-37,245,False
+Quinn Cook,3,11,41,0,Jump Shot,25,-62,244,False
+Quinn Cook,1,2,45,0,Jump Shot,25,57,252,False
+Quinn Cook,1,9,46,0,Jump Shot,26,180,197,False
+Quinn Cook,2,0,36,0,Jump Shot,26,114,234,False
+Quinn Cook,4,1,21,0,Jump Shot,25,96,235,False
+Quinn Cook,3,5,1,1,Jump Shot,22,106,195,True
+Quinn Cook,1,6,15,1,Jump Shot,16,161,-42,True
+Quinn Cook,1,3,50,1,Jump Shot,25,188,171,False
+Quinn Cook,1,1,41,0,Jump Shot,20,174,115,True
+Quinn Cook,1,7,22,1,Jump Shot,23,-230,-20,False
+Quinn Cook,3,9,23,1,Jump Shot,25,-99,235,False
+Quinn Cook,2,3,38,0,Jump Shot,24,-135,209,False
+Quinn Cook,2,7,28,0,Jump Shot,14,87,116,True
+Quinn Cook,1,9,44,1,Jump Shot,23,-229,28,False
+Quinn Cook,3,11,44,0,Jump Shot,26,157,215,False
+Quinn Cook,4,8,9,1,Jump Shot,27,84,257,False
+Quinn Cook,4,6,40,0,Jump Shot,26,92,252,False
+Quinn Cook,1,3,13,1,Jump Shot,23,218,91,False
+Quinn Cook,2,1,33,1,Jump Shot,24,-185,159,False
+Quinn Cook,1,6,50,0,Jump Shot,24,-206,138,False
+Quinn Cook,4,1,26,0,Jump Shot,26,65,258,False
+Quinn Cook,3,1,37,0,Jump Shot,25,-166,198,False
+Quinn Cook,3,3,31,0,Jump Shot,18,-84,166,True
+Quinn Cook,2,9,46,0,Jump Shot,23,-224,71,False
+Quinn Cook,4,4,35,0,Jump Shot,11,-82,74,True
+Quinn Cook,4,2,40,1,Jump Shot,26,139,222,False
+Quinn Cook,4,4,31,0,Jump Shot,7,79,-11,True
+Quinn Cook,4,0,38,1,Jump Shot,30,89,287,False
+Quinn Cook,4,0,34,0,Jump Shot,12,0,129,True
+Quinn Cook,3,4,16,0,Jump Shot,25,121,227,False
+Quinn Cook,1,8,34,0,Jump Shot,18,-103,157,True
+Quinn Cook,3,4,44,0,Jump Shot,25,177,189,False
+Quinn Cook,3,6,11,1,Jump Shot,25,-20,257,False
+Quinn Cook,4,1,15,0,Jump Shot,25,-187,177,False
+Quinn Cook,3,1,24,1,Jump Shot,21,125,173,True
+Quinn Cook,1,2,7,0,Jump Shot,25,-156,199,False
+Quinn Cook,3,2,3,0,Jump Shot,26,214,149,False
+Quinn Cook,3,0,0,1,Jump Shot,26,-229,130,False
+Quinn Cook,2,5,3,1,Jump Shot,22,-222,4,False
+Quinn Cook,1,6,16,0,Jump Shot,28,-82,274,False
+Quinn Cook,3,6,48,0,Jump Shot,25,-186,178,False
+Quinn Cook,1,5,41,1,Jump Shot,23,235,14,False
+Quinn Cook,1,7,54,0,Jump Shot,20,56,199,True
+Quinn Cook,1,3,23,0,Jump Shot,22,227,28,False
+Quinn Cook,1,2,50,1,Layup Shot,1,-10,15,True
+Quinn Cook,4,3,14,0,Layup Shot,3,-17,28,True
+Quinn Cook,1,9,33,0,Layup Shot,1,11,16,True
+Quinn Cook,3,8,54,0,Layup Shot,0,3,8,True
+Quinn Cook,4,0,27,0,Layup Shot,2,0,29,True
+Quinn Cook,3,9,48,0,Layup Shot,2,12,25,True
+Quinn Cook,4,3,54,1,Layup Shot,1,7,13,True
+Quinn Cook,1,3,10,1,Layup Shot,2,-13,17,True
+Quinn Cook,2,8,39,0,Layup Shot,2,4,26,True
+Quinn Cook,1,4,1,0,Layup Shot,3,8,39,True
+Quinn Cook,1,0,38,1,Layup Shot,5,56,20,True
+Quinn Cook,3,3,55,1,Pullup Jump shot,15,57,148,True
+Quinn Cook,3,4,57,0,Pullup Jump shot,11,20,113,True
+Quinn Cook,3,4,10,0,Pullup Jump shot,24,81,236,False
+Quinn Cook,2,3,0,1,Pullup Jump shot,20,-64,200,True
+Quinn Cook,3,2,54,1,Pullup Jump shot,26,-79,256,False
+Quinn Cook,4,4,5,0,Pullup Jump shot,18,112,146,True
+Quinn Cook,3,8,43,0,Pullup Jump shot,19,-173,88,True
+Quinn Cook,2,2,15,1,Pullup Jump shot,27,-14,278,False
+Quinn Cook,3,7,17,1,Pullup Jump shot,22,-136,173,True
+Quinn Cook,3,1,19,1,Pullup Jump shot,11,44,107,True
+Quinn Cook,2,2,43,1,Pullup Jump shot,12,73,98,True
+Quinn Cook,1,6,29,1,Pullup Jump shot,27,42,268,False
+Quinn Cook,4,0,10,1,Pullup Jump shot,19,116,155,True
+Quinn Cook,1,3,59,1,Pullup Jump shot,20,-101,173,True
+Quinn Cook,2,0,3,0,Pullup Jump shot,13,-12,130,True
+Quinn Cook,2,3,20,1,Pullup Jump shot,26,-148,222,False
+Quinn Cook,4,5,47,0,Pullup Jump shot,28,-18,288,False
+Quinn Cook,4,9,1,1,Pullup Jump shot,27,144,234,False
+Quinn Cook,2,6,45,0,Pullup Jump shot,19,-139,140,True
+Quinn Cook,1,8,19,1,Pullup Jump shot,27,-171,220,False
+Quinn Cook,3,9,55,1,Pullup Jump shot,25,68,246,False
+Quinn Cook,4,5,53,1,Pullup Jump shot,20,-9,200,True
+Quinn Cook,2,0,5,0,Pullup Jump shot,27,13,270,False
+Quinn Cook,1,2,41,0,Pullup Jump shot,27,68,264,False
+Quinn Cook,4,5,43,0,Pullup Jump shot,17,41,169,True
+Quinn Cook,1,3,41,1,Pullup Jump shot,19,127,151,True
+Quinn Cook,4,2,51,1,Pullup Jump shot,25,65,249,False
+Quinn Cook,2,1,59,0,Pullup Jump shot,13,55,122,True
+Quinn Cook,1,11,10,0,Pullup Jump shot,19,28,193,True
+Quinn Cook,2,1,48,1,Pullup Jump shot,23,227,48,False
+Quinn Cook,1,7,53,1,Pullup Jump shot,19,-92,167,True
+Quinn Cook,3,6,52,0,Pullup Jump shot,21,-109,189,True
+Quinn Cook,3,9,16,0,Pullup Jump shot,26,198,176,False
+Quinn Cook,4,2,4,1,Pullup Jump shot,26,169,202,False
+Quinn Cook,3,4,5,1,Pullup Jump shot,25,-198,159,False
+Quinn Cook,1,9,2,1,Pullup Jump shot,26,-5,263,False
+Quinn Cook,3,11,19,0,Pullup Jump shot,8,-58,60,True
+Quinn Cook,3,2,58,1,Pullup Jump shot,27,-193,191,False
+Quinn Cook,3,0,0,0,Pullup Jump shot,11,-4,113,True
+Quinn Cook,1,0,4,1,Pullup Jump shot,18,85,168,True
+Quinn Cook,2,5,1,1,Pullup Jump shot,18,123,143,True
+Quinn Cook,4,0,3,0,Pullup Jump shot,25,-81,245,False
+Quinn Cook,3,8,20,1,Pullup Jump shot,13,32,126,True
+Quinn Cook,2,4,1,1,Pullup Jump shot,15,-105,120,True
+Quinn Cook,3,6,33,0,Pullup Jump shot,18,19,179,True
+Quinn Cook,1,8,31,0,Pullup Jump shot,20,40,198,True
+Quinn Cook,4,3,58,0,Pullup Jump shot,24,113,223,False
+Quinn Cook,3,1,49,1,Pullup Jump shot,26,144,225,False
+Quinn Cook,2,0,55,0,Pullup Jump shot,10,18,99,True
+Quinn Cook,4,3,37,0,Pullup Jump shot,25,-140,213,False
+Quinn Cook,1,4,10,0,Pullup Jump shot,25,-65,250,False
+Quinn Cook,2,2,56,1,Pullup Jump shot,25,32,256,False
+Quinn Cook,1,10,11,1,Pullup Jump shot,20,101,176,True
+Quinn Cook,3,9,48,1,Pullup Jump shot,12,29,118,True
+Quinn Cook,1,1,0,1,Pullup Jump shot,27,-16,273,False
+Quinn Cook,3,1,6,1,Pullup Jump shot,21,125,169,True
+Quinn Cook,2,5,14,1,Pullup Jump shot,25,159,205,False
+Quinn Cook,2,5,25,1,Pullup Jump shot,18,79,167,True
+Quinn Cook,4,0,15,0,Pullup Jump shot,16,20,165,True
+Quinn Cook,3,2,18,1,Pullup Jump shot,26,120,239,False
+Quinn Cook,3,9,54,0,Pullup Jump shot,10,57,94,True
+Quinn Cook,3,1,41,1,Pullup Jump shot,14,103,106,True
+Quinn Cook,1,7,46,1,Pullup Jump shot,27,-92,257,False
+Quinn Cook,4,0,28,0,Running Finger Roll Layup Shot,1,3,15,True
+Quinn Cook,3,4,4,1,Running Jump Shot,24,218,112,False
+Quinn Cook,2,2,48,0,Running Jump Shot,26,127,232,False
+Quinn Cook,4,2,3,1,Running Jump Shot,18,119,142,True
+Quinn Cook,3,0,1,1,Running Layup Shot,0,9,1,True
+Quinn Cook,2,3,44,0,Running Layup Shot,2,22,11,True
+Quinn Cook,3,0,26,0,Running Layup Shot,1,-2,18,True
+Quinn Cook,2,2,30,1,Running Layup Shot,1,-1,15,True
+Quinn Cook,1,5,6,1,Running Layup Shot,2,9,20,True
+Quinn Cook,3,0,7,1,Running Layup Shot,0,-3,4,True
+Quinn Cook,2,3,32,1,Running Layup Shot,1,14,11,True
+Quinn Cook,4,4,6,0,Running Layup Shot,2,17,14,True
+Quinn Cook,2,8,39,1,Running Layup Shot,1,8,6,True
+Quinn Cook,1,10,37,1,Running Layup Shot,2,-7,29,True
+Quinn Cook,3,6,14,1,Running Layup Shot,2,5,26,True
+Quinn Cook,1,10,19,1,Running Pull-Up Jump Shot,27,193,197,False
+Quinn Cook,3,3,34,1,Running Pull-Up Jump Shot,25,156,205,False
+Quinn Cook,4,0,35,1,Running Pull-Up Jump Shot,26,3,264,False
+Quinn Cook,4,11,27,0,Running Pull-Up Jump Shot,25,-214,145,False
+Quinn Cook,4,5,58,1,Running Reverse Layup Shot,2,17,19,True
+Quinn Cook,1,5,1,0,Step Back Jump shot,18,85,164,True
+Quinn Cook,4,0,13,1,Step Back Jump shot,19,198,18,True
+Quinn Cook,3,7,43,1,Step Back Jump shot,13,-63,120,True
+Quinn Cook,4,5,53,1,Step Back Jump shot,26,-207,162,False
+Quinn Cook,4,1,4,1,Step Back Jump shot,11,119,6,True
+Quinn Cook,4,0,11,1,Turnaround Fadeaway Bank Jump Shot,11,7,116,True
+Quinn Cook,2,1,23,1,Turnaround Fadeaway Bank Jump Shot,5,-52,11,True
+Quinn Cook,4,7,52,1,Turnaround Fadeaway shot,10,6,108,True
+Quinn Cook,3,4,37,1,Turnaround Fadeaway shot,9,-95,30,True
+Quinn Cook,4,4,11,0,Turnaround Fadeaway shot,8,-83,23,True
+Quinn Cook,3,2,36,1,Turnaround Jump Shot,9,95,6,True

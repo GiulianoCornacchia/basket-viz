@@ -1,0 +1,15 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Alfonzo McKinnie,4,2,41,1,Driving Layup Shot,1,3,14,True
+Alfonzo McKinnie,4,2,27,1,Jump Shot,22,-226,16,False
+Alfonzo McKinnie,4,0,45,0,Jump Shot,26,-153,214,False
+Alfonzo McKinnie,4,5,26,0,Jump Shot,23,-230,7,False
+Alfonzo McKinnie,4,2,32,0,Jump Shot,5,-47,20,True
+Alfonzo McKinnie,4,4,39,0,Jump Shot,25,110,225,False
+Alfonzo McKinnie,4,2,3,0,Jump Shot,23,-233,11,False
+Alfonzo McKinnie,4,0,23,0,Jump Shot,22,228,-8,False
+Alfonzo McKinnie,4,0,40,1,Jump Shot,23,-234,31,False
+Alfonzo McKinnie,4,3,19,1,Layup Shot,6,-47,47,True
+Alfonzo McKinnie,4,0,12,1,Pullup Jump shot,26,-161,216,False
+Alfonzo McKinnie,4,5,24,1,Pullup Jump shot,17,1,179,True
+Alfonzo McKinnie,4,7,11,1,Putback Dunk Shot,0,0,-6,True
+Alfonzo McKinnie,4,7,11,1,Turnaround Fadeaway Bank Jump Shot,6,60,29,True

@@ -1,0 +1,32 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Nigel Hayes,4,0,8,1,Driving Finger Roll Layup Shot,1,11,7,True
+Nigel Hayes,4,8,28,0,Driving Floating Jump Shot,4,3,48,True
+Nigel Hayes,4,10,43,0,Driving Layup Shot,2,-7,22,True
+Nigel Hayes,2,1,47,0,Fadeaway Jump Shot,9,-3,91,True
+Nigel Hayes,1,4,25,1,Jump Shot,17,121,131,True
+Nigel Hayes,1,7,29,1,Jump Shot,23,234,29,False
+Nigel Hayes,1,8,14,1,Jump Shot,13,-114,80,True
+Nigel Hayes,3,5,28,0,Jump Shot,17,-157,88,True
+Nigel Hayes,3,3,9,0,Jump Shot,17,-107,141,True
+Nigel Hayes,4,8,1,0,Jump Shot,24,90,226,False
+Nigel Hayes,3,0,18,0,Jump Shot,26,117,237,False
+Nigel Hayes,3,2,59,1,Jump Shot,21,-188,96,True
+Nigel Hayes,2,9,4,0,Jump Shot,24,225,104,False
+Nigel Hayes,1,2,21,1,Jump Shot,14,117,85,True
+Nigel Hayes,4,5,26,0,Jump Shot,23,-230,20,False
+Nigel Hayes,2,6,33,0,Jump Shot,23,-234,24,False
+Nigel Hayes,1,1,11,0,Jump Shot,23,-237,22,False
+Nigel Hayes,3,3,42,0,Jump Shot,14,10,147,True
+Nigel Hayes,3,2,45,1,Jump Shot,22,-227,10,False
+Nigel Hayes,1,1,21,0,Jump Shot,24,174,169,False
+Nigel Hayes,4,0,14,0,Jump Shot,22,-228,2,False
+Nigel Hayes,2,6,8,1,Jump Shot,19,-179,78,True
+Nigel Hayes,3,1,19,0,Jump Shot,26,-60,254,False
+Nigel Hayes,1,5,39,0,Jump Shot,24,3,245,False
+Nigel Hayes,3,3,3,0,Jump Shot,17,-106,142,True
+Nigel Hayes,3,3,32,0,Jump Shot,24,-65,236,False
+Nigel Hayes,3,1,20,0,Jump Shot,22,-227,10,False
+Nigel Hayes,3,1,15,0,Layup Shot,1,7,9,True
+Nigel Hayes,1,4,13,0,Turnaround Jump Shot,2,-11,21,True
+Nigel Hayes,1,3,36,1,Turnaround Jump Shot,14,-122,80,True
+Nigel Hayes,2,0,0,0,Turnaround Jump Shot,18,-91,162,True

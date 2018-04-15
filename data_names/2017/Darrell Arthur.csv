@@ -1,0 +1,44 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Darrell Arthur,4,11,50,1,Alley Oop Dunk Shot,1,-11,8,True
+Darrell Arthur,2,11,2,1,Cutting Layup Shot,1,8,6,True
+Darrell Arthur,2,10,54,1,Cutting Layup Shot,0,5,8,True
+Darrell Arthur,1,0,40,0,Driving Hook Shot,5,-7,54,True
+Darrell Arthur,1,0,29,0,Driving Layup Shot,3,36,17,True
+Darrell Arthur,2,0,14,0,Fadeaway Jump Shot,12,97,83,True
+Darrell Arthur,2,9,17,0,Jump Shot,23,-225,71,False
+Darrell Arthur,4,0,34,1,Jump Shot,22,-220,62,False
+Darrell Arthur,1,1,48,1,Jump Shot,22,-92,204,True
+Darrell Arthur,2,9,3,1,Jump Shot,24,-38,241,False
+Darrell Arthur,1,0,40,1,Jump Shot,21,34,216,True
+Darrell Arthur,4,10,48,0,Jump Shot,26,128,233,False
+Darrell Arthur,1,1,23,0,Jump Shot,28,85,268,False
+Darrell Arthur,1,1,58,0,Jump Shot,25,62,252,False
+Darrell Arthur,4,0,51,1,Jump Shot,28,-148,238,False
+Darrell Arthur,1,0,46,0,Jump Shot,12,122,43,True
+Darrell Arthur,3,1,8,0,Jump Shot,24,-65,237,False
+Darrell Arthur,4,9,56,1,Jump Shot,19,-199,19,True
+Darrell Arthur,4,9,33,0,Jump Shot,25,-84,237,False
+Darrell Arthur,2,11,45,0,Jump Shot,25,44,251,False
+Darrell Arthur,4,3,6,0,Jump Shot,24,-222,94,False
+Darrell Arthur,2,10,30,1,Jump Shot,25,-63,243,False
+Darrell Arthur,3,1,32,1,Jump Shot,24,22,245,False
+Darrell Arthur,4,9,16,1,Jump Shot,22,221,5,False
+Darrell Arthur,3,0,1,0,Jump Shot,23,-196,136,False
+Darrell Arthur,2,10,21,0,Jump Shot,22,-229,-6,False
+Darrell Arthur,3,0,58,1,Jump Shot,19,-173,90,True
+Darrell Arthur,1,7,55,1,Jump Shot,25,221,121,False
+Darrell Arthur,1,6,47,0,Jump Shot,23,-234,-21,False
+Darrell Arthur,1,11,23,1,Jump Shot,20,-90,184,True
+Darrell Arthur,4,1,41,0,Jump Shot,19,-50,190,True
+Darrell Arthur,4,4,7,0,Jump Shot,21,-92,190,True
+Darrell Arthur,4,10,18,0,Jump Shot,25,103,237,False
+Darrell Arthur,2,4,5,1,Layup Shot,2,-16,13,True
+Darrell Arthur,4,9,4,1,Layup Shot,1,1,16,True
+Darrell Arthur,1,1,2,1,Pullup Jump shot,19,-134,146,True
+Darrell Arthur,4,7,18,1,Pullup Jump shot,15,16,155,True
+Darrell Arthur,1,0,58,0,Step Back Jump shot,26,-159,206,False
+Darrell Arthur,2,11,33,1,Turnaround Fadeaway shot,14,-140,38,True
+Darrell Arthur,4,7,8,0,Turnaround Fadeaway shot,13,132,6,True
+Darrell Arthur,4,10,26,0,Turnaround Fadeaway shot,11,-112,11,True
+Darrell Arthur,1,4,42,1,Turnaround Hook Shot,1,0,16,True
+Darrell Arthur,3,8,47,0,Turnaround Jump Shot,8,-74,47,True

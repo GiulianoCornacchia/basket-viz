@@ -1,0 +1,19 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Gian Clavell,2,8,59,1,Jump Shot,22,223,44,False
+Gian Clavell,4,9,53,0,Jump Shot,26,187,190,False
+Gian Clavell,4,0,45,1,Jump Shot,23,229,69,False
+Gian Clavell,4,2,50,1,Jump Shot,24,179,174,False
+Gian Clavell,4,0,1,0,Jump Shot,24,-187,163,False
+Gian Clavell,4,3,13,0,Jump Shot,25,123,222,False
+Gian Clavell,4,4,39,0,Jump Shot,24,9,246,False
+Gian Clavell,4,1,14,0,Jump Shot,22,226,33,False
+Gian Clavell,2,8,46,0,Jump Shot,22,-225,36,False
+Gian Clavell,4,9,26,0,Jump Shot,27,-131,243,False
+Gian Clavell,4,2,8,0,Jump Shot,10,102,-4,True
+Gian Clavell,4,11,35,1,Jump Shot,25,103,230,False
+Gian Clavell,2,9,8,0,Jump Shot,21,-101,193,True
+Gian Clavell,4,10,35,1,Jump Shot,23,227,64,False
+Gian Clavell,4,9,58,1,Jump Shot,25,210,139,False
+Gian Clavell,2,8,18,0,Jump Shot,23,227,64,False
+Gian Clavell,4,1,12,0,Step Back Jump shot,25,121,227,False
+Gian Clavell,2,11,46,0,Turnaround Fadeaway Bank Jump Shot,5,51,12,True

@@ -1,0 +1,75 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Johnathan Motley,3,3,23,1,Alley Oop Layup shot,2,-25,4,True
+Johnathan Motley,4,5,36,1,Alley Oop Layup shot,0,5,7,True
+Johnathan Motley,1,2,44,1,Alley Oop Layup shot,2,18,17,True
+Johnathan Motley,2,3,15,1,Cutting Dunk Shot,1,2,13,True
+Johnathan Motley,2,3,48,1,Driving Dunk Shot,2,6,21,True
+Johnathan Motley,1,5,27,1,Driving Dunk Shot,1,6,8,True
+Johnathan Motley,1,10,42,1,Driving Dunk Shot,0,-8,5,True
+Johnathan Motley,1,6,14,1,Driving Floating Jump Shot,4,-19,42,True
+Johnathan Motley,4,1,17,1,Driving Layup Shot,2,-14,15,True
+Johnathan Motley,4,5,55,0,Driving Layup Shot,2,26,13,True
+Johnathan Motley,4,2,3,0,Driving Layup Shot,4,27,41,True
+Johnathan Motley,3,9,43,1,Driving Layup Shot,3,29,13,True
+Johnathan Motley,1,6,50,0,Driving Layup Shot,3,20,31,True
+Johnathan Motley,2,2,10,1,Driving Layup Shot,2,20,5,True
+Johnathan Motley,2,5,51,0,Driving Layup Shot,5,38,41,True
+Johnathan Motley,4,1,57,1,Driving Layup Shot,2,-18,17,True
+Johnathan Motley,4,1,49,1,Driving Layup Shot,3,20,25,True
+Johnathan Motley,5,2,34,1,Driving Layup Shot,3,0,33,True
+Johnathan Motley,3,0,37,1,Driving Layup Shot,4,19,43,True
+Johnathan Motley,2,3,6,1,Dunk Shot,2,9,18,True
+Johnathan Motley,3,10,10,1,Fadeaway Jump Shot,12,4,126,True
+Johnathan Motley,4,6,31,1,Fadeaway Jump Shot,11,-45,101,True
+Johnathan Motley,4,6,13,0,Fadeaway Jump Shot,6,-63,10,True
+Johnathan Motley,1,7,8,0,Floating Jump shot,6,-15,61,True
+Johnathan Motley,4,5,15,1,Floating Jump shot,6,-11,62,True
+Johnathan Motley,4,1,12,0,Hook Shot,3,8,36,True
+Johnathan Motley,3,9,17,0,Hook Shot,6,66,19,True
+Johnathan Motley,1,9,2,1,Hook Shot,3,37,6,True
+Johnathan Motley,5,3,30,1,Jump Bank Shot,5,0,59,True
+Johnathan Motley,4,9,45,0,Jump Shot,23,-230,49,False
+Johnathan Motley,4,6,23,0,Jump Shot,25,6,259,False
+Johnathan Motley,1,3,9,0,Jump Shot,13,7,134,True
+Johnathan Motley,1,10,48,0,Jump Shot,7,73,-1,True
+Johnathan Motley,1,11,34,0,Jump Shot,24,-64,241,False
+Johnathan Motley,3,7,40,1,Jump Shot,18,70,173,True
+Johnathan Motley,2,2,32,0,Jump Shot,16,-106,122,True
+Johnathan Motley,4,3,0,0,Jump Shot,8,36,80,True
+Johnathan Motley,1,11,30,0,Jump Shot,26,-136,227,False
+Johnathan Motley,3,5,26,1,Jump Shot,19,44,190,True
+Johnathan Motley,3,11,41,0,Jump Shot,16,-145,87,True
+Johnathan Motley,1,9,11,0,Jump Shot,22,-38,218,True
+Johnathan Motley,4,2,39,0,Jump Shot,18,186,25,True
+Johnathan Motley,2,3,58,0,Jump Shot,13,16,135,True
+Johnathan Motley,2,6,53,0,Jump Shot,14,-140,1,True
+Johnathan Motley,1,1,53,1,Jump Shot,12,9,124,True
+Johnathan Motley,3,0,32,0,Jump Shot,8,-58,65,True
+Johnathan Motley,4,0,11,1,Jump Shot,28,113,257,False
+Johnathan Motley,4,8,45,0,Layup Shot,3,2,32,True
+Johnathan Motley,2,0,22,0,Layup Shot,3,33,13,True
+Johnathan Motley,2,2,3,1,Layup Shot,0,0,4,True
+Johnathan Motley,3,10,4,0,Layup Shot,3,6,30,True
+Johnathan Motley,3,1,13,1,Layup Shot,2,22,18,True
+Johnathan Motley,1,7,37,1,Layup Shot,3,24,26,True
+Johnathan Motley,2,3,28,1,Layup Shot,2,-19,20,True
+Johnathan Motley,2,4,39,0,Layup Shot,3,-11,38,True
+Johnathan Motley,4,7,22,0,Layup Shot,2,-3,27,True
+Johnathan Motley,4,3,23,0,Layup Shot,3,-35,17,True
+Johnathan Motley,4,1,10,1,Layup Shot,2,0,21,True
+Johnathan Motley,4,3,43,1,Layup Shot,2,-20,0,True
+Johnathan Motley,1,4,14,1,Pullup Jump shot,16,137,99,True
+Johnathan Motley,3,3,12,0,Pullup Jump shot,19,-122,146,True
+Johnathan Motley,2,5,26,1,Pullup Jump shot,18,134,127,True
+Johnathan Motley,3,9,12,1,Putback Dunk Shot,1,12,11,True
+Johnathan Motley,3,6,8,1,Putback Dunk Shot,0,0,-6,True
+Johnathan Motley,3,1,23,0,Putback Layup Shot,2,24,8,True
+Johnathan Motley,4,0,1,0,Running Jump Shot,52,50,519,False
+Johnathan Motley,4,8,42,0,Tip Layup Shot,0,0,-6,True
+Johnathan Motley,1,10,39,1,Turnaround Bank Hook Shot,1,-11,9,True
+Johnathan Motley,2,5,44,1,Turnaround Fadeaway Bank Jump Shot,5,50,1,True
+Johnathan Motley,1,4,30,0,Turnaround Fadeaway shot,5,51,25,True
+Johnathan Motley,4,3,42,1,Turnaround Hook Shot,4,-5,41,True
+Johnathan Motley,4,0,52,1,Turnaround Hook Shot,3,-3,39,True
+Johnathan Motley,1,3,18,1,Turnaround Hook Shot,7,5,71,True
+Johnathan Motley,4,3,50,0,Turnaround Hook Shot,8,-1,80,True

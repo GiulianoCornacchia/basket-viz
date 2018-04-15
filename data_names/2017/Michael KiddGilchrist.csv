@@ -1,0 +1,492 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Michael KiddGilchrist,4,1,28,1,Cutting Dunk Shot,0,-3,5,True
+Michael KiddGilchrist,3,6,23,1,Cutting Dunk Shot,1,7,10,True
+Michael KiddGilchrist,2,1,39,1,Cutting Dunk Shot,2,-5,24,True
+Michael KiddGilchrist,1,6,19,1,Cutting Dunk Shot,0,-2,5,True
+Michael KiddGilchrist,1,9,31,1,Cutting Dunk Shot,0,6,7,True
+Michael KiddGilchrist,2,0,13,1,Cutting Dunk Shot,1,-1,18,True
+Michael KiddGilchrist,1,10,14,1,Cutting Dunk Shot,0,-2,8,True
+Michael KiddGilchrist,1,7,50,1,Cutting Finger Roll Layup Shot,2,9,19,True
+Michael KiddGilchrist,1,4,32,1,Cutting Layup Shot,1,13,11,True
+Michael KiddGilchrist,1,7,42,1,Cutting Layup Shot,2,-6,20,True
+Michael KiddGilchrist,1,10,3,1,Cutting Layup Shot,1,4,15,True
+Michael KiddGilchrist,4,4,44,1,Cutting Layup Shot,2,11,17,True
+Michael KiddGilchrist,3,8,13,1,Cutting Layup Shot,0,3,-4,True
+Michael KiddGilchrist,2,0,42,1,Cutting Layup Shot,0,3,4,True
+Michael KiddGilchrist,1,7,21,1,Cutting Layup Shot,1,9,7,True
+Michael KiddGilchrist,3,9,36,1,Cutting Layup Shot,0,-1,8,True
+Michael KiddGilchrist,3,3,53,1,Cutting Layup Shot,1,14,13,True
+Michael KiddGilchrist,1,6,56,1,Cutting Layup Shot,1,3,12,True
+Michael KiddGilchrist,1,8,2,1,Cutting Layup Shot,1,6,13,True
+Michael KiddGilchrist,1,8,7,1,Cutting Layup Shot,1,-7,10,True
+Michael KiddGilchrist,2,1,47,0,Cutting Layup Shot,4,37,23,True
+Michael KiddGilchrist,4,3,41,1,Cutting Layup Shot,0,2,3,True
+Michael KiddGilchrist,1,4,34,1,Cutting Layup Shot,1,13,11,True
+Michael KiddGilchrist,1,4,59,1,Cutting Layup Shot,1,10,10,True
+Michael KiddGilchrist,4,1,3,1,Cutting Layup Shot,0,2,5,True
+Michael KiddGilchrist,3,7,12,1,Cutting Layup Shot,1,5,12,True
+Michael KiddGilchrist,2,2,1,1,Cutting Layup Shot,2,-5,22,True
+Michael KiddGilchrist,3,9,17,1,Driving Dunk Shot,1,3,17,True
+Michael KiddGilchrist,4,4,25,1,Driving Dunk Shot,1,16,6,True
+Michael KiddGilchrist,3,11,3,1,Driving Dunk Shot,0,-4,6,True
+Michael KiddGilchrist,3,9,34,1,Driving Finger Roll Layup Shot,3,21,22,True
+Michael KiddGilchrist,2,5,4,1,Driving Finger Roll Layup Shot,2,-1,25,True
+Michael KiddGilchrist,2,4,14,1,Driving Finger Roll Layup Shot,1,-5,11,True
+Michael KiddGilchrist,3,9,50,1,Driving Finger Roll Layup Shot,2,1,22,True
+Michael KiddGilchrist,3,6,4,1,Driving Finger Roll Layup Shot,0,0,4,True
+Michael KiddGilchrist,1,3,39,0,Driving Floating Bank Jump Shot,2,22,15,True
+Michael KiddGilchrist,1,8,27,0,Driving Floating Jump Shot,7,36,63,True
+Michael KiddGilchrist,3,4,45,0,Driving Floating Jump Shot,9,-38,83,True
+Michael KiddGilchrist,2,0,47,0,Driving Floating Jump Shot,11,49,105,True
+Michael KiddGilchrist,2,0,57,1,Driving Floating Jump Shot,5,15,55,True
+Michael KiddGilchrist,3,2,14,1,Driving Floating Jump Shot,8,8,88,True
+Michael KiddGilchrist,3,3,27,1,Driving Floating Jump Shot,7,-3,76,True
+Michael KiddGilchrist,3,9,18,0,Driving Floating Jump Shot,5,40,41,True
+Michael KiddGilchrist,3,4,21,0,Driving Floating Jump Shot,13,48,130,True
+Michael KiddGilchrist,1,4,50,1,Driving Floating Jump Shot,3,-2,31,True
+Michael KiddGilchrist,3,10,8,1,Driving Hook Shot,8,-6,81,True
+Michael KiddGilchrist,4,1,31,0,Driving Hook Shot,5,-2,53,True
+Michael KiddGilchrist,1,5,11,0,Driving Hook Shot,10,-8,100,True
+Michael KiddGilchrist,2,1,49,1,Driving Hook Shot,6,19,62,True
+Michael KiddGilchrist,2,5,51,0,Driving Hook Shot,5,11,55,True
+Michael KiddGilchrist,3,4,22,1,Driving Hook Shot,3,30,26,True
+Michael KiddGilchrist,2,0,41,1,Driving Hook Shot,6,-13,64,True
+Michael KiddGilchrist,3,7,11,0,Driving Layup Shot,0,3,6,True
+Michael KiddGilchrist,3,6,48,1,Driving Layup Shot,1,-1,12,True
+Michael KiddGilchrist,1,7,44,1,Driving Layup Shot,2,-27,8,True
+Michael KiddGilchrist,3,8,24,0,Driving Layup Shot,3,6,32,True
+Michael KiddGilchrist,4,5,43,1,Driving Layup Shot,1,5,19,True
+Michael KiddGilchrist,4,8,25,1,Driving Layup Shot,2,5,22,True
+Michael KiddGilchrist,3,6,47,0,Driving Layup Shot,1,-9,16,True
+Michael KiddGilchrist,3,9,3,0,Driving Layup Shot,1,-11,10,True
+Michael KiddGilchrist,1,11,40,1,Driving Layup Shot,2,5,23,True
+Michael KiddGilchrist,1,10,52,1,Driving Layup Shot,0,-1,8,True
+Michael KiddGilchrist,3,8,34,1,Driving Layup Shot,0,0,-6,True
+Michael KiddGilchrist,3,4,43,1,Driving Layup Shot,3,28,16,True
+Michael KiddGilchrist,1,7,26,0,Driving Layup Shot,9,84,47,True
+Michael KiddGilchrist,1,8,43,1,Driving Layup Shot,2,-6,23,True
+Michael KiddGilchrist,3,9,59,0,Driving Layup Shot,1,-9,5,True
+Michael KiddGilchrist,3,7,46,1,Driving Layup Shot,0,1,4,True
+Michael KiddGilchrist,3,8,35,1,Driving Layup Shot,1,11,8,True
+Michael KiddGilchrist,1,5,40,1,Driving Layup Shot,1,3,12,True
+Michael KiddGilchrist,3,11,19,1,Driving Layup Shot,1,-9,17,True
+Michael KiddGilchrist,1,10,17,1,Driving Layup Shot,2,-1,21,True
+Michael KiddGilchrist,5,1,55,1,Driving Layup Shot,1,11,-2,True
+Michael KiddGilchrist,2,3,6,1,Driving Layup Shot,2,17,16,True
+Michael KiddGilchrist,3,5,50,0,Driving Layup Shot,1,-8,9,True
+Michael KiddGilchrist,1,8,48,1,Driving Layup Shot,2,-5,23,True
+Michael KiddGilchrist,1,6,54,1,Driving Layup Shot,7,-41,61,True
+Michael KiddGilchrist,3,9,39,0,Driving Layup Shot,3,20,23,True
+Michael KiddGilchrist,3,4,25,0,Driving Layup Shot,0,3,4,True
+Michael KiddGilchrist,1,9,47,0,Driving Layup Shot,0,0,6,True
+Michael KiddGilchrist,1,5,54,0,Driving Layup Shot,1,-6,12,True
+Michael KiddGilchrist,3,4,11,0,Driving Layup Shot,2,-22,7,True
+Michael KiddGilchrist,2,5,40,0,Driving Layup Shot,1,11,15,True
+Michael KiddGilchrist,1,10,18,1,Driving Layup Shot,0,3,5,True
+Michael KiddGilchrist,2,4,9,0,Driving Layup Shot,7,63,32,True
+Michael KiddGilchrist,1,9,30,1,Driving Layup Shot,0,5,0,True
+Michael KiddGilchrist,4,4,57,0,Driving Layup Shot,1,-6,15,True
+Michael KiddGilchrist,1,9,33,1,Driving Layup Shot,2,7,20,True
+Michael KiddGilchrist,3,11,46,0,Driving Layup Shot,7,60,40,True
+Michael KiddGilchrist,1,3,5,0,Driving Layup Shot,1,-7,17,True
+Michael KiddGilchrist,2,11,42,0,Driving Layup Shot,3,24,25,True
+Michael KiddGilchrist,3,8,42,1,Driving Layup Shot,1,3,10,True
+Michael KiddGilchrist,3,6,49,1,Driving Layup Shot,2,6,25,True
+Michael KiddGilchrist,2,2,43,1,Driving Layup Shot,1,-5,16,True
+Michael KiddGilchrist,3,10,55,0,Driving Layup Shot,0,-6,5,True
+Michael KiddGilchrist,4,2,3,1,Driving Layup Shot,0,0,9,True
+Michael KiddGilchrist,2,4,36,0,Driving Layup Shot,3,-38,10,True
+Michael KiddGilchrist,1,7,24,0,Driving Layup Shot,2,15,20,True
+Michael KiddGilchrist,1,3,31,0,Driving Reverse Layup Shot,1,4,18,True
+Michael KiddGilchrist,1,8,2,0,Driving Reverse Layup Shot,3,34,13,True
+Michael KiddGilchrist,3,8,13,1,Dunk Shot,0,-3,6,True
+Michael KiddGilchrist,1,11,40,1,Dunk Shot,1,-3,12,True
+Michael KiddGilchrist,3,2,53,1,Dunk Shot,0,3,0,True
+Michael KiddGilchrist,2,3,24,1,Dunk Shot,0,3,6,True
+Michael KiddGilchrist,1,3,40,1,Dunk Shot,0,2,8,True
+Michael KiddGilchrist,4,0,2,1,Dunk Shot,0,1,-1,True
+Michael KiddGilchrist,1,5,18,0,Dunk Shot,1,6,15,True
+Michael KiddGilchrist,2,4,16,1,Dunk Shot,1,9,8,True
+Michael KiddGilchrist,3,11,52,1,Dunk Shot,0,3,9,True
+Michael KiddGilchrist,4,3,23,1,Dunk Shot,1,-5,16,True
+Michael KiddGilchrist,3,7,0,0,Dunk Shot,2,-23,5,True
+Michael KiddGilchrist,3,9,31,0,Dunk Shot,1,0,11,True
+Michael KiddGilchrist,3,7,59,1,Dunk Shot,1,-3,15,True
+Michael KiddGilchrist,4,3,33,1,Dunk Shot,3,14,36,True
+Michael KiddGilchrist,2,3,56,1,Fadeaway Jump Shot,15,-116,99,True
+Michael KiddGilchrist,3,6,10,1,Fadeaway Jump Shot,10,38,101,True
+Michael KiddGilchrist,3,11,25,0,Fadeaway Jump Shot,19,143,126,True
+Michael KiddGilchrist,1,3,53,1,Fadeaway Jump Shot,13,-75,108,True
+Michael KiddGilchrist,2,3,30,1,Fadeaway Jump Shot,7,2,71,True
+Michael KiddGilchrist,1,9,41,1,Fadeaway Jump Shot,6,10,64,True
+Michael KiddGilchrist,3,5,39,0,Fadeaway Jump Shot,9,1,94,True
+Michael KiddGilchrist,4,10,5,0,Fadeaway Jump Shot,5,-43,37,True
+Michael KiddGilchrist,4,0,14,1,Finger Roll Layup Shot,0,1,8,True
+Michael KiddGilchrist,2,3,6,0,Floating Jump shot,2,11,20,True
+Michael KiddGilchrist,3,8,24,1,Floating Jump shot,3,9,38,True
+Michael KiddGilchrist,1,10,48,1,Hook Shot,8,-39,73,True
+Michael KiddGilchrist,1,10,46,0,Hook Shot,6,-9,69,True
+Michael KiddGilchrist,1,10,27,1,Hook Shot,7,6,76,True
+Michael KiddGilchrist,1,11,43,0,Hook Shot,7,17,72,True
+Michael KiddGilchrist,2,1,38,0,Hook Shot,7,5,76,True
+Michael KiddGilchrist,2,1,12,0,Hook Shot,8,0,85,True
+Michael KiddGilchrist,1,10,55,0,Hook Shot,5,-16,49,True
+Michael KiddGilchrist,3,2,41,1,Hook Shot,3,-11,32,True
+Michael KiddGilchrist,3,7,51,1,Hook Shot,4,5,41,True
+Michael KiddGilchrist,3,9,21,1,Hook Shot,2,-20,20,True
+Michael KiddGilchrist,2,2,2,0,Hook Shot,4,-11,48,True
+Michael KiddGilchrist,2,2,19,0,Jump Bank Shot,9,-33,89,True
+Michael KiddGilchrist,4,4,58,1,Jump Bank Shot,2,-3,20,True
+Michael KiddGilchrist,1,3,24,0,Jump Bank Shot,6,62,22,True
+Michael KiddGilchrist,2,4,46,0,Jump Shot,3,9,34,True
+Michael KiddGilchrist,1,5,54,0,Jump Shot,20,141,153,True
+Michael KiddGilchrist,2,1,52,0,Jump Shot,20,-193,62,True
+Michael KiddGilchrist,2,5,1,1,Jump Shot,19,-148,123,True
+Michael KiddGilchrist,1,5,25,1,Jump Shot,18,-5,184,True
+Michael KiddGilchrist,4,5,46,0,Jump Shot,18,-100,161,True
+Michael KiddGilchrist,1,11,37,1,Jump Shot,18,117,143,True
+Michael KiddGilchrist,2,0,45,0,Jump Shot,15,-9,158,True
+Michael KiddGilchrist,2,3,31,0,Jump Shot,8,-19,85,True
+Michael KiddGilchrist,3,11,5,1,Jump Shot,16,-40,163,True
+Michael KiddGilchrist,3,5,46,0,Jump Shot,10,35,100,True
+Michael KiddGilchrist,2,4,19,1,Jump Shot,13,36,128,True
+Michael KiddGilchrist,3,5,11,1,Jump Shot,17,152,96,True
+Michael KiddGilchrist,3,4,2,0,Jump Shot,14,-93,105,True
+Michael KiddGilchrist,2,1,51,0,Jump Shot,9,22,97,True
+Michael KiddGilchrist,3,6,42,0,Jump Shot,17,-31,176,True
+Michael KiddGilchrist,1,10,9,0,Jump Shot,17,156,76,True
+Michael KiddGilchrist,1,2,52,1,Jump Shot,8,55,63,True
+Michael KiddGilchrist,1,11,15,0,Jump Shot,12,0,127,True
+Michael KiddGilchrist,4,5,52,0,Jump Shot,13,115,75,True
+Michael KiddGilchrist,3,7,19,0,Jump Shot,8,-32,78,True
+Michael KiddGilchrist,3,6,43,0,Jump Shot,20,-100,181,True
+Michael KiddGilchrist,4,6,20,0,Jump Shot,14,-10,142,True
+Michael KiddGilchrist,3,11,28,1,Jump Shot,17,-174,27,True
+Michael KiddGilchrist,2,2,25,0,Jump Shot,13,129,29,True
+Michael KiddGilchrist,3,8,57,0,Jump Shot,13,-136,32,True
+Michael KiddGilchrist,3,6,4,0,Jump Shot,14,140,33,True
+Michael KiddGilchrist,3,3,17,0,Jump Shot,18,40,176,True
+Michael KiddGilchrist,3,5,14,1,Jump Shot,19,58,188,True
+Michael KiddGilchrist,1,7,31,0,Jump Shot,5,0,52,True
+Michael KiddGilchrist,1,10,9,1,Jump Shot,15,120,99,True
+Michael KiddGilchrist,1,6,34,0,Jump Shot,4,24,41,True
+Michael KiddGilchrist,3,9,3,0,Jump Shot,14,144,35,True
+Michael KiddGilchrist,1,6,20,0,Jump Shot,16,101,136,True
+Michael KiddGilchrist,1,6,47,0,Jump Shot,20,-205,6,True
+Michael KiddGilchrist,3,5,54,1,Jump Shot,21,141,158,True
+Michael KiddGilchrist,3,11,23,0,Jump Shot,19,-145,136,True
+Michael KiddGilchrist,3,7,36,1,Jump Shot,16,137,93,True
+Michael KiddGilchrist,2,4,40,1,Jump Shot,15,67,144,True
+Michael KiddGilchrist,3,8,54,0,Jump Shot,16,-6,169,True
+Michael KiddGilchrist,1,5,59,1,Jump Shot,13,129,48,True
+Michael KiddGilchrist,4,4,13,0,Jump Shot,17,169,30,True
+Michael KiddGilchrist,3,6,40,1,Jump Shot,11,-49,105,True
+Michael KiddGilchrist,3,5,2,1,Jump Shot,20,149,137,True
+Michael KiddGilchrist,4,5,35,0,Jump Shot,16,35,162,True
+Michael KiddGilchrist,1,5,8,0,Jump Shot,19,93,172,True
+Michael KiddGilchrist,1,11,15,1,Jump Shot,13,52,122,True
+Michael KiddGilchrist,4,0,17,0,Jump Shot,16,143,83,True
+Michael KiddGilchrist,1,6,21,1,Jump Shot,18,185,43,True
+Michael KiddGilchrist,3,11,17,1,Jump Shot,17,-42,171,True
+Michael KiddGilchrist,1,5,41,0,Jump Shot,18,78,165,True
+Michael KiddGilchrist,4,2,35,0,Jump Shot,16,165,25,True
+Michael KiddGilchrist,4,4,38,1,Jump Shot,15,104,114,True
+Michael KiddGilchrist,1,9,32,1,Jump Shot,14,143,39,True
+Michael KiddGilchrist,2,1,0,0,Jump Shot,9,96,20,True
+Michael KiddGilchrist,3,3,3,0,Jump Shot,17,158,78,True
+Michael KiddGilchrist,3,11,16,0,Jump Shot,18,164,80,True
+Michael KiddGilchrist,3,6,17,1,Jump Shot,16,164,37,True
+Michael KiddGilchrist,3,4,25,0,Jump Shot,10,70,82,True
+Michael KiddGilchrist,2,3,56,0,Jump Shot,17,4,179,True
+Michael KiddGilchrist,4,6,20,0,Jump Shot,20,71,188,True
+Michael KiddGilchrist,1,8,45,0,Jump Shot,8,-8,80,True
+Michael KiddGilchrist,3,6,6,0,Jump Shot,17,-2,176,True
+Michael KiddGilchrist,3,10,8,0,Jump Shot,12,-123,19,True
+Michael KiddGilchrist,2,3,5,0,Jump Shot,16,-154,59,True
+Michael KiddGilchrist,2,1,53,0,Jump Shot,20,90,182,True
+Michael KiddGilchrist,1,4,12,1,Jump Shot,18,182,36,True
+Michael KiddGilchrist,3,5,16,1,Jump Shot,6,11,64,True
+Michael KiddGilchrist,1,3,47,0,Jump Shot,19,-161,105,True
+Michael KiddGilchrist,3,4,23,0,Jump Shot,16,165,36,True
+Michael KiddGilchrist,1,5,20,0,Jump Shot,6,15,68,True
+Michael KiddGilchrist,3,9,19,0,Jump Shot,20,95,176,True
+Michael KiddGilchrist,2,3,35,0,Jump Shot,20,198,46,True
+Michael KiddGilchrist,3,5,41,1,Jump Shot,17,50,171,True
+Michael KiddGilchrist,3,6,37,1,Jump Shot,17,-16,179,True
+Michael KiddGilchrist,4,2,53,0,Jump Shot,18,-130,131,True
+Michael KiddGilchrist,1,7,23,0,Jump Shot,18,130,134,True
+Michael KiddGilchrist,4,1,39,0,Jump Shot,16,133,97,True
+Michael KiddGilchrist,3,10,47,0,Jump Shot,4,8,44,True
+Michael KiddGilchrist,3,8,21,0,Jump Shot,10,-22,106,True
+Michael KiddGilchrist,4,3,15,0,Jump Shot,8,-47,70,True
+Michael KiddGilchrist,2,0,28,1,Jump Shot,11,56,101,True
+Michael KiddGilchrist,1,5,52,0,Jump Shot,13,-61,118,True
+Michael KiddGilchrist,3,9,53,0,Jump Shot,18,-36,179,True
+Michael KiddGilchrist,3,10,1,0,Jump Shot,17,-101,146,True
+Michael KiddGilchrist,1,0,0,0,Jump Shot,83,92,828,False
+Michael KiddGilchrist,2,4,57,1,Jump Shot,15,-158,17,True
+Michael KiddGilchrist,4,6,48,0,Jump Shot,16,155,41,True
+Michael KiddGilchrist,3,6,46,0,Jump Shot,12,-44,120,True
+Michael KiddGilchrist,2,1,25,1,Jump Shot,17,-172,-7,True
+Michael KiddGilchrist,2,5,47,0,Jump Shot,18,-175,44,True
+Michael KiddGilchrist,1,5,35,0,Jump Shot,18,-127,132,True
+Michael KiddGilchrist,2,3,3,1,Jump Shot,18,134,130,True
+Michael KiddGilchrist,3,7,5,0,Jump Shot,15,-145,45,True
+Michael KiddGilchrist,3,8,1,0,Jump Shot,19,100,172,True
+Michael KiddGilchrist,1,3,51,1,Jump Shot,16,123,110,True
+Michael KiddGilchrist,3,7,7,0,Jump Shot,16,-128,99,True
+Michael KiddGilchrist,2,3,45,0,Jump Shot,18,96,156,True
+Michael KiddGilchrist,1,6,25,0,Jump Shot,11,8,117,True
+Michael KiddGilchrist,2,6,24,1,Jump Shot,10,-108,19,True
+Michael KiddGilchrist,1,11,32,0,Jump Shot,21,158,150,True
+Michael KiddGilchrist,3,6,50,1,Jump Shot,19,10,199,True
+Michael KiddGilchrist,2,2,20,1,Jump Shot,15,155,29,True
+Michael KiddGilchrist,2,5,2,1,Jump Shot,15,154,11,True
+Michael KiddGilchrist,3,4,28,1,Jump Shot,12,66,103,True
+Michael KiddGilchrist,4,4,33,0,Jump Shot,20,33,198,True
+Michael KiddGilchrist,2,3,55,0,Jump Shot,17,22,170,True
+Michael KiddGilchrist,4,1,54,1,Jump Shot,20,107,172,True
+Michael KiddGilchrist,1,8,26,0,Jump Shot,15,154,32,True
+Michael KiddGilchrist,3,3,38,0,Jump Shot,17,111,134,True
+Michael KiddGilchrist,4,3,44,0,Jump Shot,21,128,171,True
+Michael KiddGilchrist,3,9,9,1,Jump Shot,17,109,131,True
+Michael KiddGilchrist,1,7,2,1,Jump Shot,20,178,109,True
+Michael KiddGilchrist,3,2,46,0,Jump Shot,18,180,26,True
+Michael KiddGilchrist,2,3,28,0,Jump Shot,20,-67,193,True
+Michael KiddGilchrist,1,8,2,1,Jump Shot,14,112,97,True
+Michael KiddGilchrist,4,1,6,0,Jump Shot,20,199,48,True
+Michael KiddGilchrist,2,3,41,0,Jump Shot,8,-6,89,True
+Michael KiddGilchrist,3,1,50,1,Jump Shot,17,147,96,True
+Michael KiddGilchrist,2,8,55,0,Jump Shot,16,163,31,True
+Michael KiddGilchrist,2,4,9,1,Jump Shot,20,-203,-16,True
+Michael KiddGilchrist,3,9,45,1,Jump Shot,21,-171,126,True
+Michael KiddGilchrist,3,5,43,0,Jump Shot,16,163,25,True
+Michael KiddGilchrist,1,8,38,0,Jump Shot,13,131,42,True
+Michael KiddGilchrist,3,5,13,0,Jump Shot,12,106,57,True
+Michael KiddGilchrist,1,10,34,0,Jump Shot,17,78,157,True
+Michael KiddGilchrist,2,0,42,0,Jump Shot,2,19,10,True
+Michael KiddGilchrist,4,2,33,0,Jump Shot,17,127,117,True
+Michael KiddGilchrist,2,1,23,0,Jump Shot,3,25,20,True
+Michael KiddGilchrist,1,7,40,0,Jump Shot,12,-116,55,True
+Michael KiddGilchrist,2,1,17,0,Jump Shot,6,33,51,True
+Michael KiddGilchrist,1,11,41,1,Jump Shot,20,-59,201,True
+Michael KiddGilchrist,1,6,4,0,Jump Shot,8,-39,78,True
+Michael KiddGilchrist,1,11,16,1,Jump Shot,17,-175,28,True
+Michael KiddGilchrist,3,10,45,0,Jump Shot,14,-143,6,True
+Michael KiddGilchrist,2,1,59,1,Jump Shot,19,123,152,True
+Michael KiddGilchrist,4,6,40,0,Jump Shot,1,7,16,True
+Michael KiddGilchrist,3,10,6,0,Jump Shot,1,2,13,True
+Michael KiddGilchrist,4,7,12,0,Jump Shot,2,19,9,True
+Michael KiddGilchrist,1,6,36,0,Jump Shot,17,174,17,True
+Michael KiddGilchrist,1,11,43,1,Jump Shot,17,-169,25,True
+Michael KiddGilchrist,3,3,15,0,Jump Shot,6,66,10,True
+Michael KiddGilchrist,3,2,26,1,Jump Shot,15,153,19,True
+Michael KiddGilchrist,3,9,25,0,Jump Shot,8,30,77,True
+Michael KiddGilchrist,1,7,13,0,Jump Shot,2,-7,29,True
+Michael KiddGilchrist,3,3,22,0,Jump Shot,18,153,111,True
+Michael KiddGilchrist,3,10,35,0,Jump Shot,17,153,79,True
+Michael KiddGilchrist,3,11,8,0,Jump Shot,16,145,82,True
+Michael KiddGilchrist,1,3,27,1,Jump Shot,12,-50,116,True
+Michael KiddGilchrist,1,7,24,0,Jump Shot,11,33,110,True
+Michael KiddGilchrist,3,8,26,0,Jump Shot,19,169,94,True
+Michael KiddGilchrist,1,6,35,0,Jump Shot,20,8,205,True
+Michael KiddGilchrist,4,1,38,1,Jump Shot,14,70,124,True
+Michael KiddGilchrist,1,4,21,0,Jump Shot,18,-181,1,True
+Michael KiddGilchrist,1,2,25,1,Jump Shot,17,-158,76,True
+Michael KiddGilchrist,3,4,42,1,Jump Shot,20,61,199,True
+Michael KiddGilchrist,3,10,8,0,Jump Shot,19,85,179,True
+Michael KiddGilchrist,2,4,23,1,Jump Shot,14,108,94,True
+Michael KiddGilchrist,1,1,39,1,Jump Shot,12,-7,125,True
+Michael KiddGilchrist,2,6,10,1,Jump Shot,15,154,22,True
+Michael KiddGilchrist,4,1,59,0,Jump Shot,19,-185,63,True
+Michael KiddGilchrist,1,10,54,1,Jump Shot,19,99,167,True
+Michael KiddGilchrist,1,6,2,0,Jump Shot,20,40,206,True
+Michael KiddGilchrist,1,6,32,1,Jump Shot,20,-44,200,True
+Michael KiddGilchrist,1,5,29,0,Jump Shot,16,36,159,True
+Michael KiddGilchrist,1,11,26,0,Jump Shot,19,73,179,True
+Michael KiddGilchrist,2,1,38,1,Jump Shot,15,158,-5,True
+Michael KiddGilchrist,2,2,5,1,Jump Shot,9,97,16,True
+Michael KiddGilchrist,3,7,14,1,Jump Shot,18,123,135,True
+Michael KiddGilchrist,3,6,19,0,Jump Shot,23,236,27,False
+Michael KiddGilchrist,3,11,25,0,Jump Shot,21,-6,219,True
+Michael KiddGilchrist,3,5,46,1,Layup Shot,1,12,-1,True
+Michael KiddGilchrist,1,11,43,0,Layup Shot,1,-5,13,True
+Michael KiddGilchrist,1,10,46,1,Layup Shot,2,20,20,True
+Michael KiddGilchrist,3,4,22,1,Layup Shot,1,-8,10,True
+Michael KiddGilchrist,1,4,49,0,Layup Shot,1,3,10,True
+Michael KiddGilchrist,2,11,4,1,Layup Shot,1,5,10,True
+Michael KiddGilchrist,3,10,22,1,Layup Shot,1,6,8,True
+Michael KiddGilchrist,3,8,32,1,Layup Shot,3,28,11,True
+Michael KiddGilchrist,1,6,24,1,Layup Shot,1,5,17,True
+Michael KiddGilchrist,3,4,57,1,Layup Shot,1,9,16,True
+Michael KiddGilchrist,2,1,19,0,Layup Shot,2,13,16,True
+Michael KiddGilchrist,2,1,23,1,Layup Shot,1,16,-4,True
+Michael KiddGilchrist,1,4,4,0,Layup Shot,5,-3,52,True
+Michael KiddGilchrist,3,5,36,0,Layup Shot,2,7,20,True
+Michael KiddGilchrist,4,5,41,1,Layup Shot,2,20,6,True
+Michael KiddGilchrist,4,4,57,0,Layup Shot,8,-2,88,True
+Michael KiddGilchrist,1,2,44,1,Layup Shot,0,0,8,True
+Michael KiddGilchrist,2,0,52,0,Layup Shot,4,6,42,True
+Michael KiddGilchrist,2,4,22,0,Layup Shot,2,22,20,True
+Michael KiddGilchrist,1,9,24,0,Layup Shot,2,-18,22,True
+Michael KiddGilchrist,1,8,6,0,Layup Shot,1,-16,8,True
+Michael KiddGilchrist,3,11,9,0,Layup Shot,2,11,19,True
+Michael KiddGilchrist,2,2,39,0,Layup Shot,2,3,22,True
+Michael KiddGilchrist,1,8,38,1,Layup Shot,1,0,12,True
+Michael KiddGilchrist,1,6,22,1,Layup Shot,1,-5,17,True
+Michael KiddGilchrist,3,6,49,1,Layup Shot,2,-2,22,True
+Michael KiddGilchrist,2,2,23,1,Layup Shot,2,16,21,True
+Michael KiddGilchrist,4,8,10,1,Layup Shot,2,13,22,True
+Michael KiddGilchrist,1,10,36,1,Layup Shot,1,3,14,True
+Michael KiddGilchrist,3,9,54,1,Layup Shot,1,12,9,True
+Michael KiddGilchrist,3,3,35,1,Layup Shot,7,-8,75,True
+Michael KiddGilchrist,4,5,37,0,Layup Shot,1,-11,10,True
+Michael KiddGilchrist,4,4,42,0,Layup Shot,2,-9,19,True
+Michael KiddGilchrist,3,9,53,1,Layup Shot,3,-11,33,True
+Michael KiddGilchrist,3,6,37,0,Layup Shot,2,3,21,True
+Michael KiddGilchrist,1,5,52,0,Layup Shot,6,48,43,True
+Michael KiddGilchrist,1,11,2,0,Layup Shot,2,18,16,True
+Michael KiddGilchrist,1,9,30,1,Layup Shot,0,3,4,True
+Michael KiddGilchrist,4,3,12,1,Layup Shot,1,-7,16,True
+Michael KiddGilchrist,1,3,18,0,Layup Shot,1,5,19,True
+Michael KiddGilchrist,1,9,6,0,Layup Shot,3,29,20,True
+Michael KiddGilchrist,1,11,40,1,Layup Shot,1,6,16,True
+Michael KiddGilchrist,3,10,27,0,Layup Shot,1,-9,9,True
+Michael KiddGilchrist,1,7,52,0,Layup Shot,3,14,33,True
+Michael KiddGilchrist,1,5,52,1,Layup Shot,1,-3,10,True
+Michael KiddGilchrist,1,3,28,0,Layup Shot,2,-7,22,True
+Michael KiddGilchrist,3,9,56,0,Layup Shot,2,-19,17,True
+Michael KiddGilchrist,3,2,31,0,Layup Shot,1,9,15,True
+Michael KiddGilchrist,2,2,23,0,Layup Shot,2,16,12,True
+Michael KiddGilchrist,3,8,29,0,Layup Shot,2,13,16,True
+Michael KiddGilchrist,3,2,53,0,Layup Shot,2,0,25,True
+Michael KiddGilchrist,2,11,10,1,Layup Shot,1,-12,11,True
+Michael KiddGilchrist,1,4,22,0,Layup Shot,2,3,21,True
+Michael KiddGilchrist,4,1,29,0,Layup Shot,1,2,11,True
+Michael KiddGilchrist,1,6,3,0,Layup Shot,2,-8,21,True
+Michael KiddGilchrist,2,0,58,0,Layup Shot,2,0,20,True
+Michael KiddGilchrist,2,2,41,1,Layup Shot,1,2,19,True
+Michael KiddGilchrist,3,9,16,1,Layup Shot,1,9,15,True
+Michael KiddGilchrist,4,5,15,1,Layup Shot,1,8,17,True
+Michael KiddGilchrist,4,1,24,1,Layup Shot,1,-11,12,True
+Michael KiddGilchrist,1,2,7,0,Layup Shot,4,-15,38,True
+Michael KiddGilchrist,3,2,37,0,Layup Shot,2,14,21,True
+Michael KiddGilchrist,3,8,21,1,Layup Shot,1,10,7,True
+Michael KiddGilchrist,3,5,21,0,Layup Shot,1,8,11,True
+Michael KiddGilchrist,1,10,21,1,Layup Shot,5,2,59,True
+Michael KiddGilchrist,3,11,10,1,Layup Shot,1,2,17,True
+Michael KiddGilchrist,3,10,26,0,Layup Shot,1,1,10,True
+Michael KiddGilchrist,1,10,38,1,Layup Shot,1,11,8,True
+Michael KiddGilchrist,3,9,43,1,Layup Shot,4,-13,44,True
+Michael KiddGilchrist,1,9,10,0,Layup Shot,1,15,10,True
+Michael KiddGilchrist,1,10,44,1,Layup Shot,1,-9,6,True
+Michael KiddGilchrist,1,7,59,0,Layup Shot,2,16,17,True
+Michael KiddGilchrist,3,9,51,0,Layup Shot,4,-32,33,True
+Michael KiddGilchrist,3,3,43,1,Layup Shot,1,-1,18,True
+Michael KiddGilchrist,1,10,25,0,Layup Shot,2,20,21,True
+Michael KiddGilchrist,2,4,6,1,Layup Shot,2,-12,18,True
+Michael KiddGilchrist,1,6,2,0,Layup Shot,3,1,30,True
+Michael KiddGilchrist,1,11,10,1,Pullup Jump shot,16,115,120,True
+Michael KiddGilchrist,3,7,32,1,Pullup Jump shot,12,41,116,True
+Michael KiddGilchrist,3,7,22,1,Pullup Jump shot,17,143,92,True
+Michael KiddGilchrist,4,2,17,1,Pullup Jump shot,19,-158,107,True
+Michael KiddGilchrist,1,11,6,0,Pullup Jump shot,16,141,79,True
+Michael KiddGilchrist,1,5,18,1,Pullup Jump shot,16,161,31,True
+Michael KiddGilchrist,2,6,23,1,Pullup Jump shot,11,35,110,True
+Michael KiddGilchrist,2,3,36,0,Pullup Jump shot,18,125,136,True
+Michael KiddGilchrist,4,3,2,0,Pullup Jump shot,19,-52,190,True
+Michael KiddGilchrist,1,10,30,0,Pullup Jump shot,16,152,74,True
+Michael KiddGilchrist,3,4,30,0,Pullup Jump shot,19,29,190,True
+Michael KiddGilchrist,1,11,41,1,Pullup Jump shot,16,132,104,True
+Michael KiddGilchrist,1,8,39,0,Pullup Jump shot,18,35,185,True
+Michael KiddGilchrist,2,4,25,1,Pullup Jump shot,16,89,133,True
+Michael KiddGilchrist,3,7,55,0,Pullup Jump shot,18,-33,183,True
+Michael KiddGilchrist,1,7,14,0,Pullup Jump shot,21,-43,209,True
+Michael KiddGilchrist,4,2,4,0,Pullup Jump shot,12,44,121,True
+Michael KiddGilchrist,3,8,16,0,Pullup Jump shot,17,42,170,True
+Michael KiddGilchrist,3,7,44,0,Pullup Jump shot,7,71,17,True
+Michael KiddGilchrist,1,8,41,0,Pullup Jump shot,17,-168,54,True
+Michael KiddGilchrist,1,6,19,1,Pullup Jump shot,15,154,8,True
+Michael KiddGilchrist,3,10,43,1,Pullup Jump shot,14,-40,137,True
+Michael KiddGilchrist,2,0,0,0,Pullup Jump shot,22,137,176,True
+Michael KiddGilchrist,1,11,17,0,Pullup Jump shot,8,17,82,True
+Michael KiddGilchrist,1,10,0,1,Pullup Jump shot,14,145,-3,True
+Michael KiddGilchrist,1,6,35,1,Pullup Jump shot,18,71,175,True
+Michael KiddGilchrist,3,5,31,1,Pullup Jump shot,18,-27,183,True
+Michael KiddGilchrist,1,6,54,0,Pullup Jump shot,18,108,147,True
+Michael KiddGilchrist,1,6,1,1,Pullup Jump shot,17,63,167,True
+Michael KiddGilchrist,3,4,45,1,Pullup Jump shot,14,-136,43,True
+Michael KiddGilchrist,4,2,15,0,Pullup Jump shot,15,-5,157,True
+Michael KiddGilchrist,4,10,35,0,Pullup Jump shot,18,120,146,True
+Michael KiddGilchrist,5,2,56,0,Pullup Jump shot,13,-132,23,True
+Michael KiddGilchrist,3,11,13,0,Pullup Jump shot,11,31,113,True
+Michael KiddGilchrist,1,11,11,0,Pullup Jump shot,12,-82,95,True
+Michael KiddGilchrist,2,6,37,1,Pullup Jump shot,17,-27,169,True
+Michael KiddGilchrist,3,3,32,0,Pullup Jump shot,15,15,152,True
+Michael KiddGilchrist,2,1,3,0,Pullup Jump shot,9,-95,6,True
+Michael KiddGilchrist,4,1,45,1,Pullup Jump shot,17,156,74,True
+Michael KiddGilchrist,2,0,32,0,Pullup Jump shot,12,24,127,True
+Michael KiddGilchrist,1,11,37,0,Pullup Jump shot,18,81,161,True
+Michael KiddGilchrist,3,4,50,0,Pullup Jump shot,13,66,119,True
+Michael KiddGilchrist,1,8,50,0,Pullup Jump shot,16,87,143,True
+Michael KiddGilchrist,1,11,28,0,Pullup Jump shot,19,-117,156,True
+Michael KiddGilchrist,3,5,4,0,Pullup Jump shot,15,1,151,True
+Michael KiddGilchrist,3,9,44,0,Pullup Jump shot,17,38,166,True
+Michael KiddGilchrist,1,6,15,1,Pullup Jump shot,18,77,163,True
+Michael KiddGilchrist,2,1,5,0,Putback Dunk Shot,0,0,-6,True
+Michael KiddGilchrist,1,4,12,1,Putback Dunk Shot,1,6,16,True
+Michael KiddGilchrist,1,8,39,1,Putback Layup Shot,0,4,4,True
+Michael KiddGilchrist,2,1,7,0,Putback Layup Shot,3,-4,31,True
+Michael KiddGilchrist,3,3,54,1,Putback Layup Shot,0,0,-6,True
+Michael KiddGilchrist,3,4,23,1,Putback Layup Shot,0,-7,5,True
+Michael KiddGilchrist,3,7,45,1,Reverse Layup Shot,0,-6,-2,True
+Michael KiddGilchrist,1,4,10,1,Reverse Layup Shot,1,5,10,True
+Michael KiddGilchrist,1,6,5,1,Reverse Layup Shot,2,-3,21,True
+Michael KiddGilchrist,3,3,28,1,Reverse Layup Shot,1,-8,6,True
+Michael KiddGilchrist,2,3,34,1,Reverse Layup Shot,1,-11,0,True
+Michael KiddGilchrist,1,11,33,1,Reverse Layup Shot,1,-18,0,True
+Michael KiddGilchrist,1,8,17,1,Running Dunk Shot,1,-3,-13,True
+Michael KiddGilchrist,1,9,37,1,Running Dunk Shot,0,2,6,True
+Michael KiddGilchrist,1,7,54,1,Running Finger Roll Layup Shot,2,-4,24,True
+Michael KiddGilchrist,3,10,57,1,Running Finger Roll Layup Shot,1,-2,11,True
+Michael KiddGilchrist,3,8,34,1,Running Layup Shot,2,-8,24,True
+Michael KiddGilchrist,1,11,36,1,Running Layup Shot,0,5,6,True
+Michael KiddGilchrist,2,7,33,0,Running Layup Shot,3,-27,25,True
+Michael KiddGilchrist,2,4,12,0,Running Layup Shot,1,-9,14,True
+Michael KiddGilchrist,4,6,35,1,Running Layup Shot,5,13,58,True
+Michael KiddGilchrist,2,5,16,0,Running Layup Shot,1,2,11,True
+Michael KiddGilchrist,3,8,22,0,Running Layup Shot,2,0,22,True
+Michael KiddGilchrist,2,2,12,1,Running Layup Shot,1,4,16,True
+Michael KiddGilchrist,3,10,25,1,Running Layup Shot,0,-1,6,True
+Michael KiddGilchrist,1,6,12,1,Running Layup Shot,0,-9,-1,True
+Michael KiddGilchrist,1,7,1,0,Running Layup Shot,0,2,-1,True
+Michael KiddGilchrist,4,2,0,1,Running Layup Shot,2,-1,21,True
+Michael KiddGilchrist,2,11,2,1,Running Layup Shot,2,21,-8,True
+Michael KiddGilchrist,3,8,6,1,Running Layup Shot,1,9,7,True
+Michael KiddGilchrist,1,7,6,1,Running Layup Shot,1,6,13,True
+Michael KiddGilchrist,1,9,53,1,Running Layup Shot,1,-2,16,True
+Michael KiddGilchrist,2,1,5,0,Running Layup Shot,0,3,5,True
+Michael KiddGilchrist,2,5,55,1,Running Layup Shot,1,11,3,True
+Michael KiddGilchrist,3,7,22,0,Running Layup Shot,1,-10,8,True
+Michael KiddGilchrist,3,10,58,1,Running Layup Shot,2,-19,17,True
+Michael KiddGilchrist,3,11,11,0,Running Layup Shot,1,2,15,True
+Michael KiddGilchrist,2,0,31,1,Running Layup Shot,1,5,11,True
+Michael KiddGilchrist,1,8,22,1,Running Layup Shot,2,-11,20,True
+Michael KiddGilchrist,1,9,31,0,Step Back Jump shot,18,186,-4,True
+Michael KiddGilchrist,3,4,15,0,Step Back Jump shot,15,149,31,True
+Michael KiddGilchrist,2,9,10,1,Tip Layup Shot,0,0,-6,True
+Michael KiddGilchrist,3,4,10,1,Tip Layup Shot,0,0,-6,True
+Michael KiddGilchrist,4,4,27,1,Tip Layup Shot,0,0,-6,True
+Michael KiddGilchrist,4,5,6,1,Tip Layup Shot,0,0,-6,True
+Michael KiddGilchrist,3,2,43,1,Tip Layup Shot,0,0,-6,True
+Michael KiddGilchrist,2,0,28,0,Tip Layup Shot,0,0,-6,True
+Michael KiddGilchrist,1,4,13,1,Turnaround Fadeaway shot,12,46,119,True
+Michael KiddGilchrist,2,4,56,0,Turnaround Fadeaway shot,7,24,74,True
+Michael KiddGilchrist,2,6,0,0,Turnaround Fadeaway shot,9,95,27,True
+Michael KiddGilchrist,3,7,18,1,Turnaround Fadeaway shot,9,93,30,True
+Michael KiddGilchrist,3,10,46,1,Turnaround Hook Shot,5,-25,45,True
+Michael KiddGilchrist,1,7,44,0,Turnaround Hook Shot,9,-82,44,True
+Michael KiddGilchrist,3,6,40,1,Turnaround Jump Shot,9,92,15,True
+Michael KiddGilchrist,1,9,30,0,Turnaround Jump Shot,12,-54,111,True
+Michael KiddGilchrist,2,3,19,1,Turnaround Jump Shot,13,-42,130,True
+Michael KiddGilchrist,1,9,50,0,Turnaround Jump Shot,8,2,87,True

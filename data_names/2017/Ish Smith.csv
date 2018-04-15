@@ -1,0 +1,728 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Ish Smith,1,7,54,1,Cutting Finger Roll Layup Shot,4,-7,41,True
+Ish Smith,3,5,51,1,Cutting Layup Shot,5,-51,4,True
+Ish Smith,3,7,28,0,Cutting Layup Shot,4,5,43,True
+Ish Smith,3,1,46,1,Cutting Layup Shot,1,-6,8,True
+Ish Smith,3,1,33,1,Cutting Layup Shot,0,-5,-1,True
+Ish Smith,2,10,12,1,Cutting Layup Shot,1,4,16,True
+Ish Smith,2,11,3,1,Cutting Layup Shot,1,9,11,True
+Ish Smith,1,0,51,1,Cutting Layup Shot,1,4,13,True
+Ish Smith,2,9,36,1,Cutting Layup Shot,5,6,57,True
+Ish Smith,1,8,50,1,Driving Bank Hook Shot,4,38,31,True
+Ish Smith,1,4,20,0,Driving Finger Roll Layup Shot,2,9,18,True
+Ish Smith,3,5,8,1,Driving Finger Roll Layup Shot,1,9,5,True
+Ish Smith,2,4,16,0,Driving Finger Roll Layup Shot,1,9,11,True
+Ish Smith,3,0,0,0,Driving Finger Roll Layup Shot,3,8,34,True
+Ish Smith,3,0,1,1,Driving Finger Roll Layup Shot,0,-6,-4,True
+Ish Smith,1,5,46,1,Driving Finger Roll Layup Shot,0,-6,1,True
+Ish Smith,2,11,50,1,Driving Finger Roll Layup Shot,2,5,21,True
+Ish Smith,3,1,3,1,Driving Finger Roll Layup Shot,1,-5,18,True
+Ish Smith,1,8,12,1,Driving Finger Roll Layup Shot,2,-22,11,True
+Ish Smith,2,11,7,1,Driving Finger Roll Layup Shot,1,3,17,True
+Ish Smith,4,4,19,1,Driving Floating Bank Jump Shot,1,9,5,True
+Ish Smith,3,8,4,1,Driving Floating Bank Jump Shot,4,37,21,True
+Ish Smith,1,7,42,0,Driving Floating Bank Jump Shot,11,94,64,True
+Ish Smith,3,1,45,0,Driving Floating Bank Jump Shot,4,41,13,True
+Ish Smith,2,11,26,0,Driving Floating Bank Jump Shot,5,-35,37,True
+Ish Smith,4,4,24,0,Driving Floating Bank Jump Shot,5,-54,-6,True
+Ish Smith,4,5,55,0,Driving Floating Bank Jump Shot,6,63,26,True
+Ish Smith,3,1,43,1,Driving Floating Bank Jump Shot,1,-13,10,True
+Ish Smith,4,6,51,1,Driving Floating Bank Jump Shot,3,-16,33,True
+Ish Smith,1,0,40,1,Driving Floating Jump Shot,7,12,78,True
+Ish Smith,2,9,3,0,Driving Floating Jump Shot,7,-10,73,True
+Ish Smith,4,2,24,1,Driving Floating Jump Shot,3,6,31,True
+Ish Smith,1,11,31,1,Driving Floating Jump Shot,7,-50,57,True
+Ish Smith,3,3,29,0,Driving Floating Jump Shot,4,-32,34,True
+Ish Smith,2,7,8,0,Driving Floating Jump Shot,9,28,89,True
+Ish Smith,3,8,12,1,Driving Floating Jump Shot,5,-3,58,True
+Ish Smith,3,5,31,1,Driving Floating Jump Shot,5,-53,15,True
+Ish Smith,3,11,46,0,Driving Floating Jump Shot,8,-5,81,True
+Ish Smith,4,5,16,0,Driving Floating Jump Shot,11,54,107,True
+Ish Smith,2,9,24,1,Driving Floating Jump Shot,5,2,59,True
+Ish Smith,3,10,37,1,Driving Floating Jump Shot,6,16,59,True
+Ish Smith,3,8,58,1,Driving Floating Jump Shot,5,4,57,True
+Ish Smith,4,9,41,1,Driving Floating Jump Shot,10,80,73,True
+Ish Smith,4,4,30,0,Driving Floating Jump Shot,5,-34,43,True
+Ish Smith,4,8,18,1,Driving Floating Jump Shot,7,-14,73,True
+Ish Smith,4,8,38,1,Driving Floating Jump Shot,11,-89,73,True
+Ish Smith,1,4,39,0,Driving Hook Shot,5,-33,38,True
+Ish Smith,4,7,23,1,Driving Hook Shot,9,56,82,True
+Ish Smith,2,8,58,0,Driving Hook Shot,2,8,20,True
+Ish Smith,4,10,8,0,Driving Hook Shot,8,52,62,True
+Ish Smith,3,9,8,0,Driving Hook Shot,9,56,72,True
+Ish Smith,4,7,11,1,Driving Hook Shot,6,-11,68,True
+Ish Smith,3,10,9,1,Driving Hook Shot,8,41,71,True
+Ish Smith,1,4,41,0,Driving Hook Shot,2,12,27,True
+Ish Smith,4,6,10,0,Driving Hook Shot,9,94,28,True
+Ish Smith,4,4,5,0,Driving Hook Shot,5,11,54,True
+Ish Smith,1,3,21,0,Driving Hook Shot,8,28,84,True
+Ish Smith,3,6,16,0,Driving Hook Shot,5,29,44,True
+Ish Smith,2,8,55,0,Driving Hook Shot,8,2,83,True
+Ish Smith,4,9,16,0,Driving Layup Shot,6,-7,69,True
+Ish Smith,3,0,40,0,Driving Layup Shot,1,11,11,True
+Ish Smith,3,3,39,0,Driving Layup Shot,2,-21,14,True
+Ish Smith,2,6,17,1,Driving Layup Shot,1,2,11,True
+Ish Smith,2,11,17,1,Driving Layup Shot,1,11,0,True
+Ish Smith,3,1,14,0,Driving Layup Shot,1,10,13,True
+Ish Smith,3,4,17,0,Driving Layup Shot,0,2,-1,True
+Ish Smith,2,5,17,0,Driving Layup Shot,5,-48,14,True
+Ish Smith,3,5,11,1,Driving Layup Shot,0,3,4,True
+Ish Smith,4,8,13,1,Driving Layup Shot,3,-12,32,True
+Ish Smith,2,7,30,0,Driving Layup Shot,0,3,4,True
+Ish Smith,1,0,25,0,Driving Layup Shot,1,-4,10,True
+Ish Smith,3,0,1,0,Driving Layup Shot,2,-4,20,True
+Ish Smith,4,7,44,1,Driving Layup Shot,1,2,15,True
+Ish Smith,1,8,47,1,Driving Layup Shot,0,6,4,True
+Ish Smith,4,6,52,1,Driving Layup Shot,1,-7,13,True
+Ish Smith,1,1,26,0,Driving Layup Shot,3,-8,29,True
+Ish Smith,2,6,15,0,Driving Layup Shot,0,5,2,True
+Ish Smith,4,11,21,1,Driving Layup Shot,0,8,1,True
+Ish Smith,3,2,35,1,Driving Layup Shot,2,-14,17,True
+Ish Smith,2,1,22,0,Driving Layup Shot,4,31,37,True
+Ish Smith,3,5,57,0,Driving Layup Shot,4,30,28,True
+Ish Smith,3,6,52,1,Driving Layup Shot,0,3,4,True
+Ish Smith,2,1,14,0,Driving Layup Shot,4,22,37,True
+Ish Smith,3,3,56,1,Driving Layup Shot,1,0,10,True
+Ish Smith,1,4,59,0,Driving Layup Shot,2,13,20,True
+Ish Smith,2,1,9,0,Driving Layup Shot,8,3,85,True
+Ish Smith,1,1,57,1,Driving Layup Shot,2,27,12,True
+Ish Smith,1,8,2,1,Driving Layup Shot,0,-2,-1,True
+Ish Smith,3,3,59,1,Driving Layup Shot,1,6,17,True
+Ish Smith,3,7,3,0,Driving Layup Shot,4,43,16,True
+Ish Smith,1,3,28,1,Driving Layup Shot,0,2,5,True
+Ish Smith,3,9,12,1,Driving Layup Shot,3,35,7,True
+Ish Smith,2,3,48,0,Driving Layup Shot,1,19,5,True
+Ish Smith,3,5,47,0,Driving Layup Shot,1,-6,19,True
+Ish Smith,3,11,11,1,Driving Layup Shot,1,14,0,True
+Ish Smith,2,4,25,1,Driving Layup Shot,2,0,25,True
+Ish Smith,2,3,55,1,Driving Layup Shot,0,5,2,True
+Ish Smith,3,7,37,1,Driving Layup Shot,1,-8,11,True
+Ish Smith,4,10,48,1,Driving Layup Shot,0,5,-5,True
+Ish Smith,3,4,22,1,Driving Layup Shot,0,2,5,True
+Ish Smith,3,7,39,0,Driving Layup Shot,1,15,7,True
+Ish Smith,1,9,1,0,Driving Layup Shot,4,9,45,True
+Ish Smith,3,3,49,1,Driving Layup Shot,1,1,16,True
+Ish Smith,4,4,48,1,Driving Layup Shot,4,-8,45,True
+Ish Smith,1,4,47,1,Driving Layup Shot,1,-1,10,True
+Ish Smith,2,5,52,1,Driving Layup Shot,1,14,0,True
+Ish Smith,4,6,28,1,Driving Layup Shot,1,13,15,True
+Ish Smith,2,3,7,1,Driving Layup Shot,0,9,4,True
+Ish Smith,2,7,47,0,Driving Layup Shot,2,-13,23,True
+Ish Smith,3,6,41,0,Driving Layup Shot,5,49,15,True
+Ish Smith,3,8,27,1,Driving Layup Shot,1,-13,10,True
+Ish Smith,2,3,31,1,Driving Layup Shot,0,6,5,True
+Ish Smith,1,11,39,1,Driving Layup Shot,1,6,16,True
+Ish Smith,4,1,16,1,Driving Layup Shot,4,38,31,True
+Ish Smith,3,10,6,0,Driving Layup Shot,0,5,-5,True
+Ish Smith,2,8,44,1,Driving Layup Shot,4,-3,41,True
+Ish Smith,2,8,37,1,Driving Layup Shot,1,-1,18,True
+Ish Smith,1,4,50,1,Driving Layup Shot,1,3,13,True
+Ish Smith,4,3,32,1,Driving Layup Shot,1,-5,15,True
+Ish Smith,4,3,5,0,Driving Layup Shot,1,-13,11,True
+Ish Smith,1,5,3,0,Driving Layup Shot,1,-2,15,True
+Ish Smith,2,1,34,0,Driving Layup Shot,3,-3,30,True
+Ish Smith,1,3,23,1,Driving Layup Shot,0,2,8,True
+Ish Smith,4,3,46,1,Driving Layup Shot,1,-4,16,True
+Ish Smith,2,6,55,0,Driving Layup Shot,1,-14,4,True
+Ish Smith,2,1,1,0,Driving Layup Shot,2,22,16,True
+Ish Smith,2,6,36,0,Driving Layup Shot,0,5,-1,True
+Ish Smith,2,11,15,0,Driving Layup Shot,5,18,47,True
+Ish Smith,4,7,8,1,Driving Layup Shot,1,-2,10,True
+Ish Smith,4,2,58,0,Driving Layup Shot,7,70,37,True
+Ish Smith,4,5,37,1,Driving Layup Shot,6,57,35,True
+Ish Smith,2,7,8,1,Driving Layup Shot,1,7,14,True
+Ish Smith,2,6,29,1,Driving Layup Shot,1,11,14,True
+Ish Smith,1,0,50,1,Driving Layup Shot,1,13,8,True
+Ish Smith,1,6,19,0,Driving Layup Shot,1,5,19,True
+Ish Smith,3,1,13,1,Driving Layup Shot,2,16,12,True
+Ish Smith,1,2,4,1,Driving Layup Shot,1,8,16,True
+Ish Smith,2,0,2,1,Driving Layup Shot,0,5,4,True
+Ish Smith,4,7,29,0,Driving Layup Shot,1,-4,10,True
+Ish Smith,2,6,41,1,Driving Layup Shot,1,-6,10,True
+Ish Smith,4,10,46,1,Driving Layup Shot,1,3,10,True
+Ish Smith,2,8,55,1,Driving Layup Shot,3,36,16,True
+Ish Smith,4,9,14,0,Driving Layup Shot,2,26,1,True
+Ish Smith,3,2,50,1,Driving Layup Shot,4,11,43,True
+Ish Smith,2,9,19,1,Driving Layup Shot,2,12,16,True
+Ish Smith,4,5,20,0,Driving Layup Shot,3,32,11,True
+Ish Smith,4,0,42,1,Driving Layup Shot,0,1,8,True
+Ish Smith,4,4,11,1,Driving Layup Shot,1,-9,17,True
+Ish Smith,2,8,15,0,Driving Layup Shot,2,-16,18,True
+Ish Smith,3,1,9,1,Driving Layup Shot,0,5,2,True
+Ish Smith,1,10,20,1,Driving Layup Shot,1,9,8,True
+Ish Smith,2,5,24,1,Driving Layup Shot,3,29,19,True
+Ish Smith,4,5,12,1,Driving Layup Shot,1,0,12,True
+Ish Smith,3,3,30,1,Driving Layup Shot,1,6,13,True
+Ish Smith,1,4,29,1,Driving Layup Shot,0,6,5,True
+Ish Smith,3,11,6,1,Driving Layup Shot,0,-5,8,True
+Ish Smith,4,10,3,1,Driving Layup Shot,1,0,11,True
+Ish Smith,4,11,31,1,Driving Layup Shot,1,-4,15,True
+Ish Smith,4,5,12,1,Driving Layup Shot,1,3,11,True
+Ish Smith,4,6,22,1,Driving Layup Shot,1,5,9,True
+Ish Smith,2,9,24,1,Driving Layup Shot,0,6,5,True
+Ish Smith,1,1,25,0,Driving Layup Shot,1,13,10,True
+Ish Smith,4,6,17,1,Driving Layup Shot,1,-2,17,True
+Ish Smith,4,7,46,1,Driving Layup Shot,3,20,26,True
+Ish Smith,2,8,7,1,Driving Layup Shot,1,6,13,True
+Ish Smith,1,10,45,0,Driving Layup Shot,3,21,23,True
+Ish Smith,3,2,15,1,Driving Layup Shot,1,17,3,True
+Ish Smith,2,7,3,1,Driving Layup Shot,0,2,6,True
+Ish Smith,3,10,3,1,Driving Layup Shot,3,20,24,True
+Ish Smith,2,11,28,0,Driving Layup Shot,2,16,20,True
+Ish Smith,3,6,21,0,Driving Layup Shot,2,8,25,True
+Ish Smith,4,8,17,1,Driving Layup Shot,3,27,20,True
+Ish Smith,3,10,33,0,Driving Layup Shot,2,-15,19,True
+Ish Smith,3,3,14,1,Driving Layup Shot,2,16,20,True
+Ish Smith,2,0,22,0,Driving Layup Shot,4,41,4,True
+Ish Smith,4,9,33,0,Driving Layup Shot,2,-22,7,True
+Ish Smith,1,3,36,0,Driving Layup Shot,1,-11,13,True
+Ish Smith,1,3,41,1,Driving Layup Shot,5,-52,10,True
+Ish Smith,4,2,19,0,Driving Layup Shot,2,-18,16,True
+Ish Smith,4,1,50,1,Driving Layup Shot,3,-24,21,True
+Ish Smith,3,11,2,1,Driving Reverse Layup Shot,0,6,4,True
+Ish Smith,4,4,36,0,Driving Reverse Layup Shot,4,-19,43,True
+Ish Smith,4,11,8,1,Driving Reverse Layup Shot,1,11,15,True
+Ish Smith,1,5,53,1,Driving Reverse Layup Shot,1,-9,13,True
+Ish Smith,4,1,17,0,Driving Reverse Layup Shot,4,2,41,True
+Ish Smith,1,0,32,0,Driving Reverse Layup Shot,4,5,47,True
+Ish Smith,3,1,30,1,Driving Reverse Layup Shot,1,2,15,True
+Ish Smith,1,10,24,1,Driving Reverse Layup Shot,1,-14,10,True
+Ish Smith,1,0,55,1,Driving Reverse Layup Shot,2,6,25,True
+Ish Smith,1,7,28,1,Driving Reverse Layup Shot,2,-23,1,True
+Ish Smith,3,4,4,1,Driving Reverse Layup Shot,1,-11,0,True
+Ish Smith,1,10,46,1,Driving Reverse Layup Shot,1,10,5,True
+Ish Smith,3,7,59,1,Driving Reverse Layup Shot,2,19,15,True
+Ish Smith,2,4,3,1,Dunk Shot,0,0,1,True
+Ish Smith,4,7,47,0,Fadeaway Jump Shot,16,32,157,True
+Ish Smith,3,0,34,0,Fadeaway Jump Shot,6,-43,55,True
+Ish Smith,4,0,29,0,Fadeaway Jump Shot,17,87,155,True
+Ish Smith,1,2,14,1,Fadeaway Jump Shot,12,-123,8,True
+Ish Smith,1,9,19,1,Fadeaway Jump Shot,15,-133,85,True
+Ish Smith,3,0,0,0,Fadeaway Jump Shot,18,-92,164,True
+Ish Smith,2,8,53,0,Fadeaway Jump Shot,16,70,147,True
+Ish Smith,3,8,2,1,Fadeaway Jump Shot,17,-125,117,True
+Ish Smith,1,1,37,1,Fadeaway Jump Shot,8,-32,75,True
+Ish Smith,1,3,40,1,Fadeaway Jump Shot,8,82,33,True
+Ish Smith,3,2,47,1,Fadeaway Jump Shot,16,0,164,True
+Ish Smith,4,2,58,0,Fadeaway Jump Shot,18,-78,168,True
+Ish Smith,2,6,13,0,Fadeaway Jump Shot,8,77,24,True
+Ish Smith,2,4,7,0,Fadeaway Jump Shot,11,51,104,True
+Ish Smith,2,4,23,0,Fadeaway Jump Shot,11,7,115,True
+Ish Smith,2,10,39,0,Fadeaway Jump Shot,7,0,73,True
+Ish Smith,2,6,46,0,Finger Roll Layup Shot,3,-32,16,True
+Ish Smith,1,4,58,0,Floating Jump shot,6,-13,65,True
+Ish Smith,5,2,42,0,Floating Jump shot,4,-13,48,True
+Ish Smith,4,6,0,0,Floating Jump shot,7,-18,72,True
+Ish Smith,2,0,0,0,Floating Jump shot,9,29,86,True
+Ish Smith,1,11,49,0,Floating Jump shot,8,-11,83,True
+Ish Smith,1,10,45,0,Floating Jump shot,7,46,54,True
+Ish Smith,3,3,52,1,Floating Jump shot,5,-3,53,True
+Ish Smith,4,3,36,0,Floating Jump shot,3,4,31,True
+Ish Smith,3,4,32,0,Floating Jump shot,7,-60,38,True
+Ish Smith,4,7,12,1,Floating Jump shot,10,73,75,True
+Ish Smith,2,3,46,0,Floating Jump shot,9,-5,94,True
+Ish Smith,1,0,2,1,Floating Jump shot,3,28,27,True
+Ish Smith,3,3,28,0,Floating Jump shot,9,-14,89,True
+Ish Smith,2,7,43,1,Floating Jump shot,6,6,66,True
+Ish Smith,3,7,34,0,Floating Jump shot,7,40,61,True
+Ish Smith,3,0,0,0,Floating Jump shot,10,-52,88,True
+Ish Smith,4,4,20,1,Floating Jump shot,7,29,64,True
+Ish Smith,1,8,34,0,Floating Jump shot,6,-27,58,True
+Ish Smith,3,7,52,0,Floating Jump shot,7,32,67,True
+Ish Smith,3,11,44,1,Floating Jump shot,7,-43,66,True
+Ish Smith,3,3,6,0,Floating Jump shot,4,20,37,True
+Ish Smith,2,1,7,0,Floating Jump shot,7,-9,75,True
+Ish Smith,1,9,56,0,Floating Jump shot,4,-23,34,True
+Ish Smith,1,0,0,1,Jump Bank Shot,28,-215,194,False
+Ish Smith,3,1,47,0,Jump Bank Shot,8,68,49,True
+Ish Smith,4,7,27,1,Jump Bank Shot,1,15,12,True
+Ish Smith,4,0,14,1,Jump Shot,23,230,17,False
+Ish Smith,3,1,39,1,Jump Shot,14,57,135,True
+Ish Smith,3,4,52,1,Jump Shot,18,14,188,True
+Ish Smith,3,1,11,0,Jump Shot,17,92,145,True
+Ish Smith,2,10,12,1,Jump Shot,26,-130,228,False
+Ish Smith,3,2,11,0,Jump Shot,26,87,250,False
+Ish Smith,1,0,35,1,Jump Shot,18,180,11,True
+Ish Smith,4,0,50,0,Jump Shot,26,-3,266,False
+Ish Smith,3,4,16,1,Jump Shot,23,-233,-7,False
+Ish Smith,2,3,33,1,Jump Shot,26,-20,262,False
+Ish Smith,1,0,21,0,Jump Shot,25,-87,244,False
+Ish Smith,3,3,38,0,Jump Shot,22,225,-29,False
+Ish Smith,2,0,24,1,Jump Shot,27,-114,254,False
+Ish Smith,3,2,10,0,Jump Shot,27,123,250,False
+Ish Smith,2,0,34,0,Jump Shot,27,15,277,False
+Ish Smith,4,2,24,0,Jump Shot,13,-46,132,True
+Ish Smith,1,1,57,0,Jump Shot,26,30,264,False
+Ish Smith,1,0,28,0,Jump Shot,27,136,238,False
+Ish Smith,4,7,46,1,Jump Shot,25,-55,253,False
+Ish Smith,2,0,43,0,Jump Shot,23,-234,42,False
+Ish Smith,4,0,8,0,Jump Shot,26,60,260,False
+Ish Smith,2,2,59,0,Jump Shot,10,55,91,True
+Ish Smith,4,0,55,0,Jump Shot,23,-232,33,False
+Ish Smith,1,4,22,1,Jump Shot,19,-4,197,True
+Ish Smith,4,1,23,0,Jump Shot,19,32,193,True
+Ish Smith,1,1,57,1,Jump Shot,12,-109,66,True
+Ish Smith,1,2,6,0,Jump Shot,25,134,216,False
+Ish Smith,2,0,0,0,Jump Shot,48,-11,485,False
+Ish Smith,4,11,26,0,Jump Shot,25,-109,229,False
+Ish Smith,2,0,0,1,Jump Shot,24,199,142,False
+Ish Smith,3,0,20,0,Jump Shot,25,166,199,False
+Ish Smith,2,4,46,0,Jump Shot,25,-221,130,False
+Ish Smith,3,0,0,0,Jump Shot,71,136,699,False
+Ish Smith,2,0,39,1,Jump Shot,25,137,211,False
+Ish Smith,2,3,31,1,Jump Shot,15,155,-8,True
+Ish Smith,3,0,20,0,Jump Shot,22,-228,17,False
+Ish Smith,5,0,4,1,Jump Shot,25,-58,249,False
+Ish Smith,5,3,57,0,Jump Shot,18,129,138,True
+Ish Smith,5,4,12,0,Jump Shot,23,236,-5,False
+Ish Smith,3,6,44,0,Jump Shot,23,237,7,False
+Ish Smith,4,5,55,1,Jump Shot,23,-231,44,False
+Ish Smith,5,0,47,0,Jump Shot,24,140,204,False
+Ish Smith,3,4,24,0,Jump Shot,25,21,253,False
+Ish Smith,3,1,32,0,Jump Shot,23,-234,41,False
+Ish Smith,3,3,23,1,Jump Shot,25,138,211,False
+Ish Smith,4,2,28,1,Jump Shot,16,147,68,True
+Ish Smith,2,0,55,0,Jump Shot,19,58,184,True
+Ish Smith,1,5,58,1,Jump Shot,18,102,155,True
+Ish Smith,3,6,58,0,Jump Shot,25,19,253,False
+Ish Smith,4,5,32,1,Jump Shot,23,232,27,False
+Ish Smith,4,1,8,1,Jump Shot,24,188,161,False
+Ish Smith,4,4,54,0,Jump Shot,25,-136,217,False
+Ish Smith,3,9,26,1,Jump Shot,23,-228,48,False
+Ish Smith,1,4,12,1,Jump Shot,24,207,125,False
+Ish Smith,2,2,6,0,Jump Shot,24,234,77,False
+Ish Smith,2,3,42,0,Jump Shot,21,68,200,True
+Ish Smith,4,2,49,0,Jump Shot,22,-228,16,False
+Ish Smith,1,8,21,0,Jump Shot,15,108,116,True
+Ish Smith,1,3,41,0,Jump Shot,25,188,170,False
+Ish Smith,3,9,30,0,Jump Shot,24,-158,184,False
+Ish Smith,3,10,50,0,Jump Shot,21,-120,184,True
+Ish Smith,2,0,41,1,Jump Shot,24,-129,211,False
+Ish Smith,3,4,45,0,Jump Shot,5,-35,43,True
+Ish Smith,3,5,32,0,Jump Shot,19,-192,21,True
+Ish Smith,3,7,38,0,Jump Shot,14,103,106,True
+Ish Smith,1,11,13,1,Jump Shot,17,20,169,True
+Ish Smith,2,0,0,1,Jump Shot,24,-149,200,False
+Ish Smith,3,2,16,0,Jump Shot,22,228,5,False
+Ish Smith,2,3,1,0,Jump Shot,17,-125,117,True
+Ish Smith,3,3,33,0,Jump Shot,18,81,168,True
+Ish Smith,2,1,39,1,Jump Shot,19,-155,126,True
+Ish Smith,2,0,2,0,Jump Shot,26,-68,252,False
+Ish Smith,4,0,5,1,Jump Shot,25,-18,253,False
+Ish Smith,4,3,58,0,Jump Shot,11,-118,-21,True
+Ish Smith,4,0,38,0,Jump Shot,22,225,43,False
+Ish Smith,3,8,40,0,Jump Shot,17,-46,172,True
+Ish Smith,3,10,46,0,Jump Shot,12,117,42,True
+Ish Smith,2,0,0,1,Jump Shot,25,-133,218,False
+Ish Smith,2,3,13,0,Jump Shot,18,-43,178,True
+Ish Smith,1,10,43,0,Jump Shot,23,239,8,False
+Ish Smith,3,5,45,1,Jump Shot,14,57,131,True
+Ish Smith,1,7,3,0,Jump Shot,6,43,42,True
+Ish Smith,2,7,57,1,Jump Shot,23,-87,216,True
+Ish Smith,2,7,13,0,Jump Shot,10,-62,84,True
+Ish Smith,4,6,4,1,Jump Shot,8,33,82,True
+Ish Smith,2,0,47,0,Jump Shot,23,236,11,False
+Ish Smith,2,1,11,0,Jump Shot,16,15,168,True
+Ish Smith,4,1,43,0,Jump Shot,9,-9,94,True
+Ish Smith,3,3,31,1,Jump Shot,11,-55,106,True
+Ish Smith,3,5,27,0,Jump Shot,17,84,148,True
+Ish Smith,2,6,28,0,Jump Shot,22,-226,3,False
+Ish Smith,1,5,28,1,Jump Shot,23,231,-18,False
+Ish Smith,4,5,26,1,Jump Shot,12,-107,57,True
+Ish Smith,4,11,6,1,Jump Shot,18,-55,172,True
+Ish Smith,5,1,21,0,Jump Shot,26,185,191,False
+Ish Smith,3,0,24,0,Jump Shot,20,-63,191,True
+Ish Smith,4,5,33,0,Jump Shot,13,80,110,True
+Ish Smith,2,8,8,1,Jump Shot,22,-228,-10,False
+Ish Smith,5,0,36,0,Jump Shot,26,163,209,False
+Ish Smith,4,1,2,0,Jump Shot,21,63,209,True
+Ish Smith,2,0,55,0,Jump Shot,12,65,105,True
+Ish Smith,2,4,34,0,Jump Shot,12,66,110,True
+Ish Smith,1,6,37,0,Jump Shot,26,-8,263,False
+Ish Smith,4,2,58,1,Jump Shot,27,4,272,False
+Ish Smith,3,6,18,1,Jump Shot,18,-38,176,True
+Ish Smith,1,7,26,1,Jump Shot,19,112,159,True
+Ish Smith,2,0,0,0,Jump Shot,26,124,238,False
+Ish Smith,2,6,4,0,Jump Shot,24,-228,75,False
+Ish Smith,1,9,25,0,Jump Shot,19,84,178,True
+Ish Smith,3,3,44,0,Jump Shot,9,36,84,True
+Ish Smith,1,10,19,1,Jump Shot,19,141,136,True
+Ish Smith,2,1,9,0,Jump Shot,16,-11,167,True
+Ish Smith,3,8,4,0,Jump Shot,24,242,6,False
+Ish Smith,2,0,39,0,Jump Shot,4,14,47,True
+Ish Smith,3,5,19,0,Jump Shot,2,11,19,True
+Ish Smith,2,7,2,0,Jump Shot,13,47,131,True
+Ish Smith,3,5,28,1,Jump Shot,17,-78,154,True
+Ish Smith,3,7,33,0,Jump Shot,22,228,-4,False
+Ish Smith,2,8,11,0,Jump Shot,18,143,112,True
+Ish Smith,1,9,18,0,Jump Shot,18,32,180,True
+Ish Smith,3,6,15,0,Jump Shot,19,-189,64,True
+Ish Smith,2,3,58,0,Jump Shot,2,14,21,True
+Ish Smith,1,6,59,1,Jump Shot,13,62,117,True
+Ish Smith,1,4,56,0,Jump Shot,6,65,5,True
+Ish Smith,2,4,22,0,Jump Shot,8,-70,45,True
+Ish Smith,4,4,20,1,Jump Shot,19,19,196,True
+Ish Smith,4,2,31,0,Jump Shot,11,96,68,True
+Ish Smith,3,6,54,1,Jump Shot,19,-43,190,True
+Ish Smith,1,4,12,0,Jump Shot,18,42,179,True
+Ish Smith,3,4,44,1,Jump Shot,13,-44,125,True
+Ish Smith,2,5,45,0,Jump Shot,19,44,194,True
+Ish Smith,1,0,1,0,Jump Shot,9,75,54,True
+Ish Smith,3,2,56,0,Jump Shot,18,41,180,True
+Ish Smith,1,1,37,1,Jump Shot,16,23,166,True
+Ish Smith,3,1,25,0,Jump Shot,20,-112,173,True
+Ish Smith,3,5,41,1,Jump Shot,7,-4,78,True
+Ish Smith,3,4,19,0,Jump Shot,17,121,126,True
+Ish Smith,1,0,0,0,Jump Shot,35,154,325,False
+Ish Smith,1,0,3,0,Jump Shot,13,62,119,True
+Ish Smith,2,8,32,0,Jump Shot,11,-119,0,True
+Ish Smith,4,11,17,0,Jump Shot,16,-144,77,True
+Ish Smith,2,11,16,1,Jump Shot,11,-35,111,True
+Ish Smith,4,9,21,0,Jump Shot,15,84,134,True
+Ish Smith,3,1,40,0,Jump Shot,15,-68,144,True
+Ish Smith,2,11,46,0,Jump Shot,16,-36,164,True
+Ish Smith,2,11,45,1,Jump Shot,8,-29,75,True
+Ish Smith,2,11,13,0,Jump Shot,25,-229,101,False
+Ish Smith,4,3,30,0,Jump Shot,24,149,197,False
+Ish Smith,3,4,15,1,Jump Shot,21,-17,211,True
+Ish Smith,2,10,53,0,Jump Shot,9,-6,99,True
+Ish Smith,3,0,47,0,Jump Shot,10,-2,105,True
+Ish Smith,4,9,35,0,Jump Shot,18,21,179,True
+Ish Smith,4,8,47,0,Jump Shot,11,-13,113,True
+Ish Smith,3,3,0,0,Jump Shot,18,154,110,True
+Ish Smith,3,0,0,0,Jump Shot,25,-130,225,False
+Ish Smith,2,7,12,0,Jump Shot,15,24,157,True
+Ish Smith,1,1,11,1,Jump Shot,22,228,21,False
+Ish Smith,3,3,8,0,Jump Shot,13,131,48,True
+Ish Smith,1,0,3,0,Jump Shot,15,-9,151,True
+Ish Smith,3,2,2,0,Jump Shot,20,2,206,True
+Ish Smith,4,9,3,0,Jump Shot,26,157,218,False
+Ish Smith,2,9,43,0,Jump Shot,2,12,20,True
+Ish Smith,2,10,8,0,Jump Shot,28,-119,256,False
+Ish Smith,3,4,36,1,Jump Shot,9,-79,50,True
+Ish Smith,3,1,38,1,Jump Shot,25,182,173,False
+Ish Smith,2,6,10,0,Jump Shot,23,-232,3,False
+Ish Smith,2,11,30,0,Jump Shot,10,-27,101,True
+Ish Smith,4,9,31,0,Jump Shot,26,179,195,False
+Ish Smith,1,0,0,0,Jump Shot,25,-145,214,False
+Ish Smith,4,10,29,0,Jump Shot,16,-166,31,True
+Ish Smith,4,10,20,0,Jump Shot,12,67,100,True
+Ish Smith,1,1,8,0,Jump Shot,20,-202,-6,True
+Ish Smith,4,7,30,1,Jump Shot,14,36,143,True
+Ish Smith,1,4,4,1,Jump Shot,10,-101,-15,True
+Ish Smith,3,6,8,0,Jump Shot,25,-84,237,False
+Ish Smith,2,10,49,1,Jump Shot,15,128,86,True
+Ish Smith,1,0,0,0,Jump Shot,36,-148,332,False
+Ish Smith,2,11,46,0,Jump Shot,12,-29,126,True
+Ish Smith,2,11,19,1,Jump Shot,11,43,112,True
+Ish Smith,2,9,12,1,Jump Shot,10,-44,97,True
+Ish Smith,4,6,59,1,Jump Shot,17,-83,152,True
+Ish Smith,4,5,34,0,Jump Shot,25,-158,201,False
+Ish Smith,4,11,42,0,Jump Shot,17,-98,149,True
+Ish Smith,1,2,8,0,Jump Shot,23,-221,80,False
+Ish Smith,2,0,0,1,Jump Shot,14,-130,63,True
+Ish Smith,3,0,47,0,Jump Shot,24,-1,244,False
+Ish Smith,1,3,55,1,Jump Shot,20,-134,152,True
+Ish Smith,2,9,3,0,Jump Shot,19,11,190,True
+Ish Smith,3,4,25,1,Jump Shot,15,-93,130,True
+Ish Smith,1,2,45,0,Jump Shot,13,82,107,True
+Ish Smith,3,2,9,0,Jump Shot,24,11,248,False
+Ish Smith,2,9,22,1,Layup Shot,2,14,25,True
+Ish Smith,4,8,21,0,Layup Shot,3,27,29,True
+Ish Smith,2,7,54,0,Layup Shot,6,-57,21,True
+Ish Smith,2,7,20,0,Layup Shot,0,0,7,True
+Ish Smith,2,1,43,0,Layup Shot,3,-37,13,True
+Ish Smith,2,3,16,0,Layup Shot,2,3,24,True
+Ish Smith,3,6,15,0,Layup Shot,4,-35,29,True
+Ish Smith,3,9,2,0,Layup Shot,6,60,32,True
+Ish Smith,4,9,1,1,Layup Shot,1,4,16,True
+Ish Smith,3,3,50,0,Layup Shot,3,-3,35,True
+Ish Smith,3,6,20,0,Layup Shot,5,-22,50,True
+Ish Smith,1,2,13,0,Layup Shot,0,-8,-1,True
+Ish Smith,1,4,20,0,Layup Shot,3,30,23,True
+Ish Smith,1,2,21,0,Layup Shot,2,14,17,True
+Ish Smith,2,0,56,1,Layup Shot,1,-11,13,True
+Ish Smith,4,5,5,0,Layup Shot,3,15,29,True
+Ish Smith,4,4,20,1,Layup Shot,1,-11,12,True
+Ish Smith,3,3,53,0,Layup Shot,2,14,17,True
+Ish Smith,1,2,22,0,Layup Shot,5,-9,55,True
+Ish Smith,2,10,50,1,Layup Shot,2,-1,21,True
+Ish Smith,2,9,12,1,Layup Shot,0,1,8,True
+Ish Smith,1,8,19,0,Layup Shot,2,3,21,True
+Ish Smith,4,2,24,1,Layup Shot,1,-11,12,True
+Ish Smith,4,11,35,0,Layup Shot,0,-3,6,True
+Ish Smith,3,7,21,0,Layup Shot,4,-42,9,True
+Ish Smith,4,8,48,1,Layup Shot,1,-8,12,True
+Ish Smith,3,2,31,0,Layup Shot,2,17,16,True
+Ish Smith,4,3,54,0,Layup Shot,3,-38,5,True
+Ish Smith,2,9,3,1,Layup Shot,1,0,15,True
+Ish Smith,2,8,46,0,Layup Shot,6,64,20,True
+Ish Smith,1,3,58,0,Layup Shot,9,-73,55,True
+Ish Smith,2,9,35,0,Layup Shot,6,-62,7,True
+Ish Smith,3,1,5,1,Layup Shot,1,11,10,True
+Ish Smith,3,9,29,0,Layup Shot,4,11,44,True
+Ish Smith,4,4,16,0,Layup Shot,0,0,9,True
+Ish Smith,2,8,25,1,Layup Shot,1,-4,15,True
+Ish Smith,4,3,34,1,Layup Shot,4,32,27,True
+Ish Smith,4,1,31,0,Layup Shot,1,3,15,True
+Ish Smith,1,2,43,1,Layup Shot,0,8,4,True
+Ish Smith,4,4,40,1,Layup Shot,0,3,-1,True
+Ish Smith,4,9,55,0,Layup Shot,0,2,6,True
+Ish Smith,2,9,42,0,Layup Shot,0,-3,5,True
+Ish Smith,2,7,1,0,Layup Shot,1,1,14,True
+Ish Smith,4,9,8,0,Layup Shot,4,47,13,True
+Ish Smith,4,6,12,1,Layup Shot,1,-8,11,True
+Ish Smith,1,7,14,0,Layup Shot,2,-13,27,True
+Ish Smith,2,6,29,0,Layup Shot,3,26,29,True
+Ish Smith,1,5,46,1,Layup Shot,1,-17,6,True
+Ish Smith,2,9,49,0,Layup Shot,4,47,16,True
+Ish Smith,4,6,29,0,Layup Shot,0,5,6,True
+Ish Smith,3,6,20,0,Layup Shot,2,5,27,True
+Ish Smith,4,7,44,0,Layup Shot,1,-12,1,True
+Ish Smith,3,10,44,1,Layup Shot,4,2,42,True
+Ish Smith,3,3,42,0,Layup Shot,2,27,6,True
+Ish Smith,4,6,25,0,Layup Shot,3,-5,32,True
+Ish Smith,2,7,24,0,Layup Shot,3,-5,34,True
+Ish Smith,2,9,8,1,Layup Shot,1,9,10,True
+Ish Smith,4,5,44,1,Layup Shot,1,4,12,True
+Ish Smith,2,5,44,1,Layup Shot,1,13,0,True
+Ish Smith,4,10,16,0,Layup Shot,3,-10,36,True
+Ish Smith,1,3,10,1,Layup Shot,2,22,3,True
+Ish Smith,1,2,45,0,Pullup Jump shot,15,97,127,True
+Ish Smith,4,8,48,1,Pullup Jump shot,14,-143,11,True
+Ish Smith,1,9,7,1,Pullup Jump shot,19,-115,152,True
+Ish Smith,5,4,42,0,Pullup Jump shot,20,-15,209,True
+Ish Smith,4,10,57,1,Pullup Jump shot,20,130,162,True
+Ish Smith,4,1,21,1,Pullup Jump shot,26,-169,198,False
+Ish Smith,2,10,59,1,Pullup Jump shot,19,136,143,True
+Ish Smith,4,11,24,1,Pullup Jump shot,16,149,69,True
+Ish Smith,1,4,51,0,Pullup Jump shot,8,20,78,True
+Ish Smith,1,8,4,0,Pullup Jump shot,19,51,184,True
+Ish Smith,4,9,19,0,Pullup Jump shot,17,36,168,True
+Ish Smith,2,3,30,1,Pullup Jump shot,16,146,68,True
+Ish Smith,2,2,44,1,Pullup Jump shot,14,-74,120,True
+Ish Smith,2,0,36,1,Pullup Jump shot,15,145,39,True
+Ish Smith,2,2,13,0,Pullup Jump shot,13,-47,128,True
+Ish Smith,4,5,17,0,Pullup Jump shot,18,114,145,True
+Ish Smith,1,6,18,0,Pullup Jump shot,14,15,144,True
+Ish Smith,2,0,31,0,Pullup Jump shot,17,154,85,True
+Ish Smith,1,2,4,1,Pullup Jump shot,9,43,85,True
+Ish Smith,2,7,41,0,Pullup Jump shot,18,-77,172,True
+Ish Smith,3,8,5,0,Pullup Jump shot,17,-58,164,True
+Ish Smith,2,1,58,0,Pullup Jump shot,15,3,159,True
+Ish Smith,1,6,11,1,Pullup Jump shot,15,20,153,True
+Ish Smith,1,7,54,0,Pullup Jump shot,12,122,43,True
+Ish Smith,1,4,26,1,Pullup Jump shot,16,28,167,True
+Ish Smith,3,0,20,1,Pullup Jump shot,14,147,-13,True
+Ish Smith,1,9,19,1,Pullup Jump shot,14,-29,141,True
+Ish Smith,1,10,10,0,Pullup Jump shot,15,20,158,True
+Ish Smith,4,0,57,0,Pullup Jump shot,19,118,159,True
+Ish Smith,1,3,36,0,Pullup Jump shot,19,-7,193,True
+Ish Smith,2,2,19,1,Pullup Jump shot,14,8,148,True
+Ish Smith,2,1,3,1,Pullup Jump shot,13,-67,113,True
+Ish Smith,4,11,41,0,Pullup Jump shot,17,-20,172,True
+Ish Smith,3,8,15,1,Pullup Jump shot,21,-79,199,True
+Ish Smith,1,0,15,1,Pullup Jump shot,26,84,247,False
+Ish Smith,2,4,29,1,Pullup Jump shot,15,-41,145,True
+Ish Smith,1,3,8,1,Pullup Jump shot,10,78,72,True
+Ish Smith,1,7,47,0,Pullup Jump shot,11,32,113,True
+Ish Smith,3,7,31,0,Pullup Jump shot,16,-78,148,True
+Ish Smith,4,7,39,0,Pullup Jump shot,24,11,248,False
+Ish Smith,3,0,1,0,Pullup Jump shot,16,49,153,True
+Ish Smith,1,0,4,1,Pullup Jump shot,15,19,154,True
+Ish Smith,1,1,29,1,Pullup Jump shot,10,87,53,True
+Ish Smith,3,0,1,0,Pullup Jump shot,20,-122,162,True
+Ish Smith,3,0,26,0,Pullup Jump shot,21,27,215,True
+Ish Smith,3,2,39,1,Pullup Jump shot,13,9,136,True
+Ish Smith,2,11,42,0,Pullup Jump shot,16,35,159,True
+Ish Smith,3,2,7,0,Pullup Jump shot,9,-18,92,True
+Ish Smith,2,9,39,1,Pullup Jump shot,13,-111,70,True
+Ish Smith,4,3,22,0,Pullup Jump shot,12,78,99,True
+Ish Smith,3,2,47,1,Pullup Jump shot,15,81,137,True
+Ish Smith,1,10,16,1,Pullup Jump shot,16,107,127,True
+Ish Smith,1,2,58,1,Pullup Jump shot,8,71,51,True
+Ish Smith,4,7,49,0,Pullup Jump shot,15,5,157,True
+Ish Smith,2,9,28,0,Pullup Jump shot,19,192,13,True
+Ish Smith,4,11,18,0,Pullup Jump shot,14,76,129,True
+Ish Smith,2,7,33,1,Pullup Jump shot,11,-74,91,True
+Ish Smith,2,10,47,0,Pullup Jump shot,19,-68,183,True
+Ish Smith,4,7,39,1,Pullup Jump shot,18,119,145,True
+Ish Smith,1,2,25,1,Pullup Jump shot,19,129,148,True
+Ish Smith,2,7,23,1,Pullup Jump shot,9,-35,87,True
+Ish Smith,3,0,50,1,Pullup Jump shot,19,-36,192,True
+Ish Smith,2,11,7,1,Pullup Jump shot,17,-65,166,True
+Ish Smith,2,7,48,0,Pullup Jump shot,18,94,158,True
+Ish Smith,1,9,14,0,Pullup Jump shot,17,-138,112,True
+Ish Smith,3,0,2,0,Pullup Jump shot,22,143,173,True
+Ish Smith,1,1,29,0,Pullup Jump shot,17,-85,150,True
+Ish Smith,1,0,1,1,Pullup Jump shot,18,36,178,True
+Ish Smith,1,5,31,1,Pullup Jump shot,10,-31,100,True
+Ish Smith,2,10,22,0,Pullup Jump shot,21,71,199,True
+Ish Smith,2,7,48,1,Pullup Jump shot,20,21,204,True
+Ish Smith,1,11,30,0,Pullup Jump shot,14,70,132,True
+Ish Smith,4,9,51,0,Pullup Jump shot,18,122,137,True
+Ish Smith,1,2,51,1,Pullup Jump shot,8,63,56,True
+Ish Smith,3,4,42,0,Pullup Jump shot,14,120,78,True
+Ish Smith,1,0,31,1,Pullup Jump shot,11,47,108,True
+Ish Smith,3,1,6,0,Pullup Jump shot,15,121,98,True
+Ish Smith,2,8,14,1,Pullup Jump shot,10,2,101,True
+Ish Smith,1,6,0,0,Pullup Jump shot,15,76,140,True
+Ish Smith,4,2,7,1,Pullup Jump shot,17,177,21,True
+Ish Smith,1,3,58,0,Pullup Jump shot,19,-158,116,True
+Ish Smith,2,0,49,1,Pullup Jump shot,13,-72,117,True
+Ish Smith,4,8,1,0,Pullup Jump shot,20,-88,183,True
+Ish Smith,2,8,18,1,Pullup Jump shot,10,-32,96,True
+Ish Smith,1,0,28,0,Pullup Jump shot,20,138,152,True
+Ish Smith,4,2,21,0,Pullup Jump shot,9,-6,99,True
+Ish Smith,2,8,30,1,Pullup Jump shot,24,215,122,False
+Ish Smith,4,2,7,0,Pullup Jump shot,25,-54,251,False
+Ish Smith,2,1,56,1,Pullup Jump shot,16,169,-5,True
+Ish Smith,4,9,16,1,Pullup Jump shot,16,29,158,True
+Ish Smith,1,2,42,1,Pullup Jump shot,21,13,217,True
+Ish Smith,1,5,44,0,Pullup Jump shot,15,-17,151,True
+Ish Smith,3,1,13,1,Pullup Jump shot,19,-73,180,True
+Ish Smith,1,2,20,1,Pullup Jump shot,25,64,243,False
+Ish Smith,3,2,59,1,Pullup Jump shot,19,155,122,True
+Ish Smith,1,0,2,0,Pullup Jump shot,14,38,137,True
+Ish Smith,4,10,57,1,Pullup Jump shot,19,68,184,True
+Ish Smith,2,0,2,1,Pullup Jump shot,25,31,252,False
+Ish Smith,4,9,22,1,Pullup Jump shot,18,49,183,True
+Ish Smith,2,8,0,1,Pullup Jump shot,12,-22,127,True
+Ish Smith,2,4,13,1,Pullup Jump shot,13,82,105,True
+Ish Smith,2,6,38,1,Pullup Jump shot,15,-3,157,True
+Ish Smith,3,10,2,1,Pullup Jump shot,19,-66,181,True
+Ish Smith,3,8,31,0,Pullup Jump shot,14,75,125,True
+Ish Smith,1,9,13,1,Pullup Jump shot,15,-59,147,True
+Ish Smith,2,1,24,1,Pullup Jump shot,13,139,3,True
+Ish Smith,3,2,23,1,Pullup Jump shot,16,46,157,True
+Ish Smith,2,10,45,1,Pullup Jump shot,18,81,168,True
+Ish Smith,2,0,18,0,Pullup Jump shot,14,118,92,True
+Ish Smith,4,1,31,0,Pullup Jump shot,18,162,96,True
+Ish Smith,4,11,38,0,Pullup Jump shot,19,-7,195,True
+Ish Smith,1,8,8,0,Pullup Jump shot,12,-51,119,True
+Ish Smith,1,0,58,0,Pullup Jump shot,16,-57,157,True
+Ish Smith,1,0,52,0,Pullup Jump shot,14,-1,142,True
+Ish Smith,2,4,34,0,Pullup Jump shot,12,51,117,True
+Ish Smith,3,1,9,1,Pullup Jump shot,21,92,195,True
+Ish Smith,3,2,43,1,Pullup Jump shot,15,-131,74,True
+Ish Smith,1,5,18,0,Pullup Jump shot,14,58,134,True
+Ish Smith,3,9,36,1,Pullup Jump shot,15,-121,99,True
+Ish Smith,4,5,22,1,Pullup Jump shot,19,199,-1,True
+Ish Smith,1,0,0,0,Pullup Jump shot,15,52,148,True
+Ish Smith,3,1,17,1,Pullup Jump shot,15,-118,98,True
+Ish Smith,4,5,34,0,Pullup Jump shot,15,89,127,True
+Ish Smith,3,7,42,0,Pullup Jump shot,11,-27,107,True
+Ish Smith,3,8,9,1,Pullup Jump shot,16,-66,151,True
+Ish Smith,1,4,56,1,Pullup Jump shot,10,38,99,True
+Ish Smith,2,2,23,1,Pullup Jump shot,10,-24,99,True
+Ish Smith,3,3,25,0,Pullup Jump shot,11,-103,59,True
+Ish Smith,4,7,3,0,Pullup Jump shot,11,74,87,True
+Ish Smith,3,10,56,0,Pullup Jump shot,19,-152,120,True
+Ish Smith,1,5,47,1,Pullup Jump shot,11,59,102,True
+Ish Smith,2,0,57,1,Pullup Jump shot,18,188,-1,True
+Ish Smith,1,4,59,1,Pullup Jump shot,18,0,185,True
+Ish Smith,1,9,0,1,Pullup Jump shot,14,16,145,True
+Ish Smith,2,1,54,1,Pullup Jump shot,15,-67,145,True
+Ish Smith,2,0,0,1,Pullup Jump shot,21,-120,184,True
+Ish Smith,3,10,37,0,Pullup Jump shot,14,-76,120,True
+Ish Smith,2,0,20,1,Pullup Jump shot,12,-89,84,True
+Ish Smith,4,4,55,0,Pullup Jump shot,11,14,110,True
+Ish Smith,3,3,51,1,Pullup Jump shot,8,-47,72,True
+Ish Smith,2,2,9,0,Pullup Jump shot,15,-57,148,True
+Ish Smith,4,3,44,0,Pullup Jump shot,19,111,158,True
+Ish Smith,1,7,1,0,Pullup Jump shot,16,-127,98,True
+Ish Smith,2,5,34,1,Pullup Jump shot,15,11,158,True
+Ish Smith,3,4,54,1,Pullup Jump shot,12,120,-5,True
+Ish Smith,3,10,49,0,Pullup Jump shot,17,42,174,True
+Ish Smith,1,3,20,1,Pullup Jump shot,15,-152,41,True
+Ish Smith,2,0,10,1,Pullup Jump shot,21,90,198,True
+Ish Smith,4,10,43,1,Pullup Jump shot,16,106,122,True
+Ish Smith,1,7,15,1,Pullup Jump shot,17,118,130,True
+Ish Smith,4,2,23,0,Pullup Jump shot,17,14,172,True
+Ish Smith,3,8,17,0,Pullup Jump shot,18,86,167,True
+Ish Smith,4,9,48,0,Pullup Jump shot,8,42,74,True
+Ish Smith,2,11,12,0,Pullup Jump shot,15,52,146,True
+Ish Smith,4,11,38,1,Pullup Jump shot,16,-1,162,True
+Ish Smith,3,0,29,0,Pullup Jump shot,19,51,190,True
+Ish Smith,2,5,21,1,Pullup Jump shot,6,29,60,True
+Ish Smith,1,6,8,1,Pullup Jump shot,15,-74,136,True
+Ish Smith,4,5,57,0,Reverse Layup Shot,1,-5,14,True
+Ish Smith,4,1,23,0,Reverse Layup Shot,1,-11,11,True
+Ish Smith,4,6,32,1,Running Finger Roll Layup Shot,0,2,-7,True
+Ish Smith,2,2,38,1,Running Finger Roll Layup Shot,2,12,17,True
+Ish Smith,3,2,17,1,Running Finger Roll Layup Shot,1,0,16,True
+Ish Smith,3,2,39,1,Running Finger Roll Layup Shot,2,25,8,True
+Ish Smith,3,3,19,0,Running Finger Roll Layup Shot,4,-22,34,True
+Ish Smith,1,9,46,0,Running Jump Shot,22,-226,-16,False
+Ish Smith,1,0,0,1,Running Jump Shot,55,11,556,False
+Ish Smith,2,0,28,1,Running Layup Shot,1,-5,15,True
+Ish Smith,1,1,10,1,Running Layup Shot,0,-4,9,True
+Ish Smith,4,10,17,1,Running Layup Shot,0,-3,5,True
+Ish Smith,4,11,19,1,Running Layup Shot,1,-14,8,True
+Ish Smith,2,1,31,1,Running Layup Shot,1,-11,8,True
+Ish Smith,2,2,1,1,Running Layup Shot,1,17,10,True
+Ish Smith,3,6,4,1,Running Layup Shot,2,13,25,True
+Ish Smith,4,10,43,1,Running Layup Shot,1,13,4,True
+Ish Smith,2,1,0,0,Running Layup Shot,2,24,-5,True
+Ish Smith,3,6,56,0,Running Layup Shot,4,-40,4,True
+Ish Smith,4,8,27,1,Running Layup Shot,0,-8,5,True
+Ish Smith,2,3,57,1,Running Layup Shot,3,-17,27,True
+Ish Smith,3,7,50,0,Running Layup Shot,2,-20,10,True
+Ish Smith,1,4,59,0,Running Layup Shot,1,14,9,True
+Ish Smith,4,5,49,0,Running Layup Shot,4,33,25,True
+Ish Smith,2,8,2,1,Running Layup Shot,1,17,9,True
+Ish Smith,3,11,43,1,Running Layup Shot,2,17,17,True
+Ish Smith,2,6,23,1,Running Layup Shot,2,-19,21,True
+Ish Smith,3,0,21,1,Running Layup Shot,3,-1,34,True
+Ish Smith,2,10,5,0,Running Pull-Up Jump Shot,14,-149,16,True
+Ish Smith,3,10,14,1,Running Pull-Up Jump Shot,15,92,130,True
+Ish Smith,4,0,56,1,Running Pull-Up Jump Shot,7,10,76,True
+Ish Smith,4,0,28,1,Running Pull-Up Jump Shot,11,-105,52,True
+Ish Smith,1,0,0,0,Running Pull-Up Jump Shot,13,-54,120,True
+Ish Smith,2,0,0,0,Running Pull-Up Jump Shot,26,139,229,False
+Ish Smith,3,2,52,1,Running Pull-Up Jump Shot,6,-25,65,True
+Ish Smith,4,8,46,1,Running Reverse Layup Shot,1,5,17,True
+Ish Smith,2,2,5,1,Running Reverse Layup Shot,2,-13,20,True
+Ish Smith,4,8,17,0,Step Back Jump shot,16,-8,168,True
+Ish Smith,1,4,30,0,Step Back Jump shot,14,-71,127,True
+Ish Smith,1,1,43,1,Step Back Jump shot,13,-131,35,True
+Ish Smith,1,5,47,0,Step Back Jump shot,23,-231,-2,False
+Ish Smith,1,1,51,0,Step Back Jump shot,17,-100,144,True
+Ish Smith,1,0,16,0,Step Back Jump shot,18,121,134,True
+Ish Smith,4,10,38,0,Step Back Jump shot,18,101,149,True
+Ish Smith,4,9,7,0,Step Back Jump shot,18,90,158,True
+Ish Smith,1,3,16,1,Step Back Jump shot,18,-46,184,True
+Ish Smith,3,1,28,1,Step Back Jump shot,15,18,150,True
+Ish Smith,2,11,44,1,Step Back Jump shot,12,127,5,True
+Ish Smith,2,3,8,1,Step Back Jump shot,9,-39,88,True
+Ish Smith,4,7,51,0,Step Back Jump shot,14,60,135,True
+Ish Smith,2,2,21,1,Step Back Jump shot,25,93,241,False
+Ish Smith,2,1,24,0,Step Back Jump shot,10,-68,75,True
+Ish Smith,4,9,49,1,Step Back Jump shot,13,63,120,True
+Ish Smith,1,5,24,1,Step Back Jump shot,16,-101,132,True
+Ish Smith,2,10,1,0,Step Back Jump shot,9,-73,63,True
+Ish Smith,3,0,39,0,Step Back Jump shot,26,111,243,False
+Ish Smith,4,8,17,1,Step Back Jump shot,15,63,139,True
+Ish Smith,3,3,44,0,Step Back Jump shot,16,52,159,True
+Ish Smith,3,8,25,0,Step Back Jump shot,14,-141,42,True
+Ish Smith,4,10,9,1,Step Back Jump shot,15,-84,126,True
+Ish Smith,3,0,0,1,Step Back Jump shot,19,38,195,True
+Ish Smith,2,7,32,1,Step Back Jump shot,19,-99,173,True
+Ish Smith,1,4,17,1,Step Back Jump shot,14,-140,-20,True
+Ish Smith,2,4,31,1,Step Back Jump shot,11,0,117,True
+Ish Smith,1,2,31,1,Step Back Jump shot,16,112,117,True
+Ish Smith,4,2,33,1,Step Back Jump shot,14,76,124,True
+Ish Smith,1,7,26,1,Step Back Jump shot,15,147,38,True
+Ish Smith,1,0,2,0,Step Back Jump shot,15,127,92,True
+Ish Smith,3,7,25,0,Tip Layup Shot,0,0,-6,True
+Ish Smith,3,4,36,0,Turnaround Fadeaway shot,13,-84,111,True
+Ish Smith,4,8,14,1,Turnaround Fadeaway shot,10,81,69,True
+Ish Smith,3,0,21,0,Turnaround Fadeaway shot,7,71,8,True
+Ish Smith,2,4,21,1,Turnaround Fadeaway shot,10,-102,24,True
+Ish Smith,3,0,17,0,Turnaround Fadeaway shot,9,5,98,True
+Ish Smith,3,3,38,1,Turnaround Fadeaway shot,8,62,55,True
+Ish Smith,3,3,9,1,Turnaround Fadeaway shot,11,-60,102,True
+Ish Smith,2,0,0,0,Turnaround Jump Shot,13,-38,131,True
+Ish Smith,1,10,36,1,Turnaround Jump Shot,6,3,69,True
+Ish Smith,4,10,26,1,Turnaround Jump Shot,8,83,-8,True
+Ish Smith,3,10,10,1,Turnaround Jump Shot,14,-142,44,True

@@ -1,0 +1,724 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Courtney Lee,3,0,32,0,Alley Oop Layup shot,0,-3,9,True
+Courtney Lee,1,6,50,1,Cutting Finger Roll Layup Shot,1,3,13,True
+Courtney Lee,4,5,41,1,Cutting Layup Shot,2,-21,6,True
+Courtney Lee,1,4,15,0,Cutting Layup Shot,6,49,46,True
+Courtney Lee,2,0,52,1,Cutting Layup Shot,1,-1,16,True
+Courtney Lee,3,10,28,1,Cutting Layup Shot,1,-11,9,True
+Courtney Lee,2,3,27,1,Cutting Layup Shot,1,-13,4,True
+Courtney Lee,3,3,39,1,Cutting Layup Shot,1,3,12,True
+Courtney Lee,2,0,32,1,Cutting Layup Shot,1,-5,10,True
+Courtney Lee,4,11,32,1,Cutting Layup Shot,0,9,3,True
+Courtney Lee,1,3,47,0,Cutting Layup Shot,0,-2,5,True
+Courtney Lee,2,4,2,1,Driving Dunk Shot,0,-9,0,True
+Courtney Lee,1,7,43,0,Driving Finger Roll Layup Shot,3,-19,28,True
+Courtney Lee,2,0,40,1,Driving Finger Roll Layup Shot,3,2,31,True
+Courtney Lee,1,11,39,1,Driving Finger Roll Layup Shot,2,-7,26,True
+Courtney Lee,3,5,55,1,Driving Finger Roll Layup Shot,2,16,17,True
+Courtney Lee,3,10,26,0,Driving Finger Roll Layup Shot,0,-2,8,True
+Courtney Lee,2,0,13,1,Driving Finger Roll Layup Shot,0,8,1,True
+Courtney Lee,3,0,42,0,Driving Finger Roll Layup Shot,1,0,15,True
+Courtney Lee,2,6,48,1,Driving Finger Roll Layup Shot,1,-2,19,True
+Courtney Lee,1,5,59,0,Driving Floating Bank Jump Shot,12,94,85,True
+Courtney Lee,1,10,46,1,Driving Floating Bank Jump Shot,3,25,25,True
+Courtney Lee,1,6,47,0,Driving Floating Bank Jump Shot,5,35,36,True
+Courtney Lee,3,9,8,0,Driving Floating Bank Jump Shot,12,-109,63,True
+Courtney Lee,1,11,14,0,Driving Floating Bank Jump Shot,8,-62,52,True
+Courtney Lee,3,4,35,1,Driving Floating Bank Jump Shot,3,17,27,True
+Courtney Lee,4,2,31,1,Driving Floating Bank Jump Shot,12,-110,62,True
+Courtney Lee,3,1,51,1,Driving Floating Bank Jump Shot,15,117,101,True
+Courtney Lee,1,10,27,0,Driving Floating Bank Jump Shot,4,36,18,True
+Courtney Lee,1,1,17,0,Driving Floating Bank Jump Shot,7,54,59,True
+Courtney Lee,4,7,33,1,Driving Floating Bank Jump Shot,1,2,11,True
+Courtney Lee,1,6,23,0,Driving Floating Bank Jump Shot,8,73,43,True
+Courtney Lee,3,0,0,0,Driving Floating Jump Shot,22,-228,16,False
+Courtney Lee,1,0,0,0,Driving Floating Jump Shot,15,38,146,True
+Courtney Lee,1,8,55,1,Driving Floating Jump Shot,14,12,141,True
+Courtney Lee,3,11,44,1,Driving Floating Jump Shot,8,8,85,True
+Courtney Lee,4,2,47,1,Driving Floating Jump Shot,9,-5,96,True
+Courtney Lee,3,1,6,0,Driving Floating Jump Shot,9,97,15,True
+Courtney Lee,3,8,7,1,Driving Floating Jump Shot,15,-154,-5,True
+Courtney Lee,1,10,23,1,Driving Floating Jump Shot,11,7,111,True
+Courtney Lee,2,0,8,0,Driving Floating Jump Shot,10,100,35,True
+Courtney Lee,4,3,48,0,Driving Floating Jump Shot,13,-7,139,True
+Courtney Lee,1,5,17,1,Driving Floating Jump Shot,11,8,115,True
+Courtney Lee,1,9,21,1,Driving Floating Jump Shot,1,7,15,True
+Courtney Lee,3,5,52,1,Driving Floating Jump Shot,3,11,32,True
+Courtney Lee,4,6,4,0,Driving Floating Jump Shot,15,-49,143,True
+Courtney Lee,3,11,1,0,Driving Floating Jump Shot,8,38,80,True
+Courtney Lee,1,3,21,1,Driving Floating Jump Shot,4,4,46,True
+Courtney Lee,1,3,51,0,Driving Floating Jump Shot,8,33,75,True
+Courtney Lee,1,9,22,0,Driving Floating Jump Shot,10,5,101,True
+Courtney Lee,3,8,0,0,Driving Floating Jump Shot,6,3,69,True
+Courtney Lee,4,8,42,1,Driving Floating Jump Shot,4,-26,35,True
+Courtney Lee,1,4,31,1,Driving Floating Jump Shot,10,-100,20,True
+Courtney Lee,3,9,17,0,Driving Floating Jump Shot,9,-43,86,True
+Courtney Lee,4,1,46,1,Driving Floating Jump Shot,6,36,55,True
+Courtney Lee,4,8,52,0,Driving Floating Jump Shot,9,39,84,True
+Courtney Lee,3,3,37,1,Driving Floating Jump Shot,4,-39,27,True
+Courtney Lee,2,6,35,0,Driving Floating Jump Shot,9,43,89,True
+Courtney Lee,1,11,28,0,Driving Floating Jump Shot,11,-26,115,True
+Courtney Lee,1,7,25,1,Driving Floating Jump Shot,3,-1,34,True
+Courtney Lee,4,4,3,1,Driving Floating Jump Shot,1,-10,8,True
+Courtney Lee,2,0,55,1,Driving Floating Jump Shot,7,9,79,True
+Courtney Lee,2,9,54,1,Driving Floating Jump Shot,10,-12,100,True
+Courtney Lee,1,4,32,0,Driving Floating Jump Shot,5,22,46,True
+Courtney Lee,2,0,36,1,Driving Floating Jump Shot,13,-27,132,True
+Courtney Lee,1,8,0,1,Driving Hook Shot,3,-3,39,True
+Courtney Lee,1,10,3,0,Driving Layup Shot,1,0,13,True
+Courtney Lee,3,4,21,1,Driving Layup Shot,0,3,2,True
+Courtney Lee,3,8,1,0,Driving Layup Shot,1,9,6,True
+Courtney Lee,2,0,1,0,Driving Layup Shot,1,-11,-1,True
+Courtney Lee,4,3,9,1,Driving Layup Shot,1,6,16,True
+Courtney Lee,1,9,16,0,Driving Layup Shot,1,13,10,True
+Courtney Lee,2,4,59,1,Driving Layup Shot,0,-5,-5,True
+Courtney Lee,4,5,59,1,Driving Layup Shot,1,-9,11,True
+Courtney Lee,1,10,38,0,Driving Layup Shot,0,8,-1,True
+Courtney Lee,4,5,51,0,Driving Layup Shot,1,13,11,True
+Courtney Lee,3,2,33,1,Driving Layup Shot,1,11,15,True
+Courtney Lee,2,3,38,1,Driving Layup Shot,2,22,6,True
+Courtney Lee,3,11,15,1,Driving Layup Shot,0,5,-5,True
+Courtney Lee,1,2,36,1,Driving Layup Shot,1,-11,13,True
+Courtney Lee,2,5,6,0,Driving Layup Shot,1,18,6,True
+Courtney Lee,2,4,31,0,Driving Layup Shot,1,9,6,True
+Courtney Lee,4,3,57,1,Driving Layup Shot,1,5,16,True
+Courtney Lee,1,8,50,0,Driving Layup Shot,3,-6,32,True
+Courtney Lee,2,10,52,0,Driving Layup Shot,1,-8,7,True
+Courtney Lee,2,5,46,1,Driving Layup Shot,0,4,5,True
+Courtney Lee,3,11,2,0,Driving Layup Shot,1,1,11,True
+Courtney Lee,4,0,30,1,Driving Layup Shot,1,14,13,True
+Courtney Lee,2,7,43,1,Driving Layup Shot,1,-8,18,True
+Courtney Lee,2,9,37,1,Driving Layup Shot,2,7,21,True
+Courtney Lee,1,10,56,1,Driving Layup Shot,2,9,25,True
+Courtney Lee,3,6,51,1,Driving Layup Shot,0,2,4,True
+Courtney Lee,3,6,17,1,Driving Layup Shot,1,-9,6,True
+Courtney Lee,3,9,54,1,Driving Layup Shot,1,-6,14,True
+Courtney Lee,3,4,49,1,Driving Layup Shot,1,-18,7,True
+Courtney Lee,2,9,17,0,Driving Layup Shot,2,5,24,True
+Courtney Lee,4,4,6,0,Driving Layup Shot,2,21,13,True
+Courtney Lee,2,4,44,1,Driving Layup Shot,1,8,7,True
+Courtney Lee,1,10,40,1,Driving Layup Shot,1,2,10,True
+Courtney Lee,3,7,32,0,Driving Layup Shot,1,-10,17,True
+Courtney Lee,1,3,56,1,Driving Layup Shot,1,9,11,True
+Courtney Lee,1,9,59,0,Driving Layup Shot,2,-16,18,True
+Courtney Lee,2,2,9,1,Driving Layup Shot,1,-18,6,True
+Courtney Lee,1,10,55,1,Driving Layup Shot,3,27,17,True
+Courtney Lee,3,8,18,0,Driving Layup Shot,5,-23,53,True
+Courtney Lee,1,11,27,1,Driving Layup Shot,6,-41,48,True
+Courtney Lee,3,8,55,1,Driving Layup Shot,1,0,12,True
+Courtney Lee,3,5,36,0,Driving Layup Shot,2,1,22,True
+Courtney Lee,3,5,6,0,Driving Layup Shot,2,18,12,True
+Courtney Lee,2,3,5,0,Driving Layup Shot,5,8,56,True
+Courtney Lee,3,10,58,1,Driving Layup Shot,0,-3,6,True
+Courtney Lee,3,10,9,0,Driving Layup Shot,2,25,1,True
+Courtney Lee,1,11,41,0,Driving Layup Shot,5,14,50,True
+Courtney Lee,1,4,53,1,Driving Layup Shot,0,-3,4,True
+Courtney Lee,1,10,5,1,Driving Layup Shot,8,3,83,True
+Courtney Lee,2,3,13,1,Driving Layup Shot,1,-2,13,True
+Courtney Lee,2,1,14,1,Driving Layup Shot,1,-1,11,True
+Courtney Lee,4,2,40,0,Driving Layup Shot,1,8,17,True
+Courtney Lee,4,1,46,1,Driving Layup Shot,1,2,14,True
+Courtney Lee,2,0,1,0,Driving Layup Shot,1,0,19,True
+Courtney Lee,3,6,43,0,Driving Layup Shot,3,15,28,True
+Courtney Lee,4,4,24,1,Driving Layup Shot,2,20,10,True
+Courtney Lee,4,0,46,1,Driving Layup Shot,0,6,6,True
+Courtney Lee,3,6,57,0,Driving Layup Shot,1,15,6,True
+Courtney Lee,4,3,41,0,Driving Layup Shot,3,27,17,True
+Courtney Lee,1,10,54,1,Driving Reverse Layup Shot,2,-16,14,True
+Courtney Lee,3,3,45,0,Dunk Shot,1,1,15,True
+Courtney Lee,2,1,52,1,Dunk Shot,0,0,0,True
+Courtney Lee,3,6,46,1,Fadeaway Jump Shot,14,33,146,True
+Courtney Lee,4,1,37,0,Fadeaway Jump Shot,14,30,137,True
+Courtney Lee,3,7,11,0,Floating Jump shot,18,73,167,True
+Courtney Lee,2,1,13,1,Floating Jump shot,13,-134,0,True
+Courtney Lee,2,0,43,0,Floating Jump shot,5,-3,50,True
+Courtney Lee,4,5,14,0,Floating Jump shot,12,95,83,True
+Courtney Lee,2,0,31,1,Floating Jump shot,6,-27,57,True
+Courtney Lee,1,6,52,1,Floating Jump shot,8,58,68,True
+Courtney Lee,3,10,11,0,Floating Jump shot,16,-6,168,True
+Courtney Lee,1,10,21,0,Floating Jump shot,10,-52,89,True
+Courtney Lee,3,5,21,1,Floating Jump shot,12,-9,122,True
+Courtney Lee,3,11,15,0,Floating Jump shot,11,-18,112,True
+Courtney Lee,3,7,47,1,Floating Jump shot,9,-39,92,True
+Courtney Lee,1,5,29,0,Floating Jump shot,10,-24,100,True
+Courtney Lee,1,11,0,0,Floating Jump shot,13,10,134,True
+Courtney Lee,1,0,58,1,Floating Jump shot,10,54,95,True
+Courtney Lee,4,2,27,0,Floating Jump shot,13,-125,58,True
+Courtney Lee,1,0,0,0,Floating Jump shot,16,-94,134,True
+Courtney Lee,3,3,2,0,Floating Jump shot,12,62,109,True
+Courtney Lee,3,7,26,1,Floating Jump shot,10,0,109,True
+Courtney Lee,2,2,28,0,Floating Jump shot,6,-6,68,True
+Courtney Lee,2,8,20,1,Floating Jump shot,14,57,135,True
+Courtney Lee,1,2,30,1,Floating Jump shot,9,-32,90,True
+Courtney Lee,1,9,45,0,Floating Jump shot,14,55,137,True
+Courtney Lee,1,11,4,1,Floating Jump shot,9,12,99,True
+Courtney Lee,3,11,39,1,Floating Jump shot,9,-47,84,True
+Courtney Lee,1,0,1,0,Floating Jump shot,20,-104,174,True
+Courtney Lee,3,11,13,1,Floating Jump shot,14,-91,114,True
+Courtney Lee,5,1,57,0,Floating Jump shot,12,123,-7,True
+Courtney Lee,1,3,20,1,Floating Jump shot,8,-4,84,True
+Courtney Lee,3,6,0,0,Floating Jump shot,12,-57,112,True
+Courtney Lee,1,7,43,1,Floating Jump shot,9,-91,8,True
+Courtney Lee,3,0,5,0,Floating Jump shot,12,-25,124,True
+Courtney Lee,1,5,25,1,Floating Jump shot,14,-8,144,True
+Courtney Lee,1,11,5,1,Floating Jump shot,4,-16,45,True
+Courtney Lee,1,8,12,1,Floating Jump shot,9,30,94,True
+Courtney Lee,3,8,30,0,Floating Jump shot,2,3,25,True
+Courtney Lee,1,6,10,0,Floating Jump shot,12,63,104,True
+Courtney Lee,4,3,56,0,Floating Jump shot,9,-95,11,True
+Courtney Lee,3,6,46,1,Floating Jump shot,7,-56,55,True
+Courtney Lee,4,3,0,0,Floating Jump shot,11,-13,115,True
+Courtney Lee,3,2,53,1,Floating Jump shot,2,7,19,True
+Courtney Lee,1,5,1,0,Jump Bank Shot,12,101,76,True
+Courtney Lee,4,1,47,1,Jump Bank Shot,12,-104,70,True
+Courtney Lee,2,3,52,1,Jump Bank Shot,18,159,92,True
+Courtney Lee,1,1,27,1,Jump Bank Shot,9,-3,99,True
+Courtney Lee,1,5,38,1,Jump Bank Shot,1,-9,10,True
+Courtney Lee,1,11,39,0,Jump Shot,14,-65,135,True
+Courtney Lee,3,0,3,0,Jump Shot,17,76,153,True
+Courtney Lee,1,0,3,0,Jump Shot,6,-14,59,True
+Courtney Lee,3,10,51,1,Jump Shot,27,-206,188,False
+Courtney Lee,4,3,48,0,Jump Shot,26,-212,155,False
+Courtney Lee,1,10,36,0,Jump Shot,16,-78,150,True
+Courtney Lee,3,8,4,1,Jump Shot,21,-155,149,True
+Courtney Lee,1,8,15,1,Jump Shot,24,-5,245,False
+Courtney Lee,3,5,32,1,Jump Shot,13,-1,131,True
+Courtney Lee,4,0,34,0,Jump Shot,24,112,223,False
+Courtney Lee,2,2,42,0,Jump Shot,25,-238,90,False
+Courtney Lee,4,3,30,1,Jump Shot,22,222,20,False
+Courtney Lee,1,1,37,0,Jump Shot,25,-209,141,False
+Courtney Lee,3,9,45,1,Jump Shot,22,-226,-1,False
+Courtney Lee,1,2,56,1,Jump Shot,26,-60,257,False
+Courtney Lee,1,0,37,1,Jump Shot,26,-187,184,False
+Courtney Lee,1,9,30,0,Jump Shot,23,-232,0,False
+Courtney Lee,3,1,39,0,Jump Shot,22,163,158,True
+Courtney Lee,3,0,5,0,Jump Shot,24,-173,173,False
+Courtney Lee,1,9,9,0,Jump Shot,25,-221,125,False
+Courtney Lee,4,6,6,1,Jump Shot,23,-230,38,False
+Courtney Lee,4,7,46,0,Jump Shot,25,-174,180,False
+Courtney Lee,4,1,47,1,Jump Shot,26,177,195,False
+Courtney Lee,4,0,11,1,Jump Shot,25,-11,252,False
+Courtney Lee,2,7,10,1,Jump Shot,23,-230,-4,False
+Courtney Lee,2,6,41,1,Jump Shot,13,95,96,True
+Courtney Lee,4,10,54,1,Jump Shot,19,51,188,True
+Courtney Lee,1,1,48,0,Jump Shot,23,-226,60,False
+Courtney Lee,4,7,9,0,Jump Shot,25,-147,214,False
+Courtney Lee,1,8,50,1,Jump Shot,25,-217,136,False
+Courtney Lee,4,1,5,1,Jump Shot,25,-182,177,False
+Courtney Lee,4,11,12,0,Jump Shot,19,183,69,True
+Courtney Lee,3,8,4,0,Jump Shot,25,2,257,False
+Courtney Lee,1,7,32,0,Jump Shot,12,122,16,True
+Courtney Lee,4,9,28,1,Jump Shot,24,-215,114,False
+Courtney Lee,1,0,26,1,Jump Shot,24,-197,145,False
+Courtney Lee,4,5,47,1,Jump Shot,15,50,145,True
+Courtney Lee,4,0,56,0,Jump Shot,22,-220,1,False
+Courtney Lee,2,11,7,0,Jump Shot,25,138,216,False
+Courtney Lee,1,1,18,0,Jump Shot,22,-172,146,True
+Courtney Lee,4,6,24,1,Jump Shot,25,-46,253,False
+Courtney Lee,4,10,8,1,Jump Shot,21,171,124,True
+Courtney Lee,4,8,22,0,Jump Shot,19,34,195,True
+Courtney Lee,1,1,40,1,Jump Shot,15,-107,117,True
+Courtney Lee,1,0,5,0,Jump Shot,22,-226,34,False
+Courtney Lee,2,11,28,0,Jump Shot,16,72,146,True
+Courtney Lee,4,11,48,0,Jump Shot,25,100,238,False
+Courtney Lee,2,3,50,0,Jump Shot,26,157,218,False
+Courtney Lee,1,0,59,1,Jump Shot,17,-171,27,True
+Courtney Lee,2,10,41,0,Jump Shot,25,149,211,False
+Courtney Lee,4,7,0,1,Jump Shot,16,-169,13,True
+Courtney Lee,4,11,16,0,Jump Shot,25,-156,203,False
+Courtney Lee,3,6,13,0,Jump Shot,22,-228,0,False
+Courtney Lee,3,10,33,1,Jump Shot,24,-136,206,False
+Courtney Lee,2,0,28,0,Jump Shot,22,-226,-8,False
+Courtney Lee,1,10,58,1,Jump Shot,12,-67,105,True
+Courtney Lee,3,5,26,0,Jump Shot,23,237,21,False
+Courtney Lee,1,10,37,0,Jump Shot,25,190,169,False
+Courtney Lee,2,3,53,0,Jump Shot,23,-231,8,False
+Courtney Lee,3,9,51,1,Jump Shot,24,231,69,False
+Courtney Lee,4,7,44,1,Jump Shot,26,137,221,False
+Courtney Lee,4,3,20,0,Jump Shot,22,-226,10,False
+Courtney Lee,2,1,6,1,Jump Shot,24,-236,65,False
+Courtney Lee,2,8,0,0,Jump Shot,19,-177,90,True
+Courtney Lee,2,4,17,1,Jump Shot,22,-226,11,False
+Courtney Lee,1,5,28,1,Jump Shot,23,227,48,False
+Courtney Lee,4,8,2,0,Jump Shot,22,-228,4,False
+Courtney Lee,3,11,45,0,Jump Shot,27,152,229,False
+Courtney Lee,3,7,14,0,Jump Shot,26,-150,220,False
+Courtney Lee,1,7,16,1,Jump Shot,25,-117,228,False
+Courtney Lee,1,8,14,0,Jump Shot,25,-165,196,False
+Courtney Lee,1,10,0,1,Jump Shot,23,-230,27,False
+Courtney Lee,4,7,30,0,Jump Shot,24,-157,188,False
+Courtney Lee,2,8,26,0,Jump Shot,24,145,202,False
+Courtney Lee,1,3,6,0,Jump Shot,25,-76,242,False
+Courtney Lee,3,6,58,0,Jump Shot,23,-232,47,False
+Courtney Lee,4,10,43,1,Jump Shot,18,-184,-7,True
+Courtney Lee,2,6,17,0,Jump Shot,14,145,26,True
+Courtney Lee,1,1,23,1,Jump Shot,23,228,49,False
+Courtney Lee,2,9,15,1,Jump Shot,23,-231,62,False
+Courtney Lee,2,10,44,1,Jump Shot,24,238,64,False
+Courtney Lee,1,3,1,1,Jump Shot,23,-230,-7,False
+Courtney Lee,2,2,0,1,Jump Shot,25,-158,204,False
+Courtney Lee,1,11,38,0,Jump Shot,26,14,267,False
+Courtney Lee,1,0,57,0,Jump Shot,25,-182,177,False
+Courtney Lee,2,5,35,0,Jump Shot,26,-241,110,False
+Courtney Lee,2,3,58,1,Jump Shot,9,16,95,True
+Courtney Lee,1,6,29,0,Jump Shot,24,-220,108,False
+Courtney Lee,2,3,59,0,Jump Shot,24,-212,116,False
+Courtney Lee,2,7,34,0,Jump Shot,25,11,250,False
+Courtney Lee,4,7,25,0,Jump Shot,23,231,18,False
+Courtney Lee,4,2,9,0,Jump Shot,26,126,231,False
+Courtney Lee,1,6,57,1,Jump Shot,28,118,257,False
+Courtney Lee,4,3,46,0,Jump Shot,25,-2,257,False
+Courtney Lee,2,3,20,0,Jump Shot,9,92,0,True
+Courtney Lee,2,1,19,0,Jump Shot,25,182,179,False
+Courtney Lee,4,11,35,0,Jump Shot,17,-169,-28,True
+Courtney Lee,1,3,22,1,Jump Shot,15,95,128,True
+Courtney Lee,1,6,5,0,Jump Shot,21,-187,110,True
+Courtney Lee,4,5,23,1,Jump Shot,25,67,250,False
+Courtney Lee,3,0,33,0,Jump Shot,25,209,145,False
+Courtney Lee,2,0,3,1,Jump Shot,21,-116,177,True
+Courtney Lee,1,4,54,1,Jump Shot,16,107,127,True
+Courtney Lee,1,7,29,0,Jump Shot,25,81,242,False
+Courtney Lee,2,1,5,0,Jump Shot,20,139,148,True
+Courtney Lee,2,0,44,0,Jump Shot,23,234,11,False
+Courtney Lee,3,5,29,0,Jump Shot,25,98,232,False
+Courtney Lee,2,8,3,0,Jump Shot,19,24,193,True
+Courtney Lee,3,2,4,0,Jump Shot,25,-230,111,False
+Courtney Lee,2,6,49,0,Jump Shot,12,122,-11,True
+Courtney Lee,4,10,46,1,Jump Shot,27,154,223,False
+Courtney Lee,4,3,59,0,Jump Shot,6,60,6,True
+Courtney Lee,3,6,44,0,Jump Shot,10,-19,107,True
+Courtney Lee,2,1,23,1,Jump Shot,9,3,93,True
+Courtney Lee,1,1,42,0,Jump Shot,23,230,30,False
+Courtney Lee,2,2,5,0,Jump Shot,27,39,271,False
+Courtney Lee,1,5,49,0,Jump Shot,25,-130,222,False
+Courtney Lee,1,0,33,0,Jump Shot,22,90,209,True
+Courtney Lee,2,10,49,1,Jump Shot,25,-122,227,False
+Courtney Lee,3,1,49,1,Jump Shot,27,-98,258,False
+Courtney Lee,4,3,1,0,Jump Shot,12,-106,75,True
+Courtney Lee,1,9,7,0,Jump Shot,26,114,236,False
+Courtney Lee,3,6,24,0,Jump Shot,25,217,125,False
+Courtney Lee,1,8,25,1,Jump Shot,14,65,126,True
+Courtney Lee,3,5,43,0,Jump Shot,26,-14,260,False
+Courtney Lee,2,2,12,1,Jump Shot,22,-227,3,False
+Courtney Lee,2,0,29,0,Jump Shot,25,225,113,False
+Courtney Lee,2,1,4,0,Jump Shot,22,-227,-2,False
+Courtney Lee,1,0,9,0,Jump Shot,25,14,252,False
+Courtney Lee,4,5,54,0,Jump Shot,25,-163,190,False
+Courtney Lee,3,3,56,1,Jump Shot,25,210,147,False
+Courtney Lee,3,11,29,0,Jump Shot,25,149,212,False
+Courtney Lee,1,6,39,1,Jump Shot,10,-4,101,True
+Courtney Lee,1,9,52,1,Jump Shot,16,33,158,True
+Courtney Lee,2,4,32,0,Jump Shot,23,229,29,False
+Courtney Lee,4,2,40,0,Jump Shot,26,-144,221,False
+Courtney Lee,2,0,26,0,Jump Shot,25,166,200,False
+Courtney Lee,3,10,55,1,Jump Shot,25,-213,137,False
+Courtney Lee,1,6,57,1,Jump Shot,22,-220,14,False
+Courtney Lee,2,7,22,0,Jump Shot,24,-205,134,False
+Courtney Lee,2,7,34,0,Jump Shot,25,-181,183,False
+Courtney Lee,1,8,43,1,Jump Shot,16,158,29,True
+Courtney Lee,1,11,43,0,Jump Shot,25,120,228,False
+Courtney Lee,4,0,48,1,Jump Shot,29,109,273,False
+Courtney Lee,4,5,19,1,Jump Shot,23,232,11,False
+Courtney Lee,3,10,10,1,Jump Shot,24,-239,56,False
+Courtney Lee,2,8,35,1,Jump Shot,19,-121,148,True
+Courtney Lee,1,9,26,0,Jump Shot,27,123,247,False
+Courtney Lee,2,6,59,0,Jump Shot,23,-231,5,False
+Courtney Lee,4,3,40,0,Jump Shot,23,-236,29,False
+Courtney Lee,1,7,58,0,Jump Shot,21,-148,162,True
+Courtney Lee,4,9,58,0,Jump Shot,12,127,19,True
+Courtney Lee,4,6,37,1,Jump Shot,13,101,94,True
+Courtney Lee,5,2,45,0,Jump Shot,23,-232,5,False
+Courtney Lee,4,9,23,0,Jump Shot,24,107,225,False
+Courtney Lee,4,8,44,0,Jump Shot,25,-149,204,False
+Courtney Lee,2,11,16,1,Jump Shot,23,-237,34,False
+Courtney Lee,3,9,45,1,Jump Shot,11,-112,29,True
+Courtney Lee,4,5,17,1,Jump Shot,25,-74,239,False
+Courtney Lee,4,5,26,0,Jump Shot,5,-33,45,True
+Courtney Lee,1,2,4,1,Jump Shot,23,237,33,False
+Courtney Lee,4,7,25,1,Jump Shot,24,-169,179,False
+Courtney Lee,1,5,31,1,Jump Shot,26,-78,251,False
+Courtney Lee,3,1,6,0,Jump Shot,28,77,278,False
+Courtney Lee,3,5,30,0,Jump Shot,21,-58,203,True
+Courtney Lee,3,6,19,1,Jump Shot,24,-214,124,False
+Courtney Lee,3,10,23,1,Jump Shot,21,84,200,True
+Courtney Lee,3,7,57,1,Jump Shot,25,0,259,False
+Courtney Lee,3,10,28,0,Jump Shot,23,-230,25,False
+Courtney Lee,3,1,44,0,Jump Shot,27,-51,267,False
+Courtney Lee,2,4,46,0,Jump Shot,24,145,201,False
+Courtney Lee,3,8,21,1,Jump Shot,20,194,78,True
+Courtney Lee,2,2,13,1,Jump Shot,18,79,166,True
+Courtney Lee,3,0,0,0,Jump Shot,18,183,22,True
+Courtney Lee,3,6,52,0,Jump Shot,19,30,194,True
+Courtney Lee,3,3,6,1,Jump Shot,25,-218,125,False
+Courtney Lee,1,6,28,0,Jump Shot,19,154,127,True
+Courtney Lee,1,0,58,0,Jump Shot,9,90,7,True
+Courtney Lee,5,0,1,0,Jump Shot,23,235,35,False
+Courtney Lee,1,10,39,1,Jump Shot,12,35,119,True
+Courtney Lee,4,0,4,0,Jump Shot,25,-184,177,False
+Courtney Lee,5,3,23,0,Jump Shot,15,9,157,True
+Courtney Lee,2,2,42,1,Jump Shot,25,84,238,False
+Courtney Lee,3,6,58,0,Jump Shot,23,-232,31,False
+Courtney Lee,3,8,50,0,Jump Shot,21,-92,189,True
+Courtney Lee,3,0,3,0,Jump Shot,25,-125,222,False
+Courtney Lee,4,6,20,1,Jump Shot,25,129,220,False
+Courtney Lee,1,1,26,1,Jump Shot,16,-167,-15,True
+Courtney Lee,1,2,20,1,Jump Shot,25,-149,205,False
+Courtney Lee,4,5,10,0,Jump Shot,26,15,265,False
+Courtney Lee,4,2,7,0,Jump Shot,24,232,84,False
+Courtney Lee,1,7,42,0,Jump Shot,16,76,152,True
+Courtney Lee,1,4,40,1,Jump Shot,10,58,84,True
+Courtney Lee,2,0,3,0,Jump Shot,28,-125,251,False
+Courtney Lee,3,6,13,0,Jump Shot,14,91,117,True
+Courtney Lee,1,2,48,1,Jump Shot,16,-53,157,True
+Courtney Lee,4,6,9,0,Jump Shot,24,157,189,False
+Courtney Lee,4,0,26,1,Jump Shot,25,141,207,False
+Courtney Lee,3,7,31,1,Jump Shot,23,-231,16,False
+Courtney Lee,1,9,37,1,Jump Shot,20,93,187,True
+Courtney Lee,4,6,55,0,Jump Shot,23,233,-5,False
+Courtney Lee,3,8,5,0,Jump Shot,27,-126,247,False
+Courtney Lee,4,3,48,0,Jump Shot,18,48,178,True
+Courtney Lee,2,0,59,1,Jump Shot,23,234,24,False
+Courtney Lee,3,9,53,0,Jump Shot,25,78,239,False
+Courtney Lee,2,2,47,0,Jump Shot,26,50,264,False
+Courtney Lee,3,9,32,1,Jump Shot,23,228,53,False
+Courtney Lee,3,3,18,0,Jump Shot,16,-160,47,True
+Courtney Lee,1,7,3,0,Jump Shot,26,55,260,False
+Courtney Lee,3,1,52,1,Jump Shot,25,133,212,False
+Courtney Lee,1,9,1,1,Jump Shot,26,150,220,False
+Courtney Lee,2,5,9,0,Jump Shot,25,-64,243,False
+Courtney Lee,2,0,55,0,Jump Shot,25,166,196,False
+Courtney Lee,4,0,49,1,Jump Shot,12,-128,-6,True
+Courtney Lee,3,4,44,0,Jump Shot,26,175,200,False
+Courtney Lee,2,2,19,1,Jump Shot,25,91,237,False
+Courtney Lee,2,4,0,1,Jump Shot,23,-231,46,False
+Courtney Lee,4,4,3,0,Jump Shot,24,-138,208,False
+Courtney Lee,3,0,25,1,Jump Shot,25,180,180,False
+Courtney Lee,2,4,33,1,Jump Shot,23,230,27,False
+Courtney Lee,3,4,40,0,Jump Shot,15,64,142,True
+Courtney Lee,1,6,43,1,Jump Shot,15,115,111,True
+Courtney Lee,1,3,34,0,Jump Shot,13,-99,92,True
+Courtney Lee,1,7,46,0,Jump Shot,25,151,207,False
+Courtney Lee,5,4,18,0,Jump Shot,22,-84,209,True
+Courtney Lee,1,8,5,0,Jump Shot,19,130,151,True
+Courtney Lee,2,3,7,1,Jump Shot,18,73,175,True
+Courtney Lee,1,1,3,0,Jump Shot,22,-224,13,False
+Courtney Lee,3,6,28,0,Jump Shot,24,154,195,False
+Courtney Lee,2,1,24,0,Jump Shot,22,-228,-15,False
+Courtney Lee,3,7,40,0,Jump Shot,19,172,89,True
+Courtney Lee,1,7,54,0,Jump Shot,23,-233,-5,False
+Courtney Lee,2,3,1,0,Jump Shot,25,-128,226,False
+Courtney Lee,1,8,41,0,Jump Shot,8,-18,79,True
+Courtney Lee,1,7,58,0,Jump Shot,25,207,147,False
+Courtney Lee,1,1,18,1,Jump Shot,23,230,18,False
+Courtney Lee,1,3,3,0,Jump Shot,25,-128,216,False
+Courtney Lee,3,7,9,1,Jump Shot,23,-230,-26,False
+Courtney Lee,2,8,28,1,Jump Shot,24,163,188,False
+Courtney Lee,3,0,35,0,Jump Shot,14,89,111,True
+Courtney Lee,4,2,19,0,Jump Shot,27,104,257,False
+Courtney Lee,2,0,2,1,Jump Shot,24,156,195,False
+Courtney Lee,2,8,59,0,Jump Shot,18,-84,162,True
+Courtney Lee,3,8,17,1,Jump Shot,26,157,214,False
+Courtney Lee,4,5,1,0,Jump Shot,18,104,157,True
+Courtney Lee,2,7,30,0,Jump Shot,25,207,144,False
+Courtney Lee,1,5,20,1,Jump Shot,11,24,117,True
+Courtney Lee,2,2,18,0,Jump Shot,26,-6,264,False
+Courtney Lee,1,2,38,0,Jump Shot,26,159,213,False
+Courtney Lee,1,11,3,1,Jump Shot,10,-105,8,True
+Courtney Lee,4,1,25,0,Jump Shot,26,104,241,False
+Courtney Lee,2,6,24,1,Jump Shot,16,87,138,True
+Courtney Lee,2,5,43,1,Jump Shot,25,-121,221,False
+Courtney Lee,4,5,4,0,Jump Shot,19,96,171,True
+Courtney Lee,4,6,38,1,Jump Shot,17,85,157,True
+Courtney Lee,3,10,38,1,Jump Shot,17,-176,15,True
+Courtney Lee,3,9,25,0,Jump Shot,23,232,22,False
+Courtney Lee,1,5,55,0,Jump Shot,24,-189,158,False
+Courtney Lee,3,4,50,0,Jump Shot,22,225,4,False
+Courtney Lee,1,2,17,1,Jump Shot,20,-54,200,True
+Courtney Lee,3,10,41,1,Jump Shot,13,28,135,True
+Courtney Lee,3,2,52,0,Jump Shot,22,-220,-2,False
+Courtney Lee,3,11,52,1,Jump Shot,15,-16,157,True
+Courtney Lee,3,3,59,0,Jump Shot,15,-150,32,True
+Courtney Lee,3,6,48,0,Jump Shot,7,72,26,True
+Courtney Lee,2,0,44,0,Jump Shot,24,225,89,False
+Courtney Lee,3,10,25,1,Jump Shot,22,221,32,False
+Courtney Lee,1,6,30,0,Jump Shot,27,-20,271,False
+Courtney Lee,2,1,7,0,Jump Shot,15,150,48,True
+Courtney Lee,1,5,19,0,Jump Shot,25,-230,110,False
+Courtney Lee,3,7,51,1,Jump Shot,22,-224,6,False
+Courtney Lee,2,0,3,0,Jump Shot,26,-207,167,False
+Courtney Lee,2,0,0,0,Jump Shot,22,-98,205,True
+Courtney Lee,3,10,31,1,Jump Shot,23,-234,28,False
+Courtney Lee,3,10,38,0,Jump Shot,24,157,193,False
+Courtney Lee,3,11,19,0,Jump Shot,20,68,193,True
+Courtney Lee,2,4,48,0,Jump Shot,25,150,211,False
+Courtney Lee,1,7,42,0,Jump Shot,25,-138,211,False
+Courtney Lee,1,4,40,0,Jump Shot,25,149,209,False
+Courtney Lee,4,7,50,1,Jump Shot,25,-100,231,False
+Courtney Lee,1,0,21,0,Jump Shot,23,95,211,True
+Courtney Lee,3,4,46,1,Jump Shot,16,-161,37,True
+Courtney Lee,1,6,38,1,Jump Shot,26,128,230,False
+Courtney Lee,2,3,8,0,Jump Shot,23,-230,49,False
+Courtney Lee,2,1,30,1,Jump Shot,24,-231,80,False
+Courtney Lee,2,9,20,1,Jump Shot,24,215,116,False
+Courtney Lee,3,5,35,1,Jump Shot,22,-225,6,False
+Courtney Lee,1,6,32,1,Jump Shot,25,145,215,False
+Courtney Lee,2,6,2,1,Jump Shot,27,-85,263,False
+Courtney Lee,2,8,49,0,Jump Shot,19,92,172,True
+Courtney Lee,2,3,7,1,Jump Shot,20,139,155,True
+Courtney Lee,3,7,39,1,Jump Shot,22,-226,17,False
+Courtney Lee,3,5,58,1,Jump Shot,19,94,169,True
+Courtney Lee,1,10,53,0,Jump Shot,23,231,59,False
+Courtney Lee,3,9,48,0,Jump Shot,22,-227,11,False
+Courtney Lee,1,7,23,0,Jump Shot,22,100,202,True
+Courtney Lee,1,11,19,0,Jump Shot,16,-166,15,True
+Courtney Lee,1,5,34,1,Jump Shot,25,-210,153,False
+Courtney Lee,1,9,33,0,Jump Shot,17,-174,22,True
+Courtney Lee,1,2,13,0,Jump Shot,18,185,32,True
+Courtney Lee,2,0,30,0,Jump Shot,14,10,143,True
+Courtney Lee,1,6,52,0,Jump Shot,26,-161,209,False
+Courtney Lee,2,4,23,0,Jump Shot,26,-8,268,False
+Courtney Lee,3,6,34,0,Jump Shot,20,88,180,True
+Courtney Lee,1,10,25,0,Jump Shot,17,58,164,True
+Courtney Lee,4,0,30,0,Jump Shot,14,3,147,True
+Courtney Lee,2,6,53,0,Jump Shot,25,125,220,False
+Courtney Lee,4,2,22,0,Jump Shot,25,-217,126,False
+Courtney Lee,2,8,51,0,Jump Shot,14,-146,-1,True
+Courtney Lee,4,9,8,1,Jump Shot,25,-192,166,False
+Courtney Lee,4,2,17,0,Jump Shot,25,-226,111,False
+Courtney Lee,2,11,42,1,Jump Shot,25,180,178,False
+Courtney Lee,3,7,49,0,Jump Shot,26,-60,256,False
+Courtney Lee,2,0,27,0,Jump Shot,24,233,89,False
+Courtney Lee,3,9,53,0,Jump Shot,19,187,41,True
+Courtney Lee,3,8,16,1,Jump Shot,22,45,216,True
+Courtney Lee,2,6,36,1,Jump Shot,20,-199,32,True
+Courtney Lee,1,2,45,1,Jump Shot,25,135,212,False
+Courtney Lee,2,0,39,0,Jump Shot,26,165,211,False
+Courtney Lee,2,4,23,0,Jump Shot,22,225,41,False
+Courtney Lee,2,5,33,0,Jump Shot,23,230,25,False
+Courtney Lee,3,11,36,0,Jump Shot,23,225,55,False
+Courtney Lee,1,5,39,0,Jump Shot,24,-222,113,False
+Courtney Lee,3,1,12,0,Jump Shot,21,-111,182,True
+Courtney Lee,1,6,2,1,Jump Shot,28,181,226,False
+Courtney Lee,3,4,4,1,Jump Shot,23,-232,25,False
+Courtney Lee,1,6,21,0,Jump Shot,19,-178,84,True
+Courtney Lee,2,5,8,1,Jump Shot,26,163,205,False
+Courtney Lee,3,10,40,0,Jump Shot,25,143,214,False
+Courtney Lee,1,1,42,0,Jump Shot,20,6,206,True
+Courtney Lee,3,5,3,1,Jump Shot,22,-226,10,False
+Courtney Lee,1,6,54,1,Jump Shot,15,-35,153,True
+Courtney Lee,1,9,0,0,Jump Shot,22,226,26,False
+Courtney Lee,3,7,24,0,Jump Shot,22,101,196,True
+Courtney Lee,1,0,27,0,Jump Shot,20,155,127,True
+Courtney Lee,1,1,27,1,Jump Shot,23,231,48,False
+Courtney Lee,3,0,29,0,Jump Shot,27,-105,254,False
+Courtney Lee,1,5,1,0,Jump Shot,22,-223,27,False
+Courtney Lee,4,9,51,1,Jump Shot,22,-229,12,False
+Courtney Lee,2,2,34,0,Jump Shot,16,125,106,True
+Courtney Lee,4,11,32,0,Jump Shot,27,-116,247,False
+Courtney Lee,3,10,25,0,Jump Shot,21,28,218,True
+Courtney Lee,2,9,36,0,Jump Shot,23,230,68,False
+Courtney Lee,2,3,12,0,Jump Shot,21,149,155,True
+Courtney Lee,1,10,58,0,Jump Shot,25,125,218,False
+Courtney Lee,1,9,31,1,Jump Shot,25,63,251,False
+Courtney Lee,3,3,3,0,Jump Shot,23,229,41,False
+Courtney Lee,3,5,40,1,Jump Shot,25,-133,215,False
+Courtney Lee,1,9,13,1,Jump Shot,25,157,206,False
+Courtney Lee,1,10,19,0,Jump Shot,16,-41,156,True
+Courtney Lee,2,6,12,0,Jump Shot,18,-119,137,True
+Courtney Lee,3,2,36,0,Jump Shot,17,-92,149,True
+Courtney Lee,1,7,18,1,Jump Shot,26,202,171,False
+Courtney Lee,1,6,57,1,Jump Shot,23,231,27,False
+Courtney Lee,1,10,57,1,Jump Shot,25,197,167,False
+Courtney Lee,3,8,16,0,Jump Shot,25,-176,184,False
+Courtney Lee,1,9,17,1,Jump Shot,19,144,138,True
+Courtney Lee,1,6,59,1,Jump Shot,24,139,201,False
+Courtney Lee,3,7,50,1,Jump Shot,23,-232,37,False
+Courtney Lee,1,5,18,0,Jump Shot,25,106,232,False
+Courtney Lee,3,9,2,1,Jump Shot,16,159,37,True
+Courtney Lee,4,11,17,0,Jump Shot,20,101,178,True
+Courtney Lee,3,10,0,1,Jump Shot,25,-124,222,False
+Courtney Lee,2,7,7,0,Jump Shot,22,-223,1,False
+Courtney Lee,2,11,31,0,Jump Shot,10,98,45,True
+Courtney Lee,3,3,39,1,Jump Shot,26,-212,152,False
+Courtney Lee,1,6,49,0,Jump Shot,7,23,74,True
+Courtney Lee,1,8,9,1,Jump Shot,23,-228,58,False
+Courtney Lee,3,5,23,0,Jump Shot,20,97,180,True
+Courtney Lee,3,4,29,1,Jump Shot,22,-226,27,False
+Courtney Lee,1,11,39,0,Jump Shot,16,6,165,True
+Courtney Lee,1,2,22,0,Jump Shot,18,86,162,True
+Courtney Lee,1,5,31,0,Jump Shot,24,236,50,False
+Courtney Lee,3,9,58,1,Jump Shot,25,-107,236,False
+Courtney Lee,2,0,42,0,Layup Shot,2,-27,5,True
+Courtney Lee,2,0,4,1,Layup Shot,1,-5,11,True
+Courtney Lee,2,1,41,1,Layup Shot,1,-7,13,True
+Courtney Lee,1,0,24,1,Layup Shot,1,4,17,True
+Courtney Lee,2,1,55,0,Layup Shot,3,-5,36,True
+Courtney Lee,2,5,4,1,Layup Shot,0,-3,6,True
+Courtney Lee,3,5,43,0,Layup Shot,1,-6,15,True
+Courtney Lee,3,6,13,0,Layup Shot,4,10,46,True
+Courtney Lee,1,5,13,0,Layup Shot,1,-4,16,True
+Courtney Lee,1,11,27,0,Layup Shot,1,-3,18,True
+Courtney Lee,3,4,31,0,Layup Shot,2,16,17,True
+Courtney Lee,1,1,57,1,Layup Shot,1,-8,11,True
+Courtney Lee,1,8,13,1,Layup Shot,1,6,10,True
+Courtney Lee,3,1,15,0,Layup Shot,0,-2,6,True
+Courtney Lee,3,10,7,1,Layup Shot,1,5,14,True
+Courtney Lee,4,10,26,1,Layup Shot,2,23,9,True
+Courtney Lee,2,9,0,0,Layup Shot,3,-16,34,True
+Courtney Lee,2,3,9,0,Layup Shot,2,-9,22,True
+Courtney Lee,2,3,35,0,Layup Shot,0,2,8,True
+Courtney Lee,3,10,38,1,Layup Shot,2,-4,20,True
+Courtney Lee,2,10,46,1,Layup Shot,1,-8,6,True
+Courtney Lee,4,0,15,0,Layup Shot,4,41,16,True
+Courtney Lee,4,4,52,0,Layup Shot,2,-1,28,True
+Courtney Lee,3,3,31,0,Layup Shot,8,81,10,True
+Courtney Lee,2,8,3,1,Layup Shot,1,13,4,True
+Courtney Lee,4,2,59,0,Layup Shot,2,11,21,True
+Courtney Lee,3,1,40,1,Layup Shot,1,0,17,True
+Courtney Lee,3,7,10,1,Layup Shot,1,-12,0,True
+Courtney Lee,2,4,12,0,Layup Shot,1,9,6,True
+Courtney Lee,4,3,8,0,Layup Shot,1,-10,15,True
+Courtney Lee,1,9,42,0,Pullup Jump shot,14,-69,132,True
+Courtney Lee,3,11,3,1,Pullup Jump shot,19,-56,185,True
+Courtney Lee,1,6,21,1,Pullup Jump shot,18,106,155,True
+Courtney Lee,3,1,44,0,Pullup Jump shot,18,-147,110,True
+Courtney Lee,1,0,41,1,Pullup Jump shot,16,18,169,True
+Courtney Lee,1,8,14,0,Pullup Jump shot,14,-143,-22,True
+Courtney Lee,4,4,1,1,Pullup Jump shot,17,163,52,True
+Courtney Lee,1,6,52,1,Pullup Jump shot,28,152,237,False
+Courtney Lee,3,4,43,0,Pullup Jump shot,16,130,102,True
+Courtney Lee,1,9,4,1,Pullup Jump shot,18,103,148,True
+Courtney Lee,1,1,2,0,Pullup Jump shot,24,-180,168,False
+Courtney Lee,3,10,20,1,Pullup Jump shot,16,73,144,True
+Courtney Lee,3,2,24,1,Pullup Jump shot,20,179,92,True
+Courtney Lee,1,10,7,1,Pullup Jump shot,17,63,162,True
+Courtney Lee,3,5,28,0,Pullup Jump shot,8,53,71,True
+Courtney Lee,4,4,21,1,Pullup Jump shot,25,-142,215,False
+Courtney Lee,2,0,42,0,Pullup Jump shot,26,-13,261,False
+Courtney Lee,2,3,42,0,Pullup Jump shot,20,-55,197,True
+Courtney Lee,1,5,45,1,Pullup Jump shot,26,7,260,False
+Courtney Lee,2,4,0,0,Pullup Jump shot,19,122,148,True
+Courtney Lee,3,2,38,0,Pullup Jump shot,20,98,182,True
+Courtney Lee,3,8,24,1,Pullup Jump shot,20,55,195,True
+Courtney Lee,1,8,30,1,Pullup Jump shot,17,-30,169,True
+Courtney Lee,1,2,36,0,Pullup Jump shot,16,86,138,True
+Courtney Lee,2,4,20,1,Pullup Jump shot,11,-5,113,True
+Courtney Lee,1,8,18,1,Pullup Jump shot,19,112,164,True
+Courtney Lee,2,0,48,0,Pullup Jump shot,15,85,125,True
+Courtney Lee,1,5,21,1,Pullup Jump shot,21,94,194,True
+Courtney Lee,2,1,44,0,Pullup Jump shot,21,133,169,True
+Courtney Lee,2,1,27,0,Pullup Jump shot,26,9,260,False
+Courtney Lee,4,3,17,0,Pullup Jump shot,21,109,182,True
+Courtney Lee,2,5,7,1,Pullup Jump shot,17,-28,176,True
+Courtney Lee,1,6,27,1,Pullup Jump shot,19,101,172,True
+Courtney Lee,4,6,57,0,Pullup Jump shot,16,48,160,True
+Courtney Lee,1,0,34,1,Pullup Jump shot,13,-11,131,True
+Courtney Lee,3,0,43,0,Pullup Jump shot,18,112,153,True
+Courtney Lee,2,2,45,0,Pullup Jump shot,18,-3,184,True
+Courtney Lee,1,7,25,0,Pullup Jump shot,17,-76,162,True
+Courtney Lee,3,0,29,0,Pullup Jump shot,14,8,141,True
+Courtney Lee,3,8,28,0,Pullup Jump shot,16,16,163,True
+Courtney Lee,1,7,24,0,Pullup Jump shot,15,43,151,True
+Courtney Lee,3,1,16,0,Pullup Jump shot,17,100,143,True
+Courtney Lee,1,4,25,0,Pullup Jump shot,16,70,150,True
+Courtney Lee,2,4,40,1,Pullup Jump shot,15,-11,155,True
+Courtney Lee,4,4,10,1,Pullup Jump shot,20,-51,197,True
+Courtney Lee,3,4,20,0,Pullup Jump shot,24,100,221,False
+Courtney Lee,1,5,23,1,Pullup Jump shot,18,55,178,True
+Courtney Lee,1,9,2,1,Pullup Jump shot,18,-116,141,True
+Courtney Lee,3,0,0,0,Pullup Jump shot,33,32,334,False
+Courtney Lee,2,4,9,0,Pullup Jump shot,21,-37,214,True
+Courtney Lee,2,3,41,0,Pullup Jump shot,26,126,237,False
+Courtney Lee,2,1,21,1,Pullup Jump shot,12,123,25,True
+Courtney Lee,2,9,19,0,Pullup Jump shot,19,54,192,True
+Courtney Lee,3,0,6,0,Pullup Jump shot,20,81,184,True
+Courtney Lee,1,6,54,0,Pullup Jump shot,20,134,150,True
+Courtney Lee,2,5,41,0,Pullup Jump shot,21,99,187,True
+Courtney Lee,1,7,52,1,Pullup Jump shot,25,-63,244,False
+Courtney Lee,1,3,13,1,Pullup Jump shot,13,-14,133,True
+Courtney Lee,3,2,46,0,Pullup Jump shot,14,25,145,True
+Courtney Lee,2,1,9,0,Pullup Jump shot,15,-37,153,True
+Courtney Lee,1,0,7,0,Pullup Jump shot,15,-94,125,True
+Courtney Lee,1,8,18,1,Pullup Jump shot,17,20,175,True
+Courtney Lee,1,5,56,0,Pullup Jump shot,26,-67,254,False
+Courtney Lee,1,8,54,0,Pullup Jump shot,25,-152,208,False
+Courtney Lee,1,0,35,1,Pullup Jump shot,15,-12,152,True
+Courtney Lee,3,11,15,0,Pullup Jump shot,20,8,201,True
+Courtney Lee,3,7,8,0,Pullup Jump shot,19,171,103,True
+Courtney Lee,3,4,29,0,Pullup Jump shot,17,139,105,True
+Courtney Lee,4,6,29,0,Pullup Jump shot,16,101,129,True
+Courtney Lee,4,1,25,1,Pullup Jump shot,14,-74,129,True
+Courtney Lee,4,9,41,1,Pullup Jump shot,13,-103,94,True
+Courtney Lee,3,8,31,0,Pullup Jump shot,15,-10,158,True
+Courtney Lee,3,9,40,1,Pullup Jump shot,20,-184,85,True
+Courtney Lee,3,11,20,0,Pullup Jump shot,13,11,138,True
+Courtney Lee,3,10,16,1,Pullup Jump shot,16,-20,165,True
+Courtney Lee,3,2,2,0,Pullup Jump shot,20,-193,59,True
+Courtney Lee,3,11,20,1,Pullup Jump shot,11,105,54,True
+Courtney Lee,2,3,58,1,Pullup Jump shot,15,155,37,True
+Courtney Lee,1,6,25,0,Pullup Jump shot,25,-87,241,False
+Courtney Lee,2,0,0,0,Pullup Jump shot,22,-187,117,True
+Courtney Lee,1,9,22,0,Pullup Jump shot,21,-156,143,True
+Courtney Lee,2,6,51,1,Pullup Jump shot,25,134,219,False
+Courtney Lee,1,10,57,0,Pullup Jump shot,21,50,206,True
+Courtney Lee,2,9,4,0,Pullup Jump shot,25,146,210,False
+Courtney Lee,1,10,36,1,Pullup Jump shot,15,136,66,True
+Courtney Lee,3,7,33,0,Pullup Jump shot,17,67,164,True
+Courtney Lee,4,2,38,0,Pullup Jump shot,21,-41,214,True
+Courtney Lee,3,2,45,0,Pullup Jump shot,26,162,214,False
+Courtney Lee,1,9,16,1,Pullup Jump shot,11,4,118,True
+Courtney Lee,1,9,17,1,Pullup Jump shot,24,109,223,False
+Courtney Lee,2,2,48,0,Pullup Jump shot,16,138,95,True
+Courtney Lee,1,1,38,1,Pullup Jump shot,20,-33,201,True
+Courtney Lee,1,4,48,1,Pullup Jump shot,23,133,189,True
+Courtney Lee,1,0,52,0,Pullup Jump shot,14,149,15,True
+Courtney Lee,1,8,29,0,Pullup Jump shot,18,175,62,True
+Courtney Lee,1,9,10,1,Pullup Jump shot,19,177,89,True
+Courtney Lee,3,10,56,0,Pullup Jump shot,21,-43,208,True
+Courtney Lee,1,6,4,1,Pullup Jump shot,24,144,200,False
+Courtney Lee,3,8,18,1,Putback Layup Shot,0,0,-6,True
+Courtney Lee,2,5,25,1,Reverse Layup Shot,0,6,6,True
+Courtney Lee,3,2,35,1,Reverse Layup Shot,1,12,9,True
+Courtney Lee,3,6,54,1,Reverse Layup Shot,1,5,14,True
+Courtney Lee,3,2,1,0,Reverse Layup Shot,1,0,15,True
+Courtney Lee,4,4,40,1,Reverse Layup Shot,1,-11,10,True
+Courtney Lee,3,9,36,0,Reverse Layup Shot,0,-1,5,True
+Courtney Lee,2,6,54,1,Running Dunk Shot,1,8,11,True
+Courtney Lee,3,5,7,1,Running Dunk Shot,0,2,-5,True
+Courtney Lee,4,7,59,1,Running Finger Roll Layup Shot,1,-19,5,True
+Courtney Lee,2,9,33,0,Running Finger Roll Layup Shot,4,9,42,True
+Courtney Lee,3,10,4,1,Running Jump Shot,9,6,90,True
+Courtney Lee,1,7,19,1,Running Jump Shot,24,-190,158,False
+Courtney Lee,2,2,39,1,Running Jump Shot,10,-47,91,True
+Courtney Lee,1,10,38,1,Running Jump Shot,16,-14,169,True
+Courtney Lee,3,9,55,0,Running Jump Shot,24,-179,174,False
+Courtney Lee,1,7,53,0,Running Layup Shot,2,13,24,True
+Courtney Lee,3,1,6,1,Running Layup Shot,1,7,14,True
+Courtney Lee,1,1,38,1,Running Layup Shot,0,2,7,True
+Courtney Lee,3,1,10,1,Running Layup Shot,0,1,1,True
+Courtney Lee,3,9,41,1,Running Layup Shot,1,-6,15,True
+Courtney Lee,2,5,52,1,Running Layup Shot,1,-6,11,True
+Courtney Lee,4,5,46,1,Running Layup Shot,1,2,13,True
+Courtney Lee,4,3,36,1,Running Layup Shot,0,-3,-6,True
+Courtney Lee,1,11,16,1,Running Layup Shot,0,4,2,True
+Courtney Lee,2,0,0,0,Running Pull-Up Jump Shot,13,-64,120,True
+Courtney Lee,3,9,30,1,Running Pull-Up Jump Shot,11,112,26,True
+Courtney Lee,2,0,3,0,Running Pull-Up Jump Shot,29,-160,249,False
+Courtney Lee,3,0,48,0,Step Back Jump shot,21,148,158,True
+Courtney Lee,3,11,35,0,Step Back Jump shot,21,35,210,True
+Courtney Lee,1,8,57,0,Step Back Jump shot,22,-208,92,True
+Courtney Lee,1,6,0,1,Step Back Jump shot,14,105,94,True
+Courtney Lee,4,0,52,1,Step Back Jump shot,17,-59,168,True
+Courtney Lee,1,3,38,1,Step Back Jump shot,23,-168,168,False
+Courtney Lee,4,0,44,0,Step Back Jump shot,20,158,132,True
+Courtney Lee,1,9,50,0,Step Back Jump shot,18,-187,6,True
+Courtney Lee,4,8,45,0,Step Back Jump shot,19,152,115,True
+Courtney Lee,3,0,29,1,Tip Layup Shot,0,0,-6,True
+Courtney Lee,4,8,49,0,Tip Layup Shot,0,0,-6,True
+Courtney Lee,3,0,2,0,Turnaround Jump Shot,7,14,71,True
+Courtney Lee,2,1,24,0,Turnaround Jump Shot,14,-138,54,True
+Courtney Lee,3,2,24,1,Turnaround Jump Shot,5,-54,-2,True
+Courtney Lee,1,9,56,0,Turnaround Jump Shot,8,-30,83,True
+Courtney Lee,1,11,4,0,Turnaround Jump Shot,13,-128,37,True
+Courtney Lee,2,9,50,0,Turnaround Jump Shot,10,-34,97,True
+Courtney Lee,1,3,16,1,Turnaround Jump Shot,9,35,85,True

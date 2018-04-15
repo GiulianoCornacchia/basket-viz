@@ -1,0 +1,677 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Dillon Brooks,3,10,21,1,Alley Oop Dunk Shot,1,16,0,True
+Dillon Brooks,4,2,51,1,Alley Oop Layup shot,2,5,26,True
+Dillon Brooks,1,5,54,0,Alley Oop Layup shot,1,-3,10,True
+Dillon Brooks,2,6,30,1,Cutting Dunk Shot,1,-3,19,True
+Dillon Brooks,4,8,29,1,Cutting Dunk Shot,1,2,16,True
+Dillon Brooks,1,9,21,0,Cutting Layup Shot,2,3,29,True
+Dillon Brooks,1,3,56,1,Cutting Layup Shot,0,7,3,True
+Dillon Brooks,1,10,19,1,Cutting Layup Shot,0,0,1,True
+Dillon Brooks,4,6,13,0,Cutting Layup Shot,3,-23,28,True
+Dillon Brooks,4,3,34,1,Cutting Layup Shot,0,3,7,True
+Dillon Brooks,1,9,33,1,Cutting Layup Shot,1,-19,5,True
+Dillon Brooks,1,5,52,1,Cutting Layup Shot,1,3,10,True
+Dillon Brooks,1,9,33,1,Cutting Layup Shot,2,20,-3,True
+Dillon Brooks,1,9,49,1,Cutting Layup Shot,1,-12,12,True
+Dillon Brooks,4,5,13,1,Cutting Layup Shot,2,14,17,True
+Dillon Brooks,2,5,33,1,Cutting Layup Shot,1,14,10,True
+Dillon Brooks,1,2,23,1,Cutting Layup Shot,0,2,6,True
+Dillon Brooks,1,6,1,1,Cutting Layup Shot,1,0,16,True
+Dillon Brooks,2,6,57,0,Cutting Layup Shot,2,-11,17,True
+Dillon Brooks,3,6,38,1,Cutting Layup Shot,1,-14,12,True
+Dillon Brooks,2,9,35,1,Cutting Layup Shot,1,9,11,True
+Dillon Brooks,1,9,31,0,Cutting Layup Shot,1,9,8,True
+Dillon Brooks,4,3,21,0,Cutting Layup Shot,1,19,-3,True
+Dillon Brooks,3,10,56,1,Cutting Layup Shot,0,4,7,True
+Dillon Brooks,4,8,31,1,Cutting Layup Shot,1,-12,5,True
+Dillon Brooks,1,7,16,1,Cutting Layup Shot,0,3,5,True
+Dillon Brooks,1,5,39,1,Driving Dunk Shot,1,11,10,True
+Dillon Brooks,3,3,33,0,Driving Dunk Shot,8,50,72,True
+Dillon Brooks,4,5,0,1,Driving Dunk Shot,0,-2,7,True
+Dillon Brooks,1,4,13,1,Driving Dunk Shot,1,9,8,True
+Dillon Brooks,1,7,0,1,Driving Dunk Shot,0,5,5,True
+Dillon Brooks,2,7,30,0,Driving Dunk Shot,5,45,22,True
+Dillon Brooks,4,2,46,1,Driving Finger Roll Layup Shot,2,26,11,True
+Dillon Brooks,3,4,5,1,Driving Finger Roll Layup Shot,0,0,7,True
+Dillon Brooks,4,6,32,1,Driving Finger Roll Layup Shot,2,2,25,True
+Dillon Brooks,3,8,13,0,Driving Finger Roll Layup Shot,5,52,20,True
+Dillon Brooks,3,10,3,1,Driving Finger Roll Layup Shot,3,-5,32,True
+Dillon Brooks,2,4,33,1,Driving Finger Roll Layup Shot,1,-11,9,True
+Dillon Brooks,4,1,32,0,Driving Finger Roll Layup Shot,1,-9,17,True
+Dillon Brooks,1,9,58,0,Driving Finger Roll Layup Shot,5,38,36,True
+Dillon Brooks,2,6,35,1,Driving Finger Roll Layup Shot,1,6,15,True
+Dillon Brooks,3,9,19,1,Driving Finger Roll Layup Shot,0,3,6,True
+Dillon Brooks,1,3,49,0,Driving Finger Roll Layup Shot,1,2,19,True
+Dillon Brooks,3,5,41,1,Driving Finger Roll Layup Shot,0,0,2,True
+Dillon Brooks,2,4,48,0,Driving Finger Roll Layup Shot,2,-5,26,True
+Dillon Brooks,1,3,23,1,Driving Finger Roll Layup Shot,1,-10,11,True
+Dillon Brooks,4,1,39,0,Driving Finger Roll Layup Shot,2,20,11,True
+Dillon Brooks,2,1,43,1,Driving Finger Roll Layup Shot,4,9,43,True
+Dillon Brooks,2,5,41,0,Driving Finger Roll Layup Shot,1,13,11,True
+Dillon Brooks,2,0,48,0,Driving Finger Roll Layup Shot,0,3,3,True
+Dillon Brooks,2,11,20,1,Driving Floating Bank Jump Shot,2,19,14,True
+Dillon Brooks,1,3,57,0,Driving Floating Bank Jump Shot,10,98,47,True
+Dillon Brooks,4,0,45,1,Driving Floating Bank Jump Shot,8,87,23,True
+Dillon Brooks,1,5,45,1,Driving Floating Bank Jump Shot,9,89,-19,True
+Dillon Brooks,1,5,30,1,Driving Floating Bank Jump Shot,1,3,19,True
+Dillon Brooks,1,3,32,1,Driving Floating Bank Jump Shot,7,-60,48,True
+Dillon Brooks,4,4,19,1,Driving Floating Bank Jump Shot,10,-94,52,True
+Dillon Brooks,1,8,8,0,Driving Floating Bank Jump Shot,7,55,57,True
+Dillon Brooks,4,4,3,0,Driving Floating Bank Jump Shot,5,-54,25,True
+Dillon Brooks,3,6,46,1,Driving Floating Bank Jump Shot,5,40,38,True
+Dillon Brooks,4,8,43,0,Driving Floating Bank Jump Shot,10,97,37,True
+Dillon Brooks,4,6,47,0,Driving Floating Bank Jump Shot,7,65,38,True
+Dillon Brooks,1,4,57,0,Driving Floating Bank Jump Shot,5,-47,26,True
+Dillon Brooks,2,2,0,1,Driving Floating Bank Jump Shot,10,55,90,True
+Dillon Brooks,3,1,30,1,Driving Floating Bank Jump Shot,1,11,5,True
+Dillon Brooks,2,7,21,1,Driving Floating Bank Jump Shot,1,-11,9,True
+Dillon Brooks,1,11,39,0,Driving Floating Bank Jump Shot,7,44,58,True
+Dillon Brooks,3,10,29,1,Driving Floating Bank Jump Shot,0,-1,4,True
+Dillon Brooks,3,4,0,1,Driving Floating Jump Shot,7,52,55,True
+Dillon Brooks,3,1,23,0,Driving Floating Jump Shot,2,-11,20,True
+Dillon Brooks,1,8,36,0,Driving Floating Jump Shot,12,-10,121,True
+Dillon Brooks,3,6,40,0,Driving Floating Jump Shot,7,-47,56,True
+Dillon Brooks,2,5,1,0,Driving Floating Jump Shot,9,-94,27,True
+Dillon Brooks,2,1,28,0,Driving Floating Jump Shot,8,78,27,True
+Dillon Brooks,1,7,58,0,Driving Floating Jump Shot,1,11,10,True
+Dillon Brooks,3,1,7,0,Driving Floating Jump Shot,10,102,18,True
+Dillon Brooks,4,6,0,1,Driving Floating Jump Shot,8,61,55,True
+Dillon Brooks,1,11,22,1,Driving Floating Jump Shot,0,-3,5,True
+Dillon Brooks,2,1,58,0,Driving Floating Jump Shot,8,-65,57,True
+Dillon Brooks,1,11,16,0,Driving Floating Jump Shot,12,-50,110,True
+Dillon Brooks,1,5,59,0,Driving Floating Jump Shot,6,17,64,True
+Dillon Brooks,4,0,36,0,Driving Floating Jump Shot,9,-78,59,True
+Dillon Brooks,1,11,7,1,Driving Floating Jump Shot,7,49,50,True
+Dillon Brooks,2,8,36,0,Driving Floating Jump Shot,10,-27,103,True
+Dillon Brooks,1,6,36,0,Driving Floating Jump Shot,12,-43,117,True
+Dillon Brooks,4,6,11,0,Driving Floating Jump Shot,9,-51,83,True
+Dillon Brooks,3,10,1,0,Driving Floating Jump Shot,12,46,113,True
+Dillon Brooks,2,11,0,1,Driving Floating Jump Shot,6,-2,61,True
+Dillon Brooks,3,5,23,0,Driving Floating Jump Shot,10,26,102,True
+Dillon Brooks,2,4,2,1,Driving Floating Jump Shot,5,-14,58,True
+Dillon Brooks,1,0,47,1,Driving Floating Jump Shot,13,-41,131,True
+Dillon Brooks,4,7,47,0,Driving Floating Jump Shot,10,-92,46,True
+Dillon Brooks,1,7,37,0,Driving Floating Jump Shot,12,-38,122,True
+Dillon Brooks,1,9,59,1,Driving Floating Jump Shot,11,89,75,True
+Dillon Brooks,4,3,55,1,Driving Hook Shot,5,0,52,True
+Dillon Brooks,3,11,27,1,Driving Layup Shot,4,27,34,True
+Dillon Brooks,1,9,38,1,Driving Layup Shot,5,-22,49,True
+Dillon Brooks,4,7,17,0,Driving Layup Shot,6,23,63,True
+Dillon Brooks,4,5,20,1,Driving Layup Shot,3,20,29,True
+Dillon Brooks,1,5,31,0,Driving Layup Shot,3,35,6,True
+Dillon Brooks,2,8,3,0,Driving Layup Shot,1,6,15,True
+Dillon Brooks,4,2,16,0,Driving Layup Shot,7,-9,75,True
+Dillon Brooks,2,10,0,1,Driving Layup Shot,0,1,3,True
+Dillon Brooks,1,8,40,0,Driving Layup Shot,2,3,27,True
+Dillon Brooks,4,7,57,1,Driving Layup Shot,0,2,8,True
+Dillon Brooks,4,11,14,1,Driving Layup Shot,1,2,14,True
+Dillon Brooks,1,4,15,0,Driving Layup Shot,1,8,7,True
+Dillon Brooks,4,6,49,1,Driving Layup Shot,0,-9,0,True
+Dillon Brooks,1,4,42,0,Driving Layup Shot,1,8,12,True
+Dillon Brooks,1,6,8,1,Driving Layup Shot,1,-5,16,True
+Dillon Brooks,3,5,35,1,Driving Layup Shot,2,21,16,True
+Dillon Brooks,1,4,3,1,Driving Layup Shot,1,0,18,True
+Dillon Brooks,4,4,2,1,Driving Layup Shot,2,20,15,True
+Dillon Brooks,1,9,53,1,Driving Layup Shot,1,4,10,True
+Dillon Brooks,1,4,45,1,Driving Layup Shot,0,6,3,True
+Dillon Brooks,3,11,10,1,Driving Layup Shot,0,-8,2,True
+Dillon Brooks,2,4,13,1,Driving Layup Shot,1,-18,4,True
+Dillon Brooks,1,3,2,0,Driving Layup Shot,2,-13,22,True
+Dillon Brooks,4,5,23,0,Driving Layup Shot,1,6,13,True
+Dillon Brooks,2,8,19,1,Driving Layup Shot,0,-4,-5,True
+Dillon Brooks,1,11,22,1,Driving Layup Shot,0,-4,8,True
+Dillon Brooks,1,6,32,1,Driving Layup Shot,4,29,29,True
+Dillon Brooks,3,11,39,1,Driving Layup Shot,1,7,15,True
+Dillon Brooks,1,9,53,1,Driving Layup Shot,0,-5,4,True
+Dillon Brooks,3,10,32,0,Driving Layup Shot,3,21,25,True
+Dillon Brooks,3,10,53,1,Driving Layup Shot,1,3,19,True
+Dillon Brooks,1,10,6,0,Driving Layup Shot,4,12,47,True
+Dillon Brooks,1,10,49,1,Driving Layup Shot,1,1,14,True
+Dillon Brooks,1,10,30,1,Driving Layup Shot,3,24,22,True
+Dillon Brooks,4,0,54,0,Driving Layup Shot,1,9,5,True
+Dillon Brooks,3,7,37,1,Driving Layup Shot,0,-7,1,True
+Dillon Brooks,2,9,29,1,Driving Layup Shot,0,5,6,True
+Dillon Brooks,3,5,21,0,Driving Layup Shot,1,14,6,True
+Dillon Brooks,3,8,7,1,Driving Layup Shot,1,6,15,True
+Dillon Brooks,2,6,22,0,Driving Layup Shot,1,5,15,True
+Dillon Brooks,2,7,51,1,Driving Layup Shot,0,2,6,True
+Dillon Brooks,2,0,29,1,Driving Layup Shot,1,7,14,True
+Dillon Brooks,3,9,44,1,Driving Layup Shot,0,4,7,True
+Dillon Brooks,2,2,19,1,Driving Layup Shot,1,8,8,True
+Dillon Brooks,4,6,30,1,Driving Layup Shot,6,65,21,True
+Dillon Brooks,2,5,49,1,Driving Layup Shot,3,-30,15,True
+Dillon Brooks,3,1,39,1,Driving Layup Shot,1,16,9,True
+Dillon Brooks,3,10,34,1,Driving Layup Shot,1,6,11,True
+Dillon Brooks,1,10,11,0,Driving Layup Shot,6,44,53,True
+Dillon Brooks,2,6,7,0,Driving Layup Shot,3,-33,17,True
+Dillon Brooks,2,5,34,0,Driving Layup Shot,3,7,36,True
+Dillon Brooks,3,6,46,1,Driving Layup Shot,1,5,17,True
+Dillon Brooks,4,2,45,1,Driving Layup Shot,0,-1,-3,True
+Dillon Brooks,1,9,13,1,Driving Layup Shot,0,-5,4,True
+Dillon Brooks,4,5,42,0,Driving Layup Shot,4,2,43,True
+Dillon Brooks,2,6,28,0,Driving Layup Shot,1,11,10,True
+Dillon Brooks,4,10,51,0,Driving Layup Shot,1,10,-3,True
+Dillon Brooks,2,0,4,1,Driving Layup Shot,1,13,15,True
+Dillon Brooks,1,9,19,0,Driving Layup Shot,5,-55,20,True
+Dillon Brooks,4,9,18,1,Driving Layup Shot,0,2,8,True
+Dillon Brooks,4,1,43,0,Driving Layup Shot,1,13,10,True
+Dillon Brooks,2,5,36,1,Driving Layup Shot,3,-17,34,True
+Dillon Brooks,1,6,43,1,Driving Layup Shot,0,-3,7,True
+Dillon Brooks,3,8,22,0,Driving Layup Shot,2,4,22,True
+Dillon Brooks,1,8,31,0,Driving Layup Shot,2,-5,22,True
+Dillon Brooks,3,0,7,0,Driving Layup Shot,3,15,26,True
+Dillon Brooks,3,10,50,1,Driving Layup Shot,3,-6,39,True
+Dillon Brooks,4,3,48,0,Driving Layup Shot,4,49,-9,True
+Dillon Brooks,2,7,31,0,Driving Layup Shot,4,27,32,True
+Dillon Brooks,2,5,39,0,Driving Layup Shot,1,17,8,True
+Dillon Brooks,4,2,41,0,Driving Layup Shot,2,19,8,True
+Dillon Brooks,1,6,58,0,Driving Layup Shot,2,11,23,True
+Dillon Brooks,3,1,1,0,Driving Layup Shot,3,-35,6,True
+Dillon Brooks,2,9,40,1,Driving Layup Shot,0,6,1,True
+Dillon Brooks,3,3,35,0,Driving Layup Shot,2,2,26,True
+Dillon Brooks,3,9,55,1,Driving Layup Shot,1,-18,-1,True
+Dillon Brooks,1,10,46,1,Driving Layup Shot,1,-9,6,True
+Dillon Brooks,3,10,31,0,Driving Layup Shot,5,53,5,True
+Dillon Brooks,1,11,7,1,Driving Layup Shot,1,-14,-1,True
+Dillon Brooks,1,2,14,1,Driving Layup Shot,3,-31,1,True
+Dillon Brooks,1,1,43,0,Driving Layup Shot,1,-13,-2,True
+Dillon Brooks,4,3,44,0,Driving Layup Shot,3,26,21,True
+Dillon Brooks,1,3,45,1,Driving Layup Shot,1,-2,14,True
+Dillon Brooks,2,0,46,1,Driving Layup Shot,0,-4,8,True
+Dillon Brooks,3,7,37,0,Driving Layup Shot,3,-29,21,True
+Dillon Brooks,1,10,19,0,Driving Layup Shot,2,-26,9,True
+Dillon Brooks,4,10,5,1,Driving Layup Shot,0,-9,3,True
+Dillon Brooks,2,10,5,0,Driving Layup Shot,6,-27,54,True
+Dillon Brooks,2,11,18,0,Driving Layup Shot,6,52,34,True
+Dillon Brooks,1,11,20,1,Driving Reverse Layup Shot,1,14,11,True
+Dillon Brooks,2,4,54,1,Driving Reverse Layup Shot,2,-18,-12,True
+Dillon Brooks,3,7,2,1,Driving Reverse Layup Shot,1,-16,10,True
+Dillon Brooks,3,1,26,0,Driving Reverse Layup Shot,2,-18,13,True
+Dillon Brooks,3,4,3,1,Driving Reverse Layup Shot,2,-27,12,True
+Dillon Brooks,1,10,57,1,Driving Reverse Layup Shot,1,-11,15,True
+Dillon Brooks,3,1,43,1,Driving Reverse Layup Shot,3,27,16,True
+Dillon Brooks,3,5,30,1,Driving Reverse Layup Shot,0,1,3,True
+Dillon Brooks,2,0,42,1,Driving Reverse Layup Shot,1,-6,13,True
+Dillon Brooks,2,9,29,1,Driving Reverse Layup Shot,0,2,5,True
+Dillon Brooks,2,4,49,1,Dunk Shot,1,-3,17,True
+Dillon Brooks,1,10,11,1,Dunk Shot,2,-21,0,True
+Dillon Brooks,1,10,53,0,Fadeaway Jump Shot,6,-16,64,True
+Dillon Brooks,1,10,54,0,Fadeaway Jump Shot,15,-100,116,True
+Dillon Brooks,3,6,53,1,Fadeaway Jump Shot,25,-49,249,False
+Dillon Brooks,3,9,25,0,Fadeaway Jump Shot,16,-90,143,True
+Dillon Brooks,4,6,5,1,Fadeaway Jump Shot,15,158,5,True
+Dillon Brooks,1,8,31,0,Fadeaway Jump Shot,21,-52,205,True
+Dillon Brooks,3,10,9,0,Fadeaway Jump Shot,25,220,132,False
+Dillon Brooks,2,8,35,0,Fadeaway Jump Shot,6,58,37,True
+Dillon Brooks,3,9,17,1,Fadeaway Jump Shot,7,32,73,True
+Dillon Brooks,3,2,21,1,Finger Roll Layup Shot,0,-6,7,True
+Dillon Brooks,1,7,46,1,Finger Roll Layup Shot,2,5,20,True
+Dillon Brooks,3,0,43,0,Finger Roll Layup Shot,3,-5,36,True
+Dillon Brooks,1,7,57,1,Floating Jump shot,1,-8,8,True
+Dillon Brooks,2,2,49,1,Floating Jump shot,8,-3,86,True
+Dillon Brooks,3,3,48,0,Floating Jump shot,10,-21,99,True
+Dillon Brooks,3,2,1,1,Floating Jump shot,7,-2,71,True
+Dillon Brooks,2,7,48,0,Floating Jump shot,10,103,1,True
+Dillon Brooks,2,7,59,0,Floating Jump shot,8,55,68,True
+Dillon Brooks,3,7,41,0,Floating Jump shot,10,-49,88,True
+Dillon Brooks,2,7,49,0,Floating Jump shot,6,3,69,True
+Dillon Brooks,1,11,25,1,Floating Jump shot,5,-11,55,True
+Dillon Brooks,2,8,8,0,Floating Jump shot,12,35,116,True
+Dillon Brooks,3,1,23,0,Floating Jump shot,3,-8,38,True
+Dillon Brooks,1,8,50,0,Floating Jump shot,15,-1,155,True
+Dillon Brooks,4,4,36,1,Floating Jump shot,9,5,97,True
+Dillon Brooks,1,11,38,1,Hook Shot,9,-2,92,True
+Dillon Brooks,1,11,17,0,Jump Bank Shot,13,105,89,True
+Dillon Brooks,2,3,24,1,Jump Bank Shot,25,166,200,False
+Dillon Brooks,1,11,32,1,Jump Shot,25,73,240,False
+Dillon Brooks,1,10,57,0,Jump Shot,25,170,187,False
+Dillon Brooks,1,10,43,1,Jump Shot,21,-105,188,True
+Dillon Brooks,2,5,2,1,Jump Shot,23,229,32,False
+Dillon Brooks,3,11,36,1,Jump Shot,24,69,239,False
+Dillon Brooks,2,8,40,0,Jump Shot,24,-108,221,False
+Dillon Brooks,3,10,7,0,Jump Shot,12,113,50,True
+Dillon Brooks,1,9,49,0,Jump Shot,12,-37,121,True
+Dillon Brooks,4,6,53,0,Jump Shot,24,182,167,False
+Dillon Brooks,2,7,0,0,Jump Shot,24,-125,215,False
+Dillon Brooks,3,4,24,0,Jump Shot,25,206,142,False
+Dillon Brooks,1,6,37,0,Jump Shot,25,-166,194,False
+Dillon Brooks,4,6,12,1,Jump Shot,31,130,289,False
+Dillon Brooks,3,11,18,0,Jump Shot,20,-137,153,True
+Dillon Brooks,3,7,49,0,Jump Shot,11,-27,110,True
+Dillon Brooks,1,4,37,0,Jump Shot,22,225,41,False
+Dillon Brooks,3,8,29,0,Jump Shot,20,171,116,True
+Dillon Brooks,4,3,21,0,Jump Shot,27,-98,254,False
+Dillon Brooks,2,11,32,0,Jump Shot,25,-107,232,False
+Dillon Brooks,2,2,32,0,Jump Shot,24,-163,185,False
+Dillon Brooks,3,3,5,0,Jump Shot,23,-231,4,False
+Dillon Brooks,2,7,27,0,Jump Shot,14,-1,147,True
+Dillon Brooks,2,8,30,0,Jump Shot,23,224,72,False
+Dillon Brooks,3,2,24,0,Jump Shot,19,-197,12,True
+Dillon Brooks,4,3,5,0,Jump Shot,9,-91,4,True
+Dillon Brooks,1,8,52,0,Jump Shot,13,106,85,True
+Dillon Brooks,1,5,56,0,Jump Shot,22,-225,22,False
+Dillon Brooks,4,8,37,0,Jump Shot,25,16,253,False
+Dillon Brooks,3,10,48,1,Jump Shot,28,218,186,False
+Dillon Brooks,1,0,34,1,Jump Shot,22,225,11,False
+Dillon Brooks,3,6,41,0,Jump Shot,25,130,217,False
+Dillon Brooks,2,5,36,0,Jump Shot,26,-90,247,False
+Dillon Brooks,1,1,0,1,Jump Shot,25,-32,256,False
+Dillon Brooks,4,4,13,0,Jump Shot,26,-188,190,False
+Dillon Brooks,2,7,55,0,Jump Shot,25,-114,231,False
+Dillon Brooks,2,10,16,0,Jump Shot,23,-228,64,False
+Dillon Brooks,3,1,36,0,Jump Shot,19,-197,22,True
+Dillon Brooks,4,10,42,0,Jump Shot,22,-226,-21,False
+Dillon Brooks,2,0,35,0,Jump Shot,25,-174,185,False
+Dillon Brooks,1,10,56,0,Jump Shot,25,-151,201,False
+Dillon Brooks,1,10,14,1,Jump Shot,24,215,116,False
+Dillon Brooks,4,0,9,1,Jump Shot,23,230,37,False
+Dillon Brooks,2,9,51,0,Jump Shot,25,137,220,False
+Dillon Brooks,1,8,37,1,Jump Shot,25,-144,205,False
+Dillon Brooks,3,4,6,0,Jump Shot,22,190,120,True
+Dillon Brooks,4,9,51,1,Jump Shot,24,143,205,False
+Dillon Brooks,3,5,46,1,Jump Shot,25,211,141,False
+Dillon Brooks,2,0,52,0,Jump Shot,23,-230,-5,False
+Dillon Brooks,2,0,21,0,Jump Shot,13,138,4,True
+Dillon Brooks,4,0,7,0,Jump Shot,27,-157,228,False
+Dillon Brooks,1,9,3,1,Jump Shot,27,66,262,False
+Dillon Brooks,4,8,57,1,Jump Shot,25,139,218,False
+Dillon Brooks,1,8,54,0,Jump Shot,26,7,266,False
+Dillon Brooks,1,5,35,0,Jump Shot,25,-41,256,False
+Dillon Brooks,1,8,59,0,Jump Shot,15,-158,11,True
+Dillon Brooks,3,9,38,0,Jump Shot,25,-119,221,False
+Dillon Brooks,2,1,18,0,Jump Shot,26,139,230,False
+Dillon Brooks,3,6,7,0,Jump Shot,25,184,179,False
+Dillon Brooks,4,8,38,0,Jump Shot,25,194,168,False
+Dillon Brooks,1,5,59,0,Jump Shot,16,10,168,True
+Dillon Brooks,1,1,12,1,Jump Shot,24,-225,96,False
+Dillon Brooks,3,6,25,1,Jump Shot,14,126,64,True
+Dillon Brooks,1,10,43,0,Jump Shot,25,189,173,False
+Dillon Brooks,1,5,40,0,Jump Shot,24,107,225,False
+Dillon Brooks,1,4,10,0,Jump Shot,23,-232,21,False
+Dillon Brooks,2,1,53,0,Jump Shot,25,108,226,False
+Dillon Brooks,4,8,42,0,Jump Shot,24,-177,176,False
+Dillon Brooks,1,2,0,0,Jump Shot,24,-145,197,False
+Dillon Brooks,2,2,53,0,Jump Shot,24,129,212,False
+Dillon Brooks,4,3,18,0,Jump Shot,22,225,41,False
+Dillon Brooks,2,3,12,0,Jump Shot,25,-2,258,False
+Dillon Brooks,2,0,0,0,Jump Shot,81,186,791,False
+Dillon Brooks,3,0,30,0,Jump Shot,26,-2,265,False
+Dillon Brooks,2,3,33,0,Jump Shot,22,222,10,False
+Dillon Brooks,1,9,4,0,Jump Shot,25,227,116,False
+Dillon Brooks,1,1,34,0,Jump Shot,22,-125,183,True
+Dillon Brooks,1,0,0,0,Jump Shot,52,-45,520,False
+Dillon Brooks,2,0,0,0,Jump Shot,23,-230,15,False
+Dillon Brooks,1,3,12,1,Jump Shot,24,150,197,False
+Dillon Brooks,3,6,15,0,Jump Shot,22,-226,5,False
+Dillon Brooks,4,6,13,0,Jump Shot,26,-112,240,False
+Dillon Brooks,1,0,46,0,Jump Shot,24,-240,20,False
+Dillon Brooks,3,11,17,1,Jump Shot,25,188,179,False
+Dillon Brooks,4,1,46,1,Jump Shot,27,-57,267,False
+Dillon Brooks,4,3,25,0,Jump Shot,26,139,228,False
+Dillon Brooks,1,10,11,0,Jump Shot,23,231,10,False
+Dillon Brooks,3,8,18,1,Jump Shot,25,154,205,False
+Dillon Brooks,1,9,38,0,Jump Shot,25,80,239,False
+Dillon Brooks,1,6,0,1,Jump Shot,25,-143,211,False
+Dillon Brooks,1,11,7,1,Jump Shot,23,230,-23,False
+Dillon Brooks,3,9,52,1,Jump Shot,25,232,116,False
+Dillon Brooks,4,8,53,0,Jump Shot,26,55,260,False
+Dillon Brooks,4,9,11,0,Jump Shot,25,31,257,False
+Dillon Brooks,3,5,57,0,Jump Shot,26,-110,246,False
+Dillon Brooks,4,0,45,0,Jump Shot,26,-147,222,False
+Dillon Brooks,4,8,54,1,Jump Shot,26,180,196,False
+Dillon Brooks,2,7,39,1,Jump Shot,24,-194,155,False
+Dillon Brooks,1,6,3,0,Jump Shot,22,224,48,False
+Dillon Brooks,3,9,32,0,Jump Shot,24,-164,184,False
+Dillon Brooks,1,2,53,0,Jump Shot,25,-15,257,False
+Dillon Brooks,1,8,26,1,Jump Shot,26,170,197,False
+Dillon Brooks,1,10,55,0,Jump Shot,23,227,52,False
+Dillon Brooks,3,8,4,0,Jump Shot,25,195,159,False
+Dillon Brooks,3,10,43,1,Jump Shot,25,166,194,False
+Dillon Brooks,3,0,0,0,Jump Shot,67,176,647,False
+Dillon Brooks,1,8,1,0,Jump Shot,23,229,24,False
+Dillon Brooks,1,4,32,0,Jump Shot,14,35,137,True
+Dillon Brooks,2,2,34,0,Jump Shot,26,-169,204,False
+Dillon Brooks,3,5,4,0,Jump Shot,25,-134,216,False
+Dillon Brooks,2,3,33,1,Jump Shot,26,129,226,False
+Dillon Brooks,4,1,14,0,Jump Shot,16,-138,92,True
+Dillon Brooks,1,5,11,0,Jump Shot,27,187,198,False
+Dillon Brooks,1,8,42,1,Jump Shot,14,-55,134,True
+Dillon Brooks,4,7,17,0,Jump Shot,23,236,21,False
+Dillon Brooks,1,0,8,0,Jump Shot,24,103,225,False
+Dillon Brooks,3,0,0,0,Jump Shot,39,150,367,False
+Dillon Brooks,4,0,37,0,Jump Shot,24,-236,73,False
+Dillon Brooks,2,0,0,0,Jump Shot,32,3,327,False
+Dillon Brooks,1,9,22,0,Jump Shot,25,157,197,False
+Dillon Brooks,2,8,49,0,Jump Shot,19,147,122,True
+Dillon Brooks,4,10,19,0,Jump Shot,27,-192,201,False
+Dillon Brooks,4,9,47,0,Jump Shot,27,-160,221,False
+Dillon Brooks,3,10,1,0,Jump Shot,25,134,212,False
+Dillon Brooks,1,6,46,1,Jump Shot,25,90,241,False
+Dillon Brooks,2,3,24,0,Jump Shot,26,152,221,False
+Dillon Brooks,3,0,32,0,Jump Shot,25,-116,224,False
+Dillon Brooks,4,9,11,1,Jump Shot,26,-74,251,False
+Dillon Brooks,2,0,0,0,Jump Shot,52,-174,500,False
+Dillon Brooks,3,11,39,1,Jump Shot,22,-20,222,True
+Dillon Brooks,2,3,2,0,Jump Shot,12,-36,121,True
+Dillon Brooks,1,9,56,0,Jump Shot,25,141,209,False
+Dillon Brooks,3,11,21,0,Jump Shot,21,109,190,True
+Dillon Brooks,3,9,34,0,Jump Shot,19,65,185,True
+Dillon Brooks,3,7,38,0,Jump Shot,26,-100,244,False
+Dillon Brooks,1,7,24,0,Jump Shot,23,-231,-8,False
+Dillon Brooks,1,10,29,1,Jump Shot,22,-227,-6,False
+Dillon Brooks,2,7,52,1,Jump Shot,22,220,34,False
+Dillon Brooks,1,8,10,0,Jump Shot,24,177,176,False
+Dillon Brooks,4,4,35,1,Jump Shot,24,167,181,False
+Dillon Brooks,1,7,38,0,Jump Shot,23,231,20,False
+Dillon Brooks,3,5,59,1,Jump Shot,25,-152,207,False
+Dillon Brooks,3,3,43,1,Jump Shot,23,230,5,False
+Dillon Brooks,3,0,0,0,Jump Shot,58,-164,557,False
+Dillon Brooks,3,8,49,0,Jump Shot,26,73,254,False
+Dillon Brooks,3,10,4,0,Jump Shot,26,133,226,False
+Dillon Brooks,4,0,55,0,Jump Shot,19,-196,21,True
+Dillon Brooks,4,3,3,0,Jump Shot,26,-81,248,False
+Dillon Brooks,4,8,32,0,Jump Shot,23,-231,57,False
+Dillon Brooks,3,2,19,1,Jump Shot,25,-169,197,False
+Dillon Brooks,4,6,14,0,Jump Shot,24,-19,248,False
+Dillon Brooks,3,9,43,0,Jump Shot,26,-183,191,False
+Dillon Brooks,3,9,52,1,Jump Shot,25,205,153,False
+Dillon Brooks,1,10,12,0,Jump Shot,18,-186,17,True
+Dillon Brooks,3,10,30,0,Jump Shot,14,92,117,True
+Dillon Brooks,3,11,22,1,Jump Shot,23,231,-1,False
+Dillon Brooks,3,5,58,1,Jump Shot,25,157,204,False
+Dillon Brooks,3,2,21,1,Jump Shot,26,-2,260,False
+Dillon Brooks,3,9,40,0,Jump Shot,26,109,241,False
+Dillon Brooks,3,8,56,0,Jump Shot,26,-44,257,False
+Dillon Brooks,1,4,42,0,Jump Shot,23,233,39,False
+Dillon Brooks,3,5,47,0,Jump Shot,28,-93,265,False
+Dillon Brooks,4,11,6,0,Jump Shot,17,51,165,True
+Dillon Brooks,1,9,18,0,Jump Shot,25,185,177,False
+Dillon Brooks,4,4,1,0,Jump Shot,25,74,239,False
+Dillon Brooks,3,5,43,0,Jump Shot,23,-230,-6,False
+Dillon Brooks,4,0,39,1,Jump Shot,25,166,191,False
+Dillon Brooks,1,4,59,1,Jump Shot,25,3,252,False
+Dillon Brooks,4,2,10,1,Jump Shot,26,-16,260,False
+Dillon Brooks,3,8,38,1,Jump Shot,25,-119,226,False
+Dillon Brooks,4,8,8,0,Jump Shot,26,90,247,False
+Dillon Brooks,4,0,10,0,Jump Shot,27,-166,214,False
+Dillon Brooks,4,7,33,0,Jump Shot,25,-185,175,False
+Dillon Brooks,3,9,9,1,Jump Shot,24,227,85,False
+Dillon Brooks,3,8,38,1,Jump Shot,24,235,83,False
+Dillon Brooks,1,2,39,1,Jump Shot,26,47,262,False
+Dillon Brooks,1,1,34,1,Jump Shot,22,126,188,True
+Dillon Brooks,3,8,51,1,Jump Shot,25,190,174,False
+Dillon Brooks,3,10,24,1,Jump Shot,25,176,178,False
+Dillon Brooks,2,4,21,0,Jump Shot,24,203,145,False
+Dillon Brooks,2,8,53,1,Jump Shot,24,-177,174,False
+Dillon Brooks,1,5,8,0,Jump Shot,26,111,243,False
+Dillon Brooks,4,0,22,0,Jump Shot,25,-148,206,False
+Dillon Brooks,4,1,2,0,Jump Shot,25,-183,183,False
+Dillon Brooks,3,10,27,0,Jump Shot,25,-49,247,False
+Dillon Brooks,3,11,44,1,Jump Shot,25,189,167,False
+Dillon Brooks,2,3,8,0,Jump Shot,22,225,28,False
+Dillon Brooks,3,8,2,0,Jump Shot,25,-161,193,False
+Dillon Brooks,3,7,16,1,Jump Shot,25,-149,207,False
+Dillon Brooks,3,1,2,1,Jump Shot,28,99,272,False
+Dillon Brooks,1,8,30,0,Jump Shot,25,106,235,False
+Dillon Brooks,2,8,3,1,Jump Shot,25,132,218,False
+Dillon Brooks,3,8,23,0,Jump Shot,16,131,96,True
+Dillon Brooks,3,0,59,0,Jump Shot,13,126,32,True
+Dillon Brooks,1,8,39,1,Jump Shot,23,-228,34,False
+Dillon Brooks,4,1,13,0,Jump Shot,24,217,122,False
+Dillon Brooks,4,9,26,1,Jump Shot,21,-190,104,True
+Dillon Brooks,4,7,59,0,Jump Shot,12,87,94,True
+Dillon Brooks,3,0,8,0,Jump Shot,10,51,90,True
+Dillon Brooks,3,7,46,1,Jump Shot,26,19,269,False
+Dillon Brooks,4,5,50,1,Jump Shot,28,-121,257,False
+Dillon Brooks,1,11,1,0,Jump Shot,22,-223,9,False
+Dillon Brooks,4,11,43,0,Jump Shot,22,-217,44,True
+Dillon Brooks,3,10,33,0,Jump Shot,22,-224,22,False
+Dillon Brooks,2,6,54,0,Jump Shot,23,229,22,False
+Dillon Brooks,3,7,0,0,Jump Shot,25,187,174,False
+Dillon Brooks,1,7,54,0,Jump Shot,26,114,234,False
+Dillon Brooks,1,7,35,0,Jump Shot,27,158,219,False
+Dillon Brooks,3,4,9,1,Jump Shot,21,-124,180,True
+Dillon Brooks,2,5,59,1,Jump Shot,23,236,26,False
+Dillon Brooks,2,4,52,0,Jump Shot,26,125,232,False
+Dillon Brooks,1,11,33,0,Jump Shot,26,133,227,False
+Dillon Brooks,2,0,30,0,Jump Shot,26,-150,221,False
+Dillon Brooks,2,0,36,1,Jump Shot,25,108,232,False
+Dillon Brooks,2,1,8,0,Jump Shot,23,-226,68,False
+Dillon Brooks,1,9,39,1,Jump Shot,25,216,133,False
+Dillon Brooks,4,0,0,0,Jump Shot,26,160,209,False
+Dillon Brooks,1,8,29,0,Jump Shot,2,-7,27,True
+Dillon Brooks,3,9,58,0,Jump Shot,25,149,204,False
+Dillon Brooks,2,9,18,0,Jump Shot,14,51,131,True
+Dillon Brooks,1,11,8,0,Jump Shot,25,-6,253,False
+Dillon Brooks,2,0,3,0,Jump Shot,11,-13,115,True
+Dillon Brooks,2,0,34,1,Jump Shot,23,229,43,False
+Dillon Brooks,4,9,44,0,Jump Shot,10,-2,105,True
+Dillon Brooks,1,7,13,0,Jump Shot,24,193,151,False
+Dillon Brooks,4,2,36,0,Jump Shot,11,-13,111,True
+Dillon Brooks,1,10,17,1,Jump Shot,26,-134,226,False
+Dillon Brooks,2,8,25,0,Jump Shot,13,37,127,True
+Dillon Brooks,2,1,23,1,Jump Shot,23,-229,50,False
+Dillon Brooks,4,6,1,1,Jump Shot,25,-184,176,False
+Dillon Brooks,4,2,15,0,Jump Shot,27,-29,269,False
+Dillon Brooks,1,10,21,0,Jump Shot,25,232,109,False
+Dillon Brooks,1,4,15,0,Jump Shot,27,115,251,False
+Dillon Brooks,3,6,29,0,Jump Shot,24,204,141,False
+Dillon Brooks,2,0,39,0,Jump Shot,22,-223,3,False
+Dillon Brooks,4,4,35,1,Jump Shot,26,-133,224,False
+Dillon Brooks,1,7,52,1,Jump Shot,25,96,231,False
+Dillon Brooks,3,11,27,0,Jump Shot,25,160,193,False
+Dillon Brooks,2,3,49,1,Layup Shot,1,14,-6,True
+Dillon Brooks,4,4,12,0,Layup Shot,1,0,10,True
+Dillon Brooks,3,5,23,1,Layup Shot,3,-8,34,True
+Dillon Brooks,2,3,18,0,Layup Shot,0,-3,8,True
+Dillon Brooks,2,3,20,0,Layup Shot,1,16,1,True
+Dillon Brooks,1,5,30,1,Layup Shot,0,1,6,True
+Dillon Brooks,4,8,33,0,Layup Shot,0,6,7,True
+Dillon Brooks,2,5,28,0,Layup Shot,2,-13,16,True
+Dillon Brooks,1,8,33,0,Layup Shot,1,-16,11,True
+Dillon Brooks,4,10,35,0,Layup Shot,1,-6,9,True
+Dillon Brooks,3,10,29,1,Layup Shot,2,14,16,True
+Dillon Brooks,1,8,6,0,Layup Shot,1,-9,11,True
+Dillon Brooks,3,11,23,1,Layup Shot,2,8,20,True
+Dillon Brooks,3,7,43,0,Layup Shot,0,-2,1,True
+Dillon Brooks,3,10,56,1,Layup Shot,2,-1,20,True
+Dillon Brooks,1,6,6,0,Layup Shot,10,55,89,True
+Dillon Brooks,3,7,52,0,Layup Shot,16,155,42,True
+Dillon Brooks,4,8,25,1,Layup Shot,1,15,10,True
+Dillon Brooks,2,0,45,0,Layup Shot,3,-6,35,True
+Dillon Brooks,3,11,3,0,Layup Shot,2,5,25,True
+Dillon Brooks,1,8,14,0,Layup Shot,1,6,15,True
+Dillon Brooks,2,8,52,1,Layup Shot,4,12,46,True
+Dillon Brooks,4,5,52,0,Layup Shot,2,6,22,True
+Dillon Brooks,2,7,39,1,Layup Shot,0,7,5,True
+Dillon Brooks,2,6,49,0,Layup Shot,2,13,21,True
+Dillon Brooks,2,1,49,0,Layup Shot,0,1,6,True
+Dillon Brooks,3,2,0,1,Layup Shot,0,-3,-8,True
+Dillon Brooks,4,4,9,0,Pullup Jump shot,19,-2,193,True
+Dillon Brooks,2,0,31,0,Pullup Jump shot,25,-81,237,False
+Dillon Brooks,3,7,57,1,Pullup Jump shot,15,-2,152,True
+Dillon Brooks,3,4,8,0,Pullup Jump shot,21,-5,210,True
+Dillon Brooks,3,10,34,0,Pullup Jump shot,19,-116,162,True
+Dillon Brooks,3,1,9,1,Pullup Jump shot,11,-99,54,True
+Dillon Brooks,1,10,53,1,Pullup Jump shot,16,147,85,True
+Dillon Brooks,4,7,48,0,Pullup Jump shot,15,107,110,True
+Dillon Brooks,1,11,19,0,Pullup Jump shot,25,88,243,False
+Dillon Brooks,1,8,8,1,Pullup Jump shot,17,-84,153,True
+Dillon Brooks,2,7,18,0,Pullup Jump shot,17,-108,143,True
+Dillon Brooks,4,8,59,0,Pullup Jump shot,15,-109,113,True
+Dillon Brooks,1,8,5,1,Pullup Jump shot,9,-22,88,True
+Dillon Brooks,1,10,30,1,Pullup Jump shot,21,45,214,True
+Dillon Brooks,3,4,41,0,Pullup Jump shot,26,54,257,False
+Dillon Brooks,3,8,41,1,Pullup Jump shot,14,139,42,True
+Dillon Brooks,1,11,42,1,Pullup Jump shot,16,-19,163,True
+Dillon Brooks,4,5,45,1,Pullup Jump shot,21,-105,190,True
+Dillon Brooks,2,0,42,0,Pullup Jump shot,18,176,46,True
+Dillon Brooks,2,7,18,0,Pullup Jump shot,25,-134,221,False
+Dillon Brooks,2,11,15,0,Pullup Jump shot,24,-79,237,False
+Dillon Brooks,1,11,8,0,Pullup Jump shot,14,125,80,True
+Dillon Brooks,4,2,18,0,Pullup Jump shot,21,101,190,True
+Dillon Brooks,3,9,3,0,Pullup Jump shot,21,-38,211,True
+Dillon Brooks,1,11,19,1,Pullup Jump shot,20,-198,41,True
+Dillon Brooks,2,5,53,0,Pullup Jump shot,8,-86,13,True
+Dillon Brooks,1,9,2,1,Pullup Jump shot,14,33,146,True
+Dillon Brooks,3,10,52,0,Pullup Jump shot,17,-82,151,True
+Dillon Brooks,2,7,11,1,Pullup Jump shot,9,-16,89,True
+Dillon Brooks,3,4,29,0,Pullup Jump shot,18,-40,185,True
+Dillon Brooks,3,5,10,1,Pullup Jump shot,8,29,78,True
+Dillon Brooks,4,2,16,0,Pullup Jump shot,26,90,245,False
+Dillon Brooks,2,7,13,0,Pullup Jump shot,18,-167,88,True
+Dillon Brooks,4,1,49,0,Pullup Jump shot,15,-22,154,True
+Dillon Brooks,4,4,15,0,Pullup Jump shot,21,118,178,True
+Dillon Brooks,3,11,39,1,Pullup Jump shot,16,-78,151,True
+Dillon Brooks,1,9,32,0,Pullup Jump shot,14,116,88,True
+Dillon Brooks,2,4,25,1,Pullup Jump shot,11,1,117,True
+Dillon Brooks,3,10,2,1,Pullup Jump shot,13,-18,132,True
+Dillon Brooks,2,7,18,1,Pullup Jump shot,14,-76,126,True
+Dillon Brooks,1,11,24,1,Pullup Jump shot,26,85,246,False
+Dillon Brooks,1,0,0,0,Pullup Jump shot,15,-30,157,True
+Dillon Brooks,4,0,30,1,Pullup Jump shot,25,-55,247,False
+Dillon Brooks,2,9,22,1,Pullup Jump shot,22,-90,204,True
+Dillon Brooks,1,4,52,0,Pullup Jump shot,26,-112,235,False
+Dillon Brooks,3,6,37,1,Pullup Jump shot,21,66,203,True
+Dillon Brooks,2,7,30,1,Pullup Jump shot,13,105,91,True
+Dillon Brooks,4,6,46,0,Pullup Jump shot,16,19,162,True
+Dillon Brooks,2,0,36,0,Pullup Jump shot,21,-187,97,True
+Dillon Brooks,4,7,3,0,Pullup Jump shot,19,133,145,True
+Dillon Brooks,3,1,7,1,Pullup Jump shot,19,-46,187,True
+Dillon Brooks,1,2,26,0,Pullup Jump shot,15,-32,155,True
+Dillon Brooks,3,0,48,0,Pullup Jump shot,14,-57,130,True
+Dillon Brooks,3,7,1,0,Pullup Jump shot,19,122,153,True
+Dillon Brooks,4,8,36,0,Pullup Jump shot,19,99,172,True
+Dillon Brooks,1,6,38,0,Pullup Jump shot,17,-85,158,True
+Dillon Brooks,3,6,4,0,Pullup Jump shot,20,174,104,True
+Dillon Brooks,2,4,54,0,Pullup Jump shot,26,-125,230,False
+Dillon Brooks,2,7,26,0,Pullup Jump shot,16,-6,160,True
+Dillon Brooks,2,3,3,1,Pullup Jump shot,10,92,57,True
+Dillon Brooks,3,10,11,0,Pullup Jump shot,17,3,176,True
+Dillon Brooks,4,3,56,0,Pullup Jump shot,21,25,214,True
+Dillon Brooks,1,11,6,0,Pullup Jump shot,13,-51,130,True
+Dillon Brooks,2,0,38,1,Pullup Jump shot,10,34,104,True
+Dillon Brooks,3,11,49,0,Pullup Jump shot,18,52,175,True
+Dillon Brooks,4,7,58,0,Pullup Jump shot,22,8,221,True
+Dillon Brooks,3,10,16,0,Pullup Jump shot,19,-137,143,True
+Dillon Brooks,4,5,55,1,Pullup Jump shot,22,9,225,True
+Dillon Brooks,4,3,10,0,Pullup Jump shot,19,179,71,True
+Dillon Brooks,1,2,42,1,Pullup Jump shot,17,-135,110,True
+Dillon Brooks,4,9,3,0,Pullup Jump shot,22,-99,204,True
+Dillon Brooks,2,9,18,1,Pullup Jump shot,8,73,47,True
+Dillon Brooks,2,8,47,1,Pullup Jump shot,15,82,136,True
+Dillon Brooks,2,10,15,0,Pullup Jump shot,18,96,163,True
+Dillon Brooks,1,4,11,0,Pullup Jump shot,14,-105,105,True
+Dillon Brooks,3,5,36,1,Pullup Jump shot,15,-133,88,True
+Dillon Brooks,2,1,7,1,Pullup Jump shot,24,116,215,False
+Dillon Brooks,2,1,36,0,Pullup Jump shot,17,-69,163,True
+Dillon Brooks,1,2,12,1,Pullup Jump shot,12,60,114,True
+Dillon Brooks,1,9,3,0,Pullup Jump shot,18,82,166,True
+Dillon Brooks,3,5,33,0,Pullup Jump shot,19,0,196,True
+Dillon Brooks,4,0,7,1,Pullup Jump shot,24,155,195,False
+Dillon Brooks,2,1,4,1,Pullup Jump shot,25,-165,188,False
+Dillon Brooks,2,5,57,0,Pullup Jump shot,22,106,195,True
+Dillon Brooks,3,11,26,1,Pullup Jump shot,10,-89,61,True
+Dillon Brooks,4,0,16,1,Putback Layup Shot,1,-3,18,True
+Dillon Brooks,1,3,33,0,Putback Layup Shot,0,0,-6,True
+Dillon Brooks,1,8,38,1,Putback Layup Shot,1,-1,17,True
+Dillon Brooks,4,10,52,0,Reverse Layup Shot,3,-13,32,True
+Dillon Brooks,1,5,56,0,Reverse Layup Shot,0,-4,3,True
+Dillon Brooks,4,10,7,0,Reverse Layup Shot,1,14,6,True
+Dillon Brooks,3,9,23,1,Reverse Layup Shot,1,9,10,True
+Dillon Brooks,3,6,41,0,Reverse Layup Shot,1,-14,9,True
+Dillon Brooks,3,6,58,0,Running Alley Oop Layup Shot,0,-4,6,True
+Dillon Brooks,4,11,9,1,Running Alley Oop Layup Shot,0,2,-1,True
+Dillon Brooks,1,10,26,1,Running Dunk Shot,0,-1,6,True
+Dillon Brooks,2,11,24,1,Running Dunk Shot,1,-13,4,True
+Dillon Brooks,1,11,10,1,Running Finger Roll Layup Shot,0,6,6,True
+Dillon Brooks,4,6,26,0,Running Finger Roll Layup Shot,2,-1,20,True
+Dillon Brooks,4,8,46,1,Running Finger Roll Layup Shot,2,9,20,True
+Dillon Brooks,3,3,23,0,Running Finger Roll Layup Shot,1,3,13,True
+Dillon Brooks,2,0,0,0,Running Jump Shot,46,91,456,False
+Dillon Brooks,4,0,5,0,Running Jump Shot,24,151,194,False
+Dillon Brooks,4,2,27,0,Running Jump Shot,22,227,-11,False
+Dillon Brooks,4,6,26,1,Running Jump Shot,25,-134,218,False
+Dillon Brooks,1,3,36,0,Running Jump Shot,26,155,215,False
+Dillon Brooks,1,5,48,0,Running Jump Shot,24,-190,162,False
+Dillon Brooks,1,10,21,1,Running Jump Shot,22,226,30,False
+Dillon Brooks,4,2,51,1,Running Jump Shot,23,232,38,False
+Dillon Brooks,4,8,46,0,Running Layup Shot,2,28,3,True
+Dillon Brooks,3,5,23,1,Running Layup Shot,1,-6,17,True
+Dillon Brooks,1,8,28,1,Running Layup Shot,1,0,13,True
+Dillon Brooks,1,7,55,1,Running Layup Shot,1,2,11,True
+Dillon Brooks,2,2,32,0,Running Layup Shot,1,10,-4,True
+Dillon Brooks,4,3,12,1,Running Layup Shot,1,-8,-7,True
+Dillon Brooks,3,3,55,1,Running Layup Shot,0,1,3,True
+Dillon Brooks,2,2,48,1,Running Layup Shot,20,-207,-23,True
+Dillon Brooks,1,9,44,1,Running Layup Shot,1,-14,10,True
+Dillon Brooks,4,3,57,1,Running Layup Shot,1,0,11,True
+Dillon Brooks,4,0,39,1,Running Layup Shot,0,0,5,True
+Dillon Brooks,2,10,23,0,Running Layup Shot,1,6,10,True
+Dillon Brooks,3,11,13,1,Running Layup Shot,1,-14,-1,True
+Dillon Brooks,3,7,13,0,Running Layup Shot,1,6,14,True
+Dillon Brooks,2,5,34,1,Running Layup Shot,1,-10,13,True
+Dillon Brooks,1,8,51,0,Running Layup Shot,1,14,10,True
+Dillon Brooks,3,7,39,1,Running Layup Shot,1,14,0,True
+Dillon Brooks,2,2,28,1,Running Layup Shot,1,-2,10,True
+Dillon Brooks,3,5,21,0,Running Layup Shot,1,-9,15,True
+Dillon Brooks,1,6,1,0,Running Layup Shot,1,-15,8,True
+Dillon Brooks,3,11,0,0,Running Layup Shot,4,-24,32,True
+Dillon Brooks,1,4,14,1,Running Layup Shot,2,13,20,True
+Dillon Brooks,4,9,23,0,Running Layup Shot,6,4,67,True
+Dillon Brooks,4,3,53,1,Running Layup Shot,0,6,5,True
+Dillon Brooks,1,3,10,1,Running Layup Shot,0,7,3,True
+Dillon Brooks,4,3,49,1,Running Layup Shot,0,-5,4,True
+Dillon Brooks,1,11,26,0,Running Pull-Up Jump Shot,25,-150,212,False
+Dillon Brooks,1,9,15,0,Running Pull-Up Jump Shot,25,-176,185,False
+Dillon Brooks,2,8,27,1,Running Pull-Up Jump Shot,12,-44,114,True
+Dillon Brooks,1,0,0,1,Running Pull-Up Jump Shot,41,176,371,False
+Dillon Brooks,4,11,29,0,Running Pull-Up Jump Shot,19,68,180,True
+Dillon Brooks,4,6,21,1,Running Reverse Layup Shot,0,5,8,True
+Dillon Brooks,2,8,29,0,Running Reverse Layup Shot,1,14,9,True
+Dillon Brooks,1,5,46,1,Running Reverse Layup Shot,1,9,10,True
+Dillon Brooks,4,5,9,0,Running Reverse Layup Shot,1,3,15,True
+Dillon Brooks,1,8,27,0,Step Back Bank Jump Shot,20,71,195,True
+Dillon Brooks,3,10,38,1,Step Back Bank Jump Shot,13,-59,126,True
+Dillon Brooks,1,5,12,1,Step Back Jump shot,20,-27,199,True
+Dillon Brooks,4,6,50,0,Step Back Jump shot,25,-130,215,False
+Dillon Brooks,1,10,43,0,Step Back Jump shot,17,-124,119,True
+Dillon Brooks,3,8,45,0,Step Back Jump shot,16,-82,147,True
+Dillon Brooks,4,4,49,0,Step Back Jump shot,24,-43,241,False
+Dillon Brooks,3,6,46,1,Step Back Jump shot,21,130,167,True
+Dillon Brooks,3,5,26,1,Step Back Jump shot,18,183,15,True
+Dillon Brooks,4,9,4,1,Step Back Jump shot,19,-170,90,True
+Dillon Brooks,3,0,6,1,Step Back Jump shot,24,-49,243,False
+Dillon Brooks,2,11,37,0,Step Back Jump shot,19,-141,141,True
+Dillon Brooks,4,8,32,0,Step Back Jump shot,18,67,177,True
+Dillon Brooks,1,7,18,0,Step Back Jump shot,21,93,194,True
+Dillon Brooks,1,9,50,0,Step Back Jump shot,16,-161,5,True
+Dillon Brooks,2,7,56,0,Step Back Jump shot,22,-176,132,True
+Dillon Brooks,2,10,27,1,Step Back Jump shot,13,-128,26,True
+Dillon Brooks,1,8,24,1,Step Back Jump shot,22,136,177,True
+Dillon Brooks,2,0,53,0,Step Back Jump shot,15,-25,151,True
+Dillon Brooks,4,11,42,1,Step Back Jump shot,17,-109,137,True
+Dillon Brooks,3,10,59,0,Step Back Jump shot,25,-115,223,False
+Dillon Brooks,2,6,49,0,Step Back Jump shot,15,124,90,True
+Dillon Brooks,3,6,56,1,Step Back Jump shot,12,35,121,True
+Dillon Brooks,2,9,41,0,Step Back Jump shot,18,-74,167,True
+Dillon Brooks,2,11,36,1,Tip Dunk Shot,0,0,-6,True
+Dillon Brooks,2,1,44,1,Tip Layup Shot,0,0,-6,True
+Dillon Brooks,2,4,30,1,Tip Layup Shot,0,0,-6,True
+Dillon Brooks,2,9,44,0,Tip Layup Shot,1,7,14,True
+Dillon Brooks,1,3,32,0,Tip Layup Shot,0,0,-6,True
+Dillon Brooks,4,7,47,1,Turnaround Fadeaway Bank Jump Shot,7,68,31,True
+Dillon Brooks,2,8,29,0,Turnaround Fadeaway Bank Jump Shot,15,93,129,True
+Dillon Brooks,4,3,19,1,Turnaround Fadeaway Bank Jump Shot,9,52,80,True
+Dillon Brooks,4,10,19,1,Turnaround Fadeaway shot,12,-55,110,True
+Dillon Brooks,4,7,58,1,Turnaround Fadeaway shot,7,-13,71,True
+Dillon Brooks,3,9,6,0,Turnaround Fadeaway shot,12,-27,117,True
+Dillon Brooks,1,11,23,0,Turnaround Fadeaway shot,19,-133,146,True
+Dillon Brooks,2,10,1,0,Turnaround Fadeaway shot,12,107,56,True
+Dillon Brooks,1,6,17,1,Turnaround Hook Shot,5,-4,58,True
+Dillon Brooks,2,8,51,0,Turnaround Jump Shot,5,33,47,True
+Dillon Brooks,4,5,28,0,Turnaround Jump Shot,16,122,116,True
+Dillon Brooks,3,9,18,0,Turnaround Jump Shot,2,-21,4,True
+Dillon Brooks,3,11,40,0,Turnaround Jump Shot,8,-56,59,True
+Dillon Brooks,4,9,31,0,Turnaround Jump Shot,12,-38,120,True
+Dillon Brooks,2,6,46,0,Turnaround Jump Shot,19,-190,25,True

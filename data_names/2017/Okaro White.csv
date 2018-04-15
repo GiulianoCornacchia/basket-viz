@@ -1,0 +1,17 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Okaro White,3,1,42,1,Jump Shot,25,114,231,False
+Okaro White,1,11,48,0,Jump Shot,22,-228,-18,False
+Okaro White,1,8,8,0,Jump Shot,23,-236,8,False
+Okaro White,1,4,27,0,Jump Shot,23,-235,4,False
+Okaro White,1,7,33,1,Jump Shot,22,-223,13,False
+Okaro White,3,8,1,0,Jump Shot,24,111,223,False
+Okaro White,3,6,14,0,Jump Shot,25,204,148,False
+Okaro White,3,4,29,0,Jump Shot,25,-174,186,False
+Okaro White,1,4,58,1,Jump Shot,25,155,199,False
+Okaro White,1,10,0,0,Jump Shot,25,-6,252,False
+Okaro White,3,7,31,0,Layup Shot,3,30,23,True
+Okaro White,1,3,29,0,Layup Shot,1,-10,4,True
+Okaro White,1,5,14,1,Pullup Jump shot,12,127,11,True
+Okaro White,3,2,47,1,Putback Dunk Shot,0,0,-6,True
+Okaro White,3,9,29,1,Putback Layup Shot,2,16,21,True
+Okaro White,3,7,32,1,Running Jump Shot,25,138,211,False

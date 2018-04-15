@@ -1,0 +1,741 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Robert Covington,1,10,57,0,Alley Oop Dunk Shot,1,0,19,True
+Robert Covington,1,0,2,1,Alley Oop Dunk Shot,1,5,11,True
+Robert Covington,3,2,51,1,Alley Oop Dunk Shot,1,-6,8,True
+Robert Covington,4,10,54,1,Alley Oop Dunk Shot,0,-3,5,True
+Robert Covington,1,11,33,1,Alley Oop Layup shot,2,20,16,True
+Robert Covington,1,7,30,1,Alley Oop Layup shot,2,16,16,True
+Robert Covington,1,9,30,1,Alley Oop Layup shot,2,20,-10,True
+Robert Covington,1,9,49,1,Alley Oop Layup shot,3,33,9,True
+Robert Covington,1,7,14,1,Alley Oop Layup shot,2,18,13,True
+Robert Covington,3,4,56,0,Alley Oop Layup shot,2,-1,21,True
+Robert Covington,4,7,16,1,Alley Oop Layup shot,2,-13,21,True
+Robert Covington,1,7,27,0,Alley Oop Layup shot,2,23,-2,True
+Robert Covington,3,8,0,0,Alley Oop Layup shot,1,6,8,True
+Robert Covington,1,6,0,1,Cutting Dunk Shot,1,-6,8,True
+Robert Covington,4,1,13,1,Cutting Dunk Shot,1,-8,15,True
+Robert Covington,3,3,46,1,Cutting Dunk Shot,1,8,7,True
+Robert Covington,3,5,5,1,Cutting Dunk Shot,1,13,2,True
+Robert Covington,2,9,58,1,Cutting Finger Roll Layup Shot,0,-9,4,True
+Robert Covington,1,6,16,0,Cutting Layup Shot,1,16,3,True
+Robert Covington,2,6,15,0,Cutting Layup Shot,0,-6,-4,True
+Robert Covington,4,7,11,0,Cutting Layup Shot,0,0,3,True
+Robert Covington,1,8,57,1,Cutting Layup Shot,2,24,10,True
+Robert Covington,3,7,13,1,Cutting Layup Shot,2,-9,25,True
+Robert Covington,3,4,1,1,Cutting Layup Shot,2,-8,28,True
+Robert Covington,1,7,16,1,Cutting Layup Shot,2,-7,20,True
+Robert Covington,1,10,54,1,Cutting Layup Shot,1,2,10,True
+Robert Covington,2,4,21,1,Cutting Layup Shot,1,9,8,True
+Robert Covington,1,10,37,1,Cutting Layup Shot,2,-19,17,True
+Robert Covington,4,9,25,0,Cutting Layup Shot,2,-8,20,True
+Robert Covington,1,8,15,1,Cutting Layup Shot,3,38,1,True
+Robert Covington,3,0,34,1,Cutting Layup Shot,3,-28,12,True
+Robert Covington,1,7,22,1,Cutting Layup Shot,0,-1,1,True
+Robert Covington,2,7,37,1,Driving Dunk Shot,1,-13,10,True
+Robert Covington,2,6,36,1,Driving Finger Roll Layup Shot,1,6,8,True
+Robert Covington,2,0,13,1,Driving Finger Roll Layup Shot,3,9,36,True
+Robert Covington,2,6,52,1,Driving Finger Roll Layup Shot,0,0,5,True
+Robert Covington,3,8,39,1,Driving Finger Roll Layup Shot,1,3,12,True
+Robert Covington,4,10,4,1,Driving Finger Roll Layup Shot,1,11,16,True
+Robert Covington,4,2,31,1,Driving Finger Roll Layup Shot,2,8,27,True
+Robert Covington,3,3,28,1,Driving Finger Roll Layup Shot,1,-13,11,True
+Robert Covington,2,2,30,0,Driving Finger Roll Layup Shot,1,-3,11,True
+Robert Covington,4,2,36,0,Driving Finger Roll Layup Shot,2,12,27,True
+Robert Covington,2,4,56,1,Driving Finger Roll Layup Shot,2,1,24,True
+Robert Covington,2,9,49,0,Driving Finger Roll Layup Shot,2,-9,19,True
+Robert Covington,3,7,18,0,Driving Finger Roll Layup Shot,6,-1,65,True
+Robert Covington,4,4,32,1,Driving Finger Roll Layup Shot,2,27,13,True
+Robert Covington,4,9,7,1,Driving Floating Bank Jump Shot,3,22,23,True
+Robert Covington,4,3,14,1,Driving Floating Bank Jump Shot,5,20,49,True
+Robert Covington,4,9,32,1,Driving Floating Bank Jump Shot,5,43,32,True
+Robert Covington,1,9,22,0,Driving Floating Bank Jump Shot,9,54,77,True
+Robert Covington,4,1,15,0,Driving Floating Bank Jump Shot,9,-63,65,True
+Robert Covington,2,8,29,1,Driving Floating Bank Jump Shot,5,41,43,True
+Robert Covington,4,8,21,0,Driving Floating Jump Shot,4,1,46,True
+Robert Covington,4,4,17,1,Driving Floating Jump Shot,6,1,67,True
+Robert Covington,2,10,18,0,Driving Floating Jump Shot,8,8,85,True
+Robert Covington,4,9,11,0,Driving Floating Jump Shot,14,-60,127,True
+Robert Covington,3,0,38,0,Driving Hook Shot,3,36,16,True
+Robert Covington,4,9,21,1,Driving Layup Shot,2,18,22,True
+Robert Covington,2,6,10,0,Driving Layup Shot,1,14,2,True
+Robert Covington,2,7,50,1,Driving Layup Shot,2,25,9,True
+Robert Covington,2,6,44,1,Driving Layup Shot,2,23,16,True
+Robert Covington,3,5,15,0,Driving Layup Shot,2,-19,11,True
+Robert Covington,2,8,49,0,Driving Layup Shot,2,6,20,True
+Robert Covington,3,11,16,1,Driving Layup Shot,0,2,6,True
+Robert Covington,2,5,56,1,Driving Layup Shot,1,-7,11,True
+Robert Covington,4,7,26,0,Driving Layup Shot,2,-22,20,True
+Robert Covington,3,2,51,1,Driving Layup Shot,1,14,6,True
+Robert Covington,3,6,24,0,Driving Layup Shot,6,-11,66,True
+Robert Covington,1,7,1,0,Driving Layup Shot,3,-24,21,True
+Robert Covington,1,1,59,0,Driving Layup Shot,4,31,38,True
+Robert Covington,2,5,22,1,Driving Layup Shot,3,-2,32,True
+Robert Covington,4,7,10,1,Driving Layup Shot,6,-14,64,True
+Robert Covington,3,11,26,0,Driving Layup Shot,4,-38,16,True
+Robert Covington,4,5,22,0,Driving Layup Shot,3,-5,32,True
+Robert Covington,2,7,57,0,Driving Layup Shot,3,-35,17,True
+Robert Covington,4,6,23,1,Driving Layup Shot,5,-3,53,True
+Robert Covington,4,9,49,0,Driving Layup Shot,3,-25,21,True
+Robert Covington,3,9,36,0,Driving Layup Shot,1,16,11,True
+Robert Covington,1,4,11,1,Driving Layup Shot,0,-3,1,True
+Robert Covington,4,10,19,0,Driving Layup Shot,4,41,6,True
+Robert Covington,2,4,51,1,Driving Layup Shot,2,-3,29,True
+Robert Covington,1,8,13,0,Driving Layup Shot,4,-27,34,True
+Robert Covington,1,5,43,1,Driving Layup Shot,3,32,11,True
+Robert Covington,4,1,14,0,Driving Layup Shot,2,19,8,True
+Robert Covington,2,4,9,0,Driving Layup Shot,4,-30,29,True
+Robert Covington,3,4,31,1,Driving Layup Shot,0,-4,6,True
+Robert Covington,3,3,47,1,Driving Layup Shot,0,0,5,True
+Robert Covington,1,3,49,0,Driving Layup Shot,1,10,8,True
+Robert Covington,4,6,24,0,Driving Layup Shot,2,24,0,True
+Robert Covington,4,5,15,0,Driving Layup Shot,2,-19,18,True
+Robert Covington,2,8,53,1,Driving Reverse Layup Shot,0,5,-4,True
+Robert Covington,4,5,5,0,Driving Reverse Layup Shot,0,-6,-2,True
+Robert Covington,2,5,22,1,Dunk Shot,0,2,3,True
+Robert Covington,2,4,3,1,Finger Roll Layup Shot,0,6,5,True
+Robert Covington,1,9,8,0,Finger Roll Layup Shot,0,4,7,True
+Robert Covington,1,5,58,0,Finger Roll Layup Shot,2,4,25,True
+Robert Covington,4,4,2,0,Floating Jump shot,13,-70,115,True
+Robert Covington,3,11,25,1,Floating Jump shot,7,-77,15,True
+Robert Covington,2,4,43,0,Floating Jump shot,11,18,115,True
+Robert Covington,3,7,27,0,Floating Jump shot,6,59,31,True
+Robert Covington,1,6,39,0,Floating Jump shot,9,-47,82,True
+Robert Covington,3,6,10,0,Hook Shot,5,30,45,True
+Robert Covington,4,8,20,0,Hook Shot,7,-73,5,True
+Robert Covington,1,5,31,1,Jump Shot,26,202,177,False
+Robert Covington,3,2,21,0,Jump Shot,25,-104,233,False
+Robert Covington,3,10,51,0,Jump Shot,26,-149,221,False
+Robert Covington,1,10,37,1,Jump Shot,23,-230,67,False
+Robert Covington,1,10,8,1,Jump Shot,23,-232,8,False
+Robert Covington,2,8,3,0,Jump Shot,27,-8,277,False
+Robert Covington,2,0,28,0,Jump Shot,24,-211,120,False
+Robert Covington,2,6,20,1,Jump Shot,22,-174,135,True
+Robert Covington,2,11,26,0,Jump Shot,27,141,239,False
+Robert Covington,2,5,26,0,Jump Shot,28,163,237,False
+Robert Covington,3,4,42,0,Jump Shot,26,-155,220,False
+Robert Covington,2,10,59,0,Jump Shot,24,198,152,False
+Robert Covington,1,10,32,0,Jump Shot,23,-228,69,False
+Robert Covington,3,10,18,1,Jump Shot,25,153,203,False
+Robert Covington,3,0,47,0,Jump Shot,26,188,187,False
+Robert Covington,3,7,1,0,Jump Shot,1,17,6,True
+Robert Covington,2,11,13,0,Jump Shot,31,28,318,False
+Robert Covington,3,5,17,0,Jump Shot,25,160,195,False
+Robert Covington,3,4,30,0,Jump Shot,22,-225,12,False
+Robert Covington,2,6,51,1,Jump Shot,25,-226,115,False
+Robert Covington,4,2,35,0,Jump Shot,25,218,136,False
+Robert Covington,2,5,13,0,Jump Shot,27,-98,256,False
+Robert Covington,1,8,3,0,Jump Shot,23,-233,-5,False
+Robert Covington,3,7,35,0,Jump Shot,25,150,206,False
+Robert Covington,2,5,50,1,Jump Shot,26,-117,235,False
+Robert Covington,1,2,54,1,Jump Shot,27,154,222,False
+Robert Covington,2,3,17,1,Jump Shot,26,221,153,False
+Robert Covington,2,0,1,0,Jump Shot,49,188,459,False
+Robert Covington,3,5,8,0,Jump Shot,27,85,263,False
+Robert Covington,2,4,47,1,Jump Shot,25,20,256,False
+Robert Covington,2,7,56,0,Jump Shot,26,96,242,False
+Robert Covington,1,6,43,1,Jump Shot,25,-116,232,False
+Robert Covington,1,9,31,1,Jump Shot,25,-132,222,False
+Robert Covington,3,7,13,0,Jump Shot,25,190,169,False
+Robert Covington,3,4,34,0,Jump Shot,25,-62,251,False
+Robert Covington,4,7,27,0,Jump Shot,24,-146,195,False
+Robert Covington,4,5,50,0,Jump Shot,26,110,242,False
+Robert Covington,4,1,0,0,Jump Shot,21,210,-15,True
+Robert Covington,1,11,17,0,Jump Shot,16,-109,120,True
+Robert Covington,1,7,27,0,Jump Shot,26,101,241,False
+Robert Covington,3,10,6,0,Jump Shot,25,106,231,False
+Robert Covington,2,4,53,0,Jump Shot,26,-199,182,False
+Robert Covington,2,7,46,0,Jump Shot,27,-55,268,False
+Robert Covington,1,6,25,1,Jump Shot,26,138,232,False
+Robert Covington,3,6,54,1,Jump Shot,18,29,186,True
+Robert Covington,2,4,49,0,Jump Shot,26,-123,235,False
+Robert Covington,3,5,3,0,Jump Shot,25,101,238,False
+Robert Covington,3,3,38,1,Jump Shot,25,109,236,False
+Robert Covington,3,8,46,0,Jump Shot,21,173,130,True
+Robert Covington,1,10,46,1,Jump Shot,25,-133,216,False
+Robert Covington,4,5,6,0,Jump Shot,27,-123,248,False
+Robert Covington,4,0,43,0,Jump Shot,12,111,53,True
+Robert Covington,4,7,36,0,Jump Shot,26,37,262,False
+Robert Covington,1,5,19,0,Jump Shot,26,82,255,False
+Robert Covington,3,8,54,0,Jump Shot,27,-164,220,False
+Robert Covington,2,6,57,0,Jump Shot,26,-152,215,False
+Robert Covington,2,4,22,1,Jump Shot,25,-125,219,False
+Robert Covington,3,5,6,0,Jump Shot,27,-111,253,False
+Robert Covington,3,11,15,0,Jump Shot,26,76,249,False
+Robert Covington,3,5,16,0,Jump Shot,26,113,235,False
+Robert Covington,3,8,43,1,Jump Shot,1,3,11,True
+Robert Covington,1,5,28,0,Jump Shot,27,183,203,False
+Robert Covington,3,6,28,0,Jump Shot,25,-121,222,False
+Robert Covington,2,9,51,1,Jump Shot,23,230,62,False
+Robert Covington,4,3,19,1,Jump Shot,2,2,29,True
+Robert Covington,3,2,55,0,Jump Shot,28,8,283,False
+Robert Covington,2,7,35,0,Jump Shot,26,119,235,False
+Robert Covington,4,5,14,0,Jump Shot,22,-229,10,False
+Robert Covington,3,5,4,1,Jump Shot,25,157,205,False
+Robert Covington,3,3,37,0,Jump Shot,26,0,265,False
+Robert Covington,1,5,51,1,Jump Shot,26,-128,232,False
+Robert Covington,1,4,12,1,Jump Shot,25,226,125,False
+Robert Covington,3,11,36,0,Jump Shot,27,125,248,False
+Robert Covington,1,10,31,1,Jump Shot,24,240,48,False
+Robert Covington,3,7,54,0,Jump Shot,25,179,183,False
+Robert Covington,2,7,54,0,Jump Shot,26,181,198,False
+Robert Covington,4,4,19,0,Jump Shot,24,82,236,False
+Robert Covington,3,9,19,0,Jump Shot,24,-180,164,False
+Robert Covington,2,4,11,0,Jump Shot,25,129,222,False
+Robert Covington,2,6,51,0,Jump Shot,22,-229,-8,False
+Robert Covington,2,11,50,1,Jump Shot,25,135,212,False
+Robert Covington,4,3,10,0,Jump Shot,27,-155,232,False
+Robert Covington,3,9,8,0,Jump Shot,27,-190,194,False
+Robert Covington,4,2,41,1,Jump Shot,22,225,33,False
+Robert Covington,2,5,50,1,Jump Shot,27,-196,190,False
+Robert Covington,4,8,13,0,Jump Shot,26,86,249,False
+Robert Covington,1,2,3,1,Jump Shot,22,-226,0,False
+Robert Covington,4,3,22,0,Jump Shot,26,-82,252,False
+Robert Covington,2,8,5,1,Jump Shot,22,-221,30,False
+Robert Covington,4,3,28,0,Jump Shot,26,-55,259,False
+Robert Covington,1,3,2,0,Jump Shot,25,223,114,False
+Robert Covington,1,2,57,0,Jump Shot,27,163,218,False
+Robert Covington,3,5,26,0,Jump Shot,27,-169,216,False
+Robert Covington,4,6,23,0,Jump Shot,25,-193,173,False
+Robert Covington,2,9,3,1,Jump Shot,26,226,141,False
+Robert Covington,4,3,44,0,Jump Shot,27,122,248,False
+Robert Covington,1,9,38,0,Jump Shot,25,-108,230,False
+Robert Covington,2,4,33,1,Jump Shot,23,235,42,False
+Robert Covington,2,6,36,0,Jump Shot,26,-138,221,False
+Robert Covington,3,8,1,0,Jump Shot,25,-33,252,False
+Robert Covington,2,2,40,1,Jump Shot,26,-196,181,False
+Robert Covington,2,10,6,0,Jump Shot,27,119,249,False
+Robert Covington,2,7,4,1,Jump Shot,25,-106,235,False
+Robert Covington,1,11,54,0,Jump Shot,25,-230,115,False
+Robert Covington,2,11,28,1,Jump Shot,26,-157,217,False
+Robert Covington,3,7,45,0,Jump Shot,22,-226,4,False
+Robert Covington,3,10,30,1,Jump Shot,26,-160,205,False
+Robert Covington,3,7,2,0,Jump Shot,24,-230,80,False
+Robert Covington,4,6,49,0,Jump Shot,24,221,113,False
+Robert Covington,4,6,15,0,Jump Shot,18,109,144,True
+Robert Covington,1,5,33,0,Jump Shot,22,-223,34,False
+Robert Covington,4,4,56,1,Jump Shot,26,-137,227,False
+Robert Covington,2,8,16,0,Jump Shot,23,-230,45,False
+Robert Covington,1,7,0,0,Jump Shot,25,-51,251,False
+Robert Covington,3,8,6,0,Jump Shot,25,101,237,False
+Robert Covington,3,3,24,0,Jump Shot,30,-106,285,False
+Robert Covington,1,4,5,0,Jump Shot,25,192,161,False
+Robert Covington,2,4,28,1,Jump Shot,25,65,251,False
+Robert Covington,1,1,26,0,Jump Shot,24,-209,133,False
+Robert Covington,3,6,9,1,Jump Shot,25,-139,219,False
+Robert Covington,1,7,43,0,Jump Shot,23,-226,46,False
+Robert Covington,2,8,48,0,Jump Shot,25,140,210,False
+Robert Covington,2,7,54,0,Jump Shot,24,200,138,False
+Robert Covington,2,10,40,0,Jump Shot,24,-169,180,False
+Robert Covington,1,9,23,0,Jump Shot,25,-117,223,False
+Robert Covington,4,7,59,0,Jump Shot,25,107,232,False
+Robert Covington,3,6,49,0,Jump Shot,13,135,11,True
+Robert Covington,1,11,34,1,Jump Shot,26,191,177,False
+Robert Covington,3,2,9,0,Jump Shot,24,236,70,False
+Robert Covington,2,11,19,1,Jump Shot,25,165,199,False
+Robert Covington,3,8,58,0,Jump Shot,25,-73,247,False
+Robert Covington,4,3,5,0,Jump Shot,25,103,231,False
+Robert Covington,3,10,38,0,Jump Shot,25,93,238,False
+Robert Covington,3,7,27,0,Jump Shot,23,230,15,False
+Robert Covington,3,6,53,0,Jump Shot,25,168,188,False
+Robert Covington,2,10,20,1,Jump Shot,25,230,117,False
+Robert Covington,4,3,21,1,Jump Shot,27,117,246,False
+Robert Covington,4,1,46,1,Jump Shot,25,-182,185,False
+Robert Covington,3,6,11,0,Jump Shot,25,-176,190,False
+Robert Covington,2,7,29,0,Jump Shot,24,-113,222,False
+Robert Covington,1,11,53,0,Jump Shot,25,226,116,False
+Robert Covington,2,8,51,1,Jump Shot,27,192,193,False
+Robert Covington,2,6,6,0,Jump Shot,25,-162,197,False
+Robert Covington,1,4,55,0,Jump Shot,24,230,73,False
+Robert Covington,2,7,36,1,Jump Shot,26,217,145,False
+Robert Covington,3,5,16,0,Jump Shot,25,146,211,False
+Robert Covington,4,1,35,0,Jump Shot,25,133,217,False
+Robert Covington,1,11,26,0,Jump Shot,26,-150,218,False
+Robert Covington,1,8,19,1,Jump Shot,17,-103,142,True
+Robert Covington,1,6,55,0,Jump Shot,25,203,154,False
+Robert Covington,2,2,0,0,Jump Shot,27,-107,248,False
+Robert Covington,2,6,23,0,Jump Shot,16,107,132,True
+Robert Covington,3,10,59,1,Jump Shot,26,-133,231,False
+Robert Covington,1,11,13,0,Jump Shot,25,-158,201,False
+Robert Covington,3,3,35,1,Jump Shot,27,-6,276,False
+Robert Covington,2,3,33,0,Jump Shot,23,228,72,False
+Robert Covington,3,4,20,1,Jump Shot,27,-163,217,False
+Robert Covington,3,7,38,1,Jump Shot,26,46,263,False
+Robert Covington,2,8,38,1,Jump Shot,27,144,230,False
+Robert Covington,1,11,53,0,Jump Shot,23,-230,42,False
+Robert Covington,4,4,52,1,Jump Shot,23,230,34,False
+Robert Covington,3,11,11,0,Jump Shot,25,-126,223,False
+Robert Covington,4,5,43,1,Jump Shot,25,-30,256,False
+Robert Covington,4,0,11,0,Jump Shot,28,101,268,False
+Robert Covington,1,5,47,1,Jump Shot,27,136,235,False
+Robert Covington,2,5,58,0,Jump Shot,26,-189,190,False
+Robert Covington,4,0,35,1,Jump Shot,25,188,179,False
+Robert Covington,4,10,5,1,Jump Shot,27,99,255,False
+Robert Covington,2,7,20,0,Jump Shot,25,202,161,False
+Robert Covington,1,5,58,0,Jump Shot,27,101,253,False
+Robert Covington,4,8,50,0,Jump Shot,27,113,251,False
+Robert Covington,4,7,31,1,Jump Shot,26,129,235,False
+Robert Covington,3,1,10,0,Jump Shot,26,102,242,False
+Robert Covington,2,9,15,1,Jump Shot,28,126,253,False
+Robert Covington,1,5,50,1,Jump Shot,23,-234,10,False
+Robert Covington,4,9,22,1,Jump Shot,25,-142,211,False
+Robert Covington,2,7,25,0,Jump Shot,26,-89,251,False
+Robert Covington,2,2,48,0,Jump Shot,25,-108,232,False
+Robert Covington,3,4,4,0,Jump Shot,10,-16,100,True
+Robert Covington,3,6,2,1,Jump Shot,27,-195,188,False
+Robert Covington,1,9,32,0,Jump Shot,25,99,239,False
+Robert Covington,2,8,51,1,Jump Shot,25,-36,251,False
+Robert Covington,4,10,14,0,Jump Shot,22,-229,18,False
+Robert Covington,3,9,40,0,Jump Shot,23,-234,37,False
+Robert Covington,1,4,0,0,Jump Shot,14,-70,125,True
+Robert Covington,1,4,35,1,Jump Shot,26,-91,252,False
+Robert Covington,2,7,13,1,Jump Shot,25,195,166,False
+Robert Covington,2,0,30,0,Jump Shot,14,-79,120,True
+Robert Covington,2,0,55,0,Jump Shot,25,-114,232,False
+Robert Covington,1,5,1,1,Jump Shot,24,-232,62,False
+Robert Covington,1,3,56,0,Jump Shot,26,16,261,False
+Robert Covington,4,2,14,0,Jump Shot,26,-200,177,False
+Robert Covington,4,8,37,0,Jump Shot,28,164,227,False
+Robert Covington,3,8,52,0,Jump Shot,23,232,38,False
+Robert Covington,1,8,28,0,Jump Shot,25,141,210,False
+Robert Covington,1,6,21,0,Jump Shot,26,225,134,False
+Robert Covington,4,3,2,1,Jump Shot,27,-116,246,False
+Robert Covington,4,9,39,0,Jump Shot,26,237,124,False
+Robert Covington,2,4,48,0,Jump Shot,23,230,16,False
+Robert Covington,4,6,5,1,Jump Shot,27,193,197,False
+Robert Covington,2,4,37,0,Jump Shot,26,169,203,False
+Robert Covington,2,6,0,0,Jump Shot,26,-67,255,False
+Robert Covington,3,10,15,0,Jump Shot,25,-179,185,False
+Robert Covington,1,11,14,0,Jump Shot,21,120,173,True
+Robert Covington,1,8,35,0,Jump Shot,22,226,11,False
+Robert Covington,4,6,0,0,Jump Shot,24,-237,58,False
+Robert Covington,4,6,7,0,Jump Shot,25,-230,102,False
+Robert Covington,3,6,21,0,Jump Shot,27,-18,273,False
+Robert Covington,2,6,6,0,Jump Shot,26,-16,260,False
+Robert Covington,2,2,35,0,Jump Shot,26,-149,221,False
+Robert Covington,4,11,21,0,Jump Shot,26,-104,247,False
+Robert Covington,3,9,5,0,Jump Shot,26,200,178,False
+Robert Covington,1,6,33,1,Jump Shot,26,-87,251,False
+Robert Covington,2,4,40,1,Jump Shot,19,137,136,True
+Robert Covington,3,4,17,0,Jump Shot,26,-136,222,False
+Robert Covington,2,1,16,0,Jump Shot,25,-136,214,False
+Robert Covington,1,10,53,1,Jump Shot,27,-34,269,False
+Robert Covington,1,4,1,0,Jump Shot,25,106,235,False
+Robert Covington,2,3,11,0,Jump Shot,26,-6,265,False
+Robert Covington,3,5,21,0,Jump Shot,22,70,213,True
+Robert Covington,1,5,19,0,Jump Shot,26,76,256,False
+Robert Covington,2,1,15,0,Jump Shot,26,225,139,False
+Robert Covington,2,3,32,0,Jump Shot,24,129,204,False
+Robert Covington,1,7,54,0,Jump Shot,25,-122,227,False
+Robert Covington,4,3,0,1,Jump Shot,27,99,261,False
+Robert Covington,1,5,41,0,Jump Shot,25,9,258,False
+Robert Covington,3,11,24,0,Jump Shot,25,111,235,False
+Robert Covington,4,2,1,1,Jump Shot,27,141,235,False
+Robert Covington,4,9,36,0,Jump Shot,25,116,231,False
+Robert Covington,4,0,54,0,Jump Shot,22,-224,-29,False
+Robert Covington,1,9,32,1,Jump Shot,23,234,43,False
+Robert Covington,3,10,40,0,Jump Shot,27,14,277,False
+Robert Covington,1,3,46,1,Jump Shot,28,-149,239,False
+Robert Covington,1,6,18,1,Jump Shot,25,171,188,False
+Robert Covington,3,6,5,0,Jump Shot,26,-177,196,False
+Robert Covington,2,2,19,0,Jump Shot,28,177,220,False
+Robert Covington,2,6,28,0,Jump Shot,27,-101,258,False
+Robert Covington,1,4,27,1,Jump Shot,27,-114,247,False
+Robert Covington,3,6,49,1,Jump Shot,25,162,200,False
+Robert Covington,1,10,13,1,Jump Shot,25,-141,218,False
+Robert Covington,3,7,36,0,Jump Shot,25,30,257,False
+Robert Covington,1,4,44,1,Jump Shot,27,-100,256,False
+Robert Covington,4,4,33,1,Jump Shot,27,-165,222,False
+Robert Covington,2,7,1,1,Jump Shot,22,226,0,False
+Robert Covington,4,9,18,0,Jump Shot,25,44,256,False
+Robert Covington,3,10,44,0,Jump Shot,25,130,218,False
+Robert Covington,4,0,33,1,Jump Shot,25,-149,204,False
+Robert Covington,3,9,29,0,Jump Shot,26,138,225,False
+Robert Covington,1,6,35,1,Jump Shot,25,46,254,False
+Robert Covington,3,8,45,0,Jump Shot,24,-167,183,False
+Robert Covington,2,7,6,0,Jump Shot,25,-157,200,False
+Robert Covington,1,5,43,0,Jump Shot,27,-179,206,False
+Robert Covington,1,5,50,0,Jump Shot,5,-3,58,True
+Robert Covington,3,11,11,0,Jump Shot,24,-16,247,False
+Robert Covington,1,7,27,1,Jump Shot,25,-165,188,False
+Robert Covington,2,7,46,1,Jump Shot,25,-105,232,False
+Robert Covington,1,5,27,1,Jump Shot,24,218,119,False
+Robert Covington,1,5,52,0,Jump Shot,24,-48,243,False
+Robert Covington,4,2,11,1,Jump Shot,25,102,230,False
+Robert Covington,2,8,12,1,Jump Shot,25,-100,236,False
+Robert Covington,1,5,1,0,Jump Shot,25,-58,245,False
+Robert Covington,3,6,35,1,Jump Shot,25,204,149,False
+Robert Covington,4,0,30,0,Jump Shot,24,84,232,False
+Robert Covington,1,9,49,0,Jump Shot,24,-158,185,False
+Robert Covington,2,2,56,0,Jump Shot,25,-176,187,False
+Robert Covington,2,0,36,0,Jump Shot,11,56,105,True
+Robert Covington,4,11,39,1,Jump Shot,24,76,234,False
+Robert Covington,2,1,22,1,Jump Shot,24,-40,246,False
+Robert Covington,2,3,18,0,Jump Shot,24,-208,136,False
+Robert Covington,2,11,15,0,Jump Shot,26,-12,267,False
+Robert Covington,1,7,58,1,Jump Shot,25,-131,220,False
+Robert Covington,2,4,5,0,Jump Shot,26,-106,239,False
+Robert Covington,4,7,17,0,Jump Shot,24,-4,247,False
+Robert Covington,2,0,12,1,Jump Shot,25,-95,241,False
+Robert Covington,4,4,44,0,Jump Shot,24,-198,148,False
+Robert Covington,2,4,33,1,Jump Shot,25,172,186,False
+Robert Covington,4,11,19,1,Jump Shot,26,144,227,False
+Robert Covington,1,8,41,0,Jump Shot,25,-204,151,False
+Robert Covington,4,2,23,0,Jump Shot,24,-171,173,False
+Robert Covington,3,8,42,0,Jump Shot,25,-150,201,False
+Robert Covington,1,8,27,0,Jump Shot,26,117,242,False
+Robert Covington,1,5,55,0,Jump Shot,24,-187,157,False
+Robert Covington,3,4,54,1,Jump Shot,26,-121,236,False
+Robert Covington,3,9,38,1,Jump Shot,27,-76,260,False
+Robert Covington,2,6,40,1,Jump Shot,25,-146,209,False
+Robert Covington,4,2,39,1,Jump Shot,26,199,181,False
+Robert Covington,2,1,13,0,Jump Shot,27,28,274,False
+Robert Covington,2,7,53,1,Jump Shot,25,-44,249,False
+Robert Covington,1,6,18,1,Jump Shot,25,78,239,False
+Robert Covington,2,1,23,0,Jump Shot,25,-101,231,False
+Robert Covington,3,9,24,1,Jump Shot,26,111,246,False
+Robert Covington,4,2,26,0,Jump Shot,26,22,261,False
+Robert Covington,2,3,10,1,Jump Shot,25,-136,218,False
+Robert Covington,1,10,51,1,Jump Shot,26,105,247,False
+Robert Covington,2,3,23,0,Jump Shot,25,-101,236,False
+Robert Covington,4,0,38,0,Jump Shot,27,88,257,False
+Robert Covington,3,10,36,0,Jump Shot,26,137,221,False
+Robert Covington,3,6,26,1,Jump Shot,26,-3,267,False
+Robert Covington,3,9,5,0,Jump Shot,25,-205,148,False
+Robert Covington,3,7,42,1,Jump Shot,25,-98,235,False
+Robert Covington,1,6,5,0,Jump Shot,26,30,262,False
+Robert Covington,4,4,36,0,Jump Shot,19,2,199,True
+Robert Covington,3,11,6,0,Jump Shot,25,-172,190,False
+Robert Covington,1,10,20,1,Jump Shot,24,-178,168,False
+Robert Covington,3,5,43,0,Jump Shot,28,-92,267,False
+Robert Covington,4,8,38,0,Jump Shot,25,-199,158,False
+Robert Covington,3,9,50,1,Jump Shot,22,226,27,False
+Robert Covington,3,11,36,0,Jump Shot,25,-202,153,False
+Robert Covington,2,6,51,1,Jump Shot,25,120,226,False
+Robert Covington,3,5,17,0,Jump Shot,10,-50,89,True
+Robert Covington,3,8,41,0,Jump Shot,25,-196,162,False
+Robert Covington,1,7,24,0,Jump Shot,26,-60,261,False
+Robert Covington,2,7,30,1,Jump Shot,26,3,262,False
+Robert Covington,2,8,44,0,Jump Shot,28,87,274,False
+Robert Covington,3,8,34,0,Jump Shot,23,-231,13,False
+Robert Covington,3,6,20,0,Jump Shot,26,127,231,False
+Robert Covington,4,4,10,0,Jump Shot,22,225,15,False
+Robert Covington,1,6,29,1,Jump Shot,26,-53,256,False
+Robert Covington,1,5,24,1,Jump Shot,26,70,252,False
+Robert Covington,1,5,58,0,Jump Shot,26,-118,237,False
+Robert Covington,4,11,39,1,Jump Shot,27,-78,265,False
+Robert Covington,1,8,28,0,Jump Shot,28,24,284,False
+Robert Covington,1,4,59,0,Jump Shot,17,7,177,True
+Robert Covington,1,10,33,1,Jump Shot,24,190,161,False
+Robert Covington,4,5,25,1,Jump Shot,26,44,264,False
+Robert Covington,3,9,48,1,Jump Shot,26,150,221,False
+Robert Covington,1,5,3,0,Jump Shot,25,158,199,False
+Robert Covington,4,7,9,1,Jump Shot,13,10,138,True
+Robert Covington,4,8,22,0,Jump Shot,26,111,236,False
+Robert Covington,3,10,7,1,Jump Shot,25,180,183,False
+Robert Covington,4,3,10,0,Jump Shot,26,-138,224,False
+Robert Covington,3,5,9,0,Jump Shot,25,231,108,False
+Robert Covington,4,10,18,0,Jump Shot,25,138,219,False
+Robert Covington,2,10,31,1,Jump Shot,27,-109,252,False
+Robert Covington,3,9,16,0,Jump Shot,25,120,221,False
+Robert Covington,3,10,10,1,Jump Shot,26,151,212,False
+Robert Covington,4,1,18,1,Jump Shot,32,-130,295,False
+Robert Covington,4,11,6,1,Jump Shot,25,65,247,False
+Robert Covington,1,6,59,0,Jump Shot,28,107,263,False
+Robert Covington,4,7,46,0,Jump Shot,27,113,248,False
+Robert Covington,2,8,15,1,Jump Shot,25,-122,224,False
+Robert Covington,1,11,29,0,Jump Shot,28,-146,242,False
+Robert Covington,4,0,23,0,Jump Shot,27,165,225,False
+Robert Covington,2,4,30,1,Jump Shot,26,3,268,False
+Robert Covington,4,9,9,0,Jump Shot,26,154,218,False
+Robert Covington,4,1,56,0,Jump Shot,26,217,146,False
+Robert Covington,3,4,8,0,Jump Shot,25,108,232,False
+Robert Covington,3,8,38,1,Jump Shot,24,166,185,False
+Robert Covington,2,11,41,0,Jump Shot,26,137,227,False
+Robert Covington,1,4,38,0,Jump Shot,26,-69,256,False
+Robert Covington,1,6,47,0,Jump Shot,28,170,226,False
+Robert Covington,3,7,33,1,Jump Shot,25,221,120,False
+Robert Covington,3,3,39,0,Jump Shot,25,218,139,False
+Robert Covington,2,9,19,0,Jump Shot,26,94,250,False
+Robert Covington,3,0,8,0,Jump Shot,26,106,244,False
+Robert Covington,4,10,28,0,Jump Shot,18,68,168,True
+Robert Covington,2,6,51,0,Jump Shot,26,120,239,False
+Robert Covington,2,2,7,0,Jump Shot,26,215,155,False
+Robert Covington,2,11,8,0,Jump Shot,22,-226,25,False
+Robert Covington,1,0,36,0,Jump Shot,26,174,205,False
+Robert Covington,4,7,39,1,Jump Shot,26,141,228,False
+Robert Covington,1,7,24,0,Jump Shot,25,-107,232,False
+Robert Covington,2,3,58,1,Jump Shot,25,162,199,False
+Robert Covington,2,7,19,0,Jump Shot,25,-141,217,False
+Robert Covington,1,10,27,0,Jump Shot,23,226,64,False
+Robert Covington,4,9,34,0,Jump Shot,24,237,75,False
+Robert Covington,2,10,40,0,Jump Shot,26,120,236,False
+Robert Covington,2,3,52,1,Jump Shot,25,-184,178,False
+Robert Covington,3,3,49,0,Jump Shot,23,-237,11,False
+Robert Covington,2,0,44,0,Jump Shot,24,-30,248,False
+Robert Covington,4,7,8,1,Jump Shot,25,124,220,False
+Robert Covington,3,11,43,1,Jump Shot,27,129,238,False
+Robert Covington,4,2,1,1,Jump Shot,26,-94,248,False
+Robert Covington,2,11,1,1,Jump Shot,26,117,240,False
+Robert Covington,3,11,14,1,Jump Shot,25,-159,204,False
+Robert Covington,1,8,57,1,Jump Shot,26,-223,134,False
+Robert Covington,4,9,14,0,Jump Shot,25,-220,138,False
+Robert Covington,4,0,6,0,Jump Shot,23,-239,-3,False
+Robert Covington,4,4,58,0,Jump Shot,25,141,217,False
+Robert Covington,4,0,45,0,Jump Shot,25,87,242,False
+Robert Covington,2,10,0,0,Jump Shot,25,-161,204,False
+Robert Covington,1,7,45,0,Jump Shot,28,72,273,False
+Robert Covington,1,0,59,1,Jump Shot,23,154,183,False
+Robert Covington,1,10,6,1,Jump Shot,15,-140,74,True
+Robert Covington,2,8,5,0,Jump Shot,25,-171,190,False
+Robert Covington,4,11,25,0,Jump Shot,25,-199,162,False
+Robert Covington,3,8,23,1,Jump Shot,26,-182,197,False
+Robert Covington,1,9,25,1,Jump Shot,25,-160,197,False
+Robert Covington,3,9,4,0,Jump Shot,26,-156,214,False
+Robert Covington,2,4,17,1,Jump Shot,27,-122,246,False
+Robert Covington,2,9,3,0,Jump Shot,25,67,247,False
+Robert Covington,3,0,33,0,Jump Shot,19,180,87,True
+Robert Covington,4,2,55,0,Jump Shot,26,165,206,False
+Robert Covington,2,6,32,0,Jump Shot,25,-109,225,False
+Robert Covington,4,4,57,0,Jump Shot,25,85,241,False
+Robert Covington,4,4,27,0,Jump Shot,26,-145,220,False
+Robert Covington,3,9,7,0,Jump Shot,19,-90,175,True
+Robert Covington,2,8,28,1,Jump Shot,25,-4,251,False
+Robert Covington,1,3,56,0,Jump Shot,25,62,245,False
+Robert Covington,1,4,16,0,Jump Shot,14,-13,145,True
+Robert Covington,2,7,29,0,Jump Shot,26,160,208,False
+Robert Covington,3,4,3,1,Jump Shot,27,-139,242,False
+Robert Covington,3,6,1,1,Jump Shot,25,-126,227,False
+Robert Covington,3,10,43,0,Jump Shot,23,-234,7,False
+Robert Covington,3,7,40,1,Jump Shot,24,65,241,False
+Robert Covington,4,3,12,0,Jump Shot,17,115,132,True
+Robert Covington,3,5,57,0,Jump Shot,26,-120,235,False
+Robert Covington,4,6,32,0,Jump Shot,26,-163,214,False
+Robert Covington,1,5,18,0,Jump Shot,16,108,122,True
+Robert Covington,3,11,5,0,Jump Shot,25,56,245,False
+Robert Covington,1,10,17,1,Jump Shot,26,-212,153,False
+Robert Covington,1,4,47,0,Jump Shot,26,-111,244,False
+Robert Covington,1,5,15,1,Jump Shot,19,-7,196,True
+Robert Covington,1,9,46,1,Jump Shot,23,226,54,False
+Robert Covington,1,8,1,0,Jump Shot,25,-104,237,False
+Robert Covington,2,6,53,1,Jump Shot,22,-226,-4,False
+Robert Covington,3,10,27,0,Jump Shot,25,-207,141,False
+Robert Covington,1,7,17,0,Jump Shot,20,-127,167,True
+Robert Covington,2,1,56,1,Jump Shot,24,-201,143,False
+Robert Covington,2,6,59,0,Jump Shot,25,138,209,False
+Robert Covington,1,8,26,0,Jump Shot,25,-169,191,False
+Robert Covington,1,10,15,1,Jump Shot,24,-230,73,False
+Robert Covington,1,2,14,0,Jump Shot,26,138,222,False
+Robert Covington,1,1,43,0,Jump Shot,24,-229,74,False
+Robert Covington,4,0,1,0,Jump Shot,26,38,262,False
+Robert Covington,3,0,0,0,Jump Shot,60,-154,580,False
+Robert Covington,2,1,29,1,Jump Shot,26,-18,261,False
+Robert Covington,4,1,11,0,Jump Shot,26,80,251,False
+Robert Covington,1,0,32,0,Jump Shot,26,41,262,False
+Robert Covington,3,4,50,0,Jump Shot,26,-139,231,False
+Robert Covington,3,9,9,1,Jump Shot,26,-213,158,False
+Robert Covington,2,3,54,1,Jump Shot,24,-65,241,False
+Robert Covington,1,5,1,0,Jump Shot,24,-47,245,False
+Robert Covington,1,4,0,1,Jump Shot,25,-158,204,False
+Robert Covington,4,3,59,0,Jump Shot,26,129,226,False
+Robert Covington,1,1,18,1,Jump Shot,25,101,232,False
+Robert Covington,4,6,52,0,Jump Shot,20,189,91,True
+Robert Covington,4,0,1,0,Jump Shot,30,-47,300,False
+Robert Covington,4,7,59,0,Jump Shot,26,-202,173,False
+Robert Covington,4,7,29,1,Jump Shot,6,-29,62,True
+Robert Covington,3,8,20,0,Jump Shot,23,-239,-15,False
+Robert Covington,1,3,2,1,Jump Shot,24,-227,88,False
+Robert Covington,2,2,5,0,Jump Shot,26,52,256,False
+Robert Covington,4,0,10,1,Jump Shot,25,174,184,False
+Robert Covington,3,1,39,0,Jump Shot,25,155,202,False
+Robert Covington,2,2,25,0,Jump Shot,27,-185,197,False
+Robert Covington,3,0,51,0,Jump Shot,26,85,247,False
+Robert Covington,4,0,30,0,Jump Shot,27,119,246,False
+Robert Covington,2,2,48,0,Jump Shot,26,142,227,False
+Robert Covington,3,10,12,0,Jump Shot,26,116,236,False
+Robert Covington,1,11,45,1,Jump Shot,25,87,237,False
+Robert Covington,3,1,52,1,Jump Shot,27,112,253,False
+Robert Covington,1,5,16,1,Jump Shot,25,9,256,False
+Robert Covington,2,3,17,0,Jump Shot,25,42,248,False
+Robert Covington,4,8,8,0,Jump Shot,16,169,16,True
+Robert Covington,4,9,5,0,Jump Shot,26,71,256,False
+Robert Covington,4,11,18,1,Jump Shot,27,198,190,False
+Robert Covington,3,0,18,1,Jump Shot,25,-98,230,False
+Robert Covington,2,1,43,1,Jump Shot,25,103,235,False
+Robert Covington,2,1,21,1,Jump Shot,24,-139,205,False
+Robert Covington,3,7,2,0,Jump Shot,26,-1,263,False
+Robert Covington,4,10,28,0,Jump Shot,26,-141,222,False
+Robert Covington,1,1,13,1,Jump Shot,25,-93,235,False
+Robert Covington,3,2,46,1,Jump Shot,29,31,296,False
+Robert Covington,4,11,3,0,Jump Shot,26,-97,245,False
+Robert Covington,1,7,8,0,Jump Shot,25,199,153,False
+Robert Covington,1,5,42,0,Jump Shot,25,210,142,False
+Robert Covington,2,0,31,0,Jump Shot,26,-190,183,False
+Robert Covington,2,8,33,0,Jump Shot,25,-56,252,False
+Robert Covington,2,10,14,0,Jump Shot,25,-175,189,False
+Robert Covington,4,1,48,1,Jump Shot,24,134,210,False
+Robert Covington,2,1,44,1,Layup Shot,2,22,20,True
+Robert Covington,2,1,59,0,Layup Shot,4,49,5,True
+Robert Covington,3,4,18,1,Layup Shot,6,-14,63,True
+Robert Covington,3,5,39,1,Layup Shot,2,24,11,True
+Robert Covington,3,10,11,1,Layup Shot,1,-12,12,True
+Robert Covington,4,2,59,0,Layup Shot,2,3,23,True
+Robert Covington,3,5,28,1,Layup Shot,1,-11,16,True
+Robert Covington,2,0,26,0,Layup Shot,2,24,17,True
+Robert Covington,2,5,41,0,Layup Shot,4,-41,10,True
+Robert Covington,2,9,29,0,Layup Shot,5,19,48,True
+Robert Covington,3,6,0,0,Layup Shot,1,11,1,True
+Robert Covington,3,8,58,0,Layup Shot,8,81,38,True
+Robert Covington,1,0,7,0,Layup Shot,1,9,13,True
+Robert Covington,3,10,3,1,Layup Shot,2,-19,17,True
+Robert Covington,1,11,40,0,Layup Shot,11,-32,110,True
+Robert Covington,4,6,45,0,Layup Shot,4,-47,6,True
+Robert Covington,4,9,13,1,Layup Shot,3,20,32,True
+Robert Covington,4,10,8,0,Layup Shot,2,-21,19,True
+Robert Covington,3,4,51,0,Layup Shot,0,-5,1,True
+Robert Covington,2,5,27,0,Layup Shot,5,40,32,True
+Robert Covington,2,2,29,1,Layup Shot,0,0,8,True
+Robert Covington,4,9,7,1,Layup Shot,0,0,8,True
+Robert Covington,3,2,54,0,Layup Shot,3,26,25,True
+Robert Covington,3,9,25,0,Layup Shot,2,-19,18,True
+Robert Covington,3,10,10,0,Layup Shot,3,35,11,True
+Robert Covington,4,7,13,1,Layup Shot,2,16,16,True
+Robert Covington,3,8,13,0,Layup Shot,2,-5,22,True
+Robert Covington,2,1,4,1,Layup Shot,2,12,16,True
+Robert Covington,3,5,18,1,Layup Shot,1,9,10,True
+Robert Covington,1,5,36,1,Pullup Jump shot,16,-107,124,True
+Robert Covington,2,4,58,0,Pullup Jump shot,18,29,185,True
+Robert Covington,1,4,49,0,Pullup Jump shot,7,-65,29,True
+Robert Covington,1,4,23,0,Pullup Jump shot,12,82,100,True
+Robert Covington,3,4,42,1,Pullup Jump shot,15,-36,147,True
+Robert Covington,2,5,49,0,Pullup Jump shot,27,106,249,False
+Robert Covington,2,4,11,0,Pullup Jump shot,27,199,185,False
+Robert Covington,3,11,45,0,Pullup Jump shot,20,-148,137,True
+Robert Covington,2,5,30,0,Pullup Jump shot,12,40,115,True
+Robert Covington,2,7,26,0,Pullup Jump shot,16,138,88,True
+Robert Covington,1,11,45,0,Pullup Jump shot,17,93,148,True
+Robert Covington,4,5,47,0,Pullup Jump shot,21,-22,214,True
+Robert Covington,3,10,43,1,Pullup Jump shot,22,224,52,False
+Robert Covington,2,8,43,1,Pullup Jump shot,25,-204,159,False
+Robert Covington,1,8,10,0,Pullup Jump shot,14,-109,94,True
+Robert Covington,2,4,51,0,Pullup Jump shot,18,-84,164,True
+Robert Covington,2,9,17,0,Pullup Jump shot,25,155,206,False
+Robert Covington,2,7,43,1,Pullup Jump shot,25,178,188,False
+Robert Covington,3,4,35,1,Pullup Jump shot,25,-170,190,False
+Robert Covington,1,10,51,0,Pullup Jump shot,26,-125,232,False
+Robert Covington,2,7,15,0,Pullup Jump shot,20,-134,151,True
+Robert Covington,2,7,37,0,Pullup Jump shot,27,132,242,False
+Robert Covington,2,2,40,1,Pullup Jump shot,17,-80,158,True
+Robert Covington,3,5,45,0,Pullup Jump shot,20,59,194,True
+Robert Covington,2,5,21,0,Pullup Jump shot,26,168,204,False
+Robert Covington,2,10,56,1,Pullup Jump shot,26,-129,226,False
+Robert Covington,2,10,35,0,Pullup Jump shot,21,0,218,True
+Robert Covington,3,6,29,0,Pullup Jump shot,16,-26,166,True
+Robert Covington,3,6,25,1,Pullup Jump shot,27,134,240,False
+Robert Covington,2,2,34,0,Pullup Jump shot,19,22,189,True
+Robert Covington,4,0,17,0,Pullup Jump shot,31,68,306,False
+Robert Covington,4,8,16,1,Pullup Jump shot,18,-188,25,True
+Robert Covington,2,5,23,0,Pullup Jump shot,21,-109,190,True
+Robert Covington,2,8,0,1,Pullup Jump shot,17,26,168,True
+Robert Covington,3,0,56,0,Pullup Jump shot,25,30,250,False
+Robert Covington,4,4,51,0,Pullup Jump shot,25,212,145,False
+Robert Covington,3,10,34,0,Pullup Jump shot,24,-128,214,False
+Robert Covington,3,7,29,1,Pullup Jump shot,24,16,248,False
+Robert Covington,1,7,15,1,Pullup Jump shot,18,130,132,True
+Robert Covington,2,2,47,0,Pullup Jump shot,21,-165,137,True
+Robert Covington,2,3,24,1,Pullup Jump shot,15,132,88,True
+Robert Covington,3,4,29,0,Pullup Jump shot,21,-13,218,True
+Robert Covington,3,8,4,0,Pullup Jump shot,13,128,52,True
+Robert Covington,4,11,45,1,Pullup Jump shot,19,23,192,True
+Robert Covington,2,5,34,1,Pullup Jump shot,26,-172,202,False
+Robert Covington,1,10,32,0,Pullup Jump shot,15,141,75,True
+Robert Covington,3,11,8,0,Pullup Jump shot,18,-12,189,True
+Robert Covington,4,10,25,0,Pullup Jump shot,26,162,207,False
+Robert Covington,4,7,58,0,Pullup Jump shot,27,139,243,False
+Robert Covington,3,8,59,1,Pullup Jump shot,17,70,160,True
+Robert Covington,3,4,6,0,Pullup Jump shot,21,-117,175,True
+Robert Covington,2,6,19,1,Pullup Jump shot,27,-171,209,False
+Robert Covington,3,5,22,0,Pullup Jump shot,27,188,199,False
+Robert Covington,3,3,1,1,Pullup Jump shot,18,55,178,True
+Robert Covington,1,4,17,1,Pullup Jump shot,26,16,263,False
+Robert Covington,2,5,46,1,Putback Dunk Shot,0,0,-6,True
+Robert Covington,2,2,22,0,Putback Dunk Shot,0,0,-6,True
+Robert Covington,4,6,55,1,Putback Layup Shot,0,0,-6,True
+Robert Covington,3,6,10,1,Putback Layup Shot,0,0,-6,True
+Robert Covington,3,9,54,1,Reverse Layup Shot,1,-5,10,True
+Robert Covington,3,10,34,1,Reverse Layup Shot,1,-13,0,True
+Robert Covington,1,6,57,1,Reverse Layup Shot,1,0,14,True
+Robert Covington,1,10,50,1,Reverse Layup Shot,1,6,8,True
+Robert Covington,4,4,14,1,Reverse Layup Shot,1,-11,8,True
+Robert Covington,1,10,14,1,Reverse Layup Shot,2,-5,20,True
+Robert Covington,3,9,47,1,Reverse Layup Shot,0,8,5,True
+Robert Covington,2,2,26,1,Running Alley Oop Dunk Shot,1,11,10,True
+Robert Covington,4,1,27,0,Running Dunk Shot,1,0,18,True
+Robert Covington,2,3,48,1,Running Dunk Shot,0,-9,4,True
+Robert Covington,2,9,29,1,Running Dunk Shot,1,-1,17,True
+Robert Covington,4,8,45,1,Running Dunk Shot,0,-5,-3,True
+Robert Covington,3,1,58,1,Running Dunk Shot,2,-3,21,True
+Robert Covington,2,8,34,0,Running Dunk Shot,1,-2,19,True
+Robert Covington,4,4,36,1,Running Dunk Shot,2,8,22,True
+Robert Covington,1,10,36,1,Running Dunk Shot,0,3,1,True
+Robert Covington,3,8,27,1,Running Dunk Shot,1,-11,10,True
+Robert Covington,3,3,16,1,Running Dunk Shot,0,-3,-8,True
+Robert Covington,3,5,7,1,Running Dunk Shot,1,-2,17,True
+Robert Covington,4,0,4,1,Running Dunk Shot,1,11,13,True
+Robert Covington,4,1,30,1,Running Dunk Shot,0,4,2,True
+Robert Covington,3,6,35,0,Running Finger Roll Layup Shot,1,9,11,True
+Robert Covington,3,1,12,0,Running Jump Shot,24,217,118,False
+Robert Covington,3,9,21,1,Running Jump Shot,5,-11,54,True
+Robert Covington,3,11,43,1,Running Jump Shot,25,120,222,False
+Robert Covington,1,7,39,0,Running Jump Shot,24,-210,127,False
+Robert Covington,4,0,1,0,Running Jump Shot,27,-158,222,False
+Robert Covington,2,8,38,0,Running Jump Shot,25,-136,216,False
+Robert Covington,1,9,15,0,Running Jump Shot,2,29,5,True
+Robert Covington,2,0,0,0,Running Jump Shot,44,19,449,False
+Robert Covington,3,9,43,1,Running Jump Shot,25,-177,187,False
+Robert Covington,2,8,9,0,Running Jump Shot,8,-9,86,True
+Robert Covington,3,4,1,1,Running Layup Shot,0,-5,5,True
+Robert Covington,3,8,8,0,Running Layup Shot,3,-32,23,True
+Robert Covington,1,5,55,1,Running Layup Shot,2,24,5,True
+Robert Covington,3,5,6,1,Running Layup Shot,0,-1,7,True
+Robert Covington,4,5,40,1,Running Layup Shot,2,4,20,True
+Robert Covington,3,0,43,1,Running Layup Shot,2,23,11,True
+Robert Covington,4,4,5,1,Running Layup Shot,8,51,65,True
+Robert Covington,4,1,33,1,Running Layup Shot,2,-19,9,True
+Robert Covington,2,11,49,0,Running Layup Shot,1,11,8,True
+Robert Covington,1,10,30,0,Running Layup Shot,2,22,5,True
+Robert Covington,1,11,14,1,Running Layup Shot,1,2,13,True
+Robert Covington,3,11,44,1,Running Layup Shot,0,7,1,True
+Robert Covington,3,6,32,1,Running Layup Shot,1,14,13,True
+Robert Covington,3,10,26,0,Running Pull-Up Jump Shot,27,214,179,False
+Robert Covington,3,7,4,1,Running Pull-Up Jump Shot,25,173,191,False
+Robert Covington,2,6,4,1,Running Pull-Up Jump Shot,26,153,216,False
+Robert Covington,2,9,19,0,Running Pull-Up Jump Shot,26,88,247,False
+Robert Covington,3,8,12,1,Running Pull-Up Jump Shot,25,116,226,False
+Robert Covington,2,0,27,0,Running Pull-Up Jump Shot,26,-150,221,False
+Robert Covington,1,6,25,1,Running Pull-Up Jump Shot,26,-161,209,False
+Robert Covington,1,11,0,0,Running Pull-Up Jump Shot,27,149,231,False
+Robert Covington,3,10,20,0,Running Pull-Up Jump Shot,26,190,186,False
+Robert Covington,4,6,52,1,Running Pull-Up Jump Shot,27,-165,222,False
+Robert Covington,3,5,26,1,Running Pull-Up Jump Shot,25,177,181,False
+Robert Covington,1,6,12,1,Running Pull-Up Jump Shot,25,100,233,False
+Robert Covington,3,4,17,1,Running Pull-Up Jump Shot,12,70,107,True
+Robert Covington,3,11,11,1,Running Pull-Up Jump Shot,26,135,225,False
+Robert Covington,4,4,3,0,Step Back Jump shot,27,123,242,False
+Robert Covington,2,5,37,0,Step Back Jump shot,26,-154,220,False
+Robert Covington,3,5,23,1,Step Back Jump shot,22,-224,-6,False
+Robert Covington,4,4,23,0,Step Back Jump shot,27,-138,235,False
+Robert Covington,3,9,30,0,Step Back Jump shot,24,-232,68,False
+Robert Covington,2,5,17,1,Step Back Jump shot,25,220,129,False
+Robert Covington,2,6,0,0,Step Back Jump shot,23,-231,-2,False
+Robert Covington,3,2,8,1,Tip Dunk Shot,0,0,-6,True
+Robert Covington,2,7,32,1,Tip Layup Shot,0,0,-6,True
+Robert Covington,3,7,12,0,Tip Layup Shot,0,0,-6,True
+Robert Covington,4,0,2,1,Tip Layup Shot,0,0,-6,True
+Robert Covington,3,3,58,0,Tip Layup Shot,0,0,-6,True
+Robert Covington,2,4,38,0,Tip Layup Shot,0,0,-6,True
+Robert Covington,4,10,3,0,Tip Layup Shot,0,0,-6,True
+Robert Covington,3,6,59,0,Tip Layup Shot,0,0,-6,True
+Robert Covington,1,7,43,0,Turnaround Fadeaway Bank Jump Shot,11,116,15,True
+Robert Covington,1,4,28,1,Turnaround Fadeaway Bank Jump Shot,6,31,57,True
+Robert Covington,4,4,58,1,Turnaround Fadeaway shot,20,-117,173,True
+Robert Covington,1,4,49,0,Turnaround Jump Shot,13,128,35,True

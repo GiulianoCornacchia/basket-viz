@@ -1,0 +1,104 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Myke Henry,4,0,44,0,Alley Oop Dunk Shot,0,3,4,True
+Myke Henry,1,1,5,1,Alley Oop Dunk Shot,1,13,10,True
+Myke Henry,3,2,14,0,Alley Oop Layup shot,2,-19,11,True
+Myke Henry,1,6,54,1,Cutting Dunk Shot,1,9,8,True
+Myke Henry,2,5,55,0,Cutting Layup Shot,2,-25,13,True
+Myke Henry,2,10,37,1,Cutting Layup Shot,1,10,10,True
+Myke Henry,4,10,24,0,Cutting Layup Shot,6,-45,41,True
+Myke Henry,2,1,20,1,Cutting Layup Shot,1,-11,3,True
+Myke Henry,4,6,29,1,Driving Dunk Shot,0,2,-1,True
+Myke Henry,4,4,26,1,Driving Dunk Shot,0,3,0,True
+Myke Henry,3,7,14,0,Driving Finger Roll Layup Shot,2,-23,5,True
+Myke Henry,1,3,57,1,Driving Finger Roll Layup Shot,0,2,5,True
+Myke Henry,4,10,57,1,Driving Floating Jump Shot,10,-98,43,True
+Myke Henry,4,11,6,1,Driving Layup Shot,0,-4,5,True
+Myke Henry,3,2,38,0,Driving Layup Shot,8,-12,85,True
+Myke Henry,3,2,51,1,Driving Layup Shot,2,28,9,True
+Myke Henry,1,3,21,0,Driving Layup Shot,0,1,3,True
+Myke Henry,3,8,5,0,Driving Reverse Layup Shot,1,-17,7,True
+Myke Henry,3,0,52,0,Driving Reverse Layup Shot,2,-2,20,True
+Myke Henry,3,2,4,0,Driving Reverse Layup Shot,0,0,8,True
+Myke Henry,4,2,26,1,Driving Reverse Layup Shot,1,13,-2,True
+Myke Henry,3,11,33,0,Driving Reverse Layup Shot,0,-8,3,True
+Myke Henry,3,4,16,1,Driving Reverse Layup Shot,2,29,4,True
+Myke Henry,1,1,9,0,Driving Reverse Layup Shot,0,0,0,True
+Myke Henry,3,3,44,0,Floating Jump shot,10,88,59,True
+Myke Henry,4,10,40,1,Jump Bank Shot,25,163,190,False
+Myke Henry,2,2,47,0,Jump Bank Shot,26,-93,251,False
+Myke Henry,3,3,12,0,Jump Shot,26,176,194,False
+Myke Henry,4,11,31,0,Jump Shot,24,-40,241,False
+Myke Henry,2,5,48,0,Jump Shot,26,-66,259,False
+Myke Henry,1,0,30,0,Jump Shot,25,168,188,False
+Myke Henry,2,11,12,1,Jump Shot,23,234,23,False
+Myke Henry,2,3,19,1,Jump Shot,26,-57,262,False
+Myke Henry,2,8,22,0,Jump Shot,23,230,54,False
+Myke Henry,2,5,57,0,Jump Shot,23,-231,-8,False
+Myke Henry,3,4,25,1,Jump Shot,15,54,142,True
+Myke Henry,4,6,31,0,Jump Shot,23,-235,8,False
+Myke Henry,3,1,39,0,Jump Shot,26,-150,223,False
+Myke Henry,2,9,6,0,Jump Shot,26,169,203,False
+Myke Henry,3,7,34,0,Jump Shot,26,-193,176,False
+Myke Henry,4,0,53,0,Jump Shot,23,228,62,False
+Myke Henry,3,4,56,0,Jump Shot,23,231,50,False
+Myke Henry,1,0,51,1,Jump Shot,23,225,67,False
+Myke Henry,1,0,30,0,Jump Shot,22,-226,37,False
+Myke Henry,2,1,18,0,Jump Shot,26,112,238,False
+Myke Henry,3,5,12,1,Jump Shot,25,141,213,False
+Myke Henry,4,11,20,1,Jump Shot,25,5,253,False
+Myke Henry,2,2,30,0,Jump Shot,27,191,199,False
+Myke Henry,2,8,20,1,Jump Shot,26,191,187,False
+Myke Henry,4,4,26,0,Jump Shot,25,101,235,False
+Myke Henry,4,2,53,1,Jump Shot,23,230,3,False
+Myke Henry,4,10,45,0,Jump Shot,25,51,249,False
+Myke Henry,2,7,20,1,Jump Shot,22,-226,32,False
+Myke Henry,2,3,58,0,Jump Shot,22,-226,15,False
+Myke Henry,2,0,23,0,Jump Shot,25,-49,253,False
+Myke Henry,3,9,37,0,Jump Shot,25,-84,237,False
+Myke Henry,1,1,8,0,Jump Shot,24,225,99,False
+Myke Henry,2,4,41,0,Jump Shot,24,209,126,False
+Myke Henry,3,0,35,1,Jump Shot,22,-226,-1,False
+Myke Henry,3,3,1,0,Jump Shot,26,120,240,False
+Myke Henry,4,8,59,1,Jump Shot,26,-127,234,False
+Myke Henry,4,11,11,0,Jump Shot,25,-210,138,False
+Myke Henry,4,8,32,1,Jump Shot,23,235,1,False
+Myke Henry,4,5,42,0,Jump Shot,25,198,163,False
+Myke Henry,3,2,8,0,Jump Shot,23,236,-17,False
+Myke Henry,1,3,10,1,Jump Shot,26,-154,211,False
+Myke Henry,2,7,29,0,Jump Shot,27,109,255,False
+Myke Henry,3,6,30,0,Jump Shot,26,-94,244,False
+Myke Henry,3,6,57,1,Jump Shot,22,227,37,False
+Myke Henry,2,3,56,0,Jump Shot,24,235,52,False
+Myke Henry,3,0,6,1,Jump Shot,24,230,77,False
+Myke Henry,4,0,24,0,Jump Shot,25,220,121,False
+Myke Henry,4,8,30,0,Jump Shot,23,-223,88,False
+Myke Henry,4,3,32,1,Jump Shot,25,-102,232,False
+Myke Henry,4,7,8,0,Jump Shot,24,224,111,False
+Myke Henry,4,6,29,1,Jump Shot,24,237,55,False
+Myke Henry,1,3,31,0,Jump Shot,25,-190,166,False
+Myke Henry,2,11,25,1,Jump Shot,24,-233,73,False
+Myke Henry,2,11,27,1,Jump Shot,28,196,203,False
+Myke Henry,1,1,11,0,Layup Shot,1,6,17,True
+Myke Henry,3,1,43,0,Layup Shot,4,30,37,True
+Myke Henry,3,3,5,1,Layup Shot,3,18,32,True
+Myke Henry,4,0,50,0,Pullup Jump shot,16,164,-22,True
+Myke Henry,3,4,45,0,Pullup Jump shot,14,-90,119,True
+Myke Henry,4,7,0,0,Pullup Jump shot,18,-117,137,True
+Myke Henry,2,10,24,1,Pullup Jump shot,16,77,148,True
+Myke Henry,1,3,29,0,Pullup Jump shot,15,6,158,True
+Myke Henry,4,3,56,0,Pullup Jump shot,12,11,122,True
+Myke Henry,4,10,3,0,Pullup Jump shot,19,138,138,True
+Myke Henry,3,2,46,0,Pullup Jump shot,18,-187,-15,True
+Myke Henry,1,1,6,0,Reverse Layup Shot,1,4,12,True
+Myke Henry,3,4,47,0,Reverse Layup Shot,2,-18,22,True
+Myke Henry,1,0,26,1,Running Dunk Shot,2,14,15,True
+Myke Henry,3,0,38,1,Running Dunk Shot,0,8,1,True
+Myke Henry,3,0,59,1,Running Dunk Shot,1,8,6,True
+Myke Henry,4,1,42,0,Running Jump Shot,26,125,234,False
+Myke Henry,4,3,7,0,Running Jump Shot,25,152,204,False
+Myke Henry,3,0,0,0,Running Jump Shot,40,193,359,False
+Myke Henry,2,5,21,0,Running Layup Shot,0,5,6,True
+Myke Henry,3,1,51,0,Step Back Jump shot,16,-99,133,True
+Myke Henry,1,2,31,1,Tip Layup Shot,0,0,-6,True
+Myke Henry,2,5,51,1,Tip Layup Shot,0,0,-6,True
+Myke Henry,4,11,37,0,Turnaround Jump Shot,4,-3,47,True

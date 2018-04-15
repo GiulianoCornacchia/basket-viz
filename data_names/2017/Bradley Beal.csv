@@ -1,0 +1,1346 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Bradley Beal,3,10,23,0,Alley Oop Dunk Shot,2,4,29,True
+Bradley Beal,3,6,23,1,Alley Oop Dunk Shot,1,3,11,True
+Bradley Beal,3,5,44,1,Alley Oop Dunk Shot,2,1,21,True
+Bradley Beal,4,1,50,1,Alley Oop Dunk Shot,1,-3,16,True
+Bradley Beal,1,9,57,1,Alley Oop Dunk Shot,1,-2,13,True
+Bradley Beal,3,3,35,1,Alley Oop Dunk Shot,2,-3,20,True
+Bradley Beal,3,10,3,1,Alley Oop Layup shot,3,37,13,True
+Bradley Beal,2,2,20,1,Alley Oop Layup shot,0,-8,1,True
+Bradley Beal,1,9,0,0,Alley Oop Layup shot,1,17,5,True
+Bradley Beal,2,7,14,1,Cutting Dunk Shot,1,-9,5,True
+Bradley Beal,3,8,30,0,Cutting Dunk Shot,0,6,0,True
+Bradley Beal,2,4,59,1,Cutting Dunk Shot,0,0,9,True
+Bradley Beal,2,3,1,1,Cutting Dunk Shot,0,4,-3,True
+Bradley Beal,2,3,7,1,Cutting Dunk Shot,1,13,8,True
+Bradley Beal,3,3,39,1,Cutting Dunk Shot,2,3,21,True
+Bradley Beal,2,2,3,1,Cutting Dunk Shot,1,8,6,True
+Bradley Beal,2,2,23,1,Cutting Dunk Shot,0,-2,1,True
+Bradley Beal,3,6,5,1,Cutting Dunk Shot,1,6,8,True
+Bradley Beal,1,6,24,1,Cutting Dunk Shot,0,0,5,True
+Bradley Beal,3,7,47,1,Cutting Dunk Shot,0,-4,1,True
+Bradley Beal,3,6,44,1,Cutting Dunk Shot,0,2,7,True
+Bradley Beal,1,11,3,1,Cutting Finger Roll Layup Shot,1,12,13,True
+Bradley Beal,1,7,23,1,Cutting Finger Roll Layup Shot,0,9,1,True
+Bradley Beal,2,6,54,1,Cutting Layup Shot,1,7,11,True
+Bradley Beal,3,3,42,1,Cutting Layup Shot,1,-14,12,True
+Bradley Beal,4,1,20,1,Cutting Layup Shot,7,-66,33,True
+Bradley Beal,2,5,17,1,Cutting Layup Shot,1,-13,-4,True
+Bradley Beal,1,4,16,0,Cutting Layup Shot,1,-15,0,True
+Bradley Beal,3,4,19,0,Cutting Layup Shot,1,11,0,True
+Bradley Beal,1,6,30,1,Cutting Layup Shot,2,18,20,True
+Bradley Beal,4,0,8,1,Cutting Layup Shot,1,-13,13,True
+Bradley Beal,1,10,32,0,Cutting Layup Shot,1,-2,12,True
+Bradley Beal,3,4,39,0,Cutting Layup Shot,3,0,32,True
+Bradley Beal,1,7,19,1,Cutting Layup Shot,0,2,8,True
+Bradley Beal,2,0,21,0,Cutting Layup Shot,2,12,17,True
+Bradley Beal,3,2,18,1,Driving Dunk Shot,1,3,11,True
+Bradley Beal,1,8,37,1,Driving Dunk Shot,1,-12,6,True
+Bradley Beal,1,8,43,1,Driving Dunk Shot,0,-3,-6,True
+Bradley Beal,3,2,31,1,Driving Dunk Shot,1,7,16,True
+Bradley Beal,2,1,16,0,Driving Dunk Shot,1,6,11,True
+Bradley Beal,4,9,52,1,Driving Dunk Shot,0,2,9,True
+Bradley Beal,2,1,21,1,Driving Dunk Shot,2,5,23,True
+Bradley Beal,1,5,22,1,Driving Dunk Shot,2,11,21,True
+Bradley Beal,4,0,35,0,Driving Dunk Shot,2,13,25,True
+Bradley Beal,2,4,19,1,Driving Dunk Shot,0,1,8,True
+Bradley Beal,5,1,15,0,Driving Dunk Shot,1,14,1,True
+Bradley Beal,1,4,52,1,Driving Dunk Shot,0,6,-7,True
+Bradley Beal,4,0,50,1,Driving Finger Roll Layup Shot,1,7,14,True
+Bradley Beal,2,0,3,0,Driving Finger Roll Layup Shot,3,18,27,True
+Bradley Beal,1,8,39,0,Driving Finger Roll Layup Shot,6,-3,64,True
+Bradley Beal,2,1,4,1,Driving Finger Roll Layup Shot,1,-2,13,True
+Bradley Beal,3,4,56,1,Driving Finger Roll Layup Shot,2,12,20,True
+Bradley Beal,2,3,31,0,Driving Finger Roll Layup Shot,0,3,3,True
+Bradley Beal,3,1,38,0,Driving Finger Roll Layup Shot,5,-25,44,True
+Bradley Beal,3,11,18,1,Driving Finger Roll Layup Shot,1,-3,17,True
+Bradley Beal,4,8,0,0,Driving Finger Roll Layup Shot,1,-12,15,True
+Bradley Beal,1,5,10,1,Driving Finger Roll Layup Shot,1,8,17,True
+Bradley Beal,1,6,50,0,Driving Finger Roll Layup Shot,1,9,8,True
+Bradley Beal,3,11,25,0,Driving Finger Roll Layup Shot,4,11,48,True
+Bradley Beal,1,7,18,1,Driving Finger Roll Layup Shot,0,-2,8,True
+Bradley Beal,3,8,5,0,Driving Finger Roll Layup Shot,2,16,16,True
+Bradley Beal,4,7,45,1,Driving Finger Roll Layup Shot,1,14,2,True
+Bradley Beal,3,0,47,1,Driving Finger Roll Layup Shot,1,0,10,True
+Bradley Beal,2,3,44,0,Driving Finger Roll Layup Shot,1,5,18,True
+Bradley Beal,3,7,41,0,Driving Finger Roll Layup Shot,1,-8,16,True
+Bradley Beal,3,8,47,1,Driving Finger Roll Layup Shot,2,-3,20,True
+Bradley Beal,4,8,43,1,Driving Finger Roll Layup Shot,1,-2,17,True
+Bradley Beal,4,0,28,1,Driving Finger Roll Layup Shot,0,-9,1,True
+Bradley Beal,2,1,4,0,Driving Floating Bank Jump Shot,3,34,17,True
+Bradley Beal,3,5,54,1,Driving Floating Bank Jump Shot,11,-103,58,True
+Bradley Beal,4,2,26,0,Driving Floating Bank Jump Shot,6,67,15,True
+Bradley Beal,4,2,35,0,Driving Floating Bank Jump Shot,5,41,36,True
+Bradley Beal,3,4,44,1,Driving Floating Bank Jump Shot,3,24,28,True
+Bradley Beal,3,7,16,0,Driving Floating Bank Jump Shot,9,34,90,True
+Bradley Beal,4,10,53,1,Driving Floating Bank Jump Shot,5,-46,35,True
+Bradley Beal,1,11,29,1,Driving Floating Bank Jump Shot,6,-57,36,True
+Bradley Beal,4,5,36,1,Driving Floating Bank Jump Shot,7,-60,46,True
+Bradley Beal,1,2,26,1,Driving Floating Bank Jump Shot,11,88,67,True
+Bradley Beal,1,8,33,1,Driving Floating Bank Jump Shot,9,-98,11,True
+Bradley Beal,3,1,22,1,Driving Floating Bank Jump Shot,6,-5,66,True
+Bradley Beal,3,6,49,0,Driving Floating Bank Jump Shot,12,-70,108,True
+Bradley Beal,3,3,44,0,Driving Floating Bank Jump Shot,9,-81,42,True
+Bradley Beal,1,2,55,1,Driving Floating Bank Jump Shot,1,-4,17,True
+Bradley Beal,4,10,23,0,Driving Floating Bank Jump Shot,9,-80,45,True
+Bradley Beal,2,6,18,1,Driving Floating Bank Jump Shot,2,12,16,True
+Bradley Beal,3,0,9,1,Driving Floating Bank Jump Shot,8,-6,84,True
+Bradley Beal,1,0,0,0,Driving Floating Bank Jump Shot,46,-194,418,False
+Bradley Beal,3,5,16,1,Driving Floating Bank Jump Shot,11,93,63,True
+Bradley Beal,3,8,0,0,Driving Floating Bank Jump Shot,2,6,25,True
+Bradley Beal,3,1,11,0,Driving Floating Bank Jump Shot,3,11,29,True
+Bradley Beal,1,4,13,0,Driving Floating Bank Jump Shot,12,61,114,True
+Bradley Beal,1,6,56,1,Driving Floating Bank Jump Shot,4,49,9,True
+Bradley Beal,2,2,48,0,Driving Floating Bank Jump Shot,14,-82,116,True
+Bradley Beal,1,9,40,0,Driving Floating Jump Shot,12,-4,129,True
+Bradley Beal,3,8,8,0,Driving Floating Jump Shot,9,22,89,True
+Bradley Beal,2,2,36,0,Driving Floating Jump Shot,8,-70,45,True
+Bradley Beal,4,7,32,1,Driving Floating Jump Shot,12,-78,103,True
+Bradley Beal,1,9,9,0,Driving Floating Jump Shot,13,36,126,True
+Bradley Beal,3,3,28,1,Driving Floating Jump Shot,12,-50,115,True
+Bradley Beal,4,0,50,0,Driving Floating Jump Shot,9,33,92,True
+Bradley Beal,1,6,42,0,Driving Floating Jump Shot,10,79,67,True
+Bradley Beal,3,8,17,0,Driving Floating Jump Shot,10,-44,90,True
+Bradley Beal,2,3,7,1,Driving Floating Jump Shot,9,26,89,True
+Bradley Beal,4,0,5,0,Driving Floating Jump Shot,13,8,137,True
+Bradley Beal,4,7,44,1,Driving Floating Jump Shot,13,-18,137,True
+Bradley Beal,4,7,29,1,Driving Floating Jump Shot,11,19,111,True
+Bradley Beal,2,2,34,0,Driving Floating Jump Shot,5,-52,14,True
+Bradley Beal,1,1,33,0,Driving Floating Jump Shot,7,47,55,True
+Bradley Beal,2,4,51,0,Driving Floating Jump Shot,5,-8,58,True
+Bradley Beal,1,4,35,0,Driving Floating Jump Shot,10,69,84,True
+Bradley Beal,2,1,38,1,Driving Floating Jump Shot,5,-1,57,True
+Bradley Beal,4,5,50,0,Driving Floating Jump Shot,12,16,121,True
+Bradley Beal,3,11,33,0,Driving Floating Jump Shot,8,25,86,True
+Bradley Beal,3,10,38,0,Driving Floating Jump Shot,16,82,148,True
+Bradley Beal,3,10,16,0,Driving Floating Jump Shot,7,-13,72,True
+Bradley Beal,2,1,18,0,Driving Floating Jump Shot,7,-70,15,True
+Bradley Beal,3,7,49,0,Driving Floating Jump Shot,12,-95,74,True
+Bradley Beal,1,5,49,0,Driving Floating Jump Shot,5,10,54,True
+Bradley Beal,4,6,51,1,Driving Floating Jump Shot,7,10,76,True
+Bradley Beal,2,6,24,0,Driving Floating Jump Shot,13,-23,131,True
+Bradley Beal,4,9,3,0,Driving Floating Jump Shot,9,-27,88,True
+Bradley Beal,5,2,0,1,Driving Floating Jump Shot,2,20,19,True
+Bradley Beal,3,6,50,1,Driving Floating Jump Shot,7,29,74,True
+Bradley Beal,3,4,26,0,Driving Floating Jump Shot,10,-49,92,True
+Bradley Beal,1,3,15,0,Driving Floating Jump Shot,8,-36,75,True
+Bradley Beal,1,8,42,0,Driving Layup Shot,2,3,25,True
+Bradley Beal,2,6,43,0,Driving Layup Shot,6,18,64,True
+Bradley Beal,4,9,36,1,Driving Layup Shot,3,14,27,True
+Bradley Beal,4,4,2,0,Driving Layup Shot,0,7,1,True
+Bradley Beal,4,3,32,0,Driving Layup Shot,2,-24,11,True
+Bradley Beal,3,2,4,1,Driving Layup Shot,11,-98,53,True
+Bradley Beal,2,4,32,1,Driving Layup Shot,1,-11,5,True
+Bradley Beal,2,4,8,1,Driving Layup Shot,1,-6,14,True
+Bradley Beal,2,5,25,1,Driving Layup Shot,6,63,3,True
+Bradley Beal,3,9,13,1,Driving Layup Shot,1,3,14,True
+Bradley Beal,4,7,51,1,Driving Layup Shot,0,-2,9,True
+Bradley Beal,4,3,31,0,Driving Layup Shot,3,-34,10,True
+Bradley Beal,4,1,0,0,Driving Layup Shot,4,-7,46,True
+Bradley Beal,4,6,29,1,Driving Layup Shot,1,-2,13,True
+Bradley Beal,1,0,46,0,Driving Layup Shot,4,-24,37,True
+Bradley Beal,2,6,5,1,Driving Layup Shot,2,-5,28,True
+Bradley Beal,4,1,33,1,Driving Layup Shot,1,7,9,True
+Bradley Beal,2,5,16,1,Driving Layup Shot,3,-22,22,True
+Bradley Beal,3,1,39,1,Driving Layup Shot,3,6,31,True
+Bradley Beal,2,0,28,0,Driving Layup Shot,3,12,34,True
+Bradley Beal,2,0,32,0,Driving Layup Shot,11,-90,74,True
+Bradley Beal,4,8,54,0,Driving Layup Shot,1,9,17,True
+Bradley Beal,3,7,28,0,Driving Layup Shot,3,34,17,True
+Bradley Beal,4,0,12,1,Driving Layup Shot,4,22,42,True
+Bradley Beal,2,0,0,1,Driving Layup Shot,1,11,-1,True
+Bradley Beal,1,5,47,0,Driving Layup Shot,3,-20,25,True
+Bradley Beal,2,1,45,1,Driving Layup Shot,2,21,15,True
+Bradley Beal,3,0,1,0,Driving Layup Shot,5,48,17,True
+Bradley Beal,4,6,14,1,Driving Layup Shot,3,8,35,True
+Bradley Beal,2,5,51,1,Driving Layup Shot,0,4,4,True
+Bradley Beal,4,10,12,0,Driving Layup Shot,2,-8,24,True
+Bradley Beal,5,4,42,1,Driving Layup Shot,2,-13,22,True
+Bradley Beal,1,9,13,1,Driving Layup Shot,0,2,6,True
+Bradley Beal,3,7,5,1,Driving Layup Shot,2,2,24,True
+Bradley Beal,2,5,34,1,Driving Layup Shot,0,-1,2,True
+Bradley Beal,3,5,3,1,Driving Layup Shot,3,8,31,True
+Bradley Beal,4,10,23,1,Driving Layup Shot,0,-5,1,True
+Bradley Beal,1,5,10,0,Driving Layup Shot,0,-1,7,True
+Bradley Beal,2,4,13,1,Driving Layup Shot,1,11,0,True
+Bradley Beal,1,7,38,1,Driving Layup Shot,2,-24,1,True
+Bradley Beal,1,9,20,0,Driving Layup Shot,1,9,5,True
+Bradley Beal,3,7,3,0,Driving Layup Shot,0,8,-1,True
+Bradley Beal,3,0,32,0,Driving Layup Shot,1,18,3,True
+Bradley Beal,4,5,44,1,Driving Layup Shot,0,-4,8,True
+Bradley Beal,3,0,2,0,Driving Layup Shot,5,12,53,True
+Bradley Beal,2,5,10,1,Driving Layup Shot,1,-15,13,True
+Bradley Beal,1,0,5,0,Driving Layup Shot,3,-12,28,True
+Bradley Beal,2,1,34,1,Driving Layup Shot,0,-5,4,True
+Bradley Beal,2,0,54,1,Driving Layup Shot,1,7,15,True
+Bradley Beal,3,0,51,0,Driving Layup Shot,2,-16,15,True
+Bradley Beal,1,6,50,0,Driving Layup Shot,2,20,22,True
+Bradley Beal,1,2,8,0,Driving Layup Shot,3,31,1,True
+Bradley Beal,3,5,1,1,Driving Layup Shot,4,33,28,True
+Bradley Beal,4,7,11,0,Driving Layup Shot,2,-23,11,True
+Bradley Beal,1,3,52,0,Driving Layup Shot,2,9,20,True
+Bradley Beal,3,4,39,1,Driving Layup Shot,2,2,21,True
+Bradley Beal,3,5,34,1,Driving Layup Shot,1,0,15,True
+Bradley Beal,4,0,34,0,Driving Layup Shot,1,11,13,True
+Bradley Beal,4,6,27,0,Driving Layup Shot,5,14,50,True
+Bradley Beal,4,4,55,1,Driving Layup Shot,3,29,11,True
+Bradley Beal,1,9,52,1,Driving Layup Shot,2,21,11,True
+Bradley Beal,4,6,37,0,Driving Layup Shot,2,0,25,True
+Bradley Beal,2,8,15,0,Driving Layup Shot,2,16,17,True
+Bradley Beal,4,0,38,0,Driving Layup Shot,1,14,13,True
+Bradley Beal,3,4,47,1,Driving Layup Shot,3,-7,33,True
+Bradley Beal,2,1,20,1,Driving Layup Shot,1,6,18,True
+Bradley Beal,2,7,12,1,Driving Layup Shot,1,8,15,True
+Bradley Beal,1,7,20,1,Driving Layup Shot,1,9,13,True
+Bradley Beal,2,1,52,1,Driving Layup Shot,2,-9,20,True
+Bradley Beal,3,0,50,1,Driving Layup Shot,2,9,25,True
+Bradley Beal,1,2,47,1,Driving Layup Shot,2,-13,21,True
+Bradley Beal,2,2,50,1,Driving Layup Shot,1,-14,5,True
+Bradley Beal,4,10,18,0,Driving Layup Shot,1,-5,19,True
+Bradley Beal,3,1,28,1,Driving Layup Shot,2,8,22,True
+Bradley Beal,3,9,45,1,Driving Layup Shot,3,30,4,True
+Bradley Beal,2,0,39,0,Driving Layup Shot,3,-18,25,True
+Bradley Beal,1,0,29,0,Driving Layup Shot,3,33,13,True
+Bradley Beal,1,9,17,0,Driving Layup Shot,1,5,19,True
+Bradley Beal,4,10,14,0,Driving Layup Shot,2,-16,15,True
+Bradley Beal,4,1,42,0,Driving Layup Shot,0,8,-3,True
+Bradley Beal,1,6,33,1,Driving Layup Shot,0,0,-1,True
+Bradley Beal,3,4,17,1,Driving Layup Shot,6,28,62,True
+Bradley Beal,2,7,28,0,Driving Layup Shot,2,19,18,True
+Bradley Beal,3,4,47,1,Driving Layup Shot,2,12,17,True
+Bradley Beal,2,4,46,1,Driving Layup Shot,3,-28,13,True
+Bradley Beal,2,2,27,1,Driving Layup Shot,2,19,16,True
+Bradley Beal,1,8,31,1,Driving Layup Shot,2,-27,-6,True
+Bradley Beal,3,3,15,0,Driving Layup Shot,6,-62,27,True
+Bradley Beal,4,4,24,0,Driving Layup Shot,1,11,3,True
+Bradley Beal,2,7,37,1,Driving Layup Shot,2,11,20,True
+Bradley Beal,4,0,51,1,Driving Layup Shot,2,14,20,True
+Bradley Beal,4,3,18,0,Driving Layup Shot,1,-8,13,True
+Bradley Beal,4,1,45,0,Driving Layup Shot,2,19,18,True
+Bradley Beal,1,6,13,1,Driving Layup Shot,2,14,25,True
+Bradley Beal,1,6,34,1,Driving Layup Shot,1,0,15,True
+Bradley Beal,3,11,6,1,Driving Layup Shot,1,14,7,True
+Bradley Beal,4,1,26,0,Driving Layup Shot,0,5,1,True
+Bradley Beal,1,10,9,0,Driving Layup Shot,2,-4,22,True
+Bradley Beal,3,2,29,1,Driving Layup Shot,1,-2,17,True
+Bradley Beal,1,2,56,0,Driving Layup Shot,3,-35,5,True
+Bradley Beal,4,0,19,0,Driving Layup Shot,2,-14,15,True
+Bradley Beal,2,5,19,1,Driving Layup Shot,1,6,13,True
+Bradley Beal,1,3,42,0,Driving Layup Shot,2,9,21,True
+Bradley Beal,3,3,32,1,Driving Layup Shot,0,3,5,True
+Bradley Beal,1,4,40,1,Driving Layup Shot,1,-1,15,True
+Bradley Beal,4,1,55,0,Driving Layup Shot,2,19,10,True
+Bradley Beal,4,2,6,1,Driving Layup Shot,7,-68,25,True
+Bradley Beal,3,0,27,0,Driving Layup Shot,4,17,47,True
+Bradley Beal,3,8,21,1,Driving Layup Shot,1,2,19,True
+Bradley Beal,3,9,55,1,Driving Layup Shot,0,1,0,True
+Bradley Beal,2,2,10,1,Driving Layup Shot,1,-1,10,True
+Bradley Beal,1,1,33,0,Driving Layup Shot,2,-13,27,True
+Bradley Beal,4,6,14,1,Driving Layup Shot,2,8,24,True
+Bradley Beal,4,7,38,1,Driving Layup Shot,1,-12,8,True
+Bradley Beal,2,1,0,1,Driving Layup Shot,0,-1,1,True
+Bradley Beal,4,2,36,1,Driving Layup Shot,1,-8,10,True
+Bradley Beal,2,0,8,1,Driving Layup Shot,0,2,5,True
+Bradley Beal,4,5,12,0,Driving Layup Shot,0,-8,-1,True
+Bradley Beal,1,11,18,1,Driving Layup Shot,2,7,21,True
+Bradley Beal,2,6,23,0,Driving Layup Shot,3,-9,33,True
+Bradley Beal,4,4,21,1,Driving Layup Shot,2,14,24,True
+Bradley Beal,3,9,30,1,Driving Layup Shot,2,24,10,True
+Bradley Beal,3,3,10,0,Driving Layup Shot,2,16,20,True
+Bradley Beal,2,2,22,0,Driving Layup Shot,2,-20,11,True
+Bradley Beal,1,9,8,1,Driving Layup Shot,2,-21,8,True
+Bradley Beal,4,3,26,1,Driving Layup Shot,2,18,21,True
+Bradley Beal,1,0,6,1,Driving Layup Shot,1,0,11,True
+Bradley Beal,1,10,53,1,Driving Layup Shot,1,-4,19,True
+Bradley Beal,2,1,52,0,Driving Layup Shot,3,27,18,True
+Bradley Beal,2,3,6,0,Driving Layup Shot,1,2,14,True
+Bradley Beal,2,5,29,1,Driving Layup Shot,2,9,20,True
+Bradley Beal,4,1,48,1,Driving Layup Shot,1,-2,13,True
+Bradley Beal,4,2,3,1,Driving Layup Shot,5,18,49,True
+Bradley Beal,3,1,32,1,Driving Layup Shot,0,-1,7,True
+Bradley Beal,4,3,23,1,Driving Layup Shot,1,13,7,True
+Bradley Beal,3,11,9,1,Driving Layup Shot,2,9,27,True
+Bradley Beal,3,5,51,0,Driving Layup Shot,3,12,36,True
+Bradley Beal,2,3,16,1,Driving Layup Shot,2,-21,19,True
+Bradley Beal,1,0,3,1,Driving Layup Shot,1,-9,-10,True
+Bradley Beal,3,7,14,1,Driving Layup Shot,1,7,15,True
+Bradley Beal,2,7,21,1,Driving Layup Shot,2,-3,21,True
+Bradley Beal,1,3,55,1,Driving Layup Shot,2,-16,20,True
+Bradley Beal,4,6,14,0,Driving Layup Shot,1,6,11,True
+Bradley Beal,3,1,11,1,Driving Layup Shot,1,-6,12,True
+Bradley Beal,2,2,30,0,Driving Layup Shot,2,-11,21,True
+Bradley Beal,3,2,56,1,Driving Layup Shot,1,-5,10,True
+Bradley Beal,1,0,38,1,Driving Layup Shot,0,-2,4,True
+Bradley Beal,3,0,8,0,Driving Layup Shot,2,1,22,True
+Bradley Beal,3,5,25,1,Driving Layup Shot,2,-19,13,True
+Bradley Beal,3,0,8,1,Driving Layup Shot,2,17,11,True
+Bradley Beal,4,6,29,0,Driving Layup Shot,6,-6,62,True
+Bradley Beal,3,2,48,1,Driving Layup Shot,1,-4,17,True
+Bradley Beal,3,0,2,1,Driving Layup Shot,3,-18,25,True
+Bradley Beal,4,4,0,1,Driving Layup Shot,4,36,34,True
+Bradley Beal,2,6,19,1,Driving Layup Shot,1,-12,7,True
+Bradley Beal,3,10,29,1,Driving Layup Shot,1,13,2,True
+Bradley Beal,2,6,30,0,Driving Layup Shot,5,28,51,True
+Bradley Beal,1,4,48,1,Driving Layup Shot,1,-4,10,True
+Bradley Beal,2,3,48,0,Driving Layup Shot,3,-3,-34,True
+Bradley Beal,4,0,12,1,Driving Layup Shot,4,27,32,True
+Bradley Beal,4,6,47,1,Driving Reverse Layup Shot,1,-5,19,True
+Bradley Beal,4,7,36,0,Driving Reverse Layup Shot,1,-14,6,True
+Bradley Beal,4,6,3,1,Driving Reverse Layup Shot,2,18,11,True
+Bradley Beal,1,0,20,1,Driving Reverse Layup Shot,2,-12,17,True
+Bradley Beal,4,1,17,0,Driving Reverse Layup Shot,2,25,16,True
+Bradley Beal,1,6,45,0,Driving Reverse Layup Shot,1,-13,1,True
+Bradley Beal,1,2,38,1,Driving Reverse Layup Shot,0,0,6,True
+Bradley Beal,1,8,30,1,Driving Reverse Layup Shot,1,-12,-4,True
+Bradley Beal,1,5,25,1,Driving Reverse Layup Shot,1,-13,8,True
+Bradley Beal,4,3,32,0,Driving Reverse Layup Shot,2,-11,25,True
+Bradley Beal,4,2,36,0,Driving Reverse Layup Shot,1,-5,19,True
+Bradley Beal,4,6,14,1,Driving Reverse Layup Shot,1,-7,10,True
+Bradley Beal,4,0,24,1,Dunk Shot,1,-12,11,True
+Bradley Beal,3,5,36,0,Dunk Shot,0,-3,8,True
+Bradley Beal,1,2,6,1,Dunk Shot,1,14,11,True
+Bradley Beal,3,1,49,1,Dunk Shot,2,15,24,True
+Bradley Beal,3,5,53,1,Dunk Shot,1,-2,16,True
+Bradley Beal,2,1,38,1,Dunk Shot,0,-3,6,True
+Bradley Beal,1,4,49,0,Dunk Shot,2,2,21,True
+Bradley Beal,2,1,45,1,Dunk Shot,1,-5,13,True
+Bradley Beal,1,9,53,1,Dunk Shot,1,-1,12,True
+Bradley Beal,3,8,9,1,Dunk Shot,1,9,14,True
+Bradley Beal,4,1,16,1,Dunk Shot,1,-2,15,True
+Bradley Beal,2,3,57,1,Fadeaway Jump Shot,13,60,117,True
+Bradley Beal,1,8,17,1,Fadeaway Jump Shot,9,-41,84,True
+Bradley Beal,1,0,12,1,Fadeaway Jump Shot,15,-154,-4,True
+Bradley Beal,4,2,51,0,Fadeaway Jump Shot,11,-111,26,True
+Bradley Beal,4,0,1,0,Fadeaway Jump Shot,23,-232,-1,False
+Bradley Beal,3,0,2,0,Fadeaway Jump Shot,18,45,176,True
+Bradley Beal,4,1,36,0,Fadeaway Jump Shot,17,147,88,True
+Bradley Beal,2,2,5,1,Fadeaway Jump Shot,12,-123,-4,True
+Bradley Beal,1,5,47,0,Fadeaway Jump Shot,23,-232,12,False
+Bradley Beal,3,8,20,1,Fadeaway Jump Shot,12,21,123,True
+Bradley Beal,1,4,15,0,Fadeaway Jump Shot,13,135,26,True
+Bradley Beal,2,0,4,1,Fadeaway Jump Shot,12,3,122,True
+Bradley Beal,2,8,28,0,Fadeaway Jump Shot,13,-138,10,True
+Bradley Beal,3,3,1,0,Fadeaway Jump Shot,13,-127,45,True
+Bradley Beal,4,1,55,0,Fadeaway Jump Shot,11,58,102,True
+Bradley Beal,1,7,46,0,Fadeaway Jump Shot,11,29,113,True
+Bradley Beal,2,9,1,1,Fadeaway Jump Shot,14,129,63,True
+Bradley Beal,2,3,35,0,Fadeaway Jump Shot,18,-101,153,True
+Bradley Beal,2,4,44,0,Finger Roll Layup Shot,9,-15,96,True
+Bradley Beal,3,8,10,1,Finger Roll Layup Shot,2,6,22,True
+Bradley Beal,2,4,56,0,Floating Jump shot,11,-71,88,True
+Bradley Beal,1,5,45,0,Floating Jump shot,14,-145,22,True
+Bradley Beal,1,10,49,0,Floating Jump shot,10,-24,98,True
+Bradley Beal,4,9,32,1,Floating Jump shot,14,125,80,True
+Bradley Beal,3,0,40,1,Floating Jump shot,12,2,121,True
+Bradley Beal,4,1,13,0,Floating Jump shot,2,-2,27,True
+Bradley Beal,1,11,44,0,Floating Jump shot,12,26,127,True
+Bradley Beal,1,9,7,1,Floating Jump shot,13,47,122,True
+Bradley Beal,2,3,11,1,Floating Jump shot,12,32,120,True
+Bradley Beal,3,1,50,1,Floating Jump shot,10,-14,109,True
+Bradley Beal,1,4,53,1,Floating Jump shot,8,2,85,True
+Bradley Beal,2,2,0,0,Floating Jump shot,11,-92,69,True
+Bradley Beal,3,11,23,0,Floating Jump shot,11,57,95,True
+Bradley Beal,4,3,40,0,Floating Jump shot,14,-73,123,True
+Bradley Beal,1,8,2,0,Floating Jump shot,10,-6,107,True
+Bradley Beal,2,0,17,1,Floating Jump shot,10,57,83,True
+Bradley Beal,3,0,0,1,Jump Bank Shot,14,106,92,True
+Bradley Beal,1,0,50,1,Jump Bank Shot,16,-128,109,True
+Bradley Beal,1,0,42,1,Jump Bank Shot,12,-120,42,True
+Bradley Beal,4,5,21,0,Jump Bank Shot,10,-50,95,True
+Bradley Beal,4,2,53,1,Jump Shot,26,136,230,False
+Bradley Beal,3,11,40,0,Jump Shot,25,-173,192,False
+Bradley Beal,1,1,23,0,Jump Shot,25,-188,173,False
+Bradley Beal,1,10,28,1,Jump Shot,20,129,164,True
+Bradley Beal,3,1,29,0,Jump Shot,27,162,220,False
+Bradley Beal,4,5,13,0,Jump Shot,26,139,230,False
+Bradley Beal,1,4,5,1,Jump Shot,8,-3,88,True
+Bradley Beal,1,9,32,0,Jump Shot,25,-187,170,False
+Bradley Beal,4,5,39,1,Jump Shot,26,-48,257,False
+Bradley Beal,1,8,40,0,Jump Shot,17,-90,148,True
+Bradley Beal,1,3,32,1,Jump Shot,25,166,195,False
+Bradley Beal,3,3,8,1,Jump Shot,23,-237,-7,False
+Bradley Beal,3,6,56,1,Jump Shot,22,226,27,False
+Bradley Beal,4,7,12,1,Jump Shot,23,236,26,False
+Bradley Beal,3,9,45,0,Jump Shot,9,77,50,True
+Bradley Beal,1,5,4,0,Jump Shot,23,228,68,False
+Bradley Beal,3,6,7,0,Jump Shot,18,-43,185,True
+Bradley Beal,4,1,9,0,Jump Shot,25,-77,246,False
+Bradley Beal,3,0,11,0,Jump Shot,25,-192,172,False
+Bradley Beal,1,2,33,0,Jump Shot,18,-150,113,True
+Bradley Beal,3,10,14,1,Jump Shot,25,-145,215,False
+Bradley Beal,4,4,4,0,Jump Shot,24,-228,75,False
+Bradley Beal,2,2,26,0,Jump Shot,26,-150,221,False
+Bradley Beal,3,5,38,0,Jump Shot,26,-30,259,False
+Bradley Beal,2,2,34,0,Jump Shot,11,91,63,True
+Bradley Beal,4,6,27,0,Jump Shot,26,-173,200,False
+Bradley Beal,3,10,36,1,Jump Shot,23,-230,51,False
+Bradley Beal,4,1,27,0,Jump Shot,25,149,211,False
+Bradley Beal,2,3,45,1,Jump Shot,24,204,144,False
+Bradley Beal,2,7,26,1,Jump Shot,24,-239,31,False
+Bradley Beal,3,4,36,1,Jump Shot,25,-151,206,False
+Bradley Beal,1,10,28,0,Jump Shot,25,222,125,False
+Bradley Beal,3,0,29,0,Jump Shot,27,171,210,False
+Bradley Beal,2,4,33,0,Jump Shot,18,107,154,True
+Bradley Beal,3,4,18,0,Jump Shot,24,-185,163,False
+Bradley Beal,4,6,44,1,Jump Shot,9,5,95,True
+Bradley Beal,2,3,49,1,Jump Shot,17,84,157,True
+Bradley Beal,4,2,18,0,Jump Shot,25,-171,190,False
+Bradley Beal,2,1,8,1,Jump Shot,21,-120,173,True
+Bradley Beal,2,2,1,1,Jump Shot,24,-126,212,False
+Bradley Beal,3,4,44,1,Jump Shot,25,28,251,False
+Bradley Beal,4,3,14,0,Jump Shot,11,-112,37,True
+Bradley Beal,3,3,33,0,Jump Shot,25,27,253,False
+Bradley Beal,3,5,36,0,Jump Shot,26,-168,202,False
+Bradley Beal,1,9,38,0,Jump Shot,24,-228,85,False
+Bradley Beal,1,9,17,0,Jump Shot,27,120,252,False
+Bradley Beal,3,3,38,0,Jump Shot,25,138,209,False
+Bradley Beal,2,2,25,0,Jump Shot,28,52,282,False
+Bradley Beal,2,1,56,0,Jump Shot,26,160,213,False
+Bradley Beal,3,1,49,0,Jump Shot,29,-161,242,False
+Bradley Beal,3,2,2,0,Jump Shot,19,-131,141,True
+Bradley Beal,4,0,0,0,Jump Shot,46,-143,439,False
+Bradley Beal,1,2,25,0,Jump Shot,26,163,210,False
+Bradley Beal,1,4,25,0,Jump Shot,25,55,246,False
+Bradley Beal,3,4,50,0,Jump Shot,25,98,230,False
+Bradley Beal,3,3,0,0,Jump Shot,25,-19,251,False
+Bradley Beal,3,5,41,0,Jump Shot,17,-85,156,True
+Bradley Beal,3,7,30,1,Jump Shot,24,-136,208,False
+Bradley Beal,3,6,10,1,Jump Shot,24,-214,113,False
+Bradley Beal,1,11,2,0,Jump Shot,24,73,236,False
+Bradley Beal,1,5,20,0,Jump Shot,13,-137,18,True
+Bradley Beal,3,2,29,1,Jump Shot,23,229,22,False
+Bradley Beal,4,0,30,0,Jump Shot,22,-189,122,True
+Bradley Beal,3,8,23,0,Jump Shot,13,-135,4,True
+Bradley Beal,3,5,3,1,Jump Shot,25,136,220,False
+Bradley Beal,3,4,18,1,Jump Shot,26,35,261,False
+Bradley Beal,3,2,35,0,Jump Shot,26,141,225,False
+Bradley Beal,4,1,54,0,Jump Shot,25,-211,141,False
+Bradley Beal,1,8,6,0,Jump Shot,22,-226,-5,False
+Bradley Beal,2,6,38,0,Jump Shot,24,204,134,False
+Bradley Beal,1,4,24,1,Jump Shot,25,226,120,False
+Bradley Beal,4,3,52,0,Jump Shot,9,79,58,True
+Bradley Beal,1,8,24,0,Jump Shot,25,-172,193,False
+Bradley Beal,3,2,46,1,Jump Shot,18,-18,183,True
+Bradley Beal,2,1,48,0,Jump Shot,25,50,246,False
+Bradley Beal,4,3,38,0,Jump Shot,30,170,256,False
+Bradley Beal,3,2,24,0,Jump Shot,26,172,197,False
+Bradley Beal,4,9,27,1,Jump Shot,26,-1,269,False
+Bradley Beal,3,8,8,1,Jump Shot,26,-145,218,False
+Bradley Beal,2,0,0,0,Jump Shot,15,156,0,True
+Bradley Beal,3,2,57,1,Jump Shot,22,225,44,False
+Bradley Beal,2,1,19,1,Jump Shot,26,145,224,False
+Bradley Beal,2,6,41,1,Jump Shot,16,-5,161,True
+Bradley Beal,3,9,31,1,Jump Shot,26,-172,195,False
+Bradley Beal,2,4,33,0,Jump Shot,4,20,41,True
+Bradley Beal,4,5,30,0,Jump Shot,25,-131,216,False
+Bradley Beal,4,1,21,0,Jump Shot,25,-62,251,False
+Bradley Beal,1,5,53,0,Jump Shot,25,-174,188,False
+Bradley Beal,1,8,22,0,Jump Shot,24,-39,244,False
+Bradley Beal,4,6,28,1,Jump Shot,10,100,40,True
+Bradley Beal,3,6,43,1,Jump Shot,26,132,235,False
+Bradley Beal,4,1,23,0,Jump Shot,26,-87,247,False
+Bradley Beal,4,0,1,0,Jump Shot,25,145,214,False
+Bradley Beal,3,6,35,0,Jump Shot,16,118,110,True
+Bradley Beal,4,9,31,0,Jump Shot,14,146,23,True
+Bradley Beal,2,0,45,0,Jump Shot,25,-63,251,False
+Bradley Beal,2,2,32,0,Jump Shot,11,-44,110,True
+Bradley Beal,1,6,17,0,Jump Shot,29,-138,256,False
+Bradley Beal,2,1,58,0,Jump Shot,24,-157,187,False
+Bradley Beal,3,10,4,0,Jump Shot,24,95,228,False
+Bradley Beal,1,1,4,0,Jump Shot,25,127,221,False
+Bradley Beal,1,5,39,0,Jump Shot,26,-189,184,False
+Bradley Beal,1,7,11,0,Jump Shot,21,158,139,True
+Bradley Beal,1,9,20,0,Jump Shot,25,199,164,False
+Bradley Beal,2,3,4,0,Jump Shot,24,-20,246,False
+Bradley Beal,3,0,6,1,Jump Shot,20,-64,192,True
+Bradley Beal,1,3,41,0,Jump Shot,24,223,105,False
+Bradley Beal,1,3,29,0,Jump Shot,25,-124,225,False
+Bradley Beal,2,5,39,0,Jump Shot,25,128,217,False
+Bradley Beal,1,10,47,0,Jump Shot,24,151,197,False
+Bradley Beal,3,3,51,1,Jump Shot,26,-125,230,False
+Bradley Beal,1,2,58,0,Jump Shot,15,-117,102,True
+Bradley Beal,1,5,51,1,Jump Shot,24,171,180,False
+Bradley Beal,1,8,22,0,Jump Shot,25,109,226,False
+Bradley Beal,4,1,58,1,Jump Shot,24,-184,164,False
+Bradley Beal,4,2,58,1,Jump Shot,26,-47,256,False
+Bradley Beal,4,2,17,0,Jump Shot,4,5,40,True
+Bradley Beal,1,3,32,0,Jump Shot,18,-82,168,True
+Bradley Beal,3,3,35,1,Jump Shot,25,-179,183,False
+Bradley Beal,2,3,28,0,Jump Shot,23,233,26,False
+Bradley Beal,2,0,33,1,Jump Shot,17,79,157,True
+Bradley Beal,3,7,51,0,Jump Shot,13,45,127,True
+Bradley Beal,1,9,58,1,Jump Shot,17,149,90,True
+Bradley Beal,3,4,51,0,Jump Shot,13,134,10,True
+Bradley Beal,4,1,7,0,Jump Shot,24,67,238,False
+Bradley Beal,2,4,6,0,Jump Shot,24,-195,152,False
+Bradley Beal,3,3,53,0,Jump Shot,26,-202,175,False
+Bradley Beal,4,5,33,0,Jump Shot,28,-137,246,False
+Bradley Beal,4,0,3,0,Jump Shot,26,-111,239,False
+Bradley Beal,3,5,31,1,Jump Shot,20,98,176,True
+Bradley Beal,3,10,11,0,Jump Shot,6,13,61,True
+Bradley Beal,3,6,16,1,Jump Shot,26,-217,145,False
+Bradley Beal,1,10,12,0,Jump Shot,26,-183,194,False
+Bradley Beal,1,2,38,1,Jump Shot,27,-116,250,False
+Bradley Beal,4,3,59,0,Jump Shot,25,19,251,False
+Bradley Beal,4,4,32,1,Jump Shot,25,-84,242,False
+Bradley Beal,1,7,21,0,Jump Shot,23,-232,47,False
+Bradley Beal,1,8,59,1,Jump Shot,22,-228,-10,False
+Bradley Beal,2,3,26,1,Jump Shot,25,201,159,False
+Bradley Beal,3,4,49,1,Jump Shot,15,-19,158,True
+Bradley Beal,2,4,50,0,Jump Shot,26,-212,153,False
+Bradley Beal,4,6,30,1,Jump Shot,23,-237,22,False
+Bradley Beal,4,0,2,0,Jump Shot,16,-54,157,True
+Bradley Beal,5,4,46,0,Jump Shot,17,24,169,True
+Bradley Beal,4,5,25,0,Jump Shot,28,-155,237,False
+Bradley Beal,4,0,0,0,Jump Shot,14,-138,42,True
+Bradley Beal,1,4,16,0,Jump Shot,25,-222,120,False
+Bradley Beal,1,3,6,0,Jump Shot,17,98,148,True
+Bradley Beal,2,0,33,0,Jump Shot,4,-5,47,True
+Bradley Beal,1,11,36,0,Jump Shot,20,-3,206,True
+Bradley Beal,3,7,29,0,Jump Shot,21,-191,96,True
+Bradley Beal,3,9,21,1,Jump Shot,17,96,146,True
+Bradley Beal,4,7,6,0,Jump Shot,28,-175,221,False
+Bradley Beal,4,5,11,1,Jump Shot,28,-139,246,False
+Bradley Beal,3,10,57,1,Jump Shot,26,-202,164,False
+Bradley Beal,2,5,32,0,Jump Shot,8,50,66,True
+Bradley Beal,2,2,6,0,Jump Shot,27,2,276,False
+Bradley Beal,3,0,36,1,Jump Shot,27,3,275,False
+Bradley Beal,3,5,37,0,Jump Shot,25,139,211,False
+Bradley Beal,4,7,42,0,Jump Shot,23,226,46,False
+Bradley Beal,4,2,32,0,Jump Shot,15,67,139,True
+Bradley Beal,1,8,7,0,Jump Shot,26,-169,206,False
+Bradley Beal,3,3,44,0,Jump Shot,25,175,185,False
+Bradley Beal,1,7,9,1,Jump Shot,16,-108,131,True
+Bradley Beal,3,2,53,0,Jump Shot,16,136,85,True
+Bradley Beal,4,0,31,0,Jump Shot,28,-155,245,False
+Bradley Beal,1,5,59,0,Jump Shot,18,97,158,True
+Bradley Beal,3,3,23,1,Jump Shot,26,-154,210,False
+Bradley Beal,2,2,13,1,Jump Shot,25,62,247,False
+Bradley Beal,1,3,49,0,Jump Shot,25,203,157,False
+Bradley Beal,2,6,26,1,Jump Shot,25,-135,214,False
+Bradley Beal,4,3,23,1,Jump Shot,25,-98,234,False
+Bradley Beal,2,1,34,0,Jump Shot,25,-169,187,False
+Bradley Beal,3,8,43,1,Jump Shot,26,122,238,False
+Bradley Beal,3,10,57,0,Jump Shot,26,89,248,False
+Bradley Beal,4,4,58,0,Jump Shot,26,-19,264,False
+Bradley Beal,4,5,48,1,Jump Shot,15,51,142,True
+Bradley Beal,4,1,42,0,Jump Shot,25,-162,193,False
+Bradley Beal,3,1,39,0,Jump Shot,18,101,153,True
+Bradley Beal,2,6,32,0,Jump Shot,27,72,261,False
+Bradley Beal,1,10,36,1,Jump Shot,25,212,141,False
+Bradley Beal,3,7,43,0,Jump Shot,27,-175,212,False
+Bradley Beal,1,2,28,0,Jump Shot,26,-98,247,False
+Bradley Beal,2,4,47,0,Jump Shot,24,-14,248,False
+Bradley Beal,4,7,35,1,Jump Shot,24,146,201,False
+Bradley Beal,1,9,40,0,Jump Shot,22,225,29,False
+Bradley Beal,4,0,0,0,Jump Shot,25,-232,106,False
+Bradley Beal,3,1,38,0,Jump Shot,22,-223,15,False
+Bradley Beal,3,1,8,0,Jump Shot,20,-168,125,True
+Bradley Beal,2,4,22,1,Jump Shot,21,78,195,True
+Bradley Beal,1,5,7,0,Jump Shot,24,-171,182,False
+Bradley Beal,1,9,32,1,Jump Shot,27,-59,266,False
+Bradley Beal,4,0,59,1,Jump Shot,26,220,142,False
+Bradley Beal,1,8,59,0,Jump Shot,22,-225,36,False
+Bradley Beal,4,5,30,1,Jump Shot,10,100,8,True
+Bradley Beal,4,11,15,0,Jump Shot,25,214,140,False
+Bradley Beal,2,4,15,0,Jump Shot,14,-114,89,True
+Bradley Beal,4,4,26,0,Jump Shot,29,-185,230,False
+Bradley Beal,5,0,38,0,Jump Shot,24,225,106,False
+Bradley Beal,2,0,31,0,Jump Shot,26,-102,242,False
+Bradley Beal,1,8,45,0,Jump Shot,26,140,222,False
+Bradley Beal,3,5,29,0,Jump Shot,18,150,110,True
+Bradley Beal,1,2,52,0,Jump Shot,26,186,192,False
+Bradley Beal,4,5,18,1,Jump Shot,26,-167,205,False
+Bradley Beal,2,2,44,0,Jump Shot,25,92,241,False
+Bradley Beal,2,5,27,0,Jump Shot,27,138,238,False
+Bradley Beal,2,5,27,1,Jump Shot,25,164,200,False
+Bradley Beal,1,11,21,0,Jump Shot,22,-228,21,False
+Bradley Beal,1,8,39,1,Jump Shot,24,195,149,False
+Bradley Beal,1,5,51,1,Jump Shot,25,108,236,False
+Bradley Beal,3,4,53,1,Jump Shot,25,-229,118,False
+Bradley Beal,1,9,18,0,Jump Shot,11,39,109,True
+Bradley Beal,1,10,2,0,Jump Shot,23,234,27,False
+Bradley Beal,1,6,14,1,Jump Shot,26,-98,241,False
+Bradley Beal,3,10,1,1,Jump Shot,23,-232,23,False
+Bradley Beal,3,9,14,1,Jump Shot,12,-29,117,True
+Bradley Beal,4,8,46,0,Jump Shot,25,143,211,False
+Bradley Beal,2,1,8,1,Jump Shot,15,-111,105,True
+Bradley Beal,2,0,0,1,Jump Shot,23,-223,62,False
+Bradley Beal,1,8,30,0,Jump Shot,25,-118,231,False
+Bradley Beal,1,2,50,1,Jump Shot,27,138,239,False
+Bradley Beal,2,4,21,0,Jump Shot,5,-4,57,True
+Bradley Beal,1,11,15,0,Jump Shot,16,-127,111,True
+Bradley Beal,4,10,51,1,Jump Shot,24,224,111,False
+Bradley Beal,4,6,28,0,Jump Shot,26,-239,107,False
+Bradley Beal,2,0,23,0,Jump Shot,9,-49,85,True
+Bradley Beal,1,7,6,1,Jump Shot,19,-108,161,True
+Bradley Beal,1,6,3,0,Jump Shot,17,-90,148,True
+Bradley Beal,3,10,33,0,Jump Shot,18,149,115,True
+Bradley Beal,1,5,15,0,Jump Shot,25,36,257,False
+Bradley Beal,3,8,24,0,Jump Shot,18,-165,79,True
+Bradley Beal,2,0,47,0,Jump Shot,26,149,222,False
+Bradley Beal,2,5,56,1,Jump Shot,23,-233,21,False
+Bradley Beal,3,2,2,0,Jump Shot,28,-121,257,False
+Bradley Beal,2,2,3,1,Jump Shot,25,110,227,False
+Bradley Beal,1,0,50,0,Jump Shot,10,32,96,True
+Bradley Beal,3,6,38,1,Jump Shot,25,-61,247,False
+Bradley Beal,4,1,28,0,Jump Shot,25,-166,194,False
+Bradley Beal,3,11,18,0,Jump Shot,23,-230,10,False
+Bradley Beal,1,9,3,1,Jump Shot,25,166,191,False
+Bradley Beal,3,10,6,1,Jump Shot,24,-68,235,False
+Bradley Beal,1,5,5,0,Jump Shot,25,-172,191,False
+Bradley Beal,3,3,21,0,Jump Shot,22,-225,47,False
+Bradley Beal,4,5,1,0,Jump Shot,24,165,185,False
+Bradley Beal,2,0,1,0,Jump Shot,19,187,69,True
+Bradley Beal,4,7,30,1,Jump Shot,26,-166,202,False
+Bradley Beal,1,9,44,0,Jump Shot,17,79,151,True
+Bradley Beal,4,1,34,0,Jump Shot,24,65,238,False
+Bradley Beal,1,0,32,1,Jump Shot,27,111,250,False
+Bradley Beal,1,8,12,0,Jump Shot,25,-2,251,False
+Bradley Beal,2,0,56,0,Jump Shot,24,-213,118,False
+Bradley Beal,4,6,4,0,Jump Shot,24,172,175,False
+Bradley Beal,1,3,55,1,Jump Shot,15,-68,141,True
+Bradley Beal,1,10,53,1,Jump Shot,16,62,151,True
+Bradley Beal,1,9,49,1,Jump Shot,27,-106,250,False
+Bradley Beal,4,4,38,0,Jump Shot,25,-166,196,False
+Bradley Beal,3,7,8,0,Jump Shot,25,31,257,False
+Bradley Beal,1,4,50,1,Jump Shot,15,-147,31,True
+Bradley Beal,3,1,0,0,Jump Shot,11,-100,58,True
+Bradley Beal,5,0,47,0,Jump Shot,25,-18,259,False
+Bradley Beal,2,3,24,0,Jump Shot,24,-9,249,False
+Bradley Beal,3,3,28,1,Jump Shot,27,30,269,False
+Bradley Beal,3,8,32,1,Jump Shot,25,-221,121,False
+Bradley Beal,4,2,56,1,Jump Shot,26,-90,251,False
+Bradley Beal,4,4,11,1,Jump Shot,25,103,234,False
+Bradley Beal,3,5,29,1,Jump Shot,27,-180,209,False
+Bradley Beal,1,7,10,0,Jump Shot,25,129,216,False
+Bradley Beal,2,6,52,0,Jump Shot,24,-228,88,False
+Bradley Beal,4,11,19,0,Jump Shot,24,-234,72,False
+Bradley Beal,1,4,49,0,Jump Shot,25,6,252,False
+Bradley Beal,4,6,35,0,Jump Shot,23,-221,77,False
+Bradley Beal,4,0,1,0,Jump Shot,23,230,34,False
+Bradley Beal,3,9,10,0,Jump Shot,26,-113,242,False
+Bradley Beal,3,9,11,0,Jump Shot,24,171,180,False
+Bradley Beal,4,9,38,0,Jump Shot,27,-183,205,False
+Bradley Beal,1,8,28,0,Jump Shot,21,-199,84,True
+Bradley Beal,2,5,4,1,Jump Shot,24,-150,198,False
+Bradley Beal,3,11,3,0,Jump Shot,24,120,218,False
+Bradley Beal,1,4,22,1,Jump Shot,25,122,229,False
+Bradley Beal,1,0,29,0,Jump Shot,27,-156,226,False
+Bradley Beal,1,5,19,0,Jump Shot,25,-152,203,False
+Bradley Beal,1,10,45,0,Jump Shot,22,-226,26,False
+Bradley Beal,3,8,28,0,Jump Shot,22,-114,193,True
+Bradley Beal,2,5,52,1,Jump Shot,27,176,210,False
+Bradley Beal,2,5,20,0,Jump Shot,24,30,247,False
+Bradley Beal,2,4,33,0,Jump Shot,24,-179,170,False
+Bradley Beal,3,8,24,0,Jump Shot,25,123,227,False
+Bradley Beal,1,2,30,1,Jump Shot,15,-120,99,True
+Bradley Beal,3,5,23,0,Jump Shot,11,109,-16,True
+Bradley Beal,1,1,59,1,Jump Shot,15,-137,70,True
+Bradley Beal,1,7,59,0,Jump Shot,15,106,118,True
+Bradley Beal,1,8,2,0,Jump Shot,25,-103,236,False
+Bradley Beal,3,8,35,0,Jump Shot,28,110,266,False
+Bradley Beal,2,0,54,0,Jump Shot,25,-30,251,False
+Bradley Beal,3,8,18,0,Jump Shot,25,-133,215,False
+Bradley Beal,3,8,52,0,Jump Shot,18,161,95,True
+Bradley Beal,1,9,1,1,Jump Shot,25,-191,163,False
+Bradley Beal,2,5,53,0,Jump Shot,27,-88,265,False
+Bradley Beal,3,4,44,0,Jump Shot,25,-128,221,False
+Bradley Beal,4,7,20,0,Jump Shot,24,-60,236,False
+Bradley Beal,4,7,8,1,Jump Shot,19,-64,187,True
+Bradley Beal,3,5,24,0,Jump Shot,20,-26,206,True
+Bradley Beal,3,11,30,0,Jump Shot,25,54,250,False
+Bradley Beal,2,5,1,0,Jump Shot,25,155,197,False
+Bradley Beal,1,1,48,1,Jump Shot,22,-223,7,False
+Bradley Beal,3,6,9,1,Jump Shot,20,-65,198,True
+Bradley Beal,3,9,57,0,Jump Shot,25,111,227,False
+Bradley Beal,3,4,32,1,Jump Shot,22,225,-3,False
+Bradley Beal,1,9,8,0,Jump Shot,23,-232,-4,False
+Bradley Beal,4,8,59,0,Jump Shot,2,-15,24,True
+Bradley Beal,4,4,17,1,Jump Shot,24,-161,178,False
+Bradley Beal,4,4,54,0,Jump Shot,17,-60,167,True
+Bradley Beal,1,11,29,1,Jump Shot,25,-127,226,False
+Bradley Beal,3,0,0,0,Jump Shot,27,133,243,False
+Bradley Beal,4,6,6,1,Jump Shot,24,-178,167,False
+Bradley Beal,4,7,6,1,Jump Shot,22,-221,17,False
+Bradley Beal,2,2,35,0,Jump Shot,22,-226,26,False
+Bradley Beal,4,1,9,0,Jump Shot,27,155,226,False
+Bradley Beal,3,10,11,1,Jump Shot,26,99,247,False
+Bradley Beal,3,11,25,1,Jump Shot,25,132,216,False
+Bradley Beal,4,10,11,0,Jump Shot,23,-230,25,False
+Bradley Beal,3,5,5,1,Jump Shot,24,-195,155,False
+Bradley Beal,1,6,58,1,Jump Shot,25,121,222,False
+Bradley Beal,1,6,10,0,Jump Shot,25,-141,210,False
+Bradley Beal,4,5,13,0,Jump Shot,26,-65,252,False
+Bradley Beal,1,6,38,1,Jump Shot,14,-139,17,True
+Bradley Beal,1,8,20,0,Jump Shot,24,-211,129,False
+Bradley Beal,3,4,4,1,Jump Shot,25,190,168,False
+Bradley Beal,2,1,42,1,Jump Shot,22,228,9,False
+Bradley Beal,3,2,16,0,Jump Shot,20,-150,137,True
+Bradley Beal,1,11,6,1,Jump Shot,24,-134,210,False
+Bradley Beal,3,5,31,1,Jump Shot,29,-209,204,False
+Bradley Beal,2,3,45,0,Jump Shot,24,218,113,False
+Bradley Beal,4,0,59,0,Jump Shot,25,-23,254,False
+Bradley Beal,3,7,3,0,Jump Shot,11,-93,70,True
+Bradley Beal,1,4,1,1,Jump Shot,24,-173,177,False
+Bradley Beal,2,3,13,1,Jump Shot,25,-156,200,False
+Bradley Beal,1,2,17,0,Jump Shot,20,-74,187,True
+Bradley Beal,3,4,3,0,Jump Shot,18,37,178,True
+Bradley Beal,1,5,31,1,Jump Shot,24,-141,201,False
+Bradley Beal,3,2,22,1,Jump Shot,15,38,155,True
+Bradley Beal,3,1,55,0,Jump Shot,26,133,225,False
+Bradley Beal,3,5,0,0,Jump Shot,14,-19,142,True
+Bradley Beal,1,6,27,1,Jump Shot,24,-157,190,False
+Bradley Beal,2,1,54,0,Jump Shot,24,-189,161,False
+Bradley Beal,1,8,29,0,Jump Shot,20,-38,197,True
+Bradley Beal,4,6,10,0,Jump Shot,24,225,100,False
+Bradley Beal,3,0,56,0,Jump Shot,25,-223,121,False
+Bradley Beal,3,10,24,1,Jump Shot,24,-106,224,False
+Bradley Beal,3,2,47,0,Jump Shot,25,158,198,False
+Bradley Beal,3,11,3,1,Jump Shot,25,-184,183,False
+Bradley Beal,4,1,6,0,Jump Shot,19,-38,190,True
+Bradley Beal,5,1,32,0,Jump Shot,25,86,243,False
+Bradley Beal,3,1,42,1,Jump Shot,25,-165,197,False
+Bradley Beal,1,7,27,1,Jump Shot,26,-172,206,False
+Bradley Beal,4,0,20,1,Jump Shot,25,-209,141,False
+Bradley Beal,5,3,26,1,Jump Shot,25,205,159,False
+Bradley Beal,4,8,57,1,Jump Shot,25,217,134,False
+Bradley Beal,4,4,44,0,Jump Shot,25,-89,241,False
+Bradley Beal,1,10,15,0,Jump Shot,27,112,246,False
+Bradley Beal,1,5,57,1,Jump Shot,26,-42,261,False
+Bradley Beal,1,7,28,1,Jump Shot,26,-20,263,False
+Bradley Beal,3,10,3,1,Jump Shot,25,-228,120,False
+Bradley Beal,3,7,50,1,Jump Shot,27,152,224,False
+Bradley Beal,4,6,39,0,Jump Shot,28,92,268,False
+Bradley Beal,4,1,21,0,Jump Shot,27,106,252,False
+Bradley Beal,1,11,39,1,Jump Shot,17,166,42,True
+Bradley Beal,3,9,23,1,Jump Shot,21,-71,208,True
+Bradley Beal,4,4,26,0,Jump Shot,20,87,182,True
+Bradley Beal,4,0,28,0,Jump Shot,24,-220,104,False
+Bradley Beal,4,6,24,0,Jump Shot,25,210,138,False
+Bradley Beal,3,9,40,0,Jump Shot,25,169,188,False
+Bradley Beal,4,0,25,0,Jump Shot,21,-195,90,True
+Bradley Beal,3,5,47,1,Jump Shot,18,-122,139,True
+Bradley Beal,3,7,43,0,Jump Shot,25,-116,226,False
+Bradley Beal,1,4,53,1,Jump Shot,23,-234,-5,False
+Bradley Beal,4,8,16,0,Jump Shot,25,-138,218,False
+Bradley Beal,1,4,6,1,Jump Shot,26,-65,252,False
+Bradley Beal,3,3,10,1,Jump Shot,10,93,43,True
+Bradley Beal,3,7,17,0,Jump Shot,25,-131,224,False
+Bradley Beal,3,3,48,1,Jump Shot,25,212,138,False
+Bradley Beal,3,10,37,1,Jump Shot,25,-102,230,False
+Bradley Beal,4,6,25,0,Jump Shot,25,-119,224,False
+Bradley Beal,3,1,40,1,Jump Shot,26,-119,234,False
+Bradley Beal,3,2,28,1,Jump Shot,25,-31,258,False
+Bradley Beal,4,2,13,0,Jump Shot,26,-140,229,False
+Bradley Beal,2,0,45,0,Jump Shot,26,-217,153,False
+Bradley Beal,4,4,45,0,Jump Shot,26,138,229,False
+Bradley Beal,1,8,49,0,Jump Shot,23,-226,76,False
+Bradley Beal,3,9,21,0,Jump Shot,26,-67,255,False
+Bradley Beal,1,1,46,0,Jump Shot,24,-151,193,False
+Bradley Beal,2,6,4,1,Jump Shot,26,-203,163,False
+Bradley Beal,4,6,19,0,Jump Shot,25,170,190,False
+Bradley Beal,1,5,59,1,Jump Shot,25,-127,226,False
+Bradley Beal,3,2,43,0,Jump Shot,16,111,122,True
+Bradley Beal,2,4,42,1,Jump Shot,16,8,164,True
+Bradley Beal,2,0,3,0,Jump Shot,30,-169,257,False
+Bradley Beal,2,2,33,0,Jump Shot,25,232,100,False
+Bradley Beal,4,1,51,1,Jump Shot,26,-16,261,False
+Bradley Beal,1,5,42,1,Jump Shot,24,112,221,False
+Bradley Beal,3,4,20,0,Jump Shot,28,151,239,False
+Bradley Beal,3,6,19,0,Jump Shot,25,193,162,False
+Bradley Beal,2,5,6,0,Jump Shot,15,-147,62,True
+Bradley Beal,4,5,26,1,Jump Shot,26,-212,151,False
+Bradley Beal,1,9,12,0,Jump Shot,25,-60,244,False
+Bradley Beal,3,0,51,1,Jump Shot,25,-168,195,False
+Bradley Beal,1,5,22,1,Jump Shot,24,-188,152,False
+Bradley Beal,1,10,7,0,Jump Shot,15,-96,123,True
+Bradley Beal,3,0,36,0,Jump Shot,20,100,184,True
+Bradley Beal,4,2,14,1,Jump Shot,26,123,240,False
+Bradley Beal,1,11,16,0,Jump Shot,25,96,232,False
+Bradley Beal,4,5,29,0,Jump Shot,25,-124,218,False
+Bradley Beal,3,10,43,0,Jump Shot,11,-51,98,True
+Bradley Beal,4,4,25,1,Jump Shot,28,141,253,False
+Bradley Beal,1,7,24,1,Jump Shot,25,204,160,False
+Bradley Beal,1,3,49,0,Jump Shot,7,54,51,True
+Bradley Beal,4,1,45,0,Jump Shot,25,215,137,False
+Bradley Beal,4,5,18,1,Jump Shot,13,28,132,True
+Bradley Beal,4,5,6,0,Jump Shot,25,-183,178,False
+Bradley Beal,2,4,29,0,Jump Shot,24,198,143,False
+Bradley Beal,1,2,36,0,Jump Shot,23,230,-10,False
+Bradley Beal,1,10,49,0,Jump Shot,25,-139,211,False
+Bradley Beal,3,2,20,1,Jump Shot,23,231,13,False
+Bradley Beal,1,7,26,1,Jump Shot,25,76,245,False
+Bradley Beal,1,3,35,0,Jump Shot,26,-131,228,False
+Bradley Beal,1,9,8,1,Jump Shot,12,-111,55,True
+Bradley Beal,4,4,2,0,Jump Shot,26,111,243,False
+Bradley Beal,3,3,29,0,Jump Shot,27,-58,271,False
+Bradley Beal,2,5,30,0,Jump Shot,24,183,165,False
+Bradley Beal,1,3,46,1,Jump Shot,20,-128,157,True
+Bradley Beal,3,0,45,0,Jump Shot,25,205,157,False
+Bradley Beal,4,2,22,1,Jump Shot,23,-221,93,False
+Bradley Beal,1,10,21,0,Jump Shot,23,-231,27,False
+Bradley Beal,2,4,9,0,Jump Shot,25,-160,193,False
+Bradley Beal,4,5,21,1,Jump Shot,25,-93,236,False
+Bradley Beal,3,8,33,1,Jump Shot,26,-131,226,False
+Bradley Beal,1,9,21,1,Jump Shot,19,167,105,True
+Bradley Beal,1,8,21,0,Jump Shot,14,-147,15,True
+Bradley Beal,4,3,21,1,Jump Shot,26,218,148,False
+Bradley Beal,3,1,34,1,Jump Shot,26,-193,184,False
+Bradley Beal,1,8,5,0,Jump Shot,24,233,63,False
+Bradley Beal,3,1,2,1,Jump Shot,27,133,236,False
+Bradley Beal,1,5,56,0,Jump Shot,26,127,230,False
+Bradley Beal,1,7,54,0,Jump Shot,24,224,104,False
+Bradley Beal,3,8,37,1,Jump Shot,24,-134,205,False
+Bradley Beal,1,5,26,0,Jump Shot,27,-212,175,False
+Bradley Beal,3,4,4,1,Jump Shot,26,143,221,False
+Bradley Beal,2,8,24,0,Jump Shot,20,-33,200,True
+Bradley Beal,3,7,54,0,Jump Shot,26,186,185,False
+Bradley Beal,3,5,10,1,Jump Shot,23,-228,43,False
+Bradley Beal,2,5,5,1,Jump Shot,26,-188,190,False
+Bradley Beal,2,2,42,0,Jump Shot,18,77,168,True
+Bradley Beal,2,0,21,0,Jump Shot,26,177,199,False
+Bradley Beal,4,2,9,0,Jump Shot,26,161,208,False
+Bradley Beal,1,5,25,0,Jump Shot,25,96,240,False
+Bradley Beal,3,5,9,1,Layup Shot,2,13,21,True
+Bradley Beal,3,3,40,0,Layup Shot,7,30,72,True
+Bradley Beal,5,2,47,0,Layup Shot,2,4,26,True
+Bradley Beal,2,3,8,0,Layup Shot,1,11,16,True
+Bradley Beal,3,9,33,1,Layup Shot,3,16,27,True
+Bradley Beal,3,5,53,1,Layup Shot,1,-11,0,True
+Bradley Beal,2,0,2,1,Layup Shot,2,-15,14,True
+Bradley Beal,1,4,30,0,Layup Shot,3,-30,16,True
+Bradley Beal,2,8,27,0,Layup Shot,1,-12,0,True
+Bradley Beal,1,10,27,1,Layup Shot,0,6,-1,True
+Bradley Beal,3,7,34,0,Layup Shot,4,-1,42,True
+Bradley Beal,1,1,31,0,Layup Shot,9,-46,85,True
+Bradley Beal,2,1,18,0,Layup Shot,4,-13,42,True
+Bradley Beal,1,1,20,1,Layup Shot,5,-1,54,True
+Bradley Beal,1,1,27,0,Layup Shot,1,-6,10,True
+Bradley Beal,1,2,57,0,Layup Shot,1,13,5,True
+Bradley Beal,1,10,6,0,Layup Shot,2,3,21,True
+Bradley Beal,1,7,41,0,Layup Shot,2,10,26,True
+Bradley Beal,4,4,11,1,Layup Shot,0,6,7,True
+Bradley Beal,2,5,11,1,Layup Shot,3,27,16,True
+Bradley Beal,3,2,37,1,Layup Shot,1,-17,7,True
+Bradley Beal,4,2,1,0,Layup Shot,4,4,42,True
+Bradley Beal,3,8,17,0,Layup Shot,1,-2,12,True
+Bradley Beal,1,10,49,1,Layup Shot,4,6,47,True
+Bradley Beal,1,4,46,1,Layup Shot,1,7,8,True
+Bradley Beal,2,3,33,0,Layup Shot,1,-9,16,True
+Bradley Beal,2,2,18,0,Layup Shot,3,-7,32,True
+Bradley Beal,4,3,5,0,Layup Shot,7,-49,55,True
+Bradley Beal,1,10,25,0,Layup Shot,2,-20,13,True
+Bradley Beal,3,7,29,1,Layup Shot,1,12,3,True
+Bradley Beal,1,5,30,0,Layup Shot,1,4,15,True
+Bradley Beal,3,6,13,0,Layup Shot,4,41,1,True
+Bradley Beal,2,0,0,1,Layup Shot,2,-21,17,True
+Bradley Beal,1,6,47,1,Layup Shot,1,16,1,True
+Bradley Beal,2,2,51,1,Layup Shot,0,-3,1,True
+Bradley Beal,4,0,56,1,Layup Shot,2,11,17,True
+Bradley Beal,1,2,2,1,Layup Shot,1,6,13,True
+Bradley Beal,3,2,45,0,Layup Shot,3,29,18,True
+Bradley Beal,1,7,45,1,Layup Shot,0,7,6,True
+Bradley Beal,3,10,27,0,Layup Shot,2,6,20,True
+Bradley Beal,1,6,4,0,Layup Shot,0,-2,1,True
+Bradley Beal,1,8,44,1,Layup Shot,1,6,17,True
+Bradley Beal,3,7,9,1,Layup Shot,3,-24,30,True
+Bradley Beal,3,5,3,0,Layup Shot,1,-8,8,True
+Bradley Beal,1,7,38,1,Layup Shot,0,8,4,True
+Bradley Beal,4,9,35,1,Layup Shot,1,14,13,True
+Bradley Beal,3,8,51,1,Pullup Jump shot,21,100,193,True
+Bradley Beal,3,9,45,0,Pullup Jump shot,21,25,209,True
+Bradley Beal,2,2,12,0,Pullup Jump shot,25,-44,255,False
+Bradley Beal,2,4,30,0,Pullup Jump shot,10,3,108,True
+Bradley Beal,2,2,39,1,Pullup Jump shot,20,103,177,True
+Bradley Beal,3,0,30,0,Pullup Jump shot,19,-39,189,True
+Bradley Beal,1,0,11,1,Pullup Jump shot,16,161,32,True
+Bradley Beal,1,3,15,0,Pullup Jump shot,18,-108,153,True
+Bradley Beal,4,7,9,1,Pullup Jump shot,24,82,233,False
+Bradley Beal,2,0,2,1,Pullup Jump shot,17,110,141,True
+Bradley Beal,4,10,10,0,Pullup Jump shot,18,150,116,True
+Bradley Beal,2,9,58,1,Pullup Jump shot,18,-35,177,True
+Bradley Beal,4,9,17,0,Pullup Jump shot,14,102,100,True
+Bradley Beal,4,10,0,1,Pullup Jump shot,24,161,191,False
+Bradley Beal,2,2,28,1,Pullup Jump shot,21,-125,174,True
+Bradley Beal,1,8,5,0,Pullup Jump shot,8,-12,86,True
+Bradley Beal,2,2,51,0,Pullup Jump shot,17,122,125,True
+Bradley Beal,2,1,50,0,Pullup Jump shot,24,33,246,False
+Bradley Beal,3,10,37,1,Pullup Jump shot,26,149,222,False
+Bradley Beal,3,2,32,0,Pullup Jump shot,14,-39,142,True
+Bradley Beal,1,5,22,1,Pullup Jump shot,15,70,134,True
+Bradley Beal,3,8,22,0,Pullup Jump shot,16,69,146,True
+Bradley Beal,2,0,5,1,Pullup Jump shot,26,88,252,False
+Bradley Beal,3,4,37,0,Pullup Jump shot,19,120,158,True
+Bradley Beal,2,6,4,0,Pullup Jump shot,25,-154,204,False
+Bradley Beal,1,10,36,0,Pullup Jump shot,25,0,259,False
+Bradley Beal,3,9,1,0,Pullup Jump shot,27,-166,214,False
+Bradley Beal,4,7,24,0,Pullup Jump shot,13,134,0,True
+Bradley Beal,2,2,54,1,Pullup Jump shot,27,-183,200,False
+Bradley Beal,1,2,29,0,Pullup Jump shot,25,119,222,False
+Bradley Beal,1,3,36,1,Pullup Jump shot,25,123,227,False
+Bradley Beal,4,0,33,1,Pullup Jump shot,27,127,246,False
+Bradley Beal,2,2,12,1,Pullup Jump shot,19,-75,176,True
+Bradley Beal,1,9,56,0,Pullup Jump shot,25,-138,218,False
+Bradley Beal,3,4,47,1,Pullup Jump shot,17,-3,179,True
+Bradley Beal,1,4,5,1,Pullup Jump shot,17,-41,171,True
+Bradley Beal,1,7,59,1,Pullup Jump shot,19,-76,180,True
+Bradley Beal,1,6,54,1,Pullup Jump shot,25,-165,198,False
+Bradley Beal,3,10,11,0,Pullup Jump shot,17,-95,141,True
+Bradley Beal,3,2,43,1,Pullup Jump shot,21,101,185,True
+Bradley Beal,3,1,52,0,Pullup Jump shot,25,-46,253,False
+Bradley Beal,2,0,33,1,Pullup Jump shot,8,38,74,True
+Bradley Beal,3,4,25,1,Pullup Jump shot,17,-147,95,True
+Bradley Beal,4,8,55,0,Pullup Jump shot,19,98,171,True
+Bradley Beal,1,8,38,0,Pullup Jump shot,10,60,81,True
+Bradley Beal,1,11,12,1,Pullup Jump shot,17,-77,155,True
+Bradley Beal,4,11,30,1,Pullup Jump shot,19,5,192,True
+Bradley Beal,3,0,37,0,Pullup Jump shot,8,36,75,True
+Bradley Beal,3,2,53,0,Pullup Jump shot,26,-185,184,False
+Bradley Beal,4,1,40,0,Pullup Jump shot,26,-71,257,False
+Bradley Beal,3,7,0,0,Pullup Jump shot,26,-41,262,False
+Bradley Beal,3,4,6,0,Pullup Jump shot,19,100,166,True
+Bradley Beal,3,7,55,0,Pullup Jump shot,27,-84,260,False
+Bradley Beal,2,6,47,1,Pullup Jump shot,16,-122,107,True
+Bradley Beal,2,4,28,1,Pullup Jump shot,15,-138,68,True
+Bradley Beal,3,4,20,0,Pullup Jump shot,26,-152,220,False
+Bradley Beal,1,10,22,0,Pullup Jump shot,24,-130,205,False
+Bradley Beal,1,4,43,0,Pullup Jump shot,17,150,85,True
+Bradley Beal,4,7,6,1,Pullup Jump shot,25,-200,163,False
+Bradley Beal,3,10,33,0,Pullup Jump shot,26,112,236,False
+Bradley Beal,2,2,57,0,Pullup Jump shot,18,-120,139,True
+Bradley Beal,3,5,19,1,Pullup Jump shot,26,114,235,False
+Bradley Beal,1,3,17,1,Pullup Jump shot,18,83,167,True
+Bradley Beal,1,2,46,1,Pullup Jump shot,17,141,104,True
+Bradley Beal,3,6,10,0,Pullup Jump shot,14,65,129,True
+Bradley Beal,1,5,4,0,Pullup Jump shot,16,37,163,True
+Bradley Beal,1,9,19,0,Pullup Jump shot,24,207,131,False
+Bradley Beal,4,4,8,0,Pullup Jump shot,26,130,236,False
+Bradley Beal,3,4,53,0,Pullup Jump shot,25,-145,213,False
+Bradley Beal,2,3,38,0,Pullup Jump shot,19,-77,180,True
+Bradley Beal,4,11,46,1,Pullup Jump shot,20,-74,190,True
+Bradley Beal,3,5,57,0,Pullup Jump shot,23,76,219,True
+Bradley Beal,3,6,26,1,Pullup Jump shot,18,-29,185,True
+Bradley Beal,3,10,32,0,Pullup Jump shot,14,-8,146,True
+Bradley Beal,3,3,8,1,Pullup Jump shot,25,156,202,False
+Bradley Beal,3,7,36,0,Pullup Jump shot,25,138,214,False
+Bradley Beal,2,0,31,0,Pullup Jump shot,25,91,242,False
+Bradley Beal,1,0,4,0,Pullup Jump shot,21,123,180,True
+Bradley Beal,3,0,2,0,Pullup Jump shot,18,-126,134,True
+Bradley Beal,3,0,32,0,Pullup Jump shot,14,-87,111,True
+Bradley Beal,3,1,8,1,Pullup Jump shot,16,-151,68,True
+Bradley Beal,1,8,37,0,Pullup Jump shot,9,-77,58,True
+Bradley Beal,3,6,48,0,Pullup Jump shot,19,-68,179,True
+Bradley Beal,1,6,49,0,Pullup Jump shot,18,13,189,True
+Bradley Beal,2,3,14,1,Pullup Jump shot,11,7,114,True
+Bradley Beal,1,8,15,1,Pullup Jump shot,18,-136,125,True
+Bradley Beal,1,0,3,1,Pullup Jump shot,19,98,166,True
+Bradley Beal,1,2,57,1,Pullup Jump shot,5,-49,34,True
+Bradley Beal,3,9,15,1,Pullup Jump shot,20,46,203,True
+Bradley Beal,2,5,14,0,Pullup Jump shot,6,-18,58,True
+Bradley Beal,1,7,4,1,Pullup Jump shot,24,95,228,False
+Bradley Beal,1,2,0,0,Pullup Jump shot,26,-70,258,False
+Bradley Beal,1,6,7,0,Pullup Jump shot,18,108,147,True
+Bradley Beal,4,7,14,0,Pullup Jump shot,16,98,132,True
+Bradley Beal,2,5,24,0,Pullup Jump shot,16,131,96,True
+Bradley Beal,1,0,0,0,Pullup Jump shot,22,-149,168,True
+Bradley Beal,1,8,29,1,Pullup Jump shot,20,155,131,True
+Bradley Beal,1,8,56,0,Pullup Jump shot,20,-82,183,True
+Bradley Beal,3,6,27,0,Pullup Jump shot,24,58,240,False
+Bradley Beal,1,4,1,1,Pullup Jump shot,20,-19,204,True
+Bradley Beal,4,2,45,1,Pullup Jump shot,24,-100,222,False
+Bradley Beal,3,0,0,0,Pullup Jump shot,25,174,187,False
+Bradley Beal,3,8,10,0,Pullup Jump shot,26,-18,260,False
+Bradley Beal,3,4,31,0,Pullup Jump shot,24,-153,194,False
+Bradley Beal,5,3,54,1,Pullup Jump shot,18,123,134,True
+Bradley Beal,2,1,46,1,Pullup Jump shot,18,103,150,True
+Bradley Beal,1,4,26,1,Pullup Jump shot,20,-8,209,True
+Bradley Beal,3,6,53,0,Pullup Jump shot,25,-119,226,False
+Bradley Beal,1,7,57,1,Pullup Jump shot,20,-78,189,True
+Bradley Beal,2,4,5,0,Pullup Jump shot,25,138,209,False
+Bradley Beal,2,0,1,0,Pullup Jump shot,9,21,97,True
+Bradley Beal,2,4,31,1,Pullup Jump shot,14,-38,144,True
+Bradley Beal,3,10,12,1,Pullup Jump shot,18,169,86,True
+Bradley Beal,4,8,57,1,Pullup Jump shot,17,-25,173,True
+Bradley Beal,1,8,5,1,Pullup Jump shot,21,-31,215,True
+Bradley Beal,4,9,24,0,Pullup Jump shot,15,-36,146,True
+Bradley Beal,2,7,3,1,Pullup Jump shot,18,94,161,True
+Bradley Beal,1,2,7,1,Pullup Jump shot,17,-132,118,True
+Bradley Beal,2,8,17,1,Pullup Jump shot,12,2,127,True
+Bradley Beal,2,1,52,1,Pullup Jump shot,18,-188,-13,True
+Bradley Beal,3,1,13,0,Pullup Jump shot,20,-2,206,True
+Bradley Beal,1,2,29,0,Pullup Jump shot,15,-95,126,True
+Bradley Beal,4,7,5,0,Pullup Jump shot,23,228,62,False
+Bradley Beal,4,1,16,0,Pullup Jump shot,26,8,262,False
+Bradley Beal,3,8,11,1,Pullup Jump shot,17,120,122,True
+Bradley Beal,3,10,51,1,Pullup Jump shot,25,-105,229,False
+Bradley Beal,1,5,51,0,Pullup Jump shot,25,20,259,False
+Bradley Beal,3,9,22,1,Pullup Jump shot,25,-54,247,False
+Bradley Beal,3,0,35,1,Pullup Jump shot,15,87,124,True
+Bradley Beal,4,2,24,0,Pullup Jump shot,28,111,261,False
+Bradley Beal,2,3,47,0,Pullup Jump shot,15,152,-13,True
+Bradley Beal,1,5,28,0,Pullup Jump shot,26,-186,191,False
+Bradley Beal,3,7,2,0,Pullup Jump shot,20,84,188,True
+Bradley Beal,1,2,55,0,Pullup Jump shot,20,81,191,True
+Bradley Beal,2,1,3,0,Pullup Jump shot,25,160,202,False
+Bradley Beal,1,8,20,1,Pullup Jump shot,19,-82,176,True
+Bradley Beal,4,4,33,0,Pullup Jump shot,24,-26,247,False
+Bradley Beal,1,7,32,0,Pullup Jump shot,26,-134,229,False
+Bradley Beal,4,6,59,0,Pullup Jump shot,16,44,160,True
+Bradley Beal,4,7,34,1,Pullup Jump shot,10,96,34,True
+Bradley Beal,4,0,42,0,Pullup Jump shot,13,62,116,True
+Bradley Beal,1,2,54,1,Pullup Jump shot,22,127,182,True
+Bradley Beal,1,1,51,1,Pullup Jump shot,21,58,211,True
+Bradley Beal,1,5,36,0,Pullup Jump shot,16,23,164,True
+Bradley Beal,3,1,56,0,Pullup Jump shot,25,-158,194,False
+Bradley Beal,3,2,13,0,Pullup Jump shot,15,55,145,True
+Bradley Beal,1,3,56,1,Pullup Jump shot,20,-164,116,True
+Bradley Beal,1,1,13,1,Pullup Jump shot,17,60,167,True
+Bradley Beal,3,2,21,0,Pullup Jump shot,17,81,153,True
+Bradley Beal,3,0,19,1,Pullup Jump shot,26,13,262,False
+Bradley Beal,1,3,27,0,Pullup Jump shot,15,-24,155,True
+Bradley Beal,3,5,26,0,Pullup Jump shot,18,-51,179,True
+Bradley Beal,3,4,58,0,Pullup Jump shot,25,-165,200,False
+Bradley Beal,1,8,3,0,Pullup Jump shot,24,-85,231,False
+Bradley Beal,4,4,10,1,Pullup Jump shot,19,89,174,True
+Bradley Beal,4,3,43,0,Pullup Jump shot,26,0,263,False
+Bradley Beal,4,0,33,0,Pullup Jump shot,26,32,261,False
+Bradley Beal,2,0,36,0,Pullup Jump shot,9,5,92,True
+Bradley Beal,1,6,52,0,Pullup Jump shot,26,-144,227,False
+Bradley Beal,1,8,36,1,Pullup Jump shot,25,-117,232,False
+Bradley Beal,1,4,6,0,Pullup Jump shot,16,-158,53,True
+Bradley Beal,4,4,13,0,Pullup Jump shot,9,-5,95,True
+Bradley Beal,2,1,17,0,Pullup Jump shot,10,96,38,True
+Bradley Beal,1,0,39,0,Pullup Jump shot,15,-12,151,True
+Bradley Beal,2,10,33,1,Pullup Jump shot,25,160,194,False
+Bradley Beal,3,10,14,0,Pullup Jump shot,19,-44,189,True
+Bradley Beal,4,6,3,0,Pullup Jump shot,21,-25,216,True
+Bradley Beal,3,7,5,1,Pullup Jump shot,12,-106,58,True
+Bradley Beal,3,5,51,0,Pullup Jump shot,15,-127,82,True
+Bradley Beal,2,2,31,0,Pullup Jump shot,19,102,169,True
+Bradley Beal,3,8,37,0,Pullup Jump shot,27,-73,260,False
+Bradley Beal,1,6,42,0,Pullup Jump shot,16,-14,163,True
+Bradley Beal,2,0,32,0,Pullup Jump shot,14,-71,130,True
+Bradley Beal,2,4,13,0,Pullup Jump shot,16,-55,153,True
+Bradley Beal,4,7,27,0,Pullup Jump shot,9,-5,99,True
+Bradley Beal,4,1,15,1,Pullup Jump shot,19,91,168,True
+Bradley Beal,3,8,2,0,Pullup Jump shot,25,-6,256,False
+Bradley Beal,4,0,19,0,Pullup Jump shot,25,163,190,False
+Bradley Beal,4,4,38,0,Pullup Jump shot,16,-1,165,True
+Bradley Beal,3,8,53,1,Pullup Jump shot,19,49,190,True
+Bradley Beal,2,0,42,0,Pullup Jump shot,26,-106,241,False
+Bradley Beal,4,8,0,0,Pullup Jump shot,26,-123,231,False
+Bradley Beal,3,6,32,0,Pullup Jump shot,26,98,243,False
+Bradley Beal,2,3,50,0,Pullup Jump shot,17,100,147,True
+Bradley Beal,4,1,8,1,Pullup Jump shot,24,-155,190,False
+Bradley Beal,1,1,16,0,Pullup Jump shot,28,72,273,False
+Bradley Beal,1,3,1,0,Pullup Jump shot,18,70,167,True
+Bradley Beal,1,9,5,0,Pullup Jump shot,26,-93,248,False
+Bradley Beal,3,5,4,0,Pullup Jump shot,13,8,138,True
+Bradley Beal,2,4,36,0,Pullup Jump shot,18,120,137,True
+Bradley Beal,4,6,47,0,Pullup Jump shot,24,128,207,False
+Bradley Beal,1,8,0,1,Pullup Jump shot,19,-150,120,True
+Bradley Beal,4,2,57,0,Pullup Jump shot,13,-67,121,True
+Bradley Beal,1,0,57,0,Pullup Jump shot,21,65,200,True
+Bradley Beal,3,0,33,0,Pullup Jump shot,27,-159,228,False
+Bradley Beal,3,5,50,0,Pullup Jump shot,21,-104,188,True
+Bradley Beal,1,7,19,0,Pullup Jump shot,20,39,205,True
+Bradley Beal,2,5,0,1,Pullup Jump shot,11,96,56,True
+Bradley Beal,1,8,1,0,Pullup Jump shot,12,1,129,True
+Bradley Beal,4,0,40,0,Pullup Jump shot,14,-121,71,True
+Bradley Beal,4,4,4,0,Pullup Jump shot,12,-47,120,True
+Bradley Beal,3,3,9,1,Pullup Jump shot,15,22,157,True
+Bradley Beal,2,5,30,1,Pullup Jump shot,19,-96,166,True
+Bradley Beal,3,10,33,0,Pullup Jump shot,22,-88,202,True
+Bradley Beal,2,2,54,0,Pullup Jump shot,14,56,129,True
+Bradley Beal,3,8,29,0,Pullup Jump shot,20,43,202,True
+Bradley Beal,1,6,20,1,Pullup Jump shot,15,16,150,True
+Bradley Beal,3,6,30,0,Pullup Jump shot,25,120,221,False
+Bradley Beal,1,8,16,0,Pullup Jump shot,18,40,183,True
+Bradley Beal,3,10,40,1,Pullup Jump shot,20,-3,207,True
+Bradley Beal,1,9,47,1,Pullup Jump shot,21,133,167,True
+Bradley Beal,2,2,14,1,Pullup Jump shot,14,-8,142,True
+Bradley Beal,3,6,3,0,Pullup Jump shot,20,-97,179,True
+Bradley Beal,1,6,10,0,Pullup Jump shot,15,-27,155,True
+Bradley Beal,4,3,20,0,Pullup Jump shot,14,-113,93,True
+Bradley Beal,4,4,43,1,Pullup Jump shot,14,1,148,True
+Bradley Beal,4,1,24,0,Pullup Jump shot,16,-32,157,True
+Bradley Beal,3,0,35,0,Pullup Jump shot,26,82,251,False
+Bradley Beal,3,11,19,0,Pullup Jump shot,14,7,147,True
+Bradley Beal,1,3,52,1,Pullup Jump shot,26,131,225,False
+Bradley Beal,3,6,6,1,Pullup Jump shot,9,47,85,True
+Bradley Beal,3,7,24,0,Pullup Jump shot,26,-128,231,False
+Bradley Beal,4,5,25,1,Pullup Jump shot,17,-99,143,True
+Bradley Beal,3,0,2,0,Pullup Jump shot,12,117,53,True
+Bradley Beal,4,0,0,0,Pullup Jump shot,27,-30,269,False
+Bradley Beal,1,10,56,1,Pullup Jump shot,15,7,158,True
+Bradley Beal,4,0,6,0,Pullup Jump shot,15,-54,142,True
+Bradley Beal,1,5,14,1,Pullup Jump shot,18,-176,71,True
+Bradley Beal,1,0,17,0,Pullup Jump shot,25,-76,248,False
+Bradley Beal,2,1,16,1,Pullup Jump shot,15,-51,143,True
+Bradley Beal,4,2,30,1,Pullup Jump shot,14,-68,128,True
+Bradley Beal,1,0,0,0,Pullup Jump shot,24,-162,188,False
+Bradley Beal,4,2,53,0,Pullup Jump shot,26,-71,252,False
+Bradley Beal,1,4,37,1,Pullup Jump shot,16,-144,80,True
+Bradley Beal,1,5,8,1,Pullup Jump shot,25,159,195,False
+Bradley Beal,3,1,12,1,Pullup Jump shot,26,95,246,False
+Bradley Beal,3,7,24,1,Pullup Jump shot,15,87,130,True
+Bradley Beal,3,2,18,1,Pullup Jump shot,26,-90,252,False
+Bradley Beal,1,2,49,1,Pullup Jump shot,18,-98,162,True
+Bradley Beal,2,1,50,0,Pullup Jump shot,10,10,102,True
+Bradley Beal,2,6,20,0,Pullup Jump shot,8,64,57,True
+Bradley Beal,2,5,46,1,Pullup Jump shot,20,173,109,True
+Bradley Beal,3,9,21,1,Pullup Jump shot,19,-30,188,True
+Bradley Beal,3,8,16,1,Pullup Jump shot,17,47,168,True
+Bradley Beal,4,2,46,0,Pullup Jump shot,25,43,256,False
+Bradley Beal,3,0,0,0,Pullup Jump shot,35,176,311,False
+Bradley Beal,2,2,51,1,Pullup Jump shot,27,130,239,False
+Bradley Beal,3,7,56,1,Pullup Jump shot,28,-90,274,False
+Bradley Beal,3,0,31,0,Pullup Jump shot,26,-149,215,False
+Bradley Beal,1,10,11,1,Pullup Jump shot,13,133,31,True
+Bradley Beal,1,5,31,0,Pullup Jump shot,9,-35,90,True
+Bradley Beal,2,7,33,1,Pullup Jump shot,11,-23,111,True
+Bradley Beal,1,2,52,0,Pullup Jump shot,13,135,18,True
+Bradley Beal,1,5,51,1,Pullup Jump shot,17,-77,159,True
+Bradley Beal,2,3,34,0,Pullup Jump shot,25,178,178,False
+Bradley Beal,4,1,48,0,Pullup Jump shot,21,-61,206,True
+Bradley Beal,2,1,40,1,Pullup Jump shot,26,181,189,False
+Bradley Beal,2,3,39,1,Pullup Jump shot,2,28,10,True
+Bradley Beal,4,6,24,1,Pullup Jump shot,25,-16,257,False
+Bradley Beal,3,5,33,0,Pullup Jump shot,14,118,89,True
+Bradley Beal,3,3,23,1,Pullup Jump shot,16,78,141,True
+Bradley Beal,4,0,47,0,Pullup Jump shot,25,-149,210,False
+Bradley Beal,2,0,32,0,Pullup Jump shot,25,95,232,False
+Bradley Beal,4,2,5,1,Pullup Jump shot,14,-74,119,True
+Bradley Beal,3,3,56,1,Pullup Jump shot,29,110,276,False
+Bradley Beal,3,1,41,0,Pullup Jump shot,19,-44,195,True
+Bradley Beal,3,2,5,0,Pullup Jump shot,14,100,106,True
+Bradley Beal,4,3,29,0,Pullup Jump shot,12,52,109,True
+Bradley Beal,3,5,0,0,Pullup Jump shot,14,136,63,True
+Bradley Beal,1,6,37,1,Pullup Jump shot,25,122,224,False
+Bradley Beal,3,7,37,1,Pullup Jump shot,25,-133,215,False
+Bradley Beal,4,0,17,0,Pullup Jump shot,25,62,246,False
+Bradley Beal,4,7,6,1,Pullup Jump shot,15,149,41,True
+Bradley Beal,4,7,57,0,Pullup Jump shot,20,103,176,True
+Bradley Beal,2,0,12,1,Pullup Jump shot,25,-147,214,False
+Bradley Beal,4,0,31,1,Pullup Jump shot,25,-157,206,False
+Bradley Beal,1,7,14,1,Pullup Jump shot,15,20,153,True
+Bradley Beal,3,11,10,0,Pullup Jump shot,19,145,125,True
+Bradley Beal,3,7,56,1,Pullup Jump shot,25,-140,218,False
+Bradley Beal,1,9,10,0,Pullup Jump shot,18,143,117,True
+Bradley Beal,4,10,50,0,Pullup Jump shot,19,-109,161,True
+Bradley Beal,1,4,19,1,Pullup Jump shot,17,-71,165,True
+Bradley Beal,3,2,20,0,Pullup Jump shot,16,-2,166,True
+Bradley Beal,4,4,40,0,Pullup Jump shot,16,60,155,True
+Bradley Beal,4,0,46,0,Pullup Jump shot,20,94,178,True
+Bradley Beal,2,3,4,1,Pullup Jump shot,15,140,57,True
+Bradley Beal,2,6,45,0,Pullup Jump shot,17,79,159,True
+Bradley Beal,2,0,35,1,Pullup Jump shot,16,-81,143,True
+Bradley Beal,1,5,36,0,Pullup Jump shot,17,-67,157,True
+Bradley Beal,4,5,32,0,Pullup Jump shot,19,38,189,True
+Bradley Beal,2,3,33,1,Putback Layup Shot,0,0,-6,True
+Bradley Beal,2,0,9,1,Putback Layup Shot,2,-24,-4,True
+Bradley Beal,3,9,9,1,Putback Layup Shot,0,0,-6,True
+Bradley Beal,4,1,52,0,Reverse Layup Shot,4,47,8,True
+Bradley Beal,2,0,39,0,Reverse Layup Shot,1,8,9,True
+Bradley Beal,4,7,8,0,Reverse Layup Shot,2,1,26,True
+Bradley Beal,3,11,35,1,Running Alley Oop Layup Shot,1,6,14,True
+Bradley Beal,1,7,2,1,Running Dunk Shot,2,-22,5,True
+Bradley Beal,4,3,43,1,Running Dunk Shot,2,-6,20,True
+Bradley Beal,1,3,30,1,Running Dunk Shot,1,13,6,True
+Bradley Beal,2,2,12,1,Running Dunk Shot,0,-1,7,True
+Bradley Beal,3,0,0,1,Running Dunk Shot,1,7,13,True
+Bradley Beal,2,5,36,1,Running Dunk Shot,2,-5,21,True
+Bradley Beal,2,5,58,1,Running Dunk Shot,1,-3,10,True
+Bradley Beal,2,2,18,1,Running Dunk Shot,0,2,4,True
+Bradley Beal,1,2,23,0,Running Dunk Shot,2,-3,22,True
+Bradley Beal,4,3,8,1,Running Finger Roll Layup Shot,1,14,5,True
+Bradley Beal,1,6,6,1,Running Finger Roll Layup Shot,4,43,11,True
+Bradley Beal,2,4,45,1,Running Jump Shot,25,195,162,False
+Bradley Beal,2,0,1,0,Running Jump Shot,50,3,500,False
+Bradley Beal,2,0,28,0,Running Jump Shot,27,-134,236,False
+Bradley Beal,3,8,7,1,Running Jump Shot,23,-230,-7,False
+Bradley Beal,2,0,1,0,Running Jump Shot,2,22,6,True
+Bradley Beal,1,7,26,1,Running Layup Shot,2,18,15,True
+Bradley Beal,1,0,59,0,Running Layup Shot,1,-2,13,True
+Bradley Beal,2,0,53,1,Running Layup Shot,1,8,6,True
+Bradley Beal,2,4,34,0,Running Layup Shot,10,102,4,True
+Bradley Beal,4,4,34,1,Running Layup Shot,2,18,11,True
+Bradley Beal,3,6,56,1,Running Layup Shot,1,-19,-4,True
+Bradley Beal,3,8,54,1,Running Layup Shot,1,3,17,True
+Bradley Beal,3,10,23,1,Running Layup Shot,1,11,1,True
+Bradley Beal,2,3,37,0,Running Layup Shot,2,-24,9,True
+Bradley Beal,1,5,15,1,Running Layup Shot,1,-4,13,True
+Bradley Beal,2,4,24,1,Running Layup Shot,3,-29,17,True
+Bradley Beal,3,8,45,0,Running Layup Shot,1,-1,11,True
+Bradley Beal,3,5,13,0,Running Layup Shot,4,-27,31,True
+Bradley Beal,2,4,2,1,Running Layup Shot,1,13,12,True
+Bradley Beal,3,11,5,0,Running Layup Shot,3,-24,29,True
+Bradley Beal,1,11,9,0,Running Layup Shot,2,-27,1,True
+Bradley Beal,4,1,39,0,Running Pull-Up Jump Shot,4,5,40,True
+Bradley Beal,2,1,25,1,Running Pull-Up Jump Shot,24,114,217,False
+Bradley Beal,3,2,50,0,Running Pull-Up Jump Shot,22,0,224,True
+Bradley Beal,4,8,10,0,Running Pull-Up Jump Shot,27,185,200,False
+Bradley Beal,3,10,44,1,Running Pull-Up Jump Shot,12,12,126,True
+Bradley Beal,1,6,53,0,Running Pull-Up Jump Shot,24,107,221,False
+Bradley Beal,4,10,11,1,Step Back Bank Jump Shot,14,-115,81,True
+Bradley Beal,1,0,7,1,Step Back Bank Jump Shot,14,-122,82,True
+Bradley Beal,1,5,1,0,Step Back Jump shot,13,-139,6,True
+Bradley Beal,4,0,53,0,Step Back Jump shot,25,-117,227,False
+Bradley Beal,4,2,57,0,Step Back Jump shot,25,120,227,False
+Bradley Beal,1,8,22,0,Step Back Jump shot,21,116,180,True
+Bradley Beal,3,3,28,1,Step Back Jump shot,15,-107,111,True
+Bradley Beal,1,1,12,0,Step Back Jump shot,16,-18,162,True
+Bradley Beal,4,7,22,0,Step Back Jump shot,17,-161,62,True
+Bradley Beal,4,1,2,0,Step Back Jump shot,16,-157,55,True
+Bradley Beal,3,8,44,1,Step Back Jump shot,25,-95,234,False
+Bradley Beal,4,3,40,0,Step Back Jump shot,20,133,162,True
+Bradley Beal,1,4,30,1,Step Back Jump shot,12,120,26,True
+Bradley Beal,3,6,10,1,Step Back Jump shot,22,-141,175,True
+Bradley Beal,2,3,26,0,Step Back Jump shot,13,40,130,True
+Bradley Beal,1,3,30,1,Step Back Jump shot,20,24,202,True
+Bradley Beal,2,0,1,0,Step Back Jump shot,25,201,153,False
+Bradley Beal,3,7,4,1,Step Back Jump shot,18,148,117,True
+Bradley Beal,1,5,9,0,Step Back Jump shot,14,-66,132,True
+Bradley Beal,3,5,8,1,Step Back Jump shot,26,-155,209,False
+Bradley Beal,2,4,13,1,Step Back Jump shot,13,-131,25,True
+Bradley Beal,2,8,38,1,Step Back Jump shot,16,3,169,True
+Bradley Beal,3,3,33,0,Step Back Jump shot,19,-104,169,True
+Bradley Beal,3,11,20,0,Step Back Jump shot,19,-84,173,True
+Bradley Beal,1,7,35,0,Step Back Jump shot,25,-193,172,False
+Bradley Beal,3,1,44,1,Step Back Jump shot,16,-25,168,True
+Bradley Beal,4,1,31,1,Step Back Jump shot,20,62,191,True
+Bradley Beal,4,11,1,0,Step Back Jump shot,16,-155,60,True
+Bradley Beal,4,11,46,0,Step Back Jump shot,13,-138,20,True
+Bradley Beal,4,6,27,0,Step Back Jump shot,25,-132,222,False
+Bradley Beal,2,3,38,0,Step Back Jump shot,19,-52,189,True
+Bradley Beal,2,2,8,1,Step Back Jump shot,24,-32,245,False
+Bradley Beal,1,1,56,0,Step Back Jump shot,24,-29,247,False
+Bradley Beal,2,3,44,0,Step Back Jump shot,24,-204,132,False
+Bradley Beal,1,10,39,0,Step Back Jump shot,20,-20,206,True
+Bradley Beal,2,0,29,1,Step Back Jump shot,13,-138,8,True
+Bradley Beal,1,0,6,1,Step Back Jump shot,16,-22,164,True
+Bradley Beal,3,0,58,0,Step Back Jump shot,20,-107,180,True
+Bradley Beal,1,4,12,1,Step Back Jump shot,25,8,256,False
+Bradley Beal,2,6,36,1,Step Back Jump shot,13,-138,22,True
+Bradley Beal,2,1,19,0,Step Back Jump shot,19,-155,116,True
+Bradley Beal,4,8,3,0,Step Back Jump shot,18,-136,119,True
+Bradley Beal,3,2,46,1,Step Back Jump shot,23,142,182,True
+Bradley Beal,1,0,9,1,Step Back Jump shot,18,154,95,True
+Bradley Beal,3,10,15,1,Step Back Jump shot,15,149,36,True
+Bradley Beal,1,9,33,0,Step Back Jump shot,18,147,110,True
+Bradley Beal,4,6,39,1,Step Back Jump shot,22,-169,147,True
+Bradley Beal,3,2,37,0,Step Back Jump shot,26,-166,204,False
+Bradley Beal,4,2,37,0,Step Back Jump shot,27,-210,179,False
+Bradley Beal,4,5,28,1,Step Back Jump shot,16,-168,18,True
+Bradley Beal,3,8,14,1,Step Back Jump shot,26,174,200,False
+Bradley Beal,3,6,34,0,Step Back Jump shot,21,120,176,True
+Bradley Beal,4,0,29,0,Step Back Jump shot,20,130,156,True
+Bradley Beal,4,3,24,1,Step Back Jump shot,13,-118,69,True
+Bradley Beal,2,4,10,0,Step Back Jump shot,21,-149,153,True
+Bradley Beal,2,0,33,1,Step Back Jump shot,25,-166,195,False
+Bradley Beal,4,8,24,0,Step Back Jump shot,17,-95,148,True
+Bradley Beal,3,5,59,1,Step Back Jump shot,10,102,-6,True
+Bradley Beal,4,7,7,1,Step Back Jump shot,11,-117,-11,True
+Bradley Beal,4,8,57,0,Step Back Jump shot,17,17,171,True
+Bradley Beal,3,0,1,1,Step Back Jump shot,18,-86,168,True
+Bradley Beal,3,2,35,1,Step Back Jump shot,22,163,153,True
+Bradley Beal,2,0,0,0,Step Back Jump shot,26,5,264,False
+Bradley Beal,4,2,48,0,Step Back Jump shot,18,121,134,True
+Bradley Beal,4,5,55,0,Step Back Jump shot,24,-233,77,False
+Bradley Beal,2,0,33,0,Step Back Jump shot,17,-20,169,True
+Bradley Beal,4,1,0,0,Step Back Jump shot,23,59,223,True
+Bradley Beal,4,0,46,1,Step Back Jump shot,25,27,258,False
+Bradley Beal,2,0,2,1,Step Back Jump shot,19,111,163,True
+Bradley Beal,1,3,40,0,Step Back Jump shot,16,140,80,True
+Bradley Beal,1,2,25,1,Step Back Jump shot,25,-204,148,False
+Bradley Beal,1,9,7,0,Step Back Jump shot,16,-134,99,True
+Bradley Beal,1,7,31,1,Step Back Jump shot,25,-187,171,False
+Bradley Beal,3,10,26,0,Step Back Jump shot,25,-176,179,False
+Bradley Beal,3,5,34,0,Step Back Jump shot,20,-78,194,True
+Bradley Beal,1,8,7,1,Step Back Jump shot,12,127,21,True
+Bradley Beal,1,5,45,0,Step Back Jump shot,17,57,164,True
+Bradley Beal,3,0,19,1,Step Back Jump shot,17,-8,173,True
+Bradley Beal,4,11,40,0,Step Back Jump shot,25,-119,227,False
+Bradley Beal,1,3,34,0,Step Back Jump shot,15,29,149,True
+Bradley Beal,1,1,27,1,Step Back Jump shot,14,135,49,True
+Bradley Beal,3,0,47,1,Step Back Jump shot,21,76,196,True
+Bradley Beal,3,3,34,1,Step Back Jump shot,19,-106,166,True
+Bradley Beal,2,4,58,1,Step Back Jump shot,20,-169,116,True
+Bradley Beal,3,4,24,1,Step Back Jump shot,22,89,206,True
+Bradley Beal,4,7,51,1,Step Back Jump shot,19,-128,150,True
+Bradley Beal,4,3,6,1,Step Back Jump shot,25,-69,247,False
+Bradley Beal,1,4,23,0,Step Back Jump shot,26,186,184,False
+Bradley Beal,4,1,36,0,Step Back Jump shot,19,-68,179,True
+Bradley Beal,4,6,39,1,Step Back Jump shot,26,164,208,False
+Bradley Beal,4,4,54,0,Step Back Jump shot,15,-123,92,True
+Bradley Beal,3,0,23,0,Step Back Jump shot,25,-183,171,False
+Bradley Beal,3,7,30,0,Step Back Jump shot,16,-98,134,True
+Bradley Beal,4,2,28,0,Step Back Jump shot,19,114,153,True
+Bradley Beal,2,4,19,1,Step Back Jump shot,22,54,215,True
+Bradley Beal,1,10,42,0,Step Back Jump shot,16,159,20,True
+Bradley Beal,2,1,38,1,Step Back Jump shot,14,-92,109,True
+Bradley Beal,4,5,39,0,Step Back Jump shot,20,-147,139,True
+Bradley Beal,1,1,52,1,Step Back Jump shot,25,-90,235,False
+Bradley Beal,4,2,50,0,Step Back Jump shot,10,109,8,True
+Bradley Beal,3,0,3,1,Step Back Jump shot,15,48,149,True
+Bradley Beal,3,8,22,1,Step Back Jump shot,21,-185,100,True
+Bradley Beal,4,2,26,0,Step Back Jump shot,16,124,105,True
+Bradley Beal,3,10,55,0,Step Back Jump shot,26,-166,201,False
+Bradley Beal,5,1,33,0,Step Back Jump shot,24,48,244,False
+Bradley Beal,1,8,28,0,Step Back Jump shot,17,16,178,True
+Bradley Beal,2,6,42,0,Step Back Jump shot,22,17,221,True
+Bradley Beal,4,5,58,0,Step Back Jump shot,21,68,208,True
+Bradley Beal,4,2,51,0,Step Back Jump shot,25,166,199,False
+Bradley Beal,2,6,5,1,Step Back Jump shot,18,53,176,True
+Bradley Beal,4,0,44,0,Step Back Jump shot,18,-7,189,True
+Bradley Beal,1,9,28,0,Step Back Jump shot,26,101,240,False
+Bradley Beal,4,3,35,0,Step Back Jump shot,22,-12,225,True
+Bradley Beal,1,5,40,1,Step Back Jump shot,24,-221,100,False
+Bradley Beal,3,1,53,0,Step Back Jump shot,22,-66,215,True
+Bradley Beal,2,4,2,1,Step Back Jump shot,25,-107,227,False
+Bradley Beal,2,4,8,0,Tip Layup Shot,0,0,-6,True
+Bradley Beal,2,4,9,0,Tip Layup Shot,0,0,-6,True
+Bradley Beal,1,3,43,1,Tip Layup Shot,0,0,-6,True
+Bradley Beal,3,3,40,1,Tip Layup Shot,0,0,-6,True
+Bradley Beal,3,7,26,1,Turnaround Fadeaway Bank Jump Shot,7,15,76,True
+Bradley Beal,2,11,3,1,Turnaround Fadeaway shot,9,52,83,True
+Bradley Beal,2,7,57,1,Turnaround Fadeaway shot,13,27,137,True
+Bradley Beal,4,10,36,1,Turnaround Fadeaway shot,15,112,104,True
+Bradley Beal,3,3,51,1,Turnaround Fadeaway shot,15,65,138,True
+Bradley Beal,3,2,41,0,Turnaround Fadeaway shot,12,61,110,True
+Bradley Beal,2,6,15,0,Turnaround Fadeaway shot,12,35,119,True
+Bradley Beal,3,1,54,0,Turnaround Fadeaway shot,16,-88,142,True
+Bradley Beal,1,3,13,1,Turnaround Fadeaway shot,10,103,-10,True
+Bradley Beal,3,1,47,1,Turnaround Fadeaway shot,14,70,127,True
+Bradley Beal,2,7,11,0,Turnaround Fadeaway shot,12,44,117,True
+Bradley Beal,3,0,27,0,Turnaround Fadeaway shot,17,73,161,True
+Bradley Beal,4,8,17,1,Turnaround Fadeaway shot,11,9,110,True
+Bradley Beal,1,3,38,0,Turnaround Fadeaway shot,15,-19,156,True
+Bradley Beal,4,0,1,0,Turnaround Fadeaway shot,14,127,73,True
+Bradley Beal,2,3,10,1,Turnaround Jump Shot,9,-93,8,True
+Bradley Beal,1,4,41,0,Turnaround Jump Shot,16,101,126,True
+Bradley Beal,3,2,9,1,Turnaround Jump Shot,10,40,94,True
+Bradley Beal,2,0,53,1,Turnaround Jump Shot,15,54,147,True
+Bradley Beal,2,2,59,0,Turnaround Jump Shot,9,97,17,True
+Bradley Beal,3,5,53,0,Turnaround Jump Shot,5,-38,34,True
+Bradley Beal,1,2,19,0,Turnaround Jump Shot,9,-88,39,True
+Bradley Beal,1,11,22,0,Turnaround Jump Shot,16,-32,163,True
+Bradley Beal,4,9,20,0,Turnaround Jump Shot,16,-65,151,True
+Bradley Beal,1,4,49,1,Turnaround Jump Shot,8,27,80,True
+Bradley Beal,3,3,20,0,Turnaround Jump Shot,1,-8,16,True
+Bradley Beal,4,5,46,0,Turnaround Jump Shot,10,14,105,True
+Bradley Beal,4,6,48,0,Turnaround Jump Shot,14,8,145,True
+Bradley Beal,1,7,25,0,Turnaround Jump Shot,11,-1,112,True
+Bradley Beal,3,10,4,0,Turnaround Jump Shot,8,37,79,True
+Bradley Beal,3,8,50,0,Turnaround Jump Shot,15,-3,155,True
+Bradley Beal,4,2,7,0,Turnaround Jump Shot,11,-30,115,True
+Bradley Beal,3,11,46,1,Turnaround Jump Shot,16,-36,161,True
+Bradley Beal,2,1,40,1,Turnaround Jump Shot,9,44,88,True
+Bradley Beal,1,0,43,1,Turnaround Jump Shot,13,58,122,True
+Bradley Beal,2,0,3,1,Turnaround Jump Shot,15,78,137,True
+Bradley Beal,3,3,56,1,Turnaround Jump Shot,3,-20,33,True
+Bradley Beal,1,6,22,1,Turnaround Jump Shot,12,-107,55,True
+Bradley Beal,2,0,27,1,Turnaround Jump Shot,15,12,150,True
+Bradley Beal,4,0,21,0,Turnaround Jump Shot,8,-43,69,True
+Bradley Beal,1,6,30,1,Turnaround Jump Shot,4,3,48,True

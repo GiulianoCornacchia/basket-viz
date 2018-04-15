@@ -1,0 +1,999 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Devin Booker,4,7,54,1,Alley Oop Dunk Shot,0,3,9,True
+Devin Booker,3,6,2,1,Cutting Dunk Shot,0,0,2,True
+Devin Booker,1,11,23,1,Cutting Dunk Shot,0,-8,-1,True
+Devin Booker,2,5,13,1,Cutting Finger Roll Layup Shot,2,3,27,True
+Devin Booker,4,2,7,1,Cutting Finger Roll Layup Shot,1,8,11,True
+Devin Booker,2,10,36,0,Cutting Finger Roll Layup Shot,0,-5,4,True
+Devin Booker,4,4,36,1,Cutting Layup Shot,0,2,1,True
+Devin Booker,3,10,50,1,Cutting Layup Shot,1,11,6,True
+Devin Booker,3,6,49,0,Cutting Layup Shot,0,-9,1,True
+Devin Booker,4,7,26,0,Cutting Layup Shot,1,14,4,True
+Devin Booker,3,7,17,0,Cutting Layup Shot,7,-16,71,True
+Devin Booker,3,5,15,1,Cutting Layup Shot,0,-2,6,True
+Devin Booker,1,10,0,1,Cutting Layup Shot,0,-1,7,True
+Devin Booker,2,2,22,1,Cutting Layup Shot,1,-1,13,True
+Devin Booker,4,0,26,1,Cutting Layup Shot,0,-6,-1,True
+Devin Booker,4,7,47,1,Cutting Layup Shot,0,-1,7,True
+Devin Booker,4,2,55,1,Cutting Layup Shot,0,-2,1,True
+Devin Booker,1,3,28,0,Cutting Layup Shot,3,-23,20,True
+Devin Booker,3,11,2,1,Cutting Layup Shot,0,0,9,True
+Devin Booker,4,9,19,0,Cutting Layup Shot,1,-14,7,True
+Devin Booker,4,2,23,1,Cutting Layup Shot,1,2,13,True
+Devin Booker,2,2,34,1,Cutting Layup Shot,2,8,20,True
+Devin Booker,2,5,29,1,Driving Bank Hook Shot,2,27,6,True
+Devin Booker,3,7,21,1,Driving Dunk Shot,0,1,6,True
+Devin Booker,1,6,5,1,Driving Dunk Shot,0,-5,8,True
+Devin Booker,3,10,35,0,Driving Dunk Shot,1,-13,3,True
+Devin Booker,1,4,24,1,Driving Finger Roll Layup Shot,0,-6,-6,True
+Devin Booker,2,5,6,1,Driving Finger Roll Layup Shot,0,-3,2,True
+Devin Booker,2,1,31,0,Driving Finger Roll Layup Shot,2,-20,8,True
+Devin Booker,4,0,58,1,Driving Finger Roll Layup Shot,10,-81,59,True
+Devin Booker,3,3,45,0,Driving Finger Roll Layup Shot,4,-40,16,True
+Devin Booker,4,4,44,1,Driving Finger Roll Layup Shot,2,-5,27,True
+Devin Booker,3,0,7,0,Driving Finger Roll Layup Shot,4,39,11,True
+Devin Booker,3,5,31,1,Driving Finger Roll Layup Shot,3,36,11,True
+Devin Booker,4,2,18,0,Driving Finger Roll Layup Shot,0,-8,4,True
+Devin Booker,3,5,23,1,Driving Finger Roll Layup Shot,1,2,10,True
+Devin Booker,2,11,6,1,Driving Finger Roll Layup Shot,1,6,11,True
+Devin Booker,3,7,46,1,Driving Finger Roll Layup Shot,3,17,29,True
+Devin Booker,1,2,53,0,Driving Finger Roll Layup Shot,5,-50,29,True
+Devin Booker,4,2,45,0,Driving Finger Roll Layup Shot,1,-1,10,True
+Devin Booker,4,4,18,0,Driving Finger Roll Layup Shot,0,-3,1,True
+Devin Booker,2,7,38,1,Driving Finger Roll Layup Shot,4,-41,10,True
+Devin Booker,4,7,47,1,Driving Finger Roll Layup Shot,1,9,7,True
+Devin Booker,1,9,37,1,Driving Finger Roll Layup Shot,1,-9,17,True
+Devin Booker,4,8,15,1,Driving Finger Roll Layup Shot,2,-16,14,True
+Devin Booker,3,4,4,0,Driving Finger Roll Layup Shot,1,-6,16,True
+Devin Booker,1,10,58,0,Driving Finger Roll Layup Shot,4,-46,13,True
+Devin Booker,1,5,59,1,Driving Finger Roll Layup Shot,1,-2,15,True
+Devin Booker,1,9,31,1,Driving Finger Roll Layup Shot,0,0,5,True
+Devin Booker,2,9,32,0,Driving Finger Roll Layup Shot,1,4,15,True
+Devin Booker,3,0,6,1,Driving Finger Roll Layup Shot,4,-35,27,True
+Devin Booker,1,4,9,0,Driving Finger Roll Layup Shot,2,4,29,True
+Devin Booker,3,4,54,1,Driving Finger Roll Layup Shot,3,-31,8,True
+Devin Booker,2,0,0,0,Driving Floating Bank Jump Shot,9,-44,89,True
+Devin Booker,3,4,43,1,Driving Floating Bank Jump Shot,5,-43,38,True
+Devin Booker,4,1,36,1,Driving Floating Bank Jump Shot,1,-15,3,True
+Devin Booker,3,4,24,1,Driving Floating Bank Jump Shot,3,36,17,True
+Devin Booker,4,7,38,0,Driving Floating Bank Jump Shot,5,-55,8,True
+Devin Booker,3,11,21,0,Driving Floating Bank Jump Shot,10,106,4,True
+Devin Booker,1,9,35,0,Driving Floating Bank Jump Shot,12,-77,95,True
+Devin Booker,2,4,22,1,Driving Floating Bank Jump Shot,10,-105,15,True
+Devin Booker,4,2,40,1,Driving Floating Bank Jump Shot,11,92,66,True
+Devin Booker,2,0,39,0,Driving Floating Bank Jump Shot,9,-77,62,True
+Devin Booker,3,7,56,1,Driving Floating Bank Jump Shot,3,-32,8,True
+Devin Booker,2,2,0,1,Driving Floating Bank Jump Shot,10,87,59,True
+Devin Booker,4,3,49,0,Driving Floating Bank Jump Shot,9,79,50,True
+Devin Booker,3,6,52,0,Driving Floating Bank Jump Shot,7,-67,26,True
+Devin Booker,3,1,38,1,Driving Floating Bank Jump Shot,2,-20,-4,True
+Devin Booker,4,7,47,1,Driving Floating Jump Shot,6,-60,16,True
+Devin Booker,4,5,39,0,Driving Floating Jump Shot,13,40,129,True
+Devin Booker,2,9,25,1,Driving Floating Jump Shot,2,-1,27,True
+Devin Booker,2,5,2,0,Driving Floating Jump Shot,5,52,2,True
+Devin Booker,1,10,43,0,Driving Floating Jump Shot,13,6,131,True
+Devin Booker,1,6,57,1,Driving Floating Jump Shot,6,2,65,True
+Devin Booker,4,7,36,1,Driving Floating Jump Shot,13,-109,78,True
+Devin Booker,3,8,29,1,Driving Floating Jump Shot,12,92,80,True
+Devin Booker,2,4,32,1,Driving Floating Jump Shot,5,14,48,True
+Devin Booker,1,9,46,0,Driving Floating Jump Shot,8,3,84,True
+Devin Booker,2,2,17,0,Driving Floating Jump Shot,9,3,99,True
+Devin Booker,2,7,12,1,Driving Floating Jump Shot,12,-29,125,True
+Devin Booker,2,0,4,0,Driving Floating Jump Shot,10,-47,92,True
+Devin Booker,3,11,10,0,Driving Floating Jump Shot,14,72,125,True
+Devin Booker,1,2,41,0,Driving Floating Jump Shot,13,16,138,True
+Devin Booker,4,2,2,0,Driving Floating Jump Shot,5,46,21,True
+Devin Booker,3,5,30,1,Driving Floating Jump Shot,10,11,108,True
+Devin Booker,4,2,3,1,Driving Floating Jump Shot,6,24,56,True
+Devin Booker,3,4,28,0,Driving Floating Jump Shot,19,-122,151,True
+Devin Booker,1,1,6,0,Driving Floating Jump Shot,4,-31,29,True
+Devin Booker,1,4,30,0,Driving Floating Jump Shot,12,25,123,True
+Devin Booker,1,6,46,0,Driving Floating Jump Shot,14,-12,148,True
+Devin Booker,3,0,6,0,Driving Floating Jump Shot,17,-150,89,True
+Devin Booker,3,9,16,1,Driving Floating Jump Shot,10,96,29,True
+Devin Booker,1,7,20,0,Driving Floating Jump Shot,6,-9,65,True
+Devin Booker,2,0,51,1,Driving Floating Jump Shot,9,10,97,True
+Devin Booker,1,6,32,0,Driving Floating Jump Shot,3,1,32,True
+Devin Booker,1,6,27,0,Driving Floating Jump Shot,7,14,71,True
+Devin Booker,2,11,7,0,Driving Floating Jump Shot,9,-72,68,True
+Devin Booker,2,0,2,1,Driving Floating Jump Shot,7,-14,74,True
+Devin Booker,3,2,29,0,Driving Hook Shot,8,2,87,True
+Devin Booker,1,7,27,1,Driving Hook Shot,6,-36,49,True
+Devin Booker,4,4,43,0,Driving Hook Shot,2,24,12,True
+Devin Booker,3,0,30,1,Driving Layup Shot,1,3,12,True
+Devin Booker,2,3,46,1,Driving Layup Shot,3,-13,33,True
+Devin Booker,2,11,37,1,Driving Layup Shot,2,11,26,True
+Devin Booker,1,9,8,0,Driving Layup Shot,0,-1,5,True
+Devin Booker,1,4,36,0,Driving Layup Shot,6,60,28,True
+Devin Booker,4,5,6,1,Driving Layup Shot,0,3,6,True
+Devin Booker,4,4,28,0,Driving Layup Shot,6,-54,32,True
+Devin Booker,2,6,10,1,Driving Layup Shot,0,-5,8,True
+Devin Booker,2,0,7,0,Driving Layup Shot,6,-17,64,True
+Devin Booker,3,4,31,0,Driving Layup Shot,2,8,22,True
+Devin Booker,3,0,36,0,Driving Layup Shot,1,0,16,True
+Devin Booker,4,2,38,1,Driving Layup Shot,0,4,2,True
+Devin Booker,3,7,30,0,Driving Layup Shot,2,-5,26,True
+Devin Booker,4,1,38,0,Driving Layup Shot,0,-4,0,True
+Devin Booker,3,6,15,1,Driving Layup Shot,2,-20,17,True
+Devin Booker,4,1,53,1,Driving Layup Shot,3,-29,16,True
+Devin Booker,4,8,50,0,Driving Layup Shot,14,131,53,True
+Devin Booker,1,1,29,0,Driving Layup Shot,0,-2,8,True
+Devin Booker,1,3,44,0,Driving Layup Shot,9,89,22,True
+Devin Booker,2,1,4,1,Driving Layup Shot,1,10,8,True
+Devin Booker,3,8,24,0,Driving Layup Shot,7,-11,75,True
+Devin Booker,3,11,22,0,Driving Layup Shot,2,-29,-1,True
+Devin Booker,1,7,38,0,Driving Layup Shot,2,5,21,True
+Devin Booker,2,1,59,1,Driving Layup Shot,0,-8,4,True
+Devin Booker,2,4,17,1,Driving Layup Shot,1,-2,13,True
+Devin Booker,3,9,4,1,Driving Layup Shot,2,0,25,True
+Devin Booker,3,5,33,0,Driving Layup Shot,6,55,30,True
+Devin Booker,2,9,1,0,Driving Layup Shot,0,0,8,True
+Devin Booker,4,7,26,1,Driving Layup Shot,1,0,17,True
+Devin Booker,1,7,51,1,Driving Layup Shot,2,1,22,True
+Devin Booker,1,0,3,0,Driving Layup Shot,6,65,13,True
+Devin Booker,2,2,44,1,Driving Layup Shot,1,2,18,True
+Devin Booker,1,2,54,0,Driving Layup Shot,1,-2,15,True
+Devin Booker,2,3,14,1,Driving Layup Shot,2,15,17,True
+Devin Booker,1,7,25,1,Driving Layup Shot,0,0,4,True
+Devin Booker,4,5,43,1,Driving Layup Shot,2,2,21,True
+Devin Booker,4,4,40,0,Driving Layup Shot,3,0,32,True
+Devin Booker,2,0,30,1,Driving Layup Shot,1,-6,15,True
+Devin Booker,2,3,24,1,Driving Layup Shot,0,6,5,True
+Devin Booker,1,0,58,1,Driving Layup Shot,1,-19,6,True
+Devin Booker,1,8,5,1,Driving Layup Shot,1,-14,6,True
+Devin Booker,1,7,41,0,Driving Layup Shot,9,-93,4,True
+Devin Booker,3,6,5,0,Driving Layup Shot,1,-16,11,True
+Devin Booker,2,0,34,0,Driving Layup Shot,0,-4,9,True
+Devin Booker,2,6,18,0,Driving Layup Shot,5,48,19,True
+Devin Booker,4,3,45,0,Driving Layup Shot,0,0,-4,True
+Devin Booker,1,1,22,1,Driving Layup Shot,0,5,5,True
+Devin Booker,3,2,39,1,Driving Layup Shot,0,5,4,True
+Devin Booker,2,0,36,0,Driving Layup Shot,5,-19,55,True
+Devin Booker,4,2,37,0,Driving Layup Shot,2,-6,27,True
+Devin Booker,4,0,24,0,Driving Layup Shot,1,-8,16,True
+Devin Booker,4,1,10,0,Driving Layup Shot,5,-47,25,True
+Devin Booker,1,0,25,0,Driving Layup Shot,6,69,10,True
+Devin Booker,4,0,33,1,Driving Layup Shot,0,2,2,True
+Devin Booker,3,4,58,1,Driving Layup Shot,2,-4,21,True
+Devin Booker,3,1,11,0,Driving Layup Shot,1,-9,7,True
+Devin Booker,1,0,4,0,Driving Layup Shot,0,-3,4,True
+Devin Booker,2,8,9,1,Driving Layup Shot,2,4,25,True
+Devin Booker,1,8,6,0,Driving Layup Shot,4,-39,13,True
+Devin Booker,2,2,7,1,Driving Layup Shot,1,14,1,True
+Devin Booker,3,8,43,1,Driving Layup Shot,0,-3,3,True
+Devin Booker,3,2,45,0,Driving Layup Shot,1,-3,10,True
+Devin Booker,3,3,19,1,Driving Layup Shot,1,-10,9,True
+Devin Booker,3,10,33,0,Driving Layup Shot,0,-3,9,True
+Devin Booker,2,3,25,0,Driving Layup Shot,0,5,0,True
+Devin Booker,4,7,2,1,Driving Layup Shot,1,0,10,True
+Devin Booker,3,8,8,1,Driving Layup Shot,10,-106,4,True
+Devin Booker,4,4,59,1,Driving Layup Shot,2,-22,16,True
+Devin Booker,1,10,51,0,Driving Layup Shot,2,-4,22,True
+Devin Booker,2,2,32,1,Driving Layup Shot,0,3,7,True
+Devin Booker,3,5,21,0,Driving Layup Shot,6,0,69,True
+Devin Booker,1,9,30,0,Driving Layup Shot,2,-22,-1,True
+Devin Booker,1,9,33,0,Driving Layup Shot,0,-9,1,True
+Devin Booker,2,0,1,0,Driving Layup Shot,0,3,6,True
+Devin Booker,1,2,53,0,Driving Layup Shot,10,-20,104,True
+Devin Booker,1,7,54,1,Driving Layup Shot,0,4,-1,True
+Devin Booker,1,5,19,1,Driving Layup Shot,1,-17,8,True
+Devin Booker,1,2,28,1,Driving Layup Shot,1,-1,10,True
+Devin Booker,4,11,39,0,Driving Layup Shot,0,2,8,True
+Devin Booker,3,8,11,0,Driving Layup Shot,0,9,4,True
+Devin Booker,2,6,40,0,Driving Layup Shot,0,6,7,True
+Devin Booker,4,7,45,1,Driving Layup Shot,1,5,12,True
+Devin Booker,2,0,9,1,Driving Layup Shot,0,1,6,True
+Devin Booker,3,7,20,1,Driving Layup Shot,2,-24,6,True
+Devin Booker,2,2,19,0,Driving Layup Shot,3,-23,20,True
+Devin Booker,3,5,55,0,Driving Layup Shot,5,-5,52,True
+Devin Booker,1,8,39,0,Driving Layup Shot,0,-1,5,True
+Devin Booker,4,3,8,1,Driving Layup Shot,2,12,22,True
+Devin Booker,3,8,21,0,Driving Layup Shot,3,-25,22,True
+Devin Booker,2,6,12,0,Driving Layup Shot,7,-57,48,True
+Devin Booker,4,3,16,1,Driving Layup Shot,0,8,5,True
+Devin Booker,2,2,16,0,Driving Layup Shot,0,-4,9,True
+Devin Booker,4,0,22,0,Driving Layup Shot,4,-40,28,True
+Devin Booker,4,0,57,0,Driving Reverse Layup Shot,0,-3,8,True
+Devin Booker,2,6,43,1,Driving Reverse Layup Shot,0,-7,-5,True
+Devin Booker,3,9,37,0,Driving Reverse Layup Shot,0,-5,5,True
+Devin Booker,4,4,11,0,Driving Reverse Layup Shot,1,-16,6,True
+Devin Booker,3,2,4,0,Driving Reverse Layup Shot,0,-4,6,True
+Devin Booker,1,6,44,1,Driving Reverse Layup Shot,1,19,4,True
+Devin Booker,2,4,12,1,Driving Reverse Layup Shot,1,10,2,True
+Devin Booker,3,11,40,1,Driving Reverse Layup Shot,1,-8,9,True
+Devin Booker,2,0,0,0,Driving Reverse Layup Shot,1,-14,5,True
+Devin Booker,4,7,22,0,Driving Reverse Layup Shot,0,-9,3,True
+Devin Booker,1,9,9,1,Driving Reverse Layup Shot,1,13,6,True
+Devin Booker,3,6,50,1,Fadeaway Jump Shot,10,-108,13,True
+Devin Booker,3,11,7,1,Fadeaway Jump Shot,9,88,27,True
+Devin Booker,2,7,15,1,Fadeaway Jump Shot,21,198,85,True
+Devin Booker,1,0,51,0,Fadeaway Jump Shot,11,112,32,True
+Devin Booker,1,4,34,1,Fadeaway Jump Shot,23,231,-4,False
+Devin Booker,3,0,8,0,Fadeaway Jump Shot,14,-140,7,True
+Devin Booker,2,5,22,0,Fadeaway Jump Shot,13,61,119,True
+Devin Booker,3,3,36,0,Fadeaway Jump Shot,23,229,46,False
+Devin Booker,1,10,33,0,Fadeaway Jump Shot,17,119,130,True
+Devin Booker,3,6,56,0,Fadeaway Jump Shot,18,181,27,True
+Devin Booker,2,9,1,0,Fadeaway Jump Shot,8,88,-2,True
+Devin Booker,4,0,0,0,Fadeaway Jump Shot,14,149,-9,True
+Devin Booker,1,11,15,0,Fadeaway Jump Shot,19,-64,180,True
+Devin Booker,1,10,48,1,Fadeaway Jump Shot,12,74,105,True
+Devin Booker,4,10,45,0,Fadeaway Jump Shot,12,-121,23,True
+Devin Booker,2,3,51,1,Fadeaway Jump Shot,11,29,110,True
+Devin Booker,3,6,15,1,Fadeaway Jump Shot,22,221,43,False
+Devin Booker,4,6,33,0,Fadeaway Jump Shot,9,-90,20,True
+Devin Booker,4,0,45,0,Fadeaway Jump Shot,26,11,267,False
+Devin Booker,4,2,37,1,Fadeaway Jump Shot,11,-119,-12,True
+Devin Booker,3,8,35,1,Fadeaway Jump Shot,10,-87,59,True
+Devin Booker,3,10,14,1,Fadeaway Jump Shot,13,136,1,True
+Devin Booker,1,2,59,0,Fadeaway Jump Shot,16,-84,145,True
+Devin Booker,4,0,58,1,Fadeaway Jump Shot,14,145,0,True
+Devin Booker,2,3,3,0,Fadeaway Jump Shot,12,95,74,True
+Devin Booker,3,10,18,1,Floating Jump shot,11,83,74,True
+Devin Booker,3,1,59,1,Floating Jump shot,5,-43,29,True
+Devin Booker,3,9,53,0,Floating Jump shot,14,72,124,True
+Devin Booker,3,9,23,1,Floating Jump shot,3,-17,28,True
+Devin Booker,3,2,23,1,Floating Jump shot,7,-28,71,True
+Devin Booker,4,1,41,0,Floating Jump shot,9,-73,53,True
+Devin Booker,1,2,37,1,Floating Jump shot,7,-5,70,True
+Devin Booker,2,6,55,0,Floating Jump shot,12,-55,116,True
+Devin Booker,4,1,49,0,Floating Jump shot,8,2,83,True
+Devin Booker,3,11,27,0,Floating Jump shot,5,-1,55,True
+Devin Booker,4,9,53,0,Floating Jump shot,12,57,106,True
+Devin Booker,2,6,44,0,Floating Jump shot,12,-9,125,True
+Devin Booker,4,5,21,0,Floating Jump shot,11,54,98,True
+Devin Booker,1,2,40,1,Floating Jump shot,6,-8,64,True
+Devin Booker,2,4,22,1,Floating Jump shot,12,122,31,True
+Devin Booker,4,4,41,1,Floating Jump shot,9,0,94,True
+Devin Booker,4,6,6,1,Floating Jump shot,2,-25,7,True
+Devin Booker,3,1,51,1,Hook Shot,4,27,31,True
+Devin Booker,1,11,24,0,Jump Bank Shot,8,-78,20,True
+Devin Booker,4,2,1,0,Jump Bank Shot,13,-112,74,True
+Devin Booker,2,2,35,0,Jump Bank Shot,24,-114,221,False
+Devin Booker,3,1,51,0,Jump Bank Shot,15,124,94,True
+Devin Booker,3,6,35,0,Jump Bank Shot,13,-57,118,True
+Devin Booker,2,1,23,1,Jump Bank Shot,13,-132,38,True
+Devin Booker,4,8,21,0,Jump Bank Shot,9,-76,58,True
+Devin Booker,1,9,17,0,Jump Shot,23,-231,34,False
+Devin Booker,4,5,55,1,Jump Shot,25,180,179,False
+Devin Booker,1,11,22,0,Jump Shot,24,237,55,False
+Devin Booker,4,5,24,0,Jump Shot,23,232,6,False
+Devin Booker,1,10,16,1,Jump Shot,25,121,222,False
+Devin Booker,2,0,46,0,Jump Shot,25,112,232,False
+Devin Booker,2,3,5,1,Jump Shot,26,88,245,False
+Devin Booker,2,2,1,0,Jump Shot,26,19,261,False
+Devin Booker,1,8,34,0,Jump Shot,25,-187,166,False
+Devin Booker,3,3,56,0,Jump Shot,12,-25,126,True
+Devin Booker,1,6,14,0,Jump Shot,20,-25,199,True
+Devin Booker,4,6,23,1,Jump Shot,24,133,205,False
+Devin Booker,4,1,48,1,Jump Shot,25,-104,228,False
+Devin Booker,3,0,19,0,Jump Shot,23,-224,79,False
+Devin Booker,3,9,37,1,Jump Shot,25,172,189,False
+Devin Booker,1,8,23,1,Jump Shot,7,34,62,True
+Devin Booker,1,6,2,1,Jump Shot,25,-133,221,False
+Devin Booker,1,5,16,0,Jump Shot,22,-225,17,False
+Devin Booker,4,7,33,1,Jump Shot,25,117,227,False
+Devin Booker,4,4,48,1,Jump Shot,14,144,-4,True
+Devin Booker,2,9,39,1,Jump Shot,23,231,13,False
+Devin Booker,2,1,40,0,Jump Shot,25,-27,250,False
+Devin Booker,1,8,27,1,Jump Shot,21,-116,180,True
+Devin Booker,1,6,56,0,Jump Shot,24,-238,40,False
+Devin Booker,3,6,1,0,Jump Shot,27,58,271,False
+Devin Booker,1,9,23,1,Jump Shot,25,-158,197,False
+Devin Booker,4,4,8,0,Jump Shot,26,-95,247,False
+Devin Booker,2,1,14,1,Jump Shot,24,231,76,False
+Devin Booker,3,6,39,0,Jump Shot,27,-173,209,False
+Devin Booker,2,7,33,0,Jump Shot,26,14,262,False
+Devin Booker,1,0,34,0,Jump Shot,23,-96,211,True
+Devin Booker,3,1,45,1,Jump Shot,25,-215,143,False
+Devin Booker,3,8,59,1,Jump Shot,28,76,272,False
+Devin Booker,1,5,31,1,Jump Shot,16,148,83,True
+Devin Booker,1,0,30,0,Jump Shot,16,161,1,True
+Devin Booker,2,0,33,0,Jump Shot,12,-116,43,True
+Devin Booker,1,2,58,0,Jump Shot,25,-69,241,False
+Devin Booker,2,11,48,1,Jump Shot,13,-119,60,True
+Devin Booker,3,11,47,1,Jump Shot,23,-237,-13,False
+Devin Booker,4,7,45,0,Jump Shot,24,72,237,False
+Devin Booker,4,3,58,0,Jump Shot,26,-84,247,False
+Devin Booker,1,5,7,1,Jump Shot,25,157,201,False
+Devin Booker,1,4,44,1,Jump Shot,25,30,251,False
+Devin Booker,3,10,35,0,Jump Shot,14,95,108,True
+Devin Booker,2,8,25,0,Jump Shot,25,-132,215,False
+Devin Booker,2,2,25,0,Jump Shot,24,225,101,False
+Devin Booker,2,9,25,0,Jump Shot,24,-188,159,False
+Devin Booker,1,8,45,0,Jump Shot,12,-85,93,True
+Devin Booker,3,9,45,0,Jump Shot,26,-154,217,False
+Devin Booker,4,11,5,0,Jump Shot,26,-214,152,False
+Devin Booker,1,7,48,1,Jump Shot,18,-22,180,True
+Devin Booker,1,10,38,0,Jump Shot,25,160,193,False
+Devin Booker,4,9,20,0,Jump Shot,25,11,253,False
+Devin Booker,3,10,22,1,Jump Shot,24,-82,232,False
+Devin Booker,1,11,38,1,Jump Shot,25,116,222,False
+Devin Booker,4,1,33,0,Jump Shot,21,-15,219,True
+Devin Booker,2,4,46,0,Jump Shot,9,92,13,True
+Devin Booker,4,11,13,1,Jump Shot,22,40,224,True
+Devin Booker,1,5,19,0,Jump Shot,28,205,197,False
+Devin Booker,4,3,28,0,Jump Shot,26,232,126,False
+Devin Booker,2,0,10,0,Jump Shot,25,-13,258,False
+Devin Booker,4,0,52,0,Jump Shot,13,130,15,True
+Devin Booker,4,3,58,0,Jump Shot,21,-179,119,True
+Devin Booker,1,3,35,0,Jump Shot,28,-38,278,False
+Devin Booker,1,1,47,1,Jump Shot,23,-236,-10,False
+Devin Booker,3,9,51,0,Jump Shot,23,-230,-8,False
+Devin Booker,2,1,52,0,Jump Shot,22,-147,168,True
+Devin Booker,1,3,57,0,Jump Shot,27,-117,249,False
+Devin Booker,1,0,46,0,Jump Shot,28,-66,275,False
+Devin Booker,4,9,47,0,Jump Shot,23,232,59,False
+Devin Booker,3,4,1,0,Jump Shot,25,148,208,False
+Devin Booker,3,6,44,0,Jump Shot,23,232,46,False
+Devin Booker,2,7,2,0,Jump Shot,27,-106,253,False
+Devin Booker,1,10,49,1,Jump Shot,23,-231,-20,False
+Devin Booker,1,5,55,0,Jump Shot,20,-170,121,True
+Devin Booker,4,0,4,0,Jump Shot,26,36,262,False
+Devin Booker,3,11,51,0,Jump Shot,17,-31,171,True
+Devin Booker,3,7,52,0,Jump Shot,25,-136,216,False
+Devin Booker,1,8,15,0,Jump Shot,26,127,230,False
+Devin Booker,1,6,4,0,Jump Shot,26,122,237,False
+Devin Booker,1,7,40,0,Jump Shot,26,-123,237,False
+Devin Booker,1,4,17,1,Jump Shot,24,118,217,False
+Devin Booker,2,10,17,0,Jump Shot,27,-9,270,False
+Devin Booker,2,2,53,1,Jump Shot,27,-57,264,False
+Devin Booker,3,7,56,1,Jump Shot,25,-54,246,False
+Devin Booker,2,1,25,0,Jump Shot,26,-47,263,False
+Devin Booker,2,8,36,0,Jump Shot,25,107,233,False
+Devin Booker,1,8,9,0,Jump Shot,23,234,-8,False
+Devin Booker,3,9,34,1,Jump Shot,24,122,216,False
+Devin Booker,1,11,24,1,Jump Shot,27,-139,235,False
+Devin Booker,3,10,54,0,Jump Shot,25,-140,211,False
+Devin Booker,4,4,57,0,Jump Shot,24,-114,216,False
+Devin Booker,2,9,47,0,Jump Shot,15,156,34,True
+Devin Booker,3,6,11,0,Jump Shot,24,84,235,False
+Devin Booker,1,9,38,1,Jump Shot,24,63,241,False
+Devin Booker,1,10,56,0,Jump Shot,25,-119,223,False
+Devin Booker,1,10,28,0,Jump Shot,18,-27,187,True
+Devin Booker,4,0,37,1,Jump Shot,27,-231,146,False
+Devin Booker,2,7,3,0,Jump Shot,15,-52,146,True
+Devin Booker,2,7,51,1,Jump Shot,11,110,0,True
+Devin Booker,4,4,48,0,Jump Shot,28,174,226,False
+Devin Booker,4,10,13,0,Jump Shot,25,54,252,False
+Devin Booker,4,11,23,1,Jump Shot,22,-225,20,False
+Devin Booker,3,7,23,1,Jump Shot,27,-117,246,False
+Devin Booker,3,9,11,1,Jump Shot,25,203,149,False
+Devin Booker,3,10,12,0,Jump Shot,25,-169,196,False
+Devin Booker,3,11,19,1,Jump Shot,26,-103,249,False
+Devin Booker,2,0,34,0,Jump Shot,24,-169,179,False
+Devin Booker,4,0,25,1,Jump Shot,28,-6,283,False
+Devin Booker,3,10,50,0,Jump Shot,24,206,133,False
+Devin Booker,4,1,25,0,Jump Shot,15,118,106,True
+Devin Booker,1,5,45,1,Jump Shot,23,-229,59,False
+Devin Booker,4,8,46,1,Jump Shot,16,-96,135,True
+Devin Booker,3,9,19,0,Jump Shot,23,-227,72,False
+Devin Booker,2,1,26,0,Jump Shot,22,-226,-11,False
+Devin Booker,1,7,25,1,Jump Shot,26,-70,252,False
+Devin Booker,2,10,0,0,Jump Shot,16,93,134,True
+Devin Booker,3,9,21,0,Jump Shot,17,-169,25,True
+Devin Booker,1,11,47,1,Jump Shot,15,-12,153,True
+Devin Booker,2,6,35,0,Jump Shot,25,-96,241,False
+Devin Booker,2,2,13,0,Jump Shot,22,-221,10,False
+Devin Booker,2,7,11,0,Jump Shot,23,-229,53,False
+Devin Booker,4,7,3,0,Jump Shot,24,63,240,False
+Devin Booker,3,10,18,1,Jump Shot,25,106,235,False
+Devin Booker,1,2,47,0,Jump Shot,25,-96,241,False
+Devin Booker,1,3,1,0,Jump Shot,25,-67,250,False
+Devin Booker,2,5,22,1,Jump Shot,27,-111,255,False
+Devin Booker,1,4,14,0,Jump Shot,10,85,59,True
+Devin Booker,1,5,5,0,Jump Shot,4,11,45,True
+Devin Booker,4,3,42,1,Jump Shot,24,68,237,False
+Devin Booker,4,1,27,1,Jump Shot,25,139,217,False
+Devin Booker,3,9,15,0,Jump Shot,10,-103,-13,True
+Devin Booker,1,10,26,0,Jump Shot,25,70,246,False
+Devin Booker,2,4,9,1,Jump Shot,26,-143,220,False
+Devin Booker,4,2,59,1,Jump Shot,26,33,267,False
+Devin Booker,4,0,18,1,Jump Shot,25,-206,156,False
+Devin Booker,3,7,16,0,Jump Shot,26,-143,222,False
+Devin Booker,1,10,47,1,Jump Shot,24,182,170,False
+Devin Booker,2,11,32,1,Jump Shot,12,-66,107,True
+Devin Booker,1,6,40,0,Jump Shot,27,-123,249,False
+Devin Booker,1,9,27,1,Jump Shot,24,54,239,False
+Devin Booker,4,5,30,0,Jump Shot,26,-209,166,False
+Devin Booker,2,2,50,0,Jump Shot,25,-96,241,False
+Devin Booker,4,1,13,1,Jump Shot,14,1,148,True
+Devin Booker,3,11,48,0,Jump Shot,27,188,206,False
+Devin Booker,3,3,30,1,Jump Shot,11,-81,84,True
+Devin Booker,2,6,58,1,Jump Shot,20,-163,128,True
+Devin Booker,1,5,32,1,Jump Shot,27,-131,242,False
+Devin Booker,4,10,3,1,Jump Shot,24,-176,169,False
+Devin Booker,1,8,21,1,Jump Shot,15,146,58,True
+Devin Booker,1,8,44,0,Jump Shot,7,-71,8,True
+Devin Booker,3,2,25,1,Jump Shot,20,-127,160,True
+Devin Booker,1,6,42,0,Jump Shot,20,-102,178,True
+Devin Booker,3,7,19,1,Jump Shot,27,-87,257,False
+Devin Booker,3,4,26,0,Jump Shot,25,-133,218,False
+Devin Booker,4,3,44,0,Jump Shot,14,-5,148,True
+Devin Booker,3,8,17,1,Jump Shot,26,-116,235,False
+Devin Booker,3,10,36,0,Jump Shot,25,97,231,False
+Devin Booker,1,2,50,1,Jump Shot,24,-116,216,False
+Devin Booker,3,9,44,0,Jump Shot,5,5,54,True
+Devin Booker,1,10,47,0,Jump Shot,25,197,167,False
+Devin Booker,3,11,28,1,Jump Shot,26,71,251,False
+Devin Booker,3,5,16,0,Jump Shot,23,-22,230,True
+Devin Booker,4,3,34,0,Jump Shot,26,8,266,False
+Devin Booker,2,1,52,0,Jump Shot,24,188,157,False
+Devin Booker,2,3,50,1,Jump Shot,25,-138,214,False
+Devin Booker,2,4,10,1,Jump Shot,27,-130,247,False
+Devin Booker,3,8,39,0,Jump Shot,26,40,266,False
+Devin Booker,3,6,40,0,Jump Shot,15,155,19,True
+Devin Booker,4,4,29,1,Jump Shot,27,11,276,False
+Devin Booker,1,0,51,0,Jump Shot,26,71,251,False
+Devin Booker,4,5,34,1,Jump Shot,26,-139,221,False
+Devin Booker,3,9,42,0,Jump Shot,24,24,246,False
+Devin Booker,2,2,28,1,Jump Shot,24,-221,106,False
+Devin Booker,3,5,5,0,Jump Shot,25,174,184,False
+Devin Booker,1,6,8,0,Jump Shot,23,-230,42,False
+Devin Booker,3,6,38,1,Jump Shot,25,-168,189,False
+Devin Booker,4,8,0,0,Jump Shot,25,-20,257,False
+Devin Booker,1,8,38,1,Jump Shot,24,-168,182,False
+Devin Booker,4,7,27,0,Jump Shot,25,107,230,False
+Devin Booker,3,10,1,0,Jump Shot,26,-158,211,False
+Devin Booker,4,0,43,0,Jump Shot,27,-29,269,False
+Devin Booker,4,2,37,0,Jump Shot,21,-78,200,True
+Devin Booker,2,5,2,0,Jump Shot,26,-223,144,False
+Devin Booker,2,11,46,0,Jump Shot,3,35,10,True
+Devin Booker,1,5,30,0,Jump Shot,26,-8,262,False
+Devin Booker,3,4,32,0,Jump Shot,25,-48,252,False
+Devin Booker,2,8,17,0,Jump Shot,25,200,158,False
+Devin Booker,1,8,25,0,Jump Shot,25,-2,254,False
+Devin Booker,1,4,36,0,Jump Shot,8,-87,-14,True
+Devin Booker,3,7,31,1,Jump Shot,25,-158,200,False
+Devin Booker,4,4,38,0,Jump Shot,25,-25,252,False
+Devin Booker,4,2,38,0,Jump Shot,21,-200,80,True
+Devin Booker,1,6,58,0,Jump Shot,13,-136,21,True
+Devin Booker,1,5,47,1,Jump Shot,23,-230,5,False
+Devin Booker,1,10,38,0,Jump Shot,25,-225,113,False
+Devin Booker,3,9,23,0,Jump Shot,24,54,241,False
+Devin Booker,3,4,29,0,Jump Shot,24,-127,213,False
+Devin Booker,4,2,7,0,Jump Shot,32,179,269,False
+Devin Booker,4,0,10,0,Jump Shot,26,-16,264,False
+Devin Booker,1,10,57,0,Jump Shot,26,-40,262,False
+Devin Booker,3,9,12,1,Jump Shot,25,131,224,False
+Devin Booker,1,6,49,0,Jump Shot,12,52,116,True
+Devin Booker,2,8,42,0,Jump Shot,24,187,159,False
+Devin Booker,1,11,48,1,Jump Shot,26,13,264,False
+Devin Booker,3,3,21,0,Jump Shot,22,-189,122,True
+Devin Booker,2,8,49,1,Jump Shot,22,222,-6,False
+Devin Booker,4,1,44,0,Jump Shot,15,-47,150,True
+Devin Booker,2,7,8,0,Jump Shot,26,127,237,False
+Devin Booker,4,4,29,1,Jump Shot,25,223,120,False
+Devin Booker,1,9,36,1,Jump Shot,18,-18,183,True
+Devin Booker,3,6,6,1,Jump Shot,17,-36,173,True
+Devin Booker,4,5,22,0,Jump Shot,25,190,164,False
+Devin Booker,4,0,51,0,Jump Shot,25,-189,166,False
+Devin Booker,4,3,50,1,Jump Shot,25,-24,252,False
+Devin Booker,2,5,9,0,Jump Shot,22,-228,-21,False
+Devin Booker,1,6,9,1,Jump Shot,26,107,237,False
+Devin Booker,3,1,32,0,Jump Shot,24,-223,92,False
+Devin Booker,4,5,48,0,Jump Shot,74,5,741,False
+Devin Booker,4,8,28,1,Jump Shot,16,-3,169,True
+Devin Booker,2,7,5,1,Jump Shot,27,136,237,False
+Devin Booker,3,6,16,0,Jump Shot,15,-92,130,True
+Devin Booker,1,10,19,0,Jump Shot,19,67,179,True
+Devin Booker,1,7,31,1,Jump Shot,9,91,34,True
+Devin Booker,2,5,15,0,Jump Shot,24,221,112,False
+Devin Booker,3,7,9,0,Jump Shot,25,-53,246,False
+Devin Booker,1,5,31,0,Jump Shot,25,-171,194,False
+Devin Booker,2,4,51,1,Jump Shot,12,-62,110,True
+Devin Booker,4,7,40,0,Jump Shot,23,231,22,False
+Devin Booker,2,1,17,0,Jump Shot,24,-123,216,False
+Devin Booker,3,5,53,0,Jump Shot,23,-230,-15,False
+Devin Booker,4,6,26,0,Jump Shot,25,201,153,False
+Devin Booker,3,3,33,0,Jump Shot,25,74,242,False
+Devin Booker,1,7,6,1,Jump Shot,25,-111,230,False
+Devin Booker,1,3,43,0,Jump Shot,22,226,-22,False
+Devin Booker,3,8,51,0,Jump Shot,25,-125,225,False
+Devin Booker,4,8,56,1,Jump Shot,23,-231,-12,False
+Devin Booker,4,6,44,1,Jump Shot,20,-108,173,True
+Devin Booker,1,8,54,0,Jump Shot,32,119,306,False
+Devin Booker,2,2,35,0,Jump Shot,26,20,265,False
+Devin Booker,2,0,49,0,Jump Shot,26,-110,237,False
+Devin Booker,3,10,43,0,Jump Shot,25,-171,183,False
+Devin Booker,4,11,44,0,Jump Shot,18,49,176,True
+Devin Booker,2,4,7,1,Jump Shot,20,200,10,True
+Devin Booker,2,1,29,1,Jump Shot,25,-185,176,False
+Devin Booker,4,5,13,0,Jump Shot,25,95,235,False
+Devin Booker,3,10,39,1,Jump Shot,23,-228,62,False
+Devin Booker,2,3,53,1,Jump Shot,25,-149,209,False
+Devin Booker,1,10,29,0,Jump Shot,29,-144,256,False
+Devin Booker,4,1,34,0,Jump Shot,26,-163,211,False
+Devin Booker,2,4,6,0,Jump Shot,13,-104,92,True
+Devin Booker,1,1,38,0,Jump Shot,24,-225,86,False
+Devin Booker,1,3,16,0,Jump Shot,26,-5,260,False
+Devin Booker,1,4,31,1,Jump Shot,10,2,105,True
+Devin Booker,2,1,45,0,Jump Shot,22,-226,21,False
+Devin Booker,1,4,19,0,Jump Shot,26,-3,260,False
+Devin Booker,3,5,29,0,Jump Shot,24,-111,221,False
+Devin Booker,2,3,50,0,Jump Shot,27,-120,246,False
+Devin Booker,3,8,30,0,Jump Shot,5,-11,57,True
+Devin Booker,1,1,59,0,Jump Shot,5,7,52,True
+Devin Booker,1,8,22,1,Jump Shot,23,-226,63,False
+Devin Booker,3,11,15,0,Jump Shot,26,169,201,False
+Devin Booker,1,3,35,1,Jump Shot,27,29,269,False
+Devin Booker,4,3,33,0,Jump Shot,26,-109,238,False
+Devin Booker,4,0,41,0,Jump Shot,26,122,238,False
+Devin Booker,3,4,23,0,Jump Shot,11,-6,116,True
+Devin Booker,1,9,13,1,Jump Shot,26,24,268,False
+Devin Booker,2,4,22,1,Jump Shot,22,-223,21,False
+Devin Booker,2,2,49,1,Jump Shot,23,-226,71,False
+Devin Booker,2,4,40,1,Jump Shot,25,-143,215,False
+Devin Booker,2,4,49,0,Jump Shot,15,27,156,True
+Devin Booker,1,6,27,0,Jump Shot,16,83,145,True
+Devin Booker,3,7,26,1,Jump Shot,27,8,277,False
+Devin Booker,4,5,37,0,Jump Shot,23,-228,64,False
+Devin Booker,2,6,10,1,Jump Shot,19,-180,71,True
+Devin Booker,2,8,38,1,Jump Shot,24,161,189,False
+Devin Booker,3,11,46,0,Jump Shot,25,-148,211,False
+Devin Booker,1,0,1,0,Jump Shot,26,126,229,False
+Devin Booker,3,7,17,0,Jump Shot,7,67,37,True
+Devin Booker,1,8,32,0,Jump Shot,26,2,267,False
+Devin Booker,1,6,32,1,Jump Shot,13,130,28,True
+Devin Booker,4,0,6,1,Jump Shot,27,220,159,False
+Devin Booker,1,4,51,0,Jump Shot,25,134,217,False
+Devin Booker,4,1,51,0,Jump Shot,24,234,57,False
+Devin Booker,3,3,10,0,Jump Shot,25,-155,197,False
+Devin Booker,2,4,59,1,Jump Shot,12,-124,-9,True
+Devin Booker,1,8,38,1,Jump Shot,26,113,237,False
+Devin Booker,1,4,48,0,Jump Shot,3,2,37,True
+Devin Booker,2,1,22,0,Jump Shot,5,14,50,True
+Devin Booker,2,5,10,1,Jump Shot,19,-140,136,True
+Devin Booker,1,8,0,0,Jump Shot,25,-168,188,False
+Devin Booker,2,8,5,1,Jump Shot,9,-89,17,True
+Devin Booker,1,5,44,1,Jump Shot,24,20,248,False
+Devin Booker,2,0,45,1,Jump Shot,26,-89,246,False
+Devin Booker,3,4,51,0,Jump Shot,14,7,147,True
+Devin Booker,1,5,0,1,Jump Shot,18,187,17,True
+Devin Booker,3,2,14,0,Jump Shot,26,98,241,False
+Devin Booker,3,6,33,1,Jump Shot,25,-190,164,False
+Devin Booker,3,6,32,1,Layup Shot,0,2,4,True
+Devin Booker,1,2,25,0,Layup Shot,1,-14,4,True
+Devin Booker,3,3,56,1,Layup Shot,1,-9,13,True
+Devin Booker,3,4,38,1,Layup Shot,0,-1,8,True
+Devin Booker,3,1,17,1,Layup Shot,1,-12,6,True
+Devin Booker,3,10,28,1,Layup Shot,0,-4,-5,True
+Devin Booker,1,5,16,1,Layup Shot,0,-8,0,True
+Devin Booker,4,9,0,0,Layup Shot,0,1,9,True
+Devin Booker,1,4,13,1,Layup Shot,2,1,21,True
+Devin Booker,2,0,56,1,Layup Shot,0,4,7,True
+Devin Booker,3,6,44,0,Layup Shot,1,8,15,True
+Devin Booker,2,9,51,0,Layup Shot,2,-2,24,True
+Devin Booker,1,6,39,0,Layup Shot,2,-24,8,True
+Devin Booker,4,2,54,1,Layup Shot,0,5,1,True
+Devin Booker,1,0,44,0,Layup Shot,4,47,9,True
+Devin Booker,3,0,53,0,Layup Shot,2,6,27,True
+Devin Booker,3,2,38,0,Layup Shot,2,15,20,True
+Devin Booker,3,10,56,0,Layup Shot,1,11,8,True
+Devin Booker,3,0,0,1,Layup Shot,1,-9,12,True
+Devin Booker,2,1,8,1,Layup Shot,0,1,6,True
+Devin Booker,1,9,37,0,Layup Shot,1,2,11,True
+Devin Booker,3,4,24,1,Layup Shot,1,9,14,True
+Devin Booker,4,7,7,1,Pullup Jump shot,25,121,227,False
+Devin Booker,3,10,15,0,Pullup Jump shot,14,-16,148,True
+Devin Booker,4,5,16,1,Pullup Jump shot,12,-107,65,True
+Devin Booker,3,4,2,0,Pullup Jump shot,26,-112,239,False
+Devin Booker,2,0,41,1,Pullup Jump shot,26,-52,257,False
+Devin Booker,3,5,48,1,Pullup Jump shot,18,-85,169,True
+Devin Booker,4,1,15,1,Pullup Jump shot,17,-79,155,True
+Devin Booker,4,4,57,0,Pullup Jump shot,27,32,271,False
+Devin Booker,1,6,57,0,Pullup Jump shot,11,-100,52,True
+Devin Booker,1,10,38,0,Pullup Jump shot,15,-109,107,True
+Devin Booker,3,10,19,0,Pullup Jump shot,19,30,194,True
+Devin Booker,3,11,5,0,Pullup Jump shot,20,36,205,True
+Devin Booker,1,10,31,1,Pullup Jump shot,12,74,104,True
+Devin Booker,3,9,19,1,Pullup Jump shot,24,-32,247,False
+Devin Booker,3,4,17,1,Pullup Jump shot,24,-5,248,False
+Devin Booker,2,10,14,1,Pullup Jump shot,13,65,113,True
+Devin Booker,1,7,57,1,Pullup Jump shot,27,-51,273,False
+Devin Booker,1,1,44,1,Pullup Jump shot,9,96,26,True
+Devin Booker,4,9,9,1,Pullup Jump shot,14,-97,105,True
+Devin Booker,1,4,51,0,Pullup Jump shot,25,91,237,False
+Devin Booker,1,10,16,0,Pullup Jump shot,25,-67,245,False
+Devin Booker,4,2,15,0,Pullup Jump shot,21,67,209,True
+Devin Booker,2,0,46,0,Pullup Jump shot,12,-77,94,True
+Devin Booker,2,5,46,0,Pullup Jump shot,16,-71,154,True
+Devin Booker,4,2,29,0,Pullup Jump shot,21,37,216,True
+Devin Booker,1,11,0,0,Pullup Jump shot,26,8,265,False
+Devin Booker,3,8,33,1,Pullup Jump shot,25,-75,247,False
+Devin Booker,4,1,55,0,Pullup Jump shot,17,93,147,True
+Devin Booker,4,4,32,1,Pullup Jump shot,12,-117,51,True
+Devin Booker,2,10,37,0,Pullup Jump shot,22,85,209,True
+Devin Booker,1,5,23,0,Pullup Jump shot,9,96,23,True
+Devin Booker,4,1,14,0,Pullup Jump shot,24,148,201,False
+Devin Booker,1,10,55,1,Pullup Jump shot,25,9,258,False
+Devin Booker,4,3,7,1,Pullup Jump shot,18,111,151,True
+Devin Booker,2,4,16,0,Pullup Jump shot,25,-55,248,False
+Devin Booker,4,1,5,0,Pullup Jump shot,24,-207,136,False
+Devin Booker,2,11,16,0,Pullup Jump shot,8,-81,1,True
+Devin Booker,3,8,35,0,Pullup Jump shot,8,-73,35,True
+Devin Booker,3,10,37,1,Pullup Jump shot,27,-46,269,False
+Devin Booker,4,5,2,0,Pullup Jump shot,18,90,164,True
+Devin Booker,3,6,57,1,Pullup Jump shot,14,39,142,True
+Devin Booker,4,0,42,1,Pullup Jump shot,28,79,269,False
+Devin Booker,1,7,48,1,Pullup Jump shot,19,-8,195,True
+Devin Booker,3,8,13,0,Pullup Jump shot,11,94,73,True
+Devin Booker,2,0,32,0,Pullup Jump shot,14,73,123,True
+Devin Booker,3,7,13,0,Pullup Jump shot,13,83,108,True
+Devin Booker,4,8,30,0,Pullup Jump shot,22,139,177,True
+Devin Booker,1,5,48,1,Pullup Jump shot,22,-19,221,True
+Devin Booker,2,8,59,0,Pullup Jump shot,24,-43,243,False
+Devin Booker,4,0,15,0,Pullup Jump shot,28,-113,263,False
+Devin Booker,1,4,42,0,Pullup Jump shot,16,-62,152,True
+Devin Booker,3,10,17,0,Pullup Jump shot,17,67,162,True
+Devin Booker,1,9,18,0,Pullup Jump shot,7,-65,26,True
+Devin Booker,4,0,36,0,Pullup Jump shot,18,-36,178,True
+Devin Booker,4,1,16,0,Pullup Jump shot,26,44,258,False
+Devin Booker,3,5,35,1,Pullup Jump shot,25,-105,230,False
+Devin Booker,1,10,20,0,Pullup Jump shot,15,151,48,True
+Devin Booker,3,6,24,0,Pullup Jump shot,26,-93,243,False
+Devin Booker,3,6,29,1,Pullup Jump shot,10,20,101,True
+Devin Booker,1,8,7,1,Pullup Jump shot,26,11,264,False
+Devin Booker,3,8,28,0,Pullup Jump shot,18,78,166,True
+Devin Booker,2,5,29,0,Pullup Jump shot,24,134,207,False
+Devin Booker,3,0,32,1,Pullup Jump shot,29,107,272,False
+Devin Booker,1,7,23,1,Pullup Jump shot,15,69,143,True
+Devin Booker,3,0,4,0,Pullup Jump shot,24,-138,198,False
+Devin Booker,2,9,5,0,Pullup Jump shot,4,-1,41,True
+Devin Booker,2,3,10,0,Pullup Jump shot,16,-128,111,True
+Devin Booker,4,6,36,1,Pullup Jump shot,17,-1,170,True
+Devin Booker,1,5,38,1,Pullup Jump shot,18,-105,152,True
+Devin Booker,3,7,53,0,Pullup Jump shot,26,56,260,False
+Devin Booker,4,3,53,0,Pullup Jump shot,25,-106,230,False
+Devin Booker,1,2,34,0,Pullup Jump shot,12,124,-15,True
+Devin Booker,1,8,0,0,Pullup Jump shot,24,-112,218,False
+Devin Booker,3,8,48,1,Pullup Jump shot,24,-53,239,False
+Devin Booker,1,6,18,0,Pullup Jump shot,19,77,182,True
+Devin Booker,1,6,0,1,Pullup Jump shot,19,79,175,True
+Devin Booker,3,1,15,1,Pullup Jump shot,22,-43,224,True
+Devin Booker,4,8,39,0,Pullup Jump shot,24,180,164,False
+Devin Booker,3,1,51,0,Pullup Jump shot,18,-99,153,True
+Devin Booker,4,6,27,1,Pullup Jump shot,11,117,4,True
+Devin Booker,2,9,29,1,Pullup Jump shot,23,-42,236,False
+Devin Booker,2,8,28,1,Pullup Jump shot,16,116,116,True
+Devin Booker,1,8,47,1,Pullup Jump shot,14,116,85,True
+Devin Booker,2,0,41,0,Pullup Jump shot,10,38,95,True
+Devin Booker,2,3,57,0,Pullup Jump shot,16,87,140,True
+Devin Booker,2,3,47,0,Pullup Jump shot,16,-17,160,True
+Devin Booker,3,10,5,0,Pullup Jump shot,15,-4,158,True
+Devin Booker,4,6,49,0,Pullup Jump shot,10,-87,63,True
+Devin Booker,1,0,0,0,Pullup Jump shot,30,-214,222,False
+Devin Booker,2,6,44,0,Pullup Jump shot,15,-9,158,True
+Devin Booker,1,2,23,1,Pullup Jump shot,18,50,180,True
+Devin Booker,2,9,0,1,Pullup Jump shot,16,55,153,True
+Devin Booker,2,0,3,1,Pullup Jump shot,29,-86,287,False
+Devin Booker,2,1,24,1,Pullup Jump shot,15,-136,68,True
+Devin Booker,3,3,2,0,Pullup Jump shot,21,-89,199,True
+Devin Booker,4,5,23,1,Pullup Jump shot,26,-51,263,False
+Devin Booker,4,9,10,1,Pullup Jump shot,10,-56,94,True
+Devin Booker,1,7,40,0,Pullup Jump shot,27,102,257,False
+Devin Booker,4,1,49,0,Pullup Jump shot,21,86,200,True
+Devin Booker,1,5,27,1,Pullup Jump shot,13,132,10,True
+Devin Booker,1,10,24,0,Pullup Jump shot,18,-76,167,True
+Devin Booker,1,11,24,0,Pullup Jump shot,22,63,211,True
+Devin Booker,2,10,28,0,Pullup Jump shot,10,61,87,True
+Devin Booker,3,4,44,0,Pullup Jump shot,12,119,-20,True
+Devin Booker,3,6,33,1,Pullup Jump shot,25,-15,257,False
+Devin Booker,1,8,22,1,Pullup Jump shot,18,-54,172,True
+Devin Booker,1,0,1,0,Pullup Jump shot,21,-143,167,True
+Devin Booker,4,11,7,0,Pullup Jump shot,18,112,153,True
+Devin Booker,2,0,9,0,Pullup Jump shot,27,68,268,False
+Devin Booker,1,10,55,0,Pullup Jump shot,13,-36,125,True
+Devin Booker,4,8,32,0,Pullup Jump shot,10,79,75,True
+Devin Booker,1,11,47,1,Pullup Jump shot,26,144,227,False
+Devin Booker,3,4,30,0,Pullup Jump shot,26,-147,222,False
+Devin Booker,1,1,12,0,Pullup Jump shot,17,100,147,True
+Devin Booker,1,7,31,0,Pullup Jump shot,25,-92,233,False
+Devin Booker,3,9,39,1,Pullup Jump shot,26,-67,252,False
+Devin Booker,1,11,42,1,Pullup Jump shot,13,-1,137,True
+Devin Booker,3,11,46,0,Pullup Jump shot,13,-135,1,True
+Devin Booker,4,1,35,0,Pullup Jump shot,21,-3,216,True
+Devin Booker,3,6,48,0,Pullup Jump shot,10,97,25,True
+Devin Booker,2,6,31,1,Pullup Jump shot,19,40,186,True
+Devin Booker,1,5,3,1,Pullup Jump shot,21,96,196,True
+Devin Booker,4,0,35,0,Pullup Jump shot,25,-84,243,False
+Devin Booker,3,8,41,1,Pullup Jump shot,14,-57,129,True
+Devin Booker,1,8,5,0,Pullup Jump shot,27,-152,226,False
+Devin Booker,4,10,20,1,Pullup Jump shot,27,183,209,False
+Devin Booker,5,0,7,0,Pullup Jump shot,11,115,9,True
+Devin Booker,1,10,15,1,Pullup Jump shot,16,166,-13,True
+Devin Booker,1,2,33,1,Pullup Jump shot,25,3,253,False
+Devin Booker,4,6,31,0,Pullup Jump shot,6,67,8,True
+Devin Booker,2,3,45,0,Pullup Jump shot,24,-70,236,False
+Devin Booker,2,3,57,0,Pullup Jump shot,13,0,137,True
+Devin Booker,4,4,9,0,Pullup Jump shot,13,-89,99,True
+Devin Booker,3,7,58,1,Pullup Jump shot,27,-73,262,False
+Devin Booker,3,7,51,0,Pullup Jump shot,11,-84,79,True
+Devin Booker,5,1,22,0,Pullup Jump shot,7,-70,38,True
+Devin Booker,5,2,39,0,Pullup Jump shot,12,121,22,True
+Devin Booker,2,6,4,1,Pullup Jump shot,5,46,24,True
+Devin Booker,3,6,27,1,Pullup Jump shot,18,36,181,True
+Devin Booker,1,9,41,1,Pullup Jump shot,16,107,123,True
+Devin Booker,1,9,33,1,Pullup Jump shot,25,2,250,False
+Devin Booker,4,4,1,0,Pullup Jump shot,13,71,109,True
+Devin Booker,4,1,29,1,Pullup Jump shot,25,-159,199,False
+Devin Booker,1,9,35,1,Pullup Jump shot,19,-172,93,True
+Devin Booker,3,4,41,1,Pullup Jump shot,20,-60,194,True
+Devin Booker,4,5,56,0,Pullup Jump shot,19,-25,197,True
+Devin Booker,3,6,42,0,Pullup Jump shot,16,74,143,True
+Devin Booker,1,8,38,0,Pullup Jump shot,25,-63,251,False
+Devin Booker,3,4,7,0,Pullup Jump shot,12,-127,22,True
+Devin Booker,3,10,43,1,Pullup Jump shot,27,-22,277,False
+Devin Booker,4,5,29,1,Pullup Jump shot,17,87,151,True
+Devin Booker,4,5,32,0,Pullup Jump shot,16,54,155,True
+Devin Booker,3,2,19,0,Pullup Jump shot,18,-130,136,True
+Devin Booker,1,9,58,1,Pullup Jump shot,11,62,96,True
+Devin Booker,2,0,38,1,Pullup Jump shot,24,-171,180,False
+Devin Booker,4,4,15,0,Pullup Jump shot,25,-70,247,False
+Devin Booker,2,8,7,0,Pullup Jump shot,25,64,248,False
+Devin Booker,2,4,11,1,Pullup Jump shot,13,131,47,True
+Devin Booker,4,4,58,0,Pullup Jump shot,10,106,17,True
+Devin Booker,2,2,25,0,Pullup Jump shot,14,-141,37,True
+Devin Booker,3,1,22,0,Pullup Jump shot,27,126,247,False
+Devin Booker,1,8,47,1,Pullup Jump shot,12,-122,-4,True
+Devin Booker,1,11,48,0,Pullup Jump shot,20,0,200,True
+Devin Booker,2,0,0,0,Pullup Jump shot,42,0,424,False
+Devin Booker,1,10,2,1,Pullup Jump shot,13,35,128,True
+Devin Booker,3,10,4,1,Pullup Jump shot,8,6,83,True
+Devin Booker,3,5,56,0,Pullup Jump shot,9,-91,19,True
+Devin Booker,2,2,14,0,Pullup Jump shot,26,-47,256,False
+Devin Booker,2,2,37,0,Pullup Jump shot,11,-117,-13,True
+Devin Booker,4,5,57,1,Pullup Jump shot,16,-42,158,True
+Devin Booker,3,4,8,1,Pullup Jump shot,17,-42,167,True
+Devin Booker,3,7,19,0,Pullup Jump shot,9,99,9,True
+Devin Booker,1,5,51,1,Pullup Jump shot,16,160,55,True
+Devin Booker,2,1,25,1,Pullup Jump shot,26,-9,262,False
+Devin Booker,1,6,52,0,Pullup Jump shot,24,-135,206,False
+Devin Booker,4,6,22,0,Pullup Jump shot,26,71,256,False
+Devin Booker,1,10,37,1,Pullup Jump shot,25,-3,258,False
+Devin Booker,4,6,16,1,Pullup Jump shot,24,-157,190,False
+Devin Booker,4,1,29,1,Pullup Jump shot,25,-30,256,False
+Devin Booker,1,4,40,0,Pullup Jump shot,16,130,105,True
+Devin Booker,1,7,32,0,Pullup Jump shot,25,-78,248,False
+Devin Booker,2,6,20,1,Pullup Jump shot,26,-187,181,False
+Devin Booker,3,11,8,1,Pullup Jump shot,9,-96,-20,True
+Devin Booker,1,9,14,0,Pullup Jump shot,13,90,95,True
+Devin Booker,4,3,37,0,Pullup Jump shot,23,84,215,True
+Devin Booker,4,6,41,0,Pullup Jump shot,9,46,80,True
+Devin Booker,2,3,29,0,Pullup Jump shot,13,-133,38,True
+Devin Booker,3,9,35,0,Pullup Jump shot,13,-70,110,True
+Devin Booker,3,10,37,1,Pullup Jump shot,12,74,100,True
+Devin Booker,2,0,38,1,Pullup Jump shot,24,93,230,False
+Devin Booker,1,2,56,0,Pullup Jump shot,13,136,6,True
+Devin Booker,1,1,12,0,Pullup Jump shot,21,175,127,True
+Devin Booker,1,10,11,1,Pullup Jump shot,20,10,204,True
+Devin Booker,3,10,8,1,Pullup Jump shot,24,39,246,False
+Devin Booker,4,0,53,1,Pullup Jump shot,20,-79,185,True
+Devin Booker,2,7,14,0,Pullup Jump shot,11,-101,52,True
+Devin Booker,2,2,1,1,Pullup Jump shot,16,-89,144,True
+Devin Booker,3,10,11,1,Pullup Jump shot,13,97,90,True
+Devin Booker,4,1,25,1,Pullup Jump shot,8,85,29,True
+Devin Booker,1,1,39,0,Pullup Jump shot,26,154,220,False
+Devin Booker,3,9,8,1,Pullup Jump shot,16,84,145,True
+Devin Booker,4,7,24,0,Pullup Jump shot,22,-65,211,True
+Devin Booker,4,2,51,1,Pullup Jump shot,14,-2,148,True
+Devin Booker,1,3,47,1,Pullup Jump shot,8,77,42,True
+Devin Booker,1,0,0,0,Pullup Jump shot,32,134,300,False
+Devin Booker,2,4,34,1,Pullup Jump shot,23,201,130,False
+Devin Booker,4,3,38,0,Pullup Jump shot,15,-148,36,True
+Devin Booker,4,7,24,1,Pullup Jump shot,14,-113,87,True
+Devin Booker,2,6,41,0,Pullup Jump shot,24,-117,220,False
+Devin Booker,1,7,9,1,Pullup Jump shot,12,35,116,True
+Devin Booker,1,5,6,1,Pullup Jump shot,18,123,135,True
+Devin Booker,2,0,39,0,Pullup Jump shot,25,103,230,False
+Devin Booker,2,9,47,0,Pullup Jump shot,18,93,160,True
+Devin Booker,3,1,10,1,Pullup Jump shot,15,-60,141,True
+Devin Booker,3,11,10,0,Pullup Jump shot,26,-180,193,False
+Devin Booker,2,6,52,0,Pullup Jump shot,24,-136,203,False
+Devin Booker,4,2,19,1,Pullup Jump shot,26,194,178,False
+Devin Booker,4,1,38,0,Pullup Jump shot,28,-168,226,False
+Devin Booker,2,10,30,0,Pullup Jump shot,25,17,252,False
+Devin Booker,3,6,24,1,Pullup Jump shot,19,136,138,True
+Devin Booker,4,1,26,0,Pullup Jump shot,14,92,116,True
+Devin Booker,2,3,26,0,Pullup Jump shot,15,19,152,True
+Devin Booker,1,0,30,0,Pullup Jump shot,12,31,116,True
+Devin Booker,3,11,41,0,Pullup Jump shot,12,128,-21,True
+Devin Booker,4,1,52,0,Pullup Jump shot,25,100,232,False
+Devin Booker,3,7,22,0,Pullup Jump shot,26,16,268,False
+Devin Booker,3,9,0,1,Pullup Jump shot,11,116,25,True
+Devin Booker,1,5,40,0,Pullup Jump shot,14,-81,115,True
+Devin Booker,4,2,53,1,Pullup Jump shot,16,-86,145,True
+Devin Booker,3,7,10,1,Pullup Jump shot,15,-90,126,True
+Devin Booker,1,7,21,1,Pullup Jump shot,16,-32,166,True
+Devin Booker,1,0,37,1,Putback Layup Shot,0,0,-6,True
+Devin Booker,4,8,58,1,Putback Layup Shot,1,7,11,True
+Devin Booker,3,7,20,1,Putback Layup Shot,2,-20,3,True
+Devin Booker,5,1,19,0,Putback Layup Shot,2,-22,14,True
+Devin Booker,2,7,38,0,Reverse Layup Shot,0,2,-4,True
+Devin Booker,3,7,50,1,Reverse Layup Shot,0,0,8,True
+Devin Booker,4,6,45,1,Running Dunk Shot,0,5,-4,True
+Devin Booker,2,8,27,1,Running Dunk Shot,1,0,11,True
+Devin Booker,1,0,53,1,Running Dunk Shot,0,0,-1,True
+Devin Booker,4,2,1,1,Running Dunk Shot,0,-3,1,True
+Devin Booker,2,5,15,1,Running Dunk Shot,1,6,11,True
+Devin Booker,2,8,1,1,Running Dunk Shot,0,0,4,True
+Devin Booker,2,6,5,1,Running Dunk Shot,1,10,-10,True
+Devin Booker,1,3,35,1,Running Finger Roll Layup Shot,0,2,4,True
+Devin Booker,4,1,23,0,Running Finger Roll Layup Shot,1,-2,16,True
+Devin Booker,4,9,25,1,Running Finger Roll Layup Shot,3,9,30,True
+Devin Booker,2,7,22,1,Running Finger Roll Layup Shot,4,41,17,True
+Devin Booker,1,8,29,0,Running Jump Shot,25,118,230,False
+Devin Booker,3,8,4,0,Running Jump Shot,23,230,42,False
+Devin Booker,1,9,4,0,Running Jump Shot,25,-207,146,False
+Devin Booker,3,7,37,0,Running Jump Shot,25,-171,184,False
+Devin Booker,2,11,27,0,Running Jump Shot,25,151,204,False
+Devin Booker,1,10,0,1,Running Jump Shot,25,-200,166,False
+Devin Booker,3,7,59,0,Running Jump Shot,26,174,196,False
+Devin Booker,1,7,46,1,Running Jump Shot,18,-98,153,True
+Devin Booker,1,4,16,0,Running Jump Shot,2,20,5,True
+Devin Booker,3,4,28,0,Running Jump Shot,25,228,104,False
+Devin Booker,3,9,1,0,Running Jump Shot,24,89,232,False
+Devin Booker,2,3,16,0,Running Jump Shot,26,114,237,False
+Devin Booker,3,8,57,1,Running Jump Shot,26,-42,257,False
+Devin Booker,4,3,42,1,Running Jump Shot,24,-239,-37,False
+Devin Booker,2,0,31,0,Running Jump Shot,25,136,216,False
+Devin Booker,3,2,22,0,Running Jump Shot,6,-51,39,True
+Devin Booker,2,0,2,1,Running Jump Shot,8,41,78,True
+Devin Booker,2,8,12,0,Running Jump Shot,24,-113,221,False
+Devin Booker,3,8,42,1,Running Layup Shot,9,-94,13,True
+Devin Booker,2,5,50,0,Running Layup Shot,0,-4,-7,True
+Devin Booker,3,8,24,0,Running Layup Shot,3,28,19,True
+Devin Booker,2,4,30,0,Running Layup Shot,1,-15,6,True
+Devin Booker,4,0,37,0,Running Layup Shot,5,-55,11,True
+Devin Booker,3,7,42,1,Running Layup Shot,1,-10,15,True
+Devin Booker,1,1,16,1,Running Layup Shot,1,2,15,True
+Devin Booker,3,7,37,1,Running Layup Shot,0,2,4,True
+Devin Booker,1,7,58,1,Running Layup Shot,0,3,0,True
+Devin Booker,4,9,2,0,Running Layup Shot,0,8,1,True
+Devin Booker,1,10,17,1,Running Layup Shot,0,-1,4,True
+Devin Booker,5,0,29,0,Running Layup Shot,1,-4,14,True
+Devin Booker,1,4,53,0,Running Layup Shot,3,-29,21,True
+Devin Booker,1,9,9,0,Running Layup Shot,1,-6,11,True
+Devin Booker,3,9,4,1,Running Layup Shot,0,5,4,True
+Devin Booker,1,8,16,0,Running Layup Shot,3,16,26,True
+Devin Booker,3,10,51,1,Running Layup Shot,7,65,34,True
+Devin Booker,1,0,36,0,Running Layup Shot,1,11,5,True
+Devin Booker,2,4,32,1,Running Layup Shot,6,-50,36,True
+Devin Booker,4,4,12,1,Running Layup Shot,1,-5,11,True
+Devin Booker,1,8,20,0,Running Layup Shot,3,-36,7,True
+Devin Booker,2,3,27,0,Running Layup Shot,1,11,10,True
+Devin Booker,4,2,26,0,Running Layup Shot,1,6,15,True
+Devin Booker,3,5,50,1,Running Layup Shot,0,-3,3,True
+Devin Booker,4,8,19,0,Running Layup Shot,0,-4,1,True
+Devin Booker,1,6,57,0,Running Layup Shot,7,37,70,True
+Devin Booker,4,5,44,0,Running Pull-Up Jump Shot,26,127,227,False
+Devin Booker,3,6,11,1,Running Pull-Up Jump Shot,24,-149,199,False
+Devin Booker,2,10,42,1,Running Pull-Up Jump Shot,17,-6,170,True
+Devin Booker,1,9,20,0,Running Pull-Up Jump Shot,22,-127,186,True
+Devin Booker,4,11,22,0,Running Pull-Up Jump Shot,24,-118,213,False
+Devin Booker,2,4,30,1,Running Pull-Up Jump Shot,18,91,157,True
+Devin Booker,4,1,36,0,Running Pull-Up Jump Shot,25,-123,218,False
+Devin Booker,1,7,58,0,Running Pull-Up Jump Shot,26,155,212,False
+Devin Booker,2,0,1,0,Running Pull-Up Jump Shot,31,127,283,False
+Devin Booker,3,11,3,1,Running Pull-Up Jump Shot,17,41,171,True
+Devin Booker,2,3,13,0,Running Pull-Up Jump Shot,9,69,64,True
+Devin Booker,3,10,7,0,Running Pull-Up Jump Shot,26,-174,194,False
+Devin Booker,2,8,8,0,Running Pull-Up Jump Shot,24,147,202,False
+Devin Booker,1,9,14,0,Running Pull-Up Jump Shot,26,-32,268,False
+Devin Booker,1,8,45,1,Running Pull-Up Jump Shot,25,-59,246,False
+Devin Booker,1,7,14,1,Running Pull-Up Jump Shot,25,85,238,False
+Devin Booker,1,6,48,0,Running Pull-Up Jump Shot,26,128,231,False
+Devin Booker,4,4,38,0,Running Pull-Up Jump Shot,26,-32,267,False
+Devin Booker,2,1,59,0,Running Pull-Up Jump Shot,26,201,174,False
+Devin Booker,3,7,51,0,Running Pull-Up Jump Shot,28,-125,258,False
+Devin Booker,2,0,54,0,Running Pull-Up Jump Shot,16,10,167,True
+Devin Booker,3,0,28,0,Running Pull-Up Jump Shot,15,-32,156,True
+Devin Booker,2,7,6,1,Running Pull-Up Jump Shot,24,-93,232,False
+Devin Booker,1,5,33,1,Running Pull-Up Jump Shot,25,53,254,False
+Devin Booker,3,1,59,0,Running Pull-Up Jump Shot,27,13,272,False
+Devin Booker,3,10,18,1,Running Pull-Up Jump Shot,25,145,210,False
+Devin Booker,3,2,51,1,Running Pull-Up Jump Shot,12,-60,113,True
+Devin Booker,2,4,41,0,Running Pull-Up Jump Shot,25,65,245,False
+Devin Booker,4,2,28,0,Running Pull-Up Jump Shot,9,79,50,True
+Devin Booker,1,8,53,0,Running Pull-Up Jump Shot,27,-90,259,False
+Devin Booker,2,9,1,1,Running Pull-Up Jump Shot,26,85,246,False
+Devin Booker,4,6,50,1,Running Pull-Up Jump Shot,15,67,136,True
+Devin Booker,3,8,0,1,Running Pull-Up Jump Shot,24,-205,143,False
+Devin Booker,1,5,57,0,Step Back Jump shot,20,-46,196,True
+Devin Booker,1,6,1,1,Step Back Jump shot,24,193,153,False
+Devin Booker,1,9,2,0,Step Back Jump shot,17,63,162,True
+Devin Booker,4,8,4,1,Step Back Jump shot,22,-29,225,True
+Devin Booker,3,5,28,0,Step Back Jump shot,22,-228,10,False
+Devin Booker,1,3,53,0,Step Back Jump shot,17,-168,33,True
+Devin Booker,3,4,54,0,Step Back Jump shot,25,58,246,False
+Devin Booker,4,11,19,0,Step Back Jump shot,17,15,170,True
+Devin Booker,2,2,23,1,Step Back Jump shot,26,151,215,False
+Devin Booker,3,1,55,0,Step Back Jump shot,14,-75,125,True
+Devin Booker,2,4,50,1,Step Back Jump shot,10,92,45,True
+Devin Booker,4,2,13,0,Step Back Jump shot,21,133,164,True
+Devin Booker,2,2,35,1,Step Back Jump shot,26,117,243,False
+Devin Booker,4,11,30,0,Step Back Jump shot,25,12,256,False
+Devin Booker,1,9,36,1,Step Back Jump shot,13,138,-9,True
+Devin Booker,4,3,24,0,Step Back Jump shot,21,-168,129,True
+Devin Booker,4,1,10,0,Step Back Jump shot,25,-156,200,False
+Devin Booker,3,6,26,0,Step Back Jump shot,21,-143,162,True
+Devin Booker,1,9,10,1,Step Back Jump shot,15,122,96,True
+Devin Booker,2,0,33,1,Step Back Jump shot,18,-172,71,True
+Devin Booker,3,10,34,1,Step Back Jump shot,25,-101,232,False
+Devin Booker,1,11,11,1,Step Back Jump shot,19,-20,193,True
+Devin Booker,4,4,32,1,Step Back Jump shot,26,40,257,False
+Devin Booker,2,2,17,1,Step Back Jump shot,15,122,94,True
+Devin Booker,3,4,0,0,Step Back Jump shot,12,-121,36,True
+Devin Booker,2,2,53,0,Step Back Jump shot,19,101,165,True
+Devin Booker,4,3,10,0,Step Back Jump shot,12,-127,-22,True
+Devin Booker,4,4,4,0,Step Back Jump shot,25,-221,127,False
+Devin Booker,2,9,1,1,Step Back Jump shot,13,131,13,True
+Devin Booker,2,3,32,0,Step Back Jump shot,22,-73,216,True
+Devin Booker,3,5,0,1,Step Back Jump shot,18,-73,168,True
+Devin Booker,2,1,9,1,Step Back Jump shot,12,98,73,True
+Devin Booker,4,1,30,1,Step Back Jump shot,21,188,108,True
+Devin Booker,3,10,37,1,Step Back Jump shot,25,11,251,False
+Devin Booker,2,0,32,0,Step Back Jump shot,25,168,197,False
+Devin Booker,2,5,44,1,Step Back Jump shot,19,-2,197,True
+Devin Booker,4,3,46,0,Step Back Jump shot,25,-214,140,False
+Devin Booker,2,0,15,1,Step Back Jump shot,25,128,225,False
+Devin Booker,4,8,51,0,Step Back Jump shot,26,-52,261,False
+Devin Booker,3,4,50,1,Step Back Jump shot,8,-81,6,True
+Devin Booker,3,10,5,0,Step Back Jump shot,24,-185,166,False
+Devin Booker,3,3,26,1,Step Back Jump shot,18,-27,178,True
+Devin Booker,3,4,37,0,Step Back Jump shot,26,-24,261,False
+Devin Booker,3,9,27,0,Step Back Jump shot,24,-128,211,False
+Devin Booker,4,2,36,0,Step Back Jump shot,16,-136,100,True
+Devin Booker,1,0,33,1,Step Back Jump shot,25,-204,147,False
+Devin Booker,4,1,7,0,Step Back Jump shot,22,-223,-11,False
+Devin Booker,2,4,55,0,Step Back Jump shot,12,-93,78,True
+Devin Booker,2,3,34,1,Step Back Jump shot,22,-226,17,False
+Devin Booker,3,10,25,0,Step Back Jump shot,16,-84,143,True
+Devin Booker,1,9,11,0,Step Back Jump shot,27,-103,252,False
+Devin Booker,2,1,57,0,Step Back Jump shot,22,-64,216,True
+Devin Booker,3,7,5,0,Step Back Jump shot,15,158,2,True
+Devin Booker,3,0,6,0,Step Back Jump shot,25,119,225,False
+Devin Booker,4,4,16,0,Step Back Jump shot,25,206,151,False
+Devin Booker,2,6,21,0,Step Back Jump shot,25,-95,242,False
+Devin Booker,3,9,3,1,Step Back Jump shot,13,105,82,True
+Devin Booker,1,9,30,1,Tip Layup Shot,0,0,-6,True
+Devin Booker,2,4,28,0,Tip Layup Shot,0,0,-6,True
+Devin Booker,2,1,19,1,Turnaround Fadeaway Bank Jump Shot,7,67,31,True
+Devin Booker,1,3,15,1,Turnaround Fadeaway Bank Jump Shot,9,68,62,True
+Devin Booker,2,5,3,0,Turnaround Fadeaway shot,12,119,39,True
+Devin Booker,1,5,54,1,Turnaround Fadeaway shot,12,-77,96,True
+Devin Booker,2,0,31,1,Turnaround Fadeaway shot,16,151,53,True
+Devin Booker,1,5,57,1,Turnaround Fadeaway shot,5,21,53,True
+Devin Booker,4,7,8,1,Turnaround Fadeaway shot,8,-3,87,True
+Devin Booker,2,2,13,0,Turnaround Fadeaway shot,11,-104,54,True
+Devin Booker,3,8,33,0,Turnaround Hook Shot,6,-63,30,True
+Devin Booker,3,10,35,1,Turnaround Hook Shot,9,-43,83,True
+Devin Booker,3,4,24,0,Turnaround Jump Shot,14,143,29,True
+Devin Booker,4,5,43,0,Turnaround Jump Shot,13,-131,18,True
+Devin Booker,1,7,35,1,Turnaround Jump Shot,24,-71,237,False
+Devin Booker,4,0,1,1,Turnaround Jump Shot,28,-150,239,False
+Devin Booker,3,6,34,0,Turnaround Jump Shot,3,27,18,True
+Devin Booker,3,1,50,0,Turnaround Jump Shot,12,-70,103,True
+Devin Booker,4,8,23,1,Turnaround Jump Shot,9,-85,32,True
+Devin Booker,4,3,27,0,Turnaround Jump Shot,24,-205,129,False
+Devin Booker,2,2,11,0,Turnaround Jump Shot,7,42,57,True
+Devin Booker,2,1,35,1,Turnaround Jump Shot,10,109,6,True
+Devin Booker,2,2,29,0,Turnaround Jump Shot,12,44,117,True
+Devin Booker,1,6,56,0,Turnaround Jump Shot,8,45,73,True
+Devin Booker,2,4,45,0,Turnaround Jump Shot,9,93,-2,True
+Devin Booker,4,6,19,0,Turnaround Jump Shot,7,-75,-1,True
+Devin Booker,1,7,22,0,Turnaround Jump Shot,11,-106,40,True
+Devin Booker,3,6,23,0,Turnaround Jump Shot,8,-74,51,True
+Devin Booker,1,3,33,1,Turnaround Jump Shot,12,120,46,True
+Devin Booker,3,8,17,0,Turnaround Jump Shot,13,-139,4,True
+Devin Booker,2,2,17,1,Turnaround Jump Shot,20,29,198,True
+Devin Booker,3,5,30,0,Turnaround Jump Shot,9,38,84,True
+Devin Booker,4,11,45,1,Turnaround Jump Shot,8,-55,59,True
+Devin Booker,3,8,19,0,Turnaround Jump Shot,13,43,132,True
+Devin Booker,3,8,37,0,Turnaround Jump Shot,7,36,71,True
+Devin Booker,3,6,14,0,Turnaround Jump Shot,10,66,85,True
+Devin Booker,2,10,15,1,Turnaround Jump Shot,3,18,31,True
+Devin Booker,1,4,20,1,Turnaround Jump Shot,8,32,75,True
+Devin Booker,3,7,14,0,Turnaround Jump Shot,5,-36,46,True
+Devin Booker,4,8,4,1,Turnaround Jump Shot,20,-3,208,True
+Devin Booker,4,1,22,0,Turnaround Jump Shot,17,-169,48,True

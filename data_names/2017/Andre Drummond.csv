@@ -1,0 +1,814 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Andre Drummond,1,0,26,0,Alley Oop Dunk Shot,1,-2,10,True
+Andre Drummond,1,6,46,0,Alley Oop Dunk Shot,0,2,9,True
+Andre Drummond,3,11,17,1,Alley Oop Dunk Shot,0,-7,7,True
+Andre Drummond,1,8,48,1,Alley Oop Dunk Shot,0,9,4,True
+Andre Drummond,1,1,20,1,Alley Oop Dunk Shot,0,-3,-3,True
+Andre Drummond,3,3,10,1,Alley Oop Dunk Shot,1,11,8,True
+Andre Drummond,2,5,1,1,Alley Oop Dunk Shot,0,1,-1,True
+Andre Drummond,2,6,44,1,Alley Oop Dunk Shot,2,-1,20,True
+Andre Drummond,3,8,47,1,Alley Oop Dunk Shot,0,-2,-1,True
+Andre Drummond,4,7,59,1,Alley Oop Dunk Shot,1,-2,17,True
+Andre Drummond,4,8,0,0,Alley Oop Dunk Shot,2,-5,27,True
+Andre Drummond,2,1,31,1,Alley Oop Dunk Shot,1,-3,14,True
+Andre Drummond,2,3,29,1,Alley Oop Dunk Shot,1,7,17,True
+Andre Drummond,2,0,2,1,Alley Oop Dunk Shot,1,11,13,True
+Andre Drummond,3,5,26,1,Alley Oop Dunk Shot,1,-11,14,True
+Andre Drummond,3,4,0,1,Alley Oop Dunk Shot,1,-12,4,True
+Andre Drummond,3,7,15,1,Alley Oop Dunk Shot,0,-3,1,True
+Andre Drummond,1,0,38,0,Alley Oop Dunk Shot,2,-9,19,True
+Andre Drummond,2,6,5,0,Alley Oop Dunk Shot,1,5,14,True
+Andre Drummond,2,2,2,1,Alley Oop Dunk Shot,1,11,6,True
+Andre Drummond,2,4,35,0,Alley Oop Dunk Shot,1,-9,16,True
+Andre Drummond,3,9,14,1,Alley Oop Dunk Shot,0,2,8,True
+Andre Drummond,3,8,13,1,Alley Oop Dunk Shot,0,-6,7,True
+Andre Drummond,3,4,29,1,Alley Oop Dunk Shot,0,-5,5,True
+Andre Drummond,2,1,11,1,Alley Oop Dunk Shot,0,-2,1,True
+Andre Drummond,4,6,12,0,Alley Oop Dunk Shot,0,-3,1,True
+Andre Drummond,1,9,9,1,Alley Oop Dunk Shot,0,-4,6,True
+Andre Drummond,2,4,45,1,Alley Oop Dunk Shot,1,-2,13,True
+Andre Drummond,4,1,4,1,Alley Oop Dunk Shot,0,-7,-4,True
+Andre Drummond,4,2,10,0,Alley Oop Dunk Shot,1,0,17,True
+Andre Drummond,1,9,32,1,Alley Oop Dunk Shot,1,6,9,True
+Andre Drummond,1,10,22,1,Alley Oop Dunk Shot,2,-9,20,True
+Andre Drummond,1,4,30,1,Alley Oop Dunk Shot,1,-2,10,True
+Andre Drummond,3,8,34,1,Alley Oop Dunk Shot,0,3,6,True
+Andre Drummond,1,2,33,1,Alley Oop Dunk Shot,1,12,6,True
+Andre Drummond,1,8,28,1,Alley Oop Dunk Shot,0,0,5,True
+Andre Drummond,3,8,51,1,Alley Oop Dunk Shot,0,1,9,True
+Andre Drummond,1,9,13,1,Alley Oop Dunk Shot,1,-7,16,True
+Andre Drummond,1,5,57,1,Alley Oop Dunk Shot,3,-25,20,True
+Andre Drummond,3,2,25,1,Alley Oop Dunk Shot,0,-5,6,True
+Andre Drummond,3,3,35,1,Alley Oop Dunk Shot,1,-2,11,True
+Andre Drummond,2,6,58,1,Alley Oop Dunk Shot,1,-1,10,True
+Andre Drummond,2,1,51,1,Alley Oop Dunk Shot,1,-3,12,True
+Andre Drummond,4,9,24,1,Alley Oop Dunk Shot,0,-4,6,True
+Andre Drummond,4,9,0,1,Alley Oop Dunk Shot,0,-4,1,True
+Andre Drummond,3,9,48,0,Alley Oop Dunk Shot,0,5,-6,True
+Andre Drummond,1,10,1,1,Alley Oop Dunk Shot,0,-5,7,True
+Andre Drummond,2,3,21,1,Alley Oop Dunk Shot,0,-2,8,True
+Andre Drummond,3,8,18,1,Alley Oop Dunk Shot,1,5,15,True
+Andre Drummond,2,5,29,1,Alley Oop Dunk Shot,2,3,21,True
+Andre Drummond,1,8,39,1,Alley Oop Dunk Shot,1,-13,-9,True
+Andre Drummond,3,4,17,0,Alley Oop Dunk Shot,1,-9,13,True
+Andre Drummond,1,10,31,0,Alley Oop Dunk Shot,3,11,37,True
+Andre Drummond,3,9,53,1,Alley Oop Dunk Shot,0,-2,1,True
+Andre Drummond,2,6,21,1,Alley Oop Dunk Shot,2,3,20,True
+Andre Drummond,3,8,15,1,Alley Oop Dunk Shot,1,-1,10,True
+Andre Drummond,1,8,45,0,Alley Oop Dunk Shot,0,-4,8,True
+Andre Drummond,3,10,11,1,Alley Oop Dunk Shot,1,2,15,True
+Andre Drummond,4,2,40,1,Alley Oop Dunk Shot,1,3,10,True
+Andre Drummond,2,6,41,1,Alley Oop Dunk Shot,1,-8,8,True
+Andre Drummond,1,10,34,1,Alley Oop Dunk Shot,0,-8,5,True
+Andre Drummond,2,6,19,0,Alley Oop Dunk Shot,2,6,28,True
+Andre Drummond,4,2,23,1,Alley Oop Dunk Shot,1,0,19,True
+Andre Drummond,3,3,57,1,Alley Oop Dunk Shot,0,0,9,True
+Andre Drummond,2,4,22,1,Alley Oop Dunk Shot,1,-17,1,True
+Andre Drummond,4,5,56,1,Alley Oop Dunk Shot,0,7,6,True
+Andre Drummond,3,10,5,1,Alley Oop Dunk Shot,0,2,2,True
+Andre Drummond,2,10,42,1,Alley Oop Dunk Shot,1,4,10,True
+Andre Drummond,3,10,12,1,Alley Oop Layup shot,0,-6,4,True
+Andre Drummond,2,8,54,1,Alley Oop Layup shot,2,-16,25,True
+Andre Drummond,3,10,58,0,Alley Oop Layup shot,2,8,22,True
+Andre Drummond,3,11,31,1,Alley Oop Layup shot,1,1,11,True
+Andre Drummond,3,11,25,0,Alley Oop Layup shot,1,-9,-7,True
+Andre Drummond,3,7,11,0,Alley Oop Layup shot,4,43,10,True
+Andre Drummond,1,7,27,1,Alley Oop Layup shot,1,-17,8,True
+Andre Drummond,3,4,11,0,Alley Oop Layup shot,1,-5,18,True
+Andre Drummond,4,9,12,1,Alley Oop Layup shot,2,1,20,True
+Andre Drummond,4,2,58,1,Alley Oop Layup shot,1,-2,14,True
+Andre Drummond,4,10,59,0,Alley Oop Layup shot,4,-16,42,True
+Andre Drummond,2,4,11,1,Alley Oop Layup shot,0,3,4,True
+Andre Drummond,2,4,52,1,Alley Oop Layup shot,2,0,22,True
+Andre Drummond,1,2,45,1,Alley Oop Layup shot,0,1,8,True
+Andre Drummond,3,6,21,1,Alley Oop Layup shot,1,-2,17,True
+Andre Drummond,4,3,40,0,Alley Oop Layup shot,1,9,10,True
+Andre Drummond,2,2,42,1,Alley Oop Layup shot,0,2,6,True
+Andre Drummond,2,5,55,1,Alley Oop Layup shot,10,-5,108,True
+Andre Drummond,3,6,39,0,Alley Oop Layup shot,2,13,22,True
+Andre Drummond,1,6,8,1,Alley Oop Layup shot,3,5,34,True
+Andre Drummond,4,5,39,1,Alley Oop Layup shot,1,1,14,True
+Andre Drummond,2,2,34,0,Alley Oop Layup shot,1,-6,18,True
+Andre Drummond,3,6,31,1,Alley Oop Layup shot,1,-4,10,True
+Andre Drummond,2,0,54,0,Alley Oop Layup shot,2,-13,17,True
+Andre Drummond,1,7,18,1,Alley Oop Layup shot,2,-19,21,True
+Andre Drummond,4,4,54,0,Alley Oop Layup shot,2,-11,20,True
+Andre Drummond,2,5,51,0,Alley Oop Layup shot,1,-11,11,True
+Andre Drummond,3,6,27,0,Alley Oop Layup shot,1,-17,6,True
+Andre Drummond,1,9,53,1,Alley Oop Layup shot,1,-9,14,True
+Andre Drummond,1,7,27,1,Alley Oop Layup shot,1,-5,14,True
+Andre Drummond,3,0,21,1,Alley Oop Layup shot,1,-12,10,True
+Andre Drummond,3,3,2,1,Alley Oop Layup shot,1,-11,12,True
+Andre Drummond,4,10,5,1,Alley Oop Layup shot,1,-3,13,True
+Andre Drummond,1,8,39,1,Alley Oop Layup shot,1,-2,11,True
+Andre Drummond,3,4,48,1,Alley Oop Layup shot,2,-27,11,True
+Andre Drummond,3,4,50,1,Cutting Dunk Shot,0,-5,-1,True
+Andre Drummond,1,8,7,1,Cutting Dunk Shot,0,-3,8,True
+Andre Drummond,3,0,1,1,Cutting Dunk Shot,0,3,-1,True
+Andre Drummond,2,2,27,1,Cutting Dunk Shot,0,-2,1,True
+Andre Drummond,4,6,13,1,Cutting Dunk Shot,1,3,10,True
+Andre Drummond,2,10,48,1,Cutting Dunk Shot,1,-3,16,True
+Andre Drummond,1,10,30,1,Cutting Dunk Shot,1,13,9,True
+Andre Drummond,4,4,41,1,Cutting Finger Roll Layup Shot,2,0,28,True
+Andre Drummond,3,1,9,1,Cutting Finger Roll Layup Shot,1,-9,13,True
+Andre Drummond,4,8,32,1,Cutting Finger Roll Layup Shot,3,5,39,True
+Andre Drummond,3,10,28,1,Cutting Layup Shot,0,3,4,True
+Andre Drummond,1,11,9,0,Cutting Layup Shot,1,-3,11,True
+Andre Drummond,1,0,7,1,Cutting Layup Shot,1,1,15,True
+Andre Drummond,2,4,28,1,Cutting Layup Shot,0,-7,7,True
+Andre Drummond,2,5,28,0,Cutting Layup Shot,2,-23,16,True
+Andre Drummond,4,2,5,1,Cutting Layup Shot,0,1,3,True
+Andre Drummond,1,10,14,1,Cutting Layup Shot,0,-4,8,True
+Andre Drummond,3,4,28,0,Cutting Layup Shot,4,2,42,True
+Andre Drummond,1,6,16,0,Cutting Layup Shot,0,2,5,True
+Andre Drummond,1,10,9,1,Cutting Layup Shot,1,13,1,True
+Andre Drummond,3,9,10,0,Cutting Layup Shot,3,-18,26,True
+Andre Drummond,1,8,36,1,Cutting Layup Shot,2,3,20,True
+Andre Drummond,1,10,2,0,Cutting Layup Shot,1,2,17,True
+Andre Drummond,4,1,25,0,Cutting Layup Shot,1,14,-4,True
+Andre Drummond,3,9,4,0,Driving Bank Hook Shot,6,-61,30,True
+Andre Drummond,1,1,9,1,Driving Dunk Shot,1,4,10,True
+Andre Drummond,4,0,39,1,Driving Dunk Shot,1,-3,11,True
+Andre Drummond,1,1,8,1,Driving Dunk Shot,1,-2,11,True
+Andre Drummond,4,0,55,1,Driving Dunk Shot,1,-4,11,True
+Andre Drummond,1,6,46,1,Driving Dunk Shot,0,6,-4,True
+Andre Drummond,2,1,15,1,Driving Dunk Shot,1,-12,11,True
+Andre Drummond,2,8,3,1,Driving Dunk Shot,0,-2,8,True
+Andre Drummond,3,3,30,1,Driving Finger Roll Layup Shot,1,-9,10,True
+Andre Drummond,2,1,52,1,Driving Finger Roll Layup Shot,2,20,-11,True
+Andre Drummond,3,7,10,0,Driving Finger Roll Layup Shot,4,18,40,True
+Andre Drummond,4,10,6,1,Driving Finger Roll Layup Shot,0,2,8,True
+Andre Drummond,4,6,11,1,Driving Finger Roll Layup Shot,0,0,9,True
+Andre Drummond,3,7,14,1,Driving Finger Roll Layup Shot,1,-4,17,True
+Andre Drummond,3,11,43,1,Driving Finger Roll Layup Shot,3,29,24,True
+Andre Drummond,4,9,24,1,Driving Floating Bank Jump Shot,5,18,51,True
+Andre Drummond,1,10,17,1,Driving Floating Bank Jump Shot,3,23,21,True
+Andre Drummond,1,6,44,0,Driving Floating Jump Shot,5,-52,10,True
+Andre Drummond,4,2,36,0,Driving Floating Jump Shot,9,-6,90,True
+Andre Drummond,1,6,1,0,Driving Hook Shot,6,-45,42,True
+Andre Drummond,3,11,37,1,Driving Hook Shot,5,-13,53,True
+Andre Drummond,3,9,39,0,Driving Hook Shot,9,6,99,True
+Andre Drummond,1,5,15,0,Driving Hook Shot,5,-48,19,True
+Andre Drummond,1,9,35,1,Driving Hook Shot,9,-68,63,True
+Andre Drummond,1,5,12,1,Driving Hook Shot,8,0,85,True
+Andre Drummond,2,2,4,0,Driving Hook Shot,8,80,15,True
+Andre Drummond,4,6,41,0,Driving Hook Shot,3,-25,20,True
+Andre Drummond,3,8,28,1,Driving Hook Shot,9,-14,92,True
+Andre Drummond,1,11,23,1,Driving Layup Shot,2,-5,25,True
+Andre Drummond,3,7,9,0,Driving Layup Shot,1,-15,12,True
+Andre Drummond,4,4,45,0,Driving Layup Shot,3,27,20,True
+Andre Drummond,1,6,23,0,Driving Layup Shot,5,-44,31,True
+Andre Drummond,2,2,53,0,Driving Layup Shot,3,30,8,True
+Andre Drummond,4,0,38,0,Driving Layup Shot,2,-18,9,True
+Andre Drummond,2,6,45,1,Driving Layup Shot,0,-9,0,True
+Andre Drummond,3,5,49,0,Driving Layup Shot,2,-25,-4,True
+Andre Drummond,4,5,12,1,Driving Layup Shot,1,-18,7,True
+Andre Drummond,1,8,39,1,Driving Layup Shot,0,5,6,True
+Andre Drummond,1,3,28,1,Driving Layup Shot,0,-2,6,True
+Andre Drummond,4,0,43,1,Driving Layup Shot,2,-25,1,True
+Andre Drummond,1,7,28,1,Driving Layup Shot,1,-13,13,True
+Andre Drummond,3,3,16,1,Driving Layup Shot,0,5,-2,True
+Andre Drummond,2,7,36,0,Driving Layup Shot,4,-29,33,True
+Andre Drummond,2,4,32,1,Driving Layup Shot,2,19,13,True
+Andre Drummond,4,0,4,1,Driving Layup Shot,2,-5,26,True
+Andre Drummond,4,6,5,0,Driving Layup Shot,2,-2,27,True
+Andre Drummond,3,6,38,0,Driving Layup Shot,1,-7,15,True
+Andre Drummond,2,3,59,1,Driving Layup Shot,1,0,13,True
+Andre Drummond,4,3,36,0,Driving Layup Shot,5,-19,47,True
+Andre Drummond,4,4,58,0,Driving Layup Shot,2,8,20,True
+Andre Drummond,4,4,54,1,Driving Layup Shot,0,-3,2,True
+Andre Drummond,3,2,10,0,Driving Layup Shot,3,6,33,True
+Andre Drummond,4,2,34,0,Driving Layup Shot,3,-32,11,True
+Andre Drummond,1,1,17,0,Driving Layup Shot,1,17,5,True
+Andre Drummond,4,7,26,0,Driving Layup Shot,10,-6,105,True
+Andre Drummond,1,11,6,0,Driving Layup Shot,1,-6,11,True
+Andre Drummond,4,2,15,1,Driving Layup Shot,1,-8,6,True
+Andre Drummond,1,1,15,1,Driving Layup Shot,1,5,13,True
+Andre Drummond,2,6,51,1,Driving Layup Shot,1,1,19,True
+Andre Drummond,1,3,50,0,Driving Layup Shot,3,9,30,True
+Andre Drummond,3,2,40,1,Driving Layup Shot,1,5,9,True
+Andre Drummond,3,2,25,1,Driving Layup Shot,1,-14,3,True
+Andre Drummond,1,2,31,1,Driving Layup Shot,1,7,15,True
+Andre Drummond,2,4,32,0,Driving Layup Shot,3,32,23,True
+Andre Drummond,1,10,35,0,Driving Layup Shot,1,5,17,True
+Andre Drummond,1,11,16,1,Driving Layup Shot,3,-35,15,True
+Andre Drummond,2,3,52,1,Driving Layup Shot,1,-9,13,True
+Andre Drummond,2,5,14,1,Driving Layup Shot,1,-14,8,True
+Andre Drummond,1,3,36,1,Driving Layup Shot,1,-6,8,True
+Andre Drummond,2,7,13,1,Driving Layup Shot,2,19,16,True
+Andre Drummond,4,11,6,0,Driving Layup Shot,3,25,31,True
+Andre Drummond,1,8,38,0,Driving Layup Shot,4,-46,10,True
+Andre Drummond,3,3,41,0,Driving Layup Shot,2,14,15,True
+Andre Drummond,4,10,0,0,Driving Layup Shot,2,-19,8,True
+Andre Drummond,1,7,1,1,Driving Layup Shot,3,21,23,True
+Andre Drummond,1,11,30,0,Driving Layup Shot,2,1,25,True
+Andre Drummond,3,6,22,0,Driving Layup Shot,3,-28,20,True
+Andre Drummond,1,2,33,1,Driving Layup Shot,0,8,-3,True
+Andre Drummond,4,9,3,0,Driving Layup Shot,3,-30,5,True
+Andre Drummond,4,5,7,0,Driving Layup Shot,7,-68,24,True
+Andre Drummond,1,2,43,0,Driving Layup Shot,0,-9,2,True
+Andre Drummond,2,8,34,1,Driving Layup Shot,0,1,6,True
+Andre Drummond,3,5,55,1,Driving Layup Shot,1,14,8,True
+Andre Drummond,4,2,45,0,Driving Layup Shot,2,-20,11,True
+Andre Drummond,3,0,14,1,Driving Layup Shot,6,-65,25,True
+Andre Drummond,3,8,35,0,Driving Layup Shot,2,8,28,True
+Andre Drummond,1,1,17,1,Driving Layup Shot,2,4,20,True
+Andre Drummond,1,8,44,0,Driving Layup Shot,1,-1,15,True
+Andre Drummond,2,4,58,0,Driving Layup Shot,2,19,12,True
+Andre Drummond,2,1,25,0,Driving Layup Shot,1,18,4,True
+Andre Drummond,2,10,12,1,Driving Reverse Layup Shot,3,4,39,True
+Andre Drummond,2,4,10,0,Driving Reverse Layup Shot,0,-2,9,True
+Andre Drummond,2,2,11,1,Dunk Shot,0,-3,6,True
+Andre Drummond,1,3,52,1,Dunk Shot,0,-8,-1,True
+Andre Drummond,3,8,42,1,Dunk Shot,0,-4,-1,True
+Andre Drummond,2,4,39,1,Dunk Shot,1,1,11,True
+Andre Drummond,3,1,50,1,Dunk Shot,0,-8,5,True
+Andre Drummond,3,8,30,1,Dunk Shot,1,-11,6,True
+Andre Drummond,2,3,29,1,Dunk Shot,1,4,18,True
+Andre Drummond,3,2,49,1,Dunk Shot,1,-5,16,True
+Andre Drummond,3,7,24,1,Dunk Shot,0,0,-6,True
+Andre Drummond,3,8,56,1,Dunk Shot,1,-1,12,True
+Andre Drummond,3,6,38,1,Dunk Shot,0,4,2,True
+Andre Drummond,2,1,30,0,Dunk Shot,1,15,12,True
+Andre Drummond,3,10,11,1,Dunk Shot,0,4,2,True
+Andre Drummond,3,6,6,1,Dunk Shot,0,0,3,True
+Andre Drummond,2,3,8,1,Dunk Shot,1,-6,11,True
+Andre Drummond,4,2,11,1,Dunk Shot,1,9,8,True
+Andre Drummond,4,5,53,1,Dunk Shot,1,2,14,True
+Andre Drummond,1,7,19,1,Dunk Shot,1,6,13,True
+Andre Drummond,3,5,51,1,Dunk Shot,1,1,10,True
+Andre Drummond,4,2,38,1,Dunk Shot,0,1,1,True
+Andre Drummond,3,4,56,1,Dunk Shot,0,3,6,True
+Andre Drummond,2,2,12,1,Dunk Shot,0,-2,9,True
+Andre Drummond,2,2,7,1,Dunk Shot,1,3,11,True
+Andre Drummond,4,4,30,1,Dunk Shot,1,-7,16,True
+Andre Drummond,1,0,21,1,Dunk Shot,1,6,9,True
+Andre Drummond,4,4,12,1,Dunk Shot,0,-7,6,True
+Andre Drummond,5,0,33,1,Dunk Shot,1,-13,8,True
+Andre Drummond,4,4,31,0,Dunk Shot,2,17,22,True
+Andre Drummond,1,10,38,1,Dunk Shot,1,0,11,True
+Andre Drummond,2,2,35,1,Dunk Shot,1,-9,8,True
+Andre Drummond,2,1,21,0,Dunk Shot,2,-24,8,True
+Andre Drummond,3,11,30,0,Dunk Shot,2,1,22,True
+Andre Drummond,3,0,23,1,Dunk Shot,0,2,9,True
+Andre Drummond,4,10,4,1,Dunk Shot,1,6,8,True
+Andre Drummond,4,11,47,1,Dunk Shot,1,3,14,True
+Andre Drummond,3,5,44,1,Dunk Shot,1,11,9,True
+Andre Drummond,1,9,24,1,Dunk Shot,2,22,1,True
+Andre Drummond,2,6,37,1,Dunk Shot,1,9,12,True
+Andre Drummond,4,5,0,1,Dunk Shot,1,2,10,True
+Andre Drummond,3,10,59,1,Dunk Shot,1,-2,10,True
+Andre Drummond,3,9,48,1,Dunk Shot,0,2,6,True
+Andre Drummond,4,8,20,1,Dunk Shot,0,-1,5,True
+Andre Drummond,1,6,5,0,Fadeaway Jump Shot,4,-49,1,True
+Andre Drummond,4,7,17,0,Fadeaway Jump Shot,21,128,174,True
+Andre Drummond,1,0,0,0,Fadeaway Jump Shot,15,-155,-10,True
+Andre Drummond,1,11,5,0,Finger Roll Layup Shot,5,-43,33,True
+Andre Drummond,1,2,21,0,Finger Roll Layup Shot,3,5,34,True
+Andre Drummond,2,2,55,1,Finger Roll Layup Shot,2,20,8,True
+Andre Drummond,2,4,5,0,Floating Jump shot,12,-74,98,True
+Andre Drummond,1,9,46,0,Floating Jump shot,14,-5,145,True
+Andre Drummond,1,2,4,1,Floating Jump shot,12,0,122,True
+Andre Drummond,4,11,7,1,Floating Jump shot,3,-18,32,True
+Andre Drummond,3,9,23,0,Floating Jump shot,2,0,29,True
+Andre Drummond,3,8,0,0,Floating Jump shot,6,-62,6,True
+Andre Drummond,4,10,14,0,Floating Jump shot,9,8,95,True
+Andre Drummond,1,1,49,0,Floating Jump shot,10,17,106,True
+Andre Drummond,3,4,56,0,Floating Jump shot,9,-3,94,True
+Andre Drummond,1,11,3,1,Floating Jump shot,12,-5,120,True
+Andre Drummond,1,9,52,0,Floating Jump shot,8,5,89,True
+Andre Drummond,3,7,26,0,Floating Jump shot,7,7,77,True
+Andre Drummond,1,7,8,1,Floating Jump shot,3,9,37,True
+Andre Drummond,2,8,16,1,Floating Jump shot,8,-5,82,True
+Andre Drummond,1,6,40,0,Floating Jump shot,5,-40,44,True
+Andre Drummond,3,10,23,0,Floating Jump shot,8,-30,83,True
+Andre Drummond,4,0,47,0,Floating Jump shot,10,6,101,True
+Andre Drummond,1,11,23,0,Hook Bank Shot,5,58,10,True
+Andre Drummond,2,0,33,0,Hook Bank Shot,3,29,26,True
+Andre Drummond,3,10,42,0,Hook Shot,13,126,-33,True
+Andre Drummond,3,8,52,0,Hook Shot,6,63,25,True
+Andre Drummond,1,5,11,0,Hook Shot,5,54,13,True
+Andre Drummond,4,1,31,1,Hook Shot,7,-33,68,True
+Andre Drummond,1,11,46,0,Hook Shot,1,-8,11,True
+Andre Drummond,3,7,36,0,Hook Shot,4,-11,46,True
+Andre Drummond,3,11,25,0,Hook Shot,13,-60,126,True
+Andre Drummond,4,7,21,1,Hook Shot,2,22,10,True
+Andre Drummond,3,8,59,1,Hook Shot,5,56,5,True
+Andre Drummond,4,7,49,0,Hook Shot,6,21,57,True
+Andre Drummond,3,6,19,0,Hook Shot,1,-14,13,True
+Andre Drummond,3,5,24,0,Hook Shot,9,2,96,True
+Andre Drummond,3,5,24,0,Hook Shot,12,62,111,True
+Andre Drummond,3,1,39,0,Hook Shot,6,0,69,True
+Andre Drummond,4,4,30,0,Hook Shot,9,-58,81,True
+Andre Drummond,5,4,36,1,Hook Shot,11,45,103,True
+Andre Drummond,2,0,45,1,Hook Shot,3,25,19,True
+Andre Drummond,1,0,33,1,Hook Shot,10,29,100,True
+Andre Drummond,3,1,19,1,Hook Shot,10,52,89,True
+Andre Drummond,2,4,56,0,Hook Shot,5,-46,34,True
+Andre Drummond,3,6,40,0,Hook Shot,1,-9,17,True
+Andre Drummond,1,5,30,0,Hook Shot,5,-25,51,True
+Andre Drummond,2,11,5,1,Hook Shot,6,6,64,True
+Andre Drummond,3,11,6,0,Hook Shot,6,-55,27,True
+Andre Drummond,3,4,28,0,Hook Shot,5,-15,58,True
+Andre Drummond,4,9,57,0,Hook Shot,8,67,54,True
+Andre Drummond,1,11,20,0,Hook Shot,9,-50,83,True
+Andre Drummond,2,3,47,0,Hook Shot,1,8,10,True
+Andre Drummond,4,5,21,0,Hook Shot,4,-9,42,True
+Andre Drummond,2,2,12,0,Hook Shot,5,-8,54,True
+Andre Drummond,1,11,13,0,Hook Shot,8,-76,33,True
+Andre Drummond,3,2,36,0,Hook Shot,4,18,44,True
+Andre Drummond,1,3,3,0,Hook Shot,3,-2,36,True
+Andre Drummond,3,0,53,0,Hook Shot,9,90,0,True
+Andre Drummond,4,2,38,0,Hook Shot,11,73,83,True
+Andre Drummond,1,9,17,0,Hook Shot,11,-13,117,True
+Andre Drummond,3,7,16,0,Hook Shot,6,-29,59,True
+Andre Drummond,3,5,17,0,Hook Shot,13,-66,112,True
+Andre Drummond,3,1,12,0,Hook Shot,5,-3,58,True
+Andre Drummond,3,11,15,1,Hook Shot,4,-14,43,True
+Andre Drummond,3,9,21,0,Hook Shot,10,-75,74,True
+Andre Drummond,1,7,57,1,Hook Shot,4,10,48,True
+Andre Drummond,3,6,58,0,Hook Shot,8,-81,22,True
+Andre Drummond,3,3,45,1,Hook Shot,7,70,29,True
+Andre Drummond,1,2,33,0,Hook Shot,5,-3,56,True
+Andre Drummond,1,3,53,1,Hook Shot,4,17,40,True
+Andre Drummond,4,5,55,1,Hook Shot,4,-2,43,True
+Andre Drummond,4,8,49,0,Hook Shot,7,39,68,True
+Andre Drummond,3,5,39,0,Hook Shot,8,38,78,True
+Andre Drummond,1,3,40,1,Hook Shot,6,-22,64,True
+Andre Drummond,1,2,35,1,Hook Shot,9,-47,81,True
+Andre Drummond,4,6,28,0,Hook Shot,5,-40,31,True
+Andre Drummond,2,11,29,0,Hook Shot,4,-7,44,True
+Andre Drummond,1,7,36,1,Hook Shot,3,27,18,True
+Andre Drummond,1,6,22,1,Hook Shot,4,42,11,True
+Andre Drummond,1,1,27,0,Hook Shot,4,47,11,True
+Andre Drummond,1,6,11,0,Hook Shot,7,57,53,True
+Andre Drummond,3,0,0,1,Hook Shot,9,-8,92,True
+Andre Drummond,4,6,57,1,Hook Shot,5,32,45,True
+Andre Drummond,3,9,40,0,Hook Shot,4,47,15,True
+Andre Drummond,1,5,14,0,Hook Shot,9,-90,-27,True
+Andre Drummond,2,3,7,1,Hook Shot,6,16,61,True
+Andre Drummond,1,4,55,0,Hook Shot,6,43,44,True
+Andre Drummond,1,8,14,0,Hook Shot,9,22,94,True
+Andre Drummond,4,5,32,0,Hook Shot,9,-80,46,True
+Andre Drummond,3,11,7,0,Hook Shot,3,-18,35,True
+Andre Drummond,4,9,34,0,Hook Shot,6,-62,-13,True
+Andre Drummond,3,4,51,0,Hook Shot,6,-31,53,True
+Andre Drummond,2,5,27,1,Hook Shot,7,-72,10,True
+Andre Drummond,4,6,27,0,Hook Shot,2,18,21,True
+Andre Drummond,3,7,56,0,Hook Shot,6,44,51,True
+Andre Drummond,2,3,11,0,Hook Shot,0,0,-6,True
+Andre Drummond,1,7,0,0,Hook Shot,13,78,108,True
+Andre Drummond,3,4,17,0,Hook Shot,5,-21,50,True
+Andre Drummond,1,5,37,0,Hook Shot,2,-14,20,True
+Andre Drummond,1,3,45,1,Hook Shot,5,-28,42,True
+Andre Drummond,3,7,9,1,Hook Shot,10,8,103,True
+Andre Drummond,3,8,45,0,Hook Shot,7,-73,29,True
+Andre Drummond,4,9,23,0,Hook Shot,3,32,14,True
+Andre Drummond,3,4,12,1,Hook Shot,4,-2,49,True
+Andre Drummond,3,8,2,0,Hook Shot,6,-59,19,True
+Andre Drummond,2,5,32,1,Hook Shot,5,-29,52,True
+Andre Drummond,1,11,45,1,Jump Bank Shot,11,100,64,True
+Andre Drummond,2,5,38,0,Jump Bank Shot,12,122,35,True
+Andre Drummond,1,10,41,0,Jump Bank Shot,15,-25,153,True
+Andre Drummond,3,9,37,0,Jump Bank Shot,5,44,27,True
+Andre Drummond,3,2,13,0,Jump Shot,7,4,71,True
+Andre Drummond,3,6,12,0,Jump Shot,13,-27,131,True
+Andre Drummond,3,4,24,0,Jump Shot,27,158,225,False
+Andre Drummond,1,3,48,1,Jump Shot,2,5,27,True
+Andre Drummond,3,8,50,0,Jump Shot,12,-28,120,True
+Andre Drummond,3,6,15,0,Jump Shot,10,2,107,True
+Andre Drummond,3,7,5,0,Jump Shot,24,198,146,False
+Andre Drummond,1,3,24,0,Jump Shot,11,-72,86,True
+Andre Drummond,4,11,37,1,Jump Shot,7,70,25,True
+Andre Drummond,3,3,12,0,Jump Shot,10,70,80,True
+Andre Drummond,2,5,53,0,Jump Shot,10,-7,100,True
+Andre Drummond,2,3,58,0,Jump Shot,13,56,127,True
+Andre Drummond,1,2,2,0,Jump Shot,5,3,58,True
+Andre Drummond,1,2,8,0,Jump Shot,5,2,55,True
+Andre Drummond,3,9,37,0,Jump Shot,25,72,248,False
+Andre Drummond,1,0,0,0,Jump Shot,51,-20,512,False
+Andre Drummond,3,11,40,0,Jump Shot,6,41,51,True
+Andre Drummond,1,0,45,0,Jump Shot,6,-63,24,True
+Andre Drummond,1,1,30,0,Jump Shot,4,-3,45,True
+Andre Drummond,2,1,15,0,Jump Shot,7,-36,69,True
+Andre Drummond,2,3,51,1,Jump Shot,9,99,-13,True
+Andre Drummond,2,5,14,0,Jump Shot,7,2,75,True
+Andre Drummond,1,10,55,1,Jump Shot,14,16,142,True
+Andre Drummond,3,9,12,0,Jump Shot,24,166,176,False
+Andre Drummond,3,10,1,1,Jump Shot,3,0,30,True
+Andre Drummond,3,7,6,0,Jump Shot,4,-24,41,True
+Andre Drummond,5,0,0,0,Jump Shot,65,-163,636,False
+Andre Drummond,1,9,4,0,Jump Shot,8,-41,71,True
+Andre Drummond,1,11,5,1,Jump Shot,11,-92,74,True
+Andre Drummond,1,7,43,0,Jump Shot,1,-6,19,True
+Andre Drummond,3,0,0,0,Jump Shot,74,-31,747,False
+Andre Drummond,1,3,11,0,Jump Shot,9,65,75,True
+Andre Drummond,1,0,0,0,Jump Shot,37,152,348,False
+Andre Drummond,2,7,4,0,Jump Shot,7,-74,16,True
+Andre Drummond,1,7,14,0,Jump Shot,2,19,18,True
+Andre Drummond,3,0,1,0,Jump Shot,53,-31,536,False
+Andre Drummond,2,11,31,0,Jump Shot,10,9,102,True
+Andre Drummond,2,10,8,0,Jump Shot,1,-3,14,True
+Andre Drummond,4,10,52,1,Layup Shot,0,3,6,True
+Andre Drummond,3,1,59,1,Layup Shot,2,-3,29,True
+Andre Drummond,2,5,52,0,Layup Shot,11,105,43,True
+Andre Drummond,2,5,54,0,Layup Shot,5,9,50,True
+Andre Drummond,1,0,25,1,Layup Shot,2,19,22,True
+Andre Drummond,2,3,29,0,Layup Shot,4,-7,47,True
+Andre Drummond,1,2,4,1,Layup Shot,5,52,20,True
+Andre Drummond,4,3,24,1,Layup Shot,1,-11,1,True
+Andre Drummond,4,8,47,1,Layup Shot,0,2,-5,True
+Andre Drummond,2,5,14,0,Layup Shot,2,-14,17,True
+Andre Drummond,2,5,43,1,Layup Shot,0,-6,6,True
+Andre Drummond,1,5,45,1,Layup Shot,2,4,23,True
+Andre Drummond,4,6,54,0,Layup Shot,2,-16,12,True
+Andre Drummond,1,2,49,0,Layup Shot,2,1,24,True
+Andre Drummond,1,4,35,0,Layup Shot,2,-5,24,True
+Andre Drummond,3,3,4,0,Layup Shot,4,42,-1,True
+Andre Drummond,3,11,0,1,Layup Shot,1,-8,11,True
+Andre Drummond,4,10,18,1,Layup Shot,4,30,29,True
+Andre Drummond,3,8,16,1,Layup Shot,0,2,-3,True
+Andre Drummond,4,7,17,0,Layup Shot,4,43,5,True
+Andre Drummond,1,10,22,1,Layup Shot,1,18,2,True
+Andre Drummond,2,7,2,0,Layup Shot,3,0,31,True
+Andre Drummond,4,2,3,0,Layup Shot,5,19,51,True
+Andre Drummond,3,8,47,1,Layup Shot,0,-2,9,True
+Andre Drummond,2,2,31,1,Layup Shot,1,-14,12,True
+Andre Drummond,1,5,56,0,Layup Shot,3,-9,32,True
+Andre Drummond,4,1,37,0,Layup Shot,2,10,25,True
+Andre Drummond,1,7,43,1,Layup Shot,1,-6,12,True
+Andre Drummond,1,4,7,0,Layup Shot,1,-8,17,True
+Andre Drummond,2,6,23,0,Layup Shot,2,18,21,True
+Andre Drummond,3,3,50,1,Layup Shot,1,-2,12,True
+Andre Drummond,3,3,52,0,Layup Shot,1,9,16,True
+Andre Drummond,3,2,28,0,Layup Shot,1,5,15,True
+Andre Drummond,2,5,4,0,Layup Shot,7,45,57,True
+Andre Drummond,4,11,38,0,Layup Shot,3,-13,29,True
+Andre Drummond,3,10,7,0,Layup Shot,1,5,14,True
+Andre Drummond,3,10,8,1,Layup Shot,1,5,14,True
+Andre Drummond,1,7,39,1,Layup Shot,0,-1,2,True
+Andre Drummond,1,7,38,0,Layup Shot,4,23,40,True
+Andre Drummond,1,4,25,0,Layup Shot,6,58,27,True
+Andre Drummond,2,3,59,1,Layup Shot,1,3,12,True
+Andre Drummond,4,0,40,0,Layup Shot,2,13,24,True
+Andre Drummond,3,3,37,0,Layup Shot,1,13,12,True
+Andre Drummond,4,10,31,0,Layup Shot,2,-17,23,True
+Andre Drummond,1,7,51,1,Layup Shot,1,11,11,True
+Andre Drummond,1,7,32,1,Layup Shot,0,3,8,True
+Andre Drummond,4,3,34,1,Layup Shot,3,-8,34,True
+Andre Drummond,5,4,15,1,Layup Shot,2,6,25,True
+Andre Drummond,1,10,0,0,Layup Shot,0,2,4,True
+Andre Drummond,4,3,6,1,Layup Shot,1,-9,9,True
+Andre Drummond,3,5,30,1,Layup Shot,2,3,20,True
+Andre Drummond,4,3,36,0,Layup Shot,6,4,68,True
+Andre Drummond,1,8,45,0,Layup Shot,0,6,4,True
+Andre Drummond,4,1,7,0,Layup Shot,1,-9,17,True
+Andre Drummond,4,10,8,0,Layup Shot,5,3,53,True
+Andre Drummond,4,7,36,0,Layup Shot,3,-12,28,True
+Andre Drummond,1,4,3,1,Layup Shot,0,-1,-1,True
+Andre Drummond,3,7,49,0,Layup Shot,1,8,14,True
+Andre Drummond,4,2,6,0,Layup Shot,2,9,27,True
+Andre Drummond,2,4,2,1,Layup Shot,0,-5,5,True
+Andre Drummond,2,4,22,1,Layup Shot,0,8,1,True
+Andre Drummond,2,3,16,0,Layup Shot,3,37,0,True
+Andre Drummond,1,2,10,1,Layup Shot,2,-12,22,True
+Andre Drummond,2,4,12,1,Layup Shot,1,6,13,True
+Andre Drummond,2,1,5,1,Layup Shot,1,0,10,True
+Andre Drummond,1,2,34,1,Layup Shot,0,-2,7,True
+Andre Drummond,1,0,56,0,Layup Shot,1,5,19,True
+Andre Drummond,3,1,6,1,Layup Shot,0,3,6,True
+Andre Drummond,1,3,19,1,Layup Shot,0,7,4,True
+Andre Drummond,1,8,28,1,Layup Shot,1,14,5,True
+Andre Drummond,3,9,4,1,Layup Shot,0,-4,3,True
+Andre Drummond,2,6,28,0,Layup Shot,1,14,13,True
+Andre Drummond,4,2,39,0,Layup Shot,2,29,5,True
+Andre Drummond,2,4,32,0,Layup Shot,2,2,22,True
+Andre Drummond,1,8,15,1,Layup Shot,2,0,26,True
+Andre Drummond,3,8,30,0,Layup Shot,2,19,11,True
+Andre Drummond,3,3,22,1,Layup Shot,2,25,13,True
+Andre Drummond,2,9,50,1,Layup Shot,1,-13,-5,True
+Andre Drummond,2,0,50,0,Layup Shot,1,0,13,True
+Andre Drummond,3,5,9,0,Layup Shot,1,16,-1,True
+Andre Drummond,2,8,32,0,Layup Shot,2,25,2,True
+Andre Drummond,3,7,57,0,Layup Shot,4,-24,42,True
+Andre Drummond,2,9,7,0,Layup Shot,5,35,39,True
+Andre Drummond,2,0,21,1,Layup Shot,1,7,13,True
+Andre Drummond,4,8,30,1,Layup Shot,2,0,20,True
+Andre Drummond,1,8,31,0,Layup Shot,3,-28,12,True
+Andre Drummond,1,10,18,1,Layup Shot,4,-40,6,True
+Andre Drummond,3,8,23,0,Layup Shot,1,2,13,True
+Andre Drummond,1,6,34,0,Layup Shot,2,16,17,True
+Andre Drummond,4,3,47,0,Layup Shot,0,-3,-1,True
+Andre Drummond,3,9,18,0,Layup Shot,0,5,0,True
+Andre Drummond,3,8,46,1,Layup Shot,2,-19,10,True
+Andre Drummond,1,11,28,1,Layup Shot,2,-18,21,True
+Andre Drummond,1,4,22,1,Layup Shot,2,-20,11,True
+Andre Drummond,4,3,45,1,Layup Shot,0,1,6,True
+Andre Drummond,4,6,46,1,Layup Shot,1,-7,18,True
+Andre Drummond,3,6,42,1,Layup Shot,1,-3,15,True
+Andre Drummond,3,0,33,0,Layup Shot,4,-21,37,True
+Andre Drummond,2,6,35,1,Layup Shot,1,2,11,True
+Andre Drummond,1,10,20,0,Layup Shot,3,-25,26,True
+Andre Drummond,2,6,53,0,Layup Shot,1,-5,16,True
+Andre Drummond,1,1,47,0,Layup Shot,5,51,25,True
+Andre Drummond,3,10,32,1,Layup Shot,1,-13,2,True
+Andre Drummond,3,11,18,0,Layup Shot,1,11,16,True
+Andre Drummond,1,8,33,0,Layup Shot,1,-13,-3,True
+Andre Drummond,3,9,50,1,Layup Shot,0,-4,6,True
+Andre Drummond,4,6,56,0,Layup Shot,4,30,30,True
+Andre Drummond,1,11,30,0,Layup Shot,4,-29,36,True
+Andre Drummond,3,10,38,1,Layup Shot,1,-8,13,True
+Andre Drummond,3,6,35,1,Layup Shot,2,-8,25,True
+Andre Drummond,4,0,16,0,Layup Shot,1,5,18,True
+Andre Drummond,2,3,51,0,Layup Shot,0,2,5,True
+Andre Drummond,1,11,42,1,Layup Shot,2,8,24,True
+Andre Drummond,4,6,44,0,Layup Shot,2,-8,27,True
+Andre Drummond,1,7,53,0,Layup Shot,2,27,13,True
+Andre Drummond,4,5,22,1,Layup Shot,1,-16,6,True
+Andre Drummond,2,0,33,0,Layup Shot,3,-1,37,True
+Andre Drummond,4,3,10,0,Layup Shot,2,0,24,True
+Andre Drummond,1,4,36,1,Layup Shot,1,-5,14,True
+Andre Drummond,2,0,50,0,Layup Shot,4,27,40,True
+Andre Drummond,1,0,58,1,Layup Shot,1,9,16,True
+Andre Drummond,4,1,49,1,Layup Shot,1,-11,-4,True
+Andre Drummond,4,3,19,0,Layup Shot,0,7,7,True
+Andre Drummond,1,8,7,0,Layup Shot,4,30,28,True
+Andre Drummond,3,5,55,1,Layup Shot,2,-20,21,True
+Andre Drummond,1,0,50,0,Layup Shot,2,-25,13,True
+Andre Drummond,5,2,31,1,Layup Shot,4,0,41,True
+Andre Drummond,2,11,9,0,Layup Shot,4,41,27,True
+Andre Drummond,4,6,9,1,Layup Shot,1,6,14,True
+Andre Drummond,1,6,43,0,Layup Shot,5,0,54,True
+Andre Drummond,1,11,35,1,Layup Shot,1,8,9,True
+Andre Drummond,3,11,13,0,Layup Shot,4,32,27,True
+Andre Drummond,2,7,23,0,Layup Shot,0,0,-4,True
+Andre Drummond,2,6,56,1,Layup Shot,4,-44,7,True
+Andre Drummond,1,3,24,0,Layup Shot,4,-39,12,True
+Andre Drummond,3,1,51,0,Layup Shot,0,-6,5,True
+Andre Drummond,2,8,16,0,Layup Shot,5,-13,55,True
+Andre Drummond,3,6,12,1,Layup Shot,1,14,9,True
+Andre Drummond,1,7,27,0,Layup Shot,1,3,16,True
+Andre Drummond,3,1,20,1,Layup Shot,1,14,3,True
+Andre Drummond,4,8,10,0,Layup Shot,1,-18,6,True
+Andre Drummond,3,5,43,0,Layup Shot,2,24,9,True
+Andre Drummond,4,5,4,1,Layup Shot,1,-3,11,True
+Andre Drummond,1,7,56,0,Layup Shot,2,-23,13,True
+Andre Drummond,1,4,45,0,Layup Shot,5,35,43,True
+Andre Drummond,1,7,55,0,Layup Shot,3,-13,32,True
+Andre Drummond,3,4,56,0,Layup Shot,1,17,5,True
+Andre Drummond,3,9,37,0,Layup Shot,2,1,21,True
+Andre Drummond,4,2,8,1,Layup Shot,1,3,16,True
+Andre Drummond,4,7,47,0,Layup Shot,1,-2,16,True
+Andre Drummond,1,7,50,1,Layup Shot,1,14,6,True
+Andre Drummond,1,11,31,0,Layup Shot,1,3,16,True
+Andre Drummond,3,5,32,0,Layup Shot,5,55,-5,True
+Andre Drummond,3,2,29,0,Layup Shot,1,-11,16,True
+Andre Drummond,3,5,52,0,Layup Shot,1,8,11,True
+Andre Drummond,3,6,14,0,Layup Shot,2,-11,17,True
+Andre Drummond,3,0,52,1,Layup Shot,1,-9,9,True
+Andre Drummond,3,6,20,0,Layup Shot,3,-6,33,True
+Andre Drummond,3,3,14,0,Layup Shot,1,-13,14,True
+Andre Drummond,1,7,34,1,Layup Shot,2,-2,22,True
+Andre Drummond,4,7,32,1,Pullup Jump shot,13,-121,52,True
+Andre Drummond,4,7,20,1,Pullup Jump shot,4,-8,46,True
+Andre Drummond,2,1,26,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,1,3,1,1,Putback Dunk Shot,2,18,11,True
+Andre Drummond,3,9,9,0,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,4,5,43,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,1,11,34,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,1,4,37,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,3,5,12,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,3,9,33,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,2,1,0,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,4,6,10,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,1,9,34,0,Putback Dunk Shot,1,0,10,True
+Andre Drummond,4,5,36,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,1,6,0,1,Putback Dunk Shot,0,-5,-1,True
+Andre Drummond,3,10,49,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,4,7,10,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,4,5,53,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,1,10,55,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,1,5,43,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,3,5,18,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,3,5,22,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,1,10,15,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,4,5,56,1,Putback Dunk Shot,0,0,-6,True
+Andre Drummond,3,3,14,1,Putback Dunk Shot,0,0,2,True
+Andre Drummond,1,7,32,1,Putback Layup Shot,0,0,-6,True
+Andre Drummond,1,10,16,0,Putback Layup Shot,2,24,17,True
+Andre Drummond,2,1,50,0,Putback Layup Shot,0,5,7,True
+Andre Drummond,3,9,19,0,Putback Layup Shot,9,2,90,True
+Andre Drummond,1,4,27,0,Putback Layup Shot,0,0,-6,True
+Andre Drummond,2,1,40,0,Putback Layup Shot,0,0,-6,True
+Andre Drummond,3,7,47,0,Putback Layup Shot,0,0,-6,True
+Andre Drummond,3,2,11,1,Putback Layup Shot,2,11,18,True
+Andre Drummond,3,6,49,1,Putback Layup Shot,0,0,-6,True
+Andre Drummond,2,5,19,0,Putback Layup Shot,5,-23,46,True
+Andre Drummond,2,4,22,1,Putback Layup Shot,0,7,1,True
+Andre Drummond,4,9,14,0,Putback Layup Shot,1,-17,7,True
+Andre Drummond,3,2,20,1,Putback Layup Shot,0,0,-6,True
+Andre Drummond,2,11,26,0,Putback Layup Shot,1,-3,15,True
+Andre Drummond,4,2,34,1,Putback Layup Shot,1,-11,13,True
+Andre Drummond,3,7,9,0,Putback Layup Shot,3,-17,28,True
+Andre Drummond,4,10,11,1,Putback Layup Shot,1,-5,10,True
+Andre Drummond,1,9,27,1,Putback Layup Shot,0,0,-6,True
+Andre Drummond,2,1,17,0,Putback Layup Shot,1,-12,6,True
+Andre Drummond,2,1,14,0,Putback Layup Shot,0,-3,5,True
+Andre Drummond,3,1,59,1,Putback Layup Shot,1,-9,5,True
+Andre Drummond,3,9,31,0,Putback Layup Shot,2,8,28,True
+Andre Drummond,1,5,41,1,Putback Layup Shot,1,-13,7,True
+Andre Drummond,3,7,59,1,Putback Layup Shot,2,8,20,True
+Andre Drummond,4,4,23,1,Putback Layup Shot,1,5,17,True
+Andre Drummond,2,1,43,0,Putback Layup Shot,0,0,-6,True
+Andre Drummond,2,2,52,1,Putback Layup Shot,0,0,-6,True
+Andre Drummond,2,0,48,1,Putback Layup Shot,0,0,-6,True
+Andre Drummond,3,3,13,1,Putback Layup Shot,0,0,-6,True
+Andre Drummond,1,10,8,0,Putback Layup Shot,0,0,-6,True
+Andre Drummond,1,6,40,1,Putback Layup Shot,0,0,-6,True
+Andre Drummond,1,3,35,0,Putback Layup Shot,1,9,10,True
+Andre Drummond,3,10,37,1,Putback Layup Shot,0,-6,4,True
+Andre Drummond,3,3,21,1,Putback Layup Shot,0,-1,5,True
+Andre Drummond,1,10,59,1,Putback Layup Shot,0,0,-6,True
+Andre Drummond,3,6,17,1,Putback Layup Shot,2,-1,23,True
+Andre Drummond,1,5,48,1,Putback Layup Shot,0,0,-6,True
+Andre Drummond,4,0,23,1,Putback Layup Shot,0,0,-6,True
+Andre Drummond,4,4,57,1,Reverse Dunk Shot,2,-13,18,True
+Andre Drummond,3,8,44,0,Reverse Layup Shot,2,23,4,True
+Andre Drummond,1,4,31,1,Running Alley Oop Dunk Shot,0,-6,2,True
+Andre Drummond,4,3,8,1,Running Dunk Shot,0,-1,5,True
+Andre Drummond,3,8,35,1,Running Dunk Shot,3,-32,10,True
+Andre Drummond,2,1,28,1,Running Dunk Shot,0,3,-6,True
+Andre Drummond,2,1,4,1,Running Dunk Shot,1,3,19,True
+Andre Drummond,2,1,46,1,Running Dunk Shot,1,3,13,True
+Andre Drummond,3,4,35,1,Running Finger Roll Layup Shot,2,12,27,True
+Andre Drummond,4,0,36,1,Running Finger Roll Layup Shot,0,-3,1,True
+Andre Drummond,1,7,46,0,Running Finger Roll Layup Shot,0,2,5,True
+Andre Drummond,3,9,10,1,Running Jump Shot,6,12,66,True
+Andre Drummond,2,0,0,0,Running Jump Shot,34,-53,336,False
+Andre Drummond,2,4,24,1,Running Layup Shot,2,-20,21,True
+Andre Drummond,1,9,6,1,Running Layup Shot,1,8,13,True
+Andre Drummond,3,3,10,1,Running Layup Shot,0,5,5,True
+Andre Drummond,3,4,45,1,Running Layup Shot,1,13,10,True
+Andre Drummond,2,4,39,1,Running Layup Shot,1,5,10,True
+Andre Drummond,1,4,8,0,Running Layup Shot,2,5,24,True
+Andre Drummond,1,0,0,1,Running Reverse Layup Shot,1,17,8,True
+Andre Drummond,4,4,41,1,Running Reverse Layup Shot,2,-12,16,True
+Andre Drummond,3,2,19,0,Step Back Jump shot,19,182,78,True
+Andre Drummond,1,10,25,0,Step Back Jump shot,26,-99,249,False
+Andre Drummond,3,10,15,0,Step Back Jump shot,9,-90,30,True
+Andre Drummond,4,4,13,1,Tip Dunk Shot,0,0,-6,True
+Andre Drummond,3,2,20,1,Tip Dunk Shot,0,0,-6,True
+Andre Drummond,2,3,46,1,Tip Dunk Shot,0,0,-6,True
+Andre Drummond,2,6,51,1,Tip Dunk Shot,0,0,-6,True
+Andre Drummond,2,0,2,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,11,32,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,5,33,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,0,13,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,9,18,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,11,12,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,2,12,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,6,48,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,3,46,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,4,26,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,10,3,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,7,10,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,3,17,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,3,36,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,6,17,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,4,1,0,Tip Layup Shot,1,2,12,True
+Andre Drummond,4,0,36,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,5,2,33,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,0,16,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,4,29,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,1,3,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,2,39,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,4,25,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,10,4,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,2,7,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,1,39,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,2,37,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,4,12,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,3,14,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,2,48,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,3,14,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,4,39,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,3,3,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,4,27,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,7,30,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,9,13,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,1,3,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,0,45,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,8,3,0,Tip Layup Shot,0,3,7,True
+Andre Drummond,4,7,30,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,0,50,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,9,33,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,11,38,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,10,33,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,6,42,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,7,2,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,11,36,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,4,22,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,9,53,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,7,52,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,1,7,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,3,58,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,11,30,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,10,45,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,4,47,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,11,14,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,3,27,0,Tip Layup Shot,2,13,16,True
+Andre Drummond,4,3,6,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,4,28,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,1,17,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,11,2,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,8,22,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,11,1,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,10,36,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,9,52,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,2,13,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,11,9,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,4,2,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,3,30,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,3,10,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,10,27,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,5,49,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,0,59,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,1,55,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,1,57,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,0,2,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,7,59,0,Tip Layup Shot,2,-14,17,True
+Andre Drummond,3,8,2,0,Tip Layup Shot,1,1,13,True
+Andre Drummond,1,4,32,0,Tip Layup Shot,2,12,22,True
+Andre Drummond,4,2,44,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,4,28,0,Tip Layup Shot,0,7,0,True
+Andre Drummond,4,2,50,0,Tip Layup Shot,1,4,10,True
+Andre Drummond,3,9,18,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,9,33,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,7,34,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,9,7,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,6,7,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,5,53,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,11,36,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,4,27,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,1,57,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,7,43,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,5,40,0,Tip Layup Shot,2,2,25,True
+Andre Drummond,2,6,15,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,9,1,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,3,41,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,4,46,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,10,35,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,4,22,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,10,18,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,2,6,53,0,Tip Layup Shot,0,5,0,True
+Andre Drummond,4,4,54,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,4,3,30,0,Tip Layup Shot,0,0,-6,True
+Andre Drummond,3,10,48,1,Tip Layup Shot,0,0,-6,True
+Andre Drummond,1,4,51,1,Turnaround Bank Hook Shot,7,65,43,True
+Andre Drummond,1,0,2,0,Turnaround Fadeaway Bank Jump Shot,13,91,104,True
+Andre Drummond,3,9,22,1,Turnaround Hook Shot,9,-88,21,True
+Andre Drummond,1,2,0,1,Turnaround Hook Shot,4,-40,10,True
+Andre Drummond,2,7,3,0,Turnaround Hook Shot,8,2,82,True
+Andre Drummond,1,11,14,1,Turnaround Hook Shot,10,98,31,True
+Andre Drummond,5,2,36,0,Turnaround Hook Shot,7,-40,68,True
+Andre Drummond,3,7,1,1,Turnaround Hook Shot,7,-76,4,True
+Andre Drummond,2,4,23,0,Turnaround Hook Shot,6,-11,64,True
+Andre Drummond,3,2,51,0,Turnaround Hook Shot,9,-20,92,True
+Andre Drummond,1,8,55,0,Turnaround Hook Shot,12,-119,50,True
+Andre Drummond,1,1,23,1,Turnaround Hook Shot,5,45,29,True
+Andre Drummond,4,10,27,0,Turnaround Hook Shot,5,-21,55,True
+Andre Drummond,2,6,23,0,Turnaround Hook Shot,9,80,47,True
+Andre Drummond,1,7,34,1,Turnaround Hook Shot,3,33,15,True
+Andre Drummond,3,4,2,0,Turnaround Hook Shot,3,-2,32,True
+Andre Drummond,3,5,40,1,Turnaround Hook Shot,3,15,34,True
+Andre Drummond,2,5,42,1,Turnaround Hook Shot,4,38,13,True
+Andre Drummond,1,3,23,0,Turnaround Hook Shot,7,-66,27,True
+Andre Drummond,1,1,15,0,Turnaround Hook Shot,9,-95,-8,True
+Andre Drummond,2,7,32,1,Turnaround Hook Shot,3,-27,19,True
+Andre Drummond,1,3,38,1,Turnaround Hook Shot,7,38,66,True
+Andre Drummond,2,6,37,0,Turnaround Hook Shot,8,-57,67,True
+Andre Drummond,4,9,0,0,Turnaround Hook Shot,8,44,78,True
+Andre Drummond,3,6,4,1,Turnaround Hook Shot,14,145,-11,True
+Andre Drummond,1,5,27,1,Turnaround Hook Shot,6,28,59,True
+Andre Drummond,4,0,34,0,Turnaround Hook Shot,13,87,100,True
+Andre Drummond,3,8,31,0,Turnaround Hook Shot,11,17,111,True
+Andre Drummond,2,4,54,0,Turnaround Hook Shot,9,-70,60,True
+Andre Drummond,2,7,59,0,Turnaround Hook Shot,7,65,38,True
+Andre Drummond,3,10,48,1,Turnaround Hook Shot,1,-1,12,True
+Andre Drummond,1,1,17,0,Turnaround Hook Shot,14,-65,130,True
+Andre Drummond,4,11,5,1,Turnaround Hook Shot,2,20,17,True
+Andre Drummond,3,6,52,0,Turnaround Hook Shot,6,-3,68,True
+Andre Drummond,1,0,30,1,Turnaround Hook Shot,8,7,82,True
+Andre Drummond,3,6,11,0,Turnaround Hook Shot,13,51,123,True
+Andre Drummond,3,4,54,1,Turnaround Hook Shot,9,68,68,True
+Andre Drummond,3,1,32,1,Turnaround Hook Shot,9,79,52,True
+Andre Drummond,4,6,12,1,Turnaround Hook Shot,8,-41,71,True
+Andre Drummond,4,4,19,0,Turnaround Hook Shot,9,6,99,True
+Andre Drummond,1,9,38,0,Turnaround Hook Shot,10,100,16,True
+Andre Drummond,2,4,28,0,Turnaround Hook Shot,8,36,73,True
+Andre Drummond,3,10,48,0,Turnaround Hook Shot,5,44,28,True
+Andre Drummond,2,5,31,1,Turnaround Hook Shot,7,19,74,True
+Andre Drummond,1,7,51,0,Turnaround Hook Shot,7,-2,71,True
+Andre Drummond,4,8,30,1,Turnaround Hook Shot,7,-74,-7,True
+Andre Drummond,3,2,46,1,Turnaround Hook Shot,2,-20,8,True
+Andre Drummond,1,10,27,1,Turnaround Jump Shot,5,54,1,True

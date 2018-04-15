@@ -1,0 +1,1246 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Giannis Antetokounmpo,3,2,43,1,Alley Oop Dunk Shot,1,-2,10,True
+Giannis Antetokounmpo,4,7,24,1,Alley Oop Dunk Shot,0,-8,-4,True
+Giannis Antetokounmpo,3,8,44,1,Alley Oop Dunk Shot,2,3,21,True
+Giannis Antetokounmpo,3,10,31,0,Alley Oop Dunk Shot,1,10,0,True
+Giannis Antetokounmpo,1,9,35,1,Alley Oop Dunk Shot,0,-1,5,True
+Giannis Antetokounmpo,4,8,58,1,Alley Oop Dunk Shot,1,-14,8,True
+Giannis Antetokounmpo,2,2,24,1,Alley Oop Dunk Shot,0,-2,-1,True
+Giannis Antetokounmpo,5,0,7,1,Alley Oop Dunk Shot,2,9,18,True
+Giannis Antetokounmpo,3,1,53,1,Alley Oop Dunk Shot,1,-7,17,True
+Giannis Antetokounmpo,2,1,36,1,Alley Oop Dunk Shot,0,-5,-6,True
+Giannis Antetokounmpo,3,8,5,1,Alley Oop Dunk Shot,1,-9,6,True
+Giannis Antetokounmpo,1,9,23,1,Alley Oop Dunk Shot,1,6,10,True
+Giannis Antetokounmpo,2,4,52,1,Alley Oop Dunk Shot,1,9,9,True
+Giannis Antetokounmpo,3,4,35,1,Alley Oop Dunk Shot,0,-2,6,True
+Giannis Antetokounmpo,3,7,37,1,Alley Oop Dunk Shot,0,-4,1,True
+Giannis Antetokounmpo,2,1,6,1,Alley Oop Dunk Shot,0,0,-1,True
+Giannis Antetokounmpo,3,6,0,1,Alley Oop Layup shot,2,-3,22,True
+Giannis Antetokounmpo,2,6,24,0,Alley Oop Layup shot,3,-38,4,True
+Giannis Antetokounmpo,2,5,6,0,Alley Oop Layup shot,0,-4,5,True
+Giannis Antetokounmpo,3,8,48,1,Alley Oop Layup shot,0,8,-1,True
+Giannis Antetokounmpo,1,9,0,1,Alley Oop Layup shot,1,6,15,True
+Giannis Antetokounmpo,4,1,36,1,Alley Oop Layup shot,1,0,18,True
+Giannis Antetokounmpo,3,8,28,1,Alley Oop Layup shot,1,8,15,True
+Giannis Antetokounmpo,1,10,38,1,Alley Oop Layup shot,2,15,15,True
+Giannis Antetokounmpo,1,9,50,0,Alley Oop Layup shot,1,-3,12,True
+Giannis Antetokounmpo,4,5,31,1,Alley Oop Layup shot,0,-4,9,True
+Giannis Antetokounmpo,2,9,57,1,Cutting Dunk Shot,1,15,5,True
+Giannis Antetokounmpo,3,4,57,1,Cutting Dunk Shot,0,-4,5,True
+Giannis Antetokounmpo,2,11,21,1,Cutting Dunk Shot,0,-8,-5,True
+Giannis Antetokounmpo,1,0,1,1,Cutting Dunk Shot,0,-3,1,True
+Giannis Antetokounmpo,2,7,49,1,Cutting Dunk Shot,0,2,7,True
+Giannis Antetokounmpo,4,1,38,0,Cutting Dunk Shot,5,-17,53,True
+Giannis Antetokounmpo,4,5,9,1,Cutting Dunk Shot,2,22,16,True
+Giannis Antetokounmpo,2,11,47,1,Cutting Dunk Shot,0,5,8,True
+Giannis Antetokounmpo,4,6,16,1,Cutting Dunk Shot,1,-9,11,True
+Giannis Antetokounmpo,2,1,54,1,Cutting Dunk Shot,1,3,11,True
+Giannis Antetokounmpo,1,8,1,1,Cutting Dunk Shot,2,19,11,True
+Giannis Antetokounmpo,3,7,50,1,Cutting Dunk Shot,1,-8,8,True
+Giannis Antetokounmpo,4,2,13,1,Cutting Dunk Shot,0,6,-1,True
+Giannis Antetokounmpo,3,1,56,1,Cutting Dunk Shot,1,9,17,True
+Giannis Antetokounmpo,2,8,46,1,Cutting Dunk Shot,1,2,13,True
+Giannis Antetokounmpo,3,8,21,1,Cutting Dunk Shot,1,-12,13,True
+Giannis Antetokounmpo,1,0,39,1,Cutting Dunk Shot,0,-7,7,True
+Giannis Antetokounmpo,1,6,46,1,Cutting Dunk Shot,2,-18,13,True
+Giannis Antetokounmpo,3,1,33,1,Cutting Dunk Shot,0,-4,5,True
+Giannis Antetokounmpo,4,6,27,1,Cutting Dunk Shot,1,-5,9,True
+Giannis Antetokounmpo,3,8,4,1,Cutting Dunk Shot,1,-2,19,True
+Giannis Antetokounmpo,1,0,1,1,Cutting Dunk Shot,2,11,20,True
+Giannis Antetokounmpo,1,9,34,1,Cutting Dunk Shot,0,-2,4,True
+Giannis Antetokounmpo,2,1,11,1,Cutting Dunk Shot,0,5,7,True
+Giannis Antetokounmpo,4,6,48,1,Cutting Dunk Shot,1,2,19,True
+Giannis Antetokounmpo,3,2,46,1,Cutting Dunk Shot,1,-2,14,True
+Giannis Antetokounmpo,1,7,4,1,Cutting Dunk Shot,1,-3,10,True
+Giannis Antetokounmpo,3,7,45,1,Cutting Dunk Shot,1,-6,16,True
+Giannis Antetokounmpo,1,6,38,1,Cutting Dunk Shot,0,2,-4,True
+Giannis Antetokounmpo,1,7,5,1,Cutting Dunk Shot,0,2,8,True
+Giannis Antetokounmpo,1,1,35,1,Cutting Dunk Shot,0,5,-1,True
+Giannis Antetokounmpo,2,11,20,1,Cutting Finger Roll Layup Shot,0,-6,7,True
+Giannis Antetokounmpo,1,7,15,0,Cutting Finger Roll Layup Shot,6,56,24,True
+Giannis Antetokounmpo,4,1,42,1,Cutting Finger Roll Layup Shot,1,18,-1,True
+Giannis Antetokounmpo,2,10,12,1,Cutting Finger Roll Layup Shot,1,8,17,True
+Giannis Antetokounmpo,3,3,49,1,Cutting Finger Roll Layup Shot,3,27,21,True
+Giannis Antetokounmpo,1,5,15,1,Cutting Layup Shot,2,1,25,True
+Giannis Antetokounmpo,4,5,9,1,Cutting Layup Shot,1,-5,17,True
+Giannis Antetokounmpo,2,1,40,1,Cutting Layup Shot,1,9,17,True
+Giannis Antetokounmpo,3,0,53,1,Cutting Layup Shot,1,-4,14,True
+Giannis Antetokounmpo,2,2,43,0,Cutting Layup Shot,8,13,88,True
+Giannis Antetokounmpo,3,0,31,1,Cutting Layup Shot,0,3,8,True
+Giannis Antetokounmpo,4,2,0,1,Cutting Layup Shot,6,-25,62,True
+Giannis Antetokounmpo,2,4,42,1,Cutting Layup Shot,2,-29,-2,True
+Giannis Antetokounmpo,2,5,49,1,Cutting Layup Shot,2,-19,10,True
+Giannis Antetokounmpo,1,6,28,1,Cutting Layup Shot,1,4,12,True
+Giannis Antetokounmpo,2,4,42,1,Cutting Layup Shot,1,8,13,True
+Giannis Antetokounmpo,4,11,21,1,Cutting Layup Shot,0,-3,7,True
+Giannis Antetokounmpo,1,1,59,0,Cutting Layup Shot,0,-7,6,True
+Giannis Antetokounmpo,1,7,39,1,Cutting Layup Shot,1,3,13,True
+Giannis Antetokounmpo,2,2,24,1,Cutting Layup Shot,1,4,12,True
+Giannis Antetokounmpo,1,10,43,0,Cutting Layup Shot,2,0,25,True
+Giannis Antetokounmpo,4,7,43,1,Cutting Layup Shot,0,3,4,True
+Giannis Antetokounmpo,1,0,1,1,Driving Bank Hook Shot,2,0,27,True
+Giannis Antetokounmpo,1,6,19,1,Driving Bank Hook Shot,5,57,6,True
+Giannis Antetokounmpo,4,0,17,1,Driving Dunk Shot,0,3,-1,True
+Giannis Antetokounmpo,2,9,49,1,Driving Dunk Shot,0,-5,-1,True
+Giannis Antetokounmpo,2,6,47,1,Driving Dunk Shot,0,-4,5,True
+Giannis Antetokounmpo,1,4,8,1,Driving Dunk Shot,0,-3,-1,True
+Giannis Antetokounmpo,2,5,25,1,Driving Dunk Shot,0,-2,8,True
+Giannis Antetokounmpo,3,10,17,1,Driving Dunk Shot,1,-5,13,True
+Giannis Antetokounmpo,2,8,24,1,Driving Dunk Shot,0,1,6,True
+Giannis Antetokounmpo,3,8,51,1,Driving Dunk Shot,1,-2,11,True
+Giannis Antetokounmpo,4,2,18,1,Driving Dunk Shot,1,0,11,True
+Giannis Antetokounmpo,3,5,50,1,Driving Dunk Shot,0,-9,1,True
+Giannis Antetokounmpo,3,1,52,1,Driving Dunk Shot,0,-2,8,True
+Giannis Antetokounmpo,1,11,46,1,Driving Dunk Shot,0,-9,4,True
+Giannis Antetokounmpo,4,0,0,1,Driving Dunk Shot,0,0,8,True
+Giannis Antetokounmpo,2,0,3,1,Driving Dunk Shot,1,-10,14,True
+Giannis Antetokounmpo,1,10,27,1,Driving Dunk Shot,0,-2,0,True
+Giannis Antetokounmpo,1,2,16,1,Driving Dunk Shot,2,14,26,True
+Giannis Antetokounmpo,3,8,18,1,Driving Dunk Shot,0,2,5,True
+Giannis Antetokounmpo,3,6,3,1,Driving Dunk Shot,0,8,4,True
+Giannis Antetokounmpo,3,7,54,1,Driving Dunk Shot,0,-4,3,True
+Giannis Antetokounmpo,4,3,32,1,Driving Dunk Shot,1,5,16,True
+Giannis Antetokounmpo,2,10,2,1,Driving Dunk Shot,0,-2,6,True
+Giannis Antetokounmpo,3,2,25,1,Driving Dunk Shot,1,-5,10,True
+Giannis Antetokounmpo,4,7,43,0,Driving Dunk Shot,3,-20,23,True
+Giannis Antetokounmpo,2,8,16,1,Driving Dunk Shot,0,4,6,True
+Giannis Antetokounmpo,1,7,4,1,Driving Dunk Shot,1,3,17,True
+Giannis Antetokounmpo,3,10,37,0,Driving Dunk Shot,6,46,51,True
+Giannis Antetokounmpo,1,2,33,1,Driving Dunk Shot,0,-7,2,True
+Giannis Antetokounmpo,4,3,52,1,Driving Dunk Shot,0,3,8,True
+Giannis Antetokounmpo,1,11,1,1,Driving Dunk Shot,1,4,10,True
+Giannis Antetokounmpo,2,3,15,1,Driving Dunk Shot,1,5,10,True
+Giannis Antetokounmpo,1,2,12,1,Driving Dunk Shot,0,-5,6,True
+Giannis Antetokounmpo,1,7,29,1,Driving Dunk Shot,1,3,15,True
+Giannis Antetokounmpo,1,3,17,1,Driving Dunk Shot,0,-2,9,True
+Giannis Antetokounmpo,2,0,57,1,Driving Dunk Shot,1,0,15,True
+Giannis Antetokounmpo,2,5,24,1,Driving Dunk Shot,0,4,4,True
+Giannis Antetokounmpo,3,3,42,1,Driving Finger Roll Layup Shot,1,5,11,True
+Giannis Antetokounmpo,2,6,33,1,Driving Finger Roll Layup Shot,0,-6,0,True
+Giannis Antetokounmpo,4,8,29,0,Driving Finger Roll Layup Shot,2,-17,20,True
+Giannis Antetokounmpo,2,7,2,1,Driving Finger Roll Layup Shot,1,13,9,True
+Giannis Antetokounmpo,2,2,22,1,Driving Finger Roll Layup Shot,1,1,13,True
+Giannis Antetokounmpo,3,1,13,1,Driving Finger Roll Layup Shot,1,-10,5,True
+Giannis Antetokounmpo,4,3,40,1,Driving Finger Roll Layup Shot,1,-3,13,True
+Giannis Antetokounmpo,3,11,39,1,Driving Finger Roll Layup Shot,1,-1,16,True
+Giannis Antetokounmpo,3,7,12,1,Driving Finger Roll Layup Shot,0,2,1,True
+Giannis Antetokounmpo,1,0,5,1,Driving Finger Roll Layup Shot,2,5,21,True
+Giannis Antetokounmpo,3,4,33,1,Driving Finger Roll Layup Shot,1,7,9,True
+Giannis Antetokounmpo,2,10,56,1,Driving Finger Roll Layup Shot,0,-6,3,True
+Giannis Antetokounmpo,1,8,44,1,Driving Finger Roll Layup Shot,0,-1,-1,True
+Giannis Antetokounmpo,3,9,6,1,Driving Finger Roll Layup Shot,1,3,17,True
+Giannis Antetokounmpo,3,0,57,1,Driving Finger Roll Layup Shot,8,72,41,True
+Giannis Antetokounmpo,3,0,46,1,Driving Finger Roll Layup Shot,0,-2,6,True
+Giannis Antetokounmpo,2,0,23,1,Driving Finger Roll Layup Shot,0,6,1,True
+Giannis Antetokounmpo,1,7,17,1,Driving Finger Roll Layup Shot,0,3,6,True
+Giannis Antetokounmpo,2,5,35,1,Driving Finger Roll Layup Shot,0,4,-3,True
+Giannis Antetokounmpo,4,0,1,1,Driving Finger Roll Layup Shot,1,-10,16,True
+Giannis Antetokounmpo,4,4,7,1,Driving Finger Roll Layup Shot,1,9,8,True
+Giannis Antetokounmpo,1,3,29,1,Driving Finger Roll Layup Shot,1,13,13,True
+Giannis Antetokounmpo,3,4,15,1,Driving Finger Roll Layup Shot,5,-7,54,True
+Giannis Antetokounmpo,4,6,18,1,Driving Finger Roll Layup Shot,0,8,5,True
+Giannis Antetokounmpo,4,5,50,0,Driving Finger Roll Layup Shot,0,3,6,True
+Giannis Antetokounmpo,1,8,1,1,Driving Finger Roll Layup Shot,1,-1,12,True
+Giannis Antetokounmpo,3,9,52,1,Driving Finger Roll Layup Shot,2,15,23,True
+Giannis Antetokounmpo,2,9,14,1,Driving Finger Roll Layup Shot,0,-7,1,True
+Giannis Antetokounmpo,4,5,52,1,Driving Finger Roll Layup Shot,1,11,4,True
+Giannis Antetokounmpo,4,9,44,0,Driving Finger Roll Layup Shot,2,20,22,True
+Giannis Antetokounmpo,3,7,4,1,Driving Finger Roll Layup Shot,1,7,13,True
+Giannis Antetokounmpo,4,8,13,1,Driving Finger Roll Layup Shot,0,4,7,True
+Giannis Antetokounmpo,1,8,28,0,Driving Finger Roll Layup Shot,4,24,35,True
+Giannis Antetokounmpo,2,6,56,1,Driving Finger Roll Layup Shot,2,-1,26,True
+Giannis Antetokounmpo,3,0,32,1,Driving Finger Roll Layup Shot,7,-2,76,True
+Giannis Antetokounmpo,4,4,40,1,Driving Finger Roll Layup Shot,2,19,17,True
+Giannis Antetokounmpo,4,3,35,1,Driving Finger Roll Layup Shot,1,-16,7,True
+Giannis Antetokounmpo,4,8,23,1,Driving Finger Roll Layup Shot,2,-8,25,True
+Giannis Antetokounmpo,4,1,26,1,Driving Finger Roll Layup Shot,1,-6,8,True
+Giannis Antetokounmpo,3,4,27,1,Driving Finger Roll Layup Shot,1,-1,12,True
+Giannis Antetokounmpo,2,3,6,1,Driving Finger Roll Layup Shot,1,2,13,True
+Giannis Antetokounmpo,3,5,54,1,Driving Finger Roll Layup Shot,1,-14,12,True
+Giannis Antetokounmpo,4,1,56,0,Driving Finger Roll Layup Shot,3,-5,36,True
+Giannis Antetokounmpo,4,2,0,1,Driving Finger Roll Layup Shot,1,-5,14,True
+Giannis Antetokounmpo,3,10,20,0,Driving Finger Roll Layup Shot,2,12,21,True
+Giannis Antetokounmpo,1,6,28,0,Driving Floating Bank Jump Shot,6,60,24,True
+Giannis Antetokounmpo,1,6,32,0,Driving Floating Bank Jump Shot,8,1,88,True
+Giannis Antetokounmpo,1,5,18,0,Driving Floating Bank Jump Shot,14,-77,120,True
+Giannis Antetokounmpo,3,4,16,1,Driving Floating Bank Jump Shot,5,-1,50,True
+Giannis Antetokounmpo,2,2,55,0,Driving Floating Bank Jump Shot,3,-37,10,True
+Giannis Antetokounmpo,3,7,7,1,Driving Floating Bank Jump Shot,3,-9,31,True
+Giannis Antetokounmpo,2,8,41,0,Driving Floating Bank Jump Shot,6,-30,55,True
+Giannis Antetokounmpo,1,5,43,1,Driving Floating Bank Jump Shot,4,-26,34,True
+Giannis Antetokounmpo,2,6,39,1,Driving Floating Bank Jump Shot,9,-91,40,True
+Giannis Antetokounmpo,4,6,3,0,Driving Floating Bank Jump Shot,3,-33,16,True
+Giannis Antetokounmpo,4,0,45,1,Driving Floating Bank Jump Shot,8,49,64,True
+Giannis Antetokounmpo,3,3,2,1,Driving Floating Bank Jump Shot,7,3,72,True
+Giannis Antetokounmpo,3,1,0,0,Driving Floating Bank Jump Shot,5,-51,19,True
+Giannis Antetokounmpo,2,5,28,0,Driving Floating Bank Jump Shot,1,-5,13,True
+Giannis Antetokounmpo,1,10,0,1,Driving Floating Bank Jump Shot,7,2,79,True
+Giannis Antetokounmpo,3,4,41,0,Driving Floating Jump Shot,7,18,75,True
+Giannis Antetokounmpo,3,2,7,0,Driving Floating Jump Shot,6,58,34,True
+Giannis Antetokounmpo,3,0,46,0,Driving Floating Jump Shot,11,-13,115,True
+Giannis Antetokounmpo,1,0,37,0,Driving Floating Jump Shot,2,22,8,True
+Giannis Antetokounmpo,1,10,23,0,Driving Floating Jump Shot,8,-39,81,True
+Giannis Antetokounmpo,3,8,6,1,Driving Floating Jump Shot,5,47,25,True
+Giannis Antetokounmpo,1,3,17,1,Driving Hook Shot,2,-15,16,True
+Giannis Antetokounmpo,1,6,52,1,Driving Hook Shot,10,-11,102,True
+Giannis Antetokounmpo,4,4,55,1,Driving Hook Shot,3,11,36,True
+Giannis Antetokounmpo,3,8,1,1,Driving Hook Shot,9,0,91,True
+Giannis Antetokounmpo,1,9,11,0,Driving Hook Shot,15,2,154,True
+Giannis Antetokounmpo,4,7,14,0,Driving Hook Shot,4,16,38,True
+Giannis Antetokounmpo,1,7,34,0,Driving Hook Shot,4,25,41,True
+Giannis Antetokounmpo,2,9,27,1,Driving Hook Shot,8,-7,81,True
+Giannis Antetokounmpo,1,9,39,1,Driving Hook Shot,3,-11,31,True
+Giannis Antetokounmpo,2,8,42,0,Driving Hook Shot,3,14,30,True
+Giannis Antetokounmpo,1,1,37,0,Driving Hook Shot,1,-3,16,True
+Giannis Antetokounmpo,1,1,11,0,Driving Hook Shot,2,6,22,True
+Giannis Antetokounmpo,3,11,0,0,Driving Hook Shot,3,1,32,True
+Giannis Antetokounmpo,3,4,32,1,Driving Hook Shot,8,58,59,True
+Giannis Antetokounmpo,1,6,20,1,Driving Hook Shot,7,1,75,True
+Giannis Antetokounmpo,4,0,15,1,Driving Layup Shot,0,6,6,True
+Giannis Antetokounmpo,3,2,51,1,Driving Layup Shot,2,9,22,True
+Giannis Antetokounmpo,4,8,37,0,Driving Layup Shot,2,0,20,True
+Giannis Antetokounmpo,2,4,0,1,Driving Layup Shot,1,-6,15,True
+Giannis Antetokounmpo,2,6,4,0,Driving Layup Shot,2,19,13,True
+Giannis Antetokounmpo,1,5,58,1,Driving Layup Shot,1,-11,15,True
+Giannis Antetokounmpo,2,5,4,0,Driving Layup Shot,0,-3,-1,True
+Giannis Antetokounmpo,2,1,17,1,Driving Layup Shot,1,-11,5,True
+Giannis Antetokounmpo,3,5,22,0,Driving Layup Shot,3,22,29,True
+Giannis Antetokounmpo,1,8,8,0,Driving Layup Shot,2,11,27,True
+Giannis Antetokounmpo,1,9,19,0,Driving Layup Shot,6,65,6,True
+Giannis Antetokounmpo,4,5,18,0,Driving Layup Shot,3,2,32,True
+Giannis Antetokounmpo,3,5,4,0,Driving Layup Shot,1,13,11,True
+Giannis Antetokounmpo,1,5,44,0,Driving Layup Shot,3,-32,-9,True
+Giannis Antetokounmpo,2,11,20,1,Driving Layup Shot,0,-5,4,True
+Giannis Antetokounmpo,1,9,8,1,Driving Layup Shot,2,-19,18,True
+Giannis Antetokounmpo,4,6,56,0,Driving Layup Shot,11,-25,108,True
+Giannis Antetokounmpo,1,10,33,1,Driving Layup Shot,1,-1,10,True
+Giannis Antetokounmpo,1,0,24,0,Driving Layup Shot,3,7,34,True
+Giannis Antetokounmpo,2,3,25,1,Driving Layup Shot,1,0,11,True
+Giannis Antetokounmpo,2,9,33,1,Driving Layup Shot,0,0,5,True
+Giannis Antetokounmpo,1,10,47,0,Driving Layup Shot,0,0,0,True
+Giannis Antetokounmpo,1,10,32,0,Driving Layup Shot,1,6,17,True
+Giannis Antetokounmpo,3,8,0,0,Driving Layup Shot,3,-13,32,True
+Giannis Antetokounmpo,2,4,16,1,Driving Layup Shot,1,8,11,True
+Giannis Antetokounmpo,2,8,0,0,Driving Layup Shot,1,-1,12,True
+Giannis Antetokounmpo,4,2,57,1,Driving Layup Shot,1,13,0,True
+Giannis Antetokounmpo,1,3,28,0,Driving Layup Shot,1,-12,11,True
+Giannis Antetokounmpo,2,11,25,1,Driving Layup Shot,2,12,17,True
+Giannis Antetokounmpo,3,6,18,0,Driving Layup Shot,5,43,32,True
+Giannis Antetokounmpo,3,5,0,0,Driving Layup Shot,1,9,16,True
+Giannis Antetokounmpo,1,9,43,1,Driving Layup Shot,0,-1,8,True
+Giannis Antetokounmpo,4,5,33,0,Driving Layup Shot,3,-25,25,True
+Giannis Antetokounmpo,2,8,53,1,Driving Layup Shot,1,-6,14,True
+Giannis Antetokounmpo,4,3,55,1,Driving Layup Shot,1,-2,19,True
+Giannis Antetokounmpo,2,6,44,1,Driving Layup Shot,1,2,11,True
+Giannis Antetokounmpo,2,7,6,1,Driving Layup Shot,0,2,6,True
+Giannis Antetokounmpo,1,7,50,1,Driving Layup Shot,0,-7,5,True
+Giannis Antetokounmpo,3,0,33,0,Driving Layup Shot,2,2,24,True
+Giannis Antetokounmpo,2,11,43,1,Driving Layup Shot,2,-7,20,True
+Giannis Antetokounmpo,3,5,56,1,Driving Layup Shot,0,1,5,True
+Giannis Antetokounmpo,4,8,51,0,Driving Layup Shot,1,14,10,True
+Giannis Antetokounmpo,2,3,35,1,Driving Layup Shot,1,14,8,True
+Giannis Antetokounmpo,3,8,36,1,Driving Layup Shot,1,9,5,True
+Giannis Antetokounmpo,3,10,42,1,Driving Layup Shot,2,-20,10,True
+Giannis Antetokounmpo,4,7,28,1,Driving Layup Shot,1,11,14,True
+Giannis Antetokounmpo,2,3,35,0,Driving Layup Shot,2,-9,25,True
+Giannis Antetokounmpo,1,11,41,1,Driving Layup Shot,2,-9,21,True
+Giannis Antetokounmpo,2,11,6,0,Driving Layup Shot,1,-11,-4,True
+Giannis Antetokounmpo,3,8,59,0,Driving Layup Shot,0,3,8,True
+Giannis Antetokounmpo,2,10,5,1,Driving Layup Shot,1,2,10,True
+Giannis Antetokounmpo,2,10,5,0,Driving Layup Shot,2,-14,15,True
+Giannis Antetokounmpo,1,0,34,0,Driving Layup Shot,2,6,27,True
+Giannis Antetokounmpo,4,0,21,0,Driving Layup Shot,4,11,47,True
+Giannis Antetokounmpo,3,10,28,0,Driving Layup Shot,1,14,10,True
+Giannis Antetokounmpo,4,0,13,1,Driving Layup Shot,1,-10,17,True
+Giannis Antetokounmpo,2,3,20,1,Driving Layup Shot,2,-4,25,True
+Giannis Antetokounmpo,4,10,24,0,Driving Layup Shot,2,-21,20,True
+Giannis Antetokounmpo,3,8,19,0,Driving Layup Shot,2,1,21,True
+Giannis Antetokounmpo,3,3,54,1,Driving Layup Shot,1,-2,16,True
+Giannis Antetokounmpo,4,3,36,1,Driving Layup Shot,1,-3,16,True
+Giannis Antetokounmpo,2,3,49,0,Driving Layup Shot,0,3,-3,True
+Giannis Antetokounmpo,1,3,44,1,Driving Layup Shot,0,3,6,True
+Giannis Antetokounmpo,4,3,5,0,Driving Layup Shot,2,11,18,True
+Giannis Antetokounmpo,1,8,35,1,Driving Layup Shot,1,5,16,True
+Giannis Antetokounmpo,2,7,3,1,Driving Layup Shot,1,19,0,True
+Giannis Antetokounmpo,4,10,44,1,Driving Layup Shot,0,5,5,True
+Giannis Antetokounmpo,3,10,15,0,Driving Layup Shot,2,1,20,True
+Giannis Antetokounmpo,1,9,24,1,Driving Layup Shot,3,-32,11,True
+Giannis Antetokounmpo,3,9,0,1,Driving Layup Shot,1,10,6,True
+Giannis Antetokounmpo,2,3,20,0,Driving Layup Shot,8,-66,46,True
+Giannis Antetokounmpo,2,1,10,1,Driving Layup Shot,0,0,0,True
+Giannis Antetokounmpo,3,6,8,1,Driving Layup Shot,1,-16,1,True
+Giannis Antetokounmpo,3,4,6,1,Driving Layup Shot,3,38,11,True
+Giannis Antetokounmpo,4,2,51,0,Driving Layup Shot,3,-23,20,True
+Giannis Antetokounmpo,1,1,39,0,Driving Layup Shot,3,0,31,True
+Giannis Antetokounmpo,1,11,2,0,Driving Layup Shot,2,-22,10,True
+Giannis Antetokounmpo,4,8,58,0,Driving Layup Shot,1,-2,18,True
+Giannis Antetokounmpo,4,1,10,0,Driving Layup Shot,2,11,18,True
+Giannis Antetokounmpo,1,5,0,1,Driving Layup Shot,3,-9,33,True
+Giannis Antetokounmpo,3,7,12,0,Driving Layup Shot,0,9,2,True
+Giannis Antetokounmpo,4,8,35,1,Driving Layup Shot,1,17,8,True
+Giannis Antetokounmpo,1,8,49,1,Driving Layup Shot,0,-5,5,True
+Giannis Antetokounmpo,1,2,38,0,Driving Layup Shot,2,14,19,True
+Giannis Antetokounmpo,3,8,21,1,Driving Layup Shot,2,-23,7,True
+Giannis Antetokounmpo,4,1,50,1,Driving Layup Shot,1,3,15,True
+Giannis Antetokounmpo,4,10,49,1,Driving Layup Shot,2,-3,20,True
+Giannis Antetokounmpo,3,7,36,0,Driving Layup Shot,1,-13,14,True
+Giannis Antetokounmpo,4,2,47,1,Driving Layup Shot,2,-23,12,True
+Giannis Antetokounmpo,3,4,34,1,Driving Layup Shot,1,-8,13,True
+Giannis Antetokounmpo,3,7,22,1,Driving Layup Shot,1,0,19,True
+Giannis Antetokounmpo,1,4,10,1,Driving Layup Shot,2,17,13,True
+Giannis Antetokounmpo,1,10,0,1,Driving Layup Shot,0,-3,4,True
+Giannis Antetokounmpo,3,7,1,1,Driving Layup Shot,5,17,48,True
+Giannis Antetokounmpo,4,9,40,1,Driving Layup Shot,2,19,16,True
+Giannis Antetokounmpo,4,1,58,1,Driving Layup Shot,1,-11,5,True
+Giannis Antetokounmpo,2,2,8,1,Driving Layup Shot,1,11,9,True
+Giannis Antetokounmpo,2,6,6,1,Driving Layup Shot,0,-1,7,True
+Giannis Antetokounmpo,3,5,18,1,Driving Layup Shot,2,-12,22,True
+Giannis Antetokounmpo,2,5,11,0,Driving Layup Shot,3,-25,19,True
+Giannis Antetokounmpo,1,7,37,0,Driving Layup Shot,2,-3,25,True
+Giannis Antetokounmpo,3,0,40,0,Driving Layup Shot,1,-11,11,True
+Giannis Antetokounmpo,4,9,35,1,Driving Layup Shot,1,-14,4,True
+Giannis Antetokounmpo,1,7,20,0,Driving Layup Shot,2,-10,21,True
+Giannis Antetokounmpo,1,9,9,0,Driving Layup Shot,3,-27,16,True
+Giannis Antetokounmpo,4,6,27,1,Driving Layup Shot,1,-2,12,True
+Giannis Antetokounmpo,3,10,3,1,Driving Layup Shot,1,6,10,True
+Giannis Antetokounmpo,3,2,50,1,Driving Layup Shot,1,2,11,True
+Giannis Antetokounmpo,2,7,42,0,Driving Layup Shot,5,49,10,True
+Giannis Antetokounmpo,3,5,45,1,Driving Layup Shot,0,8,3,True
+Giannis Antetokounmpo,4,6,9,0,Driving Layup Shot,2,29,7,True
+Giannis Antetokounmpo,4,7,8,0,Driving Layup Shot,5,35,45,True
+Giannis Antetokounmpo,2,11,29,1,Driving Layup Shot,1,6,13,True
+Giannis Antetokounmpo,3,6,46,1,Driving Layup Shot,4,11,40,True
+Giannis Antetokounmpo,2,7,47,1,Driving Layup Shot,1,-3,17,True
+Giannis Antetokounmpo,4,6,41,1,Driving Layup Shot,2,19,17,True
+Giannis Antetokounmpo,1,11,24,0,Driving Layup Shot,1,3,10,True
+Giannis Antetokounmpo,4,6,19,0,Driving Layup Shot,2,16,18,True
+Giannis Antetokounmpo,2,2,23,1,Driving Layup Shot,2,6,22,True
+Giannis Antetokounmpo,3,0,0,0,Driving Layup Shot,2,13,22,True
+Giannis Antetokounmpo,4,6,34,0,Driving Layup Shot,2,-3,20,True
+Giannis Antetokounmpo,3,4,8,1,Driving Layup Shot,1,-3,13,True
+Giannis Antetokounmpo,1,6,29,0,Driving Reverse Layup Shot,0,3,7,True
+Giannis Antetokounmpo,3,7,0,1,Driving Reverse Layup Shot,1,2,11,True
+Giannis Antetokounmpo,2,7,59,0,Driving Reverse Layup Shot,0,9,-1,True
+Giannis Antetokounmpo,1,8,47,0,Driving Reverse Layup Shot,2,-2,29,True
+Giannis Antetokounmpo,3,6,8,0,Driving Reverse Layup Shot,3,19,25,True
+Giannis Antetokounmpo,2,3,21,1,Driving Reverse Layup Shot,1,-4,15,True
+Giannis Antetokounmpo,3,9,40,0,Driving Reverse Layup Shot,3,4,33,True
+Giannis Antetokounmpo,3,4,25,1,Driving Reverse Layup Shot,0,-3,5,True
+Giannis Antetokounmpo,3,9,28,1,Driving Reverse Layup Shot,1,-11,-7,True
+Giannis Antetokounmpo,1,7,31,1,Driving Reverse Layup Shot,1,2,17,True
+Giannis Antetokounmpo,2,4,39,1,Driving Reverse Layup Shot,1,0,15,True
+Giannis Antetokounmpo,1,6,31,0,Dunk Shot,1,6,17,True
+Giannis Antetokounmpo,1,6,14,1,Dunk Shot,1,4,18,True
+Giannis Antetokounmpo,1,10,16,1,Dunk Shot,0,0,1,True
+Giannis Antetokounmpo,3,7,21,1,Dunk Shot,0,-6,-4,True
+Giannis Antetokounmpo,2,5,43,1,Dunk Shot,1,0,13,True
+Giannis Antetokounmpo,4,7,5,1,Dunk Shot,0,-2,6,True
+Giannis Antetokounmpo,3,7,16,1,Dunk Shot,0,-5,8,True
+Giannis Antetokounmpo,1,8,47,1,Dunk Shot,2,-9,18,True
+Giannis Antetokounmpo,2,8,14,1,Dunk Shot,3,-15,27,True
+Giannis Antetokounmpo,3,9,39,1,Dunk Shot,1,6,13,True
+Giannis Antetokounmpo,2,8,30,1,Dunk Shot,2,5,22,True
+Giannis Antetokounmpo,3,5,46,1,Dunk Shot,1,-9,5,True
+Giannis Antetokounmpo,2,10,36,1,Dunk Shot,1,0,14,True
+Giannis Antetokounmpo,1,4,1,1,Dunk Shot,1,1,16,True
+Giannis Antetokounmpo,3,2,54,1,Dunk Shot,1,-5,10,True
+Giannis Antetokounmpo,2,2,23,1,Dunk Shot,2,-17,17,True
+Giannis Antetokounmpo,3,0,29,1,Dunk Shot,0,0,8,True
+Giannis Antetokounmpo,3,10,40,1,Dunk Shot,1,-2,11,True
+Giannis Antetokounmpo,2,3,19,1,Dunk Shot,2,2,21,True
+Giannis Antetokounmpo,1,9,7,1,Dunk Shot,0,4,4,True
+Giannis Antetokounmpo,3,6,28,0,Dunk Shot,3,33,15,True
+Giannis Antetokounmpo,3,1,57,1,Dunk Shot,1,1,10,True
+Giannis Antetokounmpo,4,4,12,1,Dunk Shot,1,1,10,True
+Giannis Antetokounmpo,4,2,22,1,Dunk Shot,1,10,11,True
+Giannis Antetokounmpo,4,7,5,0,Dunk Shot,1,5,14,True
+Giannis Antetokounmpo,3,7,50,1,Dunk Shot,2,-20,13,True
+Giannis Antetokounmpo,1,8,21,1,Dunk Shot,0,1,0,True
+Giannis Antetokounmpo,4,4,23,1,Dunk Shot,1,6,13,True
+Giannis Antetokounmpo,1,6,5,1,Dunk Shot,1,5,14,True
+Giannis Antetokounmpo,3,0,50,1,Dunk Shot,1,3,16,True
+Giannis Antetokounmpo,3,5,21,1,Dunk Shot,1,13,12,True
+Giannis Antetokounmpo,4,4,49,1,Fadeaway Jump Shot,2,16,23,True
+Giannis Antetokounmpo,3,2,20,0,Fadeaway Jump Shot,15,-154,13,True
+Giannis Antetokounmpo,2,10,22,1,Fadeaway Jump Shot,6,13,61,True
+Giannis Antetokounmpo,1,9,14,0,Fadeaway Jump Shot,8,-51,68,True
+Giannis Antetokounmpo,4,2,52,0,Fadeaway Jump Shot,9,80,57,True
+Giannis Antetokounmpo,2,10,51,1,Fadeaway Jump Shot,9,-72,64,True
+Giannis Antetokounmpo,2,0,41,0,Fadeaway Jump Shot,15,-103,113,True
+Giannis Antetokounmpo,4,1,5,1,Fadeaway Jump Shot,12,-44,113,True
+Giannis Antetokounmpo,2,11,15,0,Fadeaway Jump Shot,10,-61,85,True
+Giannis Antetokounmpo,1,9,45,1,Fadeaway Jump Shot,7,-77,8,True
+Giannis Antetokounmpo,4,11,30,0,Fadeaway Jump Shot,14,-114,83,True
+Giannis Antetokounmpo,3,9,8,0,Fadeaway Jump Shot,8,84,32,True
+Giannis Antetokounmpo,4,1,9,0,Fadeaway Jump Shot,12,-44,122,True
+Giannis Antetokounmpo,2,3,1,0,Fadeaway Jump Shot,12,-125,-13,True
+Giannis Antetokounmpo,1,10,2,0,Fadeaway Jump Shot,7,6,74,True
+Giannis Antetokounmpo,2,8,55,0,Fadeaway Jump Shot,11,11,114,True
+Giannis Antetokounmpo,3,0,56,1,Fadeaway Jump Shot,13,-7,136,True
+Giannis Antetokounmpo,3,5,33,0,Fadeaway Jump Shot,9,-46,78,True
+Giannis Antetokounmpo,2,0,3,1,Fadeaway Jump Shot,9,85,41,True
+Giannis Antetokounmpo,2,10,39,0,Fadeaway Jump Shot,14,11,148,True
+Giannis Antetokounmpo,2,0,0,0,Fadeaway Jump Shot,4,-38,22,True
+Giannis Antetokounmpo,3,4,52,0,Fadeaway Jump Shot,10,-47,91,True
+Giannis Antetokounmpo,4,1,43,0,Fadeaway Jump Shot,6,-25,60,True
+Giannis Antetokounmpo,1,10,11,0,Fadeaway Jump Shot,12,-117,32,True
+Giannis Antetokounmpo,4,9,19,0,Fadeaway Jump Shot,8,-84,-9,True
+Giannis Antetokounmpo,3,4,40,0,Fadeaway Jump Shot,9,-58,74,True
+Giannis Antetokounmpo,1,11,5,0,Fadeaway Jump Shot,9,97,11,True
+Giannis Antetokounmpo,3,5,32,1,Fadeaway Jump Shot,5,0,51,True
+Giannis Antetokounmpo,4,11,41,0,Fadeaway Jump Shot,11,-105,37,True
+Giannis Antetokounmpo,4,5,30,0,Fadeaway Jump Shot,11,30,116,True
+Giannis Antetokounmpo,5,4,35,0,Fadeaway Jump Shot,10,-109,6,True
+Giannis Antetokounmpo,3,2,48,1,Fadeaway Jump Shot,18,79,168,True
+Giannis Antetokounmpo,4,10,20,0,Finger Roll Layup Shot,2,-17,20,True
+Giannis Antetokounmpo,2,0,38,0,Finger Roll Layup Shot,1,-3,19,True
+Giannis Antetokounmpo,2,6,7,1,Finger Roll Layup Shot,0,-5,1,True
+Giannis Antetokounmpo,3,7,55,1,Finger Roll Layup Shot,1,1,14,True
+Giannis Antetokounmpo,1,9,48,1,Finger Roll Layup Shot,1,6,11,True
+Giannis Antetokounmpo,4,10,8,0,Finger Roll Layup Shot,3,-33,16,True
+Giannis Antetokounmpo,2,9,59,0,Finger Roll Layup Shot,2,11,20,True
+Giannis Antetokounmpo,3,7,8,1,Finger Roll Layup Shot,0,6,4,True
+Giannis Antetokounmpo,4,0,48,1,Finger Roll Layup Shot,2,8,24,True
+Giannis Antetokounmpo,4,11,5,0,Finger Roll Layup Shot,3,-4,31,True
+Giannis Antetokounmpo,2,8,40,1,Finger Roll Layup Shot,0,-1,2,True
+Giannis Antetokounmpo,1,3,37,1,Finger Roll Layup Shot,1,4,10,True
+Giannis Antetokounmpo,3,7,30,0,Finger Roll Layup Shot,0,2,6,True
+Giannis Antetokounmpo,2,6,29,1,Finger Roll Layup Shot,1,-3,10,True
+Giannis Antetokounmpo,2,0,0,0,Floating Jump shot,44,-119,425,False
+Giannis Antetokounmpo,3,5,33,0,Floating Jump shot,12,31,121,True
+Giannis Antetokounmpo,2,11,2,0,Floating Jump shot,8,9,88,True
+Giannis Antetokounmpo,3,10,2,1,Floating Jump shot,8,3,89,True
+Giannis Antetokounmpo,3,11,17,0,Floating Jump shot,5,16,56,True
+Giannis Antetokounmpo,1,8,45,0,Floating Jump shot,10,-13,100,True
+Giannis Antetokounmpo,4,3,39,1,Hook Shot,7,19,68,True
+Giannis Antetokounmpo,4,6,31,0,Hook Shot,5,9,53,True
+Giannis Antetokounmpo,2,2,33,1,Hook Shot,9,-13,94,True
+Giannis Antetokounmpo,2,2,36,0,Hook Shot,5,38,45,True
+Giannis Antetokounmpo,4,9,29,0,Hook Shot,8,31,74,True
+Giannis Antetokounmpo,4,2,9,0,Hook Shot,8,-6,83,True
+Giannis Antetokounmpo,1,0,46,1,Hook Shot,6,5,67,True
+Giannis Antetokounmpo,1,2,0,0,Hook Shot,7,70,4,True
+Giannis Antetokounmpo,2,11,22,0,Hook Shot,4,23,40,True
+Giannis Antetokounmpo,1,4,11,0,Hook Shot,10,10,100,True
+Giannis Antetokounmpo,2,3,11,0,Hook Shot,5,-1,54,True
+Giannis Antetokounmpo,1,7,53,1,Hook Shot,7,0,71,True
+Giannis Antetokounmpo,1,4,50,0,Hook Shot,1,-13,8,True
+Giannis Antetokounmpo,3,5,32,0,Hook Shot,9,3,90,True
+Giannis Antetokounmpo,2,0,23,0,Hook Shot,3,-5,39,True
+Giannis Antetokounmpo,1,9,34,0,Hook Shot,11,71,87,True
+Giannis Antetokounmpo,3,7,14,0,Hook Shot,7,13,78,True
+Giannis Antetokounmpo,3,9,55,0,Hook Shot,7,1,72,True
+Giannis Antetokounmpo,1,11,39,1,Hook Shot,5,7,59,True
+Giannis Antetokounmpo,3,7,31,0,Hook Shot,10,-13,105,True
+Giannis Antetokounmpo,1,2,30,0,Hook Shot,5,5,55,True
+Giannis Antetokounmpo,3,8,11,0,Hook Shot,1,-10,10,True
+Giannis Antetokounmpo,2,1,51,0,Hook Shot,3,-9,32,True
+Giannis Antetokounmpo,4,8,52,0,Jump Bank Shot,4,-34,31,True
+Giannis Antetokounmpo,2,11,3,0,Jump Bank Shot,7,-55,54,True
+Giannis Antetokounmpo,1,7,40,0,Jump Bank Shot,2,8,23,True
+Giannis Antetokounmpo,1,6,34,0,Jump Bank Shot,8,-54,60,True
+Giannis Antetokounmpo,2,9,8,1,Jump Shot,20,-85,190,True
+Giannis Antetokounmpo,3,10,37,0,Jump Shot,26,-156,209,False
+Giannis Antetokounmpo,4,1,42,0,Jump Shot,26,-130,235,False
+Giannis Antetokounmpo,4,8,25,0,Jump Shot,17,-112,130,True
+Giannis Antetokounmpo,2,0,0,0,Jump Shot,28,-106,268,False
+Giannis Antetokounmpo,1,8,53,0,Jump Shot,19,-74,177,True
+Giannis Antetokounmpo,2,9,42,0,Jump Shot,27,-108,253,False
+Giannis Antetokounmpo,3,10,57,0,Jump Shot,27,-158,221,False
+Giannis Antetokounmpo,4,3,41,0,Jump Shot,27,107,252,False
+Giannis Antetokounmpo,3,6,9,0,Jump Shot,25,-111,233,False
+Giannis Antetokounmpo,4,9,58,0,Jump Shot,24,-150,197,False
+Giannis Antetokounmpo,1,1,36,0,Jump Shot,18,-62,174,True
+Giannis Antetokounmpo,1,1,3,1,Jump Shot,22,-221,8,False
+Giannis Antetokounmpo,4,4,11,1,Jump Shot,27,-165,214,False
+Giannis Antetokounmpo,2,6,41,0,Jump Shot,23,-231,4,False
+Giannis Antetokounmpo,1,5,15,1,Jump Shot,25,-95,239,False
+Giannis Antetokounmpo,4,1,8,0,Jump Shot,14,-16,140,True
+Giannis Antetokounmpo,4,10,11,1,Jump Shot,24,241,64,False
+Giannis Antetokounmpo,1,8,28,0,Jump Shot,23,233,15,False
+Giannis Antetokounmpo,1,3,45,0,Jump Shot,2,-6,27,True
+Giannis Antetokounmpo,1,10,55,0,Jump Shot,17,-90,152,True
+Giannis Antetokounmpo,1,5,22,1,Jump Shot,25,-108,232,False
+Giannis Antetokounmpo,3,8,15,0,Jump Shot,28,-70,277,False
+Giannis Antetokounmpo,2,3,40,0,Jump Shot,16,87,141,True
+Giannis Antetokounmpo,4,7,7,0,Jump Shot,28,-165,230,False
+Giannis Antetokounmpo,4,0,0,0,Jump Shot,26,230,134,False
+Giannis Antetokounmpo,2,4,22,0,Jump Shot,19,147,130,True
+Giannis Antetokounmpo,1,3,44,1,Jump Shot,25,0,259,False
+Giannis Antetokounmpo,3,11,25,0,Jump Shot,17,127,122,True
+Giannis Antetokounmpo,4,6,24,1,Jump Shot,18,90,163,True
+Giannis Antetokounmpo,3,1,45,1,Jump Shot,16,79,146,True
+Giannis Antetokounmpo,4,4,11,0,Jump Shot,14,-10,143,True
+Giannis Antetokounmpo,4,0,31,0,Jump Shot,26,-143,227,False
+Giannis Antetokounmpo,3,4,24,0,Jump Shot,20,81,184,True
+Giannis Antetokounmpo,1,2,6,1,Jump Shot,28,-183,216,False
+Giannis Antetokounmpo,3,7,53,0,Jump Shot,25,-165,197,False
+Giannis Antetokounmpo,2,5,30,0,Jump Shot,7,-41,59,True
+Giannis Antetokounmpo,4,7,27,0,Jump Shot,17,-143,94,True
+Giannis Antetokounmpo,2,9,38,0,Jump Shot,14,-1,144,True
+Giannis Antetokounmpo,2,6,45,1,Jump Shot,28,-163,233,False
+Giannis Antetokounmpo,3,2,2,0,Jump Shot,26,-89,254,False
+Giannis Antetokounmpo,3,0,1,1,Jump Shot,26,80,251,False
+Giannis Antetokounmpo,2,8,39,0,Jump Shot,18,103,159,True
+Giannis Antetokounmpo,1,11,22,0,Jump Shot,25,-135,221,False
+Giannis Antetokounmpo,4,0,4,0,Jump Shot,12,-6,122,True
+Giannis Antetokounmpo,1,4,29,1,Jump Shot,25,166,193,False
+Giannis Antetokounmpo,4,11,6,0,Jump Shot,15,-109,106,True
+Giannis Antetokounmpo,4,5,8,0,Jump Shot,14,-70,129,True
+Giannis Antetokounmpo,1,8,11,0,Jump Shot,18,-157,95,True
+Giannis Antetokounmpo,4,7,56,0,Jump Shot,18,-73,174,True
+Giannis Antetokounmpo,3,7,14,0,Jump Shot,19,5,194,True
+Giannis Antetokounmpo,3,10,36,0,Jump Shot,25,-134,216,False
+Giannis Antetokounmpo,2,8,29,0,Jump Shot,19,-29,188,True
+Giannis Antetokounmpo,5,0,0,0,Jump Shot,7,73,14,True
+Giannis Antetokounmpo,1,8,31,0,Jump Shot,27,-180,214,False
+Giannis Antetokounmpo,5,1,24,0,Jump Shot,24,205,137,False
+Giannis Antetokounmpo,2,4,29,0,Jump Shot,20,149,141,True
+Giannis Antetokounmpo,1,0,52,0,Jump Shot,26,84,250,False
+Giannis Antetokounmpo,4,9,57,0,Jump Shot,16,-136,90,True
+Giannis Antetokounmpo,2,4,8,0,Jump Shot,26,-119,235,False
+Giannis Antetokounmpo,3,0,39,1,Jump Shot,18,-139,117,True
+Giannis Antetokounmpo,1,10,27,0,Jump Shot,14,-71,121,True
+Giannis Antetokounmpo,3,8,47,0,Jump Shot,25,230,113,False
+Giannis Antetokounmpo,2,10,32,0,Jump Shot,11,-11,115,True
+Giannis Antetokounmpo,4,8,51,0,Jump Shot,26,-96,251,False
+Giannis Antetokounmpo,3,11,5,0,Jump Shot,18,-128,138,True
+Giannis Antetokounmpo,2,1,13,0,Jump Shot,25,-77,247,False
+Giannis Antetokounmpo,1,0,30,0,Jump Shot,18,-105,151,True
+Giannis Antetokounmpo,1,0,3,1,Jump Shot,11,-50,106,True
+Giannis Antetokounmpo,4,6,51,0,Jump Shot,14,52,133,True
+Giannis Antetokounmpo,1,11,41,0,Jump Shot,9,98,5,True
+Giannis Antetokounmpo,2,0,1,0,Jump Shot,29,0,295,False
+Giannis Antetokounmpo,4,2,55,0,Jump Shot,25,1,258,False
+Giannis Antetokounmpo,4,10,53,1,Jump Shot,24,-187,164,False
+Giannis Antetokounmpo,3,10,21,0,Jump Shot,19,-194,4,True
+Giannis Antetokounmpo,4,0,4,0,Jump Shot,25,-214,137,False
+Giannis Antetokounmpo,3,8,20,0,Jump Shot,10,58,85,True
+Giannis Antetokounmpo,2,7,49,0,Jump Shot,20,-155,138,True
+Giannis Antetokounmpo,3,0,48,0,Jump Shot,19,-162,109,True
+Giannis Antetokounmpo,1,11,13,1,Jump Shot,24,-168,185,False
+Giannis Antetokounmpo,3,10,16,1,Jump Shot,22,20,223,True
+Giannis Antetokounmpo,1,11,47,1,Jump Shot,18,-108,153,True
+Giannis Antetokounmpo,4,1,53,1,Jump Shot,10,-2,105,True
+Giannis Antetokounmpo,3,7,23,1,Jump Shot,28,-186,210,False
+Giannis Antetokounmpo,1,3,42,0,Jump Shot,24,-212,126,False
+Giannis Antetokounmpo,1,10,2,1,Jump Shot,24,152,196,False
+Giannis Antetokounmpo,2,5,48,0,Jump Shot,25,-212,142,False
+Giannis Antetokounmpo,3,11,48,0,Jump Shot,18,-106,156,True
+Giannis Antetokounmpo,4,9,12,1,Jump Shot,18,-179,31,True
+Giannis Antetokounmpo,4,7,20,1,Jump Shot,21,33,210,True
+Giannis Antetokounmpo,3,7,53,0,Jump Shot,26,102,248,False
+Giannis Antetokounmpo,2,2,28,0,Jump Shot,24,-223,108,False
+Giannis Antetokounmpo,1,9,21,1,Jump Shot,23,-232,30,False
+Giannis Antetokounmpo,4,5,27,0,Jump Shot,16,79,144,True
+Giannis Antetokounmpo,3,7,0,0,Jump Shot,24,-208,133,False
+Giannis Antetokounmpo,2,7,59,0,Jump Shot,27,-85,260,False
+Giannis Antetokounmpo,1,2,41,0,Jump Shot,23,-234,1,False
+Giannis Antetokounmpo,3,0,12,0,Jump Shot,21,-125,181,True
+Giannis Antetokounmpo,1,1,1,1,Jump Shot,22,-123,183,True
+Giannis Antetokounmpo,2,2,11,0,Jump Shot,13,132,46,True
+Giannis Antetokounmpo,2,5,51,0,Jump Shot,21,-38,209,True
+Giannis Antetokounmpo,2,5,16,1,Jump Shot,22,-218,40,False
+Giannis Antetokounmpo,3,7,37,0,Jump Shot,26,-121,231,False
+Giannis Antetokounmpo,2,8,33,0,Jump Shot,15,-29,148,True
+Giannis Antetokounmpo,2,1,12,1,Jump Shot,28,-101,270,False
+Giannis Antetokounmpo,2,11,10,0,Jump Shot,14,-120,85,True
+Giannis Antetokounmpo,1,3,23,0,Jump Shot,21,-120,180,True
+Giannis Antetokounmpo,2,4,27,0,Jump Shot,13,8,134,True
+Giannis Antetokounmpo,3,11,26,0,Jump Shot,25,-25,253,False
+Giannis Antetokounmpo,2,8,48,1,Jump Shot,16,-72,153,True
+Giannis Antetokounmpo,1,7,55,0,Jump Shot,26,-223,142,False
+Giannis Antetokounmpo,3,4,56,1,Jump Shot,15,-128,90,True
+Giannis Antetokounmpo,3,0,0,0,Jump Shot,23,232,22,False
+Giannis Antetokounmpo,1,10,1,0,Jump Shot,27,-9,270,False
+Giannis Antetokounmpo,2,2,40,0,Jump Shot,18,87,162,True
+Giannis Antetokounmpo,3,8,35,0,Jump Shot,19,-11,194,True
+Giannis Antetokounmpo,4,5,32,0,Jump Shot,26,-178,190,False
+Giannis Antetokounmpo,4,4,49,1,Jump Shot,27,55,269,False
+Giannis Antetokounmpo,1,7,48,0,Jump Shot,18,179,-20,True
+Giannis Antetokounmpo,1,8,33,0,Jump Shot,23,-121,196,True
+Giannis Antetokounmpo,3,5,54,1,Jump Shot,20,-10,206,True
+Giannis Antetokounmpo,1,10,9,0,Jump Shot,22,3,227,True
+Giannis Antetokounmpo,4,8,23,1,Jump Shot,20,88,189,True
+Giannis Antetokounmpo,2,9,21,0,Jump Shot,19,-20,189,True
+Giannis Antetokounmpo,1,8,44,1,Jump Shot,26,62,262,False
+Giannis Antetokounmpo,4,6,25,0,Jump Shot,17,173,28,True
+Giannis Antetokounmpo,2,6,14,1,Jump Shot,27,169,219,False
+Giannis Antetokounmpo,4,2,35,1,Jump Shot,19,-79,175,True
+Giannis Antetokounmpo,4,2,8,1,Jump Shot,23,-234,13,False
+Giannis Antetokounmpo,1,11,45,1,Jump Shot,19,65,184,True
+Giannis Antetokounmpo,1,3,28,0,Jump Shot,15,139,59,True
+Giannis Antetokounmpo,1,7,59,1,Jump Shot,26,-206,159,False
+Giannis Antetokounmpo,4,5,58,0,Jump Shot,15,-122,101,True
+Giannis Antetokounmpo,4,1,18,0,Jump Shot,25,-136,220,False
+Giannis Antetokounmpo,3,2,23,0,Jump Shot,21,74,204,True
+Giannis Antetokounmpo,4,4,20,1,Jump Shot,26,-14,261,False
+Giannis Antetokounmpo,1,4,57,0,Jump Shot,7,-40,63,True
+Giannis Antetokounmpo,3,1,21,0,Jump Shot,19,25,194,True
+Giannis Antetokounmpo,1,6,42,1,Jump Shot,17,-81,154,True
+Giannis Antetokounmpo,2,4,42,1,Jump Shot,13,-94,97,True
+Giannis Antetokounmpo,4,0,39,0,Jump Shot,27,-14,271,False
+Giannis Antetokounmpo,1,0,31,0,Jump Shot,21,-5,214,True
+Giannis Antetokounmpo,2,0,0,0,Jump Shot,41,-163,386,False
+Giannis Antetokounmpo,2,0,55,0,Jump Shot,27,161,227,False
+Giannis Antetokounmpo,2,7,11,0,Jump Shot,19,19,193,True
+Giannis Antetokounmpo,2,4,28,0,Jump Shot,16,9,163,True
+Giannis Antetokounmpo,3,10,16,1,Jump Shot,16,-25,159,True
+Giannis Antetokounmpo,1,10,35,1,Jump Shot,19,-152,125,True
+Giannis Antetokounmpo,3,0,48,0,Jump Shot,21,-3,210,True
+Giannis Antetokounmpo,1,10,13,0,Jump Shot,18,144,111,True
+Giannis Antetokounmpo,3,7,21,0,Jump Shot,21,70,199,True
+Giannis Antetokounmpo,2,9,15,0,Jump Shot,28,141,242,False
+Giannis Antetokounmpo,2,3,45,0,Jump Shot,20,-11,205,True
+Giannis Antetokounmpo,1,7,58,0,Jump Shot,19,-54,191,True
+Giannis Antetokounmpo,2,3,5,0,Jump Shot,14,134,60,True
+Giannis Antetokounmpo,3,6,16,1,Jump Shot,19,-18,192,True
+Giannis Antetokounmpo,3,9,54,0,Jump Shot,11,-63,93,True
+Giannis Antetokounmpo,3,8,44,0,Jump Shot,15,-75,135,True
+Giannis Antetokounmpo,3,0,0,0,Jump Shot,25,-125,226,False
+Giannis Antetokounmpo,1,8,14,1,Jump Shot,20,-78,189,True
+Giannis Antetokounmpo,3,5,15,1,Jump Shot,18,-110,154,True
+Giannis Antetokounmpo,2,1,54,1,Jump Shot,22,-222,14,False
+Giannis Antetokounmpo,5,0,0,0,Jump Shot,24,-157,189,False
+Giannis Antetokounmpo,3,5,17,1,Jump Shot,17,-154,90,True
+Giannis Antetokounmpo,3,10,43,0,Jump Shot,23,-230,9,False
+Giannis Antetokounmpo,3,7,57,0,Jump Shot,26,58,262,False
+Giannis Antetokounmpo,1,4,47,0,Jump Shot,20,-3,202,True
+Giannis Antetokounmpo,3,11,26,0,Jump Shot,21,105,190,True
+Giannis Antetokounmpo,1,4,11,0,Jump Shot,22,227,15,False
+Giannis Antetokounmpo,1,6,50,1,Jump Shot,20,6,204,True
+Giannis Antetokounmpo,4,6,36,0,Jump Shot,19,89,178,True
+Giannis Antetokounmpo,3,8,34,0,Jump Shot,26,-113,243,False
+Giannis Antetokounmpo,1,11,45,1,Jump Shot,17,-32,174,True
+Giannis Antetokounmpo,1,5,33,1,Jump Shot,18,-106,154,True
+Giannis Antetokounmpo,4,1,45,1,Jump Shot,27,111,251,False
+Giannis Antetokounmpo,2,0,1,0,Jump Shot,27,-111,248,False
+Giannis Antetokounmpo,2,6,6,0,Jump Shot,23,-235,-20,False
+Giannis Antetokounmpo,3,11,16,0,Jump Shot,23,226,56,False
+Giannis Antetokounmpo,1,7,22,1,Jump Shot,27,-84,262,False
+Giannis Antetokounmpo,1,11,41,0,Jump Shot,26,105,238,False
+Giannis Antetokounmpo,1,2,3,1,Jump Shot,10,-103,-15,True
+Giannis Antetokounmpo,1,11,22,0,Jump Shot,19,-73,183,True
+Giannis Antetokounmpo,2,7,56,0,Jump Shot,25,-205,148,False
+Giannis Antetokounmpo,4,0,23,0,Jump Shot,25,135,220,False
+Giannis Antetokounmpo,3,10,38,1,Jump Shot,20,49,194,True
+Giannis Antetokounmpo,4,11,12,0,Jump Shot,21,69,200,True
+Giannis Antetokounmpo,1,11,13,0,Jump Shot,22,89,209,True
+Giannis Antetokounmpo,4,9,50,0,Jump Shot,25,-169,191,False
+Giannis Antetokounmpo,3,5,18,0,Jump Shot,14,-134,53,True
+Giannis Antetokounmpo,2,5,32,1,Jump Shot,24,-150,190,False
+Giannis Antetokounmpo,4,0,2,0,Jump Shot,22,226,39,False
+Giannis Antetokounmpo,3,8,44,0,Jump Shot,19,74,176,True
+Giannis Antetokounmpo,3,3,34,0,Jump Shot,15,-81,132,True
+Giannis Antetokounmpo,3,10,50,1,Jump Shot,15,144,55,True
+Giannis Antetokounmpo,2,7,59,0,Jump Shot,17,-104,142,True
+Giannis Antetokounmpo,1,9,56,0,Jump Shot,18,178,43,True
+Giannis Antetokounmpo,4,2,36,1,Jump Shot,18,11,185,True
+Giannis Antetokounmpo,4,11,36,0,Jump Shot,21,187,96,True
+Giannis Antetokounmpo,3,7,58,0,Jump Shot,27,-116,246,False
+Giannis Antetokounmpo,1,5,58,1,Jump Shot,28,-114,259,False
+Giannis Antetokounmpo,1,9,54,0,Jump Shot,23,-232,27,False
+Giannis Antetokounmpo,4,1,3,0,Jump Shot,25,113,226,False
+Giannis Antetokounmpo,4,5,34,0,Jump Shot,19,-2,195,True
+Giannis Antetokounmpo,2,2,32,0,Jump Shot,20,70,192,True
+Giannis Antetokounmpo,1,3,40,0,Jump Shot,26,129,236,False
+Giannis Antetokounmpo,1,7,21,1,Jump Shot,20,-154,134,True
+Giannis Antetokounmpo,1,2,52,0,Jump Shot,27,-56,265,False
+Giannis Antetokounmpo,4,4,57,0,Jump Shot,18,-73,172,True
+Giannis Antetokounmpo,4,8,3,0,Jump Shot,18,91,165,True
+Giannis Antetokounmpo,1,11,12,0,Jump Shot,24,193,143,False
+Giannis Antetokounmpo,4,9,47,0,Jump Shot,13,-111,79,True
+Giannis Antetokounmpo,3,11,36,0,Jump Shot,23,132,194,True
+Giannis Antetokounmpo,3,7,2,1,Jump Shot,25,224,130,False
+Giannis Antetokounmpo,1,8,0,1,Jump Shot,20,-148,136,True
+Giannis Antetokounmpo,1,4,49,0,Jump Shot,22,-128,185,True
+Giannis Antetokounmpo,3,5,2,0,Jump Shot,6,40,47,True
+Giannis Antetokounmpo,1,5,44,1,Jump Shot,2,0,27,True
+Giannis Antetokounmpo,1,8,26,0,Jump Shot,25,93,233,False
+Giannis Antetokounmpo,1,3,2,1,Jump Shot,17,37,174,True
+Giannis Antetokounmpo,3,11,41,1,Jump Shot,19,-123,147,True
+Giannis Antetokounmpo,2,3,44,0,Jump Shot,26,210,167,False
+Giannis Antetokounmpo,3,3,4,0,Jump Shot,26,-69,261,False
+Giannis Antetokounmpo,1,2,30,0,Jump Shot,8,33,80,True
+Giannis Antetokounmpo,1,2,35,0,Jump Shot,20,-25,203,True
+Giannis Antetokounmpo,4,4,13,0,Jump Shot,21,-68,209,True
+Giannis Antetokounmpo,3,2,43,0,Jump Shot,28,-6,280,False
+Giannis Antetokounmpo,3,6,5,1,Jump Shot,24,210,118,False
+Giannis Antetokounmpo,4,10,45,0,Jump Shot,19,-28,194,True
+Giannis Antetokounmpo,2,11,8,0,Jump Shot,27,-127,242,False
+Giannis Antetokounmpo,1,2,58,0,Jump Shot,18,-92,159,True
+Giannis Antetokounmpo,3,3,4,0,Jump Shot,17,-144,94,True
+Giannis Antetokounmpo,1,10,13,1,Jump Shot,20,-142,142,True
+Giannis Antetokounmpo,1,6,24,1,Jump Shot,18,-168,83,True
+Giannis Antetokounmpo,1,10,17,0,Jump Shot,9,13,92,True
+Giannis Antetokounmpo,4,9,4,0,Jump Shot,25,-145,208,False
+Giannis Antetokounmpo,4,11,27,0,Jump Shot,19,22,194,True
+Giannis Antetokounmpo,3,11,35,0,Jump Shot,14,-76,126,True
+Giannis Antetokounmpo,1,4,4,0,Jump Shot,5,-50,-1,True
+Giannis Antetokounmpo,4,10,39,0,Jump Shot,25,-13,253,False
+Giannis Antetokounmpo,3,11,38,1,Jump Shot,7,12,75,True
+Giannis Antetokounmpo,1,0,57,0,Jump Shot,15,128,83,True
+Giannis Antetokounmpo,3,1,9,1,Jump Shot,16,-158,45,True
+Giannis Antetokounmpo,1,8,15,0,Jump Shot,19,-5,192,True
+Giannis Antetokounmpo,2,11,26,0,Jump Shot,18,-82,166,True
+Giannis Antetokounmpo,4,4,29,1,Jump Shot,29,-3,295,False
+Giannis Antetokounmpo,1,2,8,0,Jump Shot,16,82,146,True
+Giannis Antetokounmpo,1,10,41,1,Jump Shot,17,-133,111,True
+Giannis Antetokounmpo,1,10,18,0,Jump Shot,17,-111,140,True
+Giannis Antetokounmpo,3,11,45,0,Jump Shot,26,-93,249,False
+Giannis Antetokounmpo,1,10,47,0,Jump Shot,9,98,-10,True
+Giannis Antetokounmpo,3,11,19,1,Jump Shot,10,-58,90,True
+Giannis Antetokounmpo,1,3,4,0,Jump Shot,19,177,78,True
+Giannis Antetokounmpo,2,1,18,1,Jump Shot,11,79,88,True
+Giannis Antetokounmpo,1,3,4,0,Jump Shot,25,-163,193,False
+Giannis Antetokounmpo,4,2,45,1,Jump Shot,26,93,244,False
+Giannis Antetokounmpo,1,5,56,1,Jump Shot,18,-73,168,True
+Giannis Antetokounmpo,4,5,22,0,Jump Shot,27,-128,242,False
+Giannis Antetokounmpo,2,5,22,0,Jump Shot,18,34,182,True
+Giannis Antetokounmpo,3,5,44,0,Jump Shot,20,-1,205,True
+Giannis Antetokounmpo,4,0,18,0,Jump Shot,25,87,244,False
+Giannis Antetokounmpo,2,4,38,0,Jump Shot,21,-46,214,True
+Giannis Antetokounmpo,3,2,35,0,Jump Shot,10,0,107,True
+Giannis Antetokounmpo,1,9,33,1,Jump Shot,18,-111,142,True
+Giannis Antetokounmpo,1,11,40,0,Jump Shot,25,12,253,False
+Giannis Antetokounmpo,4,2,59,0,Jump Shot,27,-141,237,False
+Giannis Antetokounmpo,3,5,57,0,Jump Shot,19,-33,194,True
+Giannis Antetokounmpo,1,7,34,0,Jump Shot,26,8,267,False
+Giannis Antetokounmpo,4,10,32,0,Jump Shot,19,88,171,True
+Giannis Antetokounmpo,1,6,44,0,Jump Shot,14,138,28,True
+Giannis Antetokounmpo,3,10,38,1,Jump Shot,18,14,189,True
+Giannis Antetokounmpo,1,1,32,1,Jump Shot,16,79,147,True
+Giannis Antetokounmpo,3,7,17,1,Jump Shot,27,-90,257,False
+Giannis Antetokounmpo,3,6,51,0,Jump Shot,15,-157,22,True
+Giannis Antetokounmpo,3,2,28,1,Jump Shot,27,3,274,False
+Giannis Antetokounmpo,3,9,42,1,Jump Shot,18,95,163,True
+Giannis Antetokounmpo,4,0,44,1,Jump Shot,27,60,271,False
+Giannis Antetokounmpo,3,7,38,0,Jump Shot,16,-32,163,True
+Giannis Antetokounmpo,4,8,24,0,Jump Shot,12,-127,-7,True
+Giannis Antetokounmpo,4,0,21,0,Jump Shot,26,49,260,False
+Giannis Antetokounmpo,2,10,18,0,Jump Shot,20,-45,199,True
+Giannis Antetokounmpo,2,11,47,0,Jump Shot,19,-43,191,True
+Giannis Antetokounmpo,4,1,28,1,Jump Shot,27,-6,276,False
+Giannis Antetokounmpo,4,10,29,1,Jump Shot,14,-60,131,True
+Giannis Antetokounmpo,1,8,14,0,Jump Shot,27,-24,273,False
+Giannis Antetokounmpo,4,5,13,0,Jump Shot,27,-202,184,False
+Giannis Antetokounmpo,3,8,9,0,Jump Shot,27,-60,264,False
+Giannis Antetokounmpo,4,9,32,1,Jump Shot,28,-72,272,False
+Giannis Antetokounmpo,2,9,4,0,Jump Shot,17,-3,172,True
+Giannis Antetokounmpo,2,2,33,0,Jump Shot,17,-99,148,True
+Giannis Antetokounmpo,2,3,36,0,Jump Shot,25,130,225,False
+Giannis Antetokounmpo,1,8,27,0,Jump Shot,20,-141,149,True
+Giannis Antetokounmpo,1,7,41,0,Jump Shot,19,-180,74,True
+Giannis Antetokounmpo,1,10,19,0,Jump Shot,22,83,205,True
+Giannis Antetokounmpo,4,5,6,0,Jump Shot,25,58,244,False
+Giannis Antetokounmpo,2,0,58,1,Jump Shot,20,-5,204,True
+Giannis Antetokounmpo,2,7,4,0,Layup Shot,2,4,22,True
+Giannis Antetokounmpo,2,9,15,1,Layup Shot,0,-4,4,True
+Giannis Antetokounmpo,4,5,13,1,Layup Shot,1,5,16,True
+Giannis Antetokounmpo,3,11,11,1,Layup Shot,1,-14,4,True
+Giannis Antetokounmpo,1,6,58,0,Layup Shot,2,-20,20,True
+Giannis Antetokounmpo,2,8,43,0,Layup Shot,2,8,21,True
+Giannis Antetokounmpo,3,7,26,1,Layup Shot,2,19,9,True
+Giannis Antetokounmpo,2,0,0,1,Layup Shot,5,-9,57,True
+Giannis Antetokounmpo,1,7,24,0,Layup Shot,4,4,44,True
+Giannis Antetokounmpo,1,11,13,0,Layup Shot,1,-14,13,True
+Giannis Antetokounmpo,4,7,8,0,Layup Shot,3,3,34,True
+Giannis Antetokounmpo,1,9,23,1,Layup Shot,2,-14,18,True
+Giannis Antetokounmpo,4,10,17,0,Layup Shot,3,-20,34,True
+Giannis Antetokounmpo,2,10,5,1,Layup Shot,1,10,7,True
+Giannis Antetokounmpo,1,7,48,0,Layup Shot,2,-1,25,True
+Giannis Antetokounmpo,3,7,18,0,Layup Shot,6,-43,44,True
+Giannis Antetokounmpo,4,9,21,0,Layup Shot,2,-25,12,True
+Giannis Antetokounmpo,2,5,45,0,Layup Shot,0,0,2,True
+Giannis Antetokounmpo,4,6,34,0,Layup Shot,2,9,19,True
+Giannis Antetokounmpo,3,4,40,0,Layup Shot,2,-9,20,True
+Giannis Antetokounmpo,2,1,34,1,Layup Shot,2,-18,10,True
+Giannis Antetokounmpo,1,11,42,0,Layup Shot,2,13,23,True
+Giannis Antetokounmpo,1,6,24,0,Layup Shot,0,3,8,True
+Giannis Antetokounmpo,2,0,13,1,Layup Shot,2,11,27,True
+Giannis Antetokounmpo,2,0,55,0,Layup Shot,1,7,9,True
+Giannis Antetokounmpo,4,7,0,1,Layup Shot,1,6,11,True
+Giannis Antetokounmpo,1,9,8,1,Layup Shot,1,2,11,True
+Giannis Antetokounmpo,1,10,20,1,Layup Shot,0,4,-3,True
+Giannis Antetokounmpo,4,6,44,0,Layup Shot,9,0,94,True
+Giannis Antetokounmpo,2,4,32,0,Layup Shot,3,-26,20,True
+Giannis Antetokounmpo,2,9,22,1,Layup Shot,1,12,14,True
+Giannis Antetokounmpo,3,5,7,0,Layup Shot,2,-6,21,True
+Giannis Antetokounmpo,3,11,2,0,Layup Shot,2,-2,22,True
+Giannis Antetokounmpo,4,10,47,1,Layup Shot,2,-5,22,True
+Giannis Antetokounmpo,2,9,49,1,Layup Shot,1,5,11,True
+Giannis Antetokounmpo,2,11,29,1,Layup Shot,1,2,10,True
+Giannis Antetokounmpo,4,5,6,0,Layup Shot,3,24,29,True
+Giannis Antetokounmpo,3,9,16,0,Layup Shot,2,6,24,True
+Giannis Antetokounmpo,1,4,15,0,Layup Shot,2,8,19,True
+Giannis Antetokounmpo,1,6,6,0,Layup Shot,1,-5,13,True
+Giannis Antetokounmpo,2,5,55,1,Layup Shot,1,17,6,True
+Giannis Antetokounmpo,1,11,22,1,Layup Shot,0,-1,1,True
+Giannis Antetokounmpo,3,8,15,0,Layup Shot,4,-2,40,True
+Giannis Antetokounmpo,1,6,25,0,Layup Shot,3,-8,37,True
+Giannis Antetokounmpo,2,4,50,1,Layup Shot,1,-6,8,True
+Giannis Antetokounmpo,1,9,41,1,Layup Shot,3,-30,0,True
+Giannis Antetokounmpo,3,9,36,0,Layup Shot,5,-2,58,True
+Giannis Antetokounmpo,4,5,37,0,Layup Shot,3,-15,36,True
+Giannis Antetokounmpo,2,9,16,1,Layup Shot,4,14,46,True
+Giannis Antetokounmpo,3,9,5,0,Layup Shot,1,8,18,True
+Giannis Antetokounmpo,2,11,25,1,Layup Shot,3,27,15,True
+Giannis Antetokounmpo,2,5,18,1,Layup Shot,1,6,12,True
+Giannis Antetokounmpo,2,4,21,1,Layup Shot,1,7,13,True
+Giannis Antetokounmpo,4,1,24,1,Layup Shot,1,-6,13,True
+Giannis Antetokounmpo,4,11,20,0,Layup Shot,5,-4,52,True
+Giannis Antetokounmpo,2,0,53,0,Layup Shot,3,27,20,True
+Giannis Antetokounmpo,2,1,29,0,Layup Shot,4,13,39,True
+Giannis Antetokounmpo,4,9,40,1,Layup Shot,1,-4,11,True
+Giannis Antetokounmpo,4,10,21,0,Layup Shot,1,1,17,True
+Giannis Antetokounmpo,4,4,51,1,Layup Shot,2,12,19,True
+Giannis Antetokounmpo,2,5,2,1,Layup Shot,0,6,6,True
+Giannis Antetokounmpo,2,5,58,0,Layup Shot,1,8,17,True
+Giannis Antetokounmpo,4,0,5,1,Layup Shot,1,-9,11,True
+Giannis Antetokounmpo,4,2,26,1,Layup Shot,2,-11,24,True
+Giannis Antetokounmpo,2,8,10,0,Layup Shot,4,3,45,True
+Giannis Antetokounmpo,3,11,24,0,Layup Shot,2,13,25,True
+Giannis Antetokounmpo,3,9,4,0,Layup Shot,3,34,9,True
+Giannis Antetokounmpo,1,9,50,0,Layup Shot,1,3,11,True
+Giannis Antetokounmpo,1,0,2,0,Layup Shot,2,-4,21,True
+Giannis Antetokounmpo,2,11,29,0,Layup Shot,4,8,40,True
+Giannis Antetokounmpo,2,8,6,0,Layup Shot,1,18,8,True
+Giannis Antetokounmpo,2,10,36,0,Layup Shot,3,10,33,True
+Giannis Antetokounmpo,1,1,45,0,Layup Shot,2,-20,14,True
+Giannis Antetokounmpo,1,0,29,0,Layup Shot,0,6,2,True
+Giannis Antetokounmpo,2,8,42,1,Layup Shot,1,-7,16,True
+Giannis Antetokounmpo,1,5,9,0,Layup Shot,3,18,30,True
+Giannis Antetokounmpo,3,2,21,0,Layup Shot,3,-11,32,True
+Giannis Antetokounmpo,1,9,44,1,Layup Shot,1,-9,6,True
+Giannis Antetokounmpo,2,10,18,1,Layup Shot,0,1,6,True
+Giannis Antetokounmpo,2,11,34,0,Layup Shot,2,-18,14,True
+Giannis Antetokounmpo,2,5,54,1,Layup Shot,4,11,41,True
+Giannis Antetokounmpo,4,0,4,1,Layup Shot,1,15,13,True
+Giannis Antetokounmpo,3,8,2,1,Layup Shot,3,25,26,True
+Giannis Antetokounmpo,3,11,31,1,Layup Shot,7,63,40,True
+Giannis Antetokounmpo,4,6,27,1,Layup Shot,1,15,8,True
+Giannis Antetokounmpo,2,0,38,1,Layup Shot,1,-8,11,True
+Giannis Antetokounmpo,4,5,22,0,Layup Shot,5,32,50,True
+Giannis Antetokounmpo,4,2,44,0,Layup Shot,1,6,13,True
+Giannis Antetokounmpo,3,2,32,1,Layup Shot,1,9,-6,True
+Giannis Antetokounmpo,1,4,35,0,Layup Shot,2,0,29,True
+Giannis Antetokounmpo,3,9,20,1,Layup Shot,2,6,20,True
+Giannis Antetokounmpo,1,0,29,0,Layup Shot,1,19,4,True
+Giannis Antetokounmpo,4,5,28,1,Layup Shot,1,-11,5,True
+Giannis Antetokounmpo,2,0,38,0,Layup Shot,2,16,20,True
+Giannis Antetokounmpo,2,10,27,0,Layup Shot,2,22,4,True
+Giannis Antetokounmpo,4,11,11,0,Layup Shot,2,-5,22,True
+Giannis Antetokounmpo,3,3,50,0,Layup Shot,3,-4,30,True
+Giannis Antetokounmpo,2,1,9,0,Layup Shot,1,4,10,True
+Giannis Antetokounmpo,3,1,6,1,Layup Shot,1,-9,11,True
+Giannis Antetokounmpo,3,6,55,0,Layup Shot,2,7,21,True
+Giannis Antetokounmpo,2,7,49,0,Layup Shot,3,-37,-6,True
+Giannis Antetokounmpo,2,9,55,0,Layup Shot,0,9,1,True
+Giannis Antetokounmpo,3,11,20,0,Layup Shot,8,-2,80,True
+Giannis Antetokounmpo,4,4,1,0,Layup Shot,1,8,17,True
+Giannis Antetokounmpo,2,8,22,1,Layup Shot,1,5,11,True
+Giannis Antetokounmpo,4,2,42,1,Layup Shot,0,-5,6,True
+Giannis Antetokounmpo,2,4,17,1,Layup Shot,2,27,-1,True
+Giannis Antetokounmpo,3,3,38,1,Layup Shot,0,-8,2,True
+Giannis Antetokounmpo,2,1,39,1,Layup Shot,1,7,9,True
+Giannis Antetokounmpo,3,10,30,0,Layup Shot,2,-3,22,True
+Giannis Antetokounmpo,2,7,49,0,Layup Shot,1,2,18,True
+Giannis Antetokounmpo,1,11,42,1,Layup Shot,0,-2,4,True
+Giannis Antetokounmpo,3,8,25,0,Layup Shot,3,2,31,True
+Giannis Antetokounmpo,4,1,4,1,Layup Shot,1,-15,10,True
+Giannis Antetokounmpo,2,0,1,1,Layup Shot,0,2,0,True
+Giannis Antetokounmpo,4,3,19,0,Layup Shot,3,27,25,True
+Giannis Antetokounmpo,1,10,10,0,Layup Shot,1,10,7,True
+Giannis Antetokounmpo,4,3,34,0,Layup Shot,0,-2,6,True
+Giannis Antetokounmpo,2,0,43,1,Pullup Jump shot,16,169,6,True
+Giannis Antetokounmpo,1,8,39,0,Pullup Jump shot,18,-90,166,True
+Giannis Antetokounmpo,1,11,21,1,Pullup Jump shot,20,141,155,True
+Giannis Antetokounmpo,2,0,2,0,Pullup Jump shot,10,-82,59,True
+Giannis Antetokounmpo,2,7,23,0,Pullup Jump shot,18,57,179,True
+Giannis Antetokounmpo,1,10,53,1,Pullup Jump shot,25,133,217,False
+Giannis Antetokounmpo,4,11,3,0,Pullup Jump shot,19,-122,157,True
+Giannis Antetokounmpo,3,11,19,1,Pullup Jump shot,22,-155,160,True
+Giannis Antetokounmpo,3,9,31,0,Pullup Jump shot,19,-16,197,True
+Giannis Antetokounmpo,1,8,34,0,Pullup Jump shot,20,109,179,True
+Giannis Antetokounmpo,4,8,55,1,Pullup Jump shot,20,82,184,True
+Giannis Antetokounmpo,3,9,11,1,Pullup Jump shot,22,-65,216,True
+Giannis Antetokounmpo,4,5,44,1,Pullup Jump shot,22,-108,192,True
+Giannis Antetokounmpo,2,0,37,0,Pullup Jump shot,25,-78,243,False
+Giannis Antetokounmpo,1,11,39,1,Pullup Jump shot,19,-41,189,True
+Giannis Antetokounmpo,3,8,51,0,Pullup Jump shot,21,-29,215,True
+Giannis Antetokounmpo,3,1,31,0,Pullup Jump shot,20,116,165,True
+Giannis Antetokounmpo,1,9,14,0,Pullup Jump shot,19,-77,174,True
+Giannis Antetokounmpo,1,7,55,0,Pullup Jump shot,19,-130,141,True
+Giannis Antetokounmpo,1,7,44,1,Pullup Jump shot,20,-11,209,True
+Giannis Antetokounmpo,1,11,7,1,Pullup Jump shot,10,0,106,True
+Giannis Antetokounmpo,3,5,18,1,Pullup Jump shot,20,-60,194,True
+Giannis Antetokounmpo,2,0,1,0,Pullup Jump shot,18,-78,169,True
+Giannis Antetokounmpo,4,6,10,0,Pullup Jump shot,20,-38,204,True
+Giannis Antetokounmpo,4,10,29,0,Pullup Jump shot,21,82,204,True
+Giannis Antetokounmpo,1,7,21,0,Pullup Jump shot,24,-115,214,False
+Giannis Antetokounmpo,3,0,23,0,Pullup Jump shot,21,98,196,True
+Giannis Antetokounmpo,2,10,28,1,Pullup Jump shot,19,79,173,True
+Giannis Antetokounmpo,2,7,32,0,Pullup Jump shot,20,-137,159,True
+Giannis Antetokounmpo,3,10,2,0,Pullup Jump shot,18,35,184,True
+Giannis Antetokounmpo,3,6,10,0,Pullup Jump shot,19,65,179,True
+Giannis Antetokounmpo,2,5,27,0,Pullup Jump shot,20,-165,127,True
+Giannis Antetokounmpo,1,10,28,0,Pullup Jump shot,21,-2,216,True
+Giannis Antetokounmpo,3,9,51,1,Pullup Jump shot,19,-112,159,True
+Giannis Antetokounmpo,4,6,6,0,Pullup Jump shot,19,-103,166,True
+Giannis Antetokounmpo,4,10,44,1,Pullup Jump shot,22,-150,164,True
+Giannis Antetokounmpo,4,5,7,0,Pullup Jump shot,22,93,201,True
+Giannis Antetokounmpo,5,0,27,0,Pullup Jump shot,21,137,171,True
+Giannis Antetokounmpo,4,7,34,1,Pullup Jump shot,22,86,211,True
+Giannis Antetokounmpo,4,3,9,1,Pullup Jump shot,17,35,175,True
+Giannis Antetokounmpo,3,8,38,0,Pullup Jump shot,19,107,163,True
+Giannis Antetokounmpo,3,11,0,0,Pullup Jump shot,21,154,147,True
+Giannis Antetokounmpo,4,1,4,0,Pullup Jump shot,16,-46,162,True
+Giannis Antetokounmpo,3,0,6,1,Pullup Jump shot,21,53,210,True
+Giannis Antetokounmpo,5,3,28,1,Pullup Jump shot,21,-104,188,True
+Giannis Antetokounmpo,1,10,58,1,Pullup Jump shot,20,161,125,True
+Giannis Antetokounmpo,2,8,53,0,Pullup Jump shot,20,29,206,True
+Giannis Antetokounmpo,4,3,27,1,Pullup Jump shot,19,93,174,True
+Giannis Antetokounmpo,2,5,56,1,Pullup Jump shot,0,4,7,True
+Giannis Antetokounmpo,1,11,17,0,Pullup Jump shot,16,-161,26,True
+Giannis Antetokounmpo,1,0,0,0,Pullup Jump shot,19,-109,157,True
+Giannis Antetokounmpo,3,9,58,0,Pullup Jump shot,20,-149,139,True
+Giannis Antetokounmpo,3,0,29,0,Pullup Jump shot,19,-147,121,True
+Giannis Antetokounmpo,4,2,5,0,Pullup Jump shot,20,93,183,True
+Giannis Antetokounmpo,2,5,45,0,Pullup Jump shot,19,85,178,True
+Giannis Antetokounmpo,1,4,41,1,Pullup Jump shot,15,-124,95,True
+Giannis Antetokounmpo,3,9,42,0,Pullup Jump shot,21,-174,118,True
+Giannis Antetokounmpo,1,5,14,0,Pullup Jump shot,21,29,210,True
+Giannis Antetokounmpo,4,1,8,1,Pullup Jump shot,15,-150,43,True
+Giannis Antetokounmpo,1,11,42,0,Pullup Jump shot,18,-107,154,True
+Giannis Antetokounmpo,1,10,40,1,Pullup Jump shot,18,-124,142,True
+Giannis Antetokounmpo,4,8,30,0,Pullup Jump shot,18,70,172,True
+Giannis Antetokounmpo,5,1,18,0,Pullup Jump shot,21,25,216,True
+Giannis Antetokounmpo,2,5,29,1,Putback Dunk Shot,0,0,-6,True
+Giannis Antetokounmpo,4,10,13,1,Putback Dunk Shot,0,0,-6,True
+Giannis Antetokounmpo,2,2,38,0,Putback Dunk Shot,3,5,34,True
+Giannis Antetokounmpo,1,6,23,1,Putback Dunk Shot,1,-3,11,True
+Giannis Antetokounmpo,3,10,10,1,Putback Dunk Shot,0,0,-6,True
+Giannis Antetokounmpo,1,0,0,1,Putback Dunk Shot,0,0,-6,True
+Giannis Antetokounmpo,1,0,23,1,Putback Dunk Shot,0,0,-6,True
+Giannis Antetokounmpo,1,10,31,1,Putback Dunk Shot,0,0,-6,True
+Giannis Antetokounmpo,3,7,57,1,Putback Dunk Shot,0,-6,4,True
+Giannis Antetokounmpo,4,5,6,1,Putback Dunk Shot,0,0,-6,True
+Giannis Antetokounmpo,4,0,10,1,Putback Dunk Shot,0,1,4,True
+Giannis Antetokounmpo,1,6,59,1,Putback Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,1,5,31,1,Putback Layup Shot,0,-4,8,True
+Giannis Antetokounmpo,2,0,36,0,Putback Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,4,3,17,1,Putback Layup Shot,1,-3,10,True
+Giannis Antetokounmpo,1,10,38,1,Putback Layup Shot,1,-12,-8,True
+Giannis Antetokounmpo,2,0,35,1,Putback Layup Shot,1,8,15,True
+Giannis Antetokounmpo,2,11,18,1,Putback Layup Shot,1,5,19,True
+Giannis Antetokounmpo,2,0,24,0,Putback Layup Shot,0,-8,-5,True
+Giannis Antetokounmpo,4,0,27,0,Putback Layup Shot,8,78,37,True
+Giannis Antetokounmpo,4,2,11,1,Putback Layup Shot,0,-9,3,True
+Giannis Antetokounmpo,1,2,32,0,Putback Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,2,10,58,1,Putback Layup Shot,1,-9,6,True
+Giannis Antetokounmpo,3,2,33,1,Putback Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,2,6,11,0,Putback Layup Shot,3,28,15,True
+Giannis Antetokounmpo,1,4,27,1,Putback Layup Shot,2,-5,25,True
+Giannis Antetokounmpo,2,9,4,1,Putback Layup Shot,1,5,9,True
+Giannis Antetokounmpo,4,1,55,1,Putback Layup Shot,0,3,4,True
+Giannis Antetokounmpo,1,0,25,1,Putback Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,4,1,13,1,Putback Layup Shot,1,-1,16,True
+Giannis Antetokounmpo,2,2,16,1,Putback Layup Shot,1,9,6,True
+Giannis Antetokounmpo,2,11,30,1,Putback Layup Shot,1,0,13,True
+Giannis Antetokounmpo,2,11,1,1,Putback Layup Shot,3,7,39,True
+Giannis Antetokounmpo,4,5,12,0,Putback Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,2,0,53,1,Reverse Layup Shot,1,6,14,True
+Giannis Antetokounmpo,2,7,32,1,Reverse Layup Shot,1,-2,13,True
+Giannis Antetokounmpo,4,0,49,0,Reverse Layup Shot,1,12,8,True
+Giannis Antetokounmpo,4,6,9,1,Reverse Layup Shot,1,-6,8,True
+Giannis Antetokounmpo,2,1,41,1,Reverse Layup Shot,1,-3,17,True
+Giannis Antetokounmpo,2,3,42,1,Reverse Layup Shot,1,16,1,True
+Giannis Antetokounmpo,2,8,6,1,Reverse Layup Shot,1,-4,10,True
+Giannis Antetokounmpo,3,11,9,1,Reverse Layup Shot,1,-4,13,True
+Giannis Antetokounmpo,1,7,8,1,Reverse Layup Shot,1,-5,9,True
+Giannis Antetokounmpo,3,9,56,0,Reverse Layup Shot,0,3,4,True
+Giannis Antetokounmpo,2,2,25,1,Reverse Layup Shot,0,3,6,True
+Giannis Antetokounmpo,2,5,38,0,Reverse Layup Shot,1,3,13,True
+Giannis Antetokounmpo,1,7,9,1,Reverse Layup Shot,1,5,10,True
+Giannis Antetokounmpo,1,11,31,0,Reverse Layup Shot,2,16,18,True
+Giannis Antetokounmpo,2,5,5,0,Reverse Layup Shot,1,4,13,True
+Giannis Antetokounmpo,4,4,19,1,Reverse Layup Shot,1,-4,16,True
+Giannis Antetokounmpo,2,11,40,1,Reverse Layup Shot,2,-18,14,True
+Giannis Antetokounmpo,1,5,34,1,Reverse Layup Shot,1,-6,11,True
+Giannis Antetokounmpo,3,3,21,1,Running Alley Oop Dunk Shot,2,14,16,True
+Giannis Antetokounmpo,2,7,43,1,Running Alley Oop Dunk Shot,0,-8,3,True
+Giannis Antetokounmpo,2,0,45,1,Running Dunk Shot,1,-2,11,True
+Giannis Antetokounmpo,2,2,34,1,Running Dunk Shot,1,17,8,True
+Giannis Antetokounmpo,1,10,4,1,Running Dunk Shot,0,1,4,True
+Giannis Antetokounmpo,3,5,45,1,Running Dunk Shot,1,-2,16,True
+Giannis Antetokounmpo,2,1,32,1,Running Dunk Shot,1,-3,10,True
+Giannis Antetokounmpo,1,10,18,1,Running Dunk Shot,0,0,4,True
+Giannis Antetokounmpo,1,7,9,1,Running Dunk Shot,1,2,11,True
+Giannis Antetokounmpo,2,4,8,1,Running Dunk Shot,1,-11,1,True
+Giannis Antetokounmpo,1,9,58,1,Running Dunk Shot,1,-5,12,True
+Giannis Antetokounmpo,3,2,42,1,Running Dunk Shot,0,-2,5,True
+Giannis Antetokounmpo,3,0,59,1,Running Dunk Shot,1,-5,11,True
+Giannis Antetokounmpo,4,0,11,1,Running Dunk Shot,2,4,20,True
+Giannis Antetokounmpo,3,5,44,1,Running Dunk Shot,1,-7,8,True
+Giannis Antetokounmpo,1,8,46,1,Running Dunk Shot,1,-8,17,True
+Giannis Antetokounmpo,3,10,32,1,Running Dunk Shot,1,-9,11,True
+Giannis Antetokounmpo,2,7,10,1,Running Dunk Shot,1,-3,15,True
+Giannis Antetokounmpo,3,0,57,1,Running Dunk Shot,0,3,-6,True
+Giannis Antetokounmpo,1,10,32,1,Running Dunk Shot,0,-9,1,True
+Giannis Antetokounmpo,3,10,13,1,Running Dunk Shot,0,-4,8,True
+Giannis Antetokounmpo,4,9,44,1,Running Dunk Shot,1,6,11,True
+Giannis Antetokounmpo,2,2,23,1,Running Dunk Shot,1,9,5,True
+Giannis Antetokounmpo,3,0,9,1,Running Dunk Shot,0,0,1,True
+Giannis Antetokounmpo,1,9,39,1,Running Dunk Shot,0,2,1,True
+Giannis Antetokounmpo,2,3,24,1,Running Dunk Shot,0,2,-4,True
+Giannis Antetokounmpo,1,1,51,1,Running Dunk Shot,1,1,16,True
+Giannis Antetokounmpo,3,9,17,1,Running Dunk Shot,0,5,8,True
+Giannis Antetokounmpo,1,8,57,1,Running Dunk Shot,1,9,10,True
+Giannis Antetokounmpo,3,2,55,1,Running Finger Roll Layup Shot,1,-8,15,True
+Giannis Antetokounmpo,3,1,4,1,Running Finger Roll Layup Shot,1,-3,10,True
+Giannis Antetokounmpo,1,7,52,1,Running Finger Roll Layup Shot,0,5,8,True
+Giannis Antetokounmpo,2,6,52,1,Running Finger Roll Layup Shot,0,-3,-9,True
+Giannis Antetokounmpo,2,0,54,1,Running Finger Roll Layup Shot,0,4,1,True
+Giannis Antetokounmpo,1,10,16,1,Running Finger Roll Layup Shot,1,5,10,True
+Giannis Antetokounmpo,1,7,55,1,Running Finger Roll Layup Shot,2,-14,21,True
+Giannis Antetokounmpo,2,3,7,1,Running Finger Roll Layup Shot,0,6,5,True
+Giannis Antetokounmpo,3,0,23,1,Running Finger Roll Layup Shot,1,-1,12,True
+Giannis Antetokounmpo,2,8,13,1,Running Finger Roll Layup Shot,0,-4,8,True
+Giannis Antetokounmpo,3,11,2,1,Running Finger Roll Layup Shot,1,9,8,True
+Giannis Antetokounmpo,2,4,58,1,Running Finger Roll Layup Shot,1,-6,15,True
+Giannis Antetokounmpo,4,9,48,1,Running Finger Roll Layup Shot,0,-2,9,True
+Giannis Antetokounmpo,2,4,28,1,Running Finger Roll Layup Shot,3,8,30,True
+Giannis Antetokounmpo,1,9,35,0,Running Jump Shot,2,2,20,True
+Giannis Antetokounmpo,2,10,6,0,Running Jump Shot,5,27,50,True
+Giannis Antetokounmpo,1,11,18,0,Running Layup Shot,2,7,21,True
+Giannis Antetokounmpo,1,0,29,0,Running Layup Shot,1,4,16,True
+Giannis Antetokounmpo,1,11,8,1,Running Layup Shot,0,-3,2,True
+Giannis Antetokounmpo,1,8,49,1,Running Layup Shot,2,-18,10,True
+Giannis Antetokounmpo,1,8,13,1,Running Layup Shot,1,8,15,True
+Giannis Antetokounmpo,1,10,51,1,Running Layup Shot,0,3,9,True
+Giannis Antetokounmpo,3,11,3,1,Running Layup Shot,1,-5,10,True
+Giannis Antetokounmpo,2,6,24,0,Running Layup Shot,1,-13,4,True
+Giannis Antetokounmpo,3,10,20,1,Running Layup Shot,0,8,1,True
+Giannis Antetokounmpo,2,1,43,1,Running Layup Shot,1,2,10,True
+Giannis Antetokounmpo,1,3,59,1,Running Layup Shot,0,3,6,True
+Giannis Antetokounmpo,3,11,17,0,Running Layup Shot,9,76,53,True
+Giannis Antetokounmpo,3,6,26,0,Running Layup Shot,2,20,13,True
+Giannis Antetokounmpo,3,5,16,0,Running Layup Shot,1,-9,17,True
+Giannis Antetokounmpo,3,8,27,1,Running Layup Shot,2,2,20,True
+Giannis Antetokounmpo,3,9,11,0,Running Layup Shot,2,-12,27,True
+Giannis Antetokounmpo,3,10,44,0,Running Layup Shot,1,14,13,True
+Giannis Antetokounmpo,4,4,40,1,Running Layup Shot,0,6,6,True
+Giannis Antetokounmpo,4,0,40,1,Running Layup Shot,0,2,1,True
+Giannis Antetokounmpo,1,1,0,1,Running Layup Shot,0,2,-6,True
+Giannis Antetokounmpo,1,1,13,1,Running Layup Shot,1,5,15,True
+Giannis Antetokounmpo,3,9,48,0,Running Layup Shot,0,-2,1,True
+Giannis Antetokounmpo,4,1,47,1,Running Layup Shot,0,4,7,True
+Giannis Antetokounmpo,2,1,30,1,Running Layup Shot,0,5,7,True
+Giannis Antetokounmpo,2,8,0,0,Running Layup Shot,4,9,43,True
+Giannis Antetokounmpo,3,10,10,1,Running Layup Shot,0,8,1,True
+Giannis Antetokounmpo,1,9,3,0,Running Layup Shot,0,7,0,True
+Giannis Antetokounmpo,3,6,0,1,Running Layup Shot,1,14,1,True
+Giannis Antetokounmpo,2,11,30,0,Running Layup Shot,1,4,17,True
+Giannis Antetokounmpo,3,4,36,1,Running Layup Shot,1,-4,15,True
+Giannis Antetokounmpo,3,5,52,1,Running Layup Shot,1,6,13,True
+Giannis Antetokounmpo,3,6,47,1,Running Layup Shot,2,9,22,True
+Giannis Antetokounmpo,2,1,11,1,Running Layup Shot,1,4,12,True
+Giannis Antetokounmpo,3,9,32,1,Running Layup Shot,1,0,19,True
+Giannis Antetokounmpo,2,6,38,1,Running Layup Shot,2,11,17,True
+Giannis Antetokounmpo,4,1,1,1,Running Layup Shot,1,5,13,True
+Giannis Antetokounmpo,1,6,44,1,Running Layup Shot,2,22,1,True
+Giannis Antetokounmpo,1,9,51,1,Running Layup Shot,1,9,11,True
+Giannis Antetokounmpo,3,10,56,0,Running Layup Shot,1,0,17,True
+Giannis Antetokounmpo,3,7,24,0,Running Layup Shot,2,-12,23,True
+Giannis Antetokounmpo,3,3,40,0,Running Layup Shot,2,16,16,True
+Giannis Antetokounmpo,2,0,55,0,Running Layup Shot,5,-40,36,True
+Giannis Antetokounmpo,4,3,22,0,Running Layup Shot,2,16,20,True
+Giannis Antetokounmpo,1,9,38,0,Running Layup Shot,2,-6,27,True
+Giannis Antetokounmpo,1,8,57,1,Running Layup Shot,1,-9,12,True
+Giannis Antetokounmpo,2,4,8,0,Running Layup Shot,0,5,2,True
+Giannis Antetokounmpo,4,7,21,0,Running Layup Shot,1,13,3,True
+Giannis Antetokounmpo,2,0,26,0,Running Layup Shot,1,-12,11,True
+Giannis Antetokounmpo,4,1,50,1,Running Layup Shot,5,27,48,True
+Giannis Antetokounmpo,2,1,0,1,Running Layup Shot,1,-3,-10,True
+Giannis Antetokounmpo,2,11,34,0,Running Reverse Layup Shot,0,-7,5,True
+Giannis Antetokounmpo,1,1,29,1,Step Back Bank Jump Shot,9,-76,57,True
+Giannis Antetokounmpo,4,9,23,0,Step Back Jump shot,10,-6,106,True
+Giannis Antetokounmpo,3,10,52,0,Step Back Jump shot,15,-89,126,True
+Giannis Antetokounmpo,3,9,1,1,Step Back Jump shot,14,139,32,True
+Giannis Antetokounmpo,3,11,9,1,Step Back Jump shot,14,41,136,True
+Giannis Antetokounmpo,1,8,20,0,Step Back Jump shot,15,-87,127,True
+Giannis Antetokounmpo,4,10,17,1,Step Back Jump shot,14,-2,143,True
+Giannis Antetokounmpo,4,0,44,0,Step Back Jump shot,15,68,141,True
+Giannis Antetokounmpo,1,10,1,1,Step Back Jump shot,19,-49,185,True
+Giannis Antetokounmpo,1,2,33,0,Step Back Jump shot,12,-128,1,True
+Giannis Antetokounmpo,3,6,27,0,Step Back Jump shot,13,1,135,True
+Giannis Antetokounmpo,3,1,36,0,Step Back Jump shot,20,-201,26,True
+Giannis Antetokounmpo,2,0,6,0,Step Back Jump shot,11,-97,57,True
+Giannis Antetokounmpo,3,10,40,0,Step Back Jump shot,7,-9,70,True
+Giannis Antetokounmpo,3,6,21,1,Step Back Jump shot,13,91,96,True
+Giannis Antetokounmpo,2,10,31,0,Step Back Jump shot,13,-83,109,True
+Giannis Antetokounmpo,1,10,4,0,Step Back Jump shot,11,-4,116,True
+Giannis Antetokounmpo,3,10,44,1,Step Back Jump shot,13,-3,130,True
+Giannis Antetokounmpo,2,3,32,1,Step Back Jump shot,13,45,129,True
+Giannis Antetokounmpo,4,8,55,1,Step Back Jump shot,14,131,58,True
+Giannis Antetokounmpo,2,2,0,1,Step Back Jump shot,11,-106,31,True
+Giannis Antetokounmpo,4,6,57,0,Step Back Jump shot,16,-62,148,True
+Giannis Antetokounmpo,4,8,36,1,Step Back Jump shot,13,52,121,True
+Giannis Antetokounmpo,2,8,26,0,Step Back Jump shot,17,174,44,True
+Giannis Antetokounmpo,1,6,12,0,Step Back Jump shot,15,-111,103,True
+Giannis Antetokounmpo,2,2,47,0,Step Back Jump shot,15,-71,142,True
+Giannis Antetokounmpo,5,0,13,1,Step Back Jump shot,16,-159,26,True
+Giannis Antetokounmpo,2,6,16,0,Step Back Jump shot,12,52,116,True
+Giannis Antetokounmpo,3,4,16,1,Step Back Jump shot,12,-3,129,True
+Giannis Antetokounmpo,2,11,31,1,Step Back Jump shot,15,25,156,True
+Giannis Antetokounmpo,3,9,59,1,Step Back Jump shot,8,56,68,True
+Giannis Antetokounmpo,3,4,50,0,Step Back Jump shot,13,-6,135,True
+Giannis Antetokounmpo,4,9,24,1,Step Back Jump shot,14,-136,55,True
+Giannis Antetokounmpo,1,9,4,1,Step Back Jump shot,16,-76,146,True
+Giannis Antetokounmpo,1,11,25,1,Step Back Jump shot,12,-125,4,True
+Giannis Antetokounmpo,2,10,48,0,Step Back Jump shot,18,163,87,True
+Giannis Antetokounmpo,1,4,49,0,Step Back Jump shot,12,60,114,True
+Giannis Antetokounmpo,1,9,2,1,Step Back Jump shot,8,-2,89,True
+Giannis Antetokounmpo,2,9,48,0,Step Back Jump shot,15,-118,94,True
+Giannis Antetokounmpo,3,8,57,0,Step Back Jump shot,13,124,41,True
+Giannis Antetokounmpo,3,0,14,1,Step Back Jump shot,13,-24,134,True
+Giannis Antetokounmpo,1,1,42,1,Step Back Jump shot,15,-82,133,True
+Giannis Antetokounmpo,2,8,41,1,Step Back Jump shot,19,2,194,True
+Giannis Antetokounmpo,1,10,31,1,Step Back Jump shot,11,97,69,True
+Giannis Antetokounmpo,1,9,30,1,Step Back Jump shot,12,-120,-16,True
+Giannis Antetokounmpo,4,9,57,1,Step Back Jump shot,21,147,151,True
+Giannis Antetokounmpo,3,9,7,0,Step Back Jump shot,14,101,108,True
+Giannis Antetokounmpo,1,8,32,0,Step Back Jump shot,12,-38,124,True
+Giannis Antetokounmpo,4,4,18,1,Tip Dunk Shot,0,0,-6,True
+Giannis Antetokounmpo,4,0,13,1,Tip Dunk Shot,0,0,-6,True
+Giannis Antetokounmpo,2,1,16,1,Tip Dunk Shot,0,0,-6,True
+Giannis Antetokounmpo,2,0,34,0,Tip Dunk Shot,0,0,-6,True
+Giannis Antetokounmpo,3,8,59,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,2,9,38,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,4,6,34,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,2,0,3,0,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,4,9,12,0,Tip Layup Shot,9,19,90,True
+Giannis Antetokounmpo,4,0,2,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,3,4,31,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,3,4,35,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,3,8,53,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,2,0,0,0,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,1,3,43,0,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,4,6,3,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,4,3,9,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,3,4,45,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,3,6,2,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,4,6,6,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,3,9,49,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,4,4,26,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,3,8,39,0,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,3,4,36,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,2,7,25,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,3,10,26,1,Tip Layup Shot,1,1,16,True
+Giannis Antetokounmpo,1,9,0,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,3,6,10,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,2,2,41,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,3,1,15,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,1,10,51,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,2,0,53,1,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,4,0,2,0,Tip Layup Shot,0,0,-6,True
+Giannis Antetokounmpo,4,3,13,1,Turnaround Fadeaway Bank Jump Shot,11,-79,78,True
+Giannis Antetokounmpo,1,11,33,1,Turnaround Fadeaway Bank Jump Shot,7,-72,15,True
+Giannis Antetokounmpo,1,11,2,0,Turnaround Fadeaway Bank Jump Shot,6,-58,27,True
+Giannis Antetokounmpo,4,9,40,1,Turnaround Fadeaway Bank Jump Shot,9,-88,25,True
+Giannis Antetokounmpo,1,9,9,0,Turnaround Fadeaway Bank Jump Shot,5,-50,28,True
+Giannis Antetokounmpo,2,4,0,0,Turnaround Fadeaway Bank Jump Shot,7,-65,27,True
+Giannis Antetokounmpo,3,7,57,1,Turnaround Fadeaway Bank Jump Shot,4,-32,25,True
+Giannis Antetokounmpo,1,1,5,0,Turnaround Fadeaway Bank Jump Shot,8,-84,32,True
+Giannis Antetokounmpo,1,0,40,1,Turnaround Fadeaway Bank Jump Shot,9,-85,38,True
+Giannis Antetokounmpo,2,9,29,0,Turnaround Fadeaway Bank Jump Shot,8,-65,59,True
+Giannis Antetokounmpo,2,7,46,0,Turnaround Fadeaway Bank Jump Shot,5,-54,0,True
+Giannis Antetokounmpo,4,1,55,1,Turnaround Fadeaway Bank Jump Shot,3,-29,21,True
+Giannis Antetokounmpo,2,7,16,1,Turnaround Fadeaway Bank Jump Shot,7,-63,37,True
+Giannis Antetokounmpo,1,8,54,0,Turnaround Fadeaway Bank Jump Shot,8,-60,60,True
+Giannis Antetokounmpo,2,10,50,0,Turnaround Fadeaway shot,15,-116,101,True
+Giannis Antetokounmpo,3,7,39,0,Turnaround Fadeaway shot,11,-98,63,True
+Giannis Antetokounmpo,4,2,16,0,Turnaround Fadeaway shot,10,-30,102,True
+Giannis Antetokounmpo,4,1,2,0,Turnaround Fadeaway shot,9,-75,51,True
+Giannis Antetokounmpo,2,9,42,0,Turnaround Fadeaway shot,9,3,90,True
+Giannis Antetokounmpo,4,7,45,0,Turnaround Fadeaway shot,10,-106,5,True
+Giannis Antetokounmpo,4,7,56,1,Turnaround Fadeaway shot,13,13,138,True
+Giannis Antetokounmpo,2,2,28,1,Turnaround Fadeaway shot,9,-68,59,True
+Giannis Antetokounmpo,3,9,53,0,Turnaround Fadeaway shot,12,-118,53,True
+Giannis Antetokounmpo,2,9,10,1,Turnaround Fadeaway shot,14,-134,62,True
+Giannis Antetokounmpo,1,6,44,1,Turnaround Fadeaway shot,16,-153,52,True
+Giannis Antetokounmpo,4,4,53,0,Turnaround Fadeaway shot,14,-140,50,True
+Giannis Antetokounmpo,1,8,35,1,Turnaround Fadeaway shot,10,-46,90,True
+Giannis Antetokounmpo,4,2,57,0,Turnaround Fadeaway shot,9,-92,15,True
+Giannis Antetokounmpo,4,9,3,0,Turnaround Fadeaway shot,9,-94,2,True
+Giannis Antetokounmpo,2,0,1,1,Turnaround Fadeaway shot,13,-49,131,True
+Giannis Antetokounmpo,2,10,25,0,Turnaround Fadeaway shot,14,-140,6,True
+Giannis Antetokounmpo,1,9,38,0,Turnaround Fadeaway shot,9,8,93,True
+Giannis Antetokounmpo,2,2,39,1,Turnaround Fadeaway shot,6,-55,26,True
+Giannis Antetokounmpo,2,8,4,1,Turnaround Fadeaway shot,8,-87,15,True
+Giannis Antetokounmpo,4,4,52,1,Turnaround Fadeaway shot,12,-116,45,True
+Giannis Antetokounmpo,4,6,27,0,Turnaround Fadeaway shot,11,-116,22,True
+Giannis Antetokounmpo,1,3,23,0,Turnaround Fadeaway shot,5,-52,-5,True
+Giannis Antetokounmpo,1,6,43,1,Turnaround Fadeaway shot,12,124,-9,True
+Giannis Antetokounmpo,2,10,59,0,Turnaround Fadeaway shot,10,-102,3,True
+Giannis Antetokounmpo,4,5,24,0,Turnaround Fadeaway shot,11,-2,114,True
+Giannis Antetokounmpo,4,10,12,0,Turnaround Fadeaway shot,13,-117,61,True
+Giannis Antetokounmpo,2,0,41,0,Turnaround Fadeaway shot,13,25,137,True
+Giannis Antetokounmpo,4,7,48,1,Turnaround Fadeaway shot,8,-84,5,True
+Giannis Antetokounmpo,1,7,42,1,Turnaround Fadeaway shot,11,9,117,True
+Giannis Antetokounmpo,2,8,36,0,Turnaround Fadeaway shot,18,-182,13,True
+Giannis Antetokounmpo,4,6,19,1,Turnaround Fadeaway shot,12,-123,-11,True
+Giannis Antetokounmpo,2,4,59,1,Turnaround Fadeaway shot,6,-61,25,True
+Giannis Antetokounmpo,4,6,50,0,Turnaround Fadeaway shot,13,-89,99,True
+Giannis Antetokounmpo,1,11,18,1,Turnaround Fadeaway shot,7,-77,-19,True
+Giannis Antetokounmpo,3,9,3,0,Turnaround Fadeaway shot,10,-102,25,True
+Giannis Antetokounmpo,3,7,50,0,Turnaround Fadeaway shot,9,-89,37,True
+Giannis Antetokounmpo,3,7,50,1,Turnaround Fadeaway shot,8,-46,74,True
+Giannis Antetokounmpo,3,5,38,1,Turnaround Fadeaway shot,10,-101,9,True
+Giannis Antetokounmpo,3,1,59,1,Turnaround Fadeaway shot,14,-119,91,True
+Giannis Antetokounmpo,2,7,1,0,Turnaround Fadeaway shot,8,44,78,True
+Giannis Antetokounmpo,4,11,40,1,Turnaround Fadeaway shot,8,-81,21,True
+Giannis Antetokounmpo,4,8,8,0,Turnaround Fadeaway shot,16,-145,78,True
+Giannis Antetokounmpo,4,1,55,1,Turnaround Fadeaway shot,10,-103,22,True
+Giannis Antetokounmpo,1,7,58,1,Turnaround Hook Shot,3,-6,34,True
+Giannis Antetokounmpo,3,6,12,1,Turnaround Hook Shot,3,-16,32,True
+Giannis Antetokounmpo,3,11,13,1,Turnaround Hook Shot,6,-4,64,True
+Giannis Antetokounmpo,2,11,16,0,Turnaround Jump Shot,19,-83,173,True
+Giannis Antetokounmpo,4,9,42,0,Turnaround Jump Shot,6,-25,57,True
+Giannis Antetokounmpo,3,0,37,0,Turnaround Jump Shot,12,-105,63,True
+Giannis Antetokounmpo,2,3,4,0,Turnaround Jump Shot,5,-27,43,True
+Giannis Antetokounmpo,2,0,0,0,Turnaround Jump Shot,25,-152,206,False
+Giannis Antetokounmpo,2,8,19,0,Turnaround Jump Shot,6,22,61,True
+Giannis Antetokounmpo,3,2,39,0,Turnaround Jump Shot,19,-8,195,True
+Giannis Antetokounmpo,3,2,29,1,Turnaround Jump Shot,8,29,80,True
+Giannis Antetokounmpo,1,5,25,0,Turnaround Jump Shot,11,-92,62,True
+Giannis Antetokounmpo,4,0,31,0,Turnaround Jump Shot,18,-180,7,True
+Giannis Antetokounmpo,4,4,32,0,Turnaround Jump Shot,13,-128,25,True
+Giannis Antetokounmpo,4,7,51,1,Turnaround Jump Shot,9,36,91,True
+Giannis Antetokounmpo,1,9,47,0,Turnaround Jump Shot,12,0,126,True
+Giannis Antetokounmpo,4,3,3,1,Turnaround Jump Shot,10,-77,76,True
+Giannis Antetokounmpo,4,5,29,1,Turnaround Jump Shot,9,-60,79,True
+Giannis Antetokounmpo,4,7,22,0,Turnaround Jump Shot,15,-23,152,True
+Giannis Antetokounmpo,2,5,44,0,Turnaround Jump Shot,17,-150,97,True
+Giannis Antetokounmpo,2,10,7,0,Turnaround Jump Shot,11,-119,5,True
+Giannis Antetokounmpo,3,10,44,1,Turnaround Jump Shot,4,11,43,True
+Giannis Antetokounmpo,2,3,14,0,Turnaround Jump Shot,15,151,43,True
+Giannis Antetokounmpo,4,5,24,0,Turnaround Jump Shot,9,-95,3,True
+Giannis Antetokounmpo,2,1,35,1,Turnaround Jump Shot,9,-5,98,True
+Giannis Antetokounmpo,3,5,2,1,Turnaround Jump Shot,16,-159,52,True
+Giannis Antetokounmpo,3,10,53,0,Turnaround Jump Shot,7,2,79,True
+Giannis Antetokounmpo,2,4,11,0,Turnaround Jump Shot,9,-98,-5,True
+Giannis Antetokounmpo,3,8,5,1,Turnaround Jump Shot,14,-54,132,True
+Giannis Antetokounmpo,2,5,29,0,Turnaround Jump Shot,11,-118,-2,True
+Giannis Antetokounmpo,4,10,28,1,Turnaround Jump Shot,5,19,49,True
+Giannis Antetokounmpo,1,7,7,0,Turnaround Jump Shot,7,-30,72,True
+Giannis Antetokounmpo,2,4,36,0,Turnaround Jump Shot,8,6,89,True
+Giannis Antetokounmpo,1,7,15,0,Turnaround Jump Shot,6,5,66,True
+Giannis Antetokounmpo,2,4,30,1,Turnaround Jump Shot,3,30,26,True
+Giannis Antetokounmpo,1,6,16,1,Turnaround Jump Shot,19,0,191,True
+Giannis Antetokounmpo,3,10,3,0,Turnaround Jump Shot,11,-71,96,True
+Giannis Antetokounmpo,2,11,15,0,Turnaround Jump Shot,7,-72,13,True
+Giannis Antetokounmpo,1,0,18,1,Turnaround Jump Shot,7,-47,53,True
+Giannis Antetokounmpo,3,0,42,0,Turnaround Jump Shot,10,86,62,True
+Giannis Antetokounmpo,3,4,35,1,Turnaround Jump Shot,10,-105,15,True
+Giannis Antetokounmpo,1,7,34,0,Turnaround Jump Shot,9,74,59,True

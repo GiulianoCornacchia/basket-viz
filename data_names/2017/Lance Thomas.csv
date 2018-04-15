@@ -1,0 +1,243 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Lance Thomas,1,5,21,1,Cutting Dunk Shot,1,11,9,True
+Lance Thomas,1,1,1,1,Cutting Layup Shot,1,-14,7,True
+Lance Thomas,4,7,4,1,Driving Dunk Shot,0,-5,1,True
+Lance Thomas,4,5,15,0,Driving Finger Roll Layup Shot,1,-13,1,True
+Lance Thomas,4,7,17,0,Driving Finger Roll Layup Shot,6,48,43,True
+Lance Thomas,3,11,2,1,Driving Finger Roll Layup Shot,1,3,15,True
+Lance Thomas,1,7,44,0,Driving Hook Shot,4,-24,37,True
+Lance Thomas,4,2,43,0,Driving Hook Shot,7,-43,60,True
+Lance Thomas,1,2,3,0,Driving Hook Shot,6,33,61,True
+Lance Thomas,1,5,41,0,Driving Hook Shot,6,56,40,True
+Lance Thomas,1,3,37,0,Driving Hook Shot,8,-6,83,True
+Lance Thomas,1,0,36,1,Driving Hook Shot,2,9,26,True
+Lance Thomas,3,3,15,1,Driving Hook Shot,9,-34,92,True
+Lance Thomas,2,5,11,0,Driving Hook Shot,3,-27,27,True
+Lance Thomas,1,3,13,1,Driving Layup Shot,4,33,30,True
+Lance Thomas,4,10,8,0,Driving Layup Shot,4,7,45,True
+Lance Thomas,3,2,20,1,Driving Layup Shot,2,0,23,True
+Lance Thomas,4,9,51,1,Driving Layup Shot,1,-14,5,True
+Lance Thomas,1,8,14,0,Driving Layup Shot,3,30,25,True
+Lance Thomas,3,4,23,0,Driving Layup Shot,3,12,36,True
+Lance Thomas,3,4,12,0,Driving Layup Shot,1,5,16,True
+Lance Thomas,2,10,43,0,Driving Layup Shot,1,-13,13,True
+Lance Thomas,3,6,11,0,Driving Layup Shot,4,20,38,True
+Lance Thomas,1,2,21,0,Driving Layup Shot,8,-13,88,True
+Lance Thomas,2,8,7,1,Driving Layup Shot,2,-20,17,True
+Lance Thomas,4,7,25,1,Driving Layup Shot,1,-14,8,True
+Lance Thomas,1,0,41,1,Driving Layup Shot,7,-30,70,True
+Lance Thomas,2,3,11,1,Dunk Shot,0,-1,-4,True
+Lance Thomas,3,11,16,1,Dunk Shot,1,0,16,True
+Lance Thomas,1,2,1,1,Dunk Shot,0,-2,6,True
+Lance Thomas,1,5,47,1,Dunk Shot,0,2,7,True
+Lance Thomas,2,10,52,0,Hook Shot,5,-3,55,True
+Lance Thomas,4,9,53,0,Hook Shot,9,5,95,True
+Lance Thomas,4,4,52,0,Hook Shot,9,6,95,True
+Lance Thomas,1,8,1,0,Hook Shot,14,87,110,True
+Lance Thomas,3,9,23,1,Hook Shot,8,47,74,True
+Lance Thomas,2,7,3,1,Jump Bank Shot,19,-95,174,True
+Lance Thomas,4,8,14,0,Jump Shot,22,-228,-5,False
+Lance Thomas,1,5,48,0,Jump Shot,25,-57,252,False
+Lance Thomas,1,5,26,0,Jump Shot,24,-216,122,False
+Lance Thomas,3,2,38,1,Jump Shot,25,120,225,False
+Lance Thomas,3,0,34,0,Jump Shot,17,-55,162,True
+Lance Thomas,3,7,41,0,Jump Shot,23,227,39,False
+Lance Thomas,1,0,6,1,Jump Shot,23,-233,-4,False
+Lance Thomas,2,10,36,0,Jump Shot,25,-176,183,False
+Lance Thomas,1,1,9,0,Jump Shot,25,-204,161,False
+Lance Thomas,3,6,45,0,Jump Shot,25,165,194,False
+Lance Thomas,3,4,14,0,Jump Shot,24,73,239,False
+Lance Thomas,1,0,0,0,Jump Shot,42,-92,410,False
+Lance Thomas,4,6,4,1,Jump Shot,26,-12,260,False
+Lance Thomas,4,11,47,0,Jump Shot,23,-234,25,False
+Lance Thomas,2,11,38,1,Jump Shot,26,-168,201,False
+Lance Thomas,4,1,4,0,Jump Shot,24,-199,144,False
+Lance Thomas,4,9,17,0,Jump Shot,23,230,67,False
+Lance Thomas,1,3,12,0,Jump Shot,22,-221,-12,False
+Lance Thomas,1,4,16,1,Jump Shot,22,-225,-16,False
+Lance Thomas,2,10,33,1,Jump Shot,22,-221,-8,False
+Lance Thomas,2,8,55,0,Jump Shot,23,228,57,False
+Lance Thomas,2,7,48,1,Jump Shot,25,-87,237,False
+Lance Thomas,2,6,14,0,Jump Shot,22,-223,-5,False
+Lance Thomas,3,1,25,0,Jump Shot,25,120,223,False
+Lance Thomas,3,0,22,1,Jump Shot,22,-225,38,False
+Lance Thomas,2,10,59,1,Jump Shot,23,-231,4,False
+Lance Thomas,4,10,9,1,Jump Shot,22,-222,41,False
+Lance Thomas,1,5,33,0,Jump Shot,22,-223,-5,False
+Lance Thomas,3,10,43,1,Jump Shot,23,-231,61,False
+Lance Thomas,1,3,9,1,Jump Shot,22,-228,-9,False
+Lance Thomas,2,2,26,0,Jump Shot,15,92,125,True
+Lance Thomas,4,4,33,0,Jump Shot,22,221,42,False
+Lance Thomas,1,9,55,0,Jump Shot,25,-154,201,False
+Lance Thomas,3,8,48,1,Jump Shot,25,-112,230,False
+Lance Thomas,1,9,17,0,Jump Shot,22,-229,1,False
+Lance Thomas,1,3,49,0,Jump Shot,22,-229,1,False
+Lance Thomas,3,0,1,1,Jump Shot,25,-130,220,False
+Lance Thomas,3,0,41,0,Jump Shot,21,-212,40,True
+Lance Thomas,1,1,5,1,Jump Shot,25,-209,141,False
+Lance Thomas,3,6,40,0,Jump Shot,20,-200,32,True
+Lance Thomas,3,9,9,0,Jump Shot,25,-205,148,False
+Lance Thomas,1,3,55,1,Jump Shot,24,-240,-17,False
+Lance Thomas,5,3,14,1,Jump Shot,24,-234,83,False
+Lance Thomas,2,3,27,0,Jump Shot,21,-122,174,True
+Lance Thomas,5,0,59,0,Jump Shot,25,43,251,False
+Lance Thomas,1,3,8,0,Jump Shot,18,-123,134,True
+Lance Thomas,1,4,23,0,Jump Shot,21,-133,175,True
+Lance Thomas,1,2,23,0,Jump Shot,26,108,238,False
+Lance Thomas,3,3,39,1,Jump Shot,25,-211,138,False
+Lance Thomas,3,11,40,0,Jump Shot,22,-228,-13,False
+Lance Thomas,3,7,32,0,Jump Shot,23,231,25,False
+Lance Thomas,1,0,52,0,Jump Shot,9,90,43,True
+Lance Thomas,1,0,56,0,Jump Shot,23,-231,29,False
+Lance Thomas,3,0,2,1,Jump Shot,22,-223,3,False
+Lance Thomas,3,6,42,0,Jump Shot,19,-199,5,True
+Lance Thomas,3,10,49,0,Jump Shot,25,79,242,False
+Lance Thomas,1,1,52,0,Jump Shot,25,129,215,False
+Lance Thomas,1,3,58,1,Jump Shot,22,-226,21,False
+Lance Thomas,3,4,42,0,Jump Shot,22,-227,6,False
+Lance Thomas,4,6,17,1,Jump Shot,25,-75,245,False
+Lance Thomas,4,4,59,1,Jump Shot,25,-107,226,False
+Lance Thomas,3,10,45,0,Jump Shot,16,63,157,True
+Lance Thomas,2,0,1,1,Jump Shot,23,-231,20,False
+Lance Thomas,1,9,2,1,Jump Shot,22,-225,24,False
+Lance Thomas,1,6,53,0,Jump Shot,20,202,21,True
+Lance Thomas,1,1,50,0,Jump Shot,23,237,7,False
+Lance Thomas,3,10,30,0,Jump Shot,25,160,195,False
+Lance Thomas,2,2,54,0,Jump Shot,25,-203,147,False
+Lance Thomas,1,9,16,0,Jump Shot,25,-199,157,False
+Lance Thomas,3,5,17,1,Jump Shot,24,-240,15,False
+Lance Thomas,3,6,0,0,Jump Shot,25,-187,168,False
+Lance Thomas,1,10,19,1,Jump Shot,21,63,205,True
+Lance Thomas,1,4,41,1,Jump Shot,22,-194,119,True
+Lance Thomas,2,3,4,1,Jump Shot,22,225,46,False
+Lance Thomas,2,1,18,0,Jump Shot,23,-235,6,False
+Lance Thomas,3,9,22,1,Jump Shot,22,-226,-6,False
+Lance Thomas,4,8,32,1,Jump Shot,22,-228,-18,False
+Lance Thomas,4,2,36,0,Jump Shot,15,16,151,True
+Lance Thomas,4,1,7,1,Jump Shot,26,152,215,False
+Lance Thomas,3,9,59,0,Jump Shot,25,-134,218,False
+Lance Thomas,3,7,59,1,Jump Shot,22,-228,14,False
+Lance Thomas,3,11,10,1,Jump Shot,18,31,181,True
+Lance Thomas,1,10,12,0,Jump Shot,22,226,-8,False
+Lance Thomas,3,6,51,0,Jump Shot,23,-230,-7,False
+Lance Thomas,1,8,31,1,Jump Shot,23,232,10,False
+Lance Thomas,3,7,11,0,Jump Shot,22,-226,29,False
+Lance Thomas,3,4,28,0,Jump Shot,26,-11,262,False
+Lance Thomas,2,9,46,0,Jump Shot,18,-185,-7,True
+Lance Thomas,2,6,6,0,Jump Shot,26,-157,209,False
+Lance Thomas,3,7,45,1,Jump Shot,19,-196,13,True
+Lance Thomas,4,10,22,0,Jump Shot,25,-198,153,False
+Lance Thomas,2,7,57,0,Jump Shot,25,78,246,False
+Lance Thomas,4,10,53,0,Jump Shot,26,78,250,False
+Lance Thomas,4,10,37,1,Jump Shot,25,-119,222,False
+Lance Thomas,2,6,0,0,Jump Shot,24,78,231,False
+Lance Thomas,2,7,27,0,Jump Shot,26,-98,243,False
+Lance Thomas,3,0,34,1,Jump Shot,23,-230,34,False
+Lance Thomas,2,9,17,0,Jump Shot,25,-144,207,False
+Lance Thomas,3,1,18,0,Jump Shot,20,2,206,True
+Lance Thomas,3,0,34,1,Jump Shot,25,51,246,False
+Lance Thomas,2,10,30,0,Jump Shot,22,222,52,False
+Lance Thomas,3,2,31,0,Jump Shot,19,197,30,True
+Lance Thomas,4,9,9,0,Jump Shot,22,-223,3,False
+Lance Thomas,4,7,57,0,Jump Shot,26,7,264,False
+Lance Thomas,3,0,0,0,Jump Shot,27,71,262,False
+Lance Thomas,4,9,55,1,Jump Shot,19,-198,6,True
+Lance Thomas,2,10,5,0,Jump Shot,26,-67,255,False
+Lance Thomas,3,2,52,1,Jump Shot,26,-164,210,False
+Lance Thomas,3,1,41,0,Jump Shot,17,81,156,True
+Lance Thomas,3,3,22,0,Jump Shot,17,134,119,True
+Lance Thomas,4,5,19,1,Jump Shot,25,71,242,False
+Lance Thomas,1,1,5,1,Jump Shot,19,24,191,True
+Lance Thomas,2,7,3,1,Jump Shot,22,-225,15,False
+Lance Thomas,3,3,6,0,Jump Shot,19,-62,183,True
+Lance Thomas,2,7,27,0,Jump Shot,25,18,251,False
+Lance Thomas,2,10,38,1,Jump Shot,25,145,205,False
+Lance Thomas,3,5,14,1,Jump Shot,23,-234,-11,False
+Lance Thomas,4,8,32,0,Jump Shot,24,5,245,False
+Lance Thomas,4,11,9,0,Jump Shot,15,125,95,True
+Lance Thomas,3,3,33,1,Jump Shot,15,-139,64,True
+Lance Thomas,3,3,4,0,Jump Shot,18,-122,136,True
+Lance Thomas,4,1,3,1,Jump Shot,26,-132,228,False
+Lance Thomas,2,0,1,0,Jump Shot,25,-151,209,False
+Lance Thomas,4,4,47,0,Jump Shot,20,-207,10,True
+Lance Thomas,4,9,9,1,Jump Shot,20,-89,181,True
+Lance Thomas,4,5,25,0,Jump Shot,24,-226,102,False
+Lance Thomas,1,6,10,0,Jump Shot,23,-232,4,False
+Lance Thomas,2,5,58,0,Jump Shot,24,-44,237,False
+Lance Thomas,3,5,53,1,Jump Shot,23,223,63,False
+Lance Thomas,1,9,44,0,Jump Shot,23,-235,-5,False
+Lance Thomas,1,4,55,0,Jump Shot,24,-89,231,False
+Lance Thomas,4,2,4,0,Jump Shot,25,-130,216,False
+Lance Thomas,2,5,7,0,Jump Shot,18,62,176,True
+Lance Thomas,3,5,55,0,Jump Shot,23,-231,-19,False
+Lance Thomas,3,9,7,1,Jump Shot,24,180,163,False
+Lance Thomas,2,9,9,1,Jump Shot,22,-227,15,False
+Lance Thomas,2,11,26,0,Jump Shot,23,-232,13,False
+Lance Thomas,2,7,26,0,Jump Shot,25,101,236,False
+Lance Thomas,2,0,0,1,Jump Shot,23,226,48,False
+Lance Thomas,1,7,48,1,Jump Shot,25,125,219,False
+Lance Thomas,3,11,2,0,Layup Shot,2,-15,16,True
+Lance Thomas,1,1,50,1,Layup Shot,1,0,12,True
+Lance Thomas,4,2,13,0,Layup Shot,2,14,16,True
+Lance Thomas,3,6,39,0,Layup Shot,7,-76,8,True
+Lance Thomas,3,0,43,1,Layup Shot,1,11,10,True
+Lance Thomas,1,5,18,1,Layup Shot,1,6,10,True
+Lance Thomas,3,1,17,0,Layup Shot,2,-13,21,True
+Lance Thomas,4,11,42,0,Layup Shot,3,7,30,True
+Lance Thomas,4,9,21,1,Layup Shot,5,16,53,True
+Lance Thomas,3,1,16,0,Layup Shot,2,3,27,True
+Lance Thomas,4,11,44,0,Layup Shot,8,84,6,True
+Lance Thomas,3,11,2,0,Layup Shot,1,-8,9,True
+Lance Thomas,3,3,10,1,Layup Shot,2,20,11,True
+Lance Thomas,2,9,4,0,Layup Shot,1,-9,13,True
+Lance Thomas,1,5,41,0,Layup Shot,3,-30,9,True
+Lance Thomas,1,5,3,1,Layup Shot,0,6,6,True
+Lance Thomas,1,8,7,0,Layup Shot,1,15,10,True
+Lance Thomas,4,11,38,0,Layup Shot,2,25,12,True
+Lance Thomas,4,4,35,0,Layup Shot,5,-33,43,True
+Lance Thomas,1,4,46,1,Layup Shot,0,2,6,True
+Lance Thomas,4,9,6,0,Layup Shot,4,-2,45,True
+Lance Thomas,3,1,11,1,Layup Shot,2,0,24,True
+Lance Thomas,3,1,32,0,Pullup Jump shot,12,104,63,True
+Lance Thomas,1,4,16,0,Pullup Jump shot,18,67,172,True
+Lance Thomas,2,3,40,0,Pullup Jump shot,12,127,14,True
+Lance Thomas,4,10,56,1,Pullup Jump shot,18,-106,148,True
+Lance Thomas,4,9,8,0,Pullup Jump shot,15,152,20,True
+Lance Thomas,3,8,41,1,Pullup Jump shot,18,-137,122,True
+Lance Thomas,1,7,59,0,Pullup Jump shot,18,-52,177,True
+Lance Thomas,3,1,46,0,Pullup Jump shot,11,9,116,True
+Lance Thomas,3,8,22,1,Pullup Jump shot,21,76,200,True
+Lance Thomas,2,10,15,0,Pullup Jump shot,9,-25,90,True
+Lance Thomas,2,8,12,1,Pullup Jump shot,24,-144,198,False
+Lance Thomas,2,9,33,0,Pullup Jump shot,14,-58,130,True
+Lance Thomas,1,2,2,1,Putback Dunk Shot,0,0,-6,True
+Lance Thomas,3,2,29,0,Reverse Layup Shot,2,6,26,True
+Lance Thomas,4,7,16,0,Reverse Layup Shot,1,-10,15,True
+Lance Thomas,3,6,7,0,Reverse Layup Shot,3,-32,13,True
+Lance Thomas,1,7,6,0,Reverse Layup Shot,1,1,11,True
+Lance Thomas,2,10,9,1,Reverse Layup Shot,0,5,4,True
+Lance Thomas,2,8,51,0,Reverse Layup Shot,2,20,17,True
+Lance Thomas,3,0,59,1,Reverse Layup Shot,1,-8,16,True
+Lance Thomas,3,6,34,0,Reverse Layup Shot,1,8,10,True
+Lance Thomas,2,9,57,1,Reverse Layup Shot,2,23,5,True
+Lance Thomas,2,3,1,0,Reverse Layup Shot,0,-7,-4,True
+Lance Thomas,3,6,17,1,Running Dunk Shot,0,4,6,True
+Lance Thomas,3,0,0,0,Running Jump Shot,21,199,87,True
+Lance Thomas,3,0,1,1,Running Jump Shot,22,-161,157,True
+Lance Thomas,1,2,2,0,Running Jump Shot,22,-221,-18,False
+Lance Thomas,3,10,3,1,Running Layup Shot,0,9,-1,True
+Lance Thomas,3,6,28,0,Running Layup Shot,2,-5,22,True
+Lance Thomas,1,6,9,0,Running Layup Shot,2,-22,13,True
+Lance Thomas,4,9,14,0,Tip Dunk Shot,0,0,-6,True
+Lance Thomas,3,5,33,0,Tip Layup Shot,0,0,-6,True
+Lance Thomas,3,6,9,0,Tip Layup Shot,3,-9,36,True
+Lance Thomas,2,7,54,0,Tip Layup Shot,0,0,-6,True
+Lance Thomas,1,8,4,0,Tip Layup Shot,0,0,-6,True
+Lance Thomas,3,0,28,1,Tip Layup Shot,0,0,-6,True
+Lance Thomas,3,3,41,0,Tip Layup Shot,0,0,-6,True
+Lance Thomas,4,2,32,0,Tip Layup Shot,0,0,-6,True
+Lance Thomas,3,7,43,0,Tip Layup Shot,0,0,-6,True
+Lance Thomas,2,5,8,1,Tip Layup Shot,0,0,-6,True
+Lance Thomas,2,2,25,0,Tip Layup Shot,0,0,-6,True
+Lance Thomas,3,2,58,0,Turnaround Jump Shot,9,92,20,True
+Lance Thomas,1,2,46,1,Turnaround Jump Shot,11,103,55,True

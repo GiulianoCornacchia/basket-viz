@@ -1,0 +1,115 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Brandon Paul,4,2,36,1,Cutting Dunk Shot,4,3,41,True
+Brandon Paul,4,0,59,1,Cutting Dunk Shot,2,-8,21,True
+Brandon Paul,4,1,19,1,Cutting Dunk Shot,6,-25,57,True
+Brandon Paul,1,2,42,1,Cutting Finger Roll Layup Shot,1,10,2,True
+Brandon Paul,3,2,32,1,Cutting Layup Shot,1,-6,14,True
+Brandon Paul,1,1,49,1,Cutting Layup Shot,1,-12,-4,True
+Brandon Paul,4,1,47,1,Cutting Layup Shot,3,-8,29,True
+Brandon Paul,4,8,38,1,Driving Dunk Shot,1,-12,7,True
+Brandon Paul,4,7,40,1,Driving Finger Roll Layup Shot,0,-9,-4,True
+Brandon Paul,3,8,58,0,Driving Finger Roll Layup Shot,2,0,22,True
+Brandon Paul,2,4,18,0,Driving Finger Roll Layup Shot,0,-7,-1,True
+Brandon Paul,1,2,5,1,Driving Finger Roll Layup Shot,0,-1,1,True
+Brandon Paul,4,4,49,1,Driving Finger Roll Layup Shot,1,2,14,True
+Brandon Paul,1,2,26,0,Driving Finger Roll Layup Shot,6,43,47,True
+Brandon Paul,4,1,14,1,Driving Finger Roll Layup Shot,0,4,1,True
+Brandon Paul,4,10,9,1,Driving Finger Roll Layup Shot,0,5,4,True
+Brandon Paul,4,10,43,1,Driving Floating Bank Jump Shot,10,52,89,True
+Brandon Paul,3,8,3,1,Driving Floating Jump Shot,8,3,87,True
+Brandon Paul,4,7,6,0,Driving Layup Shot,2,19,18,True
+Brandon Paul,4,6,41,0,Driving Layup Shot,1,18,1,True
+Brandon Paul,2,8,25,0,Driving Layup Shot,0,8,1,True
+Brandon Paul,2,11,13,1,Driving Layup Shot,1,-8,18,True
+Brandon Paul,4,4,50,1,Driving Layup Shot,0,0,6,True
+Brandon Paul,4,5,3,1,Driving Layup Shot,2,17,17,True
+Brandon Paul,1,2,46,0,Driving Layup Shot,0,-4,1,True
+Brandon Paul,1,0,8,0,Driving Layup Shot,1,-11,15,True
+Brandon Paul,3,7,30,1,Driving Layup Shot,4,37,16,True
+Brandon Paul,4,0,39,1,Dunk Shot,0,0,9,True
+Brandon Paul,3,0,3,1,Dunk Shot,0,-3,2,True
+Brandon Paul,4,3,35,1,Dunk Shot,5,-31,42,True
+Brandon Paul,4,8,3,1,Jump Shot,24,178,169,False
+Brandon Paul,3,0,0,0,Jump Shot,24,236,53,False
+Brandon Paul,4,0,8,1,Jump Shot,19,-150,129,True
+Brandon Paul,3,0,0,0,Jump Shot,31,-3,313,False
+Brandon Paul,4,4,43,0,Jump Shot,22,-226,-11,False
+Brandon Paul,1,0,0,0,Jump Shot,70,-179,682,False
+Brandon Paul,1,0,43,0,Jump Shot,22,-226,27,False
+Brandon Paul,1,1,37,1,Jump Shot,22,-228,8,False
+Brandon Paul,4,6,41,0,Jump Shot,23,-237,14,False
+Brandon Paul,2,9,29,0,Jump Shot,22,228,0,False
+Brandon Paul,1,0,0,0,Jump Shot,36,190,310,False
+Brandon Paul,1,0,32,0,Jump Shot,25,64,246,False
+Brandon Paul,4,7,2,0,Jump Shot,25,-63,246,False
+Brandon Paul,1,10,26,0,Jump Shot,26,-76,253,False
+Brandon Paul,1,0,0,0,Jump Shot,28,-136,249,False
+Brandon Paul,1,1,29,0,Jump Shot,22,216,74,True
+Brandon Paul,3,10,15,0,Jump Shot,25,131,217,False
+Brandon Paul,1,6,46,0,Jump Shot,12,0,120,True
+Brandon Paul,4,0,5,0,Jump Shot,26,-153,216,False
+Brandon Paul,2,7,1,0,Jump Shot,25,-134,220,False
+Brandon Paul,4,0,8,1,Jump Shot,18,186,36,True
+Brandon Paul,4,11,42,0,Jump Shot,25,-188,178,False
+Brandon Paul,4,6,53,0,Jump Shot,22,227,15,False
+Brandon Paul,4,8,26,0,Jump Shot,23,-232,4,False
+Brandon Paul,1,1,15,0,Jump Shot,25,120,225,False
+Brandon Paul,3,3,45,1,Jump Shot,24,-82,234,False
+Brandon Paul,3,6,27,1,Jump Shot,25,128,219,False
+Brandon Paul,1,0,2,0,Jump Shot,25,141,207,False
+Brandon Paul,1,2,42,0,Jump Shot,24,-196,154,False
+Brandon Paul,4,6,45,1,Jump Shot,25,109,230,False
+Brandon Paul,3,4,35,0,Jump Shot,23,230,19,False
+Brandon Paul,2,9,55,0,Jump Shot,22,-229,21,False
+Brandon Paul,2,10,27,0,Jump Shot,23,226,70,False
+Brandon Paul,2,6,4,1,Jump Shot,23,235,30,False
+Brandon Paul,2,7,36,0,Jump Shot,25,-98,239,False
+Brandon Paul,3,1,20,0,Jump Shot,25,18,256,False
+Brandon Paul,4,8,44,1,Jump Shot,22,-229,-3,False
+Brandon Paul,1,3,7,0,Jump Shot,24,98,228,False
+Brandon Paul,4,2,39,0,Jump Shot,13,-136,-7,True
+Brandon Paul,4,9,50,1,Jump Shot,27,-40,276,False
+Brandon Paul,1,5,18,1,Jump Shot,25,206,148,False
+Brandon Paul,3,5,14,1,Jump Shot,23,231,41,False
+Brandon Paul,3,2,33,0,Jump Shot,24,-185,166,False
+Brandon Paul,1,5,27,1,Jump Shot,26,178,199,False
+Brandon Paul,3,4,36,0,Jump Shot,29,122,269,False
+Brandon Paul,2,2,33,1,Jump Shot,26,-191,186,False
+Brandon Paul,3,4,37,0,Jump Shot,25,107,226,False
+Brandon Paul,2,11,31,1,Jump Shot,25,-122,220,False
+Brandon Paul,4,8,26,1,Jump Shot,26,-193,180,False
+Brandon Paul,3,3,50,1,Layup Shot,2,8,22,True
+Brandon Paul,3,1,6,0,Layup Shot,6,-37,53,True
+Brandon Paul,3,0,21,1,Layup Shot,1,-7,10,True
+Brandon Paul,3,2,36,0,Layup Shot,1,17,9,True
+Brandon Paul,2,2,1,0,Pullup Jump shot,12,14,120,True
+Brandon Paul,1,0,18,0,Pullup Jump shot,26,-125,233,False
+Brandon Paul,2,9,53,0,Pullup Jump shot,11,1,119,True
+Brandon Paul,3,2,47,0,Pullup Jump shot,26,-165,210,False
+Brandon Paul,1,9,57,0,Pullup Jump shot,24,95,225,False
+Brandon Paul,4,2,29,0,Pullup Jump shot,24,-122,217,False
+Brandon Paul,4,4,30,0,Pullup Jump shot,33,166,287,False
+Brandon Paul,2,11,23,0,Pullup Jump shot,17,-166,55,True
+Brandon Paul,4,3,28,0,Pullup Jump shot,17,66,162,True
+Brandon Paul,1,5,4,1,Pullup Jump shot,20,-125,163,True
+Brandon Paul,2,8,47,0,Pullup Jump shot,15,-2,155,True
+Brandon Paul,4,0,22,1,Putback Layup Shot,0,0,-6,True
+Brandon Paul,2,6,2,1,Putback Layup Shot,0,0,-6,True
+Brandon Paul,4,0,14,1,Reverse Layup Shot,1,-10,16,True
+Brandon Paul,4,1,3,0,Reverse Layup Shot,4,13,41,True
+Brandon Paul,1,9,19,1,Running Dunk Shot,0,-6,6,True
+Brandon Paul,1,3,18,1,Running Finger Roll Layup Shot,2,22,5,True
+Brandon Paul,4,8,12,0,Running Jump Shot,25,172,188,False
+Brandon Paul,4,6,14,0,Running Jump Shot,24,225,104,False
+Brandon Paul,2,5,0,1,Running Layup Shot,1,18,6,True
+Brandon Paul,4,0,45,1,Running Layup Shot,0,0,4,True
+Brandon Paul,4,10,30,1,Running Layup Shot,2,-1,23,True
+Brandon Paul,1,0,0,0,Running Layup Shot,1,-5,13,True
+Brandon Paul,3,8,35,1,Running Layup Shot,1,1,15,True
+Brandon Paul,2,11,7,0,Step Back Jump shot,21,2,214,True
+Brandon Paul,3,1,33,0,Step Back Jump shot,19,140,131,True
+Brandon Paul,1,11,41,0,Step Back Jump shot,19,-112,159,True
+Brandon Paul,4,1,25,0,Step Back Jump shot,21,176,117,True
+Brandon Paul,4,10,25,0,Tip Dunk Shot,0,0,-6,True
+Brandon Paul,4,0,55,0,Tip Layup Shot,1,-11,1,True
+Brandon Paul,4,9,52,0,Turnaround Jump Shot,3,-3,36,True

@@ -1,0 +1,161 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Terrance Ferguson,4,1,48,1,Alley Oop Dunk Shot,0,-1,8,True
+Terrance Ferguson,4,8,51,1,Alley Oop Dunk Shot,1,-2,12,True
+Terrance Ferguson,4,1,42,1,Alley Oop Dunk Shot,2,-6,23,True
+Terrance Ferguson,4,10,6,1,Alley Oop Layup shot,0,2,-1,True
+Terrance Ferguson,4,5,42,1,Cutting Dunk Shot,2,17,11,True
+Terrance Ferguson,4,1,21,1,Cutting Layup Shot,0,3,-2,True
+Terrance Ferguson,4,10,23,1,Driving Finger Roll Layup Shot,4,-46,17,True
+Terrance Ferguson,4,11,42,0,Driving Floating Jump Shot,3,19,30,True
+Terrance Ferguson,2,10,56,1,Driving Layup Shot,0,-6,0,True
+Terrance Ferguson,1,1,31,0,Jump Shot,25,224,113,False
+Terrance Ferguson,2,11,10,1,Jump Shot,24,-165,177,False
+Terrance Ferguson,1,2,54,1,Jump Shot,22,-221,-5,False
+Terrance Ferguson,2,11,1,0,Jump Shot,25,217,129,False
+Terrance Ferguson,4,9,55,0,Jump Shot,24,171,172,False
+Terrance Ferguson,3,0,2,0,Jump Shot,24,-234,75,False
+Terrance Ferguson,1,1,28,0,Jump Shot,23,-231,6,False
+Terrance Ferguson,2,11,20,0,Jump Shot,22,226,17,False
+Terrance Ferguson,2,9,14,0,Jump Shot,24,234,61,False
+Terrance Ferguson,1,1,5,1,Jump Shot,22,-227,-5,False
+Terrance Ferguson,2,10,26,0,Jump Shot,22,-223,-18,False
+Terrance Ferguson,4,0,23,0,Jump Shot,25,127,216,False
+Terrance Ferguson,4,9,32,0,Jump Shot,25,-217,126,False
+Terrance Ferguson,2,9,39,1,Jump Shot,23,-231,-4,False
+Terrance Ferguson,4,10,33,1,Jump Shot,25,80,237,False
+Terrance Ferguson,3,0,46,0,Jump Shot,23,232,2,False
+Terrance Ferguson,3,2,1,0,Jump Shot,23,-236,-8,False
+Terrance Ferguson,1,4,35,1,Jump Shot,22,-227,-23,False
+Terrance Ferguson,2,10,17,0,Jump Shot,25,134,220,False
+Terrance Ferguson,3,1,31,0,Jump Shot,23,-234,42,False
+Terrance Ferguson,4,4,15,1,Jump Shot,16,3,162,True
+Terrance Ferguson,2,10,26,0,Jump Shot,25,107,233,False
+Terrance Ferguson,1,1,7,0,Jump Shot,23,231,20,False
+Terrance Ferguson,4,1,31,1,Jump Shot,18,-6,185,True
+Terrance Ferguson,4,1,54,0,Jump Shot,22,-225,44,False
+Terrance Ferguson,4,0,22,1,Jump Shot,25,-169,197,False
+Terrance Ferguson,4,1,2,0,Jump Shot,16,100,132,True
+Terrance Ferguson,2,10,16,1,Jump Shot,23,-234,10,False
+Terrance Ferguson,2,6,8,1,Jump Shot,25,214,143,False
+Terrance Ferguson,3,0,29,0,Jump Shot,22,-225,4,False
+Terrance Ferguson,4,4,1,1,Jump Shot,22,-226,-8,False
+Terrance Ferguson,4,5,1,0,Jump Shot,25,119,225,False
+Terrance Ferguson,4,7,26,1,Jump Shot,23,-231,11,False
+Terrance Ferguson,4,11,0,0,Jump Shot,23,-234,49,False
+Terrance Ferguson,4,6,4,0,Jump Shot,25,-105,230,False
+Terrance Ferguson,2,8,18,0,Jump Shot,25,-79,247,False
+Terrance Ferguson,1,0,26,0,Jump Shot,22,227,23,False
+Terrance Ferguson,4,5,5,0,Jump Shot,25,-165,190,False
+Terrance Ferguson,4,1,28,0,Jump Shot,25,-149,209,False
+Terrance Ferguson,3,6,19,0,Jump Shot,25,-147,212,False
+Terrance Ferguson,1,8,30,0,Jump Shot,24,-226,103,False
+Terrance Ferguson,1,5,30,0,Jump Shot,27,150,225,False
+Terrance Ferguson,4,11,49,0,Jump Shot,25,-142,215,False
+Terrance Ferguson,4,7,33,0,Jump Shot,23,234,47,False
+Terrance Ferguson,4,3,28,1,Jump Shot,23,-230,34,False
+Terrance Ferguson,4,1,51,0,Jump Shot,26,-23,265,False
+Terrance Ferguson,4,0,25,1,Jump Shot,26,173,205,False
+Terrance Ferguson,4,9,31,0,Jump Shot,26,-123,230,False
+Terrance Ferguson,4,4,59,0,Jump Shot,25,-137,212,False
+Terrance Ferguson,4,3,59,1,Jump Shot,23,-230,18,False
+Terrance Ferguson,4,10,7,0,Jump Shot,23,222,65,False
+Terrance Ferguson,2,8,56,0,Jump Shot,24,-105,224,False
+Terrance Ferguson,2,9,49,1,Jump Shot,24,-156,185,False
+Terrance Ferguson,4,9,42,1,Jump Shot,25,-159,193,False
+Terrance Ferguson,3,0,25,0,Jump Shot,23,232,-6,False
+Terrance Ferguson,3,2,8,0,Jump Shot,24,-212,119,False
+Terrance Ferguson,4,11,26,0,Jump Shot,25,234,88,False
+Terrance Ferguson,2,8,21,1,Jump Shot,25,-94,239,False
+Terrance Ferguson,4,9,21,0,Jump Shot,25,-134,213,False
+Terrance Ferguson,2,11,19,0,Jump Shot,25,63,246,False
+Terrance Ferguson,4,0,59,0,Jump Shot,25,-217,133,False
+Terrance Ferguson,4,5,20,0,Jump Shot,22,226,5,False
+Terrance Ferguson,3,4,28,0,Jump Shot,22,225,13,False
+Terrance Ferguson,2,4,31,1,Jump Shot,22,-225,5,False
+Terrance Ferguson,4,6,18,1,Jump Shot,23,-230,18,False
+Terrance Ferguson,2,1,58,0,Jump Shot,22,-228,-2,False
+Terrance Ferguson,1,11,40,1,Jump Shot,23,231,22,False
+Terrance Ferguson,3,7,18,0,Jump Shot,25,-229,123,False
+Terrance Ferguson,2,11,31,0,Jump Shot,26,-125,232,False
+Terrance Ferguson,1,2,58,1,Jump Shot,23,-230,49,False
+Terrance Ferguson,3,10,51,0,Jump Shot,22,-223,21,False
+Terrance Ferguson,4,1,1,0,Jump Shot,25,-73,242,False
+Terrance Ferguson,3,9,0,0,Jump Shot,23,229,38,False
+Terrance Ferguson,2,8,37,0,Jump Shot,25,-153,202,False
+Terrance Ferguson,1,7,20,0,Jump Shot,27,-196,191,False
+Terrance Ferguson,2,7,30,1,Jump Shot,22,-228,-12,False
+Terrance Ferguson,2,8,28,0,Jump Shot,24,223,94,False
+Terrance Ferguson,4,11,11,0,Jump Shot,23,-229,31,False
+Terrance Ferguson,4,8,34,0,Jump Shot,26,-123,235,False
+Terrance Ferguson,1,0,56,1,Jump Shot,22,105,201,True
+Terrance Ferguson,4,9,55,0,Jump Shot,25,-41,248,False
+Terrance Ferguson,1,7,32,0,Jump Shot,24,124,216,False
+Terrance Ferguson,3,4,31,0,Jump Shot,23,230,41,False
+Terrance Ferguson,3,3,58,1,Jump Shot,20,-21,200,True
+Terrance Ferguson,4,9,22,0,Jump Shot,24,230,72,False
+Terrance Ferguson,2,0,3,0,Jump Shot,26,134,228,False
+Terrance Ferguson,3,7,31,1,Jump Shot,23,232,4,False
+Terrance Ferguson,2,5,56,1,Jump Shot,25,-199,152,False
+Terrance Ferguson,2,7,35,0,Jump Shot,26,-226,132,False
+Terrance Ferguson,3,8,55,0,Jump Shot,23,231,21,False
+Terrance Ferguson,2,1,1,1,Jump Shot,22,227,-4,False
+Terrance Ferguson,1,9,57,0,Jump Shot,23,-231,-5,False
+Terrance Ferguson,3,4,18,1,Jump Shot,26,-84,247,False
+Terrance Ferguson,3,6,7,0,Jump Shot,23,-230,16,False
+Terrance Ferguson,3,11,43,1,Jump Shot,25,244,66,False
+Terrance Ferguson,3,0,15,1,Jump Shot,23,-232,14,False
+Terrance Ferguson,3,1,39,1,Jump Shot,25,73,246,False
+Terrance Ferguson,2,8,53,0,Jump Shot,23,223,72,False
+Terrance Ferguson,1,0,31,0,Jump Shot,23,234,51,False
+Terrance Ferguson,4,0,26,1,Jump Shot,20,-206,2,True
+Terrance Ferguson,4,9,5,0,Jump Shot,24,189,160,False
+Terrance Ferguson,2,10,50,1,Jump Shot,18,100,152,True
+Terrance Ferguson,2,5,37,0,Jump Shot,23,231,38,False
+Terrance Ferguson,4,6,19,0,Jump Shot,23,-230,-3,False
+Terrance Ferguson,4,9,12,0,Jump Shot,25,155,203,False
+Terrance Ferguson,3,2,26,1,Jump Shot,23,-236,-7,False
+Terrance Ferguson,1,0,0,0,Jump Shot,34,9,345,False
+Terrance Ferguson,4,9,24,0,Jump Shot,22,-228,6,False
+Terrance Ferguson,4,8,52,1,Jump Shot,22,203,91,True
+Terrance Ferguson,4,10,41,1,Jump Shot,23,-231,37,False
+Terrance Ferguson,4,6,52,1,Jump Shot,25,-117,231,False
+Terrance Ferguson,1,10,47,0,Jump Shot,22,-223,33,False
+Terrance Ferguson,3,10,27,0,Jump Shot,24,237,52,False
+Terrance Ferguson,1,5,38,0,Jump Shot,26,-143,223,False
+Terrance Ferguson,4,11,49,1,Jump Shot,23,-236,5,False
+Terrance Ferguson,4,6,29,1,Jump Shot,27,196,189,False
+Terrance Ferguson,2,6,16,0,Jump Shot,25,155,199,False
+Terrance Ferguson,4,5,24,1,Jump Shot,23,230,2,False
+Terrance Ferguson,4,4,45,0,Jump Shot,22,150,171,True
+Terrance Ferguson,4,1,55,1,Jump Shot,23,-231,18,False
+Terrance Ferguson,4,3,20,1,Jump Shot,25,86,243,False
+Terrance Ferguson,1,2,36,0,Layup Shot,2,16,13,True
+Terrance Ferguson,1,0,32,0,Layup Shot,0,8,-1,True
+Terrance Ferguson,4,8,39,1,Layup Shot,1,-3,15,True
+Terrance Ferguson,1,3,29,0,Layup Shot,6,-60,3,True
+Terrance Ferguson,1,0,58,1,Pullup Jump shot,23,100,214,True
+Terrance Ferguson,3,2,13,0,Pullup Jump shot,17,-42,172,True
+Terrance Ferguson,2,10,30,0,Pullup Jump shot,14,97,105,True
+Terrance Ferguson,2,10,46,0,Pullup Jump shot,19,104,164,True
+Terrance Ferguson,4,5,59,1,Pullup Jump shot,15,0,151,True
+Terrance Ferguson,4,2,29,0,Pullup Jump shot,19,145,132,True
+Terrance Ferguson,2,8,43,0,Pullup Jump shot,25,35,257,False
+Terrance Ferguson,4,2,47,0,Putback Dunk Shot,1,-3,11,True
+Terrance Ferguson,3,1,11,1,Running Dunk Shot,0,2,6,True
+Terrance Ferguson,3,4,25,1,Running Dunk Shot,2,-7,23,True
+Terrance Ferguson,2,10,9,1,Running Dunk Shot,0,0,6,True
+Terrance Ferguson,1,10,48,0,Running Dunk Shot,1,0,10,True
+Terrance Ferguson,4,1,34,1,Running Dunk Shot,2,-11,25,True
+Terrance Ferguson,4,4,30,1,Running Dunk Shot,2,14,16,True
+Terrance Ferguson,1,4,59,1,Running Finger Roll Layup Shot,0,-6,0,True
+Terrance Ferguson,3,11,40,1,Running Finger Roll Layup Shot,1,8,6,True
+Terrance Ferguson,3,3,44,1,Running Jump Shot,22,226,27,False
+Terrance Ferguson,4,7,50,1,Running Jump Shot,22,-228,-20,False
+Terrance Ferguson,3,0,0,1,Running Layup Shot,1,0,10,True
+Terrance Ferguson,1,3,29,1,Running Layup Shot,0,5,1,True
+Terrance Ferguson,1,4,14,0,Running Layup Shot,4,0,41,True
+Terrance Ferguson,1,3,17,0,Running Layup Shot,1,-11,11,True
+Terrance Ferguson,1,8,42,0,Step Back Jump shot,23,230,1,False
+Terrance Ferguson,1,7,58,0,Step Back Jump shot,12,-44,117,True
+Terrance Ferguson,1,1,44,0,Tip Layup Shot,0,0,-6,True
+Terrance Ferguson,4,0,56,0,Turnaround Jump Shot,8,79,36,True

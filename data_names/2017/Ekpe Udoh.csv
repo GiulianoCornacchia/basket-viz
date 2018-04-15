@@ -1,0 +1,107 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Ekpe Udoh,1,2,17,1,Alley Oop Layup shot,3,29,9,True
+Ekpe Udoh,4,10,22,0,Alley Oop Layup shot,1,9,17,True
+Ekpe Udoh,4,1,52,1,Cutting Dunk Shot,0,6,0,True
+Ekpe Udoh,2,8,30,1,Cutting Dunk Shot,0,3,1,True
+Ekpe Udoh,4,5,35,1,Cutting Dunk Shot,2,-3,22,True
+Ekpe Udoh,2,8,27,1,Cutting Layup Shot,0,8,5,True
+Ekpe Udoh,1,8,16,1,Cutting Layup Shot,1,13,11,True
+Ekpe Udoh,1,0,1,1,Driving Layup Shot,1,-5,13,True
+Ekpe Udoh,3,6,59,1,Driving Layup Shot,2,-4,20,True
+Ekpe Udoh,1,0,30,1,Driving Layup Shot,2,-14,15,True
+Ekpe Udoh,4,7,20,1,Driving Reverse Layup Shot,1,8,7,True
+Ekpe Udoh,4,8,40,1,Dunk Shot,0,-7,-1,True
+Ekpe Udoh,4,3,8,1,Dunk Shot,1,12,14,True
+Ekpe Udoh,4,10,44,1,Dunk Shot,1,-15,8,True
+Ekpe Udoh,2,9,27,1,Dunk Shot,1,-14,12,True
+Ekpe Udoh,2,10,33,1,Dunk Shot,1,5,17,True
+Ekpe Udoh,3,6,54,1,Dunk Shot,1,8,9,True
+Ekpe Udoh,4,8,4,0,Fadeaway Jump Shot,10,-84,66,True
+Ekpe Udoh,1,3,59,0,Floating Jump shot,10,16,99,True
+Ekpe Udoh,4,4,5,1,Floating Jump shot,9,90,27,True
+Ekpe Udoh,4,1,9,0,Floating Jump shot,10,1,105,True
+Ekpe Udoh,4,5,51,0,Floating Jump shot,13,62,119,True
+Ekpe Udoh,1,3,58,0,Floating Jump shot,6,16,60,True
+Ekpe Udoh,4,0,27,0,Floating Jump shot,8,30,80,True
+Ekpe Udoh,2,4,26,0,Hook Shot,1,9,10,True
+Ekpe Udoh,4,8,13,0,Hook Shot,4,-14,40,True
+Ekpe Udoh,2,10,19,0,Hook Shot,5,-44,33,True
+Ekpe Udoh,4,10,32,1,Hook Shot,7,49,50,True
+Ekpe Udoh,2,8,55,0,Hook Shot,8,64,59,True
+Ekpe Udoh,2,3,57,1,Hook Shot,5,-27,44,True
+Ekpe Udoh,2,7,24,1,Hook Shot,7,-30,74,True
+Ekpe Udoh,3,2,25,0,Hook Shot,7,1,71,True
+Ekpe Udoh,1,10,27,1,Hook Shot,7,-11,76,True
+Ekpe Udoh,1,1,13,0,Hook Shot,6,54,39,True
+Ekpe Udoh,1,5,57,0,Hook Shot,12,-43,118,True
+Ekpe Udoh,4,2,58,1,Jump Shot,3,3,30,True
+Ekpe Udoh,4,8,53,0,Jump Shot,6,61,20,True
+Ekpe Udoh,1,0,4,0,Jump Shot,5,9,52,True
+Ekpe Udoh,4,1,32,0,Jump Shot,10,1,103,True
+Ekpe Udoh,4,3,2,0,Jump Shot,8,0,87,True
+Ekpe Udoh,1,0,0,0,Jump Shot,47,-49,471,False
+Ekpe Udoh,2,10,49,1,Jump Shot,11,-5,116,True
+Ekpe Udoh,4,0,17,0,Jump Shot,18,126,142,True
+Ekpe Udoh,4,0,17,1,Jump Shot,7,22,71,True
+Ekpe Udoh,3,4,21,0,Jump Shot,6,-8,61,True
+Ekpe Udoh,2,8,16,0,Jump Shot,8,-49,67,True
+Ekpe Udoh,2,11,15,0,Jump Shot,16,-161,-8,True
+Ekpe Udoh,4,8,50,1,Jump Shot,8,11,80,True
+Ekpe Udoh,2,10,32,1,Jump Shot,8,-7,84,True
+Ekpe Udoh,3,0,38,0,Jump Shot,7,33,72,True
+Ekpe Udoh,3,2,40,0,Jump Shot,18,-44,183,True
+Ekpe Udoh,1,1,46,0,Jump Shot,15,-155,4,True
+Ekpe Udoh,1,10,13,1,Jump Shot,10,2,102,True
+Ekpe Udoh,3,5,56,0,Layup Shot,1,16,8,True
+Ekpe Udoh,2,6,10,1,Layup Shot,5,51,5,True
+Ekpe Udoh,4,1,48,1,Layup Shot,1,-11,5,True
+Ekpe Udoh,2,11,45,0,Layup Shot,2,6,29,True
+Ekpe Udoh,1,3,41,0,Layup Shot,2,-23,15,True
+Ekpe Udoh,4,4,43,1,Layup Shot,2,-20,21,True
+Ekpe Udoh,3,2,2,0,Layup Shot,2,14,22,True
+Ekpe Udoh,2,9,14,0,Layup Shot,1,11,7,True
+Ekpe Udoh,4,10,4,0,Layup Shot,6,-62,27,True
+Ekpe Udoh,2,11,4,0,Layup Shot,1,-5,17,True
+Ekpe Udoh,2,10,44,0,Layup Shot,2,-19,13,True
+Ekpe Udoh,4,0,25,0,Layup Shot,2,-3,29,True
+Ekpe Udoh,4,0,44,1,Layup Shot,1,6,11,True
+Ekpe Udoh,2,7,25,0,Layup Shot,0,-2,9,True
+Ekpe Udoh,1,1,17,0,Layup Shot,3,-30,25,True
+Ekpe Udoh,1,2,28,1,Layup Shot,3,-20,28,True
+Ekpe Udoh,4,4,38,0,Layup Shot,3,2,32,True
+Ekpe Udoh,3,2,10,0,Layup Shot,1,-16,9,True
+Ekpe Udoh,2,8,59,1,Layup Shot,1,-16,10,True
+Ekpe Udoh,4,9,56,1,Layup Shot,2,14,17,True
+Ekpe Udoh,2,5,9,0,Layup Shot,5,-24,51,True
+Ekpe Udoh,2,11,14,0,Layup Shot,2,-20,13,True
+Ekpe Udoh,2,0,39,0,Layup Shot,0,3,8,True
+Ekpe Udoh,3,8,24,1,Putback Dunk Shot,0,0,-6,True
+Ekpe Udoh,4,0,56,1,Putback Dunk Shot,0,0,-6,True
+Ekpe Udoh,3,0,1,1,Putback Dunk Shot,0,0,-6,True
+Ekpe Udoh,4,8,59,1,Putback Layup Shot,0,0,-6,True
+Ekpe Udoh,2,8,9,1,Putback Layup Shot,0,0,-6,True
+Ekpe Udoh,2,4,26,0,Putback Layup Shot,2,4,28,True
+Ekpe Udoh,3,4,17,1,Putback Layup Shot,3,19,27,True
+Ekpe Udoh,1,1,5,1,Reverse Layup Shot,1,16,5,True
+Ekpe Udoh,3,2,58,1,Reverse Layup Shot,1,-15,-2,True
+Ekpe Udoh,4,9,18,1,Reverse Layup Shot,1,14,1,True
+Ekpe Udoh,4,2,34,1,Reverse Layup Shot,0,3,0,True
+Ekpe Udoh,3,1,6,1,Reverse Layup Shot,2,13,17,True
+Ekpe Udoh,2,8,40,1,Running Dunk Shot,2,3,26,True
+Ekpe Udoh,3,2,6,1,Running Dunk Shot,1,-10,5,True
+Ekpe Udoh,4,2,33,1,Tip Dunk Shot,0,0,-6,True
+Ekpe Udoh,4,1,10,1,Tip Layup Shot,0,0,-6,True
+Ekpe Udoh,4,9,12,1,Tip Layup Shot,0,0,-6,True
+Ekpe Udoh,2,0,0,1,Tip Layup Shot,0,0,-6,True
+Ekpe Udoh,2,9,28,0,Tip Layup Shot,0,0,-6,True
+Ekpe Udoh,3,1,50,0,Tip Layup Shot,0,0,-6,True
+Ekpe Udoh,2,11,40,0,Tip Layup Shot,0,0,-6,True
+Ekpe Udoh,2,0,39,1,Tip Layup Shot,0,0,-6,True
+Ekpe Udoh,4,0,51,0,Turnaround Fadeaway Bank Jump Shot,6,54,35,True
+Ekpe Udoh,2,8,55,1,Turnaround Hook Shot,6,-16,67,True
+Ekpe Udoh,1,5,18,0,Turnaround Hook Shot,9,35,85,True
+Ekpe Udoh,3,11,2,1,Turnaround Hook Shot,10,25,105,True
+Ekpe Udoh,3,2,39,0,Turnaround Hook Shot,8,-53,71,True
+Ekpe Udoh,1,8,31,0,Turnaround Jump Shot,10,37,94,True
+Ekpe Udoh,1,1,43,0,Turnaround Jump Shot,10,6,106,True
+Ekpe Udoh,4,3,5,0,Turnaround Jump Shot,7,-75,26,True

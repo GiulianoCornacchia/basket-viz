@@ -1,0 +1,592 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Avery Bradley,1,0,53,1,Alley Oop Dunk Shot,1,2,14,True
+Avery Bradley,1,7,26,1,Cutting Dunk Shot,0,-2,5,True
+Avery Bradley,1,2,22,1,Cutting Dunk Shot,0,5,5,True
+Avery Bradley,1,0,31,1,Cutting Dunk Shot,2,-23,7,True
+Avery Bradley,1,1,53,1,Cutting Dunk Shot,0,-1,-5,True
+Avery Bradley,3,2,28,1,Cutting Layup Shot,0,0,5,True
+Avery Bradley,1,1,23,1,Cutting Layup Shot,1,-5,11,True
+Avery Bradley,3,10,2,1,Cutting Layup Shot,1,-3,13,True
+Avery Bradley,3,4,15,1,Cutting Layup Shot,0,-6,-1,True
+Avery Bradley,3,10,47,0,Cutting Layup Shot,7,0,72,True
+Avery Bradley,2,4,44,1,Cutting Layup Shot,0,6,1,True
+Avery Bradley,1,8,42,1,Cutting Layup Shot,0,-8,5,True
+Avery Bradley,3,5,18,1,Cutting Layup Shot,0,-3,-1,True
+Avery Bradley,2,8,10,1,Cutting Layup Shot,1,-6,13,True
+Avery Bradley,2,2,8,0,Cutting Layup Shot,4,-44,6,True
+Avery Bradley,1,2,46,1,Cutting Layup Shot,1,0,14,True
+Avery Bradley,1,3,29,1,Cutting Layup Shot,1,-7,13,True
+Avery Bradley,3,2,59,1,Cutting Layup Shot,0,6,0,True
+Avery Bradley,1,4,5,0,Cutting Layup Shot,1,9,10,True
+Avery Bradley,4,3,4,1,Cutting Layup Shot,0,-8,-4,True
+Avery Bradley,3,5,30,0,Driving Dunk Shot,1,5,17,True
+Avery Bradley,1,6,23,1,Driving Finger Roll Layup Shot,6,-12,64,True
+Avery Bradley,3,10,39,0,Driving Finger Roll Layup Shot,1,16,7,True
+Avery Bradley,2,11,19,1,Driving Finger Roll Layup Shot,3,-11,28,True
+Avery Bradley,3,3,23,1,Driving Finger Roll Layup Shot,6,-7,64,True
+Avery Bradley,1,11,30,1,Driving Finger Roll Layup Shot,3,-1,39,True
+Avery Bradley,1,11,41,0,Driving Finger Roll Layup Shot,9,11,94,True
+Avery Bradley,3,4,41,0,Driving Finger Roll Layup Shot,3,-12,32,True
+Avery Bradley,2,8,19,1,Driving Finger Roll Layup Shot,2,2,22,True
+Avery Bradley,4,4,4,1,Driving Finger Roll Layup Shot,3,-3,33,True
+Avery Bradley,1,4,10,1,Driving Finger Roll Layup Shot,1,3,11,True
+Avery Bradley,1,6,18,0,Driving Finger Roll Layup Shot,5,13,55,True
+Avery Bradley,3,5,49,0,Driving Finger Roll Layup Shot,4,2,41,True
+Avery Bradley,3,8,59,1,Driving Finger Roll Layup Shot,2,4,29,True
+Avery Bradley,2,4,59,1,Driving Floating Bank Jump Shot,3,3,31,True
+Avery Bradley,3,11,38,1,Driving Floating Jump Shot,12,-8,124,True
+Avery Bradley,3,8,16,0,Driving Floating Jump Shot,6,14,68,True
+Avery Bradley,1,8,17,1,Driving Floating Jump Shot,6,-33,58,True
+Avery Bradley,4,9,8,0,Driving Floating Jump Shot,5,30,44,True
+Avery Bradley,1,8,55,1,Driving Floating Jump Shot,8,-81,-8,True
+Avery Bradley,2,4,42,0,Driving Floating Jump Shot,11,-85,72,True
+Avery Bradley,3,6,2,1,Driving Floating Jump Shot,6,8,67,True
+Avery Bradley,2,3,6,0,Driving Floating Jump Shot,9,-11,98,True
+Avery Bradley,1,11,44,1,Driving Floating Jump Shot,16,-5,163,True
+Avery Bradley,3,11,33,0,Driving Floating Jump Shot,5,16,49,True
+Avery Bradley,1,9,39,0,Driving Floating Jump Shot,11,-11,111,True
+Avery Bradley,2,4,36,1,Driving Floating Jump Shot,10,-3,101,True
+Avery Bradley,1,3,16,0,Driving Floating Jump Shot,9,-7,97,True
+Avery Bradley,1,3,54,0,Driving Floating Jump Shot,11,-19,118,True
+Avery Bradley,1,11,22,1,Driving Floating Jump Shot,9,11,99,True
+Avery Bradley,3,7,0,0,Driving Floating Jump Shot,11,-10,111,True
+Avery Bradley,2,4,29,0,Driving Floating Jump Shot,9,98,4,True
+Avery Bradley,3,10,9,0,Driving Floating Jump Shot,3,15,29,True
+Avery Bradley,3,10,52,0,Driving Floating Jump Shot,12,-9,120,True
+Avery Bradley,1,1,55,0,Driving Floating Jump Shot,12,-65,104,True
+Avery Bradley,4,3,1,0,Driving Floating Jump Shot,2,20,8,True
+Avery Bradley,1,11,10,1,Driving Floating Jump Shot,14,-5,142,True
+Avery Bradley,1,8,52,0,Driving Floating Jump Shot,3,14,36,True
+Avery Bradley,4,7,56,1,Driving Floating Jump Shot,12,-126,22,True
+Avery Bradley,1,7,8,0,Driving Hook Shot,9,43,80,True
+Avery Bradley,1,6,10,0,Driving Layup Shot,0,5,7,True
+Avery Bradley,1,6,13,0,Driving Layup Shot,3,35,18,True
+Avery Bradley,1,5,56,0,Driving Layup Shot,2,23,8,True
+Avery Bradley,2,4,44,1,Driving Layup Shot,2,-2,22,True
+Avery Bradley,4,0,13,1,Driving Layup Shot,3,-35,-5,True
+Avery Bradley,3,9,39,0,Driving Layup Shot,1,-8,15,True
+Avery Bradley,4,1,7,0,Driving Layup Shot,6,65,23,True
+Avery Bradley,4,5,49,0,Driving Layup Shot,1,19,4,True
+Avery Bradley,2,7,18,1,Driving Layup Shot,1,2,18,True
+Avery Bradley,3,9,10,0,Driving Layup Shot,2,1,26,True
+Avery Bradley,3,7,36,1,Driving Layup Shot,5,20,53,True
+Avery Bradley,2,3,34,1,Driving Layup Shot,2,5,27,True
+Avery Bradley,1,5,28,1,Driving Layup Shot,2,20,4,True
+Avery Bradley,1,10,24,0,Driving Layup Shot,4,0,43,True
+Avery Bradley,3,6,57,0,Driving Layup Shot,1,6,14,True
+Avery Bradley,2,6,7,1,Driving Layup Shot,0,-2,8,True
+Avery Bradley,1,11,24,1,Driving Layup Shot,3,-29,19,True
+Avery Bradley,2,7,4,1,Driving Layup Shot,1,14,11,True
+Avery Bradley,3,8,33,0,Driving Layup Shot,3,-27,20,True
+Avery Bradley,4,3,58,0,Driving Layup Shot,1,-11,11,True
+Avery Bradley,1,5,50,1,Driving Layup Shot,3,12,29,True
+Avery Bradley,2,7,7,1,Driving Layup Shot,2,9,20,True
+Avery Bradley,3,9,14,0,Driving Layup Shot,1,-2,17,True
+Avery Bradley,1,3,44,0,Driving Layup Shot,8,70,47,True
+Avery Bradley,3,2,17,0,Driving Layup Shot,14,5,147,True
+Avery Bradley,1,1,59,1,Driving Layup Shot,1,-8,-12,True
+Avery Bradley,1,8,29,0,Driving Layup Shot,1,13,4,True
+Avery Bradley,3,3,55,1,Driving Layup Shot,1,2,10,True
+Avery Bradley,1,2,28,1,Driving Layup Shot,1,8,6,True
+Avery Bradley,2,5,31,1,Driving Layup Shot,1,-12,8,True
+Avery Bradley,3,1,49,1,Driving Layup Shot,0,5,4,True
+Avery Bradley,2,0,19,1,Driving Layup Shot,1,18,6,True
+Avery Bradley,3,7,38,0,Driving Layup Shot,1,5,17,True
+Avery Bradley,1,7,39,1,Driving Layup Shot,3,-6,33,True
+Avery Bradley,3,10,25,1,Driving Layup Shot,1,-2,19,True
+Avery Bradley,1,5,7,0,Driving Layup Shot,5,-50,-11,True
+Avery Bradley,3,2,12,0,Driving Layup Shot,1,-19,6,True
+Avery Bradley,1,5,31,0,Driving Layup Shot,3,36,17,True
+Avery Bradley,4,3,42,1,Driving Layup Shot,1,-11,11,True
+Avery Bradley,1,3,6,0,Driving Layup Shot,1,5,16,True
+Avery Bradley,4,0,39,0,Driving Layup Shot,3,29,12,True
+Avery Bradley,1,6,59,0,Driving Layup Shot,1,12,1,True
+Avery Bradley,2,3,2,0,Driving Layup Shot,1,-18,5,True
+Avery Bradley,1,3,19,0,Driving Layup Shot,3,-32,21,True
+Avery Bradley,1,10,11,1,Driving Reverse Layup Shot,1,14,6,True
+Avery Bradley,3,10,38,1,Driving Reverse Layup Shot,0,0,8,True
+Avery Bradley,4,4,17,0,Driving Reverse Layup Shot,2,19,11,True
+Avery Bradley,3,9,30,1,Driving Reverse Layup Shot,1,-13,11,True
+Avery Bradley,4,11,10,1,Driving Reverse Layup Shot,1,10,5,True
+Avery Bradley,4,1,37,1,Dunk Shot,0,-3,0,True
+Avery Bradley,2,5,18,1,Dunk Shot,1,-4,17,True
+Avery Bradley,3,3,8,1,Dunk Shot,0,-5,-2,True
+Avery Bradley,2,3,11,0,Dunk Shot,1,13,13,True
+Avery Bradley,1,6,5,1,Fadeaway Jump Shot,12,122,4,True
+Avery Bradley,2,6,59,0,Fadeaway Jump Shot,11,81,83,True
+Avery Bradley,1,0,1,0,Floating Jump shot,7,3,79,True
+Avery Bradley,3,8,49,1,Floating Jump shot,5,29,51,True
+Avery Bradley,3,11,46,1,Floating Jump shot,9,95,-5,True
+Avery Bradley,2,3,23,0,Floating Jump shot,6,-15,63,True
+Avery Bradley,3,11,19,1,Floating Jump shot,7,0,78,True
+Avery Bradley,2,2,12,0,Floating Jump shot,5,21,54,True
+Avery Bradley,1,11,35,0,Floating Jump shot,4,22,43,True
+Avery Bradley,3,4,27,0,Floating Jump shot,6,2,61,True
+Avery Bradley,2,3,16,1,Floating Jump shot,12,-15,125,True
+Avery Bradley,1,8,1,0,Floating Jump shot,11,8,116,True
+Avery Bradley,1,3,24,0,Floating Jump shot,2,-5,25,True
+Avery Bradley,1,10,13,1,Floating Jump shot,7,22,67,True
+Avery Bradley,3,4,51,0,Floating Jump shot,9,-4,99,True
+Avery Bradley,1,11,5,1,Floating Jump shot,7,65,40,True
+Avery Bradley,1,11,4,1,Floating Jump shot,12,12,122,True
+Avery Bradley,3,11,0,0,Floating Jump shot,9,13,95,True
+Avery Bradley,1,5,3,1,Floating Jump shot,9,0,98,True
+Avery Bradley,1,3,7,0,Floating Jump shot,6,36,52,True
+Avery Bradley,2,0,49,0,Floating Jump shot,7,-24,69,True
+Avery Bradley,1,8,34,1,Floating Jump shot,5,49,10,True
+Avery Bradley,1,4,42,0,Floating Jump shot,7,25,74,True
+Avery Bradley,3,11,43,1,Floating Jump shot,7,1,73,True
+Avery Bradley,1,6,52,1,Floating Jump shot,15,-2,151,True
+Avery Bradley,1,8,50,0,Hook Shot,4,-41,20,True
+Avery Bradley,3,7,8,0,Hook Shot,7,-22,72,True
+Avery Bradley,3,10,9,1,Jump Shot,17,-78,157,True
+Avery Bradley,3,10,17,1,Jump Shot,23,-231,37,False
+Avery Bradley,3,9,24,0,Jump Shot,22,225,29,False
+Avery Bradley,3,4,44,0,Jump Shot,22,226,-9,False
+Avery Bradley,4,6,58,0,Jump Shot,23,-235,29,False
+Avery Bradley,3,5,2,0,Jump Shot,26,-120,235,False
+Avery Bradley,2,2,38,0,Jump Shot,16,-118,122,True
+Avery Bradley,4,8,22,0,Jump Shot,25,117,221,False
+Avery Bradley,1,8,22,0,Jump Shot,23,232,50,False
+Avery Bradley,3,6,23,0,Jump Shot,23,-235,38,False
+Avery Bradley,1,7,11,0,Jump Shot,21,-95,190,True
+Avery Bradley,4,2,45,0,Jump Shot,24,-244,44,False
+Avery Bradley,1,10,29,0,Jump Shot,22,-221,13,False
+Avery Bradley,2,1,22,0,Jump Shot,25,-96,238,False
+Avery Bradley,3,9,55,0,Jump Shot,22,-226,1,False
+Avery Bradley,2,4,47,0,Jump Shot,16,98,136,True
+Avery Bradley,1,9,31,0,Jump Shot,15,148,-27,True
+Avery Bradley,1,8,18,0,Jump Shot,24,-71,232,False
+Avery Bradley,1,0,26,0,Jump Shot,25,244,71,False
+Avery Bradley,4,2,41,0,Jump Shot,24,-237,48,False
+Avery Bradley,1,6,59,0,Jump Shot,16,-8,169,True
+Avery Bradley,4,0,34,0,Jump Shot,25,116,228,False
+Avery Bradley,3,5,47,0,Jump Shot,27,-174,209,False
+Avery Bradley,2,0,30,1,Jump Shot,22,-33,225,True
+Avery Bradley,3,7,25,0,Jump Shot,14,-16,146,True
+Avery Bradley,1,4,36,0,Jump Shot,17,24,169,True
+Avery Bradley,2,2,12,1,Jump Shot,18,-176,52,True
+Avery Bradley,2,3,30,0,Jump Shot,13,125,62,True
+Avery Bradley,3,7,41,0,Jump Shot,25,150,201,False
+Avery Bradley,2,1,49,0,Jump Shot,26,-185,184,False
+Avery Bradley,3,3,51,0,Jump Shot,23,-236,0,False
+Avery Bradley,1,11,11,0,Jump Shot,26,133,226,False
+Avery Bradley,4,0,13,1,Jump Shot,26,84,253,False
+Avery Bradley,1,4,59,0,Jump Shot,22,-228,8,False
+Avery Bradley,1,5,10,1,Jump Shot,25,101,238,False
+Avery Bradley,4,0,52,0,Jump Shot,14,-2,142,True
+Avery Bradley,1,1,45,0,Jump Shot,25,73,242,False
+Avery Bradley,1,7,16,1,Jump Shot,23,-235,37,False
+Avery Bradley,3,4,21,1,Jump Shot,24,-11,247,False
+Avery Bradley,1,8,21,1,Jump Shot,23,-234,-8,False
+Avery Bradley,4,8,33,0,Jump Shot,22,-223,32,False
+Avery Bradley,2,0,1,1,Jump Shot,23,-119,201,True
+Avery Bradley,3,3,11,1,Jump Shot,12,46,117,True
+Avery Bradley,1,3,22,0,Jump Shot,15,9,154,True
+Avery Bradley,4,3,28,0,Jump Shot,1,13,-6,True
+Avery Bradley,3,8,31,0,Jump Shot,25,-101,230,False
+Avery Bradley,2,0,27,0,Jump Shot,22,-225,34,False
+Avery Bradley,2,7,18,0,Jump Shot,24,-26,245,False
+Avery Bradley,3,2,31,1,Jump Shot,22,-228,-10,False
+Avery Bradley,1,7,58,1,Jump Shot,17,-172,3,True
+Avery Bradley,3,10,39,1,Jump Shot,22,44,222,True
+Avery Bradley,4,4,26,1,Jump Shot,25,-172,186,False
+Avery Bradley,4,1,28,0,Jump Shot,25,-27,254,False
+Avery Bradley,1,10,59,0,Jump Shot,25,220,130,False
+Avery Bradley,3,6,6,1,Jump Shot,24,161,191,False
+Avery Bradley,4,0,0,0,Jump Shot,23,-236,-11,False
+Avery Bradley,3,4,27,1,Jump Shot,22,-226,0,False
+Avery Bradley,4,0,11,0,Jump Shot,21,-112,183,True
+Avery Bradley,3,4,52,1,Jump Shot,16,-14,168,True
+Avery Bradley,1,11,41,0,Jump Shot,23,-232,0,False
+Avery Bradley,2,7,52,0,Jump Shot,21,18,215,True
+Avery Bradley,1,11,15,0,Jump Shot,21,-105,193,True
+Avery Bradley,2,4,47,0,Jump Shot,20,-63,200,True
+Avery Bradley,3,10,39,0,Jump Shot,24,-86,232,False
+Avery Bradley,1,11,18,0,Jump Shot,26,-186,188,False
+Avery Bradley,4,5,19,0,Jump Shot,24,236,47,False
+Avery Bradley,4,7,10,0,Jump Shot,18,-86,169,True
+Avery Bradley,2,5,37,0,Jump Shot,25,-147,206,False
+Avery Bradley,3,5,29,0,Jump Shot,25,-180,174,False
+Avery Bradley,2,11,48,0,Jump Shot,19,105,167,True
+Avery Bradley,2,0,56,1,Jump Shot,17,-85,154,True
+Avery Bradley,4,0,30,0,Jump Shot,27,137,239,False
+Avery Bradley,2,9,29,0,Jump Shot,19,43,188,True
+Avery Bradley,4,6,15,0,Jump Shot,21,203,58,True
+Avery Bradley,4,11,26,0,Jump Shot,18,106,151,True
+Avery Bradley,2,0,1,1,Jump Shot,35,-183,299,False
+Avery Bradley,4,1,17,1,Jump Shot,26,148,216,False
+Avery Bradley,2,8,4,1,Jump Shot,26,-190,178,False
+Avery Bradley,2,1,52,1,Jump Shot,24,209,131,False
+Avery Bradley,3,8,5,0,Jump Shot,22,85,209,True
+Avery Bradley,3,10,28,1,Jump Shot,25,28,253,False
+Avery Bradley,2,4,7,0,Jump Shot,13,26,128,True
+Avery Bradley,1,6,58,0,Jump Shot,20,146,139,True
+Avery Bradley,3,10,41,1,Jump Shot,8,0,82,True
+Avery Bradley,2,4,41,0,Jump Shot,20,-32,200,True
+Avery Bradley,3,3,53,0,Jump Shot,11,-112,8,True
+Avery Bradley,1,5,30,0,Jump Shot,25,-191,174,False
+Avery Bradley,1,10,41,0,Jump Shot,23,41,233,True
+Avery Bradley,3,7,57,0,Jump Shot,20,-195,46,True
+Avery Bradley,1,8,56,0,Jump Shot,24,-127,211,False
+Avery Bradley,2,0,2,0,Jump Shot,9,-92,-13,True
+Avery Bradley,1,9,26,1,Jump Shot,25,-176,182,False
+Avery Bradley,2,10,12,1,Jump Shot,24,-188,162,False
+Avery Bradley,2,8,56,0,Jump Shot,25,-169,192,False
+Avery Bradley,2,4,12,0,Jump Shot,14,-140,-28,True
+Avery Bradley,2,9,7,0,Jump Shot,22,-223,22,False
+Avery Bradley,4,6,0,0,Jump Shot,25,100,230,False
+Avery Bradley,1,1,23,0,Jump Shot,21,-60,211,True
+Avery Bradley,4,2,41,0,Jump Shot,24,-20,247,False
+Avery Bradley,1,7,37,1,Jump Shot,26,141,223,False
+Avery Bradley,3,7,31,1,Jump Shot,16,58,157,True
+Avery Bradley,3,3,1,1,Jump Shot,25,212,148,False
+Avery Bradley,4,4,7,0,Jump Shot,25,-173,182,False
+Avery Bradley,4,0,22,1,Jump Shot,24,-108,221,False
+Avery Bradley,2,2,37,0,Jump Shot,21,-136,164,True
+Avery Bradley,1,6,28,0,Jump Shot,24,171,178,False
+Avery Bradley,3,10,5,1,Jump Shot,16,-53,158,True
+Avery Bradley,1,3,29,0,Jump Shot,25,-193,174,False
+Avery Bradley,4,0,39,1,Jump Shot,26,-198,178,False
+Avery Bradley,2,2,28,0,Jump Shot,19,-29,190,True
+Avery Bradley,4,4,2,1,Jump Shot,19,-6,193,True
+Avery Bradley,2,4,5,0,Jump Shot,18,2,185,True
+Avery Bradley,1,11,3,0,Jump Shot,20,-19,206,True
+Avery Bradley,1,5,57,0,Jump Shot,22,-228,-17,False
+Avery Bradley,2,0,28,0,Jump Shot,23,-230,24,False
+Avery Bradley,1,3,43,0,Jump Shot,25,-161,204,False
+Avery Bradley,3,11,51,0,Jump Shot,26,-212,151,False
+Avery Bradley,4,1,34,0,Jump Shot,26,95,246,False
+Avery Bradley,1,6,17,1,Jump Shot,12,119,-29,True
+Avery Bradley,3,4,55,0,Jump Shot,22,-88,209,True
+Avery Bradley,1,11,41,1,Jump Shot,25,-89,234,False
+Avery Bradley,4,5,40,0,Jump Shot,26,80,256,False
+Avery Bradley,3,3,53,0,Jump Shot,25,-213,133,False
+Avery Bradley,3,8,39,0,Jump Shot,15,-152,23,True
+Avery Bradley,2,6,46,1,Jump Shot,7,28,68,True
+Avery Bradley,3,5,24,0,Jump Shot,22,-93,209,True
+Avery Bradley,3,1,24,1,Jump Shot,26,-190,185,False
+Avery Bradley,2,6,2,1,Jump Shot,12,122,25,True
+Avery Bradley,3,2,5,0,Jump Shot,23,-231,-6,False
+Avery Bradley,3,8,2,1,Jump Shot,26,44,259,False
+Avery Bradley,2,5,51,0,Jump Shot,27,-167,219,False
+Avery Bradley,3,7,4,1,Jump Shot,23,-232,13,False
+Avery Bradley,4,3,9,0,Jump Shot,22,-221,-1,False
+Avery Bradley,4,2,1,1,Jump Shot,22,-228,11,False
+Avery Bradley,4,3,50,0,Jump Shot,23,231,35,False
+Avery Bradley,1,5,30,0,Jump Shot,25,42,249,False
+Avery Bradley,2,1,48,0,Jump Shot,23,230,44,False
+Avery Bradley,1,9,33,0,Jump Shot,20,60,194,True
+Avery Bradley,1,5,56,1,Jump Shot,23,-235,-11,False
+Avery Bradley,3,2,39,0,Jump Shot,27,168,214,False
+Avery Bradley,3,6,15,0,Jump Shot,26,66,261,False
+Avery Bradley,3,8,24,0,Jump Shot,24,-203,138,False
+Avery Bradley,2,4,58,0,Jump Shot,22,-111,199,True
+Avery Bradley,3,5,16,0,Jump Shot,23,-236,8,False
+Avery Bradley,3,6,19,0,Jump Shot,19,103,163,True
+Avery Bradley,2,7,42,0,Jump Shot,19,6,193,True
+Avery Bradley,4,5,32,1,Jump Shot,22,-225,31,False
+Avery Bradley,3,4,41,0,Jump Shot,23,-163,174,False
+Avery Bradley,1,1,47,0,Jump Shot,15,152,17,True
+Avery Bradley,4,4,21,1,Jump Shot,23,-232,24,False
+Avery Bradley,2,2,51,0,Jump Shot,25,-80,240,False
+Avery Bradley,1,11,46,0,Jump Shot,26,-124,239,False
+Avery Bradley,3,7,36,1,Jump Shot,23,-230,1,False
+Avery Bradley,3,7,53,0,Jump Shot,13,130,2,True
+Avery Bradley,1,7,41,0,Jump Shot,24,-247,8,False
+Avery Bradley,1,6,50,0,Jump Shot,17,177,-3,True
+Avery Bradley,1,5,10,1,Jump Shot,25,97,239,False
+Avery Bradley,1,2,26,1,Jump Shot,16,-36,160,True
+Avery Bradley,3,0,57,0,Jump Shot,17,157,75,True
+Avery Bradley,2,2,27,1,Jump Shot,22,228,-11,False
+Avery Bradley,4,0,28,0,Jump Shot,24,-114,216,False
+Avery Bradley,4,9,8,0,Jump Shot,24,-211,132,False
+Avery Bradley,1,0,50,1,Jump Shot,24,-241,6,False
+Avery Bradley,3,0,55,0,Jump Shot,25,122,225,False
+Avery Bradley,3,8,36,1,Jump Shot,0,2,5,True
+Avery Bradley,2,7,18,1,Jump Shot,25,-228,109,False
+Avery Bradley,3,5,48,1,Jump Shot,13,131,0,True
+Avery Bradley,4,1,23,1,Jump Shot,23,-234,-14,False
+Avery Bradley,4,3,2,0,Jump Shot,20,-139,144,True
+Avery Bradley,3,5,4,1,Jump Shot,23,-231,-9,False
+Avery Bradley,3,6,47,0,Jump Shot,25,92,242,False
+Avery Bradley,3,7,48,0,Jump Shot,23,-230,18,False
+Avery Bradley,2,3,0,0,Jump Shot,15,157,-21,True
+Avery Bradley,1,10,34,1,Jump Shot,25,55,253,False
+Avery Bradley,1,10,57,1,Jump Shot,22,-225,35,False
+Avery Bradley,1,5,19,0,Jump Shot,22,-222,22,False
+Avery Bradley,2,5,32,1,Jump Shot,22,-225,-6,False
+Avery Bradley,1,0,43,0,Jump Shot,23,229,48,False
+Avery Bradley,1,3,17,1,Jump Shot,28,106,262,False
+Avery Bradley,3,6,44,1,Jump Shot,23,239,-1,False
+Avery Bradley,3,6,24,1,Jump Shot,26,-226,147,False
+Avery Bradley,2,1,4,1,Jump Shot,18,-136,127,True
+Avery Bradley,3,10,17,0,Jump Shot,24,-245,-8,False
+Avery Bradley,4,3,58,1,Jump Shot,17,-53,163,True
+Avery Bradley,3,7,33,0,Jump Shot,27,-160,219,False
+Avery Bradley,1,4,23,0,Jump Shot,26,-144,220,False
+Avery Bradley,3,6,27,0,Jump Shot,23,227,53,False
+Avery Bradley,1,10,32,1,Jump Shot,25,-176,189,False
+Avery Bradley,2,3,11,1,Jump Shot,15,158,-18,True
+Avery Bradley,3,4,49,0,Jump Shot,19,-161,105,True
+Avery Bradley,1,3,24,0,Jump Shot,22,-30,224,True
+Avery Bradley,1,3,19,0,Jump Shot,18,150,100,True
+Avery Bradley,3,7,57,0,Jump Shot,25,-55,249,False
+Avery Bradley,2,7,0,1,Jump Shot,26,-191,178,False
+Avery Bradley,4,7,26,0,Jump Shot,26,-160,205,False
+Avery Bradley,3,4,14,0,Jump Shot,24,-205,138,False
+Avery Bradley,3,8,1,0,Jump Shot,25,74,239,False
+Avery Bradley,3,4,42,1,Jump Shot,25,239,95,False
+Avery Bradley,4,3,36,0,Jump Shot,21,-171,124,True
+Avery Bradley,1,1,46,0,Jump Shot,21,-62,210,True
+Avery Bradley,1,3,43,1,Jump Shot,27,-134,238,False
+Avery Bradley,2,3,56,0,Jump Shot,28,-201,204,False
+Avery Bradley,4,2,39,1,Jump Shot,23,-230,-20,False
+Avery Bradley,4,1,44,1,Jump Shot,22,-228,3,False
+Avery Bradley,3,1,1,0,Jump Shot,22,-228,-1,False
+Avery Bradley,1,11,13,0,Jump Shot,27,203,183,False
+Avery Bradley,2,2,47,0,Jump Shot,20,-125,162,True
+Avery Bradley,3,1,0,0,Jump Shot,6,-54,41,True
+Avery Bradley,4,4,35,0,Jump Shot,24,-222,96,False
+Avery Bradley,2,0,20,1,Jump Shot,22,54,215,True
+Avery Bradley,1,8,6,0,Jump Shot,22,-229,8,False
+Avery Bradley,4,6,3,0,Jump Shot,22,-24,225,True
+Avery Bradley,4,2,24,1,Jump Shot,16,-162,-18,True
+Avery Bradley,3,2,5,0,Jump Shot,22,-225,3,False
+Avery Bradley,1,1,58,1,Jump Shot,25,-190,169,False
+Avery Bradley,2,3,17,1,Jump Shot,24,-232,62,False
+Avery Bradley,1,8,40,1,Jump Shot,23,234,29,False
+Avery Bradley,2,4,37,0,Jump Shot,21,-94,189,True
+Avery Bradley,1,0,28,0,Jump Shot,22,-226,27,False
+Avery Bradley,1,5,40,0,Jump Shot,25,4,254,False
+Avery Bradley,1,9,45,0,Jump Shot,25,-145,204,False
+Avery Bradley,3,11,28,0,Jump Shot,24,-179,172,False
+Avery Bradley,3,7,43,0,Jump Shot,19,-199,6,True
+Avery Bradley,1,0,15,0,Jump Shot,23,-228,55,False
+Avery Bradley,3,2,10,1,Jump Shot,13,-58,117,True
+Avery Bradley,3,9,39,0,Jump Shot,10,5,100,True
+Avery Bradley,4,6,14,0,Jump Shot,25,-132,221,False
+Avery Bradley,1,6,36,0,Jump Shot,25,138,216,False
+Avery Bradley,3,4,21,0,Jump Shot,16,163,26,True
+Avery Bradley,2,4,40,1,Jump Shot,15,-152,48,True
+Avery Bradley,1,2,49,0,Jump Shot,9,37,89,True
+Avery Bradley,1,3,1,0,Jump Shot,25,-12,252,False
+Avery Bradley,4,2,44,0,Jump Shot,24,-163,184,False
+Avery Bradley,3,10,28,0,Jump Shot,14,13,143,True
+Avery Bradley,2,0,38,1,Jump Shot,25,-50,255,False
+Avery Bradley,2,0,0,0,Jump Shot,28,160,237,False
+Avery Bradley,1,5,43,0,Jump Shot,19,194,13,True
+Avery Bradley,3,11,40,1,Jump Shot,16,-67,150,True
+Avery Bradley,3,3,36,0,Jump Shot,25,-190,173,False
+Avery Bradley,4,3,50,0,Jump Shot,26,116,234,False
+Avery Bradley,1,2,49,1,Jump Shot,23,228,36,False
+Avery Bradley,4,7,2,0,Jump Shot,9,7,90,True
+Avery Bradley,4,3,39,1,Jump Shot,16,103,135,True
+Avery Bradley,4,3,14,1,Jump Shot,23,-232,-21,False
+Avery Bradley,3,10,50,0,Jump Shot,19,-63,184,True
+Avery Bradley,1,3,5,0,Jump Shot,24,234,84,False
+Avery Bradley,1,8,32,0,Jump Shot,19,-103,171,True
+Avery Bradley,1,11,46,0,Jump Shot,17,-79,158,True
+Avery Bradley,4,1,7,1,Jump Shot,25,0,253,False
+Avery Bradley,3,3,1,1,Jump Shot,16,-126,102,True
+Avery Bradley,1,10,45,0,Jump Shot,21,105,185,True
+Avery Bradley,1,5,52,1,Jump Shot,23,228,48,False
+Avery Bradley,3,9,3,0,Jump Shot,22,225,38,False
+Avery Bradley,3,5,58,0,Jump Shot,24,-125,216,False
+Avery Bradley,3,7,28,1,Jump Shot,20,-149,135,True
+Avery Bradley,1,6,21,0,Jump Shot,16,3,169,True
+Avery Bradley,1,6,59,0,Jump Shot,20,-192,60,True
+Avery Bradley,2,3,57,0,Jump Shot,28,72,272,False
+Avery Bradley,1,9,32,1,Jump Shot,26,-75,258,False
+Avery Bradley,1,7,50,0,Jump Shot,27,65,263,False
+Avery Bradley,4,0,21,1,Jump Shot,28,-171,231,False
+Avery Bradley,2,6,21,1,Jump Shot,23,-234,32,False
+Avery Bradley,1,9,6,0,Jump Shot,14,-77,125,True
+Avery Bradley,1,7,7,0,Jump Shot,14,105,106,True
+Avery Bradley,2,1,46,1,Jump Shot,23,-230,25,False
+Avery Bradley,2,3,31,1,Jump Shot,26,-147,215,False
+Avery Bradley,1,7,26,0,Jump Shot,22,-229,8,False
+Avery Bradley,1,3,16,0,Jump Shot,20,119,162,True
+Avery Bradley,1,9,4,0,Jump Shot,26,-163,210,False
+Avery Bradley,2,1,0,0,Jump Shot,25,-191,173,False
+Avery Bradley,1,5,42,0,Jump Shot,19,-71,178,True
+Avery Bradley,1,7,36,0,Jump Shot,25,187,171,False
+Avery Bradley,2,4,4,0,Layup Shot,1,11,10,True
+Avery Bradley,2,3,50,1,Layup Shot,0,2,9,True
+Avery Bradley,1,7,41,0,Layup Shot,2,14,15,True
+Avery Bradley,4,5,33,0,Layup Shot,0,-2,6,True
+Avery Bradley,1,3,20,0,Layup Shot,2,-2,25,True
+Avery Bradley,3,6,32,1,Layup Shot,1,0,17,True
+Avery Bradley,1,5,22,0,Layup Shot,4,-23,44,True
+Avery Bradley,4,5,54,0,Layup Shot,3,-32,0,True
+Avery Bradley,4,0,44,1,Layup Shot,2,-24,17,True
+Avery Bradley,3,7,9,1,Layup Shot,1,-2,15,True
+Avery Bradley,2,7,25,1,Layup Shot,2,20,16,True
+Avery Bradley,3,6,47,0,Layup Shot,1,8,15,True
+Avery Bradley,2,0,4,1,Layup Shot,0,-3,7,True
+Avery Bradley,3,11,8,0,Layup Shot,1,8,16,True
+Avery Bradley,2,1,42,0,Layup Shot,1,-11,-2,True
+Avery Bradley,3,9,49,0,Layup Shot,2,-10,19,True
+Avery Bradley,3,5,30,0,Layup Shot,2,-20,7,True
+Avery Bradley,4,4,41,0,Layup Shot,5,2,59,True
+Avery Bradley,4,8,33,1,Layup Shot,0,5,3,True
+Avery Bradley,2,0,36,0,Layup Shot,1,16,11,True
+Avery Bradley,3,3,42,0,Layup Shot,2,-12,26,True
+Avery Bradley,1,2,3,0,Layup Shot,6,-12,64,True
+Avery Bradley,3,8,5,1,Layup Shot,1,6,13,True
+Avery Bradley,1,7,19,0,Layup Shot,2,13,16,True
+Avery Bradley,1,8,14,1,Layup Shot,1,-12,12,True
+Avery Bradley,3,9,49,0,Layup Shot,1,15,-3,True
+Avery Bradley,1,9,53,0,Layup Shot,1,-8,-6,True
+Avery Bradley,1,3,47,0,Layup Shot,1,9,16,True
+Avery Bradley,3,9,35,0,Layup Shot,4,44,8,True
+Avery Bradley,1,4,46,1,Layup Shot,0,-1,7,True
+Avery Bradley,3,8,35,1,Layup Shot,2,-22,7,True
+Avery Bradley,1,10,46,1,Layup Shot,4,2,44,True
+Avery Bradley,2,4,42,0,Layup Shot,1,6,16,True
+Avery Bradley,2,1,31,0,Layup Shot,1,-5,17,True
+Avery Bradley,1,0,12,0,Layup Shot,4,22,34,True
+Avery Bradley,3,8,52,0,Layup Shot,3,24,25,True
+Avery Bradley,3,0,49,1,Layup Shot,2,12,16,True
+Avery Bradley,3,1,27,1,Layup Shot,2,16,13,True
+Avery Bradley,3,5,34,0,Layup Shot,2,-25,16,True
+Avery Bradley,2,1,7,0,Layup Shot,1,3,16,True
+Avery Bradley,3,11,49,1,Layup Shot,3,-31,10,True
+Avery Bradley,1,9,30,1,Layup Shot,1,0,11,True
+Avery Bradley,3,2,40,1,Layup Shot,0,3,5,True
+Avery Bradley,2,4,31,1,Layup Shot,0,0,5,True
+Avery Bradley,1,1,29,0,Layup Shot,3,24,25,True
+Avery Bradley,1,10,15,0,Layup Shot,1,-11,5,True
+Avery Bradley,1,7,14,0,Layup Shot,1,13,9,True
+Avery Bradley,2,5,9,0,Layup Shot,1,13,11,True
+Avery Bradley,3,0,50,0,Layup Shot,6,58,24,True
+Avery Bradley,1,6,34,1,Layup Shot,0,-4,-5,True
+Avery Bradley,1,10,53,1,Layup Shot,1,10,16,True
+Avery Bradley,2,5,52,0,Layup Shot,1,-17,5,True
+Avery Bradley,2,3,57,0,Pullup Jump shot,19,-130,141,True
+Avery Bradley,1,6,0,0,Pullup Jump shot,24,-196,151,False
+Avery Bradley,4,1,44,0,Pullup Jump shot,15,114,102,True
+Avery Bradley,1,7,38,1,Pullup Jump shot,22,226,14,False
+Avery Bradley,2,0,19,1,Pullup Jump shot,19,-42,192,True
+Avery Bradley,3,10,28,0,Pullup Jump shot,16,89,137,True
+Avery Bradley,3,8,8,0,Pullup Jump shot,22,-154,161,True
+Avery Bradley,2,7,44,1,Pullup Jump shot,17,-158,65,True
+Avery Bradley,1,9,26,0,Pullup Jump shot,18,-38,186,True
+Avery Bradley,3,2,32,0,Pullup Jump shot,27,-106,259,False
+Avery Bradley,1,7,29,1,Pullup Jump shot,19,96,169,True
+Avery Bradley,4,2,5,0,Pullup Jump shot,25,173,187,False
+Avery Bradley,3,8,21,0,Pullup Jump shot,21,54,204,True
+Avery Bradley,2,4,23,0,Pullup Jump shot,14,-72,126,True
+Avery Bradley,3,4,54,0,Pullup Jump shot,25,-58,248,False
+Avery Bradley,3,6,32,0,Pullup Jump shot,27,131,242,False
+Avery Bradley,1,4,17,0,Pullup Jump shot,16,-152,59,True
+Avery Bradley,4,7,30,0,Pullup Jump shot,20,56,197,True
+Avery Bradley,3,7,20,0,Pullup Jump shot,14,-50,138,True
+Avery Bradley,1,6,9,1,Pullup Jump shot,20,-44,204,True
+Avery Bradley,3,0,27,0,Pullup Jump shot,19,-125,153,True
+Avery Bradley,2,0,58,1,Pullup Jump shot,15,55,148,True
+Avery Bradley,2,11,22,1,Pullup Jump shot,20,0,200,True
+Avery Bradley,1,9,55,1,Pullup Jump shot,19,65,185,True
+Avery Bradley,2,7,15,0,Pullup Jump shot,17,7,177,True
+Avery Bradley,3,1,12,0,Pullup Jump shot,20,-112,173,True
+Avery Bradley,1,7,38,1,Pullup Jump shot,13,-123,64,True
+Avery Bradley,3,1,23,0,Pullup Jump shot,25,-148,202,False
+Avery Bradley,2,1,25,1,Pullup Jump shot,21,54,209,True
+Avery Bradley,3,7,40,0,Pullup Jump shot,19,-95,168,True
+Avery Bradley,4,10,30,1,Pullup Jump shot,24,-89,232,False
+Avery Bradley,4,5,13,1,Pullup Jump shot,27,50,273,False
+Avery Bradley,4,4,59,0,Pullup Jump shot,16,25,165,True
+Avery Bradley,3,10,50,0,Pullup Jump shot,17,8,179,True
+Avery Bradley,2,5,29,0,Pullup Jump shot,18,70,174,True
+Avery Bradley,2,2,51,0,Pullup Jump shot,11,-117,-16,True
+Avery Bradley,2,7,0,1,Pullup Jump shot,17,-76,163,True
+Avery Bradley,1,9,4,1,Pullup Jump shot,18,-174,67,True
+Avery Bradley,1,11,19,0,Pullup Jump shot,27,-20,275,False
+Avery Bradley,2,1,3,0,Pullup Jump shot,18,-6,180,True
+Avery Bradley,1,11,5,1,Pullup Jump shot,21,-89,192,True
+Avery Bradley,2,1,50,0,Pullup Jump shot,26,-82,248,False
+Avery Bradley,3,7,42,1,Pullup Jump shot,19,-121,149,True
+Avery Bradley,1,6,50,1,Pullup Jump shot,19,125,149,True
+Avery Bradley,1,9,30,1,Pullup Jump shot,22,155,164,True
+Avery Bradley,3,3,25,0,Pullup Jump shot,17,116,136,True
+Avery Bradley,3,6,19,0,Pullup Jump shot,17,-116,129,True
+Avery Bradley,3,10,14,1,Pullup Jump shot,17,-97,151,True
+Avery Bradley,1,11,15,0,Pullup Jump shot,21,-114,183,True
+Avery Bradley,1,2,40,0,Pullup Jump shot,14,105,93,True
+Avery Bradley,1,4,8,1,Pullup Jump shot,20,-56,197,True
+Avery Bradley,4,11,6,0,Pullup Jump shot,20,154,131,True
+Avery Bradley,2,6,31,0,Pullup Jump shot,13,30,133,True
+Avery Bradley,1,8,8,1,Pullup Jump shot,16,72,152,True
+Avery Bradley,4,3,57,1,Pullup Jump shot,20,-58,195,True
+Avery Bradley,1,4,9,0,Pullup Jump shot,20,88,188,True
+Avery Bradley,1,8,35,1,Pullup Jump shot,21,-25,214,True
+Avery Bradley,2,2,4,1,Pullup Jump shot,25,-4,252,False
+Avery Bradley,4,1,29,1,Pullup Jump shot,21,101,194,True
+Avery Bradley,3,7,54,1,Pullup Jump shot,24,-221,115,False
+Avery Bradley,1,7,16,1,Pullup Jump shot,22,47,218,True
+Avery Bradley,2,5,42,0,Pullup Jump shot,21,-19,215,True
+Avery Bradley,4,0,48,1,Pullup Jump shot,26,223,142,False
+Avery Bradley,1,7,37,1,Pullup Jump shot,16,-70,152,True
+Avery Bradley,3,4,23,1,Pullup Jump shot,18,128,139,True
+Avery Bradley,2,2,22,1,Pullup Jump shot,25,-168,187,False
+Avery Bradley,3,1,36,1,Pullup Jump shot,24,-143,202,False
+Avery Bradley,4,3,34,0,Pullup Jump shot,27,127,242,False
+Avery Bradley,2,4,9,1,Pullup Jump shot,14,-85,113,True
+Avery Bradley,3,11,1,1,Pullup Jump shot,15,74,141,True
+Avery Bradley,2,5,1,0,Pullup Jump shot,19,-79,183,True
+Avery Bradley,1,5,51,1,Pullup Jump shot,18,-168,70,True
+Avery Bradley,2,3,3,0,Pullup Jump shot,17,-99,144,True
+Avery Bradley,1,11,13,0,Pullup Jump shot,14,-37,137,True
+Avery Bradley,1,7,41,1,Pullup Jump shot,26,70,252,False
+Avery Bradley,1,10,31,0,Pullup Jump shot,19,113,164,True
+Avery Bradley,1,5,54,0,Pullup Jump shot,16,-71,149,True
+Avery Bradley,2,5,31,0,Pullup Jump shot,17,44,174,True
+Avery Bradley,1,11,23,0,Pullup Jump shot,22,-101,201,True
+Avery Bradley,1,8,8,0,Pullup Jump shot,12,-22,120,True
+Avery Bradley,1,2,10,1,Putback Dunk Shot,0,0,-6,True
+Avery Bradley,2,1,28,0,Putback Layup Shot,0,5,2,True
+Avery Bradley,4,3,7,1,Reverse Layup Shot,0,9,4,True
+Avery Bradley,2,4,17,1,Reverse Layup Shot,1,16,7,True
+Avery Bradley,3,7,47,1,Reverse Layup Shot,1,1,11,True
+Avery Bradley,2,7,32,1,Reverse Layup Shot,1,8,12,True
+Avery Bradley,1,5,49,0,Reverse Layup Shot,1,9,12,True
+Avery Bradley,3,2,24,0,Reverse Layup Shot,2,16,20,True
+Avery Bradley,3,7,9,0,Reverse Layup Shot,4,44,5,True
+Avery Bradley,3,8,32,1,Running Alley Oop Dunk Shot,2,-12,22,True
+Avery Bradley,3,10,59,1,Running Dunk Shot,1,5,10,True
+Avery Bradley,2,1,34,0,Running Dunk Shot,0,3,8,True
+Avery Bradley,1,1,18,1,Running Dunk Shot,0,5,8,True
+Avery Bradley,4,0,0,1,Running Finger Roll Layup Shot,1,-12,5,True
+Avery Bradley,2,6,5,0,Running Jump Shot,1,1,13,True
+Avery Bradley,3,6,34,0,Running Jump Shot,5,35,37,True
+Avery Bradley,4,1,48,1,Running Jump Shot,24,-232,84,False
+Avery Bradley,3,4,37,0,Running Layup Shot,1,-13,3,True
+Avery Bradley,2,9,35,1,Running Layup Shot,2,7,21,True
+Avery Bradley,1,10,27,1,Running Layup Shot,0,3,-1,True
+Avery Bradley,1,7,22,1,Running Layup Shot,1,-16,0,True
+Avery Bradley,3,8,21,0,Running Layup Shot,1,14,13,True
+Avery Bradley,2,8,43,1,Running Layup Shot,2,-12,16,True
+Avery Bradley,4,0,52,1,Running Layup Shot,1,-5,16,True
+Avery Bradley,3,10,11,1,Running Layup Shot,0,-6,5,True
+Avery Bradley,2,8,26,0,Running Layup Shot,1,17,9,True
+Avery Bradley,1,5,9,1,Running Pull-Up Jump Shot,20,-158,137,True
+Avery Bradley,3,6,48,0,Running Pull-Up Jump Shot,25,-152,206,False
+Avery Bradley,3,9,54,0,Running Pull-Up Jump Shot,18,-115,144,True
+Avery Bradley,1,10,22,1,Running Pull-Up Jump Shot,22,-168,145,True
+Avery Bradley,4,6,42,1,Running Reverse Layup Shot,2,12,21,True
+Avery Bradley,2,0,11,0,Running Reverse Layup Shot,1,-6,8,True
+Avery Bradley,3,0,28,0,Step Back Jump shot,12,40,120,True
+Avery Bradley,3,9,53,1,Step Back Jump shot,10,-47,94,True
+Avery Bradley,2,6,41,0,Step Back Jump shot,19,2,197,True
+Avery Bradley,1,9,48,0,Step Back Jump shot,25,-156,206,False
+Avery Bradley,2,5,15,0,Step Back Jump shot,20,0,205,True
+Avery Bradley,2,3,46,0,Step Back Jump shot,11,113,13,True
+Avery Bradley,1,9,23,1,Step Back Jump shot,11,-81,88,True
+Avery Bradley,3,6,6,1,Tip Layup Shot,0,0,-6,True
+Avery Bradley,1,3,19,1,Tip Layup Shot,0,0,-6,True
+Avery Bradley,4,10,47,1,Tip Layup Shot,1,-5,13,True
+Avery Bradley,4,0,16,0,Tip Layup Shot,0,0,-6,True
+Avery Bradley,2,1,44,1,Tip Layup Shot,0,0,-6,True
+Avery Bradley,4,3,56,1,Tip Layup Shot,3,6,30,True
+Avery Bradley,3,3,58,0,Turnaround Fadeaway shot,10,109,-4,True
+Avery Bradley,4,2,31,1,Turnaround Jump Shot,11,-117,-2,True

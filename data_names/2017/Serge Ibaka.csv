@@ -1,0 +1,696 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Serge Ibaka,1,6,16,1,Alley Oop Dunk Shot,1,-10,10,True
+Serge Ibaka,1,5,22,0,Alley Oop Layup shot,2,-23,16,True
+Serge Ibaka,4,1,38,1,Alley Oop Layup shot,2,-28,6,True
+Serge Ibaka,1,10,17,1,Cutting Dunk Shot,0,-2,-6,True
+Serge Ibaka,3,9,28,0,Cutting Dunk Shot,3,-2,30,True
+Serge Ibaka,4,8,55,1,Cutting Dunk Shot,1,2,15,True
+Serge Ibaka,1,11,18,1,Cutting Dunk Shot,0,-5,7,True
+Serge Ibaka,4,7,5,1,Cutting Dunk Shot,1,-1,17,True
+Serge Ibaka,3,9,16,1,Cutting Dunk Shot,1,14,6,True
+Serge Ibaka,1,5,21,1,Cutting Dunk Shot,1,-2,10,True
+Serge Ibaka,3,5,0,1,Cutting Dunk Shot,2,23,-8,True
+Serge Ibaka,4,5,14,1,Cutting Dunk Shot,1,-12,1,True
+Serge Ibaka,3,6,5,1,Cutting Dunk Shot,1,3,17,True
+Serge Ibaka,3,10,32,1,Cutting Dunk Shot,1,-6,11,True
+Serge Ibaka,2,5,2,1,Cutting Finger Roll Layup Shot,4,3,46,True
+Serge Ibaka,2,1,35,1,Cutting Finger Roll Layup Shot,2,-8,20,True
+Serge Ibaka,1,7,34,0,Cutting Finger Roll Layup Shot,4,-2,46,True
+Serge Ibaka,3,3,28,1,Cutting Layup Shot,2,25,16,True
+Serge Ibaka,4,6,29,1,Cutting Layup Shot,1,6,17,True
+Serge Ibaka,1,9,47,1,Cutting Layup Shot,4,28,36,True
+Serge Ibaka,1,5,43,0,Cutting Layup Shot,2,20,2,True
+Serge Ibaka,3,7,5,0,Cutting Layup Shot,4,24,34,True
+Serge Ibaka,1,5,37,1,Driving Bank Hook Shot,3,31,20,True
+Serge Ibaka,1,7,1,1,Driving Dunk Shot,1,3,14,True
+Serge Ibaka,3,4,55,1,Driving Dunk Shot,2,9,27,True
+Serge Ibaka,4,1,15,1,Driving Dunk Shot,1,2,16,True
+Serge Ibaka,2,3,13,1,Driving Dunk Shot,2,7,25,True
+Serge Ibaka,1,9,27,0,Driving Dunk Shot,2,15,23,True
+Serge Ibaka,4,3,17,1,Driving Dunk Shot,1,14,10,True
+Serge Ibaka,3,4,33,1,Driving Dunk Shot,1,1,14,True
+Serge Ibaka,1,2,54,1,Driving Dunk Shot,1,5,12,True
+Serge Ibaka,2,3,2,1,Driving Dunk Shot,0,3,8,True
+Serge Ibaka,2,5,40,1,Driving Dunk Shot,1,0,13,True
+Serge Ibaka,3,10,40,1,Driving Dunk Shot,1,0,15,True
+Serge Ibaka,4,3,14,1,Driving Dunk Shot,0,0,0,True
+Serge Ibaka,1,10,17,1,Driving Dunk Shot,2,1,26,True
+Serge Ibaka,1,4,48,1,Driving Dunk Shot,0,6,4,True
+Serge Ibaka,2,5,15,1,Driving Finger Roll Layup Shot,2,0,26,True
+Serge Ibaka,4,3,4,1,Driving Floating Bank Jump Shot,1,13,13,True
+Serge Ibaka,1,8,14,1,Driving Floating Jump Shot,12,-56,109,True
+Serge Ibaka,2,7,16,1,Driving Floating Jump Shot,9,-2,98,True
+Serge Ibaka,4,2,10,0,Driving Floating Jump Shot,6,2,63,True
+Serge Ibaka,1,6,50,1,Driving Floating Jump Shot,5,49,11,True
+Serge Ibaka,1,8,31,1,Driving Floating Jump Shot,11,-9,113,True
+Serge Ibaka,1,10,20,0,Driving Floating Jump Shot,11,-3,116,True
+Serge Ibaka,3,7,58,0,Driving Floating Jump Shot,6,51,46,True
+Serge Ibaka,3,11,41,1,Driving Floating Jump Shot,4,35,29,True
+Serge Ibaka,3,8,34,0,Driving Floating Jump Shot,9,88,46,True
+Serge Ibaka,2,4,5,0,Driving Floating Jump Shot,6,-25,65,True
+Serge Ibaka,3,2,5,0,Driving Floating Jump Shot,10,84,55,True
+Serge Ibaka,1,6,41,1,Driving Floating Jump Shot,3,3,37,True
+Serge Ibaka,4,0,1,0,Driving Floating Jump Shot,3,28,26,True
+Serge Ibaka,1,9,45,0,Driving Floating Jump Shot,6,-11,60,True
+Serge Ibaka,1,4,45,1,Driving Floating Jump Shot,9,-25,92,True
+Serge Ibaka,1,1,29,1,Driving Floating Jump Shot,3,14,29,True
+Serge Ibaka,1,5,40,1,Driving Floating Jump Shot,5,-56,8,True
+Serge Ibaka,1,3,6,1,Driving Floating Jump Shot,4,42,21,True
+Serge Ibaka,1,10,50,1,Driving Floating Jump Shot,12,-38,118,True
+Serge Ibaka,3,5,30,0,Driving Floating Jump Shot,6,39,53,True
+Serge Ibaka,3,2,38,0,Driving Floating Jump Shot,8,0,80,True
+Serge Ibaka,4,3,35,0,Driving Floating Jump Shot,7,-36,69,True
+Serge Ibaka,1,7,11,1,Driving Floating Jump Shot,5,19,48,True
+Serge Ibaka,3,4,7,1,Driving Floating Jump Shot,8,-59,56,True
+Serge Ibaka,1,10,33,1,Driving Floating Jump Shot,2,12,24,True
+Serge Ibaka,2,2,6,0,Driving Floating Jump Shot,5,19,49,True
+Serge Ibaka,1,5,38,1,Driving Hook Shot,7,-30,73,True
+Serge Ibaka,2,2,31,1,Driving Hook Shot,4,-2,49,True
+Serge Ibaka,2,0,41,1,Driving Hook Shot,4,9,39,True
+Serge Ibaka,2,3,23,0,Driving Hook Shot,3,29,27,True
+Serge Ibaka,4,2,40,0,Driving Hook Shot,5,16,55,True
+Serge Ibaka,3,11,18,1,Driving Hook Shot,5,-2,56,True
+Serge Ibaka,2,1,26,1,Driving Hook Shot,3,5,34,True
+Serge Ibaka,2,2,8,1,Driving Hook Shot,4,0,48,True
+Serge Ibaka,1,6,17,1,Driving Hook Shot,10,73,72,True
+Serge Ibaka,4,2,47,0,Driving Hook Shot,7,65,35,True
+Serge Ibaka,4,6,20,0,Driving Hook Shot,6,18,66,True
+Serge Ibaka,4,2,51,1,Driving Hook Shot,5,38,41,True
+Serge Ibaka,2,3,16,0,Driving Hook Shot,8,-25,81,True
+Serge Ibaka,3,8,47,0,Driving Hook Shot,8,35,77,True
+Serge Ibaka,1,7,6,0,Driving Hook Shot,13,-9,136,True
+Serge Ibaka,1,10,40,0,Driving Hook Shot,4,44,20,True
+Serge Ibaka,2,3,20,1,Driving Hook Shot,14,-9,143,True
+Serge Ibaka,3,5,48,1,Driving Hook Shot,8,22,82,True
+Serge Ibaka,2,8,35,0,Driving Layup Shot,5,41,32,True
+Serge Ibaka,1,4,24,1,Driving Layup Shot,0,9,4,True
+Serge Ibaka,3,8,31,1,Driving Layup Shot,1,3,13,True
+Serge Ibaka,2,8,0,0,Driving Layup Shot,2,-12,23,True
+Serge Ibaka,1,7,16,1,Driving Layup Shot,3,-2,31,True
+Serge Ibaka,1,3,6,0,Driving Layup Shot,2,-3,20,True
+Serge Ibaka,3,6,32,1,Driving Layup Shot,0,-3,6,True
+Serge Ibaka,3,6,35,1,Driving Layup Shot,2,9,27,True
+Serge Ibaka,3,9,56,0,Driving Layup Shot,1,3,12,True
+Serge Ibaka,1,4,42,0,Driving Layup Shot,0,0,5,True
+Serge Ibaka,3,7,39,0,Driving Layup Shot,3,24,24,True
+Serge Ibaka,2,3,57,0,Driving Layup Shot,3,29,10,True
+Serge Ibaka,1,5,58,1,Driving Layup Shot,0,6,5,True
+Serge Ibaka,3,3,20,1,Driving Layup Shot,2,20,19,True
+Serge Ibaka,3,7,56,0,Driving Layup Shot,3,6,32,True
+Serge Ibaka,3,6,41,0,Driving Layup Shot,3,24,21,True
+Serge Ibaka,1,7,38,1,Driving Layup Shot,6,32,53,True
+Serge Ibaka,4,4,54,1,Driving Layup Shot,1,14,11,True
+Serge Ibaka,1,8,38,1,Driving Layup Shot,2,27,5,True
+Serge Ibaka,3,4,11,1,Driving Layup Shot,2,24,10,True
+Serge Ibaka,1,4,42,0,Driving Layup Shot,1,15,11,True
+Serge Ibaka,1,6,34,0,Driving Layup Shot,3,38,8,True
+Serge Ibaka,2,7,51,1,Driving Layup Shot,2,18,15,True
+Serge Ibaka,4,3,19,1,Dunk Shot,1,0,15,True
+Serge Ibaka,1,6,31,1,Dunk Shot,1,-1,12,True
+Serge Ibaka,1,2,11,1,Dunk Shot,0,3,-1,True
+Serge Ibaka,3,11,26,1,Dunk Shot,1,1,16,True
+Serge Ibaka,1,11,30,1,Dunk Shot,0,-5,1,True
+Serge Ibaka,2,2,21,1,Dunk Shot,2,1,26,True
+Serge Ibaka,2,3,35,1,Dunk Shot,1,3,15,True
+Serge Ibaka,2,3,13,1,Dunk Shot,1,2,16,True
+Serge Ibaka,3,8,26,1,Dunk Shot,0,-5,2,True
+Serge Ibaka,3,3,3,1,Fadeaway Jump Shot,12,-113,64,True
+Serge Ibaka,4,7,46,1,Fadeaway Jump Shot,12,-128,-8,True
+Serge Ibaka,3,6,34,0,Fadeaway Jump Shot,12,79,95,True
+Serge Ibaka,1,3,10,1,Fadeaway Jump Shot,13,36,126,True
+Serge Ibaka,1,5,0,1,Finger Roll Layup Shot,0,-8,3,True
+Serge Ibaka,3,10,41,1,Finger Roll Layup Shot,3,4,32,True
+Serge Ibaka,3,8,36,1,Finger Roll Layup Shot,0,3,4,True
+Serge Ibaka,1,1,59,1,Floating Jump shot,5,-6,58,True
+Serge Ibaka,2,1,36,0,Floating Jump shot,5,16,53,True
+Serge Ibaka,3,4,58,0,Floating Jump shot,13,-11,132,True
+Serge Ibaka,1,2,39,1,Floating Jump shot,8,27,84,True
+Serge Ibaka,2,4,34,0,Floating Jump shot,6,-36,57,True
+Serge Ibaka,1,11,39,1,Floating Jump shot,13,-4,134,True
+Serge Ibaka,1,3,29,1,Hook Bank Shot,5,33,40,True
+Serge Ibaka,3,2,28,1,Hook Bank Shot,2,17,17,True
+Serge Ibaka,2,0,27,1,Hook Shot,11,29,110,True
+Serge Ibaka,1,11,5,1,Hook Shot,3,33,18,True
+Serge Ibaka,4,0,35,0,Hook Shot,8,-68,54,True
+Serge Ibaka,4,7,13,1,Hook Shot,5,12,57,True
+Serge Ibaka,1,10,14,0,Hook Shot,7,60,50,True
+Serge Ibaka,2,2,47,1,Hook Shot,3,-38,11,True
+Serge Ibaka,4,0,13,0,Hook Shot,3,33,4,True
+Serge Ibaka,1,5,22,0,Hook Shot,9,54,83,True
+Serge Ibaka,3,6,53,0,Hook Shot,3,-15,29,True
+Serge Ibaka,1,7,15,0,Hook Shot,6,-30,52,True
+Serge Ibaka,1,8,59,1,Hook Shot,2,-6,27,True
+Serge Ibaka,2,1,9,1,Hook Shot,7,-7,75,True
+Serge Ibaka,2,2,42,1,Hook Shot,9,66,66,True
+Serge Ibaka,1,7,13,1,Hook Shot,6,46,41,True
+Serge Ibaka,3,11,6,1,Hook Shot,5,-52,15,True
+Serge Ibaka,3,10,18,1,Hook Shot,2,5,26,True
+Serge Ibaka,1,4,28,0,Hook Shot,5,38,40,True
+Serge Ibaka,1,3,42,0,Hook Shot,4,13,42,True
+Serge Ibaka,3,7,26,1,Hook Shot,5,3,59,True
+Serge Ibaka,5,0,56,1,Hook Shot,6,43,42,True
+Serge Ibaka,3,9,14,0,Hook Shot,10,-12,109,True
+Serge Ibaka,2,0,51,1,Hook Shot,6,12,62,True
+Serge Ibaka,2,6,29,0,Hook Shot,6,13,67,True
+Serge Ibaka,4,0,22,1,Hook Shot,2,9,26,True
+Serge Ibaka,3,11,37,0,Hook Shot,8,-84,6,True
+Serge Ibaka,2,1,13,1,Hook Shot,10,44,90,True
+Serge Ibaka,4,1,30,1,Hook Shot,1,2,13,True
+Serge Ibaka,1,4,52,0,Jump Bank Shot,25,-31,253,False
+Serge Ibaka,1,9,16,1,Jump Bank Shot,25,78,244,False
+Serge Ibaka,1,7,45,0,Jump Shot,23,-232,20,False
+Serge Ibaka,1,6,1,1,Jump Shot,21,75,202,True
+Serge Ibaka,3,7,56,0,Jump Shot,21,116,178,True
+Serge Ibaka,3,9,14,0,Jump Shot,26,69,256,False
+Serge Ibaka,1,3,4,0,Jump Shot,25,-105,230,False
+Serge Ibaka,2,3,34,0,Jump Shot,24,-128,205,False
+Serge Ibaka,3,11,8,0,Jump Shot,12,118,25,True
+Serge Ibaka,1,6,56,0,Jump Shot,25,37,256,False
+Serge Ibaka,1,3,38,0,Jump Shot,18,114,147,True
+Serge Ibaka,2,1,33,0,Jump Shot,24,63,241,False
+Serge Ibaka,2,6,40,1,Jump Shot,25,-165,191,False
+Serge Ibaka,3,1,50,0,Jump Shot,25,145,210,False
+Serge Ibaka,1,11,43,1,Jump Shot,26,-139,220,False
+Serge Ibaka,2,0,31,0,Jump Shot,25,27,256,False
+Serge Ibaka,3,9,12,1,Jump Shot,25,-146,213,False
+Serge Ibaka,1,7,54,0,Jump Shot,26,-107,243,False
+Serge Ibaka,1,0,49,0,Jump Shot,15,-39,149,True
+Serge Ibaka,3,9,44,0,Jump Shot,25,127,226,False
+Serge Ibaka,2,0,27,1,Jump Shot,23,-231,60,False
+Serge Ibaka,3,9,56,0,Jump Shot,18,-3,184,True
+Serge Ibaka,1,8,29,0,Jump Shot,12,-47,116,True
+Serge Ibaka,3,6,35,0,Jump Shot,19,-131,150,True
+Serge Ibaka,4,9,12,1,Jump Shot,18,134,132,True
+Serge Ibaka,3,8,37,0,Jump Shot,25,-85,243,False
+Serge Ibaka,3,1,37,1,Jump Shot,11,30,116,True
+Serge Ibaka,1,7,25,0,Jump Shot,20,-82,188,True
+Serge Ibaka,3,1,55,0,Jump Shot,15,139,72,True
+Serge Ibaka,2,7,31,1,Jump Shot,23,232,37,False
+Serge Ibaka,3,2,30,1,Jump Shot,19,143,130,True
+Serge Ibaka,1,7,38,1,Jump Shot,14,-121,83,True
+Serge Ibaka,2,4,48,1,Jump Shot,25,210,139,False
+Serge Ibaka,1,4,27,0,Jump Shot,24,206,139,False
+Serge Ibaka,1,5,28,1,Jump Shot,25,123,221,False
+Serge Ibaka,3,3,26,1,Jump Shot,18,-91,166,True
+Serge Ibaka,4,2,5,1,Jump Shot,26,-186,188,False
+Serge Ibaka,1,6,56,1,Jump Shot,16,13,162,True
+Serge Ibaka,3,9,20,0,Jump Shot,27,-186,199,False
+Serge Ibaka,1,11,10,0,Jump Shot,26,150,222,False
+Serge Ibaka,3,9,9,0,Jump Shot,26,-235,125,False
+Serge Ibaka,1,8,50,0,Jump Shot,24,-81,234,False
+Serge Ibaka,1,11,17,1,Jump Shot,25,-138,215,False
+Serge Ibaka,1,6,0,1,Jump Shot,27,96,261,False
+Serge Ibaka,4,5,1,0,Jump Shot,13,18,138,True
+Serge Ibaka,3,11,2,0,Jump Shot,24,167,184,False
+Serge Ibaka,1,4,9,1,Jump Shot,27,114,247,False
+Serge Ibaka,1,6,56,1,Jump Shot,26,-196,174,False
+Serge Ibaka,1,11,28,0,Jump Shot,16,63,153,True
+Serge Ibaka,3,5,30,1,Jump Shot,24,-94,228,False
+Serge Ibaka,1,10,29,0,Jump Shot,24,-176,176,False
+Serge Ibaka,3,4,46,1,Jump Shot,17,111,140,True
+Serge Ibaka,2,3,5,0,Jump Shot,29,-219,193,False
+Serge Ibaka,3,3,55,1,Jump Shot,22,-223,9,False
+Serge Ibaka,3,8,5,0,Jump Shot,24,-209,121,False
+Serge Ibaka,3,10,58,0,Jump Shot,14,-116,90,True
+Serge Ibaka,1,7,34,0,Jump Shot,21,0,217,True
+Serge Ibaka,4,2,58,1,Jump Shot,22,-228,-15,False
+Serge Ibaka,4,8,57,0,Jump Shot,17,166,-37,True
+Serge Ibaka,3,8,40,0,Jump Shot,24,38,245,False
+Serge Ibaka,4,8,28,1,Jump Shot,16,-73,143,True
+Serge Ibaka,1,5,49,1,Jump Shot,26,-8,260,False
+Serge Ibaka,3,9,18,0,Jump Shot,15,-78,131,True
+Serge Ibaka,4,7,20,0,Jump Shot,11,119,-1,True
+Serge Ibaka,1,11,23,1,Jump Shot,17,49,164,True
+Serge Ibaka,2,1,21,0,Jump Shot,23,-230,29,False
+Serge Ibaka,4,2,5,0,Jump Shot,29,-171,238,False
+Serge Ibaka,3,4,13,0,Jump Shot,25,149,204,False
+Serge Ibaka,3,3,40,0,Jump Shot,27,-12,275,False
+Serge Ibaka,3,10,45,0,Jump Shot,23,-235,-11,False
+Serge Ibaka,1,7,5,1,Jump Shot,23,-229,36,False
+Serge Ibaka,3,11,26,0,Jump Shot,10,-96,52,True
+Serge Ibaka,3,4,28,0,Jump Shot,22,-228,-11,False
+Serge Ibaka,1,9,5,0,Jump Shot,19,-132,141,True
+Serge Ibaka,3,2,32,1,Jump Shot,23,230,19,False
+Serge Ibaka,1,10,56,0,Jump Shot,26,165,204,False
+Serge Ibaka,1,0,53,1,Jump Shot,18,-38,179,True
+Serge Ibaka,1,7,58,0,Jump Shot,28,-109,268,False
+Serge Ibaka,2,1,31,0,Jump Shot,16,24,163,True
+Serge Ibaka,3,2,27,0,Jump Shot,14,-139,48,True
+Serge Ibaka,1,11,42,1,Jump Shot,25,-207,147,False
+Serge Ibaka,3,8,40,0,Jump Shot,24,-232,67,False
+Serge Ibaka,1,6,13,0,Jump Shot,26,-196,172,False
+Serge Ibaka,1,9,58,0,Jump Shot,23,230,32,False
+Serge Ibaka,1,3,28,1,Jump Shot,23,-232,6,False
+Serge Ibaka,3,5,3,0,Jump Shot,25,-81,245,False
+Serge Ibaka,3,10,50,1,Jump Shot,26,79,250,False
+Serge Ibaka,4,3,17,1,Jump Shot,17,-8,173,True
+Serge Ibaka,4,6,5,1,Jump Shot,20,63,190,True
+Serge Ibaka,1,5,54,1,Jump Shot,25,165,200,False
+Serge Ibaka,1,9,46,1,Jump Shot,19,65,181,True
+Serge Ibaka,1,6,24,0,Jump Shot,23,-236,-4,False
+Serge Ibaka,2,4,52,1,Jump Shot,27,-105,256,False
+Serge Ibaka,1,6,19,0,Jump Shot,22,-229,1,False
+Serge Ibaka,3,6,37,1,Jump Shot,23,236,14,False
+Serge Ibaka,1,4,28,0,Jump Shot,27,-180,211,False
+Serge Ibaka,1,8,37,0,Jump Shot,25,-85,240,False
+Serge Ibaka,2,2,28,0,Jump Shot,16,-161,24,True
+Serge Ibaka,3,5,59,1,Jump Shot,25,-160,204,False
+Serge Ibaka,2,5,30,1,Jump Shot,17,-67,160,True
+Serge Ibaka,2,1,45,0,Jump Shot,27,-29,269,False
+Serge Ibaka,3,3,55,1,Jump Shot,18,28,183,True
+Serge Ibaka,2,1,3,1,Jump Shot,15,157,21,True
+Serge Ibaka,3,7,5,0,Jump Shot,25,210,137,False
+Serge Ibaka,2,1,50,1,Jump Shot,24,-107,225,False
+Serge Ibaka,2,1,10,0,Jump Shot,24,-196,154,False
+Serge Ibaka,2,0,25,0,Jump Shot,25,-95,239,False
+Serge Ibaka,3,10,56,1,Jump Shot,24,-166,178,False
+Serge Ibaka,1,11,35,1,Jump Shot,24,-201,147,False
+Serge Ibaka,2,3,54,1,Jump Shot,18,-186,23,True
+Serge Ibaka,1,10,41,0,Jump Shot,17,101,146,True
+Serge Ibaka,2,2,58,1,Jump Shot,22,-223,6,False
+Serge Ibaka,5,2,58,0,Jump Shot,24,-182,169,False
+Serge Ibaka,5,1,6,0,Jump Shot,23,-217,101,False
+Serge Ibaka,1,5,53,1,Jump Shot,15,149,27,True
+Serge Ibaka,3,6,15,0,Jump Shot,24,-209,125,False
+Serge Ibaka,3,6,30,1,Jump Shot,26,185,187,False
+Serge Ibaka,1,9,56,0,Jump Shot,25,-160,200,False
+Serge Ibaka,3,10,58,1,Jump Shot,24,29,248,False
+Serge Ibaka,1,3,38,0,Jump Shot,19,9,190,True
+Serge Ibaka,2,3,29,1,Jump Shot,13,-131,41,True
+Serge Ibaka,2,1,10,1,Jump Shot,15,-68,134,True
+Serge Ibaka,2,2,10,1,Jump Shot,19,-121,148,True
+Serge Ibaka,1,6,30,0,Jump Shot,24,-49,243,False
+Serge Ibaka,3,4,53,1,Jump Shot,19,-128,142,True
+Serge Ibaka,2,4,17,0,Jump Shot,24,-107,219,False
+Serge Ibaka,1,9,41,1,Jump Shot,17,-27,177,True
+Serge Ibaka,3,2,55,0,Jump Shot,22,227,4,False
+Serge Ibaka,1,3,56,1,Jump Shot,13,-29,135,True
+Serge Ibaka,3,7,51,0,Jump Shot,26,109,242,False
+Serge Ibaka,3,6,0,1,Jump Shot,22,229,20,False
+Serge Ibaka,3,4,41,0,Jump Shot,11,114,16,True
+Serge Ibaka,1,8,49,1,Jump Shot,25,-154,202,False
+Serge Ibaka,2,0,6,1,Jump Shot,24,209,137,False
+Serge Ibaka,3,8,40,0,Jump Shot,24,-124,215,False
+Serge Ibaka,1,2,50,0,Jump Shot,25,-9,256,False
+Serge Ibaka,1,4,21,0,Jump Shot,22,-229,-3,False
+Serge Ibaka,2,4,43,0,Jump Shot,17,71,162,True
+Serge Ibaka,1,7,57,1,Jump Shot,20,92,180,True
+Serge Ibaka,3,8,5,0,Jump Shot,25,107,236,False
+Serge Ibaka,2,4,7,1,Jump Shot,25,-187,180,False
+Serge Ibaka,1,10,11,1,Jump Shot,11,114,23,True
+Serge Ibaka,1,8,3,0,Jump Shot,26,-169,202,False
+Serge Ibaka,1,5,19,0,Jump Shot,13,16,136,True
+Serge Ibaka,3,10,59,1,Jump Shot,26,-172,205,False
+Serge Ibaka,3,7,39,0,Jump Shot,25,-81,243,False
+Serge Ibaka,1,6,16,0,Jump Shot,26,180,201,False
+Serge Ibaka,3,11,48,1,Jump Shot,13,131,1,True
+Serge Ibaka,3,8,10,0,Jump Shot,18,-121,146,True
+Serge Ibaka,1,11,48,1,Jump Shot,28,121,256,False
+Serge Ibaka,4,0,36,0,Jump Shot,24,236,58,False
+Serge Ibaka,4,1,32,0,Jump Shot,25,-171,194,False
+Serge Ibaka,1,5,34,1,Jump Shot,16,-161,50,True
+Serge Ibaka,2,3,5,1,Jump Shot,16,-48,157,True
+Serge Ibaka,2,5,31,1,Jump Shot,24,130,210,False
+Serge Ibaka,1,5,44,1,Jump Shot,20,-90,185,True
+Serge Ibaka,3,10,35,0,Jump Shot,25,224,116,False
+Serge Ibaka,2,3,34,1,Jump Shot,18,-107,147,True
+Serge Ibaka,1,11,43,0,Jump Shot,25,-134,212,False
+Serge Ibaka,1,6,14,1,Jump Shot,22,-224,2,False
+Serge Ibaka,3,7,9,0,Jump Shot,13,46,124,True
+Serge Ibaka,1,6,47,1,Jump Shot,25,92,241,False
+Serge Ibaka,1,7,59,0,Jump Shot,23,-231,-7,False
+Serge Ibaka,3,9,55,1,Jump Shot,18,-96,154,True
+Serge Ibaka,2,1,22,0,Jump Shot,26,126,234,False
+Serge Ibaka,1,11,15,0,Jump Shot,13,68,119,True
+Serge Ibaka,2,3,18,0,Jump Shot,26,-189,187,False
+Serge Ibaka,1,4,27,1,Jump Shot,27,136,236,False
+Serge Ibaka,3,11,11,1,Jump Shot,13,46,126,True
+Serge Ibaka,2,3,30,1,Jump Shot,24,-105,225,False
+Serge Ibaka,2,1,15,0,Jump Shot,25,151,201,False
+Serge Ibaka,1,9,34,0,Jump Shot,25,-68,243,False
+Serge Ibaka,3,10,40,1,Jump Shot,18,-130,137,True
+Serge Ibaka,3,9,31,0,Jump Shot,25,196,164,False
+Serge Ibaka,4,0,9,0,Jump Shot,27,204,177,False
+Serge Ibaka,4,6,44,0,Jump Shot,4,7,40,True
+Serge Ibaka,4,4,27,0,Jump Shot,25,164,197,False
+Serge Ibaka,2,5,55,1,Jump Shot,22,-226,34,False
+Serge Ibaka,3,2,23,1,Jump Shot,24,-169,177,False
+Serge Ibaka,1,5,29,0,Jump Shot,24,-229,88,False
+Serge Ibaka,1,4,57,1,Jump Shot,23,-230,25,False
+Serge Ibaka,4,0,40,1,Jump Shot,24,-111,221,False
+Serge Ibaka,3,5,29,1,Jump Shot,25,120,225,False
+Serge Ibaka,2,3,3,0,Jump Shot,25,206,148,False
+Serge Ibaka,1,9,47,0,Jump Shot,24,-208,122,False
+Serge Ibaka,2,3,45,1,Jump Shot,24,54,243,False
+Serge Ibaka,1,11,37,1,Jump Shot,21,86,193,True
+Serge Ibaka,1,8,24,1,Jump Shot,12,-63,104,True
+Serge Ibaka,4,0,23,0,Jump Shot,16,5,162,True
+Serge Ibaka,2,1,59,1,Jump Shot,27,-82,265,False
+Serge Ibaka,1,7,10,1,Jump Shot,26,-88,247,False
+Serge Ibaka,3,6,59,1,Jump Shot,21,-100,190,True
+Serge Ibaka,1,8,59,0,Jump Shot,17,179,18,True
+Serge Ibaka,1,11,44,0,Jump Shot,26,-110,244,False
+Serge Ibaka,2,4,2,1,Jump Shot,25,92,237,False
+Serge Ibaka,1,10,20,1,Jump Shot,20,13,201,True
+Serge Ibaka,2,4,41,1,Jump Shot,19,71,179,True
+Serge Ibaka,3,3,52,0,Jump Shot,25,-138,216,False
+Serge Ibaka,2,0,27,1,Jump Shot,25,-166,187,False
+Serge Ibaka,2,6,35,0,Jump Shot,25,-16,252,False
+Serge Ibaka,3,9,20,1,Jump Shot,17,103,136,True
+Serge Ibaka,1,11,44,0,Jump Shot,24,-158,187,False
+Serge Ibaka,1,5,6,0,Jump Shot,16,-76,148,True
+Serge Ibaka,3,3,55,1,Jump Shot,25,74,247,False
+Serge Ibaka,1,6,10,0,Jump Shot,26,-79,257,False
+Serge Ibaka,1,10,28,1,Jump Shot,25,161,195,False
+Serge Ibaka,4,1,33,0,Jump Shot,19,114,162,True
+Serge Ibaka,3,7,8,1,Jump Shot,24,-133,209,False
+Serge Ibaka,3,4,15,0,Jump Shot,15,0,155,True
+Serge Ibaka,4,4,52,0,Jump Shot,25,-13,252,False
+Serge Ibaka,4,5,26,0,Jump Shot,20,5,201,True
+Serge Ibaka,3,11,2,0,Jump Shot,25,110,231,False
+Serge Ibaka,4,2,4,0,Jump Shot,17,66,162,True
+Serge Ibaka,2,1,21,0,Jump Shot,25,-55,251,False
+Serge Ibaka,1,5,28,1,Jump Shot,11,108,38,True
+Serge Ibaka,4,3,38,1,Jump Shot,19,28,190,True
+Serge Ibaka,3,9,10,0,Jump Shot,16,0,166,True
+Serge Ibaka,1,9,2,1,Jump Shot,13,114,73,True
+Serge Ibaka,1,6,19,0,Jump Shot,16,-25,168,True
+Serge Ibaka,1,9,48,0,Jump Shot,25,200,155,False
+Serge Ibaka,3,11,32,1,Jump Shot,18,131,135,True
+Serge Ibaka,3,10,18,0,Jump Shot,24,-200,138,False
+Serge Ibaka,1,4,15,0,Jump Shot,24,15,249,False
+Serge Ibaka,2,1,35,0,Jump Shot,17,-20,169,True
+Serge Ibaka,4,6,4,0,Jump Shot,14,-68,132,True
+Serge Ibaka,2,2,21,0,Jump Shot,15,129,78,True
+Serge Ibaka,2,6,15,1,Jump Shot,17,-172,37,True
+Serge Ibaka,2,3,51,0,Jump Shot,16,3,168,True
+Serge Ibaka,3,7,30,0,Jump Shot,22,-223,-10,False
+Serge Ibaka,5,3,5,0,Jump Shot,25,-80,240,False
+Serge Ibaka,1,5,58,1,Jump Shot,15,100,115,True
+Serge Ibaka,3,5,29,0,Jump Shot,25,-53,248,False
+Serge Ibaka,3,7,52,0,Jump Shot,12,-81,89,True
+Serge Ibaka,3,9,50,0,Jump Shot,29,-176,232,False
+Serge Ibaka,4,3,29,0,Jump Shot,19,-155,126,True
+Serge Ibaka,1,9,39,0,Jump Shot,25,-136,221,False
+Serge Ibaka,2,5,20,1,Jump Shot,17,-75,163,True
+Serge Ibaka,2,2,14,0,Jump Shot,17,158,68,True
+Serge Ibaka,4,9,14,1,Jump Shot,16,-18,159,True
+Serge Ibaka,1,7,26,0,Jump Shot,24,-112,220,False
+Serge Ibaka,4,4,3,0,Jump Shot,18,60,180,True
+Serge Ibaka,3,8,15,0,Jump Shot,25,-142,209,False
+Serge Ibaka,1,6,38,0,Jump Shot,24,-109,224,False
+Serge Ibaka,1,3,26,0,Jump Shot,25,-113,229,False
+Serge Ibaka,1,9,26,0,Jump Shot,16,100,132,True
+Serge Ibaka,4,6,39,1,Jump Shot,19,-40,188,True
+Serge Ibaka,2,3,44,0,Jump Shot,12,-120,-4,True
+Serge Ibaka,4,0,18,0,Jump Shot,22,-229,-3,False
+Serge Ibaka,4,8,28,1,Jump Shot,16,-22,162,True
+Serge Ibaka,1,2,39,0,Jump Shot,25,156,202,False
+Serge Ibaka,4,2,23,0,Jump Shot,25,191,171,False
+Serge Ibaka,1,6,50,0,Jump Shot,26,-134,228,False
+Serge Ibaka,1,8,20,1,Jump Shot,26,167,210,False
+Serge Ibaka,1,8,41,0,Jump Shot,25,129,225,False
+Serge Ibaka,4,5,29,0,Jump Shot,19,71,183,True
+Serge Ibaka,3,11,19,0,Jump Shot,25,-104,238,False
+Serge Ibaka,2,0,49,1,Jump Shot,25,94,237,False
+Serge Ibaka,4,5,6,0,Jump Shot,23,233,53,False
+Serge Ibaka,1,6,4,1,Jump Shot,24,-161,187,False
+Serge Ibaka,3,3,27,1,Jump Shot,10,105,-16,True
+Serge Ibaka,3,7,15,0,Jump Shot,25,-206,157,False
+Serge Ibaka,2,4,14,1,Jump Shot,24,158,193,False
+Serge Ibaka,1,7,14,1,Jump Shot,26,-155,220,False
+Serge Ibaka,2,0,34,1,Jump Shot,5,33,50,True
+Serge Ibaka,2,2,4,0,Jump Shot,17,143,109,True
+Serge Ibaka,1,5,54,1,Jump Shot,25,-204,155,False
+Serge Ibaka,1,8,20,0,Jump Shot,25,78,246,False
+Serge Ibaka,1,10,19,0,Jump Shot,27,133,235,False
+Serge Ibaka,3,9,25,1,Jump Shot,23,230,20,False
+Serge Ibaka,1,7,42,0,Jump Shot,25,-12,254,False
+Serge Ibaka,4,2,6,1,Jump Shot,23,-231,-8,False
+Serge Ibaka,2,3,23,0,Jump Shot,17,147,91,True
+Serge Ibaka,4,5,19,0,Jump Shot,17,-120,131,True
+Serge Ibaka,2,3,39,1,Jump Shot,15,-2,153,True
+Serge Ibaka,1,9,34,0,Jump Shot,27,-170,216,False
+Serge Ibaka,3,8,48,1,Jump Shot,25,160,197,False
+Serge Ibaka,4,5,45,0,Jump Shot,26,-131,232,False
+Serge Ibaka,3,6,16,1,Jump Shot,21,-218,-8,False
+Serge Ibaka,3,7,28,0,Jump Shot,25,-57,252,False
+Serge Ibaka,4,5,28,0,Jump Shot,25,-180,185,False
+Serge Ibaka,3,10,37,1,Jump Shot,26,-138,221,False
+Serge Ibaka,3,9,35,0,Jump Shot,27,6,274,False
+Serge Ibaka,3,11,6,1,Jump Shot,26,-11,264,False
+Serge Ibaka,1,7,21,0,Jump Shot,27,169,215,False
+Serge Ibaka,1,3,58,1,Jump Shot,25,212,140,False
+Serge Ibaka,3,10,14,0,Jump Shot,24,-112,221,False
+Serge Ibaka,3,5,38,0,Jump Shot,25,225,126,False
+Serge Ibaka,1,10,22,1,Jump Shot,16,-5,163,True
+Serge Ibaka,3,9,44,1,Jump Shot,25,-161,196,False
+Serge Ibaka,2,2,14,0,Jump Shot,23,-231,-20,False
+Serge Ibaka,3,10,20,0,Jump Shot,23,-231,-4,False
+Serge Ibaka,2,0,27,0,Jump Shot,25,191,173,False
+Serge Ibaka,3,7,10,1,Jump Shot,10,19,99,True
+Serge Ibaka,3,11,25,1,Jump Shot,26,-161,215,False
+Serge Ibaka,1,6,34,0,Jump Shot,23,-231,-4,False
+Serge Ibaka,1,11,19,0,Jump Shot,25,137,211,False
+Serge Ibaka,3,9,50,0,Jump Shot,17,-172,2,True
+Serge Ibaka,1,10,13,0,Jump Shot,26,-2,269,False
+Serge Ibaka,2,0,53,0,Jump Shot,17,-114,139,True
+Serge Ibaka,3,11,27,0,Jump Shot,26,108,242,False
+Serge Ibaka,1,5,38,0,Jump Shot,25,217,129,False
+Serge Ibaka,1,7,42,1,Jump Shot,23,228,43,False
+Serge Ibaka,1,6,41,0,Jump Shot,26,-117,235,False
+Serge Ibaka,3,10,7,0,Jump Shot,24,-127,215,False
+Serge Ibaka,3,5,49,0,Jump Shot,18,-179,22,True
+Serge Ibaka,1,11,10,0,Jump Shot,24,-3,247,False
+Serge Ibaka,1,9,24,1,Jump Shot,16,-2,163,True
+Serge Ibaka,3,5,59,0,Jump Shot,26,117,236,False
+Serge Ibaka,2,7,46,1,Jump Shot,24,117,219,False
+Serge Ibaka,1,5,16,0,Jump Shot,24,36,245,False
+Serge Ibaka,1,8,8,1,Jump Shot,24,212,122,False
+Serge Ibaka,3,8,59,0,Jump Shot,25,-203,159,False
+Serge Ibaka,3,11,42,0,Jump Shot,25,90,236,False
+Serge Ibaka,2,4,16,1,Jump Shot,26,-61,257,False
+Serge Ibaka,3,11,45,1,Jump Shot,25,232,109,False
+Serge Ibaka,2,6,58,0,Jump Shot,23,230,7,False
+Serge Ibaka,1,10,56,0,Jump Shot,26,27,263,False
+Serge Ibaka,1,8,17,0,Jump Shot,25,114,226,False
+Serge Ibaka,3,8,5,1,Jump Shot,23,225,59,False
+Serge Ibaka,2,1,24,0,Jump Shot,24,211,133,False
+Serge Ibaka,3,11,9,1,Jump Shot,13,-117,63,True
+Serge Ibaka,2,2,56,0,Jump Shot,14,139,48,True
+Serge Ibaka,3,5,45,0,Jump Shot,14,-149,8,True
+Serge Ibaka,1,3,45,1,Jump Shot,24,212,130,False
+Serge Ibaka,1,4,40,0,Jump Shot,16,-153,73,True
+Serge Ibaka,1,6,33,0,Jump Shot,25,40,251,False
+Serge Ibaka,3,9,32,1,Jump Shot,26,127,230,False
+Serge Ibaka,4,2,2,0,Jump Shot,17,104,137,True
+Serge Ibaka,2,6,31,0,Jump Shot,25,101,239,False
+Serge Ibaka,3,4,4,0,Jump Shot,27,-106,251,False
+Serge Ibaka,4,1,22,0,Jump Shot,16,142,88,True
+Serge Ibaka,1,11,38,0,Jump Shot,16,-61,148,True
+Serge Ibaka,1,7,47,0,Jump Shot,26,-161,210,False
+Serge Ibaka,3,7,9,1,Jump Shot,15,36,152,True
+Serge Ibaka,3,11,4,0,Jump Shot,25,54,248,False
+Serge Ibaka,3,0,33,1,Jump Shot,24,-41,246,False
+Serge Ibaka,1,9,37,0,Jump Shot,27,-177,205,False
+Serge Ibaka,3,8,50,0,Jump Shot,25,-217,143,False
+Serge Ibaka,1,11,9,1,Jump Shot,23,-232,6,False
+Serge Ibaka,3,5,30,0,Jump Shot,26,127,235,False
+Serge Ibaka,2,5,39,1,Jump Shot,15,23,157,True
+Serge Ibaka,1,5,29,1,Jump Shot,19,0,198,True
+Serge Ibaka,2,4,58,0,Jump Shot,20,-6,207,True
+Serge Ibaka,1,8,58,0,Jump Shot,18,-112,143,True
+Serge Ibaka,2,0,56,0,Jump Shot,25,-179,183,False
+Serge Ibaka,4,5,30,1,Jump Shot,22,-122,184,True
+Serge Ibaka,4,1,3,0,Jump Shot,16,-128,104,True
+Serge Ibaka,2,2,30,1,Jump Shot,26,-20,268,False
+Serge Ibaka,4,2,38,0,Jump Shot,22,-226,1,False
+Serge Ibaka,2,0,49,0,Jump Shot,24,-132,211,False
+Serge Ibaka,2,4,41,0,Jump Shot,14,129,60,True
+Serge Ibaka,3,7,41,0,Jump Shot,25,-190,163,False
+Serge Ibaka,4,1,11,0,Jump Shot,25,-84,239,False
+Serge Ibaka,3,3,14,0,Jump Shot,25,-5,256,False
+Serge Ibaka,2,3,58,0,Jump Shot,24,79,233,False
+Serge Ibaka,3,10,55,0,Jump Shot,25,-228,105,False
+Serge Ibaka,3,7,54,1,Jump Shot,13,-121,56,True
+Serge Ibaka,2,1,52,1,Jump Shot,16,117,116,True
+Serge Ibaka,3,9,29,0,Jump Shot,14,143,10,True
+Serge Ibaka,2,1,14,0,Jump Shot,1,5,16,True
+Serge Ibaka,2,1,54,0,Jump Shot,18,16,183,True
+Serge Ibaka,1,8,10,1,Jump Shot,25,-59,245,False
+Serge Ibaka,1,3,22,0,Jump Shot,26,-55,255,False
+Serge Ibaka,4,2,44,0,Jump Shot,17,165,49,True
+Serge Ibaka,4,7,2,1,Jump Shot,15,8,159,True
+Serge Ibaka,1,9,11,0,Jump Shot,25,-103,232,False
+Serge Ibaka,3,7,39,0,Jump Shot,25,-128,219,False
+Serge Ibaka,2,1,11,0,Jump Shot,26,-39,260,False
+Serge Ibaka,3,8,22,1,Jump Shot,26,101,243,False
+Serge Ibaka,2,1,46,1,Jump Shot,14,-85,114,True
+Serge Ibaka,1,11,18,0,Jump Shot,19,74,185,True
+Serge Ibaka,2,4,35,1,Jump Shot,24,-107,221,False
+Serge Ibaka,3,8,33,0,Jump Shot,26,-166,205,False
+Serge Ibaka,1,4,11,1,Jump Shot,15,24,157,True
+Serge Ibaka,3,5,24,1,Jump Shot,25,27,257,False
+Serge Ibaka,1,4,9,1,Jump Shot,25,148,208,False
+Serge Ibaka,1,7,41,1,Jump Shot,24,-162,190,False
+Serge Ibaka,4,7,23,1,Jump Shot,17,-70,164,True
+Serge Ibaka,1,6,10,0,Jump Shot,15,-70,142,True
+Serge Ibaka,3,9,8,1,Jump Shot,16,123,114,True
+Serge Ibaka,3,8,17,1,Jump Shot,25,100,236,False
+Serge Ibaka,3,5,56,1,Jump Shot,16,141,77,True
+Serge Ibaka,1,9,46,0,Jump Shot,24,238,44,False
+Serge Ibaka,1,10,4,0,Layup Shot,3,-13,34,True
+Serge Ibaka,2,1,40,1,Layup Shot,1,10,13,True
+Serge Ibaka,4,6,55,0,Layup Shot,2,-27,2,True
+Serge Ibaka,2,4,19,1,Layup Shot,1,11,5,True
+Serge Ibaka,1,10,50,0,Layup Shot,1,-8,10,True
+Serge Ibaka,3,4,30,0,Layup Shot,1,10,5,True
+Serge Ibaka,1,6,35,0,Layup Shot,2,0,27,True
+Serge Ibaka,1,8,22,1,Layup Shot,3,33,1,True
+Serge Ibaka,1,4,54,1,Layup Shot,1,8,16,True
+Serge Ibaka,4,3,16,1,Layup Shot,3,7,37,True
+Serge Ibaka,3,2,38,1,Layup Shot,0,3,9,True
+Serge Ibaka,2,0,44,0,Layup Shot,9,-41,83,True
+Serge Ibaka,4,6,59,0,Layup Shot,6,16,65,True
+Serge Ibaka,3,6,11,0,Layup Shot,2,13,23,True
+Serge Ibaka,3,10,6,1,Pullup Jump shot,9,93,13,True
+Serge Ibaka,1,2,7,0,Pullup Jump shot,10,106,20,True
+Serge Ibaka,2,4,7,0,Pullup Jump shot,15,-127,80,True
+Serge Ibaka,3,9,44,1,Pullup Jump shot,19,165,106,True
+Serge Ibaka,3,10,46,0,Pullup Jump shot,10,-97,29,True
+Serge Ibaka,3,11,11,0,Pullup Jump shot,26,-169,204,False
+Serge Ibaka,1,10,3,1,Pullup Jump shot,16,102,130,True
+Serge Ibaka,4,11,0,0,Pullup Jump shot,18,139,122,True
+Serge Ibaka,2,2,17,0,Pullup Jump shot,7,64,41,True
+Serge Ibaka,1,4,23,0,Pullup Jump shot,19,52,185,True
+Serge Ibaka,4,5,0,1,Pullup Jump shot,18,150,105,True
+Serge Ibaka,1,9,52,1,Pullup Jump shot,13,-19,132,True
+Serge Ibaka,3,5,49,0,Pullup Jump shot,16,160,2,True
+Serge Ibaka,4,3,1,0,Pullup Jump shot,19,109,161,True
+Serge Ibaka,3,11,20,1,Pullup Jump shot,18,126,142,True
+Serge Ibaka,1,9,56,1,Pullup Jump shot,5,49,23,True
+Serge Ibaka,3,6,51,1,Pullup Jump shot,14,139,42,True
+Serge Ibaka,1,2,6,1,Pullup Jump shot,18,-137,126,True
+Serge Ibaka,2,2,2,0,Pullup Jump shot,11,-103,61,True
+Serge Ibaka,1,3,40,0,Pullup Jump shot,26,121,234,False
+Serge Ibaka,1,5,43,1,Pullup Jump shot,18,154,110,True
+Serge Ibaka,3,11,4,0,Pullup Jump shot,18,-129,134,True
+Serge Ibaka,1,10,53,1,Pullup Jump shot,16,161,-5,True
+Serge Ibaka,2,1,5,1,Pullup Jump shot,14,138,52,True
+Serge Ibaka,1,3,9,0,Pullup Jump shot,25,-61,249,False
+Serge Ibaka,1,9,13,1,Pullup Jump shot,6,51,41,True
+Serge Ibaka,3,9,6,1,Pullup Jump shot,13,-111,79,True
+Serge Ibaka,2,3,21,0,Pullup Jump shot,16,63,149,True
+Serge Ibaka,5,1,48,0,Pullup Jump shot,10,105,18,True
+Serge Ibaka,3,7,45,1,Pullup Jump shot,18,105,155,True
+Serge Ibaka,3,7,57,1,Putback Layup Shot,0,0,-6,True
+Serge Ibaka,3,6,6,1,Putback Layup Shot,0,0,-6,True
+Serge Ibaka,1,10,21,0,Putback Layup Shot,2,2,20,True
+Serge Ibaka,4,2,9,0,Putback Layup Shot,2,8,25,True
+Serge Ibaka,1,5,20,1,Putback Layup Shot,0,-6,6,True
+Serge Ibaka,2,3,37,1,Putback Layup Shot,0,0,-6,True
+Serge Ibaka,2,5,35,1,Putback Layup Shot,1,13,8,True
+Serge Ibaka,3,7,54,1,Putback Layup Shot,2,-18,10,True
+Serge Ibaka,3,9,45,1,Putback Layup Shot,0,-5,6,True
+Serge Ibaka,2,3,39,0,Putback Layup Shot,1,9,13,True
+Serge Ibaka,2,0,52,1,Putback Layup Shot,0,3,3,True
+Serge Ibaka,2,0,53,0,Reverse Layup Shot,1,-10,15,True
+Serge Ibaka,3,5,14,1,Running Alley Oop Dunk Shot,1,5,9,True
+Serge Ibaka,3,3,27,1,Running Dunk Shot,1,11,10,True
+Serge Ibaka,2,4,53,1,Running Dunk Shot,0,7,-2,True
+Serge Ibaka,2,0,2,1,Running Dunk Shot,1,-1,10,True
+Serge Ibaka,4,2,32,1,Running Dunk Shot,2,-1,22,True
+Serge Ibaka,1,8,28,1,Running Dunk Shot,2,-6,21,True
+Serge Ibaka,1,6,23,1,Running Dunk Shot,1,2,13,True
+Serge Ibaka,2,7,46,1,Running Dunk Shot,2,-2,21,True
+Serge Ibaka,2,6,52,1,Running Jump Shot,6,48,37,True
+Serge Ibaka,2,2,15,0,Running Jump Shot,25,40,253,False
+Serge Ibaka,2,7,17,1,Running Jump Shot,25,96,233,False
+Serge Ibaka,2,7,40,1,Running Jump Shot,23,-230,2,False
+Serge Ibaka,1,7,41,0,Running Jump Shot,21,113,181,True
+Serge Ibaka,3,9,24,0,Running Jump Shot,24,186,164,False
+Serge Ibaka,2,3,40,0,Running Jump Shot,25,-202,158,False
+Serge Ibaka,2,5,27,0,Running Jump Shot,25,-191,169,False
+Serge Ibaka,3,6,42,0,Running Jump Shot,25,190,167,False
+Serge Ibaka,1,9,6,0,Running Jump Shot,25,157,200,False
+Serge Ibaka,3,10,21,1,Running Jump Shot,26,172,200,False
+Serge Ibaka,3,8,13,0,Running Jump Shot,24,-143,199,False
+Serge Ibaka,1,7,40,1,Running Jump Shot,25,-114,225,False
+Serge Ibaka,1,7,25,1,Running Jump Shot,24,-177,176,False
+Serge Ibaka,3,4,20,1,Running Jump Shot,24,-212,116,False
+Serge Ibaka,1,10,43,1,Running Jump Shot,25,-14,257,False
+Serge Ibaka,2,5,19,0,Running Layup Shot,3,31,22,True
+Serge Ibaka,3,10,25,1,Running Layup Shot,1,2,16,True
+Serge Ibaka,2,5,27,1,Running Layup Shot,1,0,11,True
+Serge Ibaka,2,1,27,0,Step Back Jump shot,25,54,253,False
+Serge Ibaka,4,3,2,0,Step Back Jump shot,24,94,222,False
+Serge Ibaka,1,8,56,1,Step Back Jump shot,13,101,89,True
+Serge Ibaka,1,9,30,1,Step Back Jump shot,26,133,231,False
+Serge Ibaka,2,3,15,1,Tip Dunk Shot,0,0,-6,True
+Serge Ibaka,4,1,31,0,Tip Layup Shot,0,0,-6,True
+Serge Ibaka,3,8,58,0,Tip Layup Shot,0,0,-6,True
+Serge Ibaka,4,3,27,1,Tip Layup Shot,0,0,-6,True
+Serge Ibaka,4,5,17,0,Tip Layup Shot,0,0,-6,True
+Serge Ibaka,3,3,23,1,Tip Layup Shot,0,0,-6,True
+Serge Ibaka,1,9,26,0,Tip Layup Shot,2,-1,25,True
+Serge Ibaka,3,7,36,0,Tip Layup Shot,0,0,-6,True
+Serge Ibaka,3,3,54,1,Tip Layup Shot,0,0,-6,True
+Serge Ibaka,4,6,54,1,Turnaround Fadeaway Bank Jump Shot,11,56,103,True
+Serge Ibaka,1,5,39,1,Turnaround Fadeaway shot,10,107,4,True
+Serge Ibaka,3,2,56,1,Turnaround Fadeaway shot,12,-129,10,True
+Serge Ibaka,1,7,18,0,Turnaround Fadeaway shot,10,30,97,True
+Serge Ibaka,1,5,6,1,Turnaround Fadeaway shot,11,0,119,True
+Serge Ibaka,4,4,46,0,Turnaround Fadeaway shot,9,-95,15,True
+Serge Ibaka,1,10,42,1,Turnaround Fadeaway shot,12,4,120,True
+Serge Ibaka,1,8,47,1,Turnaround Fadeaway shot,18,59,172,True
+Serge Ibaka,3,4,1,1,Turnaround Fadeaway shot,9,-8,97,True
+Serge Ibaka,2,1,8,1,Turnaround Fadeaway shot,16,67,147,True
+Serge Ibaka,4,1,38,1,Turnaround Fadeaway shot,8,-74,34,True
+Serge Ibaka,1,9,32,1,Turnaround Fadeaway shot,11,-63,100,True
+Serge Ibaka,2,8,2,0,Turnaround Fadeaway shot,13,-134,26,True
+Serge Ibaka,2,1,3,0,Turnaround Fadeaway shot,15,116,106,True
+Serge Ibaka,1,9,53,0,Turnaround Fadeaway shot,9,93,18,True
+Serge Ibaka,3,9,55,0,Turnaround Fadeaway shot,10,-96,46,True
+Serge Ibaka,2,1,15,1,Turnaround Hook Shot,0,4,4,True
+Serge Ibaka,1,4,28,1,Turnaround Hook Shot,7,5,77,True
+Serge Ibaka,1,10,46,0,Turnaround Hook Shot,3,-2,36,True
+Serge Ibaka,1,9,56,0,Turnaround Hook Shot,7,63,33,True
+Serge Ibaka,2,4,46,0,Turnaround Hook Shot,2,0,21,True
+Serge Ibaka,4,5,48,1,Turnaround Hook Shot,2,19,15,True
+Serge Ibaka,1,8,43,1,Turnaround Hook Shot,5,-51,9,True
+Serge Ibaka,2,3,1,0,Turnaround Hook Shot,6,-3,69,True
+Serge Ibaka,1,6,23,0,Turnaround Hook Shot,8,-83,3,True
+Serge Ibaka,2,2,16,0,Turnaround Hook Shot,8,51,62,True
+Serge Ibaka,3,2,36,1,Turnaround Hook Shot,3,-29,8,True
+Serge Ibaka,2,0,57,1,Turnaround Hook Shot,6,3,68,True
+Serge Ibaka,1,4,14,1,Turnaround Hook Shot,5,8,58,True
+Serge Ibaka,1,6,4,0,Turnaround Jump Shot,15,79,131,True
+Serge Ibaka,2,4,4,0,Turnaround Jump Shot,12,50,116,True
+Serge Ibaka,3,11,20,1,Turnaround Jump Shot,11,-101,55,True
+Serge Ibaka,1,10,47,1,Turnaround Jump Shot,7,37,68,True
+Serge Ibaka,1,7,23,1,Turnaround Jump Shot,12,-19,120,True
+Serge Ibaka,2,5,2,0,Turnaround Jump Shot,13,-138,12,True
+Serge Ibaka,1,5,5,0,Turnaround Jump Shot,10,-11,109,True
+Serge Ibaka,1,10,41,0,Turnaround Jump Shot,15,76,133,True
+Serge Ibaka,2,1,8,0,Turnaround Jump Shot,12,-123,33,True
+Serge Ibaka,3,10,24,1,Turnaround Jump Shot,9,96,12,True
+Serge Ibaka,1,7,39,1,Turnaround Jump Shot,14,72,124,True
+Serge Ibaka,1,8,13,1,Turnaround Jump Shot,18,-109,149,True
+Serge Ibaka,3,2,51,0,Turnaround Jump Shot,14,-106,103,True
+Serge Ibaka,1,3,11,0,Turnaround Jump Shot,11,45,111,True
+Serge Ibaka,2,5,47,1,Turnaround Jump Shot,7,73,8,True
+Serge Ibaka,3,9,31,1,Turnaround Jump Shot,10,-101,41,True
+Serge Ibaka,3,6,34,0,Turnaround Jump Shot,14,70,130,True
+Serge Ibaka,1,7,15,0,Turnaround Jump Shot,14,-134,41,True
+Serge Ibaka,1,5,9,0,Turnaround Jump Shot,9,-73,59,True
+Serge Ibaka,2,3,40,0,Turnaround Jump Shot,15,-155,18,True
+Serge Ibaka,1,10,16,0,Turnaround Jump Shot,14,-57,131,True
+Serge Ibaka,1,9,33,0,Turnaround Jump Shot,15,-8,154,True
+Serge Ibaka,1,10,37,0,Turnaround Jump Shot,13,58,121,True
+Serge Ibaka,3,8,17,0,Turnaround Jump Shot,8,-83,4,True
+Serge Ibaka,4,0,39,1,Turnaround Jump Shot,14,-144,34,True
+Serge Ibaka,3,2,7,0,Turnaround Jump Shot,9,90,41,True
+Serge Ibaka,3,7,10,0,Turnaround Jump Shot,13,-35,132,True
+Serge Ibaka,3,2,34,0,Turnaround Jump Shot,12,109,67,True
+Serge Ibaka,1,10,14,1,Turnaround Jump Shot,12,-52,111,True
+Serge Ibaka,5,3,56,1,Turnaround Jump Shot,12,-122,13,True

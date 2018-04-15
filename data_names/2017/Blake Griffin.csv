@@ -1,0 +1,898 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Blake Griffin,3,1,1,0,Alley Oop Dunk Shot,0,-2,2,True
+Blake Griffin,4,8,59,0,Alley Oop Dunk Shot,2,-7,23,True
+Blake Griffin,3,9,21,0,Alley Oop Layup shot,0,-3,8,True
+Blake Griffin,2,0,58,1,Cutting Dunk Shot,1,5,14,True
+Blake Griffin,1,1,46,0,Cutting Dunk Shot,0,-3,8,True
+Blake Griffin,1,6,46,1,Cutting Dunk Shot,0,-3,8,True
+Blake Griffin,1,8,58,1,Cutting Dunk Shot,0,-4,9,True
+Blake Griffin,1,7,51,1,Cutting Dunk Shot,2,3,21,True
+Blake Griffin,1,2,30,1,Cutting Dunk Shot,1,6,11,True
+Blake Griffin,3,5,18,1,Cutting Dunk Shot,0,4,8,True
+Blake Griffin,1,1,55,1,Cutting Finger Roll Layup Shot,0,3,8,True
+Blake Griffin,3,4,59,1,Cutting Finger Roll Layup Shot,1,3,10,True
+Blake Griffin,2,4,28,1,Cutting Layup Shot,2,0,21,True
+Blake Griffin,2,3,7,1,Cutting Layup Shot,2,-23,17,True
+Blake Griffin,4,7,19,1,Cutting Layup Shot,1,-9,12,True
+Blake Griffin,4,4,1,1,Cutting Layup Shot,2,9,22,True
+Blake Griffin,3,3,45,1,Cutting Layup Shot,1,-9,10,True
+Blake Griffin,3,6,18,1,Cutting Layup Shot,2,14,21,True
+Blake Griffin,3,7,58,1,Cutting Layup Shot,1,-14,5,True
+Blake Griffin,2,8,3,1,Cutting Layup Shot,0,-3,9,True
+Blake Griffin,4,1,10,1,Cutting Layup Shot,1,-5,11,True
+Blake Griffin,1,5,5,1,Cutting Layup Shot,2,7,20,True
+Blake Griffin,1,10,7,1,Cutting Layup Shot,1,9,14,True
+Blake Griffin,2,6,12,1,Cutting Layup Shot,1,0,12,True
+Blake Griffin,2,2,6,1,Cutting Layup Shot,4,26,34,True
+Blake Griffin,1,11,8,0,Cutting Layup Shot,2,8,22,True
+Blake Griffin,2,1,56,0,Cutting Layup Shot,1,-14,0,True
+Blake Griffin,1,3,38,1,Driving Dunk Shot,1,3,11,True
+Blake Griffin,4,5,48,1,Driving Dunk Shot,0,3,2,True
+Blake Griffin,1,1,35,1,Driving Dunk Shot,0,-1,0,True
+Blake Griffin,2,0,0,1,Driving Dunk Shot,0,3,3,True
+Blake Griffin,3,6,40,1,Driving Dunk Shot,1,4,10,True
+Blake Griffin,2,0,2,1,Driving Dunk Shot,0,-5,6,True
+Blake Griffin,2,1,14,1,Driving Dunk Shot,1,2,11,True
+Blake Griffin,2,1,43,1,Driving Dunk Shot,0,-1,6,True
+Blake Griffin,3,2,16,1,Driving Dunk Shot,1,6,11,True
+Blake Griffin,1,5,46,1,Driving Dunk Shot,2,-22,-5,True
+Blake Griffin,3,9,11,1,Driving Dunk Shot,2,-20,9,True
+Blake Griffin,4,6,42,1,Driving Dunk Shot,1,-9,12,True
+Blake Griffin,2,4,37,1,Driving Dunk Shot,2,16,14,True
+Blake Griffin,4,7,39,1,Driving Dunk Shot,0,0,8,True
+Blake Griffin,3,3,30,1,Driving Dunk Shot,1,-5,15,True
+Blake Griffin,1,11,47,1,Driving Dunk Shot,0,7,-5,True
+Blake Griffin,3,6,58,1,Driving Dunk Shot,0,-7,-1,True
+Blake Griffin,4,11,21,1,Driving Dunk Shot,0,2,4,True
+Blake Griffin,1,9,18,1,Driving Dunk Shot,0,4,6,True
+Blake Griffin,1,3,21,1,Driving Dunk Shot,0,-4,6,True
+Blake Griffin,3,4,46,1,Driving Dunk Shot,0,0,7,True
+Blake Griffin,2,6,4,0,Driving Finger Roll Layup Shot,0,-8,5,True
+Blake Griffin,3,5,51,1,Driving Finger Roll Layup Shot,0,7,5,True
+Blake Griffin,4,1,6,1,Driving Finger Roll Layup Shot,1,-3,13,True
+Blake Griffin,2,1,18,1,Driving Finger Roll Layup Shot,1,2,16,True
+Blake Griffin,3,2,40,0,Driving Finger Roll Layup Shot,3,11,29,True
+Blake Griffin,3,4,46,1,Driving Finger Roll Layup Shot,1,-5,16,True
+Blake Griffin,2,2,49,0,Driving Finger Roll Layup Shot,3,-5,37,True
+Blake Griffin,2,0,1,1,Driving Finger Roll Layup Shot,2,8,19,True
+Blake Griffin,1,3,36,1,Driving Finger Roll Layup Shot,1,12,11,True
+Blake Griffin,1,8,13,1,Driving Floating Bank Jump Shot,5,-52,29,True
+Blake Griffin,3,4,10,1,Driving Floating Bank Jump Shot,3,30,24,True
+Blake Griffin,1,1,32,0,Driving Floating Bank Jump Shot,4,-43,16,True
+Blake Griffin,4,2,48,0,Driving Floating Bank Jump Shot,4,-39,28,True
+Blake Griffin,3,5,55,0,Driving Floating Bank Jump Shot,2,12,24,True
+Blake Griffin,3,10,31,1,Driving Floating Bank Jump Shot,5,40,43,True
+Blake Griffin,4,0,21,1,Driving Floating Bank Jump Shot,3,23,27,True
+Blake Griffin,1,10,37,1,Driving Floating Bank Jump Shot,6,10,62,True
+Blake Griffin,3,4,56,0,Driving Floating Bank Jump Shot,6,-56,37,True
+Blake Griffin,2,7,54,0,Driving Floating Bank Jump Shot,1,-2,15,True
+Blake Griffin,2,6,51,1,Driving Floating Jump Shot,4,32,30,True
+Blake Griffin,1,1,20,1,Driving Floating Jump Shot,3,2,39,True
+Blake Griffin,3,7,18,0,Driving Hook Shot,3,-35,11,True
+Blake Griffin,1,4,33,1,Driving Hook Shot,7,-8,79,True
+Blake Griffin,1,6,1,1,Driving Hook Shot,3,17,26,True
+Blake Griffin,1,8,17,1,Driving Hook Shot,4,0,40,True
+Blake Griffin,3,1,18,0,Driving Hook Shot,5,-5,52,True
+Blake Griffin,3,1,21,1,Driving Hook Shot,4,18,36,True
+Blake Griffin,2,4,48,0,Driving Hook Shot,6,-5,62,True
+Blake Griffin,4,9,38,1,Driving Hook Shot,2,0,27,True
+Blake Griffin,1,8,0,1,Driving Hook Shot,2,9,20,True
+Blake Griffin,4,4,43,0,Driving Hook Shot,6,29,58,True
+Blake Griffin,3,7,43,0,Driving Hook Shot,3,32,7,True
+Blake Griffin,4,4,45,1,Driving Hook Shot,2,-2,22,True
+Blake Griffin,4,8,54,1,Driving Hook Shot,5,-16,49,True
+Blake Griffin,2,5,7,0,Driving Hook Shot,2,18,22,True
+Blake Griffin,3,11,7,1,Driving Hook Shot,6,25,63,True
+Blake Griffin,1,5,29,1,Driving Hook Shot,1,11,0,True
+Blake Griffin,4,2,15,0,Driving Hook Shot,3,7,30,True
+Blake Griffin,2,2,38,1,Driving Hook Shot,6,12,67,True
+Blake Griffin,1,4,24,1,Driving Layup Shot,4,41,22,True
+Blake Griffin,2,3,50,1,Driving Layup Shot,2,-12,20,True
+Blake Griffin,3,8,36,1,Driving Layup Shot,0,6,1,True
+Blake Griffin,2,1,52,0,Driving Layup Shot,3,18,29,True
+Blake Griffin,4,7,9,1,Driving Layup Shot,0,-6,2,True
+Blake Griffin,3,7,37,1,Driving Layup Shot,0,5,-1,True
+Blake Griffin,2,2,5,1,Driving Layup Shot,2,2,21,True
+Blake Griffin,2,3,26,1,Driving Layup Shot,2,-5,20,True
+Blake Griffin,2,3,50,1,Driving Layup Shot,2,6,21,True
+Blake Griffin,2,4,45,0,Driving Layup Shot,0,-2,9,True
+Blake Griffin,3,11,29,1,Driving Layup Shot,2,0,20,True
+Blake Griffin,3,7,48,1,Driving Layup Shot,3,-13,29,True
+Blake Griffin,1,4,8,1,Driving Layup Shot,2,21,21,True
+Blake Griffin,2,5,2,1,Driving Layup Shot,0,-8,5,True
+Blake Griffin,4,2,57,0,Driving Layup Shot,3,-4,30,True
+Blake Griffin,2,4,23,1,Driving Layup Shot,2,-7,21,True
+Blake Griffin,2,3,47,0,Driving Layup Shot,6,-63,17,True
+Blake Griffin,3,10,41,1,Driving Layup Shot,1,-14,5,True
+Blake Griffin,2,6,36,1,Driving Layup Shot,1,4,16,True
+Blake Griffin,1,3,25,0,Driving Layup Shot,1,0,16,True
+Blake Griffin,4,2,19,0,Driving Layup Shot,1,-14,7,True
+Blake Griffin,3,10,52,0,Driving Layup Shot,3,-4,30,True
+Blake Griffin,1,3,22,1,Driving Layup Shot,1,-8,16,True
+Blake Griffin,1,2,26,1,Driving Layup Shot,1,-13,5,True
+Blake Griffin,3,8,49,1,Driving Layup Shot,3,2,31,True
+Blake Griffin,1,5,20,0,Driving Layup Shot,3,-5,34,True
+Blake Griffin,1,4,20,1,Driving Layup Shot,3,-38,-3,True
+Blake Griffin,2,0,37,1,Driving Layup Shot,3,10,32,True
+Blake Griffin,4,11,3,1,Driving Layup Shot,2,-14,20,True
+Blake Griffin,2,9,2,1,Driving Layup Shot,0,-9,0,True
+Blake Griffin,1,11,11,0,Driving Layup Shot,2,-4,20,True
+Blake Griffin,4,4,7,1,Driving Layup Shot,2,-19,9,True
+Blake Griffin,1,5,31,0,Driving Layup Shot,1,-15,6,True
+Blake Griffin,1,3,57,1,Driving Layup Shot,3,-3,33,True
+Blake Griffin,3,10,18,1,Driving Layup Shot,1,3,12,True
+Blake Griffin,2,0,53,1,Driving Layup Shot,1,6,13,True
+Blake Griffin,2,6,44,0,Driving Layup Shot,4,-16,42,True
+Blake Griffin,2,0,52,1,Driving Layup Shot,0,1,-5,True
+Blake Griffin,3,4,24,0,Driving Layup Shot,4,-39,15,True
+Blake Griffin,1,6,33,1,Driving Layup Shot,1,15,2,True
+Blake Griffin,1,10,3,0,Driving Layup Shot,8,41,76,True
+Blake Griffin,3,10,55,1,Driving Layup Shot,1,8,12,True
+Blake Griffin,2,4,48,1,Driving Layup Shot,0,4,9,True
+Blake Griffin,2,2,10,0,Driving Layup Shot,3,24,22,True
+Blake Griffin,2,2,53,0,Driving Layup Shot,3,-32,6,True
+Blake Griffin,4,7,15,1,Driving Layup Shot,1,-13,-1,True
+Blake Griffin,1,10,30,1,Driving Layup Shot,0,-1,6,True
+Blake Griffin,1,2,6,0,Driving Layup Shot,1,5,16,True
+Blake Griffin,1,1,1,1,Driving Layup Shot,2,11,25,True
+Blake Griffin,3,11,1,0,Driving Layup Shot,4,6,41,True
+Blake Griffin,1,11,8,0,Driving Layup Shot,5,58,1,True
+Blake Griffin,3,7,24,1,Driving Layup Shot,0,3,1,True
+Blake Griffin,3,1,24,1,Driving Layup Shot,2,-24,17,True
+Blake Griffin,4,5,8,1,Driving Layup Shot,1,2,15,True
+Blake Griffin,4,0,16,1,Driving Layup Shot,1,0,14,True
+Blake Griffin,1,6,49,0,Driving Layup Shot,5,18,51,True
+Blake Griffin,4,8,13,1,Driving Layup Shot,1,11,11,True
+Blake Griffin,1,7,43,1,Driving Layup Shot,0,-9,0,True
+Blake Griffin,4,6,50,0,Driving Layup Shot,2,-21,13,True
+Blake Griffin,1,9,46,0,Driving Layup Shot,3,9,30,True
+Blake Griffin,3,4,0,0,Driving Layup Shot,2,-14,16,True
+Blake Griffin,4,3,22,0,Driving Layup Shot,2,-25,-4,True
+Blake Griffin,4,4,40,1,Driving Layup Shot,2,-18,14,True
+Blake Griffin,1,6,33,0,Driving Layup Shot,2,-2,20,True
+Blake Griffin,1,3,24,1,Driving Layup Shot,1,11,3,True
+Blake Griffin,2,4,36,1,Driving Layup Shot,1,-14,8,True
+Blake Griffin,1,4,28,0,Driving Layup Shot,3,-28,13,True
+Blake Griffin,4,5,4,1,Driving Layup Shot,2,-14,18,True
+Blake Griffin,2,2,1,0,Driving Layup Shot,3,8,35,True
+Blake Griffin,1,6,10,1,Driving Layup Shot,1,-12,6,True
+Blake Griffin,2,6,0,0,Driving Layup Shot,1,-5,16,True
+Blake Griffin,1,10,10,1,Driving Layup Shot,2,9,23,True
+Blake Griffin,3,5,15,0,Driving Reverse Dunk Shot,3,9,31,True
+Blake Griffin,2,0,43,0,Driving Reverse Layup Shot,1,13,12,True
+Blake Griffin,4,6,0,0,Driving Reverse Layup Shot,1,-14,4,True
+Blake Griffin,3,2,14,1,Driving Reverse Layup Shot,1,13,10,True
+Blake Griffin,1,1,47,1,Driving Reverse Layup Shot,0,2,9,True
+Blake Griffin,2,0,33,1,Driving Reverse Layup Shot,2,13,22,True
+Blake Griffin,3,0,58,0,Driving Reverse Layup Shot,1,3,15,True
+Blake Griffin,1,4,1,0,Driving Reverse Layup Shot,1,-11,13,True
+Blake Griffin,3,3,20,0,Driving Reverse Layup Shot,1,5,14,True
+Blake Griffin,2,6,28,1,Dunk Shot,1,-10,1,True
+Blake Griffin,1,0,45,1,Dunk Shot,2,9,21,True
+Blake Griffin,2,3,40,0,Dunk Shot,1,6,18,True
+Blake Griffin,5,2,4,0,Dunk Shot,5,-31,48,True
+Blake Griffin,3,5,29,1,Dunk Shot,0,-2,5,True
+Blake Griffin,1,10,42,1,Dunk Shot,1,-4,17,True
+Blake Griffin,3,4,47,1,Dunk Shot,2,-6,25,True
+Blake Griffin,1,6,42,0,Dunk Shot,1,9,17,True
+Blake Griffin,3,8,13,1,Dunk Shot,0,-6,7,True
+Blake Griffin,2,4,6,1,Dunk Shot,9,51,84,True
+Blake Griffin,3,4,11,1,Dunk Shot,1,3,15,True
+Blake Griffin,4,10,1,1,Dunk Shot,2,-2,20,True
+Blake Griffin,3,3,32,1,Dunk Shot,1,2,15,True
+Blake Griffin,2,7,54,1,Fadeaway Jump Shot,14,-96,105,True
+Blake Griffin,3,3,7,1,Fadeaway Jump Shot,15,7,158,True
+Blake Griffin,1,10,3,0,Fadeaway Jump Shot,14,-106,93,True
+Blake Griffin,1,9,45,0,Fadeaway Jump Shot,10,99,43,True
+Blake Griffin,4,5,33,1,Fadeaway Jump Shot,9,4,91,True
+Blake Griffin,4,0,9,0,Fadeaway Jump Shot,9,9,99,True
+Blake Griffin,1,5,11,0,Fadeaway Jump Shot,13,-127,35,True
+Blake Griffin,1,9,46,0,Fadeaway Jump Shot,20,-101,184,True
+Blake Griffin,2,0,3,0,Fadeaway Jump Shot,14,-127,79,True
+Blake Griffin,2,1,18,0,Fadeaway Jump Shot,23,234,47,False
+Blake Griffin,3,9,55,0,Fadeaway Jump Shot,13,92,94,True
+Blake Griffin,4,0,3,0,Fadeaway Jump Shot,17,141,95,True
+Blake Griffin,2,6,16,0,Fadeaway Jump Shot,9,-93,-26,True
+Blake Griffin,4,2,15,0,Fadeaway Jump Shot,19,62,185,True
+Blake Griffin,3,10,18,1,Fadeaway Jump Shot,10,-107,13,True
+Blake Griffin,4,0,3,1,Fadeaway Jump Shot,10,-97,32,True
+Blake Griffin,2,10,10,0,Finger Roll Layup Shot,3,9,38,True
+Blake Griffin,2,3,35,1,Finger Roll Layup Shot,4,-9,41,True
+Blake Griffin,1,9,18,1,Finger Roll Layup Shot,2,1,20,True
+Blake Griffin,3,6,13,1,Finger Roll Layup Shot,2,-8,22,True
+Blake Griffin,1,6,53,1,Finger Roll Layup Shot,1,5,16,True
+Blake Griffin,3,9,30,1,Finger Roll Layup Shot,2,-7,23,True
+Blake Griffin,3,5,40,0,Floating Jump shot,8,-60,64,True
+Blake Griffin,3,11,34,0,Floating Jump shot,6,22,59,True
+Blake Griffin,4,4,28,0,Floating Jump shot,7,-45,65,True
+Blake Griffin,2,6,23,0,Floating Jump shot,8,-9,80,True
+Blake Griffin,3,3,50,0,Floating Jump shot,6,-54,34,True
+Blake Griffin,2,4,8,1,Floating Jump shot,4,17,41,True
+Blake Griffin,1,11,46,0,Floating Jump shot,5,-7,58,True
+Blake Griffin,1,3,25,1,Floating Jump shot,12,-1,123,True
+Blake Griffin,2,6,41,1,Floating Jump shot,7,-44,63,True
+Blake Griffin,1,7,26,0,Floating Jump shot,6,40,47,True
+Blake Griffin,1,4,18,1,Floating Jump shot,6,0,66,True
+Blake Griffin,3,10,0,0,Floating Jump shot,3,2,33,True
+Blake Griffin,3,3,18,0,Floating Jump shot,10,-16,99,True
+Blake Griffin,3,3,23,1,Hook Bank Shot,7,-6,71,True
+Blake Griffin,1,6,53,1,Hook Bank Shot,1,9,5,True
+Blake Griffin,1,5,54,0,Hook Bank Shot,2,27,4,True
+Blake Griffin,2,9,56,1,Hook Bank Shot,9,-84,52,True
+Blake Griffin,4,3,28,0,Hook Shot,6,-19,62,True
+Blake Griffin,3,3,11,0,Hook Shot,6,-55,42,True
+Blake Griffin,4,2,12,0,Hook Shot,10,-41,100,True
+Blake Griffin,3,7,22,0,Hook Shot,3,-1,33,True
+Blake Griffin,2,10,25,0,Hook Shot,11,-2,116,True
+Blake Griffin,2,5,1,1,Hook Shot,4,22,36,True
+Blake Griffin,1,5,22,1,Hook Shot,5,14,52,True
+Blake Griffin,4,5,58,0,Hook Shot,13,127,32,True
+Blake Griffin,2,7,12,0,Hook Shot,4,24,32,True
+Blake Griffin,1,10,52,0,Hook Shot,5,-31,43,True
+Blake Griffin,1,3,13,0,Hook Shot,6,20,64,True
+Blake Griffin,2,7,7,0,Hook Shot,4,12,45,True
+Blake Griffin,3,11,43,0,Hook Shot,4,-7,41,True
+Blake Griffin,2,6,23,0,Hook Shot,6,-23,60,True
+Blake Griffin,1,5,28,1,Hook Shot,3,22,30,True
+Blake Griffin,4,5,50,0,Hook Shot,8,54,61,True
+Blake Griffin,4,5,38,1,Hook Shot,3,25,29,True
+Blake Griffin,3,11,39,0,Hook Shot,5,-19,56,True
+Blake Griffin,3,8,45,1,Hook Shot,2,14,25,True
+Blake Griffin,1,4,14,0,Hook Shot,6,5,66,True
+Blake Griffin,3,2,10,0,Hook Shot,8,-8,83,True
+Blake Griffin,2,3,23,1,Hook Shot,3,1,37,True
+Blake Griffin,4,0,36,0,Hook Shot,13,-72,110,True
+Blake Griffin,3,6,8,0,Hook Shot,9,-24,94,True
+Blake Griffin,1,5,38,0,Hook Shot,2,0,26,True
+Blake Griffin,2,4,51,0,Hook Shot,6,-24,56,True
+Blake Griffin,1,9,11,0,Hook Shot,2,5,21,True
+Blake Griffin,2,4,15,1,Hook Shot,4,2,42,True
+Blake Griffin,4,5,21,0,Hook Shot,9,-60,68,True
+Blake Griffin,2,4,55,0,Hook Shot,4,35,31,True
+Blake Griffin,2,2,59,1,Hook Shot,3,-9,35,True
+Blake Griffin,2,4,57,0,Hook Shot,6,2,62,True
+Blake Griffin,1,9,23,0,Hook Shot,2,1,24,True
+Blake Griffin,2,11,28,1,Hook Shot,7,-55,50,True
+Blake Griffin,4,1,11,0,Hook Shot,2,0,23,True
+Blake Griffin,4,4,40,0,Hook Shot,8,-2,81,True
+Blake Griffin,1,4,10,0,Hook Shot,10,3,107,True
+Blake Griffin,1,10,48,1,Hook Shot,6,20,67,True
+Blake Griffin,3,8,37,0,Hook Shot,6,19,64,True
+Blake Griffin,2,1,30,0,Hook Shot,5,52,0,True
+Blake Griffin,1,5,17,1,Hook Shot,2,-2,21,True
+Blake Griffin,3,6,43,0,Hook Shot,3,3,33,True
+Blake Griffin,4,11,31,0,Hook Shot,5,-45,39,True
+Blake Griffin,4,1,36,0,Hook Shot,9,-4,95,True
+Blake Griffin,3,9,23,1,Hook Shot,7,-44,58,True
+Blake Griffin,3,11,23,1,Jump Bank Shot,11,-95,66,True
+Blake Griffin,4,5,29,1,Jump Bank Shot,7,54,54,True
+Blake Griffin,4,6,30,0,Jump Bank Shot,17,-139,107,True
+Blake Griffin,1,3,7,1,Jump Bank Shot,8,-40,79,True
+Blake Griffin,4,3,48,1,Jump Bank Shot,18,107,153,True
+Blake Griffin,3,3,17,1,Jump Bank Shot,3,-27,14,True
+Blake Griffin,3,10,9,0,Jump Bank Shot,17,-134,106,True
+Blake Griffin,3,9,11,0,Jump Bank Shot,15,-124,99,True
+Blake Griffin,2,1,21,0,Jump Bank Shot,7,56,43,True
+Blake Griffin,1,3,15,1,Jump Shot,23,-227,40,False
+Blake Griffin,1,9,54,0,Jump Shot,25,-86,245,False
+Blake Griffin,2,5,30,1,Jump Shot,19,14,193,True
+Blake Griffin,4,8,43,0,Jump Shot,26,-51,263,False
+Blake Griffin,1,3,44,0,Jump Shot,22,-228,0,False
+Blake Griffin,4,4,36,1,Jump Shot,24,-16,249,False
+Blake Griffin,1,11,23,1,Jump Shot,24,103,224,False
+Blake Griffin,2,0,28,0,Jump Shot,25,-133,218,False
+Blake Griffin,1,10,2,0,Jump Shot,9,-89,43,True
+Blake Griffin,2,3,38,0,Jump Shot,25,72,240,False
+Blake Griffin,1,9,15,1,Jump Shot,25,-79,241,False
+Blake Griffin,1,8,53,0,Jump Shot,24,82,235,False
+Blake Griffin,1,9,45,0,Jump Shot,16,-11,167,True
+Blake Griffin,1,2,20,0,Jump Shot,19,23,194,True
+Blake Griffin,3,9,12,0,Jump Shot,24,20,249,False
+Blake Griffin,1,4,46,1,Jump Shot,24,-179,166,False
+Blake Griffin,3,9,25,0,Jump Shot,25,-188,168,False
+Blake Griffin,4,6,31,1,Jump Shot,25,-155,205,False
+Blake Griffin,4,4,41,1,Jump Shot,27,-40,272,False
+Blake Griffin,2,8,5,0,Jump Shot,25,-226,122,False
+Blake Griffin,3,4,45,0,Jump Shot,26,147,218,False
+Blake Griffin,1,8,13,0,Jump Shot,22,106,198,True
+Blake Griffin,4,4,12,1,Jump Shot,22,228,2,False
+Blake Griffin,3,3,17,0,Jump Shot,25,-164,189,False
+Blake Griffin,2,6,28,0,Jump Shot,5,45,29,True
+Blake Griffin,3,9,27,1,Jump Shot,24,93,230,False
+Blake Griffin,1,6,6,0,Jump Shot,24,-49,242,False
+Blake Griffin,4,8,8,0,Jump Shot,26,-68,253,False
+Blake Griffin,3,10,51,0,Jump Shot,20,129,155,True
+Blake Griffin,2,0,0,0,Jump Shot,68,-46,686,False
+Blake Griffin,2,3,1,1,Jump Shot,20,77,195,True
+Blake Griffin,1,10,21,0,Jump Shot,24,-112,222,False
+Blake Griffin,3,10,52,0,Jump Shot,25,-7,253,False
+Blake Griffin,4,6,48,0,Jump Shot,17,-101,143,True
+Blake Griffin,2,3,35,1,Jump Shot,25,-25,253,False
+Blake Griffin,1,8,47,0,Jump Shot,25,-152,203,False
+Blake Griffin,3,6,27,0,Jump Shot,26,189,185,False
+Blake Griffin,2,7,18,1,Jump Shot,24,224,92,False
+Blake Griffin,1,1,19,0,Jump Shot,25,58,251,False
+Blake Griffin,1,2,11,0,Jump Shot,24,107,224,False
+Blake Griffin,3,7,52,1,Jump Shot,26,-187,185,False
+Blake Griffin,2,3,24,1,Jump Shot,25,96,241,False
+Blake Griffin,3,9,23,1,Jump Shot,20,-62,193,True
+Blake Griffin,4,4,51,0,Jump Shot,27,-106,257,False
+Blake Griffin,3,10,33,0,Jump Shot,26,-68,261,False
+Blake Griffin,2,7,14,1,Jump Shot,25,-139,209,False
+Blake Griffin,1,9,55,0,Jump Shot,26,-176,201,False
+Blake Griffin,3,6,50,0,Jump Shot,26,-129,236,False
+Blake Griffin,3,5,2,1,Jump Shot,25,228,111,False
+Blake Griffin,2,5,13,1,Jump Shot,27,73,268,False
+Blake Griffin,2,5,27,1,Jump Shot,6,-29,60,True
+Blake Griffin,2,6,1,1,Jump Shot,7,-20,68,True
+Blake Griffin,3,8,20,1,Jump Shot,25,52,246,False
+Blake Griffin,1,3,30,0,Jump Shot,24,-239,32,False
+Blake Griffin,2,4,17,1,Jump Shot,25,-17,253,False
+Blake Griffin,1,6,36,0,Jump Shot,16,-152,76,True
+Blake Griffin,1,8,15,1,Jump Shot,23,-235,47,False
+Blake Griffin,2,2,22,0,Jump Shot,25,-119,222,False
+Blake Griffin,2,8,15,1,Jump Shot,24,199,145,False
+Blake Griffin,1,3,51,0,Jump Shot,25,130,218,False
+Blake Griffin,2,5,23,1,Jump Shot,25,-161,200,False
+Blake Griffin,3,8,21,0,Jump Shot,22,163,161,True
+Blake Griffin,2,3,43,0,Jump Shot,23,-230,37,False
+Blake Griffin,2,0,20,0,Jump Shot,29,-15,290,False
+Blake Griffin,3,3,43,0,Jump Shot,26,10,263,False
+Blake Griffin,3,10,7,0,Jump Shot,24,201,146,False
+Blake Griffin,3,6,34,1,Jump Shot,23,-230,16,False
+Blake Griffin,2,5,24,0,Jump Shot,25,-53,245,False
+Blake Griffin,1,4,35,0,Jump Shot,24,-134,206,False
+Blake Griffin,3,8,57,1,Jump Shot,26,144,218,False
+Blake Griffin,3,11,24,0,Jump Shot,26,-52,261,False
+Blake Griffin,2,7,35,0,Jump Shot,26,-109,238,False
+Blake Griffin,1,6,2,0,Jump Shot,15,46,146,True
+Blake Griffin,3,7,0,0,Jump Shot,26,-120,235,False
+Blake Griffin,3,10,37,0,Jump Shot,26,-63,261,False
+Blake Griffin,4,7,3,0,Jump Shot,25,119,230,False
+Blake Griffin,3,11,35,0,Jump Shot,14,77,120,True
+Blake Griffin,4,3,29,0,Jump Shot,24,-146,201,False
+Blake Griffin,1,8,14,0,Jump Shot,26,-40,262,False
+Blake Griffin,2,3,42,0,Jump Shot,25,133,223,False
+Blake Griffin,5,0,39,0,Jump Shot,26,-69,257,False
+Blake Griffin,4,1,4,1,Jump Shot,17,-162,78,True
+Blake Griffin,1,7,47,0,Jump Shot,19,107,165,True
+Blake Griffin,1,11,44,1,Jump Shot,20,-47,202,True
+Blake Griffin,3,8,50,0,Jump Shot,26,-18,260,False
+Blake Griffin,4,6,55,0,Jump Shot,26,-144,220,False
+Blake Griffin,2,1,34,1,Jump Shot,26,-130,227,False
+Blake Griffin,2,4,14,0,Jump Shot,18,-89,164,True
+Blake Griffin,1,7,28,1,Jump Shot,26,-9,269,False
+Blake Griffin,5,0,19,1,Jump Shot,25,-61,246,False
+Blake Griffin,4,2,50,1,Jump Shot,25,-2,257,False
+Blake Griffin,3,2,36,0,Jump Shot,24,17,247,False
+Blake Griffin,5,1,43,0,Jump Shot,27,-110,253,False
+Blake Griffin,5,2,40,0,Jump Shot,22,222,25,False
+Blake Griffin,2,5,25,0,Jump Shot,26,-138,222,False
+Blake Griffin,2,10,53,0,Jump Shot,10,62,88,True
+Blake Griffin,1,10,15,1,Jump Shot,25,-244,64,False
+Blake Griffin,3,9,28,0,Jump Shot,26,-203,165,False
+Blake Griffin,4,9,38,0,Jump Shot,27,19,278,False
+Blake Griffin,1,10,7,0,Jump Shot,25,-82,242,False
+Blake Griffin,3,8,43,0,Jump Shot,25,119,223,False
+Blake Griffin,4,4,35,0,Jump Shot,26,-92,245,False
+Blake Griffin,1,9,43,1,Jump Shot,24,-130,205,False
+Blake Griffin,1,7,10,0,Jump Shot,25,116,225,False
+Blake Griffin,3,10,59,0,Jump Shot,22,-225,-3,False
+Blake Griffin,1,6,28,0,Jump Shot,26,9,269,False
+Blake Griffin,4,6,14,1,Jump Shot,25,-189,176,False
+Blake Griffin,1,3,0,1,Jump Shot,24,-29,248,False
+Blake Griffin,2,6,17,0,Jump Shot,26,-177,197,False
+Blake Griffin,3,3,41,0,Jump Shot,20,103,178,True
+Blake Griffin,3,6,12,0,Jump Shot,25,-13,250,False
+Blake Griffin,1,6,51,1,Jump Shot,15,121,95,True
+Blake Griffin,4,7,5,0,Jump Shot,22,-224,47,False
+Blake Griffin,3,1,0,0,Jump Shot,25,-136,212,False
+Blake Griffin,3,9,48,0,Jump Shot,24,11,248,False
+Blake Griffin,4,4,30,0,Jump Shot,7,42,65,True
+Blake Griffin,3,4,23,0,Jump Shot,25,-24,258,False
+Blake Griffin,1,0,42,1,Jump Shot,25,-27,257,False
+Blake Griffin,1,0,56,1,Jump Shot,26,-190,188,False
+Blake Griffin,1,6,38,0,Jump Shot,20,-88,190,True
+Blake Griffin,3,3,49,0,Jump Shot,25,-86,243,False
+Blake Griffin,2,2,47,1,Jump Shot,25,67,249,False
+Blake Griffin,3,6,15,0,Jump Shot,25,-161,204,False
+Blake Griffin,3,10,34,0,Jump Shot,25,-97,234,False
+Blake Griffin,1,1,7,1,Jump Shot,26,102,249,False
+Blake Griffin,1,10,59,0,Jump Shot,24,218,106,False
+Blake Griffin,3,5,42,0,Jump Shot,23,-228,41,False
+Blake Griffin,4,5,55,0,Jump Shot,24,-206,138,False
+Blake Griffin,1,7,18,0,Jump Shot,25,55,247,False
+Blake Griffin,1,0,0,0,Jump Shot,29,-190,223,False
+Blake Griffin,2,1,11,0,Jump Shot,20,-32,205,True
+Blake Griffin,3,10,6,0,Jump Shot,21,-9,214,True
+Blake Griffin,1,9,30,1,Jump Shot,22,226,0,False
+Blake Griffin,4,1,43,0,Jump Shot,23,-232,22,False
+Blake Griffin,3,11,17,0,Jump Shot,25,26,249,False
+Blake Griffin,3,9,5,1,Jump Shot,25,-100,231,False
+Blake Griffin,1,4,51,0,Jump Shot,24,209,126,False
+Blake Griffin,3,4,5,1,Jump Shot,25,-11,256,False
+Blake Griffin,3,2,23,1,Jump Shot,25,-147,210,False
+Blake Griffin,4,5,52,0,Jump Shot,10,-76,78,True
+Blake Griffin,4,1,53,0,Jump Shot,20,-100,175,True
+Blake Griffin,3,9,32,0,Jump Shot,23,-230,43,False
+Blake Griffin,1,5,0,1,Jump Shot,18,20,183,True
+Blake Griffin,1,4,8,0,Jump Shot,25,85,245,False
+Blake Griffin,2,5,31,0,Jump Shot,25,147,203,False
+Blake Griffin,3,10,8,0,Jump Shot,25,-87,242,False
+Blake Griffin,1,0,57,1,Jump Shot,26,-24,259,False
+Blake Griffin,1,11,9,0,Jump Shot,26,125,230,False
+Blake Griffin,2,3,22,1,Jump Shot,26,-9,260,False
+Blake Griffin,3,8,17,1,Jump Shot,24,-113,218,False
+Blake Griffin,2,0,0,0,Jump Shot,69,2,695,False
+Blake Griffin,1,5,39,0,Jump Shot,11,-105,49,True
+Blake Griffin,1,4,5,0,Jump Shot,20,-33,205,True
+Blake Griffin,4,4,26,0,Jump Shot,23,-238,10,False
+Blake Griffin,1,4,19,0,Jump Shot,22,-21,219,True
+Blake Griffin,1,11,32,0,Jump Shot,25,-78,240,False
+Blake Griffin,3,9,40,0,Jump Shot,25,-136,218,False
+Blake Griffin,1,8,35,0,Jump Shot,9,90,20,True
+Blake Griffin,1,0,5,0,Jump Shot,24,-87,234,False
+Blake Griffin,3,3,17,1,Jump Shot,22,-229,-1,False
+Blake Griffin,4,9,22,0,Jump Shot,20,-14,201,True
+Blake Griffin,1,11,34,0,Jump Shot,8,-24,84,True
+Blake Griffin,2,1,59,1,Jump Shot,24,-112,222,False
+Blake Griffin,4,5,10,1,Jump Shot,25,-43,253,False
+Blake Griffin,4,1,46,0,Jump Shot,27,44,267,False
+Blake Griffin,1,10,32,0,Jump Shot,24,-143,205,False
+Blake Griffin,2,6,28,0,Jump Shot,25,-5,256,False
+Blake Griffin,4,0,17,0,Jump Shot,25,-68,243,False
+Blake Griffin,3,3,18,0,Jump Shot,23,-112,211,False
+Blake Griffin,2,4,29,0,Jump Shot,25,-93,234,False
+Blake Griffin,1,7,52,0,Jump Shot,21,103,188,True
+Blake Griffin,3,4,18,1,Jump Shot,24,-100,222,False
+Blake Griffin,2,7,3,0,Jump Shot,24,162,183,False
+Blake Griffin,1,2,52,1,Jump Shot,25,-11,254,False
+Blake Griffin,1,10,33,1,Jump Shot,25,8,257,False
+Blake Griffin,2,0,58,1,Jump Shot,25,202,148,False
+Blake Griffin,3,5,0,0,Jump Shot,26,-136,223,False
+Blake Griffin,1,7,0,0,Jump Shot,20,-35,198,True
+Blake Griffin,2,6,3,0,Jump Shot,24,-106,224,False
+Blake Griffin,3,6,12,0,Jump Shot,21,-92,193,True
+Blake Griffin,1,8,36,1,Jump Shot,25,-158,197,False
+Blake Griffin,4,9,31,0,Jump Shot,15,-115,100,True
+Blake Griffin,1,2,16,0,Jump Shot,25,-101,236,False
+Blake Griffin,2,7,5,0,Jump Shot,23,-225,54,False
+Blake Griffin,3,9,45,1,Jump Shot,25,-102,231,False
+Blake Griffin,4,1,36,0,Jump Shot,25,8,254,False
+Blake Griffin,1,5,53,1,Jump Shot,27,-161,225,False
+Blake Griffin,3,1,32,0,Jump Shot,27,-190,200,False
+Blake Griffin,1,9,47,0,Jump Shot,12,17,119,True
+Blake Griffin,3,9,13,0,Jump Shot,7,-38,59,True
+Blake Griffin,2,5,5,0,Jump Shot,19,-196,22,True
+Blake Griffin,2,3,59,0,Jump Shot,6,-2,63,True
+Blake Griffin,3,9,13,1,Jump Shot,25,-45,252,False
+Blake Griffin,1,8,21,1,Jump Shot,21,120,177,True
+Blake Griffin,3,7,13,1,Jump Shot,20,-115,174,True
+Blake Griffin,4,0,40,1,Jump Shot,25,145,214,False
+Blake Griffin,1,10,7,0,Jump Shot,19,-4,195,True
+Blake Griffin,1,3,58,1,Jump Shot,17,-13,171,True
+Blake Griffin,3,4,16,0,Jump Shot,25,45,251,False
+Blake Griffin,4,10,25,0,Jump Shot,26,9,262,False
+Blake Griffin,2,0,8,1,Jump Shot,25,-32,256,False
+Blake Griffin,3,11,36,1,Jump Shot,25,3,257,False
+Blake Griffin,2,5,57,0,Jump Shot,24,-59,241,False
+Blake Griffin,1,10,27,0,Jump Shot,27,-113,251,False
+Blake Griffin,3,11,27,0,Jump Shot,24,-234,63,False
+Blake Griffin,2,0,25,0,Jump Shot,27,119,252,False
+Blake Griffin,1,2,11,0,Jump Shot,27,-128,245,False
+Blake Griffin,3,3,26,0,Jump Shot,28,-100,272,False
+Blake Griffin,4,1,47,1,Jump Shot,25,-133,222,False
+Blake Griffin,4,0,39,0,Jump Shot,26,-125,236,False
+Blake Griffin,1,8,55,0,Jump Shot,27,-9,271,False
+Blake Griffin,1,7,19,0,Jump Shot,25,-92,235,False
+Blake Griffin,3,9,56,0,Jump Shot,18,-9,180,True
+Blake Griffin,2,0,4,0,Jump Shot,27,0,270,False
+Blake Griffin,1,2,1,0,Jump Shot,6,36,50,True
+Blake Griffin,4,1,49,0,Jump Shot,22,25,219,True
+Blake Griffin,3,11,22,0,Jump Shot,25,-166,191,False
+Blake Griffin,2,2,47,1,Jump Shot,17,-8,174,True
+Blake Griffin,4,8,33,1,Jump Shot,18,-27,186,True
+Blake Griffin,3,6,5,0,Jump Shot,17,20,172,True
+Blake Griffin,3,10,9,0,Jump Shot,17,-14,179,True
+Blake Griffin,3,7,24,0,Jump Shot,14,-130,67,True
+Blake Griffin,1,6,28,0,Jump Shot,26,-112,236,False
+Blake Griffin,2,0,59,0,Jump Shot,27,-223,167,False
+Blake Griffin,4,0,43,1,Jump Shot,26,-140,227,False
+Blake Griffin,2,6,18,0,Jump Shot,30,-90,291,False
+Blake Griffin,4,0,32,0,Jump Shot,27,123,243,False
+Blake Griffin,3,6,13,0,Jump Shot,26,107,243,False
+Blake Griffin,1,9,50,0,Jump Shot,26,-220,154,False
+Blake Griffin,1,7,58,0,Jump Shot,25,-111,227,False
+Blake Griffin,4,4,23,1,Jump Shot,26,-179,194,False
+Blake Griffin,4,0,43,1,Jump Shot,26,-175,199,False
+Blake Griffin,1,7,19,0,Jump Shot,26,139,222,False
+Blake Griffin,1,4,16,1,Jump Shot,25,-212,136,False
+Blake Griffin,2,1,48,0,Jump Shot,26,104,243,False
+Blake Griffin,1,9,19,0,Jump Shot,22,-122,192,True
+Blake Griffin,1,1,25,1,Jump Shot,25,-97,239,False
+Blake Griffin,1,2,38,1,Jump Shot,7,-53,59,True
+Blake Griffin,3,10,56,1,Jump Shot,27,-166,220,False
+Blake Griffin,4,1,34,0,Jump Shot,9,82,54,True
+Blake Griffin,2,5,23,0,Jump Shot,26,-102,243,False
+Blake Griffin,1,11,46,0,Jump Shot,14,-134,47,True
+Blake Griffin,4,6,46,1,Jump Shot,7,-32,63,True
+Blake Griffin,4,6,8,0,Jump Shot,18,-119,144,True
+Blake Griffin,2,6,25,0,Jump Shot,12,-123,32,True
+Blake Griffin,1,3,33,0,Jump Shot,19,-171,103,True
+Blake Griffin,3,10,22,0,Jump Shot,15,-143,48,True
+Blake Griffin,1,5,39,0,Jump Shot,24,-87,231,False
+Blake Griffin,2,7,26,0,Jump Shot,25,16,252,False
+Blake Griffin,3,1,33,0,Jump Shot,24,88,232,False
+Blake Griffin,4,5,5,0,Jump Shot,25,-42,248,False
+Blake Griffin,3,10,10,0,Jump Shot,25,-68,246,False
+Blake Griffin,1,8,21,0,Jump Shot,25,-145,205,False
+Blake Griffin,3,8,22,0,Jump Shot,19,-169,90,True
+Blake Griffin,4,2,53,0,Jump Shot,20,-173,119,True
+Blake Griffin,4,7,48,0,Jump Shot,19,149,122,True
+Blake Griffin,1,9,47,1,Jump Shot,23,-231,33,False
+Blake Griffin,1,6,50,0,Jump Shot,23,-229,31,False
+Blake Griffin,3,4,52,0,Jump Shot,25,14,251,False
+Blake Griffin,4,1,55,1,Jump Shot,24,-92,230,False
+Blake Griffin,2,2,2,0,Jump Shot,25,6,256,False
+Blake Griffin,1,9,19,0,Jump Shot,23,-230,33,False
+Blake Griffin,1,7,18,0,Jump Shot,25,-140,209,False
+Blake Griffin,3,0,6,1,Jump Shot,24,-168,181,False
+Blake Griffin,2,6,4,0,Jump Shot,25,-82,246,False
+Blake Griffin,2,0,46,1,Jump Shot,24,-146,198,False
+Blake Griffin,1,2,35,1,Jump Shot,26,112,243,False
+Blake Griffin,1,9,48,1,Jump Shot,22,-227,-2,False
+Blake Griffin,2,3,5,1,Jump Shot,23,232,14,False
+Blake Griffin,2,5,47,1,Jump Shot,25,-149,209,False
+Blake Griffin,3,4,20,0,Jump Shot,27,-128,244,False
+Blake Griffin,2,0,58,0,Jump Shot,26,142,225,False
+Blake Griffin,1,8,53,1,Jump Shot,24,9,240,False
+Blake Griffin,1,11,33,0,Jump Shot,24,-76,234,False
+Blake Griffin,1,4,42,1,Jump Shot,24,-35,246,False
+Blake Griffin,3,11,26,1,Jump Shot,15,96,126,True
+Blake Griffin,3,9,30,0,Jump Shot,25,-104,232,False
+Blake Griffin,4,7,58,0,Jump Shot,25,-167,187,False
+Blake Griffin,2,9,25,0,Jump Shot,25,179,178,False
+Blake Griffin,2,6,20,0,Jump Shot,26,-85,254,False
+Blake Griffin,3,6,57,0,Jump Shot,24,-129,213,False
+Blake Griffin,1,7,1,0,Jump Shot,7,78,5,True
+Blake Griffin,4,5,49,0,Jump Shot,24,-95,229,False
+Blake Griffin,3,6,1,0,Jump Shot,5,14,58,True
+Blake Griffin,1,5,6,0,Jump Shot,25,-47,253,False
+Blake Griffin,3,5,26,1,Jump Shot,24,-108,220,False
+Blake Griffin,3,1,57,1,Jump Shot,25,-123,219,False
+Blake Griffin,1,9,6,0,Jump Shot,23,-231,12,False
+Blake Griffin,1,3,30,0,Jump Shot,18,-70,167,True
+Blake Griffin,2,10,34,0,Jump Shot,17,-91,146,True
+Blake Griffin,1,5,49,0,Jump Shot,25,141,213,False
+Blake Griffin,1,4,51,1,Jump Shot,24,-74,229,False
+Blake Griffin,2,2,25,0,Jump Shot,25,-10,251,False
+Blake Griffin,2,4,16,0,Jump Shot,24,-51,236,False
+Blake Griffin,2,0,23,0,Jump Shot,25,214,142,False
+Blake Griffin,2,5,21,0,Jump Shot,24,238,41,False
+Blake Griffin,2,2,6,0,Jump Shot,25,-61,244,False
+Blake Griffin,4,5,19,0,Jump Shot,24,24,248,False
+Blake Griffin,3,10,17,0,Jump Shot,25,-155,199,False
+Blake Griffin,1,5,3,0,Jump Shot,24,-27,248,False
+Blake Griffin,3,6,51,1,Jump Shot,23,-232,22,False
+Blake Griffin,1,5,52,0,Jump Shot,17,142,98,True
+Blake Griffin,1,9,17,1,Jump Shot,6,-18,59,True
+Blake Griffin,1,10,46,0,Jump Shot,25,-3,252,False
+Blake Griffin,1,1,58,1,Jump Shot,24,46,241,False
+Blake Griffin,3,3,26,0,Jump Shot,22,226,15,False
+Blake Griffin,3,11,43,0,Jump Shot,25,70,243,False
+Blake Griffin,2,5,38,1,Jump Shot,25,-1,254,False
+Blake Griffin,1,3,57,0,Jump Shot,26,-41,258,False
+Blake Griffin,1,6,23,0,Jump Shot,18,133,127,True
+Blake Griffin,3,4,33,0,Jump Shot,29,-141,254,False
+Blake Griffin,4,5,23,0,Jump Shot,24,3,244,False
+Blake Griffin,2,6,29,1,Jump Shot,24,83,231,False
+Blake Griffin,1,11,48,0,Jump Shot,24,-179,173,False
+Blake Griffin,4,3,33,1,Jump Shot,26,115,240,False
+Blake Griffin,1,6,51,0,Jump Shot,25,168,197,False
+Blake Griffin,3,3,57,1,Jump Shot,25,-41,256,False
+Blake Griffin,4,4,49,0,Jump Shot,27,-104,251,False
+Blake Griffin,2,4,0,0,Jump Shot,25,-10,257,False
+Blake Griffin,2,1,48,1,Jump Shot,25,-36,253,False
+Blake Griffin,3,0,40,0,Jump Shot,25,-109,227,False
+Blake Griffin,1,3,12,0,Jump Shot,18,55,173,True
+Blake Griffin,3,4,25,0,Jump Shot,22,-5,225,True
+Blake Griffin,1,9,38,0,Jump Shot,24,-147,202,False
+Blake Griffin,3,5,12,1,Jump Shot,25,-81,241,False
+Blake Griffin,1,8,11,1,Jump Shot,25,-13,251,False
+Blake Griffin,2,0,1,1,Jump Shot,25,8,256,False
+Blake Griffin,4,3,27,0,Jump Shot,19,-56,185,True
+Blake Griffin,3,7,22,0,Jump Shot,26,93,246,False
+Blake Griffin,1,5,47,1,Jump Shot,24,-67,237,False
+Blake Griffin,4,0,43,0,Jump Shot,25,59,243,False
+Blake Griffin,2,4,11,0,Layup Shot,4,-36,27,True
+Blake Griffin,3,3,48,0,Layup Shot,3,-14,27,True
+Blake Griffin,3,9,1,0,Layup Shot,6,4,60,True
+Blake Griffin,3,10,59,0,Layup Shot,1,-1,11,True
+Blake Griffin,2,2,38,0,Layup Shot,2,-5,26,True
+Blake Griffin,1,4,46,0,Layup Shot,3,14,29,True
+Blake Griffin,1,5,18,0,Layup Shot,3,-30,14,True
+Blake Griffin,4,2,23,0,Layup Shot,3,-17,35,True
+Blake Griffin,3,10,12,1,Layup Shot,3,-11,34,True
+Blake Griffin,2,5,40,0,Layup Shot,1,-11,11,True
+Blake Griffin,2,6,47,0,Layup Shot,5,-3,54,True
+Blake Griffin,3,2,50,0,Layup Shot,2,11,17,True
+Blake Griffin,1,5,38,0,Layup Shot,5,35,38,True
+Blake Griffin,4,4,14,1,Layup Shot,9,5,94,True
+Blake Griffin,3,3,52,1,Layup Shot,1,11,7,True
+Blake Griffin,2,5,26,0,Layup Shot,5,48,34,True
+Blake Griffin,2,2,8,0,Layup Shot,3,8,31,True
+Blake Griffin,3,9,19,0,Layup Shot,4,-24,37,True
+Blake Griffin,1,3,17,0,Layup Shot,1,-11,14,True
+Blake Griffin,2,1,28,1,Layup Shot,2,18,10,True
+Blake Griffin,2,4,21,1,Layup Shot,2,-13,18,True
+Blake Griffin,4,8,54,0,Layup Shot,2,6,29,True
+Blake Griffin,1,5,15,1,Layup Shot,0,9,3,True
+Blake Griffin,3,6,30,1,Layup Shot,2,-6,25,True
+Blake Griffin,2,0,39,0,Layup Shot,2,-23,7,True
+Blake Griffin,4,5,54,1,Layup Shot,1,10,15,True
+Blake Griffin,2,1,6,1,Layup Shot,5,-17,53,True
+Blake Griffin,2,5,27,1,Layup Shot,2,-9,20,True
+Blake Griffin,3,5,42,1,Layup Shot,1,1,15,True
+Blake Griffin,3,1,20,0,Layup Shot,3,-30,12,True
+Blake Griffin,1,7,21,0,Layup Shot,1,-10,14,True
+Blake Griffin,3,2,11,0,Layup Shot,2,28,6,True
+Blake Griffin,1,7,0,1,Layup Shot,2,-18,22,True
+Blake Griffin,1,4,22,0,Layup Shot,2,14,20,True
+Blake Griffin,3,9,11,1,Layup Shot,0,-9,2,True
+Blake Griffin,4,1,46,0,Layup Shot,2,-24,5,True
+Blake Griffin,3,4,17,0,Layup Shot,1,14,8,True
+Blake Griffin,2,4,43,1,Layup Shot,0,3,4,True
+Blake Griffin,2,2,6,1,Layup Shot,2,-18,9,True
+Blake Griffin,3,3,27,1,Layup Shot,0,1,8,True
+Blake Griffin,1,11,13,0,Layup Shot,1,-11,9,True
+Blake Griffin,3,2,50,0,Layup Shot,3,29,16,True
+Blake Griffin,1,1,40,1,Layup Shot,1,-2,11,True
+Blake Griffin,4,5,47,1,Layup Shot,1,10,10,True
+Blake Griffin,1,9,42,1,Layup Shot,2,-12,22,True
+Blake Griffin,3,0,42,1,Layup Shot,1,-16,7,True
+Blake Griffin,1,1,47,1,Layup Shot,1,9,15,True
+Blake Griffin,4,2,49,1,Layup Shot,3,-18,35,True
+Blake Griffin,2,5,4,1,Layup Shot,1,-8,8,True
+Blake Griffin,1,10,23,0,Layup Shot,2,-18,11,True
+Blake Griffin,4,2,43,0,Layup Shot,2,-2,22,True
+Blake Griffin,4,3,34,0,Layup Shot,3,-20,26,True
+Blake Griffin,4,4,26,1,Layup Shot,1,9,6,True
+Blake Griffin,2,1,49,1,Layup Shot,1,3,16,True
+Blake Griffin,2,5,4,0,Layup Shot,2,-9,25,True
+Blake Griffin,2,0,45,0,Layup Shot,3,-8,36,True
+Blake Griffin,3,4,2,0,Layup Shot,5,-1,58,True
+Blake Griffin,3,3,1,1,Layup Shot,2,-19,7,True
+Blake Griffin,4,4,51,0,Layup Shot,1,10,4,True
+Blake Griffin,1,9,20,1,Layup Shot,1,-11,4,True
+Blake Griffin,3,7,16,1,Layup Shot,1,2,15,True
+Blake Griffin,3,0,5,0,Layup Shot,3,-13,28,True
+Blake Griffin,2,5,38,0,Layup Shot,3,28,20,True
+Blake Griffin,3,6,49,1,Layup Shot,1,-2,13,True
+Blake Griffin,2,8,20,1,Layup Shot,1,-13,5,True
+Blake Griffin,3,11,34,0,Layup Shot,2,-25,8,True
+Blake Griffin,3,9,43,0,Layup Shot,1,2,13,True
+Blake Griffin,1,9,38,1,Layup Shot,1,2,13,True
+Blake Griffin,3,11,29,1,Layup Shot,3,25,22,True
+Blake Griffin,2,2,48,0,Layup Shot,1,-4,15,True
+Blake Griffin,1,4,22,1,Layup Shot,5,-19,50,True
+Blake Griffin,3,11,12,1,Layup Shot,3,0,31,True
+Blake Griffin,1,5,22,1,Layup Shot,3,32,17,True
+Blake Griffin,3,3,19,0,Layup Shot,5,-27,43,True
+Blake Griffin,4,5,53,1,Layup Shot,4,-13,40,True
+Blake Griffin,4,4,53,0,Layup Shot,1,-12,7,True
+Blake Griffin,3,5,8,0,Layup Shot,1,16,-1,True
+Blake Griffin,1,8,4,0,Layup Shot,3,-30,26,True
+Blake Griffin,1,8,49,1,Layup Shot,1,-8,11,True
+Blake Griffin,1,4,16,0,Layup Shot,1,-11,14,True
+Blake Griffin,1,6,22,1,Layup Shot,2,11,17,True
+Blake Griffin,4,3,39,1,Layup Shot,3,21,22,True
+Blake Griffin,3,11,2,0,Layup Shot,4,-44,16,True
+Blake Griffin,3,5,18,0,Layup Shot,2,21,17,True
+Blake Griffin,3,6,36,0,Layup Shot,2,22,10,True
+Blake Griffin,1,10,25,1,Layup Shot,2,-22,8,True
+Blake Griffin,3,8,18,0,Layup Shot,4,19,39,True
+Blake Griffin,2,6,56,1,Pullup Jump shot,20,123,169,True
+Blake Griffin,1,4,45,0,Pullup Jump shot,24,-146,200,False
+Blake Griffin,4,0,0,1,Pullup Jump shot,25,-27,253,False
+Blake Griffin,4,5,29,1,Pullup Jump shot,17,-30,176,True
+Blake Griffin,2,10,57,1,Pullup Jump shot,18,-163,88,True
+Blake Griffin,4,1,4,0,Pullup Jump shot,24,-38,241,False
+Blake Griffin,4,5,39,1,Pullup Jump shot,18,-131,136,True
+Blake Griffin,1,9,16,0,Pullup Jump shot,24,60,242,False
+Blake Griffin,3,6,20,0,Pullup Jump shot,17,-55,164,True
+Blake Griffin,2,5,34,0,Pullup Jump shot,25,-11,251,False
+Blake Griffin,3,10,54,1,Pullup Jump shot,24,-93,228,False
+Blake Griffin,3,6,46,0,Pullup Jump shot,24,65,236,False
+Blake Griffin,2,3,21,0,Pullup Jump shot,16,128,109,True
+Blake Griffin,3,11,32,1,Pullup Jump shot,19,-143,126,True
+Blake Griffin,3,5,15,1,Pullup Jump shot,16,-20,165,True
+Blake Griffin,2,6,2,0,Pullup Jump shot,14,-13,147,True
+Blake Griffin,3,10,59,1,Pullup Jump shot,15,2,156,True
+Blake Griffin,4,0,50,0,Pullup Jump shot,25,-84,244,False
+Blake Griffin,4,0,0,1,Pullup Jump shot,24,-133,207,False
+Blake Griffin,2,7,32,0,Pullup Jump shot,20,-22,199,True
+Blake Griffin,1,11,24,0,Pullup Jump shot,14,-71,130,True
+Blake Griffin,2,0,35,1,Pullup Jump shot,24,-117,220,False
+Blake Griffin,4,0,44,0,Pullup Jump shot,17,-75,156,True
+Blake Griffin,2,7,44,0,Pullup Jump shot,18,-111,148,True
+Blake Griffin,1,5,9,1,Pullup Jump shot,26,163,205,False
+Blake Griffin,1,10,50,1,Pullup Jump shot,17,-29,175,True
+Blake Griffin,2,9,57,0,Pullup Jump shot,19,84,177,True
+Blake Griffin,3,6,5,0,Pullup Jump shot,25,-112,225,False
+Blake Griffin,1,5,31,0,Pullup Jump shot,16,39,156,True
+Blake Griffin,3,11,13,1,Pullup Jump shot,19,-36,195,True
+Blake Griffin,2,3,3,1,Pullup Jump shot,26,-150,216,False
+Blake Griffin,3,10,27,1,Pullup Jump shot,21,-141,168,True
+Blake Griffin,1,10,20,0,Pullup Jump shot,15,125,92,True
+Blake Griffin,2,3,44,0,Pullup Jump shot,17,151,95,True
+Blake Griffin,1,9,12,1,Pullup Jump shot,19,-52,184,True
+Blake Griffin,3,9,27,0,Pullup Jump shot,17,-116,130,True
+Blake Griffin,3,7,1,0,Pullup Jump shot,17,-10,171,True
+Blake Griffin,3,10,27,0,Pullup Jump shot,26,-71,253,False
+Blake Griffin,1,0,1,1,Pullup Jump shot,9,-79,47,True
+Blake Griffin,2,0,4,0,Pullup Jump shot,25,72,242,False
+Blake Griffin,1,2,48,0,Pullup Jump shot,24,-93,231,False
+Blake Griffin,3,8,20,0,Pullup Jump shot,27,141,231,False
+Blake Griffin,3,9,19,0,Pullup Jump shot,19,-137,133,True
+Blake Griffin,1,7,53,0,Pullup Jump shot,16,-44,164,True
+Blake Griffin,1,5,20,0,Pullup Jump shot,18,-16,184,True
+Blake Griffin,3,11,31,1,Pullup Jump shot,18,49,177,True
+Blake Griffin,1,0,48,0,Putback Dunk Shot,0,0,-6,True
+Blake Griffin,2,6,22,1,Putback Dunk Shot,0,0,6,True
+Blake Griffin,2,2,6,1,Putback Layup Shot,1,7,12,True
+Blake Griffin,4,5,57,1,Putback Layup Shot,0,-8,3,True
+Blake Griffin,1,4,42,0,Putback Layup Shot,0,0,-6,True
+Blake Griffin,2,6,0,0,Putback Layup Shot,1,-7,17,True
+Blake Griffin,1,4,2,0,Putback Layup Shot,2,11,27,True
+Blake Griffin,1,4,5,1,Putback Layup Shot,0,2,4,True
+Blake Griffin,4,4,52,1,Putback Layup Shot,0,8,-3,True
+Blake Griffin,2,6,21,1,Putback Layup Shot,0,0,-6,True
+Blake Griffin,1,2,10,0,Reverse Layup Shot,1,14,5,True
+Blake Griffin,3,1,23,0,Reverse Layup Shot,2,14,17,True
+Blake Griffin,3,5,44,0,Reverse Layup Shot,2,-24,2,True
+Blake Griffin,4,7,29,0,Reverse Layup Shot,1,11,14,True
+Blake Griffin,4,4,35,1,Reverse Layup Shot,1,10,1,True
+Blake Griffin,1,4,59,1,Reverse Layup Shot,2,16,13,True
+Blake Griffin,3,7,47,1,Reverse Layup Shot,1,3,13,True
+Blake Griffin,2,1,34,0,Reverse Layup Shot,0,-9,1,True
+Blake Griffin,4,1,25,1,Running Dunk Shot,1,-12,2,True
+Blake Griffin,3,8,4,1,Running Dunk Shot,1,13,15,True
+Blake Griffin,1,10,22,1,Running Dunk Shot,2,0,25,True
+Blake Griffin,3,6,41,1,Running Dunk Shot,1,6,10,True
+Blake Griffin,2,5,27,1,Running Dunk Shot,1,5,9,True
+Blake Griffin,1,7,3,0,Running Jump Shot,8,54,68,True
+Blake Griffin,2,0,0,0,Running Jump Shot,38,-206,324,False
+Blake Griffin,3,3,42,1,Running Layup Shot,1,12,9,True
+Blake Griffin,3,1,44,0,Running Layup Shot,2,20,10,True
+Blake Griffin,1,4,7,0,Running Layup Shot,2,-6,20,True
+Blake Griffin,3,4,27,1,Running Layup Shot,4,40,25,True
+Blake Griffin,2,4,41,1,Running Layup Shot,1,-6,11,True
+Blake Griffin,2,1,50,0,Running Layup Shot,2,-6,22,True
+Blake Griffin,5,1,21,1,Running Layup Shot,1,3,16,True
+Blake Griffin,1,9,20,1,Running Layup Shot,1,-2,11,True
+Blake Griffin,1,6,58,1,Running Layup Shot,0,3,5,True
+Blake Griffin,4,3,15,0,Running Layup Shot,4,-7,44,True
+Blake Griffin,1,3,13,1,Running Layup Shot,1,13,9,True
+Blake Griffin,3,4,44,1,Running Layup Shot,1,10,8,True
+Blake Griffin,3,8,30,1,Running Layup Shot,1,-11,12,True
+Blake Griffin,2,0,0,0,Running Pull-Up Jump Shot,31,73,309,False
+Blake Griffin,4,4,53,1,Running Reverse Layup Shot,0,6,0,True
+Blake Griffin,4,3,54,1,Step Back Jump shot,25,54,247,False
+Blake Griffin,2,0,0,1,Step Back Jump shot,26,-202,178,False
+Blake Griffin,4,6,6,0,Step Back Jump shot,21,135,169,True
+Blake Griffin,2,6,44,0,Step Back Jump shot,18,-37,183,True
+Blake Griffin,3,8,31,0,Step Back Jump shot,15,-130,78,True
+Blake Griffin,4,6,2,0,Step Back Jump shot,26,-95,252,False
+Blake Griffin,3,2,27,0,Step Back Jump shot,18,-172,64,True
+Blake Griffin,1,6,40,0,Step Back Jump shot,21,-28,214,True
+Blake Griffin,1,8,42,0,Step Back Jump shot,25,139,217,False
+Blake Griffin,4,2,44,1,Step Back Jump shot,15,-12,158,True
+Blake Griffin,3,9,56,0,Step Back Jump shot,24,-122,215,False
+Blake Griffin,3,8,21,0,Step Back Jump shot,15,-39,152,True
+Blake Griffin,2,1,54,0,Step Back Jump shot,25,116,231,False
+Blake Griffin,4,1,7,0,Step Back Jump shot,12,-4,128,True
+Blake Griffin,4,6,34,0,Step Back Jump shot,24,-188,160,False
+Blake Griffin,2,0,11,0,Step Back Jump shot,24,-3,247,False
+Blake Griffin,3,5,30,0,Step Back Jump shot,15,-106,118,True
+Blake Griffin,1,9,59,1,Step Back Jump shot,24,-182,167,False
+Blake Griffin,4,1,42,0,Step Back Jump shot,25,-106,231,False
+Blake Griffin,3,5,32,1,Step Back Jump shot,24,228,79,False
+Blake Griffin,4,8,7,0,Step Back Jump shot,19,-103,161,True
+Blake Griffin,2,0,14,1,Step Back Jump shot,25,90,242,False
+Blake Griffin,4,10,25,0,Step Back Jump shot,25,22,253,False
+Blake Griffin,3,11,10,0,Step Back Jump shot,22,223,1,False
+Blake Griffin,2,7,53,1,Step Back Jump shot,25,-10,252,False
+Blake Griffin,2,4,23,0,Step Back Jump shot,24,-153,196,False
+Blake Griffin,1,5,26,0,Step Back Jump shot,25,232,103,False
+Blake Griffin,2,2,53,1,Tip Dunk Shot,0,0,-6,True
+Blake Griffin,4,4,50,0,Tip Dunk Shot,0,0,-6,True
+Blake Griffin,4,3,28,1,Tip Dunk Shot,0,0,-6,True
+Blake Griffin,1,4,29,0,Tip Layup Shot,1,3,16,True
+Blake Griffin,1,3,58,0,Tip Layup Shot,0,0,-6,True
+Blake Griffin,1,5,15,1,Tip Layup Shot,0,0,-6,True
+Blake Griffin,3,1,21,0,Tip Layup Shot,0,0,-6,True
+Blake Griffin,1,4,17,1,Tip Layup Shot,0,0,-6,True
+Blake Griffin,1,4,24,1,Tip Layup Shot,1,-7,10,True
+Blake Griffin,4,3,20,1,Tip Layup Shot,0,0,-6,True
+Blake Griffin,1,4,30,0,Tip Layup Shot,1,3,10,True
+Blake Griffin,4,4,28,0,Tip Layup Shot,0,0,-6,True
+Blake Griffin,2,0,41,0,Tip Layup Shot,0,0,-6,True
+Blake Griffin,4,0,17,0,Tip Layup Shot,0,0,-6,True
+Blake Griffin,1,3,34,1,Tip Layup Shot,0,0,-6,True
+Blake Griffin,1,9,57,1,Tip Layup Shot,0,0,-6,True
+Blake Griffin,1,11,15,1,Tip Layup Shot,0,0,-6,True
+Blake Griffin,1,2,36,0,Tip Layup Shot,0,0,-6,True
+Blake Griffin,1,4,28,0,Tip Layup Shot,1,-3,11,True
+Blake Griffin,2,3,40,1,Tip Layup Shot,0,0,-6,True
+Blake Griffin,2,1,5,1,Tip Layup Shot,0,0,-6,True
+Blake Griffin,1,5,33,1,Tip Layup Shot,0,0,-6,True
+Blake Griffin,1,9,39,1,Tip Layup Shot,0,0,-6,True
+Blake Griffin,4,5,52,1,Tip Layup Shot,0,0,-6,True
+Blake Griffin,1,6,39,0,Turnaround Bank Hook Shot,2,11,19,True
+Blake Griffin,1,2,23,1,Turnaround Bank Hook Shot,8,78,30,True
+Blake Griffin,1,2,32,0,Turnaround Bank Hook Shot,7,76,-16,True
+Blake Griffin,1,4,31,1,Turnaround Bank Hook Shot,7,51,48,True
+Blake Griffin,4,3,10,0,Turnaround Fadeaway Bank Jump Shot,2,-14,20,True
+Blake Griffin,4,1,33,1,Turnaround Fadeaway Bank Jump Shot,6,-62,26,True
+Blake Griffin,1,7,37,1,Turnaround Fadeaway Bank Jump Shot,0,-8,1,True
+Blake Griffin,3,7,17,1,Turnaround Fadeaway Bank Jump Shot,8,-76,32,True
+Blake Griffin,1,6,4,0,Turnaround Fadeaway Bank Jump Shot,9,-70,61,True
+Blake Griffin,3,8,8,0,Turnaround Fadeaway Bank Jump Shot,8,21,80,True
+Blake Griffin,1,10,3,1,Turnaround Fadeaway shot,18,182,15,True
+Blake Griffin,1,7,43,1,Turnaround Fadeaway shot,16,-82,148,True
+Blake Griffin,1,2,0,1,Turnaround Fadeaway shot,12,-93,87,True
+Blake Griffin,1,7,37,0,Turnaround Fadeaway shot,6,-42,52,True
+Blake Griffin,1,3,7,1,Turnaround Fadeaway shot,17,133,111,True
+Blake Griffin,2,7,2,1,Turnaround Fadeaway shot,8,-79,25,True
+Blake Griffin,2,0,4,0,Turnaround Fadeaway shot,23,-230,16,False
+Blake Griffin,2,2,20,0,Turnaround Fadeaway shot,16,73,151,True
+Blake Griffin,2,3,37,1,Turnaround Fadeaway shot,16,-150,66,True
+Blake Griffin,3,1,6,0,Turnaround Fadeaway shot,17,-145,99,True
+Blake Griffin,1,4,2,0,Turnaround Fadeaway shot,12,-125,34,True
+Blake Griffin,4,3,14,0,Turnaround Fadeaway shot,14,-88,109,True
+Blake Griffin,3,7,13,0,Turnaround Fadeaway shot,9,-87,34,True
+Blake Griffin,4,4,14,0,Turnaround Fadeaway shot,18,-71,168,True
+Blake Griffin,1,5,11,0,Turnaround Fadeaway shot,10,-102,22,True
+Blake Griffin,1,3,5,1,Turnaround Fadeaway shot,3,0,35,True
+Blake Griffin,3,7,11,1,Turnaround Fadeaway shot,8,-84,15,True
+Blake Griffin,3,11,11,0,Turnaround Fadeaway shot,13,128,56,True
+Blake Griffin,3,4,54,0,Turnaround Fadeaway shot,20,-106,172,True
+Blake Griffin,1,10,24,0,Turnaround Fadeaway shot,22,-107,193,True
+Blake Griffin,4,2,37,0,Turnaround Fadeaway shot,15,-77,139,True
+Blake Griffin,3,8,7,1,Turnaround Hook Shot,4,2,43,True
+Blake Griffin,3,1,50,0,Turnaround Hook Shot,11,16,109,True
+Blake Griffin,1,11,41,0,Turnaround Hook Shot,7,49,57,True
+Blake Griffin,2,0,2,1,Turnaround Hook Shot,8,-21,82,True
+Blake Griffin,4,2,20,0,Turnaround Hook Shot,11,11,113,True
+Blake Griffin,3,2,48,0,Turnaround Hook Shot,8,0,86,True
+Blake Griffin,3,2,15,0,Turnaround Hook Shot,11,8,116,True
+Blake Griffin,1,1,53,1,Turnaround Hook Shot,4,-14,38,True
+Blake Griffin,1,3,6,0,Turnaround Hook Shot,10,0,104,True
+Blake Griffin,3,3,55,0,Turnaround Hook Shot,6,-29,63,True
+Blake Griffin,4,2,41,0,Turnaround Hook Shot,6,33,53,True
+Blake Griffin,3,6,51,0,Turnaround Hook Shot,6,20,58,True
+Blake Griffin,3,0,13,0,Turnaround Hook Shot,5,-13,53,True
+Blake Griffin,2,6,26,1,Turnaround Hook Shot,7,-5,76,True
+Blake Griffin,4,4,23,0,Turnaround Hook Shot,9,33,92,True
+Blake Griffin,2,1,56,1,Turnaround Hook Shot,7,8,72,True
+Blake Griffin,4,10,33,0,Turnaround Hook Shot,6,-32,57,True
+Blake Griffin,1,7,45,1,Turnaround Hook Shot,6,6,68,True
+Blake Griffin,3,10,2,0,Turnaround Hook Shot,6,-31,53,True
+Blake Griffin,1,5,6,0,Turnaround Hook Shot,8,-22,84,True
+Blake Griffin,4,0,3,0,Turnaround Jump Shot,19,-107,159,True
+Blake Griffin,2,3,54,0,Turnaround Jump Shot,6,21,64,True
+Blake Griffin,1,9,57,0,Turnaround Jump Shot,19,21,196,True
+Blake Griffin,2,5,19,0,Turnaround Jump Shot,26,-165,208,False
+Blake Griffin,3,3,4,0,Turnaround Jump Shot,2,13,26,True
+Blake Griffin,4,0,25,0,Turnaround Jump Shot,1,-6,10,True
+Blake Griffin,3,1,22,0,Turnaround Jump Shot,8,9,86,True
+Blake Griffin,5,4,18,0,Turnaround Jump Shot,13,-100,92,True
+Blake Griffin,3,6,20,1,Turnaround Jump Shot,18,38,179,True
+Blake Griffin,4,3,29,0,Turnaround Jump Shot,14,78,128,True
+Blake Griffin,2,0,39,0,Turnaround Jump Shot,4,-35,23,True
+Blake Griffin,3,6,40,0,Turnaround Jump Shot,14,131,67,True
+Blake Griffin,2,7,40,0,Turnaround Jump Shot,11,-119,14,True
+Blake Griffin,1,5,25,1,Turnaround Jump Shot,7,9,74,True
+Blake Griffin,2,2,24,0,Turnaround Jump Shot,14,93,114,True
+Blake Griffin,3,8,24,1,Turnaround Jump Shot,17,-136,113,True
+Blake Griffin,2,1,9,0,Turnaround Jump Shot,8,-24,86,True

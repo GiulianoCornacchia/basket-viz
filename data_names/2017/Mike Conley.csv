@@ -1,0 +1,159 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Mike Conley,2,0,18,1,Cutting Layup Shot,0,6,5,True
+Mike Conley,1,11,19,0,Cutting Layup Shot,1,-9,7,True
+Mike Conley,2,2,55,0,Cutting Layup Shot,0,2,9,True
+Mike Conley,3,6,33,1,Driving Finger Roll Layup Shot,0,-2,-4,True
+Mike Conley,1,9,22,0,Driving Finger Roll Layup Shot,0,-2,5,True
+Mike Conley,4,2,59,0,Driving Finger Roll Layup Shot,1,-11,15,True
+Mike Conley,3,8,49,1,Driving Floating Bank Jump Shot,8,-74,39,True
+Mike Conley,1,7,58,0,Driving Floating Bank Jump Shot,4,-40,26,True
+Mike Conley,3,6,31,1,Driving Floating Bank Jump Shot,10,86,54,True
+Mike Conley,2,1,32,1,Driving Floating Jump Shot,6,27,59,True
+Mike Conley,2,2,11,0,Driving Floating Jump Shot,9,-11,95,True
+Mike Conley,1,4,48,1,Driving Floating Jump Shot,9,-48,85,True
+Mike Conley,2,6,28,0,Driving Floating Jump Shot,12,-16,121,True
+Mike Conley,2,4,38,0,Driving Floating Jump Shot,13,-6,135,True
+Mike Conley,4,2,5,1,Driving Floating Jump Shot,9,-18,97,True
+Mike Conley,1,8,26,1,Driving Floating Jump Shot,1,9,16,True
+Mike Conley,4,9,36,1,Driving Floating Jump Shot,13,42,125,True
+Mike Conley,2,5,26,0,Driving Floating Jump Shot,1,-10,17,True
+Mike Conley,1,5,37,0,Driving Floating Jump Shot,8,41,80,True
+Mike Conley,2,0,43,0,Driving Hook Shot,3,-5,31,True
+Mike Conley,3,8,46,0,Driving Layup Shot,3,15,28,True
+Mike Conley,3,9,52,0,Driving Layup Shot,7,49,63,True
+Mike Conley,4,2,52,0,Driving Layup Shot,1,0,11,True
+Mike Conley,1,9,41,0,Driving Layup Shot,4,-29,31,True
+Mike Conley,4,4,38,0,Driving Layup Shot,1,-1,13,True
+Mike Conley,4,7,16,1,Driving Layup Shot,8,-70,54,True
+Mike Conley,3,5,19,1,Driving Layup Shot,0,-5,5,True
+Mike Conley,3,8,59,0,Driving Layup Shot,3,10,33,True
+Mike Conley,4,8,45,1,Driving Layup Shot,0,-6,-1,True
+Mike Conley,4,3,23,1,Driving Layup Shot,2,-26,1,True
+Mike Conley,1,5,47,1,Driving Layup Shot,0,5,0,True
+Mike Conley,1,7,56,0,Driving Layup Shot,1,3,13,True
+Mike Conley,2,5,23,0,Driving Layup Shot,0,-5,3,True
+Mike Conley,1,7,39,0,Driving Layup Shot,0,-4,-4,True
+Mike Conley,3,9,4,1,Driving Layup Shot,1,-13,8,True
+Mike Conley,4,10,6,1,Driving Layup Shot,2,-19,11,True
+Mike Conley,4,2,32,1,Driving Layup Shot,1,3,12,True
+Mike Conley,2,6,19,1,Driving Layup Shot,2,-23,17,True
+Mike Conley,2,5,42,0,Driving Layup Shot,1,-4,10,True
+Mike Conley,1,6,57,1,Driving Layup Shot,3,-9,29,True
+Mike Conley,4,9,1,1,Driving Layup Shot,1,-11,15,True
+Mike Conley,2,4,49,1,Driving Layup Shot,1,-6,11,True
+Mike Conley,4,6,46,1,Driving Layup Shot,1,-8,17,True
+Mike Conley,1,6,4,0,Driving Layup Shot,2,-1,23,True
+Mike Conley,1,8,37,0,Driving Layup Shot,2,16,21,True
+Mike Conley,4,1,57,0,Driving Layup Shot,6,-41,44,True
+Mike Conley,4,1,28,1,Driving Layup Shot,1,-12,4,True
+Mike Conley,2,7,33,1,Driving Layup Shot,2,-11,22,True
+Mike Conley,4,6,9,1,Driving Layup Shot,2,-2,22,True
+Mike Conley,2,6,15,0,Driving Layup Shot,1,9,8,True
+Mike Conley,1,4,12,0,Driving Layup Shot,1,2,14,True
+Mike Conley,2,0,51,1,Driving Layup Shot,1,-3,11,True
+Mike Conley,2,0,19,0,Driving Layup Shot,3,33,20,True
+Mike Conley,3,8,4,1,Driving Layup Shot,0,0,5,True
+Mike Conley,2,0,49,0,Driving Layup Shot,1,-9,16,True
+Mike Conley,4,9,35,1,Driving Reverse Layup Shot,2,-13,20,True
+Mike Conley,4,11,12,0,Fadeaway Jump Shot,19,27,190,True
+Mike Conley,4,5,12,0,Floating Jump shot,12,-84,88,True
+Mike Conley,3,5,53,0,Floating Jump shot,12,-19,125,True
+Mike Conley,2,0,33,0,Floating Jump shot,13,49,126,True
+Mike Conley,2,1,25,0,Floating Jump shot,8,22,83,True
+Mike Conley,3,4,57,1,Floating Jump shot,3,-5,33,True
+Mike Conley,4,1,41,0,Floating Jump shot,11,45,108,True
+Mike Conley,4,2,45,1,Floating Jump shot,16,85,145,True
+Mike Conley,4,2,12,0,Floating Jump shot,6,-64,9,True
+Mike Conley,1,10,46,1,Floating Jump shot,14,63,126,True
+Mike Conley,3,5,57,0,Jump Shot,25,-221,135,False
+Mike Conley,3,8,53,0,Jump Shot,25,-223,118,False
+Mike Conley,1,6,46,1,Jump Shot,27,197,194,False
+Mike Conley,3,9,38,0,Jump Shot,28,-89,269,False
+Mike Conley,4,0,18,0,Jump Shot,22,228,23,False
+Mike Conley,2,5,51,1,Jump Shot,27,-5,272,False
+Mike Conley,1,7,7,0,Jump Shot,28,-19,284,False
+Mike Conley,1,11,16,0,Jump Shot,14,-146,-2,True
+Mike Conley,4,1,26,0,Jump Shot,23,-228,55,False
+Mike Conley,3,7,48,0,Jump Shot,26,-94,244,False
+Mike Conley,1,9,0,0,Jump Shot,25,205,159,False
+Mike Conley,4,6,15,1,Jump Shot,24,162,180,False
+Mike Conley,3,10,40,0,Jump Shot,19,118,157,True
+Mike Conley,4,1,4,1,Jump Shot,27,182,200,False
+Mike Conley,2,1,3,0,Jump Shot,24,96,230,False
+Mike Conley,3,0,5,0,Jump Shot,25,-124,224,False
+Mike Conley,2,4,52,0,Jump Shot,26,-130,227,False
+Mike Conley,3,11,35,0,Jump Shot,26,155,211,False
+Mike Conley,3,9,6,1,Jump Shot,27,117,246,False
+Mike Conley,4,1,15,0,Jump Shot,26,-96,252,False
+Mike Conley,3,8,24,0,Jump Shot,25,119,225,False
+Mike Conley,2,4,25,0,Jump Shot,24,-135,209,False
+Mike Conley,2,2,35,0,Jump Shot,24,226,103,False
+Mike Conley,3,9,16,0,Jump Shot,25,127,221,False
+Mike Conley,2,0,29,1,Jump Shot,25,204,157,False
+Mike Conley,4,3,31,1,Jump Shot,27,43,272,False
+Mike Conley,1,10,52,0,Jump Shot,25,230,101,False
+Mike Conley,4,2,46,0,Jump Shot,25,-116,230,False
+Mike Conley,2,5,55,0,Jump Shot,22,-221,17,False
+Mike Conley,3,9,31,0,Jump Shot,25,100,238,False
+Mike Conley,4,0,18,0,Jump Shot,26,-36,267,False
+Mike Conley,2,9,51,0,Jump Shot,22,-226,16,False
+Mike Conley,2,0,42,0,Jump Shot,25,130,218,False
+Mike Conley,2,6,13,0,Jump Shot,24,148,199,False
+Mike Conley,1,5,40,1,Jump Shot,25,56,251,False
+Mike Conley,1,10,20,1,Jump Shot,26,112,242,False
+Mike Conley,4,3,10,1,Jump Shot,26,109,239,False
+Mike Conley,4,3,2,1,Jump Shot,25,149,207,False
+Mike Conley,2,7,26,0,Jump Shot,21,13,210,True
+Mike Conley,3,9,39,0,Jump Shot,24,-234,74,False
+Mike Conley,4,2,3,1,Jump Shot,26,150,214,False
+Mike Conley,4,3,30,0,Jump Shot,26,171,200,False
+Mike Conley,4,1,16,0,Jump Shot,25,76,246,False
+Mike Conley,4,8,37,0,Jump Shot,25,112,228,False
+Mike Conley,1,8,39,0,Jump Shot,25,93,235,False
+Mike Conley,1,10,59,0,Jump Shot,24,221,113,False
+Mike Conley,4,11,4,0,Jump Shot,24,217,122,False
+Mike Conley,3,7,1,1,Jump Shot,25,182,179,False
+Mike Conley,3,9,31,0,Jump Shot,25,84,243,False
+Mike Conley,4,2,53,0,Jump Shot,26,68,253,False
+Mike Conley,2,6,51,1,Jump Shot,26,18,261,False
+Mike Conley,1,8,28,0,Jump Shot,19,-199,-16,True
+Mike Conley,1,6,52,0,Jump Shot,24,189,160,False
+Mike Conley,3,6,51,0,Jump Shot,24,-58,243,False
+Mike Conley,4,6,25,0,Jump Shot,25,136,219,False
+Mike Conley,1,8,21,1,Jump Shot,25,-112,232,False
+Mike Conley,1,4,57,1,Jump Shot,26,55,256,False
+Mike Conley,1,7,50,0,Jump Shot,23,228,41,False
+Mike Conley,2,6,12,0,Jump Shot,25,-117,228,False
+Mike Conley,3,6,3,0,Layup Shot,4,0,41,True
+Mike Conley,4,2,21,1,Pullup Jump shot,17,172,-2,True
+Mike Conley,1,11,38,0,Pullup Jump shot,18,81,166,True
+Mike Conley,3,0,1,1,Pullup Jump shot,24,138,202,False
+Mike Conley,4,2,46,0,Pullup Jump shot,15,3,155,True
+Mike Conley,1,10,37,1,Pullup Jump shot,15,91,122,True
+Mike Conley,2,6,9,0,Pullup Jump shot,12,-35,119,True
+Mike Conley,1,10,0,0,Pullup Jump shot,15,44,148,True
+Mike Conley,3,9,28,1,Pullup Jump shot,19,-115,162,True
+Mike Conley,4,10,54,1,Pullup Jump shot,25,-89,241,False
+Mike Conley,4,5,45,0,Pullup Jump shot,14,108,96,True
+Mike Conley,2,4,51,1,Pullup Jump shot,25,-87,235,False
+Mike Conley,4,7,8,0,Pullup Jump shot,25,-100,236,False
+Mike Conley,4,2,10,0,Pullup Jump shot,24,119,216,False
+Mike Conley,3,4,38,0,Pullup Jump shot,18,-115,149,True
+Mike Conley,4,7,50,0,Pullup Jump shot,25,-79,247,False
+Mike Conley,1,9,48,0,Pullup Jump shot,25,132,215,False
+Mike Conley,1,4,31,0,Pullup Jump shot,19,-20,193,True
+Mike Conley,3,5,23,1,Reverse Layup Shot,1,5,9,True
+Mike Conley,2,2,5,0,Running Jump Shot,25,-125,224,False
+Mike Conley,2,1,48,0,Running Jump Shot,25,-75,245,False
+Mike Conley,1,6,48,0,Running Jump Shot,24,228,82,False
+Mike Conley,1,6,36,1,Running Pull-Up Jump Shot,26,150,220,False
+Mike Conley,2,2,23,1,Running Pull-Up Jump Shot,26,-101,247,False
+Mike Conley,2,4,7,1,Step Back Jump shot,25,-8,251,False
+Mike Conley,4,6,27,0,Step Back Jump shot,25,-84,244,False
+Mike Conley,1,7,26,1,Step Back Jump shot,22,-226,-8,False
+Mike Conley,3,11,26,0,Step Back Jump shot,24,-202,133,False
+Mike Conley,1,11,16,0,Step Back Jump shot,25,-103,236,False
+Mike Conley,3,10,13,0,Step Back Jump shot,25,-107,236,False
+Mike Conley,3,10,37,1,Step Back Jump shot,25,120,225,False
+Mike Conley,3,5,18,0,Turnaround Fadeaway Bank Jump Shot,7,-63,33,True
+Mike Conley,4,6,45,1,Turnaround Hook Shot,4,-1,44,True

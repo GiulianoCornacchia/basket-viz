@@ -1,0 +1,318 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Mike James,4,2,17,1,Cutting Dunk Shot,2,-9,28,True
+Mike James,3,1,48,0,Driving Bank Hook Shot,2,24,17,True
+Mike James,2,4,56,0,Driving Dunk Shot,3,-24,20,True
+Mike James,2,1,22,0,Driving Dunk Shot,1,11,1,True
+Mike James,4,7,36,1,Driving Finger Roll Layup Shot,4,38,30,True
+Mike James,2,5,39,1,Driving Finger Roll Layup Shot,6,52,32,True
+Mike James,2,2,32,1,Driving Finger Roll Layup Shot,1,-7,18,True
+Mike James,4,8,41,1,Driving Finger Roll Layup Shot,1,-8,15,True
+Mike James,1,0,3,1,Driving Finger Roll Layup Shot,0,2,8,True
+Mike James,3,6,43,1,Driving Finger Roll Layup Shot,0,6,3,True
+Mike James,4,3,58,0,Driving Finger Roll Layup Shot,3,-34,3,True
+Mike James,3,0,43,1,Driving Finger Roll Layup Shot,1,12,13,True
+Mike James,4,7,49,1,Driving Finger Roll Layup Shot,1,9,17,True
+Mike James,4,6,2,1,Driving Finger Roll Layup Shot,3,12,33,True
+Mike James,4,5,1,1,Driving Finger Roll Layup Shot,3,5,31,True
+Mike James,1,0,13,0,Driving Finger Roll Layup Shot,2,27,7,True
+Mike James,3,7,49,0,Driving Finger Roll Layup Shot,1,-6,12,True
+Mike James,3,0,48,1,Driving Finger Roll Layup Shot,1,7,14,True
+Mike James,4,6,15,1,Driving Finger Roll Layup Shot,3,2,32,True
+Mike James,3,0,3,1,Driving Finger Roll Layup Shot,3,5,32,True
+Mike James,3,11,43,1,Driving Finger Roll Layup Shot,1,3,10,True
+Mike James,1,5,31,1,Driving Finger Roll Layup Shot,6,-6,63,True
+Mike James,1,10,3,0,Driving Finger Roll Layup Shot,1,4,10,True
+Mike James,2,11,8,0,Driving Finger Roll Layup Shot,1,8,8,True
+Mike James,3,10,27,0,Driving Floating Bank Jump Shot,8,78,24,True
+Mike James,1,0,33,0,Driving Floating Bank Jump Shot,9,90,30,True
+Mike James,4,3,42,1,Driving Floating Bank Jump Shot,5,53,17,True
+Mike James,4,0,14,1,Driving Floating Bank Jump Shot,4,-28,35,True
+Mike James,1,2,7,0,Driving Floating Bank Jump Shot,9,95,30,True
+Mike James,1,9,1,0,Driving Floating Bank Jump Shot,9,85,51,True
+Mike James,1,8,16,1,Driving Floating Bank Jump Shot,4,44,7,True
+Mike James,4,7,38,0,Driving Floating Bank Jump Shot,5,-44,24,True
+Mike James,1,0,35,1,Driving Floating Bank Jump Shot,1,16,10,True
+Mike James,1,9,10,0,Driving Floating Jump Shot,8,-2,80,True
+Mike James,2,0,25,1,Driving Floating Jump Shot,8,47,73,True
+Mike James,1,1,24,0,Driving Floating Jump Shot,8,87,11,True
+Mike James,3,0,38,0,Driving Floating Jump Shot,13,-18,136,True
+Mike James,2,4,25,0,Driving Floating Jump Shot,4,-13,47,True
+Mike James,4,1,38,0,Driving Floating Jump Shot,10,-86,67,True
+Mike James,1,6,16,0,Driving Floating Jump Shot,11,40,109,True
+Mike James,2,1,48,0,Driving Floating Jump Shot,25,164,193,False
+Mike James,3,3,3,0,Driving Floating Jump Shot,2,10,21,True
+Mike James,2,11,0,0,Driving Floating Jump Shot,6,19,62,True
+Mike James,2,9,6,1,Driving Floating Jump Shot,6,36,57,True
+Mike James,2,9,52,0,Driving Floating Jump Shot,7,-5,75,True
+Mike James,3,10,30,1,Driving Floating Jump Shot,6,8,68,True
+Mike James,1,4,35,1,Driving Floating Jump Shot,10,3,102,True
+Mike James,4,10,6,0,Driving Floating Jump Shot,6,45,53,True
+Mike James,3,6,19,0,Driving Floating Jump Shot,8,84,17,True
+Mike James,1,8,8,1,Driving Floating Jump Shot,9,-66,65,True
+Mike James,2,3,58,1,Driving Floating Jump Shot,1,-6,9,True
+Mike James,2,8,54,0,Driving Floating Jump Shot,6,-25,56,True
+Mike James,3,5,48,1,Driving Floating Jump Shot,11,-5,115,True
+Mike James,3,0,29,0,Driving Floating Jump Shot,7,-21,77,True
+Mike James,2,9,43,0,Driving Floating Jump Shot,7,-3,73,True
+Mike James,3,4,22,1,Driving Floating Jump Shot,6,-6,62,True
+Mike James,4,9,34,1,Driving Floating Jump Shot,5,-16,51,True
+Mike James,2,8,58,1,Driving Floating Jump Shot,12,13,122,True
+Mike James,3,4,7,0,Driving Floating Jump Shot,15,-55,141,True
+Mike James,3,7,44,1,Driving Hook Shot,6,65,-5,True
+Mike James,4,10,57,1,Driving Hook Shot,8,66,59,True
+Mike James,2,7,50,0,Driving Layup Shot,2,20,12,True
+Mike James,4,4,58,1,Driving Layup Shot,1,16,11,True
+Mike James,3,2,22,1,Driving Layup Shot,1,-8,17,True
+Mike James,2,4,2,1,Driving Layup Shot,0,3,4,True
+Mike James,4,7,36,0,Driving Layup Shot,3,20,27,True
+Mike James,1,6,51,0,Driving Layup Shot,11,60,98,True
+Mike James,1,5,34,0,Driving Layup Shot,2,16,24,True
+Mike James,3,1,37,1,Driving Layup Shot,8,6,83,True
+Mike James,2,7,41,1,Driving Layup Shot,2,25,10,True
+Mike James,3,9,29,0,Driving Layup Shot,1,-8,17,True
+Mike James,3,5,25,0,Driving Layup Shot,1,-2,16,True
+Mike James,4,10,59,0,Driving Layup Shot,2,19,16,True
+Mike James,1,1,38,1,Driving Layup Shot,1,7,9,True
+Mike James,1,10,5,0,Driving Layup Shot,3,-33,7,True
+Mike James,2,5,6,0,Driving Layup Shot,10,-90,47,True
+Mike James,1,0,28,1,Driving Layup Shot,1,3,11,True
+Mike James,4,4,22,0,Driving Layup Shot,2,18,12,True
+Mike James,4,0,0,1,Driving Layup Shot,1,-13,14,True
+Mike James,3,3,12,1,Driving Layup Shot,3,-29,17,True
+Mike James,1,3,51,0,Driving Layup Shot,1,-9,5,True
+Mike James,4,0,28,1,Driving Layup Shot,1,1,19,True
+Mike James,4,5,51,0,Driving Layup Shot,3,32,16,True
+Mike James,1,0,15,1,Driving Layup Shot,0,0,6,True
+Mike James,3,1,30,0,Driving Layup Shot,3,35,15,True
+Mike James,4,11,27,0,Driving Layup Shot,1,18,4,True
+Mike James,4,10,0,0,Driving Layup Shot,0,-2,8,True
+Mike James,4,2,32,0,Driving Layup Shot,1,13,14,True
+Mike James,3,0,2,0,Driving Layup Shot,3,-29,13,True
+Mike James,2,9,36,1,Driving Layup Shot,2,20,16,True
+Mike James,2,6,56,1,Driving Layup Shot,2,22,15,True
+Mike James,1,2,8,1,Driving Layup Shot,0,4,8,True
+Mike James,3,2,40,0,Driving Layup Shot,2,20,4,True
+Mike James,4,3,13,0,Driving Layup Shot,1,1,13,True
+Mike James,4,6,21,1,Driving Layup Shot,0,0,8,True
+Mike James,4,4,48,0,Driving Layup Shot,3,25,21,True
+Mike James,4,9,45,1,Driving Layup Shot,2,7,22,True
+Mike James,2,9,18,1,Driving Layup Shot,0,8,5,True
+Mike James,2,6,51,1,Driving Layup Shot,1,5,10,True
+Mike James,4,1,2,1,Driving Reverse Layup Shot,2,-25,2,True
+Mike James,4,0,25,1,Driving Reverse Layup Shot,1,3,11,True
+Mike James,3,1,42,0,Driving Reverse Layup Shot,2,-23,5,True
+Mike James,3,4,57,0,Driving Reverse Layup Shot,2,-29,-7,True
+Mike James,2,10,47,1,Driving Reverse Layup Shot,0,-6,3,True
+Mike James,1,8,15,1,Driving Reverse Layup Shot,0,4,5,True
+Mike James,4,7,24,1,Driving Reverse Layup Shot,0,1,6,True
+Mike James,4,2,7,1,Driving Reverse Layup Shot,0,-5,4,True
+Mike James,4,2,9,0,Dunk Shot,1,9,11,True
+Mike James,2,8,22,0,Dunk Shot,2,0,27,True
+Mike James,4,2,4,0,Fadeaway Jump Shot,11,111,-1,True
+Mike James,1,6,46,0,Fadeaway Jump Shot,13,53,121,True
+Mike James,4,1,1,0,Fadeaway Jump Shot,16,95,138,True
+Mike James,3,1,21,0,Finger Roll Layup Shot,1,0,18,True
+Mike James,2,8,3,0,Finger Roll Layup Shot,5,-29,42,True
+Mike James,1,9,44,0,Floating Jump shot,15,-91,127,True
+Mike James,3,3,5,0,Floating Jump shot,12,50,117,True
+Mike James,4,8,49,1,Floating Jump shot,8,-35,79,True
+Mike James,4,9,28,0,Floating Jump shot,10,36,95,True
+Mike James,1,3,24,1,Floating Jump shot,6,-2,68,True
+Mike James,2,7,17,0,Floating Jump shot,6,66,9,True
+Mike James,1,0,45,1,Floating Jump shot,11,40,106,True
+Mike James,2,0,26,0,Floating Jump shot,10,12,100,True
+Mike James,4,11,23,0,Jump Bank Shot,26,-178,193,False
+Mike James,4,10,48,0,Jump Bank Shot,11,94,67,True
+Mike James,4,0,8,1,Jump Shot,24,239,62,False
+Mike James,1,1,11,0,Jump Shot,25,165,197,False
+Mike James,1,9,46,0,Jump Shot,27,-9,278,False
+Mike James,4,1,35,0,Jump Shot,18,150,100,True
+Mike James,3,8,58,0,Jump Shot,24,-185,162,False
+Mike James,1,4,40,0,Jump Shot,25,-150,211,False
+Mike James,4,1,12,0,Jump Shot,10,-48,88,True
+Mike James,3,6,23,1,Jump Shot,29,-216,197,False
+Mike James,1,8,11,0,Jump Shot,26,-148,222,False
+Mike James,1,5,29,0,Jump Shot,27,-78,263,False
+Mike James,2,2,11,0,Jump Shot,29,-150,258,False
+Mike James,3,1,49,0,Jump Shot,15,159,0,True
+Mike James,4,0,57,0,Jump Shot,28,120,253,False
+Mike James,4,1,46,0,Jump Shot,15,-92,119,True
+Mike James,1,4,32,0,Jump Shot,19,105,165,True
+Mike James,3,5,54,0,Jump Shot,17,-63,167,True
+Mike James,3,4,49,0,Jump Shot,25,-58,246,False
+Mike James,4,1,0,0,Jump Shot,25,91,243,False
+Mike James,1,5,13,0,Jump Shot,25,-123,224,False
+Mike James,3,0,50,0,Jump Shot,26,20,260,False
+Mike James,2,10,14,0,Jump Shot,24,-113,213,False
+Mike James,4,9,53,1,Jump Shot,25,167,193,False
+Mike James,4,0,43,0,Jump Shot,25,-106,228,False
+Mike James,2,8,27,1,Jump Shot,12,2,123,True
+Mike James,4,7,45,0,Jump Shot,4,24,43,True
+Mike James,4,3,4,0,Jump Shot,22,-225,-1,False
+Mike James,3,0,0,0,Jump Shot,25,-177,188,False
+Mike James,4,10,12,0,Jump Shot,26,-122,232,False
+Mike James,1,0,2,0,Jump Shot,22,-38,219,True
+Mike James,4,6,59,0,Jump Shot,25,-206,154,False
+Mike James,2,9,51,0,Jump Shot,26,-88,249,False
+Mike James,4,0,2,0,Jump Shot,28,193,208,False
+Mike James,4,10,42,0,Jump Shot,25,-101,231,False
+Mike James,1,0,45,0,Jump Shot,24,-78,237,False
+Mike James,4,5,2,0,Jump Shot,26,-129,234,False
+Mike James,1,2,26,0,Jump Shot,18,-20,179,True
+Mike James,2,11,22,0,Jump Shot,12,-90,80,True
+Mike James,3,10,17,0,Jump Shot,26,109,239,False
+Mike James,3,1,21,0,Jump Shot,17,-1,175,True
+Mike James,4,3,11,0,Jump Shot,21,143,159,True
+Mike James,1,10,53,1,Jump Shot,24,178,163,False
+Mike James,1,10,31,0,Jump Shot,26,-93,249,False
+Mike James,1,11,23,1,Jump Shot,23,230,41,False
+Mike James,2,5,52,0,Jump Shot,25,92,240,False
+Mike James,3,2,37,0,Jump Shot,11,-47,105,True
+Mike James,3,4,7,0,Jump Shot,23,232,16,False
+Mike James,1,4,20,0,Jump Shot,9,-51,79,True
+Mike James,3,5,7,1,Jump Shot,20,194,49,True
+Mike James,1,8,54,0,Jump Shot,26,62,256,False
+Mike James,2,0,3,0,Jump Shot,27,-95,258,False
+Mike James,3,1,57,0,Jump Shot,24,57,242,False
+Mike James,1,4,37,0,Jump Shot,26,58,260,False
+Mike James,1,0,2,0,Jump Shot,15,-35,154,True
+Mike James,1,11,8,1,Jump Shot,22,-223,1,False
+Mike James,3,8,46,1,Jump Shot,22,-228,1,False
+Mike James,4,0,19,0,Jump Shot,25,174,180,False
+Mike James,2,8,56,0,Jump Shot,27,-106,251,False
+Mike James,2,0,58,0,Jump Shot,31,-106,293,False
+Mike James,3,3,46,0,Jump Shot,17,162,65,True
+Mike James,4,1,34,1,Jump Shot,26,73,251,False
+Mike James,1,0,38,0,Jump Shot,25,140,211,False
+Mike James,3,6,20,0,Jump Shot,26,-140,222,False
+Mike James,1,3,4,0,Jump Shot,4,3,46,True
+Mike James,3,2,30,0,Jump Shot,23,-231,8,False
+Mike James,2,8,14,0,Jump Shot,27,177,211,False
+Mike James,4,2,43,0,Jump Shot,22,-227,9,False
+Mike James,4,3,32,0,Jump Shot,24,178,169,False
+Mike James,2,0,1,0,Jump Shot,22,-227,1,False
+Mike James,4,1,37,1,Jump Shot,3,-21,25,True
+Mike James,1,4,8,0,Jump Shot,25,87,238,False
+Mike James,2,10,59,0,Jump Shot,25,193,168,False
+Mike James,4,9,5,1,Jump Shot,0,5,8,True
+Mike James,4,9,47,0,Jump Shot,27,-71,265,False
+Mike James,2,9,44,1,Layup Shot,3,-5,32,True
+Mike James,4,6,42,0,Layup Shot,1,2,11,True
+Mike James,4,1,44,0,Layup Shot,2,19,22,True
+Mike James,3,3,59,0,Layup Shot,2,11,26,True
+Mike James,1,3,41,1,Layup Shot,2,6,29,True
+Mike James,3,0,49,0,Pullup Jump shot,26,-90,253,False
+Mike James,1,4,33,0,Pullup Jump shot,16,-23,167,True
+Mike James,2,2,55,0,Pullup Jump shot,19,-98,173,True
+Mike James,2,10,4,0,Pullup Jump shot,20,204,6,True
+Mike James,2,11,15,0,Pullup Jump shot,30,167,251,False
+Mike James,4,1,12,0,Pullup Jump shot,20,-114,165,True
+Mike James,1,0,11,1,Pullup Jump shot,24,-73,237,False
+Mike James,2,10,34,1,Pullup Jump shot,24,-82,231,False
+Mike James,2,8,5,1,Pullup Jump shot,13,46,122,True
+Mike James,2,11,7,0,Pullup Jump shot,27,-10,279,False
+Mike James,4,0,9,0,Pullup Jump shot,26,22,262,False
+Mike James,3,3,8,1,Pullup Jump shot,26,-111,237,False
+Mike James,3,0,0,0,Pullup Jump shot,30,-140,269,False
+Mike James,1,0,33,0,Pullup Jump shot,27,-94,259,False
+Mike James,4,10,49,0,Pullup Jump shot,15,-134,74,True
+Mike James,4,11,10,1,Pullup Jump shot,15,55,147,True
+Mike James,2,8,15,0,Pullup Jump shot,11,101,47,True
+Mike James,4,6,3,1,Pullup Jump shot,20,35,204,True
+Mike James,4,2,11,0,Pullup Jump shot,21,72,205,True
+Mike James,2,0,53,0,Pullup Jump shot,26,129,230,False
+Mike James,4,2,16,1,Pullup Jump shot,12,-55,113,True
+Mike James,4,6,3,1,Pullup Jump shot,25,47,253,False
+Mike James,4,4,56,1,Pullup Jump shot,18,-107,146,True
+Mike James,4,5,10,0,Pullup Jump shot,25,172,189,False
+Mike James,2,9,51,0,Pullup Jump shot,28,-89,270,False
+Mike James,4,9,2,0,Pullup Jump shot,9,40,84,True
+Mike James,2,0,4,0,Pullup Jump shot,25,-77,247,False
+Mike James,4,11,28,0,Pullup Jump shot,24,-70,236,False
+Mike James,1,0,2,0,Pullup Jump shot,30,-6,302,False
+Mike James,4,10,27,0,Pullup Jump shot,28,121,263,False
+Mike James,3,0,12,0,Pullup Jump shot,23,-103,206,True
+Mike James,2,6,5,1,Pullup Jump shot,25,-55,252,False
+Mike James,4,0,3,0,Pullup Jump shot,28,-119,256,False
+Mike James,3,0,27,0,Pullup Jump shot,25,134,218,False
+Mike James,3,8,6,0,Pullup Jump shot,17,-81,155,True
+Mike James,3,2,53,1,Pullup Jump shot,26,173,196,False
+Mike James,1,0,0,0,Pullup Jump shot,45,39,453,False
+Mike James,4,2,33,1,Pullup Jump shot,19,38,188,True
+Mike James,2,10,14,1,Pullup Jump shot,24,-4,246,False
+Mike James,3,8,17,0,Pullup Jump shot,20,-3,200,True
+Mike James,3,2,39,0,Pullup Jump shot,24,-161,185,False
+Mike James,2,0,16,1,Pullup Jump shot,25,-67,248,False
+Mike James,3,11,15,0,Pullup Jump shot,16,-37,157,True
+Mike James,1,4,39,0,Pullup Jump shot,19,-82,172,True
+Mike James,2,1,4,1,Pullup Jump shot,14,-76,125,True
+Mike James,1,3,36,0,Pullup Jump shot,24,-163,188,False
+Mike James,2,7,11,0,Pullup Jump shot,25,-41,254,False
+Mike James,1,4,52,1,Pullup Jump shot,24,-48,243,False
+Mike James,1,0,9,0,Pullup Jump shot,21,-109,190,True
+Mike James,1,5,19,1,Pullup Jump shot,26,-169,202,False
+Mike James,2,5,23,0,Pullup Jump shot,19,-5,191,True
+Mike James,4,11,20,0,Pullup Jump shot,20,-24,204,True
+Mike James,2,3,13,1,Pullup Jump shot,17,-76,162,True
+Mike James,2,8,44,0,Pullup Jump shot,12,127,-5,True
+Mike James,2,10,46,1,Pullup Jump shot,10,-9,101,True
+Mike James,3,0,6,0,Pullup Jump shot,19,95,166,True
+Mike James,3,1,18,1,Pullup Jump shot,24,217,122,False
+Mike James,4,1,33,1,Pullup Jump shot,17,125,120,True
+Mike James,1,0,0,0,Pullup Jump shot,42,200,374,False
+Mike James,3,0,53,0,Pullup Jump shot,21,201,89,True
+Mike James,3,5,16,0,Putback Layup Shot,1,9,12,True
+Mike James,4,1,14,0,Running Alley Oop Layup Shot,1,-9,7,True
+Mike James,4,4,37,1,Running Dunk Shot,0,-6,6,True
+Mike James,3,5,18,1,Running Dunk Shot,1,-1,11,True
+Mike James,2,1,55,1,Running Dunk Shot,0,-3,8,True
+Mike James,4,5,57,1,Running Dunk Shot,2,11,21,True
+Mike James,4,0,43,1,Running Finger Roll Layup Shot,3,27,14,True
+Mike James,1,7,45,0,Running Jump Shot,8,8,83,True
+Mike James,2,0,31,1,Running Jump Shot,8,5,89,True
+Mike James,1,10,13,0,Running Jump Shot,4,-30,39,True
+Mike James,4,4,34,0,Running Jump Shot,31,-199,244,False
+Mike James,1,6,46,0,Running Layup Shot,1,-2,15,True
+Mike James,4,0,18,0,Running Layup Shot,3,-31,0,True
+Mike James,3,0,55,0,Running Layup Shot,1,12,3,True
+Mike James,3,9,14,0,Running Layup Shot,5,-43,36,True
+Mike James,4,0,11,0,Running Layup Shot,1,13,13,True
+Mike James,4,1,44,0,Running Layup Shot,4,40,27,True
+Mike James,1,0,53,0,Running Layup Shot,0,-6,1,True
+Mike James,1,7,24,1,Running Layup Shot,1,-14,8,True
+Mike James,1,2,19,0,Running Layup Shot,3,30,13,True
+Mike James,4,1,59,1,Running Layup Shot,1,-11,3,True
+Mike James,1,6,49,0,Running Pull-Up Jump Shot,24,-106,226,False
+Mike James,4,5,33,0,Running Pull-Up Jump Shot,19,32,189,True
+Mike James,4,5,26,1,Running Pull-Up Jump Shot,26,143,218,False
+Mike James,3,9,35,1,Running Reverse Layup Shot,0,1,6,True
+Mike James,4,9,39,1,Running Reverse Layup Shot,1,-14,-8,True
+Mike James,2,6,38,0,Step Back Jump shot,24,-113,216,False
+Mike James,2,7,58,1,Step Back Jump shot,26,-152,214,False
+Mike James,4,5,35,1,Step Back Jump shot,29,-18,294,False
+Mike James,4,3,14,0,Step Back Jump shot,27,-76,260,False
+Mike James,4,4,19,1,Step Back Jump shot,18,-141,120,True
+Mike James,2,11,6,0,Step Back Jump shot,19,193,5,True
+Mike James,2,8,5,1,Step Back Jump shot,11,114,3,True
+Mike James,2,8,33,1,Step Back Jump shot,13,109,79,True
+Mike James,1,0,23,1,Step Back Jump shot,19,124,153,True
+Mike James,2,8,51,1,Step Back Jump shot,20,-93,188,True
+Mike James,2,9,20,1,Step Back Jump shot,16,-93,137,True
+Mike James,4,10,59,1,Step Back Jump shot,17,109,138,True
+Mike James,3,0,5,1,Step Back Jump shot,21,-140,168,True
+Mike James,4,3,8,1,Step Back Jump shot,24,-216,115,False
+Mike James,2,8,16,0,Step Back Jump shot,19,-112,157,True
+Mike James,3,7,31,0,Step Back Jump shot,15,-124,85,True
+Mike James,4,2,42,0,Step Back Jump shot,13,62,123,True
+Mike James,2,6,19,1,Step Back Jump shot,25,-79,246,False
+Mike James,2,6,28,0,Step Back Jump shot,20,-84,186,True
+Mike James,1,4,36,0,Step Back Jump shot,20,40,202,True
+Mike James,3,8,34,1,Step Back Jump shot,23,-232,11,False
+Mike James,3,0,3,0,Step Back Jump shot,16,-124,105,True
+Mike James,2,11,19,0,Step Back Jump shot,25,-116,231,False
+Mike James,4,5,43,0,Step Back Jump shot,24,-136,209,False
+Mike James,2,7,31,1,Step Back Jump shot,18,35,180,True
+Mike James,3,2,1,0,Tip Layup Shot,0,0,-6,True
+Mike James,3,7,14,1,Turnaround Fadeaway shot,9,97,11,True
+Mike James,3,1,56,1,Turnaround Jump Shot,6,63,25,True
+Mike James,4,5,48,1,Turnaround Jump Shot,10,-100,3,True

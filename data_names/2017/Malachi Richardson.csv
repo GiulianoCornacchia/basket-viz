@@ -1,0 +1,84 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Malachi Richardson,4,10,57,1,Cutting Layup Shot,2,16,20,True
+Malachi Richardson,2,3,7,1,Driving Dunk Shot,2,-1,27,True
+Malachi Richardson,4,4,10,1,Driving Finger Roll Layup Shot,0,0,-3,True
+Malachi Richardson,4,3,29,0,Driving Finger Roll Layup Shot,1,2,17,True
+Malachi Richardson,2,9,19,0,Driving Layup Shot,1,6,18,True
+Malachi Richardson,2,9,15,0,Driving Layup Shot,1,-8,16,True
+Malachi Richardson,4,2,13,0,Driving Layup Shot,1,5,9,True
+Malachi Richardson,4,10,3,0,Driving Layup Shot,2,7,20,True
+Malachi Richardson,2,10,50,0,Driving Layup Shot,1,-1,11,True
+Malachi Richardson,4,2,44,0,Driving Layup Shot,4,18,36,True
+Malachi Richardson,4,10,26,0,Driving Layup Shot,2,9,20,True
+Malachi Richardson,4,7,34,0,Driving Layup Shot,0,2,7,True
+Malachi Richardson,4,3,52,1,Driving Layup Shot,2,20,18,True
+Malachi Richardson,1,8,13,0,Driving Reverse Layup Shot,1,4,16,True
+Malachi Richardson,3,0,1,0,Fadeaway Jump Shot,22,228,20,False
+Malachi Richardson,2,11,33,1,Jump Bank Shot,8,82,26,True
+Malachi Richardson,2,11,10,1,Jump Shot,26,78,249,False
+Malachi Richardson,4,8,29,1,Jump Shot,25,84,243,False
+Malachi Richardson,2,4,50,0,Jump Shot,27,141,232,False
+Malachi Richardson,2,9,51,0,Jump Shot,25,-149,206,False
+Malachi Richardson,2,7,18,0,Jump Shot,11,101,51,True
+Malachi Richardson,4,1,33,1,Jump Shot,15,95,127,True
+Malachi Richardson,1,0,1,0,Jump Shot,22,-180,132,True
+Malachi Richardson,2,10,45,1,Jump Shot,19,166,102,True
+Malachi Richardson,3,1,2,0,Jump Shot,23,-231,35,False
+Malachi Richardson,3,1,7,0,Jump Shot,24,-196,153,False
+Malachi Richardson,2,9,11,0,Jump Shot,24,131,212,False
+Malachi Richardson,1,9,32,0,Jump Shot,14,144,23,True
+Malachi Richardson,1,9,35,0,Jump Shot,24,18,249,False
+Malachi Richardson,4,5,18,1,Jump Shot,25,-164,190,False
+Malachi Richardson,3,2,54,0,Jump Shot,16,155,54,True
+Malachi Richardson,3,6,17,0,Jump Shot,22,227,12,False
+Malachi Richardson,3,9,34,0,Jump Shot,26,-179,190,False
+Malachi Richardson,3,7,12,0,Jump Shot,25,-199,157,False
+Malachi Richardson,1,7,17,1,Jump Shot,22,-203,103,True
+Malachi Richardson,2,8,14,0,Jump Shot,28,-5,280,False
+Malachi Richardson,2,10,32,0,Jump Shot,24,-206,135,False
+Malachi Richardson,3,2,48,0,Jump Shot,23,228,52,False
+Malachi Richardson,4,9,10,0,Jump Shot,24,-163,189,False
+Malachi Richardson,1,2,22,0,Jump Shot,25,124,222,False
+Malachi Richardson,4,9,3,0,Jump Shot,2,17,20,True
+Malachi Richardson,2,7,15,1,Jump Shot,25,-169,188,False
+Malachi Richardson,2,6,20,1,Jump Shot,25,-150,202,False
+Malachi Richardson,2,7,57,1,Jump Shot,25,212,141,False
+Malachi Richardson,4,5,18,1,Jump Shot,25,156,205,False
+Malachi Richardson,4,8,36,0,Jump Shot,13,111,80,True
+Malachi Richardson,4,11,17,0,Jump Shot,24,178,175,False
+Malachi Richardson,2,9,36,0,Jump Shot,2,8,21,True
+Malachi Richardson,4,8,10,0,Jump Shot,25,-163,194,False
+Malachi Richardson,4,3,45,1,Jump Shot,26,205,174,False
+Malachi Richardson,2,6,52,0,Jump Shot,25,81,245,False
+Malachi Richardson,2,11,2,0,Jump Shot,24,219,104,False
+Malachi Richardson,4,1,18,0,Jump Shot,24,-144,197,False
+Malachi Richardson,4,7,10,1,Jump Shot,23,230,33,False
+Malachi Richardson,4,9,59,0,Jump Shot,16,167,7,True
+Malachi Richardson,4,5,20,0,Jump Shot,21,44,215,True
+Malachi Richardson,2,7,46,0,Jump Shot,25,201,159,False
+Malachi Richardson,4,1,56,0,Jump Shot,25,174,183,False
+Malachi Richardson,3,4,53,0,Jump Shot,26,47,257,False
+Malachi Richardson,4,3,8,0,Jump Shot,24,38,240,False
+Malachi Richardson,4,0,25,0,Jump Shot,24,204,142,False
+Malachi Richardson,4,8,43,0,Layup Shot,5,0,53,True
+Malachi Richardson,4,4,20,0,Layup Shot,3,27,21,True
+Malachi Richardson,4,10,26,1,Layup Shot,2,16,15,True
+Malachi Richardson,2,7,20,1,Layup Shot,0,8,4,True
+Malachi Richardson,2,1,43,0,Layup Shot,2,14,25,True
+Malachi Richardson,3,11,44,0,Pullup Jump shot,21,201,63,True
+Malachi Richardson,2,9,13,0,Pullup Jump shot,18,145,112,True
+Malachi Richardson,3,1,29,0,Pullup Jump shot,19,149,127,True
+Malachi Richardson,1,0,57,1,Pullup Jump shot,16,-158,55,True
+Malachi Richardson,1,6,37,0,Pullup Jump shot,24,115,220,False
+Malachi Richardson,1,0,1,0,Pullup Jump shot,18,134,127,True
+Malachi Richardson,4,1,32,1,Pullup Jump shot,17,147,97,True
+Malachi Richardson,1,11,19,0,Pullup Jump shot,15,-154,22,True
+Malachi Richardson,3,3,20,1,Pullup Jump shot,17,-162,62,True
+Malachi Richardson,2,5,35,1,Pullup Jump shot,21,24,211,True
+Malachi Richardson,2,8,52,0,Pullup Jump shot,8,-40,72,True
+Malachi Richardson,4,6,47,1,Pullup Jump shot,17,-12,176,True
+Malachi Richardson,1,1,8,1,Running Reverse Layup Shot,2,16,16,True
+Malachi Richardson,4,8,40,0,Step Back Jump shot,22,-111,199,True
+Malachi Richardson,4,3,56,1,Step Back Jump shot,24,-237,52,False
+Malachi Richardson,4,8,3,0,Tip Layup Shot,0,0,-6,True
+Malachi Richardson,4,2,2,1,Turnaround Fadeaway shot,5,-54,26,True

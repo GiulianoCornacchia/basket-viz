@@ -1,0 +1,26 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Bruno Caboclo,2,6,34,1,Floating Jump shot,10,-36,100,True
+Bruno Caboclo,4,1,35,0,Floating Jump shot,9,-29,92,True
+Bruno Caboclo,4,2,46,0,Hook Shot,6,3,68,True
+Bruno Caboclo,4,11,23,1,Jump Shot,22,-228,16,False
+Bruno Caboclo,3,1,19,0,Jump Shot,24,-226,84,False
+Bruno Caboclo,4,3,8,1,Jump Shot,26,92,246,False
+Bruno Caboclo,4,11,41,0,Jump Shot,25,190,176,False
+Bruno Caboclo,2,2,35,0,Jump Shot,14,-139,21,True
+Bruno Caboclo,2,0,7,1,Jump Shot,23,230,43,False
+Bruno Caboclo,2,1,56,0,Jump Shot,25,141,212,False
+Bruno Caboclo,4,3,52,0,Jump Shot,24,5,247,False
+Bruno Caboclo,2,8,20,0,Jump Shot,25,-36,251,False
+Bruno Caboclo,2,5,3,0,Jump Shot,16,161,-2,True
+Bruno Caboclo,4,0,27,0,Jump Shot,25,-84,239,False
+Bruno Caboclo,4,7,26,0,Jump Shot,25,-214,132,False
+Bruno Caboclo,3,0,52,0,Jump Shot,14,130,62,True
+Bruno Caboclo,3,4,48,0,Jump Shot,24,-169,184,False
+Bruno Caboclo,2,11,18,0,Jump Shot,24,187,162,False
+Bruno Caboclo,4,10,53,0,Jump Shot,24,146,200,False
+Bruno Caboclo,4,2,24,0,Jump Shot,22,-228,29,False
+Bruno Caboclo,3,0,23,0,Layup Shot,1,15,7,True
+Bruno Caboclo,2,10,53,0,Layup Shot,7,51,50,True
+Bruno Caboclo,4,9,43,1,Putback Dunk Shot,2,20,13,True
+Bruno Caboclo,4,9,56,1,Tip Layup Shot,0,0,-6,True
+Bruno Caboclo,4,11,34,1,Turnaround Fadeaway shot,11,-116,23,True

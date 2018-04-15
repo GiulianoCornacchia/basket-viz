@@ -1,0 +1,147 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Kenneth Faried,2,9,2,0,Alley Oop Dunk Shot,2,-14,25,True
+Kenneth Faried,2,7,46,1,Alley Oop Dunk Shot,1,-6,16,True
+Kenneth Faried,2,9,12,1,Alley Oop Dunk Shot,3,24,26,True
+Kenneth Faried,4,7,55,1,Alley Oop Dunk Shot,0,-2,9,True
+Kenneth Faried,3,2,37,1,Alley Oop Dunk Shot,1,9,15,True
+Kenneth Faried,4,6,3,1,Alley Oop Dunk Shot,2,-14,15,True
+Kenneth Faried,2,8,23,1,Alley Oop Dunk Shot,1,-7,17,True
+Kenneth Faried,4,3,3,1,Alley Oop Dunk Shot,3,-30,21,True
+Kenneth Faried,1,2,47,1,Alley Oop Dunk Shot,2,-14,15,True
+Kenneth Faried,2,2,40,1,Alley Oop Dunk Shot,1,6,8,True
+Kenneth Faried,2,7,9,1,Alley Oop Dunk Shot,3,-14,36,True
+Kenneth Faried,2,5,10,0,Alley Oop Dunk Shot,4,-16,37,True
+Kenneth Faried,4,9,59,0,Alley Oop Dunk Shot,1,-10,13,True
+Kenneth Faried,2,4,36,1,Alley Oop Dunk Shot,2,-2,27,True
+Kenneth Faried,2,6,41,0,Alley Oop Layup shot,1,-11,4,True
+Kenneth Faried,2,10,2,1,Cutting Dunk Shot,1,13,9,True
+Kenneth Faried,2,7,55,1,Cutting Dunk Shot,1,4,12,True
+Kenneth Faried,1,10,13,1,Cutting Dunk Shot,1,2,18,True
+Kenneth Faried,2,0,29,1,Cutting Dunk Shot,0,-2,0,True
+Kenneth Faried,2,8,51,1,Cutting Finger Roll Layup Shot,4,-1,41,True
+Kenneth Faried,4,7,19,0,Cutting Layup Shot,7,12,72,True
+Kenneth Faried,2,0,33,1,Cutting Layup Shot,2,21,16,True
+Kenneth Faried,1,6,56,1,Cutting Layup Shot,2,2,29,True
+Kenneth Faried,4,7,25,0,Cutting Layup Shot,3,-27,27,True
+Kenneth Faried,3,4,12,1,Cutting Layup Shot,2,20,17,True
+Kenneth Faried,3,4,30,1,Driving Finger Roll Layup Shot,3,13,29,True
+Kenneth Faried,4,8,40,0,Driving Floating Bank Jump Shot,7,69,13,True
+Kenneth Faried,1,10,56,0,Driving Floating Jump Shot,8,-81,26,True
+Kenneth Faried,4,4,27,1,Driving Hook Shot,4,-6,46,True
+Kenneth Faried,1,0,23,0,Driving Hook Shot,4,29,31,True
+Kenneth Faried,1,0,29,1,Driving Hook Shot,3,20,27,True
+Kenneth Faried,4,5,39,0,Driving Hook Shot,6,1,66,True
+Kenneth Faried,4,7,46,1,Driving Layup Shot,2,22,5,True
+Kenneth Faried,1,2,34,0,Driving Layup Shot,2,-14,15,True
+Kenneth Faried,2,4,21,0,Driving Layup Shot,3,-25,27,True
+Kenneth Faried,3,11,47,1,Driving Reverse Layup Shot,1,0,17,True
+Kenneth Faried,2,5,53,1,Dunk Shot,3,-4,35,True
+Kenneth Faried,2,3,59,1,Dunk Shot,1,-13,1,True
+Kenneth Faried,2,6,53,1,Dunk Shot,1,-12,13,True
+Kenneth Faried,2,11,22,0,Dunk Shot,11,67,99,True
+Kenneth Faried,4,7,40,1,Dunk Shot,3,28,16,True
+Kenneth Faried,2,5,6,1,Dunk Shot,1,-5,18,True
+Kenneth Faried,3,11,11,0,Dunk Shot,1,-14,14,True
+Kenneth Faried,2,6,55,0,Dunk Shot,2,10,22,True
+Kenneth Faried,2,5,51,1,Fadeaway Jump Shot,11,116,18,True
+Kenneth Faried,1,2,25,0,Fadeaway Jump Shot,4,-31,38,True
+Kenneth Faried,2,11,43,1,Fadeaway Jump Shot,8,69,50,True
+Kenneth Faried,3,5,52,1,Hook Shot,5,-8,51,True
+Kenneth Faried,2,11,36,1,Hook Shot,12,43,115,True
+Kenneth Faried,4,10,4,0,Hook Shot,8,-60,66,True
+Kenneth Faried,3,7,24,0,Hook Shot,9,28,90,True
+Kenneth Faried,3,10,46,0,Hook Shot,8,12,85,True
+Kenneth Faried,2,9,43,1,Hook Shot,10,-55,84,True
+Kenneth Faried,1,1,6,0,Hook Shot,9,-58,76,True
+Kenneth Faried,2,6,15,0,Hook Shot,9,-69,58,True
+Kenneth Faried,1,5,14,0,Hook Shot,6,-31,53,True
+Kenneth Faried,4,8,52,1,Hook Shot,8,-30,77,True
+Kenneth Faried,4,2,33,0,Hook Shot,1,13,12,True
+Kenneth Faried,2,7,37,1,Hook Shot,3,12,31,True
+Kenneth Faried,2,10,37,0,Hook Shot,4,19,37,True
+Kenneth Faried,2,9,31,1,Hook Shot,3,4,38,True
+Kenneth Faried,4,0,20,0,Jump Shot,10,-34,101,True
+Kenneth Faried,4,9,47,1,Jump Shot,17,46,165,True
+Kenneth Faried,4,10,4,0,Jump Shot,7,8,70,True
+Kenneth Faried,4,2,6,0,Jump Shot,18,-180,17,True
+Kenneth Faried,2,2,52,1,Jump Shot,21,82,194,True
+Kenneth Faried,3,4,56,1,Jump Shot,19,-110,162,True
+Kenneth Faried,3,11,9,1,Jump Shot,15,-134,69,True
+Kenneth Faried,2,8,49,1,Jump Shot,1,2,17,True
+Kenneth Faried,2,2,26,1,Jump Shot,6,-6,67,True
+Kenneth Faried,3,0,0,0,Jump Shot,82,13,822,False
+Kenneth Faried,2,4,17,1,Jump Shot,14,-70,123,True
+Kenneth Faried,3,1,7,0,Jump Shot,14,30,143,True
+Kenneth Faried,2,7,30,0,Jump Shot,15,-155,6,True
+Kenneth Faried,1,1,2,0,Layup Shot,1,-10,16,True
+Kenneth Faried,2,6,37,1,Layup Shot,2,-5,29,True
+Kenneth Faried,2,8,17,1,Layup Shot,4,-3,46,True
+Kenneth Faried,1,9,26,1,Layup Shot,2,-14,15,True
+Kenneth Faried,4,0,55,1,Layup Shot,2,22,20,True
+Kenneth Faried,2,10,23,1,Layup Shot,0,0,-6,True
+Kenneth Faried,2,6,56,0,Layup Shot,5,-7,54,True
+Kenneth Faried,2,11,5,0,Layup Shot,2,-11,17,True
+Kenneth Faried,3,8,8,1,Layup Shot,2,-13,25,True
+Kenneth Faried,4,4,6,0,Layup Shot,2,18,17,True
+Kenneth Faried,2,7,4,1,Layup Shot,4,-33,36,True
+Kenneth Faried,2,2,42,0,Layup Shot,3,-19,25,True
+Kenneth Faried,1,10,12,0,Layup Shot,2,-20,10,True
+Kenneth Faried,2,7,51,1,Layup Shot,6,8,60,True
+Kenneth Faried,2,10,50,1,Layup Shot,3,-11,38,True
+Kenneth Faried,1,2,28,0,Layup Shot,2,-20,14,True
+Kenneth Faried,2,7,49,0,Layup Shot,2,-23,17,True
+Kenneth Faried,4,1,17,0,Layup Shot,4,-42,16,True
+Kenneth Faried,1,3,0,0,Layup Shot,1,1,15,True
+Kenneth Faried,2,10,41,1,Layup Shot,4,36,22,True
+Kenneth Faried,4,5,26,0,Layup Shot,0,-6,3,True
+Kenneth Faried,4,5,30,0,Layup Shot,2,23,13,True
+Kenneth Faried,1,10,14,0,Layup Shot,1,11,16,True
+Kenneth Faried,2,6,41,0,Layup Shot,3,30,25,True
+Kenneth Faried,3,4,53,0,Layup Shot,5,-43,40,True
+Kenneth Faried,4,1,38,1,Putback Dunk Shot,0,0,-6,True
+Kenneth Faried,1,2,9,0,Putback Dunk Shot,0,0,-6,True
+Kenneth Faried,2,3,7,1,Putback Dunk Shot,0,-4,0,True
+Kenneth Faried,2,0,0,1,Putback Layup Shot,0,0,-6,True
+Kenneth Faried,2,6,3,0,Putback Layup Shot,0,0,-6,True
+Kenneth Faried,1,1,33,0,Putback Layup Shot,2,8,22,True
+Kenneth Faried,2,4,22,1,Putback Layup Shot,2,21,13,True
+Kenneth Faried,4,10,15,0,Putback Layup Shot,0,0,-6,True
+Kenneth Faried,2,6,2,1,Putback Layup Shot,0,0,-6,True
+Kenneth Faried,1,11,22,1,Reverse Dunk Shot,2,16,17,True
+Kenneth Faried,3,5,52,1,Reverse Layup Shot,2,18,14,True
+Kenneth Faried,2,9,7,0,Reverse Layup Shot,2,-24,11,True
+Kenneth Faried,5,0,13,1,Reverse Layup Shot,1,10,-11,True
+Kenneth Faried,2,8,59,1,Running Alley Oop Dunk Shot,3,-24,18,True
+Kenneth Faried,1,7,23,1,Running Dunk Shot,0,3,6,True
+Kenneth Faried,2,0,42,1,Running Layup Shot,1,-1,11,True
+Kenneth Faried,3,0,0,1,Running Layup Shot,1,0,14,True
+Kenneth Faried,2,11,6,0,Running Layup Shot,7,-62,47,True
+Kenneth Faried,1,1,55,1,Running Layup Shot,1,-11,13,True
+Kenneth Faried,3,11,22,1,Tip Dunk Shot,0,0,-6,True
+Kenneth Faried,2,4,5,1,Tip Layup Shot,0,0,-6,True
+Kenneth Faried,1,11,30,0,Tip Layup Shot,0,0,-6,True
+Kenneth Faried,3,7,6,0,Tip Layup Shot,2,-24,12,True
+Kenneth Faried,4,9,27,0,Tip Layup Shot,0,0,-6,True
+Kenneth Faried,3,4,52,1,Tip Layup Shot,0,0,-6,True
+Kenneth Faried,3,7,41,1,Tip Layup Shot,0,0,-6,True
+Kenneth Faried,4,10,15,0,Tip Layup Shot,0,0,-6,True
+Kenneth Faried,1,2,31,0,Tip Layup Shot,3,15,30,True
+Kenneth Faried,1,8,50,0,Tip Layup Shot,0,0,-6,True
+Kenneth Faried,2,11,38,1,Tip Layup Shot,0,0,-6,True
+Kenneth Faried,5,0,39,0,Tip Layup Shot,0,5,-8,True
+Kenneth Faried,1,0,59,0,Tip Layup Shot,0,0,-6,True
+Kenneth Faried,2,0,2,0,Tip Layup Shot,0,0,-6,True
+Kenneth Faried,2,0,1,0,Tip Layup Shot,2,18,19,True
+Kenneth Faried,2,3,3,1,Turnaround Fadeaway shot,7,-25,70,True
+Kenneth Faried,1,9,46,0,Turnaround Hook Shot,5,-11,55,True
+Kenneth Faried,2,11,45,0,Turnaround Hook Shot,10,-47,92,True
+Kenneth Faried,3,1,40,0,Turnaround Hook Shot,11,-2,117,True
+Kenneth Faried,2,11,12,0,Turnaround Hook Shot,6,-7,63,True
+Kenneth Faried,1,1,23,0,Turnaround Hook Shot,4,-3,46,True
+Kenneth Faried,2,5,6,1,Turnaround Hook Shot,4,-3,46,True
+Kenneth Faried,4,8,43,0,Turnaround Hook Shot,0,5,8,True
+Kenneth Faried,3,9,15,0,Turnaround Jump Shot,6,25,61,True
+Kenneth Faried,2,9,54,1,Turnaround Jump Shot,10,48,98,True
+Kenneth Faried,3,6,39,0,Turnaround Jump Shot,10,3,104,True
+Kenneth Faried,2,11,33,0,Turnaround Jump Shot,3,-25,27,True
+Kenneth Faried,1,6,14,0,Turnaround Jump Shot,8,-52,71,True

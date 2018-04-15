@@ -1,0 +1,33 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Lorenzo Brown,2,0,53,0,Driving Floating Bank Jump Shot,8,63,58,True
+Lorenzo Brown,2,3,46,0,Driving Layup Shot,2,-13,24,True
+Lorenzo Brown,2,5,58,1,Driving Layup Shot,3,16,27,True
+Lorenzo Brown,2,5,14,1,Driving Layup Shot,4,39,23,True
+Lorenzo Brown,4,8,40,1,Driving Layup Shot,3,30,5,True
+Lorenzo Brown,2,1,32,1,Driving Reverse Layup Shot,0,-4,3,True
+Lorenzo Brown,4,6,49,1,Fadeaway Jump Shot,9,-21,95,True
+Lorenzo Brown,4,8,58,0,Floating Jump shot,11,-107,26,True
+Lorenzo Brown,4,0,36,0,Jump Shot,26,-64,260,False
+Lorenzo Brown,4,5,58,0,Jump Shot,26,-142,223,False
+Lorenzo Brown,2,7,22,0,Jump Shot,22,-228,30,False
+Lorenzo Brown,4,9,48,1,Jump Shot,26,-179,191,False
+Lorenzo Brown,4,9,29,0,Jump Shot,23,232,43,False
+Lorenzo Brown,2,5,29,0,Jump Shot,19,105,159,True
+Lorenzo Brown,2,9,38,0,Jump Shot,22,228,8,False
+Lorenzo Brown,4,9,14,0,Jump Shot,22,226,-6,False
+Lorenzo Brown,4,1,37,0,Jump Shot,24,228,79,False
+Lorenzo Brown,4,8,44,0,Jump Shot,25,155,205,False
+Lorenzo Brown,2,1,12,0,Jump Shot,23,-233,-15,False
+Lorenzo Brown,4,6,41,0,Pullup Jump shot,15,8,159,True
+Lorenzo Brown,4,4,8,0,Pullup Jump shot,9,-2,98,True
+Lorenzo Brown,4,6,52,0,Pullup Jump shot,11,-49,104,True
+Lorenzo Brown,4,3,50,1,Pullup Jump shot,18,-103,153,True
+Lorenzo Brown,4,0,42,1,Pullup Jump shot,15,-44,147,True
+Lorenzo Brown,4,4,6,0,Pullup Jump shot,14,46,137,True
+Lorenzo Brown,4,1,27,1,Pullup Jump shot,16,165,27,True
+Lorenzo Brown,2,2,33,1,Pullup Jump shot,25,-125,222,False
+Lorenzo Brown,2,3,27,0,Pullup Jump shot,16,141,89,True
+Lorenzo Brown,4,8,43,1,Pullup Jump shot,18,-117,138,True
+Lorenzo Brown,4,7,59,1,Running Dunk Shot,0,3,8,True
+Lorenzo Brown,2,6,34,0,Running Jump Shot,5,-18,48,True
+Lorenzo Brown,4,2,55,1,Step Back Jump shot,10,-15,108,True

@@ -1,0 +1,529 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Troy Daniels,4,5,45,0,Cutting Finger Roll Layup Shot,1,-5,15,True
+Troy Daniels,4,3,48,1,Cutting Finger Roll Layup Shot,0,-3,8,True
+Troy Daniels,1,8,17,1,Cutting Finger Roll Layup Shot,0,2,5,True
+Troy Daniels,2,7,33,0,Cutting Layup Shot,1,2,10,True
+Troy Daniels,2,6,52,1,Cutting Layup Shot,1,0,12,True
+Troy Daniels,4,10,42,0,Cutting Layup Shot,1,9,8,True
+Troy Daniels,1,8,49,0,Cutting Layup Shot,0,-5,8,True
+Troy Daniels,1,4,11,1,Cutting Layup Shot,0,-7,0,True
+Troy Daniels,3,1,18,1,Cutting Layup Shot,0,2,-1,True
+Troy Daniels,1,0,57,0,Cutting Layup Shot,2,14,20,True
+Troy Daniels,1,10,3,0,Driving Finger Roll Layup Shot,7,12,72,True
+Troy Daniels,1,2,0,1,Driving Finger Roll Layup Shot,0,2,5,True
+Troy Daniels,2,9,41,0,Driving Floating Bank Jump Shot,7,-6,72,True
+Troy Daniels,1,5,16,1,Driving Floating Jump Shot,11,-36,109,True
+Troy Daniels,1,1,1,0,Driving Floating Jump Shot,12,-99,70,True
+Troy Daniels,2,11,43,0,Driving Floating Jump Shot,10,13,100,True
+Troy Daniels,4,10,33,0,Driving Floating Jump Shot,11,-30,116,True
+Troy Daniels,3,2,18,1,Driving Floating Jump Shot,9,-94,22,True
+Troy Daniels,2,11,42,1,Driving Floating Jump Shot,13,123,56,True
+Troy Daniels,4,2,9,1,Driving Floating Jump Shot,6,68,11,True
+Troy Daniels,1,4,33,0,Driving Floating Jump Shot,12,-2,120,True
+Troy Daniels,2,4,15,0,Driving Floating Jump Shot,11,43,102,True
+Troy Daniels,4,1,6,1,Driving Floating Jump Shot,14,-9,142,True
+Troy Daniels,4,11,28,0,Driving Floating Jump Shot,7,-36,69,True
+Troy Daniels,3,9,1,0,Driving Floating Jump Shot,10,-49,97,True
+Troy Daniels,3,3,42,1,Driving Floating Jump Shot,9,71,59,True
+Troy Daniels,4,10,54,1,Driving Layup Shot,0,3,2,True
+Troy Daniels,2,5,11,1,Driving Layup Shot,8,2,80,True
+Troy Daniels,3,1,16,0,Driving Layup Shot,1,0,15,True
+Troy Daniels,4,10,18,0,Driving Layup Shot,2,-9,22,True
+Troy Daniels,3,3,11,0,Driving Layup Shot,4,11,48,True
+Troy Daniels,1,0,52,1,Driving Layup Shot,0,2,9,True
+Troy Daniels,2,11,24,1,Driving Layup Shot,2,-6,20,True
+Troy Daniels,1,0,36,1,Driving Layup Shot,6,43,52,True
+Troy Daniels,2,11,30,0,Driving Layup Shot,7,-77,17,True
+Troy Daniels,2,8,28,0,Driving Layup Shot,0,0,0,True
+Troy Daniels,3,4,9,0,Driving Layup Shot,0,0,3,True
+Troy Daniels,4,3,10,0,Driving Layup Shot,2,-10,21,True
+Troy Daniels,4,0,39,0,Driving Layup Shot,2,-5,24,True
+Troy Daniels,4,10,16,0,Driving Reverse Layup Shot,1,-16,9,True
+Troy Daniels,2,1,24,0,Fadeaway Jump Shot,21,79,199,True
+Troy Daniels,2,2,30,0,Fadeaway Jump Shot,26,185,193,False
+Troy Daniels,2,0,0,0,Fadeaway Jump Shot,23,-227,74,False
+Troy Daniels,4,4,2,1,Fadeaway Jump Shot,25,-118,222,False
+Troy Daniels,4,0,40,0,Fadeaway Jump Shot,23,-230,15,False
+Troy Daniels,2,10,1,1,Floating Jump shot,10,18,108,True
+Troy Daniels,4,10,11,1,Floating Jump shot,12,0,127,True
+Troy Daniels,3,1,6,1,Floating Jump shot,14,41,135,True
+Troy Daniels,3,8,31,1,Floating Jump shot,11,-7,112,True
+Troy Daniels,2,8,40,0,Floating Jump shot,12,54,108,True
+Troy Daniels,1,6,22,1,Floating Jump shot,9,27,88,True
+Troy Daniels,4,4,19,0,Floating Jump shot,5,8,57,True
+Troy Daniels,3,5,22,1,Jump Bank Shot,12,110,48,True
+Troy Daniels,1,0,1,0,Jump Bank Shot,27,152,225,False
+Troy Daniels,2,7,38,0,Jump Bank Shot,30,-154,269,False
+Troy Daniels,2,3,18,1,Jump Shot,25,-36,254,False
+Troy Daniels,3,7,6,1,Jump Shot,25,-29,253,False
+Troy Daniels,1,6,29,0,Jump Shot,25,-237,81,False
+Troy Daniels,3,10,12,0,Jump Shot,26,116,237,False
+Troy Daniels,3,0,0,0,Jump Shot,31,220,220,False
+Troy Daniels,3,2,56,1,Jump Shot,22,-222,5,False
+Troy Daniels,3,11,31,0,Jump Shot,19,45,188,True
+Troy Daniels,1,7,5,1,Jump Shot,24,-209,136,False
+Troy Daniels,3,3,12,1,Jump Shot,23,231,1,False
+Troy Daniels,2,3,23,0,Jump Shot,25,105,232,False
+Troy Daniels,3,4,46,1,Jump Shot,25,-127,216,False
+Troy Daniels,1,7,34,1,Jump Shot,13,68,117,True
+Troy Daniels,3,3,52,1,Jump Shot,23,230,-2,False
+Troy Daniels,1,8,33,1,Jump Shot,16,162,12,True
+Troy Daniels,3,1,45,0,Jump Shot,21,196,87,True
+Troy Daniels,3,1,55,0,Jump Shot,22,229,-15,False
+Troy Daniels,1,6,46,1,Jump Shot,25,37,249,False
+Troy Daniels,1,4,10,0,Jump Shot,25,-36,251,False
+Troy Daniels,1,10,21,1,Jump Shot,25,-149,206,False
+Troy Daniels,4,0,39,0,Jump Shot,26,16,263,False
+Troy Daniels,1,9,15,1,Jump Shot,24,-226,86,False
+Troy Daniels,2,5,31,0,Jump Shot,25,67,246,False
+Troy Daniels,4,7,8,0,Jump Shot,24,-117,220,False
+Troy Daniels,4,8,12,1,Jump Shot,15,67,144,True
+Troy Daniels,2,10,19,1,Jump Shot,26,73,253,False
+Troy Daniels,2,6,25,0,Jump Shot,23,227,41,False
+Troy Daniels,2,8,3,0,Jump Shot,25,53,254,False
+Troy Daniels,2,9,13,0,Jump Shot,23,230,29,False
+Troy Daniels,4,9,47,0,Jump Shot,23,238,29,False
+Troy Daniels,1,5,48,0,Jump Shot,26,-125,230,False
+Troy Daniels,3,0,1,0,Jump Shot,23,237,-3,False
+Troy Daniels,4,1,7,0,Jump Shot,23,-231,40,False
+Troy Daniels,1,1,35,1,Jump Shot,25,-214,130,False
+Troy Daniels,2,8,32,1,Jump Shot,23,-230,-5,False
+Troy Daniels,2,3,27,0,Jump Shot,25,-214,143,False
+Troy Daniels,2,6,23,1,Jump Shot,26,226,129,False
+Troy Daniels,2,8,51,0,Jump Shot,25,202,163,False
+Troy Daniels,4,0,0,0,Jump Shot,58,-43,583,False
+Troy Daniels,4,10,44,0,Jump Shot,25,98,234,False
+Troy Daniels,2,9,7,1,Jump Shot,25,80,246,False
+Troy Daniels,1,1,4,1,Jump Shot,25,-204,153,False
+Troy Daniels,2,8,8,0,Jump Shot,27,44,272,False
+Troy Daniels,2,3,45,0,Jump Shot,26,-57,256,False
+Troy Daniels,4,0,43,0,Jump Shot,25,193,169,False
+Troy Daniels,1,3,43,1,Jump Shot,30,-11,305,False
+Troy Daniels,3,1,42,0,Jump Shot,23,-232,-6,False
+Troy Daniels,2,10,45,0,Jump Shot,25,188,173,False
+Troy Daniels,3,4,22,0,Jump Shot,28,-195,204,False
+Troy Daniels,2,11,48,1,Jump Shot,8,-7,85,True
+Troy Daniels,1,1,5,0,Jump Shot,18,20,188,True
+Troy Daniels,2,8,13,1,Jump Shot,25,-157,195,False
+Troy Daniels,2,7,6,0,Jump Shot,19,-192,49,True
+Troy Daniels,1,4,24,0,Jump Shot,27,-171,210,False
+Troy Daniels,3,4,21,0,Jump Shot,25,-165,197,False
+Troy Daniels,1,4,29,0,Jump Shot,25,-161,194,False
+Troy Daniels,3,8,51,0,Jump Shot,25,89,242,False
+Troy Daniels,1,5,32,0,Jump Shot,25,203,148,False
+Troy Daniels,2,0,51,1,Jump Shot,23,-231,1,False
+Troy Daniels,1,7,11,0,Jump Shot,27,-170,217,False
+Troy Daniels,4,7,16,0,Jump Shot,22,-223,56,False
+Troy Daniels,1,0,53,0,Jump Shot,25,127,226,False
+Troy Daniels,3,9,40,0,Jump Shot,25,234,99,False
+Troy Daniels,1,11,26,0,Jump Shot,18,-183,-3,True
+Troy Daniels,2,1,57,0,Jump Shot,26,236,110,False
+Troy Daniels,2,5,15,0,Jump Shot,22,-222,-26,False
+Troy Daniels,2,3,55,1,Jump Shot,29,187,227,False
+Troy Daniels,3,4,15,0,Jump Shot,25,158,199,False
+Troy Daniels,4,9,17,0,Jump Shot,27,-2,270,False
+Troy Daniels,3,2,45,1,Jump Shot,29,-33,295,False
+Troy Daniels,2,2,34,1,Jump Shot,24,-228,79,False
+Troy Daniels,3,1,47,0,Jump Shot,22,227,15,False
+Troy Daniels,4,11,39,0,Jump Shot,29,143,263,False
+Troy Daniels,1,1,37,0,Jump Shot,25,-20,252,False
+Troy Daniels,4,9,53,0,Jump Shot,22,39,218,True
+Troy Daniels,1,3,30,1,Jump Shot,25,13,253,False
+Troy Daniels,4,0,30,0,Jump Shot,25,138,216,False
+Troy Daniels,1,4,22,1,Jump Shot,31,135,283,False
+Troy Daniels,2,9,1,0,Jump Shot,26,-214,153,False
+Troy Daniels,2,10,54,0,Jump Shot,27,-57,265,False
+Troy Daniels,1,2,10,1,Jump Shot,23,-232,-25,False
+Troy Daniels,2,1,36,0,Jump Shot,25,-180,180,False
+Troy Daniels,3,7,2,0,Jump Shot,29,-170,242,False
+Troy Daniels,4,9,23,0,Jump Shot,23,-225,82,False
+Troy Daniels,1,4,31,1,Jump Shot,22,222,6,False
+Troy Daniels,2,10,56,0,Jump Shot,29,181,238,False
+Troy Daniels,3,4,41,0,Jump Shot,25,-85,239,False
+Troy Daniels,3,3,34,0,Jump Shot,22,-227,20,False
+Troy Daniels,1,9,15,1,Jump Shot,24,-53,241,False
+Troy Daniels,2,10,15,1,Jump Shot,24,141,204,False
+Troy Daniels,1,10,56,1,Jump Shot,27,-210,183,False
+Troy Daniels,1,7,58,0,Jump Shot,27,49,274,False
+Troy Daniels,2,3,45,0,Jump Shot,19,-101,165,True
+Troy Daniels,1,6,37,0,Jump Shot,23,223,80,False
+Troy Daniels,1,9,7,0,Jump Shot,26,-183,194,False
+Troy Daniels,1,0,29,0,Jump Shot,27,-120,251,False
+Troy Daniels,3,10,4,0,Jump Shot,25,-114,224,False
+Troy Daniels,1,5,11,0,Jump Shot,26,64,259,False
+Troy Daniels,1,10,48,0,Jump Shot,25,-183,179,False
+Troy Daniels,4,9,33,0,Jump Shot,24,172,171,False
+Troy Daniels,1,0,31,0,Jump Shot,25,-126,225,False
+Troy Daniels,1,8,27,1,Jump Shot,25,163,197,False
+Troy Daniels,3,8,21,1,Jump Shot,24,206,136,False
+Troy Daniels,3,4,32,1,Jump Shot,25,100,234,False
+Troy Daniels,3,9,36,1,Jump Shot,26,137,230,False
+Troy Daniels,2,10,23,1,Jump Shot,23,231,2,False
+Troy Daniels,1,2,36,1,Jump Shot,25,-175,179,False
+Troy Daniels,4,11,23,0,Jump Shot,19,-199,12,True
+Troy Daniels,4,1,59,0,Jump Shot,27,-133,242,False
+Troy Daniels,3,2,17,1,Jump Shot,23,230,-8,False
+Troy Daniels,2,9,50,0,Jump Shot,26,-72,251,False
+Troy Daniels,1,5,28,0,Jump Shot,27,145,237,False
+Troy Daniels,3,2,43,1,Jump Shot,22,-228,-15,False
+Troy Daniels,1,10,52,1,Jump Shot,22,-229,-3,False
+Troy Daniels,3,5,39,0,Jump Shot,24,213,126,False
+Troy Daniels,2,0,36,1,Jump Shot,23,-227,43,False
+Troy Daniels,3,10,20,1,Jump Shot,26,-154,216,False
+Troy Daniels,1,4,31,0,Jump Shot,28,210,199,False
+Troy Daniels,3,9,15,1,Jump Shot,26,210,168,False
+Troy Daniels,3,7,1,0,Jump Shot,24,231,71,False
+Troy Daniels,1,2,23,0,Jump Shot,28,-131,252,False
+Troy Daniels,3,0,25,0,Jump Shot,25,192,169,False
+Troy Daniels,3,1,24,1,Jump Shot,29,-123,264,False
+Troy Daniels,2,4,40,1,Jump Shot,24,-222,96,False
+Troy Daniels,4,8,1,0,Jump Shot,27,-217,172,False
+Troy Daniels,4,2,5,0,Jump Shot,25,196,167,False
+Troy Daniels,3,4,58,0,Jump Shot,24,-236,53,False
+Troy Daniels,4,0,58,1,Jump Shot,29,-228,181,False
+Troy Daniels,1,9,15,0,Jump Shot,29,12,299,False
+Troy Daniels,3,2,10,1,Jump Shot,23,-228,44,False
+Troy Daniels,1,0,2,0,Jump Shot,26,89,248,False
+Troy Daniels,2,11,51,0,Jump Shot,22,-225,15,False
+Troy Daniels,2,2,11,1,Jump Shot,24,-173,177,False
+Troy Daniels,4,0,24,0,Jump Shot,25,102,235,False
+Troy Daniels,3,11,47,0,Jump Shot,24,108,223,False
+Troy Daniels,1,11,26,0,Jump Shot,26,191,177,False
+Troy Daniels,1,4,11,0,Jump Shot,25,-58,250,False
+Troy Daniels,1,4,44,0,Jump Shot,21,2,217,True
+Troy Daniels,3,6,35,0,Jump Shot,26,-184,185,False
+Troy Daniels,1,6,7,0,Jump Shot,26,-217,148,False
+Troy Daniels,1,3,35,1,Jump Shot,25,143,206,False
+Troy Daniels,3,5,19,0,Jump Shot,15,-30,157,True
+Troy Daniels,2,1,7,0,Jump Shot,26,85,256,False
+Troy Daniels,4,4,32,0,Jump Shot,21,-203,82,True
+Troy Daniels,4,6,14,0,Jump Shot,23,228,46,False
+Troy Daniels,1,2,36,1,Jump Shot,26,63,257,False
+Troy Daniels,2,11,50,0,Jump Shot,24,145,200,False
+Troy Daniels,2,8,47,1,Jump Shot,23,-232,0,False
+Troy Daniels,1,2,6,0,Jump Shot,26,85,247,False
+Troy Daniels,3,8,3,0,Jump Shot,21,-187,110,True
+Troy Daniels,4,3,44,1,Jump Shot,20,2,201,True
+Troy Daniels,1,1,41,0,Jump Shot,25,103,237,False
+Troy Daniels,3,2,7,0,Jump Shot,24,-214,125,False
+Troy Daniels,3,0,3,0,Jump Shot,22,229,-4,False
+Troy Daniels,4,7,47,0,Jump Shot,25,20,257,False
+Troy Daniels,4,6,19,1,Jump Shot,24,139,205,False
+Troy Daniels,2,10,13,0,Jump Shot,27,149,235,False
+Troy Daniels,2,10,54,1,Jump Shot,20,178,95,True
+Troy Daniels,2,10,15,0,Jump Shot,31,-65,309,False
+Troy Daniels,4,10,37,0,Jump Shot,25,-168,188,False
+Troy Daniels,2,11,52,1,Jump Shot,22,228,-17,False
+Troy Daniels,2,6,29,0,Jump Shot,21,-88,198,True
+Troy Daniels,4,8,50,1,Jump Shot,22,228,-5,False
+Troy Daniels,2,8,23,1,Jump Shot,24,54,242,False
+Troy Daniels,4,1,47,0,Jump Shot,27,218,166,False
+Troy Daniels,4,9,29,1,Jump Shot,25,133,223,False
+Troy Daniels,4,11,33,1,Jump Shot,26,-143,218,False
+Troy Daniels,4,10,19,0,Jump Shot,27,-153,225,False
+Troy Daniels,2,5,25,0,Jump Shot,28,-85,272,False
+Troy Daniels,2,10,49,0,Jump Shot,25,153,205,False
+Troy Daniels,3,1,57,0,Jump Shot,24,225,94,False
+Troy Daniels,2,2,54,1,Jump Shot,23,227,65,False
+Troy Daniels,1,1,30,0,Jump Shot,26,-171,207,False
+Troy Daniels,2,11,27,1,Jump Shot,23,220,81,False
+Troy Daniels,2,8,37,1,Jump Shot,26,-234,118,False
+Troy Daniels,4,7,30,1,Jump Shot,23,-230,-18,False
+Troy Daniels,4,9,50,0,Jump Shot,28,-184,224,False
+Troy Daniels,2,5,18,1,Jump Shot,27,-115,251,False
+Troy Daniels,2,5,44,1,Jump Shot,24,-230,76,False
+Troy Daniels,2,7,33,1,Jump Shot,22,223,0,False
+Troy Daniels,4,6,54,0,Jump Shot,25,157,197,False
+Troy Daniels,1,2,32,0,Jump Shot,19,-117,154,True
+Troy Daniels,1,1,20,0,Jump Shot,23,230,-17,False
+Troy Daniels,2,11,45,0,Jump Shot,25,163,200,False
+Troy Daniels,4,10,54,0,Jump Shot,25,-44,253,False
+Troy Daniels,1,0,36,1,Jump Shot,23,228,34,False
+Troy Daniels,4,9,29,0,Jump Shot,22,228,-22,False
+Troy Daniels,2,1,34,0,Jump Shot,24,-228,89,False
+Troy Daniels,4,8,40,0,Jump Shot,24,214,123,False
+Troy Daniels,2,11,0,0,Jump Shot,27,74,268,False
+Troy Daniels,4,10,45,0,Jump Shot,24,100,225,False
+Troy Daniels,1,0,26,1,Jump Shot,24,225,98,False
+Troy Daniels,2,6,31,1,Jump Shot,22,-228,-17,False
+Troy Daniels,1,1,25,1,Jump Shot,22,228,-14,False
+Troy Daniels,2,7,1,1,Jump Shot,25,130,222,False
+Troy Daniels,2,5,6,0,Jump Shot,23,230,-5,False
+Troy Daniels,3,0,37,1,Jump Shot,23,229,45,False
+Troy Daniels,2,9,15,1,Jump Shot,28,113,264,False
+Troy Daniels,3,4,26,1,Jump Shot,24,-118,219,False
+Troy Daniels,3,2,3,0,Jump Shot,26,-129,229,False
+Troy Daniels,2,4,47,0,Jump Shot,26,232,122,False
+Troy Daniels,2,5,17,0,Jump Shot,23,-236,-19,False
+Troy Daniels,4,10,18,0,Jump Shot,12,-105,75,True
+Troy Daniels,2,6,50,1,Jump Shot,25,-214,142,False
+Troy Daniels,2,11,49,1,Jump Shot,19,-19,197,True
+Troy Daniels,2,8,13,0,Jump Shot,24,188,153,False
+Troy Daniels,3,1,43,1,Jump Shot,17,9,173,True
+Troy Daniels,1,3,56,0,Jump Shot,25,-130,214,False
+Troy Daniels,1,2,35,0,Jump Shot,25,-174,184,False
+Troy Daniels,2,10,20,0,Jump Shot,25,218,134,False
+Troy Daniels,4,10,6,0,Jump Shot,25,-138,209,False
+Troy Daniels,3,0,22,0,Jump Shot,26,216,152,False
+Troy Daniels,4,8,3,0,Jump Shot,26,-108,246,False
+Troy Daniels,2,3,21,0,Jump Shot,26,-212,151,False
+Troy Daniels,4,11,15,1,Jump Shot,25,230,101,False
+Troy Daniels,4,7,56,0,Jump Shot,25,-188,174,False
+Troy Daniels,3,1,58,0,Jump Shot,23,228,50,False
+Troy Daniels,2,11,41,1,Jump Shot,25,-47,253,False
+Troy Daniels,4,7,55,0,Jump Shot,27,-36,268,False
+Troy Daniels,1,3,14,1,Jump Shot,25,40,249,False
+Troy Daniels,3,6,4,1,Jump Shot,26,196,179,False
+Troy Daniels,1,1,20,0,Jump Shot,25,126,225,False
+Troy Daniels,3,3,40,1,Jump Shot,25,138,217,False
+Troy Daniels,4,2,57,1,Jump Shot,24,-84,229,False
+Troy Daniels,4,8,5,0,Jump Shot,25,-82,242,False
+Troy Daniels,1,4,4,0,Jump Shot,25,131,220,False
+Troy Daniels,3,3,26,1,Jump Shot,26,-46,256,False
+Troy Daniels,3,2,4,1,Jump Shot,24,229,92,False
+Troy Daniels,2,3,51,0,Jump Shot,24,-232,66,False
+Troy Daniels,1,7,23,0,Jump Shot,26,-160,209,False
+Troy Daniels,2,4,10,1,Jump Shot,27,155,231,False
+Troy Daniels,3,9,58,0,Jump Shot,25,-174,187,False
+Troy Daniels,1,11,17,0,Jump Shot,25,189,173,False
+Troy Daniels,1,9,37,0,Jump Shot,23,233,32,False
+Troy Daniels,4,9,52,1,Jump Shot,23,230,34,False
+Troy Daniels,3,10,10,0,Jump Shot,25,111,231,False
+Troy Daniels,1,2,59,0,Jump Shot,24,211,117,False
+Troy Daniels,4,5,2,0,Jump Shot,24,-204,140,False
+Troy Daniels,3,9,6,0,Jump Shot,25,83,242,False
+Troy Daniels,1,9,38,0,Jump Shot,26,-3,264,False
+Troy Daniels,2,9,43,1,Jump Shot,28,-115,264,False
+Troy Daniels,4,4,29,1,Jump Shot,23,234,29,False
+Troy Daniels,2,5,59,1,Jump Shot,23,-231,10,False
+Troy Daniels,4,3,44,1,Jump Shot,23,-233,-7,False
+Troy Daniels,4,2,16,1,Jump Shot,27,149,234,False
+Troy Daniels,2,2,44,0,Jump Shot,26,-176,200,False
+Troy Daniels,3,5,13,0,Jump Shot,23,231,36,False
+Troy Daniels,2,6,20,0,Jump Shot,30,218,209,False
+Troy Daniels,3,1,32,0,Jump Shot,27,185,201,False
+Troy Daniels,3,2,56,1,Jump Shot,29,157,247,False
+Troy Daniels,4,9,47,0,Jump Shot,26,-223,134,False
+Troy Daniels,4,0,0,0,Jump Shot,27,-163,221,False
+Troy Daniels,4,5,46,0,Jump Shot,23,-231,52,False
+Troy Daniels,4,1,22,0,Jump Shot,26,-26,267,False
+Troy Daniels,1,1,15,0,Jump Shot,26,-154,221,False
+Troy Daniels,4,2,46,1,Jump Shot,26,-100,247,False
+Troy Daniels,3,2,18,1,Jump Shot,26,-141,225,False
+Troy Daniels,4,0,19,1,Jump Shot,26,-46,262,False
+Troy Daniels,4,3,17,1,Jump Shot,23,230,13,False
+Troy Daniels,4,11,48,1,Jump Shot,23,230,40,False
+Troy Daniels,1,2,17,1,Jump Shot,22,223,21,False
+Troy Daniels,4,9,1,1,Jump Shot,23,-233,13,False
+Troy Daniels,4,6,31,0,Jump Shot,26,87,252,False
+Troy Daniels,4,3,13,0,Jump Shot,25,-151,209,False
+Troy Daniels,1,3,10,0,Jump Shot,27,2,273,False
+Troy Daniels,4,8,25,1,Jump Shot,25,-154,199,False
+Troy Daniels,4,9,46,1,Jump Shot,25,213,132,False
+Troy Daniels,3,4,44,1,Jump Shot,27,-128,245,False
+Troy Daniels,2,7,39,0,Jump Shot,26,-127,232,False
+Troy Daniels,4,9,8,0,Jump Shot,22,-228,30,False
+Troy Daniels,2,9,41,1,Jump Shot,27,-187,201,False
+Troy Daniels,2,10,56,1,Jump Shot,16,-166,23,True
+Troy Daniels,3,6,11,1,Jump Shot,26,188,182,False
+Troy Daniels,3,2,8,0,Jump Shot,26,217,152,False
+Troy Daniels,2,1,56,1,Jump Shot,23,-231,-19,False
+Troy Daniels,3,3,18,0,Jump Shot,25,-120,229,False
+Troy Daniels,2,0,9,1,Jump Shot,23,228,-34,False
+Troy Daniels,4,1,54,0,Jump Shot,27,127,242,False
+Troy Daniels,4,11,37,1,Jump Shot,25,-205,148,False
+Troy Daniels,1,3,2,0,Jump Shot,27,82,259,False
+Troy Daniels,3,3,48,0,Jump Shot,27,157,225,False
+Troy Daniels,4,10,52,1,Jump Shot,24,226,101,False
+Troy Daniels,2,9,5,0,Jump Shot,25,194,158,False
+Troy Daniels,4,7,42,0,Jump Shot,28,187,211,False
+Troy Daniels,2,0,55,1,Jump Shot,26,139,222,False
+Troy Daniels,2,9,38,0,Jump Shot,27,145,233,False
+Troy Daniels,2,11,34,0,Jump Shot,25,158,195,False
+Troy Daniels,2,10,31,1,Jump Shot,23,226,62,False
+Troy Daniels,1,2,48,1,Jump Shot,23,230,-19,False
+Troy Daniels,3,2,10,0,Jump Shot,23,230,-16,False
+Troy Daniels,3,0,3,0,Jump Shot,22,-228,-23,False
+Troy Daniels,1,2,17,0,Jump Shot,25,24,249,False
+Troy Daniels,2,1,57,0,Jump Shot,25,40,252,False
+Troy Daniels,4,1,43,0,Jump Shot,27,115,245,False
+Troy Daniels,4,4,31,1,Jump Shot,23,-231,-5,False
+Troy Daniels,4,1,59,0,Jump Shot,25,-138,210,False
+Troy Daniels,2,0,11,0,Jump Shot,23,-232,31,False
+Troy Daniels,1,0,16,1,Jump Shot,20,-206,-10,True
+Troy Daniels,1,4,0,1,Jump Shot,25,-3,257,False
+Troy Daniels,1,4,24,0,Jump Shot,24,169,181,False
+Troy Daniels,1,3,39,0,Jump Shot,22,229,15,False
+Troy Daniels,1,3,47,0,Jump Shot,25,154,201,False
+Troy Daniels,3,5,31,1,Jump Shot,23,237,-5,False
+Troy Daniels,3,4,15,0,Jump Shot,16,157,38,True
+Troy Daniels,2,11,31,0,Jump Shot,30,208,226,False
+Troy Daniels,4,7,9,0,Jump Shot,25,86,237,False
+Troy Daniels,4,7,46,1,Jump Shot,23,-234,-5,False
+Troy Daniels,4,8,35,0,Jump Shot,26,-105,244,False
+Troy Daniels,4,1,1,0,Jump Shot,25,-71,242,False
+Troy Daniels,3,1,14,0,Jump Shot,22,228,6,False
+Troy Daniels,3,2,1,0,Jump Shot,26,111,243,False
+Troy Daniels,4,9,24,0,Jump Shot,25,-49,252,False
+Troy Daniels,3,1,2,0,Jump Shot,26,-182,186,False
+Troy Daniels,3,1,34,1,Jump Shot,23,-231,52,False
+Troy Daniels,2,10,9,0,Jump Shot,23,231,17,False
+Troy Daniels,3,4,25,0,Jump Shot,26,188,186,False
+Troy Daniels,2,9,46,0,Jump Shot,24,-93,231,False
+Troy Daniels,2,8,49,0,Jump Shot,25,-81,237,False
+Troy Daniels,3,3,44,1,Jump Shot,22,226,7,False
+Troy Daniels,3,0,0,0,Jump Shot,11,-104,50,True
+Troy Daniels,3,4,47,1,Jump Shot,25,157,206,False
+Troy Daniels,2,11,32,0,Jump Shot,23,-237,-14,False
+Troy Daniels,2,8,37,1,Jump Shot,24,223,105,False
+Troy Daniels,2,5,29,1,Jump Shot,29,-3,291,False
+Troy Daniels,2,1,7,0,Jump Shot,25,-137,216,False
+Troy Daniels,4,0,27,0,Jump Shot,24,-157,190,False
+Troy Daniels,2,8,21,0,Jump Shot,22,227,-1,False
+Troy Daniels,3,3,31,0,Jump Shot,24,147,201,False
+Troy Daniels,1,3,52,1,Jump Shot,27,143,238,False
+Troy Daniels,3,3,8,0,Jump Shot,25,-57,246,False
+Troy Daniels,4,0,17,1,Jump Shot,24,-210,126,False
+Troy Daniels,1,0,31,1,Jump Shot,26,48,264,False
+Troy Daniels,4,8,33,0,Jump Shot,25,-79,242,False
+Troy Daniels,1,4,27,0,Jump Shot,16,96,139,True
+Troy Daniels,1,0,9,0,Jump Shot,27,133,245,False
+Troy Daniels,2,11,43,0,Jump Shot,26,-80,248,False
+Troy Daniels,3,3,25,0,Jump Shot,25,-171,193,False
+Troy Daniels,3,4,36,0,Jump Shot,22,228,8,False
+Troy Daniels,3,6,17,1,Jump Shot,22,225,7,False
+Troy Daniels,3,1,0,1,Jump Shot,26,-62,257,False
+Troy Daniels,2,7,12,0,Jump Shot,24,159,189,False
+Troy Daniels,1,4,55,1,Jump Shot,24,-136,204,False
+Troy Daniels,4,5,45,1,Jump Shot,26,-98,246,False
+Troy Daniels,3,4,2,1,Jump Shot,23,-239,8,False
+Troy Daniels,4,2,8,0,Jump Shot,20,8,201,True
+Troy Daniels,4,4,16,0,Jump Shot,22,-228,-18,False
+Troy Daniels,3,2,24,1,Jump Shot,25,-179,178,False
+Troy Daniels,1,1,59,0,Jump Shot,26,136,223,False
+Troy Daniels,4,11,44,1,Jump Shot,25,-3,255,False
+Troy Daniels,4,0,23,1,Jump Shot,16,-98,129,True
+Troy Daniels,4,8,4,1,Jump Shot,23,-230,-5,False
+Troy Daniels,1,2,6,0,Jump Shot,24,-92,231,False
+Troy Daniels,3,1,58,0,Jump Shot,25,143,215,False
+Troy Daniels,2,3,24,0,Jump Shot,27,119,250,False
+Troy Daniels,2,0,56,0,Jump Shot,22,-226,-10,False
+Troy Daniels,4,0,16,1,Jump Shot,26,-45,263,False
+Troy Daniels,4,9,56,0,Jump Shot,25,-183,180,False
+Troy Daniels,2,10,40,1,Jump Shot,25,163,195,False
+Troy Daniels,4,8,45,0,Jump Shot,26,-187,188,False
+Troy Daniels,4,9,27,0,Jump Shot,26,21,264,False
+Troy Daniels,3,5,19,0,Jump Shot,23,-224,86,False
+Troy Daniels,1,5,56,1,Jump Shot,24,122,218,False
+Troy Daniels,1,0,43,0,Jump Shot,27,208,176,False
+Troy Daniels,4,10,5,0,Jump Shot,29,123,264,False
+Troy Daniels,1,4,7,0,Jump Shot,22,222,44,False
+Troy Daniels,2,3,45,0,Jump Shot,28,0,286,False
+Troy Daniels,3,1,25,1,Jump Shot,25,-180,180,False
+Troy Daniels,2,4,48,1,Jump Shot,27,118,243,False
+Troy Daniels,3,4,31,0,Jump Shot,26,84,250,False
+Troy Daniels,4,9,23,0,Jump Shot,24,234,67,False
+Troy Daniels,2,6,44,0,Jump Shot,22,-228,2,False
+Troy Daniels,3,5,22,1,Jump Shot,25,-98,240,False
+Troy Daniels,3,4,59,0,Jump Shot,23,225,53,False
+Troy Daniels,3,1,44,1,Jump Shot,22,-227,-13,False
+Troy Daniels,3,3,18,1,Jump Shot,19,-199,-8,True
+Troy Daniels,2,9,36,0,Jump Shot,22,-224,33,False
+Troy Daniels,2,10,58,0,Jump Shot,5,-2,59,True
+Troy Daniels,4,9,16,0,Jump Shot,23,231,25,False
+Troy Daniels,1,2,38,1,Jump Shot,27,-43,270,False
+Troy Daniels,4,10,20,0,Jump Shot,24,-226,95,False
+Troy Daniels,4,10,42,0,Jump Shot,11,9,117,True
+Troy Daniels,1,0,38,0,Jump Shot,24,212,127,False
+Troy Daniels,4,7,26,0,Jump Shot,20,-205,-15,True
+Troy Daniels,4,11,9,1,Jump Shot,25,-165,192,False
+Troy Daniels,1,0,34,0,Jump Shot,25,155,203,False
+Troy Daniels,2,7,37,0,Jump Shot,19,196,11,True
+Troy Daniels,2,9,32,0,Jump Shot,25,168,192,False
+Troy Daniels,2,11,32,1,Jump Shot,23,225,53,False
+Troy Daniels,4,8,22,1,Jump Shot,25,146,212,False
+Troy Daniels,4,6,45,1,Jump Shot,27,-168,220,False
+Troy Daniels,1,1,38,0,Layup Shot,2,9,25,True
+Troy Daniels,3,7,1,0,Pullup Jump shot,26,-148,220,False
+Troy Daniels,2,7,21,1,Pullup Jump shot,25,-169,188,False
+Troy Daniels,1,2,26,0,Pullup Jump shot,26,-131,225,False
+Troy Daniels,3,3,38,0,Pullup Jump shot,27,-79,268,False
+Troy Daniels,4,11,21,0,Pullup Jump shot,25,188,167,False
+Troy Daniels,2,3,42,0,Pullup Jump shot,28,181,221,False
+Troy Daniels,3,3,56,0,Pullup Jump shot,24,43,243,False
+Troy Daniels,2,3,49,1,Pullup Jump shot,25,54,248,False
+Troy Daniels,4,7,18,0,Pullup Jump shot,24,9,248,False
+Troy Daniels,1,1,33,0,Pullup Jump shot,27,-89,257,False
+Troy Daniels,2,7,15,1,Pullup Jump shot,24,-228,101,False
+Troy Daniels,4,7,57,0,Pullup Jump shot,19,196,17,True
+Troy Daniels,4,10,52,0,Pullup Jump shot,19,193,4,True
+Troy Daniels,2,0,41,0,Pullup Jump shot,17,1,177,True
+Troy Daniels,2,8,10,0,Pullup Jump shot,17,-154,75,True
+Troy Daniels,1,7,50,0,Pullup Jump shot,16,-30,161,True
+Troy Daniels,2,10,1,0,Pullup Jump shot,25,-21,250,False
+Troy Daniels,1,4,53,1,Pullup Jump shot,25,-68,249,False
+Troy Daniels,1,4,21,1,Pullup Jump shot,26,-54,258,False
+Troy Daniels,2,3,54,1,Pullup Jump shot,26,79,256,False
+Troy Daniels,1,4,16,0,Pullup Jump shot,22,-140,174,True
+Troy Daniels,3,5,45,0,Pullup Jump shot,26,-128,229,False
+Troy Daniels,4,9,39,1,Pullup Jump shot,24,-192,157,False
+Troy Daniels,2,11,3,1,Pullup Jump shot,21,-1,215,True
+Troy Daniels,3,3,43,0,Pullup Jump shot,26,-65,252,False
+Troy Daniels,4,6,37,1,Pullup Jump shot,10,101,3,True
+Troy Daniels,1,7,8,1,Pullup Jump shot,26,114,238,False
+Troy Daniels,2,7,38,1,Pullup Jump shot,19,19,192,True
+Troy Daniels,2,8,1,0,Pullup Jump shot,18,-114,144,True
+Troy Daniels,3,8,56,1,Pullup Jump shot,26,-169,199,False
+Troy Daniels,1,5,35,0,Pullup Jump shot,16,-122,118,True
+Troy Daniels,4,2,31,0,Pullup Jump shot,27,116,251,False
+Troy Daniels,3,4,28,0,Pullup Jump shot,24,234,63,False
+Troy Daniels,1,2,50,0,Running Jump Shot,27,-104,257,False
+Troy Daniels,3,0,0,0,Running Jump Shot,25,201,163,False
+Troy Daniels,1,5,16,0,Running Jump Shot,24,105,226,False
+Troy Daniels,4,0,58,0,Running Jump Shot,28,-116,257,False
+Troy Daniels,3,3,36,1,Running Jump Shot,22,229,-4,False
+Troy Daniels,2,6,16,1,Running Jump Shot,22,-226,0,False
+Troy Daniels,3,10,51,0,Running Jump Shot,25,-70,240,False
+Troy Daniels,2,9,6,1,Running Jump Shot,26,-106,241,False
+Troy Daniels,4,11,11,1,Running Jump Shot,25,-203,147,False
+Troy Daniels,3,1,8,1,Running Jump Shot,25,-96,234,False
+Troy Daniels,2,9,40,0,Running Jump Shot,22,-225,-14,False
+Troy Daniels,3,8,20,0,Running Jump Shot,26,138,230,False
+Troy Daniels,2,10,8,0,Running Jump Shot,25,198,153,False
+Troy Daniels,2,7,34,1,Running Jump Shot,23,-238,-24,False
+Troy Daniels,3,0,52,1,Running Jump Shot,22,-224,16,False
+Troy Daniels,4,6,30,0,Running Jump Shot,24,-232,89,False
+Troy Daniels,3,0,29,1,Running Jump Shot,25,219,125,False
+Troy Daniels,3,2,20,1,Running Jump Shot,22,-225,45,False
+Troy Daniels,3,10,53,1,Running Jump Shot,25,129,217,False
+Troy Daniels,3,2,49,0,Running Jump Shot,25,196,164,False
+Troy Daniels,1,7,46,0,Running Layup Shot,0,4,7,True
+Troy Daniels,3,7,32,1,Running Layup Shot,0,8,0,True
+Troy Daniels,4,6,13,0,Running Layup Shot,0,-5,-1,True
+Troy Daniels,1,11,42,1,Running Reverse Layup Shot,3,18,28,True
+Troy Daniels,1,1,10,1,Step Back Jump shot,25,-202,163,False
+Troy Daniels,4,7,46,1,Step Back Jump shot,26,221,148,False
+Troy Daniels,1,2,18,0,Step Back Jump shot,23,232,9,False
+Troy Daniels,2,7,3,1,Step Back Jump shot,25,-175,181,False
+Troy Daniels,4,4,56,0,Step Back Jump shot,25,-179,184,False
+Troy Daniels,1,0,6,1,Step Back Jump shot,25,-217,130,False
+Troy Daniels,3,4,10,1,Step Back Jump shot,15,139,61,True
+Troy Daniels,2,6,55,1,Step Back Jump shot,22,225,38,False
+Troy Daniels,1,2,47,0,Step Back Jump shot,22,33,224,True
+Troy Daniels,2,11,43,1,Step Back Jump shot,13,130,1,True
+Troy Daniels,1,8,46,0,Step Back Jump shot,23,-231,-1,False
+Troy Daniels,4,11,44,1,Step Back Jump shot,25,-196,169,False
+Troy Daniels,1,2,18,0,Step Back Jump shot,24,5,246,False
+Troy Daniels,1,2,4,0,Step Back Jump shot,23,227,44,False
+Troy Daniels,1,5,5,1,Step Back Jump shot,26,22,268,False
+Troy Daniels,3,10,57,1,Step Back Jump shot,24,-180,169,False
+Troy Daniels,3,1,45,1,Step Back Jump shot,14,-143,8,True
+Troy Daniels,3,6,42,0,Step Back Jump shot,24,-180,167,False
+Troy Daniels,2,8,43,1,Step Back Jump shot,27,179,210,False
+Troy Daniels,3,2,59,0,Step Back Jump shot,24,-2,247,False
+Troy Daniels,1,8,37,1,Step Back Jump shot,26,-93,246,False
+Troy Daniels,1,2,40,1,Step Back Jump shot,26,76,258,False
+Troy Daniels,2,2,49,1,Step Back Jump shot,17,149,89,True
+Troy Daniels,2,4,24,1,Step Back Jump shot,22,226,13,False
+Troy Daniels,3,2,57,1,Tip Layup Shot,0,0,-6,True
+Troy Daniels,2,11,50,1,Turnaround Jump Shot,15,87,134,True

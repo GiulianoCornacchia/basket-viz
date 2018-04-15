@@ -1,0 +1,297 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jonas Jerebko,4,5,14,1,Alley Oop Dunk Shot,1,8,12,True
+Jonas Jerebko,4,10,6,0,Alley Oop Layup shot,0,1,8,True
+Jonas Jerebko,4,11,39,1,Alley Oop Layup shot,1,-5,-12,True
+Jonas Jerebko,4,11,17,0,Alley Oop Layup shot,1,8,14,True
+Jonas Jerebko,1,8,39,1,Cutting Dunk Shot,1,1,11,True
+Jonas Jerebko,1,9,4,1,Cutting Dunk Shot,0,-1,1,True
+Jonas Jerebko,3,1,17,1,Cutting Dunk Shot,0,5,3,True
+Jonas Jerebko,3,2,2,1,Cutting Dunk Shot,2,9,27,True
+Jonas Jerebko,2,10,57,1,Cutting Dunk Shot,2,-11,22,True
+Jonas Jerebko,2,0,24,0,Cutting Finger Roll Layup Shot,6,5,62,True
+Jonas Jerebko,2,10,25,0,Cutting Layup Shot,0,6,6,True
+Jonas Jerebko,3,6,13,1,Cutting Layup Shot,1,8,8,True
+Jonas Jerebko,1,10,10,1,Cutting Layup Shot,2,-22,11,True
+Jonas Jerebko,2,3,13,1,Cutting Layup Shot,2,-22,7,True
+Jonas Jerebko,1,3,20,0,Cutting Layup Shot,2,-7,27,True
+Jonas Jerebko,3,1,11,0,Cutting Layup Shot,8,-52,73,True
+Jonas Jerebko,4,8,10,0,Cutting Layup Shot,1,6,15,True
+Jonas Jerebko,3,10,45,1,Cutting Layup Shot,2,-7,28,True
+Jonas Jerebko,4,5,28,0,Driving Bank Hook Shot,6,51,35,True
+Jonas Jerebko,2,6,50,1,Driving Dunk Shot,2,13,16,True
+Jonas Jerebko,4,0,56,1,Driving Finger Roll Layup Shot,6,1,66,True
+Jonas Jerebko,1,0,16,1,Driving Finger Roll Layup Shot,0,2,2,True
+Jonas Jerebko,4,8,2,0,Driving Floating Bank Jump Shot,5,-11,49,True
+Jonas Jerebko,1,0,13,0,Driving Floating Bank Jump Shot,4,32,31,True
+Jonas Jerebko,2,6,5,1,Driving Floating Bank Jump Shot,12,101,73,True
+Jonas Jerebko,2,8,0,1,Driving Floating Bank Jump Shot,11,91,64,True
+Jonas Jerebko,2,4,57,1,Driving Hook Shot,8,-19,79,True
+Jonas Jerebko,2,5,54,0,Driving Hook Shot,5,-46,36,True
+Jonas Jerebko,3,3,36,1,Driving Hook Shot,6,41,53,True
+Jonas Jerebko,1,1,53,0,Driving Hook Shot,9,-20,95,True
+Jonas Jerebko,2,11,46,0,Driving Hook Shot,5,41,32,True
+Jonas Jerebko,2,3,12,1,Driving Hook Shot,1,14,4,True
+Jonas Jerebko,2,2,12,0,Driving Hook Shot,6,0,69,True
+Jonas Jerebko,2,8,7,0,Driving Hook Shot,5,-22,47,True
+Jonas Jerebko,2,0,9,1,Driving Hook Shot,7,11,75,True
+Jonas Jerebko,1,7,34,1,Driving Layup Shot,1,0,13,True
+Jonas Jerebko,3,7,9,1,Driving Layup Shot,5,12,53,True
+Jonas Jerebko,2,7,55,1,Driving Layup Shot,0,7,6,True
+Jonas Jerebko,4,4,15,0,Driving Layup Shot,6,14,67,True
+Jonas Jerebko,2,5,6,0,Driving Layup Shot,5,55,23,True
+Jonas Jerebko,1,4,5,0,Driving Layup Shot,1,-18,6,True
+Jonas Jerebko,2,7,45,1,Driving Layup Shot,3,22,21,True
+Jonas Jerebko,2,11,15,1,Driving Layup Shot,1,18,5,True
+Jonas Jerebko,4,11,34,0,Driving Layup Shot,1,16,4,True
+Jonas Jerebko,1,5,19,1,Driving Layup Shot,2,-24,17,True
+Jonas Jerebko,1,4,38,0,Driving Layup Shot,3,-20,29,True
+Jonas Jerebko,2,6,33,0,Driving Layup Shot,2,-22,15,True
+Jonas Jerebko,4,10,11,1,Driving Layup Shot,1,12,11,True
+Jonas Jerebko,1,3,30,0,Driving Layup Shot,3,0,34,True
+Jonas Jerebko,1,5,36,0,Driving Layup Shot,11,-77,88,True
+Jonas Jerebko,1,4,0,1,Driving Layup Shot,3,-32,17,True
+Jonas Jerebko,2,8,54,1,Driving Layup Shot,3,22,21,True
+Jonas Jerebko,4,9,26,0,Driving Layup Shot,4,-6,46,True
+Jonas Jerebko,1,1,6,0,Driving Layup Shot,2,20,2,True
+Jonas Jerebko,2,11,6,1,Driving Layup Shot,1,2,11,True
+Jonas Jerebko,3,3,46,1,Driving Layup Shot,1,-12,13,True
+Jonas Jerebko,2,9,19,0,Driving Layup Shot,3,-3,34,True
+Jonas Jerebko,3,9,10,0,Driving Layup Shot,9,12,90,True
+Jonas Jerebko,3,0,40,1,Driving Layup Shot,2,13,22,True
+Jonas Jerebko,3,5,38,0,Driving Layup Shot,4,22,34,True
+Jonas Jerebko,1,0,32,0,Driving Layup Shot,3,10,32,True
+Jonas Jerebko,3,9,22,0,Driving Layup Shot,2,21,11,True
+Jonas Jerebko,3,11,36,0,Driving Layup Shot,1,-16,9,True
+Jonas Jerebko,4,7,32,1,Driving Reverse Layup Shot,1,14,0,True
+Jonas Jerebko,1,6,25,1,Driving Reverse Layup Shot,0,0,8,True
+Jonas Jerebko,1,5,44,0,Driving Reverse Layup Shot,3,29,11,True
+Jonas Jerebko,3,9,20,1,Dunk Shot,0,3,3,True
+Jonas Jerebko,4,2,1,0,Fadeaway Jump Shot,10,9,108,True
+Jonas Jerebko,1,9,50,1,Fadeaway Jump Shot,10,-43,97,True
+Jonas Jerebko,1,8,57,0,Fadeaway Jump Shot,7,63,43,True
+Jonas Jerebko,1,0,17,1,Fadeaway Jump Shot,9,96,7,True
+Jonas Jerebko,3,10,54,0,Fadeaway Jump Shot,5,7,58,True
+Jonas Jerebko,3,1,33,0,Floating Jump shot,9,45,87,True
+Jonas Jerebko,4,10,51,0,Floating Jump shot,4,23,37,True
+Jonas Jerebko,4,3,20,1,Floating Jump shot,11,-20,113,True
+Jonas Jerebko,2,6,46,0,Hook Shot,8,-2,83,True
+Jonas Jerebko,2,4,58,1,Hook Shot,1,16,5,True
+Jonas Jerebko,4,1,49,1,Hook Shot,7,-20,74,True
+Jonas Jerebko,1,3,57,1,Hook Shot,7,-7,71,True
+Jonas Jerebko,3,11,33,0,Hook Shot,9,1,96,True
+Jonas Jerebko,1,10,15,0,Jump Shot,23,-231,54,False
+Jonas Jerebko,1,8,36,1,Jump Shot,26,-39,262,False
+Jonas Jerebko,3,0,23,1,Jump Shot,22,-227,13,False
+Jonas Jerebko,3,8,34,0,Jump Shot,19,-138,131,True
+Jonas Jerebko,3,1,0,0,Jump Shot,26,-168,200,False
+Jonas Jerebko,1,7,2,1,Jump Shot,22,-229,8,False
+Jonas Jerebko,3,7,8,0,Jump Shot,8,6,85,True
+Jonas Jerebko,4,4,29,0,Jump Shot,22,-226,-5,False
+Jonas Jerebko,4,10,2,1,Jump Shot,23,231,40,False
+Jonas Jerebko,4,2,6,1,Jump Shot,26,95,250,False
+Jonas Jerebko,4,7,56,0,Jump Shot,25,-71,242,False
+Jonas Jerebko,4,10,51,1,Jump Shot,25,90,240,False
+Jonas Jerebko,2,9,11,1,Jump Shot,25,-237,80,False
+Jonas Jerebko,1,0,40,0,Jump Shot,25,-123,228,False
+Jonas Jerebko,3,0,50,0,Jump Shot,25,25,253,False
+Jonas Jerebko,4,7,1,0,Jump Shot,24,-231,86,False
+Jonas Jerebko,2,7,19,1,Jump Shot,28,-166,227,False
+Jonas Jerebko,2,6,44,0,Jump Shot,23,-236,7,False
+Jonas Jerebko,2,9,4,0,Jump Shot,24,202,143,False
+Jonas Jerebko,4,10,58,1,Jump Shot,23,236,-6,False
+Jonas Jerebko,2,8,35,1,Jump Shot,20,-190,72,True
+Jonas Jerebko,2,6,13,1,Jump Shot,24,177,176,False
+Jonas Jerebko,2,4,54,1,Jump Shot,23,230,20,False
+Jonas Jerebko,2,5,43,0,Jump Shot,24,-240,50,False
+Jonas Jerebko,1,0,13,1,Jump Shot,23,236,17,False
+Jonas Jerebko,2,10,6,0,Jump Shot,22,-220,13,False
+Jonas Jerebko,4,3,22,0,Jump Shot,25,170,187,False
+Jonas Jerebko,1,2,35,1,Jump Shot,23,-236,38,False
+Jonas Jerebko,4,11,0,0,Jump Shot,22,-228,19,False
+Jonas Jerebko,1,0,34,0,Jump Shot,22,222,32,False
+Jonas Jerebko,2,11,14,1,Jump Shot,25,-104,233,False
+Jonas Jerebko,1,1,18,1,Jump Shot,18,189,10,True
+Jonas Jerebko,2,7,25,0,Jump Shot,22,-225,-1,False
+Jonas Jerebko,2,8,1,0,Jump Shot,23,-230,4,False
+Jonas Jerebko,2,9,14,0,Jump Shot,26,-50,260,False
+Jonas Jerebko,4,9,56,0,Jump Shot,26,109,239,False
+Jonas Jerebko,2,6,4,1,Jump Shot,23,-231,36,False
+Jonas Jerebko,2,6,33,0,Jump Shot,23,-232,20,False
+Jonas Jerebko,4,10,58,1,Jump Shot,24,221,109,False
+Jonas Jerebko,3,8,54,1,Jump Shot,23,235,38,False
+Jonas Jerebko,4,11,41,1,Jump Shot,23,228,44,False
+Jonas Jerebko,3,3,12,1,Jump Shot,21,-213,32,True
+Jonas Jerebko,2,10,17,0,Jump Shot,25,-106,227,False
+Jonas Jerebko,3,4,10,0,Jump Shot,25,-171,191,False
+Jonas Jerebko,2,10,53,1,Jump Shot,25,110,225,False
+Jonas Jerebko,1,1,21,0,Jump Shot,25,-116,226,False
+Jonas Jerebko,4,10,56,0,Jump Shot,23,231,51,False
+Jonas Jerebko,1,4,28,0,Jump Shot,25,128,220,False
+Jonas Jerebko,3,2,57,0,Jump Shot,25,-134,213,False
+Jonas Jerebko,2,11,43,0,Jump Shot,26,-36,258,False
+Jonas Jerebko,1,1,41,0,Jump Shot,25,-182,179,False
+Jonas Jerebko,4,4,41,0,Jump Shot,21,212,13,True
+Jonas Jerebko,2,10,58,0,Jump Shot,25,232,111,False
+Jonas Jerebko,3,2,1,0,Jump Shot,3,37,12,True
+Jonas Jerebko,3,0,3,0,Jump Shot,25,177,190,False
+Jonas Jerebko,3,3,38,0,Jump Shot,23,228,37,False
+Jonas Jerebko,2,11,16,0,Jump Shot,23,-234,36,False
+Jonas Jerebko,2,6,30,1,Jump Shot,26,-123,234,False
+Jonas Jerebko,4,10,26,1,Jump Shot,25,-128,218,False
+Jonas Jerebko,1,3,4,1,Jump Shot,23,-234,10,False
+Jonas Jerebko,3,5,35,0,Jump Shot,25,33,251,False
+Jonas Jerebko,4,11,31,0,Jump Shot,21,207,43,True
+Jonas Jerebko,2,8,56,1,Jump Shot,24,234,76,False
+Jonas Jerebko,1,2,8,0,Jump Shot,20,-208,3,True
+Jonas Jerebko,4,0,34,0,Jump Shot,23,224,61,False
+Jonas Jerebko,1,2,40,1,Jump Shot,28,-144,242,False
+Jonas Jerebko,4,1,16,0,Jump Shot,3,-31,6,True
+Jonas Jerebko,1,5,21,1,Jump Shot,23,-226,53,False
+Jonas Jerebko,4,2,28,0,Jump Shot,20,-195,62,True
+Jonas Jerebko,3,6,43,0,Jump Shot,25,-212,147,False
+Jonas Jerebko,1,6,15,0,Jump Shot,14,53,134,True
+Jonas Jerebko,4,7,15,0,Jump Shot,26,89,245,False
+Jonas Jerebko,3,5,37,1,Jump Shot,23,-227,67,False
+Jonas Jerebko,4,6,48,0,Jump Shot,25,-59,250,False
+Jonas Jerebko,4,5,50,0,Jump Shot,22,-223,40,False
+Jonas Jerebko,2,4,46,1,Jump Shot,20,-199,28,True
+Jonas Jerebko,1,5,18,0,Jump Shot,19,-198,10,True
+Jonas Jerebko,4,5,27,1,Jump Shot,22,-223,-6,False
+Jonas Jerebko,1,4,27,1,Jump Shot,25,-116,231,False
+Jonas Jerebko,3,8,31,0,Jump Shot,20,-207,15,True
+Jonas Jerebko,3,10,47,1,Jump Shot,22,-228,17,False
+Jonas Jerebko,3,7,4,1,Jump Shot,22,-3,221,True
+Jonas Jerebko,1,8,18,0,Jump Shot,24,234,68,False
+Jonas Jerebko,3,10,10,0,Jump Shot,24,158,191,False
+Jonas Jerebko,4,10,0,0,Jump Shot,24,-65,241,False
+Jonas Jerebko,3,0,6,0,Jump Shot,24,-80,236,False
+Jonas Jerebko,4,8,11,0,Jump Shot,25,89,237,False
+Jonas Jerebko,3,4,48,0,Jump Shot,25,69,247,False
+Jonas Jerebko,1,3,35,0,Jump Shot,24,231,94,False
+Jonas Jerebko,3,3,21,0,Jump Shot,24,223,106,False
+Jonas Jerebko,3,0,26,0,Jump Shot,23,231,4,False
+Jonas Jerebko,1,2,21,0,Jump Shot,28,-93,269,False
+Jonas Jerebko,3,4,19,0,Jump Shot,25,-230,109,False
+Jonas Jerebko,2,2,19,0,Jump Shot,24,-101,227,False
+Jonas Jerebko,2,3,40,1,Jump Shot,25,133,215,False
+Jonas Jerebko,2,5,38,0,Jump Shot,22,-228,8,False
+Jonas Jerebko,3,5,55,0,Jump Shot,26,-118,234,False
+Jonas Jerebko,1,4,53,1,Jump Shot,25,20,251,False
+Jonas Jerebko,2,7,5,0,Jump Shot,22,224,52,False
+Jonas Jerebko,1,7,35,0,Jump Shot,22,-223,-16,False
+Jonas Jerebko,4,5,11,0,Jump Shot,24,150,198,False
+Jonas Jerebko,1,3,16,0,Jump Shot,22,222,5,False
+Jonas Jerebko,1,5,23,1,Jump Shot,22,223,0,False
+Jonas Jerebko,2,5,55,1,Jump Shot,22,226,-5,False
+Jonas Jerebko,2,4,30,0,Jump Shot,24,196,154,False
+Jonas Jerebko,1,11,5,0,Jump Shot,22,228,15,False
+Jonas Jerebko,2,5,15,0,Jump Shot,23,-230,10,False
+Jonas Jerebko,2,2,49,0,Jump Shot,25,2,251,False
+Jonas Jerebko,3,5,2,1,Jump Shot,23,-230,8,False
+Jonas Jerebko,2,8,19,1,Jump Shot,23,232,15,False
+Jonas Jerebko,2,4,13,0,Jump Shot,22,225,8,False
+Jonas Jerebko,3,7,30,1,Jump Shot,22,-228,-10,False
+Jonas Jerebko,2,4,57,1,Jump Shot,22,227,34,False
+Jonas Jerebko,3,11,34,1,Jump Shot,24,235,56,False
+Jonas Jerebko,3,10,26,0,Jump Shot,23,235,14,False
+Jonas Jerebko,3,8,51,1,Jump Shot,24,-230,88,False
+Jonas Jerebko,3,10,56,1,Jump Shot,24,226,93,False
+Jonas Jerebko,1,9,42,0,Jump Shot,25,118,225,False
+Jonas Jerebko,4,10,2,1,Jump Shot,28,-196,204,False
+Jonas Jerebko,4,10,51,0,Jump Shot,14,-25,139,True
+Jonas Jerebko,4,7,24,0,Jump Shot,23,233,39,False
+Jonas Jerebko,3,7,13,0,Jump Shot,9,5,93,True
+Jonas Jerebko,4,0,40,1,Jump Shot,25,210,144,False
+Jonas Jerebko,3,9,42,0,Jump Shot,26,131,226,False
+Jonas Jerebko,4,8,6,1,Jump Shot,25,-86,242,False
+Jonas Jerebko,1,8,18,0,Jump Shot,24,-191,155,False
+Jonas Jerebko,3,0,15,1,Jump Shot,22,-222,8,False
+Jonas Jerebko,2,0,34,0,Jump Shot,24,-232,76,False
+Jonas Jerebko,1,10,34,0,Jump Shot,26,98,246,False
+Jonas Jerebko,1,10,58,0,Jump Shot,25,16,253,False
+Jonas Jerebko,2,9,24,1,Jump Shot,26,141,221,False
+Jonas Jerebko,3,10,16,0,Jump Shot,26,92,248,False
+Jonas Jerebko,2,4,8,1,Jump Shot,25,-1,257,False
+Jonas Jerebko,2,4,59,1,Jump Shot,23,-230,41,False
+Jonas Jerebko,2,8,24,0,Jump Shot,25,-183,172,False
+Jonas Jerebko,3,11,31,1,Jump Shot,23,232,-1,False
+Jonas Jerebko,4,1,13,0,Jump Shot,25,215,135,False
+Jonas Jerebko,4,3,55,1,Jump Shot,22,-228,1,False
+Jonas Jerebko,3,4,15,1,Jump Shot,23,-230,13,False
+Jonas Jerebko,1,1,23,0,Jump Shot,24,-31,247,False
+Jonas Jerebko,3,4,29,0,Jump Shot,24,151,199,False
+Jonas Jerebko,1,1,42,1,Jump Shot,22,-222,-2,False
+Jonas Jerebko,4,2,51,0,Jump Shot,20,-201,6,True
+Jonas Jerebko,4,3,11,1,Jump Shot,19,-194,-1,True
+Jonas Jerebko,4,4,56,0,Jump Shot,24,-119,218,False
+Jonas Jerebko,4,7,27,1,Jump Shot,25,-146,204,False
+Jonas Jerebko,1,2,50,0,Jump Shot,24,-143,203,False
+Jonas Jerebko,4,6,52,1,Jump Shot,25,146,210,False
+Jonas Jerebko,1,4,13,1,Jump Shot,24,-134,211,False
+Jonas Jerebko,3,6,28,1,Jump Shot,25,-236,83,False
+Jonas Jerebko,3,9,59,0,Jump Shot,22,227,10,False
+Jonas Jerebko,4,7,55,0,Jump Shot,25,-228,104,False
+Jonas Jerebko,2,11,41,1,Jump Shot,22,226,26,False
+Jonas Jerebko,1,5,31,1,Layup Shot,1,10,12,True
+Jonas Jerebko,2,6,53,1,Layup Shot,2,-4,21,True
+Jonas Jerebko,3,2,59,0,Layup Shot,7,1,71,True
+Jonas Jerebko,3,3,24,1,Layup Shot,1,17,4,True
+Jonas Jerebko,2,3,18,0,Layup Shot,5,8,58,True
+Jonas Jerebko,3,6,42,1,Layup Shot,2,22,15,True
+Jonas Jerebko,1,4,16,0,Layup Shot,1,-10,16,True
+Jonas Jerebko,3,10,49,0,Layup Shot,2,-16,15,True
+Jonas Jerebko,3,10,47,0,Layup Shot,3,-11,36,True
+Jonas Jerebko,4,8,5,0,Layup Shot,2,6,24,True
+Jonas Jerebko,1,8,19,1,Layup Shot,2,18,11,True
+Jonas Jerebko,2,8,4,0,Layup Shot,2,22,5,True
+Jonas Jerebko,1,5,48,1,Layup Shot,1,15,-3,True
+Jonas Jerebko,3,11,47,1,Layup Shot,0,-4,8,True
+Jonas Jerebko,2,4,56,0,Layup Shot,1,9,16,True
+Jonas Jerebko,3,3,30,0,Layup Shot,5,-15,58,True
+Jonas Jerebko,4,7,5,1,Layup Shot,2,-2,21,True
+Jonas Jerebko,3,5,48,0,Layup Shot,8,-67,46,True
+Jonas Jerebko,4,5,11,1,Layup Shot,3,-1,34,True
+Jonas Jerebko,1,11,33,0,Layup Shot,2,27,13,True
+Jonas Jerebko,2,10,4,0,Layup Shot,4,-49,8,True
+Jonas Jerebko,1,4,53,0,Pullup Jump shot,20,187,90,True
+Jonas Jerebko,4,6,0,0,Pullup Jump shot,17,-179,10,True
+Jonas Jerebko,1,6,17,0,Pullup Jump shot,20,83,183,True
+Jonas Jerebko,1,2,55,1,Reverse Layup Shot,2,22,5,True
+Jonas Jerebko,3,7,6,1,Reverse Layup Shot,1,-17,7,True
+Jonas Jerebko,3,6,44,1,Running Dunk Shot,0,2,8,True
+Jonas Jerebko,4,8,31,1,Running Dunk Shot,1,-3,11,True
+Jonas Jerebko,3,10,14,1,Running Dunk Shot,1,-4,14,True
+Jonas Jerebko,4,5,23,1,Running Dunk Shot,0,3,9,True
+Jonas Jerebko,1,6,0,1,Running Finger Roll Layup Shot,0,7,4,True
+Jonas Jerebko,4,8,43,1,Running Finger Roll Layup Shot,1,-5,9,True
+Jonas Jerebko,1,10,6,1,Running Jump Shot,8,41,73,True
+Jonas Jerebko,1,9,8,0,Running Jump Shot,26,-112,245,False
+Jonas Jerebko,4,7,35,0,Running Jump Shot,13,131,42,True
+Jonas Jerebko,3,7,50,1,Running Layup Shot,0,-8,-3,True
+Jonas Jerebko,3,0,52,0,Running Layup Shot,2,-24,0,True
+Jonas Jerebko,3,3,2,0,Running Layup Shot,1,18,3,True
+Jonas Jerebko,1,7,43,1,Step Back Bank Jump Shot,13,-111,74,True
+Jonas Jerebko,4,1,43,0,Step Back Jump shot,22,-221,40,False
+Jonas Jerebko,1,11,46,0,Step Back Jump shot,18,-139,124,True
+Jonas Jerebko,3,1,46,1,Step Back Jump shot,12,89,85,True
+Jonas Jerebko,1,0,0,0,Step Back Jump shot,5,-34,44,True
+Jonas Jerebko,1,8,19,1,Step Back Jump shot,9,-25,94,True
+Jonas Jerebko,1,11,47,0,Step Back Jump shot,15,151,5,True
+Jonas Jerebko,3,4,39,1,Tip Dunk Shot,0,0,-6,True
+Jonas Jerebko,4,10,2,1,Tip Layup Shot,0,0,-6,True
+Jonas Jerebko,1,5,23,0,Tip Layup Shot,0,0,-6,True
+Jonas Jerebko,3,8,57,1,Tip Layup Shot,0,0,-6,True
+Jonas Jerebko,4,6,56,1,Tip Layup Shot,0,0,-6,True
+Jonas Jerebko,4,6,36,1,Tip Layup Shot,0,0,-6,True
+Jonas Jerebko,4,6,38,0,Tip Layup Shot,0,0,-6,True
+Jonas Jerebko,3,3,12,1,Tip Layup Shot,0,0,-6,True
+Jonas Jerebko,1,6,21,1,Tip Layup Shot,0,0,-6,True
+Jonas Jerebko,4,11,33,0,Tip Layup Shot,2,16,24,True
+Jonas Jerebko,4,10,3,0,Tip Layup Shot,0,3,8,True
+Jonas Jerebko,4,10,42,0,Tip Layup Shot,0,0,-6,True
+Jonas Jerebko,2,6,25,1,Turnaround Fadeaway Bank Jump Shot,8,-56,64,True
+Jonas Jerebko,1,2,29,0,Turnaround Fadeaway Bank Jump Shot,5,-35,44,True
+Jonas Jerebko,4,2,19,0,Turnaround Fadeaway Bank Jump Shot,6,-65,24,True
+Jonas Jerebko,1,2,21,0,Turnaround Fadeaway shot,17,-125,121,True
+Jonas Jerebko,3,0,56,1,Turnaround Hook Shot,7,-3,74,True
+Jonas Jerebko,4,8,13,1,Turnaround Jump Shot,12,-54,117,True

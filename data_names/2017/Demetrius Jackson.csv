@@ -1,0 +1,17 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Demetrius Jackson,4,2,34,1,Driving Layup Shot,0,-2,4,True
+Demetrius Jackson,2,8,1,1,Driving Layup Shot,1,15,8,True
+Demetrius Jackson,4,4,26,1,Driving Layup Shot,1,-6,18,True
+Demetrius Jackson,4,10,54,1,Driving Layup Shot,2,19,8,True
+Demetrius Jackson,4,1,50,0,Driving Layup Shot,0,5,5,True
+Demetrius Jackson,4,2,59,1,Driving Layup Shot,2,-22,8,True
+Demetrius Jackson,4,2,19,0,Driving Reverse Layup Shot,0,-2,9,True
+Demetrius Jackson,4,1,37,1,Dunk Shot,0,-2,7,True
+Demetrius Jackson,3,0,12,0,Jump Shot,23,-236,18,False
+Demetrius Jackson,4,0,48,0,Jump Shot,25,225,120,False
+Demetrius Jackson,4,11,21,0,Jump Shot,25,150,206,False
+Demetrius Jackson,2,9,45,0,Jump Shot,25,103,230,False
+Demetrius Jackson,4,4,10,0,Jump Shot,25,56,245,False
+Demetrius Jackson,4,4,51,1,Pullup Jump shot,27,-163,222,False
+Demetrius Jackson,4,9,42,0,Reverse Layup Shot,1,14,8,True
+Demetrius Jackson,4,4,59,0,Running Layup Shot,1,-17,8,True

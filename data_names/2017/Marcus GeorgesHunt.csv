@@ -1,0 +1,48 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Marcus GeorgesHunt,4,6,35,1,Driving Floating Bank Jump Shot,12,-58,107,True
+Marcus GeorgesHunt,3,3,11,1,Driving Floating Bank Jump Shot,3,30,20,True
+Marcus GeorgesHunt,4,10,25,1,Driving Floating Jump Shot,16,-97,130,True
+Marcus GeorgesHunt,2,2,16,1,Driving Layup Shot,1,-10,16,True
+Marcus GeorgesHunt,4,7,58,1,Driving Layup Shot,1,-6,11,True
+Marcus GeorgesHunt,2,9,2,1,Driving Layup Shot,0,8,2,True
+Marcus GeorgesHunt,4,10,40,1,Driving Layup Shot,1,-11,7,True
+Marcus GeorgesHunt,2,11,2,0,Driving Layup Shot,1,3,13,True
+Marcus GeorgesHunt,4,10,1,0,Driving Layup Shot,1,15,6,True
+Marcus GeorgesHunt,3,1,32,1,Driving Layup Shot,2,10,25,True
+Marcus GeorgesHunt,4,0,57,1,Driving Layup Shot,1,8,15,True
+Marcus GeorgesHunt,4,0,50,0,Driving Layup Shot,2,9,27,True
+Marcus GeorgesHunt,2,9,6,1,Dunk Shot,1,-11,11,True
+Marcus GeorgesHunt,2,10,20,0,Fadeaway Jump Shot,12,123,31,True
+Marcus GeorgesHunt,4,3,10,0,Floating Jump shot,7,-14,70,True
+Marcus GeorgesHunt,3,2,43,0,Floating Jump shot,11,111,-9,True
+Marcus GeorgesHunt,2,8,27,0,Jump Shot,24,54,243,False
+Marcus GeorgesHunt,3,1,17,1,Jump Shot,25,-143,214,False
+Marcus GeorgesHunt,4,5,4,0,Jump Shot,26,-93,243,False
+Marcus GeorgesHunt,1,1,15,0,Jump Shot,23,-179,159,False
+Marcus GeorgesHunt,4,2,34,0,Jump Shot,25,-157,197,False
+Marcus GeorgesHunt,4,0,29,0,Jump Shot,20,177,113,True
+Marcus GeorgesHunt,4,1,12,1,Jump Shot,25,-138,217,False
+Marcus GeorgesHunt,4,11,39,0,Jump Shot,24,193,146,False
+Marcus GeorgesHunt,1,4,8,0,Jump Shot,25,-56,252,False
+Marcus GeorgesHunt,1,0,42,0,Jump Shot,25,-87,235,False
+Marcus GeorgesHunt,2,0,53,1,Jump Shot,22,229,6,False
+Marcus GeorgesHunt,4,0,22,1,Jump Shot,22,-226,21,False
+Marcus GeorgesHunt,2,7,12,0,Jump Shot,25,122,221,False
+Marcus GeorgesHunt,4,0,29,0,Jump Shot,22,-228,1,False
+Marcus GeorgesHunt,4,0,13,1,Jump Shot,4,-12,46,True
+Marcus GeorgesHunt,4,10,49,0,Jump Shot,27,-88,256,False
+Marcus GeorgesHunt,4,6,39,0,Jump Shot,22,-223,43,False
+Marcus GeorgesHunt,4,4,48,0,Layup Shot,2,14,26,True
+Marcus GeorgesHunt,4,6,42,0,Layup Shot,2,-15,15,True
+Marcus GeorgesHunt,4,1,49,0,Pullup Jump shot,18,183,25,True
+Marcus GeorgesHunt,4,8,22,0,Pullup Jump shot,15,-131,82,True
+Marcus GeorgesHunt,4,1,34,1,Pullup Jump shot,17,-153,76,True
+Marcus GeorgesHunt,3,2,28,1,Running Dunk Shot,1,0,15,True
+Marcus GeorgesHunt,2,11,33,0,Running Layup Shot,1,-14,7,True
+Marcus GeorgesHunt,4,6,18,1,Running Layup Shot,2,22,14,True
+Marcus GeorgesHunt,2,9,1,0,Running Layup Shot,0,-2,0,True
+Marcus GeorgesHunt,4,1,3,1,Running Layup Shot,1,-14,8,True
+Marcus GeorgesHunt,4,3,32,1,Running Layup Shot,2,18,10,True
+Marcus GeorgesHunt,2,8,48,0,Running Layup Shot,0,-7,6,True
+Marcus GeorgesHunt,3,0,29,0,Tip Layup Shot,0,0,-6,True
+Marcus GeorgesHunt,2,9,39,0,Tip Layup Shot,0,0,-6,True

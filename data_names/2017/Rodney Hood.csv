@@ -1,0 +1,679 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Rodney Hood,1,1,25,0,Alley Oop Layup shot,1,14,10,True
+Rodney Hood,4,1,50,1,Cutting Dunk Shot,1,-16,6,True
+Rodney Hood,1,9,27,1,Cutting Dunk Shot,1,3,13,True
+Rodney Hood,3,4,1,1,Cutting Dunk Shot,1,-5,11,True
+Rodney Hood,4,9,41,1,Cutting Dunk Shot,0,-4,4,True
+Rodney Hood,2,11,11,1,Cutting Finger Roll Layup Shot,2,-13,20,True
+Rodney Hood,4,5,52,1,Cutting Layup Shot,2,20,17,True
+Rodney Hood,3,5,7,1,Cutting Layup Shot,2,4,29,True
+Rodney Hood,4,11,21,1,Driving Bank Hook Shot,2,-15,22,True
+Rodney Hood,3,4,25,1,Driving Dunk Shot,1,-8,6,True
+Rodney Hood,3,7,12,1,Driving Dunk Shot,2,0,20,True
+Rodney Hood,1,0,45,1,Driving Dunk Shot,1,2,18,True
+Rodney Hood,1,4,58,1,Driving Dunk Shot,0,-6,7,True
+Rodney Hood,3,3,34,1,Driving Dunk Shot,2,13,21,True
+Rodney Hood,4,7,38,1,Driving Finger Roll Layup Shot,2,5,25,True
+Rodney Hood,3,3,16,1,Driving Finger Roll Layup Shot,3,0,32,True
+Rodney Hood,1,4,11,1,Driving Finger Roll Layup Shot,2,22,20,True
+Rodney Hood,4,6,37,1,Driving Floating Bank Jump Shot,11,-104,55,True
+Rodney Hood,4,9,38,0,Driving Floating Bank Jump Shot,9,-70,67,True
+Rodney Hood,3,7,57,1,Driving Floating Bank Jump Shot,10,-92,60,True
+Rodney Hood,2,2,53,0,Driving Floating Bank Jump Shot,11,-95,69,True
+Rodney Hood,4,11,5,0,Driving Floating Bank Jump Shot,2,-25,0,True
+Rodney Hood,3,1,54,1,Driving Floating Bank Jump Shot,7,-70,30,True
+Rodney Hood,2,6,3,1,Driving Floating Bank Jump Shot,9,-62,68,True
+Rodney Hood,3,5,35,0,Driving Floating Bank Jump Shot,5,-4,51,True
+Rodney Hood,2,2,44,1,Driving Floating Bank Jump Shot,6,53,44,True
+Rodney Hood,1,11,6,1,Driving Floating Jump Shot,15,-157,12,True
+Rodney Hood,1,5,24,0,Driving Floating Jump Shot,10,98,44,True
+Rodney Hood,2,0,33,1,Driving Floating Jump Shot,7,-46,65,True
+Rodney Hood,2,5,5,0,Driving Floating Jump Shot,10,100,26,True
+Rodney Hood,1,2,13,0,Driving Floating Jump Shot,20,159,131,True
+Rodney Hood,3,6,38,0,Driving Floating Jump Shot,7,-8,74,True
+Rodney Hood,1,1,48,0,Driving Floating Jump Shot,5,-11,55,True
+Rodney Hood,4,9,52,1,Driving Floating Jump Shot,7,-20,68,True
+Rodney Hood,1,9,39,1,Driving Floating Jump Shot,6,-35,56,True
+Rodney Hood,2,0,59,0,Driving Floating Jump Shot,5,-49,16,True
+Rodney Hood,4,8,42,0,Driving Floating Jump Shot,3,15,27,True
+Rodney Hood,4,5,16,1,Driving Floating Jump Shot,9,-55,78,True
+Rodney Hood,4,1,24,0,Driving Floating Jump Shot,8,-1,86,True
+Rodney Hood,3,5,41,0,Driving Floating Jump Shot,12,-72,100,True
+Rodney Hood,3,1,37,0,Driving Floating Jump Shot,7,13,74,True
+Rodney Hood,1,4,24,0,Driving Floating Jump Shot,9,16,89,True
+Rodney Hood,3,4,4,0,Driving Floating Jump Shot,13,8,130,True
+Rodney Hood,3,6,0,0,Driving Floating Jump Shot,10,-33,100,True
+Rodney Hood,3,1,27,0,Driving Floating Jump Shot,10,24,105,True
+Rodney Hood,1,0,23,0,Driving Floating Jump Shot,9,-47,79,True
+Rodney Hood,1,11,11,0,Driving Floating Jump Shot,6,2,65,True
+Rodney Hood,1,9,9,0,Driving Floating Jump Shot,11,-56,95,True
+Rodney Hood,2,0,7,1,Driving Floating Jump Shot,6,-40,54,True
+Rodney Hood,1,1,50,1,Driving Floating Jump Shot,4,19,41,True
+Rodney Hood,3,3,10,1,Driving Floating Jump Shot,12,128,21,True
+Rodney Hood,1,4,0,0,Driving Floating Jump Shot,11,-71,86,True
+Rodney Hood,2,6,59,0,Driving Floating Jump Shot,4,8,43,True
+Rodney Hood,3,4,42,0,Driving Floating Jump Shot,17,144,95,True
+Rodney Hood,4,7,24,0,Driving Floating Jump Shot,10,-39,94,True
+Rodney Hood,1,5,51,0,Driving Floating Jump Shot,9,5,95,True
+Rodney Hood,4,10,43,1,Driving Floating Jump Shot,10,-41,99,True
+Rodney Hood,4,9,26,0,Driving Floating Jump Shot,7,-5,76,True
+Rodney Hood,4,3,53,1,Driving Floating Jump Shot,11,-79,84,True
+Rodney Hood,2,7,54,1,Driving Floating Jump Shot,10,-68,84,True
+Rodney Hood,2,11,2,1,Driving Floating Jump Shot,6,-12,68,True
+Rodney Hood,3,3,36,1,Driving Hook Shot,6,-47,39,True
+Rodney Hood,4,10,39,0,Driving Hook Shot,2,-24,10,True
+Rodney Hood,2,7,59,0,Driving Layup Shot,7,-49,63,True
+Rodney Hood,4,11,5,1,Driving Layup Shot,2,-19,13,True
+Rodney Hood,4,6,43,1,Driving Layup Shot,1,-9,9,True
+Rodney Hood,4,9,28,0,Driving Layup Shot,1,9,13,True
+Rodney Hood,1,0,21,1,Driving Layup Shot,1,5,14,True
+Rodney Hood,1,3,30,0,Driving Layup Shot,3,-25,20,True
+Rodney Hood,3,7,13,1,Driving Layup Shot,1,9,10,True
+Rodney Hood,4,11,32,0,Driving Layup Shot,0,3,7,True
+Rodney Hood,2,4,5,1,Driving Layup Shot,3,-38,2,True
+Rodney Hood,3,10,23,0,Driving Layup Shot,2,-24,16,True
+Rodney Hood,2,2,46,0,Driving Layup Shot,7,-65,46,True
+Rodney Hood,3,5,8,0,Driving Layup Shot,1,-6,8,True
+Rodney Hood,4,11,13,1,Driving Layup Shot,2,-22,9,True
+Rodney Hood,2,11,24,1,Driving Layup Shot,4,44,18,True
+Rodney Hood,3,2,29,0,Driving Layup Shot,7,-41,66,True
+Rodney Hood,1,1,44,0,Driving Layup Shot,1,13,10,True
+Rodney Hood,2,2,53,0,Driving Layup Shot,6,-41,52,True
+Rodney Hood,3,7,4,0,Driving Layup Shot,2,-19,14,True
+Rodney Hood,3,0,2,0,Driving Layup Shot,1,2,17,True
+Rodney Hood,2,4,14,1,Driving Layup Shot,1,-16,0,True
+Rodney Hood,1,11,29,0,Driving Layup Shot,2,21,18,True
+Rodney Hood,3,9,47,1,Driving Layup Shot,2,23,3,True
+Rodney Hood,3,5,7,0,Driving Layup Shot,1,5,19,True
+Rodney Hood,3,4,13,1,Driving Layup Shot,4,4,49,True
+Rodney Hood,1,10,24,1,Driving Layup Shot,0,-8,0,True
+Rodney Hood,2,3,36,0,Driving Layup Shot,3,-17,26,True
+Rodney Hood,4,10,17,0,Driving Layup Shot,2,-21,4,True
+Rodney Hood,1,4,49,1,Driving Layup Shot,1,-9,17,True
+Rodney Hood,3,11,45,1,Driving Layup Shot,1,14,9,True
+Rodney Hood,4,2,52,0,Driving Layup Shot,4,19,43,True
+Rodney Hood,3,0,53,0,Driving Layup Shot,11,58,99,True
+Rodney Hood,4,4,29,0,Driving Layup Shot,7,-54,50,True
+Rodney Hood,3,1,40,1,Driving Layup Shot,3,-2,39,True
+Rodney Hood,2,2,9,1,Driving Layup Shot,2,2,29,True
+Rodney Hood,4,10,50,1,Driving Layup Shot,7,41,59,True
+Rodney Hood,4,1,46,1,Driving Reverse Layup Shot,2,20,15,True
+Rodney Hood,2,6,24,1,Dunk Shot,0,-3,2,True
+Rodney Hood,3,5,5,1,Dunk Shot,2,-8,20,True
+Rodney Hood,4,9,37,1,Dunk Shot,1,-14,12,True
+Rodney Hood,3,9,43,1,Dunk Shot,0,0,1,True
+Rodney Hood,4,8,22,0,Fadeaway Jump Shot,22,225,26,False
+Rodney Hood,2,8,12,0,Fadeaway Jump Shot,9,9,94,True
+Rodney Hood,4,9,9,0,Fadeaway Jump Shot,10,70,83,True
+Rodney Hood,4,10,50,0,Fadeaway Jump Shot,12,5,121,True
+Rodney Hood,2,10,17,0,Fadeaway Jump Shot,13,80,104,True
+Rodney Hood,3,8,28,1,Floating Jump shot,11,-29,116,True
+Rodney Hood,3,2,3,0,Floating Jump shot,9,-47,88,True
+Rodney Hood,2,2,3,1,Floating Jump shot,11,62,92,True
+Rodney Hood,1,1,56,0,Floating Jump shot,9,-16,96,True
+Rodney Hood,1,5,26,1,Floating Jump shot,10,2,104,True
+Rodney Hood,3,11,32,1,Floating Jump shot,13,-63,119,True
+Rodney Hood,3,2,49,1,Floating Jump shot,8,-44,69,True
+Rodney Hood,3,10,15,0,Floating Jump shot,16,150,59,True
+Rodney Hood,1,2,5,0,Floating Jump shot,15,104,111,True
+Rodney Hood,2,10,20,1,Floating Jump shot,10,-60,91,True
+Rodney Hood,4,9,50,1,Floating Jump shot,8,-62,51,True
+Rodney Hood,2,2,49,1,Floating Jump shot,4,-6,48,True
+Rodney Hood,2,3,21,1,Floating Jump shot,13,-63,125,True
+Rodney Hood,3,3,21,1,Floating Jump shot,10,55,90,True
+Rodney Hood,2,0,51,0,Floating Jump shot,14,14,149,True
+Rodney Hood,3,3,17,1,Floating Jump shot,10,2,109,True
+Rodney Hood,4,10,18,1,Floating Jump shot,14,12,143,True
+Rodney Hood,2,11,2,0,Floating Jump shot,10,-3,104,True
+Rodney Hood,1,0,13,0,Floating Jump shot,14,11,141,True
+Rodney Hood,4,4,7,0,Hook Shot,4,5,41,True
+Rodney Hood,4,8,41,0,Hook Shot,13,-67,122,True
+Rodney Hood,4,1,4,1,Hook Shot,11,52,99,True
+Rodney Hood,2,11,3,1,Jump Bank Shot,6,-35,60,True
+Rodney Hood,4,4,24,0,Jump Bank Shot,12,-89,83,True
+Rodney Hood,2,0,33,1,Jump Bank Shot,13,-106,83,True
+Rodney Hood,3,1,3,0,Jump Bank Shot,15,-111,107,True
+Rodney Hood,3,10,58,0,Jump Bank Shot,3,26,21,True
+Rodney Hood,4,0,1,1,Jump Bank Shot,26,87,246,False
+Rodney Hood,2,10,46,0,Jump Bank Shot,11,-90,74,True
+Rodney Hood,3,3,46,1,Jump Shot,24,-92,227,False
+Rodney Hood,1,9,40,0,Jump Shot,19,193,22,True
+Rodney Hood,3,10,13,0,Jump Shot,25,109,236,False
+Rodney Hood,2,5,15,1,Jump Shot,23,-235,7,False
+Rodney Hood,2,0,17,0,Jump Shot,26,-41,265,False
+Rodney Hood,3,11,42,0,Jump Shot,25,-57,248,False
+Rodney Hood,3,11,40,0,Jump Shot,25,-63,248,False
+Rodney Hood,1,7,53,0,Jump Shot,22,227,-10,False
+Rodney Hood,2,1,45,1,Jump Shot,23,-234,-1,False
+Rodney Hood,1,8,35,1,Jump Shot,25,-115,227,False
+Rodney Hood,2,3,57,1,Jump Shot,28,-99,269,False
+Rodney Hood,2,0,37,0,Jump Shot,25,178,189,False
+Rodney Hood,2,2,44,1,Jump Shot,16,30,160,True
+Rodney Hood,3,6,2,1,Jump Shot,18,154,100,True
+Rodney Hood,4,3,11,0,Jump Shot,12,60,106,True
+Rodney Hood,1,8,52,0,Jump Shot,28,93,271,False
+Rodney Hood,1,3,52,0,Jump Shot,6,-4,63,True
+Rodney Hood,4,3,55,1,Jump Shot,23,-230,21,False
+Rodney Hood,1,5,59,0,Jump Shot,22,-225,-4,False
+Rodney Hood,4,2,42,1,Jump Shot,19,59,186,True
+Rodney Hood,1,10,39,0,Jump Shot,17,-41,168,True
+Rodney Hood,3,7,23,1,Jump Shot,25,-204,145,False
+Rodney Hood,2,2,44,0,Jump Shot,7,41,57,True
+Rodney Hood,3,4,32,1,Jump Shot,7,-35,64,True
+Rodney Hood,1,0,4,0,Jump Shot,26,-149,218,False
+Rodney Hood,2,1,12,0,Jump Shot,14,2,143,True
+Rodney Hood,3,1,36,0,Jump Shot,25,176,183,False
+Rodney Hood,2,0,31,1,Jump Shot,25,-17,252,False
+Rodney Hood,1,2,2,0,Jump Shot,26,-9,262,False
+Rodney Hood,4,1,9,0,Jump Shot,28,9,283,False
+Rodney Hood,4,2,37,1,Jump Shot,24,195,155,False
+Rodney Hood,1,0,28,1,Jump Shot,23,230,3,False
+Rodney Hood,2,1,39,0,Jump Shot,26,240,105,False
+Rodney Hood,1,5,3,0,Jump Shot,26,135,223,False
+Rodney Hood,3,2,35,1,Jump Shot,18,-97,163,True
+Rodney Hood,3,11,15,1,Jump Shot,18,-133,124,True
+Rodney Hood,3,0,0,0,Jump Shot,56,147,547,False
+Rodney Hood,4,5,3,0,Jump Shot,19,126,152,True
+Rodney Hood,1,1,3,1,Jump Shot,14,15,143,True
+Rodney Hood,4,5,4,0,Jump Shot,24,-215,113,False
+Rodney Hood,2,6,22,0,Jump Shot,11,95,69,True
+Rodney Hood,2,9,33,0,Jump Shot,25,108,228,False
+Rodney Hood,2,9,4,0,Jump Shot,30,-139,269,False
+Rodney Hood,2,8,22,0,Jump Shot,26,-105,239,False
+Rodney Hood,1,9,44,1,Jump Shot,12,117,27,True
+Rodney Hood,3,9,21,0,Jump Shot,28,144,250,False
+Rodney Hood,1,5,11,0,Jump Shot,26,-111,239,False
+Rodney Hood,4,11,28,1,Jump Shot,9,49,83,True
+Rodney Hood,4,4,28,0,Jump Shot,24,177,176,False
+Rodney Hood,3,6,37,0,Jump Shot,25,14,258,False
+Rodney Hood,2,5,29,1,Jump Shot,23,231,-1,False
+Rodney Hood,3,3,13,0,Jump Shot,25,145,209,False
+Rodney Hood,1,0,43,0,Jump Shot,26,145,223,False
+Rodney Hood,2,3,22,1,Jump Shot,25,-132,215,False
+Rodney Hood,4,10,53,0,Jump Shot,22,-226,37,False
+Rodney Hood,2,11,48,0,Jump Shot,14,-121,81,True
+Rodney Hood,3,2,11,1,Jump Shot,25,-43,247,False
+Rodney Hood,1,0,46,1,Jump Shot,30,-114,279,False
+Rodney Hood,4,8,34,0,Jump Shot,25,-52,250,False
+Rodney Hood,2,3,15,0,Jump Shot,23,225,65,False
+Rodney Hood,2,9,2,0,Jump Shot,21,-99,191,True
+Rodney Hood,4,2,41,0,Jump Shot,22,225,25,False
+Rodney Hood,4,9,32,1,Jump Shot,24,-95,226,False
+Rodney Hood,4,8,0,0,Jump Shot,22,-221,3,False
+Rodney Hood,1,1,3,0,Jump Shot,25,194,160,False
+Rodney Hood,2,11,49,1,Jump Shot,25,-20,257,False
+Rodney Hood,3,0,33,0,Jump Shot,22,-227,36,False
+Rodney Hood,2,6,13,1,Jump Shot,22,223,11,False
+Rodney Hood,3,2,35,1,Jump Shot,26,-27,260,False
+Rodney Hood,2,11,42,1,Jump Shot,25,-108,235,False
+Rodney Hood,2,8,43,0,Jump Shot,26,223,137,False
+Rodney Hood,2,9,45,0,Jump Shot,27,163,221,False
+Rodney Hood,4,10,8,1,Jump Shot,12,-23,123,True
+Rodney Hood,2,7,38,1,Jump Shot,24,-222,106,False
+Rodney Hood,2,7,10,0,Jump Shot,22,-228,-2,False
+Rodney Hood,1,0,11,0,Jump Shot,24,215,120,False
+Rodney Hood,2,7,39,0,Jump Shot,22,-227,-16,False
+Rodney Hood,4,11,0,0,Jump Shot,26,-54,259,False
+Rodney Hood,2,4,13,1,Jump Shot,22,-54,215,True
+Rodney Hood,2,9,8,0,Jump Shot,22,86,204,True
+Rodney Hood,1,0,33,1,Jump Shot,26,129,230,False
+Rodney Hood,4,3,19,1,Jump Shot,25,166,189,False
+Rodney Hood,2,11,50,1,Jump Shot,25,-95,241,False
+Rodney Hood,4,2,14,1,Jump Shot,14,-11,145,True
+Rodney Hood,2,11,25,1,Jump Shot,17,14,178,True
+Rodney Hood,2,8,39,1,Jump Shot,19,97,167,True
+Rodney Hood,3,3,23,1,Jump Shot,19,196,3,True
+Rodney Hood,2,0,0,1,Jump Shot,30,13,301,False
+Rodney Hood,3,2,43,1,Jump Shot,23,231,45,False
+Rodney Hood,1,8,22,1,Jump Shot,23,143,183,True
+Rodney Hood,2,11,13,0,Jump Shot,25,-14,259,False
+Rodney Hood,2,0,18,1,Jump Shot,24,196,147,False
+Rodney Hood,3,11,4,0,Jump Shot,22,-228,-20,False
+Rodney Hood,2,2,23,0,Jump Shot,26,80,254,False
+Rodney Hood,2,0,2,0,Jump Shot,25,164,194,False
+Rodney Hood,1,1,35,0,Jump Shot,26,93,250,False
+Rodney Hood,1,2,29,1,Jump Shot,25,100,236,False
+Rodney Hood,3,0,1,0,Jump Shot,25,54,246,False
+Rodney Hood,2,10,9,0,Jump Shot,24,-151,197,False
+Rodney Hood,3,4,10,0,Jump Shot,25,143,216,False
+Rodney Hood,3,3,19,1,Jump Shot,25,-78,243,False
+Rodney Hood,2,0,33,1,Jump Shot,22,-228,4,False
+Rodney Hood,2,11,28,1,Jump Shot,20,-192,61,True
+Rodney Hood,4,11,27,0,Jump Shot,24,-93,231,False
+Rodney Hood,1,5,15,0,Jump Shot,25,146,215,False
+Rodney Hood,3,4,51,0,Jump Shot,24,229,95,False
+Rodney Hood,4,9,12,0,Jump Shot,26,19,261,False
+Rodney Hood,1,2,6,0,Jump Shot,19,-192,42,True
+Rodney Hood,3,1,42,1,Jump Shot,25,-89,242,False
+Rodney Hood,4,10,32,1,Jump Shot,25,-3,255,False
+Rodney Hood,4,3,44,0,Jump Shot,18,126,131,True
+Rodney Hood,4,1,25,0,Jump Shot,23,-233,14,False
+Rodney Hood,4,0,57,0,Jump Shot,26,-139,229,False
+Rodney Hood,2,10,27,1,Jump Shot,27,-32,272,False
+Rodney Hood,2,2,45,1,Jump Shot,8,-54,63,True
+Rodney Hood,1,1,16,0,Jump Shot,26,-148,215,False
+Rodney Hood,1,0,0,0,Jump Shot,25,105,237,False
+Rodney Hood,2,0,35,0,Jump Shot,24,155,196,False
+Rodney Hood,2,0,2,0,Jump Shot,26,204,167,False
+Rodney Hood,2,11,49,1,Jump Shot,17,-170,31,True
+Rodney Hood,1,0,34,0,Jump Shot,25,4,256,False
+Rodney Hood,4,11,45,1,Jump Shot,24,-233,87,False
+Rodney Hood,1,2,26,1,Jump Shot,25,114,232,False
+Rodney Hood,1,1,48,0,Jump Shot,26,120,231,False
+Rodney Hood,1,2,48,0,Jump Shot,25,-132,217,False
+Rodney Hood,2,10,16,0,Jump Shot,25,226,117,False
+Rodney Hood,3,0,41,1,Jump Shot,24,137,201,False
+Rodney Hood,3,3,57,0,Jump Shot,27,125,241,False
+Rodney Hood,3,2,18,0,Jump Shot,25,-139,208,False
+Rodney Hood,3,3,43,0,Jump Shot,25,-149,211,False
+Rodney Hood,4,5,17,0,Jump Shot,18,1,183,True
+Rodney Hood,1,0,4,0,Jump Shot,15,-9,151,True
+Rodney Hood,4,3,21,1,Jump Shot,26,-8,263,False
+Rodney Hood,3,0,42,0,Jump Shot,15,-123,92,True
+Rodney Hood,1,0,0,0,Jump Shot,17,98,149,True
+Rodney Hood,1,2,3,0,Jump Shot,5,-11,53,True
+Rodney Hood,2,11,40,0,Jump Shot,26,-168,210,False
+Rodney Hood,1,1,3,0,Jump Shot,26,-8,264,False
+Rodney Hood,3,7,52,1,Jump Shot,25,199,166,False
+Rodney Hood,4,9,22,0,Jump Shot,25,155,204,False
+Rodney Hood,1,1,40,0,Jump Shot,23,-230,28,False
+Rodney Hood,4,11,50,0,Jump Shot,27,177,206,False
+Rodney Hood,1,3,4,0,Jump Shot,21,-105,188,True
+Rodney Hood,4,9,50,0,Jump Shot,25,-40,255,False
+Rodney Hood,3,4,33,0,Jump Shot,25,52,253,False
+Rodney Hood,4,1,41,0,Jump Shot,26,-70,251,False
+Rodney Hood,4,10,33,1,Jump Shot,25,-13,250,False
+Rodney Hood,2,0,32,0,Jump Shot,27,-147,228,False
+Rodney Hood,3,0,50,1,Jump Shot,24,220,111,False
+Rodney Hood,1,5,43,0,Jump Shot,26,-89,246,False
+Rodney Hood,2,4,51,0,Jump Shot,28,-99,262,False
+Rodney Hood,4,11,45,0,Jump Shot,23,-228,69,False
+Rodney Hood,4,9,53,0,Jump Shot,26,153,218,False
+Rodney Hood,1,11,38,1,Jump Shot,25,-151,210,False
+Rodney Hood,3,11,24,0,Jump Shot,25,-137,214,False
+Rodney Hood,4,9,29,1,Jump Shot,20,-199,55,True
+Rodney Hood,2,3,4,1,Jump Shot,10,5,106,True
+Rodney Hood,3,8,23,0,Jump Shot,26,-136,223,False
+Rodney Hood,4,3,2,0,Jump Shot,30,46,304,False
+Rodney Hood,4,5,57,1,Jump Shot,21,-213,48,True
+Rodney Hood,4,0,29,0,Jump Shot,14,141,12,True
+Rodney Hood,2,4,5,0,Jump Shot,26,-48,258,False
+Rodney Hood,2,0,43,0,Jump Shot,25,74,240,False
+Rodney Hood,1,4,6,0,Jump Shot,25,-106,232,False
+Rodney Hood,1,9,58,0,Jump Shot,25,220,130,False
+Rodney Hood,2,5,27,1,Jump Shot,24,-178,167,False
+Rodney Hood,2,8,22,1,Jump Shot,24,-103,227,False
+Rodney Hood,1,8,25,0,Jump Shot,24,-206,140,False
+Rodney Hood,3,10,7,1,Jump Shot,22,-228,10,False
+Rodney Hood,1,10,42,0,Jump Shot,22,-228,-4,False
+Rodney Hood,3,5,28,0,Jump Shot,25,-76,247,False
+Rodney Hood,2,2,2,1,Jump Shot,27,-165,221,False
+Rodney Hood,1,1,55,0,Jump Shot,30,-128,275,False
+Rodney Hood,1,3,31,0,Jump Shot,26,-114,239,False
+Rodney Hood,4,10,47,0,Jump Shot,9,44,83,True
+Rodney Hood,4,0,30,0,Jump Shot,24,-119,215,False
+Rodney Hood,1,4,27,1,Jump Shot,28,-77,270,False
+Rodney Hood,4,11,38,0,Jump Shot,21,-16,216,True
+Rodney Hood,3,4,40,1,Jump Shot,25,-13,258,False
+Rodney Hood,2,1,13,1,Jump Shot,25,71,245,False
+Rodney Hood,2,10,24,0,Jump Shot,16,96,130,True
+Rodney Hood,2,11,45,0,Jump Shot,16,-165,-1,True
+Rodney Hood,4,0,12,0,Jump Shot,24,211,131,False
+Rodney Hood,4,10,34,1,Jump Shot,25,-30,253,False
+Rodney Hood,2,3,7,0,Jump Shot,17,112,137,True
+Rodney Hood,1,2,40,1,Jump Shot,17,9,179,True
+Rodney Hood,2,1,43,0,Jump Shot,24,67,236,False
+Rodney Hood,1,2,43,0,Jump Shot,20,-96,183,True
+Rodney Hood,2,8,25,0,Jump Shot,26,-33,265,False
+Rodney Hood,2,10,16,1,Jump Shot,25,150,205,False
+Rodney Hood,3,4,54,0,Jump Shot,22,-225,-6,False
+Rodney Hood,2,11,45,0,Jump Shot,4,-3,47,True
+Rodney Hood,1,6,33,1,Jump Shot,23,230,42,False
+Rodney Hood,2,9,2,1,Jump Shot,24,-72,238,False
+Rodney Hood,4,11,32,0,Jump Shot,24,244,20,False
+Rodney Hood,1,1,4,0,Jump Shot,25,-143,208,False
+Rodney Hood,3,0,9,1,Jump Shot,26,-33,258,False
+Rodney Hood,2,11,44,0,Jump Shot,25,-131,219,False
+Rodney Hood,2,8,51,0,Jump Shot,18,141,114,True
+Rodney Hood,3,0,41,1,Jump Shot,26,6,263,False
+Rodney Hood,3,5,43,0,Jump Shot,26,-134,232,False
+Rodney Hood,2,6,16,0,Jump Shot,22,-227,11,False
+Rodney Hood,4,10,36,1,Jump Shot,26,103,243,False
+Rodney Hood,4,11,31,1,Jump Shot,26,-92,244,False
+Rodney Hood,2,6,56,1,Jump Shot,27,-139,234,False
+Rodney Hood,1,0,1,0,Jump Shot,22,-108,195,True
+Rodney Hood,3,0,0,0,Jump Shot,30,14,309,False
+Rodney Hood,2,9,13,1,Jump Shot,25,-111,230,False
+Rodney Hood,4,9,57,0,Jump Shot,27,-78,264,False
+Rodney Hood,2,5,56,0,Jump Shot,23,-230,6,False
+Rodney Hood,1,2,47,0,Jump Shot,26,-140,225,False
+Rodney Hood,3,1,3,1,Jump Shot,26,-144,226,False
+Rodney Hood,3,3,30,1,Jump Shot,24,-133,208,False
+Rodney Hood,1,11,26,1,Jump Shot,24,-149,199,False
+Rodney Hood,2,7,42,0,Jump Shot,24,-160,188,False
+Rodney Hood,2,5,1,0,Jump Shot,22,223,0,False
+Rodney Hood,3,5,9,0,Jump Shot,25,-71,246,False
+Rodney Hood,4,0,12,0,Jump Shot,25,-62,247,False
+Rodney Hood,1,2,56,0,Jump Shot,25,116,227,False
+Rodney Hood,3,3,15,1,Jump Shot,26,99,250,False
+Rodney Hood,3,5,47,1,Jump Shot,26,117,242,False
+Rodney Hood,4,5,38,0,Jump Shot,17,-152,96,True
+Rodney Hood,3,9,34,1,Jump Shot,25,-131,222,False
+Rodney Hood,4,4,39,0,Jump Shot,25,-96,240,False
+Rodney Hood,4,2,5,0,Jump Shot,25,58,252,False
+Rodney Hood,2,10,39,0,Jump Shot,19,102,162,True
+Rodney Hood,3,0,46,0,Jump Shot,13,52,126,True
+Rodney Hood,1,0,38,1,Jump Shot,23,-230,-1,False
+Rodney Hood,3,2,14,1,Jump Shot,18,-69,172,True
+Rodney Hood,1,0,2,0,Jump Shot,25,19,253,False
+Rodney Hood,3,9,46,0,Jump Shot,22,-226,-18,False
+Rodney Hood,2,4,43,0,Jump Shot,26,-82,253,False
+Rodney Hood,2,1,1,1,Jump Shot,25,-172,183,False
+Rodney Hood,3,0,8,0,Jump Shot,25,-55,245,False
+Rodney Hood,3,2,30,0,Jump Shot,24,-46,243,False
+Rodney Hood,2,5,7,1,Jump Shot,22,225,18,False
+Rodney Hood,2,1,25,1,Jump Shot,23,-230,43,False
+Rodney Hood,2,2,1,0,Jump Shot,9,-86,37,True
+Rodney Hood,3,7,43,0,Jump Shot,22,124,184,True
+Rodney Hood,2,0,2,0,Jump Shot,15,-18,156,True
+Rodney Hood,2,11,20,1,Jump Shot,23,-226,79,False
+Rodney Hood,3,2,13,1,Jump Shot,25,-95,236,False
+Rodney Hood,3,4,33,0,Jump Shot,19,-39,188,True
+Rodney Hood,4,5,49,0,Jump Shot,25,-52,247,False
+Rodney Hood,3,8,17,0,Jump Shot,25,-25,251,False
+Rodney Hood,1,0,0,1,Jump Shot,25,39,248,False
+Rodney Hood,2,8,37,1,Jump Shot,25,41,247,False
+Rodney Hood,2,7,58,1,Jump Shot,25,-89,234,False
+Rodney Hood,1,4,6,0,Jump Shot,25,30,256,False
+Rodney Hood,4,4,12,0,Jump Shot,24,67,239,False
+Rodney Hood,1,6,31,1,Jump Shot,17,40,168,True
+Rodney Hood,3,3,43,0,Jump Shot,25,133,216,False
+Rodney Hood,3,0,1,0,Jump Shot,24,-73,234,False
+Rodney Hood,4,0,48,0,Jump Shot,24,-117,220,False
+Rodney Hood,2,11,32,1,Jump Shot,26,-193,179,False
+Rodney Hood,4,11,47,0,Jump Shot,25,-226,113,False
+Rodney Hood,3,4,0,0,Jump Shot,25,-18,257,False
+Rodney Hood,3,2,53,0,Jump Shot,20,155,134,True
+Rodney Hood,4,1,19,0,Jump Shot,25,-25,251,False
+Rodney Hood,1,0,3,1,Jump Shot,22,-100,204,True
+Rodney Hood,4,11,51,0,Jump Shot,25,-59,249,False
+Rodney Hood,4,0,0,0,Jump Shot,36,-186,319,False
+Rodney Hood,4,10,41,0,Jump Shot,25,62,244,False
+Rodney Hood,3,2,48,1,Jump Shot,25,-52,249,False
+Rodney Hood,4,0,12,1,Jump Shot,23,232,31,False
+Rodney Hood,2,8,42,0,Jump Shot,24,34,242,False
+Rodney Hood,1,8,41,0,Jump Shot,22,-228,0,False
+Rodney Hood,2,2,25,0,Jump Shot,24,206,138,False
+Rodney Hood,2,10,45,0,Jump Shot,25,3,256,False
+Rodney Hood,2,3,56,1,Jump Shot,8,-2,85,True
+Rodney Hood,2,0,44,0,Jump Shot,25,36,256,False
+Rodney Hood,1,8,33,0,Jump Shot,24,-247,28,False
+Rodney Hood,2,1,17,1,Jump Shot,26,-23,259,False
+Rodney Hood,2,5,21,1,Jump Shot,14,-95,111,True
+Rodney Hood,4,8,41,0,Jump Shot,24,-184,161,False
+Rodney Hood,2,8,7,0,Jump Shot,25,106,236,False
+Rodney Hood,4,3,30,0,Jump Shot,8,51,64,True
+Rodney Hood,2,11,47,1,Jump Shot,25,-133,222,False
+Rodney Hood,4,5,1,0,Jump Shot,25,-57,246,False
+Rodney Hood,3,8,20,0,Jump Shot,9,-76,64,True
+Rodney Hood,3,11,11,1,Jump Shot,25,18,250,False
+Rodney Hood,2,11,36,0,Jump Shot,10,65,83,True
+Rodney Hood,3,7,23,0,Jump Shot,26,-169,199,False
+Rodney Hood,1,8,19,0,Jump Shot,18,-69,172,True
+Rodney Hood,3,10,37,0,Jump Shot,24,-143,194,False
+Rodney Hood,1,10,28,0,Jump Shot,25,-109,231,False
+Rodney Hood,3,10,2,1,Jump Shot,25,212,146,False
+Rodney Hood,3,5,44,0,Jump Shot,23,-231,0,False
+Rodney Hood,3,5,10,1,Jump Shot,24,-194,148,False
+Rodney Hood,4,2,57,1,Jump Shot,26,66,257,False
+Rodney Hood,3,6,15,0,Jump Shot,21,61,208,True
+Rodney Hood,2,11,4,0,Jump Shot,25,114,228,False
+Rodney Hood,4,6,46,0,Jump Shot,19,-59,183,True
+Rodney Hood,1,10,48,0,Jump Shot,24,-218,113,False
+Rodney Hood,3,4,53,1,Jump Shot,25,6,255,False
+Rodney Hood,1,10,7,0,Jump Shot,25,-197,164,False
+Rodney Hood,1,8,42,1,Jump Shot,24,-131,210,False
+Rodney Hood,3,10,58,0,Jump Shot,19,24,195,True
+Rodney Hood,2,3,22,1,Jump Shot,23,-231,6,False
+Rodney Hood,3,6,41,1,Jump Shot,16,18,163,True
+Rodney Hood,2,9,8,1,Jump Shot,20,18,201,True
+Rodney Hood,1,6,31,0,Jump Shot,22,228,-25,False
+Rodney Hood,2,2,52,1,Jump Shot,25,-5,253,False
+Rodney Hood,4,1,51,0,Jump Shot,25,-198,159,False
+Rodney Hood,4,0,46,0,Jump Shot,25,-109,226,False
+Rodney Hood,3,5,21,1,Jump Shot,20,95,186,True
+Rodney Hood,2,4,6,0,Jump Shot,24,-165,183,False
+Rodney Hood,4,10,38,1,Jump Shot,20,4,200,True
+Rodney Hood,4,9,36,1,Jump Shot,21,-96,196,True
+Rodney Hood,1,10,42,0,Jump Shot,24,87,231,False
+Rodney Hood,3,7,8,1,Jump Shot,24,51,244,False
+Rodney Hood,3,6,33,0,Jump Shot,25,-73,248,False
+Rodney Hood,3,7,36,1,Jump Shot,23,231,-1,False
+Rodney Hood,3,7,59,1,Jump Shot,23,226,67,False
+Rodney Hood,4,10,5,0,Jump Shot,25,86,238,False
+Rodney Hood,1,3,12,0,Jump Shot,13,-7,137,True
+Rodney Hood,1,1,21,1,Jump Shot,24,-174,175,False
+Rodney Hood,1,4,9,0,Jump Shot,25,-66,246,False
+Rodney Hood,3,6,57,1,Jump Shot,25,-145,204,False
+Rodney Hood,3,2,49,0,Jump Shot,23,230,6,False
+Rodney Hood,1,3,16,1,Jump Shot,9,-1,97,True
+Rodney Hood,2,8,10,0,Jump Shot,25,-165,193,False
+Rodney Hood,1,3,58,0,Jump Shot,17,104,137,True
+Rodney Hood,4,8,37,1,Jump Shot,21,-164,144,True
+Rodney Hood,2,7,42,0,Jump Shot,25,-171,187,False
+Rodney Hood,4,10,16,0,Jump Shot,18,-98,158,True
+Rodney Hood,2,11,43,1,Jump Shot,11,-55,96,True
+Rodney Hood,3,2,42,0,Jump Shot,15,151,27,True
+Rodney Hood,4,0,14,0,Jump Shot,25,129,221,False
+Rodney Hood,4,8,3,1,Jump Shot,25,-142,210,False
+Rodney Hood,3,0,39,0,Jump Shot,26,-186,195,False
+Rodney Hood,1,0,27,1,Jump Shot,25,-145,206,False
+Rodney Hood,2,11,36,0,Jump Shot,24,223,104,False
+Rodney Hood,3,2,15,0,Jump Shot,24,22,241,False
+Rodney Hood,4,0,11,1,Jump Shot,23,225,69,False
+Rodney Hood,1,5,39,0,Jump Shot,23,-235,23,False
+Rodney Hood,1,0,47,0,Jump Shot,24,101,227,False
+Rodney Hood,2,1,40,0,Jump Shot,23,228,44,False
+Rodney Hood,4,11,36,0,Jump Shot,24,-89,229,False
+Rodney Hood,2,8,0,1,Layup Shot,1,-4,16,True
+Rodney Hood,3,10,34,0,Layup Shot,2,-2,26,True
+Rodney Hood,4,0,53,0,Layup Shot,2,2,27,True
+Rodney Hood,4,6,32,1,Layup Shot,2,9,21,True
+Rodney Hood,1,11,7,0,Layup Shot,4,-6,49,True
+Rodney Hood,3,2,15,1,Layup Shot,7,8,77,True
+Rodney Hood,1,2,25,0,Layup Shot,3,-6,31,True
+Rodney Hood,4,10,16,0,Layup Shot,0,-2,3,True
+Rodney Hood,4,5,59,1,Layup Shot,1,-10,8,True
+Rodney Hood,4,6,18,1,Layup Shot,1,0,17,True
+Rodney Hood,2,3,17,0,Layup Shot,4,38,26,True
+Rodney Hood,3,5,54,1,Layup Shot,1,11,5,True
+Rodney Hood,3,4,5,0,Layup Shot,5,30,40,True
+Rodney Hood,3,7,11,0,Layup Shot,3,-27,23,True
+Rodney Hood,3,4,4,1,Pullup Jump shot,22,-36,222,True
+Rodney Hood,2,7,15,1,Pullup Jump shot,25,2,251,False
+Rodney Hood,1,0,33,1,Pullup Jump shot,25,40,247,False
+Rodney Hood,1,7,11,1,Pullup Jump shot,13,46,126,True
+Rodney Hood,3,0,0,0,Pullup Jump shot,23,-37,237,False
+Rodney Hood,2,11,25,1,Pullup Jump shot,17,-61,162,True
+Rodney Hood,2,2,54,0,Pullup Jump shot,7,18,71,True
+Rodney Hood,3,3,34,0,Pullup Jump shot,11,97,57,True
+Rodney Hood,1,0,8,0,Pullup Jump shot,26,-154,210,False
+Rodney Hood,4,2,3,1,Pullup Jump shot,10,-6,102,True
+Rodney Hood,4,9,38,1,Pullup Jump shot,18,87,163,True
+Rodney Hood,3,3,6,1,Pullup Jump shot,18,73,166,True
+Rodney Hood,3,9,58,1,Pullup Jump shot,9,51,80,True
+Rodney Hood,3,2,8,1,Pullup Jump shot,13,-44,132,True
+Rodney Hood,2,0,36,1,Pullup Jump shot,25,-87,241,False
+Rodney Hood,2,10,1,0,Pullup Jump shot,16,-82,145,True
+Rodney Hood,1,0,34,1,Pullup Jump shot,18,6,185,True
+Rodney Hood,1,0,0,1,Pullup Jump shot,25,-155,204,False
+Rodney Hood,3,0,13,1,Pullup Jump shot,26,-109,238,False
+Rodney Hood,4,1,38,1,Pullup Jump shot,19,-101,170,True
+Rodney Hood,4,9,49,1,Pullup Jump shot,15,15,158,True
+Rodney Hood,1,0,30,1,Pullup Jump shot,29,-83,280,False
+Rodney Hood,1,8,42,0,Pullup Jump shot,6,55,27,True
+Rodney Hood,3,0,14,0,Pullup Jump shot,11,66,98,True
+Rodney Hood,4,3,56,0,Pullup Jump shot,14,77,124,True
+Rodney Hood,3,2,34,1,Pullup Jump shot,20,-1,202,True
+Rodney Hood,3,0,47,0,Pullup Jump shot,25,-190,169,False
+Rodney Hood,3,10,6,1,Pullup Jump shot,17,144,106,True
+Rodney Hood,3,6,24,1,Pullup Jump shot,9,-19,94,True
+Rodney Hood,1,6,13,1,Pullup Jump shot,25,-116,226,False
+Rodney Hood,4,11,0,1,Pullup Jump shot,9,2,92,True
+Rodney Hood,1,4,48,1,Pullup Jump shot,12,-93,83,True
+Rodney Hood,3,8,54,0,Pullup Jump shot,19,139,136,True
+Rodney Hood,4,7,4,0,Pullup Jump shot,27,-81,267,False
+Rodney Hood,4,8,17,1,Pullup Jump shot,13,-54,125,True
+Rodney Hood,1,0,50,0,Pullup Jump shot,17,-90,149,True
+Rodney Hood,1,10,6,1,Pullup Jump shot,20,-32,207,True
+Rodney Hood,4,11,20,0,Pullup Jump shot,9,62,78,True
+Rodney Hood,1,6,55,0,Pullup Jump shot,13,54,125,True
+Rodney Hood,4,8,39,1,Pullup Jump shot,17,118,133,True
+Rodney Hood,2,4,31,0,Pullup Jump shot,16,35,158,True
+Rodney Hood,4,8,48,0,Pullup Jump shot,14,146,10,True
+Rodney Hood,1,2,0,0,Pullup Jump shot,15,70,133,True
+Rodney Hood,1,2,5,0,Pullup Jump shot,24,6,245,False
+Rodney Hood,4,5,22,1,Pullup Jump shot,24,-235,71,False
+Rodney Hood,2,9,14,0,Pullup Jump shot,25,55,245,False
+Rodney Hood,1,11,31,0,Pullup Jump shot,16,33,160,True
+Rodney Hood,4,9,43,1,Pullup Jump shot,26,-7,262,False
+Rodney Hood,4,11,9,0,Pullup Jump shot,24,-118,216,False
+Rodney Hood,4,10,42,0,Pullup Jump shot,8,-47,65,True
+Rodney Hood,2,9,58,1,Pullup Jump shot,18,40,179,True
+Rodney Hood,4,9,14,0,Pullup Jump shot,5,47,29,True
+Rodney Hood,4,11,9,0,Pullup Jump shot,20,40,201,True
+Rodney Hood,1,4,31,1,Pullup Jump shot,24,198,151,False
+Rodney Hood,2,7,17,0,Pullup Jump shot,13,110,80,True
+Rodney Hood,1,1,23,0,Pullup Jump shot,17,-155,83,True
+Rodney Hood,4,2,49,0,Pullup Jump shot,10,59,85,True
+Rodney Hood,3,8,7,0,Pullup Jump shot,18,-49,178,True
+Rodney Hood,3,11,12,0,Pullup Jump shot,18,7,189,True
+Rodney Hood,1,2,59,0,Pullup Jump shot,13,30,131,True
+Rodney Hood,2,8,34,1,Pullup Jump shot,26,-104,243,False
+Rodney Hood,3,0,51,0,Pullup Jump shot,18,174,75,True
+Rodney Hood,2,7,43,1,Pullup Jump shot,17,-89,155,True
+Rodney Hood,1,10,22,0,Pullup Jump shot,17,33,176,True
+Rodney Hood,4,7,51,0,Pullup Jump shot,24,201,132,False
+Rodney Hood,2,9,23,1,Pullup Jump shot,25,14,257,False
+Rodney Hood,1,4,21,1,Pullup Jump shot,15,-29,155,True
+Rodney Hood,1,8,18,0,Pullup Jump shot,14,-61,131,True
+Rodney Hood,3,1,48,0,Pullup Jump shot,16,-100,136,True
+Rodney Hood,2,9,29,1,Pullup Jump shot,19,-124,144,True
+Rodney Hood,2,9,48,0,Pullup Jump shot,19,36,189,True
+Rodney Hood,4,6,14,0,Pullup Jump shot,25,177,190,False
+Rodney Hood,1,1,7,1,Pullup Jump shot,18,-100,160,True
+Rodney Hood,3,6,12,0,Pullup Jump shot,14,70,127,True
+Rodney Hood,4,8,43,0,Pullup Jump shot,13,-132,3,True
+Rodney Hood,3,0,47,0,Pullup Jump shot,26,16,262,False
+Rodney Hood,3,2,8,0,Pullup Jump shot,18,127,136,True
+Rodney Hood,2,0,0,0,Pullup Jump shot,24,15,248,False
+Rodney Hood,4,11,34,0,Pullup Jump shot,7,43,66,True
+Rodney Hood,2,9,31,0,Pullup Jump shot,18,16,185,True
+Rodney Hood,4,10,29,0,Pullup Jump shot,27,-141,235,False
+Rodney Hood,3,3,17,1,Pullup Jump shot,26,-133,227,False
+Rodney Hood,1,7,17,1,Pullup Jump shot,17,93,148,True
+Rodney Hood,1,3,28,0,Pullup Jump shot,25,-182,180,False
+Rodney Hood,4,0,40,1,Pullup Jump shot,13,122,49,True
+Rodney Hood,1,0,35,1,Pullup Jump shot,10,-2,107,True
+Rodney Hood,1,1,22,1,Pullup Jump shot,15,25,157,True
+Rodney Hood,2,5,12,0,Pullup Jump shot,20,2,204,True
+Rodney Hood,2,5,2,1,Pullup Jump shot,6,0,67,True
+Rodney Hood,1,5,1,0,Pullup Jump shot,9,93,11,True
+Rodney Hood,4,3,16,0,Pullup Jump shot,15,-112,110,True
+Rodney Hood,3,4,38,0,Pullup Jump shot,17,-100,148,True
+Rodney Hood,3,11,39,1,Pullup Jump shot,7,4,78,True
+Rodney Hood,3,11,3,0,Pullup Jump shot,6,6,65,True
+Rodney Hood,2,6,38,1,Pullup Jump shot,25,-142,211,False
+Rodney Hood,3,1,7,0,Pullup Jump shot,17,83,153,True
+Rodney Hood,3,0,27,0,Pullup Jump shot,25,137,211,False
+Rodney Hood,2,11,29,1,Pullup Jump shot,25,-32,248,False
+Rodney Hood,4,9,40,1,Pullup Jump shot,15,82,128,True
+Rodney Hood,1,1,24,1,Pullup Jump shot,17,-9,176,True
+Rodney Hood,4,11,2,0,Pullup Jump shot,28,123,257,False
+Rodney Hood,3,8,1,1,Pullup Jump shot,16,-65,153,True
+Rodney Hood,1,6,20,0,Pullup Jump shot,21,-56,204,True
+Rodney Hood,4,11,32,1,Pullup Jump shot,27,107,250,False
+Rodney Hood,2,0,0,0,Pullup Jump shot,25,120,227,False
+Rodney Hood,4,10,16,1,Pullup Jump shot,19,139,140,True
+Rodney Hood,1,4,33,1,Pullup Jump shot,8,45,73,True
+Rodney Hood,1,3,12,0,Pullup Jump shot,20,-148,136,True
+Rodney Hood,4,5,31,0,Pullup Jump shot,10,-3,105,True
+Rodney Hood,3,2,7,0,Pullup Jump shot,25,165,194,False
+Rodney Hood,1,0,31,0,Pullup Jump shot,13,6,133,True
+Rodney Hood,1,7,4,0,Pullup Jump shot,17,-8,172,True
+Rodney Hood,2,9,7,0,Pullup Jump shot,21,33,215,True
+Rodney Hood,3,1,32,0,Pullup Jump shot,11,81,87,True
+Rodney Hood,1,2,56,1,Reverse Layup Shot,2,-6,27,True
+Rodney Hood,2,0,39,1,Running Dunk Shot,1,-5,11,True
+Rodney Hood,1,7,32,1,Running Dunk Shot,1,2,10,True
+Rodney Hood,3,3,1,1,Running Dunk Shot,1,-1,15,True
+Rodney Hood,3,9,7,1,Running Jump Shot,25,-176,190,False
+Rodney Hood,3,9,19,0,Running Jump Shot,22,-227,4,False
+Rodney Hood,2,10,49,0,Running Jump Shot,26,-60,258,False
+Rodney Hood,3,7,0,1,Running Jump Shot,5,28,46,True
+Rodney Hood,3,0,41,1,Running Layup Shot,1,6,13,True
+Rodney Hood,3,8,15,1,Running Layup Shot,1,-3,15,True
+Rodney Hood,1,1,13,0,Running Layup Shot,2,23,6,True
+Rodney Hood,4,6,13,1,Running Layup Shot,2,13,26,True
+Rodney Hood,2,9,7,1,Running Layup Shot,1,13,8,True
+Rodney Hood,2,1,14,1,Running Layup Shot,0,0,6,True
+Rodney Hood,1,0,28,1,Running Layup Shot,1,11,3,True
+Rodney Hood,4,7,26,1,Running Layup Shot,2,-20,6,True
+Rodney Hood,2,10,15,0,Running Layup Shot,7,-38,59,True
+Rodney Hood,3,4,46,0,Running Layup Shot,3,19,31,True
+Rodney Hood,1,10,37,0,Running Layup Shot,1,-13,0,True
+Rodney Hood,3,5,22,0,Running Reverse Layup Shot,2,-2,24,True
+Rodney Hood,3,7,57,0,Running Reverse Layup Shot,1,7,15,True
+Rodney Hood,2,8,48,0,Step Back Jump shot,9,64,71,True
+Rodney Hood,4,11,32,0,Step Back Jump shot,24,40,244,False
+Rodney Hood,1,3,9,0,Step Back Jump shot,23,68,224,True
+Rodney Hood,4,9,10,0,Step Back Jump shot,16,58,157,True
+Rodney Hood,1,4,32,1,Step Back Jump shot,22,197,117,True
+Rodney Hood,2,2,12,0,Step Back Jump shot,16,110,125,True
+Rodney Hood,2,1,45,0,Step Back Jump shot,15,147,61,True
+Rodney Hood,2,11,16,1,Step Back Jump shot,8,68,53,True
+Rodney Hood,1,6,32,1,Step Back Jump shot,19,139,131,True
+Rodney Hood,3,7,12,1,Step Back Jump shot,14,-75,119,True
+Rodney Hood,2,0,52,0,Step Back Jump shot,21,111,182,True
+Rodney Hood,2,10,8,1,Step Back Jump shot,13,98,97,True
+Rodney Hood,2,2,54,0,Step Back Jump shot,22,-228,-1,False
+Rodney Hood,3,1,34,1,Step Back Jump shot,24,-68,239,False
+Rodney Hood,1,4,42,0,Step Back Jump shot,17,129,116,True
+Rodney Hood,1,0,1,1,Step Back Jump shot,23,165,163,True
+Rodney Hood,2,8,24,0,Step Back Jump shot,10,73,80,True
+Rodney Hood,1,1,49,1,Step Back Jump shot,12,-52,109,True
+Rodney Hood,2,10,42,0,Step Back Jump shot,18,105,158,True
+Rodney Hood,3,5,11,0,Step Back Jump shot,24,35,243,False
+Rodney Hood,1,3,35,1,Step Back Jump shot,22,107,195,True
+Rodney Hood,3,9,5,1,Step Back Jump shot,25,96,235,False
+Rodney Hood,1,0,10,0,Step Back Jump shot,25,81,242,False
+Rodney Hood,3,0,3,0,Tip Layup Shot,0,0,-6,True
+Rodney Hood,1,2,1,0,Tip Layup Shot,0,0,-6,True
+Rodney Hood,2,6,16,0,Tip Layup Shot,0,0,-6,True
+Rodney Hood,4,8,6,1,Turnaround Fadeaway Bank Jump Shot,7,70,32,True
+Rodney Hood,1,5,53,1,Turnaround Fadeaway Bank Jump Shot,5,-45,31,True
+Rodney Hood,2,2,55,1,Turnaround Fadeaway shot,10,-108,-4,True
+Rodney Hood,1,3,27,1,Turnaround Fadeaway shot,7,32,70,True
+Rodney Hood,4,1,54,0,Turnaround Fadeaway shot,7,-22,68,True
+Rodney Hood,2,10,52,0,Turnaround Fadeaway shot,9,89,26,True
+Rodney Hood,2,0,25,1,Turnaround Fadeaway shot,10,-96,30,True
+Rodney Hood,4,4,59,0,Turnaround Fadeaway shot,10,102,29,True
+Rodney Hood,3,1,18,0,Turnaround Fadeaway shot,8,-84,14,True
+Rodney Hood,4,3,32,0,Turnaround Hook Shot,9,-89,42,True
+Rodney Hood,4,10,27,0,Turnaround Hook Shot,8,61,52,True
+Rodney Hood,3,1,5,1,Turnaround Hook Shot,9,33,85,True
+Rodney Hood,3,11,42,0,Turnaround Hook Shot,5,5,57,True
+Rodney Hood,4,1,51,0,Turnaround Jump Shot,5,-29,44,True
+Rodney Hood,2,1,25,1,Turnaround Jump Shot,5,1,56,True
+Rodney Hood,1,2,9,0,Turnaround Jump Shot,9,-90,0,True
+Rodney Hood,1,0,0,0,Turnaround Jump Shot,13,-90,95,True
+Rodney Hood,4,5,34,0,Turnaround Jump Shot,8,-86,1,True
+Rodney Hood,2,10,20,0,Turnaround Jump Shot,25,-218,126,False
+Rodney Hood,4,10,47,1,Turnaround Jump Shot,8,-29,81,True
+Rodney Hood,1,8,2,1,Turnaround Jump Shot,10,-60,89,True
+Rodney Hood,4,4,5,1,Turnaround Jump Shot,14,-63,127,True
+Rodney Hood,2,4,56,0,Turnaround Jump Shot,8,3,86,True
+Rodney Hood,3,3,51,0,Turnaround Jump Shot,11,-75,93,True
+Rodney Hood,1,1,3,0,Turnaround Jump Shot,17,3,173,True
+Rodney Hood,3,10,38,0,Turnaround Jump Shot,15,17,158,True
+Rodney Hood,1,6,13,0,Turnaround Jump Shot,9,92,6,True

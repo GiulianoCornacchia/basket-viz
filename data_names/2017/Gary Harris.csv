@@ -1,0 +1,766 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Gary Harris,1,10,37,1,Alley Oop Dunk Shot,3,-28,25,True
+Gary Harris,4,2,38,1,Alley Oop Dunk Shot,0,-3,1,True
+Gary Harris,2,1,6,1,Alley Oop Layup shot,1,11,6,True
+Gary Harris,3,8,29,1,Cutting Dunk Shot,0,7,4,True
+Gary Harris,1,8,25,1,Cutting Dunk Shot,1,0,15,True
+Gary Harris,4,6,46,1,Cutting Dunk Shot,0,-6,6,True
+Gary Harris,1,11,17,1,Cutting Dunk Shot,1,-14,6,True
+Gary Harris,4,2,14,0,Cutting Dunk Shot,2,-16,24,True
+Gary Harris,2,4,7,1,Cutting Dunk Shot,1,16,4,True
+Gary Harris,1,8,1,1,Cutting Dunk Shot,2,-20,15,True
+Gary Harris,4,6,9,1,Cutting Dunk Shot,2,5,21,True
+Gary Harris,4,5,52,1,Cutting Dunk Shot,1,-5,13,True
+Gary Harris,1,7,51,1,Cutting Dunk Shot,0,3,9,True
+Gary Harris,3,2,56,1,Cutting Dunk Shot,1,-11,5,True
+Gary Harris,4,4,9,1,Cutting Dunk Shot,2,-14,20,True
+Gary Harris,3,5,27,0,Cutting Finger Roll Layup Shot,4,2,42,True
+Gary Harris,3,10,47,1,Cutting Finger Roll Layup Shot,2,-12,17,True
+Gary Harris,3,5,15,0,Cutting Finger Roll Layup Shot,2,-18,17,True
+Gary Harris,4,9,35,1,Cutting Layup Shot,2,-19,12,True
+Gary Harris,3,5,51,0,Cutting Layup Shot,2,25,6,True
+Gary Harris,2,4,34,1,Cutting Layup Shot,2,-18,11,True
+Gary Harris,1,6,3,0,Cutting Layup Shot,5,-5,53,True
+Gary Harris,2,5,36,1,Cutting Layup Shot,1,-14,1,True
+Gary Harris,1,6,34,1,Cutting Layup Shot,1,-7,12,True
+Gary Harris,1,8,42,1,Cutting Layup Shot,2,20,14,True
+Gary Harris,4,11,25,1,Cutting Layup Shot,3,-26,21,True
+Gary Harris,3,8,8,1,Cutting Layup Shot,1,2,11,True
+Gary Harris,3,7,44,1,Cutting Layup Shot,1,-11,12,True
+Gary Harris,1,7,45,1,Cutting Layup Shot,0,5,-4,True
+Gary Harris,2,5,40,1,Cutting Layup Shot,2,-11,17,True
+Gary Harris,1,4,32,1,Cutting Layup Shot,1,9,17,True
+Gary Harris,1,11,10,1,Cutting Layup Shot,1,6,11,True
+Gary Harris,4,4,58,1,Cutting Layup Shot,2,-14,15,True
+Gary Harris,3,5,25,1,Cutting Layup Shot,2,-20,12,True
+Gary Harris,1,2,30,1,Cutting Layup Shot,0,3,9,True
+Gary Harris,2,5,10,1,Cutting Layup Shot,3,9,29,True
+Gary Harris,3,4,6,1,Driving Dunk Shot,1,-2,10,True
+Gary Harris,3,9,54,1,Driving Dunk Shot,2,17,15,True
+Gary Harris,3,8,41,1,Driving Dunk Shot,2,-8,21,True
+Gary Harris,3,1,42,1,Driving Dunk Shot,0,-3,-4,True
+Gary Harris,2,0,17,1,Driving Dunk Shot,1,10,15,True
+Gary Harris,2,1,18,1,Driving Dunk Shot,3,-25,29,True
+Gary Harris,3,3,9,1,Driving Dunk Shot,1,9,17,True
+Gary Harris,4,3,26,0,Driving Finger Roll Layup Shot,2,20,8,True
+Gary Harris,1,11,19,1,Driving Finger Roll Layup Shot,5,43,34,True
+Gary Harris,2,5,42,0,Driving Finger Roll Layup Shot,2,22,3,True
+Gary Harris,1,3,29,0,Driving Finger Roll Layup Shot,3,19,27,True
+Gary Harris,4,7,10,0,Driving Finger Roll Layup Shot,2,19,21,True
+Gary Harris,3,8,59,1,Driving Finger Roll Layup Shot,5,32,48,True
+Gary Harris,3,7,0,0,Driving Finger Roll Layup Shot,3,32,17,True
+Gary Harris,3,3,46,1,Driving Finger Roll Layup Shot,3,23,29,True
+Gary Harris,4,3,5,1,Driving Finger Roll Layup Shot,2,15,23,True
+Gary Harris,3,9,39,1,Driving Finger Roll Layup Shot,1,13,13,True
+Gary Harris,1,2,1,0,Driving Finger Roll Layup Shot,3,31,17,True
+Gary Harris,1,1,22,0,Driving Finger Roll Layup Shot,1,8,9,True
+Gary Harris,3,9,52,0,Driving Finger Roll Layup Shot,5,23,47,True
+Gary Harris,1,3,26,1,Driving Finger Roll Layup Shot,1,14,11,True
+Gary Harris,2,4,12,0,Driving Finger Roll Layup Shot,2,19,8,True
+Gary Harris,4,6,34,0,Driving Finger Roll Layup Shot,2,18,10,True
+Gary Harris,3,11,45,1,Driving Finger Roll Layup Shot,3,18,32,True
+Gary Harris,3,5,34,1,Driving Finger Roll Layup Shot,3,22,21,True
+Gary Harris,3,3,10,1,Driving Finger Roll Layup Shot,0,2,2,True
+Gary Harris,3,5,57,1,Driving Finger Roll Layup Shot,1,4,18,True
+Gary Harris,4,0,56,1,Driving Finger Roll Layup Shot,1,11,4,True
+Gary Harris,2,5,18,1,Driving Finger Roll Layup Shot,3,22,25,True
+Gary Harris,3,1,42,1,Driving Finger Roll Layup Shot,1,8,16,True
+Gary Harris,3,9,5,1,Driving Finger Roll Layup Shot,2,-16,15,True
+Gary Harris,1,3,18,0,Driving Floating Bank Jump Shot,6,67,15,True
+Gary Harris,1,4,10,1,Driving Floating Bank Jump Shot,14,5,148,True
+Gary Harris,1,0,21,1,Driving Floating Bank Jump Shot,5,20,48,True
+Gary Harris,3,11,32,1,Driving Floating Jump Shot,4,30,31,True
+Gary Harris,3,11,42,1,Driving Floating Jump Shot,12,25,126,True
+Gary Harris,1,2,6,0,Driving Floating Jump Shot,8,84,8,True
+Gary Harris,4,2,50,0,Driving Floating Jump Shot,6,20,57,True
+Gary Harris,1,6,38,1,Driving Floating Jump Shot,7,-25,71,True
+Gary Harris,3,3,48,0,Driving Floating Jump Shot,6,64,25,True
+Gary Harris,1,9,26,1,Driving Floating Jump Shot,8,33,82,True
+Gary Harris,4,4,35,0,Driving Floating Jump Shot,11,-8,115,True
+Gary Harris,3,4,21,0,Driving Floating Jump Shot,3,-29,18,True
+Gary Harris,4,1,52,1,Driving Floating Jump Shot,5,-6,54,True
+Gary Harris,2,0,54,1,Driving Floating Jump Shot,5,-2,55,True
+Gary Harris,2,6,57,1,Driving Floating Jump Shot,7,-30,66,True
+Gary Harris,3,7,37,1,Driving Floating Jump Shot,8,-4,85,True
+Gary Harris,2,4,58,1,Driving Floating Jump Shot,9,13,92,True
+Gary Harris,1,7,24,0,Driving Floating Jump Shot,12,70,100,True
+Gary Harris,3,3,44,1,Driving Floating Jump Shot,4,3,40,True
+Gary Harris,3,11,15,0,Driving Floating Jump Shot,6,2,69,True
+Gary Harris,3,2,8,0,Driving Layup Shot,1,0,10,True
+Gary Harris,2,2,19,0,Driving Layup Shot,1,18,-4,True
+Gary Harris,2,1,32,0,Driving Layup Shot,2,3,23,True
+Gary Harris,3,8,5,0,Driving Layup Shot,1,13,7,True
+Gary Harris,1,4,33,1,Driving Layup Shot,1,-15,5,True
+Gary Harris,3,2,18,1,Driving Layup Shot,1,19,2,True
+Gary Harris,1,4,4,0,Driving Layup Shot,3,-30,13,True
+Gary Harris,4,6,59,1,Driving Layup Shot,1,-8,11,True
+Gary Harris,4,9,4,0,Driving Layup Shot,0,-5,5,True
+Gary Harris,1,4,40,1,Driving Layup Shot,2,24,10,True
+Gary Harris,4,6,53,1,Driving Layup Shot,2,21,17,True
+Gary Harris,2,6,25,1,Driving Layup Shot,2,5,20,True
+Gary Harris,3,11,9,1,Driving Layup Shot,1,-9,17,True
+Gary Harris,3,7,11,1,Driving Layup Shot,2,27,12,True
+Gary Harris,1,8,6,0,Driving Layup Shot,2,14,16,True
+Gary Harris,3,4,57,0,Driving Layup Shot,3,-24,24,True
+Gary Harris,3,4,49,1,Driving Layup Shot,1,-5,9,True
+Gary Harris,2,3,7,0,Driving Layup Shot,4,3,47,True
+Gary Harris,2,8,9,0,Driving Layup Shot,2,-2,20,True
+Gary Harris,4,5,25,0,Driving Layup Shot,2,-4,27,True
+Gary Harris,1,7,22,0,Driving Layup Shot,6,-38,47,True
+Gary Harris,2,5,38,0,Driving Layup Shot,5,-49,29,True
+Gary Harris,1,9,29,1,Driving Layup Shot,1,2,10,True
+Gary Harris,2,0,58,0,Driving Layup Shot,2,22,15,True
+Gary Harris,1,9,40,0,Driving Layup Shot,2,18,21,True
+Gary Harris,1,1,26,1,Driving Layup Shot,2,18,9,True
+Gary Harris,2,0,34,1,Driving Layup Shot,0,-5,6,True
+Gary Harris,3,11,30,0,Driving Layup Shot,1,9,11,True
+Gary Harris,4,1,23,0,Driving Layup Shot,6,-20,57,True
+Gary Harris,4,0,38,0,Driving Layup Shot,2,26,7,True
+Gary Harris,1,8,8,0,Driving Layup Shot,1,-8,6,True
+Gary Harris,1,9,11,0,Driving Layup Shot,3,-27,20,True
+Gary Harris,2,1,35,0,Driving Layup Shot,3,-15,35,True
+Gary Harris,3,6,9,1,Driving Layup Shot,2,22,10,True
+Gary Harris,2,6,59,0,Driving Layup Shot,1,9,-17,True
+Gary Harris,1,10,39,1,Driving Layup Shot,1,13,11,True
+Gary Harris,2,6,41,1,Driving Layup Shot,1,11,0,True
+Gary Harris,3,9,16,1,Driving Layup Shot,2,13,20,True
+Gary Harris,2,2,47,0,Driving Layup Shot,6,-68,6,True
+Gary Harris,1,8,17,1,Driving Layup Shot,1,-11,1,True
+Gary Harris,3,4,48,0,Driving Layup Shot,4,35,27,True
+Gary Harris,3,8,7,1,Driving Layup Shot,2,14,16,True
+Gary Harris,1,3,14,1,Driving Layup Shot,0,-6,5,True
+Gary Harris,1,9,44,1,Driving Layup Shot,1,18,7,True
+Gary Harris,2,0,20,0,Driving Layup Shot,1,-2,13,True
+Gary Harris,2,3,45,0,Driving Layup Shot,2,20,16,True
+Gary Harris,1,11,21,1,Driving Layup Shot,2,11,22,True
+Gary Harris,3,7,48,1,Driving Layup Shot,2,-22,13,True
+Gary Harris,3,11,12,0,Driving Layup Shot,4,-13,47,True
+Gary Harris,3,4,31,1,Driving Layup Shot,3,20,25,True
+Gary Harris,2,10,16,1,Driving Layup Shot,0,-2,7,True
+Gary Harris,3,7,52,1,Driving Reverse Dunk Shot,1,10,7,True
+Gary Harris,3,1,14,0,Driving Reverse Layup Shot,4,35,27,True
+Gary Harris,3,5,9,1,Driving Reverse Layup Shot,1,-18,-1,True
+Gary Harris,3,7,31,1,Driving Reverse Layup Shot,1,-11,15,True
+Gary Harris,3,6,45,1,Driving Reverse Layup Shot,1,-16,-4,True
+Gary Harris,2,0,53,1,Driving Reverse Layup Shot,1,-15,9,True
+Gary Harris,3,8,41,1,Driving Reverse Layup Shot,2,-3,26,True
+Gary Harris,1,8,5,1,Driving Reverse Layup Shot,1,-19,5,True
+Gary Harris,3,5,21,1,Driving Reverse Layup Shot,1,-8,15,True
+Gary Harris,1,4,37,1,Driving Reverse Layup Shot,2,7,19,True
+Gary Harris,1,10,11,0,Driving Reverse Layup Shot,0,-3,8,True
+Gary Harris,2,8,10,0,Driving Reverse Layup Shot,3,-31,-2,True
+Gary Harris,4,8,58,1,Driving Reverse Layup Shot,1,-12,5,True
+Gary Harris,2,3,45,0,Driving Reverse Layup Shot,1,-14,6,True
+Gary Harris,1,4,36,1,Driving Reverse Layup Shot,2,-2,27,True
+Gary Harris,2,0,3,0,Driving Reverse Layup Shot,2,20,11,True
+Gary Harris,3,4,45,1,Driving Reverse Layup Shot,1,-13,13,True
+Gary Harris,3,11,45,0,Driving Reverse Layup Shot,2,-19,15,True
+Gary Harris,4,7,29,0,Driving Reverse Layup Shot,1,9,13,True
+Gary Harris,1,3,41,1,Driving Reverse Layup Shot,1,-18,8,True
+Gary Harris,1,7,56,1,Driving Reverse Layup Shot,2,-14,20,True
+Gary Harris,4,2,23,1,Driving Reverse Layup Shot,0,0,7,True
+Gary Harris,3,7,25,1,Driving Reverse Layup Shot,1,-15,4,True
+Gary Harris,1,4,44,0,Driving Reverse Layup Shot,1,-11,10,True
+Gary Harris,2,0,47,1,Driving Reverse Layup Shot,2,-19,16,True
+Gary Harris,2,1,22,0,Driving Reverse Layup Shot,2,-19,17,True
+Gary Harris,1,8,55,1,Dunk Shot,3,-6,33,True
+Gary Harris,3,2,25,1,Dunk Shot,0,-5,6,True
+Gary Harris,1,7,12,1,Dunk Shot,0,3,8,True
+Gary Harris,4,4,6,0,Fadeaway Jump Shot,14,95,104,True
+Gary Harris,3,9,16,0,Fadeaway Jump Shot,13,-125,43,True
+Gary Harris,3,4,42,0,Fadeaway Jump Shot,10,-104,7,True
+Gary Harris,2,1,21,0,Fadeaway Jump Shot,21,193,103,True
+Gary Harris,1,9,3,1,Fadeaway Jump Shot,12,54,111,True
+Gary Harris,4,3,0,0,Fadeaway Jump Shot,22,-198,96,True
+Gary Harris,3,1,18,0,Fadeaway Jump Shot,17,131,112,True
+Gary Harris,1,0,27,0,Fadeaway Jump Shot,15,89,121,True
+Gary Harris,3,8,25,0,Fadeaway Jump Shot,20,176,109,True
+Gary Harris,3,3,50,0,Fadeaway Jump Shot,15,18,153,True
+Gary Harris,1,2,59,0,Fadeaway Jump Shot,14,139,25,True
+Gary Harris,1,7,28,1,Fadeaway Jump Shot,14,-141,25,True
+Gary Harris,1,2,2,1,Fadeaway Jump Shot,16,-163,42,True
+Gary Harris,1,10,21,0,Fadeaway Jump Shot,13,-49,127,True
+Gary Harris,4,3,57,0,Fadeaway Jump Shot,17,171,56,True
+Gary Harris,3,4,49,1,Fadeaway Jump Shot,13,-32,127,True
+Gary Harris,2,8,4,0,Finger Roll Layup Shot,7,-65,32,True
+Gary Harris,3,5,20,1,Finger Roll Layup Shot,5,9,51,True
+Gary Harris,3,8,21,0,Floating Jump shot,8,0,81,True
+Gary Harris,1,10,6,0,Floating Jump shot,6,-41,52,True
+Gary Harris,3,9,45,0,Floating Jump shot,9,-1,90,True
+Gary Harris,1,6,29,0,Floating Jump shot,9,-29,90,True
+Gary Harris,1,4,40,0,Floating Jump shot,7,1,73,True
+Gary Harris,3,7,7,1,Floating Jump shot,8,-11,83,True
+Gary Harris,3,10,38,0,Floating Jump shot,8,4,85,True
+Gary Harris,3,11,0,0,Floating Jump shot,10,-35,95,True
+Gary Harris,2,2,29,0,Floating Jump shot,12,6,121,True
+Gary Harris,3,3,20,0,Floating Jump shot,13,-40,126,True
+Gary Harris,3,8,57,1,Floating Jump shot,8,0,85,True
+Gary Harris,1,4,53,1,Floating Jump shot,5,-3,50,True
+Gary Harris,1,7,27,1,Floating Jump shot,7,57,50,True
+Gary Harris,1,3,27,0,Floating Jump shot,8,-14,80,True
+Gary Harris,4,4,43,1,Floating Jump shot,6,59,32,True
+Gary Harris,3,4,11,0,Floating Jump shot,10,-79,65,True
+Gary Harris,1,5,4,1,Floating Jump shot,9,85,36,True
+Gary Harris,2,2,57,0,Floating Jump shot,9,79,57,True
+Gary Harris,3,10,55,0,Floating Jump shot,6,36,48,True
+Gary Harris,2,10,53,1,Floating Jump shot,10,-55,92,True
+Gary Harris,3,4,23,0,Floating Jump shot,9,31,88,True
+Gary Harris,4,3,57,1,Floating Jump shot,6,-27,60,True
+Gary Harris,1,4,38,0,Floating Jump shot,10,-29,104,True
+Gary Harris,4,3,9,0,Floating Jump shot,9,-97,-1,True
+Gary Harris,1,4,46,0,Floating Jump shot,5,-8,56,True
+Gary Harris,4,7,36,1,Floating Jump shot,10,34,101,True
+Gary Harris,4,0,47,1,Hook Shot,10,-8,108,True
+Gary Harris,4,10,43,0,Jump Bank Shot,26,-84,247,False
+Gary Harris,1,2,37,0,Jump Shot,26,-142,218,False
+Gary Harris,3,0,30,0,Jump Shot,22,-223,22,False
+Gary Harris,1,1,59,1,Jump Shot,25,-122,220,False
+Gary Harris,2,8,45,0,Jump Shot,23,-147,187,False
+Gary Harris,1,0,15,0,Jump Shot,23,-211,104,True
+Gary Harris,4,8,56,0,Jump Shot,22,-226,20,False
+Gary Harris,1,10,40,0,Jump Shot,25,-221,124,False
+Gary Harris,4,0,52,1,Jump Shot,23,-236,25,False
+Gary Harris,1,5,4,1,Jump Shot,25,-100,234,False
+Gary Harris,3,4,50,1,Jump Shot,23,-235,23,False
+Gary Harris,2,1,19,1,Jump Shot,23,235,20,False
+Gary Harris,2,1,50,1,Jump Shot,23,231,27,False
+Gary Harris,4,3,35,0,Jump Shot,23,-232,-11,False
+Gary Harris,2,3,11,0,Jump Shot,15,-155,24,True
+Gary Harris,4,1,45,1,Jump Shot,30,-68,301,False
+Gary Harris,3,8,45,0,Jump Shot,23,-230,-3,False
+Gary Harris,1,0,0,0,Jump Shot,26,228,143,False
+Gary Harris,1,10,4,1,Jump Shot,25,-114,228,False
+Gary Harris,3,9,33,0,Jump Shot,23,-234,11,False
+Gary Harris,2,5,29,0,Jump Shot,25,57,253,False
+Gary Harris,3,1,25,0,Jump Shot,25,-10,256,False
+Gary Harris,2,2,48,0,Jump Shot,24,-183,169,False
+Gary Harris,4,6,45,1,Jump Shot,25,-140,213,False
+Gary Harris,3,9,39,1,Jump Shot,26,-2,261,False
+Gary Harris,1,6,54,1,Jump Shot,22,226,20,False
+Gary Harris,4,6,15,0,Jump Shot,24,208,122,False
+Gary Harris,4,1,41,0,Jump Shot,26,73,251,False
+Gary Harris,1,10,8,0,Jump Shot,23,205,121,False
+Gary Harris,2,2,31,0,Jump Shot,24,156,193,False
+Gary Harris,1,5,10,0,Jump Shot,22,-226,-1,False
+Gary Harris,1,5,22,1,Jump Shot,24,-46,245,False
+Gary Harris,2,3,20,0,Jump Shot,24,-201,136,False
+Gary Harris,4,6,11,1,Jump Shot,12,-127,23,True
+Gary Harris,4,2,42,1,Jump Shot,24,-70,237,False
+Gary Harris,2,3,3,1,Jump Shot,11,-27,114,True
+Gary Harris,3,8,36,0,Jump Shot,22,-226,18,False
+Gary Harris,4,9,45,0,Jump Shot,26,106,242,False
+Gary Harris,4,0,26,1,Jump Shot,28,138,247,False
+Gary Harris,1,10,46,1,Jump Shot,24,-30,247,False
+Gary Harris,4,10,14,1,Jump Shot,25,-106,230,False
+Gary Harris,3,6,51,0,Jump Shot,24,222,110,False
+Gary Harris,2,6,40,1,Jump Shot,21,54,211,True
+Gary Harris,2,3,56,0,Jump Shot,23,231,20,False
+Gary Harris,2,4,54,0,Jump Shot,24,-200,143,False
+Gary Harris,3,9,24,1,Jump Shot,21,74,199,True
+Gary Harris,1,6,56,0,Jump Shot,23,-230,20,False
+Gary Harris,1,8,47,0,Jump Shot,24,-222,94,False
+Gary Harris,3,7,18,0,Jump Shot,25,-232,94,False
+Gary Harris,1,2,9,0,Jump Shot,25,185,171,False
+Gary Harris,1,8,31,0,Jump Shot,24,-157,184,False
+Gary Harris,1,7,5,1,Jump Shot,22,225,20,False
+Gary Harris,1,6,29,1,Jump Shot,25,160,195,False
+Gary Harris,1,3,36,1,Jump Shot,26,-149,217,False
+Gary Harris,1,5,55,1,Jump Shot,25,-161,196,False
+Gary Harris,2,3,43,0,Jump Shot,23,184,152,False
+Gary Harris,1,9,0,0,Jump Shot,22,-223,7,False
+Gary Harris,2,7,50,1,Jump Shot,25,-130,218,False
+Gary Harris,1,10,24,0,Jump Shot,25,-11,253,False
+Gary Harris,1,9,0,1,Jump Shot,26,-133,230,False
+Gary Harris,2,0,38,0,Jump Shot,23,-230,46,False
+Gary Harris,2,0,25,0,Jump Shot,25,122,220,False
+Gary Harris,4,1,11,0,Jump Shot,24,170,179,False
+Gary Harris,3,5,41,1,Jump Shot,22,226,-1,False
+Gary Harris,1,3,58,1,Jump Shot,22,-223,32,False
+Gary Harris,1,6,50,0,Jump Shot,22,-224,26,False
+Gary Harris,3,11,17,0,Jump Shot,24,100,221,False
+Gary Harris,3,7,34,0,Jump Shot,23,-138,195,False
+Gary Harris,3,7,8,1,Jump Shot,22,-225,21,False
+Gary Harris,1,0,39,0,Jump Shot,25,-177,184,False
+Gary Harris,4,0,0,1,Jump Shot,24,197,143,False
+Gary Harris,1,9,37,1,Jump Shot,24,-116,214,False
+Gary Harris,1,5,13,0,Jump Shot,25,-193,162,False
+Gary Harris,1,1,55,1,Jump Shot,23,-232,6,False
+Gary Harris,1,8,26,1,Jump Shot,25,-13,252,False
+Gary Harris,2,2,30,0,Jump Shot,24,174,172,False
+Gary Harris,2,5,22,1,Jump Shot,24,-108,220,False
+Gary Harris,4,5,49,0,Jump Shot,24,223,95,False
+Gary Harris,1,7,2,0,Jump Shot,24,208,138,False
+Gary Harris,4,3,40,0,Jump Shot,22,-224,36,False
+Gary Harris,2,9,5,0,Jump Shot,22,220,40,False
+Gary Harris,2,1,43,0,Jump Shot,25,189,165,False
+Gary Harris,1,10,0,1,Jump Shot,25,-149,209,False
+Gary Harris,1,11,41,1,Jump Shot,22,-161,155,True
+Gary Harris,3,4,24,1,Jump Shot,25,-155,204,False
+Gary Harris,1,7,19,0,Jump Shot,26,-120,232,False
+Gary Harris,4,1,52,1,Jump Shot,25,-177,180,False
+Gary Harris,2,4,3,0,Jump Shot,22,-229,11,False
+Gary Harris,4,3,7,0,Jump Shot,25,18,255,False
+Gary Harris,2,3,54,0,Jump Shot,23,-166,171,False
+Gary Harris,4,2,49,0,Jump Shot,23,-232,50,False
+Gary Harris,3,6,25,0,Jump Shot,22,-224,22,False
+Gary Harris,4,7,46,0,Jump Shot,22,-225,20,False
+Gary Harris,1,10,32,1,Jump Shot,23,230,26,False
+Gary Harris,3,8,45,0,Jump Shot,24,210,133,False
+Gary Harris,2,0,5,0,Jump Shot,22,-226,-16,False
+Gary Harris,2,1,5,1,Jump Shot,24,-215,115,False
+Gary Harris,1,6,10,1,Jump Shot,25,-202,163,False
+Gary Harris,4,5,31,0,Jump Shot,25,-15,250,False
+Gary Harris,3,6,39,1,Jump Shot,22,223,40,False
+Gary Harris,1,5,17,1,Jump Shot,23,226,43,False
+Gary Harris,4,3,55,0,Jump Shot,22,-221,-10,False
+Gary Harris,4,0,25,0,Jump Shot,22,-222,15,False
+Gary Harris,3,3,17,0,Jump Shot,25,6,259,False
+Gary Harris,1,11,29,1,Jump Shot,24,74,236,False
+Gary Harris,3,4,59,0,Jump Shot,19,-196,-6,True
+Gary Harris,4,4,9,1,Jump Shot,26,-217,152,False
+Gary Harris,4,3,3,0,Jump Shot,6,31,57,True
+Gary Harris,4,3,28,0,Jump Shot,26,-150,221,False
+Gary Harris,4,7,38,0,Jump Shot,22,-226,28,False
+Gary Harris,4,1,51,1,Jump Shot,26,-202,179,False
+Gary Harris,4,3,20,0,Jump Shot,9,-96,7,True
+Gary Harris,3,9,12,0,Jump Shot,27,16,273,False
+Gary Harris,1,3,45,0,Jump Shot,20,-171,114,True
+Gary Harris,1,11,30,1,Jump Shot,25,27,256,False
+Gary Harris,3,8,34,0,Jump Shot,25,-134,218,False
+Gary Harris,4,3,44,0,Jump Shot,25,218,125,False
+Gary Harris,2,1,49,0,Jump Shot,24,128,206,False
+Gary Harris,1,3,54,1,Jump Shot,24,-92,231,False
+Gary Harris,1,5,3,1,Jump Shot,23,171,167,False
+Gary Harris,3,8,26,1,Jump Shot,27,-101,257,False
+Gary Harris,3,6,23,0,Jump Shot,23,234,16,False
+Gary Harris,2,4,35,0,Jump Shot,26,-19,262,False
+Gary Harris,4,3,48,0,Jump Shot,26,173,206,False
+Gary Harris,3,5,11,0,Jump Shot,26,-101,242,False
+Gary Harris,5,4,25,1,Jump Shot,24,22,240,False
+Gary Harris,3,9,23,0,Jump Shot,25,57,252,False
+Gary Harris,1,6,29,0,Jump Shot,22,226,7,False
+Gary Harris,4,3,10,0,Jump Shot,19,66,180,True
+Gary Harris,1,11,34,0,Jump Shot,26,98,243,False
+Gary Harris,2,1,52,1,Jump Shot,23,-231,-8,False
+Gary Harris,4,6,10,0,Jump Shot,22,-154,168,True
+Gary Harris,2,4,47,0,Jump Shot,24,106,226,False
+Gary Harris,3,6,39,1,Jump Shot,25,-89,244,False
+Gary Harris,1,8,49,0,Jump Shot,24,-190,156,False
+Gary Harris,1,1,59,0,Jump Shot,23,-236,-16,False
+Gary Harris,1,9,56,0,Jump Shot,25,128,220,False
+Gary Harris,3,9,48,0,Jump Shot,23,227,68,False
+Gary Harris,3,7,44,0,Jump Shot,26,185,194,False
+Gary Harris,2,5,5,1,Jump Shot,25,-112,226,False
+Gary Harris,3,3,55,0,Jump Shot,17,0,173,True
+Gary Harris,3,9,7,0,Jump Shot,26,-61,254,False
+Gary Harris,1,8,13,0,Jump Shot,27,-117,247,False
+Gary Harris,4,4,21,0,Jump Shot,25,158,196,False
+Gary Harris,3,0,48,0,Jump Shot,24,228,80,False
+Gary Harris,4,3,54,0,Jump Shot,25,-137,212,False
+Gary Harris,4,0,38,0,Jump Shot,24,-79,233,False
+Gary Harris,1,8,58,1,Jump Shot,25,169,197,False
+Gary Harris,3,3,46,0,Jump Shot,24,106,226,False
+Gary Harris,4,7,37,1,Jump Shot,26,-142,226,False
+Gary Harris,3,1,7,1,Jump Shot,23,-230,15,False
+Gary Harris,2,4,34,0,Jump Shot,26,-140,225,False
+Gary Harris,2,7,15,0,Jump Shot,23,-230,1,False
+Gary Harris,3,3,27,1,Jump Shot,20,147,149,True
+Gary Harris,3,8,29,1,Jump Shot,19,-145,123,True
+Gary Harris,2,1,16,0,Jump Shot,26,54,257,False
+Gary Harris,4,6,22,0,Jump Shot,25,179,183,False
+Gary Harris,4,6,48,0,Jump Shot,23,-229,29,False
+Gary Harris,3,6,52,1,Jump Shot,23,-231,55,False
+Gary Harris,2,5,48,0,Jump Shot,29,212,206,False
+Gary Harris,3,10,42,0,Jump Shot,27,138,235,False
+Gary Harris,4,2,54,1,Jump Shot,27,-186,200,False
+Gary Harris,1,0,17,1,Jump Shot,23,-231,-11,False
+Gary Harris,1,6,32,0,Jump Shot,27,-157,227,False
+Gary Harris,5,3,26,0,Jump Shot,29,97,274,False
+Gary Harris,3,0,0,0,Jump Shot,78,131,774,False
+Gary Harris,2,0,46,0,Jump Shot,27,148,231,False
+Gary Harris,5,0,42,0,Jump Shot,25,221,130,False
+Gary Harris,3,1,57,0,Jump Shot,25,-172,184,False
+Gary Harris,1,5,33,0,Jump Shot,22,-95,201,True
+Gary Harris,3,8,3,1,Jump Shot,17,-49,169,True
+Gary Harris,1,8,5,0,Jump Shot,23,228,54,False
+Gary Harris,3,7,27,1,Jump Shot,15,-30,155,True
+Gary Harris,1,5,50,1,Jump Shot,23,236,6,False
+Gary Harris,3,11,15,0,Jump Shot,25,-215,143,False
+Gary Harris,3,4,47,0,Jump Shot,27,160,222,False
+Gary Harris,3,1,18,0,Jump Shot,25,211,143,False
+Gary Harris,3,2,9,0,Jump Shot,8,76,47,True
+Gary Harris,3,10,34,0,Jump Shot,26,-212,152,False
+Gary Harris,2,7,37,1,Jump Shot,27,-73,268,False
+Gary Harris,2,3,42,1,Jump Shot,24,149,195,False
+Gary Harris,3,6,1,1,Jump Shot,17,-146,90,True
+Gary Harris,1,5,47,0,Jump Shot,25,38,253,False
+Gary Harris,1,8,54,0,Jump Shot,22,-228,28,False
+Gary Harris,4,10,30,0,Jump Shot,25,-68,242,False
+Gary Harris,3,3,20,1,Jump Shot,25,210,146,False
+Gary Harris,1,9,50,0,Jump Shot,12,42,120,True
+Gary Harris,2,5,59,0,Jump Shot,24,122,217,False
+Gary Harris,4,1,12,0,Jump Shot,24,212,127,False
+Gary Harris,3,7,55,0,Jump Shot,26,-196,176,False
+Gary Harris,1,1,10,0,Jump Shot,24,199,149,False
+Gary Harris,2,5,27,0,Jump Shot,25,192,170,False
+Gary Harris,1,1,1,1,Jump Shot,25,182,178,False
+Gary Harris,4,3,21,0,Jump Shot,25,172,193,False
+Gary Harris,3,6,46,0,Jump Shot,22,229,4,False
+Gary Harris,4,11,25,0,Jump Shot,23,230,30,False
+Gary Harris,2,1,19,1,Jump Shot,25,-108,226,False
+Gary Harris,1,5,57,1,Jump Shot,22,229,17,False
+Gary Harris,1,3,57,0,Jump Shot,27,-98,252,False
+Gary Harris,3,5,3,1,Jump Shot,25,-155,199,False
+Gary Harris,4,11,31,0,Jump Shot,24,3,248,False
+Gary Harris,1,8,4,0,Jump Shot,23,230,22,False
+Gary Harris,1,7,2,1,Jump Shot,24,228,91,False
+Gary Harris,1,3,26,0,Jump Shot,25,196,159,False
+Gary Harris,4,9,46,1,Jump Shot,25,105,237,False
+Gary Harris,2,3,8,0,Jump Shot,26,-44,264,False
+Gary Harris,3,6,2,1,Jump Shot,25,-177,180,False
+Gary Harris,1,5,43,1,Jump Shot,13,-27,133,True
+Gary Harris,3,6,50,1,Jump Shot,26,-19,268,False
+Gary Harris,2,2,0,0,Jump Shot,15,144,60,True
+Gary Harris,2,1,16,1,Jump Shot,25,-120,222,False
+Gary Harris,2,5,38,1,Jump Shot,24,133,210,False
+Gary Harris,1,9,41,1,Jump Shot,25,100,230,False
+Gary Harris,3,3,17,0,Jump Shot,22,-221,-4,False
+Gary Harris,3,6,47,0,Jump Shot,23,-229,28,False
+Gary Harris,4,0,15,0,Jump Shot,24,227,90,False
+Gary Harris,2,8,22,0,Jump Shot,24,154,192,False
+Gary Harris,4,6,2,1,Jump Shot,25,51,246,False
+Gary Harris,3,5,51,1,Jump Shot,24,146,191,False
+Gary Harris,2,6,17,0,Jump Shot,24,107,225,False
+Gary Harris,1,11,44,0,Jump Shot,26,112,237,False
+Gary Harris,2,10,30,0,Jump Shot,25,0,253,False
+Gary Harris,2,6,7,1,Jump Shot,24,212,132,False
+Gary Harris,2,3,42,0,Jump Shot,25,-193,161,False
+Gary Harris,3,4,42,1,Jump Shot,26,177,191,False
+Gary Harris,3,4,12,1,Jump Shot,26,-105,242,False
+Gary Harris,1,1,55,0,Jump Shot,23,-232,19,False
+Gary Harris,3,1,40,0,Jump Shot,25,-219,130,False
+Gary Harris,2,4,13,0,Jump Shot,12,123,37,True
+Gary Harris,4,7,0,0,Jump Shot,25,10,259,False
+Gary Harris,2,3,13,1,Jump Shot,24,-242,48,False
+Gary Harris,2,4,6,1,Jump Shot,29,146,254,False
+Gary Harris,1,8,22,1,Jump Shot,24,174,176,False
+Gary Harris,4,4,39,1,Jump Shot,24,-163,182,False
+Gary Harris,3,5,45,0,Jump Shot,22,-225,11,False
+Gary Harris,3,6,46,1,Jump Shot,25,201,156,False
+Gary Harris,4,6,54,0,Jump Shot,22,-228,20,False
+Gary Harris,1,7,51,1,Jump Shot,23,-232,58,False
+Gary Harris,1,3,27,1,Jump Shot,20,-104,172,True
+Gary Harris,1,7,54,1,Jump Shot,23,236,20,False
+Gary Harris,3,8,10,0,Jump Shot,25,-37,248,False
+Gary Harris,3,10,9,1,Jump Shot,23,236,11,False
+Gary Harris,2,1,58,0,Jump Shot,25,-55,253,False
+Gary Harris,4,2,31,0,Jump Shot,25,5,251,False
+Gary Harris,4,5,27,0,Jump Shot,25,171,183,False
+Gary Harris,3,3,32,0,Jump Shot,25,162,194,False
+Gary Harris,1,8,34,0,Jump Shot,24,-95,229,False
+Gary Harris,1,4,32,1,Jump Shot,24,-192,159,False
+Gary Harris,1,3,42,0,Jump Shot,20,131,164,True
+Gary Harris,1,11,15,0,Jump Shot,12,-2,120,True
+Gary Harris,3,9,16,0,Jump Shot,24,-90,230,False
+Gary Harris,2,5,43,1,Jump Shot,25,-212,134,False
+Gary Harris,3,9,18,1,Jump Shot,25,-89,237,False
+Gary Harris,2,6,54,0,Jump Shot,10,96,46,True
+Gary Harris,1,8,41,1,Jump Shot,24,105,226,False
+Gary Harris,3,10,13,1,Jump Shot,26,193,177,False
+Gary Harris,2,3,59,0,Jump Shot,25,-183,184,False
+Gary Harris,3,4,17,1,Jump Shot,26,-157,208,False
+Gary Harris,1,3,28,0,Jump Shot,25,27,249,False
+Gary Harris,1,8,3,1,Jump Shot,19,-23,189,True
+Gary Harris,1,6,36,0,Jump Shot,25,81,245,False
+Gary Harris,1,11,18,0,Jump Shot,15,17,151,True
+Gary Harris,3,6,54,0,Jump Shot,26,116,238,False
+Gary Harris,1,10,32,0,Jump Shot,25,145,213,False
+Gary Harris,4,0,53,0,Jump Shot,30,-158,257,False
+Gary Harris,3,7,33,1,Jump Shot,23,230,-6,False
+Gary Harris,3,2,43,0,Jump Shot,28,122,253,False
+Gary Harris,2,5,36,1,Jump Shot,22,-228,-20,False
+Gary Harris,1,3,33,0,Jump Shot,22,-226,-8,False
+Gary Harris,3,6,27,1,Jump Shot,23,231,31,False
+Gary Harris,1,7,33,1,Jump Shot,25,-131,219,False
+Gary Harris,4,2,47,0,Jump Shot,26,-179,191,False
+Gary Harris,1,5,48,0,Jump Shot,7,0,75,True
+Gary Harris,2,1,5,0,Jump Shot,26,-160,213,False
+Gary Harris,2,3,49,1,Jump Shot,26,176,193,False
+Gary Harris,4,8,26,1,Jump Shot,23,-230,11,False
+Gary Harris,2,4,21,1,Jump Shot,12,107,65,True
+Gary Harris,1,3,46,0,Jump Shot,26,-83,252,False
+Gary Harris,2,0,29,1,Jump Shot,25,-67,241,False
+Gary Harris,1,8,16,0,Jump Shot,25,-202,158,False
+Gary Harris,1,11,16,0,Jump Shot,25,-117,232,False
+Gary Harris,2,0,59,0,Jump Shot,27,190,197,False
+Gary Harris,3,7,36,1,Jump Shot,26,-171,196,False
+Gary Harris,4,6,19,0,Jump Shot,23,-232,57,False
+Gary Harris,3,1,27,1,Jump Shot,25,-24,257,False
+Gary Harris,3,8,56,0,Jump Shot,28,-90,267,False
+Gary Harris,3,0,0,1,Jump Shot,31,-87,299,False
+Gary Harris,2,3,8,1,Jump Shot,23,230,15,False
+Gary Harris,2,4,53,0,Jump Shot,17,-38,166,True
+Gary Harris,3,9,59,1,Jump Shot,12,26,126,True
+Gary Harris,1,4,34,0,Jump Shot,27,61,268,False
+Gary Harris,3,6,4,0,Jump Shot,23,239,21,False
+Gary Harris,1,8,46,0,Jump Shot,26,-34,264,False
+Gary Harris,3,8,26,0,Jump Shot,26,157,214,False
+Gary Harris,1,1,34,0,Jump Shot,21,-183,116,True
+Gary Harris,3,4,9,1,Jump Shot,25,180,176,False
+Gary Harris,3,6,3,0,Jump Shot,23,234,8,False
+Gary Harris,4,3,32,1,Jump Shot,25,-139,218,False
+Gary Harris,1,11,16,0,Jump Shot,26,-207,169,False
+Gary Harris,1,9,57,0,Jump Shot,16,-79,144,True
+Gary Harris,2,5,32,1,Jump Shot,24,-239,37,False
+Gary Harris,2,2,23,1,Jump Shot,1,7,16,True
+Gary Harris,1,6,20,1,Jump Shot,26,143,225,False
+Gary Harris,2,1,42,1,Jump Shot,24,-222,108,False
+Gary Harris,1,10,55,1,Jump Shot,26,115,235,False
+Gary Harris,1,5,24,0,Jump Shot,25,16,250,False
+Gary Harris,2,5,27,0,Jump Shot,24,-168,174,False
+Gary Harris,2,9,16,0,Jump Shot,22,-225,-15,False
+Gary Harris,2,1,55,1,Jump Shot,28,120,257,False
+Gary Harris,4,7,35,1,Jump Shot,25,196,163,False
+Gary Harris,4,8,13,1,Jump Shot,24,220,109,False
+Gary Harris,2,5,1,1,Jump Shot,24,206,132,False
+Gary Harris,1,6,18,0,Jump Shot,25,79,238,False
+Gary Harris,3,7,43,0,Jump Shot,24,-131,203,False
+Gary Harris,3,11,18,0,Jump Shot,24,-134,211,False
+Gary Harris,2,2,12,0,Jump Shot,22,221,5,False
+Gary Harris,3,4,41,0,Jump Shot,25,68,243,False
+Gary Harris,2,1,14,0,Jump Shot,23,232,16,False
+Gary Harris,1,11,7,1,Jump Shot,25,-6,256,False
+Gary Harris,3,8,45,0,Jump Shot,24,188,160,False
+Gary Harris,2,4,32,0,Jump Shot,27,-109,250,False
+Gary Harris,4,6,26,0,Jump Shot,25,100,236,False
+Gary Harris,1,1,21,1,Jump Shot,22,-222,53,False
+Gary Harris,3,2,32,0,Jump Shot,27,-117,247,False
+Gary Harris,1,2,31,0,Jump Shot,25,226,109,False
+Gary Harris,3,10,26,0,Jump Shot,25,-133,223,False
+Gary Harris,3,4,30,0,Layup Shot,2,6,27,True
+Gary Harris,3,4,24,1,Layup Shot,1,9,9,True
+Gary Harris,2,3,28,0,Layup Shot,12,-9,120,True
+Gary Harris,4,7,58,1,Layup Shot,2,19,11,True
+Gary Harris,3,10,16,0,Layup Shot,2,20,21,True
+Gary Harris,1,3,6,1,Layup Shot,2,-14,22,True
+Gary Harris,1,11,21,1,Layup Shot,2,13,21,True
+Gary Harris,3,5,52,1,Layup Shot,2,17,15,True
+Gary Harris,3,5,51,1,Layup Shot,4,34,36,True
+Gary Harris,2,0,2,1,Layup Shot,0,3,-1,True
+Gary Harris,1,10,57,1,Layup Shot,1,-5,11,True
+Gary Harris,3,8,41,0,Layup Shot,2,-22,11,True
+Gary Harris,4,9,7,0,Layup Shot,1,0,13,True
+Gary Harris,4,5,43,0,Layup Shot,2,23,16,True
+Gary Harris,3,9,4,1,Layup Shot,3,30,8,True
+Gary Harris,3,8,43,1,Layup Shot,0,3,4,True
+Gary Harris,2,6,34,0,Layup Shot,2,-22,12,True
+Gary Harris,2,6,31,1,Layup Shot,2,20,15,True
+Gary Harris,1,5,11,0,Layup Shot,2,-9,22,True
+Gary Harris,1,3,56,0,Pullup Jump shot,15,55,146,True
+Gary Harris,2,6,15,1,Pullup Jump shot,15,-73,142,True
+Gary Harris,1,4,3,0,Pullup Jump shot,24,-152,193,False
+Gary Harris,3,11,46,0,Pullup Jump shot,24,-180,163,False
+Gary Harris,3,7,23,1,Pullup Jump shot,14,44,139,True
+Gary Harris,1,7,32,1,Pullup Jump shot,18,32,186,True
+Gary Harris,1,10,29,1,Pullup Jump shot,16,116,113,True
+Gary Harris,4,6,26,0,Pullup Jump shot,27,157,222,False
+Gary Harris,3,8,40,0,Pullup Jump shot,27,-157,228,False
+Gary Harris,3,10,28,1,Pullup Jump shot,9,94,0,True
+Gary Harris,2,1,21,1,Pullup Jump shot,6,-51,34,True
+Gary Harris,4,3,34,1,Pullup Jump shot,12,-1,123,True
+Gary Harris,1,11,36,1,Pullup Jump shot,24,-201,143,False
+Gary Harris,1,5,35,0,Pullup Jump shot,16,-144,72,True
+Gary Harris,2,3,45,1,Pullup Jump shot,19,110,157,True
+Gary Harris,1,2,46,1,Pullup Jump shot,25,221,120,False
+Gary Harris,3,10,9,0,Pullup Jump shot,25,24,253,False
+Gary Harris,1,8,46,1,Pullup Jump shot,12,58,114,True
+Gary Harris,3,5,38,0,Pullup Jump shot,19,14,190,True
+Gary Harris,4,2,33,0,Pullup Jump shot,25,-165,199,False
+Gary Harris,1,2,29,0,Pullup Jump shot,24,-122,215,False
+Gary Harris,1,5,27,0,Pullup Jump shot,16,-122,113,True
+Gary Harris,4,4,3,1,Pullup Jump shot,24,-174,175,False
+Gary Harris,1,10,25,1,Pullup Jump shot,17,-87,156,True
+Gary Harris,1,8,54,0,Pullup Jump shot,17,-93,152,True
+Gary Harris,1,3,8,0,Pullup Jump shot,14,-145,8,True
+Gary Harris,2,5,3,1,Pullup Jump shot,12,-118,50,True
+Gary Harris,1,6,6,0,Pullup Jump shot,20,73,195,True
+Gary Harris,1,2,37,0,Pullup Jump shot,17,-77,155,True
+Gary Harris,2,4,16,1,Pullup Jump shot,26,-86,246,False
+Gary Harris,2,3,15,1,Pullup Jump shot,15,-19,157,True
+Gary Harris,3,0,18,0,Pullup Jump shot,14,-1,141,True
+Gary Harris,1,5,36,0,Pullup Jump shot,13,-130,47,True
+Gary Harris,3,6,19,1,Pullup Jump shot,24,-165,186,False
+Gary Harris,2,10,44,0,Pullup Jump shot,20,110,173,True
+Gary Harris,3,2,49,1,Pullup Jump shot,18,65,176,True
+Gary Harris,1,3,9,0,Pullup Jump shot,17,30,177,True
+Gary Harris,3,3,36,0,Pullup Jump shot,24,-203,142,False
+Gary Harris,2,6,55,1,Pullup Jump shot,16,39,157,True
+Gary Harris,1,5,36,0,Pullup Jump shot,24,136,205,False
+Gary Harris,1,6,21,0,Pullup Jump shot,25,-68,246,False
+Gary Harris,1,5,7,1,Pullup Jump shot,12,-33,117,True
+Gary Harris,3,10,43,0,Pullup Jump shot,18,82,162,True
+Gary Harris,4,4,19,1,Pullup Jump shot,16,-77,148,True
+Gary Harris,1,11,40,1,Pullup Jump shot,26,-141,221,False
+Gary Harris,2,4,50,0,Pullup Jump shot,13,-6,133,True
+Gary Harris,3,7,37,1,Pullup Jump shot,25,-192,170,False
+Gary Harris,2,2,13,1,Pullup Jump shot,19,-130,150,True
+Gary Harris,4,6,56,0,Pullup Jump shot,16,-3,168,True
+Gary Harris,2,2,1,1,Pullup Jump shot,13,62,122,True
+Gary Harris,3,9,35,0,Pullup Jump shot,16,120,113,True
+Gary Harris,4,7,42,0,Pullup Jump shot,24,179,173,False
+Gary Harris,1,3,19,0,Pullup Jump shot,12,0,120,True
+Gary Harris,2,0,42,1,Pullup Jump shot,8,-4,88,True
+Gary Harris,3,8,28,1,Pullup Jump shot,25,-124,220,False
+Gary Harris,1,3,34,0,Pullup Jump shot,20,-9,200,True
+Gary Harris,4,5,56,0,Pullup Jump shot,24,-42,241,False
+Gary Harris,2,2,50,0,Pullup Jump shot,25,-196,158,False
+Gary Harris,3,9,16,0,Pullup Jump shot,18,60,178,True
+Gary Harris,1,6,20,0,Pullup Jump shot,15,-33,148,True
+Gary Harris,2,7,40,1,Pullup Jump shot,24,-190,150,False
+Gary Harris,2,5,6,0,Pullup Jump shot,24,-62,241,False
+Gary Harris,4,4,44,0,Pullup Jump shot,26,-79,257,False
+Gary Harris,2,1,50,0,Pullup Jump shot,10,97,29,True
+Gary Harris,3,9,16,0,Pullup Jump shot,14,-21,140,True
+Gary Harris,1,8,20,1,Pullup Jump shot,13,6,138,True
+Gary Harris,2,5,22,1,Pullup Jump shot,20,-174,111,True
+Gary Harris,3,10,7,0,Pullup Jump shot,15,-129,94,True
+Gary Harris,1,7,1,0,Pullup Jump shot,19,155,115,True
+Gary Harris,2,1,52,1,Pullup Jump shot,15,-44,148,True
+Gary Harris,2,0,37,0,Pullup Jump shot,18,1,189,True
+Gary Harris,3,5,30,1,Pullup Jump shot,24,138,199,False
+Gary Harris,1,5,31,0,Pullup Jump shot,24,-43,243,False
+Gary Harris,2,1,4,1,Pullup Jump shot,15,-81,130,True
+Gary Harris,3,2,23,0,Pullup Jump shot,23,-233,10,False
+Gary Harris,3,4,35,0,Pullup Jump shot,19,72,183,True
+Gary Harris,3,10,18,1,Pullup Jump shot,11,-96,68,True
+Gary Harris,1,6,13,0,Pullup Jump shot,8,-85,4,True
+Gary Harris,4,0,15,1,Pullup Jump shot,25,-3,251,False
+Gary Harris,3,5,39,0,Pullup Jump shot,9,49,85,True
+Gary Harris,2,4,13,0,Pullup Jump shot,24,196,152,False
+Gary Harris,3,1,29,0,Pullup Jump shot,20,0,200,True
+Gary Harris,4,4,3,1,Pullup Jump shot,11,112,42,True
+Gary Harris,2,4,48,1,Pullup Jump shot,21,-127,178,True
+Gary Harris,1,10,23,0,Pullup Jump shot,14,-39,138,True
+Gary Harris,2,5,16,1,Pullup Jump shot,21,-161,144,True
+Gary Harris,3,10,21,0,Pullup Jump shot,15,-31,153,True
+Gary Harris,1,11,12,1,Pullup Jump shot,24,-127,208,False
+Gary Harris,1,8,8,1,Putback Dunk Shot,0,0,-6,True
+Gary Harris,2,4,56,1,Putback Layup Shot,1,-17,7,True
+Gary Harris,3,5,38,1,Reverse Dunk Shot,1,4,16,True
+Gary Harris,1,7,29,1,Reverse Layup Shot,1,-15,0,True
+Gary Harris,4,3,40,0,Reverse Layup Shot,4,30,27,True
+Gary Harris,4,3,5,1,Reverse Layup Shot,2,-11,19,True
+Gary Harris,3,3,5,1,Reverse Layup Shot,2,-24,7,True
+Gary Harris,1,2,37,1,Reverse Layup Shot,1,-5,15,True
+Gary Harris,4,8,23,1,Reverse Layup Shot,0,5,1,True
+Gary Harris,2,2,16,0,Reverse Layup Shot,2,-24,5,True
+Gary Harris,3,10,41,1,Reverse Layup Shot,1,3,15,True
+Gary Harris,3,8,12,0,Reverse Layup Shot,1,-11,8,True
+Gary Harris,2,2,45,1,Running Dunk Shot,2,19,17,True
+Gary Harris,3,3,10,1,Running Dunk Shot,0,-6,0,True
+Gary Harris,2,4,29,1,Running Dunk Shot,1,1,13,True
+Gary Harris,1,4,24,1,Running Dunk Shot,0,4,2,True
+Gary Harris,1,5,52,1,Running Dunk Shot,2,13,17,True
+Gary Harris,3,8,3,1,Running Dunk Shot,2,18,10,True
+Gary Harris,4,0,45,1,Running Dunk Shot,1,-1,11,True
+Gary Harris,3,10,11,1,Running Dunk Shot,0,-5,2,True
+Gary Harris,3,7,7,1,Running Dunk Shot,1,-8,11,True
+Gary Harris,3,10,38,1,Running Dunk Shot,0,4,4,True
+Gary Harris,1,8,4,1,Running Dunk Shot,0,-4,6,True
+Gary Harris,1,4,52,1,Running Dunk Shot,3,-16,32,True
+Gary Harris,2,2,41,1,Running Dunk Shot,1,5,15,True
+Gary Harris,2,4,12,1,Running Finger Roll Layup Shot,1,2,19,True
+Gary Harris,3,5,52,1,Running Finger Roll Layup Shot,3,22,26,True
+Gary Harris,3,1,45,1,Running Finger Roll Layup Shot,2,-7,21,True
+Gary Harris,3,10,48,0,Running Finger Roll Layup Shot,1,-10,11,True
+Gary Harris,3,6,44,1,Running Finger Roll Layup Shot,2,18,13,True
+Gary Harris,1,10,24,1,Running Finger Roll Layup Shot,2,25,-2,True
+Gary Harris,1,10,36,1,Running Finger Roll Layup Shot,1,7,9,True
+Gary Harris,2,11,42,1,Running Finger Roll Layup Shot,0,-6,5,True
+Gary Harris,1,9,43,1,Running Finger Roll Layup Shot,2,13,21,True
+Gary Harris,2,0,0,1,Running Finger Roll Layup Shot,1,8,9,True
+Gary Harris,1,7,55,1,Running Finger Roll Layup Shot,2,2,26,True
+Gary Harris,1,8,27,1,Running Jump Shot,10,-108,0,True
+Gary Harris,3,0,0,0,Running Jump Shot,42,-190,382,False
+Gary Harris,2,3,50,0,Running Jump Shot,25,-127,222,False
+Gary Harris,4,1,3,1,Running Layup Shot,0,-6,3,True
+Gary Harris,4,8,16,0,Running Layup Shot,2,-16,18,True
+Gary Harris,3,2,26,0,Running Layup Shot,3,15,33,True
+Gary Harris,4,8,12,0,Running Layup Shot,3,-25,22,True
+Gary Harris,3,2,26,0,Running Layup Shot,1,6,13,True
+Gary Harris,2,4,55,0,Running Layup Shot,2,-20,8,True
+Gary Harris,4,5,43,0,Running Layup Shot,2,24,16,True
+Gary Harris,1,11,38,0,Running Layup Shot,2,17,13,True
+Gary Harris,1,10,25,1,Running Layup Shot,2,17,20,True
+Gary Harris,3,5,35,0,Running Layup Shot,1,5,10,True
+Gary Harris,1,7,34,0,Running Layup Shot,2,-2,22,True
+Gary Harris,1,1,34,0,Running Layup Shot,0,-2,6,True
+Gary Harris,2,1,39,1,Running Layup Shot,2,24,17,True
+Gary Harris,3,4,42,0,Running Layup Shot,4,20,44,True
+Gary Harris,1,10,12,0,Running Layup Shot,4,-36,29,True
+Gary Harris,4,10,49,0,Running Layup Shot,4,-32,26,True
+Gary Harris,2,10,50,0,Running Layup Shot,9,99,-6,True
+Gary Harris,1,7,16,1,Running Layup Shot,1,10,1,True
+Gary Harris,2,7,10,1,Running Layup Shot,1,11,10,True
+Gary Harris,1,6,30,1,Running Layup Shot,8,78,22,True
+Gary Harris,1,11,28,0,Running Layup Shot,9,52,79,True
+Gary Harris,4,11,2,0,Running Layup Shot,4,43,16,True
+Gary Harris,4,8,14,1,Running Layup Shot,2,19,11,True
+Gary Harris,2,5,43,1,Running Layup Shot,1,2,13,True
+Gary Harris,3,2,11,0,Running Pull-Up Jump Shot,26,141,219,False
+Gary Harris,3,4,6,1,Running Reverse Dunk Shot,1,-14,11,True
+Gary Harris,1,8,33,1,Running Reverse Layup Shot,0,5,4,True
+Gary Harris,1,9,59,0,Running Reverse Layup Shot,2,-19,17,True
+Gary Harris,2,3,13,1,Running Reverse Layup Shot,1,-14,0,True
+Gary Harris,3,3,50,0,Running Reverse Layup Shot,3,-22,32,True
+Gary Harris,1,2,41,0,Running Reverse Layup Shot,2,-23,10,True
+Gary Harris,1,8,28,0,Running Reverse Layup Shot,1,0,19,True
+Gary Harris,5,1,19,0,Running Reverse Layup Shot,0,8,-4,True
+Gary Harris,2,11,21,0,Step Back Jump shot,20,-83,191,True
+Gary Harris,4,1,12,1,Step Back Jump shot,15,-11,159,True
+Gary Harris,1,8,8,0,Step Back Jump shot,15,-158,11,True
+Gary Harris,3,1,55,1,Step Back Jump shot,15,155,5,True
+Gary Harris,2,0,2,0,Step Back Jump shot,10,5,105,True
+Gary Harris,3,7,35,1,Step Back Jump shot,17,-159,67,True
+Gary Harris,4,0,59,1,Step Back Jump shot,19,-90,171,True
+Gary Harris,4,2,24,0,Step Back Jump shot,16,-25,163,True
+Gary Harris,4,2,17,0,Step Back Jump shot,24,30,248,False
+Gary Harris,3,4,55,1,Step Back Jump shot,14,141,38,True
+Gary Harris,3,0,52,0,Step Back Jump shot,19,-43,192,True
+Gary Harris,4,1,21,0,Step Back Jump shot,18,-143,122,True
+Gary Harris,1,8,50,1,Step Back Jump shot,16,145,75,True
+Gary Harris,1,8,52,1,Step Back Jump shot,14,96,102,True
+Gary Harris,1,4,58,0,Step Back Jump shot,24,213,125,False
+Gary Harris,3,11,46,1,Step Back Jump shot,24,-33,247,False
+Gary Harris,4,5,16,1,Step Back Jump shot,20,-205,1,True
+Gary Harris,1,1,38,0,Step Back Jump shot,21,-90,192,True
+Gary Harris,3,6,10,0,Step Back Jump shot,12,101,73,True
+Gary Harris,1,7,10,1,Step Back Jump shot,23,-198,120,True
+Gary Harris,1,7,53,1,Step Back Jump shot,24,-171,177,False
+Gary Harris,3,7,59,0,Step Back Jump shot,15,144,59,True
+Gary Harris,4,6,17,0,Step Back Jump shot,26,-188,181,False
+Gary Harris,3,10,33,1,Step Back Jump shot,15,32,155,True
+Gary Harris,3,6,47,0,Step Back Jump shot,25,-84,239,False
+Gary Harris,2,0,47,1,Step Back Jump shot,25,221,124,False
+Gary Harris,4,3,41,0,Step Back Jump shot,23,-148,181,True
+Gary Harris,1,6,21,1,Step Back Jump shot,25,-93,237,False
+Gary Harris,1,6,47,1,Step Back Jump shot,22,-147,174,True
+Gary Harris,3,8,17,1,Step Back Jump shot,11,-112,-6,True
+Gary Harris,3,8,5,0,Step Back Jump shot,18,-81,164,True
+Gary Harris,3,3,54,1,Step Back Jump shot,25,-138,209,False
+Gary Harris,1,7,15,1,Step Back Jump shot,24,-128,212,False
+Gary Harris,2,10,51,0,Step Back Jump shot,19,-46,189,True
+Gary Harris,4,11,15,0,Step Back Jump shot,20,203,5,True
+Gary Harris,1,5,16,0,Step Back Jump shot,24,-119,219,False
+Gary Harris,4,2,43,0,Step Back Jump shot,24,185,167,False
+Gary Harris,4,1,50,1,Step Back Jump shot,17,-85,152,True
+Gary Harris,2,6,25,0,Step Back Jump shot,17,-29,172,True
+Gary Harris,3,5,55,1,Step Back Jump shot,12,62,110,True
+Gary Harris,3,9,54,1,Step Back Jump shot,17,-71,157,True
+Gary Harris,4,1,0,1,Step Back Jump shot,19,-4,199,True
+Gary Harris,2,4,42,0,Step Back Jump shot,16,-76,143,True
+Gary Harris,1,4,54,1,Tip Dunk Shot,0,0,-6,True
+Gary Harris,3,3,39,1,Tip Layup Shot,0,0,-6,True
+Gary Harris,1,6,25,0,Turnaround Fadeaway shot,10,0,104,True
+Gary Harris,2,7,23,0,Turnaround Fadeaway shot,7,-69,19,True
+Gary Harris,2,9,47,1,Turnaround Jump Shot,2,-23,7,True

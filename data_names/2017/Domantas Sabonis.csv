@@ -1,0 +1,589 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Domantas Sabonis,2,9,57,1,Alley Oop Layup shot,0,3,6,True
+Domantas Sabonis,4,10,12,0,Alley Oop Layup shot,3,-2,33,True
+Domantas Sabonis,4,9,11,0,Cutting Dunk Shot,4,-39,11,True
+Domantas Sabonis,2,7,59,1,Cutting Dunk Shot,2,0,20,True
+Domantas Sabonis,1,0,35,1,Cutting Dunk Shot,0,3,6,True
+Domantas Sabonis,2,10,30,1,Cutting Dunk Shot,0,-2,4,True
+Domantas Sabonis,3,5,28,1,Cutting Dunk Shot,1,-14,13,True
+Domantas Sabonis,1,3,41,1,Cutting Dunk Shot,0,1,4,True
+Domantas Sabonis,2,7,39,1,Cutting Dunk Shot,1,0,10,True
+Domantas Sabonis,4,11,33,1,Cutting Dunk Shot,0,-6,5,True
+Domantas Sabonis,2,11,47,1,Cutting Dunk Shot,0,-2,9,True
+Domantas Sabonis,4,5,12,1,Cutting Dunk Shot,2,0,25,True
+Domantas Sabonis,2,5,59,1,Cutting Dunk Shot,1,-8,11,True
+Domantas Sabonis,2,0,11,1,Cutting Dunk Shot,1,0,15,True
+Domantas Sabonis,2,2,10,0,Cutting Dunk Shot,1,1,17,True
+Domantas Sabonis,4,8,49,1,Cutting Dunk Shot,1,-5,16,True
+Domantas Sabonis,3,9,6,1,Cutting Dunk Shot,2,-3,20,True
+Domantas Sabonis,4,7,16,1,Cutting Dunk Shot,0,-6,-5,True
+Domantas Sabonis,3,2,19,1,Cutting Dunk Shot,2,4,21,True
+Domantas Sabonis,3,7,7,1,Cutting Dunk Shot,1,-9,15,True
+Domantas Sabonis,4,2,51,1,Cutting Dunk Shot,1,1,10,True
+Domantas Sabonis,2,0,25,1,Cutting Dunk Shot,0,-3,7,True
+Domantas Sabonis,4,1,17,1,Cutting Dunk Shot,1,1,15,True
+Domantas Sabonis,2,11,38,1,Cutting Dunk Shot,3,-9,29,True
+Domantas Sabonis,2,6,40,1,Cutting Dunk Shot,1,2,17,True
+Domantas Sabonis,4,11,49,1,Cutting Dunk Shot,0,1,5,True
+Domantas Sabonis,4,9,37,1,Cutting Dunk Shot,0,-5,6,True
+Domantas Sabonis,2,7,10,1,Cutting Dunk Shot,1,-2,15,True
+Domantas Sabonis,4,2,38,1,Cutting Dunk Shot,1,3,12,True
+Domantas Sabonis,1,4,13,1,Cutting Dunk Shot,1,1,13,True
+Domantas Sabonis,2,11,18,1,Cutting Dunk Shot,1,2,10,True
+Domantas Sabonis,3,2,5,1,Cutting Dunk Shot,1,1,13,True
+Domantas Sabonis,2,10,4,1,Cutting Finger Roll Layup Shot,1,-2,15,True
+Domantas Sabonis,1,1,44,1,Cutting Finger Roll Layup Shot,1,4,11,True
+Domantas Sabonis,3,1,32,1,Cutting Finger Roll Layup Shot,1,-8,15,True
+Domantas Sabonis,3,10,34,1,Cutting Finger Roll Layup Shot,1,-5,16,True
+Domantas Sabonis,3,10,31,1,Cutting Finger Roll Layup Shot,0,-3,6,True
+Domantas Sabonis,2,11,15,1,Cutting Finger Roll Layup Shot,1,2,13,True
+Domantas Sabonis,4,7,16,1,Cutting Finger Roll Layup Shot,2,2,27,True
+Domantas Sabonis,4,10,22,1,Cutting Finger Roll Layup Shot,0,3,0,True
+Domantas Sabonis,3,7,23,1,Cutting Finger Roll Layup Shot,0,-3,5,True
+Domantas Sabonis,4,4,56,1,Cutting Layup Shot,0,-2,8,True
+Domantas Sabonis,3,1,25,1,Cutting Layup Shot,1,-7,13,True
+Domantas Sabonis,1,3,49,1,Cutting Layup Shot,5,-29,41,True
+Domantas Sabonis,3,3,3,0,Cutting Layup Shot,0,-2,6,True
+Domantas Sabonis,4,10,36,0,Cutting Layup Shot,8,-73,40,True
+Domantas Sabonis,1,7,16,0,Cutting Layup Shot,0,2,-3,True
+Domantas Sabonis,3,1,53,1,Cutting Layup Shot,1,1,13,True
+Domantas Sabonis,1,6,43,1,Cutting Layup Shot,1,-6,11,True
+Domantas Sabonis,4,5,32,1,Cutting Layup Shot,0,0,3,True
+Domantas Sabonis,2,4,38,0,Cutting Layup Shot,0,-8,2,True
+Domantas Sabonis,1,9,5,1,Cutting Layup Shot,1,6,16,True
+Domantas Sabonis,2,6,10,0,Cutting Layup Shot,0,6,6,True
+Domantas Sabonis,4,3,51,0,Cutting Layup Shot,4,5,46,True
+Domantas Sabonis,2,8,41,1,Cutting Layup Shot,1,7,9,True
+Domantas Sabonis,4,2,22,1,Cutting Layup Shot,0,1,1,True
+Domantas Sabonis,2,5,40,1,Cutting Layup Shot,3,-25,26,True
+Domantas Sabonis,3,3,17,0,Cutting Layup Shot,1,5,15,True
+Domantas Sabonis,4,4,35,1,Cutting Layup Shot,1,-5,12,True
+Domantas Sabonis,3,11,49,0,Cutting Layup Shot,4,35,27,True
+Domantas Sabonis,2,11,47,0,Cutting Layup Shot,5,-12,50,True
+Domantas Sabonis,2,6,24,0,Cutting Layup Shot,1,-13,9,True
+Domantas Sabonis,2,7,3,1,Cutting Layup Shot,1,-11,9,True
+Domantas Sabonis,2,1,25,1,Cutting Layup Shot,0,-9,4,True
+Domantas Sabonis,1,0,44,1,Cutting Layup Shot,4,-13,41,True
+Domantas Sabonis,2,11,7,1,Cutting Layup Shot,5,-11,50,True
+Domantas Sabonis,3,5,58,0,Cutting Layup Shot,1,0,12,True
+Domantas Sabonis,2,2,27,1,Cutting Layup Shot,0,3,5,True
+Domantas Sabonis,1,0,2,1,Cutting Layup Shot,2,8,23,True
+Domantas Sabonis,3,0,32,0,Cutting Layup Shot,1,-12,12,True
+Domantas Sabonis,4,10,47,0,Cutting Layup Shot,2,-3,20,True
+Domantas Sabonis,2,6,20,1,Cutting Layup Shot,1,-3,11,True
+Domantas Sabonis,2,11,13,1,Cutting Layup Shot,0,-2,2,True
+Domantas Sabonis,3,8,22,1,Cutting Layup Shot,2,-19,17,True
+Domantas Sabonis,1,8,34,1,Cutting Layup Shot,1,-12,7,True
+Domantas Sabonis,1,6,57,0,Cutting Layup Shot,2,16,19,True
+Domantas Sabonis,4,10,25,1,Cutting Layup Shot,0,0,5,True
+Domantas Sabonis,4,10,21,0,Cutting Layup Shot,3,32,22,True
+Domantas Sabonis,4,9,9,1,Cutting Layup Shot,2,20,16,True
+Domantas Sabonis,1,3,31,1,Cutting Layup Shot,1,-8,6,True
+Domantas Sabonis,1,3,50,0,Driving Bank Hook Shot,4,-39,18,True
+Domantas Sabonis,2,11,46,0,Driving Dunk Shot,3,5,34,True
+Domantas Sabonis,4,1,9,1,Driving Dunk Shot,0,1,-1,True
+Domantas Sabonis,4,8,44,1,Driving Dunk Shot,1,-4,10,True
+Domantas Sabonis,2,11,40,0,Driving Dunk Shot,0,4,5,True
+Domantas Sabonis,4,8,23,1,Driving Dunk Shot,1,-9,11,True
+Domantas Sabonis,1,4,26,1,Driving Finger Roll Layup Shot,1,-2,15,True
+Domantas Sabonis,4,7,37,0,Driving Finger Roll Layup Shot,5,-34,38,True
+Domantas Sabonis,1,11,36,1,Driving Finger Roll Layup Shot,2,-18,13,True
+Domantas Sabonis,1,0,28,0,Driving Floating Bank Jump Shot,4,-33,30,True
+Domantas Sabonis,2,2,36,0,Driving Floating Bank Jump Shot,4,25,38,True
+Domantas Sabonis,2,9,11,0,Driving Hook Shot,9,36,85,True
+Domantas Sabonis,1,3,8,1,Driving Hook Shot,7,12,69,True
+Domantas Sabonis,1,9,40,0,Driving Hook Shot,5,-2,53,True
+Domantas Sabonis,1,0,51,1,Driving Hook Shot,13,-78,115,True
+Domantas Sabonis,2,6,3,1,Driving Hook Shot,1,-9,9,True
+Domantas Sabonis,2,6,26,1,Driving Hook Shot,8,-13,79,True
+Domantas Sabonis,2,8,34,1,Driving Layup Shot,0,-3,2,True
+Domantas Sabonis,1,11,23,0,Driving Layup Shot,3,-32,8,True
+Domantas Sabonis,4,2,9,1,Driving Layup Shot,0,2,9,True
+Domantas Sabonis,2,6,26,0,Driving Layup Shot,5,-41,30,True
+Domantas Sabonis,4,7,28,1,Driving Layup Shot,4,4,48,True
+Domantas Sabonis,1,3,40,0,Driving Layup Shot,1,-18,8,True
+Domantas Sabonis,4,4,48,0,Driving Layup Shot,5,-25,46,True
+Domantas Sabonis,4,6,27,1,Driving Layup Shot,1,-2,14,True
+Domantas Sabonis,3,0,42,1,Driving Layup Shot,1,-1,17,True
+Domantas Sabonis,2,10,41,1,Driving Layup Shot,0,-4,9,True
+Domantas Sabonis,1,2,56,0,Driving Layup Shot,3,7,38,True
+Domantas Sabonis,2,3,22,0,Driving Layup Shot,0,0,-1,True
+Domantas Sabonis,1,4,5,0,Driving Layup Shot,3,16,29,True
+Domantas Sabonis,1,6,1,0,Driving Layup Shot,3,-33,10,True
+Domantas Sabonis,4,10,51,1,Driving Layup Shot,0,9,1,True
+Domantas Sabonis,2,6,2,0,Driving Layup Shot,2,-22,-16,True
+Domantas Sabonis,4,5,33,0,Driving Layup Shot,2,-28,6,True
+Domantas Sabonis,4,6,9,0,Driving Layup Shot,1,18,-4,True
+Domantas Sabonis,3,1,0,1,Driving Layup Shot,2,-24,13,True
+Domantas Sabonis,2,8,51,1,Driving Layup Shot,1,2,11,True
+Domantas Sabonis,4,9,21,0,Driving Layup Shot,0,0,9,True
+Domantas Sabonis,3,7,55,1,Dunk Shot,1,6,16,True
+Domantas Sabonis,1,8,25,1,Dunk Shot,1,4,11,True
+Domantas Sabonis,2,10,7,0,Dunk Shot,2,-2,20,True
+Domantas Sabonis,2,7,6,1,Dunk Shot,1,-3,13,True
+Domantas Sabonis,1,7,24,1,Dunk Shot,1,0,11,True
+Domantas Sabonis,4,8,18,1,Dunk Shot,0,2,8,True
+Domantas Sabonis,1,3,28,1,Dunk Shot,0,-2,6,True
+Domantas Sabonis,1,2,30,0,Dunk Shot,2,-16,17,True
+Domantas Sabonis,3,4,1,1,Dunk Shot,1,3,17,True
+Domantas Sabonis,4,10,49,1,Dunk Shot,1,6,9,True
+Domantas Sabonis,3,1,44,1,Dunk Shot,1,-3,11,True
+Domantas Sabonis,3,2,37,1,Dunk Shot,1,5,12,True
+Domantas Sabonis,1,1,50,0,Fadeaway Jump Shot,2,-20,13,True
+Domantas Sabonis,3,0,46,1,Finger Roll Layup Shot,1,-3,10,True
+Domantas Sabonis,1,0,15,0,Finger Roll Layup Shot,0,-3,7,True
+Domantas Sabonis,2,4,3,1,Finger Roll Layup Shot,1,-14,4,True
+Domantas Sabonis,2,7,4,0,Finger Roll Layup Shot,2,-20,13,True
+Domantas Sabonis,1,5,7,1,Finger Roll Layup Shot,1,-12,15,True
+Domantas Sabonis,4,8,47,1,Finger Roll Layup Shot,1,11,11,True
+Domantas Sabonis,1,1,15,1,Finger Roll Layup Shot,3,-34,5,True
+Domantas Sabonis,2,5,59,0,Finger Roll Layup Shot,3,-30,-1,True
+Domantas Sabonis,4,9,18,1,Finger Roll Layup Shot,0,0,6,True
+Domantas Sabonis,2,8,15,0,Floating Jump shot,4,3,40,True
+Domantas Sabonis,2,9,24,0,Floating Jump shot,6,20,64,True
+Domantas Sabonis,4,11,30,1,Floating Jump shot,0,1,5,True
+Domantas Sabonis,2,11,38,0,Floating Jump shot,12,52,113,True
+Domantas Sabonis,3,2,3,0,Floating Jump shot,12,-123,-3,True
+Domantas Sabonis,4,6,1,0,Floating Jump shot,5,20,52,True
+Domantas Sabonis,1,3,6,1,Floating Jump shot,7,2,77,True
+Domantas Sabonis,2,6,20,1,Floating Jump shot,11,-55,101,True
+Domantas Sabonis,1,0,45,1,Hook Bank Shot,7,-67,36,True
+Domantas Sabonis,1,4,32,1,Hook Bank Shot,0,-3,2,True
+Domantas Sabonis,2,10,29,0,Hook Shot,11,-3,115,True
+Domantas Sabonis,2,10,19,1,Hook Shot,7,-34,64,True
+Domantas Sabonis,4,9,55,1,Hook Shot,6,63,26,True
+Domantas Sabonis,3,2,58,0,Hook Shot,7,-43,60,True
+Domantas Sabonis,3,6,14,0,Hook Shot,5,-45,34,True
+Domantas Sabonis,3,4,27,0,Hook Shot,2,-16,22,True
+Domantas Sabonis,4,8,49,0,Hook Shot,3,14,37,True
+Domantas Sabonis,1,2,3,0,Hook Shot,5,0,58,True
+Domantas Sabonis,1,2,27,0,Hook Shot,7,-71,17,True
+Domantas Sabonis,4,7,20,0,Hook Shot,4,-48,13,True
+Domantas Sabonis,1,6,10,0,Hook Shot,12,-7,128,True
+Domantas Sabonis,3,0,57,1,Hook Shot,5,-48,14,True
+Domantas Sabonis,2,10,1,1,Hook Shot,1,0,16,True
+Domantas Sabonis,4,9,56,0,Hook Shot,8,60,55,True
+Domantas Sabonis,2,10,17,1,Hook Shot,7,-9,76,True
+Domantas Sabonis,3,3,47,0,Hook Shot,7,-63,42,True
+Domantas Sabonis,4,7,28,0,Hook Shot,6,16,62,True
+Domantas Sabonis,4,7,24,1,Hook Shot,5,11,51,True
+Domantas Sabonis,1,6,45,1,Hook Shot,0,-1,5,True
+Domantas Sabonis,1,8,3,0,Hook Shot,2,-11,22,True
+Domantas Sabonis,4,4,59,0,Hook Shot,6,12,66,True
+Domantas Sabonis,2,7,6,0,Hook Shot,5,3,53,True
+Domantas Sabonis,4,5,3,0,Hook Shot,6,-14,61,True
+Domantas Sabonis,2,4,39,1,Hook Shot,5,36,36,True
+Domantas Sabonis,3,3,15,1,Hook Shot,1,2,13,True
+Domantas Sabonis,1,5,15,1,Hook Shot,7,-76,4,True
+Domantas Sabonis,4,11,28,1,Hook Shot,3,-2,38,True
+Domantas Sabonis,2,7,44,0,Hook Shot,8,-79,26,True
+Domantas Sabonis,1,6,19,0,Hook Shot,6,-58,29,True
+Domantas Sabonis,2,10,29,1,Hook Shot,1,-8,11,True
+Domantas Sabonis,4,11,3,0,Hook Shot,4,-16,42,True
+Domantas Sabonis,2,11,9,1,Hook Shot,5,-24,44,True
+Domantas Sabonis,2,9,37,1,Hook Shot,8,-74,33,True
+Domantas Sabonis,3,2,11,1,Hook Shot,3,35,16,True
+Domantas Sabonis,4,9,31,0,Hook Shot,8,52,68,True
+Domantas Sabonis,4,5,7,0,Hook Shot,5,-11,51,True
+Domantas Sabonis,2,3,5,1,Hook Shot,7,51,59,True
+Domantas Sabonis,2,8,1,0,Hook Shot,5,-1,54,True
+Domantas Sabonis,1,2,17,0,Hook Shot,6,-56,36,True
+Domantas Sabonis,2,8,46,0,Hook Shot,7,-7,76,True
+Domantas Sabonis,2,9,10,0,Hook Shot,10,-101,25,True
+Domantas Sabonis,1,0,51,0,Hook Shot,7,-7,76,True
+Domantas Sabonis,1,0,32,0,Hook Shot,5,-34,43,True
+Domantas Sabonis,2,11,11,0,Hook Shot,9,-50,80,True
+Domantas Sabonis,2,7,4,1,Hook Shot,5,-58,7,True
+Domantas Sabonis,2,8,9,1,Hook Shot,1,-2,10,True
+Domantas Sabonis,3,8,18,1,Hook Shot,3,-13,29,True
+Domantas Sabonis,1,7,9,1,Hook Shot,5,-47,21,True
+Domantas Sabonis,1,9,45,1,Hook Shot,2,-3,21,True
+Domantas Sabonis,2,11,31,1,Hook Shot,5,34,46,True
+Domantas Sabonis,2,4,43,1,Jump Bank Shot,21,-3,211,True
+Domantas Sabonis,2,8,38,1,Jump Shot,21,-107,188,True
+Domantas Sabonis,2,5,52,1,Jump Shot,11,112,-11,True
+Domantas Sabonis,3,7,41,0,Jump Shot,21,-62,201,True
+Domantas Sabonis,4,2,8,0,Jump Shot,18,7,188,True
+Domantas Sabonis,4,8,38,1,Jump Shot,13,-135,3,True
+Domantas Sabonis,1,4,48,1,Jump Shot,17,-138,109,True
+Domantas Sabonis,2,10,0,1,Jump Shot,19,44,191,True
+Domantas Sabonis,4,9,51,1,Jump Shot,15,1,159,True
+Domantas Sabonis,2,0,58,0,Jump Shot,20,-44,199,True
+Domantas Sabonis,3,7,38,0,Jump Shot,27,-68,262,False
+Domantas Sabonis,4,6,42,0,Jump Shot,7,-6,74,True
+Domantas Sabonis,2,10,9,0,Jump Shot,14,0,149,True
+Domantas Sabonis,1,8,25,0,Jump Shot,18,77,164,True
+Domantas Sabonis,3,6,36,0,Jump Shot,26,24,260,False
+Domantas Sabonis,1,1,55,0,Jump Shot,16,-7,169,True
+Domantas Sabonis,2,7,59,0,Jump Shot,4,3,42,True
+Domantas Sabonis,3,4,21,1,Jump Shot,17,-169,21,True
+Domantas Sabonis,1,8,24,0,Jump Shot,26,105,238,False
+Domantas Sabonis,3,0,27,0,Jump Shot,26,142,224,False
+Domantas Sabonis,4,5,44,0,Jump Shot,19,6,197,True
+Domantas Sabonis,4,8,24,0,Jump Shot,2,3,20,True
+Domantas Sabonis,1,6,1,0,Jump Shot,13,-2,133,True
+Domantas Sabonis,4,9,41,0,Jump Shot,18,-124,136,True
+Domantas Sabonis,1,1,9,1,Jump Shot,15,6,153,True
+Domantas Sabonis,4,10,17,1,Jump Shot,6,22,59,True
+Domantas Sabonis,1,1,12,0,Jump Shot,20,37,206,True
+Domantas Sabonis,4,6,0,1,Jump Shot,19,19,195,True
+Domantas Sabonis,4,7,25,1,Jump Shot,19,28,194,True
+Domantas Sabonis,2,5,15,0,Jump Shot,21,9,215,True
+Domantas Sabonis,1,8,25,0,Jump Shot,7,0,79,True
+Domantas Sabonis,4,9,9,0,Jump Shot,16,-16,169,True
+Domantas Sabonis,3,1,20,1,Jump Shot,13,-15,135,True
+Domantas Sabonis,4,10,52,0,Jump Shot,16,-68,153,True
+Domantas Sabonis,2,6,20,0,Jump Shot,18,-105,157,True
+Domantas Sabonis,2,9,13,1,Jump Shot,23,-228,64,False
+Domantas Sabonis,4,11,18,0,Jump Shot,20,-88,184,True
+Domantas Sabonis,3,0,35,1,Jump Shot,20,11,201,True
+Domantas Sabonis,3,11,41,0,Jump Shot,30,154,259,False
+Domantas Sabonis,2,10,9,0,Jump Shot,20,126,162,True
+Domantas Sabonis,1,2,47,1,Jump Shot,17,41,170,True
+Domantas Sabonis,1,3,11,0,Jump Shot,28,-136,251,False
+Domantas Sabonis,2,9,43,1,Jump Shot,19,8,191,True
+Domantas Sabonis,1,0,57,0,Jump Shot,20,26,204,True
+Domantas Sabonis,2,11,23,0,Jump Shot,11,-112,37,True
+Domantas Sabonis,1,9,39,1,Jump Shot,14,-144,20,True
+Domantas Sabonis,2,9,17,1,Jump Shot,5,51,18,True
+Domantas Sabonis,3,0,47,0,Jump Shot,15,-152,-1,True
+Domantas Sabonis,4,4,54,1,Jump Shot,23,-233,-11,False
+Domantas Sabonis,2,10,28,1,Jump Shot,26,11,261,False
+Domantas Sabonis,3,3,50,0,Jump Shot,16,-7,168,True
+Domantas Sabonis,3,6,19,0,Jump Shot,19,-2,194,True
+Domantas Sabonis,4,4,48,0,Jump Shot,18,63,179,True
+Domantas Sabonis,1,1,22,1,Jump Shot,13,-19,138,True
+Domantas Sabonis,4,7,19,0,Jump Shot,27,114,251,False
+Domantas Sabonis,1,2,24,0,Jump Shot,19,-92,169,True
+Domantas Sabonis,2,1,48,0,Jump Shot,18,-186,15,True
+Domantas Sabonis,1,4,54,1,Jump Shot,28,78,273,False
+Domantas Sabonis,3,7,34,0,Jump Shot,16,-25,166,True
+Domantas Sabonis,3,0,31,0,Jump Shot,18,111,150,True
+Domantas Sabonis,1,3,39,0,Jump Shot,20,48,195,True
+Domantas Sabonis,3,2,40,0,Jump Shot,5,-3,50,True
+Domantas Sabonis,4,10,42,0,Jump Shot,20,-7,201,True
+Domantas Sabonis,2,6,56,0,Jump Shot,17,-68,157,True
+Domantas Sabonis,2,6,49,1,Jump Shot,11,-53,105,True
+Domantas Sabonis,1,5,29,1,Jump Shot,11,46,105,True
+Domantas Sabonis,4,5,56,1,Jump Shot,14,-19,146,True
+Domantas Sabonis,3,5,55,1,Jump Shot,20,-49,199,True
+Domantas Sabonis,2,3,32,0,Jump Shot,21,37,207,True
+Domantas Sabonis,2,2,47,0,Jump Shot,11,26,113,True
+Domantas Sabonis,1,2,5,1,Jump Shot,15,121,94,True
+Domantas Sabonis,3,0,13,0,Jump Shot,27,187,200,False
+Domantas Sabonis,1,7,8,0,Jump Shot,20,-93,178,True
+Domantas Sabonis,3,7,39,0,Jump Shot,20,-22,205,True
+Domantas Sabonis,2,10,40,0,Jump Shot,24,92,232,False
+Domantas Sabonis,2,11,8,1,Jump Shot,14,-1,140,True
+Domantas Sabonis,3,3,34,0,Jump Shot,18,-55,178,True
+Domantas Sabonis,3,5,24,1,Jump Shot,23,-231,55,False
+Domantas Sabonis,2,6,2,0,Jump Shot,11,47,101,True
+Domantas Sabonis,4,11,7,0,Jump Shot,17,27,176,True
+Domantas Sabonis,3,11,45,0,Jump Shot,13,-51,120,True
+Domantas Sabonis,2,6,21,0,Jump Shot,14,-15,147,True
+Domantas Sabonis,4,10,37,1,Jump Shot,12,2,127,True
+Domantas Sabonis,1,8,42,0,Jump Shot,25,-102,230,False
+Domantas Sabonis,2,11,6,0,Jump Shot,26,-138,232,False
+Domantas Sabonis,3,3,58,0,Jump Shot,17,20,176,True
+Domantas Sabonis,4,7,13,1,Jump Shot,27,110,251,False
+Domantas Sabonis,4,11,21,1,Jump Shot,28,-52,283,False
+Domantas Sabonis,1,8,23,0,Jump Shot,18,-120,142,True
+Domantas Sabonis,1,7,49,0,Jump Shot,17,-39,174,True
+Domantas Sabonis,3,4,4,0,Jump Shot,25,-18,252,False
+Domantas Sabonis,2,0,32,0,Jump Shot,14,3,145,True
+Domantas Sabonis,1,9,24,1,Jump Shot,19,28,188,True
+Domantas Sabonis,2,7,21,0,Jump Shot,18,-43,176,True
+Domantas Sabonis,3,6,10,1,Jump Shot,11,16,111,True
+Domantas Sabonis,4,6,34,1,Jump Shot,13,-39,132,True
+Domantas Sabonis,3,4,23,1,Jump Shot,21,-8,219,True
+Domantas Sabonis,2,7,3,1,Jump Shot,20,-4,201,True
+Domantas Sabonis,3,9,16,0,Jump Shot,19,-2,191,True
+Domantas Sabonis,3,1,19,0,Jump Shot,22,-229,12,False
+Domantas Sabonis,3,10,25,0,Jump Shot,17,-59,169,True
+Domantas Sabonis,3,1,37,0,Jump Shot,21,40,209,True
+Domantas Sabonis,4,2,8,0,Jump Shot,11,-100,63,True
+Domantas Sabonis,3,1,27,0,Jump Shot,19,9,194,True
+Domantas Sabonis,1,10,39,0,Jump Shot,20,68,193,True
+Domantas Sabonis,4,3,56,0,Jump Shot,25,160,201,False
+Domantas Sabonis,1,6,50,0,Jump Shot,11,-115,4,True
+Domantas Sabonis,4,2,22,1,Jump Shot,21,3,210,True
+Domantas Sabonis,4,10,40,1,Jump Shot,10,-107,-7,True
+Domantas Sabonis,1,3,11,0,Jump Shot,28,-110,260,False
+Domantas Sabonis,1,0,41,0,Jump Shot,20,-44,204,True
+Domantas Sabonis,1,7,48,1,Jump Shot,20,10,205,True
+Domantas Sabonis,1,6,45,0,Jump Shot,12,35,115,True
+Domantas Sabonis,2,4,6,1,Jump Shot,21,-73,206,True
+Domantas Sabonis,1,5,12,1,Jump Shot,13,-18,130,True
+Domantas Sabonis,3,0,34,0,Jump Shot,1,-9,6,True
+Domantas Sabonis,1,11,17,0,Jump Shot,16,-5,160,True
+Domantas Sabonis,3,0,1,0,Jump Shot,27,-35,269,False
+Domantas Sabonis,2,8,43,0,Jump Shot,16,-2,162,True
+Domantas Sabonis,2,10,32,0,Jump Shot,20,68,196,True
+Domantas Sabonis,2,8,20,0,Jump Shot,15,-150,22,True
+Domantas Sabonis,1,10,10,0,Jump Shot,26,48,262,False
+Domantas Sabonis,2,5,50,0,Jump Shot,1,-4,12,True
+Domantas Sabonis,3,2,57,0,Jump Shot,11,49,100,True
+Domantas Sabonis,2,10,14,0,Jump Shot,23,138,185,True
+Domantas Sabonis,4,9,57,0,Jump Shot,19,-19,195,True
+Domantas Sabonis,1,0,0,0,Jump Shot,26,82,249,False
+Domantas Sabonis,4,8,44,0,Jump Shot,21,-104,185,True
+Domantas Sabonis,4,11,1,1,Jump Shot,20,22,199,True
+Domantas Sabonis,1,0,22,1,Jump Shot,15,-149,36,True
+Domantas Sabonis,4,8,51,0,Jump Shot,19,103,164,True
+Domantas Sabonis,2,3,24,1,Jump Shot,11,-101,61,True
+Domantas Sabonis,1,7,57,0,Jump Shot,20,-36,203,True
+Domantas Sabonis,3,8,38,0,Jump Shot,21,49,205,True
+Domantas Sabonis,1,4,9,1,Jump Shot,18,145,109,True
+Domantas Sabonis,4,10,55,0,Jump Shot,21,22,211,True
+Domantas Sabonis,4,10,25,0,Jump Shot,22,226,10,False
+Domantas Sabonis,1,1,5,0,Jump Shot,12,44,116,True
+Domantas Sabonis,3,3,12,1,Jump Shot,19,24,189,True
+Domantas Sabonis,4,7,52,0,Jump Shot,16,-40,164,True
+Domantas Sabonis,1,2,11,0,Jump Shot,13,137,-6,True
+Domantas Sabonis,1,9,6,0,Jump Shot,18,51,179,True
+Domantas Sabonis,2,1,43,1,Jump Shot,25,-63,251,False
+Domantas Sabonis,1,5,45,0,Jump Shot,20,23,203,True
+Domantas Sabonis,2,4,13,0,Jump Shot,18,-8,188,True
+Domantas Sabonis,2,0,53,1,Jump Shot,27,100,252,False
+Domantas Sabonis,1,0,6,1,Jump Shot,17,4,170,True
+Domantas Sabonis,4,6,12,0,Jump Shot,7,14,78,True
+Domantas Sabonis,4,10,47,1,Jump Shot,21,-22,214,True
+Domantas Sabonis,2,10,38,1,Jump Shot,28,-168,232,False
+Domantas Sabonis,2,2,53,1,Jump Shot,19,-68,187,True
+Domantas Sabonis,2,1,37,0,Jump Shot,19,7,199,True
+Domantas Sabonis,4,9,6,0,Jump Shot,7,7,77,True
+Domantas Sabonis,4,10,58,0,Jump Shot,14,-114,93,True
+Domantas Sabonis,3,0,39,0,Jump Shot,19,2,195,True
+Domantas Sabonis,4,3,44,0,Jump Shot,16,22,163,True
+Domantas Sabonis,1,1,1,0,Jump Shot,15,-116,109,True
+Domantas Sabonis,1,1,30,1,Jump Shot,17,-27,171,True
+Domantas Sabonis,2,11,9,0,Jump Shot,10,-31,100,True
+Domantas Sabonis,2,10,8,0,Jump Shot,21,87,192,True
+Domantas Sabonis,4,3,34,1,Jump Shot,21,5,219,True
+Domantas Sabonis,4,10,58,1,Jump Shot,21,-53,205,True
+Domantas Sabonis,1,2,6,1,Jump Shot,17,177,1,True
+Domantas Sabonis,4,8,59,0,Jump Shot,21,-118,180,True
+Domantas Sabonis,1,3,25,1,Jump Shot,19,4,195,True
+Domantas Sabonis,4,3,6,1,Jump Shot,14,108,92,True
+Domantas Sabonis,1,1,4,1,Jump Shot,12,7,125,True
+Domantas Sabonis,1,11,13,1,Jump Shot,19,-60,187,True
+Domantas Sabonis,2,10,42,0,Jump Shot,26,231,131,False
+Domantas Sabonis,2,6,17,0,Jump Shot,18,54,175,True
+Domantas Sabonis,2,11,9,0,Jump Shot,19,-24,193,True
+Domantas Sabonis,2,7,54,0,Layup Shot,4,-25,42,True
+Domantas Sabonis,3,2,31,0,Layup Shot,2,0,25,True
+Domantas Sabonis,3,7,6,1,Layup Shot,0,-3,7,True
+Domantas Sabonis,2,0,31,1,Layup Shot,2,-14,23,True
+Domantas Sabonis,2,4,23,1,Layup Shot,1,-6,16,True
+Domantas Sabonis,3,10,6,1,Layup Shot,1,-13,6,True
+Domantas Sabonis,3,8,21,1,Layup Shot,0,-1,6,True
+Domantas Sabonis,4,8,0,0,Layup Shot,1,-19,2,True
+Domantas Sabonis,1,4,1,0,Layup Shot,0,-1,7,True
+Domantas Sabonis,3,10,20,1,Layup Shot,1,-13,15,True
+Domantas Sabonis,1,7,16,0,Layup Shot,2,-13,17,True
+Domantas Sabonis,3,11,10,1,Layup Shot,1,8,9,True
+Domantas Sabonis,1,11,26,1,Layup Shot,1,-5,13,True
+Domantas Sabonis,1,8,29,1,Layup Shot,1,-9,10,True
+Domantas Sabonis,2,8,3,0,Layup Shot,0,-3,7,True
+Domantas Sabonis,2,7,44,0,Layup Shot,1,6,8,True
+Domantas Sabonis,4,3,52,0,Layup Shot,2,-22,11,True
+Domantas Sabonis,2,8,41,1,Layup Shot,0,-1,4,True
+Domantas Sabonis,1,9,8,1,Layup Shot,1,-9,8,True
+Domantas Sabonis,4,8,22,1,Layup Shot,1,0,13,True
+Domantas Sabonis,4,9,38,1,Layup Shot,1,2,14,True
+Domantas Sabonis,3,0,36,1,Layup Shot,1,-6,14,True
+Domantas Sabonis,1,4,7,0,Layup Shot,2,5,20,True
+Domantas Sabonis,2,10,47,0,Layup Shot,2,3,29,True
+Domantas Sabonis,4,9,58,1,Layup Shot,0,4,8,True
+Domantas Sabonis,4,9,34,1,Layup Shot,0,-2,5,True
+Domantas Sabonis,2,5,2,1,Layup Shot,2,7,21,True
+Domantas Sabonis,2,11,0,0,Layup Shot,1,-10,15,True
+Domantas Sabonis,4,7,41,0,Layup Shot,2,-1,21,True
+Domantas Sabonis,2,8,17,0,Layup Shot,1,-13,-3,True
+Domantas Sabonis,2,1,33,1,Layup Shot,1,3,13,True
+Domantas Sabonis,4,3,10,1,Layup Shot,1,12,10,True
+Domantas Sabonis,2,5,58,0,Layup Shot,1,0,10,True
+Domantas Sabonis,4,0,37,1,Layup Shot,0,-5,3,True
+Domantas Sabonis,4,1,42,1,Layup Shot,1,3,14,True
+Domantas Sabonis,4,5,39,0,Layup Shot,2,-12,27,True
+Domantas Sabonis,4,9,52,1,Layup Shot,2,-9,26,True
+Domantas Sabonis,1,2,33,1,Layup Shot,1,-12,15,True
+Domantas Sabonis,2,11,12,0,Layup Shot,2,-22,0,True
+Domantas Sabonis,1,0,59,1,Layup Shot,4,-37,21,True
+Domantas Sabonis,4,9,17,1,Layup Shot,2,-13,18,True
+Domantas Sabonis,2,11,7,1,Layup Shot,0,5,3,True
+Domantas Sabonis,3,2,28,0,Layup Shot,0,3,8,True
+Domantas Sabonis,2,11,3,0,Layup Shot,1,6,16,True
+Domantas Sabonis,4,4,40,1,Layup Shot,1,-2,14,True
+Domantas Sabonis,2,4,8,1,Layup Shot,1,12,6,True
+Domantas Sabonis,3,9,25,1,Layup Shot,2,-3,21,True
+Domantas Sabonis,1,0,23,1,Layup Shot,1,-15,8,True
+Domantas Sabonis,1,0,14,0,Layup Shot,4,-44,8,True
+Domantas Sabonis,1,1,56,1,Layup Shot,2,-2,22,True
+Domantas Sabonis,2,7,16,1,Layup Shot,2,-26,14,True
+Domantas Sabonis,3,3,13,0,Layup Shot,1,8,14,True
+Domantas Sabonis,1,6,18,0,Layup Shot,0,4,7,True
+Domantas Sabonis,1,4,1,1,Layup Shot,0,0,7,True
+Domantas Sabonis,1,1,16,1,Layup Shot,0,8,0,True
+Domantas Sabonis,1,7,1,0,Layup Shot,2,-23,4,True
+Domantas Sabonis,4,5,47,0,Layup Shot,1,-3,14,True
+Domantas Sabonis,1,9,27,0,Layup Shot,1,14,12,True
+Domantas Sabonis,3,3,38,0,Layup Shot,0,0,5,True
+Domantas Sabonis,4,10,59,0,Layup Shot,1,-13,8,True
+Domantas Sabonis,2,6,39,0,Layup Shot,2,8,20,True
+Domantas Sabonis,2,5,29,0,Layup Shot,3,-18,31,True
+Domantas Sabonis,1,1,11,1,Layup Shot,1,-3,11,True
+Domantas Sabonis,3,4,50,0,Layup Shot,5,-30,41,True
+Domantas Sabonis,1,11,42,1,Layup Shot,2,-16,21,True
+Domantas Sabonis,2,8,10,0,Layup Shot,2,-16,25,True
+Domantas Sabonis,2,8,3,1,Layup Shot,0,-1,2,True
+Domantas Sabonis,3,0,47,0,Layup Shot,4,-31,27,True
+Domantas Sabonis,1,0,2,1,Layup Shot,3,-28,15,True
+Domantas Sabonis,4,6,59,1,Layup Shot,3,23,25,True
+Domantas Sabonis,2,10,47,1,Layup Shot,1,-9,15,True
+Domantas Sabonis,2,8,25,0,Layup Shot,1,-14,11,True
+Domantas Sabonis,2,7,46,0,Layup Shot,2,-13,16,True
+Domantas Sabonis,2,11,46,1,Layup Shot,0,-5,5,True
+Domantas Sabonis,1,3,44,0,Layup Shot,3,-25,24,True
+Domantas Sabonis,4,4,14,1,Layup Shot,0,-5,-4,True
+Domantas Sabonis,1,4,22,1,Layup Shot,1,-17,10,True
+Domantas Sabonis,1,0,49,1,Layup Shot,2,-14,15,True
+Domantas Sabonis,2,0,4,0,Layup Shot,4,6,41,True
+Domantas Sabonis,1,1,16,1,Layup Shot,1,-5,19,True
+Domantas Sabonis,1,6,17,1,Layup Shot,1,-11,10,True
+Domantas Sabonis,2,6,26,1,Layup Shot,2,-18,17,True
+Domantas Sabonis,3,7,45,0,Layup Shot,2,-7,27,True
+Domantas Sabonis,3,10,45,1,Layup Shot,3,-20,25,True
+Domantas Sabonis,2,10,15,0,Layup Shot,1,-10,11,True
+Domantas Sabonis,1,6,0,1,Layup Shot,1,-8,13,True
+Domantas Sabonis,2,9,36,1,Layup Shot,0,7,5,True
+Domantas Sabonis,3,1,45,1,Layup Shot,1,-12,6,True
+Domantas Sabonis,4,5,31,1,Layup Shot,1,2,16,True
+Domantas Sabonis,2,8,19,1,Layup Shot,0,-3,5,True
+Domantas Sabonis,1,1,35,1,Layup Shot,1,-8,13,True
+Domantas Sabonis,4,8,51,0,Layup Shot,2,12,19,True
+Domantas Sabonis,4,11,12,0,Layup Shot,0,-2,-1,True
+Domantas Sabonis,2,0,52,0,Layup Shot,1,-9,10,True
+Domantas Sabonis,3,1,20,1,Layup Shot,1,-3,17,True
+Domantas Sabonis,4,8,22,1,Layup Shot,4,18,45,True
+Domantas Sabonis,1,7,52,0,Layup Shot,8,-13,79,True
+Domantas Sabonis,1,1,30,0,Layup Shot,1,-12,7,True
+Domantas Sabonis,4,4,6,1,Layup Shot,1,6,11,True
+Domantas Sabonis,2,2,9,0,Layup Shot,1,-12,5,True
+Domantas Sabonis,1,1,34,0,Layup Shot,2,-18,20,True
+Domantas Sabonis,3,1,22,0,Pullup Jump shot,13,-22,138,True
+Domantas Sabonis,1,5,40,0,Pullup Jump shot,16,-86,145,True
+Domantas Sabonis,1,1,5,1,Pullup Jump shot,9,9,92,True
+Domantas Sabonis,3,0,37,0,Pullup Jump shot,0,-8,0,True
+Domantas Sabonis,1,0,0,0,Pullup Jump shot,20,128,162,True
+Domantas Sabonis,3,1,41,0,Pullup Jump shot,0,6,0,True
+Domantas Sabonis,2,5,53,1,Putback Dunk Shot,0,0,-6,True
+Domantas Sabonis,3,1,49,0,Putback Dunk Shot,0,0,-6,True
+Domantas Sabonis,4,1,2,1,Putback Layup Shot,1,0,11,True
+Domantas Sabonis,1,3,6,0,Putback Layup Shot,0,0,-6,True
+Domantas Sabonis,4,1,48,0,Putback Layup Shot,0,-4,8,True
+Domantas Sabonis,1,1,35,1,Putback Layup Shot,1,1,14,True
+Domantas Sabonis,1,9,3,1,Putback Layup Shot,0,-5,-6,True
+Domantas Sabonis,4,8,38,0,Putback Layup Shot,1,-13,4,True
+Domantas Sabonis,4,2,8,0,Putback Layup Shot,1,7,16,True
+Domantas Sabonis,4,11,37,1,Putback Layup Shot,3,-21,32,True
+Domantas Sabonis,1,1,22,1,Putback Layup Shot,0,0,1,True
+Domantas Sabonis,1,8,20,1,Putback Layup Shot,0,0,-6,True
+Domantas Sabonis,1,0,0,0,Putback Layup Shot,0,0,-6,True
+Domantas Sabonis,3,3,9,0,Putback Layup Shot,1,14,13,True
+Domantas Sabonis,3,0,26,0,Putback Layup Shot,1,3,13,True
+Domantas Sabonis,4,6,55,0,Putback Layup Shot,0,2,9,True
+Domantas Sabonis,3,9,10,1,Putback Layup Shot,1,7,8,True
+Domantas Sabonis,2,5,11,1,Putback Layup Shot,1,0,17,True
+Domantas Sabonis,4,5,20,1,Putback Layup Shot,0,0,-6,True
+Domantas Sabonis,2,7,31,1,Putback Layup Shot,1,8,10,True
+Domantas Sabonis,4,4,16,1,Putback Layup Shot,0,-7,6,True
+Domantas Sabonis,1,3,17,1,Putback Layup Shot,1,-9,7,True
+Domantas Sabonis,2,10,25,1,Putback Layup Shot,2,3,27,True
+Domantas Sabonis,2,7,46,1,Reverse Layup Shot,1,0,10,True
+Domantas Sabonis,2,9,5,0,Reverse Layup Shot,0,0,-1,True
+Domantas Sabonis,4,6,41,0,Reverse Layup Shot,1,12,13,True
+Domantas Sabonis,1,5,51,1,Reverse Layup Shot,0,-6,6,True
+Domantas Sabonis,4,7,43,1,Reverse Layup Shot,1,8,13,True
+Domantas Sabonis,4,8,48,0,Reverse Layup Shot,3,2,32,True
+Domantas Sabonis,4,7,8,1,Reverse Layup Shot,1,16,4,True
+Domantas Sabonis,2,1,40,1,Reverse Layup Shot,1,-8,16,True
+Domantas Sabonis,3,4,10,1,Reverse Layup Shot,1,3,11,True
+Domantas Sabonis,1,4,48,1,Reverse Layup Shot,0,0,2,True
+Domantas Sabonis,2,9,59,1,Reverse Layup Shot,1,-4,11,True
+Domantas Sabonis,1,10,53,1,Reverse Layup Shot,0,3,2,True
+Domantas Sabonis,4,7,53,1,Reverse Layup Shot,2,-18,17,True
+Domantas Sabonis,1,0,46,1,Running Dunk Shot,1,2,13,True
+Domantas Sabonis,3,11,11,1,Running Dunk Shot,0,-3,6,True
+Domantas Sabonis,1,7,44,1,Running Dunk Shot,1,6,9,True
+Domantas Sabonis,3,3,9,1,Running Dunk Shot,1,-1,11,True
+Domantas Sabonis,2,11,1,1,Running Finger Roll Layup Shot,0,-7,6,True
+Domantas Sabonis,1,7,5,0,Running Layup Shot,1,12,8,True
+Domantas Sabonis,1,8,57,1,Running Layup Shot,1,3,16,True
+Domantas Sabonis,1,0,30,1,Running Layup Shot,1,-15,3,True
+Domantas Sabonis,3,1,23,1,Running Layup Shot,2,-19,13,True
+Domantas Sabonis,1,6,49,1,Running Layup Shot,1,9,8,True
+Domantas Sabonis,1,6,37,0,Step Back Jump shot,11,-66,90,True
+Domantas Sabonis,2,11,38,1,Step Back Jump shot,17,-166,37,True
+Domantas Sabonis,1,5,5,0,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,2,7,31,1,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,2,4,2,0,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,4,11,0,1,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,2,10,9,1,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,4,9,43,0,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,4,9,33,1,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,4,9,32,1,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,4,8,31,0,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,4,6,42,1,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,3,6,47,1,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,3,4,20,0,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,3,2,54,0,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,4,7,5,1,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,1,1,16,0,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,4,11,40,0,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,2,5,49,0,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,4,9,21,1,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,2,8,25,0,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,4,10,42,0,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,3,2,48,1,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,3,4,46,0,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,3,3,35,0,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,4,4,12,0,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,4,10,49,1,Tip Layup Shot,0,0,-6,True
+Domantas Sabonis,2,6,54,1,Turnaround Bank Hook Shot,7,-76,5,True
+Domantas Sabonis,2,7,8,0,Turnaround Fadeaway shot,11,119,-8,True
+Domantas Sabonis,2,7,48,1,Turnaround Fadeaway shot,9,54,80,True
+Domantas Sabonis,1,4,51,0,Turnaround Fadeaway shot,6,49,48,True
+Domantas Sabonis,3,1,43,1,Turnaround Hook Shot,6,-11,60,True
+Domantas Sabonis,2,7,33,0,Turnaround Hook Shot,10,18,99,True
+Domantas Sabonis,1,2,5,1,Turnaround Hook Shot,3,-14,33,True
+Domantas Sabonis,1,7,45,0,Turnaround Hook Shot,7,-3,70,True
+Domantas Sabonis,2,4,42,1,Turnaround Hook Shot,6,14,68,True
+Domantas Sabonis,2,5,19,1,Turnaround Hook Shot,6,22,64,True
+Domantas Sabonis,2,9,21,0,Turnaround Hook Shot,7,6,74,True
+Domantas Sabonis,2,11,21,0,Turnaround Hook Shot,4,-33,23,True
+Domantas Sabonis,3,2,50,0,Turnaround Hook Shot,5,5,52,True
+Domantas Sabonis,4,8,50,1,Turnaround Hook Shot,9,-90,19,True
+Domantas Sabonis,3,0,53,0,Turnaround Hook Shot,7,-74,17,True
+Domantas Sabonis,2,9,33,0,Turnaround Hook Shot,5,22,53,True
+Domantas Sabonis,4,3,49,0,Turnaround Hook Shot,2,-25,15,True
+Domantas Sabonis,2,4,2,0,Turnaround Hook Shot,6,-6,63,True
+Domantas Sabonis,1,1,24,1,Turnaround Hook Shot,1,12,11,True
+Domantas Sabonis,1,4,13,1,Turnaround Hook Shot,7,11,71,True
+Domantas Sabonis,1,7,25,1,Turnaround Hook Shot,2,-21,10,True
+Domantas Sabonis,4,9,34,1,Turnaround Hook Shot,8,-62,64,True
+Domantas Sabonis,2,1,54,1,Turnaround Hook Shot,4,-38,21,True
+Domantas Sabonis,1,1,45,1,Turnaround Hook Shot,10,24,106,True
+Domantas Sabonis,4,8,3,0,Turnaround Hook Shot,3,-25,26,True
+Domantas Sabonis,2,4,42,1,Turnaround Hook Shot,8,-77,33,True
+Domantas Sabonis,2,3,5,0,Turnaround Hook Shot,9,-27,87,True
+Domantas Sabonis,4,4,50,0,Turnaround Hook Shot,7,-71,36,True
+Domantas Sabonis,3,2,38,0,Turnaround Hook Shot,12,-43,117,True
+Domantas Sabonis,1,7,22,0,Turnaround Hook Shot,7,-2,75,True
+Domantas Sabonis,1,1,29,0,Turnaround Hook Shot,5,17,53,True
+Domantas Sabonis,1,0,6,1,Turnaround Hook Shot,7,-50,57,True
+Domantas Sabonis,2,11,22,0,Turnaround Hook Shot,7,21,73,True
+Domantas Sabonis,4,6,3,0,Turnaround Jump Shot,6,2,67,True
+Domantas Sabonis,1,2,19,0,Turnaround Jump Shot,5,-2,50,True
+Domantas Sabonis,3,4,36,0,Turnaround Jump Shot,7,15,73,True
+Domantas Sabonis,3,5,12,0,Turnaround Jump Shot,11,-109,46,True

@@ -1,0 +1,61 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Brandon Jennings,4,10,19,1,Driving Finger Roll Layup Shot,4,-23,36,True
+Brandon Jennings,3,3,18,0,Driving Floating Bank Jump Shot,8,74,43,True
+Brandon Jennings,2,8,53,1,Driving Floating Jump Shot,4,21,38,True
+Brandon Jennings,4,7,9,0,Driving Floating Jump Shot,5,-49,32,True
+Brandon Jennings,2,5,37,1,Driving Floating Jump Shot,3,-2,36,True
+Brandon Jennings,4,11,40,0,Driving Floating Jump Shot,9,87,47,True
+Brandon Jennings,2,11,22,0,Driving Layup Shot,1,-18,8,True
+Brandon Jennings,1,4,50,0,Driving Layup Shot,2,0,21,True
+Brandon Jennings,4,1,12,0,Driving Layup Shot,2,-18,9,True
+Brandon Jennings,2,3,2,1,Driving Layup Shot,1,-5,15,True
+Brandon Jennings,4,6,49,1,Driving Layup Shot,2,-22,9,True
+Brandon Jennings,3,3,14,0,Driving Layup Shot,4,45,17,True
+Brandon Jennings,3,0,32,1,Floating Jump shot,11,-66,99,True
+Brandon Jennings,3,4,11,1,Floating Jump shot,1,6,13,True
+Brandon Jennings,2,6,46,0,Floating Jump shot,9,-3,94,True
+Brandon Jennings,4,9,15,0,Jump Shot,25,172,193,False
+Brandon Jennings,4,8,7,1,Jump Shot,25,-157,200,False
+Brandon Jennings,4,3,12,1,Jump Shot,19,163,110,True
+Brandon Jennings,3,1,26,0,Jump Shot,7,-5,79,True
+Brandon Jennings,3,4,43,0,Jump Shot,25,-122,224,False
+Brandon Jennings,3,1,13,0,Jump Shot,23,234,22,False
+Brandon Jennings,4,7,38,0,Jump Shot,25,-129,221,False
+Brandon Jennings,4,2,20,0,Jump Shot,25,-150,205,False
+Brandon Jennings,3,0,13,1,Jump Shot,26,90,250,False
+Brandon Jennings,4,1,11,0,Jump Shot,27,160,221,False
+Brandon Jennings,4,10,54,1,Jump Shot,16,136,96,True
+Brandon Jennings,4,8,24,1,Jump Shot,17,-56,163,True
+Brandon Jennings,4,9,1,0,Jump Shot,25,161,193,False
+Brandon Jennings,2,9,29,0,Jump Shot,24,-111,215,False
+Brandon Jennings,4,7,6,0,Jump Shot,13,-69,113,True
+Brandon Jennings,4,4,24,0,Jump Shot,17,-115,126,True
+Brandon Jennings,2,8,37,0,Jump Shot,24,177,174,False
+Brandon Jennings,3,1,17,0,Jump Shot,16,84,139,True
+Brandon Jennings,2,8,38,0,Jump Shot,23,-238,14,False
+Brandon Jennings,4,10,40,0,Jump Shot,27,-117,247,False
+Brandon Jennings,3,0,0,1,Jump Shot,26,96,252,False
+Brandon Jennings,4,11,13,0,Jump Shot,25,120,228,False
+Brandon Jennings,1,0,17,0,Jump Shot,26,-110,236,False
+Brandon Jennings,2,7,1,0,Jump Shot,25,-117,228,False
+Brandon Jennings,2,4,36,1,Jump Shot,25,98,236,False
+Brandon Jennings,4,9,13,0,Jump Shot,22,-225,-13,False
+Brandon Jennings,1,6,29,0,Jump Shot,14,147,4,True
+Brandon Jennings,2,10,0,1,Jump Shot,13,-131,17,True
+Brandon Jennings,2,8,56,0,Jump Shot,25,142,215,False
+Brandon Jennings,1,3,9,0,Jump Shot,26,-124,232,False
+Brandon Jennings,4,10,24,0,Pullup Jump shot,14,-48,137,True
+Brandon Jennings,4,7,38,1,Pullup Jump shot,17,109,143,True
+Brandon Jennings,2,9,55,0,Pullup Jump shot,26,166,211,False
+Brandon Jennings,2,8,8,1,Pullup Jump shot,25,191,173,False
+Brandon Jennings,1,8,18,1,Pullup Jump shot,24,144,202,False
+Brandon Jennings,1,1,36,0,Pullup Jump shot,25,87,236,False
+Brandon Jennings,2,10,46,1,Pullup Jump shot,13,58,122,True
+Brandon Jennings,3,3,37,0,Pullup Jump shot,14,-140,11,True
+Brandon Jennings,3,2,0,1,Running Finger Roll Layup Shot,1,-10,11,True
+Brandon Jennings,3,2,36,0,Running Pull-Up Jump Shot,25,119,226,False
+Brandon Jennings,1,2,15,0,Step Back Jump shot,17,-93,153,True
+Brandon Jennings,2,11,32,1,Step Back Jump shot,18,-36,177,True
+Brandon Jennings,1,1,4,0,Step Back Jump shot,18,-34,179,True
+Brandon Jennings,2,7,10,0,Step Back Jump shot,21,-62,211,True
+Brandon Jennings,1,0,52,0,Step Back Jump shot,15,79,134,True

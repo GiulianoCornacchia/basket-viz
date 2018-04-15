@@ -1,0 +1,325 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Langston Galloway,1,11,46,1,Cutting Layup Shot,1,6,8,True
+Langston Galloway,1,2,6,0,Cutting Layup Shot,1,4,16,True
+Langston Galloway,1,2,40,1,Cutting Layup Shot,0,4,-1,True
+Langston Galloway,2,10,2,0,Driving Finger Roll Layup Shot,6,-5,68,True
+Langston Galloway,2,2,37,1,Driving Floating Bank Jump Shot,7,45,66,True
+Langston Galloway,2,5,58,0,Driving Floating Bank Jump Shot,5,-32,40,True
+Langston Galloway,2,10,22,0,Driving Floating Bank Jump Shot,10,89,61,True
+Langston Galloway,1,0,47,0,Driving Floating Bank Jump Shot,10,-74,74,True
+Langston Galloway,4,9,22,0,Driving Floating Jump Shot,7,24,71,True
+Langston Galloway,1,1,48,1,Driving Floating Jump Shot,13,65,122,True
+Langston Galloway,2,5,20,0,Driving Floating Jump Shot,6,-61,-20,True
+Langston Galloway,2,10,21,0,Driving Floating Jump Shot,12,-69,104,True
+Langston Galloway,2,7,50,0,Driving Floating Jump Shot,11,76,84,True
+Langston Galloway,1,0,0,0,Driving Floating Jump Shot,16,-56,157,True
+Langston Galloway,4,11,45,1,Driving Floating Jump Shot,8,-14,80,True
+Langston Galloway,3,1,38,0,Driving Layup Shot,2,12,19,True
+Langston Galloway,4,8,54,1,Driving Layup Shot,1,8,-6,True
+Langston Galloway,2,11,33,0,Driving Layup Shot,5,32,41,True
+Langston Galloway,4,9,0,1,Driving Layup Shot,1,9,8,True
+Langston Galloway,3,1,45,1,Driving Layup Shot,6,55,37,True
+Langston Galloway,4,9,39,1,Driving Layup Shot,2,7,26,True
+Langston Galloway,2,8,43,0,Driving Layup Shot,3,-6,37,True
+Langston Galloway,1,0,2,0,Driving Layup Shot,3,36,10,True
+Langston Galloway,4,4,33,0,Driving Layup Shot,3,-16,34,True
+Langston Galloway,1,0,19,1,Driving Reverse Layup Shot,1,-12,4,True
+Langston Galloway,3,0,0,0,Fadeaway Jump Shot,28,178,220,False
+Langston Galloway,2,8,8,0,Fadeaway Jump Shot,17,173,23,True
+Langston Galloway,2,0,4,0,Floating Jump shot,11,-67,99,True
+Langston Galloway,1,0,0,1,Floating Jump shot,15,-77,130,True
+Langston Galloway,2,8,2,1,Floating Jump shot,6,16,59,True
+Langston Galloway,1,0,18,0,Floating Jump shot,10,77,71,True
+Langston Galloway,4,11,29,0,Floating Jump shot,18,-100,152,True
+Langston Galloway,2,11,45,1,Floating Jump shot,12,-14,123,True
+Langston Galloway,2,7,48,1,Floating Jump shot,10,59,81,True
+Langston Galloway,1,0,26,0,Floating Jump shot,9,-31,93,True
+Langston Galloway,2,11,17,1,Floating Jump shot,8,-6,81,True
+Langston Galloway,4,0,19,0,Floating Jump shot,12,82,100,True
+Langston Galloway,2,4,31,1,Floating Jump shot,8,-57,69,True
+Langston Galloway,4,4,17,1,Floating Jump shot,11,5,115,True
+Langston Galloway,3,0,57,0,Floating Jump shot,12,70,104,True
+Langston Galloway,2,11,29,0,Floating Jump shot,15,110,111,True
+Langston Galloway,1,0,25,0,Floating Jump shot,9,72,67,True
+Langston Galloway,2,7,1,1,Floating Jump shot,13,1,132,True
+Langston Galloway,4,11,31,1,Floating Jump shot,10,50,88,True
+Langston Galloway,4,6,32,0,Floating Jump shot,9,60,75,True
+Langston Galloway,2,3,42,1,Floating Jump shot,8,-34,80,True
+Langston Galloway,2,8,58,1,Jump Bank Shot,10,-93,43,True
+Langston Galloway,3,0,1,1,Jump Bank Shot,26,-8,264,False
+Langston Galloway,3,3,9,1,Jump Shot,23,-237,10,False
+Langston Galloway,1,1,59,1,Jump Shot,26,-176,192,False
+Langston Galloway,4,10,56,0,Jump Shot,25,178,184,False
+Langston Galloway,2,7,36,1,Jump Shot,27,72,266,False
+Langston Galloway,4,11,44,0,Jump Shot,25,-242,80,False
+Langston Galloway,3,0,0,0,Jump Shot,37,2,379,False
+Langston Galloway,2,6,28,1,Jump Shot,15,100,119,True
+Langston Galloway,2,7,37,1,Jump Shot,25,-200,164,False
+Langston Galloway,2,11,49,1,Jump Shot,23,229,50,False
+Langston Galloway,4,1,21,0,Jump Shot,26,-191,189,False
+Langston Galloway,4,11,3,1,Jump Shot,23,-237,37,False
+Langston Galloway,2,8,26,0,Jump Shot,27,-145,237,False
+Langston Galloway,1,3,26,1,Jump Shot,27,62,273,False
+Langston Galloway,4,9,33,0,Jump Shot,27,158,230,False
+Langston Galloway,1,0,0,0,Jump Shot,40,-197,353,False
+Langston Galloway,4,11,19,0,Jump Shot,27,199,193,False
+Langston Galloway,4,11,39,0,Jump Shot,26,-159,214,False
+Langston Galloway,4,11,51,0,Jump Shot,24,235,58,False
+Langston Galloway,3,10,32,0,Jump Shot,25,232,94,False
+Langston Galloway,1,8,42,1,Jump Shot,25,-169,197,False
+Langston Galloway,1,9,0,1,Jump Shot,23,236,-1,False
+Langston Galloway,1,5,57,0,Jump Shot,25,176,183,False
+Langston Galloway,2,4,59,0,Jump Shot,24,-226,96,False
+Langston Galloway,1,2,17,0,Jump Shot,26,213,159,False
+Langston Galloway,4,2,57,0,Jump Shot,28,-165,231,False
+Langston Galloway,4,8,58,1,Jump Shot,25,109,227,False
+Langston Galloway,4,11,29,0,Jump Shot,14,-147,24,True
+Langston Galloway,4,10,1,1,Jump Shot,19,195,-8,True
+Langston Galloway,3,0,42,0,Jump Shot,16,114,114,True
+Langston Galloway,4,8,7,0,Jump Shot,25,231,110,False
+Langston Galloway,2,7,31,0,Jump Shot,26,129,232,False
+Langston Galloway,2,5,43,0,Jump Shot,24,-191,157,False
+Langston Galloway,4,8,1,0,Jump Shot,23,229,50,False
+Langston Galloway,2,11,5,1,Jump Shot,28,-206,199,False
+Langston Galloway,4,10,54,0,Jump Shot,25,-166,198,False
+Langston Galloway,1,1,16,0,Jump Shot,22,227,-19,False
+Langston Galloway,1,1,51,0,Jump Shot,23,236,-24,False
+Langston Galloway,2,5,46,1,Jump Shot,23,-230,23,False
+Langston Galloway,2,10,12,0,Jump Shot,23,-231,37,False
+Langston Galloway,4,9,38,0,Jump Shot,17,109,143,True
+Langston Galloway,2,5,11,0,Jump Shot,23,-239,7,False
+Langston Galloway,4,6,32,0,Jump Shot,24,-226,104,False
+Langston Galloway,3,0,19,1,Jump Shot,28,123,255,False
+Langston Galloway,4,10,49,0,Jump Shot,26,-193,187,False
+Langston Galloway,4,9,0,1,Jump Shot,26,-67,256,False
+Langston Galloway,4,1,12,0,Jump Shot,28,-185,211,False
+Langston Galloway,2,10,3,1,Jump Shot,20,137,150,True
+Langston Galloway,4,0,15,0,Jump Shot,17,82,160,True
+Langston Galloway,1,2,0,0,Jump Shot,23,228,50,False
+Langston Galloway,2,11,27,0,Jump Shot,19,156,113,True
+Langston Galloway,4,10,39,1,Jump Shot,17,-176,-8,True
+Langston Galloway,2,8,8,0,Jump Shot,27,122,246,False
+Langston Galloway,4,8,35,0,Jump Shot,24,-154,189,False
+Langston Galloway,3,1,9,0,Jump Shot,25,-149,204,False
+Langston Galloway,4,5,58,1,Jump Shot,27,176,211,False
+Langston Galloway,2,9,37,0,Jump Shot,25,32,248,False
+Langston Galloway,2,8,0,0,Jump Shot,20,-197,52,True
+Langston Galloway,2,8,24,0,Jump Shot,22,-224,1,False
+Langston Galloway,3,1,39,1,Jump Shot,27,38,272,False
+Langston Galloway,4,4,21,1,Jump Shot,25,144,209,False
+Langston Galloway,4,4,52,0,Jump Shot,25,-229,112,False
+Langston Galloway,2,9,29,0,Jump Shot,25,-89,240,False
+Langston Galloway,4,3,9,0,Jump Shot,26,-137,222,False
+Langston Galloway,2,9,22,0,Jump Shot,27,-187,202,False
+Langston Galloway,1,1,21,0,Jump Shot,26,-149,217,False
+Langston Galloway,4,10,47,0,Jump Shot,25,2,250,False
+Langston Galloway,1,2,15,0,Jump Shot,28,-196,202,False
+Langston Galloway,2,6,56,0,Jump Shot,25,187,179,False
+Langston Galloway,1,3,2,1,Jump Shot,22,227,2,False
+Langston Galloway,4,8,28,0,Jump Shot,26,192,176,False
+Langston Galloway,1,2,20,0,Jump Shot,27,-175,214,False
+Langston Galloway,3,0,52,0,Jump Shot,22,-226,11,False
+Langston Galloway,1,1,15,0,Jump Shot,26,-157,214,False
+Langston Galloway,4,11,4,1,Jump Shot,23,203,124,False
+Langston Galloway,4,11,33,1,Jump Shot,24,-103,226,False
+Langston Galloway,4,6,10,0,Jump Shot,24,-156,184,False
+Langston Galloway,2,7,10,1,Jump Shot,22,227,32,False
+Langston Galloway,4,5,41,0,Jump Shot,25,24,257,False
+Langston Galloway,2,11,23,0,Jump Shot,23,-230,25,False
+Langston Galloway,3,0,52,0,Jump Shot,18,-100,158,True
+Langston Galloway,1,1,0,0,Jump Shot,28,-187,210,False
+Langston Galloway,2,10,26,1,Jump Shot,23,-235,-3,False
+Langston Galloway,2,11,38,0,Jump Shot,26,67,256,False
+Langston Galloway,4,9,21,0,Jump Shot,28,139,248,False
+Langston Galloway,1,2,53,0,Jump Shot,19,-176,90,True
+Langston Galloway,2,10,41,0,Jump Shot,16,-90,142,True
+Langston Galloway,4,8,18,0,Jump Shot,25,190,176,False
+Langston Galloway,4,9,26,0,Jump Shot,24,135,208,False
+Langston Galloway,4,9,37,0,Jump Shot,26,130,235,False
+Langston Galloway,4,10,48,1,Jump Shot,26,-114,238,False
+Langston Galloway,4,11,21,1,Jump Shot,27,-131,243,False
+Langston Galloway,4,6,28,0,Jump Shot,22,226,26,False
+Langston Galloway,2,7,43,0,Jump Shot,27,-188,195,False
+Langston Galloway,1,0,1,0,Jump Shot,27,-136,239,False
+Langston Galloway,4,11,44,0,Jump Shot,26,-217,145,False
+Langston Galloway,2,6,56,1,Jump Shot,23,-232,26,False
+Langston Galloway,2,10,32,0,Jump Shot,22,-81,213,True
+Langston Galloway,4,11,49,1,Jump Shot,26,122,233,False
+Langston Galloway,2,7,33,0,Jump Shot,23,-233,11,False
+Langston Galloway,2,9,53,0,Jump Shot,24,62,239,False
+Langston Galloway,2,10,43,0,Jump Shot,19,-30,194,True
+Langston Galloway,2,9,27,1,Jump Shot,17,124,128,True
+Langston Galloway,2,9,50,1,Jump Shot,27,-115,253,False
+Langston Galloway,2,7,6,0,Jump Shot,27,-185,202,False
+Langston Galloway,4,6,48,1,Jump Shot,20,-123,162,True
+Langston Galloway,2,7,15,0,Jump Shot,23,-234,5,False
+Langston Galloway,4,9,18,1,Jump Shot,23,231,9,False
+Langston Galloway,2,8,34,0,Jump Shot,25,157,204,False
+Langston Galloway,2,7,43,0,Jump Shot,24,-169,179,False
+Langston Galloway,2,9,39,0,Jump Shot,26,66,256,False
+Langston Galloway,2,11,41,0,Jump Shot,25,78,241,False
+Langston Galloway,4,5,25,0,Jump Shot,26,-32,263,False
+Langston Galloway,4,10,44,0,Jump Shot,25,-157,203,False
+Langston Galloway,4,11,27,1,Jump Shot,23,-228,41,False
+Langston Galloway,4,7,59,1,Jump Shot,25,-108,229,False
+Langston Galloway,4,7,20,1,Jump Shot,24,-95,225,False
+Langston Galloway,2,5,53,0,Jump Shot,12,-8,126,True
+Langston Galloway,3,1,30,0,Jump Shot,22,225,43,False
+Langston Galloway,2,10,30,1,Jump Shot,28,-155,241,False
+Langston Galloway,2,2,39,1,Jump Shot,26,116,236,False
+Langston Galloway,3,0,21,1,Jump Shot,25,-165,197,False
+Langston Galloway,3,4,1,0,Jump Shot,24,50,240,False
+Langston Galloway,2,1,25,1,Jump Shot,28,157,243,False
+Langston Galloway,2,9,44,1,Jump Shot,25,-212,140,False
+Langston Galloway,1,0,57,0,Jump Shot,25,-184,182,False
+Langston Galloway,2,10,2,0,Jump Shot,26,124,239,False
+Langston Galloway,2,4,24,1,Jump Shot,27,-174,212,False
+Langston Galloway,1,4,55,0,Jump Shot,27,184,199,False
+Langston Galloway,2,8,4,0,Jump Shot,19,8,193,True
+Langston Galloway,2,1,22,0,Jump Shot,22,165,147,True
+Langston Galloway,4,9,29,0,Jump Shot,25,-27,250,False
+Langston Galloway,2,0,59,1,Jump Shot,22,-221,32,False
+Langston Galloway,4,11,5,1,Jump Shot,25,154,208,False
+Langston Galloway,3,2,56,0,Jump Shot,24,-234,75,False
+Langston Galloway,4,11,9,1,Jump Shot,27,16,274,False
+Langston Galloway,2,9,41,0,Jump Shot,26,-158,212,False
+Langston Galloway,2,7,49,0,Jump Shot,28,-214,190,False
+Langston Galloway,4,9,17,0,Jump Shot,26,-76,250,False
+Langston Galloway,2,10,30,1,Jump Shot,25,-108,236,False
+Langston Galloway,2,0,38,0,Jump Shot,25,224,119,False
+Langston Galloway,2,2,5,1,Jump Shot,25,84,241,False
+Langston Galloway,2,8,47,0,Jump Shot,25,93,239,False
+Langston Galloway,4,6,30,0,Jump Shot,27,24,269,False
+Langston Galloway,4,1,15,0,Jump Shot,24,-240,64,False
+Langston Galloway,4,10,2,1,Jump Shot,23,223,84,False
+Langston Galloway,4,3,24,0,Jump Shot,23,231,0,False
+Langston Galloway,4,2,58,0,Jump Shot,20,33,199,True
+Langston Galloway,4,3,36,1,Jump Shot,25,82,241,False
+Langston Galloway,2,7,51,1,Jump Shot,24,147,197,False
+Langston Galloway,4,2,57,0,Jump Shot,26,-167,203,False
+Langston Galloway,4,5,19,0,Jump Shot,23,228,37,False
+Langston Galloway,4,9,5,0,Jump Shot,25,-75,240,False
+Langston Galloway,2,3,48,0,Jump Shot,23,-231,-1,False
+Langston Galloway,1,1,38,0,Jump Shot,26,25,262,False
+Langston Galloway,2,9,39,0,Jump Shot,24,228,88,False
+Langston Galloway,1,0,19,0,Jump Shot,25,-106,237,False
+Langston Galloway,1,1,10,1,Jump Shot,25,-24,254,False
+Langston Galloway,4,1,59,0,Jump Shot,27,67,263,False
+Langston Galloway,1,2,14,0,Jump Shot,16,-164,27,True
+Langston Galloway,3,1,3,0,Jump Shot,23,235,38,False
+Langston Galloway,4,7,26,1,Jump Shot,23,236,13,False
+Langston Galloway,4,10,21,0,Jump Shot,27,11,279,False
+Langston Galloway,4,1,58,0,Jump Shot,24,-189,157,False
+Langston Galloway,2,11,43,0,Jump Shot,20,-30,199,True
+Langston Galloway,2,8,29,0,Jump Shot,25,-80,242,False
+Langston Galloway,4,9,27,0,Jump Shot,26,182,195,False
+Langston Galloway,1,4,23,0,Jump Shot,25,78,243,False
+Langston Galloway,4,10,36,0,Jump Shot,23,-227,51,False
+Langston Galloway,4,10,48,0,Jump Shot,25,-200,150,False
+Langston Galloway,1,0,41,0,Jump Shot,26,-180,200,False
+Langston Galloway,2,4,43,0,Jump Shot,24,-241,-14,False
+Langston Galloway,4,11,9,1,Jump Shot,24,76,232,False
+Langston Galloway,1,2,6,1,Jump Shot,23,232,12,False
+Langston Galloway,2,11,10,1,Jump Shot,25,-9,253,False
+Langston Galloway,4,10,17,0,Jump Shot,25,63,246,False
+Langston Galloway,2,0,58,0,Jump Shot,25,128,222,False
+Langston Galloway,3,0,52,1,Jump Shot,24,225,84,False
+Langston Galloway,4,8,32,0,Jump Shot,26,27,264,False
+Langston Galloway,4,7,39,1,Jump Shot,25,-215,132,False
+Langston Galloway,2,10,28,1,Jump Shot,24,168,183,False
+Langston Galloway,4,7,5,1,Jump Shot,25,-16,256,False
+Langston Galloway,4,9,3,1,Jump Shot,25,-161,198,False
+Langston Galloway,3,0,24,0,Jump Shot,18,174,48,True
+Langston Galloway,3,1,39,1,Jump Shot,25,-117,227,False
+Langston Galloway,2,9,59,0,Jump Shot,16,6,162,True
+Langston Galloway,4,2,1,0,Jump Shot,26,-171,201,False
+Langston Galloway,2,9,16,0,Jump Shot,26,-61,257,False
+Langston Galloway,2,6,46,0,Jump Shot,24,-59,242,False
+Langston Galloway,3,1,32,0,Jump Shot,26,-175,205,False
+Langston Galloway,4,6,57,1,Jump Shot,26,89,252,False
+Langston Galloway,2,8,8,1,Jump Shot,28,-175,227,False
+Langston Galloway,4,9,17,0,Jump Shot,5,0,57,True
+Langston Galloway,2,9,53,0,Jump Shot,9,78,57,True
+Langston Galloway,2,10,17,0,Jump Shot,24,207,123,False
+Langston Galloway,4,0,2,0,Jump Shot,27,67,271,False
+Langston Galloway,2,7,45,0,Jump Shot,22,-227,16,False
+Langston Galloway,2,9,4,0,Jump Shot,23,-238,-13,False
+Langston Galloway,2,8,23,0,Jump Shot,25,-150,201,False
+Langston Galloway,4,0,9,1,Jump Shot,28,-41,277,False
+Langston Galloway,3,2,18,0,Jump Shot,25,-5,257,False
+Langston Galloway,2,11,50,1,Jump Shot,26,-153,218,False
+Langston Galloway,4,11,5,0,Jump Shot,23,234,52,False
+Langston Galloway,4,10,54,0,Jump Shot,25,87,243,False
+Langston Galloway,1,0,7,0,Jump Shot,23,-229,27,False
+Langston Galloway,2,9,25,0,Jump Shot,25,27,252,False
+Langston Galloway,4,3,0,0,Jump Shot,25,-147,211,False
+Langston Galloway,2,10,20,0,Jump Shot,7,-67,24,True
+Langston Galloway,1,1,36,0,Jump Shot,25,-13,257,False
+Langston Galloway,4,10,54,0,Jump Shot,23,230,13,False
+Langston Galloway,2,11,16,1,Jump Shot,22,-221,17,False
+Langston Galloway,4,6,1,0,Jump Shot,27,180,205,False
+Langston Galloway,4,10,10,1,Jump Shot,24,234,57,False
+Langston Galloway,2,8,8,1,Jump Shot,25,201,161,False
+Langston Galloway,4,10,36,0,Jump Shot,26,15,265,False
+Langston Galloway,2,10,19,0,Jump Shot,25,-140,219,False
+Langston Galloway,3,7,12,0,Layup Shot,4,11,42,True
+Langston Galloway,2,5,5,1,Layup Shot,1,3,10,True
+Langston Galloway,4,8,12,0,Layup Shot,2,28,5,True
+Langston Galloway,2,9,27,0,Layup Shot,4,24,35,True
+Langston Galloway,2,10,55,1,Layup Shot,6,37,49,True
+Langston Galloway,2,2,54,0,Layup Shot,9,87,35,True
+Langston Galloway,2,5,7,1,Pullup Jump shot,15,-70,137,True
+Langston Galloway,2,10,28,0,Pullup Jump shot,18,-3,180,True
+Langston Galloway,4,8,50,0,Pullup Jump shot,27,125,248,False
+Langston Galloway,1,2,24,1,Pullup Jump shot,17,47,173,True
+Langston Galloway,2,8,12,0,Pullup Jump shot,25,221,124,False
+Langston Galloway,2,10,31,0,Pullup Jump shot,26,107,240,False
+Langston Galloway,2,7,33,1,Pullup Jump shot,14,75,125,True
+Langston Galloway,4,9,17,1,Pullup Jump shot,17,-48,167,True
+Langston Galloway,4,8,25,1,Pullup Jump shot,17,122,128,True
+Langston Galloway,2,0,1,1,Pullup Jump shot,19,138,144,True
+Langston Galloway,1,1,21,1,Pullup Jump shot,14,-109,88,True
+Langston Galloway,4,10,41,1,Pullup Jump shot,19,88,169,True
+Langston Galloway,2,7,21,0,Pullup Jump shot,26,-5,260,False
+Langston Galloway,1,3,13,1,Pullup Jump shot,14,11,143,True
+Langston Galloway,2,6,22,1,Pullup Jump shot,26,-164,204,False
+Langston Galloway,2,9,9,0,Pullup Jump shot,25,-39,256,False
+Langston Galloway,5,2,15,1,Pullup Jump shot,26,-212,152,False
+Langston Galloway,4,11,45,1,Pullup Jump shot,17,126,122,True
+Langston Galloway,3,1,36,0,Pullup Jump shot,19,-127,151,True
+Langston Galloway,1,0,59,1,Pullup Jump shot,21,209,29,True
+Langston Galloway,2,10,0,0,Pullup Jump shot,13,46,127,True
+Langston Galloway,4,8,57,0,Pullup Jump shot,18,70,173,True
+Langston Galloway,4,7,30,0,Pullup Jump shot,24,-145,203,False
+Langston Galloway,3,1,30,1,Pullup Jump shot,26,152,215,False
+Langston Galloway,1,0,59,0,Pullup Jump shot,19,-32,195,True
+Langston Galloway,2,9,59,0,Pullup Jump shot,14,107,105,True
+Langston Galloway,2,9,35,0,Pullup Jump shot,26,-98,250,False
+Langston Galloway,4,6,2,1,Pullup Jump shot,16,51,153,True
+Langston Galloway,2,10,28,0,Pullup Jump shot,17,0,172,True
+Langston Galloway,2,8,36,1,Pullup Jump shot,25,-209,143,False
+Langston Galloway,2,2,39,0,Pullup Jump shot,15,-8,155,True
+Langston Galloway,2,11,9,1,Pullup Jump shot,16,14,161,True
+Langston Galloway,1,1,11,0,Pullup Jump shot,15,-61,143,True
+Langston Galloway,4,9,56,0,Pullup Jump shot,21,-138,171,True
+Langston Galloway,3,0,56,0,Pullup Jump shot,19,99,166,True
+Langston Galloway,4,5,43,0,Pullup Jump shot,16,2,164,True
+Langston Galloway,2,10,57,0,Pullup Jump shot,20,-107,178,True
+Langston Galloway,4,11,40,1,Pullup Jump shot,14,-55,138,True
+Langston Galloway,1,0,54,1,Pullup Jump shot,17,-41,165,True
+Langston Galloway,3,1,41,0,Pullup Jump shot,18,-151,105,True
+Langston Galloway,3,0,36,0,Pullup Jump shot,26,-104,244,False
+Langston Galloway,4,0,51,1,Putback Layup Shot,0,0,-6,True
+Langston Galloway,4,6,6,0,Running Jump Shot,27,154,224,False
+Langston Galloway,3,2,24,0,Running Layup Shot,2,-24,6,True
+Langston Galloway,2,7,16,1,Running Pull-Up Jump Shot,19,5,197,True
+Langston Galloway,4,10,46,0,Running Pull-Up Jump Shot,24,-119,218,False
+Langston Galloway,2,5,24,1,Running Pull-Up Jump Shot,27,141,231,False
+Langston Galloway,2,5,55,0,Running Pull-Up Jump Shot,25,-206,155,False
+Langston Galloway,2,6,53,1,Running Pull-Up Jump Shot,25,-159,193,False
+Langston Galloway,4,10,6,0,Step Back Jump shot,21,-49,211,True
+Langston Galloway,3,0,1,0,Step Back Jump shot,19,-191,25,True
+Langston Galloway,4,1,16,1,Step Back Jump shot,17,-176,22,True
+Langston Galloway,4,6,47,1,Step Back Jump shot,17,-167,63,True
+Langston Galloway,2,0,0,0,Step Back Jump shot,19,-136,135,True
+Langston Galloway,2,2,44,1,Step Back Jump shot,20,-32,199,True

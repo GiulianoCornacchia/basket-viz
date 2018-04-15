@@ -1,0 +1,551 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Hassan Whiteside,1,10,28,0,Alley Oop Dunk Shot,2,11,26,True
+Hassan Whiteside,1,11,22,1,Alley Oop Dunk Shot,0,-2,3,True
+Hassan Whiteside,2,5,18,1,Alley Oop Dunk Shot,0,-2,8,True
+Hassan Whiteside,1,7,33,1,Alley Oop Dunk Shot,0,-5,4,True
+Hassan Whiteside,3,9,57,1,Alley Oop Dunk Shot,12,-30,122,True
+Hassan Whiteside,3,11,14,1,Alley Oop Dunk Shot,1,3,13,True
+Hassan Whiteside,3,7,24,1,Alley Oop Dunk Shot,0,3,5,True
+Hassan Whiteside,4,3,47,1,Alley Oop Dunk Shot,0,2,5,True
+Hassan Whiteside,3,9,44,1,Alley Oop Dunk Shot,4,3,42,True
+Hassan Whiteside,1,4,37,0,Alley Oop Dunk Shot,1,6,10,True
+Hassan Whiteside,4,4,11,1,Alley Oop Dunk Shot,1,0,12,True
+Hassan Whiteside,2,0,4,1,Alley Oop Dunk Shot,1,14,13,True
+Hassan Whiteside,1,4,11,1,Alley Oop Dunk Shot,1,8,11,True
+Hassan Whiteside,3,7,21,1,Alley Oop Dunk Shot,0,-3,7,True
+Hassan Whiteside,4,4,4,1,Alley Oop Dunk Shot,0,-2,8,True
+Hassan Whiteside,3,6,5,1,Alley Oop Dunk Shot,1,18,6,True
+Hassan Whiteside,2,0,45,1,Alley Oop Dunk Shot,2,2,21,True
+Hassan Whiteside,1,5,21,1,Alley Oop Dunk Shot,1,3,18,True
+Hassan Whiteside,3,7,42,1,Alley Oop Dunk Shot,1,-1,16,True
+Hassan Whiteside,4,9,2,1,Alley Oop Dunk Shot,2,16,17,True
+Hassan Whiteside,4,2,43,1,Alley Oop Dunk Shot,2,16,17,True
+Hassan Whiteside,2,2,10,0,Alley Oop Dunk Shot,1,19,6,True
+Hassan Whiteside,3,5,50,0,Alley Oop Dunk Shot,1,10,5,True
+Hassan Whiteside,2,3,28,1,Alley Oop Dunk Shot,4,17,42,True
+Hassan Whiteside,4,1,29,1,Alley Oop Dunk Shot,1,-2,10,True
+Hassan Whiteside,4,3,38,1,Alley Oop Dunk Shot,1,0,15,True
+Hassan Whiteside,3,9,46,1,Alley Oop Dunk Shot,1,9,14,True
+Hassan Whiteside,3,9,22,0,Alley Oop Dunk Shot,1,-3,17,True
+Hassan Whiteside,1,4,44,0,Alley Oop Dunk Shot,2,22,5,True
+Hassan Whiteside,3,3,12,0,Alley Oop Layup shot,2,6,26,True
+Hassan Whiteside,1,4,32,1,Alley Oop Layup shot,2,25,11,True
+Hassan Whiteside,3,4,40,1,Alley Oop Layup shot,2,13,25,True
+Hassan Whiteside,1,3,24,0,Alley Oop Layup shot,1,7,8,True
+Hassan Whiteside,3,8,34,1,Alley Oop Layup shot,2,6,29,True
+Hassan Whiteside,1,11,25,0,Alley Oop Layup shot,1,-3,15,True
+Hassan Whiteside,1,7,16,0,Alley Oop Layup shot,2,-14,22,True
+Hassan Whiteside,2,0,2,1,Alley Oop Layup shot,1,11,8,True
+Hassan Whiteside,1,4,27,1,Cutting Dunk Shot,0,-4,8,True
+Hassan Whiteside,3,6,55,1,Cutting Dunk Shot,0,-1,4,True
+Hassan Whiteside,1,8,30,1,Cutting Dunk Shot,0,2,8,True
+Hassan Whiteside,1,10,16,0,Cutting Dunk Shot,1,16,10,True
+Hassan Whiteside,2,4,0,1,Cutting Dunk Shot,1,6,10,True
+Hassan Whiteside,1,3,31,1,Cutting Dunk Shot,0,3,4,True
+Hassan Whiteside,2,1,47,1,Cutting Dunk Shot,0,0,8,True
+Hassan Whiteside,3,5,41,1,Cutting Dunk Shot,1,11,13,True
+Hassan Whiteside,2,2,14,1,Cutting Dunk Shot,0,1,6,True
+Hassan Whiteside,1,10,13,1,Cutting Dunk Shot,1,9,5,True
+Hassan Whiteside,3,6,25,1,Cutting Dunk Shot,0,2,4,True
+Hassan Whiteside,1,10,4,1,Cutting Dunk Shot,1,-2,11,True
+Hassan Whiteside,2,4,51,1,Cutting Dunk Shot,2,14,20,True
+Hassan Whiteside,1,10,2,1,Cutting Dunk Shot,0,5,8,True
+Hassan Whiteside,2,4,26,1,Cutting Dunk Shot,0,-5,4,True
+Hassan Whiteside,1,8,59,1,Cutting Finger Roll Layup Shot,2,-10,27,True
+Hassan Whiteside,1,8,35,1,Cutting Layup Shot,2,18,10,True
+Hassan Whiteside,3,5,36,1,Cutting Layup Shot,1,-7,-8,True
+Hassan Whiteside,2,1,17,1,Cutting Layup Shot,2,0,25,True
+Hassan Whiteside,1,5,20,0,Cutting Layup Shot,3,-15,35,True
+Hassan Whiteside,3,9,12,0,Cutting Layup Shot,2,-5,23,True
+Hassan Whiteside,2,4,45,0,Cutting Layup Shot,1,-6,13,True
+Hassan Whiteside,3,8,1,0,Cutting Layup Shot,1,8,8,True
+Hassan Whiteside,1,6,55,1,Driving Dunk Shot,0,-4,1,True
+Hassan Whiteside,1,10,7,1,Driving Dunk Shot,1,0,11,True
+Hassan Whiteside,3,4,36,1,Driving Dunk Shot,1,-3,16,True
+Hassan Whiteside,1,3,1,1,Driving Dunk Shot,0,7,4,True
+Hassan Whiteside,2,3,15,1,Driving Dunk Shot,1,3,10,True
+Hassan Whiteside,2,2,5,1,Driving Dunk Shot,0,-5,1,True
+Hassan Whiteside,3,8,8,0,Driving Finger Roll Layup Shot,1,-13,12,True
+Hassan Whiteside,4,1,56,0,Driving Hook Shot,6,16,64,True
+Hassan Whiteside,2,7,15,1,Driving Hook Shot,4,8,40,True
+Hassan Whiteside,4,8,17,1,Driving Hook Shot,6,-49,49,True
+Hassan Whiteside,3,10,29,1,Driving Hook Shot,3,-17,25,True
+Hassan Whiteside,3,8,48,1,Driving Hook Shot,7,-6,71,True
+Hassan Whiteside,3,10,50,0,Driving Hook Shot,11,-38,105,True
+Hassan Whiteside,1,8,22,0,Driving Layup Shot,1,9,8,True
+Hassan Whiteside,2,7,46,1,Driving Layup Shot,3,12,37,True
+Hassan Whiteside,3,11,42,1,Driving Layup Shot,1,-16,7,True
+Hassan Whiteside,4,2,42,1,Driving Layup Shot,0,3,-5,True
+Hassan Whiteside,1,8,3,0,Driving Layup Shot,4,-14,38,True
+Hassan Whiteside,3,6,52,0,Driving Layup Shot,0,5,4,True
+Hassan Whiteside,4,9,34,1,Driving Layup Shot,3,-23,29,True
+Hassan Whiteside,1,10,20,0,Driving Reverse Layup Shot,1,14,13,True
+Hassan Whiteside,1,4,51,0,Driving Reverse Layup Shot,1,12,14,True
+Hassan Whiteside,1,2,46,1,Dunk Shot,0,0,8,True
+Hassan Whiteside,1,4,45,1,Dunk Shot,0,-3,8,True
+Hassan Whiteside,1,4,22,1,Dunk Shot,0,-2,3,True
+Hassan Whiteside,2,5,24,1,Dunk Shot,0,3,4,True
+Hassan Whiteside,1,11,1,1,Dunk Shot,1,-10,15,True
+Hassan Whiteside,1,5,27,1,Dunk Shot,1,7,17,True
+Hassan Whiteside,3,9,45,1,Dunk Shot,1,0,10,True
+Hassan Whiteside,4,4,12,1,Dunk Shot,1,-7,11,True
+Hassan Whiteside,1,3,12,1,Dunk Shot,0,0,3,True
+Hassan Whiteside,4,7,11,1,Dunk Shot,1,3,12,True
+Hassan Whiteside,2,2,26,1,Dunk Shot,0,6,6,True
+Hassan Whiteside,4,9,42,1,Dunk Shot,0,-3,5,True
+Hassan Whiteside,2,1,35,1,Dunk Shot,2,2,21,True
+Hassan Whiteside,2,4,17,1,Dunk Shot,1,-2,10,True
+Hassan Whiteside,1,7,38,1,Dunk Shot,1,0,12,True
+Hassan Whiteside,3,0,29,1,Dunk Shot,1,-16,1,True
+Hassan Whiteside,3,1,22,1,Dunk Shot,0,-5,6,True
+Hassan Whiteside,1,9,12,1,Dunk Shot,0,5,8,True
+Hassan Whiteside,3,5,42,1,Dunk Shot,1,-1,13,True
+Hassan Whiteside,2,7,20,1,Dunk Shot,0,-4,4,True
+Hassan Whiteside,3,4,15,1,Dunk Shot,0,-5,4,True
+Hassan Whiteside,3,6,34,1,Dunk Shot,0,-3,1,True
+Hassan Whiteside,3,2,24,1,Dunk Shot,0,-7,0,True
+Hassan Whiteside,2,4,29,1,Dunk Shot,1,3,17,True
+Hassan Whiteside,2,6,11,0,Dunk Shot,1,-11,4,True
+Hassan Whiteside,1,11,10,1,Dunk Shot,1,6,8,True
+Hassan Whiteside,2,7,36,1,Dunk Shot,0,-3,8,True
+Hassan Whiteside,3,11,43,1,Dunk Shot,1,7,13,True
+Hassan Whiteside,2,3,23,1,Dunk Shot,0,2,9,True
+Hassan Whiteside,1,6,4,1,Dunk Shot,0,2,1,True
+Hassan Whiteside,3,5,47,1,Dunk Shot,1,-5,13,True
+Hassan Whiteside,2,9,33,0,Fadeaway Jump Shot,15,128,92,True
+Hassan Whiteside,3,8,37,1,Fadeaway Jump Shot,8,-15,85,True
+Hassan Whiteside,3,8,2,0,Fadeaway Jump Shot,15,101,121,True
+Hassan Whiteside,1,7,42,0,Fadeaway Jump Shot,12,95,84,True
+Hassan Whiteside,1,8,50,0,Fadeaway Jump Shot,10,-93,37,True
+Hassan Whiteside,1,5,5,0,Floating Jump shot,11,45,104,True
+Hassan Whiteside,2,6,57,1,Floating Jump shot,6,8,68,True
+Hassan Whiteside,3,11,41,0,Floating Jump shot,6,5,68,True
+Hassan Whiteside,1,9,20,0,Floating Jump shot,12,37,120,True
+Hassan Whiteside,4,4,54,0,Floating Jump shot,8,9,84,True
+Hassan Whiteside,2,3,53,1,Floating Jump shot,8,-25,79,True
+Hassan Whiteside,1,11,31,0,Floating Jump shot,10,-25,97,True
+Hassan Whiteside,2,8,4,0,Floating Jump shot,7,-21,73,True
+Hassan Whiteside,4,2,47,0,Floating Jump shot,7,73,22,True
+Hassan Whiteside,1,7,7,0,Floating Jump shot,15,-21,156,True
+Hassan Whiteside,4,4,34,0,Floating Jump shot,14,-52,133,True
+Hassan Whiteside,2,2,16,1,Floating Jump shot,9,-91,11,True
+Hassan Whiteside,3,5,51,1,Floating Jump shot,10,74,70,True
+Hassan Whiteside,3,10,52,1,Floating Jump shot,14,-56,130,True
+Hassan Whiteside,1,3,29,0,Floating Jump shot,15,3,159,True
+Hassan Whiteside,2,2,35,0,Floating Jump shot,8,3,86,True
+Hassan Whiteside,1,8,55,0,Floating Jump shot,14,-111,94,True
+Hassan Whiteside,1,9,1,1,Floating Jump shot,8,-10,85,True
+Hassan Whiteside,1,10,56,0,Floating Jump shot,6,6,69,True
+Hassan Whiteside,1,4,41,0,Hook Shot,10,85,57,True
+Hassan Whiteside,3,8,39,0,Hook Shot,6,41,44,True
+Hassan Whiteside,3,10,55,0,Hook Shot,7,-9,71,True
+Hassan Whiteside,1,10,38,0,Hook Shot,5,32,39,True
+Hassan Whiteside,3,5,32,1,Hook Shot,2,6,27,True
+Hassan Whiteside,3,6,56,1,Hook Shot,8,0,85,True
+Hassan Whiteside,2,7,45,0,Hook Shot,6,-32,57,True
+Hassan Whiteside,3,10,36,0,Hook Shot,6,22,62,True
+Hassan Whiteside,4,0,56,1,Hook Shot,4,0,47,True
+Hassan Whiteside,1,10,42,0,Hook Shot,7,56,50,True
+Hassan Whiteside,2,0,56,0,Hook Shot,6,11,68,True
+Hassan Whiteside,3,8,13,1,Hook Shot,4,-25,32,True
+Hassan Whiteside,2,1,22,1,Hook Shot,6,52,36,True
+Hassan Whiteside,2,2,56,0,Hook Shot,9,-47,81,True
+Hassan Whiteside,1,10,59,0,Hook Shot,7,-58,40,True
+Hassan Whiteside,2,3,39,0,Hook Shot,3,-24,24,True
+Hassan Whiteside,3,4,49,0,Hook Shot,7,-46,59,True
+Hassan Whiteside,1,7,51,1,Hook Shot,3,-5,35,True
+Hassan Whiteside,1,9,34,1,Hook Shot,3,-3,38,True
+Hassan Whiteside,1,5,35,0,Hook Shot,3,0,32,True
+Hassan Whiteside,1,6,50,0,Hook Shot,8,43,77,True
+Hassan Whiteside,1,5,23,1,Hook Shot,7,1,73,True
+Hassan Whiteside,3,9,44,0,Hook Shot,11,-117,-9,True
+Hassan Whiteside,3,4,41,1,Hook Shot,7,73,17,True
+Hassan Whiteside,3,3,50,0,Hook Shot,7,4,74,True
+Hassan Whiteside,1,11,2,0,Hook Shot,7,60,46,True
+Hassan Whiteside,1,6,57,1,Hook Shot,6,26,57,True
+Hassan Whiteside,3,9,26,0,Hook Shot,4,-30,38,True
+Hassan Whiteside,3,10,23,0,Hook Shot,5,-12,58,True
+Hassan Whiteside,1,5,20,1,Hook Shot,5,-30,47,True
+Hassan Whiteside,1,8,40,0,Hook Shot,3,16,28,True
+Hassan Whiteside,1,8,11,0,Hook Shot,7,70,13,True
+Hassan Whiteside,2,3,40,0,Hook Shot,8,-24,85,True
+Hassan Whiteside,3,9,45,1,Hook Shot,6,17,61,True
+Hassan Whiteside,3,5,59,0,Hook Shot,6,-21,61,True
+Hassan Whiteside,2,3,28,0,Hook Shot,6,-32,53,True
+Hassan Whiteside,1,8,22,1,Hook Shot,10,-19,100,True
+Hassan Whiteside,1,5,3,1,Hook Shot,9,-3,92,True
+Hassan Whiteside,1,5,49,1,Hook Shot,3,20,31,True
+Hassan Whiteside,1,10,45,0,Hook Shot,4,-32,38,True
+Hassan Whiteside,3,6,40,1,Hook Shot,4,-40,13,True
+Hassan Whiteside,2,3,42,0,Hook Shot,4,8,43,True
+Hassan Whiteside,1,6,40,1,Hook Shot,4,33,35,True
+Hassan Whiteside,2,3,14,1,Hook Shot,3,10,31,True
+Hassan Whiteside,2,3,33,0,Hook Shot,10,0,105,True
+Hassan Whiteside,2,1,50,1,Hook Shot,4,10,44,True
+Hassan Whiteside,1,9,14,0,Hook Shot,10,-30,96,True
+Hassan Whiteside,1,11,45,1,Hook Shot,5,-6,59,True
+Hassan Whiteside,4,5,2,0,Hook Shot,6,67,16,True
+Hassan Whiteside,3,11,19,0,Hook Shot,5,36,39,True
+Hassan Whiteside,2,3,39,1,Hook Shot,7,-4,78,True
+Hassan Whiteside,1,8,41,1,Hook Shot,5,-55,20,True
+Hassan Whiteside,3,8,47,1,Hook Shot,10,-70,83,True
+Hassan Whiteside,4,7,10,0,Hook Shot,9,83,40,True
+Hassan Whiteside,4,6,8,1,Hook Shot,11,94,72,True
+Hassan Whiteside,1,4,28,1,Hook Shot,7,34,72,True
+Hassan Whiteside,1,6,56,1,Jump Bank Shot,12,-95,78,True
+Hassan Whiteside,1,10,35,1,Jump Bank Shot,4,36,20,True
+Hassan Whiteside,3,10,34,1,Jump Bank Shot,11,-112,40,True
+Hassan Whiteside,3,2,41,0,Jump Bank Shot,4,28,37,True
+Hassan Whiteside,3,5,58,0,Jump Bank Shot,10,90,50,True
+Hassan Whiteside,1,4,44,0,Jump Bank Shot,2,16,13,True
+Hassan Whiteside,3,6,22,1,Jump Bank Shot,3,32,12,True
+Hassan Whiteside,2,4,30,0,Jump Bank Shot,4,6,45,True
+Hassan Whiteside,2,2,2,0,Jump Bank Shot,3,27,26,True
+Hassan Whiteside,1,6,13,1,Jump Shot,6,51,40,True
+Hassan Whiteside,3,7,0,1,Jump Shot,10,6,109,True
+Hassan Whiteside,1,8,43,0,Jump Shot,17,32,168,True
+Hassan Whiteside,3,5,15,0,Jump Shot,19,-18,193,True
+Hassan Whiteside,1,5,29,0,Jump Shot,6,49,47,True
+Hassan Whiteside,2,1,28,0,Jump Shot,21,-37,216,True
+Hassan Whiteside,3,8,43,1,Jump Shot,0,4,5,True
+Hassan Whiteside,3,9,46,1,Jump Shot,9,33,90,True
+Hassan Whiteside,3,7,5,1,Jump Shot,14,140,5,True
+Hassan Whiteside,1,7,58,1,Jump Shot,18,-163,97,True
+Hassan Whiteside,3,7,32,0,Jump Shot,0,-3,8,True
+Hassan Whiteside,3,10,32,0,Jump Shot,19,-70,179,True
+Hassan Whiteside,3,8,55,1,Jump Shot,6,68,5,True
+Hassan Whiteside,3,10,7,0,Jump Shot,19,20,197,True
+Hassan Whiteside,2,3,43,1,Jump Shot,10,38,101,True
+Hassan Whiteside,2,2,21,1,Jump Shot,17,-86,153,True
+Hassan Whiteside,4,3,34,0,Jump Shot,4,-44,20,True
+Hassan Whiteside,4,6,17,0,Jump Shot,6,-29,55,True
+Hassan Whiteside,3,11,15,0,Jump Shot,5,-12,54,True
+Hassan Whiteside,1,8,52,0,Jump Shot,19,98,169,True
+Hassan Whiteside,4,1,45,1,Jump Shot,4,35,26,True
+Hassan Whiteside,2,3,4,0,Jump Shot,16,152,71,True
+Hassan Whiteside,1,9,39,1,Jump Shot,19,-20,189,True
+Hassan Whiteside,1,4,53,0,Jump Shot,10,-5,106,True
+Hassan Whiteside,1,11,23,0,Jump Shot,13,-136,6,True
+Hassan Whiteside,1,4,29,1,Jump Shot,18,-35,178,True
+Hassan Whiteside,3,5,47,0,Jump Shot,18,38,179,True
+Hassan Whiteside,2,8,54,0,Jump Shot,14,9,142,True
+Hassan Whiteside,1,11,1,0,Jump Shot,21,39,209,True
+Hassan Whiteside,1,5,1,0,Jump Shot,14,-89,120,True
+Hassan Whiteside,1,9,10,0,Jump Shot,13,134,19,True
+Hassan Whiteside,4,3,35,0,Jump Shot,4,-6,47,True
+Hassan Whiteside,4,5,43,1,Jump Shot,2,-22,18,True
+Hassan Whiteside,4,3,29,0,Jump Shot,6,-35,58,True
+Hassan Whiteside,1,11,3,1,Jump Shot,19,52,184,True
+Hassan Whiteside,3,10,45,1,Jump Shot,13,35,129,True
+Hassan Whiteside,3,7,54,1,Jump Shot,18,-93,158,True
+Hassan Whiteside,1,3,24,0,Jump Shot,7,40,64,True
+Hassan Whiteside,3,10,33,1,Jump Shot,15,-23,151,True
+Hassan Whiteside,2,8,22,1,Jump Shot,12,-120,4,True
+Hassan Whiteside,4,6,42,1,Jump Shot,27,-8,278,False
+Hassan Whiteside,1,10,31,1,Jump Shot,17,86,151,True
+Hassan Whiteside,2,3,48,0,Jump Shot,17,-99,149,True
+Hassan Whiteside,4,5,16,0,Jump Shot,18,33,180,True
+Hassan Whiteside,1,3,33,1,Jump Shot,18,95,164,True
+Hassan Whiteside,1,4,47,0,Jump Shot,18,152,112,True
+Hassan Whiteside,1,5,15,0,Jump Shot,16,-84,142,True
+Hassan Whiteside,3,4,13,1,Jump Shot,20,120,172,True
+Hassan Whiteside,3,7,48,1,Jump Shot,18,96,160,True
+Hassan Whiteside,3,10,26,0,Jump Shot,6,-41,44,True
+Hassan Whiteside,3,5,7,0,Jump Shot,13,-90,94,True
+Hassan Whiteside,3,10,58,1,Jump Shot,15,-44,144,True
+Hassan Whiteside,4,8,33,1,Jump Shot,14,65,134,True
+Hassan Whiteside,3,9,20,0,Jump Shot,19,-100,165,True
+Hassan Whiteside,2,3,36,0,Jump Shot,9,-28,94,True
+Hassan Whiteside,3,3,46,0,Jump Shot,3,3,36,True
+Hassan Whiteside,2,1,30,0,Jump Shot,12,110,68,True
+Hassan Whiteside,1,5,31,0,Jump Shot,4,45,11,True
+Hassan Whiteside,2,5,7,0,Jump Shot,6,33,58,True
+Hassan Whiteside,3,6,29,0,Jump Shot,20,50,195,True
+Hassan Whiteside,1,9,12,1,Jump Shot,12,-28,118,True
+Hassan Whiteside,2,6,48,0,Jump Shot,5,21,48,True
+Hassan Whiteside,2,5,2,1,Jump Shot,18,145,117,True
+Hassan Whiteside,2,7,26,0,Jump Shot,18,56,179,True
+Hassan Whiteside,3,9,13,0,Jump Shot,11,-115,-19,True
+Hassan Whiteside,2,4,29,0,Jump Shot,15,-143,68,True
+Hassan Whiteside,3,10,17,1,Jump Shot,11,4,110,True
+Hassan Whiteside,1,7,33,0,Jump Shot,10,-102,31,True
+Hassan Whiteside,1,7,57,0,Jump Shot,4,41,11,True
+Hassan Whiteside,1,8,36,0,Jump Shot,9,-1,95,True
+Hassan Whiteside,2,6,12,0,Jump Shot,12,3,123,True
+Hassan Whiteside,1,10,32,0,Jump Shot,5,21,53,True
+Hassan Whiteside,1,7,10,0,Jump Shot,9,2,97,True
+Hassan Whiteside,2,4,56,1,Jump Shot,19,-190,12,True
+Hassan Whiteside,2,2,36,0,Jump Shot,7,-17,76,True
+Hassan Whiteside,3,6,31,1,Jump Shot,13,12,131,True
+Hassan Whiteside,1,3,30,0,Jump Shot,13,-49,131,True
+Hassan Whiteside,1,11,21,1,Jump Shot,15,133,88,True
+Hassan Whiteside,3,7,53,1,Jump Shot,10,-92,57,True
+Hassan Whiteside,4,3,53,1,Jump Shot,9,30,86,True
+Hassan Whiteside,4,4,37,0,Jump Shot,7,-66,39,True
+Hassan Whiteside,1,10,1,1,Jump Shot,6,32,51,True
+Hassan Whiteside,2,2,23,1,Jump Shot,20,117,168,True
+Hassan Whiteside,1,10,32,0,Jump Shot,11,112,-26,True
+Hassan Whiteside,2,2,24,0,Jump Shot,11,-1,112,True
+Hassan Whiteside,3,8,51,0,Jump Shot,11,-79,84,True
+Hassan Whiteside,1,9,45,0,Jump Shot,18,24,188,True
+Hassan Whiteside,1,3,54,0,Jump Shot,2,23,8,True
+Hassan Whiteside,4,7,4,0,Jump Shot,12,119,16,True
+Hassan Whiteside,3,6,16,1,Jump Shot,18,106,151,True
+Hassan Whiteside,2,7,5,0,Jump Shot,12,65,109,True
+Hassan Whiteside,1,6,3,0,Jump Shot,21,-152,157,True
+Hassan Whiteside,1,10,19,0,Jump Shot,10,74,72,True
+Hassan Whiteside,1,7,46,0,Jump Shot,19,-59,185,True
+Hassan Whiteside,3,8,50,0,Jump Shot,22,-176,138,True
+Hassan Whiteside,2,2,37,0,Jump Shot,9,99,11,True
+Hassan Whiteside,1,9,6,1,Jump Shot,4,7,46,True
+Hassan Whiteside,3,6,31,0,Jump Shot,15,112,101,True
+Hassan Whiteside,1,4,2,0,Jump Shot,19,-103,163,True
+Hassan Whiteside,1,8,36,1,Jump Shot,11,66,96,True
+Hassan Whiteside,2,4,17,0,Jump Shot,4,12,43,True
+Hassan Whiteside,1,9,27,1,Jump Shot,9,-95,27,True
+Hassan Whiteside,2,4,42,0,Jump Shot,12,-3,121,True
+Hassan Whiteside,1,4,20,0,Jump Shot,13,-134,-18,True
+Hassan Whiteside,2,3,36,1,Jump Shot,19,82,172,True
+Hassan Whiteside,3,11,16,1,Jump Shot,19,98,163,True
+Hassan Whiteside,2,3,40,1,Jump Shot,9,51,82,True
+Hassan Whiteside,1,5,41,1,Jump Shot,18,42,178,True
+Hassan Whiteside,3,3,7,0,Jump Shot,6,33,58,True
+Hassan Whiteside,2,5,7,0,Jump Shot,14,-132,67,True
+Hassan Whiteside,1,9,2,1,Jump Shot,17,-122,126,True
+Hassan Whiteside,3,10,31,0,Jump Shot,13,-111,79,True
+Hassan Whiteside,1,3,7,0,Jump Shot,11,47,103,True
+Hassan Whiteside,3,11,10,1,Jump Shot,5,-34,39,True
+Hassan Whiteside,2,5,33,0,Jump Shot,20,-141,153,True
+Hassan Whiteside,1,9,6,0,Jump Shot,18,51,179,True
+Hassan Whiteside,1,5,37,1,Jump Shot,25,10,257,False
+Hassan Whiteside,1,10,37,0,Jump Shot,15,115,108,True
+Hassan Whiteside,2,2,21,0,Jump Shot,17,-103,140,True
+Hassan Whiteside,1,6,46,1,Jump Shot,9,-75,50,True
+Hassan Whiteside,4,2,37,0,Jump Shot,3,-5,37,True
+Hassan Whiteside,3,10,7,0,Jump Shot,14,67,132,True
+Hassan Whiteside,3,9,19,1,Jump Shot,13,81,107,True
+Hassan Whiteside,3,10,12,1,Jump Shot,18,-14,183,True
+Hassan Whiteside,4,0,58,0,Jump Shot,1,-13,6,True
+Hassan Whiteside,3,6,32,0,Jump Shot,11,95,62,True
+Hassan Whiteside,1,7,16,0,Jump Shot,2,-4,23,True
+Hassan Whiteside,3,3,53,0,Jump Shot,5,-22,48,True
+Hassan Whiteside,3,3,6,0,Jump Shot,8,37,76,True
+Hassan Whiteside,3,2,3,0,Jump Shot,20,68,194,True
+Hassan Whiteside,2,0,11,1,Jump Shot,9,-2,90,True
+Hassan Whiteside,1,5,33,1,Layup Shot,2,27,13,True
+Hassan Whiteside,3,9,11,0,Layup Shot,2,-12,27,True
+Hassan Whiteside,3,11,40,0,Layup Shot,1,18,6,True
+Hassan Whiteside,4,5,7,1,Layup Shot,1,-3,15,True
+Hassan Whiteside,2,4,15,1,Layup Shot,1,-4,14,True
+Hassan Whiteside,3,3,48,1,Layup Shot,0,-2,8,True
+Hassan Whiteside,2,4,33,0,Layup Shot,2,2,27,True
+Hassan Whiteside,3,8,31,1,Layup Shot,0,0,8,True
+Hassan Whiteside,1,3,34,1,Layup Shot,1,-14,8,True
+Hassan Whiteside,1,11,3,1,Layup Shot,1,-6,11,True
+Hassan Whiteside,2,5,45,0,Layup Shot,7,-46,53,True
+Hassan Whiteside,4,9,45,1,Layup Shot,3,0,36,True
+Hassan Whiteside,1,11,33,0,Layup Shot,2,5,21,True
+Hassan Whiteside,1,9,26,1,Layup Shot,3,30,12,True
+Hassan Whiteside,4,0,55,0,Layup Shot,2,16,13,True
+Hassan Whiteside,1,11,45,1,Layup Shot,2,25,14,True
+Hassan Whiteside,3,3,47,0,Layup Shot,3,8,36,True
+Hassan Whiteside,3,4,40,0,Layup Shot,4,38,32,True
+Hassan Whiteside,3,2,46,1,Layup Shot,0,-7,-3,True
+Hassan Whiteside,3,10,14,0,Layup Shot,4,1,47,True
+Hassan Whiteside,2,5,23,0,Layup Shot,2,-27,-1,True
+Hassan Whiteside,4,3,22,0,Layup Shot,3,6,31,True
+Hassan Whiteside,3,8,16,1,Layup Shot,2,6,27,True
+Hassan Whiteside,3,11,1,0,Layup Shot,1,-9,6,True
+Hassan Whiteside,1,7,49,1,Layup Shot,2,4,21,True
+Hassan Whiteside,4,0,28,0,Layup Shot,3,9,29,True
+Hassan Whiteside,3,4,55,0,Layup Shot,1,8,17,True
+Hassan Whiteside,3,6,56,0,Layup Shot,3,14,34,True
+Hassan Whiteside,3,7,24,0,Layup Shot,2,20,18,True
+Hassan Whiteside,3,4,35,1,Layup Shot,1,14,12,True
+Hassan Whiteside,4,8,56,1,Layup Shot,2,0,25,True
+Hassan Whiteside,3,4,49,0,Layup Shot,1,-7,12,True
+Hassan Whiteside,3,5,4,0,Layup Shot,4,-2,44,True
+Hassan Whiteside,3,7,3,1,Layup Shot,2,11,25,True
+Hassan Whiteside,2,11,17,1,Layup Shot,1,12,10,True
+Hassan Whiteside,2,2,23,0,Layup Shot,1,13,6,True
+Hassan Whiteside,3,9,20,1,Layup Shot,2,-25,2,True
+Hassan Whiteside,3,5,53,0,Layup Shot,5,57,-4,True
+Hassan Whiteside,3,8,36,1,Layup Shot,3,-14,27,True
+Hassan Whiteside,2,4,15,0,Layup Shot,2,2,25,True
+Hassan Whiteside,1,10,12,0,Layup Shot,1,7,14,True
+Hassan Whiteside,2,3,21,0,Layup Shot,1,-2,10,True
+Hassan Whiteside,2,1,55,0,Layup Shot,0,-3,9,True
+Hassan Whiteside,1,3,23,0,Layup Shot,1,-12,6,True
+Hassan Whiteside,1,4,9,1,Layup Shot,1,0,13,True
+Hassan Whiteside,1,11,2,1,Layup Shot,3,-30,4,True
+Hassan Whiteside,1,9,43,1,Layup Shot,2,-13,21,True
+Hassan Whiteside,4,6,24,0,Layup Shot,4,18,38,True
+Hassan Whiteside,4,7,50,1,Layup Shot,3,-5,33,True
+Hassan Whiteside,3,10,42,0,Layup Shot,0,3,9,True
+Hassan Whiteside,3,9,31,1,Layup Shot,1,7,16,True
+Hassan Whiteside,3,11,13,1,Layup Shot,1,9,7,True
+Hassan Whiteside,2,5,44,1,Layup Shot,1,5,13,True
+Hassan Whiteside,3,1,58,1,Layup Shot,1,16,8,True
+Hassan Whiteside,1,11,40,1,Layup Shot,1,-6,10,True
+Hassan Whiteside,1,9,53,0,Layup Shot,2,-5,23,True
+Hassan Whiteside,1,4,36,0,Layup Shot,1,16,6,True
+Hassan Whiteside,3,10,42,1,Layup Shot,1,11,13,True
+Hassan Whiteside,3,9,20,1,Layup Shot,3,-24,29,True
+Hassan Whiteside,1,10,23,0,Layup Shot,1,9,8,True
+Hassan Whiteside,2,0,43,1,Layup Shot,3,-5,37,True
+Hassan Whiteside,4,1,3,0,Layup Shot,3,31,17,True
+Hassan Whiteside,2,4,56,0,Layup Shot,1,9,16,True
+Hassan Whiteside,1,11,34,0,Layup Shot,1,-12,3,True
+Hassan Whiteside,1,3,15,1,Layup Shot,1,-6,15,True
+Hassan Whiteside,1,10,11,1,Layup Shot,1,4,18,True
+Hassan Whiteside,2,2,48,0,Layup Shot,2,-4,22,True
+Hassan Whiteside,4,2,11,1,Layup Shot,2,0,23,True
+Hassan Whiteside,2,1,27,1,Layup Shot,3,24,20,True
+Hassan Whiteside,3,6,14,1,Layup Shot,1,13,3,True
+Hassan Whiteside,3,11,30,0,Layup Shot,4,37,32,True
+Hassan Whiteside,2,4,3,0,Layup Shot,0,-2,5,True
+Hassan Whiteside,1,11,24,1,Layup Shot,2,14,18,True
+Hassan Whiteside,4,0,21,0,Layup Shot,3,-19,27,True
+Hassan Whiteside,3,10,4,0,Layup Shot,1,12,13,True
+Hassan Whiteside,1,7,54,1,Pullup Jump shot,2,19,15,True
+Hassan Whiteside,3,10,12,1,Pullup Jump shot,5,35,36,True
+Hassan Whiteside,1,4,41,1,Putback Dunk Shot,1,1,11,True
+Hassan Whiteside,2,6,35,1,Putback Dunk Shot,2,-2,27,True
+Hassan Whiteside,1,9,15,1,Putback Dunk Shot,0,6,3,True
+Hassan Whiteside,1,6,5,1,Putback Dunk Shot,0,0,-6,True
+Hassan Whiteside,3,11,23,1,Putback Dunk Shot,2,14,16,True
+Hassan Whiteside,1,6,24,1,Putback Dunk Shot,0,9,3,True
+Hassan Whiteside,2,7,46,1,Putback Layup Shot,0,-2,7,True
+Hassan Whiteside,2,4,2,0,Putback Layup Shot,0,-6,6,True
+Hassan Whiteside,3,11,47,0,Putback Layup Shot,1,9,12,True
+Hassan Whiteside,3,4,59,1,Putback Layup Shot,2,-3,25,True
+Hassan Whiteside,2,4,3,1,Putback Layup Shot,1,2,13,True
+Hassan Whiteside,1,7,33,1,Putback Layup Shot,1,8,-11,True
+Hassan Whiteside,1,10,14,1,Putback Layup Shot,0,0,4,True
+Hassan Whiteside,3,8,48,0,Putback Layup Shot,0,0,7,True
+Hassan Whiteside,1,11,30,0,Putback Layup Shot,1,-14,8,True
+Hassan Whiteside,3,10,1,1,Putback Layup Shot,4,-41,8,True
+Hassan Whiteside,3,11,29,1,Putback Layup Shot,1,-3,12,True
+Hassan Whiteside,1,9,41,1,Putback Layup Shot,2,19,8,True
+Hassan Whiteside,2,3,58,1,Putback Layup Shot,0,0,-6,True
+Hassan Whiteside,1,10,25,0,Putback Layup Shot,1,-2,12,True
+Hassan Whiteside,2,7,53,0,Putback Layup Shot,0,-8,5,True
+Hassan Whiteside,2,2,9,1,Putback Layup Shot,0,0,0,True
+Hassan Whiteside,2,2,49,1,Putback Layup Shot,1,-2,17,True
+Hassan Whiteside,2,1,50,1,Putback Layup Shot,0,0,-6,True
+Hassan Whiteside,4,1,3,0,Putback Layup Shot,3,-33,11,True
+Hassan Whiteside,3,7,26,1,Putback Layup Shot,1,-8,12,True
+Hassan Whiteside,1,8,27,1,Putback Layup Shot,1,16,7,True
+Hassan Whiteside,1,8,34,0,Putback Layup Shot,1,9,8,True
+Hassan Whiteside,4,9,41,1,Putback Layup Shot,0,0,7,True
+Hassan Whiteside,1,11,38,0,Putback Layup Shot,1,-13,4,True
+Hassan Whiteside,3,3,43,1,Putback Layup Shot,1,-4,11,True
+Hassan Whiteside,4,0,32,1,Reverse Layup Shot,1,-14,10,True
+Hassan Whiteside,1,6,30,1,Reverse Layup Shot,1,-4,10,True
+Hassan Whiteside,2,0,17,0,Reverse Layup Shot,2,-25,3,True
+Hassan Whiteside,2,1,20,0,Running Layup Shot,2,14,16,True
+Hassan Whiteside,1,5,44,1,Running Layup Shot,2,-17,16,True
+Hassan Whiteside,1,8,11,0,Step Back Jump shot,15,29,151,True
+Hassan Whiteside,3,8,50,1,Step Back Jump shot,8,-60,59,True
+Hassan Whiteside,1,2,29,1,Tip Dunk Shot,2,16,15,True
+Hassan Whiteside,3,9,16,1,Tip Dunk Shot,0,0,-6,True
+Hassan Whiteside,1,11,3,1,Tip Dunk Shot,1,0,10,True
+Hassan Whiteside,1,11,9,1,Tip Dunk Shot,0,0,-6,True
+Hassan Whiteside,3,3,47,0,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,4,3,0,0,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,1,6,29,0,Tip Layup Shot,1,9,16,True
+Hassan Whiteside,1,10,3,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,1,9,43,0,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,1,8,42,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,4,6,14,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,3,11,12,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,2,3,23,0,Tip Layup Shot,2,-18,10,True
+Hassan Whiteside,2,5,55,0,Tip Layup Shot,1,-10,12,True
+Hassan Whiteside,4,1,39,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,4,7,2,0,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,4,1,10,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,4,6,12,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,3,7,26,0,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,2,6,31,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,4,1,18,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,4,0,58,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,3,5,50,1,Tip Layup Shot,1,-8,12,True
+Hassan Whiteside,2,1,19,0,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,1,7,24,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,1,4,52,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,1,11,10,0,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,1,10,0,0,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,4,2,30,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,1,7,30,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,2,4,9,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,2,1,52,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,3,10,42,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,2,5,23,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,3,6,46,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,2,3,27,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,2,5,39,0,Tip Layup Shot,1,17,9,True
+Hassan Whiteside,4,6,4,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,1,11,19,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,3,6,47,1,Tip Layup Shot,0,0,-6,True
+Hassan Whiteside,1,10,42,0,Turnaround Fadeaway Bank Jump Shot,4,-32,24,True
+Hassan Whiteside,1,8,21,1,Turnaround Fadeaway Bank Jump Shot,7,49,57,True
+Hassan Whiteside,1,4,32,1,Turnaround Fadeaway Bank Jump Shot,14,132,55,True
+Hassan Whiteside,2,0,5,1,Turnaround Fadeaway Bank Jump Shot,9,32,92,True
+Hassan Whiteside,1,5,59,0,Turnaround Fadeaway shot,7,-46,53,True
+Hassan Whiteside,3,7,49,0,Turnaround Fadeaway shot,8,18,78,True
+Hassan Whiteside,4,7,23,0,Turnaround Fadeaway shot,16,-111,121,True
+Hassan Whiteside,2,1,46,0,Turnaround Fadeaway shot,13,0,137,True
+Hassan Whiteside,4,4,46,1,Turnaround Hook Shot,8,70,50,True
+Hassan Whiteside,4,6,27,1,Turnaround Hook Shot,6,3,60,True
+Hassan Whiteside,3,5,14,0,Turnaround Hook Shot,6,-43,50,True
+Hassan Whiteside,3,6,31,1,Turnaround Hook Shot,1,8,8,True
+Hassan Whiteside,1,5,40,0,Turnaround Hook Shot,4,-47,-1,True
+Hassan Whiteside,4,7,39,0,Turnaround Hook Shot,12,-76,94,True
+Hassan Whiteside,1,11,45,1,Turnaround Hook Shot,7,-52,57,True
+Hassan Whiteside,2,2,46,0,Turnaround Hook Shot,8,41,79,True
+Hassan Whiteside,1,11,22,0,Turnaround Hook Shot,6,-18,67,True
+Hassan Whiteside,1,4,48,1,Turnaround Hook Shot,3,-21,25,True
+Hassan Whiteside,1,6,58,0,Turnaround Hook Shot,6,-3,64,True
+Hassan Whiteside,2,3,41,0,Turnaround Hook Shot,4,-44,19,True
+Hassan Whiteside,2,3,17,1,Turnaround Hook Shot,5,54,20,True
+Hassan Whiteside,1,8,43,1,Turnaround Hook Shot,2,18,22,True
+Hassan Whiteside,1,9,10,0,Turnaround Hook Shot,10,-97,50,True
+Hassan Whiteside,1,5,48,0,Turnaround Hook Shot,11,104,40,True
+Hassan Whiteside,2,5,53,1,Turnaround Hook Shot,5,-30,51,True
+Hassan Whiteside,1,10,38,0,Turnaround Hook Shot,4,23,42,True
+Hassan Whiteside,4,4,57,0,Turnaround Hook Shot,10,95,38,True
+Hassan Whiteside,1,10,49,1,Turnaround Hook Shot,4,21,43,True
+Hassan Whiteside,3,7,30,0,Turnaround Hook Shot,8,80,15,True
+Hassan Whiteside,2,2,42,1,Turnaround Hook Shot,5,23,51,True
+Hassan Whiteside,1,10,45,1,Turnaround Hook Shot,1,13,13,True
+Hassan Whiteside,2,6,29,0,Turnaround Hook Shot,5,-36,46,True
+Hassan Whiteside,3,9,20,0,Turnaround Hook Shot,8,-52,67,True
+Hassan Whiteside,4,11,0,0,Turnaround Hook Shot,7,3,78,True
+Hassan Whiteside,1,6,49,1,Turnaround Hook Shot,9,-63,72,True
+Hassan Whiteside,4,5,2,0,Turnaround Hook Shot,6,-55,34,True
+Hassan Whiteside,1,9,45,0,Turnaround Hook Shot,6,-2,69,True
+Hassan Whiteside,1,11,36,0,Turnaround Hook Shot,5,-52,-6,True
+Hassan Whiteside,1,5,35,1,Turnaround Hook Shot,7,-46,62,True
+Hassan Whiteside,1,7,15,1,Turnaround Hook Shot,13,132,6,True
+Hassan Whiteside,1,7,39,1,Turnaround Hook Shot,5,58,14,True
+Hassan Whiteside,3,5,8,0,Turnaround Jump Shot,7,-22,68,True
+Hassan Whiteside,2,3,41,0,Turnaround Jump Shot,12,-105,63,True
+Hassan Whiteside,1,6,4,0,Turnaround Jump Shot,5,45,32,True
+Hassan Whiteside,2,6,24,1,Turnaround Jump Shot,8,-36,78,True
+Hassan Whiteside,3,9,43,0,Turnaround Jump Shot,5,-6,56,True
+Hassan Whiteside,1,7,42,1,Turnaround Jump Shot,3,-38,9,True
+Hassan Whiteside,3,5,44,1,Turnaround Jump Shot,4,-2,46,True
+Hassan Whiteside,3,4,36,1,Turnaround Jump Shot,7,0,78,True
+Hassan Whiteside,2,6,43,1,Turnaround Jump Shot,4,27,32,True
+Hassan Whiteside,1,2,21,0,Turnaround Jump Shot,6,30,52,True
+Hassan Whiteside,4,5,59,1,Turnaround Jump Shot,7,-13,69,True
+Hassan Whiteside,3,6,32,0,Turnaround Jump Shot,12,-96,86,True
+Hassan Whiteside,1,8,38,1,Turnaround Jump Shot,9,-61,78,True
+Hassan Whiteside,1,11,2,0,Turnaround Jump Shot,6,2,66,True
+Hassan Whiteside,2,1,4,1,Turnaround Jump Shot,3,-24,27,True
+Hassan Whiteside,2,1,43,0,Turnaround Jump Shot,11,-22,110,True
+Hassan Whiteside,3,9,42,1,Turnaround Jump Shot,9,-11,96,True
+Hassan Whiteside,3,6,11,0,Turnaround Jump Shot,7,64,33,True
+Hassan Whiteside,1,10,34,0,Turnaround Jump Shot,11,106,52,True
+Hassan Whiteside,1,11,23,0,Turnaround Jump Shot,5,54,15,True
+Hassan Whiteside,3,9,56,1,Turnaround Jump Shot,6,-34,53,True

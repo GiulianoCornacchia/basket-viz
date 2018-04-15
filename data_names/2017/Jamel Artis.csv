@@ -1,0 +1,80 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jamel Artis,2,1,37,1,Cutting Finger Roll Layup Shot,2,-10,19,True
+Jamel Artis,4,6,28,1,Cutting Layup Shot,1,-13,13,True
+Jamel Artis,3,8,48,1,Driving Floating Bank Jump Shot,11,-104,57,True
+Jamel Artis,1,2,21,0,Driving Floating Bank Jump Shot,6,-62,21,True
+Jamel Artis,4,10,53,0,Driving Floating Jump Shot,4,9,48,True
+Jamel Artis,4,3,31,1,Driving Hook Shot,9,42,88,True
+Jamel Artis,2,7,49,0,Driving Layup Shot,1,0,19,True
+Jamel Artis,3,0,56,1,Driving Layup Shot,2,16,12,True
+Jamel Artis,4,5,50,0,Driving Layup Shot,1,-9,17,True
+Jamel Artis,4,0,48,0,Driving Layup Shot,3,32,-10,True
+Jamel Artis,3,8,10,0,Dunk Shot,1,-16,11,True
+Jamel Artis,3,0,59,1,Finger Roll Layup Shot,1,-8,8,True
+Jamel Artis,3,9,53,0,Floating Jump shot,5,26,50,True
+Jamel Artis,4,7,34,0,Floating Jump shot,8,32,76,True
+Jamel Artis,4,5,57,1,Floating Jump shot,6,-39,46,True
+Jamel Artis,3,3,29,1,Hook Shot,8,-62,63,True
+Jamel Artis,2,2,41,0,Hook Shot,15,5,156,True
+Jamel Artis,4,0,19,0,Jump Shot,16,161,0,True
+Jamel Artis,3,0,9,0,Jump Shot,26,-104,247,False
+Jamel Artis,1,1,52,0,Jump Shot,11,116,10,True
+Jamel Artis,4,9,42,0,Jump Shot,25,-204,152,False
+Jamel Artis,2,9,39,0,Jump Shot,16,-130,105,True
+Jamel Artis,1,3,2,0,Jump Shot,24,220,115,False
+Jamel Artis,3,5,1,0,Jump Shot,25,221,118,False
+Jamel Artis,2,3,0,0,Jump Shot,22,225,4,False
+Jamel Artis,3,7,15,0,Jump Shot,23,-231,53,False
+Jamel Artis,4,6,8,1,Jump Shot,25,143,217,False
+Jamel Artis,4,4,37,1,Jump Shot,25,-109,235,False
+Jamel Artis,1,9,59,0,Jump Shot,23,-232,15,False
+Jamel Artis,2,2,5,0,Jump Shot,25,-160,197,False
+Jamel Artis,2,9,23,1,Jump Shot,23,-230,-13,False
+Jamel Artis,4,7,30,0,Jump Shot,22,-161,163,True
+Jamel Artis,3,0,26,1,Jump Shot,25,29,251,False
+Jamel Artis,4,5,7,0,Jump Shot,12,-55,110,True
+Jamel Artis,4,9,48,0,Jump Shot,25,-215,134,False
+Jamel Artis,1,4,29,1,Jump Shot,26,139,222,False
+Jamel Artis,2,9,39,0,Jump Shot,26,131,226,False
+Jamel Artis,2,6,35,1,Jump Shot,8,87,0,True
+Jamel Artis,1,2,30,1,Jump Shot,23,230,25,False
+Jamel Artis,2,11,6,0,Jump Shot,22,223,-22,False
+Jamel Artis,2,10,45,1,Jump Shot,26,95,248,False
+Jamel Artis,4,8,55,0,Jump Shot,22,226,41,False
+Jamel Artis,1,1,46,0,Jump Shot,27,-188,194,False
+Jamel Artis,2,6,20,0,Jump Shot,25,177,180,False
+Jamel Artis,4,9,43,0,Jump Shot,8,58,58,True
+Jamel Artis,4,5,3,1,Jump Shot,6,-11,59,True
+Jamel Artis,3,0,28,0,Jump Shot,24,-155,190,False
+Jamel Artis,4,6,49,0,Jump Shot,25,235,96,False
+Jamel Artis,4,10,50,0,Jump Shot,9,-96,-13,True
+Jamel Artis,4,9,46,1,Jump Shot,5,-49,24,True
+Jamel Artis,1,1,16,0,Jump Shot,25,-105,235,False
+Jamel Artis,4,1,33,0,Jump Shot,7,31,68,True
+Jamel Artis,4,0,10,0,Jump Shot,24,5,249,False
+Jamel Artis,4,0,21,0,Jump Shot,23,-221,80,False
+Jamel Artis,3,1,44,0,Jump Shot,23,-224,71,False
+Jamel Artis,4,7,54,1,Layup Shot,2,22,14,True
+Jamel Artis,2,4,1,1,Layup Shot,3,30,22,True
+Jamel Artis,4,10,25,0,Layup Shot,3,29,10,True
+Jamel Artis,2,5,42,1,Pullup Jump shot,11,111,-11,True
+Jamel Artis,3,5,16,0,Pullup Jump shot,18,-119,144,True
+Jamel Artis,3,5,10,0,Pullup Jump shot,21,-121,183,True
+Jamel Artis,4,0,0,1,Pullup Jump shot,27,-130,237,False
+Jamel Artis,2,4,24,0,Pullup Jump shot,10,-3,109,True
+Jamel Artis,4,5,45,0,Pullup Jump shot,17,161,62,True
+Jamel Artis,4,2,24,1,Pullup Jump shot,16,-100,128,True
+Jamel Artis,1,1,53,1,Pullup Jump shot,18,-67,176,True
+Jamel Artis,2,3,57,0,Pullup Jump shot,17,-135,116,True
+Jamel Artis,4,7,7,0,Pullup Jump shot,22,-85,212,True
+Jamel Artis,4,8,29,1,Pullup Jump shot,19,177,91,True
+Jamel Artis,4,11,15,0,Pullup Jump shot,17,-23,170,True
+Jamel Artis,2,5,0,1,Pullup Jump shot,20,65,195,True
+Jamel Artis,3,8,48,1,Reverse Layup Shot,1,-14,5,True
+Jamel Artis,4,5,47,1,Running Layup Shot,2,-2,20,True
+Jamel Artis,1,1,27,0,Running Layup Shot,4,40,21,True
+Jamel Artis,4,2,0,1,Running Layup Shot,1,11,2,True
+Jamel Artis,4,10,35,1,Step Back Jump shot,17,48,169,True
+Jamel Artis,2,0,0,0,Step Back Jump shot,22,-227,6,False
+Jamel Artis,3,9,50,0,Tip Layup Shot,0,0,-6,True
+Jamel Artis,4,3,16,1,Turnaround Jump Shot,5,25,45,True

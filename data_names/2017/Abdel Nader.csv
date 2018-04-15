@@ -1,0 +1,143 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Abdel Nader,2,2,55,0,Alley Oop Layup shot,1,-5,15,True
+Abdel Nader,4,4,57,0,Cutting Layup Shot,4,31,26,True
+Abdel Nader,1,3,30,0,Cutting Layup Shot,3,-35,-1,True
+Abdel Nader,4,9,25,0,Cutting Layup Shot,1,-12,6,True
+Abdel Nader,2,4,22,1,Driving Bank Hook Shot,4,24,33,True
+Abdel Nader,3,2,33,1,Driving Dunk Shot,1,3,17,True
+Abdel Nader,3,0,13,0,Driving Dunk Shot,3,-12,32,True
+Abdel Nader,4,10,57,0,Driving Dunk Shot,1,-16,3,True
+Abdel Nader,4,10,40,1,Driving Dunk Shot,1,-8,6,True
+Abdel Nader,4,6,8,1,Driving Finger Roll Layup Shot,3,0,30,True
+Abdel Nader,4,0,36,0,Driving Finger Roll Layup Shot,2,-26,10,True
+Abdel Nader,1,7,58,1,Driving Finger Roll Layup Shot,3,24,21,True
+Abdel Nader,4,7,18,1,Driving Floating Bank Jump Shot,6,-55,42,True
+Abdel Nader,4,6,15,0,Driving Floating Jump Shot,7,39,64,True
+Abdel Nader,1,3,7,1,Driving Floating Jump Shot,12,123,33,True
+Abdel Nader,4,11,38,0,Driving Floating Jump Shot,4,-12,48,True
+Abdel Nader,2,11,24,0,Driving Floating Jump Shot,6,64,25,True
+Abdel Nader,2,10,40,0,Driving Floating Jump Shot,3,-5,38,True
+Abdel Nader,3,5,53,0,Driving Floating Jump Shot,8,8,84,True
+Abdel Nader,4,3,47,1,Driving Floating Jump Shot,7,-29,74,True
+Abdel Nader,4,5,30,0,Driving Layup Shot,2,-15,14,True
+Abdel Nader,4,1,2,0,Driving Layup Shot,7,22,69,True
+Abdel Nader,4,3,2,0,Driving Layup Shot,4,22,34,True
+Abdel Nader,4,10,57,0,Driving Layup Shot,2,-13,21,True
+Abdel Nader,2,8,32,0,Driving Layup Shot,3,6,31,True
+Abdel Nader,4,2,49,1,Driving Layup Shot,1,10,11,True
+Abdel Nader,2,11,40,0,Driving Layup Shot,6,-33,58,True
+Abdel Nader,1,10,43,0,Driving Layup Shot,3,13,36,True
+Abdel Nader,4,1,44,0,Driving Layup Shot,2,-8,19,True
+Abdel Nader,1,6,17,0,Driving Layup Shot,2,-24,8,True
+Abdel Nader,4,0,45,0,Driving Layup Shot,9,-16,91,True
+Abdel Nader,4,3,52,1,Driving Layup Shot,2,-20,11,True
+Abdel Nader,1,10,46,0,Driving Layup Shot,7,67,38,True
+Abdel Nader,2,3,2,1,Driving Layup Shot,2,12,24,True
+Abdel Nader,3,0,14,1,Driving Layup Shot,2,3,27,True
+Abdel Nader,3,10,33,0,Driving Layup Shot,6,46,40,True
+Abdel Nader,4,2,43,1,Driving Layup Shot,5,23,45,True
+Abdel Nader,4,6,55,0,Driving Layup Shot,4,-16,43,True
+Abdel Nader,4,11,32,0,Driving Layup Shot,2,20,13,True
+Abdel Nader,3,4,17,0,Driving Layup Shot,2,20,17,True
+Abdel Nader,2,7,38,0,Driving Layup Shot,2,-19,14,True
+Abdel Nader,2,6,20,1,Driving Layup Shot,3,-24,27,True
+Abdel Nader,1,2,5,0,Driving Layup Shot,3,9,31,True
+Abdel Nader,4,10,11,1,Driving Layup Shot,1,19,1,True
+Abdel Nader,2,10,25,0,Driving Layup Shot,1,13,8,True
+Abdel Nader,4,2,21,0,Driving Reverse Layup Shot,0,3,-3,True
+Abdel Nader,2,7,5,0,Driving Reverse Layup Shot,1,-13,0,True
+Abdel Nader,1,0,49,0,Fadeaway Jump Shot,10,-11,105,True
+Abdel Nader,4,2,54,1,Fadeaway Jump Shot,8,-78,25,True
+Abdel Nader,2,0,32,0,Fadeaway Jump Shot,5,-49,15,True
+Abdel Nader,4,4,16,0,Jump Shot,25,112,233,False
+Abdel Nader,4,3,49,1,Jump Shot,25,171,195,False
+Abdel Nader,2,9,17,0,Jump Shot,26,172,199,False
+Abdel Nader,2,7,52,1,Jump Shot,22,-225,5,False
+Abdel Nader,4,5,4,0,Jump Shot,28,176,221,False
+Abdel Nader,4,9,14,1,Jump Shot,23,-230,-6,False
+Abdel Nader,1,1,45,0,Jump Shot,7,52,60,True
+Abdel Nader,4,5,16,1,Jump Shot,26,-149,214,False
+Abdel Nader,4,8,32,0,Jump Shot,23,235,41,False
+Abdel Nader,2,4,47,0,Jump Shot,24,-179,164,False
+Abdel Nader,4,1,5,1,Jump Shot,23,227,46,False
+Abdel Nader,1,2,45,1,Jump Shot,22,-222,38,False
+Abdel Nader,4,4,59,0,Jump Shot,25,-179,176,False
+Abdel Nader,2,5,51,1,Jump Shot,26,182,192,False
+Abdel Nader,4,1,8,0,Jump Shot,20,-62,192,True
+Abdel Nader,2,6,29,1,Jump Shot,23,232,8,False
+Abdel Nader,3,11,8,0,Jump Shot,26,203,178,False
+Abdel Nader,3,6,20,0,Jump Shot,23,232,36,False
+Abdel Nader,4,6,16,0,Jump Shot,26,212,153,False
+Abdel Nader,4,6,22,0,Jump Shot,25,196,163,False
+Abdel Nader,4,9,42,0,Jump Shot,24,240,63,False
+Abdel Nader,2,9,52,1,Jump Shot,25,151,209,False
+Abdel Nader,4,8,42,1,Jump Shot,26,195,178,False
+Abdel Nader,2,8,4,0,Jump Shot,25,119,226,False
+Abdel Nader,4,1,50,0,Jump Shot,26,-145,217,False
+Abdel Nader,3,8,45,0,Jump Shot,25,-187,176,False
+Abdel Nader,4,4,18,0,Jump Shot,25,-169,197,False
+Abdel Nader,2,6,43,0,Jump Shot,23,232,31,False
+Abdel Nader,2,4,35,0,Jump Shot,22,-223,-4,False
+Abdel Nader,2,9,6,0,Jump Shot,22,224,35,False
+Abdel Nader,2,7,28,1,Jump Shot,23,232,59,False
+Abdel Nader,2,3,57,0,Jump Shot,22,223,47,False
+Abdel Nader,4,1,17,1,Jump Shot,27,-119,250,False
+Abdel Nader,2,4,40,0,Jump Shot,26,-77,257,False
+Abdel Nader,3,2,17,0,Jump Shot,12,127,21,True
+Abdel Nader,4,0,42,1,Jump Shot,26,171,200,False
+Abdel Nader,4,10,3,0,Jump Shot,23,232,56,False
+Abdel Nader,4,1,55,0,Jump Shot,25,183,175,False
+Abdel Nader,3,1,19,0,Jump Shot,26,-127,232,False
+Abdel Nader,2,9,26,0,Jump Shot,22,-228,15,False
+Abdel Nader,1,3,52,0,Jump Shot,23,-232,-1,False
+Abdel Nader,4,5,38,0,Jump Shot,26,212,155,False
+Abdel Nader,4,2,3,1,Jump Shot,23,231,16,False
+Abdel Nader,4,9,27,0,Jump Shot,24,-245,22,False
+Abdel Nader,1,3,21,0,Jump Shot,27,148,226,False
+Abdel Nader,2,7,8,1,Jump Shot,26,197,179,False
+Abdel Nader,4,7,21,0,Jump Shot,28,139,250,False
+Abdel Nader,4,10,52,1,Jump Shot,24,-140,203,False
+Abdel Nader,2,6,4,0,Jump Shot,26,-141,226,False
+Abdel Nader,2,11,6,0,Jump Shot,26,171,205,False
+Abdel Nader,2,7,53,0,Jump Shot,23,226,49,False
+Abdel Nader,1,2,35,0,Jump Shot,24,59,242,False
+Abdel Nader,1,0,45,0,Jump Shot,26,-141,221,False
+Abdel Nader,2,9,20,1,Jump Shot,22,-229,8,False
+Abdel Nader,3,2,40,0,Jump Shot,25,186,179,False
+Abdel Nader,4,11,41,1,Jump Shot,27,137,237,False
+Abdel Nader,4,8,7,0,Jump Shot,26,-169,205,False
+Abdel Nader,4,6,28,0,Jump Shot,23,232,6,False
+Abdel Nader,1,1,44,0,Jump Shot,26,-167,209,False
+Abdel Nader,4,1,16,0,Jump Shot,7,30,66,True
+Abdel Nader,1,3,16,1,Jump Shot,23,225,80,False
+Abdel Nader,4,11,28,1,Jump Shot,28,109,262,False
+Abdel Nader,4,0,45,0,Jump Shot,27,171,214,False
+Abdel Nader,4,0,33,0,Jump Shot,22,-228,25,False
+Abdel Nader,2,5,43,0,Layup Shot,6,-60,27,True
+Abdel Nader,4,8,8,0,Layup Shot,0,3,9,True
+Abdel Nader,1,4,44,0,Layup Shot,1,2,16,True
+Abdel Nader,1,0,27,0,Layup Shot,7,3,71,True
+Abdel Nader,2,11,41,1,Layup Shot,0,-5,4,True
+Abdel Nader,1,5,10,0,Layup Shot,7,-56,50,True
+Abdel Nader,4,1,5,0,Layup Shot,0,-2,-5,True
+Abdel Nader,3,1,0,0,Pullup Jump shot,21,-84,203,True
+Abdel Nader,4,3,13,0,Pullup Jump shot,16,-98,138,True
+Abdel Nader,2,8,32,1,Pullup Jump shot,25,-42,255,False
+Abdel Nader,4,1,41,0,Putback Layup Shot,2,26,13,True
+Abdel Nader,3,10,29,0,Putback Layup Shot,0,0,-6,True
+Abdel Nader,2,0,50,1,Putback Layup Shot,1,-5,16,True
+Abdel Nader,2,0,20,1,Running Dunk Shot,1,-3,13,True
+Abdel Nader,1,4,1,1,Running Finger Roll Layup Shot,1,6,11,True
+Abdel Nader,3,0,0,0,Running Jump Shot,15,-138,67,True
+Abdel Nader,4,0,22,1,Running Layup Shot,1,13,14,True
+Abdel Nader,2,5,29,1,Running Layup Shot,2,22,10,True
+Abdel Nader,1,2,30,1,Step Back Jump shot,21,25,216,True
+Abdel Nader,1,1,55,0,Step Back Jump shot,18,-112,152,True
+Abdel Nader,4,10,35,0,Step Back Jump shot,17,118,132,True
+Abdel Nader,4,9,44,1,Tip Layup Shot,0,0,-6,True
+Abdel Nader,2,2,54,1,Tip Layup Shot,0,0,-6,True
+Abdel Nader,4,6,8,0,Tip Layup Shot,0,0,-6,True
+Abdel Nader,1,2,14,0,Turnaround Fadeaway Bank Jump Shot,13,48,130,True
+Abdel Nader,4,9,25,0,Turnaround Fadeaway Bank Jump Shot,7,-64,45,True
+Abdel Nader,2,8,46,0,Turnaround Fadeaway shot,11,-76,89,True
+Abdel Nader,2,8,20,0,Turnaround Hook Shot,9,-76,52,True

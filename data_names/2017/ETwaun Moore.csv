@@ -1,0 +1,737 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+ETwaun Moore,2,8,21,1,Alley Oop Layup shot,1,-18,6,True
+ETwaun Moore,4,3,11,1,Cutting Dunk Shot,0,5,5,True
+ETwaun Moore,2,3,23,1,Cutting Dunk Shot,0,-6,7,True
+ETwaun Moore,1,10,1,1,Cutting Dunk Shot,0,-6,5,True
+ETwaun Moore,4,2,36,1,Cutting Dunk Shot,1,-3,11,True
+ETwaun Moore,4,10,16,1,Cutting Dunk Shot,1,-12,5,True
+ETwaun Moore,4,1,41,1,Cutting Dunk Shot,0,5,8,True
+ETwaun Moore,1,5,59,1,Cutting Finger Roll Layup Shot,0,4,0,True
+ETwaun Moore,1,4,59,1,Cutting Finger Roll Layup Shot,2,23,4,True
+ETwaun Moore,4,6,22,1,Cutting Finger Roll Layup Shot,3,4,36,True
+ETwaun Moore,1,5,30,1,Cutting Layup Shot,4,2,40,True
+ETwaun Moore,3,11,8,0,Cutting Layup Shot,2,22,1,True
+ETwaun Moore,2,5,34,0,Cutting Layup Shot,1,3,14,True
+ETwaun Moore,4,7,21,0,Cutting Layup Shot,1,16,1,True
+ETwaun Moore,2,10,57,1,Cutting Layup Shot,1,9,6,True
+ETwaun Moore,1,4,12,1,Cutting Layup Shot,0,-5,4,True
+ETwaun Moore,2,2,2,1,Cutting Layup Shot,1,16,8,True
+ETwaun Moore,3,9,34,1,Cutting Layup Shot,1,11,-3,True
+ETwaun Moore,1,5,39,0,Cutting Layup Shot,2,-6,25,True
+ETwaun Moore,3,9,53,1,Cutting Layup Shot,2,20,16,True
+ETwaun Moore,4,4,48,1,Cutting Layup Shot,1,0,15,True
+ETwaun Moore,2,5,42,1,Cutting Layup Shot,3,31,1,True
+ETwaun Moore,1,3,50,1,Cutting Layup Shot,2,-23,2,True
+ETwaun Moore,3,9,24,1,Cutting Layup Shot,1,-11,13,True
+ETwaun Moore,1,9,20,1,Cutting Layup Shot,1,6,17,True
+ETwaun Moore,3,5,42,1,Cutting Layup Shot,1,-8,10,True
+ETwaun Moore,3,9,45,1,Cutting Layup Shot,1,-14,6,True
+ETwaun Moore,2,0,1,1,Cutting Layup Shot,0,9,-4,True
+ETwaun Moore,4,9,42,1,Cutting Layup Shot,2,19,11,True
+ETwaun Moore,4,3,21,1,Cutting Layup Shot,1,2,13,True
+ETwaun Moore,3,5,24,1,Cutting Layup Shot,0,0,0,True
+ETwaun Moore,1,4,43,1,Driving Dunk Shot,1,-10,14,True
+ETwaun Moore,1,11,19,1,Driving Dunk Shot,0,-1,6,True
+ETwaun Moore,1,7,36,0,Driving Finger Roll Layup Shot,1,-2,13,True
+ETwaun Moore,1,5,4,1,Driving Finger Roll Layup Shot,2,-2,26,True
+ETwaun Moore,4,5,54,1,Driving Finger Roll Layup Shot,1,-12,4,True
+ETwaun Moore,2,2,23,1,Driving Finger Roll Layup Shot,3,4,34,True
+ETwaun Moore,1,5,39,0,Driving Finger Roll Layup Shot,4,-12,42,True
+ETwaun Moore,4,4,6,0,Driving Finger Roll Layup Shot,1,-19,1,True
+ETwaun Moore,3,8,46,1,Driving Finger Roll Layup Shot,6,1,64,True
+ETwaun Moore,3,3,6,1,Driving Finger Roll Layup Shot,1,0,14,True
+ETwaun Moore,2,5,36,0,Driving Finger Roll Layup Shot,2,-14,17,True
+ETwaun Moore,3,0,0,0,Driving Finger Roll Layup Shot,2,14,22,True
+ETwaun Moore,3,2,18,1,Driving Finger Roll Layup Shot,2,-19,8,True
+ETwaun Moore,2,5,29,0,Driving Finger Roll Layup Shot,1,-3,14,True
+ETwaun Moore,2,2,4,1,Driving Finger Roll Layup Shot,1,-10,17,True
+ETwaun Moore,2,5,11,1,Driving Finger Roll Layup Shot,0,-5,6,True
+ETwaun Moore,4,2,23,1,Driving Floating Bank Jump Shot,4,40,5,True
+ETwaun Moore,3,11,42,1,Driving Floating Bank Jump Shot,5,-24,50,True
+ETwaun Moore,2,9,30,1,Driving Floating Bank Jump Shot,2,-26,-4,True
+ETwaun Moore,4,2,8,1,Driving Floating Bank Jump Shot,13,50,125,True
+ETwaun Moore,1,2,8,1,Driving Floating Bank Jump Shot,5,49,31,True
+ETwaun Moore,4,11,12,1,Driving Floating Bank Jump Shot,12,119,37,True
+ETwaun Moore,2,5,39,0,Driving Floating Jump Shot,5,2,52,True
+ETwaun Moore,3,10,38,1,Driving Floating Jump Shot,8,22,85,True
+ETwaun Moore,1,6,39,1,Driving Floating Jump Shot,9,-51,84,True
+ETwaun Moore,3,2,14,0,Driving Floating Jump Shot,7,-79,5,True
+ETwaun Moore,1,5,17,1,Driving Floating Jump Shot,5,-18,55,True
+ETwaun Moore,4,1,25,0,Driving Floating Jump Shot,11,-42,110,True
+ETwaun Moore,3,5,33,1,Driving Floating Jump Shot,8,13,80,True
+ETwaun Moore,3,10,22,0,Driving Floating Jump Shot,7,-24,69,True
+ETwaun Moore,2,3,27,1,Driving Floating Jump Shot,6,60,35,True
+ETwaun Moore,3,9,17,1,Driving Floating Jump Shot,8,2,84,True
+ETwaun Moore,2,10,20,1,Driving Floating Jump Shot,5,-38,39,True
+ETwaun Moore,3,0,45,1,Driving Floating Jump Shot,9,19,88,True
+ETwaun Moore,3,4,20,1,Driving Floating Jump Shot,10,72,79,True
+ETwaun Moore,3,9,13,1,Driving Floating Jump Shot,1,-16,-1,True
+ETwaun Moore,2,6,59,1,Driving Floating Jump Shot,7,-1,75,True
+ETwaun Moore,3,10,39,1,Driving Floating Jump Shot,9,8,97,True
+ETwaun Moore,1,8,46,0,Driving Floating Jump Shot,9,-46,78,True
+ETwaun Moore,3,9,5,0,Driving Floating Jump Shot,5,9,55,True
+ETwaun Moore,1,8,12,0,Driving Floating Jump Shot,5,-33,47,True
+ETwaun Moore,1,11,45,0,Driving Floating Jump Shot,7,-2,79,True
+ETwaun Moore,3,9,13,0,Driving Floating Jump Shot,13,3,135,True
+ETwaun Moore,1,5,3,0,Driving Floating Jump Shot,6,-17,58,True
+ETwaun Moore,3,8,14,0,Driving Floating Jump Shot,12,-66,102,True
+ETwaun Moore,2,8,26,0,Driving Floating Jump Shot,12,-108,61,True
+ETwaun Moore,4,5,59,0,Driving Floating Jump Shot,5,6,55,True
+ETwaun Moore,3,9,59,1,Driving Floating Jump Shot,2,2,26,True
+ETwaun Moore,2,4,23,1,Driving Floating Jump Shot,11,19,110,True
+ETwaun Moore,3,10,55,1,Driving Floating Jump Shot,15,-114,109,True
+ETwaun Moore,3,2,24,0,Driving Floating Jump Shot,11,-49,104,True
+ETwaun Moore,2,5,48,1,Driving Floating Jump Shot,5,-7,57,True
+ETwaun Moore,4,5,21,0,Driving Floating Jump Shot,5,20,50,True
+ETwaun Moore,1,4,50,0,Driving Floating Jump Shot,0,7,-1,True
+ETwaun Moore,3,7,59,0,Driving Floating Jump Shot,7,35,61,True
+ETwaun Moore,4,6,2,1,Driving Layup Shot,1,-9,7,True
+ETwaun Moore,1,9,40,0,Driving Layup Shot,2,20,0,True
+ETwaun Moore,1,6,49,0,Driving Layup Shot,1,-14,6,True
+ETwaun Moore,1,6,57,1,Driving Layup Shot,0,9,-1,True
+ETwaun Moore,1,10,48,1,Driving Layup Shot,0,4,7,True
+ETwaun Moore,3,8,11,1,Driving Layup Shot,1,9,11,True
+ETwaun Moore,1,3,34,1,Driving Layup Shot,1,0,17,True
+ETwaun Moore,3,10,24,1,Driving Layup Shot,2,10,23,True
+ETwaun Moore,3,11,23,0,Driving Layup Shot,7,-67,30,True
+ETwaun Moore,1,8,12,0,Driving Layup Shot,2,-16,25,True
+ETwaun Moore,4,10,46,0,Driving Layup Shot,2,24,10,True
+ETwaun Moore,1,5,30,0,Driving Layup Shot,1,8,9,True
+ETwaun Moore,3,5,24,1,Driving Layup Shot,7,-14,73,True
+ETwaun Moore,3,9,58,1,Driving Layup Shot,6,-44,45,True
+ETwaun Moore,1,6,47,1,Driving Layup Shot,8,-39,76,True
+ETwaun Moore,2,3,4,0,Driving Layup Shot,7,-46,55,True
+ETwaun Moore,2,4,57,1,Driving Layup Shot,2,24,5,True
+ETwaun Moore,3,5,28,1,Driving Layup Shot,0,3,4,True
+ETwaun Moore,1,10,37,1,Driving Layup Shot,0,9,-3,True
+ETwaun Moore,2,2,58,1,Driving Layup Shot,6,19,64,True
+ETwaun Moore,4,8,18,1,Driving Layup Shot,6,6,63,True
+ETwaun Moore,2,0,0,1,Driving Layup Shot,5,-8,50,True
+ETwaun Moore,3,8,47,0,Driving Layup Shot,3,35,8,True
+ETwaun Moore,3,9,33,0,Driving Layup Shot,8,13,85,True
+ETwaun Moore,3,3,27,0,Driving Layup Shot,3,14,33,True
+ETwaun Moore,4,7,5,1,Driving Layup Shot,0,-3,6,True
+ETwaun Moore,1,5,32,0,Driving Layup Shot,2,27,-4,True
+ETwaun Moore,4,4,39,0,Driving Layup Shot,1,8,-6,True
+ETwaun Moore,1,8,2,1,Driving Layup Shot,7,-36,62,True
+ETwaun Moore,2,1,31,0,Driving Layup Shot,3,3,32,True
+ETwaun Moore,3,4,25,0,Driving Layup Shot,2,21,-1,True
+ETwaun Moore,3,4,53,0,Driving Layup Shot,2,23,9,True
+ETwaun Moore,3,0,39,1,Driving Layup Shot,4,28,35,True
+ETwaun Moore,1,6,27,1,Driving Layup Shot,0,9,4,True
+ETwaun Moore,3,6,51,0,Driving Layup Shot,5,42,32,True
+ETwaun Moore,4,10,2,0,Driving Layup Shot,1,8,13,True
+ETwaun Moore,2,7,51,1,Driving Layup Shot,2,-27,11,True
+ETwaun Moore,2,5,51,1,Driving Layup Shot,3,-33,13,True
+ETwaun Moore,2,1,12,1,Driving Reverse Layup Shot,0,3,9,True
+ETwaun Moore,4,1,11,1,Driving Reverse Layup Shot,2,24,8,True
+ETwaun Moore,2,7,29,0,Driving Reverse Layup Shot,2,-20,4,True
+ETwaun Moore,1,8,9,0,Driving Reverse Layup Shot,1,10,8,True
+ETwaun Moore,2,6,29,1,Driving Reverse Layup Shot,2,1,24,True
+ETwaun Moore,4,4,18,1,Driving Reverse Layup Shot,1,-17,-4,True
+ETwaun Moore,1,11,21,0,Driving Reverse Layup Shot,0,0,9,True
+ETwaun Moore,1,5,6,1,Dunk Shot,1,-8,6,True
+ETwaun Moore,3,11,23,0,Fadeaway Jump Shot,6,-68,11,True
+ETwaun Moore,3,2,11,1,Fadeaway Jump Shot,7,53,59,True
+ETwaun Moore,4,11,45,1,Fadeaway Jump Shot,9,-7,92,True
+ETwaun Moore,1,1,45,0,Fadeaway Jump Shot,11,46,110,True
+ETwaun Moore,4,3,10,1,Fadeaway Jump Shot,12,-96,85,True
+ETwaun Moore,3,5,25,0,Fadeaway Jump Shot,14,-43,138,True
+ETwaun Moore,3,4,24,0,Finger Roll Layup Shot,3,-7,38,True
+ETwaun Moore,2,6,44,1,Finger Roll Layup Shot,1,2,17,True
+ETwaun Moore,1,8,4,0,Finger Roll Layup Shot,1,9,13,True
+ETwaun Moore,3,7,51,1,Finger Roll Layup Shot,1,-5,17,True
+ETwaun Moore,4,4,1,1,Finger Roll Layup Shot,3,1,37,True
+ETwaun Moore,3,7,2,1,Finger Roll Layup Shot,1,-5,17,True
+ETwaun Moore,2,4,15,0,Floating Jump shot,12,52,116,True
+ETwaun Moore,2,8,1,0,Floating Jump shot,3,25,17,True
+ETwaun Moore,3,9,45,0,Floating Jump shot,8,-11,84,True
+ETwaun Moore,3,0,0,0,Floating Jump shot,18,108,146,True
+ETwaun Moore,4,4,51,1,Floating Jump shot,6,14,68,True
+ETwaun Moore,2,2,24,0,Floating Jump shot,6,-65,23,True
+ETwaun Moore,1,10,59,0,Floating Jump shot,4,15,41,True
+ETwaun Moore,3,3,31,0,Floating Jump shot,9,-16,90,True
+ETwaun Moore,2,0,44,0,Floating Jump shot,9,1,95,True
+ETwaun Moore,1,11,28,1,Floating Jump shot,3,-11,34,True
+ETwaun Moore,4,11,2,1,Floating Jump shot,11,50,106,True
+ETwaun Moore,2,1,12,1,Floating Jump shot,4,32,26,True
+ETwaun Moore,1,5,24,1,Floating Jump shot,5,24,54,True
+ETwaun Moore,4,10,51,1,Floating Jump shot,14,-101,106,True
+ETwaun Moore,1,8,12,0,Floating Jump shot,8,6,86,True
+ETwaun Moore,3,10,50,0,Floating Jump shot,7,-13,75,True
+ETwaun Moore,2,2,34,1,Floating Jump shot,8,-12,89,True
+ETwaun Moore,4,5,14,1,Floating Jump shot,12,28,120,True
+ETwaun Moore,4,9,38,1,Floating Jump shot,7,-9,78,True
+ETwaun Moore,4,8,43,1,Floating Jump shot,8,-28,80,True
+ETwaun Moore,4,4,13,0,Floating Jump shot,8,2,89,True
+ETwaun Moore,2,3,14,1,Floating Jump shot,5,5,57,True
+ETwaun Moore,4,3,4,1,Floating Jump shot,10,106,17,True
+ETwaun Moore,4,0,9,0,Floating Jump shot,10,14,104,True
+ETwaun Moore,2,2,20,0,Floating Jump shot,4,43,6,True
+ETwaun Moore,2,2,54,1,Floating Jump shot,9,-6,90,True
+ETwaun Moore,1,10,42,0,Floating Jump shot,2,-28,6,True
+ETwaun Moore,4,4,39,1,Floating Jump shot,12,-32,117,True
+ETwaun Moore,1,4,24,1,Floating Jump shot,11,113,2,True
+ETwaun Moore,2,6,0,1,Floating Jump shot,8,-29,80,True
+ETwaun Moore,1,9,8,1,Floating Jump shot,14,-141,49,True
+ETwaun Moore,1,11,23,0,Floating Jump shot,1,-9,13,True
+ETwaun Moore,4,5,13,1,Floating Jump shot,7,7,75,True
+ETwaun Moore,1,5,38,0,Floating Jump shot,6,-60,11,True
+ETwaun Moore,3,6,36,1,Floating Jump shot,9,46,82,True
+ETwaun Moore,2,10,0,1,Floating Jump shot,7,-11,78,True
+ETwaun Moore,2,0,24,1,Floating Jump shot,5,-52,15,True
+ETwaun Moore,1,10,42,0,Floating Jump shot,12,-55,109,True
+ETwaun Moore,3,3,39,1,Floating Jump shot,10,-14,100,True
+ETwaun Moore,2,11,46,1,Floating Jump shot,8,-2,88,True
+ETwaun Moore,2,5,59,1,Floating Jump shot,7,11,73,True
+ETwaun Moore,1,7,49,1,Floating Jump shot,5,-15,55,True
+ETwaun Moore,1,7,57,0,Floating Jump shot,7,2,72,True
+ETwaun Moore,2,1,53,0,Floating Jump shot,7,-12,73,True
+ETwaun Moore,3,1,59,1,Floating Jump shot,9,56,73,True
+ETwaun Moore,3,5,30,1,Floating Jump shot,9,29,88,True
+ETwaun Moore,4,10,47,1,Floating Jump shot,10,11,103,True
+ETwaun Moore,4,7,13,0,Floating Jump shot,8,-25,78,True
+ETwaun Moore,2,6,16,1,Floating Jump shot,5,15,55,True
+ETwaun Moore,3,9,34,1,Floating Jump shot,8,33,80,True
+ETwaun Moore,4,3,55,0,Floating Jump shot,0,2,8,True
+ETwaun Moore,2,10,16,1,Floating Jump shot,9,-7,91,True
+ETwaun Moore,2,1,24,1,Floating Jump shot,7,-3,74,True
+ETwaun Moore,3,11,46,0,Hook Shot,7,-16,73,True
+ETwaun Moore,2,7,40,0,Hook Shot,7,0,72,True
+ETwaun Moore,3,10,21,1,Hook Shot,18,-73,169,True
+ETwaun Moore,3,11,49,0,Hook Shot,14,18,143,True
+ETwaun Moore,3,9,18,1,Hook Shot,6,-67,0,True
+ETwaun Moore,2,6,46,0,Hook Shot,6,2,64,True
+ETwaun Moore,2,7,40,0,Hook Shot,6,13,66,True
+ETwaun Moore,4,5,23,1,Hook Shot,8,-82,20,True
+ETwaun Moore,3,0,44,1,Jump Bank Shot,14,-82,125,True
+ETwaun Moore,2,5,23,1,Jump Bank Shot,4,-31,39,True
+ETwaun Moore,4,8,9,0,Jump Shot,25,-188,173,False
+ETwaun Moore,3,5,39,0,Jump Shot,30,-144,270,False
+ETwaun Moore,4,8,34,0,Jump Shot,15,54,144,True
+ETwaun Moore,1,8,33,1,Jump Shot,26,-37,260,False
+ETwaun Moore,2,5,2,1,Jump Shot,19,123,150,True
+ETwaun Moore,3,10,6,0,Jump Shot,18,162,96,True
+ETwaun Moore,2,6,28,0,Jump Shot,24,229,88,False
+ETwaun Moore,2,5,43,0,Jump Shot,25,-187,179,False
+ETwaun Moore,2,2,19,1,Jump Shot,25,-138,220,False
+ETwaun Moore,3,8,55,0,Jump Shot,24,-143,197,False
+ETwaun Moore,3,6,6,0,Jump Shot,23,231,9,False
+ETwaun Moore,4,0,39,0,Jump Shot,25,-37,251,False
+ETwaun Moore,1,6,38,1,Jump Shot,24,162,189,False
+ETwaun Moore,1,5,22,0,Jump Shot,26,160,209,False
+ETwaun Moore,1,7,48,1,Jump Shot,23,234,27,False
+ETwaun Moore,4,0,10,0,Jump Shot,28,-192,205,False
+ETwaun Moore,3,1,38,0,Jump Shot,28,-126,256,False
+ETwaun Moore,4,0,3,0,Jump Shot,28,-104,269,False
+ETwaun Moore,1,11,20,0,Jump Shot,28,89,272,False
+ETwaun Moore,1,9,20,1,Jump Shot,6,-43,50,True
+ETwaun Moore,3,8,17,1,Jump Shot,26,86,252,False
+ETwaun Moore,2,7,28,0,Jump Shot,23,-232,24,False
+ETwaun Moore,2,1,13,0,Jump Shot,26,209,162,False
+ETwaun Moore,1,6,27,1,Jump Shot,19,90,173,True
+ETwaun Moore,4,8,2,1,Jump Shot,25,-161,199,False
+ETwaun Moore,4,6,1,0,Jump Shot,24,231,95,False
+ETwaun Moore,3,7,14,0,Jump Shot,23,232,38,False
+ETwaun Moore,2,6,57,1,Jump Shot,25,-128,220,False
+ETwaun Moore,4,11,23,0,Jump Shot,23,-233,4,False
+ETwaun Moore,2,4,3,1,Jump Shot,26,200,172,False
+ETwaun Moore,1,6,43,1,Jump Shot,22,-228,17,False
+ETwaun Moore,2,6,54,0,Jump Shot,24,68,239,False
+ETwaun Moore,4,9,33,0,Jump Shot,25,223,131,False
+ETwaun Moore,1,6,12,1,Jump Shot,26,-228,130,False
+ETwaun Moore,3,11,16,0,Jump Shot,11,99,52,True
+ETwaun Moore,3,9,35,1,Jump Shot,25,235,101,False
+ETwaun Moore,4,11,43,0,Jump Shot,16,58,155,True
+ETwaun Moore,2,4,8,0,Jump Shot,14,-68,131,True
+ETwaun Moore,3,6,54,1,Jump Shot,24,174,170,False
+ETwaun Moore,4,4,41,0,Jump Shot,25,194,165,False
+ETwaun Moore,2,6,4,0,Jump Shot,13,-65,116,True
+ETwaun Moore,4,5,36,1,Jump Shot,26,-19,264,False
+ETwaun Moore,1,10,2,0,Jump Shot,25,-222,126,False
+ETwaun Moore,1,9,52,0,Jump Shot,25,210,151,False
+ETwaun Moore,2,3,19,0,Jump Shot,22,-224,11,False
+ETwaun Moore,4,8,50,0,Jump Shot,22,228,-5,False
+ETwaun Moore,2,2,19,0,Jump Shot,24,223,104,False
+ETwaun Moore,1,7,22,1,Jump Shot,11,-118,-6,True
+ETwaun Moore,2,1,36,1,Jump Shot,1,-5,14,True
+ETwaun Moore,2,2,13,0,Jump Shot,10,79,74,True
+ETwaun Moore,1,3,7,0,Jump Shot,24,220,108,False
+ETwaun Moore,3,0,33,0,Jump Shot,26,-132,227,False
+ETwaun Moore,4,1,12,1,Jump Shot,24,-226,106,False
+ETwaun Moore,1,9,28,0,Jump Shot,23,229,22,False
+ETwaun Moore,2,3,18,1,Jump Shot,23,-232,35,False
+ETwaun Moore,2,1,19,0,Jump Shot,23,237,-4,False
+ETwaun Moore,3,0,0,0,Jump Shot,34,-50,337,False
+ETwaun Moore,1,10,48,1,Jump Shot,27,13,278,False
+ETwaun Moore,1,8,0,0,Jump Shot,24,-225,85,False
+ETwaun Moore,1,6,18,0,Jump Shot,23,232,42,False
+ETwaun Moore,1,3,1,0,Jump Shot,26,-109,241,False
+ETwaun Moore,4,0,14,0,Jump Shot,10,-73,80,True
+ETwaun Moore,3,3,52,1,Jump Shot,23,-236,26,False
+ETwaun Moore,5,1,44,0,Jump Shot,25,-102,232,False
+ETwaun Moore,3,1,45,1,Jump Shot,26,229,131,False
+ETwaun Moore,1,8,29,0,Jump Shot,26,95,244,False
+ETwaun Moore,4,2,51,1,Jump Shot,24,168,185,False
+ETwaun Moore,1,11,13,0,Jump Shot,23,-232,60,False
+ETwaun Moore,1,8,36,1,Jump Shot,23,-229,26,False
+ETwaun Moore,3,10,56,0,Jump Shot,24,235,61,False
+ETwaun Moore,4,3,16,1,Jump Shot,12,-125,-11,True
+ETwaun Moore,3,9,33,0,Jump Shot,10,19,103,True
+ETwaun Moore,1,7,36,0,Jump Shot,25,-173,183,False
+ETwaun Moore,3,9,47,0,Jump Shot,25,-229,116,False
+ETwaun Moore,4,7,1,0,Jump Shot,24,-182,164,False
+ETwaun Moore,2,0,51,1,Jump Shot,21,-218,-8,False
+ETwaun Moore,1,4,12,1,Jump Shot,23,228,48,False
+ETwaun Moore,4,8,53,0,Jump Shot,22,225,38,False
+ETwaun Moore,3,5,57,0,Jump Shot,26,58,260,False
+ETwaun Moore,3,10,36,1,Jump Shot,15,12,156,True
+ETwaun Moore,1,6,55,0,Jump Shot,15,-18,151,True
+ETwaun Moore,3,4,20,0,Jump Shot,21,185,101,True
+ETwaun Moore,2,0,58,0,Jump Shot,4,19,44,True
+ETwaun Moore,2,1,18,0,Jump Shot,25,103,238,False
+ETwaun Moore,3,6,26,1,Jump Shot,22,-229,1,False
+ETwaun Moore,4,5,15,1,Jump Shot,22,-229,-9,False
+ETwaun Moore,3,3,12,0,Jump Shot,7,-54,49,True
+ETwaun Moore,4,4,52,0,Jump Shot,26,-9,264,False
+ETwaun Moore,1,8,47,0,Jump Shot,25,187,170,False
+ETwaun Moore,3,10,48,1,Jump Shot,25,-68,243,False
+ETwaun Moore,4,6,44,0,Jump Shot,21,201,87,True
+ETwaun Moore,2,8,4,1,Jump Shot,22,227,-6,False
+ETwaun Moore,3,8,58,1,Jump Shot,25,-128,216,False
+ETwaun Moore,1,9,51,1,Jump Shot,22,227,12,False
+ETwaun Moore,1,3,29,0,Jump Shot,25,-215,132,False
+ETwaun Moore,3,7,24,0,Jump Shot,26,180,190,False
+ETwaun Moore,2,1,22,1,Jump Shot,23,-231,-9,False
+ETwaun Moore,1,5,22,1,Jump Shot,23,-128,193,True
+ETwaun Moore,1,11,21,1,Jump Shot,24,-219,112,False
+ETwaun Moore,1,4,53,0,Jump Shot,23,-231,-3,False
+ETwaun Moore,3,8,59,0,Jump Shot,23,229,69,False
+ETwaun Moore,4,1,40,1,Jump Shot,22,-165,153,True
+ETwaun Moore,3,3,1,0,Jump Shot,26,122,237,False
+ETwaun Moore,3,10,14,0,Jump Shot,24,132,209,False
+ETwaun Moore,4,0,17,0,Jump Shot,22,-226,34,False
+ETwaun Moore,1,9,36,0,Jump Shot,6,63,17,True
+ETwaun Moore,3,0,31,0,Jump Shot,15,-158,22,True
+ETwaun Moore,3,2,44,0,Jump Shot,22,-229,20,False
+ETwaun Moore,3,9,26,0,Jump Shot,25,129,215,False
+ETwaun Moore,3,3,28,0,Jump Shot,19,-152,120,True
+ETwaun Moore,2,1,33,1,Jump Shot,25,17,250,False
+ETwaun Moore,1,4,10,0,Jump Shot,24,237,48,False
+ETwaun Moore,6,2,11,1,Jump Shot,25,-198,156,False
+ETwaun Moore,1,2,44,0,Jump Shot,4,-35,33,True
+ETwaun Moore,2,0,33,1,Jump Shot,23,-229,28,False
+ETwaun Moore,4,4,53,0,Jump Shot,24,-187,159,False
+ETwaun Moore,1,6,3,0,Jump Shot,23,237,-11,False
+ETwaun Moore,3,3,52,0,Jump Shot,10,-13,105,True
+ETwaun Moore,1,3,49,0,Jump Shot,22,-225,31,False
+ETwaun Moore,2,3,53,0,Jump Shot,22,226,32,False
+ETwaun Moore,4,4,19,0,Jump Shot,22,-226,9,False
+ETwaun Moore,1,8,30,1,Jump Shot,24,233,71,False
+ETwaun Moore,1,2,12,0,Jump Shot,25,-198,168,False
+ETwaun Moore,3,7,27,0,Jump Shot,25,234,96,False
+ETwaun Moore,1,9,21,1,Jump Shot,23,231,0,False
+ETwaun Moore,2,8,57,1,Jump Shot,23,-230,54,False
+ETwaun Moore,2,4,14,1,Jump Shot,22,-229,-6,False
+ETwaun Moore,3,7,26,0,Jump Shot,24,-196,151,False
+ETwaun Moore,3,4,18,1,Jump Shot,23,-230,40,False
+ETwaun Moore,1,6,17,0,Jump Shot,24,-198,139,False
+ETwaun Moore,1,6,58,1,Jump Shot,24,-94,226,False
+ETwaun Moore,3,4,41,1,Jump Shot,24,155,195,False
+ETwaun Moore,2,1,0,1,Jump Shot,22,-228,11,False
+ETwaun Moore,4,5,58,1,Jump Shot,23,-234,10,False
+ETwaun Moore,2,3,26,0,Jump Shot,24,222,110,False
+ETwaun Moore,3,1,27,0,Jump Shot,19,68,187,True
+ETwaun Moore,3,5,45,0,Jump Shot,16,-107,132,True
+ETwaun Moore,4,0,44,0,Jump Shot,25,66,250,False
+ETwaun Moore,1,7,46,0,Jump Shot,24,209,130,False
+ETwaun Moore,1,6,18,0,Jump Shot,22,-223,46,False
+ETwaun Moore,3,7,49,1,Jump Shot,22,-226,42,False
+ETwaun Moore,1,7,26,1,Jump Shot,24,161,188,False
+ETwaun Moore,2,2,37,0,Jump Shot,26,-145,225,False
+ETwaun Moore,3,5,52,0,Jump Shot,24,-237,67,False
+ETwaun Moore,3,7,18,0,Jump Shot,19,125,151,True
+ETwaun Moore,4,2,52,0,Jump Shot,22,222,6,False
+ETwaun Moore,4,4,3,1,Jump Shot,23,231,12,False
+ETwaun Moore,1,4,2,0,Jump Shot,24,221,101,False
+ETwaun Moore,2,1,13,1,Jump Shot,23,-230,-26,False
+ETwaun Moore,1,6,49,1,Jump Shot,25,166,194,False
+ETwaun Moore,1,10,0,1,Jump Shot,25,-161,198,False
+ETwaun Moore,3,6,14,0,Jump Shot,25,8,259,False
+ETwaun Moore,4,0,0,0,Jump Shot,25,141,214,False
+ETwaun Moore,5,0,28,0,Jump Shot,20,-208,4,True
+ETwaun Moore,1,6,22,0,Jump Shot,22,208,75,True
+ETwaun Moore,3,4,35,0,Jump Shot,23,-230,-5,False
+ETwaun Moore,3,5,29,0,Jump Shot,25,-106,232,False
+ETwaun Moore,2,0,31,1,Jump Shot,23,230,8,False
+ETwaun Moore,1,10,59,0,Jump Shot,23,-235,44,False
+ETwaun Moore,4,6,38,1,Jump Shot,22,-228,-12,False
+ETwaun Moore,2,4,0,0,Jump Shot,23,-234,-15,False
+ETwaun Moore,4,0,0,0,Jump Shot,26,-131,232,False
+ETwaun Moore,1,4,19,0,Jump Shot,25,-231,102,False
+ETwaun Moore,3,10,13,1,Jump Shot,24,-233,89,False
+ETwaun Moore,3,4,4,0,Jump Shot,23,-236,10,False
+ETwaun Moore,3,5,53,0,Jump Shot,25,-128,217,False
+ETwaun Moore,4,0,19,1,Jump Shot,23,-230,28,False
+ETwaun Moore,1,1,25,0,Jump Shot,26,195,179,False
+ETwaun Moore,2,1,28,0,Jump Shot,11,-114,6,True
+ETwaun Moore,3,7,48,0,Jump Shot,24,130,211,False
+ETwaun Moore,1,4,32,0,Jump Shot,25,-120,230,False
+ETwaun Moore,2,4,13,1,Jump Shot,23,-225,50,False
+ETwaun Moore,2,2,27,0,Jump Shot,22,-183,128,True
+ETwaun Moore,3,10,8,1,Jump Shot,25,-3,251,False
+ETwaun Moore,1,6,5,1,Jump Shot,25,150,206,False
+ETwaun Moore,4,3,38,0,Jump Shot,24,231,68,False
+ETwaun Moore,4,2,30,0,Jump Shot,11,4,112,True
+ETwaun Moore,4,8,43,1,Jump Shot,24,233,68,False
+ETwaun Moore,1,8,40,1,Jump Shot,24,195,156,False
+ETwaun Moore,2,0,0,0,Jump Shot,18,138,126,True
+ETwaun Moore,1,10,59,0,Jump Shot,8,-63,58,True
+ETwaun Moore,3,2,34,0,Jump Shot,22,-223,-8,False
+ETwaun Moore,2,7,7,1,Jump Shot,25,-143,211,False
+ETwaun Moore,3,6,8,0,Jump Shot,23,226,49,False
+ETwaun Moore,2,5,42,0,Jump Shot,26,147,224,False
+ETwaun Moore,4,7,45,0,Jump Shot,25,-245,63,False
+ETwaun Moore,1,7,19,1,Jump Shot,25,204,151,False
+ETwaun Moore,2,8,38,0,Jump Shot,25,-220,128,False
+ETwaun Moore,4,10,55,0,Jump Shot,23,-234,45,False
+ETwaun Moore,3,9,55,1,Jump Shot,25,122,222,False
+ETwaun Moore,1,10,5,1,Jump Shot,23,-239,2,False
+ETwaun Moore,1,3,57,1,Jump Shot,23,-230,10,False
+ETwaun Moore,1,6,46,1,Jump Shot,25,-160,199,False
+ETwaun Moore,2,4,21,1,Jump Shot,24,-226,83,False
+ETwaun Moore,2,7,32,1,Jump Shot,23,230,27,False
+ETwaun Moore,1,9,7,1,Jump Shot,9,-44,82,True
+ETwaun Moore,1,7,40,1,Jump Shot,26,119,235,False
+ETwaun Moore,2,2,14,0,Jump Shot,25,121,220,False
+ETwaun Moore,2,0,1,1,Jump Shot,24,-184,163,False
+ETwaun Moore,4,11,16,1,Jump Shot,22,226,2,False
+ETwaun Moore,4,4,16,0,Jump Shot,18,-181,28,True
+ETwaun Moore,1,10,22,0,Jump Shot,23,-232,3,False
+ETwaun Moore,1,1,30,0,Jump Shot,21,-122,179,True
+ETwaun Moore,4,1,52,0,Jump Shot,16,-165,21,True
+ETwaun Moore,1,0,26,0,Jump Shot,7,58,48,True
+ETwaun Moore,2,1,56,0,Jump Shot,26,-187,181,False
+ETwaun Moore,3,6,18,0,Jump Shot,23,236,4,False
+ETwaun Moore,4,7,41,0,Jump Shot,23,234,24,False
+ETwaun Moore,4,6,5,1,Jump Shot,25,121,229,False
+ETwaun Moore,2,0,55,1,Jump Shot,23,232,-5,False
+ETwaun Moore,3,10,51,1,Jump Shot,24,-234,79,False
+ETwaun Moore,1,2,29,1,Jump Shot,22,-54,220,True
+ETwaun Moore,3,9,27,0,Jump Shot,25,121,226,False
+ETwaun Moore,1,9,15,1,Jump Shot,22,-229,2,False
+ETwaun Moore,1,9,17,1,Jump Shot,25,84,241,False
+ETwaun Moore,3,8,26,1,Jump Shot,25,-166,189,False
+ETwaun Moore,2,0,46,1,Jump Shot,24,-193,156,False
+ETwaun Moore,3,9,20,1,Jump Shot,24,201,134,False
+ETwaun Moore,3,5,39,1,Jump Shot,24,-144,204,False
+ETwaun Moore,1,10,25,1,Jump Shot,23,152,179,True
+ETwaun Moore,1,1,17,1,Jump Shot,23,232,3,False
+ETwaun Moore,3,3,45,0,Jump Shot,22,228,21,False
+ETwaun Moore,1,0,45,0,Jump Shot,24,-174,179,False
+ETwaun Moore,4,0,26,1,Jump Shot,25,-132,220,False
+ETwaun Moore,1,7,1,0,Jump Shot,22,225,-5,False
+ETwaun Moore,1,3,1,0,Jump Shot,25,183,175,False
+ETwaun Moore,1,5,47,0,Jump Shot,23,-229,36,False
+ETwaun Moore,3,10,51,0,Jump Shot,25,82,239,False
+ETwaun Moore,1,4,46,1,Jump Shot,22,-227,-2,False
+ETwaun Moore,3,10,27,0,Jump Shot,24,211,127,False
+ETwaun Moore,3,4,27,0,Jump Shot,26,184,195,False
+ETwaun Moore,1,10,20,0,Jump Shot,23,-232,14,False
+ETwaun Moore,3,9,31,0,Jump Shot,24,-221,101,False
+ETwaun Moore,3,6,57,0,Jump Shot,11,-111,-8,True
+ETwaun Moore,1,10,34,0,Jump Shot,25,-177,186,False
+ETwaun Moore,2,3,50,1,Jump Shot,22,-206,80,True
+ETwaun Moore,4,7,16,0,Jump Shot,23,231,34,False
+ETwaun Moore,3,3,54,1,Jump Shot,25,-146,214,False
+ETwaun Moore,2,3,33,1,Jump Shot,25,-135,220,False
+ETwaun Moore,4,10,55,1,Jump Shot,23,-232,8,False
+ETwaun Moore,4,5,8,0,Jump Shot,21,166,139,True
+ETwaun Moore,1,3,11,0,Jump Shot,23,-232,4,False
+ETwaun Moore,4,9,11,0,Jump Shot,24,-209,137,False
+ETwaun Moore,4,11,43,1,Jump Shot,23,-225,57,False
+ETwaun Moore,3,0,0,0,Jump Shot,20,-33,201,True
+ETwaun Moore,2,1,3,0,Jump Shot,24,195,151,False
+ETwaun Moore,2,1,54,1,Jump Shot,25,-92,239,False
+ETwaun Moore,2,8,31,0,Jump Shot,25,222,121,False
+ETwaun Moore,3,7,25,1,Jump Shot,22,223,33,False
+ETwaun Moore,1,9,52,1,Jump Shot,5,-8,51,True
+ETwaun Moore,2,4,25,0,Jump Shot,22,149,166,True
+ETwaun Moore,4,3,6,0,Jump Shot,25,-134,220,False
+ETwaun Moore,1,8,15,0,Jump Shot,13,12,132,True
+ETwaun Moore,1,9,2,0,Jump Shot,22,-225,0,False
+ETwaun Moore,2,1,14,1,Jump Shot,23,229,24,False
+ETwaun Moore,1,11,4,0,Jump Shot,23,230,58,False
+ETwaun Moore,4,4,37,1,Jump Shot,21,-112,189,True
+ETwaun Moore,2,1,15,1,Jump Shot,8,-50,69,True
+ETwaun Moore,4,6,21,0,Jump Shot,18,136,121,True
+ETwaun Moore,1,9,31,1,Jump Shot,12,-92,81,True
+ETwaun Moore,2,0,35,1,Jump Shot,8,80,11,True
+ETwaun Moore,1,9,15,0,Jump Shot,23,-236,32,False
+ETwaun Moore,4,3,27,1,Jump Shot,10,9,105,True
+ETwaun Moore,3,3,2,1,Jump Shot,22,-204,85,True
+ETwaun Moore,1,9,7,1,Jump Shot,25,161,201,False
+ETwaun Moore,3,9,8,1,Jump Shot,26,-33,267,False
+ETwaun Moore,3,5,32,0,Jump Shot,27,-117,252,False
+ETwaun Moore,4,8,22,0,Jump Shot,27,-175,218,False
+ETwaun Moore,1,4,23,1,Jump Shot,22,-228,-20,False
+ETwaun Moore,3,10,28,0,Jump Shot,22,-221,37,False
+ETwaun Moore,1,6,56,0,Jump Shot,25,107,227,False
+ETwaun Moore,1,2,36,0,Jump Shot,19,-191,26,True
+ETwaun Moore,4,2,49,0,Jump Shot,24,-209,130,False
+ETwaun Moore,4,6,58,0,Jump Shot,25,56,246,False
+ETwaun Moore,4,0,49,0,Jump Shot,25,183,177,False
+ETwaun Moore,3,2,18,0,Jump Shot,25,155,197,False
+ETwaun Moore,3,10,51,0,Jump Shot,23,231,20,False
+ETwaun Moore,2,1,57,0,Jump Shot,25,115,225,False
+ETwaun Moore,2,2,31,1,Jump Shot,24,38,242,False
+ETwaun Moore,2,8,57,0,Jump Shot,21,210,22,True
+ETwaun Moore,3,4,22,1,Jump Shot,20,205,-6,True
+ETwaun Moore,2,3,31,1,Jump Shot,25,-147,212,False
+ETwaun Moore,3,5,22,0,Jump Shot,8,14,88,True
+ETwaun Moore,1,10,42,0,Jump Shot,26,-155,210,False
+ETwaun Moore,2,2,19,0,Jump Shot,10,-67,84,True
+ETwaun Moore,4,9,58,0,Jump Shot,26,68,255,False
+ETwaun Moore,4,5,2,0,Jump Shot,25,94,236,False
+ETwaun Moore,1,8,49,1,Jump Shot,6,-63,8,True
+ETwaun Moore,1,10,2,0,Jump Shot,10,-38,100,True
+ETwaun Moore,4,3,55,0,Jump Shot,11,13,111,True
+ETwaun Moore,1,5,30,0,Jump Shot,14,84,123,True
+ETwaun Moore,4,10,23,0,Jump Shot,8,22,78,True
+ETwaun Moore,1,6,8,0,Jump Shot,6,-1,63,True
+ETwaun Moore,2,0,24,1,Jump Shot,26,182,190,False
+ETwaun Moore,2,10,39,1,Jump Shot,24,-237,49,False
+ETwaun Moore,2,8,16,0,Jump Shot,25,226,116,False
+ETwaun Moore,1,9,28,1,Jump Shot,27,-210,173,False
+ETwaun Moore,3,11,32,0,Jump Shot,16,141,78,True
+ETwaun Moore,3,4,43,0,Jump Shot,25,135,218,False
+ETwaun Moore,1,8,43,1,Jump Shot,23,-230,38,False
+ETwaun Moore,2,5,24,0,Jump Shot,25,-127,216,False
+ETwaun Moore,1,9,3,0,Jump Shot,4,41,20,True
+ETwaun Moore,3,5,1,0,Jump Shot,22,-227,21,False
+ETwaun Moore,4,3,57,1,Jump Shot,23,-230,15,False
+ETwaun Moore,2,1,39,0,Jump Shot,21,-143,160,True
+ETwaun Moore,1,7,42,0,Jump Shot,25,-150,200,False
+ETwaun Moore,2,2,2,1,Jump Shot,22,226,32,False
+ETwaun Moore,3,6,51,0,Jump Shot,24,119,217,False
+ETwaun Moore,2,2,8,1,Jump Shot,25,-165,199,False
+ETwaun Moore,2,4,39,1,Jump Shot,25,-106,232,False
+ETwaun Moore,3,5,13,0,Jump Shot,22,228,30,False
+ETwaun Moore,4,4,46,1,Jump Shot,25,95,242,False
+ETwaun Moore,2,4,4,1,Jump Shot,22,226,42,False
+ETwaun Moore,3,3,23,1,Jump Shot,23,-231,19,False
+ETwaun Moore,2,7,46,0,Jump Shot,25,-190,169,False
+ETwaun Moore,3,8,52,0,Jump Shot,24,237,61,False
+ETwaun Moore,3,8,39,0,Jump Shot,25,172,188,False
+ETwaun Moore,4,0,53,0,Jump Shot,4,22,43,True
+ETwaun Moore,4,3,12,0,Jump Shot,6,2,63,True
+ETwaun Moore,2,3,42,1,Jump Shot,23,-232,1,False
+ETwaun Moore,3,9,16,1,Jump Shot,23,-234,13,False
+ETwaun Moore,2,3,29,1,Jump Shot,22,229,17,False
+ETwaun Moore,3,8,10,0,Jump Shot,23,230,53,False
+ETwaun Moore,4,11,37,0,Jump Shot,23,-230,27,False
+ETwaun Moore,2,0,41,1,Jump Shot,25,118,223,False
+ETwaun Moore,1,10,48,1,Jump Shot,23,-235,10,False
+ETwaun Moore,4,0,49,1,Jump Shot,22,-167,158,True
+ETwaun Moore,1,10,28,0,Jump Shot,23,230,-5,False
+ETwaun Moore,3,5,47,1,Jump Shot,24,235,56,False
+ETwaun Moore,4,1,8,1,Jump Shot,25,-205,156,False
+ETwaun Moore,2,7,46,1,Jump Shot,23,-230,2,False
+ETwaun Moore,1,11,43,1,Layup Shot,3,-3,37,True
+ETwaun Moore,1,9,40,1,Layup Shot,1,8,8,True
+ETwaun Moore,5,0,27,1,Layup Shot,0,-2,4,True
+ETwaun Moore,4,0,41,1,Layup Shot,0,-7,5,True
+ETwaun Moore,4,6,28,0,Layup Shot,4,30,33,True
+ETwaun Moore,3,3,3,0,Layup Shot,1,4,11,True
+ETwaun Moore,4,11,18,0,Layup Shot,6,-45,52,True
+ETwaun Moore,1,11,47,1,Layup Shot,5,14,48,True
+ETwaun Moore,3,6,53,1,Layup Shot,0,-9,4,True
+ETwaun Moore,2,3,32,1,Layup Shot,3,30,-4,True
+ETwaun Moore,4,9,32,0,Layup Shot,1,11,8,True
+ETwaun Moore,3,3,32,0,Layup Shot,0,7,-2,True
+ETwaun Moore,3,7,32,1,Layup Shot,1,-6,10,True
+ETwaun Moore,4,11,52,1,Layup Shot,2,18,11,True
+ETwaun Moore,2,6,48,1,Layup Shot,3,-8,39,True
+ETwaun Moore,1,1,53,1,Layup Shot,1,-15,10,True
+ETwaun Moore,3,6,5,0,Layup Shot,1,-17,-1,True
+ETwaun Moore,1,5,3,0,Layup Shot,1,11,5,True
+ETwaun Moore,4,1,42,1,Layup Shot,5,23,46,True
+ETwaun Moore,1,4,4,1,Layup Shot,1,10,4,True
+ETwaun Moore,4,9,39,0,Layup Shot,1,-12,10,True
+ETwaun Moore,4,5,23,1,Layup Shot,4,7,48,True
+ETwaun Moore,3,10,26,1,Layup Shot,1,0,15,True
+ETwaun Moore,3,8,59,0,Layup Shot,4,3,47,True
+ETwaun Moore,1,8,46,1,Layup Shot,3,-8,39,True
+ETwaun Moore,2,0,53,1,Layup Shot,0,3,5,True
+ETwaun Moore,2,3,47,1,Layup Shot,1,-18,3,True
+ETwaun Moore,2,10,35,1,Layup Shot,1,5,15,True
+ETwaun Moore,1,4,15,1,Layup Shot,2,-8,27,True
+ETwaun Moore,1,5,43,0,Layup Shot,0,0,8,True
+ETwaun Moore,3,2,0,1,Layup Shot,2,-16,23,True
+ETwaun Moore,3,4,28,1,Layup Shot,1,-2,10,True
+ETwaun Moore,4,9,26,0,Layup Shot,6,26,55,True
+ETwaun Moore,3,10,10,1,Layup Shot,1,13,-1,True
+ETwaun Moore,4,11,42,1,Layup Shot,7,-4,79,True
+ETwaun Moore,3,8,24,0,Layup Shot,4,38,20,True
+ETwaun Moore,1,9,0,0,Layup Shot,5,-59,-4,True
+ETwaun Moore,3,9,19,1,Layup Shot,7,33,67,True
+ETwaun Moore,3,4,39,1,Layup Shot,3,-17,32,True
+ETwaun Moore,4,1,24,1,Layup Shot,1,-11,4,True
+ETwaun Moore,1,9,1,1,Layup Shot,4,40,29,True
+ETwaun Moore,1,5,56,1,Layup Shot,1,-9,17,True
+ETwaun Moore,1,9,4,1,Layup Shot,1,-5,16,True
+ETwaun Moore,2,1,44,1,Layup Shot,3,18,31,True
+ETwaun Moore,2,1,6,1,Layup Shot,3,-22,30,True
+ETwaun Moore,1,3,57,1,Layup Shot,0,0,1,True
+ETwaun Moore,4,4,41,1,Layup Shot,2,-21,4,True
+ETwaun Moore,1,7,53,0,Layup Shot,0,3,5,True
+ETwaun Moore,4,0,18,0,Layup Shot,0,0,4,True
+ETwaun Moore,1,5,18,1,Layup Shot,1,-17,4,True
+ETwaun Moore,2,6,30,1,Layup Shot,1,-6,10,True
+ETwaun Moore,1,1,21,0,Layup Shot,2,28,9,True
+ETwaun Moore,4,9,32,0,Layup Shot,2,18,16,True
+ETwaun Moore,1,6,44,1,Layup Shot,1,13,6,True
+ETwaun Moore,2,0,53,1,Layup Shot,7,23,71,True
+ETwaun Moore,1,5,22,1,Layup Shot,1,5,18,True
+ETwaun Moore,4,6,32,1,Layup Shot,3,30,10,True
+ETwaun Moore,2,2,26,1,Layup Shot,4,38,13,True
+ETwaun Moore,3,11,8,1,Layup Shot,5,-33,40,True
+ETwaun Moore,1,4,38,0,Layup Shot,1,8,17,True
+ETwaun Moore,3,0,57,0,Layup Shot,4,-38,16,True
+ETwaun Moore,4,2,38,0,Layup Shot,3,-6,32,True
+ETwaun Moore,1,4,11,1,Layup Shot,2,-12,27,True
+ETwaun Moore,3,8,28,1,Layup Shot,4,8,42,True
+ETwaun Moore,4,4,43,0,Pullup Jump shot,16,162,25,True
+ETwaun Moore,4,0,23,1,Pullup Jump shot,17,-115,131,True
+ETwaun Moore,2,2,42,1,Pullup Jump shot,23,230,29,False
+ETwaun Moore,3,11,25,0,Pullup Jump shot,16,-75,148,True
+ETwaun Moore,1,4,9,1,Pullup Jump shot,6,50,41,True
+ETwaun Moore,3,3,24,0,Pullup Jump shot,16,108,120,True
+ETwaun Moore,4,11,11,1,Pullup Jump shot,12,-34,125,True
+ETwaun Moore,4,4,44,1,Pullup Jump shot,16,-101,132,True
+ETwaun Moore,3,6,56,1,Pullup Jump shot,5,-57,17,True
+ETwaun Moore,2,0,37,0,Pullup Jump shot,20,-84,191,True
+ETwaun Moore,2,6,56,1,Pullup Jump shot,18,-176,55,True
+ETwaun Moore,1,4,57,1,Pullup Jump shot,17,-122,131,True
+ETwaun Moore,3,10,51,1,Pullup Jump shot,24,-128,212,False
+ETwaun Moore,3,9,50,0,Pullup Jump shot,13,-27,129,True
+ETwaun Moore,1,8,41,1,Pullup Jump shot,18,-180,27,True
+ETwaun Moore,4,10,33,1,Pullup Jump shot,10,-24,99,True
+ETwaun Moore,2,1,56,1,Pullup Jump shot,24,71,239,False
+ETwaun Moore,2,2,26,1,Pullup Jump shot,6,-1,68,True
+ETwaun Moore,1,9,50,1,Pullup Jump shot,13,-125,63,True
+ETwaun Moore,1,5,36,0,Pullup Jump shot,20,187,72,True
+ETwaun Moore,3,6,9,0,Pullup Jump shot,15,152,8,True
+ETwaun Moore,2,5,51,0,Pullup Jump shot,19,-114,155,True
+ETwaun Moore,2,4,49,0,Pullup Jump shot,7,-29,70,True
+ETwaun Moore,2,7,30,1,Pullup Jump shot,21,-123,181,True
+ETwaun Moore,1,5,27,1,Pullup Jump shot,26,55,257,False
+ETwaun Moore,1,9,0,0,Pullup Jump shot,15,-122,94,True
+ETwaun Moore,1,5,45,0,Pullup Jump shot,18,-183,25,True
+ETwaun Moore,2,0,9,1,Pullup Jump shot,19,-144,131,True
+ETwaun Moore,2,11,22,0,Pullup Jump shot,19,157,114,True
+ETwaun Moore,1,9,52,0,Pullup Jump shot,18,85,159,True
+ETwaun Moore,2,0,0,0,Pullup Jump shot,11,-13,116,True
+ETwaun Moore,3,9,7,0,Pullup Jump shot,9,-49,78,True
+ETwaun Moore,3,6,28,0,Pullup Jump shot,22,80,205,True
+ETwaun Moore,2,11,7,0,Pullup Jump shot,25,149,205,False
+ETwaun Moore,4,11,45,1,Pullup Jump shot,12,-72,102,True
+ETwaun Moore,1,5,30,1,Pullup Jump shot,20,-42,205,True
+ETwaun Moore,1,8,26,1,Pullup Jump shot,22,-164,159,True
+ETwaun Moore,4,4,26,1,Pullup Jump shot,21,188,114,True
+ETwaun Moore,4,1,16,1,Pullup Jump shot,12,-105,72,True
+ETwaun Moore,3,1,14,1,Pullup Jump shot,7,43,66,True
+ETwaun Moore,4,6,38,0,Pullup Jump shot,5,-51,27,True
+ETwaun Moore,2,4,10,1,Pullup Jump shot,23,-62,223,True
+ETwaun Moore,4,8,35,1,Pullup Jump shot,21,41,206,True
+ETwaun Moore,4,7,1,0,Pullup Jump shot,24,95,228,False
+ETwaun Moore,3,1,59,0,Pullup Jump shot,20,-120,170,True
+ETwaun Moore,4,5,15,0,Pullup Jump shot,20,138,155,True
+ETwaun Moore,2,0,27,0,Pullup Jump shot,12,-122,17,True
+ETwaun Moore,4,3,15,0,Pullup Jump shot,18,188,19,True
+ETwaun Moore,2,8,31,1,Putback Layup Shot,1,8,6,True
+ETwaun Moore,4,6,20,1,Putback Layup Shot,0,0,-6,True
+ETwaun Moore,3,5,7,0,Putback Layup Shot,4,33,25,True
+ETwaun Moore,1,10,46,1,Putback Layup Shot,0,0,-6,True
+ETwaun Moore,3,11,16,1,Putback Layup Shot,0,0,-6,True
+ETwaun Moore,1,11,18,1,Putback Layup Shot,1,5,16,True
+ETwaun Moore,3,3,31,1,Putback Layup Shot,1,14,9,True
+ETwaun Moore,3,11,46,0,Reverse Layup Shot,6,-11,68,True
+ETwaun Moore,4,3,57,1,Reverse Layup Shot,1,13,8,True
+ETwaun Moore,3,5,45,1,Reverse Layup Shot,1,-14,10,True
+ETwaun Moore,1,7,51,0,Reverse Layup Shot,1,16,7,True
+ETwaun Moore,3,11,7,1,Reverse Layup Shot,3,34,21,True
+ETwaun Moore,3,0,49,0,Reverse Layup Shot,1,5,15,True
+ETwaun Moore,2,2,2,0,Reverse Layup Shot,1,-13,3,True
+ETwaun Moore,3,6,10,1,Reverse Layup Shot,0,7,3,True
+ETwaun Moore,3,5,18,1,Reverse Layup Shot,1,13,1,True
+ETwaun Moore,3,6,11,0,Reverse Layup Shot,1,-13,1,True
+ETwaun Moore,2,8,44,0,Reverse Layup Shot,2,20,17,True
+ETwaun Moore,2,7,54,0,Reverse Layup Shot,1,-13,6,True
+ETwaun Moore,4,10,22,1,Reverse Layup Shot,1,11,7,True
+ETwaun Moore,4,2,42,1,Running Finger Roll Layup Shot,1,-8,13,True
+ETwaun Moore,1,11,8,0,Running Jump Shot,25,176,185,False
+ETwaun Moore,3,9,33,0,Running Jump Shot,22,-223,-12,False
+ETwaun Moore,1,9,57,1,Running Jump Shot,23,-235,38,False
+ETwaun Moore,2,1,52,0,Running Jump Shot,8,-3,83,True
+ETwaun Moore,1,11,19,0,Running Jump Shot,22,-221,-3,False
+ETwaun Moore,3,6,38,1,Running Jump Shot,23,-231,31,False
+ETwaun Moore,3,11,26,0,Running Jump Shot,8,-43,72,True
+ETwaun Moore,3,5,28,1,Running Jump Shot,9,-14,91,True
+ETwaun Moore,1,8,43,1,Running Layup Shot,5,-36,38,True
+ETwaun Moore,3,7,9,1,Running Layup Shot,1,1,10,True
+ETwaun Moore,3,10,45,0,Running Layup Shot,0,3,6,True
+ETwaun Moore,2,0,31,1,Running Layup Shot,1,-11,6,True
+ETwaun Moore,3,6,59,1,Running Layup Shot,0,8,5,True
+ETwaun Moore,1,8,50,1,Running Layup Shot,5,43,26,True
+ETwaun Moore,4,2,46,1,Running Layup Shot,2,23,6,True
+ETwaun Moore,2,2,53,0,Running Layup Shot,1,0,15,True
+ETwaun Moore,2,8,40,0,Running Layup Shot,2,-22,12,True
+ETwaun Moore,2,0,40,0,Running Layup Shot,0,3,5,True
+ETwaun Moore,3,3,56,1,Running Layup Shot,0,6,3,True
+ETwaun Moore,3,6,55,0,Running Layup Shot,0,0,5,True
+ETwaun Moore,3,2,2,1,Running Layup Shot,6,2,64,True
+ETwaun Moore,2,7,5,1,Running Layup Shot,1,4,15,True
+ETwaun Moore,2,1,53,1,Running Layup Shot,0,2,4,True
+ETwaun Moore,4,5,57,1,Running Layup Shot,2,-18,18,True
+ETwaun Moore,4,8,4,1,Running Layup Shot,1,8,8,True
+ETwaun Moore,3,7,10,1,Running Layup Shot,0,0,9,True
+ETwaun Moore,3,7,21,1,Running Layup Shot,1,1,10,True
+ETwaun Moore,4,10,2,1,Running Layup Shot,3,13,29,True
+ETwaun Moore,4,6,49,1,Running Pull-Up Jump Shot,20,-74,193,True
+ETwaun Moore,2,9,17,1,Running Pull-Up Jump Shot,17,-116,137,True
+ETwaun Moore,1,5,41,1,Running Reverse Layup Shot,0,-2,-1,True
+ETwaun Moore,2,7,52,0,Running Reverse Layup Shot,1,-9,10,True
+ETwaun Moore,3,3,15,1,Running Reverse Layup Shot,1,15,8,True
+ETwaun Moore,3,9,50,1,Running Reverse Layup Shot,1,-10,6,True
+ETwaun Moore,1,8,42,1,Running Reverse Layup Shot,6,-63,25,True
+ETwaun Moore,4,8,39,0,Step Back Jump shot,21,-66,209,True
+ETwaun Moore,4,9,19,1,Step Back Jump shot,24,223,109,False
+ETwaun Moore,1,5,25,0,Step Back Jump shot,14,-139,37,True
+ETwaun Moore,1,3,38,1,Step Back Jump shot,24,-125,214,False
+ETwaun Moore,1,6,41,0,Step Back Jump shot,22,148,168,True
+ETwaun Moore,2,1,3,0,Step Back Jump shot,24,161,184,False
+ETwaun Moore,3,6,12,0,Step Back Jump shot,25,139,210,False
+ETwaun Moore,1,11,5,0,Step Back Jump shot,25,-89,242,False
+ETwaun Moore,3,5,57,0,Step Back Jump shot,23,-232,21,False
+ETwaun Moore,3,7,4,1,Step Back Jump shot,15,-66,142,True
+ETwaun Moore,5,0,54,0,Step Back Jump shot,26,213,151,False
+ETwaun Moore,1,7,29,0,Tip Layup Shot,0,0,-6,True
+ETwaun Moore,3,4,37,0,Tip Layup Shot,0,0,-6,True
+ETwaun Moore,2,4,56,1,Tip Layup Shot,1,-13,7,True
+ETwaun Moore,3,9,0,0,Tip Layup Shot,0,0,-6,True
+ETwaun Moore,2,8,33,0,Tip Layup Shot,2,-19,8,True
+ETwaun Moore,2,8,14,1,Tip Layup Shot,0,0,-6,True
+ETwaun Moore,2,7,39,0,Tip Layup Shot,1,6,18,True
+ETwaun Moore,3,8,24,0,Tip Layup Shot,0,0,-6,True
+ETwaun Moore,2,2,52,0,Turnaround Fadeaway shot,9,7,99,True
+ETwaun Moore,1,8,46,1,Turnaround Fadeaway shot,5,20,53,True
+ETwaun Moore,1,10,22,0,Turnaround Fadeaway shot,7,-32,73,True
+ETwaun Moore,2,0,17,1,Turnaround Fadeaway shot,12,-46,118,True
+ETwaun Moore,1,11,3,1,Turnaround Fadeaway shot,9,25,91,True
+ETwaun Moore,4,5,35,1,Turnaround Fadeaway shot,7,-66,39,True
+ETwaun Moore,3,7,51,1,Turnaround Jump Shot,4,16,39,True
+ETwaun Moore,3,7,3,1,Turnaround Jump Shot,10,17,104,True
+ETwaun Moore,4,10,8,1,Turnaround Jump Shot,4,28,32,True
+ETwaun Moore,3,4,45,0,Turnaround Jump Shot,5,21,55,True
+ETwaun Moore,4,1,52,1,Turnaround Jump Shot,13,-10,130,True

@@ -1,0 +1,538 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Dejounte Murray,3,11,38,1,Alley Oop Dunk Shot,0,-8,1,True
+Dejounte Murray,4,10,43,1,Alley Oop Dunk Shot,1,6,11,True
+Dejounte Murray,1,1,27,1,Alley Oop Layup shot,2,18,15,True
+Dejounte Murray,2,11,51,1,Alley Oop Layup shot,0,-3,5,True
+Dejounte Murray,3,8,52,1,Alley Oop Layup shot,2,-19,19,True
+Dejounte Murray,4,7,5,1,Cutting Dunk Shot,1,-11,-2,True
+Dejounte Murray,4,6,0,1,Cutting Dunk Shot,1,-6,9,True
+Dejounte Murray,4,6,33,0,Cutting Finger Roll Layup Shot,1,-11,1,True
+Dejounte Murray,1,4,25,1,Cutting Finger Roll Layup Shot,1,13,8,True
+Dejounte Murray,4,11,36,1,Cutting Layup Shot,0,5,3,True
+Dejounte Murray,4,4,1,1,Cutting Layup Shot,1,13,-5,True
+Dejounte Murray,3,3,57,1,Cutting Layup Shot,1,-15,0,True
+Dejounte Murray,3,5,35,0,Cutting Layup Shot,2,11,22,True
+Dejounte Murray,2,4,0,1,Cutting Layup Shot,1,13,-2,True
+Dejounte Murray,4,3,39,1,Cutting Layup Shot,0,3,4,True
+Dejounte Murray,3,3,59,0,Cutting Layup Shot,2,-19,15,True
+Dejounte Murray,3,5,2,0,Cutting Layup Shot,1,2,15,True
+Dejounte Murray,3,9,32,1,Cutting Layup Shot,1,-8,12,True
+Dejounte Murray,1,4,45,0,Cutting Layup Shot,1,0,10,True
+Dejounte Murray,2,6,20,0,Cutting Layup Shot,1,-10,1,True
+Dejounte Murray,1,7,19,1,Cutting Layup Shot,0,5,6,True
+Dejounte Murray,4,1,43,1,Cutting Layup Shot,1,-4,17,True
+Dejounte Murray,1,7,5,0,Cutting Layup Shot,2,24,-1,True
+Dejounte Murray,4,10,17,1,Cutting Layup Shot,2,2,21,True
+Dejounte Murray,3,6,28,1,Cutting Layup Shot,0,7,4,True
+Dejounte Murray,3,9,35,1,Cutting Layup Shot,1,9,15,True
+Dejounte Murray,1,7,17,1,Cutting Layup Shot,0,3,2,True
+Dejounte Murray,1,8,21,1,Cutting Layup Shot,3,2,33,True
+Dejounte Murray,4,7,43,1,Driving Dunk Shot,0,-2,1,True
+Dejounte Murray,4,5,16,0,Driving Finger Roll Layup Shot,3,-3,31,True
+Dejounte Murray,1,4,47,1,Driving Finger Roll Layup Shot,0,2,4,True
+Dejounte Murray,4,8,44,1,Driving Finger Roll Layup Shot,0,-1,4,True
+Dejounte Murray,2,9,44,0,Driving Finger Roll Layup Shot,2,-4,24,True
+Dejounte Murray,3,0,4,0,Driving Finger Roll Layup Shot,1,-10,-1,True
+Dejounte Murray,4,8,12,1,Driving Finger Roll Layup Shot,1,19,5,True
+Dejounte Murray,4,10,34,1,Driving Finger Roll Layup Shot,1,6,19,True
+Dejounte Murray,2,5,3,1,Driving Finger Roll Layup Shot,2,24,17,True
+Dejounte Murray,3,7,1,1,Driving Finger Roll Layup Shot,0,-5,2,True
+Dejounte Murray,4,10,49,0,Driving Finger Roll Layup Shot,0,6,7,True
+Dejounte Murray,3,6,44,1,Driving Finger Roll Layup Shot,0,3,0,True
+Dejounte Murray,1,5,8,0,Driving Finger Roll Layup Shot,2,28,6,True
+Dejounte Murray,4,6,5,1,Driving Finger Roll Layup Shot,0,3,6,True
+Dejounte Murray,2,8,34,0,Driving Finger Roll Layup Shot,1,-9,11,True
+Dejounte Murray,2,8,31,0,Driving Finger Roll Layup Shot,1,-5,15,True
+Dejounte Murray,3,4,42,0,Driving Finger Roll Layup Shot,1,5,17,True
+Dejounte Murray,3,3,35,0,Driving Finger Roll Layup Shot,2,-9,18,True
+Dejounte Murray,2,6,5,1,Driving Finger Roll Layup Shot,0,-2,3,True
+Dejounte Murray,3,5,58,1,Driving Finger Roll Layup Shot,2,-26,8,True
+Dejounte Murray,1,11,34,1,Driving Finger Roll Layup Shot,1,9,6,True
+Dejounte Murray,2,10,21,1,Driving Finger Roll Layup Shot,1,5,10,True
+Dejounte Murray,1,4,43,1,Driving Finger Roll Layup Shot,1,5,10,True
+Dejounte Murray,3,10,27,0,Driving Finger Roll Layup Shot,0,-3,3,True
+Dejounte Murray,3,7,46,0,Driving Finger Roll Layup Shot,1,1,13,True
+Dejounte Murray,1,4,30,1,Driving Finger Roll Layup Shot,0,6,1,True
+Dejounte Murray,4,0,26,1,Driving Finger Roll Layup Shot,1,11,8,True
+Dejounte Murray,3,8,21,1,Driving Finger Roll Layup Shot,2,-18,14,True
+Dejounte Murray,4,10,7,0,Driving Finger Roll Layup Shot,2,24,5,True
+Dejounte Murray,2,10,7,1,Driving Finger Roll Layup Shot,1,0,11,True
+Dejounte Murray,4,1,30,0,Driving Finger Roll Layup Shot,5,50,14,True
+Dejounte Murray,3,2,34,0,Driving Finger Roll Layup Shot,1,-4,15,True
+Dejounte Murray,4,0,3,0,Driving Finger Roll Layup Shot,4,7,41,True
+Dejounte Murray,1,8,24,1,Driving Finger Roll Layup Shot,0,0,2,True
+Dejounte Murray,4,8,54,0,Driving Finger Roll Layup Shot,1,16,11,True
+Dejounte Murray,4,0,46,0,Driving Finger Roll Layup Shot,2,-22,11,True
+Dejounte Murray,4,9,39,0,Driving Floating Bank Jump Shot,5,30,41,True
+Dejounte Murray,1,6,21,0,Driving Floating Bank Jump Shot,10,-95,49,True
+Dejounte Murray,1,10,32,1,Driving Floating Bank Jump Shot,5,33,40,True
+Dejounte Murray,1,10,40,0,Driving Floating Bank Jump Shot,8,86,10,True
+Dejounte Murray,3,8,57,1,Driving Floating Bank Jump Shot,1,0,16,True
+Dejounte Murray,1,0,46,1,Driving Floating Bank Jump Shot,8,-88,7,True
+Dejounte Murray,3,1,27,1,Driving Floating Bank Jump Shot,6,67,20,True
+Dejounte Murray,3,10,28,0,Driving Floating Bank Jump Shot,10,74,77,True
+Dejounte Murray,2,9,49,0,Driving Floating Bank Jump Shot,9,-61,74,True
+Dejounte Murray,4,8,31,1,Driving Floating Bank Jump Shot,5,-55,20,True
+Dejounte Murray,2,9,45,0,Driving Floating Bank Jump Shot,9,-93,21,True
+Dejounte Murray,1,10,35,0,Driving Floating Bank Jump Shot,3,29,23,True
+Dejounte Murray,3,8,28,1,Driving Floating Bank Jump Shot,4,-44,-6,True
+Dejounte Murray,3,2,43,0,Driving Floating Bank Jump Shot,3,-26,19,True
+Dejounte Murray,3,6,23,1,Driving Floating Bank Jump Shot,12,109,67,True
+Dejounte Murray,4,1,25,1,Driving Floating Bank Jump Shot,8,-60,58,True
+Dejounte Murray,2,11,38,1,Driving Floating Bank Jump Shot,6,60,21,True
+Dejounte Murray,3,4,57,0,Driving Floating Bank Jump Shot,4,41,15,True
+Dejounte Murray,2,10,47,1,Driving Floating Bank Jump Shot,5,-49,10,True
+Dejounte Murray,4,3,11,0,Driving Floating Jump Shot,2,-15,14,True
+Dejounte Murray,2,9,58,1,Driving Floating Jump Shot,10,-16,106,True
+Dejounte Murray,3,8,31,0,Driving Floating Jump Shot,6,27,59,True
+Dejounte Murray,1,11,46,0,Driving Floating Jump Shot,12,57,115,True
+Dejounte Murray,2,5,10,1,Driving Floating Jump Shot,9,27,94,True
+Dejounte Murray,3,11,41,1,Driving Floating Jump Shot,5,-11,58,True
+Dejounte Murray,2,7,28,0,Driving Floating Jump Shot,7,32,67,True
+Dejounte Murray,2,2,58,0,Driving Floating Jump Shot,6,-67,8,True
+Dejounte Murray,3,6,8,1,Driving Floating Jump Shot,4,0,41,True
+Dejounte Murray,1,5,59,0,Driving Floating Jump Shot,9,-68,68,True
+Dejounte Murray,1,0,56,1,Driving Floating Jump Shot,10,-74,80,True
+Dejounte Murray,5,0,37,1,Driving Floating Jump Shot,5,-16,53,True
+Dejounte Murray,3,3,9,1,Driving Floating Jump Shot,6,-1,67,True
+Dejounte Murray,3,6,37,1,Driving Floating Jump Shot,1,1,14,True
+Dejounte Murray,2,3,27,0,Driving Floating Jump Shot,4,37,33,True
+Dejounte Murray,4,8,23,0,Driving Floating Jump Shot,7,34,68,True
+Dejounte Murray,3,11,42,1,Driving Floating Jump Shot,6,9,69,True
+Dejounte Murray,4,3,42,0,Driving Floating Jump Shot,7,62,44,True
+Dejounte Murray,1,2,40,0,Driving Floating Jump Shot,11,-113,-5,True
+Dejounte Murray,2,6,40,0,Driving Floating Jump Shot,12,-122,11,True
+Dejounte Murray,2,0,10,0,Driving Floating Jump Shot,6,58,33,True
+Dejounte Murray,4,4,13,0,Driving Floating Jump Shot,7,55,48,True
+Dejounte Murray,1,8,32,0,Driving Floating Jump Shot,11,-47,105,True
+Dejounte Murray,2,4,15,0,Driving Floating Jump Shot,13,-13,132,True
+Dejounte Murray,4,2,30,0,Driving Floating Jump Shot,11,-40,109,True
+Dejounte Murray,1,0,2,1,Driving Floating Jump Shot,8,-44,76,True
+Dejounte Murray,4,7,3,1,Driving Floating Jump Shot,9,11,94,True
+Dejounte Murray,3,8,59,0,Driving Floating Jump Shot,2,12,16,True
+Dejounte Murray,1,5,36,0,Driving Floating Jump Shot,13,-51,127,True
+Dejounte Murray,1,8,29,1,Driving Floating Jump Shot,5,-3,55,True
+Dejounte Murray,1,8,33,1,Driving Floating Jump Shot,7,-78,-1,True
+Dejounte Murray,1,5,46,0,Driving Floating Jump Shot,7,63,32,True
+Dejounte Murray,4,7,55,0,Driving Floating Jump Shot,16,-81,138,True
+Dejounte Murray,2,2,37,1,Driving Floating Jump Shot,9,10,92,True
+Dejounte Murray,2,1,32,1,Driving Floating Jump Shot,10,-68,76,True
+Dejounte Murray,3,3,9,0,Driving Floating Jump Shot,9,-36,84,True
+Dejounte Murray,2,6,47,0,Driving Floating Jump Shot,7,-73,10,True
+Dejounte Murray,2,11,10,0,Driving Floating Jump Shot,3,2,36,True
+Dejounte Murray,3,8,16,1,Driving Floating Jump Shot,3,-14,30,True
+Dejounte Murray,3,7,36,0,Driving Hook Shot,7,15,75,True
+Dejounte Murray,2,11,30,0,Driving Hook Shot,5,18,48,True
+Dejounte Murray,5,4,41,0,Driving Hook Shot,9,-20,96,True
+Dejounte Murray,2,6,8,0,Driving Hook Shot,8,7,88,True
+Dejounte Murray,3,0,34,1,Driving Layup Shot,2,0,26,True
+Dejounte Murray,3,11,10,0,Driving Layup Shot,3,-15,29,True
+Dejounte Murray,1,2,47,0,Driving Layup Shot,2,16,16,True
+Dejounte Murray,1,8,49,0,Driving Layup Shot,2,29,-1,True
+Dejounte Murray,3,2,31,1,Driving Layup Shot,2,25,-1,True
+Dejounte Murray,1,8,41,0,Driving Layup Shot,0,2,6,True
+Dejounte Murray,1,5,24,0,Driving Layup Shot,8,6,89,True
+Dejounte Murray,4,3,29,0,Driving Layup Shot,8,-82,24,True
+Dejounte Murray,4,0,12,0,Driving Layup Shot,1,-16,11,True
+Dejounte Murray,3,8,29,0,Driving Layup Shot,2,-25,10,True
+Dejounte Murray,4,11,17,0,Driving Layup Shot,1,-14,12,True
+Dejounte Murray,4,1,41,1,Driving Layup Shot,1,6,14,True
+Dejounte Murray,1,7,34,0,Driving Layup Shot,1,-1,17,True
+Dejounte Murray,2,2,13,0,Driving Layup Shot,3,25,20,True
+Dejounte Murray,1,0,57,0,Driving Layup Shot,5,7,57,True
+Dejounte Murray,4,6,41,0,Driving Layup Shot,2,-1,22,True
+Dejounte Murray,1,11,44,0,Driving Layup Shot,0,0,0,True
+Dejounte Murray,4,5,14,1,Driving Layup Shot,0,-5,0,True
+Dejounte Murray,2,8,49,0,Driving Layup Shot,3,-7,31,True
+Dejounte Murray,4,1,58,1,Driving Layup Shot,1,-10,5,True
+Dejounte Murray,2,6,8,1,Driving Layup Shot,3,9,36,True
+Dejounte Murray,3,4,0,0,Driving Layup Shot,2,-13,20,True
+Dejounte Murray,4,4,0,0,Driving Layup Shot,2,-18,9,True
+Dejounte Murray,3,2,12,0,Driving Layup Shot,3,-21,34,True
+Dejounte Murray,1,5,39,0,Driving Layup Shot,2,1,26,True
+Dejounte Murray,1,9,39,0,Driving Layup Shot,1,-15,11,True
+Dejounte Murray,3,11,4,0,Driving Layup Shot,2,11,20,True
+Dejounte Murray,4,8,34,0,Driving Layup Shot,2,1,20,True
+Dejounte Murray,4,9,35,0,Driving Layup Shot,1,1,10,True
+Dejounte Murray,1,2,10,1,Driving Layup Shot,2,-26,-1,True
+Dejounte Murray,2,3,40,0,Driving Layup Shot,2,9,18,True
+Dejounte Murray,3,0,5,0,Driving Layup Shot,3,-32,4,True
+Dejounte Murray,2,3,56,0,Driving Layup Shot,2,-22,4,True
+Dejounte Murray,3,11,42,0,Driving Layup Shot,1,11,1,True
+Dejounte Murray,2,2,22,1,Driving Layup Shot,2,22,15,True
+Dejounte Murray,4,3,55,1,Driving Layup Shot,6,63,1,True
+Dejounte Murray,2,10,42,0,Driving Layup Shot,1,15,10,True
+Dejounte Murray,3,3,38,0,Driving Layup Shot,1,-8,11,True
+Dejounte Murray,1,0,7,0,Driving Layup Shot,4,-38,17,True
+Dejounte Murray,4,8,17,1,Driving Layup Shot,0,0,-3,True
+Dejounte Murray,4,8,29,1,Driving Layup Shot,3,33,-4,True
+Dejounte Murray,2,1,54,0,Driving Layup Shot,2,-6,27,True
+Dejounte Murray,1,7,12,1,Driving Layup Shot,0,-7,-6,True
+Dejounte Murray,3,8,13,1,Driving Layup Shot,0,9,-1,True
+Dejounte Murray,2,9,15,0,Driving Layup Shot,1,-3,11,True
+Dejounte Murray,2,5,30,1,Driving Layup Shot,0,-1,7,True
+Dejounte Murray,3,3,20,1,Driving Layup Shot,1,8,10,True
+Dejounte Murray,2,8,18,1,Driving Layup Shot,1,8,6,True
+Dejounte Murray,4,2,42,1,Driving Layup Shot,0,-9,-4,True
+Dejounte Murray,4,2,45,0,Driving Layup Shot,1,-14,10,True
+Dejounte Murray,4,8,41,1,Driving Layup Shot,1,17,5,True
+Dejounte Murray,1,6,26,0,Driving Reverse Layup Shot,2,20,6,True
+Dejounte Murray,3,3,49,0,Driving Reverse Layup Shot,0,-5,-7,True
+Dejounte Murray,3,11,1,0,Driving Reverse Layup Shot,1,-9,16,True
+Dejounte Murray,3,7,39,1,Driving Reverse Layup Shot,2,22,3,True
+Dejounte Murray,4,0,31,1,Driving Reverse Layup Shot,1,-4,16,True
+Dejounte Murray,2,4,10,0,Driving Reverse Layup Shot,0,2,1,True
+Dejounte Murray,4,9,23,0,Dunk Shot,0,0,6,True
+Dejounte Murray,1,5,41,1,Dunk Shot,0,-1,8,True
+Dejounte Murray,4,4,6,0,Finger Roll Layup Shot,2,5,22,True
+Dejounte Murray,2,10,32,0,Finger Roll Layup Shot,3,-25,20,True
+Dejounte Murray,2,9,51,0,Finger Roll Layup Shot,4,-13,38,True
+Dejounte Murray,1,3,11,1,Finger Roll Layup Shot,1,14,5,True
+Dejounte Murray,1,5,35,0,Finger Roll Layup Shot,1,-8,-8,True
+Dejounte Murray,4,8,18,1,Finger Roll Layup Shot,2,14,22,True
+Dejounte Murray,4,1,26,0,Finger Roll Layup Shot,3,-1,36,True
+Dejounte Murray,2,4,23,1,Finger Roll Layup Shot,2,18,11,True
+Dejounte Murray,1,8,48,0,Floating Jump shot,11,35,109,True
+Dejounte Murray,4,2,3,0,Floating Jump shot,14,126,69,True
+Dejounte Murray,3,6,31,0,Floating Jump shot,6,0,67,True
+Dejounte Murray,2,4,7,0,Floating Jump shot,9,-22,89,True
+Dejounte Murray,4,0,23,1,Floating Jump shot,5,-13,55,True
+Dejounte Murray,4,9,20,1,Floating Jump shot,7,5,71,True
+Dejounte Murray,2,10,14,0,Floating Jump shot,7,-73,-2,True
+Dejounte Murray,1,6,57,1,Floating Jump shot,5,-58,-8,True
+Dejounte Murray,1,10,2,0,Floating Jump shot,7,-14,78,True
+Dejounte Murray,2,3,42,1,Floating Jump shot,10,-65,78,True
+Dejounte Murray,3,9,28,1,Floating Jump shot,8,-35,77,True
+Dejounte Murray,2,11,7,0,Floating Jump shot,7,10,76,True
+Dejounte Murray,2,5,19,0,Floating Jump shot,8,18,84,True
+Dejounte Murray,4,3,22,1,Floating Jump shot,13,88,101,True
+Dejounte Murray,1,9,36,0,Floating Jump shot,10,-96,48,True
+Dejounte Murray,2,8,19,0,Floating Jump shot,5,-35,36,True
+Dejounte Murray,1,6,3,0,Floating Jump shot,7,5,75,True
+Dejounte Murray,1,10,2,0,Floating Jump shot,6,9,63,True
+Dejounte Murray,1,9,36,1,Floating Jump shot,8,10,89,True
+Dejounte Murray,3,9,0,0,Floating Jump shot,8,-85,0,True
+Dejounte Murray,4,10,45,0,Floating Jump shot,12,-54,110,True
+Dejounte Murray,3,3,25,1,Floating Jump shot,1,-15,5,True
+Dejounte Murray,1,2,51,0,Floating Jump shot,10,90,48,True
+Dejounte Murray,2,6,27,0,Floating Jump shot,11,42,104,True
+Dejounte Murray,1,2,53,0,Floating Jump shot,11,44,111,True
+Dejounte Murray,4,2,22,1,Floating Jump shot,12,-105,59,True
+Dejounte Murray,2,10,23,0,Floating Jump shot,7,-70,12,True
+Dejounte Murray,4,7,19,0,Floating Jump shot,12,83,100,True
+Dejounte Murray,1,11,39,0,Floating Jump shot,10,-62,89,True
+Dejounte Murray,3,9,54,1,Floating Jump shot,9,-44,81,True
+Dejounte Murray,1,9,47,0,Floating Jump shot,7,73,17,True
+Dejounte Murray,2,6,55,1,Floating Jump shot,11,49,109,True
+Dejounte Murray,2,5,4,1,Hook Shot,9,-22,90,True
+Dejounte Murray,4,4,31,1,Hook Shot,11,-2,110,True
+Dejounte Murray,2,5,1,0,Hook Shot,2,20,17,True
+Dejounte Murray,2,8,20,1,Jump Bank Shot,12,106,58,True
+Dejounte Murray,3,11,4,0,Jump Bank Shot,2,-19,7,True
+Dejounte Murray,3,7,43,1,Jump Bank Shot,2,2,20,True
+Dejounte Murray,1,0,21,0,Jump Bank Shot,13,120,57,True
+Dejounte Murray,2,8,20,1,Jump Bank Shot,6,38,52,True
+Dejounte Murray,3,5,4,0,Jump Bank Shot,11,91,78,True
+Dejounte Murray,1,6,30,0,Jump Shot,24,-127,214,False
+Dejounte Murray,2,10,4,1,Jump Shot,19,196,20,True
+Dejounte Murray,2,7,44,0,Jump Shot,12,-107,68,True
+Dejounte Murray,3,6,44,0,Jump Shot,3,5,31,True
+Dejounte Murray,3,6,53,0,Jump Shot,25,144,213,False
+Dejounte Murray,3,4,19,1,Jump Shot,5,-8,59,True
+Dejounte Murray,1,5,32,1,Jump Shot,23,-230,6,False
+Dejounte Murray,2,5,48,0,Jump Shot,22,-221,-3,False
+Dejounte Murray,4,9,1,0,Jump Shot,16,-94,132,True
+Dejounte Murray,2,2,29,1,Jump Shot,9,-74,62,True
+Dejounte Murray,2,7,11,0,Jump Shot,16,65,151,True
+Dejounte Murray,4,5,5,0,Jump Shot,15,-125,92,True
+Dejounte Murray,4,1,52,1,Jump Shot,21,-18,212,True
+Dejounte Murray,4,8,8,0,Jump Shot,14,-8,143,True
+Dejounte Murray,1,10,25,0,Jump Shot,25,74,241,False
+Dejounte Murray,2,7,10,0,Jump Shot,7,-75,0,True
+Dejounte Murray,4,1,27,0,Jump Shot,5,54,10,True
+Dejounte Murray,2,5,6,1,Jump Shot,8,20,78,True
+Dejounte Murray,4,2,53,0,Jump Shot,16,153,62,True
+Dejounte Murray,1,8,18,0,Jump Shot,22,-226,-1,False
+Dejounte Murray,1,7,34,0,Jump Shot,22,227,-5,False
+Dejounte Murray,4,11,15,0,Jump Shot,11,-20,114,True
+Dejounte Murray,4,9,48,1,Jump Shot,10,-84,57,True
+Dejounte Murray,2,1,20,0,Jump Shot,13,-137,13,True
+Dejounte Murray,2,10,19,0,Jump Shot,13,131,-23,True
+Dejounte Murray,4,9,13,1,Jump Shot,22,225,15,False
+Dejounte Murray,1,9,13,0,Jump Shot,23,-231,0,False
+Dejounte Murray,3,9,1,0,Jump Shot,9,33,88,True
+Dejounte Murray,4,0,29,1,Jump Shot,1,7,16,True
+Dejounte Murray,4,3,9,1,Jump Shot,25,-112,225,False
+Dejounte Murray,1,10,30,0,Jump Shot,23,-234,26,False
+Dejounte Murray,2,0,40,0,Jump Shot,25,-51,254,False
+Dejounte Murray,2,5,33,0,Jump Shot,22,-227,-15,False
+Dejounte Murray,1,10,45,0,Jump Shot,24,232,62,False
+Dejounte Murray,2,4,26,1,Jump Shot,26,-145,217,False
+Dejounte Murray,2,1,19,0,Jump Shot,10,-102,14,True
+Dejounte Murray,2,0,53,0,Jump Shot,23,235,17,False
+Dejounte Murray,3,9,54,0,Jump Shot,10,55,95,True
+Dejounte Murray,1,4,0,0,Jump Shot,25,-198,157,False
+Dejounte Murray,2,7,54,1,Jump Shot,19,-123,154,True
+Dejounte Murray,4,11,38,0,Jump Shot,13,-130,-42,True
+Dejounte Murray,2,2,50,0,Jump Shot,19,-94,174,True
+Dejounte Murray,4,4,31,0,Jump Shot,19,-6,194,True
+Dejounte Murray,1,1,18,1,Jump Shot,19,86,173,True
+Dejounte Murray,4,0,3,0,Jump Shot,29,160,243,False
+Dejounte Murray,1,8,54,0,Jump Shot,10,105,-1,True
+Dejounte Murray,2,6,11,0,Jump Shot,24,-14,247,False
+Dejounte Murray,2,6,23,0,Jump Shot,6,5,68,True
+Dejounte Murray,2,5,59,0,Jump Shot,24,23,246,False
+Dejounte Murray,4,5,3,1,Jump Shot,23,230,17,False
+Dejounte Murray,4,7,21,0,Jump Shot,24,236,53,False
+Dejounte Murray,2,6,53,1,Jump Shot,10,105,-7,True
+Dejounte Murray,1,7,17,0,Jump Shot,15,-6,155,True
+Dejounte Murray,1,9,37,0,Jump Shot,13,137,-13,True
+Dejounte Murray,3,6,7,0,Jump Shot,23,-230,-23,False
+Dejounte Murray,1,10,29,0,Jump Shot,14,114,87,True
+Dejounte Murray,4,10,26,1,Jump Shot,10,-65,85,True
+Dejounte Murray,4,9,46,0,Jump Shot,19,-185,59,True
+Dejounte Murray,3,10,32,1,Jump Shot,22,-227,-13,False
+Dejounte Murray,1,11,46,0,Jump Shot,13,-125,42,True
+Dejounte Murray,1,5,53,0,Jump Shot,17,35,167,True
+Dejounte Murray,4,7,5,0,Jump Shot,22,-227,3,False
+Dejounte Murray,4,6,12,0,Jump Shot,15,25,153,True
+Dejounte Murray,2,0,0,0,Jump Shot,23,-236,12,False
+Dejounte Murray,3,7,21,0,Jump Shot,13,136,-6,True
+Dejounte Murray,4,1,31,1,Jump Shot,23,-230,5,False
+Dejounte Murray,2,5,17,0,Jump Shot,22,-229,6,False
+Dejounte Murray,4,6,0,0,Jump Shot,9,58,75,True
+Dejounte Murray,2,9,33,0,Jump Shot,19,121,148,True
+Dejounte Murray,3,0,1,1,Jump Shot,15,-82,134,True
+Dejounte Murray,4,11,0,1,Jump Shot,17,-119,131,True
+Dejounte Murray,2,3,12,1,Layup Shot,0,-2,2,True
+Dejounte Murray,3,5,30,1,Layup Shot,2,-18,20,True
+Dejounte Murray,3,4,50,0,Layup Shot,4,33,30,True
+Dejounte Murray,3,5,53,1,Layup Shot,1,7,9,True
+Dejounte Murray,4,8,36,0,Layup Shot,1,-11,-7,True
+Dejounte Murray,4,0,19,0,Layup Shot,2,14,18,True
+Dejounte Murray,1,9,10,1,Layup Shot,0,-8,4,True
+Dejounte Murray,3,3,45,1,Layup Shot,2,17,11,True
+Dejounte Murray,4,2,20,1,Layup Shot,2,-26,8,True
+Dejounte Murray,4,0,16,0,Layup Shot,3,-18,27,True
+Dejounte Murray,3,4,55,1,Layup Shot,0,1,9,True
+Dejounte Murray,4,0,36,0,Layup Shot,2,19,16,True
+Dejounte Murray,4,5,48,0,Layup Shot,2,-21,0,True
+Dejounte Murray,4,0,20,1,Layup Shot,2,-6,20,True
+Dejounte Murray,4,0,45,0,Layup Shot,2,23,3,True
+Dejounte Murray,1,10,57,0,Layup Shot,1,13,-2,True
+Dejounte Murray,1,4,56,0,Layup Shot,2,-7,20,True
+Dejounte Murray,3,8,14,0,Layup Shot,0,-1,1,True
+Dejounte Murray,4,0,51,0,Layup Shot,1,5,13,True
+Dejounte Murray,4,11,51,0,Layup Shot,3,34,8,True
+Dejounte Murray,4,2,2,1,Layup Shot,2,19,13,True
+Dejounte Murray,2,10,2,0,Layup Shot,2,-5,22,True
+Dejounte Murray,4,1,2,0,Layup Shot,4,3,48,True
+Dejounte Murray,1,6,28,0,Layup Shot,3,21,22,True
+Dejounte Murray,4,9,43,0,Layup Shot,1,-1,11,True
+Dejounte Murray,3,2,40,1,Layup Shot,2,-29,6,True
+Dejounte Murray,3,11,44,1,Layup Shot,2,1,21,True
+Dejounte Murray,4,3,1,1,Layup Shot,9,44,88,True
+Dejounte Murray,3,9,0,1,Layup Shot,0,6,7,True
+Dejounte Murray,3,9,9,0,Layup Shot,6,-55,37,True
+Dejounte Murray,2,6,31,0,Layup Shot,5,54,13,True
+Dejounte Murray,1,10,0,1,Layup Shot,1,-4,10,True
+Dejounte Murray,3,5,45,1,Layup Shot,0,4,2,True
+Dejounte Murray,4,1,12,1,Layup Shot,1,-12,10,True
+Dejounte Murray,1,5,7,0,Layup Shot,1,9,6,True
+Dejounte Murray,4,3,8,0,Layup Shot,1,-13,8,True
+Dejounte Murray,1,11,40,0,Pullup Jump shot,17,74,163,True
+Dejounte Murray,4,2,57,1,Pullup Jump shot,15,-49,151,True
+Dejounte Murray,3,5,48,0,Pullup Jump shot,16,110,120,True
+Dejounte Murray,2,7,36,0,Pullup Jump shot,15,-137,80,True
+Dejounte Murray,1,7,1,0,Pullup Jump shot,16,-25,167,True
+Dejounte Murray,3,9,17,1,Pullup Jump shot,6,-41,55,True
+Dejounte Murray,4,6,24,0,Pullup Jump shot,13,2,132,True
+Dejounte Murray,4,4,50,0,Pullup Jump shot,13,-5,136,True
+Dejounte Murray,2,5,39,1,Pullup Jump shot,14,52,131,True
+Dejounte Murray,3,9,1,1,Pullup Jump shot,14,-74,120,True
+Dejounte Murray,1,6,26,0,Pullup Jump shot,15,0,153,True
+Dejounte Murray,1,8,6,0,Pullup Jump shot,15,-8,151,True
+Dejounte Murray,3,3,53,0,Pullup Jump shot,13,-4,137,True
+Dejounte Murray,1,7,59,0,Pullup Jump shot,14,-58,132,True
+Dejounte Murray,4,1,18,0,Pullup Jump shot,23,79,221,True
+Dejounte Murray,3,3,10,0,Pullup Jump shot,6,4,68,True
+Dejounte Murray,4,7,3,0,Pullup Jump shot,11,-108,25,True
+Dejounte Murray,4,1,23,1,Pullup Jump shot,11,5,117,True
+Dejounte Murray,1,8,29,1,Pullup Jump shot,18,18,183,True
+Dejounte Murray,3,8,16,1,Pullup Jump shot,15,40,153,True
+Dejounte Murray,1,6,35,0,Pullup Jump shot,20,0,200,True
+Dejounte Murray,2,9,9,0,Pullup Jump shot,5,22,48,True
+Dejounte Murray,1,7,59,0,Pullup Jump shot,14,136,63,True
+Dejounte Murray,4,9,11,0,Pullup Jump shot,15,-154,-15,True
+Dejounte Murray,2,9,27,1,Pullup Jump shot,17,-131,118,True
+Dejounte Murray,3,7,53,1,Pullup Jump shot,14,17,146,True
+Dejounte Murray,1,2,58,1,Pullup Jump shot,13,40,128,True
+Dejounte Murray,4,4,22,0,Pullup Jump shot,14,-13,148,True
+Dejounte Murray,3,5,28,1,Pullup Jump shot,19,134,140,True
+Dejounte Murray,3,5,59,0,Pullup Jump shot,12,-117,42,True
+Dejounte Murray,4,0,33,0,Pullup Jump shot,14,114,93,True
+Dejounte Murray,1,5,28,1,Pullup Jump shot,16,-159,46,True
+Dejounte Murray,2,7,54,0,Pullup Jump shot,7,-5,78,True
+Dejounte Murray,1,0,57,0,Pullup Jump shot,12,95,76,True
+Dejounte Murray,4,9,3,0,Pullup Jump shot,19,134,136,True
+Dejounte Murray,3,0,51,0,Pullup Jump shot,12,-24,120,True
+Dejounte Murray,1,9,7,1,Pullup Jump shot,17,103,137,True
+Dejounte Murray,1,1,32,0,Pullup Jump shot,17,-23,169,True
+Dejounte Murray,3,7,14,0,Pullup Jump shot,10,109,1,True
+Dejounte Murray,3,5,18,1,Pullup Jump shot,7,40,64,True
+Dejounte Murray,3,11,25,0,Pullup Jump shot,8,12,87,True
+Dejounte Murray,4,2,1,0,Pullup Jump shot,18,-109,148,True
+Dejounte Murray,4,0,41,0,Pullup Jump shot,8,78,31,True
+Dejounte Murray,1,10,45,0,Pullup Jump shot,9,-70,70,True
+Dejounte Murray,4,10,43,1,Pullup Jump shot,11,112,25,True
+Dejounte Murray,4,7,52,1,Pullup Jump shot,12,29,118,True
+Dejounte Murray,1,10,32,1,Pullup Jump shot,18,-125,143,True
+Dejounte Murray,3,4,47,0,Pullup Jump shot,11,13,113,True
+Dejounte Murray,4,8,48,0,Pullup Jump shot,15,-31,148,True
+Dejounte Murray,2,8,14,1,Pullup Jump shot,12,-73,102,True
+Dejounte Murray,1,0,57,1,Pullup Jump shot,19,-120,149,True
+Dejounte Murray,3,10,4,0,Pullup Jump shot,17,107,134,True
+Dejounte Murray,3,1,10,0,Pullup Jump shot,18,-122,138,True
+Dejounte Murray,2,6,34,0,Pullup Jump shot,15,0,155,True
+Dejounte Murray,4,0,49,1,Pullup Jump shot,15,1,158,True
+Dejounte Murray,3,9,33,0,Pullup Jump shot,14,84,113,True
+Dejounte Murray,3,10,4,1,Pullup Jump shot,6,-51,35,True
+Dejounte Murray,3,10,1,0,Pullup Jump shot,11,44,110,True
+Dejounte Murray,1,6,42,0,Pullup Jump shot,14,-69,127,True
+Dejounte Murray,1,8,14,1,Pullup Jump shot,17,-171,46,True
+Dejounte Murray,2,5,10,0,Pullup Jump shot,15,14,155,True
+Dejounte Murray,1,8,16,0,Pullup Jump shot,21,3,216,True
+Dejounte Murray,2,6,9,0,Pullup Jump shot,14,-117,85,True
+Dejounte Murray,1,6,35,1,Pullup Jump shot,17,70,165,True
+Dejounte Murray,3,10,51,0,Pullup Jump shot,14,-10,140,True
+Dejounte Murray,2,6,56,1,Pullup Jump shot,14,-70,128,True
+Dejounte Murray,3,2,45,0,Pullup Jump shot,18,-92,157,True
+Dejounte Murray,2,7,3,0,Pullup Jump shot,17,47,173,True
+Dejounte Murray,2,3,2,1,Pullup Jump shot,15,11,151,True
+Dejounte Murray,3,4,19,1,Pullup Jump shot,11,71,92,True
+Dejounte Murray,4,3,11,0,Pullup Jump shot,8,-38,75,True
+Dejounte Murray,3,7,17,0,Pullup Jump shot,10,-47,90,True
+Dejounte Murray,3,11,9,0,Pullup Jump shot,18,72,171,True
+Dejounte Murray,2,6,14,0,Pullup Jump shot,16,43,159,True
+Dejounte Murray,1,5,27,0,Pullup Jump shot,15,-130,78,True
+Dejounte Murray,4,3,8,1,Pullup Jump shot,14,-56,130,True
+Dejounte Murray,2,9,37,1,Pullup Jump shot,11,47,108,True
+Dejounte Murray,1,6,45,0,Pullup Jump shot,19,66,187,True
+Dejounte Murray,4,5,41,0,Pullup Jump shot,11,72,84,True
+Dejounte Murray,4,8,12,1,Pullup Jump shot,20,15,201,True
+Dejounte Murray,4,6,5,0,Pullup Jump shot,19,-35,193,True
+Dejounte Murray,4,4,50,1,Pullup Jump shot,9,82,45,True
+Dejounte Murray,3,10,24,0,Pullup Jump shot,8,-14,80,True
+Dejounte Murray,3,3,40,1,Pullup Jump shot,15,10,151,True
+Dejounte Murray,4,3,9,1,Pullup Jump shot,16,100,136,True
+Dejounte Murray,2,0,28,1,Pullup Jump shot,10,87,58,True
+Dejounte Murray,2,2,47,0,Pullup Jump shot,12,-119,26,True
+Dejounte Murray,1,9,52,0,Pullup Jump shot,15,-57,149,True
+Dejounte Murray,4,6,44,0,Pullup Jump shot,19,104,162,True
+Dejounte Murray,1,0,44,0,Pullup Jump shot,16,32,159,True
+Dejounte Murray,2,9,50,1,Pullup Jump shot,16,84,146,True
+Dejounte Murray,4,0,12,1,Pullup Jump shot,19,-25,197,True
+Dejounte Murray,2,1,26,0,Pullup Jump shot,14,48,138,True
+Dejounte Murray,3,7,25,1,Pullup Jump shot,16,11,168,True
+Dejounte Murray,2,7,58,0,Pullup Jump shot,15,8,159,True
+Dejounte Murray,3,6,21,1,Pullup Jump shot,14,-46,141,True
+Dejounte Murray,4,6,35,0,Pullup Jump shot,19,-27,195,True
+Dejounte Murray,4,11,4,1,Pullup Jump shot,13,-53,125,True
+Dejounte Murray,4,6,26,0,Pullup Jump shot,19,71,177,True
+Dejounte Murray,3,10,41,1,Pullup Jump shot,16,-166,-7,True
+Dejounte Murray,1,10,55,0,Putback Layup Shot,0,0,-6,True
+Dejounte Murray,2,4,3,1,Putback Layup Shot,0,0,-6,True
+Dejounte Murray,2,4,19,0,Putback Layup Shot,1,-14,5,True
+Dejounte Murray,3,4,56,0,Putback Layup Shot,0,0,-6,True
+Dejounte Murray,2,5,17,0,Putback Layup Shot,0,0,-6,True
+Dejounte Murray,1,11,35,0,Putback Layup Shot,2,1,27,True
+Dejounte Murray,2,11,6,1,Putback Layup Shot,0,3,6,True
+Dejounte Murray,4,8,16,1,Putback Layup Shot,0,0,-6,True
+Dejounte Murray,3,2,35,1,Putback Layup Shot,1,-1,12,True
+Dejounte Murray,4,2,47,1,Putback Layup Shot,1,-7,10,True
+Dejounte Murray,4,11,27,0,Reverse Layup Shot,1,-16,9,True
+Dejounte Murray,3,11,2,1,Reverse Layup Shot,2,-20,10,True
+Dejounte Murray,2,8,50,1,Reverse Layup Shot,2,-4,24,True
+Dejounte Murray,4,5,59,1,Reverse Layup Shot,1,-13,8,True
+Dejounte Murray,2,8,44,0,Reverse Layup Shot,0,-1,0,True
+Dejounte Murray,2,5,18,1,Running Dunk Shot,2,11,22,True
+Dejounte Murray,2,11,12,1,Running Dunk Shot,1,2,15,True
+Dejounte Murray,1,7,16,1,Running Dunk Shot,1,9,15,True
+Dejounte Murray,3,8,48,1,Running Dunk Shot,0,6,3,True
+Dejounte Murray,3,3,55,1,Running Dunk Shot,0,-9,-2,True
+Dejounte Murray,2,8,14,1,Running Dunk Shot,0,-3,6,True
+Dejounte Murray,1,7,57,1,Running Finger Roll Layup Shot,0,-5,0,True
+Dejounte Murray,2,7,10,1,Running Finger Roll Layup Shot,0,3,4,True
+Dejounte Murray,2,6,6,1,Running Finger Roll Layup Shot,0,0,7,True
+Dejounte Murray,3,11,11,1,Running Finger Roll Layup Shot,1,13,4,True
+Dejounte Murray,3,6,39,1,Running Finger Roll Layup Shot,1,-3,17,True
+Dejounte Murray,2,5,17,1,Running Finger Roll Layup Shot,0,-1,1,True
+Dejounte Murray,1,9,28,1,Running Finger Roll Layup Shot,0,2,7,True
+Dejounte Murray,3,9,30,0,Running Jump Shot,15,-158,-3,True
+Dejounte Murray,2,0,1,0,Running Jump Shot,16,152,74,True
+Dejounte Murray,3,0,29,0,Running Jump Shot,8,-51,63,True
+Dejounte Murray,3,0,0,0,Running Jump Shot,16,109,128,True
+Dejounte Murray,3,1,45,0,Running Layup Shot,2,-16,21,True
+Dejounte Murray,2,1,7,1,Running Layup Shot,2,24,7,True
+Dejounte Murray,4,11,2,1,Running Layup Shot,1,12,9,True
+Dejounte Murray,4,1,45,1,Running Layup Shot,0,5,6,True
+Dejounte Murray,4,2,43,0,Running Layup Shot,0,-6,-1,True
+Dejounte Murray,4,1,59,1,Running Layup Shot,2,0,20,True
+Dejounte Murray,1,8,45,0,Running Layup Shot,0,5,4,True
+Dejounte Murray,1,7,5,1,Running Layup Shot,1,2,11,True
+Dejounte Murray,1,5,44,0,Running Layup Shot,0,-6,5,True
+Dejounte Murray,1,9,33,0,Running Layup Shot,3,23,22,True
+Dejounte Murray,4,10,5,1,Running Layup Shot,2,18,13,True
+Dejounte Murray,3,9,52,1,Running Layup Shot,1,-2,11,True
+Dejounte Murray,4,11,32,1,Running Layup Shot,1,14,5,True
+Dejounte Murray,2,6,35,1,Running Layup Shot,1,-19,2,True
+Dejounte Murray,2,7,26,1,Running Layup Shot,4,-23,38,True
+Dejounte Murray,2,6,13,1,Running Layup Shot,2,18,11,True
+Dejounte Murray,4,11,31,0,Running Layup Shot,3,34,13,True
+Dejounte Murray,3,1,42,0,Running Layup Shot,2,-20,-5,True
+Dejounte Murray,3,9,33,1,Running Layup Shot,1,2,13,True
+Dejounte Murray,2,3,15,0,Running Layup Shot,2,8,19,True
+Dejounte Murray,3,10,4,1,Running Layup Shot,1,11,6,True
+Dejounte Murray,4,0,24,1,Running Layup Shot,2,3,23,True
+Dejounte Murray,2,10,19,1,Running Layup Shot,0,-5,1,True
+Dejounte Murray,1,6,56,0,Running Pull-Up Jump Shot,19,130,143,True
+Dejounte Murray,2,9,43,0,Running Reverse Layup Shot,4,-28,29,True
+Dejounte Murray,1,10,29,0,Step Back Jump shot,13,-137,-13,True
+Dejounte Murray,2,11,3,0,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,4,11,19,0,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,1,4,49,0,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,4,11,30,0,Tip Layup Shot,1,12,4,True
+Dejounte Murray,2,4,18,0,Tip Layup Shot,0,-3,6,True
+Dejounte Murray,4,8,55,0,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,1,11,24,1,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,2,6,45,1,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,1,10,0,0,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,1,10,52,1,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,4,4,33,1,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,3,4,59,1,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,4,10,32,0,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,3,7,14,1,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,1,10,2,0,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,1,4,48,1,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,3,6,10,1,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,4,5,43,1,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,2,11,11,1,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,2,9,56,0,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,2,5,35,1,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,2,11,26,0,Tip Layup Shot,1,-11,-2,True
+Dejounte Murray,4,10,55,0,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,1,7,39,1,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,4,0,20,1,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,2,4,16,0,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,2,4,16,1,Tip Layup Shot,0,0,-6,True
+Dejounte Murray,2,11,30,0,Turnaround Jump Shot,7,-8,76,True
+Dejounte Murray,3,11,10,0,Turnaround Jump Shot,12,-124,26,True
+Dejounte Murray,4,1,29,1,Turnaround Jump Shot,13,63,125,True
+Dejounte Murray,1,9,55,0,Turnaround Jump Shot,10,-11,104,True
+Dejounte Murray,4,4,30,0,Turnaround Jump Shot,10,36,103,True
+Dejounte Murray,2,7,47,1,Turnaround Jump Shot,13,95,95,True
+Dejounte Murray,2,8,15,0,Turnaround Jump Shot,6,-67,20,True
+Dejounte Murray,4,11,11,0,Turnaround Jump Shot,19,95,174,True
+Dejounte Murray,1,5,21,0,Turnaround Jump Shot,10,106,13,True
+Dejounte Murray,2,4,50,1,Turnaround Jump Shot,14,-8,146,True
+Dejounte Murray,1,10,51,0,Turnaround Jump Shot,6,-62,22,True

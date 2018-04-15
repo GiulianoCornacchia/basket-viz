@@ -1,0 +1,14 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Julyan Stone,4,3,41,1,Jump Shot,23,222,84,False
+Julyan Stone,4,4,45,1,Jump Shot,24,236,58,False
+Julyan Stone,4,0,47,0,Jump Shot,24,-235,60,False
+Julyan Stone,2,8,34,0,Jump Shot,23,228,74,False
+Julyan Stone,2,9,48,0,Jump Shot,25,-132,223,False
+Julyan Stone,4,1,50,1,Jump Shot,22,-226,-15,False
+Julyan Stone,2,9,45,1,Jump Shot,24,157,189,False
+Julyan Stone,2,8,7,0,Jump Shot,23,-229,31,False
+Julyan Stone,4,5,1,0,Jump Shot,26,-128,234,False
+Julyan Stone,1,1,58,0,Jump Shot,23,230,5,False
+Julyan Stone,1,1,38,1,Jump Shot,23,-231,9,False
+Julyan Stone,3,0,0,0,Jump Shot,29,-224,185,False
+Julyan Stone,2,11,0,1,Jump Shot,25,-55,246,False

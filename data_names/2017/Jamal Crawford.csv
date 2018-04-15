@@ -1,0 +1,677 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jamal Crawford,3,0,4,1,Driving Finger Roll Layup Shot,4,0,41,True
+Jamal Crawford,4,1,51,0,Driving Finger Roll Layup Shot,3,-8,33,True
+Jamal Crawford,4,4,28,0,Driving Finger Roll Layup Shot,6,4,68,True
+Jamal Crawford,2,8,37,1,Driving Finger Roll Layup Shot,2,2,24,True
+Jamal Crawford,4,7,30,0,Driving Finger Roll Layup Shot,9,31,90,True
+Jamal Crawford,4,11,14,1,Driving Finger Roll Layup Shot,1,5,18,True
+Jamal Crawford,3,0,5,0,Driving Finger Roll Layup Shot,6,-11,60,True
+Jamal Crawford,1,0,15,1,Driving Finger Roll Layup Shot,2,8,25,True
+Jamal Crawford,1,2,1,1,Driving Finger Roll Layup Shot,1,8,9,True
+Jamal Crawford,2,8,11,0,Driving Finger Roll Layup Shot,2,8,24,True
+Jamal Crawford,3,2,4,1,Driving Finger Roll Layup Shot,2,-7,26,True
+Jamal Crawford,1,1,15,1,Driving Finger Roll Layup Shot,0,-3,7,True
+Jamal Crawford,4,5,33,0,Driving Finger Roll Layup Shot,4,-12,46,True
+Jamal Crawford,4,10,30,0,Driving Finger Roll Layup Shot,3,2,34,True
+Jamal Crawford,3,1,28,1,Driving Finger Roll Layup Shot,5,-6,59,True
+Jamal Crawford,1,1,17,1,Driving Finger Roll Layup Shot,0,-3,9,True
+Jamal Crawford,4,6,4,1,Driving Finger Roll Layup Shot,1,6,11,True
+Jamal Crawford,1,1,1,1,Driving Floating Bank Jump Shot,4,38,22,True
+Jamal Crawford,3,0,3,0,Driving Floating Bank Jump Shot,8,50,71,True
+Jamal Crawford,3,0,10,0,Driving Floating Bank Jump Shot,10,90,52,True
+Jamal Crawford,2,10,1,0,Driving Floating Bank Jump Shot,11,82,80,True
+Jamal Crawford,4,8,25,1,Driving Floating Bank Jump Shot,10,-92,50,True
+Jamal Crawford,1,0,5,0,Driving Floating Jump Shot,3,26,23,True
+Jamal Crawford,4,8,32,0,Driving Floating Jump Shot,7,11,71,True
+Jamal Crawford,3,2,1,0,Driving Floating Jump Shot,7,25,68,True
+Jamal Crawford,3,0,3,1,Driving Floating Jump Shot,7,-17,76,True
+Jamal Crawford,1,0,1,1,Driving Floating Jump Shot,7,-37,68,True
+Jamal Crawford,2,11,11,0,Driving Floating Jump Shot,12,120,23,True
+Jamal Crawford,2,3,46,1,Driving Floating Jump Shot,10,94,44,True
+Jamal Crawford,2,4,14,1,Driving Floating Jump Shot,10,1,109,True
+Jamal Crawford,3,0,2,0,Driving Floating Jump Shot,11,27,113,True
+Jamal Crawford,1,1,55,1,Driving Floating Jump Shot,10,52,95,True
+Jamal Crawford,4,3,33,0,Driving Floating Jump Shot,7,-36,69,True
+Jamal Crawford,3,0,36,0,Driving Floating Jump Shot,14,5,143,True
+Jamal Crawford,3,0,10,0,Driving Floating Jump Shot,2,21,13,True
+Jamal Crawford,4,5,33,0,Driving Floating Jump Shot,8,13,84,True
+Jamal Crawford,3,5,34,1,Driving Floating Jump Shot,8,-41,78,True
+Jamal Crawford,3,0,7,0,Driving Floating Jump Shot,9,-60,68,True
+Jamal Crawford,4,6,1,1,Driving Hook Shot,2,19,12,True
+Jamal Crawford,2,8,36,0,Driving Layup Shot,3,3,32,True
+Jamal Crawford,4,9,50,1,Driving Layup Shot,7,54,47,True
+Jamal Crawford,3,0,1,1,Driving Layup Shot,1,-7,16,True
+Jamal Crawford,4,5,1,0,Driving Layup Shot,5,51,26,True
+Jamal Crawford,3,1,26,1,Driving Layup Shot,1,0,15,True
+Jamal Crawford,2,10,54,1,Driving Layup Shot,2,20,11,True
+Jamal Crawford,2,10,15,1,Driving Layup Shot,9,58,77,True
+Jamal Crawford,4,11,51,1,Driving Layup Shot,2,-14,17,True
+Jamal Crawford,3,0,26,0,Driving Layup Shot,7,-23,73,True
+Jamal Crawford,2,9,54,0,Driving Layup Shot,7,54,49,True
+Jamal Crawford,3,0,39,0,Driving Layup Shot,0,4,7,True
+Jamal Crawford,4,11,39,0,Driving Layup Shot,2,-22,16,True
+Jamal Crawford,2,2,40,0,Driving Layup Shot,3,13,32,True
+Jamal Crawford,2,5,53,0,Driving Layup Shot,3,25,30,True
+Jamal Crawford,2,10,51,1,Driving Layup Shot,0,-2,8,True
+Jamal Crawford,3,1,19,0,Driving Layup Shot,2,21,-5,True
+Jamal Crawford,4,9,53,1,Driving Layup Shot,2,14,20,True
+Jamal Crawford,3,1,0,1,Driving Layup Shot,1,-2,15,True
+Jamal Crawford,1,0,14,0,Driving Layup Shot,1,12,15,True
+Jamal Crawford,1,0,29,1,Driving Layup Shot,1,-2,17,True
+Jamal Crawford,3,0,43,1,Driving Layup Shot,0,-1,1,True
+Jamal Crawford,1,0,28,0,Driving Layup Shot,3,14,27,True
+Jamal Crawford,4,6,51,0,Driving Layup Shot,3,29,18,True
+Jamal Crawford,3,2,18,0,Driving Layup Shot,2,13,19,True
+Jamal Crawford,1,3,40,1,Driving Layup Shot,2,1,22,True
+Jamal Crawford,4,9,10,1,Driving Layup Shot,4,27,38,True
+Jamal Crawford,4,11,24,1,Driving Layup Shot,2,9,18,True
+Jamal Crawford,4,11,22,1,Driving Layup Shot,2,2,22,True
+Jamal Crawford,4,11,28,0,Driving Layup Shot,3,18,32,True
+Jamal Crawford,4,9,5,0,Fadeaway Jump Shot,18,186,-1,True
+Jamal Crawford,4,6,31,0,Fadeaway Jump Shot,23,230,-22,False
+Jamal Crawford,1,0,27,0,Fadeaway Jump Shot,10,101,16,True
+Jamal Crawford,2,9,12,1,Fadeaway Jump Shot,15,-15,156,True
+Jamal Crawford,2,6,31,0,Fadeaway Jump Shot,14,-100,104,True
+Jamal Crawford,2,5,34,1,Fadeaway Jump Shot,9,-55,73,True
+Jamal Crawford,4,9,45,0,Fadeaway Jump Shot,20,-145,139,True
+Jamal Crawford,3,1,21,0,Fadeaway Jump Shot,15,124,86,True
+Jamal Crawford,3,0,18,1,Fadeaway Jump Shot,12,-125,-20,True
+Jamal Crawford,2,9,44,0,Finger Roll Layup Shot,10,85,53,True
+Jamal Crawford,4,8,34,0,Finger Roll Layup Shot,2,2,25,True
+Jamal Crawford,2,7,18,1,Finger Roll Layup Shot,1,-4,16,True
+Jamal Crawford,4,11,21,0,Floating Jump shot,7,33,69,True
+Jamal Crawford,4,10,26,1,Floating Jump shot,12,-2,121,True
+Jamal Crawford,2,2,4,0,Floating Jump shot,10,-16,99,True
+Jamal Crawford,2,11,29,0,Floating Jump shot,10,74,78,True
+Jamal Crawford,1,0,0,0,Floating Jump shot,4,19,43,True
+Jamal Crawford,4,8,10,1,Floating Jump shot,18,-7,188,True
+Jamal Crawford,2,8,31,0,Floating Jump shot,17,38,171,True
+Jamal Crawford,2,9,36,1,Floating Jump shot,14,-2,149,True
+Jamal Crawford,2,6,0,1,Floating Jump shot,11,36,105,True
+Jamal Crawford,4,7,41,0,Floating Jump shot,15,78,133,True
+Jamal Crawford,2,11,41,0,Floating Jump shot,6,-53,40,True
+Jamal Crawford,2,10,36,1,Floating Jump shot,6,8,66,True
+Jamal Crawford,3,0,31,0,Floating Jump shot,3,-29,13,True
+Jamal Crawford,4,7,29,0,Floating Jump shot,12,126,5,True
+Jamal Crawford,1,1,56,0,Hook Shot,6,22,63,True
+Jamal Crawford,3,4,50,1,Jump Bank Shot,24,232,86,False
+Jamal Crawford,4,1,11,0,Jump Shot,28,-114,264,False
+Jamal Crawford,4,7,51,0,Jump Shot,12,-122,21,True
+Jamal Crawford,2,4,23,1,Jump Shot,24,224,110,False
+Jamal Crawford,1,0,59,1,Jump Shot,19,120,157,True
+Jamal Crawford,4,9,43,0,Jump Shot,29,-171,241,False
+Jamal Crawford,1,0,34,0,Jump Shot,28,74,271,False
+Jamal Crawford,3,0,2,1,Jump Shot,29,-62,286,False
+Jamal Crawford,4,8,35,0,Jump Shot,18,70,175,True
+Jamal Crawford,2,10,23,1,Jump Shot,9,27,92,True
+Jamal Crawford,4,7,1,1,Jump Shot,23,-193,140,False
+Jamal Crawford,4,10,59,0,Jump Shot,26,-23,263,False
+Jamal Crawford,2,10,30,1,Jump Shot,24,-201,146,False
+Jamal Crawford,2,3,41,0,Jump Shot,22,-221,50,False
+Jamal Crawford,2,9,43,0,Jump Shot,10,84,69,True
+Jamal Crawford,2,4,17,0,Jump Shot,27,220,163,False
+Jamal Crawford,2,7,58,0,Jump Shot,25,131,222,False
+Jamal Crawford,2,9,17,0,Jump Shot,25,160,195,False
+Jamal Crawford,2,11,5,0,Jump Shot,24,-84,230,False
+Jamal Crawford,2,3,12,1,Jump Shot,22,-226,-11,False
+Jamal Crawford,4,7,2,0,Jump Shot,23,-236,8,False
+Jamal Crawford,1,0,47,1,Jump Shot,23,-231,51,False
+Jamal Crawford,4,11,43,0,Jump Shot,17,134,105,True
+Jamal Crawford,4,9,41,1,Jump Shot,25,107,226,False
+Jamal Crawford,1,0,0,0,Jump Shot,25,-14,254,False
+Jamal Crawford,2,6,41,1,Jump Shot,25,-92,239,False
+Jamal Crawford,4,5,23,0,Jump Shot,22,-228,1,False
+Jamal Crawford,2,9,51,0,Jump Shot,19,117,162,True
+Jamal Crawford,2,8,1,0,Jump Shot,15,-85,135,True
+Jamal Crawford,2,10,47,0,Jump Shot,25,-157,199,False
+Jamal Crawford,2,6,5,0,Jump Shot,25,-9,253,False
+Jamal Crawford,1,1,8,0,Jump Shot,20,109,177,True
+Jamal Crawford,4,10,36,1,Jump Shot,19,120,154,True
+Jamal Crawford,4,8,48,0,Jump Shot,28,-63,281,False
+Jamal Crawford,3,1,3,0,Jump Shot,20,4,201,True
+Jamal Crawford,1,1,34,0,Jump Shot,15,58,142,True
+Jamal Crawford,4,11,38,1,Jump Shot,25,-218,141,False
+Jamal Crawford,2,10,33,1,Jump Shot,25,55,246,False
+Jamal Crawford,2,7,7,1,Jump Shot,21,52,205,True
+Jamal Crawford,2,6,14,0,Jump Shot,22,-225,20,False
+Jamal Crawford,4,2,5,0,Jump Shot,25,91,241,False
+Jamal Crawford,4,1,30,0,Jump Shot,21,122,179,True
+Jamal Crawford,4,8,32,0,Jump Shot,15,-23,152,True
+Jamal Crawford,2,7,42,0,Jump Shot,26,1,266,False
+Jamal Crawford,1,0,1,0,Jump Shot,31,107,299,False
+Jamal Crawford,1,0,50,1,Jump Shot,18,-48,176,True
+Jamal Crawford,1,0,3,1,Jump Shot,16,-162,-2,True
+Jamal Crawford,1,0,29,0,Jump Shot,25,55,245,False
+Jamal Crawford,4,11,50,0,Jump Shot,25,85,242,False
+Jamal Crawford,1,2,7,1,Jump Shot,18,-3,188,True
+Jamal Crawford,4,10,35,0,Jump Shot,32,-158,288,False
+Jamal Crawford,2,6,38,0,Jump Shot,24,-203,138,False
+Jamal Crawford,2,4,45,1,Jump Shot,12,-16,127,True
+Jamal Crawford,4,10,50,1,Jump Shot,26,-3,268,False
+Jamal Crawford,2,7,58,0,Jump Shot,15,61,140,True
+Jamal Crawford,1,0,0,1,Jump Shot,38,-3,388,False
+Jamal Crawford,4,9,48,0,Jump Shot,27,-2,274,False
+Jamal Crawford,3,0,53,0,Jump Shot,18,-51,183,True
+Jamal Crawford,4,3,9,1,Jump Shot,25,1,252,False
+Jamal Crawford,4,9,31,0,Jump Shot,26,-69,255,False
+Jamal Crawford,3,1,27,0,Jump Shot,19,90,172,True
+Jamal Crawford,2,9,22,0,Jump Shot,28,133,252,False
+Jamal Crawford,4,7,15,0,Jump Shot,23,-224,80,False
+Jamal Crawford,2,7,17,1,Jump Shot,22,228,-15,False
+Jamal Crawford,2,7,30,0,Jump Shot,8,60,63,True
+Jamal Crawford,2,11,37,0,Jump Shot,28,101,262,False
+Jamal Crawford,4,10,51,0,Jump Shot,26,150,216,False
+Jamal Crawford,4,9,45,0,Jump Shot,23,231,4,False
+Jamal Crawford,2,11,26,0,Jump Shot,28,-24,281,False
+Jamal Crawford,4,6,35,1,Jump Shot,22,-226,8,False
+Jamal Crawford,3,2,13,0,Jump Shot,28,143,246,False
+Jamal Crawford,4,9,52,0,Jump Shot,19,-98,165,True
+Jamal Crawford,3,0,4,0,Jump Shot,21,-54,205,True
+Jamal Crawford,3,2,45,1,Jump Shot,22,228,-1,False
+Jamal Crawford,2,5,30,0,Jump Shot,24,-60,234,False
+Jamal Crawford,2,10,37,1,Jump Shot,25,14,251,False
+Jamal Crawford,4,10,30,0,Jump Shot,28,-58,275,False
+Jamal Crawford,2,8,20,1,Jump Shot,20,207,-6,True
+Jamal Crawford,3,0,1,0,Jump Shot,44,128,426,False
+Jamal Crawford,4,8,20,0,Jump Shot,27,-11,272,False
+Jamal Crawford,2,4,39,1,Jump Shot,24,239,25,False
+Jamal Crawford,2,11,42,0,Jump Shot,25,116,231,False
+Jamal Crawford,2,11,1,0,Jump Shot,25,0,255,False
+Jamal Crawford,2,5,13,0,Jump Shot,19,38,188,True
+Jamal Crawford,4,6,41,0,Jump Shot,18,109,145,True
+Jamal Crawford,3,0,0,0,Jump Shot,11,-60,95,True
+Jamal Crawford,2,7,29,0,Jump Shot,21,202,77,True
+Jamal Crawford,2,11,44,0,Jump Shot,25,-133,222,False
+Jamal Crawford,1,4,6,0,Jump Shot,27,-67,267,False
+Jamal Crawford,3,2,4,0,Jump Shot,22,-226,-5,False
+Jamal Crawford,4,10,40,1,Jump Shot,25,-89,235,False
+Jamal Crawford,4,9,53,0,Jump Shot,16,-93,142,True
+Jamal Crawford,1,1,52,0,Jump Shot,26,151,212,False
+Jamal Crawford,2,0,0,1,Jump Shot,19,192,-8,True
+Jamal Crawford,2,0,2,1,Jump Shot,15,-33,148,True
+Jamal Crawford,2,10,39,0,Jump Shot,27,64,264,False
+Jamal Crawford,4,5,56,0,Jump Shot,6,2,62,True
+Jamal Crawford,4,10,58,1,Jump Shot,30,-93,288,False
+Jamal Crawford,2,11,32,1,Jump Shot,25,55,248,False
+Jamal Crawford,4,10,0,0,Jump Shot,19,-42,190,True
+Jamal Crawford,1,0,33,1,Jump Shot,25,-8,253,False
+Jamal Crawford,3,2,24,0,Jump Shot,23,-230,55,False
+Jamal Crawford,4,8,12,0,Jump Shot,19,-44,191,True
+Jamal Crawford,3,0,24,0,Jump Shot,23,-231,48,False
+Jamal Crawford,2,6,33,0,Jump Shot,10,30,105,True
+Jamal Crawford,4,11,16,0,Jump Shot,16,-3,160,True
+Jamal Crawford,4,2,39,1,Jump Shot,26,-14,262,False
+Jamal Crawford,2,10,47,0,Jump Shot,26,112,242,False
+Jamal Crawford,4,11,0,0,Jump Shot,25,-109,227,False
+Jamal Crawford,3,1,24,0,Jump Shot,20,-18,202,True
+Jamal Crawford,2,5,55,1,Jump Shot,25,166,194,False
+Jamal Crawford,4,10,1,0,Jump Shot,27,-149,231,False
+Jamal Crawford,4,1,38,0,Jump Shot,28,-79,270,False
+Jamal Crawford,4,0,58,1,Jump Shot,23,-228,55,False
+Jamal Crawford,3,0,0,0,Jump Shot,24,192,160,False
+Jamal Crawford,2,7,51,0,Jump Shot,15,-3,158,True
+Jamal Crawford,4,6,12,0,Jump Shot,24,71,239,False
+Jamal Crawford,4,11,23,0,Jump Shot,25,-134,222,False
+Jamal Crawford,1,4,6,1,Jump Shot,25,229,106,False
+Jamal Crawford,1,0,11,0,Jump Shot,27,-100,253,False
+Jamal Crawford,1,0,25,0,Jump Shot,13,125,38,True
+Jamal Crawford,2,2,37,1,Jump Shot,23,236,5,False
+Jamal Crawford,4,7,32,1,Jump Shot,12,-101,78,True
+Jamal Crawford,2,2,3,0,Jump Shot,26,122,234,False
+Jamal Crawford,4,11,10,0,Jump Shot,23,230,53,False
+Jamal Crawford,2,5,38,0,Jump Shot,27,-166,225,False
+Jamal Crawford,2,6,20,0,Jump Shot,23,-232,9,False
+Jamal Crawford,2,10,47,1,Jump Shot,25,-181,180,False
+Jamal Crawford,4,7,8,0,Jump Shot,23,-231,17,False
+Jamal Crawford,2,10,28,0,Jump Shot,21,144,158,True
+Jamal Crawford,2,10,24,1,Jump Shot,23,236,40,False
+Jamal Crawford,2,7,29,0,Jump Shot,22,205,81,True
+Jamal Crawford,2,8,53,0,Jump Shot,16,93,141,True
+Jamal Crawford,2,6,44,1,Jump Shot,30,-161,260,False
+Jamal Crawford,4,11,37,0,Jump Shot,25,-123,219,False
+Jamal Crawford,1,1,2,0,Jump Shot,26,-22,267,False
+Jamal Crawford,2,5,41,0,Jump Shot,25,-95,235,False
+Jamal Crawford,4,6,12,0,Jump Shot,25,-87,245,False
+Jamal Crawford,2,9,18,0,Jump Shot,27,-107,258,False
+Jamal Crawford,3,3,57,0,Jump Shot,22,-225,3,False
+Jamal Crawford,4,9,44,1,Jump Shot,22,-220,-2,False
+Jamal Crawford,4,7,42,0,Jump Shot,25,-228,111,False
+Jamal Crawford,1,3,54,1,Jump Shot,28,138,246,False
+Jamal Crawford,4,10,23,0,Jump Shot,23,-231,15,False
+Jamal Crawford,1,3,23,1,Jump Shot,24,-122,208,False
+Jamal Crawford,2,9,31,0,Jump Shot,24,63,236,False
+Jamal Crawford,2,8,8,0,Jump Shot,24,-127,215,False
+Jamal Crawford,2,10,32,1,Jump Shot,19,-48,189,True
+Jamal Crawford,4,9,20,0,Jump Shot,21,0,211,True
+Jamal Crawford,1,2,0,0,Jump Shot,26,-20,265,False
+Jamal Crawford,1,1,17,1,Jump Shot,20,202,33,True
+Jamal Crawford,2,11,7,1,Jump Shot,18,115,151,True
+Jamal Crawford,4,9,19,1,Jump Shot,26,120,238,False
+Jamal Crawford,3,2,33,0,Jump Shot,26,179,193,False
+Jamal Crawford,2,9,47,0,Jump Shot,25,114,227,False
+Jamal Crawford,3,3,35,0,Jump Shot,26,85,248,False
+Jamal Crawford,4,4,31,0,Jump Shot,26,-3,262,False
+Jamal Crawford,4,0,0,0,Jump Shot,31,114,298,False
+Jamal Crawford,1,0,3,1,Jump Shot,25,-150,210,False
+Jamal Crawford,1,0,0,0,Jump Shot,22,-221,24,False
+Jamal Crawford,3,2,22,1,Jump Shot,22,-228,-15,False
+Jamal Crawford,2,4,42,1,Jump Shot,10,-6,104,True
+Jamal Crawford,2,8,5,0,Jump Shot,27,98,254,False
+Jamal Crawford,2,4,42,0,Jump Shot,16,18,168,True
+Jamal Crawford,4,0,28,1,Jump Shot,23,228,37,False
+Jamal Crawford,4,4,12,0,Jump Shot,22,223,50,False
+Jamal Crawford,2,0,57,1,Jump Shot,24,44,246,False
+Jamal Crawford,2,1,53,0,Jump Shot,27,-121,247,False
+Jamal Crawford,4,7,35,0,Jump Shot,22,-228,2,False
+Jamal Crawford,4,10,6,1,Jump Shot,27,-88,264,False
+Jamal Crawford,2,7,4,0,Jump Shot,28,88,271,False
+Jamal Crawford,4,4,48,0,Jump Shot,28,45,283,False
+Jamal Crawford,2,0,2,1,Jump Shot,22,-227,-13,False
+Jamal Crawford,1,0,5,0,Jump Shot,24,-5,246,False
+Jamal Crawford,2,7,3,0,Jump Shot,17,78,155,True
+Jamal Crawford,1,2,50,0,Jump Shot,17,-65,167,True
+Jamal Crawford,3,0,0,0,Jump Shot,22,228,-9,False
+Jamal Crawford,3,5,22,0,Jump Shot,27,-96,254,False
+Jamal Crawford,3,4,14,0,Jump Shot,30,4,300,False
+Jamal Crawford,1,2,44,0,Jump Shot,24,-227,101,False
+Jamal Crawford,4,9,26,0,Jump Shot,24,-231,95,False
+Jamal Crawford,1,3,8,0,Jump Shot,29,-20,290,False
+Jamal Crawford,1,1,3,0,Jump Shot,21,108,181,True
+Jamal Crawford,4,8,44,1,Jump Shot,24,-184,161,False
+Jamal Crawford,2,8,10,1,Jump Shot,17,176,1,True
+Jamal Crawford,5,0,47,1,Jump Shot,18,-125,132,True
+Jamal Crawford,2,10,19,0,Jump Shot,24,-125,206,False
+Jamal Crawford,4,4,33,0,Jump Shot,22,227,7,False
+Jamal Crawford,3,1,29,0,Jump Shot,19,79,179,True
+Jamal Crawford,2,6,20,1,Jump Shot,25,78,247,False
+Jamal Crawford,2,11,43,0,Jump Shot,25,86,241,False
+Jamal Crawford,2,8,49,0,Jump Shot,26,84,256,False
+Jamal Crawford,2,6,35,0,Jump Shot,22,-79,210,True
+Jamal Crawford,3,2,59,0,Jump Shot,22,-166,155,True
+Jamal Crawford,3,4,34,0,Jump Shot,21,-52,204,True
+Jamal Crawford,3,0,0,0,Jump Shot,26,107,239,False
+Jamal Crawford,3,4,6,1,Jump Shot,23,-239,-15,False
+Jamal Crawford,3,8,53,0,Jump Shot,23,231,0,False
+Jamal Crawford,4,10,33,0,Jump Shot,17,74,162,True
+Jamal Crawford,2,5,54,0,Jump Shot,25,147,206,False
+Jamal Crawford,4,6,57,0,Jump Shot,27,143,234,False
+Jamal Crawford,3,0,54,1,Jump Shot,22,-226,25,False
+Jamal Crawford,2,9,52,0,Jump Shot,23,231,13,False
+Jamal Crawford,2,3,46,0,Jump Shot,15,-6,157,True
+Jamal Crawford,1,0,0,0,Jump Shot,31,148,277,False
+Jamal Crawford,4,11,23,0,Jump Shot,23,-231,12,False
+Jamal Crawford,4,11,23,0,Jump Shot,16,-81,139,True
+Jamal Crawford,3,0,32,0,Jump Shot,16,46,155,True
+Jamal Crawford,2,9,14,0,Jump Shot,26,-68,253,False
+Jamal Crawford,4,3,21,0,Jump Shot,25,-190,165,False
+Jamal Crawford,2,3,12,0,Jump Shot,22,-222,-12,False
+Jamal Crawford,3,0,0,0,Jump Shot,9,-72,62,True
+Jamal Crawford,2,10,20,0,Jump Shot,25,60,250,False
+Jamal Crawford,4,6,4,1,Jump Shot,25,-83,246,False
+Jamal Crawford,4,3,59,1,Jump Shot,23,-231,11,False
+Jamal Crawford,2,8,26,1,Jump Shot,22,228,4,False
+Jamal Crawford,2,8,59,1,Jump Shot,24,16,243,False
+Jamal Crawford,2,10,4,0,Jump Shot,26,-29,259,False
+Jamal Crawford,2,11,38,0,Jump Shot,18,-184,29,True
+Jamal Crawford,4,7,28,0,Jump Shot,20,14,203,True
+Jamal Crawford,3,1,58,0,Jump Shot,24,-133,206,False
+Jamal Crawford,4,8,25,0,Jump Shot,22,-226,-16,False
+Jamal Crawford,2,10,58,1,Jump Shot,24,194,153,False
+Jamal Crawford,2,10,38,0,Jump Shot,20,-160,121,True
+Jamal Crawford,1,3,55,0,Jump Shot,17,142,106,True
+Jamal Crawford,1,0,53,1,Jump Shot,15,5,159,True
+Jamal Crawford,4,11,38,0,Jump Shot,23,-231,32,False
+Jamal Crawford,2,11,5,0,Jump Shot,25,-190,173,False
+Jamal Crawford,2,9,51,0,Jump Shot,23,-229,69,False
+Jamal Crawford,2,11,32,1,Jump Shot,13,48,126,True
+Jamal Crawford,1,0,36,0,Jump Shot,23,222,80,False
+Jamal Crawford,3,0,32,0,Jump Shot,25,121,230,False
+Jamal Crawford,4,8,29,1,Jump Shot,11,-2,111,True
+Jamal Crawford,1,1,21,0,Jump Shot,20,54,201,True
+Jamal Crawford,4,5,58,1,Jump Shot,25,-172,190,False
+Jamal Crawford,2,10,4,0,Jump Shot,25,87,242,False
+Jamal Crawford,1,3,46,1,Jump Shot,26,9,264,False
+Jamal Crawford,2,5,45,1,Jump Shot,25,-111,230,False
+Jamal Crawford,1,1,16,1,Jump Shot,25,5,250,False
+Jamal Crawford,4,8,1,1,Jump Shot,24,39,237,False
+Jamal Crawford,4,6,37,0,Jump Shot,22,-222,42,False
+Jamal Crawford,1,4,34,0,Jump Shot,24,-227,85,False
+Jamal Crawford,2,3,53,0,Jump Shot,23,-207,116,False
+Jamal Crawford,3,1,45,1,Jump Shot,27,-9,270,False
+Jamal Crawford,1,0,34,0,Jump Shot,26,-23,260,False
+Jamal Crawford,2,7,38,1,Jump Shot,21,145,163,True
+Jamal Crawford,2,9,57,0,Jump Shot,24,-27,243,False
+Jamal Crawford,4,0,1,0,Jump Shot,28,-136,252,False
+Jamal Crawford,3,0,36,0,Jump Shot,27,-123,242,False
+Jamal Crawford,4,11,26,0,Jump Shot,25,1,257,False
+Jamal Crawford,2,8,55,1,Jump Shot,20,95,178,True
+Jamal Crawford,3,0,44,0,Jump Shot,28,-131,248,False
+Jamal Crawford,2,8,2,1,Jump Shot,26,-134,230,False
+Jamal Crawford,1,1,59,0,Jump Shot,25,40,252,False
+Jamal Crawford,4,8,17,0,Jump Shot,22,-226,22,False
+Jamal Crawford,4,10,16,0,Jump Shot,24,119,217,False
+Jamal Crawford,2,8,41,0,Jump Shot,23,-220,69,False
+Jamal Crawford,2,7,10,1,Jump Shot,23,234,5,False
+Jamal Crawford,1,0,50,0,Jump Shot,22,223,43,False
+Jamal Crawford,4,8,14,0,Jump Shot,22,-220,7,False
+Jamal Crawford,2,8,15,0,Jump Shot,25,81,242,False
+Jamal Crawford,2,7,16,0,Jump Shot,23,-231,22,False
+Jamal Crawford,4,10,58,1,Jump Shot,25,-78,246,False
+Jamal Crawford,3,2,32,0,Jump Shot,24,-123,214,False
+Jamal Crawford,2,9,37,0,Jump Shot,24,89,232,False
+Jamal Crawford,3,1,9,0,Jump Shot,26,-213,159,False
+Jamal Crawford,4,9,31,1,Jump Shot,25,88,234,False
+Jamal Crawford,1,0,44,0,Jump Shot,23,230,35,False
+Jamal Crawford,2,5,3,1,Jump Shot,23,-231,25,False
+Jamal Crawford,3,2,28,1,Jump Shot,24,232,78,False
+Jamal Crawford,4,10,26,0,Jump Shot,15,-127,95,True
+Jamal Crawford,1,0,1,0,Jump Shot,28,7,282,False
+Jamal Crawford,2,9,27,0,Jump Shot,27,44,274,False
+Jamal Crawford,4,11,13,0,Jump Shot,27,-66,263,False
+Jamal Crawford,3,0,24,0,Jump Shot,31,65,305,False
+Jamal Crawford,2,10,48,0,Jump Shot,26,131,226,False
+Jamal Crawford,2,6,41,0,Jump Shot,20,117,173,True
+Jamal Crawford,4,7,57,0,Jump Shot,26,8,269,False
+Jamal Crawford,2,8,1,1,Jump Shot,24,179,170,False
+Jamal Crawford,4,9,44,1,Jump Shot,25,-60,243,False
+Jamal Crawford,2,8,6,0,Jump Shot,25,81,237,False
+Jamal Crawford,4,5,30,1,Jump Shot,9,96,18,True
+Jamal Crawford,1,1,6,1,Jump Shot,25,123,229,False
+Jamal Crawford,2,8,6,0,Jump Shot,26,-94,244,False
+Jamal Crawford,4,9,13,0,Jump Shot,21,-24,209,True
+Jamal Crawford,3,2,7,0,Jump Shot,24,118,217,False
+Jamal Crawford,1,2,50,1,Jump Shot,24,-197,143,False
+Jamal Crawford,4,11,52,0,Jump Shot,20,-9,206,True
+Jamal Crawford,2,4,23,0,Jump Shot,14,-120,78,True
+Jamal Crawford,1,0,11,0,Jump Shot,21,49,205,True
+Jamal Crawford,1,0,1,0,Jump Shot,25,122,229,False
+Jamal Crawford,1,0,28,0,Jump Shot,20,121,164,True
+Jamal Crawford,4,10,31,0,Jump Shot,28,-104,263,False
+Jamal Crawford,1,0,54,1,Jump Shot,24,142,199,False
+Jamal Crawford,2,9,29,0,Jump Shot,24,9,248,False
+Jamal Crawford,3,0,23,0,Jump Shot,26,122,231,False
+Jamal Crawford,4,8,7,0,Jump Shot,16,-120,116,True
+Jamal Crawford,4,7,15,1,Jump Shot,22,-229,4,False
+Jamal Crawford,1,1,24,1,Jump Shot,27,-70,262,False
+Jamal Crawford,3,2,16,1,Jump Shot,23,230,63,False
+Jamal Crawford,2,6,35,0,Jump Shot,25,54,253,False
+Jamal Crawford,3,2,4,0,Jump Shot,26,-6,260,False
+Jamal Crawford,1,3,50,0,Jump Shot,22,225,15,False
+Jamal Crawford,4,10,35,0,Jump Shot,24,-103,222,False
+Jamal Crawford,4,4,8,0,Jump Shot,25,-52,251,False
+Jamal Crawford,4,11,37,1,Jump Shot,24,190,159,False
+Jamal Crawford,4,9,23,0,Jump Shot,31,116,296,False
+Jamal Crawford,4,4,50,0,Jump Shot,31,-126,293,False
+Jamal Crawford,4,9,26,1,Jump Shot,22,227,23,False
+Jamal Crawford,2,10,19,0,Jump Shot,29,131,260,False
+Jamal Crawford,2,9,27,0,Jump Shot,22,-228,25,False
+Jamal Crawford,4,8,7,1,Jump Shot,22,-225,-10,False
+Jamal Crawford,2,11,35,0,Jump Shot,26,-133,231,False
+Jamal Crawford,4,4,19,0,Jump Shot,21,15,214,True
+Jamal Crawford,2,4,52,1,Jump Shot,24,139,205,False
+Jamal Crawford,3,0,2,0,Jump Shot,36,-141,337,False
+Jamal Crawford,3,0,30,1,Jump Shot,22,-228,12,False
+Jamal Crawford,3,1,0,1,Jump Shot,18,94,162,True
+Jamal Crawford,1,1,48,0,Jump Shot,26,-100,243,False
+Jamal Crawford,2,11,37,0,Jump Shot,22,-228,13,False
+Jamal Crawford,4,9,40,1,Jump Shot,25,95,241,False
+Jamal Crawford,4,0,18,0,Jump Shot,32,-87,317,False
+Jamal Crawford,2,7,0,0,Layup Shot,3,-6,32,True
+Jamal Crawford,4,8,22,0,Layup Shot,3,4,33,True
+Jamal Crawford,1,0,59,0,Layup Shot,5,-46,30,True
+Jamal Crawford,2,10,34,0,Layup Shot,2,9,24,True
+Jamal Crawford,4,7,25,0,Layup Shot,6,49,36,True
+Jamal Crawford,4,8,52,0,Pullup Jump shot,25,111,225,False
+Jamal Crawford,1,1,36,1,Pullup Jump shot,20,17,201,True
+Jamal Crawford,4,2,50,0,Pullup Jump shot,21,-70,202,True
+Jamal Crawford,4,1,30,0,Pullup Jump shot,11,66,89,True
+Jamal Crawford,4,7,40,1,Pullup Jump shot,17,-111,134,True
+Jamal Crawford,2,5,24,1,Pullup Jump shot,13,76,113,True
+Jamal Crawford,2,10,41,0,Pullup Jump shot,18,92,163,True
+Jamal Crawford,2,9,38,1,Pullup Jump shot,12,-101,75,True
+Jamal Crawford,3,1,4,0,Pullup Jump shot,29,-136,264,False
+Jamal Crawford,2,8,28,0,Pullup Jump shot,24,-30,241,False
+Jamal Crawford,2,0,42,0,Pullup Jump shot,19,46,186,True
+Jamal Crawford,2,4,43,1,Pullup Jump shot,12,96,86,True
+Jamal Crawford,4,10,42,1,Pullup Jump shot,22,-5,221,True
+Jamal Crawford,2,11,34,0,Pullup Jump shot,20,117,168,True
+Jamal Crawford,4,0,9,1,Pullup Jump shot,16,64,153,True
+Jamal Crawford,3,1,59,1,Pullup Jump shot,19,65,181,True
+Jamal Crawford,2,0,43,1,Pullup Jump shot,13,-54,128,True
+Jamal Crawford,4,0,50,1,Pullup Jump shot,19,31,189,True
+Jamal Crawford,4,7,6,1,Pullup Jump shot,17,52,172,True
+Jamal Crawford,2,8,41,1,Pullup Jump shot,16,90,137,True
+Jamal Crawford,3,0,10,0,Pullup Jump shot,19,70,184,True
+Jamal Crawford,2,8,4,0,Pullup Jump shot,21,-78,196,True
+Jamal Crawford,1,0,2,1,Pullup Jump shot,23,234,-22,False
+Jamal Crawford,4,11,15,0,Pullup Jump shot,16,-14,167,True
+Jamal Crawford,3,4,21,0,Pullup Jump shot,17,-26,174,True
+Jamal Crawford,3,7,58,0,Pullup Jump shot,12,18,120,True
+Jamal Crawford,1,1,10,0,Pullup Jump shot,19,-52,193,True
+Jamal Crawford,2,10,41,1,Pullup Jump shot,14,-82,116,True
+Jamal Crawford,1,1,50,1,Pullup Jump shot,25,1,250,False
+Jamal Crawford,3,1,8,1,Pullup Jump shot,16,8,168,True
+Jamal Crawford,2,11,49,0,Pullup Jump shot,21,137,167,True
+Jamal Crawford,2,6,45,1,Pullup Jump shot,13,41,127,True
+Jamal Crawford,3,3,13,0,Pullup Jump shot,17,-14,174,True
+Jamal Crawford,1,1,33,0,Pullup Jump shot,25,-60,246,False
+Jamal Crawford,2,11,12,0,Pullup Jump shot,19,82,173,True
+Jamal Crawford,1,0,0,0,Pullup Jump shot,45,-127,440,False
+Jamal Crawford,1,2,18,0,Pullup Jump shot,14,107,92,True
+Jamal Crawford,2,3,20,0,Pullup Jump shot,18,-102,157,True
+Jamal Crawford,2,1,22,0,Pullup Jump shot,16,-152,73,True
+Jamal Crawford,4,5,52,0,Pullup Jump shot,17,82,153,True
+Jamal Crawford,4,8,54,0,Pullup Jump shot,30,-71,294,False
+Jamal Crawford,2,4,46,0,Pullup Jump shot,24,-195,153,False
+Jamal Crawford,1,0,18,1,Pullup Jump shot,20,136,148,True
+Jamal Crawford,4,9,56,0,Pullup Jump shot,24,75,235,False
+Jamal Crawford,1,1,50,1,Pullup Jump shot,20,92,183,True
+Jamal Crawford,3,2,26,1,Pullup Jump shot,18,41,180,True
+Jamal Crawford,3,1,27,0,Pullup Jump shot,19,40,188,True
+Jamal Crawford,2,10,18,1,Pullup Jump shot,21,92,199,True
+Jamal Crawford,4,9,33,1,Pullup Jump shot,18,-114,147,True
+Jamal Crawford,4,7,45,0,Pullup Jump shot,19,16,190,True
+Jamal Crawford,4,7,15,0,Pullup Jump shot,22,36,218,True
+Jamal Crawford,2,10,23,1,Pullup Jump shot,20,84,192,True
+Jamal Crawford,2,8,40,0,Pullup Jump shot,24,62,242,False
+Jamal Crawford,2,9,1,1,Pullup Jump shot,25,55,252,False
+Jamal Crawford,2,0,1,0,Pullup Jump shot,18,16,182,True
+Jamal Crawford,4,7,59,1,Pullup Jump shot,26,106,246,False
+Jamal Crawford,2,11,25,1,Pullup Jump shot,20,125,159,True
+Jamal Crawford,2,9,40,0,Pullup Jump shot,10,13,109,True
+Jamal Crawford,4,9,20,0,Pullup Jump shot,25,-14,259,False
+Jamal Crawford,1,0,6,0,Pullup Jump shot,16,-41,159,True
+Jamal Crawford,2,8,43,0,Pullup Jump shot,19,-89,172,True
+Jamal Crawford,2,11,43,0,Pullup Jump shot,20,-38,201,True
+Jamal Crawford,4,10,47,1,Pullup Jump shot,21,-74,200,True
+Jamal Crawford,3,2,32,1,Pullup Jump shot,16,-76,152,True
+Jamal Crawford,4,8,24,1,Pullup Jump shot,22,-79,209,True
+Jamal Crawford,2,10,4,1,Pullup Jump shot,26,163,206,False
+Jamal Crawford,4,5,33,1,Pullup Jump shot,24,-62,242,False
+Jamal Crawford,2,9,44,1,Pullup Jump shot,21,-14,212,True
+Jamal Crawford,2,6,42,0,Pullup Jump shot,25,64,246,False
+Jamal Crawford,2,8,10,0,Pullup Jump shot,19,27,193,True
+Jamal Crawford,1,0,16,0,Pullup Jump shot,25,60,249,False
+Jamal Crawford,4,7,38,1,Pullup Jump shot,18,22,184,True
+Jamal Crawford,4,6,23,1,Pullup Jump shot,18,-46,176,True
+Jamal Crawford,2,7,37,0,Pullup Jump shot,17,-38,172,True
+Jamal Crawford,2,9,34,0,Pullup Jump shot,20,121,169,True
+Jamal Crawford,2,3,45,0,Pullup Jump shot,25,160,197,False
+Jamal Crawford,4,7,20,1,Pullup Jump shot,17,-28,174,True
+Jamal Crawford,2,7,58,1,Pullup Jump shot,22,94,206,True
+Jamal Crawford,4,9,6,0,Pullup Jump shot,21,2,211,True
+Jamal Crawford,4,10,0,1,Pullup Jump shot,21,60,202,True
+Jamal Crawford,1,0,54,1,Pullup Jump shot,19,-11,190,True
+Jamal Crawford,2,10,24,1,Pullup Jump shot,24,-30,248,False
+Jamal Crawford,1,1,35,1,Pullup Jump shot,17,-30,168,True
+Jamal Crawford,2,10,19,1,Pullup Jump shot,12,-11,126,True
+Jamal Crawford,3,2,6,0,Pullup Jump shot,14,-2,148,True
+Jamal Crawford,2,8,57,1,Pullup Jump shot,21,-61,207,True
+Jamal Crawford,4,6,37,1,Pullup Jump shot,17,91,152,True
+Jamal Crawford,3,0,2,1,Pullup Jump shot,29,6,295,False
+Jamal Crawford,4,10,48,0,Pullup Jump shot,22,-229,20,False
+Jamal Crawford,4,5,32,1,Pullup Jump shot,12,35,118,True
+Jamal Crawford,1,1,43,1,Pullup Jump shot,16,-147,77,True
+Jamal Crawford,3,0,44,0,Pullup Jump shot,15,38,146,True
+Jamal Crawford,2,9,3,0,Pullup Jump shot,27,-102,251,False
+Jamal Crawford,3,0,14,1,Pullup Jump shot,15,47,151,True
+Jamal Crawford,2,11,30,1,Pullup Jump shot,17,-92,151,True
+Jamal Crawford,4,5,6,0,Pullup Jump shot,19,165,95,True
+Jamal Crawford,2,8,44,1,Pullup Jump shot,16,0,164,True
+Jamal Crawford,2,9,47,1,Pullup Jump shot,21,16,210,True
+Jamal Crawford,2,5,26,1,Pullup Jump shot,18,131,132,True
+Jamal Crawford,4,6,19,0,Pullup Jump shot,21,86,201,True
+Jamal Crawford,2,11,15,0,Pullup Jump shot,16,56,153,True
+Jamal Crawford,3,0,3,1,Pullup Jump shot,25,-24,256,False
+Jamal Crawford,4,8,5,0,Pullup Jump shot,18,-184,11,True
+Jamal Crawford,3,1,2,1,Pullup Jump shot,22,7,222,True
+Jamal Crawford,4,5,10,1,Pullup Jump shot,19,23,190,True
+Jamal Crawford,2,6,17,0,Pullup Jump shot,12,-107,60,True
+Jamal Crawford,4,5,25,1,Pullup Jump shot,27,-27,272,False
+Jamal Crawford,2,11,33,1,Pullup Jump shot,16,7,166,True
+Jamal Crawford,4,5,2,0,Pullup Jump shot,19,-30,195,True
+Jamal Crawford,1,2,15,1,Pullup Jump shot,24,-128,204,False
+Jamal Crawford,2,7,35,0,Pullup Jump shot,25,107,229,False
+Jamal Crawford,1,1,11,0,Pullup Jump shot,24,43,241,False
+Jamal Crawford,1,0,0,1,Pullup Jump shot,20,92,178,True
+Jamal Crawford,2,7,24,0,Pullup Jump shot,21,44,210,True
+Jamal Crawford,2,8,37,1,Pullup Jump shot,25,-42,251,False
+Jamal Crawford,2,10,29,1,Pullup Jump shot,26,-84,247,False
+Jamal Crawford,1,0,38,0,Pullup Jump shot,25,-144,216,False
+Jamal Crawford,4,7,9,0,Pullup Jump shot,17,40,172,True
+Jamal Crawford,4,11,42,1,Pullup Jump shot,28,-159,232,False
+Jamal Crawford,2,9,52,0,Pullup Jump shot,18,143,119,True
+Jamal Crawford,2,8,46,0,Pullup Jump shot,21,105,182,True
+Jamal Crawford,4,11,0,1,Pullup Jump shot,18,154,111,True
+Jamal Crawford,4,6,41,0,Pullup Jump shot,19,138,139,True
+Jamal Crawford,3,2,41,1,Pullup Jump shot,21,-126,169,True
+Jamal Crawford,3,2,13,0,Pullup Jump shot,20,25,206,True
+Jamal Crawford,4,11,12,0,Pullup Jump shot,17,25,174,True
+Jamal Crawford,2,9,15,1,Pullup Jump shot,20,-15,203,True
+Jamal Crawford,4,7,25,1,Pullup Jump shot,18,73,170,True
+Jamal Crawford,2,4,32,0,Pullup Jump shot,25,-25,250,False
+Jamal Crawford,1,0,35,0,Pullup Jump shot,18,180,41,True
+Jamal Crawford,2,10,10,0,Pullup Jump shot,20,-4,208,True
+Jamal Crawford,2,5,4,1,Pullup Jump shot,17,112,134,True
+Jamal Crawford,3,1,39,1,Pullup Jump shot,14,51,138,True
+Jamal Crawford,2,11,30,1,Pullup Jump shot,15,-98,125,True
+Jamal Crawford,2,6,29,1,Pullup Jump shot,13,67,115,True
+Jamal Crawford,1,0,0,0,Pullup Jump shot,24,-122,209,False
+Jamal Crawford,2,8,16,0,Pullup Jump shot,24,24,246,False
+Jamal Crawford,2,9,4,1,Pullup Jump shot,17,44,167,True
+Jamal Crawford,2,6,58,1,Pullup Jump shot,20,-33,200,True
+Jamal Crawford,4,7,33,0,Pullup Jump shot,17,-110,130,True
+Jamal Crawford,3,5,39,1,Pullup Jump shot,26,-41,264,False
+Jamal Crawford,3,5,14,1,Pullup Jump shot,20,109,168,True
+Jamal Crawford,4,6,50,1,Pullup Jump shot,18,92,164,True
+Jamal Crawford,2,7,49,1,Pullup Jump shot,19,191,29,True
+Jamal Crawford,1,0,4,1,Pullup Jump shot,16,2,163,True
+Jamal Crawford,1,2,1,0,Pullup Jump shot,25,20,257,False
+Jamal Crawford,4,6,41,1,Pullup Jump shot,12,-9,127,True
+Jamal Crawford,3,0,45,1,Pullup Jump shot,19,108,162,True
+Jamal Crawford,2,9,26,1,Pullup Jump shot,15,89,131,True
+Jamal Crawford,4,11,24,0,Pullup Jump shot,18,68,176,True
+Jamal Crawford,3,0,5,1,Pullup Jump shot,17,87,157,True
+Jamal Crawford,4,7,14,1,Pullup Jump shot,13,-10,138,True
+Jamal Crawford,1,0,4,0,Pullup Jump shot,18,69,172,True
+Jamal Crawford,2,6,3,1,Pullup Jump shot,26,113,241,False
+Jamal Crawford,4,9,36,0,Pullup Jump shot,16,-159,47,True
+Jamal Crawford,2,10,20,0,Pullup Jump shot,17,29,171,True
+Jamal Crawford,1,0,6,1,Pullup Jump shot,19,-31,189,True
+Jamal Crawford,1,0,41,0,Pullup Jump shot,26,114,242,False
+Jamal Crawford,4,8,54,0,Pullup Jump shot,19,-1,190,True
+Jamal Crawford,2,5,32,0,Pullup Jump shot,17,96,148,True
+Jamal Crawford,3,2,45,1,Pullup Jump shot,14,-66,126,True
+Jamal Crawford,4,7,22,1,Pullup Jump shot,11,-9,116,True
+Jamal Crawford,4,6,11,1,Pullup Jump shot,24,93,227,False
+Jamal Crawford,1,2,1,0,Pullup Jump shot,17,-125,126,True
+Jamal Crawford,2,11,18,1,Pullup Jump shot,19,119,158,True
+Jamal Crawford,3,0,19,1,Pullup Jump shot,20,131,158,True
+Jamal Crawford,1,0,28,0,Pullup Jump shot,25,81,237,False
+Jamal Crawford,2,11,26,0,Pullup Jump shot,20,24,206,True
+Jamal Crawford,3,1,0,0,Pullup Jump shot,19,-2,190,True
+Jamal Crawford,3,1,6,1,Pullup Jump shot,15,118,96,True
+Jamal Crawford,1,0,55,0,Pullup Jump shot,17,137,116,True
+Jamal Crawford,3,1,10,0,Pullup Jump shot,18,-8,187,True
+Jamal Crawford,4,11,6,0,Pullup Jump shot,17,56,168,True
+Jamal Crawford,2,10,12,0,Pullup Jump shot,25,98,231,False
+Jamal Crawford,1,0,4,1,Pullup Jump shot,16,79,147,True
+Jamal Crawford,2,9,0,0,Pullup Jump shot,16,-56,153,True
+Jamal Crawford,4,7,49,1,Pullup Jump shot,27,5,272,False
+Jamal Crawford,1,1,5,1,Pullup Jump shot,20,57,194,True
+Jamal Crawford,2,5,48,0,Pullup Jump shot,18,10,185,True
+Jamal Crawford,2,4,14,0,Pullup Jump shot,19,-101,172,True
+Jamal Crawford,2,6,38,0,Pullup Jump shot,15,-63,137,True
+Jamal Crawford,1,1,59,0,Pullup Jump shot,27,4,273,False
+Jamal Crawford,1,1,37,0,Pullup Jump shot,16,-30,162,True
+Jamal Crawford,3,0,28,0,Pullup Jump shot,23,-159,168,True
+Jamal Crawford,4,8,49,1,Pullup Jump shot,26,25,260,False
+Jamal Crawford,2,10,18,1,Pullup Jump shot,18,149,114,True
+Jamal Crawford,4,11,16,0,Pullup Jump shot,12,-118,30,True
+Jamal Crawford,2,6,32,0,Pullup Jump shot,17,-3,176,True
+Jamal Crawford,3,1,55,0,Pullup Jump shot,24,84,229,False
+Jamal Crawford,1,3,15,1,Pullup Jump shot,16,-52,159,True
+Jamal Crawford,1,0,36,1,Pullup Jump shot,17,-27,177,True
+Jamal Crawford,3,3,37,1,Pullup Jump shot,20,103,173,True
+Jamal Crawford,4,10,59,1,Pullup Jump shot,10,108,17,True
+Jamal Crawford,1,0,7,0,Pullup Jump shot,16,74,150,True
+Jamal Crawford,2,9,11,0,Pullup Jump shot,15,-49,148,True
+Jamal Crawford,2,8,50,1,Pullup Jump shot,17,12,173,True
+Jamal Crawford,2,8,0,1,Pullup Jump shot,18,-14,189,True
+Jamal Crawford,2,6,46,0,Pullup Jump shot,26,121,231,False
+Jamal Crawford,2,9,6,1,Pullup Jump shot,18,-40,177,True
+Jamal Crawford,3,0,35,1,Pullup Jump shot,18,43,180,True
+Jamal Crawford,2,10,29,1,Pullup Jump shot,17,-4,176,True
+Jamal Crawford,2,8,50,0,Pullup Jump shot,24,-117,211,False
+Jamal Crawford,1,0,5,1,Pullup Jump shot,21,-6,215,True
+Jamal Crawford,2,11,28,1,Pullup Jump shot,18,88,168,True
+Jamal Crawford,4,8,10,1,Pullup Jump shot,18,36,184,True
+Jamal Crawford,4,11,9,1,Pullup Jump shot,25,18,259,False
+Jamal Crawford,1,0,26,1,Pullup Jump shot,25,-116,229,False
+Jamal Crawford,2,9,0,1,Pullup Jump shot,22,-91,206,True
+Jamal Crawford,2,11,6,0,Pullup Jump shot,18,82,171,True
+Jamal Crawford,2,10,24,1,Pullup Jump shot,17,150,82,True
+Jamal Crawford,3,0,59,1,Pullup Jump shot,19,-47,193,True
+Jamal Crawford,2,5,4,0,Pullup Jump shot,16,85,137,True
+Jamal Crawford,2,10,38,1,Pullup Jump shot,12,40,116,True
+Jamal Crawford,2,6,34,0,Pullup Jump shot,9,43,81,True
+Jamal Crawford,3,1,41,0,Pullup Jump shot,20,-82,188,True
+Jamal Crawford,4,7,15,0,Pullup Jump shot,18,38,186,True
+Jamal Crawford,4,2,49,0,Pullup Jump shot,16,-8,169,True
+Jamal Crawford,4,10,44,0,Pullup Jump shot,17,84,150,True
+Jamal Crawford,4,9,12,1,Pullup Jump shot,20,77,185,True
+Jamal Crawford,4,10,15,1,Pullup Jump shot,13,35,130,True
+Jamal Crawford,1,0,0,0,Pullup Jump shot,15,-158,-20,True
+Jamal Crawford,1,1,50,1,Pullup Jump shot,14,101,108,True
+Jamal Crawford,4,11,1,0,Pullup Jump shot,15,25,151,True
+Jamal Crawford,4,7,25,1,Reverse Layup Shot,1,-2,18,True
+Jamal Crawford,4,11,9,0,Running Finger Roll Layup Shot,7,14,69,True
+Jamal Crawford,4,9,32,1,Running Finger Roll Layup Shot,4,10,46,True
+Jamal Crawford,2,8,31,1,Running Jump Shot,11,-10,113,True
+Jamal Crawford,3,3,22,0,Running Jump Shot,16,-120,120,True
+Jamal Crawford,4,4,48,1,Running Jump Shot,18,87,164,True
+Jamal Crawford,4,9,24,0,Running Jump Shot,4,44,17,True
+Jamal Crawford,2,9,42,0,Running Layup Shot,12,-9,121,True
+Jamal Crawford,3,1,0,0,Running Layup Shot,2,19,19,True
+Jamal Crawford,2,9,9,1,Running Layup Shot,13,30,135,True
+Jamal Crawford,1,2,0,1,Running Layup Shot,0,2,5,True
+Jamal Crawford,2,4,17,0,Running Layup Shot,2,24,14,True
+Jamal Crawford,4,10,38,1,Running Layup Shot,1,2,16,True
+Jamal Crawford,3,0,1,0,Running Pull-Up Jump Shot,31,109,298,False
+Jamal Crawford,1,1,0,1,Running Pull-Up Jump Shot,21,-155,146,True
+Jamal Crawford,2,7,32,1,Running Pull-Up Jump Shot,12,92,91,True
+Jamal Crawford,2,9,38,1,Running Pull-Up Jump Shot,14,54,135,True
+Jamal Crawford,2,4,30,1,Running Pull-Up Jump Shot,28,132,251,False
+Jamal Crawford,3,0,1,0,Running Pull-Up Jump Shot,30,-68,300,False
+Jamal Crawford,2,7,39,1,Running Pull-Up Jump Shot,21,0,214,True
+Jamal Crawford,3,0,29,0,Running Pull-Up Jump Shot,12,0,127,True
+Jamal Crawford,4,5,57,0,Step Back Jump shot,15,122,102,True
+Jamal Crawford,1,2,3,1,Step Back Jump shot,17,-12,179,True
+Jamal Crawford,1,3,15,0,Step Back Jump shot,19,2,197,True
+Jamal Crawford,2,9,9,1,Step Back Jump shot,19,-109,157,True
+Jamal Crawford,4,9,28,1,Step Back Jump shot,16,140,80,True
+Jamal Crawford,2,7,7,1,Step Back Jump shot,19,65,188,True
+Jamal Crawford,2,9,0,0,Step Back Jump shot,19,-161,116,True
+Jamal Crawford,3,0,50,0,Turnaround Fadeaway shot,16,101,131,True
+Jamal Crawford,1,0,0,0,Turnaround Jump Shot,15,-149,20,True
+Jamal Crawford,4,7,23,1,Turnaround Jump Shot,18,162,84,True

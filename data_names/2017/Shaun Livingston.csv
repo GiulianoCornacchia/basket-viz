@@ -1,0 +1,290 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Shaun Livingston,2,5,43,1,Alley Oop Dunk Shot,2,-5,27,True
+Shaun Livingston,4,6,32,1,Alley Oop Layup shot,1,6,9,True
+Shaun Livingston,4,9,53,1,Cutting Dunk Shot,1,-5,16,True
+Shaun Livingston,2,11,48,1,Cutting Dunk Shot,2,5,26,True
+Shaun Livingston,4,10,45,1,Cutting Dunk Shot,1,8,10,True
+Shaun Livingston,2,0,34,1,Cutting Dunk Shot,1,-7,16,True
+Shaun Livingston,4,6,27,1,Cutting Dunk Shot,0,-1,5,True
+Shaun Livingston,2,4,29,1,Cutting Dunk Shot,2,8,25,True
+Shaun Livingston,2,5,30,1,Cutting Dunk Shot,1,-13,8,True
+Shaun Livingston,2,8,4,1,Cutting Dunk Shot,1,8,10,True
+Shaun Livingston,4,7,28,1,Cutting Dunk Shot,0,-8,3,True
+Shaun Livingston,4,7,19,1,Cutting Dunk Shot,0,5,4,True
+Shaun Livingston,3,0,55,1,Cutting Dunk Shot,1,-4,16,True
+Shaun Livingston,2,9,47,1,Cutting Dunk Shot,0,-1,8,True
+Shaun Livingston,4,2,2,1,Cutting Dunk Shot,1,-3,10,True
+Shaun Livingston,2,10,33,1,Cutting Dunk Shot,0,-2,9,True
+Shaun Livingston,4,2,25,1,Cutting Dunk Shot,0,-6,2,True
+Shaun Livingston,4,8,49,1,Cutting Finger Roll Layup Shot,2,3,27,True
+Shaun Livingston,1,0,13,1,Cutting Finger Roll Layup Shot,0,-3,8,True
+Shaun Livingston,4,7,48,1,Cutting Finger Roll Layup Shot,2,12,22,True
+Shaun Livingston,2,9,13,1,Cutting Layup Shot,2,-12,17,True
+Shaun Livingston,1,3,30,0,Cutting Layup Shot,0,-5,6,True
+Shaun Livingston,4,10,32,0,Cutting Layup Shot,2,-15,19,True
+Shaun Livingston,2,4,57,0,Cutting Layup Shot,1,-11,4,True
+Shaun Livingston,2,9,57,0,Cutting Layup Shot,1,-14,13,True
+Shaun Livingston,2,9,21,1,Cutting Layup Shot,1,8,14,True
+Shaun Livingston,3,8,5,1,Driving Dunk Shot,0,0,9,True
+Shaun Livingston,3,9,11,1,Driving Finger Roll Layup Shot,1,-8,11,True
+Shaun Livingston,4,8,41,0,Driving Finger Roll Layup Shot,1,5,17,True
+Shaun Livingston,3,1,48,1,Driving Finger Roll Layup Shot,10,91,50,True
+Shaun Livingston,4,0,15,1,Driving Floating Bank Jump Shot,10,-102,29,True
+Shaun Livingston,1,0,1,1,Driving Floating Bank Jump Shot,5,-46,30,True
+Shaun Livingston,2,0,44,1,Driving Floating Jump Shot,11,0,119,True
+Shaun Livingston,4,5,47,1,Driving Floating Jump Shot,12,66,104,True
+Shaun Livingston,4,11,34,1,Driving Floating Jump Shot,11,-94,64,True
+Shaun Livingston,3,3,25,0,Driving Floating Jump Shot,10,-96,48,True
+Shaun Livingston,2,9,5,1,Driving Floating Jump Shot,11,20,116,True
+Shaun Livingston,2,7,23,1,Driving Floating Jump Shot,11,6,113,True
+Shaun Livingston,4,10,43,1,Driving Hook Shot,9,7,98,True
+Shaun Livingston,4,6,21,1,Driving Layup Shot,2,0,21,True
+Shaun Livingston,2,10,26,0,Driving Layup Shot,7,-3,75,True
+Shaun Livingston,2,6,3,0,Driving Layup Shot,2,16,19,True
+Shaun Livingston,4,8,10,0,Driving Layup Shot,5,-36,41,True
+Shaun Livingston,3,7,12,1,Driving Reverse Dunk Shot,0,2,4,True
+Shaun Livingston,2,7,22,1,Driving Reverse Layup Shot,1,-3,14,True
+Shaun Livingston,2,5,22,1,Dunk Shot,1,5,15,True
+Shaun Livingston,4,7,38,1,Dunk Shot,1,1,10,True
+Shaun Livingston,4,10,55,1,Dunk Shot,1,0,13,True
+Shaun Livingston,2,5,21,1,Dunk Shot,1,-3,10,True
+Shaun Livingston,2,7,40,1,Fadeaway Jump Shot,9,87,42,True
+Shaun Livingston,2,6,52,0,Fadeaway Jump Shot,11,111,41,True
+Shaun Livingston,2,11,34,0,Fadeaway Jump Shot,12,115,42,True
+Shaun Livingston,3,7,47,1,Fadeaway Jump Shot,8,-73,48,True
+Shaun Livingston,1,2,13,1,Fadeaway Jump Shot,12,56,113,True
+Shaun Livingston,1,7,59,0,Fadeaway Jump Shot,13,138,13,True
+Shaun Livingston,4,9,4,0,Fadeaway Jump Shot,17,-158,71,True
+Shaun Livingston,1,10,51,1,Fadeaway Jump Shot,11,111,11,True
+Shaun Livingston,4,11,18,1,Fadeaway Jump Shot,13,-65,113,True
+Shaun Livingston,2,9,21,1,Fadeaway Jump Shot,10,-106,13,True
+Shaun Livingston,2,6,24,1,Floating Jump shot,9,-1,99,True
+Shaun Livingston,2,9,58,1,Hook Shot,11,110,4,True
+Shaun Livingston,2,8,39,1,Hook Shot,4,36,20,True
+Shaun Livingston,2,9,27,0,Hook Shot,11,1,113,True
+Shaun Livingston,2,8,50,0,Hook Shot,9,91,36,True
+Shaun Livingston,1,1,54,0,Hook Shot,10,40,101,True
+Shaun Livingston,2,5,16,0,Jump Bank Shot,9,-35,91,True
+Shaun Livingston,2,7,3,1,Jump Shot,15,129,79,True
+Shaun Livingston,1,0,49,0,Jump Shot,22,-223,-18,False
+Shaun Livingston,4,7,40,0,Jump Shot,12,123,5,True
+Shaun Livingston,3,2,45,1,Jump Shot,11,116,-1,True
+Shaun Livingston,4,8,23,0,Jump Shot,14,-132,60,True
+Shaun Livingston,2,10,2,1,Jump Shot,16,86,144,True
+Shaun Livingston,2,10,32,1,Jump Shot,9,9,99,True
+Shaun Livingston,4,10,18,1,Jump Shot,7,5,71,True
+Shaun Livingston,4,9,48,0,Jump Shot,10,45,98,True
+Shaun Livingston,3,0,5,1,Jump Shot,8,12,80,True
+Shaun Livingston,1,0,0,0,Jump Shot,30,117,281,False
+Shaun Livingston,2,11,25,0,Jump Shot,13,-64,117,True
+Shaun Livingston,1,1,47,0,Jump Shot,11,2,113,True
+Shaun Livingston,1,1,15,0,Jump Shot,16,5,162,True
+Shaun Livingston,2,11,1,1,Jump Shot,12,-96,79,True
+Shaun Livingston,1,2,8,0,Jump Shot,15,-156,4,True
+Shaun Livingston,1,2,27,0,Jump Shot,13,-131,46,True
+Shaun Livingston,3,0,9,0,Jump Shot,7,-73,22,True
+Shaun Livingston,2,6,26,0,Jump Shot,12,-46,116,True
+Shaun Livingston,1,1,36,1,Jump Shot,10,-9,109,True
+Shaun Livingston,4,7,13,1,Jump Shot,13,95,101,True
+Shaun Livingston,4,6,26,1,Jump Shot,15,145,43,True
+Shaun Livingston,2,6,58,0,Jump Shot,13,-95,96,True
+Shaun Livingston,2,11,7,0,Jump Shot,12,54,116,True
+Shaun Livingston,2,6,54,0,Jump Shot,12,128,-2,True
+Shaun Livingston,4,9,21,0,Jump Shot,17,117,134,True
+Shaun Livingston,4,5,41,0,Jump Shot,9,51,75,True
+Shaun Livingston,2,4,57,0,Jump Shot,11,-109,36,True
+Shaun Livingston,2,9,29,0,Jump Shot,22,-225,-4,False
+Shaun Livingston,2,8,8,1,Jump Shot,16,-112,127,True
+Shaun Livingston,4,8,35,0,Jump Shot,9,8,90,True
+Shaun Livingston,2,6,55,0,Jump Shot,14,139,32,True
+Shaun Livingston,4,7,53,0,Jump Shot,9,25,88,True
+Shaun Livingston,2,4,46,0,Jump Shot,15,-110,102,True
+Shaun Livingston,2,9,0,0,Jump Shot,17,-111,134,True
+Shaun Livingston,2,11,0,0,Jump Shot,18,-114,147,True
+Shaun Livingston,2,9,15,0,Jump Shot,13,-122,47,True
+Shaun Livingston,4,9,32,0,Jump Shot,12,-111,61,True
+Shaun Livingston,2,4,33,0,Jump Shot,11,48,107,True
+Shaun Livingston,2,10,44,1,Jump Shot,21,110,182,True
+Shaun Livingston,2,7,30,1,Jump Shot,9,90,-11,True
+Shaun Livingston,1,10,34,1,Jump Shot,11,113,-11,True
+Shaun Livingston,4,8,56,1,Jump Shot,15,133,72,True
+Shaun Livingston,4,11,4,1,Jump Shot,17,-177,-2,True
+Shaun Livingston,2,4,0,0,Jump Shot,12,64,111,True
+Shaun Livingston,2,5,51,1,Jump Shot,13,-129,42,True
+Shaun Livingston,4,9,1,0,Jump Shot,14,-131,73,True
+Shaun Livingston,4,10,32,0,Jump Shot,14,-115,84,True
+Shaun Livingston,2,6,52,0,Jump Shot,13,100,96,True
+Shaun Livingston,1,9,8,1,Jump Shot,11,-116,10,True
+Shaun Livingston,3,5,2,1,Jump Shot,18,-114,148,True
+Shaun Livingston,3,8,31,0,Jump Shot,16,8,160,True
+Shaun Livingston,4,10,57,0,Jump Shot,11,-111,8,True
+Shaun Livingston,3,9,6,1,Jump Shot,10,-97,31,True
+Shaun Livingston,1,7,17,0,Jump Shot,9,-98,17,True
+Shaun Livingston,1,10,5,0,Jump Shot,10,104,-15,True
+Shaun Livingston,2,0,0,0,Jump Shot,63,159,618,False
+Shaun Livingston,2,6,24,0,Jump Shot,13,-83,104,True
+Shaun Livingston,2,10,48,0,Jump Shot,11,-94,58,True
+Shaun Livingston,2,9,33,0,Jump Shot,7,-7,71,True
+Shaun Livingston,2,9,5,0,Jump Shot,15,-155,-10,True
+Shaun Livingston,2,8,56,0,Jump Shot,16,101,125,True
+Shaun Livingston,3,4,33,0,Jump Shot,11,-40,104,True
+Shaun Livingston,4,6,27,0,Jump Shot,17,32,170,True
+Shaun Livingston,2,5,30,1,Jump Shot,12,118,47,True
+Shaun Livingston,1,1,54,0,Jump Shot,11,-1,111,True
+Shaun Livingston,4,8,9,1,Jump Shot,15,54,150,True
+Shaun Livingston,3,1,19,0,Jump Shot,7,-46,59,True
+Shaun Livingston,1,0,31,0,Jump Shot,15,35,150,True
+Shaun Livingston,2,7,43,0,Jump Shot,10,-101,18,True
+Shaun Livingston,2,7,30,0,Jump Shot,9,92,7,True
+Shaun Livingston,2,0,11,0,Jump Shot,11,114,23,True
+Shaun Livingston,4,9,4,0,Jump Shot,8,-67,51,True
+Shaun Livingston,2,4,26,0,Layup Shot,0,-2,9,True
+Shaun Livingston,2,7,55,1,Layup Shot,0,-6,4,True
+Shaun Livingston,3,4,55,0,Layup Shot,3,-3,35,True
+Shaun Livingston,4,6,9,1,Layup Shot,1,9,16,True
+Shaun Livingston,2,7,50,0,Layup Shot,2,19,8,True
+Shaun Livingston,2,3,22,0,Layup Shot,3,-16,28,True
+Shaun Livingston,4,9,25,0,Layup Shot,0,3,5,True
+Shaun Livingston,1,10,32,0,Layup Shot,3,-32,8,True
+Shaun Livingston,2,7,36,0,Layup Shot,1,-3,14,True
+Shaun Livingston,2,11,34,1,Layup Shot,5,49,33,True
+Shaun Livingston,2,3,24,1,Layup Shot,1,-11,15,True
+Shaun Livingston,4,6,14,1,Layup Shot,2,16,13,True
+Shaun Livingston,4,6,52,1,Layup Shot,2,0,26,True
+Shaun Livingston,4,7,21,0,Layup Shot,1,10,11,True
+Shaun Livingston,1,5,0,0,Layup Shot,2,-2,20,True
+Shaun Livingston,2,3,18,1,Pullup Jump shot,12,29,122,True
+Shaun Livingston,2,10,13,0,Pullup Jump shot,11,113,17,True
+Shaun Livingston,2,7,59,0,Pullup Jump shot,13,-25,129,True
+Shaun Livingston,2,8,23,0,Pullup Jump shot,12,54,117,True
+Shaun Livingston,2,9,48,0,Pullup Jump shot,17,-86,157,True
+Shaun Livingston,4,0,52,0,Pullup Jump shot,14,86,113,True
+Shaun Livingston,4,5,12,1,Pullup Jump shot,7,-77,-4,True
+Shaun Livingston,4,4,17,0,Pullup Jump shot,8,2,85,True
+Shaun Livingston,2,6,57,0,Pullup Jump shot,12,109,58,True
+Shaun Livingston,2,7,9,1,Pullup Jump shot,12,120,49,True
+Shaun Livingston,3,4,8,1,Pullup Jump shot,10,7,103,True
+Shaun Livingston,2,1,6,1,Pullup Jump shot,13,27,134,True
+Shaun Livingston,2,7,10,0,Pullup Jump shot,16,45,156,True
+Shaun Livingston,2,6,31,0,Pullup Jump shot,26,157,210,False
+Shaun Livingston,2,10,14,1,Pullup Jump shot,17,-105,138,True
+Shaun Livingston,4,8,21,0,Pullup Jump shot,12,53,110,True
+Shaun Livingston,2,11,14,1,Pullup Jump shot,15,157,25,True
+Shaun Livingston,1,7,6,1,Pullup Jump shot,20,-138,147,True
+Shaun Livingston,2,0,37,1,Pullup Jump shot,15,111,101,True
+Shaun Livingston,2,9,35,0,Pullup Jump shot,14,71,127,True
+Shaun Livingston,2,6,11,1,Pullup Jump shot,16,-43,159,True
+Shaun Livingston,1,9,16,1,Pullup Jump shot,16,-8,169,True
+Shaun Livingston,2,6,6,0,Pullup Jump shot,14,-138,47,True
+Shaun Livingston,2,2,44,0,Pullup Jump shot,11,0,115,True
+Shaun Livingston,3,3,53,0,Pullup Jump shot,15,145,41,True
+Shaun Livingston,2,10,43,1,Pullup Jump shot,4,30,32,True
+Shaun Livingston,4,10,0,0,Pullup Jump shot,13,135,-3,True
+Shaun Livingston,1,1,56,0,Pullup Jump shot,14,88,120,True
+Shaun Livingston,1,8,35,0,Pullup Jump shot,12,120,42,True
+Shaun Livingston,2,8,53,1,Pullup Jump shot,14,117,90,True
+Shaun Livingston,2,9,56,0,Pullup Jump shot,16,-144,78,True
+Shaun Livingston,4,8,35,1,Pullup Jump shot,11,-113,2,True
+Shaun Livingston,4,10,42,1,Pullup Jump shot,12,-120,5,True
+Shaun Livingston,4,2,21,0,Pullup Jump shot,15,-150,48,True
+Shaun Livingston,4,10,50,1,Pullup Jump shot,13,-131,4,True
+Shaun Livingston,2,11,39,1,Pullup Jump shot,14,144,21,True
+Shaun Livingston,2,8,30,1,Pullup Jump shot,12,-105,69,True
+Shaun Livingston,1,7,18,1,Pullup Jump shot,9,-93,3,True
+Shaun Livingston,1,6,51,1,Pullup Jump shot,13,136,4,True
+Shaun Livingston,2,5,59,0,Pullup Jump shot,12,113,47,True
+Shaun Livingston,2,11,23,0,Pullup Jump shot,11,-112,8,True
+Shaun Livingston,3,2,0,0,Pullup Jump shot,14,-129,62,True
+Shaun Livingston,4,8,12,0,Pullup Jump shot,2,-3,26,True
+Shaun Livingston,2,11,46,0,Pullup Jump shot,15,-60,148,True
+Shaun Livingston,1,0,1,1,Pullup Jump shot,18,108,148,True
+Shaun Livingston,2,6,52,1,Pullup Jump shot,18,123,142,True
+Shaun Livingston,1,11,45,0,Pullup Jump shot,12,7,127,True
+Shaun Livingston,2,9,45,1,Pullup Jump shot,19,-138,138,True
+Shaun Livingston,1,0,30,1,Putback Layup Shot,0,0,-6,True
+Shaun Livingston,2,4,11,0,Putback Layup Shot,0,0,-6,True
+Shaun Livingston,4,7,3,1,Putback Layup Shot,0,0,-6,True
+Shaun Livingston,4,5,8,1,Putback Layup Shot,0,0,-6,True
+Shaun Livingston,2,9,24,1,Reverse Dunk Shot,2,-4,22,True
+Shaun Livingston,1,10,57,1,Reverse Layup Shot,1,9,11,True
+Shaun Livingston,4,9,4,1,Reverse Layup Shot,3,3,31,True
+Shaun Livingston,2,10,27,1,Running Dunk Shot,0,8,-1,True
+Shaun Livingston,2,0,37,1,Running Dunk Shot,1,0,16,True
+Shaun Livingston,2,3,48,1,Running Dunk Shot,1,-6,13,True
+Shaun Livingston,3,0,25,1,Running Dunk Shot,1,-2,10,True
+Shaun Livingston,2,7,8,0,Running Jump Shot,9,93,32,True
+Shaun Livingston,3,10,16,1,Running Jump Shot,13,-51,122,True
+Shaun Livingston,4,11,14,1,Running Jump Shot,1,-9,16,True
+Shaun Livingston,2,8,15,1,Running Layup Shot,3,-6,31,True
+Shaun Livingston,3,0,29,1,Running Layup Shot,3,-11,29,True
+Shaun Livingston,4,7,50,0,Running Layup Shot,2,-20,19,True
+Shaun Livingston,2,5,20,0,Running Layup Shot,3,36,13,True
+Shaun Livingston,2,1,38,0,Running Layup Shot,1,6,15,True
+Shaun Livingston,4,9,4,1,Running Pull-Up Jump Shot,15,32,151,True
+Shaun Livingston,3,1,44,1,Running Reverse Layup Shot,1,9,11,True
+Shaun Livingston,4,9,10,0,Step Back Jump shot,13,78,113,True
+Shaun Livingston,3,9,35,0,Step Back Jump shot,10,-105,30,True
+Shaun Livingston,4,8,12,0,Step Back Jump shot,14,61,129,True
+Shaun Livingston,2,6,37,0,Step Back Jump shot,6,67,6,True
+Shaun Livingston,2,10,18,0,Step Back Jump shot,7,55,58,True
+Shaun Livingston,3,11,10,0,Tip Layup Shot,0,0,-6,True
+Shaun Livingston,1,7,36,0,Tip Layup Shot,0,0,-6,True
+Shaun Livingston,2,4,41,0,Tip Layup Shot,0,0,-6,True
+Shaun Livingston,2,5,46,1,Turnaround Fadeaway Bank Jump Shot,12,-58,107,True
+Shaun Livingston,4,8,59,0,Turnaround Fadeaway Bank Jump Shot,8,-84,27,True
+Shaun Livingston,4,7,32,0,Turnaround Fadeaway shot,11,-108,48,True
+Shaun Livingston,2,9,33,1,Turnaround Fadeaway shot,10,-97,29,True
+Shaun Livingston,3,3,11,1,Turnaround Fadeaway shot,13,101,89,True
+Shaun Livingston,3,10,13,0,Turnaround Fadeaway shot,13,90,94,True
+Shaun Livingston,4,11,19,0,Turnaround Fadeaway shot,11,-51,108,True
+Shaun Livingston,2,9,14,1,Turnaround Fadeaway shot,12,52,109,True
+Shaun Livingston,2,9,13,0,Turnaround Fadeaway shot,11,-101,53,True
+Shaun Livingston,2,8,6,1,Turnaround Fadeaway shot,8,65,62,True
+Shaun Livingston,4,8,0,1,Turnaround Fadeaway shot,10,88,50,True
+Shaun Livingston,2,10,52,1,Turnaround Fadeaway shot,14,-141,46,True
+Shaun Livingston,3,0,48,0,Turnaround Fadeaway shot,11,-112,22,True
+Shaun Livingston,1,8,30,1,Turnaround Fadeaway shot,12,117,50,True
+Shaun Livingston,1,5,41,1,Turnaround Fadeaway shot,10,97,29,True
+Shaun Livingston,3,7,39,1,Turnaround Fadeaway shot,12,108,59,True
+Shaun Livingston,2,6,29,1,Turnaround Fadeaway shot,12,24,122,True
+Shaun Livingston,4,10,44,1,Turnaround Fadeaway shot,9,-70,62,True
+Shaun Livingston,4,6,25,1,Turnaround Fadeaway shot,12,113,58,True
+Shaun Livingston,2,9,28,1,Turnaround Fadeaway shot,10,103,33,True
+Shaun Livingston,2,9,26,0,Turnaround Fadeaway shot,13,-61,125,True
+Shaun Livingston,2,5,57,0,Turnaround Fadeaway shot,11,109,48,True
+Shaun Livingston,2,6,29,1,Turnaround Fadeaway shot,10,-92,47,True
+Shaun Livingston,2,9,29,1,Turnaround Fadeaway shot,9,-90,25,True
+Shaun Livingston,3,2,43,0,Turnaround Hook Shot,3,-5,36,True
+Shaun Livingston,2,10,41,1,Turnaround Hook Shot,6,-65,7,True
+Shaun Livingston,4,6,51,0,Turnaround Hook Shot,3,21,27,True
+Shaun Livingston,1,3,16,1,Turnaround Hook Shot,8,-79,33,True
+Shaun Livingston,2,1,41,1,Turnaround Hook Shot,9,68,73,True
+Shaun Livingston,2,7,11,0,Turnaround Hook Shot,5,-11,55,True
+Shaun Livingston,4,7,15,1,Turnaround Jump Shot,11,112,31,True
+Shaun Livingston,4,10,6,0,Turnaround Jump Shot,10,-107,-5,True
+Shaun Livingston,3,0,41,0,Turnaround Jump Shot,15,-153,38,True
+Shaun Livingston,2,11,11,0,Turnaround Jump Shot,12,35,120,True
+Shaun Livingston,3,2,25,0,Turnaround Jump Shot,15,-139,71,True
+Shaun Livingston,2,1,22,0,Turnaround Jump Shot,10,-108,3,True
+Shaun Livingston,3,1,4,0,Turnaround Jump Shot,12,-52,117,True
+Shaun Livingston,3,9,37,1,Turnaround Jump Shot,14,-28,147,True
+Shaun Livingston,1,0,10,0,Turnaround Jump Shot,16,114,122,True
+Shaun Livingston,1,1,6,0,Turnaround Jump Shot,10,106,24,True
+Shaun Livingston,2,3,15,1,Turnaround Jump Shot,9,86,41,True
+Shaun Livingston,2,8,47,1,Turnaround Jump Shot,11,112,36,True
+Shaun Livingston,2,10,10,1,Turnaround Jump Shot,14,62,127,True
+Shaun Livingston,4,8,45,0,Turnaround Jump Shot,14,131,69,True
+Shaun Livingston,2,5,14,0,Turnaround Jump Shot,8,-69,45,True
+Shaun Livingston,4,6,7,0,Turnaround Jump Shot,16,-160,19,True
+Shaun Livingston,2,9,36,1,Turnaround Jump Shot,8,-13,86,True
+Shaun Livingston,2,10,5,1,Turnaround Jump Shot,12,59,105,True
+Shaun Livingston,2,7,42,0,Turnaround Jump Shot,7,4,73,True
+Shaun Livingston,2,6,10,1,Turnaround Jump Shot,12,-95,75,True
+Shaun Livingston,4,8,26,0,Turnaround Jump Shot,11,-116,26,True
+Shaun Livingston,4,5,3,0,Turnaround Jump Shot,10,-93,57,True
+Shaun Livingston,2,5,56,0,Turnaround Jump Shot,16,166,4,True
+Shaun Livingston,3,7,14,0,Turnaround Jump Shot,10,-105,18,True
+Shaun Livingston,4,5,46,0,Turnaround Jump Shot,10,93,41,True
+Shaun Livingston,2,8,29,1,Turnaround Jump Shot,9,83,47,True
+Shaun Livingston,2,8,56,0,Turnaround Jump Shot,15,23,158,True
+Shaun Livingston,1,1,58,1,Turnaround Jump Shot,14,105,96,True

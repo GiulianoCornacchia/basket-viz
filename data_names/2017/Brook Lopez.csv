@@ -1,0 +1,674 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Brook Lopez,2,2,20,1,Alley Oop Dunk Shot,0,7,4,True
+Brook Lopez,4,5,17,1,Alley Oop Dunk Shot,1,-7,13,True
+Brook Lopez,2,5,0,1,Alley Oop Dunk Shot,1,11,-10,True
+Brook Lopez,2,2,17,0,Alley Oop Dunk Shot,1,1,16,True
+Brook Lopez,2,0,27,1,Alley Oop Dunk Shot,0,7,1,True
+Brook Lopez,2,4,58,1,Alley Oop Dunk Shot,1,-13,8,True
+Brook Lopez,2,5,43,1,Alley Oop Layup shot,1,-11,10,True
+Brook Lopez,2,6,35,0,Alley Oop Layup shot,1,11,4,True
+Brook Lopez,1,11,11,0,Alley Oop Layup shot,1,11,13,True
+Brook Lopez,2,3,58,0,Alley Oop Layup shot,1,-8,11,True
+Brook Lopez,3,10,56,1,Cutting Dunk Shot,1,-4,13,True
+Brook Lopez,2,1,23,1,Cutting Dunk Shot,2,16,22,True
+Brook Lopez,3,7,0,1,Cutting Dunk Shot,1,2,16,True
+Brook Lopez,3,10,24,1,Cutting Dunk Shot,2,-8,25,True
+Brook Lopez,2,6,12,1,Cutting Dunk Shot,2,6,29,True
+Brook Lopez,3,7,48,1,Cutting Dunk Shot,1,4,11,True
+Brook Lopez,1,9,55,1,Cutting Dunk Shot,1,-1,15,True
+Brook Lopez,3,7,55,1,Cutting Dunk Shot,0,-4,3,True
+Brook Lopez,2,2,29,1,Cutting Layup Shot,1,-6,15,True
+Brook Lopez,3,10,42,0,Cutting Layup Shot,2,13,25,True
+Brook Lopez,1,3,1,1,Cutting Layup Shot,6,24,56,True
+Brook Lopez,1,6,15,1,Cutting Layup Shot,0,9,0,True
+Brook Lopez,4,5,27,0,Cutting Layup Shot,2,-11,17,True
+Brook Lopez,1,9,55,1,Cutting Layup Shot,2,8,24,True
+Brook Lopez,1,11,41,1,Cutting Layup Shot,2,2,26,True
+Brook Lopez,2,4,8,1,Driving Dunk Shot,2,-3,22,True
+Brook Lopez,3,6,20,1,Driving Dunk Shot,1,0,10,True
+Brook Lopez,1,7,44,1,Driving Dunk Shot,1,3,11,True
+Brook Lopez,1,10,39,1,Driving Dunk Shot,0,5,8,True
+Brook Lopez,4,1,42,1,Driving Dunk Shot,2,8,19,True
+Brook Lopez,2,4,11,1,Driving Dunk Shot,1,16,11,True
+Brook Lopez,3,10,5,0,Driving Dunk Shot,2,-3,23,True
+Brook Lopez,1,10,40,1,Driving Dunk Shot,0,-3,6,True
+Brook Lopez,3,10,48,1,Driving Dunk Shot,0,9,3,True
+Brook Lopez,3,2,31,1,Driving Dunk Shot,0,1,8,True
+Brook Lopez,1,6,25,1,Driving Dunk Shot,1,2,18,True
+Brook Lopez,3,5,42,1,Driving Finger Roll Layup Shot,2,2,21,True
+Brook Lopez,3,7,42,1,Driving Finger Roll Layup Shot,0,-3,8,True
+Brook Lopez,1,9,0,1,Driving Finger Roll Layup Shot,1,0,15,True
+Brook Lopez,3,8,48,1,Driving Finger Roll Layup Shot,2,5,21,True
+Brook Lopez,2,2,19,0,Driving Floating Bank Jump Shot,2,7,25,True
+Brook Lopez,3,5,3,0,Driving Floating Bank Jump Shot,9,9,95,True
+Brook Lopez,3,6,45,0,Driving Floating Bank Jump Shot,8,82,31,True
+Brook Lopez,1,7,17,1,Driving Floating Bank Jump Shot,7,-59,47,True
+Brook Lopez,3,3,57,1,Driving Floating Bank Jump Shot,6,50,41,True
+Brook Lopez,3,6,35,1,Driving Floating Bank Jump Shot,4,41,16,True
+Brook Lopez,2,7,19,1,Driving Floating Bank Jump Shot,4,36,21,True
+Brook Lopez,3,6,59,0,Driving Floating Jump Shot,8,5,84,True
+Brook Lopez,1,2,2,0,Driving Floating Jump Shot,11,90,78,True
+Brook Lopez,4,10,59,1,Driving Floating Jump Shot,9,89,26,True
+Brook Lopez,3,7,53,0,Driving Floating Jump Shot,12,33,121,True
+Brook Lopez,1,11,20,0,Driving Floating Jump Shot,7,-15,75,True
+Brook Lopez,4,6,6,0,Driving Floating Jump Shot,13,7,131,True
+Brook Lopez,3,4,3,0,Driving Floating Jump Shot,7,-40,61,True
+Brook Lopez,2,5,3,0,Driving Floating Jump Shot,3,24,26,True
+Brook Lopez,2,4,0,0,Driving Floating Jump Shot,7,71,12,True
+Brook Lopez,1,5,27,1,Driving Floating Jump Shot,4,22,35,True
+Brook Lopez,1,6,43,0,Driving Floating Jump Shot,4,-43,10,True
+Brook Lopez,2,5,20,1,Driving Floating Jump Shot,4,-5,45,True
+Brook Lopez,1,1,40,1,Driving Hook Shot,7,16,75,True
+Brook Lopez,1,6,42,0,Driving Hook Shot,5,16,50,True
+Brook Lopez,4,11,47,1,Driving Hook Shot,4,-17,46,True
+Brook Lopez,1,9,22,1,Driving Hook Shot,3,9,36,True
+Brook Lopez,1,4,50,0,Driving Hook Shot,10,6,104,True
+Brook Lopez,1,9,5,1,Driving Hook Shot,5,2,57,True
+Brook Lopez,1,5,41,0,Driving Hook Shot,2,-6,25,True
+Brook Lopez,1,10,46,1,Driving Hook Shot,5,29,43,True
+Brook Lopez,1,10,19,0,Driving Hook Shot,2,1,27,True
+Brook Lopez,3,10,59,0,Driving Hook Shot,5,-17,55,True
+Brook Lopez,2,4,7,0,Driving Hook Shot,9,14,90,True
+Brook Lopez,4,1,28,1,Driving Hook Shot,9,33,90,True
+Brook Lopez,2,2,21,1,Driving Hook Shot,7,9,71,True
+Brook Lopez,1,6,17,0,Driving Hook Shot,7,33,71,True
+Brook Lopez,3,4,46,1,Driving Hook Shot,5,51,8,True
+Brook Lopez,3,10,11,0,Driving Layup Shot,1,8,6,True
+Brook Lopez,2,3,24,1,Driving Layup Shot,2,-17,22,True
+Brook Lopez,3,6,29,1,Driving Layup Shot,5,21,46,True
+Brook Lopez,1,4,22,1,Driving Layup Shot,0,1,6,True
+Brook Lopez,3,8,4,1,Driving Layup Shot,2,20,14,True
+Brook Lopez,4,8,44,1,Driving Layup Shot,5,-3,59,True
+Brook Lopez,1,8,20,1,Driving Layup Shot,1,6,15,True
+Brook Lopez,1,5,23,1,Driving Layup Shot,0,0,5,True
+Brook Lopez,1,8,48,1,Driving Layup Shot,1,14,14,True
+Brook Lopez,1,1,12,1,Driving Layup Shot,1,-9,13,True
+Brook Lopez,3,3,11,1,Driving Layup Shot,3,35,8,True
+Brook Lopez,3,7,37,1,Driving Layup Shot,5,49,27,True
+Brook Lopez,1,10,38,1,Driving Layup Shot,0,1,9,True
+Brook Lopez,2,3,40,1,Driving Layup Shot,2,18,21,True
+Brook Lopez,2,4,48,1,Driving Layup Shot,2,12,22,True
+Brook Lopez,3,8,28,1,Driving Layup Shot,2,2,22,True
+Brook Lopez,1,6,48,0,Driving Reverse Layup Shot,1,13,10,True
+Brook Lopez,3,10,41,1,Dunk Shot,1,4,17,True
+Brook Lopez,2,1,39,1,Dunk Shot,2,-15,21,True
+Brook Lopez,3,8,21,1,Dunk Shot,0,3,5,True
+Brook Lopez,4,5,56,1,Dunk Shot,3,28,11,True
+Brook Lopez,3,6,53,1,Dunk Shot,2,-2,25,True
+Brook Lopez,1,11,12,1,Dunk Shot,2,-11,22,True
+Brook Lopez,3,6,52,0,Fadeaway Jump Shot,18,67,174,True
+Brook Lopez,3,11,24,1,Fadeaway Jump Shot,10,-98,42,True
+Brook Lopez,1,11,6,0,Fadeaway Jump Shot,14,95,104,True
+Brook Lopez,2,0,21,0,Fadeaway Jump Shot,10,-29,100,True
+Brook Lopez,3,3,51,0,Fadeaway Jump Shot,8,16,86,True
+Brook Lopez,1,8,52,1,Fadeaway Jump Shot,14,57,134,True
+Brook Lopez,3,6,40,0,Fadeaway Jump Shot,5,4,50,True
+Brook Lopez,3,7,3,1,Fadeaway Jump Shot,13,44,129,True
+Brook Lopez,3,10,26,0,Fadeaway Jump Shot,9,3,99,True
+Brook Lopez,1,6,18,0,Fadeaway Jump Shot,11,2,117,True
+Brook Lopez,1,6,10,1,Fadeaway Jump Shot,19,114,162,True
+Brook Lopez,3,8,26,1,Fadeaway Jump Shot,9,12,90,True
+Brook Lopez,1,8,51,0,Fadeaway Jump Shot,6,-64,10,True
+Brook Lopez,1,8,38,1,Fadeaway Jump Shot,9,61,77,True
+Brook Lopez,1,5,6,1,Fadeaway Jump Shot,2,-11,24,True
+Brook Lopez,1,10,37,0,Fadeaway Jump Shot,17,-143,94,True
+Brook Lopez,1,10,5,0,Fadeaway Jump Shot,10,-91,57,True
+Brook Lopez,3,9,19,0,Fadeaway Jump Shot,14,-22,139,True
+Brook Lopez,1,11,24,0,Fadeaway Jump Shot,13,-44,124,True
+Brook Lopez,3,10,43,0,Fadeaway Jump Shot,9,56,75,True
+Brook Lopez,2,6,2,0,Fadeaway Jump Shot,7,65,43,True
+Brook Lopez,1,9,31,1,Floating Jump shot,1,9,9,True
+Brook Lopez,2,3,21,1,Floating Jump shot,16,-88,139,True
+Brook Lopez,4,8,31,0,Floating Jump shot,4,21,42,True
+Brook Lopez,1,11,3,1,Floating Jump shot,8,-82,26,True
+Brook Lopez,2,5,47,0,Floating Jump shot,6,29,53,True
+Brook Lopez,3,10,7,1,Floating Jump shot,14,-65,130,True
+Brook Lopez,1,11,3,0,Floating Jump shot,12,2,121,True
+Brook Lopez,1,6,25,0,Floating Jump shot,5,58,8,True
+Brook Lopez,3,11,27,0,Floating Jump shot,14,26,138,True
+Brook Lopez,4,5,5,0,Floating Jump shot,4,-39,15,True
+Brook Lopez,3,11,46,1,Floating Jump shot,12,121,9,True
+Brook Lopez,3,10,42,1,Floating Jump shot,4,-7,43,True
+Brook Lopez,2,6,0,0,Floating Jump shot,12,-44,118,True
+Brook Lopez,3,5,4,0,Floating Jump shot,10,-29,99,True
+Brook Lopez,1,7,50,0,Floating Jump shot,9,2,98,True
+Brook Lopez,3,10,4,0,Floating Jump shot,13,-33,132,True
+Brook Lopez,3,8,50,1,Floating Jump shot,6,-23,65,True
+Brook Lopez,3,8,11,1,Floating Jump shot,12,15,128,True
+Brook Lopez,3,7,36,0,Floating Jump shot,11,-47,106,True
+Brook Lopez,1,6,57,1,Floating Jump shot,9,7,96,True
+Brook Lopez,3,6,43,0,Hook Bank Shot,2,-13,22,True
+Brook Lopez,1,7,46,1,Hook Bank Shot,4,17,38,True
+Brook Lopez,4,6,40,0,Hook Shot,12,38,121,True
+Brook Lopez,1,2,44,0,Hook Shot,2,14,25,True
+Brook Lopez,3,7,17,1,Hook Shot,12,117,31,True
+Brook Lopez,3,4,35,0,Hook Shot,2,-3,23,True
+Brook Lopez,1,11,40,1,Hook Shot,4,3,41,True
+Brook Lopez,1,9,34,0,Hook Shot,8,80,38,True
+Brook Lopez,3,9,17,1,Hook Shot,6,-28,57,True
+Brook Lopez,3,11,28,0,Hook Shot,6,23,64,True
+Brook Lopez,1,0,59,1,Hook Shot,10,100,5,True
+Brook Lopez,1,11,7,0,Hook Shot,16,105,129,True
+Brook Lopez,3,11,24,1,Hook Shot,9,66,67,True
+Brook Lopez,3,4,7,1,Hook Shot,6,20,62,True
+Brook Lopez,1,5,32,1,Hook Shot,13,-52,120,True
+Brook Lopez,3,6,34,1,Hook Shot,7,-13,76,True
+Brook Lopez,1,4,52,1,Hook Shot,17,170,35,True
+Brook Lopez,3,9,36,0,Hook Shot,6,40,50,True
+Brook Lopez,1,7,36,1,Hook Shot,9,-30,92,True
+Brook Lopez,1,5,43,0,Hook Shot,13,-58,122,True
+Brook Lopez,2,8,45,0,Hook Shot,5,3,51,True
+Brook Lopez,1,7,0,1,Hook Shot,9,-11,90,True
+Brook Lopez,4,2,33,1,Hook Shot,4,22,38,True
+Brook Lopez,2,7,8,1,Hook Shot,13,-74,115,True
+Brook Lopez,1,5,23,1,Hook Shot,8,-21,80,True
+Brook Lopez,1,7,57,0,Hook Shot,10,-1,101,True
+Brook Lopez,1,5,12,1,Hook Shot,4,32,31,True
+Brook Lopez,3,3,35,1,Hook Shot,4,-36,20,True
+Brook Lopez,3,11,17,1,Hook Shot,5,48,23,True
+Brook Lopez,2,1,29,1,Hook Shot,11,6,110,True
+Brook Lopez,3,11,0,0,Hook Shot,11,80,78,True
+Brook Lopez,4,7,46,0,Hook Shot,9,-25,89,True
+Brook Lopez,1,9,22,0,Hook Shot,4,43,24,True
+Brook Lopez,2,0,3,1,Hook Shot,7,31,71,True
+Brook Lopez,2,0,8,0,Hook Shot,8,-27,79,True
+Brook Lopez,1,8,46,1,Hook Shot,10,14,106,True
+Brook Lopez,2,2,46,0,Hook Shot,3,34,17,True
+Brook Lopez,2,2,59,0,Hook Shot,7,-16,74,True
+Brook Lopez,4,3,33,1,Hook Shot,11,111,9,True
+Brook Lopez,1,11,10,0,Hook Shot,9,13,90,True
+Brook Lopez,2,4,1,1,Hook Shot,5,51,15,True
+Brook Lopez,1,11,0,0,Hook Shot,9,40,88,True
+Brook Lopez,1,11,44,0,Hook Shot,3,-33,17,True
+Brook Lopez,2,1,14,0,Jump Bank Shot,3,22,26,True
+Brook Lopez,3,4,53,0,Jump Bank Shot,11,106,53,True
+Brook Lopez,3,9,38,1,Jump Bank Shot,3,29,18,True
+Brook Lopez,2,6,55,0,Jump Bank Shot,7,77,15,True
+Brook Lopez,1,3,49,1,Jump Bank Shot,8,-78,35,True
+Brook Lopez,2,4,58,1,Jump Bank Shot,16,131,98,True
+Brook Lopez,2,5,49,1,Jump Bank Shot,3,6,33,True
+Brook Lopez,4,6,52,1,Jump Bank Shot,9,52,78,True
+Brook Lopez,4,9,57,0,Jump Shot,27,182,201,False
+Brook Lopez,1,9,20,1,Jump Shot,26,-121,237,False
+Brook Lopez,1,7,57,1,Jump Shot,25,214,131,False
+Brook Lopez,1,0,46,0,Jump Shot,26,160,207,False
+Brook Lopez,1,6,53,0,Jump Shot,27,161,228,False
+Brook Lopez,3,10,2,0,Jump Shot,24,239,41,False
+Brook Lopez,1,3,31,1,Jump Shot,24,-134,203,False
+Brook Lopez,3,9,35,0,Jump Shot,26,-41,260,False
+Brook Lopez,3,6,48,0,Jump Shot,22,-228,12,False
+Brook Lopez,1,4,44,0,Jump Shot,27,182,201,False
+Brook Lopez,1,9,8,0,Jump Shot,25,163,195,False
+Brook Lopez,2,5,13,0,Jump Shot,8,-24,78,True
+Brook Lopez,3,7,24,0,Jump Shot,25,-182,178,False
+Brook Lopez,2,1,56,0,Jump Shot,24,144,202,False
+Brook Lopez,1,7,10,0,Jump Shot,20,136,148,True
+Brook Lopez,1,4,51,0,Jump Shot,6,-58,32,True
+Brook Lopez,3,10,21,0,Jump Shot,26,165,201,False
+Brook Lopez,1,7,14,1,Jump Shot,27,-86,257,False
+Brook Lopez,1,10,35,1,Jump Shot,3,16,29,True
+Brook Lopez,1,8,3,1,Jump Shot,25,141,215,False
+Brook Lopez,2,3,14,0,Jump Shot,25,-92,243,False
+Brook Lopez,3,6,4,0,Jump Shot,27,18,271,False
+Brook Lopez,3,8,27,0,Jump Shot,26,214,159,False
+Brook Lopez,2,4,52,0,Jump Shot,23,228,39,False
+Brook Lopez,1,10,9,1,Jump Shot,26,94,245,False
+Brook Lopez,1,5,35,0,Jump Shot,26,145,227,False
+Brook Lopez,2,6,19,0,Jump Shot,25,-144,205,False
+Brook Lopez,2,7,48,1,Jump Shot,24,237,46,False
+Brook Lopez,2,6,40,0,Jump Shot,25,133,216,False
+Brook Lopez,2,0,48,0,Jump Shot,25,-53,246,False
+Brook Lopez,4,0,2,1,Jump Shot,25,-141,218,False
+Brook Lopez,1,8,56,1,Jump Shot,25,-124,227,False
+Brook Lopez,2,5,5,0,Jump Shot,25,92,239,False
+Brook Lopez,2,1,3,0,Jump Shot,24,-207,135,False
+Brook Lopez,1,7,18,0,Jump Shot,28,201,198,False
+Brook Lopez,2,1,26,0,Jump Shot,25,-177,188,False
+Brook Lopez,3,6,6,0,Jump Shot,23,-236,31,False
+Brook Lopez,3,4,52,1,Jump Shot,23,155,181,False
+Brook Lopez,1,9,23,1,Jump Shot,24,-33,247,False
+Brook Lopez,3,5,54,0,Jump Shot,26,-134,233,False
+Brook Lopez,3,7,52,0,Jump Shot,26,125,230,False
+Brook Lopez,3,11,46,0,Jump Shot,27,-166,215,False
+Brook Lopez,1,8,5,0,Jump Shot,26,115,241,False
+Brook Lopez,4,2,56,0,Jump Shot,25,144,214,False
+Brook Lopez,1,7,44,0,Jump Shot,26,69,257,False
+Brook Lopez,3,7,13,0,Jump Shot,11,-6,114,True
+Brook Lopez,1,5,55,1,Jump Shot,22,-223,-5,False
+Brook Lopez,2,0,30,0,Jump Shot,26,-176,201,False
+Brook Lopez,2,1,1,1,Jump Shot,6,25,64,True
+Brook Lopez,4,4,5,1,Jump Shot,27,-165,216,False
+Brook Lopez,1,8,19,1,Jump Shot,26,-192,176,False
+Brook Lopez,2,1,55,0,Jump Shot,27,-190,197,False
+Brook Lopez,3,10,37,1,Jump Shot,7,52,59,True
+Brook Lopez,1,10,30,1,Jump Shot,5,9,52,True
+Brook Lopez,1,1,42,0,Jump Shot,16,3,164,True
+Brook Lopez,1,9,4,0,Jump Shot,30,191,234,False
+Brook Lopez,3,3,11,0,Jump Shot,25,-49,249,False
+Brook Lopez,3,3,53,0,Jump Shot,26,-6,265,False
+Brook Lopez,3,8,3,1,Jump Shot,24,173,173,False
+Brook Lopez,2,5,41,1,Jump Shot,25,-171,184,False
+Brook Lopez,2,4,35,1,Jump Shot,24,234,82,False
+Brook Lopez,1,7,38,1,Jump Shot,25,133,221,False
+Brook Lopez,1,9,2,0,Jump Shot,25,109,236,False
+Brook Lopez,3,8,18,0,Jump Shot,25,82,242,False
+Brook Lopez,1,4,2,1,Jump Shot,26,119,238,False
+Brook Lopez,3,9,45,0,Jump Shot,26,99,248,False
+Brook Lopez,4,4,12,0,Jump Shot,27,149,237,False
+Brook Lopez,1,7,47,0,Jump Shot,27,-163,218,False
+Brook Lopez,2,5,24,1,Jump Shot,27,134,235,False
+Brook Lopez,2,4,24,0,Jump Shot,12,-64,105,True
+Brook Lopez,1,5,27,0,Jump Shot,25,29,255,False
+Brook Lopez,3,8,11,0,Jump Shot,26,68,259,False
+Brook Lopez,3,10,40,1,Jump Shot,14,130,65,True
+Brook Lopez,2,3,8,1,Jump Shot,26,161,214,False
+Brook Lopez,3,10,45,1,Jump Shot,27,139,239,False
+Brook Lopez,2,0,31,1,Jump Shot,25,-181,186,False
+Brook Lopez,2,1,48,1,Jump Shot,20,176,106,True
+Brook Lopez,1,9,59,1,Jump Shot,10,44,99,True
+Brook Lopez,3,5,27,0,Jump Shot,24,-216,125,False
+Brook Lopez,3,10,3,0,Jump Shot,27,164,218,False
+Brook Lopez,3,7,20,0,Jump Shot,25,-97,232,False
+Brook Lopez,1,4,55,0,Jump Shot,25,196,160,False
+Brook Lopez,2,4,29,0,Jump Shot,25,32,257,False
+Brook Lopez,2,4,49,1,Jump Shot,25,-2,253,False
+Brook Lopez,2,1,54,1,Jump Shot,25,205,148,False
+Brook Lopez,1,10,10,1,Jump Shot,25,123,223,False
+Brook Lopez,3,4,42,0,Jump Shot,24,-216,121,False
+Brook Lopez,3,0,2,0,Jump Shot,25,-103,230,False
+Brook Lopez,2,3,48,0,Jump Shot,25,-5,252,False
+Brook Lopez,1,10,41,0,Jump Shot,24,-168,184,False
+Brook Lopez,3,7,41,1,Jump Shot,25,6,255,False
+Brook Lopez,1,4,45,0,Jump Shot,24,236,73,False
+Brook Lopez,3,11,19,0,Jump Shot,26,-122,237,False
+Brook Lopez,3,6,7,1,Jump Shot,24,-183,162,False
+Brook Lopez,3,11,3,0,Jump Shot,5,-55,7,True
+Brook Lopez,3,9,52,1,Jump Shot,23,228,70,False
+Brook Lopez,1,10,33,0,Jump Shot,23,-236,4,False
+Brook Lopez,3,9,25,1,Jump Shot,25,116,228,False
+Brook Lopez,3,6,24,0,Jump Shot,26,14,260,False
+Brook Lopez,2,8,23,0,Jump Shot,25,44,252,False
+Brook Lopez,1,5,9,1,Jump Shot,25,-123,218,False
+Brook Lopez,3,10,10,0,Jump Shot,25,58,251,False
+Brook Lopez,1,10,1,0,Jump Shot,22,-228,-1,False
+Brook Lopez,3,8,33,0,Jump Shot,25,-13,259,False
+Brook Lopez,1,3,59,0,Jump Shot,25,-2,256,False
+Brook Lopez,2,1,19,0,Jump Shot,24,-188,161,False
+Brook Lopez,1,6,26,0,Jump Shot,25,138,219,False
+Brook Lopez,2,4,0,0,Jump Shot,28,121,253,False
+Brook Lopez,2,4,43,1,Jump Shot,25,-5,256,False
+Brook Lopez,1,6,51,1,Jump Shot,26,-139,221,False
+Brook Lopez,3,4,59,1,Jump Shot,27,136,236,False
+Brook Lopez,3,3,28,0,Jump Shot,27,-140,242,False
+Brook Lopez,1,3,40,1,Jump Shot,27,-11,270,False
+Brook Lopez,2,5,16,0,Jump Shot,28,144,247,False
+Brook Lopez,3,6,45,0,Jump Shot,22,-225,26,False
+Brook Lopez,1,7,35,1,Jump Shot,25,145,211,False
+Brook Lopez,1,10,22,0,Jump Shot,25,187,170,False
+Brook Lopez,3,10,20,1,Jump Shot,24,-154,188,False
+Brook Lopez,4,2,44,1,Jump Shot,25,56,247,False
+Brook Lopez,1,1,57,1,Jump Shot,25,149,212,False
+Brook Lopez,3,8,36,0,Jump Shot,25,-5,256,False
+Brook Lopez,1,6,41,0,Jump Shot,27,-33,277,False
+Brook Lopez,1,1,25,0,Jump Shot,26,-73,259,False
+Brook Lopez,1,10,1,1,Jump Shot,23,-222,82,False
+Brook Lopez,1,8,45,0,Jump Shot,25,-16,252,False
+Brook Lopez,4,0,17,0,Jump Shot,15,-136,64,True
+Brook Lopez,3,3,58,1,Jump Shot,25,-55,251,False
+Brook Lopez,3,3,26,1,Jump Shot,30,-66,296,False
+Brook Lopez,1,10,0,0,Jump Shot,26,-33,262,False
+Brook Lopez,1,7,52,0,Jump Shot,27,-134,243,False
+Brook Lopez,1,8,35,1,Jump Shot,13,-41,127,True
+Brook Lopez,1,4,58,0,Jump Shot,24,-219,111,False
+Brook Lopez,3,11,41,0,Jump Shot,13,112,73,True
+Brook Lopez,3,10,33,0,Jump Shot,9,44,79,True
+Brook Lopez,3,10,36,1,Jump Shot,25,102,239,False
+Brook Lopez,1,8,28,0,Jump Shot,25,-64,246,False
+Brook Lopez,3,7,5,0,Jump Shot,26,-179,200,False
+Brook Lopez,1,1,59,0,Jump Shot,9,-90,26,True
+Brook Lopez,1,10,52,0,Jump Shot,25,2,254,False
+Brook Lopez,1,8,4,1,Jump Shot,9,-88,21,True
+Brook Lopez,1,1,29,0,Jump Shot,13,125,44,True
+Brook Lopez,3,9,58,0,Jump Shot,24,-93,230,False
+Brook Lopez,1,4,15,1,Jump Shot,26,-68,256,False
+Brook Lopez,1,9,54,0,Jump Shot,25,129,223,False
+Brook Lopez,1,7,41,0,Jump Shot,27,-166,220,False
+Brook Lopez,1,10,5,0,Jump Shot,27,150,228,False
+Brook Lopez,3,7,39,0,Jump Shot,26,-165,204,False
+Brook Lopez,2,7,28,1,Jump Shot,15,2,156,True
+Brook Lopez,4,9,27,0,Jump Shot,27,-119,243,False
+Brook Lopez,2,10,18,0,Jump Shot,26,-151,214,False
+Brook Lopez,2,6,48,0,Jump Shot,19,46,185,True
+Brook Lopez,3,0,1,0,Jump Shot,27,-170,210,False
+Brook Lopez,2,9,3,0,Jump Shot,26,-6,263,False
+Brook Lopez,1,9,12,1,Jump Shot,23,-231,-5,False
+Brook Lopez,3,8,18,0,Jump Shot,24,-40,242,False
+Brook Lopez,1,6,11,0,Jump Shot,25,103,235,False
+Brook Lopez,1,10,13,0,Jump Shot,25,93,240,False
+Brook Lopez,3,7,48,0,Jump Shot,25,-160,201,False
+Brook Lopez,3,11,4,1,Jump Shot,25,13,257,False
+Brook Lopez,3,7,9,1,Jump Shot,25,-190,168,False
+Brook Lopez,3,8,21,0,Jump Shot,25,-6,258,False
+Brook Lopez,3,6,4,0,Jump Shot,25,3,254,False
+Brook Lopez,1,8,4,0,Jump Shot,26,-114,236,False
+Brook Lopez,1,10,31,0,Jump Shot,25,-44,251,False
+Brook Lopez,1,11,3,1,Jump Shot,25,-81,244,False
+Brook Lopez,3,8,42,0,Jump Shot,27,188,203,False
+Brook Lopez,3,6,38,0,Jump Shot,30,-185,239,False
+Brook Lopez,3,8,37,1,Jump Shot,25,-198,165,False
+Brook Lopez,2,0,56,1,Jump Shot,25,224,115,False
+Brook Lopez,2,7,33,0,Jump Shot,26,54,261,False
+Brook Lopez,3,8,58,1,Jump Shot,26,129,226,False
+Brook Lopez,2,0,29,1,Jump Shot,26,115,234,False
+Brook Lopez,1,10,47,0,Jump Shot,25,-128,221,False
+Brook Lopez,3,7,5,1,Jump Shot,26,-166,204,False
+Brook Lopez,1,8,7,0,Jump Shot,26,-122,235,False
+Brook Lopez,2,0,26,0,Jump Shot,28,143,241,False
+Brook Lopez,3,10,38,0,Jump Shot,29,-36,289,False
+Brook Lopez,1,3,13,1,Jump Shot,25,-131,222,False
+Brook Lopez,2,4,12,0,Jump Shot,25,-218,141,False
+Brook Lopez,3,11,10,1,Jump Shot,25,-64,243,False
+Brook Lopez,3,5,48,0,Jump Shot,28,181,219,False
+Brook Lopez,3,8,54,0,Jump Shot,28,-133,254,False
+Brook Lopez,1,9,16,1,Jump Shot,27,83,257,False
+Brook Lopez,3,6,2,0,Jump Shot,25,134,212,False
+Brook Lopez,1,6,2,1,Jump Shot,23,230,8,False
+Brook Lopez,1,6,45,0,Jump Shot,26,22,264,False
+Brook Lopez,3,9,42,1,Jump Shot,27,-78,260,False
+Brook Lopez,3,4,7,0,Jump Shot,25,81,237,False
+Brook Lopez,3,2,40,0,Jump Shot,24,-138,206,False
+Brook Lopez,1,0,32,1,Jump Shot,26,13,269,False
+Brook Lopez,3,1,11,0,Jump Shot,8,-8,86,True
+Brook Lopez,2,8,38,1,Jump Shot,25,-198,163,False
+Brook Lopez,4,9,38,0,Jump Shot,26,106,248,False
+Brook Lopez,2,7,29,0,Jump Shot,27,81,268,False
+Brook Lopez,1,8,35,1,Jump Shot,12,55,114,True
+Brook Lopez,1,6,44,0,Jump Shot,23,230,14,False
+Brook Lopez,3,10,29,0,Jump Shot,27,14,273,False
+Brook Lopez,2,3,40,0,Jump Shot,27,100,256,False
+Brook Lopez,2,2,27,0,Jump Shot,25,-6,257,False
+Brook Lopez,3,4,31,1,Jump Shot,24,-35,246,False
+Brook Lopez,3,8,36,0,Jump Shot,24,-213,126,False
+Brook Lopez,3,10,54,0,Jump Shot,14,18,139,True
+Brook Lopez,1,11,14,0,Jump Shot,23,231,32,False
+Brook Lopez,1,7,6,1,Jump Shot,25,-168,189,False
+Brook Lopez,1,8,30,0,Jump Shot,25,82,237,False
+Brook Lopez,2,0,47,0,Jump Shot,24,-220,98,False
+Brook Lopez,3,4,35,0,Jump Shot,26,92,248,False
+Brook Lopez,1,5,55,1,Jump Shot,24,-147,199,False
+Brook Lopez,2,1,25,1,Jump Shot,25,-11,257,False
+Brook Lopez,3,7,8,1,Jump Shot,26,69,251,False
+Brook Lopez,1,8,42,0,Jump Shot,29,-155,248,False
+Brook Lopez,3,9,8,0,Jump Shot,27,38,273,False
+Brook Lopez,1,5,44,1,Jump Shot,22,221,27,False
+Brook Lopez,3,6,40,0,Jump Shot,26,138,231,False
+Brook Lopez,3,8,12,0,Jump Shot,27,-130,243,False
+Brook Lopez,3,6,14,1,Jump Shot,26,141,230,False
+Brook Lopez,3,4,41,0,Jump Shot,22,-226,22,False
+Brook Lopez,1,5,0,0,Jump Shot,27,130,237,False
+Brook Lopez,2,6,57,0,Jump Shot,24,61,242,False
+Brook Lopez,3,9,3,1,Jump Shot,24,-17,248,False
+Brook Lopez,3,4,57,0,Jump Shot,12,-61,105,True
+Brook Lopez,1,4,56,0,Jump Shot,9,-93,14,True
+Brook Lopez,1,7,25,0,Jump Shot,26,139,229,False
+Brook Lopez,3,8,47,0,Jump Shot,25,163,202,False
+Brook Lopez,3,9,6,0,Jump Shot,25,-145,210,False
+Brook Lopez,1,10,39,0,Jump Shot,24,239,52,False
+Brook Lopez,1,9,20,0,Jump Shot,25,38,251,False
+Brook Lopez,1,7,21,0,Jump Shot,22,-223,48,False
+Brook Lopez,3,11,8,0,Jump Shot,10,-52,89,True
+Brook Lopez,3,7,51,1,Jump Shot,26,-96,242,False
+Brook Lopez,1,7,50,1,Jump Shot,26,107,239,False
+Brook Lopez,3,4,53,0,Jump Shot,3,-13,33,True
+Brook Lopez,1,9,11,1,Jump Shot,24,-231,73,False
+Brook Lopez,3,9,23,0,Jump Shot,25,119,227,False
+Brook Lopez,1,2,37,0,Jump Shot,26,-130,232,False
+Brook Lopez,1,2,44,0,Jump Shot,25,10,253,False
+Brook Lopez,3,3,11,1,Jump Shot,24,236,45,False
+Brook Lopez,3,4,11,0,Jump Shot,26,134,230,False
+Brook Lopez,1,5,55,1,Jump Shot,27,145,238,False
+Brook Lopez,3,4,49,0,Jump Shot,26,155,210,False
+Brook Lopez,4,3,24,0,Jump Shot,25,139,216,False
+Brook Lopez,1,4,40,1,Jump Shot,10,-65,79,True
+Brook Lopez,4,2,59,0,Jump Shot,12,-65,104,True
+Brook Lopez,3,5,55,0,Jump Shot,23,229,-25,False
+Brook Lopez,1,5,0,0,Jump Shot,26,-20,263,False
+Brook Lopez,3,10,53,1,Jump Shot,22,225,1,False
+Brook Lopez,1,11,1,0,Jump Shot,25,175,192,False
+Brook Lopez,4,3,3,1,Jump Shot,26,-183,190,False
+Brook Lopez,4,2,29,0,Jump Shot,28,123,254,False
+Brook Lopez,1,10,26,0,Jump Shot,8,6,88,True
+Brook Lopez,3,6,22,0,Jump Shot,11,60,101,True
+Brook Lopez,1,3,41,0,Jump Shot,22,228,-4,False
+Brook Lopez,1,10,0,1,Jump Shot,23,-231,-10,False
+Brook Lopez,1,6,43,1,Jump Shot,25,115,226,False
+Brook Lopez,1,5,43,0,Jump Shot,25,-118,230,False
+Brook Lopez,1,5,11,1,Jump Shot,26,73,251,False
+Brook Lopez,2,2,46,1,Jump Shot,24,-216,113,False
+Brook Lopez,1,8,7,0,Jump Shot,9,14,95,True
+Brook Lopez,3,11,42,0,Jump Shot,24,173,175,False
+Brook Lopez,1,8,33,0,Jump Shot,28,68,273,False
+Brook Lopez,3,9,21,0,Jump Shot,25,71,244,False
+Brook Lopez,1,10,34,0,Jump Shot,27,126,239,False
+Brook Lopez,4,4,53,0,Jump Shot,25,-20,259,False
+Brook Lopez,2,6,39,1,Jump Shot,26,87,255,False
+Brook Lopez,3,8,53,1,Jump Shot,26,44,259,False
+Brook Lopez,2,7,15,1,Jump Shot,27,107,251,False
+Brook Lopez,4,5,47,0,Jump Shot,26,-29,265,False
+Brook Lopez,1,6,13,0,Jump Shot,15,28,153,True
+Brook Lopez,1,8,46,1,Jump Shot,23,230,8,False
+Brook Lopez,2,6,5,0,Jump Shot,25,101,235,False
+Brook Lopez,4,3,56,0,Jump Shot,5,-12,49,True
+Brook Lopez,2,4,46,0,Jump Shot,26,93,251,False
+Brook Lopez,1,11,45,0,Jump Shot,25,-161,203,False
+Brook Lopez,4,4,44,1,Jump Shot,24,201,142,False
+Brook Lopez,4,4,1,0,Jump Shot,25,113,227,False
+Brook Lopez,2,0,0,1,Jump Shot,23,-232,1,False
+Brook Lopez,1,4,13,0,Jump Shot,25,-82,239,False
+Brook Lopez,1,7,5,0,Jump Shot,22,-223,14,False
+Brook Lopez,1,9,34,0,Jump Shot,25,98,235,False
+Brook Lopez,1,10,23,1,Jump Shot,22,228,-2,False
+Brook Lopez,3,3,49,0,Jump Shot,25,3,256,False
+Brook Lopez,2,1,1,0,Jump Shot,24,-173,177,False
+Brook Lopez,1,6,46,0,Jump Shot,25,186,174,False
+Brook Lopez,3,10,9,0,Jump Shot,10,-2,101,True
+Brook Lopez,2,4,1,1,Jump Shot,17,19,171,True
+Brook Lopez,1,9,48,0,Jump Shot,25,46,251,False
+Brook Lopez,4,4,5,0,Jump Shot,23,225,62,False
+Brook Lopez,1,3,27,0,Jump Shot,24,-139,203,False
+Brook Lopez,2,6,27,0,Jump Shot,10,8,109,True
+Brook Lopez,3,7,48,1,Jump Shot,25,178,181,False
+Brook Lopez,1,3,59,1,Jump Shot,25,-120,225,False
+Brook Lopez,3,9,44,0,Jump Shot,24,-229,74,False
+Brook Lopez,1,3,10,0,Jump Shot,25,50,255,False
+Brook Lopez,4,6,18,1,Jump Shot,26,0,268,False
+Brook Lopez,4,4,18,0,Jump Shot,25,87,242,False
+Brook Lopez,2,6,44,0,Jump Shot,24,92,232,False
+Brook Lopez,1,3,26,0,Jump Shot,24,-125,214,False
+Brook Lopez,1,4,21,1,Jump Shot,24,-13,247,False
+Brook Lopez,3,7,17,0,Jump Shot,18,-24,181,True
+Brook Lopez,3,4,55,0,Jump Shot,25,130,222,False
+Brook Lopez,1,10,15,0,Jump Shot,15,149,29,True
+Brook Lopez,1,5,53,1,Jump Shot,24,-233,59,False
+Brook Lopez,1,5,22,0,Jump Shot,26,119,236,False
+Brook Lopez,1,7,12,0,Jump Shot,27,65,266,False
+Brook Lopez,2,2,4,0,Jump Shot,26,-33,260,False
+Brook Lopez,2,1,57,0,Jump Shot,25,186,169,False
+Brook Lopez,3,7,55,0,Jump Shot,25,100,230,False
+Brook Lopez,1,6,53,0,Jump Shot,26,122,230,False
+Brook Lopez,4,10,55,1,Jump Shot,24,-231,85,False
+Brook Lopez,3,10,39,1,Jump Shot,26,-64,260,False
+Brook Lopez,3,6,32,1,Jump Shot,26,145,220,False
+Brook Lopez,3,5,41,1,Jump Shot,25,-103,231,False
+Brook Lopez,1,8,50,1,Jump Shot,25,134,221,False
+Brook Lopez,1,5,36,0,Jump Shot,7,30,65,True
+Brook Lopez,3,9,30,1,Jump Shot,25,110,229,False
+Brook Lopez,3,4,18,0,Jump Shot,26,-69,257,False
+Brook Lopez,3,9,8,1,Jump Shot,27,121,248,False
+Brook Lopez,1,5,15,0,Layup Shot,1,9,10,True
+Brook Lopez,1,4,19,0,Layup Shot,2,-3,26,True
+Brook Lopez,1,10,22,1,Layup Shot,2,16,17,True
+Brook Lopez,2,0,33,0,Layup Shot,4,-20,36,True
+Brook Lopez,3,4,24,0,Layup Shot,4,-12,44,True
+Brook Lopez,1,10,55,0,Layup Shot,1,6,17,True
+Brook Lopez,2,7,43,1,Layup Shot,4,-27,36,True
+Brook Lopez,3,11,39,0,Layup Shot,6,44,54,True
+Brook Lopez,1,11,23,0,Layup Shot,3,18,25,True
+Brook Lopez,1,6,30,1,Layup Shot,1,-8,10,True
+Brook Lopez,2,1,50,0,Layup Shot,6,44,41,True
+Brook Lopez,1,2,34,1,Layup Shot,0,1,8,True
+Brook Lopez,1,8,21,1,Layup Shot,0,1,8,True
+Brook Lopez,1,9,35,0,Layup Shot,13,68,114,True
+Brook Lopez,1,7,21,1,Layup Shot,10,3,100,True
+Brook Lopez,3,11,11,1,Layup Shot,0,2,5,True
+Brook Lopez,2,4,15,1,Layup Shot,6,63,1,True
+Brook Lopez,2,5,37,0,Layup Shot,3,30,14,True
+Brook Lopez,1,6,25,0,Layup Shot,3,28,26,True
+Brook Lopez,3,9,2,1,Layup Shot,0,-3,5,True
+Brook Lopez,3,8,45,0,Layup Shot,4,43,12,True
+Brook Lopez,1,4,59,1,Layup Shot,1,8,14,True
+Brook Lopez,1,4,59,0,Layup Shot,2,11,17,True
+Brook Lopez,4,5,28,1,Layup Shot,1,3,13,True
+Brook Lopez,2,3,31,1,Layup Shot,1,11,4,True
+Brook Lopez,1,7,13,1,Layup Shot,3,9,31,True
+Brook Lopez,1,11,33,0,Layup Shot,2,23,13,True
+Brook Lopez,2,6,27,1,Layup Shot,2,5,25,True
+Brook Lopez,1,11,5,1,Layup Shot,6,55,40,True
+Brook Lopez,3,5,40,0,Layup Shot,1,9,8,True
+Brook Lopez,1,11,38,1,Layup Shot,2,-7,21,True
+Brook Lopez,4,3,53,1,Layup Shot,2,-12,16,True
+Brook Lopez,1,8,46,1,Layup Shot,1,6,15,True
+Brook Lopez,2,7,0,0,Layup Shot,6,23,63,True
+Brook Lopez,2,5,39,0,Pullup Jump shot,16,-6,166,True
+Brook Lopez,1,8,26,0,Pullup Jump shot,8,82,36,True
+Brook Lopez,3,9,34,0,Pullup Jump shot,18,24,185,True
+Brook Lopez,2,2,59,0,Pullup Jump shot,23,-238,1,False
+Brook Lopez,1,6,7,1,Pullup Jump shot,9,41,83,True
+Brook Lopez,2,11,7,0,Pullup Jump shot,17,115,126,True
+Brook Lopez,3,10,46,1,Pullup Jump shot,8,-9,85,True
+Brook Lopez,3,9,13,0,Pullup Jump shot,15,145,55,True
+Brook Lopez,1,8,40,1,Pullup Jump shot,15,30,155,True
+Brook Lopez,3,8,0,0,Pullup Jump shot,16,-83,146,True
+Brook Lopez,1,5,59,0,Pullup Jump shot,19,-53,188,True
+Brook Lopez,1,5,8,1,Pullup Jump shot,6,-9,63,True
+Brook Lopez,3,11,22,1,Pullup Jump shot,7,9,79,True
+Brook Lopez,3,3,41,1,Putback Dunk Shot,0,0,-6,True
+Brook Lopez,4,5,48,1,Putback Dunk Shot,0,0,1,True
+Brook Lopez,2,4,56,1,Putback Dunk Shot,0,0,-6,True
+Brook Lopez,2,3,8,1,Putback Dunk Shot,1,9,17,True
+Brook Lopez,2,0,21,1,Putback Dunk Shot,1,-2,15,True
+Brook Lopez,2,2,21,1,Putback Layup Shot,1,-11,0,True
+Brook Lopez,1,10,9,1,Putback Layup Shot,1,-3,19,True
+Brook Lopez,1,3,6,1,Putback Layup Shot,1,-2,15,True
+Brook Lopez,3,6,23,1,Putback Layup Shot,1,-9,11,True
+Brook Lopez,2,0,1,1,Putback Layup Shot,1,18,8,True
+Brook Lopez,1,7,35,1,Reverse Dunk Shot,0,-3,5,True
+Brook Lopez,1,7,8,0,Reverse Layup Shot,1,-13,6,True
+Brook Lopez,3,6,9,0,Reverse Layup Shot,3,-27,15,True
+Brook Lopez,3,7,21,0,Reverse Layup Shot,1,-13,5,True
+Brook Lopez,2,8,25,1,Reverse Layup Shot,1,11,10,True
+Brook Lopez,1,11,42,1,Reverse Layup Shot,5,-54,4,True
+Brook Lopez,1,5,24,1,Reverse Layup Shot,2,22,13,True
+Brook Lopez,2,3,50,1,Running Dunk Shot,0,-5,5,True
+Brook Lopez,1,2,25,1,Running Dunk Shot,3,19,26,True
+Brook Lopez,3,2,5,1,Running Dunk Shot,1,14,6,True
+Brook Lopez,3,3,28,1,Running Dunk Shot,0,4,1,True
+Brook Lopez,1,8,11,1,Running Jump Shot,8,2,88,True
+Brook Lopez,3,9,32,1,Running Jump Shot,26,60,260,False
+Brook Lopez,3,9,15,1,Running Layup Shot,8,-67,46,True
+Brook Lopez,2,4,23,1,Running Layup Shot,4,-16,40,True
+Brook Lopez,2,0,4,0,Step Back Jump shot,15,-89,127,True
+Brook Lopez,1,6,12,0,Step Back Jump shot,13,-63,125,True
+Brook Lopez,3,8,56,1,Step Back Jump shot,11,24,109,True
+Brook Lopez,3,3,32,0,Step Back Jump shot,25,-162,198,False
+Brook Lopez,1,6,34,0,Step Back Jump shot,12,66,104,True
+Brook Lopez,3,4,43,0,Step Back Jump shot,12,-121,33,True
+Brook Lopez,3,7,48,0,Step Back Jump shot,24,-187,165,False
+Brook Lopez,3,6,8,1,Step Back Jump shot,13,71,110,True
+Brook Lopez,2,4,38,1,Tip Dunk Shot,0,0,-6,True
+Brook Lopez,3,8,45,0,Tip Dunk Shot,2,-9,24,True
+Brook Lopez,3,4,34,0,Tip Layup Shot,0,0,-6,True
+Brook Lopez,3,5,59,1,Tip Layup Shot,0,0,-6,True
+Brook Lopez,4,0,17,0,Tip Layup Shot,0,0,-6,True
+Brook Lopez,4,6,12,0,Tip Layup Shot,0,0,-6,True
+Brook Lopez,1,0,37,1,Tip Layup Shot,0,0,-6,True
+Brook Lopez,3,4,34,1,Tip Layup Shot,0,0,-6,True
+Brook Lopez,2,0,24,0,Tip Layup Shot,0,0,-6,True
+Brook Lopez,1,8,46,0,Tip Layup Shot,0,0,-6,True
+Brook Lopez,2,1,11,1,Tip Layup Shot,0,0,-6,True
+Brook Lopez,1,3,13,1,Tip Layup Shot,1,8,17,True
+Brook Lopez,1,11,45,0,Tip Layup Shot,9,12,90,True
+Brook Lopez,2,0,41,1,Tip Layup Shot,0,0,-6,True
+Brook Lopez,1,3,17,0,Tip Layup Shot,0,4,-1,True
+Brook Lopez,1,3,17,0,Tip Layup Shot,2,13,21,True
+Brook Lopez,3,5,6,1,Turnaround Bank Hook Shot,7,50,56,True
+Brook Lopez,1,11,48,0,Turnaround Fadeaway Bank Jump Shot,12,120,22,True
+Brook Lopez,1,9,35,0,Turnaround Fadeaway Bank Jump Shot,20,-120,168,True
+Brook Lopez,1,2,59,1,Turnaround Fadeaway Bank Jump Shot,3,32,15,True
+Brook Lopez,3,9,21,1,Turnaround Fadeaway Bank Jump Shot,5,37,41,True
+Brook Lopez,4,1,57,0,Turnaround Fadeaway shot,33,216,257,False
+Brook Lopez,1,6,47,1,Turnaround Fadeaway shot,12,40,116,True
+Brook Lopez,2,1,22,0,Turnaround Fadeaway shot,9,-13,98,True
+Brook Lopez,4,6,2,0,Turnaround Fadeaway shot,10,-46,95,True
+Brook Lopez,1,10,56,0,Turnaround Fadeaway shot,10,28,103,True
+Brook Lopez,3,11,4,1,Turnaround Fadeaway shot,13,-28,137,True
+Brook Lopez,3,1,36,1,Turnaround Fadeaway shot,11,1,116,True
+Brook Lopez,1,2,28,0,Turnaround Fadeaway shot,7,78,-3,True
+Brook Lopez,1,9,28,0,Turnaround Fadeaway shot,6,-59,31,True
+Brook Lopez,3,9,47,1,Turnaround Fadeaway shot,5,9,58,True
+Brook Lopez,3,11,7,0,Turnaround Fadeaway shot,11,-97,69,True
+Brook Lopez,3,11,27,0,Turnaround Fadeaway shot,4,5,49,True
+Brook Lopez,3,8,0,1,Turnaround Fadeaway shot,6,18,67,True
+Brook Lopez,1,6,29,1,Turnaround Hook Shot,6,55,37,True
+Brook Lopez,2,1,33,1,Turnaround Hook Shot,4,-8,42,True
+Brook Lopez,1,7,48,0,Turnaround Hook Shot,9,79,57,True
+Brook Lopez,1,9,58,1,Turnaround Hook Shot,7,66,27,True
+Brook Lopez,1,9,43,0,Turnaround Hook Shot,7,71,8,True
+Brook Lopez,2,3,39,0,Turnaround Hook Shot,7,71,17,True
+Brook Lopez,3,7,40,1,Turnaround Hook Shot,8,83,-11,True
+Brook Lopez,1,10,22,0,Turnaround Hook Shot,13,27,128,True
+Brook Lopez,1,11,27,0,Turnaround Hook Shot,9,74,67,True
+Brook Lopez,3,5,23,0,Turnaround Hook Shot,4,29,29,True
+Brook Lopez,3,5,41,1,Turnaround Hook Shot,7,6,78,True
+Brook Lopez,3,4,10,1,Turnaround Hook Shot,5,51,18,True
+Brook Lopez,1,6,28,1,Turnaround Hook Shot,6,68,5,True
+Brook Lopez,1,5,26,0,Turnaround Hook Shot,5,-13,57,True
+Brook Lopez,1,9,54,1,Turnaround Hook Shot,10,98,31,True
+Brook Lopez,1,7,37,0,Turnaround Hook Shot,9,-27,88,True
+Brook Lopez,4,4,55,0,Turnaround Hook Shot,7,68,30,True
+Brook Lopez,4,9,32,1,Turnaround Hook Shot,10,-6,105,True
+Brook Lopez,3,7,2,0,Turnaround Hook Shot,8,-61,58,True
+Brook Lopez,1,3,43,0,Turnaround Hook Shot,3,34,13,True
+Brook Lopez,1,3,18,1,Turnaround Hook Shot,6,62,15,True
+Brook Lopez,3,8,9,1,Turnaround Hook Shot,11,-17,109,True
+Brook Lopez,2,2,30,0,Turnaround Hook Shot,11,117,19,True
+Brook Lopez,2,6,25,0,Turnaround Hook Shot,5,55,21,True
+Brook Lopez,3,6,10,1,Turnaround Hook Shot,3,2,33,True
+Brook Lopez,1,11,21,1,Turnaround Hook Shot,10,26,104,True
+Brook Lopez,4,11,41,0,Turnaround Hook Shot,9,-39,91,True
+Brook Lopez,2,2,32,0,Turnaround Hook Shot,5,49,21,True
+Brook Lopez,1,9,15,0,Turnaround Hook Shot,8,61,63,True
+Brook Lopez,3,8,32,0,Turnaround Hook Shot,6,2,62,True
+Brook Lopez,1,10,58,0,Turnaround Hook Shot,8,82,20,True
+Brook Lopez,3,11,45,1,Turnaround Hook Shot,11,21,116,True
+Brook Lopez,3,7,30,1,Turnaround Jump Shot,8,67,48,True
+Brook Lopez,3,11,43,0,Turnaround Jump Shot,6,-12,60,True
+Brook Lopez,1,6,57,0,Turnaround Jump Shot,6,-40,53,True
+Brook Lopez,4,6,17,0,Turnaround Jump Shot,9,8,97,True
+Brook Lopez,4,2,37,1,Turnaround Jump Shot,15,-85,132,True
+Brook Lopez,1,10,6,1,Turnaround Jump Shot,2,17,15,True
+Brook Lopez,3,10,12,0,Turnaround Jump Shot,5,49,10,True
+Brook Lopez,1,4,28,1,Turnaround Jump Shot,8,18,85,True
+Brook Lopez,1,9,59,0,Turnaround Jump Shot,8,-3,85,True
+Brook Lopez,2,1,52,1,Turnaround Jump Shot,10,71,79,True
+Brook Lopez,3,9,20,1,Turnaround Jump Shot,15,26,152,True
+Brook Lopez,3,1,51,0,Turnaround Jump Shot,14,-70,132,True
+Brook Lopez,2,4,35,0,Turnaround Jump Shot,10,40,102,True
+Brook Lopez,1,4,43,0,Turnaround Jump Shot,9,-95,-1,True
+Brook Lopez,2,2,26,0,Turnaround Jump Shot,7,43,62,True
+Brook Lopez,4,7,58,1,Turnaround Jump Shot,14,-85,118,True
+Brook Lopez,3,6,49,0,Turnaround Jump Shot,14,-70,125,True
+Brook Lopez,1,4,57,1,Turnaround Jump Shot,4,2,47,True
+Brook Lopez,1,8,42,0,Turnaround Jump Shot,6,5,62,True
+Brook Lopez,1,6,37,1,Turnaround Jump Shot,6,-12,60,True
+Brook Lopez,1,10,57,0,Turnaround Jump Shot,26,148,222,False

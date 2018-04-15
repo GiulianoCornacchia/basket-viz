@@ -1,0 +1,299 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Isaiah Thomas,4,6,47,1,Cutting Finger Roll Layup Shot,1,-13,13,True
+Isaiah Thomas,1,7,19,0,Cutting Layup Shot,1,4,12,True
+Isaiah Thomas,4,7,33,1,Driving Finger Roll Layup Shot,1,11,11,True
+Isaiah Thomas,2,4,58,1,Driving Finger Roll Layup Shot,1,-13,-12,True
+Isaiah Thomas,4,11,2,0,Driving Finger Roll Layup Shot,1,9,6,True
+Isaiah Thomas,1,0,58,0,Driving Finger Roll Layup Shot,1,-5,14,True
+Isaiah Thomas,2,0,38,0,Driving Finger Roll Layup Shot,1,-11,9,True
+Isaiah Thomas,2,2,32,0,Driving Finger Roll Layup Shot,4,-35,30,True
+Isaiah Thomas,4,9,51,1,Driving Finger Roll Layup Shot,2,-1,22,True
+Isaiah Thomas,4,9,27,1,Driving Finger Roll Layup Shot,1,-2,11,True
+Isaiah Thomas,3,6,2,1,Driving Floating Bank Jump Shot,1,-13,4,True
+Isaiah Thomas,3,0,51,1,Driving Floating Jump Shot,10,-30,96,True
+Isaiah Thomas,1,3,30,0,Driving Floating Jump Shot,10,74,72,True
+Isaiah Thomas,1,4,43,0,Driving Floating Jump Shot,12,-7,125,True
+Isaiah Thomas,2,6,27,1,Driving Floating Jump Shot,7,2,77,True
+Isaiah Thomas,3,8,42,1,Driving Floating Jump Shot,9,-11,98,True
+Isaiah Thomas,3,7,22,1,Driving Floating Jump Shot,15,-3,152,True
+Isaiah Thomas,2,10,19,0,Driving Floating Jump Shot,6,-41,49,True
+Isaiah Thomas,4,9,42,0,Driving Floating Jump Shot,12,-43,119,True
+Isaiah Thomas,1,10,27,0,Driving Floating Jump Shot,9,46,87,True
+Isaiah Thomas,1,2,56,1,Driving Hook Shot,6,-24,64,True
+Isaiah Thomas,4,9,41,0,Driving Layup Shot,2,-16,16,True
+Isaiah Thomas,2,8,36,1,Driving Layup Shot,1,-1,18,True
+Isaiah Thomas,1,3,55,1,Driving Layup Shot,2,-25,9,True
+Isaiah Thomas,4,9,58,1,Driving Layup Shot,0,-1,8,True
+Isaiah Thomas,2,5,9,1,Driving Layup Shot,7,-59,38,True
+Isaiah Thomas,3,7,58,0,Driving Layup Shot,1,-5,13,True
+Isaiah Thomas,3,3,6,0,Driving Layup Shot,0,-3,4,True
+Isaiah Thomas,2,7,38,0,Driving Layup Shot,2,8,28,True
+Isaiah Thomas,4,10,8,1,Driving Layup Shot,0,-6,0,True
+Isaiah Thomas,4,5,17,0,Driving Layup Shot,5,-6,59,True
+Isaiah Thomas,3,7,39,1,Driving Layup Shot,1,13,4,True
+Isaiah Thomas,1,9,31,1,Driving Layup Shot,2,0,20,True
+Isaiah Thomas,3,2,38,1,Driving Layup Shot,0,9,-2,True
+Isaiah Thomas,4,8,23,0,Driving Layup Shot,2,-16,15,True
+Isaiah Thomas,1,11,8,1,Driving Layup Shot,0,-8,0,True
+Isaiah Thomas,1,1,36,1,Driving Layup Shot,0,5,8,True
+Isaiah Thomas,4,4,43,0,Driving Layup Shot,4,41,26,True
+Isaiah Thomas,3,11,12,0,Driving Layup Shot,4,-43,23,True
+Isaiah Thomas,4,5,15,0,Driving Layup Shot,5,-40,36,True
+Isaiah Thomas,3,1,16,1,Driving Layup Shot,2,12,16,True
+Isaiah Thomas,2,5,33,1,Driving Layup Shot,0,-1,7,True
+Isaiah Thomas,2,11,5,1,Driving Layup Shot,0,7,-1,True
+Isaiah Thomas,4,5,30,1,Driving Layup Shot,2,16,19,True
+Isaiah Thomas,1,0,32,1,Driving Layup Shot,1,2,13,True
+Isaiah Thomas,3,7,54,0,Driving Layup Shot,2,13,24,True
+Isaiah Thomas,3,1,0,1,Driving Layup Shot,3,0,37,True
+Isaiah Thomas,3,1,59,0,Driving Layup Shot,1,-6,12,True
+Isaiah Thomas,2,8,27,0,Driving Layup Shot,1,5,15,True
+Isaiah Thomas,4,7,58,1,Driving Layup Shot,1,-6,15,True
+Isaiah Thomas,1,4,12,0,Driving Layup Shot,3,-17,29,True
+Isaiah Thomas,1,9,11,1,Driving Layup Shot,1,-13,7,True
+Isaiah Thomas,2,6,21,0,Driving Layup Shot,1,0,18,True
+Isaiah Thomas,2,6,24,0,Driving Layup Shot,6,-4,61,True
+Isaiah Thomas,3,10,12,1,Driving Layup Shot,0,0,8,True
+Isaiah Thomas,4,3,1,0,Driving Layup Shot,3,-2,32,True
+Isaiah Thomas,4,4,47,1,Driving Layup Shot,2,6,20,True
+Isaiah Thomas,1,5,24,0,Driving Layup Shot,5,-13,52,True
+Isaiah Thomas,1,8,14,1,Driving Layup Shot,0,-5,6,True
+Isaiah Thomas,3,0,1,0,Driving Layup Shot,7,-21,67,True
+Isaiah Thomas,2,6,34,0,Driving Layup Shot,1,3,17,True
+Isaiah Thomas,2,5,1,0,Driving Layup Shot,1,-14,7,True
+Isaiah Thomas,3,4,47,1,Driving Layup Shot,1,14,-4,True
+Isaiah Thomas,1,8,58,0,Driving Layup Shot,1,-12,-6,True
+Isaiah Thomas,3,11,10,1,Driving Layup Shot,0,6,-4,True
+Isaiah Thomas,2,7,13,1,Driving Reverse Layup Shot,2,-22,17,True
+Isaiah Thomas,2,3,37,0,Driving Reverse Layup Shot,2,28,4,True
+Isaiah Thomas,2,8,41,0,Driving Reverse Layup Shot,1,-14,14,True
+Isaiah Thomas,1,3,26,0,Fadeaway Jump Shot,11,-89,65,True
+Isaiah Thomas,1,1,14,0,Fadeaway Jump Shot,13,130,-5,True
+Isaiah Thomas,3,0,29,0,Fadeaway Jump Shot,16,-32,162,True
+Isaiah Thomas,3,2,46,0,Floating Jump shot,7,-5,71,True
+Isaiah Thomas,2,7,52,0,Floating Jump shot,10,9,101,True
+Isaiah Thomas,3,9,9,1,Floating Jump shot,9,47,80,True
+Isaiah Thomas,4,7,45,0,Floating Jump shot,14,9,146,True
+Isaiah Thomas,3,2,17,1,Floating Jump shot,13,-125,52,True
+Isaiah Thomas,3,1,6,1,Floating Jump shot,6,-1,67,True
+Isaiah Thomas,1,4,29,0,Floating Jump shot,12,51,113,True
+Isaiah Thomas,3,4,16,0,Floating Jump shot,15,-1,154,True
+Isaiah Thomas,2,9,46,1,Floating Jump shot,13,-49,125,True
+Isaiah Thomas,3,8,53,0,Floating Jump shot,6,30,52,True
+Isaiah Thomas,1,3,42,0,Floating Jump shot,15,64,143,True
+Isaiah Thomas,4,10,0,1,Jump Bank Shot,24,-185,163,False
+Isaiah Thomas,1,9,43,0,Jump Shot,22,228,16,False
+Isaiah Thomas,3,0,44,0,Jump Shot,29,-103,281,False
+Isaiah Thomas,2,6,36,0,Jump Shot,25,-11,255,False
+Isaiah Thomas,4,11,46,0,Jump Shot,27,74,265,False
+Isaiah Thomas,2,10,40,0,Jump Shot,4,-40,27,True
+Isaiah Thomas,4,8,1,0,Jump Shot,26,-88,254,False
+Isaiah Thomas,2,9,57,0,Jump Shot,26,-9,264,False
+Isaiah Thomas,1,3,26,0,Jump Shot,30,186,241,False
+Isaiah Thomas,3,1,37,0,Jump Shot,24,73,236,False
+Isaiah Thomas,1,0,8,0,Jump Shot,27,-34,268,False
+Isaiah Thomas,2,7,59,0,Jump Shot,24,-242,4,False
+Isaiah Thomas,4,4,53,0,Jump Shot,25,132,219,False
+Isaiah Thomas,1,3,27,0,Jump Shot,25,140,212,False
+Isaiah Thomas,4,6,11,0,Jump Shot,6,55,29,True
+Isaiah Thomas,1,0,58,1,Jump Shot,25,10,252,False
+Isaiah Thomas,3,0,38,0,Jump Shot,25,-166,199,False
+Isaiah Thomas,4,0,1,0,Jump Shot,24,-93,231,False
+Isaiah Thomas,1,4,4,0,Jump Shot,25,141,213,False
+Isaiah Thomas,4,7,2,0,Jump Shot,25,119,221,False
+Isaiah Thomas,3,0,36,1,Jump Shot,24,-210,131,False
+Isaiah Thomas,2,9,12,1,Jump Shot,26,-159,207,False
+Isaiah Thomas,4,6,31,0,Jump Shot,10,-16,103,True
+Isaiah Thomas,4,5,25,0,Jump Shot,31,154,278,False
+Isaiah Thomas,4,9,16,0,Jump Shot,25,-207,155,False
+Isaiah Thomas,2,6,21,0,Jump Shot,25,-191,170,False
+Isaiah Thomas,4,11,0,1,Jump Shot,27,128,247,False
+Isaiah Thomas,1,0,38,0,Jump Shot,24,131,202,False
+Isaiah Thomas,4,5,38,0,Jump Shot,24,115,214,False
+Isaiah Thomas,1,1,2,1,Jump Shot,22,-226,8,False
+Isaiah Thomas,1,3,20,0,Jump Shot,25,-16,258,False
+Isaiah Thomas,2,7,54,0,Jump Shot,25,-7,256,False
+Isaiah Thomas,3,1,1,1,Jump Shot,24,-128,209,False
+Isaiah Thomas,4,10,2,1,Jump Shot,24,234,82,False
+Isaiah Thomas,3,0,13,0,Jump Shot,25,111,229,False
+Isaiah Thomas,4,3,53,0,Jump Shot,25,74,240,False
+Isaiah Thomas,1,4,16,0,Jump Shot,26,16,263,False
+Isaiah Thomas,2,10,23,0,Jump Shot,26,136,232,False
+Isaiah Thomas,2,2,16,1,Jump Shot,25,144,216,False
+Isaiah Thomas,2,10,32,1,Jump Shot,18,3,188,True
+Isaiah Thomas,4,3,37,0,Jump Shot,25,74,243,False
+Isaiah Thomas,3,9,12,1,Jump Shot,24,-149,199,False
+Isaiah Thomas,1,6,33,0,Jump Shot,27,-115,246,False
+Isaiah Thomas,4,3,57,1,Jump Shot,24,-128,210,False
+Isaiah Thomas,1,1,54,0,Jump Shot,9,-84,38,True
+Isaiah Thomas,3,5,37,1,Jump Shot,25,-128,220,False
+Isaiah Thomas,1,8,41,0,Jump Shot,29,54,295,False
+Isaiah Thomas,3,7,19,0,Jump Shot,25,223,127,False
+Isaiah Thomas,1,1,40,1,Jump Shot,24,173,179,False
+Isaiah Thomas,4,6,15,0,Jump Shot,22,223,30,False
+Isaiah Thomas,4,3,5,0,Jump Shot,22,-228,11,False
+Isaiah Thomas,3,1,43,1,Jump Shot,8,-80,20,True
+Isaiah Thomas,4,4,9,0,Jump Shot,25,-78,239,False
+Isaiah Thomas,4,3,17,0,Jump Shot,26,103,245,False
+Isaiah Thomas,4,8,5,0,Jump Shot,18,116,149,True
+Isaiah Thomas,3,8,12,0,Jump Shot,25,-17,259,False
+Isaiah Thomas,2,2,14,0,Jump Shot,26,157,210,False
+Isaiah Thomas,3,9,39,0,Jump Shot,22,221,13,False
+Isaiah Thomas,3,10,47,1,Jump Shot,15,98,116,True
+Isaiah Thomas,2,4,56,1,Jump Shot,25,106,230,False
+Isaiah Thomas,2,7,45,0,Jump Shot,25,119,228,False
+Isaiah Thomas,3,5,20,0,Jump Shot,25,-122,222,False
+Isaiah Thomas,2,10,12,0,Jump Shot,23,-231,-3,False
+Isaiah Thomas,3,11,2,1,Jump Shot,26,147,220,False
+Isaiah Thomas,3,7,59,0,Jump Shot,24,205,139,False
+Isaiah Thomas,3,6,17,0,Jump Shot,25,141,208,False
+Isaiah Thomas,4,3,17,0,Jump Shot,25,-149,205,False
+Isaiah Thomas,2,3,39,1,Jump Shot,26,-187,186,False
+Isaiah Thomas,1,5,13,0,Jump Shot,26,-99,242,False
+Isaiah Thomas,1,4,35,0,Jump Shot,26,-202,170,False
+Isaiah Thomas,4,7,0,0,Jump Shot,23,-62,227,True
+Isaiah Thomas,3,9,54,1,Jump Shot,25,225,119,False
+Isaiah Thomas,1,10,34,0,Jump Shot,14,68,132,True
+Isaiah Thomas,4,5,57,0,Jump Shot,25,134,220,False
+Isaiah Thomas,4,6,18,1,Jump Shot,14,141,11,True
+Isaiah Thomas,3,10,36,0,Jump Shot,24,135,210,False
+Isaiah Thomas,1,7,47,0,Jump Shot,25,94,236,False
+Isaiah Thomas,1,7,41,1,Jump Shot,24,-234,59,False
+Isaiah Thomas,1,8,32,1,Jump Shot,23,-234,7,False
+Isaiah Thomas,3,1,47,0,Jump Shot,22,-225,3,False
+Isaiah Thomas,3,11,19,0,Jump Shot,25,-138,211,False
+Isaiah Thomas,3,3,25,1,Jump Shot,26,169,200,False
+Isaiah Thomas,1,6,11,0,Jump Shot,26,-119,235,False
+Isaiah Thomas,3,3,53,1,Jump Shot,25,201,156,False
+Isaiah Thomas,2,4,53,0,Jump Shot,24,-232,62,False
+Isaiah Thomas,4,2,41,0,Jump Shot,25,-100,231,False
+Isaiah Thomas,1,4,14,0,Jump Shot,25,182,185,False
+Isaiah Thomas,3,7,45,0,Jump Shot,26,149,225,False
+Isaiah Thomas,3,10,27,0,Jump Shot,24,130,211,False
+Isaiah Thomas,4,2,2,0,Jump Shot,22,-226,-5,False
+Isaiah Thomas,4,5,31,1,Jump Shot,25,161,199,False
+Isaiah Thomas,3,4,14,0,Jump Shot,24,115,214,False
+Isaiah Thomas,1,10,58,1,Jump Shot,22,223,20,False
+Isaiah Thomas,1,9,15,1,Jump Shot,25,71,248,False
+Isaiah Thomas,4,7,2,0,Jump Shot,23,236,13,False
+Isaiah Thomas,3,4,53,0,Jump Shot,25,-110,233,False
+Isaiah Thomas,1,3,50,0,Jump Shot,19,3,190,True
+Isaiah Thomas,1,11,2,0,Jump Shot,24,-160,185,False
+Isaiah Thomas,1,4,50,0,Jump Shot,23,234,-4,False
+Isaiah Thomas,2,2,49,0,Jump Shot,25,18,252,False
+Isaiah Thomas,2,11,33,0,Jump Shot,11,22,115,True
+Isaiah Thomas,3,11,24,1,Jump Shot,24,90,229,False
+Isaiah Thomas,1,5,12,0,Jump Shot,25,-62,247,False
+Isaiah Thomas,2,8,16,0,Jump Shot,25,-104,238,False
+Isaiah Thomas,1,2,21,0,Jump Shot,26,134,229,False
+Isaiah Thomas,1,0,0,0,Jump Shot,26,94,252,False
+Isaiah Thomas,2,10,13,1,Jump Shot,25,-49,247,False
+Isaiah Thomas,3,1,48,1,Jump Shot,23,232,-6,False
+Isaiah Thomas,1,3,36,0,Jump Shot,25,-74,242,False
+Isaiah Thomas,4,9,21,1,Jump Shot,26,85,249,False
+Isaiah Thomas,4,11,4,0,Jump Shot,23,232,28,False
+Isaiah Thomas,4,10,21,1,Jump Shot,15,-107,113,True
+Isaiah Thomas,4,8,26,0,Jump Shot,25,-92,233,False
+Isaiah Thomas,4,9,10,1,Jump Shot,26,150,216,False
+Isaiah Thomas,1,3,37,0,Jump Shot,23,234,9,False
+Isaiah Thomas,4,8,39,0,Jump Shot,26,-127,235,False
+Isaiah Thomas,3,0,1,1,Jump Shot,17,-76,155,True
+Isaiah Thomas,1,4,57,0,Jump Shot,25,90,235,False
+Isaiah Thomas,2,9,57,0,Jump Shot,9,5,94,True
+Isaiah Thomas,1,9,31,0,Jump Shot,25,-63,251,False
+Isaiah Thomas,3,8,21,0,Jump Shot,25,-166,187,False
+Isaiah Thomas,2,5,16,0,Jump Shot,24,122,218,False
+Isaiah Thomas,3,7,59,0,Jump Shot,25,-13,257,False
+Isaiah Thomas,1,10,30,0,Jump Shot,25,-181,173,False
+Isaiah Thomas,3,9,8,0,Jump Shot,25,195,159,False
+Isaiah Thomas,3,8,24,0,Jump Shot,11,40,106,True
+Isaiah Thomas,1,4,43,1,Jump Shot,24,-151,198,False
+Isaiah Thomas,2,8,56,0,Jump Shot,24,-131,206,False
+Isaiah Thomas,3,4,33,0,Layup Shot,3,18,24,True
+Isaiah Thomas,1,3,48,1,Layup Shot,3,21,22,True
+Isaiah Thomas,1,0,1,0,Layup Shot,1,-13,14,True
+Isaiah Thomas,1,2,46,0,Layup Shot,2,-5,25,True
+Isaiah Thomas,3,8,8,0,Layup Shot,4,34,24,True
+Isaiah Thomas,3,10,58,0,Layup Shot,2,-15,22,True
+Isaiah Thomas,3,1,17,1,Layup Shot,2,11,21,True
+Isaiah Thomas,2,5,54,0,Pullup Jump shot,16,-100,135,True
+Isaiah Thomas,2,10,38,0,Pullup Jump shot,28,179,219,False
+Isaiah Thomas,2,9,38,0,Pullup Jump shot,16,82,141,True
+Isaiah Thomas,1,9,25,0,Pullup Jump shot,17,-104,138,True
+Isaiah Thomas,4,3,48,0,Pullup Jump shot,14,17,148,True
+Isaiah Thomas,1,9,16,0,Pullup Jump shot,25,163,193,False
+Isaiah Thomas,1,6,13,1,Pullup Jump shot,18,49,180,True
+Isaiah Thomas,1,10,8,0,Pullup Jump shot,25,177,186,False
+Isaiah Thomas,3,5,43,0,Pullup Jump shot,25,149,208,False
+Isaiah Thomas,3,0,37,0,Pullup Jump shot,22,118,197,True
+Isaiah Thomas,2,0,49,0,Pullup Jump shot,27,95,257,False
+Isaiah Thomas,2,6,49,1,Pullup Jump shot,24,-127,211,False
+Isaiah Thomas,3,4,6,0,Pullup Jump shot,26,152,211,False
+Isaiah Thomas,1,2,56,0,Pullup Jump shot,25,159,195,False
+Isaiah Thomas,2,9,40,1,Pullup Jump shot,24,-75,237,False
+Isaiah Thomas,2,8,4,0,Pullup Jump shot,15,-57,141,True
+Isaiah Thomas,3,9,50,0,Pullup Jump shot,19,-156,120,True
+Isaiah Thomas,3,7,31,1,Pullup Jump shot,16,105,125,True
+Isaiah Thomas,3,3,57,0,Pullup Jump shot,24,119,215,False
+Isaiah Thomas,3,6,6,1,Pullup Jump shot,14,-8,144,True
+Isaiah Thomas,1,9,8,1,Pullup Jump shot,19,-128,143,True
+Isaiah Thomas,3,0,0,0,Pullup Jump shot,31,76,302,False
+Isaiah Thomas,2,2,39,0,Pullup Jump shot,14,52,132,True
+Isaiah Thomas,4,3,57,1,Pullup Jump shot,16,0,163,True
+Isaiah Thomas,1,1,11,1,Pullup Jump shot,13,-95,99,True
+Isaiah Thomas,3,0,24,1,Pullup Jump shot,15,-65,141,True
+Isaiah Thomas,2,0,59,0,Pullup Jump shot,13,11,137,True
+Isaiah Thomas,1,5,56,0,Pullup Jump shot,8,39,80,True
+Isaiah Thomas,3,6,16,0,Pullup Jump shot,25,-196,170,False
+Isaiah Thomas,4,9,18,1,Pullup Jump shot,13,-78,115,True
+Isaiah Thomas,2,10,26,0,Pullup Jump shot,16,93,141,True
+Isaiah Thomas,1,9,31,0,Pullup Jump shot,9,-4,95,True
+Isaiah Thomas,3,0,19,0,Pullup Jump shot,19,71,185,True
+Isaiah Thomas,2,9,6,1,Pullup Jump shot,17,110,130,True
+Isaiah Thomas,4,7,4,0,Pullup Jump shot,15,150,11,True
+Isaiah Thomas,2,9,40,1,Pullup Jump shot,25,-65,251,False
+Isaiah Thomas,4,8,52,0,Pullup Jump shot,15,-5,158,True
+Isaiah Thomas,2,5,35,0,Pullup Jump shot,24,130,208,False
+Isaiah Thomas,1,6,38,1,Pullup Jump shot,19,-87,173,True
+Isaiah Thomas,3,2,41,0,Pullup Jump shot,17,-95,147,True
+Isaiah Thomas,4,11,45,1,Pullup Jump shot,13,51,129,True
+Isaiah Thomas,1,3,22,0,Pullup Jump shot,17,57,167,True
+Isaiah Thomas,1,0,2,1,Pullup Jump shot,24,-139,207,False
+Isaiah Thomas,2,4,0,0,Pullup Jump shot,22,128,185,True
+Isaiah Thomas,2,2,48,0,Pullup Jump shot,12,-29,117,True
+Isaiah Thomas,2,9,24,0,Pullup Jump shot,25,-72,246,False
+Isaiah Thomas,3,3,41,0,Pullup Jump shot,17,68,157,True
+Isaiah Thomas,3,11,16,1,Pullup Jump shot,16,1,169,True
+Isaiah Thomas,3,4,19,0,Pullup Jump shot,13,32,129,True
+Isaiah Thomas,1,9,13,1,Pullup Jump shot,16,72,149,True
+Isaiah Thomas,4,9,56,1,Pullup Jump shot,26,47,264,False
+Isaiah Thomas,2,7,13,1,Pullup Jump shot,25,76,247,False
+Isaiah Thomas,4,10,32,1,Pullup Jump shot,25,153,205,False
+Isaiah Thomas,2,9,22,0,Pullup Jump shot,26,68,260,False
+Isaiah Thomas,4,6,59,0,Pullup Jump shot,25,-207,152,False
+Isaiah Thomas,1,10,13,1,Pullup Jump shot,20,34,204,True
+Isaiah Thomas,4,4,47,1,Pullup Jump shot,15,-2,156,True
+Isaiah Thomas,1,0,0,0,Putback Layup Shot,2,-16,13,True
+Isaiah Thomas,3,8,7,1,Putback Layup Shot,2,8,19,True
+Isaiah Thomas,1,0,10,1,Reverse Layup Shot,6,-57,34,True
+Isaiah Thomas,3,3,49,0,Running Finger Roll Layup Shot,1,6,18,True
+Isaiah Thomas,1,4,15,0,Running Jump Shot,29,110,279,False
+Isaiah Thomas,1,4,20,0,Running Layup Shot,0,-3,8,True
+Isaiah Thomas,4,9,16,1,Running Layup Shot,1,9,6,True
+Isaiah Thomas,2,3,36,1,Running Layup Shot,5,20,50,True
+Isaiah Thomas,2,7,47,1,Running Layup Shot,3,-31,25,True
+Isaiah Thomas,3,2,19,1,Running Layup Shot,0,2,5,True
+Isaiah Thomas,4,9,43,0,Running Layup Shot,2,-20,22,True
+Isaiah Thomas,1,2,36,0,Running Pull-Up Jump Shot,24,-116,221,False
+Isaiah Thomas,3,3,8,0,Running Pull-Up Jump Shot,26,136,225,False
+Isaiah Thomas,4,10,28,0,Running Pull-Up Jump Shot,26,109,246,False
+Isaiah Thomas,2,0,42,1,Running Pull-Up Jump Shot,26,-135,230,False
+Isaiah Thomas,1,6,14,0,Running Pull-Up Jump Shot,25,136,210,False
+Isaiah Thomas,4,10,45,0,Running Pull-Up Jump Shot,25,122,225,False
+Isaiah Thomas,3,4,47,0,Running Reverse Layup Shot,2,-16,17,True
+Isaiah Thomas,1,1,3,1,Step Back Jump shot,18,143,119,True
+Isaiah Thomas,1,2,8,1,Step Back Jump shot,16,-19,165,True
+Isaiah Thomas,2,5,47,1,Step Back Jump shot,17,119,132,True
+Isaiah Thomas,2,3,32,0,Step Back Jump shot,17,171,11,True
+Isaiah Thomas,4,0,3,0,Step Back Jump shot,13,-104,85,True
+Isaiah Thomas,2,2,47,0,Turnaround Jump Shot,11,-85,76,True

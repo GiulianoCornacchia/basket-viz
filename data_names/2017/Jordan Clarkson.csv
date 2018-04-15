@@ -1,0 +1,850 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jordan Clarkson,2,11,50,0,Alley Oop Layup shot,2,3,27,True
+Jordan Clarkson,2,9,23,0,Alley Oop Layup shot,1,-11,15,True
+Jordan Clarkson,2,8,4,1,Alley Oop Layup shot,2,-10,19,True
+Jordan Clarkson,2,8,55,0,Alley Oop Layup shot,0,0,-4,True
+Jordan Clarkson,1,1,44,1,Alley Oop Layup shot,2,-4,22,True
+Jordan Clarkson,2,7,46,0,Alley Oop Layup shot,1,7,13,True
+Jordan Clarkson,3,0,11,1,Cutting Dunk Shot,1,11,4,True
+Jordan Clarkson,4,6,20,1,Cutting Dunk Shot,1,-2,13,True
+Jordan Clarkson,4,3,2,1,Cutting Dunk Shot,1,-6,13,True
+Jordan Clarkson,4,11,44,1,Cutting Finger Roll Layup Shot,2,-2,29,True
+Jordan Clarkson,1,4,13,1,Cutting Layup Shot,2,3,22,True
+Jordan Clarkson,1,1,51,1,Cutting Layup Shot,1,16,3,True
+Jordan Clarkson,4,8,3,1,Cutting Layup Shot,2,8,22,True
+Jordan Clarkson,4,9,55,1,Cutting Layup Shot,2,2,25,True
+Jordan Clarkson,2,7,10,1,Cutting Layup Shot,1,-12,15,True
+Jordan Clarkson,2,9,29,1,Cutting Layup Shot,1,9,8,True
+Jordan Clarkson,4,10,28,1,Cutting Layup Shot,2,-14,17,True
+Jordan Clarkson,4,8,16,1,Cutting Layup Shot,2,-15,21,True
+Jordan Clarkson,2,9,36,1,Cutting Layup Shot,1,2,10,True
+Jordan Clarkson,2,10,51,1,Driving Bank Hook Shot,9,88,29,True
+Jordan Clarkson,1,3,6,1,Driving Dunk Shot,2,8,21,True
+Jordan Clarkson,2,9,36,1,Driving Dunk Shot,2,8,20,True
+Jordan Clarkson,4,7,26,1,Driving Dunk Shot,1,-14,4,True
+Jordan Clarkson,4,8,53,1,Driving Finger Roll Layup Shot,4,6,47,True
+Jordan Clarkson,2,8,23,1,Driving Finger Roll Layup Shot,1,-2,11,True
+Jordan Clarkson,4,10,26,1,Driving Finger Roll Layup Shot,2,9,24,True
+Jordan Clarkson,4,7,27,0,Driving Finger Roll Layup Shot,3,19,25,True
+Jordan Clarkson,1,2,46,1,Driving Finger Roll Layup Shot,4,-5,41,True
+Jordan Clarkson,4,9,10,1,Driving Finger Roll Layup Shot,0,4,3,True
+Jordan Clarkson,4,7,0,0,Driving Finger Roll Layup Shot,3,-11,31,True
+Jordan Clarkson,2,1,34,1,Driving Finger Roll Layup Shot,3,17,34,True
+Jordan Clarkson,4,10,41,0,Driving Finger Roll Layup Shot,1,11,11,True
+Jordan Clarkson,1,1,40,1,Driving Finger Roll Layup Shot,2,2,20,True
+Jordan Clarkson,2,6,7,1,Driving Finger Roll Layup Shot,1,8,6,True
+Jordan Clarkson,4,1,6,0,Driving Finger Roll Layup Shot,1,2,12,True
+Jordan Clarkson,4,3,29,1,Driving Finger Roll Layup Shot,2,0,27,True
+Jordan Clarkson,3,1,21,1,Driving Finger Roll Layup Shot,1,11,6,True
+Jordan Clarkson,2,8,20,0,Driving Finger Roll Layup Shot,5,-49,21,True
+Jordan Clarkson,2,8,35,1,Driving Floating Bank Jump Shot,11,22,110,True
+Jordan Clarkson,3,9,57,0,Driving Floating Bank Jump Shot,2,2,22,True
+Jordan Clarkson,2,9,19,0,Driving Floating Bank Jump Shot,3,-25,20,True
+Jordan Clarkson,1,0,42,1,Driving Floating Bank Jump Shot,5,44,25,True
+Jordan Clarkson,2,7,15,0,Driving Floating Bank Jump Shot,3,-32,19,True
+Jordan Clarkson,4,6,51,1,Driving Floating Bank Jump Shot,5,41,36,True
+Jordan Clarkson,2,10,31,0,Driving Floating Bank Jump Shot,7,59,46,True
+Jordan Clarkson,1,3,1,1,Driving Floating Bank Jump Shot,6,47,46,True
+Jordan Clarkson,1,4,27,0,Driving Floating Bank Jump Shot,3,29,10,True
+Jordan Clarkson,3,4,13,1,Driving Floating Bank Jump Shot,1,9,11,True
+Jordan Clarkson,4,11,27,1,Driving Floating Bank Jump Shot,3,29,10,True
+Jordan Clarkson,3,0,12,1,Driving Floating Jump Shot,6,0,60,True
+Jordan Clarkson,4,11,45,1,Driving Floating Jump Shot,7,70,29,True
+Jordan Clarkson,4,6,44,0,Driving Floating Jump Shot,4,-5,43,True
+Jordan Clarkson,1,2,14,1,Driving Floating Jump Shot,4,39,21,True
+Jordan Clarkson,4,0,59,1,Driving Floating Jump Shot,4,3,41,True
+Jordan Clarkson,4,8,29,1,Driving Floating Jump Shot,9,85,51,True
+Jordan Clarkson,2,8,43,1,Driving Floating Jump Shot,10,13,106,True
+Jordan Clarkson,4,0,27,0,Driving Floating Jump Shot,9,85,42,True
+Jordan Clarkson,2,10,21,0,Driving Floating Jump Shot,3,35,17,True
+Jordan Clarkson,1,1,5,1,Driving Floating Jump Shot,6,-3,63,True
+Jordan Clarkson,1,2,57,0,Driving Floating Jump Shot,2,22,19,True
+Jordan Clarkson,4,9,1,0,Driving Floating Jump Shot,1,15,8,True
+Jordan Clarkson,3,1,47,1,Driving Floating Jump Shot,6,60,14,True
+Jordan Clarkson,2,9,29,0,Driving Floating Jump Shot,13,22,131,True
+Jordan Clarkson,2,11,40,0,Driving Floating Jump Shot,7,-72,10,True
+Jordan Clarkson,2,7,18,1,Driving Floating Jump Shot,10,83,56,True
+Jordan Clarkson,4,9,2,0,Driving Floating Jump Shot,1,-2,10,True
+Jordan Clarkson,2,9,43,0,Driving Floating Jump Shot,15,-56,142,True
+Jordan Clarkson,2,10,19,1,Driving Floating Jump Shot,11,-25,109,True
+Jordan Clarkson,2,7,4,1,Driving Floating Jump Shot,12,92,80,True
+Jordan Clarkson,3,0,53,0,Driving Floating Jump Shot,13,-45,122,True
+Jordan Clarkson,3,3,37,1,Driving Floating Jump Shot,9,19,88,True
+Jordan Clarkson,3,1,6,1,Driving Floating Jump Shot,13,100,88,True
+Jordan Clarkson,2,3,10,1,Driving Floating Jump Shot,3,8,31,True
+Jordan Clarkson,2,7,32,1,Driving Floating Jump Shot,7,-22,69,True
+Jordan Clarkson,1,0,41,1,Driving Floating Jump Shot,7,19,73,True
+Jordan Clarkson,2,9,16,1,Driving Floating Jump Shot,3,29,17,True
+Jordan Clarkson,1,0,54,1,Driving Floating Jump Shot,12,95,75,True
+Jordan Clarkson,3,0,20,0,Driving Floating Jump Shot,3,-7,34,True
+Jordan Clarkson,2,3,0,0,Driving Floating Jump Shot,6,17,63,True
+Jordan Clarkson,3,0,57,0,Driving Floating Jump Shot,8,14,85,True
+Jordan Clarkson,4,6,11,1,Driving Floating Jump Shot,4,-11,44,True
+Jordan Clarkson,4,10,50,1,Driving Floating Jump Shot,15,129,83,True
+Jordan Clarkson,2,9,44,0,Driving Floating Jump Shot,5,11,49,True
+Jordan Clarkson,1,1,20,0,Driving Floating Jump Shot,6,68,10,True
+Jordan Clarkson,1,2,31,0,Driving Floating Jump Shot,13,-123,53,True
+Jordan Clarkson,2,9,46,0,Driving Floating Jump Shot,8,-39,71,True
+Jordan Clarkson,4,6,39,1,Driving Floating Jump Shot,10,-101,25,True
+Jordan Clarkson,4,5,26,1,Driving Floating Jump Shot,6,-57,26,True
+Jordan Clarkson,4,6,2,0,Driving Floating Jump Shot,6,-6,67,True
+Jordan Clarkson,2,9,7,0,Driving Floating Jump Shot,5,-30,42,True
+Jordan Clarkson,4,6,52,1,Driving Floating Jump Shot,5,2,52,True
+Jordan Clarkson,1,4,13,0,Driving Hook Shot,2,11,24,True
+Jordan Clarkson,3,1,53,0,Driving Hook Shot,13,22,131,True
+Jordan Clarkson,1,0,4,0,Driving Hook Shot,5,13,51,True
+Jordan Clarkson,4,9,44,0,Driving Hook Shot,2,25,16,True
+Jordan Clarkson,1,0,2,1,Driving Hook Shot,2,0,26,True
+Jordan Clarkson,1,0,37,1,Driving Layup Shot,0,-7,7,True
+Jordan Clarkson,1,1,32,1,Driving Layup Shot,4,14,41,True
+Jordan Clarkson,4,9,9,0,Driving Layup Shot,3,35,18,True
+Jordan Clarkson,3,0,51,1,Driving Layup Shot,2,-20,20,True
+Jordan Clarkson,2,5,59,0,Driving Layup Shot,1,9,15,True
+Jordan Clarkson,4,6,48,0,Driving Layup Shot,10,62,86,True
+Jordan Clarkson,1,0,11,1,Driving Layup Shot,1,14,10,True
+Jordan Clarkson,4,11,16,1,Driving Layup Shot,1,12,-4,True
+Jordan Clarkson,3,1,4,0,Driving Layup Shot,4,-30,28,True
+Jordan Clarkson,2,11,11,1,Driving Layup Shot,2,16,18,True
+Jordan Clarkson,2,9,39,0,Driving Layup Shot,3,20,23,True
+Jordan Clarkson,4,7,33,1,Driving Layup Shot,1,12,4,True
+Jordan Clarkson,4,9,32,1,Driving Layup Shot,1,12,9,True
+Jordan Clarkson,2,11,39,1,Driving Layup Shot,2,-4,27,True
+Jordan Clarkson,1,0,13,0,Driving Layup Shot,5,54,2,True
+Jordan Clarkson,1,0,50,0,Driving Layup Shot,1,11,11,True
+Jordan Clarkson,4,6,2,1,Driving Layup Shot,1,13,6,True
+Jordan Clarkson,2,11,42,0,Driving Layup Shot,2,-21,19,True
+Jordan Clarkson,4,6,11,0,Driving Layup Shot,3,-3,32,True
+Jordan Clarkson,1,0,49,0,Driving Layup Shot,2,25,3,True
+Jordan Clarkson,4,7,49,1,Driving Layup Shot,2,16,13,True
+Jordan Clarkson,3,5,42,1,Driving Layup Shot,0,-8,5,True
+Jordan Clarkson,4,7,6,1,Driving Layup Shot,1,16,5,True
+Jordan Clarkson,4,7,50,0,Driving Layup Shot,2,-3,29,True
+Jordan Clarkson,1,0,30,0,Driving Layup Shot,2,-25,13,True
+Jordan Clarkson,3,2,1,0,Driving Layup Shot,2,-9,21,True
+Jordan Clarkson,2,9,22,0,Driving Layup Shot,2,9,18,True
+Jordan Clarkson,4,9,17,0,Driving Layup Shot,4,-40,22,True
+Jordan Clarkson,2,7,30,1,Driving Layup Shot,1,-6,10,True
+Jordan Clarkson,2,8,4,1,Driving Layup Shot,3,22,24,True
+Jordan Clarkson,2,10,10,1,Driving Layup Shot,1,-7,12,True
+Jordan Clarkson,4,2,43,1,Driving Layup Shot,2,20,10,True
+Jordan Clarkson,3,0,3,1,Driving Layup Shot,1,8,16,True
+Jordan Clarkson,2,7,16,0,Driving Layup Shot,1,-1,12,True
+Jordan Clarkson,2,9,9,0,Driving Layup Shot,2,13,27,True
+Jordan Clarkson,3,0,28,1,Driving Layup Shot,0,6,7,True
+Jordan Clarkson,4,1,32,0,Driving Layup Shot,3,12,30,True
+Jordan Clarkson,2,8,50,1,Driving Layup Shot,2,22,-10,True
+Jordan Clarkson,4,9,31,1,Driving Layup Shot,0,5,7,True
+Jordan Clarkson,2,7,48,0,Driving Layup Shot,1,9,13,True
+Jordan Clarkson,2,6,4,1,Driving Layup Shot,2,13,23,True
+Jordan Clarkson,1,5,48,1,Driving Layup Shot,0,0,7,True
+Jordan Clarkson,1,2,52,0,Driving Layup Shot,1,10,4,True
+Jordan Clarkson,4,7,9,1,Driving Layup Shot,0,5,-2,True
+Jordan Clarkson,1,0,37,1,Driving Layup Shot,1,13,15,True
+Jordan Clarkson,4,3,26,1,Driving Layup Shot,2,14,17,True
+Jordan Clarkson,4,5,59,1,Driving Layup Shot,1,15,8,True
+Jordan Clarkson,3,2,22,1,Driving Layup Shot,2,-17,21,True
+Jordan Clarkson,2,10,29,1,Driving Layup Shot,0,-2,6,True
+Jordan Clarkson,4,10,30,0,Driving Layup Shot,5,29,41,True
+Jordan Clarkson,4,10,30,0,Driving Layup Shot,1,11,-1,True
+Jordan Clarkson,4,1,26,0,Driving Layup Shot,1,-8,18,True
+Jordan Clarkson,4,6,22,1,Driving Layup Shot,1,-8,15,True
+Jordan Clarkson,1,2,6,0,Driving Layup Shot,1,11,3,True
+Jordan Clarkson,2,7,20,1,Driving Layup Shot,0,9,1,True
+Jordan Clarkson,2,9,0,0,Driving Layup Shot,1,-13,7,True
+Jordan Clarkson,4,0,31,1,Driving Layup Shot,1,3,11,True
+Jordan Clarkson,4,3,28,0,Driving Layup Shot,1,3,17,True
+Jordan Clarkson,2,11,18,0,Driving Layup Shot,2,5,23,True
+Jordan Clarkson,4,5,26,1,Driving Layup Shot,2,3,25,True
+Jordan Clarkson,4,2,49,1,Driving Layup Shot,0,-1,1,True
+Jordan Clarkson,1,7,35,0,Driving Layup Shot,2,-8,25,True
+Jordan Clarkson,2,9,27,0,Driving Layup Shot,3,-30,8,True
+Jordan Clarkson,2,7,5,1,Driving Layup Shot,1,-2,11,True
+Jordan Clarkson,4,9,5,1,Driving Layup Shot,3,-13,29,True
+Jordan Clarkson,2,9,58,1,Driving Layup Shot,0,5,0,True
+Jordan Clarkson,4,5,31,0,Driving Layup Shot,2,-11,17,True
+Jordan Clarkson,4,8,30,0,Driving Layup Shot,3,-17,25,True
+Jordan Clarkson,3,3,6,0,Driving Layup Shot,10,-13,106,True
+Jordan Clarkson,2,5,15,1,Driving Layup Shot,1,-8,12,True
+Jordan Clarkson,3,2,27,1,Driving Layup Shot,1,8,15,True
+Jordan Clarkson,1,1,28,1,Driving Layup Shot,1,13,11,True
+Jordan Clarkson,4,9,50,0,Driving Layup Shot,1,-9,5,True
+Jordan Clarkson,1,1,32,1,Driving Layup Shot,2,-14,21,True
+Jordan Clarkson,4,11,50,0,Driving Layup Shot,2,-9,23,True
+Jordan Clarkson,4,7,56,0,Driving Layup Shot,2,11,22,True
+Jordan Clarkson,2,10,38,0,Driving Layup Shot,3,3,38,True
+Jordan Clarkson,4,6,10,0,Driving Layup Shot,3,29,25,True
+Jordan Clarkson,2,6,52,1,Driving Layup Shot,1,-4,13,True
+Jordan Clarkson,2,8,22,1,Driving Layup Shot,1,9,9,True
+Jordan Clarkson,2,0,3,1,Driving Layup Shot,2,10,25,True
+Jordan Clarkson,4,7,32,1,Driving Layup Shot,1,0,16,True
+Jordan Clarkson,4,7,2,1,Driving Layup Shot,1,-3,10,True
+Jordan Clarkson,3,0,49,1,Driving Layup Shot,1,12,1,True
+Jordan Clarkson,2,7,53,1,Driving Layup Shot,2,-19,16,True
+Jordan Clarkson,4,10,28,1,Driving Reverse Layup Shot,1,13,5,True
+Jordan Clarkson,4,3,32,1,Driving Reverse Layup Shot,1,7,13,True
+Jordan Clarkson,1,1,21,0,Driving Reverse Layup Shot,2,8,28,True
+Jordan Clarkson,4,7,13,0,Driving Reverse Layup Shot,2,8,21,True
+Jordan Clarkson,2,11,22,1,Driving Reverse Layup Shot,1,1,13,True
+Jordan Clarkson,1,0,47,1,Driving Reverse Layup Shot,1,-2,17,True
+Jordan Clarkson,4,3,2,1,Driving Reverse Layup Shot,0,1,3,True
+Jordan Clarkson,3,0,3,1,Driving Reverse Layup Shot,2,-17,15,True
+Jordan Clarkson,2,7,3,1,Driving Reverse Layup Shot,2,19,15,True
+Jordan Clarkson,2,6,15,1,Driving Reverse Layup Shot,0,7,6,True
+Jordan Clarkson,1,1,35,1,Driving Reverse Layup Shot,2,8,19,True
+Jordan Clarkson,2,10,7,1,Driving Reverse Layup Shot,2,7,19,True
+Jordan Clarkson,2,9,25,1,Dunk Shot,2,7,19,True
+Jordan Clarkson,1,3,3,0,Dunk Shot,0,2,1,True
+Jordan Clarkson,2,5,28,1,Dunk Shot,1,-12,7,True
+Jordan Clarkson,3,6,15,1,Fadeaway Jump Shot,12,-124,3,True
+Jordan Clarkson,1,1,49,1,Fadeaway Jump Shot,14,-90,115,True
+Jordan Clarkson,1,3,24,0,Fadeaway Jump Shot,5,-47,29,True
+Jordan Clarkson,1,0,6,0,Fadeaway Jump Shot,10,-11,105,True
+Jordan Clarkson,1,0,41,1,Fadeaway Jump Shot,8,-89,9,True
+Jordan Clarkson,4,2,2,1,Fadeaway Jump Shot,13,-71,117,True
+Jordan Clarkson,1,9,23,0,Fadeaway Jump Shot,11,-81,83,True
+Jordan Clarkson,2,8,36,0,Fadeaway Jump Shot,14,-81,117,True
+Jordan Clarkson,3,8,39,1,Fadeaway Jump Shot,2,1,27,True
+Jordan Clarkson,4,9,17,0,Fadeaway Jump Shot,9,91,17,True
+Jordan Clarkson,2,11,39,1,Fadeaway Jump Shot,13,-47,123,True
+Jordan Clarkson,4,11,20,1,Fadeaway Jump Shot,12,-104,71,True
+Jordan Clarkson,2,0,7,0,Fadeaway Jump Shot,13,63,114,True
+Jordan Clarkson,3,3,38,0,Fadeaway Jump Shot,15,-13,153,True
+Jordan Clarkson,3,6,57,1,Fadeaway Jump Shot,16,-163,46,True
+Jordan Clarkson,1,4,3,0,Finger Roll Layup Shot,1,11,13,True
+Jordan Clarkson,4,7,46,0,Finger Roll Layup Shot,2,3,22,True
+Jordan Clarkson,2,11,28,1,Floating Jump shot,13,-22,132,True
+Jordan Clarkson,3,4,12,0,Floating Jump shot,7,-15,73,True
+Jordan Clarkson,1,3,1,0,Floating Jump shot,10,23,104,True
+Jordan Clarkson,4,3,39,1,Floating Jump shot,7,41,57,True
+Jordan Clarkson,2,8,30,0,Floating Jump shot,18,-180,22,True
+Jordan Clarkson,3,0,48,0,Floating Jump shot,15,-93,121,True
+Jordan Clarkson,4,3,12,1,Floating Jump shot,9,-49,86,True
+Jordan Clarkson,2,10,43,1,Floating Jump shot,10,55,94,True
+Jordan Clarkson,4,10,43,0,Floating Jump shot,9,17,95,True
+Jordan Clarkson,3,8,45,0,Floating Jump shot,13,44,124,True
+Jordan Clarkson,3,4,13,0,Floating Jump shot,14,104,104,True
+Jordan Clarkson,3,6,50,1,Floating Jump shot,8,-89,-2,True
+Jordan Clarkson,4,3,53,0,Floating Jump shot,10,9,103,True
+Jordan Clarkson,3,0,9,0,Floating Jump shot,12,125,11,True
+Jordan Clarkson,2,9,49,0,Floating Jump shot,4,2,49,True
+Jordan Clarkson,3,1,16,1,Floating Jump shot,4,8,43,True
+Jordan Clarkson,3,0,41,0,Floating Jump shot,3,23,26,True
+Jordan Clarkson,2,2,29,1,Floating Jump shot,3,-13,36,True
+Jordan Clarkson,3,3,39,1,Floating Jump shot,8,-81,37,True
+Jordan Clarkson,1,1,48,0,Floating Jump shot,3,11,32,True
+Jordan Clarkson,1,6,51,0,Floating Jump shot,6,26,60,True
+Jordan Clarkson,2,3,54,1,Floating Jump shot,2,3,22,True
+Jordan Clarkson,4,6,22,0,Floating Jump shot,4,-3,43,True
+Jordan Clarkson,4,10,55,0,Floating Jump shot,13,64,121,True
+Jordan Clarkson,2,10,52,1,Floating Jump shot,9,30,88,True
+Jordan Clarkson,2,8,14,0,Floating Jump shot,6,-60,-6,True
+Jordan Clarkson,2,7,58,1,Floating Jump shot,2,2,24,True
+Jordan Clarkson,2,9,38,0,Floating Jump shot,10,-48,93,True
+Jordan Clarkson,4,10,25,1,Floating Jump shot,10,28,106,True
+Jordan Clarkson,4,4,39,1,Floating Jump shot,7,17,71,True
+Jordan Clarkson,1,1,26,1,Floating Jump shot,5,2,53,True
+Jordan Clarkson,3,0,39,0,Floating Jump shot,2,-11,17,True
+Jordan Clarkson,1,0,2,1,Floating Jump shot,1,1,17,True
+Jordan Clarkson,4,7,35,0,Floating Jump shot,6,-26,57,True
+Jordan Clarkson,2,7,58,1,Floating Jump shot,13,-9,131,True
+Jordan Clarkson,2,6,45,1,Floating Jump shot,8,47,72,True
+Jordan Clarkson,4,11,15,0,Floating Jump shot,7,-33,62,True
+Jordan Clarkson,3,2,4,0,Floating Jump shot,3,-5,31,True
+Jordan Clarkson,2,10,42,0,Hook Shot,2,-6,27,True
+Jordan Clarkson,2,8,27,1,Hook Shot,4,-6,49,True
+Jordan Clarkson,1,1,14,0,Hook Shot,11,-52,108,True
+Jordan Clarkson,1,3,53,0,Hook Shot,7,24,66,True
+Jordan Clarkson,2,9,57,1,Hook Shot,8,-11,86,True
+Jordan Clarkson,4,10,21,0,Jump Shot,9,-93,31,True
+Jordan Clarkson,3,5,10,0,Jump Shot,25,75,242,False
+Jordan Clarkson,4,8,31,0,Jump Shot,25,-194,172,False
+Jordan Clarkson,2,0,5,0,Jump Shot,27,103,257,False
+Jordan Clarkson,4,4,54,1,Jump Shot,25,-153,209,False
+Jordan Clarkson,3,7,7,1,Jump Shot,26,-133,226,False
+Jordan Clarkson,1,0,25,0,Jump Shot,25,50,247,False
+Jordan Clarkson,1,0,32,0,Jump Shot,25,148,208,False
+Jordan Clarkson,4,4,36,0,Jump Shot,25,81,238,False
+Jordan Clarkson,1,0,47,0,Jump Shot,18,76,169,True
+Jordan Clarkson,4,11,35,0,Jump Shot,12,85,90,True
+Jordan Clarkson,1,1,25,0,Jump Shot,26,180,190,False
+Jordan Clarkson,5,3,41,0,Jump Shot,24,238,75,False
+Jordan Clarkson,2,8,9,1,Jump Shot,26,-129,231,False
+Jordan Clarkson,3,0,26,0,Jump Shot,25,-214,131,False
+Jordan Clarkson,4,5,54,1,Jump Shot,24,242,6,False
+Jordan Clarkson,4,4,9,0,Jump Shot,26,83,250,False
+Jordan Clarkson,4,8,13,0,Jump Shot,26,-107,239,False
+Jordan Clarkson,2,9,50,1,Jump Shot,24,128,214,False
+Jordan Clarkson,2,11,30,0,Jump Shot,19,-79,175,True
+Jordan Clarkson,2,10,47,1,Jump Shot,22,218,42,False
+Jordan Clarkson,4,9,19,0,Jump Shot,27,94,258,False
+Jordan Clarkson,4,9,50,0,Jump Shot,15,155,10,True
+Jordan Clarkson,4,11,45,1,Jump Shot,24,-27,248,False
+Jordan Clarkson,2,4,20,0,Jump Shot,22,226,34,False
+Jordan Clarkson,3,0,0,0,Jump Shot,27,202,180,False
+Jordan Clarkson,3,0,43,0,Jump Shot,25,-27,252,False
+Jordan Clarkson,2,11,41,1,Jump Shot,25,144,215,False
+Jordan Clarkson,4,10,33,0,Jump Shot,26,-107,244,False
+Jordan Clarkson,4,6,18,0,Jump Shot,25,-158,196,False
+Jordan Clarkson,2,8,31,0,Jump Shot,25,142,216,False
+Jordan Clarkson,2,7,10,0,Jump Shot,19,196,13,True
+Jordan Clarkson,2,5,34,1,Jump Shot,16,-71,150,True
+Jordan Clarkson,4,6,20,0,Jump Shot,14,25,141,True
+Jordan Clarkson,3,2,4,0,Jump Shot,26,80,253,False
+Jordan Clarkson,2,10,27,0,Jump Shot,10,-91,52,True
+Jordan Clarkson,3,1,14,0,Jump Shot,25,62,243,False
+Jordan Clarkson,2,10,20,0,Jump Shot,25,-203,147,False
+Jordan Clarkson,4,11,16,0,Jump Shot,25,185,177,False
+Jordan Clarkson,4,1,58,0,Jump Shot,27,-134,235,False
+Jordan Clarkson,3,1,32,0,Jump Shot,23,-230,44,False
+Jordan Clarkson,2,9,6,0,Jump Shot,25,-90,234,False
+Jordan Clarkson,2,7,39,1,Jump Shot,25,131,215,False
+Jordan Clarkson,2,0,13,0,Jump Shot,25,118,223,False
+Jordan Clarkson,4,10,9,1,Jump Shot,25,-24,252,False
+Jordan Clarkson,1,1,15,1,Jump Shot,12,126,30,True
+Jordan Clarkson,2,11,10,1,Jump Shot,20,34,199,True
+Jordan Clarkson,2,4,12,1,Jump Shot,10,-19,100,True
+Jordan Clarkson,2,3,39,1,Jump Shot,26,-143,218,False
+Jordan Clarkson,2,9,29,1,Jump Shot,23,-230,17,False
+Jordan Clarkson,4,10,42,0,Jump Shot,20,-112,168,True
+Jordan Clarkson,2,8,14,0,Jump Shot,26,-175,194,False
+Jordan Clarkson,2,4,33,0,Jump Shot,26,183,189,False
+Jordan Clarkson,4,4,50,1,Jump Shot,14,8,148,True
+Jordan Clarkson,2,5,36,0,Jump Shot,23,235,9,False
+Jordan Clarkson,4,9,21,0,Jump Shot,22,-223,16,False
+Jordan Clarkson,2,7,34,0,Jump Shot,25,0,251,False
+Jordan Clarkson,2,10,59,1,Jump Shot,25,-107,232,False
+Jordan Clarkson,3,2,23,0,Jump Shot,27,101,252,False
+Jordan Clarkson,2,7,19,0,Jump Shot,27,-215,169,False
+Jordan Clarkson,1,1,58,0,Jump Shot,17,-163,71,True
+Jordan Clarkson,4,3,16,0,Jump Shot,15,-7,152,True
+Jordan Clarkson,2,10,34,1,Jump Shot,27,-106,257,False
+Jordan Clarkson,2,11,42,1,Jump Shot,25,-7,253,False
+Jordan Clarkson,2,6,54,0,Jump Shot,25,-115,225,False
+Jordan Clarkson,1,1,4,0,Jump Shot,13,-85,106,True
+Jordan Clarkson,4,11,20,0,Jump Shot,26,106,240,False
+Jordan Clarkson,1,2,2,0,Jump Shot,22,223,52,False
+Jordan Clarkson,4,3,20,0,Jump Shot,15,-75,135,True
+Jordan Clarkson,4,9,41,1,Jump Shot,25,-210,141,False
+Jordan Clarkson,3,0,58,0,Jump Shot,22,222,18,False
+Jordan Clarkson,1,1,17,1,Jump Shot,22,-223,13,False
+Jordan Clarkson,1,1,23,0,Jump Shot,8,0,88,True
+Jordan Clarkson,2,10,17,0,Jump Shot,26,-145,222,False
+Jordan Clarkson,1,2,58,0,Jump Shot,16,-120,119,True
+Jordan Clarkson,3,0,20,0,Jump Shot,24,236,61,False
+Jordan Clarkson,1,0,33,0,Jump Shot,25,139,215,False
+Jordan Clarkson,2,10,4,0,Jump Shot,25,125,227,False
+Jordan Clarkson,4,10,17,0,Jump Shot,25,-116,222,False
+Jordan Clarkson,4,9,10,0,Jump Shot,25,-217,138,False
+Jordan Clarkson,1,0,58,0,Jump Shot,26,109,246,False
+Jordan Clarkson,1,3,6,0,Jump Shot,24,-229,76,False
+Jordan Clarkson,2,8,33,1,Jump Shot,26,68,261,False
+Jordan Clarkson,4,5,54,0,Jump Shot,25,159,205,False
+Jordan Clarkson,1,3,23,0,Jump Shot,27,-166,216,False
+Jordan Clarkson,3,3,46,0,Jump Shot,18,-21,179,True
+Jordan Clarkson,3,0,56,1,Jump Shot,23,-237,16,False
+Jordan Clarkson,4,10,1,1,Jump Shot,27,-123,247,False
+Jordan Clarkson,3,0,3,0,Jump Shot,25,-145,212,False
+Jordan Clarkson,1,4,31,1,Jump Shot,18,-182,-5,True
+Jordan Clarkson,2,0,1,0,Jump Shot,23,-229,68,False
+Jordan Clarkson,2,9,34,1,Jump Shot,24,-233,73,False
+Jordan Clarkson,1,0,25,0,Jump Shot,24,-215,124,False
+Jordan Clarkson,2,10,27,0,Jump Shot,25,11,251,False
+Jordan Clarkson,4,11,37,0,Jump Shot,20,-9,200,True
+Jordan Clarkson,3,1,7,1,Jump Shot,23,-233,-17,False
+Jordan Clarkson,2,4,9,0,Jump Shot,26,-141,221,False
+Jordan Clarkson,2,7,14,0,Jump Shot,23,-206,119,False
+Jordan Clarkson,4,7,26,0,Jump Shot,14,53,136,True
+Jordan Clarkson,2,10,13,0,Jump Shot,19,-2,195,True
+Jordan Clarkson,2,11,32,0,Jump Shot,27,-59,266,False
+Jordan Clarkson,2,6,10,0,Jump Shot,13,12,137,True
+Jordan Clarkson,4,8,30,0,Jump Shot,26,-181,196,False
+Jordan Clarkson,3,0,0,0,Jump Shot,28,-56,280,False
+Jordan Clarkson,4,9,35,1,Jump Shot,26,-74,253,False
+Jordan Clarkson,2,7,37,0,Jump Shot,25,-214,133,False
+Jordan Clarkson,2,11,46,0,Jump Shot,20,179,90,True
+Jordan Clarkson,4,8,59,0,Jump Shot,10,89,59,True
+Jordan Clarkson,2,9,37,1,Jump Shot,25,-141,218,False
+Jordan Clarkson,4,6,47,1,Jump Shot,22,-224,-1,False
+Jordan Clarkson,4,10,13,1,Jump Shot,15,125,97,True
+Jordan Clarkson,3,2,37,1,Jump Shot,26,-149,220,False
+Jordan Clarkson,2,11,16,1,Jump Shot,24,120,218,False
+Jordan Clarkson,3,7,16,0,Jump Shot,26,-101,248,False
+Jordan Clarkson,1,0,41,0,Jump Shot,24,-196,153,False
+Jordan Clarkson,1,1,2,1,Jump Shot,25,-142,212,False
+Jordan Clarkson,4,2,28,0,Jump Shot,25,146,205,False
+Jordan Clarkson,1,3,32,0,Jump Shot,25,-10,257,False
+Jordan Clarkson,1,0,50,1,Jump Shot,19,116,152,True
+Jordan Clarkson,4,2,29,1,Jump Shot,25,-186,169,False
+Jordan Clarkson,1,0,40,0,Jump Shot,25,-101,238,False
+Jordan Clarkson,3,2,17,0,Jump Shot,27,129,244,False
+Jordan Clarkson,2,9,56,0,Jump Shot,8,46,73,True
+Jordan Clarkson,1,1,10,0,Jump Shot,24,-138,206,False
+Jordan Clarkson,1,1,24,1,Jump Shot,25,192,166,False
+Jordan Clarkson,1,0,23,0,Jump Shot,26,-165,205,False
+Jordan Clarkson,4,4,6,1,Jump Shot,23,-232,20,False
+Jordan Clarkson,4,4,42,1,Jump Shot,25,-149,207,False
+Jordan Clarkson,4,10,48,0,Jump Shot,19,80,180,True
+Jordan Clarkson,3,0,5,0,Jump Shot,25,-38,250,False
+Jordan Clarkson,3,0,45,1,Jump Shot,25,-70,243,False
+Jordan Clarkson,1,2,19,0,Jump Shot,26,204,164,False
+Jordan Clarkson,4,7,59,0,Jump Shot,25,98,233,False
+Jordan Clarkson,2,7,11,0,Jump Shot,25,100,237,False
+Jordan Clarkson,3,1,56,1,Jump Shot,26,-207,172,False
+Jordan Clarkson,2,10,11,0,Jump Shot,24,-185,167,False
+Jordan Clarkson,4,10,51,0,Jump Shot,9,-1,91,True
+Jordan Clarkson,2,8,34,0,Jump Shot,19,-194,-7,True
+Jordan Clarkson,4,9,28,1,Jump Shot,24,-82,227,False
+Jordan Clarkson,3,0,58,1,Jump Shot,23,-231,4,False
+Jordan Clarkson,3,0,0,0,Jump Shot,25,190,168,False
+Jordan Clarkson,4,1,23,0,Jump Shot,29,-52,294,False
+Jordan Clarkson,3,2,32,0,Jump Shot,25,-123,218,False
+Jordan Clarkson,4,5,3,0,Jump Shot,25,155,200,False
+Jordan Clarkson,4,8,31,0,Jump Shot,6,-36,57,True
+Jordan Clarkson,2,5,20,0,Jump Shot,25,-182,174,False
+Jordan Clarkson,2,10,40,0,Jump Shot,22,-226,-8,False
+Jordan Clarkson,3,2,46,1,Jump Shot,24,-186,158,False
+Jordan Clarkson,1,3,17,0,Jump Shot,20,-196,75,True
+Jordan Clarkson,2,9,26,1,Jump Shot,17,117,126,True
+Jordan Clarkson,2,6,42,0,Jump Shot,24,-165,187,False
+Jordan Clarkson,4,4,16,1,Jump Shot,20,-175,116,True
+Jordan Clarkson,5,4,23,1,Jump Shot,25,14,258,False
+Jordan Clarkson,4,1,0,1,Jump Shot,22,4,220,True
+Jordan Clarkson,4,7,38,0,Jump Shot,25,44,254,False
+Jordan Clarkson,2,2,1,0,Jump Shot,27,-36,271,False
+Jordan Clarkson,5,1,16,0,Jump Shot,25,124,223,False
+Jordan Clarkson,2,10,26,0,Jump Shot,26,61,253,False
+Jordan Clarkson,2,8,44,0,Jump Shot,24,91,230,False
+Jordan Clarkson,4,3,13,0,Jump Shot,27,0,273,False
+Jordan Clarkson,3,0,4,0,Jump Shot,25,-180,178,False
+Jordan Clarkson,4,8,38,0,Jump Shot,26,-70,256,False
+Jordan Clarkson,1,0,19,0,Jump Shot,26,-127,236,False
+Jordan Clarkson,1,1,49,0,Jump Shot,24,-101,227,False
+Jordan Clarkson,1,2,13,0,Jump Shot,24,156,194,False
+Jordan Clarkson,3,0,19,1,Jump Shot,24,-193,146,False
+Jordan Clarkson,3,4,50,1,Jump Shot,21,129,178,True
+Jordan Clarkson,4,11,6,0,Jump Shot,25,-137,217,False
+Jordan Clarkson,3,2,11,0,Jump Shot,27,-62,264,False
+Jordan Clarkson,4,7,18,0,Jump Shot,22,-229,2,False
+Jordan Clarkson,4,2,11,1,Jump Shot,26,-140,220,False
+Jordan Clarkson,2,1,17,1,Jump Shot,14,-109,102,True
+Jordan Clarkson,1,0,52,1,Jump Shot,24,-217,111,False
+Jordan Clarkson,4,6,46,1,Jump Shot,26,114,243,False
+Jordan Clarkson,2,7,8,0,Jump Shot,26,-223,136,False
+Jordan Clarkson,4,1,58,0,Jump Shot,26,-138,227,False
+Jordan Clarkson,1,1,36,0,Jump Shot,11,-54,105,True
+Jordan Clarkson,2,8,30,0,Jump Shot,25,127,216,False
+Jordan Clarkson,4,1,4,1,Jump Shot,27,-111,253,False
+Jordan Clarkson,4,10,43,1,Jump Shot,25,224,115,False
+Jordan Clarkson,2,11,41,1,Jump Shot,25,165,199,False
+Jordan Clarkson,2,0,38,0,Jump Shot,24,-207,129,False
+Jordan Clarkson,2,8,14,0,Jump Shot,26,-150,214,False
+Jordan Clarkson,2,0,6,1,Jump Shot,24,-178,172,False
+Jordan Clarkson,4,9,47,0,Jump Shot,22,-223,-6,False
+Jordan Clarkson,2,1,21,0,Jump Shot,25,-13,252,False
+Jordan Clarkson,1,0,0,0,Jump Shot,27,-38,268,False
+Jordan Clarkson,3,1,25,1,Jump Shot,26,-165,207,False
+Jordan Clarkson,1,1,40,0,Jump Shot,23,231,29,False
+Jordan Clarkson,4,10,47,1,Jump Shot,10,98,23,True
+Jordan Clarkson,1,0,6,1,Jump Shot,13,-119,58,True
+Jordan Clarkson,4,10,19,1,Jump Shot,25,-235,97,False
+Jordan Clarkson,2,9,44,0,Jump Shot,28,106,260,False
+Jordan Clarkson,3,0,4,0,Jump Shot,26,226,145,False
+Jordan Clarkson,4,2,22,0,Jump Shot,6,-2,69,True
+Jordan Clarkson,3,0,1,0,Jump Shot,25,-106,237,False
+Jordan Clarkson,1,1,17,0,Jump Shot,23,232,55,False
+Jordan Clarkson,4,6,42,1,Jump Shot,4,-14,42,True
+Jordan Clarkson,2,11,40,0,Jump Shot,25,-177,189,False
+Jordan Clarkson,4,9,31,0,Jump Shot,27,113,246,False
+Jordan Clarkson,2,10,25,1,Jump Shot,25,-80,239,False
+Jordan Clarkson,3,3,7,0,Jump Shot,25,149,212,False
+Jordan Clarkson,2,9,1,0,Jump Shot,25,-212,139,False
+Jordan Clarkson,2,0,11,0,Jump Shot,25,-203,154,False
+Jordan Clarkson,2,7,26,0,Jump Shot,7,29,74,True
+Jordan Clarkson,3,0,57,1,Jump Shot,22,-223,-4,False
+Jordan Clarkson,1,2,17,0,Jump Shot,22,221,8,False
+Jordan Clarkson,4,8,41,1,Jump Shot,24,72,234,False
+Jordan Clarkson,4,3,24,0,Jump Shot,21,-218,0,False
+Jordan Clarkson,1,7,52,0,Jump Shot,18,147,112,True
+Jordan Clarkson,1,7,46,1,Jump Shot,26,141,221,False
+Jordan Clarkson,1,7,24,0,Jump Shot,25,-159,193,False
+Jordan Clarkson,3,2,15,0,Jump Shot,13,28,132,True
+Jordan Clarkson,1,3,36,1,Jump Shot,16,-105,127,True
+Jordan Clarkson,4,8,25,1,Jump Shot,26,105,239,False
+Jordan Clarkson,3,0,29,1,Jump Shot,21,210,47,True
+Jordan Clarkson,4,7,45,0,Jump Shot,26,84,247,False
+Jordan Clarkson,2,7,5,0,Jump Shot,27,-95,263,False
+Jordan Clarkson,4,6,57,0,Jump Shot,17,143,101,True
+Jordan Clarkson,2,4,18,0,Jump Shot,20,-192,76,True
+Jordan Clarkson,1,3,43,0,Jump Shot,26,-113,240,False
+Jordan Clarkson,2,11,46,1,Jump Shot,24,171,178,False
+Jordan Clarkson,1,3,2,0,Jump Shot,25,111,229,False
+Jordan Clarkson,4,0,45,1,Jump Shot,20,132,163,True
+Jordan Clarkson,4,7,44,1,Jump Shot,24,239,47,False
+Jordan Clarkson,4,10,40,0,Jump Shot,18,-87,164,True
+Jordan Clarkson,2,5,29,0,Jump Shot,26,142,224,False
+Jordan Clarkson,1,3,55,0,Jump Shot,26,9,264,False
+Jordan Clarkson,4,7,26,0,Jump Shot,17,103,139,True
+Jordan Clarkson,4,1,3,1,Jump Shot,27,128,247,False
+Jordan Clarkson,1,0,50,1,Jump Shot,15,91,123,True
+Jordan Clarkson,2,10,25,0,Jump Shot,25,-30,250,False
+Jordan Clarkson,2,11,45,0,Jump Shot,25,22,254,False
+Jordan Clarkson,1,0,28,0,Jump Shot,26,-217,155,False
+Jordan Clarkson,4,3,23,0,Jump Shot,22,-229,7,False
+Jordan Clarkson,2,11,5,1,Jump Shot,26,-131,226,False
+Jordan Clarkson,4,8,51,0,Jump Shot,24,-86,230,False
+Jordan Clarkson,4,11,0,0,Jump Shot,26,142,222,False
+Jordan Clarkson,1,0,51,1,Jump Shot,22,226,20,False
+Jordan Clarkson,4,6,56,0,Jump Shot,24,-212,125,False
+Jordan Clarkson,1,3,14,0,Jump Shot,22,227,0,False
+Jordan Clarkson,2,1,46,0,Jump Shot,24,-16,248,False
+Jordan Clarkson,4,6,7,1,Jump Shot,26,-195,172,False
+Jordan Clarkson,2,2,21,1,Jump Shot,24,-232,85,False
+Jordan Clarkson,4,3,22,1,Jump Shot,25,36,253,False
+Jordan Clarkson,4,1,26,0,Jump Shot,22,-227,-8,False
+Jordan Clarkson,2,5,13,1,Jump Shot,17,110,131,True
+Jordan Clarkson,3,2,27,1,Jump Shot,24,-206,141,False
+Jordan Clarkson,2,11,49,0,Jump Shot,21,3,211,True
+Jordan Clarkson,2,8,50,1,Jump Shot,26,111,236,False
+Jordan Clarkson,1,6,14,0,Jump Shot,25,-146,205,False
+Jordan Clarkson,3,3,47,1,Jump Shot,25,-138,209,False
+Jordan Clarkson,2,10,10,0,Jump Shot,15,-14,159,True
+Jordan Clarkson,3,1,21,0,Jump Shot,19,94,173,True
+Jordan Clarkson,4,4,22,0,Jump Shot,26,163,205,False
+Jordan Clarkson,1,6,5,0,Jump Shot,26,193,188,False
+Jordan Clarkson,4,6,13,0,Jump Shot,12,48,111,True
+Jordan Clarkson,4,7,55,0,Jump Shot,11,21,111,True
+Jordan Clarkson,3,6,11,0,Jump Shot,19,85,173,True
+Jordan Clarkson,1,0,45,0,Jump Shot,25,90,241,False
+Jordan Clarkson,4,9,1,0,Jump Shot,24,-125,210,False
+Jordan Clarkson,1,4,9,0,Jump Shot,24,228,93,False
+Jordan Clarkson,1,3,12,0,Jump Shot,22,-227,13,False
+Jordan Clarkson,2,9,15,1,Jump Shot,22,-226,0,False
+Jordan Clarkson,3,11,2,0,Jump Shot,20,-144,151,True
+Jordan Clarkson,2,8,57,1,Jump Shot,20,-104,176,True
+Jordan Clarkson,4,11,43,0,Jump Shot,24,6,246,False
+Jordan Clarkson,4,11,13,1,Jump Shot,12,-37,121,True
+Jordan Clarkson,2,8,8,0,Jump Shot,25,-165,197,False
+Jordan Clarkson,2,9,41,1,Jump Shot,25,214,130,False
+Jordan Clarkson,3,0,36,1,Jump Shot,11,-106,55,True
+Jordan Clarkson,2,5,36,0,Jump Shot,22,-229,-19,False
+Jordan Clarkson,3,3,11,1,Jump Shot,26,-237,113,False
+Jordan Clarkson,4,10,16,0,Jump Shot,26,155,216,False
+Jordan Clarkson,2,11,48,0,Jump Shot,13,-84,110,True
+Jordan Clarkson,1,1,42,0,Jump Shot,20,-177,96,True
+Jordan Clarkson,1,3,59,0,Jump Shot,14,124,80,True
+Jordan Clarkson,2,11,11,0,Jump Shot,31,-92,306,False
+Jordan Clarkson,2,8,42,1,Jump Shot,23,-230,48,False
+Jordan Clarkson,4,5,56,0,Jump Shot,26,-8,267,False
+Jordan Clarkson,1,1,45,1,Jump Shot,25,149,211,False
+Jordan Clarkson,4,9,20,0,Jump Shot,25,-176,189,False
+Jordan Clarkson,4,6,33,1,Jump Shot,24,152,196,False
+Jordan Clarkson,2,9,35,1,Jump Shot,25,-127,220,False
+Jordan Clarkson,4,8,53,1,Jump Shot,18,140,117,True
+Jordan Clarkson,2,9,38,0,Jump Shot,7,-69,22,True
+Jordan Clarkson,4,8,30,0,Jump Shot,14,116,91,True
+Jordan Clarkson,4,4,22,0,Jump Shot,25,-123,221,False
+Jordan Clarkson,2,9,13,0,Jump Shot,9,46,79,True
+Jordan Clarkson,1,1,15,0,Jump Shot,27,94,255,False
+Jordan Clarkson,1,0,0,0,Jump Shot,23,-231,17,False
+Jordan Clarkson,3,0,57,0,Jump Shot,24,-235,71,False
+Jordan Clarkson,2,5,15,1,Jump Shot,21,-20,212,True
+Jordan Clarkson,4,1,57,1,Jump Shot,22,-228,25,False
+Jordan Clarkson,4,1,27,1,Jump Shot,22,-220,-6,False
+Jordan Clarkson,1,5,14,0,Jump Shot,26,-46,256,False
+Jordan Clarkson,4,7,13,0,Jump Shot,24,-231,93,False
+Jordan Clarkson,2,9,45,1,Jump Shot,23,-232,37,False
+Jordan Clarkson,4,11,36,0,Jump Shot,19,93,170,True
+Jordan Clarkson,2,10,55,0,Jump Shot,25,-67,242,False
+Jordan Clarkson,1,2,39,0,Jump Shot,24,221,113,False
+Jordan Clarkson,2,4,8,1,Jump Shot,5,-6,53,True
+Jordan Clarkson,2,11,32,1,Jump Shot,24,-151,198,False
+Jordan Clarkson,2,2,42,0,Jump Shot,18,107,153,True
+Jordan Clarkson,4,10,14,0,Jump Shot,18,-147,112,True
+Jordan Clarkson,2,8,48,0,Jump Shot,24,-98,226,False
+Jordan Clarkson,2,0,32,0,Jump Shot,30,98,287,False
+Jordan Clarkson,3,0,0,0,Jump Shot,27,-109,253,False
+Jordan Clarkson,1,1,10,0,Jump Shot,22,-228,-6,False
+Jordan Clarkson,4,0,50,0,Jump Shot,26,-229,133,False
+Jordan Clarkson,3,3,19,1,Jump Shot,26,7,260,False
+Jordan Clarkson,2,5,17,1,Jump Shot,21,116,176,True
+Jordan Clarkson,4,11,3,0,Jump Shot,20,-191,65,True
+Jordan Clarkson,4,9,55,1,Jump Shot,16,44,154,True
+Jordan Clarkson,1,0,37,1,Jump Shot,25,-131,222,False
+Jordan Clarkson,1,4,33,0,Jump Shot,3,-18,34,True
+Jordan Clarkson,2,4,45,1,Jump Shot,12,-38,114,True
+Jordan Clarkson,4,10,2,1,Jump Shot,25,-161,193,False
+Jordan Clarkson,2,10,50,1,Jump Shot,7,16,69,True
+Jordan Clarkson,2,11,20,0,Jump Shot,19,94,167,True
+Jordan Clarkson,2,9,41,0,Jump Shot,25,-157,195,False
+Jordan Clarkson,1,1,38,0,Jump Shot,29,-2,298,False
+Jordan Clarkson,4,4,11,0,Jump Shot,26,105,241,False
+Jordan Clarkson,2,10,39,0,Jump Shot,24,142,203,False
+Jordan Clarkson,2,4,2,0,Jump Shot,25,-86,236,False
+Jordan Clarkson,1,0,36,1,Jump Shot,20,114,168,True
+Jordan Clarkson,2,9,36,0,Jump Shot,21,121,178,True
+Jordan Clarkson,2,7,49,0,Jump Shot,23,-230,25,False
+Jordan Clarkson,2,3,47,1,Jump Shot,23,-236,15,False
+Jordan Clarkson,4,2,28,1,Jump Shot,25,-44,251,False
+Jordan Clarkson,4,8,39,0,Jump Shot,27,63,271,False
+Jordan Clarkson,2,7,8,1,Jump Shot,17,-123,120,True
+Jordan Clarkson,4,1,20,0,Jump Shot,28,4,285,False
+Jordan Clarkson,4,9,45,1,Jump Shot,26,-216,157,False
+Jordan Clarkson,2,11,35,0,Layup Shot,1,-13,13,True
+Jordan Clarkson,3,0,26,0,Layup Shot,3,-20,33,True
+Jordan Clarkson,1,1,11,0,Layup Shot,2,17,22,True
+Jordan Clarkson,2,9,38,0,Layup Shot,2,7,19,True
+Jordan Clarkson,2,10,49,1,Layup Shot,0,3,4,True
+Jordan Clarkson,3,3,48,1,Layup Shot,3,-3,33,True
+Jordan Clarkson,2,6,54,0,Layup Shot,3,25,22,True
+Jordan Clarkson,4,7,58,0,Layup Shot,2,6,26,True
+Jordan Clarkson,2,10,12,0,Layup Shot,7,16,70,True
+Jordan Clarkson,1,3,5,0,Layup Shot,5,-51,22,True
+Jordan Clarkson,1,2,58,0,Layup Shot,2,-3,22,True
+Jordan Clarkson,2,10,12,0,Layup Shot,2,-12,27,True
+Jordan Clarkson,4,9,44,0,Layup Shot,1,10,-4,True
+Jordan Clarkson,5,2,48,1,Layup Shot,2,-7,25,True
+Jordan Clarkson,1,0,33,0,Layup Shot,3,-9,32,True
+Jordan Clarkson,4,5,23,0,Layup Shot,4,-31,26,True
+Jordan Clarkson,1,1,28,1,Layup Shot,2,7,22,True
+Jordan Clarkson,3,8,42,0,Layup Shot,2,-18,15,True
+Jordan Clarkson,1,4,4,0,Layup Shot,3,33,-7,True
+Jordan Clarkson,2,11,35,1,Layup Shot,2,-13,20,True
+Jordan Clarkson,2,0,29,0,Layup Shot,1,9,16,True
+Jordan Clarkson,2,9,35,1,Layup Shot,2,18,13,True
+Jordan Clarkson,1,0,29,0,Layup Shot,2,0,26,True
+Jordan Clarkson,1,2,3,0,Layup Shot,2,-23,18,True
+Jordan Clarkson,1,0,46,0,Layup Shot,0,7,6,True
+Jordan Clarkson,2,8,11,1,Layup Shot,3,8,31,True
+Jordan Clarkson,2,4,59,1,Layup Shot,2,16,16,True
+Jordan Clarkson,4,4,42,0,Layup Shot,0,0,1,True
+Jordan Clarkson,2,6,0,1,Layup Shot,4,27,30,True
+Jordan Clarkson,2,8,21,0,Layup Shot,4,-18,41,True
+Jordan Clarkson,4,9,26,1,Layup Shot,0,3,8,True
+Jordan Clarkson,4,8,26,0,Layup Shot,3,25,20,True
+Jordan Clarkson,4,11,17,0,Pullup Jump shot,17,128,117,True
+Jordan Clarkson,2,10,56,0,Pullup Jump shot,15,54,147,True
+Jordan Clarkson,2,3,59,1,Pullup Jump shot,19,127,146,True
+Jordan Clarkson,4,11,34,1,Pullup Jump shot,16,96,139,True
+Jordan Clarkson,4,10,25,1,Pullup Jump shot,17,116,136,True
+Jordan Clarkson,3,2,17,1,Pullup Jump shot,19,-147,128,True
+Jordan Clarkson,2,4,42,1,Pullup Jump shot,17,-118,130,True
+Jordan Clarkson,2,6,52,1,Pullup Jump shot,15,135,70,True
+Jordan Clarkson,1,2,44,0,Pullup Jump shot,17,45,169,True
+Jordan Clarkson,1,1,4,1,Pullup Jump shot,4,-3,47,True
+Jordan Clarkson,2,10,15,1,Pullup Jump shot,13,-56,128,True
+Jordan Clarkson,2,10,15,0,Pullup Jump shot,16,-138,84,True
+Jordan Clarkson,2,0,5,1,Pullup Jump shot,16,73,148,True
+Jordan Clarkson,1,2,31,1,Pullup Jump shot,17,108,141,True
+Jordan Clarkson,4,5,46,0,Pullup Jump shot,25,93,237,False
+Jordan Clarkson,2,7,27,0,Pullup Jump shot,16,-96,131,True
+Jordan Clarkson,4,2,16,0,Pullup Jump shot,25,103,233,False
+Jordan Clarkson,2,5,0,1,Pullup Jump shot,12,23,120,True
+Jordan Clarkson,4,1,53,1,Pullup Jump shot,27,131,237,False
+Jordan Clarkson,4,9,1,1,Pullup Jump shot,16,-62,151,True
+Jordan Clarkson,2,6,45,1,Pullup Jump shot,17,-84,155,True
+Jordan Clarkson,1,2,4,1,Pullup Jump shot,19,95,170,True
+Jordan Clarkson,1,1,8,0,Pullup Jump shot,21,-12,210,True
+Jordan Clarkson,4,9,18,0,Pullup Jump shot,18,109,147,True
+Jordan Clarkson,3,1,2,0,Pullup Jump shot,14,58,132,True
+Jordan Clarkson,2,8,54,1,Pullup Jump shot,18,35,178,True
+Jordan Clarkson,4,7,56,0,Pullup Jump shot,18,59,172,True
+Jordan Clarkson,4,11,49,0,Pullup Jump shot,19,103,164,True
+Jordan Clarkson,4,5,33,0,Pullup Jump shot,20,91,183,True
+Jordan Clarkson,2,9,8,1,Pullup Jump shot,13,-87,98,True
+Jordan Clarkson,1,1,4,1,Pullup Jump shot,18,125,134,True
+Jordan Clarkson,2,10,46,1,Pullup Jump shot,25,-177,188,False
+Jordan Clarkson,4,5,2,0,Pullup Jump shot,14,60,129,True
+Jordan Clarkson,1,0,2,0,Pullup Jump shot,18,-55,179,True
+Jordan Clarkson,2,2,43,1,Pullup Jump shot,15,-113,103,True
+Jordan Clarkson,1,3,19,1,Pullup Jump shot,17,-114,134,True
+Jordan Clarkson,4,10,32,0,Pullup Jump shot,25,123,225,False
+Jordan Clarkson,2,10,34,1,Pullup Jump shot,21,2,217,True
+Jordan Clarkson,1,1,47,0,Pullup Jump shot,15,155,11,True
+Jordan Clarkson,2,0,7,0,Pullup Jump shot,10,85,56,True
+Jordan Clarkson,1,1,47,1,Pullup Jump shot,12,125,21,True
+Jordan Clarkson,4,0,59,1,Pullup Jump shot,25,-60,251,False
+Jordan Clarkson,2,4,52,0,Pullup Jump shot,8,-41,77,True
+Jordan Clarkson,1,9,8,0,Pullup Jump shot,15,95,121,True
+Jordan Clarkson,3,9,24,1,Pullup Jump shot,17,-65,167,True
+Jordan Clarkson,1,8,31,0,Pullup Jump shot,16,62,148,True
+Jordan Clarkson,1,4,57,1,Pullup Jump shot,16,-79,146,True
+Jordan Clarkson,1,4,23,0,Pullup Jump shot,13,-2,132,True
+Jordan Clarkson,2,0,30,1,Pullup Jump shot,15,13,156,True
+Jordan Clarkson,2,8,3,0,Pullup Jump shot,21,9,212,True
+Jordan Clarkson,2,10,1,1,Pullup Jump shot,18,105,151,True
+Jordan Clarkson,4,1,50,0,Pullup Jump shot,26,127,235,False
+Jordan Clarkson,1,2,10,1,Pullup Jump shot,17,-54,162,True
+Jordan Clarkson,1,1,43,0,Pullup Jump shot,20,105,178,True
+Jordan Clarkson,3,0,53,0,Pullup Jump shot,19,41,186,True
+Jordan Clarkson,1,0,6,0,Pullup Jump shot,16,89,137,True
+Jordan Clarkson,4,0,37,0,Pullup Jump shot,24,-2,249,False
+Jordan Clarkson,2,7,12,0,Pullup Jump shot,17,142,96,True
+Jordan Clarkson,2,11,21,0,Pullup Jump shot,16,-100,125,True
+Jordan Clarkson,1,2,45,0,Pullup Jump shot,16,-26,159,True
+Jordan Clarkson,4,9,17,1,Pullup Jump shot,26,107,240,False
+Jordan Clarkson,1,0,49,1,Pullup Jump shot,16,23,167,True
+Jordan Clarkson,3,0,8,1,Pullup Jump shot,12,-53,109,True
+Jordan Clarkson,4,10,0,1,Pullup Jump shot,18,81,169,True
+Jordan Clarkson,4,7,6,0,Pullup Jump shot,10,37,96,True
+Jordan Clarkson,4,11,26,1,Pullup Jump shot,24,49,242,False
+Jordan Clarkson,2,11,1,0,Pullup Jump shot,14,40,141,True
+Jordan Clarkson,4,10,52,0,Pullup Jump shot,8,53,70,True
+Jordan Clarkson,2,10,12,1,Pullup Jump shot,16,95,129,True
+Jordan Clarkson,1,0,51,0,Pullup Jump shot,16,70,152,True
+Jordan Clarkson,2,0,34,0,Pullup Jump shot,18,-47,183,True
+Jordan Clarkson,4,10,19,0,Pullup Jump shot,10,63,83,True
+Jordan Clarkson,3,2,46,1,Pullup Jump shot,19,-111,155,True
+Jordan Clarkson,4,11,47,0,Pullup Jump shot,17,77,152,True
+Jordan Clarkson,2,9,5,0,Pullup Jump shot,18,-165,89,True
+Jordan Clarkson,2,9,21,1,Pullup Jump shot,16,-105,132,True
+Jordan Clarkson,3,2,10,1,Pullup Jump shot,25,-90,238,False
+Jordan Clarkson,2,2,10,0,Pullup Jump shot,24,119,213,False
+Jordan Clarkson,4,11,50,1,Pullup Jump shot,19,109,157,True
+Jordan Clarkson,1,2,20,0,Pullup Jump shot,16,-107,120,True
+Jordan Clarkson,4,1,23,0,Pullup Jump shot,23,232,60,False
+Jordan Clarkson,3,1,29,0,Pullup Jump shot,17,86,153,True
+Jordan Clarkson,2,11,18,1,Pullup Jump shot,15,148,58,True
+Jordan Clarkson,4,11,44,1,Pullup Jump shot,17,64,168,True
+Jordan Clarkson,4,9,51,1,Pullup Jump shot,16,100,133,True
+Jordan Clarkson,3,2,40,0,Pullup Jump shot,17,109,132,True
+Jordan Clarkson,2,6,46,1,Pullup Jump shot,15,-37,148,True
+Jordan Clarkson,2,9,0,0,Pullup Jump shot,18,-29,178,True
+Jordan Clarkson,4,11,15,1,Pullup Jump shot,18,123,144,True
+Jordan Clarkson,2,9,1,1,Pullup Jump shot,18,-84,162,True
+Jordan Clarkson,2,4,25,1,Pullup Jump shot,19,104,167,True
+Jordan Clarkson,3,2,12,0,Pullup Jump shot,10,-103,-8,True
+Jordan Clarkson,4,8,28,0,Pullup Jump shot,25,-144,205,False
+Jordan Clarkson,4,8,1,0,Pullup Jump shot,18,137,124,True
+Jordan Clarkson,1,0,35,0,Pullup Jump shot,13,-29,130,True
+Jordan Clarkson,3,3,37,1,Pullup Jump shot,14,43,141,True
+Jordan Clarkson,2,9,52,0,Pullup Jump shot,19,22,193,True
+Jordan Clarkson,1,0,1,0,Pullup Jump shot,17,79,151,True
+Jordan Clarkson,2,10,50,0,Pullup Jump shot,8,-55,62,True
+Jordan Clarkson,2,9,14,0,Pullup Jump shot,13,82,104,True
+Jordan Clarkson,2,10,9,0,Pullup Jump shot,4,-30,36,True
+Jordan Clarkson,2,11,29,1,Pullup Jump shot,10,-71,75,True
+Jordan Clarkson,1,0,7,1,Pullup Jump shot,11,-98,64,True
+Jordan Clarkson,2,10,11,0,Pullup Jump shot,18,75,169,True
+Jordan Clarkson,4,9,58,0,Pullup Jump shot,24,58,240,False
+Jordan Clarkson,1,3,43,0,Pullup Jump shot,19,115,161,True
+Jordan Clarkson,2,11,13,0,Pullup Jump shot,19,93,168,True
+Jordan Clarkson,2,6,28,0,Pullup Jump shot,11,69,90,True
+Jordan Clarkson,4,11,33,1,Pullup Jump shot,16,111,128,True
+Jordan Clarkson,1,1,14,0,Pullup Jump shot,17,-93,143,True
+Jordan Clarkson,4,4,50,0,Pullup Jump shot,23,222,73,False
+Jordan Clarkson,4,9,4,1,Pullup Jump shot,26,-112,243,False
+Jordan Clarkson,4,7,46,1,Putback Layup Shot,0,-8,5,True
+Jordan Clarkson,2,10,38,1,Putback Layup Shot,1,-11,10,True
+Jordan Clarkson,2,7,27,0,Reverse Layup Shot,1,-10,15,True
+Jordan Clarkson,2,7,24,1,Reverse Layup Shot,1,-5,16,True
+Jordan Clarkson,1,4,29,1,Reverse Layup Shot,2,-13,20,True
+Jordan Clarkson,4,11,22,0,Reverse Layup Shot,1,-5,11,True
+Jordan Clarkson,1,7,29,0,Reverse Layup Shot,2,-14,24,True
+Jordan Clarkson,2,11,15,1,Running Dunk Shot,1,-9,6,True
+Jordan Clarkson,2,2,18,1,Running Dunk Shot,0,3,3,True
+Jordan Clarkson,4,7,45,1,Running Dunk Shot,1,14,-1,True
+Jordan Clarkson,1,2,32,1,Running Dunk Shot,1,0,16,True
+Jordan Clarkson,2,3,5,1,Running Dunk Shot,2,18,15,True
+Jordan Clarkson,2,1,33,1,Running Finger Roll Layup Shot,2,13,20,True
+Jordan Clarkson,2,10,18,1,Running Finger Roll Layup Shot,1,8,13,True
+Jordan Clarkson,3,1,10,1,Running Finger Roll Layup Shot,2,-6,26,True
+Jordan Clarkson,2,10,21,1,Running Jump Shot,10,44,99,True
+Jordan Clarkson,3,0,0,0,Running Jump Shot,20,81,189,True
+Jordan Clarkson,4,4,42,1,Running Jump Shot,1,13,10,True
+Jordan Clarkson,3,2,26,1,Running Jump Shot,22,-227,-6,False
+Jordan Clarkson,4,8,8,1,Running Jump Shot,6,8,62,True
+Jordan Clarkson,3,2,22,0,Running Jump Shot,24,-180,163,False
+Jordan Clarkson,3,2,31,0,Running Jump Shot,25,-174,184,False
+Jordan Clarkson,2,10,49,1,Running Jump Shot,22,-226,-4,False
+Jordan Clarkson,4,11,5,1,Running Layup Shot,2,24,13,True
+Jordan Clarkson,3,3,44,1,Running Layup Shot,2,2,21,True
+Jordan Clarkson,2,5,33,1,Running Layup Shot,1,-14,10,True
+Jordan Clarkson,1,0,1,1,Running Layup Shot,1,11,6,True
+Jordan Clarkson,4,7,15,0,Running Layup Shot,1,-14,6,True
+Jordan Clarkson,1,1,28,1,Running Layup Shot,1,0,18,True
+Jordan Clarkson,1,0,28,1,Running Layup Shot,2,7,22,True
+Jordan Clarkson,3,1,31,1,Running Layup Shot,1,-4,16,True
+Jordan Clarkson,4,4,1,0,Running Layup Shot,2,-14,26,True
+Jordan Clarkson,4,8,53,1,Running Layup Shot,0,0,9,True
+Jordan Clarkson,4,10,25,1,Running Layup Shot,1,2,16,True
+Jordan Clarkson,2,8,53,1,Running Layup Shot,0,0,5,True
+Jordan Clarkson,3,0,24,1,Running Layup Shot,2,3,25,True
+Jordan Clarkson,2,10,12,1,Running Layup Shot,2,-5,20,True
+Jordan Clarkson,2,10,12,1,Running Layup Shot,1,6,16,True
+Jordan Clarkson,4,9,37,1,Running Layup Shot,2,-8,22,True
+Jordan Clarkson,4,8,53,1,Running Layup Shot,1,9,13,True
+Jordan Clarkson,1,3,13,1,Running Layup Shot,1,-7,13,True
+Jordan Clarkson,4,1,31,1,Running Layup Shot,0,-8,0,True
+Jordan Clarkson,4,8,52,1,Running Layup Shot,2,17,15,True
+Jordan Clarkson,2,9,42,1,Running Layup Shot,1,-3,19,True
+Jordan Clarkson,2,8,46,1,Running Layup Shot,1,2,15,True
+Jordan Clarkson,2,6,6,1,Running Pull-Up Jump Shot,25,165,190,False
+Jordan Clarkson,3,3,51,0,Running Pull-Up Jump Shot,15,87,128,True
+Jordan Clarkson,3,0,0,0,Running Pull-Up Jump Shot,10,92,44,True
+Jordan Clarkson,4,3,49,0,Running Pull-Up Jump Shot,25,112,233,False
+Jordan Clarkson,2,4,59,1,Running Pull-Up Jump Shot,19,147,127,True
+Jordan Clarkson,1,3,0,1,Running Reverse Layup Shot,2,7,20,True
+Jordan Clarkson,1,3,8,0,Step Back Jump shot,24,-51,243,False
+Jordan Clarkson,4,11,16,1,Step Back Jump shot,22,-223,1,False
+Jordan Clarkson,1,3,45,1,Step Back Jump shot,18,-8,184,True
+Jordan Clarkson,2,11,8,1,Step Back Jump shot,24,230,78,False
+Jordan Clarkson,2,0,8,1,Step Back Jump shot,14,145,23,True
+Jordan Clarkson,5,2,0,1,Step Back Jump shot,13,-2,132,True
+Jordan Clarkson,3,0,34,0,Step Back Jump shot,22,-184,130,True
+Jordan Clarkson,1,0,44,0,Step Back Jump shot,17,-134,116,True
+Jordan Clarkson,2,0,3,1,Step Back Jump shot,26,-124,230,False
+Jordan Clarkson,4,11,0,0,Step Back Jump shot,10,87,64,True
+Jordan Clarkson,1,3,14,0,Step Back Jump shot,18,79,171,True
+Jordan Clarkson,2,2,34,0,Step Back Jump shot,17,-92,144,True
+Jordan Clarkson,2,6,43,1,Step Back Jump shot,15,-134,69,True
+Jordan Clarkson,2,5,4,0,Step Back Jump shot,11,40,111,True
+Jordan Clarkson,3,2,40,1,Step Back Jump shot,25,213,141,False
+Jordan Clarkson,2,4,38,0,Step Back Jump shot,17,84,157,True
+Jordan Clarkson,3,0,0,0,Step Back Jump shot,23,-231,31,False
+Jordan Clarkson,4,10,15,1,Step Back Jump shot,21,47,206,True
+Jordan Clarkson,1,1,57,1,Step Back Jump shot,13,15,134,True
+Jordan Clarkson,3,0,37,1,Step Back Jump shot,23,232,61,False
+Jordan Clarkson,4,3,0,0,Step Back Jump shot,14,-116,84,True
+Jordan Clarkson,4,11,21,0,Step Back Jump shot,18,141,125,True
+Jordan Clarkson,1,3,1,0,Step Back Jump shot,22,220,-11,False
+Jordan Clarkson,4,8,42,0,Step Back Jump shot,24,-188,164,False
+Jordan Clarkson,1,1,46,0,Step Back Jump shot,17,132,113,True
+Jordan Clarkson,2,10,27,0,Step Back Jump shot,19,-98,170,True
+Jordan Clarkson,3,4,9,1,Step Back Jump shot,25,-101,232,False
+Jordan Clarkson,2,3,21,1,Step Back Jump shot,20,-120,167,True
+Jordan Clarkson,5,0,28,1,Step Back Jump shot,26,4,264,False
+Jordan Clarkson,2,8,56,0,Step Back Jump shot,25,-11,256,False
+Jordan Clarkson,3,0,2,0,Step Back Jump shot,26,-130,228,False
+Jordan Clarkson,3,0,24,1,Tip Layup Shot,0,0,-6,True
+Jordan Clarkson,2,3,51,1,Tip Layup Shot,0,0,-6,True
+Jordan Clarkson,3,2,51,1,Tip Layup Shot,0,0,-6,True
+Jordan Clarkson,4,7,6,0,Tip Layup Shot,1,9,12,True
+Jordan Clarkson,2,4,47,1,Tip Layup Shot,0,0,-6,True
+Jordan Clarkson,4,0,4,1,Tip Layup Shot,0,0,-6,True
+Jordan Clarkson,4,4,17,1,Tip Layup Shot,0,0,-6,True
+Jordan Clarkson,1,0,27,0,Tip Layup Shot,0,0,-6,True
+Jordan Clarkson,4,5,58,0,Tip Layup Shot,0,0,-6,True
+Jordan Clarkson,1,4,1,0,Tip Layup Shot,0,0,-6,True
+Jordan Clarkson,1,4,1,1,Tip Layup Shot,0,0,-6,True
+Jordan Clarkson,1,1,34,0,Tip Layup Shot,0,0,-6,True
+Jordan Clarkson,4,3,15,0,Tip Layup Shot,0,4,2,True
+Jordan Clarkson,2,9,30,0,Tip Layup Shot,0,0,-6,True
+Jordan Clarkson,3,0,26,0,Tip Layup Shot,0,0,-6,True
+Jordan Clarkson,3,0,48,1,Turnaround Fadeaway Bank Jump Shot,4,44,22,True
+Jordan Clarkson,3,2,31,1,Turnaround Fadeaway Bank Jump Shot,10,62,88,True
+Jordan Clarkson,3,1,40,0,Turnaround Fadeaway shot,10,-108,10,True
+Jordan Clarkson,2,11,19,1,Turnaround Fadeaway shot,15,-134,78,True
+Jordan Clarkson,2,5,26,0,Turnaround Fadeaway shot,16,166,10,True
+Jordan Clarkson,4,0,0,0,Turnaround Fadeaway shot,23,-226,43,False
+Jordan Clarkson,1,2,50,1,Turnaround Hook Shot,5,2,52,True
+Jordan Clarkson,2,9,24,0,Turnaround Hook Shot,10,-98,32,True
+Jordan Clarkson,3,1,9,1,Turnaround Jump Shot,11,-21,111,True
+Jordan Clarkson,4,5,1,0,Turnaround Jump Shot,20,-143,148,True
+Jordan Clarkson,4,11,29,1,Turnaround Jump Shot,14,110,101,True
+Jordan Clarkson,3,2,45,0,Turnaround Jump Shot,16,-73,152,True
+Jordan Clarkson,4,8,37,1,Turnaround Jump Shot,10,-92,53,True
+Jordan Clarkson,4,11,20,0,Turnaround Jump Shot,15,-147,46,True
+Jordan Clarkson,2,8,34,0,Turnaround Jump Shot,12,125,8,True
+Jordan Clarkson,1,2,51,0,Turnaround Jump Shot,9,-22,92,True
+Jordan Clarkson,2,5,54,1,Turnaround Jump Shot,13,93,102,True
+Jordan Clarkson,4,2,4,0,Turnaround Jump Shot,12,-117,32,True

@@ -1,0 +1,518 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Evan Turner,2,1,49,1,Cutting Dunk Shot,1,8,18,True
+Evan Turner,2,10,22,1,Cutting Dunk Shot,0,0,-7,True
+Evan Turner,1,9,38,0,Cutting Layup Shot,0,-8,4,True
+Evan Turner,2,0,47,1,Cutting Layup Shot,1,-12,10,True
+Evan Turner,3,7,30,1,Cutting Layup Shot,1,7,8,True
+Evan Turner,1,4,9,1,Cutting Layup Shot,1,-1,10,True
+Evan Turner,1,7,37,1,Cutting Layup Shot,0,2,2,True
+Evan Turner,3,3,36,1,Cutting Layup Shot,0,-2,8,True
+Evan Turner,1,9,24,1,Driving Dunk Shot,1,4,18,True
+Evan Turner,4,5,40,1,Driving Finger Roll Layup Shot,3,2,35,True
+Evan Turner,2,8,54,1,Driving Finger Roll Layup Shot,6,-62,28,True
+Evan Turner,3,7,33,0,Driving Finger Roll Layup Shot,2,6,20,True
+Evan Turner,4,2,46,1,Driving Finger Roll Layup Shot,1,3,19,True
+Evan Turner,1,0,21,1,Driving Finger Roll Layup Shot,1,-9,8,True
+Evan Turner,2,10,0,1,Driving Finger Roll Layup Shot,1,-12,7,True
+Evan Turner,4,8,27,0,Driving Floating Bank Jump Shot,3,-19,25,True
+Evan Turner,2,6,34,1,Driving Floating Bank Jump Shot,12,100,71,True
+Evan Turner,4,8,52,0,Driving Floating Jump Shot,11,71,93,True
+Evan Turner,1,8,22,0,Driving Floating Jump Shot,6,55,28,True
+Evan Turner,3,6,0,0,Driving Floating Jump Shot,15,13,150,True
+Evan Turner,4,0,24,0,Driving Floating Jump Shot,8,-28,85,True
+Evan Turner,1,1,31,0,Driving Floating Jump Shot,4,15,38,True
+Evan Turner,3,5,38,0,Driving Floating Jump Shot,4,2,41,True
+Evan Turner,4,4,42,0,Driving Floating Jump Shot,3,16,33,True
+Evan Turner,1,2,18,0,Driving Floating Jump Shot,4,41,13,True
+Evan Turner,3,6,47,1,Driving Floating Jump Shot,6,5,63,True
+Evan Turner,4,5,39,1,Driving Floating Jump Shot,17,84,148,True
+Evan Turner,2,11,5,0,Driving Floating Jump Shot,6,37,59,True
+Evan Turner,3,0,3,1,Driving Floating Jump Shot,4,3,41,True
+Evan Turner,2,5,19,1,Driving Hook Shot,1,3,15,True
+Evan Turner,1,0,32,0,Driving Hook Shot,5,42,32,True
+Evan Turner,3,9,51,0,Driving Hook Shot,6,6,65,True
+Evan Turner,1,5,39,1,Driving Layup Shot,0,1,0,True
+Evan Turner,4,5,2,1,Driving Layup Shot,0,-5,1,True
+Evan Turner,4,4,7,1,Driving Layup Shot,6,68,16,True
+Evan Turner,2,8,20,0,Driving Layup Shot,3,-35,7,True
+Evan Turner,1,9,26,0,Driving Layup Shot,3,38,10,True
+Evan Turner,3,0,29,0,Driving Layup Shot,3,25,31,True
+Evan Turner,2,10,38,0,Driving Layup Shot,2,23,19,True
+Evan Turner,4,1,19,0,Driving Layup Shot,2,17,17,True
+Evan Turner,2,11,1,1,Driving Layup Shot,1,-8,14,True
+Evan Turner,3,8,49,1,Driving Layup Shot,1,-3,12,True
+Evan Turner,2,11,13,0,Driving Layup Shot,6,-47,43,True
+Evan Turner,4,9,33,0,Driving Layup Shot,1,5,13,True
+Evan Turner,2,7,28,0,Driving Layup Shot,0,7,4,True
+Evan Turner,3,10,7,1,Driving Layup Shot,2,11,22,True
+Evan Turner,2,6,38,0,Driving Layup Shot,3,27,18,True
+Evan Turner,3,0,0,0,Driving Layup Shot,2,-8,27,True
+Evan Turner,2,7,16,1,Driving Layup Shot,1,-11,0,True
+Evan Turner,2,7,45,1,Driving Layup Shot,2,-22,10,True
+Evan Turner,3,1,23,0,Driving Layup Shot,2,-21,9,True
+Evan Turner,1,3,19,1,Driving Reverse Dunk Shot,0,-6,7,True
+Evan Turner,1,5,38,1,Driving Reverse Layup Shot,1,3,10,True
+Evan Turner,3,9,16,0,Driving Reverse Layup Shot,1,-16,6,True
+Evan Turner,4,10,43,1,Driving Reverse Layup Shot,1,-18,0,True
+Evan Turner,1,10,16,1,Dunk Shot,2,8,20,True
+Evan Turner,4,7,41,1,Dunk Shot,2,-21,15,True
+Evan Turner,1,9,58,1,Dunk Shot,0,3,9,True
+Evan Turner,1,4,32,0,Fadeaway Jump Shot,12,111,64,True
+Evan Turner,4,5,55,0,Fadeaway Jump Shot,17,97,143,True
+Evan Turner,1,9,3,0,Fadeaway Jump Shot,9,33,94,True
+Evan Turner,1,0,0,1,Fadeaway Jump Shot,11,-105,41,True
+Evan Turner,3,5,8,0,Fadeaway Jump Shot,6,-64,20,True
+Evan Turner,4,8,27,1,Fadeaway Jump Shot,10,-102,1,True
+Evan Turner,2,6,9,1,Fadeaway Jump Shot,16,-79,149,True
+Evan Turner,1,1,19,0,Fadeaway Jump Shot,15,-42,152,True
+Evan Turner,3,1,44,1,Fadeaway Jump Shot,13,136,-4,True
+Evan Turner,4,5,49,0,Fadeaway Jump Shot,7,77,20,True
+Evan Turner,1,3,41,1,Fadeaway Jump Shot,16,157,31,True
+Evan Turner,2,9,19,1,Fadeaway Jump Shot,10,-87,58,True
+Evan Turner,1,2,18,0,Fadeaway Jump Shot,18,73,173,True
+Evan Turner,2,1,13,0,Fadeaway Jump Shot,5,49,25,True
+Evan Turner,2,6,55,1,Fadeaway Jump Shot,14,-136,37,True
+Evan Turner,4,9,32,0,Fadeaway Jump Shot,8,82,1,True
+Evan Turner,4,8,46,0,Fadeaway Jump Shot,8,77,38,True
+Evan Turner,2,6,49,0,Fadeaway Jump Shot,7,6,79,True
+Evan Turner,1,8,33,1,Fadeaway Jump Shot,11,87,71,True
+Evan Turner,2,4,29,0,Fadeaway Jump Shot,6,-65,-2,True
+Evan Turner,2,2,10,1,Fadeaway Jump Shot,10,101,1,True
+Evan Turner,4,5,2,1,Fadeaway Jump Shot,14,-148,20,True
+Evan Turner,3,2,48,0,Fadeaway Jump Shot,11,4,113,True
+Evan Turner,1,5,38,0,Fadeaway Jump Shot,6,59,13,True
+Evan Turner,1,9,37,1,Fadeaway Jump Shot,8,89,11,True
+Evan Turner,2,7,37,0,Fadeaway Jump Shot,21,-94,195,True
+Evan Turner,1,6,42,1,Finger Roll Layup Shot,3,-22,21,True
+Evan Turner,4,9,3,1,Floating Jump shot,10,96,32,True
+Evan Turner,2,0,3,0,Floating Jump shot,14,141,5,True
+Evan Turner,1,4,58,1,Floating Jump shot,6,-66,18,True
+Evan Turner,3,3,50,1,Floating Jump shot,6,9,60,True
+Evan Turner,1,2,55,1,Floating Jump shot,15,7,155,True
+Evan Turner,3,3,0,1,Floating Jump shot,3,2,30,True
+Evan Turner,1,10,44,1,Floating Jump shot,6,36,59,True
+Evan Turner,2,8,5,0,Floating Jump shot,1,10,15,True
+Evan Turner,1,5,5,1,Jump Bank Shot,5,-8,50,True
+Evan Turner,4,0,18,1,Jump Bank Shot,1,6,9,True
+Evan Turner,3,5,40,0,Jump Bank Shot,16,161,42,True
+Evan Turner,3,11,5,0,Jump Shot,25,136,219,False
+Evan Turner,3,9,45,0,Jump Shot,18,22,180,True
+Evan Turner,2,4,43,0,Jump Shot,20,6,206,True
+Evan Turner,3,8,36,0,Jump Shot,24,228,94,False
+Evan Turner,3,0,36,0,Jump Shot,23,230,-6,False
+Evan Turner,3,3,18,0,Jump Shot,19,108,159,True
+Evan Turner,3,2,5,0,Jump Shot,18,-185,3,True
+Evan Turner,4,11,23,0,Jump Shot,7,58,42,True
+Evan Turner,4,10,49,0,Jump Shot,18,-8,188,True
+Evan Turner,2,10,55,1,Jump Shot,14,52,136,True
+Evan Turner,2,3,46,0,Jump Shot,24,204,128,False
+Evan Turner,2,4,55,0,Jump Shot,22,-228,-4,False
+Evan Turner,4,1,24,0,Jump Shot,23,231,33,False
+Evan Turner,3,7,43,1,Jump Shot,25,224,119,False
+Evan Turner,3,11,30,1,Jump Shot,25,20,255,False
+Evan Turner,1,11,16,0,Jump Shot,17,-58,164,True
+Evan Turner,4,8,53,0,Jump Shot,24,-169,178,False
+Evan Turner,4,4,3,0,Jump Shot,25,225,117,False
+Evan Turner,2,0,44,1,Jump Shot,24,237,48,False
+Evan Turner,3,11,33,1,Jump Shot,22,-228,27,False
+Evan Turner,4,1,49,1,Jump Shot,24,232,84,False
+Evan Turner,3,5,17,0,Jump Shot,22,226,31,False
+Evan Turner,3,6,46,1,Jump Shot,24,-111,221,False
+Evan Turner,1,5,35,0,Jump Shot,24,-1,246,False
+Evan Turner,3,9,43,0,Jump Shot,23,230,47,False
+Evan Turner,3,9,53,0,Jump Shot,22,225,13,False
+Evan Turner,2,5,19,1,Jump Shot,23,228,63,False
+Evan Turner,2,8,30,0,Jump Shot,26,-116,235,False
+Evan Turner,4,6,10,0,Jump Shot,24,76,236,False
+Evan Turner,3,10,11,0,Jump Shot,21,102,188,True
+Evan Turner,1,10,53,0,Jump Shot,24,-243,-16,False
+Evan Turner,2,6,34,1,Jump Shot,28,-52,278,False
+Evan Turner,2,3,28,0,Jump Shot,12,8,123,True
+Evan Turner,2,8,4,0,Jump Shot,26,167,206,False
+Evan Turner,4,2,18,1,Jump Shot,26,193,184,False
+Evan Turner,2,0,34,0,Jump Shot,16,161,42,True
+Evan Turner,1,3,46,1,Jump Shot,23,227,70,False
+Evan Turner,2,5,10,1,Jump Shot,14,-1,149,True
+Evan Turner,1,4,7,0,Jump Shot,25,110,225,False
+Evan Turner,1,3,51,0,Jump Shot,22,-221,17,False
+Evan Turner,2,6,33,0,Jump Shot,23,230,58,False
+Evan Turner,4,3,28,0,Jump Shot,23,225,73,False
+Evan Turner,3,0,26,0,Jump Shot,23,229,29,False
+Evan Turner,1,1,9,0,Jump Shot,24,221,94,False
+Evan Turner,3,0,15,0,Jump Shot,28,67,274,False
+Evan Turner,1,1,49,1,Jump Shot,27,119,245,False
+Evan Turner,2,8,42,0,Jump Shot,24,-243,6,False
+Evan Turner,2,10,15,0,Jump Shot,24,-6,249,False
+Evan Turner,1,8,22,1,Jump Shot,23,227,42,False
+Evan Turner,2,8,15,0,Jump Shot,23,-231,-15,False
+Evan Turner,3,1,55,0,Jump Shot,25,147,203,False
+Evan Turner,3,10,12,1,Jump Shot,25,-109,229,False
+Evan Turner,2,4,19,1,Jump Shot,23,228,41,False
+Evan Turner,4,9,16,0,Jump Shot,25,114,229,False
+Evan Turner,2,6,3,0,Jump Shot,17,-174,-11,True
+Evan Turner,2,9,25,0,Jump Shot,22,-225,34,False
+Evan Turner,1,2,59,1,Jump Shot,13,-74,117,True
+Evan Turner,2,10,6,1,Jump Shot,17,-118,132,True
+Evan Turner,4,4,27,0,Jump Shot,22,-222,-6,False
+Evan Turner,1,0,59,0,Jump Shot,23,231,40,False
+Evan Turner,1,3,25,1,Jump Shot,24,195,155,False
+Evan Turner,3,4,5,1,Jump Shot,22,-222,9,False
+Evan Turner,1,10,23,0,Jump Shot,22,226,23,False
+Evan Turner,3,4,8,0,Jump Shot,22,-225,1,False
+Evan Turner,1,10,6,0,Jump Shot,26,-181,189,False
+Evan Turner,3,7,28,0,Jump Shot,23,231,11,False
+Evan Turner,4,11,12,0,Jump Shot,25,-120,226,False
+Evan Turner,1,0,47,0,Jump Shot,24,152,186,False
+Evan Turner,4,5,47,0,Jump Shot,13,122,65,True
+Evan Turner,1,10,55,0,Jump Shot,13,136,19,True
+Evan Turner,1,9,56,1,Jump Shot,24,-233,75,False
+Evan Turner,1,6,29,0,Jump Shot,13,36,129,True
+Evan Turner,3,8,19,0,Jump Shot,24,-237,38,False
+Evan Turner,4,3,50,0,Jump Shot,18,-186,10,True
+Evan Turner,1,2,8,0,Jump Shot,24,9,247,False
+Evan Turner,3,9,41,1,Jump Shot,24,231,67,False
+Evan Turner,1,3,43,1,Jump Shot,24,44,244,False
+Evan Turner,2,4,26,1,Jump Shot,22,-228,10,False
+Evan Turner,2,2,0,0,Jump Shot,22,220,62,False
+Evan Turner,3,10,6,0,Jump Shot,25,185,176,False
+Evan Turner,2,2,22,0,Jump Shot,24,-24,246,False
+Evan Turner,3,3,58,1,Jump Shot,24,190,153,False
+Evan Turner,1,9,37,1,Jump Shot,22,-226,31,False
+Evan Turner,2,8,6,1,Jump Shot,24,-44,246,False
+Evan Turner,2,3,59,0,Jump Shot,22,228,0,False
+Evan Turner,1,9,21,0,Jump Shot,22,-226,22,False
+Evan Turner,3,11,14,0,Jump Shot,26,0,266,False
+Evan Turner,1,5,52,0,Jump Shot,26,182,188,False
+Evan Turner,1,7,39,1,Jump Shot,16,-3,167,True
+Evan Turner,2,6,25,0,Jump Shot,24,-200,145,False
+Evan Turner,1,4,27,0,Jump Shot,25,24,253,False
+Evan Turner,1,10,53,0,Jump Shot,29,144,253,False
+Evan Turner,4,9,34,0,Jump Shot,25,144,209,False
+Evan Turner,3,11,19,1,Jump Shot,25,239,74,False
+Evan Turner,1,8,49,1,Jump Shot,22,226,37,False
+Evan Turner,1,7,5,0,Jump Shot,24,-239,37,False
+Evan Turner,2,2,33,1,Jump Shot,16,82,142,True
+Evan Turner,3,5,2,1,Jump Shot,25,51,248,False
+Evan Turner,1,11,26,0,Jump Shot,23,224,82,False
+Evan Turner,3,9,10,0,Jump Shot,22,-226,20,False
+Evan Turner,1,1,48,0,Jump Shot,22,226,10,False
+Evan Turner,1,9,13,1,Jump Shot,24,-174,171,False
+Evan Turner,2,4,51,0,Jump Shot,11,-20,113,True
+Evan Turner,3,8,55,1,Jump Shot,23,227,58,False
+Evan Turner,5,0,50,0,Jump Shot,24,231,88,False
+Evan Turner,1,1,21,0,Jump Shot,9,-33,94,True
+Evan Turner,1,4,16,1,Jump Shot,14,143,41,True
+Evan Turner,2,6,59,0,Jump Shot,25,-121,222,False
+Evan Turner,3,6,10,0,Jump Shot,25,168,193,False
+Evan Turner,3,1,24,1,Jump Shot,24,-111,224,False
+Evan Turner,2,1,8,0,Jump Shot,10,108,-3,True
+Evan Turner,3,6,11,0,Jump Shot,8,84,8,True
+Evan Turner,3,8,57,0,Jump Shot,5,-1,59,True
+Evan Turner,2,3,22,1,Jump Shot,14,100,111,True
+Evan Turner,1,9,15,0,Jump Shot,22,-223,-7,False
+Evan Turner,1,8,33,1,Jump Shot,19,155,122,True
+Evan Turner,5,4,28,1,Jump Shot,24,223,92,False
+Evan Turner,2,2,56,1,Jump Shot,15,-26,153,True
+Evan Turner,3,8,16,0,Jump Shot,15,-150,12,True
+Evan Turner,2,6,17,1,Jump Shot,25,24,251,False
+Evan Turner,2,0,2,0,Jump Shot,23,228,58,False
+Evan Turner,3,5,54,1,Jump Shot,19,4,191,True
+Evan Turner,3,9,43,0,Jump Shot,25,-120,223,False
+Evan Turner,4,3,21,0,Jump Shot,23,225,57,False
+Evan Turner,2,5,7,0,Jump Shot,24,121,216,False
+Evan Turner,2,1,35,1,Jump Shot,22,-225,-5,False
+Evan Turner,2,5,46,0,Jump Shot,14,76,127,True
+Evan Turner,1,6,41,0,Jump Shot,9,27,88,True
+Evan Turner,3,6,44,1,Jump Shot,13,136,1,True
+Evan Turner,3,8,34,0,Jump Shot,24,86,233,False
+Evan Turner,1,7,22,0,Jump Shot,10,-60,82,True
+Evan Turner,3,6,28,1,Jump Shot,26,46,262,False
+Evan Turner,3,10,57,1,Jump Shot,13,30,127,True
+Evan Turner,3,6,43,1,Jump Shot,18,88,158,True
+Evan Turner,3,2,9,1,Jump Shot,6,-63,1,True
+Evan Turner,1,10,15,0,Jump Shot,13,130,32,True
+Evan Turner,3,1,2,1,Jump Shot,14,61,137,True
+Evan Turner,3,5,7,1,Jump Shot,13,-65,115,True
+Evan Turner,4,3,22,0,Jump Shot,12,65,103,True
+Evan Turner,3,3,37,1,Jump Shot,13,-94,94,True
+Evan Turner,1,2,22,0,Jump Shot,25,146,215,False
+Evan Turner,3,8,16,0,Jump Shot,16,-155,48,True
+Evan Turner,1,0,30,0,Jump Shot,14,106,105,True
+Evan Turner,3,3,38,0,Jump Shot,13,130,32,True
+Evan Turner,2,5,56,0,Jump Shot,15,90,120,True
+Evan Turner,4,1,57,0,Jump Shot,24,-207,123,False
+Evan Turner,2,2,46,0,Jump Shot,24,163,185,False
+Evan Turner,1,1,18,0,Jump Shot,24,209,122,False
+Evan Turner,1,3,56,0,Jump Shot,24,33,243,False
+Evan Turner,3,4,6,0,Jump Shot,24,156,184,False
+Evan Turner,2,8,13,1,Jump Shot,10,-49,88,True
+Evan Turner,2,9,15,0,Jump Shot,18,-82,167,True
+Evan Turner,1,0,3,1,Jump Shot,18,139,118,True
+Evan Turner,1,2,37,0,Jump Shot,25,-89,236,False
+Evan Turner,3,2,26,0,Jump Shot,9,89,17,True
+Evan Turner,1,0,58,1,Jump Shot,15,-9,151,True
+Evan Turner,2,10,20,0,Jump Shot,15,40,147,True
+Evan Turner,2,4,9,0,Jump Shot,24,92,222,False
+Evan Turner,4,1,26,0,Jump Shot,24,226,83,False
+Evan Turner,1,3,34,1,Jump Shot,26,-145,216,False
+Evan Turner,2,8,17,0,Jump Shot,23,-231,-16,False
+Evan Turner,1,0,1,0,Jump Shot,24,216,116,False
+Evan Turner,4,9,45,1,Jump Shot,22,-226,-5,False
+Evan Turner,4,8,39,1,Jump Shot,25,159,195,False
+Evan Turner,1,1,48,0,Jump Shot,26,163,212,False
+Evan Turner,3,5,14,0,Jump Shot,23,222,75,False
+Evan Turner,4,3,27,0,Jump Shot,22,-222,-1,False
+Evan Turner,3,1,6,0,Jump Shot,5,-40,43,True
+Evan Turner,1,5,28,0,Jump Shot,22,-228,8,False
+Evan Turner,2,7,25,1,Layup Shot,0,-2,4,True
+Evan Turner,1,7,30,0,Layup Shot,2,-20,16,True
+Evan Turner,4,5,55,1,Layup Shot,0,0,7,True
+Evan Turner,3,4,47,1,Layup Shot,1,-11,4,True
+Evan Turner,1,5,55,1,Layup Shot,3,-32,6,True
+Evan Turner,2,5,4,1,Layup Shot,1,-1,15,True
+Evan Turner,3,10,53,1,Layup Shot,2,6,25,True
+Evan Turner,4,0,48,1,Layup Shot,1,-16,-10,True
+Evan Turner,1,11,21,1,Layup Shot,0,-5,5,True
+Evan Turner,1,1,51,0,Layup Shot,3,29,8,True
+Evan Turner,1,5,1,0,Layup Shot,5,54,15,True
+Evan Turner,2,1,38,1,Pullup Jump shot,16,160,-10,True
+Evan Turner,2,3,43,0,Pullup Jump shot,8,-40,74,True
+Evan Turner,3,5,3,0,Pullup Jump shot,16,31,160,True
+Evan Turner,2,2,32,0,Pullup Jump shot,16,138,99,True
+Evan Turner,4,10,15,1,Pullup Jump shot,14,30,141,True
+Evan Turner,2,10,10,0,Pullup Jump shot,13,-55,128,True
+Evan Turner,2,10,57,1,Pullup Jump shot,11,99,56,True
+Evan Turner,1,5,58,1,Pullup Jump shot,15,6,152,True
+Evan Turner,1,10,5,1,Pullup Jump shot,16,105,124,True
+Evan Turner,3,1,59,0,Pullup Jump shot,15,-70,141,True
+Evan Turner,3,3,53,1,Pullup Jump shot,16,61,158,True
+Evan Turner,4,7,0,1,Pullup Jump shot,12,-9,124,True
+Evan Turner,2,11,9,0,Pullup Jump shot,17,3,172,True
+Evan Turner,1,0,40,0,Pullup Jump shot,19,152,122,True
+Evan Turner,3,9,30,1,Pullup Jump shot,13,-47,130,True
+Evan Turner,1,4,31,1,Pullup Jump shot,15,-79,133,True
+Evan Turner,2,3,7,1,Pullup Jump shot,11,112,22,True
+Evan Turner,2,9,33,1,Pullup Jump shot,14,-2,141,True
+Evan Turner,3,6,56,0,Pullup Jump shot,12,-27,117,True
+Evan Turner,1,5,26,0,Pullup Jump shot,15,-2,150,True
+Evan Turner,3,10,44,0,Pullup Jump shot,16,161,36,True
+Evan Turner,1,8,10,1,Pullup Jump shot,15,76,131,True
+Evan Turner,4,10,33,1,Pullup Jump shot,21,190,97,True
+Evan Turner,3,2,13,1,Pullup Jump shot,11,-62,101,True
+Evan Turner,3,2,1,1,Pullup Jump shot,14,17,141,True
+Evan Turner,1,6,6,0,Pullup Jump shot,14,65,132,True
+Evan Turner,1,8,8,0,Pullup Jump shot,13,-125,60,True
+Evan Turner,2,8,32,1,Pullup Jump shot,20,-30,200,True
+Evan Turner,3,11,46,0,Pullup Jump shot,13,58,121,True
+Evan Turner,1,5,32,0,Pullup Jump shot,17,106,143,True
+Evan Turner,1,6,14,1,Pullup Jump shot,15,4,158,True
+Evan Turner,1,4,27,0,Pullup Jump shot,16,-161,-11,True
+Evan Turner,1,9,27,0,Pullup Jump shot,15,-54,146,True
+Evan Turner,1,4,8,0,Pullup Jump shot,14,21,139,True
+Evan Turner,2,10,29,0,Pullup Jump shot,19,107,162,True
+Evan Turner,4,6,45,1,Pullup Jump shot,16,161,25,True
+Evan Turner,3,8,31,0,Pullup Jump shot,12,123,27,True
+Evan Turner,1,9,19,0,Pullup Jump shot,14,147,25,True
+Evan Turner,1,10,19,1,Pullup Jump shot,15,-75,131,True
+Evan Turner,2,6,28,1,Pullup Jump shot,13,-138,19,True
+Evan Turner,3,11,1,0,Pullup Jump shot,12,-71,101,True
+Evan Turner,4,8,51,1,Pullup Jump shot,13,51,125,True
+Evan Turner,2,7,17,0,Pullup Jump shot,11,-115,10,True
+Evan Turner,4,4,44,0,Pullup Jump shot,17,91,149,True
+Evan Turner,1,6,12,1,Pullup Jump shot,15,-43,151,True
+Evan Turner,4,11,24,1,Pullup Jump shot,16,-71,146,True
+Evan Turner,3,4,43,0,Pullup Jump shot,16,123,117,True
+Evan Turner,3,3,42,0,Pullup Jump shot,15,109,109,True
+Evan Turner,4,9,6,1,Pullup Jump shot,15,11,153,True
+Evan Turner,1,0,0,0,Pullup Jump shot,15,116,107,True
+Evan Turner,4,9,47,0,Pullup Jump shot,7,68,21,True
+Evan Turner,1,3,47,1,Pullup Jump shot,15,-18,153,True
+Evan Turner,3,0,18,0,Pullup Jump shot,14,2,146,True
+Evan Turner,3,10,20,0,Pullup Jump shot,15,-51,146,True
+Evan Turner,1,8,32,0,Pullup Jump shot,16,109,122,True
+Evan Turner,2,8,37,0,Pullup Jump shot,19,-110,158,True
+Evan Turner,3,10,53,0,Pullup Jump shot,9,92,17,True
+Evan Turner,3,3,43,0,Pullup Jump shot,7,60,52,True
+Evan Turner,1,3,49,0,Pullup Jump shot,12,-3,127,True
+Evan Turner,1,0,50,0,Pullup Jump shot,10,97,28,True
+Evan Turner,4,10,6,0,Pullup Jump shot,13,136,0,True
+Evan Turner,1,1,19,1,Pullup Jump shot,16,161,31,True
+Evan Turner,4,10,36,0,Pullup Jump shot,13,74,114,True
+Evan Turner,2,1,21,1,Pullup Jump shot,15,9,158,True
+Evan Turner,3,6,24,1,Pullup Jump shot,17,87,156,True
+Evan Turner,4,11,26,1,Pullup Jump shot,16,-3,161,True
+Evan Turner,4,4,20,1,Pullup Jump shot,16,65,156,True
+Evan Turner,1,3,14,0,Pullup Jump shot,16,44,154,True
+Evan Turner,2,7,52,1,Pullup Jump shot,15,27,155,True
+Evan Turner,2,3,24,0,Pullup Jump shot,17,87,155,True
+Evan Turner,4,8,29,1,Pullup Jump shot,14,-8,146,True
+Evan Turner,1,5,12,0,Pullup Jump shot,15,157,16,True
+Evan Turner,3,8,10,1,Pullup Jump shot,25,-47,247,False
+Evan Turner,1,1,26,0,Pullup Jump shot,14,-58,137,True
+Evan Turner,1,10,29,1,Pullup Jump shot,18,-54,182,True
+Evan Turner,2,6,12,1,Pullup Jump shot,17,93,146,True
+Evan Turner,2,7,43,0,Pullup Jump shot,14,-147,13,True
+Evan Turner,2,9,21,0,Pullup Jump shot,11,-2,113,True
+Evan Turner,1,11,35,0,Pullup Jump shot,16,60,150,True
+Evan Turner,1,9,48,0,Pullup Jump shot,14,39,135,True
+Evan Turner,2,7,35,0,Pullup Jump shot,15,57,149,True
+Evan Turner,4,9,13,0,Pullup Jump shot,13,134,16,True
+Evan Turner,1,0,42,1,Pullup Jump shot,19,-123,151,True
+Evan Turner,4,2,1,0,Pullup Jump shot,13,131,17,True
+Evan Turner,4,2,58,0,Pullup Jump shot,14,90,108,True
+Evan Turner,2,10,2,1,Pullup Jump shot,16,93,137,True
+Evan Turner,1,11,25,0,Pullup Jump shot,16,123,105,True
+Evan Turner,1,1,36,1,Pullup Jump shot,20,63,190,True
+Evan Turner,4,3,30,0,Pullup Jump shot,19,110,167,True
+Evan Turner,3,0,40,0,Pullup Jump shot,13,39,129,True
+Evan Turner,4,3,37,1,Pullup Jump shot,11,89,70,True
+Evan Turner,1,9,16,0,Pullup Jump shot,16,87,136,True
+Evan Turner,1,1,8,1,Pullup Jump shot,16,162,38,True
+Evan Turner,3,9,18,0,Pullup Jump shot,9,98,19,True
+Evan Turner,3,9,1,1,Putback Layup Shot,1,8,7,True
+Evan Turner,4,8,23,0,Putback Layup Shot,0,0,-6,True
+Evan Turner,1,9,46,1,Reverse Dunk Shot,1,2,10,True
+Evan Turner,2,3,51,1,Reverse Layup Shot,1,12,6,True
+Evan Turner,4,8,39,0,Reverse Layup Shot,1,-9,14,True
+Evan Turner,3,8,14,0,Reverse Layup Shot,1,-6,13,True
+Evan Turner,4,0,45,0,Reverse Layup Shot,1,-14,0,True
+Evan Turner,2,0,5,1,Reverse Layup Shot,1,-6,-9,True
+Evan Turner,3,7,41,1,Reverse Layup Shot,1,-11,1,True
+Evan Turner,2,9,30,0,Reverse Layup Shot,0,-8,1,True
+Evan Turner,1,9,41,1,Reverse Layup Shot,0,1,-4,True
+Evan Turner,3,9,57,0,Reverse Layup Shot,1,-6,8,True
+Evan Turner,4,10,18,0,Reverse Layup Shot,3,-14,28,True
+Evan Turner,4,2,34,1,Reverse Layup Shot,1,3,13,True
+Evan Turner,3,10,32,1,Running Jump Shot,14,38,137,True
+Evan Turner,1,9,29,1,Running Jump Shot,3,3,35,True
+Evan Turner,1,10,0,0,Running Layup Shot,1,1,17,True
+Evan Turner,1,1,3,1,Running Layup Shot,2,-23,8,True
+Evan Turner,2,3,55,1,Running Pull-Up Jump Shot,8,-56,65,True
+Evan Turner,4,7,39,1,Running Pull-Up Jump Shot,15,144,67,True
+Evan Turner,2,9,21,1,Step Back Jump shot,20,-34,200,True
+Evan Turner,2,3,22,1,Step Back Jump shot,12,-55,112,True
+Evan Turner,4,8,24,0,Step Back Jump shot,15,36,152,True
+Evan Turner,1,3,23,0,Step Back Jump shot,14,129,65,True
+Evan Turner,4,11,39,0,Step Back Jump shot,20,115,167,True
+Evan Turner,1,1,25,1,Step Back Jump shot,15,-72,137,True
+Evan Turner,3,4,15,0,Step Back Jump shot,13,-119,55,True
+Evan Turner,1,2,21,0,Step Back Jump shot,10,-97,35,True
+Evan Turner,2,9,35,0,Step Back Jump shot,10,-104,31,True
+Evan Turner,2,11,45,1,Step Back Jump shot,9,13,99,True
+Evan Turner,1,11,31,1,Step Back Jump shot,15,123,88,True
+Evan Turner,1,11,20,0,Step Back Jump shot,12,-25,122,True
+Evan Turner,3,4,41,0,Step Back Jump shot,7,-70,25,True
+Evan Turner,2,7,37,0,Step Back Jump shot,12,-11,122,True
+Evan Turner,3,11,39,1,Step Back Jump shot,20,86,181,True
+Evan Turner,1,7,15,0,Step Back Jump shot,15,-18,157,True
+Evan Turner,2,6,9,1,Step Back Jump shot,16,-57,155,True
+Evan Turner,1,0,49,0,Step Back Jump shot,18,55,176,True
+Evan Turner,1,1,33,0,Step Back Jump shot,11,3,113,True
+Evan Turner,2,10,27,0,Step Back Jump shot,20,-134,155,True
+Evan Turner,4,10,19,0,Step Back Jump shot,13,-131,15,True
+Evan Turner,2,8,50,0,Step Back Jump shot,14,-29,142,True
+Evan Turner,4,9,5,1,Step Back Jump shot,10,92,58,True
+Evan Turner,1,3,28,0,Step Back Jump shot,15,-77,132,True
+Evan Turner,1,1,40,1,Step Back Jump shot,12,119,21,True
+Evan Turner,1,4,0,1,Step Back Jump shot,19,-20,194,True
+Evan Turner,2,4,19,0,Step Back Jump shot,15,-57,141,True
+Evan Turner,3,0,34,0,Step Back Jump shot,10,108,8,True
+Evan Turner,1,5,5,1,Step Back Jump shot,16,62,152,True
+Evan Turner,1,0,56,0,Step Back Jump shot,18,-101,152,True
+Evan Turner,2,0,2,0,Step Back Jump shot,18,5,186,True
+Evan Turner,3,3,32,1,Tip Layup Shot,0,0,-6,True
+Evan Turner,3,5,55,1,Tip Layup Shot,0,0,-6,True
+Evan Turner,3,5,58,0,Tip Layup Shot,0,0,-6,True
+Evan Turner,1,0,56,0,Tip Layup Shot,1,-18,1,True
+Evan Turner,2,1,1,0,Tip Layup Shot,0,0,-6,True
+Evan Turner,2,6,38,1,Tip Layup Shot,0,0,-6,True
+Evan Turner,2,3,55,1,Turnaround Fadeaway Bank Jump Shot,18,-181,-4,True
+Evan Turner,2,2,18,1,Turnaround Fadeaway Bank Jump Shot,9,-61,67,True
+Evan Turner,4,7,35,1,Turnaround Fadeaway Bank Jump Shot,6,-43,45,True
+Evan Turner,3,11,28,0,Turnaround Fadeaway Bank Jump Shot,7,58,40,True
+Evan Turner,1,6,58,1,Turnaround Fadeaway Bank Jump Shot,4,-8,49,True
+Evan Turner,2,10,12,1,Turnaround Fadeaway Bank Jump Shot,10,97,27,True
+Evan Turner,3,9,5,1,Turnaround Fadeaway Bank Jump Shot,4,39,27,True
+Evan Turner,4,8,58,1,Turnaround Fadeaway shot,7,-2,70,True
+Evan Turner,3,11,17,1,Turnaround Fadeaway shot,11,-112,34,True
+Evan Turner,3,8,42,0,Turnaround Fadeaway shot,12,125,17,True
+Evan Turner,2,5,42,0,Turnaround Fadeaway shot,8,81,13,True
+Evan Turner,1,4,2,1,Turnaround Fadeaway shot,6,67,2,True
+Evan Turner,1,2,16,0,Turnaround Fadeaway shot,10,94,53,True
+Evan Turner,1,10,59,0,Turnaround Fadeaway shot,12,117,48,True
+Evan Turner,2,1,42,0,Turnaround Fadeaway shot,10,-100,12,True
+Evan Turner,1,11,40,1,Turnaround Fadeaway shot,12,-114,46,True
+Evan Turner,1,6,21,1,Turnaround Fadeaway shot,14,136,51,True
+Evan Turner,2,11,43,1,Turnaround Fadeaway shot,8,-63,53,True
+Evan Turner,1,8,40,1,Turnaround Fadeaway shot,10,106,13,True
+Evan Turner,1,5,49,0,Turnaround Fadeaway shot,13,126,58,True
+Evan Turner,2,8,33,1,Turnaround Fadeaway shot,11,111,36,True
+Evan Turner,1,7,10,1,Turnaround Fadeaway shot,12,-1,121,True
+Evan Turner,3,6,3,1,Turnaround Fadeaway shot,8,-70,52,True
+Evan Turner,3,4,0,1,Turnaround Fadeaway shot,11,68,92,True
+Evan Turner,3,11,46,1,Turnaround Fadeaway shot,5,-46,38,True
+Evan Turner,3,8,27,1,Turnaround Fadeaway shot,16,128,101,True
+Evan Turner,4,3,5,1,Turnaround Fadeaway shot,10,28,96,True
+Evan Turner,3,7,57,0,Turnaround Fadeaway shot,9,-61,68,True
+Evan Turner,3,3,34,0,Turnaround Fadeaway shot,11,-109,45,True
+Evan Turner,1,6,12,1,Turnaround Fadeaway shot,11,-117,-19,True
+Evan Turner,2,9,5,0,Turnaround Fadeaway shot,10,-102,-4,True
+Evan Turner,1,11,41,1,Turnaround Fadeaway shot,12,33,116,True
+Evan Turner,4,3,4,1,Turnaround Fadeaway shot,5,50,22,True
+Evan Turner,4,9,23,1,Turnaround Fadeaway shot,6,59,15,True
+Evan Turner,2,10,47,0,Turnaround Fadeaway shot,13,136,2,True
+Evan Turner,3,6,5,0,Turnaround Fadeaway shot,8,-74,50,True
+Evan Turner,1,5,2,0,Turnaround Fadeaway shot,13,-132,27,True
+Evan Turner,1,9,25,1,Turnaround Fadeaway shot,16,-123,111,True
+Evan Turner,1,11,22,1,Turnaround Fadeaway shot,11,-116,7,True
+Evan Turner,4,11,12,0,Turnaround Fadeaway shot,11,92,70,True
+Evan Turner,1,1,8,0,Turnaround Fadeaway shot,16,-82,142,True
+Evan Turner,4,9,54,0,Turnaround Fadeaway shot,11,-101,55,True
+Evan Turner,2,5,28,0,Turnaround Fadeaway shot,13,138,-16,True
+Evan Turner,2,11,36,0,Turnaround Fadeaway shot,18,-96,160,True
+Evan Turner,1,4,52,0,Turnaround Fadeaway shot,13,136,-5,True
+Evan Turner,1,2,2,0,Turnaround Fadeaway shot,10,106,8,True
+Evan Turner,4,3,8,0,Turnaround Fadeaway shot,8,87,22,True
+Evan Turner,1,7,11,0,Turnaround Fadeaway shot,7,75,20,True
+Evan Turner,4,6,14,1,Turnaround Fadeaway shot,7,69,31,True
+Evan Turner,4,11,26,0,Turnaround Fadeaway shot,10,57,92,True
+Evan Turner,1,5,4,1,Turnaround Fadeaway shot,10,-100,17,True
+Evan Turner,2,10,5,1,Turnaround Fadeaway shot,10,74,81,True
+Evan Turner,1,1,55,1,Turnaround Fadeaway shot,10,-103,7,True
+Evan Turner,1,6,25,1,Turnaround Fadeaway shot,11,11,113,True
+Evan Turner,2,4,36,0,Turnaround Fadeaway shot,9,98,17,True
+Evan Turner,3,0,47,0,Turnaround Fadeaway shot,10,106,-1,True
+Evan Turner,3,1,28,1,Turnaround Fadeaway shot,11,114,15,True
+Evan Turner,3,7,26,0,Turnaround Fadeaway shot,7,-45,57,True
+Evan Turner,1,11,23,1,Turnaround Fadeaway shot,8,-2,82,True
+Evan Turner,2,9,52,1,Turnaround Hook Shot,7,-28,74,True
+Evan Turner,2,7,31,1,Turnaround Hook Shot,8,-38,71,True
+Evan Turner,4,10,56,0,Turnaround Jump Shot,10,101,0,True
+Evan Turner,4,10,20,0,Turnaround Jump Shot,11,-26,109,True
+Evan Turner,2,9,15,1,Turnaround Jump Shot,8,53,69,True
+Evan Turner,4,11,7,1,Turnaround Jump Shot,8,60,56,True
+Evan Turner,2,9,42,1,Turnaround Jump Shot,16,8,163,True
+Evan Turner,2,9,19,0,Turnaround Jump Shot,13,-52,126,True
+Evan Turner,2,11,7,0,Turnaround Jump Shot,10,103,10,True
+Evan Turner,1,2,6,0,Turnaround Jump Shot,11,-37,111,True
+Evan Turner,2,8,46,0,Turnaround Jump Shot,7,58,53,True
+Evan Turner,2,4,35,1,Turnaround Jump Shot,11,112,-1,True
+Evan Turner,1,9,3,0,Turnaround Jump Shot,8,-11,81,True
+Evan Turner,2,6,10,1,Turnaround Jump Shot,10,107,6,True
+Evan Turner,3,3,2,1,Turnaround Jump Shot,9,33,85,True
+Evan Turner,4,0,15,0,Turnaround Jump Shot,7,1,75,True
+Evan Turner,2,8,44,1,Turnaround Jump Shot,9,-7,91,True
+Evan Turner,1,7,53,1,Turnaround Jump Shot,9,-63,75,True
+Evan Turner,4,3,45,1,Turnaround Jump Shot,14,-141,20,True
+Evan Turner,1,2,18,0,Turnaround Jump Shot,8,82,29,True
+Evan Turner,1,3,43,0,Turnaround Jump Shot,8,32,78,True
+Evan Turner,1,3,24,1,Turnaround Jump Shot,12,-112,57,True
+Evan Turner,2,9,40,0,Turnaround Jump Shot,10,103,17,True
+Evan Turner,1,10,37,1,Turnaround Jump Shot,13,45,131,True
+Evan Turner,1,5,54,1,Turnaround Jump Shot,10,-109,4,True
+Evan Turner,2,0,41,0,Turnaround Jump Shot,6,-57,28,True
+Evan Turner,1,1,2,1,Turnaround Jump Shot,14,7,141,True
+Evan Turner,1,4,45,1,Turnaround Jump Shot,9,93,11,True
+Evan Turner,2,7,31,0,Turnaround Jump Shot,13,131,2,True
+Evan Turner,2,5,48,0,Turnaround Jump Shot,13,-61,121,True
+Evan Turner,1,4,11,0,Turnaround Jump Shot,12,-28,123,True

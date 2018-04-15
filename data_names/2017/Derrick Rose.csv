@@ -1,0 +1,180 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Derrick Rose,2,3,38,1,Alley Oop Layup shot,2,5,22,True
+Derrick Rose,4,5,8,1,Cutting Dunk Shot,0,-3,6,True
+Derrick Rose,1,0,47,0,Cutting Layup Shot,1,0,16,True
+Derrick Rose,4,0,42,1,Cutting Layup Shot,1,8,10,True
+Derrick Rose,4,8,21,0,Cutting Layup Shot,1,9,6,True
+Derrick Rose,2,11,40,1,Cutting Layup Shot,1,-16,4,True
+Derrick Rose,2,8,26,1,Cutting Layup Shot,0,-1,4,True
+Derrick Rose,4,9,21,1,Cutting Layup Shot,1,15,8,True
+Derrick Rose,3,2,55,1,Cutting Layup Shot,0,-2,5,True
+Derrick Rose,2,1,44,1,Cutting Layup Shot,17,129,122,True
+Derrick Rose,2,4,26,0,Driving Floating Bank Jump Shot,2,19,15,True
+Derrick Rose,1,0,40,1,Driving Floating Bank Jump Shot,4,42,15,True
+Derrick Rose,4,7,28,1,Driving Floating Bank Jump Shot,7,-58,44,True
+Derrick Rose,2,5,47,0,Driving Floating Bank Jump Shot,9,-61,73,True
+Derrick Rose,2,9,26,1,Driving Floating Jump Shot,12,116,54,True
+Derrick Rose,4,10,21,0,Driving Floating Jump Shot,7,70,24,True
+Derrick Rose,4,1,43,0,Driving Floating Jump Shot,7,-45,57,True
+Derrick Rose,1,10,9,0,Driving Floating Jump Shot,7,-40,68,True
+Derrick Rose,2,9,18,1,Driving Floating Jump Shot,5,14,55,True
+Derrick Rose,3,10,48,0,Driving Floating Jump Shot,7,-78,-13,True
+Derrick Rose,1,7,10,0,Driving Floating Jump Shot,11,-56,106,True
+Derrick Rose,2,7,12,1,Driving Layup Shot,0,6,1,True
+Derrick Rose,1,3,50,1,Driving Layup Shot,0,4,5,True
+Derrick Rose,2,8,39,0,Driving Layup Shot,3,19,24,True
+Derrick Rose,4,1,13,0,Driving Layup Shot,3,35,16,True
+Derrick Rose,2,8,36,0,Driving Layup Shot,2,-16,20,True
+Derrick Rose,4,7,50,0,Driving Layup Shot,7,-71,18,True
+Derrick Rose,2,2,24,0,Driving Layup Shot,1,-8,15,True
+Derrick Rose,3,8,41,1,Driving Layup Shot,1,-2,10,True
+Derrick Rose,2,6,36,1,Driving Layup Shot,1,-14,11,True
+Derrick Rose,4,10,10,0,Driving Layup Shot,3,-8,30,True
+Derrick Rose,2,9,57,0,Driving Layup Shot,1,2,10,True
+Derrick Rose,4,10,23,1,Driving Layup Shot,1,14,11,True
+Derrick Rose,1,4,28,0,Driving Layup Shot,5,39,34,True
+Derrick Rose,1,8,30,1,Driving Layup Shot,1,0,13,True
+Derrick Rose,2,2,23,0,Driving Layup Shot,2,-2,23,True
+Derrick Rose,3,6,0,0,Driving Layup Shot,1,-13,-1,True
+Derrick Rose,2,4,20,0,Driving Layup Shot,0,3,-1,True
+Derrick Rose,2,9,57,1,Driving Layup Shot,1,-5,12,True
+Derrick Rose,3,0,58,0,Driving Layup Shot,8,86,8,True
+Derrick Rose,2,7,15,0,Driving Layup Shot,2,-9,18,True
+Derrick Rose,3,2,43,0,Driving Layup Shot,4,46,18,True
+Derrick Rose,2,8,19,1,Driving Layup Shot,0,-2,5,True
+Derrick Rose,2,10,32,1,Driving Layup Shot,1,8,17,True
+Derrick Rose,3,6,34,1,Driving Layup Shot,1,-14,10,True
+Derrick Rose,2,9,21,0,Driving Layup Shot,2,-14,24,True
+Derrick Rose,1,5,8,1,Driving Layup Shot,1,8,6,True
+Derrick Rose,2,8,13,1,Driving Layup Shot,1,1,15,True
+Derrick Rose,2,8,29,1,Driving Layup Shot,1,-6,19,True
+Derrick Rose,2,5,42,1,Driving Layup Shot,1,3,14,True
+Derrick Rose,2,6,13,1,Driving Layup Shot,0,-4,3,True
+Derrick Rose,3,7,41,0,Driving Layup Shot,1,4,18,True
+Derrick Rose,2,4,34,0,Driving Layup Shot,2,-14,15,True
+Derrick Rose,4,0,37,1,Driving Layup Shot,2,16,13,True
+Derrick Rose,1,1,27,1,Driving Layup Shot,0,-7,7,True
+Derrick Rose,4,5,48,1,Driving Layup Shot,1,8,6,True
+Derrick Rose,4,2,31,0,Driving Layup Shot,1,2,15,True
+Derrick Rose,2,1,8,1,Driving Layup Shot,0,3,6,True
+Derrick Rose,4,4,1,0,Driving Layup Shot,1,-2,-12,True
+Derrick Rose,2,0,37,0,Driving Layup Shot,2,13,17,True
+Derrick Rose,1,10,2,1,Driving Layup Shot,1,2,10,True
+Derrick Rose,4,7,6,1,Driving Layup Shot,1,-8,10,True
+Derrick Rose,2,1,7,0,Driving Layup Shot,0,2,-1,True
+Derrick Rose,2,7,36,1,Driving Reverse Layup Shot,1,-12,10,True
+Derrick Rose,2,8,12,1,Driving Reverse Layup Shot,0,0,-4,True
+Derrick Rose,2,8,59,1,Driving Reverse Layup Shot,1,-6,8,True
+Derrick Rose,4,9,23,0,Floating Jump shot,12,1,121,True
+Derrick Rose,2,10,54,0,Floating Jump shot,16,-7,163,True
+Derrick Rose,2,8,43,0,Floating Jump shot,9,95,26,True
+Derrick Rose,3,5,39,0,Hook Shot,2,2,28,True
+Derrick Rose,2,9,26,0,Jump Bank Shot,10,90,52,True
+Derrick Rose,1,10,34,0,Jump Shot,25,-114,225,False
+Derrick Rose,2,10,3,1,Jump Shot,22,228,27,False
+Derrick Rose,3,2,47,0,Jump Shot,22,-224,0,False
+Derrick Rose,2,6,4,0,Jump Shot,20,148,136,True
+Derrick Rose,2,9,4,1,Jump Shot,22,226,-5,False
+Derrick Rose,2,9,53,0,Jump Shot,24,188,153,False
+Derrick Rose,3,3,20,1,Jump Shot,23,-230,61,False
+Derrick Rose,2,5,57,0,Jump Shot,26,-111,238,False
+Derrick Rose,1,0,29,1,Jump Shot,25,-234,99,False
+Derrick Rose,3,3,53,1,Jump Shot,16,-75,151,True
+Derrick Rose,3,0,43,0,Jump Shot,19,160,116,True
+Derrick Rose,2,4,26,0,Jump Shot,16,101,128,True
+Derrick Rose,3,0,8,0,Jump Shot,24,-78,235,False
+Derrick Rose,4,11,35,0,Jump Shot,24,-198,143,False
+Derrick Rose,1,6,12,0,Jump Shot,24,228,94,False
+Derrick Rose,1,8,38,0,Jump Shot,27,9,272,False
+Derrick Rose,3,10,46,0,Jump Shot,25,80,239,False
+Derrick Rose,2,2,33,0,Jump Shot,25,-222,122,False
+Derrick Rose,3,3,44,0,Jump Shot,18,98,151,True
+Derrick Rose,3,9,30,0,Jump Shot,25,138,217,False
+Derrick Rose,3,9,4,0,Jump Shot,19,101,168,True
+Derrick Rose,2,0,5,0,Jump Shot,14,-95,110,True
+Derrick Rose,2,2,59,1,Jump Shot,21,-185,106,True
+Derrick Rose,3,7,4,0,Jump Shot,16,-119,108,True
+Derrick Rose,1,9,9,1,Jump Shot,19,-20,190,True
+Derrick Rose,2,7,43,0,Jump Shot,24,-120,219,False
+Derrick Rose,1,4,55,0,Jump Shot,18,-130,137,True
+Derrick Rose,3,10,15,0,Jump Shot,19,-96,164,True
+Derrick Rose,4,4,32,0,Jump Shot,20,103,178,True
+Derrick Rose,4,5,6,0,Jump Shot,23,230,25,False
+Derrick Rose,3,0,0,1,Jump Shot,26,-3,262,False
+Derrick Rose,3,6,8,0,Jump Shot,23,-235,43,False
+Derrick Rose,3,11,34,0,Jump Shot,12,118,29,True
+Derrick Rose,1,8,52,0,Jump Shot,26,96,245,False
+Derrick Rose,1,5,59,0,Jump Shot,18,112,150,True
+Derrick Rose,2,11,28,0,Jump Shot,16,-162,-1,True
+Derrick Rose,2,4,49,0,Jump Shot,22,229,6,False
+Derrick Rose,4,11,7,0,Jump Shot,23,235,30,False
+Derrick Rose,4,1,25,0,Jump Shot,26,138,221,False
+Derrick Rose,2,6,33,0,Jump Shot,23,-231,21,False
+Derrick Rose,4,6,3,0,Layup Shot,7,68,25,True
+Derrick Rose,2,6,57,1,Layup Shot,0,2,4,True
+Derrick Rose,1,10,4,1,Layup Shot,1,16,1,True
+Derrick Rose,1,11,14,1,Layup Shot,1,3,15,True
+Derrick Rose,3,7,13,0,Layup Shot,2,-2,27,True
+Derrick Rose,1,7,50,1,Layup Shot,0,6,5,True
+Derrick Rose,1,10,18,0,Layup Shot,1,1,17,True
+Derrick Rose,1,11,27,0,Layup Shot,1,-18,4,True
+Derrick Rose,3,6,16,1,Layup Shot,1,-3,11,True
+Derrick Rose,3,7,24,0,Layup Shot,5,-17,54,True
+Derrick Rose,2,11,41,0,Layup Shot,0,4,5,True
+Derrick Rose,4,3,12,0,Layup Shot,2,-3,22,True
+Derrick Rose,2,10,5,0,Pullup Jump shot,19,-1,194,True
+Derrick Rose,2,10,33,0,Pullup Jump shot,17,145,101,True
+Derrick Rose,3,9,53,1,Pullup Jump shot,13,77,108,True
+Derrick Rose,3,0,34,0,Pullup Jump shot,18,-97,162,True
+Derrick Rose,1,7,19,1,Pullup Jump shot,26,-218,155,False
+Derrick Rose,4,0,15,0,Pullup Jump shot,25,-190,164,False
+Derrick Rose,4,0,18,0,Pullup Jump shot,16,-66,155,True
+Derrick Rose,3,7,12,1,Pullup Jump shot,13,-100,84,True
+Derrick Rose,3,0,0,0,Pullup Jump shot,64,158,630,False
+Derrick Rose,2,7,20,1,Pullup Jump shot,22,133,183,True
+Derrick Rose,2,4,20,0,Pullup Jump shot,21,-93,191,True
+Derrick Rose,4,6,46,0,Pullup Jump shot,21,-180,122,True
+Derrick Rose,4,3,12,0,Pullup Jump shot,22,222,43,False
+Derrick Rose,4,9,49,1,Pullup Jump shot,13,82,110,True
+Derrick Rose,1,4,15,0,Pullup Jump shot,18,-139,119,True
+Derrick Rose,4,0,42,1,Pullup Jump shot,20,6,206,True
+Derrick Rose,3,5,32,1,Putback Layup Shot,0,0,-6,True
+Derrick Rose,4,7,40,1,Putback Layup Shot,0,2,-6,True
+Derrick Rose,3,9,12,1,Reverse Layup Shot,0,7,-1,True
+Derrick Rose,1,5,56,1,Reverse Layup Shot,1,-11,-1,True
+Derrick Rose,4,10,20,1,Running Finger Roll Layup Shot,1,13,11,True
+Derrick Rose,1,8,47,1,Running Layup Shot,1,12,15,True
+Derrick Rose,4,8,7,1,Running Layup Shot,1,11,0,True
+Derrick Rose,1,9,29,1,Running Layup Shot,1,-5,11,True
+Derrick Rose,4,7,7,1,Running Layup Shot,0,7,4,True
+Derrick Rose,4,9,51,0,Running Layup Shot,4,17,42,True
+Derrick Rose,3,11,34,1,Running Layup Shot,0,-5,4,True
+Derrick Rose,2,4,29,1,Running Layup Shot,1,-9,8,True
+Derrick Rose,2,9,41,0,Running Layup Shot,2,-18,16,True
+Derrick Rose,2,8,50,1,Running Layup Shot,3,28,18,True
+Derrick Rose,2,9,48,0,Running Layup Shot,0,3,8,True
+Derrick Rose,1,4,48,1,Running Pull-Up Jump Shot,15,-3,151,True
+Derrick Rose,4,10,44,1,Running Reverse Layup Shot,0,-5,4,True
+Derrick Rose,2,7,57,1,Running Reverse Layup Shot,0,0,0,True
+Derrick Rose,1,2,26,1,Running Reverse Layup Shot,1,13,0,True
+Derrick Rose,2,10,37,0,Step Back Jump shot,12,13,122,True
+Derrick Rose,3,4,24,1,Step Back Jump shot,20,104,182,True
+Derrick Rose,2,10,48,0,Step Back Jump shot,18,80,167,True
+Derrick Rose,4,9,30,0,Step Back Jump shot,19,92,176,True
+Derrick Rose,2,6,59,0,Step Back Jump shot,19,106,161,True
+Derrick Rose,2,4,46,0,Step Back Jump shot,18,-176,58,True
+Derrick Rose,4,6,16,0,Step Back Jump shot,21,196,87,True
+Derrick Rose,4,1,58,1,Step Back Jump shot,13,-133,-6,True
+Derrick Rose,2,1,4,1,Step Back Jump shot,25,58,252,False
+Derrick Rose,2,8,39,0,Tip Layup Shot,0,0,-6,True
+Derrick Rose,1,6,13,1,Turnaround Fadeaway Bank Jump Shot,5,-43,26,True
+Derrick Rose,4,8,43,1,Turnaround Fadeaway Bank Jump Shot,4,-38,18,True
+Derrick Rose,2,4,17,1,Turnaround Hook Shot,5,-20,50,True
+Derrick Rose,2,3,59,0,Turnaround Hook Shot,4,-26,38,True
+Derrick Rose,3,0,36,1,Turnaround Jump Shot,0,-3,6,True
+Derrick Rose,1,4,36,0,Turnaround Jump Shot,8,-89,-1,True
+Derrick Rose,4,8,32,0,Turnaround Jump Shot,9,-3,95,True
+Derrick Rose,3,9,37,1,Turnaround Jump Shot,7,39,69,True
+Derrick Rose,2,6,26,0,Turnaround Jump Shot,11,-36,107,True
+Derrick Rose,3,6,36,0,Turnaround Jump Shot,5,-53,0,True
+Derrick Rose,3,2,11,1,Turnaround Jump Shot,7,-73,10,True

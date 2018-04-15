@@ -1,0 +1,10 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Ike Anigbogu,4,2,24,0,Dunk Shot,1,5,14,True
+Ike Anigbogu,4,0,31,0,Hook Shot,5,6,56,True
+Ike Anigbogu,4,0,0,1,Jump Shot,17,-89,147,True
+Ike Anigbogu,4,0,20,0,Jump Shot,13,-101,94,True
+Ike Anigbogu,4,0,43,0,Jump Shot,19,-2,199,True
+Ike Anigbogu,4,0,24,1,Jump Shot,10,105,6,True
+Ike Anigbogu,4,1,29,1,Jump Shot,17,85,157,True
+Ike Anigbogu,4,3,35,0,Jump Shot,12,-122,-8,True
+Ike Anigbogu,4,1,59,1,Putback Dunk Shot,0,0,-6,True

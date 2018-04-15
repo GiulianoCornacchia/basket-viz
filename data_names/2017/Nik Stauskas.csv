@@ -1,0 +1,137 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Nik Stauskas,3,2,59,1,Cutting Dunk Shot,1,1,11,True
+Nik Stauskas,2,7,52,1,Driving Dunk Shot,1,-5,13,True
+Nik Stauskas,4,4,5,1,Driving Dunk Shot,0,7,-5,True
+Nik Stauskas,3,3,3,0,Driving Floating Bank Jump Shot,5,-47,25,True
+Nik Stauskas,3,2,46,0,Driving Hook Shot,10,73,72,True
+Nik Stauskas,2,8,49,1,Driving Layup Shot,1,-17,-3,True
+Nik Stauskas,4,11,15,0,Driving Layup Shot,0,0,6,True
+Nik Stauskas,1,0,48,0,Driving Layup Shot,5,18,52,True
+Nik Stauskas,1,1,21,1,Driving Layup Shot,0,-2,0,True
+Nik Stauskas,4,11,21,0,Driving Layup Shot,4,-14,40,True
+Nik Stauskas,2,10,31,1,Driving Layup Shot,1,-9,6,True
+Nik Stauskas,4,3,32,1,Driving Layup Shot,0,-8,0,True
+Nik Stauskas,4,8,1,0,Driving Layup Shot,1,-4,15,True
+Nik Stauskas,4,1,40,0,Driving Layup Shot,1,-14,6,True
+Nik Stauskas,1,0,12,1,Driving Layup Shot,2,-1,20,True
+Nik Stauskas,1,2,17,0,Driving Layup Shot,2,-11,27,True
+Nik Stauskas,2,4,22,1,Driving Layup Shot,1,6,12,True
+Nik Stauskas,3,4,17,0,Driving Layup Shot,2,-21,20,True
+Nik Stauskas,4,0,16,1,Driving Layup Shot,2,3,20,True
+Nik Stauskas,4,8,38,0,Driving Reverse Layup Shot,1,-14,4,True
+Nik Stauskas,3,0,34,1,Driving Reverse Layup Shot,1,13,2,True
+Nik Stauskas,4,4,10,0,Driving Reverse Layup Shot,1,-12,13,True
+Nik Stauskas,3,4,12,1,Driving Reverse Layup Shot,2,-13,17,True
+Nik Stauskas,4,4,29,0,Fadeaway Jump Shot,12,78,100,True
+Nik Stauskas,4,2,6,0,Floating Jump shot,9,-49,85,True
+Nik Stauskas,1,2,25,0,Hook Shot,2,-11,25,True
+Nik Stauskas,3,2,3,0,Jump Bank Shot,4,-36,25,True
+Nik Stauskas,4,8,51,1,Jump Shot,25,155,197,False
+Nik Stauskas,4,1,0,0,Jump Shot,26,127,229,False
+Nik Stauskas,1,1,50,0,Jump Shot,25,-150,207,False
+Nik Stauskas,4,5,40,0,Jump Shot,27,87,256,False
+Nik Stauskas,1,0,2,0,Jump Shot,30,158,265,False
+Nik Stauskas,4,10,1,0,Jump Shot,25,-29,256,False
+Nik Stauskas,3,1,33,1,Jump Shot,26,1,269,False
+Nik Stauskas,2,7,59,0,Jump Shot,21,-29,211,True
+Nik Stauskas,4,8,12,1,Jump Shot,22,-223,46,False
+Nik Stauskas,4,11,25,0,Jump Shot,26,-5,262,False
+Nik Stauskas,4,10,5,1,Jump Shot,26,175,199,False
+Nik Stauskas,2,10,1,0,Jump Shot,26,81,252,False
+Nik Stauskas,4,11,29,0,Jump Shot,25,-177,187,False
+Nik Stauskas,3,2,46,1,Jump Shot,23,232,15,False
+Nik Stauskas,4,2,24,0,Jump Shot,26,-130,234,False
+Nik Stauskas,4,0,18,0,Jump Shot,26,93,252,False
+Nik Stauskas,3,1,6,0,Jump Shot,25,68,247,False
+Nik Stauskas,1,0,57,0,Jump Shot,24,225,92,False
+Nik Stauskas,1,1,51,0,Jump Shot,24,209,137,False
+Nik Stauskas,4,11,16,0,Jump Shot,23,-231,-11,False
+Nik Stauskas,4,2,24,1,Jump Shot,26,-148,220,False
+Nik Stauskas,2,11,14,0,Jump Shot,25,6,255,False
+Nik Stauskas,3,4,48,1,Jump Shot,27,-193,191,False
+Nik Stauskas,2,7,54,0,Jump Shot,8,3,87,True
+Nik Stauskas,3,0,0,0,Jump Shot,42,-3,422,False
+Nik Stauskas,3,6,18,1,Jump Shot,25,113,228,False
+Nik Stauskas,4,1,50,0,Jump Shot,15,55,141,True
+Nik Stauskas,3,5,13,1,Jump Shot,26,29,265,False
+Nik Stauskas,3,2,38,1,Jump Shot,23,-231,53,False
+Nik Stauskas,4,11,22,0,Jump Shot,23,-218,98,False
+Nik Stauskas,4,2,22,0,Jump Shot,25,-128,218,False
+Nik Stauskas,3,0,0,0,Jump Shot,26,-131,226,False
+Nik Stauskas,3,1,22,0,Jump Shot,26,0,266,False
+Nik Stauskas,1,2,48,0,Jump Shot,24,237,47,False
+Nik Stauskas,3,2,25,0,Jump Shot,23,-233,6,False
+Nik Stauskas,3,2,2,0,Jump Shot,26,172,206,False
+Nik Stauskas,3,1,16,1,Jump Shot,26,175,201,False
+Nik Stauskas,1,2,14,1,Jump Shot,20,-142,152,True
+Nik Stauskas,2,10,40,0,Jump Shot,18,189,17,True
+Nik Stauskas,3,1,0,0,Jump Shot,32,-176,270,False
+Nik Stauskas,4,8,10,1,Jump Shot,26,-138,227,False
+Nik Stauskas,4,3,50,0,Jump Shot,25,132,214,False
+Nik Stauskas,3,2,57,1,Jump Shot,25,-133,214,False
+Nik Stauskas,4,0,38,1,Jump Shot,23,-233,5,False
+Nik Stauskas,3,4,13,0,Jump Shot,26,-11,267,False
+Nik Stauskas,3,0,52,1,Jump Shot,26,19,263,False
+Nik Stauskas,4,9,55,0,Jump Shot,24,168,179,False
+Nik Stauskas,1,3,41,0,Jump Shot,25,-109,235,False
+Nik Stauskas,4,7,32,1,Jump Shot,26,201,169,False
+Nik Stauskas,4,6,12,1,Jump Shot,25,-220,131,False
+Nik Stauskas,4,5,19,1,Jump Shot,25,144,209,False
+Nik Stauskas,4,1,34,1,Jump Shot,25,-150,203,False
+Nik Stauskas,2,10,55,0,Jump Shot,27,163,217,False
+Nik Stauskas,3,3,27,0,Jump Shot,22,-220,51,False
+Nik Stauskas,4,6,50,1,Jump Shot,27,25,277,False
+Nik Stauskas,4,3,2,0,Jump Shot,24,-168,183,False
+Nik Stauskas,1,1,56,1,Jump Shot,27,-122,243,False
+Nik Stauskas,4,4,42,0,Jump Shot,25,-196,159,False
+Nik Stauskas,1,2,54,0,Jump Shot,24,-239,26,False
+Nik Stauskas,4,7,29,1,Jump Shot,26,172,195,False
+Nik Stauskas,2,2,10,1,Jump Shot,25,125,227,False
+Nik Stauskas,2,0,35,0,Jump Shot,24,-237,64,False
+Nik Stauskas,2,11,19,0,Jump Shot,26,-158,214,False
+Nik Stauskas,4,0,10,0,Jump Shot,26,16,269,False
+Nik Stauskas,1,0,1,0,Jump Shot,24,118,216,False
+Nik Stauskas,2,1,52,1,Jump Shot,19,-54,187,True
+Nik Stauskas,1,3,45,0,Jump Shot,19,-134,141,True
+Nik Stauskas,2,10,51,0,Jump Shot,24,-162,189,False
+Nik Stauskas,3,3,32,0,Jump Shot,24,-230,83,False
+Nik Stauskas,2,0,19,1,Jump Shot,22,-225,-2,False
+Nik Stauskas,2,1,23,1,Jump Shot,25,-51,246,False
+Nik Stauskas,3,3,55,0,Jump Shot,28,78,272,False
+Nik Stauskas,3,2,33,0,Jump Shot,24,-198,144,False
+Nik Stauskas,1,0,43,0,Jump Shot,24,172,178,False
+Nik Stauskas,4,1,29,0,Jump Shot,25,7,252,False
+Nik Stauskas,3,0,51,0,Jump Shot,24,-205,137,False
+Nik Stauskas,4,7,45,1,Jump Shot,24,-172,179,False
+Nik Stauskas,4,9,9,0,Jump Shot,23,-226,58,False
+Nik Stauskas,3,3,43,0,Jump Shot,25,180,179,False
+Nik Stauskas,1,0,54,1,Jump Shot,24,-225,91,False
+Nik Stauskas,4,2,20,0,Layup Shot,1,-18,1,True
+Nik Stauskas,4,0,36,0,Layup Shot,5,13,54,True
+Nik Stauskas,3,0,25,1,Pullup Jump shot,25,-200,152,False
+Nik Stauskas,2,8,57,0,Pullup Jump shot,18,-28,179,True
+Nik Stauskas,1,2,55,0,Pullup Jump shot,24,107,218,False
+Nik Stauskas,2,9,48,1,Pullup Jump shot,16,71,152,True
+Nik Stauskas,2,11,24,1,Pullup Jump shot,29,-110,273,False
+Nik Stauskas,4,9,18,0,Pullup Jump shot,25,142,216,False
+Nik Stauskas,2,9,24,1,Pullup Jump shot,25,-2,257,False
+Nik Stauskas,1,0,20,1,Pullup Jump shot,26,129,236,False
+Nik Stauskas,1,1,28,1,Pullup Jump shot,23,-230,27,False
+Nik Stauskas,2,9,25,0,Pullup Jump shot,22,-72,214,True
+Nik Stauskas,1,0,36,1,Pullup Jump shot,20,-100,175,True
+Nik Stauskas,2,11,47,0,Pullup Jump shot,24,136,209,False
+Nik Stauskas,4,11,39,0,Pullup Jump shot,24,-68,239,False
+Nik Stauskas,3,3,58,0,Pullup Jump shot,26,11,268,False
+Nik Stauskas,3,1,58,0,Pullup Jump shot,25,98,234,False
+Nik Stauskas,4,9,51,1,Pullup Jump shot,25,-78,248,False
+Nik Stauskas,4,10,49,0,Pullup Jump shot,17,-42,166,True
+Nik Stauskas,1,0,54,0,Pullup Jump shot,25,204,158,False
+Nik Stauskas,2,10,47,0,Pullup Jump shot,9,-71,62,True
+Nik Stauskas,4,6,26,0,Pullup Jump shot,20,95,178,True
+Nik Stauskas,4,10,14,0,Reverse Layup Shot,1,-14,0,True
+Nik Stauskas,3,4,43,0,Reverse Layup Shot,1,-10,8,True
+Nik Stauskas,3,6,31,1,Running Layup Shot,1,9,13,True
+Nik Stauskas,4,6,12,1,Step Back Jump shot,23,228,32,False
+Nik Stauskas,3,1,5,1,Step Back Jump shot,7,76,-15,True
+Nik Stauskas,1,2,16,0,Tip Layup Shot,0,0,-6,True
+Nik Stauskas,4,3,55,0,Turnaround Jump Shot,21,-204,75,True

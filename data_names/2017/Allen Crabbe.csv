@@ -1,0 +1,734 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Allen Crabbe,4,5,18,1,Alley Oop Layup shot,1,-10,3,True
+Allen Crabbe,1,7,38,1,Alley Oop Layup shot,2,-22,5,True
+Allen Crabbe,1,9,32,1,Cutting Layup Shot,1,14,11,True
+Allen Crabbe,1,8,56,0,Cutting Layup Shot,5,-43,41,True
+Allen Crabbe,2,2,20,1,Cutting Layup Shot,2,-20,2,True
+Allen Crabbe,2,5,24,1,Cutting Layup Shot,4,13,38,True
+Allen Crabbe,3,9,47,0,Cutting Layup Shot,2,-4,20,True
+Allen Crabbe,3,1,55,0,Cutting Layup Shot,2,24,14,True
+Allen Crabbe,4,3,45,1,Cutting Layup Shot,6,-54,43,True
+Allen Crabbe,3,10,30,1,Cutting Layup Shot,1,-9,12,True
+Allen Crabbe,3,3,40,1,Cutting Layup Shot,3,0,36,True
+Allen Crabbe,3,8,23,1,Cutting Layup Shot,3,9,37,True
+Allen Crabbe,1,5,54,1,Cutting Layup Shot,2,-20,10,True
+Allen Crabbe,3,6,24,1,Cutting Layup Shot,1,-3,19,True
+Allen Crabbe,1,2,47,1,Driving Dunk Shot,0,-3,5,True
+Allen Crabbe,3,10,32,1,Driving Finger Roll Layup Shot,2,7,21,True
+Allen Crabbe,3,9,16,1,Driving Finger Roll Layup Shot,1,-13,11,True
+Allen Crabbe,1,11,21,1,Driving Finger Roll Layup Shot,1,2,19,True
+Allen Crabbe,2,3,52,0,Driving Finger Roll Layup Shot,2,-7,20,True
+Allen Crabbe,2,4,26,1,Driving Finger Roll Layup Shot,4,13,48,True
+Allen Crabbe,2,7,52,1,Driving Finger Roll Layup Shot,1,-18,8,True
+Allen Crabbe,3,7,0,1,Driving Finger Roll Layup Shot,1,-13,4,True
+Allen Crabbe,3,5,14,1,Driving Finger Roll Layup Shot,3,28,22,True
+Allen Crabbe,3,7,48,1,Driving Finger Roll Layup Shot,1,-2,19,True
+Allen Crabbe,3,8,32,0,Driving Floating Bank Jump Shot,7,58,55,True
+Allen Crabbe,3,11,34,1,Driving Floating Bank Jump Shot,7,-8,71,True
+Allen Crabbe,1,1,37,1,Driving Floating Bank Jump Shot,6,31,54,True
+Allen Crabbe,2,5,56,0,Driving Floating Bank Jump Shot,8,60,54,True
+Allen Crabbe,4,6,33,0,Driving Floating Bank Jump Shot,3,-24,24,True
+Allen Crabbe,2,10,30,1,Driving Floating Bank Jump Shot,7,73,31,True
+Allen Crabbe,4,8,21,0,Driving Floating Bank Jump Shot,9,-73,65,True
+Allen Crabbe,3,5,55,1,Driving Floating Jump Shot,6,25,58,True
+Allen Crabbe,4,0,56,1,Driving Floating Jump Shot,12,66,106,True
+Allen Crabbe,1,5,12,1,Driving Floating Jump Shot,8,-20,83,True
+Allen Crabbe,3,8,57,0,Driving Floating Jump Shot,16,110,126,True
+Allen Crabbe,4,2,20,1,Driving Floating Jump Shot,12,51,115,True
+Allen Crabbe,4,5,17,1,Driving Floating Jump Shot,15,119,106,True
+Allen Crabbe,4,4,35,0,Driving Floating Jump Shot,5,27,50,True
+Allen Crabbe,3,1,32,1,Driving Floating Jump Shot,10,38,95,True
+Allen Crabbe,1,9,9,0,Driving Floating Jump Shot,10,85,59,True
+Allen Crabbe,4,6,40,0,Driving Floating Jump Shot,4,-38,19,True
+Allen Crabbe,3,5,0,1,Driving Floating Jump Shot,15,68,137,True
+Allen Crabbe,2,4,26,1,Driving Floating Jump Shot,13,-40,128,True
+Allen Crabbe,4,0,52,0,Driving Floating Jump Shot,3,-10,29,True
+Allen Crabbe,3,9,41,0,Driving Floating Jump Shot,4,-46,16,True
+Allen Crabbe,3,11,7,0,Driving Floating Jump Shot,12,-11,122,True
+Allen Crabbe,4,5,58,1,Driving Floating Jump Shot,8,-52,71,True
+Allen Crabbe,4,7,5,1,Driving Floating Jump Shot,6,-69,10,True
+Allen Crabbe,3,10,5,0,Driving Floating Jump Shot,12,122,25,True
+Allen Crabbe,1,1,32,0,Driving Floating Jump Shot,13,-11,131,True
+Allen Crabbe,4,1,0,0,Driving Floating Jump Shot,10,32,99,True
+Allen Crabbe,4,3,9,1,Driving Floating Jump Shot,9,-36,85,True
+Allen Crabbe,2,0,47,1,Driving Floating Jump Shot,9,99,13,True
+Allen Crabbe,3,8,13,0,Driving Floating Jump Shot,8,-53,64,True
+Allen Crabbe,1,8,41,0,Driving Hook Shot,5,47,25,True
+Allen Crabbe,1,8,20,1,Driving Hook Shot,4,-38,18,True
+Allen Crabbe,3,4,42,0,Driving Layup Shot,1,-13,3,True
+Allen Crabbe,1,10,10,1,Driving Layup Shot,3,33,16,True
+Allen Crabbe,1,9,2,1,Driving Layup Shot,0,-5,-5,True
+Allen Crabbe,3,6,7,0,Driving Layup Shot,4,2,45,True
+Allen Crabbe,1,8,31,1,Driving Layup Shot,4,43,-8,True
+Allen Crabbe,1,9,30,1,Driving Layup Shot,6,-2,68,True
+Allen Crabbe,4,4,48,1,Driving Layup Shot,1,3,15,True
+Allen Crabbe,3,11,31,1,Driving Layup Shot,1,-19,6,True
+Allen Crabbe,4,0,1,1,Driving Layup Shot,3,-22,27,True
+Allen Crabbe,1,10,33,1,Driving Layup Shot,1,11,14,True
+Allen Crabbe,2,2,58,0,Driving Layup Shot,5,43,31,True
+Allen Crabbe,3,3,9,1,Driving Layup Shot,1,14,-10,True
+Allen Crabbe,3,11,48,0,Driving Layup Shot,12,43,116,True
+Allen Crabbe,4,1,50,1,Driving Layup Shot,1,9,6,True
+Allen Crabbe,1,3,40,0,Driving Layup Shot,0,-5,4,True
+Allen Crabbe,4,6,8,1,Driving Layup Shot,1,8,15,True
+Allen Crabbe,2,5,41,1,Driving Layup Shot,2,24,3,True
+Allen Crabbe,3,6,46,0,Driving Layup Shot,2,-20,4,True
+Allen Crabbe,2,1,35,1,Driving Layup Shot,2,26,7,True
+Allen Crabbe,1,5,49,1,Driving Layup Shot,3,-6,31,True
+Allen Crabbe,4,4,31,1,Driving Layup Shot,2,8,27,True
+Allen Crabbe,2,0,21,1,Driving Layup Shot,2,13,22,True
+Allen Crabbe,4,3,46,1,Driving Layup Shot,2,-22,4,True
+Allen Crabbe,2,4,51,0,Driving Layup Shot,1,-10,5,True
+Allen Crabbe,4,0,9,1,Driving Layup Shot,4,-43,4,True
+Allen Crabbe,4,6,13,1,Driving Layup Shot,1,-3,13,True
+Allen Crabbe,1,6,8,0,Driving Layup Shot,5,-50,16,True
+Allen Crabbe,1,9,47,1,Driving Layup Shot,2,14,16,True
+Allen Crabbe,1,10,30,1,Driving Layup Shot,2,-19,18,True
+Allen Crabbe,4,5,23,1,Driving Layup Shot,0,8,0,True
+Allen Crabbe,1,9,50,1,Driving Layup Shot,1,5,12,True
+Allen Crabbe,3,11,31,0,Driving Layup Shot,7,79,3,True
+Allen Crabbe,4,1,40,1,Driving Layup Shot,1,9,11,True
+Allen Crabbe,1,7,22,1,Driving Layup Shot,1,-17,8,True
+Allen Crabbe,3,6,59,0,Driving Layup Shot,2,13,24,True
+Allen Crabbe,2,2,28,1,Driving Layup Shot,2,-9,23,True
+Allen Crabbe,3,10,39,1,Floating Jump shot,7,-32,72,True
+Allen Crabbe,2,2,46,0,Floating Jump shot,13,30,129,True
+Allen Crabbe,3,5,1,0,Floating Jump shot,6,-31,58,True
+Allen Crabbe,3,11,19,0,Floating Jump shot,11,-32,110,True
+Allen Crabbe,2,5,48,1,Floating Jump shot,9,-59,75,True
+Allen Crabbe,4,8,17,0,Floating Jump shot,12,9,120,True
+Allen Crabbe,2,5,8,0,Floating Jump shot,13,8,135,True
+Allen Crabbe,2,10,33,0,Floating Jump shot,11,-54,102,True
+Allen Crabbe,2,4,10,0,Floating Jump shot,10,67,80,True
+Allen Crabbe,1,7,32,1,Floating Jump shot,13,-27,137,True
+Allen Crabbe,2,11,49,0,Floating Jump shot,14,38,140,True
+Allen Crabbe,1,11,42,0,Floating Jump shot,12,24,122,True
+Allen Crabbe,1,6,57,1,Floating Jump shot,6,-49,36,True
+Allen Crabbe,3,6,16,0,Floating Jump shot,9,79,57,True
+Allen Crabbe,2,1,5,1,Floating Jump shot,3,9,37,True
+Allen Crabbe,1,9,7,1,Floating Jump shot,6,54,32,True
+Allen Crabbe,1,7,45,0,Floating Jump shot,8,33,78,True
+Allen Crabbe,4,7,51,1,Floating Jump shot,8,63,63,True
+Allen Crabbe,1,8,19,0,Floating Jump shot,11,30,115,True
+Allen Crabbe,2,6,38,1,Jump Bank Shot,3,30,17,True
+Allen Crabbe,5,0,54,0,Jump Bank Shot,9,-88,37,True
+Allen Crabbe,1,7,40,1,Jump Bank Shot,13,36,129,True
+Allen Crabbe,2,1,52,1,Jump Shot,27,-109,251,False
+Allen Crabbe,4,3,33,0,Jump Shot,27,70,261,False
+Allen Crabbe,3,7,58,0,Jump Shot,22,-227,12,False
+Allen Crabbe,3,7,27,0,Jump Shot,29,54,289,False
+Allen Crabbe,1,6,17,1,Jump Shot,22,-94,207,True
+Allen Crabbe,2,2,31,0,Jump Shot,25,21,251,False
+Allen Crabbe,4,1,50,0,Jump Shot,25,-10,250,False
+Allen Crabbe,2,1,49,0,Jump Shot,23,-232,4,False
+Allen Crabbe,3,3,48,1,Jump Shot,24,94,225,False
+Allen Crabbe,2,2,53,1,Jump Shot,22,-228,-10,False
+Allen Crabbe,5,3,45,1,Jump Shot,24,-194,142,False
+Allen Crabbe,4,0,12,1,Jump Shot,22,-227,-8,False
+Allen Crabbe,1,11,8,0,Jump Shot,25,-92,237,False
+Allen Crabbe,4,10,52,0,Jump Shot,27,107,250,False
+Allen Crabbe,1,3,57,0,Jump Shot,27,-14,273,False
+Allen Crabbe,3,4,6,1,Jump Shot,24,213,111,False
+Allen Crabbe,5,1,51,0,Jump Shot,24,-86,232,False
+Allen Crabbe,6,1,13,0,Jump Shot,25,213,134,False
+Allen Crabbe,2,3,29,0,Jump Shot,24,-71,239,False
+Allen Crabbe,1,6,54,0,Jump Shot,26,185,195,False
+Allen Crabbe,1,3,13,0,Jump Shot,14,98,101,True
+Allen Crabbe,3,0,58,1,Jump Shot,22,225,5,False
+Allen Crabbe,3,3,7,1,Jump Shot,23,230,43,False
+Allen Crabbe,4,8,57,1,Jump Shot,23,-238,0,False
+Allen Crabbe,4,8,35,1,Jump Shot,22,128,182,True
+Allen Crabbe,4,0,48,0,Jump Shot,25,197,169,False
+Allen Crabbe,3,7,24,0,Jump Shot,25,138,211,False
+Allen Crabbe,4,7,28,1,Jump Shot,26,-223,137,False
+Allen Crabbe,1,10,35,0,Jump Shot,26,116,239,False
+Allen Crabbe,2,7,15,0,Jump Shot,26,221,153,False
+Allen Crabbe,4,5,43,1,Jump Shot,26,214,153,False
+Allen Crabbe,3,8,53,1,Jump Shot,23,-238,14,False
+Allen Crabbe,1,11,5,1,Jump Shot,27,-122,243,False
+Allen Crabbe,3,8,33,0,Jump Shot,24,-205,132,False
+Allen Crabbe,3,7,45,0,Jump Shot,26,-6,268,False
+Allen Crabbe,4,0,18,1,Jump Shot,26,149,220,False
+Allen Crabbe,1,5,40,0,Jump Shot,23,-237,-3,False
+Allen Crabbe,4,7,55,0,Jump Shot,24,245,14,False
+Allen Crabbe,2,6,40,1,Jump Shot,28,-87,270,False
+Allen Crabbe,3,11,0,0,Jump Shot,24,214,113,False
+Allen Crabbe,1,8,44,1,Jump Shot,24,-225,105,False
+Allen Crabbe,3,5,18,0,Jump Shot,24,-221,104,False
+Allen Crabbe,3,8,15,0,Jump Shot,22,-226,-7,False
+Allen Crabbe,2,0,1,0,Jump Shot,67,4,671,False
+Allen Crabbe,4,3,17,0,Jump Shot,25,-32,256,False
+Allen Crabbe,1,11,26,0,Jump Shot,21,215,20,True
+Allen Crabbe,3,5,2,1,Jump Shot,23,235,46,False
+Allen Crabbe,2,2,25,0,Jump Shot,20,-47,197,True
+Allen Crabbe,3,9,18,0,Jump Shot,22,229,11,False
+Allen Crabbe,4,0,45,0,Jump Shot,25,193,169,False
+Allen Crabbe,1,6,46,1,Jump Shot,25,-111,232,False
+Allen Crabbe,3,11,27,0,Jump Shot,27,193,193,False
+Allen Crabbe,2,3,4,0,Jump Shot,24,116,218,False
+Allen Crabbe,3,6,41,1,Jump Shot,22,-226,-12,False
+Allen Crabbe,1,11,6,0,Jump Shot,24,173,180,False
+Allen Crabbe,3,9,10,1,Jump Shot,25,201,162,False
+Allen Crabbe,2,5,39,0,Jump Shot,25,123,221,False
+Allen Crabbe,1,6,3,1,Jump Shot,19,-126,154,True
+Allen Crabbe,1,5,1,1,Jump Shot,25,185,174,False
+Allen Crabbe,4,5,58,0,Jump Shot,25,-15,257,False
+Allen Crabbe,4,3,23,0,Jump Shot,25,-21,256,False
+Allen Crabbe,1,9,0,0,Jump Shot,23,-239,-4,False
+Allen Crabbe,3,6,31,0,Jump Shot,25,-177,178,False
+Allen Crabbe,3,11,39,0,Jump Shot,9,77,58,True
+Allen Crabbe,1,3,25,0,Jump Shot,25,-207,143,False
+Allen Crabbe,3,10,52,1,Jump Shot,24,-206,130,False
+Allen Crabbe,3,4,43,0,Jump Shot,23,234,21,False
+Allen Crabbe,1,9,45,1,Jump Shot,25,-13,253,False
+Allen Crabbe,3,7,38,0,Jump Shot,24,-190,155,False
+Allen Crabbe,1,7,14,0,Jump Shot,22,-197,105,True
+Allen Crabbe,2,1,50,0,Jump Shot,25,-127,223,False
+Allen Crabbe,2,6,21,1,Jump Shot,25,-101,231,False
+Allen Crabbe,2,9,14,1,Jump Shot,23,-221,93,False
+Allen Crabbe,3,10,29,0,Jump Shot,24,188,154,False
+Allen Crabbe,3,8,11,0,Jump Shot,28,-107,260,False
+Allen Crabbe,4,7,12,0,Jump Shot,27,-83,259,False
+Allen Crabbe,1,6,56,1,Jump Shot,27,122,244,False
+Allen Crabbe,1,9,33,0,Jump Shot,25,-25,256,False
+Allen Crabbe,2,0,41,0,Jump Shot,27,-20,272,False
+Allen Crabbe,4,6,9,0,Jump Shot,28,170,224,False
+Allen Crabbe,2,2,5,0,Jump Shot,27,-133,243,False
+Allen Crabbe,1,4,21,1,Jump Shot,22,-223,26,False
+Allen Crabbe,1,6,46,1,Jump Shot,24,-116,220,False
+Allen Crabbe,3,7,55,0,Jump Shot,26,-107,238,False
+Allen Crabbe,2,2,28,1,Jump Shot,26,90,247,False
+Allen Crabbe,4,7,7,1,Jump Shot,28,105,267,False
+Allen Crabbe,1,4,23,0,Jump Shot,26,-77,254,False
+Allen Crabbe,1,10,34,0,Jump Shot,26,-72,256,False
+Allen Crabbe,3,5,9,1,Jump Shot,26,5,266,False
+Allen Crabbe,3,11,19,0,Jump Shot,21,203,72,True
+Allen Crabbe,4,8,4,1,Jump Shot,29,148,260,False
+Allen Crabbe,1,7,21,0,Jump Shot,29,-144,257,False
+Allen Crabbe,2,4,34,1,Jump Shot,25,82,238,False
+Allen Crabbe,3,10,50,0,Jump Shot,27,143,232,False
+Allen Crabbe,2,3,54,0,Jump Shot,27,36,274,False
+Allen Crabbe,1,6,21,1,Jump Shot,25,-134,212,False
+Allen Crabbe,1,10,47,1,Jump Shot,24,158,186,False
+Allen Crabbe,1,11,39,0,Jump Shot,22,223,21,False
+Allen Crabbe,1,8,9,1,Jump Shot,25,102,237,False
+Allen Crabbe,1,3,36,1,Jump Shot,24,194,146,False
+Allen Crabbe,4,3,59,0,Jump Shot,24,2,242,False
+Allen Crabbe,1,5,34,1,Jump Shot,25,162,194,False
+Allen Crabbe,3,4,32,1,Jump Shot,25,187,176,False
+Allen Crabbe,1,3,11,0,Jump Shot,26,-28,264,False
+Allen Crabbe,2,0,58,1,Jump Shot,26,207,168,False
+Allen Crabbe,2,2,3,0,Jump Shot,24,-174,177,False
+Allen Crabbe,2,6,58,0,Jump Shot,25,128,221,False
+Allen Crabbe,3,6,7,1,Jump Shot,22,226,37,False
+Allen Crabbe,3,8,5,1,Jump Shot,25,-25,252,False
+Allen Crabbe,3,5,32,0,Jump Shot,22,221,15,False
+Allen Crabbe,2,4,56,0,Jump Shot,27,169,215,False
+Allen Crabbe,3,9,54,1,Jump Shot,23,233,46,False
+Allen Crabbe,1,8,58,1,Jump Shot,24,-95,229,False
+Allen Crabbe,1,11,14,0,Jump Shot,26,-183,190,False
+Allen Crabbe,2,0,5,0,Jump Shot,26,150,216,False
+Allen Crabbe,3,8,33,1,Jump Shot,25,-47,254,False
+Allen Crabbe,3,11,25,0,Jump Shot,25,108,232,False
+Allen Crabbe,2,5,12,0,Jump Shot,25,55,252,False
+Allen Crabbe,3,11,21,1,Jump Shot,27,197,193,False
+Allen Crabbe,3,7,44,1,Jump Shot,27,168,216,False
+Allen Crabbe,4,0,38,0,Jump Shot,26,27,268,False
+Allen Crabbe,2,6,26,0,Jump Shot,27,98,252,False
+Allen Crabbe,4,1,18,1,Jump Shot,26,210,156,False
+Allen Crabbe,1,9,10,1,Jump Shot,27,-122,242,False
+Allen Crabbe,3,5,42,0,Jump Shot,25,224,114,False
+Allen Crabbe,2,8,17,0,Jump Shot,27,218,164,False
+Allen Crabbe,2,5,15,0,Jump Shot,28,-123,260,False
+Allen Crabbe,3,9,21,1,Jump Shot,18,-14,187,True
+Allen Crabbe,4,2,43,1,Jump Shot,28,-8,282,False
+Allen Crabbe,2,6,20,0,Jump Shot,25,-58,251,False
+Allen Crabbe,3,10,59,0,Jump Shot,25,184,179,False
+Allen Crabbe,2,2,46,0,Jump Shot,26,3,260,False
+Allen Crabbe,4,1,54,0,Jump Shot,24,204,137,False
+Allen Crabbe,1,11,14,1,Jump Shot,30,128,278,False
+Allen Crabbe,4,6,55,0,Jump Shot,26,95,248,False
+Allen Crabbe,3,10,14,0,Jump Shot,27,-111,252,False
+Allen Crabbe,3,4,43,1,Jump Shot,26,-50,265,False
+Allen Crabbe,1,9,22,0,Jump Shot,25,-223,119,False
+Allen Crabbe,3,5,41,1,Jump Shot,24,-231,74,False
+Allen Crabbe,4,3,57,0,Jump Shot,22,226,10,False
+Allen Crabbe,1,4,13,0,Jump Shot,24,214,128,False
+Allen Crabbe,2,4,25,0,Jump Shot,26,-115,237,False
+Allen Crabbe,4,5,3,0,Jump Shot,24,23,243,False
+Allen Crabbe,3,7,38,0,Jump Shot,24,-27,240,False
+Allen Crabbe,3,7,4,1,Jump Shot,26,-42,261,False
+Allen Crabbe,4,1,23,1,Jump Shot,28,136,256,False
+Allen Crabbe,1,11,34,1,Jump Shot,26,107,247,False
+Allen Crabbe,2,1,33,1,Jump Shot,27,-175,214,False
+Allen Crabbe,3,9,41,1,Jump Shot,24,-27,247,False
+Allen Crabbe,3,8,14,1,Jump Shot,25,-5,257,False
+Allen Crabbe,1,10,22,0,Jump Shot,26,-11,265,False
+Allen Crabbe,1,11,13,0,Jump Shot,22,226,5,False
+Allen Crabbe,3,9,29,0,Jump Shot,24,-74,237,False
+Allen Crabbe,1,8,32,0,Jump Shot,15,3,152,True
+Allen Crabbe,1,5,38,0,Jump Shot,25,-1,252,False
+Allen Crabbe,4,4,11,1,Jump Shot,26,159,208,False
+Allen Crabbe,2,2,13,1,Jump Shot,26,-150,216,False
+Allen Crabbe,3,7,16,1,Jump Shot,25,16,250,False
+Allen Crabbe,2,2,8,1,Jump Shot,22,220,8,False
+Allen Crabbe,4,5,0,1,Jump Shot,24,-3,248,False
+Allen Crabbe,3,8,36,0,Jump Shot,23,229,26,False
+Allen Crabbe,4,4,29,0,Jump Shot,22,-226,40,False
+Allen Crabbe,2,0,33,0,Jump Shot,24,227,80,False
+Allen Crabbe,1,8,54,0,Jump Shot,20,85,182,True
+Allen Crabbe,1,11,15,0,Jump Shot,26,-75,253,False
+Allen Crabbe,2,1,4,0,Jump Shot,26,76,257,False
+Allen Crabbe,3,10,49,0,Jump Shot,23,230,31,False
+Allen Crabbe,3,10,16,1,Jump Shot,26,160,215,False
+Allen Crabbe,4,2,34,0,Jump Shot,23,230,15,False
+Allen Crabbe,1,5,11,1,Jump Shot,26,134,225,False
+Allen Crabbe,3,7,16,0,Jump Shot,24,216,125,False
+Allen Crabbe,1,8,24,0,Jump Shot,27,39,276,False
+Allen Crabbe,3,8,12,0,Jump Shot,26,220,150,False
+Allen Crabbe,3,6,16,0,Jump Shot,25,-198,164,False
+Allen Crabbe,2,1,21,0,Jump Shot,25,-157,200,False
+Allen Crabbe,1,8,6,0,Jump Shot,16,73,147,True
+Allen Crabbe,1,7,26,0,Jump Shot,26,70,256,False
+Allen Crabbe,2,0,2,1,Jump Shot,19,-43,191,True
+Allen Crabbe,4,6,20,0,Jump Shot,25,-9,250,False
+Allen Crabbe,1,3,55,0,Jump Shot,23,231,52,False
+Allen Crabbe,2,3,55,0,Jump Shot,23,-231,20,False
+Allen Crabbe,1,9,38,0,Jump Shot,26,-185,184,False
+Allen Crabbe,1,5,35,1,Jump Shot,26,-57,256,False
+Allen Crabbe,2,1,37,0,Jump Shot,27,-84,257,False
+Allen Crabbe,3,5,55,1,Jump Shot,25,14,256,False
+Allen Crabbe,3,9,54,1,Jump Shot,28,66,274,False
+Allen Crabbe,1,4,3,0,Jump Shot,24,73,239,False
+Allen Crabbe,2,5,0,1,Jump Shot,27,-49,267,False
+Allen Crabbe,3,5,26,0,Jump Shot,22,-223,13,False
+Allen Crabbe,1,10,49,1,Jump Shot,23,-226,65,False
+Allen Crabbe,2,2,0,1,Jump Shot,25,211,137,False
+Allen Crabbe,3,10,30,1,Jump Shot,22,172,140,True
+Allen Crabbe,4,4,9,1,Jump Shot,24,192,154,False
+Allen Crabbe,4,3,40,0,Jump Shot,25,138,216,False
+Allen Crabbe,4,5,22,0,Jump Shot,25,-93,240,False
+Allen Crabbe,1,4,6,1,Jump Shot,23,-232,32,False
+Allen Crabbe,2,0,0,0,Jump Shot,70,-107,698,False
+Allen Crabbe,1,9,53,0,Jump Shot,25,-14,256,False
+Allen Crabbe,2,7,22,0,Jump Shot,26,-136,232,False
+Allen Crabbe,3,6,26,0,Jump Shot,27,100,257,False
+Allen Crabbe,4,9,16,0,Jump Shot,25,-169,195,False
+Allen Crabbe,4,3,52,0,Jump Shot,23,231,42,False
+Allen Crabbe,2,9,29,0,Jump Shot,24,195,140,False
+Allen Crabbe,2,10,5,0,Jump Shot,25,-122,229,False
+Allen Crabbe,1,10,42,1,Jump Shot,24,-125,214,False
+Allen Crabbe,3,4,24,0,Jump Shot,26,-169,210,False
+Allen Crabbe,1,10,14,1,Jump Shot,23,10,239,False
+Allen Crabbe,4,1,16,0,Jump Shot,25,19,253,False
+Allen Crabbe,4,3,56,0,Jump Shot,25,-133,214,False
+Allen Crabbe,2,8,51,0,Jump Shot,26,-112,236,False
+Allen Crabbe,2,6,23,0,Jump Shot,24,125,216,False
+Allen Crabbe,4,7,21,1,Jump Shot,25,-117,222,False
+Allen Crabbe,3,5,47,0,Jump Shot,24,217,121,False
+Allen Crabbe,3,3,14,1,Jump Shot,25,-32,251,False
+Allen Crabbe,1,0,0,0,Jump Shot,25,-193,168,False
+Allen Crabbe,1,0,28,1,Jump Shot,22,-228,-1,False
+Allen Crabbe,2,8,31,1,Jump Shot,23,226,73,False
+Allen Crabbe,2,10,12,0,Jump Shot,24,120,219,False
+Allen Crabbe,3,3,3,0,Jump Shot,25,184,173,False
+Allen Crabbe,2,11,9,1,Jump Shot,25,-4,253,False
+Allen Crabbe,3,11,39,1,Jump Shot,25,-36,249,False
+Allen Crabbe,3,7,43,1,Jump Shot,24,-58,237,False
+Allen Crabbe,3,8,41,0,Jump Shot,24,190,153,False
+Allen Crabbe,3,4,31,0,Jump Shot,24,198,138,False
+Allen Crabbe,4,4,20,0,Jump Shot,25,-11,251,False
+Allen Crabbe,2,4,39,0,Jump Shot,17,103,142,True
+Allen Crabbe,3,11,4,0,Jump Shot,25,-128,220,False
+Allen Crabbe,1,9,1,1,Jump Shot,24,-105,225,False
+Allen Crabbe,2,7,55,1,Jump Shot,25,-4,251,False
+Allen Crabbe,3,9,5,0,Jump Shot,25,-229,101,False
+Allen Crabbe,3,11,43,0,Jump Shot,26,-90,248,False
+Allen Crabbe,2,6,10,1,Jump Shot,11,-115,31,True
+Allen Crabbe,3,8,34,1,Jump Shot,25,-127,218,False
+Allen Crabbe,1,7,26,0,Jump Shot,28,-112,263,False
+Allen Crabbe,3,7,1,1,Jump Shot,22,-220,-20,False
+Allen Crabbe,1,10,45,1,Jump Shot,24,46,243,False
+Allen Crabbe,4,0,29,0,Jump Shot,17,116,135,True
+Allen Crabbe,3,8,5,0,Jump Shot,25,-8,257,False
+Allen Crabbe,4,1,11,1,Jump Shot,26,132,230,False
+Allen Crabbe,3,8,7,1,Jump Shot,25,-107,226,False
+Allen Crabbe,1,6,21,0,Jump Shot,24,-149,197,False
+Allen Crabbe,1,5,4,1,Jump Shot,20,-136,151,True
+Allen Crabbe,2,1,59,0,Jump Shot,24,207,128,False
+Allen Crabbe,4,1,42,1,Jump Shot,24,207,136,False
+Allen Crabbe,3,9,35,0,Jump Shot,23,223,77,False
+Allen Crabbe,2,4,39,0,Jump Shot,23,201,131,False
+Allen Crabbe,3,4,20,1,Jump Shot,24,-131,206,False
+Allen Crabbe,2,3,35,1,Jump Shot,24,218,116,False
+Allen Crabbe,3,9,56,1,Jump Shot,24,221,101,False
+Allen Crabbe,4,4,28,1,Jump Shot,24,-78,236,False
+Allen Crabbe,2,6,51,0,Jump Shot,25,-101,229,False
+Allen Crabbe,3,11,15,1,Jump Shot,25,149,201,False
+Allen Crabbe,1,11,42,0,Jump Shot,24,138,208,False
+Allen Crabbe,2,7,57,0,Jump Shot,26,54,258,False
+Allen Crabbe,2,0,54,0,Jump Shot,24,-59,242,False
+Allen Crabbe,3,4,18,0,Jump Shot,24,176,164,False
+Allen Crabbe,2,5,43,0,Jump Shot,27,142,231,False
+Allen Crabbe,3,9,38,1,Jump Shot,24,189,152,False
+Allen Crabbe,4,4,4,1,Jump Shot,24,113,222,False
+Allen Crabbe,4,4,35,1,Jump Shot,25,-190,165,False
+Allen Crabbe,2,0,53,1,Jump Shot,24,149,199,False
+Allen Crabbe,2,3,15,0,Jump Shot,25,209,148,False
+Allen Crabbe,2,6,53,1,Jump Shot,25,-92,235,False
+Allen Crabbe,2,3,48,0,Jump Shot,24,143,201,False
+Allen Crabbe,4,0,30,0,Jump Shot,22,-209,90,True
+Allen Crabbe,2,6,58,0,Jump Shot,24,-17,248,False
+Allen Crabbe,4,0,13,0,Jump Shot,22,228,-27,False
+Allen Crabbe,3,6,47,1,Jump Shot,21,-109,187,True
+Allen Crabbe,1,3,36,0,Jump Shot,26,5,269,False
+Allen Crabbe,1,8,8,1,Jump Shot,24,135,202,False
+Allen Crabbe,3,6,0,0,Jump Shot,24,-134,208,False
+Allen Crabbe,1,5,18,1,Jump Shot,24,-34,246,False
+Allen Crabbe,2,4,45,0,Jump Shot,26,-128,227,False
+Allen Crabbe,1,8,47,0,Jump Shot,24,-136,206,False
+Allen Crabbe,1,9,13,0,Jump Shot,25,-157,206,False
+Allen Crabbe,3,10,30,0,Jump Shot,25,-138,218,False
+Allen Crabbe,2,4,11,0,Jump Shot,25,-193,170,False
+Allen Crabbe,1,7,52,1,Jump Shot,25,-165,199,False
+Allen Crabbe,1,5,36,0,Jump Shot,25,182,172,False
+Allen Crabbe,2,1,4,0,Jump Shot,22,-229,-1,False
+Allen Crabbe,2,3,8,0,Jump Shot,25,-84,239,False
+Allen Crabbe,2,9,48,1,Jump Shot,25,-206,155,False
+Allen Crabbe,4,8,5,1,Jump Shot,20,11,200,True
+Allen Crabbe,1,9,12,0,Jump Shot,24,54,244,False
+Allen Crabbe,1,11,20,1,Jump Shot,24,-214,127,False
+Allen Crabbe,3,0,41,1,Jump Shot,26,29,262,False
+Allen Crabbe,1,10,51,0,Jump Shot,22,-65,216,True
+Allen Crabbe,3,1,42,1,Jump Shot,17,-4,172,True
+Allen Crabbe,4,2,45,0,Jump Shot,24,-171,179,False
+Allen Crabbe,4,8,36,0,Jump Shot,25,-24,258,False
+Allen Crabbe,1,5,48,0,Jump Shot,6,8,69,True
+Allen Crabbe,1,0,21,1,Jump Shot,25,213,135,False
+Allen Crabbe,1,2,33,0,Jump Shot,26,-127,237,False
+Allen Crabbe,1,0,37,0,Jump Shot,25,191,162,False
+Allen Crabbe,2,6,58,1,Jump Shot,26,47,262,False
+Allen Crabbe,3,6,10,0,Jump Shot,17,-175,7,True
+Allen Crabbe,3,3,54,1,Jump Shot,25,-141,218,False
+Allen Crabbe,4,0,38,0,Jump Shot,25,-13,256,False
+Allen Crabbe,3,2,58,1,Jump Shot,25,-49,248,False
+Allen Crabbe,1,4,11,0,Jump Shot,21,196,91,True
+Allen Crabbe,2,7,16,0,Jump Shot,25,89,242,False
+Allen Crabbe,3,2,5,0,Jump Shot,24,-32,246,False
+Allen Crabbe,4,11,45,0,Jump Shot,22,226,0,False
+Allen Crabbe,1,7,51,0,Jump Shot,30,-137,272,False
+Allen Crabbe,2,1,53,1,Jump Shot,26,-197,174,False
+Allen Crabbe,3,6,41,0,Jump Shot,29,100,276,False
+Allen Crabbe,2,2,54,0,Jump Shot,25,87,238,False
+Allen Crabbe,3,5,11,0,Jump Shot,22,109,193,True
+Allen Crabbe,1,3,16,0,Jump Shot,25,190,165,False
+Allen Crabbe,4,3,7,0,Jump Shot,16,-65,156,True
+Allen Crabbe,3,6,33,1,Jump Shot,28,-139,251,False
+Allen Crabbe,3,5,58,0,Jump Shot,23,234,48,False
+Allen Crabbe,1,4,54,0,Jump Shot,26,-187,184,False
+Allen Crabbe,2,3,34,0,Jump Shot,30,-170,248,False
+Allen Crabbe,3,4,22,1,Jump Shot,24,-187,161,False
+Allen Crabbe,1,1,7,0,Jump Shot,28,-120,256,False
+Allen Crabbe,3,3,5,0,Jump Shot,26,-27,264,False
+Allen Crabbe,4,3,47,1,Jump Shot,25,101,237,False
+Allen Crabbe,4,0,53,0,Jump Shot,24,179,172,False
+Allen Crabbe,2,0,52,0,Jump Shot,26,159,206,False
+Allen Crabbe,2,3,42,0,Jump Shot,24,237,48,False
+Allen Crabbe,1,1,9,1,Jump Shot,26,-13,260,False
+Allen Crabbe,3,2,47,0,Jump Shot,27,-61,265,False
+Allen Crabbe,4,2,11,0,Jump Shot,27,-51,270,False
+Allen Crabbe,4,5,13,0,Jump Shot,25,214,137,False
+Allen Crabbe,4,0,6,0,Jump Shot,14,-82,125,True
+Allen Crabbe,2,2,2,0,Jump Shot,17,-129,124,True
+Allen Crabbe,3,2,17,0,Jump Shot,22,-179,139,True
+Allen Crabbe,2,1,17,0,Jump Shot,24,188,156,False
+Allen Crabbe,1,0,40,1,Jump Shot,22,220,67,False
+Allen Crabbe,1,4,53,1,Jump Shot,24,83,227,False
+Allen Crabbe,2,0,3,0,Jump Shot,22,225,0,False
+Allen Crabbe,1,2,6,0,Jump Shot,22,225,-5,False
+Allen Crabbe,3,1,4,1,Jump Shot,21,178,116,True
+Allen Crabbe,4,4,37,1,Jump Shot,25,176,178,False
+Allen Crabbe,1,8,47,0,Jump Shot,25,-127,217,False
+Allen Crabbe,3,6,30,0,Jump Shot,23,221,85,False
+Allen Crabbe,1,7,20,0,Jump Shot,23,-186,143,True
+Allen Crabbe,3,8,19,1,Jump Shot,26,74,251,False
+Allen Crabbe,3,9,45,0,Jump Shot,24,-189,157,False
+Allen Crabbe,1,4,14,1,Jump Shot,26,-212,155,False
+Allen Crabbe,1,3,15,0,Jump Shot,26,-210,158,False
+Allen Crabbe,3,5,44,1,Jump Shot,29,112,277,False
+Allen Crabbe,1,7,20,0,Jump Shot,24,-49,235,False
+Allen Crabbe,4,9,58,0,Jump Shot,25,177,184,False
+Allen Crabbe,1,6,28,0,Jump Shot,26,95,247,False
+Allen Crabbe,3,11,14,1,Jump Shot,24,-167,179,False
+Allen Crabbe,1,8,0,1,Jump Shot,26,122,231,False
+Allen Crabbe,3,8,39,0,Jump Shot,24,241,21,False
+Allen Crabbe,4,6,16,0,Jump Shot,22,-225,-7,False
+Allen Crabbe,1,10,28,0,Jump Shot,28,-152,238,False
+Allen Crabbe,1,8,40,0,Jump Shot,24,180,165,False
+Allen Crabbe,3,11,5,0,Jump Shot,24,-179,164,False
+Allen Crabbe,4,6,42,0,Jump Shot,22,-222,-10,False
+Allen Crabbe,1,5,5,0,Jump Shot,24,136,204,False
+Allen Crabbe,4,7,46,1,Jump Shot,24,141,201,False
+Allen Crabbe,4,0,22,1,Jump Shot,26,-22,264,False
+Allen Crabbe,4,0,7,0,Jump Shot,26,41,262,False
+Allen Crabbe,4,6,18,1,Jump Shot,27,-25,269,False
+Allen Crabbe,4,4,30,0,Jump Shot,25,216,130,False
+Allen Crabbe,1,5,53,1,Jump Shot,25,142,215,False
+Allen Crabbe,1,6,8,0,Jump Shot,26,-174,199,False
+Allen Crabbe,5,0,2,0,Jump Shot,31,174,266,False
+Allen Crabbe,4,2,42,1,Jump Shot,26,-96,242,False
+Allen Crabbe,4,4,58,0,Jump Shot,25,-67,250,False
+Allen Crabbe,3,5,37,0,Jump Shot,21,-140,157,True
+Allen Crabbe,2,6,11,0,Jump Shot,27,-120,251,False
+Allen Crabbe,1,4,3,0,Jump Shot,29,-169,241,False
+Allen Crabbe,3,9,37,0,Jump Shot,27,153,230,False
+Allen Crabbe,2,4,29,0,Jump Shot,24,233,75,False
+Allen Crabbe,4,6,28,1,Jump Shot,26,101,243,False
+Allen Crabbe,4,3,12,1,Jump Shot,25,166,193,False
+Allen Crabbe,2,9,54,1,Jump Shot,25,-52,245,False
+Allen Crabbe,3,6,0,0,Jump Shot,24,90,232,False
+Allen Crabbe,1,5,58,0,Jump Shot,18,181,19,True
+Allen Crabbe,2,7,30,0,Jump Shot,22,-227,-11,False
+Allen Crabbe,1,3,10,0,Jump Shot,21,78,195,True
+Allen Crabbe,4,3,15,0,Jump Shot,23,232,-24,False
+Allen Crabbe,1,9,24,1,Jump Shot,16,-3,164,True
+Allen Crabbe,3,4,17,0,Jump Shot,24,-224,107,False
+Allen Crabbe,1,3,30,0,Jump Shot,24,222,111,False
+Allen Crabbe,1,8,13,0,Jump Shot,25,-49,246,False
+Allen Crabbe,2,2,51,1,Jump Shot,22,-225,-8,False
+Allen Crabbe,2,3,31,1,Jump Shot,26,-153,211,False
+Allen Crabbe,1,11,41,1,Jump Shot,24,180,169,False
+Allen Crabbe,3,4,11,1,Jump Shot,24,-44,243,False
+Allen Crabbe,1,10,38,1,Jump Shot,24,108,223,False
+Allen Crabbe,3,9,5,0,Jump Shot,20,-205,1,True
+Allen Crabbe,1,7,37,1,Jump Shot,25,16,252,False
+Allen Crabbe,2,1,0,1,Jump Shot,26,-47,259,False
+Allen Crabbe,1,10,36,0,Jump Shot,18,148,119,True
+Allen Crabbe,2,3,55,1,Jump Shot,27,-158,225,False
+Allen Crabbe,1,2,53,0,Jump Shot,26,-27,264,False
+Allen Crabbe,2,2,52,0,Jump Shot,22,-52,217,True
+Allen Crabbe,2,4,52,1,Jump Shot,25,-221,123,False
+Allen Crabbe,3,11,42,0,Jump Shot,25,-120,221,False
+Allen Crabbe,3,8,31,0,Jump Shot,25,119,225,False
+Allen Crabbe,1,10,2,1,Jump Shot,25,-180,183,False
+Allen Crabbe,3,11,44,1,Jump Shot,24,128,210,False
+Allen Crabbe,2,7,4,0,Jump Shot,13,-125,59,True
+Allen Crabbe,2,5,34,1,Jump Shot,25,-104,236,False
+Allen Crabbe,3,9,27,1,Jump Shot,23,230,47,False
+Allen Crabbe,1,10,46,0,Jump Shot,25,193,165,False
+Allen Crabbe,1,8,32,1,Jump Shot,23,-236,29,False
+Allen Crabbe,3,7,51,0,Jump Shot,26,172,197,False
+Allen Crabbe,4,9,43,0,Jump Shot,27,-26,276,False
+Allen Crabbe,2,5,22,0,Jump Shot,25,-161,200,False
+Allen Crabbe,2,10,2,0,Jump Shot,25,-215,131,False
+Allen Crabbe,4,5,26,1,Jump Shot,27,149,235,False
+Allen Crabbe,3,9,58,0,Jump Shot,25,-200,152,False
+Allen Crabbe,4,6,49,0,Jump Shot,25,-69,242,False
+Allen Crabbe,3,11,36,0,Jump Shot,26,-172,206,False
+Allen Crabbe,4,1,16,0,Jump Shot,27,-168,216,False
+Allen Crabbe,4,0,2,0,Jump Shot,26,-128,230,False
+Allen Crabbe,4,9,46,0,Jump Shot,26,93,248,False
+Allen Crabbe,2,11,35,0,Jump Shot,26,224,132,False
+Allen Crabbe,3,11,42,1,Jump Shot,28,-142,249,False
+Allen Crabbe,4,7,9,0,Jump Shot,27,-139,237,False
+Allen Crabbe,2,6,37,0,Jump Shot,25,-93,237,False
+Allen Crabbe,1,8,36,1,Jump Shot,17,76,161,True
+Allen Crabbe,1,7,40,0,Jump Shot,24,-4,247,False
+Allen Crabbe,3,11,10,0,Jump Shot,24,-103,222,False
+Allen Crabbe,1,10,33,1,Jump Shot,26,174,197,False
+Allen Crabbe,1,9,40,0,Jump Shot,25,-109,236,False
+Allen Crabbe,3,9,3,0,Jump Shot,24,-193,155,False
+Allen Crabbe,2,5,35,0,Jump Shot,25,-9,253,False
+Allen Crabbe,1,5,4,0,Jump Shot,9,30,92,True
+Allen Crabbe,3,8,55,1,Jump Shot,24,-60,239,False
+Allen Crabbe,4,2,48,0,Jump Shot,25,201,163,False
+Allen Crabbe,2,7,37,1,Jump Shot,25,-16,254,False
+Allen Crabbe,3,7,31,0,Jump Shot,24,-226,101,False
+Allen Crabbe,2,5,47,1,Jump Shot,25,-23,254,False
+Allen Crabbe,4,7,4,1,Jump Shot,24,-209,122,False
+Allen Crabbe,1,6,12,1,Jump Shot,21,-114,186,True
+Allen Crabbe,1,10,22,0,Jump Shot,23,-232,36,False
+Allen Crabbe,2,9,30,0,Jump Shot,29,-169,237,False
+Allen Crabbe,3,6,16,0,Jump Shot,26,-9,264,False
+Allen Crabbe,4,1,23,1,Jump Shot,26,-6,263,False
+Allen Crabbe,1,8,16,0,Jump Shot,20,-172,115,True
+Allen Crabbe,1,7,4,0,Jump Shot,22,225,12,False
+Allen Crabbe,3,6,19,0,Jump Shot,25,-199,163,False
+Allen Crabbe,1,5,40,1,Jump Shot,25,211,138,False
+Allen Crabbe,1,9,46,0,Jump Shot,26,215,151,False
+Allen Crabbe,2,8,36,0,Jump Shot,27,-19,275,False
+Allen Crabbe,4,3,7,0,Jump Shot,22,-225,35,False
+Allen Crabbe,4,0,53,0,Jump Shot,18,-117,141,True
+Allen Crabbe,3,10,6,0,Jump Shot,26,-158,210,False
+Allen Crabbe,3,9,16,1,Jump Shot,25,214,134,False
+Allen Crabbe,1,0,34,0,Jump Shot,28,-127,258,False
+Allen Crabbe,4,9,10,0,Jump Shot,26,208,168,False
+Allen Crabbe,1,10,54,0,Jump Shot,21,0,218,True
+Allen Crabbe,3,0,57,0,Jump Shot,26,-21,262,False
+Allen Crabbe,4,9,43,1,Jump Shot,22,-226,17,False
+Allen Crabbe,1,4,18,0,Jump Shot,22,227,6,False
+Allen Crabbe,1,5,9,0,Jump Shot,27,-132,241,False
+Allen Crabbe,1,6,11,1,Jump Shot,25,206,146,False
+Allen Crabbe,2,2,25,1,Jump Shot,26,-149,216,False
+Allen Crabbe,1,4,42,1,Jump Shot,30,-210,220,False
+Allen Crabbe,2,5,31,0,Jump Shot,25,-22,258,False
+Allen Crabbe,1,9,31,1,Jump Shot,25,165,199,False
+Allen Crabbe,1,11,26,0,Jump Shot,27,-104,257,False
+Allen Crabbe,4,0,59,0,Jump Shot,25,-19,255,False
+Allen Crabbe,1,8,21,0,Jump Shot,27,-185,197,False
+Allen Crabbe,3,7,46,1,Jump Shot,24,-27,241,False
+Allen Crabbe,3,10,55,1,Jump Shot,26,185,189,False
+Allen Crabbe,1,7,36,1,Jump Shot,26,-16,263,False
+Allen Crabbe,2,10,53,0,Jump Shot,27,-76,268,False
+Allen Crabbe,4,11,36,0,Jump Shot,26,36,264,False
+Allen Crabbe,4,0,44,1,Jump Shot,25,32,253,False
+Allen Crabbe,1,11,32,0,Jump Shot,25,-36,253,False
+Allen Crabbe,3,7,41,0,Jump Shot,26,-209,161,False
+Allen Crabbe,3,3,31,0,Jump Shot,25,-193,168,False
+Allen Crabbe,1,10,34,0,Jump Shot,26,168,200,False
+Allen Crabbe,2,9,38,0,Jump Shot,25,151,211,False
+Allen Crabbe,4,9,6,0,Layup Shot,6,-55,26,True
+Allen Crabbe,3,1,48,0,Layup Shot,3,-33,21,True
+Allen Crabbe,1,7,48,0,Layup Shot,2,0,21,True
+Allen Crabbe,2,2,11,1,Layup Shot,1,11,0,True
+Allen Crabbe,3,5,59,1,Layup Shot,1,-3,14,True
+Allen Crabbe,1,5,11,1,Layup Shot,1,16,4,True
+Allen Crabbe,3,4,58,0,Layup Shot,4,-27,30,True
+Allen Crabbe,4,3,13,0,Layup Shot,2,10,27,True
+Allen Crabbe,2,0,3,0,Layup Shot,3,-20,31,True
+Allen Crabbe,2,0,48,0,Layup Shot,2,-6,29,True
+Allen Crabbe,3,5,56,0,Layup Shot,2,-9,21,True
+Allen Crabbe,3,3,36,1,Layup Shot,2,18,9,True
+Allen Crabbe,2,8,51,1,Layup Shot,1,-8,13,True
+Allen Crabbe,4,6,36,1,Layup Shot,3,2,31,True
+Allen Crabbe,1,5,35,1,Layup Shot,6,58,37,True
+Allen Crabbe,2,5,43,0,Layup Shot,1,-1,12,True
+Allen Crabbe,3,7,23,0,Pullup Jump shot,15,-152,33,True
+Allen Crabbe,1,6,26,1,Pullup Jump shot,21,-16,211,True
+Allen Crabbe,5,4,2,0,Pullup Jump shot,15,-11,152,True
+Allen Crabbe,1,9,49,1,Pullup Jump shot,23,226,52,False
+Allen Crabbe,3,8,0,1,Pullup Jump shot,20,17,204,True
+Allen Crabbe,1,8,17,1,Pullup Jump shot,19,-147,122,True
+Allen Crabbe,3,11,20,0,Pullup Jump shot,15,-150,-27,True
+Allen Crabbe,1,10,34,0,Pullup Jump shot,20,58,199,True
+Allen Crabbe,1,5,41,0,Pullup Jump shot,18,35,184,True
+Allen Crabbe,3,9,3,1,Pullup Jump shot,23,-230,-17,False
+Allen Crabbe,3,8,52,0,Pullup Jump shot,24,-112,219,False
+Allen Crabbe,1,7,25,0,Pullup Jump shot,20,3,200,True
+Allen Crabbe,3,2,29,1,Pullup Jump shot,17,-109,143,True
+Allen Crabbe,2,3,6,0,Pullup Jump shot,24,71,235,False
+Allen Crabbe,2,0,58,0,Pullup Jump shot,25,-149,209,False
+Allen Crabbe,3,10,0,1,Pullup Jump shot,17,-58,162,True
+Allen Crabbe,3,4,19,0,Pullup Jump shot,20,-121,164,True
+Allen Crabbe,3,3,48,1,Pullup Jump shot,27,107,250,False
+Allen Crabbe,5,2,28,1,Pullup Jump shot,28,-134,257,False
+Allen Crabbe,1,11,7,0,Pullup Jump shot,21,-122,172,True
+Allen Crabbe,2,1,48,0,Pullup Jump shot,16,-164,10,True
+Allen Crabbe,1,9,54,0,Pullup Jump shot,26,79,254,False
+Allen Crabbe,1,10,26,1,Pullup Jump shot,21,97,195,True
+Allen Crabbe,1,9,10,0,Pullup Jump shot,17,92,151,True
+Allen Crabbe,2,6,52,0,Pullup Jump shot,15,-37,153,True
+Allen Crabbe,3,8,6,0,Pullup Jump shot,23,19,233,True
+Allen Crabbe,4,3,52,1,Pullup Jump shot,13,45,129,True
+Allen Crabbe,1,11,34,0,Pullup Jump shot,19,75,180,True
+Allen Crabbe,4,10,46,1,Pullup Jump shot,27,-63,266,False
+Allen Crabbe,3,4,36,0,Pullup Jump shot,23,131,197,True
+Allen Crabbe,2,2,10,0,Pullup Jump shot,8,-79,40,True
+Allen Crabbe,2,2,56,1,Pullup Jump shot,16,-90,139,True
+Allen Crabbe,1,11,23,0,Pullup Jump shot,14,78,117,True
+Allen Crabbe,1,5,13,0,Pullup Jump shot,21,-120,184,True
+Allen Crabbe,2,1,24,0,Pullup Jump shot,20,-22,203,True
+Allen Crabbe,3,5,59,1,Pullup Jump shot,23,226,64,False
+Allen Crabbe,1,11,22,0,Pullup Jump shot,24,105,226,False
+Allen Crabbe,2,7,7,0,Pullup Jump shot,25,-82,237,False
+Allen Crabbe,3,7,38,0,Pullup Jump shot,18,-84,160,True
+Allen Crabbe,3,2,40,0,Pullup Jump shot,25,-74,248,False
+Allen Crabbe,1,8,12,0,Pullup Jump shot,23,187,150,False
+Allen Crabbe,2,3,49,1,Pullup Jump shot,20,-19,206,True
+Allen Crabbe,1,6,52,0,Pullup Jump shot,27,-92,262,False
+Allen Crabbe,3,6,13,0,Pullup Jump shot,22,189,121,True
+Allen Crabbe,4,0,14,0,Pullup Jump shot,25,-1,259,False
+Allen Crabbe,3,11,4,0,Pullup Jump shot,7,-27,75,True
+Allen Crabbe,2,1,35,0,Pullup Jump shot,24,130,213,False
+Allen Crabbe,2,3,58,0,Pullup Jump shot,24,224,106,False
+Allen Crabbe,3,7,15,0,Pullup Jump shot,20,-112,177,True
+Allen Crabbe,2,8,23,1,Pullup Jump shot,26,77,252,False
+Allen Crabbe,1,6,16,1,Pullup Jump shot,10,32,97,True
+Allen Crabbe,1,8,50,0,Pullup Jump shot,18,-50,178,True
+Allen Crabbe,4,5,25,0,Pullup Jump shot,20,-7,207,True
+Allen Crabbe,3,11,29,0,Pullup Jump shot,19,27,197,True
+Allen Crabbe,3,5,0,1,Pullup Jump shot,15,155,-21,True
+Allen Crabbe,1,9,49,1,Pullup Jump shot,13,94,101,True
+Allen Crabbe,2,7,12,1,Pullup Jump shot,19,-8,191,True
+Allen Crabbe,1,5,26,1,Pullup Jump shot,10,-54,94,True
+Allen Crabbe,3,10,52,1,Pullup Jump shot,15,-152,-20,True
+Allen Crabbe,3,7,49,1,Pullup Jump shot,13,-135,-4,True
+Allen Crabbe,1,9,46,1,Pullup Jump shot,18,-168,84,True
+Allen Crabbe,1,7,42,0,Pullup Jump shot,20,-2,201,True
+Allen Crabbe,2,5,25,0,Pullup Jump shot,14,-147,-22,True
+Allen Crabbe,2,7,57,1,Pullup Jump shot,18,71,172,True
+Allen Crabbe,4,2,28,0,Pullup Jump shot,14,-133,55,True
+Allen Crabbe,3,9,16,0,Pullup Jump shot,20,32,205,True
+Allen Crabbe,3,6,43,0,Pullup Jump shot,26,-57,256,False
+Allen Crabbe,4,6,18,0,Pullup Jump shot,26,-44,264,False
+Allen Crabbe,3,9,25,1,Pullup Jump shot,26,34,262,False
+Allen Crabbe,4,7,4,0,Pullup Jump shot,24,-151,197,False
+Allen Crabbe,3,3,51,0,Pullup Jump shot,25,143,211,False
+Allen Crabbe,3,6,17,0,Pullup Jump shot,25,-31,258,False
+Allen Crabbe,2,5,31,1,Pullup Jump shot,9,-93,33,True
+Allen Crabbe,4,7,39,0,Pullup Jump shot,19,7,192,True
+Allen Crabbe,1,9,16,0,Pullup Jump shot,30,-208,217,False
+Allen Crabbe,3,8,43,0,Pullup Jump shot,26,132,226,False
+Allen Crabbe,1,10,49,0,Pullup Jump shot,25,-78,243,False
+Allen Crabbe,1,9,10,0,Pullup Jump shot,15,68,142,True
+Allen Crabbe,1,10,57,0,Pullup Jump shot,17,30,175,True
+Allen Crabbe,1,9,20,0,Pullup Jump shot,25,18,259,False
+Allen Crabbe,3,5,19,1,Pullup Jump shot,17,42,168,True
+Allen Crabbe,2,9,47,0,Pullup Jump shot,19,93,167,True
+Allen Crabbe,2,3,25,1,Pullup Jump shot,15,38,155,True
+Allen Crabbe,3,6,22,0,Pullup Jump shot,25,-128,215,False
+Allen Crabbe,1,6,24,0,Pullup Jump shot,18,-182,8,True
+Allen Crabbe,1,5,18,1,Pullup Jump shot,18,-6,186,True
+Allen Crabbe,4,4,12,0,Pullup Jump shot,22,-19,227,True
+Allen Crabbe,1,8,51,0,Pullup Jump shot,24,95,231,False
+Allen Crabbe,1,11,5,0,Pullup Jump shot,25,54,251,False
+Allen Crabbe,1,8,5,0,Pullup Jump shot,23,-112,201,True
+Allen Crabbe,1,5,48,1,Pullup Jump shot,25,35,248,False
+Allen Crabbe,1,5,38,0,Pullup Jump shot,20,-117,168,True
+Allen Crabbe,3,11,23,0,Pullup Jump shot,25,-42,251,False
+Allen Crabbe,1,9,20,0,Pullup Jump shot,6,-1,64,True
+Allen Crabbe,3,5,48,0,Pullup Jump shot,21,176,115,True
+Allen Crabbe,1,3,55,1,Pullup Jump shot,29,-23,298,False
+Allen Crabbe,2,6,48,0,Putback Layup Shot,0,1,5,True
+Allen Crabbe,3,1,37,1,Putback Layup Shot,1,19,4,True
+Allen Crabbe,2,4,39,0,Reverse Layup Shot,3,25,20,True
+Allen Crabbe,5,0,55,0,Reverse Layup Shot,1,18,6,True
+Allen Crabbe,2,3,8,0,Running Dunk Shot,1,-9,17,True
+Allen Crabbe,2,1,31,1,Running Dunk Shot,1,2,17,True
+Allen Crabbe,1,7,15,1,Running Dunk Shot,1,3,13,True
+Allen Crabbe,4,5,52,1,Running Jump Shot,25,206,143,False
+Allen Crabbe,1,4,12,1,Running Jump Shot,24,-93,232,False
+Allen Crabbe,1,8,15,0,Running Jump Shot,25,89,235,False
+Allen Crabbe,3,7,9,0,Running Jump Shot,25,176,184,False
+Allen Crabbe,1,10,51,0,Running Layup Shot,2,16,18,True
+Allen Crabbe,3,5,2,1,Running Layup Shot,1,12,3,True
+Allen Crabbe,3,11,9,1,Running Layup Shot,1,12,-10,True
+Allen Crabbe,4,0,38,1,Running Layup Shot,0,7,-1,True
+Allen Crabbe,3,8,29,0,Running Layup Shot,8,-18,85,True
+Allen Crabbe,1,8,31,1,Running Pull-Up Jump Shot,9,-60,73,True
+Allen Crabbe,3,6,29,1,Running Pull-Up Jump Shot,16,-78,150,True
+Allen Crabbe,4,5,57,0,Running Pull-Up Jump Shot,28,185,215,False
+Allen Crabbe,1,6,46,1,Running Pull-Up Jump Shot,22,-164,159,True
+Allen Crabbe,2,0,0,0,Running Pull-Up Jump Shot,51,-197,477,False
+Allen Crabbe,2,7,10,0,Step Back Jump shot,25,-66,249,False
+Allen Crabbe,2,10,8,0,Step Back Jump shot,26,177,193,False
+Allen Crabbe,1,5,1,0,Step Back Jump shot,21,121,173,True
+Allen Crabbe,2,6,18,0,Step Back Jump shot,21,179,123,True
+Allen Crabbe,4,2,31,1,Step Back Jump shot,13,-134,2,True
+Allen Crabbe,4,3,47,1,Step Back Jump shot,22,223,-3,False
+Allen Crabbe,3,1,17,0,Turnaround Fadeaway Bank Jump Shot,6,-69,4,True
+Allen Crabbe,1,7,31,0,Turnaround Fadeaway shot,8,-17,81,True
+Allen Crabbe,2,4,48,1,Turnaround Fadeaway shot,9,92,32,True
+Allen Crabbe,2,4,32,0,Turnaround Jump Shot,24,179,172,False
+Allen Crabbe,1,4,33,1,Turnaround Jump Shot,25,-222,126,False
+Allen Crabbe,4,0,25,1,Turnaround Jump Shot,22,224,14,False

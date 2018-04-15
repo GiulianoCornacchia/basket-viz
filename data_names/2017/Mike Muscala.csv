@@ -1,0 +1,282 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Mike Muscala,3,2,41,1,Cutting Dunk Shot,1,-6,14,True
+Mike Muscala,4,2,28,1,Cutting Dunk Shot,1,1,14,True
+Mike Muscala,4,2,39,1,Cutting Finger Roll Layup Shot,0,0,9,True
+Mike Muscala,2,0,55,1,Cutting Layup Shot,3,17,31,True
+Mike Muscala,2,4,18,1,Cutting Layup Shot,1,-5,-14,True
+Mike Muscala,2,8,5,1,Cutting Layup Shot,4,38,30,True
+Mike Muscala,4,9,54,0,Cutting Layup Shot,5,-25,50,True
+Mike Muscala,1,5,36,1,Cutting Layup Shot,0,3,2,True
+Mike Muscala,4,7,16,1,Cutting Layup Shot,1,3,10,True
+Mike Muscala,1,10,28,0,Cutting Layup Shot,1,16,9,True
+Mike Muscala,4,5,36,1,Cutting Layup Shot,2,2,22,True
+Mike Muscala,1,3,44,1,Cutting Layup Shot,2,-3,26,True
+Mike Muscala,3,2,54,1,Cutting Layup Shot,0,8,5,True
+Mike Muscala,1,3,39,0,Cutting Layup Shot,5,-40,40,True
+Mike Muscala,4,11,38,0,Cutting Layup Shot,1,-5,16,True
+Mike Muscala,3,11,33,1,Cutting Layup Shot,2,10,18,True
+Mike Muscala,1,5,19,1,Driving Floating Bank Jump Shot,1,0,11,True
+Mike Muscala,1,0,11,0,Driving Floating Jump Shot,7,1,79,True
+Mike Muscala,1,6,3,0,Driving Floating Jump Shot,5,2,52,True
+Mike Muscala,4,1,53,1,Driving Hook Shot,8,9,83,True
+Mike Muscala,3,0,26,0,Driving Layup Shot,0,-3,5,True
+Mike Muscala,2,3,21,1,Driving Layup Shot,1,10,2,True
+Mike Muscala,4,9,53,1,Driving Layup Shot,4,-24,39,True
+Mike Muscala,2,8,23,1,Driving Layup Shot,1,-4,17,True
+Mike Muscala,4,5,19,0,Driving Layup Shot,4,11,41,True
+Mike Muscala,3,6,8,1,Driving Reverse Layup Shot,1,8,9,True
+Mike Muscala,3,9,2,1,Dunk Shot,0,-4,-6,True
+Mike Muscala,1,2,36,0,Fadeaway Jump Shot,12,-120,25,True
+Mike Muscala,3,1,1,1,Fadeaway Jump Shot,7,-71,15,True
+Mike Muscala,1,1,49,1,Fadeaway Jump Shot,14,79,127,True
+Mike Muscala,4,3,55,1,Floating Jump shot,6,-67,14,True
+Mike Muscala,2,3,46,1,Floating Jump shot,10,78,70,True
+Mike Muscala,2,0,38,1,Floating Jump shot,12,-1,128,True
+Mike Muscala,1,1,16,0,Floating Jump shot,9,-7,92,True
+Mike Muscala,3,0,40,0,Floating Jump shot,14,71,129,True
+Mike Muscala,4,5,1,1,Floating Jump shot,6,-59,20,True
+Mike Muscala,4,9,39,0,Hook Shot,6,5,61,True
+Mike Muscala,3,4,9,0,Hook Shot,4,-2,47,True
+Mike Muscala,3,5,15,0,Hook Shot,9,-9,90,True
+Mike Muscala,4,9,1,1,Hook Shot,3,-3,30,True
+Mike Muscala,4,8,38,0,Jump Shot,25,-94,233,False
+Mike Muscala,1,1,10,0,Jump Shot,22,-221,57,False
+Mike Muscala,3,1,51,1,Jump Shot,25,-92,236,False
+Mike Muscala,4,5,27,0,Jump Shot,25,-150,201,False
+Mike Muscala,1,3,45,1,Jump Shot,25,-42,248,False
+Mike Muscala,4,4,31,1,Jump Shot,22,225,-9,False
+Mike Muscala,2,4,26,0,Jump Shot,25,-106,227,False
+Mike Muscala,1,3,8,0,Jump Shot,26,47,260,False
+Mike Muscala,3,6,54,1,Jump Shot,15,-125,86,True
+Mike Muscala,1,5,16,1,Jump Shot,23,230,46,False
+Mike Muscala,2,1,37,1,Jump Shot,22,224,-5,False
+Mike Muscala,4,1,44,0,Jump Shot,25,105,236,False
+Mike Muscala,3,0,0,1,Jump Shot,27,-143,230,False
+Mike Muscala,3,0,28,0,Jump Shot,28,-183,215,False
+Mike Muscala,4,0,48,0,Jump Shot,25,12,258,False
+Mike Muscala,3,2,40,1,Jump Shot,8,0,89,True
+Mike Muscala,4,8,49,1,Jump Shot,24,219,120,False
+Mike Muscala,1,3,14,0,Jump Shot,27,171,216,False
+Mike Muscala,2,8,27,0,Jump Shot,24,185,162,False
+Mike Muscala,1,8,14,0,Jump Shot,24,-204,140,False
+Mike Muscala,2,4,15,0,Jump Shot,25,3,255,False
+Mike Muscala,1,10,36,0,Jump Shot,13,81,104,True
+Mike Muscala,3,8,48,1,Jump Shot,22,228,11,False
+Mike Muscala,2,9,9,1,Jump Shot,25,131,215,False
+Mike Muscala,4,6,35,0,Jump Shot,22,228,22,False
+Mike Muscala,4,10,22,1,Jump Shot,24,234,61,False
+Mike Muscala,4,9,48,0,Jump Shot,24,170,182,False
+Mike Muscala,3,7,31,0,Jump Shot,25,-190,168,False
+Mike Muscala,2,8,20,1,Jump Shot,23,230,25,False
+Mike Muscala,2,6,23,0,Jump Shot,26,-125,236,False
+Mike Muscala,2,3,10,0,Jump Shot,23,234,18,False
+Mike Muscala,1,6,18,0,Jump Shot,27,-148,236,False
+Mike Muscala,1,7,5,0,Jump Shot,13,-131,43,True
+Mike Muscala,3,2,18,1,Jump Shot,28,47,279,False
+Mike Muscala,2,1,50,0,Jump Shot,23,233,20,False
+Mike Muscala,3,2,39,1,Jump Shot,25,-225,111,False
+Mike Muscala,3,8,29,0,Jump Shot,24,-240,18,False
+Mike Muscala,4,5,56,1,Jump Shot,25,28,251,False
+Mike Muscala,1,1,50,1,Jump Shot,22,-228,23,False
+Mike Muscala,4,10,9,1,Jump Shot,22,-221,49,False
+Mike Muscala,2,2,37,0,Jump Shot,22,224,19,False
+Mike Muscala,2,11,2,0,Jump Shot,25,87,243,False
+Mike Muscala,2,3,17,0,Jump Shot,25,41,250,False
+Mike Muscala,2,3,49,0,Jump Shot,22,-223,3,False
+Mike Muscala,2,2,51,0,Jump Shot,23,-223,78,False
+Mike Muscala,2,0,32,0,Jump Shot,25,-109,225,False
+Mike Muscala,1,1,41,0,Jump Shot,25,-16,251,False
+Mike Muscala,2,10,49,0,Jump Shot,25,-112,227,False
+Mike Muscala,2,5,36,1,Jump Shot,22,-223,9,False
+Mike Muscala,1,0,30,0,Jump Shot,22,-227,14,False
+Mike Muscala,2,1,27,0,Jump Shot,23,234,-16,False
+Mike Muscala,2,1,3,1,Jump Shot,11,-96,62,True
+Mike Muscala,1,3,7,0,Jump Shot,24,190,151,False
+Mike Muscala,2,9,21,0,Jump Shot,23,232,41,False
+Mike Muscala,4,4,34,0,Jump Shot,26,-112,236,False
+Mike Muscala,2,10,55,1,Jump Shot,25,-148,209,False
+Mike Muscala,4,9,4,0,Jump Shot,10,88,56,True
+Mike Muscala,2,10,32,0,Jump Shot,23,-239,-14,False
+Mike Muscala,4,5,32,1,Jump Shot,26,-145,218,False
+Mike Muscala,2,2,48,0,Jump Shot,26,145,223,False
+Mike Muscala,4,10,33,0,Jump Shot,25,159,195,False
+Mike Muscala,1,3,38,0,Jump Shot,23,-232,13,False
+Mike Muscala,4,2,5,1,Jump Shot,24,-232,89,False
+Mike Muscala,1,0,32,0,Jump Shot,25,-179,180,False
+Mike Muscala,2,3,14,0,Jump Shot,14,-145,34,True
+Mike Muscala,2,2,42,0,Jump Shot,23,-232,57,False
+Mike Muscala,1,2,22,0,Jump Shot,23,223,62,False
+Mike Muscala,3,1,43,0,Jump Shot,24,105,225,False
+Mike Muscala,4,10,26,0,Jump Shot,22,-224,-1,False
+Mike Muscala,3,1,10,0,Jump Shot,25,160,196,False
+Mike Muscala,3,4,36,0,Jump Shot,27,-121,252,False
+Mike Muscala,2,5,50,0,Jump Shot,22,-227,-8,False
+Mike Muscala,4,9,15,1,Jump Shot,27,-186,201,False
+Mike Muscala,2,9,1,1,Jump Shot,23,-230,29,False
+Mike Muscala,1,4,49,0,Jump Shot,26,-18,261,False
+Mike Muscala,3,6,54,1,Jump Shot,27,41,270,False
+Mike Muscala,4,2,4,0,Jump Shot,23,-235,29,False
+Mike Muscala,4,11,27,1,Jump Shot,23,-230,-15,False
+Mike Muscala,3,1,54,0,Jump Shot,23,232,-9,False
+Mike Muscala,2,0,1,0,Jump Shot,23,-231,6,False
+Mike Muscala,2,8,24,1,Jump Shot,25,67,245,False
+Mike Muscala,3,3,16,0,Jump Shot,25,91,241,False
+Mike Muscala,4,10,47,0,Jump Shot,26,124,230,False
+Mike Muscala,2,1,18,0,Jump Shot,25,-192,161,False
+Mike Muscala,4,10,41,0,Jump Shot,26,-148,215,False
+Mike Muscala,4,9,6,0,Jump Shot,25,-207,141,False
+Mike Muscala,1,2,37,0,Jump Shot,25,85,237,False
+Mike Muscala,4,2,9,0,Jump Shot,26,-2,263,False
+Mike Muscala,3,4,14,1,Jump Shot,27,117,251,False
+Mike Muscala,4,9,3,0,Jump Shot,25,-194,164,False
+Mike Muscala,3,5,53,0,Jump Shot,26,-158,214,False
+Mike Muscala,2,11,49,0,Jump Shot,26,-176,194,False
+Mike Muscala,3,1,30,1,Jump Shot,12,-52,117,True
+Mike Muscala,4,3,44,0,Jump Shot,16,158,26,True
+Mike Muscala,4,8,30,0,Jump Shot,26,81,250,False
+Mike Muscala,2,11,19,1,Jump Shot,23,-234,-15,False
+Mike Muscala,4,10,17,1,Jump Shot,27,126,240,False
+Mike Muscala,3,3,37,0,Jump Shot,26,-125,239,False
+Mike Muscala,1,3,10,0,Jump Shot,26,-210,155,False
+Mike Muscala,3,1,1,0,Jump Shot,27,-117,245,False
+Mike Muscala,2,8,47,0,Jump Shot,25,-165,195,False
+Mike Muscala,3,2,25,1,Jump Shot,22,-229,-6,False
+Mike Muscala,2,9,22,1,Jump Shot,23,-230,20,False
+Mike Muscala,2,0,11,0,Jump Shot,24,55,239,False
+Mike Muscala,4,9,44,0,Jump Shot,25,116,223,False
+Mike Muscala,2,10,55,0,Jump Shot,25,199,152,False
+Mike Muscala,2,11,9,1,Jump Shot,16,93,138,True
+Mike Muscala,2,8,11,0,Jump Shot,19,190,10,True
+Mike Muscala,2,9,45,0,Jump Shot,23,-230,-21,False
+Mike Muscala,2,8,52,1,Jump Shot,17,23,173,True
+Mike Muscala,2,1,58,0,Jump Shot,24,68,237,False
+Mike Muscala,1,2,30,1,Jump Shot,25,114,225,False
+Mike Muscala,2,0,31,0,Jump Shot,25,109,232,False
+Mike Muscala,2,8,27,1,Jump Shot,25,-103,234,False
+Mike Muscala,3,11,48,1,Jump Shot,24,11,249,False
+Mike Muscala,3,11,11,0,Jump Shot,25,119,220,False
+Mike Muscala,4,5,4,0,Jump Shot,19,108,162,True
+Mike Muscala,2,4,24,1,Jump Shot,24,174,178,False
+Mike Muscala,4,8,58,1,Jump Shot,23,231,8,False
+Mike Muscala,4,1,49,1,Jump Shot,24,-158,190,False
+Mike Muscala,2,7,30,0,Jump Shot,11,111,26,True
+Mike Muscala,4,4,55,1,Jump Shot,11,-7,111,True
+Mike Muscala,2,10,23,1,Jump Shot,23,-231,26,False
+Mike Muscala,4,10,21,0,Jump Shot,25,55,251,False
+Mike Muscala,4,11,45,1,Jump Shot,11,111,0,True
+Mike Muscala,2,8,12,0,Jump Shot,15,84,134,True
+Mike Muscala,2,9,18,1,Jump Shot,26,-115,241,False
+Mike Muscala,4,11,47,1,Jump Shot,25,152,209,False
+Mike Muscala,4,0,19,0,Jump Shot,22,221,-5,False
+Mike Muscala,1,0,39,0,Jump Shot,24,112,221,False
+Mike Muscala,4,5,5,0,Jump Shot,25,-191,167,False
+Mike Muscala,4,4,6,1,Jump Shot,23,230,-6,False
+Mike Muscala,2,10,29,0,Jump Shot,25,11,253,False
+Mike Muscala,4,3,30,1,Jump Shot,22,-222,-2,False
+Mike Muscala,4,10,3,1,Jump Shot,25,-192,175,False
+Mike Muscala,2,2,39,0,Jump Shot,25,-214,132,False
+Mike Muscala,1,7,26,0,Jump Shot,11,-2,113,True
+Mike Muscala,4,6,2,1,Jump Shot,23,233,21,False
+Mike Muscala,2,0,44,1,Jump Shot,22,-227,26,False
+Mike Muscala,1,6,29,1,Jump Shot,15,68,142,True
+Mike Muscala,2,0,40,0,Jump Shot,25,55,251,False
+Mike Muscala,1,4,50,1,Jump Shot,19,104,167,True
+Mike Muscala,4,11,45,0,Jump Shot,25,156,206,False
+Mike Muscala,1,9,38,0,Jump Shot,25,0,251,False
+Mike Muscala,3,8,51,1,Jump Shot,25,-81,244,False
+Mike Muscala,4,1,19,0,Jump Shot,26,-128,231,False
+Mike Muscala,4,5,53,1,Jump Shot,23,-234,-29,False
+Mike Muscala,3,8,19,0,Jump Shot,8,-55,64,True
+Mike Muscala,1,7,32,1,Jump Shot,20,14,209,True
+Mike Muscala,2,1,8,1,Jump Shot,13,93,93,True
+Mike Muscala,2,2,7,0,Jump Shot,19,76,183,True
+Mike Muscala,3,8,38,1,Jump Shot,25,-112,233,False
+Mike Muscala,2,7,27,0,Jump Shot,25,-95,236,False
+Mike Muscala,3,3,39,0,Jump Shot,25,66,251,False
+Mike Muscala,2,2,14,1,Jump Shot,22,226,25,False
+Mike Muscala,3,1,56,0,Jump Shot,24,230,90,False
+Mike Muscala,3,1,43,1,Jump Shot,24,-111,221,False
+Mike Muscala,4,0,47,1,Jump Shot,25,-158,199,False
+Mike Muscala,1,3,6,0,Jump Shot,25,-129,219,False
+Mike Muscala,3,2,54,0,Jump Shot,8,-82,23,True
+Mike Muscala,2,2,12,1,Jump Shot,25,-71,240,False
+Mike Muscala,3,2,38,0,Jump Shot,25,-40,251,False
+Mike Muscala,4,0,15,0,Jump Shot,25,-90,236,False
+Mike Muscala,1,0,1,0,Jump Shot,20,-171,115,True
+Mike Muscala,4,2,58,1,Jump Shot,12,-107,57,True
+Mike Muscala,3,2,18,0,Jump Shot,26,-16,267,False
+Mike Muscala,2,3,28,0,Jump Shot,23,-229,29,False
+Mike Muscala,1,2,16,0,Jump Shot,8,16,85,True
+Mike Muscala,3,9,18,0,Jump Shot,27,93,258,False
+Mike Muscala,3,5,56,0,Layup Shot,1,-15,8,True
+Mike Muscala,1,9,9,0,Layup Shot,1,-11,8,True
+Mike Muscala,1,1,4,1,Layup Shot,0,0,5,True
+Mike Muscala,4,10,24,0,Layup Shot,12,14,123,True
+Mike Muscala,2,2,53,0,Layup Shot,1,1,17,True
+Mike Muscala,3,9,57,1,Layup Shot,2,-22,13,True
+Mike Muscala,2,10,33,1,Layup Shot,2,-12,21,True
+Mike Muscala,3,2,1,1,Layup Shot,2,11,25,True
+Mike Muscala,2,6,44,0,Layup Shot,2,12,25,True
+Mike Muscala,4,2,25,1,Layup Shot,1,-8,13,True
+Mike Muscala,3,4,41,1,Layup Shot,0,0,6,True
+Mike Muscala,1,0,47,1,Layup Shot,1,-13,-6,True
+Mike Muscala,1,7,0,0,Layup Shot,2,20,11,True
+Mike Muscala,2,2,27,0,Layup Shot,4,21,39,True
+Mike Muscala,3,2,58,1,Layup Shot,2,-8,19,True
+Mike Muscala,4,9,51,1,Layup Shot,2,13,24,True
+Mike Muscala,3,0,28,1,Pullup Jump shot,20,71,192,True
+Mike Muscala,3,2,55,1,Pullup Jump shot,19,90,172,True
+Mike Muscala,3,1,29,0,Pullup Jump shot,11,-115,7,True
+Mike Muscala,3,6,21,1,Pullup Jump shot,14,55,137,True
+Mike Muscala,4,1,10,0,Pullup Jump shot,23,-231,20,False
+Mike Muscala,1,0,0,0,Pullup Jump shot,8,79,32,True
+Mike Muscala,4,10,1,0,Pullup Jump shot,25,120,220,False
+Mike Muscala,3,3,55,0,Pullup Jump shot,13,-135,-1,True
+Mike Muscala,4,3,30,0,Pullup Jump shot,22,-222,9,False
+Mike Muscala,1,0,2,0,Pullup Jump shot,23,-234,4,False
+Mike Muscala,1,3,1,0,Pullup Jump shot,26,49,258,False
+Mike Muscala,1,0,45,0,Pullup Jump shot,18,-44,180,True
+Mike Muscala,1,0,49,1,Pullup Jump shot,14,57,128,True
+Mike Muscala,3,10,3,0,Pullup Jump shot,12,-116,41,True
+Mike Muscala,1,7,27,0,Pullup Jump shot,25,-193,173,False
+Mike Muscala,2,11,14,1,Putback Dunk Shot,0,0,-6,True
+Mike Muscala,3,0,0,0,Putback Dunk Shot,0,0,-6,True
+Mike Muscala,3,2,17,1,Putback Layup Shot,3,30,16,True
+Mike Muscala,3,2,45,1,Putback Layup Shot,0,0,-6,True
+Mike Muscala,2,10,50,1,Putback Layup Shot,1,12,15,True
+Mike Muscala,3,4,34,1,Putback Layup Shot,0,0,-6,True
+Mike Muscala,2,6,44,0,Putback Layup Shot,0,0,-6,True
+Mike Muscala,2,5,42,1,Putback Layup Shot,0,0,-6,True
+Mike Muscala,3,8,15,1,Putback Layup Shot,0,0,-6,True
+Mike Muscala,2,1,37,1,Putback Layup Shot,1,-2,11,True
+Mike Muscala,2,10,23,0,Putback Layup Shot,3,18,27,True
+Mike Muscala,2,9,6,1,Reverse Layup Shot,1,-6,13,True
+Mike Muscala,2,9,52,1,Reverse Layup Shot,1,10,17,True
+Mike Muscala,4,0,47,1,Running Dunk Shot,2,2,26,True
+Mike Muscala,2,0,0,0,Running Jump Shot,26,-116,235,False
+Mike Muscala,1,0,42,1,Running Jump Shot,22,-226,-4,False
+Mike Muscala,3,4,26,1,Running Layup Shot,1,0,12,True
+Mike Muscala,2,5,25,1,Running Layup Shot,2,-18,13,True
+Mike Muscala,4,4,54,1,Running Pull-Up Jump Shot,26,-35,264,False
+Mike Muscala,1,4,35,0,Tip Dunk Shot,0,0,-6,True
+Mike Muscala,3,1,48,1,Tip Dunk Shot,0,0,-6,True
+Mike Muscala,4,1,50,1,Tip Dunk Shot,0,0,-6,True
+Mike Muscala,3,1,36,1,Tip Dunk Shot,0,0,-6,True
+Mike Muscala,2,1,19,0,Tip Layup Shot,1,10,12,True
+Mike Muscala,4,9,14,0,Tip Layup Shot,0,0,-6,True
+Mike Muscala,4,8,30,1,Tip Layup Shot,0,0,-6,True
+Mike Muscala,1,4,37,1,Tip Layup Shot,0,0,-6,True
+Mike Muscala,2,7,53,1,Tip Layup Shot,0,0,-6,True
+Mike Muscala,3,3,44,1,Tip Layup Shot,0,0,-6,True
+Mike Muscala,3,1,19,0,Tip Layup Shot,2,3,25,True
+Mike Muscala,2,2,19,1,Tip Layup Shot,0,0,-6,True
+Mike Muscala,1,3,56,0,Tip Layup Shot,0,0,-6,True
+Mike Muscala,2,1,8,1,Tip Layup Shot,0,0,-6,True
+Mike Muscala,4,6,12,0,Tip Layup Shot,0,0,-6,True
+Mike Muscala,2,2,14,0,Turnaround Fadeaway shot,15,-155,1,True
+Mike Muscala,3,7,6,0,Turnaround Fadeaway shot,8,48,65,True
+Mike Muscala,4,3,3,0,Turnaround Hook Shot,7,-15,72,True
+Mike Muscala,2,7,55,0,Turnaround Jump Shot,8,-87,15,True
+Mike Muscala,4,10,6,1,Turnaround Jump Shot,12,68,104,True
+Mike Muscala,4,8,52,0,Turnaround Jump Shot,14,-138,36,True
+Mike Muscala,3,7,4,0,Turnaround Jump Shot,10,-100,10,True

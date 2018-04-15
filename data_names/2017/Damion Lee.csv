@@ -1,0 +1,137 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Damion Lee,1,10,47,0,Cutting Layup Shot,4,-33,32,True
+Damion Lee,1,4,35,1,Cutting Layup Shot,2,11,27,True
+Damion Lee,1,4,10,1,Cutting Layup Shot,12,5,129,True
+Damion Lee,4,11,19,1,Driving Finger Roll Layup Shot,2,-14,16,True
+Damion Lee,2,5,9,1,Driving Floating Bank Jump Shot,10,70,72,True
+Damion Lee,4,7,1,0,Driving Floating Bank Jump Shot,6,-44,46,True
+Damion Lee,3,10,3,0,Driving Floating Bank Jump Shot,9,-76,50,True
+Damion Lee,2,5,52,0,Driving Floating Bank Jump Shot,5,52,19,True
+Damion Lee,3,10,41,1,Driving Floating Bank Jump Shot,7,-68,17,True
+Damion Lee,3,1,16,1,Driving Floating Bank Jump Shot,6,-48,36,True
+Damion Lee,3,8,29,1,Driving Floating Bank Jump Shot,7,-50,60,True
+Damion Lee,3,4,7,0,Driving Floating Jump Shot,11,5,113,True
+Damion Lee,4,9,58,1,Driving Floating Jump Shot,13,-3,134,True
+Damion Lee,3,9,33,1,Driving Floating Jump Shot,9,-36,86,True
+Damion Lee,1,10,53,0,Driving Floating Jump Shot,13,5,132,True
+Damion Lee,1,2,29,0,Driving Floating Jump Shot,12,5,121,True
+Damion Lee,2,10,2,0,Driving Floating Jump Shot,4,16,45,True
+Damion Lee,3,0,0,0,Driving Floating Jump Shot,12,41,113,True
+Damion Lee,3,11,2,0,Driving Floating Jump Shot,9,9,97,True
+Damion Lee,2,1,58,1,Driving Floating Jump Shot,15,-82,136,True
+Damion Lee,1,8,19,0,Driving Floating Jump Shot,15,-69,134,True
+Damion Lee,1,7,44,0,Driving Floating Jump Shot,6,-13,64,True
+Damion Lee,2,0,55,1,Driving Floating Jump Shot,10,-60,90,True
+Damion Lee,2,10,40,0,Driving Layup Shot,2,-13,23,True
+Damion Lee,1,7,29,0,Driving Layup Shot,1,3,14,True
+Damion Lee,3,11,4,1,Driving Layup Shot,1,2,15,True
+Damion Lee,2,3,17,0,Driving Layup Shot,1,-3,13,True
+Damion Lee,3,6,33,1,Driving Layup Shot,4,-11,42,True
+Damion Lee,4,6,28,0,Driving Layup Shot,1,-8,17,True
+Damion Lee,2,3,46,1,Driving Layup Shot,2,0,27,True
+Damion Lee,2,8,4,1,Driving Layup Shot,3,-24,29,True
+Damion Lee,2,9,47,1,Driving Layup Shot,3,-26,16,True
+Damion Lee,1,7,24,0,Driving Layup Shot,3,-24,22,True
+Damion Lee,1,10,56,0,Driving Layup Shot,3,-19,27,True
+Damion Lee,1,9,16,1,Driving Layup Shot,2,-16,13,True
+Damion Lee,4,9,5,1,Driving Layup Shot,0,-6,7,True
+Damion Lee,3,7,16,0,Driving Layup Shot,4,-36,23,True
+Damion Lee,3,10,40,0,Driving Layup Shot,4,-18,46,True
+Damion Lee,1,9,36,1,Driving Layup Shot,3,-31,-1,True
+Damion Lee,2,5,37,0,Driving Layup Shot,2,-19,18,True
+Damion Lee,4,4,8,1,Driving Layup Shot,1,-5,12,True
+Damion Lee,1,5,29,1,Driving Reverse Layup Shot,1,-11,-6,True
+Damion Lee,4,6,53,0,Floating Jump shot,12,-9,123,True
+Damion Lee,4,5,25,1,Floating Jump shot,8,0,83,True
+Damion Lee,1,2,29,0,Floating Jump shot,7,-41,59,True
+Damion Lee,1,11,26,0,Floating Jump shot,4,-18,37,True
+Damion Lee,1,6,16,0,Jump Bank Shot,10,-97,47,True
+Damion Lee,4,4,7,1,Jump Bank Shot,2,-18,14,True
+Damion Lee,4,0,42,0,Jump Bank Shot,7,-45,64,True
+Damion Lee,2,3,28,1,Jump Bank Shot,28,130,251,False
+Damion Lee,1,0,0,0,Jump Shot,36,-141,342,False
+Damion Lee,2,9,5,1,Jump Shot,22,222,36,False
+Damion Lee,2,5,30,0,Jump Shot,23,-235,23,False
+Damion Lee,4,0,1,0,Jump Shot,9,13,97,True
+Damion Lee,2,11,39,0,Jump Shot,11,54,98,True
+Damion Lee,4,5,45,0,Jump Shot,24,-237,69,False
+Damion Lee,4,4,38,0,Jump Shot,24,-236,46,False
+Damion Lee,1,2,37,1,Jump Shot,22,-226,12,False
+Damion Lee,3,10,48,0,Jump Shot,27,-181,202,False
+Damion Lee,2,0,46,0,Jump Shot,26,128,229,False
+Damion Lee,2,0,2,0,Jump Shot,75,-45,757,False
+Damion Lee,2,9,31,1,Jump Shot,25,-21,253,False
+Damion Lee,1,8,22,0,Jump Shot,22,-226,-26,False
+Damion Lee,2,0,36,0,Jump Shot,22,-225,-1,False
+Damion Lee,1,10,30,0,Jump Shot,24,-41,246,False
+Damion Lee,3,5,45,0,Jump Shot,25,53,254,False
+Damion Lee,1,9,58,1,Jump Shot,20,-204,25,True
+Damion Lee,2,10,20,1,Jump Shot,25,-218,136,False
+Damion Lee,2,0,0,1,Jump Shot,14,-133,53,True
+Damion Lee,2,9,14,0,Jump Shot,25,-42,248,False
+Damion Lee,3,11,13,0,Jump Shot,25,-215,146,False
+Damion Lee,4,11,43,0,Jump Shot,23,-239,1,False
+Damion Lee,1,7,39,0,Jump Shot,24,14,249,False
+Damion Lee,1,11,37,0,Jump Shot,24,-103,223,False
+Damion Lee,3,8,9,0,Jump Shot,25,-65,247,False
+Damion Lee,1,2,30,0,Jump Shot,19,-68,179,True
+Damion Lee,2,1,31,1,Jump Shot,23,231,53,False
+Damion Lee,3,8,21,0,Jump Shot,25,-109,236,False
+Damion Lee,1,10,43,0,Jump Shot,24,161,190,False
+Damion Lee,4,0,9,0,Jump Shot,25,204,148,False
+Damion Lee,3,9,2,0,Jump Shot,27,-185,201,False
+Damion Lee,4,10,34,0,Jump Shot,25,164,195,False
+Damion Lee,3,11,15,0,Jump Shot,23,-230,15,False
+Damion Lee,3,8,35,0,Jump Shot,24,-161,189,False
+Damion Lee,3,4,51,0,Jump Shot,11,-5,112,True
+Damion Lee,1,11,29,1,Jump Shot,22,-222,19,False
+Damion Lee,4,10,3,0,Jump Shot,25,-88,236,False
+Damion Lee,3,3,58,0,Jump Shot,27,150,232,False
+Damion Lee,2,3,36,0,Jump Shot,16,17,164,True
+Damion Lee,1,10,3,1,Jump Shot,14,-147,20,True
+Damion Lee,2,11,7,0,Jump Shot,27,-183,199,False
+Damion Lee,1,6,44,0,Jump Shot,24,-32,246,False
+Damion Lee,1,1,44,1,Jump Shot,19,141,137,True
+Damion Lee,2,6,14,0,Jump Shot,25,-220,121,False
+Damion Lee,3,11,48,0,Jump Shot,25,-144,209,False
+Damion Lee,4,9,18,0,Jump Shot,5,-54,25,True
+Damion Lee,2,2,43,0,Jump Shot,22,225,38,False
+Damion Lee,4,5,20,0,Jump Shot,24,233,62,False
+Damion Lee,3,11,0,1,Jump Shot,25,172,184,False
+Damion Lee,3,5,56,1,Jump Shot,24,-13,246,False
+Damion Lee,1,8,34,0,Jump Shot,23,225,79,False
+Damion Lee,3,9,2,0,Jump Shot,24,-218,102,False
+Damion Lee,2,1,12,0,Jump Shot,14,98,110,True
+Damion Lee,3,5,51,0,Jump Shot,25,-214,145,False
+Damion Lee,4,7,15,1,Jump Shot,20,108,178,True
+Damion Lee,1,6,50,0,Jump Shot,24,-192,159,False
+Damion Lee,3,7,21,0,Layup Shot,9,-57,79,True
+Damion Lee,4,9,4,1,Layup Shot,2,8,23,True
+Damion Lee,3,5,41,0,Layup Shot,4,-36,29,True
+Damion Lee,3,8,40,1,Layup Shot,1,7,16,True
+Damion Lee,1,11,27,0,Layup Shot,9,-73,58,True
+Damion Lee,4,8,26,1,Layup Shot,1,-3,13,True
+Damion Lee,3,4,24,1,Layup Shot,3,-24,26,True
+Damion Lee,4,7,52,0,Pullup Jump shot,17,-74,160,True
+Damion Lee,2,5,35,1,Pullup Jump shot,22,89,208,True
+Damion Lee,2,11,40,0,Pullup Jump shot,25,114,227,False
+Damion Lee,4,3,27,0,Pullup Jump shot,17,-85,157,True
+Damion Lee,3,6,30,1,Pullup Jump shot,12,59,111,True
+Damion Lee,3,10,18,0,Pullup Jump shot,25,-78,242,False
+Damion Lee,1,6,8,1,Pullup Jump shot,13,-27,131,True
+Damion Lee,3,9,37,0,Pullup Jump shot,25,54,246,False
+Damion Lee,2,0,44,0,Pullup Jump shot,20,109,169,True
+Damion Lee,3,5,48,1,Pullup Jump shot,18,69,169,True
+Damion Lee,1,8,9,0,Pullup Jump shot,14,-115,91,True
+Damion Lee,1,1,18,0,Pullup Jump shot,26,40,262,False
+Damion Lee,2,10,36,0,Putback Layup Shot,3,25,26,True
+Damion Lee,1,10,50,1,Putback Layup Shot,2,16,24,True
+Damion Lee,2,7,15,1,Reverse Layup Shot,2,-23,6,True
+Damion Lee,1,8,5,0,Running Jump Shot,24,175,174,False
+Damion Lee,2,5,34,1,Running Layup Shot,2,7,25,True
+Damion Lee,4,8,8,0,Running Layup Shot,4,-36,27,True
+Damion Lee,4,4,14,1,Running Layup Shot,2,19,8,True
+Damion Lee,1,6,25,1,Running Layup Shot,1,2,14,True
+Damion Lee,4,9,41,1,Step Back Jump shot,23,-230,11,False
+Damion Lee,2,3,16,1,Step Back Jump shot,19,136,133,True
+Damion Lee,3,4,1,1,Tip Layup Shot,0,0,-6,True

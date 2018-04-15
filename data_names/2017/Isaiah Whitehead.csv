@@ -1,0 +1,74 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Isaiah Whitehead,3,3,45,1,Driving Floating Bank Jump Shot,5,-52,7,True
+Isaiah Whitehead,2,10,3,1,Driving Floating Bank Jump Shot,6,62,29,True
+Isaiah Whitehead,1,0,34,1,Driving Floating Jump Shot,8,-78,21,True
+Isaiah Whitehead,1,0,27,0,Driving Floating Jump Shot,6,6,64,True
+Isaiah Whitehead,4,1,22,1,Driving Floating Jump Shot,7,-9,79,True
+Isaiah Whitehead,3,1,39,0,Driving Floating Jump Shot,8,3,84,True
+Isaiah Whitehead,4,1,5,0,Driving Floating Jump Shot,6,60,17,True
+Isaiah Whitehead,2,10,11,0,Driving Floating Jump Shot,7,46,59,True
+Isaiah Whitehead,3,0,54,1,Driving Floating Jump Shot,12,-32,120,True
+Isaiah Whitehead,4,8,4,1,Driving Floating Jump Shot,2,24,3,True
+Isaiah Whitehead,3,2,32,0,Driving Layup Shot,2,19,16,True
+Isaiah Whitehead,4,5,7,0,Driving Layup Shot,5,46,22,True
+Isaiah Whitehead,4,10,58,1,Driving Layup Shot,1,5,9,True
+Isaiah Whitehead,3,1,1,1,Driving Layup Shot,1,7,9,True
+Isaiah Whitehead,1,1,28,1,Driving Layup Shot,0,2,8,True
+Isaiah Whitehead,2,8,49,1,Driving Layup Shot,1,0,11,True
+Isaiah Whitehead,4,0,55,1,Driving Layup Shot,1,16,0,True
+Isaiah Whitehead,4,6,49,1,Driving Layup Shot,0,0,5,True
+Isaiah Whitehead,4,3,22,1,Driving Layup Shot,1,-4,11,True
+Isaiah Whitehead,2,10,15,1,Driving Layup Shot,0,2,-4,True
+Isaiah Whitehead,4,0,35,1,Driving Layup Shot,5,54,16,True
+Isaiah Whitehead,4,2,19,0,Driving Layup Shot,4,40,8,True
+Isaiah Whitehead,2,11,30,1,Driving Layup Shot,3,28,12,True
+Isaiah Whitehead,4,3,2,0,Driving Layup Shot,1,19,-1,True
+Isaiah Whitehead,4,0,56,0,Driving Layup Shot,3,-35,8,True
+Isaiah Whitehead,4,3,9,0,Driving Reverse Layup Shot,0,2,4,True
+Isaiah Whitehead,2,2,44,0,Driving Reverse Layup Shot,1,-18,-8,True
+Isaiah Whitehead,1,3,58,1,Driving Reverse Layup Shot,1,-7,8,True
+Isaiah Whitehead,1,0,35,1,Driving Reverse Layup Shot,0,-5,7,True
+Isaiah Whitehead,4,11,37,0,Fadeaway Jump Shot,9,29,89,True
+Isaiah Whitehead,4,0,23,0,Fadeaway Jump Shot,15,-21,153,True
+Isaiah Whitehead,4,3,31,0,Floating Jump shot,4,-35,35,True
+Isaiah Whitehead,4,11,25,0,Floating Jump shot,5,44,31,True
+Isaiah Whitehead,4,10,5,0,Floating Jump shot,8,62,57,True
+Isaiah Whitehead,4,4,55,0,Hook Shot,4,25,35,True
+Isaiah Whitehead,2,9,37,0,Jump Shot,25,135,218,False
+Isaiah Whitehead,2,11,43,0,Jump Shot,26,93,253,False
+Isaiah Whitehead,4,3,35,0,Jump Shot,21,-157,153,True
+Isaiah Whitehead,4,7,48,0,Jump Shot,17,74,161,True
+Isaiah Whitehead,4,7,14,0,Jump Shot,23,229,35,False
+Isaiah Whitehead,4,5,8,0,Jump Shot,10,4,105,True
+Isaiah Whitehead,4,4,1,1,Jump Shot,25,133,216,False
+Isaiah Whitehead,4,7,42,0,Jump Shot,25,165,189,False
+Isaiah Whitehead,2,10,33,1,Jump Shot,25,180,178,False
+Isaiah Whitehead,4,1,39,0,Jump Shot,25,94,241,False
+Isaiah Whitehead,4,8,38,0,Jump Shot,24,-134,208,False
+Isaiah Whitehead,1,0,44,0,Jump Shot,25,228,115,False
+Isaiah Whitehead,4,0,16,1,Jump Shot,6,-5,62,True
+Isaiah Whitehead,4,8,18,1,Jump Shot,25,170,192,False
+Isaiah Whitehead,4,6,8,0,Layup Shot,3,28,24,True
+Isaiah Whitehead,4,9,55,1,Layup Shot,0,1,-5,True
+Isaiah Whitehead,2,6,59,0,Layup Shot,0,0,6,True
+Isaiah Whitehead,3,2,33,0,Layup Shot,4,-35,22,True
+Isaiah Whitehead,3,0,1,1,Layup Shot,1,14,8,True
+Isaiah Whitehead,1,1,46,1,Pullup Jump shot,2,-2,25,True
+Isaiah Whitehead,1,2,52,0,Pullup Jump shot,24,152,195,False
+Isaiah Whitehead,3,1,45,1,Pullup Jump shot,16,125,109,True
+Isaiah Whitehead,4,3,42,1,Pullup Jump shot,17,71,161,True
+Isaiah Whitehead,4,4,58,0,Pullup Jump shot,25,-97,231,False
+Isaiah Whitehead,4,1,10,0,Pullup Jump shot,13,119,69,True
+Isaiah Whitehead,4,5,46,0,Pullup Jump shot,6,0,67,True
+Isaiah Whitehead,1,0,42,0,Pullup Jump shot,14,140,21,True
+Isaiah Whitehead,1,1,39,0,Pullup Jump shot,12,-40,120,True
+Isaiah Whitehead,2,2,40,1,Putback Layup Shot,1,-16,-7,True
+Isaiah Whitehead,3,1,0,1,Reverse Layup Shot,1,-10,16,True
+Isaiah Whitehead,2,9,33,0,Reverse Layup Shot,3,-33,21,True
+Isaiah Whitehead,3,1,27,1,Reverse Layup Shot,1,-16,4,True
+Isaiah Whitehead,4,0,7,0,Reverse Layup Shot,1,-11,8,True
+Isaiah Whitehead,4,2,32,1,Step Back Jump shot,25,167,188,False
+Isaiah Whitehead,3,1,33,1,Step Back Jump shot,17,-109,137,True
+Isaiah Whitehead,2,1,57,1,Step Back Jump shot,24,123,213,False
+Isaiah Whitehead,4,2,58,1,Tip Layup Shot,0,0,-6,True
+Isaiah Whitehead,3,0,26,0,Turnaround Jump Shot,8,85,17,True

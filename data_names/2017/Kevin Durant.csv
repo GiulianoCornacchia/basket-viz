@@ -1,0 +1,1041 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Kevin Durant,3,10,45,1,Alley Oop Dunk Shot,1,14,7,True
+Kevin Durant,1,8,0,1,Alley Oop Dunk Shot,1,-5,13,True
+Kevin Durant,1,9,27,1,Alley Oop Dunk Shot,1,2,10,True
+Kevin Durant,1,8,39,1,Alley Oop Dunk Shot,0,8,1,True
+Kevin Durant,2,1,58,1,Alley Oop Dunk Shot,1,-12,1,True
+Kevin Durant,2,1,22,1,Alley Oop Dunk Shot,1,12,5,True
+Kevin Durant,2,4,33,1,Alley Oop Dunk Shot,1,-6,14,True
+Kevin Durant,1,0,45,1,Alley Oop Dunk Shot,2,0,26,True
+Kevin Durant,1,6,16,1,Alley Oop Dunk Shot,0,-5,6,True
+Kevin Durant,3,11,50,1,Alley Oop Dunk Shot,0,-2,-4,True
+Kevin Durant,3,5,54,0,Alley Oop Layup shot,2,14,17,True
+Kevin Durant,4,4,49,1,Alley Oop Layup shot,0,9,3,True
+Kevin Durant,2,3,4,1,Alley Oop Layup shot,1,10,-3,True
+Kevin Durant,1,8,52,1,Alley Oop Layup shot,1,10,12,True
+Kevin Durant,1,6,39,1,Cutting Dunk Shot,1,10,11,True
+Kevin Durant,2,3,7,1,Cutting Dunk Shot,1,6,8,True
+Kevin Durant,1,6,22,0,Cutting Dunk Shot,3,-24,18,True
+Kevin Durant,4,5,37,1,Cutting Dunk Shot,1,-8,6,True
+Kevin Durant,3,10,23,1,Cutting Dunk Shot,2,4,21,True
+Kevin Durant,3,2,19,1,Cutting Dunk Shot,0,6,4,True
+Kevin Durant,1,11,31,1,Cutting Dunk Shot,0,6,5,True
+Kevin Durant,1,3,23,1,Cutting Dunk Shot,1,-2,19,True
+Kevin Durant,4,3,43,1,Cutting Dunk Shot,0,-5,-3,True
+Kevin Durant,2,6,3,1,Cutting Dunk Shot,0,2,7,True
+Kevin Durant,3,3,57,1,Cutting Dunk Shot,2,9,27,True
+Kevin Durant,2,4,27,1,Cutting Dunk Shot,2,10,18,True
+Kevin Durant,2,4,0,1,Cutting Dunk Shot,1,-7,13,True
+Kevin Durant,3,8,11,1,Cutting Dunk Shot,1,0,11,True
+Kevin Durant,1,7,41,1,Cutting Dunk Shot,1,-14,8,True
+Kevin Durant,2,2,24,1,Cutting Dunk Shot,1,7,15,True
+Kevin Durant,4,5,13,1,Cutting Dunk Shot,2,11,18,True
+Kevin Durant,3,11,47,1,Cutting Dunk Shot,2,19,8,True
+Kevin Durant,1,9,2,1,Cutting Dunk Shot,1,-1,12,True
+Kevin Durant,1,11,27,1,Cutting Dunk Shot,0,0,3,True
+Kevin Durant,1,9,45,1,Cutting Dunk Shot,1,1,17,True
+Kevin Durant,3,7,40,1,Cutting Dunk Shot,2,-3,21,True
+Kevin Durant,2,4,16,1,Cutting Dunk Shot,1,-11,4,True
+Kevin Durant,1,4,50,1,Cutting Dunk Shot,0,0,5,True
+Kevin Durant,1,6,29,1,Cutting Dunk Shot,1,10,12,True
+Kevin Durant,2,3,53,0,Cutting Layup Shot,1,0,18,True
+Kevin Durant,2,0,42,0,Cutting Layup Shot,1,-11,12,True
+Kevin Durant,1,4,46,1,Cutting Layup Shot,1,5,11,True
+Kevin Durant,2,1,31,0,Cutting Layup Shot,1,-8,7,True
+Kevin Durant,1,11,22,1,Cutting Layup Shot,1,-6,18,True
+Kevin Durant,3,6,36,0,Cutting Layup Shot,2,-19,10,True
+Kevin Durant,1,8,56,1,Cutting Layup Shot,1,16,5,True
+Kevin Durant,2,1,33,1,Cutting Layup Shot,1,16,5,True
+Kevin Durant,3,9,7,1,Cutting Layup Shot,1,11,1,True
+Kevin Durant,3,4,49,1,Driving Dunk Shot,0,-3,3,True
+Kevin Durant,1,7,36,1,Driving Dunk Shot,1,8,13,True
+Kevin Durant,2,0,8,1,Driving Dunk Shot,0,2,7,True
+Kevin Durant,2,9,59,1,Driving Dunk Shot,1,-4,19,True
+Kevin Durant,3,4,56,1,Driving Dunk Shot,1,2,10,True
+Kevin Durant,1,3,57,0,Driving Dunk Shot,1,-6,16,True
+Kevin Durant,3,9,18,1,Driving Dunk Shot,0,-3,8,True
+Kevin Durant,2,3,46,1,Driving Dunk Shot,2,-6,28,True
+Kevin Durant,2,5,19,1,Driving Dunk Shot,1,1,17,True
+Kevin Durant,1,6,2,1,Driving Dunk Shot,3,-7,31,True
+Kevin Durant,4,4,40,1,Driving Dunk Shot,1,-3,10,True
+Kevin Durant,1,5,15,1,Driving Dunk Shot,0,4,2,True
+Kevin Durant,3,3,45,1,Driving Dunk Shot,1,6,15,True
+Kevin Durant,1,3,55,1,Driving Dunk Shot,2,4,22,True
+Kevin Durant,3,5,19,1,Driving Dunk Shot,1,16,5,True
+Kevin Durant,3,3,35,1,Driving Dunk Shot,1,3,13,True
+Kevin Durant,2,2,54,0,Driving Dunk Shot,2,-3,26,True
+Kevin Durant,3,8,15,1,Driving Dunk Shot,0,5,0,True
+Kevin Durant,1,6,42,0,Driving Dunk Shot,1,10,12,True
+Kevin Durant,4,1,34,1,Driving Dunk Shot,0,-1,5,True
+Kevin Durant,3,11,39,1,Driving Dunk Shot,0,-8,4,True
+Kevin Durant,3,3,46,0,Driving Finger Roll Layup Shot,4,4,48,True
+Kevin Durant,2,4,24,1,Driving Finger Roll Layup Shot,1,2,14,True
+Kevin Durant,1,0,35,1,Driving Finger Roll Layup Shot,2,5,26,True
+Kevin Durant,3,6,41,1,Driving Finger Roll Layup Shot,2,22,13,True
+Kevin Durant,1,1,25,0,Driving Finger Roll Layup Shot,0,5,-1,True
+Kevin Durant,2,0,50,1,Driving Finger Roll Layup Shot,2,18,16,True
+Kevin Durant,1,2,58,0,Driving Finger Roll Layup Shot,2,14,15,True
+Kevin Durant,3,10,21,1,Driving Finger Roll Layup Shot,0,0,2,True
+Kevin Durant,1,3,44,1,Driving Finger Roll Layup Shot,1,-4,19,True
+Kevin Durant,1,7,15,1,Driving Finger Roll Layup Shot,1,13,11,True
+Kevin Durant,1,8,45,0,Driving Floating Bank Jump Shot,8,-53,61,True
+Kevin Durant,3,3,31,1,Driving Floating Bank Jump Shot,11,98,55,True
+Kevin Durant,1,8,36,1,Driving Floating Bank Jump Shot,9,89,18,True
+Kevin Durant,3,8,0,0,Driving Floating Bank Jump Shot,3,22,31,True
+Kevin Durant,1,10,32,0,Driving Floating Bank Jump Shot,13,-73,113,True
+Kevin Durant,2,4,32,1,Driving Floating Bank Jump Shot,6,-57,22,True
+Kevin Durant,1,5,42,1,Driving Floating Bank Jump Shot,4,32,29,True
+Kevin Durant,1,1,17,1,Driving Floating Bank Jump Shot,8,-57,67,True
+Kevin Durant,3,5,14,1,Driving Floating Bank Jump Shot,9,88,41,True
+Kevin Durant,1,10,43,1,Driving Floating Bank Jump Shot,11,101,46,True
+Kevin Durant,3,8,30,1,Driving Floating Bank Jump Shot,7,-38,64,True
+Kevin Durant,1,5,53,0,Driving Floating Jump Shot,8,-69,45,True
+Kevin Durant,3,3,33,0,Driving Floating Jump Shot,6,-62,8,True
+Kevin Durant,1,10,47,0,Driving Floating Jump Shot,15,-148,41,True
+Kevin Durant,2,1,1,0,Driving Floating Jump Shot,9,90,22,True
+Kevin Durant,1,4,27,1,Driving Floating Jump Shot,9,-95,31,True
+Kevin Durant,3,4,19,1,Driving Floating Jump Shot,3,8,34,True
+Kevin Durant,1,11,22,1,Driving Floating Jump Shot,7,-35,71,True
+Kevin Durant,1,7,1,1,Driving Floating Jump Shot,6,-1,69,True
+Kevin Durant,3,0,35,1,Driving Floating Jump Shot,7,9,75,True
+Kevin Durant,2,11,33,1,Driving Floating Jump Shot,7,-6,71,True
+Kevin Durant,2,1,3,1,Driving Floating Jump Shot,2,21,8,True
+Kevin Durant,2,1,25,1,Driving Floating Jump Shot,8,80,8,True
+Kevin Durant,3,2,53,0,Driving Floating Jump Shot,6,44,46,True
+Kevin Durant,1,5,35,1,Driving Floating Jump Shot,12,-68,110,True
+Kevin Durant,3,4,48,1,Driving Hook Shot,2,20,16,True
+Kevin Durant,2,10,37,0,Driving Layup Shot,1,11,10,True
+Kevin Durant,1,7,16,1,Driving Layup Shot,1,-8,11,True
+Kevin Durant,1,0,1,1,Driving Layup Shot,2,-7,23,True
+Kevin Durant,1,10,20,1,Driving Layup Shot,0,3,5,True
+Kevin Durant,1,5,16,0,Driving Layup Shot,2,15,17,True
+Kevin Durant,2,2,6,1,Driving Layup Shot,1,0,14,True
+Kevin Durant,3,2,22,1,Driving Layup Shot,1,-15,11,True
+Kevin Durant,2,6,5,0,Driving Layup Shot,1,-7,13,True
+Kevin Durant,4,2,24,1,Driving Layup Shot,1,8,7,True
+Kevin Durant,1,5,44,0,Driving Layup Shot,4,14,47,True
+Kevin Durant,1,2,24,0,Driving Layup Shot,0,3,2,True
+Kevin Durant,3,1,2,1,Driving Layup Shot,1,15,-1,True
+Kevin Durant,1,11,8,0,Driving Layup Shot,1,10,8,True
+Kevin Durant,1,4,31,1,Driving Layup Shot,1,8,14,True
+Kevin Durant,4,2,53,1,Driving Layup Shot,2,-26,4,True
+Kevin Durant,1,1,21,1,Driving Layup Shot,2,9,19,True
+Kevin Durant,1,7,23,1,Driving Layup Shot,2,16,13,True
+Kevin Durant,4,5,49,1,Driving Layup Shot,1,-3,17,True
+Kevin Durant,3,7,30,1,Driving Layup Shot,1,2,11,True
+Kevin Durant,1,7,12,1,Driving Layup Shot,1,-13,11,True
+Kevin Durant,2,1,15,0,Driving Layup Shot,2,0,20,True
+Kevin Durant,3,5,9,0,Driving Layup Shot,6,-23,57,True
+Kevin Durant,1,1,40,1,Driving Layup Shot,2,-6,24,True
+Kevin Durant,3,3,17,1,Driving Layup Shot,4,-23,38,True
+Kevin Durant,4,9,36,1,Driving Layup Shot,2,16,16,True
+Kevin Durant,2,0,21,0,Driving Layup Shot,7,41,59,True
+Kevin Durant,1,1,15,0,Driving Layup Shot,2,-6,28,True
+Kevin Durant,2,6,2,1,Driving Layup Shot,0,6,5,True
+Kevin Durant,4,3,35,1,Driving Layup Shot,3,-23,29,True
+Kevin Durant,2,4,31,0,Driving Layup Shot,0,5,4,True
+Kevin Durant,3,2,14,1,Driving Layup Shot,5,46,31,True
+Kevin Durant,2,0,12,0,Driving Layup Shot,3,-2,34,True
+Kevin Durant,1,3,32,1,Driving Layup Shot,3,-11,28,True
+Kevin Durant,1,8,32,1,Driving Layup Shot,0,4,0,True
+Kevin Durant,1,9,37,1,Driving Reverse Dunk Shot,0,1,-4,True
+Kevin Durant,1,4,24,1,Driving Reverse Layup Shot,2,19,8,True
+Kevin Durant,4,1,55,1,Driving Reverse Layup Shot,0,3,2,True
+Kevin Durant,2,6,42,1,Driving Reverse Layup Shot,2,-1,23,True
+Kevin Durant,2,7,29,0,Driving Reverse Layup Shot,2,6,22,True
+Kevin Durant,3,6,33,1,Driving Reverse Layup Shot,2,9,18,True
+Kevin Durant,2,3,52,0,Driving Reverse Layup Shot,1,5,13,True
+Kevin Durant,3,6,23,1,Driving Reverse Layup Shot,1,9,11,True
+Kevin Durant,1,9,50,0,Dunk Shot,3,26,23,True
+Kevin Durant,2,0,36,1,Dunk Shot,0,3,4,True
+Kevin Durant,1,10,16,1,Dunk Shot,1,0,11,True
+Kevin Durant,4,1,29,1,Dunk Shot,1,-1,11,True
+Kevin Durant,2,1,45,1,Dunk Shot,0,-6,2,True
+Kevin Durant,3,9,35,1,Dunk Shot,0,0,4,True
+Kevin Durant,1,10,27,0,Dunk Shot,0,0,4,True
+Kevin Durant,3,6,30,1,Dunk Shot,1,-9,17,True
+Kevin Durant,1,6,49,1,Dunk Shot,2,0,24,True
+Kevin Durant,4,7,16,1,Dunk Shot,1,-3,15,True
+Kevin Durant,3,4,32,1,Dunk Shot,1,10,12,True
+Kevin Durant,3,6,52,1,Dunk Shot,0,2,6,True
+Kevin Durant,1,5,25,1,Dunk Shot,1,-3,11,True
+Kevin Durant,2,2,44,1,Dunk Shot,1,9,10,True
+Kevin Durant,1,9,23,1,Dunk Shot,1,1,15,True
+Kevin Durant,3,10,16,1,Dunk Shot,3,-17,36,True
+Kevin Durant,2,4,21,1,Dunk Shot,1,-12,12,True
+Kevin Durant,1,3,50,1,Dunk Shot,1,-11,16,True
+Kevin Durant,3,1,28,1,Dunk Shot,0,-2,8,True
+Kevin Durant,1,2,40,1,Dunk Shot,0,4,4,True
+Kevin Durant,1,5,32,1,Dunk Shot,0,5,6,True
+Kevin Durant,1,7,19,1,Dunk Shot,0,4,5,True
+Kevin Durant,4,2,6,0,Dunk Shot,3,23,25,True
+Kevin Durant,3,3,59,1,Dunk Shot,1,-5,9,True
+Kevin Durant,3,4,49,1,Fadeaway Jump Shot,16,117,120,True
+Kevin Durant,2,6,27,0,Fadeaway Jump Shot,14,128,74,True
+Kevin Durant,3,10,59,1,Fadeaway Jump Shot,12,-125,0,True
+Kevin Durant,2,4,15,0,Fadeaway Jump Shot,15,32,156,True
+Kevin Durant,2,2,42,0,Fadeaway Jump Shot,19,29,192,True
+Kevin Durant,2,5,31,1,Fadeaway Jump Shot,18,78,168,True
+Kevin Durant,2,10,47,0,Fadeaway Jump Shot,14,-55,132,True
+Kevin Durant,3,0,2,0,Fadeaway Jump Shot,17,24,178,True
+Kevin Durant,3,8,5,0,Fadeaway Jump Shot,10,74,68,True
+Kevin Durant,4,2,58,1,Fadeaway Jump Shot,11,-112,10,True
+Kevin Durant,1,8,4,0,Fadeaway Jump Shot,19,184,59,True
+Kevin Durant,1,8,31,1,Fadeaway Jump Shot,10,-108,9,True
+Kevin Durant,3,9,29,1,Fadeaway Jump Shot,12,51,114,True
+Kevin Durant,2,0,41,1,Fadeaway Jump Shot,8,39,75,True
+Kevin Durant,1,0,38,1,Fadeaway Jump Shot,15,-76,137,True
+Kevin Durant,4,2,49,1,Fadeaway Jump Shot,17,-56,162,True
+Kevin Durant,4,2,37,0,Fadeaway Jump Shot,14,-105,101,True
+Kevin Durant,3,8,38,1,Fadeaway Jump Shot,9,3,92,True
+Kevin Durant,2,6,43,0,Fadeaway Jump Shot,15,156,28,True
+Kevin Durant,3,11,41,0,Fadeaway Jump Shot,10,-49,92,True
+Kevin Durant,1,2,1,0,Fadeaway Jump Shot,9,-55,79,True
+Kevin Durant,2,3,30,0,Fadeaway Jump Shot,17,95,152,True
+Kevin Durant,2,4,18,1,Fadeaway Jump Shot,16,163,21,True
+Kevin Durant,1,10,56,0,Fadeaway Jump Shot,22,160,151,True
+Kevin Durant,4,10,58,0,Fadeaway Jump Shot,14,138,46,True
+Kevin Durant,1,4,22,1,Fadeaway Jump Shot,17,-133,111,True
+Kevin Durant,3,8,39,0,Fadeaway Jump Shot,10,-90,48,True
+Kevin Durant,2,2,55,1,Fadeaway Jump Shot,13,54,122,True
+Kevin Durant,2,6,32,1,Fadeaway Jump Shot,15,83,130,True
+Kevin Durant,3,5,5,0,Fadeaway Jump Shot,15,-9,153,True
+Kevin Durant,3,10,54,1,Fadeaway Jump Shot,10,105,30,True
+Kevin Durant,4,0,12,0,Fadeaway Jump Shot,15,154,21,True
+Kevin Durant,3,2,9,1,Fadeaway Jump Shot,19,158,110,True
+Kevin Durant,3,9,32,1,Fadeaway Jump Shot,13,-47,122,True
+Kevin Durant,1,7,12,0,Fadeaway Jump Shot,22,103,203,True
+Kevin Durant,1,9,19,1,Fadeaway Jump Shot,17,-103,146,True
+Kevin Durant,1,4,57,1,Fadeaway Jump Shot,11,-90,64,True
+Kevin Durant,2,4,18,0,Fadeaway Jump Shot,12,67,100,True
+Kevin Durant,3,5,33,0,Fadeaway Jump Shot,16,94,131,True
+Kevin Durant,1,8,54,1,Fadeaway Jump Shot,15,103,115,True
+Kevin Durant,4,9,47,1,Fadeaway Jump Shot,9,-5,96,True
+Kevin Durant,2,10,20,1,Finger Roll Layup Shot,1,0,11,True
+Kevin Durant,3,8,55,0,Finger Roll Layup Shot,3,-22,24,True
+Kevin Durant,1,10,50,1,Floating Jump shot,13,2,130,True
+Kevin Durant,1,8,27,0,Floating Jump shot,12,-9,120,True
+Kevin Durant,3,10,25,1,Floating Jump shot,7,71,14,True
+Kevin Durant,2,8,57,1,Floating Jump shot,14,-117,84,True
+Kevin Durant,2,5,45,1,Floating Jump shot,7,4,74,True
+Kevin Durant,2,3,47,1,Floating Jump shot,11,11,113,True
+Kevin Durant,1,3,43,1,Floating Jump shot,18,-80,162,True
+Kevin Durant,3,1,8,0,Floating Jump shot,3,-31,22,True
+Kevin Durant,3,3,1,1,Floating Jump shot,12,-62,104,True
+Kevin Durant,2,8,43,0,Floating Jump shot,5,15,55,True
+Kevin Durant,1,4,53,1,Floating Jump shot,14,-117,83,True
+Kevin Durant,3,2,21,0,Floating Jump shot,10,-106,20,True
+Kevin Durant,3,0,2,0,Floating Jump shot,12,9,122,True
+Kevin Durant,1,5,49,1,Floating Jump shot,14,60,128,True
+Kevin Durant,3,6,22,0,Floating Jump shot,15,-139,58,True
+Kevin Durant,4,7,19,0,Floating Jump shot,8,70,50,True
+Kevin Durant,2,1,17,0,Hook Shot,8,40,74,True
+Kevin Durant,1,1,41,0,Hook Shot,8,32,78,True
+Kevin Durant,2,0,39,0,Jump Bank Shot,6,62,32,True
+Kevin Durant,4,6,41,1,Jump Bank Shot,26,-160,216,False
+Kevin Durant,1,2,52,1,Jump Bank Shot,8,-47,74,True
+Kevin Durant,2,1,14,1,Jump Bank Shot,6,5,67,True
+Kevin Durant,3,1,54,1,Jump Bank Shot,12,-54,114,True
+Kevin Durant,1,7,33,1,Jump Shot,16,-38,164,True
+Kevin Durant,4,0,21,1,Jump Shot,21,-100,191,True
+Kevin Durant,3,2,37,1,Jump Shot,26,186,189,False
+Kevin Durant,2,7,2,1,Jump Shot,23,228,73,False
+Kevin Durant,3,2,30,0,Jump Shot,26,155,220,False
+Kevin Durant,3,7,19,0,Jump Shot,26,-137,223,False
+Kevin Durant,3,5,35,1,Jump Shot,24,-241,13,False
+Kevin Durant,1,1,58,0,Jump Shot,25,119,221,False
+Kevin Durant,3,8,5,1,Jump Shot,26,-168,210,False
+Kevin Durant,1,8,50,0,Jump Shot,24,226,88,False
+Kevin Durant,1,6,53,0,Jump Shot,25,84,240,False
+Kevin Durant,1,10,19,0,Jump Shot,17,-132,116,True
+Kevin Durant,2,5,12,1,Jump Shot,26,-47,257,False
+Kevin Durant,3,0,7,1,Jump Shot,25,116,231,False
+Kevin Durant,1,2,53,0,Jump Shot,24,236,54,False
+Kevin Durant,1,2,29,0,Jump Shot,23,232,0,False
+Kevin Durant,1,9,13,0,Jump Shot,25,204,147,False
+Kevin Durant,2,4,44,0,Jump Shot,24,51,244,False
+Kevin Durant,1,1,51,0,Jump Shot,26,182,193,False
+Kevin Durant,1,3,34,1,Jump Shot,16,-164,21,True
+Kevin Durant,2,4,19,1,Jump Shot,26,-204,172,False
+Kevin Durant,4,6,28,0,Jump Shot,25,122,227,False
+Kevin Durant,3,9,58,0,Jump Shot,14,-149,0,True
+Kevin Durant,2,2,46,1,Jump Shot,27,-6,273,False
+Kevin Durant,4,4,23,0,Jump Shot,23,-230,40,False
+Kevin Durant,2,0,42,0,Jump Shot,26,158,211,False
+Kevin Durant,4,6,41,0,Jump Shot,25,138,217,False
+Kevin Durant,3,9,51,1,Jump Shot,26,-220,142,False
+Kevin Durant,1,7,54,1,Jump Shot,26,66,253,False
+Kevin Durant,3,7,22,0,Jump Shot,21,165,143,True
+Kevin Durant,1,1,20,0,Jump Shot,23,-234,42,False
+Kevin Durant,1,10,31,1,Jump Shot,18,-188,-1,True
+Kevin Durant,1,10,35,1,Jump Shot,25,-1,257,False
+Kevin Durant,1,5,57,0,Jump Shot,25,-168,196,False
+Kevin Durant,1,9,19,0,Jump Shot,25,-213,134,False
+Kevin Durant,1,1,49,0,Jump Shot,15,136,76,True
+Kevin Durant,2,3,51,1,Jump Shot,15,149,52,True
+Kevin Durant,2,1,4,0,Jump Shot,27,141,236,False
+Kevin Durant,1,2,30,0,Jump Shot,13,-62,119,True
+Kevin Durant,4,5,47,0,Jump Shot,23,231,6,False
+Kevin Durant,2,5,37,0,Jump Shot,13,-67,119,True
+Kevin Durant,3,3,54,0,Jump Shot,19,-91,168,True
+Kevin Durant,2,5,3,1,Jump Shot,18,-66,175,True
+Kevin Durant,2,0,46,1,Jump Shot,18,102,152,True
+Kevin Durant,3,7,37,1,Jump Shot,23,230,10,False
+Kevin Durant,3,7,7,0,Jump Shot,26,-141,220,False
+Kevin Durant,3,8,5,0,Jump Shot,11,9,116,True
+Kevin Durant,1,2,23,1,Jump Shot,17,-17,172,True
+Kevin Durant,3,2,44,0,Jump Shot,25,77,247,False
+Kevin Durant,4,1,11,0,Jump Shot,25,-198,162,False
+Kevin Durant,4,0,44,0,Jump Shot,25,-129,222,False
+Kevin Durant,2,9,48,0,Jump Shot,25,-174,185,False
+Kevin Durant,4,9,39,1,Jump Shot,26,174,195,False
+Kevin Durant,4,10,25,1,Jump Shot,25,-147,204,False
+Kevin Durant,3,0,39,0,Jump Shot,18,-187,10,True
+Kevin Durant,3,5,51,0,Jump Shot,25,-176,184,False
+Kevin Durant,3,9,3,0,Jump Shot,25,95,241,False
+Kevin Durant,3,8,29,0,Jump Shot,11,-107,41,True
+Kevin Durant,2,1,39,0,Jump Shot,25,214,139,False
+Kevin Durant,4,4,24,0,Jump Shot,24,-116,219,False
+Kevin Durant,1,4,37,0,Jump Shot,26,-142,228,False
+Kevin Durant,2,3,3,0,Jump Shot,15,123,101,True
+Kevin Durant,1,11,30,1,Jump Shot,23,-235,48,False
+Kevin Durant,2,3,21,0,Jump Shot,29,-11,290,False
+Kevin Durant,3,1,14,0,Jump Shot,6,-62,-2,True
+Kevin Durant,2,1,4,0,Jump Shot,27,-14,277,False
+Kevin Durant,3,11,51,0,Jump Shot,28,96,267,False
+Kevin Durant,2,0,0,0,Jump Shot,37,180,333,False
+Kevin Durant,3,10,0,0,Jump Shot,27,-179,209,False
+Kevin Durant,4,11,15,1,Jump Shot,23,-232,32,False
+Kevin Durant,1,3,58,0,Jump Shot,20,164,120,True
+Kevin Durant,2,3,31,0,Jump Shot,19,192,-11,True
+Kevin Durant,3,7,57,0,Jump Shot,27,-217,173,False
+Kevin Durant,3,11,5,0,Jump Shot,18,143,125,True
+Kevin Durant,3,5,55,0,Jump Shot,14,122,86,True
+Kevin Durant,2,3,38,0,Jump Shot,12,-5,120,True
+Kevin Durant,2,3,7,1,Jump Shot,27,124,244,False
+Kevin Durant,3,3,0,1,Jump Shot,25,6,256,False
+Kevin Durant,3,8,15,0,Jump Shot,15,94,125,True
+Kevin Durant,2,1,37,0,Jump Shot,19,-160,112,True
+Kevin Durant,4,4,33,1,Jump Shot,25,144,214,False
+Kevin Durant,2,5,6,0,Jump Shot,17,158,73,True
+Kevin Durant,4,11,19,0,Jump Shot,23,-230,64,False
+Kevin Durant,3,6,54,0,Jump Shot,26,158,214,False
+Kevin Durant,1,9,56,0,Jump Shot,21,-147,154,True
+Kevin Durant,1,3,33,1,Jump Shot,16,98,134,True
+Kevin Durant,1,9,3,1,Jump Shot,28,139,246,False
+Kevin Durant,1,11,27,0,Jump Shot,27,-159,221,False
+Kevin Durant,2,2,39,0,Jump Shot,26,136,232,False
+Kevin Durant,3,6,25,0,Jump Shot,25,102,236,False
+Kevin Durant,3,2,15,0,Jump Shot,26,16,263,False
+Kevin Durant,4,6,55,0,Jump Shot,14,-132,48,True
+Kevin Durant,1,8,51,0,Jump Shot,25,-174,190,False
+Kevin Durant,4,6,19,1,Jump Shot,15,82,136,True
+Kevin Durant,3,11,21,0,Jump Shot,23,231,-4,False
+Kevin Durant,1,7,4,0,Jump Shot,18,181,25,True
+Kevin Durant,1,4,21,0,Jump Shot,15,-112,113,True
+Kevin Durant,3,10,48,0,Jump Shot,14,37,144,True
+Kevin Durant,1,6,48,1,Jump Shot,25,-129,219,False
+Kevin Durant,3,7,32,0,Jump Shot,17,41,168,True
+Kevin Durant,2,4,3,0,Jump Shot,25,-149,212,False
+Kevin Durant,4,5,42,0,Jump Shot,17,-56,168,True
+Kevin Durant,3,10,11,1,Jump Shot,20,-89,182,True
+Kevin Durant,4,4,11,0,Jump Shot,24,132,209,False
+Kevin Durant,4,8,39,0,Jump Shot,12,1,127,True
+Kevin Durant,4,9,52,0,Jump Shot,25,149,203,False
+Kevin Durant,1,10,47,0,Jump Shot,25,157,200,False
+Kevin Durant,3,4,36,0,Jump Shot,24,170,182,False
+Kevin Durant,4,1,11,0,Jump Shot,8,-8,87,True
+Kevin Durant,3,9,35,1,Jump Shot,26,176,193,False
+Kevin Durant,2,7,52,1,Jump Shot,12,96,79,True
+Kevin Durant,1,9,5,1,Jump Shot,25,141,209,False
+Kevin Durant,3,5,19,1,Jump Shot,25,-152,208,False
+Kevin Durant,2,0,27,0,Jump Shot,17,-7,170,True
+Kevin Durant,3,8,41,0,Jump Shot,21,-79,198,True
+Kevin Durant,3,7,22,0,Jump Shot,19,-42,190,True
+Kevin Durant,4,2,4,0,Jump Shot,25,-47,254,False
+Kevin Durant,2,2,12,1,Jump Shot,23,-232,32,False
+Kevin Durant,1,10,57,0,Jump Shot,28,202,197,False
+Kevin Durant,4,3,6,1,Jump Shot,26,-210,155,False
+Kevin Durant,3,5,35,1,Jump Shot,18,-177,58,True
+Kevin Durant,2,10,52,0,Jump Shot,25,-127,225,False
+Kevin Durant,2,1,24,1,Jump Shot,24,-136,204,False
+Kevin Durant,1,8,38,1,Jump Shot,25,107,226,False
+Kevin Durant,3,6,51,0,Jump Shot,15,89,123,True
+Kevin Durant,1,7,54,0,Jump Shot,24,-25,242,False
+Kevin Durant,3,0,38,1,Jump Shot,16,147,80,True
+Kevin Durant,1,1,24,0,Jump Shot,13,-134,28,True
+Kevin Durant,3,2,41,1,Jump Shot,22,-228,13,False
+Kevin Durant,3,1,15,0,Jump Shot,26,-155,219,False
+Kevin Durant,2,0,29,0,Jump Shot,27,-159,228,False
+Kevin Durant,1,9,46,0,Jump Shot,19,107,159,True
+Kevin Durant,3,5,5,0,Jump Shot,11,5,117,True
+Kevin Durant,1,4,51,1,Jump Shot,22,119,186,True
+Kevin Durant,3,11,33,0,Jump Shot,15,-29,155,True
+Kevin Durant,2,4,38,1,Jump Shot,28,-5,281,False
+Kevin Durant,4,5,16,0,Jump Shot,26,-173,197,False
+Kevin Durant,2,5,45,0,Jump Shot,16,107,126,True
+Kevin Durant,1,1,51,0,Jump Shot,17,-2,175,True
+Kevin Durant,1,6,15,0,Jump Shot,26,-70,259,False
+Kevin Durant,2,5,10,0,Jump Shot,27,-112,251,False
+Kevin Durant,3,11,26,0,Jump Shot,25,144,215,False
+Kevin Durant,1,7,40,0,Jump Shot,20,-106,173,True
+Kevin Durant,3,11,2,0,Jump Shot,27,-78,265,False
+Kevin Durant,4,4,37,1,Jump Shot,17,105,138,True
+Kevin Durant,4,6,50,0,Jump Shot,26,-107,243,False
+Kevin Durant,3,2,55,0,Jump Shot,26,-130,229,False
+Kevin Durant,4,2,26,0,Jump Shot,25,-163,193,False
+Kevin Durant,1,11,47,1,Jump Shot,21,68,207,True
+Kevin Durant,3,7,44,0,Jump Shot,22,228,4,False
+Kevin Durant,4,0,46,1,Jump Shot,26,3,269,False
+Kevin Durant,5,1,49,1,Jump Shot,22,186,119,True
+Kevin Durant,3,1,49,1,Jump Shot,20,163,121,True
+Kevin Durant,2,7,22,1,Jump Shot,27,127,243,False
+Kevin Durant,4,1,35,0,Jump Shot,11,-5,116,True
+Kevin Durant,5,3,1,0,Jump Shot,26,-65,252,False
+Kevin Durant,4,2,41,0,Jump Shot,17,-105,135,True
+Kevin Durant,3,8,53,0,Jump Shot,23,-233,0,False
+Kevin Durant,3,4,48,1,Jump Shot,26,181,192,False
+Kevin Durant,2,0,51,1,Jump Shot,11,112,39,True
+Kevin Durant,3,3,29,1,Jump Shot,24,-228,77,False
+Kevin Durant,3,3,37,0,Jump Shot,11,-113,11,True
+Kevin Durant,2,9,14,1,Jump Shot,24,-100,227,False
+Kevin Durant,2,1,56,1,Jump Shot,24,188,159,False
+Kevin Durant,1,10,12,0,Jump Shot,23,-234,41,False
+Kevin Durant,2,10,4,1,Jump Shot,25,46,248,False
+Kevin Durant,2,0,45,1,Jump Shot,17,-120,133,True
+Kevin Durant,3,6,18,1,Jump Shot,25,-5,253,False
+Kevin Durant,4,11,29,0,Jump Shot,18,-38,179,True
+Kevin Durant,4,5,20,1,Jump Shot,24,-134,209,False
+Kevin Durant,4,4,51,1,Jump Shot,25,-91,237,False
+Kevin Durant,3,7,10,0,Jump Shot,13,-137,17,True
+Kevin Durant,3,3,17,0,Jump Shot,26,-219,143,False
+Kevin Durant,4,1,57,1,Jump Shot,5,30,46,True
+Kevin Durant,2,1,45,1,Jump Shot,16,-168,12,True
+Kevin Durant,4,1,13,0,Jump Shot,18,-40,185,True
+Kevin Durant,3,2,8,0,Jump Shot,24,-51,242,False
+Kevin Durant,4,6,33,0,Jump Shot,17,143,101,True
+Kevin Durant,3,0,7,0,Jump Shot,27,141,232,False
+Kevin Durant,2,5,16,0,Jump Shot,14,98,104,True
+Kevin Durant,1,3,2,0,Jump Shot,24,-104,227,False
+Kevin Durant,2,5,41,0,Jump Shot,25,-123,220,False
+Kevin Durant,2,2,47,0,Jump Shot,25,30,253,False
+Kevin Durant,3,0,30,0,Jump Shot,18,103,154,True
+Kevin Durant,3,9,54,1,Jump Shot,14,63,128,True
+Kevin Durant,1,0,33,0,Jump Shot,11,49,100,True
+Kevin Durant,4,2,33,0,Jump Shot,26,41,257,False
+Kevin Durant,3,5,56,0,Jump Shot,25,112,230,False
+Kevin Durant,2,2,33,0,Jump Shot,26,139,229,False
+Kevin Durant,1,4,3,1,Jump Shot,25,99,239,False
+Kevin Durant,4,3,13,1,Jump Shot,19,160,116,True
+Kevin Durant,3,8,43,1,Jump Shot,25,-45,252,False
+Kevin Durant,1,9,3,1,Jump Shot,19,182,63,True
+Kevin Durant,1,11,47,0,Jump Shot,25,119,225,False
+Kevin Durant,1,8,26,1,Jump Shot,25,-143,214,False
+Kevin Durant,4,0,18,0,Jump Shot,31,139,287,False
+Kevin Durant,2,6,37,0,Jump Shot,11,-32,108,True
+Kevin Durant,2,2,47,1,Jump Shot,18,-117,142,True
+Kevin Durant,4,7,53,0,Jump Shot,30,-97,288,False
+Kevin Durant,2,10,27,0,Jump Shot,19,142,134,True
+Kevin Durant,2,11,45,0,Jump Shot,19,63,180,True
+Kevin Durant,3,11,18,1,Jump Shot,25,-90,236,False
+Kevin Durant,1,8,44,1,Jump Shot,1,-3,16,True
+Kevin Durant,4,7,48,0,Jump Shot,20,130,153,True
+Kevin Durant,2,5,14,1,Jump Shot,23,234,6,False
+Kevin Durant,3,7,32,0,Jump Shot,18,159,88,True
+Kevin Durant,4,1,2,1,Jump Shot,26,-151,214,False
+Kevin Durant,2,6,37,0,Jump Shot,25,125,223,False
+Kevin Durant,4,5,21,0,Jump Shot,25,224,127,False
+Kevin Durant,2,11,23,0,Jump Shot,26,98,242,False
+Kevin Durant,3,11,21,0,Jump Shot,16,42,163,True
+Kevin Durant,1,10,54,1,Jump Shot,13,-31,134,True
+Kevin Durant,2,1,15,1,Jump Shot,16,-105,133,True
+Kevin Durant,3,0,9,0,Jump Shot,12,34,121,True
+Kevin Durant,1,7,57,0,Jump Shot,26,-157,209,False
+Kevin Durant,2,3,31,0,Jump Shot,15,90,120,True
+Kevin Durant,3,8,24,1,Jump Shot,14,-89,117,True
+Kevin Durant,4,6,35,0,Jump Shot,19,92,167,True
+Kevin Durant,1,11,17,1,Jump Shot,25,-157,204,False
+Kevin Durant,2,2,57,0,Jump Shot,28,-142,248,False
+Kevin Durant,3,9,0,0,Jump Shot,26,103,243,False
+Kevin Durant,1,7,36,0,Jump Shot,14,62,128,True
+Kevin Durant,3,11,39,0,Jump Shot,25,-141,211,False
+Kevin Durant,1,4,4,1,Jump Shot,27,-160,222,False
+Kevin Durant,3,7,4,1,Jump Shot,14,-27,141,True
+Kevin Durant,2,1,59,1,Jump Shot,26,106,242,False
+Kevin Durant,3,0,58,0,Jump Shot,19,65,183,True
+Kevin Durant,2,3,51,1,Jump Shot,27,-196,188,False
+Kevin Durant,3,10,48,0,Jump Shot,20,174,113,True
+Kevin Durant,1,8,47,0,Jump Shot,20,134,151,True
+Kevin Durant,3,2,42,0,Jump Shot,27,159,227,False
+Kevin Durant,1,4,3,0,Jump Shot,26,151,212,False
+Kevin Durant,4,6,55,0,Jump Shot,26,100,242,False
+Kevin Durant,2,6,21,0,Jump Shot,25,58,248,False
+Kevin Durant,1,5,53,0,Jump Shot,23,-230,5,False
+Kevin Durant,2,3,38,1,Jump Shot,23,-222,77,False
+Kevin Durant,1,9,43,0,Jump Shot,25,219,136,False
+Kevin Durant,4,1,40,0,Jump Shot,25,-165,200,False
+Kevin Durant,4,5,58,1,Jump Shot,18,80,167,True
+Kevin Durant,3,3,34,1,Jump Shot,16,112,121,True
+Kevin Durant,2,5,12,0,Jump Shot,15,-114,100,True
+Kevin Durant,2,2,23,0,Jump Shot,18,71,176,True
+Kevin Durant,3,10,19,1,Jump Shot,13,123,55,True
+Kevin Durant,2,5,7,0,Jump Shot,8,-6,84,True
+Kevin Durant,3,6,54,1,Jump Shot,29,-195,218,False
+Kevin Durant,2,0,59,0,Jump Shot,26,-106,246,False
+Kevin Durant,3,1,4,0,Jump Shot,25,-109,236,False
+Kevin Durant,1,2,24,0,Jump Shot,27,-148,235,False
+Kevin Durant,3,0,2,0,Jump Shot,27,120,242,False
+Kevin Durant,1,5,14,1,Jump Shot,16,112,126,True
+Kevin Durant,2,4,26,1,Jump Shot,7,-44,58,True
+Kevin Durant,3,4,45,0,Jump Shot,27,161,218,False
+Kevin Durant,3,2,23,0,Jump Shot,12,-123,13,True
+Kevin Durant,1,8,3,0,Jump Shot,16,-121,117,True
+Kevin Durant,4,5,4,1,Jump Shot,25,-160,193,False
+Kevin Durant,1,8,6,0,Jump Shot,16,-148,81,True
+Kevin Durant,1,6,46,0,Jump Shot,26,122,230,False
+Kevin Durant,4,4,34,0,Jump Shot,19,30,195,True
+Kevin Durant,3,6,23,1,Jump Shot,17,177,-16,True
+Kevin Durant,3,4,45,0,Jump Shot,26,-131,230,False
+Kevin Durant,2,4,41,1,Jump Shot,11,116,-9,True
+Kevin Durant,3,10,32,1,Jump Shot,29,-177,237,False
+Kevin Durant,3,3,28,0,Jump Shot,27,-172,218,False
+Kevin Durant,1,11,8,1,Jump Shot,14,-67,131,True
+Kevin Durant,4,1,38,0,Jump Shot,26,17,268,False
+Kevin Durant,2,2,9,0,Jump Shot,24,-235,80,False
+Kevin Durant,3,3,51,0,Jump Shot,27,4,270,False
+Kevin Durant,1,5,51,0,Jump Shot,15,22,157,True
+Kevin Durant,1,0,0,0,Jump Shot,28,-206,195,False
+Kevin Durant,2,0,12,0,Jump Shot,24,-120,214,False
+Kevin Durant,1,1,48,1,Jump Shot,19,-152,122,True
+Kevin Durant,1,5,19,0,Jump Shot,15,2,155,True
+Kevin Durant,3,6,30,0,Jump Shot,24,-111,220,False
+Kevin Durant,1,2,45,1,Jump Shot,12,47,115,True
+Kevin Durant,1,0,30,1,Jump Shot,26,-145,216,False
+Kevin Durant,3,9,38,1,Jump Shot,24,-118,213,False
+Kevin Durant,1,9,43,1,Jump Shot,25,94,235,False
+Kevin Durant,1,11,43,1,Jump Shot,17,-94,148,True
+Kevin Durant,3,8,36,0,Jump Shot,26,155,218,False
+Kevin Durant,3,7,2,0,Jump Shot,24,-130,211,False
+Kevin Durant,2,4,39,0,Jump Shot,26,57,256,False
+Kevin Durant,2,1,46,0,Jump Shot,12,51,109,True
+Kevin Durant,3,11,27,1,Jump Shot,15,-112,103,True
+Kevin Durant,1,3,40,0,Jump Shot,27,-157,222,False
+Kevin Durant,3,6,46,1,Jump Shot,18,152,108,True
+Kevin Durant,1,5,33,0,Jump Shot,12,64,102,True
+Kevin Durant,2,2,33,0,Jump Shot,25,171,194,False
+Kevin Durant,1,0,2,1,Jump Shot,13,131,43,True
+Kevin Durant,2,5,21,1,Jump Shot,13,68,116,True
+Kevin Durant,2,4,12,0,Jump Shot,25,0,250,False
+Kevin Durant,3,2,56,1,Jump Shot,18,178,31,True
+Kevin Durant,2,1,41,0,Jump Shot,15,154,37,True
+Kevin Durant,3,0,33,0,Jump Shot,32,-229,233,False
+Kevin Durant,1,3,46,1,Jump Shot,24,-198,151,False
+Kevin Durant,1,9,41,0,Jump Shot,12,-111,55,True
+Kevin Durant,4,2,13,0,Jump Shot,26,210,154,False
+Kevin Durant,2,0,17,0,Jump Shot,25,72,247,False
+Kevin Durant,3,3,36,0,Jump Shot,21,-177,121,True
+Kevin Durant,3,9,16,1,Jump Shot,26,-188,186,False
+Kevin Durant,2,3,47,1,Jump Shot,17,76,153,True
+Kevin Durant,2,4,57,1,Jump Shot,12,-127,9,True
+Kevin Durant,3,10,19,1,Jump Shot,25,-114,231,False
+Kevin Durant,3,7,22,0,Jump Shot,13,-73,115,True
+Kevin Durant,1,7,27,0,Jump Shot,18,111,142,True
+Kevin Durant,3,8,22,0,Jump Shot,27,-179,212,False
+Kevin Durant,1,8,58,0,Jump Shot,24,-194,157,False
+Kevin Durant,2,6,25,1,Jump Shot,15,119,106,True
+Kevin Durant,3,2,17,1,Jump Shot,5,3,59,True
+Kevin Durant,2,3,43,0,Jump Shot,27,-177,204,False
+Kevin Durant,1,11,19,1,Jump Shot,19,-115,159,True
+Kevin Durant,1,4,23,1,Jump Shot,27,97,257,False
+Kevin Durant,4,7,9,0,Jump Shot,18,101,150,True
+Kevin Durant,2,1,41,1,Jump Shot,21,-89,199,True
+Kevin Durant,4,4,16,1,Jump Shot,25,153,210,False
+Kevin Durant,4,3,10,0,Jump Shot,27,66,266,False
+Kevin Durant,1,5,39,0,Jump Shot,16,146,80,True
+Kevin Durant,1,6,46,0,Jump Shot,10,-101,43,True
+Kevin Durant,1,4,59,1,Jump Shot,25,-171,185,False
+Kevin Durant,3,5,23,0,Jump Shot,26,-158,212,False
+Kevin Durant,2,6,59,0,Jump Shot,18,84,168,True
+Kevin Durant,1,7,58,1,Jump Shot,17,-169,19,True
+Kevin Durant,3,10,43,0,Jump Shot,27,-30,275,False
+Kevin Durant,2,2,10,0,Jump Shot,16,-108,130,True
+Kevin Durant,1,10,53,1,Jump Shot,23,232,36,False
+Kevin Durant,3,9,20,0,Jump Shot,27,-22,272,False
+Kevin Durant,1,5,58,1,Jump Shot,22,229,8,False
+Kevin Durant,1,4,16,1,Jump Shot,8,-22,84,True
+Kevin Durant,1,10,19,0,Jump Shot,17,105,137,True
+Kevin Durant,2,4,9,0,Jump Shot,14,-134,60,True
+Kevin Durant,1,7,23,0,Jump Shot,24,231,67,False
+Kevin Durant,1,0,27,0,Jump Shot,8,-85,16,True
+Kevin Durant,2,4,51,1,Jump Shot,26,-163,206,False
+Kevin Durant,2,3,22,0,Jump Shot,23,230,47,False
+Kevin Durant,3,1,50,0,Jump Shot,28,130,248,False
+Kevin Durant,4,4,10,1,Jump Shot,25,165,199,False
+Kevin Durant,3,11,49,0,Jump Shot,25,115,232,False
+Kevin Durant,1,6,52,0,Jump Shot,25,-143,207,False
+Kevin Durant,3,3,39,0,Jump Shot,26,153,215,False
+Kevin Durant,1,5,43,1,Jump Shot,23,-233,5,False
+Kevin Durant,4,0,31,0,Jump Shot,25,-155,204,False
+Kevin Durant,3,4,41,0,Jump Shot,25,188,173,False
+Kevin Durant,3,10,24,1,Jump Shot,25,-22,257,False
+Kevin Durant,2,3,54,0,Jump Shot,15,-155,17,True
+Kevin Durant,2,1,29,0,Jump Shot,3,-24,22,True
+Kevin Durant,1,3,31,0,Jump Shot,13,114,79,True
+Kevin Durant,3,5,56,0,Jump Shot,13,-56,118,True
+Kevin Durant,2,0,13,1,Jump Shot,27,45,276,False
+Kevin Durant,2,5,35,1,Jump Shot,26,-166,208,False
+Kevin Durant,3,4,54,1,Jump Shot,18,131,133,True
+Kevin Durant,1,9,20,0,Jump Shot,24,241,56,False
+Kevin Durant,4,2,19,1,Jump Shot,26,-12,269,False
+Kevin Durant,1,8,18,1,Jump Shot,22,221,59,False
+Kevin Durant,1,3,40,1,Jump Shot,9,83,55,True
+Kevin Durant,3,1,30,0,Jump Shot,16,73,146,True
+Kevin Durant,2,0,58,1,Jump Shot,14,147,-5,True
+Kevin Durant,1,3,37,1,Jump Shot,14,143,24,True
+Kevin Durant,3,2,36,1,Jump Shot,25,-27,256,False
+Kevin Durant,4,1,39,0,Jump Shot,20,180,104,True
+Kevin Durant,1,0,28,0,Jump Shot,25,145,214,False
+Kevin Durant,1,9,38,0,Jump Shot,25,132,214,False
+Kevin Durant,3,7,41,0,Jump Shot,16,-100,127,True
+Kevin Durant,3,4,16,1,Jump Shot,19,-101,167,True
+Kevin Durant,3,0,39,0,Jump Shot,19,180,69,True
+Kevin Durant,3,3,51,0,Jump Shot,27,-63,268,False
+Kevin Durant,2,1,45,1,Jump Shot,15,-25,153,True
+Kevin Durant,1,7,8,0,Jump Shot,14,142,48,True
+Kevin Durant,3,9,32,0,Jump Shot,24,204,133,False
+Kevin Durant,3,9,25,1,Jump Shot,10,100,43,True
+Kevin Durant,1,11,7,0,Jump Shot,23,-233,43,False
+Kevin Durant,1,9,4,1,Jump Shot,27,123,247,False
+Kevin Durant,1,1,2,0,Jump Shot,3,-38,8,True
+Kevin Durant,3,7,22,1,Jump Shot,20,-117,174,True
+Kevin Durant,3,9,12,0,Jump Shot,16,156,44,True
+Kevin Durant,2,6,4,0,Jump Shot,26,-16,262,False
+Kevin Durant,3,6,9,1,Jump Shot,26,141,227,False
+Kevin Durant,2,2,46,0,Jump Shot,26,172,199,False
+Kevin Durant,1,10,54,0,Jump Shot,13,65,119,True
+Kevin Durant,2,1,45,0,Jump Shot,28,160,241,False
+Kevin Durant,1,5,42,0,Jump Shot,11,46,109,True
+Kevin Durant,4,1,7,0,Jump Shot,25,178,185,False
+Kevin Durant,4,4,52,1,Jump Shot,17,-89,153,True
+Kevin Durant,3,3,45,0,Jump Shot,16,2,168,True
+Kevin Durant,1,10,46,1,Jump Shot,17,77,161,True
+Kevin Durant,3,8,8,1,Jump Shot,27,-106,251,False
+Kevin Durant,1,9,11,0,Jump Shot,23,-230,37,False
+Kevin Durant,3,0,53,1,Jump Shot,19,-106,162,True
+Kevin Durant,1,3,59,1,Jump Shot,26,168,205,False
+Kevin Durant,3,5,4,1,Jump Shot,28,147,239,False
+Kevin Durant,2,2,3,0,Jump Shot,26,133,231,False
+Kevin Durant,3,0,0,0,Jump Shot,43,-12,430,False
+Kevin Durant,3,6,34,0,Jump Shot,25,131,214,False
+Kevin Durant,1,4,7,0,Jump Shot,26,132,224,False
+Kevin Durant,3,0,33,0,Jump Shot,25,-154,197,False
+Kevin Durant,1,8,54,1,Jump Shot,16,-119,111,True
+Kevin Durant,3,4,45,0,Jump Shot,24,182,170,False
+Kevin Durant,3,4,40,1,Jump Shot,27,101,252,False
+Kevin Durant,1,2,42,0,Jump Shot,25,145,215,False
+Kevin Durant,3,10,7,0,Jump Shot,24,209,137,False
+Kevin Durant,2,6,19,0,Jump Shot,16,94,130,True
+Kevin Durant,3,9,16,1,Jump Shot,19,55,185,True
+Kevin Durant,1,0,58,0,Jump Shot,26,-130,230,False
+Kevin Durant,1,1,48,1,Jump Shot,23,-231,46,False
+Kevin Durant,3,11,47,1,Jump Shot,23,-231,-20,False
+Kevin Durant,3,6,30,0,Jump Shot,24,-170,181,False
+Kevin Durant,2,7,19,0,Jump Shot,25,-75,241,False
+Kevin Durant,1,9,22,1,Jump Shot,22,156,164,True
+Kevin Durant,3,4,52,0,Jump Shot,24,-158,190,False
+Kevin Durant,4,3,38,0,Jump Shot,15,-129,77,True
+Kevin Durant,1,1,11,1,Jump Shot,24,-199,147,False
+Kevin Durant,2,1,38,0,Jump Shot,24,-178,166,False
+Kevin Durant,4,4,39,1,Jump Shot,24,-219,105,False
+Kevin Durant,1,0,3,1,Jump Shot,15,-22,155,True
+Kevin Durant,3,9,53,1,Jump Shot,25,3,251,False
+Kevin Durant,2,0,37,1,Layup Shot,1,3,13,True
+Kevin Durant,1,9,8,1,Layup Shot,2,-21,4,True
+Kevin Durant,1,2,46,0,Layup Shot,12,-20,121,True
+Kevin Durant,2,7,7,0,Layup Shot,2,14,16,True
+Kevin Durant,4,4,52,1,Layup Shot,12,49,113,True
+Kevin Durant,1,0,37,0,Layup Shot,3,-29,12,True
+Kevin Durant,1,8,26,0,Layup Shot,3,-31,20,True
+Kevin Durant,1,3,18,0,Layup Shot,0,-4,5,True
+Kevin Durant,1,2,41,1,Layup Shot,1,11,12,True
+Kevin Durant,1,11,12,1,Layup Shot,1,-5,16,True
+Kevin Durant,1,4,31,1,Layup Shot,1,4,15,True
+Kevin Durant,3,11,27,0,Layup Shot,10,84,64,True
+Kevin Durant,4,2,57,0,Layup Shot,2,-21,13,True
+Kevin Durant,2,2,11,0,Layup Shot,2,22,11,True
+Kevin Durant,3,3,6,1,Layup Shot,1,6,14,True
+Kevin Durant,3,0,56,0,Layup Shot,2,0,21,True
+Kevin Durant,1,0,30,1,Layup Shot,2,-18,15,True
+Kevin Durant,4,8,5,0,Layup Shot,2,9,20,True
+Kevin Durant,2,5,14,0,Layup Shot,2,13,27,True
+Kevin Durant,3,9,21,1,Layup Shot,3,7,32,True
+Kevin Durant,2,4,15,1,Layup Shot,0,-6,6,True
+Kevin Durant,1,1,18,1,Layup Shot,4,-6,49,True
+Kevin Durant,1,11,20,0,Layup Shot,1,-1,15,True
+Kevin Durant,3,7,12,1,Layup Shot,1,0,15,True
+Kevin Durant,2,5,13,1,Layup Shot,2,-1,27,True
+Kevin Durant,3,4,59,0,Layup Shot,1,11,11,True
+Kevin Durant,1,4,43,0,Layup Shot,3,-30,4,True
+Kevin Durant,1,3,41,0,Layup Shot,1,14,11,True
+Kevin Durant,3,0,40,0,Layup Shot,1,6,12,True
+Kevin Durant,2,0,22,1,Layup Shot,3,-23,29,True
+Kevin Durant,3,6,43,0,Pullup Jump shot,15,127,90,True
+Kevin Durant,1,5,15,1,Pullup Jump shot,18,122,143,True
+Kevin Durant,1,2,40,0,Pullup Jump shot,25,-198,162,False
+Kevin Durant,1,1,4,0,Pullup Jump shot,15,18,155,True
+Kevin Durant,4,6,43,1,Pullup Jump shot,21,10,210,True
+Kevin Durant,4,4,52,1,Pullup Jump shot,25,70,250,False
+Kevin Durant,1,3,35,0,Pullup Jump shot,24,210,129,False
+Kevin Durant,1,1,13,1,Pullup Jump shot,11,113,23,True
+Kevin Durant,3,10,48,1,Pullup Jump shot,26,151,218,False
+Kevin Durant,3,6,11,0,Pullup Jump shot,25,-98,232,False
+Kevin Durant,3,7,19,0,Pullup Jump shot,24,-81,229,False
+Kevin Durant,4,2,37,1,Pullup Jump shot,24,125,214,False
+Kevin Durant,1,4,45,1,Pullup Jump shot,25,171,192,False
+Kevin Durant,2,4,15,1,Pullup Jump shot,9,-93,5,True
+Kevin Durant,3,7,53,1,Pullup Jump shot,28,-116,257,False
+Kevin Durant,2,4,18,1,Pullup Jump shot,22,226,26,False
+Kevin Durant,3,0,2,1,Pullup Jump shot,27,106,251,False
+Kevin Durant,3,5,15,1,Pullup Jump shot,12,6,124,True
+Kevin Durant,4,10,56,1,Pullup Jump shot,26,-180,199,False
+Kevin Durant,4,4,57,1,Pullup Jump shot,28,-14,281,False
+Kevin Durant,4,1,20,1,Pullup Jump shot,16,-5,169,True
+Kevin Durant,2,2,17,0,Pullup Jump shot,25,-71,249,False
+Kevin Durant,2,4,32,1,Pullup Jump shot,16,106,122,True
+Kevin Durant,2,2,31,1,Pullup Jump shot,17,-69,157,True
+Kevin Durant,2,11,45,0,Pullup Jump shot,15,55,148,True
+Kevin Durant,4,7,44,1,Pullup Jump shot,15,-49,152,True
+Kevin Durant,3,6,4,1,Pullup Jump shot,18,-99,158,True
+Kevin Durant,2,7,38,1,Pullup Jump shot,20,152,132,True
+Kevin Durant,2,0,49,1,Pullup Jump shot,16,-25,161,True
+Kevin Durant,3,7,14,1,Pullup Jump shot,16,79,141,True
+Kevin Durant,3,4,47,0,Pullup Jump shot,27,-8,273,False
+Kevin Durant,4,4,6,1,Pullup Jump shot,26,84,247,False
+Kevin Durant,3,3,8,1,Pullup Jump shot,24,47,244,False
+Kevin Durant,3,8,7,1,Pullup Jump shot,14,117,84,True
+Kevin Durant,1,1,27,0,Pullup Jump shot,14,-6,143,True
+Kevin Durant,3,4,31,0,Pullup Jump shot,24,-89,231,False
+Kevin Durant,3,0,48,0,Pullup Jump shot,25,103,230,False
+Kevin Durant,3,5,38,0,Pullup Jump shot,18,99,153,True
+Kevin Durant,3,8,55,1,Pullup Jump shot,26,2,260,False
+Kevin Durant,2,0,2,1,Pullup Jump shot,14,-67,127,True
+Kevin Durant,3,7,41,0,Pullup Jump shot,26,126,230,False
+Kevin Durant,3,6,6,0,Pullup Jump shot,16,163,35,True
+Kevin Durant,2,0,45,1,Pullup Jump shot,14,33,143,True
+Kevin Durant,3,0,27,1,Pullup Jump shot,27,-5,272,False
+Kevin Durant,2,2,55,1,Pullup Jump shot,18,-137,126,True
+Kevin Durant,3,0,0,0,Pullup Jump shot,56,-171,538,False
+Kevin Durant,3,7,39,1,Pullup Jump shot,20,72,194,True
+Kevin Durant,1,10,55,1,Pullup Jump shot,15,-14,154,True
+Kevin Durant,2,1,48,1,Pullup Jump shot,18,-126,132,True
+Kevin Durant,1,2,21,0,Pullup Jump shot,19,41,194,True
+Kevin Durant,4,6,56,1,Pullup Jump shot,16,-22,164,True
+Kevin Durant,3,4,42,1,Pullup Jump shot,27,114,251,False
+Kevin Durant,1,4,39,0,Pullup Jump shot,24,-60,242,False
+Kevin Durant,4,3,9,1,Pullup Jump shot,19,-84,176,True
+Kevin Durant,1,1,51,1,Pullup Jump shot,11,-40,112,True
+Kevin Durant,3,9,33,1,Pullup Jump shot,19,-96,167,True
+Kevin Durant,3,11,31,1,Pullup Jump shot,10,93,58,True
+Kevin Durant,3,3,27,0,Pullup Jump shot,16,-48,156,True
+Kevin Durant,3,7,51,1,Pullup Jump shot,19,-138,137,True
+Kevin Durant,3,7,20,1,Pullup Jump shot,18,168,73,True
+Kevin Durant,3,4,30,1,Pullup Jump shot,15,20,157,True
+Kevin Durant,1,3,12,1,Pullup Jump shot,12,-43,115,True
+Kevin Durant,1,0,39,0,Pullup Jump shot,25,-90,237,False
+Kevin Durant,1,2,54,1,Pullup Jump shot,25,9,259,False
+Kevin Durant,2,1,17,0,Pullup Jump shot,26,-25,263,False
+Kevin Durant,4,3,39,1,Pullup Jump shot,18,99,162,True
+Kevin Durant,1,7,48,1,Pullup Jump shot,18,-77,167,True
+Kevin Durant,4,6,40,1,Pullup Jump shot,26,-154,213,False
+Kevin Durant,1,7,12,1,Pullup Jump shot,24,119,219,False
+Kevin Durant,3,8,53,1,Pullup Jump shot,25,23,253,False
+Kevin Durant,3,3,18,1,Pullup Jump shot,24,-169,182,False
+Kevin Durant,4,7,23,1,Pullup Jump shot,17,-5,176,True
+Kevin Durant,3,10,8,1,Pullup Jump shot,26,-5,263,False
+Kevin Durant,3,0,12,0,Pullup Jump shot,21,-121,179,True
+Kevin Durant,1,4,26,1,Pullup Jump shot,25,135,222,False
+Kevin Durant,3,8,30,0,Pullup Jump shot,20,130,155,True
+Kevin Durant,1,5,58,0,Pullup Jump shot,18,81,163,True
+Kevin Durant,4,10,35,1,Pullup Jump shot,26,-132,231,False
+Kevin Durant,4,3,45,1,Pullup Jump shot,13,67,122,True
+Kevin Durant,2,5,8,0,Pullup Jump shot,29,-182,231,False
+Kevin Durant,2,5,55,0,Pullup Jump shot,9,98,6,True
+Kevin Durant,4,5,9,1,Pullup Jump shot,19,117,155,True
+Kevin Durant,3,8,2,1,Pullup Jump shot,14,131,52,True
+Kevin Durant,4,4,34,0,Pullup Jump shot,19,100,169,True
+Kevin Durant,3,10,59,0,Pullup Jump shot,19,-16,194,True
+Kevin Durant,4,11,22,1,Pullup Jump shot,14,136,36,True
+Kevin Durant,2,2,34,0,Pullup Jump shot,27,100,256,False
+Kevin Durant,3,8,1,0,Pullup Jump shot,25,164,189,False
+Kevin Durant,1,7,6,1,Pullup Jump shot,26,-77,258,False
+Kevin Durant,2,4,5,0,Pullup Jump shot,19,-115,157,True
+Kevin Durant,2,2,5,1,Pullup Jump shot,15,7,153,True
+Kevin Durant,1,7,53,1,Pullup Jump shot,26,-129,232,False
+Kevin Durant,1,3,56,1,Pullup Jump shot,16,97,137,True
+Kevin Durant,3,2,31,0,Pullup Jump shot,19,85,173,True
+Kevin Durant,1,2,10,0,Pullup Jump shot,16,43,162,True
+Kevin Durant,4,6,35,0,Pullup Jump shot,26,16,260,False
+Kevin Durant,3,9,22,1,Pullup Jump shot,24,147,191,False
+Kevin Durant,1,7,28,0,Pullup Jump shot,23,232,28,False
+Kevin Durant,3,4,59,1,Pullup Jump shot,19,82,174,True
+Kevin Durant,1,9,45,0,Pullup Jump shot,27,114,255,False
+Kevin Durant,4,8,46,1,Pullup Jump shot,25,153,201,False
+Kevin Durant,1,6,31,1,Pullup Jump shot,25,109,225,False
+Kevin Durant,4,11,16,0,Pullup Jump shot,10,-107,-4,True
+Kevin Durant,1,4,8,0,Pullup Jump shot,20,93,180,True
+Kevin Durant,3,7,26,0,Pullup Jump shot,24,-96,227,False
+Kevin Durant,2,9,9,0,Pullup Jump shot,16,107,123,True
+Kevin Durant,2,5,26,1,Pullup Jump shot,13,100,88,True
+Kevin Durant,2,4,50,0,Pullup Jump shot,14,54,132,True
+Kevin Durant,1,4,27,1,Pullup Jump shot,14,18,139,True
+Kevin Durant,1,6,14,0,Pullup Jump shot,18,105,155,True
+Kevin Durant,1,5,59,0,Pullup Jump shot,26,-175,201,False
+Kevin Durant,1,11,28,0,Pullup Jump shot,14,-97,114,True
+Kevin Durant,2,3,8,1,Pullup Jump shot,26,86,246,False
+Kevin Durant,1,5,10,1,Pullup Jump shot,13,78,110,True
+Kevin Durant,1,7,42,0,Pullup Jump shot,14,125,75,True
+Kevin Durant,2,2,18,1,Pullup Jump shot,26,189,185,False
+Kevin Durant,3,4,2,0,Pullup Jump shot,15,45,145,True
+Kevin Durant,3,3,6,1,Pullup Jump shot,11,-112,36,True
+Kevin Durant,2,7,21,0,Pullup Jump shot,17,-144,95,True
+Kevin Durant,2,0,45,1,Pullup Jump shot,25,-134,221,False
+Kevin Durant,3,10,7,1,Pullup Jump shot,26,13,264,False
+Kevin Durant,2,3,24,0,Pullup Jump shot,21,14,219,True
+Kevin Durant,1,11,15,0,Pullup Jump shot,10,-85,60,True
+Kevin Durant,3,2,5,0,Pullup Jump shot,26,152,220,False
+Kevin Durant,3,7,20,1,Pullup Jump shot,14,-128,64,True
+Kevin Durant,2,9,29,1,Pullup Jump shot,13,110,72,True
+Kevin Durant,2,2,34,0,Pullup Jump shot,17,101,147,True
+Kevin Durant,1,2,14,1,Pullup Jump shot,13,101,96,True
+Kevin Durant,3,4,17,1,Pullup Jump shot,11,-114,22,True
+Kevin Durant,4,4,2,0,Pullup Jump shot,27,-74,261,False
+Kevin Durant,2,7,54,1,Pullup Jump shot,14,60,134,True
+Kevin Durant,1,5,57,0,Pullup Jump shot,11,6,118,True
+Kevin Durant,2,6,10,0,Pullup Jump shot,20,144,150,True
+Kevin Durant,3,10,5,1,Pullup Jump shot,24,108,225,False
+Kevin Durant,1,5,27,0,Pullup Jump shot,6,-40,50,True
+Kevin Durant,3,0,28,0,Pullup Jump shot,25,55,248,False
+Kevin Durant,2,3,48,1,Pullup Jump shot,16,43,164,True
+Kevin Durant,4,0,52,0,Pullup Jump shot,17,-62,163,True
+Kevin Durant,4,1,56,1,Pullup Jump shot,15,-8,157,True
+Kevin Durant,2,2,27,0,Pullup Jump shot,14,-106,100,True
+Kevin Durant,1,4,53,0,Pullup Jump shot,13,-100,94,True
+Kevin Durant,1,7,34,1,Pullup Jump shot,18,109,148,True
+Kevin Durant,4,3,17,0,Pullup Jump shot,13,-33,130,True
+Kevin Durant,2,2,21,1,Pullup Jump shot,15,9,153,True
+Kevin Durant,4,3,16,0,Pullup Jump shot,16,-62,157,True
+Kevin Durant,3,6,9,0,Pullup Jump shot,25,112,225,False
+Kevin Durant,3,7,25,0,Pullup Jump shot,16,127,112,True
+Kevin Durant,4,1,4,0,Pullup Jump shot,24,210,125,False
+Kevin Durant,3,2,50,1,Pullup Jump shot,18,97,159,True
+Kevin Durant,3,10,28,0,Pullup Jump shot,25,-59,243,False
+Kevin Durant,3,8,25,1,Pullup Jump shot,19,-70,182,True
+Kevin Durant,4,5,51,1,Pullup Jump shot,26,8,261,False
+Kevin Durant,4,4,58,1,Pullup Jump shot,25,-75,239,False
+Kevin Durant,1,8,25,1,Pullup Jump shot,18,-83,164,True
+Kevin Durant,3,5,56,1,Pullup Jump shot,17,106,142,True
+Kevin Durant,4,0,41,0,Pullup Jump shot,19,-89,177,True
+Kevin Durant,1,0,17,1,Pullup Jump shot,26,-65,258,False
+Kevin Durant,2,2,40,1,Pullup Jump shot,25,-135,220,False
+Kevin Durant,4,5,24,1,Pullup Jump shot,26,-78,252,False
+Kevin Durant,3,4,49,1,Pullup Jump shot,13,6,134,True
+Kevin Durant,2,6,7,1,Pullup Jump shot,27,-57,265,False
+Kevin Durant,4,11,47,1,Pullup Jump shot,9,-87,34,True
+Kevin Durant,3,0,38,1,Pullup Jump shot,12,-49,115,True
+Kevin Durant,3,2,44,1,Pullup Jump shot,26,32,260,False
+Kevin Durant,4,1,36,0,Pullup Jump shot,17,89,153,True
+Kevin Durant,1,6,12,0,Pullup Jump shot,24,156,193,False
+Kevin Durant,1,5,52,1,Pullup Jump shot,24,-86,234,False
+Kevin Durant,1,7,10,1,Pullup Jump shot,15,98,122,True
+Kevin Durant,2,2,57,0,Pullup Jump shot,27,121,247,False
+Kevin Durant,2,2,18,1,Pullup Jump shot,18,143,125,True
+Kevin Durant,3,6,58,0,Pullup Jump shot,14,-43,141,True
+Kevin Durant,4,3,34,0,Pullup Jump shot,26,-134,227,False
+Kevin Durant,4,4,43,1,Pullup Jump shot,17,130,120,True
+Kevin Durant,3,0,1,0,Pullup Jump shot,30,143,274,False
+Kevin Durant,4,1,8,0,Pullup Jump shot,20,58,195,True
+Kevin Durant,1,3,21,1,Pullup Jump shot,26,44,263,False
+Kevin Durant,1,8,40,1,Pullup Jump shot,28,-137,246,False
+Kevin Durant,1,2,50,0,Pullup Jump shot,17,41,165,True
+Kevin Durant,1,10,4,1,Pullup Jump shot,14,82,115,True
+Kevin Durant,1,0,28,0,Pullup Jump shot,27,-92,259,False
+Kevin Durant,2,5,24,1,Pullup Jump shot,18,-98,151,True
+Kevin Durant,3,7,38,0,Pullup Jump shot,25,144,216,False
+Kevin Durant,2,2,47,1,Pullup Jump shot,27,178,205,False
+Kevin Durant,2,6,39,1,Pullup Jump shot,26,-147,221,False
+Kevin Durant,4,6,4,1,Pullup Jump shot,18,106,146,True
+Kevin Durant,3,9,1,1,Pullup Jump shot,25,155,201,False
+Kevin Durant,1,8,16,1,Pullup Jump shot,14,-57,128,True
+Kevin Durant,1,1,55,0,Pullup Jump shot,26,132,227,False
+Kevin Durant,2,6,13,1,Pullup Jump shot,18,93,155,True
+Kevin Durant,1,4,8,0,Pullup Jump shot,17,84,155,True
+Kevin Durant,1,0,34,0,Pullup Jump shot,25,95,234,False
+Kevin Durant,4,1,4,0,Pullup Jump shot,20,160,121,True
+Kevin Durant,1,6,24,1,Pullup Jump shot,13,64,123,True
+Kevin Durant,4,2,0,1,Pullup Jump shot,30,129,280,False
+Kevin Durant,3,1,56,1,Pullup Jump shot,12,49,117,True
+Kevin Durant,3,3,25,1,Pullup Jump shot,11,-3,113,True
+Kevin Durant,3,10,28,1,Pullup Jump shot,26,120,240,False
+Kevin Durant,3,2,35,1,Pullup Jump shot,25,40,248,False
+Kevin Durant,3,4,38,0,Pullup Jump shot,10,-98,46,True
+Kevin Durant,3,0,4,0,Pullup Jump shot,27,-99,258,False
+Kevin Durant,1,4,16,0,Pullup Jump shot,26,156,211,False
+Kevin Durant,2,4,24,1,Pullup Jump shot,14,46,133,True
+Kevin Durant,3,9,2,0,Pullup Jump shot,12,-5,125,True
+Kevin Durant,4,0,6,0,Pullup Jump shot,19,-33,193,True
+Kevin Durant,1,4,30,0,Pullup Jump shot,26,-93,247,False
+Kevin Durant,5,2,26,1,Pullup Jump shot,11,33,111,True
+Kevin Durant,2,1,10,0,Pullup Jump shot,11,-74,90,True
+Kevin Durant,3,0,7,1,Pullup Jump shot,29,132,264,False
+Kevin Durant,4,4,4,1,Pullup Jump shot,17,70,164,True
+Kevin Durant,3,10,23,0,Pullup Jump shot,12,-57,116,True
+Kevin Durant,1,3,32,0,Pullup Jump shot,11,116,-1,True
+Kevin Durant,1,11,4,0,Pullup Jump shot,28,-163,235,False
+Kevin Durant,3,2,55,1,Pullup Jump shot,19,-43,189,True
+Kevin Durant,1,6,2,0,Pullup Jump shot,18,59,180,True
+Kevin Durant,2,0,56,1,Pullup Jump shot,26,7,263,False
+Kevin Durant,3,10,27,0,Pullup Jump shot,20,-82,188,True
+Kevin Durant,1,0,57,1,Pullup Jump shot,18,-103,148,True
+Kevin Durant,3,2,3,0,Pullup Jump shot,26,-136,225,False
+Kevin Durant,4,4,32,0,Pullup Jump shot,13,127,52,True
+Kevin Durant,2,2,54,1,Pullup Jump shot,18,-125,136,True
+Kevin Durant,3,2,48,1,Pullup Jump shot,19,-100,171,True
+Kevin Durant,4,6,41,0,Pullup Jump shot,20,73,188,True
+Kevin Durant,2,2,47,1,Pullup Jump shot,9,98,18,True
+Kevin Durant,1,0,30,0,Pullup Jump shot,25,117,226,False
+Kevin Durant,2,0,48,0,Pullup Jump shot,12,124,38,True
+Kevin Durant,1,7,16,0,Pullup Jump shot,22,-24,224,True
+Kevin Durant,2,0,41,1,Pullup Jump shot,19,120,159,True
+Kevin Durant,3,6,49,1,Pullup Jump shot,26,130,227,False
+Kevin Durant,2,6,10,1,Pullup Jump shot,12,70,105,True
+Kevin Durant,3,3,6,0,Pullup Jump shot,26,147,216,False
+Kevin Durant,1,7,55,0,Pullup Jump shot,9,88,27,True
+Kevin Durant,1,11,40,0,Pullup Jump shot,15,78,133,True
+Kevin Durant,2,0,5,0,Pullup Jump shot,24,-190,153,False
+Kevin Durant,1,4,50,1,Putback Layup Shot,2,2,28,True
+Kevin Durant,3,3,38,1,Putback Layup Shot,0,0,-6,True
+Kevin Durant,3,9,23,0,Reverse Layup Shot,1,-15,11,True
+Kevin Durant,1,7,37,1,Reverse Layup Shot,1,-16,7,True
+Kevin Durant,2,3,4,1,Running Dunk Shot,2,2,29,True
+Kevin Durant,4,1,59,1,Running Dunk Shot,0,7,4,True
+Kevin Durant,4,6,19,1,Running Dunk Shot,2,-6,21,True
+Kevin Durant,1,11,13,1,Running Dunk Shot,3,19,27,True
+Kevin Durant,1,3,8,1,Running Dunk Shot,0,-6,-6,True
+Kevin Durant,2,3,18,1,Running Dunk Shot,0,2,-3,True
+Kevin Durant,1,7,31,1,Running Dunk Shot,0,3,-7,True
+Kevin Durant,1,5,50,1,Running Dunk Shot,2,8,21,True
+Kevin Durant,2,0,32,1,Running Dunk Shot,1,0,10,True
+Kevin Durant,1,7,55,1,Running Dunk Shot,1,-7,8,True
+Kevin Durant,1,5,55,1,Running Dunk Shot,1,0,13,True
+Kevin Durant,2,0,55,1,Running Dunk Shot,0,-1,8,True
+Kevin Durant,1,0,2,0,Running Finger Roll Layup Shot,4,-2,43,True
+Kevin Durant,2,9,27,1,Running Finger Roll Layup Shot,0,0,0,True
+Kevin Durant,4,2,46,1,Running Finger Roll Layup Shot,0,-5,3,True
+Kevin Durant,1,9,42,1,Running Finger Roll Layup Shot,1,-3,13,True
+Kevin Durant,1,2,22,0,Running Finger Roll Layup Shot,1,2,19,True
+Kevin Durant,2,3,4,1,Running Jump Shot,18,-107,145,True
+Kevin Durant,4,3,49,1,Running Jump Shot,6,1,67,True
+Kevin Durant,3,1,29,0,Running Jump Shot,25,1,255,False
+Kevin Durant,1,10,34,1,Running Jump Shot,4,-46,0,True
+Kevin Durant,1,6,54,0,Running Jump Shot,14,-49,138,True
+Kevin Durant,4,2,15,0,Running Jump Shot,15,63,146,True
+Kevin Durant,1,5,58,1,Running Jump Shot,10,-77,73,True
+Kevin Durant,1,10,12,0,Running Jump Shot,20,-127,155,True
+Kevin Durant,4,9,17,0,Running Jump Shot,26,98,248,False
+Kevin Durant,3,11,33,0,Running Jump Shot,27,-133,241,False
+Kevin Durant,2,6,14,1,Running Jump Shot,25,151,204,False
+Kevin Durant,4,4,31,1,Running Jump Shot,23,232,0,False
+Kevin Durant,4,5,47,1,Running Layup Shot,1,8,16,True
+Kevin Durant,3,7,58,0,Running Layup Shot,1,-9,7,True
+Kevin Durant,4,5,13,0,Running Layup Shot,1,11,10,True
+Kevin Durant,1,9,27,1,Running Layup Shot,0,-2,4,True
+Kevin Durant,2,3,56,0,Running Layup Shot,2,-4,21,True
+Kevin Durant,3,7,14,1,Running Layup Shot,2,-20,16,True
+Kevin Durant,3,5,35,1,Running Layup Shot,6,9,63,True
+Kevin Durant,2,6,32,1,Running Layup Shot,1,-13,7,True
+Kevin Durant,2,0,26,1,Running Layup Shot,2,9,26,True
+Kevin Durant,3,6,47,0,Running Layup Shot,1,-8,13,True
+Kevin Durant,2,1,36,1,Running Layup Shot,1,-2,17,True
+Kevin Durant,1,2,39,1,Running Layup Shot,6,3,62,True
+Kevin Durant,1,8,57,1,Running Pull-Up Jump Shot,25,-127,226,False
+Kevin Durant,1,7,19,1,Running Pull-Up Jump Shot,26,154,215,False
+Kevin Durant,1,6,29,1,Running Pull-Up Jump Shot,9,-92,5,True
+Kevin Durant,1,6,53,1,Running Pull-Up Jump Shot,19,97,174,True
+Kevin Durant,3,7,57,1,Running Pull-Up Jump Shot,4,-40,13,True
+Kevin Durant,3,11,28,0,Running Pull-Up Jump Shot,27,138,236,False
+Kevin Durant,2,0,0,0,Running Pull-Up Jump Shot,10,104,6,True
+Kevin Durant,3,5,48,0,Running Pull-Up Jump Shot,25,110,227,False
+Kevin Durant,3,7,3,0,Step Back Jump shot,23,168,170,False
+Kevin Durant,4,5,29,1,Step Back Jump shot,25,-184,178,False
+Kevin Durant,1,7,18,1,Step Back Jump shot,12,114,54,True
+Kevin Durant,2,0,33,0,Step Back Jump shot,10,-36,98,True
+Kevin Durant,2,3,15,1,Step Back Jump shot,12,-122,0,True
+Kevin Durant,1,9,12,0,Step Back Jump shot,27,186,198,False
+Kevin Durant,2,4,8,1,Step Back Jump shot,19,-2,199,True
+Kevin Durant,1,10,37,0,Step Back Jump shot,18,4,185,True
+Kevin Durant,3,9,50,1,Step Back Jump shot,13,93,95,True
+Kevin Durant,2,7,29,0,Step Back Jump shot,21,-92,195,True
+Kevin Durant,1,7,19,1,Step Back Jump shot,11,-103,55,True
+Kevin Durant,4,5,19,0,Step Back Jump shot,14,73,126,True
+Kevin Durant,1,0,5,0,Step Back Jump shot,18,90,166,True
+Kevin Durant,2,4,18,1,Step Back Jump shot,13,127,41,True
+Kevin Durant,4,5,26,0,Step Back Jump shot,20,-205,-4,True
+Kevin Durant,4,0,46,0,Step Back Jump shot,17,111,133,True
+Kevin Durant,2,1,44,0,Step Back Jump shot,9,-90,26,True
+Kevin Durant,2,6,47,0,Step Back Jump shot,18,169,68,True
+Kevin Durant,4,3,28,1,Step Back Jump shot,12,44,119,True
+Kevin Durant,4,6,47,1,Step Back Jump shot,20,-131,153,True
+Kevin Durant,1,4,43,0,Step Back Jump shot,13,125,53,True
+Kevin Durant,2,4,46,1,Step Back Jump shot,26,145,220,False
+Kevin Durant,3,9,21,0,Step Back Jump shot,26,95,251,False
+Kevin Durant,3,4,57,0,Tip Layup Shot,0,0,-6,True
+Kevin Durant,2,7,29,0,Tip Layup Shot,0,0,-6,True
+Kevin Durant,2,1,11,0,Tip Layup Shot,0,0,-6,True
+Kevin Durant,2,8,47,1,Turnaround Fadeaway shot,12,-125,34,True
+Kevin Durant,2,8,53,1,Turnaround Fadeaway shot,8,73,44,True
+Kevin Durant,2,1,57,0,Turnaround Fadeaway shot,17,-123,118,True
+Kevin Durant,3,4,26,1,Turnaround Fadeaway shot,11,-43,105,True
+Kevin Durant,1,2,45,1,Turnaround Fadeaway shot,14,131,51,True
+Kevin Durant,3,10,33,1,Turnaround Fadeaway shot,11,0,115,True
+Kevin Durant,4,4,29,0,Turnaround Fadeaway shot,11,-113,5,True
+Kevin Durant,2,3,3,1,Turnaround Fadeaway shot,12,91,86,True
+Kevin Durant,3,10,48,0,Turnaround Fadeaway shot,16,125,112,True
+Kevin Durant,3,6,53,0,Turnaround Fadeaway shot,9,-74,64,True
+Kevin Durant,4,5,12,1,Turnaround Fadeaway shot,15,-143,68,True
+Kevin Durant,2,7,33,1,Turnaround Fadeaway shot,12,-106,58,True
+Kevin Durant,3,1,7,1,Turnaround Fadeaway shot,7,-47,56,True
+Kevin Durant,3,3,11,1,Turnaround Fadeaway shot,11,44,109,True
+Kevin Durant,4,2,25,1,Turnaround Fadeaway shot,18,125,132,True
+Kevin Durant,4,4,10,0,Turnaround Fadeaway shot,15,117,99,True
+Kevin Durant,2,0,41,0,Turnaround Fadeaway shot,9,47,83,True
+Kevin Durant,3,10,17,1,Turnaround Fadeaway shot,9,-11,92,True
+Kevin Durant,1,11,12,1,Turnaround Fadeaway shot,12,35,119,True
+Kevin Durant,3,9,40,1,Turnaround Fadeaway shot,12,121,36,True
+Kevin Durant,4,2,3,0,Turnaround Fadeaway shot,11,108,44,True
+Kevin Durant,3,9,23,0,Turnaround Fadeaway shot,12,-125,15,True
+Kevin Durant,2,7,24,1,Turnaround Fadeaway shot,16,107,131,True
+Kevin Durant,1,9,59,1,Turnaround Fadeaway shot,11,43,109,True
+Kevin Durant,1,1,1,1,Turnaround Fadeaway shot,11,-103,60,True
+Kevin Durant,2,9,30,1,Turnaround Fadeaway shot,9,-38,83,True
+Kevin Durant,3,8,23,0,Turnaround Fadeaway shot,11,-112,11,True
+Kevin Durant,1,9,57,1,Turnaround Fadeaway shot,5,-49,-10,True
+Kevin Durant,3,11,13,0,Turnaround Fadeaway shot,10,-106,-2,True
+Kevin Durant,1,1,13,0,Turnaround Fadeaway shot,11,-111,12,True
+Kevin Durant,3,11,22,1,Turnaround Fadeaway shot,10,-66,86,True
+Kevin Durant,4,3,51,1,Turnaround Fadeaway shot,10,98,44,True
+Kevin Durant,1,10,17,0,Turnaround Fadeaway shot,17,122,123,True
+Kevin Durant,4,3,1,1,Turnaround Fadeaway shot,15,147,57,True
+Kevin Durant,3,2,31,1,Turnaround Fadeaway shot,11,-34,106,True
+Kevin Durant,3,4,55,0,Turnaround Fadeaway shot,6,67,-3,True
+Kevin Durant,2,2,5,1,Turnaround Fadeaway shot,15,-131,75,True
+Kevin Durant,1,3,58,1,Turnaround Fadeaway shot,10,-106,26,True
+Kevin Durant,1,0,59,0,Turnaround Hook Shot,8,40,78,True
+Kevin Durant,1,11,22,0,Turnaround Jump Shot,14,-127,70,True
+Kevin Durant,3,4,34,0,Turnaround Jump Shot,13,3,133,True
+Kevin Durant,3,3,46,0,Turnaround Jump Shot,15,106,110,True
+Kevin Durant,1,4,35,0,Turnaround Jump Shot,5,-30,42,True
+Kevin Durant,2,6,21,1,Turnaround Jump Shot,14,-86,111,True
+Kevin Durant,2,6,54,1,Turnaround Jump Shot,17,-7,175,True
+Kevin Durant,1,3,49,1,Turnaround Jump Shot,11,-13,112,True
+Kevin Durant,1,3,28,1,Turnaround Jump Shot,13,38,127,True
+Kevin Durant,3,1,58,0,Turnaround Jump Shot,11,58,95,True

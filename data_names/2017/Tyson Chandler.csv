@@ -1,0 +1,177 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Tyson Chandler,3,9,5,1,Alley Oop Dunk Shot,0,2,3,True
+Tyson Chandler,2,4,59,0,Alley Oop Dunk Shot,1,11,2,True
+Tyson Chandler,1,7,51,1,Alley Oop Dunk Shot,0,-2,4,True
+Tyson Chandler,2,2,7,1,Alley Oop Dunk Shot,0,2,6,True
+Tyson Chandler,3,7,40,1,Alley Oop Dunk Shot,0,3,5,True
+Tyson Chandler,1,7,29,0,Alley Oop Dunk Shot,1,12,6,True
+Tyson Chandler,2,0,29,0,Alley Oop Dunk Shot,1,10,8,True
+Tyson Chandler,2,11,6,1,Alley Oop Dunk Shot,0,2,8,True
+Tyson Chandler,2,10,11,1,Alley Oop Dunk Shot,0,-5,5,True
+Tyson Chandler,1,6,33,1,Alley Oop Dunk Shot,0,-1,-1,True
+Tyson Chandler,2,4,43,1,Alley Oop Dunk Shot,0,-2,8,True
+Tyson Chandler,3,6,59,1,Alley Oop Dunk Shot,0,-3,9,True
+Tyson Chandler,2,2,53,1,Alley Oop Dunk Shot,1,6,18,True
+Tyson Chandler,4,0,35,1,Alley Oop Dunk Shot,1,3,15,True
+Tyson Chandler,4,4,22,1,Alley Oop Dunk Shot,0,-3,1,True
+Tyson Chandler,4,1,20,1,Alley Oop Dunk Shot,0,7,-2,True
+Tyson Chandler,2,5,33,1,Alley Oop Dunk Shot,0,0,6,True
+Tyson Chandler,1,10,45,1,Alley Oop Dunk Shot,1,11,10,True
+Tyson Chandler,2,9,37,1,Alley Oop Dunk Shot,0,-6,1,True
+Tyson Chandler,2,2,32,1,Alley Oop Dunk Shot,1,-8,8,True
+Tyson Chandler,3,5,17,1,Alley Oop Dunk Shot,0,2,9,True
+Tyson Chandler,1,8,48,1,Alley Oop Dunk Shot,1,-5,17,True
+Tyson Chandler,2,1,12,1,Alley Oop Dunk Shot,0,-2,4,True
+Tyson Chandler,3,6,52,1,Alley Oop Dunk Shot,0,3,0,True
+Tyson Chandler,4,2,9,1,Alley Oop Dunk Shot,1,2,11,True
+Tyson Chandler,3,7,5,1,Alley Oop Dunk Shot,0,-5,-4,True
+Tyson Chandler,2,1,44,0,Alley Oop Dunk Shot,2,19,20,True
+Tyson Chandler,1,6,2,1,Alley Oop Dunk Shot,1,-11,12,True
+Tyson Chandler,3,6,11,1,Alley Oop Dunk Shot,0,1,6,True
+Tyson Chandler,4,0,23,0,Alley Oop Dunk Shot,0,-7,1,True
+Tyson Chandler,2,9,10,1,Alley Oop Dunk Shot,0,7,6,True
+Tyson Chandler,2,2,56,1,Alley Oop Dunk Shot,1,2,17,True
+Tyson Chandler,3,7,37,1,Alley Oop Dunk Shot,2,5,20,True
+Tyson Chandler,4,4,42,0,Alley Oop Dunk Shot,5,5,55,True
+Tyson Chandler,3,7,20,1,Alley Oop Dunk Shot,3,-7,33,True
+Tyson Chandler,3,11,37,1,Alley Oop Dunk Shot,0,1,6,True
+Tyson Chandler,4,0,0,1,Alley Oop Dunk Shot,0,-3,8,True
+Tyson Chandler,1,6,14,1,Alley Oop Dunk Shot,0,-3,-9,True
+Tyson Chandler,4,8,23,1,Alley Oop Dunk Shot,0,3,4,True
+Tyson Chandler,1,8,2,1,Alley Oop Dunk Shot,0,1,6,True
+Tyson Chandler,1,8,23,1,Alley Oop Layup shot,0,-3,-1,True
+Tyson Chandler,3,7,55,1,Alley Oop Layup shot,1,4,13,True
+Tyson Chandler,3,9,25,1,Alley Oop Layup shot,1,-12,10,True
+Tyson Chandler,1,11,28,0,Alley Oop Layup shot,2,0,20,True
+Tyson Chandler,4,9,32,1,Alley Oop Layup shot,0,1,1,True
+Tyson Chandler,3,9,53,1,Alley Oop Layup shot,1,14,-1,True
+Tyson Chandler,1,5,33,1,Alley Oop Layup shot,0,8,4,True
+Tyson Chandler,2,3,35,0,Alley Oop Layup shot,1,2,15,True
+Tyson Chandler,4,7,53,0,Alley Oop Layup shot,0,2,-1,True
+Tyson Chandler,2,9,46,0,Alley Oop Layup shot,1,7,16,True
+Tyson Chandler,1,7,16,0,Alley Oop Layup shot,0,4,-1,True
+Tyson Chandler,3,0,20,0,Alley Oop Layup shot,0,-2,4,True
+Tyson Chandler,1,4,58,0,Alley Oop Layup shot,3,-34,7,True
+Tyson Chandler,1,4,41,0,Alley Oop Layup shot,4,-35,22,True
+Tyson Chandler,1,11,25,1,Alley Oop Layup shot,1,8,15,True
+Tyson Chandler,1,5,17,1,Alley Oop Layup shot,0,-2,9,True
+Tyson Chandler,3,7,25,1,Cutting Dunk Shot,1,12,-8,True
+Tyson Chandler,1,5,9,1,Cutting Dunk Shot,1,13,4,True
+Tyson Chandler,2,1,10,0,Cutting Dunk Shot,0,4,0,True
+Tyson Chandler,1,5,45,1,Cutting Dunk Shot,1,2,10,True
+Tyson Chandler,1,8,54,1,Cutting Dunk Shot,1,-5,16,True
+Tyson Chandler,3,9,5,1,Cutting Dunk Shot,0,-5,2,True
+Tyson Chandler,3,11,4,1,Cutting Dunk Shot,2,8,19,True
+Tyson Chandler,1,9,29,1,Cutting Dunk Shot,1,11,16,True
+Tyson Chandler,3,7,48,1,Cutting Dunk Shot,0,0,8,True
+Tyson Chandler,3,11,11,1,Cutting Dunk Shot,1,12,11,True
+Tyson Chandler,4,2,10,0,Cutting Layup Shot,1,5,19,True
+Tyson Chandler,1,10,56,0,Cutting Layup Shot,2,8,20,True
+Tyson Chandler,2,6,5,0,Cutting Layup Shot,1,2,16,True
+Tyson Chandler,3,9,38,1,Cutting Layup Shot,2,21,16,True
+Tyson Chandler,1,4,43,0,Cutting Layup Shot,1,12,8,True
+Tyson Chandler,1,11,5,0,Cutting Layup Shot,2,-3,24,True
+Tyson Chandler,1,7,36,1,Cutting Layup Shot,0,3,-3,True
+Tyson Chandler,1,6,25,0,Cutting Layup Shot,2,7,20,True
+Tyson Chandler,2,0,23,0,Driving Dunk Shot,0,-5,0,True
+Tyson Chandler,1,9,46,1,Driving Dunk Shot,0,6,3,True
+Tyson Chandler,2,0,5,0,Driving Finger Roll Layup Shot,0,0,0,True
+Tyson Chandler,2,3,4,0,Driving Layup Shot,1,2,17,True
+Tyson Chandler,2,4,58,0,Driving Layup Shot,2,21,16,True
+Tyson Chandler,4,3,45,0,Driving Layup Shot,1,-3,16,True
+Tyson Chandler,3,8,12,1,Dunk Shot,1,8,8,True
+Tyson Chandler,1,10,30,1,Dunk Shot,1,-6,11,True
+Tyson Chandler,3,8,0,1,Dunk Shot,0,1,3,True
+Tyson Chandler,4,9,18,1,Dunk Shot,2,9,19,True
+Tyson Chandler,2,6,32,1,Dunk Shot,1,1,13,True
+Tyson Chandler,1,9,12,1,Dunk Shot,1,8,9,True
+Tyson Chandler,4,0,0,1,Dunk Shot,1,7,16,True
+Tyson Chandler,1,8,41,1,Hook Shot,1,-3,11,True
+Tyson Chandler,1,8,19,0,Hook Shot,1,10,11,True
+Tyson Chandler,1,11,41,0,Hook Shot,4,13,42,True
+Tyson Chandler,1,8,46,0,Jump Shot,19,122,146,True
+Tyson Chandler,2,1,15,1,Jump Shot,18,55,172,True
+Tyson Chandler,2,1,11,1,Layup Shot,2,4,23,True
+Tyson Chandler,3,10,22,1,Layup Shot,1,7,10,True
+Tyson Chandler,2,6,28,0,Layup Shot,2,-9,18,True
+Tyson Chandler,4,3,38,0,Layup Shot,3,9,30,True
+Tyson Chandler,1,4,1,0,Layup Shot,3,-25,31,True
+Tyson Chandler,3,6,48,1,Layup Shot,0,-2,2,True
+Tyson Chandler,2,6,20,1,Layup Shot,1,9,15,True
+Tyson Chandler,3,7,25,0,Layup Shot,4,39,30,True
+Tyson Chandler,2,3,29,1,Layup Shot,0,2,9,True
+Tyson Chandler,2,7,20,1,Layup Shot,2,2,20,True
+Tyson Chandler,1,9,42,0,Layup Shot,1,-7,18,True
+Tyson Chandler,1,11,45,0,Layup Shot,3,-12,32,True
+Tyson Chandler,3,11,38,0,Layup Shot,1,14,11,True
+Tyson Chandler,3,7,55,1,Layup Shot,0,-9,1,True
+Tyson Chandler,1,7,38,1,Putback Dunk Shot,0,0,-6,True
+Tyson Chandler,3,8,44,1,Putback Dunk Shot,0,0,-6,True
+Tyson Chandler,2,1,1,1,Putback Layup Shot,0,4,7,True
+Tyson Chandler,1,10,16,0,Putback Layup Shot,0,0,-6,True
+Tyson Chandler,4,3,8,1,Putback Layup Shot,2,11,19,True
+Tyson Chandler,1,8,25,1,Putback Layup Shot,0,0,-6,True
+Tyson Chandler,3,10,28,1,Putback Layup Shot,0,0,-6,True
+Tyson Chandler,1,10,21,1,Putback Layup Shot,1,8,-7,True
+Tyson Chandler,2,6,2,1,Putback Layup Shot,1,-2,-11,True
+Tyson Chandler,1,7,37,1,Putback Layup Shot,0,0,-6,True
+Tyson Chandler,4,2,27,0,Reverse Layup Shot,3,-8,35,True
+Tyson Chandler,1,9,30,1,Running Alley Oop Dunk Shot,0,-7,5,True
+Tyson Chandler,3,9,41,1,Running Alley Oop Dunk Shot,0,0,-2,True
+Tyson Chandler,2,9,44,1,Running Dunk Shot,0,-2,2,True
+Tyson Chandler,1,8,19,1,Running Dunk Shot,0,4,4,True
+Tyson Chandler,2,4,27,1,Running Dunk Shot,1,4,10,True
+Tyson Chandler,3,8,50,1,Running Layup Shot,1,14,1,True
+Tyson Chandler,1,11,9,1,Running Layup Shot,0,-1,6,True
+Tyson Chandler,1,11,16,1,Tip Dunk Shot,0,0,-6,True
+Tyson Chandler,4,2,57,0,Tip Dunk Shot,0,0,-6,True
+Tyson Chandler,1,9,24,0,Tip Dunk Shot,2,15,22,True
+Tyson Chandler,2,5,45,1,Tip Dunk Shot,0,0,-6,True
+Tyson Chandler,1,5,30,1,Tip Dunk Shot,0,-3,-4,True
+Tyson Chandler,1,9,17,1,Tip Dunk Shot,9,-57,71,True
+Tyson Chandler,4,0,54,0,Tip Layup Shot,0,3,-6,True
+Tyson Chandler,2,0,0,0,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,4,3,4,0,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,1,11,16,0,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,3,10,29,0,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,2,3,52,0,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,3,2,59,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,2,4,19,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,3,10,27,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,2,5,40,0,Tip Layup Shot,1,11,15,True
+Tyson Chandler,2,5,33,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,3,7,25,0,Tip Layup Shot,2,3,21,True
+Tyson Chandler,2,7,9,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,3,9,27,1,Tip Layup Shot,2,7,24,True
+Tyson Chandler,2,1,3,0,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,4,3,31,1,Tip Layup Shot,2,12,17,True
+Tyson Chandler,1,11,14,0,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,2,3,8,0,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,2,4,42,0,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,4,3,35,0,Tip Layup Shot,1,-6,19,True
+Tyson Chandler,4,3,19,1,Tip Layup Shot,0,-2,6,True
+Tyson Chandler,1,11,0,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,2,1,11,0,Tip Layup Shot,1,10,7,True
+Tyson Chandler,4,7,18,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,1,8,17,0,Tip Layup Shot,0,-9,1,True
+Tyson Chandler,2,8,3,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,1,6,55,0,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,2,2,43,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,2,2,26,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,2,1,28,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,2,1,33,0,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,3,9,54,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,2,8,39,0,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,2,2,29,0,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,1,8,57,0,Tip Layup Shot,0,-5,8,True
+Tyson Chandler,4,6,26,0,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,1,5,20,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,1,7,6,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,1,11,20,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,2,0,43,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,2,0,44,0,Tip Layup Shot,1,-11,4,True
+Tyson Chandler,1,6,40,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,4,0,55,0,Tip Layup Shot,0,-1,-3,True
+Tyson Chandler,3,6,14,0,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,4,7,22,1,Tip Layup Shot,0,0,-6,True
+Tyson Chandler,3,9,20,1,Tip Layup Shot,0,0,-6,True

@@ -27,10 +27,15 @@ pointer-events:none
 height:20px;
 width:auto;
 }
+
+#anno{
+height:20px;
+width:auto;
+}
 #filter_menu
 {
 zoom:0.9;
-width: auto;
+width: 85%;
 height: 350px;
 background-color: #F0F0F0;
 opacity: 0;

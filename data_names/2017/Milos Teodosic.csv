@@ -1,0 +1,310 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Milos Teodosic,4,2,27,1,Cutting Layup Shot,1,11,-8,True
+Milos Teodosic,1,8,46,0,Cutting Layup Shot,2,-6,26,True
+Milos Teodosic,1,9,46,0,Driving Floating Bank Jump Shot,7,-62,45,True
+Milos Teodosic,1,9,43,1,Driving Floating Bank Jump Shot,4,-41,4,True
+Milos Teodosic,4,7,36,1,Driving Floating Bank Jump Shot,5,-50,21,True
+Milos Teodosic,2,0,34,1,Driving Floating Bank Jump Shot,4,-47,13,True
+Milos Teodosic,3,7,28,1,Driving Floating Jump Shot,12,-13,121,True
+Milos Teodosic,1,5,26,1,Driving Floating Jump Shot,16,68,148,True
+Milos Teodosic,2,10,35,0,Driving Floating Jump Shot,17,20,169,True
+Milos Teodosic,3,5,59,1,Driving Floating Jump Shot,11,-5,117,True
+Milos Teodosic,2,5,53,1,Driving Floating Jump Shot,11,9,110,True
+Milos Teodosic,2,3,13,0,Driving Floating Jump Shot,6,-67,13,True
+Milos Teodosic,2,9,49,0,Driving Hook Shot,5,33,38,True
+Milos Teodosic,3,8,56,1,Driving Layup Shot,1,11,1,True
+Milos Teodosic,1,8,2,0,Driving Layup Shot,1,10,10,True
+Milos Teodosic,4,8,56,0,Driving Layup Shot,1,-4,15,True
+Milos Teodosic,1,8,26,1,Driving Layup Shot,5,-9,53,True
+Milos Teodosic,2,4,48,1,Driving Layup Shot,1,-5,11,True
+Milos Teodosic,2,5,39,0,Driving Layup Shot,5,-45,32,True
+Milos Teodosic,4,9,28,1,Driving Layup Shot,1,8,15,True
+Milos Teodosic,2,0,40,0,Driving Layup Shot,2,16,20,True
+Milos Teodosic,1,5,57,0,Driving Layup Shot,2,0,22,True
+Milos Teodosic,1,2,48,0,Driving Layup Shot,4,-32,26,True
+Milos Teodosic,4,7,41,1,Driving Layup Shot,1,13,14,True
+Milos Teodosic,1,10,2,0,Driving Layup Shot,1,-12,12,True
+Milos Teodosic,1,5,39,0,Driving Reverse Layup Shot,1,12,14,True
+Milos Teodosic,1,11,21,1,Fadeaway Jump Shot,17,-174,15,True
+Milos Teodosic,3,9,1,1,Floating Jump shot,10,19,100,True
+Milos Teodosic,3,11,40,0,Floating Jump shot,13,6,138,True
+Milos Teodosic,4,7,29,0,Floating Jump shot,10,-3,109,True
+Milos Teodosic,2,9,9,1,Floating Jump shot,12,-124,9,True
+Milos Teodosic,3,11,48,0,Floating Jump shot,11,33,109,True
+Milos Teodosic,1,10,24,0,Floating Jump shot,13,62,125,True
+Milos Teodosic,2,10,25,1,Floating Jump shot,10,-27,104,True
+Milos Teodosic,2,8,10,0,Floating Jump shot,7,-3,73,True
+Milos Teodosic,1,7,49,0,Jump Bank Shot,16,-158,57,True
+Milos Teodosic,3,5,16,0,Jump Bank Shot,12,-67,100,True
+Milos Teodosic,1,8,34,0,Jump Shot,27,121,242,False
+Milos Teodosic,1,7,7,1,Jump Shot,15,72,134,True
+Milos Teodosic,4,7,24,0,Jump Shot,25,-148,205,False
+Milos Teodosic,2,1,12,1,Jump Shot,26,-143,220,False
+Milos Teodosic,2,2,20,1,Jump Shot,27,-20,273,False
+Milos Teodosic,2,9,58,1,Jump Shot,24,171,174,False
+Milos Teodosic,4,11,28,1,Jump Shot,25,-56,253,False
+Milos Teodosic,3,3,32,1,Jump Shot,22,223,50,False
+Milos Teodosic,2,4,32,1,Jump Shot,23,-230,50,False
+Milos Teodosic,1,6,27,1,Jump Shot,24,-116,220,False
+Milos Teodosic,1,10,17,1,Jump Shot,25,115,225,False
+Milos Teodosic,1,7,58,0,Jump Shot,24,-171,182,False
+Milos Teodosic,4,6,41,0,Jump Shot,22,-224,47,False
+Milos Teodosic,4,4,9,0,Jump Shot,26,123,230,False
+Milos Teodosic,2,2,44,0,Jump Shot,26,169,204,False
+Milos Teodosic,4,6,43,1,Jump Shot,26,-225,141,False
+Milos Teodosic,3,10,57,0,Jump Shot,23,-234,13,False
+Milos Teodosic,2,9,39,1,Jump Shot,27,25,273,False
+Milos Teodosic,3,11,42,1,Jump Shot,26,212,160,False
+Milos Teodosic,2,6,25,1,Jump Shot,26,-114,234,False
+Milos Teodosic,2,0,20,1,Jump Shot,23,229,66,False
+Milos Teodosic,3,0,8,1,Jump Shot,25,137,213,False
+Milos Teodosic,1,10,1,1,Jump Shot,24,93,230,False
+Milos Teodosic,1,7,28,0,Jump Shot,25,86,242,False
+Milos Teodosic,3,9,29,0,Jump Shot,20,-130,158,True
+Milos Teodosic,2,2,16,0,Jump Shot,17,123,128,True
+Milos Teodosic,4,9,24,0,Jump Shot,24,-156,195,False
+Milos Teodosic,3,11,41,0,Jump Shot,25,58,250,False
+Milos Teodosic,4,10,33,1,Jump Shot,21,-136,167,True
+Milos Teodosic,1,7,38,0,Jump Shot,25,158,204,False
+Milos Teodosic,2,4,10,1,Jump Shot,26,-198,172,False
+Milos Teodosic,2,1,43,1,Jump Shot,25,185,173,False
+Milos Teodosic,3,9,18,0,Jump Shot,26,117,241,False
+Milos Teodosic,2,3,4,0,Jump Shot,22,-224,-1,False
+Milos Teodosic,1,1,28,1,Jump Shot,24,200,144,False
+Milos Teodosic,4,9,52,0,Jump Shot,26,119,232,False
+Milos Teodosic,2,7,10,1,Jump Shot,26,-71,259,False
+Milos Teodosic,4,7,9,0,Jump Shot,25,103,236,False
+Milos Teodosic,3,8,32,0,Jump Shot,27,127,239,False
+Milos Teodosic,2,6,30,0,Jump Shot,26,92,244,False
+Milos Teodosic,1,7,38,1,Jump Shot,26,-158,210,False
+Milos Teodosic,3,8,1,1,Jump Shot,20,29,202,True
+Milos Teodosic,2,0,54,0,Jump Shot,23,232,3,False
+Milos Teodosic,2,3,51,1,Jump Shot,23,230,1,False
+Milos Teodosic,4,11,47,1,Jump Shot,24,152,196,False
+Milos Teodosic,4,3,36,0,Jump Shot,25,-63,248,False
+Milos Teodosic,1,10,35,0,Jump Shot,25,-198,153,False
+Milos Teodosic,3,6,42,1,Jump Shot,25,87,241,False
+Milos Teodosic,4,3,59,1,Jump Shot,17,-96,148,True
+Milos Teodosic,3,6,13,0,Jump Shot,19,165,113,True
+Milos Teodosic,2,7,22,0,Jump Shot,25,-139,216,False
+Milos Teodosic,2,3,1,0,Jump Shot,24,36,242,False
+Milos Teodosic,2,8,47,1,Jump Shot,24,-143,201,False
+Milos Teodosic,3,6,56,0,Jump Shot,27,-115,253,False
+Milos Teodosic,3,5,37,0,Jump Shot,27,96,259,False
+Milos Teodosic,3,10,5,0,Jump Shot,26,-94,251,False
+Milos Teodosic,1,5,54,0,Jump Shot,26,-37,261,False
+Milos Teodosic,1,11,37,0,Jump Shot,26,-101,245,False
+Milos Teodosic,2,2,27,1,Jump Shot,25,-113,232,False
+Milos Teodosic,1,4,24,1,Jump Shot,24,-215,126,False
+Milos Teodosic,2,9,49,0,Jump Shot,25,-136,219,False
+Milos Teodosic,2,2,7,0,Jump Shot,26,-131,226,False
+Milos Teodosic,2,4,26,0,Jump Shot,25,93,239,False
+Milos Teodosic,2,6,35,1,Jump Shot,26,122,231,False
+Milos Teodosic,3,6,52,0,Jump Shot,25,-158,205,False
+Milos Teodosic,4,4,2,1,Jump Shot,25,-65,248,False
+Milos Teodosic,2,0,24,0,Jump Shot,25,-169,194,False
+Milos Teodosic,1,4,22,0,Jump Shot,27,-101,256,False
+Milos Teodosic,4,6,35,1,Jump Shot,17,174,3,True
+Milos Teodosic,1,11,1,1,Jump Shot,25,138,210,False
+Milos Teodosic,4,3,30,0,Jump Shot,25,35,252,False
+Milos Teodosic,3,9,52,0,Jump Shot,26,103,242,False
+Milos Teodosic,1,7,5,1,Jump Shot,26,-29,262,False
+Milos Teodosic,1,5,56,0,Jump Shot,24,82,233,False
+Milos Teodosic,2,3,48,0,Jump Shot,24,-42,245,False
+Milos Teodosic,3,10,22,0,Jump Shot,26,85,252,False
+Milos Teodosic,1,11,6,0,Jump Shot,25,-133,218,False
+Milos Teodosic,2,6,23,1,Jump Shot,25,23,256,False
+Milos Teodosic,3,7,4,0,Jump Shot,21,-71,204,True
+Milos Teodosic,2,0,2,0,Jump Shot,25,-101,233,False
+Milos Teodosic,3,11,19,0,Jump Shot,25,-60,246,False
+Milos Teodosic,2,1,56,0,Jump Shot,23,231,-3,False
+Milos Teodosic,2,3,15,0,Jump Shot,26,116,233,False
+Milos Teodosic,1,11,13,1,Jump Shot,21,65,202,True
+Milos Teodosic,1,10,38,0,Jump Shot,21,160,141,True
+Milos Teodosic,1,9,11,0,Jump Shot,25,-161,197,False
+Milos Teodosic,4,7,28,0,Jump Shot,27,-101,261,False
+Milos Teodosic,2,0,9,0,Jump Shot,24,53,241,False
+Milos Teodosic,2,3,27,1,Jump Shot,25,87,241,False
+Milos Teodosic,4,3,13,0,Jump Shot,25,-194,161,False
+Milos Teodosic,3,9,38,0,Jump Shot,24,-223,111,False
+Milos Teodosic,2,1,12,1,Jump Shot,25,40,252,False
+Milos Teodosic,4,6,11,1,Jump Shot,27,145,229,False
+Milos Teodosic,4,5,28,0,Jump Shot,25,-156,201,False
+Milos Teodosic,3,8,34,0,Jump Shot,25,-124,220,False
+Milos Teodosic,4,6,24,0,Jump Shot,26,171,201,False
+Milos Teodosic,1,8,35,0,Jump Shot,27,120,243,False
+Milos Teodosic,4,1,56,0,Jump Shot,25,-173,188,False
+Milos Teodosic,2,1,53,0,Jump Shot,26,123,233,False
+Milos Teodosic,4,9,52,1,Jump Shot,26,-97,243,False
+Milos Teodosic,1,8,33,0,Jump Shot,21,93,193,True
+Milos Teodosic,1,10,28,0,Jump Shot,23,-229,71,False
+Milos Teodosic,3,10,2,1,Jump Shot,26,61,258,False
+Milos Teodosic,1,10,42,0,Jump Shot,26,-85,248,False
+Milos Teodosic,3,7,21,0,Jump Shot,17,44,174,True
+Milos Teodosic,2,3,26,0,Jump Shot,26,-76,257,False
+Milos Teodosic,3,8,27,0,Jump Shot,26,81,256,False
+Milos Teodosic,3,10,54,0,Jump Shot,24,155,191,False
+Milos Teodosic,2,5,59,0,Jump Shot,26,-106,242,False
+Milos Teodosic,4,2,46,0,Jump Shot,26,59,260,False
+Milos Teodosic,4,0,40,1,Jump Shot,26,84,253,False
+Milos Teodosic,4,5,50,1,Jump Shot,25,215,139,False
+Milos Teodosic,2,3,8,1,Jump Shot,25,176,185,False
+Milos Teodosic,1,6,7,0,Jump Shot,30,67,295,False
+Milos Teodosic,3,9,5,0,Jump Shot,26,-160,211,False
+Milos Teodosic,1,7,51,1,Jump Shot,25,-115,222,False
+Milos Teodosic,3,9,52,0,Jump Shot,25,-128,224,False
+Milos Teodosic,2,2,15,0,Jump Shot,27,203,183,False
+Milos Teodosic,3,7,5,1,Jump Shot,25,-182,177,False
+Milos Teodosic,3,0,37,0,Jump Shot,24,-206,137,False
+Milos Teodosic,3,4,2,0,Jump Shot,26,2,260,False
+Milos Teodosic,4,8,44,0,Jump Shot,26,79,253,False
+Milos Teodosic,2,10,54,1,Jump Shot,24,221,108,False
+Milos Teodosic,3,0,6,0,Jump Shot,27,-122,241,False
+Milos Teodosic,1,1,26,0,Jump Shot,27,114,246,False
+Milos Teodosic,1,0,30,0,Jump Shot,25,-6,258,False
+Milos Teodosic,1,5,53,0,Jump Shot,15,5,157,True
+Milos Teodosic,2,10,43,1,Jump Shot,26,7,266,False
+Milos Teodosic,1,8,54,1,Jump Shot,26,144,222,False
+Milos Teodosic,1,11,47,0,Jump Shot,25,111,232,False
+Milos Teodosic,2,10,13,0,Jump Shot,25,-81,243,False
+Milos Teodosic,2,0,9,0,Jump Shot,12,-103,79,True
+Milos Teodosic,3,1,44,1,Jump Shot,24,160,183,False
+Milos Teodosic,1,0,18,1,Jump Shot,26,-151,213,False
+Milos Teodosic,1,2,54,1,Jump Shot,23,231,11,False
+Milos Teodosic,1,10,46,0,Jump Shot,26,203,176,False
+Milos Teodosic,1,11,11,1,Jump Shot,24,236,46,False
+Milos Teodosic,4,7,44,0,Jump Shot,23,-230,44,False
+Milos Teodosic,2,4,24,0,Jump Shot,24,65,234,False
+Milos Teodosic,2,3,7,0,Jump Shot,24,-157,190,False
+Milos Teodosic,2,5,11,0,Jump Shot,27,-108,258,False
+Milos Teodosic,4,5,58,0,Jump Shot,25,0,257,False
+Milos Teodosic,3,9,22,1,Jump Shot,25,-47,249,False
+Milos Teodosic,1,7,41,1,Jump Shot,28,161,232,False
+Milos Teodosic,3,11,33,0,Jump Shot,25,38,256,False
+Milos Teodosic,4,5,4,0,Jump Shot,28,-69,279,False
+Milos Teodosic,4,4,14,0,Jump Shot,26,13,262,False
+Milos Teodosic,2,4,50,0,Jump Shot,25,-201,156,False
+Milos Teodosic,3,11,42,0,Jump Shot,18,-85,168,True
+Milos Teodosic,1,11,5,0,Jump Shot,27,-112,252,False
+Milos Teodosic,2,8,47,1,Jump Shot,26,-122,230,False
+Milos Teodosic,1,8,5,1,Jump Shot,25,-193,166,False
+Milos Teodosic,2,11,27,1,Jump Shot,18,-55,177,True
+Milos Teodosic,3,5,43,0,Jump Shot,24,3,249,False
+Milos Teodosic,2,7,15,0,Jump Shot,25,229,109,False
+Milos Teodosic,2,7,48,0,Jump Shot,25,-116,230,False
+Milos Teodosic,2,10,40,0,Jump Shot,24,127,206,False
+Milos Teodosic,1,10,15,0,Jump Shot,25,56,250,False
+Milos Teodosic,4,10,21,1,Jump Shot,21,157,154,True
+Milos Teodosic,2,11,23,0,Jump Shot,27,105,253,False
+Milos Teodosic,1,7,25,0,Jump Shot,24,89,232,False
+Milos Teodosic,4,9,51,0,Jump Shot,25,84,237,False
+Milos Teodosic,2,4,38,0,Jump Shot,26,-65,253,False
+Milos Teodosic,2,5,9,1,Jump Shot,25,-77,246,False
+Milos Teodosic,3,8,18,1,Jump Shot,25,-71,247,False
+Milos Teodosic,3,9,37,0,Jump Shot,23,77,227,False
+Milos Teodosic,1,6,36,1,Jump Shot,18,93,157,True
+Milos Teodosic,3,6,41,1,Jump Shot,24,-156,192,False
+Milos Teodosic,3,1,47,0,Jump Shot,24,-239,56,False
+Milos Teodosic,3,1,12,0,Jump Shot,25,-118,227,False
+Milos Teodosic,1,3,43,0,Jump Shot,26,130,227,False
+Milos Teodosic,3,7,25,1,Jump Shot,25,-150,200,False
+Milos Teodosic,1,10,12,0,Jump Shot,24,-86,229,False
+Milos Teodosic,4,2,29,0,Jump Shot,25,-155,202,False
+Milos Teodosic,1,7,10,0,Jump Shot,25,206,142,False
+Milos Teodosic,4,4,4,1,Jump Shot,25,-119,228,False
+Milos Teodosic,2,2,19,1,Jump Shot,24,-156,188,False
+Milos Teodosic,2,7,16,0,Jump Shot,24,120,216,False
+Milos Teodosic,4,1,19,1,Jump Shot,25,-171,194,False
+Milos Teodosic,4,10,48,0,Jump Shot,25,-105,235,False
+Milos Teodosic,1,5,31,0,Jump Shot,23,-225,72,False
+Milos Teodosic,3,0,5,0,Jump Shot,28,-46,279,False
+Milos Teodosic,4,11,50,0,Jump Shot,25,111,232,False
+Milos Teodosic,2,10,12,1,Jump Shot,19,190,19,True
+Milos Teodosic,1,9,21,0,Jump Shot,20,-200,1,True
+Milos Teodosic,1,6,9,1,Jump Shot,25,81,242,False
+Milos Teodosic,3,5,31,0,Jump Shot,24,160,190,False
+Milos Teodosic,4,8,13,0,Jump Shot,25,46,251,False
+Milos Teodosic,2,9,8,0,Jump Shot,25,-98,232,False
+Milos Teodosic,3,9,55,1,Jump Shot,25,92,238,False
+Milos Teodosic,4,3,29,0,Jump Shot,25,-67,243,False
+Milos Teodosic,3,9,1,0,Jump Shot,32,-207,254,False
+Milos Teodosic,1,9,39,1,Jump Shot,24,39,243,False
+Milos Teodosic,1,6,53,1,Jump Shot,20,-26,203,True
+Milos Teodosic,3,10,28,0,Jump Shot,25,-187,173,False
+Milos Teodosic,2,2,2,1,Jump Shot,25,98,235,False
+Milos Teodosic,4,6,34,1,Jump Shot,24,86,231,False
+Milos Teodosic,3,10,12,1,Jump Shot,25,-6,251,False
+Milos Teodosic,3,8,49,1,Layup Shot,0,3,7,True
+Milos Teodosic,4,8,28,0,Layup Shot,1,-18,1,True
+Milos Teodosic,4,0,20,0,Pullup Jump shot,29,-196,218,False
+Milos Teodosic,1,8,41,1,Pullup Jump shot,17,-82,152,True
+Milos Teodosic,1,8,19,1,Pullup Jump shot,19,-89,177,True
+Milos Teodosic,3,10,36,0,Pullup Jump shot,15,-81,131,True
+Milos Teodosic,3,8,32,0,Pullup Jump shot,20,98,179,True
+Milos Teodosic,3,4,47,0,Pullup Jump shot,19,-93,176,True
+Milos Teodosic,2,9,29,1,Pullup Jump shot,24,-85,234,False
+Milos Teodosic,3,7,42,0,Pullup Jump shot,16,54,159,True
+Milos Teodosic,4,4,2,1,Pullup Jump shot,18,36,183,True
+Milos Teodosic,3,10,6,1,Pullup Jump shot,18,-138,130,True
+Milos Teodosic,3,7,59,0,Pullup Jump shot,20,-62,195,True
+Milos Teodosic,4,4,54,0,Pullup Jump shot,15,9,156,True
+Milos Teodosic,4,10,37,0,Pullup Jump shot,18,-29,178,True
+Milos Teodosic,2,0,35,1,Pullup Jump shot,27,190,205,False
+Milos Teodosic,1,8,9,0,Pullup Jump shot,25,-61,252,False
+Milos Teodosic,3,9,38,1,Pullup Jump shot,22,16,225,True
+Milos Teodosic,2,0,10,0,Pullup Jump shot,15,71,141,True
+Milos Teodosic,2,3,23,0,Pullup Jump shot,27,-15,274,False
+Milos Teodosic,1,7,15,1,Pullup Jump shot,25,-13,251,False
+Milos Teodosic,2,4,25,0,Pullup Jump shot,12,-116,37,True
+Milos Teodosic,2,9,28,1,Pullup Jump shot,17,-157,75,True
+Milos Teodosic,1,8,18,1,Pullup Jump shot,27,190,193,False
+Milos Teodosic,2,7,46,0,Pullup Jump shot,25,-73,247,False
+Milos Teodosic,2,2,11,0,Pullup Jump shot,18,-76,170,True
+Milos Teodosic,1,11,47,0,Pullup Jump shot,16,9,163,True
+Milos Teodosic,3,8,18,0,Pullup Jump shot,18,-117,138,True
+Milos Teodosic,3,9,18,0,Pullup Jump shot,18,-137,122,True
+Milos Teodosic,1,6,45,1,Pullup Jump shot,18,-95,156,True
+Milos Teodosic,4,2,41,1,Pullup Jump shot,15,144,55,True
+Milos Teodosic,2,1,9,1,Pullup Jump shot,20,39,206,True
+Milos Teodosic,2,4,59,0,Pullup Jump shot,24,231,82,False
+Milos Teodosic,1,1,39,1,Pullup Jump shot,13,-127,31,True
+Milos Teodosic,1,9,44,1,Pullup Jump shot,10,63,84,True
+Milos Teodosic,4,8,50,1,Pullup Jump shot,16,-70,146,True
+Milos Teodosic,2,5,40,0,Pullup Jump shot,17,-69,162,True
+Milos Teodosic,1,6,46,1,Pullup Jump shot,24,-82,229,False
+Milos Teodosic,4,4,7,0,Pullup Jump shot,26,-67,252,False
+Milos Teodosic,1,11,46,1,Pullup Jump shot,20,116,164,True
+Milos Teodosic,3,7,39,0,Pullup Jump shot,15,97,120,True
+Milos Teodosic,2,9,41,0,Pullup Jump shot,25,131,219,False
+Milos Teodosic,3,10,36,0,Pullup Jump shot,17,-72,155,True
+Milos Teodosic,4,7,41,1,Pullup Jump shot,15,-40,147,True
+Milos Teodosic,3,8,21,0,Pullup Jump shot,27,-54,265,False
+Milos Teodosic,2,4,43,0,Pullup Jump shot,20,176,108,True
+Milos Teodosic,1,7,1,1,Pullup Jump shot,24,67,236,False
+Milos Teodosic,1,10,57,0,Pullup Jump shot,16,-52,161,True
+Milos Teodosic,1,3,44,0,Pullup Jump shot,20,-189,83,True
+Milos Teodosic,1,11,37,1,Pullup Jump shot,16,32,159,True
+Milos Teodosic,1,6,23,1,Pullup Jump shot,25,-43,254,False
+Milos Teodosic,4,6,5,1,Pullup Jump shot,15,28,148,True
+Milos Teodosic,3,7,54,1,Pullup Jump shot,16,64,154,True
+Milos Teodosic,1,5,3,0,Pullup Jump shot,17,51,168,True
+Milos Teodosic,1,11,35,0,Pullup Jump shot,17,126,121,True
+Milos Teodosic,2,5,20,1,Pullup Jump shot,17,72,157,True
+Milos Teodosic,4,4,25,1,Pullup Jump shot,25,145,214,False
+Milos Teodosic,2,8,7,1,Pullup Jump shot,25,-9,253,False
+Milos Teodosic,1,7,20,0,Pullup Jump shot,17,-126,120,True
+Milos Teodosic,1,8,44,1,Pullup Jump shot,17,-36,176,True
+Milos Teodosic,1,8,53,1,Running Finger Roll Layup Shot,4,-41,12,True
+Milos Teodosic,2,10,25,0,Running Finger Roll Layup Shot,3,18,25,True
+Milos Teodosic,3,10,20,0,Running Jump Shot,25,-145,210,False
+Milos Teodosic,3,11,0,1,Running Layup Shot,1,-6,16,True
+Milos Teodosic,2,9,16,0,Running Pull-Up Jump Shot,24,96,230,False
+Milos Teodosic,2,0,3,1,Running Pull-Up Jump Shot,25,177,188,False
+Milos Teodosic,2,3,3,0,Running Pull-Up Jump Shot,25,-3,252,False
+Milos Teodosic,1,7,46,0,Running Pull-Up Jump Shot,19,-145,131,True
+Milos Teodosic,1,4,19,0,Step Back Jump shot,24,-92,230,False
+Milos Teodosic,4,4,9,1,Step Back Jump shot,24,-35,247,False
+Milos Teodosic,2,6,47,1,Step Back Jump shot,21,9,214,True
+Milos Teodosic,1,7,56,0,Step Back Jump shot,27,219,159,False
+Milos Teodosic,2,7,44,1,Step Back Jump shot,26,100,243,False
+Milos Teodosic,1,11,4,1,Tip Layup Shot,0,0,-6,True

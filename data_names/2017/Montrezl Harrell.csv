@@ -1,0 +1,472 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Montrezl Harrell,4,11,7,1,Alley Oop Dunk Shot,1,2,-11,True
+Montrezl Harrell,1,3,45,1,Alley Oop Dunk Shot,0,1,3,True
+Montrezl Harrell,4,11,31,1,Alley Oop Dunk Shot,1,5,15,True
+Montrezl Harrell,4,10,17,0,Alley Oop Dunk Shot,2,18,10,True
+Montrezl Harrell,4,5,39,1,Alley Oop Dunk Shot,1,11,5,True
+Montrezl Harrell,4,7,59,1,Alley Oop Dunk Shot,0,-3,5,True
+Montrezl Harrell,2,8,27,1,Alley Oop Dunk Shot,1,2,12,True
+Montrezl Harrell,2,8,32,0,Alley Oop Dunk Shot,1,10,8,True
+Montrezl Harrell,2,9,37,1,Alley Oop Layup shot,3,-29,20,True
+Montrezl Harrell,2,10,43,1,Alley Oop Layup shot,1,-5,14,True
+Montrezl Harrell,4,7,57,1,Alley Oop Layup shot,1,0,10,True
+Montrezl Harrell,1,3,0,1,Alley Oop Layup shot,2,0,23,True
+Montrezl Harrell,2,5,26,1,Alley Oop Layup shot,2,17,15,True
+Montrezl Harrell,2,10,59,1,Cutting Dunk Shot,0,-2,4,True
+Montrezl Harrell,4,10,50,1,Cutting Dunk Shot,1,-2,15,True
+Montrezl Harrell,3,1,2,1,Cutting Dunk Shot,1,-6,11,True
+Montrezl Harrell,2,8,42,1,Cutting Dunk Shot,0,0,6,True
+Montrezl Harrell,1,1,27,0,Cutting Dunk Shot,1,-2,15,True
+Montrezl Harrell,4,10,10,1,Cutting Dunk Shot,1,-12,10,True
+Montrezl Harrell,2,8,0,1,Cutting Dunk Shot,1,-13,10,True
+Montrezl Harrell,2,7,55,1,Cutting Dunk Shot,0,-6,6,True
+Montrezl Harrell,4,9,52,1,Cutting Dunk Shot,1,8,7,True
+Montrezl Harrell,4,3,5,1,Cutting Dunk Shot,1,8,18,True
+Montrezl Harrell,4,6,57,1,Cutting Dunk Shot,0,0,2,True
+Montrezl Harrell,2,7,31,1,Cutting Dunk Shot,0,-5,0,True
+Montrezl Harrell,4,11,45,1,Cutting Dunk Shot,3,29,14,True
+Montrezl Harrell,2,7,47,1,Cutting Dunk Shot,1,1,14,True
+Montrezl Harrell,1,1,19,1,Cutting Dunk Shot,0,0,6,True
+Montrezl Harrell,3,0,33,1,Cutting Dunk Shot,0,4,-3,True
+Montrezl Harrell,3,7,7,1,Cutting Dunk Shot,1,3,14,True
+Montrezl Harrell,4,9,12,1,Cutting Dunk Shot,0,-8,1,True
+Montrezl Harrell,4,8,58,1,Cutting Dunk Shot,2,-19,13,True
+Montrezl Harrell,1,1,54,1,Cutting Dunk Shot,1,-10,-4,True
+Montrezl Harrell,2,5,34,1,Cutting Dunk Shot,0,-3,7,True
+Montrezl Harrell,2,9,4,1,Cutting Dunk Shot,1,0,11,True
+Montrezl Harrell,2,3,58,1,Cutting Dunk Shot,2,-19,18,True
+Montrezl Harrell,4,8,37,1,Cutting Dunk Shot,1,-8,15,True
+Montrezl Harrell,3,8,9,1,Cutting Dunk Shot,1,0,14,True
+Montrezl Harrell,1,2,1,1,Cutting Dunk Shot,0,-3,8,True
+Montrezl Harrell,3,9,15,1,Cutting Dunk Shot,0,-2,9,True
+Montrezl Harrell,2,0,50,1,Cutting Dunk Shot,1,-13,11,True
+Montrezl Harrell,4,9,8,1,Cutting Dunk Shot,1,-5,11,True
+Montrezl Harrell,4,8,1,0,Cutting Dunk Shot,1,2,19,True
+Montrezl Harrell,4,11,45,1,Cutting Dunk Shot,1,-6,11,True
+Montrezl Harrell,4,0,55,1,Cutting Dunk Shot,2,25,9,True
+Montrezl Harrell,1,0,32,1,Cutting Dunk Shot,0,-3,6,True
+Montrezl Harrell,3,1,24,1,Cutting Dunk Shot,1,-14,-1,True
+Montrezl Harrell,4,11,45,0,Cutting Dunk Shot,1,-13,4,True
+Montrezl Harrell,2,7,13,1,Cutting Layup Shot,1,13,4,True
+Montrezl Harrell,2,11,6,1,Cutting Layup Shot,2,-18,16,True
+Montrezl Harrell,4,8,12,0,Cutting Layup Shot,7,55,50,True
+Montrezl Harrell,3,3,36,1,Cutting Layup Shot,6,42,53,True
+Montrezl Harrell,4,4,11,1,Cutting Layup Shot,2,14,21,True
+Montrezl Harrell,4,11,43,0,Cutting Layup Shot,1,-12,7,True
+Montrezl Harrell,4,2,52,1,Cutting Layup Shot,1,3,14,True
+Montrezl Harrell,2,9,6,1,Cutting Layup Shot,1,-17,8,True
+Montrezl Harrell,2,7,29,1,Cutting Layup Shot,1,8,13,True
+Montrezl Harrell,2,9,45,1,Cutting Layup Shot,1,7,15,True
+Montrezl Harrell,2,6,2,1,Cutting Layup Shot,1,5,16,True
+Montrezl Harrell,3,2,20,1,Cutting Layup Shot,2,14,22,True
+Montrezl Harrell,2,7,28,1,Cutting Layup Shot,1,8,6,True
+Montrezl Harrell,2,7,21,1,Cutting Layup Shot,1,12,5,True
+Montrezl Harrell,1,1,54,1,Cutting Layup Shot,0,-8,5,True
+Montrezl Harrell,2,8,22,1,Cutting Layup Shot,1,6,17,True
+Montrezl Harrell,3,6,51,0,Cutting Layup Shot,5,-14,48,True
+Montrezl Harrell,4,8,48,1,Cutting Layup Shot,2,2,21,True
+Montrezl Harrell,2,10,33,1,Cutting Layup Shot,1,7,17,True
+Montrezl Harrell,4,8,14,1,Driving Bank Hook Shot,1,14,4,True
+Montrezl Harrell,4,5,40,1,Driving Bank Hook Shot,5,48,22,True
+Montrezl Harrell,2,10,26,1,Driving Bank Hook Shot,5,43,38,True
+Montrezl Harrell,4,7,2,1,Driving Dunk Shot,0,0,4,True
+Montrezl Harrell,4,6,33,1,Driving Dunk Shot,1,2,10,True
+Montrezl Harrell,4,8,11,1,Driving Dunk Shot,0,-7,5,True
+Montrezl Harrell,3,1,25,1,Driving Dunk Shot,1,11,15,True
+Montrezl Harrell,4,5,33,1,Driving Dunk Shot,0,4,7,True
+Montrezl Harrell,2,10,9,1,Driving Dunk Shot,0,2,-4,True
+Montrezl Harrell,3,0,51,1,Driving Dunk Shot,2,-3,20,True
+Montrezl Harrell,4,1,6,1,Driving Dunk Shot,0,-2,5,True
+Montrezl Harrell,4,9,52,0,Driving Finger Roll Layup Shot,1,18,-1,True
+Montrezl Harrell,4,11,3,1,Driving Finger Roll Layup Shot,0,3,9,True
+Montrezl Harrell,2,11,49,0,Driving Floating Bank Jump Shot,8,66,51,True
+Montrezl Harrell,2,10,54,1,Driving Floating Bank Jump Shot,1,12,5,True
+Montrezl Harrell,2,9,59,1,Driving Floating Bank Jump Shot,6,52,30,True
+Montrezl Harrell,2,7,28,0,Driving Floating Bank Jump Shot,7,49,52,True
+Montrezl Harrell,1,1,7,0,Driving Floating Jump Shot,7,-36,69,True
+Montrezl Harrell,2,6,31,0,Driving Floating Jump Shot,6,1,63,True
+Montrezl Harrell,2,6,52,1,Driving Floating Jump Shot,3,7,34,True
+Montrezl Harrell,2,10,56,0,Driving Hook Shot,2,-6,27,True
+Montrezl Harrell,4,7,1,0,Driving Hook Shot,9,-6,95,True
+Montrezl Harrell,2,4,28,1,Driving Hook Shot,6,17,61,True
+Montrezl Harrell,2,6,43,1,Driving Hook Shot,1,11,16,True
+Montrezl Harrell,2,1,23,1,Driving Hook Shot,1,2,15,True
+Montrezl Harrell,2,8,30,1,Driving Hook Shot,4,-11,48,True
+Montrezl Harrell,2,11,4,1,Driving Hook Shot,5,3,57,True
+Montrezl Harrell,4,5,19,1,Driving Hook Shot,2,27,9,True
+Montrezl Harrell,4,5,34,0,Driving Hook Shot,3,-5,36,True
+Montrezl Harrell,4,6,8,0,Driving Hook Shot,3,-27,26,True
+Montrezl Harrell,2,11,27,0,Driving Hook Shot,5,-4,55,True
+Montrezl Harrell,2,9,12,0,Driving Hook Shot,9,33,87,True
+Montrezl Harrell,2,8,10,1,Driving Hook Shot,6,27,55,True
+Montrezl Harrell,4,10,31,1,Driving Hook Shot,5,26,46,True
+Montrezl Harrell,1,0,45,1,Driving Hook Shot,5,-2,56,True
+Montrezl Harrell,1,4,59,1,Driving Hook Shot,8,-5,88,True
+Montrezl Harrell,2,8,7,1,Driving Hook Shot,8,-52,63,True
+Montrezl Harrell,1,9,20,0,Driving Hook Shot,5,23,51,True
+Montrezl Harrell,1,2,0,1,Driving Hook Shot,2,3,27,True
+Montrezl Harrell,4,9,27,1,Driving Hook Shot,5,29,46,True
+Montrezl Harrell,1,0,22,0,Driving Hook Shot,7,16,74,True
+Montrezl Harrell,4,10,33,1,Driving Hook Shot,6,-14,68,True
+Montrezl Harrell,4,11,11,1,Driving Hook Shot,6,18,63,True
+Montrezl Harrell,4,5,37,0,Driving Hook Shot,7,-2,75,True
+Montrezl Harrell,3,1,1,1,Driving Hook Shot,6,6,67,True
+Montrezl Harrell,4,10,27,1,Driving Hook Shot,2,18,17,True
+Montrezl Harrell,3,0,58,1,Driving Hook Shot,2,-6,26,True
+Montrezl Harrell,2,4,46,1,Driving Layup Shot,2,18,11,True
+Montrezl Harrell,3,0,10,1,Driving Layup Shot,1,10,5,True
+Montrezl Harrell,2,10,3,1,Driving Layup Shot,0,0,9,True
+Montrezl Harrell,2,11,23,0,Driving Layup Shot,1,-6,8,True
+Montrezl Harrell,4,9,4,1,Driving Layup Shot,1,10,7,True
+Montrezl Harrell,2,5,12,1,Driving Layup Shot,4,-39,12,True
+Montrezl Harrell,2,8,36,1,Driving Layup Shot,1,11,8,True
+Montrezl Harrell,2,7,27,1,Driving Layup Shot,3,29,21,True
+Montrezl Harrell,4,3,36,0,Driving Layup Shot,6,33,59,True
+Montrezl Harrell,4,7,42,1,Driving Layup Shot,1,14,5,True
+Montrezl Harrell,4,3,27,0,Driving Layup Shot,3,27,26,True
+Montrezl Harrell,2,8,4,1,Driving Layup Shot,0,-4,0,True
+Montrezl Harrell,2,9,42,0,Driving Layup Shot,2,19,7,True
+Montrezl Harrell,2,9,56,0,Driving Layup Shot,7,-44,57,True
+Montrezl Harrell,2,11,45,1,Driving Layup Shot,1,18,1,True
+Montrezl Harrell,2,8,14,1,Driving Layup Shot,2,20,4,True
+Montrezl Harrell,1,0,41,1,Driving Layup Shot,1,11,15,True
+Montrezl Harrell,3,4,40,1,Driving Layup Shot,1,5,16,True
+Montrezl Harrell,4,9,52,0,Driving Layup Shot,1,6,8,True
+Montrezl Harrell,4,8,51,1,Driving Layup Shot,0,-2,8,True
+Montrezl Harrell,2,9,50,0,Driving Layup Shot,2,22,8,True
+Montrezl Harrell,4,6,16,1,Driving Layup Shot,2,24,14,True
+Montrezl Harrell,2,8,34,1,Driving Layup Shot,1,-5,13,True
+Montrezl Harrell,3,1,7,1,Driving Layup Shot,2,3,20,True
+Montrezl Harrell,2,8,58,1,Driving Layup Shot,5,51,30,True
+Montrezl Harrell,2,8,53,1,Driving Layup Shot,1,8,17,True
+Montrezl Harrell,2,8,15,0,Driving Layup Shot,1,7,15,True
+Montrezl Harrell,4,9,49,0,Driving Layup Shot,3,-18,33,True
+Montrezl Harrell,4,9,0,0,Driving Layup Shot,2,22,17,True
+Montrezl Harrell,4,0,23,1,Driving Layup Shot,0,3,5,True
+Montrezl Harrell,2,11,24,1,Driving Layup Shot,1,6,10,True
+Montrezl Harrell,2,11,12,1,Driving Layup Shot,0,-8,4,True
+Montrezl Harrell,2,5,54,1,Driving Layup Shot,0,5,4,True
+Montrezl Harrell,2,9,14,1,Driving Layup Shot,1,-9,13,True
+Montrezl Harrell,3,1,9,1,Driving Reverse Layup Shot,1,11,1,True
+Montrezl Harrell,4,11,6,1,Driving Reverse Layup Shot,1,-5,13,True
+Montrezl Harrell,1,0,53,1,Dunk Shot,3,-11,36,True
+Montrezl Harrell,3,2,59,1,Dunk Shot,1,-11,11,True
+Montrezl Harrell,4,9,12,1,Dunk Shot,0,-5,4,True
+Montrezl Harrell,3,1,10,0,Dunk Shot,3,-27,25,True
+Montrezl Harrell,2,11,29,1,Dunk Shot,1,5,14,True
+Montrezl Harrell,4,9,16,1,Dunk Shot,1,14,11,True
+Montrezl Harrell,4,7,13,1,Dunk Shot,2,9,18,True
+Montrezl Harrell,4,11,44,1,Dunk Shot,1,1,17,True
+Montrezl Harrell,3,1,25,1,Dunk Shot,0,5,6,True
+Montrezl Harrell,2,5,57,1,Dunk Shot,2,14,16,True
+Montrezl Harrell,2,7,41,1,Dunk Shot,0,0,5,True
+Montrezl Harrell,2,9,35,1,Dunk Shot,2,-6,25,True
+Montrezl Harrell,2,10,36,1,Dunk Shot,1,5,9,True
+Montrezl Harrell,2,10,5,1,Dunk Shot,3,18,25,True
+Montrezl Harrell,1,0,0,1,Dunk Shot,1,-2,18,True
+Montrezl Harrell,3,2,39,1,Dunk Shot,2,-5,27,True
+Montrezl Harrell,2,5,10,1,Dunk Shot,1,-7,12,True
+Montrezl Harrell,4,2,36,0,Dunk Shot,2,1,25,True
+Montrezl Harrell,4,2,32,1,Dunk Shot,1,-4,11,True
+Montrezl Harrell,2,7,12,1,Dunk Shot,3,-12,29,True
+Montrezl Harrell,1,1,32,1,Dunk Shot,1,-2,10,True
+Montrezl Harrell,4,11,19,1,Dunk Shot,1,-9,9,True
+Montrezl Harrell,2,5,36,1,Dunk Shot,0,1,-1,True
+Montrezl Harrell,2,11,34,1,Dunk Shot,2,-8,20,True
+Montrezl Harrell,4,11,29,1,Dunk Shot,0,-5,8,True
+Montrezl Harrell,2,1,39,1,Dunk Shot,0,3,8,True
+Montrezl Harrell,2,8,0,1,Dunk Shot,1,0,13,True
+Montrezl Harrell,4,10,24,1,Dunk Shot,1,-10,6,True
+Montrezl Harrell,4,11,15,1,Dunk Shot,1,-1,12,True
+Montrezl Harrell,2,10,11,1,Dunk Shot,3,14,31,True
+Montrezl Harrell,4,11,20,1,Dunk Shot,1,3,15,True
+Montrezl Harrell,3,1,0,1,Dunk Shot,0,0,7,True
+Montrezl Harrell,4,8,24,1,Dunk Shot,1,14,10,True
+Montrezl Harrell,1,1,7,1,Dunk Shot,1,3,10,True
+Montrezl Harrell,4,9,29,1,Dunk Shot,2,14,20,True
+Montrezl Harrell,1,4,21,0,Fadeaway Jump Shot,9,88,24,True
+Montrezl Harrell,4,3,48,1,Fadeaway Jump Shot,13,-122,62,True
+Montrezl Harrell,4,1,17,0,Fadeaway Jump Shot,14,-43,140,True
+Montrezl Harrell,4,9,58,1,Fadeaway Jump Shot,19,82,180,True
+Montrezl Harrell,2,8,25,1,Finger Roll Layup Shot,1,5,15,True
+Montrezl Harrell,2,5,20,0,Finger Roll Layup Shot,4,18,36,True
+Montrezl Harrell,2,9,52,0,Floating Jump shot,5,-3,59,True
+Montrezl Harrell,4,10,14,1,Floating Jump shot,10,35,100,True
+Montrezl Harrell,4,4,54,1,Floating Jump shot,10,-39,94,True
+Montrezl Harrell,4,9,23,0,Floating Jump shot,6,11,69,True
+Montrezl Harrell,4,6,16,0,Floating Jump shot,8,-7,85,True
+Montrezl Harrell,4,10,45,1,Floating Jump shot,8,-28,84,True
+Montrezl Harrell,2,8,37,0,Floating Jump shot,13,-53,120,True
+Montrezl Harrell,4,5,44,0,Floating Jump shot,9,-11,95,True
+Montrezl Harrell,3,4,14,0,Floating Jump shot,7,19,75,True
+Montrezl Harrell,4,7,33,0,Floating Jump shot,6,55,32,True
+Montrezl Harrell,2,10,14,1,Floating Jump shot,8,-3,84,True
+Montrezl Harrell,1,1,12,1,Floating Jump shot,9,38,90,True
+Montrezl Harrell,4,10,5,1,Floating Jump shot,7,24,74,True
+Montrezl Harrell,3,1,43,0,Floating Jump shot,10,-76,70,True
+Montrezl Harrell,4,3,6,1,Floating Jump shot,5,20,48,True
+Montrezl Harrell,1,0,32,0,Hook Bank Shot,7,54,57,True
+Montrezl Harrell,2,5,47,0,Hook Shot,7,-70,15,True
+Montrezl Harrell,4,9,1,0,Hook Shot,5,-25,53,True
+Montrezl Harrell,2,5,46,0,Hook Shot,8,-5,88,True
+Montrezl Harrell,1,4,23,1,Hook Shot,9,-35,89,True
+Montrezl Harrell,4,8,7,1,Hook Shot,5,37,47,True
+Montrezl Harrell,2,9,15,1,Hook Shot,8,71,50,True
+Montrezl Harrell,4,6,11,0,Hook Shot,8,43,69,True
+Montrezl Harrell,4,4,25,0,Hook Shot,8,-18,81,True
+Montrezl Harrell,4,7,10,1,Hook Shot,7,-7,70,True
+Montrezl Harrell,4,7,52,1,Hook Shot,10,11,100,True
+Montrezl Harrell,4,10,48,0,Hook Shot,9,9,95,True
+Montrezl Harrell,4,3,7,1,Hook Shot,1,-13,8,True
+Montrezl Harrell,1,2,5,0,Hook Shot,9,12,99,True
+Montrezl Harrell,3,1,7,0,Hook Shot,5,16,53,True
+Montrezl Harrell,2,9,38,0,Hook Shot,5,-11,58,True
+Montrezl Harrell,2,10,19,0,Hook Shot,5,29,51,True
+Montrezl Harrell,2,9,19,1,Hook Shot,7,61,43,True
+Montrezl Harrell,2,11,6,1,Hook Shot,3,8,29,True
+Montrezl Harrell,4,7,39,1,Hook Shot,1,-4,17,True
+Montrezl Harrell,2,9,17,0,Hook Shot,5,11,58,True
+Montrezl Harrell,4,2,3,1,Hook Shot,3,25,23,True
+Montrezl Harrell,3,4,46,0,Hook Shot,5,3,51,True
+Montrezl Harrell,2,8,36,0,Hook Shot,7,6,71,True
+Montrezl Harrell,1,2,53,0,Hook Shot,6,29,61,True
+Montrezl Harrell,2,10,51,1,Hook Shot,10,-78,64,True
+Montrezl Harrell,4,11,41,0,Hook Shot,9,63,77,True
+Montrezl Harrell,2,8,46,1,Hook Shot,6,28,63,True
+Montrezl Harrell,2,9,54,0,Hook Shot,6,29,62,True
+Montrezl Harrell,4,5,40,1,Hook Shot,6,11,60,True
+Montrezl Harrell,4,6,20,1,Hook Shot,5,-1,58,True
+Montrezl Harrell,2,7,44,1,Hook Shot,9,16,91,True
+Montrezl Harrell,2,6,10,0,Hook Shot,9,2,92,True
+Montrezl Harrell,3,2,7,0,Hook Shot,14,71,127,True
+Montrezl Harrell,4,9,14,0,Hook Shot,9,5,90,True
+Montrezl Harrell,2,8,28,1,Hook Shot,3,-6,33,True
+Montrezl Harrell,2,10,20,1,Jump Bank Shot,1,-14,6,True
+Montrezl Harrell,2,7,16,1,Jump Bank Shot,1,-11,7,True
+Montrezl Harrell,4,2,1,0,Jump Shot,18,141,125,True
+Montrezl Harrell,3,4,23,0,Jump Shot,6,-11,66,True
+Montrezl Harrell,2,10,25,1,Jump Shot,4,-5,47,True
+Montrezl Harrell,2,6,40,0,Jump Shot,18,19,180,True
+Montrezl Harrell,4,10,28,0,Jump Shot,15,130,83,True
+Montrezl Harrell,2,6,6,1,Jump Shot,7,6,79,True
+Montrezl Harrell,1,2,27,0,Jump Shot,9,62,72,True
+Montrezl Harrell,1,0,2,0,Jump Shot,25,-217,125,False
+Montrezl Harrell,4,4,44,0,Jump Shot,11,97,68,True
+Montrezl Harrell,4,9,52,1,Jump Shot,6,-52,37,True
+Montrezl Harrell,4,6,48,0,Jump Shot,13,-101,94,True
+Montrezl Harrell,3,2,8,0,Jump Shot,17,66,159,True
+Montrezl Harrell,2,10,30,0,Jump Shot,17,88,151,True
+Montrezl Harrell,2,3,35,0,Jump Shot,2,-14,17,True
+Montrezl Harrell,2,4,19,1,Jump Shot,18,23,187,True
+Montrezl Harrell,4,1,47,0,Jump Shot,12,120,34,True
+Montrezl Harrell,3,1,49,0,Jump Shot,15,154,9,True
+Montrezl Harrell,2,0,0,0,Jump Shot,25,-210,143,False
+Montrezl Harrell,1,5,18,0,Jump Shot,16,31,167,True
+Montrezl Harrell,4,9,55,0,Jump Shot,14,-36,136,True
+Montrezl Harrell,2,9,44,1,Jump Shot,7,3,77,True
+Montrezl Harrell,4,7,35,0,Jump Shot,9,84,44,True
+Montrezl Harrell,2,6,51,0,Jump Shot,5,0,51,True
+Montrezl Harrell,3,1,28,1,Layup Shot,1,8,8,True
+Montrezl Harrell,4,0,29,0,Layup Shot,1,12,3,True
+Montrezl Harrell,1,2,4,1,Layup Shot,2,1,29,True
+Montrezl Harrell,2,9,0,0,Layup Shot,1,13,6,True
+Montrezl Harrell,2,10,18,1,Layup Shot,2,16,17,True
+Montrezl Harrell,1,0,12,0,Layup Shot,1,4,11,True
+Montrezl Harrell,1,5,54,1,Layup Shot,2,-16,15,True
+Montrezl Harrell,1,0,20,1,Layup Shot,5,46,26,True
+Montrezl Harrell,2,9,0,0,Layup Shot,4,-41,27,True
+Montrezl Harrell,3,3,22,1,Layup Shot,1,1,16,True
+Montrezl Harrell,2,10,47,1,Layup Shot,1,-11,4,True
+Montrezl Harrell,2,0,20,1,Layup Shot,0,2,1,True
+Montrezl Harrell,4,5,16,0,Layup Shot,4,-33,25,True
+Montrezl Harrell,3,1,2,1,Layup Shot,1,14,6,True
+Montrezl Harrell,2,6,40,0,Layup Shot,1,2,11,True
+Montrezl Harrell,4,11,9,0,Layup Shot,2,-8,21,True
+Montrezl Harrell,3,3,8,1,Layup Shot,2,-9,25,True
+Montrezl Harrell,1,1,14,0,Layup Shot,2,-2,26,True
+Montrezl Harrell,4,5,59,0,Layup Shot,3,-35,8,True
+Montrezl Harrell,3,3,26,0,Layup Shot,3,31,8,True
+Montrezl Harrell,2,7,22,0,Layup Shot,6,60,26,True
+Montrezl Harrell,4,6,38,0,Layup Shot,0,6,5,True
+Montrezl Harrell,4,9,46,0,Layup Shot,2,3,25,True
+Montrezl Harrell,4,0,59,0,Layup Shot,1,10,0,True
+Montrezl Harrell,2,10,30,0,Layup Shot,1,5,11,True
+Montrezl Harrell,3,0,37,0,Layup Shot,1,-18,0,True
+Montrezl Harrell,3,1,48,1,Layup Shot,1,-11,11,True
+Montrezl Harrell,3,6,9,1,Layup Shot,1,2,12,True
+Montrezl Harrell,2,7,41,0,Layup Shot,4,-35,32,True
+Montrezl Harrell,4,11,6,0,Layup Shot,1,-10,8,True
+Montrezl Harrell,4,6,55,0,Layup Shot,0,0,5,True
+Montrezl Harrell,3,2,29,0,Layup Shot,2,1,20,True
+Montrezl Harrell,4,5,29,1,Layup Shot,2,-19,12,True
+Montrezl Harrell,4,11,43,0,Layup Shot,1,-5,11,True
+Montrezl Harrell,1,0,55,1,Layup Shot,1,11,-3,True
+Montrezl Harrell,1,0,21,0,Layup Shot,3,10,31,True
+Montrezl Harrell,2,7,7,1,Layup Shot,1,3,12,True
+Montrezl Harrell,2,9,1,1,Layup Shot,1,-1,13,True
+Montrezl Harrell,4,8,17,0,Layup Shot,4,-5,41,True
+Montrezl Harrell,1,2,36,1,Layup Shot,3,23,21,True
+Montrezl Harrell,4,10,49,0,Layup Shot,1,10,6,True
+Montrezl Harrell,4,8,11,0,Layup Shot,4,34,24,True
+Montrezl Harrell,2,11,27,1,Layup Shot,2,2,21,True
+Montrezl Harrell,3,2,50,0,Layup Shot,2,12,27,True
+Montrezl Harrell,3,2,19,1,Layup Shot,4,33,36,True
+Montrezl Harrell,2,11,46,0,Layup Shot,2,19,10,True
+Montrezl Harrell,3,2,49,0,Layup Shot,2,-1,25,True
+Montrezl Harrell,1,1,23,0,Layup Shot,1,-9,6,True
+Montrezl Harrell,1,1,57,1,Layup Shot,0,5,6,True
+Montrezl Harrell,2,9,3,0,Layup Shot,7,-7,71,True
+Montrezl Harrell,2,8,9,0,Layup Shot,3,-2,32,True
+Montrezl Harrell,2,11,10,0,Layup Shot,3,0,34,True
+Montrezl Harrell,2,11,36,1,Layup Shot,1,-11,14,True
+Montrezl Harrell,1,4,16,0,Layup Shot,10,100,21,True
+Montrezl Harrell,4,9,12,0,Layup Shot,1,-15,5,True
+Montrezl Harrell,2,9,7,1,Layup Shot,1,3,11,True
+Montrezl Harrell,4,11,47,0,Layup Shot,1,-12,13,True
+Montrezl Harrell,4,7,37,1,Layup Shot,1,-1,10,True
+Montrezl Harrell,2,9,42,1,Layup Shot,3,-35,1,True
+Montrezl Harrell,4,7,1,1,Layup Shot,1,-3,10,True
+Montrezl Harrell,2,7,19,0,Layup Shot,2,-20,14,True
+Montrezl Harrell,4,8,3,1,Layup Shot,2,14,20,True
+Montrezl Harrell,3,3,32,1,Layup Shot,1,-3,10,True
+Montrezl Harrell,3,0,33,0,Layup Shot,2,10,22,True
+Montrezl Harrell,2,9,14,0,Layup Shot,1,14,14,True
+Montrezl Harrell,2,6,55,0,Layup Shot,1,13,11,True
+Montrezl Harrell,3,2,4,0,Layup Shot,2,-16,17,True
+Montrezl Harrell,3,0,0,1,Layup Shot,3,11,34,True
+Montrezl Harrell,2,7,36,1,Layup Shot,8,-6,83,True
+Montrezl Harrell,2,6,56,1,Layup Shot,0,9,1,True
+Montrezl Harrell,1,1,37,1,Layup Shot,1,3,14,True
+Montrezl Harrell,2,10,32,1,Layup Shot,2,16,14,True
+Montrezl Harrell,1,0,48,1,Layup Shot,1,3,17,True
+Montrezl Harrell,2,6,22,1,Layup Shot,2,24,14,True
+Montrezl Harrell,1,2,6,0,Layup Shot,1,3,11,True
+Montrezl Harrell,2,8,22,0,Layup Shot,2,-6,24,True
+Montrezl Harrell,2,5,49,0,Layup Shot,1,12,15,True
+Montrezl Harrell,2,8,0,0,Layup Shot,1,2,14,True
+Montrezl Harrell,4,8,55,0,Layup Shot,3,-25,27,True
+Montrezl Harrell,4,10,17,1,Layup Shot,2,-1,28,True
+Montrezl Harrell,4,8,20,1,Layup Shot,1,-16,5,True
+Montrezl Harrell,4,0,43,1,Layup Shot,0,-6,7,True
+Montrezl Harrell,4,10,54,1,Layup Shot,3,18,24,True
+Montrezl Harrell,4,9,11,1,Layup Shot,1,-6,8,True
+Montrezl Harrell,1,0,0,0,Pullup Jump shot,21,71,204,True
+Montrezl Harrell,3,8,11,1,Pullup Jump shot,14,9,141,True
+Montrezl Harrell,4,6,49,1,Pullup Jump shot,3,20,26,True
+Montrezl Harrell,1,0,0,0,Pullup Jump shot,24,-119,215,False
+Montrezl Harrell,4,9,17,0,Pullup Jump shot,6,-11,59,True
+Montrezl Harrell,2,7,25,1,Putback Dunk Shot,0,2,3,True
+Montrezl Harrell,4,10,35,0,Putback Dunk Shot,0,0,-6,True
+Montrezl Harrell,4,10,49,1,Putback Dunk Shot,0,0,-6,True
+Montrezl Harrell,1,1,2,1,Putback Dunk Shot,0,0,-6,True
+Montrezl Harrell,4,2,28,1,Putback Dunk Shot,0,0,-6,True
+Montrezl Harrell,2,0,16,1,Putback Dunk Shot,0,-8,3,True
+Montrezl Harrell,2,10,21,1,Putback Dunk Shot,1,1,14,True
+Montrezl Harrell,3,1,0,1,Putback Dunk Shot,0,0,-6,True
+Montrezl Harrell,2,9,3,1,Putback Dunk Shot,1,-11,15,True
+Montrezl Harrell,4,11,39,1,Putback Dunk Shot,0,0,-6,True
+Montrezl Harrell,2,7,17,1,Putback Layup Shot,0,0,-6,True
+Montrezl Harrell,2,7,57,0,Putback Layup Shot,0,1,9,True
+Montrezl Harrell,4,4,13,0,Putback Layup Shot,1,3,10,True
+Montrezl Harrell,4,7,49,1,Putback Layup Shot,1,-2,17,True
+Montrezl Harrell,1,0,29,1,Putback Layup Shot,0,0,-6,True
+Montrezl Harrell,2,9,4,1,Putback Layup Shot,0,0,-6,True
+Montrezl Harrell,4,10,59,0,Putback Layup Shot,2,2,23,True
+Montrezl Harrell,4,4,31,0,Putback Layup Shot,1,9,5,True
+Montrezl Harrell,4,1,55,1,Putback Layup Shot,0,4,7,True
+Montrezl Harrell,4,10,37,1,Putback Layup Shot,0,0,-6,True
+Montrezl Harrell,1,8,42,1,Reverse Layup Shot,0,-8,3,True
+Montrezl Harrell,2,10,42,1,Reverse Layup Shot,1,9,17,True
+Montrezl Harrell,2,6,48,0,Reverse Layup Shot,0,5,0,True
+Montrezl Harrell,2,10,24,1,Reverse Layup Shot,1,-1,13,True
+Montrezl Harrell,2,3,4,1,Reverse Layup Shot,1,8,10,True
+Montrezl Harrell,2,8,56,0,Reverse Layup Shot,1,-6,15,True
+Montrezl Harrell,3,2,56,1,Reverse Layup Shot,1,11,5,True
+Montrezl Harrell,2,1,52,0,Running Alley Oop Dunk Shot,1,12,15,True
+Montrezl Harrell,2,8,23,1,Running Alley Oop Layup Shot,1,5,14,True
+Montrezl Harrell,1,4,3,1,Running Alley Oop Layup Shot,1,-15,5,True
+Montrezl Harrell,2,7,25,0,Running Alley Oop Layup Shot,1,-14,4,True
+Montrezl Harrell,4,10,37,1,Running Dunk Shot,0,-1,-1,True
+Montrezl Harrell,2,8,11,1,Running Dunk Shot,1,0,15,True
+Montrezl Harrell,4,7,8,1,Running Dunk Shot,0,3,2,True
+Montrezl Harrell,3,0,26,0,Running Dunk Shot,2,0,26,True
+Montrezl Harrell,2,9,8,1,Running Dunk Shot,0,-8,5,True
+Montrezl Harrell,4,3,3,1,Running Dunk Shot,1,-3,17,True
+Montrezl Harrell,2,10,35,1,Running Dunk Shot,1,-14,3,True
+Montrezl Harrell,2,8,50,1,Running Dunk Shot,0,0,5,True
+Montrezl Harrell,3,1,4,1,Running Dunk Shot,0,0,4,True
+Montrezl Harrell,3,0,33,1,Running Dunk Shot,1,2,11,True
+Montrezl Harrell,3,1,15,1,Running Dunk Shot,1,-12,6,True
+Montrezl Harrell,4,4,50,1,Running Dunk Shot,1,5,12,True
+Montrezl Harrell,3,1,22,1,Running Finger Roll Layup Shot,1,-4,11,True
+Montrezl Harrell,4,8,18,1,Running Finger Roll Layup Shot,1,0,13,True
+Montrezl Harrell,4,8,2,1,Running Finger Roll Layup Shot,2,11,21,True
+Montrezl Harrell,3,0,35,0,Running Jump Shot,2,25,13,True
+Montrezl Harrell,1,0,0,0,Running Jump Shot,40,-132,382,False
+Montrezl Harrell,3,0,1,0,Running Jump Shot,51,0,519,False
+Montrezl Harrell,4,8,17,1,Running Layup Shot,2,21,6,True
+Montrezl Harrell,2,6,44,1,Running Layup Shot,2,20,15,True
+Montrezl Harrell,4,9,31,1,Running Layup Shot,2,16,16,True
+Montrezl Harrell,2,8,42,1,Running Layup Shot,1,14,11,True
+Montrezl Harrell,4,8,43,1,Running Layup Shot,1,6,8,True
+Montrezl Harrell,1,0,1,1,Running Layup Shot,1,-16,8,True
+Montrezl Harrell,2,10,14,0,Running Layup Shot,0,0,0,True
+Montrezl Harrell,4,6,38,1,Running Layup Shot,1,10,6,True
+Montrezl Harrell,1,1,19,1,Running Layup Shot,1,9,16,True
+Montrezl Harrell,2,10,9,1,Running Layup Shot,1,10,2,True
+Montrezl Harrell,4,10,7,1,Running Layup Shot,2,-20,18,True
+Montrezl Harrell,2,8,29,1,Running Layup Shot,1,16,9,True
+Montrezl Harrell,2,10,58,0,Running Layup Shot,1,-5,12,True
+Montrezl Harrell,4,11,13,1,Running Layup Shot,1,5,10,True
+Montrezl Harrell,2,7,54,1,Running Layup Shot,3,28,15,True
+Montrezl Harrell,2,10,30,1,Running Layup Shot,2,16,13,True
+Montrezl Harrell,4,7,57,1,Running Layup Shot,1,-14,6,True
+Montrezl Harrell,3,3,34,1,Running Layup Shot,1,-9,7,True
+Montrezl Harrell,4,7,16,0,Running Layup Shot,2,0,21,True
+Montrezl Harrell,2,6,56,0,Running Layup Shot,1,14,6,True
+Montrezl Harrell,2,9,10,1,Running Layup Shot,2,11,21,True
+Montrezl Harrell,4,4,5,1,Running Layup Shot,1,-16,11,True
+Montrezl Harrell,3,2,30,0,Running Layup Shot,2,13,18,True
+Montrezl Harrell,1,0,0,1,Running Pull-Up Jump Shot,28,-107,264,False
+Montrezl Harrell,2,7,46,1,Step Back Jump shot,10,-87,57,True
+Montrezl Harrell,2,11,37,0,Tip Dunk Shot,0,0,-6,True
+Montrezl Harrell,2,5,59,1,Tip Dunk Shot,0,0,-6,True
+Montrezl Harrell,4,2,17,1,Tip Dunk Shot,0,0,-6,True
+Montrezl Harrell,1,0,2,0,Tip Dunk Shot,1,-8,12,True
+Montrezl Harrell,1,0,2,1,Tip Dunk Shot,0,0,-6,True
+Montrezl Harrell,3,0,9,1,Tip Dunk Shot,0,0,-6,True
+Montrezl Harrell,3,3,19,0,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,4,11,41,0,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,2,11,33,1,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,2,9,18,1,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,4,9,34,1,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,4,11,42,0,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,2,11,27,1,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,1,10,4,0,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,2,11,41,1,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,2,7,13,1,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,1,3,32,1,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,1,0,29,1,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,4,6,50,0,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,3,1,44,1,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,4,6,52,0,Tip Layup Shot,2,2,23,True
+Montrezl Harrell,3,5,30,0,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,2,10,31,0,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,2,7,28,0,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,4,10,59,0,Tip Layup Shot,0,0,-6,True
+Montrezl Harrell,1,2,1,0,Turnaround Bank Hook Shot,9,71,58,True
+Montrezl Harrell,1,0,23,1,Turnaround Bank Hook Shot,7,73,15,True
+Montrezl Harrell,2,7,0,1,Turnaround Bank Hook Shot,10,101,-6,True
+Montrezl Harrell,1,2,21,0,Turnaround Fadeaway shot,5,-9,52,True
+Montrezl Harrell,1,10,53,0,Turnaround Fadeaway shot,7,-64,42,True
+Montrezl Harrell,4,6,50,1,Turnaround Hook Shot,1,-6,16,True
+Montrezl Harrell,2,6,14,1,Turnaround Hook Shot,9,-33,90,True
+Montrezl Harrell,3,4,53,1,Turnaround Hook Shot,6,-50,47,True
+Montrezl Harrell,1,1,46,1,Turnaround Hook Shot,4,19,45,True
+Montrezl Harrell,1,0,29,0,Turnaround Hook Shot,9,81,52,True
+Montrezl Harrell,2,8,39,0,Turnaround Hook Shot,9,8,92,True
+Montrezl Harrell,4,10,50,0,Turnaround Hook Shot,1,-2,19,True
+Montrezl Harrell,4,11,18,0,Turnaround Hook Shot,16,-122,105,True
+Montrezl Harrell,3,3,0,0,Turnaround Hook Shot,3,31,18,True
+Montrezl Harrell,4,9,43,1,Turnaround Hook Shot,10,-57,86,True
+Montrezl Harrell,2,8,37,0,Turnaround Hook Shot,9,94,5,True

@@ -1,0 +1,60 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jamil Wilson,3,1,26,1,Cutting Layup Shot,2,20,4,True
+Jamil Wilson,1,5,16,1,Cutting Layup Shot,2,6,24,True
+Jamil Wilson,2,9,39,1,Driving Dunk Shot,1,12,5,True
+Jamil Wilson,3,11,1,0,Driving Layup Shot,2,-19,15,True
+Jamil Wilson,2,1,41,0,Floating Jump shot,7,25,70,True
+Jamil Wilson,3,4,54,0,Jump Shot,26,-106,243,False
+Jamil Wilson,1,6,50,1,Jump Shot,25,-96,235,False
+Jamil Wilson,1,9,53,1,Jump Shot,27,-56,273,False
+Jamil Wilson,3,8,56,0,Jump Shot,26,-82,247,False
+Jamil Wilson,1,6,24,0,Jump Shot,26,-78,256,False
+Jamil Wilson,4,5,32,0,Jump Shot,25,2,257,False
+Jamil Wilson,3,2,44,1,Jump Shot,26,-154,217,False
+Jamil Wilson,1,5,37,0,Jump Shot,25,182,185,False
+Jamil Wilson,1,11,44,0,Jump Shot,25,-167,190,False
+Jamil Wilson,2,0,1,0,Jump Shot,25,176,178,False
+Jamil Wilson,3,5,57,1,Jump Shot,25,-120,220,False
+Jamil Wilson,3,10,10,1,Jump Shot,25,-15,251,False
+Jamil Wilson,2,2,33,1,Jump Shot,26,31,259,False
+Jamil Wilson,1,10,19,0,Jump Shot,25,98,230,False
+Jamil Wilson,1,8,48,0,Jump Shot,25,-137,217,False
+Jamil Wilson,3,10,46,1,Jump Shot,23,228,63,False
+Jamil Wilson,3,4,55,1,Jump Shot,25,-211,148,False
+Jamil Wilson,3,5,40,0,Jump Shot,22,-220,5,False
+Jamil Wilson,4,4,37,0,Jump Shot,13,-111,71,True
+Jamil Wilson,3,7,33,1,Jump Shot,22,-225,-6,False
+Jamil Wilson,4,0,9,0,Jump Shot,25,-155,208,False
+Jamil Wilson,2,5,0,1,Jump Shot,25,-131,223,False
+Jamil Wilson,3,11,50,1,Jump Shot,26,-76,253,False
+Jamil Wilson,3,6,47,0,Jump Shot,23,231,-2,False
+Jamil Wilson,3,11,50,0,Jump Shot,25,-149,212,False
+Jamil Wilson,1,9,17,0,Jump Shot,26,115,234,False
+Jamil Wilson,3,9,50,0,Jump Shot,24,241,33,False
+Jamil Wilson,2,5,38,0,Jump Shot,23,232,4,False
+Jamil Wilson,1,4,48,1,Jump Shot,25,127,219,False
+Jamil Wilson,1,9,24,0,Jump Shot,26,-69,251,False
+Jamil Wilson,1,10,6,1,Jump Shot,26,150,218,False
+Jamil Wilson,3,5,38,1,Jump Shot,26,123,231,False
+Jamil Wilson,3,10,7,0,Jump Shot,27,112,249,False
+Jamil Wilson,4,6,12,0,Jump Shot,25,93,236,False
+Jamil Wilson,3,6,40,1,Jump Shot,25,130,223,False
+Jamil Wilson,4,1,50,1,Jump Shot,24,-116,218,False
+Jamil Wilson,4,0,13,1,Jump Shot,25,3,256,False
+Jamil Wilson,4,2,48,0,Jump Shot,24,-155,193,False
+Jamil Wilson,1,2,3,0,Jump Shot,26,133,229,False
+Jamil Wilson,4,7,33,0,Jump Shot,25,173,188,False
+Jamil Wilson,4,1,16,1,Jump Shot,23,-183,155,False
+Jamil Wilson,1,10,59,1,Jump Shot,25,149,208,False
+Jamil Wilson,2,1,21,0,Jump Shot,22,228,1,False
+Jamil Wilson,4,1,44,0,Jump Shot,24,13,248,False
+Jamil Wilson,4,3,49,0,Jump Shot,25,-112,224,False
+Jamil Wilson,2,7,31,1,Jump Shot,25,-134,220,False
+Jamil Wilson,1,9,22,0,Jump Shot,25,151,205,False
+Jamil Wilson,3,4,12,1,Jump Shot,26,-182,197,False
+Jamil Wilson,1,11,18,1,Layup Shot,1,-1,18,True
+Jamil Wilson,4,10,58,0,Pullup Jump shot,15,43,151,True
+Jamil Wilson,3,0,56,1,Pullup Jump shot,18,166,74,True
+Jamil Wilson,3,10,47,1,Pullup Jump shot,24,-139,199,False
+Jamil Wilson,1,9,49,1,Running Dunk Shot,0,-9,4,True
+Jamil Wilson,3,4,8,1,Running Pull-Up Jump Shot,24,-185,168,False

@@ -1,0 +1,180 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Semi Ojeleye,2,8,34,0,Cutting Dunk Shot,1,3,18,True
+Semi Ojeleye,2,9,15,1,Cutting Dunk Shot,1,-5,13,True
+Semi Ojeleye,4,1,57,1,Cutting Dunk Shot,1,-3,15,True
+Semi Ojeleye,3,0,44,1,Cutting Layup Shot,3,21,23,True
+Semi Ojeleye,4,6,41,0,Cutting Layup Shot,3,-26,16,True
+Semi Ojeleye,4,5,4,1,Cutting Layup Shot,0,-1,-4,True
+Semi Ojeleye,2,7,42,1,Cutting Layup Shot,5,-33,41,True
+Semi Ojeleye,2,6,50,0,Driving Dunk Shot,2,27,4,True
+Semi Ojeleye,1,0,26,0,Driving Dunk Shot,1,-8,16,True
+Semi Ojeleye,2,0,5,1,Driving Finger Roll Layup Shot,1,0,16,True
+Semi Ojeleye,2,3,37,1,Driving Finger Roll Layup Shot,4,41,13,True
+Semi Ojeleye,2,9,23,1,Driving Floating Bank Jump Shot,12,121,35,True
+Semi Ojeleye,2,8,12,1,Driving Floating Jump Shot,1,8,14,True
+Semi Ojeleye,4,1,40,0,Driving Floating Jump Shot,6,37,59,True
+Semi Ojeleye,4,11,38,1,Driving Floating Jump Shot,1,8,17,True
+Semi Ojeleye,4,1,8,1,Driving Hook Shot,4,15,43,True
+Semi Ojeleye,4,10,49,0,Driving Layup Shot,2,-14,17,True
+Semi Ojeleye,4,11,30,0,Driving Layup Shot,2,-24,14,True
+Semi Ojeleye,2,8,42,0,Driving Layup Shot,3,30,22,True
+Semi Ojeleye,2,6,34,0,Driving Layup Shot,3,-24,27,True
+Semi Ojeleye,3,5,49,0,Driving Layup Shot,2,-19,8,True
+Semi Ojeleye,2,6,9,1,Driving Layup Shot,4,9,42,True
+Semi Ojeleye,4,0,17,0,Driving Layup Shot,3,17,35,True
+Semi Ojeleye,2,10,41,0,Driving Layup Shot,5,52,14,True
+Semi Ojeleye,2,6,4,0,Driving Reverse Layup Shot,0,5,6,True
+Semi Ojeleye,2,11,22,1,Driving Reverse Layup Shot,1,-8,16,True
+Semi Ojeleye,4,8,4,0,Driving Reverse Layup Shot,1,1,14,True
+Semi Ojeleye,2,10,25,0,Driving Reverse Layup Shot,1,-8,7,True
+Semi Ojeleye,4,3,45,0,Fadeaway Jump Shot,16,147,75,True
+Semi Ojeleye,2,3,41,0,Floating Jump shot,8,-87,16,True
+Semi Ojeleye,4,2,28,0,Jump Bank Shot,27,128,247,False
+Semi Ojeleye,1,6,48,0,Jump Shot,22,224,5,False
+Semi Ojeleye,4,4,42,0,Jump Shot,25,-203,152,False
+Semi Ojeleye,3,2,31,1,Jump Shot,27,-116,247,False
+Semi Ojeleye,4,4,18,1,Jump Shot,23,233,-10,False
+Semi Ojeleye,4,11,12,1,Jump Shot,24,-110,218,False
+Semi Ojeleye,4,6,29,1,Jump Shot,25,86,236,False
+Semi Ojeleye,4,10,35,1,Jump Shot,2,21,2,True
+Semi Ojeleye,1,2,8,1,Jump Shot,22,-227,4,False
+Semi Ojeleye,2,8,41,0,Jump Shot,25,-199,165,False
+Semi Ojeleye,4,11,16,0,Jump Shot,25,-203,158,False
+Semi Ojeleye,3,1,21,0,Jump Shot,23,-230,11,False
+Semi Ojeleye,4,5,59,0,Jump Shot,23,234,-13,False
+Semi Ojeleye,4,9,13,0,Jump Shot,24,-232,72,False
+Semi Ojeleye,2,5,6,1,Jump Shot,25,221,117,False
+Semi Ojeleye,4,9,55,0,Jump Shot,27,111,253,False
+Semi Ojeleye,1,2,0,0,Jump Shot,24,-71,239,False
+Semi Ojeleye,4,8,1,1,Jump Shot,23,230,57,False
+Semi Ojeleye,2,3,3,0,Jump Shot,22,226,11,False
+Semi Ojeleye,2,3,3,0,Jump Shot,24,149,199,False
+Semi Ojeleye,3,2,34,1,Jump Shot,23,237,16,False
+Semi Ojeleye,1,1,12,1,Jump Shot,24,-44,243,False
+Semi Ojeleye,4,1,25,1,Jump Shot,24,233,75,False
+Semi Ojeleye,2,1,25,0,Jump Shot,24,-75,235,False
+Semi Ojeleye,4,7,45,0,Jump Shot,10,100,14,True
+Semi Ojeleye,2,5,9,0,Jump Shot,22,225,-6,False
+Semi Ojeleye,2,5,3,0,Jump Shot,23,230,7,False
+Semi Ojeleye,3,2,59,0,Jump Shot,16,157,57,True
+Semi Ojeleye,2,9,45,0,Jump Shot,24,-158,184,False
+Semi Ojeleye,4,3,35,0,Jump Shot,25,139,217,False
+Semi Ojeleye,4,3,8,0,Jump Shot,21,87,196,True
+Semi Ojeleye,4,1,36,0,Jump Shot,23,-227,72,False
+Semi Ojeleye,4,11,21,0,Jump Shot,25,-172,189,False
+Semi Ojeleye,4,10,40,0,Jump Shot,26,214,155,False
+Semi Ojeleye,1,3,56,0,Jump Shot,24,-236,44,False
+Semi Ojeleye,3,2,4,0,Jump Shot,25,-91,243,False
+Semi Ojeleye,2,10,44,0,Jump Shot,24,237,63,False
+Semi Ojeleye,1,2,27,0,Jump Shot,24,234,57,False
+Semi Ojeleye,2,3,24,0,Jump Shot,24,239,62,False
+Semi Ojeleye,1,6,11,0,Jump Shot,26,-53,261,False
+Semi Ojeleye,4,9,6,1,Jump Shot,25,-6,253,False
+Semi Ojeleye,1,1,25,0,Jump Shot,25,-87,240,False
+Semi Ojeleye,4,10,52,1,Jump Shot,23,-225,55,False
+Semi Ojeleye,3,6,20,1,Jump Shot,24,-232,62,False
+Semi Ojeleye,4,5,56,1,Jump Shot,23,232,4,False
+Semi Ojeleye,4,7,8,0,Jump Shot,22,-227,11,False
+Semi Ojeleye,2,3,24,1,Jump Shot,26,-147,217,False
+Semi Ojeleye,4,4,28,1,Jump Shot,26,-138,231,False
+Semi Ojeleye,2,7,48,1,Jump Shot,24,155,196,False
+Semi Ojeleye,2,9,57,0,Jump Shot,23,230,4,False
+Semi Ojeleye,4,9,14,0,Jump Shot,22,-221,-2,False
+Semi Ojeleye,3,1,27,0,Jump Shot,23,-239,7,False
+Semi Ojeleye,1,5,4,0,Jump Shot,27,112,256,False
+Semi Ojeleye,4,5,37,1,Jump Shot,23,230,10,False
+Semi Ojeleye,1,3,4,0,Jump Shot,28,123,255,False
+Semi Ojeleye,2,10,11,0,Jump Shot,26,-176,193,False
+Semi Ojeleye,4,8,49,0,Jump Shot,27,157,220,False
+Semi Ojeleye,2,5,27,0,Jump Shot,25,-14,251,False
+Semi Ojeleye,3,4,28,1,Jump Shot,24,-143,201,False
+Semi Ojeleye,3,6,51,0,Jump Shot,27,210,178,False
+Semi Ojeleye,2,5,59,0,Jump Shot,18,141,115,True
+Semi Ojeleye,1,4,16,1,Jump Shot,27,90,255,False
+Semi Ojeleye,4,3,20,0,Jump Shot,16,-164,-13,True
+Semi Ojeleye,4,6,14,0,Jump Shot,22,226,5,False
+Semi Ojeleye,4,7,42,0,Jump Shot,25,161,201,False
+Semi Ojeleye,4,3,47,1,Jump Shot,19,145,126,True
+Semi Ojeleye,2,7,14,1,Jump Shot,22,225,27,False
+Semi Ojeleye,4,10,56,1,Jump Shot,23,-230,35,False
+Semi Ojeleye,4,9,4,0,Jump Shot,24,240,52,False
+Semi Ojeleye,2,7,50,1,Jump Shot,22,221,-3,False
+Semi Ojeleye,2,10,10,0,Jump Shot,22,-223,18,False
+Semi Ojeleye,4,10,13,1,Jump Shot,22,-227,-4,False
+Semi Ojeleye,2,2,4,0,Jump Shot,25,154,209,False
+Semi Ojeleye,2,5,55,0,Jump Shot,5,22,50,True
+Semi Ojeleye,4,10,19,1,Jump Shot,25,160,200,False
+Semi Ojeleye,4,11,18,1,Jump Shot,3,-5,36,True
+Semi Ojeleye,3,2,55,1,Jump Shot,24,173,179,False
+Semi Ojeleye,2,10,27,0,Jump Shot,25,165,198,False
+Semi Ojeleye,1,1,3,0,Jump Shot,26,-152,211,False
+Semi Ojeleye,3,4,18,0,Jump Shot,26,-93,251,False
+Semi Ojeleye,2,11,3,0,Jump Shot,24,176,176,False
+Semi Ojeleye,2,11,7,0,Jump Shot,23,-230,50,False
+Semi Ojeleye,3,5,15,0,Jump Shot,23,231,20,False
+Semi Ojeleye,3,4,38,0,Jump Shot,26,187,192,False
+Semi Ojeleye,3,3,34,0,Jump Shot,23,236,24,False
+Semi Ojeleye,2,8,40,0,Jump Shot,27,14,275,False
+Semi Ojeleye,1,2,33,1,Jump Shot,23,231,7,False
+Semi Ojeleye,2,9,16,1,Jump Shot,24,-242,7,False
+Semi Ojeleye,3,2,19,0,Jump Shot,11,-116,-10,True
+Semi Ojeleye,2,6,54,1,Jump Shot,25,-143,207,False
+Semi Ojeleye,1,2,19,0,Jump Shot,24,196,149,False
+Semi Ojeleye,4,3,36,0,Jump Shot,27,131,237,False
+Semi Ojeleye,3,5,39,0,Jump Shot,22,-228,-18,False
+Semi Ojeleye,1,3,12,0,Jump Shot,22,-228,0,False
+Semi Ojeleye,2,11,8,0,Jump Shot,22,225,13,False
+Semi Ojeleye,1,2,41,1,Jump Shot,25,141,217,False
+Semi Ojeleye,4,7,11,0,Jump Shot,25,-185,172,False
+Semi Ojeleye,4,8,7,0,Jump Shot,22,-228,-6,False
+Semi Ojeleye,2,6,40,0,Jump Shot,24,220,111,False
+Semi Ojeleye,2,6,22,0,Jump Shot,24,-198,149,False
+Semi Ojeleye,2,4,14,0,Jump Shot,24,113,218,False
+Semi Ojeleye,3,1,6,0,Jump Shot,25,149,208,False
+Semi Ojeleye,3,2,4,0,Jump Shot,22,-226,22,False
+Semi Ojeleye,4,6,55,1,Jump Shot,24,145,202,False
+Semi Ojeleye,2,6,51,0,Jump Shot,23,-230,-5,False
+Semi Ojeleye,3,0,30,1,Jump Shot,22,228,28,False
+Semi Ojeleye,1,1,30,0,Jump Shot,18,-182,28,True
+Semi Ojeleye,2,11,45,1,Jump Shot,23,-232,8,False
+Semi Ojeleye,2,7,38,1,Jump Shot,23,225,54,False
+Semi Ojeleye,2,2,44,0,Jump Shot,28,97,268,False
+Semi Ojeleye,4,10,32,1,Jump Shot,27,174,210,False
+Semi Ojeleye,2,3,38,0,Jump Shot,23,233,38,False
+Semi Ojeleye,1,1,25,0,Jump Shot,22,226,-4,False
+Semi Ojeleye,2,10,43,0,Jump Shot,24,-191,153,False
+Semi Ojeleye,4,9,58,0,Jump Shot,25,-192,174,False
+Semi Ojeleye,4,8,45,0,Jump Shot,23,235,37,False
+Semi Ojeleye,2,8,47,0,Jump Shot,25,-157,204,False
+Semi Ojeleye,2,8,21,1,Jump Shot,23,230,57,False
+Semi Ojeleye,2,8,54,0,Jump Shot,22,-222,6,False
+Semi Ojeleye,4,9,37,0,Jump Shot,23,231,29,False
+Semi Ojeleye,2,5,37,0,Jump Shot,24,194,154,False
+Semi Ojeleye,4,9,40,0,Jump Shot,26,-108,246,False
+Semi Ojeleye,2,10,48,0,Jump Shot,23,-232,-11,False
+Semi Ojeleye,3,0,44,0,Jump Shot,28,150,239,False
+Semi Ojeleye,1,0,29,0,Jump Shot,24,-240,37,False
+Semi Ojeleye,1,2,37,0,Jump Shot,26,-138,221,False
+Semi Ojeleye,4,10,12,0,Jump Shot,22,-222,10,False
+Semi Ojeleye,4,6,17,0,Layup Shot,6,60,16,True
+Semi Ojeleye,4,11,7,1,Layup Shot,1,9,14,True
+Semi Ojeleye,4,9,45,0,Layup Shot,4,-35,21,True
+Semi Ojeleye,4,6,12,0,Layup Shot,2,-18,10,True
+Semi Ojeleye,2,8,28,0,Layup Shot,1,14,8,True
+Semi Ojeleye,1,4,47,0,Layup Shot,3,-38,12,True
+Semi Ojeleye,3,3,36,1,Layup Shot,1,17,10,True
+Semi Ojeleye,2,3,6,1,Layup Shot,0,5,1,True
+Semi Ojeleye,3,2,27,0,Layup Shot,1,-4,17,True
+Semi Ojeleye,4,2,7,1,Pullup Jump shot,19,76,177,True
+Semi Ojeleye,3,1,24,1,Pullup Jump shot,14,-2,148,True
+Semi Ojeleye,2,9,16,0,Pullup Jump shot,26,85,256,False
+Semi Ojeleye,1,6,34,0,Pullup Jump shot,19,156,115,True
+Semi Ojeleye,2,2,39,0,Pullup Jump shot,23,232,-9,False
+Semi Ojeleye,2,6,23,1,Putback Layup Shot,1,11,6,True
+Semi Ojeleye,2,1,49,0,Reverse Layup Shot,1,10,6,True
+Semi Ojeleye,1,3,1,0,Running Layup Shot,2,6,25,True
+Semi Ojeleye,4,8,44,0,Step Back Jump shot,23,231,4,False
+Semi Ojeleye,4,9,41,1,Step Back Jump shot,23,225,58,False
+Semi Ojeleye,4,0,39,0,Tip Dunk Shot,0,0,-6,True
+Semi Ojeleye,2,11,35,0,Tip Dunk Shot,0,0,-6,True
+Semi Ojeleye,4,9,58,0,Turnaround Jump Shot,8,-78,29,True

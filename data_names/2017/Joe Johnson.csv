@@ -1,0 +1,323 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Joe Johnson,4,11,17,1,Driving Finger Roll Layup Shot,2,-8,20,True
+Joe Johnson,3,1,35,1,Driving Floating Bank Jump Shot,6,56,41,True
+Joe Johnson,3,9,33,0,Driving Floating Bank Jump Shot,5,-44,37,True
+Joe Johnson,4,4,15,1,Driving Floating Jump Shot,11,40,111,True
+Joe Johnson,2,0,49,1,Driving Floating Jump Shot,5,-2,54,True
+Joe Johnson,2,10,49,1,Driving Floating Jump Shot,7,-4,78,True
+Joe Johnson,3,3,30,0,Driving Floating Jump Shot,6,0,62,True
+Joe Johnson,4,9,1,1,Driving Floating Jump Shot,10,-57,84,True
+Joe Johnson,2,4,46,1,Driving Floating Jump Shot,9,-18,89,True
+Joe Johnson,1,6,2,0,Driving Floating Jump Shot,9,-23,96,True
+Joe Johnson,2,1,17,1,Driving Floating Jump Shot,7,51,48,True
+Joe Johnson,4,10,11,0,Driving Floating Jump Shot,9,-51,82,True
+Joe Johnson,4,0,36,0,Driving Floating Jump Shot,10,-52,91,True
+Joe Johnson,4,8,9,0,Driving Floating Jump Shot,8,-30,80,True
+Joe Johnson,4,3,53,1,Driving Hook Shot,10,62,85,True
+Joe Johnson,2,9,8,0,Driving Layup Shot,5,20,52,True
+Joe Johnson,4,11,39,0,Driving Layup Shot,2,-25,12,True
+Joe Johnson,4,1,28,0,Driving Layup Shot,1,-11,16,True
+Joe Johnson,2,9,26,0,Driving Layup Shot,3,-32,3,True
+Joe Johnson,2,2,57,0,Dunk Shot,8,14,86,True
+Joe Johnson,2,10,50,0,Fadeaway Jump Shot,12,105,64,True
+Joe Johnson,4,5,37,1,Fadeaway Jump Shot,15,-115,104,True
+Joe Johnson,2,7,34,0,Fadeaway Jump Shot,20,199,25,True
+Joe Johnson,3,1,19,1,Fadeaway Jump Shot,9,-67,64,True
+Joe Johnson,3,2,9,0,Fadeaway Jump Shot,14,96,113,True
+Joe Johnson,3,0,7,0,Fadeaway Jump Shot,23,70,220,True
+Joe Johnson,3,1,7,0,Fadeaway Jump Shot,10,-51,95,True
+Joe Johnson,2,0,25,1,Fadeaway Jump Shot,13,-6,137,True
+Joe Johnson,1,3,49,0,Fadeaway Jump Shot,13,-25,135,True
+Joe Johnson,2,6,27,0,Fadeaway Jump Shot,13,106,85,True
+Joe Johnson,4,1,37,1,Fadeaway Jump Shot,11,-63,92,True
+Joe Johnson,2,11,14,1,Fadeaway Jump Shot,13,133,17,True
+Joe Johnson,4,11,14,1,Fadeaway Jump Shot,21,-18,215,True
+Joe Johnson,1,3,1,0,Fadeaway Jump Shot,14,-81,123,True
+Joe Johnson,1,7,5,1,Fadeaway Jump Shot,8,4,88,True
+Joe Johnson,2,1,20,1,Fadeaway Jump Shot,8,-47,67,True
+Joe Johnson,3,0,49,0,Fadeaway Jump Shot,20,-200,24,True
+Joe Johnson,1,3,6,1,Finger Roll Layup Shot,0,-3,0,True
+Joe Johnson,3,3,8,1,Floating Jump shot,3,14,27,True
+Joe Johnson,1,2,26,0,Floating Jump shot,12,3,125,True
+Joe Johnson,2,0,54,1,Floating Jump shot,11,0,111,True
+Joe Johnson,1,0,40,0,Floating Jump shot,9,30,94,True
+Joe Johnson,4,5,3,1,Floating Jump shot,10,-18,103,True
+Joe Johnson,3,2,56,1,Floating Jump shot,12,37,121,True
+Joe Johnson,1,4,34,0,Floating Jump shot,9,-38,89,True
+Joe Johnson,4,10,15,1,Floating Jump shot,11,-93,75,True
+Joe Johnson,1,1,52,1,Floating Jump shot,6,-5,68,True
+Joe Johnson,1,6,48,1,Floating Jump shot,6,-36,52,True
+Joe Johnson,2,10,6,1,Floating Jump shot,3,-29,16,True
+Joe Johnson,2,7,7,0,Floating Jump shot,6,-36,53,True
+Joe Johnson,3,4,4,1,Floating Jump shot,10,-7,105,True
+Joe Johnson,1,0,22,1,Floating Jump shot,8,20,78,True
+Joe Johnson,3,0,0,0,Floating Jump shot,20,177,106,True
+Joe Johnson,2,11,4,0,Floating Jump shot,5,-6,53,True
+Joe Johnson,2,11,46,1,Floating Jump shot,7,26,70,True
+Joe Johnson,4,2,15,1,Floating Jump shot,6,-60,24,True
+Joe Johnson,3,5,3,1,Floating Jump shot,7,65,34,True
+Joe Johnson,3,2,49,0,Floating Jump shot,5,23,55,True
+Joe Johnson,3,3,0,0,Floating Jump shot,6,-26,61,True
+Joe Johnson,1,1,53,0,Floating Jump shot,4,-14,47,True
+Joe Johnson,4,10,12,1,Floating Jump shot,7,67,42,True
+Joe Johnson,3,0,41,0,Floating Jump shot,10,-35,104,True
+Joe Johnson,1,4,30,0,Floating Jump shot,7,-46,55,True
+Joe Johnson,3,3,43,0,Floating Jump shot,13,-12,132,True
+Joe Johnson,3,0,15,0,Floating Jump shot,10,13,101,True
+Joe Johnson,2,2,7,1,Floating Jump shot,6,16,59,True
+Joe Johnson,4,3,31,0,Hook Shot,10,46,92,True
+Joe Johnson,3,4,20,0,Hook Shot,6,3,62,True
+Joe Johnson,1,0,53,0,Hook Shot,6,2,69,True
+Joe Johnson,2,0,27,0,Hook Shot,5,6,57,True
+Joe Johnson,2,11,48,1,Hook Shot,7,-3,70,True
+Joe Johnson,4,8,28,0,Hook Shot,5,0,59,True
+Joe Johnson,4,11,39,0,Hook Shot,6,52,38,True
+Joe Johnson,1,2,48,0,Hook Shot,5,20,53,True
+Joe Johnson,4,11,44,0,Hook Shot,6,22,57,True
+Joe Johnson,2,11,18,1,Hook Shot,6,-16,64,True
+Joe Johnson,2,8,59,0,Hook Shot,7,24,72,True
+Joe Johnson,3,0,0,1,Jump Bank Shot,24,-154,192,False
+Joe Johnson,3,0,34,1,Jump Bank Shot,6,-47,41,True
+Joe Johnson,2,8,36,1,Jump Shot,24,232,67,False
+Joe Johnson,4,5,32,1,Jump Shot,22,-223,32,False
+Joe Johnson,2,11,41,0,Jump Shot,25,-159,202,False
+Joe Johnson,4,0,49,0,Jump Shot,23,239,-5,False
+Joe Johnson,2,2,7,0,Jump Shot,24,-221,104,False
+Joe Johnson,1,4,51,0,Jump Shot,23,228,31,False
+Joe Johnson,4,11,19,0,Jump Shot,25,196,157,False
+Joe Johnson,2,11,37,0,Jump Shot,32,-160,286,False
+Joe Johnson,2,9,52,0,Jump Shot,18,60,175,True
+Joe Johnson,2,10,28,0,Jump Shot,12,-32,118,True
+Joe Johnson,1,8,41,1,Jump Shot,4,13,42,True
+Joe Johnson,1,9,56,0,Jump Shot,17,97,141,True
+Joe Johnson,2,5,3,0,Jump Shot,2,-9,23,True
+Joe Johnson,3,1,49,1,Jump Shot,28,28,288,False
+Joe Johnson,3,0,2,1,Jump Shot,26,-141,226,False
+Joe Johnson,1,4,24,0,Jump Shot,24,214,113,False
+Joe Johnson,3,1,35,0,Jump Shot,25,102,237,False
+Joe Johnson,3,0,9,0,Jump Shot,26,20,268,False
+Joe Johnson,2,7,39,0,Jump Shot,26,-177,201,False
+Joe Johnson,3,1,3,0,Jump Shot,22,225,15,False
+Joe Johnson,4,7,55,0,Jump Shot,25,36,250,False
+Joe Johnson,3,1,33,1,Jump Shot,22,225,8,False
+Joe Johnson,2,10,26,0,Jump Shot,25,-195,164,False
+Joe Johnson,3,1,33,1,Jump Shot,25,-84,239,False
+Joe Johnson,4,9,8,0,Jump Shot,23,233,-5,False
+Joe Johnson,4,9,51,0,Jump Shot,26,116,237,False
+Joe Johnson,2,8,22,0,Jump Shot,23,-234,26,False
+Joe Johnson,2,7,33,0,Jump Shot,7,28,69,True
+Joe Johnson,4,2,47,1,Jump Shot,11,108,28,True
+Joe Johnson,4,1,17,0,Jump Shot,25,171,185,False
+Joe Johnson,4,5,59,0,Jump Shot,25,239,83,False
+Joe Johnson,3,0,0,0,Jump Shot,24,230,75,False
+Joe Johnson,3,1,41,1,Jump Shot,22,226,9,False
+Joe Johnson,3,3,54,0,Jump Shot,27,-173,211,False
+Joe Johnson,5,1,55,0,Jump Shot,22,-226,11,False
+Joe Johnson,1,1,45,1,Jump Shot,25,-154,206,False
+Joe Johnson,3,1,2,0,Jump Shot,25,-158,202,False
+Joe Johnson,3,2,7,0,Jump Shot,17,-39,169,True
+Joe Johnson,2,10,4,0,Jump Shot,25,-174,187,False
+Joe Johnson,4,3,51,0,Jump Shot,23,-234,32,False
+Joe Johnson,4,7,9,0,Jump Shot,23,-233,32,False
+Joe Johnson,1,2,1,1,Jump Shot,26,25,260,False
+Joe Johnson,3,4,53,0,Jump Shot,23,-231,18,False
+Joe Johnson,4,0,58,0,Jump Shot,26,-172,195,False
+Joe Johnson,4,1,52,0,Jump Shot,23,222,85,False
+Joe Johnson,2,10,1,0,Jump Shot,22,-222,-1,False
+Joe Johnson,1,3,12,1,Jump Shot,24,-30,239,False
+Joe Johnson,4,7,10,1,Jump Shot,23,230,67,False
+Joe Johnson,1,1,7,0,Jump Shot,23,-235,10,False
+Joe Johnson,3,1,13,1,Jump Shot,22,-228,25,False
+Joe Johnson,3,0,12,0,Jump Shot,13,22,129,True
+Joe Johnson,2,8,0,0,Jump Shot,2,22,6,True
+Joe Johnson,2,6,30,0,Jump Shot,26,-152,214,False
+Joe Johnson,4,11,31,1,Jump Shot,23,232,34,False
+Joe Johnson,4,6,49,0,Jump Shot,25,-163,197,False
+Joe Johnson,3,3,52,0,Jump Shot,16,-47,162,True
+Joe Johnson,2,11,15,0,Jump Shot,23,230,16,False
+Joe Johnson,4,4,8,0,Jump Shot,23,-227,40,False
+Joe Johnson,3,1,53,1,Jump Shot,25,135,215,False
+Joe Johnson,2,0,25,0,Jump Shot,26,81,255,False
+Joe Johnson,2,8,48,0,Jump Shot,27,114,245,False
+Joe Johnson,3,1,18,0,Jump Shot,24,220,115,False
+Joe Johnson,3,7,32,1,Jump Shot,23,-232,-7,False
+Joe Johnson,1,2,11,0,Jump Shot,25,102,233,False
+Joe Johnson,3,7,12,0,Jump Shot,17,-69,156,True
+Joe Johnson,4,8,2,1,Jump Shot,25,231,98,False
+Joe Johnson,3,6,5,0,Jump Shot,23,-222,71,False
+Joe Johnson,3,2,22,0,Jump Shot,23,-233,52,False
+Joe Johnson,4,8,53,1,Jump Shot,15,154,9,True
+Joe Johnson,4,7,57,1,Jump Shot,29,-163,240,False
+Joe Johnson,4,4,18,0,Jump Shot,25,-130,222,False
+Joe Johnson,2,0,47,1,Jump Shot,25,-5,254,False
+Joe Johnson,2,3,28,0,Jump Shot,28,-181,215,False
+Joe Johnson,4,9,27,0,Jump Shot,25,-63,251,False
+Joe Johnson,4,2,24,1,Jump Shot,20,-160,130,True
+Joe Johnson,5,0,53,0,Jump Shot,24,242,24,False
+Joe Johnson,2,8,55,1,Jump Shot,25,-231,108,False
+Joe Johnson,4,1,55,0,Jump Shot,26,218,158,False
+Joe Johnson,1,2,39,0,Jump Shot,27,-171,214,False
+Joe Johnson,3,0,0,0,Jump Shot,22,-225,21,False
+Joe Johnson,4,10,1,0,Jump Shot,24,73,239,False
+Joe Johnson,4,0,19,0,Jump Shot,22,-222,-1,False
+Joe Johnson,4,10,18,0,Jump Shot,22,154,169,True
+Joe Johnson,4,4,47,0,Jump Shot,23,230,68,False
+Joe Johnson,3,1,35,0,Jump Shot,15,105,118,True
+Joe Johnson,3,2,12,0,Jump Shot,6,9,68,True
+Joe Johnson,3,0,23,0,Jump Shot,25,-141,214,False
+Joe Johnson,4,1,17,0,Jump Shot,24,25,247,False
+Joe Johnson,1,1,18,0,Jump Shot,11,93,67,True
+Joe Johnson,3,8,41,1,Jump Shot,23,-231,14,False
+Joe Johnson,1,3,31,0,Jump Shot,23,-231,11,False
+Joe Johnson,3,1,39,1,Jump Shot,26,92,245,False
+Joe Johnson,2,9,29,1,Jump Shot,22,223,16,False
+Joe Johnson,3,7,56,1,Jump Shot,28,136,246,False
+Joe Johnson,1,4,14,0,Jump Shot,27,149,228,False
+Joe Johnson,2,10,20,0,Jump Shot,24,234,80,False
+Joe Johnson,4,9,50,0,Jump Shot,4,36,28,True
+Joe Johnson,3,4,53,0,Jump Shot,25,-169,193,False
+Joe Johnson,1,2,17,1,Jump Shot,25,136,220,False
+Joe Johnson,3,1,9,1,Jump Shot,18,182,13,True
+Joe Johnson,4,7,13,0,Jump Shot,5,-40,31,True
+Joe Johnson,4,11,0,1,Jump Shot,24,226,92,False
+Joe Johnson,1,2,19,0,Jump Shot,24,225,100,False
+Joe Johnson,3,2,40,0,Jump Shot,24,-227,90,False
+Joe Johnson,1,1,10,1,Jump Shot,25,-14,251,False
+Joe Johnson,3,1,14,0,Jump Shot,26,134,231,False
+Joe Johnson,3,4,21,1,Jump Shot,24,228,77,False
+Joe Johnson,1,0,39,1,Jump Shot,26,102,246,False
+Joe Johnson,2,6,42,0,Jump Shot,24,221,97,False
+Joe Johnson,2,9,57,0,Jump Shot,17,154,80,True
+Joe Johnson,2,6,44,0,Jump Shot,25,195,158,False
+Joe Johnson,2,10,18,0,Jump Shot,12,-112,53,True
+Joe Johnson,3,1,28,0,Jump Shot,25,-215,135,False
+Joe Johnson,3,5,21,0,Jump Shot,23,-233,30,False
+Joe Johnson,3,2,13,0,Jump Shot,16,144,80,True
+Joe Johnson,1,5,8,0,Jump Shot,23,228,54,False
+Joe Johnson,1,4,11,1,Jump Shot,22,225,-16,False
+Joe Johnson,2,1,38,1,Jump Shot,24,-240,23,False
+Joe Johnson,4,11,37,0,Jump Shot,8,5,88,True
+Joe Johnson,2,11,30,1,Jump Shot,25,230,119,False
+Joe Johnson,2,8,42,1,Jump Shot,23,235,13,False
+Joe Johnson,3,5,14,0,Jump Shot,17,-168,54,True
+Joe Johnson,2,6,44,0,Jump Shot,23,-216,98,False
+Joe Johnson,3,8,5,0,Jump Shot,23,-234,15,False
+Joe Johnson,3,8,35,0,Jump Shot,19,177,90,True
+Joe Johnson,1,5,59,1,Jump Shot,6,-5,66,True
+Joe Johnson,3,10,57,0,Jump Shot,24,-242,-5,False
+Joe Johnson,2,5,10,0,Jump Shot,16,96,130,True
+Joe Johnson,1,7,46,0,Jump Shot,22,-36,221,True
+Joe Johnson,4,2,4,0,Jump Shot,23,-226,67,False
+Joe Johnson,3,11,32,1,Jump Shot,9,-53,75,True
+Joe Johnson,2,1,28,0,Jump Shot,23,-232,31,False
+Joe Johnson,1,3,7,0,Jump Shot,24,-164,186,False
+Joe Johnson,3,0,46,0,Jump Shot,25,-161,200,False
+Joe Johnson,1,4,23,0,Jump Shot,25,-171,190,False
+Joe Johnson,1,1,24,0,Jump Shot,24,227,91,False
+Joe Johnson,1,1,59,0,Jump Shot,23,232,-29,False
+Joe Johnson,2,1,36,0,Jump Shot,23,230,-5,False
+Joe Johnson,1,1,8,0,Jump Shot,19,40,190,True
+Joe Johnson,1,2,17,1,Jump Shot,19,121,150,True
+Joe Johnson,3,5,58,0,Jump Shot,25,-202,153,False
+Joe Johnson,2,11,35,0,Jump Shot,5,23,55,True
+Joe Johnson,4,0,0,0,Jump Shot,22,227,18,False
+Joe Johnson,3,4,18,0,Jump Shot,18,130,138,True
+Joe Johnson,1,2,42,1,Jump Shot,6,12,61,True
+Joe Johnson,2,3,16,0,Jump Shot,27,-155,224,False
+Joe Johnson,1,4,43,0,Jump Shot,24,40,244,False
+Joe Johnson,1,5,48,0,Jump Shot,23,225,62,False
+Joe Johnson,2,9,47,0,Jump Shot,25,171,194,False
+Joe Johnson,2,6,35,1,Jump Shot,24,-236,45,False
+Joe Johnson,2,5,35,1,Jump Shot,25,-225,120,False
+Joe Johnson,3,5,8,0,Jump Shot,25,-198,159,False
+Joe Johnson,3,3,34,0,Jump Shot,23,-232,19,False
+Joe Johnson,3,3,4,1,Jump Shot,23,-233,15,False
+Joe Johnson,2,9,27,0,Jump Shot,22,-224,42,False
+Joe Johnson,5,3,40,0,Jump Shot,25,-165,188,False
+Joe Johnson,2,5,13,0,Jump Shot,24,53,241,False
+Joe Johnson,4,8,27,1,Jump Shot,24,210,132,False
+Joe Johnson,1,4,13,0,Jump Shot,25,-187,168,False
+Joe Johnson,2,0,56,1,Jump Shot,25,-99,237,False
+Joe Johnson,3,3,45,0,Jump Shot,24,-182,166,False
+Joe Johnson,2,5,38,1,Layup Shot,0,-1,0,True
+Joe Johnson,2,1,50,1,Layup Shot,1,12,11,True
+Joe Johnson,2,8,41,1,Pullup Jump shot,19,114,154,True
+Joe Johnson,2,10,51,1,Pullup Jump shot,20,-152,134,True
+Joe Johnson,4,0,49,1,Pullup Jump shot,10,-96,29,True
+Joe Johnson,1,0,48,1,Pullup Jump shot,20,81,184,True
+Joe Johnson,4,1,59,0,Pullup Jump shot,11,-107,47,True
+Joe Johnson,3,0,2,0,Pullup Jump shot,13,-79,113,True
+Joe Johnson,1,0,36,1,Pullup Jump shot,10,35,100,True
+Joe Johnson,2,1,51,1,Pullup Jump shot,19,35,191,True
+Joe Johnson,3,0,1,1,Pullup Jump shot,18,128,134,True
+Joe Johnson,4,0,32,0,Pullup Jump shot,25,-131,213,False
+Joe Johnson,1,0,0,0,Pullup Jump shot,47,-177,442,False
+Joe Johnson,2,4,58,1,Pullup Jump shot,15,-128,80,True
+Joe Johnson,1,7,24,0,Pullup Jump shot,19,-128,146,True
+Joe Johnson,2,8,56,1,Pullup Jump shot,20,-122,169,True
+Joe Johnson,4,11,2,0,Pullup Jump shot,15,-158,15,True
+Joe Johnson,3,1,58,1,Pullup Jump shot,16,108,127,True
+Joe Johnson,1,0,39,0,Pullup Jump shot,20,-140,150,True
+Joe Johnson,4,3,37,0,Pullup Jump shot,9,-84,47,True
+Joe Johnson,1,4,42,1,Putback Layup Shot,3,-8,31,True
+Joe Johnson,3,1,1,1,Reverse Layup Shot,0,-6,3,True
+Joe Johnson,4,9,53,1,Running Pull-Up Jump Shot,23,-233,-1,False
+Joe Johnson,3,1,13,1,Step Back Bank Jump Shot,8,84,29,True
+Joe Johnson,2,1,59,0,Step Back Jump shot,19,-66,186,True
+Joe Johnson,2,1,0,0,Step Back Jump shot,26,-202,165,False
+Joe Johnson,3,4,27,1,Step Back Jump shot,15,141,55,True
+Joe Johnson,3,3,10,1,Step Back Jump shot,17,125,122,True
+Joe Johnson,3,1,55,0,Step Back Jump shot,9,69,65,True
+Joe Johnson,1,3,7,1,Step Back Jump shot,15,154,24,True
+Joe Johnson,3,6,38,1,Step Back Jump shot,14,-124,73,True
+Joe Johnson,3,5,43,1,Step Back Jump shot,18,-107,151,True
+Joe Johnson,2,3,37,0,Step Back Jump shot,20,135,154,True
+Joe Johnson,2,11,38,1,Step Back Jump shot,20,-171,115,True
+Joe Johnson,4,1,48,1,Step Back Jump shot,18,84,164,True
+Joe Johnson,2,7,14,0,Step Back Jump shot,18,183,-10,True
+Joe Johnson,3,0,26,1,Step Back Jump shot,18,47,176,True
+Joe Johnson,4,8,19,0,Step Back Jump shot,20,-60,193,True
+Joe Johnson,2,8,54,1,Step Back Jump shot,15,141,53,True
+Joe Johnson,3,3,14,0,Step Back Jump shot,10,-68,74,True
+Joe Johnson,3,0,14,0,Step Back Jump shot,17,-98,148,True
+Joe Johnson,2,0,25,0,Step Back Jump shot,15,97,121,True
+Joe Johnson,2,11,2,0,Step Back Jump shot,15,112,102,True
+Joe Johnson,3,3,28,0,Step Back Jump shot,14,-89,114,True
+Joe Johnson,4,8,14,1,Turnaround Fadeaway shot,11,109,15,True
+Joe Johnson,3,0,9,1,Turnaround Fadeaway shot,13,17,137,True
+Joe Johnson,4,11,4,1,Turnaround Fadeaway shot,10,-107,4,True
+Joe Johnson,4,11,30,0,Turnaround Fadeaway shot,12,13,126,True
+Joe Johnson,4,5,24,1,Turnaround Fadeaway shot,10,-31,99,True
+Joe Johnson,2,2,20,0,Turnaround Fadeaway shot,9,32,91,True
+Joe Johnson,4,2,13,1,Turnaround Fadeaway shot,13,115,73,True
+Joe Johnson,1,3,8,0,Turnaround Fadeaway shot,11,-56,95,True
+Joe Johnson,1,1,34,1,Turnaround Fadeaway shot,9,93,-1,True
+Joe Johnson,4,2,7,1,Turnaround Fadeaway shot,8,-28,84,True
+Joe Johnson,4,11,38,0,Turnaround Fadeaway shot,10,101,5,True
+Joe Johnson,3,10,31,1,Turnaround Fadeaway shot,12,117,30,True
+Joe Johnson,4,3,38,1,Turnaround Fadeaway shot,8,85,10,True
+Joe Johnson,2,10,12,1,Turnaround Fadeaway shot,9,94,4,True
+Joe Johnson,1,1,26,0,Turnaround Fadeaway shot,13,-51,125,True
+Joe Johnson,2,1,38,1,Turnaround Fadeaway shot,15,95,122,True
+Joe Johnson,2,2,0,0,Turnaround Hook Shot,12,-66,105,True
+Joe Johnson,4,11,45,1,Turnaround Hook Shot,3,-7,32,True
+Joe Johnson,1,0,51,1,Turnaround Hook Shot,6,-11,59,True
+Joe Johnson,3,0,34,1,Turnaround Hook Shot,4,-1,48,True
+Joe Johnson,3,3,8,0,Turnaround Hook Shot,8,-70,46,True
+Joe Johnson,1,2,40,0,Turnaround Hook Shot,7,-40,62,True
+Joe Johnson,4,8,31,0,Turnaround Jump Shot,5,-7,59,True
+Joe Johnson,2,9,12,1,Turnaround Jump Shot,9,11,91,True
+Joe Johnson,1,8,12,0,Turnaround Jump Shot,9,-36,88,True
+Joe Johnson,1,0,11,0,Turnaround Jump Shot,11,8,111,True
+Joe Johnson,4,10,3,0,Turnaround Jump Shot,9,-64,69,True
+Joe Johnson,2,9,54,0,Turnaround Jump Shot,14,149,0,True
+Joe Johnson,3,3,40,1,Turnaround Jump Shot,6,-60,15,True
+Joe Johnson,4,11,13,1,Turnaround Jump Shot,10,5,101,True
+Joe Johnson,4,11,27,0,Turnaround Jump Shot,15,155,37,True
+Joe Johnson,1,1,58,1,Turnaround Jump Shot,8,5,80,True
+Joe Johnson,2,9,21,1,Turnaround Jump Shot,7,47,53,True
+Joe Johnson,2,9,8,1,Turnaround Jump Shot,5,19,54,True
+Joe Johnson,2,11,33,1,Turnaround Jump Shot,5,-10,57,True
+Joe Johnson,3,0,36,0,Turnaround Jump Shot,11,-97,66,True
+Joe Johnson,3,1,23,1,Turnaround Jump Shot,9,-73,67,True
+Joe Johnson,4,4,29,0,Turnaround Jump Shot,25,236,96,False

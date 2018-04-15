@@ -1,0 +1,8 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Mangok Mathiang,4,6,55,1,Dunk Shot,1,6,15,True
+Mangok Mathiang,4,6,28,1,Dunk Shot,1,1,14,True
+Mangok Mathiang,4,3,18,1,Dunk Shot,1,-3,11,True
+Mangok Mathiang,4,0,17,0,Layup Shot,2,17,11,True
+Mangok Mathiang,4,1,45,1,Layup Shot,5,11,52,True
+Mangok Mathiang,4,6,6,0,Layup Shot,2,-14,15,True
+Mangok Mathiang,4,0,22,0,Layup Shot,2,-10,19,True

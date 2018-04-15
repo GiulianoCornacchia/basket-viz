@@ -1,0 +1,15 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Marcus Paige,4,1,42,0,Driving Finger Roll Layup Shot,3,23,20,True
+Marcus Paige,4,7,34,1,Floating Jump shot,8,-78,35,True
+Marcus Paige,4,2,40,1,Jump Shot,22,-222,15,False
+Marcus Paige,4,3,45,0,Jump Shot,26,122,235,False
+Marcus Paige,4,4,53,0,Jump Shot,26,-117,236,False
+Marcus Paige,4,1,7,0,Jump Shot,25,229,106,False
+Marcus Paige,4,8,20,0,Jump Shot,24,-176,177,False
+Marcus Paige,4,2,26,1,Jump Shot,20,-139,151,True
+Marcus Paige,4,0,27,0,Jump Shot,23,234,50,False
+Marcus Paige,4,0,17,0,Jump Shot,23,-233,46,False
+Marcus Paige,4,3,0,1,Jump Shot,22,229,10,False
+Marcus Paige,4,3,16,0,Layup Shot,4,24,36,True
+Marcus Paige,4,11,0,0,Layup Shot,2,-15,14,True
+Marcus Paige,4,2,2,0,Step Back Jump shot,15,9,156,True

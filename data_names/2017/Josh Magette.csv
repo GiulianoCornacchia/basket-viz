@@ -1,0 +1,40 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Josh Magette,2,6,7,0,Driving Floating Bank Jump Shot,11,92,61,True
+Josh Magette,1,2,35,1,Driving Floating Bank Jump Shot,6,-52,35,True
+Josh Magette,4,11,19,0,Driving Floating Jump Shot,12,-7,125,True
+Josh Magette,3,3,11,0,Driving Floating Jump Shot,10,-1,107,True
+Josh Magette,3,0,5,0,Driving Layup Shot,1,-12,13,True
+Josh Magette,4,10,43,0,Driving Layup Shot,4,-19,41,True
+Josh Magette,4,1,34,0,Floating Jump shot,9,-20,89,True
+Josh Magette,4,11,14,0,Floating Jump shot,8,44,76,True
+Josh Magette,3,1,19,1,Jump Bank Shot,15,-128,81,True
+Josh Magette,4,1,33,0,Jump Shot,27,-159,225,False
+Josh Magette,4,3,35,1,Jump Shot,24,-158,191,False
+Josh Magette,4,0,33,1,Jump Shot,24,9,246,False
+Josh Magette,2,2,36,1,Jump Shot,28,8,283,False
+Josh Magette,3,2,2,0,Jump Shot,19,174,90,True
+Josh Magette,3,0,31,1,Jump Shot,25,214,132,False
+Josh Magette,4,10,45,0,Jump Shot,27,158,226,False
+Josh Magette,1,0,50,0,Jump Shot,25,106,230,False
+Josh Magette,3,1,16,0,Jump Shot,24,-234,80,False
+Josh Magette,4,0,29,0,Jump Shot,21,-16,217,True
+Josh Magette,1,1,45,1,Jump Shot,25,-195,158,False
+Josh Magette,1,0,0,0,Jump Shot,48,-123,468,False
+Josh Magette,1,0,0,0,Jump Shot,61,169,589,False
+Josh Magette,3,2,18,0,Jump Shot,25,-133,222,False
+Josh Magette,2,0,52,1,Jump Shot,25,-145,204,False
+Josh Magette,2,0,34,0,Jump Shot,26,-21,260,False
+Josh Magette,2,10,14,0,Jump Shot,25,121,226,False
+Josh Magette,2,9,55,1,Pullup Jump shot,20,-14,203,True
+Josh Magette,2,9,5,0,Pullup Jump shot,20,79,190,True
+Josh Magette,1,0,29,0,Pullup Jump shot,28,-78,272,False
+Josh Magette,3,1,43,0,Pullup Jump shot,12,-84,95,True
+Josh Magette,4,11,23,1,Pullup Jump shot,16,55,157,True
+Josh Magette,2,0,5,1,Pullup Jump shot,21,58,206,True
+Josh Magette,2,1,55,1,Pullup Jump shot,28,-115,262,False
+Josh Magette,3,3,52,0,Pullup Jump shot,25,-154,207,False
+Josh Magette,3,0,13,0,Pullup Jump shot,16,-126,113,True
+Josh Magette,3,1,15,0,Pullup Jump shot,26,-88,254,False
+Josh Magette,4,10,51,0,Pullup Jump shot,20,81,185,True
+Josh Magette,4,0,56,1,Pullup Jump shot,16,-82,143,True
+Josh Magette,2,10,51,0,Pullup Jump shot,9,-45,88,True

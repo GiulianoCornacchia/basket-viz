@@ -1,0 +1,471 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jerian Grant,1,0,1,1,Cutting Layup Shot,1,13,11,True
+Jerian Grant,2,8,44,1,Driving Dunk Shot,0,7,3,True
+Jerian Grant,4,6,54,1,Driving Dunk Shot,0,-1,5,True
+Jerian Grant,3,4,7,1,Driving Dunk Shot,1,2,16,True
+Jerian Grant,2,10,25,1,Driving Dunk Shot,0,1,0,True
+Jerian Grant,4,2,54,1,Driving Dunk Shot,1,4,12,True
+Jerian Grant,4,10,24,1,Driving Finger Roll Layup Shot,1,-2,14,True
+Jerian Grant,4,8,12,0,Driving Finger Roll Layup Shot,1,-9,5,True
+Jerian Grant,3,0,29,0,Driving Finger Roll Layup Shot,2,22,13,True
+Jerian Grant,1,3,13,0,Driving Floating Bank Jump Shot,7,53,49,True
+Jerian Grant,3,5,44,0,Driving Floating Bank Jump Shot,14,-85,113,True
+Jerian Grant,3,11,19,1,Driving Floating Bank Jump Shot,9,-58,69,True
+Jerian Grant,2,5,2,1,Driving Floating Bank Jump Shot,9,96,12,True
+Jerian Grant,3,0,30,0,Driving Floating Jump Shot,17,-95,141,True
+Jerian Grant,2,4,51,0,Driving Floating Jump Shot,3,24,22,True
+Jerian Grant,2,8,31,1,Driving Floating Jump Shot,9,-96,19,True
+Jerian Grant,2,2,43,0,Driving Floating Jump Shot,9,87,36,True
+Jerian Grant,1,3,9,1,Driving Floating Jump Shot,7,-58,55,True
+Jerian Grant,2,11,49,1,Driving Floating Jump Shot,8,-7,86,True
+Jerian Grant,4,9,40,0,Driving Floating Jump Shot,5,44,26,True
+Jerian Grant,3,6,45,0,Driving Floating Jump Shot,8,-38,71,True
+Jerian Grant,3,6,17,0,Driving Floating Jump Shot,7,-56,49,True
+Jerian Grant,1,8,11,0,Driving Floating Jump Shot,5,49,16,True
+Jerian Grant,2,8,3,0,Driving Floating Jump Shot,9,-49,83,True
+Jerian Grant,4,6,42,0,Driving Floating Jump Shot,9,38,90,True
+Jerian Grant,2,5,55,1,Driving Floating Jump Shot,8,84,16,True
+Jerian Grant,4,7,45,0,Driving Floating Jump Shot,6,11,61,True
+Jerian Grant,2,7,58,1,Driving Layup Shot,3,22,21,True
+Jerian Grant,2,11,28,1,Driving Layup Shot,0,-9,-1,True
+Jerian Grant,1,0,0,0,Driving Layup Shot,1,-15,13,True
+Jerian Grant,2,1,24,0,Driving Layup Shot,0,-6,6,True
+Jerian Grant,2,0,45,1,Driving Layup Shot,1,11,8,True
+Jerian Grant,2,9,5,0,Driving Layup Shot,2,-28,2,True
+Jerian Grant,3,5,55,0,Driving Layup Shot,2,-16,18,True
+Jerian Grant,4,5,25,0,Driving Layup Shot,2,2,22,True
+Jerian Grant,3,3,35,1,Driving Layup Shot,1,11,8,True
+Jerian Grant,3,7,56,1,Driving Layup Shot,17,5,173,True
+Jerian Grant,3,8,17,1,Driving Layup Shot,1,0,17,True
+Jerian Grant,2,0,16,1,Driving Layup Shot,0,-3,6,True
+Jerian Grant,2,0,42,0,Driving Layup Shot,3,-25,25,True
+Jerian Grant,4,7,20,1,Driving Layup Shot,0,-1,7,True
+Jerian Grant,1,11,25,0,Driving Layup Shot,1,-14,6,True
+Jerian Grant,3,5,52,1,Driving Layup Shot,3,-5,32,True
+Jerian Grant,3,4,46,0,Driving Layup Shot,2,24,7,True
+Jerian Grant,2,11,2,0,Driving Layup Shot,4,-23,43,True
+Jerian Grant,3,10,43,0,Driving Layup Shot,1,16,7,True
+Jerian Grant,3,1,14,0,Driving Layup Shot,1,-10,14,True
+Jerian Grant,2,8,15,1,Driving Layup Shot,1,8,13,True
+Jerian Grant,4,2,0,1,Driving Layup Shot,1,13,-1,True
+Jerian Grant,3,5,51,1,Driving Layup Shot,1,-5,15,True
+Jerian Grant,1,0,55,1,Driving Layup Shot,2,29,3,True
+Jerian Grant,2,8,58,1,Driving Layup Shot,1,8,13,True
+Jerian Grant,3,3,38,0,Driving Layup Shot,2,20,11,True
+Jerian Grant,3,1,4,1,Driving Layup Shot,2,-2,23,True
+Jerian Grant,4,10,21,0,Driving Layup Shot,2,-20,10,True
+Jerian Grant,3,0,32,0,Driving Layup Shot,2,-24,17,True
+Jerian Grant,2,2,18,0,Driving Layup Shot,2,20,11,True
+Jerian Grant,3,4,7,0,Driving Layup Shot,1,-13,10,True
+Jerian Grant,3,3,23,0,Driving Layup Shot,2,19,10,True
+Jerian Grant,3,5,20,0,Driving Layup Shot,0,7,5,True
+Jerian Grant,2,2,31,1,Driving Layup Shot,1,8,14,True
+Jerian Grant,3,2,47,1,Driving Layup Shot,2,-12,16,True
+Jerian Grant,2,2,20,1,Driving Layup Shot,1,6,11,True
+Jerian Grant,2,0,33,1,Driving Layup Shot,2,13,27,True
+Jerian Grant,2,4,58,1,Driving Layup Shot,1,18,-8,True
+Jerian Grant,4,8,36,1,Driving Layup Shot,1,10,0,True
+Jerian Grant,3,0,33,1,Driving Layup Shot,0,6,7,True
+Jerian Grant,2,0,8,0,Driving Layup Shot,2,-5,20,True
+Jerian Grant,2,7,40,0,Driving Layup Shot,4,8,43,True
+Jerian Grant,2,5,39,0,Driving Layup Shot,1,6,16,True
+Jerian Grant,1,8,30,0,Driving Layup Shot,4,2,48,True
+Jerian Grant,2,7,15,0,Driving Layup Shot,3,34,14,True
+Jerian Grant,4,4,29,1,Driving Layup Shot,4,36,18,True
+Jerian Grant,2,7,47,1,Driving Layup Shot,2,-18,9,True
+Jerian Grant,2,6,35,1,Driving Layup Shot,0,-6,4,True
+Jerian Grant,2,8,52,1,Driving Layup Shot,1,-9,13,True
+Jerian Grant,4,6,11,1,Driving Layup Shot,1,-14,8,True
+Jerian Grant,4,7,21,1,Driving Layup Shot,2,22,4,True
+Jerian Grant,2,9,56,1,Driving Layup Shot,1,-9,15,True
+Jerian Grant,2,5,27,1,Driving Layup Shot,0,5,0,True
+Jerian Grant,3,7,19,1,Driving Layup Shot,2,-8,22,True
+Jerian Grant,2,7,21,1,Driving Layup Shot,1,12,1,True
+Jerian Grant,1,0,29,1,Driving Reverse Layup Shot,0,-5,3,True
+Jerian Grant,4,8,49,1,Driving Reverse Layup Shot,2,14,20,True
+Jerian Grant,2,0,3,1,Driving Reverse Layup Shot,2,-8,20,True
+Jerian Grant,3,0,3,1,Driving Reverse Layup Shot,1,-11,2,True
+Jerian Grant,3,11,10,1,Driving Reverse Layup Shot,2,16,17,True
+Jerian Grant,2,2,42,0,Fadeaway Jump Shot,17,90,150,True
+Jerian Grant,4,1,29,0,Fadeaway Jump Shot,16,-162,42,True
+Jerian Grant,4,2,6,0,Fadeaway Jump Shot,18,180,17,True
+Jerian Grant,3,0,5,0,Fadeaway Jump Shot,11,-32,107,True
+Jerian Grant,2,11,13,1,Fadeaway Jump Shot,21,-95,195,True
+Jerian Grant,1,10,0,1,Fadeaway Jump Shot,15,139,62,True
+Jerian Grant,2,8,9,0,Fadeaway Jump Shot,18,139,117,True
+Jerian Grant,2,8,37,0,Fadeaway Jump Shot,15,62,137,True
+Jerian Grant,2,9,6,0,Fadeaway Jump Shot,10,38,95,True
+Jerian Grant,2,10,19,0,Fadeaway Jump Shot,14,139,21,True
+Jerian Grant,4,8,59,1,Fadeaway Jump Shot,11,-71,95,True
+Jerian Grant,4,10,36,1,Fadeaway Jump Shot,11,-106,34,True
+Jerian Grant,3,1,12,0,Fadeaway Jump Shot,15,151,11,True
+Jerian Grant,2,6,57,1,Fadeaway Jump Shot,15,-139,57,True
+Jerian Grant,2,0,1,1,Fadeaway Jump Shot,20,-122,165,True
+Jerian Grant,4,1,20,1,Fadeaway Jump Shot,12,3,122,True
+Jerian Grant,2,10,9,0,Fadeaway Jump Shot,9,-55,81,True
+Jerian Grant,4,10,48,1,Fadeaway Jump Shot,12,97,74,True
+Jerian Grant,2,11,38,1,Fadeaway Jump Shot,20,-93,178,True
+Jerian Grant,4,9,23,0,Fadeaway Jump Shot,18,84,162,True
+Jerian Grant,2,7,36,0,Fadeaway Jump Shot,16,-107,119,True
+Jerian Grant,1,10,32,0,Fadeaway Jump Shot,13,-135,0,True
+Jerian Grant,2,5,21,1,Fadeaway Jump Shot,18,98,153,True
+Jerian Grant,1,0,5,1,Fadeaway Jump Shot,15,88,126,True
+Jerian Grant,2,1,23,0,Fadeaway Jump Shot,15,-93,124,True
+Jerian Grant,3,2,28,1,Fadeaway Jump Shot,20,4,202,True
+Jerian Grant,1,0,33,1,Fadeaway Jump Shot,7,-43,64,True
+Jerian Grant,1,11,14,0,Fadeaway Jump Shot,12,-120,47,True
+Jerian Grant,3,9,43,1,Floating Jump shot,4,-29,37,True
+Jerian Grant,1,0,30,0,Floating Jump shot,4,43,20,True
+Jerian Grant,1,9,32,0,Floating Jump shot,6,-3,67,True
+Jerian Grant,4,6,45,0,Floating Jump shot,8,6,83,True
+Jerian Grant,4,1,32,0,Jump Shot,8,-82,17,True
+Jerian Grant,3,0,34,0,Jump Shot,17,-63,158,True
+Jerian Grant,4,2,0,0,Jump Shot,18,92,157,True
+Jerian Grant,4,8,28,1,Jump Shot,25,130,218,False
+Jerian Grant,1,1,5,0,Jump Shot,10,-102,30,True
+Jerian Grant,4,9,9,0,Jump Shot,26,-120,231,False
+Jerian Grant,4,4,28,0,Jump Shot,24,127,215,False
+Jerian Grant,4,3,9,0,Jump Shot,24,157,186,False
+Jerian Grant,4,9,56,0,Jump Shot,7,-14,75,True
+Jerian Grant,4,0,57,1,Jump Shot,22,-225,21,False
+Jerian Grant,1,1,0,0,Jump Shot,25,-154,205,False
+Jerian Grant,2,4,8,0,Jump Shot,25,-39,249,False
+Jerian Grant,4,3,9,0,Jump Shot,26,2,263,False
+Jerian Grant,4,6,45,1,Jump Shot,25,-82,241,False
+Jerian Grant,4,8,45,0,Jump Shot,10,9,103,True
+Jerian Grant,2,10,15,1,Jump Shot,13,108,75,True
+Jerian Grant,2,4,39,1,Jump Shot,20,38,204,True
+Jerian Grant,4,0,16,0,Jump Shot,25,-123,219,False
+Jerian Grant,2,10,7,1,Jump Shot,27,110,253,False
+Jerian Grant,4,6,14,0,Jump Shot,8,76,37,True
+Jerian Grant,4,0,18,0,Jump Shot,23,163,175,False
+Jerian Grant,3,2,31,0,Jump Shot,28,-197,199,False
+Jerian Grant,2,10,58,1,Jump Shot,26,149,214,False
+Jerian Grant,2,3,34,0,Jump Shot,16,165,-11,True
+Jerian Grant,2,3,5,0,Jump Shot,25,-53,246,False
+Jerian Grant,4,1,43,0,Jump Shot,24,221,116,False
+Jerian Grant,4,6,48,0,Jump Shot,26,-99,242,False
+Jerian Grant,2,9,10,1,Jump Shot,20,143,146,True
+Jerian Grant,3,0,0,0,Jump Shot,25,154,202,False
+Jerian Grant,4,3,21,1,Jump Shot,24,91,228,False
+Jerian Grant,4,0,28,0,Jump Shot,25,62,248,False
+Jerian Grant,4,4,24,1,Jump Shot,26,-149,218,False
+Jerian Grant,4,6,26,0,Jump Shot,25,-158,200,False
+Jerian Grant,4,4,0,0,Jump Shot,33,-92,326,False
+Jerian Grant,3,5,49,0,Jump Shot,23,228,46,False
+Jerian Grant,1,1,59,0,Jump Shot,24,-185,165,False
+Jerian Grant,4,8,47,1,Jump Shot,25,-67,246,False
+Jerian Grant,1,0,1,0,Jump Shot,17,-76,159,True
+Jerian Grant,2,5,56,1,Jump Shot,26,91,246,False
+Jerian Grant,1,0,0,0,Jump Shot,27,108,252,False
+Jerian Grant,2,9,53,1,Jump Shot,23,231,20,False
+Jerian Grant,2,10,27,0,Jump Shot,17,-111,137,True
+Jerian Grant,3,0,38,1,Jump Shot,24,127,211,False
+Jerian Grant,1,0,29,0,Jump Shot,25,134,222,False
+Jerian Grant,2,7,10,0,Jump Shot,11,89,78,True
+Jerian Grant,4,4,20,0,Jump Shot,25,-123,227,False
+Jerian Grant,4,10,8,0,Jump Shot,25,-134,217,False
+Jerian Grant,3,0,2,0,Jump Shot,26,-45,257,False
+Jerian Grant,4,3,42,0,Jump Shot,21,3,211,True
+Jerian Grant,4,2,53,1,Jump Shot,25,-89,234,False
+Jerian Grant,4,0,33,1,Jump Shot,25,171,189,False
+Jerian Grant,1,3,18,1,Jump Shot,14,-143,-10,True
+Jerian Grant,3,2,43,0,Jump Shot,25,95,235,False
+Jerian Grant,2,2,53,0,Jump Shot,13,-136,-16,True
+Jerian Grant,1,6,10,1,Jump Shot,25,-119,225,False
+Jerian Grant,4,5,56,0,Jump Shot,25,102,232,False
+Jerian Grant,3,5,41,0,Jump Shot,22,-224,12,False
+Jerian Grant,4,5,23,1,Jump Shot,26,-88,249,False
+Jerian Grant,4,0,44,0,Jump Shot,25,131,220,False
+Jerian Grant,1,2,35,0,Jump Shot,24,-19,243,False
+Jerian Grant,3,0,44,1,Jump Shot,25,131,222,False
+Jerian Grant,3,9,44,0,Jump Shot,24,147,200,False
+Jerian Grant,4,0,0,0,Jump Shot,24,-192,150,False
+Jerian Grant,2,0,0,0,Jump Shot,59,96,588,False
+Jerian Grant,2,5,31,0,Jump Shot,27,139,233,False
+Jerian Grant,1,0,24,0,Jump Shot,21,-82,202,True
+Jerian Grant,1,7,56,1,Jump Shot,25,129,218,False
+Jerian Grant,3,10,23,0,Jump Shot,26,132,224,False
+Jerian Grant,3,2,18,1,Jump Shot,25,134,221,False
+Jerian Grant,3,0,27,0,Jump Shot,26,132,235,False
+Jerian Grant,2,5,46,1,Jump Shot,22,-223,4,False
+Jerian Grant,2,2,34,0,Jump Shot,25,157,205,False
+Jerian Grant,1,8,1,0,Jump Shot,24,-96,229,False
+Jerian Grant,3,2,5,1,Jump Shot,25,-99,238,False
+Jerian Grant,2,1,45,0,Jump Shot,21,-158,143,True
+Jerian Grant,3,0,45,1,Jump Shot,22,228,-4,False
+Jerian Grant,1,7,54,1,Jump Shot,25,144,214,False
+Jerian Grant,4,8,1,1,Jump Shot,25,23,258,False
+Jerian Grant,1,9,17,1,Jump Shot,25,-131,214,False
+Jerian Grant,2,1,13,1,Jump Shot,25,-226,108,False
+Jerian Grant,2,2,14,0,Jump Shot,18,13,187,True
+Jerian Grant,2,5,22,0,Jump Shot,25,-120,220,False
+Jerian Grant,2,3,44,1,Jump Shot,24,10,247,False
+Jerian Grant,1,10,26,1,Jump Shot,23,232,0,False
+Jerian Grant,3,4,53,0,Jump Shot,14,-73,130,True
+Jerian Grant,3,4,34,0,Jump Shot,25,-110,228,False
+Jerian Grant,4,11,17,0,Jump Shot,26,-90,247,False
+Jerian Grant,2,8,58,0,Jump Shot,22,-62,219,True
+Jerian Grant,2,8,14,0,Jump Shot,24,-161,189,False
+Jerian Grant,4,11,13,0,Jump Shot,24,-56,242,False
+Jerian Grant,4,9,55,0,Jump Shot,25,-8,257,False
+Jerian Grant,1,2,51,0,Jump Shot,26,139,229,False
+Jerian Grant,4,6,23,0,Jump Shot,27,-93,256,False
+Jerian Grant,2,6,45,0,Jump Shot,26,-90,245,False
+Jerian Grant,2,0,0,0,Jump Shot,58,-143,567,False
+Jerian Grant,4,11,1,1,Jump Shot,25,134,215,False
+Jerian Grant,4,9,22,0,Jump Shot,26,-47,265,False
+Jerian Grant,2,9,36,1,Jump Shot,8,87,14,True
+Jerian Grant,3,6,28,0,Jump Shot,14,62,130,True
+Jerian Grant,1,4,43,0,Jump Shot,18,80,167,True
+Jerian Grant,4,10,2,0,Jump Shot,7,-67,37,True
+Jerian Grant,3,10,16,0,Jump Shot,26,-67,260,False
+Jerian Grant,3,11,44,0,Jump Shot,22,223,6,False
+Jerian Grant,4,7,23,0,Jump Shot,25,-99,237,False
+Jerian Grant,4,1,51,1,Jump Shot,27,-34,268,False
+Jerian Grant,3,6,14,0,Jump Shot,12,-115,42,True
+Jerian Grant,1,2,58,1,Jump Shot,25,87,235,False
+Jerian Grant,1,5,36,1,Jump Shot,25,40,251,False
+Jerian Grant,1,0,0,0,Jump Shot,30,-78,295,False
+Jerian Grant,1,0,27,0,Jump Shot,16,117,119,True
+Jerian Grant,2,8,15,1,Jump Shot,25,210,150,False
+Jerian Grant,1,1,44,0,Jump Shot,26,-146,222,False
+Jerian Grant,4,0,57,0,Jump Shot,26,-133,231,False
+Jerian Grant,4,3,21,1,Jump Shot,22,225,-14,False
+Jerian Grant,3,1,39,0,Jump Shot,20,114,173,True
+Jerian Grant,1,0,54,1,Jump Shot,26,-43,258,False
+Jerian Grant,2,10,48,1,Jump Shot,19,57,187,True
+Jerian Grant,4,2,52,0,Jump Shot,25,136,218,False
+Jerian Grant,3,0,0,0,Jump Shot,44,-187,405,False
+Jerian Grant,4,8,17,1,Jump Shot,20,-45,202,True
+Jerian Grant,1,2,53,1,Jump Shot,19,-67,178,True
+Jerian Grant,4,7,58,0,Jump Shot,24,-217,105,False
+Jerian Grant,4,6,8,1,Jump Shot,24,-117,216,False
+Jerian Grant,4,9,24,1,Jump Shot,24,-91,226,False
+Jerian Grant,4,9,45,0,Jump Shot,25,-207,152,False
+Jerian Grant,2,7,23,0,Jump Shot,26,96,243,False
+Jerian Grant,3,0,47,0,Jump Shot,27,-155,233,False
+Jerian Grant,3,1,50,1,Jump Shot,15,3,154,True
+Jerian Grant,4,10,22,0,Jump Shot,16,-93,131,True
+Jerian Grant,4,7,58,0,Jump Shot,26,-131,228,False
+Jerian Grant,3,2,25,1,Jump Shot,21,-76,200,True
+Jerian Grant,4,0,0,1,Jump Shot,26,-120,239,False
+Jerian Grant,3,4,0,1,Jump Shot,24,-33,246,False
+Jerian Grant,4,9,37,1,Jump Shot,25,70,242,False
+Jerian Grant,2,7,23,1,Jump Shot,2,-3,27,True
+Jerian Grant,4,8,57,0,Jump Shot,25,106,232,False
+Jerian Grant,3,0,0,0,Jump Shot,47,-171,445,False
+Jerian Grant,1,2,6,0,Jump Shot,25,-106,230,False
+Jerian Grant,3,1,34,0,Jump Shot,19,36,190,True
+Jerian Grant,3,0,3,1,Jump Shot,25,-132,221,False
+Jerian Grant,4,8,52,0,Jump Shot,24,108,225,False
+Jerian Grant,1,3,3,0,Jump Shot,25,-174,191,False
+Jerian Grant,4,11,42,0,Jump Shot,9,50,79,True
+Jerian Grant,3,1,40,1,Jump Shot,11,111,20,True
+Jerian Grant,2,8,56,0,Jump Shot,21,62,201,True
+Jerian Grant,2,1,23,1,Jump Shot,22,-23,228,True
+Jerian Grant,3,5,58,1,Jump Shot,14,-107,97,True
+Jerian Grant,2,1,55,0,Jump Shot,6,18,66,True
+Jerian Grant,4,0,6,1,Jump Shot,26,-139,227,False
+Jerian Grant,3,4,11,0,Jump Shot,10,-104,32,True
+Jerian Grant,3,3,32,1,Jump Shot,15,-150,7,True
+Jerian Grant,2,10,10,1,Jump Shot,22,-223,-12,False
+Jerian Grant,4,7,20,0,Jump Shot,28,-61,278,False
+Jerian Grant,3,3,2,0,Jump Shot,20,86,188,True
+Jerian Grant,4,9,3,1,Jump Shot,17,79,160,True
+Jerian Grant,4,5,8,1,Jump Shot,26,-52,263,False
+Jerian Grant,1,1,27,0,Jump Shot,24,197,153,False
+Jerian Grant,3,0,0,0,Jump Shot,10,97,41,True
+Jerian Grant,1,4,9,0,Jump Shot,20,163,119,True
+Jerian Grant,2,4,16,0,Jump Shot,25,-33,248,False
+Jerian Grant,2,1,57,0,Jump Shot,22,78,213,True
+Jerian Grant,3,5,26,1,Jump Shot,19,-13,196,True
+Jerian Grant,3,7,6,1,Jump Shot,21,100,194,True
+Jerian Grant,2,6,31,1,Jump Shot,24,98,227,False
+Jerian Grant,2,0,37,1,Jump Shot,25,-152,210,False
+Jerian Grant,3,4,29,0,Jump Shot,25,-170,186,False
+Jerian Grant,1,3,59,0,Jump Shot,18,44,178,True
+Jerian Grant,1,5,39,1,Jump Shot,18,-155,94,True
+Jerian Grant,2,0,0,0,Jump Shot,23,-230,-15,False
+Jerian Grant,4,1,45,0,Jump Shot,26,127,227,False
+Jerian Grant,4,7,26,1,Jump Shot,26,-115,241,False
+Jerian Grant,1,10,43,0,Jump Shot,25,-222,126,False
+Jerian Grant,5,3,44,1,Jump Shot,21,-126,180,True
+Jerian Grant,2,3,57,0,Jump Shot,24,-79,234,False
+Jerian Grant,4,5,58,0,Jump Shot,25,-36,256,False
+Jerian Grant,4,2,0,1,Jump Shot,25,-207,146,False
+Jerian Grant,2,4,18,0,Jump Shot,12,40,120,True
+Jerian Grant,3,6,23,0,Jump Shot,22,-225,35,False
+Jerian Grant,4,0,27,1,Jump Shot,25,149,210,False
+Jerian Grant,2,1,50,0,Jump Shot,22,-226,5,False
+Jerian Grant,1,9,35,0,Jump Shot,24,-150,188,False
+Jerian Grant,2,6,50,0,Jump Shot,24,-122,211,False
+Jerian Grant,1,4,48,0,Jump Shot,24,-111,222,False
+Jerian Grant,2,5,43,0,Jump Shot,24,-114,219,False
+Jerian Grant,3,8,43,0,Jump Shot,25,-20,254,False
+Jerian Grant,3,5,31,0,Jump Shot,8,8,83,True
+Jerian Grant,4,5,32,0,Jump Shot,26,123,236,False
+Jerian Grant,4,1,0,0,Jump Shot,16,158,31,True
+Jerian Grant,3,9,25,0,Jump Shot,15,112,110,True
+Jerian Grant,4,5,57,0,Jump Shot,25,-123,218,False
+Jerian Grant,1,5,52,0,Jump Shot,25,-65,251,False
+Jerian Grant,4,2,15,1,Jump Shot,29,-70,284,False
+Jerian Grant,4,6,35,0,Jump Shot,25,149,206,False
+Jerian Grant,1,4,8,0,Jump Shot,26,6,261,False
+Jerian Grant,2,2,13,0,Jump Shot,24,147,197,False
+Jerian Grant,1,5,52,0,Jump Shot,6,-9,69,True
+Jerian Grant,4,7,17,0,Jump Shot,25,101,229,False
+Jerian Grant,1,9,13,0,Jump Shot,25,135,216,False
+Jerian Grant,3,5,30,1,Jump Shot,14,-136,36,True
+Jerian Grant,1,2,28,0,Jump Shot,25,-196,163,False
+Jerian Grant,1,8,55,0,Jump Shot,13,-128,26,True
+Jerian Grant,3,2,57,1,Jump Shot,26,-143,221,False
+Jerian Grant,3,5,16,0,Jump Shot,25,-77,244,False
+Jerian Grant,4,0,46,1,Jump Shot,25,117,230,False
+Jerian Grant,4,0,6,0,Jump Shot,23,-230,-11,False
+Jerian Grant,4,6,44,0,Layup Shot,2,5,20,True
+Jerian Grant,4,7,58,0,Layup Shot,2,20,7,True
+Jerian Grant,4,9,25,1,Layup Shot,2,-9,23,True
+Jerian Grant,3,0,0,1,Layup Shot,1,-16,5,True
+Jerian Grant,3,4,11,0,Layup Shot,1,-8,9,True
+Jerian Grant,2,9,10,0,Layup Shot,2,18,10,True
+Jerian Grant,3,0,46,0,Layup Shot,1,-16,8,True
+Jerian Grant,4,9,12,0,Layup Shot,2,18,11,True
+Jerian Grant,4,3,41,0,Layup Shot,2,-2,21,True
+Jerian Grant,2,6,39,0,Layup Shot,1,-14,4,True
+Jerian Grant,4,1,42,1,Layup Shot,2,-1,21,True
+Jerian Grant,1,0,24,1,Layup Shot,1,7,14,True
+Jerian Grant,2,0,10,1,Layup Shot,1,13,3,True
+Jerian Grant,3,6,52,1,Layup Shot,1,5,13,True
+Jerian Grant,1,7,58,0,Layup Shot,1,17,10,True
+Jerian Grant,2,0,5,0,Layup Shot,0,9,4,True
+Jerian Grant,1,9,36,1,Layup Shot,0,1,3,True
+Jerian Grant,1,5,25,1,Layup Shot,1,16,6,True
+Jerian Grant,1,1,28,1,Layup Shot,0,0,4,True
+Jerian Grant,3,3,43,1,Layup Shot,1,16,10,True
+Jerian Grant,1,3,58,0,Layup Shot,4,40,9,True
+Jerian Grant,1,5,16,1,Layup Shot,0,7,4,True
+Jerian Grant,4,3,58,0,Layup Shot,1,17,3,True
+Jerian Grant,3,0,7,1,Layup Shot,4,-4,40,True
+Jerian Grant,2,6,17,0,Layup Shot,0,-3,5,True
+Jerian Grant,1,9,44,0,Layup Shot,2,-16,23,True
+Jerian Grant,4,3,0,1,Pullup Jump shot,21,-8,216,True
+Jerian Grant,1,0,3,1,Pullup Jump shot,10,5,106,True
+Jerian Grant,3,4,13,1,Pullup Jump shot,8,-44,71,True
+Jerian Grant,1,1,9,0,Pullup Jump shot,14,11,140,True
+Jerian Grant,2,2,38,1,Pullup Jump shot,21,0,212,True
+Jerian Grant,1,3,22,0,Pullup Jump shot,24,-78,235,False
+Jerian Grant,2,9,16,0,Pullup Jump shot,19,-55,186,True
+Jerian Grant,4,7,22,1,Pullup Jump shot,14,59,136,True
+Jerian Grant,4,11,3,1,Pullup Jump shot,20,-82,185,True
+Jerian Grant,2,4,4,0,Pullup Jump shot,16,-14,165,True
+Jerian Grant,1,6,1,0,Pullup Jump shot,16,-83,148,True
+Jerian Grant,1,7,20,1,Pullup Jump shot,12,115,59,True
+Jerian Grant,2,0,40,0,Pullup Jump shot,17,-77,160,True
+Jerian Grant,2,6,53,0,Pullup Jump shot,26,-128,233,False
+Jerian Grant,2,6,13,0,Pullup Jump shot,9,90,-6,True
+Jerian Grant,3,4,34,0,Pullup Jump shot,21,-180,109,True
+Jerian Grant,1,11,25,0,Pullup Jump shot,10,107,-7,True
+Jerian Grant,1,1,41,1,Pullup Jump shot,19,139,138,True
+Jerian Grant,4,5,58,1,Pullup Jump shot,26,69,252,False
+Jerian Grant,3,5,6,1,Pullup Jump shot,16,102,128,True
+Jerian Grant,1,8,39,0,Pullup Jump shot,20,161,127,True
+Jerian Grant,2,8,36,0,Pullup Jump shot,11,0,113,True
+Jerian Grant,4,6,50,0,Pullup Jump shot,16,108,125,True
+Jerian Grant,2,10,22,0,Pullup Jump shot,13,133,21,True
+Jerian Grant,2,0,0,0,Pullup Jump shot,26,-41,257,False
+Jerian Grant,1,0,28,0,Pullup Jump shot,25,-84,243,False
+Jerian Grant,4,11,45,0,Pullup Jump shot,25,-65,247,False
+Jerian Grant,2,6,18,1,Pullup Jump shot,12,127,6,True
+Jerian Grant,2,11,9,1,Pullup Jump shot,12,-46,121,True
+Jerian Grant,2,2,50,0,Pullup Jump shot,24,-16,248,False
+Jerian Grant,4,8,43,1,Pullup Jump shot,25,-150,212,False
+Jerian Grant,2,3,39,0,Pullup Jump shot,24,28,243,False
+Jerian Grant,1,0,0,0,Pullup Jump shot,47,-199,430,False
+Jerian Grant,4,11,44,0,Pullup Jump shot,24,78,232,False
+Jerian Grant,3,0,37,1,Pullup Jump shot,15,21,149,True
+Jerian Grant,3,10,51,0,Pullup Jump shot,20,-72,194,True
+Jerian Grant,1,6,23,0,Pullup Jump shot,25,-185,175,False
+Jerian Grant,1,11,11,1,Pullup Jump shot,24,-59,237,False
+Jerian Grant,1,0,58,0,Pullup Jump shot,13,49,130,True
+Jerian Grant,2,5,50,1,Pullup Jump shot,14,144,-6,True
+Jerian Grant,4,10,52,0,Pullup Jump shot,24,137,205,False
+Jerian Grant,3,3,16,0,Pullup Jump shot,17,127,127,True
+Jerian Grant,2,0,0,0,Pullup Jump shot,45,212,399,False
+Jerian Grant,1,8,3,1,Pullup Jump shot,25,13,252,False
+Jerian Grant,1,9,37,1,Pullup Jump shot,19,-71,182,True
+Jerian Grant,3,6,15,1,Pullup Jump shot,26,-65,254,False
+Jerian Grant,3,0,31,0,Pullup Jump shot,26,-2,262,False
+Jerian Grant,2,7,8,1,Pullup Jump shot,16,109,125,True
+Jerian Grant,2,8,7,1,Pullup Jump shot,11,115,16,True
+Jerian Grant,4,8,18,0,Pullup Jump shot,19,-115,157,True
+Jerian Grant,4,7,21,0,Pullup Jump shot,25,-160,201,False
+Jerian Grant,4,0,13,0,Pullup Jump shot,25,-22,254,False
+Jerian Grant,3,3,31,0,Pullup Jump shot,26,-150,216,False
+Jerian Grant,1,0,34,1,Pullup Jump shot,10,-24,101,True
+Jerian Grant,1,10,54,0,Pullup Jump shot,15,-15,150,True
+Jerian Grant,4,5,25,0,Pullup Jump shot,27,0,272,False
+Jerian Grant,4,5,34,0,Pullup Jump shot,21,-72,206,True
+Jerian Grant,1,5,33,1,Pullup Jump shot,16,82,143,True
+Jerian Grant,4,4,7,1,Running Finger Roll Layup Shot,1,9,-10,True
+Jerian Grant,2,7,47,0,Running Jump Shot,6,13,62,True
+Jerian Grant,1,6,8,0,Running Jump Shot,25,-170,186,False
+Jerian Grant,1,1,33,0,Running Layup Shot,4,33,24,True
+Jerian Grant,2,3,4,1,Running Layup Shot,4,43,14,True
+Jerian Grant,2,8,10,1,Running Layup Shot,2,-3,21,True
+Jerian Grant,3,5,37,1,Running Layup Shot,2,19,13,True
+Jerian Grant,1,5,56,1,Running Layup Shot,1,-11,1,True
+Jerian Grant,4,11,16,0,Running Layup Shot,6,-9,65,True
+Jerian Grant,4,2,57,1,Running Layup Shot,2,19,9,True
+Jerian Grant,2,7,19,1,Running Layup Shot,2,19,14,True
+Jerian Grant,3,11,26,1,Running Layup Shot,0,2,8,True
+Jerian Grant,3,9,1,1,Running Layup Shot,1,-9,8,True
+Jerian Grant,1,6,27,0,Running Layup Shot,2,24,4,True
+Jerian Grant,4,8,53,1,Running Layup Shot,0,6,5,True
+Jerian Grant,1,7,36,1,Running Layup Shot,2,20,5,True
+Jerian Grant,2,5,54,0,Running Pull-Up Jump Shot,12,63,113,True
+Jerian Grant,1,7,5,1,Running Pull-Up Jump Shot,13,53,121,True
+Jerian Grant,1,0,0,0,Step Back Jump shot,25,19,256,False
+Jerian Grant,4,7,27,0,Step Back Jump shot,25,-20,257,False
+Jerian Grant,4,9,25,1,Step Back Jump shot,16,92,142,True
+Jerian Grant,1,5,56,0,Step Back Jump shot,18,-107,153,True
+Jerian Grant,3,0,8,0,Step Back Jump shot,21,103,191,True
+Jerian Grant,3,0,1,1,Step Back Jump shot,25,120,229,False
+Jerian Grant,2,7,35,1,Step Back Jump shot,16,-62,158,True
+Jerian Grant,4,9,3,0,Step Back Jump shot,12,23,125,True
+Jerian Grant,2,9,18,0,Step Back Jump shot,16,-161,27,True
+Jerian Grant,4,9,30,0,Step Back Jump shot,26,154,210,False
+Jerian Grant,1,5,0,0,Step Back Jump shot,15,10,152,True
+Jerian Grant,4,9,46,1,Step Back Jump shot,26,190,191,False
+Jerian Grant,4,8,36,1,Step Back Jump shot,18,-106,151,True
+Jerian Grant,1,2,9,0,Step Back Jump shot,18,138,117,True
+Jerian Grant,4,7,10,0,Step Back Jump shot,18,-92,159,True
+Jerian Grant,3,6,31,1,Step Back Jump shot,20,-3,207,True
+Jerian Grant,4,9,49,0,Step Back Jump shot,17,84,154,True
+Jerian Grant,2,10,33,0,Step Back Jump shot,22,-196,104,True
+Jerian Grant,4,7,21,0,Step Back Jump shot,13,-116,59,True
+Jerian Grant,2,8,49,1,Step Back Jump shot,20,112,173,True
+Jerian Grant,4,10,44,0,Step Back Jump shot,27,-51,268,False
+Jerian Grant,1,5,22,1,Step Back Jump shot,16,-44,157,True
+Jerian Grant,4,0,0,0,Step Back Jump shot,25,84,241,False
+Jerian Grant,2,7,0,0,Step Back Jump shot,26,-131,228,False
+Jerian Grant,1,10,52,1,Step Back Jump shot,13,-76,115,True
+Jerian Grant,4,4,1,0,Step Back Jump shot,19,71,186,True
+Jerian Grant,1,5,48,0,Step Back Jump shot,17,-88,146,True
+Jerian Grant,2,8,44,1,Step Back Jump shot,12,-129,-1,True
+Jerian Grant,3,0,23,1,Step Back Jump shot,16,-161,21,True
+Jerian Grant,4,11,3,1,Step Back Jump shot,20,-112,174,True
+Jerian Grant,3,1,10,0,Step Back Jump shot,25,87,236,False
+Jerian Grant,4,6,55,1,Step Back Jump shot,16,-18,163,True
+Jerian Grant,2,1,8,1,Step Back Jump shot,22,77,209,True
+Jerian Grant,2,0,33,0,Step Back Jump shot,15,127,95,True
+Jerian Grant,2,6,31,1,Step Back Jump shot,22,114,192,True
+Jerian Grant,3,2,37,0,Step Back Jump shot,21,46,211,True
+Jerian Grant,4,11,22,1,Step Back Jump shot,15,-77,130,True
+Jerian Grant,4,9,11,1,Step Back Jump shot,14,-144,27,True
+Jerian Grant,4,4,46,1,Turnaround Fadeaway Bank Jump Shot,2,21,12,True
+Jerian Grant,4,4,47,0,Turnaround Fadeaway Bank Jump Shot,11,94,62,True
+Jerian Grant,1,0,54,0,Turnaround Fadeaway shot,6,17,61,True
+Jerian Grant,2,0,24,0,Turnaround Fadeaway shot,10,107,7,True
+Jerian Grant,3,0,30,0,Turnaround Fadeaway shot,7,-35,63,True
+Jerian Grant,3,0,1,0,Turnaround Jump Shot,5,-20,52,True

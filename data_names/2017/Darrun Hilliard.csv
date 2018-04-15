@@ -1,0 +1,20 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Darrun Hilliard,4,0,27,0,Cutting Layup Shot,0,3,8,True
+Darrun Hilliard,3,7,1,0,Driving Finger Roll Layup Shot,1,-9,17,True
+Darrun Hilliard,4,8,46,1,Driving Floating Jump Shot,6,6,63,True
+Darrun Hilliard,4,0,52,0,Driving Layup Shot,7,54,47,True
+Darrun Hilliard,4,2,17,1,Driving Layup Shot,1,-11,15,True
+Darrun Hilliard,4,3,53,0,Driving Layup Shot,6,30,53,True
+Darrun Hilliard,2,9,27,0,Driving Layup Shot,6,59,21,True
+Darrun Hilliard,4,10,19,0,Floating Jump shot,7,-13,71,True
+Darrun Hilliard,4,1,22,0,Jump Shot,25,9,259,False
+Darrun Hilliard,2,1,9,0,Jump Shot,25,-125,218,False
+Darrun Hilliard,4,1,7,0,Jump Shot,24,-165,187,False
+Darrun Hilliard,2,0,53,0,Jump Shot,22,-228,10,False
+Darrun Hilliard,4,9,51,0,Jump Shot,25,-205,148,False
+Darrun Hilliard,4,0,24,0,Pullup Jump shot,16,-40,162,True
+Darrun Hilliard,4,0,30,1,Pullup Jump shot,19,-54,188,True
+Darrun Hilliard,4,5,14,0,Pullup Jump shot,25,-119,225,False
+Darrun Hilliard,4,0,18,1,Step Back Jump shot,20,139,146,True
+Darrun Hilliard,4,9,58,1,Step Back Jump shot,16,119,120,True
+Darrun Hilliard,3,2,24,0,Turnaround Jump Shot,10,-14,106,True

@@ -1,0 +1,491 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Marvin Williams,5,2,54,1,Alley Oop Layup shot,2,-21,-1,True
+Marvin Williams,3,7,54,0,Cutting Layup Shot,2,-16,14,True
+Marvin Williams,1,8,5,1,Cutting Layup Shot,1,6,11,True
+Marvin Williams,4,7,33,1,Cutting Layup Shot,1,11,11,True
+Marvin Williams,3,10,50,1,Cutting Layup Shot,1,8,17,True
+Marvin Williams,3,8,56,0,Cutting Layup Shot,1,8,6,True
+Marvin Williams,3,6,39,1,Cutting Layup Shot,1,-14,-1,True
+Marvin Williams,1,10,34,1,Cutting Layup Shot,1,6,16,True
+Marvin Williams,1,3,50,0,Cutting Layup Shot,1,-17,5,True
+Marvin Williams,3,11,13,1,Cutting Layup Shot,2,6,20,True
+Marvin Williams,4,0,18,1,Cutting Layup Shot,1,5,14,True
+Marvin Williams,3,4,30,0,Cutting Layup Shot,0,-1,7,True
+Marvin Williams,1,6,15,1,Cutting Layup Shot,1,14,6,True
+Marvin Williams,4,1,32,1,Cutting Layup Shot,1,-6,12,True
+Marvin Williams,3,10,17,0,Cutting Layup Shot,1,15,11,True
+Marvin Williams,1,7,53,0,Cutting Layup Shot,2,27,-1,True
+Marvin Williams,3,7,24,1,Cutting Layup Shot,1,6,10,True
+Marvin Williams,1,2,38,1,Cutting Layup Shot,1,-11,15,True
+Marvin Williams,2,2,43,0,Cutting Layup Shot,1,-6,11,True
+Marvin Williams,3,7,18,0,Cutting Layup Shot,2,12,19,True
+Marvin Williams,1,11,23,1,Cutting Layup Shot,0,4,5,True
+Marvin Williams,3,7,13,0,Cutting Layup Shot,1,13,15,True
+Marvin Williams,3,9,6,1,Cutting Layup Shot,0,8,2,True
+Marvin Williams,4,7,45,1,Cutting Layup Shot,0,-5,4,True
+Marvin Williams,1,5,16,1,Cutting Layup Shot,1,10,13,True
+Marvin Williams,2,1,10,1,Driving Dunk Shot,1,3,16,True
+Marvin Williams,3,4,15,1,Driving Dunk Shot,1,3,13,True
+Marvin Williams,3,7,4,1,Driving Dunk Shot,1,-8,10,True
+Marvin Williams,3,4,21,1,Driving Finger Roll Layup Shot,1,13,8,True
+Marvin Williams,2,2,57,0,Driving Floating Bank Jump Shot,8,28,77,True
+Marvin Williams,3,9,13,0,Driving Floating Bank Jump Shot,13,-122,57,True
+Marvin Williams,1,10,40,1,Driving Floating Bank Jump Shot,0,6,4,True
+Marvin Williams,3,9,36,1,Driving Floating Bank Jump Shot,3,29,21,True
+Marvin Williams,3,9,56,1,Driving Floating Jump Shot,4,-43,16,True
+Marvin Williams,3,5,13,0,Driving Floating Jump Shot,9,-38,84,True
+Marvin Williams,1,9,59,0,Driving Floating Jump Shot,9,2,95,True
+Marvin Williams,3,5,34,1,Driving Floating Jump Shot,10,-101,40,True
+Marvin Williams,3,10,41,0,Driving Floating Jump Shot,12,-44,112,True
+Marvin Williams,1,4,55,0,Driving Floating Jump Shot,10,16,104,True
+Marvin Williams,2,2,19,0,Driving Floating Jump Shot,7,-55,55,True
+Marvin Williams,2,1,37,0,Driving Floating Jump Shot,9,20,96,True
+Marvin Williams,1,10,20,0,Driving Floating Jump Shot,3,27,23,True
+Marvin Williams,3,8,38,1,Driving Floating Jump Shot,5,-40,38,True
+Marvin Williams,4,4,34,0,Driving Floating Jump Shot,7,-2,75,True
+Marvin Williams,1,11,13,1,Driving Floating Jump Shot,9,-38,88,True
+Marvin Williams,1,7,16,0,Driving Floating Jump Shot,2,3,27,True
+Marvin Williams,1,7,57,1,Driving Floating Jump Shot,5,-5,55,True
+Marvin Williams,1,5,1,0,Driving Floating Jump Shot,10,-9,103,True
+Marvin Williams,1,6,21,1,Driving Floating Jump Shot,8,-6,83,True
+Marvin Williams,3,9,57,0,Driving Hook Shot,7,3,79,True
+Marvin Williams,3,10,16,0,Driving Layup Shot,4,32,34,True
+Marvin Williams,2,7,34,0,Driving Layup Shot,1,9,8,True
+Marvin Williams,1,6,18,0,Driving Layup Shot,3,-3,30,True
+Marvin Williams,2,1,45,0,Driving Layup Shot,1,2,19,True
+Marvin Williams,2,10,55,1,Driving Layup Shot,1,-11,5,True
+Marvin Williams,3,7,53,1,Driving Layup Shot,0,-5,4,True
+Marvin Williams,1,9,12,0,Driving Layup Shot,1,6,15,True
+Marvin Williams,3,6,14,0,Driving Layup Shot,3,38,7,True
+Marvin Williams,2,1,57,1,Driving Layup Shot,9,-9,99,True
+Marvin Williams,3,7,49,1,Driving Layup Shot,1,2,11,True
+Marvin Williams,3,9,28,0,Driving Layup Shot,2,-6,28,True
+Marvin Williams,1,9,55,0,Driving Layup Shot,2,-4,22,True
+Marvin Williams,1,9,32,1,Driving Layup Shot,1,-9,8,True
+Marvin Williams,1,10,44,1,Driving Layup Shot,2,10,21,True
+Marvin Williams,1,7,22,0,Driving Layup Shot,2,24,11,True
+Marvin Williams,2,7,35,1,Dunk Shot,1,-2,16,True
+Marvin Williams,1,3,48,0,Fadeaway Jump Shot,16,-116,111,True
+Marvin Williams,1,6,42,1,Floating Jump shot,7,-28,69,True
+Marvin Williams,4,2,51,0,Floating Jump shot,17,-116,127,True
+Marvin Williams,1,11,5,0,Floating Jump shot,8,-38,71,True
+Marvin Williams,1,11,43,0,Floating Jump shot,8,31,81,True
+Marvin Williams,3,4,17,1,Floating Jump shot,10,5,109,True
+Marvin Williams,1,8,4,0,Floating Jump shot,6,-61,31,True
+Marvin Williams,3,11,46,0,Floating Jump shot,10,-103,24,True
+Marvin Williams,4,3,2,0,Floating Jump shot,6,-41,48,True
+Marvin Williams,1,11,0,1,Floating Jump shot,16,30,164,True
+Marvin Williams,2,2,55,1,Floating Jump shot,6,-9,65,True
+Marvin Williams,1,8,25,1,Floating Jump shot,4,-41,27,True
+Marvin Williams,4,3,34,1,Floating Jump shot,6,-40,45,True
+Marvin Williams,1,5,26,1,Floating Jump shot,3,-32,21,True
+Marvin Williams,1,10,25,1,Floating Jump shot,10,68,85,True
+Marvin Williams,1,7,47,1,Floating Jump shot,0,9,1,True
+Marvin Williams,3,6,54,1,Floating Jump shot,11,33,110,True
+Marvin Williams,2,3,14,1,Floating Jump shot,11,-112,-13,True
+Marvin Williams,1,11,9,1,Floating Jump shot,6,49,36,True
+Marvin Williams,3,7,28,1,Floating Jump shot,6,42,55,True
+Marvin Williams,3,9,18,0,Floating Jump shot,6,50,36,True
+Marvin Williams,1,6,9,1,Floating Jump shot,12,62,109,True
+Marvin Williams,3,11,47,1,Floating Jump shot,7,70,36,True
+Marvin Williams,4,0,49,0,Hook Shot,9,5,93,True
+Marvin Williams,1,9,40,1,Hook Shot,6,-27,63,True
+Marvin Williams,1,4,31,1,Hook Shot,6,-33,55,True
+Marvin Williams,1,8,40,1,Jump Bank Shot,8,84,10,True
+Marvin Williams,3,3,6,0,Jump Bank Shot,14,-98,113,True
+Marvin Williams,3,9,20,0,Jump Bank Shot,11,112,39,True
+Marvin Williams,2,4,25,0,Jump Shot,28,150,239,False
+Marvin Williams,1,5,31,0,Jump Shot,19,8,199,True
+Marvin Williams,3,4,28,0,Jump Shot,23,-235,-5,False
+Marvin Williams,4,0,34,0,Jump Shot,23,-228,61,False
+Marvin Williams,2,3,28,0,Jump Shot,26,44,263,False
+Marvin Williams,4,3,56,0,Jump Shot,23,231,21,False
+Marvin Williams,2,3,12,0,Jump Shot,26,93,246,False
+Marvin Williams,3,7,21,1,Jump Shot,25,-172,193,False
+Marvin Williams,2,3,46,0,Jump Shot,24,229,92,False
+Marvin Williams,4,1,3,1,Jump Shot,26,-58,256,False
+Marvin Williams,1,5,56,1,Jump Shot,26,-114,240,False
+Marvin Williams,3,10,14,0,Jump Shot,28,73,274,False
+Marvin Williams,2,10,17,1,Jump Shot,23,-232,8,False
+Marvin Williams,3,7,55,0,Jump Shot,23,-227,75,False
+Marvin Williams,3,11,46,0,Jump Shot,25,-111,230,False
+Marvin Williams,4,1,26,0,Jump Shot,21,-176,117,True
+Marvin Williams,1,11,18,0,Jump Shot,25,-159,199,False
+Marvin Williams,1,9,43,0,Jump Shot,6,-2,60,True
+Marvin Williams,3,5,31,1,Jump Shot,25,-117,230,False
+Marvin Williams,1,10,25,0,Jump Shot,22,227,-3,False
+Marvin Williams,2,1,18,1,Jump Shot,28,-61,277,False
+Marvin Williams,2,0,8,1,Jump Shot,9,-41,84,True
+Marvin Williams,1,10,48,1,Jump Shot,25,-204,149,False
+Marvin Williams,4,5,49,0,Jump Shot,25,-160,203,False
+Marvin Williams,1,9,50,0,Jump Shot,23,-236,-26,False
+Marvin Williams,2,2,49,0,Jump Shot,25,146,207,False
+Marvin Williams,1,8,54,0,Jump Shot,25,139,217,False
+Marvin Williams,1,5,14,0,Jump Shot,26,-121,232,False
+Marvin Williams,3,8,10,0,Jump Shot,25,-157,197,False
+Marvin Williams,2,2,46,1,Jump Shot,12,-122,28,True
+Marvin Williams,3,10,40,1,Jump Shot,27,-155,222,False
+Marvin Williams,3,8,48,1,Jump Shot,23,-231,-1,False
+Marvin Williams,1,8,39,1,Jump Shot,25,-224,126,False
+Marvin Williams,2,6,6,1,Jump Shot,13,128,46,True
+Marvin Williams,3,11,23,0,Jump Shot,23,226,73,False
+Marvin Williams,4,1,23,1,Jump Shot,25,198,168,False
+Marvin Williams,2,0,15,1,Jump Shot,25,156,200,False
+Marvin Williams,2,1,12,1,Jump Shot,26,18,267,False
+Marvin Williams,3,8,15,0,Jump Shot,23,232,40,False
+Marvin Williams,1,4,47,1,Jump Shot,22,222,6,False
+Marvin Williams,3,4,56,0,Jump Shot,30,-187,238,False
+Marvin Williams,3,3,57,1,Jump Shot,30,125,274,False
+Marvin Williams,1,6,4,1,Jump Shot,25,-212,137,False
+Marvin Williams,1,4,57,0,Jump Shot,23,228,48,False
+Marvin Williams,1,8,41,1,Jump Shot,27,-150,230,False
+Marvin Williams,1,7,45,1,Jump Shot,26,18,269,False
+Marvin Williams,1,8,13,0,Jump Shot,23,235,21,False
+Marvin Williams,3,6,58,0,Jump Shot,29,-65,289,False
+Marvin Williams,2,2,36,0,Jump Shot,25,-213,141,False
+Marvin Williams,1,8,41,1,Jump Shot,26,-225,131,False
+Marvin Williams,2,2,21,0,Jump Shot,27,-144,237,False
+Marvin Williams,1,4,16,1,Jump Shot,26,-180,196,False
+Marvin Williams,3,9,9,1,Jump Shot,26,77,257,False
+Marvin Williams,1,10,59,1,Jump Shot,23,-237,36,False
+Marvin Williams,3,8,32,1,Jump Shot,22,-228,25,False
+Marvin Williams,1,10,50,0,Jump Shot,24,226,94,False
+Marvin Williams,1,5,12,1,Jump Shot,25,-110,232,False
+Marvin Williams,4,3,4,1,Jump Shot,24,66,239,False
+Marvin Williams,1,5,47,0,Jump Shot,23,-235,-22,False
+Marvin Williams,3,4,0,1,Jump Shot,25,-139,208,False
+Marvin Williams,1,9,36,0,Jump Shot,25,5,252,False
+Marvin Williams,1,4,13,0,Jump Shot,22,227,37,False
+Marvin Williams,1,10,29,1,Jump Shot,26,-51,256,False
+Marvin Williams,3,5,30,0,Jump Shot,7,16,75,True
+Marvin Williams,3,6,54,0,Jump Shot,21,-187,111,True
+Marvin Williams,2,2,0,0,Jump Shot,26,-40,260,False
+Marvin Williams,3,4,30,0,Jump Shot,23,-236,-10,False
+Marvin Williams,2,3,7,1,Jump Shot,28,159,237,False
+Marvin Williams,3,11,44,0,Jump Shot,24,-202,146,False
+Marvin Williams,1,8,6,0,Jump Shot,22,-226,-10,False
+Marvin Williams,1,1,35,0,Jump Shot,7,24,68,True
+Marvin Williams,1,11,2,0,Jump Shot,24,-230,84,False
+Marvin Williams,3,10,13,0,Jump Shot,9,-89,20,True
+Marvin Williams,1,7,26,1,Jump Shot,9,-45,88,True
+Marvin Williams,1,3,57,0,Jump Shot,25,133,221,False
+Marvin Williams,3,9,17,0,Jump Shot,25,-206,157,False
+Marvin Williams,3,6,53,1,Jump Shot,25,117,221,False
+Marvin Williams,1,7,53,1,Jump Shot,25,-164,197,False
+Marvin Williams,3,10,7,0,Jump Shot,23,229,53,False
+Marvin Williams,3,6,40,0,Jump Shot,26,134,224,False
+Marvin Williams,3,7,20,1,Jump Shot,23,237,19,False
+Marvin Williams,1,9,42,0,Jump Shot,26,-150,215,False
+Marvin Williams,2,0,44,0,Jump Shot,25,-63,251,False
+Marvin Williams,2,4,18,0,Jump Shot,24,226,82,False
+Marvin Williams,2,4,10,0,Jump Shot,22,223,11,False
+Marvin Williams,1,11,7,0,Jump Shot,26,127,232,False
+Marvin Williams,3,7,14,0,Jump Shot,27,90,256,False
+Marvin Williams,2,2,5,0,Jump Shot,25,-102,236,False
+Marvin Williams,3,4,38,0,Jump Shot,24,237,52,False
+Marvin Williams,3,4,3,0,Jump Shot,11,-35,106,True
+Marvin Williams,3,10,55,0,Jump Shot,25,-94,235,False
+Marvin Williams,1,9,52,0,Jump Shot,23,-234,-23,False
+Marvin Williams,1,6,6,0,Jump Shot,23,-221,64,False
+Marvin Williams,2,1,32,0,Jump Shot,26,228,140,False
+Marvin Williams,4,5,22,0,Jump Shot,25,-127,220,False
+Marvin Williams,4,1,5,0,Jump Shot,8,68,56,True
+Marvin Williams,1,6,36,0,Jump Shot,25,-53,252,False
+Marvin Williams,1,7,5,0,Jump Shot,26,96,247,False
+Marvin Williams,3,4,36,0,Jump Shot,25,-210,152,False
+Marvin Williams,3,11,43,0,Jump Shot,17,147,89,True
+Marvin Williams,1,3,46,1,Jump Shot,25,-192,164,False
+Marvin Williams,3,8,31,0,Jump Shot,25,145,210,False
+Marvin Williams,4,4,7,1,Jump Shot,24,-58,241,False
+Marvin Williams,1,9,10,1,Jump Shot,27,-94,259,False
+Marvin Williams,2,3,44,0,Jump Shot,27,-169,220,False
+Marvin Williams,1,3,3,1,Jump Shot,24,-230,89,False
+Marvin Williams,2,1,12,0,Jump Shot,26,-132,227,False
+Marvin Williams,1,8,59,0,Jump Shot,25,-186,178,False
+Marvin Williams,3,6,23,1,Jump Shot,25,-114,227,False
+Marvin Williams,3,6,33,0,Jump Shot,25,-30,258,False
+Marvin Williams,1,7,11,1,Jump Shot,23,228,31,False
+Marvin Williams,3,3,54,0,Jump Shot,28,-133,256,False
+Marvin Williams,3,5,40,0,Jump Shot,25,-187,180,False
+Marvin Williams,1,11,13,1,Jump Shot,25,117,231,False
+Marvin Williams,3,7,52,1,Jump Shot,26,-175,200,False
+Marvin Williams,1,10,18,1,Jump Shot,23,-226,58,False
+Marvin Williams,2,2,37,0,Jump Shot,25,-156,204,False
+Marvin Williams,1,4,45,1,Jump Shot,29,109,278,False
+Marvin Williams,1,3,29,0,Jump Shot,26,-218,142,False
+Marvin Williams,1,6,26,1,Jump Shot,25,5,253,False
+Marvin Williams,4,1,41,0,Jump Shot,27,136,243,False
+Marvin Williams,1,5,6,0,Jump Shot,26,-136,228,False
+Marvin Williams,4,3,44,0,Jump Shot,26,154,214,False
+Marvin Williams,3,7,49,0,Jump Shot,22,185,122,True
+Marvin Williams,1,3,39,0,Jump Shot,26,-192,181,False
+Marvin Williams,2,4,6,0,Jump Shot,25,154,200,False
+Marvin Williams,1,10,27,0,Jump Shot,22,-228,9,False
+Marvin Williams,1,6,58,0,Jump Shot,22,176,141,True
+Marvin Williams,3,8,11,1,Jump Shot,24,41,246,False
+Marvin Williams,1,5,18,0,Jump Shot,26,-80,253,False
+Marvin Williams,1,3,27,1,Jump Shot,26,51,256,False
+Marvin Williams,1,10,21,1,Jump Shot,23,-222,63,False
+Marvin Williams,1,9,31,0,Jump Shot,23,230,13,False
+Marvin Williams,2,1,54,0,Jump Shot,27,168,222,False
+Marvin Williams,1,8,1,1,Jump Shot,23,230,60,False
+Marvin Williams,2,5,45,0,Jump Shot,25,-61,249,False
+Marvin Williams,3,4,49,1,Jump Shot,25,47,252,False
+Marvin Williams,3,10,54,1,Jump Shot,22,-225,8,False
+Marvin Williams,3,5,35,1,Jump Shot,24,-215,117,False
+Marvin Williams,2,3,51,1,Jump Shot,25,178,178,False
+Marvin Williams,1,6,52,0,Jump Shot,24,-231,70,False
+Marvin Williams,3,7,53,0,Jump Shot,24,-201,143,False
+Marvin Williams,3,7,21,0,Jump Shot,24,-135,205,False
+Marvin Williams,4,3,51,0,Jump Shot,23,-230,16,False
+Marvin Williams,4,7,4,1,Jump Shot,25,-51,248,False
+Marvin Williams,3,0,37,0,Jump Shot,25,-151,205,False
+Marvin Williams,1,8,9,1,Jump Shot,23,-229,31,False
+Marvin Williams,5,2,49,0,Jump Shot,25,-107,226,False
+Marvin Williams,3,6,0,1,Jump Shot,26,-166,211,False
+Marvin Williams,1,3,7,1,Jump Shot,26,52,257,False
+Marvin Williams,2,4,1,0,Jump Shot,10,-45,92,True
+Marvin Williams,1,4,17,0,Jump Shot,24,-49,244,False
+Marvin Williams,2,6,13,0,Jump Shot,24,228,80,False
+Marvin Williams,1,9,17,0,Jump Shot,26,155,210,False
+Marvin Williams,1,8,35,0,Jump Shot,23,231,6,False
+Marvin Williams,3,10,48,1,Jump Shot,25,-5,252,False
+Marvin Williams,3,5,55,1,Jump Shot,20,-196,66,True
+Marvin Williams,1,10,18,1,Jump Shot,25,-177,183,False
+Marvin Williams,3,9,45,0,Jump Shot,23,-233,9,False
+Marvin Williams,3,10,36,1,Jump Shot,20,-158,124,True
+Marvin Williams,3,3,11,1,Jump Shot,23,-239,20,False
+Marvin Williams,1,8,21,1,Jump Shot,25,-74,246,False
+Marvin Williams,2,0,53,0,Jump Shot,24,-103,225,False
+Marvin Williams,1,7,45,1,Jump Shot,25,50,252,False
+Marvin Williams,3,9,58,0,Jump Shot,28,-90,268,False
+Marvin Williams,2,2,3,1,Jump Shot,24,-226,90,False
+Marvin Williams,1,2,50,1,Jump Shot,29,110,271,False
+Marvin Williams,3,2,12,1,Jump Shot,25,52,248,False
+Marvin Williams,3,2,49,0,Jump Shot,26,107,238,False
+Marvin Williams,3,2,43,1,Jump Shot,25,114,228,False
+Marvin Williams,1,9,15,0,Jump Shot,22,-225,10,False
+Marvin Williams,1,3,33,1,Jump Shot,22,-226,4,False
+Marvin Williams,1,1,57,1,Jump Shot,26,112,242,False
+Marvin Williams,1,2,57,0,Jump Shot,29,-148,253,False
+Marvin Williams,5,3,56,0,Jump Shot,26,119,242,False
+Marvin Williams,2,2,45,0,Jump Shot,12,-107,63,True
+Marvin Williams,1,3,23,1,Jump Shot,26,183,188,False
+Marvin Williams,3,11,51,0,Jump Shot,25,99,239,False
+Marvin Williams,2,0,31,0,Jump Shot,28,-71,281,False
+Marvin Williams,3,3,22,0,Jump Shot,24,9,248,False
+Marvin Williams,1,10,32,0,Jump Shot,23,-230,62,False
+Marvin Williams,1,5,35,0,Jump Shot,1,13,12,True
+Marvin Williams,4,5,3,1,Jump Shot,23,234,38,False
+Marvin Williams,1,9,22,0,Jump Shot,25,-174,188,False
+Marvin Williams,4,4,17,0,Jump Shot,12,39,114,True
+Marvin Williams,3,5,6,1,Jump Shot,25,-44,251,False
+Marvin Williams,4,2,5,0,Jump Shot,23,-231,13,False
+Marvin Williams,3,3,59,1,Jump Shot,23,236,1,False
+Marvin Williams,1,10,57,0,Jump Shot,5,58,6,True
+Marvin Williams,1,7,21,0,Jump Shot,26,-11,262,False
+Marvin Williams,3,6,16,0,Jump Shot,23,-230,0,False
+Marvin Williams,3,6,52,1,Jump Shot,25,-20,257,False
+Marvin Williams,3,8,37,1,Jump Shot,26,-125,236,False
+Marvin Williams,4,4,7,0,Jump Shot,26,-142,227,False
+Marvin Williams,3,5,5,0,Jump Shot,24,-234,62,False
+Marvin Williams,3,6,3,0,Jump Shot,23,223,86,False
+Marvin Williams,1,7,50,1,Jump Shot,26,-98,244,False
+Marvin Williams,1,6,31,0,Jump Shot,24,-6,249,False
+Marvin Williams,3,7,14,1,Jump Shot,25,96,236,False
+Marvin Williams,2,4,48,0,Jump Shot,25,0,259,False
+Marvin Williams,3,9,45,1,Jump Shot,23,234,43,False
+Marvin Williams,1,8,52,1,Jump Shot,25,-124,220,False
+Marvin Williams,3,11,29,0,Jump Shot,25,149,210,False
+Marvin Williams,4,3,42,0,Jump Shot,22,-225,12,False
+Marvin Williams,4,3,24,1,Jump Shot,25,-96,232,False
+Marvin Williams,1,9,49,0,Jump Shot,29,-61,286,False
+Marvin Williams,2,2,22,0,Jump Shot,23,-235,26,False
+Marvin Williams,1,6,5,1,Jump Shot,22,227,12,False
+Marvin Williams,4,0,58,0,Jump Shot,21,-129,174,True
+Marvin Williams,3,6,54,1,Jump Shot,23,231,8,False
+Marvin Williams,3,6,16,1,Jump Shot,25,-109,225,False
+Marvin Williams,4,2,50,0,Jump Shot,24,-55,241,False
+Marvin Williams,1,7,18,1,Jump Shot,20,47,196,True
+Marvin Williams,1,11,41,1,Jump Shot,25,85,244,False
+Marvin Williams,1,6,5,1,Jump Shot,23,231,8,False
+Marvin Williams,3,6,46,0,Jump Shot,23,-223,64,False
+Marvin Williams,1,6,52,0,Jump Shot,23,-236,17,False
+Marvin Williams,4,6,58,1,Jump Shot,22,226,38,False
+Marvin Williams,2,2,29,0,Jump Shot,23,232,27,False
+Marvin Williams,4,1,2,0,Jump Shot,25,220,132,False
+Marvin Williams,1,5,28,1,Jump Shot,23,-233,-4,False
+Marvin Williams,4,0,8,0,Jump Shot,23,226,44,False
+Marvin Williams,4,5,52,0,Jump Shot,10,-100,-9,True
+Marvin Williams,3,10,17,0,Jump Shot,26,-40,264,False
+Marvin Williams,1,10,43,0,Jump Shot,17,-151,92,True
+Marvin Williams,1,7,56,0,Jump Shot,26,43,266,False
+Marvin Williams,3,11,7,0,Jump Shot,22,-229,13,False
+Marvin Williams,3,6,44,0,Jump Shot,24,133,211,False
+Marvin Williams,3,9,9,0,Jump Shot,26,14,265,False
+Marvin Williams,3,11,12,1,Jump Shot,24,-226,81,False
+Marvin Williams,3,10,23,1,Jump Shot,23,234,43,False
+Marvin Williams,1,7,39,0,Jump Shot,24,32,245,False
+Marvin Williams,4,2,33,0,Jump Shot,24,-220,96,False
+Marvin Williams,1,11,25,1,Jump Shot,25,-196,163,False
+Marvin Williams,3,10,11,0,Jump Shot,20,104,176,True
+Marvin Williams,3,2,37,1,Jump Shot,23,236,-11,False
+Marvin Williams,3,3,16,0,Jump Shot,20,-200,14,True
+Marvin Williams,4,1,8,0,Jump Shot,25,-169,186,False
+Marvin Williams,1,10,58,1,Jump Shot,26,-33,266,False
+Marvin Williams,2,4,54,0,Jump Shot,25,-95,235,False
+Marvin Williams,4,1,18,0,Jump Shot,26,7,268,False
+Marvin Williams,3,10,21,0,Jump Shot,24,-217,119,False
+Marvin Williams,1,4,48,1,Jump Shot,26,39,262,False
+Marvin Williams,4,8,38,0,Jump Shot,22,-226,11,False
+Marvin Williams,3,11,2,0,Jump Shot,27,-147,231,False
+Marvin Williams,3,5,42,1,Jump Shot,26,-115,236,False
+Marvin Williams,4,7,21,1,Jump Shot,22,223,39,False
+Marvin Williams,4,8,33,0,Jump Shot,23,-236,15,False
+Marvin Williams,3,9,35,1,Jump Shot,23,230,-8,False
+Marvin Williams,3,6,22,0,Jump Shot,23,-237,10,False
+Marvin Williams,1,10,48,0,Jump Shot,24,-138,198,False
+Marvin Williams,3,11,27,1,Jump Shot,24,-95,226,False
+Marvin Williams,1,9,29,1,Jump Shot,25,-90,237,False
+Marvin Williams,1,6,22,1,Jump Shot,26,163,209,False
+Marvin Williams,3,4,28,0,Jump Shot,25,141,213,False
+Marvin Williams,1,8,31,1,Jump Shot,26,-30,263,False
+Marvin Williams,2,2,25,0,Jump Shot,28,-101,262,False
+Marvin Williams,3,11,28,1,Jump Shot,25,-189,172,False
+Marvin Williams,2,2,14,1,Jump Shot,25,-106,233,False
+Marvin Williams,2,3,7,1,Jump Shot,25,-111,230,False
+Marvin Williams,1,6,9,0,Jump Shot,22,-228,16,False
+Marvin Williams,2,3,50,0,Jump Shot,24,70,238,False
+Marvin Williams,3,10,0,0,Jump Shot,22,-226,8,False
+Marvin Williams,1,6,22,0,Jump Shot,10,-47,94,True
+Marvin Williams,1,6,40,0,Jump Shot,24,-230,89,False
+Marvin Williams,2,0,30,0,Jump Shot,4,-6,45,True
+Marvin Williams,3,8,32,1,Jump Shot,27,-144,232,False
+Marvin Williams,4,0,32,0,Jump Shot,26,117,238,False
+Marvin Williams,2,3,7,0,Jump Shot,28,101,268,False
+Marvin Williams,1,7,8,0,Jump Shot,26,123,231,False
+Marvin Williams,3,8,56,0,Jump Shot,26,-188,182,False
+Marvin Williams,1,7,58,0,Jump Shot,14,139,47,True
+Marvin Williams,3,8,17,1,Jump Shot,27,86,256,False
+Marvin Williams,3,4,19,0,Jump Shot,30,-143,275,False
+Marvin Williams,1,7,43,1,Jump Shot,25,-210,138,False
+Marvin Williams,3,9,6,0,Jump Shot,23,230,24,False
+Marvin Williams,3,9,33,0,Jump Shot,26,218,142,False
+Marvin Williams,2,2,18,0,Jump Shot,27,-49,273,False
+Marvin Williams,1,9,41,0,Jump Shot,26,-105,240,False
+Marvin Williams,4,1,35,0,Jump Shot,27,85,258,False
+Marvin Williams,3,5,52,1,Jump Shot,25,206,154,False
+Marvin Williams,1,6,18,0,Jump Shot,24,51,242,False
+Marvin Williams,4,2,42,1,Jump Shot,20,-131,152,True
+Marvin Williams,3,11,21,0,Jump Shot,24,-203,145,False
+Marvin Williams,4,3,43,0,Jump Shot,24,223,99,False
+Marvin Williams,2,3,10,0,Jump Shot,24,-204,143,False
+Marvin Williams,1,5,15,0,Layup Shot,2,11,20,True
+Marvin Williams,2,1,42,0,Layup Shot,4,0,41,True
+Marvin Williams,3,4,55,0,Layup Shot,2,-11,27,True
+Marvin Williams,3,7,36,0,Layup Shot,1,-4,15,True
+Marvin Williams,1,8,10,1,Layup Shot,2,-13,20,True
+Marvin Williams,1,9,8,1,Layup Shot,1,4,10,True
+Marvin Williams,1,5,49,1,Layup Shot,8,-89,-3,True
+Marvin Williams,1,9,48,1,Layup Shot,1,-8,12,True
+Marvin Williams,1,3,32,0,Layup Shot,2,4,29,True
+Marvin Williams,3,10,43,0,Layup Shot,2,11,20,True
+Marvin Williams,4,2,3,0,Layup Shot,2,-19,13,True
+Marvin Williams,2,5,13,0,Layup Shot,2,13,26,True
+Marvin Williams,3,11,31,0,Layup Shot,0,-4,3,True
+Marvin Williams,1,8,25,1,Layup Shot,0,5,6,True
+Marvin Williams,2,0,7,1,Layup Shot,2,-2,26,True
+Marvin Williams,1,4,16,1,Layup Shot,2,5,21,True
+Marvin Williams,1,3,31,1,Layup Shot,0,2,6,True
+Marvin Williams,1,8,52,1,Layup Shot,1,4,10,True
+Marvin Williams,2,1,44,0,Layup Shot,1,8,7,True
+Marvin Williams,1,9,50,1,Layup Shot,2,26,11,True
+Marvin Williams,1,7,36,0,Layup Shot,1,6,13,True
+Marvin Williams,3,10,10,0,Layup Shot,1,-2,13,True
+Marvin Williams,3,5,9,0,Layup Shot,4,-44,6,True
+Marvin Williams,2,3,27,0,Layup Shot,1,3,13,True
+Marvin Williams,2,9,4,0,Layup Shot,2,-5,23,True
+Marvin Williams,2,4,31,1,Layup Shot,1,9,17,True
+Marvin Williams,2,5,47,1,Layup Shot,1,11,8,True
+Marvin Williams,3,9,6,0,Layup Shot,3,29,22,True
+Marvin Williams,1,9,41,0,Layup Shot,2,3,29,True
+Marvin Williams,4,1,53,0,Layup Shot,2,-1,25,True
+Marvin Williams,2,4,37,1,Layup Shot,1,-6,15,True
+Marvin Williams,4,4,45,0,Layup Shot,8,40,79,True
+Marvin Williams,3,7,28,0,Layup Shot,3,36,14,True
+Marvin Williams,3,3,15,0,Layup Shot,9,-78,60,True
+Marvin Williams,2,0,37,1,Layup Shot,2,-2,20,True
+Marvin Williams,3,3,43,0,Layup Shot,1,5,9,True
+Marvin Williams,2,1,42,1,Layup Shot,1,5,13,True
+Marvin Williams,1,3,38,1,Layup Shot,2,19,18,True
+Marvin Williams,1,6,45,0,Layup Shot,1,-2,11,True
+Marvin Williams,1,4,3,1,Layup Shot,2,-18,22,True
+Marvin Williams,3,8,48,1,Layup Shot,4,19,41,True
+Marvin Williams,3,7,30,0,Layup Shot,3,-29,10,True
+Marvin Williams,3,7,50,0,Layup Shot,1,16,5,True
+Marvin Williams,2,2,48,1,Layup Shot,1,-3,17,True
+Marvin Williams,4,5,23,0,Layup Shot,1,-9,15,True
+Marvin Williams,1,3,20,0,Layup Shot,1,-2,16,True
+Marvin Williams,2,5,28,0,Pullup Jump shot,26,-136,233,False
+Marvin Williams,1,7,52,1,Pullup Jump shot,25,-164,190,False
+Marvin Williams,3,11,22,1,Pullup Jump shot,20,-4,203,True
+Marvin Williams,3,10,46,0,Pullup Jump shot,24,119,218,False
+Marvin Williams,1,5,9,1,Pullup Jump shot,26,103,243,False
+Marvin Williams,3,10,37,1,Putback Layup Shot,1,11,11,True
+Marvin Williams,1,11,38,1,Putback Layup Shot,2,-8,23,True
+Marvin Williams,2,1,35,0,Putback Layup Shot,0,0,-6,True
+Marvin Williams,3,7,12,0,Putback Layup Shot,0,0,-6,True
+Marvin Williams,2,2,24,1,Putback Layup Shot,0,0,-6,True
+Marvin Williams,1,5,12,1,Putback Layup Shot,0,0,-6,True
+Marvin Williams,1,7,38,0,Putback Layup Shot,0,0,-6,True
+Marvin Williams,4,2,35,1,Putback Layup Shot,0,0,-6,True
+Marvin Williams,4,6,24,1,Putback Layup Shot,0,0,-6,True
+Marvin Williams,1,4,19,1,Putback Layup Shot,2,12,24,True
+Marvin Williams,4,3,50,0,Reverse Layup Shot,0,-2,4,True
+Marvin Williams,1,8,49,1,Reverse Layup Shot,0,0,-6,True
+Marvin Williams,3,8,58,1,Reverse Layup Shot,0,8,4,True
+Marvin Williams,3,2,5,1,Reverse Layup Shot,0,5,7,True
+Marvin Williams,5,3,35,1,Reverse Layup Shot,2,-18,10,True
+Marvin Williams,3,8,24,1,Reverse Layup Shot,1,7,17,True
+Marvin Williams,1,11,27,0,Reverse Layup Shot,2,-12,18,True
+Marvin Williams,3,8,6,1,Running Finger Roll Layup Shot,1,2,12,True
+Marvin Williams,2,0,0,0,Running Jump Shot,28,-131,248,False
+Marvin Williams,1,10,12,1,Running Jump Shot,8,63,58,True
+Marvin Williams,1,4,25,1,Running Jump Shot,23,-230,68,False
+Marvin Williams,3,6,50,0,Running Jump Shot,16,-126,111,True
+Marvin Williams,1,9,44,0,Running Jump Shot,8,-6,84,True
+Marvin Williams,1,7,6,1,Running Layup Shot,0,-2,7,True
+Marvin Williams,3,9,33,1,Running Layup Shot,2,1,27,True
+Marvin Williams,1,11,19,1,Running Layup Shot,0,4,-3,True
+Marvin Williams,3,5,9,1,Tip Layup Shot,0,0,-6,True
+Marvin Williams,1,9,49,0,Tip Layup Shot,0,0,-6,True
+Marvin Williams,3,5,23,0,Tip Layup Shot,0,0,-6,True
+Marvin Williams,3,5,42,1,Tip Layup Shot,0,0,-6,True
+Marvin Williams,3,10,15,0,Tip Layup Shot,0,3,7,True
+Marvin Williams,3,5,16,0,Tip Layup Shot,0,0,-6,True
+Marvin Williams,4,5,31,1,Tip Layup Shot,0,0,-6,True
+Marvin Williams,2,1,58,0,Tip Layup Shot,0,0,-6,True
+Marvin Williams,3,8,15,0,Tip Layup Shot,0,0,-6,True
+Marvin Williams,1,2,35,0,Tip Layup Shot,1,-6,-9,True
+Marvin Williams,1,4,44,0,Tip Layup Shot,0,0,-6,True
+Marvin Williams,1,7,12,1,Tip Layup Shot,0,0,-6,True
+Marvin Williams,2,7,42,1,Tip Layup Shot,0,0,-6,True
+Marvin Williams,2,1,47,1,Turnaround Bank Hook Shot,6,62,27,True
+Marvin Williams,3,10,57,1,Turnaround Fadeaway Bank Jump Shot,8,56,62,True
+Marvin Williams,2,2,48,1,Turnaround Fadeaway Bank Jump Shot,10,93,41,True
+Marvin Williams,4,3,39,1,Turnaround Fadeaway shot,10,65,77,True
+Marvin Williams,3,5,18,0,Turnaround Fadeaway shot,10,97,26,True
+Marvin Williams,3,9,12,1,Turnaround Fadeaway shot,18,114,141,True
+Marvin Williams,2,1,6,1,Turnaround Hook Shot,5,-46,37,True
+Marvin Williams,1,6,58,0,Turnaround Hook Shot,6,13,61,True
+Marvin Williams,1,11,34,1,Turnaround Jump Shot,3,14,28,True
+Marvin Williams,1,9,3,0,Turnaround Jump Shot,9,96,17,True
+Marvin Williams,3,7,34,1,Turnaround Jump Shot,9,-90,6,True
+Marvin Williams,1,11,6,0,Turnaround Jump Shot,7,-69,34,True
+Marvin Williams,3,10,51,1,Turnaround Jump Shot,11,38,108,True
+Marvin Williams,2,2,54,1,Turnaround Jump Shot,8,59,65,True
+Marvin Williams,1,11,14,0,Turnaround Jump Shot,14,136,38,True
+Marvin Williams,2,3,43,0,Turnaround Jump Shot,10,98,27,True
+Marvin Williams,1,10,23,1,Turnaround Jump Shot,9,-61,71,True
+Marvin Williams,1,7,25,1,Turnaround Jump Shot,7,34,63,True
+Marvin Williams,1,8,13,0,Turnaround Jump Shot,9,-85,36,True

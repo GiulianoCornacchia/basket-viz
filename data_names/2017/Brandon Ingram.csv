@@ -1,0 +1,703 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Brandon Ingram,2,4,27,1,Alley Oop Dunk Shot,0,6,4,True
+Brandon Ingram,4,8,11,1,Alley Oop Dunk Shot,0,2,8,True
+Brandon Ingram,1,11,21,1,Alley Oop Dunk Shot,1,-8,6,True
+Brandon Ingram,3,2,36,1,Alley Oop Dunk Shot,1,6,10,True
+Brandon Ingram,2,3,32,1,Alley Oop Dunk Shot,2,7,22,True
+Brandon Ingram,3,3,0,0,Alley Oop Layup shot,3,-29,12,True
+Brandon Ingram,2,1,47,1,Alley Oop Layup shot,2,-24,8,True
+Brandon Ingram,2,1,4,1,Alley Oop Layup shot,2,1,24,True
+Brandon Ingram,2,2,52,1,Alley Oop Layup shot,2,-1,22,True
+Brandon Ingram,3,11,29,1,Alley Oop Layup shot,1,7,13,True
+Brandon Ingram,3,9,1,1,Cutting Dunk Shot,2,2,25,True
+Brandon Ingram,3,8,42,1,Cutting Dunk Shot,0,-6,1,True
+Brandon Ingram,3,3,20,1,Cutting Dunk Shot,1,12,4,True
+Brandon Ingram,2,1,54,1,Cutting Dunk Shot,1,12,5,True
+Brandon Ingram,1,5,22,1,Cutting Dunk Shot,1,0,11,True
+Brandon Ingram,3,10,4,1,Cutting Dunk Shot,1,-5,14,True
+Brandon Ingram,2,0,35,1,Cutting Dunk Shot,2,-5,21,True
+Brandon Ingram,2,5,32,1,Cutting Dunk Shot,0,-3,9,True
+Brandon Ingram,2,9,4,1,Cutting Dunk Shot,0,-2,8,True
+Brandon Ingram,4,1,35,1,Cutting Dunk Shot,2,3,22,True
+Brandon Ingram,1,11,9,1,Cutting Dunk Shot,0,-2,8,True
+Brandon Ingram,1,8,11,1,Cutting Dunk Shot,0,1,5,True
+Brandon Ingram,3,2,48,1,Cutting Dunk Shot,0,-3,5,True
+Brandon Ingram,2,3,43,1,Cutting Dunk Shot,2,17,11,True
+Brandon Ingram,1,8,32,0,Cutting Layup Shot,1,10,12,True
+Brandon Ingram,1,9,4,1,Cutting Layup Shot,2,5,20,True
+Brandon Ingram,1,9,16,0,Cutting Layup Shot,1,2,19,True
+Brandon Ingram,2,3,38,1,Cutting Layup Shot,1,17,0,True
+Brandon Ingram,3,10,7,1,Cutting Layup Shot,2,18,11,True
+Brandon Ingram,1,9,30,0,Cutting Layup Shot,3,-30,10,True
+Brandon Ingram,2,1,14,1,Cutting Layup Shot,3,9,30,True
+Brandon Ingram,3,10,43,1,Cutting Layup Shot,0,1,3,True
+Brandon Ingram,4,6,3,1,Cutting Layup Shot,2,1,21,True
+Brandon Ingram,2,4,14,1,Cutting Layup Shot,2,8,25,True
+Brandon Ingram,3,9,6,0,Cutting Layup Shot,2,-3,21,True
+Brandon Ingram,1,9,31,0,Cutting Layup Shot,2,19,11,True
+Brandon Ingram,3,7,44,0,Cutting Layup Shot,1,4,16,True
+Brandon Ingram,2,5,0,1,Cutting Layup Shot,1,-13,6,True
+Brandon Ingram,2,5,27,0,Cutting Layup Shot,3,-30,8,True
+Brandon Ingram,2,3,32,1,Driving Bank Hook Shot,2,17,21,True
+Brandon Ingram,1,7,19,1,Driving Dunk Shot,1,6,16,True
+Brandon Ingram,2,4,32,1,Driving Dunk Shot,0,2,3,True
+Brandon Ingram,2,5,54,1,Driving Dunk Shot,2,6,21,True
+Brandon Ingram,1,1,54,1,Driving Dunk Shot,0,1,6,True
+Brandon Ingram,3,8,44,1,Driving Dunk Shot,2,1,21,True
+Brandon Ingram,2,7,52,1,Driving Dunk Shot,1,17,5,True
+Brandon Ingram,3,11,43,1,Driving Dunk Shot,2,-11,25,True
+Brandon Ingram,3,2,36,1,Driving Dunk Shot,1,-6,10,True
+Brandon Ingram,1,9,26,1,Driving Dunk Shot,0,0,5,True
+Brandon Ingram,2,1,58,1,Driving Dunk Shot,0,-8,2,True
+Brandon Ingram,3,8,59,1,Driving Dunk Shot,2,-6,22,True
+Brandon Ingram,1,2,51,0,Driving Dunk Shot,5,-1,57,True
+Brandon Ingram,4,7,13,1,Driving Dunk Shot,1,6,10,True
+Brandon Ingram,1,7,39,1,Driving Dunk Shot,2,-19,11,True
+Brandon Ingram,1,4,2,1,Driving Dunk Shot,0,-8,-4,True
+Brandon Ingram,3,1,59,1,Driving Dunk Shot,0,6,1,True
+Brandon Ingram,4,6,39,1,Driving Dunk Shot,1,2,12,True
+Brandon Ingram,3,6,9,1,Driving Finger Roll Layup Shot,1,-13,11,True
+Brandon Ingram,2,0,0,1,Driving Finger Roll Layup Shot,1,12,1,True
+Brandon Ingram,3,4,44,1,Driving Finger Roll Layup Shot,0,3,3,True
+Brandon Ingram,4,2,23,1,Driving Finger Roll Layup Shot,2,-7,28,True
+Brandon Ingram,5,1,31,1,Driving Finger Roll Layup Shot,2,-1,21,True
+Brandon Ingram,2,6,52,1,Driving Finger Roll Layup Shot,1,-2,13,True
+Brandon Ingram,4,3,32,1,Driving Finger Roll Layup Shot,0,3,8,True
+Brandon Ingram,2,10,0,1,Driving Finger Roll Layup Shot,4,-3,42,True
+Brandon Ingram,2,2,49,1,Driving Finger Roll Layup Shot,1,-2,10,True
+Brandon Ingram,4,1,13,0,Driving Finger Roll Layup Shot,2,-13,24,True
+Brandon Ingram,1,7,33,1,Driving Finger Roll Layup Shot,2,-5,25,True
+Brandon Ingram,3,5,11,1,Driving Finger Roll Layup Shot,2,3,24,True
+Brandon Ingram,1,11,3,1,Driving Finger Roll Layup Shot,2,0,24,True
+Brandon Ingram,2,9,14,1,Driving Finger Roll Layup Shot,2,8,22,True
+Brandon Ingram,3,10,18,1,Driving Finger Roll Layup Shot,1,-1,16,True
+Brandon Ingram,1,6,17,1,Driving Finger Roll Layup Shot,1,2,16,True
+Brandon Ingram,1,7,53,0,Driving Floating Bank Jump Shot,9,52,85,True
+Brandon Ingram,3,8,17,0,Driving Floating Bank Jump Shot,2,9,23,True
+Brandon Ingram,3,7,18,1,Driving Floating Bank Jump Shot,5,45,35,True
+Brandon Ingram,3,11,5,1,Driving Floating Bank Jump Shot,4,0,44,True
+Brandon Ingram,3,3,30,1,Driving Floating Bank Jump Shot,6,49,43,True
+Brandon Ingram,2,6,45,0,Driving Floating Bank Jump Shot,3,-8,30,True
+Brandon Ingram,1,9,30,1,Driving Floating Bank Jump Shot,3,9,34,True
+Brandon Ingram,2,5,53,1,Driving Floating Bank Jump Shot,11,88,66,True
+Brandon Ingram,4,4,33,1,Driving Floating Bank Jump Shot,7,32,71,True
+Brandon Ingram,4,4,15,1,Driving Floating Bank Jump Shot,1,5,11,True
+Brandon Ingram,3,6,30,0,Driving Floating Bank Jump Shot,2,-1,23,True
+Brandon Ingram,1,10,36,0,Driving Floating Bank Jump Shot,3,16,36,True
+Brandon Ingram,1,3,27,0,Driving Floating Jump Shot,3,14,36,True
+Brandon Ingram,3,5,10,0,Driving Floating Jump Shot,7,21,70,True
+Brandon Ingram,2,4,59,0,Driving Floating Jump Shot,7,73,16,True
+Brandon Ingram,3,7,26,1,Driving Floating Jump Shot,5,-21,52,True
+Brandon Ingram,3,10,27,0,Driving Floating Jump Shot,9,-2,92,True
+Brandon Ingram,3,6,54,1,Driving Floating Jump Shot,3,-13,37,True
+Brandon Ingram,1,6,56,0,Driving Hook Shot,5,12,53,True
+Brandon Ingram,2,6,26,1,Driving Layup Shot,1,13,-4,True
+Brandon Ingram,3,9,5,1,Driving Layup Shot,1,15,12,True
+Brandon Ingram,1,0,58,0,Driving Layup Shot,1,11,8,True
+Brandon Ingram,1,8,48,1,Driving Layup Shot,1,3,15,True
+Brandon Ingram,3,9,22,0,Driving Layup Shot,2,-18,10,True
+Brandon Ingram,1,5,56,1,Driving Layup Shot,1,8,14,True
+Brandon Ingram,3,11,28,0,Driving Layup Shot,2,15,21,True
+Brandon Ingram,1,4,27,1,Driving Layup Shot,3,-24,22,True
+Brandon Ingram,3,11,46,1,Driving Layup Shot,0,1,6,True
+Brandon Ingram,4,4,0,1,Driving Layup Shot,1,7,17,True
+Brandon Ingram,4,0,0,0,Driving Layup Shot,2,20,22,True
+Brandon Ingram,3,2,8,1,Driving Layup Shot,2,-1,26,True
+Brandon Ingram,1,2,26,0,Driving Layup Shot,2,-4,26,True
+Brandon Ingram,2,2,17,0,Driving Layup Shot,1,7,9,True
+Brandon Ingram,4,3,57,1,Driving Layup Shot,1,-2,17,True
+Brandon Ingram,1,7,21,1,Driving Layup Shot,1,13,3,True
+Brandon Ingram,1,6,28,0,Driving Layup Shot,1,5,13,True
+Brandon Ingram,2,4,26,0,Driving Layup Shot,3,30,20,True
+Brandon Ingram,4,3,14,0,Driving Layup Shot,2,-22,16,True
+Brandon Ingram,4,7,23,1,Driving Layup Shot,1,-9,11,True
+Brandon Ingram,5,2,21,0,Driving Layup Shot,2,-5,20,True
+Brandon Ingram,1,4,10,1,Driving Layup Shot,0,2,6,True
+Brandon Ingram,1,8,0,0,Driving Layup Shot,4,-17,47,True
+Brandon Ingram,1,8,59,1,Driving Layup Shot,1,-9,9,True
+Brandon Ingram,1,1,41,1,Driving Layup Shot,1,1,11,True
+Brandon Ingram,1,0,52,1,Driving Layup Shot,0,3,1,True
+Brandon Ingram,3,10,39,1,Driving Layup Shot,1,4,10,True
+Brandon Ingram,1,11,44,1,Driving Layup Shot,0,7,5,True
+Brandon Ingram,1,9,26,0,Driving Layup Shot,4,2,41,True
+Brandon Ingram,4,6,42,0,Driving Layup Shot,3,20,28,True
+Brandon Ingram,1,2,33,1,Driving Layup Shot,0,5,7,True
+Brandon Ingram,2,11,3,0,Driving Layup Shot,1,12,5,True
+Brandon Ingram,3,11,20,1,Driving Layup Shot,1,10,17,True
+Brandon Ingram,1,5,14,1,Driving Layup Shot,1,-10,10,True
+Brandon Ingram,4,8,13,0,Driving Layup Shot,2,-19,11,True
+Brandon Ingram,1,10,47,0,Driving Layup Shot,1,3,15,True
+Brandon Ingram,1,9,36,1,Driving Layup Shot,0,-8,-2,True
+Brandon Ingram,1,7,6,1,Driving Layup Shot,1,1,10,True
+Brandon Ingram,1,10,9,0,Driving Layup Shot,1,8,11,True
+Brandon Ingram,1,3,48,0,Driving Layup Shot,1,0,16,True
+Brandon Ingram,1,10,17,1,Driving Layup Shot,1,-4,19,True
+Brandon Ingram,3,8,56,0,Driving Layup Shot,3,9,37,True
+Brandon Ingram,2,0,5,1,Driving Layup Shot,1,-4,14,True
+Brandon Ingram,2,3,13,1,Driving Layup Shot,2,-15,14,True
+Brandon Ingram,3,10,27,0,Driving Layup Shot,3,-9,36,True
+Brandon Ingram,2,0,55,1,Driving Layup Shot,1,0,19,True
+Brandon Ingram,2,6,7,1,Driving Layup Shot,1,-6,17,True
+Brandon Ingram,4,6,27,1,Driving Layup Shot,2,0,20,True
+Brandon Ingram,3,4,3,1,Driving Layup Shot,1,11,6,True
+Brandon Ingram,4,1,42,0,Driving Layup Shot,2,3,29,True
+Brandon Ingram,4,0,0,0,Driving Layup Shot,3,3,39,True
+Brandon Ingram,1,9,36,0,Driving Layup Shot,0,-9,0,True
+Brandon Ingram,3,11,51,1,Driving Layup Shot,4,0,43,True
+Brandon Ingram,4,2,13,1,Driving Layup Shot,1,-7,8,True
+Brandon Ingram,3,9,28,0,Driving Layup Shot,5,2,50,True
+Brandon Ingram,1,10,50,0,Driving Layup Shot,5,9,50,True
+Brandon Ingram,3,8,6,1,Driving Layup Shot,4,46,8,True
+Brandon Ingram,4,2,0,0,Driving Layup Shot,3,15,31,True
+Brandon Ingram,2,8,6,1,Driving Layup Shot,2,8,20,True
+Brandon Ingram,2,1,37,0,Driving Layup Shot,1,12,15,True
+Brandon Ingram,4,0,37,0,Driving Layup Shot,8,-5,81,True
+Brandon Ingram,3,2,41,0,Driving Layup Shot,2,-1,20,True
+Brandon Ingram,3,6,42,1,Driving Layup Shot,2,8,20,True
+Brandon Ingram,2,6,37,0,Driving Layup Shot,3,-14,31,True
+Brandon Ingram,3,5,42,1,Driving Layup Shot,2,-13,24,True
+Brandon Ingram,1,6,10,0,Driving Layup Shot,2,18,13,True
+Brandon Ingram,1,9,25,1,Driving Layup Shot,1,6,16,True
+Brandon Ingram,3,5,22,1,Driving Layup Shot,2,-11,22,True
+Brandon Ingram,3,5,15,1,Driving Layup Shot,1,1,11,True
+Brandon Ingram,2,3,5,0,Driving Layup Shot,3,-24,20,True
+Brandon Ingram,3,2,58,0,Driving Layup Shot,2,19,13,True
+Brandon Ingram,1,7,3,0,Driving Layup Shot,2,-27,8,True
+Brandon Ingram,2,3,4,1,Driving Layup Shot,2,22,19,True
+Brandon Ingram,1,3,25,0,Driving Layup Shot,2,-14,17,True
+Brandon Ingram,3,6,14,0,Driving Layup Shot,3,22,25,True
+Brandon Ingram,2,0,3,0,Driving Layup Shot,2,-21,-16,True
+Brandon Ingram,4,3,10,0,Driving Layup Shot,5,-23,46,True
+Brandon Ingram,4,1,55,1,Driving Layup Shot,1,0,17,True
+Brandon Ingram,1,1,46,0,Driving Layup Shot,3,19,25,True
+Brandon Ingram,1,3,38,0,Driving Layup Shot,1,-9,13,True
+Brandon Ingram,3,7,28,0,Driving Layup Shot,8,-62,62,True
+Brandon Ingram,1,6,14,0,Driving Layup Shot,2,24,10,True
+Brandon Ingram,3,1,12,0,Driving Layup Shot,6,5,66,True
+Brandon Ingram,1,9,55,0,Driving Layup Shot,3,24,24,True
+Brandon Ingram,1,8,34,1,Driving Layup Shot,1,2,10,True
+Brandon Ingram,3,7,5,0,Driving Layup Shot,5,20,47,True
+Brandon Ingram,1,9,34,1,Driving Layup Shot,1,-18,1,True
+Brandon Ingram,3,6,50,1,Driving Layup Shot,1,-10,13,True
+Brandon Ingram,1,8,36,0,Driving Layup Shot,2,18,11,True
+Brandon Ingram,1,4,28,1,Driving Reverse Dunk Shot,1,-5,10,True
+Brandon Ingram,1,9,23,1,Driving Reverse Dunk Shot,0,-8,0,True
+Brandon Ingram,2,4,42,1,Driving Reverse Layup Shot,1,12,5,True
+Brandon Ingram,1,0,2,0,Driving Reverse Layup Shot,1,-16,4,True
+Brandon Ingram,2,0,43,0,Driving Reverse Layup Shot,2,-3,24,True
+Brandon Ingram,1,7,36,1,Driving Reverse Layup Shot,1,-10,15,True
+Brandon Ingram,3,4,1,0,Driving Reverse Layup Shot,1,-7,12,True
+Brandon Ingram,1,4,35,1,Driving Reverse Layup Shot,2,-20,7,True
+Brandon Ingram,1,11,19,1,Dunk Shot,0,3,5,True
+Brandon Ingram,3,2,9,1,Dunk Shot,2,-2,27,True
+Brandon Ingram,1,8,51,1,Dunk Shot,1,-8,8,True
+Brandon Ingram,3,8,33,0,Dunk Shot,2,9,-23,True
+Brandon Ingram,4,8,26,0,Dunk Shot,3,2,33,True
+Brandon Ingram,1,0,27,1,Dunk Shot,1,-6,9,True
+Brandon Ingram,3,6,3,1,Dunk Shot,2,-1,27,True
+Brandon Ingram,2,5,42,1,Fadeaway Jump Shot,16,-24,159,True
+Brandon Ingram,4,5,18,0,Fadeaway Jump Shot,19,47,185,True
+Brandon Ingram,1,11,12,1,Fadeaway Jump Shot,13,-127,45,True
+Brandon Ingram,2,2,19,1,Fadeaway Jump Shot,8,-89,13,True
+Brandon Ingram,2,5,51,0,Fadeaway Jump Shot,8,-36,81,True
+Brandon Ingram,1,6,32,0,Fadeaway Jump Shot,14,47,132,True
+Brandon Ingram,1,2,23,0,Fadeaway Jump Shot,12,-68,110,True
+Brandon Ingram,2,4,27,0,Fadeaway Jump Shot,9,-91,2,True
+Brandon Ingram,2,0,47,0,Fadeaway Jump Shot,16,83,148,True
+Brandon Ingram,3,7,56,1,Fadeaway Jump Shot,5,52,24,True
+Brandon Ingram,3,11,37,1,Fadeaway Jump Shot,11,-49,105,True
+Brandon Ingram,1,3,28,0,Fadeaway Jump Shot,11,38,104,True
+Brandon Ingram,3,4,41,0,Fadeaway Jump Shot,14,44,143,True
+Brandon Ingram,1,2,0,0,Fadeaway Jump Shot,6,-25,63,True
+Brandon Ingram,1,11,14,0,Fadeaway Jump Shot,10,-32,104,True
+Brandon Ingram,3,0,12,0,Fadeaway Jump Shot,5,-33,46,True
+Brandon Ingram,4,7,52,0,Fadeaway Jump Shot,18,-114,146,True
+Brandon Ingram,2,5,45,0,Finger Roll Layup Shot,2,6,26,True
+Brandon Ingram,4,4,52,1,Finger Roll Layup Shot,3,24,30,True
+Brandon Ingram,3,7,41,0,Finger Roll Layup Shot,1,9,8,True
+Brandon Ingram,3,9,0,1,Finger Roll Layup Shot,1,0,18,True
+Brandon Ingram,4,5,38,1,Finger Roll Layup Shot,2,2,25,True
+Brandon Ingram,1,11,11,1,Floating Jump shot,7,-38,69,True
+Brandon Ingram,3,6,21,0,Floating Jump shot,9,-11,91,True
+Brandon Ingram,1,6,47,0,Floating Jump shot,14,55,130,True
+Brandon Ingram,3,7,14,0,Floating Jump shot,15,-77,130,True
+Brandon Ingram,4,6,37,0,Floating Jump shot,5,-2,50,True
+Brandon Ingram,3,3,51,0,Floating Jump shot,1,0,19,True
+Brandon Ingram,4,0,53,0,Floating Jump shot,6,-36,56,True
+Brandon Ingram,2,0,56,0,Floating Jump shot,5,-5,58,True
+Brandon Ingram,1,3,2,0,Hook Shot,4,8,46,True
+Brandon Ingram,1,10,6,0,Hook Shot,1,-13,14,True
+Brandon Ingram,2,2,3,0,Hook Shot,4,24,38,True
+Brandon Ingram,3,4,35,1,Jump Bank Shot,14,19,143,True
+Brandon Ingram,3,0,0,1,Jump Shot,25,85,239,False
+Brandon Ingram,4,2,40,1,Jump Shot,25,-98,236,False
+Brandon Ingram,3,10,26,1,Jump Shot,25,-100,230,False
+Brandon Ingram,3,9,53,1,Jump Shot,19,-107,164,True
+Brandon Ingram,3,11,24,1,Jump Shot,22,-120,185,True
+Brandon Ingram,3,7,27,0,Jump Shot,25,-134,218,False
+Brandon Ingram,2,6,40,1,Jump Shot,24,-92,231,False
+Brandon Ingram,3,8,56,0,Jump Shot,25,-92,235,False
+Brandon Ingram,3,11,43,1,Jump Shot,17,-84,152,True
+Brandon Ingram,4,6,6,0,Jump Shot,25,-189,166,False
+Brandon Ingram,3,6,34,1,Jump Shot,23,230,40,False
+Brandon Ingram,3,5,3,0,Jump Shot,24,-158,190,False
+Brandon Ingram,2,1,14,0,Jump Shot,25,154,205,False
+Brandon Ingram,2,4,21,1,Jump Shot,24,13,249,False
+Brandon Ingram,3,10,20,1,Jump Shot,17,128,115,True
+Brandon Ingram,4,9,25,0,Jump Shot,24,-158,188,False
+Brandon Ingram,4,10,42,0,Jump Shot,24,-116,220,False
+Brandon Ingram,4,5,22,1,Jump Shot,27,167,223,False
+Brandon Ingram,1,1,44,0,Jump Shot,11,-102,42,True
+Brandon Ingram,1,11,3,0,Jump Shot,24,-167,176,False
+Brandon Ingram,1,9,16,0,Jump Shot,8,-86,-11,True
+Brandon Ingram,1,7,43,0,Jump Shot,8,-84,-12,True
+Brandon Ingram,3,2,47,1,Jump Shot,25,-3,253,False
+Brandon Ingram,3,7,4,1,Jump Shot,23,233,-8,False
+Brandon Ingram,1,5,46,1,Jump Shot,24,62,241,False
+Brandon Ingram,3,2,22,0,Jump Shot,16,-148,73,True
+Brandon Ingram,2,1,44,0,Jump Shot,7,-42,67,True
+Brandon Ingram,3,3,39,0,Jump Shot,23,-228,36,False
+Brandon Ingram,4,11,13,0,Jump Shot,24,-174,175,False
+Brandon Ingram,4,11,8,0,Jump Shot,14,139,39,True
+Brandon Ingram,3,7,5,1,Jump Shot,25,143,206,False
+Brandon Ingram,1,9,1,0,Jump Shot,21,171,130,True
+Brandon Ingram,2,3,32,1,Jump Shot,22,224,31,False
+Brandon Ingram,4,1,28,0,Jump Shot,16,95,134,True
+Brandon Ingram,2,2,59,1,Jump Shot,25,-1,251,False
+Brandon Ingram,2,1,21,0,Jump Shot,20,-67,189,True
+Brandon Ingram,1,9,16,1,Jump Shot,22,227,22,False
+Brandon Ingram,4,2,4,0,Jump Shot,24,-160,189,False
+Brandon Ingram,3,8,13,0,Jump Shot,25,20,250,False
+Brandon Ingram,4,7,59,1,Jump Shot,11,-114,24,True
+Brandon Ingram,4,5,51,1,Jump Shot,22,-225,9,False
+Brandon Ingram,3,9,1,0,Jump Shot,22,226,2,False
+Brandon Ingram,2,4,57,0,Jump Shot,18,-179,43,True
+Brandon Ingram,1,3,1,0,Jump Shot,21,101,193,True
+Brandon Ingram,4,3,53,1,Jump Shot,14,-68,129,True
+Brandon Ingram,1,8,9,0,Jump Shot,12,-97,82,True
+Brandon Ingram,1,10,36,1,Jump Shot,26,-169,199,False
+Brandon Ingram,2,6,17,0,Jump Shot,12,-122,17,True
+Brandon Ingram,1,9,56,0,Jump Shot,22,222,-1,False
+Brandon Ingram,4,0,48,0,Jump Shot,8,13,87,True
+Brandon Ingram,4,1,24,1,Jump Shot,22,6,220,True
+Brandon Ingram,2,4,36,1,Jump Shot,23,52,227,True
+Brandon Ingram,3,5,19,0,Jump Shot,24,-136,199,False
+Brandon Ingram,1,6,35,1,Jump Shot,17,-79,153,True
+Brandon Ingram,1,10,15,0,Jump Shot,21,-89,197,True
+Brandon Ingram,3,9,30,0,Jump Shot,24,-97,224,False
+Brandon Ingram,1,6,58,0,Jump Shot,26,-24,267,False
+Brandon Ingram,3,4,17,0,Jump Shot,8,-64,63,True
+Brandon Ingram,2,0,52,0,Jump Shot,12,-111,64,True
+Brandon Ingram,1,5,43,0,Jump Shot,23,-13,233,True
+Brandon Ingram,1,6,16,0,Jump Shot,10,105,1,True
+Brandon Ingram,3,6,56,0,Jump Shot,15,-29,156,True
+Brandon Ingram,1,7,19,0,Jump Shot,19,-65,180,True
+Brandon Ingram,2,2,12,0,Jump Shot,26,-60,257,False
+Brandon Ingram,1,2,40,0,Jump Shot,25,-110,235,False
+Brandon Ingram,1,2,7,1,Jump Shot,26,-11,260,False
+Brandon Ingram,3,8,9,1,Jump Shot,2,25,11,True
+Brandon Ingram,4,7,59,0,Jump Shot,12,46,121,True
+Brandon Ingram,2,1,47,1,Jump Shot,23,-226,46,False
+Brandon Ingram,1,0,33,0,Jump Shot,24,-206,139,False
+Brandon Ingram,4,2,13,0,Jump Shot,16,-158,52,True
+Brandon Ingram,4,4,7,1,Jump Shot,16,-161,34,True
+Brandon Ingram,1,7,38,1,Jump Shot,22,-226,0,False
+Brandon Ingram,1,8,35,1,Jump Shot,23,226,55,False
+Brandon Ingram,3,10,49,0,Jump Shot,26,-3,262,False
+Brandon Ingram,2,6,18,0,Jump Shot,14,-90,117,True
+Brandon Ingram,3,8,9,1,Jump Shot,24,109,224,False
+Brandon Ingram,1,6,34,1,Jump Shot,25,-123,228,False
+Brandon Ingram,2,0,56,1,Jump Shot,23,232,57,False
+Brandon Ingram,2,1,25,0,Jump Shot,15,-79,135,True
+Brandon Ingram,1,2,49,0,Jump Shot,20,-138,151,True
+Brandon Ingram,1,7,35,0,Jump Shot,14,133,57,True
+Brandon Ingram,2,5,18,0,Jump Shot,26,234,119,False
+Brandon Ingram,1,5,51,0,Jump Shot,25,65,246,False
+Brandon Ingram,2,0,50,1,Jump Shot,14,-23,144,True
+Brandon Ingram,2,2,21,0,Jump Shot,14,26,141,True
+Brandon Ingram,2,6,51,0,Jump Shot,23,232,4,False
+Brandon Ingram,3,3,20,0,Jump Shot,15,-54,147,True
+Brandon Ingram,2,7,43,0,Jump Shot,25,112,233,False
+Brandon Ingram,1,11,17,1,Jump Shot,20,143,150,True
+Brandon Ingram,2,3,6,1,Jump Shot,19,152,117,True
+Brandon Ingram,3,8,30,0,Jump Shot,6,-27,57,True
+Brandon Ingram,1,11,44,0,Jump Shot,9,-31,92,True
+Brandon Ingram,4,2,49,0,Jump Shot,27,81,260,False
+Brandon Ingram,2,6,2,1,Jump Shot,15,0,150,True
+Brandon Ingram,4,4,50,0,Jump Shot,26,107,238,False
+Brandon Ingram,1,7,15,0,Jump Shot,4,-49,1,True
+Brandon Ingram,2,8,3,1,Jump Shot,14,-140,52,True
+Brandon Ingram,1,10,23,0,Jump Shot,12,-119,41,True
+Brandon Ingram,3,10,44,0,Jump Shot,11,114,15,True
+Brandon Ingram,3,6,0,0,Jump Shot,17,90,153,True
+Brandon Ingram,1,9,7,0,Jump Shot,24,-147,200,False
+Brandon Ingram,3,3,26,0,Jump Shot,25,-142,217,False
+Brandon Ingram,3,6,25,1,Jump Shot,15,101,120,True
+Brandon Ingram,1,7,25,0,Jump Shot,23,230,57,False
+Brandon Ingram,1,7,54,0,Jump Shot,4,5,46,True
+Brandon Ingram,1,11,41,1,Jump Shot,25,193,167,False
+Brandon Ingram,4,3,43,0,Jump Shot,7,68,36,True
+Brandon Ingram,3,8,42,1,Jump Shot,23,227,71,False
+Brandon Ingram,2,0,6,1,Jump Shot,25,-91,236,False
+Brandon Ingram,3,2,46,1,Jump Shot,23,-235,18,False
+Brandon Ingram,1,10,45,0,Jump Shot,13,-136,20,True
+Brandon Ingram,3,6,36,1,Jump Shot,18,-7,180,True
+Brandon Ingram,4,2,36,0,Jump Shot,24,218,110,False
+Brandon Ingram,3,3,59,0,Jump Shot,8,79,15,True
+Brandon Ingram,3,4,28,0,Jump Shot,21,90,199,True
+Brandon Ingram,1,7,54,0,Jump Shot,25,176,182,False
+Brandon Ingram,1,5,49,0,Jump Shot,4,12,48,True
+Brandon Ingram,1,5,9,0,Jump Shot,14,67,132,True
+Brandon Ingram,1,9,23,0,Jump Shot,17,54,167,True
+Brandon Ingram,3,3,40,1,Jump Shot,18,-57,174,True
+Brandon Ingram,3,6,36,0,Jump Shot,25,141,212,False
+Brandon Ingram,2,2,29,0,Jump Shot,20,-59,197,True
+Brandon Ingram,4,0,24,0,Jump Shot,26,64,252,False
+Brandon Ingram,4,0,2,1,Jump Shot,27,120,246,False
+Brandon Ingram,3,9,10,0,Jump Shot,18,24,187,True
+Brandon Ingram,1,3,40,1,Jump Shot,22,222,6,False
+Brandon Ingram,1,10,1,0,Jump Shot,25,-30,257,False
+Brandon Ingram,4,5,40,1,Jump Shot,22,8,222,True
+Brandon Ingram,3,3,1,0,Jump Shot,6,-15,62,True
+Brandon Ingram,1,5,20,1,Jump Shot,17,-134,116,True
+Brandon Ingram,1,8,23,0,Jump Shot,25,161,199,False
+Brandon Ingram,3,2,21,0,Jump Shot,19,-122,148,True
+Brandon Ingram,2,2,48,0,Jump Shot,2,-13,26,True
+Brandon Ingram,1,6,23,0,Jump Shot,19,-46,192,True
+Brandon Ingram,1,3,33,0,Jump Shot,10,5,105,True
+Brandon Ingram,3,6,7,1,Jump Shot,15,111,104,True
+Brandon Ingram,3,9,32,0,Jump Shot,14,-67,131,True
+Brandon Ingram,4,1,28,0,Jump Shot,22,221,-8,False
+Brandon Ingram,2,3,56,0,Jump Shot,22,-228,-15,False
+Brandon Ingram,1,9,16,1,Jump Shot,24,235,78,False
+Brandon Ingram,1,10,53,0,Jump Shot,20,-149,142,True
+Brandon Ingram,4,1,55,0,Jump Shot,19,-11,190,True
+Brandon Ingram,3,9,10,0,Jump Shot,20,53,201,True
+Brandon Ingram,1,11,31,1,Jump Shot,18,120,143,True
+Brandon Ingram,3,4,18,0,Jump Shot,17,-73,163,True
+Brandon Ingram,4,0,15,0,Jump Shot,23,-234,9,False
+Brandon Ingram,3,8,44,0,Jump Shot,7,45,59,True
+Brandon Ingram,1,0,53,0,Jump Shot,3,20,26,True
+Brandon Ingram,4,0,3,0,Jump Shot,26,79,253,False
+Brandon Ingram,1,6,45,1,Jump Shot,25,-141,215,False
+Brandon Ingram,3,9,1,1,Jump Shot,21,-119,176,True
+Brandon Ingram,3,4,45,0,Jump Shot,23,231,39,False
+Brandon Ingram,4,0,36,1,Jump Shot,18,-35,184,True
+Brandon Ingram,1,11,44,0,Jump Shot,14,-23,148,True
+Brandon Ingram,3,11,4,0,Jump Shot,16,160,8,True
+Brandon Ingram,3,7,32,0,Jump Shot,26,139,230,False
+Brandon Ingram,3,1,10,0,Jump Shot,5,2,56,True
+Brandon Ingram,3,6,27,0,Jump Shot,17,90,149,True
+Brandon Ingram,3,5,2,0,Jump Shot,22,-228,26,False
+Brandon Ingram,1,10,2,0,Jump Shot,3,3,31,True
+Brandon Ingram,4,0,13,0,Jump Shot,7,-73,7,True
+Brandon Ingram,1,2,22,0,Jump Shot,23,230,45,False
+Brandon Ingram,1,0,37,0,Jump Shot,16,-2,167,True
+Brandon Ingram,1,6,28,0,Jump Shot,15,-71,134,True
+Brandon Ingram,3,8,10,0,Jump Shot,26,-154,218,False
+Brandon Ingram,3,3,46,0,Jump Shot,19,32,194,True
+Brandon Ingram,3,3,32,0,Jump Shot,25,-123,218,False
+Brandon Ingram,3,10,9,1,Jump Shot,20,60,193,True
+Brandon Ingram,4,8,11,1,Jump Shot,16,-25,159,True
+Brandon Ingram,1,8,17,0,Jump Shot,25,217,142,False
+Brandon Ingram,3,10,6,0,Jump Shot,18,160,86,True
+Brandon Ingram,3,7,43,1,Jump Shot,20,41,201,True
+Brandon Ingram,1,5,13,0,Jump Shot,20,-79,190,True
+Brandon Ingram,2,6,2,0,Jump Shot,26,117,243,False
+Brandon Ingram,1,10,56,0,Jump Shot,14,66,130,True
+Brandon Ingram,4,1,31,0,Jump Shot,20,187,74,True
+Brandon Ingram,2,2,30,0,Jump Shot,20,138,150,True
+Brandon Ingram,4,0,46,1,Jump Shot,25,214,145,False
+Brandon Ingram,3,5,0,0,Jump Shot,18,24,182,True
+Brandon Ingram,2,5,39,1,Jump Shot,25,-210,139,False
+Brandon Ingram,2,9,56,0,Jump Shot,17,-123,131,True
+Brandon Ingram,3,10,53,1,Jump Shot,20,117,169,True
+Brandon Ingram,3,8,33,1,Jump Shot,19,-117,157,True
+Brandon Ingram,1,6,11,0,Jump Shot,24,-180,161,False
+Brandon Ingram,1,6,38,0,Jump Shot,22,229,9,False
+Brandon Ingram,3,11,45,1,Jump Shot,9,-17,94,True
+Brandon Ingram,2,0,26,0,Jump Shot,17,92,146,True
+Brandon Ingram,3,4,38,0,Jump Shot,22,225,2,False
+Brandon Ingram,2,5,0,0,Jump Shot,14,23,148,True
+Brandon Ingram,3,5,52,0,Jump Shot,13,0,133,True
+Brandon Ingram,2,1,18,1,Jump Shot,17,-29,177,True
+Brandon Ingram,3,3,1,1,Jump Shot,23,222,89,False
+Brandon Ingram,3,7,15,0,Jump Shot,22,-228,17,False
+Brandon Ingram,1,11,3,0,Jump Shot,25,82,240,False
+Brandon Ingram,1,8,11,0,Jump Shot,25,152,203,False
+Brandon Ingram,1,5,28,0,Jump Shot,23,235,42,False
+Brandon Ingram,3,0,1,0,Jump Shot,74,-11,741,False
+Brandon Ingram,1,7,13,0,Jump Shot,25,0,255,False
+Brandon Ingram,4,1,9,0,Jump Shot,23,-236,20,False
+Brandon Ingram,3,4,49,1,Jump Shot,23,-231,53,False
+Brandon Ingram,1,8,5,1,Jump Shot,25,175,192,False
+Brandon Ingram,2,0,8,1,Jump Shot,26,189,189,False
+Brandon Ingram,3,7,29,0,Jump Shot,17,-126,128,True
+Brandon Ingram,4,6,26,0,Jump Shot,15,-148,42,True
+Brandon Ingram,4,6,51,1,Jump Shot,17,151,85,True
+Brandon Ingram,1,6,27,0,Jump Shot,16,-13,163,True
+Brandon Ingram,3,1,28,0,Layup Shot,3,31,8,True
+Brandon Ingram,3,3,48,0,Layup Shot,3,14,27,True
+Brandon Ingram,1,5,1,1,Layup Shot,2,13,17,True
+Brandon Ingram,2,1,12,0,Layup Shot,1,-6,14,True
+Brandon Ingram,1,0,2,0,Layup Shot,3,-8,34,True
+Brandon Ingram,2,6,4,0,Layup Shot,3,30,-4,True
+Brandon Ingram,4,0,42,1,Layup Shot,1,-3,16,True
+Brandon Ingram,1,7,42,1,Layup Shot,3,30,8,True
+Brandon Ingram,4,5,28,0,Layup Shot,2,2,25,True
+Brandon Ingram,1,11,42,1,Layup Shot,2,-23,17,True
+Brandon Ingram,3,1,57,0,Layup Shot,1,-11,8,True
+Brandon Ingram,3,10,24,0,Layup Shot,2,0,29,True
+Brandon Ingram,3,5,36,0,Layup Shot,1,10,10,True
+Brandon Ingram,4,3,53,0,Layup Shot,2,-3,20,True
+Brandon Ingram,5,0,56,1,Layup Shot,1,0,16,True
+Brandon Ingram,1,2,47,0,Layup Shot,2,-12,17,True
+Brandon Ingram,3,8,3,1,Layup Shot,2,-2,26,True
+Brandon Ingram,4,6,18,0,Layup Shot,1,11,16,True
+Brandon Ingram,1,10,57,0,Layup Shot,2,2,26,True
+Brandon Ingram,1,7,28,0,Layup Shot,1,-6,15,True
+Brandon Ingram,3,5,29,1,Layup Shot,1,6,12,True
+Brandon Ingram,1,1,36,0,Layup Shot,2,9,20,True
+Brandon Ingram,3,7,47,0,Layup Shot,2,-2,23,True
+Brandon Ingram,3,10,28,0,Layup Shot,1,8,13,True
+Brandon Ingram,2,1,50,0,Layup Shot,7,-27,73,True
+Brandon Ingram,2,3,17,0,Layup Shot,1,5,11,True
+Brandon Ingram,2,1,6,0,Layup Shot,2,8,19,True
+Brandon Ingram,1,5,47,0,Layup Shot,2,-25,15,True
+Brandon Ingram,4,4,36,1,Layup Shot,2,17,16,True
+Brandon Ingram,2,0,48,0,Layup Shot,1,1,11,True
+Brandon Ingram,2,3,42,1,Layup Shot,1,14,6,True
+Brandon Ingram,1,3,59,0,Layup Shot,5,30,43,True
+Brandon Ingram,2,0,46,1,Layup Shot,1,9,16,True
+Brandon Ingram,3,1,3,1,Layup Shot,1,16,10,True
+Brandon Ingram,2,6,35,0,Layup Shot,4,-33,30,True
+Brandon Ingram,3,10,47,0,Layup Shot,3,-28,26,True
+Brandon Ingram,4,3,56,0,Layup Shot,6,-25,60,True
+Brandon Ingram,4,5,16,0,Layup Shot,2,-7,21,True
+Brandon Ingram,3,7,13,0,Layup Shot,3,-8,36,True
+Brandon Ingram,2,2,56,0,Layup Shot,2,2,26,True
+Brandon Ingram,4,0,55,0,Layup Shot,2,-14,17,True
+Brandon Ingram,4,4,9,0,Layup Shot,2,5,22,True
+Brandon Ingram,1,9,17,0,Layup Shot,2,-3,27,True
+Brandon Ingram,4,2,34,0,Layup Shot,1,8,14,True
+Brandon Ingram,4,1,15,1,Layup Shot,2,6,21,True
+Brandon Ingram,1,8,19,0,Layup Shot,1,11,16,True
+Brandon Ingram,2,2,20,0,Layup Shot,2,12,25,True
+Brandon Ingram,3,8,9,0,Layup Shot,1,10,16,True
+Brandon Ingram,2,3,56,1,Layup Shot,1,1,14,True
+Brandon Ingram,3,5,6,0,Layup Shot,1,16,10,True
+Brandon Ingram,1,7,3,0,Layup Shot,1,14,11,True
+Brandon Ingram,2,3,32,0,Layup Shot,3,25,22,True
+Brandon Ingram,3,2,26,1,Layup Shot,2,14,15,True
+Brandon Ingram,1,7,56,1,Layup Shot,1,11,9,True
+Brandon Ingram,3,6,35,0,Pullup Jump shot,17,33,176,True
+Brandon Ingram,1,9,51,1,Pullup Jump shot,16,41,164,True
+Brandon Ingram,5,0,2,0,Pullup Jump shot,12,41,121,True
+Brandon Ingram,1,8,42,0,Pullup Jump shot,10,100,22,True
+Brandon Ingram,3,5,14,1,Pullup Jump shot,15,-23,149,True
+Brandon Ingram,2,2,58,1,Pullup Jump shot,15,3,159,True
+Brandon Ingram,3,7,1,1,Pullup Jump shot,17,27,168,True
+Brandon Ingram,4,1,21,0,Pullup Jump shot,17,-8,176,True
+Brandon Ingram,1,8,7,0,Pullup Jump shot,18,74,168,True
+Brandon Ingram,1,8,29,1,Pullup Jump shot,17,-67,159,True
+Brandon Ingram,1,9,7,1,Pullup Jump shot,18,97,162,True
+Brandon Ingram,2,0,6,1,Pullup Jump shot,10,-2,107,True
+Brandon Ingram,2,1,16,1,Pullup Jump shot,15,53,149,True
+Brandon Ingram,2,1,10,0,Pullup Jump shot,18,132,130,True
+Brandon Ingram,2,0,56,1,Pullup Jump shot,17,125,121,True
+Brandon Ingram,3,10,49,1,Pullup Jump shot,21,2,211,True
+Brandon Ingram,1,0,58,0,Pullup Jump shot,12,-83,87,True
+Brandon Ingram,3,2,18,0,Pullup Jump shot,16,-24,165,True
+Brandon Ingram,2,4,40,0,Pullup Jump shot,17,-115,131,True
+Brandon Ingram,3,4,40,0,Pullup Jump shot,18,-115,143,True
+Brandon Ingram,4,1,35,1,Pullup Jump shot,15,14,158,True
+Brandon Ingram,1,7,39,1,Pullup Jump shot,17,101,142,True
+Brandon Ingram,4,3,11,0,Pullup Jump shot,19,117,154,True
+Brandon Ingram,2,2,57,0,Pullup Jump shot,18,25,179,True
+Brandon Ingram,1,6,50,1,Pullup Jump shot,10,-39,101,True
+Brandon Ingram,1,8,22,0,Pullup Jump shot,13,128,33,True
+Brandon Ingram,2,5,27,0,Pullup Jump shot,14,-3,148,True
+Brandon Ingram,4,7,59,0,Pullup Jump shot,20,-68,194,True
+Brandon Ingram,2,2,9,0,Pullup Jump shot,17,74,160,True
+Brandon Ingram,4,1,31,0,Pullup Jump shot,20,-64,192,True
+Brandon Ingram,4,10,18,1,Pullup Jump shot,17,-36,169,True
+Brandon Ingram,3,6,59,1,Pullup Jump shot,16,-124,109,True
+Brandon Ingram,1,7,47,0,Pullup Jump shot,18,20,180,True
+Brandon Ingram,1,11,18,1,Pullup Jump shot,17,157,83,True
+Brandon Ingram,4,3,13,1,Pullup Jump shot,16,-49,160,True
+Brandon Ingram,1,11,25,0,Pullup Jump shot,21,164,132,True
+Brandon Ingram,1,7,10,1,Pullup Jump shot,17,1,178,True
+Brandon Ingram,3,8,45,0,Pullup Jump shot,20,-27,203,True
+Brandon Ingram,3,5,27,0,Pullup Jump shot,17,-24,169,True
+Brandon Ingram,1,9,18,0,Pullup Jump shot,15,65,140,True
+Brandon Ingram,1,4,56,0,Pullup Jump shot,18,101,153,True
+Brandon Ingram,1,2,5,1,Pullup Jump shot,18,-110,153,True
+Brandon Ingram,3,9,24,0,Pullup Jump shot,15,-25,152,True
+Brandon Ingram,3,7,6,1,Pullup Jump shot,18,143,110,True
+Brandon Ingram,3,3,58,1,Pullup Jump shot,21,-158,142,True
+Brandon Ingram,4,1,34,0,Pullup Jump shot,15,80,132,True
+Brandon Ingram,1,7,20,0,Pullup Jump shot,10,-54,95,True
+Brandon Ingram,3,11,49,1,Pullup Jump shot,17,40,170,True
+Brandon Ingram,4,4,50,0,Pullup Jump shot,19,93,174,True
+Brandon Ingram,2,8,59,0,Pullup Jump shot,16,-4,168,True
+Brandon Ingram,1,6,4,0,Pullup Jump shot,11,29,116,True
+Brandon Ingram,1,11,23,1,Pullup Jump shot,11,47,109,True
+Brandon Ingram,3,9,54,0,Pullup Jump shot,14,111,100,True
+Brandon Ingram,3,7,58,1,Pullup Jump shot,14,63,136,True
+Brandon Ingram,1,7,34,0,Pullup Jump shot,17,77,153,True
+Brandon Ingram,3,2,0,0,Pullup Jump shot,18,-109,146,True
+Brandon Ingram,4,5,8,0,Pullup Jump shot,16,-67,146,True
+Brandon Ingram,4,11,3,0,Pullup Jump shot,16,-24,163,True
+Brandon Ingram,1,2,31,0,Pullup Jump shot,22,-78,216,True
+Brandon Ingram,4,4,1,0,Pullup Jump shot,19,-52,186,True
+Brandon Ingram,3,6,33,1,Pullup Jump shot,17,101,146,True
+Brandon Ingram,3,11,11,1,Pullup Jump shot,21,14,211,True
+Brandon Ingram,1,2,32,1,Pullup Jump shot,24,-200,142,False
+Brandon Ingram,3,11,35,0,Pullup Jump shot,13,-53,121,True
+Brandon Ingram,3,7,57,0,Pullup Jump shot,22,-84,209,True
+Brandon Ingram,3,11,26,1,Pullup Jump shot,20,180,92,True
+Brandon Ingram,1,7,47,1,Pullup Jump shot,18,-7,180,True
+Brandon Ingram,4,3,56,0,Pullup Jump shot,17,37,170,True
+Brandon Ingram,1,11,36,1,Pullup Jump shot,20,-18,206,True
+Brandon Ingram,4,11,20,1,Pullup Jump shot,17,26,175,True
+Brandon Ingram,4,9,42,1,Pullup Jump shot,20,-153,138,True
+Brandon Ingram,2,8,29,1,Pullup Jump shot,19,78,182,True
+Brandon Ingram,1,9,28,0,Pullup Jump shot,8,76,42,True
+Brandon Ingram,1,10,20,1,Pullup Jump shot,21,-63,208,True
+Brandon Ingram,4,3,29,0,Pullup Jump shot,16,-72,147,True
+Brandon Ingram,4,10,27,0,Pullup Jump shot,18,-65,173,True
+Brandon Ingram,3,11,16,0,Pullup Jump shot,19,-93,173,True
+Brandon Ingram,3,5,16,0,Pullup Jump shot,12,40,115,True
+Brandon Ingram,3,1,33,0,Pullup Jump shot,15,47,148,True
+Brandon Ingram,4,4,44,0,Pullup Jump shot,12,79,92,True
+Brandon Ingram,1,11,44,1,Pullup Jump shot,10,53,86,True
+Brandon Ingram,2,1,14,1,Pullup Jump shot,15,104,119,True
+Brandon Ingram,3,0,6,1,Pullup Jump shot,18,-110,152,True
+Brandon Ingram,4,1,29,0,Pullup Jump shot,17,56,166,True
+Brandon Ingram,1,6,36,0,Pullup Jump shot,15,1,157,True
+Brandon Ingram,1,3,58,0,Pullup Jump shot,6,-46,48,True
+Brandon Ingram,2,0,37,0,Pullup Jump shot,8,29,85,True
+Brandon Ingram,2,8,59,1,Pullup Jump shot,16,54,155,True
+Brandon Ingram,1,8,44,0,Pullup Jump shot,14,1,143,True
+Brandon Ingram,1,7,25,1,Pullup Jump shot,10,-105,10,True
+Brandon Ingram,1,11,38,0,Pullup Jump shot,15,-105,116,True
+Brandon Ingram,3,4,39,0,Pullup Jump shot,15,-18,152,True
+Brandon Ingram,4,5,23,0,Pullup Jump shot,26,-127,227,False
+Brandon Ingram,2,5,36,1,Pullup Jump shot,21,-54,210,True
+Brandon Ingram,2,5,16,0,Pullup Jump shot,14,76,121,True
+Brandon Ingram,3,6,30,0,Pullup Jump shot,13,48,127,True
+Brandon Ingram,3,1,31,1,Pullup Jump shot,20,-67,195,True
+Brandon Ingram,2,5,52,1,Pullup Jump shot,20,146,141,True
+Brandon Ingram,3,10,13,1,Pullup Jump shot,19,49,185,True
+Brandon Ingram,1,10,52,1,Putback Dunk Shot,0,0,-6,True
+Brandon Ingram,2,3,52,1,Putback Layup Shot,0,0,-6,True
+Brandon Ingram,2,2,57,0,Putback Layup Shot,2,-10,27,True
+Brandon Ingram,2,0,53,1,Putback Layup Shot,0,0,-6,True
+Brandon Ingram,2,1,56,1,Putback Layup Shot,1,5,13,True
+Brandon Ingram,3,1,6,1,Putback Layup Shot,1,0,18,True
+Brandon Ingram,1,8,38,1,Putback Layup Shot,1,-1,13,True
+Brandon Ingram,1,11,34,1,Putback Layup Shot,0,0,-6,True
+Brandon Ingram,1,6,49,1,Reverse Dunk Shot,1,5,15,True
+Brandon Ingram,1,10,7,1,Reverse Layup Shot,1,9,5,True
+Brandon Ingram,3,3,12,0,Reverse Layup Shot,0,9,2,True
+Brandon Ingram,3,9,38,0,Reverse Layup Shot,1,-6,8,True
+Brandon Ingram,3,4,1,1,Running Alley Oop Dunk Shot,2,2,25,True
+Brandon Ingram,2,5,5,1,Running Alley Oop Layup Shot,0,2,4,True
+Brandon Ingram,3,4,20,1,Running Dunk Shot,0,2,-3,True
+Brandon Ingram,4,2,56,1,Running Dunk Shot,3,2,36,True
+Brandon Ingram,1,9,9,1,Running Dunk Shot,1,2,11,True
+Brandon Ingram,1,9,16,1,Running Dunk Shot,1,-1,13,True
+Brandon Ingram,2,3,25,1,Running Finger Roll Layup Shot,2,-15,17,True
+Brandon Ingram,1,8,6,1,Running Finger Roll Layup Shot,1,3,16,True
+Brandon Ingram,3,3,18,1,Running Finger Roll Layup Shot,1,2,13,True
+Brandon Ingram,3,4,34,0,Running Finger Roll Layup Shot,3,-17,34,True
+Brandon Ingram,3,11,11,0,Running Jump Shot,7,-11,70,True
+Brandon Ingram,3,0,40,1,Running Jump Shot,2,29,-5,True
+Brandon Ingram,1,3,21,1,Running Layup Shot,3,-16,32,True
+Brandon Ingram,3,6,22,0,Running Layup Shot,1,11,5,True
+Brandon Ingram,1,2,10,0,Running Layup Shot,8,-11,86,True
+Brandon Ingram,1,3,30,1,Running Layup Shot,2,22,10,True
+Brandon Ingram,3,10,37,1,Running Layup Shot,2,-11,20,True
+Brandon Ingram,3,9,13,0,Running Layup Shot,3,-3,34,True
+Brandon Ingram,1,2,29,0,Running Layup Shot,2,4,25,True
+Brandon Ingram,4,7,45,1,Running Layup Shot,1,-9,12,True
+Brandon Ingram,1,4,42,1,Running Layup Shot,0,-5,8,True
+Brandon Ingram,4,10,15,1,Running Layup Shot,0,3,8,True
+Brandon Ingram,1,4,47,1,Running Layup Shot,1,9,14,True
+Brandon Ingram,3,7,44,1,Running Layup Shot,1,14,8,True
+Brandon Ingram,3,4,55,1,Running Layup Shot,1,3,19,True
+Brandon Ingram,3,10,7,1,Running Layup Shot,1,-13,-10,True
+Brandon Ingram,2,6,12,1,Running Layup Shot,1,8,15,True
+Brandon Ingram,2,0,2,1,Running Layup Shot,1,9,9,True
+Brandon Ingram,3,9,1,0,Running Layup Shot,2,-1,20,True
+Brandon Ingram,2,3,38,1,Running Layup Shot,0,6,6,True
+Brandon Ingram,1,8,33,1,Running Layup Shot,1,9,14,True
+Brandon Ingram,1,4,5,0,Running Layup Shot,2,20,16,True
+Brandon Ingram,5,1,12,1,Running Layup Shot,0,3,2,True
+Brandon Ingram,3,4,41,1,Running Layup Shot,2,5,22,True
+Brandon Ingram,1,5,40,0,Running Layup Shot,1,-8,11,True
+Brandon Ingram,3,2,17,0,Running Layup Shot,4,-27,40,True
+Brandon Ingram,3,7,1,1,Running Layup Shot,2,-5,21,True
+Brandon Ingram,1,3,47,1,Running Layup Shot,2,-8,23,True
+Brandon Ingram,4,2,59,1,Running Layup Shot,1,-9,8,True
+Brandon Ingram,1,9,54,1,Running Layup Shot,1,13,11,True
+Brandon Ingram,3,8,29,1,Running Layup Shot,1,14,6,True
+Brandon Ingram,3,9,26,1,Running Pull-Up Jump Shot,22,-121,188,True
+Brandon Ingram,2,4,43,0,Running Pull-Up Jump Shot,20,-88,185,True
+Brandon Ingram,3,7,54,1,Running Pull-Up Jump Shot,24,-126,214,False
+Brandon Ingram,4,3,28,1,Running Pull-Up Jump Shot,17,-5,175,True
+Brandon Ingram,4,5,44,0,Running Pull-Up Jump Shot,19,-46,188,True
+Brandon Ingram,1,10,53,1,Running Reverse Layup Shot,0,-1,8,True
+Brandon Ingram,1,4,9,1,Step Back Jump shot,14,149,9,True
+Brandon Ingram,3,9,42,0,Step Back Jump shot,11,-113,10,True
+Brandon Ingram,1,9,39,0,Step Back Jump shot,21,144,163,True
+Brandon Ingram,5,4,46,0,Step Back Jump shot,21,-45,209,True
+Brandon Ingram,1,4,49,0,Step Back Jump shot,11,74,89,True
+Brandon Ingram,1,6,23,0,Step Back Jump shot,14,146,20,True
+Brandon Ingram,3,3,54,0,Step Back Jump shot,17,78,153,True
+Brandon Ingram,2,4,15,1,Step Back Jump shot,24,228,100,False
+Brandon Ingram,1,5,13,1,Step Back Jump shot,15,90,125,True
+Brandon Ingram,3,1,18,0,Step Back Jump shot,18,75,172,True
+Brandon Ingram,4,0,20,0,Step Back Jump shot,17,-65,167,True
+Brandon Ingram,1,4,6,1,Step Back Jump shot,15,142,71,True
+Brandon Ingram,4,6,10,0,Step Back Jump shot,13,-111,85,True
+Brandon Ingram,4,2,15,1,Step Back Jump shot,20,68,197,True
+Brandon Ingram,4,3,15,0,Step Back Jump shot,18,51,175,True
+Brandon Ingram,3,11,6,0,Step Back Jump shot,16,-112,118,True
+Brandon Ingram,4,2,59,1,Step Back Jump shot,13,52,122,True
+Brandon Ingram,3,10,15,0,Step Back Jump shot,16,78,142,True
+Brandon Ingram,3,5,5,1,Step Back Jump shot,14,148,24,True
+Brandon Ingram,4,5,35,1,Step Back Jump shot,14,70,127,True
+Brandon Ingram,4,3,54,1,Tip Dunk Shot,0,0,-6,True
+Brandon Ingram,1,6,59,0,Tip Layup Shot,0,0,-6,True
+Brandon Ingram,4,3,55,0,Tip Layup Shot,0,0,-6,True
+Brandon Ingram,3,5,39,0,Tip Layup Shot,0,0,-6,True
+Brandon Ingram,4,4,5,1,Tip Layup Shot,0,0,-6,True
+Brandon Ingram,3,3,53,0,Tip Layup Shot,4,-32,25,True
+Brandon Ingram,2,3,54,0,Tip Layup Shot,0,0,-6,True
+Brandon Ingram,3,2,59,0,Tip Layup Shot,1,-12,7,True
+Brandon Ingram,4,0,0,1,Tip Layup Shot,0,0,-6,True
+Brandon Ingram,4,5,12,1,Tip Layup Shot,0,0,-6,True
+Brandon Ingram,4,2,24,0,Tip Layup Shot,0,0,-6,True
+Brandon Ingram,1,10,44,1,Tip Layup Shot,0,0,-6,True
+Brandon Ingram,3,11,9,0,Tip Layup Shot,0,0,-6,True
+Brandon Ingram,3,11,36,0,Turnaround Fadeaway shot,11,117,17,True
+Brandon Ingram,2,3,49,0,Turnaround Fadeaway shot,16,149,77,True
+Brandon Ingram,4,3,11,1,Turnaround Fadeaway shot,14,42,139,True
+Brandon Ingram,2,7,14,0,Turnaround Fadeaway shot,14,-96,108,True
+Brandon Ingram,4,7,0,1,Turnaround Fadeaway shot,10,108,18,True
+Brandon Ingram,3,9,9,0,Turnaround Fadeaway shot,8,-2,83,True
+Brandon Ingram,1,8,34,0,Turnaround Fadeaway shot,13,115,75,True
+Brandon Ingram,3,5,44,0,Turnaround Fadeaway shot,8,80,15,True
+Brandon Ingram,3,1,50,1,Turnaround Fadeaway shot,11,-50,105,True
+Brandon Ingram,1,11,32,0,Turnaround Fadeaway shot,9,96,8,True
+Brandon Ingram,1,0,25,1,Turnaround Fadeaway shot,16,-130,94,True
+Brandon Ingram,4,6,8,0,Turnaround Jump Shot,11,-1,117,True
+Brandon Ingram,2,6,20,1,Turnaround Jump Shot,15,117,99,True
+Brandon Ingram,1,10,39,0,Turnaround Jump Shot,9,65,73,True
+Brandon Ingram,2,0,54,1,Turnaround Jump Shot,8,-50,68,True
+Brandon Ingram,1,3,26,0,Turnaround Jump Shot,13,83,101,True
+Brandon Ingram,3,7,41,1,Turnaround Jump Shot,12,125,-20,True
+Brandon Ingram,2,0,32,0,Turnaround Jump Shot,4,12,45,True
+Brandon Ingram,2,3,37,1,Turnaround Jump Shot,17,153,80,True
+Brandon Ingram,1,2,29,0,Turnaround Jump Shot,11,34,113,True

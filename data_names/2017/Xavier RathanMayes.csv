@@ -1,0 +1,11 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Xavier RathanMayes,4,0,13,1,Driving Finger Roll Layup Shot,2,20,2,True
+Xavier RathanMayes,4,1,22,1,Driving Finger Roll Layup Shot,1,11,7,True
+Xavier RathanMayes,4,3,4,0,Driving Floating Jump Shot,5,6,57,True
+Xavier RathanMayes,2,11,44,1,Floating Jump shot,8,18,78,True
+Xavier RathanMayes,3,3,23,0,Jump Shot,20,-191,75,True
+Xavier RathanMayes,2,1,56,0,Pullup Jump shot,18,-86,163,True
+Xavier RathanMayes,1,0,40,0,Pullup Jump shot,20,109,171,True
+Xavier RathanMayes,1,6,17,0,Pullup Jump shot,27,144,240,False
+Xavier RathanMayes,4,10,9,0,Step Back Jump shot,24,101,228,False
+Xavier RathanMayes,4,10,49,1,Step Back Jump shot,18,-136,132,True

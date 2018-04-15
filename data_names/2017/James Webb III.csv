@@ -1,0 +1,25 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+James Webb III,3,3,6,1,Driving Dunk Shot,1,7,11,True
+James Webb III,4,5,16,0,Jump Shot,27,127,248,False
+James Webb III,4,8,8,0,Jump Shot,22,-218,31,False
+James Webb III,4,1,7,0,Jump Shot,25,-145,206,False
+James Webb III,2,7,26,0,Jump Shot,24,211,125,False
+James Webb III,4,0,11,0,Jump Shot,26,-141,229,False
+James Webb III,2,8,50,1,Jump Shot,23,-228,39,False
+James Webb III,4,3,11,1,Jump Shot,25,34,248,False
+James Webb III,1,0,46,0,Jump Shot,22,226,20,False
+James Webb III,4,2,13,1,Jump Shot,22,-221,-10,False
+James Webb III,2,11,10,0,Jump Shot,26,21,264,False
+James Webb III,2,10,25,0,Jump Shot,22,221,29,False
+James Webb III,4,0,38,0,Jump Shot,22,-229,20,False
+James Webb III,4,8,28,0,Jump Shot,22,-225,34,False
+James Webb III,4,4,38,0,Jump Shot,4,-3,42,True
+James Webb III,4,11,15,0,Jump Shot,21,-216,-15,True
+James Webb III,2,9,38,1,Jump Shot,22,-226,-16,False
+James Webb III,3,0,4,0,Jump Shot,24,239,25,False
+James Webb III,1,0,40,0,Jump Shot,23,-229,33,False
+James Webb III,3,3,4,0,Jump Shot,22,-222,15,False
+James Webb III,2,11,39,0,Jump Shot,23,-239,7,False
+James Webb III,4,2,0,0,Jump Shot,24,6,243,False
+James Webb III,4,9,53,0,Putback Layup Shot,1,11,8,True
+James Webb III,4,0,39,1,Running Dunk Shot,0,0,4,True

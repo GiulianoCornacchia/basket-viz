@@ -1,0 +1,388 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Tony Snell,3,7,16,1,Alley Oop Layup shot,1,-4,17,True
+Tony Snell,1,4,24,1,Cutting Dunk Shot,0,-5,6,True
+Tony Snell,3,3,34,1,Cutting Dunk Shot,0,-1,6,True
+Tony Snell,2,10,47,1,Cutting Dunk Shot,1,-2,11,True
+Tony Snell,3,10,17,1,Cutting Layup Shot,1,6,8,True
+Tony Snell,1,6,47,1,Cutting Layup Shot,1,4,10,True
+Tony Snell,3,9,42,1,Cutting Layup Shot,2,-14,18,True
+Tony Snell,4,3,14,0,Cutting Layup Shot,1,-8,17,True
+Tony Snell,1,4,15,0,Cutting Layup Shot,4,-25,39,True
+Tony Snell,3,3,16,0,Driving Dunk Shot,1,6,13,True
+Tony Snell,1,9,53,1,Driving Dunk Shot,0,-1,4,True
+Tony Snell,1,0,48,1,Driving Dunk Shot,0,3,6,True
+Tony Snell,1,7,44,0,Driving Dunk Shot,1,6,13,True
+Tony Snell,1,2,26,1,Driving Dunk Shot,1,3,14,True
+Tony Snell,4,2,29,0,Driving Dunk Shot,2,13,17,True
+Tony Snell,1,1,2,1,Driving Dunk Shot,1,9,9,True
+Tony Snell,2,11,39,1,Driving Finger Roll Layup Shot,2,4,27,True
+Tony Snell,4,1,42,1,Driving Finger Roll Layup Shot,1,18,8,True
+Tony Snell,2,4,58,1,Driving Finger Roll Layup Shot,3,18,26,True
+Tony Snell,4,11,4,1,Driving Finger Roll Layup Shot,0,-1,6,True
+Tony Snell,4,10,18,0,Driving Finger Roll Layup Shot,3,-24,29,True
+Tony Snell,4,2,19,1,Driving Floating Bank Jump Shot,4,35,22,True
+Tony Snell,2,4,14,1,Driving Floating Bank Jump Shot,1,-6,12,True
+Tony Snell,2,5,40,0,Driving Floating Bank Jump Shot,10,99,31,True
+Tony Snell,3,8,24,1,Driving Floating Jump Shot,8,38,73,True
+Tony Snell,3,6,32,0,Driving Floating Jump Shot,8,44,71,True
+Tony Snell,1,4,54,1,Driving Floating Jump Shot,12,124,-1,True
+Tony Snell,2,1,1,1,Driving Floating Jump Shot,13,-45,131,True
+Tony Snell,4,3,4,0,Driving Floating Jump Shot,8,45,75,True
+Tony Snell,2,9,50,1,Driving Floating Jump Shot,12,-58,116,True
+Tony Snell,2,1,37,0,Driving Floating Jump Shot,9,-13,97,True
+Tony Snell,3,7,49,0,Driving Floating Jump Shot,6,-36,60,True
+Tony Snell,1,8,38,0,Driving Floating Jump Shot,10,31,96,True
+Tony Snell,2,10,40,1,Driving Floating Jump Shot,12,60,115,True
+Tony Snell,2,0,52,0,Driving Floating Jump Shot,8,32,74,True
+Tony Snell,1,11,7,0,Driving Layup Shot,0,4,7,True
+Tony Snell,2,0,37,1,Driving Layup Shot,0,2,8,True
+Tony Snell,1,8,33,0,Driving Layup Shot,4,8,45,True
+Tony Snell,1,11,3,0,Driving Layup Shot,1,-3,15,True
+Tony Snell,3,2,46,1,Driving Layup Shot,1,-8,17,True
+Tony Snell,4,5,9,1,Driving Layup Shot,1,0,11,True
+Tony Snell,1,3,25,0,Driving Layup Shot,3,0,34,True
+Tony Snell,3,6,4,1,Driving Layup Shot,0,-3,0,True
+Tony Snell,4,7,6,0,Driving Layup Shot,2,-3,24,True
+Tony Snell,2,8,29,1,Driving Layup Shot,3,-38,7,True
+Tony Snell,2,4,18,0,Driving Layup Shot,4,32,36,True
+Tony Snell,4,4,11,1,Driving Layup Shot,2,1,26,True
+Tony Snell,2,10,50,1,Driving Layup Shot,1,5,16,True
+Tony Snell,2,2,34,0,Driving Layup Shot,1,-4,11,True
+Tony Snell,2,10,38,1,Driving Layup Shot,0,0,1,True
+Tony Snell,3,11,15,0,Driving Layup Shot,2,-17,22,True
+Tony Snell,4,3,39,0,Driving Layup Shot,6,-24,59,True
+Tony Snell,1,5,52,0,Driving Layup Shot,5,56,16,True
+Tony Snell,2,9,12,1,Driving Layup Shot,1,-10,9,True
+Tony Snell,1,6,10,1,Driving Layup Shot,1,-13,10,True
+Tony Snell,2,3,31,0,Driving Layup Shot,2,6,23,True
+Tony Snell,1,9,35,1,Driving Layup Shot,1,-4,11,True
+Tony Snell,1,6,6,0,Driving Layup Shot,1,10,7,True
+Tony Snell,3,7,4,0,Driving Layup Shot,1,9,13,True
+Tony Snell,2,0,27,0,Driving Layup Shot,3,36,-1,True
+Tony Snell,3,8,16,0,Driving Layup Shot,3,11,31,True
+Tony Snell,2,9,58,1,Driving Layup Shot,3,-27,15,True
+Tony Snell,2,11,8,1,Driving Reverse Layup Shot,0,5,8,True
+Tony Snell,4,11,47,1,Driving Reverse Layup Shot,1,3,16,True
+Tony Snell,3,5,19,1,Dunk Shot,0,2,7,True
+Tony Snell,2,3,47,1,Fadeaway Jump Shot,11,119,-10,True
+Tony Snell,1,0,2,0,Fadeaway Jump Shot,25,227,122,False
+Tony Snell,2,5,33,1,Fadeaway Jump Shot,13,-135,-20,True
+Tony Snell,3,5,39,1,Fadeaway Jump Shot,11,-84,73,True
+Tony Snell,2,1,31,0,Floating Jump shot,5,-20,46,True
+Tony Snell,2,9,14,0,Floating Jump shot,10,43,101,True
+Tony Snell,1,10,33,1,Floating Jump shot,11,-9,119,True
+Tony Snell,1,0,23,1,Floating Jump shot,1,-1,16,True
+Tony Snell,4,7,36,1,Hook Shot,5,51,13,True
+Tony Snell,1,6,9,1,Jump Bank Shot,21,190,106,True
+Tony Snell,3,5,24,0,Jump Shot,26,168,208,False
+Tony Snell,1,5,49,0,Jump Shot,25,108,236,False
+Tony Snell,2,5,30,1,Jump Shot,25,-106,227,False
+Tony Snell,4,4,15,0,Jump Shot,26,82,257,False
+Tony Snell,1,10,28,0,Jump Shot,24,-225,97,False
+Tony Snell,1,11,27,0,Jump Shot,20,-96,178,True
+Tony Snell,2,5,9,0,Jump Shot,22,-226,-5,False
+Tony Snell,4,11,25,0,Jump Shot,25,109,235,False
+Tony Snell,1,3,34,1,Jump Shot,27,-13,274,False
+Tony Snell,3,9,33,1,Jump Shot,22,-228,3,False
+Tony Snell,2,2,52,0,Jump Shot,22,-226,0,False
+Tony Snell,4,6,1,0,Jump Shot,22,228,0,False
+Tony Snell,3,11,11,1,Jump Shot,17,-69,163,True
+Tony Snell,1,10,36,0,Jump Shot,23,228,58,False
+Tony Snell,2,3,52,0,Jump Shot,25,131,217,False
+Tony Snell,4,4,5,0,Jump Shot,23,224,72,False
+Tony Snell,1,4,5,0,Jump Shot,25,120,223,False
+Tony Snell,1,8,30,0,Jump Shot,22,225,41,False
+Tony Snell,3,10,49,1,Jump Shot,27,133,240,False
+Tony Snell,3,4,17,1,Jump Shot,26,-86,255,False
+Tony Snell,1,2,9,0,Jump Shot,23,232,54,False
+Tony Snell,1,4,3,1,Jump Shot,26,123,239,False
+Tony Snell,2,0,33,1,Jump Shot,25,223,118,False
+Tony Snell,1,8,19,1,Jump Shot,25,114,226,False
+Tony Snell,1,7,19,0,Jump Shot,25,-16,252,False
+Tony Snell,1,7,14,1,Jump Shot,22,-227,4,False
+Tony Snell,1,2,14,1,Jump Shot,17,95,150,True
+Tony Snell,3,3,0,0,Jump Shot,27,-28,274,False
+Tony Snell,4,3,38,1,Jump Shot,13,134,-20,True
+Tony Snell,1,5,14,0,Jump Shot,20,-134,155,True
+Tony Snell,2,0,29,0,Jump Shot,26,52,261,False
+Tony Snell,3,1,17,0,Jump Shot,28,-168,232,False
+Tony Snell,3,1,58,0,Jump Shot,22,-226,42,False
+Tony Snell,2,5,25,0,Jump Shot,25,8,257,False
+Tony Snell,1,8,45,0,Jump Shot,25,81,246,False
+Tony Snell,1,10,30,1,Jump Shot,26,-112,241,False
+Tony Snell,4,5,54,0,Jump Shot,24,14,246,False
+Tony Snell,2,4,29,1,Jump Shot,26,-214,149,False
+Tony Snell,4,5,15,0,Jump Shot,25,217,138,False
+Tony Snell,2,8,10,1,Jump Shot,26,-119,241,False
+Tony Snell,1,3,3,1,Jump Shot,27,193,195,False
+Tony Snell,1,4,44,0,Jump Shot,25,-226,107,False
+Tony Snell,1,2,37,1,Jump Shot,23,230,43,False
+Tony Snell,2,10,13,1,Jump Shot,25,155,205,False
+Tony Snell,1,5,36,0,Jump Shot,25,73,248,False
+Tony Snell,1,2,29,0,Jump Shot,23,232,31,False
+Tony Snell,2,10,26,1,Jump Shot,22,226,22,False
+Tony Snell,3,5,29,0,Jump Shot,25,214,137,False
+Tony Snell,4,11,17,0,Jump Shot,22,-228,8,False
+Tony Snell,4,9,47,0,Jump Shot,26,119,241,False
+Tony Snell,1,1,21,1,Jump Shot,26,-164,204,False
+Tony Snell,3,0,56,1,Jump Shot,26,-10,266,False
+Tony Snell,3,3,56,1,Jump Shot,28,193,205,False
+Tony Snell,4,4,8,1,Jump Shot,27,61,269,False
+Tony Snell,1,1,4,0,Jump Shot,27,161,218,False
+Tony Snell,4,8,21,0,Jump Shot,29,-163,242,False
+Tony Snell,2,7,16,0,Jump Shot,27,-8,273,False
+Tony Snell,4,11,23,0,Jump Shot,26,215,148,False
+Tony Snell,1,9,27,0,Jump Shot,18,-131,131,True
+Tony Snell,4,3,49,0,Jump Shot,20,-86,188,True
+Tony Snell,1,5,45,0,Jump Shot,25,-161,204,False
+Tony Snell,3,6,8,0,Jump Shot,23,-233,4,False
+Tony Snell,3,4,28,0,Jump Shot,23,228,67,False
+Tony Snell,3,3,32,1,Jump Shot,25,-166,195,False
+Tony Snell,2,5,27,1,Jump Shot,20,-112,169,True
+Tony Snell,2,4,3,0,Jump Shot,22,228,14,False
+Tony Snell,1,11,45,0,Jump Shot,17,-119,122,True
+Tony Snell,2,2,6,0,Jump Shot,26,223,138,False
+Tony Snell,3,7,26,0,Jump Shot,22,-226,32,False
+Tony Snell,2,5,45,0,Jump Shot,17,145,100,True
+Tony Snell,1,9,31,0,Jump Shot,26,162,212,False
+Tony Snell,2,4,4,0,Jump Shot,22,-226,6,False
+Tony Snell,4,4,40,1,Jump Shot,25,-152,205,False
+Tony Snell,2,2,56,0,Jump Shot,20,36,201,True
+Tony Snell,1,8,14,1,Jump Shot,23,222,83,False
+Tony Snell,4,2,33,0,Jump Shot,23,228,59,False
+Tony Snell,3,3,58,0,Jump Shot,22,-222,9,False
+Tony Snell,3,2,12,0,Jump Shot,24,187,165,False
+Tony Snell,2,5,32,1,Jump Shot,17,171,38,True
+Tony Snell,1,4,52,0,Jump Shot,24,-89,231,False
+Tony Snell,4,3,29,0,Jump Shot,18,48,179,True
+Tony Snell,3,10,17,1,Jump Shot,25,25,251,False
+Tony Snell,1,9,40,0,Jump Shot,26,-81,256,False
+Tony Snell,3,7,2,0,Jump Shot,25,122,222,False
+Tony Snell,2,0,35,0,Jump Shot,24,227,83,False
+Tony Snell,3,1,33,0,Jump Shot,26,-188,180,False
+Tony Snell,1,0,54,0,Jump Shot,25,-220,122,False
+Tony Snell,1,3,4,0,Jump Shot,25,226,121,False
+Tony Snell,4,10,9,0,Jump Shot,27,52,273,False
+Tony Snell,4,0,58,1,Jump Shot,26,-140,225,False
+Tony Snell,1,2,36,1,Jump Shot,26,-73,257,False
+Tony Snell,2,7,47,1,Jump Shot,27,-84,259,False
+Tony Snell,2,5,57,0,Jump Shot,26,-76,252,False
+Tony Snell,2,5,3,0,Jump Shot,23,-235,6,False
+Tony Snell,2,0,50,1,Jump Shot,23,231,29,False
+Tony Snell,3,8,26,1,Jump Shot,26,167,206,False
+Tony Snell,3,6,20,0,Jump Shot,23,-237,12,False
+Tony Snell,2,2,0,1,Jump Shot,22,-228,-6,False
+Tony Snell,3,9,1,0,Jump Shot,26,193,185,False
+Tony Snell,4,3,34,0,Jump Shot,24,226,83,False
+Tony Snell,1,7,3,0,Jump Shot,25,231,110,False
+Tony Snell,2,2,58,1,Jump Shot,25,156,199,False
+Tony Snell,1,8,52,0,Jump Shot,25,-140,215,False
+Tony Snell,3,9,28,1,Jump Shot,25,193,169,False
+Tony Snell,1,7,8,0,Jump Shot,26,154,220,False
+Tony Snell,2,1,58,1,Jump Shot,24,-241,15,False
+Tony Snell,1,10,21,0,Jump Shot,23,237,23,False
+Tony Snell,2,0,39,0,Jump Shot,27,-132,237,False
+Tony Snell,1,7,41,0,Jump Shot,25,-181,186,False
+Tony Snell,2,1,54,1,Jump Shot,26,-119,239,False
+Tony Snell,3,9,8,0,Jump Shot,25,-172,185,False
+Tony Snell,2,3,37,0,Jump Shot,28,123,254,False
+Tony Snell,3,9,3,1,Jump Shot,23,-236,10,False
+Tony Snell,2,9,4,0,Jump Shot,12,-65,111,True
+Tony Snell,2,0,0,0,Jump Shot,22,225,25,False
+Tony Snell,3,10,15,0,Jump Shot,23,234,27,False
+Tony Snell,4,4,41,1,Jump Shot,24,-242,33,False
+Tony Snell,2,6,35,1,Jump Shot,26,103,242,False
+Tony Snell,3,9,39,0,Jump Shot,25,144,214,False
+Tony Snell,4,2,52,0,Jump Shot,22,223,29,False
+Tony Snell,2,1,58,0,Jump Shot,25,221,125,False
+Tony Snell,1,8,30,0,Jump Shot,16,125,114,True
+Tony Snell,2,2,16,0,Jump Shot,25,-201,150,False
+Tony Snell,1,9,14,0,Jump Shot,26,198,176,False
+Tony Snell,3,7,34,0,Jump Shot,27,-84,257,False
+Tony Snell,1,5,34,0,Jump Shot,22,225,27,False
+Tony Snell,5,3,38,0,Jump Shot,22,226,21,False
+Tony Snell,2,7,22,0,Jump Shot,24,-214,109,False
+Tony Snell,4,8,14,1,Jump Shot,23,-231,25,False
+Tony Snell,4,1,45,0,Jump Shot,25,148,204,False
+Tony Snell,1,7,26,1,Jump Shot,23,233,25,False
+Tony Snell,2,2,45,1,Jump Shot,23,228,49,False
+Tony Snell,4,1,57,0,Jump Shot,23,223,71,False
+Tony Snell,3,6,21,1,Jump Shot,24,103,220,False
+Tony Snell,1,2,52,1,Jump Shot,26,-79,249,False
+Tony Snell,3,2,50,1,Jump Shot,26,110,239,False
+Tony Snell,2,9,53,1,Jump Shot,25,-149,206,False
+Tony Snell,1,0,35,0,Jump Shot,23,236,20,False
+Tony Snell,1,4,55,0,Jump Shot,22,-228,21,False
+Tony Snell,2,1,13,0,Jump Shot,27,81,260,False
+Tony Snell,3,4,46,1,Jump Shot,23,233,-11,False
+Tony Snell,4,3,11,0,Jump Shot,22,226,23,False
+Tony Snell,4,0,28,0,Jump Shot,26,-11,260,False
+Tony Snell,1,5,18,0,Jump Shot,26,152,222,False
+Tony Snell,4,4,23,0,Jump Shot,23,-231,12,False
+Tony Snell,4,0,14,0,Jump Shot,24,68,236,False
+Tony Snell,2,0,57,1,Jump Shot,25,-230,103,False
+Tony Snell,1,5,45,0,Jump Shot,20,138,146,True
+Tony Snell,1,7,31,0,Jump Shot,26,1,262,False
+Tony Snell,3,5,31,0,Jump Shot,25,-223,123,False
+Tony Snell,2,1,41,1,Jump Shot,26,112,240,False
+Tony Snell,3,10,15,1,Jump Shot,24,-228,99,False
+Tony Snell,2,2,21,1,Jump Shot,22,-223,0,False
+Tony Snell,1,11,42,0,Jump Shot,7,77,6,True
+Tony Snell,2,0,30,1,Jump Shot,26,196,177,False
+Tony Snell,2,5,26,1,Jump Shot,27,39,273,False
+Tony Snell,1,7,47,0,Jump Shot,22,-225,-11,False
+Tony Snell,2,2,25,1,Jump Shot,25,225,118,False
+Tony Snell,3,6,11,0,Jump Shot,26,-90,250,False
+Tony Snell,2,4,48,0,Jump Shot,28,-127,252,False
+Tony Snell,1,7,33,1,Jump Shot,25,-223,132,False
+Tony Snell,2,1,54,0,Jump Shot,26,8,263,False
+Tony Snell,4,4,15,1,Jump Shot,26,-3,263,False
+Tony Snell,1,9,51,0,Jump Shot,26,-122,232,False
+Tony Snell,3,9,21,0,Jump Shot,9,0,94,True
+Tony Snell,1,11,10,1,Jump Shot,19,119,153,True
+Tony Snell,2,0,0,1,Jump Shot,26,120,237,False
+Tony Snell,1,9,23,0,Jump Shot,23,-231,15,False
+Tony Snell,2,3,31,1,Jump Shot,19,-81,175,True
+Tony Snell,5,2,29,0,Jump Shot,23,-232,3,False
+Tony Snell,2,2,8,1,Jump Shot,19,-55,190,True
+Tony Snell,3,2,20,0,Jump Shot,24,-165,183,False
+Tony Snell,1,11,1,1,Jump Shot,25,-226,109,False
+Tony Snell,3,11,38,0,Jump Shot,21,41,207,True
+Tony Snell,2,6,45,0,Jump Shot,28,138,248,False
+Tony Snell,2,5,42,1,Jump Shot,22,-226,8,False
+Tony Snell,4,11,4,0,Jump Shot,25,161,202,False
+Tony Snell,2,3,17,0,Jump Shot,22,-220,16,False
+Tony Snell,1,11,18,1,Jump Shot,22,228,-16,False
+Tony Snell,1,6,3,1,Jump Shot,26,126,230,False
+Tony Snell,2,0,40,1,Jump Shot,25,246,58,False
+Tony Snell,3,0,31,0,Jump Shot,23,231,25,False
+Tony Snell,3,7,22,0,Jump Shot,23,239,13,False
+Tony Snell,2,9,51,1,Jump Shot,26,-16,264,False
+Tony Snell,2,5,6,1,Jump Shot,23,-233,36,False
+Tony Snell,4,3,39,1,Jump Shot,22,-228,7,False
+Tony Snell,3,11,28,1,Jump Shot,25,128,222,False
+Tony Snell,2,7,51,0,Jump Shot,24,229,84,False
+Tony Snell,4,1,46,1,Jump Shot,23,227,62,False
+Tony Snell,3,10,57,1,Jump Shot,25,16,251,False
+Tony Snell,1,6,54,1,Jump Shot,23,234,27,False
+Tony Snell,2,2,20,1,Jump Shot,26,74,256,False
+Tony Snell,3,3,17,0,Jump Shot,27,-78,260,False
+Tony Snell,3,0,38,0,Jump Shot,15,-154,-4,True
+Tony Snell,2,5,23,0,Jump Shot,25,-212,143,False
+Tony Snell,4,1,15,0,Jump Shot,25,-193,172,False
+Tony Snell,1,4,34,0,Jump Shot,25,135,211,False
+Tony Snell,3,7,40,0,Jump Shot,23,-226,53,False
+Tony Snell,1,8,48,0,Jump Shot,25,-223,128,False
+Tony Snell,4,6,20,1,Jump Shot,26,-184,185,False
+Tony Snell,1,10,8,1,Jump Shot,26,-163,206,False
+Tony Snell,4,5,51,1,Jump Shot,23,237,15,False
+Tony Snell,1,0,59,0,Jump Shot,25,214,143,False
+Tony Snell,3,10,25,1,Jump Shot,25,-217,125,False
+Tony Snell,2,3,37,1,Jump Shot,22,-223,-6,False
+Tony Snell,2,10,34,1,Jump Shot,23,-230,14,False
+Tony Snell,4,2,2,0,Jump Shot,25,-219,134,False
+Tony Snell,1,0,49,0,Jump Shot,26,185,186,False
+Tony Snell,1,6,56,1,Jump Shot,22,-226,22,False
+Tony Snell,1,7,30,1,Jump Shot,25,143,215,False
+Tony Snell,1,4,47,0,Jump Shot,23,231,58,False
+Tony Snell,1,1,38,0,Jump Shot,27,-6,270,False
+Tony Snell,3,11,46,0,Jump Shot,23,-230,6,False
+Tony Snell,3,2,18,1,Jump Shot,23,236,13,False
+Tony Snell,1,7,3,1,Jump Shot,27,14,276,False
+Tony Snell,3,10,29,0,Jump Shot,26,-136,230,False
+Tony Snell,3,0,2,0,Jump Shot,22,225,21,False
+Tony Snell,1,1,35,1,Jump Shot,26,-121,235,False
+Tony Snell,2,1,54,0,Jump Shot,24,193,157,False
+Tony Snell,3,7,4,0,Jump Shot,24,109,221,False
+Tony Snell,1,2,4,1,Jump Shot,23,231,42,False
+Tony Snell,1,0,32,1,Jump Shot,25,0,258,False
+Tony Snell,4,0,58,0,Jump Shot,24,225,94,False
+Tony Snell,1,8,40,0,Jump Shot,22,228,25,False
+Tony Snell,2,3,15,0,Jump Shot,25,-164,196,False
+Tony Snell,3,3,48,0,Jump Shot,23,231,42,False
+Tony Snell,3,7,33,1,Jump Shot,22,-228,27,False
+Tony Snell,2,2,22,0,Jump Shot,26,-170,200,False
+Tony Snell,2,7,2,0,Jump Shot,18,19,184,True
+Tony Snell,3,10,24,0,Jump Shot,1,-6,13,True
+Tony Snell,1,4,32,0,Jump Shot,22,224,32,False
+Tony Snell,3,8,22,1,Jump Shot,23,234,13,False
+Tony Snell,1,9,50,1,Jump Shot,24,-231,67,False
+Tony Snell,2,6,15,1,Jump Shot,23,229,40,False
+Tony Snell,3,7,15,1,Jump Shot,23,230,1,False
+Tony Snell,3,6,19,1,Jump Shot,8,-44,76,True
+Tony Snell,4,9,16,0,Jump Shot,26,-58,254,False
+Tony Snell,1,0,56,0,Jump Shot,25,133,221,False
+Tony Snell,1,0,8,1,Jump Shot,22,-227,-4,False
+Tony Snell,4,1,1,0,Jump Shot,22,224,32,False
+Tony Snell,1,11,29,1,Jump Shot,19,3,196,True
+Tony Snell,1,5,2,0,Jump Shot,24,-226,95,False
+Tony Snell,3,10,4,1,Jump Shot,26,212,162,False
+Tony Snell,3,7,58,0,Jump Shot,23,235,29,False
+Tony Snell,1,2,38,1,Jump Shot,19,-12,199,True
+Tony Snell,1,10,40,1,Jump Shot,24,-155,194,False
+Tony Snell,3,11,13,1,Jump Shot,26,-99,248,False
+Tony Snell,3,4,2,0,Jump Shot,25,-98,239,False
+Tony Snell,1,10,11,0,Jump Shot,24,6,245,False
+Tony Snell,3,1,12,0,Jump Shot,22,223,21,False
+Tony Snell,3,10,44,1,Jump Shot,23,226,45,False
+Tony Snell,2,9,12,0,Jump Shot,27,-169,217,False
+Tony Snell,4,10,59,0,Jump Shot,27,5,271,False
+Tony Snell,3,8,27,0,Jump Shot,15,-152,-10,True
+Tony Snell,3,7,39,1,Jump Shot,23,230,26,False
+Tony Snell,4,6,11,1,Jump Shot,22,224,3,False
+Tony Snell,2,4,43,0,Jump Shot,23,-230,67,False
+Tony Snell,3,7,36,0,Jump Shot,22,226,14,False
+Tony Snell,3,11,29,1,Jump Shot,22,-228,-13,False
+Tony Snell,3,9,55,0,Jump Shot,26,40,260,False
+Tony Snell,2,5,4,0,Jump Shot,23,230,43,False
+Tony Snell,1,9,18,0,Jump Shot,24,235,72,False
+Tony Snell,2,1,1,0,Layup Shot,1,0,13,True
+Tony Snell,1,10,12,1,Layup Shot,0,0,0,True
+Tony Snell,3,8,51,0,Layup Shot,7,-17,69,True
+Tony Snell,1,9,6,1,Layup Shot,5,54,19,True
+Tony Snell,1,1,58,0,Layup Shot,1,-1,13,True
+Tony Snell,4,3,0,0,Layup Shot,5,18,51,True
+Tony Snell,2,6,25,0,Layup Shot,2,-12,21,True
+Tony Snell,2,7,47,1,Layup Shot,1,1,14,True
+Tony Snell,1,2,12,0,Layup Shot,2,10,22,True
+Tony Snell,5,0,58,0,Layup Shot,2,18,13,True
+Tony Snell,1,2,50,1,Layup Shot,1,-6,16,True
+Tony Snell,1,2,16,1,Layup Shot,1,-11,8,True
+Tony Snell,1,5,58,0,Pullup Jump shot,5,-49,31,True
+Tony Snell,2,2,24,1,Pullup Jump shot,24,208,137,False
+Tony Snell,1,8,44,1,Pullup Jump shot,24,-101,222,False
+Tony Snell,2,6,16,0,Pullup Jump shot,25,231,101,False
+Tony Snell,4,1,14,0,Pullup Jump shot,14,138,47,True
+Tony Snell,4,11,15,0,Pullup Jump shot,15,74,139,True
+Tony Snell,1,11,21,0,Pullup Jump shot,15,49,145,True
+Tony Snell,4,4,0,0,Pullup Jump shot,13,-109,82,True
+Tony Snell,1,7,8,0,Pullup Jump shot,10,-28,99,True
+Tony Snell,1,2,28,0,Pullup Jump shot,20,106,172,True
+Tony Snell,1,1,37,0,Pullup Jump shot,19,115,155,True
+Tony Snell,1,1,33,0,Pullup Jump shot,25,-119,223,False
+Tony Snell,4,2,52,0,Pullup Jump shot,24,134,210,False
+Tony Snell,2,11,5,0,Pullup Jump shot,9,62,77,True
+Tony Snell,1,0,41,1,Pullup Jump shot,20,32,199,True
+Tony Snell,1,1,53,1,Putback Layup Shot,0,-3,7,True
+Tony Snell,4,8,58,0,Reverse Layup Shot,2,19,17,True
+Tony Snell,3,0,20,1,Running Dunk Shot,0,-3,6,True
+Tony Snell,2,7,42,1,Running Dunk Shot,0,0,6,True
+Tony Snell,1,8,45,1,Running Dunk Shot,2,5,20,True
+Tony Snell,4,3,53,1,Running Finger Roll Layup Shot,0,-1,4,True
+Tony Snell,2,11,40,0,Running Jump Shot,7,71,12,True
+Tony Snell,2,8,7,0,Running Jump Shot,3,-28,26,True
+Tony Snell,2,0,25,0,Running Layup Shot,2,-4,29,True
+Tony Snell,3,11,13,0,Running Layup Shot,1,5,15,True
+Tony Snell,2,0,0,0,Running Layup Shot,5,9,57,True
+Tony Snell,2,1,21,0,Running Layup Shot,2,9,19,True
+Tony Snell,1,10,11,1,Running Layup Shot,1,-1,18,True
+Tony Snell,3,7,11,1,Running Layup Shot,2,-19,8,True
+Tony Snell,3,10,33,1,Running Layup Shot,0,1,6,True
+Tony Snell,3,7,50,1,Running Pull-Up Jump Shot,25,-64,250,False
+Tony Snell,1,8,37,0,Running Pull-Up Jump Shot,24,114,220,False
+Tony Snell,2,4,25,1,Running Reverse Layup Shot,1,-16,8,True
+Tony Snell,3,2,13,0,Running Reverse Layup Shot,1,-12,4,True
+Tony Snell,1,2,9,1,Step Back Jump shot,19,181,61,True
+Tony Snell,2,1,9,0,Step Back Jump shot,12,-127,-11,True
+Tony Snell,4,6,57,0,Turnaround Fadeaway shot,9,43,88,True
+Tony Snell,4,9,31,1,Turnaround Jump Shot,6,63,13,True

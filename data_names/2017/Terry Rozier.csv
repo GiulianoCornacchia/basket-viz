@@ -1,0 +1,737 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Terry Rozier,1,3,18,0,Alley Oop Layup shot,1,-13,1,True
+Terry Rozier,2,8,3,0,Cutting Layup Shot,6,-47,43,True
+Terry Rozier,3,5,35,1,Cutting Layup Shot,1,16,3,True
+Terry Rozier,4,9,35,1,Cutting Layup Shot,1,-18,5,True
+Terry Rozier,4,4,58,1,Driving Bank Hook Shot,8,27,78,True
+Terry Rozier,3,0,0,0,Driving Dunk Shot,1,-5,13,True
+Terry Rozier,4,2,39,1,Driving Dunk Shot,1,9,6,True
+Terry Rozier,2,10,51,1,Driving Finger Roll Layup Shot,2,19,10,True
+Terry Rozier,3,11,48,0,Driving Finger Roll Layup Shot,3,-28,20,True
+Terry Rozier,1,1,11,1,Driving Finger Roll Layup Shot,2,2,21,True
+Terry Rozier,1,1,38,0,Driving Finger Roll Layup Shot,2,-2,27,True
+Terry Rozier,4,10,54,1,Driving Finger Roll Layup Shot,2,6,22,True
+Terry Rozier,4,4,30,0,Driving Finger Roll Layup Shot,2,-15,14,True
+Terry Rozier,2,0,4,0,Driving Finger Roll Layup Shot,1,-11,-4,True
+Terry Rozier,4,5,5,1,Driving Finger Roll Layup Shot,1,-13,15,True
+Terry Rozier,3,1,8,1,Driving Finger Roll Layup Shot,3,-36,10,True
+Terry Rozier,1,2,48,1,Driving Finger Roll Layup Shot,2,2,21,True
+Terry Rozier,1,3,43,0,Driving Finger Roll Layup Shot,0,-1,0,True
+Terry Rozier,2,5,29,1,Driving Finger Roll Layup Shot,2,-5,20,True
+Terry Rozier,4,5,16,1,Driving Finger Roll Layup Shot,1,-5,16,True
+Terry Rozier,1,6,20,1,Driving Finger Roll Layup Shot,0,8,0,True
+Terry Rozier,3,1,16,0,Driving Finger Roll Layup Shot,5,47,36,True
+Terry Rozier,3,1,31,1,Driving Finger Roll Layup Shot,2,0,26,True
+Terry Rozier,4,0,23,0,Driving Finger Roll Layup Shot,4,-8,48,True
+Terry Rozier,2,9,39,1,Driving Finger Roll Layup Shot,3,20,29,True
+Terry Rozier,1,0,39,0,Driving Finger Roll Layup Shot,3,21,22,True
+Terry Rozier,2,0,46,0,Driving Finger Roll Layup Shot,5,4,50,True
+Terry Rozier,2,9,27,1,Driving Finger Roll Layup Shot,1,-13,10,True
+Terry Rozier,2,3,31,1,Driving Finger Roll Layup Shot,0,-1,7,True
+Terry Rozier,1,0,25,1,Driving Finger Roll Layup Shot,1,-3,14,True
+Terry Rozier,2,10,31,0,Driving Finger Roll Layup Shot,4,39,17,True
+Terry Rozier,1,1,5,1,Driving Finger Roll Layup Shot,2,21,2,True
+Terry Rozier,2,5,22,1,Driving Finger Roll Layup Shot,3,5,36,True
+Terry Rozier,3,1,7,1,Driving Finger Roll Layup Shot,1,3,10,True
+Terry Rozier,3,9,46,0,Driving Finger Roll Layup Shot,1,-15,10,True
+Terry Rozier,4,9,52,1,Driving Floating Bank Jump Shot,8,47,68,True
+Terry Rozier,2,9,42,1,Driving Floating Bank Jump Shot,4,25,38,True
+Terry Rozier,1,0,2,0,Driving Floating Bank Jump Shot,8,22,85,True
+Terry Rozier,2,8,10,1,Driving Floating Bank Jump Shot,5,39,34,True
+Terry Rozier,2,8,26,0,Driving Floating Bank Jump Shot,8,75,42,True
+Terry Rozier,3,11,12,0,Driving Floating Bank Jump Shot,6,40,56,True
+Terry Rozier,2,2,0,1,Driving Floating Bank Jump Shot,7,49,52,True
+Terry Rozier,3,0,29,0,Driving Floating Bank Jump Shot,4,32,37,True
+Terry Rozier,2,7,28,1,Driving Floating Bank Jump Shot,4,13,46,True
+Terry Rozier,4,1,16,1,Driving Floating Bank Jump Shot,7,51,57,True
+Terry Rozier,3,9,40,0,Driving Floating Jump Shot,11,-36,105,True
+Terry Rozier,3,8,21,0,Driving Floating Jump Shot,8,-78,21,True
+Terry Rozier,4,5,20,0,Driving Floating Jump Shot,9,-35,83,True
+Terry Rozier,4,6,4,0,Driving Floating Jump Shot,14,33,143,True
+Terry Rozier,2,9,35,1,Driving Floating Jump Shot,4,-8,42,True
+Terry Rozier,2,8,58,0,Driving Floating Jump Shot,12,-60,109,True
+Terry Rozier,4,6,57,0,Driving Floating Jump Shot,19,-58,190,True
+Terry Rozier,4,2,25,0,Driving Floating Jump Shot,11,-19,112,True
+Terry Rozier,3,1,46,0,Driving Floating Jump Shot,3,9,37,True
+Terry Rozier,2,0,44,0,Driving Floating Jump Shot,7,32,69,True
+Terry Rozier,1,2,59,1,Driving Floating Jump Shot,6,52,44,True
+Terry Rozier,1,6,47,1,Driving Floating Jump Shot,8,21,82,True
+Terry Rozier,1,5,46,0,Driving Floating Jump Shot,8,82,11,True
+Terry Rozier,2,10,51,1,Driving Floating Jump Shot,8,-6,81,True
+Terry Rozier,4,8,15,0,Driving Floating Jump Shot,9,43,89,True
+Terry Rozier,1,1,14,1,Driving Floating Jump Shot,11,-35,109,True
+Terry Rozier,4,8,48,1,Driving Floating Jump Shot,7,28,72,True
+Terry Rozier,3,2,34,0,Driving Floating Jump Shot,13,38,132,True
+Terry Rozier,4,10,27,0,Driving Floating Jump Shot,6,-44,46,True
+Terry Rozier,3,4,36,0,Driving Floating Jump Shot,8,-43,73,True
+Terry Rozier,1,2,36,0,Driving Floating Jump Shot,5,0,50,True
+Terry Rozier,4,6,56,0,Driving Floating Jump Shot,7,11,73,True
+Terry Rozier,2,8,26,1,Driving Floating Jump Shot,7,-8,71,True
+Terry Rozier,2,0,53,0,Driving Floating Jump Shot,3,-7,34,True
+Terry Rozier,2,4,11,0,Driving Floating Jump Shot,1,4,18,True
+Terry Rozier,4,11,22,1,Driving Hook Shot,10,43,94,True
+Terry Rozier,2,6,41,0,Driving Layup Shot,3,-20,27,True
+Terry Rozier,4,10,23,1,Driving Layup Shot,1,2,13,True
+Terry Rozier,1,4,16,0,Driving Layup Shot,2,-14,15,True
+Terry Rozier,2,10,2,0,Driving Layup Shot,2,-6,22,True
+Terry Rozier,1,0,45,0,Driving Layup Shot,2,14,15,True
+Terry Rozier,4,9,59,0,Driving Layup Shot,1,-13,15,True
+Terry Rozier,1,2,48,1,Driving Layup Shot,1,8,7,True
+Terry Rozier,2,2,9,0,Driving Layup Shot,2,-13,19,True
+Terry Rozier,2,9,5,0,Driving Layup Shot,4,9,43,True
+Terry Rozier,4,11,46,1,Driving Layup Shot,1,11,14,True
+Terry Rozier,1,0,28,0,Driving Layup Shot,4,0,49,True
+Terry Rozier,1,1,45,0,Driving Layup Shot,1,13,8,True
+Terry Rozier,4,1,8,1,Driving Layup Shot,2,-8,26,True
+Terry Rozier,1,6,26,0,Driving Layup Shot,3,16,31,True
+Terry Rozier,2,7,27,0,Driving Layup Shot,0,0,4,True
+Terry Rozier,1,0,29,1,Driving Layup Shot,3,27,16,True
+Terry Rozier,2,9,45,0,Driving Layup Shot,6,19,58,True
+Terry Rozier,2,7,3,1,Driving Layup Shot,1,5,19,True
+Terry Rozier,2,0,27,0,Driving Layup Shot,1,-12,12,True
+Terry Rozier,4,0,7,1,Driving Layup Shot,2,-9,26,True
+Terry Rozier,2,7,37,0,Driving Layup Shot,4,26,41,True
+Terry Rozier,3,3,42,0,Driving Layup Shot,2,-20,9,True
+Terry Rozier,2,7,27,0,Driving Layup Shot,3,20,32,True
+Terry Rozier,4,8,59,0,Driving Layup Shot,4,-8,40,True
+Terry Rozier,3,3,16,0,Driving Layup Shot,2,20,1,True
+Terry Rozier,4,5,33,0,Driving Layup Shot,3,19,32,True
+Terry Rozier,1,2,44,1,Driving Layup Shot,3,20,32,True
+Terry Rozier,1,0,13,0,Driving Layup Shot,0,5,1,True
+Terry Rozier,4,8,42,0,Driving Layup Shot,1,18,8,True
+Terry Rozier,2,8,49,0,Driving Layup Shot,1,-8,13,True
+Terry Rozier,4,9,41,0,Driving Layup Shot,2,-27,11,True
+Terry Rozier,4,8,0,0,Driving Layup Shot,3,29,18,True
+Terry Rozier,3,3,23,0,Driving Layup Shot,3,-25,29,True
+Terry Rozier,1,1,12,1,Driving Layup Shot,1,-14,12,True
+Terry Rozier,2,8,2,0,Driving Layup Shot,5,-13,50,True
+Terry Rozier,3,1,5,0,Driving Layup Shot,3,-16,31,True
+Terry Rozier,4,8,50,0,Driving Layup Shot,1,14,9,True
+Terry Rozier,4,4,49,0,Driving Layup Shot,1,12,5,True
+Terry Rozier,4,7,34,0,Driving Layup Shot,2,-25,6,True
+Terry Rozier,3,6,9,1,Driving Layup Shot,2,20,-1,True
+Terry Rozier,2,8,46,0,Driving Layup Shot,1,16,6,True
+Terry Rozier,2,0,50,1,Driving Layup Shot,1,19,2,True
+Terry Rozier,1,7,11,1,Driving Layup Shot,2,6,26,True
+Terry Rozier,3,4,47,0,Driving Layup Shot,3,-24,20,True
+Terry Rozier,1,1,43,0,Driving Layup Shot,4,14,47,True
+Terry Rozier,2,10,54,0,Driving Layup Shot,2,-13,21,True
+Terry Rozier,4,11,29,0,Driving Layup Shot,1,-1,10,True
+Terry Rozier,2,3,29,0,Driving Layup Shot,2,-7,22,True
+Terry Rozier,4,9,59,0,Driving Layup Shot,2,-13,16,True
+Terry Rozier,3,3,30,0,Driving Layup Shot,4,-31,26,True
+Terry Rozier,1,10,16,1,Driving Layup Shot,4,38,28,True
+Terry Rozier,2,8,31,0,Driving Layup Shot,1,11,14,True
+Terry Rozier,4,2,43,1,Driving Layup Shot,2,-20,5,True
+Terry Rozier,1,1,47,0,Driving Layup Shot,5,51,-8,True
+Terry Rozier,2,0,27,0,Driving Layup Shot,6,-60,31,True
+Terry Rozier,1,0,41,0,Driving Layup Shot,0,0,5,True
+Terry Rozier,4,6,33,0,Driving Layup Shot,7,9,73,True
+Terry Rozier,4,9,16,1,Driving Layup Shot,1,5,16,True
+Terry Rozier,4,10,38,1,Driving Layup Shot,2,23,5,True
+Terry Rozier,1,0,56,1,Driving Layup Shot,1,-12,1,True
+Terry Rozier,4,7,57,0,Driving Layup Shot,4,-42,15,True
+Terry Rozier,4,7,2,0,Driving Layup Shot,4,-21,35,True
+Terry Rozier,3,4,8,0,Driving Reverse Layup Shot,1,-11,11,True
+Terry Rozier,4,8,25,0,Driving Reverse Layup Shot,2,-6,27,True
+Terry Rozier,1,8,24,0,Driving Reverse Layup Shot,1,13,11,True
+Terry Rozier,1,3,32,1,Driving Reverse Layup Shot,1,-7,15,True
+Terry Rozier,1,8,33,1,Driving Reverse Layup Shot,0,-8,-1,True
+Terry Rozier,2,8,24,1,Driving Reverse Layup Shot,1,-6,11,True
+Terry Rozier,3,2,17,1,Driving Reverse Layup Shot,1,6,8,True
+Terry Rozier,3,0,54,1,Fadeaway Jump Shot,19,193,52,True
+Terry Rozier,2,7,53,0,Fadeaway Jump Shot,14,32,144,True
+Terry Rozier,2,5,37,0,Fadeaway Jump Shot,9,-88,38,True
+Terry Rozier,2,7,5,0,Fadeaway Jump Shot,14,58,132,True
+Terry Rozier,2,11,22,0,Fadeaway Jump Shot,7,2,78,True
+Terry Rozier,1,6,2,0,Fadeaway Jump Shot,11,-38,113,True
+Terry Rozier,3,10,39,0,Fadeaway Jump Shot,17,-146,104,True
+Terry Rozier,2,10,17,0,Finger Roll Layup Shot,2,8,20,True
+Terry Rozier,1,1,53,0,Floating Jump shot,9,7,93,True
+Terry Rozier,4,3,17,0,Floating Jump shot,11,-40,111,True
+Terry Rozier,2,10,30,0,Floating Jump shot,11,-30,115,True
+Terry Rozier,2,8,33,1,Floating Jump shot,7,-72,10,True
+Terry Rozier,2,3,40,0,Floating Jump shot,9,27,93,True
+Terry Rozier,1,2,48,0,Floating Jump shot,13,-119,57,True
+Terry Rozier,4,4,28,0,Floating Jump shot,8,-2,82,True
+Terry Rozier,2,9,44,0,Floating Jump shot,12,-7,120,True
+Terry Rozier,2,7,25,0,Jump Bank Shot,9,90,36,True
+Terry Rozier,2,8,24,0,Jump Shot,28,-147,244,False
+Terry Rozier,4,9,54,0,Jump Shot,26,-187,193,False
+Terry Rozier,4,0,18,1,Jump Shot,27,154,224,False
+Terry Rozier,3,4,31,1,Jump Shot,27,171,216,False
+Terry Rozier,4,8,11,0,Jump Shot,27,132,237,False
+Terry Rozier,2,11,19,0,Jump Shot,23,230,34,False
+Terry Rozier,1,0,7,0,Jump Shot,23,237,-17,False
+Terry Rozier,2,9,33,0,Jump Shot,26,-187,183,False
+Terry Rozier,4,6,58,0,Jump Shot,28,126,258,False
+Terry Rozier,3,1,45,0,Jump Shot,26,-147,225,False
+Terry Rozier,2,8,59,0,Jump Shot,24,-107,217,False
+Terry Rozier,4,7,2,0,Jump Shot,28,163,236,False
+Terry Rozier,1,2,59,1,Jump Shot,26,-150,215,False
+Terry Rozier,1,0,25,0,Jump Shot,24,31,248,False
+Terry Rozier,2,3,47,0,Jump Shot,24,182,164,False
+Terry Rozier,3,8,29,0,Jump Shot,25,-205,150,False
+Terry Rozier,4,5,55,1,Jump Shot,24,183,168,False
+Terry Rozier,4,5,17,0,Jump Shot,26,-149,214,False
+Terry Rozier,2,5,30,0,Jump Shot,26,-189,192,False
+Terry Rozier,1,0,14,0,Jump Shot,18,-4,187,True
+Terry Rozier,2,4,9,1,Jump Shot,27,65,267,False
+Terry Rozier,1,1,35,1,Jump Shot,14,-148,10,True
+Terry Rozier,3,2,53,0,Jump Shot,26,-163,205,False
+Terry Rozier,2,5,38,0,Jump Shot,25,174,181,False
+Terry Rozier,4,7,2,0,Jump Shot,25,47,252,False
+Terry Rozier,4,11,25,1,Jump Shot,17,-3,178,True
+Terry Rozier,2,0,0,0,Jump Shot,56,105,558,False
+Terry Rozier,1,9,49,1,Jump Shot,25,-128,223,False
+Terry Rozier,2,6,3,1,Jump Shot,23,-236,-24,False
+Terry Rozier,1,0,16,1,Jump Shot,25,-115,233,False
+Terry Rozier,4,6,30,0,Jump Shot,25,209,151,False
+Terry Rozier,4,5,17,0,Jump Shot,26,-176,194,False
+Terry Rozier,4,2,39,0,Jump Shot,25,87,242,False
+Terry Rozier,4,3,41,0,Jump Shot,26,88,250,False
+Terry Rozier,4,6,10,1,Jump Shot,28,-164,230,False
+Terry Rozier,3,6,25,1,Jump Shot,24,185,160,False
+Terry Rozier,3,0,13,1,Jump Shot,26,107,238,False
+Terry Rozier,3,7,3,0,Jump Shot,25,149,201,False
+Terry Rozier,1,4,51,0,Jump Shot,23,-231,29,False
+Terry Rozier,1,0,34,1,Jump Shot,26,-65,255,False
+Terry Rozier,1,9,30,0,Jump Shot,25,-177,180,False
+Terry Rozier,1,10,33,1,Jump Shot,25,110,227,False
+Terry Rozier,2,9,47,0,Jump Shot,23,231,42,False
+Terry Rozier,2,0,29,0,Jump Shot,26,-155,215,False
+Terry Rozier,2,0,0,0,Jump Shot,24,194,153,False
+Terry Rozier,4,8,7,1,Jump Shot,22,-223,16,False
+Terry Rozier,1,7,2,1,Jump Shot,22,-228,7,False
+Terry Rozier,1,0,1,0,Jump Shot,25,117,228,False
+Terry Rozier,3,5,24,0,Jump Shot,28,-111,260,False
+Terry Rozier,4,6,4,1,Jump Shot,22,-223,-17,False
+Terry Rozier,2,2,47,0,Jump Shot,25,225,109,False
+Terry Rozier,3,4,15,0,Jump Shot,23,-223,79,False
+Terry Rozier,1,5,34,0,Jump Shot,24,-201,143,False
+Terry Rozier,4,0,45,0,Jump Shot,27,54,267,False
+Terry Rozier,4,11,37,0,Jump Shot,27,177,205,False
+Terry Rozier,2,9,32,0,Jump Shot,25,168,196,False
+Terry Rozier,3,6,2,1,Jump Shot,23,-232,-10,False
+Terry Rozier,3,5,31,0,Jump Shot,20,-207,1,True
+Terry Rozier,4,1,49,1,Jump Shot,26,-169,198,False
+Terry Rozier,4,7,12,0,Jump Shot,26,-114,242,False
+Terry Rozier,2,9,36,0,Jump Shot,12,-49,117,True
+Terry Rozier,1,1,13,0,Jump Shot,26,44,262,False
+Terry Rozier,3,0,13,1,Jump Shot,25,125,218,False
+Terry Rozier,1,6,36,1,Jump Shot,26,-223,152,False
+Terry Rozier,4,9,47,0,Jump Shot,3,-11,36,True
+Terry Rozier,3,3,25,0,Jump Shot,25,-192,169,False
+Terry Rozier,4,3,7,0,Jump Shot,24,118,218,False
+Terry Rozier,1,1,27,0,Jump Shot,26,-129,234,False
+Terry Rozier,2,6,49,0,Jump Shot,26,90,247,False
+Terry Rozier,4,0,23,1,Jump Shot,27,-134,242,False
+Terry Rozier,1,1,56,0,Jump Shot,25,-109,236,False
+Terry Rozier,4,11,18,0,Jump Shot,23,226,71,False
+Terry Rozier,4,10,54,0,Jump Shot,26,-54,260,False
+Terry Rozier,4,5,30,0,Jump Shot,23,236,40,False
+Terry Rozier,2,9,4,0,Jump Shot,23,-235,2,False
+Terry Rozier,4,0,2,0,Jump Shot,27,181,206,False
+Terry Rozier,2,8,55,0,Jump Shot,27,-107,252,False
+Terry Rozier,3,3,1,0,Jump Shot,25,-230,116,False
+Terry Rozier,1,2,32,0,Jump Shot,26,-73,258,False
+Terry Rozier,1,4,19,0,Jump Shot,26,-190,180,False
+Terry Rozier,1,1,40,1,Jump Shot,27,-54,265,False
+Terry Rozier,1,0,13,0,Jump Shot,28,-45,285,False
+Terry Rozier,2,10,37,0,Jump Shot,19,149,121,True
+Terry Rozier,3,0,0,1,Jump Shot,28,33,287,False
+Terry Rozier,4,11,29,0,Jump Shot,11,49,105,True
+Terry Rozier,1,10,46,0,Jump Shot,18,-186,31,True
+Terry Rozier,3,0,1,0,Jump Shot,19,-58,190,True
+Terry Rozier,1,2,47,0,Jump Shot,25,-169,193,False
+Terry Rozier,2,5,40,0,Jump Shot,24,-232,81,False
+Terry Rozier,4,7,25,0,Jump Shot,26,-156,211,False
+Terry Rozier,2,0,45,0,Jump Shot,25,87,244,False
+Terry Rozier,2,11,30,0,Jump Shot,26,-122,231,False
+Terry Rozier,4,9,43,1,Jump Shot,25,-133,222,False
+Terry Rozier,2,2,53,0,Jump Shot,25,-212,136,False
+Terry Rozier,2,8,19,0,Jump Shot,24,-239,22,False
+Terry Rozier,2,0,0,0,Jump Shot,25,130,223,False
+Terry Rozier,4,8,39,1,Jump Shot,25,-95,240,False
+Terry Rozier,4,9,16,0,Jump Shot,26,180,193,False
+Terry Rozier,4,8,2,1,Jump Shot,27,160,218,False
+Terry Rozier,1,1,2,0,Jump Shot,24,-127,211,False
+Terry Rozier,2,6,39,0,Jump Shot,26,-145,225,False
+Terry Rozier,3,0,34,0,Jump Shot,26,-136,225,False
+Terry Rozier,4,4,54,0,Jump Shot,25,235,98,False
+Terry Rozier,2,5,39,1,Jump Shot,23,-230,4,False
+Terry Rozier,2,3,44,0,Jump Shot,24,215,125,False
+Terry Rozier,4,6,50,0,Jump Shot,27,-120,252,False
+Terry Rozier,2,0,0,0,Jump Shot,44,179,412,False
+Terry Rozier,4,5,33,1,Jump Shot,27,70,264,False
+Terry Rozier,2,4,2,0,Jump Shot,57,-131,557,False
+Terry Rozier,4,7,9,1,Jump Shot,27,60,267,False
+Terry Rozier,2,3,32,0,Jump Shot,23,-235,33,False
+Terry Rozier,1,0,39,1,Jump Shot,25,-49,254,False
+Terry Rozier,2,5,35,1,Jump Shot,27,-125,242,False
+Terry Rozier,4,10,1,0,Jump Shot,23,233,8,False
+Terry Rozier,1,3,10,0,Jump Shot,24,231,78,False
+Terry Rozier,4,10,48,1,Jump Shot,28,88,268,False
+Terry Rozier,4,9,24,0,Jump Shot,26,-109,246,False
+Terry Rozier,3,0,33,0,Jump Shot,24,-175,174,False
+Terry Rozier,4,11,43,0,Jump Shot,25,95,239,False
+Terry Rozier,2,11,0,0,Jump Shot,25,-107,230,False
+Terry Rozier,4,11,35,1,Jump Shot,27,9,274,False
+Terry Rozier,2,7,36,1,Jump Shot,24,-234,62,False
+Terry Rozier,3,2,51,1,Jump Shot,24,-190,151,False
+Terry Rozier,3,2,23,0,Jump Shot,22,-225,10,False
+Terry Rozier,1,2,42,0,Jump Shot,24,131,211,False
+Terry Rozier,3,5,23,0,Jump Shot,26,182,192,False
+Terry Rozier,2,10,23,1,Jump Shot,26,-136,231,False
+Terry Rozier,1,0,1,1,Jump Shot,26,-151,216,False
+Terry Rozier,1,0,4,0,Jump Shot,27,70,262,False
+Terry Rozier,4,3,35,0,Jump Shot,26,-14,269,False
+Terry Rozier,1,6,5,0,Jump Shot,28,-14,280,False
+Terry Rozier,3,0,48,0,Jump Shot,24,-239,48,False
+Terry Rozier,2,4,40,0,Jump Shot,22,-228,-1,False
+Terry Rozier,3,0,3,1,Jump Shot,22,-226,-2,False
+Terry Rozier,4,11,46,0,Jump Shot,19,-14,196,True
+Terry Rozier,2,3,17,1,Jump Shot,22,219,36,False
+Terry Rozier,2,1,55,1,Jump Shot,24,-13,245,False
+Terry Rozier,1,0,0,0,Jump Shot,24,-216,116,False
+Terry Rozier,1,10,13,1,Jump Shot,24,-204,140,False
+Terry Rozier,4,11,35,0,Jump Shot,27,-43,274,False
+Terry Rozier,2,10,11,0,Jump Shot,25,-73,247,False
+Terry Rozier,2,10,21,1,Jump Shot,22,226,22,False
+Terry Rozier,1,1,11,0,Jump Shot,22,227,-10,False
+Terry Rozier,4,8,1,0,Jump Shot,25,178,189,False
+Terry Rozier,1,0,1,0,Jump Shot,26,-172,195,False
+Terry Rozier,4,8,8,0,Jump Shot,27,196,197,False
+Terry Rozier,2,10,17,1,Jump Shot,25,74,242,False
+Terry Rozier,2,9,52,0,Jump Shot,24,195,152,False
+Terry Rozier,4,10,57,0,Jump Shot,26,55,256,False
+Terry Rozier,2,9,10,0,Jump Shot,23,230,10,False
+Terry Rozier,4,11,6,1,Jump Shot,16,-160,32,True
+Terry Rozier,3,1,39,0,Jump Shot,27,127,239,False
+Terry Rozier,1,0,22,0,Jump Shot,25,-112,228,False
+Terry Rozier,3,2,28,0,Jump Shot,26,72,251,False
+Terry Rozier,1,3,13,0,Jump Shot,24,106,221,False
+Terry Rozier,1,0,42,1,Jump Shot,26,16,266,False
+Terry Rozier,2,0,8,1,Jump Shot,25,-174,180,False
+Terry Rozier,4,9,8,1,Jump Shot,26,54,262,False
+Terry Rozier,2,7,56,0,Jump Shot,24,180,173,False
+Terry Rozier,1,1,54,0,Jump Shot,27,127,242,False
+Terry Rozier,3,9,39,0,Jump Shot,23,-231,32,False
+Terry Rozier,1,2,30,0,Jump Shot,20,-199,-20,True
+Terry Rozier,2,2,46,0,Jump Shot,23,-237,1,False
+Terry Rozier,1,1,53,0,Jump Shot,27,191,192,False
+Terry Rozier,3,1,10,0,Jump Shot,5,38,33,True
+Terry Rozier,4,6,18,0,Jump Shot,24,240,69,False
+Terry Rozier,1,9,49,0,Jump Shot,24,45,237,False
+Terry Rozier,2,5,26,1,Jump Shot,26,217,147,False
+Terry Rozier,1,0,46,0,Jump Shot,25,-163,199,False
+Terry Rozier,3,1,48,1,Jump Shot,25,-221,131,False
+Terry Rozier,2,3,49,0,Jump Shot,23,-237,-29,False
+Terry Rozier,4,0,31,1,Jump Shot,25,-150,204,False
+Terry Rozier,2,8,1,0,Jump Shot,24,199,149,False
+Terry Rozier,2,10,35,1,Jump Shot,27,-77,259,False
+Terry Rozier,4,10,12,1,Jump Shot,26,-107,243,False
+Terry Rozier,2,0,30,0,Jump Shot,25,-149,213,False
+Terry Rozier,3,5,4,1,Jump Shot,27,5,271,False
+Terry Rozier,1,3,45,1,Jump Shot,24,-172,173,False
+Terry Rozier,2,2,28,1,Jump Shot,25,-179,178,False
+Terry Rozier,1,2,3,1,Jump Shot,24,151,194,False
+Terry Rozier,2,7,49,0,Jump Shot,24,92,226,False
+Terry Rozier,2,6,3,1,Jump Shot,17,-67,165,True
+Terry Rozier,4,10,32,0,Jump Shot,26,-204,171,False
+Terry Rozier,3,5,8,0,Jump Shot,23,-140,194,False
+Terry Rozier,4,6,51,1,Jump Shot,22,-222,-17,False
+Terry Rozier,3,1,25,1,Jump Shot,23,231,6,False
+Terry Rozier,2,2,47,1,Jump Shot,23,-232,17,False
+Terry Rozier,2,9,2,0,Jump Shot,24,193,155,False
+Terry Rozier,4,4,0,1,Jump Shot,26,-3,263,False
+Terry Rozier,2,10,6,0,Jump Shot,24,-212,121,False
+Terry Rozier,2,11,46,1,Jump Shot,25,9,253,False
+Terry Rozier,4,0,12,0,Jump Shot,24,228,76,False
+Terry Rozier,2,10,18,0,Jump Shot,25,54,250,False
+Terry Rozier,2,5,21,1,Jump Shot,23,-225,57,False
+Terry Rozier,3,1,34,0,Jump Shot,25,-147,210,False
+Terry Rozier,2,7,20,0,Jump Shot,25,-119,222,False
+Terry Rozier,1,2,16,1,Jump Shot,24,-154,194,False
+Terry Rozier,4,9,5,1,Jump Shot,24,3,242,False
+Terry Rozier,1,1,49,0,Jump Shot,23,-231,4,False
+Terry Rozier,2,8,24,0,Jump Shot,25,-189,168,False
+Terry Rozier,3,3,17,0,Jump Shot,22,228,6,False
+Terry Rozier,3,2,33,0,Jump Shot,11,112,29,True
+Terry Rozier,2,4,59,0,Jump Shot,24,124,207,False
+Terry Rozier,1,0,17,0,Jump Shot,25,163,195,False
+Terry Rozier,1,5,44,0,Jump Shot,17,-87,157,True
+Terry Rozier,4,3,3,1,Jump Shot,22,-220,38,False
+Terry Rozier,2,11,21,0,Jump Shot,17,-143,101,True
+Terry Rozier,3,1,9,0,Jump Shot,22,-226,1,False
+Terry Rozier,4,11,14,0,Jump Shot,26,-134,232,False
+Terry Rozier,3,0,3,1,Jump Shot,27,122,246,False
+Terry Rozier,4,4,15,0,Jump Shot,24,229,93,False
+Terry Rozier,3,1,59,0,Jump Shot,27,159,222,False
+Terry Rozier,1,4,28,1,Jump Shot,25,-125,226,False
+Terry Rozier,2,0,2,1,Jump Shot,24,-158,190,False
+Terry Rozier,3,1,20,0,Jump Shot,8,14,80,True
+Terry Rozier,2,9,30,0,Jump Shot,24,-115,220,False
+Terry Rozier,2,5,40,1,Jump Shot,23,226,59,False
+Terry Rozier,4,1,10,1,Jump Shot,25,121,226,False
+Terry Rozier,2,4,0,1,Jump Shot,24,214,127,False
+Terry Rozier,4,9,29,0,Jump Shot,27,182,205,False
+Terry Rozier,2,0,0,0,Jump Shot,37,125,349,False
+Terry Rozier,2,8,41,0,Jump Shot,23,225,71,False
+Terry Rozier,2,8,27,1,Jump Shot,27,-183,199,False
+Terry Rozier,4,8,54,0,Jump Shot,24,-209,136,False
+Terry Rozier,1,1,19,0,Jump Shot,12,90,87,True
+Terry Rozier,3,6,56,0,Jump Shot,25,-106,235,False
+Terry Rozier,4,4,13,0,Jump Shot,22,226,42,False
+Terry Rozier,1,6,54,0,Jump Shot,25,-106,235,False
+Terry Rozier,3,11,4,0,Jump Shot,22,-227,10,False
+Terry Rozier,3,2,26,1,Jump Shot,24,-106,223,False
+Terry Rozier,4,0,35,0,Jump Shot,25,-131,220,False
+Terry Rozier,1,8,49,0,Jump Shot,22,-224,-1,False
+Terry Rozier,4,7,16,0,Jump Shot,24,218,120,False
+Terry Rozier,1,11,12,1,Jump Shot,22,-229,4,False
+Terry Rozier,2,0,18,0,Jump Shot,24,111,224,False
+Terry Rozier,3,3,25,0,Jump Shot,24,-127,215,False
+Terry Rozier,3,8,56,1,Jump Shot,25,-121,228,False
+Terry Rozier,1,10,59,0,Jump Shot,24,112,218,False
+Terry Rozier,2,5,3,1,Jump Shot,8,30,80,True
+Terry Rozier,2,3,47,1,Jump Shot,20,36,202,True
+Terry Rozier,2,5,17,0,Jump Shot,16,151,59,True
+Terry Rozier,2,6,24,1,Jump Shot,12,55,116,True
+Terry Rozier,1,4,28,0,Jump Shot,24,-78,231,False
+Terry Rozier,4,11,30,1,Jump Shot,24,-65,241,False
+Terry Rozier,3,6,4,0,Jump Shot,26,-187,185,False
+Terry Rozier,1,5,59,0,Jump Shot,25,-230,106,False
+Terry Rozier,3,7,30,1,Jump Shot,25,-36,252,False
+Terry Rozier,3,3,25,0,Jump Shot,25,96,235,False
+Terry Rozier,3,3,42,0,Jump Shot,22,-228,11,False
+Terry Rozier,3,6,29,1,Jump Shot,25,-206,151,False
+Terry Rozier,4,7,57,0,Jump Shot,25,203,151,False
+Terry Rozier,2,6,22,0,Jump Shot,23,230,20,False
+Terry Rozier,3,1,41,1,Jump Shot,25,157,197,False
+Terry Rozier,2,9,2,0,Jump Shot,25,51,252,False
+Terry Rozier,3,4,31,0,Jump Shot,25,-33,257,False
+Terry Rozier,4,5,6,0,Jump Shot,25,26,256,False
+Terry Rozier,4,11,43,0,Jump Shot,25,-88,244,False
+Terry Rozier,4,5,39,1,Jump Shot,22,-223,38,False
+Terry Rozier,4,1,6,0,Jump Shot,27,-98,257,False
+Terry Rozier,3,6,58,1,Jump Shot,9,0,97,True
+Terry Rozier,4,10,38,1,Jump Shot,26,101,241,False
+Terry Rozier,4,4,10,0,Jump Shot,15,72,137,True
+Terry Rozier,1,0,24,1,Jump Shot,25,171,190,False
+Terry Rozier,1,4,2,1,Jump Shot,22,-202,91,True
+Terry Rozier,3,0,2,0,Jump Shot,28,-115,259,False
+Terry Rozier,4,4,1,1,Jump Shot,23,-237,19,False
+Terry Rozier,2,2,42,0,Jump Shot,6,0,60,True
+Terry Rozier,2,3,18,1,Jump Shot,22,-223,54,False
+Terry Rozier,4,2,34,1,Jump Shot,27,181,213,False
+Terry Rozier,1,0,55,1,Jump Shot,8,-1,85,True
+Terry Rozier,3,6,13,0,Jump Shot,26,175,194,False
+Terry Rozier,2,10,50,0,Jump Shot,25,130,218,False
+Terry Rozier,4,3,39,0,Jump Shot,22,-223,4,False
+Terry Rozier,3,3,4,0,Jump Shot,17,133,120,True
+Terry Rozier,2,8,12,0,Jump Shot,25,173,184,False
+Terry Rozier,1,0,9,1,Jump Shot,25,51,248,False
+Terry Rozier,1,1,14,1,Jump Shot,24,-242,47,False
+Terry Rozier,3,3,9,0,Jump Shot,26,-90,248,False
+Terry Rozier,3,10,19,0,Jump Shot,22,-222,4,False
+Terry Rozier,3,0,47,1,Jump Shot,25,-128,220,False
+Terry Rozier,2,10,47,0,Jump Shot,26,-133,231,False
+Terry Rozier,2,6,8,1,Jump Shot,25,-117,231,False
+Terry Rozier,2,3,44,1,Jump Shot,26,-171,200,False
+Terry Rozier,4,1,41,1,Jump Shot,25,-156,201,False
+Terry Rozier,4,6,26,1,Jump Shot,26,179,194,False
+Terry Rozier,4,7,36,0,Jump Shot,25,203,159,False
+Terry Rozier,1,1,24,0,Jump Shot,25,-3,256,False
+Terry Rozier,2,2,55,0,Jump Shot,26,-179,195,False
+Terry Rozier,4,7,29,1,Jump Shot,22,-222,29,False
+Terry Rozier,2,8,7,0,Jump Shot,24,-8,249,False
+Terry Rozier,1,2,42,0,Jump Shot,24,116,221,False
+Terry Rozier,2,11,7,1,Jump Shot,26,83,251,False
+Terry Rozier,1,0,4,0,Jump Shot,25,75,239,False
+Terry Rozier,2,0,1,1,Jump Shot,25,-134,218,False
+Terry Rozier,1,0,0,0,Jump Shot,36,33,363,False
+Terry Rozier,4,11,46,0,Jump Shot,26,145,227,False
+Terry Rozier,3,1,14,1,Jump Shot,31,57,308,False
+Terry Rozier,3,5,31,0,Jump Shot,23,-232,3,False
+Terry Rozier,4,5,39,0,Jump Shot,22,-226,11,False
+Terry Rozier,1,5,40,1,Jump Shot,24,-30,246,False
+Terry Rozier,2,10,23,0,Jump Shot,16,-18,159,True
+Terry Rozier,4,8,45,1,Jump Shot,26,-125,235,False
+Terry Rozier,2,9,56,0,Jump Shot,24,104,224,False
+Terry Rozier,1,0,0,0,Jump Shot,46,182,432,False
+Terry Rozier,3,4,41,0,Jump Shot,26,-138,223,False
+Terry Rozier,2,11,41,0,Jump Shot,10,32,96,True
+Terry Rozier,3,1,26,1,Jump Shot,26,-83,247,False
+Terry Rozier,4,8,10,0,Jump Shot,25,5,259,False
+Terry Rozier,1,3,4,1,Jump Shot,21,-31,211,True
+Terry Rozier,2,2,14,1,Jump Shot,7,73,27,True
+Terry Rozier,1,1,53,1,Jump Shot,25,60,243,False
+Terry Rozier,1,3,14,1,Jump Shot,25,124,227,False
+Terry Rozier,4,7,1,0,Jump Shot,24,-69,232,False
+Terry Rozier,1,0,25,0,Jump Shot,28,-159,236,False
+Terry Rozier,2,0,58,0,Jump Shot,23,230,29,False
+Terry Rozier,3,6,57,1,Jump Shot,24,-145,201,False
+Terry Rozier,2,3,25,0,Jump Shot,22,228,6,False
+Terry Rozier,3,2,41,0,Jump Shot,26,39,266,False
+Terry Rozier,3,4,17,0,Jump Shot,25,150,207,False
+Terry Rozier,3,7,47,1,Jump Shot,22,-223,21,False
+Terry Rozier,3,4,52,0,Jump Shot,25,-104,233,False
+Terry Rozier,2,9,48,0,Jump Shot,20,-115,173,True
+Terry Rozier,3,4,12,0,Jump Shot,23,231,37,False
+Terry Rozier,2,9,57,0,Jump Shot,27,153,225,False
+Terry Rozier,4,8,8,1,Jump Shot,19,127,150,True
+Terry Rozier,2,11,17,1,Jump Shot,24,-112,220,False
+Terry Rozier,2,1,0,0,Layup Shot,2,2,21,True
+Terry Rozier,3,0,26,0,Layup Shot,8,-72,43,True
+Terry Rozier,1,3,38,1,Layup Shot,1,15,7,True
+Terry Rozier,4,7,40,0,Layup Shot,3,-25,21,True
+Terry Rozier,4,10,50,0,Layup Shot,1,8,11,True
+Terry Rozier,2,4,31,0,Layup Shot,2,2,28,True
+Terry Rozier,2,11,21,0,Layup Shot,2,-16,15,True
+Terry Rozier,2,9,28,0,Layup Shot,2,0,21,True
+Terry Rozier,1,1,25,0,Layup Shot,2,20,5,True
+Terry Rozier,3,2,27,0,Layup Shot,2,-20,22,True
+Terry Rozier,4,8,29,0,Layup Shot,3,-22,23,True
+Terry Rozier,4,7,7,1,Layup Shot,2,16,13,True
+Terry Rozier,4,8,9,0,Layup Shot,6,-55,34,True
+Terry Rozier,2,6,6,0,Layup Shot,2,20,17,True
+Terry Rozier,4,11,31,1,Layup Shot,4,-1,41,True
+Terry Rozier,2,10,54,0,Layup Shot,3,-32,0,True
+Terry Rozier,3,0,0,0,Pullup Jump shot,37,2,377,False
+Terry Rozier,3,7,5,0,Pullup Jump shot,16,-138,83,True
+Terry Rozier,3,4,57,0,Pullup Jump shot,14,24,148,True
+Terry Rozier,2,4,6,1,Pullup Jump shot,26,-182,195,False
+Terry Rozier,1,5,7,0,Pullup Jump shot,18,-49,181,True
+Terry Rozier,1,8,26,0,Pullup Jump shot,19,-168,99,True
+Terry Rozier,2,4,14,0,Pullup Jump shot,10,38,99,True
+Terry Rozier,4,4,35,0,Pullup Jump shot,16,88,145,True
+Terry Rozier,4,6,58,1,Pullup Jump shot,25,164,189,False
+Terry Rozier,1,1,4,0,Pullup Jump shot,16,70,154,True
+Terry Rozier,3,10,27,0,Pullup Jump shot,15,-3,155,True
+Terry Rozier,3,9,22,1,Pullup Jump shot,23,236,43,False
+Terry Rozier,4,8,53,1,Pullup Jump shot,25,-169,185,False
+Terry Rozier,4,4,26,1,Pullup Jump shot,13,51,123,True
+Terry Rozier,1,5,40,0,Pullup Jump shot,24,108,217,False
+Terry Rozier,1,6,41,0,Pullup Jump shot,14,-133,49,True
+Terry Rozier,3,10,22,0,Pullup Jump shot,16,152,73,True
+Terry Rozier,3,11,14,1,Pullup Jump shot,20,-151,142,True
+Terry Rozier,2,4,30,1,Pullup Jump shot,25,-169,191,False
+Terry Rozier,4,0,12,1,Pullup Jump shot,27,150,226,False
+Terry Rozier,1,3,11,0,Pullup Jump shot,24,112,217,False
+Terry Rozier,1,9,52,0,Pullup Jump shot,27,-62,263,False
+Terry Rozier,3,10,19,0,Pullup Jump shot,25,-204,148,False
+Terry Rozier,3,2,30,0,Pullup Jump shot,19,102,167,True
+Terry Rozier,2,2,32,0,Pullup Jump shot,25,-108,234,False
+Terry Rozier,1,8,41,0,Pullup Jump shot,15,-9,150,True
+Terry Rozier,2,6,1,1,Pullup Jump shot,19,130,151,True
+Terry Rozier,2,11,3,1,Pullup Jump shot,21,117,178,True
+Terry Rozier,4,4,13,1,Pullup Jump shot,26,-71,256,False
+Terry Rozier,2,6,26,0,Pullup Jump shot,25,143,216,False
+Terry Rozier,3,2,2,1,Pullup Jump shot,17,145,95,True
+Terry Rozier,4,0,20,0,Pullup Jump shot,16,-40,162,True
+Terry Rozier,3,0,26,0,Pullup Jump shot,27,187,201,False
+Terry Rozier,1,0,1,0,Pullup Jump shot,40,152,375,False
+Terry Rozier,2,5,50,1,Pullup Jump shot,25,-157,201,False
+Terry Rozier,3,2,1,0,Pullup Jump shot,16,106,131,True
+Terry Rozier,3,2,25,1,Pullup Jump shot,17,44,172,True
+Terry Rozier,2,9,0,1,Pullup Jump shot,15,18,152,True
+Terry Rozier,4,9,58,1,Pullup Jump shot,26,-149,216,False
+Terry Rozier,1,4,32,0,Pullup Jump shot,18,93,163,True
+Terry Rozier,4,0,45,0,Pullup Jump shot,26,155,218,False
+Terry Rozier,3,0,0,1,Pullup Jump shot,34,89,335,False
+Terry Rozier,2,10,55,0,Pullup Jump shot,18,130,128,True
+Terry Rozier,2,5,44,1,Pullup Jump shot,19,177,90,True
+Terry Rozier,2,5,6,1,Pullup Jump shot,27,-50,270,False
+Terry Rozier,1,3,8,1,Pullup Jump shot,27,-139,237,False
+Terry Rozier,2,1,19,0,Pullup Jump shot,15,-12,155,True
+Terry Rozier,2,2,29,1,Pullup Jump shot,26,112,237,False
+Terry Rozier,1,8,36,0,Pullup Jump shot,26,107,246,False
+Terry Rozier,1,0,37,0,Pullup Jump shot,20,-55,201,True
+Terry Rozier,3,2,7,0,Pullup Jump shot,7,54,53,True
+Terry Rozier,2,7,52,1,Pullup Jump shot,27,-18,273,False
+Terry Rozier,4,6,58,1,Pullup Jump shot,7,28,70,True
+Terry Rozier,3,5,3,1,Pullup Jump shot,19,-51,191,True
+Terry Rozier,2,2,49,0,Pullup Jump shot,19,112,156,True
+Terry Rozier,1,10,22,1,Pullup Jump shot,13,24,136,True
+Terry Rozier,2,8,30,0,Pullup Jump shot,26,165,201,False
+Terry Rozier,3,2,51,0,Pullup Jump shot,8,4,82,True
+Terry Rozier,3,2,6,1,Pullup Jump shot,27,-208,174,False
+Terry Rozier,3,3,27,1,Pullup Jump shot,17,-106,133,True
+Terry Rozier,1,9,45,1,Pullup Jump shot,20,61,196,True
+Terry Rozier,2,11,21,1,Pullup Jump shot,27,172,209,False
+Terry Rozier,3,11,16,0,Pullup Jump shot,18,-179,48,True
+Terry Rozier,1,0,30,0,Pullup Jump shot,18,-145,109,True
+Terry Rozier,3,5,37,1,Pullup Jump shot,16,19,162,True
+Terry Rozier,3,2,17,1,Pullup Jump shot,20,90,189,True
+Terry Rozier,3,1,54,1,Pullup Jump shot,24,-163,180,False
+Terry Rozier,2,1,4,0,Pullup Jump shot,13,-30,133,True
+Terry Rozier,2,1,56,1,Pullup Jump shot,25,116,232,False
+Terry Rozier,4,0,8,1,Pullup Jump shot,26,153,219,False
+Terry Rozier,2,9,41,0,Pullup Jump shot,11,60,97,True
+Terry Rozier,2,11,17,0,Pullup Jump shot,19,100,169,True
+Terry Rozier,3,3,44,1,Pullup Jump shot,17,-17,179,True
+Terry Rozier,2,10,6,0,Pullup Jump shot,19,-163,104,True
+Terry Rozier,1,4,46,1,Pullup Jump shot,14,19,142,True
+Terry Rozier,3,11,44,0,Pullup Jump shot,10,28,104,True
+Terry Rozier,2,0,0,0,Pullup Jump shot,31,32,310,False
+Terry Rozier,4,9,58,0,Pullup Jump shot,27,-127,239,False
+Terry Rozier,3,1,2,1,Pullup Jump shot,25,-8,252,False
+Terry Rozier,4,9,24,0,Pullup Jump shot,25,161,204,False
+Terry Rozier,1,0,3,1,Pullup Jump shot,26,-152,212,False
+Terry Rozier,4,11,24,0,Pullup Jump shot,26,11,262,False
+Terry Rozier,2,7,8,1,Pullup Jump shot,15,51,145,True
+Terry Rozier,2,3,54,1,Pullup Jump shot,13,73,119,True
+Terry Rozier,4,6,34,1,Pullup Jump shot,15,-6,155,True
+Terry Rozier,4,7,18,1,Pullup Jump shot,27,100,252,False
+Terry Rozier,3,1,35,0,Pullup Jump shot,20,131,152,True
+Terry Rozier,4,1,3,1,Pullup Jump shot,26,-124,231,False
+Terry Rozier,1,1,0,0,Pullup Jump shot,25,96,236,False
+Terry Rozier,2,8,3,1,Pullup Jump shot,17,97,146,True
+Terry Rozier,2,5,33,0,Pullup Jump shot,25,152,205,False
+Terry Rozier,2,10,52,1,Pullup Jump shot,8,70,46,True
+Terry Rozier,2,9,57,0,Pullup Jump shot,12,-93,78,True
+Terry Rozier,4,10,27,0,Pullup Jump shot,18,-69,171,True
+Terry Rozier,3,0,33,0,Pullup Jump shot,17,82,158,True
+Terry Rozier,1,1,27,1,Pullup Jump shot,19,-152,116,True
+Terry Rozier,4,10,37,0,Pullup Jump shot,26,168,201,False
+Terry Rozier,2,10,43,1,Pullup Jump shot,14,-3,144,True
+Terry Rozier,4,6,51,0,Pullup Jump shot,20,119,168,True
+Terry Rozier,2,3,18,1,Pullup Jump shot,27,-153,231,False
+Terry Rozier,2,9,29,1,Pullup Jump shot,14,-8,149,True
+Terry Rozier,2,6,21,1,Pullup Jump shot,29,172,240,False
+Terry Rozier,3,0,1,0,Pullup Jump shot,27,-65,264,False
+Terry Rozier,2,7,10,0,Pullup Jump shot,11,-62,93,True
+Terry Rozier,4,9,57,0,Pullup Jump shot,19,84,179,True
+Terry Rozier,2,9,36,0,Pullup Jump shot,17,37,167,True
+Terry Rozier,4,7,43,1,Pullup Jump shot,27,-129,247,False
+Terry Rozier,1,0,31,1,Pullup Jump shot,18,71,175,True
+Terry Rozier,4,10,8,1,Pullup Jump shot,16,16,161,True
+Terry Rozier,4,2,0,1,Pullup Jump shot,15,23,155,True
+Terry Rozier,2,8,41,0,Pullup Jump shot,15,-11,152,True
+Terry Rozier,4,11,0,0,Pullup Jump shot,17,-66,162,True
+Terry Rozier,2,8,47,1,Pullup Jump shot,25,-111,226,False
+Terry Rozier,3,0,0,0,Pullup Jump shot,29,168,241,False
+Terry Rozier,3,3,16,0,Pullup Jump shot,25,-71,241,False
+Terry Rozier,1,0,57,1,Pullup Jump shot,15,15,158,True
+Terry Rozier,2,0,17,0,Pullup Jump shot,8,-14,79,True
+Terry Rozier,4,4,48,1,Pullup Jump shot,16,-165,9,True
+Terry Rozier,3,4,48,0,Pullup Jump shot,19,98,168,True
+Terry Rozier,1,0,0,1,Pullup Jump shot,29,92,284,False
+Terry Rozier,4,8,19,0,Pullup Jump shot,19,-131,138,True
+Terry Rozier,1,2,2,0,Pullup Jump shot,25,50,248,False
+Terry Rozier,4,7,59,0,Pullup Jump shot,17,-7,173,True
+Terry Rozier,2,4,16,1,Pullup Jump shot,21,202,72,True
+Terry Rozier,3,3,3,0,Pullup Jump shot,26,-138,221,False
+Terry Rozier,4,7,3,0,Pullup Jump shot,11,-29,111,True
+Terry Rozier,2,7,11,0,Pullup Jump shot,24,115,215,False
+Terry Rozier,1,1,0,1,Pullup Jump shot,15,-48,146,True
+Terry Rozier,4,8,46,1,Pullup Jump shot,25,4,253,False
+Terry Rozier,4,10,47,1,Pullup Jump shot,16,-73,151,True
+Terry Rozier,3,3,9,1,Pullup Jump shot,15,13,159,True
+Terry Rozier,2,0,0,0,Pullup Jump shot,26,157,215,False
+Terry Rozier,4,8,11,0,Pullup Jump shot,15,115,103,True
+Terry Rozier,2,5,32,0,Pullup Jump shot,25,-125,223,False
+Terry Rozier,4,6,1,1,Pullup Jump shot,11,101,64,True
+Terry Rozier,3,11,13,1,Putback Layup Shot,0,0,-6,True
+Terry Rozier,2,3,37,1,Putback Layup Shot,2,-2,29,True
+Terry Rozier,1,5,59,0,Reverse Layup Shot,0,-9,-3,True
+Terry Rozier,4,8,0,1,Reverse Layup Shot,0,2,8,True
+Terry Rozier,4,1,5,1,Running Dunk Shot,1,7,16,True
+Terry Rozier,2,0,7,1,Running Dunk Shot,0,-3,4,True
+Terry Rozier,4,7,5,1,Running Dunk Shot,2,16,20,True
+Terry Rozier,2,8,15,1,Running Dunk Shot,2,-13,26,True
+Terry Rozier,2,3,58,1,Running Dunk Shot,0,5,-5,True
+Terry Rozier,2,7,47,1,Running Dunk Shot,1,-16,-6,True
+Terry Rozier,4,0,36,1,Running Finger Roll Layup Shot,1,8,14,True
+Terry Rozier,2,6,11,1,Running Finger Roll Layup Shot,1,-17,5,True
+Terry Rozier,2,8,1,1,Running Finger Roll Layup Shot,0,5,2,True
+Terry Rozier,4,7,53,1,Running Finger Roll Layup Shot,1,6,12,True
+Terry Rozier,3,3,3,1,Running Finger Roll Layup Shot,4,35,20,True
+Terry Rozier,4,1,26,1,Running Finger Roll Layup Shot,2,7,29,True
+Terry Rozier,1,0,3,1,Running Finger Roll Layup Shot,0,-7,4,True
+Terry Rozier,2,1,15,1,Running Finger Roll Layup Shot,2,1,20,True
+Terry Rozier,1,4,24,0,Running Jump Shot,27,-214,165,False
+Terry Rozier,4,10,38,1,Running Jump Shot,25,-159,197,False
+Terry Rozier,1,3,0,0,Running Layup Shot,0,4,-8,True
+Terry Rozier,3,1,29,1,Running Layup Shot,0,0,9,True
+Terry Rozier,4,3,53,1,Running Layup Shot,1,-18,7,True
+Terry Rozier,4,10,28,1,Running Layup Shot,2,-16,15,True
+Terry Rozier,3,10,55,0,Running Layup Shot,1,-11,4,True
+Terry Rozier,1,4,54,0,Running Layup Shot,0,-3,1,True
+Terry Rozier,4,5,25,0,Running Layup Shot,3,27,17,True
+Terry Rozier,1,2,48,1,Running Layup Shot,1,-12,-1,True
+Terry Rozier,1,1,11,1,Running Layup Shot,1,-6,8,True
+Terry Rozier,4,4,55,0,Running Layup Shot,2,11,22,True
+Terry Rozier,4,10,40,1,Running Layup Shot,2,-3,21,True
+Terry Rozier,4,11,18,1,Running Layup Shot,1,9,15,True
+Terry Rozier,4,8,26,0,Running Layup Shot,1,16,5,True
+Terry Rozier,4,5,34,1,Running Layup Shot,1,8,17,True
+Terry Rozier,4,5,24,0,Running Layup Shot,1,6,19,True
+Terry Rozier,1,7,3,1,Running Layup Shot,0,6,6,True
+Terry Rozier,1,5,25,1,Running Layup Shot,0,-3,7,True
+Terry Rozier,4,9,50,0,Running Layup Shot,1,-16,9,True
+Terry Rozier,4,11,15,0,Running Layup Shot,2,12,20,True
+Terry Rozier,4,8,14,0,Running Pull-Up Jump Shot,26,-134,231,False
+Terry Rozier,2,4,42,1,Running Pull-Up Jump Shot,14,-143,17,True
+Terry Rozier,4,5,11,0,Step Back Bank Jump Shot,9,60,75,True
+Terry Rozier,1,1,10,0,Step Back Jump shot,22,-13,229,True
+Terry Rozier,4,6,35,0,Step Back Jump shot,12,-73,99,True
+Terry Rozier,4,11,17,0,Step Back Jump shot,26,137,232,False
+Terry Rozier,3,1,29,0,Step Back Jump shot,21,107,182,True
+Terry Rozier,1,2,3,1,Step Back Jump shot,26,169,209,False
+Terry Rozier,1,1,43,1,Step Back Jump shot,24,-76,236,False
+Terry Rozier,1,1,48,0,Step Back Jump shot,26,-126,233,False
+Terry Rozier,3,0,50,1,Step Back Jump shot,22,-222,41,False
+Terry Rozier,2,11,12,0,Step Back Jump shot,24,199,151,False
+Terry Rozier,2,11,24,0,Step Back Jump shot,24,47,236,False
+Terry Rozier,3,5,3,1,Step Back Jump shot,25,-190,167,False
+Terry Rozier,2,8,45,0,Step Back Jump shot,27,-152,224,False
+Terry Rozier,4,8,16,1,Step Back Jump shot,24,-7,247,False
+Terry Rozier,1,0,37,0,Step Back Jump shot,15,11,152,True
+Terry Rozier,3,2,50,0,Step Back Jump shot,21,55,213,True
+Terry Rozier,1,8,2,1,Step Back Jump shot,24,180,167,False
+Terry Rozier,4,0,14,1,Step Back Jump shot,18,47,181,True
+Terry Rozier,3,3,31,1,Step Back Jump shot,17,-22,178,True
+Terry Rozier,1,10,25,0,Step Back Jump shot,23,-239,4,False
+Terry Rozier,4,9,41,0,Step Back Jump shot,19,-194,21,True
+Terry Rozier,4,9,26,0,Step Back Jump shot,10,52,94,True
+Terry Rozier,3,5,22,0,Step Back Jump shot,21,-69,208,True
+Terry Rozier,3,8,26,0,Step Back Jump shot,21,210,26,True
+Terry Rozier,3,4,44,1,Step Back Jump shot,15,-27,151,True
+Terry Rozier,2,2,16,0,Step Back Jump shot,20,-104,172,True
+Terry Rozier,1,9,30,0,Step Back Jump shot,18,101,151,True
+Terry Rozier,2,2,9,0,Step Back Jump shot,25,-168,188,False
+Terry Rozier,1,11,37,0,Step Back Jump shot,15,82,136,True
+Terry Rozier,2,0,0,0,Step Back Jump shot,24,158,181,False
+Terry Rozier,4,6,19,1,Step Back Jump shot,24,175,176,False
+Terry Rozier,2,2,23,1,Step Back Jump shot,26,-127,235,False
+Terry Rozier,2,3,59,0,Step Back Jump shot,24,-96,221,False
+Terry Rozier,4,2,4,0,Step Back Jump shot,21,24,216,True
+Terry Rozier,1,8,22,0,Step Back Jump shot,14,144,5,True
+Terry Rozier,4,4,21,0,Step Back Jump shot,28,148,240,False
+Terry Rozier,2,10,46,0,Step Back Jump shot,27,226,155,False
+Terry Rozier,1,3,4,1,Step Back Jump shot,25,-136,214,False
+Terry Rozier,4,6,10,0,Step Back Jump shot,25,210,146,False
+Terry Rozier,3,9,47,0,Step Back Jump shot,15,-105,116,True
+Terry Rozier,4,9,23,0,Step Back Jump shot,21,128,171,True
+Terry Rozier,3,0,55,0,Step Back Jump shot,26,-147,217,False
+Terry Rozier,1,9,7,1,Step Back Jump shot,25,-116,222,False
+Terry Rozier,3,2,22,1,Tip Layup Shot,0,0,-6,True
+Terry Rozier,4,2,6,0,Tip Layup Shot,1,-9,6,True
+Terry Rozier,2,7,46,0,Tip Layup Shot,0,0,-6,True
+Terry Rozier,4,5,54,1,Tip Layup Shot,0,0,-6,True
+Terry Rozier,1,0,41,0,Tip Layup Shot,0,0,-6,True
+Terry Rozier,4,3,12,1,Tip Layup Shot,0,0,-6,True
+Terry Rozier,1,0,27,1,Tip Layup Shot,0,0,-6,True
+Terry Rozier,2,10,26,0,Tip Layup Shot,0,0,-6,True
+Terry Rozier,1,0,59,0,Tip Layup Shot,0,0,-6,True
+Terry Rozier,2,9,40,0,Tip Layup Shot,0,0,-6,True
+Terry Rozier,4,5,49,1,Tip Layup Shot,0,0,-6,True
+Terry Rozier,4,6,10,1,Turnaround Fadeaway Bank Jump Shot,11,78,79,True
+Terry Rozier,1,1,59,1,Turnaround Fadeaway Bank Jump Shot,3,29,20,True
+Terry Rozier,2,6,1,1,Turnaround Fadeaway shot,12,-106,69,True
+Terry Rozier,2,6,50,1,Turnaround Fadeaway shot,17,-116,133,True
+Terry Rozier,4,11,45,0,Turnaround Hook Shot,9,-19,95,True
+Terry Rozier,4,7,30,0,Turnaround Jump Shot,25,176,180,False
+Terry Rozier,4,7,24,1,Turnaround Jump Shot,10,90,62,True

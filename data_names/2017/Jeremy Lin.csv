@@ -1,0 +1,13 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jeremy Lin,2,3,23,1,Cutting Layup Shot,1,-2,11,True
+Jeremy Lin,2,0,1,0,Driving Finger Roll Layup Shot,1,-6,8,True
+Jeremy Lin,1,7,39,1,Driving Layup Shot,1,-6,18,True
+Jeremy Lin,1,4,44,0,Driving Layup Shot,2,-2,21,True
+Jeremy Lin,4,4,53,1,Driving Layup Shot,1,5,13,True
+Jeremy Lin,4,5,32,0,Jump Shot,26,147,224,False
+Jeremy Lin,3,4,32,0,Jump Shot,17,71,161,True
+Jeremy Lin,4,5,25,0,Layup Shot,1,9,15,True
+Jeremy Lin,2,4,6,1,Pullup Jump shot,19,-6,197,True
+Jeremy Lin,1,5,59,0,Pullup Jump shot,15,123,88,True
+Jeremy Lin,2,0,32,1,Pullup Jump shot,25,139,215,False
+Jeremy Lin,2,1,33,0,Turnaround Jump Shot,7,32,71,True

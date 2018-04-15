@@ -14,6 +14,7 @@ function compare(a,b)
 
 
 
+
 function my_gb(data,val,name)
 {
 	   
@@ -117,6 +118,8 @@ function fg_pct(data)
 
 function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,legend_text){
 	
+
+		console.log(min(4,0))
 	
 	
 	div_id='#'+id
@@ -134,6 +137,12 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,le
 		 
 	     if(fun=="freq_clock")
 			array_freq_clock(data,vector,dim_x)
+		
+		 if(fun=="freq_min")
+			array_freq_min(data,vector,48)
+		
+		 if(fun=="fg_min")
+			array_fg_min(data,vector,48)
 	  
 	  
 	var margin = {top: 20, right: 10, bottom: 30, left: 35},
@@ -165,6 +174,9 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,le
 	  else
 		  y_max=1
 	  
+	 if(fun=="freq_min")
+		 y_max = 0.1
+	 
 	 
      var xScale = d3.scaleLinear().range([0, width]).domain([0,dim_x]);
 
@@ -309,7 +321,7 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,le
 		.attr("opacity",1)
         .text(legend_text);
 					 
-		if(fun=="fg_clock"||fun=="freq_clock")
+		if(fun=="fg_clock"||fun=="freq_clock" || fun=="fg_min"||fun=="freq_min")
 		{
 			pnt3_line.attr("opacity",0)
 			
@@ -379,7 +391,7 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,le
 		.duration(1500)
 		.attr("y1",0)
 		
-		if(fun!="fg_clock" && fun!="freq_clock")
+		if(fun!="fg_clock" && fun!="freq_clock" && fun!="fg_min" && fun!="freq_min")
 		txt_3pnt
 		.transition()
 		.delay(delay)
@@ -441,7 +453,7 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,le
 		  .text((100*(abc[x2].b)).toFixed(2)+"%")
 		  
 		  txt_rec.attr("x",x)
-				 .attr("opacity",0.7)
+				 .attr("opacity",1)
 		  
 		  
 		  
@@ -450,7 +462,7 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,le
 
 	  
 	
-	 
+ 
 	  
 	  
   
@@ -561,7 +573,7 @@ for(i=0;i<num_elem;i++)
         .style("font-size", "12px") 
         .style("text-decoration", "underline")  
         .text(val[i].name)
-		.on("click",function(){setURL(this.innerHTML);update()})
+		.on("click",function(){ setURL(this.innerHTML);update()})
 		.on("mouseover",function(){document.body.style.cursor = "pointer";})
 		.on("mouseout",function(){document.body.style.cursor = "default";})
 		
@@ -683,7 +695,7 @@ for(i=0;i<num_elem;i++)
 						.attr("d", area(pct_def))
 						.on("mouseover",function(){area_ug2.attr("opacity",0.7)})
 						.on("mouseout",function(){area_ug2.attr("opacity",0.1)})
-						.on("click",function(){console.log("Click su arancione")})
+						
 						
 			   var area_ug = svg.append("path")
 						.data(abc)
@@ -754,9 +766,6 @@ area_ug.transition()
 		d3.selectAll(".a1").style("filter", "url(#glow)");
 		 
 
-		
-		
-		 
 	
 		 
 		 

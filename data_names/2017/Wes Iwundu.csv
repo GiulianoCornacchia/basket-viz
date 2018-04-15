@@ -1,0 +1,187 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Wes Iwundu,4,10,13,1,Cutting Dunk Shot,2,2,21,True
+Wes Iwundu,1,4,48,1,Cutting Layup Shot,0,-2,6,True
+Wes Iwundu,3,7,28,1,Cutting Layup Shot,1,8,13,True
+Wes Iwundu,2,7,38,1,Cutting Layup Shot,2,17,13,True
+Wes Iwundu,2,1,26,0,Cutting Layup Shot,1,2,17,True
+Wes Iwundu,4,3,1,1,Cutting Layup Shot,2,3,29,True
+Wes Iwundu,3,4,20,1,Cutting Layup Shot,1,-9,15,True
+Wes Iwundu,4,0,17,1,Cutting Layup Shot,1,13,8,True
+Wes Iwundu,4,11,28,0,Cutting Layup Shot,2,14,17,True
+Wes Iwundu,2,11,3,1,Cutting Layup Shot,1,-3,18,True
+Wes Iwundu,2,10,10,1,Cutting Layup Shot,0,-1,6,True
+Wes Iwundu,1,8,29,1,Cutting Layup Shot,0,4,8,True
+Wes Iwundu,3,2,56,1,Cutting Layup Shot,1,2,13,True
+Wes Iwundu,2,8,56,1,Driving Finger Roll Layup Shot,1,-3,13,True
+Wes Iwundu,4,7,13,1,Driving Finger Roll Layup Shot,2,13,18,True
+Wes Iwundu,3,3,51,1,Driving Floating Bank Jump Shot,5,33,38,True
+Wes Iwundu,4,1,3,1,Driving Floating Bank Jump Shot,11,84,73,True
+Wes Iwundu,4,10,3,0,Driving Floating Jump Shot,11,-113,-5,True
+Wes Iwundu,4,10,23,1,Driving Floating Jump Shot,6,59,23,True
+Wes Iwundu,2,4,38,1,Driving Hook Shot,8,5,82,True
+Wes Iwundu,3,4,40,0,Driving Hook Shot,7,-3,76,True
+Wes Iwundu,1,0,44,1,Driving Hook Shot,6,-4,69,True
+Wes Iwundu,2,10,17,0,Driving Layup Shot,2,-4,24,True
+Wes Iwundu,4,10,0,1,Driving Layup Shot,1,13,5,True
+Wes Iwundu,2,8,13,1,Driving Layup Shot,2,10,25,True
+Wes Iwundu,4,6,43,0,Driving Layup Shot,1,12,10,True
+Wes Iwundu,4,3,56,0,Driving Layup Shot,3,-30,20,True
+Wes Iwundu,2,9,7,1,Driving Layup Shot,1,-15,10,True
+Wes Iwundu,4,7,29,1,Driving Layup Shot,2,-20,6,True
+Wes Iwundu,3,9,56,1,Driving Layup Shot,1,10,7,True
+Wes Iwundu,1,3,49,1,Driving Layup Shot,3,24,29,True
+Wes Iwundu,2,11,15,1,Driving Layup Shot,2,-23,15,True
+Wes Iwundu,4,0,28,0,Driving Layup Shot,1,5,16,True
+Wes Iwundu,4,0,8,0,Driving Layup Shot,7,58,42,True
+Wes Iwundu,3,7,5,0,Driving Layup Shot,1,-6,15,True
+Wes Iwundu,4,10,53,1,Driving Layup Shot,2,6,28,True
+Wes Iwundu,2,1,6,0,Driving Layup Shot,1,-2,13,True
+Wes Iwundu,2,11,34,1,Driving Layup Shot,1,5,10,True
+Wes Iwundu,3,1,8,1,Driving Layup Shot,0,-3,2,True
+Wes Iwundu,2,9,47,0,Driving Layup Shot,1,11,8,True
+Wes Iwundu,4,1,49,0,Driving Layup Shot,4,-44,12,True
+Wes Iwundu,2,10,23,0,Driving Reverse Layup Shot,2,19,20,True
+Wes Iwundu,4,11,26,1,Dunk Shot,1,-2,19,True
+Wes Iwundu,3,6,37,0,Fadeaway Jump Shot,21,-156,142,True
+Wes Iwundu,1,5,10,0,Fadeaway Jump Shot,6,6,69,True
+Wes Iwundu,3,10,42,0,Floating Jump shot,9,-79,53,True
+Wes Iwundu,2,4,12,0,Floating Jump shot,7,-5,76,True
+Wes Iwundu,2,10,17,0,Floating Jump shot,11,110,-8,True
+Wes Iwundu,4,5,43,0,Jump Bank Shot,7,47,64,True
+Wes Iwundu,2,11,42,1,Jump Shot,24,-23,246,False
+Wes Iwundu,1,9,5,0,Jump Shot,22,224,21,False
+Wes Iwundu,2,2,28,0,Jump Shot,23,-231,37,False
+Wes Iwundu,4,7,7,1,Jump Shot,23,233,34,False
+Wes Iwundu,3,11,20,0,Jump Shot,3,-23,32,True
+Wes Iwundu,1,9,35,0,Jump Shot,25,134,219,False
+Wes Iwundu,1,4,59,0,Jump Shot,23,-230,-7,False
+Wes Iwundu,1,9,20,0,Jump Shot,16,17,167,True
+Wes Iwundu,1,5,28,0,Jump Shot,23,239,-11,False
+Wes Iwundu,3,6,7,0,Jump Shot,22,-220,32,False
+Wes Iwundu,2,1,58,0,Jump Shot,25,-138,216,False
+Wes Iwundu,4,11,44,1,Jump Shot,22,-228,30,False
+Wes Iwundu,4,9,8,0,Jump Shot,23,-233,24,False
+Wes Iwundu,3,3,35,0,Jump Shot,15,92,120,True
+Wes Iwundu,1,7,56,0,Jump Shot,22,-227,-7,False
+Wes Iwundu,1,5,7,0,Jump Shot,23,228,71,False
+Wes Iwundu,3,10,54,0,Jump Shot,22,-225,11,False
+Wes Iwundu,1,9,46,0,Jump Shot,25,189,165,False
+Wes Iwundu,1,4,19,0,Jump Shot,27,-11,277,False
+Wes Iwundu,1,8,2,1,Jump Shot,14,147,8,True
+Wes Iwundu,1,4,5,0,Jump Shot,22,-227,-12,False
+Wes Iwundu,4,8,44,0,Jump Shot,22,-221,11,False
+Wes Iwundu,2,7,49,1,Jump Shot,6,-13,64,True
+Wes Iwundu,2,9,53,1,Jump Shot,13,136,-1,True
+Wes Iwundu,2,10,14,0,Jump Shot,23,-233,27,False
+Wes Iwundu,2,9,1,0,Jump Shot,22,-138,176,True
+Wes Iwundu,2,9,17,0,Jump Shot,25,-101,233,False
+Wes Iwundu,2,2,32,0,Jump Shot,25,134,215,False
+Wes Iwundu,1,3,20,1,Jump Shot,19,197,-11,True
+Wes Iwundu,1,0,42,0,Jump Shot,26,-144,222,False
+Wes Iwundu,2,10,0,0,Jump Shot,22,-225,21,False
+Wes Iwundu,2,11,2,1,Jump Shot,22,227,29,False
+Wes Iwundu,1,0,2,0,Jump Shot,14,-139,21,True
+Wes Iwundu,2,6,5,0,Jump Shot,22,-228,-18,False
+Wes Iwundu,2,11,36,1,Jump Shot,22,-227,26,False
+Wes Iwundu,2,6,52,0,Jump Shot,16,169,10,True
+Wes Iwundu,1,3,15,0,Jump Shot,22,-225,19,False
+Wes Iwundu,3,1,20,0,Jump Shot,24,195,143,False
+Wes Iwundu,2,5,18,0,Jump Shot,23,-236,-1,False
+Wes Iwundu,4,7,13,1,Jump Shot,22,-229,1,False
+Wes Iwundu,4,10,52,0,Jump Shot,26,206,167,False
+Wes Iwundu,4,3,37,1,Jump Shot,20,201,-16,True
+Wes Iwundu,3,6,9,0,Jump Shot,25,-192,171,False
+Wes Iwundu,3,10,44,0,Jump Shot,25,-79,247,False
+Wes Iwundu,4,11,0,0,Jump Shot,25,225,125,False
+Wes Iwundu,2,10,22,1,Jump Shot,25,193,168,False
+Wes Iwundu,2,6,45,0,Jump Shot,18,81,168,True
+Wes Iwundu,1,8,23,0,Jump Shot,23,110,203,True
+Wes Iwundu,3,9,12,1,Jump Shot,17,-25,173,True
+Wes Iwundu,3,8,41,0,Jump Shot,24,55,243,False
+Wes Iwundu,4,2,3,1,Jump Shot,19,177,85,True
+Wes Iwundu,3,3,13,0,Jump Shot,23,227,65,False
+Wes Iwundu,4,2,32,0,Jump Shot,22,-105,195,True
+Wes Iwundu,4,1,56,1,Jump Shot,19,187,34,True
+Wes Iwundu,4,0,50,0,Jump Shot,8,-5,82,True
+Wes Iwundu,4,3,39,0,Jump Shot,14,124,67,True
+Wes Iwundu,3,3,12,0,Jump Shot,23,-231,-15,False
+Wes Iwundu,3,5,52,1,Jump Shot,24,25,246,False
+Wes Iwundu,1,6,14,0,Jump Shot,25,-168,188,False
+Wes Iwundu,1,8,29,1,Jump Shot,22,-223,25,False
+Wes Iwundu,2,9,53,0,Layup Shot,5,33,45,True
+Wes Iwundu,3,4,47,0,Layup Shot,2,8,20,True
+Wes Iwundu,4,4,17,1,Layup Shot,2,-19,7,True
+Wes Iwundu,1,9,45,0,Layup Shot,2,24,16,True
+Wes Iwundu,3,3,18,0,Layup Shot,0,-1,7,True
+Wes Iwundu,2,5,12,1,Layup Shot,2,8,20,True
+Wes Iwundu,4,4,29,1,Layup Shot,0,3,8,True
+Wes Iwundu,2,4,34,1,Layup Shot,0,6,5,True
+Wes Iwundu,4,9,35,0,Layup Shot,3,26,17,True
+Wes Iwundu,3,9,25,1,Layup Shot,0,-7,6,True
+Wes Iwundu,4,10,29,0,Layup Shot,5,4,55,True
+Wes Iwundu,3,0,44,0,Layup Shot,2,20,16,True
+Wes Iwundu,4,2,28,0,Layup Shot,2,26,0,True
+Wes Iwundu,1,10,24,0,Layup Shot,6,-30,52,True
+Wes Iwundu,2,3,1,0,Layup Shot,3,-22,25,True
+Wes Iwundu,2,4,46,0,Pullup Jump shot,17,123,126,True
+Wes Iwundu,4,3,6,1,Pullup Jump shot,13,-58,125,True
+Wes Iwundu,4,8,24,1,Pullup Jump shot,13,-41,126,True
+Wes Iwundu,4,2,57,0,Pullup Jump shot,14,62,134,True
+Wes Iwundu,3,10,19,0,Pullup Jump shot,19,144,131,True
+Wes Iwundu,4,4,21,0,Pullup Jump shot,17,100,142,True
+Wes Iwundu,2,4,9,0,Pullup Jump shot,16,-11,163,True
+Wes Iwundu,4,3,31,1,Pullup Jump shot,16,60,153,True
+Wes Iwundu,2,11,42,1,Pullup Jump shot,8,-85,13,True
+Wes Iwundu,4,1,9,0,Pullup Jump shot,6,5,65,True
+Wes Iwundu,1,4,58,0,Pullup Jump shot,11,-14,113,True
+Wes Iwundu,2,8,51,0,Pullup Jump shot,11,93,67,True
+Wes Iwundu,2,11,14,0,Pullup Jump shot,16,-93,133,True
+Wes Iwundu,3,11,45,1,Pullup Jump shot,14,-100,106,True
+Wes Iwundu,2,10,15,0,Pullup Jump shot,18,111,151,True
+Wes Iwundu,2,7,30,0,Pullup Jump shot,21,-45,207,True
+Wes Iwundu,2,8,20,0,Pullup Jump shot,13,-90,94,True
+Wes Iwundu,4,9,19,0,Pullup Jump shot,16,144,73,True
+Wes Iwundu,1,0,0,0,Pullup Jump shot,27,-36,276,False
+Wes Iwundu,1,4,35,0,Pullup Jump shot,20,-2,208,True
+Wes Iwundu,4,1,26,0,Pullup Jump shot,13,39,132,True
+Wes Iwundu,1,0,48,1,Putback Layup Shot,3,-36,17,True
+Wes Iwundu,1,0,22,1,Putback Layup Shot,2,12,24,True
+Wes Iwundu,2,8,35,0,Putback Layup Shot,1,-1,10,True
+Wes Iwundu,3,0,54,1,Putback Layup Shot,0,0,-6,True
+Wes Iwundu,4,9,51,0,Putback Layup Shot,0,0,-6,True
+Wes Iwundu,3,10,31,0,Running Alley Oop Dunk Shot,0,0,6,True
+Wes Iwundu,4,0,0,1,Running Alley Oop Dunk Shot,1,-2,17,True
+Wes Iwundu,3,5,49,1,Running Dunk Shot,1,15,8,True
+Wes Iwundu,4,1,20,1,Running Dunk Shot,1,-3,17,True
+Wes Iwundu,4,11,1,1,Running Dunk Shot,0,-3,6,True
+Wes Iwundu,2,0,55,1,Running Dunk Shot,0,3,7,True
+Wes Iwundu,2,5,51,0,Running Jump Shot,7,52,50,True
+Wes Iwundu,4,4,39,0,Running Jump Shot,22,-226,5,False
+Wes Iwundu,2,8,44,1,Running Layup Shot,3,18,31,True
+Wes Iwundu,2,2,26,1,Running Layup Shot,0,3,8,True
+Wes Iwundu,1,3,19,0,Running Layup Shot,2,13,20,True
+Wes Iwundu,4,5,3,0,Running Layup Shot,2,-27,12,True
+Wes Iwundu,1,1,52,0,Running Layup Shot,2,-1,25,True
+Wes Iwundu,2,7,3,1,Running Layup Shot,2,-7,22,True
+Wes Iwundu,4,8,52,0,Running Layup Shot,4,25,36,True
+Wes Iwundu,4,10,11,1,Running Layup Shot,2,21,10,True
+Wes Iwundu,4,2,20,1,Running Layup Shot,1,-12,4,True
+Wes Iwundu,2,6,29,1,Running Layup Shot,1,5,11,True
+Wes Iwundu,1,4,7,0,Running Layup Shot,2,5,24,True
+Wes Iwundu,1,10,49,1,Running Reverse Layup Shot,1,14,-2,True
+Wes Iwundu,4,10,43,0,Step Back Jump shot,24,218,115,False
+Wes Iwundu,4,7,40,1,Tip Dunk Shot,0,0,-6,True
+Wes Iwundu,4,9,49,0,Tip Layup Shot,2,-9,20,True
+Wes Iwundu,2,11,14,0,Tip Layup Shot,0,0,-6,True
+Wes Iwundu,1,0,17,1,Tip Layup Shot,0,0,-6,True
+Wes Iwundu,2,9,56,1,Tip Layup Shot,0,0,-6,True
+Wes Iwundu,1,1,22,1,Tip Layup Shot,0,0,-6,True
+Wes Iwundu,2,1,27,1,Tip Layup Shot,0,0,-6,True
+Wes Iwundu,3,3,17,0,Tip Layup Shot,0,0,-6,True
+Wes Iwundu,2,9,46,0,Tip Layup Shot,0,0,-6,True
+Wes Iwundu,1,0,0,0,Tip Layup Shot,0,0,-6,True
+Wes Iwundu,1,1,25,1,Turnaround Fadeaway Bank Jump Shot,4,5,47,True
+Wes Iwundu,2,9,26,0,Turnaround Fadeaway Bank Jump Shot,11,40,111,True
+Wes Iwundu,4,3,49,1,Turnaround Jump Shot,14,148,-5,True
+Wes Iwundu,3,1,25,0,Turnaround Jump Shot,13,3,136,True
+Wes Iwundu,4,4,15,1,Turnaround Jump Shot,10,-13,105,True

@@ -1,0 +1,156 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Cheick Diallo,2,2,54,1,Alley Oop Dunk Shot,1,-14,0,True
+Cheick Diallo,2,8,18,0,Alley Oop Dunk Shot,1,8,8,True
+Cheick Diallo,4,1,23,1,Cutting Dunk Shot,0,-3,3,True
+Cheick Diallo,4,1,21,1,Cutting Dunk Shot,0,1,6,True
+Cheick Diallo,2,9,31,1,Cutting Dunk Shot,0,-5,2,True
+Cheick Diallo,2,8,54,1,Cutting Dunk Shot,1,2,14,True
+Cheick Diallo,2,11,12,1,Cutting Dunk Shot,1,6,16,True
+Cheick Diallo,1,3,24,1,Cutting Dunk Shot,0,6,7,True
+Cheick Diallo,2,9,41,1,Cutting Dunk Shot,0,-2,9,True
+Cheick Diallo,4,2,29,1,Cutting Finger Roll Layup Shot,2,4,25,True
+Cheick Diallo,2,10,14,1,Cutting Finger Roll Layup Shot,1,19,-4,True
+Cheick Diallo,4,1,20,1,Cutting Finger Roll Layup Shot,1,-3,16,True
+Cheick Diallo,2,6,18,0,Cutting Layup Shot,1,16,1,True
+Cheick Diallo,4,8,38,0,Cutting Layup Shot,2,-7,22,True
+Cheick Diallo,1,0,47,1,Cutting Layup Shot,0,4,0,True
+Cheick Diallo,4,3,27,1,Cutting Layup Shot,0,6,2,True
+Cheick Diallo,3,0,17,1,Cutting Layup Shot,0,1,3,True
+Cheick Diallo,4,0,14,1,Cutting Layup Shot,0,-1,2,True
+Cheick Diallo,2,7,56,1,Cutting Layup Shot,2,4,20,True
+Cheick Diallo,3,2,5,1,Cutting Layup Shot,1,-18,0,True
+Cheick Diallo,3,1,27,1,Cutting Layup Shot,1,-2,16,True
+Cheick Diallo,3,0,27,1,Cutting Layup Shot,0,-3,6,True
+Cheick Diallo,4,10,33,1,Cutting Layup Shot,1,7,14,True
+Cheick Diallo,1,1,27,1,Cutting Layup Shot,1,13,0,True
+Cheick Diallo,2,9,47,1,Driving Dunk Shot,1,5,14,True
+Cheick Diallo,1,0,0,0,Driving Dunk Shot,0,7,4,True
+Cheick Diallo,1,0,2,0,Driving Finger Roll Layup Shot,3,0,32,True
+Cheick Diallo,2,11,12,1,Driving Finger Roll Layup Shot,2,-9,21,True
+Cheick Diallo,2,5,12,1,Driving Floating Jump Shot,12,43,120,True
+Cheick Diallo,4,8,29,0,Driving Layup Shot,1,11,-3,True
+Cheick Diallo,2,10,5,1,Driving Layup Shot,3,-21,31,True
+Cheick Diallo,4,5,45,0,Driving Layup Shot,2,22,8,True
+Cheick Diallo,2,9,26,0,Driving Layup Shot,7,-8,78,True
+Cheick Diallo,4,3,8,0,Driving Reverse Layup Shot,1,11,10,True
+Cheick Diallo,4,8,49,1,Dunk Shot,1,9,7,True
+Cheick Diallo,2,8,55,1,Dunk Shot,0,-2,1,True
+Cheick Diallo,3,1,36,1,Dunk Shot,0,5,0,True
+Cheick Diallo,1,3,42,1,Dunk Shot,0,-2,5,True
+Cheick Diallo,4,2,38,1,Dunk Shot,1,1,14,True
+Cheick Diallo,1,1,27,1,Dunk Shot,0,6,2,True
+Cheick Diallo,1,2,52,1,Dunk Shot,1,-2,13,True
+Cheick Diallo,2,9,5,1,Dunk Shot,0,0,5,True
+Cheick Diallo,1,2,1,1,Dunk Shot,0,-8,2,True
+Cheick Diallo,3,2,22,1,Finger Roll Layup Shot,1,16,11,True
+Cheick Diallo,1,1,9,1,Finger Roll Layup Shot,6,35,52,True
+Cheick Diallo,2,9,53,1,Floating Jump shot,5,-55,1,True
+Cheick Diallo,4,9,26,1,Floating Jump shot,3,35,6,True
+Cheick Diallo,2,0,13,0,Hook Shot,6,-3,64,True
+Cheick Diallo,1,0,23,0,Hook Shot,4,-13,47,True
+Cheick Diallo,4,4,51,1,Hook Shot,1,-10,6,True
+Cheick Diallo,3,1,51,0,Jump Bank Shot,13,-71,110,True
+Cheick Diallo,4,2,32,0,Jump Bank Shot,4,-29,29,True
+Cheick Diallo,4,1,40,1,Jump Bank Shot,9,-9,97,True
+Cheick Diallo,2,0,6,0,Jump Shot,11,-116,10,True
+Cheick Diallo,2,9,53,0,Jump Shot,17,-170,22,True
+Cheick Diallo,3,2,23,1,Jump Shot,15,-138,62,True
+Cheick Diallo,4,4,46,0,Jump Shot,18,174,48,True
+Cheick Diallo,1,2,0,0,Jump Shot,12,128,10,True
+Cheick Diallo,4,9,44,1,Jump Shot,16,-99,133,True
+Cheick Diallo,3,0,42,0,Jump Shot,17,146,101,True
+Cheick Diallo,4,4,21,0,Jump Shot,14,-140,15,True
+Cheick Diallo,3,3,4,0,Jump Shot,4,-6,40,True
+Cheick Diallo,3,1,46,0,Jump Shot,18,-183,20,True
+Cheick Diallo,4,0,24,1,Jump Shot,20,-176,106,True
+Cheick Diallo,4,5,21,1,Jump Shot,6,63,16,True
+Cheick Diallo,2,7,26,0,Jump Shot,7,68,18,True
+Cheick Diallo,2,1,37,1,Jump Shot,16,102,130,True
+Cheick Diallo,2,4,55,1,Jump Shot,13,134,-27,True
+Cheick Diallo,2,4,30,0,Jump Shot,16,-65,155,True
+Cheick Diallo,2,5,32,1,Jump Shot,13,-134,-20,True
+Cheick Diallo,2,7,48,1,Jump Shot,14,-141,6,True
+Cheick Diallo,3,1,57,0,Jump Shot,6,21,59,True
+Cheick Diallo,2,9,28,0,Jump Shot,20,120,170,True
+Cheick Diallo,4,11,5,1,Jump Shot,8,-66,49,True
+Cheick Diallo,2,11,13,0,Jump Shot,12,95,84,True
+Cheick Diallo,1,1,45,0,Jump Shot,11,-92,74,True
+Cheick Diallo,4,11,44,0,Jump Shot,3,-4,38,True
+Cheick Diallo,3,2,18,0,Jump Shot,21,197,78,True
+Cheick Diallo,1,0,42,0,Jump Shot,14,145,19,True
+Cheick Diallo,1,1,54,1,Jump Shot,10,-107,-15,True
+Cheick Diallo,4,1,35,1,Jump Shot,15,-146,37,True
+Cheick Diallo,4,0,50,1,Jump Shot,12,-120,36,True
+Cheick Diallo,4,8,24,0,Jump Shot,3,1,37,True
+Cheick Diallo,2,10,16,0,Jump Shot,19,2,190,True
+Cheick Diallo,4,8,50,0,Jump Shot,10,94,53,True
+Cheick Diallo,4,9,42,0,Jump Shot,16,-161,36,True
+Cheick Diallo,1,0,53,0,Jump Shot,14,-93,116,True
+Cheick Diallo,2,1,6,1,Jump Shot,7,69,12,True
+Cheick Diallo,4,0,59,0,Jump Shot,14,-14,146,True
+Cheick Diallo,3,4,23,0,Jump Shot,15,-154,27,True
+Cheick Diallo,4,2,51,1,Jump Shot,10,-77,64,True
+Cheick Diallo,4,1,35,1,Jump Shot,17,175,31,True
+Cheick Diallo,4,3,12,0,Jump Shot,19,-166,111,True
+Cheick Diallo,4,3,44,0,Jump Shot,9,-8,99,True
+Cheick Diallo,4,4,13,0,Jump Shot,21,156,148,True
+Cheick Diallo,4,3,7,0,Jump Shot,13,-136,10,True
+Cheick Diallo,2,11,30,1,Jump Shot,18,-145,115,True
+Cheick Diallo,3,0,30,0,Jump Shot,19,147,127,True
+Cheick Diallo,4,9,48,0,Jump Shot,9,-41,85,True
+Cheick Diallo,3,2,16,1,Jump Shot,13,128,40,True
+Cheick Diallo,3,1,43,1,Jump Shot,10,84,62,True
+Cheick Diallo,4,0,18,0,Jump Shot,12,55,117,True
+Cheick Diallo,4,2,4,0,Jump Shot,12,125,5,True
+Cheick Diallo,1,3,23,0,Jump Shot,6,65,2,True
+Cheick Diallo,1,4,34,0,Layup Shot,1,-16,6,True
+Cheick Diallo,1,0,45,1,Layup Shot,3,-1,34,True
+Cheick Diallo,1,2,23,1,Layup Shot,5,-54,20,True
+Cheick Diallo,1,0,24,0,Layup Shot,2,-19,17,True
+Cheick Diallo,4,3,10,1,Layup Shot,1,0,13,True
+Cheick Diallo,4,11,30,0,Layup Shot,1,-11,1,True
+Cheick Diallo,4,2,16,0,Layup Shot,6,2,61,True
+Cheick Diallo,4,0,21,1,Layup Shot,1,16,10,True
+Cheick Diallo,3,0,25,1,Layup Shot,1,-2,17,True
+Cheick Diallo,2,11,8,0,Layup Shot,1,2,15,True
+Cheick Diallo,2,11,17,0,Layup Shot,9,77,47,True
+Cheick Diallo,1,0,31,0,Layup Shot,8,8,81,True
+Cheick Diallo,2,9,47,1,Layup Shot,0,-8,5,True
+Cheick Diallo,3,4,9,0,Layup Shot,1,4,11,True
+Cheick Diallo,2,5,8,1,Layup Shot,1,3,17,True
+Cheick Diallo,4,4,31,1,Layup Shot,0,6,-3,True
+Cheick Diallo,2,9,48,1,Layup Shot,2,20,9,True
+Cheick Diallo,3,1,51,0,Layup Shot,1,6,13,True
+Cheick Diallo,4,8,35,0,Layup Shot,4,34,24,True
+Cheick Diallo,4,0,49,0,Layup Shot,5,-49,26,True
+Cheick Diallo,4,10,3,1,Layup Shot,2,27,6,True
+Cheick Diallo,3,4,11,1,Layup Shot,3,-28,12,True
+Cheick Diallo,2,4,2,1,Layup Shot,2,23,8,True
+Cheick Diallo,4,2,11,1,Layup Shot,2,6,24,True
+Cheick Diallo,4,11,3,0,Layup Shot,3,-34,17,True
+Cheick Diallo,2,10,36,1,Layup Shot,3,-3,36,True
+Cheick Diallo,2,1,49,1,Layup Shot,1,-12,8,True
+Cheick Diallo,4,1,45,0,Layup Shot,1,14,12,True
+Cheick Diallo,2,8,7,1,Putback Dunk Shot,2,24,13,True
+Cheick Diallo,2,7,23,0,Putback Layup Shot,2,-14,17,True
+Cheick Diallo,3,1,55,1,Putback Layup Shot,0,0,-6,True
+Cheick Diallo,4,3,13,1,Putback Layup Shot,1,1,19,True
+Cheick Diallo,2,5,49,1,Reverse Layup Shot,2,-4,20,True
+Cheick Diallo,2,7,55,0,Reverse Layup Shot,0,4,5,True
+Cheick Diallo,1,1,3,1,Reverse Layup Shot,2,17,15,True
+Cheick Diallo,4,0,31,1,Running Dunk Shot,1,3,16,True
+Cheick Diallo,2,11,36,1,Running Finger Roll Layup Shot,0,6,3,True
+Cheick Diallo,4,9,3,1,Running Jump Shot,13,34,130,True
+Cheick Diallo,1,1,50,1,Running Layup Shot,0,-2,7,True
+Cheick Diallo,4,9,56,0,Running Layup Shot,1,-16,-1,True
+Cheick Diallo,3,0,9,1,Tip Layup Shot,0,0,-6,True
+Cheick Diallo,3,1,18,0,Tip Layup Shot,2,11,26,True
+Cheick Diallo,4,5,48,1,Tip Layup Shot,0,0,-6,True
+Cheick Diallo,4,8,37,0,Tip Layup Shot,0,0,-6,True
+Cheick Diallo,2,8,31,1,Turnaround Fadeaway shot,8,76,42,True
+Cheick Diallo,4,5,38,1,Turnaround Hook Shot,5,23,51,True
+Cheick Diallo,1,3,32,1,Turnaround Jump Shot,11,-92,66,True
+Cheick Diallo,4,0,45,0,Turnaround Jump Shot,17,163,67,True
+Cheick Diallo,4,2,41,0,Turnaround Jump Shot,13,-135,1,True
+Cheick Diallo,3,1,21,1,Turnaround Jump Shot,5,-16,52,True
+Cheick Diallo,4,10,29,1,Turnaround Jump Shot,13,131,8,True

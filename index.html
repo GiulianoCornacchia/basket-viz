@@ -32,7 +32,7 @@
 
 	<link rel="stylesheet" href="./lib/jquery-ui.css">
 	<link rel="stylesheet" href="./lib/style(1).css">
-	<script src="./lib/nouislider.min.js"> </script>
+	<script src="./lib/nouislider.min.js"></script>
 	<script src="./lib/jquery-1.12.4.js.download"></script>
 	<script src="./lib/jquery-ui.js.download"></script>
 	<script src="names.js"></script>
@@ -60,14 +60,16 @@
  
 	<script type="text/javascript">
 
-
 	
+	x=getPar_year()
 	
-	read_data("./dataset_pc/most_similar_players.csv",
-			  "./dataset_pc/total_assist.csv",
-			  "./dataset_pc/total_defenders.csv",
-			  "./dataset_pc/name_to_team.csv")
-	
+	if(x==undefined)
+	x=2014
+		
+	read_data("./dataset_pc/"+x+"/most_similar_players.csv",
+			  "./dataset_pc/"+x+"/total_assist.csv",
+			  "./dataset_pc/"+x+"/total_defenders.csv",
+			  "./dataset_pc/"+x+"/name_to_team.csv")
 	
   
 	
@@ -78,18 +80,28 @@
 <div class="container-fluid">
 
 	 <div class="row">	
-		<div class="col-md-4 "> <div id="graph"> </div> <div id="info_player"> </div> </div>
-		<div class="col-md-6 padding-0"> <div id="msp"> </div> </div>
-		<div class="col-md-2"> 	
-			<div id="search">
-				<div class="ui-widget">
-					<input id="tags" style="height:20px; width:198px" type="text" spellcheck="false" placeholder="Search a player..">
-					
-				</div> 
-			</div>
-			
+		<div class="col-md-4 "> 
+				<div id="graph"> </div> <div id="info_player"> </div> 
 		</div>
-</div>
+		<div class="col-md-5 padding-0"> <div id="msp"> </div> </div>
+		<div class="col-md-3">
+			<div class="col-md-5 padding-0">
+				<select name="years" onchange="fun1(this.value)" id="anno">
+					<option value="2014">Season 14/15</option>
+					<option value="2017">Season 17/18</option>
+				</select>	
+			</div>
+			<div class="col-md-7 padding-0">
+				<div id="search">
+					<div class="ui-widget">
+						<input id="tags" style="height:20px; width:190px" type="text" spellcheck="false" placeholder="Search a player..">
+					</div> 
+				</div>
+		  </div>			
+		</div>
+
+		
+   </div>
 	
 	<div class="row ">
 
@@ -112,8 +124,7 @@
   <button id="b_play" style="position: absolute; bottom:0px; height:25px;" onclick="play()">&#9658;</button>
   <button id="b_stop"  style="position: absolute;bottom:0px; left:33px; height:25px;"  onclick="stop()">&#9632;</button>
   <button id="b_pause" style="position: absolute;bottom:0px; left:60px; height:25px;"  onclick="pause()">&#10074;&#10074;</button>
-
-  <i><b>Season 14/15 </b></i>
+  <i><b>NBA </b></i>
 
   <b> Stats: </b>
   <br>
@@ -167,7 +178,7 @@
 	 </div>
  
 		</div>
-		<div class="col-md-4">	<div id="chord"></div>	<input id="foo" class="jscolor" onchange="update_color(this.jscolor)" value="cc4499" style="height:0px; width:0px; border-width:0px">
+		<div class="col-md-4">	<div id="chord"></div>	<input id="foo" class="jscolor {mode:'HVS'}" onchange="update_color(this.jscolor)" value="cc4499" style="height:0px; width:0px; border-width:0px">
 		</div>
 		<div class="col-md-4">	<div id="radar"> </div>
 		</div>
@@ -191,6 +202,21 @@ window.onresize = function(event) {
 };
 
 
+function fun1(val)
+{
+	set_tags(val)
+	current_year=val
+	console.log("changed "+current_year)
+	
+	d3.csv("./dataset_pc/"+current_year+"/most_similar_players.csv", function(data){
+	most_similar_player = data
+	build_graph(data,[])
+	graph_active=1
+	}
+);
+}
+
+
 filter_flag=[]
 for(i=0;i<5;i++)
 filter_flag[i]=true
@@ -202,6 +228,7 @@ if(e.which==13)
 console.log(tags.value)
 setURL(tags.value)
 update()
+set_tags(current_year)
 }
 
 });

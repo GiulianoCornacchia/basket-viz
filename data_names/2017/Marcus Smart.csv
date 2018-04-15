@@ -1,0 +1,463 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Marcus Smart,4,3,6,1,Cutting Finger Roll Layup Shot,1,19,-2,True
+Marcus Smart,4,4,14,1,Cutting Layup Shot,2,27,10,True
+Marcus Smart,4,11,44,1,Cutting Layup Shot,1,5,15,True
+Marcus Smart,3,1,4,1,Cutting Layup Shot,1,-9,13,True
+Marcus Smart,4,3,56,0,Cutting Layup Shot,2,0,22,True
+Marcus Smart,4,5,51,1,Cutting Layup Shot,2,-12,20,True
+Marcus Smart,3,3,9,1,Cutting Layup Shot,1,7,10,True
+Marcus Smart,2,11,20,1,Cutting Layup Shot,1,-11,1,True
+Marcus Smart,3,8,37,0,Cutting Layup Shot,2,-6,26,True
+Marcus Smart,3,7,52,1,Driving Dunk Shot,1,-2,11,True
+Marcus Smart,4,4,0,0,Driving Dunk Shot,2,6,24,True
+Marcus Smart,2,3,28,1,Driving Dunk Shot,0,-2,7,True
+Marcus Smart,2,1,29,1,Driving Finger Roll Layup Shot,0,6,7,True
+Marcus Smart,4,4,26,0,Driving Finger Roll Layup Shot,2,22,5,True
+Marcus Smart,1,2,52,0,Driving Finger Roll Layup Shot,2,-9,23,True
+Marcus Smart,3,2,48,1,Driving Finger Roll Layup Shot,2,12,22,True
+Marcus Smart,3,6,23,1,Driving Finger Roll Layup Shot,0,6,6,True
+Marcus Smart,1,4,0,0,Driving Finger Roll Layup Shot,5,-54,12,True
+Marcus Smart,4,8,45,1,Driving Finger Roll Layup Shot,2,18,22,True
+Marcus Smart,1,1,19,0,Driving Finger Roll Layup Shot,3,0,37,True
+Marcus Smart,1,4,27,0,Driving Finger Roll Layup Shot,4,26,42,True
+Marcus Smart,4,8,30,0,Driving Finger Roll Layup Shot,2,13,25,True
+Marcus Smart,1,6,22,1,Driving Finger Roll Layup Shot,2,14,17,True
+Marcus Smart,3,7,3,1,Driving Finger Roll Layup Shot,1,-1,11,True
+Marcus Smart,4,7,39,0,Driving Floating Bank Jump Shot,6,52,37,True
+Marcus Smart,4,9,58,0,Driving Floating Bank Jump Shot,8,43,69,True
+Marcus Smart,2,9,4,0,Driving Floating Bank Jump Shot,13,112,68,True
+Marcus Smart,3,3,11,1,Driving Floating Bank Jump Shot,10,74,75,True
+Marcus Smart,3,0,36,0,Driving Floating Bank Jump Shot,7,-55,46,True
+Marcus Smart,1,1,18,0,Driving Floating Jump Shot,9,-20,91,True
+Marcus Smart,2,3,4,1,Driving Floating Jump Shot,11,-33,110,True
+Marcus Smart,3,7,23,0,Driving Floating Jump Shot,3,-15,34,True
+Marcus Smart,1,3,28,1,Driving Floating Jump Shot,6,-2,65,True
+Marcus Smart,4,6,10,0,Driving Floating Jump Shot,3,-9,30,True
+Marcus Smart,3,2,26,1,Driving Floating Jump Shot,9,-29,95,True
+Marcus Smart,2,3,55,1,Driving Floating Jump Shot,9,63,75,True
+Marcus Smart,4,9,59,0,Driving Floating Jump Shot,8,-57,58,True
+Marcus Smart,3,4,1,0,Driving Floating Jump Shot,3,26,30,True
+Marcus Smart,2,7,29,0,Driving Floating Jump Shot,11,-36,107,True
+Marcus Smart,1,7,29,0,Driving Floating Jump Shot,6,35,53,True
+Marcus Smart,2,0,31,1,Driving Floating Jump Shot,5,-7,55,True
+Marcus Smart,4,4,40,1,Driving Floating Jump Shot,11,19,114,True
+Marcus Smart,4,8,16,0,Driving Floating Jump Shot,4,-2,44,True
+Marcus Smart,2,6,46,0,Driving Floating Jump Shot,4,3,41,True
+Marcus Smart,2,1,51,0,Driving Floating Jump Shot,5,10,57,True
+Marcus Smart,1,1,5,0,Driving Floating Jump Shot,5,30,42,True
+Marcus Smart,3,5,24,0,Driving Floating Jump Shot,6,25,57,True
+Marcus Smart,3,6,58,0,Driving Floating Jump Shot,7,-22,69,True
+Marcus Smart,4,1,18,1,Driving Hook Shot,4,39,10,True
+Marcus Smart,4,3,1,0,Driving Hook Shot,3,18,34,True
+Marcus Smart,4,3,13,0,Driving Hook Shot,8,29,78,True
+Marcus Smart,4,9,8,1,Driving Layup Shot,0,7,-1,True
+Marcus Smart,2,0,49,1,Driving Layup Shot,1,5,19,True
+Marcus Smart,2,11,44,1,Driving Layup Shot,1,-5,10,True
+Marcus Smart,4,11,10,0,Driving Layup Shot,4,19,40,True
+Marcus Smart,3,1,18,0,Driving Layup Shot,1,8,13,True
+Marcus Smart,4,10,2,0,Driving Layup Shot,3,16,34,True
+Marcus Smart,3,3,20,1,Driving Layup Shot,3,13,35,True
+Marcus Smart,3,0,4,1,Driving Layup Shot,2,18,15,True
+Marcus Smart,2,0,29,0,Driving Layup Shot,1,12,14,True
+Marcus Smart,1,0,0,1,Driving Layup Shot,2,11,21,True
+Marcus Smart,2,8,34,1,Driving Layup Shot,1,14,4,True
+Marcus Smart,4,3,52,1,Driving Layup Shot,1,2,10,True
+Marcus Smart,4,6,51,1,Driving Layup Shot,1,-8,7,True
+Marcus Smart,2,5,9,1,Driving Layup Shot,0,3,-3,True
+Marcus Smart,1,8,18,1,Driving Layup Shot,0,-1,4,True
+Marcus Smart,4,9,10,0,Driving Layup Shot,6,5,69,True
+Marcus Smart,3,5,37,1,Driving Layup Shot,1,-13,2,True
+Marcus Smart,1,0,1,0,Driving Layup Shot,2,-27,6,True
+Marcus Smart,3,3,45,1,Driving Layup Shot,2,0,27,True
+Marcus Smart,1,3,28,0,Driving Layup Shot,2,-16,17,True
+Marcus Smart,2,6,28,1,Driving Layup Shot,1,1,19,True
+Marcus Smart,4,0,13,1,Driving Layup Shot,1,9,11,True
+Marcus Smart,2,8,18,0,Driving Layup Shot,4,-16,42,True
+Marcus Smart,3,5,53,1,Driving Layup Shot,3,23,32,True
+Marcus Smart,3,6,8,1,Driving Layup Shot,2,13,16,True
+Marcus Smart,3,1,50,0,Driving Layup Shot,1,-4,17,True
+Marcus Smart,3,1,26,1,Driving Layup Shot,0,5,5,True
+Marcus Smart,1,0,2,1,Driving Layup Shot,1,-6,15,True
+Marcus Smart,2,6,22,0,Driving Layup Shot,8,25,80,True
+Marcus Smart,4,6,37,0,Driving Reverse Layup Shot,2,-13,16,True
+Marcus Smart,3,9,55,1,Driving Reverse Layup Shot,0,-8,5,True
+Marcus Smart,2,2,9,0,Driving Reverse Layup Shot,2,-23,16,True
+Marcus Smart,2,7,8,0,Driving Reverse Layup Shot,1,-10,10,True
+Marcus Smart,2,10,8,1,Driving Reverse Layup Shot,0,-8,2,True
+Marcus Smart,2,10,26,1,Dunk Shot,0,3,7,True
+Marcus Smart,2,1,0,1,Dunk Shot,0,4,7,True
+Marcus Smart,4,10,30,0,Fadeaway Jump Shot,13,-24,132,True
+Marcus Smart,1,5,10,0,Fadeaway Jump Shot,26,-192,185,False
+Marcus Smart,1,0,38,1,Fadeaway Jump Shot,20,187,94,True
+Marcus Smart,1,9,58,0,Fadeaway Jump Shot,11,100,64,True
+Marcus Smart,2,3,58,1,Fadeaway Jump Shot,4,-25,34,True
+Marcus Smart,2,10,41,0,Finger Roll Layup Shot,3,16,26,True
+Marcus Smart,3,1,27,1,Floating Jump shot,5,19,48,True
+Marcus Smart,1,1,17,1,Floating Jump shot,5,9,55,True
+Marcus Smart,3,6,11,1,Floating Jump shot,9,29,86,True
+Marcus Smart,4,3,4,0,Floating Jump shot,4,8,45,True
+Marcus Smart,3,0,47,0,Floating Jump shot,9,3,95,True
+Marcus Smart,4,8,45,0,Floating Jump shot,14,6,141,True
+Marcus Smart,3,1,41,0,Hook Shot,13,117,66,True
+Marcus Smart,2,10,57,1,Jump Bank Shot,11,-79,80,True
+Marcus Smart,3,6,18,1,Jump Bank Shot,8,80,31,True
+Marcus Smart,2,4,51,1,Jump Shot,25,-164,191,False
+Marcus Smart,4,10,4,0,Jump Shot,25,15,258,False
+Marcus Smart,3,0,6,0,Jump Shot,22,227,8,False
+Marcus Smart,3,4,40,0,Jump Shot,24,-163,185,False
+Marcus Smart,1,0,4,1,Jump Shot,22,-75,209,True
+Marcus Smart,3,5,43,1,Jump Shot,25,-14,254,False
+Marcus Smart,4,2,36,0,Jump Shot,12,117,52,True
+Marcus Smart,3,6,40,0,Jump Shot,23,-239,17,False
+Marcus Smart,3,4,41,0,Jump Shot,10,-38,93,True
+Marcus Smart,2,0,0,0,Jump Shot,20,93,178,True
+Marcus Smart,1,0,30,1,Jump Shot,26,26,259,False
+Marcus Smart,3,1,5,1,Jump Shot,25,234,90,False
+Marcus Smart,1,4,26,1,Jump Shot,25,-229,106,False
+Marcus Smart,3,0,49,0,Jump Shot,27,-168,216,False
+Marcus Smart,3,2,23,0,Jump Shot,26,169,201,False
+Marcus Smart,2,8,23,0,Jump Shot,23,232,34,False
+Marcus Smart,3,0,0,0,Jump Shot,28,74,277,False
+Marcus Smart,4,7,53,0,Jump Shot,27,219,173,False
+Marcus Smart,1,1,30,0,Jump Shot,25,185,170,False
+Marcus Smart,2,10,36,1,Jump Shot,26,-155,216,False
+Marcus Smart,1,2,9,1,Jump Shot,27,138,233,False
+Marcus Smart,2,7,50,0,Jump Shot,25,-188,176,False
+Marcus Smart,3,5,54,0,Jump Shot,24,239,45,False
+Marcus Smart,2,1,11,1,Jump Shot,22,-228,15,False
+Marcus Smart,2,1,40,1,Jump Shot,26,1,261,False
+Marcus Smart,1,0,31,1,Jump Shot,26,-165,205,False
+Marcus Smart,1,0,49,0,Jump Shot,22,-228,26,False
+Marcus Smart,2,0,0,0,Jump Shot,30,171,255,False
+Marcus Smart,3,1,35,0,Jump Shot,25,-68,246,False
+Marcus Smart,4,6,59,0,Jump Shot,26,116,241,False
+Marcus Smart,2,10,29,0,Jump Shot,25,-65,245,False
+Marcus Smart,4,0,0,0,Jump Shot,25,146,215,False
+Marcus Smart,1,0,46,0,Jump Shot,25,-166,199,False
+Marcus Smart,2,3,6,0,Jump Shot,28,159,232,False
+Marcus Smart,2,4,33,1,Jump Shot,28,150,245,False
+Marcus Smart,3,9,13,0,Jump Shot,25,194,168,False
+Marcus Smart,3,4,44,0,Jump Shot,26,-96,243,False
+Marcus Smart,3,2,32,0,Jump Shot,7,1,77,True
+Marcus Smart,4,10,24,1,Jump Shot,26,-128,229,False
+Marcus Smart,1,2,0,0,Jump Shot,25,-145,209,False
+Marcus Smart,3,1,39,1,Jump Shot,23,231,35,False
+Marcus Smart,1,5,31,0,Jump Shot,25,-153,206,False
+Marcus Smart,3,0,45,0,Jump Shot,26,-100,250,False
+Marcus Smart,1,5,14,1,Jump Shot,22,223,38,False
+Marcus Smart,1,5,19,0,Jump Shot,22,-224,-4,False
+Marcus Smart,4,8,6,0,Jump Shot,24,-198,152,False
+Marcus Smart,4,7,1,1,Jump Shot,25,-82,237,False
+Marcus Smart,2,10,38,0,Jump Shot,23,-234,37,False
+Marcus Smart,1,0,0,0,Jump Shot,58,-181,554,False
+Marcus Smart,4,10,14,0,Jump Shot,26,-129,231,False
+Marcus Smart,2,6,45,0,Jump Shot,23,-232,39,False
+Marcus Smart,2,7,57,1,Jump Shot,21,-187,104,True
+Marcus Smart,1,1,19,0,Jump Shot,27,-50,272,False
+Marcus Smart,1,2,54,1,Jump Shot,23,230,55,False
+Marcus Smart,2,10,29,0,Jump Shot,28,139,252,False
+Marcus Smart,2,3,38,0,Jump Shot,22,-50,222,True
+Marcus Smart,3,1,30,0,Jump Shot,26,-19,264,False
+Marcus Smart,4,7,58,1,Jump Shot,26,-108,239,False
+Marcus Smart,1,7,36,1,Jump Shot,24,154,191,False
+Marcus Smart,3,9,54,0,Jump Shot,25,225,119,False
+Marcus Smart,4,0,43,0,Jump Shot,26,177,201,False
+Marcus Smart,3,8,36,0,Jump Shot,26,-206,167,False
+Marcus Smart,1,5,25,0,Jump Shot,22,228,-6,False
+Marcus Smart,1,7,51,0,Jump Shot,16,18,162,True
+Marcus Smart,1,9,59,0,Jump Shot,2,3,21,True
+Marcus Smart,2,1,48,0,Jump Shot,26,-110,237,False
+Marcus Smart,1,9,34,0,Jump Shot,25,122,221,False
+Marcus Smart,2,5,26,1,Jump Shot,26,-152,215,False
+Marcus Smart,3,4,23,0,Jump Shot,18,-31,187,True
+Marcus Smart,3,7,44,0,Jump Shot,8,-25,77,True
+Marcus Smart,3,8,44,0,Jump Shot,25,-84,237,False
+Marcus Smart,2,6,15,1,Jump Shot,22,117,193,True
+Marcus Smart,2,2,2,0,Jump Shot,27,115,247,False
+Marcus Smart,2,0,0,0,Jump Shot,57,164,555,False
+Marcus Smart,1,3,7,0,Jump Shot,29,126,266,False
+Marcus Smart,2,8,4,0,Jump Shot,26,-67,260,False
+Marcus Smart,2,8,34,0,Jump Shot,26,-135,224,False
+Marcus Smart,4,8,16,0,Jump Shot,12,79,101,True
+Marcus Smart,2,1,28,1,Jump Shot,26,132,224,False
+Marcus Smart,2,5,18,1,Jump Shot,4,-27,37,True
+Marcus Smart,1,1,58,0,Jump Shot,26,-142,227,False
+Marcus Smart,2,11,6,0,Jump Shot,25,118,221,False
+Marcus Smart,4,8,38,0,Jump Shot,26,-123,239,False
+Marcus Smart,1,3,41,0,Jump Shot,25,87,236,False
+Marcus Smart,1,5,0,0,Jump Shot,25,125,217,False
+Marcus Smart,3,3,1,0,Jump Shot,25,139,216,False
+Marcus Smart,3,8,9,1,Jump Shot,26,111,243,False
+Marcus Smart,1,9,25,0,Jump Shot,25,120,226,False
+Marcus Smart,3,1,10,1,Jump Shot,29,155,246,False
+Marcus Smart,4,3,9,0,Jump Shot,27,199,187,False
+Marcus Smart,1,0,24,0,Jump Shot,24,-169,181,False
+Marcus Smart,4,5,0,1,Jump Shot,26,-201,168,False
+Marcus Smart,4,6,52,1,Jump Shot,28,103,266,False
+Marcus Smart,3,2,36,1,Jump Shot,27,148,229,False
+Marcus Smart,3,9,24,0,Jump Shot,29,166,243,False
+Marcus Smart,1,1,34,0,Jump Shot,26,76,250,False
+Marcus Smart,2,3,15,0,Jump Shot,25,-182,177,False
+Marcus Smart,3,9,31,1,Jump Shot,23,231,36,False
+Marcus Smart,3,3,26,1,Jump Shot,25,161,197,False
+Marcus Smart,1,6,54,0,Jump Shot,25,-153,201,False
+Marcus Smart,3,5,9,0,Jump Shot,22,-228,-23,False
+Marcus Smart,1,9,46,0,Jump Shot,24,-99,225,False
+Marcus Smart,1,6,24,0,Jump Shot,19,-9,191,True
+Marcus Smart,2,0,56,0,Jump Shot,21,212,-2,True
+Marcus Smart,4,5,18,0,Jump Shot,25,-30,254,False
+Marcus Smart,1,2,21,0,Jump Shot,24,-165,179,False
+Marcus Smart,1,6,20,1,Jump Shot,24,-87,232,False
+Marcus Smart,1,8,19,1,Jump Shot,24,-89,225,False
+Marcus Smart,1,4,8,1,Jump Shot,22,-221,53,False
+Marcus Smart,3,5,42,0,Jump Shot,8,42,74,True
+Marcus Smart,2,5,4,0,Jump Shot,25,116,231,False
+Marcus Smart,1,1,49,0,Jump Shot,26,-172,206,False
+Marcus Smart,1,2,4,0,Jump Shot,17,63,164,True
+Marcus Smart,4,7,38,0,Jump Shot,25,-160,200,False
+Marcus Smart,3,0,35,0,Jump Shot,19,-36,194,True
+Marcus Smart,2,11,43,0,Jump Shot,25,131,223,False
+Marcus Smart,3,3,3,0,Jump Shot,25,116,229,False
+Marcus Smart,1,0,44,0,Jump Shot,13,-12,137,True
+Marcus Smart,1,6,59,0,Jump Shot,20,-17,205,False
+Marcus Smart,2,11,18,1,Jump Shot,25,150,205,False
+Marcus Smart,3,0,29,0,Jump Shot,22,229,-15,False
+Marcus Smart,3,5,4,1,Jump Shot,20,47,203,True
+Marcus Smart,3,4,42,1,Jump Shot,26,-142,220,False
+Marcus Smart,2,8,25,1,Jump Shot,33,149,300,False
+Marcus Smart,3,6,32,0,Jump Shot,26,-158,217,False
+Marcus Smart,3,6,36,0,Jump Shot,25,-144,209,False
+Marcus Smart,3,3,48,0,Jump Shot,26,-132,230,False
+Marcus Smart,3,7,25,0,Jump Shot,22,-228,0,False
+Marcus Smart,3,7,45,0,Jump Shot,25,-165,190,False
+Marcus Smart,1,3,59,1,Jump Shot,27,179,203,False
+Marcus Smart,2,3,5,1,Jump Shot,26,-159,206,False
+Marcus Smart,4,5,46,1,Jump Shot,28,158,239,False
+Marcus Smart,4,0,33,0,Jump Shot,30,138,276,False
+Marcus Smart,4,2,22,1,Jump Shot,27,-68,271,False
+Marcus Smart,2,2,34,1,Jump Shot,24,183,168,False
+Marcus Smart,3,5,35,0,Jump Shot,24,241,62,False
+Marcus Smart,1,2,38,1,Jump Shot,26,-208,167,False
+Marcus Smart,2,4,34,1,Jump Shot,22,16,223,True
+Marcus Smart,4,5,19,0,Jump Shot,26,-129,227,False
+Marcus Smart,1,0,29,0,Jump Shot,25,161,201,False
+Marcus Smart,3,1,2,0,Jump Shot,26,147,224,False
+Marcus Smart,4,8,33,0,Jump Shot,26,-194,179,False
+Marcus Smart,4,10,42,0,Jump Shot,28,171,227,False
+Marcus Smart,4,7,30,0,Jump Shot,27,-109,250,False
+Marcus Smart,4,9,23,1,Jump Shot,26,-51,262,False
+Marcus Smart,1,0,20,0,Jump Shot,22,-223,55,False
+Marcus Smart,2,6,21,0,Jump Shot,12,89,85,True
+Marcus Smart,2,9,39,0,Jump Shot,24,-147,195,False
+Marcus Smart,1,1,48,0,Jump Shot,26,-143,222,False
+Marcus Smart,3,3,52,0,Jump Shot,25,197,162,False
+Marcus Smart,4,9,5,0,Jump Shot,23,-233,10,False
+Marcus Smart,4,11,42,1,Jump Shot,25,32,250,False
+Marcus Smart,1,2,13,0,Jump Shot,25,-203,154,False
+Marcus Smart,2,10,27,0,Jump Shot,24,185,168,False
+Marcus Smart,3,0,32,0,Jump Shot,25,63,250,False
+Marcus Smart,4,1,24,1,Jump Shot,26,-85,248,False
+Marcus Smart,5,4,10,0,Jump Shot,25,221,136,False
+Marcus Smart,2,9,44,0,Jump Shot,16,155,42,True
+Marcus Smart,2,8,6,0,Jump Shot,26,36,258,False
+Marcus Smart,1,0,42,0,Jump Shot,26,-224,146,False
+Marcus Smart,2,7,10,0,Jump Shot,24,-117,220,False
+Marcus Smart,2,6,16,0,Jump Shot,25,62,245,False
+Marcus Smart,4,9,59,0,Jump Shot,25,-115,222,False
+Marcus Smart,3,2,7,0,Jump Shot,26,-188,182,False
+Marcus Smart,2,9,42,0,Jump Shot,24,173,176,False
+Marcus Smart,4,11,45,0,Jump Shot,25,117,227,False
+Marcus Smart,3,10,56,1,Jump Shot,26,87,253,False
+Marcus Smart,3,7,26,0,Jump Shot,27,125,243,False
+Marcus Smart,3,9,7,1,Jump Shot,27,148,229,False
+Marcus Smart,1,7,52,0,Jump Shot,23,232,37,False
+Marcus Smart,1,1,29,0,Jump Shot,25,47,246,False
+Marcus Smart,3,4,15,0,Jump Shot,28,152,236,False
+Marcus Smart,3,8,50,0,Jump Shot,26,214,157,False
+Marcus Smart,3,10,27,0,Jump Shot,27,228,151,False
+Marcus Smart,1,5,47,0,Jump Shot,25,152,205,False
+Marcus Smart,3,5,22,0,Jump Shot,8,-60,64,True
+Marcus Smart,2,5,49,0,Jump Shot,25,130,214,False
+Marcus Smart,1,6,49,0,Jump Shot,25,36,256,False
+Marcus Smart,3,6,49,0,Jump Shot,28,-55,276,False
+Marcus Smart,4,9,25,0,Jump Shot,28,112,267,False
+Marcus Smart,4,7,30,1,Jump Shot,27,-123,242,False
+Marcus Smart,3,10,29,1,Jump Shot,22,225,46,False
+Marcus Smart,3,5,11,1,Jump Shot,23,225,75,False
+Marcus Smart,1,1,43,0,Jump Shot,26,32,261,False
+Marcus Smart,1,1,1,0,Jump Shot,9,-26,92,True
+Marcus Smart,4,4,30,0,Jump Shot,22,223,50,False
+Marcus Smart,4,6,36,0,Jump Shot,25,222,125,False
+Marcus Smart,2,7,51,1,Jump Shot,25,-109,229,False
+Marcus Smart,3,1,35,1,Jump Shot,25,-62,247,False
+Marcus Smart,4,8,20,0,Jump Shot,25,-6,258,False
+Marcus Smart,2,6,17,0,Jump Shot,26,141,221,False
+Marcus Smart,4,10,28,0,Jump Shot,26,144,225,False
+Marcus Smart,3,2,4,0,Jump Shot,25,-171,184,False
+Marcus Smart,2,5,42,0,Jump Shot,24,239,61,False
+Marcus Smart,3,0,0,1,Jump Shot,25,-163,196,False
+Marcus Smart,2,7,0,0,Jump Shot,22,-226,24,False
+Marcus Smart,1,3,26,0,Jump Shot,25,-84,241,False
+Marcus Smart,1,0,0,0,Jump Shot,24,-150,195,False
+Marcus Smart,1,0,39,0,Jump Shot,25,148,213,False
+Marcus Smart,2,9,39,1,Jump Shot,27,138,236,False
+Marcus Smart,4,11,27,0,Jump Shot,26,-168,205,False
+Marcus Smart,4,10,41,0,Jump Shot,28,-127,259,False
+Marcus Smart,4,7,2,0,Jump Shot,26,149,225,False
+Marcus Smart,4,7,27,1,Jump Shot,25,149,201,False
+Marcus Smart,4,0,28,0,Jump Shot,20,129,159,True
+Marcus Smart,2,3,55,0,Jump Shot,28,149,239,False
+Marcus Smart,2,0,0,0,Jump Shot,27,79,260,False
+Marcus Smart,4,9,22,1,Jump Shot,27,108,253,False
+Marcus Smart,1,11,38,0,Jump Shot,22,-222,36,False
+Marcus Smart,4,2,37,1,Jump Shot,24,-161,182,False
+Marcus Smart,4,1,28,0,Jump Shot,26,-196,183,False
+Marcus Smart,2,2,6,0,Jump Shot,12,-94,85,True
+Marcus Smart,3,7,37,1,Jump Shot,27,-58,272,False
+Marcus Smart,1,7,53,1,Jump Shot,23,228,58,False
+Marcus Smart,2,3,32,0,Jump Shot,23,227,38,False
+Marcus Smart,2,5,6,0,Jump Shot,25,-126,220,False
+Marcus Smart,1,2,58,0,Jump Shot,25,135,221,False
+Marcus Smart,3,6,25,0,Jump Shot,24,-211,127,False
+Marcus Smart,1,1,13,0,Jump Shot,10,-27,105,True
+Marcus Smart,1,1,42,0,Jump Shot,16,-168,21,True
+Marcus Smart,2,3,50,0,Jump Shot,26,-107,242,False
+Marcus Smart,2,0,20,0,Jump Shot,18,96,157,True
+Marcus Smart,3,3,54,1,Layup Shot,1,-4,13,True
+Marcus Smart,3,3,37,0,Layup Shot,1,0,13,True
+Marcus Smart,3,1,13,1,Layup Shot,0,-6,5,True
+Marcus Smart,2,3,33,0,Layup Shot,3,33,8,True
+Marcus Smart,2,0,39,0,Layup Shot,3,-10,32,True
+Marcus Smart,4,7,32,0,Layup Shot,1,6,17,True
+Marcus Smart,3,0,31,1,Layup Shot,0,5,4,True
+Marcus Smart,2,0,11,0,Layup Shot,1,10,7,True
+Marcus Smart,3,4,57,0,Layup Shot,1,0,13,True
+Marcus Smart,2,0,14,0,Layup Shot,1,-10,6,True
+Marcus Smart,3,3,29,1,Layup Shot,1,14,-1,True
+Marcus Smart,4,3,23,0,Layup Shot,0,-3,-1,True
+Marcus Smart,3,2,7,0,Layup Shot,2,4,26,True
+Marcus Smart,4,9,52,1,Layup Shot,1,16,9,True
+Marcus Smart,2,10,14,1,Layup Shot,1,3,10,True
+Marcus Smart,2,3,55,1,Layup Shot,2,24,0,True
+Marcus Smart,2,0,41,0,Layup Shot,3,-24,24,True
+Marcus Smart,2,10,20,0,Layup Shot,3,9,36,True
+Marcus Smart,3,1,48,0,Layup Shot,0,3,4,True
+Marcus Smart,4,9,14,0,Layup Shot,5,-48,29,True
+Marcus Smart,1,2,15,1,Pullup Jump shot,12,85,93,True
+Marcus Smart,3,1,28,0,Pullup Jump shot,25,43,251,False
+Marcus Smart,2,8,49,1,Pullup Jump shot,7,60,47,True
+Marcus Smart,3,2,55,0,Pullup Jump shot,13,114,74,True
+Marcus Smart,4,6,38,0,Pullup Jump shot,27,121,245,False
+Marcus Smart,1,4,11,0,Pullup Jump shot,16,-88,134,True
+Marcus Smart,2,8,44,0,Pullup Jump shot,13,-25,131,True
+Marcus Smart,3,6,21,1,Pullup Jump shot,11,41,109,True
+Marcus Smart,1,0,26,1,Pullup Jump shot,19,27,190,True
+Marcus Smart,1,5,52,0,Pullup Jump shot,4,-6,44,True
+Marcus Smart,1,0,0,1,Pullup Jump shot,28,135,247,False
+Marcus Smart,1,1,26,1,Pullup Jump shot,14,-40,137,True
+Marcus Smart,3,2,35,0,Pullup Jump shot,18,98,151,True
+Marcus Smart,3,0,2,0,Pullup Jump shot,28,106,263,False
+Marcus Smart,1,1,4,1,Pullup Jump shot,15,77,136,True
+Marcus Smart,1,0,55,0,Pullup Jump shot,7,71,-8,True
+Marcus Smart,4,0,12,0,Pullup Jump shot,26,-152,221,False
+Marcus Smart,1,9,54,1,Pullup Jump shot,13,91,99,True
+Marcus Smart,1,2,24,1,Pullup Jump shot,19,103,167,True
+Marcus Smart,4,0,10,0,Pullup Jump shot,26,38,267,False
+Marcus Smart,1,0,58,0,Pullup Jump shot,25,81,242,False
+Marcus Smart,4,3,57,0,Pullup Jump shot,26,142,224,False
+Marcus Smart,1,1,21,1,Pullup Jump shot,14,-23,141,True
+Marcus Smart,1,5,46,1,Pullup Jump shot,3,8,37,True
+Marcus Smart,1,5,28,0,Pullup Jump shot,18,-24,179,True
+Marcus Smart,2,0,32,0,Pullup Jump shot,12,-20,120,True
+Marcus Smart,4,10,1,0,Pullup Jump shot,26,-44,260,False
+Marcus Smart,4,3,49,0,Pullup Jump shot,17,147,100,True
+Marcus Smart,1,5,28,0,Pullup Jump shot,23,-232,10,False
+Marcus Smart,4,7,29,0,Pullup Jump shot,26,160,209,False
+Marcus Smart,2,0,32,0,Pullup Jump shot,12,48,112,True
+Marcus Smart,3,0,33,0,Pullup Jump shot,14,-3,148,True
+Marcus Smart,5,2,11,1,Pullup Jump shot,9,90,32,True
+Marcus Smart,4,6,19,0,Pullup Jump shot,13,-6,136,True
+Marcus Smart,4,11,33,1,Pullup Jump shot,25,-81,246,False
+Marcus Smart,4,0,18,0,Pullup Jump shot,31,62,309,False
+Marcus Smart,1,1,22,1,Pullup Jump shot,18,99,153,True
+Marcus Smart,1,2,54,0,Pullup Jump shot,17,60,164,True
+Marcus Smart,4,6,28,1,Pullup Jump shot,26,-138,224,False
+Marcus Smart,3,4,24,1,Pullup Jump shot,11,-36,104,True
+Marcus Smart,3,7,53,0,Pullup Jump shot,22,16,228,True
+Marcus Smart,1,1,2,0,Pullup Jump shot,27,-123,247,False
+Marcus Smart,1,1,35,1,Pullup Jump shot,15,133,88,True
+Marcus Smart,1,6,14,1,Pullup Jump shot,18,-7,185,True
+Marcus Smart,3,1,33,0,Pullup Jump shot,13,-35,131,True
+Marcus Smart,1,1,30,0,Pullup Jump shot,9,90,29,True
+Marcus Smart,2,11,43,1,Pullup Jump shot,18,51,183,True
+Marcus Smart,3,0,32,0,Pullup Jump shot,25,157,196,False
+Marcus Smart,1,2,20,0,Pullup Jump shot,16,81,141,True
+Marcus Smart,2,9,26,0,Pullup Jump shot,25,-80,246,False
+Marcus Smart,2,8,1,1,Pullup Jump shot,20,57,192,True
+Marcus Smart,1,4,14,1,Pullup Jump shot,3,6,34,True
+Marcus Smart,2,11,15,1,Pullup Jump shot,24,-43,242,False
+Marcus Smart,2,10,14,0,Pullup Jump shot,18,67,172,True
+Marcus Smart,2,10,46,1,Pullup Jump shot,9,59,75,True
+Marcus Smart,3,2,32,1,Pullup Jump shot,15,68,136,True
+Marcus Smart,2,9,19,1,Pullup Jump shot,24,-189,159,False
+Marcus Smart,3,2,48,0,Pullup Jump shot,27,164,218,False
+Marcus Smart,2,7,49,0,Pullup Jump shot,25,-130,214,False
+Marcus Smart,1,4,21,0,Pullup Jump shot,24,-17,247,False
+Marcus Smart,2,0,56,0,Putback Layup Shot,0,0,-6,True
+Marcus Smart,2,0,1,0,Putback Layup Shot,1,-8,10,True
+Marcus Smart,4,2,14,1,Putback Layup Shot,1,3,13,True
+Marcus Smart,3,6,58,0,Reverse Layup Shot,3,8,32,True
+Marcus Smart,3,7,0,1,Running Finger Roll Layup Shot,0,1,5,True
+Marcus Smart,2,9,20,1,Running Jump Shot,24,134,211,False
+Marcus Smart,1,4,39,0,Running Layup Shot,2,3,22,True
+Marcus Smart,3,11,26,1,Running Layup Shot,2,13,21,True
+Marcus Smart,1,2,26,0,Running Layup Shot,2,3,23,True
+Marcus Smart,2,1,25,1,Running Layup Shot,0,-2,8,True
+Marcus Smart,4,10,58,0,Running Layup Shot,0,-1,8,True
+Marcus Smart,4,9,51,0,Running Layup Shot,2,-9,22,True
+Marcus Smart,3,6,2,0,Running Layup Shot,1,-2,17,True
+Marcus Smart,3,4,32,1,Running Pull-Up Jump Shot,27,144,233,False
+Marcus Smart,4,9,22,1,Running Reverse Layup Shot,1,-16,1,True
+Marcus Smart,3,4,48,1,Step Back Bank Jump Shot,27,-112,247,False
+Marcus Smart,1,0,1,1,Step Back Jump shot,17,-34,174,True
+Marcus Smart,4,4,2,0,Step Back Jump shot,22,169,149,True
+Marcus Smart,2,9,55,0,Step Back Jump shot,20,19,201,True
+Marcus Smart,2,11,41,1,Step Back Jump shot,19,-15,190,True
+Marcus Smart,3,0,1,0,Step Back Jump shot,12,115,53,True
+Marcus Smart,1,10,4,0,Step Back Jump shot,18,112,149,True
+Marcus Smart,2,10,7,0,Step Back Jump shot,8,87,21,True
+Marcus Smart,2,11,19,0,Step Back Jump shot,25,42,254,False
+Marcus Smart,2,8,35,1,Step Back Jump shot,25,-97,239,False
+Marcus Smart,1,0,54,1,Step Back Jump shot,18,-130,133,True
+Marcus Smart,2,11,26,0,Step Back Jump shot,12,-123,-14,True
+Marcus Smart,1,4,56,0,Step Back Jump shot,11,-103,48,True
+Marcus Smart,5,1,36,0,Step Back Jump shot,26,136,226,False
+Marcus Smart,3,0,1,0,Step Back Jump shot,22,-112,192,True
+Marcus Smart,4,5,37,1,Step Back Jump shot,15,14,159,True
+Marcus Smart,3,9,31,0,Step Back Jump shot,19,57,185,True
+Marcus Smart,3,4,3,1,Tip Layup Shot,0,0,-6,True
+Marcus Smart,1,0,0,0,Tip Layup Shot,0,0,-6,True
+Marcus Smart,4,6,19,0,Tip Layup Shot,0,0,-6,True
+Marcus Smart,2,11,48,1,Turnaround Fadeaway Bank Jump Shot,6,58,37,True
+Marcus Smart,3,1,48,1,Turnaround Fadeaway Bank Jump Shot,12,-120,37,True
+Marcus Smart,4,11,37,1,Turnaround Fadeaway Bank Jump Shot,9,-71,60,True
+Marcus Smart,4,0,37,0,Turnaround Fadeaway shot,12,-64,103,True
+Marcus Smart,4,11,31,0,Turnaround Fadeaway shot,7,71,15,True
+Marcus Smart,2,10,10,0,Turnaround Fadeaway shot,13,59,117,True
+Marcus Smart,3,0,0,0,Turnaround Fadeaway shot,15,129,88,True
+Marcus Smart,3,2,51,0,Turnaround Fadeaway shot,11,29,112,True
+Marcus Smart,1,0,10,0,Turnaround Fadeaway shot,4,0,42,True
+Marcus Smart,3,2,33,0,Turnaround Fadeaway shot,8,-87,8,True
+Marcus Smart,2,8,16,1,Turnaround Hook Shot,10,-9,103,True
+Marcus Smart,1,2,18,0,Turnaround Jump Shot,9,-72,54,True
+Marcus Smart,3,11,20,0,Turnaround Jump Shot,8,11,82,True
+Marcus Smart,3,8,44,0,Turnaround Jump Shot,5,28,43,True
+Marcus Smart,4,0,0,0,Turnaround Jump Shot,26,-233,124,False
+Marcus Smart,3,0,1,0,Turnaround Jump Shot,5,-29,50,True
+Marcus Smart,2,1,58,1,Turnaround Jump Shot,5,48,32,True
+Marcus Smart,1,0,33,0,Turnaround Jump Shot,13,-116,78,True
+Marcus Smart,3,0,1,1,Turnaround Jump Shot,15,1,155,True
+Marcus Smart,3,8,54,1,Turnaround Jump Shot,7,-70,17,True
+Marcus Smart,1,2,21,1,Turnaround Jump Shot,15,-158,17,True
+Marcus Smart,3,0,3,0,Turnaround Jump Shot,9,72,69,True
+Marcus Smart,2,11,42,0,Turnaround Jump Shot,14,68,130,True

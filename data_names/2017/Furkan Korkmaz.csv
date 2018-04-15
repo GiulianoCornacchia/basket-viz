@@ -1,0 +1,29 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Furkan Korkmaz,4,5,10,0,Driving Floating Jump Shot,6,-40,52,True
+Furkan Korkmaz,4,9,36,0,Floating Jump shot,16,-73,146,True
+Furkan Korkmaz,4,2,0,0,Jump Shot,14,130,57,True
+Furkan Korkmaz,4,2,21,1,Jump Shot,26,-214,148,False
+Furkan Korkmaz,4,0,25,1,Jump Shot,25,-204,158,False
+Furkan Korkmaz,4,1,26,0,Jump Shot,24,-131,211,False
+Furkan Korkmaz,4,3,37,0,Jump Shot,9,-8,99,True
+Furkan Korkmaz,4,0,32,0,Jump Shot,27,-188,207,False
+Furkan Korkmaz,3,0,35,0,Jump Shot,28,154,234,False
+Furkan Korkmaz,1,0,0,0,Jump Shot,12,55,113,True
+Furkan Korkmaz,3,3,51,0,Jump Shot,25,-90,241,False
+Furkan Korkmaz,2,7,50,0,Jump Shot,28,-25,283,False
+Furkan Korkmaz,4,1,25,0,Jump Shot,27,-128,244,False
+Furkan Korkmaz,4,0,56,0,Jump Shot,18,-179,28,True
+Furkan Korkmaz,4,0,34,0,Jump Shot,22,226,37,False
+Furkan Korkmaz,4,2,19,0,Jump Shot,25,-119,229,False
+Furkan Korkmaz,4,6,25,1,Jump Shot,27,-187,202,False
+Furkan Korkmaz,4,7,39,0,Jump Shot,27,159,224,False
+Furkan Korkmaz,4,3,45,0,Jump Shot,23,232,40,False
+Furkan Korkmaz,2,10,20,1,Jump Shot,26,-12,264,False
+Furkan Korkmaz,4,0,3,0,Pullup Jump shot,26,-165,202,False
+Furkan Korkmaz,4,3,38,0,Pullup Jump shot,14,147,16,True
+Furkan Korkmaz,4,0,53,1,Putback Layup Shot,0,0,-6,True
+Furkan Korkmaz,4,0,51,1,Running Finger Roll Layup Shot,2,17,20,True
+Furkan Korkmaz,4,4,27,1,Running Jump Shot,26,-173,205,False
+Furkan Korkmaz,3,2,23,1,Running Reverse Dunk Shot,1,9,8,True
+Furkan Korkmaz,4,6,55,0,Step Back Jump shot,26,218,142,False
+Furkan Korkmaz,4,1,1,0,Turnaround Jump Shot,17,78,159,True

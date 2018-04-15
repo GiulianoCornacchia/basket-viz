@@ -1,0 +1,514 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Marcin Gortat,4,2,42,1,Alley Oop Dunk Shot,2,12,20,True
+Marcin Gortat,4,2,50,1,Alley Oop Dunk Shot,0,1,9,True
+Marcin Gortat,4,4,30,1,Alley Oop Dunk Shot,0,2,4,True
+Marcin Gortat,3,6,21,1,Alley Oop Layup shot,1,13,13,True
+Marcin Gortat,3,4,11,1,Alley Oop Layup shot,1,-8,6,True
+Marcin Gortat,2,1,57,0,Alley Oop Layup shot,1,-2,15,True
+Marcin Gortat,1,10,48,0,Alley Oop Layup shot,5,53,10,True
+Marcin Gortat,1,11,42,0,Alley Oop Layup shot,2,-16,20,True
+Marcin Gortat,4,7,37,0,Alley Oop Layup shot,6,-36,57,True
+Marcin Gortat,4,4,40,0,Cutting Dunk Shot,2,3,26,True
+Marcin Gortat,3,4,10,1,Cutting Dunk Shot,1,12,11,True
+Marcin Gortat,1,3,12,1,Cutting Dunk Shot,0,2,7,True
+Marcin Gortat,1,10,0,1,Cutting Dunk Shot,1,2,13,True
+Marcin Gortat,3,4,30,1,Cutting Dunk Shot,2,-5,23,True
+Marcin Gortat,2,3,22,0,Cutting Dunk Shot,2,3,23,True
+Marcin Gortat,5,2,37,0,Cutting Dunk Shot,1,19,2,True
+Marcin Gortat,3,9,7,1,Cutting Dunk Shot,0,5,4,True
+Marcin Gortat,3,11,32,1,Cutting Dunk Shot,3,18,25,True
+Marcin Gortat,1,4,50,1,Cutting Dunk Shot,1,-6,8,True
+Marcin Gortat,1,8,4,1,Cutting Dunk Shot,0,-2,7,True
+Marcin Gortat,3,5,32,1,Cutting Dunk Shot,1,-3,10,True
+Marcin Gortat,1,9,9,1,Cutting Dunk Shot,1,-2,14,True
+Marcin Gortat,1,8,58,1,Cutting Dunk Shot,0,2,7,True
+Marcin Gortat,3,3,37,1,Cutting Dunk Shot,2,2,26,True
+Marcin Gortat,1,11,47,1,Cutting Dunk Shot,0,-4,4,True
+Marcin Gortat,4,6,27,1,Cutting Dunk Shot,1,7,8,True
+Marcin Gortat,3,9,43,0,Cutting Finger Roll Layup Shot,1,2,11,True
+Marcin Gortat,3,8,16,1,Cutting Finger Roll Layup Shot,1,-3,10,True
+Marcin Gortat,4,2,53,1,Cutting Finger Roll Layup Shot,2,2,21,True
+Marcin Gortat,5,3,36,1,Cutting Finger Roll Layup Shot,2,3,27,True
+Marcin Gortat,3,6,55,1,Cutting Finger Roll Layup Shot,0,1,3,True
+Marcin Gortat,2,7,54,1,Cutting Finger Roll Layup Shot,1,11,12,True
+Marcin Gortat,1,5,46,1,Cutting Finger Roll Layup Shot,1,0,16,True
+Marcin Gortat,1,7,0,0,Cutting Finger Roll Layup Shot,1,-2,11,True
+Marcin Gortat,1,10,29,1,Cutting Finger Roll Layup Shot,3,-32,22,True
+Marcin Gortat,3,1,13,1,Cutting Layup Shot,1,-11,7,True
+Marcin Gortat,1,7,37,1,Cutting Layup Shot,0,9,4,True
+Marcin Gortat,2,6,53,0,Cutting Layup Shot,7,58,54,True
+Marcin Gortat,3,11,8,1,Cutting Layup Shot,1,-4,11,True
+Marcin Gortat,1,9,23,0,Cutting Layup Shot,2,21,12,True
+Marcin Gortat,1,11,35,0,Cutting Layup Shot,0,-4,6,True
+Marcin Gortat,1,6,4,0,Cutting Layup Shot,1,-13,10,True
+Marcin Gortat,2,0,9,0,Cutting Layup Shot,1,-7,16,True
+Marcin Gortat,4,3,51,0,Cutting Layup Shot,1,-11,16,True
+Marcin Gortat,2,1,27,1,Cutting Layup Shot,0,-1,6,True
+Marcin Gortat,3,5,3,1,Cutting Layup Shot,1,11,4,True
+Marcin Gortat,1,8,34,1,Cutting Layup Shot,6,25,61,True
+Marcin Gortat,2,2,35,0,Cutting Layup Shot,2,14,18,True
+Marcin Gortat,1,7,26,0,Cutting Layup Shot,1,-18,4,True
+Marcin Gortat,1,8,38,1,Cutting Layup Shot,1,2,11,True
+Marcin Gortat,3,7,25,1,Cutting Layup Shot,0,-8,-1,True
+Marcin Gortat,3,9,52,0,Cutting Layup Shot,1,-5,17,True
+Marcin Gortat,3,10,36,1,Cutting Layup Shot,1,0,13,True
+Marcin Gortat,2,4,40,0,Cutting Layup Shot,2,9,25,True
+Marcin Gortat,3,9,37,1,Cutting Layup Shot,1,2,13,True
+Marcin Gortat,3,4,59,0,Cutting Layup Shot,3,-6,32,True
+Marcin Gortat,1,11,33,1,Cutting Layup Shot,1,-9,17,True
+Marcin Gortat,1,7,22,1,Cutting Layup Shot,2,5,27,True
+Marcin Gortat,3,4,41,1,Cutting Layup Shot,1,11,15,True
+Marcin Gortat,1,3,29,1,Cutting Layup Shot,2,4,27,True
+Marcin Gortat,1,6,52,0,Cutting Layup Shot,0,5,7,True
+Marcin Gortat,2,1,54,1,Cutting Layup Shot,1,-12,-8,True
+Marcin Gortat,5,4,42,1,Cutting Layup Shot,1,3,11,True
+Marcin Gortat,3,9,29,0,Cutting Layup Shot,1,-8,11,True
+Marcin Gortat,4,3,16,0,Cutting Layup Shot,3,9,36,True
+Marcin Gortat,1,11,18,0,Cutting Layup Shot,0,2,-8,True
+Marcin Gortat,1,5,20,0,Cutting Layup Shot,2,-22,12,True
+Marcin Gortat,4,2,18,1,Cutting Layup Shot,2,12,19,True
+Marcin Gortat,4,4,23,1,Cutting Layup Shot,2,-4,22,True
+Marcin Gortat,3,11,46,1,Cutting Layup Shot,0,9,1,True
+Marcin Gortat,1,9,34,0,Cutting Layup Shot,2,14,25,True
+Marcin Gortat,1,7,52,0,Cutting Layup Shot,3,-8,38,True
+Marcin Gortat,3,0,6,1,Cutting Layup Shot,1,8,17,True
+Marcin Gortat,3,2,34,1,Cutting Layup Shot,1,9,17,True
+Marcin Gortat,3,8,50,1,Cutting Layup Shot,1,10,11,True
+Marcin Gortat,1,9,32,1,Cutting Layup Shot,1,-8,6,True
+Marcin Gortat,4,0,36,1,Cutting Layup Shot,1,16,8,True
+Marcin Gortat,1,7,7,1,Cutting Layup Shot,0,-3,5,True
+Marcin Gortat,2,4,20,1,Cutting Layup Shot,1,13,8,True
+Marcin Gortat,3,11,29,1,Cutting Layup Shot,1,-3,15,True
+Marcin Gortat,4,4,11,1,Cutting Layup Shot,0,6,-2,True
+Marcin Gortat,1,9,30,1,Cutting Layup Shot,1,18,8,True
+Marcin Gortat,2,1,7,1,Cutting Layup Shot,0,-1,-1,True
+Marcin Gortat,3,3,49,1,Cutting Layup Shot,1,2,19,True
+Marcin Gortat,3,5,48,1,Cutting Layup Shot,1,2,10,True
+Marcin Gortat,1,7,3,1,Cutting Layup Shot,1,13,14,True
+Marcin Gortat,4,2,24,1,Cutting Layup Shot,0,1,8,True
+Marcin Gortat,3,6,49,1,Cutting Layup Shot,3,19,31,True
+Marcin Gortat,3,11,24,1,Cutting Layup Shot,2,-6,24,True
+Marcin Gortat,3,4,57,1,Cutting Layup Shot,1,-5,12,True
+Marcin Gortat,2,2,54,1,Cutting Layup Shot,0,5,5,True
+Marcin Gortat,3,11,13,0,Cutting Layup Shot,2,19,15,True
+Marcin Gortat,1,9,39,1,Cutting Layup Shot,1,5,13,True
+Marcin Gortat,1,9,35,0,Cutting Layup Shot,2,-8,20,True
+Marcin Gortat,3,11,25,1,Cutting Layup Shot,1,-6,15,True
+Marcin Gortat,3,0,35,0,Cutting Layup Shot,1,9,5,True
+Marcin Gortat,3,10,21,1,Cutting Layup Shot,1,7,16,True
+Marcin Gortat,1,8,54,1,Cutting Layup Shot,1,9,12,True
+Marcin Gortat,3,9,3,1,Cutting Layup Shot,1,-13,5,True
+Marcin Gortat,1,8,37,0,Cutting Layup Shot,2,-18,22,True
+Marcin Gortat,3,9,11,1,Cutting Layup Shot,1,2,16,True
+Marcin Gortat,3,6,58,1,Cutting Layup Shot,1,-9,13,True
+Marcin Gortat,3,8,13,1,Cutting Layup Shot,2,13,24,True
+Marcin Gortat,1,11,45,0,Driving Bank Hook Shot,5,36,43,True
+Marcin Gortat,1,5,4,1,Driving Dunk Shot,1,-3,15,True
+Marcin Gortat,3,9,2,1,Driving Finger Roll Layup Shot,4,42,12,True
+Marcin Gortat,3,6,40,1,Driving Finger Roll Layup Shot,3,2,35,True
+Marcin Gortat,1,9,22,0,Driving Finger Roll Layup Shot,3,-29,21,True
+Marcin Gortat,1,9,51,0,Driving Finger Roll Layup Shot,2,5,20,True
+Marcin Gortat,1,10,34,0,Driving Finger Roll Layup Shot,1,-10,14,True
+Marcin Gortat,4,6,49,0,Driving Floating Bank Jump Shot,5,30,47,True
+Marcin Gortat,1,5,7,1,Driving Floating Jump Shot,9,-56,73,True
+Marcin Gortat,3,6,0,0,Driving Hook Shot,3,-4,34,True
+Marcin Gortat,1,5,41,0,Driving Hook Shot,8,67,50,True
+Marcin Gortat,2,0,57,0,Driving Hook Shot,5,13,55,True
+Marcin Gortat,2,4,27,0,Driving Hook Shot,6,-35,50,True
+Marcin Gortat,3,2,45,0,Driving Hook Shot,8,13,88,True
+Marcin Gortat,4,5,54,0,Driving Hook Shot,5,-6,52,True
+Marcin Gortat,3,7,41,0,Driving Layup Shot,5,13,55,True
+Marcin Gortat,3,7,13,0,Driving Layup Shot,2,-3,24,True
+Marcin Gortat,1,4,29,1,Driving Layup Shot,0,-1,5,True
+Marcin Gortat,3,7,10,1,Driving Layup Shot,3,17,25,True
+Marcin Gortat,2,1,35,0,Driving Layup Shot,3,-5,32,True
+Marcin Gortat,4,0,29,0,Driving Layup Shot,4,-8,40,True
+Marcin Gortat,1,5,54,0,Driving Layup Shot,15,60,147,True
+Marcin Gortat,1,4,49,0,Driving Layup Shot,2,20,22,True
+Marcin Gortat,3,7,24,1,Driving Layup Shot,1,-2,14,True
+Marcin Gortat,3,9,12,0,Driving Layup Shot,2,-17,21,True
+Marcin Gortat,1,1,11,1,Driving Layup Shot,0,-2,8,True
+Marcin Gortat,1,6,31,0,Driving Layup Shot,3,-30,19,True
+Marcin Gortat,3,11,2,0,Driving Layup Shot,3,-22,32,True
+Marcin Gortat,2,0,37,1,Driving Layup Shot,3,-32,8,True
+Marcin Gortat,3,8,53,0,Driving Layup Shot,2,-23,15,True
+Marcin Gortat,2,7,26,1,Driving Layup Shot,2,-6,20,True
+Marcin Gortat,3,6,41,1,Driving Reverse Layup Shot,3,-9,31,True
+Marcin Gortat,4,5,32,0,Driving Reverse Layup Shot,1,16,11,True
+Marcin Gortat,2,4,32,1,Dunk Shot,1,-11,11,True
+Marcin Gortat,3,8,53,1,Dunk Shot,0,2,8,True
+Marcin Gortat,3,11,37,1,Dunk Shot,2,11,22,True
+Marcin Gortat,4,8,17,0,Dunk Shot,4,2,43,True
+Marcin Gortat,1,6,12,0,Dunk Shot,1,9,6,True
+Marcin Gortat,2,1,3,1,Dunk Shot,1,9,13,True
+Marcin Gortat,3,1,47,1,Dunk Shot,0,-5,6,True
+Marcin Gortat,3,9,16,0,Dunk Shot,8,71,52,True
+Marcin Gortat,1,4,7,1,Dunk Shot,1,-3,15,True
+Marcin Gortat,2,4,33,0,Fadeaway Jump Shot,13,0,133,True
+Marcin Gortat,1,11,48,0,Fadeaway Jump Shot,11,21,112,True
+Marcin Gortat,1,5,37,0,Fadeaway Jump Shot,11,8,117,True
+Marcin Gortat,1,7,41,1,Finger Roll Layup Shot,2,3,21,True
+Marcin Gortat,3,5,51,0,Finger Roll Layup Shot,3,-2,31,True
+Marcin Gortat,1,10,32,1,Finger Roll Layup Shot,2,-9,28,True
+Marcin Gortat,3,10,19,1,Finger Roll Layup Shot,3,17,26,True
+Marcin Gortat,3,6,12,1,Finger Roll Layup Shot,2,16,17,True
+Marcin Gortat,2,5,35,0,Floating Jump shot,11,-30,109,True
+Marcin Gortat,1,7,41,1,Floating Jump shot,8,89,-5,True
+Marcin Gortat,1,7,36,1,Floating Jump shot,5,55,23,True
+Marcin Gortat,3,10,0,1,Floating Jump shot,9,8,98,True
+Marcin Gortat,2,1,56,0,Floating Jump shot,8,-2,83,True
+Marcin Gortat,1,10,15,0,Floating Jump shot,8,26,84,True
+Marcin Gortat,1,10,22,0,Floating Jump shot,10,12,104,True
+Marcin Gortat,2,1,33,1,Floating Jump shot,9,-55,83,True
+Marcin Gortat,3,9,13,1,Floating Jump shot,9,-3,92,True
+Marcin Gortat,1,9,57,1,Floating Jump shot,12,-65,109,True
+Marcin Gortat,3,7,26,1,Hook Shot,7,75,4,True
+Marcin Gortat,4,11,46,0,Hook Shot,10,80,60,True
+Marcin Gortat,3,9,18,0,Hook Shot,8,32,74,True
+Marcin Gortat,4,2,18,1,Hook Shot,7,22,68,True
+Marcin Gortat,3,11,34,1,Hook Shot,11,54,104,True
+Marcin Gortat,2,6,7,0,Hook Shot,6,-57,29,True
+Marcin Gortat,1,7,44,0,Hook Shot,4,25,37,True
+Marcin Gortat,2,3,20,1,Hook Shot,11,32,108,True
+Marcin Gortat,1,7,20,1,Hook Shot,5,11,50,True
+Marcin Gortat,2,2,36,0,Hook Shot,11,52,101,True
+Marcin Gortat,3,11,25,0,Hook Shot,8,43,71,True
+Marcin Gortat,3,8,51,0,Hook Shot,9,-58,77,True
+Marcin Gortat,3,2,47,1,Hook Shot,9,76,52,True
+Marcin Gortat,1,9,55,1,Hook Shot,5,13,53,True
+Marcin Gortat,1,5,26,0,Hook Shot,6,0,69,True
+Marcin Gortat,3,11,20,1,Hook Shot,7,-63,48,True
+Marcin Gortat,1,11,45,0,Hook Shot,3,-26,22,True
+Marcin Gortat,1,9,29,1,Hook Shot,5,-18,53,True
+Marcin Gortat,3,8,15,0,Hook Shot,10,-71,79,True
+Marcin Gortat,1,4,47,1,Hook Shot,9,-98,8,True
+Marcin Gortat,3,6,35,1,Hook Shot,6,-8,62,True
+Marcin Gortat,1,11,12,0,Hook Shot,8,-3,83,True
+Marcin Gortat,1,3,48,0,Hook Shot,5,-3,51,True
+Marcin Gortat,1,4,20,0,Hook Shot,9,-2,95,True
+Marcin Gortat,3,8,44,0,Hook Shot,8,-4,80,True
+Marcin Gortat,4,7,3,0,Hook Shot,6,3,63,True
+Marcin Gortat,3,11,26,0,Hook Shot,14,50,134,True
+Marcin Gortat,3,8,40,0,Hook Shot,12,5,122,True
+Marcin Gortat,1,9,36,1,Hook Shot,9,74,62,True
+Marcin Gortat,3,8,34,1,Hook Shot,5,12,57,True
+Marcin Gortat,1,11,36,0,Hook Shot,9,-68,63,True
+Marcin Gortat,1,9,23,0,Hook Shot,7,-40,68,True
+Marcin Gortat,3,4,31,1,Hook Shot,0,-1,7,True
+Marcin Gortat,2,1,40,1,Hook Shot,10,22,103,True
+Marcin Gortat,1,6,20,0,Hook Shot,9,-35,91,True
+Marcin Gortat,1,8,4,0,Hook Shot,9,69,72,True
+Marcin Gortat,5,2,8,0,Hook Shot,11,102,47,True
+Marcin Gortat,1,6,33,1,Hook Shot,7,3,75,True
+Marcin Gortat,1,9,17,0,Hook Shot,9,42,85,True
+Marcin Gortat,3,0,49,1,Hook Shot,10,11,103,True
+Marcin Gortat,1,3,10,0,Hook Shot,4,-43,8,True
+Marcin Gortat,3,8,53,1,Hook Shot,5,54,26,True
+Marcin Gortat,1,2,4,1,Hook Shot,2,3,29,True
+Marcin Gortat,2,3,17,0,Hook Shot,15,-12,152,True
+Marcin Gortat,3,6,43,1,Hook Shot,11,110,31,True
+Marcin Gortat,3,5,36,0,Hook Shot,9,-55,72,True
+Marcin Gortat,3,10,36,1,Hook Shot,10,-43,94,True
+Marcin Gortat,3,7,50,1,Hook Shot,5,20,56,True
+Marcin Gortat,1,8,19,0,Hook Shot,5,6,53,True
+Marcin Gortat,1,6,29,1,Hook Shot,10,-36,99,True
+Marcin Gortat,2,4,8,1,Hook Shot,0,-3,6,True
+Marcin Gortat,1,11,39,0,Hook Shot,7,29,69,True
+Marcin Gortat,1,11,30,1,Hook Shot,4,43,11,True
+Marcin Gortat,1,11,37,0,Hook Shot,3,-30,22,True
+Marcin Gortat,1,10,4,1,Hook Shot,4,19,36,True
+Marcin Gortat,1,2,48,0,Hook Shot,3,-24,19,True
+Marcin Gortat,3,3,24,1,Hook Shot,5,-48,27,True
+Marcin Gortat,1,9,0,0,Hook Shot,14,17,147,True
+Marcin Gortat,2,4,37,0,Hook Shot,6,14,59,True
+Marcin Gortat,4,4,28,1,Hook Shot,3,11,37,True
+Marcin Gortat,4,0,51,1,Hook Shot,11,43,108,True
+Marcin Gortat,1,0,50,1,Hook Shot,4,49,4,True
+Marcin Gortat,4,6,16,1,Hook Shot,9,5,97,True
+Marcin Gortat,3,8,11,1,Hook Shot,9,-8,95,True
+Marcin Gortat,1,11,42,0,Hook Shot,10,66,77,True
+Marcin Gortat,3,2,53,1,Hook Shot,11,44,106,True
+Marcin Gortat,1,9,35,0,Hook Shot,9,-97,-13,True
+Marcin Gortat,1,5,47,1,Hook Shot,3,6,31,True
+Marcin Gortat,1,10,20,1,Hook Shot,3,31,21,True
+Marcin Gortat,2,2,17,1,Hook Shot,5,26,50,True
+Marcin Gortat,1,6,46,0,Hook Shot,9,40,84,True
+Marcin Gortat,2,0,30,0,Hook Shot,3,10,29,True
+Marcin Gortat,2,2,23,0,Hook Shot,9,-94,31,True
+Marcin Gortat,3,6,8,1,Hook Shot,9,-82,47,True
+Marcin Gortat,3,6,26,1,Hook Shot,9,-53,79,True
+Marcin Gortat,3,4,28,0,Hook Shot,10,-68,77,True
+Marcin Gortat,3,2,41,1,Hook Shot,7,39,61,True
+Marcin Gortat,4,4,41,1,Jump Bank Shot,13,-91,99,True
+Marcin Gortat,2,0,51,0,Jump Bank Shot,13,118,55,True
+Marcin Gortat,3,10,50,0,Jump Bank Shot,15,-101,121,True
+Marcin Gortat,2,0,18,0,Jump Bank Shot,10,93,43,True
+Marcin Gortat,3,9,48,0,Jump Bank Shot,17,-107,135,True
+Marcin Gortat,1,8,18,1,Jump Bank Shot,13,-120,63,True
+Marcin Gortat,1,11,49,1,Jump Bank Shot,5,-46,27,True
+Marcin Gortat,3,9,11,0,Jump Bank Shot,4,24,43,True
+Marcin Gortat,3,5,40,1,Jump Bank Shot,6,39,47,True
+Marcin Gortat,3,5,59,1,Jump Shot,7,44,62,True
+Marcin Gortat,1,10,15,1,Jump Shot,8,49,71,True
+Marcin Gortat,2,0,1,0,Jump Shot,14,6,145,True
+Marcin Gortat,1,5,52,0,Jump Shot,12,107,65,True
+Marcin Gortat,1,10,3,1,Jump Shot,14,-71,121,True
+Marcin Gortat,3,5,45,0,Jump Shot,13,-27,135,True
+Marcin Gortat,3,4,42,0,Jump Shot,13,-122,66,True
+Marcin Gortat,2,0,58,1,Jump Shot,13,-95,99,True
+Marcin Gortat,1,5,2,0,Jump Shot,12,8,126,True
+Marcin Gortat,3,8,18,1,Jump Shot,15,13,153,True
+Marcin Gortat,2,0,44,1,Jump Shot,12,-30,125,True
+Marcin Gortat,3,11,21,0,Jump Shot,21,-135,161,True
+Marcin Gortat,1,10,34,0,Jump Shot,9,33,94,True
+Marcin Gortat,3,10,38,1,Jump Shot,18,-124,138,True
+Marcin Gortat,1,6,30,0,Jump Shot,12,-101,69,True
+Marcin Gortat,3,5,41,1,Jump Shot,3,1,36,True
+Marcin Gortat,1,9,49,1,Jump Shot,12,-127,-4,True
+Marcin Gortat,3,10,11,1,Jump Shot,15,-119,94,True
+Marcin Gortat,2,0,8,1,Jump Shot,12,-13,124,True
+Marcin Gortat,1,9,19,0,Jump Shot,12,47,119,True
+Marcin Gortat,2,2,15,0,Jump Shot,12,-119,36,True
+Marcin Gortat,5,4,37,1,Jump Shot,11,-11,116,True
+Marcin Gortat,1,8,2,1,Jump Shot,12,-120,25,True
+Marcin Gortat,3,3,42,0,Jump Shot,9,35,83,True
+Marcin Gortat,1,9,22,1,Jump Shot,14,138,38,True
+Marcin Gortat,1,3,25,1,Jump Shot,13,-129,20,True
+Marcin Gortat,1,0,7,0,Jump Shot,14,145,31,True
+Marcin Gortat,1,3,55,0,Jump Shot,9,63,68,True
+Marcin Gortat,1,6,54,0,Jump Shot,19,-158,122,True
+Marcin Gortat,1,8,2,0,Jump Shot,10,-104,16,True
+Marcin Gortat,1,10,29,1,Jump Shot,13,-8,134,True
+Marcin Gortat,1,8,4,1,Jump Shot,12,-122,34,True
+Marcin Gortat,3,9,51,1,Jump Shot,18,-109,152,True
+Marcin Gortat,1,11,44,0,Jump Shot,13,-112,83,True
+Marcin Gortat,1,5,45,0,Jump Shot,17,-119,134,True
+Marcin Gortat,1,8,4,1,Jump Shot,3,-37,13,True
+Marcin Gortat,3,4,47,0,Jump Shot,11,101,55,True
+Marcin Gortat,3,11,23,0,Jump Shot,14,29,145,True
+Marcin Gortat,1,8,3,1,Jump Shot,7,0,78,True
+Marcin Gortat,1,10,16,1,Jump Shot,13,-133,-25,True
+Marcin Gortat,4,0,0,0,Jump Shot,21,-185,100,True
+Marcin Gortat,3,4,6,0,Jump Shot,14,-48,140,True
+Marcin Gortat,2,5,21,0,Jump Shot,12,123,1,True
+Marcin Gortat,1,10,59,0,Jump Shot,11,-5,110,True
+Marcin Gortat,3,11,3,0,Jump Shot,11,-118,8,True
+Marcin Gortat,1,10,42,0,Jump Shot,9,93,-32,True
+Marcin Gortat,1,8,8,1,Jump Shot,6,52,41,True
+Marcin Gortat,2,0,45,0,Jump Shot,10,-23,102,True
+Marcin Gortat,1,10,38,1,Jump Shot,10,96,52,True
+Marcin Gortat,1,6,22,1,Jump Shot,7,-51,49,True
+Marcin Gortat,3,11,46,1,Jump Shot,18,-165,94,True
+Marcin Gortat,1,8,3,1,Jump Shot,9,-42,88,True
+Marcin Gortat,1,2,36,1,Jump Shot,9,11,90,True
+Marcin Gortat,3,8,2,1,Jump Shot,13,-130,44,True
+Marcin Gortat,3,2,11,0,Jump Shot,10,96,49,True
+Marcin Gortat,4,4,54,0,Jump Shot,5,-35,39,True
+Marcin Gortat,1,11,11,0,Jump Shot,16,7,167,True
+Marcin Gortat,1,9,59,1,Jump Shot,13,-133,13,True
+Marcin Gortat,1,8,49,0,Jump Shot,10,107,10,True
+Marcin Gortat,1,4,57,0,Jump Shot,7,64,44,True
+Marcin Gortat,4,4,31,0,Jump Shot,6,32,58,True
+Marcin Gortat,3,9,12,0,Jump Shot,7,71,0,True
+Marcin Gortat,1,10,23,0,Jump Shot,8,-1,84,True
+Marcin Gortat,3,0,32,0,Jump Shot,17,-1,170,True
+Marcin Gortat,2,2,5,0,Jump Shot,7,43,58,True
+Marcin Gortat,3,7,49,0,Jump Shot,13,-80,103,True
+Marcin Gortat,1,9,26,0,Jump Shot,11,94,62,True
+Marcin Gortat,3,11,44,0,Jump Shot,17,-2,172,True
+Marcin Gortat,1,10,54,1,Jump Shot,15,-101,120,True
+Marcin Gortat,3,1,2,0,Jump Shot,5,-3,52,True
+Marcin Gortat,1,9,44,0,Jump Shot,6,60,22,True
+Marcin Gortat,1,10,17,0,Jump Shot,15,119,95,True
+Marcin Gortat,1,11,8,1,Jump Shot,12,-129,-1,True
+Marcin Gortat,2,7,36,1,Jump Shot,15,152,37,True
+Marcin Gortat,1,9,38,1,Jump Shot,13,38,130,True
+Marcin Gortat,1,7,11,1,Jump Shot,11,114,-5,True
+Marcin Gortat,1,10,8,0,Jump Shot,11,107,52,True
+Marcin Gortat,3,2,49,1,Layup Shot,0,-3,6,True
+Marcin Gortat,1,7,7,1,Layup Shot,1,-5,18,True
+Marcin Gortat,1,4,48,1,Layup Shot,4,20,45,True
+Marcin Gortat,2,4,48,1,Layup Shot,1,-14,1,True
+Marcin Gortat,3,4,46,1,Layup Shot,1,-4,11,True
+Marcin Gortat,3,5,1,1,Layup Shot,1,-11,12,True
+Marcin Gortat,1,4,32,1,Layup Shot,0,-2,1,True
+Marcin Gortat,3,6,50,0,Layup Shot,1,-1,15,True
+Marcin Gortat,1,7,39,1,Layup Shot,1,-13,8,True
+Marcin Gortat,3,9,0,1,Layup Shot,1,-11,8,True
+Marcin Gortat,3,11,26,1,Layup Shot,0,2,9,True
+Marcin Gortat,3,7,13,1,Layup Shot,0,-7,6,True
+Marcin Gortat,3,4,5,1,Layup Shot,1,-11,5,True
+Marcin Gortat,1,10,16,1,Layup Shot,1,5,14,True
+Marcin Gortat,2,6,17,0,Layup Shot,2,-18,19,True
+Marcin Gortat,3,11,36,0,Layup Shot,2,2,21,True
+Marcin Gortat,1,4,47,1,Layup Shot,1,6,19,True
+Marcin Gortat,3,9,51,0,Layup Shot,1,16,6,True
+Marcin Gortat,1,5,8,1,Layup Shot,2,-14,18,True
+Marcin Gortat,3,1,1,0,Layup Shot,1,2,11,True
+Marcin Gortat,3,7,55,1,Layup Shot,0,-9,2,True
+Marcin Gortat,3,5,26,0,Layup Shot,3,-26,30,True
+Marcin Gortat,1,10,11,1,Layup Shot,1,13,1,True
+Marcin Gortat,1,5,10,1,Layup Shot,0,-2,-5,True
+Marcin Gortat,1,9,2,0,Layup Shot,6,-22,59,True
+Marcin Gortat,1,2,46,1,Layup Shot,0,-3,-4,True
+Marcin Gortat,2,0,38,0,Layup Shot,3,-14,36,True
+Marcin Gortat,1,8,56,0,Layup Shot,3,12,34,True
+Marcin Gortat,3,8,40,0,Layup Shot,2,2,23,True
+Marcin Gortat,3,5,6,0,Layup Shot,1,-9,5,True
+Marcin Gortat,2,3,53,0,Layup Shot,1,-9,7,True
+Marcin Gortat,2,4,14,0,Layup Shot,1,16,10,True
+Marcin Gortat,1,5,32,0,Layup Shot,1,3,13,True
+Marcin Gortat,2,4,21,1,Layup Shot,3,4,32,True
+Marcin Gortat,2,3,54,1,Layup Shot,7,-28,73,True
+Marcin Gortat,1,9,37,0,Layup Shot,2,16,18,True
+Marcin Gortat,2,3,23,0,Layup Shot,2,0,27,True
+Marcin Gortat,2,4,22,0,Layup Shot,2,19,7,True
+Marcin Gortat,1,10,41,1,Layup Shot,0,2,0,True
+Marcin Gortat,4,4,39,1,Layup Shot,0,-8,4,True
+Marcin Gortat,1,0,53,1,Layup Shot,2,5,22,True
+Marcin Gortat,3,3,36,1,Layup Shot,13,133,37,True
+Marcin Gortat,2,1,48,1,Layup Shot,1,14,6,True
+Marcin Gortat,3,10,15,1,Layup Shot,2,14,16,True
+Marcin Gortat,3,10,54,0,Layup Shot,1,-6,18,True
+Marcin Gortat,2,6,9,1,Layup Shot,4,-18,37,True
+Marcin Gortat,4,1,39,0,Layup Shot,2,-13,21,True
+Marcin Gortat,1,9,29,0,Layup Shot,2,1,22,True
+Marcin Gortat,2,4,20,1,Layup Shot,5,-55,-1,True
+Marcin Gortat,2,2,7,0,Layup Shot,11,60,99,True
+Marcin Gortat,3,10,17,1,Layup Shot,4,43,12,True
+Marcin Gortat,3,4,41,0,Layup Shot,1,13,13,True
+Marcin Gortat,3,5,46,0,Layup Shot,0,5,0,True
+Marcin Gortat,1,3,43,0,Layup Shot,1,-3,11,True
+Marcin Gortat,1,8,12,0,Pullup Jump shot,13,40,132,True
+Marcin Gortat,3,10,17,0,Pullup Jump shot,16,-125,110,True
+Marcin Gortat,2,6,46,1,Pullup Jump shot,11,36,114,True
+Marcin Gortat,3,4,34,1,Putback Dunk Shot,0,0,-6,True
+Marcin Gortat,3,8,26,0,Putback Layup Shot,0,0,-6,True
+Marcin Gortat,1,9,11,0,Putback Layup Shot,0,0,-6,True
+Marcin Gortat,3,3,32,0,Putback Layup Shot,0,0,-6,True
+Marcin Gortat,1,4,21,1,Putback Layup Shot,0,0,-6,True
+Marcin Gortat,2,4,11,1,Putback Layup Shot,2,2,27,True
+Marcin Gortat,4,1,22,0,Putback Layup Shot,0,0,-6,True
+Marcin Gortat,3,4,37,1,Putback Layup Shot,0,0,-6,True
+Marcin Gortat,3,5,41,1,Reverse Layup Shot,1,3,15,True
+Marcin Gortat,3,3,39,0,Reverse Layup Shot,2,-19,13,True
+Marcin Gortat,3,8,58,0,Reverse Layup Shot,1,-3,10,True
+Marcin Gortat,3,3,18,1,Reverse Layup Shot,1,-13,2,True
+Marcin Gortat,4,11,9,1,Reverse Layup Shot,3,-20,29,True
+Marcin Gortat,1,7,23,0,Reverse Layup Shot,1,17,10,True
+Marcin Gortat,2,5,12,1,Reverse Layup Shot,1,-9,16,True
+Marcin Gortat,2,5,56,1,Running Dunk Shot,4,25,40,True
+Marcin Gortat,1,10,46,0,Running Dunk Shot,0,5,5,True
+Marcin Gortat,3,9,37,0,Running Jump Shot,6,-53,36,True
+Marcin Gortat,3,10,47,1,Running Layup Shot,1,-3,12,True
+Marcin Gortat,3,7,18,1,Running Layup Shot,0,3,2,True
+Marcin Gortat,3,6,52,0,Running Layup Shot,7,-18,69,True
+Marcin Gortat,1,5,3,0,Step Back Jump shot,13,-78,112,True
+Marcin Gortat,1,3,31,1,Step Back Jump shot,8,-27,76,True
+Marcin Gortat,1,11,11,0,Step Back Jump shot,9,85,52,True
+Marcin Gortat,2,0,46,0,Tip Dunk Shot,0,0,-6,True
+Marcin Gortat,3,9,19,0,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,1,10,54,1,Tip Layup Shot,1,5,11,True
+Marcin Gortat,1,3,25,1,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,4,0,18,0,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,2,2,35,1,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,1,3,38,0,Tip Layup Shot,2,26,11,True
+Marcin Gortat,3,4,48,1,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,4,6,23,0,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,2,0,5,0,Tip Layup Shot,3,-11,32,True
+Marcin Gortat,1,9,31,1,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,3,7,10,1,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,4,3,35,1,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,3,7,13,1,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,1,8,10,0,Tip Layup Shot,1,0,16,True
+Marcin Gortat,3,9,58,1,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,1,7,41,1,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,3,5,50,0,Tip Layup Shot,3,33,21,True
+Marcin Gortat,3,4,43,0,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,3,9,42,0,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,2,1,40,1,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,3,0,41,1,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,4,1,28,0,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,1,7,5,0,Tip Layup Shot,0,-6,-1,True
+Marcin Gortat,1,9,42,1,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,3,7,58,1,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,3,7,0,1,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,3,5,11,1,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,1,7,11,1,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,1,6,21,1,Tip Layup Shot,1,-7,11,True
+Marcin Gortat,4,10,38,0,Tip Layup Shot,0,0,-6,True
+Marcin Gortat,2,2,20,1,Turnaround Bank Hook Shot,7,-57,50,True
+Marcin Gortat,1,5,38,1,Turnaround Bank Hook Shot,4,26,37,True
+Marcin Gortat,4,3,13,1,Turnaround Bank Hook Shot,1,-13,8,True
+Marcin Gortat,4,9,31,0,Turnaround Fadeaway shot,11,-8,112,True
+Marcin Gortat,1,7,49,0,Turnaround Fadeaway shot,12,106,64,True
+Marcin Gortat,1,8,25,0,Turnaround Fadeaway shot,11,-107,50,True
+Marcin Gortat,3,7,46,1,Turnaround Fadeaway shot,9,-91,27,True
+Marcin Gortat,1,7,52,1,Turnaround Fadeaway shot,12,-125,16,True
+Marcin Gortat,1,11,39,0,Turnaround Fadeaway shot,12,-122,1,True
+Marcin Gortat,1,4,21,0,Turnaround Fadeaway shot,8,-79,-13,True
+Marcin Gortat,3,3,50,1,Turnaround Fadeaway shot,9,93,-2,True
+Marcin Gortat,1,10,38,0,Turnaround Fadeaway shot,8,-81,15,True
+Marcin Gortat,1,6,31,0,Turnaround Fadeaway shot,9,-9,91,True
+Marcin Gortat,3,8,28,0,Turnaround Hook Shot,10,-97,34,True
+Marcin Gortat,3,8,50,1,Turnaround Hook Shot,4,-46,18,True
+Marcin Gortat,2,5,54,1,Turnaround Hook Shot,5,31,42,True
+Marcin Gortat,1,6,3,1,Turnaround Hook Shot,6,67,2,True
+Marcin Gortat,1,11,4,1,Turnaround Hook Shot,12,-56,109,True
+Marcin Gortat,1,3,56,0,Turnaround Hook Shot,6,-62,4,True
+Marcin Gortat,1,11,34,1,Turnaround Hook Shot,8,41,79,True
+Marcin Gortat,2,2,44,1,Turnaround Hook Shot,8,-82,-30,True
+Marcin Gortat,2,0,4,0,Turnaround Hook Shot,4,22,41,True
+Marcin Gortat,1,8,31,0,Turnaround Hook Shot,11,-52,99,True
+Marcin Gortat,1,6,24,0,Turnaround Hook Shot,4,-24,43,True
+Marcin Gortat,1,10,42,1,Turnaround Hook Shot,12,115,56,True
+Marcin Gortat,1,4,38,0,Turnaround Hook Shot,5,-29,47,True
+Marcin Gortat,3,8,19,0,Turnaround Hook Shot,8,-58,57,True
+Marcin Gortat,1,8,26,1,Turnaround Hook Shot,10,-100,-13,True
+Marcin Gortat,3,9,14,1,Turnaround Hook Shot,8,-35,80,True
+Marcin Gortat,3,10,41,1,Turnaround Hook Shot,11,17,113,True
+Marcin Gortat,2,2,51,0,Turnaround Hook Shot,12,-13,122,True
+Marcin Gortat,4,8,56,1,Turnaround Hook Shot,7,-54,55,True
+Marcin Gortat,1,1,36,1,Turnaround Hook Shot,7,-71,-10,True
+Marcin Gortat,1,6,12,0,Turnaround Hook Shot,9,-40,89,True
+Marcin Gortat,1,7,23,0,Turnaround Hook Shot,9,81,47,True
+Marcin Gortat,1,11,44,0,Turnaround Hook Shot,13,-83,109,True
+Marcin Gortat,3,5,43,1,Turnaround Hook Shot,6,-66,22,True
+Marcin Gortat,3,11,10,0,Turnaround Hook Shot,5,-53,11,True
+Marcin Gortat,4,2,16,0,Turnaround Hook Shot,8,-46,74,True
+Marcin Gortat,3,4,58,1,Turnaround Hook Shot,10,14,104,True
+Marcin Gortat,2,2,31,0,Turnaround Hook Shot,10,-101,38,True
+Marcin Gortat,1,6,26,1,Turnaround Hook Shot,2,-20,22,True
+Marcin Gortat,1,11,41,0,Turnaround Hook Shot,10,92,42,True
+Marcin Gortat,3,6,26,0,Turnaround Hook Shot,3,21,34,True
+Marcin Gortat,1,7,23,1,Turnaround Hook Shot,9,-86,37,True
+Marcin Gortat,2,3,2,0,Turnaround Hook Shot,3,-31,17,True
+Marcin Gortat,1,8,54,0,Turnaround Hook Shot,11,95,68,True
+Marcin Gortat,1,11,3,1,Turnaround Hook Shot,12,-66,105,True
+Marcin Gortat,3,9,9,0,Turnaround Hook Shot,10,47,90,True
+Marcin Gortat,3,5,1,1,Turnaround Hook Shot,8,28,82,True
+Marcin Gortat,3,10,8,0,Turnaround Hook Shot,7,-68,36,True
+Marcin Gortat,1,8,39,0,Turnaround Hook Shot,7,72,25,True
+Marcin Gortat,3,5,53,0,Turnaround Hook Shot,12,78,92,True
+Marcin Gortat,1,10,53,0,Turnaround Hook Shot,5,-50,12,True
+Marcin Gortat,1,8,53,0,Turnaround Hook Shot,7,69,23,True
+Marcin Gortat,4,7,8,1,Turnaround Hook Shot,7,-73,13,True
+Marcin Gortat,1,3,43,0,Turnaround Hook Shot,7,-70,21,True
+Marcin Gortat,1,10,30,0,Turnaround Hook Shot,8,-79,17,True
+Marcin Gortat,1,6,2,0,Turnaround Hook Shot,11,-107,43,True
+Marcin Gortat,3,10,46,0,Turnaround Hook Shot,3,0,35,True
+Marcin Gortat,3,5,46,1,Turnaround Jump Shot,10,-65,86,True
+Marcin Gortat,3,8,31,1,Turnaround Jump Shot,13,-70,120,True
+Marcin Gortat,1,10,33,0,Turnaround Jump Shot,9,-35,92,True
+Marcin Gortat,3,8,17,0,Turnaround Jump Shot,7,-36,71,True
+Marcin Gortat,4,3,57,0,Turnaround Jump Shot,6,5,68,True
+Marcin Gortat,1,4,32,0,Turnaround Jump Shot,12,103,72,True
+Marcin Gortat,1,9,14,0,Turnaround Jump Shot,9,89,31,True
+Marcin Gortat,3,6,58,0,Turnaround Jump Shot,10,-44,100,True
+Marcin Gortat,1,11,18,1,Turnaround Jump Shot,12,-101,80,True
+Marcin Gortat,3,4,11,1,Turnaround Jump Shot,14,-2,144,True
+Marcin Gortat,1,7,32,1,Turnaround Jump Shot,9,-29,88,True
+Marcin Gortat,1,7,9,1,Turnaround Jump Shot,8,13,89,True
+Marcin Gortat,2,7,53,1,Turnaround Jump Shot,8,-51,71,True
+Marcin Gortat,1,1,19,1,Turnaround Jump Shot,10,105,-10,True
+Marcin Gortat,3,6,8,0,Turnaround Jump Shot,7,72,22,True

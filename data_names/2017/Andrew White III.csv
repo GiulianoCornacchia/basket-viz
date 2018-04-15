@@ -1,0 +1,58 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Andrew White III,4,3,55,1,Driving Floating Jump Shot,5,-27,47,True
+Andrew White III,4,11,21,0,Driving Layup Shot,1,-8,14,True
+Andrew White,1,2,53,0,Driving Layup Shot,4,31,26,True
+Andrew White III,2,8,44,0,Driving Layup Shot,2,-18,13,True
+Andrew White III,2,9,29,0,Driving Layup Shot,2,22,-3,True
+Andrew White,2,0,40,1,Floating Jump shot,4,31,38,True
+Andrew White III,4,1,11,1,Jump Shot,26,-16,260,False
+Andrew White III,2,9,1,0,Jump Shot,23,221,64,False
+Andrew White III,2,9,29,0,Jump Shot,24,-207,136,False
+Andrew White III,1,1,36,1,Jump Shot,25,14,256,False
+Andrew White III,2,3,38,0,Jump Shot,10,-101,5,True
+Andrew White III,2,9,43,0,Jump Shot,20,-16,204,True
+Andrew White III,1,0,41,0,Jump Shot,26,90,245,False
+Andrew White III,4,0,30,0,Jump Shot,24,185,168,False
+Andrew White III,2,8,22,0,Jump Shot,25,-188,170,False
+Andrew White III,2,9,55,0,Jump Shot,13,136,0,True
+Andrew White,4,11,42,0,Jump Shot,24,-194,143,False
+Andrew White III,4,8,1,0,Jump Shot,22,-224,39,False
+Andrew White III,4,6,10,0,Jump Shot,25,141,210,False
+Andrew White III,4,5,29,0,Jump Shot,25,89,235,False
+Andrew White III,4,11,14,0,Jump Shot,24,166,184,False
+Andrew White III,4,9,44,0,Jump Shot,25,-54,246,False
+Andrew White,2,0,22,0,Jump Shot,26,-116,236,False
+Andrew White,3,3,10,1,Jump Shot,26,-117,242,False
+Andrew White,3,0,0,1,Jump Shot,24,-193,152,False
+Andrew White,1,0,0,0,Jump Shot,25,-117,227,False
+Andrew White,1,3,27,0,Jump Shot,26,-196,185,False
+Andrew White,3,2,2,1,Jump Shot,17,-108,138,True
+Andrew White III,4,8,29,0,Jump Shot,23,231,5,False
+Andrew White III,3,0,25,1,Jump Shot,27,103,250,False
+Andrew White III,2,8,43,0,Jump Shot,25,-210,142,False
+Andrew White III,3,1,57,0,Jump Shot,26,107,245,False
+Andrew White III,1,1,34,0,Jump Shot,18,-109,153,True
+Andrew White III,2,11,32,0,Jump Shot,23,-228,38,False
+Andrew White III,4,3,42,1,Jump Shot,22,-223,25,False
+Andrew White III,2,0,30,0,Jump Shot,22,221,42,False
+Andrew White III,2,10,29,1,Jump Shot,22,224,20,False
+Andrew White III,3,2,47,1,Jump Shot,25,158,201,False
+Andrew White III,1,0,3,0,Jump Shot,4,-3,44,True
+Andrew White III,3,1,28,0,Jump Shot,20,164,122,True
+Andrew White III,3,0,42,0,Jump Shot,25,-157,201,False
+Andrew White III,2,10,17,1,Jump Shot,24,84,230,False
+Andrew White III,4,5,44,0,Jump Shot,25,-87,244,False
+Andrew White III,1,2,41,0,Jump Shot,24,-218,104,False
+Andrew White III,4,3,16,0,Jump Shot,25,85,243,False
+Andrew White,4,0,57,0,Jump Shot,25,-60,250,False
+Andrew White,2,1,19,1,Jump Shot,27,-204,186,False
+Andrew White,1,2,29,1,Layup Shot,1,5,10,True
+Andrew White III,4,0,48,1,Layup Shot,0,-3,2,True
+Andrew White III,3,1,51,1,Pullup Jump shot,23,-152,185,False
+Andrew White III,3,3,10,0,Pullup Jump shot,16,-93,132,True
+Andrew White III,1,1,2,1,Pullup Jump shot,12,37,116,True
+Andrew White III,4,2,27,1,Pullup Jump shot,22,226,29,False
+Andrew White III,2,0,20,0,Putback Layup Shot,3,13,32,True
+Andrew White III,2,9,7,0,Reverse Layup Shot,2,-4,29,True
+Andrew White III,2,10,58,0,Running Jump Shot,24,-165,187,False
+Andrew White III,3,0,1,1,Running Layup Shot,0,-4,-4,True

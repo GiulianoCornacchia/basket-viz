@@ -1,0 +1,388 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+PJ Tucker,4,4,3,0,Cutting Finger Roll Layup Shot,1,-12,4,True
+PJ Tucker,4,3,12,1,Cutting Layup Shot,1,-2,10,True
+PJ Tucker,1,6,40,0,Cutting Layup Shot,2,-8,21,True
+PJ Tucker,2,7,54,1,Cutting Layup Shot,1,8,7,True
+PJ Tucker,3,8,17,0,Cutting Layup Shot,2,12,16,True
+PJ Tucker,1,8,52,1,Cutting Layup Shot,1,13,10,True
+PJ Tucker,2,8,30,1,Cutting Layup Shot,3,28,25,True
+PJ Tucker,3,1,25,1,Cutting Layup Shot,5,26,53,True
+PJ Tucker,4,2,17,1,Cutting Layup Shot,0,-7,4,True
+PJ Tucker,4,3,50,0,Cutting Layup Shot,1,4,13,True
+PJ Tucker,3,3,52,1,Driving Dunk Shot,0,2,5,True
+PJ Tucker,2,8,53,1,Driving Finger Roll Layup Shot,1,-11,6,True
+PJ Tucker,1,8,14,0,Driving Finger Roll Layup Shot,1,0,13,True
+PJ Tucker,3,2,3,0,Driving Finger Roll Layup Shot,0,2,8,True
+PJ Tucker,2,7,9,0,Driving Floating Jump Shot,6,-62,32,True
+PJ Tucker,2,8,34,0,Driving Floating Jump Shot,5,2,53,True
+PJ Tucker,1,7,45,0,Driving Floating Jump Shot,6,-13,64,True
+PJ Tucker,4,8,25,0,Driving Hook Shot,5,25,47,True
+PJ Tucker,1,7,35,0,Driving Layup Shot,2,-5,20,True
+PJ Tucker,2,8,13,1,Driving Layup Shot,1,0,12,True
+PJ Tucker,3,0,34,0,Driving Layup Shot,0,-3,6,True
+PJ Tucker,4,3,12,1,Driving Layup Shot,2,24,8,True
+PJ Tucker,4,8,50,1,Driving Layup Shot,1,5,11,True
+PJ Tucker,1,6,34,1,Driving Layup Shot,1,3,11,True
+PJ Tucker,3,8,47,0,Driving Layup Shot,2,17,17,True
+PJ Tucker,4,4,25,0,Driving Layup Shot,5,41,40,True
+PJ Tucker,2,5,28,0,Driving Layup Shot,0,5,5,True
+PJ Tucker,1,5,24,0,Driving Layup Shot,2,16,16,True
+PJ Tucker,3,9,50,1,Driving Layup Shot,2,-25,11,True
+PJ Tucker,1,4,14,0,Driving Layup Shot,1,2,12,True
+PJ Tucker,3,0,28,0,Driving Layup Shot,1,-2,17,True
+PJ Tucker,3,9,2,1,Driving Reverse Layup Shot,4,32,26,True
+PJ Tucker,3,7,26,0,Driving Reverse Layup Shot,2,-18,15,True
+PJ Tucker,3,7,59,1,Driving Reverse Layup Shot,1,18,-3,True
+PJ Tucker,2,9,49,0,Fadeaway Jump Shot,9,58,73,True
+PJ Tucker,2,4,14,0,Fadeaway Jump Shot,20,-202,54,True
+PJ Tucker,4,9,47,0,Finger Roll Layup Shot,2,4,22,True
+PJ Tucker,1,3,50,0,Floating Jump shot,7,-3,76,True
+PJ Tucker,2,9,43,0,Floating Jump shot,8,81,-6,True
+PJ Tucker,4,5,2,1,Floating Jump shot,3,2,34,True
+PJ Tucker,2,7,49,0,Floating Jump shot,2,1,22,True
+PJ Tucker,4,2,43,1,Floating Jump shot,10,-5,101,True
+PJ Tucker,1,9,40,1,Hook Shot,5,-10,52,True
+PJ Tucker,3,0,2,1,Hook Shot,6,25,62,True
+PJ Tucker,2,4,10,1,Hook Shot,3,6,34,True
+PJ Tucker,3,1,55,0,Hook Shot,8,-13,79,True
+PJ Tucker,2,9,41,0,Hook Shot,7,46,54,True
+PJ Tucker,2,6,56,1,Hook Shot,5,11,52,True
+PJ Tucker,2,6,20,0,Jump Bank Shot,4,40,21,True
+PJ Tucker,1,11,29,1,Jump Shot,22,225,3,False
+PJ Tucker,2,3,11,1,Jump Shot,25,12,258,False
+PJ Tucker,3,11,2,0,Jump Shot,22,-229,-5,False
+PJ Tucker,2,1,7,0,Jump Shot,22,225,9,False
+PJ Tucker,3,9,46,0,Jump Shot,25,71,241,False
+PJ Tucker,4,10,37,0,Jump Shot,22,-229,2,False
+PJ Tucker,2,8,48,1,Jump Shot,25,211,138,False
+PJ Tucker,1,9,58,0,Jump Shot,22,-223,-6,False
+PJ Tucker,3,8,17,0,Jump Shot,23,-231,21,False
+PJ Tucker,2,3,25,1,Jump Shot,23,231,-6,False
+PJ Tucker,1,9,24,1,Jump Shot,23,-230,27,False
+PJ Tucker,4,2,31,0,Jump Shot,22,225,19,False
+PJ Tucker,2,6,10,0,Jump Shot,23,-231,41,False
+PJ Tucker,1,8,58,0,Jump Shot,23,233,-5,False
+PJ Tucker,5,2,47,0,Jump Shot,23,235,14,False
+PJ Tucker,3,6,7,0,Jump Shot,24,152,195,False
+PJ Tucker,4,4,48,1,Jump Shot,22,-229,2,False
+PJ Tucker,2,1,18,0,Jump Shot,24,181,161,False
+PJ Tucker,4,9,33,0,Jump Shot,23,232,34,False
+PJ Tucker,1,11,6,0,Jump Shot,22,226,-9,False
+PJ Tucker,1,7,44,1,Jump Shot,23,-231,16,False
+PJ Tucker,4,9,38,1,Jump Shot,22,-221,8,False
+PJ Tucker,4,6,53,0,Jump Shot,23,231,-9,False
+PJ Tucker,3,10,51,0,Jump Shot,25,163,197,False
+PJ Tucker,1,9,30,1,Jump Shot,24,-130,208,False
+PJ Tucker,3,10,15,0,Jump Shot,23,-235,-5,False
+PJ Tucker,2,5,3,0,Jump Shot,24,-241,1,False
+PJ Tucker,1,8,26,0,Jump Shot,23,-231,-6,False
+PJ Tucker,3,8,17,1,Jump Shot,22,227,-20,False
+PJ Tucker,2,7,33,1,Jump Shot,23,-231,3,False
+PJ Tucker,4,4,58,0,Jump Shot,23,-228,44,False
+PJ Tucker,4,2,58,1,Jump Shot,23,-228,34,False
+PJ Tucker,3,9,8,1,Jump Shot,23,-231,37,False
+PJ Tucker,1,10,49,0,Jump Shot,25,-179,188,False
+PJ Tucker,2,5,24,0,Jump Shot,22,229,5,False
+PJ Tucker,1,8,51,0,Jump Shot,23,230,6,False
+PJ Tucker,1,7,50,0,Jump Shot,24,-237,52,False
+PJ Tucker,2,7,31,0,Jump Shot,24,-230,69,False
+PJ Tucker,4,9,35,0,Jump Shot,25,81,237,False
+PJ Tucker,2,2,23,0,Jump Shot,25,-55,253,False
+PJ Tucker,3,10,16,0,Jump Shot,25,-106,230,False
+PJ Tucker,4,10,24,0,Jump Shot,25,-145,214,False
+PJ Tucker,4,6,13,0,Jump Shot,23,235,36,False
+PJ Tucker,2,7,27,0,Jump Shot,23,-239,17,False
+PJ Tucker,1,9,20,1,Jump Shot,26,-157,216,False
+PJ Tucker,2,2,6,1,Jump Shot,23,-234,6,False
+PJ Tucker,4,6,30,1,Jump Shot,22,-225,10,False
+PJ Tucker,3,6,56,0,Jump Shot,23,231,21,False
+PJ Tucker,4,6,10,0,Jump Shot,23,-230,24,False
+PJ Tucker,1,11,21,1,Jump Shot,23,237,-1,False
+PJ Tucker,1,10,6,1,Jump Shot,24,236,50,False
+PJ Tucker,2,5,4,0,Jump Shot,25,204,151,False
+PJ Tucker,4,5,22,0,Jump Shot,22,228,5,False
+PJ Tucker,4,6,42,1,Jump Shot,23,231,21,False
+PJ Tucker,1,7,40,0,Jump Shot,25,-177,190,False
+PJ Tucker,1,2,41,1,Jump Shot,22,226,15,False
+PJ Tucker,1,5,51,0,Jump Shot,24,218,111,False
+PJ Tucker,2,4,55,1,Jump Shot,22,-221,-16,False
+PJ Tucker,4,2,24,0,Jump Shot,22,225,-4,False
+PJ Tucker,2,10,16,1,Jump Shot,23,239,16,False
+PJ Tucker,4,10,21,0,Jump Shot,24,220,117,False
+PJ Tucker,2,9,22,0,Jump Shot,23,234,17,False
+PJ Tucker,4,7,39,0,Jump Shot,23,-232,1,False
+PJ Tucker,3,2,0,1,Jump Shot,24,71,237,False
+PJ Tucker,3,4,0,0,Jump Shot,22,225,-6,False
+PJ Tucker,3,0,5,1,Jump Shot,20,204,4,True
+PJ Tucker,4,6,28,0,Jump Shot,24,-237,48,False
+PJ Tucker,4,0,34,1,Jump Shot,23,-234,28,False
+PJ Tucker,3,4,35,1,Jump Shot,22,-228,17,False
+PJ Tucker,4,3,25,0,Jump Shot,26,-6,267,False
+PJ Tucker,2,9,18,0,Jump Shot,23,-231,-11,False
+PJ Tucker,4,11,45,0,Jump Shot,22,224,26,False
+PJ Tucker,2,6,48,0,Jump Shot,22,-226,21,False
+PJ Tucker,3,5,57,1,Jump Shot,23,-230,20,False
+PJ Tucker,2,8,58,1,Jump Shot,22,225,2,False
+PJ Tucker,3,3,30,1,Jump Shot,22,-223,30,False
+PJ Tucker,3,2,46,0,Jump Shot,26,-6,262,False
+PJ Tucker,3,0,44,0,Jump Shot,22,227,33,False
+PJ Tucker,2,10,28,0,Jump Shot,25,130,220,False
+PJ Tucker,4,4,52,0,Jump Shot,23,-236,15,False
+PJ Tucker,2,4,32,0,Jump Shot,23,-232,-6,False
+PJ Tucker,2,1,4,0,Jump Shot,20,-200,-7,True
+PJ Tucker,4,7,49,0,Jump Shot,24,240,29,False
+PJ Tucker,4,5,49,1,Jump Shot,24,237,48,False
+PJ Tucker,2,5,42,1,Jump Shot,24,-240,37,False
+PJ Tucker,3,1,20,1,Jump Shot,23,232,43,False
+PJ Tucker,2,10,51,0,Jump Shot,23,230,25,False
+PJ Tucker,2,1,42,0,Jump Shot,21,-204,75,True
+PJ Tucker,4,3,56,1,Jump Shot,24,240,10,False
+PJ Tucker,4,2,17,0,Jump Shot,23,-232,5,False
+PJ Tucker,3,5,40,0,Jump Shot,21,-207,67,True
+PJ Tucker,1,6,0,0,Jump Shot,23,-232,7,False
+PJ Tucker,3,5,34,0,Jump Shot,23,237,32,False
+PJ Tucker,4,2,31,1,Jump Shot,23,235,17,False
+PJ Tucker,4,10,18,0,Jump Shot,26,165,204,False
+PJ Tucker,1,4,31,1,Jump Shot,22,-227,3,False
+PJ Tucker,3,6,27,0,Jump Shot,24,65,239,False
+PJ Tucker,4,2,12,0,Jump Shot,26,-82,248,False
+PJ Tucker,1,0,34,1,Jump Shot,24,-119,218,False
+PJ Tucker,1,2,30,0,Jump Shot,23,88,213,True
+PJ Tucker,1,6,24,0,Jump Shot,23,-227,40,False
+PJ Tucker,3,1,31,0,Jump Shot,23,231,6,False
+PJ Tucker,2,1,0,0,Jump Shot,24,207,132,False
+PJ Tucker,3,3,17,1,Jump Shot,24,-135,208,False
+PJ Tucker,4,2,58,1,Jump Shot,23,237,4,False
+PJ Tucker,4,0,42,0,Jump Shot,25,228,120,False
+PJ Tucker,3,3,50,0,Jump Shot,22,-222,10,False
+PJ Tucker,2,2,10,0,Jump Shot,25,212,138,False
+PJ Tucker,2,0,0,0,Jump Shot,25,187,178,False
+PJ Tucker,2,3,21,0,Jump Shot,22,220,6,False
+PJ Tucker,4,9,53,0,Jump Shot,22,-221,19,False
+PJ Tucker,1,9,7,0,Jump Shot,27,67,264,False
+PJ Tucker,1,7,50,0,Jump Shot,23,232,46,False
+PJ Tucker,1,11,14,0,Jump Shot,23,-227,51,False
+PJ Tucker,2,7,52,0,Jump Shot,26,-82,255,False
+PJ Tucker,1,8,11,0,Jump Shot,23,-234,29,False
+PJ Tucker,1,8,1,1,Jump Shot,24,-169,181,False
+PJ Tucker,1,2,47,0,Jump Shot,25,101,239,False
+PJ Tucker,2,1,33,0,Jump Shot,22,-223,20,False
+PJ Tucker,3,3,17,0,Jump Shot,24,40,246,False
+PJ Tucker,2,6,25,0,Jump Shot,23,232,11,False
+PJ Tucker,1,5,50,0,Jump Shot,23,233,32,False
+PJ Tucker,3,6,34,1,Jump Shot,23,-230,5,False
+PJ Tucker,3,8,54,0,Jump Shot,27,226,151,False
+PJ Tucker,3,7,51,1,Jump Shot,23,-233,37,False
+PJ Tucker,1,5,10,0,Jump Shot,25,-168,196,False
+PJ Tucker,3,6,0,0,Jump Shot,22,-223,15,False
+PJ Tucker,3,5,19,0,Jump Shot,23,-232,29,False
+PJ Tucker,1,9,2,1,Jump Shot,22,-14,226,True
+PJ Tucker,2,5,24,0,Jump Shot,25,52,246,False
+PJ Tucker,4,2,36,1,Jump Shot,23,-239,-2,False
+PJ Tucker,1,7,53,1,Jump Shot,25,138,211,False
+PJ Tucker,4,0,51,1,Jump Shot,23,-232,38,False
+PJ Tucker,1,7,21,0,Jump Shot,24,24,248,False
+PJ Tucker,3,11,45,1,Jump Shot,22,-203,95,True
+PJ Tucker,1,10,43,1,Jump Shot,23,231,-22,False
+PJ Tucker,1,9,54,0,Jump Shot,26,-189,182,False
+PJ Tucker,3,11,3,0,Jump Shot,23,-231,18,False
+PJ Tucker,4,2,0,0,Jump Shot,23,-234,25,False
+PJ Tucker,1,5,26,1,Jump Shot,25,171,194,False
+PJ Tucker,3,3,59,0,Jump Shot,22,228,10,False
+PJ Tucker,3,11,9,0,Jump Shot,16,-9,164,True
+PJ Tucker,1,5,21,0,Jump Shot,23,237,29,False
+PJ Tucker,2,7,36,1,Jump Shot,22,-228,25,False
+PJ Tucker,1,8,3,0,Jump Shot,26,-139,220,False
+PJ Tucker,3,11,2,0,Jump Shot,24,233,71,False
+PJ Tucker,3,4,57,0,Jump Shot,23,232,11,False
+PJ Tucker,2,1,34,0,Jump Shot,23,231,13,False
+PJ Tucker,2,5,6,1,Jump Shot,23,236,16,False
+PJ Tucker,4,5,9,1,Jump Shot,23,-231,18,False
+PJ Tucker,1,5,52,1,Jump Shot,23,-231,19,False
+PJ Tucker,2,6,54,1,Jump Shot,23,-232,14,False
+PJ Tucker,1,10,6,0,Jump Shot,25,-201,153,False
+PJ Tucker,4,8,15,1,Jump Shot,26,-164,202,False
+PJ Tucker,1,7,8,1,Jump Shot,22,226,-5,False
+PJ Tucker,2,1,55,0,Jump Shot,23,-234,6,False
+PJ Tucker,1,8,35,1,Jump Shot,23,229,24,False
+PJ Tucker,3,1,41,0,Jump Shot,22,-226,5,False
+PJ Tucker,2,9,52,0,Jump Shot,23,-234,11,False
+PJ Tucker,3,2,22,0,Jump Shot,23,-230,-17,False
+PJ Tucker,1,9,26,0,Jump Shot,23,-239,14,False
+PJ Tucker,2,2,8,1,Jump Shot,22,228,1,False
+PJ Tucker,2,8,48,1,Jump Shot,24,39,245,False
+PJ Tucker,4,8,29,0,Jump Shot,23,236,-21,False
+PJ Tucker,1,3,5,1,Jump Shot,22,-223,19,False
+PJ Tucker,1,5,51,0,Jump Shot,19,-192,41,True
+PJ Tucker,4,6,41,0,Jump Shot,22,225,16,False
+PJ Tucker,1,4,35,0,Jump Shot,22,49,221,True
+PJ Tucker,3,6,9,1,Jump Shot,22,223,10,False
+PJ Tucker,2,4,32,0,Jump Shot,22,-228,10,False
+PJ Tucker,3,9,6,0,Jump Shot,26,-49,256,False
+PJ Tucker,3,7,10,0,Jump Shot,22,82,207,True
+PJ Tucker,1,6,54,0,Jump Shot,26,-171,199,False
+PJ Tucker,2,3,6,1,Jump Shot,24,178,174,False
+PJ Tucker,1,3,52,0,Jump Shot,22,-11,228,True
+PJ Tucker,3,5,12,0,Jump Shot,24,237,50,False
+PJ Tucker,3,1,48,1,Jump Shot,26,220,140,False
+PJ Tucker,4,11,5,0,Jump Shot,26,95,250,False
+PJ Tucker,1,0,23,0,Jump Shot,25,47,254,False
+PJ Tucker,3,0,16,0,Jump Shot,23,-232,24,False
+PJ Tucker,4,3,56,0,Jump Shot,22,-223,22,False
+PJ Tucker,3,2,46,0,Jump Shot,25,84,246,False
+PJ Tucker,2,11,36,0,Jump Shot,23,-230,-6,False
+PJ Tucker,2,11,8,1,Jump Shot,23,-234,8,False
+PJ Tucker,4,9,1,0,Jump Shot,22,-223,-4,False
+PJ Tucker,3,4,57,0,Jump Shot,25,-171,195,False
+PJ Tucker,3,1,30,0,Jump Shot,25,109,231,False
+PJ Tucker,1,0,18,1,Jump Shot,22,223,5,False
+PJ Tucker,2,9,19,1,Jump Shot,22,226,16,False
+PJ Tucker,2,2,15,0,Jump Shot,23,233,4,False
+PJ Tucker,4,2,43,0,Jump Shot,22,227,7,False
+PJ Tucker,2,0,27,1,Jump Shot,26,101,241,False
+PJ Tucker,2,3,20,1,Jump Shot,25,-187,166,False
+PJ Tucker,4,3,31,1,Jump Shot,23,-231,38,False
+PJ Tucker,2,0,0,0,Jump Shot,22,-227,0,False
+PJ Tucker,1,7,10,1,Jump Shot,22,-226,41,False
+PJ Tucker,3,7,1,1,Jump Shot,22,-221,4,False
+PJ Tucker,2,6,3,0,Jump Shot,21,-13,219,True
+PJ Tucker,1,7,21,0,Jump Shot,25,128,225,False
+PJ Tucker,3,9,3,0,Jump Shot,22,-228,17,False
+PJ Tucker,1,9,23,1,Jump Shot,22,-222,1,False
+PJ Tucker,2,11,32,1,Jump Shot,24,13,248,False
+PJ Tucker,3,10,50,0,Jump Shot,25,183,172,False
+PJ Tucker,3,5,13,1,Jump Shot,22,228,27,False
+PJ Tucker,2,8,11,0,Jump Shot,26,-17,260,False
+PJ Tucker,4,2,20,1,Jump Shot,22,-228,29,False
+PJ Tucker,2,0,57,1,Jump Shot,26,136,222,False
+PJ Tucker,3,6,12,0,Jump Shot,26,-82,251,False
+PJ Tucker,3,8,29,1,Jump Shot,22,-228,22,False
+PJ Tucker,2,7,45,0,Jump Shot,22,225,33,False
+PJ Tucker,3,5,13,1,Jump Shot,24,237,38,False
+PJ Tucker,1,11,33,1,Jump Shot,23,225,83,False
+PJ Tucker,3,6,38,0,Jump Shot,23,-230,46,False
+PJ Tucker,2,4,2,0,Jump Shot,11,8,116,True
+PJ Tucker,4,11,27,0,Jump Shot,24,-178,174,False
+PJ Tucker,4,4,31,1,Jump Shot,23,-228,32,False
+PJ Tucker,3,4,12,0,Jump Shot,24,232,62,False
+PJ Tucker,2,7,21,0,Jump Shot,28,-191,206,False
+PJ Tucker,2,1,57,0,Jump Shot,23,230,6,False
+PJ Tucker,4,4,12,0,Jump Shot,19,-193,47,True
+PJ Tucker,2,11,15,1,Jump Shot,25,198,158,False
+PJ Tucker,4,10,4,0,Jump Shot,23,-232,56,False
+PJ Tucker,2,4,13,1,Jump Shot,23,-231,29,False
+PJ Tucker,3,8,21,1,Jump Shot,22,-223,22,False
+PJ Tucker,1,10,14,0,Jump Shot,25,26,258,False
+PJ Tucker,2,8,11,1,Jump Shot,25,49,253,False
+PJ Tucker,2,1,21,0,Jump Shot,25,-18,256,False
+PJ Tucker,1,3,23,1,Jump Shot,24,84,233,False
+PJ Tucker,1,2,7,1,Jump Shot,21,-212,49,True
+PJ Tucker,2,10,17,0,Jump Shot,25,101,237,False
+PJ Tucker,3,4,52,0,Jump Shot,23,229,36,False
+PJ Tucker,4,10,3,1,Jump Shot,25,-2,255,False
+PJ Tucker,4,7,50,1,Jump Shot,23,232,21,False
+PJ Tucker,1,0,48,0,Jump Shot,23,-232,1,False
+PJ Tucker,2,4,48,0,Jump Shot,25,145,206,False
+PJ Tucker,4,4,23,1,Jump Shot,25,118,222,False
+PJ Tucker,4,2,25,0,Jump Shot,23,-230,20,False
+PJ Tucker,3,7,46,0,Jump Shot,23,-238,27,False
+PJ Tucker,2,0,34,0,Jump Shot,24,233,64,False
+PJ Tucker,3,4,59,1,Jump Shot,24,-234,83,False
+PJ Tucker,3,1,37,0,Jump Shot,25,115,232,False
+PJ Tucker,4,7,51,0,Jump Shot,24,239,53,False
+PJ Tucker,3,5,44,0,Jump Shot,22,-228,3,False
+PJ Tucker,3,1,22,1,Jump Shot,25,182,176,False
+PJ Tucker,3,2,2,1,Jump Shot,23,-230,24,False
+PJ Tucker,1,2,16,0,Jump Shot,25,0,253,False
+PJ Tucker,3,1,19,1,Jump Shot,25,41,253,False
+PJ Tucker,1,5,1,1,Jump Shot,23,234,10,False
+PJ Tucker,1,3,53,1,Jump Shot,24,-177,174,False
+PJ Tucker,4,2,22,0,Jump Shot,25,-89,239,False
+PJ Tucker,2,3,48,0,Jump Shot,23,236,-5,False
+PJ Tucker,2,2,3,1,Jump Shot,21,210,6,True
+PJ Tucker,3,9,42,0,Jump Shot,22,229,14,False
+PJ Tucker,3,1,8,1,Jump Shot,23,226,71,False
+PJ Tucker,4,9,33,0,Jump Shot,25,198,157,False
+PJ Tucker,1,2,32,0,Jump Shot,23,230,-17,False
+PJ Tucker,2,4,53,0,Jump Shot,25,-133,215,False
+PJ Tucker,4,1,13,1,Jump Shot,24,242,-20,False
+PJ Tucker,4,0,25,0,Jump Shot,23,230,23,False
+PJ Tucker,3,4,29,0,Jump Shot,26,-203,175,False
+PJ Tucker,4,3,45,1,Jump Shot,23,-230,31,False
+PJ Tucker,1,1,21,0,Jump Shot,23,232,26,False
+PJ Tucker,3,4,21,0,Jump Shot,27,187,196,False
+PJ Tucker,2,6,47,1,Jump Shot,23,-237,10,False
+PJ Tucker,2,0,42,0,Jump Shot,20,-206,22,True
+PJ Tucker,2,3,17,0,Jump Shot,24,-169,183,False
+PJ Tucker,1,6,5,1,Jump Shot,24,218,105,False
+PJ Tucker,1,2,35,0,Jump Shot,22,123,186,True
+PJ Tucker,4,5,29,0,Jump Shot,25,165,192,False
+PJ Tucker,1,3,37,1,Jump Shot,21,178,116,True
+PJ Tucker,1,5,38,1,Jump Shot,22,226,5,False
+PJ Tucker,2,3,28,0,Jump Shot,22,227,12,False
+PJ Tucker,1,2,16,0,Jump Shot,25,178,183,False
+PJ Tucker,4,8,2,1,Jump Shot,26,-51,256,False
+PJ Tucker,4,6,2,0,Jump Shot,22,-222,25,False
+PJ Tucker,2,7,59,0,Jump Shot,22,-222,10,False
+PJ Tucker,4,6,4,1,Jump Shot,26,-202,169,False
+PJ Tucker,1,5,3,0,Jump Shot,24,200,144,False
+PJ Tucker,4,11,29,0,Jump Shot,22,-222,47,False
+PJ Tucker,3,5,58,0,Jump Shot,23,-228,41,False
+PJ Tucker,2,2,38,0,Jump Shot,22,-226,-7,False
+PJ Tucker,1,3,36,0,Jump Shot,25,-75,240,False
+PJ Tucker,3,4,36,0,Jump Shot,23,230,23,False
+PJ Tucker,1,6,14,0,Jump Shot,25,128,216,False
+PJ Tucker,2,2,13,0,Jump Shot,23,230,29,False
+PJ Tucker,4,1,48,0,Jump Shot,25,211,144,False
+PJ Tucker,2,9,54,0,Jump Shot,23,235,14,False
+PJ Tucker,4,5,10,1,Jump Shot,23,-235,1,False
+PJ Tucker,2,8,33,1,Jump Shot,22,-222,9,False
+PJ Tucker,3,2,6,0,Layup Shot,4,42,13,True
+PJ Tucker,3,4,23,1,Layup Shot,3,-27,16,True
+PJ Tucker,3,8,32,1,Layup Shot,0,8,4,True
+PJ Tucker,3,1,58,1,Layup Shot,3,32,1,True
+PJ Tucker,4,3,44,0,Layup Shot,0,7,6,True
+PJ Tucker,4,9,46,0,Layup Shot,2,19,16,True
+PJ Tucker,4,0,30,1,Layup Shot,1,2,11,True
+PJ Tucker,2,8,39,0,Layup Shot,1,-7,11,True
+PJ Tucker,4,8,30,0,Layup Shot,5,-49,29,True
+PJ Tucker,4,2,8,0,Layup Shot,2,-2,28,True
+PJ Tucker,2,4,18,0,Layup Shot,2,-22,1,True
+PJ Tucker,3,8,22,0,Layup Shot,3,8,29,True
+PJ Tucker,3,3,1,1,Layup Shot,0,3,6,True
+PJ Tucker,4,1,57,1,Pullup Jump shot,19,130,148,True
+PJ Tucker,2,1,8,1,Pullup Jump shot,24,-204,137,False
+PJ Tucker,2,1,0,0,Pullup Jump shot,26,-199,171,False
+PJ Tucker,3,11,41,1,Pullup Jump shot,25,-166,192,False
+PJ Tucker,6,0,5,1,Putback Layup Shot,1,17,8,True
+PJ Tucker,2,1,36,1,Putback Layup Shot,1,-6,17,True
+PJ Tucker,2,0,32,1,Putback Layup Shot,1,2,11,True
+PJ Tucker,1,0,32,1,Putback Layup Shot,0,-3,4,True
+PJ Tucker,3,2,52,1,Putback Layup Shot,1,-2,14,True
+PJ Tucker,2,8,10,0,Reverse Layup Shot,2,20,10,True
+PJ Tucker,3,0,3,0,Reverse Layup Shot,2,5,20,True
+PJ Tucker,4,10,0,1,Reverse Layup Shot,0,-3,4,True
+PJ Tucker,2,5,56,0,Running Finger Roll Layup Shot,1,19,-1,True
+PJ Tucker,4,6,5,1,Running Jump Shot,23,-230,11,False
+PJ Tucker,2,9,39,0,Running Layup Shot,2,0,27,True
+PJ Tucker,1,1,4,1,Running Layup Shot,2,24,14,True
+PJ Tucker,2,3,1,1,Running Layup Shot,2,21,20,True
+PJ Tucker,4,3,34,0,Running Layup Shot,6,-6,64,True
+PJ Tucker,1,4,3,0,Running Layup Shot,1,17,5,True
+PJ Tucker,3,1,6,1,Running Layup Shot,0,-1,-8,True
+PJ Tucker,4,1,16,0,Step Back Jump shot,20,-206,3,True
+PJ Tucker,2,8,34,1,Step Back Jump shot,23,-232,-27,False
+PJ Tucker,2,6,36,0,Tip Layup Shot,1,-2,15,True
+PJ Tucker,2,6,33,1,Tip Layup Shot,0,0,-6,True
+PJ Tucker,4,7,27,0,Tip Layup Shot,0,0,-6,True
+PJ Tucker,3,2,8,1,Tip Layup Shot,0,0,-6,True
+PJ Tucker,2,2,22,1,Tip Layup Shot,2,-25,2,True
+PJ Tucker,4,4,6,1,Tip Layup Shot,0,0,-6,True
+PJ Tucker,5,0,21,1,Tip Layup Shot,0,0,-6,True
+PJ Tucker,3,8,59,1,Tip Layup Shot,0,0,-6,True
+PJ Tucker,4,11,34,0,Turnaround Fadeaway shot,19,-156,116,True
+PJ Tucker,2,1,15,0,Turnaround Hook Shot,4,-30,29,True
+PJ Tucker,4,5,12,0,Turnaround Hook Shot,3,28,17,True
+PJ Tucker,1,4,49,0,Turnaround Hook Shot,8,-6,88,True
+PJ Tucker,1,6,14,0,Turnaround Jump Shot,13,6,132,True
+PJ Tucker,1,1,18,0,Turnaround Jump Shot,11,29,109,True

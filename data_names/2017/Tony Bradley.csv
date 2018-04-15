@@ -1,0 +1,12 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Tony Bradley,4,5,3,1,Cutting Layup Shot,1,9,7,True
+Tony Bradley,4,0,56,0,Driving Hook Shot,10,47,99,True
+Tony Bradley,4,1,11,0,Finger Roll Layup Shot,3,15,36,True
+Tony Bradley,4,2,7,0,Floating Jump shot,9,2,96,True
+Tony Bradley,4,0,47,0,Floating Jump shot,10,36,103,True
+Tony Bradley,4,0,46,1,Jump Shot,12,33,121,True
+Tony Bradley,4,1,0,0,Jump Shot,12,-6,123,True
+Tony Bradley,4,0,7,0,Jump Shot,19,-92,174,True
+Tony Bradley,4,2,54,0,Jump Shot,26,3,264,False
+Tony Bradley,4,4,35,1,Putback Layup Shot,0,-5,0,True
+Tony Bradley,4,1,35,0,Tip Layup Shot,0,0,-6,True

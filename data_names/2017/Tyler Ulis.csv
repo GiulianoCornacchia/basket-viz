@@ -1,0 +1,519 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Tyler Ulis,1,11,23,0,Cutting Layup Shot,1,15,5,True
+Tyler Ulis,3,2,59,1,Cutting Layup Shot,1,-7,15,True
+Tyler Ulis,3,7,49,1,Cutting Layup Shot,1,11,12,True
+Tyler Ulis,2,6,56,1,Cutting Layup Shot,1,-11,13,True
+Tyler Ulis,1,2,23,0,Driving Finger Roll Layup Shot,1,5,11,True
+Tyler Ulis,3,5,33,0,Driving Finger Roll Layup Shot,3,37,5,True
+Tyler Ulis,2,7,55,1,Driving Finger Roll Layup Shot,1,14,10,True
+Tyler Ulis,2,7,50,0,Driving Finger Roll Layup Shot,2,19,20,True
+Tyler Ulis,3,7,6,1,Driving Finger Roll Layup Shot,1,6,9,True
+Tyler Ulis,2,1,7,1,Driving Finger Roll Layup Shot,8,86,6,True
+Tyler Ulis,3,6,53,0,Driving Finger Roll Layup Shot,2,19,15,True
+Tyler Ulis,2,10,52,1,Driving Floating Bank Jump Shot,9,91,35,True
+Tyler Ulis,3,9,23,0,Driving Floating Bank Jump Shot,1,13,3,True
+Tyler Ulis,4,5,54,1,Driving Floating Bank Jump Shot,10,92,56,True
+Tyler Ulis,3,5,51,1,Driving Floating Bank Jump Shot,9,71,57,True
+Tyler Ulis,4,10,59,1,Driving Floating Bank Jump Shot,8,71,42,True
+Tyler Ulis,1,5,27,1,Driving Floating Bank Jump Shot,4,43,19,True
+Tyler Ulis,3,11,3,1,Driving Floating Bank Jump Shot,12,-100,67,True
+Tyler Ulis,2,10,52,1,Driving Floating Bank Jump Shot,9,-93,22,True
+Tyler Ulis,2,4,23,0,Driving Floating Bank Jump Shot,8,86,20,True
+Tyler Ulis,2,7,30,1,Driving Floating Bank Jump Shot,10,102,38,True
+Tyler Ulis,1,6,32,1,Driving Floating Bank Jump Shot,3,-22,21,True
+Tyler Ulis,2,0,16,1,Driving Floating Bank Jump Shot,8,55,64,True
+Tyler Ulis,3,10,58,1,Driving Floating Bank Jump Shot,3,35,14,True
+Tyler Ulis,4,1,4,1,Driving Floating Bank Jump Shot,0,-5,0,True
+Tyler Ulis,1,10,7,1,Driving Floating Jump Shot,4,44,-1,True
+Tyler Ulis,3,0,13,0,Driving Floating Jump Shot,10,39,100,True
+Tyler Ulis,1,0,37,1,Driving Floating Jump Shot,12,47,116,True
+Tyler Ulis,4,11,23,0,Driving Floating Jump Shot,9,49,80,True
+Tyler Ulis,3,0,7,0,Driving Floating Jump Shot,14,128,70,True
+Tyler Ulis,4,5,43,1,Driving Floating Jump Shot,10,-69,78,True
+Tyler Ulis,3,6,34,1,Driving Floating Jump Shot,10,101,25,True
+Tyler Ulis,1,4,2,0,Driving Floating Jump Shot,8,14,83,True
+Tyler Ulis,1,0,54,0,Driving Floating Jump Shot,12,30,118,True
+Tyler Ulis,3,0,1,1,Driving Floating Jump Shot,12,105,75,True
+Tyler Ulis,2,7,15,0,Driving Floating Jump Shot,12,31,125,True
+Tyler Ulis,3,9,13,0,Driving Floating Jump Shot,10,-38,94,True
+Tyler Ulis,2,2,28,0,Driving Floating Jump Shot,15,44,152,True
+Tyler Ulis,3,8,40,0,Driving Floating Jump Shot,15,122,88,True
+Tyler Ulis,4,11,38,0,Driving Floating Jump Shot,12,-33,116,True
+Tyler Ulis,2,11,38,1,Driving Floating Jump Shot,13,3,134,True
+Tyler Ulis,2,4,37,0,Driving Floating Jump Shot,12,112,47,True
+Tyler Ulis,4,10,24,0,Driving Floating Jump Shot,16,79,141,True
+Tyler Ulis,3,8,18,1,Driving Floating Jump Shot,11,51,101,True
+Tyler Ulis,2,9,15,0,Driving Floating Jump Shot,13,44,131,True
+Tyler Ulis,1,6,54,0,Driving Floating Jump Shot,9,16,90,True
+Tyler Ulis,4,4,58,1,Driving Floating Jump Shot,13,61,116,True
+Tyler Ulis,1,5,13,0,Driving Floating Jump Shot,10,0,102,True
+Tyler Ulis,2,3,24,0,Driving Floating Jump Shot,8,44,69,True
+Tyler Ulis,1,3,28,0,Driving Floating Jump Shot,10,-104,23,True
+Tyler Ulis,4,6,31,0,Driving Floating Jump Shot,12,-51,115,True
+Tyler Ulis,2,8,28,1,Driving Floating Jump Shot,20,54,194,True
+Tyler Ulis,2,11,11,1,Driving Floating Jump Shot,9,53,80,True
+Tyler Ulis,2,7,16,1,Driving Floating Jump Shot,9,2,99,True
+Tyler Ulis,3,9,6,0,Driving Floating Jump Shot,13,-53,122,True
+Tyler Ulis,4,11,29,0,Driving Floating Jump Shot,11,70,94,True
+Tyler Ulis,3,7,28,0,Driving Floating Jump Shot,11,-4,119,True
+Tyler Ulis,2,1,4,0,Driving Floating Jump Shot,4,-9,49,True
+Tyler Ulis,1,10,25,0,Driving Floating Jump Shot,5,29,41,True
+Tyler Ulis,2,9,52,1,Driving Floating Jump Shot,8,-21,87,True
+Tyler Ulis,2,1,37,1,Driving Hook Shot,16,28,162,True
+Tyler Ulis,4,6,35,0,Driving Layup Shot,1,5,18,True
+Tyler Ulis,2,7,36,1,Driving Layup Shot,1,4,13,True
+Tyler Ulis,4,10,27,0,Driving Layup Shot,2,-9,24,True
+Tyler Ulis,1,8,21,0,Driving Layup Shot,4,16,39,True
+Tyler Ulis,1,0,0,0,Driving Layup Shot,3,16,27,True
+Tyler Ulis,4,0,4,1,Driving Layup Shot,1,9,8,True
+Tyler Ulis,4,0,25,1,Driving Layup Shot,1,11,8,True
+Tyler Ulis,3,9,40,1,Driving Layup Shot,2,23,13,True
+Tyler Ulis,4,3,55,0,Driving Layup Shot,3,7,31,True
+Tyler Ulis,2,11,11,0,Driving Layup Shot,0,-1,3,True
+Tyler Ulis,2,5,27,0,Driving Layup Shot,2,20,13,True
+Tyler Ulis,2,1,12,1,Driving Layup Shot,1,10,4,True
+Tyler Ulis,2,0,2,0,Driving Layup Shot,3,12,29,True
+Tyler Ulis,1,10,31,0,Driving Layup Shot,4,40,21,True
+Tyler Ulis,1,5,33,0,Driving Layup Shot,1,10,8,True
+Tyler Ulis,3,1,39,0,Driving Layup Shot,3,22,26,True
+Tyler Ulis,1,10,13,0,Driving Layup Shot,0,3,7,True
+Tyler Ulis,4,6,28,0,Driving Layup Shot,1,6,8,True
+Tyler Ulis,1,5,27,0,Driving Layup Shot,3,27,16,True
+Tyler Ulis,1,3,43,0,Driving Layup Shot,0,8,5,True
+Tyler Ulis,4,11,22,0,Driving Layup Shot,2,-3,24,True
+Tyler Ulis,1,3,21,0,Driving Layup Shot,2,25,0,True
+Tyler Ulis,1,2,3,0,Driving Layup Shot,1,13,6,True
+Tyler Ulis,3,8,24,1,Driving Layup Shot,1,14,8,True
+Tyler Ulis,3,0,3,1,Driving Layup Shot,2,0,22,True
+Tyler Ulis,3,5,19,1,Driving Layup Shot,2,19,18,True
+Tyler Ulis,4,9,26,0,Driving Layup Shot,3,29,26,True
+Tyler Ulis,3,10,20,0,Driving Layup Shot,8,68,51,True
+Tyler Ulis,3,6,2,1,Driving Layup Shot,1,16,1,True
+Tyler Ulis,2,6,26,1,Driving Layup Shot,1,10,0,True
+Tyler Ulis,3,1,7,0,Driving Layup Shot,2,16,16,True
+Tyler Ulis,2,4,10,0,Driving Layup Shot,2,-6,27,True
+Tyler Ulis,2,9,56,0,Driving Layup Shot,5,42,32,True
+Tyler Ulis,2,10,46,0,Driving Layup Shot,2,-4,27,True
+Tyler Ulis,4,1,33,1,Driving Layup Shot,0,5,6,True
+Tyler Ulis,2,0,55,0,Driving Layup Shot,7,54,46,True
+Tyler Ulis,2,7,24,1,Driving Layup Shot,3,29,27,True
+Tyler Ulis,2,9,13,1,Driving Layup Shot,0,2,8,True
+Tyler Ulis,4,6,12,0,Driving Layup Shot,6,55,27,True
+Tyler Ulis,1,2,32,1,Driving Layup Shot,0,3,6,True
+Tyler Ulis,1,0,36,1,Driving Layup Shot,0,6,-4,True
+Tyler Ulis,3,0,7,0,Driving Layup Shot,3,33,19,True
+Tyler Ulis,1,7,12,0,Driving Layup Shot,4,47,16,True
+Tyler Ulis,3,2,22,1,Driving Layup Shot,0,-1,4,True
+Tyler Ulis,2,9,31,1,Driving Layup Shot,0,-3,4,True
+Tyler Ulis,4,9,30,0,Driving Reverse Layup Shot,2,-23,-1,True
+Tyler Ulis,3,0,35,0,Driving Reverse Layup Shot,1,7,14,True
+Tyler Ulis,1,5,26,0,Driving Reverse Layup Shot,2,-25,13,True
+Tyler Ulis,3,2,56,1,Driving Reverse Layup Shot,0,0,0,True
+Tyler Ulis,3,6,32,0,Driving Reverse Layup Shot,1,-14,-4,True
+Tyler Ulis,3,1,43,1,Fadeaway Jump Shot,12,-44,115,True
+Tyler Ulis,3,10,4,1,Fadeaway Jump Shot,15,109,106,True
+Tyler Ulis,4,8,18,0,Fadeaway Jump Shot,9,-89,-28,True
+Tyler Ulis,1,7,43,0,Fadeaway Jump Shot,15,99,120,True
+Tyler Ulis,4,10,34,1,Fadeaway Jump Shot,4,42,21,True
+Tyler Ulis,1,9,40,1,Fadeaway Jump Shot,12,67,104,True
+Tyler Ulis,1,0,48,1,Finger Roll Layup Shot,12,49,117,True
+Tyler Ulis,1,4,39,0,Floating Jump shot,5,9,59,True
+Tyler Ulis,3,8,56,0,Floating Jump shot,13,17,130,True
+Tyler Ulis,4,4,34,1,Floating Jump shot,10,72,80,True
+Tyler Ulis,2,10,35,0,Floating Jump shot,10,-11,109,True
+Tyler Ulis,1,1,34,0,Floating Jump shot,12,-83,97,True
+Tyler Ulis,1,10,27,0,Floating Jump shot,9,93,20,True
+Tyler Ulis,3,2,37,0,Floating Jump shot,11,-49,109,True
+Tyler Ulis,2,4,10,0,Floating Jump shot,12,-38,115,True
+Tyler Ulis,2,0,27,0,Floating Jump shot,11,42,107,True
+Tyler Ulis,4,2,39,1,Floating Jump shot,10,36,101,True
+Tyler Ulis,4,9,18,1,Floating Jump shot,16,-44,158,True
+Tyler Ulis,3,10,18,1,Floating Jump shot,12,45,120,True
+Tyler Ulis,1,9,43,1,Floating Jump shot,12,4,126,True
+Tyler Ulis,4,4,35,1,Floating Jump shot,10,-27,101,True
+Tyler Ulis,4,1,49,1,Floating Jump shot,8,33,77,True
+Tyler Ulis,4,11,19,0,Floating Jump shot,6,-18,59,True
+Tyler Ulis,3,11,45,1,Floating Jump shot,10,2,101,True
+Tyler Ulis,1,6,18,1,Floating Jump shot,12,14,122,True
+Tyler Ulis,4,7,8,0,Floating Jump shot,13,44,130,True
+Tyler Ulis,2,7,58,0,Floating Jump shot,12,68,107,True
+Tyler Ulis,3,7,19,0,Floating Jump shot,18,-44,176,True
+Tyler Ulis,3,11,12,1,Floating Jump shot,14,-70,127,True
+Tyler Ulis,1,7,50,0,Floating Jump shot,11,106,35,True
+Tyler Ulis,4,4,6,1,Floating Jump shot,6,30,63,True
+Tyler Ulis,3,5,53,0,Floating Jump shot,17,-110,131,True
+Tyler Ulis,4,1,35,0,Floating Jump shot,5,10,52,True
+Tyler Ulis,2,4,5,1,Floating Jump shot,7,24,75,True
+Tyler Ulis,4,5,25,0,Floating Jump shot,10,92,48,True
+Tyler Ulis,1,3,16,0,Floating Jump shot,10,-43,91,True
+Tyler Ulis,1,6,48,1,Floating Jump shot,15,-134,76,True
+Tyler Ulis,1,2,7,0,Floating Jump shot,14,105,101,True
+Tyler Ulis,1,9,8,1,Floating Jump shot,12,-47,117,True
+Tyler Ulis,3,7,0,0,Floating Jump shot,14,134,57,True
+Tyler Ulis,1,5,45,0,Floating Jump shot,12,91,79,True
+Tyler Ulis,1,9,1,0,Floating Jump shot,14,123,76,True
+Tyler Ulis,3,7,57,1,Floating Jump shot,5,7,53,True
+Tyler Ulis,3,10,1,1,Floating Jump shot,14,59,129,True
+Tyler Ulis,1,7,29,1,Floating Jump shot,11,92,63,True
+Tyler Ulis,3,0,14,0,Floating Jump shot,12,65,101,True
+Tyler Ulis,1,4,15,1,Floating Jump shot,9,93,-10,True
+Tyler Ulis,3,0,43,1,Floating Jump shot,10,3,106,True
+Tyler Ulis,1,3,50,0,Floating Jump shot,4,43,21,True
+Tyler Ulis,1,2,40,0,Floating Jump shot,12,101,74,True
+Tyler Ulis,3,9,58,0,Floating Jump shot,11,-37,106,True
+Tyler Ulis,1,9,1,0,Floating Jump shot,9,92,21,True
+Tyler Ulis,1,10,9,1,Floating Jump shot,4,13,42,True
+Tyler Ulis,4,11,41,1,Floating Jump shot,12,-51,116,True
+Tyler Ulis,3,5,24,1,Floating Jump shot,8,-82,10,True
+Tyler Ulis,2,1,14,1,Floating Jump shot,10,-67,78,True
+Tyler Ulis,4,9,40,1,Floating Jump shot,11,-27,109,True
+Tyler Ulis,4,3,40,0,Floating Jump shot,0,-2,1,True
+Tyler Ulis,1,4,33,0,Floating Jump shot,13,-45,126,True
+Tyler Ulis,3,8,17,0,Floating Jump shot,8,55,62,True
+Tyler Ulis,4,11,1,1,Floating Jump shot,16,-53,156,True
+Tyler Ulis,4,11,23,1,Floating Jump shot,15,103,112,True
+Tyler Ulis,4,10,43,1,Jump Bank Shot,11,-111,31,True
+Tyler Ulis,4,8,21,0,Jump Bank Shot,13,120,62,True
+Tyler Ulis,4,11,22,0,Jump Bank Shot,4,43,13,True
+Tyler Ulis,3,11,40,1,Jump Bank Shot,11,-99,58,True
+Tyler Ulis,2,2,43,1,Jump Shot,26,136,222,False
+Tyler Ulis,1,1,17,0,Jump Shot,25,33,256,False
+Tyler Ulis,3,10,57,1,Jump Shot,25,103,231,False
+Tyler Ulis,2,6,12,0,Jump Shot,19,-143,133,True
+Tyler Ulis,1,4,42,0,Jump Shot,11,53,102,True
+Tyler Ulis,4,5,38,0,Jump Shot,27,201,192,False
+Tyler Ulis,3,10,25,0,Jump Shot,18,180,13,True
+Tyler Ulis,1,9,11,0,Jump Shot,24,141,205,False
+Tyler Ulis,4,4,25,1,Jump Shot,12,5,129,True
+Tyler Ulis,2,3,9,1,Jump Shot,25,107,227,False
+Tyler Ulis,2,0,1,1,Jump Shot,26,86,251,False
+Tyler Ulis,3,8,59,1,Jump Shot,21,161,143,True
+Tyler Ulis,3,2,8,0,Jump Shot,24,-217,115,False
+Tyler Ulis,4,2,22,0,Jump Shot,32,195,260,False
+Tyler Ulis,3,6,39,0,Jump Shot,25,106,227,False
+Tyler Ulis,1,9,48,0,Jump Shot,21,105,189,True
+Tyler Ulis,2,4,49,0,Jump Shot,22,-229,2,False
+Tyler Ulis,1,9,50,1,Jump Shot,27,-165,218,False
+Tyler Ulis,2,10,56,0,Jump Shot,28,-136,248,False
+Tyler Ulis,2,2,50,0,Jump Shot,25,117,227,False
+Tyler Ulis,4,3,54,1,Jump Shot,27,-183,208,False
+Tyler Ulis,1,4,8,0,Jump Shot,22,227,-11,False
+Tyler Ulis,4,0,21,0,Jump Shot,39,-122,371,False
+Tyler Ulis,2,5,14,0,Jump Shot,25,-2,253,False
+Tyler Ulis,4,3,19,1,Jump Shot,25,133,220,False
+Tyler Ulis,1,3,37,0,Jump Shot,25,226,116,False
+Tyler Ulis,4,1,43,0,Jump Shot,25,157,198,False
+Tyler Ulis,1,0,0,1,Jump Shot,29,-38,289,False
+Tyler Ulis,3,10,3,0,Jump Shot,25,147,208,False
+Tyler Ulis,3,2,40,0,Jump Shot,10,-7,100,True
+Tyler Ulis,2,0,8,0,Jump Shot,17,-141,105,True
+Tyler Ulis,2,1,11,1,Jump Shot,27,155,230,False
+Tyler Ulis,4,2,39,0,Jump Shot,29,162,251,False
+Tyler Ulis,1,2,0,1,Jump Shot,9,87,27,True
+Tyler Ulis,3,5,14,0,Jump Shot,15,90,125,True
+Tyler Ulis,3,1,27,1,Jump Shot,15,38,151,True
+Tyler Ulis,1,0,6,0,Jump Shot,26,-95,246,False
+Tyler Ulis,3,1,12,0,Jump Shot,26,92,246,False
+Tyler Ulis,3,3,51,1,Jump Shot,17,27,171,True
+Tyler Ulis,2,9,46,0,Jump Shot,24,226,89,False
+Tyler Ulis,4,4,52,0,Jump Shot,17,79,158,True
+Tyler Ulis,3,7,50,0,Jump Shot,26,-123,237,False
+Tyler Ulis,3,5,56,0,Jump Shot,22,-229,10,False
+Tyler Ulis,4,5,54,0,Jump Shot,22,226,-1,False
+Tyler Ulis,1,0,27,0,Jump Shot,25,42,254,False
+Tyler Ulis,2,9,47,1,Jump Shot,13,52,121,True
+Tyler Ulis,3,0,0,1,Jump Shot,31,-212,235,False
+Tyler Ulis,1,0,58,1,Jump Shot,23,-231,-2,False
+Tyler Ulis,2,11,8,0,Jump Shot,22,-222,42,False
+Tyler Ulis,3,1,13,0,Jump Shot,25,-112,230,False
+Tyler Ulis,2,0,41,0,Jump Shot,14,107,104,True
+Tyler Ulis,1,1,8,0,Jump Shot,25,186,179,False
+Tyler Ulis,2,5,2,0,Jump Shot,27,145,237,False
+Tyler Ulis,2,5,19,0,Jump Shot,25,-198,168,False
+Tyler Ulis,4,4,57,1,Jump Shot,25,-129,221,False
+Tyler Ulis,4,1,23,0,Jump Shot,24,-204,132,False
+Tyler Ulis,1,11,40,0,Jump Shot,24,203,144,False
+Tyler Ulis,3,8,56,0,Jump Shot,15,107,106,True
+Tyler Ulis,1,7,12,0,Jump Shot,24,-137,209,False
+Tyler Ulis,3,6,55,0,Jump Shot,23,-230,-1,False
+Tyler Ulis,3,9,30,0,Jump Shot,22,228,25,False
+Tyler Ulis,1,4,17,1,Jump Shot,25,-196,170,False
+Tyler Ulis,1,9,26,0,Jump Shot,23,-231,-8,False
+Tyler Ulis,1,0,12,0,Jump Shot,23,-235,-15,False
+Tyler Ulis,1,5,0,0,Jump Shot,27,-149,235,False
+Tyler Ulis,1,2,23,0,Jump Shot,26,-44,257,False
+Tyler Ulis,2,3,13,0,Jump Shot,23,232,0,False
+Tyler Ulis,4,5,8,0,Jump Shot,25,-195,162,False
+Tyler Ulis,1,9,38,0,Jump Shot,26,67,257,False
+Tyler Ulis,4,2,45,0,Jump Shot,22,228,15,False
+Tyler Ulis,2,6,24,0,Jump Shot,25,-141,217,False
+Tyler Ulis,3,6,37,0,Jump Shot,28,115,257,False
+Tyler Ulis,2,4,21,0,Jump Shot,25,226,126,False
+Tyler Ulis,3,6,48,0,Jump Shot,15,-127,95,True
+Tyler Ulis,2,1,15,1,Jump Shot,22,-226,5,False
+Tyler Ulis,1,10,3,1,Jump Shot,21,9,215,True
+Tyler Ulis,3,4,48,0,Jump Shot,13,-59,124,True
+Tyler Ulis,1,7,46,0,Jump Shot,6,63,24,True
+Tyler Ulis,3,3,12,0,Jump Shot,26,95,251,False
+Tyler Ulis,1,6,4,1,Jump Shot,25,117,226,False
+Tyler Ulis,1,6,52,1,Jump Shot,25,60,248,False
+Tyler Ulis,2,2,21,1,Jump Shot,25,-90,238,False
+Tyler Ulis,1,11,1,0,Jump Shot,12,-46,117,True
+Tyler Ulis,4,2,48,0,Jump Shot,24,-218,109,False
+Tyler Ulis,1,7,39,0,Jump Shot,25,122,225,False
+Tyler Ulis,4,3,25,0,Jump Shot,18,-4,183,True
+Tyler Ulis,1,9,43,1,Jump Shot,25,-112,233,False
+Tyler Ulis,1,4,15,0,Jump Shot,22,-225,0,False
+Tyler Ulis,3,9,7,0,Jump Shot,16,-107,128,True
+Tyler Ulis,2,7,58,0,Jump Shot,25,-136,216,False
+Tyler Ulis,3,8,12,0,Jump Shot,24,125,214,False
+Tyler Ulis,4,3,18,0,Jump Shot,12,4,121,True
+Tyler Ulis,4,3,21,0,Jump Shot,16,16,160,True
+Tyler Ulis,2,2,59,0,Jump Shot,19,103,168,True
+Tyler Ulis,2,3,48,0,Jump Shot,25,-150,203,False
+Tyler Ulis,3,6,13,1,Jump Shot,12,120,30,True
+Tyler Ulis,1,6,1,1,Jump Shot,20,-84,185,True
+Tyler Ulis,4,0,32,0,Jump Shot,28,-121,256,False
+Tyler Ulis,2,3,45,0,Jump Shot,28,190,206,False
+Tyler Ulis,3,6,17,0,Jump Shot,19,-105,168,True
+Tyler Ulis,4,6,49,1,Jump Shot,25,158,204,False
+Tyler Ulis,1,8,57,1,Jump Shot,25,-112,232,False
+Tyler Ulis,1,4,41,1,Jump Shot,25,182,176,False
+Tyler Ulis,2,0,39,0,Jump Shot,5,27,43,True
+Tyler Ulis,4,4,23,1,Jump Shot,24,114,221,False
+Tyler Ulis,1,4,46,1,Jump Shot,9,1,95,True
+Tyler Ulis,2,1,23,0,Jump Shot,12,116,37,True
+Tyler Ulis,1,9,52,0,Jump Shot,25,123,226,False
+Tyler Ulis,2,2,29,0,Jump Shot,24,92,231,False
+Tyler Ulis,1,6,14,0,Jump Shot,28,-164,232,False
+Tyler Ulis,1,9,54,0,Jump Shot,32,-186,268,False
+Tyler Ulis,2,1,41,1,Jump Shot,28,-197,206,False
+Tyler Ulis,2,0,2,0,Jump Shot,23,236,36,False
+Tyler Ulis,1,6,15,0,Jump Shot,18,-130,133,True
+Tyler Ulis,3,9,20,1,Jump Shot,22,-228,-17,False
+Tyler Ulis,3,8,42,0,Jump Shot,22,32,218,True
+Tyler Ulis,4,4,45,0,Jump Shot,11,26,110,True
+Tyler Ulis,2,0,3,1,Jump Shot,12,-24,119,True
+Tyler Ulis,4,7,42,0,Jump Shot,24,-139,206,False
+Tyler Ulis,1,10,19,0,Jump Shot,24,-231,85,False
+Tyler Ulis,4,3,56,0,Jump Shot,9,-92,35,True
+Tyler Ulis,1,7,50,1,Jump Shot,25,-29,257,False
+Tyler Ulis,4,3,13,0,Jump Shot,24,-194,156,False
+Tyler Ulis,4,0,31,0,Jump Shot,26,116,236,False
+Tyler Ulis,3,7,40,0,Jump Shot,9,-22,93,True
+Tyler Ulis,3,5,4,0,Jump Shot,26,-114,235,False
+Tyler Ulis,1,7,20,1,Jump Shot,23,-234,16,False
+Tyler Ulis,1,11,16,0,Jump Shot,26,107,241,False
+Tyler Ulis,4,2,47,1,Jump Shot,27,-134,238,False
+Tyler Ulis,4,4,1,1,Jump Shot,7,1,77,True
+Tyler Ulis,2,5,38,0,Jump Shot,18,150,104,True
+Tyler Ulis,1,11,24,0,Jump Shot,26,192,189,False
+Tyler Ulis,1,8,52,0,Jump Shot,20,-163,128,True
+Tyler Ulis,3,11,39,0,Jump Shot,22,-226,6,False
+Tyler Ulis,3,3,21,0,Jump Shot,26,112,235,False
+Tyler Ulis,2,10,32,0,Jump Shot,12,32,120,True
+Tyler Ulis,3,0,0,0,Jump Shot,25,-210,138,False
+Tyler Ulis,1,0,0,0,Jump Shot,38,-26,386,False
+Tyler Ulis,3,5,29,0,Jump Shot,26,143,218,False
+Tyler Ulis,4,7,24,1,Jump Shot,12,38,121,True
+Tyler Ulis,3,0,0,0,Jump Shot,53,202,492,False
+Tyler Ulis,2,10,21,0,Jump Shot,15,-14,158,True
+Tyler Ulis,1,1,32,0,Jump Shot,17,-88,157,True
+Tyler Ulis,4,11,6,0,Jump Shot,10,105,19,True
+Tyler Ulis,2,11,0,0,Jump Shot,19,102,172,True
+Tyler Ulis,3,3,41,0,Jump Shot,22,-22,222,True
+Tyler Ulis,4,9,52,1,Jump Shot,17,-19,172,True
+Tyler Ulis,1,1,25,0,Jump Shot,3,20,25,True
+Tyler Ulis,2,2,0,1,Jump Shot,31,182,262,False
+Tyler Ulis,4,4,22,0,Jump Shot,25,168,194,False
+Tyler Ulis,1,0,0,0,Jump Shot,37,173,333,False
+Tyler Ulis,4,1,45,0,Jump Shot,13,-41,126,True
+Tyler Ulis,4,8,59,0,Layup Shot,2,14,17,True
+Tyler Ulis,1,3,18,0,Layup Shot,1,4,18,True
+Tyler Ulis,3,6,7,1,Layup Shot,2,-6,24,True
+Tyler Ulis,3,7,50,1,Layup Shot,1,14,6,True
+Tyler Ulis,2,0,58,1,Layup Shot,1,2,12,True
+Tyler Ulis,1,4,46,0,Layup Shot,6,59,20,True
+Tyler Ulis,2,5,44,0,Layup Shot,1,-10,9,True
+Tyler Ulis,1,0,22,0,Layup Shot,1,8,-16,True
+Tyler Ulis,3,7,56,1,Layup Shot,1,-1,17,True
+Tyler Ulis,4,2,12,0,Layup Shot,1,9,15,True
+Tyler Ulis,3,11,45,0,Pullup Jump shot,16,2,168,True
+Tyler Ulis,1,0,0,0,Pullup Jump shot,61,-192,584,False
+Tyler Ulis,4,5,33,0,Pullup Jump shot,13,13,136,True
+Tyler Ulis,1,7,18,0,Pullup Jump shot,19,-144,138,True
+Tyler Ulis,2,9,29,0,Pullup Jump shot,25,-57,248,False
+Tyler Ulis,4,10,1,0,Pullup Jump shot,26,0,260,False
+Tyler Ulis,1,5,37,1,Pullup Jump shot,10,43,99,True
+Tyler Ulis,4,10,4,0,Pullup Jump shot,10,-87,52,True
+Tyler Ulis,4,11,15,0,Pullup Jump shot,16,23,166,True
+Tyler Ulis,4,7,51,0,Pullup Jump shot,15,99,116,True
+Tyler Ulis,2,1,23,1,Pullup Jump shot,14,-142,5,True
+Tyler Ulis,1,2,10,1,Pullup Jump shot,11,105,34,True
+Tyler Ulis,1,11,19,1,Pullup Jump shot,18,-61,178,True
+Tyler Ulis,3,7,22,0,Pullup Jump shot,9,2,95,True
+Tyler Ulis,1,9,41,1,Pullup Jump shot,17,-127,127,True
+Tyler Ulis,4,7,13,0,Pullup Jump shot,15,-133,86,True
+Tyler Ulis,3,0,33,1,Pullup Jump shot,24,51,244,False
+Tyler Ulis,3,0,42,1,Pullup Jump shot,16,-61,153,True
+Tyler Ulis,3,3,59,1,Pullup Jump shot,7,27,75,True
+Tyler Ulis,1,9,7,0,Pullup Jump shot,13,-33,130,True
+Tyler Ulis,2,5,54,0,Pullup Jump shot,17,103,147,True
+Tyler Ulis,1,1,11,0,Pullup Jump shot,24,-102,226,False
+Tyler Ulis,3,8,19,0,Pullup Jump shot,12,-15,126,True
+Tyler Ulis,3,7,32,0,Pullup Jump shot,26,74,252,False
+Tyler Ulis,2,7,27,0,Pullup Jump shot,15,-138,78,True
+Tyler Ulis,2,4,35,1,Pullup Jump shot,13,119,57,True
+Tyler Ulis,1,10,30,0,Pullup Jump shot,17,110,130,True
+Tyler Ulis,1,0,43,1,Pullup Jump shot,17,-103,136,True
+Tyler Ulis,2,9,40,0,Pullup Jump shot,15,-152,48,True
+Tyler Ulis,3,9,33,0,Pullup Jump shot,20,-166,125,True
+Tyler Ulis,1,9,36,1,Pullup Jump shot,11,115,0,True
+Tyler Ulis,2,8,6,0,Pullup Jump shot,27,-83,260,False
+Tyler Ulis,1,5,17,0,Pullup Jump shot,18,11,185,True
+Tyler Ulis,1,8,51,1,Pullup Jump shot,13,-7,136,True
+Tyler Ulis,2,3,35,0,Pullup Jump shot,25,-148,210,False
+Tyler Ulis,2,10,6,1,Pullup Jump shot,18,-39,183,True
+Tyler Ulis,1,5,8,1,Pullup Jump shot,14,-71,127,True
+Tyler Ulis,1,6,23,0,Pullup Jump shot,25,-95,232,False
+Tyler Ulis,1,11,20,0,Pullup Jump shot,21,102,185,True
+Tyler Ulis,1,1,25,1,Pullup Jump shot,17,-120,131,True
+Tyler Ulis,4,10,50,1,Pullup Jump shot,14,-16,146,True
+Tyler Ulis,4,2,11,0,Pullup Jump shot,17,-3,175,True
+Tyler Ulis,1,4,36,0,Pullup Jump shot,19,-106,163,True
+Tyler Ulis,3,10,22,0,Pullup Jump shot,18,105,148,True
+Tyler Ulis,1,10,57,0,Pullup Jump shot,15,92,125,True
+Tyler Ulis,1,8,35,0,Pullup Jump shot,24,109,218,False
+Tyler Ulis,3,4,3,0,Pullup Jump shot,25,-119,222,False
+Tyler Ulis,1,6,36,0,Pullup Jump shot,13,17,132,True
+Tyler Ulis,1,1,28,1,Pullup Jump shot,13,-128,39,True
+Tyler Ulis,2,6,37,1,Pullup Jump shot,15,113,112,True
+Tyler Ulis,2,8,52,1,Pullup Jump shot,18,35,179,True
+Tyler Ulis,3,7,38,0,Pullup Jump shot,18,-53,180,True
+Tyler Ulis,4,1,0,1,Pullup Jump shot,12,13,127,True
+Tyler Ulis,2,2,30,0,Pullup Jump shot,18,188,-21,True
+Tyler Ulis,4,0,17,0,Pullup Jump shot,26,-163,203,False
+Tyler Ulis,2,4,48,0,Pullup Jump shot,14,-76,128,True
+Tyler Ulis,2,6,28,1,Pullup Jump shot,20,-190,65,True
+Tyler Ulis,1,10,4,0,Pullup Jump shot,11,-14,118,True
+Tyler Ulis,2,3,20,1,Pullup Jump shot,19,107,168,True
+Tyler Ulis,3,8,57,1,Pullup Jump shot,12,56,115,True
+Tyler Ulis,2,0,43,1,Pullup Jump shot,19,-82,179,True
+Tyler Ulis,2,4,34,0,Pullup Jump shot,19,86,179,True
+Tyler Ulis,3,5,39,0,Pullup Jump shot,10,105,7,True
+Tyler Ulis,2,7,28,0,Pullup Jump shot,9,-43,82,True
+Tyler Ulis,1,1,3,1,Pullup Jump shot,19,41,188,True
+Tyler Ulis,4,6,20,1,Pullup Jump shot,15,-152,22,True
+Tyler Ulis,3,9,34,0,Pullup Jump shot,14,1,148,True
+Tyler Ulis,2,8,32,1,Pullup Jump shot,12,100,69,True
+Tyler Ulis,2,1,46,1,Pullup Jump shot,25,-45,254,False
+Tyler Ulis,3,6,20,0,Pullup Jump shot,18,-65,174,True
+Tyler Ulis,1,7,29,0,Pullup Jump shot,17,-44,168,True
+Tyler Ulis,2,7,49,0,Pullup Jump shot,16,-135,98,True
+Tyler Ulis,4,8,44,0,Pullup Jump shot,17,-111,134,True
+Tyler Ulis,1,3,48,0,Pullup Jump shot,18,165,73,True
+Tyler Ulis,4,1,13,1,Pullup Jump shot,13,55,121,True
+Tyler Ulis,3,4,15,1,Pullup Jump shot,19,119,150,True
+Tyler Ulis,1,2,59,1,Pullup Jump shot,17,-11,170,True
+Tyler Ulis,2,9,52,1,Pullup Jump shot,19,-36,187,True
+Tyler Ulis,4,5,45,0,Pullup Jump shot,16,-71,152,True
+Tyler Ulis,1,10,24,0,Pullup Jump shot,18,84,168,True
+Tyler Ulis,2,6,52,0,Pullup Jump shot,15,15,152,True
+Tyler Ulis,1,0,17,1,Pullup Jump shot,14,-62,132,True
+Tyler Ulis,2,7,5,0,Pullup Jump shot,17,-125,125,True
+Tyler Ulis,3,4,9,0,Pullup Jump shot,17,116,135,True
+Tyler Ulis,2,0,3,0,Pullup Jump shot,18,-110,151,True
+Tyler Ulis,1,3,22,1,Pullup Jump shot,19,63,185,True
+Tyler Ulis,4,0,16,0,Pullup Jump shot,25,183,183,False
+Tyler Ulis,1,4,29,0,Pullup Jump shot,14,-40,138,True
+Tyler Ulis,3,2,37,0,Pullup Jump shot,21,112,181,True
+Tyler Ulis,4,6,40,1,Pullup Jump shot,14,65,127,True
+Tyler Ulis,3,1,57,0,Pullup Jump shot,29,13,291,False
+Tyler Ulis,2,9,54,0,Pullup Jump shot,16,40,157,True
+Tyler Ulis,1,5,18,0,Pullup Jump shot,17,-93,153,True
+Tyler Ulis,2,2,30,0,Pullup Jump shot,13,-54,125,True
+Tyler Ulis,4,10,31,0,Pullup Jump shot,17,146,94,True
+Tyler Ulis,2,6,50,1,Pullup Jump shot,19,35,190,True
+Tyler Ulis,1,0,30,0,Pullup Jump shot,25,-109,232,False
+Tyler Ulis,2,0,4,1,Pullup Jump shot,28,44,279,False
+Tyler Ulis,3,7,36,0,Pullup Jump shot,18,99,162,True
+Tyler Ulis,3,4,29,0,Pullup Jump shot,25,-154,200,False
+Tyler Ulis,1,5,42,1,Pullup Jump shot,12,-18,126,True
+Tyler Ulis,1,0,5,1,Pullup Jump shot,15,-112,104,True
+Tyler Ulis,4,3,49,1,Pullup Jump shot,20,-131,153,True
+Tyler Ulis,4,11,47,1,Pullup Jump shot,9,47,84,True
+Tyler Ulis,3,3,32,1,Pullup Jump shot,12,111,57,True
+Tyler Ulis,2,5,16,1,Pullup Jump shot,18,-128,137,True
+Tyler Ulis,2,2,29,0,Pullup Jump shot,18,-49,178,True
+Tyler Ulis,2,6,18,1,Pullup Jump shot,19,101,171,True
+Tyler Ulis,3,4,27,0,Pullup Jump shot,12,96,78,True
+Tyler Ulis,1,9,41,1,Pullup Jump shot,19,65,185,True
+Tyler Ulis,3,5,17,1,Pullup Jump shot,19,-105,162,True
+Tyler Ulis,4,7,12,0,Pullup Jump shot,24,149,199,False
+Tyler Ulis,2,0,12,1,Pullup Jump shot,29,-9,290,False
+Tyler Ulis,1,5,21,1,Pullup Jump shot,16,141,90,True
+Tyler Ulis,4,1,38,1,Pullup Jump shot,16,117,113,True
+Tyler Ulis,3,5,32,0,Pullup Jump shot,16,-117,114,True
+Tyler Ulis,3,7,33,1,Pullup Jump shot,13,-106,82,True
+Tyler Ulis,1,7,53,0,Pullup Jump shot,12,51,115,True
+Tyler Ulis,4,10,10,0,Pullup Jump shot,25,138,211,False
+Tyler Ulis,4,9,2,1,Pullup Jump shot,16,-5,168,True
+Tyler Ulis,3,7,48,0,Pullup Jump shot,16,-5,168,True
+Tyler Ulis,2,0,58,1,Pullup Jump shot,25,135,218,False
+Tyler Ulis,4,3,41,0,Pullup Jump shot,16,-107,126,True
+Tyler Ulis,4,3,14,0,Pullup Jump shot,25,85,243,False
+Tyler Ulis,3,1,58,1,Pullup Jump shot,18,46,176,True
+Tyler Ulis,4,7,2,0,Pullup Jump shot,13,-114,78,True
+Tyler Ulis,3,0,50,1,Pullup Jump shot,19,-60,184,True
+Tyler Ulis,1,3,26,0,Pullup Jump shot,25,-144,205,False
+Tyler Ulis,4,3,31,0,Pullup Jump shot,18,126,141,True
+Tyler Ulis,2,10,12,0,Pullup Jump shot,16,94,138,True
+Tyler Ulis,3,2,20,0,Pullup Jump shot,17,-125,127,True
+Tyler Ulis,3,8,53,1,Pullup Jump shot,17,-140,100,True
+Tyler Ulis,1,9,47,0,Pullup Jump shot,15,-138,68,True
+Tyler Ulis,4,11,30,1,Running Jump Shot,8,68,47,True
+Tyler Ulis,4,7,24,0,Running Jump Shot,9,0,90,True
+Tyler Ulis,4,0,13,1,Running Jump Shot,27,-213,180,False
+Tyler Ulis,3,0,55,1,Running Jump Shot,26,-130,230,False
+Tyler Ulis,3,4,42,0,Running Layup Shot,1,-5,12,True
+Tyler Ulis,2,5,19,0,Running Layup Shot,1,5,10,True
+Tyler Ulis,2,3,21,1,Running Layup Shot,3,7,34,True
+Tyler Ulis,2,7,37,0,Running Layup Shot,4,-5,42,True
+Tyler Ulis,3,4,43,1,Running Layup Shot,1,13,6,True
+Tyler Ulis,2,0,1,0,Running Layup Shot,3,13,31,True
+Tyler Ulis,2,5,32,1,Running Layup Shot,7,57,54,True
+Tyler Ulis,3,5,28,0,Running Layup Shot,2,25,16,True
+Tyler Ulis,2,9,27,0,Running Pull-Up Jump Shot,13,64,122,True
+Tyler Ulis,1,6,12,1,Running Pull-Up Jump Shot,25,78,246,False
+Tyler Ulis,2,0,2,0,Running Pull-Up Jump Shot,26,-144,226,False
+Tyler Ulis,4,0,4,0,Running Pull-Up Jump Shot,26,187,193,False
+Tyler Ulis,1,4,53,1,Running Pull-Up Jump Shot,10,80,62,True
+Tyler Ulis,4,0,56,1,Running Pull-Up Jump Shot,18,106,147,True
+Tyler Ulis,4,0,12,0,Running Pull-Up Jump Shot,25,-38,257,False
+Tyler Ulis,1,6,6,1,Running Pull-Up Jump Shot,18,-163,95,True
+Tyler Ulis,4,6,28,0,Running Pull-Up Jump Shot,24,-185,166,False
+Tyler Ulis,2,3,38,0,Running Pull-Up Jump Shot,25,140,209,False
+Tyler Ulis,4,4,37,1,Step Back Bank Jump Shot,11,-101,55,True
+Tyler Ulis,4,0,19,1,Step Back Jump shot,15,100,117,True
+Tyler Ulis,3,0,23,1,Step Back Jump shot,16,-31,167,True
+Tyler Ulis,2,5,49,0,Step Back Jump shot,18,98,158,True
+Tyler Ulis,1,7,1,0,Step Back Jump shot,16,119,109,True
+Tyler Ulis,3,6,14,1,Step Back Jump shot,14,-9,146,True
+Tyler Ulis,3,7,2,0,Step Back Jump shot,17,158,74,True
+Tyler Ulis,4,6,21,0,Step Back Jump shot,17,-65,166,True
+Tyler Ulis,1,7,12,0,Step Back Jump shot,10,41,92,True
+Tyler Ulis,2,2,5,0,Step Back Jump shot,25,187,178,False
+Tyler Ulis,2,9,13,1,Step Back Jump shot,19,-29,188,True
+Tyler Ulis,4,4,23,0,Step Back Jump shot,15,-27,156,True
+Tyler Ulis,4,5,48,0,Step Back Jump shot,18,-166,75,True
+Tyler Ulis,1,8,31,0,Step Back Jump shot,27,-191,198,False
+Tyler Ulis,4,6,42,1,Step Back Jump shot,24,-86,229,False
+Tyler Ulis,4,9,16,1,Step Back Jump shot,11,-7,116,True
+Tyler Ulis,3,0,0,1,Step Back Jump shot,19,85,172,True
+Tyler Ulis,2,8,54,0,Step Back Jump shot,17,88,157,True
+Tyler Ulis,3,7,34,1,Step Back Jump shot,17,-9,173,True
+Tyler Ulis,2,7,22,0,Turnaround Jump Shot,13,113,80,True
+Tyler Ulis,1,0,4,0,Turnaround Jump Shot,11,24,111,True
+Tyler Ulis,3,0,4,0,Turnaround Jump Shot,10,-106,13,True
+Tyler Ulis,3,0,2,0,Turnaround Jump Shot,21,-201,68,True
+Tyler Ulis,4,5,16,1,Turnaround Jump Shot,10,-88,53,True

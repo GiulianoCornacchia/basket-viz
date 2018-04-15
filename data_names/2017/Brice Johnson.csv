@@ -1,0 +1,37 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Brice Johnson,4,0,12,1,Cutting Dunk Shot,2,-18,10,True
+Brice Johnson,4,9,17,1,Cutting Finger Roll Layup Shot,3,-2,30,True
+Brice Johnson,3,2,33,1,Cutting Layup Shot,1,-8,8,True
+Brice Johnson,4,0,38,1,Cutting Layup Shot,1,11,10,True
+Brice Johnson,4,1,19,1,Driving Layup Shot,2,17,20,True
+Brice Johnson,3,1,4,1,Driving Layup Shot,2,-12,17,True
+Brice Johnson,2,10,57,1,Dunk Shot,0,0,0,True
+Brice Johnson,3,1,0,0,Hook Shot,8,23,82,True
+Brice Johnson,4,4,47,0,Hook Shot,3,-20,32,True
+Brice Johnson,4,3,46,0,Jump Shot,19,-160,116,True
+Brice Johnson,2,4,18,0,Jump Shot,19,151,121,True
+Brice Johnson,4,3,23,1,Jump Shot,18,-142,118,True
+Brice Johnson,4,5,16,0,Jump Shot,21,90,191,True
+Brice Johnson,2,6,10,0,Jump Shot,21,35,210,True
+Brice Johnson,4,4,10,0,Jump Shot,8,-65,51,True
+Brice Johnson,4,4,40,1,Jump Shot,19,5,197,True
+Brice Johnson,4,2,55,1,Jump Shot,17,59,163,True
+Brice Johnson,1,1,39,1,Jump Shot,15,155,-1,True
+Brice Johnson,4,10,24,0,Jump Shot,22,32,226,True
+Brice Johnson,3,0,49,0,Jump Shot,21,22,210,True
+Brice Johnson,3,3,23,0,Jump Shot,18,5,189,True
+Brice Johnson,1,2,36,0,Jump Shot,15,23,151,True
+Brice Johnson,2,11,18,0,Jump Shot,20,157,136,True
+Brice Johnson,4,1,20,1,Layup Shot,3,5,32,True
+Brice Johnson,2,3,54,0,Layup Shot,5,47,21,True
+Brice Johnson,2,2,22,0,Layup Shot,5,-52,7,True
+Brice Johnson,2,2,11,1,Layup Shot,4,31,26,True
+Brice Johnson,3,1,42,0,Layup Shot,4,-30,36,True
+Brice Johnson,3,1,42,0,Layup Shot,2,12,19,True
+Brice Johnson,4,1,31,0,Layup Shot,2,-25,5,True
+Brice Johnson,4,9,46,0,Layup Shot,1,-10,16,True
+Brice Johnson,4,4,47,0,Pullup Jump shot,25,-12,254,False
+Brice Johnson,4,10,20,1,Putback Layup Shot,2,1,22,True
+Brice Johnson,4,0,10,1,Putback Layup Shot,0,0,-6,True
+Brice Johnson,4,1,27,0,Tip Layup Shot,0,0,-6,True
+Brice Johnson,4,5,58,1,Turnaround Jump Shot,11,-3,116,True

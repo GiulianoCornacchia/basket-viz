@@ -1,0 +1,1084 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+KarlAnthony Towns,2,1,46,1,Alley Oop Dunk Shot,3,20,26,True
+KarlAnthony Towns,2,7,18,1,Alley Oop Dunk Shot,2,19,22,True
+KarlAnthony Towns,4,6,6,1,Alley Oop Dunk Shot,1,-2,14,True
+KarlAnthony Towns,4,2,0,1,Alley Oop Dunk Shot,0,-2,7,True
+KarlAnthony Towns,1,7,15,1,Alley Oop Dunk Shot,1,-10,14,True
+KarlAnthony Towns,3,2,57,1,Alley Oop Layup shot,1,-5,14,True
+KarlAnthony Towns,2,4,21,1,Alley Oop Layup shot,1,-1,15,True
+KarlAnthony Towns,2,11,33,1,Alley Oop Layup shot,2,11,20,True
+KarlAnthony Towns,4,3,9,1,Cutting Dunk Shot,0,-5,4,True
+KarlAnthony Towns,2,8,25,0,Cutting Dunk Shot,3,-24,31,True
+KarlAnthony Towns,3,8,16,1,Cutting Dunk Shot,1,-3,16,True
+KarlAnthony Towns,2,4,57,1,Cutting Dunk Shot,1,6,17,True
+KarlAnthony Towns,3,8,36,0,Cutting Dunk Shot,4,9,45,True
+KarlAnthony Towns,3,8,42,1,Cutting Dunk Shot,0,5,3,True
+KarlAnthony Towns,2,6,16,1,Cutting Dunk Shot,0,-2,6,True
+KarlAnthony Towns,3,9,1,1,Cutting Dunk Shot,1,-3,10,True
+KarlAnthony Towns,2,4,33,1,Cutting Dunk Shot,1,-8,15,True
+KarlAnthony Towns,1,4,41,1,Cutting Dunk Shot,0,-2,8,True
+KarlAnthony Towns,2,0,42,1,Cutting Dunk Shot,0,0,3,True
+KarlAnthony Towns,1,6,31,1,Cutting Dunk Shot,1,13,-4,True
+KarlAnthony Towns,3,5,32,1,Cutting Dunk Shot,0,4,1,True
+KarlAnthony Towns,4,0,39,1,Cutting Dunk Shot,0,-2,-3,True
+KarlAnthony Towns,2,7,16,1,Cutting Dunk Shot,0,5,0,True
+KarlAnthony Towns,4,8,19,1,Cutting Dunk Shot,1,6,11,True
+KarlAnthony Towns,1,6,41,1,Cutting Dunk Shot,3,-24,21,True
+KarlAnthony Towns,1,9,21,1,Cutting Dunk Shot,0,3,9,True
+KarlAnthony Towns,4,2,3,1,Cutting Dunk Shot,3,10,33,True
+KarlAnthony Towns,4,6,21,1,Cutting Dunk Shot,0,9,4,True
+KarlAnthony Towns,1,4,3,1,Cutting Dunk Shot,1,-3,11,True
+KarlAnthony Towns,3,6,47,1,Cutting Dunk Shot,0,-6,1,True
+KarlAnthony Towns,2,4,40,1,Cutting Dunk Shot,0,-3,-8,True
+KarlAnthony Towns,1,11,46,1,Cutting Dunk Shot,0,3,5,True
+KarlAnthony Towns,2,7,40,1,Cutting Dunk Shot,0,0,-1,True
+KarlAnthony Towns,4,3,58,1,Cutting Dunk Shot,0,2,8,True
+KarlAnthony Towns,2,2,43,1,Cutting Finger Roll Layup Shot,1,12,8,True
+KarlAnthony Towns,2,8,30,1,Cutting Finger Roll Layup Shot,2,2,20,True
+KarlAnthony Towns,2,6,0,1,Cutting Finger Roll Layup Shot,3,28,26,True
+KarlAnthony Towns,4,11,48,1,Cutting Finger Roll Layup Shot,1,0,18,True
+KarlAnthony Towns,2,7,11,1,Cutting Layup Shot,0,-5,-2,True
+KarlAnthony Towns,2,4,3,1,Cutting Layup Shot,1,1,15,True
+KarlAnthony Towns,4,8,6,1,Cutting Layup Shot,1,-12,11,True
+KarlAnthony Towns,3,4,10,0,Cutting Layup Shot,7,10,75,True
+KarlAnthony Towns,3,9,51,1,Cutting Layup Shot,0,4,6,True
+KarlAnthony Towns,3,7,13,1,Cutting Layup Shot,0,-3,7,True
+KarlAnthony Towns,4,10,54,1,Cutting Layup Shot,4,6,46,True
+KarlAnthony Towns,1,7,7,1,Cutting Layup Shot,1,-3,10,True
+KarlAnthony Towns,1,5,5,1,Cutting Layup Shot,6,-32,59,True
+KarlAnthony Towns,1,9,20,1,Cutting Layup Shot,1,-9,10,True
+KarlAnthony Towns,1,8,57,1,Cutting Layup Shot,1,5,17,True
+KarlAnthony Towns,2,2,38,1,Cutting Layup Shot,1,-11,15,True
+KarlAnthony Towns,4,8,44,1,Cutting Layup Shot,0,1,4,True
+KarlAnthony Towns,1,9,8,1,Cutting Layup Shot,3,-30,21,True
+KarlAnthony Towns,4,9,10,0,Cutting Layup Shot,1,19,4,True
+KarlAnthony Towns,3,9,22,0,Cutting Layup Shot,3,30,26,True
+KarlAnthony Towns,1,9,46,1,Cutting Layup Shot,1,5,15,True
+KarlAnthony Towns,2,5,13,1,Cutting Layup Shot,0,-2,0,True
+KarlAnthony Towns,4,4,38,1,Cutting Layup Shot,0,4,-4,True
+KarlAnthony Towns,2,6,12,0,Cutting Layup Shot,1,-10,16,True
+KarlAnthony Towns,2,0,43,1,Cutting Layup Shot,2,17,16,True
+KarlAnthony Towns,3,7,27,1,Cutting Layup Shot,1,6,11,True
+KarlAnthony Towns,3,6,56,1,Cutting Layup Shot,0,1,6,True
+KarlAnthony Towns,2,9,25,0,Cutting Layup Shot,2,-2,28,True
+KarlAnthony Towns,2,6,47,1,Cutting Layup Shot,2,19,12,True
+KarlAnthony Towns,3,5,0,1,Cutting Layup Shot,1,14,9,True
+KarlAnthony Towns,2,9,44,0,Cutting Layup Shot,3,31,2,True
+KarlAnthony Towns,4,5,39,0,Cutting Layup Shot,2,26,1,True
+KarlAnthony Towns,3,2,58,0,Cutting Layup Shot,1,4,18,True
+KarlAnthony Towns,2,6,13,1,Cutting Layup Shot,0,-5,-3,True
+KarlAnthony Towns,2,10,51,1,Cutting Layup Shot,1,14,6,True
+KarlAnthony Towns,4,8,23,1,Cutting Layup Shot,2,-5,27,True
+KarlAnthony Towns,3,8,21,1,Cutting Layup Shot,0,1,8,True
+KarlAnthony Towns,2,6,40,1,Cutting Layup Shot,2,-22,13,True
+KarlAnthony Towns,2,8,1,1,Cutting Layup Shot,0,7,1,True
+KarlAnthony Towns,2,7,31,1,Cutting Layup Shot,2,5,20,True
+KarlAnthony Towns,3,5,32,0,Cutting Layup Shot,1,2,18,True
+KarlAnthony Towns,3,11,20,1,Cutting Layup Shot,0,-2,6,True
+KarlAnthony Towns,3,9,38,0,Cutting Layup Shot,1,2,10,True
+KarlAnthony Towns,4,6,29,1,Cutting Layup Shot,1,-5,15,True
+KarlAnthony Towns,4,10,7,1,Cutting Layup Shot,1,0,18,True
+KarlAnthony Towns,3,5,40,0,Driving Dunk Shot,2,-5,20,True
+KarlAnthony Towns,1,8,1,1,Driving Dunk Shot,1,12,9,True
+KarlAnthony Towns,4,7,48,1,Driving Dunk Shot,1,-5,18,True
+KarlAnthony Towns,3,5,33,1,Driving Dunk Shot,1,-13,-1,True
+KarlAnthony Towns,1,8,32,0,Driving Dunk Shot,0,1,8,True
+KarlAnthony Towns,3,5,26,0,Driving Dunk Shot,0,-2,2,True
+KarlAnthony Towns,2,7,12,1,Driving Dunk Shot,0,-2,-4,True
+KarlAnthony Towns,3,9,19,1,Driving Dunk Shot,0,-3,1,True
+KarlAnthony Towns,2,3,10,1,Driving Dunk Shot,1,13,10,True
+KarlAnthony Towns,2,10,32,1,Driving Dunk Shot,1,3,17,True
+KarlAnthony Towns,4,8,56,1,Driving Dunk Shot,1,-11,8,True
+KarlAnthony Towns,4,3,8,0,Driving Dunk Shot,3,-2,37,True
+KarlAnthony Towns,2,1,2,1,Driving Dunk Shot,1,-4,-11,True
+KarlAnthony Towns,1,10,58,1,Driving Dunk Shot,1,-3,11,True
+KarlAnthony Towns,2,7,28,1,Driving Dunk Shot,1,5,17,True
+KarlAnthony Towns,3,9,32,1,Driving Dunk Shot,1,5,12,True
+KarlAnthony Towns,4,4,24,1,Driving Dunk Shot,2,4,20,True
+KarlAnthony Towns,4,5,53,1,Driving Dunk Shot,0,0,6,True
+KarlAnthony Towns,3,8,18,1,Driving Dunk Shot,1,10,4,True
+KarlAnthony Towns,1,4,41,1,Driving Dunk Shot,2,0,20,True
+KarlAnthony Towns,4,3,31,1,Driving Dunk Shot,0,4,7,True
+KarlAnthony Towns,3,3,38,0,Driving Finger Roll Layup Shot,1,-13,13,True
+KarlAnthony Towns,1,10,17,0,Driving Finger Roll Layup Shot,3,-22,32,True
+KarlAnthony Towns,4,9,28,0,Driving Finger Roll Layup Shot,2,16,21,True
+KarlAnthony Towns,3,10,6,1,Driving Finger Roll Layup Shot,1,-11,5,True
+KarlAnthony Towns,2,2,32,1,Driving Finger Roll Layup Shot,2,20,11,True
+KarlAnthony Towns,2,10,57,1,Driving Floating Bank Jump Shot,5,43,31,True
+KarlAnthony Towns,2,1,52,1,Driving Floating Bank Jump Shot,6,52,31,True
+KarlAnthony Towns,1,3,40,0,Driving Floating Bank Jump Shot,1,19,6,True
+KarlAnthony Towns,3,7,32,1,Driving Floating Bank Jump Shot,2,20,5,True
+KarlAnthony Towns,2,0,50,0,Driving Floating Bank Jump Shot,3,-11,30,True
+KarlAnthony Towns,1,10,14,1,Driving Floating Bank Jump Shot,3,27,26,True
+KarlAnthony Towns,3,8,16,1,Driving Floating Jump Shot,10,-71,71,True
+KarlAnthony Towns,2,7,5,0,Driving Floating Jump Shot,4,-5,42,True
+KarlAnthony Towns,3,5,9,1,Driving Floating Jump Shot,9,-58,76,True
+KarlAnthony Towns,1,10,6,0,Driving Floating Jump Shot,6,0,63,True
+KarlAnthony Towns,4,0,9,1,Driving Floating Jump Shot,8,39,72,True
+KarlAnthony Towns,3,6,24,0,Driving Floating Jump Shot,5,0,55,True
+KarlAnthony Towns,3,8,41,1,Driving Floating Jump Shot,4,-41,6,True
+KarlAnthony Towns,1,6,35,1,Driving Floating Jump Shot,2,1,24,True
+KarlAnthony Towns,1,11,27,0,Driving Floating Jump Shot,5,-54,8,True
+KarlAnthony Towns,2,1,30,1,Driving Floating Jump Shot,11,-109,21,True
+KarlAnthony Towns,2,6,33,0,Driving Hook Shot,4,-9,40,True
+KarlAnthony Towns,1,11,19,1,Driving Hook Shot,7,7,73,True
+KarlAnthony Towns,2,0,23,1,Driving Hook Shot,4,9,47,True
+KarlAnthony Towns,3,10,52,0,Driving Hook Shot,4,-1,42,True
+KarlAnthony Towns,1,9,36,1,Driving Hook Shot,14,-46,134,True
+KarlAnthony Towns,1,6,41,1,Driving Layup Shot,1,16,4,True
+KarlAnthony Towns,2,5,57,1,Driving Layup Shot,0,-3,9,True
+KarlAnthony Towns,3,5,43,0,Driving Layup Shot,3,-30,15,True
+KarlAnthony Towns,1,8,38,1,Driving Layup Shot,4,2,42,True
+KarlAnthony Towns,3,10,27,1,Driving Layup Shot,1,-2,16,True
+KarlAnthony Towns,4,8,28,0,Driving Layup Shot,0,-7,5,True
+KarlAnthony Towns,1,9,20,0,Driving Layup Shot,1,10,7,True
+KarlAnthony Towns,2,2,35,1,Driving Layup Shot,0,5,6,True
+KarlAnthony Towns,3,8,36,0,Driving Layup Shot,1,-11,-10,True
+KarlAnthony Towns,2,6,25,0,Driving Layup Shot,2,17,24,True
+KarlAnthony Towns,3,9,15,1,Driving Layup Shot,1,10,0,True
+KarlAnthony Towns,1,5,23,1,Driving Layup Shot,2,26,5,True
+KarlAnthony Towns,4,2,45,1,Driving Layup Shot,2,-4,21,True
+KarlAnthony Towns,3,8,56,0,Driving Layup Shot,2,20,9,True
+KarlAnthony Towns,4,2,54,0,Driving Layup Shot,1,9,7,True
+KarlAnthony Towns,1,10,20,1,Driving Layup Shot,2,-2,21,True
+KarlAnthony Towns,2,4,58,0,Driving Layup Shot,1,-13,-3,True
+KarlAnthony Towns,4,8,5,1,Driving Layup Shot,0,-5,5,True
+KarlAnthony Towns,1,5,14,0,Driving Layup Shot,2,17,17,True
+KarlAnthony Towns,2,6,1,1,Driving Layup Shot,0,-5,3,True
+KarlAnthony Towns,4,1,17,0,Driving Layup Shot,1,-3,10,True
+KarlAnthony Towns,3,10,36,1,Driving Layup Shot,0,4,4,True
+KarlAnthony Towns,3,3,52,0,Driving Layup Shot,7,-71,10,True
+KarlAnthony Towns,2,2,57,0,Driving Layup Shot,9,94,27,True
+KarlAnthony Towns,1,7,37,1,Driving Layup Shot,1,17,0,True
+KarlAnthony Towns,4,11,1,1,Driving Layup Shot,4,-43,5,True
+KarlAnthony Towns,4,10,24,0,Driving Layup Shot,1,8,13,True
+KarlAnthony Towns,2,8,17,0,Driving Layup Shot,2,11,21,True
+KarlAnthony Towns,4,3,33,1,Driving Layup Shot,1,9,13,True
+KarlAnthony Towns,4,4,40,0,Driving Layup Shot,0,-3,6,True
+KarlAnthony Towns,4,1,50,1,Driving Layup Shot,2,-11,21,True
+KarlAnthony Towns,1,9,25,1,Driving Layup Shot,1,-9,9,True
+KarlAnthony Towns,3,5,0,0,Driving Layup Shot,3,8,38,True
+KarlAnthony Towns,2,3,20,1,Driving Layup Shot,1,-2,15,True
+KarlAnthony Towns,4,4,56,0,Driving Layup Shot,0,-7,7,True
+KarlAnthony Towns,2,8,31,0,Driving Layup Shot,1,-17,1,True
+KarlAnthony Towns,3,11,50,1,Driving Layup Shot,0,4,6,True
+KarlAnthony Towns,4,11,32,1,Driving Layup Shot,2,14,22,True
+KarlAnthony Towns,4,1,16,0,Driving Layup Shot,3,-2,36,True
+KarlAnthony Towns,3,9,22,0,Driving Layup Shot,3,22,21,True
+KarlAnthony Towns,2,7,52,1,Driving Layup Shot,1,-11,-7,True
+KarlAnthony Towns,4,4,42,1,Driving Layup Shot,1,8,10,True
+KarlAnthony Towns,2,2,24,1,Driving Layup Shot,1,16,10,True
+KarlAnthony Towns,3,6,27,0,Driving Layup Shot,1,3,17,True
+KarlAnthony Towns,4,1,51,1,Driving Layup Shot,5,-2,59,True
+KarlAnthony Towns,4,7,4,0,Driving Layup Shot,1,-13,5,True
+KarlAnthony Towns,1,6,57,0,Driving Layup Shot,2,3,21,True
+KarlAnthony Towns,3,11,16,1,Driving Layup Shot,1,-8,12,True
+KarlAnthony Towns,3,4,28,1,Driving Layup Shot,4,32,27,True
+KarlAnthony Towns,1,3,10,1,Driving Layup Shot,2,-16,13,True
+KarlAnthony Towns,1,5,50,0,Driving Layup Shot,2,23,10,True
+KarlAnthony Towns,4,6,11,0,Driving Layup Shot,3,35,6,True
+KarlAnthony Towns,1,9,48,1,Driving Layup Shot,0,8,5,True
+KarlAnthony Towns,3,4,54,0,Driving Layup Shot,2,-4,20,True
+KarlAnthony Towns,4,8,49,1,Driving Layup Shot,1,14,8,True
+KarlAnthony Towns,3,11,37,0,Driving Layup Shot,4,-35,22,True
+KarlAnthony Towns,1,4,9,0,Driving Layup Shot,1,-3,13,True
+KarlAnthony Towns,3,11,34,1,Driving Layup Shot,1,-19,6,True
+KarlAnthony Towns,3,8,44,1,Driving Layup Shot,1,15,7,True
+KarlAnthony Towns,4,5,13,0,Driving Layup Shot,2,22,11,True
+KarlAnthony Towns,2,9,18,1,Driving Layup Shot,0,-4,5,True
+KarlAnthony Towns,3,6,2,0,Driving Layup Shot,1,0,18,True
+KarlAnthony Towns,2,2,13,1,Driving Layup Shot,0,-3,3,True
+KarlAnthony Towns,3,7,56,1,Driving Layup Shot,1,-2,10,True
+KarlAnthony Towns,1,4,45,1,Driving Layup Shot,1,6,10,True
+KarlAnthony Towns,1,7,13,1,Driving Layup Shot,1,3,19,True
+KarlAnthony Towns,1,7,16,0,Driving Layup Shot,5,-15,58,True
+KarlAnthony Towns,4,11,3,1,Driving Layup Shot,1,-13,3,True
+KarlAnthony Towns,4,8,19,1,Driving Layup Shot,2,-20,13,True
+KarlAnthony Towns,2,1,40,0,Driving Layup Shot,2,-27,9,True
+KarlAnthony Towns,4,9,15,1,Driving Layup Shot,2,10,25,True
+KarlAnthony Towns,2,10,13,1,Driving Layup Shot,0,-3,8,True
+KarlAnthony Towns,4,9,9,1,Driving Layup Shot,1,-2,10,True
+KarlAnthony Towns,4,9,48,0,Driving Layup Shot,2,1,26,True
+KarlAnthony Towns,1,9,28,0,Driving Layup Shot,0,-3,-1,True
+KarlAnthony Towns,2,7,6,1,Driving Layup Shot,2,-2,20,True
+KarlAnthony Towns,4,8,52,0,Driving Layup Shot,1,-7,15,True
+KarlAnthony Towns,3,8,38,0,Driving Reverse Layup Shot,1,-2,16,True
+KarlAnthony Towns,1,11,41,1,Dunk Shot,0,0,9,True
+KarlAnthony Towns,4,8,21,1,Dunk Shot,1,-11,13,True
+KarlAnthony Towns,4,0,6,1,Dunk Shot,1,5,18,True
+KarlAnthony Towns,2,9,24,1,Dunk Shot,1,0,11,True
+KarlAnthony Towns,3,6,9,1,Dunk Shot,0,-5,4,True
+KarlAnthony Towns,2,4,48,1,Dunk Shot,0,-5,8,True
+KarlAnthony Towns,4,11,0,1,Dunk Shot,0,6,-2,True
+KarlAnthony Towns,1,10,53,1,Dunk Shot,1,-11,3,True
+KarlAnthony Towns,4,6,1,1,Dunk Shot,0,2,4,True
+KarlAnthony Towns,1,7,0,1,Dunk Shot,0,-2,9,True
+KarlAnthony Towns,3,5,23,1,Dunk Shot,1,-7,16,True
+KarlAnthony Towns,2,7,27,1,Dunk Shot,2,2,21,True
+KarlAnthony Towns,1,8,53,1,Dunk Shot,1,11,11,True
+KarlAnthony Towns,4,9,37,1,Dunk Shot,2,-24,6,True
+KarlAnthony Towns,3,9,22,0,Dunk Shot,1,-5,17,True
+KarlAnthony Towns,4,8,54,1,Dunk Shot,1,-6,12,True
+KarlAnthony Towns,3,3,17,0,Dunk Shot,0,6,4,True
+KarlAnthony Towns,4,10,22,1,Dunk Shot,1,-5,11,True
+KarlAnthony Towns,2,0,31,0,Dunk Shot,1,12,10,True
+KarlAnthony Towns,1,10,27,1,Dunk Shot,1,6,10,True
+KarlAnthony Towns,2,4,27,1,Dunk Shot,1,0,12,True
+KarlAnthony Towns,4,1,23,0,Dunk Shot,4,1,42,True
+KarlAnthony Towns,2,5,5,1,Dunk Shot,1,12,4,True
+KarlAnthony Towns,3,10,11,0,Dunk Shot,2,29,-5,True
+KarlAnthony Towns,2,6,16,1,Dunk Shot,0,0,-7,True
+KarlAnthony Towns,1,9,31,1,Dunk Shot,1,6,8,True
+KarlAnthony Towns,2,2,30,0,Dunk Shot,1,-8,17,True
+KarlAnthony Towns,4,6,19,1,Dunk Shot,0,2,6,True
+KarlAnthony Towns,3,2,21,1,Dunk Shot,1,8,6,True
+KarlAnthony Towns,4,10,1,1,Dunk Shot,1,-2,16,True
+KarlAnthony Towns,2,11,23,0,Dunk Shot,0,-4,8,True
+KarlAnthony Towns,3,5,37,1,Dunk Shot,1,-2,12,True
+KarlAnthony Towns,2,0,42,1,Fadeaway Jump Shot,11,111,15,True
+KarlAnthony Towns,3,7,29,0,Fadeaway Jump Shot,21,-179,116,True
+KarlAnthony Towns,2,8,2,1,Fadeaway Jump Shot,13,125,41,True
+KarlAnthony Towns,1,10,44,0,Fadeaway Jump Shot,13,-130,10,True
+KarlAnthony Towns,1,4,13,0,Fadeaway Jump Shot,8,81,4,True
+KarlAnthony Towns,2,4,46,0,Fadeaway Jump Shot,11,110,16,True
+KarlAnthony Towns,2,7,40,1,Fadeaway Jump Shot,14,0,145,True
+KarlAnthony Towns,2,3,11,0,Fadeaway Jump Shot,12,121,26,True
+KarlAnthony Towns,3,4,35,0,Fadeaway Jump Shot,14,130,52,True
+KarlAnthony Towns,2,7,55,0,Fadeaway Jump Shot,12,-128,-5,True
+KarlAnthony Towns,3,4,27,1,Fadeaway Jump Shot,15,-121,100,True
+KarlAnthony Towns,1,2,36,0,Fadeaway Jump Shot,12,128,11,True
+KarlAnthony Towns,1,1,31,0,Fadeaway Jump Shot,17,-169,52,True
+KarlAnthony Towns,4,3,5,0,Fadeaway Jump Shot,18,-79,166,True
+KarlAnthony Towns,1,11,45,0,Fadeaway Jump Shot,14,136,41,True
+KarlAnthony Towns,4,7,14,0,Finger Roll Layup Shot,2,13,21,True
+KarlAnthony Towns,2,10,6,1,Finger Roll Layup Shot,1,8,8,True
+KarlAnthony Towns,3,9,46,1,Finger Roll Layup Shot,1,-1,12,True
+KarlAnthony Towns,1,6,21,0,Floating Jump shot,5,-24,52,True
+KarlAnthony Towns,4,8,1,1,Floating Jump shot,5,-50,6,True
+KarlAnthony Towns,4,0,32,1,Floating Jump shot,8,-7,85,True
+KarlAnthony Towns,2,4,59,1,Floating Jump shot,7,-12,78,True
+KarlAnthony Towns,2,1,27,1,Floating Jump shot,5,14,53,True
+KarlAnthony Towns,2,0,0,1,Floating Jump shot,10,-60,85,True
+KarlAnthony Towns,3,4,34,1,Floating Jump shot,9,-7,95,True
+KarlAnthony Towns,1,6,48,0,Floating Jump shot,5,-36,45,True
+KarlAnthony Towns,3,7,57,0,Floating Jump shot,7,-72,27,True
+KarlAnthony Towns,1,6,15,0,Floating Jump shot,12,-109,63,True
+KarlAnthony Towns,1,7,5,1,Floating Jump shot,1,-2,14,True
+KarlAnthony Towns,2,5,33,1,Hook Bank Shot,4,14,40,True
+KarlAnthony Towns,4,8,31,0,Hook Bank Shot,7,76,13,True
+KarlAnthony Towns,1,11,42,0,Hook Shot,8,-29,79,True
+KarlAnthony Towns,2,2,30,1,Hook Shot,7,-55,48,True
+KarlAnthony Towns,3,10,40,1,Hook Shot,6,54,43,True
+KarlAnthony Towns,3,6,27,1,Hook Shot,5,-32,42,True
+KarlAnthony Towns,1,9,18,1,Hook Shot,6,-1,65,True
+KarlAnthony Towns,2,6,30,1,Hook Shot,2,0,25,True
+KarlAnthony Towns,3,4,48,1,Hook Shot,4,-8,44,True
+KarlAnthony Towns,2,5,6,1,Hook Shot,8,-7,83,True
+KarlAnthony Towns,2,5,48,1,Hook Shot,5,0,50,True
+KarlAnthony Towns,3,9,43,1,Hook Shot,1,-10,13,True
+KarlAnthony Towns,4,5,6,1,Hook Shot,5,-47,22,True
+KarlAnthony Towns,2,0,50,1,Hook Shot,4,41,5,True
+KarlAnthony Towns,1,11,46,0,Hook Shot,6,56,31,True
+KarlAnthony Towns,3,11,25,0,Hook Shot,4,-41,20,True
+KarlAnthony Towns,2,6,32,0,Hook Shot,6,62,10,True
+KarlAnthony Towns,1,8,52,0,Hook Shot,7,76,13,True
+KarlAnthony Towns,3,8,28,0,Hook Shot,7,-66,28,True
+KarlAnthony Towns,1,5,46,1,Hook Shot,9,-79,46,True
+KarlAnthony Towns,3,11,47,0,Hook Shot,5,21,48,True
+KarlAnthony Towns,2,4,33,1,Hook Shot,1,2,14,True
+KarlAnthony Towns,2,5,54,1,Hook Shot,6,-55,40,True
+KarlAnthony Towns,2,1,50,1,Hook Shot,3,24,21,True
+KarlAnthony Towns,3,4,10,1,Hook Shot,5,-4,56,True
+KarlAnthony Towns,5,4,40,0,Hook Shot,11,111,-21,True
+KarlAnthony Towns,1,10,25,1,Hook Shot,3,-5,30,True
+KarlAnthony Towns,2,8,47,0,Hook Shot,5,1,56,True
+KarlAnthony Towns,2,7,19,1,Hook Shot,12,-95,79,True
+KarlAnthony Towns,4,11,42,0,Hook Shot,8,-6,80,True
+KarlAnthony Towns,4,2,43,0,Hook Shot,6,60,10,True
+KarlAnthony Towns,1,8,4,1,Hook Shot,5,9,53,True
+KarlAnthony Towns,4,4,37,1,Hook Shot,5,0,50,True
+KarlAnthony Towns,1,11,45,0,Hook Shot,7,5,74,True
+KarlAnthony Towns,4,3,17,1,Hook Shot,2,-11,22,True
+KarlAnthony Towns,3,11,33,1,Hook Shot,3,-28,15,True
+KarlAnthony Towns,1,10,8,0,Hook Shot,8,-29,80,True
+KarlAnthony Towns,1,11,18,1,Hook Shot,6,60,16,True
+KarlAnthony Towns,1,5,58,0,Hook Shot,5,-30,41,True
+KarlAnthony Towns,1,4,45,1,Hook Shot,6,-38,58,True
+KarlAnthony Towns,4,5,4,0,Hook Shot,5,29,50,True
+KarlAnthony Towns,2,7,34,0,Hook Shot,6,-23,65,True
+KarlAnthony Towns,2,11,33,1,Hook Shot,11,-96,58,True
+KarlAnthony Towns,2,3,7,1,Hook Shot,6,18,65,True
+KarlAnthony Towns,1,7,41,1,Hook Shot,2,-2,21,True
+KarlAnthony Towns,3,11,3,1,Hook Shot,4,2,47,True
+KarlAnthony Towns,2,7,54,1,Hook Shot,13,128,49,True
+KarlAnthony Towns,1,4,8,0,Hook Shot,9,93,16,True
+KarlAnthony Towns,1,3,20,1,Hook Shot,5,-2,59,True
+KarlAnthony Towns,2,6,44,1,Hook Shot,6,16,60,True
+KarlAnthony Towns,1,4,42,1,Hook Shot,6,30,63,True
+KarlAnthony Towns,3,7,29,1,Hook Shot,6,62,2,True
+KarlAnthony Towns,4,4,29,1,Hook Shot,2,25,4,True
+KarlAnthony Towns,4,6,17,1,Hook Shot,6,-5,60,True
+KarlAnthony Towns,4,7,7,1,Hook Shot,9,92,8,True
+KarlAnthony Towns,4,8,3,1,Hook Shot,7,-5,73,True
+KarlAnthony Towns,2,10,0,0,Hook Shot,9,-13,92,True
+KarlAnthony Towns,2,11,5,1,Hook Shot,2,-22,11,True
+KarlAnthony Towns,2,2,21,1,Hook Shot,10,-79,69,True
+KarlAnthony Towns,2,7,38,1,Hook Shot,7,0,73,True
+KarlAnthony Towns,3,4,53,0,Hook Shot,7,-57,43,True
+KarlAnthony Towns,1,6,24,0,Hook Shot,4,-44,8,True
+KarlAnthony Towns,2,10,54,0,Hook Shot,8,-34,83,True
+KarlAnthony Towns,4,11,16,1,Hook Shot,2,2,28,True
+KarlAnthony Towns,3,9,29,1,Hook Shot,7,-65,36,True
+KarlAnthony Towns,3,6,21,1,Hook Shot,5,-32,39,True
+KarlAnthony Towns,2,11,40,0,Hook Shot,6,54,38,True
+KarlAnthony Towns,2,0,28,0,Hook Shot,5,4,59,True
+KarlAnthony Towns,1,11,26,0,Hook Shot,5,-32,50,True
+KarlAnthony Towns,1,8,0,1,Hook Shot,5,-51,21,True
+KarlAnthony Towns,1,11,23,0,Hook Shot,7,-30,66,True
+KarlAnthony Towns,3,9,31,1,Hook Shot,7,-55,47,True
+KarlAnthony Towns,2,9,32,0,Hook Shot,8,-80,30,True
+KarlAnthony Towns,3,11,46,1,Hook Shot,3,0,38,True
+KarlAnthony Towns,3,8,31,1,Hook Shot,6,2,64,True
+KarlAnthony Towns,4,2,3,0,Hook Shot,8,-2,80,True
+KarlAnthony Towns,3,2,42,1,Hook Shot,6,63,8,True
+KarlAnthony Towns,1,4,33,1,Hook Shot,5,56,-6,True
+KarlAnthony Towns,1,11,20,0,Hook Shot,7,-27,75,True
+KarlAnthony Towns,2,9,52,1,Hook Shot,7,70,24,True
+KarlAnthony Towns,1,6,12,0,Hook Shot,6,25,57,True
+KarlAnthony Towns,4,9,1,1,Jump Bank Shot,1,5,13,True
+KarlAnthony Towns,1,3,37,1,Jump Bank Shot,6,50,43,True
+KarlAnthony Towns,1,10,57,1,Jump Bank Shot,7,56,55,True
+KarlAnthony Towns,4,11,48,0,Jump Shot,26,63,258,False
+KarlAnthony Towns,3,11,17,1,Jump Shot,25,-60,248,False
+KarlAnthony Towns,1,3,8,0,Jump Shot,19,-22,197,True
+KarlAnthony Towns,1,9,8,0,Jump Shot,22,-226,5,False
+KarlAnthony Towns,1,4,13,0,Jump Shot,1,3,13,True
+KarlAnthony Towns,3,11,16,1,Jump Shot,22,224,4,False
+KarlAnthony Towns,3,1,38,0,Jump Shot,25,-109,235,False
+KarlAnthony Towns,2,5,15,0,Jump Shot,26,-107,242,False
+KarlAnthony Towns,1,6,26,0,Jump Shot,25,112,232,False
+KarlAnthony Towns,3,5,33,1,Jump Shot,21,-103,188,True
+KarlAnthony Towns,1,6,24,1,Jump Shot,25,-156,200,False
+KarlAnthony Towns,3,6,1,1,Jump Shot,23,-230,11,False
+KarlAnthony Towns,2,4,57,0,Jump Shot,24,-135,210,False
+KarlAnthony Towns,1,10,24,0,Jump Shot,25,90,240,False
+KarlAnthony Towns,5,0,0,1,Jump Shot,3,-30,20,True
+KarlAnthony Towns,4,7,57,0,Jump Shot,25,20,258,False
+KarlAnthony Towns,3,7,15,0,Jump Shot,26,-14,267,False
+KarlAnthony Towns,4,6,2,0,Jump Shot,17,165,71,True
+KarlAnthony Towns,3,11,11,1,Jump Shot,22,223,-4,False
+KarlAnthony Towns,3,10,8,0,Jump Shot,9,41,88,True
+KarlAnthony Towns,3,11,19,1,Jump Shot,26,82,249,False
+KarlAnthony Towns,4,4,49,0,Jump Shot,28,129,254,False
+KarlAnthony Towns,1,7,31,0,Jump Shot,11,65,94,True
+KarlAnthony Towns,1,5,42,0,Jump Shot,22,-226,-1,False
+KarlAnthony Towns,4,6,28,1,Jump Shot,25,-95,234,False
+KarlAnthony Towns,2,1,45,1,Jump Shot,25,82,237,False
+KarlAnthony Towns,1,10,12,1,Jump Shot,13,-134,34,True
+KarlAnthony Towns,2,9,26,0,Jump Shot,25,-91,242,False
+KarlAnthony Towns,5,3,3,1,Jump Shot,23,-232,-8,False
+KarlAnthony Towns,4,9,15,0,Jump Shot,24,-78,235,False
+KarlAnthony Towns,3,9,36,1,Jump Shot,22,-223,-16,False
+KarlAnthony Towns,1,10,39,0,Jump Shot,17,-165,63,True
+KarlAnthony Towns,1,5,47,1,Jump Shot,27,105,253,False
+KarlAnthony Towns,3,4,55,1,Jump Shot,23,-62,223,True
+KarlAnthony Towns,4,0,0,0,Jump Shot,22,-222,-12,False
+KarlAnthony Towns,2,8,19,0,Jump Shot,25,-18,256,False
+KarlAnthony Towns,2,9,34,0,Jump Shot,25,121,229,False
+KarlAnthony Towns,2,7,4,0,Jump Shot,5,-55,22,True
+KarlAnthony Towns,4,8,0,1,Jump Shot,19,23,198,True
+KarlAnthony Towns,3,3,29,0,Jump Shot,25,131,218,False
+KarlAnthony Towns,3,3,50,1,Jump Shot,26,0,264,False
+KarlAnthony Towns,3,3,25,1,Jump Shot,25,-156,203,False
+KarlAnthony Towns,4,3,41,0,Jump Shot,24,-80,235,False
+KarlAnthony Towns,2,10,31,1,Jump Shot,25,-10,251,False
+KarlAnthony Towns,4,6,56,0,Jump Shot,25,30,257,False
+KarlAnthony Towns,1,8,30,0,Jump Shot,27,-117,254,False
+KarlAnthony Towns,3,4,35,0,Jump Shot,24,16,241,False
+KarlAnthony Towns,1,9,44,0,Jump Shot,24,107,223,False
+KarlAnthony Towns,4,4,0,0,Jump Shot,26,-18,260,False
+KarlAnthony Towns,2,11,29,0,Jump Shot,23,-235,0,False
+KarlAnthony Towns,1,9,55,0,Jump Shot,25,-183,177,False
+KarlAnthony Towns,4,5,52,0,Jump Shot,25,-7,254,False
+KarlAnthony Towns,3,4,36,0,Jump Shot,18,-47,177,True
+KarlAnthony Towns,2,0,34,0,Jump Shot,25,39,250,False
+KarlAnthony Towns,3,8,37,1,Jump Shot,25,82,244,False
+KarlAnthony Towns,2,7,33,0,Jump Shot,23,-233,26,False
+KarlAnthony Towns,4,2,51,0,Jump Shot,26,173,195,False
+KarlAnthony Towns,1,7,31,1,Jump Shot,22,-228,-1,False
+KarlAnthony Towns,2,5,4,0,Jump Shot,24,0,247,False
+KarlAnthony Towns,1,9,0,0,Jump Shot,25,116,231,False
+KarlAnthony Towns,1,9,21,0,Jump Shot,4,25,34,True
+KarlAnthony Towns,3,10,29,0,Jump Shot,24,99,227,False
+KarlAnthony Towns,4,4,47,1,Jump Shot,26,-126,237,False
+KarlAnthony Towns,1,8,36,0,Jump Shot,25,-7,252,False
+KarlAnthony Towns,2,5,5,0,Jump Shot,24,230,78,False
+KarlAnthony Towns,1,6,39,0,Jump Shot,25,73,246,False
+KarlAnthony Towns,1,11,26,0,Jump Shot,26,160,208,False
+KarlAnthony Towns,4,0,35,1,Jump Shot,5,57,8,True
+KarlAnthony Towns,3,9,34,1,Jump Shot,26,-79,252,False
+KarlAnthony Towns,2,7,26,0,Jump Shot,20,-196,40,True
+KarlAnthony Towns,4,2,5,0,Jump Shot,17,-159,62,True
+KarlAnthony Towns,4,6,51,0,Jump Shot,14,-141,25,True
+KarlAnthony Towns,4,5,11,0,Jump Shot,12,-29,121,True
+KarlAnthony Towns,2,0,29,0,Jump Shot,25,-73,248,False
+KarlAnthony Towns,1,11,14,0,Jump Shot,20,-113,169,True
+KarlAnthony Towns,1,11,9,1,Jump Shot,27,-87,259,False
+KarlAnthony Towns,1,3,50,0,Jump Shot,24,-125,216,False
+KarlAnthony Towns,3,10,44,1,Jump Shot,24,3,246,False
+KarlAnthony Towns,2,3,4,1,Jump Shot,20,180,90,True
+KarlAnthony Towns,2,6,8,0,Jump Shot,26,27,263,False
+KarlAnthony Towns,2,4,53,1,Jump Shot,26,60,258,False
+KarlAnthony Towns,1,9,28,1,Jump Shot,25,-188,179,False
+KarlAnthony Towns,3,11,36,0,Jump Shot,25,-167,187,False
+KarlAnthony Towns,1,9,5,0,Jump Shot,25,-123,218,False
+KarlAnthony Towns,3,11,26,0,Jump Shot,22,-229,15,False
+KarlAnthony Towns,3,6,37,0,Jump Shot,28,128,251,False
+KarlAnthony Towns,1,6,8,0,Jump Shot,13,-116,69,True
+KarlAnthony Towns,2,5,37,1,Jump Shot,19,190,20,True
+KarlAnthony Towns,3,7,46,1,Jump Shot,25,-79,247,False
+KarlAnthony Towns,5,2,7,0,Jump Shot,7,79,2,True
+KarlAnthony Towns,2,10,49,0,Jump Shot,25,-131,214,False
+KarlAnthony Towns,3,10,27,0,Jump Shot,22,222,-18,False
+KarlAnthony Towns,4,1,43,1,Jump Shot,25,54,252,False
+KarlAnthony Towns,2,8,10,0,Jump Shot,24,-122,208,False
+KarlAnthony Towns,1,9,48,0,Jump Shot,2,16,21,True
+KarlAnthony Towns,4,11,4,1,Jump Shot,25,40,253,False
+KarlAnthony Towns,2,6,29,0,Jump Shot,15,-151,16,True
+KarlAnthony Towns,2,9,27,1,Jump Shot,20,163,126,True
+KarlAnthony Towns,2,2,49,0,Jump Shot,26,-43,260,False
+KarlAnthony Towns,2,1,12,0,Jump Shot,26,-21,262,False
+KarlAnthony Towns,2,3,57,0,Jump Shot,26,-128,236,False
+KarlAnthony Towns,2,1,13,1,Jump Shot,22,221,10,False
+KarlAnthony Towns,2,1,19,1,Jump Shot,5,51,12,True
+KarlAnthony Towns,1,6,16,1,Jump Shot,18,-182,9,True
+KarlAnthony Towns,1,4,47,1,Jump Shot,25,22,257,False
+KarlAnthony Towns,2,4,1,1,Jump Shot,25,0,251,False
+KarlAnthony Towns,2,1,44,0,Jump Shot,25,121,226,False
+KarlAnthony Towns,2,10,12,1,Jump Shot,24,-229,90,False
+KarlAnthony Towns,3,4,18,0,Jump Shot,13,-8,133,True
+KarlAnthony Towns,1,8,24,0,Jump Shot,22,-225,-10,False
+KarlAnthony Towns,1,7,31,0,Jump Shot,27,-55,271,False
+KarlAnthony Towns,4,5,50,1,Jump Shot,25,29,258,False
+KarlAnthony Towns,4,6,59,0,Jump Shot,23,-231,12,False
+KarlAnthony Towns,4,8,54,0,Jump Shot,12,122,40,True
+KarlAnthony Towns,4,8,41,0,Jump Shot,10,97,31,True
+KarlAnthony Towns,4,1,5,1,Jump Shot,22,-222,-2,False
+KarlAnthony Towns,3,9,35,1,Jump Shot,17,-54,168,True
+KarlAnthony Towns,3,9,54,0,Jump Shot,26,-144,220,False
+KarlAnthony Towns,2,3,8,1,Jump Shot,22,-229,1,False
+KarlAnthony Towns,4,5,43,0,Jump Shot,26,-83,253,False
+KarlAnthony Towns,4,4,38,0,Jump Shot,25,-2,251,False
+KarlAnthony Towns,2,7,53,0,Jump Shot,5,57,12,True
+KarlAnthony Towns,2,8,9,1,Jump Shot,16,-147,81,True
+KarlAnthony Towns,4,9,24,0,Jump Shot,11,-56,96,True
+KarlAnthony Towns,2,4,0,1,Jump Shot,21,-122,172,True
+KarlAnthony Towns,4,7,28,1,Jump Shot,15,71,135,True
+KarlAnthony Towns,2,5,49,1,Jump Shot,15,-3,151,True
+KarlAnthony Towns,3,4,2,1,Jump Shot,24,44,245,False
+KarlAnthony Towns,4,4,26,0,Jump Shot,22,-49,217,True
+KarlAnthony Towns,4,10,11,0,Jump Shot,19,187,67,True
+KarlAnthony Towns,3,7,6,1,Jump Shot,25,-15,251,False
+KarlAnthony Towns,1,7,20,1,Jump Shot,18,-9,184,True
+KarlAnthony Towns,1,5,41,0,Jump Shot,25,-126,226,False
+KarlAnthony Towns,1,4,59,1,Jump Shot,21,202,64,True
+KarlAnthony Towns,2,11,18,0,Jump Shot,7,71,-16,True
+KarlAnthony Towns,2,4,24,1,Jump Shot,20,-3,205,True
+KarlAnthony Towns,3,11,33,1,Jump Shot,25,-14,256,False
+KarlAnthony Towns,2,10,13,1,Jump Shot,24,-29,248,False
+KarlAnthony Towns,1,9,47,0,Jump Shot,24,19,245,False
+KarlAnthony Towns,1,8,40,0,Jump Shot,24,-70,239,False
+KarlAnthony Towns,2,6,29,0,Jump Shot,5,-4,53,True
+KarlAnthony Towns,3,3,27,0,Jump Shot,25,-137,220,False
+KarlAnthony Towns,1,8,10,0,Jump Shot,24,11,247,False
+KarlAnthony Towns,4,7,52,1,Jump Shot,11,13,116,True
+KarlAnthony Towns,2,4,31,0,Jump Shot,25,-5,252,False
+KarlAnthony Towns,1,7,39,0,Jump Shot,25,176,179,False
+KarlAnthony Towns,3,3,40,0,Jump Shot,26,-1,262,False
+KarlAnthony Towns,1,4,44,0,Jump Shot,4,-15,42,True
+KarlAnthony Towns,4,9,10,1,Jump Shot,25,-8,251,False
+KarlAnthony Towns,2,8,34,0,Jump Shot,26,140,230,False
+KarlAnthony Towns,2,9,31,1,Jump Shot,17,-158,65,True
+KarlAnthony Towns,2,6,56,0,Jump Shot,24,23,248,False
+KarlAnthony Towns,3,7,2,0,Jump Shot,24,209,135,False
+KarlAnthony Towns,1,3,21,0,Jump Shot,17,136,106,True
+KarlAnthony Towns,2,5,35,1,Jump Shot,24,16,241,False
+KarlAnthony Towns,4,8,26,1,Jump Shot,22,227,-9,False
+KarlAnthony Towns,4,8,14,0,Jump Shot,25,111,231,False
+KarlAnthony Towns,2,5,23,1,Jump Shot,15,-10,151,True
+KarlAnthony Towns,2,7,52,1,Jump Shot,20,-207,5,True
+KarlAnthony Towns,4,8,34,1,Jump Shot,25,145,211,False
+KarlAnthony Towns,2,1,5,1,Jump Shot,24,163,188,False
+KarlAnthony Towns,4,2,58,1,Jump Shot,20,-208,-15,True
+KarlAnthony Towns,3,5,51,0,Jump Shot,25,-25,257,False
+KarlAnthony Towns,2,11,16,0,Jump Shot,25,43,251,False
+KarlAnthony Towns,2,11,17,1,Jump Shot,23,-231,27,False
+KarlAnthony Towns,3,9,48,0,Jump Shot,24,36,246,False
+KarlAnthony Towns,1,11,28,0,Jump Shot,24,-124,216,False
+KarlAnthony Towns,3,4,38,1,Jump Shot,24,-235,49,False
+KarlAnthony Towns,4,0,0,0,Jump Shot,71,-7,710,False
+KarlAnthony Towns,2,2,49,0,Jump Shot,14,-145,31,True
+KarlAnthony Towns,3,7,2,0,Jump Shot,26,22,262,False
+KarlAnthony Towns,1,11,16,0,Jump Shot,26,29,261,False
+KarlAnthony Towns,3,4,38,0,Jump Shot,25,-19,253,False
+KarlAnthony Towns,1,11,42,0,Jump Shot,16,-160,34,True
+KarlAnthony Towns,2,9,17,0,Jump Shot,13,134,32,True
+KarlAnthony Towns,3,5,9,0,Jump Shot,8,-78,32,True
+KarlAnthony Towns,4,7,45,1,Jump Shot,23,230,12,False
+KarlAnthony Towns,3,3,34,0,Jump Shot,4,2,41,True
+KarlAnthony Towns,1,9,57,0,Jump Shot,25,-73,247,False
+KarlAnthony Towns,4,9,59,0,Jump Shot,26,-190,184,False
+KarlAnthony Towns,3,11,25,0,Jump Shot,25,-231,112,False
+KarlAnthony Towns,3,11,29,0,Jump Shot,25,-152,210,False
+KarlAnthony Towns,2,2,17,1,Jump Shot,22,-222,9,False
+KarlAnthony Towns,2,9,6,0,Jump Shot,19,192,35,True
+KarlAnthony Towns,4,10,31,1,Jump Shot,17,-170,57,True
+KarlAnthony Towns,3,7,46,1,Jump Shot,17,47,164,True
+KarlAnthony Towns,1,10,24,0,Jump Shot,25,-67,243,False
+KarlAnthony Towns,1,7,41,0,Jump Shot,7,7,77,True
+KarlAnthony Towns,3,7,32,1,Jump Shot,27,-47,272,False
+KarlAnthony Towns,3,4,5,1,Jump Shot,20,144,143,True
+KarlAnthony Towns,2,10,7,0,Jump Shot,25,-29,250,False
+KarlAnthony Towns,3,6,25,0,Jump Shot,25,-221,117,False
+KarlAnthony Towns,4,5,9,0,Jump Shot,24,172,174,False
+KarlAnthony Towns,3,9,59,0,Jump Shot,16,0,167,True
+KarlAnthony Towns,4,8,47,0,Jump Shot,8,-79,18,True
+KarlAnthony Towns,1,5,34,0,Jump Shot,22,-223,52,False
+KarlAnthony Towns,1,10,29,0,Jump Shot,25,-14,254,False
+KarlAnthony Towns,4,6,45,1,Jump Shot,10,-23,100,True
+KarlAnthony Towns,3,11,4,1,Jump Shot,25,74,243,False
+KarlAnthony Towns,4,8,29,0,Jump Shot,24,-112,217,False
+KarlAnthony Towns,1,8,29,1,Jump Shot,17,163,62,True
+KarlAnthony Towns,4,10,24,0,Jump Shot,22,221,8,False
+KarlAnthony Towns,4,11,5,1,Jump Shot,25,-8,257,False
+KarlAnthony Towns,2,8,20,0,Jump Shot,24,-16,247,False
+KarlAnthony Towns,4,8,24,0,Jump Shot,25,-43,249,False
+KarlAnthony Towns,1,9,35,1,Jump Shot,24,220,108,False
+KarlAnthony Towns,3,7,52,0,Jump Shot,16,-166,26,True
+KarlAnthony Towns,3,4,16,0,Jump Shot,26,15,260,False
+KarlAnthony Towns,4,4,53,0,Jump Shot,4,9,49,True
+KarlAnthony Towns,4,2,37,0,Jump Shot,26,-126,230,False
+KarlAnthony Towns,3,10,18,1,Jump Shot,18,27,178,True
+KarlAnthony Towns,2,6,37,0,Jump Shot,25,-132,220,False
+KarlAnthony Towns,2,9,11,1,Jump Shot,24,-20,247,False
+KarlAnthony Towns,1,9,30,0,Jump Shot,18,176,69,True
+KarlAnthony Towns,1,10,22,1,Jump Shot,25,1,253,False
+KarlAnthony Towns,4,11,32,1,Jump Shot,15,-152,20,True
+KarlAnthony Towns,3,8,31,1,Jump Shot,26,-143,226,False
+KarlAnthony Towns,2,7,46,1,Jump Shot,25,42,247,False
+KarlAnthony Towns,4,4,9,0,Jump Shot,25,-171,193,False
+KarlAnthony Towns,3,10,33,0,Jump Shot,25,11,253,False
+KarlAnthony Towns,1,6,49,1,Jump Shot,25,-48,246,False
+KarlAnthony Towns,1,4,48,0,Jump Shot,18,187,5,True
+KarlAnthony Towns,2,2,13,1,Jump Shot,11,116,27,True
+KarlAnthony Towns,3,8,48,0,Jump Shot,24,115,220,False
+KarlAnthony Towns,3,11,24,1,Jump Shot,29,-142,258,False
+KarlAnthony Towns,3,11,50,0,Jump Shot,18,-154,94,True
+KarlAnthony Towns,1,10,41,0,Jump Shot,26,16,263,False
+KarlAnthony Towns,3,8,53,1,Jump Shot,26,-2,260,False
+KarlAnthony Towns,3,9,11,0,Jump Shot,26,59,258,False
+KarlAnthony Towns,4,1,14,0,Jump Shot,22,227,15,False
+KarlAnthony Towns,2,4,4,0,Jump Shot,25,1,257,False
+KarlAnthony Towns,1,7,46,1,Jump Shot,25,24,252,False
+KarlAnthony Towns,2,6,25,0,Jump Shot,25,30,252,False
+KarlAnthony Towns,1,10,53,0,Jump Shot,5,-48,21,True
+KarlAnthony Towns,3,8,48,0,Jump Shot,27,-2,270,False
+KarlAnthony Towns,4,0,47,0,Jump Shot,26,216,148,False
+KarlAnthony Towns,4,4,19,1,Jump Shot,26,31,262,False
+KarlAnthony Towns,1,11,19,1,Jump Shot,23,-230,19,False
+KarlAnthony Towns,4,2,42,0,Jump Shot,23,-72,221,True
+KarlAnthony Towns,1,4,54,0,Jump Shot,25,117,224,False
+KarlAnthony Towns,2,0,34,0,Jump Shot,27,193,194,False
+KarlAnthony Towns,2,6,5,1,Jump Shot,24,-223,106,False
+KarlAnthony Towns,2,6,45,1,Jump Shot,18,106,153,True
+KarlAnthony Towns,1,5,35,0,Jump Shot,5,50,19,True
+KarlAnthony Towns,1,7,59,1,Jump Shot,28,41,278,False
+KarlAnthony Towns,4,7,23,0,Jump Shot,28,-83,269,False
+KarlAnthony Towns,1,11,16,1,Jump Shot,12,34,117,True
+KarlAnthony Towns,2,4,56,1,Jump Shot,24,-92,229,False
+KarlAnthony Towns,4,5,33,0,Jump Shot,26,-36,258,False
+KarlAnthony Towns,3,11,27,0,Jump Shot,19,-191,-4,True
+KarlAnthony Towns,2,4,48,0,Jump Shot,25,-6,257,False
+KarlAnthony Towns,3,6,42,0,Jump Shot,25,4,259,False
+KarlAnthony Towns,1,5,38,0,Jump Shot,25,123,225,False
+KarlAnthony Towns,3,8,2,1,Jump Shot,7,-11,79,True
+KarlAnthony Towns,2,10,12,1,Jump Shot,26,-6,261,False
+KarlAnthony Towns,3,4,38,0,Jump Shot,26,11,261,False
+KarlAnthony Towns,3,4,35,1,Jump Shot,7,-14,69,True
+KarlAnthony Towns,1,9,56,1,Jump Shot,25,-95,235,False
+KarlAnthony Towns,3,10,56,0,Jump Shot,27,-11,273,False
+KarlAnthony Towns,2,4,13,0,Jump Shot,14,119,84,True
+KarlAnthony Towns,3,7,45,1,Jump Shot,13,1,135,True
+KarlAnthony Towns,4,2,34,0,Jump Shot,27,-206,181,False
+KarlAnthony Towns,1,7,48,0,Jump Shot,24,245,39,False
+KarlAnthony Towns,4,5,54,0,Jump Shot,25,-30,251,False
+KarlAnthony Towns,2,3,59,0,Jump Shot,28,27,283,False
+KarlAnthony Towns,1,11,27,0,Jump Shot,25,-217,141,False
+KarlAnthony Towns,4,8,26,1,Jump Shot,24,-15,248,False
+KarlAnthony Towns,3,7,9,1,Jump Shot,26,-76,258,False
+KarlAnthony Towns,1,11,2,1,Jump Shot,26,-45,262,False
+KarlAnthony Towns,4,9,12,0,Jump Shot,26,81,248,False
+KarlAnthony Towns,1,9,35,0,Jump Shot,25,-62,248,False
+KarlAnthony Towns,3,5,54,1,Jump Shot,23,231,-13,False
+KarlAnthony Towns,2,11,28,1,Jump Shot,14,9,147,True
+KarlAnthony Towns,3,8,27,0,Jump Shot,26,-35,262,False
+KarlAnthony Towns,2,4,9,1,Jump Shot,23,107,204,True
+KarlAnthony Towns,4,5,14,1,Jump Shot,24,24,243,False
+KarlAnthony Towns,4,11,30,0,Jump Shot,26,15,269,False
+KarlAnthony Towns,2,3,12,1,Jump Shot,2,-3,22,True
+KarlAnthony Towns,2,7,1,0,Jump Shot,26,-93,243,False
+KarlAnthony Towns,4,8,22,1,Jump Shot,26,-147,221,False
+KarlAnthony Towns,2,9,0,1,Jump Shot,25,-79,241,False
+KarlAnthony Towns,1,5,14,1,Jump Shot,27,154,222,False
+KarlAnthony Towns,4,10,49,1,Jump Shot,25,-7,256,False
+KarlAnthony Towns,3,2,41,1,Jump Shot,25,45,247,False
+KarlAnthony Towns,1,7,15,0,Jump Shot,10,-103,14,True
+KarlAnthony Towns,1,8,56,0,Jump Shot,14,-148,15,True
+KarlAnthony Towns,1,10,14,1,Jump Shot,25,92,240,False
+KarlAnthony Towns,4,1,32,0,Jump Shot,27,8,272,False
+KarlAnthony Towns,3,9,36,1,Jump Shot,22,-228,13,False
+KarlAnthony Towns,4,9,13,1,Jump Shot,24,-1,249,False
+KarlAnthony Towns,4,10,1,0,Jump Shot,15,-104,112,True
+KarlAnthony Towns,3,2,57,1,Jump Shot,25,-52,248,False
+KarlAnthony Towns,1,4,7,0,Jump Shot,25,17,253,False
+KarlAnthony Towns,4,0,43,0,Jump Shot,17,166,37,True
+KarlAnthony Towns,3,9,49,0,Jump Shot,16,161,34,True
+KarlAnthony Towns,2,11,25,1,Jump Shot,22,-222,-13,False
+KarlAnthony Towns,3,7,27,1,Jump Shot,24,-89,229,False
+KarlAnthony Towns,1,5,26,0,Jump Shot,7,3,78,True
+KarlAnthony Towns,2,4,13,0,Jump Shot,25,24,250,False
+KarlAnthony Towns,3,6,9,0,Jump Shot,25,-96,232,False
+KarlAnthony Towns,3,10,20,1,Jump Shot,25,22,253,False
+KarlAnthony Towns,1,10,37,0,Jump Shot,25,0,254,False
+KarlAnthony Towns,4,4,59,1,Jump Shot,24,106,218,False
+KarlAnthony Towns,2,8,3,0,Jump Shot,22,-229,2,False
+KarlAnthony Towns,2,7,24,1,Jump Shot,24,-42,246,False
+KarlAnthony Towns,4,4,17,1,Jump Shot,24,-16,245,False
+KarlAnthony Towns,2,3,18,0,Jump Shot,14,-148,17,True
+KarlAnthony Towns,2,7,36,0,Jump Shot,25,9,254,False
+KarlAnthony Towns,2,2,46,0,Jump Shot,6,60,17,True
+KarlAnthony Towns,3,10,1,1,Jump Shot,24,-21,246,False
+KarlAnthony Towns,4,1,16,1,Jump Shot,22,-223,39,False
+KarlAnthony Towns,2,4,23,1,Jump Shot,25,-41,252,False
+KarlAnthony Towns,2,3,34,0,Jump Shot,25,156,201,False
+KarlAnthony Towns,4,7,1,0,Jump Shot,25,44,251,False
+KarlAnthony Towns,3,9,32,0,Jump Shot,25,159,200,False
+KarlAnthony Towns,4,8,27,0,Jump Shot,25,222,128,False
+KarlAnthony Towns,2,3,48,1,Jump Shot,7,67,35,True
+KarlAnthony Towns,1,4,44,1,Jump Shot,25,-8,257,False
+KarlAnthony Towns,4,10,20,0,Jump Shot,25,4,259,False
+KarlAnthony Towns,4,11,14,1,Jump Shot,24,-105,225,False
+KarlAnthony Towns,4,5,29,0,Jump Shot,22,224,-2,False
+KarlAnthony Towns,2,0,50,0,Jump Shot,26,63,257,False
+KarlAnthony Towns,2,0,1,0,Jump Shot,8,9,85,True
+KarlAnthony Towns,1,8,50,0,Jump Shot,9,-71,64,True
+KarlAnthony Towns,3,5,50,1,Jump Shot,23,234,-19,False
+KarlAnthony Towns,2,0,45,0,Jump Shot,26,116,241,False
+KarlAnthony Towns,1,8,33,1,Jump Shot,20,207,-11,True
+KarlAnthony Towns,2,4,22,1,Jump Shot,25,50,248,False
+KarlAnthony Towns,4,9,18,1,Jump Shot,18,-41,178,True
+KarlAnthony Towns,2,0,8,0,Jump Shot,5,20,47,True
+KarlAnthony Towns,2,0,59,0,Jump Shot,24,-214,127,False
+KarlAnthony Towns,1,7,25,1,Jump Shot,23,226,51,False
+KarlAnthony Towns,3,10,47,0,Jump Shot,27,140,235,False
+KarlAnthony Towns,2,6,42,0,Jump Shot,24,-21,248,False
+KarlAnthony Towns,4,7,35,0,Jump Shot,5,17,53,True
+KarlAnthony Towns,4,8,58,1,Jump Shot,25,-11,252,False
+KarlAnthony Towns,4,5,58,0,Jump Shot,22,226,20,False
+KarlAnthony Towns,3,10,26,1,Jump Shot,5,2,54,True
+KarlAnthony Towns,3,9,58,1,Jump Shot,20,-192,71,True
+KarlAnthony Towns,1,8,46,0,Jump Shot,25,144,205,False
+KarlAnthony Towns,1,7,16,0,Jump Shot,25,-3,252,False
+KarlAnthony Towns,1,10,40,1,Jump Shot,4,6,42,True
+KarlAnthony Towns,1,4,37,0,Jump Shot,6,-51,33,True
+KarlAnthony Towns,4,4,55,0,Jump Shot,6,-12,64,True
+KarlAnthony Towns,4,2,38,0,Jump Shot,25,123,220,False
+KarlAnthony Towns,4,0,19,0,Jump Shot,22,-225,20,False
+KarlAnthony Towns,4,5,39,0,Jump Shot,22,223,47,False
+KarlAnthony Towns,3,6,55,0,Jump Shot,24,-14,249,False
+KarlAnthony Towns,2,5,15,1,Jump Shot,25,-2,252,False
+KarlAnthony Towns,2,8,39,0,Jump Shot,10,17,104,True
+KarlAnthony Towns,2,10,28,0,Jump Shot,25,6,257,False
+KarlAnthony Towns,3,11,1,0,Jump Shot,25,2,257,False
+KarlAnthony Towns,2,2,44,0,Jump Shot,4,-3,45,True
+KarlAnthony Towns,4,4,50,1,Jump Shot,23,239,13,False
+KarlAnthony Towns,4,3,18,1,Jump Shot,22,-207,76,True
+KarlAnthony Towns,4,6,58,1,Jump Shot,25,122,221,False
+KarlAnthony Towns,3,11,10,0,Jump Shot,26,-138,221,False
+KarlAnthony Towns,3,7,21,0,Jump Shot,16,152,69,True
+KarlAnthony Towns,2,8,53,0,Jump Shot,18,-182,49,True
+KarlAnthony Towns,4,0,6,0,Jump Shot,25,-123,227,False
+KarlAnthony Towns,4,3,49,1,Jump Shot,18,-168,74,True
+KarlAnthony Towns,3,7,3,0,Jump Shot,18,-183,47,True
+KarlAnthony Towns,4,5,37,0,Jump Shot,24,-20,246,False
+KarlAnthony Towns,1,10,42,1,Jump Shot,14,-18,146,True
+KarlAnthony Towns,4,1,52,0,Jump Shot,19,98,173,True
+KarlAnthony Towns,1,6,57,1,Jump Shot,25,-4,252,False
+KarlAnthony Towns,4,5,10,1,Jump Shot,22,226,32,False
+KarlAnthony Towns,1,10,48,1,Jump Shot,25,-226,115,False
+KarlAnthony Towns,4,1,16,1,Jump Shot,21,-41,215,True
+KarlAnthony Towns,1,7,29,0,Jump Shot,15,144,50,True
+KarlAnthony Towns,1,5,15,1,Jump Shot,25,50,253,False
+KarlAnthony Towns,2,3,44,1,Jump Shot,23,232,26,False
+KarlAnthony Towns,3,5,19,1,Jump Shot,17,-164,52,True
+KarlAnthony Towns,1,6,11,0,Jump Shot,26,-101,247,False
+KarlAnthony Towns,1,9,13,0,Jump Shot,16,-129,100,True
+KarlAnthony Towns,3,9,1,1,Jump Shot,26,5,265,False
+KarlAnthony Towns,4,0,54,1,Jump Shot,31,-114,294,False
+KarlAnthony Towns,1,9,55,1,Jump Shot,25,-147,208,False
+KarlAnthony Towns,4,4,47,1,Jump Shot,25,51,253,False
+KarlAnthony Towns,3,10,39,0,Jump Shot,3,-34,16,True
+KarlAnthony Towns,2,8,45,1,Jump Shot,20,-202,2,True
+KarlAnthony Towns,2,1,13,1,Jump Shot,24,-168,185,False
+KarlAnthony Towns,3,6,32,0,Jump Shot,23,-232,59,False
+KarlAnthony Towns,5,3,28,0,Jump Shot,24,-62,240,False
+KarlAnthony Towns,1,2,55,1,Layup Shot,1,-2,16,True
+KarlAnthony Towns,3,2,42,0,Layup Shot,0,8,-1,True
+KarlAnthony Towns,2,7,54,1,Layup Shot,1,1,14,True
+KarlAnthony Towns,4,8,57,1,Layup Shot,2,8,21,True
+KarlAnthony Towns,4,8,43,0,Layup Shot,4,-42,25,True
+KarlAnthony Towns,2,2,43,1,Layup Shot,0,-6,-3,True
+KarlAnthony Towns,3,4,30,0,Layup Shot,1,13,12,True
+KarlAnthony Towns,2,0,38,1,Layup Shot,3,-24,18,True
+KarlAnthony Towns,1,6,46,0,Layup Shot,1,15,12,True
+KarlAnthony Towns,1,6,1,0,Layup Shot,3,-20,32,True
+KarlAnthony Towns,1,9,53,0,Layup Shot,3,25,17,True
+KarlAnthony Towns,1,5,25,1,Layup Shot,1,3,10,True
+KarlAnthony Towns,1,10,52,0,Layup Shot,5,-40,30,True
+KarlAnthony Towns,4,5,54,1,Layup Shot,1,2,13,True
+KarlAnthony Towns,2,1,36,1,Layup Shot,3,-24,31,True
+KarlAnthony Towns,1,5,10,0,Layup Shot,2,9,19,True
+KarlAnthony Towns,2,10,47,0,Layup Shot,3,-26,19,True
+KarlAnthony Towns,3,10,26,0,Layup Shot,6,-35,50,True
+KarlAnthony Towns,2,1,51,1,Layup Shot,2,12,17,True
+KarlAnthony Towns,3,3,11,1,Layup Shot,1,-6,13,True
+KarlAnthony Towns,3,6,43,1,Layup Shot,0,8,2,True
+KarlAnthony Towns,1,10,43,0,Layup Shot,1,-10,15,True
+KarlAnthony Towns,2,0,56,1,Layup Shot,2,-6,21,True
+KarlAnthony Towns,2,5,50,1,Layup Shot,1,9,5,True
+KarlAnthony Towns,3,10,37,0,Layup Shot,3,-6,31,True
+KarlAnthony Towns,4,10,37,0,Layup Shot,3,-16,26,True
+KarlAnthony Towns,3,6,32,0,Layup Shot,3,-16,31,True
+KarlAnthony Towns,4,7,24,1,Layup Shot,3,-29,26,True
+KarlAnthony Towns,3,6,50,1,Layup Shot,0,-3,0,True
+KarlAnthony Towns,4,7,54,1,Layup Shot,1,2,12,True
+KarlAnthony Towns,3,4,28,1,Layup Shot,3,13,33,True
+KarlAnthony Towns,1,5,51,1,Layup Shot,17,-128,126,True
+KarlAnthony Towns,4,5,20,0,Layup Shot,1,2,19,True
+KarlAnthony Towns,2,1,31,1,Layup Shot,0,6,6,True
+KarlAnthony Towns,4,1,14,0,Layup Shot,1,5,18,True
+KarlAnthony Towns,3,1,22,1,Layup Shot,3,-22,33,True
+KarlAnthony Towns,4,6,8,1,Layup Shot,1,4,11,True
+KarlAnthony Towns,1,2,38,1,Layup Shot,1,1,10,True
+KarlAnthony Towns,3,5,30,0,Layup Shot,1,-13,11,True
+KarlAnthony Towns,2,2,26,0,Layup Shot,2,-3,29,True
+KarlAnthony Towns,3,6,27,1,Layup Shot,0,-4,6,True
+KarlAnthony Towns,2,0,35,1,Layup Shot,3,5,30,True
+KarlAnthony Towns,4,5,55,0,Layup Shot,2,8,27,True
+KarlAnthony Towns,3,3,40,1,Layup Shot,1,-14,1,True
+KarlAnthony Towns,1,9,24,1,Layup Shot,1,-11,9,True
+KarlAnthony Towns,3,7,9,0,Layup Shot,2,18,23,True
+KarlAnthony Towns,4,2,6,1,Layup Shot,1,-13,9,True
+KarlAnthony Towns,1,9,47,0,Layup Shot,9,3,93,True
+KarlAnthony Towns,1,5,5,0,Layup Shot,3,29,27,True
+KarlAnthony Towns,2,2,8,0,Layup Shot,6,4,65,True
+KarlAnthony Towns,2,1,9,0,Layup Shot,1,-13,6,True
+KarlAnthony Towns,2,4,33,0,Layup Shot,2,23,3,True
+KarlAnthony Towns,1,7,44,0,Layup Shot,3,3,31,True
+KarlAnthony Towns,2,1,6,1,Layup Shot,1,13,14,True
+KarlAnthony Towns,1,7,7,0,Layup Shot,7,32,68,True
+KarlAnthony Towns,2,4,20,1,Layup Shot,0,1,5,True
+KarlAnthony Towns,1,5,3,1,Layup Shot,2,19,10,True
+KarlAnthony Towns,2,5,7,0,Layup Shot,1,12,10,True
+KarlAnthony Towns,1,8,30,0,Layup Shot,3,8,36,True
+KarlAnthony Towns,2,11,30,1,Layup Shot,3,8,29,True
+KarlAnthony Towns,1,11,46,0,Layup Shot,1,-13,11,True
+KarlAnthony Towns,4,2,29,0,Layup Shot,5,53,18,True
+KarlAnthony Towns,2,2,9,1,Layup Shot,4,-10,45,True
+KarlAnthony Towns,4,11,41,0,Layup Shot,1,-2,13,True
+KarlAnthony Towns,4,2,50,0,Layup Shot,2,5,21,True
+KarlAnthony Towns,1,6,19,1,Layup Shot,1,-4,10,True
+KarlAnthony Towns,1,1,16,1,Layup Shot,2,18,19,True
+KarlAnthony Towns,1,10,46,1,Layup Shot,2,-5,29,True
+KarlAnthony Towns,5,1,12,0,Layup Shot,0,-3,9,True
+KarlAnthony Towns,1,11,43,0,Layup Shot,2,-13,25,True
+KarlAnthony Towns,3,5,17,1,Layup Shot,2,4,29,True
+KarlAnthony Towns,3,9,20,0,Layup Shot,1,-5,15,True
+KarlAnthony Towns,3,9,16,0,Layup Shot,1,4,17,True
+KarlAnthony Towns,2,7,0,1,Layup Shot,0,-2,9,True
+KarlAnthony Towns,4,4,17,1,Layup Shot,0,-6,5,True
+KarlAnthony Towns,1,10,11,0,Layup Shot,6,-29,62,True
+KarlAnthony Towns,1,6,20,1,Layup Shot,0,3,8,True
+KarlAnthony Towns,3,10,12,0,Layup Shot,1,3,12,True
+KarlAnthony Towns,4,9,49,0,Layup Shot,5,-1,50,True
+KarlAnthony Towns,2,11,3,1,Layup Shot,0,-9,2,True
+KarlAnthony Towns,3,4,19,0,Layup Shot,2,-17,15,True
+KarlAnthony Towns,4,1,7,1,Layup Shot,0,-3,8,True
+KarlAnthony Towns,4,2,2,1,Layup Shot,5,-32,43,True
+KarlAnthony Towns,3,11,33,0,Layup Shot,2,-5,21,True
+KarlAnthony Towns,4,4,33,1,Layup Shot,2,8,25,True
+KarlAnthony Towns,1,1,37,1,Layup Shot,1,2,10,True
+KarlAnthony Towns,1,4,10,1,Layup Shot,0,-2,2,True
+KarlAnthony Towns,2,1,28,1,Layup Shot,1,8,15,True
+KarlAnthony Towns,2,1,32,0,Layup Shot,2,-13,21,True
+KarlAnthony Towns,3,6,46,1,Layup Shot,1,9,6,True
+KarlAnthony Towns,1,7,14,1,Layup Shot,0,-4,0,True
+KarlAnthony Towns,1,6,27,0,Layup Shot,0,6,5,True
+KarlAnthony Towns,1,6,32,1,Layup Shot,1,6,19,True
+KarlAnthony Towns,2,5,13,0,Layup Shot,2,1,22,True
+KarlAnthony Towns,4,6,31,0,Layup Shot,1,-4,10,True
+KarlAnthony Towns,4,8,4,1,Layup Shot,1,1,17,True
+KarlAnthony Towns,2,11,5,0,Layup Shot,4,11,44,True
+KarlAnthony Towns,3,7,38,1,Layup Shot,1,-6,11,True
+KarlAnthony Towns,4,9,48,0,Layup Shot,5,0,50,True
+KarlAnthony Towns,1,5,13,1,Layup Shot,2,9,21,True
+KarlAnthony Towns,2,0,58,1,Layup Shot,1,-3,15,True
+KarlAnthony Towns,4,11,23,1,Layup Shot,2,3,22,True
+KarlAnthony Towns,3,4,23,1,Layup Shot,2,-2,21,True
+KarlAnthony Towns,1,8,37,0,Layup Shot,2,25,16,True
+KarlAnthony Towns,3,9,33,1,Layup Shot,2,3,21,True
+KarlAnthony Towns,2,2,4,1,Layup Shot,1,-18,-1,True
+KarlAnthony Towns,3,7,53,0,Layup Shot,2,-27,-3,True
+KarlAnthony Towns,1,3,56,1,Layup Shot,1,0,10,True
+KarlAnthony Towns,3,5,53,0,Layup Shot,5,-52,7,True
+KarlAnthony Towns,3,7,17,1,Layup Shot,0,3,6,True
+KarlAnthony Towns,2,5,3,1,Layup Shot,1,15,5,True
+KarlAnthony Towns,4,1,59,0,Layup Shot,2,-14,21,True
+KarlAnthony Towns,2,10,5,0,Layup Shot,1,13,9,True
+KarlAnthony Towns,1,4,35,1,Layup Shot,1,-14,9,True
+KarlAnthony Towns,2,2,19,1,Layup Shot,1,-5,11,True
+KarlAnthony Towns,4,7,52,1,Layup Shot,3,-17,26,True
+KarlAnthony Towns,3,6,4,0,Pullup Jump shot,11,3,116,True
+KarlAnthony Towns,1,9,38,1,Pullup Jump shot,19,-5,192,True
+KarlAnthony Towns,4,10,57,1,Pullup Jump shot,25,-149,201,False
+KarlAnthony Towns,2,6,14,1,Pullup Jump shot,17,12,177,True
+KarlAnthony Towns,2,5,3,0,Pullup Jump shot,10,56,89,True
+KarlAnthony Towns,4,2,0,0,Pullup Jump shot,16,-27,159,True
+KarlAnthony Towns,1,10,52,0,Pullup Jump shot,19,-26,198,True
+KarlAnthony Towns,1,7,3,1,Pullup Jump shot,10,38,96,True
+KarlAnthony Towns,2,11,49,1,Pullup Jump shot,24,41,241,False
+KarlAnthony Towns,3,5,42,0,Pullup Jump shot,19,51,184,True
+KarlAnthony Towns,2,6,59,1,Pullup Jump shot,6,30,53,True
+KarlAnthony Towns,2,5,32,1,Putback Dunk Shot,1,7,14,True
+KarlAnthony Towns,3,0,2,1,Putback Dunk Shot,0,0,-6,True
+KarlAnthony Towns,3,4,39,1,Putback Dunk Shot,0,0,-6,True
+KarlAnthony Towns,2,8,35,1,Putback Dunk Shot,0,0,-6,True
+KarlAnthony Towns,4,9,57,0,Putback Dunk Shot,1,-14,4,True
+KarlAnthony Towns,4,1,52,0,Putback Dunk Shot,0,0,-6,True
+KarlAnthony Towns,1,7,47,1,Putback Dunk Shot,0,0,-6,True
+KarlAnthony Towns,3,4,59,1,Putback Dunk Shot,1,5,17,True
+KarlAnthony Towns,4,4,45,1,Putback Dunk Shot,0,0,-6,True
+KarlAnthony Towns,4,9,59,1,Putback Dunk Shot,0,0,-6,True
+KarlAnthony Towns,4,6,8,1,Putback Dunk Shot,0,0,-6,True
+KarlAnthony Towns,1,10,5,1,Putback Dunk Shot,2,-4,22,True
+KarlAnthony Towns,3,8,16,1,Putback Dunk Shot,0,0,-6,True
+KarlAnthony Towns,2,6,40,1,Putback Layup Shot,0,-3,7,True
+KarlAnthony Towns,3,4,32,1,Putback Layup Shot,1,-1,13,True
+KarlAnthony Towns,4,4,57,1,Putback Layup Shot,0,0,-6,True
+KarlAnthony Towns,2,1,14,1,Putback Layup Shot,0,0,-6,True
+KarlAnthony Towns,4,4,25,0,Putback Layup Shot,0,-5,2,True
+KarlAnthony Towns,4,9,21,1,Putback Layup Shot,1,-2,18,True
+KarlAnthony Towns,4,9,47,0,Putback Layup Shot,0,-4,9,True
+KarlAnthony Towns,1,9,52,1,Putback Layup Shot,0,-4,4,True
+KarlAnthony Towns,1,11,21,1,Putback Layup Shot,0,-3,8,True
+KarlAnthony Towns,2,2,5,1,Putback Layup Shot,1,4,12,True
+KarlAnthony Towns,2,9,45,1,Putback Layup Shot,2,6,22,True
+KarlAnthony Towns,4,4,14,1,Putback Layup Shot,4,-6,44,True
+KarlAnthony Towns,3,5,45,1,Putback Layup Shot,1,-5,16,True
+KarlAnthony Towns,1,8,38,0,Putback Layup Shot,2,-21,8,True
+KarlAnthony Towns,2,1,43,1,Putback Layup Shot,1,2,16,True
+KarlAnthony Towns,5,4,1,0,Putback Layup Shot,0,-2,1,True
+KarlAnthony Towns,1,10,49,1,Putback Layup Shot,1,-13,-4,True
+KarlAnthony Towns,4,9,47,1,Putback Layup Shot,2,0,20,True
+KarlAnthony Towns,3,9,20,0,Putback Layup Shot,0,0,6,True
+KarlAnthony Towns,3,10,41,1,Putback Layup Shot,0,0,-6,True
+KarlAnthony Towns,2,3,46,1,Putback Layup Shot,1,7,14,True
+KarlAnthony Towns,1,11,12,1,Putback Layup Shot,1,-5,11,True
+KarlAnthony Towns,1,5,0,1,Putback Layup Shot,4,-31,27,True
+KarlAnthony Towns,2,1,6,1,Putback Layup Shot,0,0,0,True
+KarlAnthony Towns,4,4,8,1,Putback Layup Shot,0,0,-6,True
+KarlAnthony Towns,3,2,12,1,Putback Layup Shot,0,0,-6,True
+KarlAnthony Towns,1,8,46,1,Reverse Dunk Shot,0,1,9,True
+KarlAnthony Towns,2,4,52,0,Reverse Layup Shot,3,16,30,True
+KarlAnthony Towns,1,11,33,1,Reverse Layup Shot,1,13,13,True
+KarlAnthony Towns,2,4,29,1,Reverse Layup Shot,1,5,11,True
+KarlAnthony Towns,1,7,34,1,Reverse Layup Shot,1,12,4,True
+KarlAnthony Towns,1,11,8,1,Running Alley Oop Layup Shot,0,-1,1,True
+KarlAnthony Towns,2,6,10,1,Running Dunk Shot,1,6,9,True
+KarlAnthony Towns,4,10,17,1,Running Dunk Shot,1,16,-11,True
+KarlAnthony Towns,1,6,23,1,Running Dunk Shot,1,-4,17,True
+KarlAnthony Towns,4,8,39,1,Running Dunk Shot,0,1,3,True
+KarlAnthony Towns,1,9,26,0,Running Dunk Shot,2,0,21,True
+KarlAnthony Towns,1,5,46,0,Running Jump Shot,4,27,38,True
+KarlAnthony Towns,2,11,44,1,Running Jump Shot,8,36,80,True
+KarlAnthony Towns,3,11,44,1,Running Layup Shot,1,-11,4,True
+KarlAnthony Towns,4,6,42,1,Running Layup Shot,0,5,8,True
+KarlAnthony Towns,2,1,46,1,Running Layup Shot,2,24,6,True
+KarlAnthony Towns,4,7,2,1,Running Layup Shot,1,-8,-8,True
+KarlAnthony Towns,3,10,9,1,Running Layup Shot,0,6,5,True
+KarlAnthony Towns,1,8,1,1,Running Reverse Layup Shot,0,2,6,True
+KarlAnthony Towns,2,3,0,1,Step Back Jump shot,18,23,179,True
+KarlAnthony Towns,1,7,51,1,Step Back Jump shot,16,-140,83,True
+KarlAnthony Towns,1,11,43,0,Step Back Jump shot,15,-154,20,True
+KarlAnthony Towns,2,10,0,1,Step Back Jump shot,14,148,24,True
+KarlAnthony Towns,2,6,30,0,Step Back Jump shot,15,67,137,True
+KarlAnthony Towns,2,6,44,1,Step Back Jump shot,21,29,209,True
+KarlAnthony Towns,2,9,20,0,Step Back Jump shot,26,-123,235,False
+KarlAnthony Towns,2,4,7,1,Step Back Jump shot,15,-155,-11,True
+KarlAnthony Towns,2,10,0,1,Step Back Jump shot,14,111,96,True
+KarlAnthony Towns,4,10,18,0,Step Back Jump shot,21,-55,212,True
+KarlAnthony Towns,1,7,4,1,Step Back Jump shot,17,21,170,True
+KarlAnthony Towns,4,4,3,1,Step Back Jump shot,25,-8,252,False
+KarlAnthony Towns,4,0,43,0,Step Back Jump shot,25,151,209,False
+KarlAnthony Towns,3,6,22,1,Step Back Jump shot,16,-164,18,True
+KarlAnthony Towns,3,4,39,0,Step Back Jump shot,20,63,199,True
+KarlAnthony Towns,3,3,32,0,Step Back Jump shot,20,101,176,True
+KarlAnthony Towns,3,5,26,1,Step Back Jump shot,14,145,22,True
+KarlAnthony Towns,4,8,22,1,Step Back Jump shot,13,134,-10,True
+KarlAnthony Towns,2,10,28,1,Tip Dunk Shot,0,0,-6,True
+KarlAnthony Towns,3,4,29,1,Tip Dunk Shot,0,0,-6,True
+KarlAnthony Towns,2,4,35,1,Tip Dunk Shot,1,0,10,True
+KarlAnthony Towns,4,1,37,1,Tip Dunk Shot,0,0,-6,True
+KarlAnthony Towns,4,3,6,0,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,4,10,25,1,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,2,1,4,0,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,1,2,46,1,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,3,5,42,1,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,2,6,19,0,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,1,8,51,1,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,4,6,1,0,Tip Layup Shot,1,5,11,True
+KarlAnthony Towns,3,8,55,1,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,1,7,2,1,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,1,4,14,1,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,3,1,47,0,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,2,5,26,0,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,4,6,17,1,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,3,5,45,0,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,1,6,10,1,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,4,1,19,1,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,1,8,28,1,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,4,10,41,1,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,3,6,50,1,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,4,11,26,0,Tip Layup Shot,0,5,4,True
+KarlAnthony Towns,3,10,33,1,Tip Layup Shot,0,0,-6,True
+KarlAnthony Towns,3,8,13,0,Tip Layup Shot,1,-5,15,True
+KarlAnthony Towns,1,11,18,1,Turnaround Bank Hook Shot,7,-64,34,True
+KarlAnthony Towns,4,10,14,1,Turnaround Fadeaway Bank Jump Shot,6,-51,47,True
+KarlAnthony Towns,3,8,25,1,Turnaround Fadeaway Bank Jump Shot,4,44,18,True
+KarlAnthony Towns,3,6,54,0,Turnaround Fadeaway Bank Jump Shot,3,-24,22,True
+KarlAnthony Towns,2,7,43,1,Turnaround Fadeaway Bank Jump Shot,2,22,20,True
+KarlAnthony Towns,3,10,8,0,Turnaround Fadeaway Bank Jump Shot,8,79,28,True
+KarlAnthony Towns,4,3,33,1,Turnaround Fadeaway shot,11,-110,16,True
+KarlAnthony Towns,3,7,13,0,Turnaround Fadeaway shot,10,-96,36,True
+KarlAnthony Towns,2,3,54,0,Turnaround Fadeaway shot,16,169,-10,True
+KarlAnthony Towns,3,7,45,1,Turnaround Fadeaway shot,12,4,122,True
+KarlAnthony Towns,2,3,29,0,Turnaround Fadeaway shot,13,-134,6,True
+KarlAnthony Towns,1,5,8,1,Turnaround Fadeaway shot,14,23,140,True
+KarlAnthony Towns,3,4,21,1,Turnaround Fadeaway shot,19,-160,111,True
+KarlAnthony Towns,1,8,49,0,Turnaround Fadeaway shot,9,-2,97,True
+KarlAnthony Towns,3,11,40,0,Turnaround Fadeaway shot,12,-122,5,True
+KarlAnthony Towns,1,11,24,1,Turnaround Fadeaway shot,10,-109,3,True
+KarlAnthony Towns,3,7,38,0,Turnaround Fadeaway shot,11,-34,115,True
+KarlAnthony Towns,2,9,2,0,Turnaround Fadeaway shot,8,-25,84,True
+KarlAnthony Towns,4,10,15,0,Turnaround Fadeaway shot,13,111,79,True
+KarlAnthony Towns,2,5,57,1,Turnaround Fadeaway shot,11,21,112,True
+KarlAnthony Towns,4,8,45,0,Turnaround Fadeaway shot,15,-121,91,True
+KarlAnthony Towns,1,10,9,0,Turnaround Fadeaway shot,17,130,115,True
+KarlAnthony Towns,1,11,21,0,Turnaround Fadeaway shot,15,1,153,True
+KarlAnthony Towns,2,1,58,0,Turnaround Fadeaway shot,11,-111,14,True
+KarlAnthony Towns,4,9,16,0,Turnaround Fadeaway shot,10,-108,20,True
+KarlAnthony Towns,2,1,57,1,Turnaround Fadeaway shot,12,-125,15,True
+KarlAnthony Towns,4,3,10,0,Turnaround Fadeaway shot,12,-123,20,True
+KarlAnthony Towns,4,3,20,1,Turnaround Fadeaway shot,11,-18,113,True
+KarlAnthony Towns,1,7,59,1,Turnaround Fadeaway shot,16,116,119,True
+KarlAnthony Towns,2,3,32,1,Turnaround Fadeaway shot,17,79,161,True
+KarlAnthony Towns,1,7,13,0,Turnaround Fadeaway shot,14,-144,11,True
+KarlAnthony Towns,3,10,24,1,Turnaround Fadeaway shot,10,-103,37,True
+KarlAnthony Towns,2,7,9,1,Turnaround Hook Shot,8,85,14,True
+KarlAnthony Towns,3,10,42,0,Turnaround Hook Shot,7,74,8,True
+KarlAnthony Towns,4,7,40,0,Turnaround Hook Shot,5,57,2,True
+KarlAnthony Towns,1,7,40,0,Turnaround Hook Shot,10,-28,100,True
+KarlAnthony Towns,3,11,41,1,Turnaround Hook Shot,9,98,6,True
+KarlAnthony Towns,2,10,46,0,Turnaround Hook Shot,4,-47,6,True
+KarlAnthony Towns,3,9,9,1,Turnaround Hook Shot,9,-55,83,True
+KarlAnthony Towns,4,6,12,0,Turnaround Hook Shot,6,-43,46,True
+KarlAnthony Towns,1,5,27,1,Turnaround Hook Shot,8,79,15,True
+KarlAnthony Towns,2,1,35,0,Turnaround Hook Shot,6,-59,29,True
+KarlAnthony Towns,2,3,46,1,Turnaround Hook Shot,4,-7,41,True
+KarlAnthony Towns,2,6,38,1,Turnaround Hook Shot,6,-2,64,True
+KarlAnthony Towns,4,8,43,1,Turnaround Hook Shot,5,51,5,True
+KarlAnthony Towns,4,3,19,1,Turnaround Hook Shot,8,-81,15,True
+KarlAnthony Towns,1,2,25,0,Turnaround Hook Shot,6,-22,58,True
+KarlAnthony Towns,1,6,30,0,Turnaround Hook Shot,6,62,-1,True
+KarlAnthony Towns,1,5,57,1,Turnaround Hook Shot,4,2,41,True
+KarlAnthony Towns,1,4,58,1,Turnaround Hook Shot,4,1,43,True
+KarlAnthony Towns,2,7,8,0,Turnaround Hook Shot,8,7,83,True
+KarlAnthony Towns,1,9,4,1,Turnaround Hook Shot,9,-77,62,True
+KarlAnthony Towns,4,5,51,0,Turnaround Hook Shot,11,-67,99,True
+KarlAnthony Towns,2,7,22,1,Turnaround Hook Shot,4,25,38,True
+KarlAnthony Towns,1,7,45,1,Turnaround Hook Shot,5,57,17,True
+KarlAnthony Towns,2,8,1,0,Turnaround Hook Shot,9,-74,61,True
+KarlAnthony Towns,2,2,5,1,Turnaround Hook Shot,7,-43,62,True
+KarlAnthony Towns,1,5,37,0,Turnaround Hook Shot,6,66,3,True
+KarlAnthony Towns,4,11,46,1,Turnaround Hook Shot,7,3,74,True
+KarlAnthony Towns,1,11,45,0,Turnaround Hook Shot,8,83,10,True
+KarlAnthony Towns,3,6,7,0,Turnaround Hook Shot,7,-67,22,True
+KarlAnthony Towns,1,11,15,0,Turnaround Hook Shot,6,-2,64,True
+KarlAnthony Towns,1,10,20,0,Turnaround Hook Shot,9,-86,37,True
+KarlAnthony Towns,2,4,31,1,Turnaround Hook Shot,9,-76,59,True
+KarlAnthony Towns,4,8,56,1,Turnaround Hook Shot,4,-18,38,True
+KarlAnthony Towns,3,9,55,0,Turnaround Hook Shot,7,-68,32,True
+KarlAnthony Towns,4,8,2,0,Turnaround Hook Shot,6,-60,22,True
+KarlAnthony Towns,1,5,19,1,Turnaround Hook Shot,7,74,24,True
+KarlAnthony Towns,3,5,43,0,Turnaround Hook Shot,7,-72,3,True
+KarlAnthony Towns,3,9,57,0,Turnaround Hook Shot,11,-54,99,True
+KarlAnthony Towns,1,4,44,0,Turnaround Hook Shot,6,67,15,True
+KarlAnthony Towns,4,4,56,1,Turnaround Hook Shot,8,-73,42,True
+KarlAnthony Towns,3,9,18,0,Turnaround Hook Shot,5,6,59,True
+KarlAnthony Towns,1,11,14,1,Turnaround Hook Shot,9,81,47,True
+KarlAnthony Towns,2,7,22,0,Turnaround Hook Shot,8,-5,85,True
+KarlAnthony Towns,1,11,43,1,Turnaround Hook Shot,9,89,17,True
+KarlAnthony Towns,4,6,32,1,Turnaround Hook Shot,8,81,39,True
+KarlAnthony Towns,2,6,32,0,Turnaround Hook Shot,2,17,11,True
+KarlAnthony Towns,4,0,11,0,Turnaround Hook Shot,2,21,16,True
+KarlAnthony Towns,3,6,47,1,Turnaround Hook Shot,7,71,15,True
+KarlAnthony Towns,1,11,39,0,Turnaround Jump Shot,16,-130,109,True
+KarlAnthony Towns,3,11,48,0,Turnaround Jump Shot,12,122,3,True
+KarlAnthony Towns,3,4,39,0,Turnaround Jump Shot,8,82,21,True
+KarlAnthony Towns,1,9,0,1,Turnaround Jump Shot,10,3,103,True
+KarlAnthony Towns,1,11,40,0,Turnaround Jump Shot,6,61,13,True
+KarlAnthony Towns,2,2,54,1,Turnaround Jump Shot,9,90,20,True
+KarlAnthony Towns,3,10,6,0,Turnaround Jump Shot,5,-58,6,True
+KarlAnthony Towns,1,11,43,0,Turnaround Jump Shot,8,-81,6,True
+KarlAnthony Towns,1,8,29,0,Turnaround Jump Shot,16,139,95,True
+KarlAnthony Towns,1,8,56,1,Turnaround Jump Shot,3,-4,35,True
+KarlAnthony Towns,1,11,39,0,Turnaround Jump Shot,12,-120,35,True
+KarlAnthony Towns,2,0,32,0,Turnaround Jump Shot,6,63,13,True
+KarlAnthony Towns,3,11,31,1,Turnaround Jump Shot,6,57,21,True
+KarlAnthony Towns,3,9,36,1,Turnaround Jump Shot,10,101,40,True
+KarlAnthony Towns,3,11,45,0,Turnaround Jump Shot,18,-183,43,True
+KarlAnthony Towns,1,4,46,1,Turnaround Jump Shot,15,-152,6,True
+KarlAnthony Towns,1,5,8,1,Turnaround Jump Shot,10,-101,43,True
+KarlAnthony Towns,2,9,27,0,Turnaround Jump Shot,8,-88,17,True
+KarlAnthony Towns,3,6,29,1,Turnaround Jump Shot,17,40,174,True
+KarlAnthony Towns,2,6,56,0,Turnaround Jump Shot,8,79,25,True
+KarlAnthony Towns,1,4,50,1,Turnaround Jump Shot,8,49,72,True
+KarlAnthony Towns,4,6,51,1,Turnaround Jump Shot,6,-27,59,True
+KarlAnthony Towns,1,11,28,1,Turnaround Jump Shot,10,-64,78,True
+KarlAnthony Towns,2,8,9,0,Turnaround Jump Shot,7,79,1,True
+KarlAnthony Towns,1,7,28,0,Turnaround Jump Shot,17,170,-11,True
+KarlAnthony Towns,1,4,36,1,Turnaround Jump Shot,14,-135,62,True
+KarlAnthony Towns,2,7,19,0,Turnaround Jump Shot,13,-139,-11,True
+KarlAnthony Towns,2,6,24,1,Turnaround Jump Shot,8,79,14,True
+KarlAnthony Towns,4,3,28,1,Turnaround Jump Shot,7,-76,-6,True
+KarlAnthony Towns,2,7,30,0,Turnaround Jump Shot,15,-156,-21,True
+KarlAnthony Towns,2,6,0,0,Turnaround Jump Shot,7,-42,66,True
+KarlAnthony Towns,1,11,21,1,Turnaround Jump Shot,6,-62,0,True
+KarlAnthony Towns,2,4,6,1,Turnaround Jump Shot,8,83,14,True
+KarlAnthony Towns,2,1,55,0,Turnaround Jump Shot,7,-71,3,True
+KarlAnthony Towns,2,6,11,0,Turnaround Jump Shot,10,101,43,True
+KarlAnthony Towns,3,9,36,1,Turnaround Jump Shot,18,-188,13,True
+KarlAnthony Towns,4,9,41,0,Turnaround Jump Shot,14,-136,51,True
+KarlAnthony Towns,4,9,49,0,Turnaround Jump Shot,7,2,78,True
+KarlAnthony Towns,2,0,57,1,Turnaround Jump Shot,2,8,22,True
+KarlAnthony Towns,3,4,13,1,Turnaround Jump Shot,9,-84,48,True

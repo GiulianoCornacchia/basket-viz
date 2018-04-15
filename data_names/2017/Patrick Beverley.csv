@@ -1,0 +1,120 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Patrick Beverley,4,7,27,1,Cutting Finger Roll Layup Shot,1,2,18,True
+Patrick Beverley,1,10,27,0,Cutting Layup Shot,1,-9,13,True
+Patrick Beverley,1,2,14,0,Driving Bank Hook Shot,10,96,50,True
+Patrick Beverley,2,10,18,0,Driving Floating Bank Jump Shot,4,43,17,True
+Patrick Beverley,2,0,28,1,Driving Floating Jump Shot,1,-14,13,True
+Patrick Beverley,1,9,16,0,Driving Floating Jump Shot,10,43,95,True
+Patrick Beverley,1,9,33,0,Driving Floating Jump Shot,4,3,43,True
+Patrick Beverley,1,9,22,1,Driving Floating Jump Shot,8,-19,84,True
+Patrick Beverley,3,5,37,1,Driving Floating Jump Shot,2,-11,20,True
+Patrick Beverley,3,9,43,0,Driving Layup Shot,3,-22,31,True
+Patrick Beverley,3,11,15,0,Driving Layup Shot,1,19,6,True
+Patrick Beverley,3,3,16,0,Driving Layup Shot,2,5,25,True
+Patrick Beverley,3,10,57,0,Driving Layup Shot,2,-16,25,True
+Patrick Beverley,2,8,54,1,Driving Layup Shot,1,-3,11,True
+Patrick Beverley,4,7,35,1,Driving Layup Shot,2,16,15,True
+Patrick Beverley,1,8,44,0,Driving Layup Shot,3,6,31,True
+Patrick Beverley,1,8,12,0,Driving Layup Shot,1,19,3,True
+Patrick Beverley,3,9,50,0,Driving Layup Shot,7,45,55,True
+Patrick Beverley,2,8,27,1,Driving Layup Shot,0,2,7,True
+Patrick Beverley,1,4,53,1,Driving Layup Shot,0,8,0,True
+Patrick Beverley,2,2,48,1,Driving Layup Shot,1,14,0,True
+Patrick Beverley,2,2,51,1,Driving Layup Shot,1,-14,6,True
+Patrick Beverley,3,2,4,1,Driving Layup Shot,0,-1,1,True
+Patrick Beverley,4,4,16,0,Driving Reverse Layup Shot,1,-12,11,True
+Patrick Beverley,2,4,32,1,Floating Jump shot,10,65,77,True
+Patrick Beverley,1,11,24,0,Floating Jump shot,10,77,71,True
+Patrick Beverley,2,2,29,1,Floating Jump shot,3,-11,31,True
+Patrick Beverley,1,11,13,0,Floating Jump shot,14,42,142,True
+Patrick Beverley,1,9,2,1,Floating Jump shot,13,45,124,True
+Patrick Beverley,3,8,39,0,Floating Jump shot,8,-33,74,True
+Patrick Beverley,3,2,11,0,Floating Jump shot,8,-73,43,True
+Patrick Beverley,1,11,18,1,Floating Jump shot,8,78,41,True
+Patrick Beverley,3,10,48,0,Hook Shot,7,-49,60,True
+Patrick Beverley,2,7,33,0,Hook Shot,4,20,40,True
+Patrick Beverley,2,9,0,1,Hook Shot,4,-36,23,True
+Patrick Beverley,3,7,11,1,Hook Shot,4,-46,17,True
+Patrick Beverley,4,3,27,0,Jump Bank Shot,20,-185,83,True
+Patrick Beverley,4,4,57,1,Jump Shot,28,-139,247,False
+Patrick Beverley,4,6,58,1,Jump Shot,24,184,164,False
+Patrick Beverley,4,9,26,0,Jump Shot,25,109,228,False
+Patrick Beverley,1,3,4,0,Jump Shot,20,202,3,True
+Patrick Beverley,3,8,17,0,Jump Shot,24,-93,226,False
+Patrick Beverley,1,6,33,0,Jump Shot,27,139,237,False
+Patrick Beverley,1,9,5,1,Jump Shot,25,-128,219,False
+Patrick Beverley,3,11,27,1,Jump Shot,25,-119,225,False
+Patrick Beverley,3,9,2,0,Jump Shot,25,187,170,False
+Patrick Beverley,3,7,5,1,Jump Shot,25,-121,223,False
+Patrick Beverley,1,8,2,0,Jump Shot,25,-114,227,False
+Patrick Beverley,3,6,38,0,Jump Shot,26,-30,260,False
+Patrick Beverley,3,10,23,0,Jump Shot,23,-236,-8,False
+Patrick Beverley,3,2,34,0,Jump Shot,25,171,185,False
+Patrick Beverley,4,5,11,0,Jump Shot,24,-237,65,False
+Patrick Beverley,3,4,48,0,Jump Shot,24,-177,175,False
+Patrick Beverley,4,7,42,1,Jump Shot,26,14,263,False
+Patrick Beverley,2,6,3,1,Jump Shot,25,-123,219,False
+Patrick Beverley,1,9,0,0,Jump Shot,24,-118,211,False
+Patrick Beverley,1,7,51,0,Jump Shot,24,-36,246,False
+Patrick Beverley,3,9,48,0,Jump Shot,23,-232,15,False
+Patrick Beverley,3,11,34,0,Jump Shot,25,55,248,False
+Patrick Beverley,1,3,29,1,Jump Shot,25,214,142,False
+Patrick Beverley,4,9,21,0,Jump Shot,25,141,218,False
+Patrick Beverley,3,4,15,0,Jump Shot,25,-81,243,False
+Patrick Beverley,1,6,39,0,Jump Shot,25,114,227,False
+Patrick Beverley,1,5,52,0,Jump Shot,24,-73,234,False
+Patrick Beverley,1,7,26,1,Jump Shot,23,-230,-17,False
+Patrick Beverley,3,5,21,0,Jump Shot,23,-232,11,False
+Patrick Beverley,1,9,5,0,Jump Shot,22,-223,-13,False
+Patrick Beverley,3,5,55,1,Jump Shot,26,-123,231,False
+Patrick Beverley,1,10,56,0,Jump Shot,24,155,193,False
+Patrick Beverley,1,8,19,1,Jump Shot,26,68,252,False
+Patrick Beverley,3,8,7,1,Jump Shot,22,223,-4,False
+Patrick Beverley,1,3,1,0,Jump Shot,9,23,88,True
+Patrick Beverley,3,5,5,1,Jump Shot,25,-185,172,False
+Patrick Beverley,1,4,54,0,Jump Shot,27,-87,256,False
+Patrick Beverley,3,3,12,0,Jump Shot,25,25,257,False
+Patrick Beverley,1,4,47,0,Jump Shot,24,139,204,False
+Patrick Beverley,3,7,15,1,Jump Shot,25,91,236,False
+Patrick Beverley,2,4,15,0,Jump Shot,25,228,113,False
+Patrick Beverley,1,2,55,1,Jump Shot,24,204,137,False
+Patrick Beverley,1,9,17,0,Jump Shot,22,-228,9,False
+Patrick Beverley,1,1,20,1,Jump Shot,25,233,106,False
+Patrick Beverley,3,8,18,0,Jump Shot,24,229,100,False
+Patrick Beverley,3,4,35,0,Jump Shot,26,98,243,False
+Patrick Beverley,1,0,56,0,Jump Shot,23,231,8,False
+Patrick Beverley,2,7,15,0,Jump Shot,22,-40,220,True
+Patrick Beverley,1,8,50,1,Jump Shot,25,-85,241,False
+Patrick Beverley,4,1,58,1,Jump Shot,26,188,184,False
+Patrick Beverley,4,0,41,0,Jump Shot,16,-52,161,True
+Patrick Beverley,3,7,1,1,Jump Shot,26,-146,216,False
+Patrick Beverley,2,6,55,0,Jump Shot,26,131,225,False
+Patrick Beverley,3,5,44,0,Jump Shot,26,105,239,False
+Patrick Beverley,1,7,23,0,Jump Shot,4,-40,29,True
+Patrick Beverley,4,4,8,0,Jump Shot,27,-113,255,False
+Patrick Beverley,2,5,57,1,Jump Shot,25,226,128,False
+Patrick Beverley,1,10,47,0,Jump Shot,14,-110,100,True
+Patrick Beverley,3,10,49,1,Jump Shot,22,-226,8,False
+Patrick Beverley,2,4,28,0,Layup Shot,2,-18,11,True
+Patrick Beverley,3,10,23,0,Layup Shot,3,38,8,True
+Patrick Beverley,1,9,0,0,Layup Shot,2,-11,21,True
+Patrick Beverley,4,6,49,1,Layup Shot,2,-11,17,True
+Patrick Beverley,4,11,28,0,Layup Shot,1,10,5,True
+Patrick Beverley,4,1,53,0,Pullup Jump shot,19,149,126,True
+Patrick Beverley,1,9,42,0,Pullup Jump shot,24,-127,214,False
+Patrick Beverley,4,1,55,0,Pullup Jump shot,25,97,235,False
+Patrick Beverley,3,3,41,0,Putback Layup Shot,0,0,-6,True
+Patrick Beverley,3,10,20,1,Running Jump Shot,26,-163,204,False
+Patrick Beverley,4,0,30,1,Running Layup Shot,1,11,8,True
+Patrick Beverley,3,11,1,0,Running Layup Shot,2,19,15,True
+Patrick Beverley,1,10,52,1,Running Layup Shot,1,-16,-1,True
+Patrick Beverley,2,4,14,1,Running Layup Shot,1,-6,10,True
+Patrick Beverley,1,7,50,1,Running Pull-Up Jump Shot,25,100,233,False
+Patrick Beverley,4,2,22,0,Step Back Jump shot,18,62,178,True
+Patrick Beverley,1,8,50,0,Step Back Jump shot,25,185,169,False
+Patrick Beverley,1,6,19,1,Step Back Jump shot,24,-135,203,False
+Patrick Beverley,3,7,23,0,Step Back Jump shot,23,-231,17,False
+Patrick Beverley,3,6,18,1,Tip Layup Shot,0,0,-6,True
+Patrick Beverley,3,9,51,1,Tip Layup Shot,0,0,-6,True
+Patrick Beverley,1,10,8,0,Turnaround Fadeaway shot,12,12,122,True
+Patrick Beverley,4,4,4,1,Turnaround Hook Shot,5,27,51,True

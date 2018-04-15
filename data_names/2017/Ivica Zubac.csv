@@ -1,0 +1,103 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Ivica Zubac,4,7,59,1,Alley Oop Dunk Shot,1,8,6,True
+Ivica Zubac,2,11,45,1,Alley Oop Dunk Shot,1,-2,14,True
+Ivica Zubac,2,9,34,1,Cutting Dunk Shot,1,3,10,True
+Ivica Zubac,2,8,38,1,Cutting Dunk Shot,0,-3,5,True
+Ivica Zubac,4,10,42,1,Cutting Dunk Shot,1,6,17,True
+Ivica Zubac,1,2,35,1,Cutting Dunk Shot,2,16,14,True
+Ivica Zubac,4,10,38,1,Cutting Dunk Shot,0,-2,4,True
+Ivica Zubac,1,1,16,1,Cutting Dunk Shot,1,16,1,True
+Ivica Zubac,4,2,5,1,Cutting Dunk Shot,0,2,1,True
+Ivica Zubac,4,10,17,1,Cutting Layup Shot,2,2,23,True
+Ivica Zubac,1,2,46,0,Cutting Layup Shot,1,-4,16,True
+Ivica Zubac,2,6,27,1,Cutting Layup Shot,1,-14,12,True
+Ivica Zubac,4,7,7,1,Driving Hook Shot,6,-65,3,True
+Ivica Zubac,1,0,37,1,Driving Layup Shot,2,-11,23,True
+Ivica Zubac,1,2,21,1,Dunk Shot,4,-21,40,True
+Ivica Zubac,4,11,47,1,Dunk Shot,2,2,21,True
+Ivica Zubac,4,2,25,0,Dunk Shot,1,0,10,True
+Ivica Zubac,1,2,56,0,Dunk Shot,1,0,10,True
+Ivica Zubac,4,9,43,1,Dunk Shot,1,6,15,True
+Ivica Zubac,4,6,25,1,Finger Roll Layup Shot,1,-6,16,True
+Ivica Zubac,4,1,53,1,Floating Jump shot,4,44,16,True
+Ivica Zubac,1,4,26,0,Floating Jump shot,9,3,92,True
+Ivica Zubac,4,3,22,0,Floating Jump shot,7,0,71,True
+Ivica Zubac,3,0,26,1,Floating Jump shot,3,8,29,True
+Ivica Zubac,2,10,26,0,Floating Jump shot,9,15,90,True
+Ivica Zubac,3,1,21,0,Hook Bank Shot,4,13,43,True
+Ivica Zubac,4,5,13,1,Hook Shot,10,0,106,True
+Ivica Zubac,4,11,14,1,Hook Shot,6,-50,36,True
+Ivica Zubac,2,10,14,1,Hook Shot,4,8,49,True
+Ivica Zubac,1,0,28,0,Hook Shot,9,91,-5,True
+Ivica Zubac,4,1,39,0,Hook Shot,2,18,15,True
+Ivica Zubac,2,9,42,0,Hook Shot,4,-41,4,True
+Ivica Zubac,2,7,38,0,Hook Shot,4,27,36,True
+Ivica Zubac,1,2,51,1,Hook Shot,5,5,51,True
+Ivica Zubac,4,4,48,0,Hook Shot,1,1,13,True
+Ivica Zubac,2,11,0,0,Hook Shot,7,76,0,True
+Ivica Zubac,3,1,46,0,Hook Shot,5,-23,47,True
+Ivica Zubac,2,9,29,0,Hook Shot,13,130,15,True
+Ivica Zubac,4,10,42,0,Hook Shot,9,-78,60,True
+Ivica Zubac,4,1,8,0,Jump Shot,15,157,18,True
+Ivica Zubac,4,3,42,0,Jump Shot,25,-55,245,False
+Ivica Zubac,4,9,38,0,Jump Shot,17,13,178,True
+Ivica Zubac,1,2,55,0,Jump Shot,11,108,42,True
+Ivica Zubac,4,11,26,0,Jump Shot,6,-25,64,True
+Ivica Zubac,2,11,38,0,Jump Shot,3,3,38,True
+Ivica Zubac,4,7,3,1,Jump Shot,15,153,41,True
+Ivica Zubac,4,11,13,0,Jump Shot,1,14,13,True
+Ivica Zubac,2,10,42,0,Jump Shot,6,12,63,True
+Ivica Zubac,4,3,30,0,Jump Shot,1,-4,16,True
+Ivica Zubac,4,3,52,0,Jump Shot,17,32,167,True
+Ivica Zubac,2,10,48,0,Layup Shot,1,-3,17,True
+Ivica Zubac,4,7,45,0,Layup Shot,1,-15,-8,True
+Ivica Zubac,4,10,37,0,Layup Shot,1,-13,6,True
+Ivica Zubac,4,5,36,1,Layup Shot,2,9,24,True
+Ivica Zubac,4,9,35,1,Layup Shot,2,0,21,True
+Ivica Zubac,3,2,8,1,Layup Shot,2,13,16,True
+Ivica Zubac,4,10,24,0,Layup Shot,1,-2,17,True
+Ivica Zubac,1,3,18,1,Layup Shot,0,-5,0,True
+Ivica Zubac,1,3,41,0,Layup Shot,2,-19,13,True
+Ivica Zubac,2,9,33,1,Layup Shot,3,-18,31,True
+Ivica Zubac,2,7,21,1,Layup Shot,1,-2,17,True
+Ivica Zubac,2,9,47,1,Layup Shot,2,13,16,True
+Ivica Zubac,4,1,29,1,Layup Shot,1,6,12,True
+Ivica Zubac,4,10,16,1,Layup Shot,1,-3,16,True
+Ivica Zubac,1,0,8,1,Putback Dunk Shot,2,4,21,True
+Ivica Zubac,4,7,48,1,Putback Layup Shot,0,0,-6,True
+Ivica Zubac,4,3,3,1,Putback Layup Shot,0,0,-6,True
+Ivica Zubac,2,8,1,0,Putback Layup Shot,1,5,13,True
+Ivica Zubac,2,10,38,0,Putback Layup Shot,1,-6,13,True
+Ivica Zubac,3,3,2,1,Reverse Layup Shot,1,-16,10,True
+Ivica Zubac,4,10,50,1,Running Dunk Shot,2,-20,18,True
+Ivica Zubac,3,0,1,1,Running Dunk Shot,2,-16,16,True
+Ivica Zubac,2,8,48,1,Running Dunk Shot,0,2,6,True
+Ivica Zubac,4,3,11,1,Tip Dunk Shot,0,0,-6,True
+Ivica Zubac,3,0,43,0,Tip Layup Shot,0,0,-6,True
+Ivica Zubac,2,11,7,1,Tip Layup Shot,0,0,-6,True
+Ivica Zubac,4,8,23,1,Tip Layup Shot,0,0,-6,True
+Ivica Zubac,3,1,18,0,Tip Layup Shot,0,0,-6,True
+Ivica Zubac,4,10,9,1,Tip Layup Shot,0,0,-6,True
+Ivica Zubac,2,10,40,0,Tip Layup Shot,0,0,-6,True
+Ivica Zubac,4,2,22,1,Tip Layup Shot,0,0,-6,True
+Ivica Zubac,1,1,39,1,Tip Layup Shot,0,0,-6,True
+Ivica Zubac,4,9,41,0,Tip Layup Shot,0,0,-6,True
+Ivica Zubac,2,5,22,1,Tip Layup Shot,0,0,-6,True
+Ivica Zubac,2,8,11,1,Tip Layup Shot,0,0,-6,True
+Ivica Zubac,1,0,29,0,Tip Layup Shot,0,0,-6,True
+Ivica Zubac,4,10,34,1,Tip Layup Shot,0,0,-6,True
+Ivica Zubac,1,4,2,0,Tip Layup Shot,0,0,-6,True
+Ivica Zubac,4,0,19,0,Turnaround Fadeaway Bank Jump Shot,12,-58,115,True
+Ivica Zubac,4,1,28,1,Turnaround Fadeaway Bank Jump Shot,3,-25,28,True
+Ivica Zubac,2,9,59,0,Turnaround Fadeaway shot,8,-86,19,True
+Ivica Zubac,3,1,34,0,Turnaround Hook Shot,11,22,116,True
+Ivica Zubac,4,3,53,0,Turnaround Hook Shot,5,-49,34,True
+Ivica Zubac,2,9,58,1,Turnaround Hook Shot,11,30,116,True
+Ivica Zubac,1,2,32,0,Turnaround Hook Shot,7,-31,72,True
+Ivica Zubac,3,3,18,0,Turnaround Hook Shot,4,43,18,True
+Ivica Zubac,4,11,46,0,Turnaround Hook Shot,7,-60,47,True
+Ivica Zubac,4,10,16,0,Turnaround Hook Shot,2,-18,16,True
+Ivica Zubac,4,1,43,0,Turnaround Hook Shot,8,-81,36,True
+Ivica Zubac,4,2,29,0,Turnaround Hook Shot,7,-6,73,True
+Ivica Zubac,4,0,58,0,Turnaround Hook Shot,7,-71,9,True
+Ivica Zubac,3,1,48,0,Turnaround Jump Shot,13,124,58,True

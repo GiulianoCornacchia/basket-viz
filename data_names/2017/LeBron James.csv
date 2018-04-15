@@ -1,0 +1,1430 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+LeBron James,1,10,28,1,Alley Oop Dunk Shot,0,0,3,True
+LeBron James,1,0,40,1,Alley Oop Dunk Shot,0,-3,-2,True
+LeBron James,4,5,40,1,Alley Oop Dunk Shot,0,-7,4,True
+LeBron James,4,4,31,1,Alley Oop Dunk Shot,0,-3,7,True
+LeBron James,2,2,9,1,Alley Oop Dunk Shot,1,6,11,True
+LeBron James,3,0,59,1,Alley Oop Dunk Shot,1,-10,11,True
+LeBron James,2,11,13,1,Alley Oop Dunk Shot,1,3,11,True
+LeBron James,4,2,24,1,Alley Oop Dunk Shot,1,2,16,True
+LeBron James,2,2,20,1,Alley Oop Dunk Shot,0,2,9,True
+LeBron James,1,6,48,1,Alley Oop Dunk Shot,0,3,9,True
+LeBron James,1,11,6,1,Alley Oop Dunk Shot,0,3,0,True
+LeBron James,1,0,58,1,Alley Oop Dunk Shot,1,6,8,True
+LeBron James,1,8,16,1,Alley Oop Dunk Shot,0,4,1,True
+LeBron James,2,6,10,1,Alley Oop Dunk Shot,1,-15,4,True
+LeBron James,1,4,53,1,Alley Oop Dunk Shot,0,-6,5,True
+LeBron James,2,11,45,1,Alley Oop Layup shot,0,-2,5,True
+LeBron James,3,3,59,0,Alley Oop Layup shot,0,2,-1,True
+LeBron James,2,6,39,1,Alley Oop Layup shot,0,3,6,True
+LeBron James,3,11,46,0,Alley Oop Layup shot,3,0,35,True
+LeBron James,1,6,22,1,Alley Oop Layup shot,1,13,15,True
+LeBron James,1,9,21,0,Alley Oop Layup shot,0,9,1,True
+LeBron James,3,7,42,1,Alley Oop Layup shot,0,6,-5,True
+LeBron James,3,7,8,0,Alley Oop Layup shot,0,6,-7,True
+LeBron James,1,6,0,1,Alley Oop Layup shot,0,3,1,True
+LeBron James,3,6,9,0,Alley Oop Layup shot,0,0,4,True
+LeBron James,3,9,3,1,Alley Oop Layup shot,2,-23,7,True
+LeBron James,1,10,50,1,Alley Oop Layup shot,2,3,24,True
+LeBron James,2,6,34,1,Cutting Dunk Shot,1,7,13,True
+LeBron James,3,8,41,1,Cutting Dunk Shot,0,9,-4,True
+LeBron James,1,8,9,1,Cutting Dunk Shot,1,7,14,True
+LeBron James,1,2,21,1,Cutting Dunk Shot,0,4,0,True
+LeBron James,3,8,4,1,Cutting Dunk Shot,0,-6,-4,True
+LeBron James,2,1,35,1,Cutting Dunk Shot,1,8,8,True
+LeBron James,1,2,31,1,Cutting Dunk Shot,1,3,11,True
+LeBron James,1,5,38,1,Cutting Dunk Shot,1,6,13,True
+LeBron James,4,8,34,1,Cutting Dunk Shot,1,14,4,True
+LeBron James,2,1,25,1,Cutting Dunk Shot,1,17,-1,True
+LeBron James,4,6,30,1,Cutting Dunk Shot,1,6,8,True
+LeBron James,1,6,17,1,Cutting Dunk Shot,0,3,2,True
+LeBron James,3,9,37,1,Cutting Dunk Shot,1,-4,15,True
+LeBron James,1,10,2,1,Cutting Dunk Shot,1,8,12,True
+LeBron James,1,9,1,1,Cutting Dunk Shot,1,2,11,True
+LeBron James,2,4,0,1,Cutting Dunk Shot,1,0,12,True
+LeBron James,1,10,3,1,Cutting Dunk Shot,0,9,3,True
+LeBron James,3,4,37,1,Cutting Dunk Shot,1,-1,15,True
+LeBron James,1,6,32,1,Cutting Dunk Shot,0,-6,6,True
+LeBron James,2,3,20,1,Cutting Dunk Shot,0,-2,6,True
+LeBron James,2,1,54,1,Cutting Dunk Shot,1,-16,-1,True
+LeBron James,2,10,17,1,Cutting Finger Roll Layup Shot,0,8,1,True
+LeBron James,1,2,40,1,Cutting Layup Shot,2,-11,17,True
+LeBron James,3,1,1,1,Cutting Layup Shot,1,-4,14,True
+LeBron James,1,2,55,0,Cutting Layup Shot,1,11,11,True
+LeBron James,2,1,3,1,Cutting Layup Shot,1,13,15,True
+LeBron James,2,3,39,1,Cutting Layup Shot,1,-9,12,True
+LeBron James,3,6,11,1,Cutting Layup Shot,0,2,8,True
+LeBron James,3,6,33,1,Cutting Layup Shot,0,2,3,True
+LeBron James,2,0,24,1,Cutting Layup Shot,1,0,10,True
+LeBron James,4,7,23,1,Cutting Layup Shot,1,6,13,True
+LeBron James,3,3,5,1,Cutting Layup Shot,1,-4,16,True
+LeBron James,3,5,41,1,Cutting Layup Shot,1,9,10,True
+LeBron James,3,8,22,1,Cutting Layup Shot,2,-10,25,True
+LeBron James,3,4,17,1,Cutting Layup Shot,1,9,10,True
+LeBron James,1,1,1,1,Cutting Layup Shot,1,-8,7,True
+LeBron James,1,5,1,1,Cutting Layup Shot,1,-1,10,True
+LeBron James,1,9,16,1,Cutting Layup Shot,0,4,7,True
+LeBron James,2,3,56,1,Cutting Layup Shot,3,6,37,True
+LeBron James,2,3,24,1,Cutting Layup Shot,2,-13,17,True
+LeBron James,1,8,13,1,Cutting Layup Shot,1,3,10,True
+LeBron James,2,2,9,1,Cutting Layup Shot,0,-3,8,True
+LeBron James,1,5,23,1,Cutting Layup Shot,0,0,6,True
+LeBron James,1,9,9,1,Cutting Layup Shot,0,-5,1,True
+LeBron James,1,3,6,1,Cutting Layup Shot,0,2,4,True
+LeBron James,1,8,49,1,Cutting Layup Shot,1,-16,8,True
+LeBron James,1,11,21,1,Cutting Layup Shot,0,-1,2,True
+LeBron James,2,4,33,1,Cutting Layup Shot,1,2,16,True
+LeBron James,2,7,46,1,Cutting Layup Shot,1,-18,0,True
+LeBron James,3,3,37,1,Cutting Layup Shot,2,0,21,True
+LeBron James,2,0,55,0,Cutting Layup Shot,0,2,8,True
+LeBron James,2,7,0,0,Cutting Layup Shot,1,5,15,True
+LeBron James,2,8,6,1,Cutting Layup Shot,1,-9,12,True
+LeBron James,1,5,41,1,Cutting Layup Shot,1,-1,16,True
+LeBron James,2,2,13,1,Cutting Layup Shot,2,-7,26,True
+LeBron James,3,5,23,1,Cutting Layup Shot,0,-1,7,True
+LeBron James,2,6,11,1,Cutting Layup Shot,0,0,6,True
+LeBron James,3,3,30,1,Cutting Layup Shot,2,-20,21,True
+LeBron James,4,3,2,1,Cutting Layup Shot,1,-1,10,True
+LeBron James,1,9,36,1,Cutting Layup Shot,0,3,5,True
+LeBron James,4,3,32,0,Driving Bank Hook Shot,3,33,22,True
+LeBron James,2,5,39,1,Driving Dunk Shot,0,-1,2,True
+LeBron James,2,6,22,1,Driving Dunk Shot,0,-1,7,True
+LeBron James,4,8,5,1,Driving Dunk Shot,0,-7,0,True
+LeBron James,1,6,0,1,Driving Dunk Shot,0,-2,4,True
+LeBron James,1,3,0,1,Driving Dunk Shot,1,0,16,True
+LeBron James,2,0,58,1,Driving Dunk Shot,1,-11,4,True
+LeBron James,1,7,31,1,Driving Dunk Shot,1,13,6,True
+LeBron James,1,8,10,1,Driving Dunk Shot,1,-8,14,True
+LeBron James,3,7,26,1,Driving Dunk Shot,0,0,1,True
+LeBron James,4,2,14,1,Driving Dunk Shot,0,6,1,True
+LeBron James,4,3,38,1,Driving Dunk Shot,1,17,10,True
+LeBron James,1,9,55,1,Driving Dunk Shot,0,-8,0,True
+LeBron James,1,0,17,1,Driving Dunk Shot,1,-1,11,True
+LeBron James,1,7,11,1,Driving Dunk Shot,1,1,11,True
+LeBron James,4,7,42,1,Driving Dunk Shot,0,5,8,True
+LeBron James,4,6,1,1,Driving Dunk Shot,1,12,8,True
+LeBron James,3,1,15,1,Driving Dunk Shot,1,8,11,True
+LeBron James,1,3,53,1,Driving Dunk Shot,0,-5,5,True
+LeBron James,1,9,1,1,Driving Dunk Shot,1,-2,13,True
+LeBron James,3,3,42,1,Driving Dunk Shot,1,7,9,True
+LeBron James,3,7,55,1,Driving Dunk Shot,1,11,13,True
+LeBron James,2,0,44,1,Driving Dunk Shot,1,-4,15,True
+LeBron James,1,2,7,1,Driving Dunk Shot,0,-9,3,True
+LeBron James,1,9,6,1,Driving Dunk Shot,2,2,21,True
+LeBron James,3,9,8,1,Driving Dunk Shot,1,8,13,True
+LeBron James,2,8,19,1,Driving Dunk Shot,1,-2,11,True
+LeBron James,4,4,26,1,Driving Dunk Shot,1,-3,11,True
+LeBron James,4,0,44,1,Driving Dunk Shot,1,16,9,True
+LeBron James,1,10,44,1,Driving Dunk Shot,0,-3,-5,True
+LeBron James,4,5,29,1,Driving Dunk Shot,1,9,8,True
+LeBron James,1,6,58,1,Driving Dunk Shot,0,-3,1,True
+LeBron James,4,2,20,1,Driving Dunk Shot,0,5,-2,True
+LeBron James,2,1,46,1,Driving Dunk Shot,0,3,4,True
+LeBron James,4,4,4,1,Driving Dunk Shot,1,-11,8,True
+LeBron James,1,8,20,1,Driving Dunk Shot,1,-2,10,True
+LeBron James,3,0,23,1,Driving Dunk Shot,1,5,10,True
+LeBron James,2,1,52,0,Driving Dunk Shot,1,-1,12,True
+LeBron James,3,3,4,1,Driving Dunk Shot,0,-1,2,True
+LeBron James,1,5,59,1,Driving Dunk Shot,1,6,16,True
+LeBron James,2,2,35,1,Driving Dunk Shot,0,-8,0,True
+LeBron James,2,1,53,1,Driving Dunk Shot,0,2,0,True
+LeBron James,4,2,1,1,Driving Finger Roll Layup Shot,1,2,13,True
+LeBron James,1,7,19,1,Driving Finger Roll Layup Shot,1,8,9,True
+LeBron James,1,4,3,1,Driving Finger Roll Layup Shot,1,6,14,True
+LeBron James,2,5,38,1,Driving Finger Roll Layup Shot,1,7,14,True
+LeBron James,4,4,32,1,Driving Finger Roll Layup Shot,2,16,13,True
+LeBron James,4,2,18,1,Driving Finger Roll Layup Shot,1,-6,11,True
+LeBron James,1,10,9,1,Driving Finger Roll Layup Shot,0,2,4,True
+LeBron James,1,4,2,0,Driving Finger Roll Layup Shot,1,1,15,True
+LeBron James,2,1,54,1,Driving Finger Roll Layup Shot,1,-1,12,True
+LeBron James,2,2,28,1,Driving Finger Roll Layup Shot,1,-3,19,True
+LeBron James,4,6,24,1,Driving Finger Roll Layup Shot,1,-11,-1,True
+LeBron James,4,1,48,1,Driving Finger Roll Layup Shot,0,3,4,True
+LeBron James,1,0,48,1,Driving Finger Roll Layup Shot,1,6,19,True
+LeBron James,4,10,2,1,Driving Finger Roll Layup Shot,1,13,15,True
+LeBron James,1,0,2,1,Driving Finger Roll Layup Shot,1,9,15,True
+LeBron James,4,5,15,1,Driving Finger Roll Layup Shot,1,-11,1,True
+LeBron James,2,6,22,0,Driving Finger Roll Layup Shot,1,0,11,True
+LeBron James,1,3,50,1,Driving Finger Roll Layup Shot,1,1,11,True
+LeBron James,3,2,0,1,Driving Finger Roll Layup Shot,0,-1,6,True
+LeBron James,4,5,46,1,Driving Finger Roll Layup Shot,0,-1,2,True
+LeBron James,2,6,1,0,Driving Finger Roll Layup Shot,3,-3,32,True
+LeBron James,2,3,13,1,Driving Finger Roll Layup Shot,1,11,15,True
+LeBron James,1,10,12,1,Driving Finger Roll Layup Shot,1,-5,16,True
+LeBron James,1,3,46,1,Driving Finger Roll Layup Shot,0,3,8,True
+LeBron James,2,3,3,1,Driving Finger Roll Layup Shot,2,16,20,True
+LeBron James,1,1,47,1,Driving Finger Roll Layup Shot,1,-3,11,True
+LeBron James,3,5,52,1,Driving Finger Roll Layup Shot,4,17,42,True
+LeBron James,3,2,45,0,Driving Finger Roll Layup Shot,2,-22,15,True
+LeBron James,2,1,0,1,Driving Finger Roll Layup Shot,1,2,16,True
+LeBron James,4,4,25,0,Driving Finger Roll Layup Shot,1,11,12,True
+LeBron James,2,0,2,1,Driving Floating Bank Jump Shot,5,48,31,True
+LeBron James,2,1,41,0,Driving Floating Bank Jump Shot,8,-76,35,True
+LeBron James,4,3,25,1,Driving Floating Bank Jump Shot,8,-85,20,True
+LeBron James,3,6,16,1,Driving Floating Bank Jump Shot,3,30,20,True
+LeBron James,1,10,3,1,Driving Floating Bank Jump Shot,4,46,15,True
+LeBron James,3,7,15,0,Driving Floating Bank Jump Shot,6,-52,44,True
+LeBron James,1,2,7,0,Driving Floating Bank Jump Shot,7,-60,52,True
+LeBron James,2,8,26,0,Driving Floating Bank Jump Shot,8,85,23,True
+LeBron James,4,1,38,1,Driving Floating Bank Jump Shot,5,-57,9,True
+LeBron James,2,3,17,1,Driving Floating Bank Jump Shot,5,-48,25,True
+LeBron James,1,11,11,1,Driving Floating Bank Jump Shot,1,-7,15,True
+LeBron James,4,5,36,0,Driving Floating Bank Jump Shot,10,-103,12,True
+LeBron James,3,6,33,1,Driving Floating Bank Jump Shot,1,0,13,True
+LeBron James,3,9,31,1,Driving Floating Bank Jump Shot,2,27,10,True
+LeBron James,1,8,7,1,Driving Floating Bank Jump Shot,10,91,46,True
+LeBron James,1,0,0,1,Driving Floating Bank Jump Shot,7,-60,47,True
+LeBron James,4,4,26,1,Driving Floating Bank Jump Shot,5,39,39,True
+LeBron James,3,8,26,0,Driving Floating Bank Jump Shot,3,19,28,True
+LeBron James,4,3,56,0,Driving Floating Bank Jump Shot,0,-5,6,True
+LeBron James,3,7,42,0,Driving Floating Bank Jump Shot,7,60,48,True
+LeBron James,3,0,43,0,Driving Floating Bank Jump Shot,6,-65,21,True
+LeBron James,1,10,3,0,Driving Floating Bank Jump Shot,4,33,31,True
+LeBron James,1,4,39,1,Driving Floating Bank Jump Shot,8,-76,36,True
+LeBron James,4,5,24,1,Driving Floating Bank Jump Shot,3,2,36,True
+LeBron James,1,4,6,1,Driving Floating Bank Jump Shot,8,-80,22,True
+LeBron James,1,3,25,0,Driving Floating Jump Shot,8,3,81,True
+LeBron James,1,8,15,1,Driving Floating Jump Shot,9,93,32,True
+LeBron James,1,7,25,0,Driving Floating Jump Shot,7,2,70,True
+LeBron James,4,6,39,0,Driving Floating Jump Shot,11,67,88,True
+LeBron James,1,11,22,0,Driving Floating Jump Shot,11,88,68,True
+LeBron James,1,2,23,0,Driving Floating Jump Shot,3,33,12,True
+LeBron James,2,4,7,0,Driving Floating Jump Shot,7,79,5,True
+LeBron James,2,6,3,1,Driving Floating Jump Shot,4,-5,46,True
+LeBron James,2,2,36,0,Driving Floating Jump Shot,5,-18,55,True
+LeBron James,3,8,40,1,Driving Floating Jump Shot,6,-20,57,True
+LeBron James,1,5,11,0,Driving Floating Jump Shot,10,97,47,True
+LeBron James,1,4,37,0,Driving Floating Jump Shot,5,-25,52,True
+LeBron James,1,2,15,0,Driving Floating Jump Shot,4,-32,31,True
+LeBron James,3,0,56,0,Driving Floating Jump Shot,9,-89,43,True
+LeBron James,2,5,0,0,Driving Floating Jump Shot,3,-36,14,True
+LeBron James,2,3,56,0,Driving Floating Jump Shot,9,23,90,True
+LeBron James,1,8,52,1,Driving Floating Jump Shot,3,-7,36,True
+LeBron James,3,1,59,0,Driving Floating Jump Shot,7,-71,31,True
+LeBron James,1,3,43,0,Driving Floating Jump Shot,7,5,79,True
+LeBron James,3,8,43,0,Driving Floating Jump Shot,4,-7,44,True
+LeBron James,1,1,33,0,Driving Floating Jump Shot,4,-43,21,True
+LeBron James,3,8,3,0,Driving Floating Jump Shot,9,71,69,True
+LeBron James,2,1,3,0,Driving Floating Jump Shot,15,99,122,True
+LeBron James,4,7,43,1,Driving Floating Jump Shot,12,-49,113,True
+LeBron James,2,5,40,0,Driving Floating Jump Shot,13,67,121,True
+LeBron James,2,4,15,1,Driving Floating Jump Shot,9,70,68,True
+LeBron James,1,11,39,0,Driving Floating Jump Shot,2,-4,22,True
+LeBron James,1,2,50,1,Driving Floating Jump Shot,8,35,72,True
+LeBron James,3,11,48,0,Driving Floating Jump Shot,6,36,48,True
+LeBron James,4,2,4,1,Driving Floating Jump Shot,8,27,84,True
+LeBron James,2,0,1,0,Driving Floating Jump Shot,8,-3,82,True
+LeBron James,1,0,25,1,Driving Floating Jump Shot,13,5,137,True
+LeBron James,4,3,38,1,Driving Floating Jump Shot,9,-5,92,True
+LeBron James,4,0,0,0,Driving Floating Jump Shot,8,-71,52,True
+LeBron James,3,2,3,0,Driving Floating Jump Shot,5,35,40,True
+LeBron James,1,2,55,0,Driving Floating Jump Shot,6,40,48,True
+LeBron James,2,2,8,0,Driving Floating Jump Shot,7,-22,70,True
+LeBron James,2,9,46,0,Driving Floating Jump Shot,8,-43,75,True
+LeBron James,4,3,7,0,Driving Floating Jump Shot,3,-19,31,True
+LeBron James,2,1,35,1,Driving Floating Jump Shot,10,-7,105,True
+LeBron James,4,2,14,1,Driving Floating Jump Shot,10,12,101,True
+LeBron James,1,1,56,0,Driving Hook Shot,4,-43,5,True
+LeBron James,3,0,2,0,Driving Hook Shot,3,27,26,True
+LeBron James,4,1,36,1,Driving Hook Shot,4,37,25,True
+LeBron James,3,7,52,0,Driving Hook Shot,5,-38,39,True
+LeBron James,2,4,14,1,Driving Layup Shot,0,-5,3,True
+LeBron James,2,0,38,1,Driving Layup Shot,0,-2,5,True
+LeBron James,2,3,28,1,Driving Layup Shot,2,2,20,True
+LeBron James,3,5,39,1,Driving Layup Shot,1,13,11,True
+LeBron James,1,3,28,1,Driving Layup Shot,1,-14,13,True
+LeBron James,3,1,8,1,Driving Layup Shot,2,14,15,True
+LeBron James,1,1,11,1,Driving Layup Shot,6,-1,65,True
+LeBron James,2,5,29,1,Driving Layup Shot,2,20,20,True
+LeBron James,3,10,45,1,Driving Layup Shot,2,-1,25,True
+LeBron James,3,3,49,0,Driving Layup Shot,6,-62,12,True
+LeBron James,4,8,20,1,Driving Layup Shot,1,-10,3,True
+LeBron James,2,9,43,1,Driving Layup Shot,1,5,18,True
+LeBron James,1,6,47,0,Driving Layup Shot,4,-40,-28,True
+LeBron James,4,8,0,0,Driving Layup Shot,2,-22,12,True
+LeBron James,4,3,30,0,Driving Layup Shot,2,-13,16,True
+LeBron James,2,6,57,0,Driving Layup Shot,1,-3,11,True
+LeBron James,3,0,37,1,Driving Layup Shot,0,9,-1,True
+LeBron James,4,7,13,0,Driving Layup Shot,7,40,59,True
+LeBron James,2,2,3,1,Driving Layup Shot,1,18,-2,True
+LeBron James,3,8,9,1,Driving Layup Shot,4,35,22,True
+LeBron James,4,0,19,1,Driving Layup Shot,1,8,10,True
+LeBron James,2,1,58,1,Driving Layup Shot,0,0,6,True
+LeBron James,1,10,38,0,Driving Layup Shot,1,-7,17,True
+LeBron James,1,9,6,1,Driving Layup Shot,1,-6,12,True
+LeBron James,4,3,23,0,Driving Layup Shot,1,-13,5,True
+LeBron James,2,0,1,0,Driving Layup Shot,3,-14,37,True
+LeBron James,3,0,47,1,Driving Layup Shot,0,-6,5,True
+LeBron James,2,2,14,1,Driving Layup Shot,0,-5,6,True
+LeBron James,3,2,54,1,Driving Layup Shot,1,6,9,True
+LeBron James,1,10,51,1,Driving Layup Shot,1,13,4,True
+LeBron James,1,3,8,0,Driving Layup Shot,2,25,1,True
+LeBron James,2,1,52,0,Driving Layup Shot,3,-31,24,True
+LeBron James,1,7,17,1,Driving Layup Shot,4,-24,38,True
+LeBron James,4,0,29,0,Driving Layup Shot,5,-9,53,True
+LeBron James,1,10,57,0,Driving Layup Shot,1,-6,10,True
+LeBron James,1,7,51,1,Driving Layup Shot,0,-2,9,True
+LeBron James,2,8,36,1,Driving Layup Shot,1,4,11,True
+LeBron James,1,4,47,0,Driving Layup Shot,6,-54,34,True
+LeBron James,2,6,46,1,Driving Layup Shot,1,-5,11,True
+LeBron James,1,2,51,0,Driving Layup Shot,3,-3,38,True
+LeBron James,4,2,23,0,Driving Layup Shot,1,-10,10,True
+LeBron James,1,0,35,0,Driving Layup Shot,4,40,15,True
+LeBron James,1,4,53,1,Driving Layup Shot,0,0,7,True
+LeBron James,1,2,16,1,Driving Layup Shot,1,-2,16,True
+LeBron James,4,8,5,0,Driving Layup Shot,1,-11,3,True
+LeBron James,3,5,5,1,Driving Layup Shot,1,3,14,True
+LeBron James,1,11,27,1,Driving Layup Shot,1,-6,16,True
+LeBron James,4,0,14,0,Driving Layup Shot,8,-68,47,True
+LeBron James,1,2,42,1,Driving Layup Shot,0,-1,5,True
+LeBron James,1,2,40,1,Driving Layup Shot,1,-11,10,True
+LeBron James,3,4,26,1,Driving Layup Shot,1,14,1,True
+LeBron James,1,3,53,0,Driving Layup Shot,2,16,15,True
+LeBron James,1,0,34,1,Driving Layup Shot,1,-3,16,True
+LeBron James,1,1,43,1,Driving Layup Shot,1,-2,18,True
+LeBron James,1,4,1,1,Driving Layup Shot,2,-1,25,True
+LeBron James,4,2,37,1,Driving Layup Shot,0,8,3,True
+LeBron James,1,3,8,0,Driving Layup Shot,1,3,16,True
+LeBron James,1,7,42,1,Driving Layup Shot,0,-7,2,True
+LeBron James,2,0,43,0,Driving Layup Shot,2,16,24,True
+LeBron James,1,1,47,1,Driving Layup Shot,4,5,43,True
+LeBron James,2,6,14,1,Driving Layup Shot,1,7,17,True
+LeBron James,2,2,10,0,Driving Layup Shot,2,-22,6,True
+LeBron James,1,10,40,0,Driving Layup Shot,6,-49,43,True
+LeBron James,1,2,42,0,Driving Layup Shot,1,-6,11,True
+LeBron James,1,7,1,1,Driving Layup Shot,1,3,16,True
+LeBron James,2,1,15,1,Driving Layup Shot,1,-12,15,True
+LeBron James,4,5,58,1,Driving Layup Shot,2,-18,18,True
+LeBron James,2,6,17,1,Driving Layup Shot,1,-3,10,True
+LeBron James,4,8,8,0,Driving Layup Shot,2,-18,17,True
+LeBron James,1,3,4,0,Driving Layup Shot,2,10,21,True
+LeBron James,2,0,11,1,Driving Layup Shot,0,8,4,True
+LeBron James,2,6,20,1,Driving Layup Shot,0,8,-1,True
+LeBron James,2,6,56,0,Driving Layup Shot,3,-5,32,True
+LeBron James,3,3,29,0,Driving Layup Shot,4,43,11,True
+LeBron James,1,0,43,0,Driving Layup Shot,7,8,73,True
+LeBron James,3,4,18,1,Driving Layup Shot,0,-2,4,True
+LeBron James,1,11,17,1,Driving Layup Shot,0,4,5,True
+LeBron James,4,3,46,1,Driving Layup Shot,0,8,3,True
+LeBron James,4,2,52,1,Driving Layup Shot,2,-17,22,True
+LeBron James,4,7,46,1,Driving Layup Shot,0,7,-2,True
+LeBron James,3,1,7,1,Driving Layup Shot,2,19,21,True
+LeBron James,3,6,8,1,Driving Layup Shot,0,3,9,True
+LeBron James,4,1,6,1,Driving Layup Shot,0,9,3,True
+LeBron James,2,5,26,1,Driving Layup Shot,1,8,11,True
+LeBron James,3,9,21,1,Driving Layup Shot,0,4,8,True
+LeBron James,4,6,41,1,Driving Layup Shot,0,3,8,True
+LeBron James,3,10,5,0,Driving Layup Shot,1,-13,15,True
+LeBron James,2,7,4,1,Driving Layup Shot,3,-3,31,True
+LeBron James,2,0,48,0,Driving Layup Shot,2,-7,29,True
+LeBron James,1,7,52,1,Driving Layup Shot,1,-18,-3,True
+LeBron James,4,2,53,1,Driving Layup Shot,0,3,6,True
+LeBron James,1,0,23,1,Driving Layup Shot,1,-6,16,True
+LeBron James,1,0,48,1,Driving Layup Shot,1,2,16,True
+LeBron James,1,5,16,1,Driving Layup Shot,1,4,15,True
+LeBron James,3,0,25,0,Driving Layup Shot,0,2,4,True
+LeBron James,1,2,39,0,Driving Layup Shot,3,-18,25,True
+LeBron James,4,2,7,1,Driving Layup Shot,0,2,1,True
+LeBron James,4,0,12,1,Driving Layup Shot,1,0,16,True
+LeBron James,1,7,23,0,Driving Layup Shot,1,-8,10,True
+LeBron James,3,11,50,1,Driving Layup Shot,1,-7,15,True
+LeBron James,2,3,17,1,Driving Layup Shot,1,14,14,True
+LeBron James,4,0,57,1,Driving Layup Shot,1,-13,10,True
+LeBron James,3,10,31,0,Driving Layup Shot,0,-3,4,True
+LeBron James,1,1,35,1,Driving Layup Shot,1,-11,5,True
+LeBron James,1,4,58,1,Driving Layup Shot,2,1,21,True
+LeBron James,1,5,29,1,Driving Layup Shot,1,-10,10,True
+LeBron James,3,0,45,0,Driving Layup Shot,1,5,13,True
+LeBron James,1,11,32,1,Driving Layup Shot,6,56,41,True
+LeBron James,3,8,37,1,Driving Layup Shot,1,-1,10,True
+LeBron James,2,3,27,0,Driving Layup Shot,2,11,27,True
+LeBron James,3,2,38,0,Driving Layup Shot,2,11,18,True
+LeBron James,1,5,56,0,Driving Layup Shot,0,0,7,True
+LeBron James,1,4,29,1,Driving Layup Shot,2,0,29,True
+LeBron James,2,0,12,1,Driving Layup Shot,1,-8,17,True
+LeBron James,2,2,52,0,Driving Layup Shot,1,0,17,True
+LeBron James,2,1,46,0,Driving Layup Shot,2,14,20,True
+LeBron James,1,7,15,1,Driving Layup Shot,1,6,19,True
+LeBron James,3,8,4,1,Driving Layup Shot,0,-9,4,True
+LeBron James,1,7,34,0,Driving Layup Shot,2,-19,8,True
+LeBron James,1,2,27,0,Driving Layup Shot,0,-7,5,True
+LeBron James,4,3,38,1,Driving Layup Shot,2,18,16,True
+LeBron James,2,4,21,1,Driving Layup Shot,2,15,16,True
+LeBron James,1,5,13,1,Driving Layup Shot,1,9,7,True
+LeBron James,4,6,16,1,Driving Layup Shot,1,12,9,True
+LeBron James,4,0,34,1,Driving Layup Shot,2,17,14,True
+LeBron James,3,0,48,0,Driving Layup Shot,2,-26,10,True
+LeBron James,4,3,30,0,Driving Layup Shot,1,10,7,True
+LeBron James,2,4,2,1,Driving Layup Shot,1,-11,6,True
+LeBron James,4,3,16,1,Driving Layup Shot,0,7,1,True
+LeBron James,1,6,50,1,Driving Layup Shot,1,2,15,True
+LeBron James,2,2,39,0,Driving Layup Shot,0,-1,6,True
+LeBron James,1,7,54,1,Driving Layup Shot,3,21,34,True
+LeBron James,1,10,54,0,Driving Layup Shot,1,2,10,True
+LeBron James,3,10,50,1,Driving Layup Shot,0,0,-1,True
+LeBron James,1,10,9,1,Driving Layup Shot,1,-16,6,True
+LeBron James,4,4,22,1,Driving Layup Shot,1,17,0,True
+LeBron James,3,8,31,1,Driving Layup Shot,1,10,10,True
+LeBron James,2,4,48,0,Driving Layup Shot,0,3,6,True
+LeBron James,3,0,1,1,Driving Layup Shot,1,-9,11,True
+LeBron James,4,6,57,0,Driving Layup Shot,4,41,26,True
+LeBron James,2,4,7,0,Driving Layup Shot,1,-1,10,True
+LeBron James,3,2,38,1,Driving Layup Shot,0,9,3,True
+LeBron James,4,0,49,1,Driving Layup Shot,2,-20,1,True
+LeBron James,4,2,53,1,Driving Layup Shot,1,14,8,True
+LeBron James,1,7,7,1,Driving Layup Shot,0,-3,-4,True
+LeBron James,3,3,3,0,Driving Layup Shot,6,58,37,True
+LeBron James,3,1,25,1,Driving Layup Shot,0,-3,7,True
+LeBron James,2,2,52,1,Driving Layup Shot,0,-3,1,True
+LeBron James,1,9,54,1,Driving Layup Shot,2,-1,21,True
+LeBron James,3,7,41,1,Driving Layup Shot,1,5,17,True
+LeBron James,1,11,16,1,Driving Layup Shot,1,14,11,True
+LeBron James,1,6,38,1,Driving Layup Shot,2,-23,17,True
+LeBron James,1,4,0,1,Driving Layup Shot,1,-6,11,True
+LeBron James,4,2,45,0,Driving Layup Shot,2,23,11,True
+LeBron James,2,7,46,1,Driving Layup Shot,1,-14,12,True
+LeBron James,4,2,5,0,Driving Layup Shot,0,-1,5,True
+LeBron James,1,5,58,0,Driving Layup Shot,0,0,2,True
+LeBron James,4,3,38,1,Driving Layup Shot,1,11,15,True
+LeBron James,1,1,38,0,Driving Layup Shot,1,3,10,True
+LeBron James,3,2,18,0,Driving Layup Shot,1,10,5,True
+LeBron James,2,1,33,1,Driving Layup Shot,2,15,15,True
+LeBron James,1,8,8,1,Driving Layup Shot,0,5,-8,True
+LeBron James,3,7,16,1,Driving Layup Shot,0,3,9,True
+LeBron James,2,1,35,1,Driving Layup Shot,1,-1,17,True
+LeBron James,5,0,24,1,Driving Layup Shot,0,3,6,True
+LeBron James,1,8,7,1,Driving Layup Shot,0,3,6,True
+LeBron James,3,5,56,0,Driving Layup Shot,8,-63,50,True
+LeBron James,2,11,20,0,Driving Layup Shot,0,-5,3,True
+LeBron James,4,1,8,0,Driving Layup Shot,4,24,34,True
+LeBron James,1,4,59,0,Driving Layup Shot,1,-3,15,True
+LeBron James,4,10,11,0,Driving Layup Shot,1,16,5,True
+LeBron James,1,6,57,1,Driving Layup Shot,1,2,10,True
+LeBron James,1,3,53,1,Driving Layup Shot,1,2,14,True
+LeBron James,3,7,12,0,Driving Layup Shot,1,14,14,True
+LeBron James,5,4,16,1,Driving Layup Shot,1,13,13,True
+LeBron James,3,0,28,0,Driving Layup Shot,1,-6,8,True
+LeBron James,2,1,0,1,Driving Layup Shot,1,4,11,True
+LeBron James,2,6,16,1,Driving Layup Shot,1,-2,11,True
+LeBron James,3,10,37,1,Driving Layup Shot,1,11,4,True
+LeBron James,2,0,5,1,Driving Layup Shot,1,-13,-1,True
+LeBron James,1,8,22,1,Driving Layup Shot,2,4,21,True
+LeBron James,1,0,2,0,Driving Layup Shot,2,-9,23,True
+LeBron James,1,10,17,0,Driving Layup Shot,0,4,6,True
+LeBron James,4,1,35,1,Driving Layup Shot,2,-14,16,True
+LeBron James,1,7,50,0,Driving Layup Shot,0,3,8,True
+LeBron James,2,3,27,1,Driving Layup Shot,2,6,25,True
+LeBron James,4,1,13,1,Driving Layup Shot,1,7,10,True
+LeBron James,1,9,37,0,Driving Layup Shot,1,15,10,True
+LeBron James,4,0,20,0,Driving Layup Shot,1,11,9,True
+LeBron James,4,2,14,0,Driving Layup Shot,2,19,22,True
+LeBron James,1,5,57,1,Driving Layup Shot,1,-6,10,True
+LeBron James,1,11,50,1,Driving Layup Shot,0,-3,2,True
+LeBron James,4,5,54,1,Driving Layup Shot,1,7,13,True
+LeBron James,4,8,55,1,Driving Layup Shot,2,18,13,True
+LeBron James,4,5,46,1,Driving Layup Shot,0,5,0,True
+LeBron James,4,10,19,1,Driving Layup Shot,1,3,10,True
+LeBron James,4,9,21,1,Driving Layup Shot,1,13,15,True
+LeBron James,2,7,19,0,Driving Layup Shot,7,-29,74,True
+LeBron James,2,4,20,1,Driving Layup Shot,0,8,1,True
+LeBron James,4,5,10,0,Driving Layup Shot,2,-20,17,True
+LeBron James,2,7,53,1,Driving Layup Shot,2,-24,10,True
+LeBron James,1,0,34,0,Driving Layup Shot,2,10,21,True
+LeBron James,3,6,20,1,Driving Layup Shot,0,-5,3,True
+LeBron James,4,6,27,1,Driving Layup Shot,1,-7,17,True
+LeBron James,3,0,45,1,Driving Layup Shot,2,-24,6,True
+LeBron James,4,5,21,1,Driving Layup Shot,1,8,6,True
+LeBron James,1,2,26,1,Driving Layup Shot,0,-3,-3,True
+LeBron James,4,1,2,1,Driving Layup Shot,0,-3,5,True
+LeBron James,4,8,22,1,Driving Layup Shot,2,19,13,True
+LeBron James,2,0,15,1,Driving Layup Shot,1,-3,14,True
+LeBron James,1,5,49,1,Driving Layup Shot,0,-5,-1,True
+LeBron James,2,3,5,1,Driving Layup Shot,1,-9,6,True
+LeBron James,4,0,53,1,Driving Layup Shot,1,11,-4,True
+LeBron James,4,2,17,0,Driving Layup Shot,2,27,3,True
+LeBron James,1,1,13,0,Driving Layup Shot,1,3,-10,True
+LeBron James,1,8,42,1,Driving Layup Shot,2,2,24,True
+LeBron James,4,2,44,0,Driving Layup Shot,1,-6,15,True
+LeBron James,4,6,20,0,Driving Layup Shot,2,6,26,True
+LeBron James,4,1,14,0,Driving Layup Shot,1,5,14,True
+LeBron James,1,5,41,0,Driving Layup Shot,2,-11,23,True
+LeBron James,2,0,59,0,Driving Layup Shot,2,13,16,True
+LeBron James,1,7,29,0,Driving Layup Shot,6,44,54,True
+LeBron James,3,11,10,0,Driving Layup Shot,2,-9,21,True
+LeBron James,4,3,28,1,Driving Layup Shot,0,-2,4,True
+LeBron James,4,3,5,1,Driving Layup Shot,1,-9,5,True
+LeBron James,1,3,19,1,Driving Layup Shot,2,2,20,True
+LeBron James,1,9,30,1,Driving Layup Shot,2,-22,1,True
+LeBron James,1,9,54,1,Driving Layup Shot,1,2,15,True
+LeBron James,2,9,2,1,Driving Layup Shot,0,-4,-1,True
+LeBron James,1,5,0,0,Driving Layup Shot,10,-81,61,True
+LeBron James,4,2,25,1,Driving Layup Shot,0,-6,5,True
+LeBron James,1,10,30,0,Driving Layup Shot,2,11,18,True
+LeBron James,2,3,16,1,Driving Layup Shot,1,-3,12,True
+LeBron James,2,3,34,1,Driving Layup Shot,2,4,20,True
+LeBron James,1,10,10,1,Driving Reverse Dunk Shot,1,-12,2,True
+LeBron James,1,6,1,1,Driving Reverse Layup Shot,0,-1,0,True
+LeBron James,4,4,31,1,Driving Reverse Layup Shot,3,32,20,True
+LeBron James,1,11,34,0,Driving Reverse Layup Shot,1,6,15,True
+LeBron James,4,6,49,1,Driving Reverse Layup Shot,2,11,19,True
+LeBron James,1,8,6,1,Driving Reverse Layup Shot,1,-9,5,True
+LeBron James,2,2,16,0,Driving Reverse Layup Shot,2,2,26,True
+LeBron James,3,6,19,0,Driving Reverse Layup Shot,1,-8,12,True
+LeBron James,2,0,52,1,Driving Reverse Layup Shot,1,5,15,True
+LeBron James,4,3,20,1,Driving Reverse Layup Shot,1,14,-8,True
+LeBron James,1,4,41,0,Driving Reverse Layup Shot,0,-3,5,True
+LeBron James,4,1,7,1,Dunk Shot,0,0,5,True
+LeBron James,1,8,52,1,Dunk Shot,1,0,15,True
+LeBron James,2,3,1,1,Dunk Shot,1,2,13,True
+LeBron James,2,0,6,1,Dunk Shot,1,-2,13,True
+LeBron James,3,6,14,1,Dunk Shot,1,8,8,True
+LeBron James,1,5,19,0,Dunk Shot,1,2,11,True
+LeBron James,3,1,53,1,Dunk Shot,0,5,-5,True
+LeBron James,2,1,33,1,Dunk Shot,1,-2,17,True
+LeBron James,1,3,12,1,Dunk Shot,1,-6,8,True
+LeBron James,2,4,47,0,Dunk Shot,1,10,8,True
+LeBron James,4,3,10,1,Dunk Shot,0,7,1,True
+LeBron James,3,7,47,0,Fadeaway Jump Shot,7,-57,52,True
+LeBron James,2,8,7,1,Fadeaway Jump Shot,19,127,151,True
+LeBron James,2,0,57,1,Fadeaway Jump Shot,14,85,122,True
+LeBron James,1,10,45,0,Fadeaway Jump Shot,17,-133,109,True
+LeBron James,4,8,16,1,Fadeaway Jump Shot,13,-132,39,True
+LeBron James,2,4,37,0,Fadeaway Jump Shot,13,-41,130,True
+LeBron James,4,8,23,0,Fadeaway Jump Shot,15,-152,46,True
+LeBron James,1,11,18,1,Fadeaway Jump Shot,9,-90,20,True
+LeBron James,2,1,42,0,Fadeaway Jump Shot,13,-24,128,True
+LeBron James,4,3,49,1,Fadeaway Jump Shot,19,-118,151,True
+LeBron James,4,5,57,1,Fadeaway Jump Shot,11,-110,21,True
+LeBron James,1,7,29,0,Fadeaway Jump Shot,15,-128,94,True
+LeBron James,3,9,52,1,Fadeaway Jump Shot,15,152,-4,True
+LeBron James,2,5,1,0,Fadeaway Jump Shot,15,-139,69,True
+LeBron James,3,3,9,0,Fadeaway Jump Shot,23,-234,10,False
+LeBron James,3,11,25,0,Fadeaway Jump Shot,19,-166,107,True
+LeBron James,2,3,59,1,Fadeaway Jump Shot,14,-55,139,True
+LeBron James,3,3,50,1,Fadeaway Jump Shot,15,-143,69,True
+LeBron James,3,11,46,1,Fadeaway Jump Shot,13,-137,18,True
+LeBron James,2,4,29,0,Fadeaway Jump Shot,7,-78,15,True
+LeBron James,3,2,40,1,Fadeaway Jump Shot,1,11,4,True
+LeBron James,4,1,59,1,Fadeaway Jump Shot,10,-101,41,True
+LeBron James,4,0,46,0,Fadeaway Jump Shot,26,-195,174,False
+LeBron James,3,8,39,1,Fadeaway Jump Shot,16,-162,0,True
+LeBron James,3,4,24,0,Fadeaway Jump Shot,16,-157,42,True
+LeBron James,1,9,47,0,Fadeaway Jump Shot,18,-81,168,True
+LeBron James,2,2,32,0,Fadeaway Jump Shot,8,22,78,True
+LeBron James,1,11,30,1,Fadeaway Jump Shot,9,-98,-17,True
+LeBron James,4,1,24,0,Fadeaway Jump Shot,14,-141,6,True
+LeBron James,3,0,0,0,Fadeaway Jump Shot,12,-52,111,True
+LeBron James,1,7,53,0,Fadeaway Jump Shot,15,136,79,True
+LeBron James,3,1,21,0,Fadeaway Jump Shot,11,116,13,True
+LeBron James,2,2,56,1,Fadeaway Jump Shot,3,-15,26,True
+LeBron James,3,7,34,1,Fadeaway Jump Shot,7,0,78,True
+LeBron James,2,2,34,0,Fadeaway Jump Shot,17,-106,139,True
+LeBron James,3,7,27,0,Fadeaway Jump Shot,18,16,186,True
+LeBron James,1,5,17,0,Fadeaway Jump Shot,13,-98,97,True
+LeBron James,4,0,55,0,Fadeaway Jump Shot,22,117,189,True
+LeBron James,2,2,38,0,Fadeaway Jump Shot,11,86,71,True
+LeBron James,3,7,18,1,Fadeaway Jump Shot,13,116,62,True
+LeBron James,4,6,47,0,Fadeaway Jump Shot,18,-102,153,True
+LeBron James,3,6,35,1,Fadeaway Jump Shot,0,0,-6,True
+LeBron James,1,6,32,0,Fadeaway Jump Shot,22,-171,149,True
+LeBron James,4,0,51,1,Fadeaway Jump Shot,13,131,-17,True
+LeBron James,2,0,41,0,Fadeaway Jump Shot,16,-160,32,True
+LeBron James,1,5,22,0,Fadeaway Jump Shot,13,129,23,True
+LeBron James,3,0,2,0,Fadeaway Jump Shot,13,-100,96,True
+LeBron James,4,5,6,1,Finger Roll Layup Shot,1,3,15,True
+LeBron James,4,4,30,0,Finger Roll Layup Shot,2,14,26,True
+LeBron James,2,1,9,1,Floating Jump shot,10,-16,103,True
+LeBron James,3,1,35,0,Floating Jump shot,5,-36,47,True
+LeBron James,4,0,1,0,Floating Jump shot,18,-66,168,True
+LeBron James,1,6,3,0,Floating Jump shot,11,36,111,True
+LeBron James,2,10,13,1,Floating Jump shot,7,-6,71,True
+LeBron James,4,1,59,1,Floating Jump shot,5,5,59,True
+LeBron James,2,6,24,1,Floating Jump shot,12,121,-32,True
+LeBron James,3,8,55,0,Floating Jump shot,9,90,16,True
+LeBron James,3,2,7,1,Floating Jump shot,6,30,63,True
+LeBron James,3,2,33,0,Floating Jump shot,8,-19,84,True
+LeBron James,3,1,51,1,Floating Jump shot,11,-44,110,True
+LeBron James,2,1,5,0,Floating Jump shot,10,81,69,True
+LeBron James,2,1,33,1,Floating Jump shot,9,2,99,True
+LeBron James,4,3,25,1,Floating Jump shot,1,12,1,True
+LeBron James,1,6,34,0,Floating Jump shot,6,0,62,True
+LeBron James,2,0,26,0,Hook Shot,7,-7,79,True
+LeBron James,2,0,6,0,Hook Shot,11,-59,100,True
+LeBron James,1,7,43,1,Hook Shot,6,45,42,True
+LeBron James,2,4,12,1,Jump Bank Shot,26,160,206,False
+LeBron James,3,9,31,1,Jump Bank Shot,1,-11,6,True
+LeBron James,4,6,12,1,Jump Bank Shot,11,109,30,True
+LeBron James,1,10,10,1,Jump Shot,25,-222,121,False
+LeBron James,3,10,44,0,Jump Shot,24,-177,172,False
+LeBron James,1,5,48,1,Jump Shot,26,-177,196,False
+LeBron James,3,10,29,1,Jump Shot,25,-68,243,False
+LeBron James,4,1,48,1,Jump Shot,25,-65,248,False
+LeBron James,4,3,29,0,Jump Shot,25,213,134,False
+LeBron James,4,3,50,0,Jump Shot,12,61,113,True
+LeBron James,3,4,36,1,Jump Shot,26,-44,258,False
+LeBron James,2,3,4,0,Jump Shot,26,35,259,False
+LeBron James,1,3,44,1,Jump Shot,19,78,178,True
+LeBron James,3,3,4,0,Jump Shot,25,-97,236,False
+LeBron James,2,3,43,1,Jump Shot,25,-30,257,False
+LeBron James,1,9,29,1,Jump Shot,25,-226,114,False
+LeBron James,1,6,12,0,Jump Shot,16,-150,72,True
+LeBron James,4,8,29,1,Jump Shot,12,-122,37,True
+LeBron James,1,10,29,1,Jump Shot,18,-163,78,True
+LeBron James,1,8,53,0,Jump Shot,26,-51,256,False
+LeBron James,4,8,2,0,Jump Shot,29,-65,284,False
+LeBron James,3,2,37,1,Jump Shot,31,-109,293,False
+LeBron James,2,4,37,0,Jump Shot,25,-11,258,False
+LeBron James,3,0,33,0,Jump Shot,23,-230,22,False
+LeBron James,1,6,18,1,Jump Shot,27,-50,273,False
+LeBron James,4,1,50,0,Jump Shot,25,-76,247,False
+LeBron James,1,3,3,0,Jump Shot,25,-119,225,False
+LeBron James,3,7,0,1,Jump Shot,22,-85,208,True
+LeBron James,3,10,57,0,Jump Shot,26,172,208,False
+LeBron James,1,5,0,1,Jump Shot,22,-226,26,False
+LeBron James,1,5,26,0,Jump Shot,18,-112,153,True
+LeBron James,2,2,29,1,Jump Shot,25,-79,243,False
+LeBron James,3,3,6,1,Jump Shot,28,-174,229,False
+LeBron James,2,4,23,1,Jump Shot,25,233,96,False
+LeBron James,2,1,16,0,Jump Shot,26,-121,232,False
+LeBron James,4,3,44,0,Jump Shot,27,18,272,False
+LeBron James,4,4,48,0,Jump Shot,25,-226,122,False
+LeBron James,1,10,12,0,Jump Shot,19,178,75,True
+LeBron James,3,0,44,0,Jump Shot,24,-207,140,False
+LeBron James,3,10,28,1,Jump Shot,33,5,334,False
+LeBron James,1,6,35,0,Jump Shot,15,130,85,True
+LeBron James,4,1,57,0,Jump Shot,25,113,227,False
+LeBron James,3,8,10,0,Jump Shot,26,-29,261,False
+LeBron James,2,10,45,0,Jump Shot,27,-182,211,False
+LeBron James,2,0,34,1,Jump Shot,27,-150,231,False
+LeBron James,1,10,22,0,Jump Shot,21,-187,96,True
+LeBron James,4,1,19,0,Jump Shot,25,-145,211,False
+LeBron James,3,9,16,1,Jump Shot,21,128,167,True
+LeBron James,2,0,38,0,Jump Shot,25,78,238,False
+LeBron James,3,11,47,0,Jump Shot,25,-78,239,False
+LeBron James,3,3,19,0,Jump Shot,24,-107,224,False
+LeBron James,4,3,16,1,Jump Shot,12,-89,92,True
+LeBron James,1,8,58,0,Jump Shot,26,-226,133,False
+LeBron James,4,3,56,0,Jump Shot,17,-123,130,True
+LeBron James,2,3,15,0,Jump Shot,26,-228,128,False
+LeBron James,3,2,48,0,Jump Shot,24,-40,245,False
+LeBron James,3,4,20,0,Jump Shot,26,245,90,False
+LeBron James,3,7,29,0,Jump Shot,20,-81,189,True
+LeBron James,3,4,25,1,Jump Shot,18,-82,169,True
+LeBron James,5,2,18,0,Jump Shot,25,-135,218,False
+LeBron James,4,0,51,0,Jump Shot,31,34,318,False
+LeBron James,4,9,47,0,Jump Shot,25,-91,239,False
+LeBron James,3,9,27,0,Jump Shot,25,207,155,False
+LeBron James,4,4,24,0,Jump Shot,27,-186,205,False
+LeBron James,2,3,49,0,Jump Shot,25,-138,214,False
+LeBron James,4,6,11,1,Jump Shot,19,103,167,True
+LeBron James,2,5,23,0,Jump Shot,26,-160,205,False
+LeBron James,3,4,25,1,Jump Shot,25,-204,150,False
+LeBron James,3,8,59,0,Jump Shot,25,-215,139,False
+LeBron James,3,7,26,0,Jump Shot,23,-226,71,False
+LeBron James,4,0,47,1,Jump Shot,24,-198,142,False
+LeBron James,4,0,1,0,Jump Shot,25,-231,118,False
+LeBron James,3,3,23,1,Jump Shot,16,-141,94,True
+LeBron James,2,0,13,0,Jump Shot,24,116,221,False
+LeBron James,4,1,10,0,Jump Shot,17,76,162,True
+LeBron James,3,6,56,1,Jump Shot,26,30,265,False
+LeBron James,4,3,10,0,Jump Shot,20,-35,204,True
+LeBron James,1,5,30,0,Jump Shot,26,135,228,False
+LeBron James,3,6,41,0,Jump Shot,27,-185,199,False
+LeBron James,1,5,14,1,Jump Shot,27,188,205,False
+LeBron James,1,3,25,0,Jump Shot,25,190,174,False
+LeBron James,4,4,3,0,Jump Shot,25,-84,237,False
+LeBron James,4,1,51,1,Jump Shot,26,-201,172,False
+LeBron James,2,2,49,0,Jump Shot,22,225,32,False
+LeBron James,2,3,15,1,Jump Shot,28,-148,244,False
+LeBron James,4,5,45,0,Jump Shot,27,-136,244,False
+LeBron James,4,0,0,0,Jump Shot,75,-66,751,False
+LeBron James,2,6,46,1,Jump Shot,26,-4,268,False
+LeBron James,4,3,30,0,Jump Shot,13,-123,47,True
+LeBron James,4,1,26,0,Jump Shot,29,-185,228,False
+LeBron James,3,3,18,0,Jump Shot,24,-157,194,False
+LeBron James,3,10,14,0,Jump Shot,25,-103,234,False
+LeBron James,4,0,2,1,Jump Shot,27,-24,275,False
+LeBron James,2,7,14,0,Jump Shot,22,-90,201,True
+LeBron James,2,2,24,0,Jump Shot,15,-97,115,True
+LeBron James,3,7,34,1,Jump Shot,25,-82,246,False
+LeBron James,3,10,8,1,Jump Shot,26,134,231,False
+LeBron James,2,0,5,1,Jump Shot,26,-106,243,False
+LeBron James,3,10,48,0,Jump Shot,25,-220,138,False
+LeBron James,4,0,15,0,Jump Shot,25,-52,247,False
+LeBron James,3,9,35,1,Jump Shot,26,-212,157,False
+LeBron James,4,0,34,0,Jump Shot,24,-221,100,False
+LeBron James,1,6,0,0,Jump Shot,15,158,-11,True
+LeBron James,2,4,31,1,Jump Shot,29,-136,263,False
+LeBron James,4,7,39,0,Jump Shot,25,-119,231,False
+LeBron James,2,1,37,0,Jump Shot,26,-179,189,False
+LeBron James,2,3,36,1,Jump Shot,27,-73,264,False
+LeBron James,1,10,11,1,Jump Shot,20,-121,163,True
+LeBron James,4,8,59,1,Jump Shot,25,-166,200,False
+LeBron James,4,0,34,0,Jump Shot,6,-52,37,True
+LeBron James,3,8,6,0,Jump Shot,24,-182,166,False
+LeBron James,4,9,24,1,Jump Shot,25,170,184,False
+LeBron James,3,11,16,1,Jump Shot,25,-47,250,False
+LeBron James,3,10,41,1,Jump Shot,26,-123,232,False
+LeBron James,4,1,8,0,Jump Shot,27,-90,255,False
+LeBron James,1,4,55,0,Jump Shot,22,-77,212,True
+LeBron James,3,5,51,0,Jump Shot,27,197,190,False
+LeBron James,3,6,25,0,Jump Shot,25,-158,200,False
+LeBron James,2,0,42,0,Jump Shot,26,141,220,False
+LeBron James,3,4,52,0,Jump Shot,24,237,47,False
+LeBron James,2,2,23,0,Jump Shot,6,-10,62,True
+LeBron James,1,3,1,0,Jump Shot,22,-78,212,True
+LeBron James,3,2,15,1,Jump Shot,19,-174,88,True
+LeBron James,1,2,47,0,Jump Shot,5,51,8,True
+LeBron James,2,0,57,0,Jump Shot,26,-176,204,False
+LeBron James,4,3,10,0,Jump Shot,28,-104,264,False
+LeBron James,4,3,12,0,Jump Shot,25,-106,234,False
+LeBron James,1,11,12,0,Jump Shot,26,-55,263,False
+LeBron James,3,6,30,1,Jump Shot,27,181,206,False
+LeBron James,4,2,2,0,Jump Shot,23,-231,4,False
+LeBron James,1,10,20,0,Jump Shot,13,-134,15,True
+LeBron James,3,8,48,1,Jump Shot,31,182,251,False
+LeBron James,3,11,0,0,Jump Shot,25,-69,246,False
+LeBron James,4,8,7,1,Jump Shot,25,-74,245,False
+LeBron James,4,4,39,1,Jump Shot,27,-105,249,False
+LeBron James,3,10,39,0,Jump Shot,26,125,238,False
+LeBron James,4,6,20,1,Jump Shot,26,15,268,False
+LeBron James,4,3,6,0,Jump Shot,27,-119,252,False
+LeBron James,4,3,47,1,Jump Shot,28,-130,258,False
+LeBron James,2,2,25,1,Jump Shot,28,-41,284,False
+LeBron James,3,9,7,0,Jump Shot,26,-210,162,False
+LeBron James,1,5,40,1,Jump Shot,22,225,2,False
+LeBron James,4,8,39,0,Jump Shot,15,-110,110,True
+LeBron James,4,0,9,0,Jump Shot,26,-133,228,False
+LeBron James,4,3,18,0,Jump Shot,27,-166,217,False
+LeBron James,4,9,47,0,Jump Shot,26,-168,211,False
+LeBron James,4,6,33,0,Jump Shot,16,118,117,True
+LeBron James,1,6,5,1,Jump Shot,25,210,137,False
+LeBron James,3,4,14,0,Jump Shot,24,136,206,False
+LeBron James,1,4,55,0,Jump Shot,26,93,243,False
+LeBron James,4,0,26,0,Jump Shot,6,6,67,True
+LeBron James,1,5,44,1,Jump Shot,21,-145,162,True
+LeBron James,4,10,39,1,Jump Shot,26,20,262,False
+LeBron James,1,3,13,0,Jump Shot,16,-89,141,True
+LeBron James,4,2,32,0,Jump Shot,26,-182,193,False
+LeBron James,4,3,21,0,Jump Shot,26,-98,241,False
+LeBron James,4,6,5,1,Jump Shot,25,191,174,False
+LeBron James,3,9,31,0,Jump Shot,26,-89,249,False
+LeBron James,2,8,34,0,Jump Shot,32,3,320,False
+LeBron James,1,9,5,0,Jump Shot,26,-100,243,False
+LeBron James,2,7,55,0,Jump Shot,26,-54,257,False
+LeBron James,1,0,7,1,Jump Shot,23,-7,236,True
+LeBron James,3,10,19,1,Jump Shot,26,-60,255,False
+LeBron James,2,2,59,0,Jump Shot,15,11,159,True
+LeBron James,2,6,35,0,Jump Shot,6,16,59,True
+LeBron James,1,6,36,0,Jump Shot,25,-38,250,False
+LeBron James,4,2,21,0,Jump Shot,25,-210,146,False
+LeBron James,2,9,37,1,Jump Shot,14,111,92,True
+LeBron James,2,8,54,0,Jump Shot,14,119,81,True
+LeBron James,4,10,50,1,Jump Shot,26,142,218,False
+LeBron James,1,9,46,1,Jump Shot,25,-183,183,False
+LeBron James,2,0,57,1,Jump Shot,18,183,32,True
+LeBron James,2,10,28,0,Jump Shot,22,-228,-1,False
+LeBron James,2,0,1,1,Jump Shot,24,-109,221,False
+LeBron James,1,7,59,1,Jump Shot,25,-111,233,False
+LeBron James,4,5,55,0,Jump Shot,25,-97,232,False
+LeBron James,1,8,29,0,Jump Shot,21,-164,132,True
+LeBron James,4,6,45,0,Jump Shot,24,92,232,False
+LeBron James,3,4,31,0,Jump Shot,24,-211,127,False
+LeBron James,2,5,31,0,Jump Shot,20,-201,16,True
+LeBron James,4,2,57,0,Jump Shot,19,179,72,True
+LeBron James,3,7,32,1,Jump Shot,19,181,68,True
+LeBron James,3,10,23,0,Jump Shot,25,209,146,False
+LeBron James,2,2,35,1,Jump Shot,17,176,29,True
+LeBron James,4,0,23,0,Jump Shot,25,-53,248,False
+LeBron James,1,1,6,1,Jump Shot,1,-2,10,True
+LeBron James,3,11,45,1,Jump Shot,26,193,188,False
+LeBron James,3,9,5,0,Jump Shot,27,-123,243,False
+LeBron James,4,1,46,0,Jump Shot,25,-131,222,False
+LeBron James,3,5,57,1,Jump Shot,22,228,4,False
+LeBron James,4,5,11,1,Jump Shot,24,235,78,False
+LeBron James,1,5,43,1,Jump Shot,21,-177,130,True
+LeBron James,4,9,26,1,Jump Shot,29,-96,279,False
+LeBron James,1,8,10,0,Jump Shot,24,151,199,False
+LeBron James,3,0,1,0,Jump Shot,21,96,187,True
+LeBron James,3,0,31,1,Jump Shot,32,197,253,False
+LeBron James,1,4,38,1,Jump Shot,25,-92,234,False
+LeBron James,4,5,31,0,Jump Shot,24,-207,135,False
+LeBron James,3,6,20,0,Jump Shot,6,-34,61,True
+LeBron James,3,5,48,0,Jump Shot,25,-192,163,False
+LeBron James,4,0,12,0,Jump Shot,27,-135,237,False
+LeBron James,2,6,12,1,Jump Shot,24,-144,200,False
+LeBron James,1,7,44,1,Jump Shot,26,-144,221,False
+LeBron James,1,9,32,0,Jump Shot,25,-12,259,False
+LeBron James,3,7,37,1,Jump Shot,25,-155,200,False
+LeBron James,4,0,31,0,Jump Shot,12,-45,116,True
+LeBron James,3,2,8,0,Jump Shot,24,-216,111,False
+LeBron James,3,11,16,1,Jump Shot,25,-217,132,False
+LeBron James,4,8,34,0,Jump Shot,25,188,179,False
+LeBron James,3,2,46,0,Jump Shot,19,177,89,True
+LeBron James,1,9,27,0,Jump Shot,24,150,196,False
+LeBron James,4,3,2,0,Jump Shot,24,-200,137,False
+LeBron James,1,7,33,0,Jump Shot,25,84,244,False
+LeBron James,1,9,7,0,Jump Shot,10,-29,105,True
+LeBron James,3,11,41,0,Jump Shot,18,-166,72,True
+LeBron James,4,9,48,0,Jump Shot,25,-86,243,False
+LeBron James,3,1,15,0,Jump Shot,25,-68,242,False
+LeBron James,4,6,35,0,Jump Shot,24,95,229,False
+LeBron James,1,1,40,0,Jump Shot,23,232,30,False
+LeBron James,3,1,45,1,Jump Shot,25,37,248,False
+LeBron James,2,1,46,0,Jump Shot,23,235,3,False
+LeBron James,2,0,13,0,Jump Shot,25,-81,242,False
+LeBron James,2,3,44,0,Jump Shot,20,67,190,True
+LeBron James,3,10,2,0,Jump Shot,24,136,209,False
+LeBron James,4,0,46,0,Jump Shot,26,-51,263,False
+LeBron James,4,2,32,1,Jump Shot,3,39,8,True
+LeBron James,3,2,43,0,Jump Shot,22,-93,201,True
+LeBron James,3,10,27,0,Jump Shot,22,205,86,True
+LeBron James,4,11,2,0,Jump Shot,24,-52,243,False
+LeBron James,1,1,14,1,Jump Shot,9,3,91,True
+LeBron James,4,8,42,0,Jump Shot,15,152,37,True
+LeBron James,1,1,45,0,Jump Shot,26,-76,253,False
+LeBron James,3,7,27,1,Jump Shot,25,-36,257,False
+LeBron James,1,10,21,0,Jump Shot,29,131,266,False
+LeBron James,2,0,2,0,Jump Shot,26,-117,235,False
+LeBron James,3,9,51,1,Jump Shot,25,-107,231,False
+LeBron James,3,7,11,0,Jump Shot,27,144,229,False
+LeBron James,3,9,21,0,Jump Shot,25,-2,257,False
+LeBron James,4,10,53,1,Jump Shot,25,69,247,False
+LeBron James,2,10,52,0,Jump Shot,13,1,136,True
+LeBron James,2,8,57,0,Jump Shot,4,-40,16,True
+LeBron James,3,4,16,0,Jump Shot,21,206,52,True
+LeBron James,1,0,51,0,Jump Shot,25,-120,221,False
+LeBron James,3,3,41,1,Jump Shot,26,-61,256,False
+LeBron James,1,6,22,0,Jump Shot,16,0,167,True
+LeBron James,2,2,22,0,Jump Shot,25,27,257,False
+LeBron James,1,2,54,0,Jump Shot,24,-217,115,False
+LeBron James,4,8,21,0,Jump Shot,25,47,247,False
+LeBron James,2,0,2,1,Jump Shot,25,86,242,False
+LeBron James,3,8,50,1,Jump Shot,26,84,247,False
+LeBron James,2,4,28,0,Jump Shot,28,-100,262,False
+LeBron James,4,6,26,0,Jump Shot,22,227,-19,False
+LeBron James,4,2,25,0,Jump Shot,28,54,278,False
+LeBron James,3,7,51,0,Jump Shot,22,-221,7,False
+LeBron James,2,10,47,0,Jump Shot,27,0,273,False
+LeBron James,4,1,16,0,Jump Shot,26,-119,239,False
+LeBron James,1,4,54,0,Jump Shot,26,-144,221,False
+LeBron James,2,3,27,0,Jump Shot,19,154,116,True
+LeBron James,1,10,25,0,Jump Shot,17,-105,142,True
+LeBron James,3,9,43,0,Jump Shot,21,-170,138,True
+LeBron James,4,8,56,0,Jump Shot,25,134,216,False
+LeBron James,2,0,3,0,Jump Shot,25,-141,214,False
+LeBron James,1,7,18,1,Jump Shot,27,-126,241,False
+LeBron James,4,6,47,1,Jump Shot,22,-82,209,True
+LeBron James,1,10,19,0,Jump Shot,22,-229,12,False
+LeBron James,2,0,45,0,Jump Shot,26,-90,244,False
+LeBron James,2,0,0,1,Jump Shot,23,-231,-33,False
+LeBron James,3,6,53,0,Jump Shot,27,-155,224,False
+LeBron James,1,2,59,0,Jump Shot,25,-220,136,False
+LeBron James,4,8,54,0,Jump Shot,24,-215,121,False
+LeBron James,1,5,43,1,Jump Shot,19,-138,135,True
+LeBron James,1,4,56,1,Jump Shot,25,-226,121,False
+LeBron James,3,7,30,0,Jump Shot,13,-101,87,True
+LeBron James,1,7,36,0,Jump Shot,25,-173,194,False
+LeBron James,4,0,41,0,Jump Shot,24,24,246,False
+LeBron James,1,8,32,1,Jump Shot,21,-149,158,True
+LeBron James,4,5,34,1,Jump Shot,25,-10,257,False
+LeBron James,2,3,47,1,Jump Shot,23,232,24,False
+LeBron James,4,1,2,0,Jump Shot,25,-43,253,False
+LeBron James,1,5,33,1,Jump Shot,28,78,269,False
+LeBron James,3,8,49,1,Jump Shot,15,124,92,True
+LeBron James,2,9,13,0,Jump Shot,25,161,197,False
+LeBron James,1,11,16,0,Jump Shot,16,161,41,True
+LeBron James,3,10,8,1,Jump Shot,24,-59,240,False
+LeBron James,3,10,20,1,Jump Shot,25,-168,187,False
+LeBron James,3,11,46,0,Jump Shot,23,-236,42,False
+LeBron James,2,3,13,0,Jump Shot,26,-145,221,False
+LeBron James,2,7,46,1,Jump Shot,25,-158,204,False
+LeBron James,3,8,43,1,Jump Shot,28,-54,278,False
+LeBron James,4,5,56,0,Jump Shot,28,-153,243,False
+LeBron James,4,1,11,0,Jump Shot,29,-214,209,False
+LeBron James,2,1,2,0,Jump Shot,27,-91,255,False
+LeBron James,4,0,0,0,Jump Shot,26,218,142,False
+LeBron James,4,9,20,0,Jump Shot,24,-172,180,False
+LeBron James,2,4,30,0,Jump Shot,20,171,121,True
+LeBron James,2,0,17,0,Jump Shot,24,-87,234,False
+LeBron James,1,4,59,0,Jump Shot,22,228,8,False
+LeBron James,3,9,33,0,Jump Shot,20,-184,96,True
+LeBron James,3,5,50,0,Jump Shot,24,74,238,False
+LeBron James,3,5,42,0,Jump Shot,24,-47,244,False
+LeBron James,3,6,5,0,Jump Shot,27,-171,210,False
+LeBron James,1,5,47,1,Jump Shot,14,142,3,True
+LeBron James,3,10,48,1,Jump Shot,27,-150,231,False
+LeBron James,3,7,31,1,Jump Shot,14,51,134,True
+LeBron James,1,4,42,0,Jump Shot,8,-54,63,True
+LeBron James,2,4,36,1,Jump Shot,28,-138,248,False
+LeBron James,3,9,39,1,Jump Shot,21,-214,43,True
+LeBron James,2,3,0,0,Jump Shot,26,-78,252,False
+LeBron James,3,6,45,1,Jump Shot,20,118,171,True
+LeBron James,2,0,31,1,Jump Shot,25,3,257,False
+LeBron James,2,5,46,1,Jump Shot,24,-135,208,False
+LeBron James,3,2,48,0,Jump Shot,26,163,210,False
+LeBron James,1,0,57,0,Jump Shot,24,-231,89,False
+LeBron James,1,6,24,0,Jump Shot,18,44,178,True
+LeBron James,4,11,14,0,Jump Shot,24,-210,131,False
+LeBron James,1,0,8,1,Jump Shot,23,4,231,True
+LeBron James,4,7,47,0,Jump Shot,23,150,175,True
+LeBron James,4,10,56,0,Jump Shot,23,230,55,False
+LeBron James,4,7,10,0,Jump Shot,7,-2,75,True
+LeBron James,4,5,42,0,Jump Shot,18,185,-5,True
+LeBron James,3,6,2,0,Jump Shot,26,-148,222,False
+LeBron James,1,4,57,1,Jump Shot,25,1,258,False
+LeBron James,4,0,45,1,Jump Shot,25,-43,252,False
+LeBron James,3,11,43,1,Jump Shot,25,62,251,False
+LeBron James,2,5,4,0,Jump Shot,22,-93,205,True
+LeBron James,4,3,21,1,Jump Shot,4,-19,36,True
+LeBron James,4,5,48,1,Jump Shot,23,234,52,False
+LeBron James,3,7,53,1,Jump Shot,23,-236,1,False
+LeBron James,2,6,17,1,Jump Shot,16,155,52,True
+LeBron James,3,5,24,1,Jump Shot,27,-155,230,False
+LeBron James,3,5,32,0,Jump Shot,27,-163,227,False
+LeBron James,3,9,44,1,Jump Shot,26,110,237,False
+LeBron James,4,0,0,0,Jump Shot,25,-60,245,False
+LeBron James,1,0,0,0,Jump Shot,28,-203,196,False
+LeBron James,4,1,41,0,Jump Shot,24,240,13,False
+LeBron James,4,6,22,0,Jump Shot,17,-63,164,True
+LeBron James,4,5,26,0,Jump Shot,25,-31,251,False
+LeBron James,1,7,57,0,Jump Shot,26,-33,263,False
+LeBron James,1,8,45,0,Jump Shot,17,-169,44,True
+LeBron James,2,0,58,0,Jump Shot,25,-82,240,False
+LeBron James,2,6,32,1,Jump Shot,23,-189,147,False
+LeBron James,1,0,33,0,Jump Shot,25,89,236,False
+LeBron James,4,6,42,0,Jump Shot,25,22,259,False
+LeBron James,4,4,5,0,Jump Shot,24,123,212,False
+LeBron James,3,11,17,1,Jump Shot,25,-133,213,False
+LeBron James,1,2,9,1,Jump Shot,25,29,258,False
+LeBron James,3,0,9,0,Jump Shot,27,-7,275,False
+LeBron James,3,6,23,0,Jump Shot,25,-202,152,False
+LeBron James,4,1,27,1,Jump Shot,27,-144,233,False
+LeBron James,3,3,19,1,Jump Shot,26,-182,190,False
+LeBron James,1,5,30,0,Jump Shot,24,-134,210,False
+LeBron James,4,0,36,0,Jump Shot,25,-157,197,False
+LeBron James,4,7,54,0,Jump Shot,16,-87,146,True
+LeBron James,3,9,26,1,Jump Shot,25,-107,227,False
+LeBron James,3,11,20,0,Jump Shot,19,-98,163,True
+LeBron James,1,3,41,0,Jump Shot,22,111,199,True
+LeBron James,4,7,23,1,Jump Shot,24,-109,224,False
+LeBron James,4,4,21,1,Jump Shot,27,208,182,False
+LeBron James,4,8,52,0,Jump Shot,20,40,200,True
+LeBron James,1,4,4,0,Jump Shot,26,-147,222,False
+LeBron James,3,0,53,0,Jump Shot,24,-102,226,False
+LeBron James,3,1,47,0,Jump Shot,7,-31,73,True
+LeBron James,3,1,26,0,Jump Shot,25,-41,252,False
+LeBron James,1,3,33,1,Jump Shot,25,87,236,False
+LeBron James,3,9,56,0,Jump Shot,26,223,146,False
+LeBron James,3,4,52,1,Jump Shot,30,148,271,False
+LeBron James,2,4,2,0,Jump Shot,22,227,5,False
+LeBron James,2,0,1,0,Jump Shot,26,-152,221,False
+LeBron James,3,5,37,0,Jump Shot,21,-103,185,True
+LeBron James,3,5,1,1,Jump Shot,23,-230,-4,False
+LeBron James,1,6,20,0,Jump Shot,26,-99,246,False
+LeBron James,1,6,47,1,Jump Shot,23,-234,-15,False
+LeBron James,3,10,33,0,Jump Shot,25,90,236,False
+LeBron James,1,8,4,0,Jump Shot,25,35,256,False
+LeBron James,2,0,0,0,Jump Shot,25,128,217,False
+LeBron James,3,3,18,0,Jump Shot,24,-171,180,False
+LeBron James,3,7,33,0,Jump Shot,19,166,101,True
+LeBron James,3,11,8,0,Jump Shot,19,-52,188,True
+LeBron James,3,2,19,0,Jump Shot,25,-97,232,False
+LeBron James,4,4,50,1,Jump Shot,22,111,200,True
+LeBron James,1,1,53,0,Jump Shot,26,102,248,False
+LeBron James,2,2,6,0,Jump Shot,25,-14,259,False
+LeBron James,3,4,32,0,Jump Shot,2,6,23,True
+LeBron James,1,5,49,0,Jump Shot,20,18,201,True
+LeBron James,3,1,45,1,Jump Shot,29,36,293,False
+LeBron James,3,4,33,1,Jump Shot,25,55,252,False
+LeBron James,3,10,21,0,Jump Shot,21,115,184,True
+LeBron James,3,9,7,0,Jump Shot,26,70,255,False
+LeBron James,3,8,43,0,Jump Shot,25,33,248,False
+LeBron James,4,3,4,0,Jump Shot,7,-53,46,True
+LeBron James,1,6,38,0,Jump Shot,4,14,38,True
+LeBron James,2,5,35,0,Jump Shot,25,-176,191,False
+LeBron James,3,5,54,0,Jump Shot,23,223,79,False
+LeBron James,3,1,51,0,Jump Shot,17,-130,118,True
+LeBron James,4,4,18,0,Jump Shot,24,-156,194,False
+LeBron James,2,0,58,1,Jump Shot,25,39,250,False
+LeBron James,2,1,45,0,Jump Shot,20,-100,179,True
+LeBron James,2,0,9,1,Jump Shot,9,93,1,True
+LeBron James,3,10,5,1,Jump Shot,30,180,252,False
+LeBron James,4,6,56,0,Jump Shot,19,170,100,True
+LeBron James,4,5,0,1,Jump Shot,18,-145,114,True
+LeBron James,4,11,18,0,Jump Shot,26,-8,264,False
+LeBron James,3,0,57,0,Jump Shot,31,198,245,False
+LeBron James,3,0,46,0,Jump Shot,29,-68,284,False
+LeBron James,4,3,2,0,Jump Shot,21,-92,189,True
+LeBron James,3,5,52,1,Jump Shot,24,-46,240,False
+LeBron James,3,5,16,1,Layup Shot,1,-7,11,True
+LeBron James,1,0,4,0,Layup Shot,1,-13,1,True
+LeBron James,4,2,11,1,Layup Shot,1,-5,13,True
+LeBron James,4,2,58,1,Layup Shot,1,13,-7,True
+LeBron James,3,0,39,0,Layup Shot,1,9,6,True
+LeBron James,2,2,58,1,Layup Shot,0,2,6,True
+LeBron James,3,4,14,1,Layup Shot,3,36,16,True
+LeBron James,3,9,2,0,Layup Shot,2,6,27,True
+LeBron James,1,3,56,0,Layup Shot,5,45,22,True
+LeBron James,1,0,57,1,Layup Shot,1,-8,6,True
+LeBron James,1,3,5,0,Layup Shot,4,5,41,True
+LeBron James,1,6,48,0,Layup Shot,1,-6,14,True
+LeBron James,2,1,49,1,Layup Shot,0,8,1,True
+LeBron James,3,4,9,0,Layup Shot,2,-21,1,True
+LeBron James,1,11,0,0,Layup Shot,2,-9,21,True
+LeBron James,1,5,8,1,Layup Shot,0,0,1,True
+LeBron James,1,0,22,0,Layup Shot,3,-7,34,True
+LeBron James,1,1,34,1,Layup Shot,1,3,12,True
+LeBron James,1,2,11,1,Layup Shot,1,-8,16,True
+LeBron James,3,10,42,1,Layup Shot,0,9,2,True
+LeBron James,4,4,27,0,Layup Shot,0,-2,5,True
+LeBron James,2,3,40,1,Layup Shot,0,-9,4,True
+LeBron James,3,0,27,1,Layup Shot,2,-19,23,True
+LeBron James,1,2,55,0,Layup Shot,1,-16,11,True
+LeBron James,4,10,11,0,Layup Shot,5,39,41,True
+LeBron James,2,6,5,1,Layup Shot,0,-5,7,True
+LeBron James,4,2,22,1,Layup Shot,0,1,4,True
+LeBron James,2,0,35,1,Layup Shot,3,-37,14,True
+LeBron James,4,6,38,1,Layup Shot,1,-10,8,True
+LeBron James,4,1,22,1,Layup Shot,2,16,13,True
+LeBron James,3,3,57,1,Layup Shot,1,-2,11,True
+LeBron James,4,2,36,1,Layup Shot,1,3,15,True
+LeBron James,1,0,58,1,Layup Shot,1,-13,9,True
+LeBron James,4,0,21,1,Layup Shot,1,-3,12,True
+LeBron James,4,2,34,1,Layup Shot,0,-3,8,True
+LeBron James,1,9,1,1,Layup Shot,1,-3,13,True
+LeBron James,2,0,22,1,Layup Shot,3,27,18,True
+LeBron James,2,1,51,1,Layup Shot,2,26,5,True
+LeBron James,1,8,37,1,Layup Shot,1,5,10,True
+LeBron James,3,4,41,1,Layup Shot,1,-7,8,True
+LeBron James,1,2,27,0,Layup Shot,0,2,4,True
+LeBron James,2,4,37,1,Layup Shot,0,5,8,True
+LeBron James,1,10,51,1,Layup Shot,2,20,14,True
+LeBron James,2,2,53,1,Layup Shot,1,-6,8,True
+LeBron James,4,4,2,0,Layup Shot,1,16,10,True
+LeBron James,4,2,39,0,Layup Shot,2,9,22,True
+LeBron James,1,10,20,0,Layup Shot,3,-4,30,True
+LeBron James,1,4,21,1,Layup Shot,1,6,9,True
+LeBron James,1,5,39,0,Layup Shot,1,-3,15,True
+LeBron James,1,9,59,1,Layup Shot,0,-5,1,True
+LeBron James,4,4,32,1,Layup Shot,1,-5,13,True
+LeBron James,2,1,4,0,Layup Shot,2,3,26,True
+LeBron James,2,1,2,0,Layup Shot,6,51,45,True
+LeBron James,2,2,12,1,Layup Shot,0,-9,4,True
+LeBron James,4,0,5,0,Layup Shot,9,9,97,True
+LeBron James,3,5,45,1,Layup Shot,2,17,21,True
+LeBron James,3,10,30,1,Layup Shot,0,-8,-1,True
+LeBron James,2,6,7,1,Layup Shot,2,8,25,True
+LeBron James,1,4,28,1,Layup Shot,1,-9,12,True
+LeBron James,4,4,44,0,Layup Shot,2,-14,17,True
+LeBron James,2,0,30,0,Layup Shot,3,-18,26,True
+LeBron James,3,6,2,0,Layup Shot,2,28,6,True
+LeBron James,4,1,19,1,Layup Shot,2,2,20,True
+LeBron James,2,3,53,1,Layup Shot,1,4,18,True
+LeBron James,1,4,15,1,Layup Shot,2,17,16,True
+LeBron James,4,9,45,1,Layup Shot,2,-18,16,True
+LeBron James,4,6,51,1,Layup Shot,1,11,5,True
+LeBron James,3,5,59,0,Layup Shot,1,17,5,True
+LeBron James,1,3,29,0,Layup Shot,2,14,26,True
+LeBron James,2,7,41,1,Layup Shot,1,-11,10,True
+LeBron James,3,5,15,1,Layup Shot,1,-5,18,True
+LeBron James,3,1,10,0,Layup Shot,2,-13,27,True
+LeBron James,3,3,3,1,Layup Shot,0,5,0,True
+LeBron James,4,7,8,1,Layup Shot,0,7,4,True
+LeBron James,2,1,48,1,Layup Shot,2,-13,22,True
+LeBron James,4,2,38,0,Layup Shot,1,0,13,True
+LeBron James,4,4,39,1,Layup Shot,1,11,9,True
+LeBron James,3,3,30,0,Layup Shot,1,9,13,True
+LeBron James,1,4,5,1,Layup Shot,3,3,38,True
+LeBron James,3,2,12,1,Layup Shot,0,3,-2,True
+LeBron James,1,4,11,0,Layup Shot,1,-14,-3,True
+LeBron James,3,5,32,0,Layup Shot,5,51,17,True
+LeBron James,1,8,41,0,Layup Shot,2,-3,25,True
+LeBron James,2,2,21,1,Layup Shot,0,4,5,True
+LeBron James,1,9,23,0,Layup Shot,2,-8,22,True
+LeBron James,2,2,19,1,Layup Shot,1,3,17,True
+LeBron James,1,8,19,1,Layup Shot,0,0,6,True
+LeBron James,3,10,7,0,Layup Shot,3,9,31,True
+LeBron James,4,5,5,1,Layup Shot,1,13,11,True
+LeBron James,1,6,21,0,Layup Shot,3,25,28,True
+LeBron James,1,5,45,1,Layup Shot,2,3,24,True
+LeBron James,2,1,34,0,Layup Shot,2,-25,16,True
+LeBron James,2,3,38,0,Layup Shot,0,-5,1,True
+LeBron James,3,5,16,1,Layup Shot,1,11,9,True
+LeBron James,1,3,27,0,Layup Shot,2,10,20,True
+LeBron James,2,4,32,1,Layup Shot,0,7,6,True
+LeBron James,2,7,44,1,Layup Shot,1,14,12,True
+LeBron James,1,3,10,1,Layup Shot,2,-2,25,True
+LeBron James,1,10,36,1,Layup Shot,1,14,-7,True
+LeBron James,3,3,22,1,Layup Shot,1,-11,6,True
+LeBron James,4,5,38,0,Layup Shot,0,3,2,True
+LeBron James,4,0,51,1,Layup Shot,0,8,0,True
+LeBron James,1,0,28,0,Layup Shot,2,20,-1,True
+LeBron James,2,3,56,0,Layup Shot,9,96,11,True
+LeBron James,2,5,6,1,Layup Shot,1,9,10,True
+LeBron James,4,7,23,1,Layup Shot,0,3,4,True
+LeBron James,1,6,37,0,Layup Shot,2,7,26,True
+LeBron James,1,3,4,0,Layup Shot,1,-5,16,True
+LeBron James,4,2,6,1,Layup Shot,2,14,21,True
+LeBron James,3,4,50,0,Layup Shot,1,-2,19,True
+LeBron James,1,11,22,1,Layup Shot,2,6,21,True
+LeBron James,1,0,2,1,Layup Shot,1,-1,11,True
+LeBron James,4,0,39,1,Pullup Jump shot,13,-105,89,True
+LeBron James,1,1,16,0,Pullup Jump shot,24,-204,138,False
+LeBron James,4,7,34,1,Pullup Jump shot,26,165,209,False
+LeBron James,4,5,8,1,Pullup Jump shot,26,-154,212,False
+LeBron James,2,9,33,0,Pullup Jump shot,23,20,230,True
+LeBron James,1,5,23,0,Pullup Jump shot,19,12,193,True
+LeBron James,3,7,40,1,Pullup Jump shot,26,180,188,False
+LeBron James,3,5,58,0,Pullup Jump shot,19,44,188,True
+LeBron James,1,9,49,1,Pullup Jump shot,18,81,166,True
+LeBron James,1,5,38,1,Pullup Jump shot,18,157,100,True
+LeBron James,2,3,24,0,Pullup Jump shot,19,128,151,True
+LeBron James,1,8,20,1,Pullup Jump shot,22,-49,221,True
+LeBron James,1,5,12,1,Pullup Jump shot,17,-80,155,True
+LeBron James,1,10,19,0,Pullup Jump shot,22,-5,225,True
+LeBron James,3,8,57,0,Pullup Jump shot,17,-52,169,True
+LeBron James,1,0,34,0,Pullup Jump shot,28,169,232,False
+LeBron James,2,5,16,1,Pullup Jump shot,20,-105,173,True
+LeBron James,4,7,22,0,Pullup Jump shot,21,-105,193,True
+LeBron James,1,1,4,1,Pullup Jump shot,19,22,198,True
+LeBron James,4,2,53,1,Pullup Jump shot,29,-90,281,False
+LeBron James,4,2,40,0,Pullup Jump shot,17,176,26,True
+LeBron James,2,4,24,0,Pullup Jump shot,23,-83,216,True
+LeBron James,2,0,37,0,Pullup Jump shot,22,30,221,True
+LeBron James,3,10,24,0,Pullup Jump shot,16,-8,167,True
+LeBron James,3,9,5,0,Pullup Jump shot,21,-147,152,True
+LeBron James,2,3,13,1,Pullup Jump shot,21,-65,201,True
+LeBron James,1,9,17,0,Pullup Jump shot,26,-66,256,False
+LeBron James,1,0,51,1,Pullup Jump shot,26,89,250,False
+LeBron James,3,6,41,1,Pullup Jump shot,17,40,167,True
+LeBron James,2,1,4,0,Pullup Jump shot,24,-64,235,False
+LeBron James,1,0,55,1,Pullup Jump shot,24,-108,220,False
+LeBron James,1,9,44,0,Pullup Jump shot,14,141,-7,True
+LeBron James,3,11,0,1,Pullup Jump shot,19,-91,167,True
+LeBron James,4,9,11,0,Pullup Jump shot,22,226,11,False
+LeBron James,3,11,46,1,Pullup Jump shot,17,70,164,True
+LeBron James,3,0,55,1,Pullup Jump shot,14,-27,138,True
+LeBron James,1,6,1,0,Pullup Jump shot,24,-157,191,False
+LeBron James,4,2,16,0,Pullup Jump shot,26,-192,186,False
+LeBron James,4,3,28,0,Pullup Jump shot,22,-106,197,True
+LeBron James,1,6,54,1,Pullup Jump shot,15,-122,96,True
+LeBron James,2,3,5,0,Pullup Jump shot,16,-27,158,True
+LeBron James,1,7,25,1,Pullup Jump shot,19,-147,125,True
+LeBron James,1,9,8,1,Pullup Jump shot,18,-105,148,True
+LeBron James,4,6,23,1,Pullup Jump shot,10,-36,96,True
+LeBron James,2,0,2,1,Pullup Jump shot,29,122,267,False
+LeBron James,1,2,35,1,Pullup Jump shot,7,-75,11,True
+LeBron James,1,11,20,0,Pullup Jump shot,18,155,107,True
+LeBron James,1,3,8,0,Pullup Jump shot,26,-211,161,False
+LeBron James,1,6,31,0,Pullup Jump shot,17,-121,132,True
+LeBron James,3,1,39,0,Pullup Jump shot,26,138,223,False
+LeBron James,3,7,32,0,Pullup Jump shot,22,-19,221,True
+LeBron James,2,2,36,0,Pullup Jump shot,17,-89,148,True
+LeBron James,2,2,30,0,Pullup Jump shot,28,87,274,False
+LeBron James,1,0,35,0,Pullup Jump shot,20,115,167,True
+LeBron James,2,8,24,0,Pullup Jump shot,5,-53,28,True
+LeBron James,1,6,42,1,Pullup Jump shot,19,184,48,True
+LeBron James,3,7,50,0,Pullup Jump shot,18,-114,141,True
+LeBron James,3,11,21,0,Pullup Jump shot,25,-190,167,False
+LeBron James,3,5,44,0,Pullup Jump shot,25,14,253,False
+LeBron James,3,7,19,1,Pullup Jump shot,15,-80,132,True
+LeBron James,3,3,21,0,Pullup Jump shot,24,24,246,False
+LeBron James,3,8,47,0,Pullup Jump shot,25,-221,125,False
+LeBron James,2,5,52,0,Pullup Jump shot,28,-178,224,False
+LeBron James,3,9,31,0,Pullup Jump shot,17,-9,179,True
+LeBron James,1,0,1,1,Pullup Jump shot,19,-93,167,True
+LeBron James,2,2,26,0,Pullup Jump shot,18,2,188,True
+LeBron James,3,5,7,1,Pullup Jump shot,14,-67,127,True
+LeBron James,4,3,57,1,Pullup Jump shot,20,-149,138,True
+LeBron James,4,0,33,0,Pullup Jump shot,20,-71,197,True
+LeBron James,4,8,38,0,Pullup Jump shot,26,190,185,False
+LeBron James,1,10,17,1,Pullup Jump shot,16,-121,105,True
+LeBron James,1,2,27,0,Pullup Jump shot,14,-27,147,True
+LeBron James,4,9,15,1,Pullup Jump shot,26,48,259,False
+LeBron James,1,3,53,1,Putback Dunk Shot,0,0,-6,True
+LeBron James,4,3,9,1,Putback Dunk Shot,0,0,-6,True
+LeBron James,2,3,47,1,Putback Dunk Shot,0,0,-6,True
+LeBron James,1,5,51,1,Putback Dunk Shot,0,0,-6,True
+LeBron James,3,1,6,1,Putback Dunk Shot,0,0,-6,True
+LeBron James,3,6,57,1,Putback Layup Shot,0,0,-6,True
+LeBron James,1,3,8,1,Putback Layup Shot,0,-1,4,True
+LeBron James,2,5,1,0,Putback Layup Shot,0,0,-6,True
+LeBron James,4,1,11,0,Putback Layup Shot,1,-19,5,True
+LeBron James,4,4,4,1,Putback Layup Shot,1,-6,10,True
+LeBron James,3,9,52,0,Putback Layup Shot,4,36,21,True
+LeBron James,3,5,59,0,Putback Layup Shot,1,7,16,True
+LeBron James,1,5,27,0,Putback Layup Shot,1,-2,15,True
+LeBron James,1,2,22,1,Putback Layup Shot,3,-30,20,True
+LeBron James,4,1,21,1,Putback Layup Shot,0,3,7,True
+LeBron James,1,3,59,1,Putback Layup Shot,2,24,1,True
+LeBron James,2,2,8,1,Putback Layup Shot,0,0,-6,True
+LeBron James,3,4,43,1,Putback Layup Shot,0,2,6,True
+LeBron James,4,4,40,0,Putback Layup Shot,0,0,-6,True
+LeBron James,4,2,50,0,Putback Layup Shot,2,25,15,True
+LeBron James,1,2,49,1,Putback Layup Shot,2,10,18,True
+LeBron James,2,5,57,1,Putback Layup Shot,0,0,-6,True
+LeBron James,3,7,53,1,Putback Layup Shot,0,0,-6,True
+LeBron James,4,7,57,1,Reverse Layup Shot,1,2,13,True
+LeBron James,4,9,59,1,Reverse Layup Shot,1,2,12,True
+LeBron James,1,6,45,1,Reverse Layup Shot,0,-9,1,True
+LeBron James,4,3,43,1,Reverse Layup Shot,0,8,4,True
+LeBron James,1,5,12,1,Reverse Layup Shot,1,9,11,True
+LeBron James,1,5,46,0,Reverse Layup Shot,1,10,17,True
+LeBron James,3,9,0,1,Reverse Layup Shot,0,-3,6,True
+LeBron James,4,1,21,1,Reverse Layup Shot,1,-9,11,True
+LeBron James,1,6,3,0,Reverse Layup Shot,1,11,16,True
+LeBron James,2,2,33,1,Running Alley Oop Dunk Shot,1,-9,8,True
+LeBron James,3,0,16,1,Running Dunk Shot,1,0,16,True
+LeBron James,2,6,28,1,Running Dunk Shot,1,-17,8,True
+LeBron James,2,5,12,1,Running Dunk Shot,0,-1,8,True
+LeBron James,1,1,49,1,Running Dunk Shot,1,-3,17,True
+LeBron James,1,3,50,1,Running Dunk Shot,1,-12,-3,True
+LeBron James,3,11,6,1,Running Dunk Shot,0,5,4,True
+LeBron James,1,6,48,1,Running Dunk Shot,1,-12,-4,True
+LeBron James,4,6,17,1,Running Dunk Shot,1,2,15,True
+LeBron James,2,3,25,1,Running Dunk Shot,2,9,21,True
+LeBron James,3,2,25,0,Running Dunk Shot,6,-51,46,True
+LeBron James,1,3,39,0,Running Dunk Shot,2,11,22,True
+LeBron James,1,4,53,1,Running Dunk Shot,1,-9,6,True
+LeBron James,3,2,45,1,Running Dunk Shot,1,17,4,True
+LeBron James,4,1,12,1,Running Dunk Shot,1,11,11,True
+LeBron James,1,0,4,1,Running Dunk Shot,1,6,11,True
+LeBron James,4,2,56,1,Running Dunk Shot,1,-8,6,True
+LeBron James,1,3,16,1,Running Dunk Shot,1,-2,11,True
+LeBron James,3,10,25,1,Running Dunk Shot,2,-6,21,True
+LeBron James,3,9,17,1,Running Dunk Shot,0,4,5,True
+LeBron James,1,7,16,1,Running Dunk Shot,0,-8,-1,True
+LeBron James,3,8,52,1,Running Dunk Shot,1,-4,11,True
+LeBron James,3,8,14,1,Running Finger Roll Layup Shot,2,11,19,True
+LeBron James,2,3,11,1,Running Finger Roll Layup Shot,1,-8,15,True
+LeBron James,1,7,38,1,Running Finger Roll Layup Shot,0,6,4,True
+LeBron James,2,0,37,1,Running Finger Roll Layup Shot,0,-3,2,True
+LeBron James,1,11,33,1,Running Finger Roll Layup Shot,0,-2,4,True
+LeBron James,3,0,0,0,Running Jump Shot,38,20,389,False
+LeBron James,2,1,43,1,Running Jump Shot,7,-1,79,True
+LeBron James,3,8,52,0,Running Layup Shot,1,-5,11,True
+LeBron James,4,0,21,1,Running Layup Shot,0,0,5,True
+LeBron James,1,6,23,0,Running Layup Shot,1,-1,10,True
+LeBron James,1,9,39,1,Running Layup Shot,2,1,26,True
+LeBron James,4,6,3,1,Running Layup Shot,4,-41,13,True
+LeBron James,2,8,14,1,Running Layup Shot,1,12,8,True
+LeBron James,4,4,47,1,Running Layup Shot,2,19,9,True
+LeBron James,3,6,41,0,Running Layup Shot,1,2,15,True
+LeBron James,2,3,14,0,Running Layup Shot,2,-7,23,True
+LeBron James,1,9,12,1,Running Layup Shot,1,-3,13,True
+LeBron James,4,3,2,1,Running Layup Shot,0,-1,5,True
+LeBron James,1,2,52,1,Running Layup Shot,2,3,25,True
+LeBron James,2,4,39,1,Running Layup Shot,1,-6,16,True
+LeBron James,1,5,42,1,Running Layup Shot,2,23,10,True
+LeBron James,3,5,23,1,Running Layup Shot,3,-13,34,True
+LeBron James,3,5,42,1,Running Layup Shot,2,2,26,True
+LeBron James,4,5,29,1,Running Layup Shot,1,13,0,True
+LeBron James,2,0,20,0,Running Layup Shot,1,-3,11,True
+LeBron James,1,2,2,1,Running Layup Shot,1,7,15,True
+LeBron James,3,7,42,0,Running Layup Shot,1,7,10,True
+LeBron James,1,4,30,1,Running Layup Shot,1,11,13,True
+LeBron James,1,9,5,1,Running Layup Shot,1,-16,1,True
+LeBron James,2,4,2,1,Running Layup Shot,1,-13,8,True
+LeBron James,2,5,59,1,Running Layup Shot,0,1,8,True
+LeBron James,4,8,39,0,Running Layup Shot,0,0,5,True
+LeBron James,3,2,35,1,Running Layup Shot,0,-5,5,True
+LeBron James,3,4,0,1,Running Layup Shot,2,4,22,True
+LeBron James,3,1,55,1,Running Layup Shot,0,2,5,True
+LeBron James,1,10,21,1,Running Layup Shot,2,-8,23,True
+LeBron James,1,5,9,1,Running Layup Shot,1,14,10,True
+LeBron James,2,6,59,1,Running Layup Shot,2,20,10,True
+LeBron James,1,4,31,1,Running Layup Shot,1,9,11,True
+LeBron James,2,9,29,1,Running Layup Shot,0,3,9,True
+LeBron James,3,5,13,1,Running Layup Shot,1,4,17,True
+LeBron James,2,8,16,1,Running Layup Shot,1,9,8,True
+LeBron James,2,1,8,1,Running Layup Shot,1,-13,5,True
+LeBron James,3,3,9,1,Running Layup Shot,0,2,-1,True
+LeBron James,2,5,48,1,Running Layup Shot,2,13,16,True
+LeBron James,1,3,48,1,Running Layup Shot,1,12,8,True
+LeBron James,4,2,28,1,Running Layup Shot,0,5,-2,True
+LeBron James,4,9,39,1,Running Layup Shot,3,36,16,True
+LeBron James,3,1,28,1,Running Layup Shot,0,7,4,True
+LeBron James,2,2,16,0,Running Layup Shot,0,6,6,True
+LeBron James,3,1,7,1,Running Layup Shot,1,8,16,True
+LeBron James,1,10,16,1,Running Layup Shot,1,11,5,True
+LeBron James,4,8,13,0,Running Layup Shot,3,19,30,True
+LeBron James,1,8,44,1,Running Layup Shot,3,-29,8,True
+LeBron James,3,6,34,0,Running Layup Shot,1,-3,10,True
+LeBron James,3,7,6,1,Running Pull-Up Jump Shot,25,43,253,False
+LeBron James,1,9,14,1,Running Pull-Up Jump Shot,26,-60,258,False
+LeBron James,4,10,42,1,Running Reverse Layup Shot,0,0,1,True
+LeBron James,3,4,38,1,Step Back Jump shot,25,-217,126,False
+LeBron James,3,11,43,1,Step Back Jump shot,18,-183,37,True
+LeBron James,3,6,37,0,Step Back Jump shot,13,130,50,True
+LeBron James,3,9,53,0,Step Back Jump shot,24,-202,146,False
+LeBron James,1,9,21,0,Step Back Jump shot,21,-133,172,True
+LeBron James,3,0,7,0,Step Back Jump shot,28,-153,235,False
+LeBron James,2,0,3,0,Step Back Jump shot,26,140,220,False
+LeBron James,1,9,2,1,Step Back Jump shot,22,225,32,False
+LeBron James,1,3,59,1,Step Back Jump shot,11,-20,113,True
+LeBron James,4,0,16,1,Step Back Jump shot,24,123,216,False
+LeBron James,2,2,52,1,Step Back Jump shot,15,-152,-7,True
+LeBron James,2,4,49,1,Step Back Jump shot,27,-154,222,False
+LeBron James,1,7,49,0,Step Back Jump shot,20,-209,13,True
+LeBron James,4,5,57,0,Step Back Jump shot,24,-124,213,False
+LeBron James,3,0,17,0,Step Back Jump shot,23,232,8,False
+LeBron James,1,10,43,0,Step Back Jump shot,14,-136,40,True
+LeBron James,2,1,42,1,Step Back Jump shot,21,-147,162,True
+LeBron James,2,0,13,0,Step Back Jump shot,25,-184,180,False
+LeBron James,4,6,43,0,Step Back Jump shot,25,167,193,False
+LeBron James,3,2,40,0,Step Back Jump shot,25,13,254,False
+LeBron James,1,7,16,1,Step Back Jump shot,17,78,158,True
+LeBron James,4,2,4,0,Step Back Jump shot,25,209,151,False
+LeBron James,2,4,19,1,Step Back Jump shot,19,190,37,True
+LeBron James,1,10,37,1,Step Back Jump shot,20,-189,82,True
+LeBron James,1,0,0,0,Step Back Jump shot,25,47,246,False
+LeBron James,3,9,36,0,Step Back Jump shot,25,-95,234,False
+LeBron James,4,4,9,0,Step Back Jump shot,10,-102,6,True
+LeBron James,3,2,57,1,Step Back Jump shot,25,-48,248,False
+LeBron James,2,0,1,0,Step Back Jump shot,25,-111,235,False
+LeBron James,2,2,34,0,Step Back Jump shot,12,-119,41,True
+LeBron James,2,0,0,1,Step Back Jump shot,14,148,22,True
+LeBron James,4,0,55,1,Step Back Jump shot,29,-186,235,False
+LeBron James,4,1,33,0,Step Back Jump shot,15,152,2,True
+LeBron James,2,3,59,1,Step Back Jump shot,22,-186,120,True
+LeBron James,3,0,1,0,Step Back Jump shot,18,-17,188,True
+LeBron James,4,2,47,1,Step Back Jump shot,29,-133,260,False
+LeBron James,4,11,13,1,Step Back Jump shot,21,164,137,True
+LeBron James,4,0,5,1,Step Back Jump shot,22,-38,224,True
+LeBron James,1,6,29,0,Step Back Jump shot,25,-143,214,False
+LeBron James,4,1,23,1,Step Back Jump shot,26,-155,216,False
+LeBron James,1,6,59,0,Step Back Jump shot,21,202,62,True
+LeBron James,1,5,18,0,Step Back Jump shot,25,146,206,False
+LeBron James,3,9,59,0,Step Back Jump shot,15,-149,51,True
+LeBron James,1,0,4,0,Step Back Jump shot,31,-197,243,False
+LeBron James,2,0,0,0,Step Back Jump shot,20,-109,179,True
+LeBron James,3,7,29,1,Step Back Jump shot,15,150,16,True
+LeBron James,3,6,0,0,Step Back Jump shot,14,-111,98,True
+LeBron James,3,4,9,0,Step Back Jump shot,25,57,246,False
+LeBron James,4,7,16,0,Step Back Jump shot,18,84,165,True
+LeBron James,1,2,55,1,Step Back Jump shot,24,232,75,False
+LeBron James,1,4,28,0,Step Back Jump shot,14,103,106,True
+LeBron James,1,10,22,1,Step Back Jump shot,20,168,122,True
+LeBron James,4,0,39,1,Step Back Jump shot,30,-126,277,False
+LeBron James,3,0,2,1,Step Back Jump shot,17,-136,113,True
+LeBron James,4,7,8,0,Step Back Jump shot,20,-20,200,True
+LeBron James,4,7,26,0,Step Back Jump shot,29,-179,235,False
+LeBron James,2,4,36,0,Step Back Jump shot,27,159,222,False
+LeBron James,3,0,2,0,Step Back Jump shot,27,-175,215,False
+LeBron James,1,2,27,0,Step Back Jump shot,24,-230,83,False
+LeBron James,4,2,39,1,Step Back Jump shot,13,-87,103,True
+LeBron James,3,0,0,0,Step Back Jump shot,22,-30,224,True
+LeBron James,2,0,13,0,Step Back Jump shot,27,-96,260,False
+LeBron James,3,3,59,1,Step Back Jump shot,25,130,217,False
+LeBron James,1,2,50,0,Step Back Jump shot,22,-225,16,False
+LeBron James,2,10,13,1,Step Back Jump shot,16,-144,88,True
+LeBron James,4,2,1,1,Step Back Jump shot,26,-8,260,False
+LeBron James,3,9,46,1,Step Back Jump shot,24,-161,190,False
+LeBron James,2,1,41,0,Step Back Jump shot,27,-136,236,False
+LeBron James,4,4,55,1,Step Back Jump shot,22,209,85,True
+LeBron James,2,1,5,1,Step Back Jump shot,26,68,258,False
+LeBron James,4,10,37,0,Step Back Jump shot,20,-189,72,True
+LeBron James,3,9,7,0,Step Back Jump shot,27,101,260,False
+LeBron James,1,10,16,0,Step Back Jump shot,14,134,57,True
+LeBron James,4,1,40,0,Step Back Jump shot,25,103,238,False
+LeBron James,3,7,6,0,Step Back Jump shot,11,114,13,True
+LeBron James,3,11,13,0,Step Back Jump shot,22,-87,203,True
+LeBron James,3,6,46,0,Step Back Jump shot,22,-195,113,True
+LeBron James,1,0,1,1,Step Back Jump shot,25,-81,241,False
+LeBron James,5,1,57,1,Step Back Jump shot,22,-223,55,False
+LeBron James,4,8,30,1,Step Back Jump shot,23,-235,13,False
+LeBron James,4,4,28,0,Step Back Jump shot,23,232,38,False
+LeBron James,2,4,43,1,Step Back Jump shot,25,-25,251,False
+LeBron James,1,2,27,0,Tip Dunk Shot,0,0,-6,True
+LeBron James,4,6,13,0,Tip Layup Shot,0,0,-6,True
+LeBron James,1,2,59,0,Tip Layup Shot,0,0,-6,True
+LeBron James,3,1,55,1,Tip Layup Shot,0,0,-6,True
+LeBron James,1,4,8,0,Tip Layup Shot,0,0,-6,True
+LeBron James,1,6,33,1,Tip Layup Shot,0,0,-6,True
+LeBron James,1,2,24,1,Tip Layup Shot,0,0,-6,True
+LeBron James,3,4,15,0,Tip Layup Shot,0,0,-6,True
+LeBron James,1,2,2,1,Tip Layup Shot,0,0,-6,True
+LeBron James,1,5,53,0,Tip Layup Shot,0,0,-6,True
+LeBron James,4,8,34,0,Tip Layup Shot,0,0,-6,True
+LeBron James,2,2,2,1,Tip Layup Shot,0,0,-6,True
+LeBron James,3,4,7,0,Tip Layup Shot,0,4,8,True
+LeBron James,2,2,20,0,Turnaround Fadeaway Bank Jump Shot,12,-127,16,True
+LeBron James,2,4,49,0,Turnaround Fadeaway Bank Jump Shot,8,60,58,True
+LeBron James,4,7,16,0,Turnaround Fadeaway Bank Jump Shot,6,27,62,True
+LeBron James,4,3,44,0,Turnaround Fadeaway Bank Jump Shot,12,124,-8,True
+LeBron James,1,6,26,0,Turnaround Fadeaway Bank Jump Shot,17,92,143,True
+LeBron James,4,10,22,0,Turnaround Fadeaway Bank Jump Shot,12,-111,55,True
+LeBron James,1,7,31,1,Turnaround Fadeaway Bank Jump Shot,1,-15,4,True
+LeBron James,1,2,29,0,Turnaround Fadeaway Bank Jump Shot,4,37,18,True
+LeBron James,3,11,46,0,Turnaround Fadeaway shot,13,-136,21,True
+LeBron James,5,0,31,1,Turnaround Fadeaway shot,15,-127,94,True
+LeBron James,4,2,21,0,Turnaround Fadeaway shot,13,-96,94,True
+LeBron James,1,5,7,1,Turnaround Fadeaway shot,17,175,6,True
+LeBron James,1,6,33,0,Turnaround Fadeaway shot,17,-141,95,True
+LeBron James,1,5,47,0,Turnaround Fadeaway shot,13,136,-2,True
+LeBron James,1,9,31,0,Turnaround Fadeaway shot,12,-127,-12,True
+LeBron James,4,0,52,1,Turnaround Fadeaway shot,6,-45,49,True
+LeBron James,2,0,0,1,Turnaround Fadeaway shot,19,-195,1,True
+LeBron James,2,0,0,1,Turnaround Fadeaway shot,16,-101,126,True
+LeBron James,5,0,0,1,Turnaround Fadeaway shot,17,47,171,True
+LeBron James,3,11,46,0,Turnaround Fadeaway shot,12,-119,50,True
+LeBron James,1,6,45,1,Turnaround Fadeaway shot,13,-133,35,True
+LeBron James,3,11,3,0,Turnaround Fadeaway shot,13,138,12,True
+LeBron James,3,5,1,0,Turnaround Fadeaway shot,18,105,155,True
+LeBron James,3,0,45,1,Turnaround Fadeaway shot,8,-4,85,True
+LeBron James,2,6,28,0,Turnaround Fadeaway shot,16,-166,18,True
+LeBron James,3,8,28,0,Turnaround Fadeaway shot,17,174,-11,True
+LeBron James,3,11,28,1,Turnaround Fadeaway shot,14,-114,94,True
+LeBron James,2,5,50,0,Turnaround Fadeaway shot,13,59,125,True
+LeBron James,3,4,17,0,Turnaround Fadeaway shot,17,96,144,True
+LeBron James,2,0,55,0,Turnaround Fadeaway shot,14,-69,126,True
+LeBron James,3,7,46,0,Turnaround Fadeaway shot,13,-136,24,True
+LeBron James,3,11,3,1,Turnaround Fadeaway shot,15,147,39,True
+LeBron James,3,5,24,0,Turnaround Fadeaway shot,11,-116,21,True
+LeBron James,2,1,9,0,Turnaround Fadeaway shot,17,122,122,True
+LeBron James,4,1,1,1,Turnaround Fadeaway shot,14,-143,-5,True
+LeBron James,3,1,24,1,Turnaround Fadeaway shot,12,129,0,True
+LeBron James,4,7,8,0,Turnaround Fadeaway shot,13,-136,-7,True
+LeBron James,2,5,19,1,Turnaround Fadeaway shot,14,91,117,True
+LeBron James,2,2,54,0,Turnaround Fadeaway shot,16,-148,71,True
+LeBron James,4,6,34,0,Turnaround Fadeaway shot,12,123,32,True
+LeBron James,3,0,31,1,Turnaround Fadeaway shot,14,-62,132,True
+LeBron James,3,10,20,1,Turnaround Fadeaway shot,16,-165,-3,True
+LeBron James,3,5,18,1,Turnaround Fadeaway shot,13,-136,6,True
+LeBron James,1,4,55,1,Turnaround Fadeaway shot,12,127,18,True
+LeBron James,4,5,25,0,Turnaround Fadeaway shot,17,-126,115,True
+LeBron James,1,3,17,1,Turnaround Fadeaway shot,16,-162,27,True
+LeBron James,1,10,41,1,Turnaround Fadeaway shot,13,14,133,True
+LeBron James,3,3,21,0,Turnaround Fadeaway shot,17,-176,22,True
+LeBron James,3,10,19,0,Turnaround Fadeaway shot,7,70,27,True
+LeBron James,4,6,2,1,Turnaround Fadeaway shot,13,135,6,True
+LeBron James,4,11,36,1,Turnaround Hook Shot,4,40,17,True
+LeBron James,2,8,14,1,Turnaround Hook Shot,4,16,45,True
+LeBron James,1,9,11,1,Turnaround Hook Shot,1,5,11,True
+LeBron James,4,2,14,1,Turnaround Hook Shot,2,-9,25,True
+LeBron James,1,2,8,0,Turnaround Jump Shot,15,-151,-6,True
+LeBron James,2,2,39,0,Turnaround Jump Shot,6,5,63,True
+LeBron James,4,1,9,0,Turnaround Jump Shot,12,111,55,True
+LeBron James,2,0,0,1,Turnaround Jump Shot,16,167,28,True
+LeBron James,4,7,50,1,Turnaround Jump Shot,14,-130,57,True
+LeBron James,1,3,55,1,Turnaround Jump Shot,13,-95,95,True
+LeBron James,4,4,9,0,Turnaround Jump Shot,7,62,45,True
+LeBron James,1,8,18,0,Turnaround Jump Shot,5,-46,36,True
+LeBron James,3,11,43,1,Turnaround Jump Shot,13,98,96,True
+LeBron James,1,2,48,0,Turnaround Jump Shot,13,109,85,True
+LeBron James,3,9,7,1,Turnaround Jump Shot,7,72,9,True
+LeBron James,1,6,40,0,Turnaround Jump Shot,2,1,21,True
+LeBron James,1,6,17,1,Turnaround Jump Shot,14,145,19,True
+LeBron James,3,6,6,0,Turnaround Jump Shot,13,132,14,True
+LeBron James,1,10,52,1,Turnaround Jump Shot,3,-14,30,True
+LeBron James,4,1,4,0,Turnaround Jump Shot,12,124,16,True
+LeBron James,2,5,3,0,Turnaround Jump Shot,13,-32,128,True
+LeBron James,1,7,27,1,Turnaround Jump Shot,17,166,49,True
+LeBron James,3,3,48,0,Turnaround Jump Shot,13,132,-2,True
+LeBron James,1,5,45,0,Turnaround Jump Shot,7,37,67,True
+LeBron James,3,8,31,0,Turnaround Jump Shot,6,28,61,True
+LeBron James,4,1,45,0,Turnaround Jump Shot,18,-181,11,True
+LeBron James,4,8,7,1,Turnaround Jump Shot,15,106,113,True
+LeBron James,2,2,10,0,Turnaround Jump Shot,16,163,-10,True
+LeBron James,1,9,10,0,Turnaround Jump Shot,12,-120,16,True

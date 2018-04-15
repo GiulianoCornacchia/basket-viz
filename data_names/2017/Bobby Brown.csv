@@ -1,0 +1,42 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Bobby Brown,4,0,19,0,Driving Floating Jump Shot,8,34,83,True
+Bobby Brown,4,0,40,1,Driving Floating Jump Shot,14,83,121,True
+Bobby Brown,4,1,5,1,Driving Layup Shot,0,-2,5,True
+Bobby Brown,4,0,31,1,Driving Layup Shot,1,-13,7,True
+Bobby Brown,4,10,55,1,Driving Layup Shot,1,5,10,True
+Bobby Brown,4,0,25,1,Floating Jump shot,13,115,69,True
+Bobby Brown,4,4,8,0,Jump Shot,26,133,232,False
+Bobby Brown,4,7,42,0,Jump Shot,27,171,216,False
+Bobby Brown,4,5,23,0,Jump Shot,18,30,183,True
+Bobby Brown,4,0,45,0,Jump Shot,29,0,298,False
+Bobby Brown,4,2,21,0,Jump Shot,26,-125,232,False
+Bobby Brown,4,4,28,0,Jump Shot,25,231,97,False
+Bobby Brown,4,1,50,1,Jump Shot,25,-175,189,False
+Bobby Brown,4,0,28,0,Jump Shot,25,171,194,False
+Bobby Brown,2,2,30,0,Jump Shot,30,61,303,False
+Bobby Brown,4,2,44,0,Jump Shot,27,100,260,False
+Bobby Brown,4,4,27,0,Jump Shot,26,139,220,False
+Bobby Brown,4,0,1,0,Jump Shot,29,56,289,False
+Bobby Brown,4,0,25,0,Jump Shot,26,-100,248,False
+Bobby Brown,4,0,28,0,Jump Shot,27,-98,252,False
+Bobby Brown,3,4,3,0,Jump Shot,30,-5,306,False
+Bobby Brown,1,0,40,0,Jump Shot,27,-5,273,False
+Bobby Brown,2,11,46,0,Jump Shot,26,20,267,False
+Bobby Brown,1,2,6,1,Jump Shot,28,24,289,False
+Bobby Brown,4,0,35,0,Jump Shot,24,-203,140,False
+Bobby Brown,4,1,49,1,Jump Shot,25,13,257,False
+Bobby Brown,4,4,49,0,Jump Shot,27,87,266,False
+Bobby Brown,4,0,13,0,Jump Shot,26,3,260,False
+Bobby Brown,4,2,16,1,Jump Shot,25,-166,200,False
+Bobby Brown,4,1,8,1,Jump Shot,22,95,200,True
+Bobby Brown,4,0,25,0,Jump Shot,25,-223,125,False
+Bobby Brown,4,4,7,1,Jump Shot,24,27,248,False
+Bobby Brown,4,3,0,0,Jump Shot,25,-57,252,False
+Bobby Brown,3,3,15,0,Jump Shot,22,225,37,False
+Bobby Brown,4,1,40,0,Layup Shot,6,48,49,True
+Bobby Brown,4,4,43,0,Pullup Jump shot,13,15,130,True
+Bobby Brown,4,0,9,1,Pullup Jump shot,27,49,267,False
+Bobby Brown,4,1,7,0,Pullup Jump shot,26,-11,262,False
+Bobby Brown,4,0,45,0,Pullup Jump shot,20,-122,163,True
+Bobby Brown,4,2,33,0,Step Back Jump shot,25,150,200,False
+Bobby Brown,2,6,49,1,Step Back Jump shot,19,-78,183,True

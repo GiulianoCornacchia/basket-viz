@@ -1,0 +1,220 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Daniel Theis,4,4,8,0,Alley Oop Dunk Shot,2,-19,20,True
+Daniel Theis,2,8,57,1,Alley Oop Dunk Shot,1,-9,7,True
+Daniel Theis,2,7,46,1,Alley Oop Dunk Shot,2,-19,21,True
+Daniel Theis,4,0,30,1,Alley Oop Dunk Shot,0,-2,7,True
+Daniel Theis,2,9,43,1,Alley Oop Dunk Shot,0,2,-3,True
+Daniel Theis,2,10,10,1,Alley Oop Dunk Shot,0,3,-3,True
+Daniel Theis,2,8,25,1,Alley Oop Dunk Shot,2,6,20,True
+Daniel Theis,4,7,52,1,Alley Oop Dunk Shot,0,0,3,True
+Daniel Theis,3,2,32,1,Alley Oop Dunk Shot,0,-8,-1,True
+Daniel Theis,1,2,15,1,Alley Oop Dunk Shot,0,-7,-3,True
+Daniel Theis,4,3,5,1,Alley Oop Dunk Shot,1,-7,8,True
+Daniel Theis,2,8,25,1,Alley Oop Dunk Shot,1,10,15,True
+Daniel Theis,4,10,35,1,Alley Oop Dunk Shot,1,0,14,True
+Daniel Theis,4,11,27,1,Alley Oop Dunk Shot,1,1,13,True
+Daniel Theis,4,5,29,1,Alley Oop Layup shot,0,-2,8,True
+Daniel Theis,2,10,41,1,Alley Oop Layup shot,1,-12,6,True
+Daniel Theis,3,2,0,0,Alley Oop Layup shot,3,36,6,True
+Daniel Theis,2,8,28,1,Alley Oop Layup shot,2,19,13,True
+Daniel Theis,4,8,49,1,Alley Oop Layup shot,1,-7,14,True
+Daniel Theis,2,8,37,1,Cutting Dunk Shot,1,-3,16,True
+Daniel Theis,2,11,6,1,Cutting Dunk Shot,0,3,-5,True
+Daniel Theis,2,11,8,1,Cutting Dunk Shot,0,-5,5,True
+Daniel Theis,2,5,32,1,Cutting Dunk Shot,0,-2,-1,True
+Daniel Theis,4,9,36,1,Cutting Dunk Shot,1,7,13,True
+Daniel Theis,3,2,20,1,Cutting Dunk Shot,0,-3,6,True
+Daniel Theis,1,4,9,1,Cutting Dunk Shot,1,-13,11,True
+Daniel Theis,3,6,0,1,Cutting Dunk Shot,2,-9,19,True
+Daniel Theis,2,9,18,1,Cutting Dunk Shot,0,-3,5,True
+Daniel Theis,3,1,0,1,Cutting Dunk Shot,0,-3,-8,True
+Daniel Theis,2,9,33,1,Cutting Dunk Shot,0,-6,7,True
+Daniel Theis,2,9,43,1,Cutting Dunk Shot,0,-1,4,True
+Daniel Theis,2,7,35,1,Cutting Dunk Shot,2,7,19,True
+Daniel Theis,1,0,33,1,Cutting Dunk Shot,1,-2,10,True
+Daniel Theis,3,1,2,0,Cutting Layup Shot,1,-13,13,True
+Daniel Theis,1,2,31,1,Cutting Layup Shot,2,0,21,True
+Daniel Theis,3,8,50,1,Cutting Layup Shot,3,25,19,True
+Daniel Theis,4,7,16,1,Cutting Layup Shot,1,7,17,True
+Daniel Theis,2,9,10,1,Cutting Layup Shot,1,-6,11,True
+Daniel Theis,1,7,22,1,Cutting Layup Shot,2,20,1,True
+Daniel Theis,4,5,29,1,Cutting Layup Shot,1,15,11,True
+Daniel Theis,4,10,33,1,Cutting Layup Shot,1,-5,12,True
+Daniel Theis,3,0,35,1,Cutting Layup Shot,1,1,17,True
+Daniel Theis,2,10,1,1,Cutting Layup Shot,0,-8,5,True
+Daniel Theis,1,1,53,0,Driving Dunk Shot,0,2,-5,True
+Daniel Theis,1,4,47,0,Driving Dunk Shot,1,-2,18,True
+Daniel Theis,3,1,38,1,Driving Dunk Shot,1,9,13,True
+Daniel Theis,4,3,15,1,Driving Dunk Shot,1,7,13,True
+Daniel Theis,1,0,12,1,Driving Finger Roll Layup Shot,2,9,26,True
+Daniel Theis,4,8,22,1,Driving Floating Jump Shot,7,-79,0,True
+Daniel Theis,4,7,23,0,Driving Floating Jump Shot,10,57,90,True
+Daniel Theis,1,7,1,0,Driving Layup Shot,0,6,6,True
+Daniel Theis,3,9,11,0,Driving Layup Shot,3,-27,24,True
+Daniel Theis,2,10,9,0,Driving Layup Shot,3,-2,32,True
+Daniel Theis,2,9,25,0,Driving Layup Shot,1,8,16,True
+Daniel Theis,1,0,56,0,Driving Layup Shot,2,16,17,True
+Daniel Theis,2,0,39,1,Dunk Shot,2,-6,21,True
+Daniel Theis,2,9,2,1,Dunk Shot,1,-3,12,True
+Daniel Theis,2,4,0,1,Dunk Shot,2,-12,20,True
+Daniel Theis,2,7,14,0,Dunk Shot,2,21,18,True
+Daniel Theis,2,11,20,0,Dunk Shot,2,-14,25,True
+Daniel Theis,2,8,12,0,Dunk Shot,2,-24,4,True
+Daniel Theis,2,3,27,1,Dunk Shot,0,-2,0,True
+Daniel Theis,4,2,43,1,Dunk Shot,0,7,6,True
+Daniel Theis,3,8,41,1,Dunk Shot,1,0,16,True
+Daniel Theis,2,5,48,1,Dunk Shot,1,-11,-6,True
+Daniel Theis,2,10,29,1,Dunk Shot,0,-6,1,True
+Daniel Theis,4,6,18,1,Fadeaway Jump Shot,15,126,87,True
+Daniel Theis,2,7,52,0,Fadeaway Jump Shot,11,-106,47,True
+Daniel Theis,2,8,50,1,Finger Roll Layup Shot,1,0,18,True
+Daniel Theis,1,11,21,0,Floating Jump shot,6,-46,47,True
+Daniel Theis,3,6,58,0,Floating Jump shot,12,38,121,True
+Daniel Theis,2,10,42,0,Floating Jump shot,7,-41,60,True
+Daniel Theis,3,0,57,1,Floating Jump shot,6,-32,57,True
+Daniel Theis,2,10,9,0,Hook Shot,7,-30,69,True
+Daniel Theis,2,11,35,0,Hook Shot,7,-46,54,True
+Daniel Theis,4,7,37,0,Hook Shot,4,-3,41,True
+Daniel Theis,3,1,38,0,Jump Bank Shot,11,-101,48,True
+Daniel Theis,1,3,49,0,Jump Shot,24,163,188,False
+Daniel Theis,4,1,33,0,Jump Shot,25,-96,236,False
+Daniel Theis,4,10,29,0,Jump Shot,26,116,240,False
+Daniel Theis,4,11,44,1,Jump Shot,10,-96,49,True
+Daniel Theis,3,10,5,1,Jump Shot,19,-144,132,True
+Daniel Theis,2,2,14,1,Jump Shot,27,-170,220,False
+Daniel Theis,2,0,6,1,Jump Shot,26,25,264,False
+Daniel Theis,3,0,27,0,Jump Shot,26,16,264,False
+Daniel Theis,2,10,24,0,Jump Shot,25,-17,251,False
+Daniel Theis,4,4,24,0,Jump Shot,18,54,178,True
+Daniel Theis,2,7,5,1,Jump Shot,24,210,131,False
+Daniel Theis,4,8,15,0,Jump Shot,20,-60,195,True
+Daniel Theis,4,4,25,1,Jump Shot,15,150,25,True
+Daniel Theis,2,9,4,0,Jump Shot,20,-15,201,True
+Daniel Theis,2,9,18,0,Jump Shot,25,51,248,False
+Daniel Theis,4,0,48,0,Jump Shot,25,-123,228,False
+Daniel Theis,4,7,33,0,Jump Shot,13,128,27,True
+Daniel Theis,4,10,19,1,Jump Shot,20,-116,171,True
+Daniel Theis,4,5,5,0,Jump Shot,27,38,273,False
+Daniel Theis,2,4,57,0,Jump Shot,25,109,227,False
+Daniel Theis,4,9,43,1,Jump Shot,22,224,16,False
+Daniel Theis,2,6,24,1,Jump Shot,24,-207,139,False
+Daniel Theis,4,10,47,0,Jump Shot,25,170,195,False
+Daniel Theis,4,6,59,0,Jump Shot,24,-215,113,False
+Daniel Theis,1,3,38,1,Jump Shot,25,82,242,False
+Daniel Theis,4,6,59,1,Jump Shot,22,-229,7,False
+Daniel Theis,2,10,3,1,Jump Shot,27,-111,250,False
+Daniel Theis,3,5,55,0,Jump Shot,26,144,228,False
+Daniel Theis,4,9,8,1,Jump Shot,25,74,247,False
+Daniel Theis,1,0,37,0,Jump Shot,24,141,204,False
+Daniel Theis,3,2,35,0,Jump Shot,16,-9,169,True
+Daniel Theis,1,0,33,1,Jump Shot,21,-84,194,True
+Daniel Theis,2,10,25,0,Jump Shot,22,14,227,True
+Daniel Theis,4,3,54,1,Jump Shot,26,9,267,False
+Daniel Theis,3,4,38,1,Jump Shot,23,231,27,False
+Daniel Theis,4,8,8,0,Jump Shot,23,225,55,False
+Daniel Theis,4,8,16,0,Jump Shot,24,237,72,False
+Daniel Theis,2,8,36,0,Jump Shot,24,-11,248,False
+Daniel Theis,4,4,47,0,Jump Shot,26,-143,219,False
+Daniel Theis,2,8,19,1,Jump Shot,23,-230,29,False
+Daniel Theis,2,6,8,1,Jump Shot,12,17,124,True
+Daniel Theis,2,6,36,0,Jump Shot,20,115,168,True
+Daniel Theis,1,2,33,1,Jump Shot,26,-159,210,False
+Daniel Theis,4,8,3,0,Jump Shot,27,110,247,False
+Daniel Theis,4,9,45,1,Jump Shot,15,9,153,True
+Daniel Theis,2,7,33,0,Jump Shot,25,-137,211,False
+Daniel Theis,4,7,12,1,Jump Shot,23,-232,12,False
+Daniel Theis,4,5,25,0,Jump Shot,16,24,159,True
+Daniel Theis,2,9,36,0,Jump Shot,23,237,24,False
+Daniel Theis,2,9,17,0,Jump Shot,25,-53,251,False
+Daniel Theis,2,10,0,0,Jump Shot,12,-14,120,True
+Daniel Theis,4,2,39,0,Jump Shot,25,195,160,False
+Daniel Theis,2,6,54,0,Jump Shot,22,225,29,False
+Daniel Theis,2,9,53,1,Jump Shot,12,-2,123,True
+Daniel Theis,2,8,19,0,Jump Shot,22,-228,-15,False
+Daniel Theis,2,8,14,0,Jump Shot,23,-229,-24,False
+Daniel Theis,2,7,58,0,Jump Shot,25,119,227,False
+Daniel Theis,3,9,52,0,Jump Shot,25,-46,253,False
+Daniel Theis,3,11,29,0,Jump Shot,15,148,25,True
+Daniel Theis,2,7,38,1,Jump Shot,14,66,132,True
+Daniel Theis,4,8,52,0,Jump Shot,25,112,228,False
+Daniel Theis,4,11,4,1,Jump Shot,16,8,163,True
+Daniel Theis,4,6,50,0,Jump Shot,26,-14,263,False
+Daniel Theis,2,7,1,0,Jump Shot,15,-6,158,True
+Daniel Theis,1,3,6,0,Jump Shot,24,-216,120,False
+Daniel Theis,3,0,35,0,Jump Shot,22,223,8,False
+Daniel Theis,1,4,56,1,Jump Shot,25,-142,206,False
+Daniel Theis,2,5,24,0,Jump Shot,24,106,226,False
+Daniel Theis,4,8,48,1,Jump Shot,23,-230,9,False
+Daniel Theis,4,10,20,0,Jump Shot,19,5,192,True
+Daniel Theis,1,4,15,0,Jump Shot,25,167,199,False
+Daniel Theis,4,2,33,1,Jump Shot,15,16,152,True
+Daniel Theis,2,10,22,0,Jump Shot,24,-160,189,False
+Daniel Theis,4,7,40,0,Jump Shot,15,132,77,True
+Daniel Theis,3,2,32,0,Jump Shot,25,176,189,False
+Daniel Theis,2,10,54,1,Jump Shot,19,2,199,True
+Daniel Theis,4,11,20,0,Jump Shot,18,77,167,True
+Daniel Theis,3,4,40,1,Jump Shot,23,-228,38,False
+Daniel Theis,2,5,52,0,Jump Shot,25,-167,194,False
+Daniel Theis,4,6,7,0,Layup Shot,7,-71,-1,True
+Daniel Theis,4,11,23,0,Layup Shot,1,13,-1,True
+Daniel Theis,3,5,35,1,Layup Shot,0,0,4,True
+Daniel Theis,2,0,42,0,Layup Shot,3,26,25,True
+Daniel Theis,1,0,44,0,Layup Shot,1,19,6,True
+Daniel Theis,2,0,50,1,Layup Shot,1,11,7,True
+Daniel Theis,2,0,45,1,Layup Shot,1,4,10,True
+Daniel Theis,2,0,11,0,Layup Shot,1,11,6,True
+Daniel Theis,1,4,7,0,Layup Shot,2,-14,15,True
+Daniel Theis,2,11,24,1,Layup Shot,0,-9,4,True
+Daniel Theis,2,0,46,0,Layup Shot,3,11,34,True
+Daniel Theis,2,9,13,0,Layup Shot,3,2,36,True
+Daniel Theis,2,9,53,0,Layup Shot,1,-2,10,True
+Daniel Theis,3,5,45,1,Layup Shot,0,-3,4,True
+Daniel Theis,2,11,17,1,Layup Shot,2,-5,23,True
+Daniel Theis,2,8,36,0,Layup Shot,3,-30,12,True
+Daniel Theis,1,2,12,0,Layup Shot,1,-12,-4,True
+Daniel Theis,2,6,21,0,Layup Shot,3,0,32,True
+Daniel Theis,1,1,19,1,Pullup Jump shot,8,-41,77,True
+Daniel Theis,2,3,57,0,Pullup Jump shot,26,-158,207,False
+Daniel Theis,4,7,53,0,Pullup Jump shot,15,130,82,True
+Daniel Theis,1,1,58,0,Pullup Jump shot,7,3,72,True
+Daniel Theis,1,0,27,1,Pullup Jump shot,15,26,151,True
+Daniel Theis,1,5,10,1,Pullup Jump shot,11,-87,73,True
+Daniel Theis,2,10,54,1,Pullup Jump shot,13,107,79,True
+Daniel Theis,4,7,49,0,Pullup Jump shot,13,117,57,True
+Daniel Theis,4,8,59,1,Putback Dunk Shot,0,0,-6,True
+Daniel Theis,2,9,49,1,Putback Layup Shot,0,3,1,True
+Daniel Theis,2,10,12,1,Putback Layup Shot,1,8,12,True
+Daniel Theis,1,1,46,0,Putback Layup Shot,1,5,10,True
+Daniel Theis,2,10,39,1,Putback Layup Shot,2,26,11,True
+Daniel Theis,2,2,1,1,Putback Layup Shot,0,0,-6,True
+Daniel Theis,1,3,14,0,Putback Layup Shot,0,0,-6,True
+Daniel Theis,3,1,34,0,Putback Layup Shot,0,0,-6,True
+Daniel Theis,2,1,12,1,Putback Layup Shot,1,13,6,True
+Daniel Theis,2,10,43,1,Reverse Layup Shot,0,0,-6,True
+Daniel Theis,2,10,56,1,Running Finger Roll Layup Shot,2,-20,10,True
+Daniel Theis,4,2,29,1,Step Back Jump shot,10,104,34,True
+Daniel Theis,2,11,25,1,Step Back Jump shot,10,-102,35,True
+Daniel Theis,2,7,32,1,Step Back Jump shot,23,-232,15,False
+Daniel Theis,1,0,44,1,Tip Dunk Shot,0,0,-6,True
+Daniel Theis,4,6,50,1,Tip Dunk Shot,0,0,-6,True
+Daniel Theis,3,5,0,0,Tip Layup Shot,0,0,-6,True
+Daniel Theis,1,0,40,0,Tip Layup Shot,2,-5,28,True
+Daniel Theis,1,2,46,1,Tip Layup Shot,0,0,-6,True
+Daniel Theis,2,4,44,0,Tip Layup Shot,1,-14,4,True
+Daniel Theis,1,2,41,0,Tip Layup Shot,0,0,-6,True
+Daniel Theis,3,1,0,1,Tip Layup Shot,0,0,-6,True
+Daniel Theis,4,7,28,1,Tip Layup Shot,0,0,-6,True
+Daniel Theis,2,9,41,0,Tip Layup Shot,0,0,-6,True
+Daniel Theis,2,9,39,0,Tip Layup Shot,0,-1,-5,True
+Daniel Theis,1,10,50,1,Tip Layup Shot,0,0,-6,True
+Daniel Theis,1,1,1,0,Tip Layup Shot,0,0,-6,True
+Daniel Theis,2,6,12,0,Tip Layup Shot,0,0,-6,True
+Daniel Theis,4,8,51,1,Tip Layup Shot,2,12,17,True
+Daniel Theis,2,9,30,1,Tip Layup Shot,0,0,-6,True
+Daniel Theis,4,8,55,0,Tip Layup Shot,0,0,-6,True
+Daniel Theis,4,9,35,1,Tip Layup Shot,0,0,-6,True
+Daniel Theis,2,6,41,1,Tip Layup Shot,0,-7,0,True
+Daniel Theis,2,8,12,1,Tip Layup Shot,0,0,-6,True
+Daniel Theis,4,6,46,1,Turnaround Hook Shot,3,-5,30,True
+Daniel Theis,1,1,9,1,Turnaround Jump Shot,7,-67,22,True
+Daniel Theis,1,0,15,0,Turnaround Jump Shot,7,-20,69,True

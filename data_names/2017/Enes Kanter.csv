@@ -1,0 +1,666 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Enes Kanter,3,0,12,1,Cutting Dunk Shot,1,5,11,True
+Enes Kanter,3,7,35,1,Cutting Dunk Shot,1,1,14,True
+Enes Kanter,1,9,15,1,Cutting Dunk Shot,1,-15,9,True
+Enes Kanter,1,3,27,1,Cutting Dunk Shot,1,-3,18,True
+Enes Kanter,1,10,37,1,Cutting Finger Roll Layup Shot,1,6,8,True
+Enes Kanter,1,9,19,1,Cutting Layup Shot,0,-3,9,True
+Enes Kanter,2,1,59,1,Cutting Layup Shot,0,2,8,True
+Enes Kanter,2,2,18,1,Cutting Layup Shot,1,-2,17,True
+Enes Kanter,1,8,22,0,Cutting Layup Shot,7,65,38,True
+Enes Kanter,4,8,25,1,Cutting Layup Shot,0,-5,8,True
+Enes Kanter,1,10,17,1,Cutting Layup Shot,2,13,22,True
+Enes Kanter,3,11,39,1,Cutting Layup Shot,2,25,10,True
+Enes Kanter,1,5,33,0,Cutting Layup Shot,0,8,5,True
+Enes Kanter,3,9,27,0,Cutting Layup Shot,2,0,25,True
+Enes Kanter,1,9,39,1,Cutting Layup Shot,2,0,28,True
+Enes Kanter,1,6,23,0,Cutting Layup Shot,3,-30,8,True
+Enes Kanter,1,8,44,1,Cutting Layup Shot,0,-2,-3,True
+Enes Kanter,1,11,20,1,Cutting Layup Shot,0,5,8,True
+Enes Kanter,2,4,1,0,Cutting Layup Shot,2,-14,16,True
+Enes Kanter,1,9,25,1,Cutting Layup Shot,0,-6,5,True
+Enes Kanter,1,7,44,1,Cutting Layup Shot,1,-15,11,True
+Enes Kanter,2,1,7,0,Cutting Layup Shot,1,12,-1,True
+Enes Kanter,1,5,28,1,Cutting Layup Shot,1,-18,6,True
+Enes Kanter,1,10,29,1,Cutting Layup Shot,1,-18,5,True
+Enes Kanter,1,6,43,1,Cutting Layup Shot,0,-9,-1,True
+Enes Kanter,2,9,12,1,Driving Dunk Shot,0,5,-1,True
+Enes Kanter,3,11,14,1,Driving Dunk Shot,1,3,19,True
+Enes Kanter,4,5,8,0,Driving Dunk Shot,2,6,20,True
+Enes Kanter,1,2,2,1,Driving Dunk Shot,1,5,14,True
+Enes Kanter,1,8,20,1,Driving Finger Roll Layup Shot,1,-9,11,True
+Enes Kanter,3,9,23,1,Driving Finger Roll Layup Shot,0,-7,0,True
+Enes Kanter,1,8,50,1,Driving Finger Roll Layup Shot,1,3,12,True
+Enes Kanter,1,7,13,1,Driving Floating Bank Jump Shot,6,8,62,True
+Enes Kanter,3,8,35,1,Driving Hook Shot,5,24,49,True
+Enes Kanter,1,11,40,0,Driving Hook Shot,8,3,85,True
+Enes Kanter,1,6,21,0,Driving Hook Shot,4,32,33,True
+Enes Kanter,1,1,14,1,Driving Hook Shot,5,0,52,True
+Enes Kanter,3,5,50,1,Driving Hook Shot,5,22,52,True
+Enes Kanter,1,6,12,0,Driving Hook Shot,2,16,18,True
+Enes Kanter,2,3,14,0,Driving Hook Shot,5,34,45,True
+Enes Kanter,2,0,49,1,Driving Hook Shot,7,9,74,True
+Enes Kanter,1,6,4,1,Driving Hook Shot,11,22,110,True
+Enes Kanter,2,4,8,1,Driving Hook Shot,7,-21,71,True
+Enes Kanter,1,7,35,1,Driving Hook Shot,5,25,47,True
+Enes Kanter,2,2,54,1,Driving Hook Shot,5,25,45,True
+Enes Kanter,1,7,19,0,Driving Hook Shot,5,1,52,True
+Enes Kanter,2,1,49,0,Driving Layup Shot,2,13,26,True
+Enes Kanter,1,8,58,0,Driving Layup Shot,3,-11,29,True
+Enes Kanter,3,2,35,1,Driving Layup Shot,2,-2,24,True
+Enes Kanter,3,8,37,0,Driving Layup Shot,4,-11,42,True
+Enes Kanter,4,5,42,1,Driving Layup Shot,2,13,21,True
+Enes Kanter,3,9,45,0,Driving Layup Shot,2,4,20,True
+Enes Kanter,3,7,53,0,Driving Layup Shot,2,20,6,True
+Enes Kanter,4,10,52,1,Driving Layup Shot,1,2,15,True
+Enes Kanter,3,8,0,1,Driving Layup Shot,1,18,5,True
+Enes Kanter,3,4,30,1,Driving Layup Shot,1,11,5,True
+Enes Kanter,2,0,3,0,Driving Layup Shot,1,-8,12,True
+Enes Kanter,2,7,54,1,Driving Layup Shot,1,-4,19,True
+Enes Kanter,3,7,27,0,Driving Layup Shot,3,4,37,True
+Enes Kanter,3,9,52,1,Driving Layup Shot,1,14,10,True
+Enes Kanter,1,7,41,1,Driving Layup Shot,1,6,11,True
+Enes Kanter,4,3,49,0,Driving Layup Shot,2,-24,-1,True
+Enes Kanter,1,10,1,1,Driving Layup Shot,1,6,15,True
+Enes Kanter,3,4,57,0,Driving Layup Shot,8,-81,8,True
+Enes Kanter,2,0,50,1,Driving Layup Shot,1,-14,1,True
+Enes Kanter,2,6,13,0,Driving Layup Shot,2,14,20,True
+Enes Kanter,1,11,18,0,Driving Layup Shot,1,3,10,True
+Enes Kanter,2,6,59,0,Driving Layup Shot,2,0,28,True
+Enes Kanter,3,6,41,1,Driving Layup Shot,0,-5,8,True
+Enes Kanter,3,11,4,1,Driving Layup Shot,1,-3,11,True
+Enes Kanter,1,4,17,0,Driving Layup Shot,2,-16,21,True
+Enes Kanter,2,5,54,0,Driving Reverse Layup Shot,2,-27,3,True
+Enes Kanter,1,5,39,1,Driving Reverse Layup Shot,1,-8,6,True
+Enes Kanter,1,3,24,1,Driving Reverse Layup Shot,1,17,5,True
+Enes Kanter,3,11,8,0,Driving Reverse Layup Shot,0,-3,6,True
+Enes Kanter,1,2,23,1,Driving Reverse Layup Shot,0,-5,5,True
+Enes Kanter,1,10,8,1,Dunk Shot,0,0,4,True
+Enes Kanter,3,9,34,1,Dunk Shot,2,-7,20,True
+Enes Kanter,3,10,27,0,Dunk Shot,1,14,9,True
+Enes Kanter,3,5,4,1,Dunk Shot,0,-4,5,True
+Enes Kanter,1,11,21,1,Dunk Shot,1,-12,0,True
+Enes Kanter,1,8,52,1,Dunk Shot,1,-5,11,True
+Enes Kanter,2,6,13,1,Dunk Shot,0,-2,5,True
+Enes Kanter,2,0,57,1,Dunk Shot,1,3,10,True
+Enes Kanter,4,8,42,1,Dunk Shot,1,-11,1,True
+Enes Kanter,3,6,31,1,Dunk Shot,1,-4,14,True
+Enes Kanter,2,2,54,1,Dunk Shot,0,-5,8,True
+Enes Kanter,3,10,36,1,Dunk Shot,0,-2,8,True
+Enes Kanter,1,8,33,1,Dunk Shot,0,3,5,True
+Enes Kanter,4,4,26,1,Dunk Shot,0,-6,6,True
+Enes Kanter,1,10,27,1,Dunk Shot,1,1,15,True
+Enes Kanter,2,8,48,1,Dunk Shot,2,9,18,True
+Enes Kanter,3,11,34,1,Dunk Shot,1,-11,11,True
+Enes Kanter,2,4,12,1,Dunk Shot,1,-3,15,True
+Enes Kanter,4,3,4,1,Dunk Shot,0,5,-6,True
+Enes Kanter,1,8,1,0,Dunk Shot,1,-2,14,True
+Enes Kanter,4,3,14,1,Dunk Shot,0,-1,2,True
+Enes Kanter,3,6,27,1,Dunk Shot,0,2,1,True
+Enes Kanter,1,10,29,0,Fadeaway Jump Shot,15,6,153,True
+Enes Kanter,3,1,30,0,Fadeaway Jump Shot,5,33,46,True
+Enes Kanter,1,6,58,0,Fadeaway Jump Shot,8,-8,81,True
+Enes Kanter,2,1,21,0,Fadeaway Jump Shot,6,7,66,True
+Enes Kanter,2,3,14,1,Fadeaway Jump Shot,5,7,50,True
+Enes Kanter,1,4,42,1,Fadeaway Jump Shot,6,-41,54,True
+Enes Kanter,4,6,42,0,Fadeaway Jump Shot,5,34,45,True
+Enes Kanter,1,5,18,0,Fadeaway Jump Shot,9,-31,92,True
+Enes Kanter,1,10,56,0,Fadeaway Jump Shot,7,-78,1,True
+Enes Kanter,4,4,43,1,Finger Roll Layup Shot,1,2,18,True
+Enes Kanter,1,11,41,0,Finger Roll Layup Shot,4,40,17,True
+Enes Kanter,3,3,19,0,Finger Roll Layup Shot,3,-25,19,True
+Enes Kanter,3,7,31,1,Floating Jump shot,2,-9,28,True
+Enes Kanter,4,3,23,0,Floating Jump shot,9,12,93,True
+Enes Kanter,3,11,7,0,Floating Jump shot,14,-13,142,True
+Enes Kanter,3,10,58,0,Floating Jump shot,5,0,55,True
+Enes Kanter,4,6,0,1,Floating Jump shot,9,-2,95,True
+Enes Kanter,3,11,20,1,Floating Jump shot,10,25,100,True
+Enes Kanter,2,3,5,0,Hook Shot,1,1,17,True
+Enes Kanter,2,5,10,0,Hook Shot,5,1,50,True
+Enes Kanter,1,5,54,1,Hook Shot,6,-2,66,True
+Enes Kanter,1,11,1,1,Hook Shot,5,3,50,True
+Enes Kanter,3,5,35,1,Hook Shot,7,9,78,True
+Enes Kanter,3,7,26,1,Hook Shot,5,-4,59,True
+Enes Kanter,3,7,25,1,Hook Shot,0,-1,8,True
+Enes Kanter,1,11,24,0,Hook Shot,6,-15,66,True
+Enes Kanter,3,5,55,0,Hook Shot,7,-76,15,True
+Enes Kanter,2,5,47,1,Hook Shot,1,5,10,True
+Enes Kanter,3,9,55,1,Hook Shot,6,-6,68,True
+Enes Kanter,3,2,48,1,Hook Shot,7,3,73,True
+Enes Kanter,1,2,52,0,Hook Shot,5,-12,57,True
+Enes Kanter,3,5,10,0,Hook Shot,4,-16,46,True
+Enes Kanter,4,1,53,1,Hook Shot,5,-6,53,True
+Enes Kanter,3,9,12,1,Hook Shot,8,-78,24,True
+Enes Kanter,3,6,51,0,Hook Shot,12,-49,110,True
+Enes Kanter,1,10,24,1,Hook Shot,5,-9,58,True
+Enes Kanter,3,10,17,0,Hook Shot,0,4,7,True
+Enes Kanter,1,11,23,0,Hook Shot,7,-13,73,True
+Enes Kanter,3,9,21,0,Hook Shot,6,-55,34,True
+Enes Kanter,2,4,44,1,Hook Shot,6,-26,64,True
+Enes Kanter,3,4,26,0,Hook Shot,13,-132,6,True
+Enes Kanter,1,4,10,1,Hook Shot,4,-3,49,True
+Enes Kanter,2,0,29,0,Hook Shot,7,-43,64,True
+Enes Kanter,1,5,0,1,Hook Shot,11,-13,110,True
+Enes Kanter,1,3,49,1,Hook Shot,5,-32,48,True
+Enes Kanter,3,11,39,0,Hook Shot,5,-6,51,True
+Enes Kanter,1,0,54,1,Hook Shot,2,-18,22,True
+Enes Kanter,2,4,15,0,Hook Shot,6,-6,67,True
+Enes Kanter,1,6,0,1,Hook Shot,7,35,67,True
+Enes Kanter,3,4,32,0,Hook Shot,8,-22,81,True
+Enes Kanter,3,10,2,1,Hook Shot,5,-8,57,True
+Enes Kanter,1,3,11,1,Hook Shot,1,1,14,True
+Enes Kanter,1,9,0,0,Hook Shot,4,-32,36,True
+Enes Kanter,2,8,31,0,Hook Shot,9,-16,98,True
+Enes Kanter,2,5,21,0,Hook Shot,4,5,41,True
+Enes Kanter,1,10,11,1,Hook Shot,4,-5,43,True
+Enes Kanter,3,4,25,1,Hook Shot,3,-9,38,True
+Enes Kanter,1,7,0,1,Hook Shot,1,8,14,True
+Enes Kanter,1,9,20,0,Hook Shot,4,13,48,True
+Enes Kanter,3,10,25,1,Hook Shot,1,-10,16,True
+Enes Kanter,4,2,10,1,Hook Shot,2,-2,25,True
+Enes Kanter,1,7,46,1,Hook Shot,10,-18,105,True
+Enes Kanter,3,8,42,1,Hook Shot,6,-64,-15,True
+Enes Kanter,3,6,55,0,Hook Shot,3,1,32,True
+Enes Kanter,3,6,21,1,Hook Shot,6,-46,43,True
+Enes Kanter,3,11,31,0,Hook Shot,2,-21,14,True
+Enes Kanter,3,3,3,0,Hook Shot,9,11,90,True
+Enes Kanter,1,5,39,1,Hook Shot,6,-6,63,True
+Enes Kanter,4,3,50,1,Hook Shot,6,-22,62,True
+Enes Kanter,1,1,59,1,Hook Shot,2,-2,25,True
+Enes Kanter,3,7,56,1,Hook Shot,8,-52,70,True
+Enes Kanter,1,5,24,1,Hook Shot,3,0,36,True
+Enes Kanter,3,4,33,0,Hook Shot,3,-28,13,True
+Enes Kanter,2,0,12,0,Hook Shot,1,-6,17,True
+Enes Kanter,2,3,55,1,Hook Shot,7,-4,78,True
+Enes Kanter,3,5,36,1,Hook Shot,5,-12,50,True
+Enes Kanter,2,4,12,1,Hook Shot,6,-11,68,True
+Enes Kanter,3,9,22,0,Hook Shot,8,-65,58,True
+Enes Kanter,2,3,25,0,Hook Shot,7,7,71,True
+Enes Kanter,2,4,54,1,Hook Shot,10,-74,69,True
+Enes Kanter,2,0,26,1,Hook Shot,2,2,25,True
+Enes Kanter,1,7,17,1,Hook Shot,0,3,5,True
+Enes Kanter,2,1,34,0,Hook Shot,4,-7,47,True
+Enes Kanter,2,2,13,0,Hook Shot,6,29,55,True
+Enes Kanter,2,5,45,0,Hook Shot,8,-54,60,True
+Enes Kanter,3,9,25,1,Hook Shot,3,-2,38,True
+Enes Kanter,2,0,52,1,Hook Shot,4,-17,38,True
+Enes Kanter,1,5,25,0,Hook Shot,7,28,74,True
+Enes Kanter,3,9,36,1,Hook Shot,1,13,13,True
+Enes Kanter,1,10,25,0,Hook Shot,5,41,40,True
+Enes Kanter,2,0,37,1,Hook Shot,5,-12,58,True
+Enes Kanter,1,9,16,1,Hook Shot,5,-4,57,True
+Enes Kanter,4,3,50,1,Hook Shot,8,11,83,True
+Enes Kanter,1,10,6,1,Hook Shot,8,-3,85,True
+Enes Kanter,2,2,51,0,Hook Shot,5,-30,50,True
+Enes Kanter,3,2,59,1,Hook Shot,5,-12,55,True
+Enes Kanter,1,8,44,1,Hook Shot,5,44,35,True
+Enes Kanter,1,8,49,0,Jump Bank Shot,5,-52,22,True
+Enes Kanter,4,4,31,1,Jump Shot,17,171,48,True
+Enes Kanter,3,9,52,1,Jump Shot,18,-5,189,True
+Enes Kanter,1,7,10,0,Jump Shot,19,123,152,True
+Enes Kanter,1,10,45,1,Jump Shot,16,48,154,True
+Enes Kanter,1,5,42,1,Jump Shot,19,107,160,True
+Enes Kanter,3,10,37,0,Jump Shot,13,-23,135,True
+Enes Kanter,3,10,53,1,Jump Shot,13,104,92,True
+Enes Kanter,1,8,41,0,Jump Shot,16,-143,83,True
+Enes Kanter,4,7,59,1,Jump Shot,14,63,130,True
+Enes Kanter,2,3,4,0,Jump Shot,17,79,151,True
+Enes Kanter,1,6,28,0,Jump Shot,17,-120,127,True
+Enes Kanter,3,3,23,1,Jump Shot,13,-33,126,True
+Enes Kanter,3,3,26,0,Jump Shot,17,-40,173,True
+Enes Kanter,1,0,55,0,Jump Shot,11,-106,33,True
+Enes Kanter,2,1,48,0,Jump Shot,13,-120,60,True
+Enes Kanter,3,5,9,1,Jump Shot,17,18,178,True
+Enes Kanter,2,5,26,1,Jump Shot,9,-90,17,True
+Enes Kanter,3,4,15,1,Jump Shot,17,142,98,True
+Enes Kanter,1,8,10,0,Jump Shot,10,-103,20,True
+Enes Kanter,2,5,24,0,Jump Shot,18,-119,141,True
+Enes Kanter,3,5,11,0,Jump Shot,10,43,99,True
+Enes Kanter,3,2,15,0,Jump Shot,3,22,27,True
+Enes Kanter,2,3,16,1,Jump Shot,14,142,8,True
+Enes Kanter,2,4,53,0,Jump Shot,11,-33,109,True
+Enes Kanter,1,2,47,1,Jump Shot,10,105,25,True
+Enes Kanter,3,7,47,1,Jump Shot,16,153,59,True
+Enes Kanter,2,4,22,0,Jump Shot,24,20,248,False
+Enes Kanter,3,10,11,0,Jump Shot,2,-3,28,True
+Enes Kanter,1,5,9,0,Jump Shot,22,160,155,True
+Enes Kanter,3,10,34,0,Jump Shot,8,42,79,True
+Enes Kanter,2,3,41,1,Jump Shot,8,-7,89,True
+Enes Kanter,1,8,48,1,Jump Shot,13,-19,130,True
+Enes Kanter,4,8,47,0,Jump Shot,18,181,45,True
+Enes Kanter,3,9,17,1,Jump Shot,9,-93,23,True
+Enes Kanter,1,10,40,0,Jump Shot,19,-130,141,True
+Enes Kanter,4,4,26,0,Jump Shot,12,51,113,True
+Enes Kanter,4,11,25,0,Jump Shot,18,123,135,True
+Enes Kanter,1,7,12,1,Jump Shot,16,49,162,True
+Enes Kanter,3,5,14,0,Jump Shot,12,128,-8,True
+Enes Kanter,3,9,57,0,Jump Shot,18,57,180,True
+Enes Kanter,2,0,1,0,Jump Shot,21,163,146,True
+Enes Kanter,3,3,57,1,Jump Shot,16,-78,145,True
+Enes Kanter,2,11,9,1,Jump Shot,8,-1,85,True
+Enes Kanter,3,10,1,0,Jump Shot,17,-131,117,True
+Enes Kanter,3,5,48,0,Jump Shot,13,-9,136,True
+Enes Kanter,2,2,49,1,Jump Shot,10,-49,95,True
+Enes Kanter,1,1,33,0,Jump Shot,13,56,121,True
+Enes Kanter,4,5,30,0,Jump Shot,18,138,117,True
+Enes Kanter,3,10,55,0,Jump Shot,15,75,138,True
+Enes Kanter,3,5,31,0,Jump Shot,6,0,64,True
+Enes Kanter,1,6,35,0,Jump Shot,9,27,92,True
+Enes Kanter,3,11,21,1,Jump Shot,4,-8,48,True
+Enes Kanter,1,11,5,1,Jump Shot,7,36,68,True
+Enes Kanter,4,11,28,0,Jump Shot,16,164,1,True
+Enes Kanter,4,1,29,0,Jump Shot,14,19,144,True
+Enes Kanter,4,8,42,1,Jump Shot,11,40,110,True
+Enes Kanter,4,5,49,0,Jump Shot,18,20,184,True
+Enes Kanter,1,7,19,0,Jump Shot,13,-132,43,True
+Enes Kanter,1,6,2,0,Jump Shot,18,114,142,True
+Enes Kanter,1,3,27,1,Jump Shot,6,-40,57,True
+Enes Kanter,1,4,11,0,Jump Shot,9,30,85,True
+Enes Kanter,1,6,56,1,Jump Shot,15,131,89,True
+Enes Kanter,1,4,52,1,Jump Shot,7,-78,6,True
+Enes Kanter,1,1,44,1,Jump Shot,12,-8,122,True
+Enes Kanter,3,8,1,0,Jump Shot,16,-67,152,True
+Enes Kanter,1,4,37,1,Jump Shot,19,-179,89,True
+Enes Kanter,1,2,57,0,Jump Shot,9,-9,96,True
+Enes Kanter,1,11,46,0,Jump Shot,18,44,179,True
+Enes Kanter,3,9,4,0,Jump Shot,10,71,77,True
+Enes Kanter,3,8,32,1,Jump Shot,12,-118,40,True
+Enes Kanter,1,9,8,0,Jump Shot,5,-5,52,True
+Enes Kanter,3,3,3,1,Jump Shot,16,-158,37,True
+Enes Kanter,2,4,0,0,Jump Shot,15,-158,17,True
+Enes Kanter,3,11,41,0,Jump Shot,6,-47,38,True
+Enes Kanter,1,5,20,0,Jump Shot,8,7,80,True
+Enes Kanter,3,9,27,0,Jump Shot,6,-68,1,True
+Enes Kanter,2,7,52,0,Jump Shot,15,18,156,True
+Enes Kanter,1,8,25,0,Jump Shot,5,-30,44,True
+Enes Kanter,3,6,52,1,Jump Shot,11,-107,41,True
+Enes Kanter,4,0,6,0,Jump Shot,26,16,262,False
+Enes Kanter,3,5,40,1,Jump Shot,18,-128,127,True
+Enes Kanter,1,4,55,0,Jump Shot,3,-11,31,True
+Enes Kanter,3,7,54,1,Jump Shot,11,44,101,True
+Enes Kanter,2,0,4,0,Jump Shot,4,-13,43,True
+Enes Kanter,3,7,50,0,Jump Shot,11,116,3,True
+Enes Kanter,1,5,14,1,Jump Shot,18,-134,134,True
+Enes Kanter,2,6,35,1,Jump Shot,5,9,50,True
+Enes Kanter,2,0,13,1,Jump Shot,3,20,23,True
+Enes Kanter,3,8,37,0,Jump Shot,6,63,13,True
+Enes Kanter,4,4,55,1,Jump Shot,17,-153,86,True
+Enes Kanter,1,8,9,1,Jump Shot,6,51,36,True
+Enes Kanter,2,4,1,1,Jump Shot,9,22,88,True
+Enes Kanter,1,10,37,0,Layup Shot,1,-13,12,True
+Enes Kanter,2,4,10,1,Layup Shot,2,21,-8,True
+Enes Kanter,2,6,11,1,Layup Shot,2,20,22,True
+Enes Kanter,2,6,17,0,Layup Shot,3,-39,7,True
+Enes Kanter,3,9,48,0,Layup Shot,2,-16,25,True
+Enes Kanter,4,3,21,0,Layup Shot,3,4,36,True
+Enes Kanter,4,5,59,1,Layup Shot,1,-2,18,True
+Enes Kanter,3,0,58,1,Layup Shot,1,-16,11,True
+Enes Kanter,2,1,12,0,Layup Shot,2,7,22,True
+Enes Kanter,1,10,47,0,Layup Shot,1,5,15,True
+Enes Kanter,4,3,20,0,Layup Shot,1,9,5,True
+Enes Kanter,1,11,18,0,Layup Shot,2,-18,22,True
+Enes Kanter,1,2,49,0,Layup Shot,1,-14,5,True
+Enes Kanter,1,1,41,1,Layup Shot,1,-5,18,True
+Enes Kanter,3,10,57,0,Layup Shot,1,-9,5,True
+Enes Kanter,3,11,30,1,Layup Shot,1,-2,10,True
+Enes Kanter,1,10,11,0,Layup Shot,1,5,15,True
+Enes Kanter,3,5,51,1,Layup Shot,1,-4,15,True
+Enes Kanter,1,10,46,1,Layup Shot,2,14,25,True
+Enes Kanter,1,7,6,1,Layup Shot,2,-24,7,True
+Enes Kanter,1,1,29,0,Layup Shot,2,-25,-3,True
+Enes Kanter,2,2,56,1,Layup Shot,2,9,20,True
+Enes Kanter,1,10,54,1,Layup Shot,1,-11,-1,True
+Enes Kanter,1,7,42,1,Layup Shot,1,-2,10,True
+Enes Kanter,2,4,55,1,Layup Shot,1,-3,10,True
+Enes Kanter,3,10,24,0,Layup Shot,0,5,7,True
+Enes Kanter,2,4,9,1,Layup Shot,1,-8,10,True
+Enes Kanter,3,10,21,0,Layup Shot,1,2,10,True
+Enes Kanter,3,6,43,1,Layup Shot,1,-6,14,True
+Enes Kanter,1,6,21,1,Layup Shot,2,14,15,True
+Enes Kanter,4,5,22,0,Layup Shot,1,-11,9,True
+Enes Kanter,1,5,6,1,Layup Shot,0,-6,2,True
+Enes Kanter,1,6,22,1,Layup Shot,1,-3,18,True
+Enes Kanter,4,5,13,1,Layup Shot,0,-5,8,True
+Enes Kanter,3,5,31,1,Layup Shot,3,2,31,True
+Enes Kanter,1,1,57,1,Layup Shot,2,-27,11,True
+Enes Kanter,2,5,13,1,Layup Shot,0,-4,3,True
+Enes Kanter,2,0,13,0,Layup Shot,0,9,1,True
+Enes Kanter,3,5,38,0,Layup Shot,2,-19,11,True
+Enes Kanter,2,1,57,1,Layup Shot,0,-6,6,True
+Enes Kanter,1,4,16,1,Layup Shot,0,-9,4,True
+Enes Kanter,1,9,38,0,Layup Shot,1,-1,16,True
+Enes Kanter,1,8,16,1,Layup Shot,1,-8,8,True
+Enes Kanter,3,8,36,1,Layup Shot,1,7,10,True
+Enes Kanter,1,5,27,0,Layup Shot,4,-5,43,True
+Enes Kanter,4,0,24,0,Layup Shot,1,5,13,True
+Enes Kanter,3,10,29,1,Layup Shot,0,-3,0,True
+Enes Kanter,1,4,57,1,Layup Shot,1,-3,19,True
+Enes Kanter,1,9,57,1,Layup Shot,1,-15,9,True
+Enes Kanter,2,3,31,1,Layup Shot,1,2,13,True
+Enes Kanter,3,5,15,0,Layup Shot,10,-89,57,True
+Enes Kanter,3,9,6,1,Layup Shot,1,13,10,True
+Enes Kanter,3,5,44,1,Layup Shot,2,-23,5,True
+Enes Kanter,1,10,13,1,Layup Shot,2,16,13,True
+Enes Kanter,3,7,45,0,Layup Shot,2,-1,23,True
+Enes Kanter,1,3,41,1,Layup Shot,1,8,13,True
+Enes Kanter,1,2,51,1,Layup Shot,2,-11,25,True
+Enes Kanter,4,6,40,1,Layup Shot,2,-8,21,True
+Enes Kanter,3,9,31,1,Layup Shot,2,-25,13,True
+Enes Kanter,2,3,41,0,Layup Shot,1,-12,10,True
+Enes Kanter,1,7,40,1,Layup Shot,1,-12,1,True
+Enes Kanter,5,2,18,1,Layup Shot,3,-27,16,True
+Enes Kanter,2,4,6,1,Layup Shot,1,-2,10,True
+Enes Kanter,1,8,2,1,Layup Shot,1,-7,12,True
+Enes Kanter,1,9,14,1,Layup Shot,0,-5,0,True
+Enes Kanter,1,10,39,0,Layup Shot,1,-12,15,True
+Enes Kanter,3,9,46,0,Layup Shot,1,1,16,True
+Enes Kanter,3,9,23,1,Layup Shot,1,6,15,True
+Enes Kanter,1,4,32,0,Layup Shot,1,14,13,True
+Enes Kanter,1,6,3,1,Layup Shot,2,-16,18,True
+Enes Kanter,2,5,44,1,Layup Shot,1,-16,6,True
+Enes Kanter,1,11,13,1,Layup Shot,1,-14,5,True
+Enes Kanter,2,3,53,1,Layup Shot,1,8,13,True
+Enes Kanter,1,6,41,1,Layup Shot,1,6,17,True
+Enes Kanter,1,3,54,0,Layup Shot,4,46,17,True
+Enes Kanter,3,3,44,0,Layup Shot,5,51,8,True
+Enes Kanter,3,11,28,1,Layup Shot,4,-41,10,True
+Enes Kanter,4,0,45,0,Layup Shot,1,-12,15,True
+Enes Kanter,1,8,55,0,Layup Shot,2,-8,19,True
+Enes Kanter,3,5,35,1,Layup Shot,1,-18,-3,True
+Enes Kanter,4,6,51,0,Layup Shot,1,-1,16,True
+Enes Kanter,2,5,45,1,Layup Shot,1,5,9,True
+Enes Kanter,1,3,59,1,Layup Shot,1,-9,17,True
+Enes Kanter,1,6,12,1,Layup Shot,1,6,11,True
+Enes Kanter,1,10,46,0,Layup Shot,3,-5,34,True
+Enes Kanter,3,11,1,1,Layup Shot,1,2,-15,True
+Enes Kanter,4,3,45,1,Layup Shot,3,-14,27,True
+Enes Kanter,3,3,13,0,Layup Shot,2,-1,22,True
+Enes Kanter,4,6,27,0,Layup Shot,2,8,23,True
+Enes Kanter,3,4,37,1,Layup Shot,1,2,10,True
+Enes Kanter,2,6,43,1,Layup Shot,3,23,31,True
+Enes Kanter,3,9,46,0,Layup Shot,5,37,47,True
+Enes Kanter,1,5,14,0,Layup Shot,2,-21,6,True
+Enes Kanter,1,6,20,1,Layup Shot,1,14,4,True
+Enes Kanter,2,5,52,0,Layup Shot,1,-13,4,True
+Enes Kanter,2,5,2,1,Layup Shot,2,-20,2,True
+Enes Kanter,4,1,23,1,Layup Shot,1,5,16,True
+Enes Kanter,2,3,45,0,Layup Shot,0,4,6,True
+Enes Kanter,1,7,59,1,Layup Shot,0,-8,1,True
+Enes Kanter,3,6,29,0,Layup Shot,4,-26,36,True
+Enes Kanter,1,5,49,0,Layup Shot,3,-18,34,True
+Enes Kanter,1,11,41,0,Layup Shot,2,3,20,True
+Enes Kanter,1,7,14,1,Layup Shot,1,1,10,True
+Enes Kanter,1,11,44,0,Layup Shot,0,-5,-2,True
+Enes Kanter,2,4,50,1,Layup Shot,0,1,9,True
+Enes Kanter,3,11,12,1,Layup Shot,0,0,9,True
+Enes Kanter,2,2,20,1,Layup Shot,0,-1,6,True
+Enes Kanter,1,6,39,0,Layup Shot,3,20,27,True
+Enes Kanter,3,6,17,0,Layup Shot,4,6,40,True
+Enes Kanter,2,1,58,1,Layup Shot,0,-5,6,True
+Enes Kanter,2,0,50,0,Layup Shot,2,-18,15,True
+Enes Kanter,1,6,18,0,Layup Shot,1,4,16,True
+Enes Kanter,1,7,52,1,Layup Shot,1,-11,6,True
+Enes Kanter,3,6,1,1,Layup Shot,0,2,6,True
+Enes Kanter,3,10,28,1,Layup Shot,0,-2,9,True
+Enes Kanter,2,7,42,0,Layup Shot,2,16,16,True
+Enes Kanter,3,9,36,1,Layup Shot,1,-8,6,True
+Enes Kanter,2,6,35,0,Layup Shot,3,-8,29,True
+Enes Kanter,2,6,9,1,Layup Shot,0,5,6,True
+Enes Kanter,3,5,3,1,Layup Shot,0,-3,9,True
+Enes Kanter,2,8,1,0,Layup Shot,7,-42,58,True
+Enes Kanter,1,5,55,1,Layup Shot,1,-5,10,True
+Enes Kanter,3,7,28,1,Layup Shot,0,-5,8,True
+Enes Kanter,1,9,26,1,Layup Shot,1,-2,15,True
+Enes Kanter,3,5,3,1,Layup Shot,0,-5,0,True
+Enes Kanter,3,9,22,0,Layup Shot,2,7,19,True
+Enes Kanter,3,8,36,1,Layup Shot,0,-5,6,True
+Enes Kanter,1,9,35,1,Layup Shot,3,-27,28,True
+Enes Kanter,1,4,17,1,Layup Shot,1,-11,4,True
+Enes Kanter,3,3,59,0,Layup Shot,1,-11,8,True
+Enes Kanter,3,2,53,1,Layup Shot,1,8,15,True
+Enes Kanter,3,10,55,1,Layup Shot,1,7,11,True
+Enes Kanter,1,3,24,1,Layup Shot,4,-11,44,True
+Enes Kanter,1,10,31,1,Layup Shot,2,8,28,True
+Enes Kanter,3,5,29,0,Layup Shot,1,11,13,True
+Enes Kanter,1,9,8,1,Layup Shot,1,-7,15,True
+Enes Kanter,3,3,31,1,Layup Shot,1,3,10,True
+Enes Kanter,1,3,40,0,Layup Shot,0,-1,-5,True
+Enes Kanter,3,9,9,0,Layup Shot,2,-6,29,True
+Enes Kanter,1,2,32,1,Layup Shot,1,1,15,True
+Enes Kanter,2,5,9,1,Layup Shot,1,-2,11,True
+Enes Kanter,3,5,0,0,Layup Shot,2,2,29,True
+Enes Kanter,4,1,2,0,Layup Shot,2,14,15,True
+Enes Kanter,1,8,9,1,Layup Shot,0,4,7,True
+Enes Kanter,1,6,48,1,Layup Shot,0,0,5,True
+Enes Kanter,3,8,57,1,Layup Shot,1,9,17,True
+Enes Kanter,1,10,24,1,Layup Shot,0,-9,-3,True
+Enes Kanter,1,2,34,0,Layup Shot,2,-15,14,True
+Enes Kanter,3,2,0,0,Layup Shot,2,-7,20,True
+Enes Kanter,1,9,22,0,Layup Shot,2,-11,27,True
+Enes Kanter,3,3,50,1,Layup Shot,1,-2,13,True
+Enes Kanter,3,5,36,1,Layup Shot,1,3,11,True
+Enes Kanter,3,4,16,1,Layup Shot,0,2,2,True
+Enes Kanter,1,8,17,1,Layup Shot,1,-5,17,True
+Enes Kanter,3,2,58,0,Layup Shot,2,5,27,True
+Enes Kanter,1,9,14,1,Layup Shot,2,5,29,True
+Enes Kanter,3,7,25,1,Layup Shot,0,-3,5,True
+Enes Kanter,1,9,37,1,Layup Shot,1,0,16,True
+Enes Kanter,2,0,29,0,Layup Shot,2,-11,19,True
+Enes Kanter,1,10,55,1,Layup Shot,1,2,13,True
+Enes Kanter,1,0,40,0,Layup Shot,3,12,32,True
+Enes Kanter,1,9,18,1,Layup Shot,1,2,10,True
+Enes Kanter,2,6,7,0,Layup Shot,1,8,6,True
+Enes Kanter,3,6,56,1,Layup Shot,0,7,6,True
+Enes Kanter,2,4,57,0,Layup Shot,1,-14,2,True
+Enes Kanter,3,4,43,1,Layup Shot,1,2,10,True
+Enes Kanter,3,2,35,1,Layup Shot,1,-2,15,True
+Enes Kanter,3,8,12,1,Layup Shot,0,-6,5,True
+Enes Kanter,3,10,11,0,Layup Shot,1,-13,12,True
+Enes Kanter,2,4,13,1,Layup Shot,1,6,10,True
+Enes Kanter,3,11,27,0,Layup Shot,2,20,8,True
+Enes Kanter,2,5,48,1,Pullup Jump shot,5,12,51,True
+Enes Kanter,1,7,58,1,Pullup Jump shot,14,1,142,True
+Enes Kanter,4,3,9,0,Pullup Jump shot,14,13,145,True
+Enes Kanter,3,8,13,1,Pullup Jump shot,14,-5,145,True
+Enes Kanter,3,9,0,0,Pullup Jump shot,7,43,66,True
+Enes Kanter,4,6,0,1,Putback Dunk Shot,0,0,-6,True
+Enes Kanter,1,9,15,1,Putback Dunk Shot,0,0,-6,True
+Enes Kanter,4,4,34,0,Putback Dunk Shot,0,0,-6,True
+Enes Kanter,4,7,53,1,Putback Dunk Shot,0,0,-6,True
+Enes Kanter,2,0,0,1,Putback Dunk Shot,0,0,-6,True
+Enes Kanter,1,11,12,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,2,3,24,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,2,6,27,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,1,11,39,1,Putback Layup Shot,0,-3,-4,True
+Enes Kanter,1,7,52,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,1,9,59,1,Putback Layup Shot,1,5,10,True
+Enes Kanter,1,4,35,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,3,10,56,1,Putback Layup Shot,1,11,3,True
+Enes Kanter,1,6,0,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,1,3,48,0,Putback Layup Shot,0,-6,-1,True
+Enes Kanter,1,6,56,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,3,11,21,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,2,5,31,1,Putback Layup Shot,0,5,6,True
+Enes Kanter,2,0,6,1,Putback Layup Shot,1,-5,9,True
+Enes Kanter,1,6,40,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,3,4,24,0,Putback Layup Shot,0,0,-6,True
+Enes Kanter,1,3,54,0,Putback Layup Shot,1,2,15,True
+Enes Kanter,1,5,40,1,Putback Layup Shot,1,-3,18,True
+Enes Kanter,3,6,56,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,3,10,0,1,Putback Layup Shot,1,-10,3,True
+Enes Kanter,1,8,17,1,Putback Layup Shot,2,11,19,True
+Enes Kanter,1,8,42,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,2,9,33,1,Putback Layup Shot,0,-5,4,True
+Enes Kanter,2,5,40,1,Putback Layup Shot,1,8,10,True
+Enes Kanter,2,9,59,1,Putback Layup Shot,1,9,16,True
+Enes Kanter,1,10,50,1,Putback Layup Shot,1,-7,17,True
+Enes Kanter,3,5,33,0,Putback Layup Shot,1,-5,16,True
+Enes Kanter,3,9,48,1,Putback Layup Shot,0,-2,7,True
+Enes Kanter,3,11,29,1,Putback Layup Shot,0,-6,7,True
+Enes Kanter,3,6,49,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,1,8,20,1,Putback Layup Shot,1,-11,13,True
+Enes Kanter,4,8,4,1,Putback Layup Shot,1,-3,13,True
+Enes Kanter,1,5,32,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,1,4,46,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,1,6,7,1,Putback Layup Shot,1,4,10,True
+Enes Kanter,4,5,1,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,1,8,33,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,4,8,27,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,3,10,57,1,Putback Layup Shot,1,-2,11,True
+Enes Kanter,3,10,24,1,Putback Layup Shot,0,0,-6,True
+Enes Kanter,1,6,39,1,Reverse Layup Shot,1,-4,13,True
+Enes Kanter,1,2,30,1,Reverse Layup Shot,2,13,16,True
+Enes Kanter,3,7,47,1,Reverse Layup Shot,0,-5,4,True
+Enes Kanter,3,6,15,1,Reverse Layup Shot,1,11,10,True
+Enes Kanter,2,4,4,1,Reverse Layup Shot,0,3,2,True
+Enes Kanter,2,5,27,0,Reverse Layup Shot,1,14,-2,True
+Enes Kanter,2,5,25,1,Reverse Layup Shot,0,-9,-4,True
+Enes Kanter,1,10,54,1,Reverse Layup Shot,2,14,19,True
+Enes Kanter,3,9,18,1,Reverse Layup Shot,1,16,8,True
+Enes Kanter,1,3,19,0,Reverse Layup Shot,1,3,19,True
+Enes Kanter,1,11,20,1,Reverse Layup Shot,1,-2,10,True
+Enes Kanter,3,10,11,1,Reverse Layup Shot,3,6,31,True
+Enes Kanter,1,10,49,0,Reverse Layup Shot,1,13,6,True
+Enes Kanter,3,4,48,1,Reverse Layup Shot,1,11,8,True
+Enes Kanter,3,8,7,1,Reverse Layup Shot,0,-2,5,True
+Enes Kanter,2,6,11,1,Reverse Layup Shot,0,-6,3,True
+Enes Kanter,1,3,39,0,Reverse Layup Shot,2,22,13,True
+Enes Kanter,2,5,14,1,Reverse Layup Shot,0,2,-1,True
+Enes Kanter,3,7,26,0,Reverse Layup Shot,1,5,13,True
+Enes Kanter,2,4,4,0,Reverse Layup Shot,1,3,11,True
+Enes Kanter,3,3,37,1,Reverse Layup Shot,1,13,12,True
+Enes Kanter,1,8,42,1,Reverse Layup Shot,0,6,4,True
+Enes Kanter,1,1,16,1,Reverse Layup Shot,0,8,-5,True
+Enes Kanter,4,6,57,1,Reverse Layup Shot,2,20,3,True
+Enes Kanter,1,5,30,0,Reverse Layup Shot,1,3,19,True
+Enes Kanter,3,7,30,1,Reverse Layup Shot,0,-3,5,True
+Enes Kanter,2,3,20,1,Reverse Layup Shot,1,-16,0,True
+Enes Kanter,3,7,5,1,Reverse Layup Shot,2,-5,29,True
+Enes Kanter,2,5,42,0,Reverse Layup Shot,2,1,22,True
+Enes Kanter,1,10,23,0,Reverse Layup Shot,2,16,19,True
+Enes Kanter,2,3,35,0,Reverse Layup Shot,1,3,11,True
+Enes Kanter,1,6,9,1,Reverse Layup Shot,0,-9,4,True
+Enes Kanter,3,11,14,1,Reverse Layup Shot,1,11,5,True
+Enes Kanter,3,11,4,0,Reverse Layup Shot,1,8,13,True
+Enes Kanter,3,2,21,1,Reverse Layup Shot,1,12,3,True
+Enes Kanter,3,10,32,1,Reverse Layup Shot,0,-2,1,True
+Enes Kanter,1,3,32,0,Reverse Layup Shot,1,13,13,True
+Enes Kanter,3,7,16,1,Reverse Layup Shot,1,-14,2,True
+Enes Kanter,1,5,16,0,Reverse Layup Shot,1,13,-6,True
+Enes Kanter,1,8,53,0,Running Layup Shot,2,5,21,True
+Enes Kanter,2,6,39,0,Running Layup Shot,0,0,7,True
+Enes Kanter,1,5,28,0,Running Layup Shot,1,-16,4,True
+Enes Kanter,2,3,9,1,Running Layup Shot,0,9,-3,True
+Enes Kanter,1,10,52,1,Running Layup Shot,0,3,-4,True
+Enes Kanter,1,9,50,1,Running Reverse Layup Shot,1,2,10,True
+Enes Kanter,4,7,19,0,Step Back Jump shot,12,-127,25,True
+Enes Kanter,3,5,43,0,Tip Dunk Shot,0,0,-6,True
+Enes Kanter,3,4,30,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,4,4,49,0,Tip Layup Shot,1,3,19,True
+Enes Kanter,1,10,19,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,8,37,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,1,52,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,8,13,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,7,37,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,9,17,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,0,4,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,7,38,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,7,43,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,6,15,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,4,56,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,10,25,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,1,44,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,9,49,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,4,58,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,11,7,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,8,2,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,4,1,50,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,2,48,0,Tip Layup Shot,2,13,17,True
+Enes Kanter,1,0,56,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,4,2,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,2,22,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,2,38,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,9,4,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,6,41,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,3,9,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,2,43,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,6,47,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,2,57,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,2,49,0,Tip Layup Shot,1,15,13,True
+Enes Kanter,3,10,58,0,Tip Layup Shot,1,3,10,True
+Enes Kanter,1,7,0,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,8,11,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,7,17,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,4,6,41,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,0,46,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,5,56,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,9,35,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,3,42,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,9,5,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,0,58,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,5,7,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,5,35,0,Tip Layup Shot,2,-18,12,True
+Enes Kanter,2,4,46,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,6,10,0,Tip Layup Shot,1,2,13,True
+Enes Kanter,1,8,43,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,1,52,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,4,8,44,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,3,5,27,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,3,56,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,3,35,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,6,16,0,Tip Layup Shot,10,103,24,True
+Enes Kanter,1,8,7,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,6,39,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,4,25,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,9,36,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,1,32,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,4,37,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,5,42,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,5,13,0,Tip Layup Shot,1,-10,-1,True
+Enes Kanter,3,5,27,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,7,1,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,0,59,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,2,2,46,0,Tip Layup Shot,1,11,14,True
+Enes Kanter,3,4,27,0,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,10,2,1,Tip Layup Shot,0,0,-6,True
+Enes Kanter,1,3,6,1,Turnaround Bank Hook Shot,0,-5,5,True
+Enes Kanter,3,8,44,1,Turnaround Fadeaway Bank Jump Shot,5,7,51,True
+Enes Kanter,1,8,46,1,Turnaround Fadeaway Bank Jump Shot,5,-48,23,True
+Enes Kanter,3,10,38,0,Turnaround Fadeaway shot,6,-58,34,True
+Enes Kanter,1,9,20,0,Turnaround Fadeaway shot,6,4,65,True
+Enes Kanter,2,7,47,1,Turnaround Fadeaway shot,7,50,51,True
+Enes Kanter,2,2,49,1,Turnaround Fadeaway shot,10,0,105,True
+Enes Kanter,3,6,2,0,Turnaround Hook Shot,4,-5,41,True
+Enes Kanter,1,11,4,0,Turnaround Hook Shot,5,-6,56,True
+Enes Kanter,1,10,30,1,Turnaround Hook Shot,8,-39,80,True
+Enes Kanter,2,1,37,0,Turnaround Hook Shot,4,17,40,True
+Enes Kanter,3,8,25,1,Turnaround Hook Shot,6,-25,55,True
+Enes Kanter,1,4,55,1,Turnaround Hook Shot,5,-16,50,True
+Enes Kanter,1,3,52,1,Turnaround Hook Shot,4,13,43,True
+Enes Kanter,3,5,48,0,Turnaround Hook Shot,4,-37,25,True
+Enes Kanter,2,7,59,1,Turnaround Hook Shot,2,4,23,True
+Enes Kanter,1,10,22,1,Turnaround Hook Shot,5,58,8,True
+Enes Kanter,3,5,51,0,Turnaround Hook Shot,6,13,68,True
+Enes Kanter,1,10,52,0,Turnaround Hook Shot,4,18,43,True
+Enes Kanter,3,10,9,1,Turnaround Hook Shot,4,-5,46,True
+Enes Kanter,1,9,25,0,Turnaround Hook Shot,4,11,48,True
+Enes Kanter,2,4,59,0,Turnaround Hook Shot,8,-8,81,True
+Enes Kanter,1,6,58,0,Turnaround Hook Shot,5,6,50,True
+Enes Kanter,2,2,24,0,Turnaround Hook Shot,5,-46,31,True
+Enes Kanter,3,0,36,1,Turnaround Hook Shot,4,-1,49,True
+Enes Kanter,3,10,2,0,Turnaround Hook Shot,7,-65,32,True
+Enes Kanter,2,6,31,1,Turnaround Hook Shot,5,-12,53,True
+Enes Kanter,3,10,42,1,Turnaround Hook Shot,3,-3,31,True
+Enes Kanter,1,11,37,0,Turnaround Hook Shot,5,-10,57,True
+Enes Kanter,3,8,16,0,Turnaround Hook Shot,6,3,64,True
+Enes Kanter,2,4,17,1,Turnaround Jump Shot,7,-73,5,True
+Enes Kanter,3,10,56,0,Turnaround Jump Shot,6,-6,62,True
+Enes Kanter,2,1,42,1,Turnaround Jump Shot,6,6,67,True
+Enes Kanter,4,4,27,0,Turnaround Jump Shot,6,38,56,True
+Enes Kanter,2,1,33,0,Turnaround Jump Shot,14,-111,87,True
+Enes Kanter,1,6,38,0,Turnaround Jump Shot,9,46,80,True
+Enes Kanter,1,7,18,1,Turnaround Jump Shot,7,0,71,True
+Enes Kanter,2,3,1,1,Turnaround Jump Shot,9,-92,8,True
+Enes Kanter,2,4,39,0,Turnaround Jump Shot,6,8,69,True
+Enes Kanter,1,3,39,1,Turnaround Jump Shot,5,7,55,True
+Enes Kanter,3,7,1,0,Turnaround Jump Shot,12,-123,-8,True

@@ -1,0 +1,174 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Omri Casspi,3,2,53,1,Cutting Dunk Shot,1,9,16,True
+Omri Casspi,2,4,53,1,Cutting Dunk Shot,2,22,17,True
+Omri Casspi,1,1,51,0,Cutting Dunk Shot,1,-2,11,True
+Omri Casspi,1,4,54,1,Cutting Finger Roll Layup Shot,1,10,17,True
+Omri Casspi,2,7,57,1,Cutting Layup Shot,2,3,26,True
+Omri Casspi,1,7,31,0,Cutting Layup Shot,0,-8,-2,True
+Omri Casspi,3,3,53,1,Cutting Layup Shot,1,-10,9,True
+Omri Casspi,4,1,6,1,Cutting Layup Shot,1,-17,-6,True
+Omri Casspi,3,4,15,1,Cutting Layup Shot,1,-8,13,True
+Omri Casspi,4,10,55,1,Cutting Layup Shot,1,12,9,True
+Omri Casspi,1,6,47,0,Cutting Layup Shot,2,22,4,True
+Omri Casspi,3,8,52,1,Cutting Layup Shot,2,18,17,True
+Omri Casspi,4,4,27,1,Cutting Layup Shot,0,8,-1,True
+Omri Casspi,2,3,47,1,Cutting Layup Shot,1,-16,8,True
+Omri Casspi,3,7,43,1,Cutting Layup Shot,1,-4,16,True
+Omri Casspi,2,10,7,0,Cutting Layup Shot,2,-14,15,True
+Omri Casspi,3,0,30,1,Cutting Layup Shot,1,0,11,True
+Omri Casspi,2,5,50,1,Cutting Layup Shot,1,5,11,True
+Omri Casspi,4,8,43,1,Cutting Layup Shot,1,-14,6,True
+Omri Casspi,3,7,50,1,Cutting Layup Shot,1,3,19,True
+Omri Casspi,4,9,8,1,Cutting Layup Shot,1,14,11,True
+Omri Casspi,3,10,47,1,Driving Finger Roll Layup Shot,4,-29,32,True
+Omri Casspi,2,3,18,1,Driving Finger Roll Layup Shot,1,-6,11,True
+Omri Casspi,2,3,13,1,Driving Finger Roll Layup Shot,3,-17,31,True
+Omri Casspi,2,3,6,1,Driving Finger Roll Layup Shot,2,0,25,True
+Omri Casspi,4,1,47,1,Driving Floating Bank Jump Shot,11,51,100,True
+Omri Casspi,1,0,0,1,Driving Floating Bank Jump Shot,10,-102,27,True
+Omri Casspi,3,0,34,1,Driving Floating Jump Shot,7,-36,70,True
+Omri Casspi,4,3,55,0,Driving Floating Jump Shot,7,44,60,True
+Omri Casspi,4,1,31,0,Driving Floating Jump Shot,5,0,59,True
+Omri Casspi,4,2,34,1,Driving Floating Jump Shot,6,9,60,True
+Omri Casspi,4,3,10,1,Driving Floating Jump Shot,8,17,84,True
+Omri Casspi,4,6,51,1,Driving Hook Shot,4,-7,46,True
+Omri Casspi,2,9,4,1,Driving Hook Shot,6,-11,64,True
+Omri Casspi,4,3,52,0,Driving Layup Shot,4,8,46,True
+Omri Casspi,4,0,59,1,Driving Layup Shot,1,-14,9,True
+Omri Casspi,2,2,28,1,Driving Layup Shot,2,-22,14,True
+Omri Casspi,4,3,11,1,Driving Layup Shot,1,5,10,True
+Omri Casspi,4,2,58,1,Driving Layup Shot,1,-9,17,True
+Omri Casspi,2,3,37,0,Driving Layup Shot,2,-8,24,True
+Omri Casspi,3,6,1,1,Driving Layup Shot,2,5,26,True
+Omri Casspi,4,5,18,1,Driving Layup Shot,2,-13,17,True
+Omri Casspi,2,11,37,1,Dunk Shot,0,-7,7,True
+Omri Casspi,2,8,28,1,Dunk Shot,0,6,6,True
+Omri Casspi,3,1,41,1,Dunk Shot,1,-5,15,True
+Omri Casspi,4,9,44,1,Dunk Shot,1,-5,14,True
+Omri Casspi,1,2,2,0,Fadeaway Jump Shot,9,-45,78,True
+Omri Casspi,1,6,58,0,Finger Roll Layup Shot,2,-7,22,True
+Omri Casspi,3,6,31,1,Floating Jump shot,8,84,5,True
+Omri Casspi,4,2,6,0,Floating Jump shot,6,-4,64,True
+Omri Casspi,4,0,53,0,Floating Jump shot,7,9,74,True
+Omri Casspi,2,5,47,1,Floating Jump shot,9,-19,97,True
+Omri Casspi,2,4,36,1,Floating Jump shot,9,4,91,True
+Omri Casspi,3,3,34,1,Floating Jump shot,12,115,42,True
+Omri Casspi,1,5,24,0,Floating Jump shot,9,4,99,True
+Omri Casspi,1,9,26,1,Floating Jump shot,8,2,83,True
+Omri Casspi,1,0,40,1,Floating Jump shot,4,-41,6,True
+Omri Casspi,3,11,15,1,Floating Jump shot,5,24,53,True
+Omri Casspi,4,1,33,0,Hook Shot,5,-4,50,True
+Omri Casspi,3,0,59,1,Hook Shot,5,-25,44,True
+Omri Casspi,3,4,43,0,Hook Shot,7,8,74,True
+Omri Casspi,1,6,46,0,Hook Shot,3,-22,29,True
+Omri Casspi,1,9,51,1,Hook Shot,4,-43,13,True
+Omri Casspi,3,11,17,1,Hook Shot,5,-55,-7,True
+Omri Casspi,4,10,38,1,Jump Bank Shot,11,54,99,True
+Omri Casspi,2,2,8,1,Jump Bank Shot,10,-3,107,True
+Omri Casspi,3,9,28,0,Jump Shot,28,155,241,False
+Omri Casspi,1,0,55,0,Jump Shot,26,-18,264,False
+Omri Casspi,4,0,32,0,Jump Shot,7,13,71,True
+Omri Casspi,3,8,31,1,Jump Shot,25,-206,142,False
+Omri Casspi,3,3,17,0,Jump Shot,25,-122,225,False
+Omri Casspi,2,6,37,0,Jump Shot,24,144,200,False
+Omri Casspi,3,10,2,1,Jump Shot,7,71,0,True
+Omri Casspi,4,10,35,0,Jump Shot,10,101,-11,True
+Omri Casspi,4,7,49,1,Jump Shot,25,168,197,False
+Omri Casspi,1,1,46,0,Jump Shot,5,-46,36,True
+Omri Casspi,1,5,30,1,Jump Shot,23,231,-1,False
+Omri Casspi,4,4,51,0,Jump Shot,26,-176,201,False
+Omri Casspi,3,7,1,0,Jump Shot,24,-193,144,False
+Omri Casspi,4,2,31,0,Jump Shot,12,-78,93,True
+Omri Casspi,2,5,32,0,Jump Shot,9,77,48,True
+Omri Casspi,3,0,0,0,Jump Shot,48,-6,483,False
+Omri Casspi,4,0,48,0,Jump Shot,6,-17,58,True
+Omri Casspi,1,0,54,0,Jump Shot,23,226,58,False
+Omri Casspi,3,4,16,0,Jump Shot,25,-203,158,False
+Omri Casspi,1,7,10,0,Jump Shot,7,23,73,True
+Omri Casspi,2,4,10,0,Jump Shot,11,-76,80,True
+Omri Casspi,4,9,13,1,Jump Shot,29,130,262,False
+Omri Casspi,2,8,47,0,Jump Shot,27,33,273,False
+Omri Casspi,4,10,40,1,Jump Shot,27,-44,267,False
+Omri Casspi,3,0,59,0,Jump Shot,11,-30,111,True
+Omri Casspi,2,8,34,1,Jump Shot,25,-172,183,False
+Omri Casspi,4,8,57,1,Jump Shot,2,24,17,True
+Omri Casspi,3,10,17,0,Jump Shot,11,19,110,True
+Omri Casspi,4,5,10,1,Jump Shot,22,-223,25,False
+Omri Casspi,1,1,53,0,Jump Shot,7,55,48,True
+Omri Casspi,3,1,1,0,Jump Shot,8,-14,83,True
+Omri Casspi,2,4,45,0,Jump Shot,8,79,39,True
+Omri Casspi,3,10,1,0,Jump Shot,8,11,82,True
+Omri Casspi,4,7,32,0,Jump Shot,25,-102,237,False
+Omri Casspi,4,4,4,0,Layup Shot,2,2,26,True
+Omri Casspi,1,0,47,1,Layup Shot,2,-6,25,True
+Omri Casspi,1,0,25,1,Layup Shot,2,-28,2,True
+Omri Casspi,2,5,21,0,Layup Shot,5,-50,7,True
+Omri Casspi,4,9,58,0,Layup Shot,2,6,26,True
+Omri Casspi,1,11,8,1,Layup Shot,1,3,10,True
+Omri Casspi,1,6,23,1,Layup Shot,1,7,17,True
+Omri Casspi,4,11,14,1,Layup Shot,2,23,11,True
+Omri Casspi,1,2,50,0,Layup Shot,2,-8,28,True
+Omri Casspi,4,3,54,0,Layup Shot,0,7,3,True
+Omri Casspi,3,1,11,1,Layup Shot,0,-6,1,True
+Omri Casspi,1,1,56,1,Layup Shot,1,0,13,True
+Omri Casspi,1,2,31,0,Layup Shot,5,-3,54,True
+Omri Casspi,1,9,24,0,Layup Shot,2,-1,23,True
+Omri Casspi,1,0,58,0,Layup Shot,2,5,27,True
+Omri Casspi,2,9,24,1,Layup Shot,0,-8,5,True
+Omri Casspi,4,4,53,0,Layup Shot,1,-14,3,True
+Omri Casspi,4,7,23,1,Layup Shot,1,-14,5,True
+Omri Casspi,4,3,9,0,Layup Shot,2,17,16,True
+Omri Casspi,1,8,8,0,Layup Shot,2,24,14,True
+Omri Casspi,3,4,13,0,Layup Shot,3,-6,34,True
+Omri Casspi,2,10,41,1,Layup Shot,2,-12,18,True
+Omri Casspi,2,9,11,0,Layup Shot,3,-1,32,True
+Omri Casspi,2,4,11,0,Layup Shot,1,-11,13,True
+Omri Casspi,4,5,29,0,Layup Shot,4,-45,5,True
+Omri Casspi,3,5,56,0,Layup Shot,4,-2,47,True
+Omri Casspi,4,4,32,0,Layup Shot,1,8,6,True
+Omri Casspi,4,2,4,0,Layup Shot,6,5,63,True
+Omri Casspi,4,5,5,0,Layup Shot,1,-8,16,True
+Omri Casspi,1,0,25,0,Layup Shot,1,10,8,True
+Omri Casspi,4,1,33,1,Pullup Jump shot,8,-85,11,True
+Omri Casspi,2,2,45,1,Pullup Jump shot,26,-2,267,False
+Omri Casspi,2,9,50,1,Pullup Jump shot,23,233,10,False
+Omri Casspi,4,1,16,0,Putback Layup Shot,0,0,-6,True
+Omri Casspi,4,1,24,1,Putback Layup Shot,0,5,-3,True
+Omri Casspi,4,7,44,1,Putback Layup Shot,0,-6,6,True
+Omri Casspi,2,3,41,1,Reverse Layup Shot,2,-5,22,True
+Omri Casspi,4,2,6,0,Reverse Layup Shot,3,-22,31,True
+Omri Casspi,2,9,4,1,Reverse Layup Shot,1,-12,7,True
+Omri Casspi,4,8,53,1,Reverse Layup Shot,0,-3,5,True
+Omri Casspi,4,8,10,1,Running Dunk Shot,0,-3,9,True
+Omri Casspi,2,1,56,1,Running Dunk Shot,1,-2,16,True
+Omri Casspi,2,8,35,1,Running Jump Shot,6,0,65,True
+Omri Casspi,3,4,59,0,Running Jump Shot,10,90,48,True
+Omri Casspi,1,11,38,1,Running Layup Shot,0,-4,5,True
+Omri Casspi,3,0,9,1,Running Layup Shot,1,0,17,True
+Omri Casspi,1,4,20,1,Running Layup Shot,2,-9,27,True
+Omri Casspi,2,2,15,1,Running Layup Shot,1,3,15,True
+Omri Casspi,4,9,19,1,Running Reverse Layup Shot,2,-12,26,True
+Omri Casspi,3,0,27,1,Step Back Jump shot,2,-2,27,True
+Omri Casspi,4,7,48,1,Tip Layup Shot,0,0,-6,True
+Omri Casspi,2,2,8,1,Tip Layup Shot,0,0,-6,True
+Omri Casspi,2,3,52,0,Tip Layup Shot,2,-3,20,True
+Omri Casspi,4,8,24,0,Tip Layup Shot,0,0,-6,True
+Omri Casspi,1,5,37,0,Tip Layup Shot,0,0,-6,True
+Omri Casspi,2,9,8,0,Tip Layup Shot,0,0,-6,True
+Omri Casspi,4,5,27,0,Tip Layup Shot,1,-12,10,True
+Omri Casspi,1,6,4,1,Tip Layup Shot,0,0,-6,True
+Omri Casspi,4,2,29,1,Tip Layup Shot,0,0,-6,True
+Omri Casspi,1,6,31,1,Tip Layup Shot,0,0,-6,True
+Omri Casspi,2,11,27,1,Tip Layup Shot,0,0,-6,True
+Omri Casspi,2,3,44,1,Turnaround Fadeaway Bank Jump Shot,7,-72,31,True
+Omri Casspi,4,2,41,1,Turnaround Fadeaway shot,8,-22,86,True
+Omri Casspi,4,0,30,1,Turnaround Fadeaway shot,11,114,-3,True
+Omri Casspi,4,11,18,1,Turnaround Hook Shot,9,-95,26,True
+Omri Casspi,4,1,20,1,Turnaround Hook Shot,8,87,11,True
+Omri Casspi,2,10,44,0,Turnaround Hook Shot,10,-93,50,True
+Omri Casspi,2,6,9,0,Turnaround Hook Shot,7,-19,77,True
+Omri Casspi,3,9,48,1,Turnaround Hook Shot,4,-44,13,True
+Omri Casspi,2,3,52,1,Turnaround Hook Shot,3,0,30,True
+Omri Casspi,1,0,33,0,Turnaround Jump Shot,10,95,32,True
+Omri Casspi,1,1,56,1,Turnaround Jump Shot,4,-35,24,True
+Omri Casspi,4,7,49,0,Turnaround Jump Shot,6,61,15,True

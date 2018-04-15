@@ -1,0 +1,541 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Draymond Green,3,6,21,1,Alley Oop Layup shot,3,16,26,True
+Draymond Green,4,2,57,1,Cutting Dunk Shot,2,8,23,True
+Draymond Green,4,10,37,1,Cutting Dunk Shot,0,-3,1,True
+Draymond Green,2,2,54,1,Cutting Dunk Shot,1,5,15,True
+Draymond Green,3,0,11,0,Cutting Dunk Shot,2,10,20,True
+Draymond Green,2,0,4,1,Cutting Dunk Shot,2,3,21,True
+Draymond Green,1,8,23,1,Cutting Dunk Shot,1,0,14,True
+Draymond Green,4,10,29,1,Cutting Dunk Shot,2,15,15,True
+Draymond Green,4,10,47,1,Cutting Dunk Shot,0,5,6,True
+Draymond Green,2,11,47,1,Cutting Dunk Shot,1,5,17,True
+Draymond Green,3,4,28,1,Cutting Dunk Shot,1,-6,16,True
+Draymond Green,3,2,10,1,Cutting Dunk Shot,0,3,6,True
+Draymond Green,3,6,34,1,Cutting Dunk Shot,0,0,5,True
+Draymond Green,1,10,35,1,Cutting Finger Roll Layup Shot,2,23,11,True
+Draymond Green,4,3,41,1,Cutting Finger Roll Layup Shot,0,-5,4,True
+Draymond Green,4,6,12,1,Cutting Finger Roll Layup Shot,0,0,5,True
+Draymond Green,3,3,19,1,Cutting Layup Shot,3,-29,17,True
+Draymond Green,3,11,15,1,Cutting Layup Shot,2,-22,12,True
+Draymond Green,3,4,37,1,Cutting Layup Shot,0,5,6,True
+Draymond Green,3,9,25,1,Cutting Layup Shot,1,5,10,True
+Draymond Green,3,10,59,1,Cutting Layup Shot,3,-23,25,True
+Draymond Green,1,8,33,1,Cutting Layup Shot,2,1,24,True
+Draymond Green,1,8,12,1,Cutting Layup Shot,2,-14,18,True
+Draymond Green,2,4,59,1,Cutting Layup Shot,1,-12,12,True
+Draymond Green,3,9,14,0,Cutting Layup Shot,1,7,15,True
+Draymond Green,4,9,47,1,Cutting Layup Shot,1,0,15,True
+Draymond Green,4,8,9,1,Cutting Layup Shot,0,-2,8,True
+Draymond Green,4,6,48,1,Cutting Layup Shot,2,11,17,True
+Draymond Green,3,5,2,1,Cutting Layup Shot,1,0,17,True
+Draymond Green,2,0,36,1,Cutting Layup Shot,1,-2,10,True
+Draymond Green,1,5,31,1,Cutting Layup Shot,1,10,11,True
+Draymond Green,2,11,24,1,Cutting Layup Shot,1,-4,10,True
+Draymond Green,3,5,56,1,Cutting Layup Shot,2,-8,21,True
+Draymond Green,2,3,4,1,Cutting Layup Shot,1,3,13,True
+Draymond Green,3,10,31,1,Cutting Layup Shot,1,-14,8,True
+Draymond Green,3,8,13,1,Cutting Layup Shot,1,-14,12,True
+Draymond Green,1,9,45,1,Cutting Layup Shot,1,-10,4,True
+Draymond Green,4,5,43,1,Cutting Layup Shot,2,0,20,True
+Draymond Green,2,3,50,1,Cutting Layup Shot,1,6,10,True
+Draymond Green,2,11,30,1,Cutting Layup Shot,1,-8,11,True
+Draymond Green,4,8,30,1,Cutting Layup Shot,1,12,8,True
+Draymond Green,4,0,34,1,Driving Dunk Shot,1,3,19,True
+Draymond Green,3,8,43,1,Driving Dunk Shot,1,5,12,True
+Draymond Green,3,8,34,1,Driving Dunk Shot,0,-3,7,True
+Draymond Green,3,0,4,1,Driving Dunk Shot,0,1,3,True
+Draymond Green,3,8,48,1,Driving Dunk Shot,0,4,-1,True
+Draymond Green,2,0,1,1,Driving Dunk Shot,1,-6,16,True
+Draymond Green,3,5,17,1,Driving Dunk Shot,1,11,0,True
+Draymond Green,2,3,2,1,Driving Dunk Shot,2,8,19,True
+Draymond Green,2,5,16,1,Driving Dunk Shot,1,-5,15,True
+Draymond Green,4,7,47,0,Driving Finger Roll Layup Shot,2,-12,24,True
+Draymond Green,2,1,36,0,Driving Finger Roll Layup Shot,9,-19,92,True
+Draymond Green,4,3,40,1,Driving Finger Roll Layup Shot,1,2,19,True
+Draymond Green,3,11,6,1,Driving Finger Roll Layup Shot,1,10,5,True
+Draymond Green,1,7,45,0,Driving Finger Roll Layup Shot,4,41,22,True
+Draymond Green,2,10,6,1,Driving Finger Roll Layup Shot,2,-12,18,True
+Draymond Green,2,4,13,1,Driving Finger Roll Layup Shot,1,-10,16,True
+Draymond Green,4,8,22,1,Driving Finger Roll Layup Shot,0,-3,-1,True
+Draymond Green,1,10,25,1,Driving Finger Roll Layup Shot,2,27,5,True
+Draymond Green,3,0,46,0,Driving Finger Roll Layup Shot,3,3,31,True
+Draymond Green,3,5,24,1,Driving Floating Bank Jump Shot,1,10,6,True
+Draymond Green,1,9,21,1,Driving Floating Bank Jump Shot,10,-98,36,True
+Draymond Green,1,6,49,0,Driving Floating Bank Jump Shot,6,51,37,True
+Draymond Green,1,9,13,0,Driving Floating Jump Shot,11,-8,110,True
+Draymond Green,3,9,20,1,Driving Floating Jump Shot,10,5,105,True
+Draymond Green,4,7,29,1,Driving Floating Jump Shot,9,22,92,True
+Draymond Green,2,1,16,1,Driving Floating Jump Shot,10,93,45,True
+Draymond Green,1,8,28,1,Driving Floating Jump Shot,9,93,9,True
+Draymond Green,1,7,3,1,Driving Floating Jump Shot,13,-48,130,True
+Draymond Green,2,8,9,0,Driving Floating Jump Shot,9,-65,69,True
+Draymond Green,1,11,0,0,Driving Hook Shot,3,9,30,True
+Draymond Green,3,9,34,0,Driving Hook Shot,2,24,13,True
+Draymond Green,3,6,58,1,Driving Hook Shot,4,41,18,True
+Draymond Green,2,10,3,0,Driving Hook Shot,9,9,98,True
+Draymond Green,1,10,38,0,Driving Layup Shot,3,-9,36,True
+Draymond Green,2,0,31,1,Driving Layup Shot,1,-13,10,True
+Draymond Green,3,0,28,1,Driving Layup Shot,1,-14,6,True
+Draymond Green,3,9,56,1,Driving Layup Shot,2,-16,13,True
+Draymond Green,1,2,52,0,Driving Layup Shot,3,2,32,True
+Draymond Green,3,9,43,0,Driving Layup Shot,5,-51,11,True
+Draymond Green,2,8,51,1,Driving Layup Shot,2,-9,25,True
+Draymond Green,2,5,16,1,Driving Layup Shot,1,5,9,True
+Draymond Green,4,5,25,0,Driving Layup Shot,0,-7,2,True
+Draymond Green,1,2,13,1,Driving Layup Shot,0,2,8,True
+Draymond Green,3,10,37,0,Driving Layup Shot,0,-3,4,True
+Draymond Green,2,4,59,0,Driving Layup Shot,2,25,10,True
+Draymond Green,3,0,36,1,Driving Layup Shot,1,6,12,True
+Draymond Green,3,8,4,0,Driving Layup Shot,1,-1,11,True
+Draymond Green,3,8,31,1,Driving Layup Shot,1,-6,15,True
+Draymond Green,4,8,50,0,Driving Layup Shot,0,-9,2,True
+Draymond Green,4,5,10,0,Driving Layup Shot,1,12,10,True
+Draymond Green,2,7,5,1,Driving Layup Shot,2,-24,9,True
+Draymond Green,1,10,13,1,Driving Layup Shot,1,-11,15,True
+Draymond Green,3,11,49,1,Driving Layup Shot,1,1,17,True
+Draymond Green,2,10,37,1,Driving Layup Shot,5,-34,43,True
+Draymond Green,3,10,6,1,Driving Layup Shot,0,3,4,True
+Draymond Green,4,7,18,0,Driving Layup Shot,2,20,9,True
+Draymond Green,2,9,18,1,Driving Layup Shot,1,-11,13,True
+Draymond Green,2,10,4,0,Driving Layup Shot,1,11,1,True
+Draymond Green,4,8,35,0,Driving Reverse Layup Shot,1,-11,14,True
+Draymond Green,4,11,9,1,Dunk Shot,2,14,19,True
+Draymond Green,3,8,14,1,Dunk Shot,0,-2,5,True
+Draymond Green,3,5,59,1,Dunk Shot,0,-3,-2,True
+Draymond Green,2,1,21,1,Dunk Shot,1,-5,15,True
+Draymond Green,1,9,30,1,Dunk Shot,1,2,10,True
+Draymond Green,1,6,3,1,Dunk Shot,1,-2,10,True
+Draymond Green,1,5,45,1,Dunk Shot,0,-3,3,True
+Draymond Green,1,7,33,0,Dunk Shot,1,14,11,True
+Draymond Green,2,3,21,1,Dunk Shot,1,-6,13,True
+Draymond Green,3,8,11,0,Dunk Shot,1,10,11,True
+Draymond Green,1,2,44,1,Fadeaway Jump Shot,17,141,105,True
+Draymond Green,1,6,25,1,Fadeaway Jump Shot,14,135,38,True
+Draymond Green,1,3,1,1,Floating Jump shot,8,52,64,True
+Draymond Green,2,3,36,0,Floating Jump shot,10,-20,108,True
+Draymond Green,3,11,9,0,Floating Jump shot,12,-88,91,True
+Draymond Green,3,4,28,0,Floating Jump shot,13,0,133,True
+Draymond Green,2,1,40,0,Floating Jump shot,10,7,104,True
+Draymond Green,1,6,55,0,Floating Jump shot,6,13,67,True
+Draymond Green,1,2,51,0,Floating Jump shot,11,-41,109,True
+Draymond Green,1,11,46,0,Floating Jump shot,13,-41,126,True
+Draymond Green,3,10,34,0,Floating Jump shot,12,0,121,True
+Draymond Green,4,4,39,1,Floating Jump shot,17,110,132,True
+Draymond Green,3,7,41,1,Floating Jump shot,11,-4,114,True
+Draymond Green,3,9,31,1,Floating Jump shot,13,-65,123,True
+Draymond Green,1,9,56,1,Floating Jump shot,10,-17,106,True
+Draymond Green,4,4,59,1,Floating Jump shot,11,-19,110,True
+Draymond Green,3,0,0,0,Floating Jump shot,15,4,152,True
+Draymond Green,1,8,30,0,Floating Jump shot,11,51,106,True
+Draymond Green,3,9,56,1,Floating Jump shot,8,2,80,True
+Draymond Green,2,10,32,0,Floating Jump shot,11,-8,117,True
+Draymond Green,3,3,12,0,Floating Jump shot,10,-26,103,True
+Draymond Green,1,8,16,0,Floating Jump shot,15,-135,85,True
+Draymond Green,2,3,44,0,Floating Jump shot,13,-1,132,True
+Draymond Green,1,6,39,0,Floating Jump shot,13,3,134,True
+Draymond Green,4,10,57,0,Floating Jump shot,11,119,-3,True
+Draymond Green,4,2,0,1,Floating Jump shot,9,14,99,True
+Draymond Green,3,10,54,0,Floating Jump shot,8,35,75,True
+Draymond Green,1,1,40,1,Floating Jump shot,6,43,50,True
+Draymond Green,4,1,23,0,Floating Jump shot,5,2,56,True
+Draymond Green,4,3,5,0,Hook Shot,6,22,62,True
+Draymond Green,2,2,55,0,Hook Shot,3,-11,30,True
+Draymond Green,1,10,24,0,Hook Shot,5,-9,59,True
+Draymond Green,1,7,10,0,Hook Shot,9,37,90,True
+Draymond Green,4,2,25,1,Hook Shot,5,-14,54,True
+Draymond Green,3,11,23,1,Hook Shot,9,-66,67,True
+Draymond Green,3,11,19,1,Jump Bank Shot,26,-123,232,False
+Draymond Green,2,1,33,1,Jump Bank Shot,5,2,55,True
+Draymond Green,4,0,39,0,Jump Shot,25,-87,235,False
+Draymond Green,1,5,4,0,Jump Shot,22,-227,5,False
+Draymond Green,2,0,0,0,Jump Shot,49,217,450,False
+Draymond Green,4,9,21,0,Jump Shot,29,-190,231,False
+Draymond Green,2,11,14,1,Jump Shot,27,-24,273,False
+Draymond Green,2,10,21,1,Jump Shot,14,145,26,True
+Draymond Green,3,5,31,1,Jump Shot,26,119,236,False
+Draymond Green,3,7,58,0,Jump Shot,26,-198,179,False
+Draymond Green,1,5,29,0,Jump Shot,25,-150,209,False
+Draymond Green,1,10,15,0,Jump Shot,25,-7,257,False
+Draymond Green,3,8,19,0,Jump Shot,17,-163,59,True
+Draymond Green,3,5,43,1,Jump Shot,27,-147,227,False
+Draymond Green,3,11,44,0,Jump Shot,23,231,-32,False
+Draymond Green,4,10,6,0,Jump Shot,24,-157,194,False
+Draymond Green,3,0,3,0,Jump Shot,24,7,247,False
+Draymond Green,2,0,32,1,Jump Shot,28,-147,242,False
+Draymond Green,4,6,22,0,Jump Shot,28,9,289,False
+Draymond Green,1,3,54,0,Jump Shot,25,188,168,False
+Draymond Green,4,8,44,1,Jump Shot,12,127,-2,True
+Draymond Green,1,7,46,0,Jump Shot,26,76,253,False
+Draymond Green,2,10,22,0,Jump Shot,25,24,252,False
+Draymond Green,3,10,57,0,Jump Shot,26,67,257,False
+Draymond Green,3,1,32,0,Jump Shot,26,-101,241,False
+Draymond Green,1,11,6,1,Jump Shot,24,-155,188,False
+Draymond Green,3,7,16,0,Jump Shot,26,-71,253,False
+Draymond Green,2,0,9,0,Jump Shot,20,5,208,True
+Draymond Green,1,9,2,0,Jump Shot,25,150,205,False
+Draymond Green,3,10,1,1,Jump Shot,25,-18,258,False
+Draymond Green,4,0,15,0,Jump Shot,30,130,273,False
+Draymond Green,1,10,40,0,Jump Shot,27,-183,204,False
+Draymond Green,3,10,24,0,Jump Shot,17,-63,164,True
+Draymond Green,3,7,36,1,Jump Shot,24,232,69,False
+Draymond Green,3,10,56,0,Jump Shot,27,176,208,False
+Draymond Green,2,11,35,0,Jump Shot,25,169,185,False
+Draymond Green,4,0,5,0,Jump Shot,25,228,124,False
+Draymond Green,1,7,22,0,Jump Shot,24,-14,247,False
+Draymond Green,4,8,2,0,Jump Shot,28,159,241,False
+Draymond Green,1,11,29,0,Jump Shot,27,-53,266,False
+Draymond Green,1,11,24,0,Jump Shot,24,-135,205,False
+Draymond Green,1,0,0,0,Jump Shot,46,-145,439,False
+Draymond Green,4,11,43,0,Jump Shot,23,232,18,False
+Draymond Green,3,1,31,0,Jump Shot,25,-179,184,False
+Draymond Green,2,6,48,0,Jump Shot,24,-190,162,False
+Draymond Green,3,1,36,1,Jump Shot,24,195,152,False
+Draymond Green,4,4,46,0,Jump Shot,24,205,134,False
+Draymond Green,2,0,43,1,Jump Shot,25,35,256,False
+Draymond Green,3,11,20,0,Jump Shot,25,53,253,False
+Draymond Green,3,11,27,0,Jump Shot,25,156,206,False
+Draymond Green,1,8,43,0,Jump Shot,23,232,47,False
+Draymond Green,4,8,57,0,Jump Shot,13,131,8,True
+Draymond Green,4,7,44,0,Jump Shot,25,-138,209,False
+Draymond Green,2,2,33,0,Jump Shot,25,107,233,False
+Draymond Green,3,10,44,0,Jump Shot,4,-6,47,True
+Draymond Green,3,10,49,0,Jump Shot,7,-16,69,True
+Draymond Green,2,10,58,0,Jump Shot,19,97,165,True
+Draymond Green,3,7,36,0,Jump Shot,25,8,251,False
+Draymond Green,2,10,49,0,Jump Shot,25,153,203,False
+Draymond Green,3,10,18,1,Jump Shot,24,-154,196,False
+Draymond Green,4,10,27,0,Jump Shot,28,-136,253,False
+Draymond Green,3,9,28,0,Jump Shot,26,-12,263,False
+Draymond Green,2,4,32,0,Jump Shot,25,-169,193,False
+Draymond Green,1,6,32,1,Jump Shot,11,3,112,True
+Draymond Green,4,8,43,0,Jump Shot,28,138,253,False
+Draymond Green,4,9,44,0,Jump Shot,26,-144,221,False
+Draymond Green,4,1,7,0,Jump Shot,28,-6,285,False
+Draymond Green,4,0,9,0,Jump Shot,32,157,281,False
+Draymond Green,3,1,13,0,Jump Shot,13,-133,37,True
+Draymond Green,3,10,47,1,Jump Shot,17,-114,137,True
+Draymond Green,1,11,19,0,Jump Shot,26,6,260,False
+Draymond Green,4,10,49,1,Jump Shot,27,-65,264,False
+Draymond Green,1,1,36,0,Jump Shot,27,-16,273,False
+Draymond Green,4,9,42,1,Jump Shot,25,-143,212,False
+Draymond Green,4,4,32,0,Jump Shot,24,161,190,False
+Draymond Green,1,0,43,1,Jump Shot,25,-22,253,False
+Draymond Green,3,11,22,0,Jump Shot,25,-168,186,False
+Draymond Green,1,10,19,1,Jump Shot,25,96,235,False
+Draymond Green,2,9,8,0,Jump Shot,24,-120,219,False
+Draymond Green,4,8,45,0,Jump Shot,28,-191,207,False
+Draymond Green,1,10,48,0,Jump Shot,28,147,247,False
+Draymond Green,4,1,46,1,Jump Shot,27,-213,178,False
+Draymond Green,3,5,3,0,Jump Shot,12,-121,31,True
+Draymond Green,2,0,43,0,Jump Shot,26,-141,226,False
+Draymond Green,4,8,58,0,Jump Shot,10,-11,109,True
+Draymond Green,2,0,35,0,Jump Shot,27,-126,239,False
+Draymond Green,2,9,22,0,Jump Shot,26,-5,269,False
+Draymond Green,3,7,22,0,Jump Shot,25,-120,229,False
+Draymond Green,3,0,1,0,Jump Shot,28,39,278,False
+Draymond Green,4,8,30,0,Jump Shot,25,-3,253,False
+Draymond Green,1,9,13,0,Jump Shot,28,3,280,False
+Draymond Green,3,10,29,0,Jump Shot,24,-36,245,False
+Draymond Green,2,8,3,0,Jump Shot,24,179,173,False
+Draymond Green,2,1,48,1,Jump Shot,27,144,238,False
+Draymond Green,2,2,50,1,Jump Shot,21,-119,185,True
+Draymond Green,4,2,47,0,Jump Shot,26,165,205,False
+Draymond Green,2,11,28,0,Jump Shot,27,-125,249,False
+Draymond Green,1,9,43,0,Jump Shot,25,-109,232,False
+Draymond Green,1,1,19,0,Jump Shot,23,231,19,False
+Draymond Green,1,3,23,0,Jump Shot,25,145,214,False
+Draymond Green,4,1,14,1,Jump Shot,21,-47,212,True
+Draymond Green,2,4,40,0,Jump Shot,26,-107,240,False
+Draymond Green,3,11,18,1,Jump Shot,24,57,239,False
+Draymond Green,2,5,16,1,Jump Shot,24,-63,239,False
+Draymond Green,2,7,32,0,Jump Shot,25,204,146,False
+Draymond Green,4,11,8,0,Jump Shot,21,-77,205,True
+Draymond Green,4,3,25,0,Jump Shot,5,53,5,True
+Draymond Green,4,6,8,1,Jump Shot,25,-35,256,False
+Draymond Green,1,11,47,0,Jump Shot,21,-72,206,True
+Draymond Green,1,7,40,0,Jump Shot,12,-117,34,True
+Draymond Green,1,11,31,0,Jump Shot,25,182,179,False
+Draymond Green,1,5,49,0,Jump Shot,26,-3,267,False
+Draymond Green,2,8,23,0,Jump Shot,24,-98,225,False
+Draymond Green,1,6,39,1,Jump Shot,26,150,224,False
+Draymond Green,1,5,45,0,Jump Shot,25,-101,235,False
+Draymond Green,2,0,4,1,Jump Shot,24,-69,239,False
+Draymond Green,3,8,48,0,Jump Shot,26,-106,238,False
+Draymond Green,2,0,54,0,Jump Shot,26,-155,209,False
+Draymond Green,4,4,7,0,Jump Shot,22,-221,48,False
+Draymond Green,2,9,59,0,Jump Shot,26,-85,247,False
+Draymond Green,3,9,55,0,Jump Shot,23,230,-1,False
+Draymond Green,4,10,26,1,Jump Shot,25,-2,256,False
+Draymond Green,3,11,24,0,Jump Shot,25,-117,227,False
+Draymond Green,4,8,36,1,Jump Shot,25,-86,245,False
+Draymond Green,4,6,41,0,Jump Shot,26,-70,251,False
+Draymond Green,3,10,0,0,Jump Shot,25,2,253,False
+Draymond Green,2,3,54,0,Jump Shot,21,85,202,True
+Draymond Green,1,8,13,0,Jump Shot,22,223,55,False
+Draymond Green,1,5,27,1,Jump Shot,26,-78,256,False
+Draymond Green,2,4,29,0,Jump Shot,25,-67,248,False
+Draymond Green,3,11,44,0,Jump Shot,24,-230,73,False
+Draymond Green,4,7,47,0,Jump Shot,31,-89,301,False
+Draymond Green,3,8,30,0,Jump Shot,28,-101,268,False
+Draymond Green,2,10,56,0,Jump Shot,26,177,198,False
+Draymond Green,1,11,1,0,Jump Shot,26,4,263,False
+Draymond Green,1,0,43,0,Jump Shot,25,-126,225,False
+Draymond Green,2,1,13,0,Jump Shot,18,-181,23,True
+Draymond Green,2,2,17,1,Jump Shot,25,-84,241,False
+Draymond Green,1,0,57,0,Jump Shot,13,-106,88,True
+Draymond Green,2,2,54,1,Jump Shot,25,79,246,False
+Draymond Green,3,7,33,0,Jump Shot,26,-5,261,False
+Draymond Green,1,2,4,0,Jump Shot,27,-24,270,False
+Draymond Green,3,6,14,1,Jump Shot,25,-55,245,False
+Draymond Green,3,8,22,0,Jump Shot,25,-135,214,False
+Draymond Green,4,2,22,0,Jump Shot,31,117,297,False
+Draymond Green,1,0,1,0,Jump Shot,31,-158,272,False
+Draymond Green,1,9,23,0,Jump Shot,26,70,254,False
+Draymond Green,2,2,7,0,Jump Shot,26,-61,253,False
+Draymond Green,2,3,10,0,Jump Shot,24,147,193,False
+Draymond Green,3,4,6,0,Jump Shot,22,228,-4,False
+Draymond Green,1,9,5,0,Jump Shot,24,228,88,False
+Draymond Green,2,4,57,0,Jump Shot,25,-60,245,False
+Draymond Green,3,10,13,1,Jump Shot,25,-170,190,False
+Draymond Green,1,1,5,0,Jump Shot,26,149,221,False
+Draymond Green,4,9,42,0,Jump Shot,17,84,148,True
+Draymond Green,3,2,7,0,Jump Shot,18,-94,157,True
+Draymond Green,3,6,41,1,Jump Shot,24,-132,211,False
+Draymond Green,3,8,54,1,Jump Shot,6,63,-2,True
+Draymond Green,4,8,3,0,Jump Shot,25,158,204,False
+Draymond Green,1,6,19,0,Jump Shot,25,-169,185,False
+Draymond Green,3,7,43,0,Jump Shot,25,146,210,False
+Draymond Green,1,7,35,0,Jump Shot,25,-1,256,False
+Draymond Green,2,8,45,0,Jump Shot,6,-55,41,True
+Draymond Green,3,9,49,0,Jump Shot,26,-166,208,False
+Draymond Green,1,7,8,0,Jump Shot,4,-9,47,True
+Draymond Green,4,4,45,0,Jump Shot,24,-155,195,False
+Draymond Green,3,5,21,0,Jump Shot,17,134,120,True
+Draymond Green,4,7,7,0,Jump Shot,24,-149,200,False
+Draymond Green,1,2,25,0,Jump Shot,24,-36,245,False
+Draymond Green,1,9,11,0,Jump Shot,24,-168,173,False
+Draymond Green,1,9,49,0,Jump Shot,10,22,99,True
+Draymond Green,1,0,47,0,Jump Shot,26,-16,268,False
+Draymond Green,4,7,46,0,Jump Shot,26,-192,179,False
+Draymond Green,1,8,40,1,Jump Shot,26,120,236,False
+Draymond Green,1,11,23,1,Jump Shot,25,85,241,False
+Draymond Green,2,8,9,0,Jump Shot,26,-129,229,False
+Draymond Green,1,11,41,1,Jump Shot,25,-76,242,False
+Draymond Green,2,0,56,1,Jump Shot,26,172,195,False
+Draymond Green,3,10,25,1,Jump Shot,26,-136,223,False
+Draymond Green,3,11,45,1,Jump Shot,25,-8,254,False
+Draymond Green,3,11,16,0,Jump Shot,25,-11,253,False
+Draymond Green,4,10,41,1,Jump Shot,28,-105,263,False
+Draymond Green,1,8,1,0,Jump Shot,16,150,75,True
+Draymond Green,4,10,14,0,Jump Shot,5,14,55,True
+Draymond Green,2,0,54,0,Jump Shot,25,-114,230,False
+Draymond Green,2,11,43,0,Jump Shot,26,-187,184,False
+Draymond Green,4,10,55,0,Jump Shot,26,2,260,False
+Draymond Green,3,10,25,0,Jump Shot,26,-85,251,False
+Draymond Green,1,9,10,0,Jump Shot,27,-7,274,False
+Draymond Green,2,3,3,1,Jump Shot,10,-30,97,True
+Draymond Green,1,3,8,0,Jump Shot,7,-25,75,True
+Draymond Green,1,0,52,0,Jump Shot,29,-136,262,False
+Draymond Green,3,2,6,1,Jump Shot,24,118,214,False
+Draymond Green,3,2,43,0,Jump Shot,17,120,125,True
+Draymond Green,1,5,23,0,Jump Shot,24,-20,243,False
+Draymond Green,3,10,44,0,Jump Shot,25,98,232,False
+Draymond Green,3,9,11,0,Jump Shot,25,-27,256,False
+Draymond Green,2,3,31,0,Jump Shot,25,90,241,False
+Draymond Green,2,7,0,0,Jump Shot,26,6,260,False
+Draymond Green,1,4,20,0,Jump Shot,22,-226,23,False
+Draymond Green,4,6,59,0,Jump Shot,25,61,247,False
+Draymond Green,1,11,27,0,Jump Shot,25,9,254,False
+Draymond Green,2,3,1,0,Jump Shot,8,-7,81,True
+Draymond Green,2,4,34,0,Jump Shot,23,-232,32,False
+Draymond Green,1,11,39,1,Jump Shot,25,97,241,False
+Draymond Green,4,2,11,1,Jump Shot,25,103,238,False
+Draymond Green,4,9,28,0,Jump Shot,27,-196,196,False
+Draymond Green,2,4,42,0,Jump Shot,25,-141,210,False
+Draymond Green,3,9,1,1,Jump Shot,25,-179,183,False
+Draymond Green,4,3,19,1,Jump Shot,26,-11,269,False
+Draymond Green,1,6,31,0,Jump Shot,26,52,260,False
+Draymond Green,4,0,1,0,Jump Shot,25,-187,174,False
+Draymond Green,4,4,19,0,Jump Shot,27,131,246,False
+Draymond Green,3,4,17,0,Jump Shot,8,-10,89,True
+Draymond Green,3,0,38,0,Layup Shot,4,-6,40,True
+Draymond Green,2,9,38,0,Layup Shot,3,-27,29,True
+Draymond Green,2,0,5,1,Layup Shot,1,0,15,True
+Draymond Green,3,9,59,1,Layup Shot,1,-16,5,True
+Draymond Green,3,9,29,0,Layup Shot,1,13,15,True
+Draymond Green,1,9,27,1,Layup Shot,2,18,22,True
+Draymond Green,3,7,44,0,Layup Shot,3,6,36,True
+Draymond Green,2,1,52,1,Layup Shot,1,1,19,True
+Draymond Green,1,6,42,1,Layup Shot,2,13,18,True
+Draymond Green,2,9,7,1,Layup Shot,2,-12,17,True
+Draymond Green,2,1,42,1,Layup Shot,3,-16,26,True
+Draymond Green,1,10,8,0,Layup Shot,3,-2,39,True
+Draymond Green,4,9,12,0,Layup Shot,3,-18,26,True
+Draymond Green,3,11,30,1,Layup Shot,1,-14,3,True
+Draymond Green,2,8,33,1,Layup Shot,2,-20,8,True
+Draymond Green,1,10,3,1,Layup Shot,1,9,15,True
+Draymond Green,4,6,46,0,Layup Shot,2,20,14,True
+Draymond Green,4,4,57,0,Layup Shot,1,7,17,True
+Draymond Green,4,11,21,1,Layup Shot,1,13,13,True
+Draymond Green,4,4,12,1,Layup Shot,2,-8,20,True
+Draymond Green,3,8,58,0,Layup Shot,1,-1,-10,True
+Draymond Green,4,2,3,1,Layup Shot,1,9,17,True
+Draymond Green,4,3,58,0,Layup Shot,9,-89,25,True
+Draymond Green,1,5,38,1,Layup Shot,2,-24,0,True
+Draymond Green,1,11,10,0,Layup Shot,2,-16,15,True
+Draymond Green,2,8,38,0,Layup Shot,2,11,17,True
+Draymond Green,4,3,32,1,Layup Shot,1,7,16,True
+Draymond Green,4,9,11,0,Layup Shot,2,23,17,True
+Draymond Green,3,10,54,1,Layup Shot,1,13,15,True
+Draymond Green,3,8,15,1,Layup Shot,1,-8,13,True
+Draymond Green,4,5,23,1,Layup Shot,1,5,17,True
+Draymond Green,1,7,47,1,Layup Shot,2,8,21,True
+Draymond Green,1,6,37,0,Layup Shot,2,-17,15,True
+Draymond Green,4,1,9,1,Layup Shot,1,11,15,True
+Draymond Green,3,10,21,0,Layup Shot,2,-19,15,True
+Draymond Green,2,8,14,1,Layup Shot,1,14,10,True
+Draymond Green,2,5,56,1,Layup Shot,2,-3,21,True
+Draymond Green,4,8,41,1,Layup Shot,1,11,7,True
+Draymond Green,4,11,29,1,Layup Shot,1,-11,15,True
+Draymond Green,2,1,49,0,Layup Shot,1,18,3,True
+Draymond Green,1,10,30,1,Layup Shot,1,-3,11,True
+Draymond Green,3,6,14,0,Layup Shot,2,-19,8,True
+Draymond Green,1,10,54,0,Layup Shot,1,-9,16,True
+Draymond Green,1,10,49,0,Layup Shot,1,10,11,True
+Draymond Green,2,10,19,1,Layup Shot,1,12,8,True
+Draymond Green,1,10,22,0,Layup Shot,0,-5,8,True
+Draymond Green,4,2,54,0,Layup Shot,0,3,7,True
+Draymond Green,3,7,33,1,Layup Shot,2,-24,16,True
+Draymond Green,2,5,51,0,Layup Shot,1,-9,8,True
+Draymond Green,2,1,46,1,Layup Shot,0,7,6,True
+Draymond Green,2,4,3,1,Layup Shot,1,16,-10,True
+Draymond Green,1,5,56,0,Layup Shot,1,-2,17,True
+Draymond Green,2,2,49,1,Layup Shot,1,-8,16,True
+Draymond Green,4,9,3,1,Layup Shot,1,-10,-1,True
+Draymond Green,2,7,36,0,Layup Shot,1,-7,17,True
+Draymond Green,1,11,31,1,Layup Shot,1,13,13,True
+Draymond Green,4,6,4,0,Layup Shot,2,-17,17,True
+Draymond Green,2,8,38,1,Layup Shot,0,5,5,True
+Draymond Green,2,1,8,0,Layup Shot,3,9,31,True
+Draymond Green,1,8,29,0,Layup Shot,1,-7,18,True
+Draymond Green,3,11,25,1,Pullup Jump shot,25,-114,224,False
+Draymond Green,4,9,59,1,Pullup Jump shot,26,-2,267,False
+Draymond Green,1,10,58,1,Pullup Jump shot,26,-171,200,False
+Draymond Green,1,7,58,0,Pullup Jump shot,7,-35,69,True
+Draymond Green,1,9,37,1,Pullup Jump shot,25,147,207,False
+Draymond Green,2,3,52,0,Pullup Jump shot,25,-92,236,False
+Draymond Green,4,0,50,1,Pullup Jump shot,28,-6,283,False
+Draymond Green,2,2,31,1,Pullup Jump shot,25,-78,244,False
+Draymond Green,4,5,40,1,Pullup Jump shot,26,-10,261,False
+Draymond Green,2,4,12,0,Pullup Jump shot,27,47,266,False
+Draymond Green,3,0,30,0,Pullup Jump shot,25,-169,197,False
+Draymond Green,4,1,30,0,Pullup Jump shot,25,-18,258,False
+Draymond Green,2,0,46,1,Pullup Jump shot,28,-158,241,False
+Draymond Green,4,9,14,0,Pullup Jump shot,25,-49,246,False
+Draymond Green,1,9,49,0,Pullup Jump shot,26,-136,223,False
+Draymond Green,1,11,18,1,Pullup Jump shot,25,-115,228,False
+Draymond Green,2,11,40,1,Pullup Jump shot,29,-12,294,False
+Draymond Green,1,9,17,1,Pullup Jump shot,25,1,255,False
+Draymond Green,3,8,18,1,Pullup Jump shot,27,140,236,False
+Draymond Green,2,8,30,0,Pullup Jump shot,27,97,256,False
+Draymond Green,2,3,3,0,Pullup Jump shot,27,-160,219,False
+Draymond Green,1,11,1,1,Pullup Jump shot,25,180,181,False
+Draymond Green,1,6,41,0,Pullup Jump shot,25,-10,256,False
+Draymond Green,3,11,45,0,Pullup Jump shot,25,-122,226,False
+Draymond Green,3,11,3,0,Pullup Jump shot,26,-149,221,False
+Draymond Green,4,11,24,1,Pullup Jump shot,26,-166,209,False
+Draymond Green,2,4,35,0,Pullup Jump shot,28,67,272,False
+Draymond Green,4,3,23,1,Pullup Jump shot,26,154,210,False
+Draymond Green,3,8,4,0,Pullup Jump shot,18,-93,158,True
+Draymond Green,1,0,1,0,Pullup Jump shot,27,-7,270,False
+Draymond Green,2,6,32,0,Pullup Jump shot,27,13,274,False
+Draymond Green,2,3,29,1,Pullup Jump shot,22,227,18,False
+Draymond Green,2,8,58,1,Pullup Jump shot,24,-176,172,False
+Draymond Green,1,9,37,1,Pullup Jump shot,26,167,204,False
+Draymond Green,1,11,20,1,Pullup Jump shot,27,-19,272,False
+Draymond Green,4,5,40,1,Pullup Jump shot,25,183,176,False
+Draymond Green,4,3,7,0,Pullup Jump shot,25,-152,205,False
+Draymond Green,4,0,47,1,Pullup Jump shot,25,79,239,False
+Draymond Green,1,8,10,1,Pullup Jump shot,26,-127,232,False
+Draymond Green,3,2,10,0,Pullup Jump shot,14,-95,106,True
+Draymond Green,2,2,13,0,Pullup Jump shot,17,-107,140,True
+Draymond Green,1,0,3,1,Putback Dunk Shot,0,0,-6,True
+Draymond Green,1,5,0,1,Putback Layup Shot,0,0,-6,True
+Draymond Green,3,4,50,1,Putback Layup Shot,5,2,57,True
+Draymond Green,1,6,51,0,Putback Layup Shot,2,0,21,True
+Draymond Green,1,9,18,1,Reverse Layup Shot,1,2,15,True
+Draymond Green,1,8,21,1,Reverse Layup Shot,1,-16,6,True
+Draymond Green,1,2,10,1,Reverse Layup Shot,1,-8,10,True
+Draymond Green,4,9,38,0,Reverse Layup Shot,1,12,9,True
+Draymond Green,1,11,11,1,Reverse Layup Shot,0,-5,-7,True
+Draymond Green,4,11,7,1,Reverse Layup Shot,2,11,24,True
+Draymond Green,1,8,10,1,Reverse Layup Shot,1,-9,9,True
+Draymond Green,3,8,53,1,Reverse Layup Shot,4,40,5,True
+Draymond Green,4,10,36,1,Running Dunk Shot,2,7,22,True
+Draymond Green,2,4,48,1,Running Dunk Shot,1,-2,18,True
+Draymond Green,1,0,20,1,Running Dunk Shot,0,3,7,True
+Draymond Green,3,5,42,1,Running Dunk Shot,1,-11,16,True
+Draymond Green,3,11,0,1,Running Dunk Shot,1,3,11,True
+Draymond Green,3,3,47,1,Running Dunk Shot,0,-3,4,True
+Draymond Green,2,8,7,1,Running Finger Roll Layup Shot,1,11,10,True
+Draymond Green,2,7,29,0,Running Finger Roll Layup Shot,0,5,3,True
+Draymond Green,1,0,5,1,Running Jump Shot,26,134,232,False
+Draymond Green,4,10,30,1,Running Jump Shot,24,-19,243,False
+Draymond Green,4,6,56,1,Running Jump Shot,26,-8,267,False
+Draymond Green,2,3,4,0,Running Jump Shot,28,-11,286,False
+Draymond Green,3,2,49,1,Running Jump Shot,29,-12,296,False
+Draymond Green,1,11,11,0,Running Jump Shot,27,92,262,False
+Draymond Green,4,3,51,1,Running Jump Shot,25,-24,258,False
+Draymond Green,1,10,37,1,Running Layup Shot,2,-1,26,True
+Draymond Green,3,7,4,1,Running Layup Shot,2,22,9,True
+Draymond Green,4,4,52,1,Running Layup Shot,0,1,6,True
+Draymond Green,3,8,11,1,Running Layup Shot,1,-17,6,True
+Draymond Green,1,9,47,0,Running Layup Shot,1,6,11,True
+Draymond Green,3,9,43,1,Running Layup Shot,2,20,13,True
+Draymond Green,3,5,46,1,Running Layup Shot,2,9,27,True
+Draymond Green,3,6,4,0,Running Layup Shot,3,-32,13,True
+Draymond Green,1,6,23,1,Running Layup Shot,1,6,18,True
+Draymond Green,1,4,15,0,Running Layup Shot,2,-19,10,True
+Draymond Green,4,10,7,1,Running Layup Shot,1,-17,10,True
+Draymond Green,3,8,21,1,Running Layup Shot,4,1,41,True
+Draymond Green,3,9,29,1,Running Pull-Up Jump Shot,18,51,174,True
+Draymond Green,2,10,49,0,Running Pull-Up Jump Shot,26,-19,266,False
+Draymond Green,1,6,25,0,Step Back Jump shot,11,111,31,True
+Draymond Green,2,4,35,0,Step Back Jump shot,18,-29,180,True
+Draymond Green,1,6,8,0,Step Back Jump shot,19,-117,153,True
+Draymond Green,3,5,42,0,Step Back Jump shot,24,209,131,False
+Draymond Green,4,9,28,1,Tip Layup Shot,0,0,-6,True
+Draymond Green,1,7,36,0,Tip Layup Shot,0,0,-6,True
+Draymond Green,1,6,46,0,Tip Layup Shot,0,-3,8,True
+Draymond Green,1,10,55,1,Tip Layup Shot,0,0,-6,True
+Draymond Green,4,1,22,0,Tip Layup Shot,0,0,-6,True
+Draymond Green,3,8,13,0,Tip Layup Shot,0,0,-6,True
+Draymond Green,3,6,12,0,Tip Layup Shot,0,0,-6,True
+Draymond Green,4,1,31,1,Tip Layup Shot,0,0,-6,True
+Draymond Green,5,0,10,0,Tip Layup Shot,0,0,-6,True
+Draymond Green,4,5,55,1,Tip Layup Shot,0,0,-6,True
+Draymond Green,1,1,49,1,Tip Layup Shot,0,0,-6,True
+Draymond Green,3,6,10,0,Tip Layup Shot,2,-4,26,True
+Draymond Green,4,9,36,0,Tip Layup Shot,2,9,18,True
+Draymond Green,1,1,22,1,Tip Layup Shot,0,0,-6,True
+Draymond Green,1,10,20,0,Tip Layup Shot,0,0,-6,True
+Draymond Green,2,3,26,0,Tip Layup Shot,0,0,-6,True
+Draymond Green,1,10,29,0,Tip Layup Shot,0,0,-6,True
+Draymond Green,2,0,59,0,Tip Layup Shot,0,0,-6,True
+Draymond Green,2,3,18,1,Tip Layup Shot,0,0,-6,True
+Draymond Green,3,8,47,1,Tip Layup Shot,0,0,-6,True
+Draymond Green,3,7,3,0,Tip Layup Shot,0,0,-6,True
+Draymond Green,3,10,18,0,Tip Layup Shot,0,0,-6,True
+Draymond Green,3,6,37,1,Turnaround Fadeaway Bank Jump Shot,12,-100,69,True
+Draymond Green,4,10,54,0,Turnaround Fadeaway shot,12,59,107,True
+Draymond Green,3,9,10,0,Turnaround Fadeaway shot,12,-119,51,True
+Draymond Green,3,11,39,0,Turnaround Fadeaway shot,11,-100,66,True
+Draymond Green,2,1,38,0,Turnaround Fadeaway shot,8,57,68,True
+Draymond Green,2,0,4,1,Turnaround Hook Shot,5,-6,57,True
+Draymond Green,1,3,18,1,Turnaround Hook Shot,5,-14,58,True
+Draymond Green,4,7,44,0,Turnaround Hook Shot,9,47,83,True
+Draymond Green,3,5,38,0,Turnaround Jump Shot,8,11,80,True
+Draymond Green,2,1,59,1,Turnaround Jump Shot,6,-16,65,True
+Draymond Green,4,9,30,0,Turnaround Jump Shot,16,123,110,True
+Draymond Green,3,1,42,1,Turnaround Jump Shot,14,142,38,True
+Draymond Green,2,10,44,1,Turnaround Jump Shot,9,-12,91,True

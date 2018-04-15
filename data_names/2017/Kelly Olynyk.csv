@@ -1,0 +1,550 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Kelly Olynyk,2,9,39,1,Alley Oop Dunk Shot,0,9,3,True
+Kelly Olynyk,4,4,44,1,Alley Oop Dunk Shot,0,4,5,True
+Kelly Olynyk,3,5,8,1,Alley Oop Dunk Shot,0,4,2,True
+Kelly Olynyk,4,3,9,1,Alley Oop Layup shot,0,-5,7,True
+Kelly Olynyk,2,5,49,1,Alley Oop Layup shot,1,-8,13,True
+Kelly Olynyk,1,3,36,1,Cutting Dunk Shot,0,6,7,True
+Kelly Olynyk,4,10,30,1,Cutting Dunk Shot,0,-3,4,True
+Kelly Olynyk,4,0,14,1,Cutting Dunk Shot,0,-4,3,True
+Kelly Olynyk,4,9,9,1,Cutting Finger Roll Layup Shot,0,0,6,True
+Kelly Olynyk,2,7,0,1,Cutting Layup Shot,2,19,8,True
+Kelly Olynyk,3,4,19,1,Cutting Layup Shot,2,-5,28,True
+Kelly Olynyk,2,1,52,1,Cutting Layup Shot,1,-16,2,True
+Kelly Olynyk,4,8,29,0,Cutting Layup Shot,2,-16,17,True
+Kelly Olynyk,4,1,9,1,Cutting Layup Shot,4,20,42,True
+Kelly Olynyk,4,0,39,1,Cutting Layup Shot,0,5,4,True
+Kelly Olynyk,4,2,40,1,Cutting Layup Shot,1,14,-2,True
+Kelly Olynyk,4,6,33,1,Cutting Layup Shot,1,-12,-1,True
+Kelly Olynyk,3,7,56,1,Cutting Layup Shot,0,6,0,True
+Kelly Olynyk,3,0,37,1,Cutting Layup Shot,1,-17,7,True
+Kelly Olynyk,4,3,27,1,Cutting Layup Shot,1,-17,8,True
+Kelly Olynyk,2,10,30,0,Cutting Layup Shot,4,40,17,True
+Kelly Olynyk,1,0,41,1,Cutting Layup Shot,1,5,13,True
+Kelly Olynyk,2,5,9,1,Cutting Layup Shot,0,6,4,True
+Kelly Olynyk,1,10,26,1,Cutting Layup Shot,1,17,0,True
+Kelly Olynyk,4,7,43,1,Cutting Layup Shot,0,0,6,True
+Kelly Olynyk,4,7,49,1,Cutting Layup Shot,2,28,8,True
+Kelly Olynyk,4,8,27,1,Cutting Layup Shot,1,9,13,True
+Kelly Olynyk,2,7,29,1,Cutting Layup Shot,0,8,-2,True
+Kelly Olynyk,3,4,46,1,Cutting Layup Shot,0,-3,4,True
+Kelly Olynyk,2,6,7,1,Driving Dunk Shot,0,5,6,True
+Kelly Olynyk,4,6,58,1,Driving Dunk Shot,0,-5,-6,True
+Kelly Olynyk,4,5,41,1,Driving Dunk Shot,1,3,10,True
+Kelly Olynyk,4,11,9,1,Driving Dunk Shot,2,4,22,True
+Kelly Olynyk,2,7,2,1,Driving Dunk Shot,3,-10,32,True
+Kelly Olynyk,4,8,4,1,Driving Dunk Shot,1,8,8,True
+Kelly Olynyk,2,9,42,1,Driving Dunk Shot,1,3,14,True
+Kelly Olynyk,2,9,59,1,Driving Dunk Shot,1,-3,10,True
+Kelly Olynyk,3,7,16,1,Driving Dunk Shot,0,-2,8,True
+Kelly Olynyk,3,5,16,1,Driving Finger Roll Layup Shot,2,-7,21,True
+Kelly Olynyk,2,9,15,1,Driving Finger Roll Layup Shot,1,-9,10,True
+Kelly Olynyk,4,3,21,0,Driving Finger Roll Layup Shot,3,27,16,True
+Kelly Olynyk,1,0,36,1,Driving Finger Roll Layup Shot,2,9,24,True
+Kelly Olynyk,4,7,58,1,Driving Finger Roll Layup Shot,1,0,17,True
+Kelly Olynyk,4,10,23,1,Driving Finger Roll Layup Shot,1,3,14,True
+Kelly Olynyk,4,9,12,1,Driving Finger Roll Layup Shot,1,-9,10,True
+Kelly Olynyk,2,9,50,1,Driving Finger Roll Layup Shot,2,-5,20,True
+Kelly Olynyk,2,6,48,1,Driving Finger Roll Layup Shot,2,21,-2,True
+Kelly Olynyk,3,0,32,1,Driving Finger Roll Layup Shot,0,-8,1,True
+Kelly Olynyk,1,4,11,1,Driving Finger Roll Layup Shot,3,11,30,True
+Kelly Olynyk,3,0,0,1,Driving Finger Roll Layup Shot,1,-2,13,True
+Kelly Olynyk,1,0,8,0,Driving Floating Jump Shot,10,18,104,True
+Kelly Olynyk,1,4,27,1,Driving Floating Jump Shot,6,-67,8,True
+Kelly Olynyk,3,0,8,0,Driving Floating Jump Shot,9,-9,96,True
+Kelly Olynyk,1,1,47,0,Driving Floating Jump Shot,7,71,31,True
+Kelly Olynyk,1,6,41,0,Driving Floating Jump Shot,8,24,79,True
+Kelly Olynyk,2,10,34,1,Driving Layup Shot,2,24,9,True
+Kelly Olynyk,1,2,21,0,Driving Layup Shot,4,13,40,True
+Kelly Olynyk,2,4,32,1,Driving Layup Shot,1,12,13,True
+Kelly Olynyk,1,2,16,0,Driving Layup Shot,2,-14,17,True
+Kelly Olynyk,3,1,15,1,Driving Layup Shot,1,-1,12,True
+Kelly Olynyk,3,9,6,1,Driving Layup Shot,1,-8,6,True
+Kelly Olynyk,4,1,0,1,Driving Layup Shot,4,-23,33,True
+Kelly Olynyk,4,0,12,1,Driving Layup Shot,2,-1,20,True
+Kelly Olynyk,4,1,21,1,Driving Layup Shot,0,0,6,True
+Kelly Olynyk,1,2,20,1,Driving Layup Shot,0,1,4,True
+Kelly Olynyk,4,3,19,0,Driving Layup Shot,1,-11,8,True
+Kelly Olynyk,4,7,21,0,Driving Layup Shot,1,4,10,True
+Kelly Olynyk,1,3,4,0,Driving Layup Shot,5,20,53,True
+Kelly Olynyk,2,6,17,1,Driving Layup Shot,1,-11,10,True
+Kelly Olynyk,2,6,36,1,Driving Layup Shot,1,5,15,True
+Kelly Olynyk,1,11,41,1,Driving Layup Shot,4,36,26,True
+Kelly Olynyk,4,3,15,0,Driving Layup Shot,2,-11,17,True
+Kelly Olynyk,2,5,14,0,Driving Layup Shot,2,-16,15,True
+Kelly Olynyk,4,6,33,1,Driving Layup Shot,1,16,11,True
+Kelly Olynyk,4,5,0,1,Driving Layup Shot,3,-7,32,True
+Kelly Olynyk,3,10,3,0,Driving Layup Shot,4,-40,6,True
+Kelly Olynyk,3,2,41,1,Driving Layup Shot,1,-13,6,True
+Kelly Olynyk,4,2,40,1,Driving Layup Shot,1,-14,6,True
+Kelly Olynyk,2,3,9,0,Driving Layup Shot,2,-15,19,True
+Kelly Olynyk,1,8,11,1,Driving Layup Shot,0,-6,3,True
+Kelly Olynyk,4,2,45,1,Driving Layup Shot,2,-1,21,True
+Kelly Olynyk,2,2,2,1,Driving Layup Shot,1,8,12,True
+Kelly Olynyk,1,1,7,1,Driving Layup Shot,2,-20,10,True
+Kelly Olynyk,2,0,3,0,Driving Layup Shot,1,-8,18,True
+Kelly Olynyk,2,7,51,1,Driving Reverse Layup Shot,1,8,7,True
+Kelly Olynyk,1,3,8,0,Driving Reverse Layup Shot,1,-11,-6,True
+Kelly Olynyk,4,10,1,1,Driving Reverse Layup Shot,1,-7,15,True
+Kelly Olynyk,2,7,29,1,Dunk Shot,0,-4,9,True
+Kelly Olynyk,4,4,52,1,Dunk Shot,1,3,17,True
+Kelly Olynyk,2,6,21,0,Fadeaway Jump Shot,25,-135,211,False
+Kelly Olynyk,3,5,48,1,Fadeaway Jump Shot,10,20,99,True
+Kelly Olynyk,1,9,22,0,Fadeaway Jump Shot,13,137,5,True
+Kelly Olynyk,1,2,39,1,Finger Roll Layup Shot,2,-19,21,True
+Kelly Olynyk,1,9,55,0,Finger Roll Layup Shot,3,4,36,True
+Kelly Olynyk,2,7,57,1,Finger Roll Layup Shot,1,-14,8,True
+Kelly Olynyk,4,4,6,1,Finger Roll Layup Shot,1,13,10,True
+Kelly Olynyk,4,4,1,1,Finger Roll Layup Shot,0,-6,2,True
+Kelly Olynyk,3,2,44,1,Finger Roll Layup Shot,9,-92,22,True
+Kelly Olynyk,4,8,35,1,Finger Roll Layup Shot,0,-2,6,True
+Kelly Olynyk,4,5,44,1,Finger Roll Layup Shot,1,8,8,True
+Kelly Olynyk,2,4,44,1,Finger Roll Layup Shot,3,15,27,True
+Kelly Olynyk,2,9,55,1,Finger Roll Layup Shot,1,13,13,True
+Kelly Olynyk,1,7,14,1,Finger Roll Layup Shot,4,9,40,True
+Kelly Olynyk,4,8,12,1,Finger Roll Layup Shot,2,5,23,True
+Kelly Olynyk,4,6,34,1,Finger Roll Layup Shot,1,-9,13,True
+Kelly Olynyk,4,10,18,1,Floating Jump shot,5,24,53,True
+Kelly Olynyk,4,5,0,1,Floating Jump shot,7,31,70,True
+Kelly Olynyk,1,2,47,0,Floating Jump shot,2,7,22,True
+Kelly Olynyk,3,11,39,0,Floating Jump shot,13,54,125,True
+Kelly Olynyk,1,10,1,0,Floating Jump shot,10,-18,102,True
+Kelly Olynyk,4,0,53,0,Floating Jump shot,7,-20,68,True
+Kelly Olynyk,2,11,13,1,Hook Shot,5,40,43,True
+Kelly Olynyk,1,1,8,1,Hook Shot,7,-52,59,True
+Kelly Olynyk,4,9,5,0,Hook Shot,4,30,32,True
+Kelly Olynyk,1,6,2,1,Hook Shot,2,25,12,True
+Kelly Olynyk,3,4,19,0,Hook Shot,6,18,58,True
+Kelly Olynyk,4,7,52,0,Hook Shot,3,24,25,True
+Kelly Olynyk,1,5,1,0,Hook Shot,3,0,30,True
+Kelly Olynyk,4,0,42,0,Hook Shot,3,26,23,True
+Kelly Olynyk,4,4,2,1,Hook Shot,5,-29,48,True
+Kelly Olynyk,2,0,25,1,Hook Shot,5,-33,38,True
+Kelly Olynyk,2,2,40,0,Hook Shot,6,-31,52,True
+Kelly Olynyk,4,7,43,0,Jump Bank Shot,6,-41,53,True
+Kelly Olynyk,2,9,41,1,Jump Bank Shot,1,-6,10,True
+Kelly Olynyk,3,3,23,1,Jump Bank Shot,5,-32,46,True
+Kelly Olynyk,3,0,38,0,Jump Bank Shot,10,-89,50,True
+Kelly Olynyk,3,3,10,0,Jump Shot,26,-164,211,False
+Kelly Olynyk,4,10,27,0,Jump Shot,24,-226,102,False
+Kelly Olynyk,4,7,7,0,Jump Shot,25,117,227,False
+Kelly Olynyk,2,10,35,0,Jump Shot,24,229,92,False
+Kelly Olynyk,2,6,1,0,Jump Shot,24,-79,236,False
+Kelly Olynyk,4,8,36,1,Jump Shot,23,230,-1,False
+Kelly Olynyk,4,11,34,1,Jump Shot,25,55,246,False
+Kelly Olynyk,1,1,31,1,Jump Shot,8,-13,80,True
+Kelly Olynyk,1,0,8,0,Jump Shot,27,74,266,False
+Kelly Olynyk,4,10,59,1,Jump Shot,26,-55,258,False
+Kelly Olynyk,2,7,43,0,Jump Shot,13,120,71,True
+Kelly Olynyk,2,10,51,1,Jump Shot,25,-70,240,False
+Kelly Olynyk,1,0,28,1,Jump Shot,24,127,213,False
+Kelly Olynyk,2,7,47,0,Jump Shot,26,78,250,False
+Kelly Olynyk,2,8,46,1,Jump Shot,27,127,248,False
+Kelly Olynyk,4,6,19,0,Jump Shot,27,102,257,False
+Kelly Olynyk,4,8,42,0,Jump Shot,17,-3,173,True
+Kelly Olynyk,2,5,59,0,Jump Shot,24,240,46,False
+Kelly Olynyk,4,6,4,0,Jump Shot,24,130,210,False
+Kelly Olynyk,1,1,5,0,Jump Shot,26,-18,261,False
+Kelly Olynyk,1,0,1,0,Jump Shot,11,-85,77,True
+Kelly Olynyk,3,1,53,1,Jump Shot,23,228,52,False
+Kelly Olynyk,1,8,54,1,Jump Shot,27,203,188,False
+Kelly Olynyk,3,11,25,0,Jump Shot,12,-3,120,True
+Kelly Olynyk,3,7,26,0,Jump Shot,27,-196,190,False
+Kelly Olynyk,3,5,27,0,Jump Shot,26,-159,218,False
+Kelly Olynyk,1,9,32,0,Jump Shot,20,103,179,True
+Kelly Olynyk,4,10,29,0,Jump Shot,26,163,203,False
+Kelly Olynyk,3,0,53,0,Jump Shot,23,-232,16,False
+Kelly Olynyk,4,11,36,0,Jump Shot,12,106,69,True
+Kelly Olynyk,2,8,22,0,Jump Shot,25,182,179,False
+Kelly Olynyk,1,3,18,0,Jump Shot,25,192,167,False
+Kelly Olynyk,2,0,8,0,Jump Shot,20,193,75,True
+Kelly Olynyk,4,4,40,1,Jump Shot,25,117,226,False
+Kelly Olynyk,1,2,36,0,Jump Shot,24,-106,224,False
+Kelly Olynyk,1,4,58,1,Jump Shot,24,-71,236,False
+Kelly Olynyk,1,0,37,0,Jump Shot,25,155,201,False
+Kelly Olynyk,2,8,44,0,Jump Shot,24,-150,194,False
+Kelly Olynyk,1,0,6,1,Jump Shot,24,155,195,False
+Kelly Olynyk,1,1,8,0,Jump Shot,24,191,161,False
+Kelly Olynyk,4,7,48,0,Jump Shot,18,-133,127,True
+Kelly Olynyk,3,1,47,0,Jump Shot,25,-169,188,False
+Kelly Olynyk,2,3,46,0,Jump Shot,25,-20,256,False
+Kelly Olynyk,2,4,15,1,Jump Shot,28,-175,230,False
+Kelly Olynyk,2,6,10,1,Jump Shot,25,-132,214,False
+Kelly Olynyk,2,6,33,1,Jump Shot,24,205,139,False
+Kelly Olynyk,3,1,35,0,Jump Shot,25,-84,236,False
+Kelly Olynyk,2,11,0,1,Jump Shot,23,231,29,False
+Kelly Olynyk,3,3,10,1,Jump Shot,8,-41,72,True
+Kelly Olynyk,4,10,7,0,Jump Shot,26,229,125,False
+Kelly Olynyk,2,3,2,0,Jump Shot,26,58,254,False
+Kelly Olynyk,2,10,15,0,Jump Shot,18,-172,68,True
+Kelly Olynyk,2,0,1,0,Jump Shot,27,-98,257,False
+Kelly Olynyk,2,8,39,0,Jump Shot,26,154,210,False
+Kelly Olynyk,1,4,40,1,Jump Shot,24,166,181,False
+Kelly Olynyk,1,4,4,1,Jump Shot,25,-130,221,False
+Kelly Olynyk,4,9,56,0,Jump Shot,4,28,34,True
+Kelly Olynyk,3,2,10,0,Jump Shot,22,172,146,True
+Kelly Olynyk,2,6,35,0,Jump Shot,22,160,157,True
+Kelly Olynyk,4,1,5,1,Jump Shot,24,190,157,False
+Kelly Olynyk,4,4,35,0,Jump Shot,23,230,15,False
+Kelly Olynyk,1,4,30,0,Jump Shot,23,-232,30,False
+Kelly Olynyk,4,5,7,1,Jump Shot,23,232,-5,False
+Kelly Olynyk,2,11,48,1,Jump Shot,25,-206,143,False
+Kelly Olynyk,4,8,35,1,Jump Shot,25,107,232,False
+Kelly Olynyk,2,1,40,0,Jump Shot,21,-118,178,True
+Kelly Olynyk,4,2,48,1,Jump Shot,25,152,201,False
+Kelly Olynyk,2,10,23,0,Jump Shot,25,191,176,False
+Kelly Olynyk,5,2,26,0,Jump Shot,26,-228,142,False
+Kelly Olynyk,4,6,4,1,Jump Shot,27,119,243,False
+Kelly Olynyk,3,0,37,0,Jump Shot,5,-38,39,True
+Kelly Olynyk,4,4,35,0,Jump Shot,28,122,254,False
+Kelly Olynyk,3,2,55,0,Jump Shot,29,-202,214,False
+Kelly Olynyk,1,5,22,0,Jump Shot,29,193,220,False
+Kelly Olynyk,5,0,2,0,Jump Shot,26,150,221,False
+Kelly Olynyk,2,8,13,0,Jump Shot,24,240,26,False
+Kelly Olynyk,5,0,17,1,Jump Shot,27,-163,226,False
+Kelly Olynyk,2,11,41,0,Jump Shot,14,141,17,True
+Kelly Olynyk,2,5,33,1,Jump Shot,22,228,10,False
+Kelly Olynyk,3,3,41,0,Jump Shot,24,65,236,False
+Kelly Olynyk,2,9,3,0,Jump Shot,25,113,225,False
+Kelly Olynyk,2,3,24,1,Jump Shot,21,-5,212,True
+Kelly Olynyk,2,6,7,0,Jump Shot,24,-158,192,False
+Kelly Olynyk,3,0,43,1,Jump Shot,24,155,189,False
+Kelly Olynyk,3,4,59,1,Jump Shot,24,14,249,False
+Kelly Olynyk,2,1,13,0,Jump Shot,24,-95,226,False
+Kelly Olynyk,2,8,42,1,Jump Shot,24,163,186,False
+Kelly Olynyk,2,11,16,1,Jump Shot,24,152,194,False
+Kelly Olynyk,4,9,26,0,Jump Shot,25,-73,241,False
+Kelly Olynyk,4,3,52,0,Jump Shot,25,119,220,False
+Kelly Olynyk,4,6,4,0,Jump Shot,24,-107,215,False
+Kelly Olynyk,4,8,14,0,Jump Shot,22,-221,9,False
+Kelly Olynyk,3,2,19,1,Jump Shot,21,123,176,True
+Kelly Olynyk,4,9,10,0,Jump Shot,25,-162,195,False
+Kelly Olynyk,3,1,32,1,Jump Shot,23,230,8,False
+Kelly Olynyk,2,8,29,1,Jump Shot,17,98,142,True
+Kelly Olynyk,1,1,5,0,Jump Shot,25,21,254,False
+Kelly Olynyk,4,6,47,1,Jump Shot,28,-145,241,False
+Kelly Olynyk,3,1,26,0,Jump Shot,20,-133,153,True
+Kelly Olynyk,2,10,5,1,Jump Shot,27,56,269,False
+Kelly Olynyk,1,1,5,0,Jump Shot,25,128,221,False
+Kelly Olynyk,3,1,31,0,Jump Shot,27,-163,227,False
+Kelly Olynyk,4,6,15,0,Jump Shot,14,-147,-15,True
+Kelly Olynyk,2,1,2,1,Jump Shot,26,134,225,False
+Kelly Olynyk,4,10,45,0,Jump Shot,25,-159,196,False
+Kelly Olynyk,1,7,14,0,Jump Shot,25,174,190,False
+Kelly Olynyk,1,8,14,0,Jump Shot,25,154,209,False
+Kelly Olynyk,4,11,17,0,Jump Shot,5,-46,34,True
+Kelly Olynyk,2,8,9,1,Jump Shot,25,145,215,False
+Kelly Olynyk,2,9,46,0,Jump Shot,26,161,208,False
+Kelly Olynyk,2,0,5,0,Jump Shot,27,100,256,False
+Kelly Olynyk,4,3,6,0,Jump Shot,26,-207,163,False
+Kelly Olynyk,2,3,37,0,Jump Shot,24,172,180,False
+Kelly Olynyk,3,9,17,1,Jump Shot,27,179,211,False
+Kelly Olynyk,4,5,26,0,Jump Shot,27,-195,194,False
+Kelly Olynyk,2,8,55,0,Jump Shot,27,209,172,False
+Kelly Olynyk,2,5,50,0,Jump Shot,26,244,106,False
+Kelly Olynyk,1,11,32,0,Jump Shot,24,-19,247,False
+Kelly Olynyk,1,9,9,0,Jump Shot,23,-233,29,False
+Kelly Olynyk,4,10,52,0,Jump Shot,26,-145,227,False
+Kelly Olynyk,1,9,6,0,Jump Shot,22,-228,17,False
+Kelly Olynyk,4,0,8,0,Jump Shot,25,-133,219,False
+Kelly Olynyk,2,6,10,0,Jump Shot,26,-188,193,False
+Kelly Olynyk,3,0,30,1,Jump Shot,25,-130,222,False
+Kelly Olynyk,2,8,37,0,Jump Shot,26,-179,193,False
+Kelly Olynyk,4,0,48,0,Jump Shot,25,123,225,False
+Kelly Olynyk,4,5,7,1,Jump Shot,25,-129,218,False
+Kelly Olynyk,2,9,9,0,Jump Shot,26,110,236,False
+Kelly Olynyk,2,7,27,0,Jump Shot,26,196,179,False
+Kelly Olynyk,2,6,28,0,Jump Shot,25,-122,224,False
+Kelly Olynyk,2,5,13,0,Jump Shot,26,20,260,False
+Kelly Olynyk,2,4,16,0,Jump Shot,24,241,-4,False
+Kelly Olynyk,4,6,25,0,Jump Shot,25,78,243,False
+Kelly Olynyk,1,0,51,1,Jump Shot,7,39,67,True
+Kelly Olynyk,4,8,46,0,Jump Shot,25,-155,206,False
+Kelly Olynyk,2,9,58,0,Jump Shot,24,-184,157,False
+Kelly Olynyk,2,11,9,0,Jump Shot,13,25,132,True
+Kelly Olynyk,1,2,42,1,Jump Shot,24,-199,146,False
+Kelly Olynyk,2,10,49,1,Jump Shot,24,18,242,False
+Kelly Olynyk,1,3,55,0,Jump Shot,26,-176,192,False
+Kelly Olynyk,3,2,42,0,Jump Shot,26,172,196,False
+Kelly Olynyk,3,0,42,0,Jump Shot,25,-116,223,False
+Kelly Olynyk,3,3,1,1,Jump Shot,12,4,122,True
+Kelly Olynyk,2,5,10,0,Jump Shot,25,-71,242,False
+Kelly Olynyk,2,7,52,0,Jump Shot,25,-129,225,False
+Kelly Olynyk,3,5,37,1,Jump Shot,27,-193,193,False
+Kelly Olynyk,3,2,31,0,Jump Shot,27,-186,206,False
+Kelly Olynyk,3,4,35,0,Jump Shot,26,41,263,False
+Kelly Olynyk,1,3,18,0,Jump Shot,15,155,30,True
+Kelly Olynyk,2,9,35,0,Jump Shot,26,203,163,False
+Kelly Olynyk,2,5,39,0,Jump Shot,23,-230,-7,False
+Kelly Olynyk,3,8,19,1,Jump Shot,25,212,137,False
+Kelly Olynyk,4,6,58,0,Jump Shot,27,-7,273,False
+Kelly Olynyk,3,3,43,0,Jump Shot,27,-171,211,False
+Kelly Olynyk,2,10,26,0,Jump Shot,26,116,234,False
+Kelly Olynyk,1,3,57,1,Jump Shot,24,-207,136,False
+Kelly Olynyk,2,4,35,1,Jump Shot,13,-44,131,True
+Kelly Olynyk,3,1,36,1,Jump Shot,24,-225,84,False
+Kelly Olynyk,4,4,13,1,Jump Shot,25,174,190,False
+Kelly Olynyk,1,11,23,0,Jump Shot,26,-169,200,False
+Kelly Olynyk,4,11,9,0,Jump Shot,25,-213,141,False
+Kelly Olynyk,3,11,40,1,Jump Shot,24,91,227,False
+Kelly Olynyk,3,4,35,1,Jump Shot,25,-40,252,False
+Kelly Olynyk,4,9,32,1,Jump Shot,25,162,200,False
+Kelly Olynyk,4,9,55,1,Jump Shot,22,227,-3,False
+Kelly Olynyk,2,9,38,1,Jump Shot,26,-122,236,False
+Kelly Olynyk,1,10,23,0,Jump Shot,16,9,163,True
+Kelly Olynyk,4,2,51,1,Jump Shot,17,-96,141,True
+Kelly Olynyk,1,7,2,0,Jump Shot,23,-230,14,False
+Kelly Olynyk,4,8,47,0,Jump Shot,25,215,132,False
+Kelly Olynyk,4,10,7,1,Jump Shot,25,-137,212,False
+Kelly Olynyk,3,11,37,0,Jump Shot,24,-231,70,False
+Kelly Olynyk,3,1,43,1,Jump Shot,21,-56,207,True
+Kelly Olynyk,3,1,12,0,Jump Shot,5,-6,54,True
+Kelly Olynyk,3,7,57,0,Jump Shot,24,-222,113,False
+Kelly Olynyk,3,9,3,1,Jump Shot,24,117,220,False
+Kelly Olynyk,1,4,32,0,Jump Shot,25,100,230,False
+Kelly Olynyk,2,2,40,1,Jump Shot,14,-105,95,True
+Kelly Olynyk,4,0,12,0,Jump Shot,24,-44,240,False
+Kelly Olynyk,2,7,43,1,Jump Shot,26,-137,222,False
+Kelly Olynyk,3,10,13,0,Jump Shot,25,-206,146,False
+Kelly Olynyk,1,5,12,1,Jump Shot,15,4,159,True
+Kelly Olynyk,2,6,55,0,Jump Shot,22,-220,-8,False
+Kelly Olynyk,3,11,45,0,Jump Shot,24,-44,239,False
+Kelly Olynyk,3,11,10,0,Jump Shot,24,105,218,False
+Kelly Olynyk,2,3,26,0,Jump Shot,25,71,243,False
+Kelly Olynyk,4,0,34,1,Jump Shot,16,-152,69,True
+Kelly Olynyk,4,5,21,0,Jump Shot,24,1,243,False
+Kelly Olynyk,3,3,57,1,Jump Shot,25,114,226,False
+Kelly Olynyk,2,4,1,0,Jump Shot,18,-98,156,True
+Kelly Olynyk,3,0,0,0,Jump Shot,11,8,111,True
+Kelly Olynyk,2,8,24,0,Jump Shot,24,163,185,False
+Kelly Olynyk,1,2,14,0,Jump Shot,8,87,1,True
+Kelly Olynyk,2,10,43,0,Jump Shot,24,-55,243,False
+Kelly Olynyk,4,6,37,0,Jump Shot,24,226,83,False
+Kelly Olynyk,1,2,35,1,Jump Shot,24,223,108,False
+Kelly Olynyk,4,8,54,0,Jump Shot,24,174,174,False
+Kelly Olynyk,2,5,11,1,Jump Shot,27,180,209,False
+Kelly Olynyk,3,2,22,1,Jump Shot,25,-161,196,False
+Kelly Olynyk,4,9,5,0,Jump Shot,20,-131,157,True
+Kelly Olynyk,1,2,46,0,Jump Shot,26,-102,248,False
+Kelly Olynyk,1,1,54,1,Jump Shot,24,-106,221,False
+Kelly Olynyk,4,4,13,0,Jump Shot,8,19,83,True
+Kelly Olynyk,4,7,19,1,Jump Shot,23,233,10,False
+Kelly Olynyk,4,7,40,0,Jump Shot,19,-138,139,True
+Kelly Olynyk,3,1,56,1,Jump Shot,23,-146,190,False
+Kelly Olynyk,2,9,19,0,Jump Shot,25,111,227,False
+Kelly Olynyk,1,3,17,0,Jump Shot,11,98,53,True
+Kelly Olynyk,1,2,7,0,Jump Shot,26,71,251,False
+Kelly Olynyk,1,1,2,0,Jump Shot,22,226,5,False
+Kelly Olynyk,2,10,29,1,Jump Shot,25,-127,223,False
+Kelly Olynyk,4,4,25,0,Jump Shot,19,107,163,True
+Kelly Olynyk,4,11,35,1,Jump Shot,20,-112,173,True
+Kelly Olynyk,4,11,0,1,Jump Shot,25,149,204,False
+Kelly Olynyk,3,0,59,0,Jump Shot,23,-233,37,False
+Kelly Olynyk,1,3,5,0,Jump Shot,25,202,151,False
+Kelly Olynyk,4,9,51,0,Jump Shot,26,63,260,False
+Kelly Olynyk,2,7,49,1,Jump Shot,23,-230,25,False
+Kelly Olynyk,2,10,53,0,Jump Shot,13,-133,32,True
+Kelly Olynyk,2,7,21,1,Jump Shot,22,-228,-5,False
+Kelly Olynyk,4,8,43,0,Jump Shot,25,-132,218,False
+Kelly Olynyk,4,11,19,0,Jump Shot,13,131,22,True
+Kelly Olynyk,1,1,8,1,Jump Shot,26,-193,183,False
+Kelly Olynyk,1,1,35,0,Jump Shot,27,134,241,False
+Kelly Olynyk,2,8,44,0,Jump Shot,26,-208,156,False
+Kelly Olynyk,2,10,55,1,Jump Shot,22,-228,3,False
+Kelly Olynyk,4,5,45,0,Jump Shot,25,-182,173,False
+Kelly Olynyk,4,9,42,0,Jump Shot,25,58,251,False
+Kelly Olynyk,1,3,17,1,Jump Shot,25,85,240,False
+Kelly Olynyk,4,10,4,0,Jump Shot,24,162,184,False
+Kelly Olynyk,2,9,32,1,Jump Shot,24,-187,161,False
+Kelly Olynyk,2,6,13,0,Jump Shot,25,-144,208,False
+Kelly Olynyk,4,7,7,1,Jump Shot,13,118,73,True
+Kelly Olynyk,4,6,4,1,Jump Shot,13,125,38,True
+Kelly Olynyk,4,9,56,0,Jump Shot,26,133,227,False
+Kelly Olynyk,4,6,53,0,Jump Shot,15,138,72,True
+Kelly Olynyk,4,7,26,0,Jump Shot,24,-67,239,False
+Kelly Olynyk,1,0,41,1,Jump Shot,25,103,231,False
+Kelly Olynyk,4,10,33,1,Jump Shot,25,-145,210,False
+Kelly Olynyk,3,0,0,0,Jump Shot,42,-6,421,False
+Kelly Olynyk,3,2,0,0,Jump Shot,23,230,6,False
+Kelly Olynyk,2,7,33,0,Jump Shot,18,50,182,True
+Kelly Olynyk,2,8,41,1,Jump Shot,25,-89,235,False
+Kelly Olynyk,2,10,41,0,Jump Shot,21,0,211,True
+Kelly Olynyk,4,8,26,1,Jump Shot,25,207,153,False
+Kelly Olynyk,5,0,49,1,Jump Shot,28,-117,258,False
+Kelly Olynyk,1,0,29,1,Jump Shot,15,144,58,True
+Kelly Olynyk,2,10,27,0,Jump Shot,27,141,231,False
+Kelly Olynyk,2,6,14,1,Jump Shot,25,150,200,False
+Kelly Olynyk,4,8,52,1,Jump Shot,19,64,186,True
+Kelly Olynyk,3,2,52,0,Jump Shot,23,231,52,False
+Kelly Olynyk,4,8,21,0,Jump Shot,26,-79,250,False
+Kelly Olynyk,2,9,57,0,Jump Shot,25,133,214,False
+Kelly Olynyk,1,4,8,1,Jump Shot,25,155,205,False
+Kelly Olynyk,1,1,30,0,Jump Shot,19,-50,185,True
+Kelly Olynyk,1,2,40,1,Jump Shot,22,-224,26,False
+Kelly Olynyk,2,11,10,0,Jump Shot,16,-5,169,True
+Kelly Olynyk,2,2,30,0,Jump Shot,25,185,169,False
+Kelly Olynyk,4,9,46,1,Jump Shot,20,191,78,True
+Kelly Olynyk,4,5,39,0,Jump Shot,5,12,56,True
+Kelly Olynyk,1,1,4,1,Jump Shot,25,-197,168,False
+Kelly Olynyk,4,8,15,0,Jump Shot,25,-166,187,False
+Kelly Olynyk,2,4,49,1,Jump Shot,21,9,215,True
+Kelly Olynyk,4,4,11,0,Jump Shot,18,-93,164,True
+Kelly Olynyk,2,6,57,1,Jump Shot,26,17,260,False
+Kelly Olynyk,2,8,41,0,Jump Shot,24,122,215,False
+Kelly Olynyk,3,3,30,0,Jump Shot,25,-138,220,False
+Kelly Olynyk,2,5,34,1,Jump Shot,25,126,227,False
+Kelly Olynyk,3,1,14,1,Jump Shot,25,125,225,False
+Kelly Olynyk,2,9,48,0,Jump Shot,4,28,29,True
+Kelly Olynyk,1,11,46,0,Jump Shot,22,-229,11,False
+Kelly Olynyk,2,9,6,0,Jump Shot,20,-39,197,True
+Kelly Olynyk,1,6,13,1,Jump Shot,23,-237,2,False
+Kelly Olynyk,4,10,57,1,Jump Shot,24,237,42,False
+Kelly Olynyk,4,3,34,0,Jump Shot,24,184,169,False
+Kelly Olynyk,5,1,20,0,Jump Shot,20,5,207,True
+Kelly Olynyk,3,11,45,0,Jump Shot,26,-168,202,False
+Kelly Olynyk,4,6,44,1,Jump Shot,18,-92,164,True
+Kelly Olynyk,3,8,13,0,Jump Shot,23,227,69,False
+Kelly Olynyk,1,11,2,1,Jump Shot,27,149,231,False
+Kelly Olynyk,1,6,28,1,Jump Shot,25,175,184,False
+Kelly Olynyk,3,4,46,0,Jump Shot,24,-231,92,False
+Kelly Olynyk,1,5,2,1,Jump Shot,25,163,190,False
+Kelly Olynyk,2,0,42,0,Jump Shot,23,-232,61,False
+Kelly Olynyk,3,2,10,1,Jump Shot,25,192,171,False
+Kelly Olynyk,3,8,6,1,Jump Shot,25,109,231,False
+Kelly Olynyk,1,0,40,0,Jump Shot,23,-229,28,False
+Kelly Olynyk,3,2,37,0,Jump Shot,26,-69,253,False
+Kelly Olynyk,3,8,15,0,Jump Shot,26,134,232,False
+Kelly Olynyk,1,4,23,0,Jump Shot,27,-92,262,False
+Kelly Olynyk,2,7,43,0,Jump Shot,26,152,221,False
+Kelly Olynyk,1,3,29,0,Jump Shot,27,-183,204,False
+Kelly Olynyk,3,10,55,1,Jump Shot,5,-33,44,True
+Kelly Olynyk,1,5,54,0,Jump Shot,27,188,195,False
+Kelly Olynyk,2,11,31,0,Jump Shot,4,-26,36,True
+Kelly Olynyk,3,7,25,1,Jump Shot,27,-214,169,False
+Kelly Olynyk,4,3,12,0,Jump Shot,16,-128,109,True
+Kelly Olynyk,3,7,54,0,Jump Shot,18,25,184,True
+Kelly Olynyk,3,11,37,1,Jump Shot,22,-179,138,True
+Kelly Olynyk,2,2,8,1,Jump Shot,26,157,210,False
+Kelly Olynyk,1,7,18,1,Jump Shot,25,-86,245,False
+Kelly Olynyk,1,10,20,0,Jump Shot,14,144,-12,True
+Kelly Olynyk,2,5,3,0,Jump Shot,12,-124,-10,True
+Kelly Olynyk,3,7,28,0,Jump Shot,26,-122,230,False
+Kelly Olynyk,1,8,37,1,Jump Shot,23,231,63,False
+Kelly Olynyk,4,4,53,0,Layup Shot,3,-13,29,True
+Kelly Olynyk,1,2,41,0,Layup Shot,3,16,27,True
+Kelly Olynyk,1,9,43,1,Layup Shot,2,6,25,True
+Kelly Olynyk,1,3,8,1,Layup Shot,1,-17,10,True
+Kelly Olynyk,1,2,37,1,Layup Shot,1,1,13,True
+Kelly Olynyk,2,9,39,1,Layup Shot,0,5,8,True
+Kelly Olynyk,2,11,36,1,Layup Shot,0,2,-2,True
+Kelly Olynyk,1,2,28,0,Layup Shot,1,13,5,True
+Kelly Olynyk,1,7,52,1,Layup Shot,3,33,10,True
+Kelly Olynyk,3,7,57,1,Layup Shot,1,-1,18,True
+Kelly Olynyk,1,0,51,1,Layup Shot,2,24,5,True
+Kelly Olynyk,3,2,38,0,Layup Shot,8,-72,47,True
+Kelly Olynyk,2,11,23,0,Layup Shot,2,-24,13,True
+Kelly Olynyk,4,10,44,0,Layup Shot,0,-1,7,True
+Kelly Olynyk,1,5,51,1,Layup Shot,3,14,29,True
+Kelly Olynyk,2,8,19,1,Layup Shot,2,8,26,True
+Kelly Olynyk,1,4,44,1,Layup Shot,3,28,25,True
+Kelly Olynyk,2,5,43,0,Layup Shot,2,18,16,True
+Kelly Olynyk,1,7,13,0,Layup Shot,1,4,18,True
+Kelly Olynyk,3,1,22,0,Layup Shot,1,9,13,True
+Kelly Olynyk,1,2,16,0,Layup Shot,2,-27,1,True
+Kelly Olynyk,2,8,8,1,Layup Shot,3,24,20,True
+Kelly Olynyk,4,3,56,0,Layup Shot,5,-14,48,True
+Kelly Olynyk,1,4,57,0,Layup Shot,2,-19,17,True
+Kelly Olynyk,2,11,12,1,Layup Shot,1,-8,17,True
+Kelly Olynyk,2,7,42,1,Layup Shot,2,-21,16,True
+Kelly Olynyk,4,7,30,1,Layup Shot,1,1,17,True
+Kelly Olynyk,4,10,17,1,Layup Shot,1,-11,11,True
+Kelly Olynyk,2,4,46,1,Layup Shot,1,-8,15,True
+Kelly Olynyk,4,1,45,1,Layup Shot,0,-7,6,True
+Kelly Olynyk,3,4,25,1,Layup Shot,0,0,8,True
+Kelly Olynyk,2,11,26,1,Layup Shot,1,-17,0,True
+Kelly Olynyk,2,8,7,1,Layup Shot,2,18,11,True
+Kelly Olynyk,3,3,54,0,Layup Shot,2,16,13,True
+Kelly Olynyk,4,7,17,1,Layup Shot,1,8,6,True
+Kelly Olynyk,2,9,15,1,Layup Shot,1,-3,13,True
+Kelly Olynyk,3,2,51,1,Layup Shot,1,-10,8,True
+Kelly Olynyk,4,9,31,1,Layup Shot,1,-6,10,True
+Kelly Olynyk,4,10,9,1,Layup Shot,5,51,21,True
+Kelly Olynyk,4,9,52,0,Layup Shot,6,-39,46,True
+Kelly Olynyk,4,7,25,0,Layup Shot,2,5,23,True
+Kelly Olynyk,2,8,26,1,Layup Shot,2,-6,20,True
+Kelly Olynyk,4,10,43,0,Layup Shot,1,-13,9,True
+Kelly Olynyk,2,3,32,1,Layup Shot,1,8,6,True
+Kelly Olynyk,4,8,59,0,Layup Shot,5,21,50,True
+Kelly Olynyk,1,2,26,0,Layup Shot,1,-14,13,True
+Kelly Olynyk,4,9,59,1,Layup Shot,3,27,14,True
+Kelly Olynyk,4,3,5,1,Layup Shot,1,13,6,True
+Kelly Olynyk,4,9,20,1,Layup Shot,1,-12,11,True
+Kelly Olynyk,4,7,29,0,Layup Shot,3,3,33,True
+Kelly Olynyk,4,7,24,0,Layup Shot,2,-5,22,True
+Kelly Olynyk,2,10,55,1,Layup Shot,3,25,20,True
+Kelly Olynyk,1,9,42,0,Pullup Jump shot,17,-92,148,True
+Kelly Olynyk,4,6,12,0,Pullup Jump shot,20,-69,190,True
+Kelly Olynyk,2,7,45,1,Pullup Jump shot,4,-39,13,True
+Kelly Olynyk,3,3,38,0,Pullup Jump shot,17,166,38,True
+Kelly Olynyk,2,7,34,1,Pullup Jump shot,14,117,84,True
+Kelly Olynyk,1,2,0,0,Pullup Jump shot,21,-182,118,True
+Kelly Olynyk,4,5,46,1,Pullup Jump shot,10,-72,77,True
+Kelly Olynyk,4,7,40,1,Putback Dunk Shot,0,0,-6,True
+Kelly Olynyk,1,2,59,1,Putback Layup Shot,1,-10,11,True
+Kelly Olynyk,2,6,58,1,Putback Layup Shot,1,-10,8,True
+Kelly Olynyk,3,0,52,1,Putback Layup Shot,1,4,15,True
+Kelly Olynyk,4,2,53,1,Reverse Layup Shot,1,-9,12,True
+Kelly Olynyk,1,1,59,1,Reverse Layup Shot,2,27,11,True
+Kelly Olynyk,2,3,41,0,Reverse Layup Shot,1,-9,6,True
+Kelly Olynyk,3,1,57,1,Reverse Layup Shot,0,0,8,True
+Kelly Olynyk,2,7,22,1,Reverse Layup Shot,2,20,11,True
+Kelly Olynyk,4,2,42,1,Reverse Layup Shot,1,5,14,True
+Kelly Olynyk,1,11,44,1,Reverse Layup Shot,0,3,7,True
+Kelly Olynyk,4,8,46,1,Reverse Layup Shot,0,3,1,True
+Kelly Olynyk,3,0,3,0,Reverse Layup Shot,0,5,5,True
+Kelly Olynyk,4,11,16,1,Reverse Layup Shot,2,20,17,True
+Kelly Olynyk,4,7,22,0,Reverse Layup Shot,4,-35,32,True
+Kelly Olynyk,1,4,12,0,Running Dunk Shot,1,-14,8,True
+Kelly Olynyk,1,2,10,1,Running Jump Shot,11,-25,116,True
+Kelly Olynyk,2,6,47,0,Running Jump Shot,24,-103,226,False
+Kelly Olynyk,2,3,51,1,Running Layup Shot,1,3,16,True
+Kelly Olynyk,4,11,15,1,Running Layup Shot,1,-5,11,True
+Kelly Olynyk,2,5,2,1,Running Pull-Up Jump Shot,25,-154,201,False
+Kelly Olynyk,1,3,3,1,Running Pull-Up Jump Shot,24,-11,249,False
+Kelly Olynyk,4,5,53,1,Step Back Jump shot,25,-166,191,False
+Kelly Olynyk,4,7,18,0,Step Back Jump shot,25,-95,242,False
+Kelly Olynyk,4,9,57,1,Step Back Jump shot,26,-156,208,False
+Kelly Olynyk,1,2,16,1,Step Back Jump shot,16,-108,126,True
+Kelly Olynyk,2,11,18,1,Step Back Jump shot,12,-101,69,True
+Kelly Olynyk,1,11,28,0,Step Back Jump shot,26,-111,237,False
+Kelly Olynyk,4,5,37,0,Tip Layup Shot,0,0,-6,True
+Kelly Olynyk,2,9,26,0,Tip Layup Shot,0,0,-6,True
+Kelly Olynyk,1,5,16,1,Tip Layup Shot,0,0,-6,True
+Kelly Olynyk,2,6,0,1,Tip Layup Shot,0,0,-6,True
+Kelly Olynyk,4,9,35,1,Tip Layup Shot,0,0,-6,True
+Kelly Olynyk,3,8,37,0,Tip Layup Shot,0,0,-6,True
+Kelly Olynyk,3,3,14,0,Tip Layup Shot,0,0,-6,True
+Kelly Olynyk,4,2,9,1,Tip Layup Shot,0,0,-6,True
+Kelly Olynyk,1,2,1,0,Tip Layup Shot,0,0,-6,True
+Kelly Olynyk,1,7,31,1,Tip Layup Shot,0,0,-6,True
+Kelly Olynyk,4,8,54,1,Tip Layup Shot,0,0,-6,True
+Kelly Olynyk,1,5,11,0,Turnaround Fadeaway shot,6,-40,47,True
+Kelly Olynyk,3,0,29,0,Turnaround Fadeaway shot,11,-99,50,True
+Kelly Olynyk,2,1,29,1,Turnaround Fadeaway shot,5,-13,58,True
+Kelly Olynyk,1,2,50,1,Turnaround Hook Shot,7,3,74,True
+Kelly Olynyk,5,3,33,0,Turnaround Hook Shot,7,6,76,True
+Kelly Olynyk,1,6,44,1,Turnaround Hook Shot,3,27,24,True
+Kelly Olynyk,1,5,55,0,Turnaround Hook Shot,6,58,22,True
+Kelly Olynyk,2,10,24,0,Turnaround Hook Shot,7,66,30,True
+Kelly Olynyk,3,2,31,1,Turnaround Hook Shot,2,-5,23,True
+Kelly Olynyk,2,7,19,0,Turnaround Hook Shot,6,-24,56,True
+Kelly Olynyk,1,1,55,0,Turnaround Hook Shot,7,4,74,True
+Kelly Olynyk,4,10,24,0,Turnaround Jump Shot,9,-49,86,True
+Kelly Olynyk,4,5,32,0,Turnaround Jump Shot,15,-111,110,True
+Kelly Olynyk,2,2,35,0,Turnaround Jump Shot,7,27,65,True
+Kelly Olynyk,1,1,51,0,Turnaround Jump Shot,12,-94,85,True
+Kelly Olynyk,4,0,19,1,Turnaround Jump Shot,25,-24,254,False
+Kelly Olynyk,1,7,5,1,Turnaround Jump Shot,12,120,14,True
+Kelly Olynyk,3,0,26,1,Turnaround Jump Shot,12,-102,67,True
+Kelly Olynyk,2,6,11,0,Turnaround Jump Shot,9,-54,83,True
+Kelly Olynyk,1,2,29,0,Turnaround Jump Shot,8,5,88,True

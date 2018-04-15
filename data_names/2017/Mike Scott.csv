@@ -1,0 +1,478 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Mike Scott,4,3,52,1,Alley Oop Layup shot,1,-11,11,True
+Mike Scott,4,7,38,1,Alley Oop Layup shot,1,0,11,True
+Mike Scott,4,11,11,1,Cutting Dunk Shot,1,3,18,True
+Mike Scott,4,11,42,1,Cutting Dunk Shot,1,-13,0,True
+Mike Scott,2,7,19,1,Cutting Dunk Shot,0,-7,5,True
+Mike Scott,1,1,51,1,Cutting Finger Roll Layup Shot,2,-2,20,True
+Mike Scott,2,10,37,1,Cutting Finger Roll Layup Shot,2,-8,19,True
+Mike Scott,2,9,7,1,Cutting Finger Roll Layup Shot,1,3,11,True
+Mike Scott,4,10,16,1,Cutting Layup Shot,2,0,20,True
+Mike Scott,2,6,33,0,Cutting Layup Shot,2,-6,24,True
+Mike Scott,2,7,22,1,Cutting Layup Shot,1,-19,2,True
+Mike Scott,1,6,2,1,Cutting Layup Shot,2,18,9,True
+Mike Scott,2,8,7,1,Cutting Layup Shot,0,0,7,True
+Mike Scott,4,2,35,0,Cutting Layup Shot,2,24,9,True
+Mike Scott,4,9,36,1,Cutting Layup Shot,3,22,31,True
+Mike Scott,1,1,31,1,Cutting Layup Shot,1,11,4,True
+Mike Scott,1,1,56,0,Cutting Layup Shot,0,6,-3,True
+Mike Scott,1,1,56,0,Cutting Layup Shot,2,1,29,True
+Mike Scott,3,9,31,1,Cutting Layup Shot,4,33,27,True
+Mike Scott,4,9,18,0,Cutting Layup Shot,1,-4,13,True
+Mike Scott,2,9,0,0,Cutting Layup Shot,5,48,21,True
+Mike Scott,4,11,4,1,Cutting Layup Shot,1,7,14,True
+Mike Scott,2,10,17,1,Driving Finger Roll Layup Shot,1,-6,17,True
+Mike Scott,2,11,15,0,Driving Floating Bank Jump Shot,3,35,13,True
+Mike Scott,4,9,57,0,Driving Floating Bank Jump Shot,8,54,64,True
+Mike Scott,1,4,26,1,Driving Floating Bank Jump Shot,6,54,32,True
+Mike Scott,2,9,16,1,Driving Floating Bank Jump Shot,9,66,68,True
+Mike Scott,1,2,38,1,Driving Floating Bank Jump Shot,3,32,13,True
+Mike Scott,4,5,41,1,Driving Floating Bank Jump Shot,9,85,38,True
+Mike Scott,2,9,59,0,Driving Floating Bank Jump Shot,5,-25,47,True
+Mike Scott,2,10,33,0,Driving Floating Bank Jump Shot,5,52,25,True
+Mike Scott,2,11,35,1,Driving Floating Jump Shot,10,-78,67,True
+Mike Scott,2,10,27,1,Driving Floating Jump Shot,9,-12,94,True
+Mike Scott,4,6,50,1,Driving Floating Jump Shot,3,-16,31,True
+Mike Scott,1,2,5,0,Driving Floating Jump Shot,4,22,37,True
+Mike Scott,2,10,48,1,Driving Floating Jump Shot,10,-100,27,True
+Mike Scott,1,2,45,0,Driving Floating Jump Shot,14,-3,148,True
+Mike Scott,2,10,10,1,Driving Floating Jump Shot,8,-8,84,True
+Mike Scott,2,7,54,1,Driving Hook Shot,9,90,34,True
+Mike Scott,3,1,28,1,Driving Hook Shot,10,45,94,True
+Mike Scott,2,7,26,0,Driving Hook Shot,2,16,12,True
+Mike Scott,4,5,41,0,Driving Layup Shot,8,56,69,True
+Mike Scott,2,10,33,1,Driving Layup Shot,1,15,-4,True
+Mike Scott,2,7,33,1,Driving Layup Shot,4,-35,23,True
+Mike Scott,1,1,21,1,Driving Layup Shot,1,14,6,True
+Mike Scott,4,5,58,0,Driving Layup Shot,2,-13,17,True
+Mike Scott,2,9,14,0,Driving Layup Shot,0,8,1,True
+Mike Scott,3,1,30,0,Driving Layup Shot,13,-2,130,True
+Mike Scott,4,10,54,0,Driving Layup Shot,3,29,19,True
+Mike Scott,4,10,31,1,Driving Layup Shot,1,2,11,True
+Mike Scott,2,10,57,0,Driving Layup Shot,3,3,31,True
+Mike Scott,2,6,53,0,Driving Layup Shot,3,10,36,True
+Mike Scott,1,1,14,0,Driving Layup Shot,2,22,0,True
+Mike Scott,3,0,32,0,Driving Layup Shot,6,-40,51,True
+Mike Scott,1,0,55,1,Driving Reverse Layup Shot,1,15,4,True
+Mike Scott,1,0,0,0,Driving Reverse Layup Shot,6,66,-5,True
+Mike Scott,1,0,41,1,Dunk Shot,1,10,-3,True
+Mike Scott,4,7,7,1,Fadeaway Jump Shot,12,-62,107,True
+Mike Scott,2,8,55,0,Fadeaway Jump Shot,15,87,126,True
+Mike Scott,2,6,15,1,Fadeaway Jump Shot,15,153,3,True
+Mike Scott,2,5,44,0,Fadeaway Jump Shot,9,98,16,True
+Mike Scott,2,10,26,1,Fadeaway Jump Shot,11,118,20,True
+Mike Scott,2,9,48,1,Fadeaway Jump Shot,17,-7,174,True
+Mike Scott,4,6,57,1,Fadeaway Jump Shot,15,152,11,True
+Mike Scott,4,9,46,1,Fadeaway Jump Shot,13,-130,22,True
+Mike Scott,2,10,30,0,Fadeaway Jump Shot,11,-74,91,True
+Mike Scott,4,4,8,0,Fadeaway Jump Shot,7,-33,68,True
+Mike Scott,4,7,17,0,Fadeaway Jump Shot,7,-59,41,True
+Mike Scott,4,0,32,0,Fadeaway Jump Shot,15,-42,151,True
+Mike Scott,2,7,44,1,Fadeaway Jump Shot,18,-180,-27,True
+Mike Scott,1,1,45,0,Fadeaway Jump Shot,15,-89,122,True
+Mike Scott,2,10,30,0,Fadeaway Jump Shot,17,126,124,True
+Mike Scott,2,9,33,0,Fadeaway Jump Shot,13,133,35,True
+Mike Scott,4,11,5,1,Fadeaway Jump Shot,14,-144,39,True
+Mike Scott,1,0,1,0,Fadeaway Jump Shot,9,-89,28,True
+Mike Scott,2,10,46,1,Finger Roll Layup Shot,2,-3,26,True
+Mike Scott,4,6,31,1,Floating Jump shot,19,110,156,True
+Mike Scott,2,8,20,1,Floating Jump shot,13,-32,133,True
+Mike Scott,2,7,34,1,Floating Jump shot,5,51,25,True
+Mike Scott,4,8,45,1,Floating Jump shot,14,55,137,True
+Mike Scott,2,10,6,1,Floating Jump shot,9,29,94,True
+Mike Scott,3,0,34,1,Floating Jump shot,7,3,79,True
+Mike Scott,4,10,42,0,Floating Jump shot,4,11,43,True
+Mike Scott,2,10,8,1,Floating Jump shot,7,33,63,True
+Mike Scott,4,11,39,0,Floating Jump shot,14,41,142,True
+Mike Scott,2,11,10,0,Floating Jump shot,13,50,124,True
+Mike Scott,4,8,4,0,Floating Jump shot,11,-24,111,True
+Mike Scott,2,8,4,1,Hook Shot,5,-9,57,True
+Mike Scott,3,2,59,1,Hook Shot,4,-44,16,True
+Mike Scott,2,8,3,0,Hook Shot,5,6,53,True
+Mike Scott,2,6,1,1,Hook Shot,9,-69,64,True
+Mike Scott,1,3,55,0,Hook Shot,5,-52,6,True
+Mike Scott,2,7,0,1,Jump Bank Shot,8,57,57,True
+Mike Scott,4,10,19,0,Jump Bank Shot,13,127,38,True
+Mike Scott,1,9,57,0,Jump Bank Shot,6,62,26,True
+Mike Scott,4,7,24,1,Jump Bank Shot,7,68,41,True
+Mike Scott,4,10,51,0,Jump Bank Shot,17,117,125,True
+Mike Scott,3,4,21,0,Jump Bank Shot,14,135,59,True
+Mike Scott,4,4,54,1,Jump Bank Shot,18,90,159,True
+Mike Scott,2,8,27,1,Jump Bank Shot,7,-68,36,True
+Mike Scott,3,2,26,0,Jump Bank Shot,14,-101,109,True
+Mike Scott,4,10,41,0,Jump Shot,25,202,161,False
+Mike Scott,4,9,23,0,Jump Shot,9,95,-11,True
+Mike Scott,4,7,38,0,Jump Shot,26,179,198,False
+Mike Scott,2,10,50,0,Jump Shot,25,-25,253,False
+Mike Scott,2,8,56,1,Jump Shot,18,-60,172,True
+Mike Scott,4,6,10,0,Jump Shot,18,87,164,True
+Mike Scott,2,4,55,0,Jump Shot,27,127,245,False
+Mike Scott,1,2,28,0,Jump Shot,24,-230,74,False
+Mike Scott,4,7,38,0,Jump Shot,25,125,223,False
+Mike Scott,3,2,6,0,Jump Shot,24,206,134,False
+Mike Scott,4,0,4,0,Jump Shot,26,-142,227,False
+Mike Scott,2,10,49,1,Jump Shot,26,62,256,False
+Mike Scott,4,4,49,0,Jump Shot,23,-230,-10,False
+Mike Scott,4,11,0,1,Jump Shot,24,-241,28,False
+Mike Scott,1,4,9,1,Jump Shot,17,172,6,True
+Mike Scott,4,8,58,1,Jump Shot,24,-240,13,False
+Mike Scott,2,8,46,0,Jump Shot,18,149,109,True
+Mike Scott,1,3,35,0,Jump Shot,15,-40,147,True
+Mike Scott,2,7,55,1,Jump Shot,23,-234,26,False
+Mike Scott,2,8,22,1,Jump Shot,14,-145,29,True
+Mike Scott,3,3,53,0,Jump Shot,24,-119,213,False
+Mike Scott,1,0,3,1,Jump Shot,22,-228,0,False
+Mike Scott,4,8,34,0,Jump Shot,13,76,116,True
+Mike Scott,4,8,8,0,Jump Shot,4,34,35,True
+Mike Scott,1,2,25,0,Jump Shot,25,-195,159,False
+Mike Scott,3,3,6,1,Jump Shot,10,-108,-8,True
+Mike Scott,4,1,36,1,Jump Shot,24,8,246,False
+Mike Scott,3,2,18,0,Jump Shot,24,52,237,False
+Mike Scott,2,7,37,0,Jump Shot,25,102,237,False
+Mike Scott,3,0,9,1,Jump Shot,26,-103,247,False
+Mike Scott,3,2,8,1,Jump Shot,26,-201,169,False
+Mike Scott,1,0,35,0,Jump Shot,16,-47,157,True
+Mike Scott,4,1,10,1,Jump Shot,16,-154,50,True
+Mike Scott,3,1,59,1,Jump Shot,14,116,90,True
+Mike Scott,4,1,54,0,Jump Shot,24,-71,239,False
+Mike Scott,2,7,4,0,Jump Shot,24,191,156,False
+Mike Scott,4,11,38,0,Jump Shot,18,157,90,True
+Mike Scott,4,7,24,0,Jump Shot,16,161,-6,True
+Mike Scott,3,5,12,0,Jump Shot,27,-157,225,False
+Mike Scott,3,0,36,1,Jump Shot,15,101,116,True
+Mike Scott,4,9,35,1,Jump Shot,20,-60,193,True
+Mike Scott,2,10,3,1,Jump Shot,28,52,279,False
+Mike Scott,3,4,10,0,Jump Shot,22,226,25,False
+Mike Scott,1,4,8,1,Jump Shot,25,-164,189,False
+Mike Scott,2,5,25,1,Jump Shot,25,-158,206,False
+Mike Scott,2,10,5,0,Jump Shot,23,-228,37,False
+Mike Scott,4,5,53,0,Jump Shot,18,116,143,True
+Mike Scott,2,10,45,1,Jump Shot,24,230,69,False
+Mike Scott,4,6,49,1,Jump Shot,27,125,243,False
+Mike Scott,4,0,0,0,Jump Shot,25,150,204,False
+Mike Scott,4,1,57,1,Jump Shot,18,186,15,True
+Mike Scott,3,0,30,0,Jump Shot,16,-162,22,True
+Mike Scott,4,7,39,1,Jump Shot,16,132,105,True
+Mike Scott,2,7,24,0,Jump Shot,26,118,233,False
+Mike Scott,3,1,45,0,Jump Shot,30,100,283,False
+Mike Scott,2,10,5,0,Jump Shot,26,-133,231,False
+Mike Scott,4,9,31,0,Jump Shot,25,-105,232,False
+Mike Scott,2,8,46,0,Jump Shot,5,-4,59,True
+Mike Scott,1,0,55,0,Jump Shot,16,-131,108,True
+Mike Scott,4,9,32,0,Jump Shot,29,-137,265,False
+Mike Scott,1,1,32,0,Jump Shot,23,-233,-6,False
+Mike Scott,4,9,53,1,Jump Shot,26,-79,252,False
+Mike Scott,4,10,52,0,Jump Shot,24,-206,136,False
+Mike Scott,2,9,28,1,Jump Shot,16,-96,140,True
+Mike Scott,1,3,21,0,Jump Shot,23,236,1,False
+Mike Scott,3,2,44,0,Jump Shot,24,241,-16,False
+Mike Scott,4,7,7,0,Jump Shot,25,23,251,False
+Mike Scott,4,9,56,0,Jump Shot,25,131,222,False
+Mike Scott,3,1,3,0,Jump Shot,17,-22,169,True
+Mike Scott,4,10,38,1,Jump Shot,22,-221,-6,False
+Mike Scott,1,1,13,1,Jump Shot,26,-149,216,False
+Mike Scott,4,10,1,0,Jump Shot,26,21,260,False
+Mike Scott,2,7,43,0,Jump Shot,26,-96,248,False
+Mike Scott,2,9,51,1,Jump Shot,27,27,269,False
+Mike Scott,4,8,34,1,Jump Shot,25,-146,215,False
+Mike Scott,2,10,43,0,Jump Shot,12,127,-19,True
+Mike Scott,4,2,13,0,Jump Shot,26,30,263,False
+Mike Scott,2,6,30,0,Jump Shot,23,-233,-6,False
+Mike Scott,1,0,35,0,Jump Shot,27,121,242,False
+Mike Scott,4,10,8,0,Jump Shot,15,-25,152,True
+Mike Scott,2,9,57,0,Jump Shot,20,-15,201,True
+Mike Scott,1,2,22,1,Jump Shot,28,152,245,False
+Mike Scott,4,8,28,0,Jump Shot,16,-18,164,True
+Mike Scott,3,1,33,1,Jump Shot,16,157,32,True
+Mike Scott,1,0,2,1,Jump Shot,29,-144,263,False
+Mike Scott,3,1,56,0,Jump Shot,25,20,251,False
+Mike Scott,2,6,54,0,Jump Shot,11,119,5,True
+Mike Scott,4,7,17,1,Jump Shot,12,126,-16,True
+Mike Scott,2,6,14,1,Jump Shot,13,-132,4,True
+Mike Scott,2,10,17,0,Jump Shot,21,-149,148,True
+Mike Scott,4,6,55,1,Jump Shot,26,-5,263,False
+Mike Scott,3,0,52,0,Jump Shot,14,43,136,True
+Mike Scott,4,11,9,0,Jump Shot,14,127,67,True
+Mike Scott,3,1,25,0,Jump Shot,26,-233,131,False
+Mike Scott,4,6,4,0,Jump Shot,26,-138,225,False
+Mike Scott,1,1,26,1,Jump Shot,8,57,69,True
+Mike Scott,2,8,39,0,Jump Shot,12,-126,11,True
+Mike Scott,2,9,35,1,Jump Shot,17,112,138,True
+Mike Scott,2,8,13,0,Jump Shot,25,174,181,False
+Mike Scott,2,10,13,1,Jump Shot,25,-23,249,False
+Mike Scott,4,7,21,1,Jump Shot,16,-57,153,True
+Mike Scott,4,6,52,1,Jump Shot,16,161,-7,True
+Mike Scott,2,2,40,0,Jump Shot,25,-144,214,False
+Mike Scott,2,8,38,0,Jump Shot,16,69,151,True
+Mike Scott,2,6,19,1,Jump Shot,23,-224,60,False
+Mike Scott,3,0,31,0,Jump Shot,25,-81,243,False
+Mike Scott,2,5,43,1,Jump Shot,25,119,225,False
+Mike Scott,2,10,41,1,Jump Shot,17,-36,172,True
+Mike Scott,3,0,14,0,Jump Shot,26,-122,231,False
+Mike Scott,2,6,27,0,Jump Shot,25,14,255,False
+Mike Scott,2,11,10,1,Jump Shot,14,-54,135,True
+Mike Scott,4,8,4,1,Jump Shot,18,-126,133,True
+Mike Scott,2,9,11,1,Jump Shot,11,-112,14,True
+Mike Scott,1,0,32,0,Jump Shot,16,128,109,True
+Mike Scott,2,9,36,0,Jump Shot,19,112,159,True
+Mike Scott,3,6,42,1,Jump Shot,13,-139,13,True
+Mike Scott,2,11,16,1,Jump Shot,25,-5,253,False
+Mike Scott,3,0,57,1,Jump Shot,25,100,232,False
+Mike Scott,1,6,48,1,Jump Shot,16,157,34,True
+Mike Scott,2,11,18,0,Jump Shot,26,82,251,False
+Mike Scott,4,9,49,1,Jump Shot,21,82,194,True
+Mike Scott,2,10,23,0,Jump Shot,14,-54,132,True
+Mike Scott,4,11,46,1,Jump Shot,17,93,146,True
+Mike Scott,2,6,18,1,Jump Shot,13,134,0,True
+Mike Scott,4,10,34,0,Jump Shot,15,-152,42,True
+Mike Scott,2,9,37,1,Jump Shot,19,101,162,True
+Mike Scott,2,7,31,1,Jump Shot,22,225,-16,False
+Mike Scott,3,0,0,0,Jump Shot,27,111,248,False
+Mike Scott,1,2,57,1,Jump Shot,23,233,-19,False
+Mike Scott,3,2,4,0,Jump Shot,25,-134,216,False
+Mike Scott,1,1,37,1,Jump Shot,24,107,225,False
+Mike Scott,4,7,15,1,Jump Shot,21,5,210,True
+Mike Scott,2,3,29,1,Jump Shot,25,-137,210,False
+Mike Scott,4,11,17,1,Jump Shot,13,-124,42,True
+Mike Scott,2,11,3,1,Jump Shot,13,73,117,True
+Mike Scott,2,11,45,1,Jump Shot,25,141,211,False
+Mike Scott,4,10,34,0,Jump Shot,26,-82,255,False
+Mike Scott,4,8,25,1,Jump Shot,11,-114,35,True
+Mike Scott,4,2,25,0,Jump Shot,26,143,222,False
+Mike Scott,1,1,44,1,Jump Shot,23,-232,-10,False
+Mike Scott,4,9,7,0,Jump Shot,24,-98,224,False
+Mike Scott,1,2,8,0,Jump Shot,24,19,248,False
+Mike Scott,2,5,46,1,Jump Shot,16,71,152,True
+Mike Scott,2,10,26,0,Jump Shot,25,69,242,False
+Mike Scott,3,0,0,0,Jump Shot,53,-193,498,False
+Mike Scott,4,7,40,0,Jump Shot,25,102,235,False
+Mike Scott,3,1,12,0,Jump Shot,11,-98,50,True
+Mike Scott,1,0,7,1,Jump Shot,25,162,201,False
+Mike Scott,3,1,10,1,Jump Shot,27,-144,238,False
+Mike Scott,4,8,29,1,Jump Shot,26,37,258,False
+Mike Scott,2,5,11,0,Jump Shot,23,237,10,False
+Mike Scott,2,2,13,0,Jump Shot,23,-230,25,False
+Mike Scott,2,9,50,1,Jump Shot,25,62,243,False
+Mike Scott,2,7,19,1,Jump Shot,25,-93,236,False
+Mike Scott,4,11,2,0,Jump Shot,19,16,193,True
+Mike Scott,4,10,36,0,Jump Shot,26,98,250,False
+Mike Scott,4,1,9,1,Jump Shot,25,-218,127,False
+Mike Scott,3,8,45,0,Jump Shot,27,142,236,False
+Mike Scott,2,7,18,1,Jump Shot,26,-177,191,False
+Mike Scott,4,6,7,0,Jump Shot,25,221,129,False
+Mike Scott,2,6,36,1,Jump Shot,25,-192,163,False
+Mike Scott,2,0,26,0,Jump Shot,25,185,169,False
+Mike Scott,4,2,32,1,Jump Shot,17,168,50,True
+Mike Scott,3,3,43,0,Jump Shot,25,-233,94,False
+Mike Scott,1,7,57,0,Jump Shot,25,231,104,False
+Mike Scott,3,10,49,0,Jump Shot,23,231,46,False
+Mike Scott,4,10,55,1,Jump Shot,18,-80,171,True
+Mike Scott,4,7,45,1,Jump Shot,26,-55,256,False
+Mike Scott,1,6,14,1,Jump Shot,23,230,57,False
+Mike Scott,1,0,4,0,Jump Shot,24,-209,135,False
+Mike Scott,4,9,44,0,Jump Shot,25,-45,256,False
+Mike Scott,2,5,59,0,Jump Shot,10,-103,1,True
+Mike Scott,3,0,50,0,Jump Shot,17,-60,167,True
+Mike Scott,3,1,21,1,Jump Shot,25,-134,218,False
+Mike Scott,2,10,29,1,Jump Shot,6,63,27,True
+Mike Scott,4,2,29,1,Jump Shot,23,230,3,False
+Mike Scott,3,0,13,1,Jump Shot,23,-232,30,False
+Mike Scott,4,8,0,0,Jump Shot,24,-93,232,False
+Mike Scott,2,10,9,1,Jump Shot,25,36,248,False
+Mike Scott,2,11,28,0,Jump Shot,24,8,242,False
+Mike Scott,3,1,54,0,Jump Shot,25,-128,217,False
+Mike Scott,2,11,43,0,Jump Shot,23,227,50,False
+Mike Scott,2,8,23,0,Jump Shot,23,-229,23,False
+Mike Scott,4,7,36,0,Jump Shot,22,226,24,False
+Mike Scott,2,8,7,0,Jump Shot,9,-93,12,True
+Mike Scott,2,8,57,0,Jump Shot,26,-74,251,False
+Mike Scott,2,7,6,0,Jump Shot,25,87,235,False
+Mike Scott,4,3,4,0,Jump Shot,25,175,189,False
+Mike Scott,4,2,48,1,Jump Shot,24,84,235,False
+Mike Scott,4,10,53,1,Jump Shot,28,-197,200,False
+Mike Scott,2,11,9,1,Jump Shot,11,-114,35,True
+Mike Scott,3,2,0,0,Jump Shot,26,131,236,False
+Mike Scott,4,8,20,1,Jump Shot,23,-239,1,False
+Mike Scott,2,10,40,1,Jump Shot,26,66,257,False
+Mike Scott,1,1,16,0,Jump Shot,25,87,238,False
+Mike Scott,1,0,0,1,Jump Shot,17,-111,133,True
+Mike Scott,1,3,40,1,Jump Shot,23,236,15,False
+Mike Scott,4,3,58,1,Jump Shot,25,144,206,False
+Mike Scott,3,1,45,0,Jump Shot,24,-230,69,False
+Mike Scott,2,8,40,1,Jump Shot,16,82,147,True
+Mike Scott,1,1,30,1,Jump Shot,25,-152,200,False
+Mike Scott,4,6,25,1,Jump Shot,14,-95,111,True
+Mike Scott,1,2,26,0,Jump Shot,23,231,46,False
+Mike Scott,2,9,27,0,Jump Shot,16,13,164,True
+Mike Scott,2,10,3,1,Jump Shot,17,-55,161,True
+Mike Scott,4,1,56,1,Jump Shot,25,-78,241,False
+Mike Scott,1,6,27,1,Jump Shot,24,215,127,False
+Mike Scott,1,2,19,0,Jump Shot,14,141,9,True
+Mike Scott,2,11,11,1,Jump Shot,14,66,125,True
+Mike Scott,1,5,38,1,Jump Shot,26,94,247,False
+Mike Scott,2,7,49,0,Jump Shot,24,-234,79,False
+Mike Scott,2,7,5,1,Jump Shot,8,81,33,True
+Mike Scott,2,6,36,1,Jump Shot,14,51,139,True
+Mike Scott,2,10,28,1,Jump Shot,23,-230,17,False
+Mike Scott,3,4,6,1,Jump Shot,7,64,34,True
+Mike Scott,3,8,15,0,Jump Shot,18,143,121,True
+Mike Scott,2,8,31,1,Jump Shot,18,-24,183,True
+Mike Scott,2,11,42,0,Jump Shot,23,230,21,False
+Mike Scott,4,7,38,0,Jump Shot,22,-225,40,False
+Mike Scott,2,4,47,0,Jump Shot,22,222,34,False
+Mike Scott,3,2,27,0,Jump Shot,25,-76,248,False
+Mike Scott,1,0,43,0,Jump Shot,23,239,13,False
+Mike Scott,3,0,39,0,Jump Shot,28,68,278,False
+Mike Scott,1,0,56,1,Jump Shot,25,13,251,False
+Mike Scott,4,10,31,1,Layup Shot,7,-66,42,True
+Mike Scott,2,8,16,0,Layup Shot,6,59,34,True
+Mike Scott,2,9,6,0,Layup Shot,2,-22,14,True
+Mike Scott,4,5,56,1,Layup Shot,1,6,15,True
+Mike Scott,2,3,43,0,Layup Shot,4,49,9,True
+Mike Scott,2,8,6,0,Layup Shot,2,13,17,True
+Mike Scott,4,11,37,1,Layup Shot,13,-121,64,True
+Mike Scott,2,9,56,1,Layup Shot,4,-39,12,True
+Mike Scott,4,8,20,0,Layup Shot,1,10,13,True
+Mike Scott,4,9,1,1,Layup Shot,3,17,29,True
+Mike Scott,4,8,50,0,Layup Shot,0,-8,4,True
+Mike Scott,2,8,31,0,Layup Shot,2,13,17,True
+Mike Scott,1,1,4,1,Layup Shot,1,-9,6,True
+Mike Scott,2,3,41,1,Layup Shot,0,-8,4,True
+Mike Scott,2,9,10,0,Layup Shot,3,7,36,True
+Mike Scott,1,3,48,1,Layup Shot,3,13,29,True
+Mike Scott,2,9,3,0,Layup Shot,0,1,6,True
+Mike Scott,2,9,43,1,Layup Shot,4,8,44,True
+Mike Scott,2,11,8,1,Layup Shot,2,17,24,True
+Mike Scott,1,1,41,1,Layup Shot,0,7,4,True
+Mike Scott,2,9,39,1,Layup Shot,2,14,22,True
+Mike Scott,4,11,20,1,Layup Shot,1,10,10,True
+Mike Scott,2,5,59,0,Layup Shot,2,29,7,True
+Mike Scott,3,9,18,1,Layup Shot,1,-6,18,True
+Mike Scott,4,8,43,0,Layup Shot,1,9,13,True
+Mike Scott,2,9,9,0,Layup Shot,2,-16,18,True
+Mike Scott,4,9,51,0,Layup Shot,0,0,-6,True
+Mike Scott,4,6,41,1,Layup Shot,1,-3,15,True
+Mike Scott,4,5,16,1,Layup Shot,1,13,8,True
+Mike Scott,2,7,54,1,Layup Shot,0,1,-8,True
+Mike Scott,4,7,36,1,Layup Shot,1,9,11,True
+Mike Scott,4,2,59,0,Layup Shot,3,24,18,True
+Mike Scott,2,7,29,0,Pullup Jump shot,11,-111,43,True
+Mike Scott,3,1,10,1,Pullup Jump shot,26,106,242,False
+Mike Scott,1,1,55,1,Pullup Jump shot,24,233,69,False
+Mike Scott,3,0,36,0,Pullup Jump shot,16,5,162,True
+Mike Scott,1,0,30,1,Pullup Jump shot,15,134,71,True
+Mike Scott,2,9,8,0,Pullup Jump shot,19,78,179,True
+Mike Scott,3,2,30,1,Pullup Jump shot,22,95,206,True
+Mike Scott,1,1,45,1,Pullup Jump shot,18,45,184,True
+Mike Scott,2,8,7,1,Pullup Jump shot,17,-55,168,True
+Mike Scott,2,7,44,1,Pullup Jump shot,17,125,125,True
+Mike Scott,2,5,21,0,Pullup Jump shot,6,68,1,True
+Mike Scott,1,2,9,0,Pullup Jump shot,14,138,42,True
+Mike Scott,4,9,6,0,Pullup Jump shot,16,-74,148,True
+Mike Scott,2,10,19,0,Pullup Jump shot,25,101,229,False
+Mike Scott,4,6,40,0,Pullup Jump shot,14,107,105,True
+Mike Scott,3,1,11,0,Pullup Jump shot,16,8,163,True
+Mike Scott,1,0,32,1,Pullup Jump shot,15,22,152,True
+Mike Scott,2,10,57,0,Pullup Jump shot,17,68,161,True
+Mike Scott,3,0,0,0,Pullup Jump shot,24,171,176,False
+Mike Scott,1,3,36,0,Pullup Jump shot,26,110,246,False
+Mike Scott,2,8,3,0,Pullup Jump shot,17,130,122,True
+Mike Scott,1,2,10,0,Pullup Jump shot,25,-146,209,False
+Mike Scott,4,3,20,0,Pullup Jump shot,26,-54,258,False
+Mike Scott,1,2,26,0,Pullup Jump shot,7,71,32,True
+Mike Scott,1,1,32,0,Pullup Jump shot,18,-115,141,True
+Mike Scott,2,10,14,1,Pullup Jump shot,8,5,83,True
+Mike Scott,3,3,0,1,Pullup Jump shot,18,-135,122,True
+Mike Scott,4,11,25,0,Pullup Jump shot,25,-221,126,False
+Mike Scott,4,8,48,1,Pullup Jump shot,17,-129,125,True
+Mike Scott,2,6,17,1,Pullup Jump shot,11,-36,106,True
+Mike Scott,1,1,45,0,Pullup Jump shot,21,17,213,True
+Mike Scott,2,10,48,1,Pullup Jump shot,12,127,-16,True
+Mike Scott,1,1,50,0,Pullup Jump shot,10,33,100,True
+Mike Scott,2,11,6,1,Pullup Jump shot,14,57,136,True
+Mike Scott,1,1,22,0,Pullup Jump shot,16,61,152,True
+Mike Scott,2,9,43,0,Pullup Jump shot,7,3,73,True
+Mike Scott,3,9,25,0,Pullup Jump shot,15,148,38,True
+Mike Scott,4,11,16,1,Pullup Jump shot,6,-18,59,True
+Mike Scott,1,1,4,0,Putback Layup Shot,2,2,21,True
+Mike Scott,2,9,2,1,Putback Layup Shot,0,0,-6,True
+Mike Scott,2,8,18,0,Putback Layup Shot,0,0,-6,True
+Mike Scott,2,8,20,1,Putback Layup Shot,2,-3,22,True
+Mike Scott,4,9,1,1,Putback Layup Shot,0,0,-6,True
+Mike Scott,2,7,21,0,Putback Layup Shot,0,0,-6,True
+Mike Scott,3,0,1,1,Reverse Layup Shot,1,11,10,True
+Mike Scott,2,11,1,1,Reverse Layup Shot,1,-5,13,True
+Mike Scott,3,3,54,1,Reverse Layup Shot,1,8,13,True
+Mike Scott,2,10,40,0,Reverse Layup Shot,8,16,85,True
+Mike Scott,2,4,46,1,Running Dunk Shot,0,2,-5,True
+Mike Scott,2,11,7,0,Running Dunk Shot,0,0,-7,True
+Mike Scott,2,11,21,1,Running Dunk Shot,1,6,16,True
+Mike Scott,4,11,15,1,Running Jump Shot,9,-20,89,True
+Mike Scott,4,10,26,0,Running Jump Shot,9,-14,99,True
+Mike Scott,4,9,40,0,Running Layup Shot,1,15,10,True
+Mike Scott,4,10,17,0,Running Layup Shot,1,13,3,True
+Mike Scott,2,1,58,1,Step Back Jump shot,13,129,48,True
+Mike Scott,4,11,40,0,Step Back Jump shot,20,109,168,True
+Mike Scott,4,11,40,1,Step Back Jump shot,14,105,107,True
+Mike Scott,1,3,17,1,Step Back Jump shot,17,-165,59,True
+Mike Scott,4,10,11,1,Step Back Jump shot,14,-145,8,True
+Mike Scott,4,1,58,1,Step Back Jump shot,16,98,132,True
+Mike Scott,2,9,20,1,Step Back Jump shot,17,131,121,True
+Mike Scott,3,1,43,1,Step Back Jump shot,16,166,-1,True
+Mike Scott,1,0,41,1,Step Back Jump shot,17,169,38,True
+Mike Scott,4,5,4,1,Step Back Jump shot,18,77,164,True
+Mike Scott,2,8,53,1,Step Back Jump shot,12,95,78,True
+Mike Scott,2,11,7,1,Step Back Jump shot,15,142,67,True
+Mike Scott,3,7,14,1,Step Back Jump shot,15,130,87,True
+Mike Scott,1,1,47,1,Step Back Jump shot,12,123,25,True
+Mike Scott,2,6,37,1,Step Back Jump shot,16,-35,162,True
+Mike Scott,2,5,32,0,Step Back Jump shot,16,105,130,True
+Mike Scott,4,5,30,1,Step Back Jump shot,20,-155,136,True
+Mike Scott,2,6,42,0,Step Back Jump shot,15,-136,74,True
+Mike Scott,4,8,45,1,Step Back Jump shot,12,-119,51,True
+Mike Scott,2,8,44,1,Step Back Jump shot,15,-1,151,True
+Mike Scott,2,6,49,0,Step Back Jump shot,18,-43,185,True
+Mike Scott,2,9,4,0,Tip Layup Shot,0,0,-6,True
+Mike Scott,4,6,47,1,Tip Layup Shot,0,0,-6,True
+Mike Scott,1,0,45,0,Tip Layup Shot,5,-30,40,True
+Mike Scott,2,6,2,0,Tip Layup Shot,0,0,-6,True
+Mike Scott,4,10,52,1,Tip Layup Shot,0,0,-6,True
+Mike Scott,3,3,13,0,Turnaround Bank Hook Shot,9,51,83,True
+Mike Scott,2,9,31,0,Turnaround Fadeaway Bank Jump Shot,8,84,27,True
+Mike Scott,2,10,52,1,Turnaround Fadeaway Bank Jump Shot,13,125,55,True
+Mike Scott,4,9,28,0,Turnaround Fadeaway Bank Jump Shot,10,90,55,True
+Mike Scott,3,1,18,1,Turnaround Fadeaway Bank Jump Shot,13,70,113,True
+Mike Scott,2,8,10,1,Turnaround Fadeaway Bank Jump Shot,6,55,43,True
+Mike Scott,2,6,4,1,Turnaround Fadeaway shot,13,-126,37,True
+Mike Scott,2,9,25,1,Turnaround Fadeaway shot,9,79,59,True
+Mike Scott,2,7,59,1,Turnaround Fadeaway shot,17,90,147,True
+Mike Scott,4,10,31,1,Turnaround Fadeaway shot,11,-55,102,True
+Mike Scott,2,10,32,0,Turnaround Fadeaway shot,9,-92,28,True
+Mike Scott,2,10,40,1,Turnaround Fadeaway shot,11,-70,89,True
+Mike Scott,2,8,4,1,Turnaround Fadeaway shot,12,4,128,True
+Mike Scott,4,5,55,0,Turnaround Fadeaway shot,18,40,180,True
+Mike Scott,2,7,15,0,Turnaround Fadeaway shot,12,100,68,True
+Mike Scott,4,1,20,1,Turnaround Fadeaway shot,15,94,129,True
+Mike Scott,4,11,38,0,Turnaround Hook Shot,8,-44,78,True
+Mike Scott,2,11,25,1,Turnaround Hook Shot,11,-50,107,True
+Mike Scott,1,0,49,1,Turnaround Hook Shot,9,1,92,True
+Mike Scott,4,8,24,0,Turnaround Hook Shot,7,2,79,True
+Mike Scott,2,9,8,1,Turnaround Hook Shot,3,-27,29,True
+Mike Scott,2,11,19,0,Turnaround Hook Shot,9,54,73,True
+Mike Scott,2,11,43,0,Turnaround Hook Shot,10,0,105,True
+Mike Scott,4,8,40,1,Turnaround Hook Shot,10,-9,100,True
+Mike Scott,3,2,16,0,Turnaround Hook Shot,9,9,90,True
+Mike Scott,2,10,37,1,Turnaround Jump Shot,7,-26,68,True
+Mike Scott,3,2,39,1,Turnaround Jump Shot,4,-25,41,True
+Mike Scott,1,10,43,1,Turnaround Jump Shot,8,29,81,True
+Mike Scott,1,1,24,1,Turnaround Jump Shot,6,30,55,True
+Mike Scott,4,10,57,0,Turnaround Jump Shot,15,-43,153,True
+Mike Scott,4,10,53,1,Turnaround Jump Shot,3,30,18,True
+Mike Scott,1,2,4,0,Turnaround Jump Shot,8,63,54,True
+Mike Scott,4,9,11,1,Turnaround Jump Shot,9,-66,71,True
+Mike Scott,2,10,41,1,Turnaround Jump Shot,3,-12,36,True
+Mike Scott,2,10,26,0,Turnaround Jump Shot,7,-59,47,True
+Mike Scott,1,1,54,0,Turnaround Jump Shot,6,-67,6,True
+Mike Scott,2,5,20,0,Turnaround Jump Shot,11,41,107,True
+Mike Scott,4,9,57,1,Turnaround Jump Shot,9,81,42,True
+Mike Scott,2,11,11,1,Turnaround Jump Shot,3,31,15,True

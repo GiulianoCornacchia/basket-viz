@@ -1,0 +1,47 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Quincy Pondexter,3,0,32,1,Cutting Layup Shot,1,-6,11,True
+Quincy Pondexter,4,4,33,1,Driving Dunk Shot,1,8,6,True
+Quincy Pondexter,2,7,12,1,Driving Dunk Shot,1,10,2,True
+Quincy Pondexter,4,1,1,1,Driving Floating Jump Shot,6,-11,68,True
+Quincy Pondexter,2,8,17,0,Driving Layup Shot,2,-1,27,True
+Quincy Pondexter,2,7,52,0,Driving Layup Shot,2,24,16,True
+Quincy Pondexter,3,0,27,0,Driving Layup Shot,2,-7,29,True
+Quincy Pondexter,3,7,46,0,Jump Shot,1,13,6,True
+Quincy Pondexter,1,11,42,0,Jump Shot,22,-229,7,False
+Quincy Pondexter,3,3,31,0,Jump Shot,22,-222,22,False
+Quincy Pondexter,4,5,13,0,Jump Shot,23,-231,-9,False
+Quincy Pondexter,4,2,58,1,Jump Shot,25,76,239,False
+Quincy Pondexter,2,10,45,0,Jump Shot,25,-146,205,False
+Quincy Pondexter,1,0,0,0,Jump Shot,16,45,161,True
+Quincy Pondexter,4,1,46,1,Jump Shot,22,-223,31,False
+Quincy Pondexter,1,0,0,0,Jump Shot,25,-76,247,False
+Quincy Pondexter,1,2,58,0,Jump Shot,24,-93,226,False
+Quincy Pondexter,4,1,39,0,Jump Shot,25,101,238,False
+Quincy Pondexter,1,0,0,0,Jump Shot,48,165,461,False
+Quincy Pondexter,4,5,17,0,Jump Shot,24,231,79,False
+Quincy Pondexter,4,4,24,0,Jump Shot,25,149,205,False
+Quincy Pondexter,4,6,15,0,Jump Shot,25,-9,258,False
+Quincy Pondexter,4,8,8,1,Jump Shot,26,96,242,False
+Quincy Pondexter,4,8,36,0,Jump Shot,16,-5,166,True
+Quincy Pondexter,3,1,15,0,Jump Shot,24,-90,227,False
+Quincy Pondexter,2,8,44,0,Jump Shot,25,-121,225,False
+Quincy Pondexter,4,0,46,0,Jump Shot,25,-43,247,False
+Quincy Pondexter,2,11,23,0,Jump Shot,25,-68,246,False
+Quincy Pondexter,3,0,59,0,Jump Shot,15,-130,92,True
+Quincy Pondexter,4,0,44,0,Jump Shot,23,236,-19,False
+Quincy Pondexter,2,10,0,0,Jump Shot,24,-139,199,False
+Quincy Pondexter,1,0,0,0,Jump Shot,29,194,218,False
+Quincy Pondexter,2,10,0,0,Jump Shot,25,-185,178,False
+Quincy Pondexter,1,0,24,1,Layup Shot,1,14,-1,True
+Quincy Pondexter,4,0,29,0,Layup Shot,1,-12,15,True
+Quincy Pondexter,4,2,37,1,Layup Shot,1,-16,4,True
+Quincy Pondexter,3,2,50,1,Layup Shot,2,19,11,True
+Quincy Pondexter,2,10,43,0,Layup Shot,2,22,9,True
+Quincy Pondexter,4,0,50,0,Pullup Jump shot,6,-61,29,True
+Quincy Pondexter,4,0,22,1,Pullup Jump shot,10,-106,20,True
+Quincy Pondexter,3,7,3,0,Pullup Jump shot,6,6,68,True
+Quincy Pondexter,2,10,21,0,Pullup Jump shot,19,146,122,True
+Quincy Pondexter,2,1,1,1,Running Dunk Shot,1,-13,-1,True
+Quincy Pondexter,4,2,49,0,Running Layup Shot,2,16,13,True
+Quincy Pondexter,4,3,10,1,Running Layup Shot,2,-20,13,True
+Quincy Pondexter,1,0,33,0,Tip Layup Shot,2,19,8,True

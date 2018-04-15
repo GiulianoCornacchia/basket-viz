@@ -1,0 +1,17 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jeff Withey,4,0,29,1,Cutting Layup Shot,1,11,11,True
+Jeff Withey,4,3,21,1,Driving Dunk Shot,0,2,4,True
+Jeff Withey,4,1,24,0,Jump Shot,24,-13,248,False
+Jeff Withey,4,1,38,0,Jump Shot,24,-80,234,False
+Jeff Withey,4,0,37,1,Jump Shot,25,3,250,False
+Jeff Withey,4,1,1,0,Jump Shot,25,-8,251,False
+Jeff Withey,4,2,39,0,Jump Shot,25,-38,252,False
+Jeff Withey,4,0,20,0,Jump Shot,25,-49,251,False
+Jeff Withey,4,4,22,0,Jump Shot,24,12,248,False
+Jeff Withey,4,0,33,0,Jump Shot,24,34,245,False
+Jeff Withey,4,2,57,0,Jump Shot,23,227,52,False
+Jeff Withey,4,0,29,1,Running Dunk Shot,1,-9,6,True
+Jeff Withey,4,0,44,1,Running Jump Shot,23,234,9,False
+Jeff Withey,4,5,42,1,Tip Layup Shot,0,0,-6,True
+Jeff Withey,4,6,10,0,Turnaround Jump Shot,9,96,22,True
+Jeff Withey,4,0,7,0,Turnaround Jump Shot,16,7,163,True

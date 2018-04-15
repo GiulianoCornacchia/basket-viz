@@ -1,0 +1,1028 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Dennis Schroder,1,5,14,1,Cutting Layup Shot,2,9,21,True
+Dennis Schroder,4,7,13,0,Cutting Layup Shot,0,4,1,True
+Dennis Schroder,2,5,10,1,Cutting Layup Shot,3,0,31,True
+Dennis Schroder,4,4,11,0,Driving Dunk Shot,0,0,9,True
+Dennis Schroder,4,4,46,0,Driving Dunk Shot,1,-4,19,True
+Dennis Schroder,3,4,1,0,Driving Finger Roll Layup Shot,1,-8,9,True
+Dennis Schroder,2,3,59,0,Driving Finger Roll Layup Shot,3,-36,12,True
+Dennis Schroder,2,7,19,1,Driving Finger Roll Layup Shot,2,-24,5,True
+Dennis Schroder,2,5,33,1,Driving Finger Roll Layup Shot,0,-7,5,True
+Dennis Schroder,2,6,54,1,Driving Finger Roll Layup Shot,4,6,42,True
+Dennis Schroder,2,5,16,1,Driving Finger Roll Layup Shot,1,-11,1,True
+Dennis Schroder,3,5,0,1,Driving Finger Roll Layup Shot,1,-13,15,True
+Dennis Schroder,2,7,2,0,Driving Finger Roll Layup Shot,1,-13,14,True
+Dennis Schroder,3,6,9,0,Driving Finger Roll Layup Shot,4,-8,40,True
+Dennis Schroder,1,4,3,1,Driving Finger Roll Layup Shot,2,-26,-1,True
+Dennis Schroder,3,11,28,0,Driving Finger Roll Layup Shot,4,36,25,True
+Dennis Schroder,2,4,57,0,Driving Finger Roll Layup Shot,2,-27,12,True
+Dennis Schroder,3,10,37,0,Driving Finger Roll Layup Shot,2,18,17,True
+Dennis Schroder,3,5,11,0,Driving Finger Roll Layup Shot,2,20,9,True
+Dennis Schroder,4,2,21,1,Driving Finger Roll Layup Shot,3,-30,21,True
+Dennis Schroder,1,4,55,1,Driving Finger Roll Layup Shot,4,-27,33,True
+Dennis Schroder,1,8,46,1,Driving Finger Roll Layup Shot,3,-1,34,True
+Dennis Schroder,1,6,15,1,Driving Finger Roll Layup Shot,2,-20,18,True
+Dennis Schroder,1,5,20,1,Driving Floating Bank Jump Shot,6,-64,20,True
+Dennis Schroder,4,6,12,0,Driving Floating Bank Jump Shot,12,-85,90,True
+Dennis Schroder,3,1,26,0,Driving Floating Bank Jump Shot,4,-23,37,True
+Dennis Schroder,2,0,32,0,Driving Floating Bank Jump Shot,7,59,46,True
+Dennis Schroder,1,8,47,1,Driving Floating Bank Jump Shot,11,-100,49,True
+Dennis Schroder,2,3,29,1,Driving Floating Bank Jump Shot,7,-57,52,True
+Dennis Schroder,2,1,57,0,Driving Floating Bank Jump Shot,1,-8,13,True
+Dennis Schroder,3,6,42,1,Driving Floating Bank Jump Shot,12,0,122,True
+Dennis Schroder,3,10,0,0,Driving Floating Bank Jump Shot,8,61,53,True
+Dennis Schroder,2,0,0,1,Driving Floating Jump Shot,16,25,160,True
+Dennis Schroder,1,3,52,0,Driving Floating Jump Shot,3,-14,27,True
+Dennis Schroder,1,5,7,1,Driving Floating Jump Shot,9,-36,89,True
+Dennis Schroder,1,5,8,0,Driving Floating Jump Shot,1,14,3,True
+Dennis Schroder,4,3,3,1,Driving Floating Jump Shot,9,-34,94,True
+Dennis Schroder,3,0,29,1,Driving Floating Jump Shot,6,-60,36,True
+Dennis Schroder,1,6,31,0,Driving Floating Jump Shot,9,-32,94,True
+Dennis Schroder,1,8,26,0,Driving Floating Jump Shot,9,-56,71,True
+Dennis Schroder,1,10,20,0,Driving Floating Jump Shot,9,14,90,True
+Dennis Schroder,3,5,32,1,Driving Floating Jump Shot,6,-2,61,True
+Dennis Schroder,1,7,14,0,Driving Floating Jump Shot,9,-32,85,True
+Dennis Schroder,1,10,34,0,Driving Floating Jump Shot,6,-2,67,True
+Dennis Schroder,1,10,5,0,Driving Floating Jump Shot,11,-12,113,True
+Dennis Schroder,3,7,53,0,Driving Floating Jump Shot,9,-13,90,True
+Dennis Schroder,3,6,44,0,Driving Floating Jump Shot,11,6,115,True
+Dennis Schroder,4,4,5,0,Driving Floating Jump Shot,10,94,40,True
+Dennis Schroder,4,8,5,1,Driving Floating Jump Shot,11,-47,107,True
+Dennis Schroder,1,7,58,1,Driving Floating Jump Shot,10,104,22,True
+Dennis Schroder,3,9,39,1,Driving Floating Jump Shot,5,-52,26,True
+Dennis Schroder,3,5,14,0,Driving Floating Jump Shot,2,1,25,True
+Dennis Schroder,4,3,10,0,Driving Floating Jump Shot,8,-38,74,True
+Dennis Schroder,3,5,15,1,Driving Floating Jump Shot,10,41,92,True
+Dennis Schroder,2,2,30,1,Driving Floating Jump Shot,5,-20,49,True
+Dennis Schroder,4,7,33,0,Driving Floating Jump Shot,4,31,28,True
+Dennis Schroder,1,4,42,1,Driving Floating Jump Shot,13,-79,109,True
+Dennis Schroder,4,5,20,0,Driving Floating Jump Shot,9,2,91,True
+Dennis Schroder,1,8,40,0,Driving Floating Jump Shot,12,93,84,True
+Dennis Schroder,3,10,58,1,Driving Floating Jump Shot,13,-61,123,True
+Dennis Schroder,3,7,11,0,Driving Floating Jump Shot,13,-39,128,True
+Dennis Schroder,2,1,14,0,Driving Floating Jump Shot,1,0,17,True
+Dennis Schroder,4,0,16,0,Driving Floating Jump Shot,10,37,94,True
+Dennis Schroder,2,0,1,0,Driving Floating Jump Shot,7,-40,58,True
+Dennis Schroder,4,3,29,1,Driving Floating Jump Shot,12,-6,120,True
+Dennis Schroder,3,7,53,0,Driving Floating Jump Shot,6,-5,62,True
+Dennis Schroder,4,6,25,0,Driving Floating Jump Shot,15,8,152,True
+Dennis Schroder,3,9,52,1,Driving Floating Jump Shot,10,32,98,True
+Dennis Schroder,1,3,28,1,Driving Floating Jump Shot,15,40,147,True
+Dennis Schroder,3,4,31,1,Driving Floating Jump Shot,10,5,101,True
+Dennis Schroder,1,4,18,0,Driving Floating Jump Shot,14,-9,140,True
+Dennis Schroder,2,5,52,1,Driving Floating Jump Shot,4,22,41,True
+Dennis Schroder,1,4,56,1,Driving Floating Jump Shot,2,1,25,True
+Dennis Schroder,3,8,57,1,Driving Floating Jump Shot,12,6,122,True
+Dennis Schroder,3,1,54,1,Driving Floating Jump Shot,7,28,73,True
+Dennis Schroder,1,8,22,0,Driving Floating Jump Shot,10,33,102,True
+Dennis Schroder,4,0,37,1,Driving Floating Jump Shot,9,-47,78,True
+Dennis Schroder,4,2,17,0,Driving Floating Jump Shot,3,-19,27,True
+Dennis Schroder,3,2,23,0,Driving Floating Jump Shot,11,20,111,True
+Dennis Schroder,2,2,23,0,Driving Floating Jump Shot,1,-8,11,True
+Dennis Schroder,1,7,53,0,Driving Floating Jump Shot,3,-36,11,True
+Dennis Schroder,2,4,58,1,Driving Floating Jump Shot,12,0,125,True
+Dennis Schroder,1,10,23,0,Driving Floating Jump Shot,10,7,109,True
+Dennis Schroder,3,6,46,0,Driving Floating Jump Shot,4,46,0,True
+Dennis Schroder,4,10,25,0,Driving Floating Jump Shot,9,-24,97,True
+Dennis Schroder,3,5,10,1,Driving Floating Jump Shot,11,109,27,True
+Dennis Schroder,4,4,51,0,Driving Floating Jump Shot,8,-7,86,True
+Dennis Schroder,1,8,37,0,Driving Floating Jump Shot,13,27,134,True
+Dennis Schroder,3,3,44,1,Driving Floating Jump Shot,12,48,110,True
+Dennis Schroder,2,3,39,1,Driving Floating Jump Shot,13,-2,133,True
+Dennis Schroder,4,6,49,1,Driving Floating Jump Shot,10,1,104,True
+Dennis Schroder,1,5,6,0,Driving Floating Jump Shot,6,-69,8,True
+Dennis Schroder,4,7,5,0,Driving Floating Jump Shot,4,41,13,True
+Dennis Schroder,4,0,39,1,Driving Floating Jump Shot,8,-26,80,True
+Dennis Schroder,4,5,30,1,Driving Floating Jump Shot,10,-12,104,True
+Dennis Schroder,3,3,32,1,Driving Floating Jump Shot,6,-42,46,True
+Dennis Schroder,1,4,17,0,Driving Floating Jump Shot,13,-8,134,True
+Dennis Schroder,4,4,57,0,Driving Floating Jump Shot,3,-13,28,True
+Dennis Schroder,4,6,4,0,Driving Floating Jump Shot,11,-3,115,True
+Dennis Schroder,2,8,10,0,Driving Floating Jump Shot,9,20,91,True
+Dennis Schroder,1,9,30,1,Driving Floating Jump Shot,12,8,127,True
+Dennis Schroder,1,8,17,1,Driving Floating Jump Shot,12,5,128,True
+Dennis Schroder,4,7,17,0,Driving Floating Jump Shot,11,5,117,True
+Dennis Schroder,3,0,33,1,Driving Layup Shot,1,16,4,True
+Dennis Schroder,1,6,37,1,Driving Layup Shot,1,3,19,True
+Dennis Schroder,1,11,42,0,Driving Layup Shot,2,-3,20,True
+Dennis Schroder,2,0,45,1,Driving Layup Shot,4,29,29,True
+Dennis Schroder,4,1,42,1,Driving Layup Shot,1,0,13,True
+Dennis Schroder,2,5,19,1,Driving Layup Shot,1,9,10,True
+Dennis Schroder,1,4,24,1,Driving Layup Shot,1,11,16,True
+Dennis Schroder,2,9,14,0,Driving Layup Shot,2,-6,20,True
+Dennis Schroder,3,4,21,1,Driving Layup Shot,1,-3,15,True
+Dennis Schroder,2,11,18,1,Driving Layup Shot,0,0,6,True
+Dennis Schroder,1,8,41,1,Driving Layup Shot,2,12,16,True
+Dennis Schroder,2,4,29,0,Driving Layup Shot,1,-3,10,True
+Dennis Schroder,3,6,1,1,Driving Layup Shot,2,16,13,True
+Dennis Schroder,3,6,26,1,Driving Layup Shot,0,0,9,True
+Dennis Schroder,4,2,10,1,Driving Layup Shot,2,8,20,True
+Dennis Schroder,3,5,33,1,Driving Layup Shot,0,0,5,True
+Dennis Schroder,3,4,19,0,Driving Layup Shot,4,-25,32,True
+Dennis Schroder,3,10,49,1,Driving Layup Shot,1,-9,5,True
+Dennis Schroder,4,10,2,1,Driving Layup Shot,1,11,-7,True
+Dennis Schroder,4,1,23,0,Driving Layup Shot,1,-9,5,True
+Dennis Schroder,4,6,41,1,Driving Layup Shot,1,12,8,True
+Dennis Schroder,3,7,54,0,Driving Layup Shot,3,36,11,True
+Dennis Schroder,2,6,43,0,Driving Layup Shot,2,-5,27,True
+Dennis Schroder,1,8,7,1,Driving Layup Shot,2,20,6,True
+Dennis Schroder,1,2,46,0,Driving Layup Shot,1,-5,18,True
+Dennis Schroder,1,5,40,0,Driving Layup Shot,7,-56,54,True
+Dennis Schroder,2,0,29,1,Driving Layup Shot,2,5,22,True
+Dennis Schroder,3,4,42,1,Driving Layup Shot,1,-3,16,True
+Dennis Schroder,4,4,52,0,Driving Layup Shot,1,2,16,True
+Dennis Schroder,1,3,44,0,Driving Layup Shot,1,-6,16,True
+Dennis Schroder,4,5,56,1,Driving Layup Shot,0,-8,0,True
+Dennis Schroder,2,9,22,1,Driving Layup Shot,0,-1,7,True
+Dennis Schroder,3,10,58,1,Driving Layup Shot,1,-3,13,True
+Dennis Schroder,3,0,49,0,Driving Layup Shot,1,5,15,True
+Dennis Schroder,1,5,6,1,Driving Layup Shot,1,8,7,True
+Dennis Schroder,4,4,42,0,Driving Layup Shot,5,29,48,True
+Dennis Schroder,2,4,28,0,Driving Layup Shot,2,-11,20,True
+Dennis Schroder,2,1,24,0,Driving Layup Shot,1,-18,8,True
+Dennis Schroder,3,4,58,0,Driving Layup Shot,1,-16,10,True
+Dennis Schroder,4,7,26,1,Driving Layup Shot,1,19,0,True
+Dennis Schroder,1,8,38,0,Driving Layup Shot,2,18,13,True
+Dennis Schroder,3,4,12,0,Driving Layup Shot,6,45,43,True
+Dennis Schroder,1,3,55,0,Driving Layup Shot,1,3,11,True
+Dennis Schroder,3,5,53,1,Driving Layup Shot,2,17,14,True
+Dennis Schroder,1,4,7,0,Driving Layup Shot,0,4,-8,True
+Dennis Schroder,4,4,55,1,Driving Layup Shot,2,8,20,True
+Dennis Schroder,1,5,30,1,Driving Layup Shot,1,-8,7,True
+Dennis Schroder,3,11,20,0,Driving Layup Shot,1,8,14,True
+Dennis Schroder,4,3,54,0,Driving Layup Shot,1,-12,11,True
+Dennis Schroder,2,4,58,0,Driving Layup Shot,2,-9,23,True
+Dennis Schroder,1,3,47,0,Driving Layup Shot,2,21,6,True
+Dennis Schroder,1,10,49,1,Driving Layup Shot,3,8,39,True
+Dennis Schroder,3,7,30,1,Driving Layup Shot,1,2,13,True
+Dennis Schroder,1,4,40,1,Driving Layup Shot,1,-13,4,True
+Dennis Schroder,1,11,4,0,Driving Layup Shot,6,-62,22,True
+Dennis Schroder,3,1,40,0,Driving Layup Shot,4,28,38,True
+Dennis Schroder,1,9,41,0,Driving Layup Shot,3,-32,6,True
+Dennis Schroder,2,1,28,0,Driving Layup Shot,8,89,7,True
+Dennis Schroder,1,5,13,1,Driving Layup Shot,1,3,15,True
+Dennis Schroder,1,2,54,1,Driving Layup Shot,3,18,31,True
+Dennis Schroder,3,10,21,1,Driving Layup Shot,1,6,15,True
+Dennis Schroder,1,5,28,0,Driving Layup Shot,6,-18,63,True
+Dennis Schroder,3,9,53,0,Driving Layup Shot,0,-5,7,True
+Dennis Schroder,2,3,13,0,Driving Layup Shot,4,-2,42,True
+Dennis Schroder,3,7,28,1,Driving Layup Shot,0,0,2,True
+Dennis Schroder,2,7,23,0,Driving Layup Shot,2,7,20,True
+Dennis Schroder,1,10,44,1,Driving Layup Shot,1,-16,7,True
+Dennis Schroder,4,6,41,1,Driving Layup Shot,2,-1,26,True
+Dennis Schroder,1,6,17,1,Driving Layup Shot,1,3,11,True
+Dennis Schroder,1,8,20,0,Driving Layup Shot,3,-15,37,True
+Dennis Schroder,1,11,40,1,Driving Layup Shot,2,11,24,True
+Dennis Schroder,2,9,10,1,Driving Layup Shot,0,8,0,True
+Dennis Schroder,2,1,41,0,Driving Layup Shot,2,1,24,True
+Dennis Schroder,3,7,36,1,Driving Layup Shot,1,-8,12,True
+Dennis Schroder,1,5,35,0,Driving Layup Shot,1,-8,15,True
+Dennis Schroder,1,8,4,1,Driving Layup Shot,1,0,13,True
+Dennis Schroder,3,4,37,0,Driving Layup Shot,3,33,21,True
+Dennis Schroder,3,7,54,0,Driving Layup Shot,5,-34,44,True
+Dennis Schroder,1,9,54,1,Driving Layup Shot,1,16,6,True
+Dennis Schroder,3,9,26,0,Driving Layup Shot,1,-5,10,True
+Dennis Schroder,4,1,30,1,Driving Layup Shot,1,2,12,True
+Dennis Schroder,3,10,1,1,Driving Layup Shot,2,20,-1,True
+Dennis Schroder,1,4,27,0,Driving Layup Shot,0,-6,3,True
+Dennis Schroder,2,4,47,1,Driving Layup Shot,2,-23,-1,True
+Dennis Schroder,1,1,43,0,Driving Layup Shot,2,-3,20,True
+Dennis Schroder,1,6,58,1,Driving Layup Shot,1,4,16,True
+Dennis Schroder,2,1,17,1,Driving Layup Shot,0,-5,8,True
+Dennis Schroder,2,4,30,1,Driving Layup Shot,1,-11,5,True
+Dennis Schroder,3,9,9,0,Driving Layup Shot,2,19,11,True
+Dennis Schroder,3,2,16,0,Driving Layup Shot,2,-5,25,True
+Dennis Schroder,2,9,46,0,Driving Layup Shot,2,12,24,True
+Dennis Schroder,1,3,21,0,Driving Layup Shot,2,-5,29,True
+Dennis Schroder,1,10,33,1,Driving Layup Shot,2,-16,19,True
+Dennis Schroder,2,5,44,1,Driving Layup Shot,1,-8,13,True
+Dennis Schroder,2,3,0,0,Driving Layup Shot,2,-15,22,True
+Dennis Schroder,2,1,35,0,Driving Layup Shot,2,4,26,True
+Dennis Schroder,4,7,53,0,Driving Layup Shot,2,-26,7,True
+Dennis Schroder,2,1,25,0,Driving Layup Shot,3,29,24,True
+Dennis Schroder,3,7,6,1,Driving Layup Shot,1,-7,13,True
+Dennis Schroder,1,4,50,0,Driving Layup Shot,1,-19,0,True
+Dennis Schroder,4,7,19,0,Driving Layup Shot,2,-8,22,True
+Dennis Schroder,3,9,42,1,Driving Layup Shot,1,-3,10,True
+Dennis Schroder,2,5,51,0,Driving Layup Shot,2,19,22,True
+Dennis Schroder,2,10,56,0,Driving Layup Shot,1,-12,12,True
+Dennis Schroder,1,4,2,0,Driving Layup Shot,2,-21,20,True
+Dennis Schroder,4,3,25,0,Driving Layup Shot,2,-13,18,True
+Dennis Schroder,3,4,53,1,Driving Layup Shot,1,-6,14,True
+Dennis Schroder,2,2,33,0,Driving Layup Shot,0,9,-4,True
+Dennis Schroder,1,4,17,0,Driving Layup Shot,0,-8,5,True
+Dennis Schroder,1,10,17,0,Driving Layup Shot,1,-15,5,True
+Dennis Schroder,4,8,4,1,Driving Layup Shot,2,-5,20,True
+Dennis Schroder,3,6,40,0,Driving Layup Shot,2,-5,28,True
+Dennis Schroder,3,8,8,1,Driving Layup Shot,2,-29,0,True
+Dennis Schroder,3,4,30,0,Driving Layup Shot,3,27,21,True
+Dennis Schroder,2,1,41,0,Driving Layup Shot,2,20,8,True
+Dennis Schroder,3,2,31,0,Driving Layup Shot,6,20,62,True
+Dennis Schroder,4,2,10,1,Driving Layup Shot,2,1,29,True
+Dennis Schroder,4,2,52,0,Driving Layup Shot,3,-28,16,True
+Dennis Schroder,3,11,43,0,Driving Layup Shot,4,-3,40,True
+Dennis Schroder,2,0,32,1,Driving Layup Shot,3,34,21,True
+Dennis Schroder,2,6,2,1,Driving Layup Shot,2,8,20,True
+Dennis Schroder,4,0,59,0,Driving Layup Shot,1,-13,6,True
+Dennis Schroder,2,3,45,0,Driving Layup Shot,2,-8,24,True
+Dennis Schroder,4,4,1,0,Driving Layup Shot,7,-7,74,True
+Dennis Schroder,4,4,51,1,Driving Layup Shot,1,-2,13,True
+Dennis Schroder,4,2,27,0,Driving Layup Shot,0,-2,8,True
+Dennis Schroder,4,4,18,1,Driving Layup Shot,1,3,15,True
+Dennis Schroder,4,3,54,1,Driving Layup Shot,1,1,14,True
+Dennis Schroder,4,6,56,1,Driving Layup Shot,1,16,0,True
+Dennis Schroder,4,9,4,1,Driving Layup Shot,1,6,14,True
+Dennis Schroder,4,5,58,0,Driving Layup Shot,2,17,13,True
+Dennis Schroder,2,6,42,0,Driving Layup Shot,3,-32,0,True
+Dennis Schroder,1,9,45,0,Driving Layup Shot,3,27,21,True
+Dennis Schroder,4,7,35,1,Driving Layup Shot,2,-8,19,True
+Dennis Schroder,4,7,2,0,Driving Layup Shot,2,-14,15,True
+Dennis Schroder,2,6,25,0,Driving Layup Shot,1,-8,10,True
+Dennis Schroder,1,9,0,1,Driving Layup Shot,1,-7,16,True
+Dennis Schroder,4,0,8,1,Driving Layup Shot,2,-5,21,True
+Dennis Schroder,4,4,30,0,Driving Layup Shot,2,24,8,True
+Dennis Schroder,2,2,42,0,Driving Layup Shot,4,-40,20,True
+Dennis Schroder,1,8,37,1,Driving Layup Shot,1,-3,15,True
+Dennis Schroder,4,6,8,1,Driving Layup Shot,0,0,8,True
+Dennis Schroder,4,5,42,1,Driving Layup Shot,1,-10,3,True
+Dennis Schroder,2,5,2,1,Driving Layup Shot,0,-9,4,True
+Dennis Schroder,2,2,26,1,Driving Layup Shot,0,5,4,True
+Dennis Schroder,3,11,46,0,Driving Layup Shot,2,12,20,True
+Dennis Schroder,4,3,51,0,Driving Layup Shot,1,-7,12,True
+Dennis Schroder,3,2,55,0,Driving Layup Shot,1,7,15,True
+Dennis Schroder,1,9,43,0,Driving Layup Shot,1,2,11,True
+Dennis Schroder,1,5,4,0,Driving Layup Shot,1,8,11,True
+Dennis Schroder,1,8,51,0,Driving Layup Shot,1,0,16,True
+Dennis Schroder,4,3,32,1,Driving Layup Shot,1,6,17,True
+Dennis Schroder,1,6,41,0,Driving Layup Shot,3,24,22,True
+Dennis Schroder,4,4,24,0,Driving Layup Shot,4,38,22,True
+Dennis Schroder,1,4,38,0,Driving Layup Shot,2,-3,27,True
+Dennis Schroder,4,8,27,0,Driving Layup Shot,2,-16,12,True
+Dennis Schroder,2,6,20,1,Driving Layup Shot,1,-5,9,True
+Dennis Schroder,3,8,25,1,Driving Layup Shot,1,3,17,True
+Dennis Schroder,1,8,29,0,Driving Layup Shot,1,17,3,True
+Dennis Schroder,1,4,26,1,Driving Layup Shot,1,-3,16,True
+Dennis Schroder,3,4,26,0,Driving Layup Shot,0,0,6,True
+Dennis Schroder,4,3,51,1,Driving Layup Shot,1,-2,16,True
+Dennis Schroder,1,7,7,0,Driving Layup Shot,4,-9,43,True
+Dennis Schroder,2,2,41,1,Driving Layup Shot,1,-2,14,True
+Dennis Schroder,1,9,11,1,Driving Layup Shot,10,89,54,True
+Dennis Schroder,4,2,55,1,Driving Layup Shot,1,-8,10,True
+Dennis Schroder,3,11,11,0,Driving Layup Shot,0,-1,4,True
+Dennis Schroder,2,4,3,1,Driving Layup Shot,1,2,19,True
+Dennis Schroder,1,10,39,1,Driving Layup Shot,1,-4,14,True
+Dennis Schroder,2,0,30,1,Driving Layup Shot,1,9,14,True
+Dennis Schroder,2,4,14,1,Driving Layup Shot,1,-3,13,True
+Dennis Schroder,2,4,55,0,Driving Layup Shot,1,-2,14,True
+Dennis Schroder,3,5,11,0,Driving Layup Shot,3,12,29,True
+Dennis Schroder,1,10,20,1,Driving Layup Shot,1,5,17,True
+Dennis Schroder,1,3,51,1,Driving Layup Shot,2,1,20,True
+Dennis Schroder,3,6,9,0,Driving Layup Shot,3,20,23,True
+Dennis Schroder,4,4,1,1,Driving Layup Shot,1,-7,13,True
+Dennis Schroder,2,4,35,0,Driving Layup Shot,2,28,6,True
+Dennis Schroder,4,1,34,0,Driving Layup Shot,1,-8,11,True
+Dennis Schroder,3,2,44,0,Driving Layup Shot,1,-7,15,True
+Dennis Schroder,3,5,30,1,Driving Layup Shot,1,-2,18,True
+Dennis Schroder,2,5,54,0,Driving Layup Shot,1,7,16,True
+Dennis Schroder,3,1,12,1,Driving Layup Shot,1,0,13,True
+Dennis Schroder,2,4,8,0,Driving Layup Shot,7,-44,55,True
+Dennis Schroder,1,4,13,1,Driving Layup Shot,1,7,17,True
+Dennis Schroder,3,5,54,1,Driving Layup Shot,1,-1,13,True
+Dennis Schroder,4,3,31,0,Driving Layup Shot,0,-1,7,True
+Dennis Schroder,4,0,36,0,Driving Layup Shot,2,-16,20,True
+Dennis Schroder,4,2,33,0,Driving Layup Shot,2,-22,13,True
+Dennis Schroder,2,3,45,1,Driving Layup Shot,1,6,17,True
+Dennis Schroder,4,4,10,0,Driving Layup Shot,1,-6,11,True
+Dennis Schroder,2,0,16,0,Driving Layup Shot,1,-2,11,True
+Dennis Schroder,3,5,51,1,Driving Layup Shot,0,-4,8,True
+Dennis Schroder,3,7,58,0,Driving Layup Shot,2,-1,21,True
+Dennis Schroder,2,3,25,1,Driving Layup Shot,0,1,5,True
+Dennis Schroder,3,6,5,1,Driving Layup Shot,0,-8,0,True
+Dennis Schroder,2,6,12,1,Driving Layup Shot,1,1,10,True
+Dennis Schroder,4,0,24,0,Driving Layup Shot,1,11,0,True
+Dennis Schroder,2,1,50,1,Driving Layup Shot,0,-3,5,True
+Dennis Schroder,4,2,59,1,Driving Layup Shot,1,1,15,True
+Dennis Schroder,2,2,36,0,Driving Layup Shot,2,8,21,True
+Dennis Schroder,2,2,32,1,Driving Layup Shot,1,8,17,True
+Dennis Schroder,4,8,28,0,Driving Layup Shot,3,1,35,True
+Dennis Schroder,1,8,52,1,Driving Layup Shot,0,-2,9,True
+Dennis Schroder,3,9,26,1,Driving Layup Shot,1,3,14,True
+Dennis Schroder,4,7,23,1,Driving Layup Shot,4,40,9,True
+Dennis Schroder,4,0,15,0,Driving Layup Shot,2,1,29,True
+Dennis Schroder,2,3,3,1,Driving Layup Shot,2,12,26,True
+Dennis Schroder,4,0,5,0,Driving Layup Shot,2,5,20,True
+Dennis Schroder,2,0,3,0,Driving Layup Shot,1,-6,17,True
+Dennis Schroder,2,9,48,1,Driving Layup Shot,2,1,22,True
+Dennis Schroder,4,0,34,1,Driving Layup Shot,1,0,12,True
+Dennis Schroder,2,0,8,1,Driving Layup Shot,3,30,26,True
+Dennis Schroder,3,8,7,0,Driving Layup Shot,3,-27,29,True
+Dennis Schroder,3,7,10,1,Driving Layup Shot,2,18,15,True
+Dennis Schroder,4,1,58,0,Driving Layup Shot,1,2,16,True
+Dennis Schroder,1,4,50,1,Driving Layup Shot,1,-2,15,True
+Dennis Schroder,1,7,53,1,Driving Layup Shot,1,7,17,True
+Dennis Schroder,4,4,0,0,Driving Layup Shot,4,-37,22,True
+Dennis Schroder,2,1,10,1,Driving Layup Shot,3,29,20,True
+Dennis Schroder,4,1,41,1,Driving Layup Shot,2,19,15,True
+Dennis Schroder,1,11,5,1,Driving Layup Shot,1,-14,8,True
+Dennis Schroder,2,6,22,1,Driving Layup Shot,1,3,16,True
+Dennis Schroder,3,6,25,1,Driving Layup Shot,1,-9,13,True
+Dennis Schroder,2,8,3,0,Driving Layup Shot,3,20,23,True
+Dennis Schroder,2,0,56,0,Driving Layup Shot,1,-11,16,True
+Dennis Schroder,3,7,22,0,Driving Layup Shot,0,2,4,True
+Dennis Schroder,2,3,1,1,Driving Layup Shot,1,1,15,True
+Dennis Schroder,4,1,22,1,Driving Layup Shot,1,-11,15,True
+Dennis Schroder,1,4,39,0,Driving Layup Shot,3,31,20,True
+Dennis Schroder,2,2,29,0,Driving Layup Shot,2,15,21,True
+Dennis Schroder,1,3,58,0,Driving Layup Shot,6,59,25,True
+Dennis Schroder,3,0,29,0,Driving Layup Shot,6,-33,54,True
+Dennis Schroder,2,2,58,1,Driving Layup Shot,1,-17,10,True
+Dennis Schroder,2,5,38,1,Driving Layup Shot,1,3,11,True
+Dennis Schroder,2,9,14,1,Driving Layup Shot,1,14,13,True
+Dennis Schroder,4,0,38,1,Driving Layup Shot,8,-74,38,True
+Dennis Schroder,3,9,15,0,Driving Layup Shot,2,25,-4,True
+Dennis Schroder,2,1,24,1,Driving Layup Shot,1,3,17,True
+Dennis Schroder,4,2,0,1,Driving Layup Shot,1,-9,-5,True
+Dennis Schroder,3,9,8,0,Driving Layup Shot,1,0,13,True
+Dennis Schroder,1,5,46,0,Driving Layup Shot,0,4,7,True
+Dennis Schroder,2,7,1,0,Driving Layup Shot,4,25,37,True
+Dennis Schroder,4,8,36,1,Driving Layup Shot,1,9,17,True
+Dennis Schroder,1,11,10,0,Driving Layup Shot,6,62,17,True
+Dennis Schroder,4,0,59,0,Driving Layup Shot,2,5,21,True
+Dennis Schroder,4,0,43,1,Driving Layup Shot,1,6,16,True
+Dennis Schroder,4,7,7,1,Driving Layup Shot,3,30,9,True
+Dennis Schroder,3,5,37,0,Driving Layup Shot,10,-2,106,True
+Dennis Schroder,2,4,10,1,Driving Layup Shot,2,1,21,True
+Dennis Schroder,4,1,40,1,Driving Layup Shot,2,-7,20,True
+Dennis Schroder,1,5,29,1,Driving Layup Shot,2,-12,25,True
+Dennis Schroder,2,5,39,0,Driving Layup Shot,8,-1,80,True
+Dennis Schroder,2,6,52,0,Driving Layup Shot,1,4,10,True
+Dennis Schroder,1,6,6,0,Driving Layup Shot,0,3,2,True
+Dennis Schroder,3,0,32,1,Driving Layup Shot,1,-5,13,True
+Dennis Schroder,3,5,50,0,Driving Layup Shot,3,-25,18,True
+Dennis Schroder,3,5,51,1,Driving Layup Shot,3,8,32,True
+Dennis Schroder,3,5,25,1,Driving Layup Shot,1,-3,17,True
+Dennis Schroder,3,11,46,0,Driving Layup Shot,3,-7,31,True
+Dennis Schroder,1,9,32,1,Driving Layup Shot,1,8,16,True
+Dennis Schroder,2,5,15,0,Driving Layup Shot,1,-8,15,True
+Dennis Schroder,1,5,42,1,Driving Layup Shot,2,11,19,True
+Dennis Schroder,3,11,43,1,Driving Layup Shot,5,0,57,True
+Dennis Schroder,2,7,40,0,Driving Layup Shot,2,14,17,True
+Dennis Schroder,1,5,6,1,Driving Layup Shot,1,9,17,True
+Dennis Schroder,2,11,43,0,Driving Layup Shot,3,-30,12,True
+Dennis Schroder,4,5,59,1,Driving Layup Shot,1,18,-2,True
+Dennis Schroder,3,5,16,0,Driving Layup Shot,2,-3,21,True
+Dennis Schroder,4,0,26,1,Driving Layup Shot,0,4,2,True
+Dennis Schroder,4,8,23,1,Driving Layup Shot,3,32,17,True
+Dennis Schroder,2,0,2,0,Driving Reverse Layup Shot,4,-42,24,True
+Dennis Schroder,3,3,3,1,Driving Reverse Layup Shot,1,-8,13,True
+Dennis Schroder,1,3,42,1,Driving Reverse Layup Shot,1,-3,13,True
+Dennis Schroder,2,2,2,1,Driving Reverse Layup Shot,1,-15,10,True
+Dennis Schroder,2,3,2,1,Driving Reverse Layup Shot,0,-5,1,True
+Dennis Schroder,3,10,22,0,Driving Reverse Layup Shot,0,1,9,True
+Dennis Schroder,3,8,28,0,Driving Reverse Layup Shot,1,-2,15,True
+Dennis Schroder,1,8,28,1,Driving Reverse Layup Shot,0,3,5,True
+Dennis Schroder,1,8,57,1,Driving Reverse Layup Shot,1,-2,11,True
+Dennis Schroder,1,6,11,1,Driving Reverse Layup Shot,0,-3,5,True
+Dennis Schroder,4,1,35,1,Driving Reverse Layup Shot,1,-18,6,True
+Dennis Schroder,1,3,20,1,Driving Reverse Layup Shot,1,2,16,True
+Dennis Schroder,4,5,52,1,Driving Reverse Layup Shot,1,-6,10,True
+Dennis Schroder,2,0,30,0,Floating Jump shot,10,0,103,True
+Dennis Schroder,1,11,26,0,Floating Jump shot,10,-6,106,True
+Dennis Schroder,3,6,47,0,Floating Jump shot,13,0,134,True
+Dennis Schroder,3,10,13,1,Floating Jump shot,9,-38,87,True
+Dennis Schroder,1,2,31,0,Floating Jump shot,3,-30,10,True
+Dennis Schroder,2,5,47,0,Floating Jump shot,5,24,50,True
+Dennis Schroder,4,6,28,0,Floating Jump shot,14,95,111,True
+Dennis Schroder,2,8,6,0,Floating Jump shot,9,-51,76,True
+Dennis Schroder,2,7,37,1,Floating Jump shot,12,-6,123,True
+Dennis Schroder,2,0,0,0,Floating Jump shot,44,-2,443,False
+Dennis Schroder,4,4,8,0,Floating Jump shot,5,-8,57,True
+Dennis Schroder,2,5,29,1,Floating Jump shot,12,42,115,True
+Dennis Schroder,2,3,30,1,Floating Jump shot,10,41,102,True
+Dennis Schroder,3,9,56,1,Floating Jump shot,8,13,89,True
+Dennis Schroder,1,7,9,0,Floating Jump shot,5,7,50,True
+Dennis Schroder,4,2,22,0,Floating Jump shot,4,-32,37,True
+Dennis Schroder,1,8,55,1,Floating Jump shot,8,21,78,True
+Dennis Schroder,4,7,35,0,Floating Jump shot,16,85,146,True
+Dennis Schroder,1,4,43,1,Floating Jump shot,3,4,38,True
+Dennis Schroder,3,10,46,1,Floating Jump shot,9,-90,4,True
+Dennis Schroder,3,4,14,1,Floating Jump shot,0,-4,6,True
+Dennis Schroder,3,10,7,0,Floating Jump shot,1,-14,3,True
+Dennis Schroder,1,4,39,0,Floating Jump shot,11,-9,111,True
+Dennis Schroder,1,2,50,0,Floating Jump shot,11,-18,117,True
+Dennis Schroder,4,1,56,1,Floating Jump shot,16,3,166,True
+Dennis Schroder,2,7,56,0,Floating Jump shot,5,13,57,True
+Dennis Schroder,1,4,59,0,Floating Jump shot,11,92,75,True
+Dennis Schroder,3,0,0,1,Jump Bank Shot,35,-1,353,False
+Dennis Schroder,1,8,9,0,Jump Bank Shot,6,-54,42,True
+Dennis Schroder,4,1,0,0,Jump Shot,19,19,197,True
+Dennis Schroder,3,0,1,0,Jump Shot,20,-6,208,True
+Dennis Schroder,1,7,56,0,Jump Shot,27,211,176,False
+Dennis Schroder,3,0,57,0,Jump Shot,16,-29,161,True
+Dennis Schroder,1,4,24,1,Jump Shot,17,-142,110,True
+Dennis Schroder,2,4,40,0,Jump Shot,26,-137,230,False
+Dennis Schroder,1,8,54,0,Jump Shot,25,-107,236,False
+Dennis Schroder,3,5,1,1,Jump Shot,21,-29,215,True
+Dennis Schroder,1,5,10,1,Jump Shot,25,158,196,False
+Dennis Schroder,3,8,46,0,Jump Shot,24,-236,62,False
+Dennis Schroder,2,4,16,0,Jump Shot,18,187,8,True
+Dennis Schroder,1,11,30,0,Jump Shot,25,-119,230,False
+Dennis Schroder,3,11,28,1,Jump Shot,24,-134,203,False
+Dennis Schroder,3,6,15,0,Jump Shot,25,175,179,False
+Dennis Schroder,3,5,32,1,Jump Shot,15,-152,27,True
+Dennis Schroder,4,3,8,0,Jump Shot,24,-27,242,False
+Dennis Schroder,2,9,44,0,Jump Shot,19,-61,184,True
+Dennis Schroder,2,9,3,0,Jump Shot,17,5,179,True
+Dennis Schroder,1,8,13,0,Jump Shot,26,-30,263,False
+Dennis Schroder,1,11,31,1,Jump Shot,14,-49,141,True
+Dennis Schroder,1,3,55,1,Jump Shot,28,-71,274,False
+Dennis Schroder,2,3,8,1,Jump Shot,24,140,207,False
+Dennis Schroder,1,9,48,0,Jump Shot,25,32,253,False
+Dennis Schroder,1,7,35,1,Jump Shot,26,-154,214,False
+Dennis Schroder,1,9,5,0,Jump Shot,32,172,279,False
+Dennis Schroder,3,3,11,1,Jump Shot,24,-73,235,False
+Dennis Schroder,3,3,42,0,Jump Shot,24,13,248,False
+Dennis Schroder,4,11,47,0,Jump Shot,22,-228,21,False
+Dennis Schroder,1,4,45,0,Jump Shot,24,-10,247,False
+Dennis Schroder,4,4,43,0,Jump Shot,17,15,170,True
+Dennis Schroder,2,6,46,0,Jump Shot,7,-68,26,True
+Dennis Schroder,3,6,46,0,Jump Shot,25,150,206,False
+Dennis Schroder,3,4,51,1,Jump Shot,25,143,207,False
+Dennis Schroder,4,5,23,0,Jump Shot,16,-164,-10,True
+Dennis Schroder,1,11,44,0,Jump Shot,24,49,243,False
+Dennis Schroder,3,7,10,0,Jump Shot,12,125,22,True
+Dennis Schroder,3,4,1,1,Jump Shot,24,-25,242,False
+Dennis Schroder,2,6,6,0,Jump Shot,25,-106,229,False
+Dennis Schroder,3,10,13,1,Jump Shot,26,178,195,False
+Dennis Schroder,3,4,38,0,Jump Shot,21,-202,73,True
+Dennis Schroder,3,11,18,0,Jump Shot,26,166,209,False
+Dennis Schroder,2,6,31,1,Jump Shot,21,203,80,True
+Dennis Schroder,1,11,25,0,Jump Shot,25,184,172,False
+Dennis Schroder,3,4,57,0,Jump Shot,14,8,147,True
+Dennis Schroder,4,4,35,0,Jump Shot,27,-119,253,False
+Dennis Schroder,3,7,54,0,Jump Shot,27,6,276,False
+Dennis Schroder,1,4,16,1,Jump Shot,25,-23,258,False
+Dennis Schroder,1,9,37,1,Jump Shot,24,230,69,False
+Dennis Schroder,1,10,12,1,Jump Shot,16,157,34,True
+Dennis Schroder,3,6,39,0,Jump Shot,24,229,80,False
+Dennis Schroder,1,8,50,0,Jump Shot,15,-156,29,True
+Dennis Schroder,1,3,23,0,Jump Shot,24,-162,182,False
+Dennis Schroder,4,4,25,1,Jump Shot,14,107,104,True
+Dennis Schroder,2,0,48,0,Jump Shot,24,-145,203,False
+Dennis Schroder,2,0,25,0,Jump Shot,25,-46,248,False
+Dennis Schroder,2,4,36,0,Jump Shot,26,-178,190,False
+Dennis Schroder,1,8,55,1,Jump Shot,26,112,241,False
+Dennis Schroder,1,10,37,1,Jump Shot,25,-68,243,False
+Dennis Schroder,3,8,14,0,Jump Shot,15,147,41,True
+Dennis Schroder,3,9,25,0,Jump Shot,25,-198,168,False
+Dennis Schroder,3,10,18,0,Jump Shot,24,157,190,False
+Dennis Schroder,3,10,48,0,Jump Shot,19,123,151,True
+Dennis Schroder,1,9,33,1,Jump Shot,16,25,163,True
+Dennis Schroder,1,3,49,0,Jump Shot,26,-43,257,False
+Dennis Schroder,3,3,19,1,Jump Shot,26,-182,186,False
+Dennis Schroder,2,0,57,0,Jump Shot,15,108,116,True
+Dennis Schroder,2,5,33,0,Jump Shot,26,-95,246,False
+Dennis Schroder,2,1,31,0,Jump Shot,19,-77,176,True
+Dennis Schroder,4,0,51,0,Jump Shot,10,12,109,True
+Dennis Schroder,3,4,9,0,Jump Shot,12,120,11,True
+Dennis Schroder,2,0,29,0,Jump Shot,25,84,239,False
+Dennis Schroder,1,8,9,0,Jump Shot,25,-87,241,False
+Dennis Schroder,1,6,54,0,Jump Shot,17,-105,136,True
+Dennis Schroder,2,6,14,0,Jump Shot,11,109,48,True
+Dennis Schroder,1,4,38,1,Jump Shot,27,-137,236,False
+Dennis Schroder,2,1,38,0,Jump Shot,17,-175,36,True
+Dennis Schroder,3,6,40,0,Jump Shot,25,-180,185,False
+Dennis Schroder,4,7,19,1,Jump Shot,22,-22,221,True
+Dennis Schroder,3,6,20,0,Jump Shot,24,-201,138,False
+Dennis Schroder,1,9,45,0,Jump Shot,24,35,247,False
+Dennis Schroder,4,4,3,0,Jump Shot,25,-132,215,False
+Dennis Schroder,2,1,46,0,Jump Shot,25,43,251,False
+Dennis Schroder,1,4,6,0,Jump Shot,23,228,57,False
+Dennis Schroder,3,2,35,0,Jump Shot,23,232,-19,False
+Dennis Schroder,2,4,55,0,Jump Shot,24,-53,242,False
+Dennis Schroder,3,4,43,0,Jump Shot,24,124,207,False
+Dennis Schroder,1,6,50,0,Jump Shot,22,-227,14,False
+Dennis Schroder,3,7,3,0,Jump Shot,25,-120,223,False
+Dennis Schroder,2,3,24,1,Jump Shot,15,-110,102,True
+Dennis Schroder,1,10,36,0,Jump Shot,12,8,125,True
+Dennis Schroder,2,4,47,0,Jump Shot,14,-61,137,True
+Dennis Schroder,2,0,47,1,Jump Shot,25,78,242,False
+Dennis Schroder,2,0,29,0,Jump Shot,25,101,235,False
+Dennis Schroder,4,8,21,0,Jump Shot,24,203,140,False
+Dennis Schroder,1,10,5,1,Jump Shot,14,138,52,True
+Dennis Schroder,2,6,17,1,Jump Shot,9,89,20,True
+Dennis Schroder,3,7,34,0,Jump Shot,15,-6,159,True
+Dennis Schroder,3,10,28,1,Jump Shot,23,-224,81,False
+Dennis Schroder,2,2,25,1,Jump Shot,25,0,258,False
+Dennis Schroder,1,11,45,0,Jump Shot,24,-182,163,False
+Dennis Schroder,3,7,32,0,Jump Shot,14,17,146,True
+Dennis Schroder,2,4,50,0,Jump Shot,59,-9,590,False
+Dennis Schroder,4,5,55,1,Jump Shot,24,-199,146,False
+Dennis Schroder,3,8,49,1,Jump Shot,15,-144,68,True
+Dennis Schroder,2,0,46,0,Jump Shot,25,-36,251,False
+Dennis Schroder,1,8,29,0,Jump Shot,24,-131,209,False
+Dennis Schroder,1,4,52,1,Jump Shot,26,74,251,False
+Dennis Schroder,3,4,1,0,Jump Shot,24,-123,215,False
+Dennis Schroder,1,7,10,0,Jump Shot,24,114,216,False
+Dennis Schroder,1,10,6,0,Jump Shot,25,-48,246,False
+Dennis Schroder,1,9,58,1,Jump Shot,24,-90,231,False
+Dennis Schroder,3,7,5,0,Jump Shot,25,53,247,False
+Dennis Schroder,4,4,48,0,Jump Shot,25,-21,250,False
+Dennis Schroder,3,5,17,1,Jump Shot,24,14,248,False
+Dennis Schroder,3,8,7,1,Jump Shot,25,-109,230,False
+Dennis Schroder,4,0,42,0,Jump Shot,25,-36,251,False
+Dennis Schroder,1,10,29,0,Jump Shot,25,105,231,False
+Dennis Schroder,4,3,47,0,Jump Shot,25,-101,233,False
+Dennis Schroder,3,6,48,0,Jump Shot,24,62,241,False
+Dennis Schroder,1,9,22,0,Jump Shot,16,74,147,True
+Dennis Schroder,2,1,16,1,Jump Shot,19,87,177,True
+Dennis Schroder,3,1,58,0,Jump Shot,25,108,231,False
+Dennis Schroder,1,4,3,0,Jump Shot,25,38,253,False
+Dennis Schroder,3,9,53,1,Jump Shot,15,154,32,True
+Dennis Schroder,1,7,24,0,Jump Shot,26,-22,261,False
+Dennis Schroder,1,5,41,0,Jump Shot,24,-71,239,False
+Dennis Schroder,3,11,31,1,Jump Shot,25,-74,245,False
+Dennis Schroder,3,9,45,0,Jump Shot,24,-75,237,False
+Dennis Schroder,1,5,34,0,Jump Shot,24,82,232,False
+Dennis Schroder,3,11,28,1,Jump Shot,17,145,89,True
+Dennis Schroder,2,6,53,0,Jump Shot,25,19,259,False
+Dennis Schroder,4,5,49,1,Jump Shot,27,-96,257,False
+Dennis Schroder,4,5,2,0,Jump Shot,24,29,242,False
+Dennis Schroder,2,5,26,1,Jump Shot,16,84,139,True
+Dennis Schroder,1,3,51,0,Jump Shot,25,-20,253,False
+Dennis Schroder,2,2,43,0,Jump Shot,14,147,13,True
+Dennis Schroder,1,9,31,0,Jump Shot,25,-147,207,False
+Dennis Schroder,3,5,13,0,Jump Shot,26,180,195,False
+Dennis Schroder,2,0,33,1,Jump Shot,17,-174,22,True
+Dennis Schroder,4,2,48,0,Jump Shot,25,-84,240,False
+Dennis Schroder,2,7,8,1,Jump Shot,12,127,-7,True
+Dennis Schroder,1,11,30,0,Jump Shot,23,-233,32,False
+Dennis Schroder,4,6,59,0,Jump Shot,25,91,241,False
+Dennis Schroder,3,11,6,1,Jump Shot,19,44,189,True
+Dennis Schroder,4,4,27,1,Jump Shot,25,97,233,False
+Dennis Schroder,3,10,34,1,Jump Shot,25,-11,253,False
+Dennis Schroder,4,0,7,0,Jump Shot,24,-100,227,False
+Dennis Schroder,3,11,38,1,Jump Shot,1,-6,17,True
+Dennis Schroder,4,1,21,1,Jump Shot,25,-79,243,False
+Dennis Schroder,1,8,56,0,Jump Shot,24,229,83,False
+Dennis Schroder,4,9,25,1,Jump Shot,24,-79,237,False
+Dennis Schroder,2,2,17,0,Jump Shot,25,72,248,False
+Dennis Schroder,1,11,7,0,Jump Shot,23,-231,1,False
+Dennis Schroder,3,6,2,0,Jump Shot,15,-150,15,True
+Dennis Schroder,3,8,24,0,Jump Shot,22,220,-6,False
+Dennis Schroder,2,5,32,1,Jump Shot,15,155,37,True
+Dennis Schroder,3,10,43,1,Jump Shot,17,171,-15,True
+Dennis Schroder,1,2,41,0,Jump Shot,26,-209,157,False
+Dennis Schroder,2,7,3,0,Jump Shot,25,-116,232,False
+Dennis Schroder,2,7,32,0,Jump Shot,14,136,48,True
+Dennis Schroder,1,3,10,1,Jump Shot,26,-56,260,False
+Dennis Schroder,3,5,35,0,Jump Shot,25,-14,257,False
+Dennis Schroder,2,5,41,0,Jump Shot,16,-14,163,True
+Dennis Schroder,3,6,0,1,Jump Shot,25,-146,205,False
+Dennis Schroder,3,9,4,0,Jump Shot,25,-59,248,False
+Dennis Schroder,1,7,40,1,Jump Shot,20,100,178,True
+Dennis Schroder,1,10,34,0,Jump Shot,24,76,237,False
+Dennis Schroder,3,4,36,1,Jump Shot,16,-162,-15,True
+Dennis Schroder,1,11,4,0,Jump Shot,12,-128,-11,True
+Dennis Schroder,2,6,46,1,Jump Shot,25,-118,222,False
+Dennis Schroder,1,9,19,0,Jump Shot,25,-85,240,False
+Dennis Schroder,4,6,28,0,Jump Shot,25,114,223,False
+Dennis Schroder,1,9,43,1,Jump Shot,26,71,253,False
+Dennis Schroder,3,3,59,1,Jump Shot,16,-166,-1,True
+Dennis Schroder,3,4,54,1,Jump Shot,16,165,26,True
+Dennis Schroder,3,8,13,0,Jump Shot,25,25,258,False
+Dennis Schroder,3,6,33,0,Jump Shot,24,-145,197,False
+Dennis Schroder,1,5,21,0,Jump Shot,24,89,228,False
+Dennis Schroder,4,4,14,0,Jump Shot,25,62,243,False
+Dennis Schroder,1,9,11,1,Jump Shot,10,81,67,True
+Dennis Schroder,3,10,22,0,Jump Shot,12,52,113,True
+Dennis Schroder,2,0,50,0,Jump Shot,25,76,247,False
+Dennis Schroder,1,4,21,0,Jump Shot,24,-107,225,False
+Dennis Schroder,1,3,47,0,Jump Shot,26,-2,260,False
+Dennis Schroder,3,10,59,0,Jump Shot,16,-134,90,True
+Dennis Schroder,1,11,18,1,Jump Shot,12,123,-15,True
+Dennis Schroder,3,4,51,0,Jump Shot,24,-127,215,False
+Dennis Schroder,2,7,2,0,Jump Shot,24,39,241,False
+Dennis Schroder,2,8,32,0,Jump Shot,26,-6,268,False
+Dennis Schroder,1,6,29,1,Jump Shot,25,53,252,False
+Dennis Schroder,4,4,46,1,Jump Shot,24,-169,179,False
+Dennis Schroder,3,10,11,1,Jump Shot,22,-228,10,False
+Dennis Schroder,3,9,52,1,Jump Shot,24,-207,135,False
+Dennis Schroder,2,1,22,0,Jump Shot,18,-67,169,True
+Dennis Schroder,2,6,32,1,Jump Shot,25,-102,232,False
+Dennis Schroder,3,3,50,1,Jump Shot,24,-9,244,False
+Dennis Schroder,3,5,30,0,Jump Shot,27,122,242,False
+Dennis Schroder,2,5,14,0,Jump Shot,18,-62,169,True
+Dennis Schroder,2,6,5,0,Jump Shot,25,-136,220,False
+Dennis Schroder,2,4,17,0,Jump Shot,16,-6,164,True
+Dennis Schroder,3,3,58,0,Jump Shot,11,12,115,True
+Dennis Schroder,1,9,40,0,Jump Shot,24,-221,116,False
+Dennis Schroder,4,1,14,0,Jump Shot,15,-15,155,True
+Dennis Schroder,2,3,51,0,Jump Shot,25,-107,231,False
+Dennis Schroder,1,7,53,1,Jump Shot,12,-123,15,True
+Dennis Schroder,1,9,59,0,Jump Shot,25,114,233,False
+Dennis Schroder,3,3,29,1,Jump Shot,19,71,178,True
+Dennis Schroder,3,0,38,0,Jump Shot,21,126,177,True
+Dennis Schroder,3,11,53,0,Jump Shot,25,-192,162,False
+Dennis Schroder,1,6,41,0,Jump Shot,16,71,151,True
+Dennis Schroder,4,1,10,0,Jump Shot,8,43,72,True
+Dennis Schroder,1,8,53,0,Jump Shot,25,-6,258,False
+Dennis Schroder,3,6,15,0,Jump Shot,24,-162,182,False
+Dennis Schroder,4,8,38,1,Jump Shot,6,6,63,True
+Dennis Schroder,3,10,7,1,Jump Shot,18,-90,167,True
+Dennis Schroder,3,4,24,0,Jump Shot,17,-74,155,True
+Dennis Schroder,1,1,48,0,Jump Shot,21,-12,216,True
+Dennis Schroder,2,5,11,0,Jump Shot,24,-131,207,False
+Dennis Schroder,2,10,39,1,Jump Shot,25,10,254,False
+Dennis Schroder,4,0,16,0,Jump Shot,26,-69,251,False
+Dennis Schroder,1,0,0,0,Jump Shot,49,180,456,False
+Dennis Schroder,1,3,7,1,Jump Shot,24,38,246,False
+Dennis Schroder,3,4,40,1,Jump Shot,25,5,254,False
+Dennis Schroder,1,5,40,1,Jump Shot,15,6,154,True
+Dennis Schroder,2,3,9,0,Jump Shot,14,-134,43,True
+Dennis Schroder,1,9,54,0,Jump Shot,25,-85,241,False
+Dennis Schroder,4,8,56,0,Jump Shot,25,-20,252,False
+Dennis Schroder,4,0,57,0,Jump Shot,20,-7,207,True
+Dennis Schroder,3,10,25,1,Jump Shot,16,63,154,True
+Dennis Schroder,1,3,35,0,Jump Shot,21,82,202,True
+Dennis Schroder,1,7,43,0,Jump Shot,13,132,6,True
+Dennis Schroder,1,7,35,0,Jump Shot,18,-173,69,True
+Dennis Schroder,3,9,23,1,Jump Shot,24,-145,201,False
+Dennis Schroder,3,5,12,1,Jump Shot,24,112,215,False
+Dennis Schroder,3,6,33,0,Jump Shot,24,68,236,False
+Dennis Schroder,4,4,46,0,Jump Shot,25,-5,252,False
+Dennis Schroder,1,6,58,1,Jump Shot,25,-76,243,False
+Dennis Schroder,4,10,51,0,Jump Shot,23,-235,10,False
+Dennis Schroder,3,11,33,1,Jump Shot,25,-51,253,False
+Dennis Schroder,2,6,15,0,Jump Shot,24,160,183,False
+Dennis Schroder,2,1,37,0,Jump Shot,22,-228,-9,False
+Dennis Schroder,3,7,52,0,Jump Shot,24,-85,227,False
+Dennis Schroder,4,9,44,0,Jump Shot,22,-55,214,True
+Dennis Schroder,3,5,31,0,Jump Shot,17,105,137,True
+Dennis Schroder,1,8,19,0,Jump Shot,14,140,-9,True
+Dennis Schroder,3,0,2,1,Jump Shot,12,-30,120,True
+Dennis Schroder,2,7,46,0,Jump Shot,16,-134,95,True
+Dennis Schroder,2,9,50,0,Jump Shot,14,44,137,True
+Dennis Schroder,3,6,36,0,Jump Shot,28,93,266,False
+Dennis Schroder,2,9,19,1,Jump Shot,25,-84,244,False
+Dennis Schroder,1,7,21,0,Jump Shot,25,-3,256,False
+Dennis Schroder,1,3,21,0,Jump Shot,27,-35,270,False
+Dennis Schroder,3,6,42,0,Layup Shot,1,-9,13,True
+Dennis Schroder,3,8,10,0,Layup Shot,2,11,20,True
+Dennis Schroder,2,6,49,0,Layup Shot,1,14,10,True
+Dennis Schroder,4,9,53,1,Layup Shot,1,-10,13,True
+Dennis Schroder,3,4,50,0,Layup Shot,2,-14,17,True
+Dennis Schroder,2,0,34,1,Layup Shot,1,6,13,True
+Dennis Schroder,1,2,22,1,Layup Shot,0,-2,0,True
+Dennis Schroder,2,2,26,1,Layup Shot,1,-19,5,True
+Dennis Schroder,1,3,57,1,Layup Shot,2,-9,27,True
+Dennis Schroder,4,7,20,0,Layup Shot,3,32,13,True
+Dennis Schroder,3,11,48,1,Layup Shot,0,-3,6,True
+Dennis Schroder,3,10,35,1,Layup Shot,3,0,32,True
+Dennis Schroder,3,10,34,1,Layup Shot,1,-8,13,True
+Dennis Schroder,4,0,59,0,Layup Shot,9,89,43,True
+Dennis Schroder,4,10,23,0,Layup Shot,3,19,30,True
+Dennis Schroder,4,4,45,0,Layup Shot,1,-10,8,True
+Dennis Schroder,1,7,55,0,Layup Shot,1,11,4,True
+Dennis Schroder,2,5,28,0,Layup Shot,1,11,15,True
+Dennis Schroder,1,7,55,0,Layup Shot,3,35,9,True
+Dennis Schroder,2,2,56,0,Layup Shot,1,-3,10,True
+Dennis Schroder,3,8,43,0,Layup Shot,6,25,59,True
+Dennis Schroder,4,8,7,1,Layup Shot,1,8,14,True
+Dennis Schroder,3,6,6,0,Layup Shot,15,100,115,True
+Dennis Schroder,2,2,42,0,Layup Shot,2,20,-3,True
+Dennis Schroder,1,10,24,1,Layup Shot,3,4,31,True
+Dennis Schroder,2,8,1,0,Layup Shot,1,10,10,True
+Dennis Schroder,4,6,2,0,Layup Shot,1,-11,9,True
+Dennis Schroder,4,9,32,1,Layup Shot,1,-9,10,True
+Dennis Schroder,4,2,49,1,Layup Shot,2,-20,0,True
+Dennis Schroder,2,1,21,1,Pullup Jump shot,25,105,227,False
+Dennis Schroder,3,7,41,1,Pullup Jump shot,15,-73,133,True
+Dennis Schroder,4,6,18,0,Pullup Jump shot,21,-138,168,True
+Dennis Schroder,3,4,44,0,Pullup Jump shot,18,-92,162,True
+Dennis Schroder,1,4,53,0,Pullup Jump shot,25,155,197,False
+Dennis Schroder,4,2,11,0,Pullup Jump shot,20,11,200,True
+Dennis Schroder,2,2,31,0,Pullup Jump shot,22,-28,219,True
+Dennis Schroder,1,3,58,1,Pullup Jump shot,20,-83,184,True
+Dennis Schroder,4,4,28,1,Pullup Jump shot,17,-11,175,True
+Dennis Schroder,4,6,15,0,Pullup Jump shot,12,-114,46,True
+Dennis Schroder,4,3,31,0,Pullup Jump shot,19,-6,195,True
+Dennis Schroder,2,1,2,0,Pullup Jump shot,25,148,204,False
+Dennis Schroder,2,2,23,1,Pullup Jump shot,15,85,130,True
+Dennis Schroder,1,9,56,0,Pullup Jump shot,16,-117,113,True
+Dennis Schroder,1,7,7,0,Pullup Jump shot,14,-13,149,True
+Dennis Schroder,3,10,48,0,Pullup Jump shot,18,-112,145,True
+Dennis Schroder,1,8,25,1,Pullup Jump shot,15,34,155,True
+Dennis Schroder,3,11,22,0,Pullup Jump shot,19,-94,167,True
+Dennis Schroder,1,4,40,1,Pullup Jump shot,17,38,167,True
+Dennis Schroder,3,11,23,1,Pullup Jump shot,19,-85,172,True
+Dennis Schroder,3,9,21,0,Pullup Jump shot,25,79,238,False
+Dennis Schroder,4,4,5,0,Pullup Jump shot,16,84,144,True
+Dennis Schroder,3,3,43,1,Pullup Jump shot,17,-78,157,True
+Dennis Schroder,1,8,33,0,Pullup Jump shot,17,7,172,True
+Dennis Schroder,1,4,8,1,Pullup Jump shot,24,-98,229,False
+Dennis Schroder,4,2,54,0,Pullup Jump shot,25,91,239,False
+Dennis Schroder,4,6,24,0,Pullup Jump shot,18,-96,155,True
+Dennis Schroder,2,5,8,0,Pullup Jump shot,25,-13,253,False
+Dennis Schroder,3,7,31,0,Pullup Jump shot,20,-85,190,True
+Dennis Schroder,2,0,43,1,Pullup Jump shot,14,-46,138,True
+Dennis Schroder,2,1,6,1,Pullup Jump shot,12,-120,26,True
+Dennis Schroder,2,0,27,0,Pullup Jump shot,15,-22,157,True
+Dennis Schroder,4,5,27,1,Pullup Jump shot,18,-82,162,True
+Dennis Schroder,4,0,34,1,Pullup Jump shot,17,74,164,True
+Dennis Schroder,2,4,53,1,Pullup Jump shot,16,-37,162,True
+Dennis Schroder,4,6,24,1,Pullup Jump shot,19,-109,167,True
+Dennis Schroder,2,2,39,0,Pullup Jump shot,25,-47,253,False
+Dennis Schroder,3,9,47,1,Pullup Jump shot,24,-67,238,False
+Dennis Schroder,2,3,15,1,Pullup Jump shot,18,-49,176,True
+Dennis Schroder,3,5,48,0,Pullup Jump shot,20,-165,118,True
+Dennis Schroder,4,4,40,1,Pullup Jump shot,15,-22,153,True
+Dennis Schroder,1,6,16,0,Pullup Jump shot,15,-44,151,True
+Dennis Schroder,3,7,49,1,Pullup Jump shot,25,108,228,False
+Dennis Schroder,2,5,35,0,Pullup Jump shot,18,-69,169,True
+Dennis Schroder,2,3,32,1,Pullup Jump shot,13,106,82,True
+Dennis Schroder,1,8,13,1,Pullup Jump shot,12,46,121,True
+Dennis Schroder,4,2,13,0,Pullup Jump shot,20,-72,194,True
+Dennis Schroder,3,3,37,0,Pullup Jump shot,15,-125,90,True
+Dennis Schroder,1,10,57,1,Pullup Jump shot,15,143,47,True
+Dennis Schroder,2,0,6,0,Pullup Jump shot,25,70,247,False
+Dennis Schroder,1,6,46,0,Pullup Jump shot,16,68,147,True
+Dennis Schroder,2,5,24,0,Pullup Jump shot,15,105,120,True
+Dennis Schroder,3,4,18,0,Pullup Jump shot,21,-65,210,True
+Dennis Schroder,2,0,32,1,Pullup Jump shot,19,-166,106,True
+Dennis Schroder,1,5,9,0,Pullup Jump shot,18,-155,106,True
+Dennis Schroder,1,9,0,0,Pullup Jump shot,16,-5,164,True
+Dennis Schroder,1,7,5,0,Pullup Jump shot,17,8,174,True
+Dennis Schroder,1,9,36,0,Pullup Jump shot,14,-70,127,True
+Dennis Schroder,3,9,31,1,Pullup Jump shot,15,150,53,True
+Dennis Schroder,2,7,43,1,Pullup Jump shot,15,75,134,True
+Dennis Schroder,1,9,40,1,Pullup Jump shot,16,-52,157,True
+Dennis Schroder,1,11,46,0,Pullup Jump shot,13,138,2,True
+Dennis Schroder,1,7,41,1,Pullup Jump shot,11,-118,19,True
+Dennis Schroder,3,4,38,0,Pullup Jump shot,18,-72,172,True
+Dennis Schroder,1,4,6,1,Pullup Jump shot,20,-91,184,True
+Dennis Schroder,1,5,13,0,Pullup Jump shot,15,11,152,True
+Dennis Schroder,3,7,59,0,Pullup Jump shot,15,36,151,True
+Dennis Schroder,2,5,48,0,Pullup Jump shot,17,-21,169,True
+Dennis Schroder,1,6,6,0,Pullup Jump shot,24,77,232,False
+Dennis Schroder,1,6,31,1,Pullup Jump shot,18,-47,174,True
+Dennis Schroder,3,11,25,1,Pullup Jump shot,18,65,178,True
+Dennis Schroder,2,6,41,1,Pullup Jump shot,22,-116,188,True
+Dennis Schroder,3,9,51,0,Pullup Jump shot,12,71,105,True
+Dennis Schroder,3,2,0,0,Pullup Jump shot,24,-120,218,False
+Dennis Schroder,4,3,49,1,Pullup Jump shot,18,100,157,True
+Dennis Schroder,2,1,41,0,Pullup Jump shot,15,-70,139,True
+Dennis Schroder,4,6,52,0,Pullup Jump shot,19,-96,172,True
+Dennis Schroder,1,11,18,0,Pullup Jump shot,24,-82,236,False
+Dennis Schroder,3,11,0,0,Pullup Jump shot,17,8,179,True
+Dennis Schroder,1,6,6,0,Pullup Jump shot,25,14,253,False
+Dennis Schroder,3,8,51,1,Pullup Jump shot,18,-53,176,True
+Dennis Schroder,2,1,55,1,Pullup Jump shot,17,68,163,True
+Dennis Schroder,3,8,28,0,Pullup Jump shot,25,74,249,False
+Dennis Schroder,1,2,3,0,Pullup Jump shot,21,-82,197,True
+Dennis Schroder,3,3,20,0,Pullup Jump shot,24,149,200,False
+Dennis Schroder,2,4,4,0,Pullup Jump shot,11,-70,96,True
+Dennis Schroder,1,3,3,1,Pullup Jump shot,19,0,199,True
+Dennis Schroder,3,4,44,0,Pullup Jump shot,25,-40,251,False
+Dennis Schroder,2,2,45,1,Pullup Jump shot,20,62,200,True
+Dennis Schroder,4,4,7,0,Pullup Jump shot,24,-93,230,False
+Dennis Schroder,1,8,52,0,Pullup Jump shot,16,46,154,True
+Dennis Schroder,3,5,43,0,Pullup Jump shot,13,8,132,True
+Dennis Schroder,3,7,3,1,Pullup Jump shot,16,-125,111,True
+Dennis Schroder,4,1,15,0,Pullup Jump shot,24,-128,207,False
+Dennis Schroder,2,7,10,1,Pullup Jump shot,16,-55,157,True
+Dennis Schroder,2,2,5,0,Pullup Jump shot,18,88,161,True
+Dennis Schroder,4,0,1,0,Pullup Jump shot,26,-99,251,False
+Dennis Schroder,2,3,9,1,Pullup Jump shot,19,0,195,True
+Dennis Schroder,4,5,31,0,Pullup Jump shot,25,-31,250,False
+Dennis Schroder,4,3,4,1,Pullup Jump shot,16,-139,94,True
+Dennis Schroder,1,8,32,0,Pullup Jump shot,16,53,153,True
+Dennis Schroder,2,0,36,1,Pullup Jump shot,24,105,223,False
+Dennis Schroder,1,3,27,1,Pullup Jump shot,10,105,0,True
+Dennis Schroder,3,9,8,0,Pullup Jump shot,17,-40,173,True
+Dennis Schroder,4,5,28,0,Pullup Jump shot,16,-62,157,True
+Dennis Schroder,3,6,32,0,Pullup Jump shot,21,-162,145,True
+Dennis Schroder,2,6,39,0,Pullup Jump shot,21,-92,191,True
+Dennis Schroder,1,7,47,1,Pullup Jump shot,17,74,157,True
+Dennis Schroder,2,1,23,0,Pullup Jump shot,19,121,150,True
+Dennis Schroder,4,1,33,0,Pullup Jump shot,15,103,115,True
+Dennis Schroder,2,5,34,1,Pullup Jump shot,20,155,134,True
+Dennis Schroder,2,1,18,1,Pullup Jump shot,19,111,166,True
+Dennis Schroder,3,4,43,0,Pullup Jump shot,24,2,242,False
+Dennis Schroder,4,6,55,1,Pullup Jump shot,15,62,137,True
+Dennis Schroder,4,1,13,0,Pullup Jump shot,24,60,239,False
+Dennis Schroder,2,5,13,1,Pullup Jump shot,18,-73,174,True
+Dennis Schroder,2,0,9,0,Pullup Jump shot,19,-33,194,True
+Dennis Schroder,2,5,38,0,Pullup Jump shot,15,154,-6,True
+Dennis Schroder,1,5,21,1,Pullup Jump shot,17,-8,175,True
+Dennis Schroder,2,6,48,1,Pullup Jump shot,24,47,240,False
+Dennis Schroder,1,10,8,0,Pullup Jump shot,16,-107,128,True
+Dennis Schroder,4,1,25,1,Pullup Jump shot,16,2,169,True
+Dennis Schroder,2,2,51,1,Pullup Jump shot,17,28,168,True
+Dennis Schroder,2,1,35,0,Pullup Jump shot,20,-62,192,True
+Dennis Schroder,3,6,14,1,Pullup Jump shot,24,0,249,False
+Dennis Schroder,3,3,34,0,Pullup Jump shot,16,-100,134,True
+Dennis Schroder,1,9,26,1,Pullup Jump shot,17,74,164,True
+Dennis Schroder,3,3,38,0,Pullup Jump shot,25,-71,243,False
+Dennis Schroder,3,11,14,0,Pullup Jump shot,16,38,160,True
+Dennis Schroder,3,6,39,0,Pullup Jump shot,17,4,176,True
+Dennis Schroder,1,5,16,1,Pullup Jump shot,18,71,172,True
+Dennis Schroder,1,6,29,1,Pullup Jump shot,20,52,196,True
+Dennis Schroder,1,8,23,0,Pullup Jump shot,13,131,32,True
+Dennis Schroder,3,7,59,0,Pullup Jump shot,13,136,20,True
+Dennis Schroder,2,4,37,1,Pullup Jump shot,20,-49,200,True
+Dennis Schroder,2,8,12,0,Pullup Jump shot,18,145,114,True
+Dennis Schroder,2,6,56,1,Pullup Jump shot,8,-89,12,True
+Dennis Schroder,1,10,14,0,Pullup Jump shot,13,-117,60,True
+Dennis Schroder,1,10,35,1,Pullup Jump shot,16,79,143,True
+Dennis Schroder,1,6,48,0,Pullup Jump shot,12,120,31,True
+Dennis Schroder,1,8,32,0,Pullup Jump shot,25,-42,255,False
+Dennis Schroder,1,9,41,0,Pullup Jump shot,15,10,153,True
+Dennis Schroder,3,7,36,1,Pullup Jump shot,18,111,148,True
+Dennis Schroder,2,5,3,0,Pullup Jump shot,15,-27,149,True
+Dennis Schroder,3,5,17,0,Pullup Jump shot,16,-160,55,True
+Dennis Schroder,3,8,18,0,Pullup Jump shot,11,118,11,True
+Dennis Schroder,1,4,36,0,Pullup Jump shot,25,-64,246,False
+Dennis Schroder,3,11,39,1,Pullup Jump shot,16,-99,138,True
+Dennis Schroder,1,9,49,1,Pullup Jump shot,18,-130,131,True
+Dennis Schroder,2,4,45,0,Pullup Jump shot,25,-87,235,False
+Dennis Schroder,2,0,0,1,Pullup Jump shot,10,-101,17,True
+Dennis Schroder,1,10,17,0,Pullup Jump shot,18,40,177,True
+Dennis Schroder,3,9,4,1,Pullup Jump shot,17,-69,161,True
+Dennis Schroder,3,9,33,0,Pullup Jump shot,14,-139,46,True
+Dennis Schroder,3,7,33,0,Pullup Jump shot,12,-111,57,True
+Dennis Schroder,3,5,15,0,Pullup Jump shot,25,-117,229,False
+Dennis Schroder,1,10,19,1,Pullup Jump shot,12,116,55,True
+Dennis Schroder,1,11,7,1,Pullup Jump shot,19,-111,158,True
+Dennis Schroder,1,8,13,0,Pullup Jump shot,26,44,257,False
+Dennis Schroder,3,10,47,0,Pullup Jump shot,20,161,130,True
+Dennis Schroder,3,8,44,1,Pullup Jump shot,15,77,137,True
+Dennis Schroder,2,0,11,0,Pullup Jump shot,20,-78,188,True
+Dennis Schroder,1,9,32,1,Pullup Jump shot,17,78,153,True
+Dennis Schroder,5,2,24,0,Pullup Jump shot,17,112,130,True
+Dennis Schroder,2,6,30,1,Pullup Jump shot,8,-55,59,True
+Dennis Schroder,3,4,53,0,Pullup Jump shot,12,124,8,True
+Dennis Schroder,1,7,8,0,Pullup Jump shot,11,107,43,True
+Dennis Schroder,1,10,34,0,Pullup Jump shot,18,58,178,True
+Dennis Schroder,1,8,43,1,Pullup Jump shot,15,-146,56,True
+Dennis Schroder,1,8,45,0,Pullup Jump shot,18,-59,176,True
+Dennis Schroder,2,0,9,1,Pullup Jump shot,17,-35,173,True
+Dennis Schroder,5,4,31,1,Pullup Jump shot,12,96,87,True
+Dennis Schroder,3,9,4,1,Pullup Jump shot,16,25,162,True
+Dennis Schroder,2,4,32,0,Pullup Jump shot,19,-130,145,True
+Dennis Schroder,1,11,27,1,Pullup Jump shot,17,-117,129,True
+Dennis Schroder,2,5,26,1,Pullup Jump shot,14,-1,148,True
+Dennis Schroder,1,8,54,1,Pullup Jump shot,20,109,175,True
+Dennis Schroder,1,2,18,1,Pullup Jump shot,8,74,50,True
+Dennis Schroder,2,2,47,0,Pullup Jump shot,19,-149,128,True
+Dennis Schroder,2,0,57,1,Pullup Jump shot,18,-57,178,True
+Dennis Schroder,1,9,35,0,Pullup Jump shot,17,73,157,True
+Dennis Schroder,3,8,9,1,Pullup Jump shot,17,5,171,True
+Dennis Schroder,2,0,30,0,Pullup Jump shot,18,85,168,True
+Dennis Schroder,3,9,20,0,Pullup Jump shot,16,79,140,True
+Dennis Schroder,2,4,2,1,Pullup Jump shot,18,114,144,True
+Dennis Schroder,4,3,1,0,Pullup Jump shot,19,-138,133,True
+Dennis Schroder,2,4,36,0,Pullup Jump shot,12,-120,17,True
+Dennis Schroder,2,5,2,1,Pullup Jump shot,18,-69,169,True
+Dennis Schroder,3,2,25,0,Pullup Jump shot,12,-102,64,True
+Dennis Schroder,2,1,26,0,Pullup Jump shot,13,131,42,True
+Dennis Schroder,3,7,0,1,Pullup Jump shot,13,-131,10,True
+Dennis Schroder,4,11,30,0,Pullup Jump shot,23,-218,75,False
+Dennis Schroder,3,10,22,0,Pullup Jump shot,11,117,15,True
+Dennis Schroder,4,9,19,0,Pullup Jump shot,18,179,57,True
+Dennis Schroder,1,6,45,0,Pullup Jump shot,11,110,22,True
+Dennis Schroder,1,10,19,1,Pullup Jump shot,12,-26,119,True
+Dennis Schroder,3,7,14,1,Pullup Jump shot,19,-166,96,True
+Dennis Schroder,2,4,7,1,Pullup Jump shot,15,7,154,True
+Dennis Schroder,3,9,10,0,Pullup Jump shot,15,38,146,True
+Dennis Schroder,1,10,6,1,Pullup Jump shot,14,113,89,True
+Dennis Schroder,2,0,31,0,Pullup Jump shot,17,73,163,True
+Dennis Schroder,4,3,43,1,Pullup Jump shot,24,-139,205,False
+Dennis Schroder,2,5,2,1,Pullup Jump shot,19,-125,152,True
+Dennis Schroder,2,2,20,1,Pullup Jump shot,14,-92,112,True
+Dennis Schroder,3,7,37,0,Pullup Jump shot,25,17,251,False
+Dennis Schroder,2,5,20,0,Pullup Jump shot,19,-56,183,True
+Dennis Schroder,2,7,27,0,Pullup Jump shot,17,-20,174,True
+Dennis Schroder,1,6,45,0,Pullup Jump shot,16,-73,149,True
+Dennis Schroder,3,8,48,1,Pullup Jump shot,25,8,256,False
+Dennis Schroder,1,8,39,0,Pullup Jump shot,17,-27,172,True
+Dennis Schroder,3,7,43,0,Pullup Jump shot,13,82,106,True
+Dennis Schroder,2,8,52,1,Pullup Jump shot,17,129,113,True
+Dennis Schroder,4,11,30,1,Pullup Jump shot,19,56,184,True
+Dennis Schroder,3,3,48,1,Pullup Jump shot,14,-138,48,True
+Dennis Schroder,2,8,30,1,Pullup Jump shot,14,-32,146,True
+Dennis Schroder,3,9,30,1,Pullup Jump shot,24,-79,237,False
+Dennis Schroder,4,1,32,0,Pullup Jump shot,17,-85,151,True
+Dennis Schroder,1,5,41,1,Pullup Jump shot,8,16,84,True
+Dennis Schroder,1,4,52,1,Pullup Jump shot,21,-71,198,True
+Dennis Schroder,2,6,58,1,Pullup Jump shot,17,-22,174,True
+Dennis Schroder,1,6,3,1,Pullup Jump shot,14,55,134,True
+Dennis Schroder,4,3,7,1,Pullup Jump shot,19,81,174,True
+Dennis Schroder,1,4,40,0,Pullup Jump shot,25,89,239,False
+Dennis Schroder,4,3,29,0,Pullup Jump shot,16,0,162,True
+Dennis Schroder,1,7,50,0,Pullup Jump shot,17,-1,170,True
+Dennis Schroder,2,2,37,1,Pullup Jump shot,20,116,174,True
+Dennis Schroder,1,11,29,1,Pullup Jump shot,15,11,155,True
+Dennis Schroder,3,9,30,0,Pullup Jump shot,15,83,135,True
+Dennis Schroder,2,3,33,1,Pullup Jump shot,14,71,126,True
+Dennis Schroder,3,7,11,1,Pullup Jump shot,16,76,146,True
+Dennis Schroder,2,2,37,0,Pullup Jump shot,21,170,126,True
+Dennis Schroder,2,5,49,1,Pullup Jump shot,18,-29,184,True
+Dennis Schroder,3,9,57,1,Pullup Jump shot,14,-139,39,True
+Dennis Schroder,4,5,9,0,Pullup Jump shot,15,-18,155,True
+Dennis Schroder,4,10,44,1,Pullup Jump shot,16,8,161,True
+Dennis Schroder,3,5,57,0,Pullup Jump shot,12,116,34,True
+Dennis Schroder,2,3,0,1,Pullup Jump shot,17,-3,174,True
+Dennis Schroder,2,7,46,0,Pullup Jump shot,24,181,166,False
+Dennis Schroder,1,5,42,0,Pullup Jump shot,24,-116,219,False
+Dennis Schroder,3,5,55,0,Pullup Jump shot,25,-150,204,False
+Dennis Schroder,4,9,3,0,Pullup Jump shot,18,89,159,True
+Dennis Schroder,1,4,36,0,Pullup Jump shot,19,-55,189,True
+Dennis Schroder,3,2,31,0,Pullup Jump shot,24,101,228,False
+Dennis Schroder,4,10,24,1,Pullup Jump shot,8,25,78,True
+Dennis Schroder,3,9,55,1,Pullup Jump shot,21,100,194,True
+Dennis Schroder,1,7,13,1,Pullup Jump shot,15,-110,111,True
+Dennis Schroder,2,4,4,1,Pullup Jump shot,25,-18,251,False
+Dennis Schroder,2,6,43,0,Pullup Jump shot,20,57,198,True
+Dennis Schroder,2,1,50,1,Pullup Jump shot,25,-14,253,False
+Dennis Schroder,2,3,28,0,Pullup Jump shot,24,-163,185,False
+Dennis Schroder,1,9,45,1,Pullup Jump shot,13,95,99,True
+Dennis Schroder,1,7,3,1,Pullup Jump shot,25,-44,251,False
+Dennis Schroder,1,9,41,1,Pullup Jump shot,19,66,187,True
+Dennis Schroder,1,7,50,1,Pullup Jump shot,11,114,1,True
+Dennis Schroder,1,11,44,1,Pullup Jump shot,18,-149,107,True
+Dennis Schroder,4,0,22,0,Pullup Jump shot,19,62,180,True
+Dennis Schroder,2,1,2,1,Pullup Jump shot,21,52,206,True
+Dennis Schroder,2,5,2,1,Pullup Jump shot,20,-157,131,True
+Dennis Schroder,4,2,17,1,Pullup Jump shot,25,-25,256,False
+Dennis Schroder,1,4,34,1,Pullup Jump shot,18,-84,167,True
+Dennis Schroder,2,3,5,1,Pullup Jump shot,16,80,144,True
+Dennis Schroder,3,7,8,1,Pullup Jump shot,21,38,209,True
+Dennis Schroder,2,7,27,0,Pullup Jump shot,17,-129,122,True
+Dennis Schroder,4,8,58,1,Pullup Jump shot,20,130,163,True
+Dennis Schroder,3,2,56,0,Pullup Jump shot,25,120,222,False
+Dennis Schroder,3,3,57,0,Pullup Jump shot,18,84,162,True
+Dennis Schroder,2,1,28,0,Pullup Jump shot,19,90,176,True
+Dennis Schroder,2,1,6,0,Pullup Jump shot,25,-75,240,False
+Dennis Schroder,2,5,57,0,Pullup Jump shot,24,62,240,False
+Dennis Schroder,3,10,37,0,Pullup Jump shot,18,18,189,True
+Dennis Schroder,2,10,58,1,Pullup Jump shot,14,-74,127,True
+Dennis Schroder,3,9,1,0,Pullup Jump shot,13,128,52,True
+Dennis Schroder,4,2,12,0,Reverse Layup Shot,1,-11,15,True
+Dennis Schroder,3,7,59,0,Reverse Layup Shot,1,-18,6,True
+Dennis Schroder,1,5,41,0,Reverse Layup Shot,1,14,12,True
+Dennis Schroder,3,6,30,1,Running Finger Roll Layup Shot,0,2,8,True
+Dennis Schroder,4,0,0,1,Running Finger Roll Layup Shot,1,16,8,True
+Dennis Schroder,3,9,5,1,Running Jump Shot,25,-131,215,False
+Dennis Schroder,2,2,15,0,Running Jump Shot,24,-180,172,False
+Dennis Schroder,3,2,27,0,Running Jump Shot,24,109,221,False
+Dennis Schroder,2,0,0,0,Running Jump Shot,49,-120,477,False
+Dennis Schroder,1,8,31,0,Running Jump Shot,25,-84,236,False
+Dennis Schroder,3,3,28,0,Running Jump Shot,18,154,109,True
+Dennis Schroder,2,1,18,0,Running Layup Shot,1,6,14,True
+Dennis Schroder,1,7,0,0,Running Layup Shot,1,10,13,True
+Dennis Schroder,3,10,2,1,Running Layup Shot,0,2,7,True
+Dennis Schroder,1,4,56,1,Running Layup Shot,1,2,14,True
+Dennis Schroder,2,1,2,1,Running Layup Shot,1,1,15,True
+Dennis Schroder,4,6,5,1,Running Layup Shot,1,13,-8,True
+Dennis Schroder,1,8,33,0,Running Layup Shot,5,-47,18,True
+Dennis Schroder,3,11,20,1,Running Layup Shot,1,0,10,True
+Dennis Schroder,2,4,13,0,Running Layup Shot,1,9,13,True
+Dennis Schroder,4,7,42,1,Running Layup Shot,2,-18,12,True
+Dennis Schroder,3,4,20,1,Running Layup Shot,1,3,19,True
+Dennis Schroder,2,6,12,1,Running Layup Shot,2,-2,26,True
+Dennis Schroder,4,3,21,1,Running Layup Shot,2,23,8,True
+Dennis Schroder,5,0,38,1,Running Layup Shot,1,-2,15,True
+Dennis Schroder,3,8,20,1,Running Layup Shot,1,-1,13,True
+Dennis Schroder,2,7,22,0,Running Layup Shot,3,-22,23,True
+Dennis Schroder,1,11,25,0,Running Layup Shot,0,-5,8,True
+Dennis Schroder,3,3,37,0,Running Pull-Up Jump Shot,25,-32,253,False
+Dennis Schroder,2,6,12,1,Running Pull-Up Jump Shot,16,73,153,True
+Dennis Schroder,2,4,39,0,Running Pull-Up Jump Shot,6,50,35,True
+Dennis Schroder,2,0,0,0,Running Pull-Up Jump Shot,24,-58,241,False
+Dennis Schroder,3,10,11,0,Running Pull-Up Jump Shot,25,98,233,False
+Dennis Schroder,1,8,18,0,Running Pull-Up Jump Shot,17,13,179,True
+Dennis Schroder,4,2,25,0,Running Pull-Up Jump Shot,21,-149,151,True
+Dennis Schroder,3,3,35,0,Running Pull-Up Jump Shot,24,160,184,False
+Dennis Schroder,3,2,44,0,Running Pull-Up Jump Shot,25,-133,215,False
+Dennis Schroder,3,8,53,1,Step Back Jump shot,25,-39,254,False
+Dennis Schroder,1,4,49,1,Step Back Jump shot,24,225,92,False
+Dennis Schroder,4,4,16,0,Step Back Jump shot,15,78,138,True
+Dennis Schroder,2,6,27,0,Step Back Jump shot,25,111,230,False
+Dennis Schroder,3,3,49,1,Step Back Jump shot,26,-158,208,False
+Dennis Schroder,1,4,10,0,Step Back Jump shot,17,15,174,True
+Dennis Schroder,3,5,11,0,Step Back Jump shot,14,-144,9,True
+Dennis Schroder,3,9,20,1,Step Back Jump shot,16,-160,17,True
+Dennis Schroder,3,1,43,0,Step Back Jump shot,25,31,251,False
+Dennis Schroder,2,5,9,1,Step Back Jump shot,24,-152,195,False
+Dennis Schroder,1,9,24,1,Step Back Jump shot,15,150,46,True
+Dennis Schroder,3,10,43,0,Step Back Jump shot,24,30,246,False
+Dennis Schroder,2,8,34,1,Step Back Jump shot,25,76,240,False
+Dennis Schroder,4,7,22,0,Step Back Jump shot,24,-143,201,False
+Dennis Schroder,1,8,2,1,Step Back Jump shot,25,-137,212,False
+Dennis Schroder,3,10,54,0,Step Back Jump shot,24,44,246,False
+Dennis Schroder,3,1,26,0,Step Back Jump shot,25,-81,246,False
+Dennis Schroder,3,10,17,0,Tip Layup Shot,0,0,-6,True
+Dennis Schroder,4,4,56,1,Turnaround Jump Shot,13,20,131,True
+Dennis Schroder,4,4,7,1,Turnaround Jump Shot,13,139,-6,True
+Dennis Schroder,2,6,6,1,Turnaround Jump Shot,13,0,136,True

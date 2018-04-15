@@ -1,0 +1,251 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Royce ONeale,2,2,17,1,Alley Oop Dunk Shot,1,14,14,True
+Royce ONeale,4,8,50,1,Alley Oop Layup shot,1,2,17,True
+Royce ONeale,4,0,18,1,Cutting Dunk Shot,0,0,5,True
+Royce ONeale,4,9,56,1,Cutting Finger Roll Layup Shot,1,-6,8,True
+Royce ONeale,2,8,1,1,Cutting Finger Roll Layup Shot,1,0,18,True
+Royce ONeale,3,0,0,1,Cutting Layup Shot,1,12,6,True
+Royce ONeale,3,7,44,1,Cutting Layup Shot,0,-8,0,True
+Royce ONeale,2,9,31,1,Cutting Layup Shot,0,3,5,True
+Royce ONeale,1,0,45,1,Cutting Layup Shot,1,-6,10,True
+Royce ONeale,2,5,27,1,Cutting Layup Shot,1,-8,18,True
+Royce ONeale,3,1,24,1,Cutting Layup Shot,1,-12,15,True
+Royce ONeale,3,1,59,1,Driving Dunk Shot,2,1,26,True
+Royce ONeale,4,2,15,1,Driving Finger Roll Layup Shot,0,0,-1,True
+Royce ONeale,4,6,22,1,Driving Finger Roll Layup Shot,1,19,3,True
+Royce ONeale,4,1,37,1,Driving Finger Roll Layup Shot,1,-3,16,True
+Royce ONeale,1,2,37,1,Driving Finger Roll Layup Shot,2,0,27,True
+Royce ONeale,4,7,58,0,Driving Floating Bank Jump Shot,6,18,67,True
+Royce ONeale,2,4,39,0,Driving Floating Bank Jump Shot,8,85,15,True
+Royce ONeale,1,2,39,1,Driving Floating Bank Jump Shot,7,43,56,True
+Royce ONeale,2,5,56,0,Driving Floating Bank Jump Shot,11,-38,112,True
+Royce ONeale,1,5,42,1,Driving Floating Bank Jump Shot,10,87,60,True
+Royce ONeale,4,9,5,0,Driving Floating Jump Shot,8,-30,76,True
+Royce ONeale,3,3,13,0,Driving Floating Jump Shot,11,70,94,True
+Royce ONeale,4,5,30,0,Driving Floating Jump Shot,7,28,74,True
+Royce ONeale,4,11,46,0,Driving Floating Jump Shot,10,13,105,True
+Royce ONeale,1,0,45,0,Driving Floating Jump Shot,13,-55,118,True
+Royce ONeale,1,10,11,1,Driving Floating Jump Shot,5,13,53,True
+Royce ONeale,1,0,18,0,Driving Floating Jump Shot,8,31,81,True
+Royce ONeale,3,1,11,0,Driving Floating Jump Shot,8,3,84,True
+Royce ONeale,1,0,23,0,Driving Floating Jump Shot,11,-30,106,True
+Royce ONeale,4,11,37,0,Driving Layup Shot,2,-20,14,True
+Royce ONeale,1,1,52,0,Driving Layup Shot,2,16,16,True
+Royce ONeale,1,2,13,0,Driving Layup Shot,3,16,27,True
+Royce ONeale,2,6,47,0,Driving Layup Shot,2,-24,16,True
+Royce ONeale,2,7,44,0,Driving Layup Shot,2,9,20,True
+Royce ONeale,4,8,29,0,Driving Layup Shot,1,15,10,True
+Royce ONeale,2,5,49,0,Driving Layup Shot,1,15,13,True
+Royce ONeale,1,1,45,1,Driving Layup Shot,5,23,47,True
+Royce ONeale,1,6,21,0,Driving Layup Shot,2,-22,12,True
+Royce ONeale,3,1,23,1,Driving Layup Shot,1,-4,14,True
+Royce ONeale,3,3,3,0,Driving Layup Shot,2,22,14,True
+Royce ONeale,3,8,39,0,Driving Layup Shot,2,23,6,True
+Royce ONeale,4,11,20,0,Driving Layup Shot,1,-6,15,True
+Royce ONeale,4,10,46,0,Driving Layup Shot,3,-36,17,True
+Royce ONeale,3,0,34,0,Driving Layup Shot,3,13,28,True
+Royce ONeale,2,8,43,0,Driving Layup Shot,1,-14,11,True
+Royce ONeale,4,1,11,1,Driving Layup Shot,1,12,-2,True
+Royce ONeale,3,10,45,1,Driving Layup Shot,1,1,13,True
+Royce ONeale,4,2,1,1,Driving Layup Shot,1,1,10,True
+Royce ONeale,1,1,38,0,Driving Layup Shot,1,-6,15,True
+Royce ONeale,2,8,31,1,Driving Layup Shot,2,-21,4,True
+Royce ONeale,4,2,34,0,Driving Layup Shot,3,3,37,True
+Royce ONeale,2,4,0,0,Driving Layup Shot,1,-18,1,True
+Royce ONeale,2,9,56,0,Driving Layup Shot,2,21,17,True
+Royce ONeale,3,2,3,0,Driving Layup Shot,3,-25,21,True
+Royce ONeale,4,7,52,1,Driving Layup Shot,2,11,21,True
+Royce ONeale,2,7,4,0,Driving Layup Shot,3,-3,34,True
+Royce ONeale,2,9,22,0,Driving Layup Shot,1,-1,12,True
+Royce ONeale,4,7,8,0,Driving Layup Shot,2,-15,19,True
+Royce ONeale,4,7,8,0,Driving Layup Shot,1,-16,6,True
+Royce ONeale,4,8,42,0,Driving Layup Shot,3,22,32,True
+Royce ONeale,3,4,33,0,Driving Layup Shot,5,32,41,True
+Royce ONeale,3,2,45,0,Driving Layup Shot,3,-26,26,True
+Royce ONeale,3,11,8,0,Driving Layup Shot,2,-27,0,True
+Royce ONeale,2,1,1,1,Driving Layup Shot,1,-18,6,True
+Royce ONeale,3,10,53,0,Driving Layup Shot,2,25,4,True
+Royce ONeale,1,10,43,0,Driving Layup Shot,3,17,26,True
+Royce ONeale,4,5,0,1,Driving Layup Shot,2,19,12,True
+Royce ONeale,3,2,28,1,Driving Layup Shot,5,-57,14,True
+Royce ONeale,4,11,4,0,Driving Layup Shot,1,-7,12,True
+Royce ONeale,2,8,21,1,Driving Reverse Layup Shot,1,13,7,True
+Royce ONeale,2,8,39,1,Driving Reverse Layup Shot,2,18,15,True
+Royce ONeale,1,3,9,1,Dunk Shot,1,2,16,True
+Royce ONeale,4,9,8,0,Fadeaway Jump Shot,11,-116,29,True
+Royce ONeale,4,4,1,0,Fadeaway Jump Shot,5,8,57,True
+Royce ONeale,3,1,20,0,Floating Jump shot,7,-40,62,True
+Royce ONeale,2,6,25,0,Floating Jump shot,7,-36,68,True
+Royce ONeale,3,1,40,1,Floating Jump shot,13,-47,127,True
+Royce ONeale,2,7,43,0,Floating Jump shot,9,92,21,True
+Royce ONeale,3,9,28,0,Floating Jump shot,6,-25,60,True
+Royce ONeale,3,4,31,1,Floating Jump shot,5,2,59,True
+Royce ONeale,3,7,46,0,Floating Jump shot,10,16,105,True
+Royce ONeale,2,5,53,0,Floating Jump shot,2,19,22,True
+Royce ONeale,3,3,10,1,Floating Jump shot,10,-40,102,True
+Royce ONeale,4,0,56,1,Floating Jump shot,6,-20,61,True
+Royce ONeale,2,7,46,1,Floating Jump shot,10,0,101,True
+Royce ONeale,3,0,50,1,Floating Jump shot,5,-5,57,True
+Royce ONeale,4,8,24,0,Jump Shot,23,-234,11,False
+Royce ONeale,2,3,59,1,Jump Shot,23,232,8,False
+Royce ONeale,4,2,10,0,Jump Shot,24,230,85,False
+Royce ONeale,2,7,52,1,Jump Shot,26,-105,244,False
+Royce ONeale,2,7,38,0,Jump Shot,24,-215,124,False
+Royce ONeale,3,0,2,1,Jump Shot,22,-225,23,False
+Royce ONeale,4,0,50,0,Jump Shot,26,93,252,False
+Royce ONeale,4,1,27,1,Jump Shot,23,230,36,False
+Royce ONeale,3,9,36,0,Jump Shot,25,-217,127,False
+Royce ONeale,2,0,6,1,Jump Shot,23,-236,12,False
+Royce ONeale,4,8,27,0,Jump Shot,22,-222,8,False
+Royce ONeale,1,4,59,0,Jump Shot,25,208,143,False
+Royce ONeale,4,1,2,1,Jump Shot,22,-225,-2,False
+Royce ONeale,4,0,37,0,Jump Shot,22,-222,-13,False
+Royce ONeale,3,3,52,0,Jump Shot,23,-231,4,False
+Royce ONeale,2,11,14,1,Jump Shot,11,-85,76,True
+Royce ONeale,2,8,4,0,Jump Shot,23,-230,22,False
+Royce ONeale,1,1,54,1,Jump Shot,23,-230,0,False
+Royce ONeale,2,6,10,0,Jump Shot,25,80,237,False
+Royce ONeale,1,1,7,0,Jump Shot,25,234,93,False
+Royce ONeale,2,6,41,0,Jump Shot,23,232,17,False
+Royce ONeale,1,2,42,0,Jump Shot,23,236,5,False
+Royce ONeale,1,0,17,0,Jump Shot,23,231,-25,False
+Royce ONeale,4,9,30,0,Jump Shot,22,-223,-2,False
+Royce ONeale,3,0,4,0,Jump Shot,25,-127,220,False
+Royce ONeale,2,9,29,1,Jump Shot,25,-207,153,False
+Royce ONeale,3,3,6,0,Jump Shot,24,226,105,False
+Royce ONeale,1,3,5,1,Jump Shot,26,-154,211,False
+Royce ONeale,3,1,6,0,Jump Shot,23,231,26,False
+Royce ONeale,3,0,44,0,Jump Shot,22,226,13,False
+Royce ONeale,2,7,15,0,Jump Shot,24,-220,105,False
+Royce ONeale,3,5,31,0,Jump Shot,23,-230,8,False
+Royce ONeale,4,0,2,0,Jump Shot,22,225,10,False
+Royce ONeale,2,3,44,1,Jump Shot,24,-134,205,False
+Royce ONeale,1,1,19,1,Jump Shot,26,-142,222,False
+Royce ONeale,3,6,36,1,Jump Shot,23,228,64,False
+Royce ONeale,3,0,33,0,Jump Shot,23,-225,51,False
+Royce ONeale,1,7,57,1,Jump Shot,15,-27,153,True
+Royce ONeale,4,6,26,0,Jump Shot,24,232,71,False
+Royce ONeale,2,10,30,0,Jump Shot,24,161,189,False
+Royce ONeale,4,4,48,0,Jump Shot,25,-51,252,False
+Royce ONeale,2,10,46,0,Jump Shot,4,3,43,True
+Royce ONeale,3,3,52,1,Jump Shot,23,-231,-11,False
+Royce ONeale,1,0,38,1,Jump Shot,22,-224,21,False
+Royce ONeale,3,5,7,0,Jump Shot,23,-231,-18,False
+Royce ONeale,1,2,32,0,Jump Shot,27,104,251,False
+Royce ONeale,2,8,3,1,Jump Shot,26,2,265,False
+Royce ONeale,4,5,48,1,Jump Shot,24,242,45,False
+Royce ONeale,3,8,52,1,Jump Shot,25,215,140,False
+Royce ONeale,4,6,43,1,Jump Shot,23,234,25,False
+Royce ONeale,1,0,19,1,Jump Shot,24,-246,8,False
+Royce ONeale,3,6,46,0,Jump Shot,22,-227,-12,False
+Royce ONeale,2,7,11,0,Jump Shot,25,150,201,False
+Royce ONeale,1,0,0,0,Jump Shot,48,-117,473,False
+Royce ONeale,4,0,23,0,Jump Shot,26,-63,258,False
+Royce ONeale,2,11,42,0,Jump Shot,24,231,70,False
+Royce ONeale,3,0,32,0,Jump Shot,25,210,153,False
+Royce ONeale,2,9,35,0,Jump Shot,25,156,205,False
+Royce ONeale,4,5,18,1,Jump Shot,23,236,24,False
+Royce ONeale,4,9,30,0,Jump Shot,23,236,20,False
+Royce ONeale,2,10,38,1,Jump Shot,23,221,73,False
+Royce ONeale,3,2,53,1,Jump Shot,24,231,94,False
+Royce ONeale,3,5,26,0,Jump Shot,25,-67,243,False
+Royce ONeale,1,0,1,1,Jump Shot,25,-176,180,False
+Royce ONeale,4,10,30,1,Jump Shot,23,-227,58,False
+Royce ONeale,3,1,3,0,Jump Shot,22,-225,-26,False
+Royce ONeale,2,7,38,1,Jump Shot,22,225,41,False
+Royce ONeale,2,5,5,0,Jump Shot,24,101,221,False
+Royce ONeale,4,4,37,0,Jump Shot,27,130,242,False
+Royce ONeale,4,0,23,0,Jump Shot,25,-128,218,False
+Royce ONeale,4,9,15,0,Jump Shot,23,234,38,False
+Royce ONeale,4,0,4,0,Jump Shot,26,125,231,False
+Royce ONeale,3,3,53,0,Jump Shot,22,-228,10,False
+Royce ONeale,4,0,40,0,Jump Shot,24,201,148,False
+Royce ONeale,4,7,56,1,Jump Shot,25,85,242,False
+Royce ONeale,4,6,34,0,Jump Shot,25,24,253,False
+Royce ONeale,4,11,19,0,Jump Shot,23,230,24,False
+Royce ONeale,4,6,34,1,Jump Shot,23,230,21,False
+Royce ONeale,4,8,17,1,Jump Shot,22,-226,-15,False
+Royce ONeale,4,9,27,1,Jump Shot,22,228,22,False
+Royce ONeale,4,10,29,0,Jump Shot,25,-221,134,False
+Royce ONeale,2,9,56,0,Jump Shot,22,223,16,False
+Royce ONeale,3,0,47,0,Jump Shot,23,235,16,False
+Royce ONeale,2,4,1,0,Jump Shot,25,181,173,False
+Royce ONeale,2,9,27,0,Jump Shot,22,-223,16,False
+Royce ONeale,3,0,0,0,Jump Shot,55,76,549,False
+Royce ONeale,4,7,35,0,Jump Shot,23,234,14,False
+Royce ONeale,4,7,1,1,Jump Shot,26,168,200,False
+Royce ONeale,2,9,47,0,Jump Shot,25,-172,183,False
+Royce ONeale,4,2,31,0,Jump Shot,26,-36,262,False
+Royce ONeale,4,6,38,1,Jump Shot,25,-48,250,False
+Royce ONeale,2,11,21,1,Jump Shot,23,-237,1,False
+Royce ONeale,4,2,22,0,Jump Shot,25,-127,218,False
+Royce ONeale,1,2,45,1,Jump Shot,22,-228,1,False
+Royce ONeale,4,3,49,1,Jump Shot,25,113,228,False
+Royce ONeale,4,4,0,0,Jump Shot,26,182,196,False
+Royce ONeale,4,6,55,0,Jump Shot,25,-220,121,False
+Royce ONeale,4,4,59,0,Jump Shot,23,-231,17,False
+Royce ONeale,4,2,33,0,Jump Shot,26,191,180,False
+Royce ONeale,4,10,50,0,Jump Shot,3,-27,20,True
+Royce ONeale,4,0,10,0,Jump Shot,20,-172,104,True
+Royce ONeale,4,5,57,0,Jump Shot,26,24,266,False
+Royce ONeale,4,9,37,0,Jump Shot,25,1,253,False
+Royce ONeale,4,0,32,1,Layup Shot,2,22,10,True
+Royce ONeale,2,7,53,0,Layup Shot,3,14,36,True
+Royce ONeale,4,0,59,0,Layup Shot,2,24,13,True
+Royce ONeale,1,0,40,1,Layup Shot,1,-11,12,True
+Royce ONeale,4,6,9,0,Layup Shot,2,19,10,True
+Royce ONeale,1,2,44,0,Layup Shot,7,-70,31,True
+Royce ONeale,2,11,24,1,Layup Shot,2,-14,25,True
+Royce ONeale,2,10,30,0,Layup Shot,1,-14,4,True
+Royce ONeale,4,0,32,0,Layup Shot,2,22,20,True
+Royce ONeale,4,6,14,0,Layup Shot,2,-15,20,True
+Royce ONeale,3,7,36,1,Layup Shot,2,-16,21,True
+Royce ONeale,3,7,44,0,Layup Shot,8,8,85,True
+Royce ONeale,3,0,45,0,Layup Shot,0,-1,6,True
+Royce ONeale,3,1,42,0,Layup Shot,1,-16,8,True
+Royce ONeale,4,9,5,1,Layup Shot,2,-6,21,True
+Royce ONeale,2,7,52,1,Pullup Jump shot,15,-129,89,True
+Royce ONeale,4,5,24,0,Pullup Jump shot,15,-81,134,True
+Royce ONeale,4,0,17,1,Pullup Jump shot,26,30,266,False
+Royce ONeale,1,6,21,1,Pullup Jump shot,11,-60,96,True
+Royce ONeale,1,4,44,0,Pullup Jump shot,24,162,184,False
+Royce ONeale,4,1,10,0,Pullup Jump shot,18,87,167,True
+Royce ONeale,2,9,6,0,Pullup Jump shot,20,80,186,True
+Royce ONeale,2,8,6,1,Pullup Jump shot,19,-143,136,True
+Royce ONeale,4,2,13,1,Pullup Jump shot,25,37,253,False
+Royce ONeale,4,5,56,0,Pullup Jump shot,8,-66,46,True
+Royce ONeale,3,4,10,0,Pullup Jump shot,16,-116,124,True
+Royce ONeale,2,10,26,1,Putback Layup Shot,0,0,-6,True
+Royce ONeale,4,9,2,1,Reverse Layup Shot,3,16,36,True
+Royce ONeale,4,1,31,1,Running Dunk Shot,1,0,11,True
+Royce ONeale,2,7,4,1,Running Dunk Shot,0,-5,5,True
+Royce ONeale,3,0,50,1,Running Dunk Shot,0,6,4,True
+Royce ONeale,4,1,29,1,Running Dunk Shot,1,7,13,True
+Royce ONeale,4,8,35,1,Running Dunk Shot,1,6,16,True
+Royce ONeale,2,3,45,1,Running Dunk Shot,2,-5,20,True
+Royce ONeale,1,0,1,0,Running Finger Roll Layup Shot,2,0,23,True
+Royce ONeale,1,10,24,1,Running Finger Roll Layup Shot,1,-2,17,True
+Royce ONeale,2,10,46,1,Running Finger Roll Layup Shot,1,8,6,True
+Royce ONeale,1,0,49,0,Running Jump Shot,12,-93,76,True
+Royce ONeale,1,0,29,1,Running Layup Shot,0,-2,-1,True
+Royce ONeale,2,8,47,1,Running Layup Shot,0,4,8,True
+Royce ONeale,4,8,46,0,Running Layup Shot,4,3,41,True
+Royce ONeale,2,7,12,1,Running Layup Shot,2,19,12,True
+Royce ONeale,4,4,39,0,Running Layup Shot,1,-12,4,True
+Royce ONeale,1,1,47,1,Running Layup Shot,2,6,20,True
+Royce ONeale,2,5,36,0,Running Layup Shot,2,-23,12,True
+Royce ONeale,4,6,31,1,Running Layup Shot,2,-19,8,True
+Royce ONeale,3,5,50,1,Running Layup Shot,1,-11,3,True
+Royce ONeale,2,5,51,1,Running Layup Shot,1,9,10,True
+Royce ONeale,3,4,0,1,Running Layup Shot,0,3,6,True
+Royce ONeale,3,0,32,0,Running Layup Shot,5,49,20,True
+Royce ONeale,3,4,9,1,Running Layup Shot,1,0,12,True
+Royce ONeale,3,2,43,1,Running Layup Shot,0,2,9,True
+Royce ONeale,3,1,13,1,Step Back Jump shot,25,63,245,False
+Royce ONeale,1,2,46,1,Step Back Jump shot,13,-104,85,True
+Royce ONeale,4,1,19,1,Step Back Jump shot,8,9,83,True
+Royce ONeale,2,8,22,1,Step Back Jump shot,24,111,220,False
+Royce ONeale,2,8,32,1,Step Back Jump shot,26,-144,227,False
+Royce ONeale,2,0,0,1,Step Back Jump shot,10,46,93,True
+Royce ONeale,4,10,40,0,Step Back Jump shot,11,-115,27,True
+Royce ONeale,2,11,11,1,Turnaround Jump Shot,14,144,14,True

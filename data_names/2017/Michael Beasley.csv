@@ -1,0 +1,711 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Michael Beasley,3,7,47,1,Alley Oop Dunk Shot,0,8,1,True
+Michael Beasley,4,3,26,0,Alley Oop Layup shot,1,-9,9,True
+Michael Beasley,2,5,32,0,Alley Oop Layup shot,2,20,7,True
+Michael Beasley,1,4,34,0,Alley Oop Layup shot,1,9,17,True
+Michael Beasley,3,2,56,1,Alley Oop Layup shot,1,-2,15,True
+Michael Beasley,4,8,58,0,Cutting Dunk Shot,2,3,29,True
+Michael Beasley,2,8,29,1,Cutting Dunk Shot,0,-2,1,True
+Michael Beasley,4,9,9,1,Cutting Dunk Shot,1,0,15,True
+Michael Beasley,1,6,25,1,Cutting Dunk Shot,0,2,8,True
+Michael Beasley,1,3,16,1,Cutting Dunk Shot,1,-13,15,True
+Michael Beasley,3,8,55,1,Cutting Dunk Shot,2,-11,17,True
+Michael Beasley,2,5,8,1,Cutting Finger Roll Layup Shot,1,-2,15,True
+Michael Beasley,1,7,25,1,Cutting Finger Roll Layup Shot,0,-2,4,True
+Michael Beasley,3,2,24,1,Cutting Finger Roll Layup Shot,1,-12,7,True
+Michael Beasley,4,1,4,1,Cutting Layup Shot,2,-16,13,True
+Michael Beasley,3,5,12,1,Cutting Layup Shot,1,-2,13,True
+Michael Beasley,3,1,6,1,Cutting Layup Shot,1,10,11,True
+Michael Beasley,4,5,22,1,Cutting Layup Shot,3,8,33,True
+Michael Beasley,1,0,46,1,Driving Bank Hook Shot,2,-17,16,True
+Michael Beasley,1,10,34,0,Driving Dunk Shot,1,-5,14,True
+Michael Beasley,1,6,52,1,Driving Dunk Shot,1,6,11,True
+Michael Beasley,2,8,56,0,Driving Dunk Shot,0,-3,4,True
+Michael Beasley,2,6,32,0,Driving Dunk Shot,3,5,30,True
+Michael Beasley,3,7,0,1,Driving Dunk Shot,2,-2,20,True
+Michael Beasley,4,6,33,1,Driving Dunk Shot,1,-12,15,True
+Michael Beasley,3,10,35,0,Driving Finger Roll Layup Shot,0,2,4,True
+Michael Beasley,5,1,24,1,Driving Finger Roll Layup Shot,1,-8,6,True
+Michael Beasley,3,3,0,0,Driving Finger Roll Layup Shot,2,22,5,True
+Michael Beasley,2,4,36,1,Driving Finger Roll Layup Shot,6,-18,58,True
+Michael Beasley,4,2,39,0,Driving Finger Roll Layup Shot,0,0,8,True
+Michael Beasley,3,5,0,1,Driving Finger Roll Layup Shot,3,3,32,True
+Michael Beasley,4,5,39,1,Driving Finger Roll Layup Shot,1,-19,5,True
+Michael Beasley,4,9,18,1,Driving Finger Roll Layup Shot,2,6,25,True
+Michael Beasley,3,11,41,1,Driving Finger Roll Layup Shot,0,-3,4,True
+Michael Beasley,3,8,6,1,Driving Finger Roll Layup Shot,0,-3,5,True
+Michael Beasley,3,0,52,1,Driving Finger Roll Layup Shot,2,-25,0,True
+Michael Beasley,3,9,52,0,Driving Finger Roll Layup Shot,0,0,8,True
+Michael Beasley,3,2,22,1,Driving Finger Roll Layup Shot,0,3,6,True
+Michael Beasley,3,3,53,1,Driving Finger Roll Layup Shot,2,-20,16,True
+Michael Beasley,2,11,11,1,Driving Finger Roll Layup Shot,1,17,3,True
+Michael Beasley,2,10,45,1,Driving Finger Roll Layup Shot,4,3,40,True
+Michael Beasley,1,2,23,1,Driving Finger Roll Layup Shot,2,-2,26,True
+Michael Beasley,2,7,32,1,Driving Finger Roll Layup Shot,1,12,9,True
+Michael Beasley,3,1,42,1,Driving Finger Roll Layup Shot,1,13,5,True
+Michael Beasley,3,7,54,0,Driving Finger Roll Layup Shot,1,4,12,True
+Michael Beasley,3,10,11,0,Driving Finger Roll Layup Shot,3,-24,27,True
+Michael Beasley,2,9,25,0,Driving Finger Roll Layup Shot,2,-8,22,True
+Michael Beasley,4,3,39,1,Driving Finger Roll Layup Shot,1,-6,16,True
+Michael Beasley,3,2,16,1,Driving Finger Roll Layup Shot,1,-5,18,True
+Michael Beasley,4,5,35,0,Driving Finger Roll Layup Shot,2,7,20,True
+Michael Beasley,4,11,19,0,Driving Floating Bank Jump Shot,5,-51,21,True
+Michael Beasley,3,8,1,0,Driving Floating Bank Jump Shot,7,79,11,True
+Michael Beasley,4,3,32,1,Driving Floating Bank Jump Shot,12,60,106,True
+Michael Beasley,2,4,18,0,Driving Floating Bank Jump Shot,4,29,32,True
+Michael Beasley,2,11,16,1,Driving Floating Bank Jump Shot,4,-27,32,True
+Michael Beasley,3,0,56,0,Driving Floating Jump Shot,6,49,42,True
+Michael Beasley,2,3,14,0,Driving Floating Jump Shot,8,-30,80,True
+Michael Beasley,1,11,38,1,Driving Floating Jump Shot,7,8,79,True
+Michael Beasley,3,1,53,1,Driving Floating Jump Shot,4,-48,10,True
+Michael Beasley,2,0,55,0,Driving Floating Jump Shot,7,40,65,True
+Michael Beasley,1,8,56,0,Driving Floating Jump Shot,9,-61,75,True
+Michael Beasley,2,7,1,1,Driving Floating Jump Shot,10,61,84,True
+Michael Beasley,2,8,19,1,Driving Floating Jump Shot,12,-54,115,True
+Michael Beasley,3,2,51,1,Driving Floating Jump Shot,10,-38,96,True
+Michael Beasley,1,5,34,1,Driving Hook Shot,6,-10,69,True
+Michael Beasley,3,0,1,1,Driving Hook Shot,7,-45,58,True
+Michael Beasley,4,8,25,1,Driving Hook Shot,2,1,20,True
+Michael Beasley,2,9,16,1,Driving Hook Shot,4,-1,49,True
+Michael Beasley,1,11,40,0,Driving Hook Shot,2,18,19,True
+Michael Beasley,1,11,43,1,Driving Layup Shot,1,11,-1,True
+Michael Beasley,2,9,49,1,Driving Layup Shot,0,-2,2,True
+Michael Beasley,1,6,23,0,Driving Layup Shot,0,-8,-3,True
+Michael Beasley,4,5,35,0,Driving Layup Shot,3,28,25,True
+Michael Beasley,1,7,5,0,Driving Layup Shot,4,16,38,True
+Michael Beasley,1,9,10,0,Driving Layup Shot,3,14,29,True
+Michael Beasley,1,10,39,0,Driving Layup Shot,3,30,13,True
+Michael Beasley,3,4,50,1,Driving Layup Shot,1,-19,5,True
+Michael Beasley,4,1,18,1,Driving Layup Shot,2,-9,19,True
+Michael Beasley,3,4,25,1,Driving Layup Shot,1,10,13,True
+Michael Beasley,4,11,45,1,Driving Layup Shot,4,-39,22,True
+Michael Beasley,4,3,47,1,Driving Layup Shot,2,-9,24,True
+Michael Beasley,4,8,24,1,Driving Layup Shot,0,4,-3,True
+Michael Beasley,1,1,19,1,Driving Layup Shot,2,7,20,True
+Michael Beasley,3,11,25,0,Driving Layup Shot,3,22,30,True
+Michael Beasley,1,11,31,0,Driving Layup Shot,5,42,34,True
+Michael Beasley,3,8,19,1,Driving Layup Shot,1,-11,-1,True
+Michael Beasley,4,1,18,1,Driving Layup Shot,1,5,15,True
+Michael Beasley,2,11,33,0,Driving Layup Shot,2,7,24,True
+Michael Beasley,2,2,7,1,Driving Layup Shot,2,13,21,True
+Michael Beasley,1,10,56,1,Driving Layup Shot,1,-19,4,True
+Michael Beasley,2,7,4,1,Driving Layup Shot,3,-11,32,True
+Michael Beasley,1,0,25,0,Driving Layup Shot,2,5,20,True
+Michael Beasley,3,5,48,0,Driving Layup Shot,2,6,20,True
+Michael Beasley,4,10,54,0,Driving Layup Shot,3,16,27,True
+Michael Beasley,3,4,57,1,Driving Layup Shot,4,41,15,True
+Michael Beasley,2,8,11,1,Driving Layup Shot,0,2,6,True
+Michael Beasley,2,7,44,1,Driving Layup Shot,5,44,26,True
+Michael Beasley,2,6,6,0,Driving Layup Shot,7,-10,75,True
+Michael Beasley,4,11,29,0,Driving Layup Shot,3,32,8,True
+Michael Beasley,3,9,39,0,Driving Layup Shot,4,25,40,True
+Michael Beasley,4,8,57,0,Driving Layup Shot,1,15,8,True
+Michael Beasley,3,2,51,0,Driving Layup Shot,2,20,11,True
+Michael Beasley,4,1,7,1,Driving Layup Shot,2,2,26,True
+Michael Beasley,4,4,10,1,Driving Layup Shot,4,35,21,True
+Michael Beasley,3,1,21,1,Driving Layup Shot,3,-27,18,True
+Michael Beasley,3,2,12,1,Driving Layup Shot,2,24,15,True
+Michael Beasley,4,4,15,1,Driving Layup Shot,2,-6,20,True
+Michael Beasley,1,7,33,0,Driving Layup Shot,3,18,31,True
+Michael Beasley,4,0,4,1,Driving Layup Shot,6,47,42,True
+Michael Beasley,3,6,33,0,Driving Layup Shot,0,4,5,True
+Michael Beasley,4,4,1,0,Driving Layup Shot,8,-48,71,True
+Michael Beasley,4,3,7,1,Driving Layup Shot,7,28,74,True
+Michael Beasley,3,8,56,1,Driving Layup Shot,8,81,14,True
+Michael Beasley,3,2,17,0,Driving Layup Shot,0,5,8,True
+Michael Beasley,4,9,20,1,Driving Layup Shot,1,2,10,True
+Michael Beasley,3,4,49,1,Driving Layup Shot,2,10,20,True
+Michael Beasley,4,5,54,1,Driving Layup Shot,0,-3,8,True
+Michael Beasley,4,8,50,0,Driving Layup Shot,7,-30,64,True
+Michael Beasley,4,8,6,1,Driving Layup Shot,0,-1,6,True
+Michael Beasley,4,6,44,0,Driving Layup Shot,2,-16,18,True
+Michael Beasley,4,4,26,0,Driving Layup Shot,2,-24,17,True
+Michael Beasley,2,6,21,1,Driving Layup Shot,3,-21,24,True
+Michael Beasley,3,2,54,0,Driving Layup Shot,1,-1,13,True
+Michael Beasley,1,8,35,0,Driving Layup Shot,2,14,21,True
+Michael Beasley,4,7,46,1,Driving Layup Shot,2,24,12,True
+Michael Beasley,4,7,29,1,Driving Layup Shot,1,6,11,True
+Michael Beasley,3,0,27,0,Driving Layup Shot,2,16,14,True
+Michael Beasley,6,2,22,0,Driving Layup Shot,1,-8,8,True
+Michael Beasley,2,4,24,0,Driving Layup Shot,0,-2,2,True
+Michael Beasley,2,6,33,1,Driving Layup Shot,0,0,6,True
+Michael Beasley,4,2,22,1,Driving Layup Shot,1,-14,11,True
+Michael Beasley,4,8,37,1,Driving Layup Shot,1,-9,5,True
+Michael Beasley,2,6,45,0,Driving Layup Shot,1,-19,3,True
+Michael Beasley,3,2,4,1,Driving Layup Shot,0,-3,1,True
+Michael Beasley,4,9,59,0,Driving Layup Shot,3,29,10,True
+Michael Beasley,4,5,30,0,Driving Layup Shot,2,-9,19,True
+Michael Beasley,2,4,27,1,Driving Layup Shot,1,-2,13,True
+Michael Beasley,2,9,48,1,Driving Layup Shot,0,5,2,True
+Michael Beasley,2,8,16,0,Driving Layup Shot,2,21,10,True
+Michael Beasley,4,10,35,1,Driving Layup Shot,0,3,7,True
+Michael Beasley,1,8,59,0,Driving Layup Shot,2,13,22,True
+Michael Beasley,1,5,22,0,Driving Layup Shot,2,11,18,True
+Michael Beasley,1,2,7,1,Driving Layup Shot,4,32,32,True
+Michael Beasley,4,10,11,1,Driving Layup Shot,3,-26,16,True
+Michael Beasley,2,10,4,0,Driving Layup Shot,1,-9,11,True
+Michael Beasley,1,1,40,0,Driving Layup Shot,2,22,15,True
+Michael Beasley,3,3,17,0,Driving Layup Shot,3,-29,17,True
+Michael Beasley,4,9,34,1,Driving Layup Shot,7,-74,11,True
+Michael Beasley,3,4,2,0,Driving Layup Shot,2,-22,2,True
+Michael Beasley,4,4,46,0,Driving Layup Shot,8,-60,58,True
+Michael Beasley,2,6,43,1,Driving Layup Shot,1,14,11,True
+Michael Beasley,4,4,37,1,Driving Layup Shot,1,16,4,True
+Michael Beasley,3,0,58,1,Driving Layup Shot,2,-18,18,True
+Michael Beasley,3,4,2,0,Driving Layup Shot,8,-12,85,True
+Michael Beasley,4,8,51,0,Driving Layup Shot,2,9,25,True
+Michael Beasley,1,8,1,0,Driving Layup Shot,7,25,73,True
+Michael Beasley,3,4,57,0,Driving Layup Shot,2,-22,13,True
+Michael Beasley,2,5,50,0,Driving Layup Shot,2,12,16,True
+Michael Beasley,3,0,35,1,Driving Layup Shot,1,-11,10,True
+Michael Beasley,4,7,19,0,Driving Layup Shot,6,60,27,True
+Michael Beasley,3,7,59,1,Driving Layup Shot,1,-1,10,True
+Michael Beasley,1,5,7,1,Driving Layup Shot,3,3,30,True
+Michael Beasley,3,4,33,0,Driving Layup Shot,1,14,14,True
+Michael Beasley,2,9,35,1,Driving Layup Shot,3,14,30,True
+Michael Beasley,4,10,53,0,Driving Reverse Layup Shot,1,-13,7,True
+Michael Beasley,3,3,53,0,Driving Reverse Layup Shot,2,-23,-1,True
+Michael Beasley,2,7,38,1,Driving Reverse Layup Shot,1,-12,6,True
+Michael Beasley,3,2,27,1,Driving Reverse Layup Shot,1,-13,13,True
+Michael Beasley,1,4,36,1,Driving Reverse Layup Shot,2,-19,16,True
+Michael Beasley,2,9,29,1,Driving Reverse Layup Shot,1,-8,7,True
+Michael Beasley,4,8,35,0,Driving Reverse Layup Shot,2,-18,14,True
+Michael Beasley,2,5,52,1,Driving Reverse Layup Shot,1,-6,10,True
+Michael Beasley,2,4,56,1,Driving Reverse Layup Shot,0,3,6,True
+Michael Beasley,4,2,21,1,Dunk Shot,1,-5,17,True
+Michael Beasley,3,8,25,1,Dunk Shot,1,-11,14,True
+Michael Beasley,3,3,10,1,Dunk Shot,1,-2,16,True
+Michael Beasley,2,1,46,1,Dunk Shot,0,3,4,True
+Michael Beasley,3,2,17,1,Dunk Shot,2,11,18,True
+Michael Beasley,2,11,48,1,Dunk Shot,0,7,-2,True
+Michael Beasley,3,2,57,1,Dunk Shot,0,2,4,True
+Michael Beasley,4,2,30,1,Dunk Shot,0,2,6,True
+Michael Beasley,4,6,9,1,Dunk Shot,0,0,4,True
+Michael Beasley,2,9,51,1,Dunk Shot,1,-6,11,True
+Michael Beasley,3,8,59,1,Dunk Shot,1,-1,11,True
+Michael Beasley,2,6,0,1,Dunk Shot,0,2,8,True
+Michael Beasley,1,5,34,1,Dunk Shot,0,0,5,True
+Michael Beasley,1,5,51,1,Dunk Shot,1,-8,9,True
+Michael Beasley,1,0,46,1,Dunk Shot,1,9,13,True
+Michael Beasley,2,5,45,1,Dunk Shot,0,-2,0,True
+Michael Beasley,3,1,56,1,Fadeaway Jump Shot,9,23,95,True
+Michael Beasley,3,10,9,0,Fadeaway Jump Shot,12,99,74,True
+Michael Beasley,3,1,22,0,Fadeaway Jump Shot,13,-125,42,True
+Michael Beasley,4,10,30,0,Fadeaway Jump Shot,16,128,102,True
+Michael Beasley,2,7,7,0,Fadeaway Jump Shot,15,132,89,True
+Michael Beasley,3,5,0,1,Fadeaway Jump Shot,5,34,41,True
+Michael Beasley,4,5,44,0,Fadeaway Jump Shot,14,-103,109,True
+Michael Beasley,3,5,42,1,Fadeaway Jump Shot,12,3,125,True
+Michael Beasley,2,7,57,1,Fadeaway Jump Shot,13,24,134,True
+Michael Beasley,3,2,21,0,Fadeaway Jump Shot,16,160,6,True
+Michael Beasley,4,6,48,1,Fadeaway Jump Shot,11,2,114,True
+Michael Beasley,4,10,43,0,Fadeaway Jump Shot,15,-119,101,True
+Michael Beasley,4,4,40,0,Fadeaway Jump Shot,13,-134,7,True
+Michael Beasley,2,7,38,1,Fadeaway Jump Shot,12,-124,30,True
+Michael Beasley,1,7,14,1,Fadeaway Jump Shot,6,58,-21,True
+Michael Beasley,4,6,59,0,Fadeaway Jump Shot,9,88,30,True
+Michael Beasley,2,2,15,1,Fadeaway Jump Shot,4,47,-3,True
+Michael Beasley,4,0,22,0,Fadeaway Jump Shot,9,-38,89,True
+Michael Beasley,2,3,23,0,Fadeaway Jump Shot,6,64,-1,True
+Michael Beasley,1,11,6,1,Fadeaway Jump Shot,8,12,88,True
+Michael Beasley,1,11,12,1,Fadeaway Jump Shot,10,-89,51,True
+Michael Beasley,2,1,56,0,Fadeaway Jump Shot,11,119,11,True
+Michael Beasley,2,2,23,0,Fadeaway Jump Shot,9,93,-9,True
+Michael Beasley,1,8,44,1,Fadeaway Jump Shot,5,-12,49,True
+Michael Beasley,2,10,27,0,Fadeaway Jump Shot,17,105,137,True
+Michael Beasley,4,1,9,1,Fadeaway Jump Shot,9,-13,93,True
+Michael Beasley,4,7,54,0,Fadeaway Jump Shot,11,-112,20,True
+Michael Beasley,3,5,1,0,Fadeaway Jump Shot,8,84,18,True
+Michael Beasley,3,8,22,0,Fadeaway Jump Shot,17,174,31,True
+Michael Beasley,4,8,1,1,Fadeaway Jump Shot,6,68,-1,True
+Michael Beasley,2,7,15,1,Fadeaway Jump Shot,7,74,15,True
+Michael Beasley,2,7,14,0,Fadeaway Jump Shot,9,21,89,True
+Michael Beasley,4,6,29,1,Fadeaway Jump Shot,13,10,130,True
+Michael Beasley,4,3,55,1,Fadeaway Jump Shot,8,82,-3,True
+Michael Beasley,3,6,26,1,Fadeaway Jump Shot,12,123,4,True
+Michael Beasley,2,11,24,0,Fadeaway Jump Shot,6,49,42,True
+Michael Beasley,2,9,36,0,Fadeaway Jump Shot,9,72,69,True
+Michael Beasley,2,4,38,1,Finger Roll Layup Shot,1,0,16,True
+Michael Beasley,2,4,50,1,Finger Roll Layup Shot,0,-6,7,True
+Michael Beasley,2,9,3,0,Finger Roll Layup Shot,1,6,9,True
+Michael Beasley,1,9,39,1,Finger Roll Layup Shot,1,-7,12,True
+Michael Beasley,4,7,47,0,Finger Roll Layup Shot,1,2,17,True
+Michael Beasley,4,9,18,0,Finger Roll Layup Shot,2,-20,22,True
+Michael Beasley,2,7,1,1,Finger Roll Layup Shot,2,6,22,True
+Michael Beasley,4,2,39,0,Floating Jump shot,8,3,80,True
+Michael Beasley,3,4,14,1,Floating Jump shot,8,44,68,True
+Michael Beasley,4,10,39,1,Floating Jump shot,12,-120,21,True
+Michael Beasley,4,5,38,0,Floating Jump shot,6,29,57,True
+Michael Beasley,2,6,55,1,Floating Jump shot,6,0,63,True
+Michael Beasley,3,5,31,1,Floating Jump shot,6,13,63,True
+Michael Beasley,2,0,0,0,Floating Jump shot,14,101,110,True
+Michael Beasley,4,3,48,1,Floating Jump shot,13,56,122,True
+Michael Beasley,3,0,0,0,Floating Jump shot,10,23,106,True
+Michael Beasley,2,10,54,1,Floating Jump shot,6,18,67,True
+Michael Beasley,2,9,55,1,Floating Jump shot,5,3,55,True
+Michael Beasley,4,8,11,0,Floating Jump shot,11,6,114,True
+Michael Beasley,1,3,13,0,Floating Jump shot,6,45,45,True
+Michael Beasley,2,9,44,1,Floating Jump shot,5,-6,54,True
+Michael Beasley,2,4,49,0,Hook Shot,12,-112,46,True
+Michael Beasley,4,4,33,0,Hook Shot,11,-4,111,True
+Michael Beasley,4,9,47,1,Hook Shot,0,0,-6,True
+Michael Beasley,2,9,6,0,Hook Shot,5,4,54,True
+Michael Beasley,4,4,44,0,Hook Shot,1,5,17,True
+Michael Beasley,4,10,41,0,Hook Shot,3,-36,9,True
+Michael Beasley,1,2,10,1,Hook Shot,4,-2,41,True
+Michael Beasley,1,1,13,1,Hook Shot,3,-35,13,True
+Michael Beasley,4,11,46,1,Hook Shot,2,12,21,True
+Michael Beasley,3,7,24,1,Hook Shot,8,46,69,True
+Michael Beasley,2,7,38,0,Jump Bank Shot,12,100,70,True
+Michael Beasley,2,2,37,0,Jump Bank Shot,2,-17,21,True
+Michael Beasley,2,11,47,0,Jump Bank Shot,14,-123,73,True
+Michael Beasley,2,6,53,1,Jump Bank Shot,9,89,33,True
+Michael Beasley,3,10,46,1,Jump Bank Shot,9,65,66,True
+Michael Beasley,2,1,28,1,Jump Bank Shot,7,54,46,True
+Michael Beasley,4,11,12,1,Jump Bank Shot,6,-50,36,True
+Michael Beasley,2,6,7,0,Jump Shot,12,112,48,True
+Michael Beasley,3,2,21,0,Jump Shot,24,-178,174,False
+Michael Beasley,2,5,12,1,Jump Shot,11,93,64,True
+Michael Beasley,2,1,43,0,Jump Shot,26,156,212,False
+Michael Beasley,3,8,46,1,Jump Shot,23,-231,-16,False
+Michael Beasley,1,11,5,1,Jump Shot,18,135,128,True
+Michael Beasley,3,1,44,0,Jump Shot,9,19,93,True
+Michael Beasley,1,10,38,1,Jump Shot,25,114,225,False
+Michael Beasley,4,3,43,0,Jump Shot,19,182,57,True
+Michael Beasley,3,9,14,0,Jump Shot,26,119,237,False
+Michael Beasley,4,3,18,0,Jump Shot,26,164,206,False
+Michael Beasley,3,2,41,0,Jump Shot,22,-223,-13,False
+Michael Beasley,3,10,16,0,Jump Shot,19,-141,138,True
+Michael Beasley,4,7,55,1,Jump Shot,24,208,131,False
+Michael Beasley,3,4,57,1,Jump Shot,25,-108,227,False
+Michael Beasley,2,10,43,0,Jump Shot,16,-165,37,True
+Michael Beasley,1,9,12,1,Jump Shot,12,-18,121,True
+Michael Beasley,3,4,28,1,Jump Shot,10,-96,32,True
+Michael Beasley,4,0,22,0,Jump Shot,26,95,246,False
+Michael Beasley,4,3,59,1,Jump Shot,25,56,248,False
+Michael Beasley,1,11,41,0,Jump Shot,25,135,218,False
+Michael Beasley,4,1,34,0,Jump Shot,25,158,197,False
+Michael Beasley,1,9,29,0,Jump Shot,7,55,48,True
+Michael Beasley,2,9,15,1,Jump Shot,14,-139,21,True
+Michael Beasley,1,6,7,0,Jump Shot,23,-226,47,False
+Michael Beasley,2,4,29,0,Jump Shot,22,-227,11,False
+Michael Beasley,1,10,20,0,Jump Shot,24,-124,215,False
+Michael Beasley,1,7,44,1,Jump Shot,24,-139,203,False
+Michael Beasley,1,5,35,0,Jump Shot,18,-106,146,True
+Michael Beasley,2,7,14,0,Jump Shot,21,166,134,True
+Michael Beasley,5,3,52,1,Jump Shot,7,30,69,True
+Michael Beasley,5,1,21,0,Jump Shot,15,-119,95,True
+Michael Beasley,1,9,58,1,Jump Shot,13,-127,48,True
+Michael Beasley,3,7,28,0,Jump Shot,16,-130,94,True
+Michael Beasley,3,6,51,0,Jump Shot,15,151,10,True
+Michael Beasley,1,7,50,0,Jump Shot,12,-114,51,True
+Michael Beasley,3,7,27,1,Jump Shot,18,167,76,True
+Michael Beasley,4,5,1,0,Jump Shot,26,210,163,False
+Michael Beasley,4,10,49,0,Jump Shot,15,147,58,True
+Michael Beasley,1,9,4,0,Jump Shot,22,-119,189,True
+Michael Beasley,1,10,43,0,Jump Shot,21,47,212,True
+Michael Beasley,2,9,12,0,Jump Shot,24,-6,247,False
+Michael Beasley,1,7,56,1,Jump Shot,25,85,243,False
+Michael Beasley,3,11,42,1,Jump Shot,17,-53,164,True
+Michael Beasley,1,2,59,1,Jump Shot,16,71,148,True
+Michael Beasley,2,2,32,1,Jump Shot,5,-55,0,True
+Michael Beasley,1,8,29,1,Jump Shot,24,193,157,False
+Michael Beasley,4,6,13,0,Jump Shot,16,160,13,True
+Michael Beasley,1,11,25,1,Jump Shot,21,36,214,True
+Michael Beasley,2,6,23,1,Jump Shot,18,-131,133,True
+Michael Beasley,3,4,38,0,Jump Shot,19,-195,24,True
+Michael Beasley,1,4,30,0,Jump Shot,26,119,234,False
+Michael Beasley,2,7,36,1,Jump Shot,21,190,94,True
+Michael Beasley,2,1,19,1,Jump Shot,23,232,4,False
+Michael Beasley,3,7,30,1,Jump Shot,23,-231,5,False
+Michael Beasley,3,6,11,0,Jump Shot,18,-38,185,True
+Michael Beasley,2,2,23,0,Jump Shot,4,22,44,True
+Michael Beasley,1,11,18,0,Jump Shot,8,53,67,True
+Michael Beasley,1,6,33,1,Jump Shot,13,-136,17,True
+Michael Beasley,3,10,53,0,Jump Shot,24,234,61,False
+Michael Beasley,3,9,42,0,Jump Shot,22,180,136,True
+Michael Beasley,1,9,38,1,Jump Shot,14,111,90,True
+Michael Beasley,3,8,57,0,Jump Shot,13,-6,136,True
+Michael Beasley,1,6,29,0,Jump Shot,10,-46,92,True
+Michael Beasley,1,10,33,1,Jump Shot,12,45,116,True
+Michael Beasley,3,7,39,1,Jump Shot,26,-144,220,False
+Michael Beasley,4,1,13,0,Jump Shot,16,-68,148,True
+Michael Beasley,1,11,2,0,Jump Shot,3,-4,37,True
+Michael Beasley,2,3,20,1,Jump Shot,25,154,201,False
+Michael Beasley,1,8,41,0,Jump Shot,10,-94,55,True
+Michael Beasley,2,5,19,1,Jump Shot,21,152,151,True
+Michael Beasley,2,6,21,0,Jump Shot,20,-74,188,True
+Michael Beasley,4,8,18,0,Jump Shot,16,34,158,True
+Michael Beasley,2,10,13,1,Jump Shot,22,204,92,True
+Michael Beasley,4,0,38,0,Jump Shot,11,112,17,True
+Michael Beasley,2,8,45,1,Jump Shot,8,55,62,True
+Michael Beasley,3,10,54,0,Jump Shot,19,29,192,True
+Michael Beasley,3,4,19,0,Jump Shot,18,154,100,True
+Michael Beasley,4,2,16,1,Jump Shot,14,115,89,True
+Michael Beasley,3,6,17,1,Jump Shot,18,5,189,True
+Michael Beasley,1,9,5,0,Jump Shot,8,-8,80,True
+Michael Beasley,1,1,54,1,Jump Shot,23,-236,-10,False
+Michael Beasley,1,9,42,0,Jump Shot,7,-67,22,True
+Michael Beasley,1,4,21,0,Jump Shot,25,133,220,False
+Michael Beasley,4,10,35,0,Jump Shot,20,193,77,True
+Michael Beasley,4,4,11,1,Jump Shot,21,128,168,True
+Michael Beasley,4,8,13,1,Jump Shot,27,-163,220,False
+Michael Beasley,3,3,34,1,Jump Shot,17,65,160,True
+Michael Beasley,1,8,41,0,Jump Shot,4,24,43,True
+Michael Beasley,3,5,16,0,Jump Shot,23,234,28,False
+Michael Beasley,2,10,35,0,Jump Shot,13,-132,15,True
+Michael Beasley,3,11,35,0,Jump Shot,22,220,58,False
+Michael Beasley,4,7,9,1,Jump Shot,22,84,204,True
+Michael Beasley,2,0,41,0,Jump Shot,23,-228,46,False
+Michael Beasley,2,11,18,1,Jump Shot,24,-208,137,False
+Michael Beasley,2,5,23,1,Jump Shot,7,-32,73,True
+Michael Beasley,1,11,39,1,Jump Shot,20,-141,147,True
+Michael Beasley,3,0,1,0,Jump Shot,18,59,179,True
+Michael Beasley,3,2,51,0,Jump Shot,20,-202,-10,True
+Michael Beasley,1,0,40,0,Jump Shot,10,-100,32,True
+Michael Beasley,4,10,45,0,Jump Shot,23,-231,-6,False
+Michael Beasley,3,3,52,0,Jump Shot,21,-45,209,True
+Michael Beasley,4,6,40,0,Jump Shot,16,-163,31,True
+Michael Beasley,2,11,5,0,Jump Shot,13,-96,94,True
+Michael Beasley,1,0,50,1,Jump Shot,22,-226,-5,False
+Michael Beasley,4,8,46,1,Jump Shot,25,-136,212,False
+Michael Beasley,1,8,1,0,Jump Shot,9,92,34,True
+Michael Beasley,4,3,44,0,Jump Shot,14,-147,20,True
+Michael Beasley,3,1,3,0,Jump Shot,26,128,228,False
+Michael Beasley,3,10,57,1,Jump Shot,18,128,131,True
+Michael Beasley,1,2,39,0,Jump Shot,18,1,187,True
+Michael Beasley,1,0,19,0,Jump Shot,17,119,127,True
+Michael Beasley,4,5,56,0,Jump Shot,6,55,38,True
+Michael Beasley,3,2,20,0,Jump Shot,16,165,38,True
+Michael Beasley,4,10,7,0,Jump Shot,25,-163,193,False
+Michael Beasley,4,11,44,0,Jump Shot,2,4,26,True
+Michael Beasley,3,3,1,1,Jump Shot,25,201,151,False
+Michael Beasley,3,1,26,0,Jump Shot,18,131,129,True
+Michael Beasley,2,6,27,0,Jump Shot,25,-168,196,False
+Michael Beasley,4,11,48,0,Jump Shot,15,-108,117,True
+Michael Beasley,2,8,20,1,Jump Shot,24,-213,128,False
+Michael Beasley,3,4,30,0,Jump Shot,6,28,58,True
+Michael Beasley,2,0,37,1,Jump Shot,13,-94,91,True
+Michael Beasley,4,11,1,0,Jump Shot,8,35,72,True
+Michael Beasley,2,11,18,1,Jump Shot,25,154,199,False
+Michael Beasley,2,1,20,0,Jump Shot,7,42,65,True
+Michael Beasley,2,8,32,1,Jump Shot,13,-112,69,True
+Michael Beasley,4,5,57,0,Jump Shot,7,54,53,True
+Michael Beasley,6,4,22,0,Jump Shot,23,230,21,False
+Michael Beasley,4,7,15,1,Jump Shot,27,142,236,False
+Michael Beasley,5,4,33,1,Jump Shot,3,-14,37,True
+Michael Beasley,2,10,48,1,Jump Shot,3,2,34,True
+Michael Beasley,2,9,31,0,Jump Shot,12,106,59,True
+Michael Beasley,4,3,26,1,Jump Shot,26,151,214,False
+Michael Beasley,2,9,27,1,Jump Shot,19,145,124,True
+Michael Beasley,4,10,30,1,Jump Shot,22,41,220,True
+Michael Beasley,4,2,39,0,Jump Shot,26,8,262,False
+Michael Beasley,1,0,33,1,Jump Shot,19,-20,193,True
+Michael Beasley,2,11,2,1,Jump Shot,26,116,236,False
+Michael Beasley,3,5,30,0,Jump Shot,18,176,60,True
+Michael Beasley,3,9,36,0,Jump Shot,25,-239,76,False
+Michael Beasley,4,1,44,0,Jump Shot,27,201,186,False
+Michael Beasley,2,8,14,1,Jump Shot,4,41,11,True
+Michael Beasley,3,0,53,0,Jump Shot,11,109,47,True
+Michael Beasley,3,2,53,0,Jump Shot,7,-43,65,True
+Michael Beasley,4,11,24,1,Jump Shot,6,-44,52,True
+Michael Beasley,3,0,23,0,Jump Shot,25,169,189,False
+Michael Beasley,2,8,15,0,Jump Shot,25,-109,231,False
+Michael Beasley,2,7,13,1,Jump Shot,15,24,158,True
+Michael Beasley,4,7,38,0,Jump Shot,24,129,212,False
+Michael Beasley,4,10,57,1,Jump Shot,7,-25,67,True
+Michael Beasley,4,11,17,0,Jump Shot,20,60,200,True
+Michael Beasley,4,11,43,0,Jump Shot,25,140,215,False
+Michael Beasley,3,2,27,0,Jump Shot,7,-16,69,True
+Michael Beasley,4,5,49,0,Jump Shot,11,-9,113,True
+Michael Beasley,4,7,14,1,Jump Shot,25,193,160,False
+Michael Beasley,4,11,46,0,Jump Shot,12,-99,69,True
+Michael Beasley,3,3,40,1,Jump Shot,11,111,27,True
+Michael Beasley,4,11,14,1,Jump Shot,6,59,-11,True
+Michael Beasley,2,7,49,0,Jump Shot,7,-16,77,True
+Michael Beasley,4,2,51,0,Jump Shot,18,2,181,True
+Michael Beasley,2,5,1,0,Jump Shot,13,44,131,True
+Michael Beasley,2,4,33,1,Jump Shot,12,127,6,True
+Michael Beasley,4,3,5,0,Jump Shot,17,-174,41,True
+Michael Beasley,4,11,41,0,Jump Shot,7,-68,35,True
+Michael Beasley,1,9,0,1,Jump Shot,12,-103,69,True
+Michael Beasley,1,10,9,1,Jump Shot,26,43,264,False
+Michael Beasley,3,0,13,1,Jump Shot,15,107,114,True
+Michael Beasley,1,10,38,1,Jump Shot,26,147,216,False
+Michael Beasley,1,0,7,0,Jump Shot,26,-3,266,False
+Michael Beasley,1,0,30,1,Jump Shot,13,-125,63,True
+Michael Beasley,3,2,10,0,Jump Shot,18,183,0,True
+Michael Beasley,2,8,58,0,Jump Shot,19,190,5,True
+Michael Beasley,5,4,47,1,Jump Shot,16,-62,157,True
+Michael Beasley,3,1,35,0,Jump Shot,8,-47,68,True
+Michael Beasley,4,9,34,1,Jump Shot,23,-93,221,False
+Michael Beasley,3,3,18,1,Jump Shot,8,8,87,True
+Michael Beasley,1,0,28,1,Jump Shot,22,-177,138,True
+Michael Beasley,3,1,37,0,Jump Shot,20,127,156,True
+Michael Beasley,4,11,23,1,Jump Shot,25,82,239,False
+Michael Beasley,3,11,7,0,Jump Shot,27,-170,210,False
+Michael Beasley,1,7,50,1,Jump Shot,9,39,90,True
+Michael Beasley,1,10,9,1,Jump Shot,25,81,238,False
+Michael Beasley,2,2,7,0,Jump Shot,25,-76,246,False
+Michael Beasley,3,7,3,0,Jump Shot,24,171,182,False
+Michael Beasley,4,6,53,0,Jump Shot,20,73,194,True
+Michael Beasley,4,11,23,0,Jump Shot,15,-39,149,True
+Michael Beasley,4,8,52,0,Jump Shot,17,169,31,True
+Michael Beasley,4,0,19,0,Jump Shot,14,135,43,True
+Michael Beasley,1,11,35,0,Jump Shot,17,169,32,True
+Michael Beasley,3,7,2,1,Jump Shot,6,-69,-6,True
+Michael Beasley,3,11,27,0,Jump Shot,14,125,79,True
+Michael Beasley,2,11,9,1,Jump Shot,3,9,29,True
+Michael Beasley,4,8,23,0,Jump Shot,5,6,55,True
+Michael Beasley,4,1,0,0,Jump Shot,23,-230,37,False
+Michael Beasley,4,9,5,0,Jump Shot,21,178,122,True
+Michael Beasley,1,5,19,0,Jump Shot,19,165,110,True
+Michael Beasley,1,10,14,1,Jump Shot,10,8,103,True
+Michael Beasley,2,3,54,0,Jump Shot,13,-100,84,True
+Michael Beasley,4,0,35,0,Jump Shot,12,127,13,True
+Michael Beasley,4,2,23,0,Jump Shot,5,-32,48,True
+Michael Beasley,3,1,0,0,Jump Shot,11,58,100,True
+Michael Beasley,2,11,6,0,Jump Shot,23,226,52,False
+Michael Beasley,2,7,8,0,Jump Shot,11,62,92,True
+Michael Beasley,1,6,17,0,Jump Shot,12,117,50,True
+Michael Beasley,1,0,36,0,Jump Shot,26,169,210,False
+Michael Beasley,3,3,12,0,Jump Shot,8,-12,88,True
+Michael Beasley,3,1,4,1,Jump Shot,3,-22,21,True
+Michael Beasley,1,0,14,0,Jump Shot,25,165,191,False
+Michael Beasley,4,11,44,0,Jump Shot,14,-124,73,True
+Michael Beasley,3,3,54,0,Jump Shot,9,3,97,True
+Michael Beasley,4,4,7,1,Jump Shot,19,190,29,True
+Michael Beasley,2,11,41,0,Jump Shot,22,-226,42,False
+Michael Beasley,3,0,20,0,Jump Shot,24,237,43,False
+Michael Beasley,3,1,4,0,Jump Shot,22,221,57,False
+Michael Beasley,1,3,27,1,Jump Shot,17,-176,20,True
+Michael Beasley,3,0,1,0,Jump Shot,40,-20,409,False
+Michael Beasley,4,7,19,0,Layup Shot,3,-31,19,True
+Michael Beasley,2,8,8,1,Layup Shot,2,0,20,True
+Michael Beasley,2,8,24,1,Layup Shot,1,-3,15,True
+Michael Beasley,3,5,32,1,Layup Shot,2,-8,19,True
+Michael Beasley,3,6,30,0,Layup Shot,1,-4,16,True
+Michael Beasley,2,3,30,1,Layup Shot,1,-9,11,True
+Michael Beasley,4,6,59,1,Layup Shot,0,0,4,True
+Michael Beasley,1,3,28,0,Layup Shot,3,-9,34,True
+Michael Beasley,2,11,20,0,Layup Shot,9,87,34,True
+Michael Beasley,4,10,13,0,Layup Shot,2,-12,23,True
+Michael Beasley,2,11,8,0,Layup Shot,3,0,39,True
+Michael Beasley,4,10,35,1,Layup Shot,1,7,8,True
+Michael Beasley,1,8,13,0,Layup Shot,0,-8,1,True
+Michael Beasley,2,8,38,1,Layup Shot,4,-36,27,True
+Michael Beasley,2,7,15,0,Layup Shot,11,-97,64,True
+Michael Beasley,1,4,16,0,Layup Shot,1,8,13,True
+Michael Beasley,2,9,44,1,Layup Shot,2,6,22,True
+Michael Beasley,2,11,4,1,Layup Shot,1,7,10,True
+Michael Beasley,1,7,52,1,Layup Shot,2,-11,20,True
+Michael Beasley,3,2,22,0,Layup Shot,10,81,64,True
+Michael Beasley,2,10,51,1,Layup Shot,1,-19,1,True
+Michael Beasley,2,9,49,0,Layup Shot,2,5,21,True
+Michael Beasley,4,2,54,1,Layup Shot,2,-5,24,True
+Michael Beasley,2,3,12,1,Layup Shot,3,-33,-3,True
+Michael Beasley,1,2,19,0,Layup Shot,2,-18,9,True
+Michael Beasley,4,6,4,0,Layup Shot,1,-1,15,True
+Michael Beasley,4,11,7,0,Layup Shot,4,-42,13,True
+Michael Beasley,1,0,15,1,Layup Shot,1,13,13,True
+Michael Beasley,3,1,20,1,Layup Shot,1,-1,12,True
+Michael Beasley,3,5,0,1,Layup Shot,1,10,7,True
+Michael Beasley,2,7,38,1,Layup Shot,1,-2,17,True
+Michael Beasley,4,11,18,1,Layup Shot,5,-13,57,True
+Michael Beasley,1,4,22,0,Layup Shot,4,13,38,True
+Michael Beasley,4,11,29,1,Layup Shot,1,14,10,True
+Michael Beasley,2,9,54,0,Layup Shot,4,-10,47,True
+Michael Beasley,3,1,49,1,Layup Shot,1,-6,15,True
+Michael Beasley,1,2,5,0,Layup Shot,3,9,29,True
+Michael Beasley,2,1,33,1,Layup Shot,1,5,15,True
+Michael Beasley,4,6,48,1,Layup Shot,0,-3,5,True
+Michael Beasley,1,3,11,0,Layup Shot,6,3,63,True
+Michael Beasley,1,0,17,1,Layup Shot,1,-4,13,True
+Michael Beasley,2,6,53,0,Layup Shot,3,22,21,True
+Michael Beasley,1,6,11,0,Layup Shot,1,3,16,True
+Michael Beasley,2,1,16,0,Layup Shot,2,8,22,True
+Michael Beasley,4,4,39,0,Layup Shot,3,18,30,True
+Michael Beasley,2,3,6,1,Layup Shot,2,5,26,True
+Michael Beasley,4,1,48,0,Layup Shot,5,-3,55,True
+Michael Beasley,1,8,4,1,Layup Shot,1,5,15,True
+Michael Beasley,3,3,26,1,Layup Shot,1,9,13,True
+Michael Beasley,3,5,7,1,Layup Shot,1,12,15,True
+Michael Beasley,4,2,34,1,Layup Shot,0,1,4,True
+Michael Beasley,4,9,57,0,Layup Shot,2,-20,6,True
+Michael Beasley,3,3,46,0,Layup Shot,6,50,36,True
+Michael Beasley,3,8,15,0,Layup Shot,1,-6,8,True
+Michael Beasley,2,8,36,1,Layup Shot,1,-11,13,True
+Michael Beasley,6,3,43,0,Layup Shot,1,7,13,True
+Michael Beasley,4,10,8,1,Layup Shot,1,-6,13,True
+Michael Beasley,2,11,35,1,Layup Shot,2,-8,21,True
+Michael Beasley,3,6,13,0,Layup Shot,1,15,6,True
+Michael Beasley,2,11,29,0,Layup Shot,4,5,47,True
+Michael Beasley,2,11,16,0,Layup Shot,8,-38,79,True
+Michael Beasley,2,1,21,1,Layup Shot,1,-16,8,True
+Michael Beasley,4,8,6,1,Layup Shot,0,6,5,True
+Michael Beasley,3,9,6,1,Layup Shot,3,-29,15,True
+Michael Beasley,4,5,28,0,Layup Shot,4,-8,44,True
+Michael Beasley,1,10,20,1,Layup Shot,0,-5,-5,True
+Michael Beasley,1,9,56,0,Layup Shot,5,22,55,True
+Michael Beasley,1,7,6,0,Pullup Jump shot,15,-68,138,True
+Michael Beasley,1,4,21,1,Pullup Jump shot,18,143,125,True
+Michael Beasley,1,2,53,0,Pullup Jump shot,15,-147,46,True
+Michael Beasley,2,8,3,0,Pullup Jump shot,17,168,61,True
+Michael Beasley,2,11,15,0,Pullup Jump shot,20,150,141,True
+Michael Beasley,4,4,46,1,Pullup Jump shot,17,100,147,True
+Michael Beasley,4,1,6,1,Pullup Jump shot,12,-89,81,True
+Michael Beasley,3,11,40,0,Pullup Jump shot,23,49,227,True
+Michael Beasley,3,9,40,0,Pullup Jump shot,12,87,89,True
+Michael Beasley,2,2,32,0,Pullup Jump shot,22,35,220,True
+Michael Beasley,1,1,28,1,Pullup Jump shot,10,-57,84,True
+Michael Beasley,3,3,54,1,Pullup Jump shot,13,2,134,True
+Michael Beasley,3,3,9,1,Pullup Jump shot,16,-94,133,True
+Michael Beasley,2,9,17,1,Pullup Jump shot,12,-52,116,True
+Michael Beasley,2,1,11,0,Pullup Jump shot,19,176,84,True
+Michael Beasley,2,2,31,1,Pullup Jump shot,14,130,62,True
+Michael Beasley,1,9,53,1,Pullup Jump shot,6,-57,39,True
+Michael Beasley,1,8,19,0,Pullup Jump shot,19,190,-6,True
+Michael Beasley,1,8,43,0,Pullup Jump shot,14,140,7,True
+Michael Beasley,2,5,41,1,Pullup Jump shot,16,165,37,True
+Michael Beasley,2,6,55,0,Pullup Jump shot,15,154,13,True
+Michael Beasley,2,0,11,0,Pullup Jump shot,16,-143,80,True
+Michael Beasley,4,1,18,1,Pullup Jump shot,12,-46,118,True
+Michael Beasley,2,7,9,0,Pullup Jump shot,26,111,236,False
+Michael Beasley,1,4,12,1,Pullup Jump shot,8,-32,79,True
+Michael Beasley,1,9,39,1,Pullup Jump shot,15,157,16,True
+Michael Beasley,3,2,18,0,Pullup Jump shot,7,-74,29,True
+Michael Beasley,1,2,46,0,Pullup Jump shot,10,45,100,True
+Michael Beasley,2,8,22,1,Pullup Jump shot,22,-109,196,True
+Michael Beasley,4,11,47,1,Pullup Jump shot,13,42,125,True
+Michael Beasley,3,4,26,0,Pullup Jump shot,18,123,134,True
+Michael Beasley,4,11,44,0,Pullup Jump shot,17,-164,63,True
+Michael Beasley,4,8,27,1,Pullup Jump shot,9,-55,74,True
+Michael Beasley,1,0,55,1,Pullup Jump shot,14,77,125,True
+Michael Beasley,1,2,9,0,Pullup Jump shot,8,55,68,True
+Michael Beasley,1,5,2,0,Pullup Jump shot,11,88,67,True
+Michael Beasley,4,7,41,1,Putback Dunk Shot,0,0,-6,True
+Michael Beasley,4,3,21,1,Putback Dunk Shot,0,0,-6,True
+Michael Beasley,3,4,4,1,Putback Layup Shot,0,0,-6,True
+Michael Beasley,2,5,46,1,Putback Layup Shot,0,0,-6,True
+Michael Beasley,1,3,6,0,Putback Layup Shot,0,0,-6,True
+Michael Beasley,1,11,3,0,Reverse Layup Shot,1,-14,10,True
+Michael Beasley,4,9,14,1,Reverse Layup Shot,1,-16,6,True
+Michael Beasley,4,8,59,1,Reverse Layup Shot,0,-9,4,True
+Michael Beasley,2,8,43,0,Reverse Layup Shot,0,-6,5,True
+Michael Beasley,2,2,31,1,Reverse Layup Shot,1,0,10,True
+Michael Beasley,2,3,42,1,Reverse Layup Shot,0,-7,0,True
+Michael Beasley,3,3,33,1,Running Alley Oop Layup Shot,1,-7,10,True
+Michael Beasley,2,7,31,1,Running Dunk Shot,1,2,13,True
+Michael Beasley,3,9,27,0,Running Dunk Shot,1,7,11,True
+Michael Beasley,2,3,29,1,Running Finger Roll Layup Shot,1,-2,13,True
+Michael Beasley,3,0,0,0,Running Jump Shot,33,166,291,False
+Michael Beasley,1,7,16,1,Running Jump Shot,8,-27,79,True
+Michael Beasley,4,1,47,1,Running Jump Shot,8,45,68,True
+Michael Beasley,3,2,49,0,Running Layup Shot,7,38,67,True
+Michael Beasley,4,8,26,1,Running Layup Shot,0,1,9,True
+Michael Beasley,4,5,30,1,Running Layup Shot,1,13,5,True
+Michael Beasley,3,2,16,1,Running Layup Shot,2,-16,18,True
+Michael Beasley,2,7,41,0,Running Layup Shot,1,18,6,True
+Michael Beasley,1,1,54,1,Running Pull-Up Jump Shot,25,-24,258,False
+Michael Beasley,2,5,19,1,Running Reverse Layup Shot,2,17,16,True
+Michael Beasley,2,10,47,1,Running Reverse Layup Shot,0,-5,1,True
+Michael Beasley,4,1,0,1,Step Back Jump shot,15,151,7,True
+Michael Beasley,4,5,51,1,Step Back Jump shot,14,147,-10,True
+Michael Beasley,4,1,47,0,Step Back Jump shot,8,75,31,True
+Michael Beasley,3,10,13,0,Step Back Jump shot,14,149,-14,True
+Michael Beasley,2,8,7,0,Step Back Jump shot,18,180,32,True
+Michael Beasley,2,11,4,1,Step Back Jump shot,18,132,131,True
+Michael Beasley,2,4,7,1,Step Back Jump shot,9,34,85,True
+Michael Beasley,4,11,13,0,Step Back Jump shot,7,73,6,True
+Michael Beasley,4,9,41,0,Step Back Jump shot,15,94,119,True
+Michael Beasley,3,2,7,0,Step Back Jump shot,15,144,45,True
+Michael Beasley,2,10,2,1,Step Back Jump shot,15,112,102,True
+Michael Beasley,4,4,34,1,Step Back Jump shot,18,172,62,True
+Michael Beasley,2,7,45,0,Step Back Jump shot,23,237,36,False
+Michael Beasley,4,0,51,0,Step Back Jump shot,14,134,44,True
+Michael Beasley,4,0,17,0,Step Back Jump shot,17,94,146,True
+Michael Beasley,2,9,59,0,Step Back Jump shot,9,95,24,True
+Michael Beasley,1,6,51,1,Tip Dunk Shot,0,0,-6,True
+Michael Beasley,1,6,8,1,Tip Layup Shot,0,0,-6,True
+Michael Beasley,2,11,3,0,Tip Layup Shot,0,0,-6,True
+Michael Beasley,2,9,37,1,Tip Layup Shot,0,0,-6,True
+Michael Beasley,4,5,31,0,Tip Layup Shot,0,0,-6,True
+Michael Beasley,4,1,47,1,Tip Layup Shot,0,0,-6,True
+Michael Beasley,4,0,20,0,Tip Layup Shot,0,0,-6,True
+Michael Beasley,1,0,46,1,Tip Layup Shot,0,0,-6,True
+Michael Beasley,6,3,41,0,Tip Layup Shot,0,0,-6,True
+Michael Beasley,4,3,22,1,Tip Layup Shot,0,0,-6,True
+Michael Beasley,4,6,23,1,Tip Layup Shot,0,0,-6,True
+Michael Beasley,4,7,44,0,Tip Layup Shot,0,0,-6,True
+Michael Beasley,4,10,28,0,Tip Layup Shot,1,1,11,True
+Michael Beasley,2,10,18,1,Tip Layup Shot,0,2,4,True
+Michael Beasley,3,1,40,1,Tip Layup Shot,0,0,-6,True
+Michael Beasley,4,4,32,0,Tip Layup Shot,4,-2,41,True
+Michael Beasley,2,8,35,1,Tip Layup Shot,0,0,-6,True
+Michael Beasley,1,8,43,0,Tip Layup Shot,0,0,-6,True
+Michael Beasley,3,1,6,0,Tip Layup Shot,0,0,-6,True
+Michael Beasley,4,5,4,1,Tip Layup Shot,0,0,-6,True
+Michael Beasley,4,6,12,1,Tip Layup Shot,0,0,-6,True
+Michael Beasley,5,2,33,1,Tip Layup Shot,0,0,-6,True
+Michael Beasley,2,11,2,0,Tip Layup Shot,0,0,-6,True
+Michael Beasley,4,9,25,0,Tip Layup Shot,0,0,-6,True
+Michael Beasley,3,10,32,1,Tip Layup Shot,0,0,-6,True
+Michael Beasley,2,6,30,0,Turnaround Fadeaway Bank Jump Shot,9,-83,52,True
+Michael Beasley,4,8,57,0,Turnaround Fadeaway Bank Jump Shot,4,40,22,True
+Michael Beasley,4,7,53,1,Turnaround Fadeaway Bank Jump Shot,3,19,32,True
+Michael Beasley,4,8,49,1,Turnaround Fadeaway shot,10,101,8,True
+Michael Beasley,2,10,42,1,Turnaround Fadeaway shot,9,92,0,True
+Michael Beasley,3,9,50,0,Turnaround Fadeaway shot,14,140,10,True
+Michael Beasley,1,0,6,1,Turnaround Fadeaway shot,13,66,115,True
+Michael Beasley,3,7,26,0,Turnaround Fadeaway shot,8,85,25,True
+Michael Beasley,2,1,32,1,Turnaround Fadeaway shot,9,79,46,True
+Michael Beasley,3,0,46,1,Turnaround Fadeaway shot,12,127,17,True
+Michael Beasley,3,9,57,0,Turnaround Fadeaway shot,10,96,53,True
+Michael Beasley,2,7,35,1,Turnaround Fadeaway shot,16,-98,134,True
+Michael Beasley,1,2,35,0,Turnaround Fadeaway shot,7,71,12,True
+Michael Beasley,4,6,46,0,Turnaround Fadeaway shot,6,30,58,True
+Michael Beasley,2,6,52,0,Turnaround Fadeaway shot,17,-155,88,True
+Michael Beasley,4,11,5,0,Turnaround Fadeaway shot,4,-41,12,True
+Michael Beasley,3,11,50,0,Turnaround Hook Shot,6,67,4,True
+Michael Beasley,1,4,11,0,Turnaround Hook Shot,3,-29,20,True
+Michael Beasley,1,8,47,1,Turnaround Jump Shot,14,107,99,True
+Michael Beasley,2,7,8,1,Turnaround Jump Shot,7,76,10,True
+Michael Beasley,2,9,45,1,Turnaround Jump Shot,7,62,47,True
+Michael Beasley,1,4,41,1,Turnaround Jump Shot,4,-13,47,True
+Michael Beasley,1,9,44,0,Turnaround Jump Shot,6,-19,63,True
+Michael Beasley,2,4,26,0,Turnaround Jump Shot,10,105,20,True
+Michael Beasley,4,10,19,0,Turnaround Jump Shot,11,3,118,True
+Michael Beasley,4,9,51,0,Turnaround Jump Shot,11,100,65,True
+Michael Beasley,2,8,8,1,Turnaround Jump Shot,5,52,15,True
+Michael Beasley,2,8,45,0,Turnaround Jump Shot,12,-54,112,True
+Michael Beasley,3,4,55,1,Turnaround Jump Shot,10,-100,11,True
+Michael Beasley,3,6,36,0,Turnaround Jump Shot,14,109,88,True
+Michael Beasley,1,9,21,1,Turnaround Jump Shot,14,-79,116,True
+Michael Beasley,2,8,8,0,Turnaround Jump Shot,10,48,91,True
+Michael Beasley,2,5,56,0,Turnaround Jump Shot,11,43,108,True
+Michael Beasley,4,1,27,0,Turnaround Jump Shot,6,-64,1,True
+Michael Beasley,1,11,29,1,Turnaround Jump Shot,4,-46,19,True
+Michael Beasley,4,9,24,0,Turnaround Jump Shot,7,-71,34,True
+Michael Beasley,1,10,5,1,Turnaround Jump Shot,9,89,31,True
+Michael Beasley,4,10,44,1,Turnaround Jump Shot,11,92,61,True
+Michael Beasley,3,1,32,1,Turnaround Jump Shot,8,80,26,True
+Michael Beasley,1,8,57,0,Turnaround Jump Shot,14,136,53,True
+Michael Beasley,4,6,31,1,Turnaround Jump Shot,7,-16,75,True
+Michael Beasley,3,9,5,0,Turnaround Jump Shot,9,87,31,True
+Michael Beasley,3,6,15,0,Turnaround Jump Shot,9,93,3,True
+Michael Beasley,2,11,32,1,Turnaround Jump Shot,11,-35,109,True
+Michael Beasley,4,3,4,0,Turnaround Jump Shot,18,20,183,True
+Michael Beasley,1,8,21,1,Turnaround Jump Shot,6,21,64,True
+Michael Beasley,4,5,57,0,Turnaround Jump Shot,8,-52,66,True
+Michael Beasley,1,11,32,0,Turnaround Jump Shot,7,68,18,True
+Michael Beasley,2,8,43,0,Turnaround Jump Shot,7,69,18,True
+Michael Beasley,2,11,2,0,Turnaround Jump Shot,9,90,25,True
+Michael Beasley,1,9,45,1,Turnaround Jump Shot,13,133,11,True
+Michael Beasley,3,0,23,0,Turnaround Jump Shot,10,81,63,True
+Michael Beasley,4,2,50,1,Turnaround Jump Shot,16,-127,113,True
+Michael Beasley,3,10,26,0,Turnaround Jump Shot,15,-154,-15,True
+Michael Beasley,4,9,23,0,Turnaround Jump Shot,12,55,110,True
+Michael Beasley,3,1,8,0,Turnaround Jump Shot,7,-22,70,True
+Michael Beasley,2,7,35,1,Turnaround Jump Shot,6,-50,41,True
+Michael Beasley,4,1,23,0,Turnaround Jump Shot,12,123,13,True
+Michael Beasley,1,10,50,1,Turnaround Jump Shot,6,-24,60,True

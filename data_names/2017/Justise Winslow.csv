@@ -1,0 +1,428 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Justise Winslow,2,6,56,1,Cutting Dunk Shot,1,9,5,True
+Justise Winslow,2,10,21,1,Cutting Dunk Shot,2,-6,20,True
+Justise Winslow,2,9,34,1,Cutting Dunk Shot,0,-5,1,True
+Justise Winslow,2,4,21,1,Cutting Dunk Shot,0,-5,8,True
+Justise Winslow,4,7,9,1,Cutting Dunk Shot,4,-22,38,True
+Justise Winslow,2,7,57,1,Cutting Finger Roll Layup Shot,4,11,43,True
+Justise Winslow,3,1,49,1,Cutting Layup Shot,3,30,6,True
+Justise Winslow,2,10,37,1,Cutting Layup Shot,1,-13,11,True
+Justise Winslow,1,3,12,1,Cutting Layup Shot,0,3,9,True
+Justise Winslow,2,10,32,1,Cutting Layup Shot,1,-17,-1,True
+Justise Winslow,4,11,0,1,Cutting Layup Shot,3,-19,34,True
+Justise Winslow,2,9,20,0,Cutting Layup Shot,0,8,4,True
+Justise Winslow,4,2,34,0,Cutting Layup Shot,1,1,13,True
+Justise Winslow,4,5,24,1,Cutting Layup Shot,1,-13,-1,True
+Justise Winslow,1,1,8,0,Cutting Layup Shot,0,-2,6,True
+Justise Winslow,2,10,38,0,Cutting Layup Shot,1,-5,10,True
+Justise Winslow,2,5,54,1,Cutting Layup Shot,1,-8,10,True
+Justise Winslow,2,6,12,1,Cutting Layup Shot,2,-13,16,True
+Justise Winslow,2,10,41,1,Cutting Layup Shot,1,11,12,True
+Justise Winslow,4,6,58,0,Cutting Layup Shot,1,13,6,True
+Justise Winslow,4,10,47,1,Driving Dunk Shot,1,7,13,True
+Justise Winslow,4,2,46,0,Driving Dunk Shot,1,-6,13,True
+Justise Winslow,4,0,16,1,Driving Dunk Shot,0,-3,5,True
+Justise Winslow,2,7,26,1,Driving Dunk Shot,1,3,10,True
+Justise Winslow,3,11,19,0,Driving Finger Roll Layup Shot,4,36,20,True
+Justise Winslow,2,5,1,0,Driving Finger Roll Layup Shot,1,12,-2,True
+Justise Winslow,3,9,18,1,Driving Finger Roll Layup Shot,1,-8,12,True
+Justise Winslow,4,6,35,1,Driving Finger Roll Layup Shot,2,-17,12,True
+Justise Winslow,3,1,5,1,Driving Finger Roll Layup Shot,1,-2,13,True
+Justise Winslow,4,6,6,0,Driving Floating Bank Jump Shot,3,27,18,True
+Justise Winslow,4,8,18,1,Driving Floating Bank Jump Shot,1,-8,11,True
+Justise Winslow,4,10,51,1,Driving Floating Bank Jump Shot,4,33,30,True
+Justise Winslow,3,7,38,0,Driving Floating Bank Jump Shot,6,-55,37,True
+Justise Winslow,2,9,45,0,Driving Floating Bank Jump Shot,5,-30,48,True
+Justise Winslow,2,6,50,0,Driving Floating Bank Jump Shot,14,-100,100,True
+Justise Winslow,3,10,31,1,Driving Floating Bank Jump Shot,9,89,41,True
+Justise Winslow,4,3,36,1,Driving Floating Bank Jump Shot,5,38,37,True
+Justise Winslow,3,4,11,1,Driving Floating Bank Jump Shot,4,-41,28,True
+Justise Winslow,4,6,53,0,Driving Floating Jump Shot,9,-26,93,True
+Justise Winslow,1,4,32,0,Driving Floating Jump Shot,9,-11,99,True
+Justise Winslow,3,2,26,1,Driving Floating Jump Shot,9,13,95,True
+Justise Winslow,2,4,8,1,Driving Floating Jump Shot,3,-8,37,True
+Justise Winslow,3,4,26,1,Driving Floating Jump Shot,9,20,93,True
+Justise Winslow,2,9,11,0,Driving Floating Jump Shot,7,-21,71,True
+Justise Winslow,3,8,14,1,Driving Floating Jump Shot,8,4,86,True
+Justise Winslow,1,0,22,1,Driving Floating Jump Shot,5,5,55,True
+Justise Winslow,3,8,47,1,Driving Hook Shot,8,-46,70,True
+Justise Winslow,3,10,17,0,Driving Hook Shot,2,-19,15,True
+Justise Winslow,3,10,52,0,Driving Hook Shot,8,-52,63,True
+Justise Winslow,4,5,23,0,Driving Layup Shot,5,-48,34,True
+Justise Winslow,1,1,26,1,Driving Layup Shot,1,-18,0,True
+Justise Winslow,3,0,49,1,Driving Layup Shot,1,-11,13,True
+Justise Winslow,4,7,20,1,Driving Layup Shot,3,25,22,True
+Justise Winslow,1,11,44,1,Driving Layup Shot,0,0,6,True
+Justise Winslow,4,2,54,0,Driving Layup Shot,2,-24,2,True
+Justise Winslow,4,7,18,0,Driving Layup Shot,1,16,4,True
+Justise Winslow,2,9,59,1,Driving Layup Shot,2,-20,10,True
+Justise Winslow,3,0,33,1,Driving Layup Shot,1,-3,14,True
+Justise Winslow,1,0,35,1,Driving Layup Shot,3,-17,33,True
+Justise Winslow,1,1,26,1,Driving Layup Shot,0,-8,4,True
+Justise Winslow,1,3,6,0,Driving Layup Shot,4,-25,36,True
+Justise Winslow,2,5,46,0,Driving Layup Shot,0,-6,7,True
+Justise Winslow,2,2,25,1,Driving Layup Shot,0,-2,4,True
+Justise Winslow,2,10,53,0,Driving Layup Shot,3,13,31,True
+Justise Winslow,5,3,30,0,Driving Layup Shot,1,-11,6,True
+Justise Winslow,3,2,52,0,Driving Layup Shot,2,-23,12,True
+Justise Winslow,4,3,33,1,Driving Layup Shot,2,-23,2,True
+Justise Winslow,4,5,45,0,Driving Layup Shot,0,3,5,True
+Justise Winslow,1,6,29,0,Driving Layup Shot,5,-5,59,True
+Justise Winslow,1,10,52,0,Driving Layup Shot,2,0,20,True
+Justise Winslow,3,7,54,0,Driving Layup Shot,0,9,3,True
+Justise Winslow,3,7,28,0,Driving Layup Shot,2,-22,2,True
+Justise Winslow,1,10,20,0,Driving Layup Shot,1,-11,13,True
+Justise Winslow,1,0,50,0,Driving Layup Shot,1,-17,8,True
+Justise Winslow,4,0,48,0,Driving Layup Shot,1,-1,16,True
+Justise Winslow,1,0,38,1,Driving Layup Shot,1,16,6,True
+Justise Winslow,2,11,39,1,Driving Layup Shot,1,-15,10,True
+Justise Winslow,1,10,17,1,Driving Layup Shot,1,-14,10,True
+Justise Winslow,1,8,8,1,Driving Layup Shot,1,18,6,True
+Justise Winslow,1,11,31,0,Driving Layup Shot,1,-3,15,True
+Justise Winslow,3,11,51,0,Driving Layup Shot,2,18,13,True
+Justise Winslow,3,10,25,0,Driving Layup Shot,1,14,12,True
+Justise Winslow,2,6,56,0,Driving Layup Shot,1,-6,14,True
+Justise Winslow,3,9,51,0,Driving Layup Shot,0,-1,-6,True
+Justise Winslow,1,5,37,1,Driving Layup Shot,2,-17,11,True
+Justise Winslow,3,2,0,0,Driving Layup Shot,5,-32,43,True
+Justise Winslow,2,10,23,1,Driving Layup Shot,3,-21,29,True
+Justise Winslow,4,5,52,0,Driving Layup Shot,5,-25,45,True
+Justise Winslow,1,1,25,0,Driving Layup Shot,1,-1,17,True
+Justise Winslow,2,11,40,0,Driving Layup Shot,3,-8,36,True
+Justise Winslow,4,9,40,0,Driving Layup Shot,3,-26,20,True
+Justise Winslow,2,11,18,1,Driving Layup Shot,0,-5,8,True
+Justise Winslow,1,0,23,1,Driving Layup Shot,1,9,5,True
+Justise Winslow,4,10,56,1,Driving Layup Shot,1,15,6,True
+Justise Winslow,3,2,11,1,Driving Layup Shot,1,-3,10,True
+Justise Winslow,4,0,29,0,Driving Layup Shot,2,13,20,True
+Justise Winslow,1,3,24,0,Driving Layup Shot,2,-11,17,True
+Justise Winslow,3,4,28,1,Driving Layup Shot,4,-46,5,True
+Justise Winslow,3,1,52,1,Driving Layup Shot,1,9,11,True
+Justise Winslow,4,7,10,0,Driving Layup Shot,0,3,2,True
+Justise Winslow,3,3,13,0,Driving Layup Shot,0,6,4,True
+Justise Winslow,3,2,3,0,Driving Layup Shot,7,-61,49,True
+Justise Winslow,1,3,22,0,Driving Layup Shot,1,-14,14,True
+Justise Winslow,4,9,18,1,Driving Layup Shot,2,25,6,True
+Justise Winslow,4,4,50,0,Driving Layup Shot,1,10,7,True
+Justise Winslow,1,1,55,1,Driving Layup Shot,3,-4,36,True
+Justise Winslow,2,10,55,0,Driving Layup Shot,0,-9,0,True
+Justise Winslow,4,9,48,1,Driving Layup Shot,0,0,5,True
+Justise Winslow,2,5,14,0,Driving Layup Shot,1,13,15,True
+Justise Winslow,4,7,36,1,Driving Layup Shot,1,-5,13,True
+Justise Winslow,3,5,18,1,Driving Layup Shot,1,-17,6,True
+Justise Winslow,2,10,5,1,Driving Layup Shot,2,-24,13,True
+Justise Winslow,4,4,46,0,Driving Layup Shot,2,-10,20,True
+Justise Winslow,1,1,31,1,Driving Layup Shot,1,-14,11,True
+Justise Winslow,2,3,10,0,Driving Layup Shot,3,17,30,True
+Justise Winslow,4,3,40,0,Driving Layup Shot,1,14,14,True
+Justise Winslow,4,8,44,1,Driving Layup Shot,1,3,11,True
+Justise Winslow,4,7,5,0,Driving Reverse Layup Shot,1,9,-5,True
+Justise Winslow,1,9,35,0,Driving Reverse Layup Shot,2,-26,-1,True
+Justise Winslow,2,5,19,1,Driving Reverse Layup Shot,1,6,11,True
+Justise Winslow,3,6,30,0,Dunk Shot,2,-6,27,True
+Justise Winslow,3,11,38,1,Dunk Shot,1,-3,13,True
+Justise Winslow,2,11,23,1,Dunk Shot,0,1,9,True
+Justise Winslow,3,8,4,0,Dunk Shot,1,-3,18,True
+Justise Winslow,1,6,48,0,Fadeaway Jump Shot,14,133,47,True
+Justise Winslow,1,10,13,0,Fadeaway Jump Shot,8,32,77,True
+Justise Winslow,4,11,15,0,Fadeaway Jump Shot,14,-69,130,True
+Justise Winslow,1,8,17,0,Fadeaway Jump Shot,10,7,105,True
+Justise Winslow,3,9,4,0,Fadeaway Jump Shot,9,43,87,True
+Justise Winslow,3,7,14,0,Fadeaway Jump Shot,12,-95,75,True
+Justise Winslow,1,1,20,1,Fadeaway Jump Shot,11,112,5,True
+Justise Winslow,1,7,0,1,Finger Roll Layup Shot,1,17,6,True
+Justise Winslow,2,5,42,0,Floating Jump shot,2,11,25,True
+Justise Winslow,4,0,25,1,Floating Jump shot,1,10,6,True
+Justise Winslow,2,6,6,1,Floating Jump shot,7,-2,75,True
+Justise Winslow,4,0,46,1,Floating Jump shot,9,-6,92,True
+Justise Winslow,4,1,40,0,Floating Jump shot,6,-6,64,True
+Justise Winslow,2,8,1,0,Floating Jump shot,8,82,4,True
+Justise Winslow,3,4,44,0,Floating Jump shot,9,-28,92,True
+Justise Winslow,3,3,26,1,Floating Jump shot,14,-100,105,True
+Justise Winslow,1,6,4,1,Floating Jump shot,4,-4,43,True
+Justise Winslow,1,3,39,1,Floating Jump shot,1,0,19,True
+Justise Winslow,1,10,42,0,Floating Jump shot,8,1,83,True
+Justise Winslow,4,8,58,0,Floating Jump shot,6,-16,67,True
+Justise Winslow,1,10,31,1,Floating Jump shot,9,-28,95,True
+Justise Winslow,3,11,13,1,Floating Jump shot,2,2,26,True
+Justise Winslow,3,7,56,0,Floating Jump shot,5,-23,55,True
+Justise Winslow,3,6,8,0,Floating Jump shot,10,-58,86,True
+Justise Winslow,4,5,29,0,Hook Shot,7,9,72,True
+Justise Winslow,4,1,14,0,Hook Shot,5,-30,50,True
+Justise Winslow,4,7,58,1,Hook Shot,5,13,49,True
+Justise Winslow,2,4,12,0,Hook Shot,5,-51,31,True
+Justise Winslow,1,7,37,0,Hook Shot,7,1,75,True
+Justise Winslow,1,1,56,0,Jump Bank Shot,3,18,35,True
+Justise Winslow,2,10,7,0,Jump Bank Shot,6,44,47,True
+Justise Winslow,3,6,31,0,Jump Bank Shot,4,-29,33,True
+Justise Winslow,3,2,16,1,Jump Bank Shot,4,27,34,True
+Justise Winslow,3,1,20,0,Jump Bank Shot,16,-138,81,True
+Justise Winslow,1,1,32,1,Jump Bank Shot,8,-86,-4,True
+Justise Winslow,4,8,27,1,Jump Bank Shot,7,-63,41,True
+Justise Winslow,4,2,22,0,Jump Bank Shot,2,16,17,True
+Justise Winslow,2,8,32,1,Jump Shot,23,233,-17,False
+Justise Winslow,4,9,15,0,Jump Shot,23,230,-4,False
+Justise Winslow,2,2,57,0,Jump Shot,22,229,-8,False
+Justise Winslow,3,3,51,0,Jump Shot,25,141,217,False
+Justise Winslow,1,0,0,0,Jump Shot,68,73,683,False
+Justise Winslow,2,10,14,0,Jump Shot,5,-32,46,True
+Justise Winslow,4,8,58,0,Jump Shot,27,-116,246,False
+Justise Winslow,1,5,11,1,Jump Shot,20,-194,67,True
+Justise Winslow,2,9,28,0,Jump Shot,24,-150,199,False
+Justise Winslow,3,5,29,0,Jump Shot,24,153,190,False
+Justise Winslow,3,3,46,0,Jump Shot,22,-223,45,False
+Justise Winslow,3,5,22,1,Jump Shot,24,186,158,False
+Justise Winslow,2,9,53,0,Jump Shot,22,228,0,False
+Justise Winslow,1,2,35,0,Jump Shot,22,226,-14,False
+Justise Winslow,1,0,24,0,Jump Shot,25,-199,165,False
+Justise Winslow,2,9,51,1,Jump Shot,23,234,32,False
+Justise Winslow,3,1,50,0,Jump Shot,25,174,180,False
+Justise Winslow,4,0,9,0,Jump Shot,23,-229,70,False
+Justise Winslow,2,7,53,0,Jump Shot,9,-89,31,True
+Justise Winslow,4,1,45,1,Jump Shot,23,230,11,False
+Justise Winslow,2,9,24,0,Jump Shot,24,234,57,False
+Justise Winslow,2,7,59,0,Jump Shot,22,-228,9,False
+Justise Winslow,3,1,32,0,Jump Shot,20,-160,131,True
+Justise Winslow,2,6,13,0,Jump Shot,26,-226,141,False
+Justise Winslow,2,7,24,1,Jump Shot,24,-214,121,False
+Justise Winslow,3,4,12,0,Jump Shot,23,-231,-8,False
+Justise Winslow,1,1,31,1,Jump Shot,25,-36,254,False
+Justise Winslow,4,9,30,0,Jump Shot,22,-227,-6,False
+Justise Winslow,1,4,48,1,Jump Shot,23,-230,-5,False
+Justise Winslow,4,9,2,0,Jump Shot,25,131,214,False
+Justise Winslow,4,2,13,0,Jump Shot,26,-155,209,False
+Justise Winslow,1,0,0,0,Jump Shot,25,152,200,False
+Justise Winslow,4,8,33,1,Jump Shot,23,-230,29,False
+Justise Winslow,1,3,29,0,Jump Shot,23,232,-18,False
+Justise Winslow,4,10,18,1,Jump Shot,17,-95,143,True
+Justise Winslow,4,6,35,0,Jump Shot,13,135,12,True
+Justise Winslow,2,9,48,0,Jump Shot,22,227,32,False
+Justise Winslow,1,1,53,0,Jump Shot,14,-136,52,True
+Justise Winslow,4,7,43,0,Jump Shot,26,-105,241,False
+Justise Winslow,1,0,26,0,Jump Shot,23,-229,50,False
+Justise Winslow,1,4,40,0,Jump Shot,24,125,210,False
+Justise Winslow,2,8,57,1,Jump Shot,24,31,241,False
+Justise Winslow,2,4,52,0,Jump Shot,21,-112,180,True
+Justise Winslow,1,4,22,0,Jump Shot,12,114,39,True
+Justise Winslow,1,0,42,0,Jump Shot,23,-230,3,False
+Justise Winslow,2,4,17,0,Jump Shot,26,165,204,False
+Justise Winslow,1,0,14,0,Jump Shot,8,84,-12,True
+Justise Winslow,2,5,28,1,Jump Shot,24,-210,132,False
+Justise Winslow,3,8,22,1,Jump Shot,25,180,178,False
+Justise Winslow,2,4,17,1,Jump Shot,24,236,51,False
+Justise Winslow,2,4,40,1,Jump Shot,23,229,37,False
+Justise Winslow,4,3,42,0,Jump Shot,24,228,79,False
+Justise Winslow,3,6,43,0,Jump Shot,22,-229,12,False
+Justise Winslow,2,1,34,1,Jump Shot,22,224,19,False
+Justise Winslow,3,6,38,0,Jump Shot,24,-147,202,False
+Justise Winslow,3,6,9,0,Jump Shot,19,-126,152,True
+Justise Winslow,1,5,26,1,Jump Shot,24,236,52,False
+Justise Winslow,3,7,8,1,Jump Shot,25,-229,116,False
+Justise Winslow,4,3,35,0,Jump Shot,23,230,55,False
+Justise Winslow,3,6,29,0,Jump Shot,23,226,67,False
+Justise Winslow,1,6,15,1,Jump Shot,22,229,14,False
+Justise Winslow,3,7,37,1,Jump Shot,24,176,173,False
+Justise Winslow,4,6,17,0,Jump Shot,24,-209,132,False
+Justise Winslow,2,5,3,0,Jump Shot,26,228,131,False
+Justise Winslow,1,8,23,0,Jump Shot,21,-19,213,True
+Justise Winslow,2,2,29,0,Jump Shot,22,229,13,False
+Justise Winslow,3,0,0,0,Jump Shot,26,23,267,False
+Justise Winslow,4,6,56,0,Jump Shot,24,152,193,False
+Justise Winslow,2,5,19,0,Jump Shot,22,168,156,True
+Justise Winslow,4,8,22,0,Jump Shot,23,-232,7,False
+Justise Winslow,2,7,15,0,Jump Shot,19,-156,119,True
+Justise Winslow,4,3,10,0,Jump Shot,25,226,109,False
+Justise Winslow,2,4,35,0,Jump Shot,10,44,95,True
+Justise Winslow,3,6,8,0,Jump Shot,24,97,230,False
+Justise Winslow,3,0,0,0,Jump Shot,7,21,70,True
+Justise Winslow,2,5,15,1,Jump Shot,22,-226,22,False
+Justise Winslow,4,6,9,0,Jump Shot,23,-230,48,False
+Justise Winslow,2,9,8,0,Jump Shot,25,-71,246,False
+Justise Winslow,1,1,22,1,Jump Shot,25,188,173,False
+Justise Winslow,1,0,54,1,Jump Shot,24,-231,68,False
+Justise Winslow,1,3,58,0,Jump Shot,17,-9,178,True
+Justise Winslow,1,1,57,0,Jump Shot,5,-13,55,True
+Justise Winslow,1,2,0,0,Jump Shot,22,-106,196,True
+Justise Winslow,1,1,23,0,Jump Shot,22,225,-22,False
+Justise Winslow,2,5,30,1,Jump Shot,22,229,21,False
+Justise Winslow,1,0,6,1,Jump Shot,23,-231,20,False
+Justise Winslow,4,0,19,0,Jump Shot,14,147,-20,True
+Justise Winslow,2,10,28,0,Jump Shot,14,12,145,True
+Justise Winslow,4,3,11,1,Jump Shot,24,-235,50,False
+Justise Winslow,4,8,17,1,Jump Shot,24,-231,70,False
+Justise Winslow,4,6,31,0,Jump Shot,20,200,25,True
+Justise Winslow,2,9,18,0,Jump Shot,23,-232,-3,False
+Justise Winslow,4,8,21,1,Jump Shot,22,229,-15,False
+Justise Winslow,2,11,15,1,Jump Shot,24,-148,193,False
+Justise Winslow,3,4,59,1,Jump Shot,24,126,211,False
+Justise Winslow,1,0,55,1,Jump Shot,22,225,11,False
+Justise Winslow,2,2,20,1,Jump Shot,22,228,-3,False
+Justise Winslow,3,1,12,0,Jump Shot,23,230,10,False
+Justise Winslow,2,0,10,0,Jump Shot,22,208,73,True
+Justise Winslow,2,8,25,1,Jump Shot,25,147,205,False
+Justise Winslow,3,9,27,0,Jump Shot,22,-224,18,False
+Justise Winslow,3,6,41,0,Jump Shot,22,228,23,False
+Justise Winslow,1,10,9,1,Jump Shot,22,226,31,False
+Justise Winslow,1,5,4,0,Jump Shot,23,236,21,False
+Justise Winslow,2,11,20,0,Jump Shot,7,66,27,True
+Justise Winslow,4,7,9,0,Jump Shot,23,225,54,False
+Justise Winslow,2,0,0,0,Jump Shot,43,-74,429,False
+Justise Winslow,1,9,42,0,Jump Shot,22,-228,30,False
+Justise Winslow,2,5,34,0,Jump Shot,5,12,52,True
+Justise Winslow,4,4,5,0,Jump Shot,26,-220,151,False
+Justise Winslow,4,6,26,1,Jump Shot,25,111,228,False
+Justise Winslow,2,1,31,1,Jump Shot,13,87,105,True
+Justise Winslow,3,9,6,0,Jump Shot,7,18,69,True
+Justise Winslow,3,11,12,1,Jump Shot,24,196,155,False
+Justise Winslow,1,5,2,1,Jump Shot,22,223,0,False
+Justise Winslow,1,2,56,0,Jump Shot,24,163,181,False
+Justise Winslow,2,8,40,0,Jump Shot,25,176,187,False
+Justise Winslow,3,8,51,0,Jump Shot,23,227,65,False
+Justise Winslow,2,9,8,0,Jump Shot,24,-230,71,False
+Justise Winslow,3,10,0,1,Jump Shot,23,230,26,False
+Justise Winslow,3,7,44,0,Jump Shot,18,146,121,True
+Justise Winslow,3,8,51,0,Jump Shot,19,-100,164,True
+Justise Winslow,3,8,17,0,Jump Shot,23,-232,34,False
+Justise Winslow,2,7,15,0,Jump Shot,3,-21,26,True
+Justise Winslow,4,7,0,0,Jump Shot,23,232,17,False
+Justise Winslow,2,4,1,1,Jump Shot,24,143,205,False
+Justise Winslow,3,5,40,0,Jump Shot,21,176,129,True
+Justise Winslow,1,6,7,0,Jump Shot,23,234,17,False
+Justise Winslow,1,10,45,0,Jump Shot,23,235,-4,False
+Justise Winslow,2,1,10,1,Jump Shot,25,-135,219,False
+Justise Winslow,2,4,14,0,Jump Shot,26,-141,219,False
+Justise Winslow,3,7,41,0,Jump Shot,24,189,163,False
+Justise Winslow,1,7,55,1,Jump Shot,25,-218,131,False
+Justise Winslow,2,3,10,0,Jump Shot,13,112,75,True
+Justise Winslow,3,3,33,0,Jump Shot,9,-7,91,True
+Justise Winslow,1,9,46,0,Jump Shot,4,-8,49,True
+Justise Winslow,3,7,1,0,Jump Shot,15,-158,11,True
+Justise Winslow,3,4,39,0,Jump Shot,22,-226,22,False
+Justise Winslow,1,2,24,1,Jump Shot,22,-227,-4,False
+Justise Winslow,4,9,52,0,Jump Shot,80,-3,805,False
+Justise Winslow,1,2,15,0,Jump Shot,81,-22,818,False
+Justise Winslow,3,0,0,0,Jump Shot,11,3,113,True
+Justise Winslow,4,11,17,1,Jump Shot,2,12,17,True
+Justise Winslow,3,4,6,1,Jump Shot,19,24,190,True
+Justise Winslow,2,9,14,0,Jump Shot,22,-225,13,False
+Justise Winslow,1,2,59,0,Jump Shot,22,223,15,False
+Justise Winslow,2,10,34,0,Jump Shot,23,-231,42,False
+Justise Winslow,3,2,19,0,Jump Shot,4,3,48,True
+Justise Winslow,4,9,3,0,Jump Shot,23,-232,22,False
+Justise Winslow,4,11,28,0,Jump Shot,17,37,168,True
+Justise Winslow,2,10,10,0,Jump Shot,17,127,117,True
+Justise Winslow,2,3,18,0,Jump Shot,16,13,169,True
+Justise Winslow,3,3,59,0,Layup Shot,3,-28,12,True
+Justise Winslow,3,3,12,0,Layup Shot,2,18,11,True
+Justise Winslow,3,0,44,1,Layup Shot,2,19,10,True
+Justise Winslow,2,7,27,0,Layup Shot,2,7,29,True
+Justise Winslow,1,2,41,1,Layup Shot,1,-14,6,True
+Justise Winslow,3,5,46,1,Layup Shot,3,-34,7,True
+Justise Winslow,3,11,28,0,Layup Shot,2,22,13,True
+Justise Winslow,3,2,2,1,Layup Shot,1,-10,6,True
+Justise Winslow,2,0,27,0,Layup Shot,1,-6,16,True
+Justise Winslow,1,4,30,1,Layup Shot,2,-10,20,True
+Justise Winslow,2,7,58,0,Layup Shot,1,-5,10,True
+Justise Winslow,3,9,48,1,Layup Shot,0,5,6,True
+Justise Winslow,1,9,34,0,Layup Shot,1,6,8,True
+Justise Winslow,3,9,9,1,Layup Shot,1,-13,11,True
+Justise Winslow,1,5,59,1,Layup Shot,3,25,20,True
+Justise Winslow,2,0,3,0,Layup Shot,3,1,32,True
+Justise Winslow,4,9,0,0,Layup Shot,1,-8,6,True
+Justise Winslow,2,7,9,1,Layup Shot,0,-6,-1,True
+Justise Winslow,1,7,27,0,Layup Shot,1,12,5,True
+Justise Winslow,2,7,20,1,Layup Shot,1,-14,8,True
+Justise Winslow,2,4,34,1,Layup Shot,1,3,10,True
+Justise Winslow,4,9,48,1,Layup Shot,1,-11,0,True
+Justise Winslow,3,8,11,0,Layup Shot,3,-20,29,True
+Justise Winslow,4,9,4,1,Layup Shot,0,5,-8,True
+Justise Winslow,3,9,20,1,Layup Shot,2,-22,11,True
+Justise Winslow,2,11,43,1,Layup Shot,4,33,31,True
+Justise Winslow,3,2,23,1,Layup Shot,2,26,10,True
+Justise Winslow,2,10,45,1,Layup Shot,3,19,32,True
+Justise Winslow,4,10,26,1,Layup Shot,2,16,15,True
+Justise Winslow,4,10,51,0,Layup Shot,1,6,17,True
+Justise Winslow,4,4,11,1,Layup Shot,1,-8,11,True
+Justise Winslow,4,6,54,1,Layup Shot,0,-7,0,True
+Justise Winslow,3,5,47,1,Layup Shot,1,11,8,True
+Justise Winslow,3,10,27,0,Layup Shot,7,-12,70,True
+Justise Winslow,2,8,34,1,Layup Shot,2,21,10,True
+Justise Winslow,3,8,26,0,Layup Shot,2,6,20,True
+Justise Winslow,2,10,17,0,Layup Shot,2,5,24,True
+Justise Winslow,1,11,17,0,Layup Shot,3,-22,21,True
+Justise Winslow,2,11,33,1,Layup Shot,1,5,10,True
+Justise Winslow,3,0,4,0,Layup Shot,5,51,20,True
+Justise Winslow,2,4,28,0,Layup Shot,1,13,3,True
+Justise Winslow,2,4,20,0,Layup Shot,3,20,26,True
+Justise Winslow,1,5,54,0,Layup Shot,3,1,34,True
+Justise Winslow,1,4,34,1,Layup Shot,2,-18,10,True
+Justise Winslow,4,9,37,0,Layup Shot,2,-10,22,True
+Justise Winslow,3,4,3,1,Layup Shot,3,29,22,True
+Justise Winslow,2,0,36,0,Layup Shot,2,-18,11,True
+Justise Winslow,3,11,45,0,Pullup Jump shot,14,-75,123,True
+Justise Winslow,1,6,40,0,Pullup Jump shot,21,13,215,True
+Justise Winslow,1,9,13,0,Pullup Jump shot,7,6,73,True
+Justise Winslow,1,1,31,1,Pullup Jump shot,16,-70,144,True
+Justise Winslow,2,7,31,0,Pullup Jump shot,12,-71,101,True
+Justise Winslow,3,3,2,1,Pullup Jump shot,17,78,157,True
+Justise Winslow,2,8,43,0,Pullup Jump shot,15,-74,139,True
+Justise Winslow,1,0,19,1,Pullup Jump shot,13,117,64,True
+Justise Winslow,3,1,51,0,Pullup Jump shot,15,-18,154,True
+Justise Winslow,3,1,45,1,Pullup Jump shot,6,18,65,True
+Justise Winslow,4,11,39,0,Pullup Jump shot,15,-7,157,True
+Justise Winslow,1,2,31,0,Pullup Jump shot,7,-65,38,True
+Justise Winslow,1,1,18,1,Pullup Jump shot,14,2,143,True
+Justise Winslow,2,9,42,1,Pullup Jump shot,6,1,68,True
+Justise Winslow,4,2,10,0,Pullup Jump shot,13,-2,137,True
+Justise Winslow,4,9,45,0,Pullup Jump shot,22,52,220,True
+Justise Winslow,2,7,23,1,Putback Dunk Shot,0,0,-6,True
+Justise Winslow,4,2,6,1,Putback Layup Shot,1,-9,6,True
+Justise Winslow,3,8,21,1,Putback Layup Shot,0,0,-6,True
+Justise Winslow,1,1,24,0,Putback Layup Shot,2,-14,15,True
+Justise Winslow,3,1,41,1,Reverse Layup Shot,1,-13,5,True
+Justise Winslow,2,4,33,0,Reverse Layup Shot,1,6,8,True
+Justise Winslow,4,6,58,0,Reverse Layup Shot,1,8,6,True
+Justise Winslow,3,8,35,0,Reverse Layup Shot,2,22,20,True
+Justise Winslow,4,9,11,0,Reverse Layup Shot,1,-14,10,True
+Justise Winslow,2,6,54,0,Reverse Layup Shot,1,-13,8,True
+Justise Winslow,2,8,27,1,Reverse Layup Shot,1,3,13,True
+Justise Winslow,4,10,2,1,Running Dunk Shot,3,21,34,True
+Justise Winslow,3,7,28,1,Running Dunk Shot,0,-2,5,True
+Justise Winslow,2,0,0,0,Running Jump Shot,44,3,441,False
+Justise Winslow,3,6,34,1,Running Jump Shot,9,-39,91,True
+Justise Winslow,1,6,44,1,Running Layup Shot,5,7,56,True
+Justise Winslow,4,5,2,0,Running Layup Shot,0,7,6,True
+Justise Winslow,2,8,44,1,Running Layup Shot,1,-13,11,True
+Justise Winslow,4,3,5,1,Running Layup Shot,1,-13,8,True
+Justise Winslow,3,10,45,0,Running Layup Shot,1,0,18,True
+Justise Winslow,4,4,38,0,Running Layup Shot,1,-4,11,True
+Justise Winslow,2,9,17,0,Running Layup Shot,2,18,17,True
+Justise Winslow,2,7,5,1,Running Layup Shot,0,5,5,True
+Justise Winslow,2,5,9,1,Running Layup Shot,2,-5,29,True
+Justise Winslow,4,3,20,0,Step Back Jump shot,25,41,249,False
+Justise Winslow,2,4,58,1,Tip Dunk Shot,0,0,-6,True
+Justise Winslow,1,2,14,1,Tip Layup Shot,0,0,-6,True
+Justise Winslow,2,4,15,0,Tip Layup Shot,0,0,-6,True
+Justise Winslow,1,7,1,0,Tip Layup Shot,0,0,-6,True
+Justise Winslow,4,3,38,1,Tip Layup Shot,0,0,-6,True
+Justise Winslow,1,1,19,0,Tip Layup Shot,0,0,-6,True
+Justise Winslow,3,7,15,1,Tip Layup Shot,0,0,-6,True
+Justise Winslow,2,10,46,0,Tip Layup Shot,0,0,-6,True
+Justise Winslow,1,4,12,0,Turnaround Bank Hook Shot,2,-13,19,True
+Justise Winslow,2,2,4,0,Turnaround Fadeaway Bank Jump Shot,8,77,44,True
+Justise Winslow,2,8,11,1,Turnaround Fadeaway Bank Jump Shot,12,0,126,True
+Justise Winslow,2,5,47,0,Turnaround Fadeaway shot,5,-3,54,True
+Justise Winslow,4,4,32,0,Turnaround Fadeaway shot,11,116,23,True
+Justise Winslow,4,11,42,0,Turnaround Fadeaway shot,10,105,27,True
+Justise Winslow,2,4,44,0,Turnaround Fadeaway shot,10,99,22,True
+Justise Winslow,2,6,33,1,Turnaround Fadeaway shot,5,-51,31,True
+Justise Winslow,2,4,58,0,Turnaround Fadeaway shot,10,103,10,True
+Justise Winslow,1,2,6,0,Turnaround Hook Shot,3,17,25,True
+Justise Winslow,3,5,50,0,Turnaround Hook Shot,7,-52,47,True
+Justise Winslow,2,8,18,0,Turnaround Hook Shot,5,-2,59,True
+Justise Winslow,3,9,52,0,Turnaround Hook Shot,6,15,64,True
+Justise Winslow,1,11,38,0,Turnaround Jump Shot,14,126,64,True
+Justise Winslow,5,2,21,1,Turnaround Jump Shot,6,14,68,True
+Justise Winslow,2,10,18,1,Turnaround Jump Shot,12,18,121,True
+Justise Winslow,3,0,50,0,Turnaround Jump Shot,9,6,99,True
+Justise Winslow,3,4,52,0,Turnaround Jump Shot,14,-5,141,True

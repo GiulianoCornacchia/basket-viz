@@ -1,0 +1,495 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Raymond Felton,2,8,37,1,Driving Finger Roll Layup Shot,2,-20,-2,True
+Raymond Felton,2,9,50,0,Driving Finger Roll Layup Shot,2,-21,17,True
+Raymond Felton,2,11,8,1,Driving Finger Roll Layup Shot,1,-8,11,True
+Raymond Felton,3,1,51,0,Driving Finger Roll Layup Shot,3,-28,18,True
+Raymond Felton,4,9,7,1,Driving Finger Roll Layup Shot,1,-3,16,True
+Raymond Felton,4,8,48,0,Driving Floating Jump Shot,8,-33,76,True
+Raymond Felton,4,6,9,1,Driving Floating Jump Shot,5,8,50,True
+Raymond Felton,2,9,8,0,Driving Floating Jump Shot,6,-9,63,True
+Raymond Felton,2,10,48,0,Driving Floating Jump Shot,6,-12,67,True
+Raymond Felton,4,11,7,0,Driving Floating Jump Shot,9,0,92,True
+Raymond Felton,4,8,33,1,Driving Floating Jump Shot,6,-7,60,True
+Raymond Felton,4,7,6,0,Driving Floating Jump Shot,10,-30,98,True
+Raymond Felton,4,5,50,1,Driving Floating Jump Shot,7,25,74,True
+Raymond Felton,3,8,57,1,Driving Floating Jump Shot,9,-40,89,True
+Raymond Felton,2,8,36,1,Driving Floating Jump Shot,1,11,-3,True
+Raymond Felton,1,2,56,0,Driving Floating Jump Shot,7,-37,64,True
+Raymond Felton,4,9,47,1,Driving Floating Jump Shot,13,5,134,True
+Raymond Felton,4,8,17,1,Driving Floating Jump Shot,9,-7,94,True
+Raymond Felton,2,10,6,1,Driving Floating Jump Shot,10,-78,69,True
+Raymond Felton,4,11,17,0,Driving Floating Jump Shot,6,-18,59,True
+Raymond Felton,2,8,10,1,Driving Floating Jump Shot,9,-79,45,True
+Raymond Felton,1,0,42,1,Driving Floating Jump Shot,7,-59,45,True
+Raymond Felton,1,0,2,0,Driving Floating Jump Shot,5,11,56,True
+Raymond Felton,3,1,58,1,Driving Floating Jump Shot,10,-16,101,True
+Raymond Felton,2,10,23,1,Driving Floating Jump Shot,10,-64,88,True
+Raymond Felton,4,8,43,1,Driving Layup Shot,1,-3,11,True
+Raymond Felton,4,9,36,0,Driving Layup Shot,2,5,29,True
+Raymond Felton,4,10,9,1,Driving Layup Shot,3,-18,29,True
+Raymond Felton,2,8,1,0,Driving Layup Shot,2,27,9,True
+Raymond Felton,4,10,39,1,Driving Layup Shot,1,-11,11,True
+Raymond Felton,1,1,31,1,Driving Layup Shot,1,8,18,True
+Raymond Felton,2,8,54,0,Driving Layup Shot,1,15,11,True
+Raymond Felton,3,0,29,1,Driving Layup Shot,4,-35,32,True
+Raymond Felton,4,11,18,0,Driving Layup Shot,1,-11,16,True
+Raymond Felton,3,0,40,1,Driving Layup Shot,1,11,11,True
+Raymond Felton,2,7,52,1,Driving Layup Shot,1,-3,11,True
+Raymond Felton,4,9,22,0,Driving Layup Shot,2,-17,20,True
+Raymond Felton,2,11,23,0,Driving Layup Shot,1,-10,13,True
+Raymond Felton,1,0,33,0,Driving Layup Shot,1,12,3,True
+Raymond Felton,4,8,35,0,Driving Layup Shot,3,-16,28,True
+Raymond Felton,2,9,26,1,Driving Layup Shot,2,6,22,True
+Raymond Felton,2,10,46,1,Driving Layup Shot,1,-18,3,True
+Raymond Felton,1,1,21,1,Driving Layup Shot,0,-3,5,True
+Raymond Felton,1,1,2,1,Driving Layup Shot,1,-10,6,True
+Raymond Felton,2,10,27,1,Driving Layup Shot,0,-8,3,True
+Raymond Felton,2,9,48,0,Driving Layup Shot,1,-13,0,True
+Raymond Felton,4,10,19,1,Driving Layup Shot,6,54,38,True
+Raymond Felton,4,1,40,0,Driving Layup Shot,3,-20,29,True
+Raymond Felton,4,4,7,1,Driving Layup Shot,1,-8,15,True
+Raymond Felton,4,9,44,0,Driving Layup Shot,1,-9,-6,True
+Raymond Felton,2,10,3,0,Driving Layup Shot,1,6,17,True
+Raymond Felton,2,11,4,1,Driving Layup Shot,1,11,5,True
+Raymond Felton,2,9,24,1,Driving Layup Shot,2,11,17,True
+Raymond Felton,4,8,2,1,Driving Layup Shot,1,-2,17,True
+Raymond Felton,4,9,57,0,Driving Layup Shot,1,-14,11,True
+Raymond Felton,4,7,6,0,Driving Layup Shot,4,40,12,True
+Raymond Felton,4,9,14,0,Driving Layup Shot,2,-9,22,True
+Raymond Felton,4,8,59,0,Driving Layup Shot,0,2,5,True
+Raymond Felton,1,0,40,0,Driving Layup Shot,2,2,23,True
+Raymond Felton,4,9,34,1,Driving Layup Shot,1,-19,0,True
+Raymond Felton,2,10,29,0,Driving Layup Shot,6,-6,66,True
+Raymond Felton,4,11,10,1,Driving Layup Shot,0,-6,-4,True
+Raymond Felton,3,2,11,1,Driving Layup Shot,0,-1,8,True
+Raymond Felton,4,10,4,1,Driving Layup Shot,1,5,14,True
+Raymond Felton,4,9,49,0,Driving Layup Shot,0,3,-7,True
+Raymond Felton,3,2,2,0,Driving Layup Shot,2,-20,6,True
+Raymond Felton,2,8,35,1,Driving Layup Shot,1,-2,17,True
+Raymond Felton,1,3,33,0,Driving Layup Shot,0,2,5,True
+Raymond Felton,1,0,2,1,Driving Layup Shot,1,5,11,True
+Raymond Felton,4,10,0,0,Driving Layup Shot,3,27,26,True
+Raymond Felton,4,10,27,0,Driving Layup Shot,0,3,2,True
+Raymond Felton,1,1,10,0,Driving Layup Shot,5,46,37,True
+Raymond Felton,2,11,15,1,Driving Layup Shot,1,-6,9,True
+Raymond Felton,4,8,46,1,Driving Layup Shot,1,10,5,True
+Raymond Felton,2,9,42,1,Driving Layup Shot,0,-3,8,True
+Raymond Felton,3,1,7,1,Driving Layup Shot,1,-9,7,True
+Raymond Felton,2,10,55,1,Driving Layup Shot,0,-4,6,True
+Raymond Felton,4,9,13,0,Driving Layup Shot,2,-18,10,True
+Raymond Felton,1,1,32,0,Driving Layup Shot,0,5,3,True
+Raymond Felton,2,9,25,1,Driving Layup Shot,1,-5,17,True
+Raymond Felton,3,1,53,1,Driving Layup Shot,1,14,9,True
+Raymond Felton,4,8,54,0,Driving Layup Shot,5,-53,21,True
+Raymond Felton,4,0,1,1,Driving Layup Shot,3,-25,21,True
+Raymond Felton,4,11,17,0,Driving Layup Shot,0,6,4,True
+Raymond Felton,2,9,20,0,Driving Layup Shot,1,-2,14,True
+Raymond Felton,2,10,4,1,Driving Layup Shot,0,2,-7,True
+Raymond Felton,2,6,59,0,Driving Layup Shot,1,-11,0,True
+Raymond Felton,4,7,47,0,Driving Reverse Layup Shot,2,26,4,True
+Raymond Felton,3,0,36,1,Driving Reverse Layup Shot,1,-3,12,True
+Raymond Felton,2,9,17,1,Driving Reverse Layup Shot,1,19,5,True
+Raymond Felton,4,10,10,0,Driving Reverse Layup Shot,2,18,18,True
+Raymond Felton,2,10,56,0,Fadeaway Jump Shot,8,-41,79,True
+Raymond Felton,4,9,51,0,Fadeaway Jump Shot,13,-134,13,True
+Raymond Felton,2,11,31,0,Fadeaway Jump Shot,17,-66,160,True
+Raymond Felton,4,7,50,1,Fadeaway Jump Shot,15,-128,89,True
+Raymond Felton,2,10,50,0,Fadeaway Jump Shot,9,-74,58,True
+Raymond Felton,4,10,15,1,Fadeaway Jump Shot,19,-117,152,True
+Raymond Felton,3,0,0,0,Fadeaway Jump Shot,16,160,0,True
+Raymond Felton,4,8,52,0,Fadeaway Jump Shot,8,5,85,True
+Raymond Felton,1,0,52,0,Fadeaway Jump Shot,15,-147,50,True
+Raymond Felton,2,8,44,0,Fadeaway Jump Shot,9,-53,80,True
+Raymond Felton,4,2,58,0,Fadeaway Jump Shot,25,216,141,False
+Raymond Felton,1,2,13,1,Fadeaway Jump Shot,6,29,63,True
+Raymond Felton,1,1,24,0,Fadeaway Jump Shot,16,-165,27,True
+Raymond Felton,4,7,38,0,Floating Jump shot,9,-45,88,True
+Raymond Felton,4,9,19,1,Floating Jump shot,8,8,85,True
+Raymond Felton,4,6,7,1,Floating Jump shot,10,-25,101,True
+Raymond Felton,2,10,21,0,Floating Jump shot,6,-36,55,True
+Raymond Felton,4,7,39,0,Floating Jump shot,12,34,122,True
+Raymond Felton,2,10,21,0,Floating Jump shot,5,-2,59,True
+Raymond Felton,4,7,30,1,Floating Jump shot,12,5,128,True
+Raymond Felton,4,6,30,1,Floating Jump shot,8,9,85,True
+Raymond Felton,1,9,58,0,Floating Jump shot,14,-2,142,True
+Raymond Felton,4,9,46,0,Floating Jump shot,3,8,34,True
+Raymond Felton,2,9,28,1,Floating Jump shot,5,13,58,True
+Raymond Felton,4,8,49,0,Floating Jump shot,7,22,69,True
+Raymond Felton,2,10,54,1,Floating Jump shot,14,70,132,True
+Raymond Felton,2,11,24,1,Jump Shot,24,43,246,False
+Raymond Felton,2,9,49,1,Jump Shot,25,93,236,False
+Raymond Felton,4,10,39,1,Jump Shot,25,173,183,False
+Raymond Felton,1,0,0,0,Jump Shot,30,-116,277,False
+Raymond Felton,4,11,43,1,Jump Shot,25,-134,215,False
+Raymond Felton,1,1,36,1,Jump Shot,22,221,57,False
+Raymond Felton,4,9,42,0,Jump Shot,26,143,220,False
+Raymond Felton,4,6,46,0,Jump Shot,23,-226,79,False
+Raymond Felton,3,0,30,0,Jump Shot,25,-152,206,False
+Raymond Felton,2,6,8,0,Jump Shot,25,114,224,False
+Raymond Felton,3,5,18,1,Jump Shot,24,-232,64,False
+Raymond Felton,4,8,22,0,Jump Shot,24,178,168,False
+Raymond Felton,1,0,38,1,Jump Shot,25,-119,230,False
+Raymond Felton,3,2,4,0,Jump Shot,25,111,231,False
+Raymond Felton,2,10,8,1,Jump Shot,26,-133,233,False
+Raymond Felton,1,1,36,0,Jump Shot,22,227,11,False
+Raymond Felton,3,0,55,0,Jump Shot,27,-119,244,False
+Raymond Felton,1,0,31,0,Jump Shot,25,-97,232,False
+Raymond Felton,2,6,9,0,Jump Shot,19,99,167,True
+Raymond Felton,3,0,5,0,Jump Shot,26,-168,201,False
+Raymond Felton,1,0,0,1,Jump Shot,28,94,269,False
+Raymond Felton,2,2,28,0,Jump Shot,26,92,251,False
+Raymond Felton,2,11,47,1,Jump Shot,25,107,232,False
+Raymond Felton,4,8,49,1,Jump Shot,25,-18,251,False
+Raymond Felton,4,9,54,0,Jump Shot,27,-14,272,False
+Raymond Felton,4,6,27,1,Jump Shot,25,143,209,False
+Raymond Felton,4,3,17,1,Jump Shot,24,-231,86,False
+Raymond Felton,4,9,6,1,Jump Shot,22,228,0,False
+Raymond Felton,1,2,11,1,Jump Shot,25,-166,190,False
+Raymond Felton,3,0,33,1,Jump Shot,25,168,189,False
+Raymond Felton,2,9,51,1,Jump Shot,25,-150,205,False
+Raymond Felton,4,8,58,1,Jump Shot,23,-235,44,False
+Raymond Felton,4,8,14,0,Jump Shot,20,-93,179,True
+Raymond Felton,2,7,36,0,Jump Shot,28,57,281,False
+Raymond Felton,4,5,17,0,Jump Shot,20,91,180,True
+Raymond Felton,4,9,28,1,Jump Shot,9,-96,14,True
+Raymond Felton,4,10,2,0,Jump Shot,26,143,220,False
+Raymond Felton,2,11,12,0,Jump Shot,25,-88,238,False
+Raymond Felton,1,0,0,0,Jump Shot,34,-195,285,False
+Raymond Felton,2,6,14,0,Jump Shot,22,225,28,False
+Raymond Felton,2,6,57,1,Jump Shot,18,180,16,True
+Raymond Felton,2,8,21,0,Jump Shot,26,-128,236,False
+Raymond Felton,2,4,51,1,Jump Shot,23,234,-13,False
+Raymond Felton,2,8,15,0,Jump Shot,25,89,236,False
+Raymond Felton,2,10,7,1,Jump Shot,23,234,48,False
+Raymond Felton,3,0,8,0,Jump Shot,35,-98,340,False
+Raymond Felton,4,3,12,0,Jump Shot,25,82,241,False
+Raymond Felton,3,11,48,1,Jump Shot,23,232,46,False
+Raymond Felton,2,0,6,0,Jump Shot,25,134,218,False
+Raymond Felton,2,7,2,0,Jump Shot,26,157,214,False
+Raymond Felton,4,10,15,0,Jump Shot,23,-231,63,False
+Raymond Felton,4,9,19,1,Jump Shot,25,125,218,False
+Raymond Felton,4,8,44,0,Jump Shot,15,-72,137,True
+Raymond Felton,2,10,36,0,Jump Shot,25,-54,245,False
+Raymond Felton,2,10,29,0,Jump Shot,25,-3,257,False
+Raymond Felton,3,0,45,0,Jump Shot,16,114,123,True
+Raymond Felton,4,9,56,0,Jump Shot,15,48,147,True
+Raymond Felton,2,10,17,0,Jump Shot,26,9,266,False
+Raymond Felton,4,7,0,0,Jump Shot,25,173,186,False
+Raymond Felton,2,11,9,1,Jump Shot,25,73,247,False
+Raymond Felton,2,11,17,0,Jump Shot,26,17,261,False
+Raymond Felton,2,9,8,1,Jump Shot,18,-141,116,True
+Raymond Felton,4,5,12,0,Jump Shot,23,228,34,False
+Raymond Felton,2,9,50,0,Jump Shot,18,58,173,True
+Raymond Felton,2,10,44,0,Jump Shot,6,-48,48,True
+Raymond Felton,1,0,45,0,Jump Shot,25,-108,229,False
+Raymond Felton,4,6,18,1,Jump Shot,24,146,200,False
+Raymond Felton,4,11,51,1,Jump Shot,19,24,190,True
+Raymond Felton,3,0,27,1,Jump Shot,31,-125,284,False
+Raymond Felton,4,6,54,0,Jump Shot,29,-20,299,False
+Raymond Felton,1,0,36,1,Jump Shot,23,232,47,False
+Raymond Felton,4,11,40,0,Jump Shot,19,-116,160,True
+Raymond Felton,4,6,38,1,Jump Shot,15,-5,157,True
+Raymond Felton,4,5,21,0,Jump Shot,16,-29,158,True
+Raymond Felton,1,0,6,1,Jump Shot,25,-158,197,False
+Raymond Felton,4,8,19,0,Jump Shot,12,43,113,True
+Raymond Felton,4,7,30,0,Jump Shot,25,104,234,False
+Raymond Felton,1,1,55,1,Jump Shot,25,-202,153,False
+Raymond Felton,4,9,8,0,Jump Shot,22,-226,-6,False
+Raymond Felton,4,7,49,1,Jump Shot,24,231,68,False
+Raymond Felton,2,11,35,1,Jump Shot,24,215,127,False
+Raymond Felton,4,4,24,0,Jump Shot,26,-12,264,False
+Raymond Felton,2,7,53,0,Jump Shot,26,230,124,False
+Raymond Felton,1,0,1,1,Jump Shot,25,-159,199,False
+Raymond Felton,3,0,47,0,Jump Shot,24,-144,197,False
+Raymond Felton,4,4,47,0,Jump Shot,23,234,0,False
+Raymond Felton,2,11,9,0,Jump Shot,22,228,-4,False
+Raymond Felton,3,2,3,1,Jump Shot,23,231,63,False
+Raymond Felton,1,1,43,0,Jump Shot,17,97,147,True
+Raymond Felton,2,3,46,1,Jump Shot,24,-58,235,False
+Raymond Felton,3,0,11,0,Jump Shot,22,228,12,False
+Raymond Felton,4,6,42,0,Jump Shot,25,-145,206,False
+Raymond Felton,3,0,4,1,Jump Shot,26,-195,172,False
+Raymond Felton,2,7,2,0,Jump Shot,23,231,9,False
+Raymond Felton,4,5,57,0,Jump Shot,25,-188,173,False
+Raymond Felton,4,9,34,0,Jump Shot,25,-147,205,False
+Raymond Felton,2,7,36,0,Jump Shot,25,74,239,False
+Raymond Felton,4,8,56,0,Jump Shot,26,-218,158,False
+Raymond Felton,2,10,52,1,Jump Shot,25,225,110,False
+Raymond Felton,4,8,56,0,Jump Shot,23,-221,72,False
+Raymond Felton,2,11,22,1,Jump Shot,23,231,5,False
+Raymond Felton,4,8,48,1,Jump Shot,23,233,31,False
+Raymond Felton,4,6,19,0,Jump Shot,23,-236,17,False
+Raymond Felton,3,1,36,1,Jump Shot,26,134,228,False
+Raymond Felton,3,0,52,0,Jump Shot,17,-20,176,True
+Raymond Felton,4,6,54,1,Jump Shot,24,122,216,False
+Raymond Felton,3,0,56,0,Jump Shot,23,-229,60,False
+Raymond Felton,4,2,36,0,Jump Shot,25,-81,238,False
+Raymond Felton,4,10,50,0,Jump Shot,26,-92,247,False
+Raymond Felton,1,1,17,0,Jump Shot,21,31,214,True
+Raymond Felton,2,10,34,0,Jump Shot,23,234,44,False
+Raymond Felton,2,9,35,0,Jump Shot,24,190,159,False
+Raymond Felton,2,11,15,0,Jump Shot,16,65,154,True
+Raymond Felton,4,7,27,0,Jump Shot,23,228,42,False
+Raymond Felton,2,7,16,0,Jump Shot,26,-195,173,False
+Raymond Felton,2,5,33,0,Jump Shot,25,-179,184,False
+Raymond Felton,3,2,4,0,Jump Shot,25,-154,204,False
+Raymond Felton,4,6,44,0,Jump Shot,26,-135,226,False
+Raymond Felton,4,5,24,1,Jump Shot,22,-229,16,False
+Raymond Felton,4,4,30,0,Jump Shot,25,-123,227,False
+Raymond Felton,3,2,8,0,Jump Shot,22,222,2,False
+Raymond Felton,4,3,29,1,Jump Shot,23,230,-1,False
+Raymond Felton,2,4,8,0,Jump Shot,25,107,234,False
+Raymond Felton,4,8,14,0,Jump Shot,25,173,189,False
+Raymond Felton,4,2,29,0,Jump Shot,22,228,8,False
+Raymond Felton,2,5,35,0,Jump Shot,25,214,130,False
+Raymond Felton,3,1,55,0,Jump Shot,23,232,-22,False
+Raymond Felton,4,8,8,1,Jump Shot,18,-52,181,True
+Raymond Felton,4,10,9,0,Jump Shot,28,15,280,False
+Raymond Felton,3,0,50,0,Jump Shot,19,-192,-5,True
+Raymond Felton,1,1,35,0,Jump Shot,24,-55,240,False
+Raymond Felton,3,1,43,0,Jump Shot,24,58,238,False
+Raymond Felton,4,9,38,0,Jump Shot,25,-159,194,False
+Raymond Felton,1,0,56,0,Jump Shot,25,115,224,False
+Raymond Felton,4,10,34,1,Jump Shot,14,8,144,True
+Raymond Felton,4,1,42,0,Jump Shot,24,209,130,False
+Raymond Felton,1,3,6,0,Jump Shot,24,155,194,False
+Raymond Felton,3,0,0,0,Jump Shot,44,39,447,False
+Raymond Felton,4,11,18,0,Jump Shot,25,136,217,False
+Raymond Felton,3,0,53,1,Jump Shot,24,232,79,False
+Raymond Felton,3,2,16,1,Jump Shot,25,223,121,False
+Raymond Felton,3,0,54,0,Jump Shot,27,-147,231,False
+Raymond Felton,1,2,27,0,Jump Shot,17,119,126,True
+Raymond Felton,1,0,46,1,Jump Shot,27,100,258,False
+Raymond Felton,1,1,46,1,Jump Shot,25,-92,238,False
+Raymond Felton,4,9,23,0,Jump Shot,24,-118,213,False
+Raymond Felton,2,11,21,0,Jump Shot,22,-227,8,False
+Raymond Felton,2,8,58,1,Jump Shot,25,6,253,False
+Raymond Felton,4,1,52,0,Jump Shot,22,-226,26,False
+Raymond Felton,2,7,18,1,Jump Shot,24,-105,219,False
+Raymond Felton,4,11,20,1,Jump Shot,26,-110,242,False
+Raymond Felton,2,6,47,1,Jump Shot,23,231,51,False
+Raymond Felton,4,0,5,0,Jump Shot,25,-57,247,False
+Raymond Felton,2,11,5,1,Jump Shot,25,-117,231,False
+Raymond Felton,2,5,33,1,Jump Shot,26,118,232,False
+Raymond Felton,3,1,22,0,Jump Shot,24,-68,240,False
+Raymond Felton,4,9,21,0,Jump Shot,13,130,8,True
+Raymond Felton,4,5,45,0,Jump Shot,21,7,216,True
+Raymond Felton,2,10,29,0,Jump Shot,25,-125,227,False
+Raymond Felton,3,1,22,0,Jump Shot,24,105,225,False
+Raymond Felton,4,1,12,0,Jump Shot,20,160,122,True
+Raymond Felton,4,7,10,1,Jump Shot,23,233,11,False
+Raymond Felton,4,11,45,1,Layup Shot,1,6,13,True
+Raymond Felton,2,7,30,0,Layup Shot,9,-2,99,True
+Raymond Felton,4,9,9,0,Layup Shot,2,-12,23,True
+Raymond Felton,2,10,23,1,Layup Shot,0,6,5,True
+Raymond Felton,4,8,40,1,Layup Shot,0,-4,4,True
+Raymond Felton,2,7,48,1,Layup Shot,3,-17,27,True
+Raymond Felton,3,1,38,0,Layup Shot,1,-15,9,True
+Raymond Felton,2,8,17,0,Layup Shot,2,-12,16,True
+Raymond Felton,2,9,49,0,Layup Shot,0,-9,4,True
+Raymond Felton,2,8,5,0,Layup Shot,1,-15,8,True
+Raymond Felton,4,6,47,1,Layup Shot,0,2,5,True
+Raymond Felton,2,5,57,1,Pullup Jump shot,27,177,212,False
+Raymond Felton,4,11,0,0,Pullup Jump shot,17,95,152,True
+Raymond Felton,4,11,8,1,Pullup Jump shot,21,145,153,True
+Raymond Felton,1,0,35,0,Pullup Jump shot,16,-96,135,True
+Raymond Felton,4,9,10,0,Pullup Jump shot,18,131,125,True
+Raymond Felton,2,9,4,0,Pullup Jump shot,19,-132,148,True
+Raymond Felton,2,9,18,0,Pullup Jump shot,20,-48,199,True
+Raymond Felton,4,11,34,0,Pullup Jump shot,11,-11,115,True
+Raymond Felton,4,9,19,1,Pullup Jump shot,19,-110,158,True
+Raymond Felton,4,9,50,1,Pullup Jump shot,5,-38,36,True
+Raymond Felton,2,9,13,0,Pullup Jump shot,26,-86,248,False
+Raymond Felton,4,11,8,0,Pullup Jump shot,17,-1,179,True
+Raymond Felton,2,9,12,1,Pullup Jump shot,29,104,271,False
+Raymond Felton,2,10,22,0,Pullup Jump shot,21,-114,179,True
+Raymond Felton,2,11,25,0,Pullup Jump shot,25,-124,222,False
+Raymond Felton,2,8,35,0,Pullup Jump shot,22,0,225,True
+Raymond Felton,1,0,2,0,Pullup Jump shot,14,119,90,True
+Raymond Felton,3,2,12,1,Pullup Jump shot,26,-130,233,False
+Raymond Felton,4,8,45,0,Pullup Jump shot,19,27,189,True
+Raymond Felton,1,3,55,0,Pullup Jump shot,18,-94,154,True
+Raymond Felton,4,9,8,1,Pullup Jump shot,20,110,177,True
+Raymond Felton,4,9,47,1,Pullup Jump shot,20,98,179,True
+Raymond Felton,4,9,19,1,Pullup Jump shot,19,101,164,True
+Raymond Felton,4,9,13,1,Pullup Jump shot,4,-5,44,True
+Raymond Felton,4,9,31,1,Pullup Jump shot,17,75,158,True
+Raymond Felton,3,1,33,0,Pullup Jump shot,15,108,115,True
+Raymond Felton,2,11,34,1,Pullup Jump shot,25,-100,236,False
+Raymond Felton,2,9,0,1,Pullup Jump shot,9,19,94,True
+Raymond Felton,1,0,2,1,Pullup Jump shot,16,35,159,True
+Raymond Felton,4,11,9,1,Pullup Jump shot,13,-114,80,True
+Raymond Felton,1,1,14,0,Pullup Jump shot,25,-45,252,False
+Raymond Felton,3,1,57,0,Pullup Jump shot,14,89,116,True
+Raymond Felton,4,9,23,0,Pullup Jump shot,24,-112,221,False
+Raymond Felton,1,0,2,0,Pullup Jump shot,26,-82,256,False
+Raymond Felton,1,0,33,1,Pullup Jump shot,16,100,134,True
+Raymond Felton,1,1,31,0,Pullup Jump shot,13,42,132,True
+Raymond Felton,2,9,25,1,Pullup Jump shot,18,55,174,True
+Raymond Felton,2,7,22,0,Pullup Jump shot,25,81,240,False
+Raymond Felton,1,1,3,1,Pullup Jump shot,20,-10,201,True
+Raymond Felton,3,0,2,0,Pullup Jump shot,27,112,247,False
+Raymond Felton,4,11,1,0,Pullup Jump shot,25,16,254,False
+Raymond Felton,4,11,10,1,Pullup Jump shot,21,-162,135,True
+Raymond Felton,4,9,9,1,Pullup Jump shot,19,-95,175,True
+Raymond Felton,1,1,48,1,Pullup Jump shot,20,7,203,True
+Raymond Felton,1,0,2,0,Pullup Jump shot,26,107,239,False
+Raymond Felton,2,11,15,1,Pullup Jump shot,21,99,193,True
+Raymond Felton,1,1,57,0,Pullup Jump shot,20,137,150,True
+Raymond Felton,2,10,35,0,Pullup Jump shot,15,-89,121,True
+Raymond Felton,3,2,19,1,Pullup Jump shot,27,-199,183,False
+Raymond Felton,4,10,28,0,Pullup Jump shot,26,-119,235,False
+Raymond Felton,3,1,20,1,Pullup Jump shot,10,-56,90,True
+Raymond Felton,2,9,31,0,Pullup Jump shot,25,-52,253,False
+Raymond Felton,2,9,22,0,Pullup Jump shot,6,63,29,True
+Raymond Felton,4,0,30,0,Pullup Jump shot,25,15,251,False
+Raymond Felton,1,1,40,1,Pullup Jump shot,19,71,178,True
+Raymond Felton,4,10,9,0,Pullup Jump shot,25,-107,227,False
+Raymond Felton,4,10,40,1,Pullup Jump shot,24,90,231,False
+Raymond Felton,2,8,11,0,Pullup Jump shot,17,118,128,True
+Raymond Felton,4,11,42,1,Pullup Jump shot,22,-29,220,True
+Raymond Felton,2,8,53,0,Pullup Jump shot,12,-129,15,True
+Raymond Felton,4,9,51,1,Pullup Jump shot,24,-61,238,False
+Raymond Felton,4,9,13,0,Pullup Jump shot,27,-17,277,False
+Raymond Felton,3,0,0,0,Pullup Jump shot,50,-170,478,False
+Raymond Felton,2,8,43,1,Pullup Jump shot,17,-105,138,True
+Raymond Felton,4,9,58,0,Pullup Jump shot,26,117,239,False
+Raymond Felton,4,11,50,1,Pullup Jump shot,20,73,195,True
+Raymond Felton,4,8,8,0,Pullup Jump shot,20,27,202,True
+Raymond Felton,3,2,35,0,Pullup Jump shot,15,-22,156,True
+Raymond Felton,4,2,16,0,Pullup Jump shot,17,-29,176,True
+Raymond Felton,1,4,29,0,Pullup Jump shot,17,-94,143,True
+Raymond Felton,1,2,3,0,Pullup Jump shot,17,-67,166,True
+Raymond Felton,2,9,29,1,Pullup Jump shot,18,16,189,True
+Raymond Felton,1,0,59,0,Pullup Jump shot,18,-6,185,True
+Raymond Felton,1,10,40,1,Pullup Jump shot,25,25,251,False
+Raymond Felton,3,0,54,0,Pullup Jump shot,19,-70,177,True
+Raymond Felton,2,9,22,0,Pullup Jump shot,15,101,120,True
+Raymond Felton,2,5,11,0,Pullup Jump shot,18,82,164,True
+Raymond Felton,4,9,58,0,Pullup Jump shot,25,65,248,False
+Raymond Felton,1,6,5,1,Pullup Jump shot,24,3,246,False
+Raymond Felton,1,0,2,1,Pullup Jump shot,14,-41,138,True
+Raymond Felton,4,8,37,0,Pullup Jump shot,22,-131,189,True
+Raymond Felton,3,2,28,0,Pullup Jump shot,19,-7,194,True
+Raymond Felton,4,1,13,0,Pullup Jump shot,24,-181,172,False
+Raymond Felton,3,2,59,1,Pullup Jump shot,20,-35,205,True
+Raymond Felton,3,0,37,0,Pullup Jump shot,26,-96,244,False
+Raymond Felton,3,7,37,0,Pullup Jump shot,25,-161,200,False
+Raymond Felton,2,10,15,0,Pullup Jump shot,16,7,163,True
+Raymond Felton,1,9,41,0,Pullup Jump shot,11,-76,87,True
+Raymond Felton,4,6,59,0,Pullup Jump shot,2,-17,16,True
+Raymond Felton,2,10,39,0,Pullup Jump shot,20,131,164,True
+Raymond Felton,3,0,35,1,Pullup Jump shot,24,-46,240,False
+Raymond Felton,3,0,35,0,Pullup Jump shot,25,-103,233,False
+Raymond Felton,4,10,21,0,Pullup Jump shot,21,154,144,True
+Raymond Felton,2,10,51,1,Pullup Jump shot,18,26,188,True
+Raymond Felton,3,1,3,1,Pullup Jump shot,20,-69,198,True
+Raymond Felton,3,0,4,0,Pullup Jump shot,25,17,252,False
+Raymond Felton,4,5,48,0,Pullup Jump shot,25,-70,241,False
+Raymond Felton,3,2,22,1,Pullup Jump shot,20,-92,185,True
+Raymond Felton,4,7,43,0,Pullup Jump shot,17,33,167,True
+Raymond Felton,4,11,19,0,Pullup Jump shot,19,-64,180,True
+Raymond Felton,4,9,22,1,Pullup Jump shot,14,60,133,True
+Raymond Felton,2,9,0,1,Pullup Jump shot,20,-82,189,True
+Raymond Felton,2,9,50,0,Pullup Jump shot,26,11,264,False
+Raymond Felton,3,1,9,1,Pullup Jump shot,25,-87,241,False
+Raymond Felton,3,0,6,0,Pullup Jump shot,28,-7,284,False
+Raymond Felton,3,0,0,0,Pullup Jump shot,20,71,196,True
+Raymond Felton,4,8,1,1,Pullup Jump shot,15,120,97,True
+Raymond Felton,4,9,7,1,Pullup Jump shot,18,48,175,True
+Raymond Felton,2,6,34,1,Pullup Jump shot,16,-62,152,True
+Raymond Felton,3,0,27,1,Pullup Jump shot,19,-54,185,True
+Raymond Felton,4,10,49,0,Pullup Jump shot,20,38,205,True
+Raymond Felton,4,11,15,0,Pullup Jump shot,25,69,248,False
+Raymond Felton,3,0,59,1,Pullup Jump shot,18,59,180,True
+Raymond Felton,4,11,46,1,Pullup Jump shot,26,-123,237,False
+Raymond Felton,4,10,42,0,Pullup Jump shot,20,79,193,True
+Raymond Felton,1,0,43,0,Pullup Jump shot,24,-8,242,False
+Raymond Felton,2,11,25,1,Pullup Jump shot,16,103,131,True
+Raymond Felton,1,1,57,1,Pullup Jump shot,11,-111,10,True
+Raymond Felton,2,8,2,0,Pullup Jump shot,21,7,215,True
+Raymond Felton,2,9,17,1,Pullup Jump shot,16,61,157,True
+Raymond Felton,3,1,24,1,Pullup Jump shot,17,98,139,True
+Raymond Felton,4,11,7,0,Pullup Jump shot,15,-35,153,True
+Raymond Felton,4,9,43,0,Pullup Jump shot,18,134,126,True
+Raymond Felton,3,0,32,1,Pullup Jump shot,18,-84,166,True
+Raymond Felton,4,10,34,1,Pullup Jump shot,26,55,259,False
+Raymond Felton,4,10,47,0,Pullup Jump shot,16,-59,158,True
+Raymond Felton,2,11,47,0,Pullup Jump shot,21,107,183,True
+Raymond Felton,2,8,9,0,Pullup Jump shot,10,-40,102,True
+Raymond Felton,4,7,57,0,Pullup Jump shot,15,-91,120,True
+Raymond Felton,1,1,6,0,Pullup Jump shot,24,67,239,False
+Raymond Felton,4,11,13,0,Pullup Jump shot,19,67,180,True
+Raymond Felton,2,7,22,0,Pullup Jump shot,25,-180,177,False
+Raymond Felton,2,10,36,0,Pullup Jump shot,22,65,215,True
+Raymond Felton,2,10,31,0,Pullup Jump shot,13,-113,72,True
+Raymond Felton,4,10,51,1,Pullup Jump shot,22,116,194,True
+Raymond Felton,2,9,23,1,Pullup Jump shot,19,-36,188,True
+Raymond Felton,2,11,14,1,Pullup Jump shot,9,45,79,True
+Raymond Felton,2,10,19,1,Pullup Jump shot,21,61,204,True
+Raymond Felton,4,8,58,0,Pullup Jump shot,20,-22,200,True
+Raymond Felton,3,1,46,1,Pullup Jump shot,25,90,241,False
+Raymond Felton,4,11,12,0,Pullup Jump shot,25,129,218,False
+Raymond Felton,3,1,19,1,Pullup Jump shot,26,-122,233,False
+Raymond Felton,4,11,35,0,Pullup Jump shot,25,-23,252,False
+Raymond Felton,4,10,11,1,Pullup Jump shot,22,-76,211,True
+Raymond Felton,4,10,56,1,Pullup Jump shot,24,-48,241,False
+Raymond Felton,4,11,53,1,Pullup Jump shot,25,-78,246,False
+Raymond Felton,2,6,40,0,Pullup Jump shot,19,-111,163,True
+Raymond Felton,2,11,8,0,Pullup Jump shot,19,-134,137,True
+Raymond Felton,2,10,15,1,Putback Layup Shot,0,0,-6,True
+Raymond Felton,4,11,2,0,Putback Layup Shot,7,-25,67,True
+Raymond Felton,2,6,38,1,Reverse Layup Shot,3,-8,32,True
+Raymond Felton,4,10,53,0,Running Finger Roll Layup Shot,1,-3,15,True
+Raymond Felton,3,0,1,0,Running Jump Shot,38,-166,348,False
+Raymond Felton,1,2,22,0,Running Jump Shot,16,118,121,True
+Raymond Felton,4,10,19,1,Running Jump Shot,22,-229,-9,False
+Raymond Felton,3,0,0,0,Running Jump Shot,53,92,527,False
+Raymond Felton,1,0,0,0,Running Jump Shot,58,-157,563,False
+Raymond Felton,2,6,54,1,Running Jump Shot,25,-149,209,False
+Raymond Felton,1,0,0,0,Running Jump Shot,49,123,483,False
+Raymond Felton,1,0,1,0,Running Jump Shot,31,-90,297,False
+Raymond Felton,1,0,0,0,Running Jump Shot,35,-30,352,False
+Raymond Felton,2,3,49,0,Running Layup Shot,2,15,16,True
+Raymond Felton,4,9,56,1,Running Layup Shot,1,13,11,True
+Raymond Felton,2,9,1,1,Running Layup Shot,2,-26,13,True
+Raymond Felton,2,8,20,0,Running Layup Shot,1,11,14,True
+Raymond Felton,1,7,20,1,Running Layup Shot,1,-11,11,True
+Raymond Felton,2,6,10,1,Running Layup Shot,2,-1,20,True
+Raymond Felton,2,8,14,0,Running Layup Shot,1,-12,12,True
+Raymond Felton,1,0,0,0,Running Pull-Up Jump Shot,51,-154,488,False
+Raymond Felton,1,0,0,0,Running Pull-Up Jump Shot,47,6,476,False
+Raymond Felton,1,0,0,0,Running Pull-Up Jump Shot,48,200,440,False
+Raymond Felton,3,0,0,0,Running Pull-Up Jump Shot,52,-159,499,False
+Raymond Felton,3,0,47,1,Running Pull-Up Jump Shot,5,3,57,True
+Raymond Felton,3,0,42,0,Running Reverse Layup Shot,1,15,2,True
+Raymond Felton,1,0,5,0,Step Back Jump shot,12,-64,108,True
+Raymond Felton,4,10,11,1,Step Back Jump shot,13,2,134,True
+Raymond Felton,2,10,25,1,Step Back Jump shot,10,-81,72,True
+Raymond Felton,4,9,53,1,Step Back Jump shot,18,18,188,True
+Raymond Felton,2,10,37,0,Step Back Jump shot,22,221,0,False
+Raymond Felton,4,6,50,1,Step Back Jump shot,17,-103,139,True
+Raymond Felton,4,8,59,0,Step Back Jump shot,27,-99,253,False
+Raymond Felton,4,9,35,1,Step Back Jump shot,17,93,149,True
+Raymond Felton,4,6,27,0,Step Back Jump shot,19,30,197,True
+Raymond Felton,1,2,41,0,Step Back Jump shot,20,-118,172,True
+Raymond Felton,4,11,16,0,Step Back Jump shot,16,29,167,True
+Raymond Felton,2,11,17,0,Step Back Jump shot,25,65,242,False
+Raymond Felton,4,9,33,1,Step Back Jump shot,17,-103,141,True
+Raymond Felton,4,7,8,0,Step Back Jump shot,21,-100,193,True
+Raymond Felton,4,7,9,0,Step Back Jump shot,12,-2,122,True
+Raymond Felton,3,9,4,0,Step Back Jump shot,25,46,254,False
+Raymond Felton,2,11,40,0,Step Back Jump shot,13,-111,78,True
+Raymond Felton,1,0,0,0,Step Back Jump shot,27,127,239,False
+Raymond Felton,4,11,23,0,Step Back Jump shot,17,77,158,True
+Raymond Felton,1,0,32,1,Step Back Jump shot,12,26,123,True
+Raymond Felton,4,8,10,0,Step Back Jump shot,13,-63,125,True
+Raymond Felton,2,8,4,0,Step Back Jump shot,19,1,197,True
+Raymond Felton,4,9,3,1,Tip Layup Shot,0,0,-6,True
+Raymond Felton,1,0,1,0,Tip Layup Shot,0,0,-6,True
+Raymond Felton,2,10,37,0,Turnaround Fadeaway shot,11,1,111,True
+Raymond Felton,1,1,21,0,Turnaround Fadeaway shot,9,55,72,True
+Raymond Felton,2,11,33,1,Turnaround Jump Shot,5,1,57,True
+Raymond Felton,1,0,1,0,Turnaround Jump Shot,9,2,99,True
+Raymond Felton,3,0,32,1,Turnaround Jump Shot,9,55,83,True
+Raymond Felton,2,11,36,1,Turnaround Jump Shot,5,9,57,True

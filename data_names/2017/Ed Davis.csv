@@ -1,0 +1,265 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Ed Davis,1,2,5,1,Alley Oop Dunk Shot,0,-7,6,True
+Ed Davis,3,2,6,0,Alley Oop Layup shot,1,-17,1,True
+Ed Davis,1,3,25,1,Cutting Dunk Shot,0,-3,8,True
+Ed Davis,4,8,47,1,Cutting Dunk Shot,1,1,19,True
+Ed Davis,4,9,56,1,Cutting Dunk Shot,0,2,-5,True
+Ed Davis,4,11,20,1,Cutting Dunk Shot,3,-15,29,True
+Ed Davis,2,7,34,1,Cutting Dunk Shot,0,-5,-3,True
+Ed Davis,2,10,48,0,Cutting Dunk Shot,0,-9,-1,True
+Ed Davis,2,7,34,1,Cutting Dunk Shot,0,-8,5,True
+Ed Davis,3,3,41,1,Cutting Dunk Shot,1,-9,12,True
+Ed Davis,2,9,51,1,Cutting Dunk Shot,1,-11,10,True
+Ed Davis,2,7,28,1,Cutting Dunk Shot,1,7,9,True
+Ed Davis,1,3,19,1,Cutting Dunk Shot,0,-2,-1,True
+Ed Davis,2,6,12,1,Cutting Dunk Shot,2,8,20,True
+Ed Davis,3,8,8,1,Cutting Finger Roll Layup Shot,0,9,-2,True
+Ed Davis,4,10,50,1,Cutting Layup Shot,1,-8,11,True
+Ed Davis,3,0,45,1,Cutting Layup Shot,1,-11,9,True
+Ed Davis,3,3,54,1,Cutting Layup Shot,3,-35,5,True
+Ed Davis,2,10,41,1,Cutting Layup Shot,1,-8,8,True
+Ed Davis,3,2,13,0,Cutting Layup Shot,3,-19,34,True
+Ed Davis,4,7,55,1,Cutting Layup Shot,2,-20,8,True
+Ed Davis,2,8,45,1,Cutting Layup Shot,2,1,26,True
+Ed Davis,1,4,49,0,Cutting Layup Shot,3,-20,26,True
+Ed Davis,1,1,6,0,Cutting Layup Shot,4,41,20,True
+Ed Davis,2,10,14,1,Cutting Layup Shot,2,-5,26,True
+Ed Davis,2,9,2,0,Cutting Layup Shot,1,-9,6,True
+Ed Davis,4,10,2,0,Cutting Layup Shot,2,9,26,True
+Ed Davis,1,1,18,1,Cutting Layup Shot,10,-89,46,True
+Ed Davis,1,3,45,0,Cutting Layup Shot,4,-44,23,True
+Ed Davis,4,8,24,0,Cutting Layup Shot,1,-6,12,True
+Ed Davis,2,9,46,0,Cutting Layup Shot,2,-22,14,True
+Ed Davis,2,8,31,1,Driving Bank Hook Shot,3,-35,13,True
+Ed Davis,4,4,50,1,Driving Dunk Shot,1,7,13,True
+Ed Davis,2,9,21,0,Driving Dunk Shot,1,9,14,True
+Ed Davis,2,11,9,1,Driving Dunk Shot,0,1,0,True
+Ed Davis,2,6,28,1,Driving Finger Roll Layup Shot,2,-25,11,True
+Ed Davis,4,8,43,1,Driving Floating Bank Jump Shot,5,11,50,True
+Ed Davis,2,9,14,0,Driving Floating Bank Jump Shot,9,-70,59,True
+Ed Davis,4,9,21,1,Driving Floating Bank Jump Shot,10,-68,85,True
+Ed Davis,2,7,3,0,Driving Floating Jump Shot,1,0,11,True
+Ed Davis,4,10,14,0,Driving Hook Shot,3,-9,32,True
+Ed Davis,1,2,52,1,Driving Hook Shot,1,-13,13,True
+Ed Davis,1,4,32,0,Driving Hook Shot,4,-45,13,True
+Ed Davis,4,11,29,1,Driving Hook Shot,7,19,71,True
+Ed Davis,1,2,35,0,Driving Layup Shot,9,-73,55,True
+Ed Davis,2,8,18,0,Driving Layup Shot,1,3,17,True
+Ed Davis,1,9,27,0,Driving Layup Shot,2,18,20,True
+Ed Davis,4,10,11,1,Driving Layup Shot,2,-2,25,True
+Ed Davis,2,6,20,1,Driving Layup Shot,1,-11,11,True
+Ed Davis,2,7,48,0,Driving Layup Shot,2,-19,11,True
+Ed Davis,2,11,21,1,Driving Layup Shot,1,-11,16,True
+Ed Davis,4,6,10,1,Driving Layup Shot,3,-6,31,True
+Ed Davis,2,11,31,0,Driving Layup Shot,2,18,15,True
+Ed Davis,2,7,24,1,Driving Layup Shot,2,-27,6,True
+Ed Davis,2,11,19,1,Driving Layup Shot,4,-8,43,True
+Ed Davis,3,3,22,0,Driving Layup Shot,8,-38,75,True
+Ed Davis,3,2,19,1,Driving Layup Shot,5,-54,26,True
+Ed Davis,1,0,2,1,Driving Layup Shot,0,0,7,True
+Ed Davis,1,2,4,0,Driving Reverse Layup Shot,4,-4,42,True
+Ed Davis,1,0,33,1,Dunk Shot,0,-3,8,True
+Ed Davis,3,2,21,1,Dunk Shot,0,-3,1,True
+Ed Davis,3,1,27,1,Dunk Shot,1,8,10,True
+Ed Davis,3,1,53,1,Dunk Shot,0,-5,1,True
+Ed Davis,1,1,27,1,Dunk Shot,0,0,2,True
+Ed Davis,4,10,52,1,Dunk Shot,1,-8,15,True
+Ed Davis,2,11,26,1,Dunk Shot,0,-1,6,True
+Ed Davis,2,5,16,0,Dunk Shot,1,3,16,True
+Ed Davis,2,11,50,1,Dunk Shot,1,-1,11,True
+Ed Davis,2,9,55,1,Dunk Shot,2,19,17,True
+Ed Davis,3,1,11,0,Dunk Shot,0,-8,4,True
+Ed Davis,2,10,53,1,Dunk Shot,1,6,9,True
+Ed Davis,1,0,57,1,Dunk Shot,0,-2,4,True
+Ed Davis,2,9,20,1,Dunk Shot,1,-15,11,True
+Ed Davis,4,0,17,1,Dunk Shot,0,-3,6,True
+Ed Davis,3,1,25,1,Dunk Shot,1,6,8,True
+Ed Davis,2,8,48,1,Dunk Shot,1,-2,11,True
+Ed Davis,3,2,20,1,Dunk Shot,0,-2,-1,True
+Ed Davis,4,5,19,1,Finger Roll Layup Shot,1,-8,11,True
+Ed Davis,3,1,45,1,Floating Jump shot,14,121,74,True
+Ed Davis,1,1,25,0,Floating Jump shot,5,32,48,True
+Ed Davis,1,3,25,1,Hook Bank Shot,3,-26,26,True
+Ed Davis,3,3,44,1,Hook Bank Shot,2,-21,3,True
+Ed Davis,4,6,51,0,Hook Shot,2,-19,14,True
+Ed Davis,2,8,5,0,Hook Shot,6,-58,38,True
+Ed Davis,3,7,12,0,Hook Shot,4,22,41,True
+Ed Davis,2,8,14,1,Hook Shot,6,8,67,True
+Ed Davis,4,8,48,1,Hook Shot,7,-21,73,True
+Ed Davis,2,8,27,0,Hook Shot,5,-8,55,True
+Ed Davis,1,3,23,0,Hook Shot,7,-58,46,True
+Ed Davis,2,10,29,0,Hook Shot,3,33,15,True
+Ed Davis,2,11,27,1,Hook Shot,2,-16,13,True
+Ed Davis,1,1,48,0,Hook Shot,8,-55,60,True
+Ed Davis,2,1,50,1,Hook Shot,5,-22,53,True
+Ed Davis,1,3,41,0,Hook Shot,8,-13,80,True
+Ed Davis,2,11,23,1,Hook Shot,0,-3,5,True
+Ed Davis,1,1,26,0,Jump Bank Shot,10,-101,23,True
+Ed Davis,3,1,31,0,Jump Shot,3,-7,37,True
+Ed Davis,2,7,46,0,Jump Shot,6,-58,25,True
+Ed Davis,1,0,27,1,Jump Shot,4,7,45,True
+Ed Davis,1,2,14,1,Jump Shot,10,-103,21,True
+Ed Davis,2,11,31,0,Jump Shot,20,107,169,True
+Ed Davis,3,3,20,0,Jump Shot,5,-59,6,True
+Ed Davis,2,11,38,0,Jump Shot,3,-33,4,True
+Ed Davis,2,8,19,1,Jump Shot,8,24,84,True
+Ed Davis,1,1,5,0,Layup Shot,2,16,17,True
+Ed Davis,1,3,26,1,Layup Shot,4,19,37,True
+Ed Davis,1,1,20,1,Layup Shot,5,-54,11,True
+Ed Davis,2,10,31,0,Layup Shot,5,-32,39,True
+Ed Davis,1,2,47,0,Layup Shot,2,-24,13,True
+Ed Davis,1,3,11,1,Layup Shot,1,-19,-3,True
+Ed Davis,2,10,22,1,Layup Shot,1,-17,-1,True
+Ed Davis,3,3,18,0,Layup Shot,4,-18,42,True
+Ed Davis,2,7,36,0,Layup Shot,2,3,23,True
+Ed Davis,3,4,39,1,Layup Shot,1,-8,13,True
+Ed Davis,1,3,30,1,Layup Shot,2,-19,17,True
+Ed Davis,4,9,38,0,Layup Shot,1,3,14,True
+Ed Davis,3,0,0,1,Layup Shot,0,9,-1,True
+Ed Davis,4,10,43,1,Layup Shot,1,-5,16,True
+Ed Davis,1,4,30,0,Layup Shot,4,30,36,True
+Ed Davis,3,0,50,1,Layup Shot,1,-19,6,True
+Ed Davis,4,10,43,1,Layup Shot,2,-6,27,True
+Ed Davis,1,1,14,0,Layup Shot,1,7,17,True
+Ed Davis,3,1,24,1,Layup Shot,4,-11,41,True
+Ed Davis,2,10,9,1,Layup Shot,1,-16,6,True
+Ed Davis,3,1,57,1,Layup Shot,1,-8,11,True
+Ed Davis,4,10,26,0,Layup Shot,6,-34,57,True
+Ed Davis,1,3,12,0,Layup Shot,3,0,34,True
+Ed Davis,1,1,0,1,Layup Shot,5,-9,54,True
+Ed Davis,1,2,3,1,Layup Shot,7,-46,54,True
+Ed Davis,2,7,28,0,Layup Shot,1,-8,-7,True
+Ed Davis,4,4,39,0,Layup Shot,2,-1,21,True
+Ed Davis,3,0,47,1,Layup Shot,1,6,9,True
+Ed Davis,2,11,29,1,Layup Shot,1,-7,16,True
+Ed Davis,1,1,0,1,Layup Shot,4,3,43,True
+Ed Davis,2,9,56,0,Layup Shot,1,-5,11,True
+Ed Davis,2,9,10,1,Layup Shot,1,17,9,True
+Ed Davis,2,9,6,0,Layup Shot,2,-16,20,True
+Ed Davis,3,3,47,1,Layup Shot,1,-2,11,True
+Ed Davis,3,1,46,0,Layup Shot,1,12,14,True
+Ed Davis,2,9,23,0,Layup Shot,1,-16,7,True
+Ed Davis,3,1,8,0,Layup Shot,1,-14,14,True
+Ed Davis,3,0,2,0,Layup Shot,2,19,20,True
+Ed Davis,2,8,15,1,Layup Shot,1,-17,6,True
+Ed Davis,1,0,43,0,Layup Shot,1,5,9,True
+Ed Davis,2,2,8,1,Layup Shot,1,-11,9,True
+Ed Davis,2,1,36,0,Layup Shot,2,-2,24,True
+Ed Davis,3,3,16,1,Layup Shot,1,9,14,True
+Ed Davis,3,5,4,1,Layup Shot,2,5,21,True
+Ed Davis,3,3,16,0,Layup Shot,3,1,34,True
+Ed Davis,2,10,43,1,Layup Shot,1,-14,12,True
+Ed Davis,1,0,21,0,Layup Shot,1,-13,10,True
+Ed Davis,2,11,13,1,Layup Shot,3,18,24,True
+Ed Davis,3,1,30,0,Layup Shot,2,-6,21,True
+Ed Davis,3,4,7,0,Layup Shot,4,-30,31,True
+Ed Davis,1,6,58,1,Layup Shot,3,-29,10,True
+Ed Davis,2,6,53,1,Layup Shot,1,-13,0,True
+Ed Davis,3,6,13,0,Layup Shot,1,-19,5,True
+Ed Davis,1,9,20,0,Layup Shot,3,-39,0,True
+Ed Davis,2,7,20,1,Layup Shot,0,-6,4,True
+Ed Davis,4,10,57,0,Layup Shot,3,7,32,True
+Ed Davis,3,1,24,1,Layup Shot,1,-9,5,True
+Ed Davis,1,0,33,1,Layup Shot,2,18,10,True
+Ed Davis,4,9,34,0,Layup Shot,3,-21,26,True
+Ed Davis,1,3,42,0,Layup Shot,5,-11,55,True
+Ed Davis,4,4,12,1,Layup Shot,1,6,9,True
+Ed Davis,3,1,57,0,Layup Shot,2,20,5,True
+Ed Davis,2,9,30,0,Layup Shot,2,19,20,True
+Ed Davis,2,6,3,0,Layup Shot,0,-3,8,True
+Ed Davis,2,5,54,0,Layup Shot,1,2,12,True
+Ed Davis,1,0,8,1,Layup Shot,1,9,13,True
+Ed Davis,1,5,23,0,Layup Shot,2,-13,27,True
+Ed Davis,4,9,53,0,Layup Shot,1,-13,14,True
+Ed Davis,2,5,20,1,Layup Shot,2,-6,22,True
+Ed Davis,4,8,18,1,Layup Shot,1,-5,11,True
+Ed Davis,2,8,2,1,Layup Shot,1,-11,4,True
+Ed Davis,2,7,51,0,Layup Shot,1,1,19,True
+Ed Davis,4,9,49,1,Putback Dunk Shot,0,3,6,True
+Ed Davis,2,10,2,1,Putback Dunk Shot,0,0,-6,True
+Ed Davis,1,1,15,1,Putback Dunk Shot,1,-3,13,True
+Ed Davis,4,7,11,1,Putback Layup Shot,2,-18,11,True
+Ed Davis,2,10,14,1,Putback Layup Shot,0,0,-6,True
+Ed Davis,2,9,44,1,Putback Layup Shot,0,0,-6,True
+Ed Davis,1,3,0,1,Putback Layup Shot,0,0,-6,True
+Ed Davis,2,9,50,0,Putback Layup Shot,2,-10,25,True
+Ed Davis,2,9,6,1,Putback Layup Shot,1,9,11,True
+Ed Davis,3,1,58,1,Putback Layup Shot,0,0,-6,True
+Ed Davis,2,10,22,1,Putback Layup Shot,0,-2,8,True
+Ed Davis,3,2,28,1,Putback Layup Shot,0,-4,3,True
+Ed Davis,1,1,58,1,Putback Layup Shot,1,-9,6,True
+Ed Davis,4,8,51,1,Putback Layup Shot,0,5,8,True
+Ed Davis,1,2,11,1,Putback Layup Shot,0,0,-6,True
+Ed Davis,2,11,8,1,Putback Layup Shot,1,-11,10,True
+Ed Davis,2,8,33,1,Putback Layup Shot,0,0,-6,True
+Ed Davis,2,11,25,0,Reverse Layup Shot,1,16,8,True
+Ed Davis,3,5,23,0,Reverse Layup Shot,3,-14,33,True
+Ed Davis,3,1,1,1,Reverse Layup Shot,1,-13,4,True
+Ed Davis,2,7,33,1,Reverse Layup Shot,1,-13,4,True
+Ed Davis,2,8,34,1,Reverse Layup Shot,0,-5,-1,True
+Ed Davis,3,3,5,1,Running Dunk Shot,0,2,1,True
+Ed Davis,2,0,0,0,Running Jump Shot,53,-195,498,False
+Ed Davis,2,8,7,1,Tip Dunk Shot,0,0,-6,True
+Ed Davis,4,8,49,1,Tip Dunk Shot,0,0,-6,True
+Ed Davis,3,2,49,1,Tip Dunk Shot,0,0,-6,True
+Ed Davis,4,11,25,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,1,0,28,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,1,5,41,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,2,10,5,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,3,1,36,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,4,10,45,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,2,8,2,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,2,9,25,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,4,11,25,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,2,9,28,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,4,3,45,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,2,9,54,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,3,8,39,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,3,0,3,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,4,6,41,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,1,0,19,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,4,5,48,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,2,9,59,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,2,4,58,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,1,2,55,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,2,6,18,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,1,1,45,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,2,8,14,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,1,1,10,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,4,11,33,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,1,5,40,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,3,0,21,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,3,1,37,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,4,8,14,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,1,4,48,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,4,7,50,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,2,8,10,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,4,8,14,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,1,5,23,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,3,6,57,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,4,8,8,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,1,2,14,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,1,0,2,1,Tip Layup Shot,0,0,-6,True
+Ed Davis,1,0,2,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,1,0,59,0,Tip Layup Shot,0,0,-6,True
+Ed Davis,3,3,22,0,Turnaround Bank Hook Shot,11,-84,79,True
+Ed Davis,2,7,27,1,Turnaround Bank Hook Shot,4,-15,43,True
+Ed Davis,1,0,58,0,Turnaround Fadeaway Bank Jump Shot,5,-46,23,True
+Ed Davis,2,9,37,0,Turnaround Fadeaway Bank Jump Shot,5,35,42,True
+Ed Davis,3,4,20,1,Turnaround Hook Shot,2,4,27,True
+Ed Davis,2,9,36,0,Turnaround Hook Shot,12,125,10,True
+Ed Davis,4,8,37,0,Turnaround Hook Shot,3,26,20,True
+Ed Davis,1,5,32,1,Turnaround Hook Shot,6,-40,45,True
+Ed Davis,3,1,26,0,Turnaround Hook Shot,11,5,117,True
+Ed Davis,2,11,41,0,Turnaround Hook Shot,9,-93,5,True
+Ed Davis,3,1,25,1,Turnaround Hook Shot,6,-47,44,True
+Ed Davis,2,7,27,1,Turnaround Hook Shot,1,9,5,True
+Ed Davis,1,0,0,0,Turnaround Hook Shot,10,-24,99,True
+Ed Davis,4,10,23,0,Turnaround Hook Shot,6,19,59,True
+Ed Davis,4,0,58,0,Turnaround Hook Shot,6,-49,42,True
+Ed Davis,4,11,14,1,Turnaround Hook Shot,5,-52,15,True
+Ed Davis,2,11,43,0,Turnaround Hook Shot,3,-29,9,True
+Ed Davis,1,5,47,0,Turnaround Jump Shot,5,-40,35,True
+Ed Davis,4,11,3,0,Turnaround Jump Shot,9,-55,72,True
+Ed Davis,1,2,4,0,Turnaround Jump Shot,2,22,16,True
+Ed Davis,2,9,16,0,Turnaround Jump Shot,9,62,78,True

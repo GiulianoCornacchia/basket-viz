@@ -1,0 +1,470 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Trey Lyles,2,10,10,1,Alley Oop Dunk Shot,0,-9,-1,True
+Trey Lyles,2,11,34,1,Alley Oop Dunk Shot,1,-11,6,True
+Trey Lyles,3,2,9,1,Alley Oop Layup shot,2,0,20,True
+Trey Lyles,4,10,34,1,Alley Oop Layup shot,2,18,10,True
+Trey Lyles,2,11,42,1,Alley Oop Layup shot,3,-22,22,True
+Trey Lyles,2,8,23,1,Alley Oop Layup shot,2,-16,13,True
+Trey Lyles,2,1,1,1,Cutting Dunk Shot,1,8,13,True
+Trey Lyles,4,7,26,1,Cutting Dunk Shot,1,9,6,True
+Trey Lyles,1,0,3,0,Cutting Dunk Shot,0,-8,5,True
+Trey Lyles,4,7,57,1,Cutting Dunk Shot,0,2,0,True
+Trey Lyles,2,9,22,1,Cutting Dunk Shot,2,-2,21,True
+Trey Lyles,5,2,12,1,Cutting Dunk Shot,3,-2,31,True
+Trey Lyles,3,1,28,1,Cutting Dunk Shot,0,-6,1,True
+Trey Lyles,3,0,18,1,Cutting Finger Roll Layup Shot,2,20,16,True
+Trey Lyles,4,9,38,1,Cutting Layup Shot,0,-6,6,True
+Trey Lyles,2,6,20,0,Cutting Layup Shot,2,25,4,True
+Trey Lyles,1,2,49,1,Cutting Layup Shot,2,16,13,True
+Trey Lyles,2,6,44,1,Cutting Layup Shot,0,6,3,True
+Trey Lyles,2,7,33,0,Cutting Layup Shot,2,-13,17,True
+Trey Lyles,4,5,46,1,Cutting Layup Shot,1,0,16,True
+Trey Lyles,3,1,36,0,Cutting Layup Shot,4,-38,22,True
+Trey Lyles,4,11,30,1,Cutting Layup Shot,5,44,27,True
+Trey Lyles,4,1,27,1,Cutting Layup Shot,2,-23,17,True
+Trey Lyles,1,1,1,1,Cutting Layup Shot,0,5,4,True
+Trey Lyles,2,6,33,1,Cutting Layup Shot,2,-21,19,True
+Trey Lyles,4,8,8,1,Cutting Layup Shot,1,-5,15,True
+Trey Lyles,3,5,13,1,Cutting Layup Shot,1,0,13,True
+Trey Lyles,2,8,46,0,Cutting Layup Shot,3,-25,19,True
+Trey Lyles,1,1,55,1,Cutting Layup Shot,1,11,4,True
+Trey Lyles,2,7,2,1,Driving Dunk Shot,2,-1,26,True
+Trey Lyles,4,5,38,1,Driving Dunk Shot,2,-7,23,True
+Trey Lyles,2,8,5,1,Driving Dunk Shot,0,5,4,True
+Trey Lyles,4,6,31,1,Driving Dunk Shot,0,-8,4,True
+Trey Lyles,2,10,8,1,Driving Dunk Shot,1,13,8,True
+Trey Lyles,4,7,31,1,Driving Dunk Shot,1,0,18,True
+Trey Lyles,4,1,30,1,Driving Dunk Shot,2,-21,15,True
+Trey Lyles,4,7,35,1,Driving Dunk Shot,0,-6,-2,True
+Trey Lyles,4,4,34,1,Driving Dunk Shot,2,9,25,True
+Trey Lyles,3,8,7,1,Driving Dunk Shot,0,-8,2,True
+Trey Lyles,3,6,14,0,Driving Dunk Shot,2,-22,11,True
+Trey Lyles,1,10,52,1,Driving Dunk Shot,2,6,20,True
+Trey Lyles,1,2,40,1,Driving Finger Roll Layup Shot,3,29,15,True
+Trey Lyles,2,9,56,0,Driving Finger Roll Layup Shot,1,7,13,True
+Trey Lyles,4,0,46,1,Driving Finger Roll Layup Shot,1,-11,6,True
+Trey Lyles,4,1,21,1,Driving Finger Roll Layup Shot,3,-23,22,True
+Trey Lyles,1,2,53,0,Driving Floating Bank Jump Shot,4,-30,37,True
+Trey Lyles,3,0,28,1,Driving Floating Bank Jump Shot,10,96,49,True
+Trey Lyles,4,9,55,0,Driving Floating Jump Shot,4,-41,26,True
+Trey Lyles,2,7,38,1,Driving Floating Jump Shot,8,-58,59,True
+Trey Lyles,1,1,25,1,Driving Floating Jump Shot,11,-45,104,True
+Trey Lyles,2,10,21,0,Driving Floating Jump Shot,12,8,122,True
+Trey Lyles,1,0,38,1,Driving Floating Jump Shot,8,64,50,True
+Trey Lyles,1,0,3,1,Driving Floating Jump Shot,11,-105,43,True
+Trey Lyles,3,7,55,1,Driving Hook Shot,3,9,29,True
+Trey Lyles,1,0,59,0,Driving Hook Shot,1,7,14,True
+Trey Lyles,1,8,45,1,Driving Hook Shot,6,32,52,True
+Trey Lyles,4,1,10,1,Driving Layup Shot,1,-14,-1,True
+Trey Lyles,2,6,55,1,Driving Layup Shot,2,5,27,True
+Trey Lyles,2,7,11,1,Driving Layup Shot,2,-4,29,True
+Trey Lyles,2,0,34,0,Driving Layup Shot,3,6,30,True
+Trey Lyles,4,6,49,1,Driving Layup Shot,5,40,36,True
+Trey Lyles,1,3,42,1,Driving Layup Shot,3,27,16,True
+Trey Lyles,1,1,3,1,Driving Layup Shot,2,22,13,True
+Trey Lyles,3,3,22,1,Driving Layup Shot,2,20,16,True
+Trey Lyles,3,1,39,0,Driving Layup Shot,1,-10,6,True
+Trey Lyles,2,10,30,0,Driving Layup Shot,2,14,19,True
+Trey Lyles,4,10,48,1,Driving Layup Shot,0,0,4,True
+Trey Lyles,2,8,56,0,Driving Layup Shot,0,-2,1,True
+Trey Lyles,4,7,54,0,Driving Layup Shot,1,9,9,True
+Trey Lyles,1,1,11,0,Driving Layup Shot,0,0,8,True
+Trey Lyles,2,7,36,1,Driving Layup Shot,0,-8,-2,True
+Trey Lyles,2,8,44,0,Driving Layup Shot,3,0,38,True
+Trey Lyles,1,0,47,0,Driving Layup Shot,2,22,6,True
+Trey Lyles,1,0,57,0,Driving Layup Shot,4,36,25,True
+Trey Lyles,4,1,37,1,Driving Layup Shot,2,20,19,True
+Trey Lyles,4,10,29,1,Driving Layup Shot,1,-3,12,True
+Trey Lyles,1,3,35,0,Driving Layup Shot,1,7,11,True
+Trey Lyles,1,3,47,1,Driving Layup Shot,2,25,13,True
+Trey Lyles,4,7,32,0,Driving Layup Shot,0,-4,-1,True
+Trey Lyles,3,1,47,0,Driving Layup Shot,1,-1,10,True
+Trey Lyles,4,5,22,0,Driving Layup Shot,2,-22,6,True
+Trey Lyles,4,7,18,1,Driving Layup Shot,2,23,16,True
+Trey Lyles,3,0,1,1,Driving Layup Shot,5,-3,50,True
+Trey Lyles,3,3,41,1,Driving Layup Shot,2,-20,16,True
+Trey Lyles,4,6,28,1,Driving Layup Shot,0,7,0,True
+Trey Lyles,2,6,41,1,Driving Layup Shot,3,-21,22,True
+Trey Lyles,1,0,41,0,Driving Layup Shot,3,-23,21,True
+Trey Lyles,4,11,36,1,Driving Layup Shot,1,-7,16,True
+Trey Lyles,4,8,18,1,Driving Layup Shot,2,-17,16,True
+Trey Lyles,2,1,37,1,Driving Layup Shot,3,1,34,True
+Trey Lyles,2,9,36,0,Driving Layup Shot,0,8,4,True
+Trey Lyles,2,3,48,1,Driving Layup Shot,1,-16,9,True
+Trey Lyles,4,1,8,1,Driving Layup Shot,1,-9,15,True
+Trey Lyles,4,11,3,0,Driving Layup Shot,4,34,24,True
+Trey Lyles,2,6,57,0,Driving Layup Shot,1,-14,9,True
+Trey Lyles,4,6,57,0,Driving Layup Shot,2,-14,26,True
+Trey Lyles,4,7,55,0,Driving Layup Shot,2,-2,25,True
+Trey Lyles,4,8,55,0,Driving Layup Shot,4,-41,25,True
+Trey Lyles,4,9,4,0,Driving Layup Shot,1,9,17,True
+Trey Lyles,4,11,20,1,Driving Layup Shot,1,6,12,True
+Trey Lyles,4,0,26,1,Driving Layup Shot,2,-3,20,True
+Trey Lyles,3,0,7,1,Driving Layup Shot,1,1,10,True
+Trey Lyles,2,9,13,1,Driving Layup Shot,2,6,21,True
+Trey Lyles,4,8,59,1,Driving Layup Shot,1,-17,8,True
+Trey Lyles,2,11,5,1,Driving Layup Shot,8,36,75,True
+Trey Lyles,3,2,33,0,Driving Reverse Layup Shot,2,8,19,True
+Trey Lyles,2,5,17,0,Driving Reverse Layup Shot,1,12,14,True
+Trey Lyles,4,11,3,0,Driving Reverse Layup Shot,0,-4,1,True
+Trey Lyles,1,3,19,0,Driving Reverse Layup Shot,1,-8,17,True
+Trey Lyles,4,1,12,0,Driving Reverse Layup Shot,2,-6,29,True
+Trey Lyles,1,1,58,1,Dunk Shot,1,-15,8,True
+Trey Lyles,3,2,20,1,Dunk Shot,1,-6,8,True
+Trey Lyles,5,2,55,1,Dunk Shot,1,12,4,True
+Trey Lyles,3,3,42,1,Dunk Shot,0,-2,9,True
+Trey Lyles,4,11,15,1,Dunk Shot,0,-4,3,True
+Trey Lyles,2,10,37,0,Dunk Shot,6,58,16,True
+Trey Lyles,2,8,15,1,Dunk Shot,2,11,19,True
+Trey Lyles,4,5,39,1,Dunk Shot,1,-6,12,True
+Trey Lyles,1,0,0,0,Fadeaway Jump Shot,22,-221,12,False
+Trey Lyles,4,9,59,0,Fadeaway Jump Shot,13,-130,49,True
+Trey Lyles,4,11,22,0,Fadeaway Jump Shot,3,23,22,True
+Trey Lyles,4,6,54,1,Fadeaway Jump Shot,12,-111,53,True
+Trey Lyles,4,2,29,0,Fadeaway Jump Shot,9,96,25,True
+Trey Lyles,1,5,25,0,Fadeaway Jump Shot,18,-7,180,True
+Trey Lyles,2,0,32,1,Floating Jump shot,3,-32,23,True
+Trey Lyles,4,7,46,0,Floating Jump shot,10,-3,107,True
+Trey Lyles,4,5,53,0,Floating Jump shot,7,-57,55,True
+Trey Lyles,3,3,32,0,Floating Jump shot,8,-49,73,True
+Trey Lyles,3,1,27,1,Floating Jump shot,4,7,43,True
+Trey Lyles,4,8,0,1,Floating Jump shot,12,41,119,True
+Trey Lyles,2,6,20,0,Floating Jump shot,3,-10,35,True
+Trey Lyles,4,9,56,0,Floating Jump shot,12,-24,126,True
+Trey Lyles,4,10,33,1,Hook Bank Shot,3,4,32,True
+Trey Lyles,4,11,4,0,Hook Shot,6,-5,60,True
+Trey Lyles,2,9,19,0,Hook Shot,5,0,53,True
+Trey Lyles,3,4,29,1,Hook Shot,6,0,64,True
+Trey Lyles,2,9,59,0,Hook Shot,7,3,72,True
+Trey Lyles,1,2,40,0,Hook Shot,7,-2,73,True
+Trey Lyles,2,6,31,0,Hook Shot,6,-65,25,True
+Trey Lyles,2,11,46,0,Hook Shot,7,-36,67,True
+Trey Lyles,3,4,25,1,Hook Shot,3,-10,35,True
+Trey Lyles,4,10,32,1,Jump Bank Shot,10,-49,91,True
+Trey Lyles,3,3,9,1,Jump Shot,25,-232,95,False
+Trey Lyles,2,5,25,0,Jump Shot,25,-137,215,False
+Trey Lyles,4,10,56,1,Jump Shot,22,229,21,False
+Trey Lyles,2,10,21,0,Jump Shot,25,-143,214,False
+Trey Lyles,2,10,42,0,Jump Shot,24,168,180,False
+Trey Lyles,4,9,9,0,Jump Shot,22,-222,11,False
+Trey Lyles,4,9,29,0,Jump Shot,22,226,30,False
+Trey Lyles,2,5,42,0,Jump Shot,24,-14,249,False
+Trey Lyles,4,11,5,1,Jump Shot,23,-230,-5,False
+Trey Lyles,4,8,6,0,Jump Shot,23,-226,43,False
+Trey Lyles,2,5,48,1,Jump Shot,25,1,251,False
+Trey Lyles,1,2,27,0,Jump Shot,26,165,204,False
+Trey Lyles,3,0,30,1,Jump Shot,23,-225,79,False
+Trey Lyles,4,8,24,0,Jump Shot,24,116,221,False
+Trey Lyles,4,5,47,1,Jump Shot,22,-228,20,False
+Trey Lyles,2,8,17,0,Jump Shot,25,89,237,False
+Trey Lyles,4,10,46,0,Jump Shot,24,-180,172,False
+Trey Lyles,1,3,51,0,Jump Shot,25,-161,193,False
+Trey Lyles,2,11,45,0,Jump Shot,25,149,209,False
+Trey Lyles,4,9,0,0,Jump Shot,25,-46,255,False
+Trey Lyles,1,0,0,1,Jump Shot,25,48,252,False
+Trey Lyles,3,0,37,1,Jump Shot,26,-18,263,False
+Trey Lyles,2,7,36,0,Jump Shot,26,-58,258,False
+Trey Lyles,2,8,53,0,Jump Shot,25,79,238,False
+Trey Lyles,2,8,32,0,Jump Shot,22,-229,21,False
+Trey Lyles,1,2,33,1,Jump Shot,24,-25,242,False
+Trey Lyles,1,1,43,0,Jump Shot,25,-56,246,False
+Trey Lyles,1,1,53,0,Jump Shot,24,-122,214,False
+Trey Lyles,3,3,26,1,Jump Shot,24,-185,162,False
+Trey Lyles,3,0,55,0,Jump Shot,26,-158,217,False
+Trey Lyles,1,0,28,0,Jump Shot,23,183,153,False
+Trey Lyles,3,0,27,0,Jump Shot,23,-230,22,False
+Trey Lyles,1,2,51,0,Jump Shot,23,235,3,False
+Trey Lyles,2,9,40,0,Jump Shot,24,-82,229,False
+Trey Lyles,1,1,43,0,Jump Shot,25,-76,243,False
+Trey Lyles,4,5,8,0,Jump Shot,26,-103,241,False
+Trey Lyles,1,3,1,1,Jump Shot,22,228,22,False
+Trey Lyles,2,9,59,0,Jump Shot,23,-233,-4,False
+Trey Lyles,1,1,13,0,Jump Shot,24,-190,158,False
+Trey Lyles,2,6,50,1,Jump Shot,24,-93,226,False
+Trey Lyles,2,9,53,0,Jump Shot,22,-224,26,False
+Trey Lyles,2,7,22,1,Jump Shot,22,226,22,False
+Trey Lyles,3,6,21,0,Jump Shot,22,-222,-2,False
+Trey Lyles,4,10,13,0,Jump Shot,24,-193,148,False
+Trey Lyles,2,5,8,0,Jump Shot,25,-41,254,False
+Trey Lyles,3,0,43,0,Jump Shot,16,-157,38,True
+Trey Lyles,2,11,32,0,Jump Shot,25,-186,174,False
+Trey Lyles,3,1,17,0,Jump Shot,24,-18,242,False
+Trey Lyles,1,0,50,0,Jump Shot,3,23,25,True
+Trey Lyles,1,3,51,0,Jump Shot,25,-199,156,False
+Trey Lyles,2,9,20,1,Jump Shot,24,-42,242,False
+Trey Lyles,4,8,27,0,Jump Shot,25,-121,221,False
+Trey Lyles,2,11,5,1,Jump Shot,24,13,246,False
+Trey Lyles,2,0,42,1,Jump Shot,24,-206,129,False
+Trey Lyles,4,10,30,1,Jump Shot,25,-186,169,False
+Trey Lyles,4,4,47,1,Jump Shot,24,-177,167,False
+Trey Lyles,1,0,8,0,Jump Shot,25,-146,205,False
+Trey Lyles,2,6,24,0,Jump Shot,25,119,226,False
+Trey Lyles,2,8,59,0,Jump Shot,25,-85,241,False
+Trey Lyles,1,1,6,1,Jump Shot,24,-228,75,False
+Trey Lyles,2,11,31,1,Jump Shot,26,147,216,False
+Trey Lyles,2,10,33,0,Jump Shot,26,120,233,False
+Trey Lyles,4,9,5,1,Jump Shot,13,139,0,True
+Trey Lyles,1,1,45,0,Jump Shot,25,4,252,False
+Trey Lyles,2,0,51,0,Jump Shot,24,189,157,False
+Trey Lyles,4,10,24,1,Jump Shot,23,230,21,False
+Trey Lyles,1,2,20,1,Jump Shot,25,-101,236,False
+Trey Lyles,2,1,30,1,Jump Shot,20,70,193,True
+Trey Lyles,1,0,42,0,Jump Shot,24,157,188,False
+Trey Lyles,4,8,21,1,Jump Shot,19,-191,4,True
+Trey Lyles,2,5,45,1,Jump Shot,25,169,193,False
+Trey Lyles,1,4,27,0,Jump Shot,23,-178,159,False
+Trey Lyles,2,1,42,0,Jump Shot,24,-69,231,False
+Trey Lyles,3,1,16,0,Jump Shot,22,-222,-1,False
+Trey Lyles,3,3,50,1,Jump Shot,25,163,200,False
+Trey Lyles,2,7,27,0,Jump Shot,25,-195,159,False
+Trey Lyles,1,1,35,0,Jump Shot,26,-3,264,False
+Trey Lyles,1,1,12,0,Jump Shot,21,-180,111,True
+Trey Lyles,2,10,38,1,Jump Shot,25,-137,210,False
+Trey Lyles,1,1,27,0,Jump Shot,25,-40,251,False
+Trey Lyles,1,1,19,0,Jump Shot,25,145,215,False
+Trey Lyles,4,11,27,0,Jump Shot,27,3,270,False
+Trey Lyles,1,4,11,0,Jump Shot,19,-90,168,True
+Trey Lyles,2,0,2,0,Jump Shot,25,-147,212,False
+Trey Lyles,1,0,37,0,Jump Shot,25,-168,186,False
+Trey Lyles,1,3,24,0,Jump Shot,22,-228,28,False
+Trey Lyles,1,3,37,0,Jump Shot,25,145,208,False
+Trey Lyles,3,1,38,1,Jump Shot,24,-199,141,False
+Trey Lyles,3,0,4,0,Jump Shot,24,31,244,False
+Trey Lyles,4,10,52,1,Jump Shot,26,-17,262,False
+Trey Lyles,3,2,17,0,Jump Shot,27,-35,268,False
+Trey Lyles,1,4,15,0,Jump Shot,9,-32,92,True
+Trey Lyles,3,4,21,1,Jump Shot,25,-174,181,False
+Trey Lyles,4,9,29,0,Jump Shot,25,4,251,False
+Trey Lyles,4,3,8,0,Jump Shot,24,-193,157,False
+Trey Lyles,2,10,22,1,Jump Shot,25,-57,245,False
+Trey Lyles,2,7,52,0,Jump Shot,24,-80,235,False
+Trey Lyles,4,10,43,1,Jump Shot,24,-114,222,False
+Trey Lyles,2,11,50,1,Jump Shot,24,-36,241,False
+Trey Lyles,3,3,10,1,Jump Shot,25,-181,180,False
+Trey Lyles,1,0,25,0,Jump Shot,25,-2,250,False
+Trey Lyles,4,4,53,0,Jump Shot,25,93,233,False
+Trey Lyles,3,1,59,0,Jump Shot,25,-6,251,False
+Trey Lyles,3,2,26,1,Jump Shot,24,63,237,False
+Trey Lyles,2,8,47,0,Jump Shot,26,-122,234,False
+Trey Lyles,1,4,58,0,Jump Shot,23,235,24,False
+Trey Lyles,3,0,48,0,Jump Shot,25,158,200,False
+Trey Lyles,2,11,27,1,Jump Shot,25,-18,257,False
+Trey Lyles,2,10,15,1,Jump Shot,26,-146,216,False
+Trey Lyles,2,10,7,1,Jump Shot,11,97,54,True
+Trey Lyles,2,0,33,1,Jump Shot,26,-34,259,False
+Trey Lyles,2,11,51,0,Jump Shot,22,-226,13,False
+Trey Lyles,1,4,35,1,Jump Shot,25,-9,252,False
+Trey Lyles,1,0,8,0,Jump Shot,25,-100,238,False
+Trey Lyles,4,11,27,1,Jump Shot,24,213,117,False
+Trey Lyles,3,0,29,0,Jump Shot,25,-5,253,False
+Trey Lyles,5,0,0,0,Jump Shot,27,-69,263,False
+Trey Lyles,3,2,33,1,Jump Shot,25,-73,240,False
+Trey Lyles,1,1,25,1,Jump Shot,24,-87,231,False
+Trey Lyles,2,11,37,0,Jump Shot,26,67,252,False
+Trey Lyles,1,4,14,0,Jump Shot,8,-84,14,True
+Trey Lyles,2,2,40,1,Jump Shot,27,82,261,False
+Trey Lyles,3,2,54,0,Jump Shot,24,-174,169,False
+Trey Lyles,2,1,58,1,Jump Shot,25,8,254,False
+Trey Lyles,1,1,28,1,Jump Shot,22,-225,-6,False
+Trey Lyles,1,10,0,1,Jump Shot,27,115,245,False
+Trey Lyles,3,10,29,0,Jump Shot,24,154,192,False
+Trey Lyles,2,10,15,1,Jump Shot,24,-218,121,False
+Trey Lyles,2,6,8,1,Jump Shot,25,27,253,False
+Trey Lyles,4,3,4,1,Jump Shot,25,-46,252,False
+Trey Lyles,2,10,16,0,Jump Shot,24,-230,95,False
+Trey Lyles,2,11,48,0,Jump Shot,26,-98,242,False
+Trey Lyles,4,11,26,0,Jump Shot,25,25,257,False
+Trey Lyles,2,11,25,0,Jump Shot,12,-122,6,True
+Trey Lyles,2,5,39,0,Jump Shot,26,3,260,False
+Trey Lyles,3,3,37,1,Jump Shot,27,-171,221,False
+Trey Lyles,3,2,47,0,Jump Shot,22,-228,15,False
+Trey Lyles,4,8,46,1,Jump Shot,26,-142,225,False
+Trey Lyles,1,1,35,1,Jump Shot,22,-225,-1,False
+Trey Lyles,2,10,31,1,Jump Shot,25,3,251,False
+Trey Lyles,1,3,16,1,Jump Shot,23,-228,58,False
+Trey Lyles,1,0,48,1,Jump Shot,25,-177,181,False
+Trey Lyles,4,4,32,0,Jump Shot,25,121,220,False
+Trey Lyles,2,9,24,0,Jump Shot,22,-226,13,False
+Trey Lyles,1,3,28,0,Jump Shot,25,221,120,False
+Trey Lyles,1,1,33,0,Jump Shot,23,-231,-29,False
+Trey Lyles,1,2,24,1,Jump Shot,23,230,54,False
+Trey Lyles,1,0,0,0,Jump Shot,57,122,567,False
+Trey Lyles,4,6,17,0,Jump Shot,25,-63,251,False
+Trey Lyles,1,1,1,0,Jump Shot,24,22,247,False
+Trey Lyles,4,3,27,1,Jump Shot,23,-230,27,False
+Trey Lyles,3,1,59,1,Jump Shot,24,230,80,False
+Trey Lyles,4,10,51,0,Jump Shot,22,-227,14,False
+Trey Lyles,3,3,54,0,Jump Shot,24,-204,132,False
+Trey Lyles,3,1,24,1,Jump Shot,24,-108,221,False
+Trey Lyles,4,5,4,0,Jump Shot,23,-234,11,False
+Trey Lyles,3,1,19,0,Jump Shot,25,-75,239,False
+Trey Lyles,4,6,12,1,Jump Shot,26,125,231,False
+Trey Lyles,4,2,0,0,Jump Shot,22,-93,201,True
+Trey Lyles,4,3,10,0,Jump Shot,18,44,181,True
+Trey Lyles,4,1,53,1,Jump Shot,25,-54,246,False
+Trey Lyles,4,0,43,0,Jump Shot,25,-14,257,False
+Trey Lyles,4,11,23,0,Jump Shot,26,194,178,False
+Trey Lyles,1,4,10,1,Jump Shot,26,-166,201,False
+Trey Lyles,3,2,34,1,Jump Shot,8,9,86,True
+Trey Lyles,3,4,28,0,Jump Shot,26,55,262,False
+Trey Lyles,2,10,34,1,Jump Shot,22,6,222,True
+Trey Lyles,4,2,12,0,Jump Shot,26,-172,207,False
+Trey Lyles,2,7,35,0,Jump Shot,26,-21,261,False
+Trey Lyles,2,9,10,0,Jump Shot,9,-53,79,True
+Trey Lyles,2,8,11,0,Jump Shot,13,-136,8,True
+Trey Lyles,2,10,47,0,Jump Shot,24,180,172,False
+Trey Lyles,4,3,27,0,Jump Shot,26,-3,263,False
+Trey Lyles,2,7,0,0,Jump Shot,25,-163,195,False
+Trey Lyles,2,10,41,1,Jump Shot,28,132,247,False
+Trey Lyles,4,8,4,1,Jump Shot,26,184,185,False
+Trey Lyles,1,1,17,0,Jump Shot,18,182,5,True
+Trey Lyles,4,5,29,1,Jump Shot,25,-202,162,False
+Trey Lyles,2,7,0,0,Jump Shot,26,-171,205,False
+Trey Lyles,4,4,21,0,Jump Shot,23,-237,18,False
+Trey Lyles,3,0,17,1,Jump Shot,28,-13,284,False
+Trey Lyles,4,7,36,1,Jump Shot,26,-35,262,False
+Trey Lyles,4,10,57,0,Layup Shot,2,-8,24,True
+Trey Lyles,1,0,46,1,Layup Shot,3,30,6,True
+Trey Lyles,4,1,26,0,Layup Shot,4,-40,16,True
+Trey Lyles,4,2,37,1,Layup Shot,2,-17,17,True
+Trey Lyles,2,5,17,0,Layup Shot,1,-14,3,True
+Trey Lyles,2,8,44,1,Layup Shot,2,13,23,True
+Trey Lyles,4,10,5,1,Layup Shot,2,-22,20,True
+Trey Lyles,4,7,57,0,Layup Shot,3,-9,37,True
+Trey Lyles,4,9,52,0,Layup Shot,1,-7,10,True
+Trey Lyles,2,7,15,1,Layup Shot,1,11,0,True
+Trey Lyles,4,3,34,1,Layup Shot,3,-28,12,True
+Trey Lyles,1,2,33,1,Layup Shot,3,6,35,True
+Trey Lyles,2,6,23,0,Layup Shot,3,30,25,True
+Trey Lyles,3,1,22,0,Layup Shot,2,-25,11,True
+Trey Lyles,4,2,31,1,Layup Shot,0,-6,7,True
+Trey Lyles,3,5,50,0,Layup Shot,2,-22,15,True
+Trey Lyles,4,6,7,0,Layup Shot,2,-11,23,True
+Trey Lyles,1,0,0,1,Layup Shot,3,-5,37,True
+Trey Lyles,3,1,0,0,Layup Shot,4,-16,43,True
+Trey Lyles,4,4,12,1,Layup Shot,2,-18,16,True
+Trey Lyles,3,0,18,0,Layup Shot,3,-30,-4,True
+Trey Lyles,4,6,44,1,Layup Shot,1,-14,4,True
+Trey Lyles,4,0,36,1,Layup Shot,0,9,-1,True
+Trey Lyles,4,0,13,1,Layup Shot,2,13,19,True
+Trey Lyles,4,8,15,0,Layup Shot,3,-12,28,True
+Trey Lyles,4,10,47,0,Layup Shot,2,-25,15,True
+Trey Lyles,2,3,19,0,Layup Shot,4,-19,39,True
+Trey Lyles,2,7,9,0,Layup Shot,6,-11,64,True
+Trey Lyles,3,0,44,0,Layup Shot,0,-3,8,True
+Trey Lyles,2,9,37,1,Layup Shot,1,14,5,True
+Trey Lyles,2,10,11,0,Pullup Jump shot,25,136,210,False
+Trey Lyles,3,0,37,0,Pullup Jump shot,25,-30,253,False
+Trey Lyles,2,11,41,0,Pullup Jump shot,16,-38,164,True
+Trey Lyles,3,3,15,0,Pullup Jump shot,14,-122,75,True
+Trey Lyles,1,0,59,0,Pullup Jump shot,19,123,145,True
+Trey Lyles,4,3,41,0,Pullup Jump shot,25,-106,231,False
+Trey Lyles,3,0,16,0,Pullup Jump shot,8,79,16,True
+Trey Lyles,2,9,13,0,Pullup Jump shot,13,133,-6,True
+Trey Lyles,3,2,47,0,Pullup Jump shot,26,13,262,False
+Trey Lyles,2,9,30,1,Pullup Jump shot,13,-17,131,True
+Trey Lyles,1,4,35,1,Pullup Jump shot,16,148,64,True
+Trey Lyles,1,6,48,0,Pullup Jump shot,24,-15,245,False
+Trey Lyles,3,7,30,1,Pullup Jump shot,16,123,110,True
+Trey Lyles,4,0,43,0,Putback Dunk Shot,0,0,-6,True
+Trey Lyles,4,6,12,1,Putback Dunk Shot,1,4,17,True
+Trey Lyles,4,6,17,0,Putback Layup Shot,1,-16,10,True
+Trey Lyles,2,0,0,0,Putback Layup Shot,0,0,-6,True
+Trey Lyles,4,9,42,1,Putback Layup Shot,0,0,-6,True
+Trey Lyles,4,5,41,1,Putback Layup Shot,0,0,-6,True
+Trey Lyles,4,9,48,1,Reverse Dunk Shot,1,9,9,True
+Trey Lyles,4,8,27,0,Reverse Layup Shot,2,-25,8,True
+Trey Lyles,4,8,48,0,Reverse Layup Shot,1,10,-1,True
+Trey Lyles,1,1,36,1,Reverse Layup Shot,1,5,17,True
+Trey Lyles,4,7,3,0,Reverse Layup Shot,1,13,14,True
+Trey Lyles,2,11,18,1,Reverse Layup Shot,0,6,1,True
+Trey Lyles,2,8,45,1,Reverse Layup Shot,1,-16,5,True
+Trey Lyles,4,5,19,0,Reverse Layup Shot,2,-20,12,True
+Trey Lyles,4,7,4,0,Reverse Layup Shot,2,26,13,True
+Trey Lyles,2,7,52,1,Reverse Layup Shot,3,-30,17,True
+Trey Lyles,4,6,21,0,Reverse Layup Shot,1,-15,8,True
+Trey Lyles,4,6,35,1,Reverse Layup Shot,2,-2,22,True
+Trey Lyles,4,6,53,1,Reverse Layup Shot,2,-22,18,True
+Trey Lyles,2,7,26,1,Running Dunk Shot,1,4,16,True
+Trey Lyles,3,2,39,1,Running Dunk Shot,2,0,29,True
+Trey Lyles,1,1,13,1,Running Dunk Shot,1,6,14,True
+Trey Lyles,1,0,0,1,Running Dunk Shot,1,8,10,True
+Trey Lyles,4,9,34,1,Running Dunk Shot,0,5,8,True
+Trey Lyles,3,0,0,1,Running Jump Shot,36,-175,321,False
+Trey Lyles,4,0,0,0,Running Jump Shot,38,-53,386,False
+Trey Lyles,2,6,20,1,Running Jump Shot,24,-60,242,False
+Trey Lyles,2,0,0,0,Running Jump Shot,50,-11,506,False
+Trey Lyles,1,0,0,0,Running Jump Shot,47,-180,441,False
+Trey Lyles,1,1,2,0,Running Jump Shot,4,-11,48,True
+Trey Lyles,2,8,46,1,Running Layup Shot,0,4,1,True
+Trey Lyles,1,1,17,0,Running Layup Shot,6,-28,62,True
+Trey Lyles,2,8,8,1,Running Layup Shot,1,11,13,True
+Trey Lyles,2,9,12,0,Running Layup Shot,3,-11,28,True
+Trey Lyles,3,3,56,1,Running Layup Shot,2,-20,10,True
+Trey Lyles,4,2,16,1,Running Layup Shot,5,-1,50,True
+Trey Lyles,2,0,41,1,Running Layup Shot,2,-23,15,True
+Trey Lyles,3,2,28,0,Running Layup Shot,5,54,6,True
+Trey Lyles,3,1,1,1,Running Layup Shot,4,1,42,True
+Trey Lyles,2,9,7,0,Running Layup Shot,6,-9,60,True
+Trey Lyles,2,6,50,0,Running Pull-Up Jump Shot,4,42,25,True
+Trey Lyles,2,6,40,0,Step Back Jump shot,22,-228,-8,False
+Trey Lyles,4,2,36,0,Step Back Jump shot,23,-229,52,False
+Trey Lyles,3,7,17,0,Step Back Jump shot,19,157,115,True
+Trey Lyles,2,5,25,0,Step Back Jump shot,25,-81,238,False
+Trey Lyles,2,3,3,0,Step Back Jump shot,22,-225,7,False
+Trey Lyles,3,0,44,0,Step Back Jump shot,8,-46,69,True
+Trey Lyles,2,6,18,0,Step Back Jump shot,25,231,103,False
+Trey Lyles,4,7,25,0,Step Back Jump shot,24,-8,246,False
+Trey Lyles,1,2,0,0,Step Back Jump shot,16,-168,13,True
+Trey Lyles,4,2,27,0,Step Back Jump shot,24,2,246,False
+Trey Lyles,1,1,42,1,Step Back Jump shot,23,9,230,True
+Trey Lyles,3,3,49,1,Step Back Jump shot,23,231,16,False
+Trey Lyles,3,0,41,0,Step Back Jump shot,25,-115,226,False
+Trey Lyles,1,2,9,1,Step Back Jump shot,22,222,8,False
+Trey Lyles,2,7,54,1,Step Back Jump shot,18,-114,149,True
+Trey Lyles,1,2,31,1,Step Back Jump shot,16,-139,83,True
+Trey Lyles,1,0,0,0,Step Back Jump shot,27,-38,275,False
+Trey Lyles,4,6,33,1,Tip Dunk Shot,0,0,-6,True
+Trey Lyles,4,9,52,1,Tip Layup Shot,0,0,-6,True
+Trey Lyles,4,7,40,1,Tip Layup Shot,0,0,-6,True
+Trey Lyles,4,3,51,1,Tip Layup Shot,0,0,-6,True
+Trey Lyles,4,1,23,1,Tip Layup Shot,0,0,-6,True
+Trey Lyles,4,9,25,1,Tip Layup Shot,0,0,-6,True
+Trey Lyles,4,9,49,0,Tip Layup Shot,3,-29,10,True
+Trey Lyles,3,4,49,0,Tip Layup Shot,0,0,-6,True
+Trey Lyles,4,9,29,0,Tip Layup Shot,1,5,11,True
+Trey Lyles,1,0,47,0,Tip Layup Shot,2,19,13,True
+Trey Lyles,4,10,4,1,Turnaround Fadeaway Bank Jump Shot,10,99,43,True
+Trey Lyles,4,11,39,1,Turnaround Fadeaway Bank Jump Shot,2,-15,15,True
+Trey Lyles,3,0,46,0,Turnaround Fadeaway shot,14,-60,128,True
+Trey Lyles,3,2,57,1,Turnaround Fadeaway shot,15,-107,115,True
+Trey Lyles,4,8,52,0,Turnaround Fadeaway shot,13,-101,96,True
+Trey Lyles,4,5,35,1,Turnaround Fadeaway shot,14,74,120,True
+Trey Lyles,1,6,37,1,Turnaround Fadeaway shot,10,-105,26,True
+Trey Lyles,4,11,46,1,Turnaround Fadeaway shot,11,39,106,True
+Trey Lyles,3,0,12,1,Turnaround Fadeaway shot,11,-9,119,True
+Trey Lyles,4,5,56,1,Turnaround Fadeaway shot,11,108,28,True
+Trey Lyles,3,1,52,0,Turnaround Fadeaway shot,13,-110,83,True
+Trey Lyles,1,1,22,0,Turnaround Fadeaway shot,13,102,86,True
+Trey Lyles,4,5,47,1,Turnaround Fadeaway shot,16,-87,143,True
+Trey Lyles,3,4,41,1,Turnaround Fadeaway shot,12,-117,38,True
+Trey Lyles,3,4,14,1,Turnaround Fadeaway shot,13,-20,137,True
+Trey Lyles,4,11,22,0,Turnaround Hook Shot,8,78,30,True
+Trey Lyles,3,1,16,1,Turnaround Hook Shot,11,113,25,True
+Trey Lyles,2,7,53,1,Turnaround Hook Shot,8,-35,82,True
+Trey Lyles,1,2,58,1,Turnaround Hook Shot,6,61,21,True
+Trey Lyles,3,6,23,0,Turnaround Hook Shot,9,90,27,True
+Trey Lyles,4,8,35,1,Turnaround Hook Shot,6,5,68,True
+Trey Lyles,4,5,12,0,Turnaround Hook Shot,6,63,8,True
+Trey Lyles,3,0,1,0,Turnaround Jump Shot,10,95,32,True
+Trey Lyles,1,2,52,0,Turnaround Jump Shot,10,-105,15,True
+Trey Lyles,3,0,2,1,Turnaround Jump Shot,7,10,70,True
+Trey Lyles,2,9,5,0,Turnaround Jump Shot,5,-7,57,True
+Trey Lyles,4,8,56,0,Turnaround Jump Shot,12,123,11,True
+Trey Lyles,2,9,18,1,Turnaround Jump Shot,2,2,28,True
+Trey Lyles,4,9,37,0,Turnaround Jump Shot,7,-20,71,True
+Trey Lyles,3,4,42,0,Turnaround Jump Shot,8,-62,55,True
+Trey Lyles,2,3,21,0,Turnaround Jump Shot,6,9,65,True
+Trey Lyles,2,8,37,1,Turnaround Jump Shot,7,8,75,True
+Trey Lyles,1,2,13,0,Turnaround Jump Shot,4,-40,16,True
+Trey Lyles,4,1,51,1,Turnaround Jump Shot,7,-40,62,True

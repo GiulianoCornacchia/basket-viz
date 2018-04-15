@@ -1,0 +1,439 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Anthony Tolliver,3,6,36,0,Alley Oop Layup shot,0,-4,8,True
+Anthony Tolliver,4,7,6,1,Cutting Dunk Shot,1,-2,10,True
+Anthony Tolliver,2,2,8,1,Cutting Finger Roll Layup Shot,1,-2,12,True
+Anthony Tolliver,3,3,32,0,Cutting Layup Shot,2,3,25,True
+Anthony Tolliver,2,9,13,1,Cutting Layup Shot,2,17,21,True
+Anthony Tolliver,4,10,34,1,Cutting Layup Shot,0,8,5,True
+Anthony Tolliver,1,7,29,1,Driving Dunk Shot,0,-6,7,True
+Anthony Tolliver,4,9,51,1,Driving Dunk Shot,0,-3,4,True
+Anthony Tolliver,4,8,31,1,Driving Dunk Shot,1,-13,8,True
+Anthony Tolliver,4,10,44,1,Driving Dunk Shot,1,-2,16,True
+Anthony Tolliver,1,0,36,1,Driving Dunk Shot,1,2,11,True
+Anthony Tolliver,4,10,56,1,Driving Finger Roll Layup Shot,1,-2,10,True
+Anthony Tolliver,4,5,9,0,Driving Finger Roll Layup Shot,1,-11,16,True
+Anthony Tolliver,3,5,44,1,Driving Finger Roll Layup Shot,2,16,13,True
+Anthony Tolliver,2,1,16,1,Driving Finger Roll Layup Shot,6,-57,21,True
+Anthony Tolliver,4,3,6,1,Driving Finger Roll Layup Shot,3,-26,26,True
+Anthony Tolliver,2,6,14,1,Driving Floating Bank Jump Shot,7,72,32,True
+Anthony Tolliver,2,10,48,0,Driving Floating Jump Shot,11,-103,40,True
+Anthony Tolliver,1,0,58,0,Driving Hook Shot,10,9,107,True
+Anthony Tolliver,3,11,4,1,Driving Layup Shot,2,12,17,True
+Anthony Tolliver,2,10,49,0,Driving Layup Shot,7,14,70,True
+Anthony Tolliver,2,6,26,1,Driving Layup Shot,3,24,21,True
+Anthony Tolliver,2,10,59,1,Driving Layup Shot,1,0,13,True
+Anthony Tolliver,4,10,29,0,Driving Layup Shot,3,28,21,True
+Anthony Tolliver,4,8,23,0,Driving Layup Shot,1,10,13,True
+Anthony Tolliver,2,8,30,0,Driving Layup Shot,4,-24,36,True
+Anthony Tolliver,2,3,12,1,Driving Layup Shot,3,32,7,True
+Anthony Tolliver,3,3,18,0,Driving Layup Shot,4,22,43,True
+Anthony Tolliver,2,4,43,1,Driving Layup Shot,5,-44,36,True
+Anthony Tolliver,2,10,25,1,Driving Layup Shot,8,71,38,True
+Anthony Tolliver,2,5,59,1,Driving Reverse Layup Shot,2,21,11,True
+Anthony Tolliver,2,5,44,0,Driving Reverse Layup Shot,1,-16,9,True
+Anthony Tolliver,1,7,36,1,Driving Reverse Layup Shot,2,20,13,True
+Anthony Tolliver,1,1,12,1,Driving Reverse Layup Shot,1,-9,7,True
+Anthony Tolliver,2,11,16,0,Driving Reverse Layup Shot,0,-3,2,True
+Anthony Tolliver,2,2,28,1,Driving Reverse Layup Shot,0,2,6,True
+Anthony Tolliver,4,8,14,1,Driving Reverse Layup Shot,1,-10,11,True
+Anthony Tolliver,1,10,19,1,Driving Reverse Layup Shot,0,6,-3,True
+Anthony Tolliver,3,10,28,1,Driving Reverse Layup Shot,1,16,2,True
+Anthony Tolliver,1,0,3,1,Driving Reverse Layup Shot,1,-15,3,True
+Anthony Tolliver,4,2,40,0,Dunk Shot,1,3,15,True
+Anthony Tolliver,3,0,21,0,Dunk Shot,2,20,5,True
+Anthony Tolliver,4,0,10,1,Dunk Shot,1,-5,13,True
+Anthony Tolliver,4,4,10,1,Dunk Shot,1,2,10,True
+Anthony Tolliver,4,1,46,1,Dunk Shot,1,7,15,True
+Anthony Tolliver,4,9,51,1,Dunk Shot,1,-3,10,True
+Anthony Tolliver,1,4,29,0,Fadeaway Jump Shot,11,-107,47,True
+Anthony Tolliver,2,9,51,1,Finger Roll Layup Shot,0,-1,6,True
+Anthony Tolliver,2,7,39,0,Finger Roll Layup Shot,5,10,53,True
+Anthony Tolliver,4,5,0,0,Floating Jump shot,9,-10,95,True
+Anthony Tolliver,4,7,10,0,Floating Jump shot,12,121,35,True
+Anthony Tolliver,4,8,48,0,Hook Shot,5,13,55,True
+Anthony Tolliver,4,9,29,0,Hook Shot,6,-60,22,True
+Anthony Tolliver,4,2,40,0,Hook Shot,2,12,19,True
+Anthony Tolliver,1,5,7,1,Jump Bank Shot,17,-116,131,True
+Anthony Tolliver,3,4,8,1,Jump Shot,23,232,2,False
+Anthony Tolliver,2,6,10,1,Jump Shot,27,-62,264,False
+Anthony Tolliver,3,2,27,1,Jump Shot,27,-219,167,False
+Anthony Tolliver,1,3,36,1,Jump Shot,24,242,56,False
+Anthony Tolliver,1,0,43,0,Jump Shot,23,-225,51,False
+Anthony Tolliver,4,5,14,0,Jump Shot,25,195,162,False
+Anthony Tolliver,4,10,47,0,Jump Shot,24,171,174,False
+Anthony Tolliver,3,3,9,0,Jump Shot,28,-136,253,False
+Anthony Tolliver,2,5,42,0,Jump Shot,25,-124,222,False
+Anthony Tolliver,1,3,51,0,Jump Shot,23,224,68,False
+Anthony Tolliver,2,11,34,0,Jump Shot,26,-180,189,False
+Anthony Tolliver,4,8,30,0,Jump Shot,27,-49,270,False
+Anthony Tolliver,3,0,5,1,Jump Shot,26,-30,262,False
+Anthony Tolliver,1,2,26,0,Jump Shot,25,142,215,False
+Anthony Tolliver,3,2,7,1,Jump Shot,25,117,225,False
+Anthony Tolliver,2,6,26,0,Jump Shot,25,149,211,False
+Anthony Tolliver,1,2,31,1,Jump Shot,25,-231,116,False
+Anthony Tolliver,4,7,46,1,Jump Shot,23,234,19,False
+Anthony Tolliver,1,1,17,0,Jump Shot,25,-185,179,False
+Anthony Tolliver,2,0,32,0,Jump Shot,23,226,54,False
+Anthony Tolliver,3,2,12,0,Jump Shot,27,175,215,False
+Anthony Tolliver,3,0,13,1,Jump Shot,24,-227,88,False
+Anthony Tolliver,3,1,43,1,Jump Shot,25,222,117,False
+Anthony Tolliver,4,11,44,0,Jump Shot,24,199,147,False
+Anthony Tolliver,2,4,24,1,Jump Shot,25,13,256,False
+Anthony Tolliver,4,9,18,0,Jump Shot,22,-226,13,False
+Anthony Tolliver,1,1,40,0,Jump Shot,23,-231,-2,False
+Anthony Tolliver,4,10,0,0,Jump Shot,26,19,267,False
+Anthony Tolliver,4,11,19,1,Jump Shot,25,166,193,False
+Anthony Tolliver,2,8,45,1,Jump Shot,25,-220,122,False
+Anthony Tolliver,4,6,18,0,Jump Shot,25,172,184,False
+Anthony Tolliver,2,8,38,0,Jump Shot,27,-224,151,False
+Anthony Tolliver,5,0,5,0,Jump Shot,26,-97,248,False
+Anthony Tolliver,4,7,23,0,Jump Shot,24,145,197,False
+Anthony Tolliver,4,7,54,1,Jump Shot,26,-84,251,False
+Anthony Tolliver,4,11,36,1,Jump Shot,25,9,256,False
+Anthony Tolliver,2,8,3,0,Jump Shot,24,206,126,False
+Anthony Tolliver,1,0,1,1,Jump Shot,26,-139,231,False
+Anthony Tolliver,2,9,28,0,Jump Shot,27,113,247,False
+Anthony Tolliver,1,0,26,1,Jump Shot,22,-224,11,False
+Anthony Tolliver,4,5,26,0,Jump Shot,25,-195,161,False
+Anthony Tolliver,1,1,42,1,Jump Shot,24,-111,218,False
+Anthony Tolliver,3,0,41,0,Jump Shot,25,-18,253,False
+Anthony Tolliver,2,5,15,0,Jump Shot,23,230,5,False
+Anthony Tolliver,2,10,56,0,Jump Shot,16,-158,38,True
+Anthony Tolliver,3,2,37,0,Jump Shot,28,-66,280,False
+Anthony Tolliver,4,1,27,1,Jump Shot,27,3,274,False
+Anthony Tolliver,4,7,44,0,Jump Shot,22,221,29,False
+Anthony Tolliver,2,5,59,1,Jump Shot,25,-107,235,False
+Anthony Tolliver,4,11,15,0,Jump Shot,25,193,167,False
+Anthony Tolliver,3,4,57,0,Jump Shot,25,-235,92,False
+Anthony Tolliver,4,0,36,1,Jump Shot,26,-174,205,False
+Anthony Tolliver,1,0,44,0,Jump Shot,25,221,120,False
+Anthony Tolliver,3,1,45,1,Jump Shot,23,-232,15,False
+Anthony Tolliver,2,5,3,0,Jump Shot,25,-22,253,False
+Anthony Tolliver,4,5,48,1,Jump Shot,26,192,176,False
+Anthony Tolliver,2,7,2,1,Jump Shot,26,-94,243,False
+Anthony Tolliver,4,9,42,0,Jump Shot,26,195,183,False
+Anthony Tolliver,2,6,30,0,Jump Shot,25,-119,227,False
+Anthony Tolliver,2,4,28,0,Jump Shot,24,242,15,False
+Anthony Tolliver,3,2,48,1,Jump Shot,24,-161,183,False
+Anthony Tolliver,2,5,33,0,Jump Shot,26,-172,197,False
+Anthony Tolliver,4,11,51,1,Jump Shot,23,232,41,False
+Anthony Tolliver,3,3,27,0,Jump Shot,22,-227,0,False
+Anthony Tolliver,1,4,26,0,Jump Shot,23,231,43,False
+Anthony Tolliver,4,7,57,0,Jump Shot,25,-76,242,False
+Anthony Tolliver,2,6,44,0,Jump Shot,24,163,184,False
+Anthony Tolliver,2,7,59,1,Jump Shot,25,-183,180,False
+Anthony Tolliver,1,2,59,0,Jump Shot,25,230,104,False
+Anthony Tolliver,4,9,30,1,Jump Shot,25,-101,230,False
+Anthony Tolliver,4,0,7,0,Jump Shot,25,-48,253,False
+Anthony Tolliver,3,3,8,1,Jump Shot,22,225,22,False
+Anthony Tolliver,3,0,31,0,Jump Shot,22,224,25,False
+Anthony Tolliver,4,7,53,0,Jump Shot,25,-105,232,False
+Anthony Tolliver,4,10,58,0,Jump Shot,22,-223,-6,False
+Anthony Tolliver,3,0,1,1,Jump Shot,27,155,222,False
+Anthony Tolliver,2,11,14,1,Jump Shot,21,203,64,True
+Anthony Tolliver,4,9,57,1,Jump Shot,26,-123,239,False
+Anthony Tolliver,1,2,35,0,Jump Shot,25,-218,127,False
+Anthony Tolliver,2,10,36,1,Jump Shot,24,236,73,False
+Anthony Tolliver,4,3,56,0,Jump Shot,24,-241,7,False
+Anthony Tolliver,4,6,20,1,Jump Shot,29,-127,270,False
+Anthony Tolliver,4,3,33,1,Jump Shot,23,230,17,False
+Anthony Tolliver,3,1,4,0,Jump Shot,26,-176,195,False
+Anthony Tolliver,4,7,57,1,Jump Shot,25,245,84,False
+Anthony Tolliver,2,2,22,1,Jump Shot,26,160,207,False
+Anthony Tolliver,4,5,46,1,Jump Shot,26,-222,143,False
+Anthony Tolliver,4,6,27,0,Jump Shot,26,174,201,False
+Anthony Tolliver,2,3,48,0,Jump Shot,22,223,7,False
+Anthony Tolliver,1,3,20,1,Jump Shot,25,215,130,False
+Anthony Tolliver,2,5,28,0,Jump Shot,25,200,152,False
+Anthony Tolliver,3,8,37,0,Jump Shot,24,-201,145,False
+Anthony Tolliver,1,7,52,1,Jump Shot,25,140,210,False
+Anthony Tolliver,1,8,16,1,Jump Shot,24,-239,59,False
+Anthony Tolliver,1,9,59,1,Jump Shot,26,119,235,False
+Anthony Tolliver,4,10,5,0,Jump Shot,23,230,37,False
+Anthony Tolliver,2,10,12,1,Jump Shot,25,205,149,False
+Anthony Tolliver,4,4,46,1,Jump Shot,26,142,221,False
+Anthony Tolliver,3,6,26,0,Jump Shot,25,-192,171,False
+Anthony Tolliver,2,6,25,0,Jump Shot,23,236,42,False
+Anthony Tolliver,4,6,24,1,Jump Shot,26,49,257,False
+Anthony Tolliver,4,1,35,1,Jump Shot,26,104,243,False
+Anthony Tolliver,3,5,42,1,Jump Shot,24,-32,246,False
+Anthony Tolliver,4,3,42,0,Jump Shot,25,-87,242,False
+Anthony Tolliver,1,10,50,1,Jump Shot,24,-223,104,False
+Anthony Tolliver,2,6,35,0,Jump Shot,25,221,130,False
+Anthony Tolliver,3,6,15,0,Jump Shot,25,160,199,False
+Anthony Tolliver,1,3,51,1,Jump Shot,24,204,137,False
+Anthony Tolliver,2,3,6,0,Jump Shot,27,199,185,False
+Anthony Tolliver,3,7,31,1,Jump Shot,25,247,47,False
+Anthony Tolliver,1,8,29,1,Jump Shot,25,150,207,False
+Anthony Tolliver,4,5,37,0,Jump Shot,23,-232,22,False
+Anthony Tolliver,4,3,34,1,Jump Shot,29,229,182,False
+Anthony Tolliver,2,5,3,1,Jump Shot,27,217,165,False
+Anthony Tolliver,4,2,54,1,Jump Shot,25,171,187,False
+Anthony Tolliver,3,11,9,1,Jump Shot,23,-231,16,False
+Anthony Tolliver,1,11,2,1,Jump Shot,26,166,207,False
+Anthony Tolliver,3,3,34,1,Jump Shot,25,218,137,False
+Anthony Tolliver,1,3,24,1,Jump Shot,26,225,139,False
+Anthony Tolliver,3,6,42,0,Jump Shot,25,-138,220,False
+Anthony Tolliver,4,11,3,0,Jump Shot,22,-229,0,False
+Anthony Tolliver,4,1,20,1,Jump Shot,26,-166,201,False
+Anthony Tolliver,4,4,28,1,Jump Shot,23,-231,22,False
+Anthony Tolliver,3,3,33,0,Jump Shot,22,222,25,False
+Anthony Tolliver,2,8,31,0,Jump Shot,24,-171,180,False
+Anthony Tolliver,3,9,31,1,Jump Shot,25,-174,183,False
+Anthony Tolliver,1,5,47,0,Jump Shot,22,-221,58,False
+Anthony Tolliver,1,11,14,1,Jump Shot,25,-127,222,False
+Anthony Tolliver,1,10,10,1,Jump Shot,25,-183,177,False
+Anthony Tolliver,2,6,21,0,Jump Shot,27,41,269,False
+Anthony Tolliver,3,5,1,0,Jump Shot,28,199,208,False
+Anthony Tolliver,1,11,35,0,Jump Shot,26,105,247,False
+Anthony Tolliver,3,0,21,1,Jump Shot,25,-157,195,False
+Anthony Tolliver,3,6,10,0,Jump Shot,24,-96,222,False
+Anthony Tolliver,3,4,15,0,Jump Shot,22,-225,30,False
+Anthony Tolliver,3,7,44,1,Jump Shot,25,-124,220,False
+Anthony Tolliver,4,11,46,1,Jump Shot,24,-215,114,False
+Anthony Tolliver,1,0,50,0,Jump Shot,26,168,204,False
+Anthony Tolliver,4,9,19,0,Jump Shot,23,231,9,False
+Anthony Tolliver,2,7,51,1,Jump Shot,25,121,227,False
+Anthony Tolliver,4,3,45,0,Jump Shot,25,91,236,False
+Anthony Tolliver,1,3,9,1,Jump Shot,22,-228,17,False
+Anthony Tolliver,2,11,16,0,Jump Shot,24,157,194,False
+Anthony Tolliver,4,11,19,0,Jump Shot,27,-176,214,False
+Anthony Tolliver,4,10,2,0,Jump Shot,27,-153,231,False
+Anthony Tolliver,4,11,0,1,Jump Shot,25,-183,179,False
+Anthony Tolliver,4,9,8,0,Jump Shot,26,1,266,False
+Anthony Tolliver,2,10,12,0,Jump Shot,25,-65,246,False
+Anthony Tolliver,3,0,33,1,Jump Shot,26,125,230,False
+Anthony Tolliver,4,8,38,1,Jump Shot,25,-180,182,False
+Anthony Tolliver,2,7,39,0,Jump Shot,27,169,220,False
+Anthony Tolliver,2,6,1,0,Jump Shot,25,-202,154,False
+Anthony Tolliver,2,6,45,0,Jump Shot,24,92,226,False
+Anthony Tolliver,4,9,4,1,Jump Shot,23,232,-2,False
+Anthony Tolliver,2,8,34,1,Jump Shot,25,-78,238,False
+Anthony Tolliver,2,5,39,0,Jump Shot,25,-219,121,False
+Anthony Tolliver,4,9,21,0,Jump Shot,27,-87,258,False
+Anthony Tolliver,3,3,8,0,Jump Shot,22,223,42,False
+Anthony Tolliver,2,0,0,0,Jump Shot,25,-11,258,False
+Anthony Tolliver,4,3,19,1,Jump Shot,23,229,-22,False
+Anthony Tolliver,3,5,40,0,Jump Shot,24,-190,157,False
+Anthony Tolliver,2,1,47,0,Jump Shot,26,-196,173,False
+Anthony Tolliver,3,6,56,0,Jump Shot,25,-90,235,False
+Anthony Tolliver,2,7,33,0,Jump Shot,26,78,251,False
+Anthony Tolliver,4,11,38,0,Jump Shot,26,119,241,False
+Anthony Tolliver,4,1,6,0,Jump Shot,25,-174,192,False
+Anthony Tolliver,4,9,43,1,Jump Shot,25,70,250,False
+Anthony Tolliver,4,2,15,0,Jump Shot,28,220,178,False
+Anthony Tolliver,2,8,13,0,Jump Shot,25,174,186,False
+Anthony Tolliver,3,9,16,1,Jump Shot,25,128,217,False
+Anthony Tolliver,2,0,52,1,Jump Shot,25,-91,239,False
+Anthony Tolliver,3,7,45,0,Jump Shot,24,-133,210,False
+Anthony Tolliver,3,5,11,0,Jump Shot,22,223,-14,False
+Anthony Tolliver,4,2,46,0,Jump Shot,23,-231,44,False
+Anthony Tolliver,3,3,18,1,Jump Shot,25,89,243,False
+Anthony Tolliver,4,2,32,0,Jump Shot,25,92,241,False
+Anthony Tolliver,1,3,40,0,Jump Shot,24,-185,164,False
+Anthony Tolliver,3,1,17,0,Jump Shot,25,101,230,False
+Anthony Tolliver,2,7,9,0,Jump Shot,24,-157,184,False
+Anthony Tolliver,4,7,21,1,Jump Shot,26,-172,197,False
+Anthony Tolliver,4,7,41,0,Jump Shot,28,-174,223,False
+Anthony Tolliver,2,3,35,1,Jump Shot,26,-13,263,False
+Anthony Tolliver,3,0,50,0,Jump Shot,24,138,200,False
+Anthony Tolliver,4,1,56,0,Jump Shot,22,223,17,False
+Anthony Tolliver,4,3,33,1,Jump Shot,20,-204,-4,True
+Anthony Tolliver,4,3,58,0,Jump Shot,27,-104,257,False
+Anthony Tolliver,2,0,55,0,Jump Shot,28,121,253,False
+Anthony Tolliver,3,3,24,0,Jump Shot,27,128,247,False
+Anthony Tolliver,2,6,9,0,Jump Shot,23,231,59,False
+Anthony Tolliver,1,1,21,1,Jump Shot,26,-184,187,False
+Anthony Tolliver,2,9,24,0,Jump Shot,22,222,29,False
+Anthony Tolliver,1,0,34,1,Jump Shot,24,183,162,False
+Anthony Tolliver,4,0,25,0,Jump Shot,24,224,109,False
+Anthony Tolliver,3,2,49,0,Jump Shot,28,163,234,False
+Anthony Tolliver,4,1,49,1,Jump Shot,23,228,64,False
+Anthony Tolliver,4,11,12,1,Jump Shot,28,95,271,False
+Anthony Tolliver,1,0,21,0,Jump Shot,24,223,101,False
+Anthony Tolliver,3,8,36,1,Jump Shot,25,111,234,False
+Anthony Tolliver,4,4,35,0,Jump Shot,24,-199,143,False
+Anthony Tolliver,3,6,15,1,Jump Shot,23,235,-7,False
+Anthony Tolliver,2,2,2,0,Jump Shot,24,232,75,False
+Anthony Tolliver,2,8,42,0,Jump Shot,25,-24,251,False
+Anthony Tolliver,1,10,10,1,Jump Shot,26,134,234,False
+Anthony Tolliver,1,9,21,0,Jump Shot,25,-69,245,False
+Anthony Tolliver,2,6,46,1,Jump Shot,25,172,182,False
+Anthony Tolliver,3,5,6,0,Jump Shot,25,114,232,False
+Anthony Tolliver,1,10,39,1,Jump Shot,23,229,22,False
+Anthony Tolliver,1,2,15,1,Jump Shot,24,245,41,False
+Anthony Tolliver,1,6,26,1,Jump Shot,27,-111,247,False
+Anthony Tolliver,4,0,15,0,Jump Shot,5,2,54,True
+Anthony Tolliver,2,7,27,0,Jump Shot,24,198,146,False
+Anthony Tolliver,4,6,54,1,Jump Shot,24,-214,126,False
+Anthony Tolliver,3,0,38,0,Jump Shot,26,79,258,False
+Anthony Tolliver,4,7,23,0,Jump Shot,25,206,148,False
+Anthony Tolliver,4,9,20,0,Jump Shot,23,235,20,False
+Anthony Tolliver,4,8,37,0,Jump Shot,25,232,109,False
+Anthony Tolliver,4,9,17,1,Jump Shot,25,-229,117,False
+Anthony Tolliver,4,10,26,1,Jump Shot,23,232,5,False
+Anthony Tolliver,4,11,43,0,Jump Shot,26,178,191,False
+Anthony Tolliver,3,2,6,1,Jump Shot,25,-118,224,False
+Anthony Tolliver,2,8,4,0,Jump Shot,22,221,6,False
+Anthony Tolliver,4,0,11,0,Jump Shot,28,220,185,False
+Anthony Tolliver,2,7,49,1,Jump Shot,24,217,121,False
+Anthony Tolliver,4,5,52,0,Jump Shot,22,-229,0,False
+Anthony Tolliver,3,6,23,0,Jump Shot,27,-106,254,False
+Anthony Tolliver,3,1,34,1,Jump Shot,25,218,133,False
+Anthony Tolliver,2,10,3,1,Jump Shot,25,88,240,False
+Anthony Tolliver,2,7,27,1,Jump Shot,27,-99,253,False
+Anthony Tolliver,4,9,50,1,Jump Shot,22,-228,-15,False
+Anthony Tolliver,2,10,27,0,Jump Shot,22,228,-6,False
+Anthony Tolliver,3,0,29,1,Jump Shot,24,-62,240,False
+Anthony Tolliver,4,4,56,1,Jump Shot,24,221,109,False
+Anthony Tolliver,3,1,36,0,Jump Shot,24,-171,181,False
+Anthony Tolliver,2,5,19,1,Jump Shot,24,-218,117,False
+Anthony Tolliver,2,7,32,0,Jump Shot,26,50,257,False
+Anthony Tolliver,2,5,37,0,Jump Shot,25,232,96,False
+Anthony Tolliver,3,9,29,0,Jump Shot,25,103,238,False
+Anthony Tolliver,2,8,51,0,Jump Shot,23,-225,64,False
+Anthony Tolliver,3,1,16,0,Jump Shot,25,-130,214,False
+Anthony Tolliver,2,5,28,1,Jump Shot,23,233,34,False
+Anthony Tolliver,2,9,3,0,Jump Shot,25,-185,173,False
+Anthony Tolliver,2,10,55,0,Jump Shot,26,-101,246,False
+Anthony Tolliver,4,4,50,0,Jump Shot,24,-222,111,False
+Anthony Tolliver,4,1,57,0,Jump Shot,24,239,71,False
+Anthony Tolliver,4,6,15,0,Jump Shot,4,8,40,True
+Anthony Tolliver,4,2,29,1,Jump Shot,23,-231,24,False
+Anthony Tolliver,2,4,45,0,Jump Shot,22,-220,17,False
+Anthony Tolliver,3,0,1,0,Jump Shot,24,178,173,False
+Anthony Tolliver,1,7,27,0,Jump Shot,24,-221,103,False
+Anthony Tolliver,1,4,26,0,Jump Shot,23,236,14,False
+Anthony Tolliver,4,3,9,0,Jump Shot,25,66,247,False
+Anthony Tolliver,2,5,37,0,Jump Shot,25,178,181,False
+Anthony Tolliver,4,6,55,0,Jump Shot,25,-211,138,False
+Anthony Tolliver,4,2,30,0,Jump Shot,25,121,226,False
+Anthony Tolliver,3,3,26,0,Jump Shot,26,187,189,False
+Anthony Tolliver,2,6,5,0,Jump Shot,23,231,8,False
+Anthony Tolliver,1,10,24,0,Jump Shot,26,51,260,False
+Anthony Tolliver,2,3,59,1,Jump Shot,27,-133,239,False
+Anthony Tolliver,1,4,27,0,Jump Shot,25,-131,221,False
+Anthony Tolliver,2,2,0,0,Jump Shot,22,-224,38,False
+Anthony Tolliver,3,4,58,0,Jump Shot,24,-242,55,False
+Anthony Tolliver,1,9,37,1,Jump Shot,26,-155,220,False
+Anthony Tolliver,1,9,6,0,Jump Shot,27,-150,235,False
+Anthony Tolliver,1,2,32,1,Jump Shot,28,79,269,False
+Anthony Tolliver,2,9,38,1,Jump Shot,23,230,19,False
+Anthony Tolliver,4,10,8,0,Jump Shot,26,209,168,False
+Anthony Tolliver,1,9,7,1,Jump Shot,23,230,35,False
+Anthony Tolliver,2,0,0,0,Jump Shot,26,-138,230,False
+Anthony Tolliver,4,10,36,1,Jump Shot,25,-39,252,False
+Anthony Tolliver,2,10,5,1,Jump Shot,24,34,245,False
+Anthony Tolliver,3,1,3,1,Jump Shot,23,231,29,False
+Anthony Tolliver,1,2,2,1,Jump Shot,28,-176,220,False
+Anthony Tolliver,3,1,36,0,Jump Shot,25,-162,198,False
+Anthony Tolliver,3,5,31,1,Jump Shot,23,228,63,False
+Anthony Tolliver,3,7,0,1,Jump Shot,26,237,108,False
+Anthony Tolliver,4,5,17,0,Jump Shot,24,-234,67,False
+Anthony Tolliver,4,7,0,1,Jump Shot,26,148,216,False
+Anthony Tolliver,4,5,4,1,Jump Shot,25,-165,190,False
+Anthony Tolliver,2,10,5,1,Jump Shot,25,183,173,False
+Anthony Tolliver,4,9,12,0,Jump Shot,23,-226,45,False
+Anthony Tolliver,4,6,55,0,Jump Shot,22,224,5,False
+Anthony Tolliver,3,3,39,0,Jump Shot,27,139,242,False
+Anthony Tolliver,2,7,45,1,Jump Shot,25,216,133,False
+Anthony Tolliver,3,8,2,0,Jump Shot,25,-71,248,False
+Anthony Tolliver,3,4,21,1,Jump Shot,25,-175,186,False
+Anthony Tolliver,3,6,21,1,Jump Shot,26,-74,258,False
+Anthony Tolliver,4,9,48,0,Jump Shot,25,157,197,False
+Anthony Tolliver,2,3,17,0,Jump Shot,25,-96,234,False
+Anthony Tolliver,1,2,21,1,Jump Shot,22,-228,10,False
+Anthony Tolliver,1,1,19,1,Jump Shot,25,200,158,False
+Anthony Tolliver,2,6,23,0,Jump Shot,24,226,92,False
+Anthony Tolliver,4,1,31,0,Jump Shot,26,152,221,False
+Anthony Tolliver,2,4,50,1,Jump Shot,25,54,252,False
+Anthony Tolliver,4,8,19,0,Jump Shot,25,175,192,False
+Anthony Tolliver,4,11,15,0,Jump Shot,26,193,181,False
+Anthony Tolliver,2,10,49,1,Jump Shot,27,105,253,False
+Anthony Tolliver,3,0,0,0,Jump Shot,27,163,217,False
+Anthony Tolliver,3,2,35,0,Jump Shot,21,-117,181,True
+Anthony Tolliver,4,6,20,0,Jump Shot,23,-230,25,False
+Anthony Tolliver,2,10,18,0,Jump Shot,27,50,267,False
+Anthony Tolliver,3,9,55,1,Jump Shot,22,227,20,False
+Anthony Tolliver,3,11,48,0,Jump Shot,25,-163,200,False
+Anthony Tolliver,2,9,37,0,Jump Shot,28,166,230,False
+Anthony Tolliver,4,11,37,0,Jump Shot,23,-231,17,False
+Anthony Tolliver,4,8,7,0,Jump Shot,24,234,82,False
+Anthony Tolliver,1,2,14,0,Jump Shot,25,-150,212,False
+Anthony Tolliver,1,3,19,0,Jump Shot,26,-116,234,False
+Anthony Tolliver,3,5,40,1,Jump Shot,23,226,44,False
+Anthony Tolliver,1,1,53,1,Jump Shot,24,-179,169,False
+Anthony Tolliver,1,2,25,0,Jump Shot,23,228,52,False
+Anthony Tolliver,2,6,22,0,Jump Shot,26,-180,188,False
+Anthony Tolliver,2,9,2,1,Jump Shot,27,190,204,False
+Anthony Tolliver,2,7,11,1,Jump Shot,28,196,208,False
+Anthony Tolliver,4,7,13,0,Jump Shot,26,120,232,False
+Anthony Tolliver,1,0,9,0,Jump Shot,23,-232,15,False
+Anthony Tolliver,4,8,51,0,Jump Shot,24,-158,189,False
+Anthony Tolliver,4,7,3,0,Jump Shot,25,157,200,False
+Anthony Tolliver,2,9,29,0,Jump Shot,22,228,10,False
+Anthony Tolliver,1,0,41,1,Jump Shot,22,227,2,False
+Anthony Tolliver,3,4,8,1,Jump Shot,28,160,232,False
+Anthony Tolliver,2,9,56,0,Jump Shot,26,-143,223,False
+Anthony Tolliver,2,3,21,1,Jump Shot,28,-197,204,False
+Anthony Tolliver,4,9,36,0,Jump Shot,26,55,255,False
+Anthony Tolliver,2,9,31,1,Jump Shot,11,119,2,True
+Anthony Tolliver,2,10,50,1,Jump Shot,25,14,252,False
+Anthony Tolliver,2,10,17,0,Jump Shot,26,-107,242,False
+Anthony Tolliver,1,1,13,1,Jump Shot,26,-227,137,False
+Anthony Tolliver,4,11,8,0,Jump Shot,28,-130,257,False
+Anthony Tolliver,2,10,14,0,Jump Shot,26,88,247,False
+Anthony Tolliver,2,9,7,1,Jump Shot,26,17,267,False
+Anthony Tolliver,2,1,49,0,Jump Shot,22,-228,22,False
+Anthony Tolliver,4,5,51,1,Jump Shot,22,226,34,False
+Anthony Tolliver,4,11,17,1,Jump Shot,27,83,261,False
+Anthony Tolliver,2,5,59,1,Jump Shot,29,-158,244,False
+Anthony Tolliver,3,1,29,1,Jump Shot,23,236,22,False
+Anthony Tolliver,2,6,59,0,Layup Shot,3,-32,20,True
+Anthony Tolliver,4,0,23,0,Layup Shot,4,-25,42,True
+Anthony Tolliver,3,2,41,0,Layup Shot,9,51,76,True
+Anthony Tolliver,3,3,57,0,Layup Shot,4,-22,34,True
+Anthony Tolliver,2,7,10,1,Layup Shot,1,-8,12,True
+Anthony Tolliver,1,1,41,0,Layup Shot,4,33,32,True
+Anthony Tolliver,2,0,42,0,Layup Shot,1,2,16,True
+Anthony Tolliver,3,1,56,1,Layup Shot,0,3,4,True
+Anthony Tolliver,2,10,12,0,Layup Shot,2,-14,20,True
+Anthony Tolliver,3,1,34,1,Layup Shot,1,-3,13,True
+Anthony Tolliver,2,5,45,1,Layup Shot,2,-18,13,True
+Anthony Tolliver,4,9,22,0,Layup Shot,6,7,61,True
+Anthony Tolliver,4,10,6,0,Layup Shot,5,18,48,True
+Anthony Tolliver,4,6,38,0,Layup Shot,1,16,8,True
+Anthony Tolliver,2,11,21,1,Layup Shot,0,-3,4,True
+Anthony Tolliver,2,7,18,1,Layup Shot,1,3,12,True
+Anthony Tolliver,4,5,55,1,Layup Shot,0,-3,6,True
+Anthony Tolliver,4,2,37,1,Layup Shot,2,1,29,True
+Anthony Tolliver,2,6,18,0,Layup Shot,4,-11,42,True
+Anthony Tolliver,2,10,34,1,Pullup Jump shot,25,-101,237,False
+Anthony Tolliver,1,5,37,1,Pullup Jump shot,25,146,214,False
+Anthony Tolliver,3,10,46,1,Pullup Jump shot,27,132,245,False
+Anthony Tolliver,1,3,39,0,Pullup Jump shot,25,190,164,False
+Anthony Tolliver,2,3,21,1,Pullup Jump shot,26,123,237,False
+Anthony Tolliver,4,10,32,1,Putback Layup Shot,0,2,2,True
+Anthony Tolliver,1,1,37,0,Putback Layup Shot,2,12,21,True
+Anthony Tolliver,2,8,44,0,Reverse Layup Shot,1,3,11,True
+Anthony Tolliver,4,10,46,1,Reverse Layup Shot,0,9,-1,True
+Anthony Tolliver,3,9,32,0,Reverse Layup Shot,1,-5,9,True
+Anthony Tolliver,3,10,5,1,Reverse Layup Shot,1,-2,11,True
+Anthony Tolliver,3,2,42,0,Reverse Layup Shot,1,4,18,True
+Anthony Tolliver,1,1,45,0,Running Jump Shot,24,163,189,False
+Anthony Tolliver,1,0,24,1,Running Jump Shot,25,119,220,False
+Anthony Tolliver,2,1,33,1,Running Jump Shot,23,237,-14,False
+Anthony Tolliver,4,10,13,1,Running Layup Shot,2,-11,18,True
+Anthony Tolliver,2,11,22,1,Running Pull-Up Jump Shot,14,-55,129,True
+Anthony Tolliver,2,0,36,1,Running Reverse Layup Shot,0,1,6,True
+Anthony Tolliver,3,4,13,0,Step Back Jump shot,23,231,56,False
+Anthony Tolliver,4,0,3,0,Step Back Jump shot,26,-89,252,False
+Anthony Tolliver,2,3,59,0,Step Back Jump shot,26,-138,228,False
+Anthony Tolliver,4,5,22,1,Tip Dunk Shot,0,0,-6,True
+Anthony Tolliver,4,1,24,0,Tip Layup Shot,0,-5,1,True
+Anthony Tolliver,3,4,49,1,Tip Layup Shot,0,0,-6,True
+Anthony Tolliver,2,0,45,0,Tip Layup Shot,0,0,-6,True
+Anthony Tolliver,1,0,24,1,Tip Layup Shot,0,0,-6,True
+Anthony Tolliver,2,8,28,1,Tip Layup Shot,0,0,-6,True
+Anthony Tolliver,3,0,1,1,Turnaround Fadeaway shot,13,113,71,True
+Anthony Tolliver,4,2,17,0,Turnaround Hook Shot,13,-125,50,True

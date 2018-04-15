@@ -1,0 +1,720 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Ricky Rubio,1,4,20,1,Cutting Finger Roll Layup Shot,1,8,6,True
+Ricky Rubio,3,9,56,1,Cutting Layup Shot,2,18,10,True
+Ricky Rubio,2,0,20,1,Cutting Layup Shot,1,3,11,True
+Ricky Rubio,1,9,47,1,Driving Finger Roll Layup Shot,1,-3,17,True
+Ricky Rubio,2,1,23,1,Driving Finger Roll Layup Shot,2,19,15,True
+Ricky Rubio,4,9,26,1,Driving Finger Roll Layup Shot,0,7,1,True
+Ricky Rubio,4,4,30,0,Driving Finger Roll Layup Shot,1,-19,1,True
+Ricky Rubio,2,8,59,0,Driving Finger Roll Layup Shot,1,-11,13,True
+Ricky Rubio,4,9,6,1,Driving Finger Roll Layup Shot,1,2,16,True
+Ricky Rubio,1,8,10,1,Driving Finger Roll Layup Shot,0,-3,-5,True
+Ricky Rubio,3,8,38,1,Driving Finger Roll Layup Shot,2,2,25,True
+Ricky Rubio,3,8,20,1,Driving Finger Roll Layup Shot,2,-21,10,True
+Ricky Rubio,1,9,35,0,Driving Finger Roll Layup Shot,6,54,36,True
+Ricky Rubio,3,10,20,1,Driving Finger Roll Layup Shot,3,0,30,True
+Ricky Rubio,2,3,33,0,Driving Finger Roll Layup Shot,1,0,11,True
+Ricky Rubio,1,0,32,1,Driving Finger Roll Layup Shot,4,30,27,True
+Ricky Rubio,3,9,47,0,Driving Finger Roll Layup Shot,7,-51,59,True
+Ricky Rubio,1,8,0,1,Driving Finger Roll Layup Shot,1,16,7,True
+Ricky Rubio,2,11,8,0,Driving Finger Roll Layup Shot,1,18,-1,True
+Ricky Rubio,2,5,37,0,Driving Finger Roll Layup Shot,2,22,15,True
+Ricky Rubio,1,9,5,1,Driving Floating Bank Jump Shot,10,-95,38,True
+Ricky Rubio,2,4,30,0,Driving Floating Bank Jump Shot,12,-82,90,True
+Ricky Rubio,2,5,53,0,Driving Floating Bank Jump Shot,16,-99,136,True
+Ricky Rubio,4,0,37,0,Driving Floating Bank Jump Shot,8,-41,72,True
+Ricky Rubio,2,6,5,0,Driving Floating Bank Jump Shot,12,-99,80,True
+Ricky Rubio,2,8,7,1,Driving Floating Bank Jump Shot,10,65,77,True
+Ricky Rubio,1,11,11,1,Driving Floating Bank Jump Shot,14,-125,64,True
+Ricky Rubio,1,0,57,0,Driving Floating Bank Jump Shot,13,-99,97,True
+Ricky Rubio,2,4,51,0,Driving Floating Bank Jump Shot,10,-78,66,True
+Ricky Rubio,2,3,36,0,Driving Floating Bank Jump Shot,14,-106,106,True
+Ricky Rubio,3,1,43,1,Driving Floating Bank Jump Shot,10,-94,52,True
+Ricky Rubio,3,8,48,0,Driving Floating Bank Jump Shot,12,-112,52,True
+Ricky Rubio,1,8,41,1,Driving Floating Bank Jump Shot,10,-84,63,True
+Ricky Rubio,1,6,45,1,Driving Floating Bank Jump Shot,11,-62,95,True
+Ricky Rubio,3,11,40,1,Driving Floating Bank Jump Shot,9,-64,68,True
+Ricky Rubio,1,8,35,0,Driving Floating Jump Shot,2,-14,19,True
+Ricky Rubio,4,5,22,1,Driving Floating Jump Shot,11,-58,101,True
+Ricky Rubio,1,7,11,1,Driving Floating Jump Shot,14,-63,132,True
+Ricky Rubio,1,5,23,0,Driving Floating Jump Shot,3,-18,34,True
+Ricky Rubio,1,1,2,1,Driving Floating Jump Shot,11,-33,114,True
+Ricky Rubio,1,9,44,0,Driving Floating Jump Shot,5,44,27,True
+Ricky Rubio,1,11,12,0,Driving Floating Jump Shot,13,32,126,True
+Ricky Rubio,1,8,42,0,Driving Floating Jump Shot,11,-88,70,True
+Ricky Rubio,3,6,17,0,Driving Floating Jump Shot,5,51,19,True
+Ricky Rubio,1,11,11,0,Driving Floating Jump Shot,13,-102,85,True
+Ricky Rubio,1,9,42,0,Driving Floating Jump Shot,8,-50,64,True
+Ricky Rubio,1,7,41,0,Driving Floating Jump Shot,16,-90,137,True
+Ricky Rubio,4,7,41,0,Driving Floating Jump Shot,11,-25,113,True
+Ricky Rubio,2,7,1,0,Driving Floating Jump Shot,11,-109,33,True
+Ricky Rubio,4,10,32,1,Driving Layup Shot,2,28,9,True
+Ricky Rubio,1,9,55,0,Driving Layup Shot,3,-26,19,True
+Ricky Rubio,3,1,59,1,Driving Layup Shot,2,14,25,True
+Ricky Rubio,2,3,57,1,Driving Layup Shot,1,11,1,True
+Ricky Rubio,2,3,14,1,Driving Layup Shot,2,-28,1,True
+Ricky Rubio,2,0,46,1,Driving Layup Shot,2,-7,25,True
+Ricky Rubio,3,9,43,0,Driving Layup Shot,7,-43,61,True
+Ricky Rubio,4,6,48,1,Driving Layup Shot,2,-27,10,True
+Ricky Rubio,2,2,26,0,Driving Layup Shot,1,-14,6,True
+Ricky Rubio,2,6,27,1,Driving Layup Shot,1,6,10,True
+Ricky Rubio,2,5,50,0,Driving Layup Shot,3,-22,21,True
+Ricky Rubio,1,9,15,1,Driving Layup Shot,2,-25,13,True
+Ricky Rubio,4,3,6,1,Driving Layup Shot,2,18,13,True
+Ricky Rubio,2,9,30,0,Driving Layup Shot,6,-39,52,True
+Ricky Rubio,4,2,29,0,Driving Layup Shot,2,23,19,True
+Ricky Rubio,3,1,52,1,Driving Layup Shot,2,-26,6,True
+Ricky Rubio,3,8,54,1,Driving Layup Shot,3,-32,20,True
+Ricky Rubio,3,9,20,0,Driving Layup Shot,6,6,62,True
+Ricky Rubio,4,5,43,1,Driving Layup Shot,0,-4,9,True
+Ricky Rubio,3,10,40,1,Driving Layup Shot,2,22,0,True
+Ricky Rubio,2,0,56,1,Driving Layup Shot,1,-14,4,True
+Ricky Rubio,2,2,31,1,Driving Layup Shot,2,6,22,True
+Ricky Rubio,2,5,10,1,Driving Layup Shot,2,-27,7,True
+Ricky Rubio,1,8,0,1,Driving Layup Shot,2,-23,13,True
+Ricky Rubio,2,10,35,0,Driving Layup Shot,2,19,12,True
+Ricky Rubio,2,0,28,1,Driving Layup Shot,2,-18,13,True
+Ricky Rubio,3,11,9,0,Driving Layup Shot,8,22,79,True
+Ricky Rubio,2,5,41,1,Driving Layup Shot,0,-3,2,True
+Ricky Rubio,3,9,20,0,Driving Layup Shot,2,-16,20,True
+Ricky Rubio,1,4,20,1,Driving Layup Shot,0,-3,-4,True
+Ricky Rubio,3,5,49,0,Driving Layup Shot,2,-21,14,True
+Ricky Rubio,1,5,36,1,Driving Layup Shot,0,4,-1,True
+Ricky Rubio,1,9,50,1,Driving Layup Shot,0,-6,1,True
+Ricky Rubio,2,3,56,0,Driving Layup Shot,1,4,-14,True
+Ricky Rubio,1,3,36,0,Driving Layup Shot,2,-17,17,True
+Ricky Rubio,1,7,29,0,Driving Layup Shot,1,-2,10,True
+Ricky Rubio,2,6,1,0,Driving Layup Shot,2,24,10,True
+Ricky Rubio,2,2,11,0,Driving Layup Shot,3,-22,25,True
+Ricky Rubio,4,5,0,0,Driving Layup Shot,0,-5,3,True
+Ricky Rubio,4,8,9,0,Driving Layup Shot,7,46,64,True
+Ricky Rubio,3,0,6,0,Driving Layup Shot,2,-27,11,True
+Ricky Rubio,1,2,36,0,Driving Layup Shot,2,-16,22,True
+Ricky Rubio,4,1,23,1,Driving Layup Shot,1,-8,13,True
+Ricky Rubio,2,5,14,1,Driving Layup Shot,1,13,-1,True
+Ricky Rubio,1,9,36,0,Driving Layup Shot,1,-7,12,True
+Ricky Rubio,3,2,58,0,Driving Layup Shot,7,63,35,True
+Ricky Rubio,1,7,41,1,Driving Layup Shot,0,-5,0,True
+Ricky Rubio,1,11,23,0,Driving Layup Shot,3,2,36,True
+Ricky Rubio,1,10,33,0,Driving Layup Shot,1,-6,16,True
+Ricky Rubio,3,11,8,1,Driving Layup Shot,1,-8,13,True
+Ricky Rubio,1,10,12,0,Driving Layup Shot,1,19,5,True
+Ricky Rubio,3,11,35,1,Driving Layup Shot,1,-11,13,True
+Ricky Rubio,2,4,20,1,Driving Layup Shot,1,-8,6,True
+Ricky Rubio,1,6,51,0,Driving Layup Shot,2,-13,16,True
+Ricky Rubio,1,8,20,0,Driving Layup Shot,1,3,11,True
+Ricky Rubio,2,6,36,1,Driving Layup Shot,1,2,13,True
+Ricky Rubio,2,1,13,0,Driving Layup Shot,1,18,8,True
+Ricky Rubio,2,2,8,0,Driving Layup Shot,3,-25,20,True
+Ricky Rubio,2,6,5,0,Driving Layup Shot,2,-18,10,True
+Ricky Rubio,4,2,3,0,Driving Layup Shot,2,-23,16,True
+Ricky Rubio,3,5,28,0,Driving Layup Shot,1,-13,13,True
+Ricky Rubio,3,9,38,1,Driving Layup Shot,1,-13,8,True
+Ricky Rubio,2,3,45,0,Driving Layup Shot,2,-17,17,True
+Ricky Rubio,2,8,47,0,Driving Layup Shot,3,-27,20,True
+Ricky Rubio,4,8,33,0,Driving Layup Shot,1,-13,11,True
+Ricky Rubio,4,10,57,1,Driving Layup Shot,2,-22,13,True
+Ricky Rubio,4,4,50,0,Driving Layup Shot,2,-14,17,True
+Ricky Rubio,3,5,22,1,Driving Layup Shot,2,-15,14,True
+Ricky Rubio,3,9,38,1,Driving Layup Shot,2,-29,-4,True
+Ricky Rubio,2,6,2,1,Driving Layup Shot,0,1,9,True
+Ricky Rubio,2,7,48,0,Driving Layup Shot,3,29,21,True
+Ricky Rubio,3,6,56,1,Driving Layup Shot,2,-15,19,True
+Ricky Rubio,3,8,27,1,Driving Layup Shot,2,25,11,True
+Ricky Rubio,1,4,24,1,Driving Layup Shot,2,24,6,True
+Ricky Rubio,3,10,28,1,Driving Layup Shot,3,-24,21,True
+Ricky Rubio,4,6,15,1,Driving Layup Shot,2,-22,10,True
+Ricky Rubio,2,1,16,1,Driving Layup Shot,2,-22,10,True
+Ricky Rubio,4,1,57,1,Driving Layup Shot,2,25,9,True
+Ricky Rubio,2,5,17,0,Driving Layup Shot,2,-18,9,True
+Ricky Rubio,4,6,18,1,Driving Layup Shot,3,-18,25,True
+Ricky Rubio,2,7,51,1,Driving Layup Shot,1,15,8,True
+Ricky Rubio,4,7,58,0,Driving Layup Shot,5,-44,31,True
+Ricky Rubio,2,2,14,0,Driving Layup Shot,3,-20,23,True
+Ricky Rubio,3,10,24,1,Driving Layup Shot,1,-13,2,True
+Ricky Rubio,4,9,24,0,Driving Layup Shot,2,-15,15,True
+Ricky Rubio,1,11,2,1,Driving Layup Shot,1,-11,-1,True
+Ricky Rubio,1,4,8,0,Driving Layup Shot,2,27,13,True
+Ricky Rubio,4,10,6,0,Driving Reverse Layup Shot,3,-26,21,True
+Ricky Rubio,3,5,55,0,Driving Reverse Layup Shot,1,-5,13,True
+Ricky Rubio,1,7,8,0,Driving Reverse Layup Shot,2,4,27,True
+Ricky Rubio,4,2,43,0,Driving Reverse Layup Shot,1,-19,-1,True
+Ricky Rubio,4,3,49,1,Driving Reverse Layup Shot,2,22,16,True
+Ricky Rubio,4,7,56,1,Fadeaway Jump Shot,18,-92,162,True
+Ricky Rubio,3,8,58,0,Fadeaway Jump Shot,19,-116,158,True
+Ricky Rubio,2,6,15,0,Fadeaway Jump Shot,6,13,64,True
+Ricky Rubio,2,9,22,0,Fadeaway Jump Shot,5,-36,36,True
+Ricky Rubio,1,3,49,0,Fadeaway Jump Shot,14,-89,114,True
+Ricky Rubio,3,10,36,0,Fadeaway Jump Shot,10,-58,91,True
+Ricky Rubio,2,8,53,0,Fadeaway Jump Shot,11,113,11,True
+Ricky Rubio,3,6,14,0,Fadeaway Jump Shot,17,-71,156,True
+Ricky Rubio,4,4,49,0,Fadeaway Jump Shot,10,-38,102,True
+Ricky Rubio,2,5,8,0,Fadeaway Jump Shot,13,-107,74,True
+Ricky Rubio,2,2,58,0,Fadeaway Jump Shot,11,-41,105,True
+Ricky Rubio,1,7,6,1,Fadeaway Jump Shot,14,89,111,True
+Ricky Rubio,3,10,50,1,Fadeaway Jump Shot,12,-47,117,True
+Ricky Rubio,2,4,37,1,Fadeaway Jump Shot,11,-82,80,True
+Ricky Rubio,2,10,50,0,Fadeaway Jump Shot,11,-3,116,True
+Ricky Rubio,2,7,48,0,Fadeaway Jump Shot,12,-1,121,True
+Ricky Rubio,1,6,11,1,Fadeaway Jump Shot,12,-6,123,True
+Ricky Rubio,1,2,36,0,Fadeaway Jump Shot,15,-73,139,True
+Ricky Rubio,4,8,7,0,Fadeaway Jump Shot,8,-48,72,True
+Ricky Rubio,3,6,24,0,Fadeaway Jump Shot,16,-67,150,True
+Ricky Rubio,3,9,19,0,Finger Roll Layup Shot,0,4,7,True
+Ricky Rubio,1,8,49,0,Finger Roll Layup Shot,2,-2,25,True
+Ricky Rubio,1,7,53,1,Floating Jump shot,16,-106,126,True
+Ricky Rubio,3,11,19,0,Floating Jump shot,17,-96,150,True
+Ricky Rubio,2,5,47,1,Floating Jump shot,16,-81,145,True
+Ricky Rubio,2,3,45,0,Floating Jump shot,17,-88,146,True
+Ricky Rubio,1,9,11,0,Floating Jump shot,22,-45,221,True
+Ricky Rubio,3,1,49,1,Floating Jump shot,10,-3,108,True
+Ricky Rubio,3,0,36,0,Floating Jump shot,5,-47,34,True
+Ricky Rubio,1,9,42,1,Floating Jump shot,9,-65,63,True
+Ricky Rubio,3,9,57,1,Floating Jump shot,12,-25,120,True
+Ricky Rubio,1,11,17,1,Floating Jump shot,11,-40,112,True
+Ricky Rubio,4,11,48,1,Floating Jump shot,12,-55,116,True
+Ricky Rubio,4,1,14,1,Floating Jump shot,13,29,135,True
+Ricky Rubio,4,3,44,0,Floating Jump shot,20,-130,153,True
+Ricky Rubio,1,7,6,0,Floating Jump shot,17,11,178,True
+Ricky Rubio,3,9,4,0,Floating Jump shot,4,-25,41,True
+Ricky Rubio,1,3,48,0,Floating Jump shot,16,-84,146,True
+Ricky Rubio,3,10,31,0,Floating Jump shot,8,-73,50,True
+Ricky Rubio,1,7,18,0,Floating Jump shot,12,-70,105,True
+Ricky Rubio,1,7,38,0,Floating Jump shot,9,-65,74,True
+Ricky Rubio,1,5,8,1,Floating Jump shot,11,-41,104,True
+Ricky Rubio,3,7,50,1,Jump Bank Shot,14,-131,70,True
+Ricky Rubio,1,0,35,1,Jump Bank Shot,14,128,71,True
+Ricky Rubio,1,9,15,0,Jump Bank Shot,13,-63,120,True
+Ricky Rubio,2,6,45,0,Jump Shot,16,-99,126,True
+Ricky Rubio,3,4,21,1,Jump Shot,24,-236,67,False
+Ricky Rubio,3,11,22,1,Jump Shot,19,-44,187,True
+Ricky Rubio,3,6,27,0,Jump Shot,25,-123,223,False
+Ricky Rubio,2,6,5,0,Jump Shot,25,-188,175,False
+Ricky Rubio,3,9,37,1,Jump Shot,17,-60,163,True
+Ricky Rubio,2,5,6,0,Jump Shot,25,234,96,False
+Ricky Rubio,2,3,10,0,Jump Shot,27,-203,186,False
+Ricky Rubio,3,9,36,0,Jump Shot,25,-149,211,False
+Ricky Rubio,4,1,39,1,Jump Shot,24,237,43,False
+Ricky Rubio,2,4,42,0,Jump Shot,23,-237,12,False
+Ricky Rubio,2,4,2,0,Jump Shot,24,-25,248,False
+Ricky Rubio,1,0,32,1,Jump Shot,23,-232,-4,False
+Ricky Rubio,2,0,0,0,Jump Shot,19,187,50,True
+Ricky Rubio,1,8,48,0,Jump Shot,24,-173,179,False
+Ricky Rubio,3,1,15,0,Jump Shot,10,92,59,True
+Ricky Rubio,4,5,29,0,Jump Shot,26,-5,263,False
+Ricky Rubio,2,8,10,0,Jump Shot,19,-114,155,True
+Ricky Rubio,4,4,53,0,Jump Shot,20,-46,195,True
+Ricky Rubio,3,10,10,1,Jump Shot,24,-163,187,False
+Ricky Rubio,4,3,1,1,Jump Shot,26,-145,217,False
+Ricky Rubio,4,8,38,0,Jump Shot,24,-2,242,False
+Ricky Rubio,1,10,25,1,Jump Shot,25,-213,134,False
+Ricky Rubio,1,9,29,1,Jump Shot,25,114,226,False
+Ricky Rubio,3,5,56,1,Jump Shot,13,-93,101,True
+Ricky Rubio,1,9,27,0,Jump Shot,24,-141,197,False
+Ricky Rubio,3,8,18,1,Jump Shot,23,-231,-15,False
+Ricky Rubio,3,9,21,0,Jump Shot,25,3,253,False
+Ricky Rubio,1,1,40,0,Jump Shot,20,-106,179,True
+Ricky Rubio,1,6,30,0,Jump Shot,22,223,-3,False
+Ricky Rubio,1,9,46,0,Jump Shot,25,-168,194,False
+Ricky Rubio,4,7,47,0,Jump Shot,6,-61,23,True
+Ricky Rubio,3,8,36,0,Jump Shot,25,-174,188,False
+Ricky Rubio,3,9,49,0,Jump Shot,25,225,110,False
+Ricky Rubio,2,3,1,1,Jump Shot,23,230,-9,False
+Ricky Rubio,3,7,20,0,Jump Shot,24,-185,163,False
+Ricky Rubio,1,6,10,0,Jump Shot,24,73,239,False
+Ricky Rubio,1,11,19,1,Jump Shot,24,-1,247,False
+Ricky Rubio,2,2,17,0,Jump Shot,16,-20,168,True
+Ricky Rubio,3,6,9,1,Jump Shot,14,-112,89,True
+Ricky Rubio,3,11,40,0,Jump Shot,25,-24,256,False
+Ricky Rubio,2,7,31,0,Jump Shot,25,-11,254,False
+Ricky Rubio,3,7,53,1,Jump Shot,19,-96,172,True
+Ricky Rubio,1,9,53,0,Jump Shot,1,-13,8,True
+Ricky Rubio,1,10,23,0,Jump Shot,23,-232,-11,False
+Ricky Rubio,2,10,42,1,Jump Shot,25,-141,209,False
+Ricky Rubio,1,8,48,0,Jump Shot,18,-117,144,True
+Ricky Rubio,2,9,12,1,Jump Shot,24,-29,246,False
+Ricky Rubio,1,1,45,0,Jump Shot,26,-120,234,False
+Ricky Rubio,1,8,55,0,Jump Shot,24,182,171,False
+Ricky Rubio,3,9,36,0,Jump Shot,24,-161,182,False
+Ricky Rubio,2,5,0,0,Jump Shot,20,143,153,True
+Ricky Rubio,3,9,16,0,Jump Shot,22,226,12,False
+Ricky Rubio,1,7,8,1,Jump Shot,26,-212,155,False
+Ricky Rubio,2,3,27,0,Jump Shot,20,-161,127,True
+Ricky Rubio,1,9,39,0,Jump Shot,25,180,186,False
+Ricky Rubio,1,9,0,0,Jump Shot,40,-145,382,False
+Ricky Rubio,1,0,19,0,Jump Shot,18,178,59,True
+Ricky Rubio,3,5,11,0,Jump Shot,25,-105,232,False
+Ricky Rubio,2,4,43,1,Jump Shot,27,-35,273,False
+Ricky Rubio,2,0,29,0,Jump Shot,25,-181,184,False
+Ricky Rubio,3,9,46,0,Jump Shot,25,189,167,False
+Ricky Rubio,1,7,34,1,Jump Shot,17,82,157,True
+Ricky Rubio,3,6,38,0,Jump Shot,25,199,160,False
+Ricky Rubio,2,6,57,1,Jump Shot,22,34,220,True
+Ricky Rubio,1,9,44,0,Jump Shot,26,231,121,False
+Ricky Rubio,3,8,38,0,Jump Shot,27,-161,219,False
+Ricky Rubio,3,10,38,0,Jump Shot,17,-78,156,True
+Ricky Rubio,2,7,5,0,Jump Shot,23,-232,16,False
+Ricky Rubio,3,0,55,1,Jump Shot,17,34,174,True
+Ricky Rubio,3,9,42,0,Jump Shot,15,-96,122,True
+Ricky Rubio,1,5,53,0,Jump Shot,23,233,12,False
+Ricky Rubio,3,7,15,1,Jump Shot,25,90,236,False
+Ricky Rubio,4,4,46,1,Jump Shot,24,-188,152,False
+Ricky Rubio,2,5,8,0,Jump Shot,22,-139,181,True
+Ricky Rubio,3,4,50,1,Jump Shot,22,-225,-8,False
+Ricky Rubio,1,10,48,1,Jump Shot,22,-221,43,False
+Ricky Rubio,1,7,32,1,Jump Shot,22,226,-21,False
+Ricky Rubio,4,8,30,0,Jump Shot,22,-225,17,False
+Ricky Rubio,3,9,0,0,Jump Shot,23,226,72,False
+Ricky Rubio,3,7,32,0,Jump Shot,22,224,-2,False
+Ricky Rubio,2,0,7,0,Jump Shot,22,222,-14,False
+Ricky Rubio,1,7,28,0,Jump Shot,24,18,249,False
+Ricky Rubio,1,3,54,0,Jump Shot,19,-12,195,True
+Ricky Rubio,4,7,6,0,Jump Shot,22,-227,3,False
+Ricky Rubio,2,10,17,0,Jump Shot,22,228,7,False
+Ricky Rubio,1,11,29,0,Jump Shot,17,169,44,True
+Ricky Rubio,3,8,22,0,Jump Shot,24,-68,240,False
+Ricky Rubio,4,7,3,0,Jump Shot,24,-60,234,False
+Ricky Rubio,2,1,12,1,Jump Shot,24,-79,236,False
+Ricky Rubio,3,0,23,1,Jump Shot,22,-224,38,False
+Ricky Rubio,1,11,41,0,Jump Shot,25,159,203,False
+Ricky Rubio,3,1,26,0,Jump Shot,17,-109,138,True
+Ricky Rubio,1,8,33,1,Jump Shot,26,-96,249,False
+Ricky Rubio,1,7,25,1,Jump Shot,24,-232,83,False
+Ricky Rubio,3,6,32,0,Jump Shot,24,-79,230,False
+Ricky Rubio,3,9,25,0,Jump Shot,23,-230,9,False
+Ricky Rubio,1,6,47,0,Jump Shot,25,26,251,False
+Ricky Rubio,3,9,15,1,Jump Shot,25,-113,224,False
+Ricky Rubio,3,9,37,1,Jump Shot,22,-222,10,False
+Ricky Rubio,4,3,58,1,Jump Shot,24,-108,221,False
+Ricky Rubio,3,9,34,0,Jump Shot,24,-108,219,False
+Ricky Rubio,3,10,24,0,Jump Shot,24,121,210,False
+Ricky Rubio,2,3,27,1,Jump Shot,25,109,231,False
+Ricky Rubio,4,2,38,1,Jump Shot,21,-15,211,True
+Ricky Rubio,1,8,15,1,Jump Shot,26,-172,207,False
+Ricky Rubio,2,0,40,0,Jump Shot,27,107,255,False
+Ricky Rubio,2,3,22,1,Jump Shot,27,147,229,False
+Ricky Rubio,1,8,37,1,Jump Shot,26,-79,256,False
+Ricky Rubio,3,10,12,1,Jump Shot,25,-155,206,False
+Ricky Rubio,1,11,36,0,Jump Shot,23,-225,79,False
+Ricky Rubio,2,6,45,0,Jump Shot,24,-175,176,False
+Ricky Rubio,1,10,55,1,Jump Shot,25,228,114,False
+Ricky Rubio,1,4,16,1,Jump Shot,18,-182,16,True
+Ricky Rubio,1,7,47,0,Jump Shot,26,-138,231,False
+Ricky Rubio,4,11,35,0,Jump Shot,24,-234,57,False
+Ricky Rubio,1,7,29,1,Jump Shot,22,-226,-1,False
+Ricky Rubio,2,6,11,0,Jump Shot,25,140,214,False
+Ricky Rubio,1,4,19,1,Jump Shot,27,-199,188,False
+Ricky Rubio,4,4,24,0,Jump Shot,25,-128,222,False
+Ricky Rubio,1,5,49,0,Jump Shot,23,236,-5,False
+Ricky Rubio,3,11,49,1,Jump Shot,13,-6,131,True
+Ricky Rubio,1,5,55,0,Jump Shot,25,48,246,False
+Ricky Rubio,2,2,35,1,Jump Shot,23,235,-2,False
+Ricky Rubio,4,6,24,1,Jump Shot,23,-234,3,False
+Ricky Rubio,1,7,51,0,Jump Shot,24,44,242,False
+Ricky Rubio,1,10,32,0,Jump Shot,23,-232,5,False
+Ricky Rubio,3,11,47,0,Jump Shot,23,-235,34,False
+Ricky Rubio,4,8,52,0,Jump Shot,24,-82,229,False
+Ricky Rubio,1,7,20,0,Jump Shot,22,-226,28,False
+Ricky Rubio,4,6,58,0,Jump Shot,26,-145,218,False
+Ricky Rubio,3,8,41,1,Jump Shot,25,71,248,False
+Ricky Rubio,3,8,11,0,Jump Shot,24,99,226,False
+Ricky Rubio,2,9,56,0,Jump Shot,18,-94,164,True
+Ricky Rubio,3,6,24,1,Jump Shot,18,-33,187,True
+Ricky Rubio,3,7,0,0,Jump Shot,24,-190,156,False
+Ricky Rubio,2,6,25,0,Jump Shot,25,78,241,False
+Ricky Rubio,2,7,0,0,Jump Shot,25,52,249,False
+Ricky Rubio,3,9,15,0,Jump Shot,23,234,-13,False
+Ricky Rubio,2,2,6,0,Jump Shot,25,-174,184,False
+Ricky Rubio,1,6,56,0,Jump Shot,24,165,181,False
+Ricky Rubio,1,8,22,0,Jump Shot,24,-207,132,False
+Ricky Rubio,4,2,14,0,Jump Shot,21,-56,212,True
+Ricky Rubio,3,1,9,0,Jump Shot,14,26,146,True
+Ricky Rubio,1,0,56,1,Jump Shot,18,46,180,True
+Ricky Rubio,4,3,28,0,Jump Shot,26,-133,225,False
+Ricky Rubio,2,4,59,0,Jump Shot,24,198,151,False
+Ricky Rubio,1,7,11,0,Jump Shot,14,107,102,True
+Ricky Rubio,1,6,48,0,Jump Shot,14,21,144,True
+Ricky Rubio,4,5,18,0,Jump Shot,4,-28,33,True
+Ricky Rubio,3,4,46,1,Jump Shot,23,228,36,False
+Ricky Rubio,3,11,39,0,Jump Shot,22,-229,18,False
+Ricky Rubio,1,11,39,0,Jump Shot,25,-119,220,False
+Ricky Rubio,1,10,36,0,Jump Shot,23,230,53,False
+Ricky Rubio,4,3,57,0,Jump Shot,23,-234,46,False
+Ricky Rubio,4,7,25,0,Jump Shot,25,-34,248,False
+Ricky Rubio,2,2,5,1,Jump Shot,23,230,-15,False
+Ricky Rubio,2,1,34,0,Jump Shot,24,-120,217,False
+Ricky Rubio,3,0,48,0,Jump Shot,24,-103,225,False
+Ricky Rubio,1,8,18,0,Jump Shot,28,-172,225,False
+Ricky Rubio,1,10,9,0,Jump Shot,25,155,204,False
+Ricky Rubio,3,0,43,0,Jump Shot,23,-230,3,False
+Ricky Rubio,1,7,5,0,Jump Shot,14,-100,105,True
+Ricky Rubio,1,9,37,0,Jump Shot,26,-223,136,False
+Ricky Rubio,4,7,28,0,Jump Shot,25,131,219,False
+Ricky Rubio,3,9,29,0,Jump Shot,24,-133,210,False
+Ricky Rubio,1,11,24,0,Jump Shot,25,-212,143,False
+Ricky Rubio,2,1,59,0,Jump Shot,23,231,55,False
+Ricky Rubio,3,11,25,1,Jump Shot,19,135,146,True
+Ricky Rubio,4,10,45,0,Jump Shot,4,-35,33,True
+Ricky Rubio,2,0,51,0,Jump Shot,25,22,253,False
+Ricky Rubio,5,0,31,1,Jump Shot,24,-22,249,False
+Ricky Rubio,4,9,29,1,Jump Shot,25,123,221,False
+Ricky Rubio,4,2,48,1,Jump Shot,24,163,185,False
+Ricky Rubio,1,9,49,0,Jump Shot,24,-158,189,False
+Ricky Rubio,4,1,4,0,Jump Shot,17,15,176,True
+Ricky Rubio,4,7,18,0,Jump Shot,25,-233,104,False
+Ricky Rubio,4,11,42,1,Jump Shot,22,-226,31,False
+Ricky Rubio,3,7,17,0,Jump Shot,24,134,208,False
+Ricky Rubio,4,8,57,1,Jump Shot,27,147,232,False
+Ricky Rubio,2,10,50,0,Jump Shot,25,59,248,False
+Ricky Rubio,3,9,37,0,Jump Shot,24,-211,117,False
+Ricky Rubio,3,1,13,1,Jump Shot,24,89,232,False
+Ricky Rubio,2,2,36,1,Jump Shot,24,-226,94,False
+Ricky Rubio,3,11,11,1,Jump Shot,18,145,113,True
+Ricky Rubio,2,5,11,0,Jump Shot,23,-231,23,False
+Ricky Rubio,4,7,57,0,Jump Shot,24,224,94,False
+Ricky Rubio,4,6,50,0,Jump Shot,24,210,122,False
+Ricky Rubio,2,3,4,0,Jump Shot,14,106,105,True
+Ricky Rubio,3,11,37,0,Jump Shot,3,-11,30,True
+Ricky Rubio,1,0,53,1,Jump Shot,20,-145,150,True
+Ricky Rubio,2,4,46,1,Jump Shot,19,78,174,True
+Ricky Rubio,2,4,38,1,Jump Shot,27,-70,264,False
+Ricky Rubio,2,10,23,0,Jump Shot,24,193,158,False
+Ricky Rubio,3,7,34,0,Jump Shot,25,-37,248,False
+Ricky Rubio,1,0,30,1,Jump Shot,24,-78,237,False
+Ricky Rubio,4,7,13,1,Jump Shot,23,-227,48,False
+Ricky Rubio,4,0,23,1,Jump Shot,24,-30,245,False
+Ricky Rubio,2,5,18,0,Jump Shot,24,4,247,False
+Ricky Rubio,3,5,9,0,Jump Shot,25,149,204,False
+Ricky Rubio,4,1,18,1,Jump Shot,6,64,13,True
+Ricky Rubio,2,4,1,0,Jump Shot,26,-116,243,False
+Ricky Rubio,1,8,25,0,Jump Shot,23,223,77,False
+Ricky Rubio,3,10,59,0,Jump Shot,26,-164,204,False
+Ricky Rubio,2,8,9,1,Jump Shot,19,15,197,True
+Ricky Rubio,4,1,58,0,Jump Shot,25,-81,237,False
+Ricky Rubio,2,8,14,0,Jump Shot,25,29,253,False
+Ricky Rubio,3,8,9,0,Jump Shot,21,-166,136,True
+Ricky Rubio,4,9,57,0,Jump Shot,18,116,138,True
+Ricky Rubio,1,6,57,0,Jump Shot,24,228,75,False
+Ricky Rubio,3,6,14,0,Jump Shot,23,227,73,False
+Ricky Rubio,4,3,6,0,Jump Shot,25,180,178,False
+Ricky Rubio,1,10,0,0,Jump Shot,25,-136,215,False
+Ricky Rubio,2,7,15,0,Jump Shot,25,-221,120,False
+Ricky Rubio,2,6,10,1,Jump Shot,25,-231,104,False
+Ricky Rubio,3,11,39,1,Jump Shot,25,-129,221,False
+Ricky Rubio,4,4,19,0,Jump Shot,18,-119,146,True
+Ricky Rubio,2,8,57,1,Jump Shot,25,-96,236,False
+Ricky Rubio,2,7,29,0,Jump Shot,26,-142,222,False
+Ricky Rubio,3,9,8,0,Jump Shot,5,49,15,True
+Ricky Rubio,4,0,34,0,Jump Shot,26,-6,263,False
+Ricky Rubio,1,10,30,1,Jump Shot,25,-117,227,False
+Ricky Rubio,4,4,38,0,Jump Shot,25,-189,169,False
+Ricky Rubio,3,8,52,1,Jump Shot,12,119,27,True
+Ricky Rubio,2,1,56,0,Jump Shot,25,101,238,False
+Ricky Rubio,1,9,57,0,Jump Shot,26,-110,236,False
+Ricky Rubio,3,8,59,0,Jump Shot,14,67,127,True
+Ricky Rubio,1,9,10,0,Jump Shot,26,-28,263,False
+Ricky Rubio,2,6,38,1,Jump Shot,18,40,179,True
+Ricky Rubio,1,7,35,1,Jump Shot,24,223,113,False
+Ricky Rubio,2,2,28,0,Jump Shot,26,52,262,False
+Ricky Rubio,2,0,49,1,Jump Shot,24,16,248,False
+Ricky Rubio,2,2,28,1,Jump Shot,26,-107,237,False
+Ricky Rubio,3,11,26,1,Jump Shot,22,-226,6,False
+Ricky Rubio,3,5,42,1,Jump Shot,18,-117,147,True
+Ricky Rubio,3,9,9,0,Jump Shot,23,-235,-16,False
+Ricky Rubio,1,6,5,0,Jump Shot,25,-8,256,False
+Ricky Rubio,1,9,49,1,Jump Shot,24,11,248,False
+Ricky Rubio,3,8,31,0,Jump Shot,22,-226,5,False
+Ricky Rubio,1,7,54,1,Jump Shot,21,70,205,True
+Ricky Rubio,3,9,36,0,Jump Shot,25,21,256,False
+Ricky Rubio,1,5,47,0,Jump Shot,20,85,189,True
+Ricky Rubio,2,5,26,1,Jump Shot,16,-29,158,True
+Ricky Rubio,2,3,20,1,Jump Shot,22,-220,31,False
+Ricky Rubio,2,7,12,1,Jump Shot,25,119,227,False
+Ricky Rubio,3,4,16,0,Jump Shot,25,29,256,False
+Ricky Rubio,2,4,44,0,Jump Shot,11,-85,76,True
+Ricky Rubio,1,9,40,1,Jump Shot,19,-145,134,True
+Ricky Rubio,2,3,39,1,Jump Shot,18,-110,151,True
+Ricky Rubio,3,6,7,1,Jump Shot,22,225,-19,False
+Ricky Rubio,1,6,6,1,Jump Shot,26,-171,197,False
+Ricky Rubio,2,3,13,1,Jump Shot,26,-87,251,False
+Ricky Rubio,3,4,27,1,Jump Shot,18,-99,155,True
+Ricky Rubio,2,6,28,1,Jump Shot,25,-101,239,False
+Ricky Rubio,1,9,42,0,Jump Shot,22,-221,-12,False
+Ricky Rubio,2,1,20,0,Jump Shot,24,-49,244,False
+Ricky Rubio,3,11,36,0,Jump Shot,27,-157,222,False
+Ricky Rubio,1,7,0,1,Jump Shot,26,-160,215,False
+Ricky Rubio,1,6,5,0,Jump Shot,8,-80,29,True
+Ricky Rubio,4,2,16,0,Jump Shot,24,-85,229,False
+Ricky Rubio,2,6,23,1,Jump Shot,25,-135,214,False
+Ricky Rubio,3,11,1,0,Jump Shot,14,29,145,True
+Ricky Rubio,3,7,43,0,Jump Shot,22,-226,8,False
+Ricky Rubio,4,0,5,1,Jump Shot,25,-155,198,False
+Ricky Rubio,2,8,17,0,Jump Shot,25,207,152,False
+Ricky Rubio,2,7,45,0,Jump Shot,13,-104,91,True
+Ricky Rubio,2,5,57,0,Jump Shot,25,-30,249,False
+Ricky Rubio,3,2,41,0,Jump Shot,23,231,24,False
+Ricky Rubio,1,9,22,1,Jump Shot,22,-229,17,False
+Ricky Rubio,1,7,7,1,Jump Shot,8,-53,69,True
+Ricky Rubio,3,10,52,0,Jump Shot,22,-224,31,False
+Ricky Rubio,3,8,3,0,Jump Shot,24,-186,160,False
+Ricky Rubio,1,10,41,0,Jump Shot,23,-231,20,False
+Ricky Rubio,2,2,14,1,Jump Shot,25,-134,213,False
+Ricky Rubio,1,9,49,0,Jump Shot,25,-113,224,False
+Ricky Rubio,3,1,41,0,Jump Shot,24,-140,200,False
+Ricky Rubio,3,6,9,0,Jump Shot,23,235,9,False
+Ricky Rubio,1,5,24,1,Jump Shot,25,107,226,False
+Ricky Rubio,1,6,26,0,Jump Shot,23,-232,58,False
+Ricky Rubio,1,3,41,0,Jump Shot,15,11,156,True
+Ricky Rubio,1,11,25,1,Jump Shot,18,-119,145,True
+Ricky Rubio,1,7,4,0,Jump Shot,23,-230,0,False
+Ricky Rubio,2,2,17,0,Jump Shot,24,-230,84,False
+Ricky Rubio,1,3,54,0,Jump Shot,3,-33,13,True
+Ricky Rubio,4,4,9,1,Jump Shot,15,131,83,True
+Ricky Rubio,3,3,31,0,Jump Shot,24,-195,156,False
+Ricky Rubio,1,10,4,1,Jump Shot,23,224,85,False
+Ricky Rubio,2,4,53,1,Jump Shot,23,-230,60,False
+Ricky Rubio,3,3,21,0,Jump Shot,19,-98,168,True
+Ricky Rubio,4,4,31,0,Jump Shot,8,-79,30,True
+Ricky Rubio,2,8,58,1,Jump Shot,23,-231,13,False
+Ricky Rubio,1,5,13,0,Jump Shot,25,-177,177,False
+Ricky Rubio,2,4,41,0,Jump Shot,23,230,40,False
+Ricky Rubio,3,7,21,0,Jump Shot,19,-152,120,True
+Ricky Rubio,1,11,32,0,Jump Shot,26,89,253,False
+Ricky Rubio,3,10,50,0,Jump Shot,10,-59,90,True
+Ricky Rubio,1,10,23,0,Jump Shot,15,113,104,True
+Ricky Rubio,2,0,5,0,Jump Shot,25,-208,153,False
+Ricky Rubio,3,7,43,0,Jump Shot,18,-98,159,True
+Ricky Rubio,1,6,13,1,Jump Shot,25,97,232,False
+Ricky Rubio,3,8,16,0,Jump Shot,26,14,268,False
+Ricky Rubio,4,2,21,0,Jump Shot,30,169,250,False
+Ricky Rubio,2,3,3,0,Jump Shot,19,-164,101,True
+Ricky Rubio,2,6,5,1,Jump Shot,7,-56,46,True
+Ricky Rubio,2,0,37,0,Jump Shot,19,134,136,True
+Ricky Rubio,3,11,16,0,Jump Shot,25,-195,157,False
+Ricky Rubio,4,7,53,0,Jump Shot,23,-231,-13,False
+Ricky Rubio,1,6,57,0,Jump Shot,20,-93,187,True
+Ricky Rubio,2,2,39,0,Jump Shot,24,-122,216,False
+Ricky Rubio,1,8,20,1,Jump Shot,25,-84,236,False
+Ricky Rubio,4,7,12,1,Jump Shot,26,105,241,False
+Ricky Rubio,3,10,15,0,Jump Shot,24,-246,34,False
+Ricky Rubio,4,10,30,0,Jump Shot,23,-230,12,False
+Ricky Rubio,3,5,13,1,Jump Shot,20,-120,163,True
+Ricky Rubio,3,9,55,1,Jump Shot,22,-222,-5,False
+Ricky Rubio,1,6,15,0,Layup Shot,3,18,34,True
+Ricky Rubio,4,4,56,0,Layup Shot,2,25,6,True
+Ricky Rubio,3,3,5,0,Layup Shot,4,-38,24,True
+Ricky Rubio,3,5,8,0,Layup Shot,2,6,24,True
+Ricky Rubio,1,3,30,0,Layup Shot,2,-20,0,True
+Ricky Rubio,3,8,21,0,Layup Shot,1,15,11,True
+Ricky Rubio,4,9,28,0,Layup Shot,2,14,25,True
+Ricky Rubio,1,11,36,0,Layup Shot,1,-6,9,True
+Ricky Rubio,4,11,7,1,Layup Shot,3,-29,21,True
+Ricky Rubio,3,10,8,0,Layup Shot,6,-37,51,True
+Ricky Rubio,2,1,46,1,Pullup Jump shot,17,-80,150,True
+Ricky Rubio,4,3,30,1,Pullup Jump shot,25,-101,234,False
+Ricky Rubio,2,7,44,1,Pullup Jump shot,17,-98,147,True
+Ricky Rubio,1,8,1,0,Pullup Jump shot,16,-105,131,True
+Ricky Rubio,1,9,35,0,Pullup Jump shot,18,-131,130,True
+Ricky Rubio,1,6,28,1,Pullup Jump shot,18,-119,136,True
+Ricky Rubio,3,10,32,1,Pullup Jump shot,20,-112,169,True
+Ricky Rubio,1,7,6,1,Pullup Jump shot,25,-104,233,False
+Ricky Rubio,1,8,44,1,Pullup Jump shot,15,-106,112,True
+Ricky Rubio,1,7,37,1,Pullup Jump shot,18,127,134,True
+Ricky Rubio,2,0,10,1,Pullup Jump shot,18,89,164,True
+Ricky Rubio,3,10,53,1,Pullup Jump shot,16,-111,126,True
+Ricky Rubio,2,0,33,1,Pullup Jump shot,27,112,247,False
+Ricky Rubio,2,4,28,0,Pullup Jump shot,16,96,132,True
+Ricky Rubio,1,10,38,0,Pullup Jump shot,19,148,132,True
+Ricky Rubio,4,1,49,0,Pullup Jump shot,15,-114,104,True
+Ricky Rubio,2,6,2,1,Pullup Jump shot,10,-55,95,True
+Ricky Rubio,2,7,1,1,Pullup Jump shot,16,-54,152,True
+Ricky Rubio,1,4,37,0,Pullup Jump shot,20,-59,195,True
+Ricky Rubio,2,2,11,1,Pullup Jump shot,19,-72,178,True
+Ricky Rubio,2,5,26,1,Pullup Jump shot,25,2,257,False
+Ricky Rubio,1,11,8,0,Pullup Jump shot,13,97,91,True
+Ricky Rubio,3,9,37,0,Pullup Jump shot,8,81,6,True
+Ricky Rubio,2,6,42,1,Pullup Jump shot,11,-2,116,True
+Ricky Rubio,2,7,9,0,Pullup Jump shot,12,-116,58,True
+Ricky Rubio,4,8,11,0,Pullup Jump shot,18,100,161,True
+Ricky Rubio,2,2,45,0,Pullup Jump shot,14,-63,130,True
+Ricky Rubio,2,6,12,0,Pullup Jump shot,9,-2,93,True
+Ricky Rubio,3,11,1,1,Pullup Jump shot,20,193,57,True
+Ricky Rubio,1,9,30,1,Pullup Jump shot,14,-86,113,True
+Ricky Rubio,3,9,22,0,Pullup Jump shot,16,131,96,True
+Ricky Rubio,4,0,26,1,Pullup Jump shot,19,144,127,True
+Ricky Rubio,3,10,10,0,Pullup Jump shot,10,11,108,True
+Ricky Rubio,3,4,7,1,Pullup Jump shot,18,-133,131,True
+Ricky Rubio,1,5,23,1,Pullup Jump shot,13,131,13,True
+Ricky Rubio,1,9,22,0,Pullup Jump shot,16,-4,167,True
+Ricky Rubio,2,8,55,0,Pullup Jump shot,17,-127,126,True
+Ricky Rubio,1,7,23,1,Pullup Jump shot,19,-134,148,True
+Ricky Rubio,1,5,50,0,Pullup Jump shot,20,-96,184,True
+Ricky Rubio,2,10,17,0,Pullup Jump shot,17,-101,137,True
+Ricky Rubio,1,5,24,1,Pullup Jump shot,16,-132,95,True
+Ricky Rubio,3,8,13,0,Pullup Jump shot,12,51,113,True
+Ricky Rubio,2,9,15,0,Pullup Jump shot,16,89,142,True
+Ricky Rubio,2,6,52,0,Pullup Jump shot,19,-112,157,True
+Ricky Rubio,3,10,3,0,Pullup Jump shot,14,-116,80,True
+Ricky Rubio,1,6,4,0,Pullup Jump shot,16,109,121,True
+Ricky Rubio,1,10,16,1,Pullup Jump shot,18,-115,147,True
+Ricky Rubio,1,7,23,0,Pullup Jump shot,4,-48,5,True
+Ricky Rubio,4,1,5,1,Pullup Jump shot,18,-95,157,True
+Ricky Rubio,1,3,5,0,Pullup Jump shot,17,-119,128,True
+Ricky Rubio,1,9,26,1,Pullup Jump shot,20,-38,202,True
+Ricky Rubio,2,1,48,0,Pullup Jump shot,13,63,123,True
+Ricky Rubio,2,11,31,0,Pullup Jump shot,12,-57,113,True
+Ricky Rubio,4,7,22,0,Pullup Jump shot,15,-155,11,True
+Ricky Rubio,2,3,48,1,Pullup Jump shot,18,79,167,True
+Ricky Rubio,2,3,10,0,Pullup Jump shot,19,68,183,True
+Ricky Rubio,3,7,0,1,Pullup Jump shot,14,3,143,True
+Ricky Rubio,1,9,26,0,Pullup Jump shot,15,-20,156,True
+Ricky Rubio,4,5,50,0,Pullup Jump shot,18,-89,163,True
+Ricky Rubio,3,8,18,1,Pullup Jump shot,17,9,175,True
+Ricky Rubio,1,11,6,0,Pullup Jump shot,16,-152,59,True
+Ricky Rubio,1,7,46,0,Pullup Jump shot,13,118,58,True
+Ricky Rubio,3,9,40,0,Pullup Jump shot,16,-109,126,True
+Ricky Rubio,1,3,45,1,Pullup Jump shot,22,-158,163,True
+Ricky Rubio,2,9,41,0,Pullup Jump shot,19,-131,142,True
+Ricky Rubio,1,8,51,1,Pullup Jump shot,16,-54,157,True
+Ricky Rubio,2,9,26,0,Pullup Jump shot,18,-96,153,True
+Ricky Rubio,2,5,7,0,Pullup Jump shot,17,-7,172,True
+Ricky Rubio,3,10,33,0,Pullup Jump shot,17,-124,127,True
+Ricky Rubio,2,1,34,0,Pullup Jump shot,16,-83,137,True
+Ricky Rubio,1,4,52,1,Pullup Jump shot,15,53,144,True
+Ricky Rubio,3,5,24,0,Pullup Jump shot,19,8,192,True
+Ricky Rubio,2,7,46,0,Pullup Jump shot,16,144,90,True
+Ricky Rubio,1,3,41,1,Pullup Jump shot,22,-228,-9,False
+Ricky Rubio,1,5,29,1,Pullup Jump shot,17,-112,134,True
+Ricky Rubio,4,9,46,1,Pullup Jump shot,18,17,183,True
+Ricky Rubio,1,7,32,0,Pullup Jump shot,24,3,246,False
+Ricky Rubio,1,8,37,1,Pullup Jump shot,21,-165,141,True
+Ricky Rubio,3,7,59,0,Pullup Jump shot,18,-38,180,True
+Ricky Rubio,2,8,6,1,Pullup Jump shot,19,-67,181,True
+Ricky Rubio,3,8,11,0,Pullup Jump shot,18,-122,143,True
+Ricky Rubio,3,1,39,1,Pullup Jump shot,15,-117,106,True
+Ricky Rubio,1,5,45,0,Pullup Jump shot,15,41,151,True
+Ricky Rubio,2,10,23,0,Pullup Jump shot,18,-43,183,True
+Ricky Rubio,2,11,0,1,Pullup Jump shot,18,-87,167,True
+Ricky Rubio,2,5,56,0,Pullup Jump shot,25,-118,221,False
+Ricky Rubio,3,7,31,0,Pullup Jump shot,15,119,96,True
+Ricky Rubio,2,2,51,0,Pullup Jump shot,15,-2,154,True
+Ricky Rubio,3,8,1,1,Pullup Jump shot,21,125,170,True
+Ricky Rubio,4,9,36,0,Pullup Jump shot,17,-82,160,True
+Ricky Rubio,2,2,50,1,Pullup Jump shot,12,51,119,True
+Ricky Rubio,3,6,19,0,Pullup Jump shot,19,-9,199,True
+Ricky Rubio,2,2,55,1,Pullup Jump shot,17,-131,115,True
+Ricky Rubio,4,7,47,1,Pullup Jump shot,23,100,208,True
+Ricky Rubio,4,2,39,0,Pullup Jump shot,22,147,172,True
+Ricky Rubio,3,9,55,0,Pullup Jump shot,18,24,184,True
+Ricky Rubio,3,9,44,1,Pullup Jump shot,8,87,0,True
+Ricky Rubio,3,2,17,0,Pullup Jump shot,20,78,194,True
+Ricky Rubio,1,6,52,0,Pullup Jump shot,17,-96,151,True
+Ricky Rubio,4,6,38,0,Pullup Jump shot,16,-30,167,True
+Ricky Rubio,2,2,25,1,Pullup Jump shot,13,-89,98,True
+Ricky Rubio,2,7,16,0,Pullup Jump shot,19,81,175,True
+Ricky Rubio,3,10,39,1,Pullup Jump shot,19,-182,75,True
+Ricky Rubio,2,5,26,0,Pullup Jump shot,18,-41,181,True
+Ricky Rubio,4,5,10,0,Pullup Jump shot,21,143,166,True
+Ricky Rubio,1,9,36,1,Pullup Jump shot,18,-186,15,True
+Ricky Rubio,4,5,25,0,Pullup Jump shot,21,-52,209,True
+Ricky Rubio,3,9,19,0,Pullup Jump shot,18,-127,133,True
+Ricky Rubio,1,8,43,0,Pullup Jump shot,18,-76,166,True
+Ricky Rubio,1,10,0,1,Pullup Jump shot,17,-3,178,True
+Ricky Rubio,2,7,12,0,Pullup Jump shot,14,1,148,True
+Ricky Rubio,1,8,18,1,Pullup Jump shot,19,-120,152,True
+Ricky Rubio,1,7,6,1,Pullup Jump shot,21,-38,214,True
+Ricky Rubio,1,4,52,0,Pullup Jump shot,17,-28,173,True
+Ricky Rubio,1,7,0,1,Pullup Jump shot,16,-51,160,True
+Ricky Rubio,2,3,52,1,Pullup Jump shot,19,97,165,True
+Ricky Rubio,2,7,56,1,Pullup Jump shot,19,62,181,True
+Ricky Rubio,4,4,56,0,Pullup Jump shot,18,-73,171,True
+Ricky Rubio,1,5,27,1,Pullup Jump shot,25,-87,244,False
+Ricky Rubio,3,7,28,0,Pullup Jump shot,18,-151,111,True
+Ricky Rubio,4,5,11,1,Pullup Jump shot,7,-20,72,True
+Ricky Rubio,2,2,4,0,Pullup Jump shot,13,62,117,True
+Ricky Rubio,2,10,9,1,Pullup Jump shot,18,103,151,True
+Ricky Rubio,3,8,12,1,Pullup Jump shot,11,-13,119,True
+Ricky Rubio,2,7,23,0,Pullup Jump shot,17,52,169,True
+Ricky Rubio,3,11,27,1,Pullup Jump shot,15,-136,70,True
+Ricky Rubio,3,11,43,0,Pullup Jump shot,15,-128,90,True
+Ricky Rubio,1,8,22,1,Pullup Jump shot,14,-94,113,True
+Ricky Rubio,4,4,36,1,Pullup Jump shot,17,-55,168,True
+Ricky Rubio,1,8,11,0,Pullup Jump shot,19,90,171,True
+Ricky Rubio,1,8,51,0,Pullup Jump shot,20,163,125,True
+Ricky Rubio,3,8,40,1,Pullup Jump shot,20,47,195,True
+Ricky Rubio,3,1,56,1,Pullup Jump shot,24,17,248,False
+Ricky Rubio,1,7,54,1,Pullup Jump shot,17,114,136,True
+Ricky Rubio,3,11,51,0,Pullup Jump shot,20,-76,193,True
+Ricky Rubio,5,2,14,1,Pullup Jump shot,15,18,153,True
+Ricky Rubio,3,8,48,0,Pullup Jump shot,19,-192,26,True
+Ricky Rubio,4,3,8,0,Pullup Jump shot,25,-121,227,False
+Ricky Rubio,4,1,52,0,Pullup Jump shot,20,-30,200,True
+Ricky Rubio,2,10,36,1,Pullup Jump shot,20,-38,198,True
+Ricky Rubio,2,8,12,0,Pullup Jump shot,19,-65,183,True
+Ricky Rubio,4,9,35,1,Pullup Jump shot,19,3,192,True
+Ricky Rubio,2,6,39,1,Pullup Jump shot,13,8,132,True
+Ricky Rubio,2,9,42,1,Pullup Jump shot,20,-128,158,True
+Ricky Rubio,3,4,58,0,Pullup Jump shot,26,-3,261,False
+Ricky Rubio,1,5,53,1,Pullup Jump shot,15,-109,116,True
+Ricky Rubio,2,1,7,0,Pullup Jump shot,16,11,167,True
+Ricky Rubio,3,8,30,0,Pullup Jump shot,18,3,183,True
+Ricky Rubio,2,2,14,1,Pullup Jump shot,21,-123,171,True
+Ricky Rubio,1,7,35,1,Pullup Jump shot,20,0,208,True
+Ricky Rubio,1,11,6,0,Pullup Jump shot,16,77,147,True
+Ricky Rubio,1,11,34,1,Pullup Jump shot,13,71,120,True
+Ricky Rubio,4,5,53,1,Pullup Jump shot,17,-51,164,True
+Ricky Rubio,2,3,49,1,Pullup Jump shot,19,-127,151,True
+Ricky Rubio,3,10,29,0,Pullup Jump shot,15,159,9,True
+Ricky Rubio,1,8,44,0,Pullup Jump shot,17,-58,169,True
+Ricky Rubio,1,9,39,0,Pullup Jump shot,19,62,185,True
+Ricky Rubio,2,8,35,1,Pullup Jump shot,13,-5,136,True
+Ricky Rubio,1,9,27,0,Pullup Jump shot,22,105,200,True
+Ricky Rubio,1,11,1,1,Pullup Jump shot,17,65,159,True
+Ricky Rubio,3,10,26,0,Pullup Jump shot,19,-100,168,True
+Ricky Rubio,3,0,51,1,Putback Layup Shot,2,11,17,True
+Ricky Rubio,3,8,34,0,Reverse Layup Shot,2,-16,15,True
+Ricky Rubio,1,0,44,0,Reverse Layup Shot,1,-8,13,True
+Ricky Rubio,1,8,10,0,Reverse Layup Shot,2,21,4,True
+Ricky Rubio,2,7,22,1,Reverse Layup Shot,1,-8,12,True
+Ricky Rubio,1,11,42,1,Reverse Layup Shot,1,-16,9,True
+Ricky Rubio,3,0,20,0,Reverse Layup Shot,3,-22,29,True
+Ricky Rubio,2,7,18,1,Reverse Layup Shot,3,31,8,True
+Ricky Rubio,3,10,37,1,Reverse Layup Shot,2,-20,11,True
+Ricky Rubio,1,0,0,0,Running Jump Shot,37,-3,373,False
+Ricky Rubio,1,8,23,1,Running Jump Shot,17,101,147,True
+Ricky Rubio,2,9,18,1,Running Jump Shot,10,-105,27,True
+Ricky Rubio,4,7,49,1,Running Jump Shot,24,-243,10,False
+Ricky Rubio,1,4,46,0,Running Jump Shot,8,-59,64,True
+Ricky Rubio,1,10,18,1,Running Jump Shot,10,-31,104,True
+Ricky Rubio,4,10,29,0,Running Jump Shot,18,-44,180,True
+Ricky Rubio,2,5,35,1,Running Jump Shot,25,-164,199,False
+Ricky Rubio,1,5,26,0,Running Layup Shot,1,-8,8,True
+Ricky Rubio,1,5,2,1,Running Layup Shot,0,5,8,True
+Ricky Rubio,4,6,14,1,Running Layup Shot,2,22,0,True
+Ricky Rubio,3,9,35,1,Running Layup Shot,2,-21,3,True
+Ricky Rubio,2,5,42,0,Running Layup Shot,1,16,0,True
+Ricky Rubio,1,10,18,1,Running Layup Shot,2,19,15,True
+Ricky Rubio,1,10,31,1,Running Layup Shot,2,-18,10,True
+Ricky Rubio,1,8,21,1,Running Layup Shot,1,11,1,True
+Ricky Rubio,4,4,8,1,Running Layup Shot,2,19,16,True
+Ricky Rubio,1,8,24,1,Running Layup Shot,1,-18,7,True
+Ricky Rubio,2,2,21,0,Running Layup Shot,0,-2,0,True
+Ricky Rubio,1,6,45,1,Running Pull-Up Jump Shot,15,-32,153,True
+Ricky Rubio,3,9,36,1,Running Pull-Up Jump Shot,10,-62,79,True
+Ricky Rubio,2,10,55,0,Step Back Jump shot,24,199,145,False
+Ricky Rubio,3,7,30,1,Step Back Jump shot,16,-160,14,True
+Ricky Rubio,4,10,5,1,Step Back Jump shot,12,30,125,True
+Ricky Rubio,1,8,15,1,Step Back Jump shot,18,117,148,True
+Ricky Rubio,3,9,58,1,Step Back Jump shot,15,134,84,True
+Ricky Rubio,1,11,47,0,Step Back Jump shot,9,-33,85,True
+Ricky Rubio,1,4,3,0,Step Back Jump shot,8,19,83,True
+Ricky Rubio,1,11,15,0,Step Back Jump shot,13,131,8,True
+Ricky Rubio,1,7,26,1,Step Back Jump shot,20,-23,205,True
+Ricky Rubio,3,9,42,0,Step Back Jump shot,11,-48,99,True
+Ricky Rubio,4,9,40,0,Step Back Jump shot,6,-16,63,True
+Ricky Rubio,2,7,44,1,Step Back Jump shot,9,-42,87,True
+Ricky Rubio,1,11,40,0,Step Back Jump shot,13,-85,99,True
+Ricky Rubio,3,6,54,0,Turnaround Fadeaway Bank Jump Shot,11,-70,92,True
+Ricky Rubio,1,7,30,1,Turnaround Fadeaway Bank Jump Shot,14,-125,67,True
+Ricky Rubio,3,6,19,1,Turnaround Fadeaway Bank Jump Shot,3,35,8,True
+Ricky Rubio,2,5,38,1,Turnaround Jump Shot,13,132,11,True

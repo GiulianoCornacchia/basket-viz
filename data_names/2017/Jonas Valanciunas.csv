@@ -1,0 +1,600 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jonas Valanciunas,2,1,17,1,Alley Oop Dunk Shot,2,23,14,True
+Jonas Valanciunas,4,0,52,1,Alley Oop Dunk Shot,0,2,9,True
+Jonas Valanciunas,1,7,35,1,Alley Oop Dunk Shot,0,5,8,True
+Jonas Valanciunas,3,10,7,0,Alley Oop Dunk Shot,2,8,27,True
+Jonas Valanciunas,3,8,57,1,Alley Oop Dunk Shot,0,2,-1,True
+Jonas Valanciunas,1,8,58,1,Alley Oop Dunk Shot,2,5,21,True
+Jonas Valanciunas,1,4,31,0,Alley Oop Layup shot,2,23,9,True
+Jonas Valanciunas,2,4,58,0,Alley Oop Layup shot,1,11,15,True
+Jonas Valanciunas,1,7,58,0,Alley Oop Layup shot,1,13,3,True
+Jonas Valanciunas,1,6,14,1,Cutting Dunk Shot,2,5,20,True
+Jonas Valanciunas,3,9,11,1,Cutting Dunk Shot,0,-2,7,True
+Jonas Valanciunas,1,10,3,0,Cutting Dunk Shot,1,0,15,True
+Jonas Valanciunas,1,8,19,1,Cutting Dunk Shot,2,1,20,True
+Jonas Valanciunas,4,2,16,1,Cutting Dunk Shot,1,16,10,True
+Jonas Valanciunas,3,6,16,1,Cutting Dunk Shot,1,6,11,True
+Jonas Valanciunas,1,7,19,1,Cutting Dunk Shot,0,-2,1,True
+Jonas Valanciunas,2,3,42,1,Cutting Dunk Shot,0,-7,4,True
+Jonas Valanciunas,2,2,51,1,Cutting Dunk Shot,1,5,11,True
+Jonas Valanciunas,4,6,14,1,Cutting Dunk Shot,0,3,-1,True
+Jonas Valanciunas,3,10,23,1,Cutting Dunk Shot,1,-16,1,True
+Jonas Valanciunas,4,3,49,1,Cutting Dunk Shot,0,-6,5,True
+Jonas Valanciunas,1,8,54,1,Cutting Dunk Shot,1,-6,-8,True
+Jonas Valanciunas,1,5,30,1,Cutting Dunk Shot,0,2,6,True
+Jonas Valanciunas,2,2,1,1,Cutting Dunk Shot,2,0,27,True
+Jonas Valanciunas,3,8,57,1,Cutting Dunk Shot,2,20,-4,True
+Jonas Valanciunas,1,9,30,1,Cutting Dunk Shot,1,-3,13,True
+Jonas Valanciunas,1,6,9,1,Cutting Dunk Shot,0,-1,4,True
+Jonas Valanciunas,1,4,50,1,Cutting Finger Roll Layup Shot,1,8,17,True
+Jonas Valanciunas,4,6,41,1,Cutting Finger Roll Layup Shot,1,7,8,True
+Jonas Valanciunas,1,3,50,1,Cutting Finger Roll Layup Shot,3,4,31,True
+Jonas Valanciunas,2,3,32,1,Cutting Finger Roll Layup Shot,1,-2,15,True
+Jonas Valanciunas,3,10,42,0,Cutting Layup Shot,6,49,47,True
+Jonas Valanciunas,3,4,28,1,Cutting Layup Shot,1,16,11,True
+Jonas Valanciunas,3,8,17,1,Cutting Layup Shot,0,5,4,True
+Jonas Valanciunas,3,8,34,1,Cutting Layup Shot,0,-3,3,True
+Jonas Valanciunas,2,6,40,1,Cutting Layup Shot,1,-13,5,True
+Jonas Valanciunas,1,7,27,0,Cutting Layup Shot,2,27,6,True
+Jonas Valanciunas,3,10,30,0,Cutting Layup Shot,6,33,55,True
+Jonas Valanciunas,2,7,16,1,Cutting Layup Shot,1,15,10,True
+Jonas Valanciunas,4,2,10,1,Cutting Layup Shot,1,3,10,True
+Jonas Valanciunas,4,4,40,1,Cutting Layup Shot,2,21,8,True
+Jonas Valanciunas,2,3,18,1,Cutting Layup Shot,1,3,13,True
+Jonas Valanciunas,3,10,33,1,Cutting Layup Shot,1,17,6,True
+Jonas Valanciunas,2,4,44,0,Cutting Layup Shot,4,30,31,True
+Jonas Valanciunas,1,6,47,1,Cutting Layup Shot,1,13,4,True
+Jonas Valanciunas,3,6,14,1,Cutting Layup Shot,2,-2,28,True
+Jonas Valanciunas,2,3,14,1,Cutting Layup Shot,0,5,-1,True
+Jonas Valanciunas,3,6,45,1,Cutting Layup Shot,0,-7,4,True
+Jonas Valanciunas,1,7,20,0,Cutting Layup Shot,4,11,48,True
+Jonas Valanciunas,1,4,26,1,Cutting Layup Shot,1,-12,12,True
+Jonas Valanciunas,1,10,33,0,Cutting Layup Shot,5,-23,55,True
+Jonas Valanciunas,2,2,39,1,Cutting Layup Shot,1,18,-2,True
+Jonas Valanciunas,1,11,8,0,Cutting Layup Shot,2,-16,23,True
+Jonas Valanciunas,1,5,57,1,Cutting Layup Shot,2,-16,21,True
+Jonas Valanciunas,4,3,32,0,Cutting Layup Shot,1,-10,9,True
+Jonas Valanciunas,1,9,43,1,Cutting Layup Shot,4,-7,43,True
+Jonas Valanciunas,3,9,35,1,Cutting Layup Shot,3,25,17,True
+Jonas Valanciunas,2,3,16,0,Cutting Layup Shot,3,20,33,True
+Jonas Valanciunas,1,10,57,0,Cutting Layup Shot,3,29,24,True
+Jonas Valanciunas,2,3,30,1,Cutting Layup Shot,0,2,9,True
+Jonas Valanciunas,1,8,33,0,Cutting Layup Shot,1,2,15,True
+Jonas Valanciunas,4,2,11,0,Cutting Layup Shot,1,19,-5,True
+Jonas Valanciunas,2,5,28,0,Cutting Layup Shot,1,-9,7,True
+Jonas Valanciunas,3,10,57,1,Cutting Layup Shot,1,-11,4,True
+Jonas Valanciunas,2,1,22,0,Cutting Layup Shot,1,13,-3,True
+Jonas Valanciunas,1,11,12,0,Cutting Layup Shot,3,2,37,True
+Jonas Valanciunas,1,4,54,0,Cutting Layup Shot,3,-19,25,True
+Jonas Valanciunas,4,3,17,0,Cutting Layup Shot,1,-13,11,True
+Jonas Valanciunas,2,8,25,0,Cutting Layup Shot,2,-12,25,True
+Jonas Valanciunas,3,7,3,0,Driving Bank Hook Shot,2,20,9,True
+Jonas Valanciunas,1,5,21,0,Driving Bank Hook Shot,1,13,4,True
+Jonas Valanciunas,2,6,38,0,Driving Bank Hook Shot,6,54,42,True
+Jonas Valanciunas,1,11,0,1,Driving Bank Hook Shot,6,55,29,True
+Jonas Valanciunas,3,6,59,1,Driving Bank Hook Shot,2,21,2,True
+Jonas Valanciunas,1,5,22,0,Driving Bank Hook Shot,6,-63,27,True
+Jonas Valanciunas,3,10,5,1,Driving Bank Hook Shot,6,58,34,True
+Jonas Valanciunas,2,1,47,1,Driving Bank Hook Shot,4,41,17,True
+Jonas Valanciunas,3,11,37,1,Driving Bank Hook Shot,4,43,15,True
+Jonas Valanciunas,1,8,20,1,Driving Bank Hook Shot,3,29,21,True
+Jonas Valanciunas,1,8,33,1,Driving Bank Hook Shot,2,25,6,True
+Jonas Valanciunas,3,4,19,0,Driving Bank Hook Shot,6,45,43,True
+Jonas Valanciunas,1,7,54,1,Driving Dunk Shot,2,25,-5,True
+Jonas Valanciunas,2,1,50,1,Driving Dunk Shot,1,-14,-2,True
+Jonas Valanciunas,3,3,16,1,Driving Dunk Shot,0,0,8,True
+Jonas Valanciunas,1,11,20,1,Driving Dunk Shot,1,-2,12,True
+Jonas Valanciunas,1,11,22,1,Driving Dunk Shot,0,-3,8,True
+Jonas Valanciunas,2,3,57,1,Driving Dunk Shot,3,7,34,True
+Jonas Valanciunas,4,0,0,1,Driving Dunk Shot,1,8,8,True
+Jonas Valanciunas,1,4,56,1,Driving Dunk Shot,0,-3,7,True
+Jonas Valanciunas,1,11,44,1,Driving Dunk Shot,2,-12,16,True
+Jonas Valanciunas,1,11,34,1,Driving Dunk Shot,0,-3,6,True
+Jonas Valanciunas,1,3,33,0,Driving Dunk Shot,1,8,13,True
+Jonas Valanciunas,1,10,33,1,Driving Dunk Shot,2,9,18,True
+Jonas Valanciunas,3,6,39,1,Driving Dunk Shot,1,-13,2,True
+Jonas Valanciunas,1,9,6,1,Driving Dunk Shot,1,-9,10,True
+Jonas Valanciunas,4,0,31,1,Driving Finger Roll Layup Shot,1,2,19,True
+Jonas Valanciunas,3,9,51,0,Driving Finger Roll Layup Shot,2,19,10,True
+Jonas Valanciunas,1,10,15,0,Driving Finger Roll Layup Shot,2,5,22,True
+Jonas Valanciunas,2,4,56,1,Driving Finger Roll Layup Shot,2,-2,26,True
+Jonas Valanciunas,3,9,45,0,Driving Floating Bank Jump Shot,6,48,49,True
+Jonas Valanciunas,3,9,4,0,Driving Floating Jump Shot,5,-8,59,True
+Jonas Valanciunas,1,11,0,0,Driving Floating Jump Shot,4,17,43,True
+Jonas Valanciunas,3,6,2,0,Driving Floating Jump Shot,6,-21,64,True
+Jonas Valanciunas,1,8,56,0,Driving Floating Jump Shot,4,20,39,True
+Jonas Valanciunas,1,9,29,0,Driving Floating Jump Shot,4,-2,46,True
+Jonas Valanciunas,2,1,15,1,Driving Floating Jump Shot,4,0,48,True
+Jonas Valanciunas,2,6,24,0,Driving Floating Jump Shot,1,-2,16,True
+Jonas Valanciunas,1,9,34,1,Driving Hook Shot,7,-49,59,True
+Jonas Valanciunas,2,5,58,1,Driving Hook Shot,3,5,38,True
+Jonas Valanciunas,3,10,14,1,Driving Hook Shot,4,32,31,True
+Jonas Valanciunas,1,5,19,1,Driving Hook Shot,4,42,6,True
+Jonas Valanciunas,1,7,22,0,Driving Hook Shot,3,24,20,True
+Jonas Valanciunas,3,10,36,0,Driving Hook Shot,5,32,40,True
+Jonas Valanciunas,2,3,11,1,Driving Hook Shot,4,27,42,True
+Jonas Valanciunas,3,10,53,0,Driving Hook Shot,5,54,15,True
+Jonas Valanciunas,3,3,37,1,Driving Hook Shot,3,-20,31,True
+Jonas Valanciunas,1,10,52,0,Driving Hook Shot,5,2,58,True
+Jonas Valanciunas,2,2,11,0,Driving Hook Shot,3,-22,28,True
+Jonas Valanciunas,3,8,45,1,Driving Hook Shot,4,-3,40,True
+Jonas Valanciunas,1,7,31,0,Driving Hook Shot,4,-11,41,True
+Jonas Valanciunas,3,7,5,1,Driving Hook Shot,5,33,49,True
+Jonas Valanciunas,4,6,3,0,Driving Hook Shot,9,16,96,True
+Jonas Valanciunas,1,11,22,1,Driving Hook Shot,5,0,54,True
+Jonas Valanciunas,1,11,45,0,Driving Hook Shot,6,26,62,True
+Jonas Valanciunas,4,3,53,0,Driving Hook Shot,10,-12,105,True
+Jonas Valanciunas,1,9,51,1,Driving Hook Shot,4,-11,41,True
+Jonas Valanciunas,3,7,1,0,Driving Hook Shot,4,-17,47,True
+Jonas Valanciunas,3,7,41,0,Driving Hook Shot,3,26,18,True
+Jonas Valanciunas,3,9,38,0,Driving Hook Shot,13,79,104,True
+Jonas Valanciunas,3,9,22,0,Driving Hook Shot,2,-22,15,True
+Jonas Valanciunas,3,10,56,0,Driving Hook Shot,8,27,77,True
+Jonas Valanciunas,3,10,20,1,Driving Hook Shot,4,12,48,True
+Jonas Valanciunas,1,3,50,0,Driving Hook Shot,4,41,8,True
+Jonas Valanciunas,4,11,44,0,Driving Layup Shot,0,6,-4,True
+Jonas Valanciunas,2,2,2,1,Driving Layup Shot,2,19,20,True
+Jonas Valanciunas,2,4,57,0,Driving Layup Shot,1,9,6,True
+Jonas Valanciunas,1,9,41,1,Driving Layup Shot,2,-25,10,True
+Jonas Valanciunas,1,11,1,1,Driving Layup Shot,2,-21,20,True
+Jonas Valanciunas,1,10,26,1,Driving Layup Shot,3,-35,4,True
+Jonas Valanciunas,1,7,11,1,Driving Layup Shot,0,7,-1,True
+Jonas Valanciunas,1,10,45,0,Driving Layup Shot,3,27,15,True
+Jonas Valanciunas,1,4,27,1,Driving Layup Shot,2,20,6,True
+Jonas Valanciunas,3,10,22,1,Driving Layup Shot,1,14,11,True
+Jonas Valanciunas,2,4,19,1,Driving Layup Shot,1,11,7,True
+Jonas Valanciunas,2,6,33,1,Driving Layup Shot,2,25,-1,True
+Jonas Valanciunas,3,8,44,0,Driving Layup Shot,3,36,16,True
+Jonas Valanciunas,1,9,4,1,Driving Layup Shot,7,-13,71,True
+Jonas Valanciunas,1,8,55,0,Driving Layup Shot,5,-36,46,True
+Jonas Valanciunas,2,6,14,1,Driving Layup Shot,1,12,1,True
+Jonas Valanciunas,1,5,6,1,Driving Layup Shot,2,20,8,True
+Jonas Valanciunas,2,1,33,0,Driving Layup Shot,0,-3,2,True
+Jonas Valanciunas,1,10,23,0,Driving Layup Shot,5,-2,52,True
+Jonas Valanciunas,1,9,58,1,Driving Layup Shot,2,20,22,True
+Jonas Valanciunas,3,10,4,1,Driving Layup Shot,1,-14,-11,True
+Jonas Valanciunas,1,9,20,0,Driving Layup Shot,5,-45,33,True
+Jonas Valanciunas,1,6,56,0,Driving Layup Shot,5,50,13,True
+Jonas Valanciunas,3,8,32,1,Driving Layup Shot,1,12,13,True
+Jonas Valanciunas,2,0,42,1,Driving Layup Shot,2,26,12,True
+Jonas Valanciunas,1,9,30,1,Driving Layup Shot,1,-13,13,True
+Jonas Valanciunas,2,1,30,0,Driving Reverse Layup Shot,1,11,5,True
+Jonas Valanciunas,3,5,35,0,Driving Reverse Layup Shot,2,-24,16,True
+Jonas Valanciunas,1,10,13,0,Driving Reverse Layup Shot,2,22,16,True
+Jonas Valanciunas,2,2,46,1,Dunk Shot,0,-2,8,True
+Jonas Valanciunas,2,1,25,1,Dunk Shot,2,-11,17,True
+Jonas Valanciunas,1,8,36,1,Dunk Shot,0,-1,-4,True
+Jonas Valanciunas,2,1,2,1,Dunk Shot,0,0,5,True
+Jonas Valanciunas,3,9,22,1,Dunk Shot,1,-8,8,True
+Jonas Valanciunas,2,5,22,1,Dunk Shot,1,14,13,True
+Jonas Valanciunas,1,8,52,1,Dunk Shot,2,5,29,True
+Jonas Valanciunas,2,0,47,1,Dunk Shot,0,5,4,True
+Jonas Valanciunas,2,6,19,1,Dunk Shot,2,2,21,True
+Jonas Valanciunas,3,11,12,1,Dunk Shot,2,3,20,True
+Jonas Valanciunas,2,2,44,1,Dunk Shot,1,3,12,True
+Jonas Valanciunas,1,4,52,1,Dunk Shot,0,-2,6,True
+Jonas Valanciunas,1,8,25,1,Dunk Shot,1,-4,14,True
+Jonas Valanciunas,5,0,36,1,Dunk Shot,1,12,11,True
+Jonas Valanciunas,2,0,52,1,Dunk Shot,0,-2,5,True
+Jonas Valanciunas,3,11,37,0,Fadeaway Jump Shot,18,144,116,True
+Jonas Valanciunas,3,8,11,1,Fadeaway Jump Shot,9,-95,4,True
+Jonas Valanciunas,1,9,23,1,Fadeaway Jump Shot,7,-2,73,True
+Jonas Valanciunas,1,11,35,0,Fadeaway Jump Shot,6,-50,41,True
+Jonas Valanciunas,1,8,6,0,Fadeaway Jump Shot,8,-83,20,True
+Jonas Valanciunas,1,8,46,1,Fadeaway Jump Shot,5,-3,59,True
+Jonas Valanciunas,1,10,7,1,Floating Jump shot,11,-11,112,True
+Jonas Valanciunas,2,7,12,0,Floating Jump shot,10,22,105,True
+Jonas Valanciunas,1,8,12,1,Floating Jump shot,4,5,47,True
+Jonas Valanciunas,1,7,47,0,Floating Jump shot,7,25,68,True
+Jonas Valanciunas,3,7,3,0,Floating Jump shot,7,-13,78,True
+Jonas Valanciunas,1,6,15,0,Floating Jump shot,9,30,94,True
+Jonas Valanciunas,1,6,43,0,Floating Jump shot,6,18,66,True
+Jonas Valanciunas,3,10,5,1,Floating Jump shot,11,-19,112,True
+Jonas Valanciunas,3,3,11,1,Floating Jump shot,10,8,105,True
+Jonas Valanciunas,2,4,38,1,Floating Jump shot,4,-41,9,True
+Jonas Valanciunas,3,3,9,1,Floating Jump shot,10,36,100,True
+Jonas Valanciunas,3,5,43,0,Floating Jump shot,6,-4,61,True
+Jonas Valanciunas,3,10,36,1,Floating Jump shot,3,6,31,True
+Jonas Valanciunas,1,6,41,0,Floating Jump shot,2,25,1,True
+Jonas Valanciunas,3,7,52,0,Floating Jump shot,10,-19,100,True
+Jonas Valanciunas,2,4,3,0,Floating Jump shot,4,-26,41,True
+Jonas Valanciunas,4,5,19,0,Floating Jump shot,5,41,43,True
+Jonas Valanciunas,4,2,47,1,Hook Bank Shot,2,29,-6,True
+Jonas Valanciunas,1,7,22,0,Hook Bank Shot,2,19,7,True
+Jonas Valanciunas,3,8,12,1,Hook Bank Shot,3,32,8,True
+Jonas Valanciunas,4,0,37,1,Hook Bank Shot,3,29,8,True
+Jonas Valanciunas,4,2,34,0,Hook Shot,8,-80,29,True
+Jonas Valanciunas,2,1,49,1,Hook Shot,6,-56,26,True
+Jonas Valanciunas,3,10,56,1,Hook Shot,3,-13,34,True
+Jonas Valanciunas,2,2,19,1,Hook Shot,3,-33,8,True
+Jonas Valanciunas,1,5,16,1,Hook Shot,4,-1,46,True
+Jonas Valanciunas,3,10,20,1,Hook Shot,2,-9,28,True
+Jonas Valanciunas,3,1,18,1,Hook Shot,5,-12,54,True
+Jonas Valanciunas,3,10,7,0,Hook Shot,7,32,69,True
+Jonas Valanciunas,1,6,12,1,Hook Shot,5,-1,59,True
+Jonas Valanciunas,2,7,19,0,Hook Shot,3,-20,23,True
+Jonas Valanciunas,3,10,6,0,Hook Shot,4,25,32,True
+Jonas Valanciunas,4,0,45,0,Hook Shot,4,-6,46,True
+Jonas Valanciunas,3,11,48,1,Hook Shot,3,6,32,True
+Jonas Valanciunas,1,11,44,1,Hook Shot,7,-13,72,True
+Jonas Valanciunas,1,2,13,0,Hook Shot,3,-3,32,True
+Jonas Valanciunas,2,4,49,0,Hook Shot,5,-5,53,True
+Jonas Valanciunas,1,8,55,0,Hook Shot,7,-5,73,True
+Jonas Valanciunas,2,5,22,1,Hook Shot,4,5,47,True
+Jonas Valanciunas,1,7,34,1,Hook Shot,8,2,83,True
+Jonas Valanciunas,1,6,48,1,Hook Shot,1,0,19,True
+Jonas Valanciunas,2,2,12,1,Hook Shot,5,-23,49,True
+Jonas Valanciunas,2,2,24,0,Hook Shot,7,-47,64,True
+Jonas Valanciunas,3,4,22,0,Hook Shot,3,-31,10,True
+Jonas Valanciunas,1,5,51,1,Hook Shot,0,-6,4,True
+Jonas Valanciunas,2,9,7,1,Hook Shot,3,-3,35,True
+Jonas Valanciunas,1,6,46,1,Hook Shot,9,61,71,True
+Jonas Valanciunas,1,6,46,0,Hook Shot,8,29,83,True
+Jonas Valanciunas,2,3,2,1,Hook Shot,6,4,65,True
+Jonas Valanciunas,1,5,47,0,Hook Shot,6,-9,62,True
+Jonas Valanciunas,1,7,33,0,Hook Shot,10,-7,104,True
+Jonas Valanciunas,2,6,35,1,Hook Shot,8,1,83,True
+Jonas Valanciunas,1,6,0,1,Hook Shot,1,2,12,True
+Jonas Valanciunas,2,4,2,1,Hook Shot,2,1,25,True
+Jonas Valanciunas,3,4,37,1,Hook Shot,2,18,21,True
+Jonas Valanciunas,1,9,48,1,Hook Shot,2,18,10,True
+Jonas Valanciunas,2,1,44,0,Hook Shot,3,31,2,True
+Jonas Valanciunas,1,10,55,0,Hook Shot,2,-16,14,True
+Jonas Valanciunas,2,4,37,1,Hook Shot,3,-2,31,True
+Jonas Valanciunas,1,10,43,0,Hook Shot,7,12,74,True
+Jonas Valanciunas,3,11,48,1,Hook Shot,4,-23,42,True
+Jonas Valanciunas,2,0,51,1,Hook Shot,9,44,79,True
+Jonas Valanciunas,2,1,52,1,Hook Shot,1,17,1,True
+Jonas Valanciunas,2,4,2,0,Hook Shot,5,-1,53,True
+Jonas Valanciunas,1,10,49,1,Hook Shot,6,-38,47,True
+Jonas Valanciunas,3,10,49,0,Hook Shot,9,-13,97,True
+Jonas Valanciunas,1,4,52,1,Jump Bank Shot,9,92,32,True
+Jonas Valanciunas,1,8,30,0,Jump Bank Shot,9,3,94,True
+Jonas Valanciunas,1,3,18,1,Jump Bank Shot,5,-47,36,True
+Jonas Valanciunas,1,4,6,1,Jump Bank Shot,6,-50,38,True
+Jonas Valanciunas,1,7,30,0,Jump Shot,9,47,84,True
+Jonas Valanciunas,2,5,43,0,Jump Shot,26,-121,231,False
+Jonas Valanciunas,2,0,0,0,Jump Shot,26,158,207,False
+Jonas Valanciunas,1,9,6,1,Jump Shot,26,51,257,False
+Jonas Valanciunas,1,9,5,1,Jump Shot,4,-39,26,True
+Jonas Valanciunas,3,6,4,1,Jump Shot,26,199,168,False
+Jonas Valanciunas,3,8,11,0,Jump Shot,25,-105,227,False
+Jonas Valanciunas,1,11,16,1,Jump Shot,13,23,136,True
+Jonas Valanciunas,3,5,58,1,Jump Shot,25,-8,252,False
+Jonas Valanciunas,2,5,23,1,Jump Shot,11,30,111,True
+Jonas Valanciunas,3,11,9,1,Jump Shot,25,91,242,False
+Jonas Valanciunas,3,4,55,0,Jump Shot,6,29,58,True
+Jonas Valanciunas,1,5,14,0,Jump Shot,9,-96,17,True
+Jonas Valanciunas,1,10,25,0,Jump Shot,15,-100,120,True
+Jonas Valanciunas,1,11,20,1,Jump Shot,25,-89,241,False
+Jonas Valanciunas,1,10,24,1,Jump Shot,16,64,148,True
+Jonas Valanciunas,3,8,5,0,Jump Shot,24,-41,245,False
+Jonas Valanciunas,3,5,30,1,Jump Shot,24,83,230,False
+Jonas Valanciunas,2,3,5,1,Jump Shot,1,3,12,True
+Jonas Valanciunas,1,11,46,0,Jump Shot,10,-100,14,True
+Jonas Valanciunas,1,8,55,0,Jump Shot,25,-26,257,False
+Jonas Valanciunas,3,11,33,0,Jump Shot,26,-142,226,False
+Jonas Valanciunas,3,9,7,1,Jump Shot,1,6,15,True
+Jonas Valanciunas,4,6,8,0,Jump Shot,4,-5,45,True
+Jonas Valanciunas,2,1,25,0,Jump Shot,23,-236,1,False
+Jonas Valanciunas,3,9,21,0,Jump Shot,6,-55,36,True
+Jonas Valanciunas,1,9,9,1,Jump Shot,26,108,238,False
+Jonas Valanciunas,3,9,29,0,Jump Shot,25,-135,219,False
+Jonas Valanciunas,1,3,14,1,Jump Shot,18,-80,162,True
+Jonas Valanciunas,2,5,37,1,Jump Shot,25,-122,220,False
+Jonas Valanciunas,3,8,12,0,Jump Shot,27,131,239,False
+Jonas Valanciunas,1,10,23,1,Jump Shot,22,-226,-20,False
+Jonas Valanciunas,2,0,50,1,Jump Shot,26,145,218,False
+Jonas Valanciunas,1,11,21,1,Jump Shot,25,-102,231,False
+Jonas Valanciunas,2,2,9,1,Jump Shot,17,-179,5,True
+Jonas Valanciunas,3,10,4,0,Jump Shot,25,-30,256,False
+Jonas Valanciunas,1,8,19,0,Jump Shot,24,-143,202,False
+Jonas Valanciunas,1,8,30,0,Jump Shot,6,-1,64,True
+Jonas Valanciunas,1,4,31,0,Jump Shot,25,-1,256,False
+Jonas Valanciunas,1,10,14,1,Jump Shot,22,-229,-5,False
+Jonas Valanciunas,1,11,14,0,Jump Shot,15,-8,155,True
+Jonas Valanciunas,3,10,52,1,Jump Shot,26,-70,256,False
+Jonas Valanciunas,1,8,8,0,Jump Shot,13,-1,132,True
+Jonas Valanciunas,1,9,8,1,Jump Shot,23,-234,-11,False
+Jonas Valanciunas,1,9,18,1,Jump Shot,25,-46,246,False
+Jonas Valanciunas,1,8,51,0,Jump Shot,12,128,15,True
+Jonas Valanciunas,1,8,11,0,Jump Shot,25,-119,221,False
+Jonas Valanciunas,1,10,11,1,Jump Shot,3,-11,30,True
+Jonas Valanciunas,3,10,29,0,Jump Shot,27,-115,249,False
+Jonas Valanciunas,1,8,38,0,Jump Shot,24,-158,186,False
+Jonas Valanciunas,3,3,49,1,Jump Shot,12,28,126,True
+Jonas Valanciunas,3,10,29,0,Jump Shot,13,7,138,True
+Jonas Valanciunas,3,8,5,0,Jump Shot,14,8,148,True
+Jonas Valanciunas,1,5,54,1,Jump Shot,18,119,141,True
+Jonas Valanciunas,2,5,38,0,Jump Shot,25,46,252,False
+Jonas Valanciunas,1,11,24,0,Jump Shot,13,-133,-4,True
+Jonas Valanciunas,1,7,43,0,Jump Shot,26,4,260,False
+Jonas Valanciunas,1,5,50,1,Jump Shot,25,-3,253,False
+Jonas Valanciunas,1,11,13,1,Jump Shot,25,-97,236,False
+Jonas Valanciunas,1,7,16,0,Jump Shot,25,-49,250,False
+Jonas Valanciunas,2,6,29,0,Jump Shot,13,128,34,True
+Jonas Valanciunas,1,8,59,1,Jump Shot,10,100,-8,True
+Jonas Valanciunas,3,5,35,0,Jump Shot,25,-111,231,False
+Jonas Valanciunas,1,9,52,1,Jump Shot,17,-56,170,True
+Jonas Valanciunas,2,6,25,0,Jump Shot,14,113,89,True
+Jonas Valanciunas,2,7,13,1,Jump Shot,26,-23,262,False
+Jonas Valanciunas,3,2,19,0,Jump Shot,11,50,108,True
+Jonas Valanciunas,1,10,44,1,Jump Shot,25,-6,259,False
+Jonas Valanciunas,3,0,44,0,Jump Shot,20,155,141,True
+Jonas Valanciunas,1,5,4,0,Jump Shot,27,71,268,False
+Jonas Valanciunas,1,8,57,1,Jump Shot,14,-65,131,True
+Jonas Valanciunas,2,1,46,0,Jump Shot,25,9,253,False
+Jonas Valanciunas,1,6,11,1,Jump Shot,6,0,69,True
+Jonas Valanciunas,1,10,55,1,Jump Shot,8,-7,86,True
+Jonas Valanciunas,1,8,19,0,Jump Shot,25,54,249,False
+Jonas Valanciunas,3,8,44,1,Jump Shot,10,-109,13,True
+Jonas Valanciunas,3,11,33,0,Jump Shot,25,-6,252,False
+Jonas Valanciunas,1,10,57,0,Jump Shot,6,-2,67,True
+Jonas Valanciunas,1,9,11,1,Jump Shot,25,70,240,False
+Jonas Valanciunas,2,4,45,0,Jump Shot,16,3,167,True
+Jonas Valanciunas,2,6,40,0,Jump Shot,10,63,90,True
+Jonas Valanciunas,1,9,57,0,Jump Shot,27,12,274,False
+Jonas Valanciunas,1,11,23,1,Jump Shot,19,-58,184,True
+Jonas Valanciunas,3,11,27,0,Jump Shot,10,-100,24,True
+Jonas Valanciunas,2,2,4,0,Jump Shot,2,-9,26,True
+Jonas Valanciunas,3,2,21,1,Jump Shot,15,-27,152,True
+Jonas Valanciunas,3,10,17,0,Jump Shot,11,-112,29,True
+Jonas Valanciunas,3,9,55,1,Jump Shot,10,36,95,True
+Jonas Valanciunas,3,11,2,0,Jump Shot,21,-137,167,True
+Jonas Valanciunas,1,10,59,0,Jump Shot,10,77,69,True
+Jonas Valanciunas,2,2,42,1,Jump Shot,14,-144,25,True
+Jonas Valanciunas,3,11,47,1,Jump Shot,8,-2,88,True
+Jonas Valanciunas,1,5,22,1,Jump Shot,25,-44,256,False
+Jonas Valanciunas,1,7,22,0,Jump Shot,10,18,100,True
+Jonas Valanciunas,2,3,37,0,Jump Shot,24,-60,242,False
+Jonas Valanciunas,2,2,47,0,Jump Shot,26,171,204,False
+Jonas Valanciunas,1,11,16,0,Jump Shot,25,147,209,False
+Jonas Valanciunas,1,7,25,1,Jump Shot,13,70,115,True
+Jonas Valanciunas,2,3,23,1,Jump Shot,17,-62,161,True
+Jonas Valanciunas,3,10,39,1,Jump Shot,18,103,158,True
+Jonas Valanciunas,1,9,13,0,Jump Shot,13,-139,0,True
+Jonas Valanciunas,2,4,21,1,Jump Shot,7,1,71,True
+Jonas Valanciunas,3,11,44,1,Jump Shot,9,-98,16,True
+Jonas Valanciunas,1,10,30,0,Jump Shot,4,45,-5,True
+Jonas Valanciunas,1,4,37,1,Jump Shot,24,-134,209,False
+Jonas Valanciunas,1,10,35,0,Jump Shot,25,-63,246,False
+Jonas Valanciunas,1,9,7,0,Jump Shot,2,29,2,True
+Jonas Valanciunas,1,5,16,0,Jump Shot,25,-73,246,False
+Jonas Valanciunas,1,10,15,0,Jump Shot,10,-5,103,True
+Jonas Valanciunas,2,6,8,0,Jump Shot,24,-69,236,False
+Jonas Valanciunas,2,0,7,0,Jump Shot,5,-32,49,True
+Jonas Valanciunas,1,11,2,0,Jump Shot,15,129,84,True
+Jonas Valanciunas,1,9,2,1,Jump Shot,25,-189,167,False
+Jonas Valanciunas,3,11,27,1,Jump Shot,17,-79,151,True
+Jonas Valanciunas,1,10,7,0,Jump Shot,25,86,242,False
+Jonas Valanciunas,2,2,43,1,Jump Shot,26,-96,242,False
+Jonas Valanciunas,1,6,51,1,Jump Shot,9,-2,96,True
+Jonas Valanciunas,1,5,39,1,Jump Shot,16,-131,97,True
+Jonas Valanciunas,2,4,19,1,Jump Shot,25,184,176,False
+Jonas Valanciunas,1,8,46,0,Jump Shot,24,14,245,False
+Jonas Valanciunas,3,10,48,0,Jump Shot,12,-117,48,True
+Jonas Valanciunas,3,10,54,0,Jump Shot,12,-127,-8,True
+Jonas Valanciunas,1,10,2,0,Jump Shot,25,-3,251,False
+Jonas Valanciunas,2,3,52,1,Jump Shot,16,162,-4,True
+Jonas Valanciunas,1,4,10,0,Jump Shot,11,116,20,True
+Jonas Valanciunas,3,11,26,0,Jump Shot,24,57,242,False
+Jonas Valanciunas,1,7,25,0,Jump Shot,14,-145,5,True
+Jonas Valanciunas,4,1,11,0,Jump Shot,24,245,8,False
+Jonas Valanciunas,3,8,8,1,Jump Shot,25,-11,251,False
+Jonas Valanciunas,3,4,18,0,Jump Shot,25,-20,250,False
+Jonas Valanciunas,1,8,35,1,Jump Shot,25,150,200,False
+Jonas Valanciunas,1,9,9,1,Layup Shot,2,-5,20,True
+Jonas Valanciunas,1,9,36,0,Layup Shot,6,-6,62,True
+Jonas Valanciunas,3,7,10,1,Layup Shot,2,14,25,True
+Jonas Valanciunas,1,9,22,0,Layup Shot,1,-2,17,True
+Jonas Valanciunas,1,6,40,1,Layup Shot,1,11,16,True
+Jonas Valanciunas,1,5,48,0,Layup Shot,3,25,23,True
+Jonas Valanciunas,1,8,21,0,Layup Shot,0,2,8,True
+Jonas Valanciunas,1,9,2,0,Layup Shot,1,-19,2,True
+Jonas Valanciunas,3,6,43,1,Layup Shot,0,9,-1,True
+Jonas Valanciunas,3,2,10,1,Layup Shot,0,-1,7,True
+Jonas Valanciunas,2,4,36,1,Layup Shot,1,-4,16,True
+Jonas Valanciunas,2,6,25,0,Layup Shot,3,-27,18,True
+Jonas Valanciunas,1,9,17,1,Layup Shot,2,26,0,True
+Jonas Valanciunas,3,7,16,1,Layup Shot,0,-9,-2,True
+Jonas Valanciunas,2,5,28,1,Layup Shot,2,15,15,True
+Jonas Valanciunas,2,1,35,0,Layup Shot,1,-14,4,True
+Jonas Valanciunas,2,1,40,1,Layup Shot,1,15,2,True
+Jonas Valanciunas,1,7,55,1,Layup Shot,1,-8,12,True
+Jonas Valanciunas,1,10,31,1,Layup Shot,1,-14,2,True
+Jonas Valanciunas,2,4,12,1,Layup Shot,1,15,10,True
+Jonas Valanciunas,4,2,0,0,Layup Shot,3,-20,26,True
+Jonas Valanciunas,3,4,46,1,Layup Shot,1,2,10,True
+Jonas Valanciunas,3,6,30,1,Layup Shot,0,-1,2,True
+Jonas Valanciunas,3,0,52,1,Layup Shot,0,2,7,True
+Jonas Valanciunas,3,10,43,1,Layup Shot,0,-2,0,True
+Jonas Valanciunas,3,10,7,1,Layup Shot,0,-7,-3,True
+Jonas Valanciunas,1,11,41,1,Layup Shot,2,8,24,True
+Jonas Valanciunas,2,4,10,0,Layup Shot,2,-12,20,True
+Jonas Valanciunas,2,5,3,1,Layup Shot,1,14,5,True
+Jonas Valanciunas,3,7,38,0,Layup Shot,2,12,25,True
+Jonas Valanciunas,1,10,20,0,Layup Shot,0,-2,8,True
+Jonas Valanciunas,2,4,17,1,Layup Shot,2,8,25,True
+Jonas Valanciunas,3,5,21,0,Layup Shot,2,0,23,True
+Jonas Valanciunas,3,11,40,0,Layup Shot,2,-2,26,True
+Jonas Valanciunas,3,10,42,1,Layup Shot,0,6,5,True
+Jonas Valanciunas,3,9,44,0,Layup Shot,1,14,7,True
+Jonas Valanciunas,1,11,19,1,Layup Shot,1,4,10,True
+Jonas Valanciunas,2,0,59,1,Layup Shot,2,0,27,True
+Jonas Valanciunas,2,2,36,0,Layup Shot,1,-15,8,True
+Jonas Valanciunas,1,4,27,1,Layup Shot,1,-13,10,True
+Jonas Valanciunas,1,7,59,1,Layup Shot,0,-5,8,True
+Jonas Valanciunas,1,9,38,1,Layup Shot,2,-5,23,True
+Jonas Valanciunas,2,0,58,0,Layup Shot,3,-1,31,True
+Jonas Valanciunas,1,9,25,1,Layup Shot,3,4,39,True
+Jonas Valanciunas,3,6,36,0,Layup Shot,1,14,4,True
+Jonas Valanciunas,3,3,27,1,Layup Shot,1,14,13,True
+Jonas Valanciunas,2,8,17,1,Layup Shot,3,2,32,True
+Jonas Valanciunas,1,6,39,0,Layup Shot,3,11,36,True
+Jonas Valanciunas,1,9,56,1,Layup Shot,2,6,24,True
+Jonas Valanciunas,3,11,41,1,Layup Shot,0,-2,5,True
+Jonas Valanciunas,1,8,25,1,Layup Shot,1,-9,8,True
+Jonas Valanciunas,3,11,40,0,Layup Shot,4,-1,43,True
+Jonas Valanciunas,1,6,2,0,Layup Shot,3,22,30,True
+Jonas Valanciunas,1,9,28,1,Layup Shot,2,9,20,True
+Jonas Valanciunas,1,7,19,0,Pullup Jump shot,24,-51,240,False
+Jonas Valanciunas,1,7,51,0,Pullup Jump shot,21,-81,202,True
+Jonas Valanciunas,3,7,23,0,Pullup Jump shot,10,17,104,True
+Jonas Valanciunas,1,11,40,1,Pullup Jump shot,12,-8,128,True
+Jonas Valanciunas,3,6,48,1,Pullup Jump shot,3,8,34,True
+Jonas Valanciunas,3,8,55,1,Putback Dunk Shot,1,-2,14,True
+Jonas Valanciunas,3,3,34,1,Putback Dunk Shot,1,3,10,True
+Jonas Valanciunas,3,8,37,1,Putback Dunk Shot,0,0,-6,True
+Jonas Valanciunas,3,8,34,1,Putback Dunk Shot,1,0,11,True
+Jonas Valanciunas,1,4,48,0,Putback Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,8,37,1,Putback Layup Shot,2,-5,20,True
+Jonas Valanciunas,4,1,52,0,Putback Layup Shot,1,14,14,True
+Jonas Valanciunas,3,1,10,1,Putback Layup Shot,0,-2,2,True
+Jonas Valanciunas,1,5,41,1,Putback Layup Shot,1,-2,12,True
+Jonas Valanciunas,4,7,41,1,Putback Layup Shot,1,6,19,True
+Jonas Valanciunas,1,7,21,1,Putback Layup Shot,0,0,-6,True
+Jonas Valanciunas,2,3,48,0,Putback Layup Shot,1,5,10,True
+Jonas Valanciunas,3,9,43,0,Putback Layup Shot,3,-19,26,True
+Jonas Valanciunas,4,0,56,1,Putback Layup Shot,1,14,10,True
+Jonas Valanciunas,3,1,35,1,Putback Layup Shot,1,-5,13,True
+Jonas Valanciunas,3,6,32,1,Putback Layup Shot,0,0,-6,True
+Jonas Valanciunas,3,9,16,1,Putback Layup Shot,0,0,8,True
+Jonas Valanciunas,1,10,52,1,Putback Layup Shot,1,-5,17,True
+Jonas Valanciunas,2,3,52,1,Putback Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,9,28,0,Putback Layup Shot,0,3,6,True
+Jonas Valanciunas,1,6,32,1,Putback Layup Shot,1,-5,16,True
+Jonas Valanciunas,3,11,40,0,Putback Layup Shot,0,-8,-5,True
+Jonas Valanciunas,3,5,1,1,Putback Layup Shot,0,0,-6,True
+Jonas Valanciunas,3,10,26,1,Putback Layup Shot,0,9,-4,True
+Jonas Valanciunas,2,7,17,1,Putback Layup Shot,4,36,21,True
+Jonas Valanciunas,1,5,17,0,Putback Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,8,19,0,Putback Layup Shot,1,6,15,True
+Jonas Valanciunas,3,9,31,1,Putback Layup Shot,0,2,5,True
+Jonas Valanciunas,2,5,50,1,Putback Layup Shot,1,-5,10,True
+Jonas Valanciunas,1,2,10,0,Putback Layup Shot,1,-3,17,True
+Jonas Valanciunas,4,3,24,1,Putback Layup Shot,0,0,-6,True
+Jonas Valanciunas,3,4,29,1,Reverse Dunk Shot,1,9,10,True
+Jonas Valanciunas,1,8,46,0,Reverse Layup Shot,0,5,0,True
+Jonas Valanciunas,2,4,23,1,Reverse Layup Shot,1,-12,11,True
+Jonas Valanciunas,3,9,26,1,Reverse Layup Shot,0,-3,1,True
+Jonas Valanciunas,3,5,34,1,Reverse Layup Shot,1,16,3,True
+Jonas Valanciunas,3,10,6,1,Reverse Layup Shot,3,-32,9,True
+Jonas Valanciunas,3,4,33,1,Reverse Layup Shot,1,3,13,True
+Jonas Valanciunas,1,5,21,0,Running Finger Roll Layup Shot,2,1,24,True
+Jonas Valanciunas,1,4,8,1,Step Back Jump shot,26,152,215,False
+Jonas Valanciunas,3,7,55,1,Tip Dunk Shot,0,0,-6,True
+Jonas Valanciunas,3,10,37,1,Tip Dunk Shot,0,0,-6,True
+Jonas Valanciunas,3,5,31,0,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,9,17,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,9,15,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,9,18,0,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,3,5,30,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,4,57,0,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,10,38,0,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,10,40,0,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,3,7,29,0,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,2,4,57,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,4,1,41,0,Tip Layup Shot,2,-2,20,True
+Jonas Valanciunas,3,8,42,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,2,7,18,0,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,4,5,57,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,3,5,39,0,Tip Layup Shot,2,-22,2,True
+Jonas Valanciunas,1,6,52,0,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,3,2,48,0,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,3,8,15,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,6,58,0,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,7,52,0,Tip Layup Shot,1,8,10,True
+Jonas Valanciunas,2,1,10,0,Tip Layup Shot,0,3,8,True
+Jonas Valanciunas,4,3,20,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,3,10,19,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,4,4,45,0,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,2,5,31,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,2,5,5,0,Tip Layup Shot,10,-109,6,True
+Jonas Valanciunas,3,5,32,0,Tip Layup Shot,0,-3,1,True
+Jonas Valanciunas,2,3,49,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,3,7,4,0,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,6,46,1,Tip Layup Shot,0,5,4,True
+Jonas Valanciunas,1,5,20,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,9,22,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,11,7,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,3,5,48,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,6,33,0,Tip Layup Shot,1,13,1,True
+Jonas Valanciunas,2,2,2,0,Tip Layup Shot,1,1,10,True
+Jonas Valanciunas,3,4,56,0,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,2,1,30,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,7,25,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,2,6,9,1,Tip Layup Shot,0,0,-6,True
+Jonas Valanciunas,1,4,24,0,Turnaround Bank Hook Shot,4,35,28,True
+Jonas Valanciunas,1,10,12,1,Turnaround Bank Hook Shot,2,-24,17,True
+Jonas Valanciunas,4,2,13,1,Turnaround Bank Hook Shot,0,5,6,True
+Jonas Valanciunas,3,7,33,1,Turnaround Bank Hook Shot,1,-13,9,True
+Jonas Valanciunas,1,9,12,1,Turnaround Fadeaway Bank Jump Shot,1,-12,8,True
+Jonas Valanciunas,3,7,16,1,Turnaround Fadeaway Bank Jump Shot,13,124,43,True
+Jonas Valanciunas,2,4,5,1,Turnaround Fadeaway Bank Jump Shot,3,-35,11,True
+Jonas Valanciunas,3,6,36,0,Turnaround Fadeaway shot,11,-112,8,True
+Jonas Valanciunas,3,2,51,0,Turnaround Fadeaway shot,5,-3,59,True
+Jonas Valanciunas,1,9,25,0,Turnaround Fadeaway shot,9,-84,37,True
+Jonas Valanciunas,3,11,18,0,Turnaround Fadeaway shot,7,-64,32,True
+Jonas Valanciunas,3,7,42,1,Turnaround Fadeaway shot,7,-68,30,True
+Jonas Valanciunas,1,11,12,1,Turnaround Fadeaway shot,10,-101,11,True
+Jonas Valanciunas,1,10,44,0,Turnaround Fadeaway shot,8,-45,75,True
+Jonas Valanciunas,1,6,20,1,Turnaround Fadeaway shot,7,14,78,True
+Jonas Valanciunas,2,4,28,1,Turnaround Fadeaway shot,11,-109,22,True
+Jonas Valanciunas,3,10,55,0,Turnaround Fadeaway shot,7,-63,34,True
+Jonas Valanciunas,4,7,4,1,Turnaround Fadeaway shot,7,-73,-3,True
+Jonas Valanciunas,3,5,11,1,Turnaround Fadeaway shot,10,-96,33,True
+Jonas Valanciunas,1,6,12,1,Turnaround Fadeaway shot,9,-83,43,True
+Jonas Valanciunas,1,8,57,1,Turnaround Fadeaway shot,15,-157,-5,True
+Jonas Valanciunas,1,9,15,0,Turnaround Fadeaway shot,8,-87,11,True
+Jonas Valanciunas,1,10,10,0,Turnaround Fadeaway shot,7,-72,6,True
+Jonas Valanciunas,3,4,24,0,Turnaround Fadeaway shot,10,-105,13,True
+Jonas Valanciunas,3,11,14,0,Turnaround Fadeaway shot,8,-86,8,True
+Jonas Valanciunas,3,8,8,1,Turnaround Fadeaway shot,7,-5,79,True
+Jonas Valanciunas,3,6,51,0,Turnaround Hook Shot,4,-3,44,True
+Jonas Valanciunas,1,11,43,0,Turnaround Hook Shot,6,-51,32,True
+Jonas Valanciunas,1,11,26,0,Turnaround Hook Shot,9,-29,90,True
+Jonas Valanciunas,4,3,8,1,Turnaround Hook Shot,6,-16,59,True
+Jonas Valanciunas,1,9,53,0,Turnaround Hook Shot,8,13,80,True
+Jonas Valanciunas,2,6,40,1,Turnaround Hook Shot,2,19,13,True
+Jonas Valanciunas,3,10,49,1,Turnaround Hook Shot,5,33,45,True
+Jonas Valanciunas,1,4,54,0,Turnaround Hook Shot,1,8,14,True
+Jonas Valanciunas,1,4,41,0,Turnaround Hook Shot,6,11,67,True
+Jonas Valanciunas,4,2,13,0,Turnaround Hook Shot,5,14,52,True
+Jonas Valanciunas,3,2,31,0,Turnaround Hook Shot,2,29,4,True
+Jonas Valanciunas,3,8,7,1,Turnaround Hook Shot,3,-25,24,True
+Jonas Valanciunas,2,4,20,1,Turnaround Hook Shot,10,-45,94,True
+Jonas Valanciunas,3,11,40,1,Turnaround Hook Shot,8,55,62,True
+Jonas Valanciunas,1,5,0,1,Turnaround Hook Shot,4,-7,47,True
+Jonas Valanciunas,3,10,24,1,Turnaround Hook Shot,6,-32,59,True
+Jonas Valanciunas,3,6,14,1,Turnaround Hook Shot,5,0,57,True
+Jonas Valanciunas,1,5,54,1,Turnaround Hook Shot,8,9,80,True
+Jonas Valanciunas,3,6,5,1,Turnaround Hook Shot,1,6,13,True
+Jonas Valanciunas,1,9,9,1,Turnaround Hook Shot,5,-47,22,True
+Jonas Valanciunas,4,6,13,1,Turnaround Hook Shot,8,19,83,True
+Jonas Valanciunas,1,8,31,1,Turnaround Hook Shot,6,-2,64,True
+Jonas Valanciunas,1,6,41,1,Turnaround Hook Shot,5,39,42,True
+Jonas Valanciunas,1,7,11,1,Turnaround Hook Shot,4,-3,47,True
+Jonas Valanciunas,1,10,55,0,Turnaround Hook Shot,2,-12,23,True
+Jonas Valanciunas,2,5,41,1,Turnaround Hook Shot,8,-2,88,True
+Jonas Valanciunas,1,5,7,1,Turnaround Hook Shot,3,-2,34,True
+Jonas Valanciunas,1,10,22,1,Turnaround Hook Shot,13,76,106,True
+Jonas Valanciunas,1,9,59,1,Turnaround Hook Shot,7,-3,75,True
+Jonas Valanciunas,3,11,10,0,Turnaround Hook Shot,9,54,84,True
+Jonas Valanciunas,4,1,54,0,Turnaround Hook Shot,4,-3,41,True
+Jonas Valanciunas,4,5,29,1,Turnaround Jump Shot,2,-8,22,True
+Jonas Valanciunas,1,11,42,1,Turnaround Jump Shot,10,-11,102,True
+Jonas Valanciunas,3,9,31,1,Turnaround Jump Shot,4,3,43,True
+Jonas Valanciunas,1,7,5,1,Turnaround Jump Shot,9,-88,46,True
+Jonas Valanciunas,3,10,26,0,Turnaround Jump Shot,8,86,-5,True
+Jonas Valanciunas,1,9,44,0,Turnaround Jump Shot,3,14,36,True
+Jonas Valanciunas,3,7,14,0,Turnaround Jump Shot,4,-5,43,True
+Jonas Valanciunas,2,5,30,0,Turnaround Jump Shot,2,-7,22,True
+Jonas Valanciunas,1,8,42,1,Turnaround Jump Shot,7,35,62,True
+Jonas Valanciunas,3,3,2,1,Turnaround Jump Shot,5,-50,22,True
+Jonas Valanciunas,2,3,21,1,Turnaround Jump Shot,2,2,26,True
+Jonas Valanciunas,1,8,56,0,Turnaround Jump Shot,4,-48,13,True
+Jonas Valanciunas,3,7,31,0,Turnaround Jump Shot,10,87,62,True
+Jonas Valanciunas,1,6,34,0,Turnaround Jump Shot,6,35,59,True
+Jonas Valanciunas,1,11,42,1,Turnaround Jump Shot,8,-76,38,True
+Jonas Valanciunas,1,8,20,0,Turnaround Jump Shot,12,-114,41,True
+Jonas Valanciunas,3,11,7,1,Turnaround Jump Shot,9,-55,73,True

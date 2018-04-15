@@ -1,0 +1,195 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Justin Anderson,1,1,29,1,Alley Oop Dunk Shot,1,18,7,True
+Justin Anderson,3,6,22,1,Cutting Dunk Shot,1,-13,6,True
+Justin Anderson,3,3,41,1,Cutting Dunk Shot,0,-1,1,True
+Justin Anderson,4,7,39,1,Cutting Dunk Shot,2,20,0,True
+Justin Anderson,4,0,18,1,Cutting Dunk Shot,0,2,0,True
+Justin Anderson,2,4,0,1,Cutting Dunk Shot,0,3,4,True
+Justin Anderson,1,5,45,1,Cutting Dunk Shot,1,3,10,True
+Justin Anderson,4,10,55,1,Cutting Layup Shot,0,-1,2,True
+Justin Anderson,1,4,27,1,Cutting Layup Shot,1,11,-1,True
+Justin Anderson,1,4,10,1,Driving Dunk Shot,0,-5,3,True
+Justin Anderson,1,3,18,1,Driving Finger Roll Layup Shot,1,-8,8,True
+Justin Anderson,3,2,27,1,Driving Finger Roll Layup Shot,1,-9,7,True
+Justin Anderson,1,5,50,0,Driving Finger Roll Layup Shot,6,-45,44,True
+Justin Anderson,1,3,2,1,Driving Finger Roll Layup Shot,2,22,14,True
+Justin Anderson,4,4,14,1,Driving Floating Bank Jump Shot,4,32,28,True
+Justin Anderson,1,0,45,0,Driving Floating Bank Jump Shot,10,-88,53,True
+Justin Anderson,4,9,42,0,Driving Floating Jump Shot,11,-71,95,True
+Justin Anderson,3,7,25,0,Driving Floating Jump Shot,1,-10,3,True
+Justin Anderson,1,0,52,0,Driving Floating Jump Shot,6,65,12,True
+Justin Anderson,1,3,10,0,Driving Layup Shot,2,-26,7,True
+Justin Anderson,1,0,5,1,Driving Layup Shot,3,2,34,True
+Justin Anderson,4,3,3,0,Driving Layup Shot,4,43,16,True
+Justin Anderson,2,11,3,0,Driving Layup Shot,1,10,15,True
+Justin Anderson,4,1,22,0,Driving Layup Shot,3,-18,29,True
+Justin Anderson,4,9,55,0,Driving Layup Shot,4,42,11,True
+Justin Anderson,4,6,31,0,Driving Layup Shot,4,-36,33,True
+Justin Anderson,1,2,58,0,Driving Layup Shot,1,-14,8,True
+Justin Anderson,1,3,41,1,Driving Layup Shot,1,6,14,True
+Justin Anderson,2,1,10,1,Driving Layup Shot,2,25,-2,True
+Justin Anderson,2,5,8,1,Driving Layup Shot,3,29,21,True
+Justin Anderson,4,3,49,1,Driving Layup Shot,2,-18,17,True
+Justin Anderson,4,9,32,0,Driving Layup Shot,1,2,15,True
+Justin Anderson,4,8,20,0,Driving Layup Shot,4,-12,44,True
+Justin Anderson,2,2,24,1,Driving Layup Shot,0,1,4,True
+Justin Anderson,4,1,59,0,Driving Layup Shot,7,-13,69,True
+Justin Anderson,1,0,1,1,Driving Layup Shot,1,-16,10,True
+Justin Anderson,1,0,29,0,Driving Layup Shot,5,50,16,True
+Justin Anderson,2,5,32,1,Driving Layup Shot,1,11,10,True
+Justin Anderson,4,0,11,0,Driving Reverse Layup Shot,1,-17,6,True
+Justin Anderson,1,1,12,0,Dunk Shot,6,-33,59,True
+Justin Anderson,4,9,38,0,Dunk Shot,1,-2,11,True
+Justin Anderson,2,9,55,1,Fadeaway Jump Shot,17,-171,27,True
+Justin Anderson,4,1,27,1,Fadeaway Jump Shot,15,73,136,True
+Justin Anderson,4,5,51,1,Hook Bank Shot,2,-20,12,True
+Justin Anderson,4,10,27,1,Hook Shot,4,-16,44,True
+Justin Anderson,4,11,12,0,Jump Shot,25,-188,172,False
+Justin Anderson,4,6,56,1,Jump Shot,25,84,242,False
+Justin Anderson,4,0,34,1,Jump Shot,24,140,197,False
+Justin Anderson,4,2,15,0,Jump Shot,23,-231,5,False
+Justin Anderson,2,1,10,1,Jump Shot,26,168,204,False
+Justin Anderson,4,8,47,0,Jump Shot,26,-5,267,False
+Justin Anderson,1,2,1,0,Jump Shot,29,-161,250,False
+Justin Anderson,3,2,15,1,Jump Shot,25,81,239,False
+Justin Anderson,3,2,46,1,Jump Shot,24,125,214,False
+Justin Anderson,3,0,0,0,Jump Shot,60,31,601,False
+Justin Anderson,1,6,18,0,Jump Shot,25,-222,116,False
+Justin Anderson,1,3,15,1,Jump Shot,23,230,19,False
+Justin Anderson,2,7,2,0,Jump Shot,24,197,151,False
+Justin Anderson,3,5,20,1,Jump Shot,25,-55,249,False
+Justin Anderson,4,4,38,1,Jump Shot,25,190,170,False
+Justin Anderson,1,5,38,1,Jump Shot,26,180,201,False
+Justin Anderson,4,0,54,0,Jump Shot,25,-104,238,False
+Justin Anderson,4,10,0,0,Jump Shot,27,-114,246,False
+Justin Anderson,4,9,26,0,Jump Shot,26,221,151,False
+Justin Anderson,3,1,37,1,Jump Shot,25,136,218,False
+Justin Anderson,2,3,0,0,Jump Shot,24,235,63,False
+Justin Anderson,1,2,55,0,Jump Shot,26,-207,158,False
+Justin Anderson,1,4,46,1,Jump Shot,26,-10,262,False
+Justin Anderson,4,1,34,0,Jump Shot,26,196,178,False
+Justin Anderson,4,1,9,1,Jump Shot,26,168,207,False
+Justin Anderson,2,8,11,0,Jump Shot,25,-51,249,False
+Justin Anderson,4,2,45,0,Jump Shot,25,-197,164,False
+Justin Anderson,4,2,50,0,Jump Shot,23,-230,7,False
+Justin Anderson,2,10,30,0,Jump Shot,26,-129,236,False
+Justin Anderson,4,6,59,0,Jump Shot,28,-192,204,False
+Justin Anderson,1,4,17,0,Jump Shot,24,239,41,False
+Justin Anderson,3,2,44,0,Jump Shot,25,55,248,False
+Justin Anderson,1,1,40,1,Jump Shot,25,163,190,False
+Justin Anderson,4,9,53,0,Jump Shot,26,-54,255,False
+Justin Anderson,4,0,13,0,Jump Shot,28,-25,288,False
+Justin Anderson,3,0,19,0,Jump Shot,27,-138,236,False
+Justin Anderson,4,0,58,0,Jump Shot,29,128,269,False
+Justin Anderson,2,9,27,0,Jump Shot,23,230,45,False
+Justin Anderson,4,1,24,0,Jump Shot,25,161,199,False
+Justin Anderson,1,3,3,0,Jump Shot,26,208,169,False
+Justin Anderson,4,10,29,0,Jump Shot,25,155,197,False
+Justin Anderson,3,0,5,0,Jump Shot,23,-235,42,False
+Justin Anderson,2,0,45,1,Jump Shot,28,132,257,False
+Justin Anderson,3,0,35,0,Jump Shot,25,-150,212,False
+Justin Anderson,2,8,49,0,Jump Shot,25,-3,256,False
+Justin Anderson,1,4,28,1,Jump Shot,27,-209,185,False
+Justin Anderson,1,2,19,1,Jump Shot,25,168,190,False
+Justin Anderson,3,6,21,1,Jump Shot,14,-27,145,True
+Justin Anderson,1,4,4,0,Jump Shot,23,234,29,False
+Justin Anderson,1,2,50,1,Jump Shot,25,42,253,False
+Justin Anderson,1,4,3,0,Jump Shot,10,103,4,True
+Justin Anderson,2,3,37,1,Jump Shot,23,229,50,False
+Justin Anderson,1,2,38,1,Jump Shot,23,228,68,False
+Justin Anderson,3,2,5,0,Jump Shot,24,-242,46,False
+Justin Anderson,4,2,18,0,Jump Shot,5,-27,43,True
+Justin Anderson,3,2,44,0,Jump Shot,26,-148,214,False
+Justin Anderson,1,1,35,1,Jump Shot,22,223,-8,False
+Justin Anderson,1,6,13,0,Jump Shot,23,-226,72,False
+Justin Anderson,1,4,31,0,Jump Shot,23,230,-8,False
+Justin Anderson,3,6,32,0,Jump Shot,27,-120,247,False
+Justin Anderson,2,1,14,0,Jump Shot,22,-228,-22,False
+Justin Anderson,4,7,27,0,Jump Shot,26,-138,225,False
+Justin Anderson,2,0,33,0,Jump Shot,26,-212,151,False
+Justin Anderson,1,0,10,1,Jump Shot,23,-232,59,False
+Justin Anderson,4,1,31,1,Jump Shot,22,226,5,False
+Justin Anderson,4,2,52,1,Jump Shot,26,123,231,False
+Justin Anderson,4,2,12,0,Jump Shot,23,232,12,False
+Justin Anderson,4,1,32,0,Jump Shot,25,80,243,False
+Justin Anderson,4,11,15,0,Jump Shot,24,92,230,False
+Justin Anderson,4,9,18,0,Jump Shot,23,-231,-15,False
+Justin Anderson,2,11,19,0,Jump Shot,22,-228,0,False
+Justin Anderson,4,0,41,0,Jump Shot,17,-101,148,True
+Justin Anderson,2,11,42,1,Jump Shot,25,4,256,False
+Justin Anderson,4,9,13,0,Jump Shot,22,226,22,False
+Justin Anderson,3,3,56,0,Jump Shot,25,177,179,False
+Justin Anderson,3,0,40,1,Jump Shot,25,131,220,False
+Justin Anderson,1,0,3,0,Jump Shot,23,231,13,False
+Justin Anderson,2,10,39,1,Jump Shot,23,-233,9,False
+Justin Anderson,1,3,44,0,Jump Shot,23,-234,18,False
+Justin Anderson,2,11,5,0,Jump Shot,23,232,55,False
+Justin Anderson,3,2,3,1,Jump Shot,25,-99,236,False
+Justin Anderson,4,10,46,0,Jump Shot,25,-186,176,False
+Justin Anderson,3,0,0,0,Jump Shot,26,-155,214,False
+Justin Anderson,2,11,27,1,Jump Shot,27,180,210,False
+Justin Anderson,2,6,16,0,Jump Shot,26,82,256,False
+Justin Anderson,2,3,20,0,Jump Shot,26,-177,192,False
+Justin Anderson,3,4,34,0,Jump Shot,26,-186,194,False
+Justin Anderson,4,0,55,0,Jump Shot,26,-82,257,False
+Justin Anderson,4,8,40,1,Jump Shot,26,-99,243,False
+Justin Anderson,3,6,32,1,Jump Shot,26,180,188,False
+Justin Anderson,4,3,49,0,Jump Shot,21,-219,11,False
+Justin Anderson,3,4,1,0,Jump Shot,24,-120,214,False
+Justin Anderson,2,6,8,0,Jump Shot,24,140,207,False
+Justin Anderson,1,5,13,0,Jump Shot,22,225,38,False
+Justin Anderson,2,0,0,1,Jump Shot,26,-117,233,False
+Justin Anderson,4,1,31,0,Jump Shot,8,-74,36,True
+Justin Anderson,4,1,28,0,Jump Shot,25,-33,256,False
+Justin Anderson,3,4,52,1,Layup Shot,1,-16,9,True
+Justin Anderson,2,5,50,1,Layup Shot,0,5,5,True
+Justin Anderson,2,9,44,0,Layup Shot,3,-21,25,True
+Justin Anderson,4,0,33,0,Layup Shot,3,-34,21,True
+Justin Anderson,4,3,39,0,Layup Shot,0,8,1,True
+Justin Anderson,3,0,31,1,Layup Shot,1,10,17,True
+Justin Anderson,4,0,38,0,Layup Shot,1,1,11,True
+Justin Anderson,4,7,3,0,Layup Shot,2,11,17,True
+Justin Anderson,3,5,54,0,Pullup Jump shot,26,-101,247,False
+Justin Anderson,2,5,55,0,Pullup Jump shot,24,-143,198,False
+Justin Anderson,2,0,39,0,Pullup Jump shot,28,-92,265,False
+Justin Anderson,2,2,31,1,Pullup Jump shot,17,103,145,True
+Justin Anderson,2,1,12,0,Pullup Jump shot,13,-52,120,True
+Justin Anderson,4,11,37,0,Pullup Jump shot,22,121,189,True
+Justin Anderson,2,10,22,1,Pullup Jump shot,26,155,209,False
+Justin Anderson,3,7,16,1,Pullup Jump shot,14,4,149,True
+Justin Anderson,4,2,54,0,Pullup Jump shot,10,-47,90,True
+Justin Anderson,1,0,50,1,Pullup Jump shot,24,-230,76,False
+Justin Anderson,3,0,22,0,Pullup Jump shot,22,228,18,False
+Justin Anderson,3,3,9,1,Pullup Jump shot,19,-127,147,True
+Justin Anderson,2,0,30,1,Putback Dunk Shot,0,-3,-2,True
+Justin Anderson,4,1,6,0,Putback Dunk Shot,0,0,-6,True
+Justin Anderson,4,0,11,1,Putback Layup Shot,2,14,17,True
+Justin Anderson,2,11,33,0,Putback Layup Shot,0,0,-6,True
+Justin Anderson,1,2,51,1,Reverse Layup Shot,2,20,6,True
+Justin Anderson,2,0,31,0,Reverse Layup Shot,1,-2,16,True
+Justin Anderson,4,10,0,1,Reverse Layup Shot,1,-5,16,True
+Justin Anderson,4,10,46,0,Running Alley Oop Layup Shot,2,-22,-4,True
+Justin Anderson,3,0,59,1,Running Dunk Shot,0,-6,5,True
+Justin Anderson,4,0,3,1,Running Dunk Shot,1,2,15,True
+Justin Anderson,1,3,26,1,Running Dunk Shot,4,35,21,True
+Justin Anderson,1,3,18,1,Running Dunk Shot,0,2,-3,True
+Justin Anderson,2,3,12,0,Running Dunk Shot,0,2,9,True
+Justin Anderson,3,0,3,1,Running Dunk Shot,0,2,4,True
+Justin Anderson,2,3,32,1,Running Finger Roll Layup Shot,1,-10,5,True
+Justin Anderson,3,0,0,0,Running Jump Shot,26,-226,137,False
+Justin Anderson,1,4,11,1,Running Layup Shot,2,12,21,True
+Justin Anderson,1,7,49,1,Running Layup Shot,1,-4,10,True
+Justin Anderson,2,0,5,1,Running Layup Shot,1,11,11,True
+Justin Anderson,3,5,56,0,Running Layup Shot,5,-17,52,True
+Justin Anderson,4,1,51,1,Step Back Jump shot,17,76,162,True
+Justin Anderson,3,0,38,1,Tip Dunk Shot,0,0,-6,True
+Justin Anderson,2,1,49,1,Tip Dunk Shot,0,0,-6,True
+Justin Anderson,4,8,29,1,Tip Dunk Shot,0,0,-6,True
+Justin Anderson,2,11,3,1,Tip Layup Shot,0,0,-6,True
+Justin Anderson,3,1,31,0,Tip Layup Shot,0,0,-6,True
+Justin Anderson,3,2,0,0,Tip Layup Shot,0,0,-6,True
+Justin Anderson,2,0,0,0,Tip Layup Shot,0,0,-6,True
+Justin Anderson,3,1,9,0,Tip Layup Shot,0,0,-6,True
+Justin Anderson,2,0,42,0,Tip Layup Shot,0,0,-6,True
+Justin Anderson,3,4,40,1,Turnaround Fadeaway Bank Jump Shot,2,-20,11,True
+Justin Anderson,4,9,1,0,Turnaround Jump Shot,7,-38,67,True

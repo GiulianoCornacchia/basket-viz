@@ -1,0 +1,90 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Kyle Collinsworth,1,8,32,1,Cutting Dunk Shot,0,6,3,True
+Kyle Collinsworth,4,2,37,1,Cutting Dunk Shot,1,8,6,True
+Kyle Collinsworth,2,8,27,1,Driving Finger Roll Layup Shot,1,-2,15,True
+Kyle Collinsworth,3,1,22,1,Driving Finger Roll Layup Shot,3,-15,26,True
+Kyle Collinsworth,1,5,22,0,Driving Finger Roll Layup Shot,0,1,9,True
+Kyle Collinsworth,4,9,11,0,Driving Finger Roll Layup Shot,1,0,13,True
+Kyle Collinsworth,3,0,48,1,Driving Finger Roll Layup Shot,2,-2,24,True
+Kyle Collinsworth,4,11,14,0,Driving Floating Bank Jump Shot,3,-6,35,True
+Kyle Collinsworth,4,4,29,1,Driving Floating Bank Jump Shot,10,15,102,True
+Kyle Collinsworth,2,3,8,1,Driving Floating Jump Shot,4,-7,44,True
+Kyle Collinsworth,1,1,39,0,Driving Floating Jump Shot,9,70,66,True
+Kyle Collinsworth,1,2,10,0,Driving Floating Jump Shot,10,11,109,True
+Kyle Collinsworth,2,4,7,0,Driving Floating Jump Shot,4,-35,22,True
+Kyle Collinsworth,1,10,59,0,Driving Floating Jump Shot,10,98,34,True
+Kyle Collinsworth,4,8,48,0,Driving Floating Jump Shot,4,-22,36,True
+Kyle Collinsworth,4,1,21,1,Driving Floating Jump Shot,3,-14,34,True
+Kyle Collinsworth,1,7,23,0,Driving Floating Jump Shot,12,-18,125,True
+Kyle Collinsworth,3,0,58,0,Driving Floating Jump Shot,11,27,109,True
+Kyle Collinsworth,3,11,26,1,Driving Floating Jump Shot,5,8,52,True
+Kyle Collinsworth,1,4,58,1,Driving Floating Jump Shot,9,-6,99,True
+Kyle Collinsworth,2,11,47,1,Driving Hook Shot,2,0,27,True
+Kyle Collinsworth,2,11,3,1,Driving Layup Shot,3,22,27,True
+Kyle Collinsworth,2,9,53,1,Driving Layup Shot,2,-11,19,True
+Kyle Collinsworth,4,11,38,1,Driving Layup Shot,1,-6,13,True
+Kyle Collinsworth,4,11,4,1,Driving Layup Shot,4,6,49,True
+Kyle Collinsworth,4,10,49,0,Driving Layup Shot,4,32,31,True
+Kyle Collinsworth,4,8,58,0,Driving Layup Shot,4,-20,45,True
+Kyle Collinsworth,4,0,14,1,Driving Layup Shot,0,0,8,True
+Kyle Collinsworth,3,5,9,0,Driving Layup Shot,7,14,72,True
+Kyle Collinsworth,4,6,16,0,Driving Layup Shot,6,6,61,True
+Kyle Collinsworth,4,10,7,0,Driving Layup Shot,1,9,11,True
+Kyle Collinsworth,4,9,55,1,Driving Layup Shot,1,-9,10,True
+Kyle Collinsworth,4,4,9,0,Driving Reverse Layup Shot,1,-14,9,True
+Kyle Collinsworth,3,2,35,0,Finger Roll Layup Shot,5,-6,50,True
+Kyle Collinsworth,4,8,43,0,Finger Roll Layup Shot,6,-41,55,True
+Kyle Collinsworth,5,0,47,0,Floating Jump shot,14,59,132,True
+Kyle Collinsworth,3,11,48,1,Floating Jump shot,13,52,129,True
+Kyle Collinsworth,4,8,31,0,Floating Jump shot,7,48,52,True
+Kyle Collinsworth,4,1,35,1,Floating Jump shot,9,2,94,True
+Kyle Collinsworth,3,5,51,0,Floating Jump shot,13,-47,122,True
+Kyle Collinsworth,2,9,12,1,Floating Jump shot,9,-2,98,True
+Kyle Collinsworth,4,0,46,1,Floating Jump shot,9,77,58,True
+Kyle Collinsworth,4,2,54,0,Floating Jump shot,6,6,67,True
+Kyle Collinsworth,4,0,28,0,Jump Shot,25,-118,230,False
+Kyle Collinsworth,3,11,45,0,Jump Shot,22,223,-11,False
+Kyle Collinsworth,3,8,54,0,Jump Shot,26,41,257,False
+Kyle Collinsworth,4,9,18,0,Jump Shot,24,-174,179,False
+Kyle Collinsworth,2,2,47,0,Jump Shot,25,103,228,False
+Kyle Collinsworth,4,1,53,0,Jump Shot,25,-27,253,False
+Kyle Collinsworth,4,8,15,0,Jump Shot,24,231,89,False
+Kyle Collinsworth,4,6,52,0,Jump Shot,23,236,18,False
+Kyle Collinsworth,1,1,38,0,Jump Shot,25,-107,232,False
+Kyle Collinsworth,2,10,23,1,Jump Shot,23,-237,16,False
+Kyle Collinsworth,4,5,25,0,Jump Shot,22,-227,10,False
+Kyle Collinsworth,2,5,31,0,Jump Shot,23,236,3,False
+Kyle Collinsworth,4,4,25,0,Jump Shot,23,-230,20,False
+Kyle Collinsworth,4,5,47,0,Jump Shot,6,-5,63,True
+Kyle Collinsworth,2,6,15,0,Jump Shot,7,-53,55,True
+Kyle Collinsworth,3,0,58,0,Jump Shot,24,214,122,False
+Kyle Collinsworth,3,0,59,1,Jump Shot,25,-134,217,False
+Kyle Collinsworth,2,7,20,1,Jump Shot,26,-223,147,False
+Kyle Collinsworth,2,7,21,0,Layup Shot,4,-2,44,True
+Kyle Collinsworth,4,1,43,0,Layup Shot,2,-19,7,True
+Kyle Collinsworth,1,2,19,1,Layup Shot,8,-7,89,True
+Kyle Collinsworth,4,2,39,0,Layup Shot,3,9,34,True
+Kyle Collinsworth,4,10,30,0,Layup Shot,4,-35,31,True
+Kyle Collinsworth,1,4,14,1,Pullup Jump shot,4,-9,45,True
+Kyle Collinsworth,4,7,16,0,Pullup Jump shot,21,71,202,True
+Kyle Collinsworth,2,11,5,1,Putback Layup Shot,1,-4,15,True
+Kyle Collinsworth,4,0,4,1,Putback Layup Shot,0,0,-6,True
+Kyle Collinsworth,4,9,52,0,Putback Layup Shot,1,-4,17,True
+Kyle Collinsworth,1,7,20,0,Putback Layup Shot,0,-5,0,True
+Kyle Collinsworth,1,0,1,0,Putback Layup Shot,1,-11,11,True
+Kyle Collinsworth,4,2,11,0,Reverse Layup Shot,2,-2,21,True
+Kyle Collinsworth,1,2,29,1,Reverse Layup Shot,3,-22,22,True
+Kyle Collinsworth,4,1,50,1,Running Dunk Shot,0,-1,1,True
+Kyle Collinsworth,4,0,39,1,Running Dunk Shot,0,5,-5,True
+Kyle Collinsworth,3,0,35,0,Running Layup Shot,2,20,20,True
+Kyle Collinsworth,2,11,35,1,Running Layup Shot,4,-18,36,True
+Kyle Collinsworth,2,0,1,1,Tip Dunk Shot,0,0,-6,True
+Kyle Collinsworth,3,1,19,1,Tip Layup Shot,0,0,-6,True
+Kyle Collinsworth,3,5,3,0,Tip Layup Shot,0,0,-6,True
+Kyle Collinsworth,1,7,39,0,Tip Layup Shot,1,8,16,True
+Kyle Collinsworth,1,10,56,0,Tip Layup Shot,0,0,-6,True
+Kyle Collinsworth,3,5,0,1,Tip Layup Shot,1,3,17,True
+Kyle Collinsworth,4,11,7,0,Tip Layup Shot,0,0,-6,True
+Kyle Collinsworth,4,6,3,1,Turnaround Fadeaway Bank Jump Shot,1,-14,11,True
+Kyle Collinsworth,1,2,13,0,Turnaround Jump Shot,3,6,36,True
+Kyle Collinsworth,4,4,27,0,Turnaround Jump Shot,2,-25,15,True

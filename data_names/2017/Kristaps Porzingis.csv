@@ -1,0 +1,876 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Kristaps Porzingis,1,8,32,1,Alley Oop Dunk Shot,0,-5,8,True
+Kristaps Porzingis,3,2,9,1,Alley Oop Dunk Shot,0,-5,4,True
+Kristaps Porzingis,4,0,50,1,Alley Oop Dunk Shot,1,3,15,True
+Kristaps Porzingis,1,1,53,1,Alley Oop Dunk Shot,0,-9,1,True
+Kristaps Porzingis,1,0,2,1,Alley Oop Dunk Shot,0,-8,0,True
+Kristaps Porzingis,1,10,1,0,Alley Oop Dunk Shot,1,11,-4,True
+Kristaps Porzingis,1,5,51,1,Alley Oop Dunk Shot,1,8,7,True
+Kristaps Porzingis,3,10,15,0,Alley Oop Layup shot,1,10,17,True
+Kristaps Porzingis,1,7,45,1,Alley Oop Layup shot,2,-13,17,True
+Kristaps Porzingis,2,5,15,1,Cutting Dunk Shot,2,-6,26,True
+Kristaps Porzingis,3,9,43,1,Cutting Dunk Shot,0,2,5,True
+Kristaps Porzingis,1,7,14,1,Cutting Dunk Shot,0,-6,4,True
+Kristaps Porzingis,2,2,39,1,Cutting Dunk Shot,0,3,6,True
+Kristaps Porzingis,1,10,16,1,Cutting Dunk Shot,1,3,11,True
+Kristaps Porzingis,5,0,0,1,Cutting Dunk Shot,0,-8,0,True
+Kristaps Porzingis,1,1,22,1,Cutting Dunk Shot,2,2,21,True
+Kristaps Porzingis,1,4,10,1,Cutting Dunk Shot,0,-4,0,True
+Kristaps Porzingis,4,1,2,1,Cutting Dunk Shot,3,6,31,True
+Kristaps Porzingis,2,1,3,1,Cutting Finger Roll Layup Shot,2,16,22,True
+Kristaps Porzingis,1,1,19,0,Cutting Layup Shot,2,-20,10,True
+Kristaps Porzingis,2,0,39,1,Cutting Layup Shot,6,44,52,True
+Kristaps Porzingis,4,7,11,1,Cutting Layup Shot,5,54,20,True
+Kristaps Porzingis,2,2,27,0,Cutting Layup Shot,2,18,15,True
+Kristaps Porzingis,4,11,40,1,Cutting Layup Shot,0,-5,4,True
+Kristaps Porzingis,2,7,17,1,Cutting Layup Shot,10,-8,104,True
+Kristaps Porzingis,4,2,14,1,Cutting Layup Shot,0,-2,8,True
+Kristaps Porzingis,4,2,8,0,Cutting Layup Shot,6,46,47,True
+Kristaps Porzingis,3,11,13,0,Driving Bank Hook Shot,4,40,20,True
+Kristaps Porzingis,4,4,48,1,Driving Dunk Shot,1,-3,-10,True
+Kristaps Porzingis,2,6,18,1,Driving Dunk Shot,1,0,11,True
+Kristaps Porzingis,1,11,2,1,Driving Dunk Shot,0,-3,8,True
+Kristaps Porzingis,3,5,39,1,Driving Dunk Shot,0,9,3,True
+Kristaps Porzingis,3,4,9,1,Driving Dunk Shot,1,-2,11,True
+Kristaps Porzingis,1,8,40,1,Driving Dunk Shot,0,-6,-2,True
+Kristaps Porzingis,1,7,22,1,Driving Dunk Shot,0,3,-4,True
+Kristaps Porzingis,2,2,43,1,Driving Dunk Shot,1,5,13,True
+Kristaps Porzingis,3,5,32,0,Driving Finger Roll Layup Shot,1,8,16,True
+Kristaps Porzingis,4,2,47,1,Driving Finger Roll Layup Shot,2,6,28,True
+Kristaps Porzingis,4,0,11,1,Driving Finger Roll Layup Shot,2,6,21,True
+Kristaps Porzingis,1,3,25,1,Driving Floating Bank Jump Shot,11,-82,76,True
+Kristaps Porzingis,3,6,26,1,Driving Floating Bank Jump Shot,6,-39,54,True
+Kristaps Porzingis,4,7,46,0,Driving Floating Bank Jump Shot,4,32,26,True
+Kristaps Porzingis,4,2,30,1,Driving Floating Bank Jump Shot,9,-92,36,True
+Kristaps Porzingis,2,5,0,1,Driving Floating Bank Jump Shot,7,75,26,True
+Kristaps Porzingis,2,6,37,0,Driving Floating Bank Jump Shot,4,43,25,True
+Kristaps Porzingis,4,6,14,0,Driving Floating Jump Shot,19,134,142,True
+Kristaps Porzingis,1,10,0,1,Driving Floating Jump Shot,2,27,5,True
+Kristaps Porzingis,2,4,25,0,Driving Floating Jump Shot,9,-30,88,True
+Kristaps Porzingis,1,11,1,0,Driving Floating Jump Shot,1,-13,13,True
+Kristaps Porzingis,2,9,54,0,Driving Floating Jump Shot,12,19,125,True
+Kristaps Porzingis,1,7,47,1,Driving Hook Shot,11,32,109,True
+Kristaps Porzingis,2,1,15,0,Driving Hook Shot,10,-32,95,True
+Kristaps Porzingis,3,1,6,1,Driving Hook Shot,6,57,26,True
+Kristaps Porzingis,3,8,42,1,Driving Hook Shot,6,47,42,True
+Kristaps Porzingis,4,8,30,0,Driving Hook Shot,13,-47,130,True
+Kristaps Porzingis,2,6,9,0,Driving Hook Shot,9,27,94,True
+Kristaps Porzingis,3,4,24,1,Driving Hook Shot,5,32,47,True
+Kristaps Porzingis,1,2,44,0,Driving Hook Shot,8,5,84,True
+Kristaps Porzingis,2,0,23,1,Driving Hook Shot,10,-87,63,True
+Kristaps Porzingis,3,9,16,0,Driving Hook Shot,2,-3,23,True
+Kristaps Porzingis,2,1,43,0,Driving Hook Shot,8,0,83,True
+Kristaps Porzingis,5,0,52,1,Driving Hook Shot,2,19,19,True
+Kristaps Porzingis,1,2,44,0,Driving Layup Shot,9,-71,59,True
+Kristaps Porzingis,4,6,41,1,Driving Layup Shot,0,-5,7,True
+Kristaps Porzingis,3,8,19,0,Driving Layup Shot,6,-38,54,True
+Kristaps Porzingis,4,6,3,0,Driving Layup Shot,5,-51,31,True
+Kristaps Porzingis,2,7,6,1,Driving Layup Shot,2,7,20,True
+Kristaps Porzingis,1,3,40,0,Driving Layup Shot,1,6,18,True
+Kristaps Porzingis,4,0,37,0,Driving Layup Shot,1,-6,13,True
+Kristaps Porzingis,1,7,14,1,Driving Layup Shot,1,-4,19,True
+Kristaps Porzingis,2,0,19,1,Driving Layup Shot,3,30,8,True
+Kristaps Porzingis,4,5,46,0,Driving Layup Shot,3,-35,5,True
+Kristaps Porzingis,3,11,20,1,Driving Layup Shot,6,-13,67,True
+Kristaps Porzingis,2,3,51,1,Driving Layup Shot,4,-7,48,True
+Kristaps Porzingis,1,7,22,0,Driving Layup Shot,3,36,9,True
+Kristaps Porzingis,1,10,5,0,Driving Layup Shot,2,-6,20,True
+Kristaps Porzingis,2,7,4,1,Driving Layup Shot,2,-17,13,True
+Kristaps Porzingis,1,9,41,0,Driving Layup Shot,3,-20,25,True
+Kristaps Porzingis,1,2,6,1,Driving Layup Shot,7,55,58,True
+Kristaps Porzingis,1,4,12,0,Driving Layup Shot,3,-35,5,True
+Kristaps Porzingis,1,4,47,1,Driving Layup Shot,3,20,29,True
+Kristaps Porzingis,4,3,11,0,Driving Layup Shot,3,-30,6,True
+Kristaps Porzingis,3,7,55,0,Driving Layup Shot,3,21,23,True
+Kristaps Porzingis,4,6,58,0,Driving Layup Shot,4,-39,22,True
+Kristaps Porzingis,2,9,0,0,Driving Reverse Layup Shot,0,5,-5,True
+Kristaps Porzingis,4,1,54,0,Driving Reverse Layup Shot,2,12,27,True
+Kristaps Porzingis,6,1,46,1,Dunk Shot,1,2,-12,True
+Kristaps Porzingis,1,7,35,1,Dunk Shot,1,3,15,True
+Kristaps Porzingis,1,8,29,1,Dunk Shot,0,-7,4,True
+Kristaps Porzingis,4,6,31,1,Dunk Shot,0,-4,3,True
+Kristaps Porzingis,2,6,40,1,Dunk Shot,0,3,3,True
+Kristaps Porzingis,1,9,52,0,Dunk Shot,2,1,29,True
+Kristaps Porzingis,2,10,58,1,Dunk Shot,0,0,5,True
+Kristaps Porzingis,2,0,42,1,Dunk Shot,0,-1,6,True
+Kristaps Porzingis,2,1,59,1,Dunk Shot,2,-11,20,True
+Kristaps Porzingis,1,9,23,1,Dunk Shot,0,3,5,True
+Kristaps Porzingis,3,4,53,1,Dunk Shot,1,-13,0,True
+Kristaps Porzingis,4,11,27,1,Dunk Shot,1,-3,16,True
+Kristaps Porzingis,1,10,25,1,Dunk Shot,0,-5,5,True
+Kristaps Porzingis,1,4,17,1,Dunk Shot,2,5,22,True
+Kristaps Porzingis,2,5,34,1,Dunk Shot,0,-6,3,True
+Kristaps Porzingis,4,4,38,1,Dunk Shot,1,-1,12,True
+Kristaps Porzingis,2,8,23,1,Dunk Shot,1,-6,17,True
+Kristaps Porzingis,2,8,50,1,Dunk Shot,1,6,13,True
+Kristaps Porzingis,1,7,54,1,Dunk Shot,0,0,-1,True
+Kristaps Porzingis,1,6,10,1,Dunk Shot,0,0,-1,True
+Kristaps Porzingis,1,5,9,1,Dunk Shot,1,-13,11,True
+Kristaps Porzingis,2,5,36,1,Dunk Shot,1,6,15,True
+Kristaps Porzingis,3,3,24,1,Dunk Shot,0,-4,-4,True
+Kristaps Porzingis,3,6,57,1,Dunk Shot,1,3,17,True
+Kristaps Porzingis,1,6,49,0,Fadeaway Jump Shot,14,-32,142,True
+Kristaps Porzingis,3,7,47,1,Fadeaway Jump Shot,6,-2,64,True
+Kristaps Porzingis,1,10,30,0,Fadeaway Jump Shot,13,105,92,True
+Kristaps Porzingis,1,2,49,0,Fadeaway Jump Shot,22,-128,186,True
+Kristaps Porzingis,3,8,44,0,Fadeaway Jump Shot,11,-116,17,True
+Kristaps Porzingis,1,1,37,0,Fadeaway Jump Shot,10,42,100,True
+Kristaps Porzingis,4,8,53,0,Fadeaway Jump Shot,15,-114,107,True
+Kristaps Porzingis,3,8,38,0,Fadeaway Jump Shot,18,129,134,True
+Kristaps Porzingis,1,9,34,0,Fadeaway Jump Shot,16,-131,94,True
+Kristaps Porzingis,3,10,46,1,Fadeaway Jump Shot,8,77,32,True
+Kristaps Porzingis,2,4,22,0,Fadeaway Jump Shot,13,-63,121,True
+Kristaps Porzingis,3,0,50,1,Fadeaway Jump Shot,15,47,150,True
+Kristaps Porzingis,1,9,17,0,Fadeaway Jump Shot,13,83,101,True
+Kristaps Porzingis,4,3,44,0,Fadeaway Jump Shot,9,-86,40,True
+Kristaps Porzingis,4,10,35,1,Fadeaway Jump Shot,10,-14,101,True
+Kristaps Porzingis,1,0,23,0,Fadeaway Jump Shot,10,35,99,True
+Kristaps Porzingis,2,7,15,0,Fadeaway Jump Shot,82,40,827,False
+Kristaps Porzingis,3,11,26,0,Fadeaway Jump Shot,8,-89,10,True
+Kristaps Porzingis,2,2,33,1,Floating Jump shot,8,75,28,True
+Kristaps Porzingis,4,3,5,1,Floating Jump shot,5,25,51,True
+Kristaps Porzingis,1,8,6,0,Hook Bank Shot,9,73,68,True
+Kristaps Porzingis,1,1,47,0,Hook Bank Shot,10,93,58,True
+Kristaps Porzingis,4,9,32,0,Hook Shot,6,59,36,True
+Kristaps Porzingis,2,6,20,1,Hook Shot,6,68,15,True
+Kristaps Porzingis,2,5,9,1,Hook Shot,5,-30,50,True
+Kristaps Porzingis,4,4,51,0,Hook Shot,3,22,30,True
+Kristaps Porzingis,1,6,14,0,Hook Shot,9,-20,89,True
+Kristaps Porzingis,1,7,45,0,Hook Shot,2,5,21,True
+Kristaps Porzingis,1,6,7,0,Hook Shot,7,13,71,True
+Kristaps Porzingis,4,7,26,0,Hook Shot,6,52,30,True
+Kristaps Porzingis,1,10,58,0,Hook Shot,13,-6,131,True
+Kristaps Porzingis,3,11,35,1,Hook Shot,11,-84,75,True
+Kristaps Porzingis,2,0,10,0,Hook Shot,2,-4,20,True
+Kristaps Porzingis,3,9,10,1,Jump Bank Shot,16,-143,76,True
+Kristaps Porzingis,2,6,10,1,Jump Bank Shot,11,73,94,True
+Kristaps Porzingis,1,4,32,1,Jump Bank Shot,11,-99,54,True
+Kristaps Porzingis,2,6,9,1,Jump Bank Shot,13,-114,73,True
+Kristaps Porzingis,2,3,41,0,Jump Bank Shot,15,121,90,True
+Kristaps Porzingis,1,6,26,1,Jump Bank Shot,13,-109,80,True
+Kristaps Porzingis,4,5,0,0,Jump Bank Shot,12,-92,82,True
+Kristaps Porzingis,4,6,55,0,Jump Bank Shot,15,-122,102,True
+Kristaps Porzingis,2,6,24,0,Jump Bank Shot,12,-109,52,True
+Kristaps Porzingis,4,3,59,0,Jump Bank Shot,1,18,8,True
+Kristaps Porzingis,4,2,20,0,Jump Bank Shot,11,-92,61,True
+Kristaps Porzingis,1,5,2,1,Jump Bank Shot,13,93,96,True
+Kristaps Porzingis,2,6,7,0,Jump Bank Shot,7,49,55,True
+Kristaps Porzingis,2,11,19,0,Jump Bank Shot,9,-89,30,True
+Kristaps Porzingis,2,4,55,1,Jump Bank Shot,11,96,67,True
+Kristaps Porzingis,1,6,22,0,Jump Bank Shot,15,111,113,True
+Kristaps Porzingis,1,4,3,0,Jump Bank Shot,5,19,53,True
+Kristaps Porzingis,2,2,38,1,Jump Bank Shot,11,-84,84,True
+Kristaps Porzingis,1,8,40,0,Jump Bank Shot,14,109,101,True
+Kristaps Porzingis,4,3,10,0,Jump Bank Shot,5,9,51,True
+Kristaps Porzingis,1,6,9,1,Jump Shot,18,-119,137,True
+Kristaps Porzingis,2,11,15,1,Jump Shot,28,-5,289,False
+Kristaps Porzingis,2,9,51,0,Jump Shot,28,2,284,False
+Kristaps Porzingis,1,9,18,1,Jump Shot,9,29,94,True
+Kristaps Porzingis,4,9,3,1,Jump Shot,19,-36,189,True
+Kristaps Porzingis,2,4,14,0,Jump Shot,26,67,252,False
+Kristaps Porzingis,4,5,13,1,Jump Shot,13,133,6,True
+Kristaps Porzingis,4,6,10,0,Jump Shot,26,86,248,False
+Kristaps Porzingis,1,11,40,1,Jump Shot,28,133,257,False
+Kristaps Porzingis,1,9,59,0,Jump Shot,18,104,152,True
+Kristaps Porzingis,4,1,44,1,Jump Shot,11,-112,4,True
+Kristaps Porzingis,2,6,7,1,Jump Shot,27,33,271,False
+Kristaps Porzingis,3,4,55,0,Jump Shot,25,113,227,False
+Kristaps Porzingis,1,10,39,0,Jump Shot,26,100,240,False
+Kristaps Porzingis,1,6,3,0,Jump Shot,18,63,178,True
+Kristaps Porzingis,1,7,52,0,Jump Shot,18,-42,183,True
+Kristaps Porzingis,4,6,38,0,Jump Shot,17,-71,158,True
+Kristaps Porzingis,2,1,34,1,Jump Shot,28,47,281,False
+Kristaps Porzingis,4,4,36,1,Jump Shot,26,-150,223,False
+Kristaps Porzingis,4,7,55,0,Jump Shot,13,111,69,True
+Kristaps Porzingis,2,4,8,0,Jump Shot,21,141,158,True
+Kristaps Porzingis,2,3,34,0,Jump Shot,16,85,140,True
+Kristaps Porzingis,1,9,29,1,Jump Shot,25,107,226,False
+Kristaps Porzingis,2,2,39,1,Jump Shot,27,82,260,False
+Kristaps Porzingis,1,8,46,1,Jump Shot,21,-71,198,True
+Kristaps Porzingis,3,7,55,0,Jump Shot,27,79,259,False
+Kristaps Porzingis,4,7,32,1,Jump Shot,27,-39,272,False
+Kristaps Porzingis,1,10,54,1,Jump Shot,22,-228,-5,False
+Kristaps Porzingis,1,4,45,0,Jump Shot,25,27,251,False
+Kristaps Porzingis,1,7,47,1,Jump Shot,25,120,224,False
+Kristaps Porzingis,3,10,28,1,Jump Shot,19,24,195,True
+Kristaps Porzingis,3,11,22,1,Jump Shot,26,-168,201,False
+Kristaps Porzingis,3,5,16,1,Jump Shot,23,227,48,False
+Kristaps Porzingis,1,8,3,0,Jump Shot,25,77,242,False
+Kristaps Porzingis,3,8,47,0,Jump Shot,24,205,138,False
+Kristaps Porzingis,3,9,39,1,Jump Shot,24,223,99,False
+Kristaps Porzingis,2,0,42,0,Jump Shot,24,-119,210,False
+Kristaps Porzingis,4,7,3,1,Jump Shot,19,-106,169,True
+Kristaps Porzingis,1,11,45,1,Jump Shot,21,-5,219,True
+Kristaps Porzingis,1,1,41,0,Jump Shot,28,2,283,False
+Kristaps Porzingis,2,11,25,0,Jump Shot,10,0,108,True
+Kristaps Porzingis,4,2,12,1,Jump Shot,25,-150,202,False
+Kristaps Porzingis,1,11,20,0,Jump Shot,26,-21,267,False
+Kristaps Porzingis,3,3,52,1,Jump Shot,11,-96,55,True
+Kristaps Porzingis,3,9,8,1,Jump Shot,27,79,264,False
+Kristaps Porzingis,1,6,34,0,Jump Shot,25,-136,215,False
+Kristaps Porzingis,4,7,0,1,Jump Shot,26,-71,251,False
+Kristaps Porzingis,1,9,42,0,Jump Shot,25,24,256,False
+Kristaps Porzingis,3,5,4,0,Jump Shot,26,72,253,False
+Kristaps Porzingis,4,1,18,0,Jump Shot,29,-185,224,False
+Kristaps Porzingis,1,9,49,1,Jump Shot,26,-36,258,False
+Kristaps Porzingis,5,0,11,0,Jump Shot,25,-102,231,False
+Kristaps Porzingis,3,3,11,1,Jump Shot,28,79,276,False
+Kristaps Porzingis,2,5,24,0,Jump Shot,27,119,252,False
+Kristaps Porzingis,3,9,7,0,Jump Shot,17,-70,163,True
+Kristaps Porzingis,4,0,10,0,Jump Shot,15,-48,150,True
+Kristaps Porzingis,1,0,25,0,Jump Shot,14,100,104,True
+Kristaps Porzingis,3,5,35,0,Jump Shot,26,221,137,False
+Kristaps Porzingis,1,4,31,0,Jump Shot,26,-160,214,False
+Kristaps Porzingis,4,6,54,0,Jump Shot,13,16,134,True
+Kristaps Porzingis,3,7,48,1,Jump Shot,26,120,231,False
+Kristaps Porzingis,2,2,12,1,Jump Shot,19,-193,7,True
+Kristaps Porzingis,2,1,21,0,Jump Shot,27,211,179,False
+Kristaps Porzingis,5,3,29,1,Jump Shot,25,22,256,False
+Kristaps Porzingis,1,10,44,0,Jump Shot,12,52,117,True
+Kristaps Porzingis,3,8,2,1,Jump Shot,24,60,241,False
+Kristaps Porzingis,1,2,23,0,Jump Shot,16,-96,134,True
+Kristaps Porzingis,3,7,4,0,Jump Shot,22,-226,-6,False
+Kristaps Porzingis,4,5,46,0,Jump Shot,25,-173,187,False
+Kristaps Porzingis,3,9,16,0,Jump Shot,6,-26,61,True
+Kristaps Porzingis,1,6,32,1,Jump Shot,26,97,247,False
+Kristaps Porzingis,2,2,53,1,Jump Shot,25,-11,257,False
+Kristaps Porzingis,3,10,46,0,Jump Shot,19,-122,148,True
+Kristaps Porzingis,1,0,52,0,Jump Shot,16,-6,169,True
+Kristaps Porzingis,6,0,42,0,Jump Shot,8,-64,57,True
+Kristaps Porzingis,2,1,51,0,Jump Shot,18,47,180,True
+Kristaps Porzingis,5,2,47,0,Jump Shot,25,-134,219,False
+Kristaps Porzingis,3,11,19,0,Jump Shot,18,79,162,True
+Kristaps Porzingis,1,2,26,0,Jump Shot,26,89,248,False
+Kristaps Porzingis,6,0,7,1,Jump Shot,24,-57,241,False
+Kristaps Porzingis,1,9,6,0,Jump Shot,16,163,4,True
+Kristaps Porzingis,5,4,22,1,Jump Shot,26,-155,215,False
+Kristaps Porzingis,5,3,50,0,Jump Shot,25,-193,167,False
+Kristaps Porzingis,1,3,37,0,Jump Shot,22,223,49,False
+Kristaps Porzingis,4,6,6,0,Jump Shot,17,130,120,True
+Kristaps Porzingis,4,9,5,0,Jump Shot,19,-94,176,True
+Kristaps Porzingis,1,3,52,0,Jump Shot,15,-108,116,True
+Kristaps Porzingis,1,0,46,1,Jump Shot,16,-141,77,True
+Kristaps Porzingis,3,1,34,0,Jump Shot,26,-62,259,False
+Kristaps Porzingis,3,10,52,0,Jump Shot,13,-39,125,True
+Kristaps Porzingis,1,1,55,1,Jump Shot,25,-9,250,False
+Kristaps Porzingis,2,4,0,0,Jump Shot,12,-90,80,True
+Kristaps Porzingis,3,11,39,1,Jump Shot,25,141,210,False
+Kristaps Porzingis,3,8,54,1,Jump Shot,24,116,218,False
+Kristaps Porzingis,1,2,48,0,Jump Shot,19,10,193,True
+Kristaps Porzingis,1,11,42,0,Jump Shot,20,129,158,True
+Kristaps Porzingis,4,4,27,0,Jump Shot,17,84,150,True
+Kristaps Porzingis,4,1,42,0,Jump Shot,15,-76,136,True
+Kristaps Porzingis,3,9,14,1,Jump Shot,25,-15,258,False
+Kristaps Porzingis,3,10,36,0,Jump Shot,24,-162,187,False
+Kristaps Porzingis,4,3,12,1,Jump Shot,16,-84,140,True
+Kristaps Porzingis,4,3,48,1,Jump Shot,12,-1,125,True
+Kristaps Porzingis,2,0,7,0,Jump Shot,4,40,13,True
+Kristaps Porzingis,3,3,55,0,Jump Shot,29,36,289,False
+Kristaps Porzingis,3,3,13,0,Jump Shot,15,43,148,True
+Kristaps Porzingis,1,3,40,0,Jump Shot,27,65,271,False
+Kristaps Porzingis,2,4,5,0,Jump Shot,26,20,267,False
+Kristaps Porzingis,3,11,25,0,Jump Shot,27,-120,246,False
+Kristaps Porzingis,2,5,15,1,Jump Shot,27,138,243,False
+Kristaps Porzingis,1,7,49,1,Jump Shot,21,-75,200,True
+Kristaps Porzingis,3,3,8,0,Jump Shot,16,-164,18,True
+Kristaps Porzingis,3,8,22,0,Jump Shot,20,-88,189,True
+Kristaps Porzingis,3,4,10,0,Jump Shot,14,95,105,True
+Kristaps Porzingis,1,6,9,0,Jump Shot,25,-139,216,False
+Kristaps Porzingis,1,4,42,0,Jump Shot,5,-3,56,True
+Kristaps Porzingis,4,3,6,0,Jump Shot,19,-99,167,True
+Kristaps Porzingis,2,4,45,0,Jump Shot,4,28,37,True
+Kristaps Porzingis,3,10,52,1,Jump Shot,13,-5,138,True
+Kristaps Porzingis,1,0,45,0,Jump Shot,14,-76,120,True
+Kristaps Porzingis,1,3,19,0,Jump Shot,12,44,120,True
+Kristaps Porzingis,1,2,52,0,Jump Shot,14,16,147,True
+Kristaps Porzingis,2,2,12,0,Jump Shot,28,-32,281,False
+Kristaps Porzingis,1,9,30,1,Jump Shot,6,49,47,True
+Kristaps Porzingis,4,9,57,0,Jump Shot,18,-90,162,True
+Kristaps Porzingis,2,3,34,1,Jump Shot,8,-41,74,True
+Kristaps Porzingis,3,7,10,0,Jump Shot,14,55,138,True
+Kristaps Porzingis,3,9,41,0,Jump Shot,27,-107,251,False
+Kristaps Porzingis,3,10,17,1,Jump Shot,13,-58,126,True
+Kristaps Porzingis,4,1,30,1,Jump Shot,23,227,59,False
+Kristaps Porzingis,4,0,38,1,Jump Shot,17,-41,173,True
+Kristaps Porzingis,1,10,45,0,Jump Shot,27,72,264,False
+Kristaps Porzingis,4,4,11,0,Jump Shot,13,-56,122,True
+Kristaps Porzingis,4,5,9,0,Jump Shot,27,98,259,False
+Kristaps Porzingis,2,2,16,1,Jump Shot,24,-42,245,False
+Kristaps Porzingis,2,2,47,0,Jump Shot,10,104,-4,True
+Kristaps Porzingis,1,2,47,0,Jump Shot,12,-111,62,True
+Kristaps Porzingis,3,9,29,0,Jump Shot,24,119,218,False
+Kristaps Porzingis,1,6,48,1,Jump Shot,12,-121,2,True
+Kristaps Porzingis,3,2,49,0,Jump Shot,25,142,213,False
+Kristaps Porzingis,1,3,33,1,Jump Shot,25,-25,253,False
+Kristaps Porzingis,2,6,35,0,Jump Shot,25,-77,242,False
+Kristaps Porzingis,3,8,35,0,Jump Shot,26,149,216,False
+Kristaps Porzingis,1,7,2,0,Jump Shot,24,-16,247,False
+Kristaps Porzingis,1,11,20,1,Jump Shot,18,-56,174,True
+Kristaps Porzingis,1,1,30,0,Jump Shot,25,15,251,False
+Kristaps Porzingis,4,6,58,1,Jump Shot,20,78,194,True
+Kristaps Porzingis,3,5,23,0,Jump Shot,18,147,105,True
+Kristaps Porzingis,1,8,24,1,Jump Shot,27,148,229,False
+Kristaps Porzingis,3,4,54,1,Jump Shot,13,8,133,True
+Kristaps Porzingis,2,0,0,0,Jump Shot,59,123,586,False
+Kristaps Porzingis,1,3,46,0,Jump Shot,26,-92,248,False
+Kristaps Porzingis,4,4,37,0,Jump Shot,7,-73,-4,True
+Kristaps Porzingis,4,1,43,0,Jump Shot,28,-137,252,False
+Kristaps Porzingis,2,3,44,0,Jump Shot,26,103,247,False
+Kristaps Porzingis,2,8,46,1,Jump Shot,18,-86,162,True
+Kristaps Porzingis,3,9,51,0,Jump Shot,26,44,257,False
+Kristaps Porzingis,2,1,13,0,Jump Shot,16,79,150,True
+Kristaps Porzingis,3,5,47,0,Jump Shot,17,134,110,True
+Kristaps Porzingis,2,10,3,0,Jump Shot,27,134,236,False
+Kristaps Porzingis,2,7,29,0,Jump Shot,27,-90,255,False
+Kristaps Porzingis,1,11,21,1,Jump Shot,27,73,266,False
+Kristaps Porzingis,4,8,49,0,Jump Shot,16,-127,109,True
+Kristaps Porzingis,1,9,56,0,Jump Shot,27,180,208,False
+Kristaps Porzingis,2,2,48,1,Jump Shot,17,33,173,True
+Kristaps Porzingis,1,5,57,0,Jump Shot,17,-83,159,True
+Kristaps Porzingis,3,9,26,1,Jump Shot,25,115,232,False
+Kristaps Porzingis,3,8,12,1,Jump Shot,27,143,231,False
+Kristaps Porzingis,3,7,28,1,Jump Shot,19,143,134,True
+Kristaps Porzingis,3,10,42,0,Jump Shot,25,-149,209,False
+Kristaps Porzingis,1,4,14,1,Jump Shot,16,46,162,True
+Kristaps Porzingis,4,5,20,1,Jump Shot,18,59,178,True
+Kristaps Porzingis,2,0,8,0,Jump Shot,22,-42,224,True
+Kristaps Porzingis,1,11,32,0,Jump Shot,22,82,205,True
+Kristaps Porzingis,2,1,21,0,Jump Shot,25,-100,235,False
+Kristaps Porzingis,3,10,24,0,Jump Shot,22,-73,211,True
+Kristaps Porzingis,4,7,33,1,Jump Shot,27,-130,243,False
+Kristaps Porzingis,4,4,9,0,Jump Shot,17,32,173,True
+Kristaps Porzingis,4,7,6,0,Jump Shot,13,-115,68,True
+Kristaps Porzingis,1,10,7,0,Jump Shot,26,147,225,False
+Kristaps Porzingis,4,0,54,0,Jump Shot,27,-183,205,False
+Kristaps Porzingis,4,9,13,0,Jump Shot,27,155,228,False
+Kristaps Porzingis,3,3,43,1,Jump Shot,26,43,258,False
+Kristaps Porzingis,2,5,50,0,Jump Shot,25,-184,183,False
+Kristaps Porzingis,3,2,42,0,Jump Shot,11,-60,100,True
+Kristaps Porzingis,4,3,7,1,Jump Shot,21,-142,162,True
+Kristaps Porzingis,3,11,40,1,Jump Shot,16,-161,1,True
+Kristaps Porzingis,4,4,50,1,Jump Shot,25,147,214,False
+Kristaps Porzingis,1,4,35,0,Jump Shot,25,180,177,False
+Kristaps Porzingis,4,0,0,0,Jump Shot,37,-161,336,False
+Kristaps Porzingis,4,5,32,1,Jump Shot,12,63,107,True
+Kristaps Porzingis,2,5,7,1,Jump Shot,29,-3,294,False
+Kristaps Porzingis,2,4,16,0,Jump Shot,22,-226,-16,False
+Kristaps Porzingis,1,3,29,0,Jump Shot,26,2,260,False
+Kristaps Porzingis,1,4,7,0,Jump Shot,19,-41,194,True
+Kristaps Porzingis,2,0,33,0,Jump Shot,20,-31,207,True
+Kristaps Porzingis,1,6,58,0,Jump Shot,27,119,246,False
+Kristaps Porzingis,2,5,36,1,Jump Shot,25,-19,252,False
+Kristaps Porzingis,1,4,20,0,Jump Shot,28,136,248,False
+Kristaps Porzingis,3,9,55,0,Jump Shot,25,147,209,False
+Kristaps Porzingis,2,7,52,0,Jump Shot,13,132,3,True
+Kristaps Porzingis,4,7,25,0,Jump Shot,26,88,251,False
+Kristaps Porzingis,2,4,31,0,Jump Shot,16,114,121,True
+Kristaps Porzingis,4,2,6,1,Jump Shot,10,-100,15,True
+Kristaps Porzingis,4,2,37,0,Jump Shot,22,157,156,True
+Kristaps Porzingis,1,5,21,1,Jump Shot,27,166,223,False
+Kristaps Porzingis,4,0,0,0,Jump Shot,26,19,261,False
+Kristaps Porzingis,3,4,13,1,Jump Shot,25,123,218,False
+Kristaps Porzingis,2,3,29,1,Jump Shot,26,131,228,False
+Kristaps Porzingis,1,5,59,1,Jump Shot,14,116,79,True
+Kristaps Porzingis,4,1,29,1,Jump Shot,16,-29,159,True
+Kristaps Porzingis,3,5,32,1,Jump Shot,27,-120,247,False
+Kristaps Porzingis,1,4,7,0,Jump Shot,10,5,104,True
+Kristaps Porzingis,4,5,57,0,Jump Shot,10,-100,38,True
+Kristaps Porzingis,1,0,26,1,Jump Shot,19,33,189,True
+Kristaps Porzingis,3,10,45,1,Jump Shot,27,39,271,False
+Kristaps Porzingis,5,3,26,0,Jump Shot,26,45,261,False
+Kristaps Porzingis,2,5,45,0,Jump Shot,12,-123,3,True
+Kristaps Porzingis,3,10,15,0,Jump Shot,13,59,116,True
+Kristaps Porzingis,1,4,48,0,Jump Shot,26,73,250,False
+Kristaps Porzingis,3,3,14,1,Jump Shot,16,108,127,True
+Kristaps Porzingis,3,2,41,0,Jump Shot,19,67,186,True
+Kristaps Porzingis,2,0,44,0,Jump Shot,8,-80,11,True
+Kristaps Porzingis,3,6,9,0,Jump Shot,21,6,214,True
+Kristaps Porzingis,1,1,7,1,Jump Shot,24,16,248,False
+Kristaps Porzingis,3,1,52,0,Jump Shot,26,25,263,False
+Kristaps Porzingis,2,7,8,1,Jump Shot,7,3,73,True
+Kristaps Porzingis,4,3,19,0,Jump Shot,14,-67,130,True
+Kristaps Porzingis,1,0,34,0,Jump Shot,27,96,260,False
+Kristaps Porzingis,4,2,52,0,Jump Shot,8,37,73,True
+Kristaps Porzingis,1,1,33,1,Jump Shot,12,94,87,True
+Kristaps Porzingis,2,6,15,0,Jump Shot,26,79,252,False
+Kristaps Porzingis,4,6,28,1,Jump Shot,15,-111,101,True
+Kristaps Porzingis,4,5,49,0,Jump Shot,14,119,83,True
+Kristaps Porzingis,4,0,8,1,Jump Shot,18,107,148,True
+Kristaps Porzingis,4,1,52,0,Jump Shot,25,95,239,False
+Kristaps Porzingis,2,1,58,0,Jump Shot,17,-177,18,True
+Kristaps Porzingis,2,10,32,0,Jump Shot,25,106,237,False
+Kristaps Porzingis,1,4,3,0,Jump Shot,22,-111,191,True
+Kristaps Porzingis,3,9,3,0,Jump Shot,24,210,122,False
+Kristaps Porzingis,2,0,43,1,Jump Shot,24,176,176,False
+Kristaps Porzingis,1,9,7,0,Jump Shot,11,107,46,True
+Kristaps Porzingis,3,2,32,0,Jump Shot,25,-112,225,False
+Kristaps Porzingis,4,0,1,0,Jump Shot,24,-75,237,False
+Kristaps Porzingis,2,3,6,0,Jump Shot,25,59,246,False
+Kristaps Porzingis,2,0,38,0,Jump Shot,25,-81,247,False
+Kristaps Porzingis,2,2,3,0,Jump Shot,17,70,157,True
+Kristaps Porzingis,1,4,28,0,Jump Shot,10,-72,83,True
+Kristaps Porzingis,3,11,42,1,Jump Shot,28,-46,278,False
+Kristaps Porzingis,1,10,57,0,Jump Shot,20,109,169,True
+Kristaps Porzingis,4,2,1,1,Jump Shot,25,-166,188,False
+Kristaps Porzingis,1,6,37,1,Jump Shot,17,64,164,True
+Kristaps Porzingis,3,3,41,0,Jump Shot,7,52,57,True
+Kristaps Porzingis,2,6,20,0,Jump Shot,22,43,222,True
+Kristaps Porzingis,1,11,42,1,Jump Shot,21,-136,165,True
+Kristaps Porzingis,1,11,6,1,Jump Shot,20,-100,178,True
+Kristaps Porzingis,3,4,52,1,Jump Shot,12,81,96,True
+Kristaps Porzingis,2,2,58,1,Jump Shot,13,66,113,True
+Kristaps Porzingis,3,3,1,0,Jump Shot,25,-105,233,False
+Kristaps Porzingis,2,0,37,0,Jump Shot,25,-31,257,False
+Kristaps Porzingis,1,5,35,0,Jump Shot,25,127,220,False
+Kristaps Porzingis,1,5,5,1,Jump Shot,27,56,268,False
+Kristaps Porzingis,2,1,20,0,Jump Shot,12,56,108,True
+Kristaps Porzingis,1,7,40,1,Jump Shot,25,-53,251,False
+Kristaps Porzingis,2,2,6,0,Jump Shot,27,52,274,False
+Kristaps Porzingis,1,1,41,0,Jump Shot,13,63,119,True
+Kristaps Porzingis,1,11,42,0,Jump Shot,24,-121,217,False
+Kristaps Porzingis,1,4,4,0,Jump Shot,25,11,253,False
+Kristaps Porzingis,1,9,38,1,Jump Shot,26,19,260,False
+Kristaps Porzingis,2,2,13,1,Jump Shot,15,65,143,True
+Kristaps Porzingis,1,10,3,1,Jump Shot,25,24,252,False
+Kristaps Porzingis,4,8,9,0,Jump Shot,21,193,88,True
+Kristaps Porzingis,4,3,41,0,Jump Shot,19,54,188,True
+Kristaps Porzingis,3,6,57,1,Jump Shot,25,90,236,False
+Kristaps Porzingis,2,3,56,1,Jump Shot,20,6,201,True
+Kristaps Porzingis,4,9,38,1,Jump Shot,25,32,253,False
+Kristaps Porzingis,2,1,3,0,Jump Shot,15,-58,143,True
+Kristaps Porzingis,1,1,20,0,Jump Shot,26,-12,264,False
+Kristaps Porzingis,4,5,59,0,Jump Shot,6,-29,53,True
+Kristaps Porzingis,3,7,53,0,Jump Shot,5,-48,19,True
+Kristaps Porzingis,3,9,6,0,Jump Shot,20,98,180,True
+Kristaps Porzingis,4,8,4,0,Jump Shot,26,60,257,False
+Kristaps Porzingis,4,4,15,0,Jump Shot,32,76,321,False
+Kristaps Porzingis,4,4,54,1,Jump Shot,8,84,14,True
+Kristaps Porzingis,2,2,2,1,Jump Shot,25,-145,210,False
+Kristaps Porzingis,4,4,11,0,Jump Shot,14,-112,87,True
+Kristaps Porzingis,3,9,13,0,Jump Shot,29,152,250,False
+Kristaps Porzingis,1,6,55,0,Jump Shot,28,-79,274,False
+Kristaps Porzingis,2,3,26,0,Jump Shot,18,143,122,True
+Kristaps Porzingis,1,5,44,0,Jump Shot,15,118,105,True
+Kristaps Porzingis,2,5,13,0,Jump Shot,13,80,105,True
+Kristaps Porzingis,3,9,48,1,Jump Shot,23,-230,53,False
+Kristaps Porzingis,1,4,25,0,Jump Shot,14,92,110,True
+Kristaps Porzingis,2,6,31,0,Jump Shot,25,147,205,False
+Kristaps Porzingis,3,7,24,0,Jump Shot,10,96,35,True
+Kristaps Porzingis,3,11,22,1,Jump Shot,22,95,206,True
+Kristaps Porzingis,1,8,55,0,Jump Shot,27,105,257,False
+Kristaps Porzingis,3,8,23,0,Jump Shot,25,-25,257,False
+Kristaps Porzingis,4,5,37,0,Jump Shot,12,-119,38,True
+Kristaps Porzingis,3,4,29,0,Jump Shot,26,97,247,False
+Kristaps Porzingis,3,6,31,1,Jump Shot,23,231,58,False
+Kristaps Porzingis,2,5,10,1,Jump Shot,23,-230,-8,False
+Kristaps Porzingis,1,1,43,0,Jump Shot,14,125,79,True
+Kristaps Porzingis,1,4,28,0,Jump Shot,25,-123,221,False
+Kristaps Porzingis,1,11,40,0,Jump Shot,18,-41,179,True
+Kristaps Porzingis,3,3,0,0,Jump Shot,25,87,244,False
+Kristaps Porzingis,3,6,10,0,Jump Shot,17,-1,179,True
+Kristaps Porzingis,2,6,28,1,Jump Shot,12,88,82,True
+Kristaps Porzingis,4,1,25,0,Jump Shot,26,-104,239,False
+Kristaps Porzingis,4,2,21,1,Jump Shot,29,-115,267,False
+Kristaps Porzingis,3,9,49,0,Jump Shot,18,132,131,True
+Kristaps Porzingis,2,8,32,0,Jump Shot,25,-83,246,False
+Kristaps Porzingis,4,9,19,1,Jump Shot,10,-29,106,True
+Kristaps Porzingis,2,7,26,0,Jump Shot,14,135,38,True
+Kristaps Porzingis,4,4,45,1,Jump Shot,26,168,200,False
+Kristaps Porzingis,1,11,30,1,Jump Shot,19,156,118,True
+Kristaps Porzingis,2,10,26,1,Jump Shot,25,117,231,False
+Kristaps Porzingis,4,5,21,0,Jump Shot,25,-182,178,False
+Kristaps Porzingis,2,1,30,1,Jump Shot,14,-121,71,True
+Kristaps Porzingis,2,5,20,0,Jump Shot,29,-78,288,False
+Kristaps Porzingis,3,10,22,0,Jump Shot,15,51,147,True
+Kristaps Porzingis,3,11,9,0,Jump Shot,4,-25,32,True
+Kristaps Porzingis,2,3,14,0,Jump Shot,17,162,71,True
+Kristaps Porzingis,3,4,56,0,Jump Shot,23,-232,-5,False
+Kristaps Porzingis,1,0,50,1,Jump Shot,25,-145,211,False
+Kristaps Porzingis,1,7,43,0,Jump Shot,19,-12,199,True
+Kristaps Porzingis,1,9,49,0,Jump Shot,27,47,274,False
+Kristaps Porzingis,3,9,14,1,Jump Shot,25,158,204,False
+Kristaps Porzingis,3,9,38,0,Jump Shot,19,-150,132,True
+Kristaps Porzingis,1,7,7,1,Jump Shot,25,-104,231,False
+Kristaps Porzingis,1,8,38,0,Jump Shot,15,-63,147,True
+Kristaps Porzingis,3,8,38,1,Jump Shot,11,-37,104,True
+Kristaps Porzingis,1,4,5,1,Jump Shot,26,-115,237,False
+Kristaps Porzingis,3,7,25,0,Jump Shot,15,9,155,True
+Kristaps Porzingis,3,3,34,0,Jump Shot,25,46,251,False
+Kristaps Porzingis,1,6,59,1,Jump Shot,25,139,214,False
+Kristaps Porzingis,1,10,16,1,Jump Shot,14,-81,120,True
+Kristaps Porzingis,2,4,43,0,Jump Shot,25,100,232,False
+Kristaps Porzingis,1,6,14,1,Jump Shot,27,-84,258,False
+Kristaps Porzingis,4,1,49,1,Jump Shot,26,65,260,False
+Kristaps Porzingis,2,5,7,1,Jump Shot,11,37,109,True
+Kristaps Porzingis,1,9,13,0,Jump Shot,25,-107,231,False
+Kristaps Porzingis,1,3,7,0,Jump Shot,26,-164,206,False
+Kristaps Porzingis,1,9,44,1,Jump Shot,25,81,239,False
+Kristaps Porzingis,4,9,24,1,Jump Shot,25,-143,210,False
+Kristaps Porzingis,2,5,46,0,Jump Shot,28,3,283,False
+Kristaps Porzingis,1,3,42,0,Jump Shot,12,48,116,True
+Kristaps Porzingis,4,3,26,1,Jump Shot,16,43,156,True
+Kristaps Porzingis,4,8,50,0,Jump Shot,18,-53,174,True
+Kristaps Porzingis,3,7,39,0,Jump Shot,27,-151,226,False
+Kristaps Porzingis,4,2,14,1,Jump Shot,16,125,103,True
+Kristaps Porzingis,3,0,12,1,Jump Shot,26,-119,236,False
+Kristaps Porzingis,1,5,41,0,Jump Shot,18,-130,128,True
+Kristaps Porzingis,1,8,49,0,Jump Shot,13,-116,73,True
+Kristaps Porzingis,1,9,40,0,Jump Shot,18,167,81,True
+Kristaps Porzingis,4,2,37,0,Jump Shot,15,-94,125,True
+Kristaps Porzingis,1,4,16,0,Jump Shot,19,170,96,True
+Kristaps Porzingis,1,7,5,1,Jump Shot,10,89,55,True
+Kristaps Porzingis,1,10,51,1,Jump Shot,17,17,171,True
+Kristaps Porzingis,1,9,17,1,Jump Shot,12,71,104,True
+Kristaps Porzingis,2,0,0,0,Jump Shot,63,185,603,False
+Kristaps Porzingis,4,5,57,1,Jump Shot,25,-139,212,False
+Kristaps Porzingis,4,3,55,0,Jump Shot,23,-68,222,True
+Kristaps Porzingis,1,4,52,0,Jump Shot,9,-84,45,True
+Kristaps Porzingis,2,1,19,1,Jump Shot,14,86,115,True
+Kristaps Porzingis,2,2,3,1,Jump Shot,14,-120,73,True
+Kristaps Porzingis,3,10,23,0,Jump Shot,22,-32,219,True
+Kristaps Porzingis,2,6,56,0,Jump Shot,11,111,7,True
+Kristaps Porzingis,4,3,20,0,Jump Shot,27,94,256,False
+Kristaps Porzingis,3,8,41,0,Jump Shot,25,18,253,False
+Kristaps Porzingis,1,8,35,0,Jump Shot,7,-65,37,True
+Kristaps Porzingis,1,2,15,0,Jump Shot,13,-95,96,True
+Kristaps Porzingis,4,3,11,0,Jump Shot,25,-86,242,False
+Kristaps Porzingis,1,6,52,1,Jump Shot,26,131,226,False
+Kristaps Porzingis,4,5,0,0,Jump Shot,9,89,38,True
+Kristaps Porzingis,1,4,29,0,Jump Shot,29,-103,274,False
+Kristaps Porzingis,1,11,46,1,Jump Shot,15,13,154,True
+Kristaps Porzingis,3,1,42,0,Jump Shot,29,-40,289,False
+Kristaps Porzingis,1,10,48,0,Jump Shot,16,64,154,True
+Kristaps Porzingis,3,7,9,1,Jump Shot,10,14,106,True
+Kristaps Porzingis,1,9,0,1,Jump Shot,28,-110,265,False
+Kristaps Porzingis,2,1,51,1,Jump Shot,26,111,239,False
+Kristaps Porzingis,1,7,50,1,Jump Shot,32,0,322,False
+Kristaps Porzingis,1,9,59,0,Jump Shot,19,161,104,True
+Kristaps Porzingis,1,11,19,1,Jump Shot,19,127,143,True
+Kristaps Porzingis,3,10,1,1,Jump Shot,14,-148,20,True
+Kristaps Porzingis,1,4,26,1,Jump Shot,14,-136,61,True
+Kristaps Porzingis,4,4,13,0,Jump Shot,9,87,41,True
+Kristaps Porzingis,1,3,9,0,Jump Shot,26,188,180,False
+Kristaps Porzingis,2,3,32,0,Jump Shot,25,72,247,False
+Kristaps Porzingis,4,3,41,1,Jump Shot,23,-234,50,False
+Kristaps Porzingis,3,8,27,0,Jump Shot,25,-110,233,False
+Kristaps Porzingis,2,5,50,0,Jump Shot,15,-35,147,True
+Kristaps Porzingis,1,8,53,1,Jump Shot,18,123,140,True
+Kristaps Porzingis,4,2,21,1,Jump Shot,26,-170,207,False
+Kristaps Porzingis,4,11,21,1,Jump Shot,25,-79,247,False
+Kristaps Porzingis,3,8,56,0,Jump Shot,16,78,143,True
+Kristaps Porzingis,2,2,42,0,Jump Shot,24,90,232,False
+Kristaps Porzingis,1,10,48,1,Jump Shot,20,22,203,True
+Kristaps Porzingis,1,8,32,1,Jump Shot,14,-51,135,True
+Kristaps Porzingis,3,10,49,0,Jump Shot,25,113,230,False
+Kristaps Porzingis,2,5,16,1,Jump Shot,25,-127,226,False
+Kristaps Porzingis,4,2,53,0,Jump Shot,24,232,64,False
+Kristaps Porzingis,1,5,13,1,Jump Shot,13,96,91,True
+Kristaps Porzingis,4,7,27,1,Jump Shot,10,105,24,True
+Kristaps Porzingis,4,5,12,1,Jump Shot,25,52,253,False
+Kristaps Porzingis,3,7,55,0,Jump Shot,49,5,492,False
+Kristaps Porzingis,2,0,0,0,Jump Shot,53,-117,525,False
+Kristaps Porzingis,1,7,26,1,Jump Shot,21,-193,90,True
+Kristaps Porzingis,3,5,7,0,Jump Shot,25,-19,258,False
+Kristaps Porzingis,1,5,41,0,Jump Shot,24,2,249,False
+Kristaps Porzingis,2,10,30,1,Jump Shot,24,125,216,False
+Kristaps Porzingis,2,1,44,0,Jump Shot,25,-158,194,False
+Kristaps Porzingis,4,7,42,1,Jump Shot,25,187,179,False
+Kristaps Porzingis,4,7,53,0,Jump Shot,24,-227,100,False
+Kristaps Porzingis,1,0,15,0,Jump Shot,20,175,114,True
+Kristaps Porzingis,1,3,36,0,Jump Shot,30,166,258,False
+Kristaps Porzingis,1,9,46,1,Jump Shot,14,-136,60,True
+Kristaps Porzingis,1,8,41,0,Jump Shot,26,138,224,False
+Kristaps Porzingis,1,2,52,0,Jump Shot,25,-14,258,False
+Kristaps Porzingis,4,7,11,0,Jump Shot,28,167,232,False
+Kristaps Porzingis,4,4,39,0,Jump Shot,8,-80,32,True
+Kristaps Porzingis,3,5,19,0,Jump Shot,20,62,197,True
+Kristaps Porzingis,1,1,58,1,Jump Shot,12,16,123,True
+Kristaps Porzingis,3,6,25,0,Jump Shot,20,-62,195,True
+Kristaps Porzingis,2,1,8,0,Jump Shot,34,105,331,False
+Kristaps Porzingis,2,5,50,1,Jump Shot,25,-155,202,False
+Kristaps Porzingis,2,5,59,0,Layup Shot,10,-57,88,True
+Kristaps Porzingis,1,3,12,0,Layup Shot,1,8,17,True
+Kristaps Porzingis,4,2,50,0,Layup Shot,3,-30,17,True
+Kristaps Porzingis,4,7,59,0,Layup Shot,3,-26,17,True
+Kristaps Porzingis,3,9,46,0,Layup Shot,1,-3,16,True
+Kristaps Porzingis,3,11,18,0,Layup Shot,6,8,64,True
+Kristaps Porzingis,4,2,57,1,Layup Shot,2,2,27,True
+Kristaps Porzingis,2,4,26,1,Layup Shot,4,-38,16,True
+Kristaps Porzingis,4,0,30,0,Layup Shot,1,3,15,True
+Kristaps Porzingis,3,4,59,0,Layup Shot,1,6,11,True
+Kristaps Porzingis,2,0,56,1,Layup Shot,0,8,3,True
+Kristaps Porzingis,4,5,3,0,Layup Shot,2,11,24,True
+Kristaps Porzingis,1,11,44,0,Layup Shot,2,-11,21,True
+Kristaps Porzingis,1,7,15,0,Layup Shot,1,0,11,True
+Kristaps Porzingis,1,4,42,1,Layup Shot,1,10,12,True
+Kristaps Porzingis,1,5,33,0,Layup Shot,2,-20,13,True
+Kristaps Porzingis,4,5,25,1,Layup Shot,1,6,16,True
+Kristaps Porzingis,2,0,5,0,Layup Shot,1,-14,6,True
+Kristaps Porzingis,3,8,9,0,Layup Shot,1,6,10,True
+Kristaps Porzingis,3,10,22,0,Layup Shot,2,-10,27,True
+Kristaps Porzingis,2,3,47,1,Layup Shot,2,1,20,True
+Kristaps Porzingis,2,5,48,0,Layup Shot,5,-35,41,True
+Kristaps Porzingis,4,6,42,0,Layup Shot,2,-16,16,True
+Kristaps Porzingis,1,2,52,0,Layup Shot,3,-35,1,True
+Kristaps Porzingis,2,2,17,0,Layup Shot,2,18,20,True
+Kristaps Porzingis,2,2,10,1,Layup Shot,2,22,8,True
+Kristaps Porzingis,4,10,20,0,Layup Shot,3,12,31,True
+Kristaps Porzingis,3,8,28,1,Layup Shot,1,14,6,True
+Kristaps Porzingis,3,2,51,0,Layup Shot,2,27,11,True
+Kristaps Porzingis,3,3,8,0,Layup Shot,1,-13,10,True
+Kristaps Porzingis,4,4,30,1,Layup Shot,13,2,137,True
+Kristaps Porzingis,1,7,46,1,Layup Shot,4,-41,26,True
+Kristaps Porzingis,1,9,46,1,Layup Shot,0,3,8,True
+Kristaps Porzingis,1,3,8,0,Layup Shot,2,3,22,True
+Kristaps Porzingis,4,3,38,1,Layup Shot,5,-50,20,True
+Kristaps Porzingis,4,9,49,1,Layup Shot,2,3,26,True
+Kristaps Porzingis,1,8,43,1,Layup Shot,1,3,13,True
+Kristaps Porzingis,4,6,41,1,Layup Shot,2,-14,19,True
+Kristaps Porzingis,2,7,33,1,Layup Shot,0,6,-1,True
+Kristaps Porzingis,2,5,12,0,Pullup Jump shot,15,-13,155,True
+Kristaps Porzingis,3,9,17,1,Pullup Jump shot,12,-33,120,True
+Kristaps Porzingis,3,5,32,0,Pullup Jump shot,12,-81,92,True
+Kristaps Porzingis,2,7,47,0,Pullup Jump shot,10,47,94,True
+Kristaps Porzingis,3,6,55,0,Pullup Jump shot,15,-119,99,True
+Kristaps Porzingis,2,3,18,0,Pullup Jump shot,13,-26,136,True
+Kristaps Porzingis,3,3,25,0,Pullup Jump shot,14,-145,35,True
+Kristaps Porzingis,2,6,20,0,Pullup Jump shot,7,-70,17,True
+Kristaps Porzingis,3,4,55,1,Pullup Jump shot,10,-89,63,True
+Kristaps Porzingis,1,3,24,0,Pullup Jump shot,19,93,166,True
+Kristaps Porzingis,1,6,30,0,Pullup Jump shot,15,-112,103,True
+Kristaps Porzingis,1,6,49,0,Pullup Jump shot,16,-101,128,True
+Kristaps Porzingis,3,8,48,0,Pullup Jump shot,25,-117,225,False
+Kristaps Porzingis,1,5,53,1,Pullup Jump shot,12,14,120,True
+Kristaps Porzingis,3,6,31,0,Pullup Jump shot,13,128,40,True
+Kristaps Porzingis,4,1,17,1,Pullup Jump shot,17,-127,127,True
+Kristaps Porzingis,1,11,23,1,Pullup Jump shot,16,11,164,True
+Kristaps Porzingis,1,0,2,1,Pullup Jump shot,18,-28,186,True
+Kristaps Porzingis,3,3,41,0,Pullup Jump shot,11,-8,115,True
+Kristaps Porzingis,4,6,21,1,Pullup Jump shot,10,-78,66,True
+Kristaps Porzingis,2,11,12,0,Pullup Jump shot,27,65,271,False
+Kristaps Porzingis,1,5,33,0,Pullup Jump shot,12,-114,43,True
+Kristaps Porzingis,3,11,7,1,Pullup Jump shot,17,134,116,True
+Kristaps Porzingis,5,1,40,0,Pullup Jump shot,4,-36,27,True
+Kristaps Porzingis,2,6,2,1,Pullup Jump shot,15,-41,151,True
+Kristaps Porzingis,2,6,2,0,Pullup Jump shot,20,95,185,True
+Kristaps Porzingis,1,7,26,0,Pullup Jump shot,14,141,48,True
+Kristaps Porzingis,4,10,7,0,Pullup Jump shot,7,13,73,True
+Kristaps Porzingis,1,10,58,1,Pullup Jump shot,11,117,16,True
+Kristaps Porzingis,1,6,17,0,Pullup Jump shot,15,-78,137,True
+Kristaps Porzingis,3,11,32,0,Putback Dunk Shot,0,0,-6,True
+Kristaps Porzingis,4,2,55,0,Putback Dunk Shot,0,0,-6,True
+Kristaps Porzingis,2,1,8,0,Putback Dunk Shot,3,-9,32,True
+Kristaps Porzingis,4,0,1,0,Putback Dunk Shot,0,0,-6,True
+Kristaps Porzingis,3,4,11,1,Putback Dunk Shot,0,0,-6,True
+Kristaps Porzingis,3,9,44,1,Putback Dunk Shot,0,0,-6,True
+Kristaps Porzingis,2,2,48,1,Putback Dunk Shot,0,-7,4,True
+Kristaps Porzingis,3,10,54,1,Putback Dunk Shot,0,0,-6,True
+Kristaps Porzingis,4,6,6,0,Putback Layup Shot,0,0,-6,True
+Kristaps Porzingis,4,6,37,1,Putback Layup Shot,0,0,-6,True
+Kristaps Porzingis,4,7,45,1,Putback Layup Shot,1,10,5,True
+Kristaps Porzingis,2,2,43,1,Putback Layup Shot,1,-9,7,True
+Kristaps Porzingis,1,2,58,1,Reverse Dunk Shot,1,6,9,True
+Kristaps Porzingis,1,2,20,0,Reverse Layup Shot,0,4,5,True
+Kristaps Porzingis,3,10,53,1,Reverse Layup Shot,1,-1,16,True
+Kristaps Porzingis,1,8,44,0,Reverse Layup Shot,2,-18,11,True
+Kristaps Porzingis,3,8,24,1,Running Dunk Shot,0,3,8,True
+Kristaps Porzingis,2,1,42,0,Running Dunk Shot,1,6,15,True
+Kristaps Porzingis,4,8,4,1,Running Jump Shot,11,-84,80,True
+Kristaps Porzingis,3,5,29,1,Running Jump Shot,15,-21,150,True
+Kristaps Porzingis,3,5,39,0,Running Jump Shot,25,67,250,False
+Kristaps Porzingis,2,1,17,0,Running Jump Shot,24,5,248,False
+Kristaps Porzingis,4,3,25,0,Running Jump Shot,8,-52,62,True
+Kristaps Porzingis,3,11,7,1,Running Jump Shot,12,22,120,True
+Kristaps Porzingis,4,3,51,0,Running Layup Shot,0,-4,4,True
+Kristaps Porzingis,1,0,30,1,Running Layup Shot,4,-23,36,True
+Kristaps Porzingis,3,6,16,0,Running Layup Shot,1,-11,16,True
+Kristaps Porzingis,4,0,36,0,Running Layup Shot,3,7,30,True
+Kristaps Porzingis,2,3,23,0,Running Layup Shot,1,-10,8,True
+Kristaps Porzingis,3,8,44,1,Step Back Bank Jump Shot,13,-104,85,True
+Kristaps Porzingis,1,7,12,0,Step Back Jump shot,22,-9,224,True
+Kristaps Porzingis,1,5,7,0,Step Back Jump shot,17,92,147,True
+Kristaps Porzingis,2,2,49,1,Step Back Jump shot,17,-33,174,True
+Kristaps Porzingis,1,10,50,0,Step Back Jump shot,14,115,88,True
+Kristaps Porzingis,1,9,27,1,Step Back Jump shot,11,-116,14,True
+Kristaps Porzingis,1,11,30,0,Step Back Jump shot,27,36,269,False
+Kristaps Porzingis,3,8,22,0,Step Back Jump shot,24,125,216,False
+Kristaps Porzingis,3,9,56,1,Step Back Jump shot,25,63,246,False
+Kristaps Porzingis,2,7,33,0,Tip Layup Shot,0,0,-6,True
+Kristaps Porzingis,2,2,27,0,Tip Layup Shot,0,0,-6,True
+Kristaps Porzingis,2,0,23,0,Tip Layup Shot,0,0,-6,True
+Kristaps Porzingis,4,0,8,0,Tip Layup Shot,0,0,-6,True
+Kristaps Porzingis,3,7,20,0,Tip Layup Shot,0,0,-6,True
+Kristaps Porzingis,4,1,27,0,Tip Layup Shot,0,0,-6,True
+Kristaps Porzingis,1,5,39,1,Tip Layup Shot,0,0,-6,True
+Kristaps Porzingis,4,3,53,0,Tip Layup Shot,0,0,-6,True
+Kristaps Porzingis,4,6,4,0,Tip Layup Shot,0,0,-6,True
+Kristaps Porzingis,3,11,25,0,Tip Layup Shot,0,0,-6,True
+Kristaps Porzingis,2,1,22,1,Tip Layup Shot,0,0,-6,True
+Kristaps Porzingis,3,8,58,0,Tip Layup Shot,4,-44,-5,True
+Kristaps Porzingis,2,3,13,0,Tip Layup Shot,0,0,-6,True
+Kristaps Porzingis,1,8,54,0,Tip Layup Shot,0,0,-6,True
+Kristaps Porzingis,1,8,32,0,Turnaround Fadeaway Bank Jump Shot,5,0,58,True
+Kristaps Porzingis,4,4,26,0,Turnaround Fadeaway Bank Jump Shot,8,-87,-7,True
+Kristaps Porzingis,3,4,1,1,Turnaround Fadeaway Bank Jump Shot,4,-30,38,True
+Kristaps Porzingis,3,9,28,1,Turnaround Fadeaway Bank Jump Shot,9,-95,23,True
+Kristaps Porzingis,2,3,32,0,Turnaround Fadeaway Bank Jump Shot,12,-111,62,True
+Kristaps Porzingis,1,4,10,1,Turnaround Fadeaway Bank Jump Shot,10,55,93,True
+Kristaps Porzingis,1,7,25,1,Turnaround Fadeaway Bank Jump Shot,7,-68,24,True
+Kristaps Porzingis,3,8,15,1,Turnaround Fadeaway Bank Jump Shot,9,-82,41,True
+Kristaps Porzingis,3,7,18,1,Turnaround Fadeaway Bank Jump Shot,14,-125,69,True
+Kristaps Porzingis,3,6,49,1,Turnaround Fadeaway Bank Jump Shot,7,-50,54,True
+Kristaps Porzingis,3,7,19,0,Turnaround Fadeaway Bank Jump Shot,13,-102,82,True
+Kristaps Porzingis,1,4,35,1,Turnaround Fadeaway Bank Jump Shot,9,-94,26,True
+Kristaps Porzingis,1,10,35,1,Turnaround Fadeaway Bank Jump Shot,12,90,81,True
+Kristaps Porzingis,1,6,6,1,Turnaround Fadeaway Bank Jump Shot,8,77,45,True
+Kristaps Porzingis,1,11,14,1,Turnaround Fadeaway Bank Jump Shot,9,79,53,True
+Kristaps Porzingis,3,2,10,1,Turnaround Fadeaway Bank Jump Shot,12,-125,32,True
+Kristaps Porzingis,4,6,22,1,Turnaround Fadeaway Bank Jump Shot,18,-143,119,True
+Kristaps Porzingis,2,4,39,1,Turnaround Fadeaway Bank Jump Shot,10,71,84,True
+Kristaps Porzingis,3,7,40,0,Turnaround Fadeaway Bank Jump Shot,11,-89,66,True
+Kristaps Porzingis,4,7,26,0,Turnaround Fadeaway Bank Jump Shot,11,-115,21,True
+Kristaps Porzingis,4,1,1,0,Turnaround Fadeaway Bank Jump Shot,12,-97,79,True
+Kristaps Porzingis,4,7,48,1,Turnaround Fadeaway shot,21,-46,211,True
+Kristaps Porzingis,1,9,13,0,Turnaround Fadeaway shot,12,-119,25,True
+Kristaps Porzingis,1,1,8,1,Turnaround Fadeaway shot,17,115,129,True
+Kristaps Porzingis,4,5,35,1,Turnaround Fadeaway shot,13,101,94,True
+Kristaps Porzingis,3,6,28,0,Turnaround Fadeaway shot,10,-95,36,True
+Kristaps Porzingis,3,9,54,1,Turnaround Fadeaway shot,13,48,130,True
+Kristaps Porzingis,1,8,45,1,Turnaround Fadeaway shot,17,-101,141,True
+Kristaps Porzingis,1,4,0,1,Turnaround Fadeaway shot,13,47,131,True
+Kristaps Porzingis,3,7,12,1,Turnaround Fadeaway shot,11,107,47,True
+Kristaps Porzingis,1,4,58,0,Turnaround Fadeaway shot,9,93,-3,True
+Kristaps Porzingis,3,8,41,0,Turnaround Fadeaway shot,13,138,18,True
+Kristaps Porzingis,2,6,9,1,Turnaround Fadeaway shot,12,-38,119,True
+Kristaps Porzingis,1,8,51,0,Turnaround Fadeaway shot,10,-104,4,True
+Kristaps Porzingis,2,3,9,0,Turnaround Fadeaway shot,9,-63,66,True
+Kristaps Porzingis,1,4,11,0,Turnaround Fadeaway shot,7,58,53,True
+Kristaps Porzingis,1,11,13,1,Turnaround Fadeaway shot,16,125,101,True
+Kristaps Porzingis,1,7,11,0,Turnaround Fadeaway shot,18,-80,169,True
+Kristaps Porzingis,4,9,1,0,Turnaround Fadeaway shot,15,57,147,True
+Kristaps Porzingis,3,4,57,0,Turnaround Fadeaway shot,13,54,122,True
+Kristaps Porzingis,4,0,55,0,Turnaround Fadeaway shot,11,-107,39,True
+Kristaps Porzingis,2,0,50,0,Turnaround Fadeaway shot,9,15,89,True
+Kristaps Porzingis,4,4,0,0,Turnaround Hook Shot,15,150,48,True
+Kristaps Porzingis,1,10,26,0,Turnaround Hook Shot,7,-8,77,True
+Kristaps Porzingis,4,6,47,1,Turnaround Hook Shot,5,48,20,True
+Kristaps Porzingis,4,5,10,1,Turnaround Hook Shot,2,-22,4,True
+Kristaps Porzingis,3,9,21,0,Turnaround Jump Shot,11,-87,79,True
+Kristaps Porzingis,2,5,0,1,Turnaround Jump Shot,8,57,58,True
+Kristaps Porzingis,1,6,13,1,Turnaround Jump Shot,8,-20,84,True
+Kristaps Porzingis,1,9,34,1,Turnaround Jump Shot,13,-46,125,True
+Kristaps Porzingis,3,8,17,1,Turnaround Jump Shot,16,-115,117,True
+Kristaps Porzingis,2,3,0,1,Turnaround Jump Shot,14,-125,66,True
+Kristaps Porzingis,1,5,55,0,Turnaround Jump Shot,13,-127,53,True
+Kristaps Porzingis,2,4,17,0,Turnaround Jump Shot,6,-47,47,True
+Kristaps Porzingis,2,7,34,0,Turnaround Jump Shot,5,-23,55,True
+Kristaps Porzingis,1,5,44,0,Turnaround Jump Shot,7,8,79,True
+Kristaps Porzingis,4,3,36,0,Turnaround Jump Shot,18,115,142,True
+Kristaps Porzingis,2,6,1,0,Turnaround Jump Shot,12,-101,69,True
+Kristaps Porzingis,3,6,30,1,Turnaround Jump Shot,10,-23,107,True
+Kristaps Porzingis,1,0,48,1,Turnaround Jump Shot,15,66,136,True
+Kristaps Porzingis,3,4,38,0,Turnaround Jump Shot,17,-45,165,True
+Kristaps Porzingis,2,3,31,1,Turnaround Jump Shot,8,79,26,True
+Kristaps Porzingis,2,5,0,0,Turnaround Jump Shot,20,-4,206,True
+Kristaps Porzingis,1,6,46,1,Turnaround Jump Shot,9,35,92,True
+Kristaps Porzingis,1,2,25,0,Turnaround Jump Shot,9,14,90,True
+Kristaps Porzingis,3,11,15,0,Turnaround Jump Shot,22,-11,222,True
+Kristaps Porzingis,3,7,24,1,Turnaround Jump Shot,13,60,116,True
+Kristaps Porzingis,4,7,29,0,Turnaround Jump Shot,10,-75,77,True
+Kristaps Porzingis,3,8,3,1,Turnaround Jump Shot,14,-138,52,True
+Kristaps Porzingis,1,9,35,1,Turnaround Jump Shot,15,149,49,True
+Kristaps Porzingis,2,6,30,0,Turnaround Jump Shot,13,-91,105,True
+Kristaps Porzingis,2,4,21,0,Turnaround Jump Shot,9,-82,40,True
+Kristaps Porzingis,1,11,27,1,Turnaround Jump Shot,11,-35,109,True
+Kristaps Porzingis,4,3,24,1,Turnaround Jump Shot,19,104,166,True
+Kristaps Porzingis,3,10,33,0,Turnaround Jump Shot,9,89,24,True
+Kristaps Porzingis,2,4,53,0,Turnaround Jump Shot,15,-32,147,True
+Kristaps Porzingis,1,1,51,1,Turnaround Jump Shot,6,6,64,True
+Kristaps Porzingis,1,3,36,1,Turnaround Jump Shot,13,96,98,True
+Kristaps Porzingis,1,7,33,0,Turnaround Jump Shot,13,-116,62,True
+Kristaps Porzingis,2,4,50,1,Turnaround Jump Shot,14,112,99,True
+Kristaps Porzingis,3,4,45,0,Turnaround Jump Shot,10,48,94,True
+Kristaps Porzingis,4,5,13,1,Turnaround Jump Shot,15,-150,36,True
+Kristaps Porzingis,1,11,29,1,Turnaround Jump Shot,17,36,170,True
+Kristaps Porzingis,1,6,55,0,Turnaround Jump Shot,14,54,136,True
+Kristaps Porzingis,4,6,33,0,Turnaround Jump Shot,15,-132,88,True
+Kristaps Porzingis,4,8,50,0,Turnaround Jump Shot,14,105,106,True
+Kristaps Porzingis,2,0,29,0,Turnaround Jump Shot,12,106,58,True
+Kristaps Porzingis,4,1,28,0,Turnaround Jump Shot,15,-97,124,True
+Kristaps Porzingis,4,2,12,1,Turnaround Jump Shot,16,120,116,True
+Kristaps Porzingis,1,10,22,1,Turnaround Jump Shot,15,93,125,True
+Kristaps Porzingis,2,4,9,0,Turnaround Jump Shot,12,-109,59,True
+Kristaps Porzingis,3,6,23,0,Turnaround Jump Shot,14,-86,119,True
+Kristaps Porzingis,3,11,24,1,Turnaround Jump Shot,13,62,120,True
+Kristaps Porzingis,3,3,11,0,Turnaround Jump Shot,9,89,26,True
+Kristaps Porzingis,1,8,57,0,Turnaround Jump Shot,14,141,20,True
+Kristaps Porzingis,4,6,21,0,Turnaround Jump Shot,12,48,115,True
+Kristaps Porzingis,2,1,31,0,Turnaround Jump Shot,9,-90,10,True
+Kristaps Porzingis,1,5,47,1,Turnaround Jump Shot,15,98,114,True
+Kristaps Porzingis,1,6,6,1,Turnaround Jump Shot,17,98,142,True
+Kristaps Porzingis,4,4,56,0,Turnaround Jump Shot,8,32,78,True
+Kristaps Porzingis,3,0,31,0,Turnaround Jump Shot,13,-16,130,True
+Kristaps Porzingis,1,8,17,1,Turnaround Jump Shot,6,-56,34,True
+Kristaps Porzingis,4,4,43,0,Turnaround Jump Shot,14,100,106,True
+Kristaps Porzingis,4,6,34,0,Turnaround Jump Shot,15,117,104,True
+Kristaps Porzingis,4,7,1,1,Turnaround Jump Shot,10,103,33,True
+Kristaps Porzingis,3,0,55,0,Turnaround Jump Shot,19,81,179,True
+Kristaps Porzingis,3,4,39,1,Turnaround Jump Shot,14,99,111,True
+Kristaps Porzingis,4,1,29,1,Turnaround Jump Shot,15,134,75,True
+Kristaps Porzingis,1,0,25,0,Turnaround Jump Shot,11,73,85,True
+Kristaps Porzingis,2,6,50,0,Turnaround Jump Shot,17,87,150,True
+Kristaps Porzingis,1,8,35,1,Turnaround Jump Shot,17,55,163,True
+Kristaps Porzingis,2,3,10,1,Turnaround Jump Shot,15,7,150,True
+Kristaps Porzingis,1,9,59,0,Turnaround Jump Shot,12,115,36,True
+Kristaps Porzingis,1,3,35,1,Turnaround Jump Shot,8,-59,66,True
+Kristaps Porzingis,3,9,3,0,Turnaround Jump Shot,16,92,142,True
+Kristaps Porzingis,3,9,10,1,Turnaround Jump Shot,12,-67,102,True
+Kristaps Porzingis,1,7,49,1,Turnaround Jump Shot,11,-19,110,True
+Kristaps Porzingis,2,4,5,0,Turnaround Jump Shot,19,1,190,True
+Kristaps Porzingis,2,1,2,0,Turnaround Jump Shot,7,-75,17,True
+Kristaps Porzingis,2,0,1,0,Turnaround Jump Shot,15,-127,80,True
+Kristaps Porzingis,1,7,49,0,Turnaround Jump Shot,8,-63,62,True
+Kristaps Porzingis,2,4,30,1,Turnaround Jump Shot,11,-27,110,True
+Kristaps Porzingis,1,3,11,0,Turnaround Jump Shot,16,-67,154,True
+Kristaps Porzingis,1,3,55,1,Turnaround Jump Shot,11,19,113,True
+Kristaps Porzingis,2,0,4,1,Turnaround Jump Shot,13,136,28,True
+Kristaps Porzingis,2,10,48,0,Turnaround Jump Shot,14,8,148,True
+Kristaps Porzingis,1,6,28,0,Turnaround Jump Shot,11,-101,44,True
+Kristaps Porzingis,3,10,34,0,Turnaround Jump Shot,12,57,107,True
+Kristaps Porzingis,4,0,37,1,Turnaround Jump Shot,7,-64,37,True
+Kristaps Porzingis,1,10,49,0,Turnaround Jump Shot,9,84,51,True
+Kristaps Porzingis,5,1,34,0,Turnaround Jump Shot,15,109,114,True
+Kristaps Porzingis,1,3,2,1,Turnaround Jump Shot,10,85,67,True
+Kristaps Porzingis,4,1,4,0,Turnaround Jump Shot,19,98,163,True
+Kristaps Porzingis,1,8,18,0,Turnaround Jump Shot,15,-131,91,True
+Kristaps Porzingis,1,9,41,1,Turnaround Jump Shot,20,-177,109,True
+Kristaps Porzingis,1,3,11,1,Turnaround Jump Shot,13,-50,120,True
+Kristaps Porzingis,4,0,55,1,Turnaround Jump Shot,11,109,43,True
+Kristaps Porzingis,2,5,36,0,Turnaround Jump Shot,13,90,97,True
+Kristaps Porzingis,4,1,54,0,Turnaround Jump Shot,11,-93,67,True
+Kristaps Porzingis,1,8,16,1,Turnaround Jump Shot,9,-68,62,True
+Kristaps Porzingis,4,9,6,1,Turnaround Jump Shot,6,-32,51,True
+Kristaps Porzingis,4,9,20,0,Turnaround Jump Shot,4,-49,4,True
+Kristaps Porzingis,1,7,21,1,Turnaround Jump Shot,14,-100,100,True
+Kristaps Porzingis,1,8,0,0,Turnaround Jump Shot,12,-120,-14,True
+Kristaps Porzingis,1,10,16,1,Turnaround Jump Shot,16,-98,136,True
+Kristaps Porzingis,1,6,5,0,Turnaround Jump Shot,8,-57,59,True
+Kristaps Porzingis,1,3,47,0,Turnaround Jump Shot,17,-102,140,True
+Kristaps Porzingis,3,6,22,1,Turnaround Jump Shot,18,92,157,True
+Kristaps Porzingis,2,5,20,0,Turnaround Jump Shot,13,-91,98,True
+Kristaps Porzingis,3,2,38,1,Turnaround Jump Shot,11,93,71,True
+Kristaps Porzingis,1,7,32,1,Turnaround Jump Shot,8,89,11,True
+Kristaps Porzingis,1,10,8,0,Turnaround Jump Shot,14,-133,45,True
+Kristaps Porzingis,1,6,20,0,Turnaround Jump Shot,8,-37,74,True
+Kristaps Porzingis,1,11,46,1,Turnaround Jump Shot,9,88,42,True
+Kristaps Porzingis,1,3,17,0,Turnaround Jump Shot,13,100,85,True
+Kristaps Porzingis,4,1,24,1,Turnaround Jump Shot,10,-40,94,True
+Kristaps Porzingis,1,7,5,0,Turnaround Jump Shot,12,115,37,True
+Kristaps Porzingis,4,5,7,0,Turnaround Jump Shot,7,-73,20,True
+Kristaps Porzingis,2,9,3,1,Turnaround Jump Shot,1,5,16,True
+Kristaps Porzingis,2,7,25,0,Turnaround Jump Shot,11,-111,10,True
+Kristaps Porzingis,1,4,12,1,Turnaround Jump Shot,17,-2,176,True
+Kristaps Porzingis,3,1,26,1,Turnaround Jump Shot,18,104,150,True
+Kristaps Porzingis,3,5,45,1,Turnaround Jump Shot,9,-67,72,True
+Kristaps Porzingis,3,9,54,1,Turnaround Jump Shot,13,-132,6,True
+Kristaps Porzingis,2,7,11,0,Turnaround Jump Shot,8,-1,89,True

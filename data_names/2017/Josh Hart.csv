@@ -1,0 +1,345 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Josh Hart,4,9,20,1,Cutting Dunk Shot,2,-6,20,True
+Josh Hart,2,6,19,1,Cutting Dunk Shot,0,0,8,True
+Josh Hart,1,8,14,1,Cutting Dunk Shot,0,-5,4,True
+Josh Hart,3,10,33,1,Cutting Dunk Shot,0,-2,-1,True
+Josh Hart,3,3,44,1,Cutting Dunk Shot,0,4,8,True
+Josh Hart,3,3,19,0,Cutting Finger Roll Layup Shot,2,-5,21,True
+Josh Hart,1,4,43,1,Cutting Layup Shot,1,-7,18,True
+Josh Hart,3,4,35,1,Cutting Layup Shot,1,9,11,True
+Josh Hart,4,11,19,1,Cutting Layup Shot,1,-13,13,True
+Josh Hart,3,10,53,1,Cutting Layup Shot,0,2,8,True
+Josh Hart,1,0,0,1,Cutting Layup Shot,1,-6,11,True
+Josh Hart,2,4,8,1,Cutting Layup Shot,0,2,3,True
+Josh Hart,3,10,33,1,Cutting Layup Shot,2,0,29,True
+Josh Hart,1,6,5,0,Cutting Layup Shot,2,-5,21,True
+Josh Hart,4,5,46,1,Cutting Layup Shot,3,18,25,True
+Josh Hart,4,3,15,1,Cutting Layup Shot,1,-13,13,True
+Josh Hart,2,1,0,1,Cutting Layup Shot,2,11,21,True
+Josh Hart,3,10,29,1,Cutting Layup Shot,1,2,12,True
+Josh Hart,3,8,31,1,Cutting Layup Shot,1,6,12,True
+Josh Hart,5,1,5,1,Driving Floating Jump Shot,6,45,50,True
+Josh Hart,4,1,42,0,Driving Floating Jump Shot,12,0,125,True
+Josh Hart,4,6,33,1,Driving Layup Shot,2,2,23,True
+Josh Hart,4,6,29,1,Driving Layup Shot,1,9,5,True
+Josh Hart,4,0,0,0,Driving Layup Shot,2,11,17,True
+Josh Hart,2,0,39,0,Driving Layup Shot,1,11,5,True
+Josh Hart,3,7,22,1,Driving Layup Shot,1,-1,17,True
+Josh Hart,4,6,46,0,Driving Layup Shot,2,3,29,True
+Josh Hart,4,0,28,0,Driving Layup Shot,3,5,37,True
+Josh Hart,4,3,3,0,Driving Layup Shot,1,4,11,True
+Josh Hart,1,3,20,0,Driving Layup Shot,3,22,25,True
+Josh Hart,2,6,23,0,Driving Layup Shot,3,19,31,True
+Josh Hart,3,11,41,1,Driving Layup Shot,0,-3,8,True
+Josh Hart,4,5,2,0,Driving Layup Shot,1,-8,15,True
+Josh Hart,5,1,30,1,Driving Layup Shot,1,-6,17,True
+Josh Hart,1,2,36,1,Driving Layup Shot,1,-9,15,True
+Josh Hart,1,4,26,1,Driving Layup Shot,1,6,10,True
+Josh Hart,1,4,40,0,Driving Layup Shot,2,-11,17,True
+Josh Hart,3,1,37,0,Driving Layup Shot,0,-6,6,True
+Josh Hart,4,6,11,1,Driving Layup Shot,1,3,16,True
+Josh Hart,3,6,7,1,Driving Layup Shot,1,7,11,True
+Josh Hart,3,2,39,1,Driving Layup Shot,0,5,6,True
+Josh Hart,1,8,39,1,Driving Layup Shot,2,16,17,True
+Josh Hart,3,7,16,1,Driving Layup Shot,0,2,-5,True
+Josh Hart,4,4,34,0,Driving Layup Shot,1,-5,11,True
+Josh Hart,4,9,34,0,Driving Layup Shot,1,3,16,True
+Josh Hart,3,5,0,0,Driving Layup Shot,4,36,27,True
+Josh Hart,4,4,14,0,Driving Layup Shot,3,-3,37,True
+Josh Hart,1,4,52,1,Driving Layup Shot,2,3,29,True
+Josh Hart,2,10,5,1,Driving Layup Shot,2,-9,25,True
+Josh Hart,2,6,11,1,Driving Layup Shot,3,30,8,True
+Josh Hart,4,6,44,1,Driving Layup Shot,1,-18,2,True
+Josh Hart,4,7,54,1,Driving Layup Shot,1,2,12,True
+Josh Hart,2,8,34,1,Driving Layup Shot,1,7,11,True
+Josh Hart,2,4,35,0,Driving Layup Shot,4,34,33,True
+Josh Hart,3,7,8,0,Driving Layup Shot,2,22,7,True
+Josh Hart,2,5,22,1,Driving Layup Shot,1,-8,16,True
+Josh Hart,3,8,21,1,Driving Layup Shot,0,-5,8,True
+Josh Hart,3,0,28,1,Driving Layup Shot,2,-1,20,True
+Josh Hart,3,9,17,0,Driving Reverse Layup Shot,1,16,10,True
+Josh Hart,4,4,25,1,Dunk Shot,0,-4,3,True
+Josh Hart,1,8,8,0,Fadeaway Jump Shot,11,-119,4,True
+Josh Hart,4,5,19,0,Fadeaway Jump Shot,13,130,-5,True
+Josh Hart,2,5,44,0,Fadeaway Jump Shot,8,20,82,True
+Josh Hart,1,1,58,1,Fadeaway Jump Shot,22,226,18,False
+Josh Hart,4,5,17,0,Jump Shot,23,230,37,False
+Josh Hart,3,5,21,1,Jump Shot,24,-70,237,False
+Josh Hart,3,4,12,1,Jump Shot,25,-196,158,False
+Josh Hart,3,7,1,1,Jump Shot,25,2,256,False
+Josh Hart,1,9,47,1,Jump Shot,23,-230,11,False
+Josh Hart,2,2,55,0,Jump Shot,25,43,251,False
+Josh Hart,2,1,53,0,Jump Shot,27,139,236,False
+Josh Hart,3,5,42,0,Jump Shot,27,146,237,False
+Josh Hart,4,7,18,0,Jump Shot,25,-210,149,False
+Josh Hart,1,2,32,0,Jump Shot,25,2,255,False
+Josh Hart,4,10,38,0,Jump Shot,25,-235,100,False
+Josh Hart,4,0,54,0,Jump Shot,24,4,249,False
+Josh Hart,4,5,50,0,Jump Shot,25,208,150,False
+Josh Hart,2,3,44,1,Jump Shot,27,15,273,False
+Josh Hart,4,0,57,1,Jump Shot,22,-228,27,False
+Josh Hart,3,0,33,0,Jump Shot,26,75,252,False
+Josh Hart,3,4,19,0,Jump Shot,25,-82,243,False
+Josh Hart,1,0,13,0,Jump Shot,27,-147,227,False
+Josh Hart,3,0,0,1,Jump Shot,26,-23,260,False
+Josh Hart,2,8,3,0,Jump Shot,27,-121,242,False
+Josh Hart,5,1,40,0,Jump Shot,28,94,266,False
+Josh Hart,2,10,32,0,Jump Shot,24,-136,199,False
+Josh Hart,1,1,39,1,Jump Shot,23,-231,13,False
+Josh Hart,2,0,0,1,Jump Shot,23,231,53,False
+Josh Hart,3,1,45,1,Jump Shot,24,125,212,False
+Josh Hart,3,1,10,0,Jump Shot,25,-12,251,False
+Josh Hart,2,10,48,0,Jump Shot,22,-225,25,False
+Josh Hart,3,0,4,0,Jump Shot,25,-78,244,False
+Josh Hart,2,7,41,0,Jump Shot,24,-200,148,False
+Josh Hart,1,2,11,0,Jump Shot,25,232,116,False
+Josh Hart,1,0,56,0,Jump Shot,27,116,246,False
+Josh Hart,3,5,34,1,Jump Shot,24,-172,179,False
+Josh Hart,4,5,50,0,Jump Shot,26,-1,268,False
+Josh Hart,5,0,0,1,Jump Shot,16,82,138,True
+Josh Hart,2,10,46,1,Jump Shot,24,101,223,False
+Josh Hart,4,6,5,1,Jump Shot,25,99,234,False
+Josh Hart,4,1,14,1,Jump Shot,26,114,236,False
+Josh Hart,3,9,50,0,Jump Shot,23,231,13,False
+Josh Hart,1,11,28,0,Jump Shot,26,-122,230,False
+Josh Hart,4,0,42,0,Jump Shot,26,159,206,False
+Josh Hart,4,5,29,1,Jump Shot,15,143,67,True
+Josh Hart,4,0,4,0,Jump Shot,26,-73,256,False
+Josh Hart,2,9,7,0,Jump Shot,23,-235,17,False
+Josh Hart,4,5,8,0,Jump Shot,24,207,140,False
+Josh Hart,4,7,28,0,Jump Shot,22,226,30,False
+Josh Hart,3,7,41,0,Jump Shot,24,176,171,False
+Josh Hart,1,10,6,1,Jump Shot,25,188,175,False
+Josh Hart,2,2,40,1,Jump Shot,24,204,141,False
+Josh Hart,3,10,52,0,Jump Shot,26,106,239,False
+Josh Hart,1,5,0,0,Jump Shot,23,-228,65,False
+Josh Hart,3,9,19,0,Jump Shot,24,-198,147,False
+Josh Hart,2,4,24,0,Jump Shot,23,-165,174,False
+Josh Hart,2,1,20,1,Jump Shot,25,180,176,False
+Josh Hart,3,1,8,1,Jump Shot,25,155,201,False
+Josh Hart,2,0,38,0,Jump Shot,24,-220,108,False
+Josh Hart,4,7,33,0,Jump Shot,25,133,214,False
+Josh Hart,4,5,34,1,Jump Shot,22,-228,-11,False
+Josh Hart,4,8,7,0,Jump Shot,27,15,273,False
+Josh Hart,2,5,14,1,Jump Shot,25,57,253,False
+Josh Hart,4,6,0,0,Jump Shot,25,208,153,False
+Josh Hart,4,2,10,0,Jump Shot,24,-185,162,False
+Josh Hart,2,0,35,0,Jump Shot,25,-159,204,False
+Josh Hart,2,5,38,0,Jump Shot,26,-180,194,False
+Josh Hart,2,0,40,1,Jump Shot,23,232,48,False
+Josh Hart,2,2,1,0,Jump Shot,26,95,247,False
+Josh Hart,2,3,19,0,Jump Shot,26,198,169,False
+Josh Hart,4,6,43,0,Jump Shot,26,155,212,False
+Josh Hart,2,9,41,1,Jump Shot,22,-229,-3,False
+Josh Hart,4,2,21,0,Jump Shot,24,-108,222,False
+Josh Hart,2,7,51,0,Jump Shot,25,135,216,False
+Josh Hart,2,0,2,0,Jump Shot,26,-150,217,False
+Josh Hart,2,4,24,1,Jump Shot,25,178,184,False
+Josh Hart,3,11,48,1,Jump Shot,24,-157,187,False
+Josh Hart,2,8,11,0,Jump Shot,24,-35,245,False
+Josh Hart,2,6,30,0,Jump Shot,25,107,235,False
+Josh Hart,2,10,40,1,Jump Shot,23,-228,48,False
+Josh Hart,4,1,2,1,Jump Shot,25,-98,230,False
+Josh Hart,2,11,21,0,Jump Shot,23,-231,17,False
+Josh Hart,4,9,47,0,Jump Shot,23,-236,21,False
+Josh Hart,4,0,27,1,Jump Shot,25,12,251,False
+Josh Hart,4,5,33,1,Jump Shot,27,221,171,False
+Josh Hart,3,0,24,0,Jump Shot,23,-228,67,False
+Josh Hart,1,0,57,0,Jump Shot,26,79,250,False
+Josh Hart,2,9,0,0,Jump Shot,25,-206,145,False
+Josh Hart,2,6,42,1,Jump Shot,24,177,174,False
+Josh Hart,4,7,13,1,Jump Shot,26,131,226,False
+Josh Hart,4,5,28,0,Jump Shot,25,139,218,False
+Josh Hart,4,0,52,0,Jump Shot,26,-190,190,False
+Josh Hart,4,0,15,0,Jump Shot,25,-147,211,False
+Josh Hart,4,0,24,0,Jump Shot,26,-126,238,False
+Josh Hart,4,0,6,0,Jump Shot,26,-27,264,False
+Josh Hart,3,10,40,1,Jump Shot,24,153,192,False
+Josh Hart,4,2,2,0,Jump Shot,24,70,234,False
+Josh Hart,2,5,9,1,Jump Shot,25,157,200,False
+Josh Hart,4,5,9,0,Jump Shot,22,226,3,False
+Josh Hart,3,0,0,0,Jump Shot,41,33,409,False
+Josh Hart,3,5,29,0,Jump Shot,25,-145,214,False
+Josh Hart,1,9,50,1,Jump Shot,24,228,99,False
+Josh Hart,3,5,7,1,Jump Shot,23,-229,41,False
+Josh Hart,5,0,27,0,Jump Shot,27,177,207,False
+Josh Hart,5,4,22,1,Jump Shot,25,-193,164,False
+Josh Hart,3,11,48,1,Jump Shot,25,-180,184,False
+Josh Hart,1,10,0,0,Jump Shot,26,171,198,False
+Josh Hart,2,9,51,0,Jump Shot,19,22,189,True
+Josh Hart,2,10,6,0,Jump Shot,25,-130,218,False
+Josh Hart,4,7,55,1,Jump Shot,25,15,253,False
+Josh Hart,4,0,5,0,Jump Shot,25,-68,246,False
+Josh Hart,3,5,37,1,Jump Shot,25,160,196,False
+Josh Hart,2,7,18,0,Jump Shot,26,133,227,False
+Josh Hart,1,11,12,0,Jump Shot,26,105,242,False
+Josh Hart,1,6,10,0,Jump Shot,23,-232,3,False
+Josh Hart,2,2,38,0,Jump Shot,25,-161,192,False
+Josh Hart,4,1,46,0,Jump Shot,26,149,225,False
+Josh Hart,1,3,48,0,Jump Shot,24,177,170,False
+Josh Hart,1,6,17,1,Jump Shot,24,41,246,False
+Josh Hart,3,9,2,0,Jump Shot,26,78,256,False
+Josh Hart,2,6,26,0,Jump Shot,25,160,198,False
+Josh Hart,1,7,19,0,Jump Shot,25,-102,230,False
+Josh Hart,1,11,15,1,Jump Shot,24,186,163,False
+Josh Hart,2,2,24,0,Jump Shot,24,232,85,False
+Josh Hart,2,7,44,1,Jump Shot,26,-163,203,False
+Josh Hart,4,0,36,0,Jump Shot,22,-229,13,False
+Josh Hart,2,7,3,0,Jump Shot,24,-209,137,False
+Josh Hart,4,7,30,0,Jump Shot,25,101,239,False
+Josh Hart,4,8,49,1,Jump Shot,25,-39,249,False
+Josh Hart,1,11,28,0,Jump Shot,25,228,120,False
+Josh Hart,4,11,20,1,Jump Shot,26,-218,146,False
+Josh Hart,4,2,55,0,Jump Shot,26,-73,259,False
+Josh Hart,3,9,13,1,Jump Shot,21,195,93,True
+Josh Hart,1,6,11,0,Jump Shot,25,-201,151,False
+Josh Hart,2,5,35,1,Jump Shot,25,188,174,False
+Josh Hart,4,11,15,1,Jump Shot,24,-236,64,False
+Josh Hart,4,2,20,0,Jump Shot,28,-136,248,False
+Josh Hart,2,9,7,0,Jump Shot,25,-195,162,False
+Josh Hart,2,8,32,0,Jump Shot,25,192,174,False
+Josh Hart,4,9,6,1,Jump Shot,25,-13,254,False
+Josh Hart,3,3,50,1,Jump Shot,24,149,195,False
+Josh Hart,1,0,34,1,Jump Shot,22,-225,13,False
+Josh Hart,1,1,38,1,Jump Shot,23,-239,12,False
+Josh Hart,4,9,52,1,Jump Shot,24,-144,195,False
+Josh Hart,4,1,42,0,Jump Shot,26,-150,215,False
+Josh Hart,2,7,39,0,Jump Shot,26,170,208,False
+Josh Hart,4,4,17,0,Jump Shot,23,-237,10,False
+Josh Hart,2,10,2,0,Jump Shot,15,-53,147,True
+Josh Hart,3,0,23,0,Jump Shot,24,-241,17,False
+Josh Hart,1,2,19,0,Jump Shot,25,141,214,False
+Josh Hart,1,1,38,0,Jump Shot,22,225,14,False
+Josh Hart,2,7,48,0,Jump Shot,25,130,218,False
+Josh Hart,4,5,14,1,Jump Shot,25,138,210,False
+Josh Hart,4,10,51,0,Jump Shot,25,114,227,False
+Josh Hart,4,10,41,0,Jump Shot,26,-172,202,False
+Josh Hart,2,9,26,0,Jump Shot,26,-128,232,False
+Josh Hart,2,11,44,1,Jump Shot,25,43,252,False
+Josh Hart,1,8,31,0,Jump Shot,26,-95,246,False
+Josh Hart,2,0,1,0,Jump Shot,26,-46,262,False
+Josh Hart,2,6,32,0,Jump Shot,26,66,255,False
+Josh Hart,4,2,35,0,Jump Shot,27,-195,189,False
+Josh Hart,1,5,58,1,Jump Shot,26,228,137,False
+Josh Hart,2,3,41,1,Jump Shot,25,-167,198,False
+Josh Hart,4,5,37,1,Jump Shot,23,-235,0,False
+Josh Hart,3,5,14,1,Jump Shot,25,-7,259,False
+Josh Hart,3,2,59,0,Jump Shot,25,-160,197,False
+Josh Hart,3,9,14,1,Jump Shot,25,5,253,False
+Josh Hart,2,5,30,0,Jump Shot,25,142,216,False
+Josh Hart,1,8,36,1,Jump Shot,23,229,37,False
+Josh Hart,2,2,57,0,Jump Shot,24,-157,190,False
+Josh Hart,1,11,2,0,Jump Shot,24,-199,147,False
+Josh Hart,1,4,23,0,Jump Shot,22,229,-5,False
+Josh Hart,2,2,6,1,Jump Shot,22,226,27,False
+Josh Hart,3,6,11,1,Jump Shot,23,-230,46,False
+Josh Hart,1,6,17,0,Jump Shot,23,225,64,False
+Josh Hart,1,4,11,1,Jump Shot,26,81,249,False
+Josh Hart,4,6,37,1,Jump Shot,26,185,189,False
+Josh Hart,3,6,7,0,Jump Shot,22,-225,20,False
+Josh Hart,2,3,26,1,Jump Shot,25,-18,258,False
+Josh Hart,1,8,17,1,Jump Shot,23,-230,23,False
+Josh Hart,4,3,5,1,Jump Shot,23,231,25,False
+Josh Hart,4,2,25,0,Layup Shot,4,2,48,True
+Josh Hart,1,1,12,0,Layup Shot,1,9,16,True
+Josh Hart,2,11,47,1,Layup Shot,1,-5,14,True
+Josh Hart,4,10,22,1,Layup Shot,1,13,15,True
+Josh Hart,4,8,32,0,Layup Shot,1,6,15,True
+Josh Hart,4,4,10,0,Layup Shot,3,-7,37,True
+Josh Hart,4,6,51,0,Layup Shot,0,4,2,True
+Josh Hart,3,7,34,1,Layup Shot,0,-7,5,True
+Josh Hart,4,11,45,1,Layup Shot,3,16,27,True
+Josh Hart,2,5,25,0,Layup Shot,2,14,16,True
+Josh Hart,4,7,59,0,Layup Shot,3,2,33,True
+Josh Hart,3,1,48,0,Layup Shot,3,30,24,True
+Josh Hart,2,1,20,1,Layup Shot,1,0,10,True
+Josh Hart,2,8,27,0,Layup Shot,2,-2,29,True
+Josh Hart,2,8,4,1,Layup Shot,3,18,26,True
+Josh Hart,3,5,14,0,Layup Shot,2,0,23,True
+Josh Hart,4,3,0,0,Pullup Jump shot,17,-81,155,True
+Josh Hart,2,11,29,0,Pullup Jump shot,15,77,140,True
+Josh Hart,4,5,42,0,Pullup Jump shot,20,19,200,True
+Josh Hart,3,4,3,0,Pullup Jump shot,9,93,36,True
+Josh Hart,1,0,19,0,Pullup Jump shot,18,134,132,True
+Josh Hart,2,1,18,1,Pullup Jump shot,11,111,34,True
+Josh Hart,3,9,58,0,Pullup Jump shot,24,-117,220,False
+Josh Hart,5,3,17,0,Pullup Jump shot,26,70,260,False
+Josh Hart,3,6,14,0,Pullup Jump shot,18,-22,188,True
+Josh Hart,3,0,55,0,Pullup Jump shot,22,-105,202,True
+Josh Hart,4,4,52,1,Pullup Jump shot,24,25,248,False
+Josh Hart,2,3,47,1,Pullup Jump shot,13,109,85,True
+Josh Hart,4,4,30,1,Pullup Jump shot,26,-168,204,False
+Josh Hart,4,6,56,1,Pullup Jump shot,17,-67,162,True
+Josh Hart,3,5,31,1,Pullup Jump shot,18,1,187,True
+Josh Hart,3,7,31,0,Pullup Jump shot,11,114,25,True
+Josh Hart,2,1,22,1,Pullup Jump shot,15,67,142,True
+Josh Hart,3,3,41,1,Pullup Jump shot,29,-13,293,False
+Josh Hart,4,10,26,1,Pullup Jump shot,26,-136,223,False
+Josh Hart,2,6,22,0,Pullup Jump shot,18,85,167,True
+Josh Hart,4,7,25,1,Pullup Jump shot,12,-62,106,True
+Josh Hart,2,2,43,0,Pullup Jump shot,14,-55,132,True
+Josh Hart,4,6,40,0,Reverse Layup Shot,3,-13,32,True
+Josh Hart,4,4,27,1,Reverse Layup Shot,1,15,12,True
+Josh Hart,2,10,55,1,Reverse Layup Shot,1,-13,8,True
+Josh Hart,2,7,30,0,Reverse Layup Shot,2,3,21,True
+Josh Hart,3,6,3,1,Running Dunk Shot,1,-3,18,True
+Josh Hart,2,11,32,1,Running Dunk Shot,0,-2,8,True
+Josh Hart,3,8,36,1,Running Dunk Shot,0,-2,5,True
+Josh Hart,4,3,13,1,Running Finger Roll Layup Shot,2,6,25,True
+Josh Hart,2,2,47,1,Running Finger Roll Layup Shot,2,13,24,True
+Josh Hart,3,0,0,0,Running Jump Shot,37,-109,354,False
+Josh Hart,2,8,49,0,Running Layup Shot,0,5,7,True
+Josh Hart,2,0,49,1,Running Layup Shot,2,8,27,True
+Josh Hart,4,10,23,1,Running Layup Shot,2,0,27,True
+Josh Hart,4,8,53,0,Running Layup Shot,2,24,11,True
+Josh Hart,3,5,27,1,Running Layup Shot,1,18,8,True
+Josh Hart,4,7,17,1,Running Layup Shot,1,-5,11,True
+Josh Hart,1,5,0,0,Running Layup Shot,1,12,6,True
+Josh Hart,1,10,3,1,Running Layup Shot,1,-2,10,True
+Josh Hart,3,3,20,1,Running Layup Shot,0,8,0,True
+Josh Hart,4,8,5,0,Running Layup Shot,0,-1,6,True
+Josh Hart,4,3,54,1,Running Layup Shot,0,1,0,True
+Josh Hart,2,8,12,1,Running Layup Shot,2,12,22,True
+Josh Hart,1,8,31,1,Running Layup Shot,1,13,10,True
+Josh Hart,2,6,53,1,Running Layup Shot,1,-6,17,True
+Josh Hart,4,10,29,0,Running Layup Shot,1,8,7,True
+Josh Hart,4,4,42,1,Running Layup Shot,2,-11,18,True
+Josh Hart,2,6,13,1,Running Layup Shot,0,5,8,True
+Josh Hart,3,6,35,1,Running Layup Shot,2,-6,21,True
+Josh Hart,3,3,18,1,Running Layup Shot,1,2,12,True
+Josh Hart,1,9,38,1,Running Layup Shot,0,-1,0,True
+Josh Hart,4,2,50,0,Running Layup Shot,1,7,11,True
+Josh Hart,2,2,58,1,Running Layup Shot,1,5,15,True
+Josh Hart,1,3,24,1,Running Layup Shot,0,-4,9,True
+Josh Hart,4,7,15,0,Running Layup Shot,4,28,29,True
+Josh Hart,4,11,20,0,Running Layup Shot,1,16,8,True
+Josh Hart,4,1,13,1,Running Layup Shot,1,16,10,True
+Josh Hart,4,5,2,1,Running Layup Shot,2,-2,21,True
+Josh Hart,2,3,12,1,Running Layup Shot,1,-5,14,True
+Josh Hart,2,6,40,1,Running Pull-Up Jump Shot,26,132,225,False
+Josh Hart,1,10,8,1,Running Pull-Up Jump Shot,23,-232,-15,False
+Josh Hart,1,11,22,0,Running Pull-Up Jump Shot,16,-71,153,True
+Josh Hart,4,8,39,1,Running Pull-Up Jump Shot,27,-169,218,False
+Josh Hart,2,7,57,1,Running Pull-Up Jump Shot,26,138,222,False
+Josh Hart,2,0,31,1,Running Pull-Up Jump Shot,24,216,123,False
+Josh Hart,1,3,27,1,Running Reverse Layup Shot,2,10,20,True
+Josh Hart,4,3,56,0,Running Reverse Layup Shot,2,5,29,True
+Josh Hart,4,11,46,1,Step Back Jump shot,13,-46,131,True
+Josh Hart,2,4,52,0,Step Back Jump shot,14,-67,125,True
+Josh Hart,4,1,50,0,Step Back Jump shot,19,8,194,True
+Josh Hart,4,5,0,0,Tip Layup Shot,0,0,-6,True
+Josh Hart,3,0,1,1,Tip Layup Shot,0,0,-6,True
+Josh Hart,3,11,14,0,Tip Layup Shot,0,0,-6,True
+Josh Hart,1,9,6,0,Tip Layup Shot,0,0,-6,True
+Josh Hart,4,3,52,1,Tip Layup Shot,0,0,-6,True
+Josh Hart,1,0,47,0,Tip Layup Shot,0,0,-6,True
+Josh Hart,2,0,36,0,Tip Layup Shot,0,0,-6,True
+Josh Hart,1,0,24,0,Tip Layup Shot,0,0,-6,True
+Josh Hart,2,5,34,1,Tip Layup Shot,0,0,-6,True
+Josh Hart,3,1,56,0,Turnaround Fadeaway shot,15,-27,153,True
+Josh Hart,4,9,18,0,Turnaround Fadeaway shot,9,-8,94,True
+Josh Hart,6,0,54,0,Turnaround Fadeaway shot,15,33,151,True
+Josh Hart,4,7,3,0,Turnaround Fadeaway shot,12,23,124,True
+Josh Hart,3,4,20,0,Turnaround Fadeaway shot,5,0,50,True
+Josh Hart,2,11,21,0,Turnaround Fadeaway shot,12,-78,99,True
+Josh Hart,4,10,24,0,Turnaround Jump Shot,6,63,29,True

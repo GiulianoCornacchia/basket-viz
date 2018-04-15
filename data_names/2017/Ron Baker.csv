@@ -1,0 +1,52 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Ron Baker,4,10,3,1,Cutting Layup Shot,1,8,12,True
+Ron Baker,2,8,22,0,Driving Floating Bank Jump Shot,3,20,34,True
+Ron Baker,4,2,55,0,Driving Layup Shot,5,5,53,True
+Ron Baker,2,9,3,1,Driving Layup Shot,0,-3,4,True
+Ron Baker,3,2,42,0,Driving Layup Shot,2,13,22,True
+Ron Baker,4,10,49,0,Driving Layup Shot,0,-3,8,True
+Ron Baker,2,10,27,0,Driving Layup Shot,2,14,24,True
+Ron Baker,3,4,31,0,Driving Layup Shot,0,0,1,True
+Ron Baker,2,11,22,1,Driving Layup Shot,1,9,6,True
+Ron Baker,4,3,3,0,Driving Layup Shot,1,-11,15,True
+Ron Baker,4,2,3,0,Driving Layup Shot,3,-18,31,True
+Ron Baker,2,7,19,0,Jump Bank Shot,1,-15,8,True
+Ron Baker,2,5,19,1,Jump Bank Shot,26,97,244,False
+Ron Baker,3,0,20,0,Jump Shot,22,221,26,False
+Ron Baker,3,0,38,0,Jump Shot,25,160,195,False
+Ron Baker,1,3,10,0,Jump Shot,23,-232,-7,False
+Ron Baker,2,6,31,1,Jump Shot,25,123,227,False
+Ron Baker,3,2,27,0,Jump Shot,25,3,255,False
+Ron Baker,2,2,38,0,Jump Shot,24,130,211,False
+Ron Baker,1,4,9,1,Jump Shot,22,121,193,True
+Ron Baker,3,4,18,0,Jump Shot,25,111,232,False
+Ron Baker,2,11,48,1,Jump Shot,23,-236,-27,False
+Ron Baker,4,1,46,0,Jump Shot,25,165,199,False
+Ron Baker,4,8,4,0,Jump Shot,22,188,127,True
+Ron Baker,3,0,46,1,Jump Shot,25,168,195,False
+Ron Baker,4,11,20,0,Jump Shot,28,-24,285,False
+Ron Baker,3,5,28,1,Jump Shot,23,-226,43,False
+Ron Baker,4,5,51,0,Jump Shot,22,-226,19,False
+Ron Baker,3,1,53,0,Jump Shot,22,-223,-17,False
+Ron Baker,2,6,50,0,Jump Shot,23,231,-8,False
+Ron Baker,2,3,30,0,Jump Shot,24,156,190,False
+Ron Baker,2,7,33,0,Jump Shot,25,179,183,False
+Ron Baker,2,10,46,0,Jump Shot,25,-160,199,False
+Ron Baker,3,1,14,1,Jump Shot,22,225,-25,False
+Ron Baker,2,10,38,1,Jump Shot,25,203,158,False
+Ron Baker,2,5,42,0,Jump Shot,28,209,194,False
+Ron Baker,1,1,43,1,Jump Shot,23,230,68,False
+Ron Baker,4,8,27,0,Jump Shot,25,-179,178,False
+Ron Baker,2,10,28,0,Jump Shot,22,223,38,False
+Ron Baker,1,0,18,0,Layup Shot,3,31,23,True
+Ron Baker,4,1,6,1,Layup Shot,1,6,17,True
+Ron Baker,2,8,37,1,Layup Shot,1,-2,10,True
+Ron Baker,4,10,42,0,Layup Shot,2,20,7,True
+Ron Baker,4,0,30,0,Layup Shot,2,-13,23,True
+Ron Baker,1,0,2,1,Pullup Jump shot,27,-88,262,False
+Ron Baker,4,9,22,1,Pullup Jump shot,24,-168,182,False
+Ron Baker,4,9,55,0,Pullup Jump shot,19,199,16,True
+Ron Baker,4,4,41,0,Pullup Jump shot,18,-180,34,True
+Ron Baker,1,1,25,0,Pullup Jump shot,26,76,255,False
+Ron Baker,1,4,27,1,Reverse Layup Shot,2,-3,22,True
+Ron Baker,2,7,46,1,Tip Layup Shot,0,0,-6,True

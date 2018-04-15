@@ -1,0 +1,803 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+DeMarcus Cousins,4,4,39,1,Alley Oop Layup shot,2,25,4,True
+DeMarcus Cousins,1,7,44,0,Alley Oop Layup shot,1,11,11,True
+DeMarcus Cousins,2,2,36,0,Alley Oop Layup shot,2,-25,0,True
+DeMarcus Cousins,1,7,30,0,Alley Oop Layup shot,1,4,15,True
+DeMarcus Cousins,1,7,20,1,Cutting Dunk Shot,1,-3,14,True
+DeMarcus Cousins,2,6,53,1,Cutting Dunk Shot,0,0,5,True
+DeMarcus Cousins,4,9,39,1,Cutting Dunk Shot,0,0,1,True
+DeMarcus Cousins,4,6,56,1,Cutting Dunk Shot,1,-1,17,True
+DeMarcus Cousins,3,0,49,1,Cutting Dunk Shot,0,-1,8,True
+DeMarcus Cousins,1,11,38,1,Cutting Dunk Shot,1,-7,17,True
+DeMarcus Cousins,2,6,9,1,Cutting Dunk Shot,1,-4,14,True
+DeMarcus Cousins,3,2,43,1,Cutting Dunk Shot,0,-7,4,True
+DeMarcus Cousins,1,6,35,1,Cutting Dunk Shot,0,-6,7,True
+DeMarcus Cousins,4,1,15,1,Cutting Dunk Shot,0,3,9,True
+DeMarcus Cousins,3,10,6,1,Cutting Finger Roll Layup Shot,0,0,-5,True
+DeMarcus Cousins,1,10,30,1,Cutting Finger Roll Layup Shot,1,-4,14,True
+DeMarcus Cousins,3,10,0,1,Cutting Layup Shot,2,22,6,True
+DeMarcus Cousins,1,11,46,1,Cutting Layup Shot,0,0,3,True
+DeMarcus Cousins,3,0,49,0,Cutting Layup Shot,1,3,17,True
+DeMarcus Cousins,4,11,24,1,Cutting Layup Shot,2,20,14,True
+DeMarcus Cousins,1,2,19,1,Cutting Layup Shot,2,-8,27,True
+DeMarcus Cousins,1,8,8,1,Cutting Layup Shot,2,-20,0,True
+DeMarcus Cousins,4,8,43,0,Cutting Layup Shot,1,-6,16,True
+DeMarcus Cousins,5,1,52,1,Driving Bank Hook Shot,2,-8,20,True
+DeMarcus Cousins,2,7,16,1,Driving Dunk Shot,1,-9,8,True
+DeMarcus Cousins,1,6,14,1,Driving Dunk Shot,0,-4,5,True
+DeMarcus Cousins,3,4,45,1,Driving Dunk Shot,1,1,11,True
+DeMarcus Cousins,1,5,8,1,Driving Dunk Shot,1,-13,-4,True
+DeMarcus Cousins,3,11,9,1,Driving Dunk Shot,0,2,6,True
+DeMarcus Cousins,2,2,57,1,Driving Dunk Shot,0,0,4,True
+DeMarcus Cousins,2,3,16,1,Driving Dunk Shot,0,-5,6,True
+DeMarcus Cousins,3,7,51,0,Driving Dunk Shot,0,-2,8,True
+DeMarcus Cousins,3,11,30,1,Driving Dunk Shot,1,2,13,True
+DeMarcus Cousins,4,0,57,1,Driving Dunk Shot,2,10,18,True
+DeMarcus Cousins,4,8,11,1,Driving Dunk Shot,0,8,5,True
+DeMarcus Cousins,2,1,2,1,Driving Dunk Shot,0,-6,2,True
+DeMarcus Cousins,4,2,51,1,Driving Dunk Shot,0,2,2,True
+DeMarcus Cousins,2,1,28,1,Driving Dunk Shot,0,2,0,True
+DeMarcus Cousins,2,5,24,1,Driving Dunk Shot,2,2,28,True
+DeMarcus Cousins,4,10,47,1,Driving Finger Roll Layup Shot,0,-3,0,True
+DeMarcus Cousins,2,6,1,1,Driving Finger Roll Layup Shot,2,3,20,True
+DeMarcus Cousins,4,4,42,0,Driving Finger Roll Layup Shot,1,-18,-3,True
+DeMarcus Cousins,2,2,39,0,Driving Finger Roll Layup Shot,1,-16,10,True
+DeMarcus Cousins,2,3,30,1,Driving Finger Roll Layup Shot,1,-1,15,True
+DeMarcus Cousins,4,8,16,1,Driving Finger Roll Layup Shot,0,-8,-1,True
+DeMarcus Cousins,4,10,40,1,Driving Finger Roll Layup Shot,2,-23,7,True
+DeMarcus Cousins,1,3,46,1,Driving Finger Roll Layup Shot,0,3,5,True
+DeMarcus Cousins,2,9,42,1,Driving Floating Bank Jump Shot,2,-5,20,True
+DeMarcus Cousins,4,2,41,0,Driving Floating Jump Shot,3,-33,4,True
+DeMarcus Cousins,2,0,36,1,Driving Floating Jump Shot,8,84,19,True
+DeMarcus Cousins,2,7,35,1,Driving Floating Jump Shot,9,1,94,True
+DeMarcus Cousins,4,4,6,1,Driving Floating Jump Shot,3,-5,32,True
+DeMarcus Cousins,4,6,8,0,Driving Floating Jump Shot,4,-40,16,True
+DeMarcus Cousins,3,6,30,0,Driving Floating Jump Shot,11,-33,109,True
+DeMarcus Cousins,1,7,38,0,Driving Floating Jump Shot,7,20,74,True
+DeMarcus Cousins,1,10,3,0,Driving Hook Shot,3,6,36,True
+DeMarcus Cousins,3,11,45,0,Driving Hook Shot,2,-2,29,True
+DeMarcus Cousins,2,7,41,1,Driving Hook Shot,5,13,50,True
+DeMarcus Cousins,3,11,12,0,Driving Hook Shot,5,-50,6,True
+DeMarcus Cousins,4,2,57,1,Driving Layup Shot,5,-36,40,True
+DeMarcus Cousins,4,1,17,0,Driving Layup Shot,4,36,32,True
+DeMarcus Cousins,1,9,53,0,Driving Layup Shot,2,1,22,True
+DeMarcus Cousins,2,6,59,1,Driving Layup Shot,0,6,0,True
+DeMarcus Cousins,2,9,27,0,Driving Layup Shot,3,15,36,True
+DeMarcus Cousins,3,9,56,1,Driving Layup Shot,3,0,37,True
+DeMarcus Cousins,1,8,44,1,Driving Layup Shot,2,-22,12,True
+DeMarcus Cousins,4,4,46,1,Driving Layup Shot,1,14,6,True
+DeMarcus Cousins,4,7,47,0,Driving Layup Shot,1,4,10,True
+DeMarcus Cousins,1,6,25,0,Driving Layup Shot,3,5,32,True
+DeMarcus Cousins,4,7,40,1,Driving Layup Shot,1,-3,13,True
+DeMarcus Cousins,1,7,11,0,Driving Layup Shot,0,1,4,True
+DeMarcus Cousins,1,9,38,1,Driving Layup Shot,1,12,15,True
+DeMarcus Cousins,4,11,37,0,Driving Layup Shot,0,-5,8,True
+DeMarcus Cousins,2,4,38,1,Driving Layup Shot,1,-6,14,True
+DeMarcus Cousins,4,8,12,1,Driving Layup Shot,1,-11,-1,True
+DeMarcus Cousins,4,9,16,1,Driving Layup Shot,1,-8,10,True
+DeMarcus Cousins,5,4,9,1,Driving Layup Shot,1,3,13,True
+DeMarcus Cousins,2,0,32,1,Driving Layup Shot,1,13,0,True
+DeMarcus Cousins,2,1,36,1,Driving Layup Shot,1,-8,13,True
+DeMarcus Cousins,4,8,34,1,Driving Layup Shot,3,14,27,True
+DeMarcus Cousins,4,10,46,1,Driving Layup Shot,2,-25,12,True
+DeMarcus Cousins,4,7,57,0,Driving Layup Shot,1,16,11,True
+DeMarcus Cousins,4,2,53,0,Driving Layup Shot,1,0,11,True
+DeMarcus Cousins,4,4,48,1,Driving Layup Shot,1,1,19,True
+DeMarcus Cousins,4,8,36,0,Driving Layup Shot,2,22,15,True
+DeMarcus Cousins,1,11,35,0,Driving Layup Shot,0,3,3,True
+DeMarcus Cousins,1,10,54,0,Driving Layup Shot,2,5,26,True
+DeMarcus Cousins,1,6,1,0,Driving Layup Shot,2,-22,-4,True
+DeMarcus Cousins,1,0,19,1,Driving Layup Shot,0,8,4,True
+DeMarcus Cousins,3,10,49,1,Driving Layup Shot,2,-25,13,True
+DeMarcus Cousins,1,9,10,0,Driving Layup Shot,5,-44,32,True
+DeMarcus Cousins,1,4,41,1,Driving Layup Shot,3,-29,18,True
+DeMarcus Cousins,4,2,12,0,Driving Layup Shot,2,13,16,True
+DeMarcus Cousins,1,8,32,0,Driving Layup Shot,6,-40,52,True
+DeMarcus Cousins,2,6,18,0,Driving Layup Shot,1,-10,9,True
+DeMarcus Cousins,2,9,29,1,Driving Layup Shot,1,10,5,True
+DeMarcus Cousins,2,7,7,1,Driving Layup Shot,3,28,14,True
+DeMarcus Cousins,4,8,58,1,Driving Layup Shot,1,-9,8,True
+DeMarcus Cousins,4,11,19,0,Driving Layup Shot,1,18,5,True
+DeMarcus Cousins,3,10,27,0,Driving Layup Shot,2,13,16,True
+DeMarcus Cousins,5,2,8,1,Driving Layup Shot,0,2,6,True
+DeMarcus Cousins,2,11,45,1,Driving Layup Shot,1,15,11,True
+DeMarcus Cousins,1,4,19,1,Driving Layup Shot,2,20,8,True
+DeMarcus Cousins,2,1,24,0,Driving Layup Shot,1,-18,6,True
+DeMarcus Cousins,3,8,12,1,Driving Layup Shot,1,18,8,True
+DeMarcus Cousins,3,10,25,0,Driving Layup Shot,1,10,4,True
+DeMarcus Cousins,2,7,45,1,Driving Layup Shot,2,-17,13,True
+DeMarcus Cousins,1,0,46,0,Driving Layup Shot,3,16,27,True
+DeMarcus Cousins,1,8,7,1,Driving Layup Shot,1,-13,8,True
+DeMarcus Cousins,3,7,57,0,Driving Layup Shot,1,13,-2,True
+DeMarcus Cousins,1,4,2,0,Driving Layup Shot,2,-19,15,True
+DeMarcus Cousins,2,8,55,1,Driving Layup Shot,0,8,5,True
+DeMarcus Cousins,1,3,47,0,Driving Layup Shot,1,18,8,True
+DeMarcus Cousins,5,4,18,1,Driving Layup Shot,0,-3,-1,True
+DeMarcus Cousins,2,9,57,1,Driving Layup Shot,2,22,16,True
+DeMarcus Cousins,3,7,52,0,Driving Layup Shot,2,5,24,True
+DeMarcus Cousins,1,5,2,1,Driving Layup Shot,3,-35,16,True
+DeMarcus Cousins,1,11,4,0,Driving Layup Shot,0,-5,-1,True
+DeMarcus Cousins,4,1,33,1,Driving Layup Shot,2,-14,15,True
+DeMarcus Cousins,3,10,22,1,Driving Layup Shot,2,22,8,True
+DeMarcus Cousins,3,9,29,0,Driving Layup Shot,1,-11,-1,True
+DeMarcus Cousins,2,1,49,0,Driving Layup Shot,2,-10,21,True
+DeMarcus Cousins,3,7,27,0,Driving Layup Shot,3,-12,28,True
+DeMarcus Cousins,4,6,40,1,Driving Layup Shot,2,-11,27,True
+DeMarcus Cousins,3,5,10,1,Driving Layup Shot,1,3,17,True
+DeMarcus Cousins,4,7,2,1,Driving Layup Shot,2,18,9,True
+DeMarcus Cousins,1,7,14,0,Driving Layup Shot,2,23,11,True
+DeMarcus Cousins,4,9,14,0,Driving Layup Shot,0,5,2,True
+DeMarcus Cousins,3,7,12,0,Driving Layup Shot,1,11,10,True
+DeMarcus Cousins,4,11,15,1,Driving Layup Shot,2,5,27,True
+DeMarcus Cousins,2,6,14,0,Driving Layup Shot,0,1,5,True
+DeMarcus Cousins,2,11,36,1,Driving Layup Shot,7,0,78,True
+DeMarcus Cousins,3,7,43,1,Driving Layup Shot,1,-12,-5,True
+DeMarcus Cousins,4,10,30,0,Driving Layup Shot,0,4,4,True
+DeMarcus Cousins,4,9,18,1,Driving Layup Shot,6,55,38,True
+DeMarcus Cousins,1,11,6,1,Driving Layup Shot,0,-3,5,True
+DeMarcus Cousins,3,7,27,1,Driving Layup Shot,0,-7,0,True
+DeMarcus Cousins,4,6,51,0,Driving Layup Shot,7,-46,61,True
+DeMarcus Cousins,5,2,3,0,Driving Layup Shot,6,-43,44,True
+DeMarcus Cousins,4,9,32,1,Driving Layup Shot,2,-15,15,True
+DeMarcus Cousins,2,6,36,0,Driving Layup Shot,2,-16,17,True
+DeMarcus Cousins,3,4,16,1,Driving Layup Shot,2,24,15,True
+DeMarcus Cousins,3,10,1,1,Driving Layup Shot,1,-6,11,True
+DeMarcus Cousins,1,6,59,1,Driving Layup Shot,2,-16,25,True
+DeMarcus Cousins,3,1,19,0,Driving Layup Shot,0,5,2,True
+DeMarcus Cousins,4,5,10,0,Driving Layup Shot,2,-16,13,True
+DeMarcus Cousins,3,10,56,1,Driving Layup Shot,0,-4,6,True
+DeMarcus Cousins,3,8,49,1,Driving Layup Shot,1,13,-4,True
+DeMarcus Cousins,1,2,40,0,Driving Layup Shot,0,3,9,True
+DeMarcus Cousins,4,1,7,0,Driving Layup Shot,1,-8,8,True
+DeMarcus Cousins,1,9,22,1,Driving Reverse Layup Shot,1,13,13,True
+DeMarcus Cousins,3,7,16,0,Driving Reverse Layup Shot,2,-20,9,True
+DeMarcus Cousins,2,8,25,0,Driving Reverse Layup Shot,2,20,13,True
+DeMarcus Cousins,3,2,59,1,Driving Reverse Layup Shot,1,14,4,True
+DeMarcus Cousins,1,11,21,1,Driving Reverse Layup Shot,1,13,11,True
+DeMarcus Cousins,1,10,32,1,Driving Reverse Layup Shot,0,0,8,True
+DeMarcus Cousins,1,8,8,1,Dunk Shot,0,5,8,True
+DeMarcus Cousins,2,4,30,1,Dunk Shot,0,-2,8,True
+DeMarcus Cousins,4,8,21,0,Dunk Shot,1,-9,11,True
+DeMarcus Cousins,4,3,4,1,Dunk Shot,1,14,4,True
+DeMarcus Cousins,1,7,49,1,Dunk Shot,2,15,20,True
+DeMarcus Cousins,2,4,20,1,Dunk Shot,1,3,10,True
+DeMarcus Cousins,3,7,51,0,Dunk Shot,1,-4,10,True
+DeMarcus Cousins,1,3,45,1,Dunk Shot,0,2,-1,True
+DeMarcus Cousins,4,0,49,1,Dunk Shot,0,-4,-1,True
+DeMarcus Cousins,3,9,55,1,Dunk Shot,1,-5,10,True
+DeMarcus Cousins,2,4,52,1,Dunk Shot,0,4,6,True
+DeMarcus Cousins,2,3,21,1,Dunk Shot,0,-2,7,True
+DeMarcus Cousins,2,5,39,1,Dunk Shot,1,-2,14,True
+DeMarcus Cousins,1,8,45,1,Dunk Shot,0,-9,4,True
+DeMarcus Cousins,2,10,31,0,Fadeaway Jump Shot,8,-81,36,True
+DeMarcus Cousins,2,3,23,0,Fadeaway Jump Shot,6,2,68,True
+DeMarcus Cousins,4,8,24,1,Fadeaway Jump Shot,13,109,80,True
+DeMarcus Cousins,2,11,19,0,Fadeaway Jump Shot,7,59,41,True
+DeMarcus Cousins,2,9,52,1,Fadeaway Jump Shot,14,-87,119,True
+DeMarcus Cousins,2,7,7,1,Fadeaway Jump Shot,23,-236,-1,False
+DeMarcus Cousins,2,10,19,1,Fadeaway Jump Shot,13,-117,59,True
+DeMarcus Cousins,3,3,39,1,Fadeaway Jump Shot,12,-106,75,True
+DeMarcus Cousins,1,3,2,1,Finger Roll Layup Shot,1,-8,15,True
+DeMarcus Cousins,1,8,3,0,Finger Roll Layup Shot,1,-18,8,True
+DeMarcus Cousins,2,11,40,1,Finger Roll Layup Shot,3,-6,38,True
+DeMarcus Cousins,4,7,19,1,Finger Roll Layup Shot,2,5,21,True
+DeMarcus Cousins,2,4,0,1,Finger Roll Layup Shot,0,9,-3,True
+DeMarcus Cousins,3,1,32,1,Floating Jump shot,5,4,52,True
+DeMarcus Cousins,4,1,48,0,Floating Jump shot,10,9,109,True
+DeMarcus Cousins,4,6,5,0,Floating Jump shot,13,-87,101,True
+DeMarcus Cousins,2,9,9,1,Floating Jump shot,10,-46,91,True
+DeMarcus Cousins,3,6,24,0,Floating Jump shot,3,-18,25,True
+DeMarcus Cousins,4,5,20,0,Hook Shot,10,-16,108,True
+DeMarcus Cousins,2,1,39,1,Hook Shot,5,13,57,True
+DeMarcus Cousins,4,8,31,1,Hook Shot,1,16,1,True
+DeMarcus Cousins,1,5,33,0,Hook Shot,1,14,11,True
+DeMarcus Cousins,1,6,34,0,Hook Shot,1,-3,16,True
+DeMarcus Cousins,3,6,54,0,Hook Shot,4,-2,48,True
+DeMarcus Cousins,1,9,13,0,Hook Shot,7,13,78,True
+DeMarcus Cousins,1,7,41,0,Hook Shot,3,-20,27,True
+DeMarcus Cousins,1,7,9,0,Hook Shot,6,-38,53,True
+DeMarcus Cousins,2,10,15,0,Hook Shot,0,2,2,True
+DeMarcus Cousins,4,11,1,0,Hook Shot,6,-2,69,True
+DeMarcus Cousins,1,5,3,0,Hook Shot,9,78,47,True
+DeMarcus Cousins,1,9,43,0,Hook Shot,4,-36,25,True
+DeMarcus Cousins,2,7,47,1,Hook Shot,9,95,-12,True
+DeMarcus Cousins,4,1,16,1,Hook Shot,10,47,94,True
+DeMarcus Cousins,4,8,50,1,Hook Shot,5,-13,52,True
+DeMarcus Cousins,1,7,35,0,Hook Shot,2,-2,26,True
+DeMarcus Cousins,2,10,55,0,Hook Shot,6,6,67,True
+DeMarcus Cousins,1,7,34,1,Hook Shot,1,5,11,True
+DeMarcus Cousins,2,2,52,1,Hook Shot,3,-23,26,True
+DeMarcus Cousins,3,6,49,0,Hook Shot,6,-52,38,True
+DeMarcus Cousins,1,0,5,0,Jump Bank Shot,25,-186,174,False
+DeMarcus Cousins,1,10,45,1,Jump Bank Shot,27,121,251,False
+DeMarcus Cousins,1,11,38,0,Jump Bank Shot,14,100,100,True
+DeMarcus Cousins,3,6,46,0,Jump Bank Shot,3,-34,5,True
+DeMarcus Cousins,4,9,6,0,Jump Shot,24,-18,244,False
+DeMarcus Cousins,1,11,14,0,Jump Shot,20,-50,200,True
+DeMarcus Cousins,1,0,15,0,Jump Shot,21,62,202,True
+DeMarcus Cousins,3,11,45,0,Jump Shot,26,120,232,False
+DeMarcus Cousins,4,5,47,1,Jump Shot,26,7,261,False
+DeMarcus Cousins,1,9,18,1,Jump Shot,27,-144,236,False
+DeMarcus Cousins,2,6,29,0,Jump Shot,26,-127,231,False
+DeMarcus Cousins,1,4,52,0,Jump Shot,22,-225,38,False
+DeMarcus Cousins,4,2,9,0,Jump Shot,24,-114,218,False
+DeMarcus Cousins,1,2,11,0,Jump Shot,19,-66,180,True
+DeMarcus Cousins,1,3,15,0,Jump Shot,26,-130,235,False
+DeMarcus Cousins,3,7,17,1,Jump Shot,27,-93,261,False
+DeMarcus Cousins,1,11,9,0,Jump Shot,18,24,186,True
+DeMarcus Cousins,1,6,40,0,Jump Shot,8,-5,88,True
+DeMarcus Cousins,3,5,59,0,Jump Shot,27,-79,261,False
+DeMarcus Cousins,1,4,57,1,Jump Shot,24,232,78,False
+DeMarcus Cousins,3,9,37,0,Jump Shot,21,177,120,True
+DeMarcus Cousins,3,4,15,0,Jump Shot,28,-217,183,False
+DeMarcus Cousins,3,3,35,1,Jump Shot,9,-82,41,True
+DeMarcus Cousins,3,10,58,0,Jump Shot,27,133,245,False
+DeMarcus Cousins,3,1,5,0,Jump Shot,28,186,220,False
+DeMarcus Cousins,2,8,58,0,Jump Shot,25,-92,235,False
+DeMarcus Cousins,2,7,39,0,Jump Shot,27,-157,227,False
+DeMarcus Cousins,1,3,14,0,Jump Shot,26,-168,206,False
+DeMarcus Cousins,4,2,51,0,Jump Shot,25,73,243,False
+DeMarcus Cousins,1,8,12,0,Jump Shot,27,147,231,False
+DeMarcus Cousins,3,9,18,0,Jump Shot,25,-215,128,False
+DeMarcus Cousins,3,4,57,1,Jump Shot,11,-28,115,True
+DeMarcus Cousins,1,10,35,0,Jump Shot,27,142,231,False
+DeMarcus Cousins,2,4,54,1,Jump Shot,26,100,240,False
+DeMarcus Cousins,1,4,25,1,Jump Shot,25,18,256,False
+DeMarcus Cousins,4,8,23,0,Jump Shot,26,-85,253,False
+DeMarcus Cousins,4,9,59,0,Jump Shot,20,-137,154,True
+DeMarcus Cousins,2,5,24,0,Jump Shot,6,-57,37,True
+DeMarcus Cousins,3,0,24,0,Jump Shot,27,-76,264,False
+DeMarcus Cousins,4,11,10,0,Jump Shot,5,-8,52,True
+DeMarcus Cousins,3,10,41,1,Jump Shot,26,-2,264,False
+DeMarcus Cousins,4,0,23,1,Jump Shot,26,-139,220,False
+DeMarcus Cousins,4,11,5,0,Jump Shot,18,92,157,True
+DeMarcus Cousins,4,0,0,0,Jump Shot,31,-179,257,False
+DeMarcus Cousins,5,3,44,0,Jump Shot,25,113,233,False
+DeMarcus Cousins,2,6,12,0,Jump Shot,25,-7,254,False
+DeMarcus Cousins,2,9,25,0,Jump Shot,26,-158,213,False
+DeMarcus Cousins,3,8,42,0,Jump Shot,28,-110,260,False
+DeMarcus Cousins,1,10,41,1,Jump Shot,26,-149,220,False
+DeMarcus Cousins,3,8,44,0,Jump Shot,21,-218,16,False
+DeMarcus Cousins,4,8,49,0,Jump Shot,26,-59,257,False
+DeMarcus Cousins,3,10,26,0,Jump Shot,24,-139,198,False
+DeMarcus Cousins,2,10,46,1,Jump Shot,25,0,259,False
+DeMarcus Cousins,2,3,5,0,Jump Shot,25,-33,249,False
+DeMarcus Cousins,1,9,51,0,Jump Shot,26,-112,236,False
+DeMarcus Cousins,3,8,8,0,Jump Shot,24,128,210,False
+DeMarcus Cousins,3,11,13,0,Jump Shot,26,-3,260,False
+DeMarcus Cousins,1,10,13,0,Jump Shot,25,-13,253,False
+DeMarcus Cousins,3,10,39,0,Jump Shot,25,-146,208,False
+DeMarcus Cousins,2,3,16,1,Jump Shot,7,-7,76,True
+DeMarcus Cousins,3,7,11,0,Jump Shot,22,-222,-36,False
+DeMarcus Cousins,3,6,44,0,Jump Shot,26,-63,256,False
+DeMarcus Cousins,4,9,10,0,Jump Shot,20,-108,169,True
+DeMarcus Cousins,3,4,51,1,Jump Shot,26,59,260,False
+DeMarcus Cousins,1,9,6,0,Jump Shot,25,100,234,False
+DeMarcus Cousins,1,7,16,0,Jump Shot,26,-3,262,False
+DeMarcus Cousins,3,5,7,0,Jump Shot,25,-139,214,False
+DeMarcus Cousins,2,5,24,1,Jump Shot,26,-8,265,False
+DeMarcus Cousins,2,8,5,1,Jump Shot,17,8,175,True
+DeMarcus Cousins,2,7,6,1,Jump Shot,26,68,254,False
+DeMarcus Cousins,4,0,27,0,Jump Shot,25,-30,253,False
+DeMarcus Cousins,1,6,5,0,Jump Shot,25,-100,235,False
+DeMarcus Cousins,4,1,19,0,Jump Shot,25,-109,229,False
+DeMarcus Cousins,2,3,45,1,Jump Shot,25,149,210,False
+DeMarcus Cousins,1,9,48,0,Jump Shot,13,135,12,True
+DeMarcus Cousins,2,9,37,0,Jump Shot,25,120,227,False
+DeMarcus Cousins,4,0,56,0,Jump Shot,17,43,169,True
+DeMarcus Cousins,3,9,1,0,Jump Shot,20,31,199,True
+DeMarcus Cousins,1,1,39,1,Jump Shot,12,-89,83,True
+DeMarcus Cousins,3,11,32,0,Jump Shot,26,176,193,False
+DeMarcus Cousins,2,2,55,1,Jump Shot,25,121,226,False
+DeMarcus Cousins,3,4,43,0,Jump Shot,26,-84,251,False
+DeMarcus Cousins,4,6,22,1,Jump Shot,25,87,243,False
+DeMarcus Cousins,2,10,11,0,Jump Shot,26,-76,258,False
+DeMarcus Cousins,4,7,9,0,Jump Shot,25,-162,201,False
+DeMarcus Cousins,1,2,56,1,Jump Shot,25,-119,228,False
+DeMarcus Cousins,1,6,6,0,Jump Shot,24,-232,62,False
+DeMarcus Cousins,3,8,5,0,Jump Shot,26,94,248,False
+DeMarcus Cousins,4,4,3,0,Jump Shot,26,-105,241,False
+DeMarcus Cousins,1,11,13,1,Jump Shot,25,19,253,False
+DeMarcus Cousins,1,1,6,1,Jump Shot,25,-11,254,False
+DeMarcus Cousins,4,8,12,1,Jump Shot,26,172,199,False
+DeMarcus Cousins,2,10,28,0,Jump Shot,26,26,259,False
+DeMarcus Cousins,3,9,41,1,Jump Shot,27,-132,243,False
+DeMarcus Cousins,2,7,4,0,Jump Shot,24,150,196,False
+DeMarcus Cousins,4,5,48,0,Jump Shot,26,-3,262,False
+DeMarcus Cousins,3,9,41,1,Jump Shot,25,-20,258,False
+DeMarcus Cousins,3,9,11,1,Jump Shot,26,125,230,False
+DeMarcus Cousins,3,6,28,0,Jump Shot,25,138,218,False
+DeMarcus Cousins,1,11,39,0,Jump Shot,25,-166,197,False
+DeMarcus Cousins,1,11,11,0,Jump Shot,8,8,81,True
+DeMarcus Cousins,4,4,20,1,Jump Shot,24,230,82,False
+DeMarcus Cousins,2,5,51,0,Jump Shot,6,4,60,True
+DeMarcus Cousins,2,8,14,1,Jump Shot,26,-99,243,False
+DeMarcus Cousins,2,8,41,1,Jump Shot,26,-103,239,False
+DeMarcus Cousins,1,7,30,0,Jump Shot,19,32,190,True
+DeMarcus Cousins,1,8,1,0,Jump Shot,26,2,260,False
+DeMarcus Cousins,4,4,25,0,Jump Shot,25,160,204,False
+DeMarcus Cousins,3,7,24,0,Jump Shot,21,114,178,True
+DeMarcus Cousins,3,6,12,0,Jump Shot,24,-128,214,False
+DeMarcus Cousins,3,3,54,0,Jump Shot,25,0,251,False
+DeMarcus Cousins,4,7,53,0,Jump Shot,22,-227,-10,False
+DeMarcus Cousins,4,11,1,0,Jump Shot,9,-11,90,True
+DeMarcus Cousins,3,6,53,0,Jump Shot,27,-111,250,False
+DeMarcus Cousins,2,6,54,0,Jump Shot,29,-120,272,False
+DeMarcus Cousins,4,3,21,1,Jump Shot,28,-150,239,False
+DeMarcus Cousins,1,11,28,0,Jump Shot,29,11,291,False
+DeMarcus Cousins,1,5,33,1,Jump Shot,30,65,293,False
+DeMarcus Cousins,2,7,32,0,Jump Shot,18,-94,162,True
+DeMarcus Cousins,2,5,46,0,Jump Shot,8,-44,68,True
+DeMarcus Cousins,3,7,33,1,Jump Shot,28,-163,235,False
+DeMarcus Cousins,1,5,5,1,Jump Shot,24,-14,248,False
+DeMarcus Cousins,4,3,47,0,Jump Shot,25,-87,236,False
+DeMarcus Cousins,3,6,33,0,Jump Shot,27,-180,210,False
+DeMarcus Cousins,2,1,50,0,Jump Shot,25,-105,235,False
+DeMarcus Cousins,4,9,7,0,Jump Shot,26,-143,226,False
+DeMarcus Cousins,1,7,53,0,Jump Shot,6,7,69,True
+DeMarcus Cousins,3,10,50,1,Jump Shot,6,-27,59,True
+DeMarcus Cousins,3,7,30,1,Jump Shot,28,-20,284,False
+DeMarcus Cousins,3,2,16,0,Jump Shot,26,87,251,False
+DeMarcus Cousins,4,3,23,0,Jump Shot,27,-54,272,False
+DeMarcus Cousins,4,7,44,0,Jump Shot,24,-143,204,False
+DeMarcus Cousins,1,6,25,0,Jump Shot,24,136,206,False
+DeMarcus Cousins,2,9,0,0,Jump Shot,25,-90,239,False
+DeMarcus Cousins,1,3,41,1,Jump Shot,26,-93,251,False
+DeMarcus Cousins,3,9,44,0,Jump Shot,25,5,253,False
+DeMarcus Cousins,3,5,4,1,Jump Shot,24,125,209,False
+DeMarcus Cousins,4,3,29,0,Jump Shot,24,152,190,False
+DeMarcus Cousins,3,1,49,0,Jump Shot,24,2,249,False
+DeMarcus Cousins,3,11,21,0,Jump Shot,21,-155,144,True
+DeMarcus Cousins,1,9,39,0,Jump Shot,25,136,215,False
+DeMarcus Cousins,3,4,1,1,Jump Shot,24,95,221,False
+DeMarcus Cousins,1,11,49,0,Jump Shot,20,-131,157,True
+DeMarcus Cousins,1,9,36,0,Jump Shot,25,-79,246,False
+DeMarcus Cousins,4,7,43,0,Jump Shot,26,65,260,False
+DeMarcus Cousins,3,8,4,1,Jump Shot,24,-73,237,False
+DeMarcus Cousins,3,7,19,0,Jump Shot,25,9,253,False
+DeMarcus Cousins,3,11,23,0,Jump Shot,24,-108,224,False
+DeMarcus Cousins,2,3,1,0,Jump Shot,26,134,226,False
+DeMarcus Cousins,1,10,51,0,Jump Shot,25,-14,258,False
+DeMarcus Cousins,2,3,35,0,Jump Shot,28,125,253,False
+DeMarcus Cousins,4,0,25,0,Jump Shot,24,-157,189,False
+DeMarcus Cousins,4,6,17,0,Jump Shot,26,83,253,False
+DeMarcus Cousins,4,4,14,0,Jump Shot,25,161,200,False
+DeMarcus Cousins,2,7,42,0,Jump Shot,25,-152,206,False
+DeMarcus Cousins,4,9,51,1,Jump Shot,25,-120,220,False
+DeMarcus Cousins,3,7,26,0,Jump Shot,26,-174,197,False
+DeMarcus Cousins,4,5,0,0,Jump Shot,25,-113,224,False
+DeMarcus Cousins,2,7,41,0,Jump Shot,24,-92,228,False
+DeMarcus Cousins,3,0,51,0,Jump Shot,26,-80,250,False
+DeMarcus Cousins,2,5,44,1,Jump Shot,27,-131,237,False
+DeMarcus Cousins,1,10,4,1,Jump Shot,26,117,236,False
+DeMarcus Cousins,2,2,48,0,Jump Shot,26,24,259,False
+DeMarcus Cousins,1,8,15,0,Jump Shot,26,-114,236,False
+DeMarcus Cousins,4,1,21,0,Jump Shot,25,-91,234,False
+DeMarcus Cousins,1,1,26,1,Jump Shot,25,79,246,False
+DeMarcus Cousins,3,6,6,0,Jump Shot,25,-98,237,False
+DeMarcus Cousins,3,6,22,0,Jump Shot,27,98,252,False
+DeMarcus Cousins,4,1,17,0,Jump Shot,26,-101,244,False
+DeMarcus Cousins,4,8,13,0,Jump Shot,25,-14,254,False
+DeMarcus Cousins,1,4,26,0,Jump Shot,25,-31,252,False
+DeMarcus Cousins,4,0,24,0,Jump Shot,27,-172,214,False
+DeMarcus Cousins,4,10,32,0,Jump Shot,25,135,221,False
+DeMarcus Cousins,1,9,31,0,Jump Shot,27,-7,278,False
+DeMarcus Cousins,2,7,20,0,Jump Shot,26,-14,263,False
+DeMarcus Cousins,3,6,12,1,Jump Shot,25,-135,222,False
+DeMarcus Cousins,3,8,20,0,Jump Shot,27,-147,228,False
+DeMarcus Cousins,1,6,58,0,Jump Shot,19,-68,183,True
+DeMarcus Cousins,1,2,45,0,Jump Shot,25,-8,258,False
+DeMarcus Cousins,3,10,45,0,Jump Shot,2,10,28,True
+DeMarcus Cousins,3,3,52,0,Jump Shot,26,-60,257,False
+DeMarcus Cousins,1,10,19,1,Jump Shot,17,-152,95,True
+DeMarcus Cousins,3,7,23,1,Jump Shot,20,-197,46,True
+DeMarcus Cousins,1,11,32,1,Jump Shot,3,-18,34,True
+DeMarcus Cousins,3,10,44,1,Jump Shot,26,163,203,False
+DeMarcus Cousins,2,4,53,0,Jump Shot,28,-1,286,False
+DeMarcus Cousins,2,6,36,0,Jump Shot,25,148,213,False
+DeMarcus Cousins,4,8,32,0,Jump Shot,27,-28,272,False
+DeMarcus Cousins,3,9,51,1,Jump Shot,25,152,202,False
+DeMarcus Cousins,2,6,22,1,Jump Shot,18,-84,167,True
+DeMarcus Cousins,3,10,50,0,Jump Shot,26,-99,242,False
+DeMarcus Cousins,2,5,3,0,Jump Shot,25,-189,172,False
+DeMarcus Cousins,1,9,42,0,Jump Shot,25,-184,173,False
+DeMarcus Cousins,3,8,16,0,Jump Shot,25,-72,246,False
+DeMarcus Cousins,1,0,36,1,Jump Shot,12,-20,121,True
+DeMarcus Cousins,1,4,13,0,Jump Shot,6,-10,63,True
+DeMarcus Cousins,1,1,39,0,Jump Shot,26,131,230,False
+DeMarcus Cousins,1,6,40,1,Jump Shot,26,-76,253,False
+DeMarcus Cousins,1,10,26,0,Jump Shot,21,107,189,True
+DeMarcus Cousins,4,8,58,0,Jump Shot,22,-199,97,True
+DeMarcus Cousins,1,9,28,0,Jump Shot,19,-70,187,True
+DeMarcus Cousins,1,2,54,0,Jump Shot,5,22,55,True
+DeMarcus Cousins,2,3,14,0,Jump Shot,25,-151,206,False
+DeMarcus Cousins,3,0,0,0,Jump Shot,47,10,473,False
+DeMarcus Cousins,3,8,2,0,Jump Shot,21,-165,136,True
+DeMarcus Cousins,2,4,7,1,Jump Shot,25,179,184,False
+DeMarcus Cousins,4,5,9,0,Jump Shot,25,154,198,False
+DeMarcus Cousins,1,2,1,1,Jump Shot,19,-92,167,True
+DeMarcus Cousins,1,10,46,0,Jump Shot,5,-16,57,True
+DeMarcus Cousins,2,9,51,0,Jump Shot,26,-98,248,False
+DeMarcus Cousins,3,3,15,0,Jump Shot,29,85,282,False
+DeMarcus Cousins,4,7,16,0,Jump Shot,28,-8,282,False
+DeMarcus Cousins,3,8,18,1,Jump Shot,7,-14,71,True
+DeMarcus Cousins,4,2,21,1,Jump Shot,24,-67,240,False
+DeMarcus Cousins,1,10,21,0,Jump Shot,25,-114,233,False
+DeMarcus Cousins,2,0,59,1,Jump Shot,24,205,137,False
+DeMarcus Cousins,2,11,13,0,Jump Shot,26,2,267,False
+DeMarcus Cousins,4,0,8,0,Jump Shot,22,82,208,True
+DeMarcus Cousins,1,0,24,1,Jump Shot,27,-12,278,False
+DeMarcus Cousins,3,4,57,1,Jump Shot,20,-70,188,True
+DeMarcus Cousins,2,0,20,1,Jump Shot,25,218,125,False
+DeMarcus Cousins,3,10,42,1,Jump Shot,26,101,245,False
+DeMarcus Cousins,1,2,35,0,Jump Shot,20,-112,167,True
+DeMarcus Cousins,2,0,0,0,Jump Shot,50,180,473,False
+DeMarcus Cousins,4,11,29,0,Jump Shot,25,-171,183,False
+DeMarcus Cousins,3,11,41,0,Jump Shot,21,143,161,True
+DeMarcus Cousins,1,1,56,1,Jump Shot,26,24,262,False
+DeMarcus Cousins,2,7,3,0,Jump Shot,22,143,173,True
+DeMarcus Cousins,4,8,16,1,Jump Shot,25,44,248,False
+DeMarcus Cousins,4,9,50,0,Jump Shot,20,-148,137,True
+DeMarcus Cousins,3,9,31,0,Jump Shot,25,-185,173,False
+DeMarcus Cousins,3,11,27,1,Jump Shot,25,73,247,False
+DeMarcus Cousins,1,8,26,0,Jump Shot,25,-36,256,False
+DeMarcus Cousins,1,11,14,0,Jump Shot,16,86,144,True
+DeMarcus Cousins,5,0,6,0,Jump Shot,22,-226,-1,False
+DeMarcus Cousins,1,4,3,0,Jump Shot,16,106,127,True
+DeMarcus Cousins,4,4,0,1,Jump Shot,18,-84,162,True
+DeMarcus Cousins,3,3,32,1,Jump Shot,28,-78,279,False
+DeMarcus Cousins,3,4,10,0,Jump Shot,4,-24,38,True
+DeMarcus Cousins,2,0,38,1,Jump Shot,27,-176,215,False
+DeMarcus Cousins,5,3,28,0,Jump Shot,26,-75,250,False
+DeMarcus Cousins,5,0,29,0,Jump Shot,26,168,200,False
+DeMarcus Cousins,1,5,11,1,Jump Shot,25,151,207,False
+DeMarcus Cousins,3,9,50,1,Jump Shot,19,-15,198,True
+DeMarcus Cousins,2,6,55,1,Jump Shot,25,152,201,False
+DeMarcus Cousins,5,2,18,0,Jump Shot,5,2,50,True
+DeMarcus Cousins,4,8,16,0,Jump Shot,25,-218,131,False
+DeMarcus Cousins,2,4,37,1,Jump Shot,18,-52,176,True
+DeMarcus Cousins,4,1,20,0,Jump Shot,25,-118,229,False
+DeMarcus Cousins,2,6,36,0,Jump Shot,26,-99,249,False
+DeMarcus Cousins,3,9,12,1,Jump Shot,25,-33,252,False
+DeMarcus Cousins,4,3,2,0,Jump Shot,27,-91,260,False
+DeMarcus Cousins,1,10,56,0,Jump Shot,25,-116,222,False
+DeMarcus Cousins,5,4,2,0,Jump Shot,25,9,250,False
+DeMarcus Cousins,3,9,43,0,Jump Shot,22,-148,172,True
+DeMarcus Cousins,3,0,51,0,Jump Shot,25,-130,225,False
+DeMarcus Cousins,4,11,30,0,Jump Shot,24,-159,191,False
+DeMarcus Cousins,1,5,10,0,Jump Shot,24,-5,247,False
+DeMarcus Cousins,4,3,34,1,Jump Shot,24,95,225,False
+DeMarcus Cousins,4,5,31,1,Jump Shot,25,-167,189,False
+DeMarcus Cousins,3,3,53,0,Jump Shot,25,-105,237,False
+DeMarcus Cousins,1,1,51,1,Jump Shot,25,-48,247,False
+DeMarcus Cousins,1,6,6,1,Jump Shot,25,5,253,False
+DeMarcus Cousins,1,11,39,1,Jump Shot,14,-117,90,True
+DeMarcus Cousins,1,7,49,0,Jump Shot,25,-150,201,False
+DeMarcus Cousins,3,10,12,0,Jump Shot,26,23,263,False
+DeMarcus Cousins,1,11,31,1,Jump Shot,24,166,186,False
+DeMarcus Cousins,4,1,16,1,Jump Shot,26,-133,225,False
+DeMarcus Cousins,3,5,54,0,Jump Shot,26,-122,237,False
+DeMarcus Cousins,4,8,8,1,Jump Shot,27,-19,272,False
+DeMarcus Cousins,4,8,36,1,Jump Shot,25,0,255,False
+DeMarcus Cousins,1,5,38,1,Jump Shot,28,-187,216,False
+DeMarcus Cousins,4,7,41,0,Jump Shot,27,-78,264,False
+DeMarcus Cousins,1,3,44,1,Jump Shot,26,-137,226,False
+DeMarcus Cousins,3,9,19,1,Jump Shot,29,154,248,False
+DeMarcus Cousins,4,8,26,0,Jump Shot,16,-96,135,True
+DeMarcus Cousins,3,6,26,0,Jump Shot,20,-29,204,True
+DeMarcus Cousins,3,4,34,0,Jump Shot,27,61,272,False
+DeMarcus Cousins,1,5,2,0,Jump Shot,13,-138,-4,True
+DeMarcus Cousins,4,8,1,1,Jump Shot,8,-73,51,True
+DeMarcus Cousins,2,8,38,1,Jump Shot,6,-14,59,True
+DeMarcus Cousins,2,7,20,0,Jump Shot,28,-65,280,False
+DeMarcus Cousins,4,2,15,0,Jump Shot,7,-3,71,True
+DeMarcus Cousins,3,11,31,0,Jump Shot,25,-54,252,False
+DeMarcus Cousins,3,6,39,0,Jump Shot,24,215,118,False
+DeMarcus Cousins,3,3,45,0,Jump Shot,8,-81,0,True
+DeMarcus Cousins,1,9,31,1,Jump Shot,19,-130,146,True
+DeMarcus Cousins,1,10,5,0,Jump Shot,25,144,213,False
+DeMarcus Cousins,4,4,3,0,Jump Shot,24,189,158,False
+DeMarcus Cousins,3,11,9,0,Jump Shot,8,-13,89,True
+DeMarcus Cousins,4,7,27,0,Jump Shot,25,-117,226,False
+DeMarcus Cousins,4,6,56,0,Jump Shot,26,-25,260,False
+DeMarcus Cousins,1,4,28,0,Jump Shot,25,211,136,False
+DeMarcus Cousins,3,2,29,0,Jump Shot,26,188,192,False
+DeMarcus Cousins,4,3,41,1,Jump Shot,25,132,222,False
+DeMarcus Cousins,3,8,54,0,Jump Shot,11,3,119,True
+DeMarcus Cousins,3,4,10,0,Jump Shot,25,-182,182,False
+DeMarcus Cousins,1,5,20,1,Jump Shot,25,-209,143,False
+DeMarcus Cousins,1,7,4,0,Jump Shot,24,-118,218,False
+DeMarcus Cousins,1,8,8,0,Jump Shot,24,113,222,False
+DeMarcus Cousins,4,4,2,1,Jump Shot,24,-210,129,False
+DeMarcus Cousins,4,1,18,0,Jump Shot,25,-97,241,False
+DeMarcus Cousins,4,3,58,0,Jump Shot,9,-77,60,True
+DeMarcus Cousins,4,3,24,0,Jump Shot,26,29,263,False
+DeMarcus Cousins,3,4,50,1,Jump Shot,28,-70,272,False
+DeMarcus Cousins,1,1,27,1,Jump Shot,25,-36,248,False
+DeMarcus Cousins,4,10,28,0,Jump Shot,25,-229,102,False
+DeMarcus Cousins,1,4,29,1,Jump Shot,7,-11,79,True
+DeMarcus Cousins,2,4,1,1,Jump Shot,21,-173,129,True
+DeMarcus Cousins,2,5,20,1,Jump Shot,25,-54,246,False
+DeMarcus Cousins,1,9,23,0,Jump Shot,24,-91,227,False
+DeMarcus Cousins,4,0,46,0,Jump Shot,27,-182,207,False
+DeMarcus Cousins,1,10,39,1,Jump Shot,24,-107,222,False
+DeMarcus Cousins,3,8,13,0,Jump Shot,21,-22,209,True
+DeMarcus Cousins,1,9,43,0,Jump Shot,25,90,242,False
+DeMarcus Cousins,3,1,32,0,Jump Shot,25,-81,245,False
+DeMarcus Cousins,3,0,45,1,Jump Shot,26,49,256,False
+DeMarcus Cousins,6,3,46,1,Jump Shot,25,-133,214,False
+DeMarcus Cousins,3,5,9,1,Jump Shot,26,-119,233,False
+DeMarcus Cousins,3,9,35,0,Jump Shot,25,120,226,False
+DeMarcus Cousins,2,0,31,1,Jump Shot,26,95,243,False
+DeMarcus Cousins,4,6,39,0,Jump Shot,25,-163,194,False
+DeMarcus Cousins,2,3,14,1,Jump Shot,3,-2,32,True
+DeMarcus Cousins,3,7,58,1,Jump Shot,18,-163,92,True
+DeMarcus Cousins,1,1,20,0,Jump Shot,25,7,258,False
+DeMarcus Cousins,4,11,13,0,Jump Shot,5,-47,26,True
+DeMarcus Cousins,1,6,12,1,Jump Shot,25,-152,199,False
+DeMarcus Cousins,1,2,31,0,Jump Shot,25,5,253,False
+DeMarcus Cousins,1,11,2,1,Jump Shot,25,20,257,False
+DeMarcus Cousins,4,9,45,0,Jump Shot,26,134,230,False
+DeMarcus Cousins,1,10,53,0,Jump Shot,25,150,204,False
+DeMarcus Cousins,1,3,9,1,Jump Shot,27,-101,257,False
+DeMarcus Cousins,3,4,22,0,Jump Shot,26,98,246,False
+DeMarcus Cousins,3,11,5,0,Jump Shot,24,-200,140,False
+DeMarcus Cousins,3,8,30,1,Jump Shot,25,105,231,False
+DeMarcus Cousins,3,1,56,0,Layup Shot,2,27,5,True
+DeMarcus Cousins,4,9,52,0,Layup Shot,5,-42,40,True
+DeMarcus Cousins,4,10,3,1,Layup Shot,2,-9,25,True
+DeMarcus Cousins,2,6,9,1,Layup Shot,1,14,5,True
+DeMarcus Cousins,1,6,55,0,Layup Shot,3,-24,18,True
+DeMarcus Cousins,3,10,59,0,Layup Shot,3,-5,33,True
+DeMarcus Cousins,2,4,37,0,Layup Shot,2,0,21,True
+DeMarcus Cousins,1,7,46,1,Layup Shot,1,2,18,True
+DeMarcus Cousins,4,5,16,1,Layup Shot,4,17,43,True
+DeMarcus Cousins,1,2,30,1,Layup Shot,1,-11,16,True
+DeMarcus Cousins,3,7,53,0,Layup Shot,3,1,31,True
+DeMarcus Cousins,4,5,57,0,Layup Shot,1,-8,16,True
+DeMarcus Cousins,4,9,56,0,Layup Shot,2,13,25,True
+DeMarcus Cousins,4,10,4,1,Layup Shot,2,5,20,True
+DeMarcus Cousins,3,10,45,0,Layup Shot,1,-2,16,True
+DeMarcus Cousins,6,3,5,0,Layup Shot,2,19,11,True
+DeMarcus Cousins,6,0,9,0,Layup Shot,2,-13,16,True
+DeMarcus Cousins,3,11,42,0,Layup Shot,11,70,88,True
+DeMarcus Cousins,3,6,42,0,Layup Shot,2,23,-1,True
+DeMarcus Cousins,2,0,19,1,Layup Shot,1,3,15,True
+DeMarcus Cousins,2,9,49,0,Layup Shot,4,-40,28,True
+DeMarcus Cousins,1,5,57,0,Layup Shot,1,13,12,True
+DeMarcus Cousins,4,5,13,1,Layup Shot,1,-16,9,True
+DeMarcus Cousins,1,11,36,0,Layup Shot,3,-34,17,True
+DeMarcus Cousins,1,4,23,1,Layup Shot,3,31,20,True
+DeMarcus Cousins,2,9,24,1,Layup Shot,1,-5,15,True
+DeMarcus Cousins,2,5,19,1,Layup Shot,2,-22,4,True
+DeMarcus Cousins,4,8,57,1,Layup Shot,2,7,25,True
+DeMarcus Cousins,1,7,4,1,Layup Shot,3,0,38,True
+DeMarcus Cousins,4,5,32,0,Layup Shot,2,23,19,True
+DeMarcus Cousins,1,1,22,1,Layup Shot,2,-5,21,True
+DeMarcus Cousins,2,8,57,0,Layup Shot,3,-32,20,True
+DeMarcus Cousins,3,7,6,1,Layup Shot,2,5,21,True
+DeMarcus Cousins,3,9,21,0,Layup Shot,2,-5,22,True
+DeMarcus Cousins,3,3,11,0,Layup Shot,1,-5,18,True
+DeMarcus Cousins,1,9,14,1,Layup Shot,6,-62,29,True
+DeMarcus Cousins,4,0,10,0,Layup Shot,1,14,1,True
+DeMarcus Cousins,1,7,53,1,Layup Shot,3,-30,5,True
+DeMarcus Cousins,1,5,9,0,Layup Shot,5,12,55,True
+DeMarcus Cousins,3,5,40,1,Layup Shot,5,27,46,True
+DeMarcus Cousins,3,4,33,0,Layup Shot,4,-11,48,True
+DeMarcus Cousins,2,0,11,0,Layup Shot,5,24,52,True
+DeMarcus Cousins,3,0,57,1,Layup Shot,4,3,41,True
+DeMarcus Cousins,2,3,8,0,Layup Shot,2,5,23,True
+DeMarcus Cousins,4,5,19,1,Layup Shot,1,8,12,True
+DeMarcus Cousins,2,7,25,0,Layup Shot,6,-62,31,True
+DeMarcus Cousins,4,10,31,1,Layup Shot,1,12,6,True
+DeMarcus Cousins,1,1,20,1,Layup Shot,3,-8,33,True
+DeMarcus Cousins,4,7,40,1,Layup Shot,1,-18,2,True
+DeMarcus Cousins,1,8,26,0,Layup Shot,3,14,32,True
+DeMarcus Cousins,3,11,4,0,Layup Shot,2,-19,13,True
+DeMarcus Cousins,3,7,15,1,Layup Shot,4,22,37,True
+DeMarcus Cousins,4,11,18,0,Layup Shot,2,-24,7,True
+DeMarcus Cousins,2,5,18,1,Layup Shot,2,-5,21,True
+DeMarcus Cousins,3,6,57,0,Layup Shot,2,-1,26,True
+DeMarcus Cousins,4,4,4,1,Layup Shot,7,-16,72,True
+DeMarcus Cousins,2,9,24,1,Layup Shot,1,-13,13,True
+DeMarcus Cousins,3,0,6,1,Layup Shot,4,9,46,True
+DeMarcus Cousins,4,9,47,0,Layup Shot,1,6,11,True
+DeMarcus Cousins,2,10,49,1,Layup Shot,3,14,32,True
+DeMarcus Cousins,4,7,40,0,Layup Shot,1,-13,8,True
+DeMarcus Cousins,1,2,39,1,Layup Shot,0,3,5,True
+DeMarcus Cousins,3,7,56,1,Layup Shot,3,-20,31,True
+DeMarcus Cousins,1,1,6,1,Layup Shot,1,2,13,True
+DeMarcus Cousins,1,6,16,1,Layup Shot,3,36,8,True
+DeMarcus Cousins,2,3,44,1,Layup Shot,1,-6,13,True
+DeMarcus Cousins,4,9,17,0,Layup Shot,1,-14,14,True
+DeMarcus Cousins,4,9,46,1,Layup Shot,1,-6,19,True
+DeMarcus Cousins,2,4,23,1,Layup Shot,1,11,6,True
+DeMarcus Cousins,1,8,2,1,Layup Shot,1,13,11,True
+DeMarcus Cousins,3,11,3,1,Layup Shot,2,22,-4,True
+DeMarcus Cousins,4,11,11,1,Layup Shot,5,-21,47,True
+DeMarcus Cousins,3,3,15,1,Layup Shot,2,4,20,True
+DeMarcus Cousins,3,11,1,1,Layup Shot,1,13,7,True
+DeMarcus Cousins,6,2,20,0,Layup Shot,1,6,17,True
+DeMarcus Cousins,2,3,59,0,Layup Shot,2,-14,20,True
+DeMarcus Cousins,1,5,44,1,Layup Shot,2,0,28,True
+DeMarcus Cousins,1,3,46,0,Layup Shot,2,25,5,True
+DeMarcus Cousins,4,7,5,1,Layup Shot,1,8,7,True
+DeMarcus Cousins,2,6,5,0,Layup Shot,3,6,36,True
+DeMarcus Cousins,1,5,53,0,Layup Shot,4,36,26,True
+DeMarcus Cousins,3,8,41,0,Layup Shot,1,14,13,True
+DeMarcus Cousins,1,10,23,0,Layup Shot,2,18,17,True
+DeMarcus Cousins,1,5,28,0,Layup Shot,2,-5,22,True
+DeMarcus Cousins,2,8,17,0,Layup Shot,1,8,6,True
+DeMarcus Cousins,4,2,32,0,Layup Shot,0,8,3,True
+DeMarcus Cousins,3,6,14,1,Layup Shot,2,0,26,True
+DeMarcus Cousins,4,9,52,0,Layup Shot,3,19,27,True
+DeMarcus Cousins,4,1,5,1,Layup Shot,0,0,4,True
+DeMarcus Cousins,5,4,39,0,Layup Shot,1,-11,5,True
+DeMarcus Cousins,4,9,25,0,Layup Shot,1,9,9,True
+DeMarcus Cousins,1,11,23,0,Layup Shot,2,-21,9,True
+DeMarcus Cousins,4,6,13,0,Layup Shot,3,22,23,True
+DeMarcus Cousins,5,1,48,0,Layup Shot,2,-6,20,True
+DeMarcus Cousins,1,7,52,0,Layup Shot,1,-17,6,True
+DeMarcus Cousins,2,11,42,1,Layup Shot,3,-18,33,True
+DeMarcus Cousins,1,6,11,1,Layup Shot,2,-22,8,True
+DeMarcus Cousins,1,10,17,1,Layup Shot,1,-5,11,True
+DeMarcus Cousins,3,10,2,1,Layup Shot,1,-7,11,True
+DeMarcus Cousins,1,2,14,1,Layup Shot,1,-14,10,True
+DeMarcus Cousins,2,7,25,0,Layup Shot,3,26,28,True
+DeMarcus Cousins,4,9,48,1,Layup Shot,1,-13,-2,True
+DeMarcus Cousins,5,4,12,1,Layup Shot,1,-10,0,True
+DeMarcus Cousins,4,2,1,1,Layup Shot,0,-6,4,True
+DeMarcus Cousins,2,11,40,0,Layup Shot,6,-19,64,True
+DeMarcus Cousins,2,1,3,1,Layup Shot,3,-1,34,True
+DeMarcus Cousins,2,11,24,1,Layup Shot,0,-6,-1,True
+DeMarcus Cousins,3,8,37,1,Layup Shot,1,-15,-2,True
+DeMarcus Cousins,1,1,48,0,Layup Shot,1,-17,5,True
+DeMarcus Cousins,2,6,44,0,Layup Shot,1,13,1,True
+DeMarcus Cousins,4,0,38,0,Layup Shot,2,16,19,True
+DeMarcus Cousins,4,2,47,0,Layup Shot,3,23,31,True
+DeMarcus Cousins,2,1,12,0,Layup Shot,2,-23,15,True
+DeMarcus Cousins,2,4,17,1,Layup Shot,2,-25,7,True
+DeMarcus Cousins,2,2,33,1,Layup Shot,0,8,-1,True
+DeMarcus Cousins,2,2,21,1,Layup Shot,3,33,20,True
+DeMarcus Cousins,3,10,36,0,Layup Shot,3,-37,10,True
+DeMarcus Cousins,4,3,9,0,Layup Shot,1,13,5,True
+DeMarcus Cousins,2,4,21,0,Layup Shot,1,-13,10,True
+DeMarcus Cousins,1,1,46,0,Layup Shot,2,-17,15,True
+DeMarcus Cousins,2,1,48,1,Layup Shot,2,20,1,True
+DeMarcus Cousins,3,6,18,0,Layup Shot,4,-38,16,True
+DeMarcus Cousins,4,2,27,0,Layup Shot,2,-22,10,True
+DeMarcus Cousins,2,5,10,0,Layup Shot,4,-44,16,True
+DeMarcus Cousins,3,11,7,1,Pullup Jump shot,24,-8,246,False
+DeMarcus Cousins,1,8,57,0,Pullup Jump shot,25,-75,241,False
+DeMarcus Cousins,1,0,37,1,Pullup Jump shot,20,84,185,True
+DeMarcus Cousins,2,3,29,0,Pullup Jump shot,26,-161,210,False
+DeMarcus Cousins,3,6,1,1,Pullup Jump shot,17,-109,142,True
+DeMarcus Cousins,2,11,29,0,Pullup Jump shot,18,90,164,True
+DeMarcus Cousins,2,7,52,1,Putback Dunk Shot,0,0,-6,True
+DeMarcus Cousins,3,2,18,1,Putback Dunk Shot,0,0,-6,True
+DeMarcus Cousins,4,4,20,1,Putback Dunk Shot,0,0,-6,True
+DeMarcus Cousins,4,0,5,1,Putback Layup Shot,1,11,-4,True
+DeMarcus Cousins,2,7,26,1,Putback Layup Shot,1,9,5,True
+DeMarcus Cousins,1,4,49,1,Putback Layup Shot,0,-2,8,True
+DeMarcus Cousins,3,8,13,1,Putback Layup Shot,0,0,-6,True
+DeMarcus Cousins,4,0,15,1,Putback Layup Shot,1,-18,4,True
+DeMarcus Cousins,1,0,41,1,Putback Layup Shot,5,6,58,True
+DeMarcus Cousins,3,9,24,1,Putback Layup Shot,0,0,-6,True
+DeMarcus Cousins,1,10,56,0,Putback Layup Shot,1,14,8,True
+DeMarcus Cousins,4,8,6,0,Putback Layup Shot,2,22,14,True
+DeMarcus Cousins,1,7,26,0,Putback Layup Shot,0,0,-6,True
+DeMarcus Cousins,2,7,19,0,Putback Layup Shot,2,6,28,True
+DeMarcus Cousins,2,9,25,1,Putback Layup Shot,0,0,-6,True
+DeMarcus Cousins,4,1,15,1,Putback Layup Shot,0,0,-6,True
+DeMarcus Cousins,3,6,43,1,Putback Layup Shot,2,-22,0,True
+DeMarcus Cousins,1,5,33,1,Putback Layup Shot,0,0,-6,True
+DeMarcus Cousins,3,8,15,0,Putback Layup Shot,2,-14,20,True
+DeMarcus Cousins,4,6,42,1,Putback Layup Shot,2,-20,17,True
+DeMarcus Cousins,3,6,54,1,Putback Layup Shot,0,0,-6,True
+DeMarcus Cousins,2,5,27,0,Putback Layup Shot,0,0,-6,True
+DeMarcus Cousins,4,1,37,1,Putback Layup Shot,0,0,-6,True
+DeMarcus Cousins,3,3,4,1,Putback Layup Shot,3,-11,35,True
+DeMarcus Cousins,1,10,22,1,Putback Layup Shot,0,0,-6,True
+DeMarcus Cousins,3,8,22,1,Putback Layup Shot,0,-1,5,True
+DeMarcus Cousins,1,5,35,1,Reverse Layup Shot,2,-20,5,True
+DeMarcus Cousins,3,10,52,0,Reverse Layup Shot,2,19,9,True
+DeMarcus Cousins,4,7,43,1,Reverse Layup Shot,2,-20,5,True
+DeMarcus Cousins,2,2,48,0,Reverse Layup Shot,0,5,6,True
+DeMarcus Cousins,2,8,48,1,Reverse Layup Shot,2,-27,11,True
+DeMarcus Cousins,1,7,33,0,Reverse Layup Shot,0,2,7,True
+DeMarcus Cousins,1,8,52,1,Running Dunk Shot,1,11,15,True
+DeMarcus Cousins,2,5,47,1,Running Dunk Shot,1,11,13,True
+DeMarcus Cousins,3,10,43,1,Running Finger Roll Layup Shot,1,-11,1,True
+DeMarcus Cousins,2,10,8,1,Running Finger Roll Layup Shot,1,8,14,True
+DeMarcus Cousins,2,7,36,1,Running Jump Shot,11,2,116,True
+DeMarcus Cousins,1,9,9,1,Running Jump Shot,7,0,73,True
+DeMarcus Cousins,1,4,21,1,Running Jump Shot,4,8,48,True
+DeMarcus Cousins,1,4,59,0,Running Layup Shot,3,32,-5,True
+DeMarcus Cousins,1,3,24,0,Running Layup Shot,1,18,2,True
+DeMarcus Cousins,1,7,34,1,Running Layup Shot,2,-18,13,True
+DeMarcus Cousins,1,7,2,1,Running Layup Shot,4,-30,34,True
+DeMarcus Cousins,1,8,25,0,Running Layup Shot,1,-5,10,True
+DeMarcus Cousins,2,6,57,1,Running Layup Shot,3,3,31,True
+DeMarcus Cousins,3,4,24,0,Running Layup Shot,7,8,78,True
+DeMarcus Cousins,4,9,38,1,Running Layup Shot,1,18,6,True
+DeMarcus Cousins,2,2,25,1,Running Reverse Layup Shot,1,-9,11,True
+DeMarcus Cousins,3,7,47,1,Step Back Jump shot,26,61,257,False
+DeMarcus Cousins,1,3,6,0,Step Back Jump shot,8,-86,-8,True
+DeMarcus Cousins,3,11,29,0,Step Back Jump shot,8,-82,10,True
+DeMarcus Cousins,1,4,16,1,Step Back Jump shot,16,20,163,True
+DeMarcus Cousins,2,0,52,0,Step Back Jump shot,20,-79,189,True
+DeMarcus Cousins,4,10,26,0,Step Back Jump shot,25,2,257,False
+DeMarcus Cousins,3,8,33,1,Step Back Jump shot,21,-119,185,True
+DeMarcus Cousins,2,1,11,1,Step Back Jump shot,25,-155,200,False
+DeMarcus Cousins,4,7,7,0,Step Back Jump shot,25,-35,257,False
+DeMarcus Cousins,4,1,44,1,Step Back Jump shot,26,25,259,False
+DeMarcus Cousins,1,8,3,1,Step Back Jump shot,26,168,203,False
+DeMarcus Cousins,4,4,13,0,Step Back Jump shot,22,-40,220,True
+DeMarcus Cousins,3,5,13,1,Step Back Jump shot,25,206,148,False
+DeMarcus Cousins,2,2,21,1,Step Back Jump shot,25,-131,218,False
+DeMarcus Cousins,4,3,26,0,Step Back Jump shot,25,-228,117,False
+DeMarcus Cousins,1,0,22,0,Step Back Jump shot,7,54,52,True
+DeMarcus Cousins,4,10,51,0,Step Back Jump shot,25,-193,168,False
+DeMarcus Cousins,4,9,36,0,Step Back Jump shot,20,48,202,True
+DeMarcus Cousins,2,11,37,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,2,4,20,0,Tip Layup Shot,3,-19,24,True
+DeMarcus Cousins,1,1,44,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,1,11,30,0,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,1,0,18,0,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,2,11,37,0,Tip Layup Shot,1,-8,17,True
+DeMarcus Cousins,4,3,2,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,2,1,20,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,1,5,47,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,4,2,3,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,4,0,15,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,1,5,47,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,1,7,21,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,4,4,25,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,3,6,37,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,2,3,54,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,1,8,55,0,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,1,3,43,0,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,2,3,22,1,Tip Layup Shot,2,-11,22,True
+DeMarcus Cousins,3,4,22,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,1,5,23,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,4,0,33,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,4,3,50,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,5,3,43,1,Tip Layup Shot,0,0,-6,True
+DeMarcus Cousins,2,9,1,1,Turnaround Fadeaway Bank Jump Shot,2,-23,6,True
+DeMarcus Cousins,5,0,15,0,Turnaround Fadeaway Bank Jump Shot,11,-106,48,True
+DeMarcus Cousins,1,9,51,0,Turnaround Fadeaway shot,13,-131,5,True
+DeMarcus Cousins,2,6,21,0,Turnaround Fadeaway shot,14,-123,77,True
+DeMarcus Cousins,6,0,51,0,Turnaround Fadeaway shot,14,-78,121,True
+DeMarcus Cousins,2,1,21,0,Turnaround Fadeaway shot,5,33,43,True
+DeMarcus Cousins,3,3,13,1,Turnaround Fadeaway shot,12,-120,25,True
+DeMarcus Cousins,3,4,5,0,Turnaround Fadeaway shot,17,-172,25,True
+DeMarcus Cousins,4,2,28,0,Turnaround Fadeaway shot,13,-136,15,True
+DeMarcus Cousins,3,0,10,1,Turnaround Fadeaway shot,11,-67,96,True
+DeMarcus Cousins,3,11,20,0,Turnaround Fadeaway shot,14,-141,-20,True
+DeMarcus Cousins,2,11,19,0,Turnaround Fadeaway shot,10,-98,26,True
+DeMarcus Cousins,1,3,19,1,Turnaround Fadeaway shot,12,87,85,True
+DeMarcus Cousins,4,0,0,0,Turnaround Hook Shot,4,-25,43,True
+DeMarcus Cousins,2,9,29,1,Turnaround Hook Shot,0,-1,-3,True
+DeMarcus Cousins,4,1,53,0,Turnaround Hook Shot,4,-32,33,True
+DeMarcus Cousins,4,1,11,0,Turnaround Hook Shot,5,-1,54,True
+DeMarcus Cousins,1,4,10,1,Turnaround Hook Shot,6,-24,57,True
+DeMarcus Cousins,1,6,34,0,Turnaround Hook Shot,2,3,26,True
+DeMarcus Cousins,3,8,41,1,Turnaround Hook Shot,7,-46,54,True
+DeMarcus Cousins,2,5,10,1,Turnaround Hook Shot,5,-21,52,True
+DeMarcus Cousins,4,7,37,1,Turnaround Hook Shot,1,-6,18,True
+DeMarcus Cousins,2,10,12,0,Turnaround Jump Shot,11,-115,29,True
+DeMarcus Cousins,4,9,20,0,Turnaround Jump Shot,17,154,88,True
+DeMarcus Cousins,4,11,36,0,Turnaround Jump Shot,9,90,39,True
+DeMarcus Cousins,2,6,9,0,Turnaround Jump Shot,1,-13,13,True
+DeMarcus Cousins,2,9,51,1,Turnaround Jump Shot,10,53,94,True
+DeMarcus Cousins,4,2,11,1,Turnaround Jump Shot,12,52,111,True
+DeMarcus Cousins,2,11,36,1,Turnaround Jump Shot,12,-126,22,True
+DeMarcus Cousins,1,9,1,1,Turnaround Jump Shot,4,-1,44,True
+DeMarcus Cousins,1,10,18,0,Turnaround Jump Shot,3,8,32,True
+DeMarcus Cousins,1,10,7,0,Turnaround Jump Shot,18,-115,148,True
+DeMarcus Cousins,6,4,39,1,Turnaround Jump Shot,7,-5,74,True
+DeMarcus Cousins,2,10,31,0,Turnaround Jump Shot,17,36,173,True
+DeMarcus Cousins,3,7,38,1,Turnaround Jump Shot,2,-9,26,True
+DeMarcus Cousins,2,7,56,0,Turnaround Jump Shot,17,82,154,True
+DeMarcus Cousins,4,1,37,0,Turnaround Jump Shot,7,0,73,True
+DeMarcus Cousins,3,8,10,0,Turnaround Jump Shot,4,44,16,True

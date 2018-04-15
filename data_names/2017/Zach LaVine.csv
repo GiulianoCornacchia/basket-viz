@@ -1,0 +1,274 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Zach LaVine,2,10,43,0,Alley Oop Layup shot,1,-13,11,True
+Zach LaVine,1,7,56,1,Cutting Dunk Shot,0,0,6,True
+Zach LaVine,2,0,15,1,Driving Dunk Shot,2,-17,13,True
+Zach LaVine,1,5,18,1,Driving Dunk Shot,0,9,-4,True
+Zach LaVine,1,5,14,1,Driving Dunk Shot,0,0,-1,True
+Zach LaVine,2,7,52,1,Driving Dunk Shot,0,3,-1,True
+Zach LaVine,2,3,7,0,Driving Dunk Shot,0,-4,8,True
+Zach LaVine,4,1,11,1,Driving Dunk Shot,0,6,5,True
+Zach LaVine,1,5,47,1,Driving Finger Roll Layup Shot,2,11,22,True
+Zach LaVine,4,5,43,1,Driving Finger Roll Layup Shot,1,3,11,True
+Zach LaVine,3,7,53,1,Driving Finger Roll Layup Shot,2,6,27,True
+Zach LaVine,1,7,9,0,Driving Floating Bank Jump Shot,4,38,30,True
+Zach LaVine,2,4,19,0,Driving Floating Bank Jump Shot,1,6,16,True
+Zach LaVine,4,5,40,1,Driving Floating Bank Jump Shot,4,-28,36,True
+Zach LaVine,1,6,25,1,Driving Floating Bank Jump Shot,8,-43,74,True
+Zach LaVine,3,11,17,0,Driving Floating Jump Shot,12,9,129,True
+Zach LaVine,3,10,12,0,Driving Floating Jump Shot,3,31,13,True
+Zach LaVine,1,7,13,0,Driving Hook Shot,3,22,21,True
+Zach LaVine,4,8,9,1,Driving Hook Shot,2,22,15,True
+Zach LaVine,1,9,37,0,Driving Layup Shot,3,-17,28,True
+Zach LaVine,2,1,54,1,Driving Layup Shot,1,-17,7,True
+Zach LaVine,2,4,48,1,Driving Layup Shot,0,1,9,True
+Zach LaVine,1,8,29,1,Driving Layup Shot,1,8,6,True
+Zach LaVine,1,6,8,0,Driving Layup Shot,2,-22,6,True
+Zach LaVine,2,6,3,1,Driving Layup Shot,0,4,4,True
+Zach LaVine,4,3,55,1,Driving Layup Shot,1,0,15,True
+Zach LaVine,3,8,27,0,Driving Layup Shot,5,35,38,True
+Zach LaVine,2,5,28,1,Driving Layup Shot,4,-3,43,True
+Zach LaVine,1,11,18,1,Driving Layup Shot,1,-1,11,True
+Zach LaVine,2,3,46,1,Driving Layup Shot,3,32,18,True
+Zach LaVine,2,2,5,1,Driving Layup Shot,2,5,27,True
+Zach LaVine,1,6,52,0,Driving Layup Shot,0,1,6,True
+Zach LaVine,2,2,52,0,Driving Layup Shot,2,11,22,True
+Zach LaVine,4,10,13,0,Driving Layup Shot,2,24,5,True
+Zach LaVine,1,3,53,1,Driving Layup Shot,0,-8,-1,True
+Zach LaVine,4,6,31,0,Driving Layup Shot,2,2,26,True
+Zach LaVine,4,8,27,1,Driving Layup Shot,1,-14,8,True
+Zach LaVine,3,8,5,1,Driving Layup Shot,2,-23,1,True
+Zach LaVine,1,8,46,1,Driving Layup Shot,2,20,13,True
+Zach LaVine,2,1,25,1,Driving Layup Shot,1,17,0,True
+Zach LaVine,1,6,58,0,Driving Layup Shot,5,11,52,True
+Zach LaVine,3,9,16,1,Driving Layup Shot,2,22,7,True
+Zach LaVine,3,1,1,1,Driving Layup Shot,1,15,8,True
+Zach LaVine,2,1,56,0,Driving Layup Shot,2,-2,23,True
+Zach LaVine,1,4,52,0,Driving Layup Shot,1,-14,-1,True
+Zach LaVine,3,6,52,1,Driving Layup Shot,2,29,2,True
+Zach LaVine,3,10,6,0,Driving Layup Shot,2,-14,20,True
+Zach LaVine,3,7,25,0,Driving Layup Shot,3,-29,15,True
+Zach LaVine,2,2,33,1,Driving Layup Shot,4,3,41,True
+Zach LaVine,2,1,10,1,Driving Layup Shot,2,-20,11,True
+Zach LaVine,4,8,5,0,Driving Layup Shot,2,13,22,True
+Zach LaVine,2,7,19,1,Driving Layup Shot,2,-16,13,True
+Zach LaVine,2,6,48,0,Driving Layup Shot,1,-10,9,True
+Zach LaVine,2,4,26,0,Driving Layup Shot,4,35,24,True
+Zach LaVine,4,6,7,1,Driving Layup Shot,1,11,15,True
+Zach LaVine,1,5,46,0,Driving Layup Shot,1,-10,11,True
+Zach LaVine,3,0,0,0,Driving Layup Shot,1,-7,18,True
+Zach LaVine,4,0,38,0,Driving Layup Shot,3,25,23,True
+Zach LaVine,3,0,52,0,Driving Layup Shot,2,18,10,True
+Zach LaVine,1,8,0,0,Driving Layup Shot,2,-13,23,True
+Zach LaVine,4,11,27,0,Driving Layup Shot,3,20,29,True
+Zach LaVine,3,9,52,1,Driving Layup Shot,2,-24,7,True
+Zach LaVine,4,0,55,0,Driving Layup Shot,6,-60,28,True
+Zach LaVine,2,5,39,1,Driving Layup Shot,1,-11,3,True
+Zach LaVine,4,2,57,0,Driving Layup Shot,1,15,10,True
+Zach LaVine,3,0,33,0,Driving Layup Shot,3,17,30,True
+Zach LaVine,3,8,33,0,Driving Layup Shot,3,18,25,True
+Zach LaVine,2,0,34,0,Driving Layup Shot,2,-20,5,True
+Zach LaVine,1,10,14,0,Driving Layup Shot,3,35,11,True
+Zach LaVine,3,10,49,0,Driving Layup Shot,3,32,2,True
+Zach LaVine,2,6,6,1,Driving Layup Shot,3,16,29,True
+Zach LaVine,2,5,2,0,Driving Reverse Layup Shot,1,-13,11,True
+Zach LaVine,4,11,48,1,Driving Reverse Layup Shot,3,-30,5,True
+Zach LaVine,1,7,9,0,Driving Reverse Layup Shot,1,16,11,True
+Zach LaVine,3,10,29,1,Driving Reverse Layup Shot,1,13,0,True
+Zach LaVine,4,3,2,0,Driving Reverse Layup Shot,1,-12,8,True
+Zach LaVine,4,6,7,1,Driving Reverse Layup Shot,1,9,7,True
+Zach LaVine,2,5,56,0,Fadeaway Jump Shot,25,221,125,False
+Zach LaVine,1,8,12,1,Fadeaway Jump Shot,14,49,138,True
+Zach LaVine,1,8,4,0,Fadeaway Jump Shot,17,20,173,True
+Zach LaVine,4,10,58,0,Fadeaway Jump Shot,17,10,178,True
+Zach LaVine,4,6,34,0,Fadeaway Jump Shot,13,-11,136,True
+Zach LaVine,3,11,6,1,Fadeaway Jump Shot,19,-192,4,True
+Zach LaVine,4,0,17,0,Fadeaway Jump Shot,12,127,-5,True
+Zach LaVine,2,3,5,0,Fadeaway Jump Shot,20,-77,195,True
+Zach LaVine,4,3,4,0,Floating Jump shot,5,-5,51,True
+Zach LaVine,4,5,41,0,Floating Jump shot,4,-2,46,True
+Zach LaVine,2,3,41,0,Jump Bank Shot,1,15,12,True
+Zach LaVine,4,9,34,0,Jump Shot,2,-29,6,True
+Zach LaVine,4,10,38,1,Jump Shot,26,-82,254,False
+Zach LaVine,2,9,41,0,Jump Shot,26,14,268,False
+Zach LaVine,4,0,17,0,Jump Shot,18,-89,164,True
+Zach LaVine,4,4,12,0,Jump Shot,19,-106,165,True
+Zach LaVine,2,0,33,0,Jump Shot,20,-111,171,True
+Zach LaVine,3,7,39,0,Jump Shot,26,-123,239,False
+Zach LaVine,2,8,29,0,Jump Shot,26,133,224,False
+Zach LaVine,3,9,40,0,Jump Shot,21,-130,176,True
+Zach LaVine,2,0,46,1,Jump Shot,26,-140,224,False
+Zach LaVine,4,4,16,0,Jump Shot,24,238,54,False
+Zach LaVine,2,3,50,0,Jump Shot,26,169,206,False
+Zach LaVine,4,0,53,1,Jump Shot,20,-104,173,True
+Zach LaVine,1,6,52,0,Jump Shot,24,-74,231,False
+Zach LaVine,3,11,22,1,Jump Shot,21,116,180,True
+Zach LaVine,4,10,51,0,Jump Shot,23,-231,-6,False
+Zach LaVine,4,6,2,0,Jump Shot,4,25,37,True
+Zach LaVine,1,11,16,0,Jump Shot,19,145,137,True
+Zach LaVine,1,8,19,0,Jump Shot,21,109,187,True
+Zach LaVine,3,9,18,1,Jump Shot,26,-65,254,False
+Zach LaVine,1,9,3,0,Jump Shot,24,141,204,False
+Zach LaVine,4,1,28,0,Jump Shot,21,-104,191,True
+Zach LaVine,2,4,9,0,Jump Shot,25,-89,235,False
+Zach LaVine,2,4,51,1,Jump Shot,12,-122,22,True
+Zach LaVine,1,8,58,0,Jump Shot,23,-229,23,False
+Zach LaVine,1,5,52,0,Jump Shot,25,-77,241,False
+Zach LaVine,4,0,41,1,Jump Shot,24,44,243,False
+Zach LaVine,1,8,53,0,Jump Shot,24,-97,227,False
+Zach LaVine,3,8,36,0,Jump Shot,4,36,18,True
+Zach LaVine,4,0,32,0,Jump Shot,26,133,226,False
+Zach LaVine,3,0,10,1,Jump Shot,25,90,237,False
+Zach LaVine,2,0,37,0,Jump Shot,25,-11,257,False
+Zach LaVine,4,11,30,1,Jump Shot,25,-128,224,False
+Zach LaVine,2,6,48,1,Jump Shot,22,227,29,False
+Zach LaVine,4,2,28,0,Jump Shot,22,174,145,True
+Zach LaVine,1,5,39,1,Jump Shot,24,190,158,False
+Zach LaVine,4,0,52,1,Jump Shot,26,123,239,False
+Zach LaVine,2,11,18,0,Jump Shot,8,-89,6,True
+Zach LaVine,3,8,19,0,Jump Shot,24,79,227,False
+Zach LaVine,2,2,5,0,Jump Shot,25,40,253,False
+Zach LaVine,3,10,36,0,Jump Shot,26,79,249,False
+Zach LaVine,4,2,0,0,Jump Shot,26,137,227,False
+Zach LaVine,1,5,22,0,Jump Shot,24,-87,232,False
+Zach LaVine,3,6,39,0,Jump Shot,25,9,258,False
+Zach LaVine,4,11,29,0,Jump Shot,21,-74,201,True
+Zach LaVine,3,6,3,0,Jump Shot,24,140,204,False
+Zach LaVine,2,10,59,1,Jump Shot,4,-38,27,True
+Zach LaVine,3,6,23,0,Jump Shot,23,234,0,False
+Zach LaVine,3,10,31,0,Jump Shot,20,37,199,True
+Zach LaVine,1,10,30,0,Jump Shot,21,-218,-5,False
+Zach LaVine,3,10,7,0,Jump Shot,26,-132,225,False
+Zach LaVine,2,8,29,0,Jump Shot,24,99,227,False
+Zach LaVine,1,10,25,0,Jump Shot,22,-44,216,True
+Zach LaVine,3,4,18,0,Jump Shot,23,-232,10,False
+Zach LaVine,1,7,24,0,Jump Shot,25,44,250,False
+Zach LaVine,3,8,53,0,Jump Shot,10,-87,52,True
+Zach LaVine,2,9,34,0,Jump Shot,20,114,167,True
+Zach LaVine,3,11,4,1,Jump Shot,25,-58,244,False
+Zach LaVine,3,7,35,0,Jump Shot,22,-229,-10,False
+Zach LaVine,3,10,28,0,Jump Shot,25,-130,222,False
+Zach LaVine,3,11,45,1,Jump Shot,20,-3,202,True
+Zach LaVine,3,9,42,0,Jump Shot,23,-232,5,False
+Zach LaVine,2,6,27,0,Jump Shot,25,213,147,False
+Zach LaVine,3,8,59,0,Jump Shot,24,93,224,False
+Zach LaVine,2,11,31,1,Jump Shot,9,3,94,True
+Zach LaVine,1,8,56,0,Jump Shot,26,-176,195,False
+Zach LaVine,1,6,28,0,Jump Shot,25,125,218,False
+Zach LaVine,4,9,2,1,Jump Shot,23,-231,22,False
+Zach LaVine,1,9,10,0,Jump Shot,24,16,241,False
+Zach LaVine,3,0,39,0,Jump Shot,18,19,181,True
+Zach LaVine,1,10,48,0,Jump Shot,17,7,174,True
+Zach LaVine,1,7,24,1,Jump Shot,12,32,116,True
+Zach LaVine,3,11,21,1,Jump Shot,25,-55,249,False
+Zach LaVine,4,4,26,1,Jump Shot,30,-98,294,False
+Zach LaVine,1,8,56,0,Jump Shot,21,27,214,True
+Zach LaVine,3,9,27,0,Jump Shot,25,78,248,False
+Zach LaVine,3,4,27,1,Jump Shot,25,36,257,False
+Zach LaVine,2,6,51,0,Jump Shot,18,92,157,True
+Zach LaVine,4,5,20,1,Jump Shot,24,231,90,False
+Zach LaVine,1,3,41,0,Jump Shot,25,-127,218,False
+Zach LaVine,1,10,15,0,Jump Shot,21,-28,211,True
+Zach LaVine,2,4,15,0,Jump Shot,28,-148,244,False
+Zach LaVine,2,6,35,1,Jump Shot,27,-111,247,False
+Zach LaVine,1,8,43,0,Jump Shot,26,-103,247,False
+Zach LaVine,4,5,53,0,Jump Shot,25,36,255,False
+Zach LaVine,1,10,35,0,Jump Shot,24,18,243,False
+Zach LaVine,4,0,16,0,Jump Shot,23,230,-8,False
+Zach LaVine,1,8,25,0,Jump Shot,25,-95,232,False
+Zach LaVine,2,7,38,0,Jump Shot,26,-122,232,False
+Zach LaVine,2,0,44,0,Jump Shot,26,-111,244,False
+Zach LaVine,2,7,0,1,Jump Shot,25,-97,234,False
+Zach LaVine,3,4,48,1,Jump Shot,25,147,210,False
+Zach LaVine,1,5,0,0,Jump Shot,25,-171,188,False
+Zach LaVine,2,0,0,0,Jump Shot,27,18,278,False
+Zach LaVine,4,1,2,1,Jump Shot,26,-18,264,False
+Zach LaVine,2,6,32,1,Jump Shot,26,169,209,False
+Zach LaVine,3,6,24,0,Layup Shot,1,0,11,True
+Zach LaVine,3,7,54,0,Layup Shot,1,-14,6,True
+Zach LaVine,3,2,47,1,Layup Shot,1,-8,15,True
+Zach LaVine,2,3,36,0,Layup Shot,2,13,25,True
+Zach LaVine,4,7,1,0,Layup Shot,3,-11,28,True
+Zach LaVine,4,4,39,0,Layup Shot,2,13,17,True
+Zach LaVine,1,9,50,0,Layup Shot,0,-6,3,True
+Zach LaVine,4,3,11,0,Layup Shot,3,33,10,True
+Zach LaVine,3,6,46,0,Layup Shot,2,-19,20,True
+Zach LaVine,4,0,12,1,Layup Shot,2,28,10,True
+Zach LaVine,3,3,9,0,Layup Shot,4,-27,32,True
+Zach LaVine,4,2,59,1,Layup Shot,2,-6,20,True
+Zach LaVine,4,3,10,0,Layup Shot,1,11,13,True
+Zach LaVine,1,11,1,1,Pullup Jump shot,16,79,141,True
+Zach LaVine,1,10,38,1,Pullup Jump shot,24,28,246,False
+Zach LaVine,3,11,22,1,Pullup Jump shot,25,4,258,False
+Zach LaVine,3,10,43,0,Pullup Jump shot,15,-86,124,True
+Zach LaVine,3,9,38,0,Pullup Jump shot,6,3,64,True
+Zach LaVine,2,5,1,0,Pullup Jump shot,25,100,236,False
+Zach LaVine,2,3,7,1,Pullup Jump shot,15,-95,120,True
+Zach LaVine,2,3,56,1,Pullup Jump shot,20,-128,161,True
+Zach LaVine,3,6,54,0,Pullup Jump shot,27,22,272,False
+Zach LaVine,2,1,27,0,Pullup Jump shot,25,153,205,False
+Zach LaVine,4,1,31,0,Pullup Jump shot,24,-147,202,False
+Zach LaVine,3,0,30,0,Pullup Jump shot,24,93,230,False
+Zach LaVine,1,10,0,0,Pullup Jump shot,17,175,0,True
+Zach LaVine,3,5,26,1,Pullup Jump shot,21,141,159,True
+Zach LaVine,3,4,49,0,Pullup Jump shot,18,-103,157,True
+Zach LaVine,4,2,56,0,Pullup Jump shot,19,-55,191,True
+Zach LaVine,1,11,23,1,Pullup Jump shot,26,154,219,False
+Zach LaVine,3,8,12,1,Pullup Jump shot,25,-2,251,False
+Zach LaVine,3,10,5,1,Pullup Jump shot,25,22,251,False
+Zach LaVine,3,9,59,0,Pullup Jump shot,13,-5,132,True
+Zach LaVine,3,9,8,1,Pullup Jump shot,20,-62,194,True
+Zach LaVine,4,1,46,0,Pullup Jump shot,21,43,214,True
+Zach LaVine,2,2,1,0,Pullup Jump shot,25,21,252,False
+Zach LaVine,4,0,7,0,Pullup Jump shot,26,-129,226,False
+Zach LaVine,4,6,18,1,Pullup Jump shot,26,-3,266,False
+Zach LaVine,1,11,23,0,Pullup Jump shot,20,-180,92,True
+Zach LaVine,3,6,18,1,Pullup Jump shot,25,-77,241,False
+Zach LaVine,2,0,33,1,Pullup Jump shot,24,-204,132,False
+Zach LaVine,2,6,20,1,Pullup Jump shot,13,-92,103,True
+Zach LaVine,2,7,20,0,Pullup Jump shot,18,131,132,True
+Zach LaVine,1,7,18,0,Pullup Jump shot,20,-56,194,True
+Zach LaVine,1,10,10,0,Pullup Jump shot,25,58,248,False
+Zach LaVine,2,1,37,1,Pullup Jump shot,17,0,177,True
+Zach LaVine,3,10,37,1,Pullup Jump shot,25,6,251,False
+Zach LaVine,1,6,2,0,Putback Layup Shot,0,0,-6,True
+Zach LaVine,4,9,22,1,Reverse Layup Shot,1,-17,8,True
+Zach LaVine,3,8,35,1,Running Alley Oop Dunk Shot,1,6,8,True
+Zach LaVine,2,0,33,1,Running Dunk Shot,1,-7,12,True
+Zach LaVine,1,8,51,1,Running Dunk Shot,0,2,3,True
+Zach LaVine,2,4,31,0,Running Dunk Shot,1,-5,11,True
+Zach LaVine,1,8,16,1,Running Dunk Shot,0,6,4,True
+Zach LaVine,4,0,12,1,Running Dunk Shot,0,-5,6,True
+Zach LaVine,3,8,47,0,Running Jump Shot,8,-24,80,True
+Zach LaVine,4,0,1,0,Running Jump Shot,27,-6,277,False
+Zach LaVine,1,10,7,1,Running Jump Shot,24,100,225,False
+Zach LaVine,1,6,33,0,Running Layup Shot,0,-2,4,True
+Zach LaVine,3,1,9,1,Running Layup Shot,1,-2,17,True
+Zach LaVine,4,1,37,0,Running Layup Shot,2,7,21,True
+Zach LaVine,3,0,0,0,Running Layup Shot,2,2,21,True
+Zach LaVine,1,3,3,0,Running Layup Shot,2,8,19,True
+Zach LaVine,3,6,54,1,Running Layup Shot,1,8,7,True
+Zach LaVine,1,6,26,0,Running Layup Shot,2,19,8,True
+Zach LaVine,2,3,20,1,Running Layup Shot,0,-2,4,True
+Zach LaVine,1,11,8,0,Running Layup Shot,0,-4,6,True
+Zach LaVine,3,5,30,0,Running Layup Shot,1,14,8,True
+Zach LaVine,2,0,1,1,Running Pull-Up Jump Shot,25,-131,220,False
+Zach LaVine,4,2,37,1,Running Pull-Up Jump Shot,26,196,171,False
+Zach LaVine,2,6,5,1,Running Reverse Layup Shot,1,-14,10,True
+Zach LaVine,4,7,45,0,Step Back Jump shot,11,-107,35,True
+Zach LaVine,3,7,13,1,Step Back Jump shot,16,86,142,True
+Zach LaVine,3,10,16,0,Step Back Jump shot,21,145,160,True
+Zach LaVine,4,9,55,1,Step Back Jump shot,25,82,238,False
+Zach LaVine,4,7,19,1,Step Back Jump shot,19,-79,182,True
+Zach LaVine,1,9,57,0,Step Back Jump shot,21,-141,160,True
+Zach LaVine,4,4,45,0,Step Back Jump shot,19,-26,193,True
+Zach LaVine,2,8,37,0,Step Back Jump shot,11,-114,-4,True
+Zach LaVine,1,11,47,0,Step Back Jump shot,17,51,165,True
+Zach LaVine,1,6,0,0,Step Back Jump shot,26,156,215,False
+Zach LaVine,2,6,24,0,Tip Layup Shot,2,19,15,True
+Zach LaVine,2,0,40,0,Turnaround Fadeaway shot,16,43,160,True
+Zach LaVine,2,7,2,1,Turnaround Fadeaway shot,15,-62,145,True
+Zach LaVine,1,10,8,0,Turnaround Fadeaway shot,10,104,-15,True
+Zach LaVine,3,5,26,0,Turnaround Hook Shot,8,6,85,True
+Zach LaVine,2,2,18,0,Turnaround Jump Shot,13,131,29,True
+Zach LaVine,1,8,38,0,Turnaround Jump Shot,14,144,34,True
+Zach LaVine,4,3,49,0,Turnaround Jump Shot,13,-130,-1,True

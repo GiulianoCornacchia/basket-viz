@@ -1,0 +1,643 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Lance Stephenson,2,4,21,1,Cutting Dunk Shot,0,-2,5,True
+Lance Stephenson,4,0,47,1,Cutting Dunk Shot,1,2,10,True
+Lance Stephenson,2,5,5,1,Cutting Layup Shot,0,0,-1,True
+Lance Stephenson,2,6,42,0,Cutting Layup Shot,2,27,13,True
+Lance Stephenson,2,9,16,1,Cutting Layup Shot,1,14,-3,True
+Lance Stephenson,4,8,23,0,Cutting Layup Shot,1,-3,10,True
+Lance Stephenson,3,3,38,1,Cutting Layup Shot,1,-3,11,True
+Lance Stephenson,1,3,37,0,Cutting Layup Shot,1,2,13,True
+Lance Stephenson,4,10,7,1,Cutting Layup Shot,1,0,14,True
+Lance Stephenson,1,3,21,0,Cutting Layup Shot,1,12,14,True
+Lance Stephenson,2,9,32,1,Cutting Layup Shot,0,-2,7,True
+Lance Stephenson,2,8,27,1,Driving Dunk Shot,1,-7,12,True
+Lance Stephenson,4,5,26,1,Driving Dunk Shot,0,5,-1,True
+Lance Stephenson,2,9,40,1,Driving Dunk Shot,1,-1,11,True
+Lance Stephenson,3,1,12,0,Driving Dunk Shot,1,-10,16,True
+Lance Stephenson,2,2,15,0,Driving Dunk Shot,0,-4,9,True
+Lance Stephenson,3,3,42,1,Driving Dunk Shot,0,0,5,True
+Lance Stephenson,4,0,18,1,Driving Dunk Shot,1,-9,6,True
+Lance Stephenson,1,4,18,1,Driving Dunk Shot,0,7,-2,True
+Lance Stephenson,2,9,35,1,Driving Finger Roll Layup Shot,0,-2,6,True
+Lance Stephenson,4,9,58,1,Driving Finger Roll Layup Shot,0,-5,-4,True
+Lance Stephenson,2,9,58,1,Driving Finger Roll Layup Shot,2,-7,22,True
+Lance Stephenson,4,11,36,1,Driving Finger Roll Layup Shot,0,0,5,True
+Lance Stephenson,4,10,11,1,Driving Finger Roll Layup Shot,2,0,27,True
+Lance Stephenson,1,3,11,1,Driving Finger Roll Layup Shot,0,-2,8,True
+Lance Stephenson,4,3,30,1,Driving Finger Roll Layup Shot,1,11,8,True
+Lance Stephenson,4,7,57,0,Driving Finger Roll Layup Shot,1,-19,4,True
+Lance Stephenson,3,7,21,0,Driving Finger Roll Layup Shot,2,-6,20,True
+Lance Stephenson,4,5,4,0,Driving Finger Roll Layup Shot,2,2,21,True
+Lance Stephenson,2,2,33,1,Driving Finger Roll Layup Shot,2,2,21,True
+Lance Stephenson,4,1,53,0,Driving Finger Roll Layup Shot,1,-1,10,True
+Lance Stephenson,3,0,37,1,Driving Finger Roll Layup Shot,1,7,9,True
+Lance Stephenson,4,8,41,1,Driving Finger Roll Layup Shot,1,0,16,True
+Lance Stephenson,2,7,57,1,Driving Finger Roll Layup Shot,0,3,8,True
+Lance Stephenson,4,8,6,1,Driving Finger Roll Layup Shot,1,6,14,True
+Lance Stephenson,4,11,37,1,Driving Finger Roll Layup Shot,0,-2,6,True
+Lance Stephenson,2,11,14,1,Driving Finger Roll Layup Shot,0,-2,5,True
+Lance Stephenson,4,9,53,1,Driving Finger Roll Layup Shot,1,0,11,True
+Lance Stephenson,4,8,10,1,Driving Finger Roll Layup Shot,1,1,13,True
+Lance Stephenson,2,5,45,1,Driving Finger Roll Layup Shot,0,-3,-5,True
+Lance Stephenson,2,2,0,1,Driving Finger Roll Layup Shot,0,4,7,True
+Lance Stephenson,2,2,36,1,Driving Finger Roll Layup Shot,1,2,18,True
+Lance Stephenson,2,8,44,0,Driving Finger Roll Layup Shot,1,-14,8,True
+Lance Stephenson,2,7,41,0,Driving Finger Roll Layup Shot,0,0,7,True
+Lance Stephenson,2,11,43,1,Driving Finger Roll Layup Shot,0,0,4,True
+Lance Stephenson,3,2,56,1,Driving Finger Roll Layup Shot,1,5,11,True
+Lance Stephenson,3,5,16,1,Driving Finger Roll Layup Shot,0,-2,6,True
+Lance Stephenson,4,0,53,1,Driving Finger Roll Layup Shot,1,1,14,True
+Lance Stephenson,2,2,40,0,Driving Finger Roll Layup Shot,1,2,11,True
+Lance Stephenson,3,8,14,1,Driving Finger Roll Layup Shot,1,6,10,True
+Lance Stephenson,1,7,17,0,Driving Finger Roll Layup Shot,4,-27,31,True
+Lance Stephenson,4,2,14,1,Driving Floating Bank Jump Shot,3,30,5,True
+Lance Stephenson,2,8,39,0,Driving Floating Bank Jump Shot,9,90,7,True
+Lance Stephenson,2,11,38,1,Driving Floating Jump Shot,7,-21,69,True
+Lance Stephenson,3,0,6,0,Driving Floating Jump Shot,6,49,43,True
+Lance Stephenson,4,3,4,1,Driving Floating Jump Shot,11,-3,110,True
+Lance Stephenson,4,6,37,0,Driving Floating Jump Shot,8,-56,65,True
+Lance Stephenson,2,5,14,0,Driving Floating Jump Shot,12,35,124,True
+Lance Stephenson,3,0,3,0,Driving Floating Jump Shot,6,30,60,True
+Lance Stephenson,2,3,46,0,Driving Floating Jump Shot,9,45,84,True
+Lance Stephenson,4,1,11,1,Driving Layup Shot,0,-2,9,True
+Lance Stephenson,4,10,20,0,Driving Layup Shot,2,12,20,True
+Lance Stephenson,4,7,14,1,Driving Layup Shot,1,-9,17,True
+Lance Stephenson,4,5,24,1,Driving Layup Shot,1,2,10,True
+Lance Stephenson,2,10,3,1,Driving Layup Shot,1,18,4,True
+Lance Stephenson,2,10,56,1,Driving Layup Shot,1,0,13,True
+Lance Stephenson,2,1,22,0,Driving Layup Shot,0,3,5,True
+Lance Stephenson,4,9,19,1,Driving Layup Shot,0,9,3,True
+Lance Stephenson,3,11,2,1,Driving Layup Shot,1,13,10,True
+Lance Stephenson,2,9,8,0,Driving Layup Shot,6,64,25,True
+Lance Stephenson,2,3,57,0,Driving Layup Shot,1,2,15,True
+Lance Stephenson,4,6,44,1,Driving Layup Shot,1,-5,11,True
+Lance Stephenson,2,4,23,0,Driving Layup Shot,1,-9,8,True
+Lance Stephenson,4,10,34,0,Driving Layup Shot,10,96,31,True
+Lance Stephenson,2,5,16,1,Driving Layup Shot,1,8,18,True
+Lance Stephenson,4,9,25,0,Driving Layup Shot,2,15,15,True
+Lance Stephenson,4,1,31,1,Driving Layup Shot,1,9,15,True
+Lance Stephenson,2,7,40,0,Driving Layup Shot,0,-2,5,True
+Lance Stephenson,4,9,1,1,Driving Layup Shot,1,-9,8,True
+Lance Stephenson,1,1,2,1,Driving Layup Shot,3,-6,36,True
+Lance Stephenson,4,8,24,1,Driving Layup Shot,4,-4,42,True
+Lance Stephenson,1,0,27,1,Driving Layup Shot,2,-14,16,True
+Lance Stephenson,4,8,55,0,Driving Layup Shot,3,32,11,True
+Lance Stephenson,4,10,32,1,Driving Layup Shot,1,5,16,True
+Lance Stephenson,4,8,48,0,Driving Layup Shot,1,-3,19,True
+Lance Stephenson,4,9,8,1,Driving Layup Shot,0,-6,7,True
+Lance Stephenson,1,1,27,1,Driving Layup Shot,0,2,1,True
+Lance Stephenson,3,8,48,0,Driving Layup Shot,1,-10,14,True
+Lance Stephenson,2,10,11,0,Driving Layup Shot,4,29,31,True
+Lance Stephenson,2,6,41,0,Driving Layup Shot,1,-5,11,True
+Lance Stephenson,4,6,38,0,Driving Layup Shot,5,48,15,True
+Lance Stephenson,1,5,56,0,Driving Layup Shot,3,35,6,True
+Lance Stephenson,4,10,45,1,Driving Layup Shot,4,-27,33,True
+Lance Stephenson,3,0,28,1,Driving Layup Shot,2,-14,17,True
+Lance Stephenson,4,7,21,0,Driving Layup Shot,3,27,15,True
+Lance Stephenson,2,6,27,1,Driving Layup Shot,1,2,15,True
+Lance Stephenson,3,8,3,1,Driving Layup Shot,0,-5,6,True
+Lance Stephenson,4,11,52,1,Driving Layup Shot,1,16,-1,True
+Lance Stephenson,2,6,35,1,Driving Layup Shot,1,16,11,True
+Lance Stephenson,2,1,52,0,Driving Layup Shot,2,20,14,True
+Lance Stephenson,4,8,14,0,Driving Layup Shot,4,14,43,True
+Lance Stephenson,3,2,4,0,Driving Layup Shot,2,21,17,True
+Lance Stephenson,2,6,16,0,Driving Layup Shot,4,47,17,True
+Lance Stephenson,2,9,31,1,Driving Layup Shot,1,-9,15,True
+Lance Stephenson,3,0,0,1,Driving Layup Shot,0,4,2,True
+Lance Stephenson,2,5,40,0,Driving Layup Shot,6,44,42,True
+Lance Stephenson,4,3,13,1,Driving Layup Shot,5,39,34,True
+Lance Stephenson,2,10,13,0,Driving Layup Shot,0,-8,3,True
+Lance Stephenson,2,11,35,0,Driving Layup Shot,4,23,34,True
+Lance Stephenson,4,9,38,1,Driving Layup Shot,3,3,31,True
+Lance Stephenson,1,2,18,1,Driving Layup Shot,2,-5,20,True
+Lance Stephenson,2,7,1,0,Driving Layup Shot,3,-12,31,True
+Lance Stephenson,3,5,34,0,Driving Layup Shot,2,17,11,True
+Lance Stephenson,4,5,47,0,Driving Layup Shot,2,8,21,True
+Lance Stephenson,3,5,24,0,Driving Layup Shot,3,8,33,True
+Lance Stephenson,2,9,16,0,Driving Layup Shot,2,12,21,True
+Lance Stephenson,2,11,48,0,Driving Layup Shot,0,4,7,True
+Lance Stephenson,1,0,0,0,Driving Layup Shot,1,-14,6,True
+Lance Stephenson,2,10,49,1,Driving Layup Shot,2,5,20,True
+Lance Stephenson,2,4,54,1,Driving Layup Shot,2,-9,22,True
+Lance Stephenson,2,10,34,1,Driving Layup Shot,1,12,4,True
+Lance Stephenson,3,0,25,0,Driving Layup Shot,2,0,22,True
+Lance Stephenson,2,7,38,0,Driving Layup Shot,2,27,5,True
+Lance Stephenson,2,11,46,0,Driving Layup Shot,2,22,11,True
+Lance Stephenson,2,9,4,1,Driving Layup Shot,1,-8,11,True
+Lance Stephenson,2,10,56,0,Driving Layup Shot,5,-43,27,True
+Lance Stephenson,3,2,2,1,Driving Layup Shot,1,13,5,True
+Lance Stephenson,2,8,44,1,Driving Layup Shot,1,-4,11,True
+Lance Stephenson,3,1,38,1,Driving Layup Shot,0,0,7,True
+Lance Stephenson,2,3,25,1,Driving Layup Shot,1,-7,18,True
+Lance Stephenson,4,8,49,1,Driving Layup Shot,1,9,10,True
+Lance Stephenson,2,2,2,1,Driving Layup Shot,0,-1,-1,True
+Lance Stephenson,4,4,41,1,Driving Layup Shot,1,6,13,True
+Lance Stephenson,4,8,9,0,Driving Layup Shot,0,-5,8,True
+Lance Stephenson,1,0,55,0,Driving Layup Shot,1,4,12,True
+Lance Stephenson,2,11,10,1,Driving Layup Shot,4,37,25,True
+Lance Stephenson,3,7,23,0,Driving Layup Shot,2,20,18,True
+Lance Stephenson,2,10,13,0,Driving Layup Shot,0,-3,8,True
+Lance Stephenson,2,5,40,0,Driving Layup Shot,1,-11,11,True
+Lance Stephenson,4,9,16,1,Driving Layup Shot,1,2,10,True
+Lance Stephenson,2,8,9,0,Driving Layup Shot,4,37,23,True
+Lance Stephenson,4,11,40,1,Driving Reverse Layup Shot,2,14,25,True
+Lance Stephenson,2,4,29,0,Driving Reverse Layup Shot,3,24,19,True
+Lance Stephenson,4,10,49,0,Driving Reverse Layup Shot,1,-2,13,True
+Lance Stephenson,4,10,0,1,Driving Reverse Layup Shot,1,8,8,True
+Lance Stephenson,4,6,38,1,Driving Reverse Layup Shot,1,5,14,True
+Lance Stephenson,2,0,23,0,Dunk Shot,2,-6,22,True
+Lance Stephenson,4,8,40,1,Dunk Shot,2,3,25,True
+Lance Stephenson,1,2,30,1,Fadeaway Jump Shot,16,-81,145,True
+Lance Stephenson,3,0,54,0,Fadeaway Jump Shot,18,3,183,True
+Lance Stephenson,2,8,59,0,Fadeaway Jump Shot,7,14,78,True
+Lance Stephenson,4,10,20,1,Fadeaway Jump Shot,10,73,70,True
+Lance Stephenson,2,9,2,1,Fadeaway Jump Shot,10,-13,101,True
+Lance Stephenson,2,8,55,1,Fadeaway Jump Shot,18,92,166,True
+Lance Stephenson,3,5,6,0,Fadeaway Jump Shot,25,220,133,False
+Lance Stephenson,3,0,35,1,Finger Roll Layup Shot,0,-2,9,True
+Lance Stephenson,4,8,21,1,Finger Roll Layup Shot,1,-5,13,True
+Lance Stephenson,4,7,45,0,Floating Jump shot,9,7,92,True
+Lance Stephenson,1,4,16,1,Floating Jump shot,13,63,116,True
+Lance Stephenson,2,11,22,0,Floating Jump shot,6,-43,44,True
+Lance Stephenson,2,6,27,0,Floating Jump shot,5,0,54,True
+Lance Stephenson,4,6,7,0,Floating Jump shot,6,-9,65,True
+Lance Stephenson,4,10,47,1,Floating Jump shot,15,3,156,True
+Lance Stephenson,4,11,16,1,Floating Jump shot,17,73,157,True
+Lance Stephenson,1,2,45,0,Floating Jump shot,2,8,20,True
+Lance Stephenson,4,9,25,1,Floating Jump shot,18,94,155,True
+Lance Stephenson,2,1,41,0,Hook Shot,5,19,50,True
+Lance Stephenson,3,0,55,0,Jump Bank Shot,30,-91,289,False
+Lance Stephenson,2,6,38,1,Jump Shot,17,-171,9,True
+Lance Stephenson,3,8,21,0,Jump Shot,26,125,229,False
+Lance Stephenson,1,9,25,1,Jump Shot,25,205,157,False
+Lance Stephenson,1,8,3,0,Jump Shot,27,-153,230,False
+Lance Stephenson,1,5,19,0,Jump Shot,26,160,209,False
+Lance Stephenson,2,0,0,0,Jump Shot,49,-7,494,False
+Lance Stephenson,4,9,59,0,Jump Shot,25,14,259,False
+Lance Stephenson,3,0,0,0,Jump Shot,58,75,577,False
+Lance Stephenson,4,8,31,0,Jump Shot,25,-190,173,False
+Lance Stephenson,4,3,34,0,Jump Shot,23,-232,32,False
+Lance Stephenson,2,11,39,0,Jump Shot,25,46,246,False
+Lance Stephenson,1,1,44,1,Jump Shot,26,-206,174,False
+Lance Stephenson,2,5,25,0,Jump Shot,24,-211,120,False
+Lance Stephenson,1,0,2,0,Jump Shot,23,-230,1,False
+Lance Stephenson,2,7,47,0,Jump Shot,24,-135,203,False
+Lance Stephenson,4,3,54,1,Jump Shot,5,-41,34,True
+Lance Stephenson,2,11,10,0,Jump Shot,25,-213,143,False
+Lance Stephenson,4,3,30,0,Jump Shot,22,-227,29,False
+Lance Stephenson,2,2,3,0,Jump Shot,23,-230,25,False
+Lance Stephenson,4,7,9,0,Jump Shot,24,43,241,False
+Lance Stephenson,2,10,37,0,Jump Shot,24,-229,80,False
+Lance Stephenson,2,10,32,1,Jump Shot,25,-172,184,False
+Lance Stephenson,4,11,32,1,Jump Shot,14,14,147,True
+Lance Stephenson,2,9,56,0,Jump Shot,25,103,233,False
+Lance Stephenson,2,11,12,0,Jump Shot,21,209,46,True
+Lance Stephenson,4,9,15,0,Jump Shot,24,35,241,False
+Lance Stephenson,2,7,5,1,Jump Shot,16,-54,159,True
+Lance Stephenson,2,6,38,0,Jump Shot,24,-106,226,False
+Lance Stephenson,3,1,21,0,Jump Shot,32,192,267,False
+Lance Stephenson,1,2,54,0,Jump Shot,23,230,22,False
+Lance Stephenson,2,4,8,0,Jump Shot,27,144,230,False
+Lance Stephenson,2,9,15,0,Jump Shot,26,27,268,False
+Lance Stephenson,4,8,49,0,Jump Shot,25,182,184,False
+Lance Stephenson,2,10,40,0,Jump Shot,22,228,11,False
+Lance Stephenson,3,0,30,0,Jump Shot,25,-138,218,False
+Lance Stephenson,1,1,38,0,Jump Shot,23,-232,-4,False
+Lance Stephenson,4,8,14,1,Jump Shot,23,-232,-16,False
+Lance Stephenson,4,9,15,0,Jump Shot,28,-116,257,False
+Lance Stephenson,4,5,24,0,Jump Shot,10,-38,93,True
+Lance Stephenson,2,11,44,1,Jump Shot,25,-236,94,False
+Lance Stephenson,4,6,51,0,Jump Shot,30,190,234,False
+Lance Stephenson,4,7,24,0,Jump Shot,18,88,161,True
+Lance Stephenson,4,10,27,0,Jump Shot,17,169,56,True
+Lance Stephenson,3,0,8,1,Jump Shot,30,-4,304,False
+Lance Stephenson,2,9,39,0,Jump Shot,25,-74,248,False
+Lance Stephenson,4,2,26,0,Jump Shot,18,-92,160,True
+Lance Stephenson,3,0,42,0,Jump Shot,26,-45,264,False
+Lance Stephenson,1,1,58,0,Jump Shot,28,149,240,False
+Lance Stephenson,3,2,26,1,Jump Shot,17,-72,164,True
+Lance Stephenson,4,10,44,1,Jump Shot,23,231,36,False
+Lance Stephenson,4,10,32,1,Jump Shot,25,-47,246,False
+Lance Stephenson,2,11,42,0,Jump Shot,24,-234,54,False
+Lance Stephenson,4,10,49,0,Jump Shot,18,-73,166,True
+Lance Stephenson,3,2,54,0,Jump Shot,25,-109,227,False
+Lance Stephenson,2,7,49,0,Jump Shot,24,-55,241,False
+Lance Stephenson,1,2,38,0,Jump Shot,24,-54,241,False
+Lance Stephenson,2,10,56,1,Jump Shot,14,-74,124,True
+Lance Stephenson,4,3,20,0,Jump Shot,29,-179,230,False
+Lance Stephenson,2,6,44,0,Jump Shot,27,-171,210,False
+Lance Stephenson,1,2,28,0,Jump Shot,29,224,185,False
+Lance Stephenson,4,3,1,1,Jump Shot,24,-241,52,False
+Lance Stephenson,4,7,29,1,Jump Shot,26,-209,156,False
+Lance Stephenson,2,3,44,1,Jump Shot,23,233,50,False
+Lance Stephenson,3,0,0,0,Jump Shot,75,16,751,False
+Lance Stephenson,1,1,23,1,Jump Shot,24,234,73,False
+Lance Stephenson,3,0,48,0,Jump Shot,23,230,57,False
+Lance Stephenson,2,0,11,0,Jump Shot,27,-202,190,False
+Lance Stephenson,2,11,9,0,Jump Shot,14,-4,145,True
+Lance Stephenson,2,5,49,0,Jump Shot,25,-187,178,False
+Lance Stephenson,4,9,21,0,Jump Shot,5,6,52,True
+Lance Stephenson,4,0,55,0,Jump Shot,24,-195,150,False
+Lance Stephenson,1,11,5,0,Jump Shot,25,141,218,False
+Lance Stephenson,1,7,6,0,Jump Shot,20,15,200,True
+Lance Stephenson,3,0,39,0,Jump Shot,28,168,235,False
+Lance Stephenson,3,2,37,0,Jump Shot,25,20,256,False
+Lance Stephenson,4,3,19,1,Jump Shot,26,-184,189,False
+Lance Stephenson,4,9,27,1,Jump Shot,26,8,261,False
+Lance Stephenson,2,8,15,1,Jump Shot,25,-127,224,False
+Lance Stephenson,3,0,0,0,Jump Shot,28,102,268,False
+Lance Stephenson,2,10,53,1,Jump Shot,24,-78,232,False
+Lance Stephenson,2,11,53,0,Jump Shot,17,2,172,True
+Lance Stephenson,4,0,49,0,Jump Shot,25,-176,185,False
+Lance Stephenson,4,0,6,0,Jump Shot,32,96,307,False
+Lance Stephenson,4,8,8,1,Jump Shot,18,-84,170,True
+Lance Stephenson,3,0,31,1,Jump Shot,25,73,249,False
+Lance Stephenson,2,7,8,0,Jump Shot,20,187,83,True
+Lance Stephenson,3,0,18,1,Jump Shot,26,-111,239,False
+Lance Stephenson,2,11,54,1,Jump Shot,27,-106,257,False
+Lance Stephenson,4,1,7,0,Jump Shot,29,159,247,False
+Lance Stephenson,4,4,48,0,Jump Shot,12,52,117,True
+Lance Stephenson,4,7,10,0,Jump Shot,25,-118,230,False
+Lance Stephenson,4,4,49,1,Jump Shot,23,231,24,False
+Lance Stephenson,3,0,0,0,Jump Shot,70,14,704,False
+Lance Stephenson,1,1,55,0,Jump Shot,26,142,224,False
+Lance Stephenson,2,10,43,0,Jump Shot,28,119,260,False
+Lance Stephenson,1,2,29,1,Jump Shot,22,-228,-7,False
+Lance Stephenson,1,0,10,1,Jump Shot,25,-207,142,False
+Lance Stephenson,3,2,17,0,Jump Shot,23,233,21,False
+Lance Stephenson,4,10,17,0,Jump Shot,21,216,25,True
+Lance Stephenson,2,10,5,1,Jump Shot,23,-230,41,False
+Lance Stephenson,3,1,31,1,Jump Shot,23,230,68,False
+Lance Stephenson,4,10,24,0,Jump Shot,18,78,164,True
+Lance Stephenson,4,8,43,0,Jump Shot,25,119,231,False
+Lance Stephenson,4,9,10,0,Jump Shot,16,77,147,True
+Lance Stephenson,3,0,17,0,Jump Shot,25,220,120,False
+Lance Stephenson,1,0,0,0,Jump Shot,34,9,340,False
+Lance Stephenson,4,8,43,0,Jump Shot,25,102,231,False
+Lance Stephenson,2,9,39,0,Jump Shot,26,-111,239,False
+Lance Stephenson,4,9,15,0,Jump Shot,25,-66,249,False
+Lance Stephenson,2,5,47,1,Jump Shot,26,182,190,False
+Lance Stephenson,4,6,58,0,Jump Shot,28,-120,254,False
+Lance Stephenson,3,1,48,1,Jump Shot,26,-107,237,False
+Lance Stephenson,1,0,0,0,Jump Shot,64,-183,614,False
+Lance Stephenson,4,2,41,0,Jump Shot,23,235,27,False
+Lance Stephenson,2,4,49,0,Jump Shot,24,239,32,False
+Lance Stephenson,4,4,55,1,Jump Shot,26,16,266,False
+Lance Stephenson,2,10,22,0,Jump Shot,27,105,251,False
+Lance Stephenson,4,2,19,0,Jump Shot,28,150,239,False
+Lance Stephenson,3,0,57,1,Jump Shot,26,-107,245,False
+Lance Stephenson,1,2,24,0,Jump Shot,24,236,53,False
+Lance Stephenson,4,4,0,0,Jump Shot,16,-60,151,True
+Lance Stephenson,3,9,18,0,Jump Shot,27,92,258,False
+Lance Stephenson,2,5,46,0,Jump Shot,27,61,267,False
+Lance Stephenson,1,11,24,1,Jump Shot,27,-84,266,False
+Lance Stephenson,2,0,0,0,Jump Shot,23,-231,63,False
+Lance Stephenson,2,0,48,1,Jump Shot,25,90,242,False
+Lance Stephenson,3,10,18,0,Jump Shot,26,-156,210,False
+Lance Stephenson,3,0,9,1,Jump Shot,27,223,158,False
+Lance Stephenson,2,6,5,1,Jump Shot,18,-116,138,True
+Lance Stephenson,2,2,54,0,Jump Shot,26,160,210,False
+Lance Stephenson,1,1,23,1,Jump Shot,25,-104,232,False
+Lance Stephenson,1,3,18,1,Jump Shot,23,234,41,False
+Lance Stephenson,1,9,10,0,Jump Shot,25,-79,239,False
+Lance Stephenson,4,4,22,0,Jump Shot,25,5,253,False
+Lance Stephenson,2,2,34,0,Jump Shot,22,65,214,True
+Lance Stephenson,4,0,21,0,Jump Shot,23,-205,121,False
+Lance Stephenson,3,9,54,0,Jump Shot,20,204,-7,True
+Lance Stephenson,3,9,13,0,Jump Shot,21,84,197,True
+Lance Stephenson,4,0,1,0,Jump Shot,73,20,739,False
+Lance Stephenson,4,5,0,1,Jump Shot,6,-21,59,True
+Lance Stephenson,1,9,54,1,Jump Shot,26,90,254,False
+Lance Stephenson,1,4,53,1,Jump Shot,29,-161,243,False
+Lance Stephenson,3,6,32,0,Jump Shot,35,5,353,False
+Lance Stephenson,3,10,16,0,Jump Shot,19,-95,169,True
+Lance Stephenson,3,0,54,0,Jump Shot,25,-165,196,False
+Lance Stephenson,4,11,50,0,Jump Shot,25,168,188,False
+Lance Stephenson,4,2,58,0,Jump Shot,24,-232,70,False
+Lance Stephenson,2,11,6,0,Jump Shot,25,-7,256,False
+Lance Stephenson,3,1,53,0,Jump Shot,23,-230,40,False
+Lance Stephenson,1,2,44,1,Jump Shot,25,-116,231,False
+Lance Stephenson,1,0,0,0,Jump Shot,58,-160,562,False
+Lance Stephenson,1,1,42,1,Jump Shot,21,46,214,True
+Lance Stephenson,2,7,52,0,Jump Shot,23,231,-13,False
+Lance Stephenson,4,10,26,0,Jump Shot,20,0,201,True
+Lance Stephenson,4,4,48,0,Jump Shot,19,-44,187,True
+Lance Stephenson,3,0,5,0,Jump Shot,27,-24,272,False
+Lance Stephenson,2,9,38,1,Jump Shot,30,-27,304,False
+Lance Stephenson,2,8,1,0,Jump Shot,27,4,279,False
+Lance Stephenson,4,9,54,0,Jump Shot,26,-91,251,False
+Lance Stephenson,1,0,42,0,Jump Shot,23,-232,55,False
+Lance Stephenson,1,0,19,1,Jump Shot,18,183,22,True
+Lance Stephenson,2,0,0,0,Jump Shot,27,-23,279,False
+Lance Stephenson,4,9,59,0,Jump Shot,26,8,264,False
+Lance Stephenson,2,3,35,1,Jump Shot,23,231,7,False
+Lance Stephenson,2,9,15,0,Jump Shot,22,-95,209,True
+Lance Stephenson,4,6,53,0,Jump Shot,23,230,32,False
+Lance Stephenson,2,8,15,1,Jump Shot,24,-182,166,False
+Lance Stephenson,2,10,10,0,Jump Shot,29,-111,274,False
+Lance Stephenson,1,2,9,1,Jump Shot,25,-145,210,False
+Lance Stephenson,2,5,35,0,Jump Shot,19,-180,84,True
+Lance Stephenson,2,10,11,0,Jump Shot,27,-123,244,False
+Lance Stephenson,4,6,9,1,Jump Shot,27,186,199,False
+Lance Stephenson,3,5,23,0,Jump Shot,25,157,201,False
+Lance Stephenson,1,5,58,0,Jump Shot,26,-123,237,False
+Lance Stephenson,1,9,13,1,Jump Shot,26,67,256,False
+Lance Stephenson,2,10,11,1,Jump Shot,27,-22,274,False
+Lance Stephenson,4,1,29,1,Jump Shot,23,-233,32,False
+Lance Stephenson,1,2,55,0,Jump Shot,27,-143,231,False
+Lance Stephenson,2,7,46,1,Jump Shot,21,-61,204,True
+Lance Stephenson,4,5,43,1,Jump Shot,26,-96,251,False
+Lance Stephenson,4,2,3,1,Jump Shot,28,149,242,False
+Lance Stephenson,3,1,2,0,Jump Shot,27,-46,269,False
+Lance Stephenson,2,8,31,0,Jump Shot,26,-92,244,False
+Lance Stephenson,1,2,3,0,Jump Shot,21,-38,211,True
+Lance Stephenson,1,1,1,1,Jump Shot,19,-57,189,True
+Lance Stephenson,1,1,32,1,Jump Shot,21,158,147,True
+Lance Stephenson,4,11,29,0,Jump Shot,16,-63,155,True
+Lance Stephenson,3,1,23,0,Jump Shot,26,-130,229,False
+Lance Stephenson,2,7,13,1,Jump Shot,30,-103,290,False
+Lance Stephenson,3,0,0,0,Jump Shot,18,188,-2,True
+Lance Stephenson,1,0,21,1,Jump Shot,23,-234,-4,False
+Lance Stephenson,4,9,34,0,Jump Shot,24,232,92,False
+Lance Stephenson,3,1,22,0,Jump Shot,23,226,75,False
+Lance Stephenson,4,10,59,1,Jump Shot,20,-55,193,True
+Lance Stephenson,1,0,32,0,Jump Shot,26,-4,263,False
+Lance Stephenson,2,10,13,0,Jump Shot,23,230,34,False
+Lance Stephenson,4,11,1,0,Jump Shot,18,140,127,True
+Lance Stephenson,4,8,30,0,Jump Shot,26,-143,221,False
+Lance Stephenson,4,9,40,0,Jump Shot,22,-227,-17,False
+Lance Stephenson,1,1,1,0,Jump Shot,20,-30,200,True
+Lance Stephenson,2,7,30,1,Jump Shot,23,226,68,False
+Lance Stephenson,4,10,46,0,Jump Shot,27,117,246,False
+Lance Stephenson,1,0,11,0,Jump Shot,25,113,226,False
+Lance Stephenson,4,9,52,0,Jump Shot,4,38,30,True
+Lance Stephenson,1,1,25,0,Jump Shot,22,55,220,True
+Lance Stephenson,2,11,40,0,Jump Shot,10,-20,102,True
+Lance Stephenson,4,9,10,0,Jump Shot,25,138,220,False
+Lance Stephenson,1,1,5,0,Jump Shot,19,95,173,True
+Lance Stephenson,4,8,43,0,Jump Shot,18,-70,174,True
+Lance Stephenson,4,7,7,0,Jump Shot,23,-228,45,False
+Lance Stephenson,4,8,2,0,Jump Shot,15,-76,138,True
+Lance Stephenson,3,1,50,0,Jump Shot,26,96,252,False
+Lance Stephenson,1,5,10,0,Jump Shot,25,81,245,False
+Lance Stephenson,3,7,9,0,Jump Shot,25,143,217,False
+Lance Stephenson,3,0,0,0,Jump Shot,58,-153,562,False
+Lance Stephenson,1,2,34,0,Jump Shot,27,55,269,False
+Lance Stephenson,3,5,45,0,Jump Shot,23,-235,18,False
+Lance Stephenson,3,6,20,1,Jump Shot,27,2,275,False
+Lance Stephenson,1,1,40,0,Jump Shot,16,0,166,True
+Lance Stephenson,1,1,6,0,Jump Shot,26,32,260,False
+Lance Stephenson,3,0,20,0,Jump Shot,27,-60,267,False
+Lance Stephenson,1,0,5,0,Jump Shot,23,226,72,False
+Lance Stephenson,3,0,1,0,Jump Shot,23,228,32,False
+Lance Stephenson,2,1,24,0,Layup Shot,2,2,24,True
+Lance Stephenson,2,9,27,1,Layup Shot,2,-4,21,True
+Lance Stephenson,4,10,14,0,Layup Shot,2,5,22,True
+Lance Stephenson,2,3,2,1,Layup Shot,0,-6,1,True
+Lance Stephenson,2,5,25,0,Layup Shot,0,-2,8,True
+Lance Stephenson,1,0,30,0,Layup Shot,8,-33,75,True
+Lance Stephenson,2,1,18,0,Layup Shot,0,-5,5,True
+Lance Stephenson,4,0,32,0,Layup Shot,0,-2,-1,True
+Lance Stephenson,3,0,20,0,Layup Shot,2,19,10,True
+Lance Stephenson,2,9,22,0,Layup Shot,1,1,19,True
+Lance Stephenson,2,5,22,1,Layup Shot,1,5,13,True
+Lance Stephenson,4,7,12,0,Layup Shot,0,-6,6,True
+Lance Stephenson,2,10,42,1,Layup Shot,0,-2,2,True
+Lance Stephenson,2,11,21,0,Layup Shot,1,7,15,True
+Lance Stephenson,2,2,6,1,Layup Shot,1,3,17,True
+Lance Stephenson,2,7,58,0,Layup Shot,1,-8,10,True
+Lance Stephenson,4,1,32,1,Layup Shot,1,11,8,True
+Lance Stephenson,4,11,3,0,Layup Shot,0,0,5,True
+Lance Stephenson,4,6,30,1,Layup Shot,1,-13,-1,True
+Lance Stephenson,2,4,36,1,Layup Shot,2,-5,26,True
+Lance Stephenson,4,1,17,1,Layup Shot,1,-8,11,True
+Lance Stephenson,4,4,49,1,Layup Shot,1,17,4,True
+Lance Stephenson,4,7,17,0,Layup Shot,5,7,56,True
+Lance Stephenson,1,1,25,0,Layup Shot,0,0,8,True
+Lance Stephenson,2,8,30,0,Layup Shot,3,-35,13,True
+Lance Stephenson,4,7,28,1,Layup Shot,0,-2,9,True
+Lance Stephenson,3,2,39,1,Layup Shot,0,5,8,True
+Lance Stephenson,4,4,5,1,Layup Shot,2,-2,23,True
+Lance Stephenson,2,6,53,1,Layup Shot,1,2,10,True
+Lance Stephenson,1,4,25,0,Layup Shot,1,1,19,True
+Lance Stephenson,2,10,41,0,Layup Shot,2,-23,19,True
+Lance Stephenson,1,1,38,0,Layup Shot,2,0,28,True
+Lance Stephenson,2,11,44,0,Layup Shot,2,-7,25,True
+Lance Stephenson,2,5,16,0,Layup Shot,7,22,69,True
+Lance Stephenson,2,11,17,0,Layup Shot,1,-9,16,True
+Lance Stephenson,4,3,22,0,Layup Shot,1,-6,15,True
+Lance Stephenson,4,5,1,0,Layup Shot,1,1,11,True
+Lance Stephenson,4,6,57,1,Layup Shot,0,3,3,True
+Lance Stephenson,1,2,27,1,Pullup Jump shot,22,-55,218,True
+Lance Stephenson,1,6,34,0,Pullup Jump shot,20,40,202,True
+Lance Stephenson,4,2,48,0,Pullup Jump shot,14,97,109,True
+Lance Stephenson,4,4,28,0,Pullup Jump shot,26,64,252,False
+Lance Stephenson,2,11,15,1,Pullup Jump shot,16,-107,127,True
+Lance Stephenson,4,2,28,0,Pullup Jump shot,27,65,272,False
+Lance Stephenson,3,6,38,1,Pullup Jump shot,18,-116,146,True
+Lance Stephenson,2,5,56,0,Pullup Jump shot,14,-44,141,True
+Lance Stephenson,2,8,50,0,Pullup Jump shot,15,138,80,True
+Lance Stephenson,3,1,21,1,Pullup Jump shot,18,-77,172,True
+Lance Stephenson,4,10,29,0,Pullup Jump shot,20,-56,193,True
+Lance Stephenson,3,1,10,1,Pullup Jump shot,27,108,248,False
+Lance Stephenson,1,1,31,0,Pullup Jump shot,19,13,195,True
+Lance Stephenson,2,9,3,0,Pullup Jump shot,20,18,208,True
+Lance Stephenson,1,1,39,0,Pullup Jump shot,19,22,189,True
+Lance Stephenson,2,6,23,1,Pullup Jump shot,17,43,168,True
+Lance Stephenson,4,8,46,1,Pullup Jump shot,15,18,153,True
+Lance Stephenson,2,10,35,1,Pullup Jump shot,15,101,118,True
+Lance Stephenson,2,9,46,0,Pullup Jump shot,19,53,184,True
+Lance Stephenson,4,11,44,0,Pullup Jump shot,18,113,146,True
+Lance Stephenson,4,7,56,1,Pullup Jump shot,12,43,118,True
+Lance Stephenson,1,4,6,1,Pullup Jump shot,18,-59,176,True
+Lance Stephenson,1,1,55,1,Pullup Jump shot,20,8,206,True
+Lance Stephenson,4,11,32,1,Pullup Jump shot,26,6,266,False
+Lance Stephenson,4,11,13,0,Pullup Jump shot,16,-16,165,True
+Lance Stephenson,2,5,6,0,Pullup Jump shot,19,-3,194,True
+Lance Stephenson,2,5,36,1,Pullup Jump shot,25,-95,232,False
+Lance Stephenson,1,2,2,0,Pullup Jump shot,10,95,44,True
+Lance Stephenson,2,9,16,0,Pullup Jump shot,19,2,197,True
+Lance Stephenson,4,11,26,1,Pullup Jump shot,25,-119,221,False
+Lance Stephenson,4,6,34,1,Pullup Jump shot,19,-14,198,True
+Lance Stephenson,4,11,41,1,Pullup Jump shot,18,117,140,True
+Lance Stephenson,4,11,49,0,Pullup Jump shot,18,101,158,True
+Lance Stephenson,1,3,0,0,Pullup Jump shot,20,78,185,True
+Lance Stephenson,4,11,41,1,Pullup Jump shot,18,32,179,True
+Lance Stephenson,2,7,46,1,Pullup Jump shot,26,-138,225,False
+Lance Stephenson,4,10,52,1,Pullup Jump shot,14,-144,-1,True
+Lance Stephenson,3,3,11,0,Pullup Jump shot,18,-81,168,True
+Lance Stephenson,2,7,36,0,Pullup Jump shot,19,-56,190,True
+Lance Stephenson,2,11,18,0,Pullup Jump shot,17,80,159,True
+Lance Stephenson,2,10,7,1,Pullup Jump shot,16,76,141,True
+Lance Stephenson,2,11,38,0,Pullup Jump shot,25,24,258,False
+Lance Stephenson,1,0,52,1,Pullup Jump shot,13,-131,11,True
+Lance Stephenson,4,1,7,0,Pullup Jump shot,26,-226,131,False
+Lance Stephenson,1,1,50,0,Pullup Jump shot,16,-134,94,True
+Lance Stephenson,2,9,42,0,Pullup Jump shot,15,65,141,True
+Lance Stephenson,4,2,22,0,Pullup Jump shot,28,176,218,False
+Lance Stephenson,2,7,5,1,Pullup Jump shot,19,1,195,True
+Lance Stephenson,2,9,32,0,Pullup Jump shot,20,50,194,True
+Lance Stephenson,2,11,8,1,Pullup Jump shot,19,-50,190,True
+Lance Stephenson,2,7,0,1,Pullup Jump shot,18,125,139,True
+Lance Stephenson,2,10,27,0,Pullup Jump shot,15,124,99,True
+Lance Stephenson,2,11,21,0,Pullup Jump shot,18,92,158,True
+Lance Stephenson,1,10,28,1,Pullup Jump shot,14,-70,125,True
+Lance Stephenson,3,1,1,1,Pullup Jump shot,18,-44,175,True
+Lance Stephenson,1,0,31,0,Pullup Jump shot,18,-139,128,True
+Lance Stephenson,1,1,9,1,Pullup Jump shot,18,-23,183,True
+Lance Stephenson,1,2,16,0,Pullup Jump shot,26,98,251,False
+Lance Stephenson,2,1,13,1,Pullup Jump shot,17,-41,169,True
+Lance Stephenson,1,1,47,1,Pullup Jump shot,6,48,44,True
+Lance Stephenson,2,7,59,0,Pullup Jump shot,14,8,148,True
+Lance Stephenson,4,4,8,1,Pullup Jump shot,27,-123,250,False
+Lance Stephenson,4,11,0,1,Pullup Jump shot,22,148,176,True
+Lance Stephenson,3,2,8,0,Pullup Jump shot,9,-41,89,True
+Lance Stephenson,2,9,50,0,Pullup Jump shot,17,7,172,True
+Lance Stephenson,3,2,48,1,Pullup Jump shot,13,-125,47,True
+Lance Stephenson,4,7,24,0,Pullup Jump shot,25,-52,254,False
+Lance Stephenson,2,11,7,0,Pullup Jump shot,17,-84,152,True
+Lance Stephenson,4,5,37,0,Pullup Jump shot,16,5,164,True
+Lance Stephenson,2,6,32,1,Pullup Jump shot,19,-2,198,True
+Lance Stephenson,2,2,16,1,Pullup Jump shot,29,-122,273,False
+Lance Stephenson,4,8,37,1,Pullup Jump shot,18,-122,139,True
+Lance Stephenson,1,2,21,0,Pullup Jump shot,25,133,220,False
+Lance Stephenson,2,10,8,0,Pullup Jump shot,17,-79,154,True
+Lance Stephenson,4,3,0,0,Pullup Jump shot,26,78,257,False
+Lance Stephenson,1,0,36,0,Pullup Jump shot,17,-105,140,True
+Lance Stephenson,2,10,33,0,Pullup Jump shot,15,69,136,True
+Lance Stephenson,2,0,4,0,Pullup Jump shot,26,-169,210,False
+Lance Stephenson,1,4,7,0,Pullup Jump shot,20,49,195,True
+Lance Stephenson,2,4,2,0,Pullup Jump shot,19,162,101,True
+Lance Stephenson,2,6,47,0,Pullup Jump shot,15,-108,117,True
+Lance Stephenson,2,7,49,0,Pullup Jump shot,17,-69,163,True
+Lance Stephenson,4,10,14,0,Pullup Jump shot,19,-117,158,True
+Lance Stephenson,4,5,21,1,Pullup Jump shot,20,109,175,True
+Lance Stephenson,2,7,50,0,Pullup Jump shot,24,-142,205,False
+Lance Stephenson,1,2,35,1,Pullup Jump shot,16,-120,116,True
+Lance Stephenson,2,11,48,0,Pullup Jump shot,13,-84,111,True
+Lance Stephenson,3,3,55,1,Pullup Jump shot,12,-29,124,True
+Lance Stephenson,1,0,42,1,Pullup Jump shot,16,-71,152,True
+Lance Stephenson,3,3,4,0,Pullup Jump shot,26,-136,231,False
+Lance Stephenson,3,0,25,0,Pullup Jump shot,18,92,155,True
+Lance Stephenson,4,11,27,1,Pullup Jump shot,16,114,126,True
+Lance Stephenson,4,7,51,0,Pullup Jump shot,17,-95,148,True
+Lance Stephenson,3,3,43,0,Pullup Jump shot,17,3,177,True
+Lance Stephenson,4,8,11,0,Pullup Jump shot,16,112,127,True
+Lance Stephenson,2,11,52,0,Pullup Jump shot,18,-17,184,True
+Lance Stephenson,2,9,33,1,Pullup Jump shot,18,54,173,True
+Lance Stephenson,2,0,57,1,Pullup Jump shot,19,0,194,True
+Lance Stephenson,3,0,35,0,Pullup Jump shot,26,78,255,False
+Lance Stephenson,2,7,33,0,Pullup Jump shot,20,120,166,True
+Lance Stephenson,2,10,34,0,Pullup Jump shot,10,85,54,True
+Lance Stephenson,2,7,29,0,Pullup Jump shot,20,84,184,True
+Lance Stephenson,2,8,9,1,Pullup Jump shot,13,16,130,True
+Lance Stephenson,4,11,27,1,Pullup Jump shot,24,-12,249,False
+Lance Stephenson,2,11,28,1,Pullup Jump shot,19,-37,193,True
+Lance Stephenson,2,9,35,1,Pullup Jump shot,18,-109,155,True
+Lance Stephenson,2,11,48,0,Pullup Jump shot,18,48,174,True
+Lance Stephenson,2,10,59,1,Pullup Jump shot,13,-37,127,True
+Lance Stephenson,1,0,51,0,Pullup Jump shot,15,-98,121,True
+Lance Stephenson,2,10,58,0,Pullup Jump shot,17,38,167,True
+Lance Stephenson,3,5,1,0,Pullup Jump shot,20,36,197,True
+Lance Stephenson,1,11,0,0,Pullup Jump shot,18,-127,128,True
+Lance Stephenson,3,0,6,0,Pullup Jump shot,26,86,246,False
+Lance Stephenson,2,6,32,0,Pullup Jump shot,17,33,174,True
+Lance Stephenson,1,2,32,0,Pullup Jump shot,19,136,134,True
+Lance Stephenson,2,7,36,0,Pullup Jump shot,20,19,202,True
+Lance Stephenson,4,0,5,0,Pullup Jump shot,24,-140,201,False
+Lance Stephenson,4,8,51,0,Pullup Jump shot,20,-52,194,True
+Lance Stephenson,2,8,36,1,Pullup Jump shot,20,0,204,True
+Lance Stephenson,4,9,4,0,Pullup Jump shot,17,50,164,True
+Lance Stephenson,2,3,28,0,Pullup Jump shot,17,-30,169,True
+Lance Stephenson,1,6,48,0,Pullup Jump shot,19,-32,190,True
+Lance Stephenson,2,11,15,0,Pullup Jump shot,25,-6,256,False
+Lance Stephenson,2,9,46,1,Pullup Jump shot,26,129,235,False
+Lance Stephenson,1,3,6,0,Pullup Jump shot,19,-47,193,True
+Lance Stephenson,4,4,46,1,Putback Layup Shot,1,6,11,True
+Lance Stephenson,4,1,24,1,Putback Layup Shot,2,-6,29,True
+Lance Stephenson,4,9,32,1,Putback Layup Shot,2,1,24,True
+Lance Stephenson,2,11,33,1,Putback Layup Shot,0,-4,8,True
+Lance Stephenson,4,4,20,0,Putback Layup Shot,1,9,13,True
+Lance Stephenson,2,8,28,1,Putback Layup Shot,1,-12,11,True
+Lance Stephenson,2,10,4,1,Putback Layup Shot,0,0,-6,True
+Lance Stephenson,4,7,5,1,Putback Layup Shot,1,7,10,True
+Lance Stephenson,2,8,20,0,Reverse Layup Shot,4,32,27,True
+Lance Stephenson,2,9,57,1,Running Dunk Shot,0,-1,6,True
+Lance Stephenson,4,2,45,1,Running Dunk Shot,1,8,16,True
+Lance Stephenson,2,6,7,1,Running Dunk Shot,0,6,6,True
+Lance Stephenson,2,5,22,1,Running Dunk Shot,2,14,24,True
+Lance Stephenson,1,0,58,1,Running Finger Roll Layup Shot,1,9,5,True
+Lance Stephenson,2,11,43,1,Running Finger Roll Layup Shot,1,4,10,True
+Lance Stephenson,4,7,14,1,Running Finger Roll Layup Shot,1,-9,-6,True
+Lance Stephenson,3,2,29,0,Running Jump Shot,8,23,83,True
+Lance Stephenson,4,7,56,1,Running Jump Shot,7,74,6,True
+Lance Stephenson,2,2,4,1,Running Jump Shot,22,-223,11,False
+Lance Stephenson,4,10,19,1,Running Layup Shot,1,11,13,True
+Lance Stephenson,2,4,55,1,Running Layup Shot,1,8,10,True
+Lance Stephenson,3,0,31,0,Running Layup Shot,2,3,20,True
+Lance Stephenson,4,11,38,1,Running Layup Shot,1,11,9,True
+Lance Stephenson,4,11,45,1,Running Layup Shot,1,8,9,True
+Lance Stephenson,4,9,28,0,Running Layup Shot,0,6,4,True
+Lance Stephenson,1,1,41,1,Running Layup Shot,0,1,1,True
+Lance Stephenson,4,7,1,0,Running Layup Shot,1,3,16,True
+Lance Stephenson,4,7,15,1,Running Layup Shot,1,11,8,True
+Lance Stephenson,2,5,7,0,Running Layup Shot,4,40,6,True
+Lance Stephenson,4,9,41,1,Running Layup Shot,1,3,17,True
+Lance Stephenson,1,2,18,1,Running Pull-Up Jump Shot,16,108,128,True
+Lance Stephenson,4,10,56,1,Running Reverse Layup Shot,2,18,13,True
+Lance Stephenson,2,8,38,1,Step Back Jump shot,17,-176,14,True
+Lance Stephenson,1,1,47,0,Step Back Jump shot,18,-8,181,True
+Lance Stephenson,2,10,50,0,Step Back Jump shot,26,108,246,False
+Lance Stephenson,4,8,18,1,Step Back Jump shot,20,49,198,True
+Lance Stephenson,3,1,21,0,Step Back Jump shot,20,-112,176,True
+Lance Stephenson,1,0,42,0,Step Back Jump shot,28,-46,278,False
+Lance Stephenson,2,10,47,0,Step Back Jump shot,19,179,84,True
+Lance Stephenson,3,0,35,0,Step Back Jump shot,15,133,85,True
+Lance Stephenson,4,11,7,1,Step Back Jump shot,13,57,122,True
+Lance Stephenson,1,2,58,1,Step Back Jump shot,17,58,166,True
+Lance Stephenson,4,3,16,0,Step Back Jump shot,27,-136,235,False
+Lance Stephenson,1,0,6,1,Step Back Jump shot,27,-143,235,False
+Lance Stephenson,4,10,48,1,Step Back Jump shot,19,67,183,True
+Lance Stephenson,3,2,2,1,Step Back Jump shot,19,-5,191,True
+Lance Stephenson,1,2,50,1,Step Back Jump shot,19,-3,199,True
+Lance Stephenson,2,9,47,1,Step Back Jump shot,17,67,163,True
+Lance Stephenson,2,9,38,1,Step Back Jump shot,26,-38,261,False
+Lance Stephenson,4,0,17,0,Step Back Jump shot,23,41,228,True
+Lance Stephenson,2,6,47,0,Step Back Jump shot,27,134,240,False
+Lance Stephenson,1,0,43,0,Step Back Jump shot,19,-112,164,True
+Lance Stephenson,4,4,39,1,Step Back Jump shot,26,157,214,False
+Lance Stephenson,2,10,51,0,Step Back Jump shot,26,78,251,False
+Lance Stephenson,4,5,9,1,Step Back Jump shot,13,-135,29,True
+Lance Stephenson,1,1,21,1,Step Back Jump shot,19,-54,191,True
+Lance Stephenson,4,9,0,0,Step Back Jump shot,18,60,170,True
+Lance Stephenson,2,7,42,1,Step Back Jump shot,15,55,146,True
+Lance Stephenson,3,4,7,1,Step Back Jump shot,9,-67,66,True
+Lance Stephenson,1,0,12,0,Step Back Jump shot,25,-97,235,False
+Lance Stephenson,4,6,26,1,Step Back Jump shot,26,36,261,False
+Lance Stephenson,2,2,18,0,Step Back Jump shot,25,-125,227,False
+Lance Stephenson,2,11,27,0,Step Back Jump shot,27,141,241,False
+Lance Stephenson,1,1,47,1,Step Back Jump shot,16,-6,162,True
+Lance Stephenson,1,0,0,1,Step Back Jump shot,22,131,188,True
+Lance Stephenson,4,8,3,1,Step Back Jump shot,26,168,203,False
+Lance Stephenson,2,10,45,1,Step Back Jump shot,22,-171,143,True
+Lance Stephenson,4,10,49,0,Step Back Jump shot,26,77,257,False
+Lance Stephenson,2,11,8,0,Tip Dunk Shot,7,74,-24,True
+Lance Stephenson,4,9,35,0,Tip Layup Shot,1,9,15,True
+Lance Stephenson,2,7,9,1,Tip Layup Shot,0,0,-6,True
+Lance Stephenson,2,0,49,0,Tip Layup Shot,0,0,-6,True
+Lance Stephenson,4,1,24,0,Tip Layup Shot,0,0,-6,True
+Lance Stephenson,4,4,46,1,Tip Layup Shot,0,0,-6,True
+Lance Stephenson,4,9,41,1,Tip Layup Shot,0,0,-6,True
+Lance Stephenson,2,4,25,0,Turnaround Fadeaway Bank Jump Shot,14,6,148,True
+Lance Stephenson,4,9,37,1,Turnaround Fadeaway Bank Jump Shot,7,-4,72,True
+Lance Stephenson,1,0,51,1,Turnaround Fadeaway Bank Jump Shot,10,105,31,True
+Lance Stephenson,4,6,9,1,Turnaround Fadeaway Bank Jump Shot,9,-96,11,True
+Lance Stephenson,2,8,1,1,Turnaround Fadeaway shot,15,105,116,True
+Lance Stephenson,3,0,39,1,Turnaround Fadeaway shot,4,30,38,True
+Lance Stephenson,4,4,19,0,Turnaround Jump Shot,12,-128,1,True
+Lance Stephenson,2,10,56,0,Turnaround Jump Shot,20,103,177,True
+Lance Stephenson,1,1,59,0,Turnaround Jump Shot,13,16,135,True
+Lance Stephenson,2,7,26,1,Turnaround Jump Shot,14,-8,142,True
+Lance Stephenson,1,1,51,0,Turnaround Jump Shot,12,-70,104,True
+Lance Stephenson,4,9,16,0,Turnaround Jump Shot,13,-8,138,True
+Lance Stephenson,4,2,48,0,Turnaround Jump Shot,9,44,80,True

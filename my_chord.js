@@ -188,7 +188,9 @@ group.append("path")
         .style("font-size", "14px")
 		.attr("fill", "black")
 		.attr("opacity",1)
-        .text("Team assists");	  	
+        .text("Team assists")
+		.on("mouseover",function(){document.body.style.cursor = "help"
+		})
 	  
 
 

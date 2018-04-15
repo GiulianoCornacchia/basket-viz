@@ -1,0 +1,766 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Evan Fournier,4,7,22,1,Cutting Finger Roll Layup Shot,2,-20,11,True
+Evan Fournier,3,6,36,1,Cutting Finger Roll Layup Shot,2,1,22,True
+Evan Fournier,1,9,6,0,Cutting Layup Shot,3,-3,34,True
+Evan Fournier,3,5,31,1,Cutting Layup Shot,4,27,31,True
+Evan Fournier,1,2,39,1,Cutting Layup Shot,1,13,8,True
+Evan Fournier,1,6,52,1,Cutting Layup Shot,1,-13,13,True
+Evan Fournier,1,6,28,1,Cutting Layup Shot,2,-16,19,True
+Evan Fournier,3,10,41,0,Cutting Layup Shot,0,2,7,True
+Evan Fournier,3,9,35,1,Cutting Layup Shot,2,18,10,True
+Evan Fournier,1,9,39,1,Cutting Layup Shot,2,8,20,True
+Evan Fournier,4,5,13,1,Cutting Layup Shot,2,2,25,True
+Evan Fournier,1,10,47,1,Cutting Layup Shot,0,-4,6,True
+Evan Fournier,1,8,31,1,Cutting Layup Shot,4,3,40,True
+Evan Fournier,1,6,4,1,Cutting Layup Shot,0,-7,6,True
+Evan Fournier,1,0,8,0,Cutting Layup Shot,5,-24,50,True
+Evan Fournier,3,9,57,1,Cutting Layup Shot,1,-8,13,True
+Evan Fournier,1,11,16,1,Cutting Layup Shot,0,1,4,True
+Evan Fournier,2,1,38,0,Cutting Layup Shot,2,16,25,True
+Evan Fournier,3,6,40,1,Cutting Layup Shot,4,28,41,True
+Evan Fournier,4,6,57,1,Cutting Layup Shot,2,-1,23,True
+Evan Fournier,1,10,51,1,Cutting Layup Shot,1,13,13,True
+Evan Fournier,1,10,25,1,Cutting Layup Shot,0,6,0,True
+Evan Fournier,2,2,25,1,Cutting Layup Shot,2,-11,21,True
+Evan Fournier,3,9,2,1,Cutting Layup Shot,0,5,-3,True
+Evan Fournier,4,5,45,1,Cutting Layup Shot,1,11,2,True
+Evan Fournier,1,11,14,1,Cutting Layup Shot,2,17,14,True
+Evan Fournier,1,10,33,1,Cutting Layup Shot,2,17,13,True
+Evan Fournier,1,4,12,1,Driving Dunk Shot,2,3,22,True
+Evan Fournier,2,3,59,1,Driving Dunk Shot,2,12,20,True
+Evan Fournier,1,8,41,1,Driving Dunk Shot,1,2,11,True
+Evan Fournier,4,0,7,1,Driving Dunk Shot,1,2,16,True
+Evan Fournier,1,5,10,1,Driving Finger Roll Layup Shot,1,3,16,True
+Evan Fournier,1,10,22,1,Driving Finger Roll Layup Shot,0,1,5,True
+Evan Fournier,3,8,41,1,Driving Finger Roll Layup Shot,4,5,42,True
+Evan Fournier,3,7,19,1,Driving Finger Roll Layup Shot,1,-13,1,True
+Evan Fournier,3,10,6,0,Driving Finger Roll Layup Shot,2,21,16,True
+Evan Fournier,2,2,8,1,Driving Finger Roll Layup Shot,4,-11,48,True
+Evan Fournier,4,9,16,0,Driving Finger Roll Layup Shot,3,5,34,True
+Evan Fournier,3,10,10,1,Driving Finger Roll Layup Shot,5,38,45,True
+Evan Fournier,4,11,45,1,Driving Finger Roll Layup Shot,5,-16,53,True
+Evan Fournier,1,5,54,0,Driving Finger Roll Layup Shot,5,41,36,True
+Evan Fournier,1,8,55,1,Driving Finger Roll Layup Shot,2,19,19,True
+Evan Fournier,4,3,49,1,Driving Finger Roll Layup Shot,6,-3,62,True
+Evan Fournier,1,11,14,1,Driving Finger Roll Layup Shot,8,-7,86,True
+Evan Fournier,3,6,27,0,Driving Finger Roll Layup Shot,3,-27,16,True
+Evan Fournier,3,11,3,1,Driving Finger Roll Layup Shot,3,1,36,True
+Evan Fournier,3,4,50,1,Driving Finger Roll Layup Shot,2,11,24,True
+Evan Fournier,3,8,17,1,Driving Finger Roll Layup Shot,3,-2,36,True
+Evan Fournier,4,1,29,1,Driving Finger Roll Layup Shot,6,-3,64,True
+Evan Fournier,1,2,43,1,Driving Floating Bank Jump Shot,5,-46,27,True
+Evan Fournier,2,2,47,1,Driving Floating Bank Jump Shot,8,-24,77,True
+Evan Fournier,4,2,20,1,Driving Floating Bank Jump Shot,13,-102,86,True
+Evan Fournier,3,11,18,1,Driving Floating Bank Jump Shot,4,-40,19,True
+Evan Fournier,3,7,50,0,Driving Floating Bank Jump Shot,16,-126,105,True
+Evan Fournier,2,1,4,0,Driving Floating Jump Shot,10,40,100,True
+Evan Fournier,2,4,18,1,Driving Floating Jump Shot,12,2,122,True
+Evan Fournier,2,2,29,0,Driving Floating Jump Shot,3,-24,29,True
+Evan Fournier,1,3,1,1,Driving Floating Jump Shot,6,2,68,True
+Evan Fournier,1,1,52,0,Driving Floating Jump Shot,4,41,20,True
+Evan Fournier,2,1,11,0,Driving Floating Jump Shot,11,-2,119,True
+Evan Fournier,2,2,0,1,Driving Floating Jump Shot,6,-2,69,True
+Evan Fournier,1,4,24,0,Driving Floating Jump Shot,10,-62,84,True
+Evan Fournier,1,1,17,1,Driving Floating Jump Shot,1,7,14,True
+Evan Fournier,1,3,17,1,Driving Floating Jump Shot,5,24,53,True
+Evan Fournier,4,8,43,0,Driving Floating Jump Shot,3,-1,39,True
+Evan Fournier,1,3,54,0,Driving Floating Jump Shot,6,-5,69,True
+Evan Fournier,1,7,35,0,Driving Floating Jump Shot,13,-60,124,True
+Evan Fournier,3,2,6,0,Driving Floating Jump Shot,5,-8,55,True
+Evan Fournier,1,4,10,1,Driving Hook Shot,10,-15,108,True
+Evan Fournier,2,6,2,0,Driving Hook Shot,3,-6,30,True
+Evan Fournier,1,10,10,1,Driving Hook Shot,7,1,73,True
+Evan Fournier,1,5,31,0,Driving Layup Shot,2,25,6,True
+Evan Fournier,4,0,22,1,Driving Layup Shot,0,3,-4,True
+Evan Fournier,2,1,4,0,Driving Layup Shot,3,-27,16,True
+Evan Fournier,1,0,31,0,Driving Layup Shot,2,25,11,True
+Evan Fournier,2,2,11,1,Driving Layup Shot,1,18,4,True
+Evan Fournier,1,7,0,0,Driving Layup Shot,2,-3,24,True
+Evan Fournier,2,1,6,0,Driving Layup Shot,1,11,6,True
+Evan Fournier,3,7,47,0,Driving Layup Shot,3,-2,36,True
+Evan Fournier,1,2,4,1,Driving Layup Shot,3,-14,27,True
+Evan Fournier,3,4,22,1,Driving Layup Shot,1,14,12,True
+Evan Fournier,4,2,4,0,Driving Layup Shot,3,-10,38,True
+Evan Fournier,4,3,35,0,Driving Layup Shot,1,-17,6,True
+Evan Fournier,1,3,25,0,Driving Layup Shot,5,53,13,True
+Evan Fournier,1,6,47,1,Driving Layup Shot,1,14,-1,True
+Evan Fournier,1,7,17,1,Driving Layup Shot,0,-6,6,True
+Evan Fournier,1,4,20,1,Driving Layup Shot,1,0,15,True
+Evan Fournier,3,11,19,0,Driving Layup Shot,1,16,11,True
+Evan Fournier,4,5,56,1,Driving Layup Shot,4,-13,38,True
+Evan Fournier,4,6,53,0,Driving Layup Shot,2,-19,15,True
+Evan Fournier,4,3,47,0,Driving Layup Shot,1,-7,10,True
+Evan Fournier,1,8,32,0,Driving Layup Shot,1,7,10,True
+Evan Fournier,4,3,19,1,Driving Layup Shot,2,-11,20,True
+Evan Fournier,4,9,29,0,Driving Layup Shot,1,3,18,True
+Evan Fournier,1,8,0,1,Driving Layup Shot,2,12,21,True
+Evan Fournier,3,8,58,1,Driving Layup Shot,4,-29,33,True
+Evan Fournier,1,3,12,1,Driving Layup Shot,1,-16,6,True
+Evan Fournier,1,3,42,0,Driving Layup Shot,3,17,25,True
+Evan Fournier,3,11,1,1,Driving Layup Shot,6,7,62,True
+Evan Fournier,2,2,41,1,Driving Layup Shot,2,-7,27,True
+Evan Fournier,4,5,18,0,Driving Layup Shot,3,0,36,True
+Evan Fournier,2,4,21,0,Driving Layup Shot,6,46,50,True
+Evan Fournier,4,2,51,1,Driving Layup Shot,3,25,20,True
+Evan Fournier,2,0,49,1,Driving Layup Shot,3,-6,36,True
+Evan Fournier,2,4,37,1,Driving Layup Shot,5,52,29,True
+Evan Fournier,1,7,18,1,Driving Layup Shot,5,-45,36,True
+Evan Fournier,3,3,2,1,Driving Layup Shot,0,2,7,True
+Evan Fournier,1,10,22,0,Driving Layup Shot,3,13,32,True
+Evan Fournier,3,4,40,1,Driving Layup Shot,4,38,26,True
+Evan Fournier,3,8,40,0,Driving Layup Shot,4,-15,45,True
+Evan Fournier,3,8,49,1,Driving Layup Shot,2,6,27,True
+Evan Fournier,3,10,50,0,Driving Layup Shot,1,-11,11,True
+Evan Fournier,4,2,15,0,Driving Layup Shot,2,3,20,True
+Evan Fournier,1,2,14,0,Driving Layup Shot,2,22,8,True
+Evan Fournier,4,4,52,1,Driving Layup Shot,1,9,10,True
+Evan Fournier,3,10,34,1,Driving Layup Shot,1,-1,17,True
+Evan Fournier,4,11,1,1,Driving Layup Shot,2,-6,29,True
+Evan Fournier,4,6,39,1,Driving Layup Shot,1,0,10,True
+Evan Fournier,3,2,1,1,Driving Layup Shot,1,9,10,True
+Evan Fournier,1,3,34,1,Driving Layup Shot,3,27,26,True
+Evan Fournier,1,0,53,0,Driving Layup Shot,4,-17,42,True
+Evan Fournier,2,0,57,0,Driving Layup Shot,6,-58,16,True
+Evan Fournier,1,11,18,1,Driving Layup Shot,2,3,29,True
+Evan Fournier,1,3,56,1,Driving Layup Shot,8,-80,3,True
+Evan Fournier,1,3,16,1,Driving Layup Shot,2,-8,25,True
+Evan Fournier,2,2,31,1,Driving Layup Shot,2,8,20,True
+Evan Fournier,1,8,53,1,Driving Layup Shot,1,5,17,True
+Evan Fournier,1,8,13,1,Driving Layup Shot,1,-2,10,True
+Evan Fournier,4,0,14,0,Driving Layup Shot,1,13,10,True
+Evan Fournier,1,3,6,1,Driving Layup Shot,1,-13,9,True
+Evan Fournier,3,11,10,0,Driving Layup Shot,4,-34,33,True
+Evan Fournier,1,11,40,0,Driving Layup Shot,1,-11,10,True
+Evan Fournier,4,3,2,0,Driving Layup Shot,2,21,20,True
+Evan Fournier,3,2,39,1,Driving Layup Shot,2,19,20,True
+Evan Fournier,2,1,5,1,Driving Layup Shot,1,6,19,True
+Evan Fournier,4,5,13,1,Driving Layup Shot,2,-16,15,True
+Evan Fournier,1,8,49,0,Driving Layup Shot,3,3,38,True
+Evan Fournier,4,5,40,0,Driving Layup Shot,2,10,23,True
+Evan Fournier,1,11,9,0,Driving Layup Shot,4,14,40,True
+Evan Fournier,2,4,7,0,Driving Layup Shot,8,56,64,True
+Evan Fournier,1,8,33,0,Driving Layup Shot,1,7,11,True
+Evan Fournier,1,9,39,1,Driving Layup Shot,1,-5,15,True
+Evan Fournier,3,5,51,1,Driving Layup Shot,2,3,22,True
+Evan Fournier,3,11,2,1,Driving Layup Shot,3,0,34,True
+Evan Fournier,1,10,33,1,Driving Layup Shot,1,-2,15,True
+Evan Fournier,1,10,56,0,Driving Layup Shot,2,-23,8,True
+Evan Fournier,2,3,36,0,Driving Layup Shot,2,12,22,True
+Evan Fournier,5,3,7,1,Driving Layup Shot,2,24,7,True
+Evan Fournier,4,1,28,1,Driving Layup Shot,2,20,12,True
+Evan Fournier,1,8,44,1,Driving Layup Shot,1,-4,16,True
+Evan Fournier,4,1,59,1,Driving Layup Shot,2,18,23,True
+Evan Fournier,3,1,47,1,Driving Layup Shot,2,-21,5,True
+Evan Fournier,1,1,50,0,Driving Layup Shot,4,33,23,True
+Evan Fournier,3,4,43,0,Driving Layup Shot,3,18,31,True
+Evan Fournier,1,9,25,0,Driving Layup Shot,1,-2,14,True
+Evan Fournier,1,10,31,1,Driving Layup Shot,1,8,17,True
+Evan Fournier,1,3,19,0,Driving Layup Shot,2,14,20,True
+Evan Fournier,1,1,20,0,Driving Layup Shot,9,-48,80,True
+Evan Fournier,3,8,59,1,Driving Layup Shot,2,5,22,True
+Evan Fournier,2,3,10,1,Driving Layup Shot,2,-11,23,True
+Evan Fournier,1,5,43,0,Driving Layup Shot,2,11,21,True
+Evan Fournier,1,5,32,0,Driving Layup Shot,2,-12,27,True
+Evan Fournier,1,7,41,0,Driving Layup Shot,4,1,41,True
+Evan Fournier,4,0,30,1,Driving Layup Shot,3,31,13,True
+Evan Fournier,1,10,4,0,Driving Layup Shot,2,0,20,True
+Evan Fournier,4,2,51,0,Driving Reverse Layup Shot,3,-12,38,True
+Evan Fournier,3,1,18,1,Driving Reverse Layup Shot,2,-5,20,True
+Evan Fournier,3,0,3,1,Driving Reverse Layup Shot,1,13,10,True
+Evan Fournier,3,8,35,0,Driving Reverse Layup Shot,3,2,36,True
+Evan Fournier,3,6,25,1,Driving Reverse Layup Shot,1,-7,8,True
+Evan Fournier,4,2,3,1,Dunk Shot,0,3,8,True
+Evan Fournier,4,3,14,0,Fadeaway Jump Shot,13,62,123,True
+Evan Fournier,1,3,59,1,Fadeaway Jump Shot,11,116,-1,True
+Evan Fournier,4,8,33,0,Fadeaway Jump Shot,18,188,-20,True
+Evan Fournier,4,5,50,0,Fadeaway Jump Shot,20,201,5,True
+Evan Fournier,4,1,13,0,Fadeaway Jump Shot,7,-51,50,True
+Evan Fournier,3,5,9,0,Fadeaway Jump Shot,15,-152,14,True
+Evan Fournier,1,4,47,0,Fadeaway Jump Shot,12,120,-16,True
+Evan Fournier,1,0,43,1,Fadeaway Jump Shot,16,88,140,True
+Evan Fournier,3,7,11,1,Fadeaway Jump Shot,19,198,14,True
+Evan Fournier,3,6,45,1,Finger Roll Layup Shot,10,6,104,True
+Evan Fournier,1,8,21,1,Finger Roll Layup Shot,2,-24,7,True
+Evan Fournier,1,1,16,1,Finger Roll Layup Shot,2,-4,29,True
+Evan Fournier,4,4,33,0,Finger Roll Layup Shot,4,25,34,True
+Evan Fournier,3,5,56,1,Floating Jump shot,6,-20,60,True
+Evan Fournier,2,0,0,0,Floating Jump shot,15,1,157,True
+Evan Fournier,2,6,34,1,Floating Jump shot,10,-57,90,True
+Evan Fournier,1,4,27,0,Floating Jump shot,8,12,88,True
+Evan Fournier,4,4,50,1,Floating Jump shot,7,12,73,True
+Evan Fournier,1,10,32,0,Floating Jump shot,15,-3,153,True
+Evan Fournier,1,8,0,1,Floating Jump shot,11,33,110,True
+Evan Fournier,4,0,40,1,Floating Jump shot,16,35,159,True
+Evan Fournier,1,5,6,0,Floating Jump shot,8,25,84,True
+Evan Fournier,3,10,3,1,Floating Jump shot,6,0,67,True
+Evan Fournier,2,3,21,0,Floating Jump shot,9,-30,95,True
+Evan Fournier,4,9,20,0,Floating Jump shot,7,0,77,True
+Evan Fournier,1,8,21,1,Floating Jump shot,6,3,68,True
+Evan Fournier,1,9,55,1,Floating Jump shot,7,-6,79,True
+Evan Fournier,3,5,5,0,Floating Jump shot,11,8,110,True
+Evan Fournier,1,8,2,1,Floating Jump shot,7,-8,70,True
+Evan Fournier,2,1,8,0,Floating Jump shot,10,9,106,True
+Evan Fournier,3,9,19,1,Floating Jump shot,9,22,88,True
+Evan Fournier,1,8,59,1,Floating Jump shot,9,9,94,True
+Evan Fournier,1,10,38,0,Floating Jump shot,10,-18,106,True
+Evan Fournier,1,3,35,1,Floating Jump shot,13,51,127,True
+Evan Fournier,5,4,46,1,Floating Jump shot,6,7,60,True
+Evan Fournier,1,0,40,1,Floating Jump shot,4,3,49,True
+Evan Fournier,2,1,2,0,Floating Jump shot,11,9,114,True
+Evan Fournier,3,2,39,0,Floating Jump shot,4,-14,39,True
+Evan Fournier,2,1,23,0,Floating Jump shot,6,-13,66,True
+Evan Fournier,3,6,29,1,Floating Jump shot,9,-27,87,True
+Evan Fournier,2,2,28,1,Floating Jump shot,5,12,55,True
+Evan Fournier,2,6,37,0,Floating Jump shot,7,-50,60,True
+Evan Fournier,2,3,10,0,Floating Jump shot,9,-9,98,True
+Evan Fournier,2,1,36,0,Floating Jump shot,9,23,90,True
+Evan Fournier,3,4,7,1,Floating Jump shot,16,-90,143,True
+Evan Fournier,4,3,47,0,Floating Jump shot,9,-66,63,True
+Evan Fournier,1,3,2,0,Floating Jump shot,9,-24,95,True
+Evan Fournier,3,0,49,0,Hook Shot,7,-71,21,True
+Evan Fournier,2,8,50,0,Hook Shot,7,15,73,True
+Evan Fournier,1,11,30,1,Hook Shot,10,-2,109,True
+Evan Fournier,3,9,10,0,Jump Bank Shot,14,-131,64,True
+Evan Fournier,1,11,8,0,Jump Bank Shot,11,-51,100,True
+Evan Fournier,3,11,10,0,Jump Bank Shot,6,43,53,True
+Evan Fournier,2,0,0,0,Jump Bank Shot,26,202,177,False
+Evan Fournier,1,1,2,1,Jump Shot,23,-206,122,False
+Evan Fournier,4,4,36,0,Jump Shot,25,-203,154,False
+Evan Fournier,1,0,50,0,Jump Shot,25,-4,252,False
+Evan Fournier,1,2,54,1,Jump Shot,24,137,204,False
+Evan Fournier,4,6,15,0,Jump Shot,25,-77,247,False
+Evan Fournier,4,6,50,1,Jump Shot,25,108,233,False
+Evan Fournier,1,8,43,0,Jump Shot,24,-215,121,False
+Evan Fournier,1,1,59,0,Jump Shot,23,-231,6,False
+Evan Fournier,3,3,50,0,Jump Shot,24,-226,86,False
+Evan Fournier,4,0,47,0,Jump Shot,25,-137,216,False
+Evan Fournier,4,2,47,0,Jump Shot,23,-224,58,False
+Evan Fournier,3,9,36,0,Jump Shot,23,234,16,False
+Evan Fournier,4,0,22,1,Jump Shot,28,106,263,False
+Evan Fournier,1,2,24,0,Jump Shot,25,44,255,False
+Evan Fournier,3,1,49,1,Jump Shot,23,231,50,False
+Evan Fournier,3,8,17,0,Jump Shot,22,-220,13,False
+Evan Fournier,4,1,37,0,Jump Shot,25,-109,236,False
+Evan Fournier,4,2,7,0,Jump Shot,23,231,53,False
+Evan Fournier,5,2,2,0,Jump Shot,26,-49,265,False
+Evan Fournier,2,4,20,0,Jump Shot,23,-236,0,False
+Evan Fournier,3,3,38,0,Jump Shot,23,76,222,True
+Evan Fournier,1,10,15,0,Jump Shot,25,63,245,False
+Evan Fournier,3,3,5,0,Jump Shot,17,-41,173,True
+Evan Fournier,1,4,49,0,Jump Shot,21,188,94,True
+Evan Fournier,4,1,38,0,Jump Shot,26,-41,262,False
+Evan Fournier,2,1,54,0,Jump Shot,25,111,235,False
+Evan Fournier,3,8,19,0,Jump Shot,22,-224,25,False
+Evan Fournier,1,1,57,1,Jump Shot,23,-231,43,False
+Evan Fournier,4,2,59,1,Jump Shot,24,-160,188,False
+Evan Fournier,2,1,39,0,Jump Shot,16,-163,-3,True
+Evan Fournier,1,10,2,0,Jump Shot,22,-170,148,True
+Evan Fournier,2,1,11,1,Jump Shot,22,-229,-5,False
+Evan Fournier,4,2,22,1,Jump Shot,26,110,240,False
+Evan Fournier,3,10,34,0,Jump Shot,23,230,30,False
+Evan Fournier,4,0,46,0,Jump Shot,28,138,248,False
+Evan Fournier,1,2,27,1,Jump Shot,22,221,2,False
+Evan Fournier,2,0,34,1,Jump Shot,23,230,6,False
+Evan Fournier,4,5,29,0,Jump Shot,26,186,183,False
+Evan Fournier,1,4,26,0,Jump Shot,25,138,214,False
+Evan Fournier,3,5,56,1,Jump Shot,27,-9,272,False
+Evan Fournier,1,1,54,0,Jump Shot,10,100,8,True
+Evan Fournier,1,10,27,0,Jump Shot,26,187,183,False
+Evan Fournier,3,6,41,0,Jump Shot,26,143,227,False
+Evan Fournier,3,0,32,1,Jump Shot,25,186,177,False
+Evan Fournier,1,0,4,0,Jump Shot,26,8,268,False
+Evan Fournier,2,3,36,1,Jump Shot,22,-228,14,False
+Evan Fournier,3,3,16,0,Jump Shot,22,227,1,False
+Evan Fournier,3,11,9,1,Jump Shot,20,205,18,True
+Evan Fournier,1,9,23,1,Jump Shot,25,175,192,False
+Evan Fournier,3,7,58,0,Jump Shot,10,16,105,True
+Evan Fournier,1,2,40,0,Jump Shot,26,50,264,False
+Evan Fournier,2,0,6,1,Jump Shot,25,-139,218,False
+Evan Fournier,2,2,43,0,Jump Shot,25,-93,237,False
+Evan Fournier,4,2,21,0,Jump Shot,26,-186,186,False
+Evan Fournier,4,0,44,0,Jump Shot,26,-149,220,False
+Evan Fournier,3,10,42,0,Jump Shot,25,95,235,False
+Evan Fournier,1,9,37,0,Jump Shot,24,-231,79,False
+Evan Fournier,1,10,34,1,Jump Shot,23,-231,31,False
+Evan Fournier,1,1,13,0,Jump Shot,24,-162,189,False
+Evan Fournier,4,2,41,1,Jump Shot,25,-43,248,False
+Evan Fournier,4,7,40,1,Jump Shot,25,119,225,False
+Evan Fournier,1,7,9,1,Jump Shot,3,33,18,True
+Evan Fournier,3,6,21,1,Jump Shot,18,179,52,True
+Evan Fournier,2,1,35,0,Jump Shot,26,-145,223,False
+Evan Fournier,1,3,13,1,Jump Shot,21,95,189,True
+Evan Fournier,3,7,51,0,Jump Shot,24,-27,243,False
+Evan Fournier,1,2,46,1,Jump Shot,20,-206,32,True
+Evan Fournier,4,0,0,0,Jump Shot,26,51,262,False
+Evan Fournier,3,11,15,1,Jump Shot,23,234,9,False
+Evan Fournier,1,6,10,1,Jump Shot,27,22,276,False
+Evan Fournier,3,5,4,0,Jump Shot,26,169,202,False
+Evan Fournier,1,1,58,1,Jump Shot,25,24,255,False
+Evan Fournier,1,9,34,0,Jump Shot,23,230,-16,False
+Evan Fournier,4,0,37,0,Jump Shot,26,162,214,False
+Evan Fournier,3,4,1,0,Jump Shot,21,-212,46,True
+Evan Fournier,4,2,8,1,Jump Shot,26,137,229,False
+Evan Fournier,4,2,39,1,Jump Shot,5,8,57,True
+Evan Fournier,3,4,27,0,Jump Shot,25,145,205,False
+Evan Fournier,3,10,5,1,Jump Shot,25,85,236,False
+Evan Fournier,1,8,5,0,Jump Shot,25,-134,218,False
+Evan Fournier,1,4,58,0,Jump Shot,12,27,125,True
+Evan Fournier,1,9,33,1,Jump Shot,16,-113,115,True
+Evan Fournier,1,11,35,0,Jump Shot,22,-227,36,False
+Evan Fournier,4,2,37,0,Jump Shot,24,-228,85,False
+Evan Fournier,1,7,55,0,Jump Shot,23,-234,23,False
+Evan Fournier,4,2,35,0,Jump Shot,28,138,246,False
+Evan Fournier,2,4,46,0,Jump Shot,25,-111,235,False
+Evan Fournier,3,5,22,1,Jump Shot,24,239,38,False
+Evan Fournier,2,2,48,1,Jump Shot,17,93,153,True
+Evan Fournier,2,5,16,1,Jump Shot,14,-12,149,True
+Evan Fournier,1,9,27,0,Jump Shot,8,-43,75,True
+Evan Fournier,1,6,57,0,Jump Shot,25,-144,206,False
+Evan Fournier,1,3,17,0,Jump Shot,27,27,271,False
+Evan Fournier,4,8,36,0,Jump Shot,26,-150,223,False
+Evan Fournier,2,2,6,0,Jump Shot,25,65,246,False
+Evan Fournier,1,1,32,0,Jump Shot,26,121,237,False
+Evan Fournier,1,11,26,1,Jump Shot,20,49,201,True
+Evan Fournier,3,6,52,0,Jump Shot,20,60,191,True
+Evan Fournier,3,7,43,1,Jump Shot,25,140,211,False
+Evan Fournier,1,4,48,1,Jump Shot,26,-60,257,False
+Evan Fournier,3,11,11,1,Jump Shot,25,-115,233,False
+Evan Fournier,2,1,34,0,Jump Shot,21,29,215,True
+Evan Fournier,3,5,50,1,Jump Shot,23,-229,31,False
+Evan Fournier,3,10,6,0,Jump Shot,24,-166,183,False
+Evan Fournier,3,8,18,1,Jump Shot,24,184,159,False
+Evan Fournier,1,0,49,0,Jump Shot,25,30,255,False
+Evan Fournier,3,3,15,0,Jump Shot,29,21,290,False
+Evan Fournier,3,11,42,0,Jump Shot,7,-55,58,True
+Evan Fournier,1,2,23,1,Jump Shot,25,-84,241,False
+Evan Fournier,1,7,6,0,Jump Shot,20,-141,150,True
+Evan Fournier,1,1,46,0,Jump Shot,24,-176,176,False
+Evan Fournier,1,8,52,0,Jump Shot,26,-214,148,False
+Evan Fournier,1,2,57,1,Jump Shot,23,-230,58,False
+Evan Fournier,3,9,14,1,Jump Shot,26,-187,193,False
+Evan Fournier,4,4,32,0,Jump Shot,26,64,259,False
+Evan Fournier,1,3,39,0,Jump Shot,19,72,180,True
+Evan Fournier,3,2,33,0,Jump Shot,27,-201,185,False
+Evan Fournier,3,11,22,0,Jump Shot,23,231,22,False
+Evan Fournier,3,5,42,1,Jump Shot,23,210,97,True
+Evan Fournier,3,1,36,1,Jump Shot,26,-39,264,False
+Evan Fournier,4,5,0,0,Jump Shot,25,43,252,False
+Evan Fournier,3,8,26,0,Jump Shot,23,-225,60,False
+Evan Fournier,3,10,49,1,Jump Shot,10,-38,101,True
+Evan Fournier,4,1,12,0,Jump Shot,25,117,228,False
+Evan Fournier,4,2,24,0,Jump Shot,26,-96,243,False
+Evan Fournier,1,6,0,1,Jump Shot,23,-231,8,False
+Evan Fournier,1,10,46,1,Jump Shot,26,95,245,False
+Evan Fournier,1,5,23,0,Jump Shot,25,-25,256,False
+Evan Fournier,4,8,34,0,Jump Shot,25,-147,207,False
+Evan Fournier,1,0,48,0,Jump Shot,25,117,225,False
+Evan Fournier,1,6,35,0,Jump Shot,13,0,134,True
+Evan Fournier,4,7,35,0,Jump Shot,24,201,141,False
+Evan Fournier,4,6,30,0,Jump Shot,22,67,216,True
+Evan Fournier,3,1,48,0,Jump Shot,24,70,239,False
+Evan Fournier,2,3,46,1,Jump Shot,20,-208,8,True
+Evan Fournier,1,11,19,1,Jump Shot,25,-120,226,False
+Evan Fournier,4,2,38,0,Jump Shot,13,136,4,True
+Evan Fournier,2,5,14,1,Jump Shot,25,-79,247,False
+Evan Fournier,4,9,6,0,Jump Shot,25,26,256,False
+Evan Fournier,3,9,29,1,Jump Shot,22,221,11,False
+Evan Fournier,2,0,55,0,Jump Shot,13,-64,115,True
+Evan Fournier,1,4,54,0,Jump Shot,31,137,285,False
+Evan Fournier,4,1,56,0,Jump Shot,23,228,73,False
+Evan Fournier,1,9,45,0,Jump Shot,20,-205,19,True
+Evan Fournier,3,11,10,1,Jump Shot,22,-225,10,False
+Evan Fournier,2,4,43,0,Jump Shot,21,-19,214,True
+Evan Fournier,4,6,27,1,Jump Shot,23,231,-1,False
+Evan Fournier,1,6,40,0,Jump Shot,21,-32,209,True
+Evan Fournier,2,0,0,0,Jump Shot,26,201,180,False
+Evan Fournier,1,2,18,1,Jump Shot,23,231,-18,False
+Evan Fournier,4,4,15,0,Jump Shot,25,-210,152,False
+Evan Fournier,1,5,52,1,Jump Shot,22,-226,-18,False
+Evan Fournier,3,10,9,1,Jump Shot,25,194,158,False
+Evan Fournier,3,6,36,0,Jump Shot,26,-163,212,False
+Evan Fournier,3,2,40,0,Jump Shot,26,180,200,False
+Evan Fournier,1,3,30,0,Jump Shot,26,159,215,False
+Evan Fournier,4,3,3,0,Jump Shot,27,15,273,False
+Evan Fournier,3,1,26,1,Jump Shot,25,-220,136,False
+Evan Fournier,4,7,22,0,Jump Shot,24,-177,176,False
+Evan Fournier,4,2,27,0,Jump Shot,25,139,212,False
+Evan Fournier,3,8,18,0,Jump Shot,26,-127,235,False
+Evan Fournier,2,2,30,0,Jump Shot,26,199,168,False
+Evan Fournier,3,10,14,0,Jump Shot,25,203,147,False
+Evan Fournier,1,7,5,1,Jump Shot,27,-222,155,False
+Evan Fournier,3,5,46,1,Jump Shot,18,113,151,True
+Evan Fournier,1,8,7,0,Jump Shot,25,210,145,False
+Evan Fournier,3,5,34,0,Jump Shot,26,90,253,False
+Evan Fournier,4,7,45,0,Jump Shot,26,105,244,False
+Evan Fournier,3,11,27,1,Jump Shot,26,-6,269,False
+Evan Fournier,4,4,57,0,Jump Shot,6,-2,65,True
+Evan Fournier,3,8,7,0,Jump Shot,11,-35,105,True
+Evan Fournier,4,8,48,1,Jump Shot,26,192,185,False
+Evan Fournier,2,1,2,1,Jump Shot,15,-47,151,True
+Evan Fournier,1,1,21,0,Jump Shot,9,95,18,True
+Evan Fournier,4,2,53,0,Jump Shot,27,-130,244,False
+Evan Fournier,1,11,41,0,Jump Shot,25,-155,197,False
+Evan Fournier,1,8,15,0,Jump Shot,22,-223,21,False
+Evan Fournier,3,5,59,0,Jump Shot,25,178,181,False
+Evan Fournier,3,0,59,0,Jump Shot,26,-159,211,False
+Evan Fournier,1,4,45,0,Jump Shot,26,-74,251,False
+Evan Fournier,1,9,30,1,Jump Shot,26,46,261,False
+Evan Fournier,3,6,57,1,Jump Shot,25,149,206,False
+Evan Fournier,3,6,29,0,Jump Shot,23,233,5,False
+Evan Fournier,4,0,3,0,Jump Shot,25,86,241,False
+Evan Fournier,4,0,42,1,Jump Shot,24,155,191,False
+Evan Fournier,4,3,56,0,Jump Shot,24,-92,231,False
+Evan Fournier,1,1,24,1,Jump Shot,16,112,116,True
+Evan Fournier,4,4,14,0,Jump Shot,21,46,211,True
+Evan Fournier,3,6,42,0,Jump Shot,25,-179,180,False
+Evan Fournier,3,9,42,1,Jump Shot,24,204,144,False
+Evan Fournier,2,2,52,0,Jump Shot,23,220,71,False
+Evan Fournier,4,7,30,1,Jump Shot,25,63,247,False
+Evan Fournier,4,2,55,1,Jump Shot,25,172,185,False
+Evan Fournier,2,2,30,1,Jump Shot,27,133,235,False
+Evan Fournier,2,6,0,0,Jump Shot,26,-104,249,False
+Evan Fournier,3,10,4,0,Jump Shot,26,-158,214,False
+Evan Fournier,1,9,8,1,Jump Shot,16,-165,25,True
+Evan Fournier,3,9,24,1,Jump Shot,22,-228,5,False
+Evan Fournier,1,10,2,0,Jump Shot,26,95,247,False
+Evan Fournier,4,5,40,0,Jump Shot,22,214,78,True
+Evan Fournier,1,4,15,0,Jump Shot,22,-161,151,True
+Evan Fournier,1,10,34,0,Jump Shot,26,110,243,False
+Evan Fournier,3,1,46,0,Jump Shot,25,14,257,False
+Evan Fournier,3,9,41,1,Jump Shot,24,217,112,False
+Evan Fournier,3,8,15,1,Jump Shot,24,169,181,False
+Evan Fournier,3,11,38,1,Jump Shot,25,-58,251,False
+Evan Fournier,3,3,33,0,Jump Shot,22,226,-8,False
+Evan Fournier,1,3,27,1,Jump Shot,25,-74,243,False
+Evan Fournier,1,5,13,0,Jump Shot,26,-233,125,False
+Evan Fournier,4,2,58,0,Jump Shot,25,59,249,False
+Evan Fournier,4,3,31,0,Jump Shot,25,-57,251,False
+Evan Fournier,4,1,37,0,Jump Shot,25,-152,205,False
+Evan Fournier,2,5,34,0,Jump Shot,25,-24,253,False
+Evan Fournier,3,3,20,1,Jump Shot,24,-158,189,False
+Evan Fournier,3,1,56,0,Jump Shot,25,200,160,False
+Evan Fournier,3,1,49,0,Jump Shot,7,4,75,True
+Evan Fournier,1,7,13,1,Jump Shot,26,27,268,False
+Evan Fournier,1,2,41,1,Jump Shot,25,103,234,False
+Evan Fournier,1,9,21,1,Jump Shot,22,-221,50,False
+Evan Fournier,3,10,19,0,Jump Shot,11,-43,107,True
+Evan Fournier,4,2,26,1,Jump Shot,24,-143,204,False
+Evan Fournier,3,4,12,1,Jump Shot,13,70,111,True
+Evan Fournier,3,5,38,1,Jump Shot,16,89,143,True
+Evan Fournier,3,3,32,0,Jump Shot,22,-223,22,False
+Evan Fournier,1,1,30,0,Jump Shot,26,-125,237,False
+Evan Fournier,4,1,36,0,Jump Shot,26,-133,226,False
+Evan Fournier,4,4,11,0,Jump Shot,26,161,210,False
+Evan Fournier,4,5,18,1,Jump Shot,25,31,252,False
+Evan Fournier,2,3,22,0,Jump Shot,26,174,199,False
+Evan Fournier,2,0,27,1,Jump Shot,23,-231,10,False
+Evan Fournier,3,6,5,0,Jump Shot,28,-35,279,False
+Evan Fournier,4,1,50,0,Jump Shot,27,103,251,False
+Evan Fournier,1,3,40,0,Jump Shot,27,-154,222,False
+Evan Fournier,2,5,48,0,Jump Shot,26,-22,260,False
+Evan Fournier,4,10,4,1,Jump Shot,27,157,225,False
+Evan Fournier,4,6,43,0,Jump Shot,10,13,101,True
+Evan Fournier,4,7,52,1,Jump Shot,22,-226,-8,False
+Evan Fournier,2,0,0,0,Jump Shot,73,-121,721,False
+Evan Fournier,3,9,18,1,Jump Shot,20,-167,125,True
+Evan Fournier,2,0,57,0,Jump Shot,24,-71,239,False
+Evan Fournier,1,11,34,0,Jump Shot,6,24,62,True
+Evan Fournier,2,4,8,0,Jump Shot,0,1,5,True
+Evan Fournier,1,11,43,0,Jump Shot,12,35,117,True
+Evan Fournier,3,0,2,0,Jump Shot,20,-201,-18,True
+Evan Fournier,3,3,47,0,Jump Shot,24,-139,204,False
+Evan Fournier,1,8,1,1,Jump Shot,23,-230,27,False
+Evan Fournier,4,0,23,0,Jump Shot,25,-9,251,False
+Evan Fournier,3,7,38,0,Jump Shot,14,-1,143,True
+Evan Fournier,1,10,54,0,Jump Shot,25,110,230,False
+Evan Fournier,2,0,44,0,Jump Shot,19,-194,36,True
+Evan Fournier,1,8,57,0,Jump Shot,22,62,216,True
+Evan Fournier,4,0,29,1,Jump Shot,24,-108,222,False
+Evan Fournier,4,6,57,1,Jump Shot,22,54,216,True
+Evan Fournier,2,4,17,1,Jump Shot,23,-105,207,True
+Evan Fournier,4,4,26,0,Jump Shot,24,-93,230,False
+Evan Fournier,3,8,10,0,Jump Shot,24,-10,246,False
+Evan Fournier,2,1,23,0,Jump Shot,23,-230,53,False
+Evan Fournier,3,6,10,0,Jump Shot,12,-51,115,True
+Evan Fournier,4,0,4,0,Jump Shot,25,-168,197,False
+Evan Fournier,1,7,18,1,Jump Shot,23,232,34,False
+Evan Fournier,4,1,49,1,Jump Shot,23,-229,47,False
+Evan Fournier,1,9,1,0,Jump Shot,7,-47,57,True
+Evan Fournier,2,2,5,1,Jump Shot,25,145,209,False
+Evan Fournier,3,9,57,0,Jump Shot,24,-231,78,False
+Evan Fournier,3,9,51,0,Jump Shot,25,-204,158,False
+Evan Fournier,1,5,49,0,Jump Shot,17,90,155,True
+Evan Fournier,2,5,47,0,Jump Shot,26,-153,212,False
+Evan Fournier,1,8,7,0,Jump Shot,20,-192,80,True
+Evan Fournier,1,8,55,1,Jump Shot,25,10,256,False
+Evan Fournier,3,9,8,0,Jump Shot,25,99,240,False
+Evan Fournier,1,9,48,0,Jump Shot,25,-49,247,False
+Evan Fournier,2,1,49,1,Jump Shot,22,-228,10,False
+Evan Fournier,1,10,47,0,Jump Shot,24,-206,140,False
+Evan Fournier,2,4,49,1,Jump Shot,19,117,152,True
+Evan Fournier,3,4,5,0,Jump Shot,26,-169,207,False
+Evan Fournier,1,0,0,0,Jump Shot,16,145,87,True
+Evan Fournier,1,11,43,1,Jump Shot,26,-176,204,False
+Evan Fournier,2,0,28,0,Jump Shot,27,-103,251,False
+Evan Fournier,3,4,3,0,Jump Shot,25,103,237,False
+Evan Fournier,3,8,14,0,Jump Shot,28,-78,272,False
+Evan Fournier,1,8,8,0,Jump Shot,22,-226,-7,False
+Evan Fournier,2,3,38,0,Jump Shot,26,-10,260,False
+Evan Fournier,1,6,10,0,Jump Shot,24,-112,216,False
+Evan Fournier,3,3,34,0,Jump Shot,25,-197,168,False
+Evan Fournier,3,8,41,1,Jump Shot,12,-111,55,True
+Evan Fournier,1,6,33,1,Jump Shot,25,-97,231,False
+Evan Fournier,1,4,57,0,Jump Shot,24,-68,240,False
+Evan Fournier,2,4,3,0,Jump Shot,11,105,48,True
+Evan Fournier,2,6,27,0,Jump Shot,25,78,248,False
+Evan Fournier,4,3,26,1,Jump Shot,26,-101,247,False
+Evan Fournier,4,5,22,0,Jump Shot,17,41,169,True
+Evan Fournier,3,4,34,0,Jump Shot,23,-229,63,False
+Evan Fournier,4,3,47,0,Jump Shot,25,9,255,False
+Evan Fournier,1,5,33,0,Jump Shot,23,223,68,False
+Evan Fournier,1,8,28,0,Jump Shot,24,177,173,False
+Evan Fournier,1,0,55,0,Jump Shot,27,-52,265,False
+Evan Fournier,3,11,45,1,Jump Shot,24,-195,156,False
+Evan Fournier,4,10,57,0,Jump Shot,26,85,247,False
+Evan Fournier,1,6,58,1,Jump Shot,25,-25,256,False
+Evan Fournier,2,1,9,0,Jump Shot,26,114,243,False
+Evan Fournier,3,8,13,0,Jump Shot,22,225,0,False
+Evan Fournier,3,9,48,0,Jump Shot,25,-9,252,False
+Evan Fournier,3,6,47,1,Jump Shot,25,117,230,False
+Evan Fournier,3,4,2,1,Jump Shot,24,-151,197,False
+Evan Fournier,1,10,48,1,Jump Shot,26,152,221,False
+Evan Fournier,2,3,28,1,Jump Shot,24,70,239,False
+Evan Fournier,1,11,41,1,Jump Shot,24,-174,175,False
+Evan Fournier,4,3,1,0,Jump Shot,24,17,243,False
+Evan Fournier,1,9,52,1,Jump Shot,25,141,215,False
+Evan Fournier,2,0,46,1,Jump Shot,25,-177,177,False
+Evan Fournier,3,6,25,0,Jump Shot,23,-235,21,False
+Evan Fournier,3,1,34,1,Jump Shot,19,182,80,True
+Evan Fournier,1,2,49,1,Jump Shot,25,-117,227,False
+Evan Fournier,4,3,10,0,Jump Shot,26,-41,260,False
+Evan Fournier,1,7,9,0,Jump Shot,23,226,45,False
+Evan Fournier,4,2,43,0,Jump Shot,14,63,134,True
+Evan Fournier,1,0,43,1,Jump Shot,17,25,177,True
+Evan Fournier,3,0,31,1,Jump Shot,29,-161,249,False
+Evan Fournier,4,2,10,0,Jump Shot,27,108,258,False
+Evan Fournier,1,1,46,1,Jump Shot,26,-119,233,False
+Evan Fournier,2,2,12,1,Jump Shot,15,-52,147,True
+Evan Fournier,1,4,6,1,Jump Shot,25,71,247,False
+Evan Fournier,3,7,58,1,Jump Shot,25,-86,239,False
+Evan Fournier,3,3,17,1,Jump Shot,25,95,234,False
+Evan Fournier,3,10,11,0,Jump Shot,26,-119,234,False
+Evan Fournier,4,3,58,1,Jump Shot,25,-41,247,False
+Evan Fournier,4,8,28,0,Jump Shot,25,-58,246,False
+Evan Fournier,4,1,1,0,Jump Shot,25,-144,205,False
+Evan Fournier,3,5,12,1,Jump Shot,25,-174,191,False
+Evan Fournier,1,2,33,0,Jump Shot,21,-201,71,True
+Evan Fournier,3,4,24,0,Jump Shot,25,-237,92,False
+Evan Fournier,1,7,19,1,Jump Shot,21,-218,-11,False
+Evan Fournier,3,9,44,0,Jump Shot,26,-201,169,False
+Evan Fournier,1,4,19,1,Jump Shot,21,-215,13,True
+Evan Fournier,2,2,48,0,Jump Shot,8,40,72,True
+Evan Fournier,1,10,57,1,Jump Shot,23,231,51,False
+Evan Fournier,4,1,44,1,Jump Shot,25,-145,207,False
+Evan Fournier,1,4,55,0,Jump Shot,21,-140,164,True
+Evan Fournier,1,6,41,1,Jump Shot,13,35,130,True
+Evan Fournier,1,3,31,0,Jump Shot,24,23,248,False
+Evan Fournier,1,9,34,1,Jump Shot,20,-192,61,True
+Evan Fournier,2,3,53,1,Jump Shot,22,-227,6,False
+Evan Fournier,4,0,3,0,Jump Shot,22,-228,-13,False
+Evan Fournier,3,2,28,0,Jump Shot,27,-106,252,False
+Evan Fournier,2,1,17,1,Jump Shot,9,98,17,True
+Evan Fournier,2,3,59,0,Jump Shot,25,126,216,False
+Evan Fournier,3,5,30,0,Jump Shot,25,-139,212,False
+Evan Fournier,4,2,27,1,Jump Shot,24,63,239,False
+Evan Fournier,1,8,19,1,Jump Shot,11,115,25,True
+Evan Fournier,1,4,34,0,Jump Shot,4,-30,34,True
+Evan Fournier,1,5,3,0,Jump Shot,26,132,229,False
+Evan Fournier,1,10,16,0,Jump Shot,6,-15,67,True
+Evan Fournier,3,8,20,0,Jump Shot,13,-12,131,True
+Evan Fournier,2,0,57,1,Jump Shot,26,-183,185,False
+Evan Fournier,3,10,45,1,Jump Shot,25,119,227,False
+Evan Fournier,3,2,30,1,Jump Shot,29,3,295,False
+Evan Fournier,1,1,30,0,Jump Shot,27,134,235,False
+Evan Fournier,2,0,25,0,Layup Shot,2,9,19,True
+Evan Fournier,3,8,27,0,Layup Shot,1,13,5,True
+Evan Fournier,3,7,25,0,Layup Shot,5,-19,52,True
+Evan Fournier,2,8,0,1,Layup Shot,3,6,37,True
+Evan Fournier,1,7,33,0,Layup Shot,0,-3,8,True
+Evan Fournier,3,11,39,0,Layup Shot,4,26,38,True
+Evan Fournier,1,5,7,0,Layup Shot,3,-31,24,True
+Evan Fournier,1,7,11,0,Layup Shot,2,21,11,True
+Evan Fournier,1,9,23,1,Layup Shot,1,-18,4,True
+Evan Fournier,3,11,49,1,Layup Shot,2,21,8,True
+Evan Fournier,1,4,34,1,Layup Shot,2,-15,15,True
+Evan Fournier,2,3,42,1,Layup Shot,2,11,19,True
+Evan Fournier,2,2,0,0,Layup Shot,1,0,11,True
+Evan Fournier,4,11,48,1,Layup Shot,1,6,15,True
+Evan Fournier,1,5,20,1,Layup Shot,2,20,13,True
+Evan Fournier,1,5,45,0,Layup Shot,3,27,26,True
+Evan Fournier,4,5,24,1,Layup Shot,2,12,17,True
+Evan Fournier,1,5,58,0,Layup Shot,1,11,15,True
+Evan Fournier,1,11,42,0,Layup Shot,1,0,19,True
+Evan Fournier,2,4,49,1,Layup Shot,0,9,0,True
+Evan Fournier,3,9,21,1,Layup Shot,1,-8,18,True
+Evan Fournier,2,2,9,0,Layup Shot,5,-8,55,True
+Evan Fournier,1,5,35,1,Layup Shot,2,28,3,True
+Evan Fournier,2,2,32,0,Layup Shot,10,10,104,True
+Evan Fournier,1,4,33,1,Layup Shot,4,34,22,True
+Evan Fournier,2,2,46,1,Layup Shot,2,20,16,True
+Evan Fournier,3,10,6,0,Layup Shot,1,0,14,True
+Evan Fournier,2,6,28,0,Layup Shot,2,-2,24,True
+Evan Fournier,2,4,30,0,Layup Shot,2,19,15,True
+Evan Fournier,3,1,32,0,Layup Shot,3,-36,13,True
+Evan Fournier,1,8,50,1,Layup Shot,1,-11,5,True
+Evan Fournier,3,7,58,0,Layup Shot,1,-6,15,True
+Evan Fournier,1,0,31,1,Layup Shot,0,1,8,True
+Evan Fournier,1,4,51,0,Layup Shot,4,-21,37,True
+Evan Fournier,1,1,8,1,Layup Shot,2,18,10,True
+Evan Fournier,1,6,10,1,Layup Shot,1,8,16,True
+Evan Fournier,3,1,57,0,Layup Shot,5,-24,46,True
+Evan Fournier,1,8,34,0,Layup Shot,2,25,10,True
+Evan Fournier,3,11,21,1,Layup Shot,6,60,21,True
+Evan Fournier,1,6,49,0,Layup Shot,5,-10,57,True
+Evan Fournier,2,3,19,1,Layup Shot,1,8,10,True
+Evan Fournier,4,0,38,0,Layup Shot,2,19,20,True
+Evan Fournier,1,6,54,1,Layup Shot,7,3,74,True
+Evan Fournier,3,0,21,1,Layup Shot,1,-13,8,True
+Evan Fournier,4,1,24,1,Pullup Jump shot,25,143,206,False
+Evan Fournier,2,0,33,0,Pullup Jump shot,13,-1,132,True
+Evan Fournier,3,6,6,0,Pullup Jump shot,14,-72,127,True
+Evan Fournier,2,1,53,0,Pullup Jump shot,23,-233,-23,False
+Evan Fournier,1,0,14,1,Pullup Jump shot,25,-122,222,False
+Evan Fournier,1,3,28,1,Pullup Jump shot,20,-14,208,True
+Evan Fournier,1,5,41,0,Pullup Jump shot,26,-71,252,False
+Evan Fournier,4,3,16,0,Pullup Jump shot,27,-57,269,False
+Evan Fournier,4,5,32,1,Pullup Jump shot,25,-86,243,False
+Evan Fournier,3,5,23,1,Pullup Jump shot,20,46,201,True
+Evan Fournier,1,10,34,1,Pullup Jump shot,17,-105,137,True
+Evan Fournier,1,5,0,0,Pullup Jump shot,21,3,210,True
+Evan Fournier,1,9,51,1,Pullup Jump shot,18,107,152,True
+Evan Fournier,1,6,21,0,Pullup Jump shot,17,149,99,True
+Evan Fournier,2,4,11,1,Pullup Jump shot,19,-188,42,True
+Evan Fournier,4,2,44,0,Pullup Jump shot,8,-4,89,True
+Evan Fournier,4,4,47,0,Pullup Jump shot,26,-147,218,False
+Evan Fournier,1,0,4,1,Pullup Jump shot,17,-77,160,True
+Evan Fournier,3,6,27,0,Pullup Jump shot,13,-2,139,True
+Evan Fournier,3,1,16,0,Pullup Jump shot,15,-4,156,True
+Evan Fournier,2,0,42,1,Pullup Jump shot,28,123,261,False
+Evan Fournier,3,3,40,1,Pullup Jump shot,26,-59,255,False
+Evan Fournier,2,3,25,1,Pullup Jump shot,11,-67,88,True
+Evan Fournier,2,0,6,1,Pullup Jump shot,20,117,163,True
+Evan Fournier,3,0,25,0,Pullup Jump shot,20,-73,194,True
+Evan Fournier,1,0,28,1,Pullup Jump shot,20,-73,193,True
+Evan Fournier,1,10,29,0,Pullup Jump shot,17,139,111,True
+Evan Fournier,1,1,55,1,Pullup Jump shot,18,-67,171,True
+Evan Fournier,3,6,11,0,Pullup Jump shot,13,-40,132,True
+Evan Fournier,3,4,36,0,Pullup Jump shot,25,97,232,False
+Evan Fournier,4,6,44,0,Pullup Jump shot,27,-19,274,False
+Evan Fournier,2,6,2,0,Pullup Jump shot,12,-69,110,True
+Evan Fournier,1,10,53,1,Pullup Jump shot,20,25,205,True
+Evan Fournier,3,2,22,0,Pullup Jump shot,14,-83,123,True
+Evan Fournier,1,4,1,1,Pullup Jump shot,16,160,19,True
+Evan Fournier,3,1,5,0,Pullup Jump shot,15,-138,80,True
+Evan Fournier,4,7,59,0,Pullup Jump shot,15,158,20,True
+Evan Fournier,1,8,44,0,Pullup Jump shot,16,-43,155,True
+Evan Fournier,1,8,57,1,Pullup Jump shot,17,70,155,True
+Evan Fournier,3,6,21,1,Pullup Jump shot,26,81,248,False
+Evan Fournier,2,0,0,0,Pullup Jump shot,28,-15,284,False
+Evan Fournier,3,5,16,0,Pullup Jump shot,26,-74,258,False
+Evan Fournier,3,4,24,0,Pullup Jump shot,26,-96,246,False
+Evan Fournier,3,4,34,1,Pullup Jump shot,16,71,146,True
+Evan Fournier,4,1,36,0,Pullup Jump shot,24,97,227,False
+Evan Fournier,1,0,17,0,Pullup Jump shot,25,-85,236,False
+Evan Fournier,4,0,7,0,Pullup Jump shot,26,189,189,False
+Evan Fournier,3,5,24,1,Pullup Jump shot,12,-32,118,True
+Evan Fournier,4,3,39,0,Pullup Jump shot,28,-120,258,False
+Evan Fournier,1,8,17,0,Pullup Jump shot,16,-60,154,True
+Evan Fournier,3,2,15,0,Pullup Jump shot,28,-146,240,False
+Evan Fournier,3,10,20,0,Pullup Jump shot,22,128,183,True
+Evan Fournier,1,7,47,0,Pullup Jump shot,26,67,255,False
+Evan Fournier,2,3,21,1,Pullup Jump shot,25,13,256,False
+Evan Fournier,1,5,17,1,Pullup Jump shot,14,-112,84,True
+Evan Fournier,1,2,24,0,Pullup Jump shot,25,-160,197,False
+Evan Fournier,3,5,5,0,Pullup Jump shot,26,-121,233,False
+Evan Fournier,4,3,52,0,Pullup Jump shot,17,54,167,True
+Evan Fournier,2,0,8,0,Pullup Jump shot,25,89,236,False
+Evan Fournier,3,10,11,0,Pullup Jump shot,12,-100,81,True
+Evan Fournier,3,6,6,0,Pullup Jump shot,25,62,247,False
+Evan Fournier,1,4,39,1,Pullup Jump shot,16,6,161,True
+Evan Fournier,2,2,27,1,Pullup Jump shot,22,-122,191,True
+Evan Fournier,1,0,38,1,Pullup Jump shot,25,71,248,False
+Evan Fournier,2,3,39,0,Pullup Jump shot,24,-33,246,False
+Evan Fournier,3,8,0,1,Pullup Jump shot,28,93,265,False
+Evan Fournier,2,5,10,1,Pullup Jump shot,15,18,156,True
+Evan Fournier,4,1,58,0,Pullup Jump shot,15,67,143,True
+Evan Fournier,3,6,54,1,Pullup Jump shot,17,-52,170,True
+Evan Fournier,1,10,47,0,Pullup Jump shot,15,-14,153,True
+Evan Fournier,1,4,21,0,Putback Layup Shot,1,-13,15,True
+Evan Fournier,1,9,43,1,Reverse Layup Shot,1,-14,10,True
+Evan Fournier,4,1,39,1,Reverse Layup Shot,0,-5,7,True
+Evan Fournier,3,8,37,0,Reverse Layup Shot,2,14,17,True
+Evan Fournier,3,11,8,1,Reverse Layup Shot,2,5,29,True
+Evan Fournier,3,4,49,1,Reverse Layup Shot,1,-13,12,True
+Evan Fournier,2,3,30,1,Running Dunk Shot,3,0,36,True
+Evan Fournier,1,4,43,1,Running Dunk Shot,1,-12,15,True
+Evan Fournier,2,5,17,1,Running Dunk Shot,3,-8,32,True
+Evan Fournier,1,2,46,1,Running Jump Shot,26,-105,239,False
+Evan Fournier,2,1,58,0,Running Jump Shot,11,-76,90,True
+Evan Fournier,1,8,56,0,Running Jump Shot,6,-2,63,True
+Evan Fournier,4,6,56,0,Running Jump Shot,26,141,226,False
+Evan Fournier,3,11,0,0,Running Jump Shot,15,152,-11,True
+Evan Fournier,2,1,30,0,Running Jump Shot,26,-166,210,False
+Evan Fournier,3,11,38,1,Running Jump Shot,25,-214,137,False
+Evan Fournier,3,0,28,1,Running Jump Shot,26,-228,141,False
+Evan Fournier,4,5,34,1,Running Layup Shot,0,2,6,True
+Evan Fournier,1,2,15,0,Running Layup Shot,1,1,19,True
+Evan Fournier,4,0,7,1,Running Layup Shot,1,-2,11,True
+Evan Fournier,3,9,30,0,Running Layup Shot,2,7,24,True
+Evan Fournier,1,3,2,0,Running Layup Shot,3,-29,10,True
+Evan Fournier,3,1,33,0,Running Layup Shot,1,4,12,True
+Evan Fournier,2,2,41,1,Running Layup Shot,2,16,19,True
+Evan Fournier,3,9,39,0,Running Layup Shot,2,25,8,True
+Evan Fournier,1,10,5,1,Running Layup Shot,0,-8,5,True
+Evan Fournier,3,2,12,1,Running Layup Shot,0,4,8,True
+Evan Fournier,2,1,9,1,Running Layup Shot,0,-9,1,True
+Evan Fournier,2,2,45,0,Running Layup Shot,1,3,10,True
+Evan Fournier,1,10,17,1,Running Layup Shot,1,14,10,True
+Evan Fournier,1,6,53,1,Running Layup Shot,2,-16,17,True
+Evan Fournier,2,1,4,1,Running Layup Shot,1,11,11,True
+Evan Fournier,3,5,12,0,Running Layup Shot,0,3,7,True
+Evan Fournier,2,9,39,0,Running Layup Shot,4,19,42,True
+Evan Fournier,1,0,3,1,Running Layup Shot,0,9,-2,True
+Evan Fournier,2,4,24,1,Running Layup Shot,0,2,3,True
+Evan Fournier,4,2,19,1,Running Layup Shot,2,9,23,True
+Evan Fournier,1,9,51,0,Running Layup Shot,0,-2,6,True
+Evan Fournier,3,4,10,1,Running Layup Shot,2,-6,25,True
+Evan Fournier,2,4,45,0,Step Back Bank Jump Shot,24,-149,197,False
+Evan Fournier,2,2,22,1,Step Back Jump shot,26,-108,239,False
+Evan Fournier,4,8,47,0,Step Back Jump shot,25,-62,252,False
+Evan Fournier,4,5,59,0,Step Back Jump shot,11,118,13,True
+Evan Fournier,3,11,4,0,Step Back Jump shot,18,-125,133,True
+Evan Fournier,4,6,49,0,Step Back Jump shot,18,-120,143,True
+Evan Fournier,3,9,21,0,Step Back Jump shot,15,158,22,True
+Evan Fournier,3,4,19,0,Step Back Jump shot,25,-106,235,False
+Evan Fournier,3,11,40,1,Step Back Jump shot,21,209,68,True
+Evan Fournier,1,3,15,1,Step Back Jump shot,19,-5,193,True
+Evan Fournier,5,3,41,1,Step Back Jump shot,25,117,223,False
+Evan Fournier,1,6,53,1,Step Back Jump shot,14,-22,145,True
+Evan Fournier,4,4,10,0,Step Back Jump shot,21,43,212,True
+Evan Fournier,2,0,41,0,Step Back Jump shot,24,22,246,False
+Evan Fournier,3,5,39,0,Step Back Jump shot,14,141,21,True
+Evan Fournier,4,4,52,1,Step Back Jump shot,26,84,249,False
+Evan Fournier,4,0,47,1,Step Back Jump shot,25,98,231,False
+Evan Fournier,4,2,0,0,Step Back Jump shot,24,-125,205,False
+Evan Fournier,4,0,57,1,Step Back Jump shot,19,95,169,True
+Evan Fournier,2,2,14,0,Step Back Jump shot,24,-19,246,False
+Evan Fournier,3,3,21,0,Step Back Jump shot,24,-183,169,False
+Evan Fournier,3,8,25,0,Step Back Jump shot,12,-61,112,True
+Evan Fournier,3,10,50,1,Step Back Jump shot,19,-89,169,True
+Evan Fournier,2,0,25,0,Step Back Jump shot,17,73,154,True
+Evan Fournier,2,0,45,1,Tip Layup Shot,0,0,-6,True
+Evan Fournier,2,4,34,0,Turnaround Fadeaway shot,17,-168,34,True
+Evan Fournier,2,3,28,0,Turnaround Jump Shot,22,-78,210,True
+Evan Fournier,3,7,23,1,Turnaround Jump Shot,6,41,53,True
+Evan Fournier,1,9,30,0,Turnaround Jump Shot,11,47,110,True
+Evan Fournier,4,1,41,0,Turnaround Jump Shot,26,97,248,False

@@ -1,0 +1,388 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Rudy Gobert,2,0,25,1,Alley Oop Dunk Shot,1,11,11,True
+Rudy Gobert,2,6,55,1,Alley Oop Dunk Shot,2,-18,13,True
+Rudy Gobert,1,4,7,1,Alley Oop Dunk Shot,0,-1,5,True
+Rudy Gobert,4,7,35,1,Alley Oop Dunk Shot,1,5,13,True
+Rudy Gobert,1,8,7,1,Alley Oop Dunk Shot,1,-1,11,True
+Rudy Gobert,2,1,55,1,Alley Oop Dunk Shot,0,6,7,True
+Rudy Gobert,4,7,44,1,Alley Oop Dunk Shot,1,9,12,True
+Rudy Gobert,1,9,47,1,Alley Oop Dunk Shot,2,13,21,True
+Rudy Gobert,1,4,31,1,Alley Oop Dunk Shot,1,-11,16,True
+Rudy Gobert,3,2,22,1,Alley Oop Dunk Shot,2,-3,22,True
+Rudy Gobert,4,1,38,1,Alley Oop Dunk Shot,1,-8,14,True
+Rudy Gobert,1,6,56,1,Alley Oop Dunk Shot,0,2,4,True
+Rudy Gobert,4,8,34,0,Alley Oop Dunk Shot,1,-15,11,True
+Rudy Gobert,1,3,15,1,Alley Oop Dunk Shot,0,0,1,True
+Rudy Gobert,4,0,53,1,Alley Oop Dunk Shot,2,23,15,True
+Rudy Gobert,4,3,43,0,Alley Oop Dunk Shot,1,-12,10,True
+Rudy Gobert,2,0,37,1,Alley Oop Dunk Shot,0,-5,-2,True
+Rudy Gobert,3,5,47,1,Alley Oop Layup shot,1,13,8,True
+Rudy Gobert,3,10,46,1,Alley Oop Layup shot,1,-13,10,True
+Rudy Gobert,2,8,9,1,Alley Oop Layup shot,2,9,20,True
+Rudy Gobert,4,3,1,1,Alley Oop Layup shot,1,1,19,True
+Rudy Gobert,3,11,44,1,Alley Oop Layup shot,1,-11,4,True
+Rudy Gobert,4,4,11,0,Alley Oop Layup shot,1,8,12,True
+Rudy Gobert,2,7,12,0,Alley Oop Layup shot,2,14,20,True
+Rudy Gobert,1,2,41,1,Alley Oop Layup shot,6,-13,68,True
+Rudy Gobert,4,9,31,1,Alley Oop Layup shot,1,14,3,True
+Rudy Gobert,4,3,50,1,Alley Oop Layup shot,2,3,28,True
+Rudy Gobert,1,4,22,1,Alley Oop Layup shot,1,11,10,True
+Rudy Gobert,3,8,17,1,Cutting Dunk Shot,2,0,25,True
+Rudy Gobert,4,0,10,1,Cutting Dunk Shot,3,5,34,True
+Rudy Gobert,4,2,32,1,Cutting Dunk Shot,3,-6,30,True
+Rudy Gobert,3,7,9,1,Cutting Dunk Shot,1,0,15,True
+Rudy Gobert,1,10,31,1,Cutting Dunk Shot,2,-7,27,True
+Rudy Gobert,2,1,54,1,Cutting Dunk Shot,2,4,28,True
+Rudy Gobert,3,4,50,1,Cutting Dunk Shot,1,6,10,True
+Rudy Gobert,3,11,1,1,Cutting Dunk Shot,1,11,-11,True
+Rudy Gobert,3,4,9,1,Cutting Dunk Shot,0,8,0,True
+Rudy Gobert,3,3,22,1,Cutting Dunk Shot,1,7,13,True
+Rudy Gobert,1,3,37,1,Cutting Dunk Shot,0,-1,5,True
+Rudy Gobert,1,9,36,1,Cutting Dunk Shot,1,-5,17,True
+Rudy Gobert,3,4,19,1,Cutting Dunk Shot,2,-14,17,True
+Rudy Gobert,4,3,43,1,Cutting Dunk Shot,1,8,9,True
+Rudy Gobert,4,6,35,0,Cutting Dunk Shot,3,19,32,True
+Rudy Gobert,3,5,30,1,Cutting Dunk Shot,1,-6,13,True
+Rudy Gobert,3,5,20,1,Cutting Dunk Shot,0,-2,4,True
+Rudy Gobert,2,4,54,1,Cutting Dunk Shot,1,-2,15,True
+Rudy Gobert,1,5,19,1,Cutting Dunk Shot,2,0,28,True
+Rudy Gobert,2,1,39,1,Cutting Dunk Shot,0,-2,-6,True
+Rudy Gobert,2,4,55,1,Cutting Dunk Shot,2,16,23,True
+Rudy Gobert,3,8,48,1,Cutting Dunk Shot,0,-4,9,True
+Rudy Gobert,3,6,7,1,Cutting Dunk Shot,2,-1,20,True
+Rudy Gobert,2,2,13,1,Cutting Dunk Shot,1,3,12,True
+Rudy Gobert,1,3,36,1,Cutting Dunk Shot,0,-6,6,True
+Rudy Gobert,1,3,19,1,Cutting Dunk Shot,0,0,6,True
+Rudy Gobert,1,6,25,1,Cutting Dunk Shot,1,-4,11,True
+Rudy Gobert,2,7,11,1,Cutting Finger Roll Layup Shot,2,0,28,True
+Rudy Gobert,2,1,52,1,Cutting Finger Roll Layup Shot,1,3,18,True
+Rudy Gobert,3,3,58,1,Cutting Finger Roll Layup Shot,1,-14,8,True
+Rudy Gobert,1,9,36,0,Cutting Finger Roll Layup Shot,3,19,25,True
+Rudy Gobert,2,5,16,1,Cutting Finger Roll Layup Shot,1,3,10,True
+Rudy Gobert,1,6,43,1,Cutting Finger Roll Layup Shot,1,11,13,True
+Rudy Gobert,3,5,0,1,Cutting Finger Roll Layup Shot,2,14,17,True
+Rudy Gobert,3,8,14,1,Cutting Finger Roll Layup Shot,3,19,30,True
+Rudy Gobert,1,8,53,1,Cutting Layup Shot,2,3,20,True
+Rudy Gobert,4,4,44,1,Cutting Layup Shot,1,7,8,True
+Rudy Gobert,3,9,1,1,Cutting Layup Shot,2,16,22,True
+Rudy Gobert,3,6,49,1,Cutting Layup Shot,1,-6,15,True
+Rudy Gobert,2,7,24,1,Cutting Layup Shot,0,2,2,True
+Rudy Gobert,1,10,44,0,Cutting Layup Shot,2,16,12,True
+Rudy Gobert,3,10,12,1,Cutting Layup Shot,1,7,12,True
+Rudy Gobert,3,6,9,0,Cutting Layup Shot,3,24,22,True
+Rudy Gobert,1,9,11,0,Cutting Layup Shot,1,8,15,True
+Rudy Gobert,2,0,51,1,Cutting Layup Shot,1,11,10,True
+Rudy Gobert,2,2,37,1,Cutting Layup Shot,1,-9,10,True
+Rudy Gobert,2,1,8,1,Cutting Layup Shot,1,15,4,True
+Rudy Gobert,1,9,20,1,Cutting Layup Shot,1,-14,12,True
+Rudy Gobert,1,8,1,1,Cutting Layup Shot,1,13,5,True
+Rudy Gobert,2,5,36,0,Cutting Layup Shot,3,27,15,True
+Rudy Gobert,1,3,38,1,Cutting Layup Shot,1,4,10,True
+Rudy Gobert,4,8,44,0,Cutting Layup Shot,1,7,8,True
+Rudy Gobert,4,0,52,1,Cutting Layup Shot,2,0,24,True
+Rudy Gobert,1,6,38,0,Cutting Layup Shot,2,-15,21,True
+Rudy Gobert,3,6,57,0,Cutting Layup Shot,10,0,108,True
+Rudy Gobert,2,2,45,0,Cutting Layup Shot,2,9,25,True
+Rudy Gobert,3,8,3,1,Cutting Layup Shot,1,2,16,True
+Rudy Gobert,3,0,24,0,Cutting Layup Shot,1,-1,17,True
+Rudy Gobert,2,6,7,0,Cutting Layup Shot,1,14,11,True
+Rudy Gobert,4,1,7,1,Cutting Layup Shot,2,20,16,True
+Rudy Gobert,1,8,47,1,Cutting Layup Shot,0,-3,7,True
+Rudy Gobert,1,11,43,0,Cutting Layup Shot,3,3,30,True
+Rudy Gobert,2,3,27,1,Driving Dunk Shot,6,17,66,True
+Rudy Gobert,3,10,34,1,Driving Dunk Shot,1,13,10,True
+Rudy Gobert,1,1,33,1,Driving Dunk Shot,2,-7,23,True
+Rudy Gobert,1,11,13,0,Driving Dunk Shot,1,7,17,True
+Rudy Gobert,3,5,31,1,Driving Dunk Shot,1,17,5,True
+Rudy Gobert,1,11,30,1,Driving Dunk Shot,1,-14,10,True
+Rudy Gobert,3,11,20,0,Driving Finger Roll Layup Shot,1,19,5,True
+Rudy Gobert,3,8,19,0,Driving Finger Roll Layup Shot,3,-5,30,True
+Rudy Gobert,2,1,9,1,Driving Finger Roll Layup Shot,5,-1,54,True
+Rudy Gobert,3,6,31,1,Driving Floating Bank Jump Shot,3,-1,36,True
+Rudy Gobert,2,0,50,1,Driving Floating Bank Jump Shot,2,12,25,True
+Rudy Gobert,1,11,38,0,Driving Floating Bank Jump Shot,3,-6,33,True
+Rudy Gobert,2,4,16,0,Driving Hook Shot,4,-25,42,True
+Rudy Gobert,1,4,38,0,Driving Hook Shot,6,-33,54,True
+Rudy Gobert,1,8,30,0,Driving Hook Shot,2,-22,12,True
+Rudy Gobert,2,7,51,0,Driving Hook Shot,10,-50,91,True
+Rudy Gobert,3,10,3,0,Driving Hook Shot,4,-35,26,True
+Rudy Gobert,2,7,15,0,Driving Layup Shot,4,12,43,True
+Rudy Gobert,1,11,46,1,Driving Layup Shot,3,-31,6,True
+Rudy Gobert,2,1,5,1,Driving Layup Shot,1,-5,11,True
+Rudy Gobert,3,11,44,0,Driving Layup Shot,2,-26,14,True
+Rudy Gobert,1,3,31,1,Driving Layup Shot,2,18,23,True
+Rudy Gobert,1,7,52,0,Driving Layup Shot,1,14,-1,True
+Rudy Gobert,3,11,39,0,Driving Layup Shot,1,13,1,True
+Rudy Gobert,1,10,3,1,Driving Layup Shot,1,-11,13,True
+Rudy Gobert,1,8,4,1,Driving Layup Shot,1,14,6,True
+Rudy Gobert,3,10,2,0,Driving Reverse Dunk Shot,2,-22,17,True
+Rudy Gobert,2,2,5,1,Driving Reverse Dunk Shot,0,-2,4,True
+Rudy Gobert,3,10,6,1,Dunk Shot,1,-15,13,True
+Rudy Gobert,1,8,10,1,Dunk Shot,0,-2,6,True
+Rudy Gobert,3,6,59,1,Dunk Shot,0,2,8,True
+Rudy Gobert,4,0,28,1,Dunk Shot,1,-5,16,True
+Rudy Gobert,4,7,52,1,Dunk Shot,2,2,28,True
+Rudy Gobert,2,2,9,1,Dunk Shot,1,-12,-6,True
+Rudy Gobert,1,3,55,1,Dunk Shot,1,-3,11,True
+Rudy Gobert,2,3,43,1,Dunk Shot,1,14,-1,True
+Rudy Gobert,2,3,35,1,Dunk Shot,1,-5,15,True
+Rudy Gobert,1,6,8,1,Dunk Shot,1,18,8,True
+Rudy Gobert,2,8,9,1,Dunk Shot,1,2,15,True
+Rudy Gobert,3,3,41,1,Dunk Shot,2,20,16,True
+Rudy Gobert,4,0,48,1,Dunk Shot,2,7,20,True
+Rudy Gobert,2,5,6,1,Dunk Shot,3,-8,29,True
+Rudy Gobert,3,4,48,1,Dunk Shot,1,-10,16,True
+Rudy Gobert,1,8,12,1,Dunk Shot,2,5,20,True
+Rudy Gobert,1,4,10,1,Dunk Shot,1,-16,10,True
+Rudy Gobert,2,2,32,1,Dunk Shot,3,-12,28,True
+Rudy Gobert,3,9,21,1,Dunk Shot,1,14,12,True
+Rudy Gobert,2,2,50,1,Dunk Shot,1,-6,15,True
+Rudy Gobert,1,8,8,1,Dunk Shot,3,-3,31,True
+Rudy Gobert,2,1,35,1,Dunk Shot,1,0,12,True
+Rudy Gobert,3,6,39,1,Dunk Shot,2,-3,22,True
+Rudy Gobert,3,4,32,1,Dunk Shot,1,-13,13,True
+Rudy Gobert,2,0,47,1,Dunk Shot,1,3,17,True
+Rudy Gobert,1,2,47,1,Dunk Shot,1,3,14,True
+Rudy Gobert,2,6,16,1,Dunk Shot,4,20,35,True
+Rudy Gobert,4,0,29,1,Dunk Shot,2,-16,18,True
+Rudy Gobert,1,5,2,1,Dunk Shot,1,11,4,True
+Rudy Gobert,3,4,58,0,Dunk Shot,1,3,18,True
+Rudy Gobert,3,7,43,0,Dunk Shot,3,-15,32,True
+Rudy Gobert,3,4,46,1,Dunk Shot,0,-4,-8,True
+Rudy Gobert,3,8,29,1,Dunk Shot,5,-32,42,True
+Rudy Gobert,2,3,22,1,Dunk Shot,1,-12,11,True
+Rudy Gobert,2,0,10,1,Dunk Shot,1,6,17,True
+Rudy Gobert,1,10,26,1,Dunk Shot,0,6,4,True
+Rudy Gobert,4,3,7,1,Dunk Shot,2,2,25,True
+Rudy Gobert,1,7,0,1,Dunk Shot,1,13,5,True
+Rudy Gobert,3,4,47,1,Dunk Shot,2,-2,25,True
+Rudy Gobert,3,4,7,1,Dunk Shot,0,5,8,True
+Rudy Gobert,1,5,56,1,Dunk Shot,1,-5,13,True
+Rudy Gobert,4,6,33,1,Dunk Shot,2,-3,27,True
+Rudy Gobert,3,4,15,0,Dunk Shot,5,-2,50,True
+Rudy Gobert,1,10,17,1,Dunk Shot,0,-5,8,True
+Rudy Gobert,1,6,12,1,Dunk Shot,2,4,23,True
+Rudy Gobert,2,5,54,1,Dunk Shot,2,-2,21,True
+Rudy Gobert,2,9,12,1,Dunk Shot,0,0,4,True
+Rudy Gobert,2,2,46,1,Dunk Shot,2,4,20,True
+Rudy Gobert,1,9,11,1,Dunk Shot,0,-2,1,True
+Rudy Gobert,4,3,24,1,Dunk Shot,3,-13,31,True
+Rudy Gobert,4,7,42,1,Dunk Shot,1,4,18,True
+Rudy Gobert,2,7,2,1,Dunk Shot,1,0,16,True
+Rudy Gobert,1,10,37,1,Dunk Shot,2,6,27,True
+Rudy Gobert,1,10,48,1,Dunk Shot,0,-6,5,True
+Rudy Gobert,2,4,50,1,Dunk Shot,1,-2,17,True
+Rudy Gobert,2,2,19,0,Dunk Shot,0,-4,9,True
+Rudy Gobert,4,9,23,1,Dunk Shot,0,-3,9,True
+Rudy Gobert,1,3,36,1,Dunk Shot,2,-5,21,True
+Rudy Gobert,4,0,6,1,Dunk Shot,2,2,24,True
+Rudy Gobert,1,7,21,1,Dunk Shot,2,-19,8,True
+Rudy Gobert,1,4,38,0,Finger Roll Layup Shot,2,-3,25,True
+Rudy Gobert,3,2,8,0,Finger Roll Layup Shot,2,-18,21,True
+Rudy Gobert,1,10,43,1,Finger Roll Layup Shot,2,-11,17,True
+Rudy Gobert,4,7,1,0,Floating Jump shot,5,-32,43,True
+Rudy Gobert,3,6,21,0,Floating Jump shot,7,-12,69,True
+Rudy Gobert,3,10,32,0,Floating Jump shot,14,-98,109,True
+Rudy Gobert,1,10,12,0,Floating Jump shot,11,-5,112,True
+Rudy Gobert,4,8,49,0,Floating Jump shot,9,-15,93,True
+Rudy Gobert,4,2,54,0,Floating Jump shot,9,44,84,True
+Rudy Gobert,2,5,34,0,Floating Jump shot,12,2,128,True
+Rudy Gobert,1,10,12,1,Hook Bank Shot,4,-27,33,True
+Rudy Gobert,1,8,56,1,Hook Shot,3,-7,34,True
+Rudy Gobert,2,0,37,0,Hook Shot,7,-18,76,True
+Rudy Gobert,1,6,31,0,Hook Shot,7,-45,60,True
+Rudy Gobert,1,11,44,0,Hook Shot,6,-52,44,True
+Rudy Gobert,2,5,6,0,Hook Shot,10,-34,96,True
+Rudy Gobert,4,7,0,0,Hook Shot,7,-47,56,True
+Rudy Gobert,1,7,21,0,Hook Shot,4,-34,34,True
+Rudy Gobert,3,10,8,0,Hook Shot,10,-3,101,True
+Rudy Gobert,4,2,57,1,Hook Shot,3,32,17,True
+Rudy Gobert,1,11,17,0,Hook Shot,5,13,55,True
+Rudy Gobert,1,10,32,0,Hook Shot,4,12,48,True
+Rudy Gobert,1,5,43,1,Hook Shot,5,-29,50,True
+Rudy Gobert,1,11,35,0,Hook Shot,3,4,39,True
+Rudy Gobert,3,4,28,0,Hook Shot,6,-21,64,True
+Rudy Gobert,3,10,42,1,Jump Bank Shot,14,-129,57,True
+Rudy Gobert,3,10,56,1,Jump Bank Shot,3,11,32,True
+Rudy Gobert,2,3,45,1,Jump Bank Shot,3,-27,29,True
+Rudy Gobert,3,10,5,0,Jump Shot,19,7,195,True
+Rudy Gobert,1,6,35,0,Jump Shot,17,-80,155,True
+Rudy Gobert,3,6,12,0,Jump Shot,6,22,57,True
+Rudy Gobert,4,6,13,0,Jump Shot,18,-36,184,True
+Rudy Gobert,1,10,33,0,Jump Shot,18,-100,158,True
+Rudy Gobert,1,11,47,1,Jump Shot,17,78,153,True
+Rudy Gobert,1,7,3,0,Jump Shot,13,6,138,True
+Rudy Gobert,1,7,41,0,Jump Shot,6,-57,34,True
+Rudy Gobert,1,8,37,0,Jump Shot,0,3,8,True
+Rudy Gobert,4,6,34,0,Jump Shot,18,-74,165,True
+Rudy Gobert,3,10,56,0,Jump Shot,2,20,9,True
+Rudy Gobert,1,10,20,0,Jump Shot,4,-45,15,True
+Rudy Gobert,1,9,22,0,Jump Shot,7,-30,74,True
+Rudy Gobert,4,7,5,1,Jump Shot,20,40,202,True
+Rudy Gobert,2,4,8,1,Jump Shot,16,-3,167,True
+Rudy Gobert,3,11,50,1,Jump Shot,18,-109,152,True
+Rudy Gobert,2,1,1,0,Jump Shot,8,-27,83,True
+Rudy Gobert,3,8,17,0,Layup Shot,3,0,36,True
+Rudy Gobert,4,4,27,1,Layup Shot,1,12,8,True
+Rudy Gobert,2,6,32,0,Layup Shot,0,2,4,True
+Rudy Gobert,1,10,59,0,Layup Shot,2,-5,29,True
+Rudy Gobert,1,6,57,0,Layup Shot,1,-10,15,True
+Rudy Gobert,2,0,27,0,Layup Shot,2,-7,22,True
+Rudy Gobert,1,6,41,0,Layup Shot,4,-2,43,True
+Rudy Gobert,4,4,49,1,Layup Shot,2,18,11,True
+Rudy Gobert,4,4,30,0,Layup Shot,2,-22,14,True
+Rudy Gobert,1,10,7,0,Layup Shot,1,14,10,True
+Rudy Gobert,2,5,17,0,Layup Shot,4,23,34,True
+Rudy Gobert,2,7,7,0,Layup Shot,5,-16,50,True
+Rudy Gobert,2,5,43,0,Layup Shot,8,2,82,True
+Rudy Gobert,3,10,22,1,Layup Shot,1,6,14,True
+Rudy Gobert,2,8,9,1,Layup Shot,1,11,10,True
+Rudy Gobert,2,7,58,1,Layup Shot,1,-15,8,True
+Rudy Gobert,4,5,21,1,Layup Shot,2,-20,10,True
+Rudy Gobert,1,10,30,1,Layup Shot,1,-10,13,True
+Rudy Gobert,1,5,19,1,Layup Shot,2,-24,10,True
+Rudy Gobert,2,1,39,0,Layup Shot,2,-14,23,True
+Rudy Gobert,4,9,58,0,Layup Shot,2,-9,24,True
+Rudy Gobert,1,10,39,0,Layup Shot,2,-18,17,True
+Rudy Gobert,2,8,48,0,Layup Shot,2,-20,2,True
+Rudy Gobert,4,3,23,0,Layup Shot,3,3,32,True
+Rudy Gobert,1,10,44,0,Layup Shot,1,11,5,True
+Rudy Gobert,3,5,39,1,Layup Shot,3,-24,18,True
+Rudy Gobert,2,7,22,0,Layup Shot,2,1,23,True
+Rudy Gobert,2,3,4,0,Layup Shot,5,-36,37,True
+Rudy Gobert,3,7,59,0,Layup Shot,7,-32,63,True
+Rudy Gobert,1,10,39,0,Layup Shot,2,8,23,True
+Rudy Gobert,5,3,15,1,Layup Shot,1,-1,12,True
+Rudy Gobert,3,7,3,1,Layup Shot,2,27,8,True
+Rudy Gobert,3,11,19,0,Layup Shot,3,-18,32,True
+Rudy Gobert,3,5,58,0,Layup Shot,4,39,22,True
+Rudy Gobert,3,4,14,1,Layup Shot,6,2,61,True
+Rudy Gobert,2,1,50,1,Layup Shot,2,-3,21,True
+Rudy Gobert,1,2,35,1,Layup Shot,1,-13,5,True
+Rudy Gobert,3,9,38,1,Layup Shot,1,-18,6,True
+Rudy Gobert,1,3,50,1,Layup Shot,1,9,16,True
+Rudy Gobert,2,0,7,0,Layup Shot,1,0,13,True
+Rudy Gobert,1,7,47,1,Layup Shot,1,-2,17,True
+Rudy Gobert,1,8,22,1,Layup Shot,0,0,9,True
+Rudy Gobert,4,0,5,0,Layup Shot,1,11,15,True
+Rudy Gobert,4,0,5,0,Layup Shot,0,9,1,True
+Rudy Gobert,2,5,13,1,Layup Shot,1,3,11,True
+Rudy Gobert,2,0,54,1,Layup Shot,2,15,15,True
+Rudy Gobert,2,5,5,0,Layup Shot,5,-28,50,True
+Rudy Gobert,1,3,59,1,Layup Shot,1,2,12,True
+Rudy Gobert,3,10,21,0,Layup Shot,3,-14,32,True
+Rudy Gobert,2,2,59,0,Layup Shot,1,-12,13,True
+Rudy Gobert,3,11,43,1,Layup Shot,1,-18,4,True
+Rudy Gobert,3,9,45,0,Layup Shot,3,-3,32,True
+Rudy Gobert,4,1,38,0,Layup Shot,3,25,27,True
+Rudy Gobert,4,0,10,1,Layup Shot,1,16,7,True
+Rudy Gobert,4,8,9,1,Layup Shot,1,6,9,True
+Rudy Gobert,3,5,59,0,Layup Shot,5,2,52,True
+Rudy Gobert,2,6,28,0,Layup Shot,6,6,60,True
+Rudy Gobert,2,3,28,0,Layup Shot,3,27,19,True
+Rudy Gobert,3,1,57,1,Layup Shot,1,-9,10,True
+Rudy Gobert,1,5,45,1,Layup Shot,0,-5,8,True
+Rudy Gobert,1,4,6,0,Layup Shot,2,-18,10,True
+Rudy Gobert,3,9,1,0,Layup Shot,2,-2,20,True
+Rudy Gobert,5,1,58,0,Layup Shot,1,-2,14,True
+Rudy Gobert,3,8,6,1,Layup Shot,1,-13,10,True
+Rudy Gobert,1,7,18,0,Layup Shot,4,15,47,True
+Rudy Gobert,1,3,37,0,Layup Shot,2,-9,28,True
+Rudy Gobert,3,10,3,1,Layup Shot,1,14,10,True
+Rudy Gobert,1,4,19,0,Layup Shot,2,-19,22,True
+Rudy Gobert,3,6,43,1,Layup Shot,2,-19,15,True
+Rudy Gobert,1,8,38,1,Layup Shot,0,0,9,True
+Rudy Gobert,1,11,4,0,Layup Shot,1,2,18,True
+Rudy Gobert,2,2,52,0,Layup Shot,5,-13,52,True
+Rudy Gobert,1,11,18,0,Layup Shot,1,-10,13,True
+Rudy Gobert,5,2,15,0,Layup Shot,1,-2,16,True
+Rudy Gobert,3,9,45,1,Layup Shot,1,15,13,True
+Rudy Gobert,4,8,14,1,Layup Shot,1,11,15,True
+Rudy Gobert,2,1,34,1,Layup Shot,2,-7,28,True
+Rudy Gobert,2,2,43,1,Layup Shot,3,-14,32,True
+Rudy Gobert,4,9,5,0,Layup Shot,2,19,11,True
+Rudy Gobert,3,7,59,1,Layup Shot,2,2,21,True
+Rudy Gobert,4,4,26,1,Putback Dunk Shot,0,0,-6,True
+Rudy Gobert,3,0,22,1,Putback Dunk Shot,0,-6,2,True
+Rudy Gobert,1,6,35,1,Putback Dunk Shot,0,0,-6,True
+Rudy Gobert,2,2,12,1,Putback Dunk Shot,0,0,-6,True
+Rudy Gobert,1,4,28,1,Putback Dunk Shot,0,0,-6,True
+Rudy Gobert,3,8,32,1,Putback Dunk Shot,1,1,19,True
+Rudy Gobert,4,5,43,1,Putback Dunk Shot,0,0,-6,True
+Rudy Gobert,3,8,14,0,Putback Dunk Shot,0,0,-6,True
+Rudy Gobert,2,11,5,1,Putback Dunk Shot,0,0,-6,True
+Rudy Gobert,2,0,16,0,Putback Dunk Shot,0,0,-6,True
+Rudy Gobert,2,5,35,1,Putback Dunk Shot,0,-8,0,True
+Rudy Gobert,1,4,0,1,Putback Dunk Shot,0,0,-6,True
+Rudy Gobert,3,6,40,1,Putback Dunk Shot,0,0,-6,True
+Rudy Gobert,1,1,29,1,Putback Dunk Shot,0,0,-6,True
+Rudy Gobert,1,2,56,1,Putback Dunk Shot,0,0,-6,True
+Rudy Gobert,2,6,30,1,Putback Layup Shot,1,9,15,True
+Rudy Gobert,2,10,43,1,Reverse Dunk Shot,1,-19,2,True
+Rudy Gobert,3,5,19,1,Reverse Dunk Shot,1,-5,17,True
+Rudy Gobert,2,5,58,0,Reverse Layup Shot,2,-14,15,True
+Rudy Gobert,2,6,47,1,Reverse Layup Shot,2,-19,8,True
+Rudy Gobert,4,6,32,0,Reverse Layup Shot,8,-84,27,True
+Rudy Gobert,4,8,24,1,Reverse Layup Shot,1,10,6,True
+Rudy Gobert,1,7,46,0,Reverse Layup Shot,1,-14,6,True
+Rudy Gobert,2,4,57,0,Reverse Layup Shot,2,-3,20,True
+Rudy Gobert,1,3,53,0,Reverse Layup Shot,1,11,8,True
+Rudy Gobert,4,7,1,1,Reverse Layup Shot,0,8,-4,True
+Rudy Gobert,1,8,14,1,Reverse Layup Shot,2,-25,7,True
+Rudy Gobert,4,5,14,1,Reverse Layup Shot,2,-24,16,True
+Rudy Gobert,4,2,33,1,Reverse Layup Shot,2,-22,17,True
+Rudy Gobert,1,8,17,0,Reverse Layup Shot,1,-16,2,True
+Rudy Gobert,3,10,45,0,Reverse Layup Shot,3,33,8,True
+Rudy Gobert,3,5,19,1,Reverse Layup Shot,1,-16,-2,True
+Rudy Gobert,1,11,40,1,Reverse Layup Shot,1,15,8,True
+Rudy Gobert,3,5,57,1,Reverse Layup Shot,1,-16,6,True
+Rudy Gobert,1,4,57,1,Running Alley Oop Layup Shot,2,-17,16,True
+Rudy Gobert,1,10,5,1,Running Dunk Shot,0,9,0,True
+Rudy Gobert,1,6,45,1,Running Layup Shot,0,2,2,True
+Rudy Gobert,1,9,24,1,Running Layup Shot,2,4,28,True
+Rudy Gobert,1,3,35,1,Tip Dunk Shot,0,0,-6,True
+Rudy Gobert,3,2,56,1,Tip Dunk Shot,0,0,-6,True
+Rudy Gobert,2,4,58,1,Tip Dunk Shot,0,0,-6,True
+Rudy Gobert,3,9,20,1,Tip Dunk Shot,2,-6,23,True
+Rudy Gobert,2,1,13,1,Tip Dunk Shot,1,13,11,True
+Rudy Gobert,1,10,11,1,Tip Dunk Shot,0,0,-6,True
+Rudy Gobert,1,1,48,1,Tip Dunk Shot,0,0,-6,True
+Rudy Gobert,3,10,48,1,Tip Dunk Shot,1,-5,17,True
+Rudy Gobert,2,5,1,1,Tip Dunk Shot,0,0,-6,True
+Rudy Gobert,1,11,11,0,Tip Layup Shot,2,2,27,True
+Rudy Gobert,2,3,45,0,Tip Layup Shot,2,2,25,True
+Rudy Gobert,2,3,43,0,Tip Layup Shot,2,-4,24,True
+Rudy Gobert,4,10,12,1,Tip Layup Shot,0,3,6,True
+Rudy Gobert,2,8,21,1,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,1,10,39,0,Tip Layup Shot,1,16,7,True
+Rudy Gobert,3,10,44,0,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,4,5,53,0,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,3,10,2,1,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,4,11,28,1,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,2,8,6,0,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,4,7,58,0,Tip Layup Shot,1,9,12,True
+Rudy Gobert,3,10,19,1,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,3,8,22,0,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,3,7,15,0,Tip Layup Shot,1,-9,11,True
+Rudy Gobert,2,7,4,0,Tip Layup Shot,1,-10,17,True
+Rudy Gobert,2,3,29,1,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,3,11,21,0,Tip Layup Shot,0,5,-1,True
+Rudy Gobert,4,1,56,0,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,4,1,54,0,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,1,9,22,0,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,2,4,51,1,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,2,2,39,0,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,1,1,59,1,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,1,1,32,0,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,4,3,58,0,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,1,8,53,0,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,4,7,1,1,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,4,2,9,1,Tip Layup Shot,0,0,-6,True
+Rudy Gobert,1,0,53,1,Turnaround Bank Hook Shot,2,20,6,True
+Rudy Gobert,3,2,28,0,Turnaround Hook Shot,4,-32,24,True
+Rudy Gobert,2,1,20,1,Turnaround Hook Shot,4,3,43,True
+Rudy Gobert,3,11,43,0,Turnaround Hook Shot,6,-3,68,True
+Rudy Gobert,1,5,15,1,Turnaround Hook Shot,3,13,31,True
+Rudy Gobert,1,5,42,0,Turnaround Hook Shot,2,-7,21,True
+Rudy Gobert,4,0,18,1,Turnaround Hook Shot,2,-2,25,True
+Rudy Gobert,2,5,31,0,Turnaround Jump Shot,2,25,8,True

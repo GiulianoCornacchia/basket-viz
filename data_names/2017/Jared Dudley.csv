@@ -1,0 +1,112 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jared Dudley,4,2,48,1,Cutting Layup Shot,1,18,6,True
+Jared Dudley,3,2,46,1,Cutting Layup Shot,1,12,-4,True
+Jared Dudley,2,7,57,1,Cutting Layup Shot,0,5,5,True
+Jared Dudley,4,9,17,1,Cutting Layup Shot,0,4,4,True
+Jared Dudley,1,0,49,1,Cutting Layup Shot,0,5,8,True
+Jared Dudley,3,2,41,1,Driving Finger Roll Layup Shot,1,14,-4,True
+Jared Dudley,1,6,45,0,Driving Finger Roll Layup Shot,2,7,27,True
+Jared Dudley,4,5,52,1,Driving Finger Roll Layup Shot,0,4,-1,True
+Jared Dudley,4,11,9,0,Driving Finger Roll Layup Shot,3,28,21,True
+Jared Dudley,2,8,36,0,Driving Finger Roll Layup Shot,6,64,1,True
+Jared Dudley,4,1,36,0,Driving Floating Jump Shot,6,25,62,True
+Jared Dudley,3,1,54,1,Driving Layup Shot,1,0,10,True
+Jared Dudley,1,2,36,1,Driving Layup Shot,1,2,10,True
+Jared Dudley,2,5,11,1,Driving Layup Shot,1,-19,-1,True
+Jared Dudley,1,3,21,0,Driving Layup Shot,2,22,8,True
+Jared Dudley,2,2,27,0,Driving Layup Shot,2,15,25,True
+Jared Dudley,3,1,50,1,Driving Layup Shot,0,-2,1,True
+Jared Dudley,2,8,0,1,Fadeaway Jump Shot,15,-155,11,True
+Jared Dudley,3,1,42,1,Jump Shot,23,231,-1,False
+Jared Dudley,2,10,8,0,Jump Shot,25,160,199,False
+Jared Dudley,2,10,24,1,Jump Shot,25,148,213,False
+Jared Dudley,4,7,4,0,Jump Shot,26,-22,262,False
+Jared Dudley,2,6,40,0,Jump Shot,25,120,225,False
+Jared Dudley,3,1,24,0,Jump Shot,22,229,0,False
+Jared Dudley,1,4,57,0,Jump Shot,22,229,0,False
+Jared Dudley,1,1,36,0,Jump Shot,26,147,219,False
+Jared Dudley,1,0,23,1,Jump Shot,25,4,257,False
+Jared Dudley,1,0,26,0,Jump Shot,25,40,254,False
+Jared Dudley,4,6,47,0,Jump Shot,25,38,248,False
+Jared Dudley,2,1,37,0,Jump Shot,19,42,194,True
+Jared Dudley,3,3,8,0,Jump Shot,26,-96,251,False
+Jared Dudley,4,3,36,0,Jump Shot,26,-32,263,False
+Jared Dudley,4,6,30,1,Jump Shot,25,156,200,False
+Jared Dudley,4,1,51,0,Jump Shot,25,103,235,False
+Jared Dudley,2,6,17,1,Jump Shot,25,-111,226,False
+Jared Dudley,2,5,45,0,Jump Shot,25,155,206,False
+Jared Dudley,4,11,29,0,Jump Shot,25,-27,250,False
+Jared Dudley,1,4,34,1,Jump Shot,26,-29,264,False
+Jared Dudley,4,8,44,1,Jump Shot,25,93,237,False
+Jared Dudley,2,6,49,0,Jump Shot,25,-38,252,False
+Jared Dudley,2,9,56,0,Jump Shot,25,-28,253,False
+Jared Dudley,3,3,5,1,Jump Shot,20,114,167,True
+Jared Dudley,3,1,26,0,Jump Shot,26,218,146,False
+Jared Dudley,2,9,30,1,Jump Shot,24,162,185,False
+Jared Dudley,2,10,31,0,Jump Shot,25,11,254,False
+Jared Dudley,2,8,54,0,Jump Shot,25,-131,222,False
+Jared Dudley,2,11,31,0,Jump Shot,27,-47,267,False
+Jared Dudley,3,0,33,0,Jump Shot,25,-106,230,False
+Jared Dudley,3,1,47,1,Jump Shot,25,-131,223,False
+Jared Dudley,3,3,3,0,Jump Shot,23,234,21,False
+Jared Dudley,2,7,44,0,Jump Shot,25,85,238,False
+Jared Dudley,3,5,48,0,Jump Shot,23,232,9,False
+Jared Dudley,3,5,20,0,Jump Shot,26,183,188,False
+Jared Dudley,3,4,46,1,Jump Shot,22,224,19,False
+Jared Dudley,2,8,58,1,Jump Shot,25,129,220,False
+Jared Dudley,3,1,8,0,Jump Shot,20,-200,-18,True
+Jared Dudley,4,0,0,0,Jump Shot,23,230,25,False
+Jared Dudley,3,5,9,1,Jump Shot,24,229,98,False
+Jared Dudley,4,8,53,0,Jump Shot,25,-4,255,False
+Jared Dudley,4,3,16,1,Jump Shot,25,104,232,False
+Jared Dudley,3,0,0,0,Jump Shot,25,-47,253,False
+Jared Dudley,4,4,36,1,Jump Shot,23,148,177,True
+Jared Dudley,4,4,3,1,Jump Shot,27,-214,168,False
+Jared Dudley,2,5,51,0,Jump Shot,25,162,199,False
+Jared Dudley,4,5,32,0,Jump Shot,23,235,25,False
+Jared Dudley,3,0,2,0,Jump Shot,23,-228,46,False
+Jared Dudley,4,8,59,1,Jump Shot,22,227,-13,False
+Jared Dudley,4,5,32,1,Jump Shot,23,232,4,False
+Jared Dudley,2,2,47,0,Jump Shot,26,-49,258,False
+Jared Dudley,1,2,44,1,Jump Shot,24,236,78,False
+Jared Dudley,4,10,58,0,Jump Shot,25,131,216,False
+Jared Dudley,3,1,20,1,Jump Shot,25,-100,235,False
+Jared Dudley,1,0,2,1,Jump Shot,22,-227,4,False
+Jared Dudley,2,9,19,0,Jump Shot,21,157,146,True
+Jared Dudley,2,7,15,0,Jump Shot,20,-91,182,True
+Jared Dudley,2,8,38,1,Jump Shot,25,116,226,False
+Jared Dudley,2,2,55,0,Jump Shot,25,64,246,False
+Jared Dudley,3,7,48,0,Jump Shot,26,-89,245,False
+Jared Dudley,3,6,8,0,Jump Shot,26,160,205,False
+Jared Dudley,2,10,7,1,Jump Shot,26,141,227,False
+Jared Dudley,4,7,15,0,Jump Shot,25,6,255,False
+Jared Dudley,4,6,47,0,Jump Shot,21,-9,216,True
+Jared Dudley,4,5,38,0,Jump Shot,22,223,16,False
+Jared Dudley,1,0,47,1,Jump Shot,22,226,-3,False
+Jared Dudley,2,5,17,0,Jump Shot,25,139,210,False
+Jared Dudley,3,2,4,1,Jump Shot,26,-125,231,False
+Jared Dudley,2,2,36,0,Jump Shot,27,-145,235,False
+Jared Dudley,2,8,41,0,Jump Shot,25,54,247,False
+Jared Dudley,2,4,4,0,Jump Shot,24,-194,157,False
+Jared Dudley,2,9,37,0,Jump Shot,25,225,110,False
+Jared Dudley,2,3,20,0,Layup Shot,2,18,17,True
+Jared Dudley,3,0,0,0,Layup Shot,1,-4,15,True
+Jared Dudley,2,3,55,0,Pullup Jump shot,25,92,237,False
+Jared Dudley,2,4,15,0,Pullup Jump shot,14,-105,101,True
+Jared Dudley,2,10,7,0,Pullup Jump shot,25,-28,249,False
+Jared Dudley,1,0,42,0,Pullup Jump shot,20,9,200,True
+Jared Dudley,1,3,50,1,Putback Layup Shot,1,15,2,True
+Jared Dudley,2,11,37,0,Putback Layup Shot,0,0,6,True
+Jared Dudley,1,0,0,0,Running Finger Roll Layup Shot,2,26,11,True
+Jared Dudley,3,3,44,0,Running Jump Shot,25,112,226,False
+Jared Dudley,3,0,55,1,Running Layup Shot,1,13,6,True
+Jared Dudley,3,0,59,1,Running Layup Shot,0,-3,4,True
+Jared Dudley,2,8,40,1,Step Back Jump shot,20,172,115,True
+Jared Dudley,4,1,44,0,Step Back Jump shot,24,-64,240,False
+Jared Dudley,2,3,53,0,Step Back Jump shot,17,173,4,True
+Jared Dudley,4,1,13,0,Step Back Jump shot,24,109,224,False
+Jared Dudley,4,10,14,0,Step Back Jump shot,18,96,163,True
+Jared Dudley,3,2,8,0,Tip Layup Shot,0,0,-6,True
+Jared Dudley,4,11,16,0,Turnaround Fadeaway shot,11,-111,26,True
+Jared Dudley,4,9,37,1,Turnaround Jump Shot,7,74,9,True
+Jared Dudley,2,11,36,0,Turnaround Jump Shot,14,-117,81,True

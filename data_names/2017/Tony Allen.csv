@@ -1,0 +1,85 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Tony Allen,3,0,59,1,Cutting Dunk Shot,0,6,5,True
+Tony Allen,4,5,56,0,Cutting Finger Roll Layup Shot,3,-9,36,True
+Tony Allen,4,4,48,1,Cutting Layup Shot,2,25,3,True
+Tony Allen,4,10,52,1,Cutting Layup Shot,1,-5,16,True
+Tony Allen,2,2,56,0,Cutting Layup Shot,1,9,6,True
+Tony Allen,4,6,38,1,Cutting Layup Shot,1,-11,3,True
+Tony Allen,4,8,39,1,Cutting Layup Shot,3,3,35,True
+Tony Allen,2,10,25,1,Cutting Layup Shot,0,6,-6,True
+Tony Allen,2,11,48,1,Cutting Layup Shot,1,-6,10,True
+Tony Allen,2,8,5,1,Driving Floating Bank Jump Shot,8,42,71,True
+Tony Allen,4,9,30,0,Driving Layup Shot,0,4,4,True
+Tony Allen,4,9,0,1,Driving Layup Shot,0,8,1,True
+Tony Allen,2,9,9,0,Driving Layup Shot,1,7,14,True
+Tony Allen,2,6,48,1,Driving Layup Shot,1,11,0,True
+Tony Allen,3,2,0,1,Driving Layup Shot,1,-10,4,True
+Tony Allen,4,11,42,0,Driving Layup Shot,2,-11,21,True
+Tony Allen,2,8,24,0,Driving Layup Shot,1,-8,11,True
+Tony Allen,2,9,32,0,Driving Layup Shot,1,10,10,True
+Tony Allen,2,11,32,0,Driving Reverse Layup Shot,2,11,17,True
+Tony Allen,2,11,21,0,Fadeaway Jump Shot,8,-81,13,True
+Tony Allen,4,5,50,1,Finger Roll Layup Shot,2,-4,20,True
+Tony Allen,2,1,12,0,Jump Shot,24,227,89,False
+Tony Allen,1,0,33,1,Jump Shot,22,-221,10,False
+Tony Allen,2,8,26,0,Jump Shot,25,-160,200,False
+Tony Allen,2,10,29,1,Jump Shot,22,228,1,False
+Tony Allen,1,4,46,0,Jump Shot,21,208,62,True
+Tony Allen,1,3,8,0,Jump Shot,24,-161,189,False
+Tony Allen,3,3,42,0,Jump Shot,1,8,6,True
+Tony Allen,4,7,11,0,Jump Shot,2,24,17,True
+Tony Allen,3,2,51,0,Jump Shot,22,-187,120,True
+Tony Allen,3,0,23,1,Jump Shot,22,-228,20,False
+Tony Allen,1,2,14,0,Jump Shot,6,-7,69,True
+Tony Allen,2,10,18,1,Jump Shot,21,208,37,True
+Tony Allen,3,0,0,0,Jump Shot,39,14,392,False
+Tony Allen,2,0,2,1,Jump Shot,24,193,154,False
+Tony Allen,2,0,0,0,Jump Shot,53,162,514,False
+Tony Allen,3,0,33,0,Jump Shot,23,231,1,False
+Tony Allen,4,11,0,0,Jump Shot,21,155,148,True
+Tony Allen,2,7,29,0,Jump Shot,24,144,195,False
+Tony Allen,1,0,49,0,Layup Shot,1,10,11,True
+Tony Allen,2,10,5,1,Layup Shot,1,11,1,True
+Tony Allen,2,3,55,0,Layup Shot,1,-12,12,True
+Tony Allen,1,1,15,0,Layup Shot,3,-20,26,True
+Tony Allen,3,1,41,1,Layup Shot,2,9,24,True
+Tony Allen,1,1,34,0,Layup Shot,5,-44,33,True
+Tony Allen,4,0,41,1,Layup Shot,8,-9,80,True
+Tony Allen,1,0,10,0,Layup Shot,0,3,1,True
+Tony Allen,4,11,35,1,Layup Shot,1,-14,13,True
+Tony Allen,2,7,58,1,Layup Shot,2,-22,4,True
+Tony Allen,3,1,13,0,Layup Shot,2,-27,5,True
+Tony Allen,1,0,19,0,Layup Shot,4,43,0,True
+Tony Allen,4,8,55,0,Layup Shot,2,-11,24,True
+Tony Allen,4,5,35,1,Layup Shot,3,3,33,True
+Tony Allen,4,10,31,1,Layup Shot,1,-11,4,True
+Tony Allen,3,9,22,0,Layup Shot,1,2,13,True
+Tony Allen,2,10,35,0,Layup Shot,2,-5,24,True
+Tony Allen,4,0,54,0,Layup Shot,1,-15,13,True
+Tony Allen,1,0,37,0,Layup Shot,1,15,12,True
+Tony Allen,3,0,13,1,Layup Shot,0,5,5,True
+Tony Allen,4,10,57,1,Layup Shot,1,-13,5,True
+Tony Allen,4,6,43,1,Layup Shot,0,0,5,True
+Tony Allen,4,11,41,0,Pullup Jump shot,17,174,26,True
+Tony Allen,1,0,47,1,Putback Layup Shot,0,0,-6,True
+Tony Allen,2,8,20,0,Putback Layup Shot,2,17,20,True
+Tony Allen,4,9,55,1,Reverse Layup Shot,1,-15,8,True
+Tony Allen,4,10,11,1,Reverse Layup Shot,0,4,-3,True
+Tony Allen,1,1,11,0,Reverse Layup Shot,1,14,8,True
+Tony Allen,2,0,31,1,Reverse Layup Shot,2,-22,7,True
+Tony Allen,2,7,8,1,Reverse Layup Shot,1,10,-1,True
+Tony Allen,4,7,12,0,Reverse Layup Shot,0,6,6,True
+Tony Allen,4,6,55,0,Reverse Layup Shot,1,-5,10,True
+Tony Allen,4,0,6,1,Running Dunk Shot,1,-3,10,True
+Tony Allen,1,6,19,1,Running Layup Shot,3,0,31,True
+Tony Allen,4,9,42,1,Running Layup Shot,1,-16,5,True
+Tony Allen,4,4,56,1,Running Layup Shot,0,4,8,True
+Tony Allen,3,0,18,1,Running Layup Shot,2,11,20,True
+Tony Allen,1,0,29,1,Running Layup Shot,1,13,12,True
+Tony Allen,4,7,46,1,Running Layup Shot,1,13,4,True
+Tony Allen,1,2,59,1,Running Layup Shot,0,-3,-2,True
+Tony Allen,1,2,12,1,Running Layup Shot,0,5,5,True
+Tony Allen,2,10,49,0,Running Reverse Layup Shot,1,9,15,True
+Tony Allen,4,9,25,1,Tip Layup Shot,0,0,-6,True
+Tony Allen,2,8,3,0,Turnaround Hook Shot,6,49,40,True
+Tony Allen,2,11,0,1,Turnaround Jump Shot,1,9,8,True

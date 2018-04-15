@@ -1,0 +1,533 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Cory Joseph,3,1,47,1,Cutting Finger Roll Layup Shot,1,-8,15,True
+Cory Joseph,1,3,14,0,Cutting Finger Roll Layup Shot,0,-5,5,True
+Cory Joseph,4,7,18,0,Cutting Layup Shot,5,29,48,True
+Cory Joseph,2,8,18,0,Cutting Layup Shot,1,-1,16,True
+Cory Joseph,3,9,21,0,Cutting Layup Shot,1,11,-1,True
+Cory Joseph,2,8,51,1,Cutting Layup Shot,0,0,0,True
+Cory Joseph,3,9,55,1,Driving Finger Roll Layup Shot,0,-3,5,True
+Cory Joseph,2,2,20,1,Driving Finger Roll Layup Shot,1,-2,16,True
+Cory Joseph,1,3,22,1,Driving Finger Roll Layup Shot,0,0,5,True
+Cory Joseph,2,0,2,1,Driving Finger Roll Layup Shot,1,4,16,True
+Cory Joseph,2,9,13,1,Driving Finger Roll Layup Shot,0,0,1,True
+Cory Joseph,3,10,13,1,Driving Finger Roll Layup Shot,1,-3,11,True
+Cory Joseph,4,4,36,1,Driving Finger Roll Layup Shot,1,-3,10,True
+Cory Joseph,3,0,17,1,Driving Finger Roll Layup Shot,2,18,21,True
+Cory Joseph,4,5,14,1,Driving Finger Roll Layup Shot,0,-5,8,True
+Cory Joseph,2,3,46,1,Driving Finger Roll Layup Shot,1,2,11,True
+Cory Joseph,4,7,4,0,Driving Finger Roll Layup Shot,3,-3,31,True
+Cory Joseph,4,11,19,1,Driving Finger Roll Layup Shot,0,-3,7,True
+Cory Joseph,4,1,47,1,Driving Finger Roll Layup Shot,0,2,9,True
+Cory Joseph,4,0,12,1,Driving Floating Bank Jump Shot,12,44,119,True
+Cory Joseph,4,5,54,1,Driving Floating Bank Jump Shot,14,-7,141,True
+Cory Joseph,2,11,46,0,Driving Floating Bank Jump Shot,11,-117,5,True
+Cory Joseph,4,9,36,1,Driving Floating Bank Jump Shot,9,-46,85,True
+Cory Joseph,1,2,3,0,Driving Floating Bank Jump Shot,4,25,38,True
+Cory Joseph,2,7,13,0,Driving Floating Bank Jump Shot,11,3,111,True
+Cory Joseph,2,9,27,1,Driving Floating Jump Shot,7,38,60,True
+Cory Joseph,1,0,15,1,Driving Floating Jump Shot,8,-9,86,True
+Cory Joseph,2,9,3,0,Driving Floating Jump Shot,14,-6,147,True
+Cory Joseph,3,5,43,0,Driving Floating Jump Shot,4,-11,47,True
+Cory Joseph,3,10,11,0,Driving Floating Jump Shot,9,-26,89,True
+Cory Joseph,4,6,24,0,Driving Floating Jump Shot,6,30,55,True
+Cory Joseph,2,7,59,1,Driving Floating Jump Shot,11,47,109,True
+Cory Joseph,4,11,1,0,Driving Floating Jump Shot,10,28,99,True
+Cory Joseph,3,3,4,1,Driving Floating Jump Shot,9,-38,88,True
+Cory Joseph,1,3,1,0,Driving Floating Jump Shot,8,-89,-10,True
+Cory Joseph,2,6,59,0,Driving Floating Jump Shot,11,-16,111,True
+Cory Joseph,1,2,37,0,Driving Floating Jump Shot,9,-5,90,True
+Cory Joseph,2,0,55,0,Driving Floating Jump Shot,10,-65,83,True
+Cory Joseph,1,8,22,0,Driving Floating Jump Shot,11,41,104,True
+Cory Joseph,2,9,8,0,Driving Floating Jump Shot,12,3,126,True
+Cory Joseph,1,0,13,1,Driving Floating Jump Shot,8,-3,86,True
+Cory Joseph,2,9,34,0,Driving Floating Jump Shot,9,79,59,True
+Cory Joseph,2,0,0,0,Driving Layup Shot,2,12,21,True
+Cory Joseph,4,0,19,0,Driving Layup Shot,2,13,19,True
+Cory Joseph,2,8,43,1,Driving Layup Shot,1,-9,10,True
+Cory Joseph,4,0,35,1,Driving Layup Shot,1,10,15,True
+Cory Joseph,2,5,10,1,Driving Layup Shot,1,-8,12,True
+Cory Joseph,2,2,4,1,Driving Layup Shot,0,-8,-4,True
+Cory Joseph,4,2,31,1,Driving Layup Shot,2,28,10,True
+Cory Joseph,1,2,27,0,Driving Layup Shot,2,-14,21,True
+Cory Joseph,4,1,45,1,Driving Layup Shot,1,13,8,True
+Cory Joseph,3,3,32,0,Driving Layup Shot,2,-24,10,True
+Cory Joseph,3,4,37,1,Driving Layup Shot,2,-13,20,True
+Cory Joseph,3,6,20,0,Driving Layup Shot,2,-7,29,True
+Cory Joseph,2,7,42,1,Driving Layup Shot,2,22,16,True
+Cory Joseph,1,3,18,0,Driving Layup Shot,1,10,17,True
+Cory Joseph,2,6,10,0,Driving Layup Shot,3,9,38,True
+Cory Joseph,3,2,49,0,Driving Layup Shot,0,8,1,True
+Cory Joseph,4,8,17,1,Driving Layup Shot,0,-2,4,True
+Cory Joseph,4,0,41,1,Driving Layup Shot,6,-25,55,True
+Cory Joseph,4,7,39,1,Driving Layup Shot,1,3,10,True
+Cory Joseph,2,7,14,0,Driving Layup Shot,2,-3,22,True
+Cory Joseph,3,3,56,1,Driving Layup Shot,1,-4,15,True
+Cory Joseph,4,9,55,0,Driving Layup Shot,4,-4,42,True
+Cory Joseph,4,0,40,1,Driving Layup Shot,1,-6,18,True
+Cory Joseph,4,0,13,1,Driving Layup Shot,0,6,5,True
+Cory Joseph,4,9,45,0,Driving Layup Shot,0,0,6,True
+Cory Joseph,4,11,28,1,Driving Layup Shot,1,-1,10,True
+Cory Joseph,1,0,36,1,Driving Layup Shot,1,14,3,True
+Cory Joseph,2,5,52,0,Driving Layup Shot,1,1,13,True
+Cory Joseph,1,0,44,0,Driving Layup Shot,1,-17,10,True
+Cory Joseph,2,7,25,0,Driving Layup Shot,0,1,4,True
+Cory Joseph,4,6,24,0,Driving Layup Shot,3,29,8,True
+Cory Joseph,2,10,14,1,Driving Layup Shot,0,0,5,True
+Cory Joseph,4,11,13,0,Driving Layup Shot,1,13,12,True
+Cory Joseph,3,10,31,0,Driving Layup Shot,4,26,31,True
+Cory Joseph,2,2,19,0,Driving Layup Shot,2,-11,20,True
+Cory Joseph,2,7,35,1,Driving Layup Shot,4,-3,49,True
+Cory Joseph,3,9,28,1,Driving Layup Shot,0,-1,1,True
+Cory Joseph,3,8,8,1,Driving Layup Shot,0,0,8,True
+Cory Joseph,3,0,0,0,Driving Layup Shot,2,-3,26,True
+Cory Joseph,3,1,50,1,Driving Layup Shot,0,-4,4,True
+Cory Joseph,4,9,39,0,Driving Layup Shot,3,4,33,True
+Cory Joseph,4,9,0,0,Driving Layup Shot,3,-12,28,True
+Cory Joseph,1,0,25,1,Driving Layup Shot,2,-25,9,True
+Cory Joseph,1,3,18,0,Driving Reverse Layup Shot,1,8,11,True
+Cory Joseph,3,2,2,1,Fadeaway Jump Shot,8,-46,72,True
+Cory Joseph,3,0,31,0,Fadeaway Jump Shot,14,-16,142,True
+Cory Joseph,3,0,10,1,Fadeaway Jump Shot,11,-57,95,True
+Cory Joseph,1,2,26,0,Fadeaway Jump Shot,6,-45,53,True
+Cory Joseph,1,2,9,0,Fadeaway Jump Shot,10,-49,88,True
+Cory Joseph,2,6,3,1,Fadeaway Jump Shot,7,-35,62,True
+Cory Joseph,2,10,56,1,Fadeaway Jump Shot,11,-102,50,True
+Cory Joseph,1,0,7,1,Fadeaway Jump Shot,9,-85,51,True
+Cory Joseph,2,6,31,0,Fadeaway Jump Shot,10,-58,85,True
+Cory Joseph,4,3,36,1,Floating Jump shot,9,20,95,True
+Cory Joseph,4,4,38,0,Floating Jump shot,11,-27,110,True
+Cory Joseph,4,4,29,1,Floating Jump shot,9,-79,59,True
+Cory Joseph,1,9,0,1,Floating Jump shot,15,12,155,True
+Cory Joseph,2,9,40,0,Floating Jump shot,11,112,37,True
+Cory Joseph,2,2,1,0,Floating Jump shot,5,0,51,True
+Cory Joseph,1,0,0,0,Floating Jump shot,7,-51,55,True
+Cory Joseph,4,5,18,1,Floating Jump shot,12,-10,120,True
+Cory Joseph,4,10,54,1,Floating Jump shot,9,-73,60,True
+Cory Joseph,3,1,29,0,Floating Jump shot,3,-4,31,True
+Cory Joseph,1,2,7,1,Floating Jump shot,14,-13,142,True
+Cory Joseph,2,7,4,1,Floating Jump shot,13,-90,98,True
+Cory Joseph,4,8,55,1,Floating Jump shot,5,7,53,True
+Cory Joseph,2,11,11,0,Floating Jump shot,11,-93,62,True
+Cory Joseph,2,5,0,1,Floating Jump shot,7,-13,70,True
+Cory Joseph,4,4,50,0,Floating Jump shot,12,120,20,True
+Cory Joseph,2,3,41,1,Floating Jump shot,13,-106,91,True
+Cory Joseph,4,9,48,1,Floating Jump shot,10,2,109,True
+Cory Joseph,1,3,10,1,Floating Jump shot,12,123,1,True
+Cory Joseph,4,2,19,1,Floating Jump shot,12,-19,126,True
+Cory Joseph,2,9,14,1,Floating Jump shot,14,100,106,True
+Cory Joseph,4,8,42,0,Floating Jump shot,8,2,85,True
+Cory Joseph,1,2,2,1,Floating Jump shot,11,-14,116,True
+Cory Joseph,4,5,59,0,Floating Jump shot,14,81,122,True
+Cory Joseph,4,7,56,0,Floating Jump shot,8,20,80,True
+Cory Joseph,2,6,2,0,Floating Jump shot,8,8,85,True
+Cory Joseph,3,5,34,0,Floating Jump shot,4,7,48,True
+Cory Joseph,1,5,37,1,Floating Jump shot,1,-3,14,True
+Cory Joseph,4,5,11,0,Jump Bank Shot,23,231,26,False
+Cory Joseph,3,0,32,0,Jump Bank Shot,14,-114,94,True
+Cory Joseph,4,8,57,0,Jump Shot,25,-131,221,False
+Cory Joseph,2,2,35,0,Jump Shot,26,172,204,False
+Cory Joseph,2,3,55,0,Jump Shot,28,-217,183,False
+Cory Joseph,4,8,57,0,Jump Shot,26,-46,258,False
+Cory Joseph,3,2,7,0,Jump Shot,22,-226,-16,False
+Cory Joseph,3,2,42,1,Jump Shot,24,165,186,False
+Cory Joseph,4,5,20,0,Jump Shot,26,167,201,False
+Cory Joseph,4,9,36,1,Jump Shot,25,125,221,False
+Cory Joseph,4,11,11,0,Jump Shot,20,-82,193,True
+Cory Joseph,4,8,31,1,Jump Shot,25,-228,106,False
+Cory Joseph,4,6,36,0,Jump Shot,23,-232,-7,False
+Cory Joseph,1,0,46,0,Jump Shot,24,135,209,False
+Cory Joseph,3,0,53,0,Jump Shot,20,-5,201,True
+Cory Joseph,2,11,40,1,Jump Shot,19,-85,171,True
+Cory Joseph,3,3,13,0,Jump Shot,22,-223,17,False
+Cory Joseph,2,8,52,1,Jump Shot,25,-174,186,False
+Cory Joseph,3,0,0,1,Jump Shot,25,175,189,False
+Cory Joseph,4,11,23,0,Jump Shot,26,-143,219,False
+Cory Joseph,1,0,3,1,Jump Shot,14,-121,71,True
+Cory Joseph,1,0,16,1,Jump Shot,25,-159,199,False
+Cory Joseph,3,2,12,0,Jump Shot,21,126,173,True
+Cory Joseph,2,9,4,0,Jump Shot,25,-152,201,False
+Cory Joseph,1,1,7,0,Jump Shot,25,-73,248,False
+Cory Joseph,1,2,59,0,Jump Shot,25,112,228,False
+Cory Joseph,1,3,9,0,Jump Shot,22,-9,225,True
+Cory Joseph,4,1,36,0,Jump Shot,26,160,206,False
+Cory Joseph,4,9,23,0,Jump Shot,23,226,47,False
+Cory Joseph,3,0,46,1,Jump Shot,18,50,183,True
+Cory Joseph,4,9,40,0,Jump Shot,5,-53,19,True
+Cory Joseph,4,10,56,0,Jump Shot,26,122,237,False
+Cory Joseph,2,11,48,0,Jump Shot,24,-240,25,False
+Cory Joseph,2,0,0,0,Jump Shot,46,100,456,False
+Cory Joseph,3,2,59,1,Jump Shot,8,24,84,True
+Cory Joseph,1,1,18,0,Jump Shot,22,-79,213,True
+Cory Joseph,3,2,27,1,Jump Shot,19,-107,164,True
+Cory Joseph,3,1,55,0,Jump Shot,15,145,58,True
+Cory Joseph,1,0,42,0,Jump Shot,25,-48,255,False
+Cory Joseph,2,10,34,0,Jump Shot,25,220,133,False
+Cory Joseph,4,11,32,0,Jump Shot,27,183,210,False
+Cory Joseph,2,1,14,1,Jump Shot,24,212,121,False
+Cory Joseph,4,5,38,0,Jump Shot,33,201,262,False
+Cory Joseph,3,2,44,0,Jump Shot,21,106,184,True
+Cory Joseph,1,4,34,0,Jump Shot,17,144,101,True
+Cory Joseph,3,5,5,1,Jump Shot,26,167,201,False
+Cory Joseph,3,9,51,0,Jump Shot,26,36,258,False
+Cory Joseph,2,7,1,0,Jump Shot,23,232,57,False
+Cory Joseph,2,5,21,1,Jump Shot,23,-232,30,False
+Cory Joseph,1,5,7,0,Jump Shot,28,147,242,False
+Cory Joseph,2,1,38,0,Jump Shot,29,-17,290,False
+Cory Joseph,3,3,33,1,Jump Shot,23,232,42,False
+Cory Joseph,1,9,39,1,Jump Shot,16,-136,93,True
+Cory Joseph,2,8,23,0,Jump Shot,15,157,13,True
+Cory Joseph,4,9,47,1,Jump Shot,24,211,133,False
+Cory Joseph,3,3,21,0,Jump Shot,22,-226,33,False
+Cory Joseph,1,6,8,0,Jump Shot,21,131,171,True
+Cory Joseph,1,3,11,1,Jump Shot,25,90,241,False
+Cory Joseph,2,0,34,1,Jump Shot,19,-91,177,True
+Cory Joseph,1,7,35,1,Jump Shot,16,-154,63,True
+Cory Joseph,2,6,43,0,Jump Shot,17,-174,-5,True
+Cory Joseph,3,8,53,0,Jump Shot,25,-123,225,False
+Cory Joseph,1,6,58,0,Jump Shot,27,169,213,False
+Cory Joseph,3,6,27,0,Jump Shot,26,-183,187,False
+Cory Joseph,2,3,28,0,Jump Shot,22,227,13,False
+Cory Joseph,1,5,37,0,Jump Shot,27,-164,220,False
+Cory Joseph,4,1,32,0,Jump Shot,28,142,242,False
+Cory Joseph,2,6,11,1,Jump Shot,27,-175,212,False
+Cory Joseph,1,2,46,1,Jump Shot,26,96,243,False
+Cory Joseph,4,1,0,0,Jump Shot,27,201,192,False
+Cory Joseph,2,7,31,0,Jump Shot,25,-105,229,False
+Cory Joseph,3,2,5,0,Jump Shot,26,-177,195,False
+Cory Joseph,1,0,33,1,Jump Shot,25,-85,237,False
+Cory Joseph,4,2,33,1,Jump Shot,15,123,100,True
+Cory Joseph,4,11,27,1,Jump Shot,15,95,127,True
+Cory Joseph,4,10,52,0,Jump Shot,26,-12,263,False
+Cory Joseph,2,10,24,0,Jump Shot,27,100,253,False
+Cory Joseph,1,2,24,0,Jump Shot,22,227,11,False
+Cory Joseph,4,1,57,0,Jump Shot,18,-68,172,True
+Cory Joseph,4,7,33,0,Jump Shot,22,-220,-21,False
+Cory Joseph,1,2,52,0,Jump Shot,22,226,20,False
+Cory Joseph,3,1,14,0,Jump Shot,17,-155,86,True
+Cory Joseph,2,10,35,1,Jump Shot,26,35,261,False
+Cory Joseph,2,10,11,0,Jump Shot,12,123,-10,True
+Cory Joseph,4,10,4,0,Jump Shot,26,-161,209,False
+Cory Joseph,2,8,35,0,Jump Shot,23,-139,195,False
+Cory Joseph,4,1,20,1,Jump Shot,23,234,-25,False
+Cory Joseph,2,8,53,0,Jump Shot,15,7,153,True
+Cory Joseph,1,1,23,0,Jump Shot,25,-177,180,False
+Cory Joseph,4,1,21,0,Jump Shot,24,213,117,False
+Cory Joseph,3,2,1,0,Jump Shot,25,229,116,False
+Cory Joseph,4,0,23,0,Jump Shot,26,131,231,False
+Cory Joseph,4,10,53,0,Jump Shot,22,225,-6,False
+Cory Joseph,4,7,26,0,Jump Shot,25,152,205,False
+Cory Joseph,4,9,6,1,Jump Shot,27,91,259,False
+Cory Joseph,4,4,14,1,Jump Shot,22,223,-34,False
+Cory Joseph,1,0,29,0,Jump Shot,26,91,253,False
+Cory Joseph,2,0,38,0,Jump Shot,23,232,41,False
+Cory Joseph,4,10,53,0,Jump Shot,17,-91,150,True
+Cory Joseph,4,0,49,0,Jump Shot,27,196,189,False
+Cory Joseph,4,4,37,0,Jump Shot,23,228,40,False
+Cory Joseph,1,3,31,0,Jump Shot,22,225,43,False
+Cory Joseph,2,7,35,1,Jump Shot,28,-36,281,False
+Cory Joseph,4,9,0,0,Jump Shot,22,-228,10,False
+Cory Joseph,3,1,6,0,Jump Shot,23,231,23,False
+Cory Joseph,4,8,19,0,Jump Shot,24,-138,208,False
+Cory Joseph,4,7,31,1,Jump Shot,22,-225,-10,False
+Cory Joseph,1,0,36,1,Jump Shot,6,-2,67,True
+Cory Joseph,2,4,36,0,Jump Shot,16,-71,148,True
+Cory Joseph,4,11,11,0,Jump Shot,27,110,250,False
+Cory Joseph,3,0,35,0,Jump Shot,16,-84,147,True
+Cory Joseph,1,0,41,0,Jump Shot,17,-175,22,True
+Cory Joseph,2,11,26,0,Jump Shot,25,136,220,False
+Cory Joseph,2,1,54,0,Jump Shot,27,-217,162,False
+Cory Joseph,2,7,43,0,Jump Shot,29,94,282,False
+Cory Joseph,2,10,30,0,Jump Shot,14,-145,-23,True
+Cory Joseph,1,0,2,0,Jump Shot,24,-181,168,False
+Cory Joseph,4,4,11,1,Jump Shot,24,-168,184,False
+Cory Joseph,3,1,2,0,Jump Shot,22,-225,10,False
+Cory Joseph,2,10,5,1,Jump Shot,25,-29,258,False
+Cory Joseph,4,10,2,1,Jump Shot,26,-177,199,False
+Cory Joseph,1,1,6,0,Jump Shot,23,232,22,False
+Cory Joseph,4,10,57,1,Jump Shot,15,17,159,True
+Cory Joseph,1,9,9,0,Jump Shot,26,42,260,False
+Cory Joseph,1,7,52,0,Jump Shot,26,-175,205,False
+Cory Joseph,3,8,49,0,Jump Shot,20,-84,190,True
+Cory Joseph,4,4,5,0,Jump Shot,19,51,192,True
+Cory Joseph,2,5,33,1,Jump Shot,27,103,259,False
+Cory Joseph,4,9,1,0,Jump Shot,25,-129,224,False
+Cory Joseph,4,10,3,0,Jump Shot,27,143,232,False
+Cory Joseph,3,1,21,0,Jump Shot,22,-228,-13,False
+Cory Joseph,4,3,7,0,Jump Shot,25,-14,258,False
+Cory Joseph,4,9,25,1,Jump Shot,22,229,13,False
+Cory Joseph,2,11,3,1,Jump Shot,25,-160,195,False
+Cory Joseph,4,6,17,0,Jump Shot,10,68,78,True
+Cory Joseph,2,7,30,1,Jump Shot,25,182,178,False
+Cory Joseph,4,8,8,0,Jump Shot,26,-21,260,False
+Cory Joseph,4,10,7,0,Jump Shot,25,-203,149,False
+Cory Joseph,2,11,34,0,Jump Shot,5,55,14,True
+Cory Joseph,1,1,51,0,Jump Shot,27,136,240,False
+Cory Joseph,2,11,40,0,Jump Shot,23,-232,25,False
+Cory Joseph,2,8,9,0,Jump Shot,25,232,107,False
+Cory Joseph,4,1,4,0,Jump Shot,26,-43,258,False
+Cory Joseph,4,5,47,1,Jump Shot,23,224,72,False
+Cory Joseph,2,5,7,1,Jump Shot,23,234,33,False
+Cory Joseph,4,4,3,1,Jump Shot,22,-226,-17,False
+Cory Joseph,2,7,54,0,Jump Shot,29,-154,251,False
+Cory Joseph,2,6,42,0,Jump Shot,26,-203,164,False
+Cory Joseph,2,5,48,0,Jump Shot,25,195,157,False
+Cory Joseph,2,9,55,0,Jump Shot,24,203,143,False
+Cory Joseph,4,4,12,1,Jump Shot,25,125,225,False
+Cory Joseph,2,11,0,0,Jump Shot,26,129,235,False
+Cory Joseph,4,6,31,1,Jump Shot,26,38,260,False
+Cory Joseph,2,7,30,1,Jump Shot,25,125,222,False
+Cory Joseph,2,11,46,0,Jump Shot,25,-107,236,False
+Cory Joseph,3,2,26,0,Jump Shot,16,92,138,True
+Cory Joseph,1,1,44,1,Jump Shot,25,-218,131,False
+Cory Joseph,4,6,44,0,Jump Shot,18,100,150,True
+Cory Joseph,4,9,16,0,Jump Shot,22,226,29,False
+Cory Joseph,3,3,30,1,Jump Shot,16,142,91,True
+Cory Joseph,2,9,31,1,Jump Shot,26,-115,242,False
+Cory Joseph,2,11,29,1,Jump Shot,25,134,220,False
+Cory Joseph,4,3,9,0,Jump Shot,25,-103,230,False
+Cory Joseph,2,7,52,0,Jump Shot,25,-207,146,False
+Cory Joseph,4,11,11,0,Jump Shot,20,-92,185,True
+Cory Joseph,4,2,22,1,Jump Shot,17,-162,66,True
+Cory Joseph,2,9,44,0,Jump Shot,24,-163,186,False
+Cory Joseph,4,9,37,0,Jump Shot,23,237,24,False
+Cory Joseph,4,8,37,0,Jump Shot,23,-230,-6,False
+Cory Joseph,4,6,36,0,Jump Shot,24,-171,179,False
+Cory Joseph,2,11,45,1,Jump Shot,23,230,26,False
+Cory Joseph,4,8,0,0,Jump Shot,26,-95,247,False
+Cory Joseph,1,0,56,1,Jump Shot,18,-77,172,True
+Cory Joseph,3,2,58,0,Jump Shot,16,3,161,True
+Cory Joseph,2,3,54,0,Jump Shot,29,-14,299,False
+Cory Joseph,2,4,59,0,Jump Shot,28,-141,252,False
+Cory Joseph,1,3,16,1,Jump Shot,14,144,7,True
+Cory Joseph,2,10,2,1,Jump Shot,25,93,242,False
+Cory Joseph,2,11,18,1,Jump Shot,23,-230,-5,False
+Cory Joseph,2,10,32,1,Jump Shot,23,-237,21,False
+Cory Joseph,4,6,24,0,Jump Shot,24,232,67,False
+Cory Joseph,3,0,48,1,Jump Shot,18,39,184,True
+Cory Joseph,2,0,33,0,Jump Shot,14,-146,6,True
+Cory Joseph,2,6,44,1,Jump Shot,25,133,214,False
+Cory Joseph,4,4,37,0,Jump Shot,27,-191,196,False
+Cory Joseph,2,9,11,1,Jump Shot,13,119,67,True
+Cory Joseph,2,7,19,1,Jump Shot,22,-222,-4,False
+Cory Joseph,2,9,11,0,Jump Shot,28,-24,284,False
+Cory Joseph,4,5,21,1,Jump Shot,26,160,211,False
+Cory Joseph,3,0,22,0,Jump Shot,20,-10,205,True
+Cory Joseph,4,10,44,1,Jump Shot,27,82,264,False
+Cory Joseph,4,4,15,1,Jump Shot,27,-155,230,False
+Cory Joseph,2,10,29,0,Jump Shot,18,67,175,True
+Cory Joseph,1,2,15,0,Jump Shot,26,226,137,False
+Cory Joseph,2,7,56,0,Jump Shot,25,-223,124,False
+Cory Joseph,2,8,22,0,Jump Shot,25,54,247,False
+Cory Joseph,2,9,29,0,Jump Shot,25,60,247,False
+Cory Joseph,4,1,57,1,Jump Shot,19,40,194,True
+Cory Joseph,4,2,31,1,Jump Shot,22,-221,8,False
+Cory Joseph,2,11,7,1,Jump Shot,25,209,153,False
+Cory Joseph,2,4,11,1,Jump Shot,25,138,210,False
+Cory Joseph,2,2,40,0,Jump Shot,25,-5,258,False
+Cory Joseph,2,6,9,1,Jump Shot,22,226,1,False
+Cory Joseph,4,3,27,1,Jump Shot,22,-222,5,False
+Cory Joseph,3,3,3,0,Jump Shot,22,29,221,True
+Cory Joseph,1,0,37,1,Jump Shot,20,-145,148,True
+Cory Joseph,4,11,40,0,Jump Shot,16,-154,44,True
+Cory Joseph,4,6,22,1,Jump Shot,26,123,230,False
+Cory Joseph,2,1,56,0,Jump Shot,22,-226,-12,False
+Cory Joseph,4,8,17,1,Jump Shot,19,-111,163,True
+Cory Joseph,1,2,6,0,Jump Shot,20,-108,169,True
+Cory Joseph,1,1,3,0,Jump Shot,20,-92,187,True
+Cory Joseph,1,0,56,0,Layup Shot,0,4,2,True
+Cory Joseph,4,1,15,1,Layup Shot,2,18,17,True
+Cory Joseph,3,2,30,0,Layup Shot,1,12,13,True
+Cory Joseph,3,0,2,1,Layup Shot,3,-24,20,True
+Cory Joseph,4,8,54,1,Layup Shot,0,3,9,True
+Cory Joseph,4,6,52,1,Layup Shot,2,-11,20,True
+Cory Joseph,4,1,4,0,Layup Shot,1,-3,12,True
+Cory Joseph,4,7,29,1,Layup Shot,0,-3,8,True
+Cory Joseph,4,5,39,0,Layup Shot,1,-3,17,True
+Cory Joseph,1,0,21,0,Layup Shot,1,6,10,True
+Cory Joseph,4,11,38,0,Layup Shot,3,3,38,True
+Cory Joseph,4,6,5,0,Layup Shot,1,-5,14,True
+Cory Joseph,2,10,23,1,Layup Shot,1,13,6,True
+Cory Joseph,3,0,4,0,Layup Shot,2,0,25,True
+Cory Joseph,4,0,16,0,Layup Shot,4,-23,36,True
+Cory Joseph,4,0,25,0,Layup Shot,6,57,27,True
+Cory Joseph,3,0,41,0,Layup Shot,1,-3,13,True
+Cory Joseph,4,6,21,1,Layup Shot,1,-4,13,True
+Cory Joseph,3,1,8,0,Layup Shot,2,13,25,True
+Cory Joseph,2,7,46,0,Layup Shot,2,27,11,True
+Cory Joseph,4,1,19,1,Pullup Jump shot,16,-87,140,True
+Cory Joseph,2,0,31,1,Pullup Jump shot,15,15,155,True
+Cory Joseph,3,0,8,1,Pullup Jump shot,17,96,148,True
+Cory Joseph,3,2,38,1,Pullup Jump shot,18,101,152,True
+Cory Joseph,2,11,52,1,Pullup Jump shot,17,128,113,True
+Cory Joseph,2,2,12,0,Pullup Jump shot,18,119,140,True
+Cory Joseph,1,2,58,0,Pullup Jump shot,14,-123,73,True
+Cory Joseph,2,7,0,1,Pullup Jump shot,15,14,157,True
+Cory Joseph,2,2,46,1,Pullup Jump shot,16,-154,63,True
+Cory Joseph,4,4,56,1,Pullup Jump shot,18,-90,167,True
+Cory Joseph,4,11,27,0,Pullup Jump shot,17,55,168,True
+Cory Joseph,1,0,2,0,Pullup Jump shot,17,85,152,True
+Cory Joseph,2,6,59,1,Pullup Jump shot,21,72,206,True
+Cory Joseph,4,3,59,1,Pullup Jump shot,11,113,-5,True
+Cory Joseph,2,8,50,1,Pullup Jump shot,19,8,194,True
+Cory Joseph,3,0,13,1,Pullup Jump shot,17,-85,153,True
+Cory Joseph,4,3,44,1,Pullup Jump shot,14,138,55,True
+Cory Joseph,3,4,28,1,Pullup Jump shot,16,-2,163,True
+Cory Joseph,2,2,40,0,Pullup Jump shot,18,160,100,True
+Cory Joseph,2,11,0,0,Pullup Jump shot,19,-99,169,True
+Cory Joseph,2,10,28,0,Pullup Jump shot,14,-36,136,True
+Cory Joseph,2,9,23,1,Pullup Jump shot,17,100,149,True
+Cory Joseph,2,7,43,1,Pullup Jump shot,26,90,249,False
+Cory Joseph,2,10,29,0,Pullup Jump shot,13,135,23,True
+Cory Joseph,2,8,51,1,Pullup Jump shot,15,136,79,True
+Cory Joseph,4,5,14,0,Pullup Jump shot,20,-54,197,True
+Cory Joseph,2,3,18,0,Pullup Jump shot,18,78,170,True
+Cory Joseph,2,7,8,1,Pullup Jump shot,18,90,160,True
+Cory Joseph,4,10,56,0,Pullup Jump shot,19,-11,194,True
+Cory Joseph,3,0,22,0,Pullup Jump shot,19,110,163,True
+Cory Joseph,3,1,46,1,Pullup Jump shot,18,111,150,True
+Cory Joseph,2,7,17,0,Pullup Jump shot,16,94,135,True
+Cory Joseph,2,11,29,0,Pullup Jump shot,16,-9,164,True
+Cory Joseph,4,3,41,0,Pullup Jump shot,16,96,138,True
+Cory Joseph,4,3,29,0,Pullup Jump shot,19,-130,142,True
+Cory Joseph,4,2,12,0,Pullup Jump shot,19,-92,177,True
+Cory Joseph,4,6,34,0,Pullup Jump shot,27,110,248,False
+Cory Joseph,1,0,8,0,Pullup Jump shot,20,-1,207,True
+Cory Joseph,2,6,57,0,Pullup Jump shot,19,56,182,True
+Cory Joseph,1,0,45,1,Pullup Jump shot,9,79,50,True
+Cory Joseph,1,0,2,0,Pullup Jump shot,27,201,188,False
+Cory Joseph,2,4,56,1,Pullup Jump shot,17,83,153,True
+Cory Joseph,2,1,53,0,Pullup Jump shot,15,-100,121,True
+Cory Joseph,2,8,31,0,Pullup Jump shot,18,82,166,True
+Cory Joseph,3,0,38,0,Pullup Jump shot,19,79,178,True
+Cory Joseph,4,5,16,1,Pullup Jump shot,14,6,143,True
+Cory Joseph,1,0,3,0,Pullup Jump shot,16,-168,-6,True
+Cory Joseph,2,7,43,0,Pullup Jump shot,18,-79,170,True
+Cory Joseph,1,3,17,1,Pullup Jump shot,19,102,162,True
+Cory Joseph,3,1,21,0,Pullup Jump shot,10,-107,0,True
+Cory Joseph,4,11,4,0,Pullup Jump shot,14,106,106,True
+Cory Joseph,1,10,0,1,Pullup Jump shot,18,-3,181,True
+Cory Joseph,2,11,11,1,Pullup Jump shot,20,85,182,True
+Cory Joseph,4,6,30,1,Pullup Jump shot,20,47,202,True
+Cory Joseph,2,5,8,1,Pullup Jump shot,18,122,136,True
+Cory Joseph,1,3,4,0,Pullup Jump shot,15,5,153,True
+Cory Joseph,2,3,54,0,Pullup Jump shot,16,-107,127,True
+Cory Joseph,4,5,57,1,Pullup Jump shot,21,-16,218,True
+Cory Joseph,4,9,11,0,Pullup Jump shot,17,129,125,True
+Cory Joseph,1,1,44,0,Pullup Jump shot,20,-116,172,True
+Cory Joseph,4,4,51,0,Pullup Jump shot,14,-141,30,True
+Cory Joseph,4,1,51,0,Pullup Jump shot,20,49,204,True
+Cory Joseph,1,0,29,1,Pullup Jump shot,16,-85,146,True
+Cory Joseph,2,9,0,0,Pullup Jump shot,19,-8,196,True
+Cory Joseph,3,0,10,1,Pullup Jump shot,16,-105,131,True
+Cory Joseph,2,1,55,1,Pullup Jump shot,17,87,157,True
+Cory Joseph,3,9,12,0,Pullup Jump shot,18,91,158,True
+Cory Joseph,3,0,34,0,Pullup Jump shot,18,126,136,True
+Cory Joseph,1,2,22,0,Pullup Jump shot,15,-4,157,True
+Cory Joseph,2,3,8,1,Pullup Jump shot,10,-6,103,True
+Cory Joseph,2,3,11,0,Pullup Jump shot,20,-101,178,True
+Cory Joseph,1,0,1,0,Pullup Jump shot,16,-136,99,True
+Cory Joseph,2,4,13,1,Pullup Jump shot,18,127,136,True
+Cory Joseph,2,8,22,1,Pullup Jump shot,20,-37,200,True
+Cory Joseph,2,10,37,0,Pullup Jump shot,19,92,173,True
+Cory Joseph,4,10,40,1,Pullup Jump shot,18,87,167,True
+Cory Joseph,2,2,36,1,Pullup Jump shot,27,-130,247,False
+Cory Joseph,2,6,25,1,Pullup Jump shot,15,107,111,True
+Cory Joseph,2,10,51,0,Pullup Jump shot,15,144,58,True
+Cory Joseph,2,3,11,1,Pullup Jump shot,12,-53,117,True
+Cory Joseph,3,1,56,0,Pullup Jump shot,27,141,235,False
+Cory Joseph,4,11,1,1,Pullup Jump shot,19,-98,166,True
+Cory Joseph,1,4,33,0,Pullup Jump shot,19,41,187,True
+Cory Joseph,2,9,51,0,Pullup Jump shot,19,6,190,True
+Cory Joseph,2,0,2,0,Pullup Jump shot,20,150,139,True
+Cory Joseph,3,3,30,1,Pullup Jump shot,18,-38,183,True
+Cory Joseph,4,6,47,1,Pullup Jump shot,17,-174,13,True
+Cory Joseph,2,0,34,0,Pullup Jump shot,12,74,96,True
+Cory Joseph,4,8,38,1,Pullup Jump shot,7,-7,70,True
+Cory Joseph,2,0,18,0,Pullup Jump shot,16,106,125,True
+Cory Joseph,1,1,47,1,Pullup Jump shot,18,96,159,True
+Cory Joseph,4,7,7,1,Pullup Jump shot,18,60,170,True
+Cory Joseph,2,2,55,0,Pullup Jump shot,19,117,152,True
+Cory Joseph,1,2,1,0,Pullup Jump shot,25,-19,255,False
+Cory Joseph,3,4,5,0,Pullup Jump shot,26,22,260,False
+Cory Joseph,1,9,2,1,Pullup Jump shot,15,139,74,True
+Cory Joseph,1,7,58,0,Pullup Jump shot,21,-91,190,True
+Cory Joseph,4,9,48,1,Pullup Jump shot,14,-51,141,True
+Cory Joseph,1,1,28,1,Pullup Jump shot,17,75,162,True
+Cory Joseph,4,6,22,1,Pullup Jump shot,18,-30,185,True
+Cory Joseph,4,4,2,0,Pullup Jump shot,24,205,138,False
+Cory Joseph,1,0,33,1,Pullup Jump shot,15,-14,154,True
+Cory Joseph,3,0,7,1,Pullup Jump shot,10,-71,77,True
+Cory Joseph,2,10,14,0,Pullup Jump shot,18,100,155,True
+Cory Joseph,2,0,59,1,Putback Layup Shot,0,0,-6,True
+Cory Joseph,4,3,49,1,Putback Layup Shot,0,5,3,True
+Cory Joseph,4,1,49,0,Reverse Layup Shot,1,-2,19,True
+Cory Joseph,4,4,12,0,Reverse Layup Shot,0,-3,7,True
+Cory Joseph,1,1,14,0,Reverse Layup Shot,2,7,19,True
+Cory Joseph,1,2,9,1,Reverse Layup Shot,1,0,17,True
+Cory Joseph,2,8,44,1,Running Finger Roll Layup Shot,2,-12,16,True
+Cory Joseph,3,6,35,1,Running Finger Roll Layup Shot,1,12,9,True
+Cory Joseph,3,1,1,1,Running Finger Roll Layup Shot,0,0,4,True
+Cory Joseph,3,8,13,0,Running Jump Shot,11,111,34,True
+Cory Joseph,2,0,0,0,Running Jump Shot,47,182,439,False
+Cory Joseph,1,0,1,0,Running Jump Shot,20,117,173,True
+Cory Joseph,2,10,12,0,Running Jump Shot,8,38,79,True
+Cory Joseph,3,0,0,0,Running Jump Shot,18,-86,167,True
+Cory Joseph,2,3,29,0,Running Layup Shot,1,-2,15,True
+Cory Joseph,4,4,7,1,Running Layup Shot,1,17,10,True
+Cory Joseph,3,0,59,0,Running Layup Shot,2,18,15,True
+Cory Joseph,4,3,57,1,Running Layup Shot,1,3,10,True
+Cory Joseph,2,9,49,1,Running Layup Shot,2,0,20,True
+Cory Joseph,4,1,29,0,Running Layup Shot,4,0,42,True
+Cory Joseph,2,9,7,0,Running Layup Shot,2,13,20,True
+Cory Joseph,2,3,13,0,Running Layup Shot,3,-20,26,True
+Cory Joseph,4,5,39,1,Running Layup Shot,1,9,10,True
+Cory Joseph,3,6,26,1,Running Layup Shot,0,4,6,True
+Cory Joseph,3,7,10,0,Running Layup Shot,2,27,-9,True
+Cory Joseph,2,10,26,0,Running Layup Shot,0,2,5,True
+Cory Joseph,2,9,26,1,Running Layup Shot,2,-16,12,True
+Cory Joseph,2,8,54,1,Running Reverse Layup Shot,0,4,7,True
+Cory Joseph,2,11,37,1,Step Back Jump shot,14,-68,125,True
+Cory Joseph,2,9,10,0,Step Back Jump shot,17,177,15,True
+Cory Joseph,2,1,11,0,Step Back Jump shot,11,-31,110,True
+Cory Joseph,3,0,3,1,Step Back Jump shot,26,-109,243,False
+Cory Joseph,4,3,57,1,Step Back Jump shot,19,153,113,True
+Cory Joseph,4,7,15,1,Step Back Jump shot,26,-6,261,False
+Cory Joseph,2,8,29,0,Step Back Jump shot,18,96,155,True
+Cory Joseph,2,11,36,0,Step Back Jump shot,21,-174,122,True
+Cory Joseph,3,1,20,1,Step Back Jump shot,13,135,11,True
+Cory Joseph,4,10,29,0,Step Back Jump shot,15,-152,10,True
+Cory Joseph,1,0,45,0,Step Back Jump shot,13,-139,15,True
+Cory Joseph,2,8,3,0,Step Back Jump shot,24,228,95,False
+Cory Joseph,1,0,2,0,Step Back Jump shot,16,161,21,True
+Cory Joseph,3,0,19,0,Step Back Jump shot,19,152,116,True
+Cory Joseph,1,0,1,0,Step Back Jump shot,9,-23,91,True
+Cory Joseph,4,10,11,1,Step Back Jump shot,17,35,167,True
+Cory Joseph,4,5,49,0,Step Back Jump shot,18,111,153,True
+Cory Joseph,4,8,35,0,Step Back Jump shot,15,-25,151,True
+Cory Joseph,2,11,15,1,Step Back Jump shot,25,235,105,False
+Cory Joseph,2,4,9,0,Step Back Jump shot,20,-165,117,True
+Cory Joseph,4,2,19,1,Step Back Jump shot,22,-105,199,True
+Cory Joseph,4,8,16,1,Step Back Jump shot,7,-3,74,True
+Cory Joseph,4,9,25,0,Step Back Jump shot,18,-133,135,True
+Cory Joseph,2,9,56,0,Step Back Jump shot,16,135,86,True
+Cory Joseph,4,5,39,0,Step Back Jump shot,18,98,161,True
+Cory Joseph,3,11,34,0,Step Back Jump shot,19,-78,176,True
+Cory Joseph,1,0,40,1,Step Back Jump shot,9,-85,42,True
+Cory Joseph,3,0,2,0,Step Back Jump shot,19,132,141,True
+Cory Joseph,3,10,20,0,Step Back Jump shot,11,-51,105,True
+Cory Joseph,1,3,1,0,Step Back Jump shot,11,-78,89,True
+Cory Joseph,4,7,13,0,Step Back Jump shot,19,-74,181,True
+Cory Joseph,2,3,50,1,Step Back Jump shot,16,-1,168,True
+Cory Joseph,4,9,28,1,Step Back Jump shot,14,-114,87,True
+Cory Joseph,1,6,15,0,Step Back Jump shot,17,-3,173,True
+Cory Joseph,4,7,28,0,Step Back Jump shot,16,-160,4,True
+Cory Joseph,2,6,18,1,Step Back Jump shot,18,-89,159,True
+Cory Joseph,4,3,9,1,Tip Layup Shot,0,0,-6,True
+Cory Joseph,2,0,25,1,Turnaround Fadeaway Bank Jump Shot,16,137,84,True
+Cory Joseph,1,0,0,0,Turnaround Fadeaway shot,12,-119,25,True
+Cory Joseph,3,10,39,0,Turnaround Fadeaway shot,11,-105,44,True
+Cory Joseph,4,0,58,0,Turnaround Fadeaway shot,10,-20,99,True
+Cory Joseph,2,3,1,1,Turnaround Jump Shot,6,41,54,True
+Cory Joseph,1,10,8,0,Turnaround Jump Shot,10,-30,97,True
+Cory Joseph,2,10,59,1,Turnaround Jump Shot,5,19,55,True
+Cory Joseph,4,8,30,0,Turnaround Jump Shot,11,41,104,True

@@ -1,0 +1,32 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Damien Wilkins,4,4,27,0,Driving Finger Roll Layup Shot,1,11,11,True
+Damien Wilkins,3,1,56,0,Driving Finger Roll Layup Shot,1,5,10,True
+Damien Wilkins,4,3,19,1,Driving Finger Roll Layup Shot,0,2,5,True
+Damien Wilkins,4,10,52,0,Driving Finger Roll Layup Shot,1,-4,16,True
+Damien Wilkins,4,10,24,1,Driving Floating Bank Jump Shot,1,-2,18,True
+Damien Wilkins,4,0,55,0,Driving Floating Bank Jump Shot,8,50,72,True
+Damien Wilkins,4,3,50,0,Driving Floating Bank Jump Shot,10,95,44,True
+Damien Wilkins,2,6,27,1,Driving Floating Jump Shot,11,-3,110,True
+Damien Wilkins,1,1,6,1,Finger Roll Layup Shot,2,-11,25,True
+Damien Wilkins,4,2,0,0,Jump Shot,25,-90,236,False
+Damien Wilkins,4,7,21,0,Jump Shot,22,-226,7,False
+Damien Wilkins,2,10,0,0,Jump Shot,26,206,167,False
+Damien Wilkins,4,9,15,0,Jump Shot,26,191,190,False
+Damien Wilkins,4,1,42,0,Jump Shot,23,-230,-18,False
+Damien Wilkins,2,11,29,1,Jump Shot,23,232,41,False
+Damien Wilkins,2,11,4,0,Jump Shot,22,-228,-1,False
+Damien Wilkins,4,1,10,1,Jump Shot,7,-24,69,True
+Damien Wilkins,2,1,20,0,Jump Shot,23,-234,21,False
+Damien Wilkins,4,0,19,1,Jump Shot,3,30,8,True
+Damien Wilkins,4,0,23,0,Jump Shot,17,179,-4,True
+Damien Wilkins,2,8,16,0,Jump Shot,23,-226,61,False
+Damien Wilkins,4,2,2,0,Jump Shot,24,-52,243,False
+Damien Wilkins,4,4,8,0,Jump Shot,18,18,184,True
+Damien Wilkins,4,8,3,0,Jump Shot,27,-193,195,False
+Damien Wilkins,4,4,24,0,Jump Shot,27,130,240,False
+Damien Wilkins,2,1,10,0,Layup Shot,1,-11,5,True
+Damien Wilkins,4,10,31,0,Pullup Jump shot,15,-29,151,True
+Damien Wilkins,4,9,9,1,Pullup Jump shot,12,-13,127,True
+Damien Wilkins,4,1,7,0,Turnaround Jump Shot,9,92,39,True
+Damien Wilkins,2,11,42,1,Turnaround Jump Shot,11,-31,114,True
+Damien Wilkins,1,0,15,1,Turnaround Jump Shot,11,115,5,True

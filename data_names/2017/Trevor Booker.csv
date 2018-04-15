@@ -1,0 +1,313 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Trevor Booker,3,4,17,1,Alley Oop Layup shot,1,11,7,True
+Trevor Booker,2,3,37,1,Alley Oop Layup shot,1,1,10,True
+Trevor Booker,1,1,45,1,Alley Oop Layup shot,1,-8,-6,True
+Trevor Booker,2,8,38,1,Cutting Dunk Shot,2,11,19,True
+Trevor Booker,4,1,4,1,Cutting Dunk Shot,0,1,-2,True
+Trevor Booker,1,4,1,1,Cutting Dunk Shot,1,-2,13,True
+Trevor Booker,2,5,3,1,Cutting Dunk Shot,0,0,2,True
+Trevor Booker,4,11,6,1,Cutting Dunk Shot,1,-9,10,True
+Trevor Booker,4,9,20,1,Cutting Finger Roll Layup Shot,1,-2,12,True
+Trevor Booker,4,3,28,0,Cutting Finger Roll Layup Shot,2,6,22,True
+Trevor Booker,2,2,51,1,Cutting Finger Roll Layup Shot,3,-8,31,True
+Trevor Booker,1,1,20,1,Cutting Finger Roll Layup Shot,2,7,19,True
+Trevor Booker,2,4,23,1,Cutting Layup Shot,1,-7,17,True
+Trevor Booker,1,0,36,1,Cutting Layup Shot,1,-8,13,True
+Trevor Booker,1,0,49,1,Cutting Layup Shot,1,-5,9,True
+Trevor Booker,2,0,3,1,Cutting Layup Shot,4,-30,36,True
+Trevor Booker,4,10,20,0,Cutting Layup Shot,5,4,55,True
+Trevor Booker,1,3,36,1,Cutting Layup Shot,8,-5,85,True
+Trevor Booker,2,6,55,1,Cutting Layup Shot,7,20,74,True
+Trevor Booker,2,8,31,1,Cutting Layup Shot,2,-22,20,True
+Trevor Booker,1,2,23,1,Cutting Layup Shot,1,-14,7,True
+Trevor Booker,1,1,30,1,Cutting Layup Shot,2,-14,20,True
+Trevor Booker,2,3,48,1,Cutting Layup Shot,0,-1,1,True
+Trevor Booker,1,0,44,0,Cutting Layup Shot,4,3,40,True
+Trevor Booker,3,4,11,1,Cutting Layup Shot,2,23,4,True
+Trevor Booker,1,3,28,1,Cutting Layup Shot,1,9,14,True
+Trevor Booker,2,5,26,1,Cutting Layup Shot,1,-5,9,True
+Trevor Booker,3,8,45,0,Cutting Layup Shot,2,-25,13,True
+Trevor Booker,4,10,16,1,Cutting Layup Shot,1,5,14,True
+Trevor Booker,2,8,24,1,Cutting Layup Shot,0,-6,-7,True
+Trevor Booker,2,7,11,0,Cutting Layup Shot,2,5,20,True
+Trevor Booker,2,10,29,1,Cutting Layup Shot,0,-3,8,True
+Trevor Booker,4,10,29,1,Cutting Layup Shot,4,-5,45,True
+Trevor Booker,3,1,48,1,Cutting Layup Shot,1,-2,12,True
+Trevor Booker,1,7,0,1,Cutting Layup Shot,2,20,19,True
+Trevor Booker,1,10,19,1,Cutting Layup Shot,2,8,24,True
+Trevor Booker,1,2,48,1,Driving Finger Roll Layup Shot,3,-30,20,True
+Trevor Booker,2,9,13,1,Driving Finger Roll Layup Shot,0,6,7,True
+Trevor Booker,1,3,19,1,Driving Finger Roll Layup Shot,1,-15,11,True
+Trevor Booker,2,10,21,0,Driving Finger Roll Layup Shot,6,-29,54,True
+Trevor Booker,2,8,47,0,Driving Floating Bank Jump Shot,9,-45,84,True
+Trevor Booker,1,1,43,1,Driving Floating Jump Shot,8,14,88,True
+Trevor Booker,1,10,20,1,Driving Floating Jump Shot,4,48,12,True
+Trevor Booker,3,1,7,0,Driving Floating Jump Shot,5,0,59,True
+Trevor Booker,2,0,0,0,Driving Floating Jump Shot,14,63,131,True
+Trevor Booker,1,0,48,0,Driving Floating Jump Shot,9,-47,83,True
+Trevor Booker,2,2,48,0,Driving Floating Jump Shot,10,-52,89,True
+Trevor Booker,1,3,54,0,Driving Hook Shot,3,-37,10,True
+Trevor Booker,3,0,32,0,Driving Hook Shot,8,-51,62,True
+Trevor Booker,2,3,24,0,Driving Hook Shot,5,25,46,True
+Trevor Booker,1,11,1,1,Driving Hook Shot,3,25,31,True
+Trevor Booker,3,7,46,0,Driving Layup Shot,3,38,0,True
+Trevor Booker,2,5,2,1,Driving Layup Shot,1,-3,10,True
+Trevor Booker,4,4,23,1,Driving Layup Shot,0,-5,6,True
+Trevor Booker,1,3,25,1,Driving Layup Shot,2,-12,23,True
+Trevor Booker,1,10,37,0,Driving Layup Shot,2,-4,20,True
+Trevor Booker,3,4,35,1,Driving Layup Shot,5,47,25,True
+Trevor Booker,3,9,43,0,Driving Layup Shot,2,-25,7,True
+Trevor Booker,1,0,25,0,Driving Layup Shot,1,3,19,True
+Trevor Booker,2,4,20,1,Driving Layup Shot,6,-60,30,True
+Trevor Booker,1,1,50,0,Driving Layup Shot,2,23,9,True
+Trevor Booker,2,1,0,1,Driving Layup Shot,2,17,11,True
+Trevor Booker,1,1,14,1,Driving Layup Shot,1,-12,5,True
+Trevor Booker,2,5,26,0,Driving Layup Shot,2,23,14,True
+Trevor Booker,3,0,25,1,Driving Layup Shot,2,-13,25,True
+Trevor Booker,4,7,29,1,Driving Layup Shot,0,9,4,True
+Trevor Booker,4,3,30,1,Driving Layup Shot,0,-1,2,True
+Trevor Booker,3,4,27,1,Driving Reverse Layup Shot,1,-2,14,True
+Trevor Booker,3,0,51,1,Driving Reverse Layup Shot,3,-32,14,True
+Trevor Booker,2,11,33,0,Dunk Shot,3,-5,39,True
+Trevor Booker,1,1,33,0,Fadeaway Jump Shot,15,134,85,True
+Trevor Booker,1,2,35,1,Fadeaway Jump Shot,7,49,54,True
+Trevor Booker,4,9,42,1,Finger Roll Layup Shot,2,-24,0,True
+Trevor Booker,2,9,50,0,Finger Roll Layup Shot,3,-19,32,True
+Trevor Booker,1,1,30,1,Finger Roll Layup Shot,0,-3,-5,True
+Trevor Booker,4,10,30,1,Finger Roll Layup Shot,2,2,22,True
+Trevor Booker,2,10,3,0,Finger Roll Layup Shot,2,24,10,True
+Trevor Booker,1,9,44,0,Floating Jump shot,11,-9,111,True
+Trevor Booker,4,7,29,1,Floating Jump shot,10,25,106,True
+Trevor Booker,3,0,32,1,Floating Jump shot,9,5,96,True
+Trevor Booker,3,0,46,1,Floating Jump shot,10,13,100,True
+Trevor Booker,2,11,41,0,Floating Jump shot,4,2,49,True
+Trevor Booker,4,3,40,0,Floating Jump shot,10,100,36,True
+Trevor Booker,4,8,45,1,Hook Bank Shot,5,30,45,True
+Trevor Booker,1,2,56,0,Hook Bank Shot,4,-24,43,True
+Trevor Booker,1,0,29,1,Hook Bank Shot,6,59,17,True
+Trevor Booker,1,5,32,1,Hook Shot,6,5,60,True
+Trevor Booker,1,3,57,1,Hook Shot,8,2,84,True
+Trevor Booker,3,2,33,0,Hook Shot,6,-32,58,True
+Trevor Booker,4,11,8,0,Hook Shot,9,83,53,True
+Trevor Booker,2,7,9,1,Hook Shot,7,-1,79,True
+Trevor Booker,4,3,52,1,Hook Shot,3,-7,36,True
+Trevor Booker,3,7,36,0,Hook Shot,4,6,46,True
+Trevor Booker,3,3,56,1,Hook Shot,6,25,55,True
+Trevor Booker,1,6,0,0,Hook Shot,9,65,68,True
+Trevor Booker,2,7,10,0,Hook Shot,6,28,62,True
+Trevor Booker,1,4,36,1,Hook Shot,7,-16,76,True
+Trevor Booker,3,6,24,0,Hook Shot,6,6,69,True
+Trevor Booker,1,3,48,1,Hook Shot,7,-28,69,True
+Trevor Booker,4,8,42,1,Hook Shot,9,-24,92,True
+Trevor Booker,1,2,46,0,Jump Bank Shot,4,39,22,True
+Trevor Booker,1,3,33,0,Jump Bank Shot,15,65,146,True
+Trevor Booker,3,1,8,1,Jump Shot,24,-5,243,False
+Trevor Booker,3,9,9,0,Jump Shot,25,-158,196,False
+Trevor Booker,1,1,56,0,Jump Shot,8,-24,81,True
+Trevor Booker,1,6,0,0,Jump Shot,24,218,113,False
+Trevor Booker,4,9,20,0,Jump Shot,23,-236,-2,False
+Trevor Booker,1,5,10,0,Jump Shot,5,20,49,True
+Trevor Booker,2,10,42,0,Jump Shot,17,100,143,True
+Trevor Booker,1,0,58,1,Jump Shot,17,24,169,True
+Trevor Booker,3,11,38,1,Jump Shot,23,231,29,False
+Trevor Booker,4,1,42,1,Jump Shot,24,179,173,False
+Trevor Booker,1,1,38,0,Jump Shot,23,-236,-10,False
+Trevor Booker,4,9,22,1,Jump Shot,26,165,206,False
+Trevor Booker,1,2,39,0,Jump Shot,14,46,136,True
+Trevor Booker,4,5,26,0,Jump Shot,18,-183,21,True
+Trevor Booker,4,11,20,1,Jump Shot,15,142,51,True
+Trevor Booker,2,4,51,0,Jump Shot,23,-231,10,False
+Trevor Booker,3,2,26,0,Jump Shot,22,221,-3,False
+Trevor Booker,3,0,55,0,Jump Shot,19,98,167,True
+Trevor Booker,2,6,28,0,Jump Shot,22,225,32,False
+Trevor Booker,4,3,13,0,Jump Shot,24,117,215,False
+Trevor Booker,3,4,35,0,Jump Shot,14,144,26,True
+Trevor Booker,3,3,0,0,Jump Shot,24,-138,206,False
+Trevor Booker,2,9,20,0,Jump Shot,25,-78,245,False
+Trevor Booker,1,4,18,0,Jump Shot,25,-69,250,False
+Trevor Booker,1,7,8,1,Jump Shot,23,-236,17,False
+Trevor Booker,1,0,29,1,Jump Shot,28,104,260,False
+Trevor Booker,4,6,57,1,Jump Shot,7,-49,52,True
+Trevor Booker,3,4,24,0,Jump Shot,17,172,4,True
+Trevor Booker,1,10,17,0,Jump Shot,23,232,-5,False
+Trevor Booker,4,0,29,0,Jump Shot,26,141,229,False
+Trevor Booker,4,9,12,0,Jump Shot,25,30,250,False
+Trevor Booker,4,6,53,1,Jump Shot,15,-13,155,True
+Trevor Booker,1,3,26,0,Jump Shot,26,120,232,False
+Trevor Booker,2,5,12,0,Jump Shot,26,18,262,False
+Trevor Booker,3,0,30,0,Jump Shot,24,-213,128,False
+Trevor Booker,1,8,49,0,Jump Shot,27,-219,169,False
+Trevor Booker,1,8,26,1,Jump Shot,9,-6,99,True
+Trevor Booker,4,10,37,0,Layup Shot,3,-33,19,True
+Trevor Booker,1,7,30,0,Layup Shot,4,-44,11,True
+Trevor Booker,2,11,25,1,Layup Shot,2,-6,22,True
+Trevor Booker,3,2,32,0,Layup Shot,1,3,19,True
+Trevor Booker,1,2,42,0,Layup Shot,2,-27,2,True
+Trevor Booker,4,10,3,0,Layup Shot,1,12,15,True
+Trevor Booker,2,10,22,0,Layup Shot,1,-9,5,True
+Trevor Booker,3,1,15,0,Layup Shot,1,2,11,True
+Trevor Booker,4,11,10,0,Layup Shot,1,13,-4,True
+Trevor Booker,1,1,19,1,Layup Shot,2,17,22,True
+Trevor Booker,2,10,13,0,Layup Shot,6,-5,69,True
+Trevor Booker,1,1,45,1,Layup Shot,1,-14,7,True
+Trevor Booker,4,7,38,0,Layup Shot,1,-14,8,True
+Trevor Booker,2,10,37,0,Layup Shot,0,-2,6,True
+Trevor Booker,2,1,7,0,Layup Shot,3,34,13,True
+Trevor Booker,1,7,59,0,Layup Shot,0,0,8,True
+Trevor Booker,2,0,24,1,Layup Shot,2,10,28,True
+Trevor Booker,4,9,47,0,Layup Shot,2,25,15,True
+Trevor Booker,4,10,27,0,Layup Shot,2,-24,10,True
+Trevor Booker,2,2,55,1,Layup Shot,3,33,4,True
+Trevor Booker,1,2,23,0,Layup Shot,1,2,15,True
+Trevor Booker,4,1,7,1,Layup Shot,0,3,6,True
+Trevor Booker,2,0,0,0,Layup Shot,3,25,18,True
+Trevor Booker,4,8,37,0,Layup Shot,3,-9,34,True
+Trevor Booker,3,4,46,0,Layup Shot,1,-14,12,True
+Trevor Booker,1,0,26,1,Layup Shot,1,6,14,True
+Trevor Booker,1,2,23,1,Layup Shot,2,-9,25,True
+Trevor Booker,2,5,51,1,Layup Shot,2,-19,10,True
+Trevor Booker,3,0,9,1,Layup Shot,2,13,16,True
+Trevor Booker,4,1,38,0,Layup Shot,1,-8,10,True
+Trevor Booker,3,5,52,1,Layup Shot,0,0,6,True
+Trevor Booker,1,2,52,1,Layup Shot,4,44,8,True
+Trevor Booker,1,3,55,0,Layup Shot,1,-9,5,True
+Trevor Booker,4,6,21,1,Layup Shot,1,-8,18,True
+Trevor Booker,3,4,35,1,Layup Shot,4,36,25,True
+Trevor Booker,2,9,18,1,Layup Shot,1,-18,3,True
+Trevor Booker,3,2,17,0,Layup Shot,1,-8,6,True
+Trevor Booker,3,4,9,1,Layup Shot,3,13,31,True
+Trevor Booker,3,3,45,1,Layup Shot,2,-11,24,True
+Trevor Booker,2,11,36,1,Layup Shot,2,-18,18,True
+Trevor Booker,1,0,3,1,Layup Shot,0,-9,-3,True
+Trevor Booker,3,2,14,1,Layup Shot,1,-6,17,True
+Trevor Booker,1,0,0,0,Layup Shot,3,-9,32,True
+Trevor Booker,4,3,57,0,Layup Shot,3,-5,32,True
+Trevor Booker,4,4,52,0,Layup Shot,1,9,11,True
+Trevor Booker,4,10,0,1,Layup Shot,3,5,30,True
+Trevor Booker,2,11,14,0,Layup Shot,5,-37,38,True
+Trevor Booker,2,7,58,0,Layup Shot,3,-23,31,True
+Trevor Booker,2,10,6,1,Layup Shot,0,0,4,True
+Trevor Booker,1,1,8,0,Layup Shot,1,5,-11,True
+Trevor Booker,1,8,42,0,Pullup Jump shot,24,223,95,False
+Trevor Booker,2,10,40,0,Pullup Jump shot,18,-14,189,True
+Trevor Booker,4,0,24,0,Pullup Jump shot,19,-11,199,True
+Trevor Booker,4,0,59,0,Pullup Jump shot,15,-148,34,True
+Trevor Booker,2,9,17,1,Pullup Jump shot,3,-32,5,True
+Trevor Booker,3,3,7,0,Pullup Jump shot,11,55,101,True
+Trevor Booker,1,11,4,1,Pullup Jump shot,17,-75,157,True
+Trevor Booker,1,2,7,1,Pullup Jump shot,15,139,68,True
+Trevor Booker,4,11,12,0,Pullup Jump shot,26,-111,237,False
+Trevor Booker,2,11,10,0,Putback Layup Shot,3,-29,15,True
+Trevor Booker,2,11,14,1,Putback Layup Shot,3,36,8,True
+Trevor Booker,4,2,58,1,Putback Layup Shot,2,2,22,True
+Trevor Booker,4,2,5,1,Putback Layup Shot,0,0,9,True
+Trevor Booker,2,3,18,1,Putback Layup Shot,0,2,4,True
+Trevor Booker,3,0,28,1,Putback Layup Shot,7,53,59,True
+Trevor Booker,3,1,59,1,Putback Layup Shot,2,23,18,True
+Trevor Booker,4,2,30,1,Putback Layup Shot,1,1,15,True
+Trevor Booker,2,9,9,0,Putback Layup Shot,0,0,-6,True
+Trevor Booker,1,4,43,1,Putback Layup Shot,1,-1,10,True
+Trevor Booker,2,9,48,1,Putback Layup Shot,1,-17,7,True
+Trevor Booker,1,2,51,1,Putback Layup Shot,0,4,5,True
+Trevor Booker,1,1,51,0,Putback Layup Shot,0,0,-6,True
+Trevor Booker,4,8,19,1,Reverse Layup Shot,1,2,10,True
+Trevor Booker,3,0,31,0,Reverse Layup Shot,1,-16,8,True
+Trevor Booker,4,7,49,0,Reverse Layup Shot,1,-4,15,True
+Trevor Booker,4,10,5,1,Reverse Layup Shot,1,4,11,True
+Trevor Booker,2,8,24,1,Running Finger Roll Layup Shot,1,0,18,True
+Trevor Booker,1,0,0,0,Running Jump Shot,39,228,319,False
+Trevor Booker,4,8,11,1,Running Jump Shot,9,45,83,True
+Trevor Booker,4,9,27,1,Running Layup Shot,0,6,-4,True
+Trevor Booker,2,7,18,1,Running Layup Shot,0,-8,3,True
+Trevor Booker,1,1,19,0,Running Layup Shot,1,-14,13,True
+Trevor Booker,1,0,1,0,Running Layup Shot,5,-37,38,True
+Trevor Booker,3,5,34,1,Running Layup Shot,2,-23,1,True
+Trevor Booker,4,5,59,1,Running Layup Shot,1,-18,2,True
+Trevor Booker,1,1,12,1,Running Layup Shot,2,20,4,True
+Trevor Booker,1,2,18,1,Running Layup Shot,1,7,11,True
+Trevor Booker,3,0,54,1,Running Layup Shot,2,-17,21,True
+Trevor Booker,4,2,26,1,Running Reverse Layup Shot,1,-1,10,True
+Trevor Booker,1,5,9,1,Running Reverse Layup Shot,1,2,11,True
+Trevor Booker,4,1,1,0,Step Back Jump shot,17,-104,136,True
+Trevor Booker,1,3,23,0,Step Back Jump shot,16,164,37,True
+Trevor Booker,3,4,50,0,Step Back Jump shot,10,103,-8,True
+Trevor Booker,4,11,35,1,Tip Dunk Shot,0,0,-6,True
+Trevor Booker,4,2,43,1,Tip Dunk Shot,0,0,-6,True
+Trevor Booker,3,0,6,1,Tip Layup Shot,0,0,-6,True
+Trevor Booker,3,1,46,1,Tip Layup Shot,0,0,-6,True
+Trevor Booker,3,5,32,0,Tip Layup Shot,0,0,-6,True
+Trevor Booker,1,0,0,1,Tip Layup Shot,2,18,16,True
+Trevor Booker,2,7,14,1,Tip Layup Shot,0,0,-6,True
+Trevor Booker,3,6,37,1,Tip Layup Shot,0,0,-6,True
+Trevor Booker,2,7,39,1,Tip Layup Shot,0,0,-6,True
+Trevor Booker,2,2,1,0,Tip Layup Shot,0,0,-6,True
+Trevor Booker,2,10,52,1,Tip Layup Shot,0,0,-6,True
+Trevor Booker,4,10,45,0,Tip Layup Shot,0,0,-6,True
+Trevor Booker,4,3,7,1,Tip Layup Shot,0,0,-6,True
+Trevor Booker,1,0,2,0,Tip Layup Shot,1,6,19,True
+Trevor Booker,4,10,48,0,Tip Layup Shot,0,0,-6,True
+Trevor Booker,2,9,57,1,Tip Layup Shot,0,0,-6,True
+Trevor Booker,2,0,0,1,Tip Layup Shot,0,0,-6,True
+Trevor Booker,3,1,3,0,Tip Layup Shot,2,14,25,True
+Trevor Booker,4,3,21,1,Tip Layup Shot,0,0,-6,True
+Trevor Booker,4,3,14,1,Turnaround Bank Hook Shot,9,-89,43,True
+Trevor Booker,3,9,46,0,Turnaround Bank Hook Shot,4,-36,24,True
+Trevor Booker,2,6,12,0,Turnaround Bank Hook Shot,6,-57,20,True
+Trevor Booker,1,9,42,0,Turnaround Bank Hook Shot,7,-46,64,True
+Trevor Booker,3,7,10,1,Turnaround Fadeaway Bank Jump Shot,7,-56,50,True
+Trevor Booker,4,9,18,0,Turnaround Fadeaway Bank Jump Shot,2,-25,11,True
+Trevor Booker,1,4,17,1,Turnaround Fadeaway Bank Jump Shot,6,-57,37,True
+Trevor Booker,2,9,16,1,Turnaround Fadeaway Bank Jump Shot,5,49,19,True
+Trevor Booker,2,1,22,1,Turnaround Fadeaway Bank Jump Shot,5,-45,22,True
+Trevor Booker,3,7,19,1,Turnaround Fadeaway Bank Jump Shot,6,-51,46,True
+Trevor Booker,2,8,25,0,Turnaround Fadeaway shot,11,0,114,True
+Trevor Booker,2,0,9,1,Turnaround Fadeaway shot,10,-6,106,True
+Trevor Booker,2,9,1,1,Turnaround Hook Shot,9,45,88,True
+Trevor Booker,3,10,38,1,Turnaround Hook Shot,5,32,47,True
+Trevor Booker,4,6,3,0,Turnaround Hook Shot,7,-2,75,True
+Trevor Booker,1,10,40,0,Turnaround Hook Shot,3,20,33,True
+Trevor Booker,1,2,45,1,Turnaround Hook Shot,8,61,64,True
+Trevor Booker,1,3,53,1,Turnaround Hook Shot,4,-48,8,True
+Trevor Booker,4,5,27,0,Turnaround Hook Shot,6,31,58,True
+Trevor Booker,1,7,54,0,Turnaround Hook Shot,8,-67,50,True
+Trevor Booker,2,5,24,1,Turnaround Hook Shot,7,-32,64,True
+Trevor Booker,1,2,31,0,Turnaround Hook Shot,7,23,72,True
+Trevor Booker,3,6,20,0,Turnaround Hook Shot,6,-14,65,True
+Trevor Booker,4,6,27,0,Turnaround Hook Shot,8,44,69,True
+Trevor Booker,1,1,15,0,Turnaround Hook Shot,9,13,93,True
+Trevor Booker,1,0,53,0,Turnaround Hook Shot,7,-55,53,True
+Trevor Booker,3,4,53,0,Turnaround Hook Shot,10,-48,95,True
+Trevor Booker,1,5,53,0,Turnaround Hook Shot,11,-15,114,True
+Trevor Booker,2,7,57,0,Turnaround Hook Shot,7,-74,10,True
+Trevor Booker,2,6,28,1,Turnaround Hook Shot,8,-85,14,True
+Trevor Booker,2,5,33,1,Turnaround Hook Shot,5,12,57,True
+Trevor Booker,2,11,45,0,Turnaround Hook Shot,7,-6,71,True
+Trevor Booker,1,4,16,1,Turnaround Hook Shot,3,21,28,True
+Trevor Booker,4,5,39,0,Turnaround Hook Shot,0,0,2,True
+Trevor Booker,1,4,11,0,Turnaround Hook Shot,7,-23,76,True
+Trevor Booker,3,6,1,0,Turnaround Hook Shot,7,-71,0,True
+Trevor Booker,3,4,10,1,Turnaround Hook Shot,5,19,53,True
+Trevor Booker,2,11,3,0,Turnaround Hook Shot,8,-14,84,True
+Trevor Booker,4,9,53,0,Turnaround Hook Shot,7,-28,73,True
+Trevor Booker,2,10,15,1,Turnaround Hook Shot,6,5,69,True
+Trevor Booker,3,0,41,1,Turnaround Hook Shot,7,49,53,True
+Trevor Booker,4,11,46,0,Turnaround Hook Shot,6,58,39,True
+Trevor Booker,2,9,31,0,Turnaround Hook Shot,6,-4,69,True
+Trevor Booker,4,6,37,0,Turnaround Jump Shot,7,-67,29,True
+Trevor Booker,3,4,5,0,Turnaround Jump Shot,7,-64,40,True
+Trevor Booker,2,2,39,1,Turnaround Jump Shot,6,-8,64,True
+Trevor Booker,4,2,39,0,Turnaround Jump Shot,81,-58,816,False
+Trevor Booker,1,1,34,1,Turnaround Jump Shot,6,-14,68,True
+Trevor Booker,1,2,10,1,Turnaround Jump Shot,14,19,140,True
+Trevor Booker,1,6,59,0,Turnaround Jump Shot,7,-38,62,True
+Trevor Booker,4,11,1,0,Turnaround Jump Shot,8,-43,79,True
+Trevor Booker,2,8,54,1,Turnaround Jump Shot,10,-102,24,True
+Trevor Booker,3,6,41,1,Turnaround Jump Shot,11,-119,0,True
+Trevor Booker,4,10,47,1,Turnaround Jump Shot,5,-28,48,True
+Trevor Booker,3,0,50,0,Turnaround Jump Shot,10,-44,90,True
+Trevor Booker,4,11,12,1,Turnaround Jump Shot,6,-59,30,True
+Trevor Booker,3,1,37,0,Turnaround Jump Shot,4,25,34,True
+Trevor Booker,4,3,41,0,Turnaround Jump Shot,11,-73,91,True
+Trevor Booker,2,9,51,1,Turnaround Jump Shot,7,9,77,True
+Trevor Booker,2,2,9,0,Turnaround Jump Shot,1,-12,11,True
+Trevor Booker,2,9,44,0,Turnaround Jump Shot,7,-25,68,True

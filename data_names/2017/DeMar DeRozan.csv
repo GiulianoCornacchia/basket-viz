@@ -1,0 +1,1275 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+DeMar DeRozan,1,6,48,1,Alley Oop Dunk Shot,0,-3,4,True
+DeMar DeRozan,2,4,23,1,Alley Oop Dunk Shot,0,-3,6,True
+DeMar DeRozan,1,8,46,1,Alley Oop Dunk Shot,1,3,13,True
+DeMar DeRozan,1,3,5,1,Alley Oop Dunk Shot,0,-6,4,True
+DeMar DeRozan,3,3,2,1,Alley Oop Dunk Shot,0,0,1,True
+DeMar DeRozan,3,3,49,0,Alley Oop Layup shot,2,-24,0,True
+DeMar DeRozan,4,6,3,1,Cutting Dunk Shot,1,8,10,True
+DeMar DeRozan,4,3,53,1,Cutting Dunk Shot,2,-7,26,True
+DeMar DeRozan,4,5,19,1,Cutting Dunk Shot,1,-1,12,True
+DeMar DeRozan,2,1,46,1,Cutting Dunk Shot,0,-1,-3,True
+DeMar DeRozan,1,5,57,1,Cutting Dunk Shot,1,-8,11,True
+DeMar DeRozan,3,8,41,1,Cutting Dunk Shot,1,13,15,True
+DeMar DeRozan,1,6,15,1,Cutting Dunk Shot,0,6,-4,True
+DeMar DeRozan,3,10,26,1,Cutting Dunk Shot,1,4,13,True
+DeMar DeRozan,1,2,53,1,Cutting Dunk Shot,2,4,21,True
+DeMar DeRozan,1,9,55,1,Cutting Finger Roll Layup Shot,3,9,32,True
+DeMar DeRozan,4,0,9,0,Cutting Finger Roll Layup Shot,4,8,44,True
+DeMar DeRozan,2,1,49,1,Cutting Finger Roll Layup Shot,1,-1,11,True
+DeMar DeRozan,3,6,28,0,Cutting Layup Shot,1,-2,13,True
+DeMar DeRozan,4,1,57,1,Cutting Layup Shot,1,14,7,True
+DeMar DeRozan,1,8,23,1,Cutting Layup Shot,1,11,1,True
+DeMar DeRozan,2,0,32,1,Cutting Layup Shot,2,11,22,True
+DeMar DeRozan,3,6,56,1,Cutting Layup Shot,5,-44,25,True
+DeMar DeRozan,3,2,31,1,Cutting Layup Shot,3,-6,32,True
+DeMar DeRozan,2,2,21,1,Cutting Layup Shot,2,19,17,True
+DeMar DeRozan,4,3,49,1,Cutting Layup Shot,2,-2,20,True
+DeMar DeRozan,3,1,43,1,Cutting Layup Shot,0,-2,5,True
+DeMar DeRozan,3,8,53,1,Cutting Layup Shot,1,-3,17,True
+DeMar DeRozan,4,8,37,0,Cutting Layup Shot,3,-21,26,True
+DeMar DeRozan,3,8,15,1,Cutting Layup Shot,1,16,4,True
+DeMar DeRozan,1,3,56,1,Cutting Layup Shot,1,-9,12,True
+DeMar DeRozan,2,1,43,1,Driving Bank Hook Shot,3,-27,19,True
+DeMar DeRozan,1,3,37,1,Driving Bank Hook Shot,9,-65,69,True
+DeMar DeRozan,2,3,39,1,Driving Dunk Shot,2,23,11,True
+DeMar DeRozan,2,1,41,1,Driving Dunk Shot,1,3,18,True
+DeMar DeRozan,1,2,32,1,Driving Dunk Shot,2,-5,20,True
+DeMar DeRozan,3,8,44,0,Driving Dunk Shot,3,-3,34,True
+DeMar DeRozan,2,2,46,1,Driving Dunk Shot,1,-1,18,True
+DeMar DeRozan,4,0,54,1,Driving Dunk Shot,0,-3,-5,True
+DeMar DeRozan,3,5,48,0,Driving Dunk Shot,0,7,4,True
+DeMar DeRozan,1,0,10,1,Driving Finger Roll Layup Shot,2,24,15,True
+DeMar DeRozan,1,7,55,1,Driving Finger Roll Layup Shot,2,0,22,True
+DeMar DeRozan,2,0,30,1,Driving Finger Roll Layup Shot,2,27,7,True
+DeMar DeRozan,3,3,22,1,Driving Finger Roll Layup Shot,1,-8,14,True
+DeMar DeRozan,3,8,27,0,Driving Finger Roll Layup Shot,3,-24,28,True
+DeMar DeRozan,1,0,10,1,Driving Finger Roll Layup Shot,2,-9,23,True
+DeMar DeRozan,1,9,20,0,Driving Finger Roll Layup Shot,3,-4,35,True
+DeMar DeRozan,3,3,23,1,Driving Finger Roll Layup Shot,1,9,8,True
+DeMar DeRozan,4,3,34,0,Driving Finger Roll Layup Shot,5,11,52,True
+DeMar DeRozan,1,9,25,1,Driving Finger Roll Layup Shot,1,5,16,True
+DeMar DeRozan,2,2,39,1,Driving Finger Roll Layup Shot,0,2,-5,True
+DeMar DeRozan,1,2,44,1,Driving Finger Roll Layup Shot,2,9,26,True
+DeMar DeRozan,3,4,47,0,Driving Finger Roll Layup Shot,4,2,42,True
+DeMar DeRozan,3,2,17,1,Driving Finger Roll Layup Shot,2,-14,17,True
+DeMar DeRozan,1,2,23,0,Driving Finger Roll Layup Shot,2,-12,18,True
+DeMar DeRozan,1,8,27,0,Driving Finger Roll Layup Shot,2,13,23,True
+DeMar DeRozan,1,6,40,1,Driving Finger Roll Layup Shot,1,-8,17,True
+DeMar DeRozan,3,5,38,1,Driving Finger Roll Layup Shot,3,-2,37,True
+DeMar DeRozan,3,8,42,1,Driving Finger Roll Layup Shot,2,-2,25,True
+DeMar DeRozan,1,9,32,1,Driving Floating Bank Jump Shot,16,127,100,True
+DeMar DeRozan,4,3,59,0,Driving Floating Bank Jump Shot,6,58,34,True
+DeMar DeRozan,2,3,45,0,Driving Floating Bank Jump Shot,10,-19,99,True
+DeMar DeRozan,4,2,47,1,Driving Floating Bank Jump Shot,2,23,8,True
+DeMar DeRozan,3,10,17,0,Driving Floating Bank Jump Shot,3,-24,22,True
+DeMar DeRozan,3,7,9,1,Driving Floating Bank Jump Shot,12,92,84,True
+DeMar DeRozan,3,2,1,1,Driving Floating Bank Jump Shot,2,-24,6,True
+DeMar DeRozan,3,11,36,1,Driving Floating Bank Jump Shot,9,-90,21,True
+DeMar DeRozan,3,5,12,1,Driving Floating Bank Jump Shot,2,18,16,True
+DeMar DeRozan,3,10,21,1,Driving Floating Bank Jump Shot,5,46,30,True
+DeMar DeRozan,3,0,41,0,Driving Floating Bank Jump Shot,9,-97,24,True
+DeMar DeRozan,3,2,46,1,Driving Floating Bank Jump Shot,5,51,17,True
+DeMar DeRozan,3,6,54,0,Driving Floating Bank Jump Shot,8,46,67,True
+DeMar DeRozan,1,8,48,0,Driving Floating Bank Jump Shot,4,29,31,True
+DeMar DeRozan,1,3,26,1,Driving Floating Bank Jump Shot,9,87,39,True
+DeMar DeRozan,3,1,24,1,Driving Floating Bank Jump Shot,4,27,34,True
+DeMar DeRozan,3,2,51,1,Driving Floating Bank Jump Shot,2,-11,26,True
+DeMar DeRozan,2,6,33,1,Driving Floating Bank Jump Shot,5,-51,18,True
+DeMar DeRozan,1,1,30,1,Driving Floating Bank Jump Shot,3,30,6,True
+DeMar DeRozan,4,1,21,0,Driving Floating Bank Jump Shot,3,20,29,True
+DeMar DeRozan,1,0,33,0,Driving Floating Bank Jump Shot,5,41,36,True
+DeMar DeRozan,3,5,26,0,Driving Floating Bank Jump Shot,2,20,2,True
+DeMar DeRozan,3,8,26,0,Driving Floating Bank Jump Shot,8,-83,28,True
+DeMar DeRozan,1,7,30,1,Driving Floating Bank Jump Shot,10,97,29,True
+DeMar DeRozan,3,11,46,1,Driving Floating Bank Jump Shot,2,-10,18,True
+DeMar DeRozan,2,3,21,1,Driving Floating Bank Jump Shot,5,-48,17,True
+DeMar DeRozan,4,1,30,1,Driving Floating Bank Jump Shot,6,62,20,True
+DeMar DeRozan,3,8,10,1,Driving Floating Bank Jump Shot,2,-25,11,True
+DeMar DeRozan,3,10,19,1,Driving Floating Bank Jump Shot,2,25,0,True
+DeMar DeRozan,4,1,54,0,Driving Floating Bank Jump Shot,7,28,66,True
+DeMar DeRozan,1,4,23,0,Driving Floating Bank Jump Shot,3,25,17,True
+DeMar DeRozan,2,4,42,0,Driving Floating Bank Jump Shot,15,-131,78,True
+DeMar DeRozan,3,3,41,0,Driving Floating Jump Shot,11,45,109,True
+DeMar DeRozan,1,7,52,1,Driving Floating Jump Shot,2,-27,4,True
+DeMar DeRozan,3,4,7,0,Driving Floating Jump Shot,3,-37,10,True
+DeMar DeRozan,1,0,33,1,Driving Floating Jump Shot,7,29,68,True
+DeMar DeRozan,1,5,45,0,Driving Floating Jump Shot,4,-43,11,True
+DeMar DeRozan,4,1,5,0,Driving Floating Jump Shot,7,6,79,True
+DeMar DeRozan,3,11,12,0,Driving Floating Jump Shot,12,122,10,True
+DeMar DeRozan,1,2,2,0,Driving Floating Jump Shot,9,34,92,True
+DeMar DeRozan,4,3,46,1,Driving Floating Jump Shot,4,-41,24,True
+DeMar DeRozan,2,0,31,1,Driving Floating Jump Shot,12,51,118,True
+DeMar DeRozan,5,4,25,1,Driving Floating Jump Shot,1,16,-1,True
+DeMar DeRozan,3,7,47,0,Driving Floating Jump Shot,2,21,16,True
+DeMar DeRozan,2,5,6,0,Driving Floating Jump Shot,3,-11,35,True
+DeMar DeRozan,4,0,39,0,Driving Floating Jump Shot,2,1,25,True
+DeMar DeRozan,4,4,34,1,Driving Floating Jump Shot,13,76,114,True
+DeMar DeRozan,1,0,58,0,Driving Floating Jump Shot,7,-27,69,True
+DeMar DeRozan,3,1,34,1,Driving Floating Jump Shot,10,35,94,True
+DeMar DeRozan,1,6,36,1,Driving Floating Jump Shot,6,-17,59,True
+DeMar DeRozan,1,9,5,0,Driving Floating Jump Shot,5,14,52,True
+DeMar DeRozan,3,11,4,1,Driving Floating Jump Shot,7,63,43,True
+DeMar DeRozan,3,5,12,1,Driving Floating Jump Shot,7,1,71,True
+DeMar DeRozan,4,6,29,0,Driving Floating Jump Shot,7,6,75,True
+DeMar DeRozan,4,4,54,0,Driving Floating Jump Shot,10,8,103,True
+DeMar DeRozan,3,2,23,1,Driving Floating Jump Shot,3,1,38,True
+DeMar DeRozan,3,0,34,0,Driving Floating Jump Shot,7,46,58,True
+DeMar DeRozan,4,3,33,0,Driving Floating Jump Shot,6,41,55,True
+DeMar DeRozan,1,11,15,0,Driving Floating Jump Shot,5,-12,58,True
+DeMar DeRozan,3,5,7,0,Driving Floating Jump Shot,12,36,115,True
+DeMar DeRozan,3,0,25,1,Driving Floating Jump Shot,2,16,12,True
+DeMar DeRozan,2,0,38,0,Driving Floating Jump Shot,9,4,92,True
+DeMar DeRozan,1,9,54,1,Driving Floating Jump Shot,7,50,59,True
+DeMar DeRozan,3,6,35,0,Driving Floating Jump Shot,6,32,60,True
+DeMar DeRozan,3,10,27,0,Driving Floating Jump Shot,7,70,24,True
+DeMar DeRozan,1,3,59,0,Driving Floating Jump Shot,5,-35,46,True
+DeMar DeRozan,1,6,51,1,Driving Floating Jump Shot,8,-22,87,True
+DeMar DeRozan,1,5,37,0,Driving Floating Jump Shot,9,-14,90,True
+DeMar DeRozan,4,5,39,0,Driving Floating Jump Shot,11,19,110,True
+DeMar DeRozan,1,4,20,1,Driving Floating Jump Shot,7,-79,10,True
+DeMar DeRozan,3,5,38,0,Driving Floating Jump Shot,4,35,21,True
+DeMar DeRozan,3,2,33,1,Driving Floating Jump Shot,5,-54,13,True
+DeMar DeRozan,3,10,3,1,Driving Floating Jump Shot,11,30,106,True
+DeMar DeRozan,3,3,26,0,Driving Floating Jump Shot,8,-9,81,True
+DeMar DeRozan,3,3,54,0,Driving Floating Jump Shot,3,12,36,True
+DeMar DeRozan,2,2,49,0,Driving Floating Jump Shot,5,-51,19,True
+DeMar DeRozan,3,2,37,0,Driving Floating Jump Shot,8,18,86,True
+DeMar DeRozan,3,8,47,0,Driving Floating Jump Shot,3,29,15,True
+DeMar DeRozan,1,1,22,1,Driving Floating Jump Shot,10,52,92,True
+DeMar DeRozan,3,11,8,0,Driving Floating Jump Shot,2,11,27,True
+DeMar DeRozan,3,0,2,1,Driving Floating Jump Shot,8,46,67,True
+DeMar DeRozan,4,1,50,0,Driving Floating Jump Shot,13,-2,138,True
+DeMar DeRozan,3,11,47,0,Driving Floating Jump Shot,12,50,113,True
+DeMar DeRozan,4,9,59,1,Driving Floating Jump Shot,3,-7,37,True
+DeMar DeRozan,5,1,29,1,Driving Floating Jump Shot,12,-95,84,True
+DeMar DeRozan,2,3,8,1,Driving Floating Jump Shot,8,32,77,True
+DeMar DeRozan,4,8,1,0,Driving Floating Jump Shot,10,-41,100,True
+DeMar DeRozan,2,4,45,1,Driving Floating Jump Shot,6,4,67,True
+DeMar DeRozan,4,8,29,1,Driving Floating Jump Shot,3,-3,31,True
+DeMar DeRozan,2,2,22,1,Driving Floating Jump Shot,4,-8,47,True
+DeMar DeRozan,1,10,50,0,Driving Floating Jump Shot,7,76,23,True
+DeMar DeRozan,1,10,17,1,Driving Floating Jump Shot,4,-8,49,True
+DeMar DeRozan,1,3,18,0,Driving Floating Jump Shot,6,-33,53,True
+DeMar DeRozan,3,9,56,1,Driving Floating Jump Shot,10,-40,92,True
+DeMar DeRozan,1,3,20,0,Driving Floating Jump Shot,8,-3,86,True
+DeMar DeRozan,1,6,14,0,Driving Floating Jump Shot,2,-25,6,True
+DeMar DeRozan,2,5,23,1,Driving Floating Jump Shot,3,31,16,True
+DeMar DeRozan,2,2,19,1,Driving Floating Jump Shot,8,11,89,True
+DeMar DeRozan,2,2,40,0,Driving Floating Jump Shot,14,49,134,True
+DeMar DeRozan,1,0,33,1,Driving Floating Jump Shot,4,1,43,True
+DeMar DeRozan,3,8,34,0,Driving Floating Jump Shot,2,-18,20,True
+DeMar DeRozan,1,3,44,0,Driving Floating Jump Shot,3,36,17,True
+DeMar DeRozan,2,5,35,0,Driving Floating Jump Shot,10,-105,9,True
+DeMar DeRozan,4,2,58,0,Driving Floating Jump Shot,8,36,74,True
+DeMar DeRozan,4,0,3,0,Driving Floating Jump Shot,1,14,-4,True
+DeMar DeRozan,2,0,9,1,Driving Floating Jump Shot,6,3,60,True
+DeMar DeRozan,1,6,16,0,Driving Floating Jump Shot,7,-18,68,True
+DeMar DeRozan,1,2,5,1,Driving Floating Jump Shot,5,32,46,True
+DeMar DeRozan,2,1,16,0,Driving Floating Jump Shot,5,19,52,True
+DeMar DeRozan,1,8,56,1,Driving Floating Jump Shot,12,2,125,True
+DeMar DeRozan,3,2,8,0,Driving Floating Jump Shot,11,-89,75,True
+DeMar DeRozan,1,0,56,1,Driving Floating Jump Shot,9,82,46,True
+DeMar DeRozan,3,4,30,1,Driving Floating Jump Shot,8,57,67,True
+DeMar DeRozan,1,1,24,1,Driving Floating Jump Shot,6,68,12,True
+DeMar DeRozan,3,4,33,1,Driving Floating Jump Shot,5,47,22,True
+DeMar DeRozan,3,3,0,0,Driving Floating Jump Shot,10,51,97,True
+DeMar DeRozan,2,3,51,0,Driving Floating Jump Shot,12,-14,126,True
+DeMar DeRozan,3,8,45,0,Driving Floating Jump Shot,7,-25,67,True
+DeMar DeRozan,3,6,28,0,Driving Floating Jump Shot,13,-4,137,True
+DeMar DeRozan,3,7,39,0,Driving Floating Jump Shot,6,33,52,True
+DeMar DeRozan,5,1,49,0,Driving Floating Jump Shot,4,-18,42,True
+DeMar DeRozan,1,1,18,0,Driving Floating Jump Shot,9,6,90,True
+DeMar DeRozan,2,0,32,0,Driving Floating Jump Shot,7,63,38,True
+DeMar DeRozan,3,7,56,0,Driving Floating Jump Shot,2,22,17,True
+DeMar DeRozan,2,3,43,1,Driving Floating Jump Shot,11,-13,112,True
+DeMar DeRozan,1,6,12,1,Driving Floating Jump Shot,4,40,13,True
+DeMar DeRozan,2,1,16,0,Driving Floating Jump Shot,2,22,15,True
+DeMar DeRozan,3,8,9,1,Driving Floating Jump Shot,7,6,78,True
+DeMar DeRozan,3,0,29,1,Driving Floating Jump Shot,9,-17,93,True
+DeMar DeRozan,3,1,27,0,Driving Floating Jump Shot,8,60,64,True
+DeMar DeRozan,5,0,26,1,Driving Floating Jump Shot,7,38,70,True
+DeMar DeRozan,1,11,22,0,Driving Floating Jump Shot,7,-70,6,True
+DeMar DeRozan,2,0,33,1,Driving Floating Jump Shot,12,-33,116,True
+DeMar DeRozan,1,7,53,1,Driving Floating Jump Shot,6,-47,49,True
+DeMar DeRozan,2,5,54,1,Driving Floating Jump Shot,11,-112,6,True
+DeMar DeRozan,5,0,37,0,Driving Floating Jump Shot,11,-27,107,True
+DeMar DeRozan,1,8,53,0,Driving Floating Jump Shot,10,-19,101,True
+DeMar DeRozan,2,0,0,1,Driving Floating Jump Shot,11,-19,110,True
+DeMar DeRozan,1,8,41,0,Driving Floating Jump Shot,4,40,21,True
+DeMar DeRozan,3,2,42,1,Driving Floating Jump Shot,13,-8,137,True
+DeMar DeRozan,1,3,44,0,Driving Floating Jump Shot,16,-8,160,True
+DeMar DeRozan,3,1,58,1,Driving Floating Jump Shot,7,-6,71,True
+DeMar DeRozan,3,4,35,1,Driving Floating Jump Shot,3,-6,38,True
+DeMar DeRozan,3,2,10,1,Driving Floating Jump Shot,6,6,64,True
+DeMar DeRozan,1,0,36,0,Driving Floating Jump Shot,14,52,135,True
+DeMar DeRozan,1,2,30,1,Driving Floating Jump Shot,9,85,45,True
+DeMar DeRozan,2,3,43,0,Driving Floating Jump Shot,6,-46,50,True
+DeMar DeRozan,3,8,13,0,Driving Floating Jump Shot,11,-13,110,True
+DeMar DeRozan,3,1,27,0,Driving Floating Jump Shot,4,-27,36,True
+DeMar DeRozan,2,0,2,0,Driving Floating Jump Shot,9,-89,25,True
+DeMar DeRozan,3,6,35,1,Driving Floating Jump Shot,8,17,88,True
+DeMar DeRozan,2,0,0,1,Driving Hook Shot,9,93,2,True
+DeMar DeRozan,1,0,27,0,Driving Layup Shot,1,0,18,True
+DeMar DeRozan,3,0,52,0,Driving Layup Shot,2,27,10,True
+DeMar DeRozan,1,10,46,1,Driving Layup Shot,1,-3,13,True
+DeMar DeRozan,2,0,51,0,Driving Layup Shot,2,19,12,True
+DeMar DeRozan,4,1,42,0,Driving Layup Shot,6,-41,49,True
+DeMar DeRozan,2,6,22,1,Driving Layup Shot,3,24,26,True
+DeMar DeRozan,3,0,2,1,Driving Layup Shot,1,13,8,True
+DeMar DeRozan,3,4,45,1,Driving Layup Shot,1,6,8,True
+DeMar DeRozan,4,0,30,0,Driving Layup Shot,1,-19,-1,True
+DeMar DeRozan,1,8,44,0,Driving Layup Shot,2,21,18,True
+DeMar DeRozan,1,2,53,0,Driving Layup Shot,7,79,12,True
+DeMar DeRozan,1,3,26,0,Driving Layup Shot,5,-44,36,True
+DeMar DeRozan,4,4,13,1,Driving Layup Shot,1,-14,11,True
+DeMar DeRozan,3,0,28,1,Driving Layup Shot,1,-14,8,True
+DeMar DeRozan,1,0,7,1,Driving Layup Shot,1,-12,13,True
+DeMar DeRozan,4,2,10,0,Driving Layup Shot,2,-18,13,True
+DeMar DeRozan,3,0,54,0,Driving Layup Shot,3,28,11,True
+DeMar DeRozan,4,1,31,1,Driving Layup Shot,2,25,16,True
+DeMar DeRozan,4,7,24,1,Driving Layup Shot,2,28,8,True
+DeMar DeRozan,2,2,40,1,Driving Layup Shot,1,5,10,True
+DeMar DeRozan,2,5,46,0,Driving Layup Shot,2,12,20,True
+DeMar DeRozan,3,0,0,1,Driving Layup Shot,2,24,15,True
+DeMar DeRozan,1,3,0,1,Driving Layup Shot,2,16,16,True
+DeMar DeRozan,1,3,5,0,Driving Layup Shot,2,2,22,True
+DeMar DeRozan,2,4,2,0,Driving Layup Shot,1,13,10,True
+DeMar DeRozan,2,0,59,0,Driving Layup Shot,4,-40,18,True
+DeMar DeRozan,4,0,24,1,Driving Layup Shot,2,-22,15,True
+DeMar DeRozan,3,10,24,0,Driving Layup Shot,3,29,13,True
+DeMar DeRozan,2,0,1,1,Driving Layup Shot,0,-3,6,True
+DeMar DeRozan,1,7,59,1,Driving Layup Shot,0,-2,5,True
+DeMar DeRozan,2,0,3,0,Driving Layup Shot,10,58,84,True
+DeMar DeRozan,2,4,44,1,Driving Layup Shot,1,2,13,True
+DeMar DeRozan,2,3,57,0,Driving Layup Shot,1,12,0,True
+DeMar DeRozan,3,1,28,0,Driving Layup Shot,4,36,27,True
+DeMar DeRozan,1,6,28,1,Driving Layup Shot,2,8,25,True
+DeMar DeRozan,2,1,23,1,Driving Layup Shot,0,4,7,True
+DeMar DeRozan,3,1,1,0,Driving Layup Shot,1,-16,6,True
+DeMar DeRozan,2,2,45,0,Driving Layup Shot,2,-16,18,True
+DeMar DeRozan,2,5,40,1,Driving Layup Shot,0,3,2,True
+DeMar DeRozan,1,8,35,0,Driving Layup Shot,2,20,7,True
+DeMar DeRozan,1,2,51,0,Driving Layup Shot,2,21,10,True
+DeMar DeRozan,3,0,15,1,Driving Layup Shot,1,-18,4,True
+DeMar DeRozan,1,2,28,0,Driving Layup Shot,3,30,12,True
+DeMar DeRozan,2,3,48,0,Driving Layup Shot,1,-14,-1,True
+DeMar DeRozan,3,7,2,1,Driving Layup Shot,0,5,6,True
+DeMar DeRozan,2,2,18,1,Driving Layup Shot,1,11,5,True
+DeMar DeRozan,1,7,7,1,Driving Layup Shot,1,16,0,True
+DeMar DeRozan,4,3,20,1,Driving Layup Shot,0,-2,6,True
+DeMar DeRozan,4,3,22,0,Driving Layup Shot,1,9,14,True
+DeMar DeRozan,2,4,26,1,Driving Layup Shot,1,11,4,True
+DeMar DeRozan,1,9,29,0,Driving Layup Shot,1,8,10,True
+DeMar DeRozan,1,4,51,0,Driving Layup Shot,1,-16,4,True
+DeMar DeRozan,3,3,37,1,Driving Layup Shot,3,29,14,True
+DeMar DeRozan,4,2,1,1,Driving Layup Shot,1,-9,5,True
+DeMar DeRozan,1,0,44,0,Driving Layup Shot,1,-16,-1,True
+DeMar DeRozan,4,3,58,1,Driving Layup Shot,6,-16,63,True
+DeMar DeRozan,3,8,23,0,Driving Layup Shot,1,10,5,True
+DeMar DeRozan,1,6,48,1,Driving Layup Shot,2,-15,14,True
+DeMar DeRozan,2,4,45,1,Driving Layup Shot,1,-13,6,True
+DeMar DeRozan,3,10,36,1,Driving Layup Shot,0,5,4,True
+DeMar DeRozan,1,9,36,1,Driving Layup Shot,2,20,10,True
+DeMar DeRozan,3,5,58,0,Driving Layup Shot,1,18,1,True
+DeMar DeRozan,3,10,42,0,Driving Layup Shot,2,-16,14,True
+DeMar DeRozan,2,3,28,0,Driving Layup Shot,2,-23,10,True
+DeMar DeRozan,1,1,42,0,Driving Layup Shot,1,10,13,True
+DeMar DeRozan,3,0,11,0,Driving Layup Shot,2,-24,0,True
+DeMar DeRozan,3,2,21,1,Driving Layup Shot,2,20,6,True
+DeMar DeRozan,3,4,26,0,Driving Layup Shot,2,-15,22,True
+DeMar DeRozan,3,5,39,0,Driving Layup Shot,6,5,64,True
+DeMar DeRozan,2,0,33,1,Driving Layup Shot,1,-9,5,True
+DeMar DeRozan,1,3,2,0,Driving Layup Shot,1,8,-9,True
+DeMar DeRozan,4,4,3,0,Driving Layup Shot,2,-13,24,True
+DeMar DeRozan,4,1,15,0,Driving Layup Shot,1,-11,12,True
+DeMar DeRozan,3,3,19,0,Driving Layup Shot,1,-10,11,True
+DeMar DeRozan,3,7,46,1,Driving Layup Shot,2,20,20,True
+DeMar DeRozan,4,1,56,1,Driving Layup Shot,1,14,9,True
+DeMar DeRozan,4,1,39,1,Driving Layup Shot,2,-3,29,True
+DeMar DeRozan,3,11,7,0,Driving Layup Shot,3,34,17,True
+DeMar DeRozan,2,0,8,1,Driving Layup Shot,0,-7,4,True
+DeMar DeRozan,4,11,29,0,Driving Layup Shot,0,-3,6,True
+DeMar DeRozan,3,1,11,1,Driving Layup Shot,1,8,11,True
+DeMar DeRozan,3,0,9,1,Driving Layup Shot,1,5,18,True
+DeMar DeRozan,3,0,52,1,Driving Layup Shot,1,-16,9,True
+DeMar DeRozan,2,1,57,0,Driving Layup Shot,1,9,13,True
+DeMar DeRozan,3,6,9,0,Driving Layup Shot,2,19,12,True
+DeMar DeRozan,1,7,2,0,Driving Layup Shot,2,15,21,True
+DeMar DeRozan,4,1,33,1,Driving Layup Shot,3,-22,29,True
+DeMar DeRozan,4,2,56,0,Driving Layup Shot,2,2,20,True
+DeMar DeRozan,4,3,7,1,Driving Layup Shot,1,-5,13,True
+DeMar DeRozan,2,2,22,0,Driving Layup Shot,7,66,35,True
+DeMar DeRozan,1,6,53,1,Driving Layup Shot,1,8,16,True
+DeMar DeRozan,3,5,54,0,Driving Layup Shot,2,20,16,True
+DeMar DeRozan,4,4,5,1,Driving Layup Shot,3,23,27,True
+DeMar DeRozan,3,4,56,1,Driving Layup Shot,1,-14,9,True
+DeMar DeRozan,1,11,0,1,Driving Layup Shot,2,0,21,True
+DeMar DeRozan,3,7,18,1,Driving Layup Shot,2,27,4,True
+DeMar DeRozan,1,9,7,0,Driving Layup Shot,5,-30,47,True
+DeMar DeRozan,4,4,0,0,Driving Layup Shot,2,-13,23,True
+DeMar DeRozan,1,2,29,0,Driving Layup Shot,2,-17,21,True
+DeMar DeRozan,4,6,18,1,Driving Layup Shot,1,-6,17,True
+DeMar DeRozan,3,4,28,1,Driving Layup Shot,1,5,10,True
+DeMar DeRozan,3,2,39,0,Driving Layup Shot,1,-2,17,True
+DeMar DeRozan,1,6,1,0,Driving Layup Shot,2,-22,14,True
+DeMar DeRozan,1,3,47,1,Driving Layup Shot,2,-18,17,True
+DeMar DeRozan,4,4,42,1,Driving Layup Shot,2,18,20,True
+DeMar DeRozan,4,2,11,1,Driving Layup Shot,1,16,3,True
+DeMar DeRozan,1,5,37,0,Driving Layup Shot,5,39,38,True
+DeMar DeRozan,4,3,52,0,Driving Layup Shot,1,5,18,True
+DeMar DeRozan,2,0,47,1,Driving Reverse Layup Shot,1,-13,13,True
+DeMar DeRozan,4,0,58,1,Driving Reverse Layup Shot,1,-8,13,True
+DeMar DeRozan,1,10,49,1,Driving Reverse Layup Shot,2,-11,26,True
+DeMar DeRozan,4,1,29,0,Driving Reverse Layup Shot,1,17,6,True
+DeMar DeRozan,1,3,0,1,Driving Reverse Layup Shot,0,-5,0,True
+DeMar DeRozan,4,2,35,0,Driving Reverse Layup Shot,2,-13,16,True
+DeMar DeRozan,2,1,59,1,Driving Reverse Layup Shot,0,-9,4,True
+DeMar DeRozan,2,4,48,0,Driving Reverse Layup Shot,1,-19,6,True
+DeMar DeRozan,4,6,3,0,Driving Reverse Layup Shot,2,22,7,True
+DeMar DeRozan,1,6,17,1,Driving Reverse Layup Shot,1,16,9,True
+DeMar DeRozan,3,1,33,1,Driving Reverse Layup Shot,1,-14,5,True
+DeMar DeRozan,3,10,52,1,Driving Reverse Layup Shot,3,-27,20,True
+DeMar DeRozan,3,7,37,0,Driving Reverse Layup Shot,1,-16,-3,True
+DeMar DeRozan,3,10,40,1,Driving Reverse Layup Shot,1,-6,10,True
+DeMar DeRozan,3,7,16,1,Driving Reverse Layup Shot,1,-10,3,True
+DeMar DeRozan,4,0,56,1,Driving Reverse Layup Shot,1,-13,2,True
+DeMar DeRozan,1,5,36,1,Driving Reverse Layup Shot,1,-10,-5,True
+DeMar DeRozan,2,2,5,1,Driving Reverse Layup Shot,0,-3,-2,True
+DeMar DeRozan,2,5,5,1,Driving Reverse Layup Shot,2,13,20,True
+DeMar DeRozan,4,3,22,0,Driving Reverse Layup Shot,1,-13,5,True
+DeMar DeRozan,2,5,56,1,Driving Reverse Layup Shot,0,6,1,True
+DeMar DeRozan,1,9,29,1,Driving Reverse Layup Shot,2,19,11,True
+DeMar DeRozan,3,3,6,1,Driving Reverse Layup Shot,0,-2,6,True
+DeMar DeRozan,2,5,18,1,Driving Reverse Layup Shot,0,8,1,True
+DeMar DeRozan,2,8,27,1,Driving Reverse Layup Shot,0,-7,-3,True
+DeMar DeRozan,1,1,24,1,Dunk Shot,0,3,6,True
+DeMar DeRozan,5,0,1,1,Dunk Shot,0,2,5,True
+DeMar DeRozan,1,4,15,1,Fadeaway Jump Shot,22,228,4,False
+DeMar DeRozan,1,11,24,0,Fadeaway Jump Shot,14,-124,84,True
+DeMar DeRozan,3,0,0,0,Fadeaway Jump Shot,15,-112,109,True
+DeMar DeRozan,1,3,17,0,Fadeaway Jump Shot,17,-78,158,True
+DeMar DeRozan,2,3,52,0,Fadeaway Jump Shot,9,46,84,True
+DeMar DeRozan,2,0,56,1,Fadeaway Jump Shot,8,-41,75,True
+DeMar DeRozan,2,1,46,0,Fadeaway Jump Shot,10,104,10,True
+DeMar DeRozan,1,0,7,1,Fadeaway Jump Shot,11,108,28,True
+DeMar DeRozan,2,4,12,1,Fadeaway Jump Shot,13,120,68,True
+DeMar DeRozan,1,6,17,0,Fadeaway Jump Shot,10,79,62,True
+DeMar DeRozan,3,0,0,1,Fadeaway Jump Shot,17,-105,140,True
+DeMar DeRozan,3,5,55,1,Fadeaway Jump Shot,17,90,146,True
+DeMar DeRozan,2,2,29,0,Fadeaway Jump Shot,9,65,63,True
+DeMar DeRozan,4,4,0,0,Fadeaway Jump Shot,17,178,18,True
+DeMar DeRozan,2,0,26,0,Fadeaway Jump Shot,14,134,46,True
+DeMar DeRozan,2,3,44,0,Fadeaway Jump Shot,9,-96,15,True
+DeMar DeRozan,2,0,5,0,Fadeaway Jump Shot,18,112,147,True
+DeMar DeRozan,1,6,22,1,Fadeaway Jump Shot,9,93,36,True
+DeMar DeRozan,2,0,55,1,Finger Roll Layup Shot,5,-2,50,True
+DeMar DeRozan,1,3,21,1,Finger Roll Layup Shot,2,19,10,True
+DeMar DeRozan,1,6,29,0,Finger Roll Layup Shot,1,13,11,True
+DeMar DeRozan,2,1,40,0,Finger Roll Layup Shot,4,-43,21,True
+DeMar DeRozan,2,3,7,0,Finger Roll Layup Shot,3,-16,32,True
+DeMar DeRozan,3,3,48,0,Finger Roll Layup Shot,1,13,12,True
+DeMar DeRozan,1,3,8,1,Floating Jump shot,10,34,98,True
+DeMar DeRozan,3,10,58,0,Floating Jump shot,14,-63,132,True
+DeMar DeRozan,4,8,5,0,Floating Jump shot,14,78,117,True
+DeMar DeRozan,4,1,53,1,Floating Jump shot,12,92,89,True
+DeMar DeRozan,3,8,27,0,Floating Jump shot,12,101,75,True
+DeMar DeRozan,1,2,30,1,Floating Jump shot,16,-18,164,True
+DeMar DeRozan,2,5,1,0,Floating Jump shot,8,-62,62,True
+DeMar DeRozan,3,6,26,0,Floating Jump shot,5,32,49,True
+DeMar DeRozan,2,7,44,1,Floating Jump shot,10,-100,17,True
+DeMar DeRozan,2,4,39,0,Floating Jump shot,5,26,52,True
+DeMar DeRozan,1,2,33,1,Floating Jump shot,10,-100,24,True
+DeMar DeRozan,1,2,48,1,Floating Jump shot,6,24,65,True
+DeMar DeRozan,1,2,5,0,Floating Jump shot,6,52,39,True
+DeMar DeRozan,3,1,54,0,Floating Jump shot,4,-29,34,True
+DeMar DeRozan,1,10,14,0,Floating Jump shot,54,-220,496,False
+DeMar DeRozan,4,0,0,0,Floating Jump shot,12,126,9,True
+DeMar DeRozan,2,3,23,1,Floating Jump shot,6,-35,53,True
+DeMar DeRozan,2,6,26,0,Floating Jump shot,16,-36,158,True
+DeMar DeRozan,4,2,14,1,Floating Jump shot,4,2,42,True
+DeMar DeRozan,4,4,12,1,Floating Jump shot,10,-43,94,True
+DeMar DeRozan,2,1,41,1,Floating Jump shot,6,-5,68,True
+DeMar DeRozan,2,5,51,1,Floating Jump shot,8,-82,25,True
+DeMar DeRozan,1,3,33,1,Floating Jump shot,6,-60,21,True
+DeMar DeRozan,3,7,31,0,Floating Jump shot,11,-2,117,True
+DeMar DeRozan,4,0,55,1,Floating Jump shot,10,41,98,True
+DeMar DeRozan,3,4,27,0,Floating Jump shot,12,-67,111,True
+DeMar DeRozan,1,0,35,1,Floating Jump shot,10,41,96,True
+DeMar DeRozan,2,0,0,0,Floating Jump shot,10,-30,98,True
+DeMar DeRozan,3,7,24,0,Floating Jump shot,13,39,127,True
+DeMar DeRozan,1,0,47,0,Floating Jump shot,9,-98,14,True
+DeMar DeRozan,4,1,3,1,Floating Jump shot,2,3,26,True
+DeMar DeRozan,4,0,41,1,Floating Jump shot,8,8,80,True
+DeMar DeRozan,5,3,15,1,Floating Jump shot,9,27,94,True
+DeMar DeRozan,1,1,48,0,Floating Jump shot,1,3,17,True
+DeMar DeRozan,1,0,0,0,Floating Jump shot,40,-58,403,False
+DeMar DeRozan,3,10,19,1,Floating Jump shot,14,-18,141,True
+DeMar DeRozan,3,7,56,1,Floating Jump shot,11,-1,111,True
+DeMar DeRozan,1,5,14,0,Floating Jump shot,12,9,127,True
+DeMar DeRozan,3,0,0,0,Floating Jump shot,61,165,597,False
+DeMar DeRozan,3,6,41,1,Floating Jump shot,8,-48,67,True
+DeMar DeRozan,2,0,44,0,Jump Bank Shot,23,-230,18,False
+DeMar DeRozan,1,5,38,0,Jump Bank Shot,22,226,-3,False
+DeMar DeRozan,1,4,15,1,Jump Bank Shot,7,62,34,True
+DeMar DeRozan,1,4,27,1,Jump Bank Shot,3,26,27,True
+DeMar DeRozan,1,1,13,0,Jump Shot,19,-161,106,True
+DeMar DeRozan,3,2,1,1,Jump Shot,23,-228,45,False
+DeMar DeRozan,2,0,35,0,Jump Shot,26,94,250,False
+DeMar DeRozan,2,4,26,1,Jump Shot,15,7,153,True
+DeMar DeRozan,1,2,4,0,Jump Shot,21,-67,204,True
+DeMar DeRozan,3,5,24,1,Jump Shot,26,169,201,False
+DeMar DeRozan,1,9,30,0,Jump Shot,23,-232,2,False
+DeMar DeRozan,3,5,23,0,Jump Shot,23,-221,71,False
+DeMar DeRozan,1,0,27,0,Jump Shot,26,-68,260,False
+DeMar DeRozan,1,11,21,1,Jump Shot,15,0,150,True
+DeMar DeRozan,2,0,6,0,Jump Shot,19,195,26,True
+DeMar DeRozan,3,8,39,0,Jump Shot,23,228,37,False
+DeMar DeRozan,1,11,38,0,Jump Shot,21,210,-12,True
+DeMar DeRozan,1,4,2,0,Jump Shot,26,165,204,False
+DeMar DeRozan,2,1,32,1,Jump Shot,24,242,-10,False
+DeMar DeRozan,1,4,38,1,Jump Shot,27,-160,219,False
+DeMar DeRozan,1,7,25,1,Jump Shot,26,163,203,False
+DeMar DeRozan,3,1,46,0,Jump Shot,22,-41,224,True
+DeMar DeRozan,2,3,41,1,Jump Shot,25,-158,197,False
+DeMar DeRozan,1,8,40,0,Jump Shot,18,-64,177,True
+DeMar DeRozan,3,9,53,0,Jump Shot,12,47,111,True
+DeMar DeRozan,3,3,37,0,Jump Shot,15,63,141,True
+DeMar DeRozan,4,2,19,0,Jump Shot,22,-143,174,True
+DeMar DeRozan,3,7,5,0,Jump Shot,21,-40,209,True
+DeMar DeRozan,2,0,0,1,Jump Shot,12,102,65,True
+DeMar DeRozan,4,4,21,0,Jump Shot,28,-203,206,False
+DeMar DeRozan,2,2,36,0,Jump Shot,27,121,247,False
+DeMar DeRozan,4,1,23,0,Jump Shot,24,242,27,False
+DeMar DeRozan,4,3,21,1,Jump Shot,23,231,30,False
+DeMar DeRozan,4,2,18,0,Jump Shot,24,229,75,False
+DeMar DeRozan,5,0,5,0,Jump Shot,22,-226,41,False
+DeMar DeRozan,1,4,0,0,Jump Shot,24,-214,115,False
+DeMar DeRozan,2,4,10,0,Jump Shot,22,227,11,False
+DeMar DeRozan,1,6,40,0,Jump Shot,22,-224,16,False
+DeMar DeRozan,3,10,45,1,Jump Shot,25,-128,223,False
+DeMar DeRozan,1,2,23,0,Jump Shot,1,15,13,True
+DeMar DeRozan,2,4,4,0,Jump Shot,25,138,215,False
+DeMar DeRozan,1,8,24,0,Jump Shot,25,27,249,False
+DeMar DeRozan,3,7,18,1,Jump Shot,24,-215,119,False
+DeMar DeRozan,1,0,4,0,Jump Shot,27,-65,270,False
+DeMar DeRozan,1,7,13,1,Jump Shot,22,-228,0,False
+DeMar DeRozan,4,8,27,0,Jump Shot,14,-15,148,True
+DeMar DeRozan,3,6,11,0,Jump Shot,24,-100,224,False
+DeMar DeRozan,3,3,17,1,Jump Shot,15,158,19,True
+DeMar DeRozan,2,2,4,1,Jump Shot,24,-119,217,False
+DeMar DeRozan,1,2,19,0,Jump Shot,25,136,214,False
+DeMar DeRozan,3,8,36,0,Jump Shot,14,135,52,True
+DeMar DeRozan,1,3,30,1,Jump Shot,21,103,185,True
+DeMar DeRozan,3,0,43,1,Jump Shot,14,-40,137,True
+DeMar DeRozan,1,6,11,0,Jump Shot,26,-93,252,False
+DeMar DeRozan,1,9,46,0,Jump Shot,25,125,222,False
+DeMar DeRozan,2,3,23,0,Jump Shot,23,-136,190,True
+DeMar DeRozan,4,0,14,1,Jump Shot,27,-168,222,False
+DeMar DeRozan,3,5,5,0,Jump Shot,2,-22,-15,True
+DeMar DeRozan,2,1,43,0,Jump Shot,13,116,59,True
+DeMar DeRozan,2,0,35,0,Jump Shot,22,-223,-4,False
+DeMar DeRozan,4,1,56,0,Jump Shot,18,130,137,True
+DeMar DeRozan,3,11,49,0,Jump Shot,15,-73,134,True
+DeMar DeRozan,3,10,18,1,Jump Shot,22,-226,-6,False
+DeMar DeRozan,2,4,46,0,Jump Shot,27,-134,238,False
+DeMar DeRozan,3,2,22,1,Jump Shot,26,-144,225,False
+DeMar DeRozan,2,4,34,0,Jump Shot,11,105,50,True
+DeMar DeRozan,1,1,41,0,Jump Shot,20,205,12,True
+DeMar DeRozan,5,0,28,0,Jump Shot,23,230,32,False
+DeMar DeRozan,3,0,2,0,Jump Shot,17,175,9,True
+DeMar DeRozan,3,0,34,1,Jump Shot,24,176,176,False
+DeMar DeRozan,1,9,46,0,Jump Shot,22,85,210,True
+DeMar DeRozan,1,7,25,0,Jump Shot,25,68,244,False
+DeMar DeRozan,1,0,59,1,Jump Shot,20,-145,140,True
+DeMar DeRozan,4,9,6,1,Jump Shot,19,-193,20,True
+DeMar DeRozan,3,0,33,0,Jump Shot,25,-163,197,False
+DeMar DeRozan,4,5,16,1,Jump Shot,21,-54,210,True
+DeMar DeRozan,2,3,43,0,Jump Shot,8,72,38,True
+DeMar DeRozan,1,6,16,1,Jump Shot,20,81,189,True
+DeMar DeRozan,3,7,52,1,Jump Shot,24,134,206,False
+DeMar DeRozan,4,2,58,1,Jump Shot,23,232,11,False
+DeMar DeRozan,3,2,31,0,Jump Shot,26,-13,262,False
+DeMar DeRozan,4,1,56,0,Jump Shot,23,234,19,False
+DeMar DeRozan,3,10,58,0,Jump Shot,24,231,88,False
+DeMar DeRozan,3,1,31,0,Jump Shot,29,-54,289,False
+DeMar DeRozan,3,2,58,1,Jump Shot,8,-9,88,True
+DeMar DeRozan,1,5,1,0,Jump Shot,22,228,12,False
+DeMar DeRozan,2,2,42,1,Jump Shot,19,-190,-6,True
+DeMar DeRozan,3,1,47,0,Jump Shot,24,174,179,False
+DeMar DeRozan,2,0,0,0,Jump Shot,30,138,269,False
+DeMar DeRozan,1,9,15,0,Jump Shot,25,-160,199,False
+DeMar DeRozan,1,9,33,1,Jump Shot,24,-235,50,False
+DeMar DeRozan,1,0,35,0,Jump Shot,26,-65,259,False
+DeMar DeRozan,3,9,0,0,Jump Shot,3,18,35,True
+DeMar DeRozan,3,8,51,0,Jump Shot,4,4,44,True
+DeMar DeRozan,3,3,53,1,Jump Shot,17,-3,174,True
+DeMar DeRozan,3,2,52,1,Jump Shot,25,-52,247,False
+DeMar DeRozan,1,2,44,0,Jump Shot,19,73,181,True
+DeMar DeRozan,3,9,57,0,Jump Shot,17,-111,129,True
+DeMar DeRozan,3,0,39,0,Jump Shot,25,-139,210,False
+DeMar DeRozan,2,1,17,0,Jump Shot,7,70,-6,True
+DeMar DeRozan,4,1,25,0,Jump Shot,24,-154,191,False
+DeMar DeRozan,1,4,53,1,Jump Shot,20,-207,19,True
+DeMar DeRozan,3,0,0,0,Jump Shot,38,-199,330,False
+DeMar DeRozan,4,4,13,1,Jump Shot,26,208,158,False
+DeMar DeRozan,4,1,54,0,Jump Shot,19,-193,34,True
+DeMar DeRozan,1,9,31,0,Jump Shot,23,-75,219,True
+DeMar DeRozan,4,0,0,0,Jump Shot,82,-136,809,False
+DeMar DeRozan,3,2,36,0,Jump Shot,15,-132,75,True
+DeMar DeRozan,3,9,40,0,Jump Shot,23,234,5,False
+DeMar DeRozan,3,9,52,1,Jump Shot,23,-234,18,False
+DeMar DeRozan,3,10,6,0,Jump Shot,24,-103,227,False
+DeMar DeRozan,2,4,8,0,Jump Shot,25,-143,213,False
+DeMar DeRozan,1,10,23,0,Jump Shot,26,41,266,False
+DeMar DeRozan,1,8,47,0,Jump Shot,25,117,228,False
+DeMar DeRozan,4,1,4,1,Jump Shot,22,144,178,True
+DeMar DeRozan,3,3,35,1,Jump Shot,22,228,5,False
+DeMar DeRozan,1,8,34,0,Jump Shot,24,-101,226,False
+DeMar DeRozan,3,11,0,1,Jump Shot,16,78,150,True
+DeMar DeRozan,1,7,43,0,Jump Shot,25,-171,188,False
+DeMar DeRozan,3,0,28,1,Jump Shot,25,-65,251,False
+DeMar DeRozan,4,1,34,0,Jump Shot,26,27,260,False
+DeMar DeRozan,3,4,22,1,Jump Shot,23,-230,1,False
+DeMar DeRozan,4,4,21,0,Jump Shot,18,39,177,True
+DeMar DeRozan,4,8,20,1,Jump Shot,9,-10,94,True
+DeMar DeRozan,2,3,36,0,Jump Shot,13,-131,47,True
+DeMar DeRozan,1,3,25,0,Jump Shot,22,-225,-4,False
+DeMar DeRozan,1,10,46,1,Jump Shot,15,-144,55,True
+DeMar DeRozan,1,0,45,0,Jump Shot,8,-84,11,True
+DeMar DeRozan,4,6,29,0,Jump Shot,25,-116,230,False
+DeMar DeRozan,3,0,25,0,Jump Shot,28,-160,233,False
+DeMar DeRozan,2,2,26,0,Jump Shot,23,-230,20,False
+DeMar DeRozan,1,0,36,0,Jump Shot,3,-7,33,True
+DeMar DeRozan,3,11,23,0,Jump Shot,7,-9,79,True
+DeMar DeRozan,3,1,51,1,Jump Shot,25,-3,252,False
+DeMar DeRozan,1,7,7,0,Jump Shot,17,158,67,True
+DeMar DeRozan,1,11,21,1,Jump Shot,22,222,13,False
+DeMar DeRozan,1,3,50,0,Jump Shot,24,-177,176,False
+DeMar DeRozan,2,2,17,0,Jump Shot,23,-232,24,False
+DeMar DeRozan,3,9,26,1,Jump Shot,14,116,94,True
+DeMar DeRozan,4,4,22,0,Jump Shot,17,65,158,True
+DeMar DeRozan,3,5,22,1,Jump Shot,24,-228,100,False
+DeMar DeRozan,1,7,59,1,Jump Shot,22,226,33,False
+DeMar DeRozan,1,11,39,1,Jump Shot,25,-92,241,False
+DeMar DeRozan,1,4,36,0,Jump Shot,27,-138,237,False
+DeMar DeRozan,1,2,23,1,Jump Shot,28,-119,254,False
+DeMar DeRozan,2,7,43,1,Jump Shot,11,-91,64,True
+DeMar DeRozan,3,9,45,0,Jump Shot,28,114,257,False
+DeMar DeRozan,3,3,18,1,Jump Shot,17,-86,147,True
+DeMar DeRozan,1,4,3,0,Jump Shot,22,226,-1,False
+DeMar DeRozan,4,0,7,0,Jump Shot,24,-229,92,False
+DeMar DeRozan,2,0,1,0,Jump Shot,14,-131,62,True
+DeMar DeRozan,2,0,37,0,Jump Shot,12,60,111,True
+DeMar DeRozan,4,3,10,1,Jump Shot,25,-173,190,False
+DeMar DeRozan,3,9,56,0,Jump Shot,6,14,63,True
+DeMar DeRozan,3,6,17,1,Jump Shot,22,-53,221,True
+DeMar DeRozan,1,8,14,1,Jump Shot,9,-90,-4,True
+DeMar DeRozan,3,7,42,1,Jump Shot,11,21,109,True
+DeMar DeRozan,5,2,11,0,Jump Shot,25,82,245,False
+DeMar DeRozan,2,5,50,0,Jump Shot,22,229,13,False
+DeMar DeRozan,3,9,46,1,Jump Shot,15,-3,153,True
+DeMar DeRozan,3,7,40,1,Jump Shot,22,65,214,True
+DeMar DeRozan,4,4,49,0,Jump Shot,17,13,172,True
+DeMar DeRozan,4,5,19,0,Jump Shot,25,-192,167,False
+DeMar DeRozan,4,3,16,0,Jump Shot,25,-193,166,False
+DeMar DeRozan,2,2,10,0,Jump Shot,24,-29,241,False
+DeMar DeRozan,1,6,55,1,Jump Shot,22,-221,8,False
+DeMar DeRozan,3,8,18,0,Jump Shot,22,-228,10,False
+DeMar DeRozan,2,6,28,0,Jump Shot,22,-229,7,False
+DeMar DeRozan,3,1,36,1,Jump Shot,25,-176,190,False
+DeMar DeRozan,3,10,12,1,Jump Shot,22,100,203,True
+DeMar DeRozan,2,0,0,0,Jump Shot,26,-228,136,False
+DeMar DeRozan,1,3,46,0,Jump Shot,23,-233,8,False
+DeMar DeRozan,1,3,32,0,Jump Shot,25,-102,229,False
+DeMar DeRozan,2,0,16,0,Jump Shot,26,145,225,False
+DeMar DeRozan,3,5,16,1,Jump Shot,25,34,248,False
+DeMar DeRozan,2,0,26,0,Jump Shot,32,-104,306,False
+DeMar DeRozan,1,9,10,1,Jump Shot,14,127,69,True
+DeMar DeRozan,1,1,53,0,Jump Shot,25,-216,143,False
+DeMar DeRozan,1,10,5,0,Jump Shot,21,-155,145,True
+DeMar DeRozan,1,5,5,0,Jump Shot,22,228,16,False
+DeMar DeRozan,4,0,10,1,Jump Shot,15,149,38,True
+DeMar DeRozan,3,3,40,0,Jump Shot,26,93,245,False
+DeMar DeRozan,3,2,56,0,Jump Shot,24,-203,143,False
+DeMar DeRozan,4,1,56,0,Jump Shot,13,-130,38,True
+DeMar DeRozan,3,5,38,0,Jump Shot,23,236,7,False
+DeMar DeRozan,3,6,7,0,Jump Shot,23,-231,22,False
+DeMar DeRozan,3,8,10,0,Jump Shot,11,-115,18,True
+DeMar DeRozan,1,5,21,0,Jump Shot,24,67,235,False
+DeMar DeRozan,3,8,36,1,Jump Shot,25,-220,120,False
+DeMar DeRozan,4,7,46,0,Jump Shot,21,-52,213,True
+DeMar DeRozan,4,0,0,0,Jump Shot,37,-134,349,False
+DeMar DeRozan,2,5,36,1,Jump Shot,14,-117,78,True
+DeMar DeRozan,3,5,15,0,Jump Shot,13,-85,104,True
+DeMar DeRozan,1,1,57,0,Jump Shot,23,230,-3,False
+DeMar DeRozan,4,1,4,0,Jump Shot,19,16,194,True
+DeMar DeRozan,1,4,40,0,Jump Shot,26,27,267,False
+DeMar DeRozan,1,6,52,1,Jump Shot,23,230,68,False
+DeMar DeRozan,2,1,59,1,Jump Shot,25,221,134,False
+DeMar DeRozan,3,2,44,1,Jump Shot,20,45,201,True
+DeMar DeRozan,1,5,40,0,Jump Shot,22,228,5,False
+DeMar DeRozan,3,5,53,0,Jump Shot,25,-132,223,False
+DeMar DeRozan,5,1,17,0,Jump Shot,22,-168,152,True
+DeMar DeRozan,3,0,31,0,Jump Shot,22,-220,-12,False
+DeMar DeRozan,1,9,23,1,Jump Shot,14,139,54,True
+DeMar DeRozan,1,8,2,0,Jump Shot,14,-131,67,True
+DeMar DeRozan,1,3,43,0,Jump Shot,26,-169,206,False
+DeMar DeRozan,3,11,46,0,Jump Shot,24,63,236,False
+DeMar DeRozan,3,2,1,0,Jump Shot,14,110,101,True
+DeMar DeRozan,1,10,57,0,Jump Shot,20,200,-5,True
+DeMar DeRozan,4,3,27,0,Jump Shot,26,-4,262,False
+DeMar DeRozan,4,7,36,0,Jump Shot,24,-194,155,False
+DeMar DeRozan,4,5,43,0,Jump Shot,25,-167,195,False
+DeMar DeRozan,3,7,24,0,Jump Shot,24,-76,236,False
+DeMar DeRozan,3,0,40,1,Jump Shot,29,-83,279,False
+DeMar DeRozan,3,4,36,1,Jump Shot,12,-122,27,True
+DeMar DeRozan,1,10,5,1,Jump Shot,23,43,226,True
+DeMar DeRozan,2,0,35,0,Jump Shot,23,-110,203,True
+DeMar DeRozan,1,8,4,0,Jump Shot,7,-69,13,True
+DeMar DeRozan,4,3,12,1,Jump Shot,24,226,99,False
+DeMar DeRozan,2,3,49,0,Jump Shot,23,230,11,False
+DeMar DeRozan,2,2,33,0,Jump Shot,15,9,150,True
+DeMar DeRozan,2,2,8,0,Jump Shot,20,151,137,True
+DeMar DeRozan,3,11,20,0,Jump Shot,23,-237,-15,False
+DeMar DeRozan,1,5,27,1,Jump Shot,24,-72,236,False
+DeMar DeRozan,3,3,21,1,Jump Shot,14,-72,126,True
+DeMar DeRozan,4,6,10,1,Jump Shot,23,-20,236,True
+DeMar DeRozan,3,10,41,1,Jump Shot,14,64,131,True
+DeMar DeRozan,3,8,17,1,Jump Shot,25,102,237,False
+DeMar DeRozan,4,5,37,0,Jump Shot,17,80,151,True
+DeMar DeRozan,4,4,35,1,Jump Shot,24,-216,119,False
+DeMar DeRozan,4,4,58,0,Jump Shot,21,-47,209,True
+DeMar DeRozan,3,0,4,0,Jump Shot,21,-20,211,True
+DeMar DeRozan,3,0,31,0,Jump Shot,26,89,251,False
+DeMar DeRozan,4,2,11,0,Jump Shot,30,121,278,False
+DeMar DeRozan,1,8,37,0,Jump Shot,28,92,267,False
+DeMar DeRozan,4,4,43,0,Jump Shot,7,-16,73,True
+DeMar DeRozan,2,5,15,0,Jump Shot,4,16,42,True
+DeMar DeRozan,1,7,50,0,Jump Shot,25,171,186,False
+DeMar DeRozan,3,8,45,0,Jump Shot,25,98,232,False
+DeMar DeRozan,1,1,55,0,Jump Shot,18,-90,159,True
+DeMar DeRozan,3,5,23,1,Jump Shot,22,-225,2,False
+DeMar DeRozan,1,2,39,1,Jump Shot,14,100,105,True
+DeMar DeRozan,1,9,41,1,Jump Shot,24,-237,49,False
+DeMar DeRozan,3,1,32,1,Jump Shot,25,-22,254,False
+DeMar DeRozan,3,0,1,1,Jump Shot,20,-71,188,True
+DeMar DeRozan,1,3,58,1,Jump Shot,19,197,3,True
+DeMar DeRozan,3,10,49,0,Jump Shot,10,-103,36,True
+DeMar DeRozan,4,2,47,0,Jump Shot,14,143,8,True
+DeMar DeRozan,3,5,35,0,Jump Shot,25,122,225,False
+DeMar DeRozan,3,4,55,1,Jump Shot,25,-132,221,False
+DeMar DeRozan,3,2,58,1,Jump Shot,25,89,237,False
+DeMar DeRozan,4,4,51,0,Jump Shot,18,136,130,True
+DeMar DeRozan,3,0,33,1,Jump Shot,23,-234,13,False
+DeMar DeRozan,3,1,54,0,Jump Shot,26,90,253,False
+DeMar DeRozan,2,1,59,1,Jump Shot,17,30,173,True
+DeMar DeRozan,1,2,29,0,Jump Shot,20,105,174,True
+DeMar DeRozan,1,8,5,1,Jump Shot,25,-139,219,False
+DeMar DeRozan,2,0,33,1,Jump Shot,26,89,253,False
+DeMar DeRozan,1,0,4,0,Jump Shot,24,-112,220,False
+DeMar DeRozan,1,10,30,0,Jump Shot,22,106,198,True
+DeMar DeRozan,2,0,0,0,Jump Shot,35,-2,356,False
+DeMar DeRozan,1,5,38,0,Jump Shot,28,-20,283,False
+DeMar DeRozan,1,7,2,1,Jump Shot,26,103,242,False
+DeMar DeRozan,3,4,22,0,Jump Shot,15,-106,111,True
+DeMar DeRozan,1,2,33,0,Jump Shot,26,-167,204,False
+DeMar DeRozan,2,4,16,0,Jump Shot,23,225,48,False
+DeMar DeRozan,1,6,34,0,Jump Shot,23,-233,-4,False
+DeMar DeRozan,3,2,0,1,Jump Shot,24,237,57,False
+DeMar DeRozan,2,3,59,0,Jump Shot,20,-202,7,True
+DeMar DeRozan,3,4,29,0,Jump Shot,29,-141,254,False
+DeMar DeRozan,3,2,26,1,Jump Shot,18,-52,174,True
+DeMar DeRozan,3,6,13,1,Jump Shot,20,131,160,True
+DeMar DeRozan,3,3,57,0,Jump Shot,25,-103,231,False
+DeMar DeRozan,1,8,14,1,Jump Shot,23,-226,79,False
+DeMar DeRozan,3,8,14,1,Jump Shot,25,-21,258,False
+DeMar DeRozan,1,4,47,0,Jump Shot,22,-228,13,False
+DeMar DeRozan,2,0,8,0,Jump Shot,12,-20,128,True
+DeMar DeRozan,1,9,50,1,Jump Shot,22,-225,7,False
+DeMar DeRozan,5,2,16,1,Jump Shot,25,-161,197,False
+DeMar DeRozan,3,0,0,0,Jump Shot,9,-93,22,True
+DeMar DeRozan,1,2,27,1,Jump Shot,25,59,243,False
+DeMar DeRozan,2,2,35,1,Jump Shot,22,228,8,False
+DeMar DeRozan,2,3,5,1,Jump Shot,22,-222,40,False
+DeMar DeRozan,3,5,59,0,Jump Shot,25,-154,199,False
+DeMar DeRozan,3,3,50,1,Jump Shot,25,-138,209,False
+DeMar DeRozan,2,4,56,0,Jump Shot,21,-199,89,True
+DeMar DeRozan,3,8,32,0,Jump Shot,24,-241,16,False
+DeMar DeRozan,1,6,49,0,Jump Shot,22,-220,-7,False
+DeMar DeRozan,1,6,41,0,Jump Shot,23,-229,32,False
+DeMar DeRozan,1,4,55,0,Jump Shot,23,229,67,False
+DeMar DeRozan,3,11,20,0,Jump Shot,26,-149,215,False
+DeMar DeRozan,3,10,52,0,Jump Shot,22,229,19,False
+DeMar DeRozan,4,0,43,0,Jump Shot,24,-180,165,False
+DeMar DeRozan,2,2,32,0,Jump Shot,20,-186,80,True
+DeMar DeRozan,3,10,42,0,Jump Shot,24,233,62,False
+DeMar DeRozan,4,4,2,0,Jump Shot,8,-25,78,True
+DeMar DeRozan,3,9,57,1,Jump Shot,23,-20,231,True
+DeMar DeRozan,2,2,19,0,Jump Shot,26,-94,246,False
+DeMar DeRozan,1,7,41,1,Jump Shot,18,-122,141,True
+DeMar DeRozan,2,2,54,1,Jump Shot,26,-133,230,False
+DeMar DeRozan,4,3,48,0,Jump Shot,23,231,-7,False
+DeMar DeRozan,1,3,40,0,Jump Shot,22,-226,6,False
+DeMar DeRozan,3,6,20,1,Layup Shot,1,17,3,True
+DeMar DeRozan,4,2,27,1,Layup Shot,1,-11,-5,True
+DeMar DeRozan,1,4,9,1,Layup Shot,1,5,14,True
+DeMar DeRozan,3,0,8,1,Layup Shot,5,56,13,True
+DeMar DeRozan,4,5,3,1,Layup Shot,2,25,10,True
+DeMar DeRozan,2,1,11,0,Layup Shot,8,67,45,True
+DeMar DeRozan,3,8,20,0,Layup Shot,1,-8,11,True
+DeMar DeRozan,4,0,54,1,Layup Shot,6,60,7,True
+DeMar DeRozan,2,7,21,0,Layup Shot,5,-6,55,True
+DeMar DeRozan,3,8,7,0,Layup Shot,0,8,0,True
+DeMar DeRozan,3,10,45,1,Layup Shot,0,3,8,True
+DeMar DeRozan,3,3,24,1,Layup Shot,2,-16,16,True
+DeMar DeRozan,3,4,53,1,Layup Shot,1,-16,-2,True
+DeMar DeRozan,4,3,40,0,Layup Shot,4,36,23,True
+DeMar DeRozan,3,0,37,1,Layup Shot,1,-6,14,True
+DeMar DeRozan,4,1,20,1,Layup Shot,2,16,16,True
+DeMar DeRozan,1,10,30,0,Layup Shot,4,-26,40,True
+DeMar DeRozan,2,0,56,1,Layup Shot,12,81,92,True
+DeMar DeRozan,1,7,31,0,Layup Shot,2,12,22,True
+DeMar DeRozan,2,1,58,1,Layup Shot,9,-55,78,True
+DeMar DeRozan,1,4,19,0,Layup Shot,0,1,4,True
+DeMar DeRozan,1,6,26,1,Layup Shot,0,-3,4,True
+DeMar DeRozan,1,6,25,1,Layup Shot,1,12,-4,True
+DeMar DeRozan,1,5,34,1,Layup Shot,1,14,12,True
+DeMar DeRozan,1,0,29,0,Layup Shot,2,-6,29,True
+DeMar DeRozan,1,7,48,1,Pullup Jump shot,20,20,201,True
+DeMar DeRozan,1,3,4,1,Pullup Jump shot,7,-75,10,True
+DeMar DeRozan,4,0,19,0,Pullup Jump shot,18,139,122,True
+DeMar DeRozan,3,5,56,0,Pullup Jump shot,16,107,130,True
+DeMar DeRozan,2,6,22,0,Pullup Jump shot,14,22,145,True
+DeMar DeRozan,4,2,27,1,Pullup Jump shot,15,-109,116,True
+DeMar DeRozan,2,0,33,0,Pullup Jump shot,11,-111,11,True
+DeMar DeRozan,4,1,28,1,Pullup Jump shot,19,127,148,True
+DeMar DeRozan,2,0,7,1,Pullup Jump shot,13,98,96,True
+DeMar DeRozan,4,2,38,0,Pullup Jump shot,25,149,210,False
+DeMar DeRozan,2,5,1,1,Pullup Jump shot,18,-138,122,True
+DeMar DeRozan,3,2,18,0,Pullup Jump shot,17,13,172,True
+DeMar DeRozan,4,4,14,1,Pullup Jump shot,16,27,166,True
+DeMar DeRozan,3,5,51,1,Pullup Jump shot,13,130,26,True
+DeMar DeRozan,1,5,22,0,Pullup Jump shot,26,-78,256,False
+DeMar DeRozan,3,0,34,0,Pullup Jump shot,13,59,125,True
+DeMar DeRozan,1,8,9,1,Pullup Jump shot,23,-232,-12,False
+DeMar DeRozan,3,4,18,0,Pullup Jump shot,19,19,190,True
+DeMar DeRozan,1,4,16,1,Pullup Jump shot,15,63,141,True
+DeMar DeRozan,1,0,8,0,Pullup Jump shot,25,-56,248,False
+DeMar DeRozan,4,0,37,0,Pullup Jump shot,17,87,152,True
+DeMar DeRozan,1,6,36,0,Pullup Jump shot,22,32,227,True
+DeMar DeRozan,1,1,26,0,Pullup Jump shot,16,-61,151,True
+DeMar DeRozan,1,3,12,1,Pullup Jump shot,21,27,212,True
+DeMar DeRozan,3,3,39,0,Pullup Jump shot,18,120,145,True
+DeMar DeRozan,1,7,18,0,Pullup Jump shot,16,-35,163,True
+DeMar DeRozan,4,7,37,0,Pullup Jump shot,15,89,123,True
+DeMar DeRozan,1,1,26,1,Pullup Jump shot,27,-72,269,False
+DeMar DeRozan,2,0,41,0,Pullup Jump shot,25,75,248,False
+DeMar DeRozan,1,0,3,0,Pullup Jump shot,25,119,224,False
+DeMar DeRozan,4,2,48,0,Pullup Jump shot,9,84,52,True
+DeMar DeRozan,1,8,32,0,Pullup Jump shot,19,141,135,True
+DeMar DeRozan,3,9,1,0,Pullup Jump shot,14,-139,54,True
+DeMar DeRozan,2,4,54,1,Pullup Jump shot,14,-5,146,True
+DeMar DeRozan,3,4,56,0,Pullup Jump shot,26,-2,267,False
+DeMar DeRozan,3,10,46,1,Pullup Jump shot,11,-116,16,True
+DeMar DeRozan,1,4,55,1,Pullup Jump shot,16,3,162,True
+DeMar DeRozan,2,0,30,1,Pullup Jump shot,11,105,37,True
+DeMar DeRozan,2,2,32,0,Pullup Jump shot,11,-7,110,True
+DeMar DeRozan,4,6,37,1,Pullup Jump shot,18,-79,168,True
+DeMar DeRozan,2,4,50,1,Pullup Jump shot,16,-130,96,True
+DeMar DeRozan,4,4,9,0,Pullup Jump shot,26,23,261,False
+DeMar DeRozan,2,3,50,0,Pullup Jump shot,14,73,131,True
+DeMar DeRozan,3,4,18,0,Pullup Jump shot,17,-141,108,True
+DeMar DeRozan,1,5,14,1,Pullup Jump shot,18,-131,136,True
+DeMar DeRozan,4,7,58,1,Pullup Jump shot,17,-76,159,True
+DeMar DeRozan,3,9,29,0,Pullup Jump shot,24,136,202,False
+DeMar DeRozan,3,9,50,1,Pullup Jump shot,13,109,83,True
+DeMar DeRozan,2,4,38,0,Pullup Jump shot,14,-135,51,True
+DeMar DeRozan,3,0,2,0,Pullup Jump shot,25,-142,207,False
+DeMar DeRozan,3,5,56,1,Pullup Jump shot,16,-78,144,True
+DeMar DeRozan,4,0,29,1,Pullup Jump shot,19,-133,138,True
+DeMar DeRozan,1,1,0,1,Pullup Jump shot,15,11,153,True
+DeMar DeRozan,3,0,0,0,Pullup Jump shot,29,-90,285,False
+DeMar DeRozan,1,7,51,0,Pullup Jump shot,24,-110,223,False
+DeMar DeRozan,2,0,0,0,Pullup Jump shot,21,18,217,True
+DeMar DeRozan,3,7,9,1,Pullup Jump shot,12,-78,95,True
+DeMar DeRozan,2,0,0,0,Pullup Jump shot,51,-154,491,False
+DeMar DeRozan,1,4,58,1,Pullup Jump shot,14,-14,148,True
+DeMar DeRozan,4,0,30,0,Pullup Jump shot,17,107,141,True
+DeMar DeRozan,3,8,16,0,Pullup Jump shot,14,-62,132,True
+DeMar DeRozan,2,4,31,1,Pullup Jump shot,17,-89,156,True
+DeMar DeRozan,1,11,22,0,Pullup Jump shot,17,-105,136,True
+DeMar DeRozan,3,0,35,1,Pullup Jump shot,18,69,173,True
+DeMar DeRozan,2,2,9,1,Pullup Jump shot,13,60,120,True
+DeMar DeRozan,1,0,0,0,Pullup Jump shot,30,-157,260,False
+DeMar DeRozan,4,4,48,0,Pullup Jump shot,17,85,153,True
+DeMar DeRozan,4,3,13,0,Pullup Jump shot,12,-60,107,True
+DeMar DeRozan,2,0,10,1,Pullup Jump shot,19,-125,147,True
+DeMar DeRozan,1,7,19,0,Pullup Jump shot,19,115,162,True
+DeMar DeRozan,3,9,44,1,Pullup Jump shot,15,125,88,True
+DeMar DeRozan,1,0,4,1,Pullup Jump shot,22,92,200,True
+DeMar DeRozan,3,11,52,0,Pullup Jump shot,13,90,95,True
+DeMar DeRozan,4,0,0,0,Pullup Jump shot,22,192,122,True
+DeMar DeRozan,4,2,31,1,Pullup Jump shot,17,65,158,True
+DeMar DeRozan,3,9,56,1,Pullup Jump shot,19,-122,147,True
+DeMar DeRozan,4,1,45,0,Pullup Jump shot,11,98,59,True
+DeMar DeRozan,4,1,40,0,Pullup Jump shot,22,8,223,True
+DeMar DeRozan,4,3,44,0,Pullup Jump shot,14,120,85,True
+DeMar DeRozan,3,0,37,0,Pullup Jump shot,25,55,251,False
+DeMar DeRozan,2,1,51,1,Pullup Jump shot,20,-96,179,True
+DeMar DeRozan,4,2,56,1,Pullup Jump shot,15,31,154,True
+DeMar DeRozan,3,0,31,0,Pullup Jump shot,14,-68,126,True
+DeMar DeRozan,2,2,54,1,Pullup Jump shot,15,11,154,True
+DeMar DeRozan,1,6,22,0,Pullup Jump shot,15,155,13,True
+DeMar DeRozan,2,6,30,0,Pullup Jump shot,6,66,10,True
+DeMar DeRozan,1,2,10,0,Pullup Jump shot,13,96,92,True
+DeMar DeRozan,1,4,49,1,Pullup Jump shot,7,-5,79,True
+DeMar DeRozan,1,10,42,0,Pullup Jump shot,14,22,140,True
+DeMar DeRozan,4,6,18,1,Pullup Jump shot,13,41,128,True
+DeMar DeRozan,1,9,31,0,Pullup Jump shot,11,73,92,True
+DeMar DeRozan,3,8,2,1,Pullup Jump shot,13,26,136,True
+DeMar DeRozan,4,0,23,0,Pullup Jump shot,12,123,25,True
+DeMar DeRozan,1,10,12,0,Pullup Jump shot,13,-118,56,True
+DeMar DeRozan,3,9,20,1,Pullup Jump shot,20,-55,197,True
+DeMar DeRozan,3,4,24,1,Pullup Jump shot,14,5,144,True
+DeMar DeRozan,3,5,2,1,Pullup Jump shot,26,-119,238,False
+DeMar DeRozan,2,5,33,0,Pullup Jump shot,16,-149,74,True
+DeMar DeRozan,1,10,27,1,Pullup Jump shot,16,91,133,True
+DeMar DeRozan,4,0,35,0,Pullup Jump shot,18,5,188,True
+DeMar DeRozan,2,4,7,1,Pullup Jump shot,24,176,173,False
+DeMar DeRozan,3,7,40,1,Pullup Jump shot,25,5,253,False
+DeMar DeRozan,4,3,16,0,Pullup Jump shot,14,-55,138,True
+DeMar DeRozan,3,4,2,1,Pullup Jump shot,6,25,63,True
+DeMar DeRozan,3,9,52,1,Pullup Jump shot,15,-22,153,True
+DeMar DeRozan,3,1,39,1,Pullup Jump shot,24,33,246,False
+DeMar DeRozan,3,1,5,1,Pullup Jump shot,25,49,253,False
+DeMar DeRozan,3,7,49,1,Pullup Jump shot,19,62,185,True
+DeMar DeRozan,1,10,59,1,Pullup Jump shot,15,-52,148,True
+DeMar DeRozan,4,1,41,1,Pullup Jump shot,22,121,184,True
+DeMar DeRozan,1,10,30,1,Pullup Jump shot,13,76,109,True
+DeMar DeRozan,3,8,48,0,Pullup Jump shot,12,-116,38,True
+DeMar DeRozan,4,1,49,0,Pullup Jump shot,17,95,146,True
+DeMar DeRozan,4,0,59,0,Pullup Jump shot,16,77,145,True
+DeMar DeRozan,1,0,34,1,Pullup Jump shot,25,-27,255,False
+DeMar DeRozan,2,2,32,1,Pullup Jump shot,22,122,184,True
+DeMar DeRozan,2,0,31,0,Pullup Jump shot,25,-82,237,False
+DeMar DeRozan,1,5,12,0,Pullup Jump shot,16,163,-4,True
+DeMar DeRozan,2,4,16,0,Pullup Jump shot,26,-73,253,False
+DeMar DeRozan,2,0,48,0,Pullup Jump shot,17,-49,167,True
+DeMar DeRozan,1,0,1,0,Pullup Jump shot,26,92,252,False
+DeMar DeRozan,4,3,0,1,Pullup Jump shot,15,42,149,True
+DeMar DeRozan,5,3,48,0,Pullup Jump shot,15,-6,157,True
+DeMar DeRozan,5,1,5,0,Pullup Jump shot,19,158,113,True
+DeMar DeRozan,3,4,36,1,Pullup Jump shot,18,7,188,True
+DeMar DeRozan,1,2,13,1,Pullup Jump shot,11,5,110,True
+DeMar DeRozan,3,11,4,0,Pullup Jump shot,15,-124,98,True
+DeMar DeRozan,3,8,16,0,Pullup Jump shot,20,-42,199,True
+DeMar DeRozan,4,3,52,0,Pullup Jump shot,14,79,126,True
+DeMar DeRozan,3,10,44,1,Pullup Jump shot,14,-10,148,True
+DeMar DeRozan,1,8,46,0,Pullup Jump shot,23,228,54,False
+DeMar DeRozan,1,3,22,0,Pullup Jump shot,13,40,131,True
+DeMar DeRozan,4,2,37,1,Pullup Jump shot,12,65,109,True
+DeMar DeRozan,4,0,33,1,Pullup Jump shot,15,101,121,True
+DeMar DeRozan,3,7,2,0,Pullup Jump shot,18,122,142,True
+DeMar DeRozan,2,0,1,1,Pullup Jump shot,21,37,214,True
+DeMar DeRozan,1,3,12,0,Pullup Jump shot,12,-110,58,True
+DeMar DeRozan,1,5,35,0,Pullup Jump shot,24,-232,85,False
+DeMar DeRozan,3,1,57,0,Pullup Jump shot,15,54,141,True
+DeMar DeRozan,1,6,58,0,Pullup Jump shot,26,-7,260,False
+DeMar DeRozan,1,7,35,1,Pullup Jump shot,15,-1,155,True
+DeMar DeRozan,2,1,6,0,Pullup Jump shot,14,-3,147,True
+DeMar DeRozan,3,4,0,0,Pullup Jump shot,15,20,157,True
+DeMar DeRozan,3,2,11,1,Pullup Jump shot,15,-63,137,True
+DeMar DeRozan,3,1,58,1,Pullup Jump shot,12,-36,124,True
+DeMar DeRozan,3,4,36,0,Pullup Jump shot,12,-105,69,True
+DeMar DeRozan,2,0,38,1,Pullup Jump shot,16,84,143,True
+DeMar DeRozan,4,3,32,1,Pullup Jump shot,14,58,131,True
+DeMar DeRozan,2,0,1,1,Pullup Jump shot,20,-11,209,True
+DeMar DeRozan,3,1,52,0,Pullup Jump shot,15,-2,152,True
+DeMar DeRozan,4,2,38,0,Pullup Jump shot,13,114,79,True
+DeMar DeRozan,4,1,33,1,Pullup Jump shot,18,112,151,True
+DeMar DeRozan,4,5,57,0,Pullup Jump shot,7,1,77,True
+DeMar DeRozan,3,5,55,0,Pullup Jump shot,19,120,150,True
+DeMar DeRozan,4,4,54,1,Pullup Jump shot,19,-76,176,True
+DeMar DeRozan,4,0,53,0,Pullup Jump shot,15,-8,157,True
+DeMar DeRozan,3,1,4,1,Pullup Jump shot,12,49,113,True
+DeMar DeRozan,3,0,31,1,Pullup Jump shot,19,-198,-4,True
+DeMar DeRozan,1,3,46,0,Pullup Jump shot,19,12,192,True
+DeMar DeRozan,3,7,5,0,Pullup Jump shot,18,103,148,True
+DeMar DeRozan,4,6,39,1,Pullup Jump shot,19,-121,154,True
+DeMar DeRozan,2,2,12,1,Pullup Jump shot,16,29,158,True
+DeMar DeRozan,4,4,2,1,Pullup Jump shot,20,-101,173,True
+DeMar DeRozan,5,2,52,1,Pullup Jump shot,22,46,218,True
+DeMar DeRozan,1,0,36,1,Pullup Jump shot,24,57,243,False
+DeMar DeRozan,5,0,30,0,Pullup Jump shot,25,132,219,False
+DeMar DeRozan,4,6,56,1,Pullup Jump shot,19,98,168,True
+DeMar DeRozan,1,2,37,1,Pullup Jump shot,12,36,118,True
+DeMar DeRozan,3,5,56,0,Pullup Jump shot,12,106,72,True
+DeMar DeRozan,3,7,10,0,Pullup Jump shot,23,-25,232,True
+DeMar DeRozan,4,3,24,0,Pullup Jump shot,20,80,186,True
+DeMar DeRozan,2,5,22,0,Pullup Jump shot,19,-75,177,True
+DeMar DeRozan,1,4,15,0,Pullup Jump shot,11,117,8,True
+DeMar DeRozan,3,2,9,0,Pullup Jump shot,11,-47,109,True
+DeMar DeRozan,3,11,8,1,Pullup Jump shot,18,136,126,True
+DeMar DeRozan,1,7,56,0,Pullup Jump shot,12,-100,76,True
+DeMar DeRozan,3,2,15,0,Pullup Jump shot,17,111,133,True
+DeMar DeRozan,3,5,31,0,Pullup Jump shot,15,149,51,True
+DeMar DeRozan,3,8,0,1,Pullup Jump shot,13,102,88,True
+DeMar DeRozan,4,5,59,0,Pullup Jump shot,14,59,137,True
+DeMar DeRozan,1,5,33,1,Pullup Jump shot,15,14,155,True
+DeMar DeRozan,1,2,4,0,Pullup Jump shot,26,150,219,False
+DeMar DeRozan,1,2,35,1,Pullup Jump shot,15,-6,159,True
+DeMar DeRozan,1,1,0,1,Pullup Jump shot,18,-65,176,True
+DeMar DeRozan,3,10,24,1,Pullup Jump shot,11,55,97,True
+DeMar DeRozan,4,6,10,1,Pullup Jump shot,18,85,164,True
+DeMar DeRozan,4,5,11,0,Pullup Jump shot,19,-8,192,True
+DeMar DeRozan,3,1,22,0,Pullup Jump shot,17,-24,174,True
+DeMar DeRozan,3,9,42,1,Pullup Jump shot,20,-109,178,True
+DeMar DeRozan,3,7,33,1,Pullup Jump shot,11,113,18,True
+DeMar DeRozan,3,3,39,0,Pullup Jump shot,7,22,69,True
+DeMar DeRozan,1,7,53,0,Pullup Jump shot,12,69,105,True
+DeMar DeRozan,1,9,26,1,Pullup Jump shot,15,-145,47,True
+DeMar DeRozan,3,2,19,0,Pullup Jump shot,17,55,167,True
+DeMar DeRozan,1,8,52,0,Pullup Jump shot,26,-188,181,False
+DeMar DeRozan,3,0,38,0,Pullup Jump shot,24,-89,223,False
+DeMar DeRozan,1,11,37,0,Pullup Jump shot,25,98,232,False
+DeMar DeRozan,1,11,40,0,Pullup Jump shot,11,113,8,True
+DeMar DeRozan,3,11,18,0,Pullup Jump shot,18,117,139,True
+DeMar DeRozan,5,4,19,0,Pullup Jump shot,13,-122,67,True
+DeMar DeRozan,1,3,52,1,Pullup Jump shot,10,-106,13,True
+DeMar DeRozan,4,3,54,0,Pullup Jump shot,16,13,163,True
+DeMar DeRozan,2,0,37,0,Pullup Jump shot,13,50,121,True
+DeMar DeRozan,4,6,41,0,Pullup Jump shot,26,205,168,False
+DeMar DeRozan,3,1,32,0,Pullup Jump shot,15,7,159,True
+DeMar DeRozan,4,1,15,1,Pullup Jump shot,19,126,148,True
+DeMar DeRozan,1,0,41,0,Pullup Jump shot,25,-35,257,False
+DeMar DeRozan,3,1,36,0,Pullup Jump shot,16,96,129,True
+DeMar DeRozan,2,5,32,0,Pullup Jump shot,21,-67,201,True
+DeMar DeRozan,1,10,37,1,Pullup Jump shot,19,-76,182,True
+DeMar DeRozan,2,2,31,0,Pullup Jump shot,16,29,163,True
+DeMar DeRozan,2,0,31,0,Pullup Jump shot,17,-85,151,True
+DeMar DeRozan,3,3,40,0,Pullup Jump shot,16,-143,79,True
+DeMar DeRozan,3,3,33,0,Pullup Jump shot,19,-36,188,True
+DeMar DeRozan,3,0,51,1,Pullup Jump shot,25,-36,251,False
+DeMar DeRozan,2,0,33,0,Pullup Jump shot,25,-141,211,False
+DeMar DeRozan,3,6,24,0,Pullup Jump shot,14,-131,58,True
+DeMar DeRozan,3,8,16,0,Pullup Jump shot,25,-24,252,False
+DeMar DeRozan,3,6,12,1,Pullup Jump shot,14,14,145,True
+DeMar DeRozan,1,0,37,0,Pullup Jump shot,22,70,216,True
+DeMar DeRozan,4,3,15,1,Pullup Jump shot,16,86,144,True
+DeMar DeRozan,1,2,45,0,Pullup Jump shot,18,-82,162,True
+DeMar DeRozan,3,0,51,1,Pullup Jump shot,17,103,137,True
+DeMar DeRozan,3,1,42,1,Pullup Jump shot,18,48,180,True
+DeMar DeRozan,3,1,32,0,Pullup Jump shot,24,-100,227,False
+DeMar DeRozan,2,4,52,0,Pullup Jump shot,19,-104,160,True
+DeMar DeRozan,2,5,35,0,Pullup Jump shot,25,-110,235,False
+DeMar DeRozan,4,8,31,1,Pullup Jump shot,18,-67,176,True
+DeMar DeRozan,3,7,33,0,Pullup Jump shot,16,143,83,True
+DeMar DeRozan,2,1,41,1,Pullup Jump shot,6,4,64,True
+DeMar DeRozan,3,2,59,0,Pullup Jump shot,15,18,152,True
+DeMar DeRozan,5,0,53,1,Pullup Jump shot,2,25,10,True
+DeMar DeRozan,4,3,36,1,Pullup Jump shot,13,101,90,True
+DeMar DeRozan,4,5,4,0,Pullup Jump shot,20,-144,151,True
+DeMar DeRozan,1,2,28,0,Pullup Jump shot,21,80,196,True
+DeMar DeRozan,4,1,7,0,Pullup Jump shot,17,127,121,True
+DeMar DeRozan,2,3,16,1,Pullup Jump shot,11,119,9,True
+DeMar DeRozan,3,7,54,0,Pullup Jump shot,16,92,134,True
+DeMar DeRozan,1,3,1,1,Pullup Jump shot,22,49,216,True
+DeMar DeRozan,3,3,23,0,Pullup Jump shot,24,-108,220,False
+DeMar DeRozan,3,4,0,1,Pullup Jump shot,16,22,162,True
+DeMar DeRozan,3,5,41,0,Pullup Jump shot,25,41,250,False
+DeMar DeRozan,3,1,5,1,Pullup Jump shot,6,-46,44,True
+DeMar DeRozan,3,10,53,0,Pullup Jump shot,11,-111,13,True
+DeMar DeRozan,1,4,27,0,Pullup Jump shot,20,-122,170,True
+DeMar DeRozan,4,10,22,0,Pullup Jump shot,8,83,16,True
+DeMar DeRozan,1,0,13,1,Pullup Jump shot,16,-60,151,True
+DeMar DeRozan,3,9,15,0,Pullup Jump shot,25,-3,250,False
+DeMar DeRozan,3,11,35,0,Pullup Jump shot,24,-133,209,False
+DeMar DeRozan,1,1,47,0,Pullup Jump shot,15,-110,112,True
+DeMar DeRozan,2,0,3,0,Pullup Jump shot,19,-136,143,True
+DeMar DeRozan,3,11,7,0,Pullup Jump shot,16,-142,79,True
+DeMar DeRozan,1,9,39,0,Pullup Jump shot,18,-123,134,True
+DeMar DeRozan,1,4,7,0,Pullup Jump shot,16,-97,136,True
+DeMar DeRozan,2,1,37,1,Pullup Jump shot,25,-68,250,False
+DeMar DeRozan,3,4,13,1,Pullup Jump shot,18,-47,176,True
+DeMar DeRozan,3,0,0,0,Pullup Jump shot,19,190,20,True
+DeMar DeRozan,1,0,27,0,Pullup Jump shot,14,-79,127,True
+DeMar DeRozan,3,7,45,0,Pullup Jump shot,17,53,164,True
+DeMar DeRozan,1,3,31,0,Pullup Jump shot,15,-78,130,True
+DeMar DeRozan,1,1,45,1,Pullup Jump shot,25,217,141,False
+DeMar DeRozan,3,0,1,1,Pullup Jump shot,23,-51,226,True
+DeMar DeRozan,1,2,30,0,Pullup Jump shot,10,-8,107,True
+DeMar DeRozan,1,2,52,0,Pullup Jump shot,13,131,5,True
+DeMar DeRozan,1,6,50,0,Pullup Jump shot,26,-174,197,False
+DeMar DeRozan,3,1,51,1,Pullup Jump shot,18,8,181,True
+DeMar DeRozan,3,5,11,1,Pullup Jump shot,25,-42,252,False
+DeMar DeRozan,1,8,20,1,Pullup Jump shot,11,-9,113,True
+DeMar DeRozan,1,9,27,1,Pullup Jump shot,7,-66,29,True
+DeMar DeRozan,1,10,23,0,Pullup Jump shot,15,10,155,True
+DeMar DeRozan,2,2,14,0,Pullup Jump shot,15,113,102,True
+DeMar DeRozan,4,2,52,1,Pullup Jump shot,15,134,72,True
+DeMar DeRozan,3,9,30,0,Pullup Jump shot,21,55,209,True
+DeMar DeRozan,3,1,15,0,Pullup Jump shot,12,80,91,True
+DeMar DeRozan,3,0,32,0,Pullup Jump shot,25,-100,230,False
+DeMar DeRozan,2,6,53,0,Pullup Jump shot,9,95,26,True
+DeMar DeRozan,1,2,33,1,Pullup Jump shot,19,58,183,True
+DeMar DeRozan,2,1,15,0,Pullup Jump shot,21,93,199,True
+DeMar DeRozan,3,3,39,1,Pullup Jump shot,18,67,177,True
+DeMar DeRozan,5,2,7,0,Pullup Jump shot,16,-71,146,True
+DeMar DeRozan,3,8,40,1,Putback Layup Shot,0,5,6,True
+DeMar DeRozan,4,0,18,1,Putback Layup Shot,2,-12,21,True
+DeMar DeRozan,1,10,57,1,Reverse Layup Shot,1,-13,-1,True
+DeMar DeRozan,3,8,59,1,Reverse Layup Shot,1,8,12,True
+DeMar DeRozan,2,3,28,1,Reverse Layup Shot,1,5,17,True
+DeMar DeRozan,4,5,46,0,Reverse Layup Shot,2,8,22,True
+DeMar DeRozan,1,7,19,1,Reverse Layup Shot,1,11,3,True
+DeMar DeRozan,1,8,43,0,Reverse Layup Shot,2,14,18,True
+DeMar DeRozan,1,4,3,0,Reverse Layup Shot,3,-23,23,True
+DeMar DeRozan,4,2,0,1,Reverse Layup Shot,0,-1,5,True
+DeMar DeRozan,3,9,18,1,Running Alley Oop Dunk Shot,1,6,15,True
+DeMar DeRozan,1,3,23,1,Running Dunk Shot,0,-1,4,True
+DeMar DeRozan,4,5,35,1,Running Dunk Shot,0,-3,-1,True
+DeMar DeRozan,3,7,26,0,Running Finger Roll Layup Shot,0,9,2,True
+DeMar DeRozan,3,9,31,1,Running Finger Roll Layup Shot,1,7,9,True
+DeMar DeRozan,2,3,28,0,Running Finger Roll Layup Shot,2,-7,26,True
+DeMar DeRozan,3,3,2,1,Running Jump Shot,8,-85,11,True
+DeMar DeRozan,4,2,24,1,Running Jump Shot,5,-20,48,True
+DeMar DeRozan,1,5,15,0,Running Jump Shot,4,-11,48,True
+DeMar DeRozan,2,4,19,1,Running Jump Shot,4,21,37,True
+DeMar DeRozan,3,3,54,0,Running Jump Shot,26,133,226,False
+DeMar DeRozan,1,2,30,1,Running Jump Shot,12,90,87,True
+DeMar DeRozan,2,1,48,0,Running Jump Shot,9,-62,67,True
+DeMar DeRozan,1,7,14,1,Running Jump Shot,22,221,-20,False
+DeMar DeRozan,2,0,7,1,Running Layup Shot,0,0,8,True
+DeMar DeRozan,1,9,31,1,Running Layup Shot,1,5,13,True
+DeMar DeRozan,1,3,56,1,Running Layup Shot,1,13,15,True
+DeMar DeRozan,1,3,2,0,Running Layup Shot,1,-8,8,True
+DeMar DeRozan,2,7,7,1,Running Layup Shot,2,-20,18,True
+DeMar DeRozan,1,5,29,0,Running Layup Shot,2,-7,29,True
+DeMar DeRozan,2,0,57,1,Running Layup Shot,2,-11,17,True
+DeMar DeRozan,3,3,18,1,Running Layup Shot,1,-11,-4,True
+DeMar DeRozan,1,10,35,1,Running Layup Shot,1,-17,10,True
+DeMar DeRozan,1,8,38,1,Running Layup Shot,2,6,20,True
+DeMar DeRozan,1,8,35,1,Running Layup Shot,0,4,8,True
+DeMar DeRozan,3,5,40,1,Running Layup Shot,2,-24,4,True
+DeMar DeRozan,4,2,39,1,Running Layup Shot,0,2,1,True
+DeMar DeRozan,3,6,47,1,Running Layup Shot,1,-16,-2,True
+DeMar DeRozan,1,7,12,1,Running Layup Shot,0,3,5,True
+DeMar DeRozan,4,5,26,1,Running Layup Shot,1,18,4,True
+DeMar DeRozan,3,8,18,0,Running Layup Shot,1,-10,14,True
+DeMar DeRozan,3,9,7,1,Running Layup Shot,1,-11,-8,True
+DeMar DeRozan,1,2,53,1,Running Layup Shot,1,7,9,True
+DeMar DeRozan,3,9,49,0,Running Layup Shot,2,14,18,True
+DeMar DeRozan,1,0,58,1,Running Layup Shot,1,0,10,True
+DeMar DeRozan,4,4,32,1,Running Layup Shot,0,-9,4,True
+DeMar DeRozan,1,8,27,0,Running Layup Shot,3,-29,8,True
+DeMar DeRozan,4,9,4,1,Running Layup Shot,1,-9,10,True
+DeMar DeRozan,3,8,42,0,Running Layup Shot,14,60,130,True
+DeMar DeRozan,3,10,37,0,Running Layup Shot,1,13,13,True
+DeMar DeRozan,3,10,51,0,Running Layup Shot,1,14,10,True
+DeMar DeRozan,4,10,3,0,Running Layup Shot,1,-2,10,True
+DeMar DeRozan,2,1,2,1,Running Pull-Up Jump Shot,26,-136,230,False
+DeMar DeRozan,3,0,1,0,Running Pull-Up Jump Shot,24,146,197,False
+DeMar DeRozan,2,6,21,1,Running Pull-Up Jump Shot,11,10,111,True
+DeMar DeRozan,3,0,29,1,Running Pull-Up Jump Shot,27,-83,263,False
+DeMar DeRozan,2,4,36,1,Running Pull-Up Jump Shot,12,85,95,True
+DeMar DeRozan,2,0,2,1,Running Pull-Up Jump Shot,25,-67,242,False
+DeMar DeRozan,1,1,57,1,Running Reverse Layup Shot,1,-5,-9,True
+DeMar DeRozan,1,1,58,0,Step Back Jump shot,19,-28,194,True
+DeMar DeRozan,1,4,17,0,Step Back Jump shot,23,-231,13,False
+DeMar DeRozan,3,0,20,0,Step Back Jump shot,18,-91,164,True
+DeMar DeRozan,2,6,18,1,Step Back Jump shot,12,-117,45,True
+DeMar DeRozan,4,4,13,0,Step Back Jump shot,14,96,112,True
+DeMar DeRozan,1,9,18,0,Step Back Jump shot,22,221,-4,False
+DeMar DeRozan,2,3,49,0,Step Back Jump shot,13,-30,128,True
+DeMar DeRozan,4,0,23,0,Step Back Jump shot,16,131,100,True
+DeMar DeRozan,2,0,0,0,Step Back Jump shot,22,84,211,True
+DeMar DeRozan,2,0,3,0,Step Back Jump shot,17,65,160,True
+DeMar DeRozan,1,1,17,1,Step Back Jump shot,7,26,75,True
+DeMar DeRozan,1,10,46,0,Step Back Jump shot,25,-230,119,False
+DeMar DeRozan,1,4,8,0,Step Back Jump shot,12,16,120,True
+DeMar DeRozan,4,0,38,0,Step Back Jump shot,23,-225,79,False
+DeMar DeRozan,2,6,24,0,Step Back Jump shot,18,120,137,True
+DeMar DeRozan,3,9,36,0,Step Back Jump shot,22,-226,5,False
+DeMar DeRozan,3,5,22,0,Step Back Jump shot,15,158,20,True
+DeMar DeRozan,1,6,15,0,Step Back Jump shot,23,-231,-12,False
+DeMar DeRozan,3,1,51,1,Step Back Jump shot,18,-180,51,True
+DeMar DeRozan,1,11,11,1,Step Back Jump shot,14,144,-5,True
+DeMar DeRozan,3,7,25,0,Step Back Jump shot,16,-165,26,True
+DeMar DeRozan,3,10,57,1,Step Back Jump shot,12,125,33,True
+DeMar DeRozan,1,1,41,0,Step Back Jump shot,18,111,143,True
+DeMar DeRozan,2,3,12,0,Step Back Jump shot,16,133,101,True
+DeMar DeRozan,3,9,1,0,Step Back Jump shot,25,-4,252,False
+DeMar DeRozan,4,2,13,0,Step Back Jump shot,23,-236,-8,False
+DeMar DeRozan,3,0,51,0,Step Back Jump shot,15,-11,155,True
+DeMar DeRozan,3,0,58,0,Step Back Jump shot,24,-239,41,False
+DeMar DeRozan,3,0,8,0,Step Back Jump shot,23,-109,210,True
+DeMar DeRozan,3,8,10,0,Step Back Jump shot,24,231,86,False
+DeMar DeRozan,1,4,10,0,Step Back Jump shot,22,-229,-1,False
+DeMar DeRozan,1,8,51,0,Step Back Jump shot,19,-68,178,True
+DeMar DeRozan,2,0,31,1,Step Back Jump shot,11,-96,55,True
+DeMar DeRozan,3,0,1,0,Step Back Jump shot,17,75,155,True
+DeMar DeRozan,4,3,13,0,Step Back Jump shot,16,161,46,True
+DeMar DeRozan,1,0,0,1,Step Back Jump shot,19,119,149,True
+DeMar DeRozan,4,4,22,0,Step Back Jump shot,13,29,134,True
+DeMar DeRozan,2,2,47,0,Step Back Jump shot,14,55,133,True
+DeMar DeRozan,4,8,32,1,Step Back Jump shot,21,212,46,True
+DeMar DeRozan,3,2,11,0,Step Back Jump shot,22,-220,8,False
+DeMar DeRozan,3,4,54,0,Step Back Jump shot,12,-123,22,True
+DeMar DeRozan,1,1,52,1,Step Back Jump shot,15,-6,152,True
+DeMar DeRozan,1,5,50,0,Step Back Jump shot,19,65,188,True
+DeMar DeRozan,2,3,14,0,Step Back Jump shot,17,-19,173,True
+DeMar DeRozan,2,3,15,1,Step Back Jump shot,18,-100,155,True
+DeMar DeRozan,3,7,4,0,Step Back Jump shot,20,20,203,True
+DeMar DeRozan,1,6,48,0,Step Back Jump shot,12,125,7,True
+DeMar DeRozan,1,7,22,0,Step Back Jump shot,24,-202,142,False
+DeMar DeRozan,1,11,3,1,Step Back Jump shot,15,3,153,True
+DeMar DeRozan,3,6,38,0,Step Back Jump shot,16,-42,162,True
+DeMar DeRozan,3,0,3,1,Tip Dunk Shot,0,0,-6,True
+DeMar DeRozan,4,0,3,1,Tip Layup Shot,0,0,-6,True
+DeMar DeRozan,3,0,52,0,Tip Layup Shot,0,0,-6,True
+DeMar DeRozan,2,3,37,1,Tip Layup Shot,0,0,-6,True
+DeMar DeRozan,2,0,54,0,Tip Layup Shot,1,10,-1,True
+DeMar DeRozan,4,6,28,1,Turnaround Fadeaway Bank Jump Shot,12,115,43,True
+DeMar DeRozan,2,4,12,1,Turnaround Fadeaway Bank Jump Shot,7,60,48,True
+DeMar DeRozan,1,4,50,0,Turnaround Fadeaway Bank Jump Shot,5,-41,40,True
+DeMar DeRozan,3,7,10,0,Turnaround Fadeaway Bank Jump Shot,5,-47,31,True
+DeMar DeRozan,1,2,17,0,Turnaround Fadeaway Bank Jump Shot,11,111,37,True
+DeMar DeRozan,3,9,54,0,Turnaround Fadeaway Bank Jump Shot,10,103,37,True
+DeMar DeRozan,2,3,29,0,Turnaround Fadeaway shot,13,-132,12,True
+DeMar DeRozan,3,1,24,1,Turnaround Fadeaway shot,17,174,18,True
+DeMar DeRozan,1,11,2,1,Turnaround Fadeaway shot,12,-8,125,True
+DeMar DeRozan,1,8,4,1,Turnaround Fadeaway shot,17,119,127,True
+DeMar DeRozan,3,1,5,0,Turnaround Fadeaway shot,12,111,61,True
+DeMar DeRozan,3,0,0,0,Turnaround Fadeaway shot,14,-143,4,True
+DeMar DeRozan,3,5,51,0,Turnaround Fadeaway shot,19,197,11,True
+DeMar DeRozan,4,6,8,1,Turnaround Fadeaway shot,15,127,92,True
+DeMar DeRozan,3,3,11,0,Turnaround Fadeaway shot,11,-112,6,True
+DeMar DeRozan,1,3,40,1,Turnaround Fadeaway shot,13,-127,42,True
+DeMar DeRozan,3,9,39,1,Turnaround Fadeaway shot,10,-100,21,True
+DeMar DeRozan,1,6,9,1,Turnaround Fadeaway shot,11,95,59,True
+DeMar DeRozan,1,9,20,0,Turnaround Fadeaway shot,14,-130,63,True
+DeMar DeRozan,4,7,38,0,Turnaround Fadeaway shot,9,-2,90,True
+DeMar DeRozan,3,7,46,0,Turnaround Fadeaway shot,17,-97,150,True
+DeMar DeRozan,2,4,20,1,Turnaround Fadeaway shot,15,-96,120,True
+DeMar DeRozan,3,9,25,0,Turnaround Fadeaway shot,13,-127,46,True
+DeMar DeRozan,3,3,54,0,Turnaround Fadeaway shot,12,-118,26,True
+DeMar DeRozan,4,2,4,0,Turnaround Fadeaway shot,17,172,0,True
+DeMar DeRozan,3,10,50,0,Turnaround Fadeaway shot,13,-120,55,True
+DeMar DeRozan,3,2,23,1,Turnaround Fadeaway shot,13,-130,-2,True
+DeMar DeRozan,4,4,45,0,Turnaround Fadeaway shot,10,-105,32,True
+DeMar DeRozan,1,0,0,0,Turnaround Fadeaway shot,19,-77,178,True
+DeMar DeRozan,4,5,22,0,Turnaround Fadeaway shot,14,133,62,True
+DeMar DeRozan,3,4,52,1,Turnaround Fadeaway shot,14,133,52,True
+DeMar DeRozan,3,10,39,0,Turnaround Fadeaway shot,17,163,63,True
+DeMar DeRozan,1,3,51,0,Turnaround Fadeaway shot,16,-144,80,True
+DeMar DeRozan,1,6,29,1,Turnaround Fadeaway shot,10,-47,96,True
+DeMar DeRozan,4,4,19,0,Turnaround Fadeaway shot,11,-19,109,True
+DeMar DeRozan,1,8,35,1,Turnaround Fadeaway shot,13,-138,21,True
+DeMar DeRozan,1,0,1,0,Turnaround Fadeaway shot,17,-93,143,True
+DeMar DeRozan,4,7,2,0,Turnaround Fadeaway shot,10,-100,11,True
+DeMar DeRozan,2,2,31,0,Turnaround Fadeaway shot,16,141,88,True
+DeMar DeRozan,3,0,9,0,Turnaround Fadeaway shot,17,-118,124,True
+DeMar DeRozan,3,7,56,0,Turnaround Fadeaway shot,14,-6,146,True
+DeMar DeRozan,1,2,36,1,Turnaround Fadeaway shot,9,-60,79,True
+DeMar DeRozan,3,2,8,0,Turnaround Fadeaway shot,10,103,7,True
+DeMar DeRozan,3,5,45,1,Turnaround Fadeaway shot,13,51,129,True
+DeMar DeRozan,4,4,36,1,Turnaround Fadeaway shot,9,90,11,True
+DeMar DeRozan,4,0,2,0,Turnaround Fadeaway shot,10,-23,102,True
+DeMar DeRozan,1,3,29,1,Turnaround Fadeaway shot,14,123,73,True
+DeMar DeRozan,3,8,39,0,Turnaround Fadeaway shot,10,-107,-1,True
+DeMar DeRozan,2,2,47,0,Turnaround Fadeaway shot,17,179,7,True
+DeMar DeRozan,4,4,33,0,Turnaround Fadeaway shot,16,-83,141,True
+DeMar DeRozan,3,5,28,0,Turnaround Fadeaway shot,12,-125,19,True
+DeMar DeRozan,1,1,47,0,Turnaround Fadeaway shot,18,-181,0,True
+DeMar DeRozan,1,3,9,1,Turnaround Fadeaway shot,9,93,29,True
+DeMar DeRozan,3,5,41,0,Turnaround Fadeaway shot,17,-176,29,True
+DeMar DeRozan,2,3,1,1,Turnaround Fadeaway shot,13,-134,5,True
+DeMar DeRozan,1,4,26,0,Turnaround Fadeaway shot,10,-94,48,True
+DeMar DeRozan,4,5,41,1,Turnaround Fadeaway shot,15,158,-1,True
+DeMar DeRozan,3,2,32,1,Turnaround Fadeaway shot,15,122,101,True
+DeMar DeRozan,4,2,29,0,Turnaround Fadeaway shot,12,-65,110,True
+DeMar DeRozan,3,8,5,1,Turnaround Fadeaway shot,14,-141,29,True
+DeMar DeRozan,2,5,18,1,Turnaround Fadeaway shot,12,-106,64,True
+DeMar DeRozan,3,7,57,0,Turnaround Fadeaway shot,14,143,2,True
+DeMar DeRozan,1,8,18,0,Turnaround Hook Shot,8,-54,68,True
+DeMar DeRozan,3,1,28,0,Turnaround Jump Shot,12,3,126,True
+DeMar DeRozan,2,1,47,0,Turnaround Jump Shot,14,-125,80,True
+DeMar DeRozan,1,9,56,0,Turnaround Jump Shot,9,96,0,True
+DeMar DeRozan,3,11,23,0,Turnaround Jump Shot,14,46,135,True
+DeMar DeRozan,3,9,6,0,Turnaround Jump Shot,13,95,92,True
+DeMar DeRozan,3,0,45,1,Turnaround Jump Shot,16,-148,70,True
+DeMar DeRozan,4,1,41,0,Turnaround Jump Shot,8,-4,80,True
+DeMar DeRozan,3,1,7,1,Turnaround Jump Shot,14,29,147,True
+DeMar DeRozan,1,4,55,1,Turnaround Jump Shot,13,47,130,True
+DeMar DeRozan,2,1,12,1,Turnaround Jump Shot,4,-16,43,True
+DeMar DeRozan,3,4,22,1,Turnaround Jump Shot,12,11,127,True
+DeMar DeRozan,3,8,37,0,Turnaround Jump Shot,10,14,100,True
+DeMar DeRozan,3,8,26,0,Turnaround Jump Shot,11,-112,15,True
+DeMar DeRozan,4,4,31,1,Turnaround Jump Shot,16,143,86,True
+DeMar DeRozan,3,6,2,1,Turnaround Jump Shot,5,-12,54,True
+DeMar DeRozan,5,2,54,0,Turnaround Jump Shot,15,82,130,True
+DeMar DeRozan,3,1,6,1,Turnaround Jump Shot,12,51,111,True
+DeMar DeRozan,1,3,57,0,Turnaround Jump Shot,8,89,11,True
+DeMar DeRozan,1,3,17,1,Turnaround Jump Shot,15,-155,2,True
+DeMar DeRozan,3,11,17,0,Turnaround Jump Shot,12,98,83,True
+DeMar DeRozan,1,0,42,0,Turnaround Jump Shot,12,91,79,True
+DeMar DeRozan,2,2,53,0,Turnaround Jump Shot,17,-27,173,True
+DeMar DeRozan,1,5,18,0,Turnaround Jump Shot,16,-43,163,True
+DeMar DeRozan,2,6,30,0,Turnaround Jump Shot,12,-121,16,True
+DeMar DeRozan,1,3,4,1,Turnaround Jump Shot,11,-73,85,True
+DeMar DeRozan,4,4,29,0,Turnaround Jump Shot,11,68,95,True
+DeMar DeRozan,1,10,54,1,Turnaround Jump Shot,6,-61,7,True
+DeMar DeRozan,3,5,58,0,Turnaround Jump Shot,17,5,179,True
+DeMar DeRozan,2,2,17,0,Turnaround Jump Shot,13,-138,-3,True
+DeMar DeRozan,1,11,18,0,Turnaround Jump Shot,14,-148,-17,True
+DeMar DeRozan,2,5,19,0,Turnaround Jump Shot,8,77,34,True
+DeMar DeRozan,1,3,59,0,Turnaround Jump Shot,17,-165,49,True
+DeMar DeRozan,4,10,43,1,Turnaround Jump Shot,8,-1,85,True
+DeMar DeRozan,4,2,51,1,Turnaround Jump Shot,15,52,142,True
+DeMar DeRozan,4,1,25,0,Turnaround Jump Shot,14,-90,115,True
+DeMar DeRozan,4,0,55,0,Turnaround Jump Shot,23,224,67,False
+DeMar DeRozan,1,0,1,1,Turnaround Jump Shot,19,-143,126,True
+DeMar DeRozan,3,8,41,0,Turnaround Jump Shot,10,-60,86,True
+DeMar DeRozan,3,8,9,0,Turnaround Jump Shot,13,-1,130,True
+DeMar DeRozan,3,9,53,1,Turnaround Jump Shot,11,-107,40,True
+DeMar DeRozan,3,9,59,0,Turnaround Jump Shot,15,111,115,True
+DeMar DeRozan,3,5,16,0,Turnaround Jump Shot,23,234,10,False
+DeMar DeRozan,2,2,37,1,Turnaround Jump Shot,11,-111,45,True
+DeMar DeRozan,4,4,4,1,Turnaround Jump Shot,15,-3,153,True
+DeMar DeRozan,2,5,17,1,Turnaround Jump Shot,12,123,11,True
+DeMar DeRozan,2,0,5,0,Turnaround Jump Shot,14,29,146,True
+DeMar DeRozan,4,6,7,1,Turnaround Jump Shot,13,-107,83,True
+DeMar DeRozan,2,0,7,0,Turnaround Jump Shot,16,105,133,True
+DeMar DeRozan,3,10,23,0,Turnaround Jump Shot,12,52,110,True
+DeMar DeRozan,2,6,15,0,Turnaround Jump Shot,7,-33,69,True
+DeMar DeRozan,1,11,43,0,Turnaround Jump Shot,13,-57,119,True
+DeMar DeRozan,4,2,52,1,Turnaround Jump Shot,13,113,80,True
+DeMar DeRozan,2,0,0,0,Turnaround Jump Shot,16,-44,160,True
+DeMar DeRozan,1,4,0,0,Turnaround Jump Shot,10,11,101,True
+DeMar DeRozan,1,11,25,1,Turnaround Jump Shot,17,103,143,True
+DeMar DeRozan,3,2,29,1,Turnaround Jump Shot,16,-93,140,True
+DeMar DeRozan,5,3,57,0,Turnaround Jump Shot,14,76,121,True
+DeMar DeRozan,1,6,6,0,Turnaround Jump Shot,14,112,85,True
+DeMar DeRozan,2,4,42,1,Turnaround Jump Shot,17,-150,96,True
+DeMar DeRozan,4,5,51,1,Turnaround Jump Shot,10,12,106,True
+DeMar DeRozan,2,0,3,1,Turnaround Jump Shot,7,-34,69,True
+DeMar DeRozan,1,6,8,0,Turnaround Jump Shot,13,-119,56,True
+DeMar DeRozan,3,5,41,0,Turnaround Jump Shot,11,112,6,True
+DeMar DeRozan,4,5,17,0,Turnaround Jump Shot,14,65,130,True
+DeMar DeRozan,2,4,0,0,Turnaround Jump Shot,15,-44,148,True
+DeMar DeRozan,2,5,30,0,Turnaround Jump Shot,11,-105,35,True
+DeMar DeRozan,3,7,4,1,Turnaround Jump Shot,10,-95,54,True
+DeMar DeRozan,4,0,2,0,Turnaround Jump Shot,13,136,28,True
+DeMar DeRozan,2,0,33,1,Turnaround Jump Shot,10,0,104,True
+DeMar DeRozan,2,0,0,1,Turnaround Jump Shot,14,78,122,True
+DeMar DeRozan,4,0,20,1,Turnaround Jump Shot,12,54,108,True
+DeMar DeRozan,4,2,26,0,Turnaround Jump Shot,19,128,142,True
+DeMar DeRozan,1,7,52,1,Turnaround Jump Shot,17,-24,173,True
+DeMar DeRozan,1,8,25,1,Turnaround Jump Shot,10,-100,17,True
+DeMar DeRozan,2,2,26,0,Turnaround Jump Shot,14,145,36,True
+DeMar DeRozan,1,3,46,0,Turnaround Jump Shot,12,-116,52,True
+DeMar DeRozan,3,11,21,0,Turnaround Jump Shot,13,-136,8,True
+DeMar DeRozan,1,10,47,1,Turnaround Jump Shot,12,128,15,True
+DeMar DeRozan,3,1,12,0,Turnaround Jump Shot,13,-133,-4,True
+DeMar DeRozan,3,4,58,0,Turnaround Jump Shot,5,-51,6,True

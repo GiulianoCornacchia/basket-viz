@@ -1,0 +1,31 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Zhou Qi,4,1,15,1,Alley Oop Layup shot,0,0,2,True
+Zhou Qi,4,3,15,0,Driving Layup Shot,11,-24,112,True
+Zhou Qi,4,0,49,1,Dunk Shot,1,-5,18,True
+Zhou Qi,1,4,45,1,Jump Bank Shot,6,-46,41,True
+Zhou Qi,4,0,32,0,Jump Shot,25,-9,251,False
+Zhou Qi,4,1,33,0,Jump Shot,30,-123,275,False
+Zhou Qi,2,7,45,0,Jump Shot,26,-58,258,False
+Zhou Qi,2,10,15,0,Jump Shot,26,70,257,False
+Zhou Qi,2,0,26,0,Jump Shot,25,109,232,False
+Zhou Qi,2,0,0,0,Jump Shot,5,-49,31,True
+Zhou Qi,4,1,47,0,Jump Shot,23,229,22,False
+Zhou Qi,4,0,23,1,Jump Shot,24,172,178,False
+Zhou Qi,4,4,24,1,Jump Shot,23,235,5,False
+Zhou Qi,4,6,23,0,Jump Shot,26,165,201,False
+Zhou Qi,1,0,38,0,Jump Shot,25,176,186,False
+Zhou Qi,3,1,50,0,Jump Shot,25,155,197,False
+Zhou Qi,4,3,2,0,Jump Shot,25,-14,251,False
+Qi Qi,4,1,43,0,Jump Shot,23,-232,-10,False
+Zhou Qi,4,5,35,0,Jump Shot,25,-82,242,False
+Zhou Qi,4,6,43,0,Jump Shot,25,-217,125,False
+Zhou Qi,4,3,55,0,Jump Shot,27,118,244,False
+Zhou Qi,4,0,26,0,Jump Shot,27,136,241,False
+Zhou Qi,4,1,32,0,Layup Shot,1,-12,10,True
+Zhou Qi,1,3,44,0,Layup Shot,2,16,21,True
+Zhou Qi,4,4,57,0,Tip Layup Shot,0,0,-6,True
+Zhou Qi,4,1,59,1,Tip Layup Shot,0,0,-6,True
+Zhou Qi,4,1,59,0,Tip Layup Shot,1,16,10,True
+Zhou Qi,4,0,37,0,Turnaround Fadeaway shot,10,11,109,True
+Zhou Qi,4,1,11,0,Turnaround Jump Shot,8,-46,67,True
+Zhou Qi,4,2,24,0,Turnaround Jump Shot,11,-99,64,True

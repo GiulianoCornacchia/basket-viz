@@ -1,0 +1,604 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jae Crowder,4,2,7,0,Alley Oop Layup shot,2,18,22,True
+Jae Crowder,2,0,13,1,Alley Oop Layup shot,2,-19,8,True
+Jae Crowder,2,1,12,1,Alley Oop Layup shot,1,10,-5,True
+Jae Crowder,4,3,30,1,Alley Oop Layup shot,1,-17,10,True
+Jae Crowder,2,9,38,0,Cutting Dunk Shot,3,24,20,True
+Jae Crowder,2,2,1,1,Cutting Finger Roll Layup Shot,2,-14,17,True
+Jae Crowder,2,2,25,1,Cutting Finger Roll Layup Shot,0,-5,1,True
+Jae Crowder,3,5,5,1,Cutting Layup Shot,2,-5,21,True
+Jae Crowder,1,3,11,1,Cutting Layup Shot,1,3,16,True
+Jae Crowder,1,7,22,1,Cutting Layup Shot,1,-7,8,True
+Jae Crowder,1,9,47,0,Cutting Layup Shot,1,0,12,True
+Jae Crowder,4,2,21,1,Cutting Layup Shot,3,-3,31,True
+Jae Crowder,2,3,31,1,Cutting Layup Shot,7,62,37,True
+Jae Crowder,2,6,11,1,Cutting Layup Shot,1,16,6,True
+Jae Crowder,3,1,26,0,Cutting Layup Shot,3,0,33,True
+Jae Crowder,3,1,49,1,Cutting Layup Shot,2,24,17,True
+Jae Crowder,4,11,10,1,Cutting Layup Shot,2,-20,20,True
+Jae Crowder,2,0,25,1,Cutting Layup Shot,2,22,6,True
+Jae Crowder,4,4,44,1,Cutting Layup Shot,2,-19,9,True
+Jae Crowder,4,2,25,1,Cutting Layup Shot,2,-22,1,True
+Jae Crowder,1,8,2,1,Cutting Layup Shot,1,-5,10,True
+Jae Crowder,1,2,8,1,Cutting Layup Shot,0,-5,6,True
+Jae Crowder,2,9,26,1,Cutting Layup Shot,3,-22,22,True
+Jae Crowder,3,11,15,1,Cutting Layup Shot,3,-20,28,True
+Jae Crowder,4,10,18,1,Cutting Layup Shot,1,13,4,True
+Jae Crowder,1,7,42,0,Cutting Layup Shot,5,27,44,True
+Jae Crowder,3,0,33,1,Cutting Layup Shot,2,22,11,True
+Jae Crowder,1,9,18,0,Cutting Layup Shot,0,3,1,True
+Jae Crowder,1,10,55,1,Cutting Layup Shot,0,-8,-1,True
+Jae Crowder,2,4,54,1,Cutting Layup Shot,0,-1,5,True
+Jae Crowder,3,10,48,1,Cutting Layup Shot,0,5,-1,True
+Jae Crowder,3,11,18,1,Cutting Layup Shot,1,11,-1,True
+Jae Crowder,1,7,55,1,Cutting Layup Shot,1,0,11,True
+Jae Crowder,4,1,35,1,Cutting Layup Shot,1,16,2,True
+Jae Crowder,3,5,37,1,Cutting Layup Shot,1,13,-8,True
+Jae Crowder,2,2,41,1,Cutting Layup Shot,1,-12,4,True
+Jae Crowder,2,8,27,1,Cutting Layup Shot,1,8,7,True
+Jae Crowder,3,6,22,1,Cutting Layup Shot,1,2,11,True
+Jae Crowder,1,1,16,0,Cutting Layup Shot,1,7,16,True
+Jae Crowder,2,0,51,1,Driving Dunk Shot,1,9,17,True
+Jae Crowder,1,3,40,1,Driving Dunk Shot,2,-18,12,True
+Jae Crowder,1,5,42,1,Driving Finger Roll Layup Shot,1,9,13,True
+Jae Crowder,3,10,6,1,Driving Floating Bank Jump Shot,4,28,33,True
+Jae Crowder,4,7,58,1,Driving Floating Bank Jump Shot,6,-62,29,True
+Jae Crowder,4,4,36,1,Driving Floating Jump Shot,4,-35,27,True
+Jae Crowder,4,2,23,1,Driving Layup Shot,8,67,58,True
+Jae Crowder,2,9,20,0,Driving Layup Shot,2,-29,6,True
+Jae Crowder,3,1,35,0,Driving Layup Shot,3,27,15,True
+Jae Crowder,3,2,31,1,Driving Layup Shot,2,15,15,True
+Jae Crowder,3,4,20,1,Driving Layup Shot,1,13,11,True
+Jae Crowder,1,4,38,0,Driving Layup Shot,1,-7,8,True
+Jae Crowder,4,9,47,1,Driving Layup Shot,2,-18,13,True
+Jae Crowder,1,4,5,1,Driving Layup Shot,2,14,24,True
+Jae Crowder,1,4,12,0,Driving Layup Shot,2,19,13,True
+Jae Crowder,4,5,31,0,Driving Layup Shot,3,25,25,True
+Jae Crowder,1,1,59,0,Driving Layup Shot,1,13,12,True
+Jae Crowder,1,1,0,0,Driving Layup Shot,2,14,18,True
+Jae Crowder,2,6,35,0,Driving Layup Shot,0,-6,5,True
+Jae Crowder,1,10,11,1,Driving Layup Shot,1,13,8,True
+Jae Crowder,2,5,15,0,Driving Layup Shot,3,-9,35,True
+Jae Crowder,1,0,59,0,Driving Layup Shot,3,-7,32,True
+Jae Crowder,2,4,5,1,Driving Layup Shot,2,2,22,True
+Jae Crowder,1,2,48,1,Driving Layup Shot,3,31,5,True
+Jae Crowder,1,7,0,1,Driving Layup Shot,1,-2,11,True
+Jae Crowder,3,5,57,0,Driving Layup Shot,1,2,17,True
+Jae Crowder,1,8,22,1,Driving Layup Shot,2,0,21,True
+Jae Crowder,3,10,12,0,Driving Layup Shot,1,-14,12,True
+Jae Crowder,1,4,42,1,Driving Layup Shot,2,26,6,True
+Jae Crowder,4,4,31,0,Driving Layup Shot,6,-26,64,True
+Jae Crowder,4,8,52,0,Driving Layup Shot,5,40,38,True
+Jae Crowder,2,8,52,1,Driving Layup Shot,1,18,6,True
+Jae Crowder,1,3,8,1,Driving Layup Shot,0,6,6,True
+Jae Crowder,2,5,7,0,Driving Layup Shot,7,32,65,True
+Jae Crowder,2,0,42,1,Driving Layup Shot,1,-14,14,True
+Jae Crowder,2,2,12,0,Driving Layup Shot,2,27,3,True
+Jae Crowder,1,6,8,0,Driving Layup Shot,3,12,34,True
+Jae Crowder,1,10,34,1,Driving Layup Shot,3,14,34,True
+Jae Crowder,2,8,4,1,Driving Layup Shot,1,8,10,True
+Jae Crowder,2,1,29,1,Driving Layup Shot,1,10,1,True
+Jae Crowder,1,5,43,1,Driving Layup Shot,2,-5,21,True
+Jae Crowder,2,2,6,0,Driving Layup Shot,2,-20,6,True
+Jae Crowder,3,4,38,0,Driving Layup Shot,4,16,42,True
+Jae Crowder,1,4,43,0,Driving Layup Shot,1,-8,10,True
+Jae Crowder,1,4,30,0,Driving Layup Shot,2,-11,19,True
+Jae Crowder,4,11,17,0,Driving Layup Shot,2,-16,21,True
+Jae Crowder,2,0,0,0,Driving Layup Shot,1,5,17,True
+Jae Crowder,2,5,18,1,Driving Layup Shot,0,3,7,True
+Jae Crowder,1,1,26,1,Driving Layup Shot,2,-25,0,True
+Jae Crowder,3,1,59,0,Driving Layup Shot,3,-26,25,True
+Jae Crowder,2,3,3,1,Driving Layup Shot,0,3,8,True
+Jae Crowder,1,2,4,0,Driving Layup Shot,2,22,0,True
+Jae Crowder,4,6,1,1,Driving Layup Shot,2,16,14,True
+Jae Crowder,2,6,2,1,Driving Reverse Layup Shot,0,1,9,True
+Jae Crowder,1,2,40,0,Driving Reverse Layup Shot,2,24,7,True
+Jae Crowder,3,10,22,1,Driving Reverse Layup Shot,1,-12,6,True
+Jae Crowder,3,4,19,0,Driving Reverse Layup Shot,1,-5,16,True
+Jae Crowder,4,7,43,1,Driving Reverse Layup Shot,1,-13,1,True
+Jae Crowder,3,7,53,0,Dunk Shot,1,17,10,True
+Jae Crowder,2,10,47,0,Fadeaway Jump Shot,7,-15,73,True
+Jae Crowder,3,2,54,0,Fadeaway Jump Shot,18,173,71,True
+Jae Crowder,3,5,14,1,Fadeaway Jump Shot,16,127,110,True
+Jae Crowder,3,11,2,0,Fadeaway Jump Shot,11,107,33,True
+Jae Crowder,4,10,41,1,Fadeaway Jump Shot,16,-162,25,True
+Jae Crowder,4,5,38,0,Fadeaway Jump Shot,9,50,79,True
+Jae Crowder,3,5,44,0,Fadeaway Jump Shot,12,-82,94,True
+Jae Crowder,1,6,37,0,Fadeaway Jump Shot,7,18,71,True
+Jae Crowder,4,10,17,1,Fadeaway Jump Shot,10,-105,3,True
+Jae Crowder,2,8,29,1,Floating Jump shot,2,-7,20,True
+Jae Crowder,3,11,9,0,Floating Jump shot,2,-13,22,True
+Jae Crowder,3,1,43,0,Floating Jump shot,2,-19,23,True
+Jae Crowder,2,8,26,0,Floating Jump shot,5,-36,42,True
+Jae Crowder,3,6,55,0,Floating Jump shot,9,97,0,True
+Jae Crowder,4,11,41,1,Floating Jump shot,5,-25,46,True
+Jae Crowder,3,6,20,0,Hook Shot,2,-1,26,True
+Jae Crowder,3,1,11,1,Jump Bank Shot,25,-25,250,False
+Jae Crowder,3,5,23,1,Jump Shot,23,229,27,False
+Jae Crowder,2,5,23,0,Jump Shot,25,93,235,False
+Jae Crowder,4,1,21,1,Jump Shot,25,145,213,False
+Jae Crowder,1,11,22,0,Jump Shot,21,-212,29,True
+Jae Crowder,2,5,52,0,Jump Shot,12,123,28,True
+Jae Crowder,4,5,40,1,Jump Shot,26,144,220,False
+Jae Crowder,4,9,34,1,Jump Shot,20,122,164,True
+Jae Crowder,4,5,9,0,Jump Shot,22,220,20,False
+Jae Crowder,1,7,0,0,Jump Shot,24,-230,82,False
+Jae Crowder,1,6,20,0,Jump Shot,24,199,148,False
+Jae Crowder,1,4,37,1,Jump Shot,22,-225,1,False
+Jae Crowder,3,4,19,1,Jump Shot,25,114,229,False
+Jae Crowder,4,9,5,0,Jump Shot,26,-152,216,False
+Jae Crowder,3,3,57,0,Jump Shot,25,-63,248,False
+Jae Crowder,1,1,52,1,Jump Shot,25,-77,241,False
+Jae Crowder,1,4,8,0,Jump Shot,24,-165,186,False
+Jae Crowder,3,3,22,0,Jump Shot,26,-103,240,False
+Jae Crowder,2,2,24,0,Jump Shot,22,122,186,True
+Jae Crowder,4,0,52,0,Jump Shot,26,3,262,False
+Jae Crowder,3,4,27,1,Jump Shot,25,-112,230,False
+Jae Crowder,2,0,1,0,Jump Shot,25,-133,218,False
+Jae Crowder,2,11,26,0,Jump Shot,10,98,26,True
+Jae Crowder,4,11,5,0,Jump Shot,24,-194,147,False
+Jae Crowder,4,11,48,0,Jump Shot,24,157,192,False
+Jae Crowder,2,2,21,0,Jump Shot,24,-229,83,False
+Jae Crowder,3,5,10,0,Jump Shot,25,-174,190,False
+Jae Crowder,2,1,39,1,Jump Shot,28,-123,253,False
+Jae Crowder,4,9,52,1,Jump Shot,24,239,64,False
+Jae Crowder,1,3,5,1,Jump Shot,22,131,179,True
+Jae Crowder,4,10,31,0,Jump Shot,23,-234,-4,False
+Jae Crowder,1,3,51,0,Jump Shot,26,-120,232,False
+Jae Crowder,3,2,46,0,Jump Shot,24,237,63,False
+Jae Crowder,3,1,4,0,Jump Shot,24,-234,62,False
+Jae Crowder,2,3,57,1,Jump Shot,24,234,71,False
+Jae Crowder,2,0,5,0,Jump Shot,26,13,263,False
+Jae Crowder,2,4,50,1,Jump Shot,27,145,234,False
+Jae Crowder,1,3,34,0,Jump Shot,23,-231,25,False
+Jae Crowder,2,11,6,1,Jump Shot,25,-145,212,False
+Jae Crowder,4,7,21,0,Jump Shot,26,133,224,False
+Jae Crowder,4,11,24,0,Jump Shot,25,-168,188,False
+Jae Crowder,2,2,57,1,Jump Shot,24,18,249,False
+Jae Crowder,3,2,32,0,Jump Shot,23,-232,4,False
+Jae Crowder,1,5,12,1,Jump Shot,22,223,-38,False
+Jae Crowder,1,2,58,0,Jump Shot,23,230,6,False
+Jae Crowder,2,9,33,0,Jump Shot,25,192,163,False
+Jae Crowder,3,5,41,0,Jump Shot,24,-215,121,False
+Jae Crowder,3,0,43,0,Jump Shot,22,-226,-1,False
+Jae Crowder,4,9,24,0,Jump Shot,23,-234,37,False
+Jae Crowder,4,8,41,0,Jump Shot,25,153,206,False
+Jae Crowder,1,2,11,1,Jump Shot,26,179,191,False
+Jae Crowder,3,1,15,0,Jump Shot,22,-225,3,False
+Jae Crowder,4,5,7,0,Jump Shot,24,14,247,False
+Jae Crowder,1,3,7,0,Jump Shot,15,32,149,True
+Jae Crowder,4,7,42,1,Jump Shot,25,-182,172,False
+Jae Crowder,2,10,13,0,Jump Shot,27,-157,225,False
+Jae Crowder,3,3,56,0,Jump Shot,11,-96,65,True
+Jae Crowder,1,3,13,1,Jump Shot,24,12,240,False
+Jae Crowder,4,3,53,0,Jump Shot,23,-230,25,False
+Jae Crowder,2,11,9,0,Jump Shot,24,142,195,False
+Jae Crowder,1,2,38,0,Jump Shot,25,89,236,False
+Jae Crowder,4,10,4,1,Jump Shot,21,214,34,True
+Jae Crowder,2,0,40,0,Jump Shot,25,-139,212,False
+Jae Crowder,3,5,44,1,Jump Shot,22,226,3,False
+Jae Crowder,1,2,3,0,Jump Shot,23,-235,42,False
+Jae Crowder,2,3,13,0,Jump Shot,22,-229,16,False
+Jae Crowder,1,4,49,0,Jump Shot,18,-181,7,True
+Jae Crowder,3,1,40,0,Jump Shot,22,-222,-5,False
+Jae Crowder,2,2,38,0,Jump Shot,23,-224,71,False
+Jae Crowder,2,3,34,0,Jump Shot,25,68,241,False
+Jae Crowder,4,10,5,0,Jump Shot,25,-54,247,False
+Jae Crowder,2,11,24,1,Jump Shot,25,-214,135,False
+Jae Crowder,1,0,2,1,Jump Shot,24,-122,215,False
+Jae Crowder,1,2,54,1,Jump Shot,24,-21,243,False
+Jae Crowder,1,3,30,0,Jump Shot,19,-199,-1,True
+Jae Crowder,3,0,57,1,Jump Shot,23,229,22,False
+Jae Crowder,4,6,29,1,Jump Shot,25,131,214,False
+Jae Crowder,1,3,11,0,Jump Shot,24,146,200,False
+Jae Crowder,2,3,49,1,Jump Shot,23,-230,12,False
+Jae Crowder,3,7,40,0,Jump Shot,23,232,40,False
+Jae Crowder,4,1,35,0,Jump Shot,23,226,50,False
+Jae Crowder,1,3,53,0,Jump Shot,25,-55,249,False
+Jae Crowder,4,5,10,0,Jump Shot,22,-227,8,False
+Jae Crowder,4,6,21,0,Jump Shot,24,-144,200,False
+Jae Crowder,2,11,44,1,Jump Shot,25,105,235,False
+Jae Crowder,3,2,9,0,Jump Shot,32,109,309,False
+Jae Crowder,3,1,44,0,Jump Shot,22,-221,11,False
+Jae Crowder,1,5,47,0,Jump Shot,25,-119,227,False
+Jae Crowder,2,3,24,0,Jump Shot,14,11,147,True
+Jae Crowder,4,0,5,0,Jump Shot,25,109,236,False
+Jae Crowder,1,2,13,1,Jump Shot,25,-12,259,False
+Jae Crowder,3,2,47,0,Jump Shot,15,83,127,True
+Jae Crowder,2,3,20,0,Jump Shot,25,36,252,False
+Jae Crowder,1,1,3,0,Jump Shot,22,-228,-3,False
+Jae Crowder,2,4,29,0,Jump Shot,24,230,90,False
+Jae Crowder,4,7,0,0,Jump Shot,24,-226,88,False
+Jae Crowder,2,11,27,0,Jump Shot,25,-60,243,False
+Jae Crowder,3,6,9,0,Jump Shot,23,101,210,True
+Jae Crowder,4,3,5,1,Jump Shot,14,8,148,True
+Jae Crowder,3,1,59,0,Jump Shot,15,-6,154,True
+Jae Crowder,2,4,45,0,Jump Shot,25,131,219,False
+Jae Crowder,2,10,42,1,Jump Shot,19,-127,143,True
+Jae Crowder,4,4,5,0,Jump Shot,23,-230,17,False
+Jae Crowder,1,4,31,0,Jump Shot,25,-145,210,False
+Jae Crowder,1,5,43,0,Jump Shot,25,103,229,False
+Jae Crowder,4,1,28,0,Jump Shot,25,179,186,False
+Jae Crowder,2,4,56,0,Jump Shot,25,-81,245,False
+Jae Crowder,2,9,37,1,Jump Shot,24,109,220,False
+Jae Crowder,3,2,30,1,Jump Shot,25,-110,232,False
+Jae Crowder,3,3,49,0,Jump Shot,24,-119,218,False
+Jae Crowder,2,5,25,1,Jump Shot,25,-92,234,False
+Jae Crowder,1,5,20,0,Jump Shot,24,119,209,False
+Jae Crowder,2,4,34,1,Jump Shot,24,-163,189,False
+Jae Crowder,4,4,36,0,Jump Shot,24,-174,173,False
+Jae Crowder,4,10,57,1,Jump Shot,22,225,31,False
+Jae Crowder,3,1,48,0,Jump Shot,25,105,227,False
+Jae Crowder,3,5,4,1,Jump Shot,23,231,10,False
+Jae Crowder,2,2,12,0,Jump Shot,24,69,237,False
+Jae Crowder,2,5,26,1,Jump Shot,26,-228,126,False
+Jae Crowder,1,10,58,1,Jump Shot,20,200,28,True
+Jae Crowder,3,10,58,1,Jump Shot,20,186,90,True
+Jae Crowder,1,2,24,0,Jump Shot,23,-232,2,False
+Jae Crowder,2,3,13,0,Jump Shot,23,232,49,False
+Jae Crowder,3,5,4,0,Jump Shot,24,-195,147,False
+Jae Crowder,1,9,11,0,Jump Shot,23,231,54,False
+Jae Crowder,3,1,23,1,Jump Shot,25,-84,240,False
+Jae Crowder,3,9,54,1,Jump Shot,22,-59,221,True
+Jae Crowder,3,6,43,0,Jump Shot,20,-203,27,True
+Jae Crowder,3,2,55,0,Jump Shot,23,-231,26,False
+Jae Crowder,4,8,9,0,Jump Shot,23,-230,1,False
+Jae Crowder,1,1,26,0,Jump Shot,24,127,215,False
+Jae Crowder,4,0,20,0,Jump Shot,26,-186,191,False
+Jae Crowder,2,9,55,0,Jump Shot,24,-139,203,False
+Jae Crowder,3,5,20,1,Jump Shot,24,226,84,False
+Jae Crowder,3,4,36,1,Jump Shot,26,-98,248,False
+Jae Crowder,1,1,40,0,Jump Shot,25,-31,250,False
+Jae Crowder,3,0,33,0,Jump Shot,25,-152,204,False
+Jae Crowder,2,5,29,0,Jump Shot,22,167,153,True
+Jae Crowder,2,6,14,1,Jump Shot,26,155,209,False
+Jae Crowder,1,5,41,0,Jump Shot,26,2,268,False
+Jae Crowder,3,5,8,0,Jump Shot,22,-152,167,True
+Jae Crowder,1,3,45,0,Jump Shot,25,-197,164,False
+Jae Crowder,2,0,0,1,Jump Shot,18,-128,127,True
+Jae Crowder,1,4,17,0,Jump Shot,25,-199,166,False
+Jae Crowder,2,0,43,0,Jump Shot,22,-225,-4,False
+Jae Crowder,3,10,59,0,Jump Shot,28,53,279,False
+Jae Crowder,1,11,35,0,Jump Shot,29,181,229,False
+Jae Crowder,2,3,47,1,Jump Shot,25,-198,168,False
+Jae Crowder,1,3,35,0,Jump Shot,26,-158,216,False
+Jae Crowder,3,10,40,0,Jump Shot,24,-212,125,False
+Jae Crowder,1,8,59,0,Jump Shot,23,-235,26,False
+Jae Crowder,3,7,3,0,Jump Shot,23,98,213,True
+Jae Crowder,1,3,43,1,Jump Shot,25,91,241,False
+Jae Crowder,2,0,1,0,Jump Shot,25,-30,258,False
+Jae Crowder,3,5,54,0,Jump Shot,25,136,213,False
+Jae Crowder,3,11,42,1,Jump Shot,25,11,255,False
+Jae Crowder,1,4,41,0,Jump Shot,25,-29,254,False
+Jae Crowder,1,3,17,1,Jump Shot,25,-74,242,False
+Jae Crowder,1,11,21,0,Jump Shot,22,-224,-5,False
+Jae Crowder,1,4,39,0,Jump Shot,26,-120,236,False
+Jae Crowder,3,9,57,1,Jump Shot,26,136,224,False
+Jae Crowder,2,1,31,0,Jump Shot,24,-196,155,False
+Jae Crowder,3,11,46,0,Jump Shot,25,-63,252,False
+Jae Crowder,2,4,47,1,Jump Shot,24,-209,122,False
+Jae Crowder,3,5,35,1,Jump Shot,22,115,188,True
+Jae Crowder,1,10,41,0,Jump Shot,25,-180,174,False
+Jae Crowder,1,4,31,0,Jump Shot,21,-213,23,True
+Jae Crowder,1,7,44,1,Jump Shot,23,232,12,False
+Jae Crowder,4,5,6,0,Jump Shot,23,229,38,False
+Jae Crowder,1,8,13,0,Jump Shot,25,141,214,False
+Jae Crowder,1,7,47,0,Jump Shot,24,160,181,False
+Jae Crowder,2,10,45,0,Jump Shot,21,215,6,True
+Jae Crowder,3,11,45,0,Jump Shot,25,-124,226,False
+Jae Crowder,2,1,15,0,Jump Shot,26,0,269,False
+Jae Crowder,1,4,10,0,Jump Shot,27,-177,215,False
+Jae Crowder,1,8,34,1,Jump Shot,25,-174,190,False
+Jae Crowder,1,9,29,0,Jump Shot,25,-122,223,False
+Jae Crowder,4,8,59,0,Jump Shot,24,131,203,False
+Jae Crowder,2,2,19,1,Jump Shot,25,-12,259,False
+Jae Crowder,2,5,2,0,Jump Shot,23,226,47,False
+Jae Crowder,1,6,22,1,Jump Shot,23,98,211,True
+Jae Crowder,3,6,29,0,Jump Shot,23,-232,0,False
+Jae Crowder,3,11,43,0,Jump Shot,21,209,22,True
+Jae Crowder,1,5,47,1,Jump Shot,18,-181,12,True
+Jae Crowder,1,5,45,1,Jump Shot,25,12,257,False
+Jae Crowder,1,8,55,1,Jump Shot,23,231,34,False
+Jae Crowder,2,1,50,1,Jump Shot,24,234,58,False
+Jae Crowder,2,2,24,0,Jump Shot,20,110,178,True
+Jae Crowder,3,7,28,0,Jump Shot,26,-127,233,False
+Jae Crowder,3,10,59,1,Jump Shot,23,151,181,True
+Jae Crowder,3,3,19,1,Jump Shot,23,165,167,True
+Jae Crowder,1,8,51,1,Jump Shot,26,-165,203,False
+Jae Crowder,2,1,28,0,Jump Shot,27,-167,215,False
+Jae Crowder,3,7,3,1,Jump Shot,27,166,216,False
+Jae Crowder,2,3,51,0,Jump Shot,22,-227,-18,False
+Jae Crowder,1,10,3,0,Jump Shot,26,93,244,False
+Jae Crowder,1,9,49,0,Jump Shot,18,117,143,True
+Jae Crowder,3,8,50,0,Jump Shot,24,133,211,False
+Jae Crowder,3,5,27,0,Jump Shot,23,206,104,True
+Jae Crowder,1,4,54,1,Jump Shot,23,-234,21,False
+Jae Crowder,1,5,56,0,Jump Shot,22,84,211,True
+Jae Crowder,1,7,38,1,Jump Shot,25,14,251,False
+Jae Crowder,3,3,5,0,Jump Shot,2,11,17,True
+Jae Crowder,2,1,12,0,Jump Shot,24,-127,214,False
+Jae Crowder,3,5,46,0,Jump Shot,24,-230,84,False
+Jae Crowder,3,8,10,1,Jump Shot,25,-23,249,False
+Jae Crowder,3,11,34,1,Jump Shot,24,-120,218,False
+Jae Crowder,3,9,15,0,Jump Shot,22,-228,-1,False
+Jae Crowder,1,5,28,0,Jump Shot,25,196,162,False
+Jae Crowder,1,7,5,0,Jump Shot,23,-111,204,True
+Jae Crowder,3,5,8,0,Jump Shot,25,-73,248,False
+Jae Crowder,1,7,57,0,Jump Shot,25,-100,230,False
+Jae Crowder,1,10,22,0,Jump Shot,25,193,172,False
+Jae Crowder,3,8,2,0,Jump Shot,24,-181,172,False
+Jae Crowder,3,5,48,0,Jump Shot,26,-93,251,False
+Jae Crowder,2,5,26,0,Jump Shot,23,224,79,False
+Jae Crowder,1,9,0,0,Jump Shot,17,-169,40,True
+Jae Crowder,3,8,35,1,Jump Shot,25,9,256,False
+Jae Crowder,3,7,40,0,Jump Shot,21,-182,110,True
+Jae Crowder,3,9,31,1,Jump Shot,27,-51,274,False
+Jae Crowder,3,10,58,1,Jump Shot,25,-97,237,False
+Jae Crowder,1,8,56,0,Jump Shot,20,206,-7,True
+Jae Crowder,1,7,35,0,Jump Shot,25,-106,230,False
+Jae Crowder,3,9,19,1,Jump Shot,21,152,154,True
+Jae Crowder,1,5,8,0,Jump Shot,20,158,131,True
+Jae Crowder,1,0,47,0,Jump Shot,26,-143,223,False
+Jae Crowder,3,11,37,0,Jump Shot,25,-15,257,False
+Jae Crowder,4,6,10,0,Jump Shot,25,199,153,False
+Jae Crowder,2,9,46,0,Jump Shot,26,46,256,False
+Jae Crowder,4,0,33,0,Jump Shot,25,-49,250,False
+Jae Crowder,3,2,55,0,Jump Shot,25,195,168,False
+Jae Crowder,2,11,22,1,Jump Shot,27,-70,263,False
+Jae Crowder,4,6,13,0,Jump Shot,22,229,20,False
+Jae Crowder,3,2,15,0,Jump Shot,25,54,253,False
+Jae Crowder,3,3,10,0,Jump Shot,23,-237,13,False
+Jae Crowder,3,0,0,0,Jump Shot,29,146,256,False
+Jae Crowder,1,2,58,0,Jump Shot,15,2,159,True
+Jae Crowder,1,0,34,0,Jump Shot,28,-97,271,False
+Jae Crowder,2,10,21,0,Jump Shot,26,-123,237,False
+Jae Crowder,2,11,39,1,Jump Shot,23,-233,30,False
+Jae Crowder,1,4,44,1,Jump Shot,21,-117,183,True
+Jae Crowder,1,10,14,0,Jump Shot,25,-174,180,False
+Jae Crowder,3,11,11,1,Jump Shot,25,-177,190,False
+Jae Crowder,2,1,35,0,Jump Shot,26,117,236,False
+Jae Crowder,3,6,32,1,Jump Shot,23,234,30,False
+Jae Crowder,3,9,33,1,Jump Shot,23,232,20,False
+Jae Crowder,1,9,21,0,Jump Shot,17,-149,86,True
+Jae Crowder,4,7,19,1,Jump Shot,25,-218,131,False
+Jae Crowder,3,6,0,0,Jump Shot,25,188,174,False
+Jae Crowder,1,2,4,0,Jump Shot,25,-101,239,False
+Jae Crowder,4,8,18,0,Jump Shot,24,232,79,False
+Jae Crowder,1,8,29,0,Jump Shot,23,-117,204,True
+Jae Crowder,2,4,21,0,Jump Shot,26,-131,233,False
+Jae Crowder,1,3,52,0,Jump Shot,26,-215,152,False
+Jae Crowder,3,8,35,1,Jump Shot,27,128,243,False
+Jae Crowder,3,5,44,1,Jump Shot,23,231,13,False
+Jae Crowder,1,6,37,0,Jump Shot,19,-195,-7,True
+Jae Crowder,3,6,54,0,Jump Shot,22,225,-9,False
+Jae Crowder,2,0,31,0,Jump Shot,23,29,234,True
+Jae Crowder,4,5,55,0,Jump Shot,25,119,228,False
+Jae Crowder,2,5,35,0,Jump Shot,27,150,225,False
+Jae Crowder,2,5,52,1,Jump Shot,24,239,61,False
+Jae Crowder,1,10,21,1,Jump Shot,22,217,56,True
+Jae Crowder,1,7,28,0,Jump Shot,26,-53,258,False
+Jae Crowder,1,10,36,0,Jump Shot,27,109,252,False
+Jae Crowder,4,9,19,0,Jump Shot,25,-210,148,False
+Jae Crowder,3,10,33,0,Jump Shot,24,-155,191,False
+Jae Crowder,3,1,5,0,Jump Shot,25,132,218,False
+Jae Crowder,2,8,6,0,Jump Shot,25,84,238,False
+Jae Crowder,1,3,24,1,Jump Shot,24,-90,232,False
+Jae Crowder,1,8,4,0,Jump Shot,24,-130,204,False
+Jae Crowder,1,11,50,1,Jump Shot,22,-227,-4,False
+Jae Crowder,3,5,6,0,Jump Shot,20,201,2,True
+Jae Crowder,3,5,18,1,Jump Shot,26,144,219,False
+Jae Crowder,1,5,6,0,Jump Shot,18,-121,146,True
+Jae Crowder,2,0,39,0,Jump Shot,23,230,-1,False
+Jae Crowder,1,7,20,0,Jump Shot,24,54,243,False
+Jae Crowder,3,11,44,0,Jump Shot,25,-65,245,False
+Jae Crowder,3,9,43,1,Jump Shot,19,52,187,True
+Jae Crowder,4,5,33,1,Jump Shot,25,-10,252,False
+Jae Crowder,2,3,17,1,Jump Shot,23,-231,7,False
+Jae Crowder,3,10,44,0,Jump Shot,18,-189,-4,True
+Jae Crowder,1,4,38,1,Jump Shot,23,-235,6,False
+Jae Crowder,1,4,48,1,Jump Shot,25,-131,221,False
+Jae Crowder,3,2,58,0,Jump Shot,28,-179,226,False
+Jae Crowder,2,1,30,0,Jump Shot,25,6,250,False
+Jae Crowder,3,9,29,1,Jump Shot,23,-225,50,False
+Jae Crowder,1,8,40,0,Jump Shot,24,-129,211,False
+Jae Crowder,1,8,33,0,Jump Shot,25,49,248,False
+Jae Crowder,3,9,33,0,Jump Shot,24,-82,232,False
+Jae Crowder,1,3,38,0,Jump Shot,23,230,-4,False
+Jae Crowder,4,5,47,0,Jump Shot,23,231,65,False
+Jae Crowder,4,5,9,0,Jump Shot,21,203,81,True
+Jae Crowder,4,0,25,0,Jump Shot,25,-176,183,False
+Jae Crowder,3,6,36,0,Jump Shot,23,232,17,False
+Jae Crowder,3,10,16,1,Jump Shot,25,-111,235,False
+Jae Crowder,3,11,20,1,Jump Shot,25,-157,202,False
+Jae Crowder,2,0,29,0,Jump Shot,25,105,227,False
+Jae Crowder,1,7,15,0,Jump Shot,25,-112,224,False
+Jae Crowder,2,1,31,1,Jump Shot,24,-211,124,False
+Jae Crowder,2,3,18,0,Jump Shot,25,67,243,False
+Jae Crowder,3,6,30,0,Jump Shot,19,-199,15,True
+Jae Crowder,1,3,12,0,Jump Shot,24,-145,203,False
+Jae Crowder,1,10,6,1,Jump Shot,26,81,253,False
+Jae Crowder,3,1,31,0,Jump Shot,24,-96,230,False
+Jae Crowder,3,9,29,0,Jump Shot,22,152,163,True
+Jae Crowder,2,5,37,0,Jump Shot,22,161,158,True
+Jae Crowder,1,10,15,1,Jump Shot,24,234,74,False
+Jae Crowder,1,9,1,1,Jump Shot,12,-18,121,True
+Jae Crowder,1,4,13,0,Jump Shot,26,79,257,False
+Jae Crowder,2,0,23,1,Jump Shot,23,-230,-18,False
+Jae Crowder,3,4,1,0,Jump Shot,6,3,65,True
+Jae Crowder,3,4,7,0,Jump Shot,25,228,104,False
+Jae Crowder,4,4,23,1,Jump Shot,19,-191,18,True
+Jae Crowder,3,8,51,1,Jump Shot,25,-110,235,False
+Jae Crowder,1,3,59,0,Jump Shot,14,143,7,True
+Jae Crowder,4,1,57,0,Jump Shot,21,217,8,True
+Jae Crowder,3,8,20,0,Jump Shot,26,-77,258,False
+Jae Crowder,4,11,13,0,Jump Shot,27,173,215,False
+Jae Crowder,1,4,23,0,Jump Shot,27,1,274,False
+Jae Crowder,2,0,43,0,Jump Shot,27,99,256,False
+Jae Crowder,1,9,36,1,Jump Shot,28,74,272,False
+Jae Crowder,3,6,41,0,Jump Shot,24,182,158,False
+Jae Crowder,2,0,25,1,Jump Shot,23,230,31,False
+Jae Crowder,2,3,14,1,Jump Shot,20,-201,20,True
+Jae Crowder,3,10,42,1,Jump Shot,23,236,37,False
+Jae Crowder,2,1,31,0,Jump Shot,25,-111,228,False
+Jae Crowder,1,8,20,0,Jump Shot,27,108,248,False
+Jae Crowder,3,6,11,0,Jump Shot,25,120,227,False
+Jae Crowder,3,8,28,0,Jump Shot,25,-146,210,False
+Jae Crowder,1,6,20,0,Jump Shot,23,-232,57,False
+Jae Crowder,4,10,1,0,Jump Shot,23,-226,51,False
+Jae Crowder,1,11,13,0,Jump Shot,24,-35,246,False
+Jae Crowder,1,2,50,0,Jump Shot,22,-225,6,False
+Jae Crowder,1,7,55,1,Jump Shot,25,81,241,False
+Jae Crowder,2,0,22,1,Jump Shot,25,218,137,False
+Jae Crowder,3,9,26,0,Jump Shot,25,10,251,False
+Jae Crowder,1,9,34,0,Jump Shot,26,109,237,False
+Jae Crowder,2,3,23,0,Jump Shot,23,120,197,True
+Jae Crowder,1,8,44,0,Jump Shot,22,-228,8,False
+Jae Crowder,4,5,28,1,Jump Shot,25,98,235,False
+Jae Crowder,4,7,47,0,Jump Shot,20,-204,3,True
+Jae Crowder,2,1,7,0,Jump Shot,25,40,247,False
+Jae Crowder,4,0,40,1,Jump Shot,24,90,233,False
+Jae Crowder,3,7,47,0,Jump Shot,20,207,5,True
+Jae Crowder,1,4,44,1,Jump Shot,22,-227,-1,False
+Jae Crowder,3,1,57,0,Jump Shot,25,-72,243,False
+Jae Crowder,2,11,43,0,Jump Shot,24,-138,206,False
+Jae Crowder,2,5,53,0,Jump Shot,22,-226,-13,False
+Jae Crowder,3,5,23,1,Jump Shot,18,-94,162,True
+Jae Crowder,4,11,28,1,Jump Shot,24,220,115,False
+Jae Crowder,2,0,50,0,Layup Shot,2,11,23,True
+Jae Crowder,1,8,56,1,Layup Shot,0,-1,0,True
+Jae Crowder,3,4,12,1,Layup Shot,1,-8,17,True
+Jae Crowder,1,8,49,0,Layup Shot,0,6,0,True
+Jae Crowder,1,7,3,0,Layup Shot,1,5,9,True
+Jae Crowder,2,1,9,0,Layup Shot,3,-11,29,True
+Jae Crowder,4,5,4,0,Layup Shot,2,-5,22,True
+Jae Crowder,4,0,39,1,Layup Shot,0,2,-1,True
+Jae Crowder,3,0,42,0,Layup Shot,0,2,4,True
+Jae Crowder,2,9,32,0,Layup Shot,1,14,6,True
+Jae Crowder,1,10,45,0,Layup Shot,3,-26,29,True
+Jae Crowder,2,1,29,1,Layup Shot,1,-2,14,True
+Jae Crowder,1,8,18,0,Layup Shot,1,5,10,True
+Jae Crowder,3,8,23,1,Layup Shot,1,-3,10,True
+Jae Crowder,2,1,7,0,Layup Shot,1,-3,13,True
+Jae Crowder,3,8,8,0,Layup Shot,1,11,15,True
+Jae Crowder,3,0,30,0,Layup Shot,1,-8,17,True
+Jae Crowder,1,10,35,1,Layup Shot,0,-2,8,True
+Jae Crowder,4,3,43,1,Layup Shot,2,14,16,True
+Jae Crowder,1,9,55,0,Layup Shot,4,-13,38,True
+Jae Crowder,2,2,12,0,Layup Shot,4,-36,31,True
+Jae Crowder,1,3,55,0,Layup Shot,3,9,29,True
+Jae Crowder,1,3,4,0,Layup Shot,6,47,39,True
+Jae Crowder,3,10,41,0,Layup Shot,2,5,21,True
+Jae Crowder,1,8,34,1,Layup Shot,1,-2,12,True
+Jae Crowder,4,7,6,1,Layup Shot,2,18,10,True
+Jae Crowder,4,3,11,1,Layup Shot,1,13,6,True
+Jae Crowder,1,0,6,1,Layup Shot,1,8,6,True
+Jae Crowder,2,2,18,0,Layup Shot,2,20,15,True
+Jae Crowder,4,5,22,1,Layup Shot,2,-25,11,True
+Jae Crowder,1,3,47,0,Layup Shot,0,9,4,True
+Jae Crowder,3,2,20,1,Layup Shot,1,0,11,True
+Jae Crowder,1,6,32,0,Layup Shot,4,34,31,True
+Jae Crowder,3,8,59,1,Layup Shot,1,-8,6,True
+Jae Crowder,1,4,4,1,Layup Shot,1,9,9,True
+Jae Crowder,2,4,41,1,Layup Shot,1,0,16,True
+Jae Crowder,2,3,17,1,Layup Shot,1,-11,13,True
+Jae Crowder,1,6,47,0,Layup Shot,1,16,11,True
+Jae Crowder,3,5,36,1,Layup Shot,1,19,4,True
+Jae Crowder,2,0,44,0,Layup Shot,2,-16,19,True
+Jae Crowder,3,5,54,0,Layup Shot,2,17,22,True
+Jae Crowder,2,10,23,1,Layup Shot,1,14,4,True
+Jae Crowder,3,7,54,1,Layup Shot,0,2,5,True
+Jae Crowder,1,8,5,1,Layup Shot,1,5,11,True
+Jae Crowder,3,10,18,0,Layup Shot,3,-29,13,True
+Jae Crowder,1,2,30,1,Layup Shot,1,3,14,True
+Jae Crowder,2,8,10,0,Pullup Jump shot,19,44,191,True
+Jae Crowder,3,1,31,1,Pullup Jump shot,15,7,156,True
+Jae Crowder,1,1,40,0,Pullup Jump shot,21,51,205,True
+Jae Crowder,2,1,40,0,Pullup Jump shot,25,19,253,False
+Jae Crowder,3,0,27,0,Pullup Jump shot,18,-138,117,True
+Jae Crowder,4,8,31,0,Pullup Jump shot,17,-41,170,True
+Jae Crowder,3,0,29,0,Pullup Jump shot,16,16,164,True
+Jae Crowder,1,4,27,0,Pullup Jump shot,25,62,249,False
+Jae Crowder,1,5,33,0,Pullup Jump shot,19,-155,121,True
+Jae Crowder,3,1,0,0,Pullup Jump shot,10,24,98,True
+Jae Crowder,1,5,22,0,Pullup Jump shot,26,-206,160,False
+Jae Crowder,2,3,11,0,Pullup Jump shot,19,-127,151,True
+Jae Crowder,1,0,56,1,Pullup Jump shot,15,40,146,True
+Jae Crowder,2,9,56,0,Pullup Jump shot,20,174,99,True
+Jae Crowder,3,6,54,0,Pullup Jump shot,19,-14,194,True
+Jae Crowder,3,8,1,0,Pullup Jump shot,23,231,46,False
+Jae Crowder,3,2,32,0,Pullup Jump shot,14,68,124,True
+Jae Crowder,2,1,34,1,Pullup Jump shot,24,-209,134,False
+Jae Crowder,3,2,1,0,Pullup Jump shot,17,82,153,True
+Jae Crowder,1,2,51,0,Pullup Jump shot,21,-111,180,True
+Jae Crowder,1,1,38,1,Pullup Jump shot,25,118,230,False
+Jae Crowder,4,10,34,1,Pullup Jump shot,14,-144,-2,True
+Jae Crowder,1,6,59,0,Pullup Jump shot,26,84,248,False
+Jae Crowder,1,5,16,1,Pullup Jump shot,15,29,155,True
+Jae Crowder,4,9,0,0,Pullup Jump shot,18,-182,-15,True
+Jae Crowder,3,7,9,1,Putback Layup Shot,0,0,-6,True
+Jae Crowder,3,5,44,1,Putback Layup Shot,0,-7,1,True
+Jae Crowder,4,5,30,1,Putback Layup Shot,0,4,8,True
+Jae Crowder,1,9,17,0,Putback Layup Shot,0,0,-6,True
+Jae Crowder,3,7,1,1,Putback Layup Shot,0,6,-5,True
+Jae Crowder,4,3,3,1,Putback Layup Shot,1,-8,12,True
+Jae Crowder,4,2,25,1,Reverse Layup Shot,0,7,-5,True
+Jae Crowder,2,3,40,1,Reverse Layup Shot,1,14,3,True
+Jae Crowder,2,5,39,0,Reverse Layup Shot,3,23,29,True
+Jae Crowder,3,10,6,1,Reverse Layup Shot,0,7,4,True
+Jae Crowder,3,8,25,0,Reverse Layup Shot,0,5,7,True
+Jae Crowder,3,1,54,1,Reverse Layup Shot,0,-5,8,True
+Jae Crowder,2,9,29,1,Reverse Layup Shot,1,17,10,True
+Jae Crowder,1,10,45,1,Reverse Layup Shot,1,3,13,True
+Jae Crowder,1,1,13,0,Reverse Layup Shot,1,-9,5,True
+Jae Crowder,1,3,52,0,Reverse Layup Shot,2,14,17,True
+Jae Crowder,4,1,58,1,Reverse Layup Shot,1,-9,7,True
+Jae Crowder,1,9,21,1,Reverse Layup Shot,0,1,-8,True
+Jae Crowder,1,4,1,0,Reverse Layup Shot,2,25,-3,True
+Jae Crowder,1,7,29,1,Reverse Layup Shot,2,-10,21,True
+Jae Crowder,3,8,20,1,Reverse Layup Shot,1,-1,18,True
+Jae Crowder,2,10,9,1,Running Finger Roll Layup Shot,1,6,13,True
+Jae Crowder,1,3,21,0,Running Jump Shot,24,-130,212,False
+Jae Crowder,4,7,43,0,Running Jump Shot,9,30,95,True
+Jae Crowder,3,6,30,0,Running Jump Shot,5,14,50,True
+Jae Crowder,1,8,45,1,Running Layup Shot,2,4,25,True
+Jae Crowder,2,10,36,1,Running Layup Shot,0,-2,8,True
+Jae Crowder,3,9,37,1,Running Layup Shot,1,5,19,True
+Jae Crowder,1,0,6,1,Running Layup Shot,1,18,1,True
+Jae Crowder,1,0,31,1,Running Layup Shot,1,0,13,True
+Jae Crowder,1,8,7,1,Running Layup Shot,2,12,22,True
+Jae Crowder,3,11,0,1,Running Layup Shot,1,-2,13,True
+Jae Crowder,3,7,3,0,Running Layup Shot,1,11,13,True
+Jae Crowder,2,7,19,1,Running Layup Shot,3,4,31,True
+Jae Crowder,3,2,18,0,Running Layup Shot,1,8,17,True
+Jae Crowder,2,1,16,1,Running Layup Shot,1,12,10,True
+Jae Crowder,2,6,27,0,Running Layup Shot,1,8,14,True
+Jae Crowder,4,3,28,0,Step Back Jump shot,14,-145,-1,True
+Jae Crowder,1,1,5,1,Step Back Jump shot,12,81,95,True
+Jae Crowder,1,0,39,0,Step Back Jump shot,25,-119,220,False
+Jae Crowder,1,8,13,0,Step Back Jump shot,19,163,100,True
+Jae Crowder,4,7,21,0,Step Back Jump shot,24,-222,93,False
+Jae Crowder,2,4,10,1,Step Back Jump shot,16,92,134,True
+Jae Crowder,2,6,46,1,Step Back Jump shot,20,38,201,True
+Jae Crowder,3,4,34,0,Step Back Jump shot,18,-128,131,True
+Jae Crowder,3,2,42,0,Step Back Jump shot,16,-160,46,True
+Jae Crowder,1,2,28,0,Step Back Jump shot,24,131,212,False
+Jae Crowder,1,1,17,0,Step Back Jump shot,24,96,225,False
+Jae Crowder,1,5,0,0,Step Back Jump shot,25,63,247,False
+Jae Crowder,2,2,27,0,Step Back Jump shot,19,72,183,True
+Jae Crowder,1,8,58,0,Step Back Jump shot,23,-230,23,False
+Jae Crowder,1,9,58,1,Step Back Jump shot,24,-225,93,False
+Jae Crowder,1,8,3,0,Step Back Jump shot,26,72,260,False
+Jae Crowder,4,4,18,0,Tip Layup Shot,2,-8,22,True
+Jae Crowder,1,9,25,1,Tip Layup Shot,0,0,-6,True
+Jae Crowder,4,10,46,0,Tip Layup Shot,1,10,10,True
+Jae Crowder,3,0,0,0,Tip Layup Shot,0,0,-6,True
+Jae Crowder,4,7,15,0,Tip Layup Shot,0,0,-6,True
+Jae Crowder,3,7,17,1,Tip Layup Shot,0,0,-6,True
+Jae Crowder,4,7,22,0,Tip Layup Shot,0,0,-6,True
+Jae Crowder,4,4,24,0,Turnaround Fadeaway Bank Jump Shot,3,-32,11,True
+Jae Crowder,1,0,42,0,Turnaround Fadeaway Bank Jump Shot,9,-85,50,True
+Jae Crowder,3,5,30,0,Turnaround Fadeaway shot,12,-98,71,True
+Jae Crowder,2,4,48,0,Turnaround Jump Shot,13,-125,38,True
+Jae Crowder,4,11,39,0,Turnaround Jump Shot,5,-53,17,True
+Jae Crowder,2,3,49,0,Turnaround Jump Shot,13,-133,16,True
+Jae Crowder,3,7,4,1,Turnaround Jump Shot,12,128,5,True

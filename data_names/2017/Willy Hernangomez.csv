@@ -1,0 +1,161 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Willy Hernangomez,4,0,12,1,Alley Oop Dunk Shot,1,3,13,True
+Willy Hernangomez,4,3,2,1,Alley Oop Dunk Shot,2,3,20,True
+Willy Hernangomez,4,2,49,1,Alley Oop Dunk Shot,0,0,3,True
+Willy Hernangomez,2,5,34,1,Cutting Dunk Shot,0,-5,-1,True
+Willy Hernangomez,2,8,51,1,Cutting Dunk Shot,2,-5,21,True
+Willy Hernangomez,4,10,23,1,Cutting Dunk Shot,1,-11,11,True
+Willy Hernangomez,4,2,23,1,Cutting Dunk Shot,0,-3,1,True
+Willy Hernangomez,4,11,43,1,Cutting Dunk Shot,0,-2,8,True
+Willy Hernangomez,2,7,9,1,Cutting Dunk Shot,2,-2,20,True
+Willy Hernangomez,2,3,7,1,Cutting Finger Roll Layup Shot,2,-13,25,True
+Willy Hernangomez,1,0,52,1,Cutting Finger Roll Layup Shot,2,-19,17,True
+Willy Hernangomez,2,1,1,0,Cutting Layup Shot,1,15,8,True
+Willy Hernangomez,4,9,16,1,Cutting Layup Shot,2,-3,28,True
+Willy Hernangomez,1,1,10,1,Cutting Layup Shot,3,3,32,True
+Willy Hernangomez,2,10,18,1,Cutting Layup Shot,3,9,29,True
+Willy Hernangomez,2,7,7,1,Cutting Layup Shot,0,-7,5,True
+Willy Hernangomez,4,1,10,1,Cutting Layup Shot,0,-2,7,True
+Willy Hernangomez,4,2,26,1,Cutting Layup Shot,0,-2,5,True
+Willy Hernangomez,4,8,23,1,Cutting Layup Shot,0,-2,8,True
+Willy Hernangomez,4,1,6,1,Driving Dunk Shot,0,2,6,True
+Willy Hernangomez,3,2,19,1,Driving Hook Shot,10,-17,100,True
+Willy Hernangomez,2,10,6,0,Driving Hook Shot,3,-35,10,True
+Willy Hernangomez,4,2,15,1,Driving Layup Shot,0,-8,1,True
+Willy Hernangomez,3,1,3,0,Driving Layup Shot,2,-16,13,True
+Willy Hernangomez,4,1,17,1,Driving Layup Shot,1,-3,11,True
+Willy Hernangomez,4,10,59,0,Driving Layup Shot,2,-11,23,True
+Willy Hernangomez,3,4,10,0,Driving Layup Shot,5,-9,58,True
+Willy Hernangomez,2,6,39,0,Driving Layup Shot,0,-3,9,True
+Willy Hernangomez,4,1,41,0,Driving Layup Shot,2,13,20,True
+Willy Hernangomez,2,11,12,1,Driving Layup Shot,1,8,-9,True
+Willy Hernangomez,4,0,37,1,Dunk Shot,1,5,10,True
+Willy Hernangomez,2,7,7,1,Dunk Shot,0,-2,6,True
+Willy Hernangomez,2,9,16,1,Dunk Shot,0,9,2,True
+Willy Hernangomez,4,5,40,1,Dunk Shot,2,-6,22,True
+Willy Hernangomez,4,0,15,1,Dunk Shot,1,-8,14,True
+Willy Hernangomez,3,1,25,1,Dunk Shot,1,-5,11,True
+Willy Hernangomez,4,5,41,1,Dunk Shot,1,0,10,True
+Willy Hernangomez,4,7,25,1,Dunk Shot,0,2,-6,True
+Willy Hernangomez,4,0,28,1,Dunk Shot,1,-3,15,True
+Willy Hernangomez,4,0,58,1,Dunk Shot,1,-8,8,True
+Willy Hernangomez,2,10,55,1,Fadeaway Jump Shot,10,-45,91,True
+Willy Hernangomez,2,10,3,1,Finger Roll Layup Shot,2,-2,22,True
+Willy Hernangomez,4,3,57,0,Floating Jump shot,7,-73,13,True
+Willy Hernangomez,4,0,58,0,Hook Shot,5,43,29,True
+Willy Hernangomez,2,4,40,1,Hook Shot,9,-98,8,True
+Willy Hernangomez,4,8,59,1,Hook Shot,6,0,64,True
+Willy Hernangomez,4,0,21,1,Hook Shot,8,-45,71,True
+Willy Hernangomez,3,8,27,1,Hook Shot,7,-69,15,True
+Willy Hernangomez,4,3,36,1,Hook Shot,6,-61,25,True
+Willy Hernangomez,3,2,45,0,Hook Shot,6,57,33,True
+Willy Hernangomez,4,1,5,0,Hook Shot,7,67,25,True
+Willy Hernangomez,2,11,43,0,Hook Shot,6,55,29,True
+Willy Hernangomez,3,1,44,1,Jump Bank Shot,5,-49,32,True
+Willy Hernangomez,2,10,22,0,Jump Shot,2,2,26,True
+Willy Hernangomez,4,8,21,0,Jump Shot,20,2,200,True
+Willy Hernangomez,4,9,22,1,Jump Shot,24,50,242,False
+Willy Hernangomez,4,7,31,1,Jump Shot,23,-231,-4,False
+Willy Hernangomez,4,0,42,0,Jump Shot,23,228,45,False
+Willy Hernangomez,3,9,25,0,Jump Shot,25,-136,215,False
+Willy Hernangomez,2,1,39,1,Jump Shot,6,5,68,True
+Willy Hernangomez,1,10,44,0,Jump Shot,4,27,33,True
+Willy Hernangomez,4,9,24,0,Jump Shot,4,46,19,True
+Willy Hernangomez,2,11,15,0,Jump Shot,26,48,264,False
+Willy Hernangomez,2,0,1,1,Jump Shot,23,-229,50,False
+Willy Hernangomez,4,7,33,1,Jump Shot,25,-196,164,False
+Willy Hernangomez,4,11,43,0,Jump Shot,2,-27,6,True
+Willy Hernangomez,1,0,32,0,Jump Shot,16,-125,112,True
+Willy Hernangomez,4,2,20,0,Jump Shot,9,25,93,True
+Willy Hernangomez,4,4,8,0,Jump Shot,25,84,236,False
+Willy Hernangomez,4,10,35,0,Jump Shot,16,-82,143,True
+Willy Hernangomez,3,6,50,0,Jump Shot,14,33,144,True
+Willy Hernangomez,4,0,24,0,Jump Shot,27,-63,264,False
+Willy Hernangomez,3,0,8,0,Jump Shot,17,-74,159,True
+Willy Hernangomez,3,3,29,0,Jump Shot,26,158,215,False
+Willy Hernangomez,2,2,51,1,Jump Shot,19,128,145,True
+Willy Hernangomez,2,3,35,0,Jump Shot,9,2,96,True
+Willy Hernangomez,2,3,13,0,Jump Shot,2,-10,27,True
+Willy Hernangomez,4,2,59,1,Jump Shot,25,-128,219,False
+Willy Hernangomez,4,6,33,0,Jump Shot,24,13,241,False
+Willy Hernangomez,4,4,20,0,Jump Shot,8,27,85,True
+Willy Hernangomez,4,4,39,0,Jump Shot,19,-193,9,True
+Willy Hernangomez,4,10,29,1,Jump Shot,7,68,26,True
+Willy Hernangomez,4,2,26,0,Jump Shot,19,162,116,True
+Willy Hernangomez,2,9,43,0,Layup Shot,2,-4,22,True
+Willy Hernangomez,2,6,10,0,Layup Shot,2,-16,15,True
+Willy Hernangomez,4,3,0,0,Layup Shot,2,-4,27,True
+Willy Hernangomez,4,5,14,1,Layup Shot,1,-11,8,True
+Willy Hernangomez,1,8,20,0,Layup Shot,2,-19,17,True
+Willy Hernangomez,4,1,23,1,Layup Shot,1,14,11,True
+Willy Hernangomez,4,8,57,0,Layup Shot,2,-8,21,True
+Willy Hernangomez,4,3,50,1,Layup Shot,7,-11,76,True
+Willy Hernangomez,1,1,8,1,Layup Shot,4,-39,28,True
+Willy Hernangomez,1,0,18,1,Layup Shot,2,-6,25,True
+Willy Hernangomez,4,6,36,1,Layup Shot,2,6,26,True
+Willy Hernangomez,2,2,36,0,Layup Shot,1,-14,14,True
+Willy Hernangomez,4,1,37,1,Layup Shot,1,-7,15,True
+Willy Hernangomez,1,0,16,1,Layup Shot,3,-22,28,True
+Willy Hernangomez,4,2,41,1,Layup Shot,1,-9,13,True
+Willy Hernangomez,2,10,44,1,Layup Shot,2,-17,21,True
+Willy Hernangomez,4,0,10,0,Layup Shot,4,23,40,True
+Willy Hernangomez,4,10,37,0,Layup Shot,1,-11,7,True
+Willy Hernangomez,4,10,22,1,Layup Shot,9,73,53,True
+Willy Hernangomez,1,11,39,0,Layup Shot,3,-23,32,True
+Willy Hernangomez,4,4,36,0,Layup Shot,2,14,16,True
+Willy Hernangomez,2,10,35,1,Layup Shot,2,0,22,True
+Willy Hernangomez,2,9,59,0,Layup Shot,5,30,48,True
+Willy Hernangomez,1,7,29,1,Layup Shot,2,-16,18,True
+Willy Hernangomez,1,6,46,0,Layup Shot,5,10,55,True
+Willy Hernangomez,3,2,33,1,Layup Shot,2,-6,21,True
+Willy Hernangomez,3,0,5,0,Layup Shot,6,-4,64,True
+Willy Hernangomez,4,1,21,0,Layup Shot,1,2,17,True
+Willy Hernangomez,3,4,50,1,Layup Shot,0,-7,2,True
+Willy Hernangomez,4,4,32,1,Layup Shot,1,-9,14,True
+Willy Hernangomez,1,0,48,1,Layup Shot,1,5,17,True
+Willy Hernangomez,4,6,39,0,Layup Shot,1,-4,19,True
+Willy Hernangomez,4,9,26,1,Layup Shot,1,15,12,True
+Willy Hernangomez,4,9,27,1,Layup Shot,1,-15,10,True
+Willy Hernangomez,4,5,17,0,Layup Shot,0,0,8,True
+Willy Hernangomez,2,10,17,1,Putback Layup Shot,2,0,21,True
+Willy Hernangomez,4,0,47,0,Putback Layup Shot,0,0,-6,True
+Willy Hernangomez,2,10,2,0,Putback Layup Shot,2,-25,1,True
+Willy Hernangomez,3,1,50,1,Putback Layup Shot,0,0,-6,True
+Willy Hernangomez,4,4,17,1,Putback Layup Shot,1,-2,19,True
+Willy Hernangomez,4,6,56,0,Putback Layup Shot,1,6,13,True
+Willy Hernangomez,4,7,19,1,Putback Layup Shot,0,0,9,True
+Willy Hernangomez,1,1,28,0,Reverse Layup Shot,3,-25,28,True
+Willy Hernangomez,2,1,9,1,Reverse Layup Shot,1,-8,6,True
+Willy Hernangomez,1,2,13,1,Tip Layup Shot,0,0,-6,True
+Willy Hernangomez,3,11,3,1,Tip Layup Shot,0,0,-6,True
+Willy Hernangomez,2,0,59,1,Tip Layup Shot,0,0,-6,True
+Willy Hernangomez,3,8,17,1,Tip Layup Shot,0,0,-6,True
+Willy Hernangomez,2,5,46,1,Tip Layup Shot,0,0,-6,True
+Willy Hernangomez,1,1,35,1,Tip Layup Shot,0,0,-6,True
+Willy Hernangomez,1,5,1,0,Tip Layup Shot,2,-8,25,True
+Willy Hernangomez,1,4,57,1,Tip Layup Shot,0,0,-6,True
+Willy Hernangomez,2,5,43,1,Tip Layup Shot,0,0,-6,True
+Willy Hernangomez,2,5,55,0,Tip Layup Shot,0,0,-6,True
+Willy Hernangomez,1,2,6,0,Tip Layup Shot,0,0,-6,True
+Willy Hernangomez,4,7,20,0,Tip Layup Shot,1,-2,10,True
+Willy Hernangomez,4,11,6,0,Tip Layup Shot,0,0,-6,True
+Willy Hernangomez,2,4,38,0,Tip Layup Shot,0,0,-6,True
+Willy Hernangomez,2,7,11,0,Tip Layup Shot,0,0,-6,True
+Willy Hernangomez,4,11,5,0,Tip Layup Shot,0,0,-6,True
+Willy Hernangomez,1,0,46,0,Tip Layup Shot,0,0,-6,True
+Willy Hernangomez,4,3,22,0,Tip Layup Shot,2,-19,8,True
+Willy Hernangomez,1,1,27,1,Turnaround Fadeaway Bank Jump Shot,14,128,63,True
+Willy Hernangomez,4,9,53,0,Turnaround Fadeaway shot,10,-5,101,True
+Willy Hernangomez,4,6,25,0,Turnaround Fadeaway shot,5,7,52,True
+Willy Hernangomez,2,6,27,0,Turnaround Fadeaway shot,18,185,34,True
+Willy Hernangomez,2,11,43,0,Turnaround Hook Shot,7,-54,59,True
+Willy Hernangomez,4,8,54,0,Turnaround Hook Shot,4,-42,24,True
+Willy Hernangomez,2,5,59,1,Turnaround Hook Shot,3,-33,22,True
+Willy Hernangomez,3,0,49,1,Turnaround Hook Shot,1,2,18,True
+Willy Hernangomez,2,6,9,1,Turnaround Hook Shot,7,-70,21,True
+Willy Hernangomez,1,1,32,1,Turnaround Hook Shot,9,-6,99,True
+Willy Hernangomez,2,8,22,1,Turnaround Hook Shot,3,-30,26,True
+Willy Hernangomez,2,10,30,0,Turnaround Jump Shot,6,11,69,True
+Willy Hernangomez,1,2,22,0,Turnaround Jump Shot,11,24,115,True
+Willy Hernangomez,4,6,38,0,Turnaround Jump Shot,9,81,42,True
+Willy Hernangomez,4,8,41,0,Turnaround Jump Shot,13,-127,48,True

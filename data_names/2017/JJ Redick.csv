@@ -1,0 +1,772 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+JJ Redick,3,9,34,1,Alley Oop Layup shot,1,8,13,True
+JJ Redick,2,9,25,1,Cutting Finger Roll Layup Shot,2,18,20,True
+JJ Redick,2,8,37,1,Cutting Layup Shot,2,14,23,True
+JJ Redick,1,3,16,1,Cutting Layup Shot,2,18,10,True
+JJ Redick,1,3,44,1,Cutting Layup Shot,2,18,19,True
+JJ Redick,1,2,9,1,Cutting Layup Shot,3,27,20,True
+JJ Redick,3,11,17,1,Cutting Layup Shot,6,62,14,True
+JJ Redick,3,1,45,1,Cutting Layup Shot,2,4,28,True
+JJ Redick,2,3,54,1,Cutting Layup Shot,1,5,10,True
+JJ Redick,4,6,57,1,Cutting Layup Shot,1,13,12,True
+JJ Redick,4,2,31,0,Cutting Layup Shot,1,0,17,True
+JJ Redick,1,8,11,0,Cutting Layup Shot,3,-2,32,True
+JJ Redick,2,1,26,1,Cutting Layup Shot,1,11,16,True
+JJ Redick,2,6,57,1,Cutting Layup Shot,2,21,20,True
+JJ Redick,2,9,53,0,Cutting Layup Shot,4,40,7,True
+JJ Redick,2,10,12,0,Cutting Layup Shot,1,3,15,True
+JJ Redick,3,4,46,1,Cutting Layup Shot,2,-11,21,True
+JJ Redick,2,5,38,1,Driving Finger Roll Layup Shot,3,5,34,True
+JJ Redick,4,9,54,0,Driving Finger Roll Layup Shot,1,11,4,True
+JJ Redick,3,7,23,1,Driving Finger Roll Layup Shot,6,4,67,True
+JJ Redick,2,1,34,0,Driving Finger Roll Layup Shot,0,-2,0,True
+JJ Redick,4,1,34,1,Driving Finger Roll Layup Shot,4,18,37,True
+JJ Redick,3,9,50,1,Driving Finger Roll Layup Shot,1,3,13,True
+JJ Redick,2,8,51,1,Driving Finger Roll Layup Shot,3,10,31,True
+JJ Redick,4,7,9,1,Driving Finger Roll Layup Shot,1,-19,6,True
+JJ Redick,3,9,20,0,Driving Floating Jump Shot,10,17,106,True
+JJ Redick,1,11,38,1,Driving Floating Jump Shot,7,-27,67,True
+JJ Redick,3,3,6,0,Driving Floating Jump Shot,6,-4,66,True
+JJ Redick,4,4,29,1,Driving Floating Jump Shot,13,47,125,True
+JJ Redick,1,6,45,0,Driving Floating Jump Shot,8,-70,51,True
+JJ Redick,4,8,46,0,Driving Floating Jump Shot,5,-54,10,True
+JJ Redick,2,10,9,1,Driving Floating Jump Shot,5,49,27,True
+JJ Redick,2,1,28,0,Driving Floating Jump Shot,0,3,9,True
+JJ Redick,1,3,58,0,Driving Floating Jump Shot,18,30,181,True
+JJ Redick,4,11,38,0,Driving Layup Shot,1,10,-9,True
+JJ Redick,1,1,45,1,Driving Layup Shot,2,18,21,True
+JJ Redick,1,9,5,1,Driving Layup Shot,1,2,15,True
+JJ Redick,3,9,55,1,Driving Layup Shot,2,24,11,True
+JJ Redick,1,0,52,1,Driving Layup Shot,5,9,50,True
+JJ Redick,2,10,56,1,Driving Layup Shot,3,22,25,True
+JJ Redick,4,0,0,1,Driving Layup Shot,0,-5,6,True
+JJ Redick,3,8,48,0,Driving Layup Shot,4,3,43,True
+JJ Redick,3,9,17,0,Driving Layup Shot,3,30,22,True
+JJ Redick,4,8,57,0,Driving Layup Shot,1,-8,10,True
+JJ Redick,1,7,29,0,Driving Layup Shot,1,-4,14,True
+JJ Redick,1,7,58,1,Driving Layup Shot,0,1,9,True
+JJ Redick,2,6,33,0,Driving Layup Shot,0,-2,8,True
+JJ Redick,2,8,56,0,Driving Layup Shot,3,9,35,True
+JJ Redick,1,0,52,0,Driving Layup Shot,8,-61,55,True
+JJ Redick,2,6,37,0,Driving Layup Shot,2,25,8,True
+JJ Redick,4,4,39,1,Driving Layup Shot,1,14,7,True
+JJ Redick,4,1,35,0,Driving Layup Shot,4,-23,39,True
+JJ Redick,3,8,21,0,Driving Layup Shot,4,-43,6,True
+JJ Redick,2,2,53,0,Driving Layup Shot,1,10,10,True
+JJ Redick,3,0,58,0,Driving Layup Shot,1,-13,9,True
+JJ Redick,2,9,20,1,Driving Reverse Layup Shot,3,-32,4,True
+JJ Redick,1,8,35,1,Driving Reverse Layup Shot,0,-8,4,True
+JJ Redick,2,11,18,1,Driving Reverse Layup Shot,2,-21,14,True
+JJ Redick,3,7,45,1,Driving Reverse Layup Shot,1,13,15,True
+JJ Redick,4,2,5,0,Driving Reverse Layup Shot,2,-21,11,True
+JJ Redick,1,7,12,0,Fadeaway Jump Shot,11,-116,19,True
+JJ Redick,4,0,20,1,Fadeaway Jump Shot,19,-190,33,True
+JJ Redick,2,5,50,1,Fadeaway Jump Shot,24,239,64,False
+JJ Redick,4,6,41,0,Fadeaway Jump Shot,12,13,122,True
+JJ Redick,3,10,34,1,Fadeaway Jump Shot,4,19,42,True
+JJ Redick,2,3,54,1,Fadeaway Jump Shot,18,4,183,True
+JJ Redick,3,10,50,0,Fadeaway Jump Shot,17,174,-15,True
+JJ Redick,4,11,2,1,Fadeaway Jump Shot,16,166,4,True
+JJ Redick,4,7,47,1,Fadeaway Jump Shot,13,-4,135,True
+JJ Redick,1,6,16,0,Fadeaway Jump Shot,9,-58,78,True
+JJ Redick,3,3,2,1,Floating Jump shot,12,-50,113,True
+JJ Redick,4,9,4,0,Floating Jump shot,11,106,35,True
+JJ Redick,2,11,6,0,Jump Bank Shot,7,48,58,True
+JJ Redick,1,7,41,1,Jump Shot,17,-116,130,True
+JJ Redick,4,8,5,1,Jump Shot,26,-196,176,False
+JJ Redick,4,9,24,1,Jump Shot,26,-126,230,False
+JJ Redick,3,10,28,1,Jump Shot,26,-170,200,False
+JJ Redick,3,11,31,1,Jump Shot,26,-25,260,False
+JJ Redick,1,1,49,0,Jump Shot,26,22,266,False
+JJ Redick,2,2,12,0,Jump Shot,23,-231,-15,False
+JJ Redick,3,10,13,1,Jump Shot,25,-204,146,False
+JJ Redick,1,7,53,0,Jump Shot,23,9,230,True
+JJ Redick,3,7,50,0,Jump Shot,25,146,209,False
+JJ Redick,2,0,50,1,Jump Shot,14,-90,117,True
+JJ Redick,1,2,7,0,Jump Shot,21,117,176,True
+JJ Redick,3,8,29,0,Jump Shot,23,230,29,False
+JJ Redick,2,0,24,0,Jump Shot,26,145,221,False
+JJ Redick,1,7,45,1,Jump Shot,25,141,211,False
+JJ Redick,1,7,48,0,Jump Shot,17,168,33,True
+JJ Redick,2,0,35,1,Jump Shot,18,-182,49,True
+JJ Redick,1,0,0,0,Jump Shot,25,200,159,False
+JJ Redick,1,9,33,0,Jump Shot,25,-127,220,False
+JJ Redick,3,7,56,1,Jump Shot,26,107,246,False
+JJ Redick,2,0,1,1,Jump Shot,26,128,237,False
+JJ Redick,1,1,14,1,Jump Shot,16,160,-23,True
+JJ Redick,3,10,37,0,Jump Shot,25,102,229,False
+JJ Redick,1,9,51,1,Jump Shot,26,121,234,False
+JJ Redick,3,11,5,1,Jump Shot,24,-242,-5,False
+JJ Redick,2,10,6,0,Jump Shot,25,169,192,False
+JJ Redick,4,10,3,0,Jump Shot,27,-98,253,False
+JJ Redick,1,9,33,0,Jump Shot,11,3,110,True
+JJ Redick,4,6,42,0,Jump Shot,23,-235,-10,False
+JJ Redick,3,9,36,1,Jump Shot,27,-52,274,False
+JJ Redick,2,2,35,0,Jump Shot,24,-226,106,False
+JJ Redick,1,1,17,0,Jump Shot,25,62,245,False
+JJ Redick,2,11,45,1,Jump Shot,26,101,241,False
+JJ Redick,4,2,13,0,Jump Shot,25,209,152,False
+JJ Redick,2,0,2,1,Jump Shot,26,-119,237,False
+JJ Redick,1,7,37,0,Jump Shot,25,178,189,False
+JJ Redick,3,11,1,0,Jump Shot,25,182,174,False
+JJ Redick,3,11,51,1,Jump Shot,25,70,247,False
+JJ Redick,2,2,22,1,Jump Shot,14,-137,41,True
+JJ Redick,4,4,47,1,Jump Shot,24,-179,171,False
+JJ Redick,1,1,1,0,Jump Shot,24,-128,210,False
+JJ Redick,3,9,51,0,Jump Shot,12,-128,9,True
+JJ Redick,1,7,54,1,Jump Shot,25,6,256,False
+JJ Redick,4,9,44,1,Jump Shot,24,-27,243,False
+JJ Redick,2,10,10,0,Jump Shot,20,-123,168,True
+JJ Redick,1,0,32,1,Jump Shot,20,-117,166,True
+JJ Redick,4,9,58,0,Jump Shot,26,10,267,False
+JJ Redick,2,3,29,1,Jump Shot,27,165,216,False
+JJ Redick,3,10,29,1,Jump Shot,30,-165,253,False
+JJ Redick,1,9,27,0,Jump Shot,25,18,256,False
+JJ Redick,4,4,31,0,Jump Shot,27,-150,230,False
+JJ Redick,1,10,53,0,Jump Shot,21,9,215,True
+JJ Redick,1,0,5,1,Jump Shot,22,-11,222,True
+JJ Redick,1,11,45,0,Jump Shot,23,232,-2,False
+JJ Redick,4,5,19,0,Jump Shot,27,-125,249,False
+JJ Redick,4,1,34,1,Jump Shot,26,205,165,False
+JJ Redick,1,0,46,1,Jump Shot,26,224,140,False
+JJ Redick,1,7,31,0,Jump Shot,20,193,77,True
+JJ Redick,1,11,10,0,Jump Shot,25,-54,250,False
+JJ Redick,3,8,47,0,Jump Shot,27,204,188,False
+JJ Redick,2,1,20,1,Jump Shot,26,207,173,False
+JJ Redick,4,10,20,0,Jump Shot,25,163,195,False
+JJ Redick,3,0,54,0,Jump Shot,25,-148,207,False
+JJ Redick,4,3,59,1,Jump Shot,14,146,-6,True
+JJ Redick,1,7,14,1,Jump Shot,25,234,99,False
+JJ Redick,2,10,43,0,Jump Shot,24,-35,246,False
+JJ Redick,4,0,22,0,Jump Shot,26,24,264,False
+JJ Redick,3,8,7,0,Jump Shot,23,101,209,True
+JJ Redick,3,1,4,1,Jump Shot,24,212,132,False
+JJ Redick,4,10,26,0,Jump Shot,27,-168,220,False
+JJ Redick,1,9,32,1,Jump Shot,25,185,177,False
+JJ Redick,1,8,9,1,Jump Shot,24,210,135,False
+JJ Redick,1,8,15,0,Jump Shot,25,-81,242,False
+JJ Redick,3,11,29,1,Jump Shot,19,-57,184,True
+JJ Redick,1,2,7,1,Jump Shot,20,166,117,True
+JJ Redick,4,3,12,1,Jump Shot,25,211,148,False
+JJ Redick,2,0,15,1,Jump Shot,19,-58,188,True
+JJ Redick,3,0,35,0,Jump Shot,25,-220,132,False
+JJ Redick,2,1,14,0,Jump Shot,25,236,86,False
+JJ Redick,2,4,30,1,Jump Shot,23,-230,48,False
+JJ Redick,1,9,41,1,Jump Shot,24,-127,211,False
+JJ Redick,2,3,44,0,Jump Shot,29,185,229,False
+JJ Redick,2,9,57,0,Jump Shot,19,165,109,True
+JJ Redick,1,11,6,0,Jump Shot,12,-120,37,True
+JJ Redick,3,7,25,0,Jump Shot,25,-180,186,False
+JJ Redick,1,2,36,1,Jump Shot,22,-225,35,False
+JJ Redick,2,2,23,1,Jump Shot,17,-158,64,True
+JJ Redick,3,9,31,0,Jump Shot,11,-49,104,True
+JJ Redick,1,3,5,0,Jump Shot,18,8,184,True
+JJ Redick,3,10,21,1,Jump Shot,25,-207,148,False
+JJ Redick,4,9,3,0,Jump Shot,26,67,257,False
+JJ Redick,4,10,27,1,Jump Shot,26,113,244,False
+JJ Redick,2,1,54,1,Jump Shot,22,36,227,True
+JJ Redick,3,8,51,1,Jump Shot,25,2,252,False
+JJ Redick,3,10,0,1,Jump Shot,19,147,125,True
+JJ Redick,4,9,15,0,Jump Shot,21,-59,206,True
+JJ Redick,1,9,22,1,Jump Shot,23,-231,-6,False
+JJ Redick,4,7,9,0,Jump Shot,18,79,165,True
+JJ Redick,2,0,22,1,Jump Shot,27,-60,268,False
+JJ Redick,1,8,0,0,Jump Shot,25,160,194,False
+JJ Redick,1,10,9,0,Jump Shot,24,229,85,False
+JJ Redick,2,2,0,0,Jump Shot,23,-232,-6,False
+JJ Redick,2,7,39,0,Jump Shot,26,134,225,False
+JJ Redick,2,3,3,0,Jump Shot,24,235,72,False
+JJ Redick,2,7,14,0,Jump Shot,24,188,161,False
+JJ Redick,2,11,43,0,Jump Shot,22,-220,41,False
+JJ Redick,4,5,32,1,Jump Shot,25,125,222,False
+JJ Redick,4,11,38,1,Jump Shot,22,-115,191,True
+JJ Redick,3,11,48,0,Jump Shot,20,-114,176,True
+JJ Redick,2,10,22,0,Jump Shot,25,51,247,False
+JJ Redick,4,11,11,1,Jump Shot,26,-161,206,False
+JJ Redick,4,2,43,1,Jump Shot,28,-53,278,False
+JJ Redick,3,10,47,1,Jump Shot,24,-187,162,False
+JJ Redick,4,3,35,1,Jump Shot,25,159,203,False
+JJ Redick,2,0,43,1,Jump Shot,25,-209,143,False
+JJ Redick,2,9,18,0,Jump Shot,25,-66,249,False
+JJ Redick,2,10,21,1,Jump Shot,26,196,179,False
+JJ Redick,4,10,33,0,Jump Shot,24,-113,219,False
+JJ Redick,2,10,42,0,Jump Shot,25,-43,256,False
+JJ Redick,4,10,29,1,Jump Shot,25,-96,239,False
+JJ Redick,3,11,22,0,Jump Shot,27,-127,241,False
+JJ Redick,2,1,58,0,Jump Shot,24,-230,92,False
+JJ Redick,1,8,27,0,Jump Shot,25,163,199,False
+JJ Redick,1,11,39,0,Jump Shot,21,-195,95,True
+JJ Redick,2,0,31,1,Jump Shot,27,-143,234,False
+JJ Redick,1,10,41,0,Jump Shot,17,176,30,True
+JJ Redick,2,10,11,0,Jump Shot,25,32,256,False
+JJ Redick,4,5,53,1,Jump Shot,24,172,176,False
+JJ Redick,4,9,13,0,Jump Shot,21,147,153,True
+JJ Redick,3,2,47,1,Jump Shot,24,82,235,False
+JJ Redick,4,4,48,0,Jump Shot,23,-226,43,False
+JJ Redick,4,9,35,0,Jump Shot,24,97,223,False
+JJ Redick,4,5,9,1,Jump Shot,22,-130,186,True
+JJ Redick,2,11,49,0,Jump Shot,25,175,187,False
+JJ Redick,2,10,56,1,Jump Shot,22,-146,167,True
+JJ Redick,2,2,19,0,Jump Shot,25,-119,225,False
+JJ Redick,2,3,6,1,Jump Shot,24,230,80,False
+JJ Redick,3,0,17,0,Jump Shot,20,30,202,True
+JJ Redick,3,9,46,0,Jump Shot,25,-187,179,False
+JJ Redick,3,8,57,0,Jump Shot,27,202,182,False
+JJ Redick,4,10,30,1,Jump Shot,21,145,153,True
+JJ Redick,1,7,30,1,Jump Shot,25,-93,242,False
+JJ Redick,4,4,6,1,Jump Shot,22,171,143,True
+JJ Redick,3,7,55,0,Jump Shot,10,-109,9,True
+JJ Redick,3,0,5,1,Jump Shot,22,-134,176,True
+JJ Redick,3,8,50,1,Jump Shot,31,29,310,False
+JJ Redick,1,2,20,0,Jump Shot,26,-99,241,False
+JJ Redick,3,9,44,0,Jump Shot,27,183,200,False
+JJ Redick,3,6,40,1,Jump Shot,26,150,214,False
+JJ Redick,4,10,10,1,Jump Shot,26,221,140,False
+JJ Redick,1,9,35,0,Jump Shot,25,62,247,False
+JJ Redick,2,0,57,0,Jump Shot,25,120,228,False
+JJ Redick,4,1,3,0,Jump Shot,27,122,245,False
+JJ Redick,2,10,44,1,Jump Shot,19,-56,186,True
+JJ Redick,4,9,38,1,Jump Shot,21,-14,215,True
+JJ Redick,3,8,27,1,Jump Shot,25,-70,242,False
+JJ Redick,2,11,12,0,Jump Shot,28,95,264,False
+JJ Redick,3,7,41,1,Jump Shot,23,232,37,False
+JJ Redick,3,11,5,0,Jump Shot,19,-5,190,True
+JJ Redick,3,6,31,0,Jump Shot,25,-20,256,False
+JJ Redick,1,9,49,0,Jump Shot,17,2,171,True
+JJ Redick,1,10,22,0,Jump Shot,26,155,209,False
+JJ Redick,3,5,15,1,Jump Shot,19,-109,158,True
+JJ Redick,2,10,8,0,Jump Shot,22,-226,-8,False
+JJ Redick,1,8,23,0,Jump Shot,23,233,32,False
+JJ Redick,2,9,49,0,Jump Shot,26,0,262,False
+JJ Redick,4,3,28,0,Jump Shot,25,120,221,False
+JJ Redick,4,9,56,0,Jump Shot,26,100,247,False
+JJ Redick,2,0,27,0,Jump Shot,25,167,199,False
+JJ Redick,4,4,49,1,Jump Shot,25,133,216,False
+JJ Redick,3,0,1,0,Jump Shot,25,65,245,False
+JJ Redick,2,9,59,0,Jump Shot,25,140,214,False
+JJ Redick,2,0,2,1,Jump Shot,22,189,115,True
+JJ Redick,4,7,17,1,Jump Shot,23,-234,-20,False
+JJ Redick,4,8,38,0,Jump Shot,23,-8,230,True
+JJ Redick,1,0,47,0,Jump Shot,24,207,140,False
+JJ Redick,3,3,29,1,Jump Shot,25,-187,174,False
+JJ Redick,4,5,21,0,Jump Shot,21,-1,215,True
+JJ Redick,4,1,20,1,Jump Shot,27,-209,171,False
+JJ Redick,4,10,23,0,Jump Shot,20,-22,205,True
+JJ Redick,2,4,17,0,Jump Shot,25,-218,138,False
+JJ Redick,2,2,43,0,Jump Shot,17,-177,7,True
+JJ Redick,1,0,0,0,Jump Shot,19,30,193,True
+JJ Redick,2,2,12,1,Jump Shot,24,234,70,False
+JJ Redick,3,9,49,1,Jump Shot,27,160,218,False
+JJ Redick,2,1,46,0,Jump Shot,18,-33,179,True
+JJ Redick,1,6,16,0,Jump Shot,24,212,130,False
+JJ Redick,3,10,47,1,Jump Shot,22,-228,17,False
+JJ Redick,3,0,36,0,Jump Shot,25,-171,191,False
+JJ Redick,3,1,11,0,Jump Shot,26,165,206,False
+JJ Redick,4,9,32,0,Jump Shot,28,160,232,False
+JJ Redick,3,8,3,0,Jump Shot,22,22,221,True
+JJ Redick,4,5,9,0,Jump Shot,24,237,64,False
+JJ Redick,4,10,52,0,Jump Shot,26,149,218,False
+JJ Redick,1,7,58,0,Jump Shot,25,92,243,False
+JJ Redick,1,7,2,1,Jump Shot,19,2,194,True
+JJ Redick,4,3,41,1,Jump Shot,20,-196,51,True
+JJ Redick,1,1,20,0,Jump Shot,16,-11,160,True
+JJ Redick,3,8,47,0,Jump Shot,26,-19,262,False
+JJ Redick,1,8,13,1,Jump Shot,25,220,135,False
+JJ Redick,3,1,44,0,Jump Shot,22,-158,163,True
+JJ Redick,2,2,36,0,Jump Shot,14,-82,125,True
+JJ Redick,3,10,5,1,Jump Shot,26,-44,257,False
+JJ Redick,4,1,37,1,Jump Shot,21,-85,195,True
+JJ Redick,1,9,46,0,Jump Shot,15,127,83,True
+JJ Redick,1,10,40,0,Jump Shot,20,-66,194,True
+JJ Redick,3,0,48,1,Jump Shot,28,87,272,False
+JJ Redick,3,10,0,1,Jump Shot,21,-97,197,True
+JJ Redick,3,7,21,1,Jump Shot,27,9,277,False
+JJ Redick,1,10,38,1,Jump Shot,19,116,162,True
+JJ Redick,4,6,50,0,Jump Shot,19,-197,-11,True
+JJ Redick,3,4,51,0,Jump Shot,15,74,134,True
+JJ Redick,4,9,56,1,Jump Shot,21,91,196,True
+JJ Redick,2,1,35,1,Jump Shot,7,5,72,True
+JJ Redick,4,6,57,0,Jump Shot,18,123,141,True
+JJ Redick,1,8,36,0,Jump Shot,26,175,203,False
+JJ Redick,1,2,47,1,Jump Shot,10,-2,109,True
+JJ Redick,2,4,25,1,Jump Shot,21,145,162,True
+JJ Redick,4,11,46,0,Jump Shot,21,-5,215,True
+JJ Redick,1,2,20,1,Jump Shot,17,-85,151,True
+JJ Redick,1,1,40,1,Jump Shot,26,145,220,False
+JJ Redick,3,4,17,0,Jump Shot,25,123,223,False
+JJ Redick,3,8,10,0,Jump Shot,13,11,134,True
+JJ Redick,4,0,27,1,Jump Shot,22,227,-18,False
+JJ Redick,4,3,50,0,Jump Shot,26,184,195,False
+JJ Redick,1,11,44,0,Jump Shot,25,169,190,False
+JJ Redick,2,3,14,0,Jump Shot,26,-147,216,False
+JJ Redick,1,1,53,0,Jump Shot,26,112,237,False
+JJ Redick,3,2,17,0,Jump Shot,25,-160,197,False
+JJ Redick,2,0,32,0,Jump Shot,23,232,15,False
+JJ Redick,4,2,1,1,Jump Shot,23,-239,20,False
+JJ Redick,3,4,22,0,Jump Shot,9,18,98,True
+JJ Redick,4,7,28,1,Jump Shot,22,-225,14,False
+JJ Redick,2,5,12,1,Jump Shot,22,-25,220,True
+JJ Redick,2,0,7,0,Jump Shot,26,184,190,False
+JJ Redick,3,9,13,1,Jump Shot,24,123,215,False
+JJ Redick,2,0,59,1,Jump Shot,19,-198,20,True
+JJ Redick,1,11,4,0,Jump Shot,26,-164,204,False
+JJ Redick,1,3,33,0,Jump Shot,26,143,218,False
+JJ Redick,4,7,52,0,Jump Shot,24,127,211,False
+JJ Redick,1,0,46,1,Jump Shot,24,181,171,False
+JJ Redick,1,1,7,0,Jump Shot,24,138,203,False
+JJ Redick,2,5,8,1,Jump Shot,20,183,100,True
+JJ Redick,3,1,34,0,Jump Shot,25,-223,117,False
+JJ Redick,1,0,29,0,Jump Shot,23,232,24,False
+JJ Redick,3,0,31,0,Jump Shot,25,-113,226,False
+JJ Redick,3,8,30,1,Jump Shot,24,-222,104,False
+JJ Redick,3,7,29,1,Jump Shot,27,67,264,False
+JJ Redick,2,10,47,0,Jump Shot,27,-72,267,False
+JJ Redick,3,11,22,1,Jump Shot,25,228,108,False
+JJ Redick,3,1,57,0,Jump Shot,27,176,211,False
+JJ Redick,3,7,49,1,Jump Shot,18,-89,164,True
+JJ Redick,3,8,8,0,Jump Shot,20,84,188,True
+JJ Redick,4,1,28,0,Jump Shot,24,49,245,False
+JJ Redick,1,8,55,0,Jump Shot,25,-136,216,False
+JJ Redick,1,3,41,0,Jump Shot,26,-135,231,False
+JJ Redick,3,10,32,1,Jump Shot,24,177,174,False
+JJ Redick,4,1,8,1,Jump Shot,25,199,167,False
+JJ Redick,4,0,46,1,Jump Shot,25,-217,137,False
+JJ Redick,3,6,45,1,Jump Shot,25,6,252,False
+JJ Redick,4,4,23,0,Jump Shot,25,-5,257,False
+JJ Redick,2,5,31,1,Jump Shot,22,-227,-13,False
+JJ Redick,2,0,39,0,Jump Shot,15,-10,152,True
+JJ Redick,4,2,6,1,Jump Shot,25,-114,230,False
+JJ Redick,2,3,56,1,Jump Shot,19,-67,179,True
+JJ Redick,2,0,35,0,Jump Shot,16,-69,152,True
+JJ Redick,3,9,26,1,Jump Shot,27,141,238,False
+JJ Redick,1,8,44,0,Jump Shot,26,-135,232,False
+JJ Redick,2,3,3,0,Jump Shot,23,-230,-20,False
+JJ Redick,2,2,2,1,Jump Shot,20,5,209,True
+JJ Redick,2,2,34,0,Jump Shot,26,-136,222,False
+JJ Redick,2,1,1,1,Jump Shot,20,-80,193,True
+JJ Redick,1,1,17,0,Jump Shot,24,-136,201,False
+JJ Redick,2,5,9,1,Jump Shot,17,-105,141,True
+JJ Redick,2,1,25,1,Jump Shot,25,10,252,False
+JJ Redick,3,7,54,0,Jump Shot,15,60,148,True
+JJ Redick,1,3,55,1,Jump Shot,25,-73,240,False
+JJ Redick,4,2,54,1,Jump Shot,27,-133,243,False
+JJ Redick,3,9,4,0,Jump Shot,25,234,88,False
+JJ Redick,4,3,24,0,Jump Shot,27,185,197,False
+JJ Redick,1,0,33,0,Jump Shot,25,145,205,False
+JJ Redick,3,1,37,0,Jump Shot,18,-82,163,True
+JJ Redick,3,4,1,0,Jump Shot,16,-127,111,True
+JJ Redick,3,8,37,0,Jump Shot,23,-231,9,False
+JJ Redick,1,3,0,1,Jump Shot,18,184,1,True
+JJ Redick,3,3,45,0,Jump Shot,26,-141,229,False
+JJ Redick,4,1,13,0,Jump Shot,24,141,199,False
+JJ Redick,1,7,7,1,Jump Shot,27,-187,200,False
+JJ Redick,4,0,38,0,Jump Shot,26,108,238,False
+JJ Redick,1,5,30,0,Jump Shot,26,66,257,False
+JJ Redick,4,5,6,1,Jump Shot,22,-229,13,False
+JJ Redick,2,10,33,0,Jump Shot,26,229,134,False
+JJ Redick,3,6,52,1,Jump Shot,27,-170,220,False
+JJ Redick,4,9,53,0,Jump Shot,12,-104,72,True
+JJ Redick,2,8,23,1,Jump Shot,16,169,-10,True
+JJ Redick,2,8,58,0,Jump Shot,24,89,229,False
+JJ Redick,2,6,24,0,Jump Shot,24,-205,131,False
+JJ Redick,1,4,2,1,Jump Shot,14,73,121,True
+JJ Redick,2,8,27,1,Jump Shot,20,-136,158,True
+JJ Redick,3,7,19,0,Jump Shot,18,36,178,True
+JJ Redick,4,10,37,0,Jump Shot,26,188,184,False
+JJ Redick,1,9,27,0,Jump Shot,19,-19,199,True
+JJ Redick,2,6,42,0,Jump Shot,26,-10,264,False
+JJ Redick,2,5,49,1,Jump Shot,21,-31,209,True
+JJ Redick,2,4,31,0,Jump Shot,19,188,68,True
+JJ Redick,2,7,34,1,Jump Shot,26,98,246,False
+JJ Redick,3,7,50,0,Jump Shot,26,81,256,False
+JJ Redick,1,8,58,1,Jump Shot,25,-143,216,False
+JJ Redick,4,3,35,0,Jump Shot,26,199,173,False
+JJ Redick,1,4,56,0,Jump Shot,18,187,29,True
+JJ Redick,2,8,38,0,Jump Shot,22,67,211,True
+JJ Redick,4,6,16,0,Jump Shot,25,-60,246,False
+JJ Redick,4,10,50,0,Jump Shot,20,112,169,True
+JJ Redick,1,10,58,1,Jump Shot,16,-3,160,True
+JJ Redick,1,7,36,0,Jump Shot,17,-160,67,True
+JJ Redick,4,3,15,0,Jump Shot,28,-137,247,False
+JJ Redick,2,2,42,1,Jump Shot,23,237,17,False
+JJ Redick,3,0,1,0,Jump Shot,51,78,509,False
+JJ Redick,3,9,2,1,Jump Shot,24,-185,164,False
+JJ Redick,1,1,40,0,Jump Shot,26,55,263,False
+JJ Redick,1,10,29,0,Jump Shot,0,-7,1,True
+JJ Redick,1,10,4,0,Jump Shot,17,-68,164,True
+JJ Redick,3,0,52,0,Jump Shot,23,-235,26,False
+JJ Redick,4,9,37,0,Jump Shot,17,-66,160,True
+JJ Redick,2,11,3,0,Jump Shot,28,180,224,False
+JJ Redick,2,3,11,1,Jump Shot,26,-139,226,False
+JJ Redick,2,1,4,1,Jump Shot,26,-210,155,False
+JJ Redick,4,2,2,0,Jump Shot,24,-45,244,False
+JJ Redick,2,1,22,1,Jump Shot,26,-165,205,False
+JJ Redick,1,10,12,1,Jump Shot,28,-103,264,False
+JJ Redick,2,11,8,0,Jump Shot,26,85,252,False
+JJ Redick,3,3,54,1,Jump Shot,20,135,159,True
+JJ Redick,3,0,19,0,Jump Shot,27,149,231,False
+JJ Redick,2,3,5,1,Jump Shot,25,95,238,False
+JJ Redick,4,2,59,1,Jump Shot,23,-231,-10,False
+JJ Redick,3,0,34,0,Jump Shot,26,-92,250,False
+JJ Redick,1,8,51,1,Jump Shot,26,-99,241,False
+JJ Redick,3,3,2,1,Jump Shot,18,52,173,True
+JJ Redick,2,8,46,0,Jump Shot,20,12,200,True
+JJ Redick,2,0,11,1,Jump Shot,24,234,73,False
+JJ Redick,3,9,21,0,Jump Shot,25,222,130,False
+JJ Redick,3,7,41,0,Jump Shot,27,182,204,False
+JJ Redick,1,10,23,1,Jump Shot,26,136,231,False
+JJ Redick,2,2,53,1,Jump Shot,25,-103,235,False
+JJ Redick,3,11,49,1,Jump Shot,26,-112,237,False
+JJ Redick,2,4,38,0,Jump Shot,12,72,101,True
+JJ Redick,4,4,45,0,Jump Shot,25,125,217,False
+JJ Redick,3,8,40,0,Jump Shot,25,-170,194,False
+JJ Redick,2,3,23,1,Jump Shot,22,229,10,False
+JJ Redick,1,10,57,0,Jump Shot,24,235,51,False
+JJ Redick,3,11,26,1,Jump Shot,18,57,176,True
+JJ Redick,1,8,35,1,Jump Shot,23,-231,37,False
+JJ Redick,2,2,49,0,Jump Shot,25,122,222,False
+JJ Redick,1,9,36,1,Jump Shot,25,-198,161,False
+JJ Redick,3,8,2,0,Jump Shot,22,227,16,False
+JJ Redick,4,1,52,0,Jump Shot,25,120,224,False
+JJ Redick,2,0,29,0,Jump Shot,25,-164,199,False
+JJ Redick,1,0,48,0,Jump Shot,25,-52,254,False
+JJ Redick,2,3,20,1,Jump Shot,26,-5,262,False
+JJ Redick,3,0,40,1,Jump Shot,24,145,203,False
+JJ Redick,1,1,33,0,Jump Shot,21,65,209,True
+JJ Redick,1,0,3,0,Jump Shot,18,189,12,True
+JJ Redick,4,0,0,0,Jump Shot,26,16,261,False
+JJ Redick,2,3,48,1,Jump Shot,20,-104,181,True
+JJ Redick,2,3,9,0,Jump Shot,25,177,189,False
+JJ Redick,1,8,41,0,Jump Shot,22,227,28,False
+JJ Redick,1,10,19,1,Jump Shot,24,-228,87,False
+JJ Redick,1,2,33,1,Jump Shot,24,43,245,False
+JJ Redick,1,11,15,0,Jump Shot,25,95,232,False
+JJ Redick,2,1,47,0,Jump Shot,28,166,229,False
+JJ Redick,4,10,36,1,Jump Shot,21,171,132,True
+JJ Redick,1,0,34,1,Jump Shot,17,18,177,True
+JJ Redick,2,10,46,1,Jump Shot,25,-139,213,False
+JJ Redick,4,10,2,0,Jump Shot,26,-215,163,False
+JJ Redick,2,0,14,0,Jump Shot,17,141,98,True
+JJ Redick,2,0,36,1,Jump Shot,25,118,228,False
+JJ Redick,1,8,58,0,Jump Shot,19,-197,-4,True
+JJ Redick,4,11,3,0,Jump Shot,25,110,231,False
+JJ Redick,1,0,7,0,Jump Shot,15,33,151,True
+JJ Redick,1,2,0,0,Jump Shot,25,68,246,False
+JJ Redick,3,1,29,1,Jump Shot,24,103,227,False
+JJ Redick,1,8,40,1,Jump Shot,25,100,236,False
+JJ Redick,2,3,26,0,Jump Shot,21,31,216,True
+JJ Redick,3,0,36,0,Jump Shot,25,193,172,False
+JJ Redick,1,3,14,0,Jump Shot,25,40,253,False
+JJ Redick,3,9,12,0,Jump Shot,25,168,197,False
+JJ Redick,4,4,26,0,Jump Shot,21,-51,206,True
+JJ Redick,2,10,50,0,Jump Shot,22,12,221,True
+JJ Redick,2,2,29,0,Jump Shot,26,214,155,False
+JJ Redick,1,1,26,0,Jump Shot,28,-122,253,False
+JJ Redick,4,4,2,1,Jump Shot,25,135,215,False
+JJ Redick,3,0,24,0,Jump Shot,25,123,226,False
+JJ Redick,2,9,31,0,Jump Shot,28,165,229,False
+JJ Redick,1,4,9,0,Jump Shot,26,-189,190,False
+JJ Redick,1,8,8,1,Jump Shot,21,87,195,True
+JJ Redick,3,9,0,1,Jump Shot,23,-236,11,False
+JJ Redick,4,10,28,0,Jump Shot,25,161,196,False
+JJ Redick,4,3,15,0,Jump Shot,25,10,256,False
+JJ Redick,1,0,0,0,Jump Shot,24,241,46,False
+JJ Redick,1,7,11,0,Jump Shot,26,152,218,False
+JJ Redick,3,8,25,1,Jump Shot,27,-144,230,False
+JJ Redick,3,10,44,1,Jump Shot,18,130,137,True
+JJ Redick,3,1,16,0,Jump Shot,26,-127,231,False
+JJ Redick,3,0,4,0,Jump Shot,20,-122,164,True
+JJ Redick,2,11,1,1,Jump Shot,27,141,234,False
+JJ Redick,4,11,47,0,Jump Shot,26,-16,262,False
+JJ Redick,3,2,53,0,Jump Shot,26,-126,237,False
+JJ Redick,1,2,53,1,Jump Shot,26,83,256,False
+JJ Redick,4,0,31,1,Jump Shot,28,-38,278,False
+JJ Redick,3,0,10,0,Jump Shot,26,-169,206,False
+JJ Redick,2,9,33,1,Jump Shot,25,236,106,False
+JJ Redick,4,3,42,0,Jump Shot,27,-206,181,False
+JJ Redick,1,8,33,1,Jump Shot,23,-230,0,False
+JJ Redick,4,4,17,1,Jump Shot,25,162,195,False
+JJ Redick,3,9,16,0,Jump Shot,27,167,218,False
+JJ Redick,2,10,31,0,Jump Shot,25,-139,214,False
+JJ Redick,2,9,2,1,Jump Shot,20,44,201,True
+JJ Redick,2,9,30,1,Jump Shot,28,187,215,False
+JJ Redick,2,8,41,0,Jump Shot,27,-193,201,False
+JJ Redick,3,2,10,1,Jump Shot,23,-234,37,False
+JJ Redick,2,2,2,0,Jump Shot,26,132,231,False
+JJ Redick,4,10,46,1,Jump Shot,15,103,121,True
+JJ Redick,2,1,57,1,Jump Shot,27,174,208,False
+JJ Redick,3,0,36,0,Jump Shot,24,118,215,False
+JJ Redick,4,0,43,0,Jump Shot,26,-177,194,False
+JJ Redick,4,2,34,1,Jump Shot,25,-55,254,False
+JJ Redick,1,9,47,1,Jump Shot,25,20,252,False
+JJ Redick,4,11,47,1,Jump Shot,23,234,43,False
+JJ Redick,1,1,59,1,Jump Shot,17,-172,-10,True
+JJ Redick,4,2,4,0,Jump Shot,29,-213,197,False
+JJ Redick,2,4,31,0,Jump Shot,22,-227,5,False
+JJ Redick,4,1,59,0,Jump Shot,20,-19,207,True
+JJ Redick,3,7,37,0,Jump Shot,25,-3,253,False
+JJ Redick,4,5,21,1,Jump Shot,26,-106,242,False
+JJ Redick,3,9,34,0,Jump Shot,22,222,47,False
+JJ Redick,2,1,50,1,Jump Shot,25,-149,208,False
+JJ Redick,4,5,0,0,Jump Shot,28,-204,195,False
+JJ Redick,3,3,5,0,Jump Shot,25,-77,246,False
+JJ Redick,2,0,5,0,Jump Shot,26,117,243,False
+JJ Redick,3,9,40,0,Jump Shot,22,225,32,False
+JJ Redick,2,10,34,1,Jump Shot,26,-150,220,False
+JJ Redick,1,7,48,1,Jump Shot,25,14,250,False
+JJ Redick,3,10,39,1,Jump Shot,26,-126,238,False
+JJ Redick,1,10,33,1,Jump Shot,19,99,163,True
+JJ Redick,2,2,32,1,Jump Shot,25,-152,204,False
+JJ Redick,2,0,41,0,Jump Shot,25,-100,232,False
+JJ Redick,3,1,43,1,Jump Shot,21,-144,165,True
+JJ Redick,3,3,39,1,Jump Shot,20,-112,177,True
+JJ Redick,1,1,25,0,Jump Shot,24,152,198,False
+JJ Redick,2,11,11,1,Jump Shot,25,-174,180,False
+JJ Redick,1,2,58,1,Jump Shot,23,210,94,True
+JJ Redick,1,0,37,0,Jump Shot,25,71,247,False
+JJ Redick,1,11,29,0,Jump Shot,27,-159,222,False
+JJ Redick,1,0,8,1,Jump Shot,25,-209,146,False
+JJ Redick,2,9,2,1,Jump Shot,24,-54,243,False
+JJ Redick,3,2,50,1,Jump Shot,26,-15,263,False
+JJ Redick,1,8,53,0,Jump Shot,18,11,181,True
+JJ Redick,4,0,35,1,Jump Shot,20,-187,71,True
+JJ Redick,1,1,54,0,Jump Shot,20,-182,86,True
+JJ Redick,4,1,31,1,Jump Shot,24,-136,205,False
+JJ Redick,4,8,51,0,Jump Shot,22,-227,-6,False
+JJ Redick,2,1,8,0,Jump Shot,26,-94,244,False
+JJ Redick,2,1,57,0,Jump Shot,26,-62,253,False
+JJ Redick,2,3,59,0,Jump Shot,25,57,252,False
+JJ Redick,1,1,52,1,Jump Shot,21,-114,186,True
+JJ Redick,1,8,53,1,Jump Shot,25,-8,251,False
+JJ Redick,2,2,49,0,Jump Shot,23,118,201,True
+JJ Redick,2,3,12,1,Jump Shot,25,-218,125,False
+JJ Redick,4,1,53,0,Jump Shot,26,-46,263,False
+JJ Redick,3,8,50,1,Jump Shot,24,-109,221,False
+JJ Redick,4,5,9,0,Jump Shot,20,43,205,True
+JJ Redick,3,3,37,0,Layup Shot,2,9,20,True
+JJ Redick,4,9,2,1,Layup Shot,1,10,0,True
+JJ Redick,4,11,9,0,Layup Shot,1,11,6,True
+JJ Redick,2,10,0,0,Layup Shot,5,17,56,True
+JJ Redick,1,8,55,1,Layup Shot,1,1,15,True
+JJ Redick,1,5,22,0,Layup Shot,0,2,5,True
+JJ Redick,3,8,34,0,Layup Shot,1,6,11,True
+JJ Redick,3,8,12,0,Layup Shot,1,11,5,True
+JJ Redick,1,1,37,1,Layup Shot,1,13,9,True
+JJ Redick,2,4,53,0,Layup Shot,6,-60,5,True
+JJ Redick,4,5,25,0,Layup Shot,2,26,13,True
+JJ Redick,4,3,40,1,Layup Shot,3,-3,38,True
+JJ Redick,1,11,6,0,Pullup Jump shot,26,46,257,False
+JJ Redick,1,9,59,1,Pullup Jump shot,26,-6,264,False
+JJ Redick,4,1,22,1,Pullup Jump shot,27,-93,263,False
+JJ Redick,2,6,0,1,Pullup Jump shot,19,121,153,True
+JJ Redick,4,10,8,0,Pullup Jump shot,18,-182,11,True
+JJ Redick,2,1,44,1,Pullup Jump shot,20,120,166,True
+JJ Redick,2,1,24,1,Pullup Jump shot,24,158,192,False
+JJ Redick,1,4,3,0,Pullup Jump shot,14,-18,147,True
+JJ Redick,2,7,43,1,Pullup Jump shot,20,81,188,True
+JJ Redick,1,0,0,0,Pullup Jump shot,18,-185,6,True
+JJ Redick,2,0,29,0,Pullup Jump shot,26,9,262,False
+JJ Redick,1,7,52,0,Pullup Jump shot,25,211,141,False
+JJ Redick,2,11,22,0,Pullup Jump shot,17,-98,141,True
+JJ Redick,2,10,57,0,Pullup Jump shot,26,-2,263,False
+JJ Redick,2,10,40,0,Pullup Jump shot,19,120,148,True
+JJ Redick,3,11,29,1,Pullup Jump shot,21,-52,206,True
+JJ Redick,2,0,9,0,Pullup Jump shot,23,-11,230,True
+JJ Redick,3,0,45,0,Pullup Jump shot,18,-87,162,True
+JJ Redick,1,0,30,1,Pullup Jump shot,13,-7,138,True
+JJ Redick,2,8,34,0,Pullup Jump shot,16,0,161,True
+JJ Redick,3,2,5,1,Pullup Jump shot,19,-62,184,True
+JJ Redick,1,1,38,1,Pullup Jump shot,21,-33,211,True
+JJ Redick,1,8,33,0,Pullup Jump shot,21,93,197,True
+JJ Redick,1,10,44,1,Pullup Jump shot,19,176,72,True
+JJ Redick,2,1,26,0,Pullup Jump shot,25,-55,251,False
+JJ Redick,3,8,30,0,Pullup Jump shot,25,207,147,False
+JJ Redick,4,11,0,0,Pullup Jump shot,22,38,218,True
+JJ Redick,1,10,39,0,Pullup Jump shot,25,-161,204,False
+JJ Redick,2,9,57,0,Pullup Jump shot,25,-80,245,False
+JJ Redick,3,2,25,0,Pullup Jump shot,25,-122,223,False
+JJ Redick,2,2,50,0,Pullup Jump shot,23,93,214,True
+JJ Redick,3,3,9,1,Pullup Jump shot,27,20,276,False
+JJ Redick,3,9,38,0,Pullup Jump shot,19,22,189,True
+JJ Redick,1,0,52,1,Pullup Jump shot,23,-49,225,True
+JJ Redick,2,3,8,0,Pullup Jump shot,18,-159,97,True
+JJ Redick,4,3,10,1,Pullup Jump shot,19,6,195,True
+JJ Redick,1,7,8,1,Pullup Jump shot,21,37,212,True
+JJ Redick,3,1,47,0,Pullup Jump shot,20,96,178,True
+JJ Redick,3,0,52,0,Pullup Jump shot,14,117,87,True
+JJ Redick,1,2,25,0,Pullup Jump shot,20,-36,204,True
+JJ Redick,1,8,1,1,Pullup Jump shot,26,-62,257,False
+JJ Redick,2,11,4,0,Pullup Jump shot,26,185,194,False
+JJ Redick,1,10,58,0,Pullup Jump shot,20,169,120,True
+JJ Redick,2,4,9,0,Pullup Jump shot,16,50,155,True
+JJ Redick,1,0,6,0,Pullup Jump shot,18,-80,162,True
+JJ Redick,2,10,28,1,Pullup Jump shot,14,40,142,True
+JJ Redick,1,2,50,1,Pullup Jump shot,22,-116,197,True
+JJ Redick,2,1,29,1,Pullup Jump shot,14,-119,87,True
+JJ Redick,3,9,1,0,Pullup Jump shot,20,57,196,True
+JJ Redick,3,8,47,1,Pullup Jump shot,25,220,138,False
+JJ Redick,1,0,59,0,Pullup Jump shot,20,-107,180,True
+JJ Redick,1,1,37,1,Pullup Jump shot,18,68,168,True
+JJ Redick,4,10,44,0,Pullup Jump shot,20,119,167,True
+JJ Redick,1,3,15,0,Pullup Jump shot,23,139,186,True
+JJ Redick,4,11,42,0,Pullup Jump shot,20,-32,201,True
+JJ Redick,2,10,10,0,Pullup Jump shot,20,62,191,True
+JJ Redick,4,10,2,1,Pullup Jump shot,21,190,105,True
+JJ Redick,3,9,37,0,Pullup Jump shot,22,-5,220,True
+JJ Redick,3,11,1,0,Pullup Jump shot,19,48,186,True
+JJ Redick,4,7,38,0,Pullup Jump shot,25,80,241,False
+JJ Redick,4,4,20,1,Pullup Jump shot,25,-152,205,False
+JJ Redick,3,10,4,0,Pullup Jump shot,17,44,172,True
+JJ Redick,2,9,45,1,Pullup Jump shot,20,-74,188,True
+JJ Redick,2,0,46,0,Pullup Jump shot,10,15,99,True
+JJ Redick,4,11,15,0,Pullup Jump shot,14,-122,81,True
+JJ Redick,4,3,11,1,Pullup Jump shot,19,104,164,True
+JJ Redick,4,0,15,0,Pullup Jump shot,25,95,236,False
+JJ Redick,4,9,32,0,Pullup Jump shot,27,65,264,False
+JJ Redick,3,1,5,1,Pullup Jump shot,19,63,180,True
+JJ Redick,2,1,50,1,Pullup Jump shot,10,-103,-10,True
+JJ Redick,1,0,1,1,Pullup Jump shot,33,-201,265,False
+JJ Redick,1,7,4,0,Pullup Jump shot,22,-148,170,True
+JJ Redick,2,0,52,0,Pullup Jump shot,26,-80,256,False
+JJ Redick,2,11,17,0,Pullup Jump shot,18,149,111,True
+JJ Redick,1,10,58,1,Pullup Jump shot,18,182,4,True
+JJ Redick,2,0,29,0,Pullup Jump shot,26,24,261,False
+JJ Redick,1,3,8,0,Pullup Jump shot,15,143,60,True
+JJ Redick,2,0,7,0,Pullup Jump shot,25,140,217,False
+JJ Redick,4,9,30,1,Pullup Jump shot,19,148,121,True
+JJ Redick,2,0,34,1,Pullup Jump shot,27,143,233,False
+JJ Redick,1,8,56,1,Pullup Jump shot,19,192,1,True
+JJ Redick,1,7,6,0,Pullup Jump shot,19,11,198,True
+JJ Redick,4,9,48,0,Pullup Jump shot,19,25,197,True
+JJ Redick,2,9,53,1,Pullup Jump shot,19,193,48,True
+JJ Redick,1,9,39,1,Pullup Jump shot,21,123,179,True
+JJ Redick,3,0,8,1,Pullup Jump shot,20,-33,201,True
+JJ Redick,2,2,25,0,Pullup Jump shot,22,-99,205,True
+JJ Redick,1,3,34,0,Pullup Jump shot,28,-47,277,False
+JJ Redick,4,2,17,0,Pullup Jump shot,25,123,221,False
+JJ Redick,4,10,35,1,Pullup Jump shot,21,-136,163,True
+JJ Redick,1,10,41,0,Pullup Jump shot,25,-1,254,False
+JJ Redick,3,10,15,0,Pullup Jump shot,24,154,189,False
+JJ Redick,1,10,49,1,Pullup Jump shot,15,115,108,True
+JJ Redick,3,1,42,1,Pullup Jump shot,14,-2,142,True
+JJ Redick,3,2,32,0,Pullup Jump shot,25,-101,229,False
+JJ Redick,1,1,55,0,Pullup Jump shot,17,170,29,True
+JJ Redick,1,9,42,0,Pullup Jump shot,20,110,177,True
+JJ Redick,4,2,42,0,Pullup Jump shot,22,-228,2,False
+JJ Redick,3,11,19,0,Pullup Jump shot,20,19,205,True
+JJ Redick,2,4,35,0,Pullup Jump shot,18,2,187,True
+JJ Redick,3,9,37,1,Pullup Jump shot,17,-3,173,True
+JJ Redick,2,1,34,0,Pullup Jump shot,25,-3,258,False
+JJ Redick,4,9,15,1,Pullup Jump shot,15,90,120,True
+JJ Redick,1,10,31,0,Pullup Jump shot,20,16,207,True
+JJ Redick,1,0,40,1,Pullup Jump shot,18,-33,186,True
+JJ Redick,1,0,6,0,Pullup Jump shot,26,6,260,False
+JJ Redick,4,7,20,0,Pullup Jump shot,19,87,179,True
+JJ Redick,2,1,26,1,Pullup Jump shot,19,134,148,True
+JJ Redick,3,0,3,0,Pullup Jump shot,16,-10,167,True
+JJ Redick,2,0,4,1,Pullup Jump shot,19,-90,174,True
+JJ Redick,1,2,41,1,Pullup Jump shot,28,-28,285,False
+JJ Redick,3,0,47,0,Pullup Jump shot,18,-46,181,True
+JJ Redick,2,8,22,0,Pullup Jump shot,9,-4,98,True
+JJ Redick,2,10,50,0,Pullup Jump shot,22,-41,218,True
+JJ Redick,3,8,15,1,Pullup Jump shot,19,-24,191,True
+JJ Redick,2,5,14,1,Pullup Jump shot,25,-65,243,False
+JJ Redick,3,7,52,1,Pullup Jump shot,21,-134,168,True
+JJ Redick,1,10,37,1,Pullup Jump shot,24,27,247,False
+JJ Redick,3,8,28,1,Pullup Jump shot,20,-92,188,True
+JJ Redick,3,9,4,1,Pullup Jump shot,14,144,3,True
+JJ Redick,4,11,42,0,Pullup Jump shot,25,46,251,False
+JJ Redick,2,5,54,1,Pullup Jump shot,21,-139,170,True
+JJ Redick,2,1,44,0,Pullup Jump shot,21,132,167,True
+JJ Redick,3,2,30,1,Pullup Jump shot,20,-147,148,True
+JJ Redick,1,8,52,1,Pullup Jump shot,19,-148,127,True
+JJ Redick,1,10,12,1,Pullup Jump shot,19,3,194,True
+JJ Redick,2,10,51,0,Pullup Jump shot,23,217,102,False
+JJ Redick,3,6,17,0,Pullup Jump shot,19,58,188,True
+JJ Redick,1,11,47,1,Pullup Jump shot,17,-177,20,True
+JJ Redick,2,6,49,1,Pullup Jump shot,25,127,225,False
+JJ Redick,1,5,32,0,Pullup Jump shot,24,-42,245,False
+JJ Redick,4,9,8,1,Pullup Jump shot,26,-36,262,False
+JJ Redick,2,8,3,1,Pullup Jump shot,20,152,136,True
+JJ Redick,3,2,46,0,Pullup Jump shot,7,29,67,True
+JJ Redick,2,6,32,0,Pullup Jump shot,14,35,139,True
+JJ Redick,2,0,37,1,Pullup Jump shot,18,13,185,True
+JJ Redick,1,0,46,1,Pullup Jump shot,16,16,168,True
+JJ Redick,2,4,2,1,Pullup Jump shot,19,124,144,True
+JJ Redick,1,3,19,0,Pullup Jump shot,17,76,159,True
+JJ Redick,1,1,22,0,Pullup Jump shot,17,-105,143,True
+JJ Redick,3,0,50,0,Pullup Jump shot,19,2,192,True
+JJ Redick,3,10,28,1,Pullup Jump shot,12,59,107,True
+JJ Redick,2,2,4,0,Pullup Jump shot,22,82,206,True
+JJ Redick,3,7,27,1,Pullup Jump shot,22,-154,161,True
+JJ Redick,3,8,50,0,Pullup Jump shot,25,214,143,False
+JJ Redick,3,8,36,1,Pullup Jump shot,17,121,127,True
+JJ Redick,4,8,53,1,Pullup Jump shot,26,-124,232,False
+JJ Redick,3,5,57,1,Pullup Jump shot,21,-53,208,True
+JJ Redick,2,4,18,1,Pullup Jump shot,14,111,87,True
+JJ Redick,3,3,8,0,Pullup Jump shot,26,-94,246,False
+JJ Redick,3,11,5,0,Pullup Jump shot,21,134,166,True
+JJ Redick,3,8,28,0,Pullup Jump shot,20,-50,200,True
+JJ Redick,1,1,31,1,Pullup Jump shot,25,-122,225,False
+JJ Redick,2,9,11,0,Pullup Jump shot,19,-19,199,True
+JJ Redick,2,0,41,0,Pullup Jump shot,25,114,223,False
+JJ Redick,4,10,55,1,Pullup Jump shot,16,17,164,True
+JJ Redick,4,8,12,1,Pullup Jump shot,11,117,0,True
+JJ Redick,2,7,56,0,Pullup Jump shot,27,175,216,False
+JJ Redick,2,4,34,1,Pullup Jump shot,11,-53,101,True
+JJ Redick,4,5,33,0,Pullup Jump shot,17,-75,161,True
+JJ Redick,4,9,10,1,Pullup Jump shot,21,-141,160,True
+JJ Redick,3,11,23,1,Reverse Layup Shot,0,-3,9,True
+JJ Redick,1,10,41,1,Reverse Layup Shot,1,2,14,True
+JJ Redick,2,0,33,0,Reverse Layup Shot,1,12,0,True
+JJ Redick,1,3,30,0,Reverse Layup Shot,2,25,2,True
+JJ Redick,1,5,58,1,Reverse Layup Shot,1,-11,14,True
+JJ Redick,1,9,8,1,Reverse Layup Shot,1,2,16,True
+JJ Redick,4,7,54,1,Reverse Layup Shot,3,-22,25,True
+JJ Redick,4,8,25,1,Running Finger Roll Layup Shot,3,-10,38,True
+JJ Redick,2,0,50,1,Running Jump Shot,22,203,85,True
+JJ Redick,2,2,49,1,Running Jump Shot,26,202,179,False
+JJ Redick,3,6,27,1,Running Jump Shot,25,173,193,False
+JJ Redick,2,0,29,1,Running Jump Shot,26,-96,243,False
+JJ Redick,2,1,50,1,Running Jump Shot,24,-166,186,False
+JJ Redick,1,11,4,1,Running Jump Shot,17,38,170,True
+JJ Redick,1,9,23,1,Running Jump Shot,25,-91,234,False
+JJ Redick,4,11,7,1,Running Jump Shot,27,-158,230,False
+JJ Redick,1,9,13,1,Running Jump Shot,15,6,153,True
+JJ Redick,3,10,12,1,Running Layup Shot,1,-3,17,True
+JJ Redick,3,8,36,1,Running Layup Shot,2,7,21,True
+JJ Redick,3,3,36,0,Running Layup Shot,5,5,52,True
+JJ Redick,4,2,11,1,Running Layup Shot,1,-3,10,True
+JJ Redick,1,10,1,1,Running Layup Shot,0,-2,2,True
+JJ Redick,1,6,41,0,Running Layup Shot,0,1,-5,True
+JJ Redick,1,1,26,0,Running Pull-Up Jump Shot,25,-163,190,False
+JJ Redick,2,11,24,0,Running Pull-Up Jump Shot,25,101,232,False
+JJ Redick,3,9,30,0,Running Pull-Up Jump Shot,26,161,206,False
+JJ Redick,2,10,23,1,Running Pull-Up Jump Shot,26,153,211,False
+JJ Redick,2,11,11,1,Running Pull-Up Jump Shot,26,223,135,False
+JJ Redick,4,10,2,1,Running Pull-Up Jump Shot,25,130,215,False
+JJ Redick,1,1,30,1,Running Pull-Up Jump Shot,24,240,45,False
+JJ Redick,3,10,15,1,Running Pull-Up Jump Shot,20,45,198,True
+JJ Redick,4,9,43,0,Running Pull-Up Jump Shot,28,-106,260,False
+JJ Redick,1,9,44,0,Running Pull-Up Jump Shot,27,-183,206,False
+JJ Redick,2,9,10,1,Running Pull-Up Jump Shot,17,55,166,True
+JJ Redick,1,1,10,1,Running Pull-Up Jump Shot,25,170,194,False
+JJ Redick,1,7,29,0,Running Pull-Up Jump Shot,25,177,183,False
+JJ Redick,1,6,54,1,Running Pull-Up Jump Shot,19,169,99,True
+JJ Redick,4,3,0,1,Step Back Jump shot,12,-33,120,True
+JJ Redick,1,1,44,0,Step Back Jump shot,25,155,203,False
+JJ Redick,3,8,30,0,Step Back Jump shot,16,-49,153,True
+JJ Redick,1,9,12,0,Step Back Jump shot,20,-82,188,True
+JJ Redick,1,8,46,1,Step Back Jump shot,14,122,85,True
+JJ Redick,4,4,50,0,Step Back Jump shot,23,-236,10,False
+JJ Redick,4,6,32,0,Step Back Jump shot,16,77,150,True
+JJ Redick,4,4,10,1,Step Back Jump shot,21,6,214,True
+JJ Redick,1,9,17,0,Step Back Jump shot,19,-11,191,True
+JJ Redick,3,10,53,0,Step Back Jump shot,12,58,107,True
+JJ Redick,1,11,46,1,Step Back Jump shot,21,-198,70,True
+JJ Redick,3,7,44,0,Step Back Jump shot,21,52,204,True
+JJ Redick,3,11,19,0,Turnaround Fadeaway shot,10,-3,107,True
+JJ Redick,3,7,8,1,Turnaround Jump Shot,26,195,176,False
+JJ Redick,1,0,17,0,Turnaround Jump Shot,20,-49,194,True
+JJ Redick,3,1,22,1,Turnaround Jump Shot,16,-18,160,True
+JJ Redick,3,9,0,0,Turnaround Jump Shot,19,-69,180,True

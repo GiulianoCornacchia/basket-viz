@@ -1,0 +1,571 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Clint Capela,1,6,34,1,Alley Oop Dunk Shot,0,0,2,True
+Clint Capela,1,6,43,1,Alley Oop Dunk Shot,2,3,22,True
+Clint Capela,3,4,20,1,Alley Oop Dunk Shot,0,6,4,True
+Clint Capela,3,7,46,1,Alley Oop Dunk Shot,1,5,19,True
+Clint Capela,4,1,10,1,Alley Oop Dunk Shot,0,2,9,True
+Clint Capela,1,8,57,1,Alley Oop Dunk Shot,0,8,0,True
+Clint Capela,4,8,1,1,Alley Oop Dunk Shot,0,2,7,True
+Clint Capela,4,8,32,1,Alley Oop Dunk Shot,1,9,13,True
+Clint Capela,1,10,56,0,Alley Oop Dunk Shot,0,1,9,True
+Clint Capela,1,6,52,1,Alley Oop Dunk Shot,0,4,-3,True
+Clint Capela,1,6,25,0,Alley Oop Dunk Shot,1,1,13,True
+Clint Capela,1,11,48,1,Alley Oop Dunk Shot,0,0,1,True
+Clint Capela,2,3,1,1,Alley Oop Dunk Shot,0,5,8,True
+Clint Capela,3,6,20,1,Alley Oop Dunk Shot,0,4,-1,True
+Clint Capela,2,3,34,1,Alley Oop Dunk Shot,0,-4,1,True
+Clint Capela,3,11,38,1,Alley Oop Dunk Shot,1,-5,15,True
+Clint Capela,1,11,6,1,Alley Oop Dunk Shot,0,-6,1,True
+Clint Capela,3,9,43,0,Alley Oop Dunk Shot,2,-2,24,True
+Clint Capela,3,6,53,1,Alley Oop Dunk Shot,0,3,-7,True
+Clint Capela,4,9,5,1,Alley Oop Dunk Shot,1,-5,16,True
+Clint Capela,1,7,33,1,Alley Oop Dunk Shot,0,-5,-1,True
+Clint Capela,3,9,1,1,Alley Oop Dunk Shot,2,-1,20,True
+Clint Capela,1,10,28,1,Alley Oop Dunk Shot,0,-6,4,True
+Clint Capela,1,10,34,1,Alley Oop Dunk Shot,0,5,-3,True
+Clint Capela,1,10,40,1,Alley Oop Dunk Shot,0,-9,-1,True
+Clint Capela,1,11,39,1,Alley Oop Dunk Shot,0,-5,4,True
+Clint Capela,3,9,49,0,Alley Oop Dunk Shot,1,5,18,True
+Clint Capela,4,5,50,1,Alley Oop Dunk Shot,1,-14,-1,True
+Clint Capela,2,4,38,1,Alley Oop Dunk Shot,0,5,7,True
+Clint Capela,1,4,55,1,Alley Oop Dunk Shot,1,-8,9,True
+Clint Capela,2,4,23,1,Alley Oop Dunk Shot,0,-5,5,True
+Clint Capela,1,5,51,1,Alley Oop Dunk Shot,1,-8,13,True
+Clint Capela,4,6,35,1,Alley Oop Dunk Shot,1,-5,10,True
+Clint Capela,3,5,24,1,Alley Oop Dunk Shot,0,1,-2,True
+Clint Capela,4,4,51,1,Alley Oop Dunk Shot,1,8,16,True
+Clint Capela,4,5,31,1,Alley Oop Dunk Shot,1,17,-2,True
+Clint Capela,1,4,21,1,Alley Oop Dunk Shot,0,3,5,True
+Clint Capela,1,7,59,1,Alley Oop Dunk Shot,1,11,8,True
+Clint Capela,2,2,32,1,Alley Oop Dunk Shot,0,3,5,True
+Clint Capela,2,3,35,1,Alley Oop Dunk Shot,0,-3,2,True
+Clint Capela,1,6,4,1,Alley Oop Dunk Shot,2,13,19,True
+Clint Capela,3,10,24,1,Alley Oop Dunk Shot,1,2,10,True
+Clint Capela,2,0,34,1,Alley Oop Dunk Shot,0,3,2,True
+Clint Capela,3,4,8,1,Alley Oop Dunk Shot,1,12,8,True
+Clint Capela,1,10,39,0,Alley Oop Dunk Shot,1,10,11,True
+Clint Capela,2,4,57,1,Alley Oop Dunk Shot,0,2,7,True
+Clint Capela,4,9,46,0,Alley Oop Dunk Shot,2,0,22,True
+Clint Capela,2,6,46,0,Alley Oop Dunk Shot,1,8,10,True
+Clint Capela,2,5,47,1,Alley Oop Dunk Shot,2,2,20,True
+Clint Capela,4,11,46,1,Alley Oop Dunk Shot,1,3,13,True
+Clint Capela,1,7,5,1,Alley Oop Dunk Shot,0,-8,5,True
+Clint Capela,1,7,31,1,Alley Oop Dunk Shot,0,0,8,True
+Clint Capela,3,11,29,1,Alley Oop Dunk Shot,1,8,8,True
+Clint Capela,1,6,19,1,Alley Oop Dunk Shot,0,-1,2,True
+Clint Capela,2,8,10,1,Alley Oop Dunk Shot,1,6,11,True
+Clint Capela,4,6,42,1,Alley Oop Dunk Shot,0,6,-1,True
+Clint Capela,1,8,8,1,Alley Oop Dunk Shot,0,4,1,True
+Clint Capela,1,8,56,1,Alley Oop Dunk Shot,0,-1,4,True
+Clint Capela,4,2,22,1,Alley Oop Dunk Shot,1,7,9,True
+Clint Capela,4,0,28,1,Alley Oop Dunk Shot,13,0,136,True
+Clint Capela,3,4,48,1,Alley Oop Dunk Shot,0,0,4,True
+Clint Capela,4,4,32,1,Alley Oop Dunk Shot,0,0,8,True
+Clint Capela,2,5,21,1,Alley Oop Dunk Shot,0,6,-1,True
+Clint Capela,1,3,50,1,Alley Oop Dunk Shot,1,-12,6,True
+Clint Capela,1,8,10,1,Alley Oop Dunk Shot,0,8,2,True
+Clint Capela,2,3,22,1,Alley Oop Dunk Shot,1,-13,7,True
+Clint Capela,1,10,55,1,Alley Oop Dunk Shot,0,5,1,True
+Clint Capela,1,9,18,1,Alley Oop Dunk Shot,0,2,-5,True
+Clint Capela,1,8,14,1,Alley Oop Dunk Shot,0,-2,0,True
+Clint Capela,1,11,40,1,Alley Oop Dunk Shot,0,3,3,True
+Clint Capela,1,11,26,1,Alley Oop Dunk Shot,0,5,8,True
+Clint Capela,2,7,18,1,Alley Oop Dunk Shot,0,-2,6,True
+Clint Capela,2,3,28,1,Alley Oop Dunk Shot,2,-1,21,True
+Clint Capela,3,9,43,1,Alley Oop Dunk Shot,1,7,8,True
+Clint Capela,1,7,22,1,Alley Oop Dunk Shot,0,0,-5,True
+Clint Capela,4,6,18,1,Alley Oop Dunk Shot,1,-5,16,True
+Clint Capela,1,7,13,1,Alley Oop Dunk Shot,0,-3,1,True
+Clint Capela,2,6,30,1,Alley Oop Dunk Shot,0,-1,8,True
+Clint Capela,2,5,49,1,Alley Oop Dunk Shot,1,-1,12,True
+Clint Capela,2,3,45,1,Alley Oop Dunk Shot,0,-8,4,True
+Clint Capela,3,10,50,0,Alley Oop Dunk Shot,2,-26,9,True
+Clint Capela,3,7,58,1,Alley Oop Dunk Shot,2,-4,21,True
+Clint Capela,3,6,23,1,Alley Oop Dunk Shot,0,-2,-2,True
+Clint Capela,1,11,14,1,Alley Oop Dunk Shot,1,-6,11,True
+Clint Capela,1,10,33,1,Alley Oop Dunk Shot,0,-2,-6,True
+Clint Capela,4,2,41,0,Alley Oop Layup shot,2,-16,13,True
+Clint Capela,2,1,26,1,Alley Oop Layup shot,2,-3,21,True
+Clint Capela,1,11,19,1,Alley Oop Layup shot,2,-11,17,True
+Clint Capela,3,7,58,1,Alley Oop Layup shot,0,6,6,True
+Clint Capela,4,7,5,0,Alley Oop Layup shot,2,15,21,True
+Clint Capela,4,2,41,0,Alley Oop Layup shot,1,16,-3,True
+Clint Capela,1,10,38,0,Alley Oop Layup shot,1,-3,11,True
+Clint Capela,1,5,52,1,Alley Oop Layup shot,1,7,8,True
+Clint Capela,4,1,3,1,Alley Oop Layup shot,1,17,8,True
+Clint Capela,1,6,47,1,Alley Oop Layup shot,2,15,18,True
+Clint Capela,1,5,53,1,Alley Oop Layup shot,2,11,19,True
+Clint Capela,4,6,3,1,Alley Oop Layup shot,0,-4,6,True
+Clint Capela,2,7,19,0,Alley Oop Layup shot,2,6,21,True
+Clint Capela,1,5,19,0,Alley Oop Layup shot,7,-2,71,True
+Clint Capela,2,6,17,0,Alley Oop Layup shot,0,6,5,True
+Clint Capela,1,8,53,0,Alley Oop Layup shot,2,18,11,True
+Clint Capela,3,9,3,1,Alley Oop Layup shot,3,-27,17,True
+Clint Capela,2,6,3,0,Alley Oop Layup shot,2,9,20,True
+Clint Capela,2,2,58,1,Alley Oop Layup shot,2,-8,26,True
+Clint Capela,4,5,32,0,Alley Oop Layup shot,1,-2,10,True
+Clint Capela,4,5,22,1,Alley Oop Layup shot,2,-2,21,True
+Clint Capela,3,8,5,1,Alley Oop Layup shot,1,9,5,True
+Clint Capela,2,5,9,0,Alley Oop Layup shot,1,-13,11,True
+Clint Capela,3,9,52,0,Alley Oop Layup shot,1,14,12,True
+Clint Capela,1,4,23,1,Alley Oop Layup shot,0,2,1,True
+Clint Capela,4,8,20,1,Alley Oop Layup shot,1,-6,13,True
+Clint Capela,1,10,36,0,Alley Oop Layup shot,0,0,8,True
+Clint Capela,1,11,33,0,Alley Oop Layup shot,1,17,-1,True
+Clint Capela,1,9,38,0,Alley Oop Layup shot,1,15,5,True
+Clint Capela,4,6,29,0,Alley Oop Layup shot,0,1,6,True
+Clint Capela,1,8,59,1,Alley Oop Layup shot,1,5,11,True
+Clint Capela,2,8,51,1,Alley Oop Layup shot,1,-8,12,True
+Clint Capela,1,6,46,1,Alley Oop Layup shot,1,2,16,True
+Clint Capela,1,9,30,1,Alley Oop Layup shot,0,-7,2,True
+Clint Capela,4,1,55,0,Alley Oop Layup shot,2,5,27,True
+Clint Capela,1,5,26,1,Alley Oop Layup shot,0,-3,2,True
+Clint Capela,4,4,37,0,Alley Oop Layup shot,4,-4,46,True
+Clint Capela,1,5,1,0,Alley Oop Layup shot,1,-4,16,True
+Clint Capela,2,4,35,1,Cutting Dunk Shot,0,7,-4,True
+Clint Capela,1,8,7,1,Cutting Dunk Shot,0,-2,9,True
+Clint Capela,1,7,50,1,Cutting Dunk Shot,0,2,-6,True
+Clint Capela,4,5,14,1,Cutting Dunk Shot,0,3,8,True
+Clint Capela,1,9,17,1,Cutting Dunk Shot,1,-13,15,True
+Clint Capela,2,5,1,1,Cutting Dunk Shot,0,3,8,True
+Clint Capela,4,2,23,1,Cutting Dunk Shot,0,5,6,True
+Clint Capela,4,3,32,1,Cutting Dunk Shot,2,10,18,True
+Clint Capela,1,11,41,1,Cutting Dunk Shot,0,-4,9,True
+Clint Capela,3,10,49,1,Cutting Dunk Shot,1,11,3,True
+Clint Capela,1,11,34,1,Cutting Dunk Shot,0,4,5,True
+Clint Capela,4,5,17,1,Cutting Dunk Shot,0,6,3,True
+Clint Capela,3,5,39,1,Cutting Dunk Shot,0,0,0,True
+Clint Capela,3,9,27,1,Cutting Dunk Shot,0,5,5,True
+Clint Capela,1,7,3,1,Cutting Dunk Shot,0,0,-4,True
+Clint Capela,2,0,39,1,Cutting Dunk Shot,0,-5,6,True
+Clint Capela,3,1,12,1,Cutting Dunk Shot,0,-1,6,True
+Clint Capela,1,10,37,1,Cutting Dunk Shot,2,-7,26,True
+Clint Capela,2,1,52,1,Cutting Dunk Shot,1,-12,13,True
+Clint Capela,1,4,29,1,Cutting Dunk Shot,2,-2,20,True
+Clint Capela,3,5,32,1,Cutting Dunk Shot,0,-4,3,True
+Clint Capela,4,9,42,1,Cutting Dunk Shot,0,5,6,True
+Clint Capela,1,5,41,1,Cutting Dunk Shot,2,-9,28,True
+Clint Capela,4,7,58,1,Cutting Dunk Shot,2,3,29,True
+Clint Capela,4,2,44,1,Cutting Dunk Shot,1,6,11,True
+Clint Capela,1,11,0,1,Cutting Dunk Shot,0,-1,-5,True
+Clint Capela,1,9,48,1,Cutting Dunk Shot,0,0,-2,True
+Clint Capela,2,5,34,1,Cutting Dunk Shot,1,8,17,True
+Clint Capela,4,2,21,1,Cutting Dunk Shot,1,-1,12,True
+Clint Capela,2,5,14,1,Cutting Dunk Shot,0,0,9,True
+Clint Capela,2,2,0,1,Cutting Dunk Shot,1,-2,16,True
+Clint Capela,4,6,55,1,Cutting Dunk Shot,1,8,13,True
+Clint Capela,2,5,43,1,Cutting Dunk Shot,1,-13,6,True
+Clint Capela,2,4,39,1,Cutting Dunk Shot,1,6,16,True
+Clint Capela,3,11,22,1,Cutting Dunk Shot,0,-2,-2,True
+Clint Capela,1,10,9,1,Cutting Dunk Shot,0,-4,5,True
+Clint Capela,3,7,50,1,Cutting Dunk Shot,0,-2,6,True
+Clint Capela,3,7,26,1,Cutting Dunk Shot,0,9,3,True
+Clint Capela,2,7,41,1,Cutting Dunk Shot,2,-12,16,True
+Clint Capela,2,10,6,1,Cutting Dunk Shot,0,-8,0,True
+Clint Capela,2,6,48,1,Cutting Dunk Shot,1,3,13,True
+Clint Capela,2,3,39,1,Cutting Dunk Shot,1,2,16,True
+Clint Capela,3,4,35,1,Cutting Dunk Shot,0,-6,6,True
+Clint Capela,1,11,6,1,Cutting Dunk Shot,1,9,10,True
+Clint Capela,2,4,11,1,Cutting Dunk Shot,0,2,-4,True
+Clint Capela,2,0,42,1,Cutting Dunk Shot,2,-3,21,True
+Clint Capela,4,5,49,1,Cutting Dunk Shot,1,1,16,True
+Clint Capela,2,7,20,1,Cutting Dunk Shot,1,-8,11,True
+Clint Capela,2,6,39,1,Cutting Dunk Shot,0,-5,7,True
+Clint Capela,2,4,53,1,Cutting Dunk Shot,1,-9,15,True
+Clint Capela,3,7,0,1,Cutting Dunk Shot,2,5,21,True
+Clint Capela,3,8,24,1,Cutting Dunk Shot,2,7,19,True
+Clint Capela,3,10,15,1,Cutting Dunk Shot,0,-2,0,True
+Clint Capela,3,4,44,1,Cutting Dunk Shot,2,8,20,True
+Clint Capela,4,3,35,1,Cutting Dunk Shot,0,0,9,True
+Clint Capela,2,1,5,1,Cutting Finger Roll Layup Shot,1,3,16,True
+Clint Capela,1,8,37,0,Cutting Finger Roll Layup Shot,1,-8,10,True
+Clint Capela,3,8,14,1,Cutting Finger Roll Layup Shot,0,-2,6,True
+Clint Capela,2,0,57,1,Cutting Finger Roll Layup Shot,1,-13,6,True
+Clint Capela,3,4,39,1,Cutting Finger Roll Layup Shot,0,-7,2,True
+Clint Capela,4,9,55,1,Cutting Layup Shot,1,5,10,True
+Clint Capela,3,8,15,0,Cutting Layup Shot,0,2,8,True
+Clint Capela,2,11,17,1,Cutting Layup Shot,1,-5,12,True
+Clint Capela,2,8,26,1,Cutting Layup Shot,1,-1,16,True
+Clint Capela,4,1,9,0,Cutting Layup Shot,1,-10,16,True
+Clint Capela,3,10,20,1,Cutting Layup Shot,0,1,5,True
+Clint Capela,3,8,38,1,Cutting Layup Shot,1,6,10,True
+Clint Capela,3,9,29,1,Cutting Layup Shot,1,7,15,True
+Clint Capela,2,5,17,1,Cutting Layup Shot,1,11,4,True
+Clint Capela,3,6,17,1,Cutting Layup Shot,2,20,4,True
+Clint Capela,3,3,54,0,Cutting Layup Shot,2,-3,22,True
+Clint Capela,1,9,34,0,Cutting Layup Shot,1,2,10,True
+Clint Capela,3,10,25,1,Cutting Layup Shot,2,9,19,True
+Clint Capela,3,4,45,0,Cutting Layup Shot,0,6,-5,True
+Clint Capela,1,5,11,0,Cutting Layup Shot,1,2,13,True
+Clint Capela,1,6,56,0,Cutting Layup Shot,2,12,20,True
+Clint Capela,3,7,10,1,Cutting Layup Shot,1,-18,1,True
+Clint Capela,4,10,0,1,Cutting Layup Shot,2,2,22,True
+Clint Capela,5,3,40,0,Cutting Layup Shot,0,3,8,True
+Clint Capela,4,10,23,0,Cutting Layup Shot,2,-15,20,True
+Clint Capela,3,8,50,1,Cutting Layup Shot,0,-1,8,True
+Clint Capela,2,7,16,1,Cutting Layup Shot,1,14,7,True
+Clint Capela,1,7,4,1,Cutting Layup Shot,2,6,26,True
+Clint Capela,1,9,44,1,Cutting Layup Shot,1,-11,11,True
+Clint Capela,1,8,34,0,Cutting Layup Shot,1,-7,11,True
+Clint Capela,3,10,4,1,Cutting Layup Shot,0,-8,5,True
+Clint Capela,2,8,26,0,Cutting Layup Shot,0,-2,5,True
+Clint Capela,4,7,13,1,Cutting Layup Shot,2,16,16,True
+Clint Capela,1,10,58,0,Cutting Layup Shot,5,3,50,True
+Clint Capela,4,2,4,1,Cutting Layup Shot,1,-3,17,True
+Clint Capela,1,7,19,1,Cutting Layup Shot,1,-7,16,True
+Clint Capela,1,5,48,0,Cutting Layup Shot,3,-24,21,True
+Clint Capela,3,6,11,0,Cutting Layup Shot,3,-38,6,True
+Clint Capela,3,10,9,1,Cutting Layup Shot,1,-11,5,True
+Clint Capela,1,6,5,1,Cutting Layup Shot,1,0,11,True
+Clint Capela,2,8,57,0,Cutting Layup Shot,0,-3,5,True
+Clint Capela,1,5,39,1,Cutting Layup Shot,3,4,32,True
+Clint Capela,1,8,11,1,Cutting Layup Shot,4,-3,41,True
+Clint Capela,2,4,29,1,Cutting Layup Shot,2,-19,10,True
+Clint Capela,1,11,20,1,Cutting Layup Shot,1,-8,8,True
+Clint Capela,3,9,13,1,Cutting Layup Shot,1,6,11,True
+Clint Capela,1,10,27,1,Cutting Layup Shot,1,-4,14,True
+Clint Capela,3,8,52,1,Cutting Layup Shot,1,-4,16,True
+Clint Capela,3,6,25,1,Cutting Layup Shot,2,22,-6,True
+Clint Capela,2,2,33,0,Cutting Layup Shot,1,-16,10,True
+Clint Capela,2,6,19,0,Cutting Layup Shot,0,0,5,True
+Clint Capela,2,8,39,1,Cutting Layup Shot,1,7,14,True
+Clint Capela,1,9,53,1,Cutting Layup Shot,0,-5,5,True
+Clint Capela,2,5,6,1,Cutting Layup Shot,0,9,1,True
+Clint Capela,3,7,12,0,Cutting Layup Shot,1,-10,9,True
+Clint Capela,1,6,10,0,Cutting Layup Shot,2,4,20,True
+Clint Capela,1,6,34,1,Cutting Layup Shot,3,-8,32,True
+Clint Capela,1,8,11,1,Cutting Layup Shot,2,19,11,True
+Clint Capela,4,5,44,0,Cutting Layup Shot,2,3,26,True
+Clint Capela,1,11,37,1,Cutting Layup Shot,1,3,13,True
+Clint Capela,4,9,36,0,Cutting Layup Shot,2,9,19,True
+Clint Capela,4,11,47,1,Cutting Layup Shot,12,-4,127,True
+Clint Capela,3,10,50,1,Cutting Layup Shot,0,0,8,True
+Clint Capela,2,8,44,1,Cutting Layup Shot,0,4,8,True
+Clint Capela,4,8,32,1,Cutting Layup Shot,2,-2,21,True
+Clint Capela,1,9,18,0,Cutting Layup Shot,1,-5,18,True
+Clint Capela,3,10,44,1,Cutting Layup Shot,1,10,11,True
+Clint Capela,1,9,28,0,Cutting Layup Shot,3,28,27,True
+Clint Capela,2,10,48,0,Cutting Layup Shot,2,-8,21,True
+Clint Capela,3,9,56,1,Cutting Layup Shot,2,20,15,True
+Clint Capela,2,8,55,1,Cutting Layup Shot,3,19,25,True
+Clint Capela,2,11,46,0,Cutting Layup Shot,3,4,31,True
+Clint Capela,4,1,47,1,Cutting Layup Shot,1,-10,4,True
+Clint Capela,2,7,34,0,Driving Bank Hook Shot,8,86,22,True
+Clint Capela,1,8,37,1,Driving Bank Hook Shot,3,26,23,True
+Clint Capela,4,7,27,0,Driving Dunk Shot,1,3,17,True
+Clint Capela,2,9,47,0,Driving Dunk Shot,6,-57,39,True
+Clint Capela,3,10,35,0,Driving Dunk Shot,0,3,6,True
+Clint Capela,1,9,32,1,Driving Finger Roll Layup Shot,4,35,27,True
+Clint Capela,1,5,21,1,Driving Finger Roll Layup Shot,1,12,10,True
+Clint Capela,2,9,2,1,Driving Finger Roll Layup Shot,2,0,24,True
+Clint Capela,4,5,26,0,Driving Floating Bank Jump Shot,6,-58,32,True
+Clint Capela,1,7,51,1,Driving Floating Jump Shot,4,-6,45,True
+Clint Capela,4,4,39,1,Driving Floating Jump Shot,3,-4,35,True
+Clint Capela,4,9,12,1,Driving Floating Jump Shot,5,2,52,True
+Clint Capela,2,7,18,1,Driving Hook Shot,2,4,22,True
+Clint Capela,1,7,36,0,Driving Hook Shot,9,-2,90,True
+Clint Capela,4,11,9,1,Driving Hook Shot,4,2,41,True
+Clint Capela,3,8,44,1,Driving Hook Shot,4,9,43,True
+Clint Capela,2,7,16,0,Driving Hook Shot,4,-25,42,True
+Clint Capela,2,1,55,0,Driving Hook Shot,5,-5,59,True
+Clint Capela,2,5,50,0,Driving Hook Shot,3,2,39,True
+Clint Capela,3,10,31,1,Driving Hook Shot,5,-13,57,True
+Clint Capela,3,10,34,0,Driving Layup Shot,1,-14,7,True
+Clint Capela,2,6,18,1,Driving Layup Shot,0,-5,7,True
+Clint Capela,1,4,44,0,Driving Layup Shot,2,-16,23,True
+Clint Capela,2,3,45,1,Driving Layup Shot,1,-16,6,True
+Clint Capela,1,10,0,0,Driving Layup Shot,7,-38,59,True
+Clint Capela,1,7,24,1,Driving Layup Shot,1,-2,12,True
+Clint Capela,1,10,39,0,Driving Layup Shot,2,-29,6,True
+Clint Capela,3,10,3,0,Driving Layup Shot,3,-22,30,True
+Clint Capela,2,5,0,1,Driving Layup Shot,1,-11,11,True
+Clint Capela,4,5,15,1,Driving Layup Shot,0,-6,5,True
+Clint Capela,1,4,59,0,Driving Layup Shot,2,-14,19,True
+Clint Capela,4,3,5,1,Driving Layup Shot,0,4,4,True
+Clint Capela,3,8,9,1,Driving Layup Shot,14,47,140,True
+Clint Capela,4,7,35,0,Driving Layup Shot,4,-18,42,True
+Clint Capela,2,3,21,1,Driving Layup Shot,5,-39,36,True
+Clint Capela,3,11,46,1,Dunk Shot,1,11,13,True
+Clint Capela,1,5,7,1,Dunk Shot,1,2,16,True
+Clint Capela,2,8,43,1,Dunk Shot,0,-6,6,True
+Clint Capela,1,11,28,1,Dunk Shot,1,1,19,True
+Clint Capela,1,8,28,0,Dunk Shot,0,-6,3,True
+Clint Capela,3,10,14,0,Dunk Shot,2,-3,23,True
+Clint Capela,3,7,9,1,Dunk Shot,1,3,11,True
+Clint Capela,4,0,25,1,Dunk Shot,1,-5,11,True
+Clint Capela,3,11,42,1,Dunk Shot,0,1,4,True
+Clint Capela,4,4,1,1,Dunk Shot,1,-5,11,True
+Clint Capela,4,5,7,1,Dunk Shot,0,-4,6,True
+Clint Capela,3,7,0,1,Dunk Shot,1,-5,11,True
+Clint Capela,2,5,27,1,Dunk Shot,0,0,1,True
+Clint Capela,3,5,11,1,Dunk Shot,1,-4,15,True
+Clint Capela,2,5,59,0,Dunk Shot,0,-3,-4,True
+Clint Capela,1,10,4,0,Dunk Shot,1,-5,17,True
+Clint Capela,1,6,4,1,Dunk Shot,0,-7,2,True
+Clint Capela,2,9,10,1,Dunk Shot,0,0,1,True
+Clint Capela,4,8,26,1,Dunk Shot,0,-5,7,True
+Clint Capela,4,8,35,1,Dunk Shot,1,0,15,True
+Clint Capela,4,6,21,1,Dunk Shot,0,-6,7,True
+Clint Capela,1,5,48,1,Dunk Shot,1,10,8,True
+Clint Capela,3,5,30,1,Dunk Shot,1,13,8,True
+Clint Capela,3,7,40,1,Dunk Shot,0,0,5,True
+Clint Capela,2,4,50,1,Dunk Shot,1,-8,7,True
+Clint Capela,2,6,47,1,Dunk Shot,0,1,8,True
+Clint Capela,3,10,15,1,Dunk Shot,0,3,7,True
+Clint Capela,2,2,10,1,Dunk Shot,0,0,-1,True
+Clint Capela,4,0,18,1,Dunk Shot,1,1,13,True
+Clint Capela,1,8,50,1,Dunk Shot,0,-4,4,True
+Clint Capela,3,11,35,0,Dunk Shot,2,20,5,True
+Clint Capela,2,8,53,1,Dunk Shot,0,2,8,True
+Clint Capela,2,8,57,1,Dunk Shot,1,-8,6,True
+Clint Capela,4,0,25,1,Dunk Shot,1,-2,11,True
+Clint Capela,2,6,41,1,Dunk Shot,0,-3,6,True
+Clint Capela,2,0,58,0,Dunk Shot,0,-5,6,True
+Clint Capela,2,2,58,1,Dunk Shot,2,-11,21,True
+Clint Capela,2,4,12,1,Dunk Shot,1,-6,10,True
+Clint Capela,1,7,32,1,Dunk Shot,0,-6,7,True
+Clint Capela,1,10,17,0,Fadeaway Jump Shot,15,-152,-13,True
+Clint Capela,3,5,15,1,Finger Roll Layup Shot,2,-2,21,True
+Clint Capela,1,10,2,1,Finger Roll Layup Shot,1,6,14,True
+Clint Capela,1,8,12,0,Finger Roll Layup Shot,0,-5,8,True
+Clint Capela,1,6,49,0,Floating Jump shot,3,27,14,True
+Clint Capela,1,4,22,0,Floating Jump shot,6,3,68,True
+Clint Capela,4,5,27,1,Hook Bank Shot,5,8,58,True
+Clint Capela,2,1,49,0,Hook Shot,3,1,30,True
+Clint Capela,4,4,28,0,Hook Shot,3,11,38,True
+Clint Capela,2,9,25,1,Hook Shot,5,-15,55,True
+Clint Capela,2,2,57,0,Hook Shot,4,9,40,True
+Clint Capela,3,6,5,1,Hook Shot,3,-4,36,True
+Clint Capela,1,10,24,0,Hook Shot,8,-83,22,True
+Clint Capela,1,8,30,1,Hook Shot,6,-12,60,True
+Clint Capela,4,9,49,0,Hook Shot,7,0,72,True
+Clint Capela,1,5,58,1,Hook Shot,4,3,44,True
+Clint Capela,2,5,2,1,Hook Shot,6,-2,65,True
+Clint Capela,3,6,17,0,Hook Shot,6,62,23,True
+Clint Capela,2,8,0,0,Hook Shot,5,57,16,True
+Clint Capela,1,11,38,1,Hook Shot,1,15,4,True
+Clint Capela,2,3,53,1,Hook Shot,3,9,35,True
+Clint Capela,3,10,38,1,Hook Shot,5,21,47,True
+Clint Capela,3,8,38,0,Hook Shot,7,6,74,True
+Clint Capela,3,1,37,0,Hook Shot,3,1,32,True
+Clint Capela,3,6,16,0,Hook Shot,5,-3,57,True
+Clint Capela,1,3,32,1,Hook Shot,3,3,38,True
+Clint Capela,4,0,3,0,Hook Shot,4,-6,45,True
+Clint Capela,2,5,4,0,Hook Shot,5,-35,38,True
+Clint Capela,1,5,47,0,Hook Shot,2,2,29,True
+Clint Capela,3,11,41,0,Hook Shot,7,70,5,True
+Clint Capela,4,6,35,1,Hook Shot,4,13,47,True
+Clint Capela,2,5,2,0,Hook Shot,3,35,9,True
+Clint Capela,3,10,14,1,Hook Shot,1,-16,10,True
+Clint Capela,2,6,10,1,Hook Shot,1,-11,16,True
+Clint Capela,1,7,36,1,Hook Shot,3,-19,29,True
+Clint Capela,2,0,29,0,Hook Shot,5,-30,41,True
+Clint Capela,3,11,0,0,Hook Shot,6,-8,65,True
+Clint Capela,3,9,4,0,Hook Shot,5,-51,12,True
+Clint Capela,3,7,30,1,Hook Shot,3,0,38,True
+Clint Capela,1,10,2,0,Hook Shot,8,0,88,True
+Clint Capela,3,10,23,0,Hook Shot,6,-58,24,True
+Clint Capela,1,11,44,0,Hook Shot,7,32,64,True
+Clint Capela,1,7,13,1,Hook Shot,4,29,29,True
+Clint Capela,2,9,4,0,Hook Shot,4,4,47,True
+Clint Capela,3,9,25,0,Hook Shot,6,11,69,True
+Clint Capela,2,2,33,1,Hook Shot,7,0,77,True
+Clint Capela,2,1,12,1,Hook Shot,10,14,102,True
+Clint Capela,2,6,43,0,Hook Shot,7,72,26,True
+Clint Capela,2,1,31,1,Hook Shot,2,20,5,True
+Clint Capela,2,5,38,0,Hook Shot,6,14,61,True
+Clint Capela,3,9,22,0,Hook Shot,8,81,32,True
+Clint Capela,1,11,9,0,Hook Shot,1,2,11,True
+Clint Capela,3,9,23,1,Hook Shot,5,-13,53,True
+Clint Capela,1,4,50,0,Jump Shot,6,-30,54,True
+Clint Capela,4,0,9,0,Jump Shot,15,-8,153,True
+Clint Capela,1,10,57,0,Jump Shot,3,-34,21,True
+Clint Capela,3,5,43,1,Jump Shot,5,-1,53,True
+Clint Capela,4,8,17,1,Jump Shot,15,-24,151,True
+Clint Capela,1,11,1,0,Jump Shot,5,11,52,True
+Clint Capela,3,7,30,1,Jump Shot,5,26,44,True
+Clint Capela,1,10,20,0,Layup Shot,2,2,21,True
+Clint Capela,4,3,40,1,Layup Shot,2,23,14,True
+Clint Capela,1,4,42,0,Layup Shot,0,-8,-1,True
+Clint Capela,1,8,29,1,Layup Shot,0,0,-6,True
+Clint Capela,3,9,5,1,Layup Shot,2,-16,13,True
+Clint Capela,2,4,50,1,Layup Shot,2,24,11,True
+Clint Capela,1,8,3,0,Layup Shot,1,-14,6,True
+Clint Capela,2,4,54,1,Layup Shot,1,-4,19,True
+Clint Capela,2,2,59,0,Layup Shot,3,10,32,True
+Clint Capela,1,8,39,0,Layup Shot,3,-23,27,True
+Clint Capela,2,8,58,0,Layup Shot,0,-2,8,True
+Clint Capela,2,8,13,0,Layup Shot,2,13,16,True
+Clint Capela,1,9,56,0,Layup Shot,2,4,28,True
+Clint Capela,3,7,46,0,Layup Shot,3,2,36,True
+Clint Capela,3,10,2,0,Layup Shot,2,11,27,True
+Clint Capela,3,9,52,1,Layup Shot,1,13,5,True
+Clint Capela,2,6,6,0,Layup Shot,2,-14,23,True
+Clint Capela,3,9,42,1,Layup Shot,1,13,9,True
+Clint Capela,1,4,11,1,Layup Shot,2,-23,8,True
+Clint Capela,4,8,31,0,Layup Shot,4,-3,41,True
+Clint Capela,2,11,16,0,Layup Shot,3,0,31,True
+Clint Capela,3,11,11,0,Layup Shot,6,-2,69,True
+Clint Capela,3,9,7,0,Layup Shot,0,-2,4,True
+Clint Capela,1,5,38,1,Layup Shot,2,5,26,True
+Clint Capela,1,8,45,1,Layup Shot,1,-16,7,True
+Clint Capela,2,1,39,0,Layup Shot,0,-5,0,True
+Clint Capela,3,9,54,1,Layup Shot,1,-2,16,True
+Clint Capela,1,10,8,0,Layup Shot,0,-7,4,True
+Clint Capela,3,10,36,0,Layup Shot,2,1,20,True
+Clint Capela,4,6,28,0,Layup Shot,2,16,23,True
+Clint Capela,2,4,19,1,Layup Shot,2,-11,26,True
+Clint Capela,1,6,45,0,Layup Shot,2,18,13,True
+Clint Capela,1,11,12,0,Layup Shot,1,18,0,True
+Clint Capela,2,4,30,1,Layup Shot,3,5,34,True
+Clint Capela,4,7,28,1,Layup Shot,2,-24,6,True
+Clint Capela,4,7,34,0,Layup Shot,3,8,35,True
+Clint Capela,3,8,54,0,Layup Shot,3,30,26,True
+Clint Capela,2,6,40,1,Layup Shot,1,9,7,True
+Clint Capela,3,11,9,1,Layup Shot,1,-3,17,True
+Clint Capela,1,6,12,1,Layup Shot,1,-4,15,True
+Clint Capela,3,11,17,0,Layup Shot,1,1,15,True
+Clint Capela,1,8,11,0,Layup Shot,3,-1,33,True
+Clint Capela,2,5,38,0,Layup Shot,3,0,31,True
+Clint Capela,3,11,27,1,Layup Shot,2,-7,22,True
+Clint Capela,3,8,5,1,Layup Shot,2,-20,15,True
+Clint Capela,1,7,7,0,Layup Shot,0,4,7,True
+Clint Capela,4,6,6,1,Layup Shot,2,4,20,True
+Clint Capela,3,8,50,1,Layup Shot,0,-2,-6,True
+Clint Capela,1,4,12,0,Layup Shot,0,5,5,True
+Clint Capela,3,9,12,0,Layup Shot,1,-8,7,True
+Clint Capela,4,11,15,1,Layup Shot,2,-4,20,True
+Clint Capela,4,6,25,0,Layup Shot,1,-5,19,True
+Clint Capela,2,7,17,1,Layup Shot,1,-9,10,True
+Clint Capela,1,10,18,0,Layup Shot,3,4,34,True
+Clint Capela,3,8,10,0,Layup Shot,0,-2,7,True
+Clint Capela,1,11,26,0,Layup Shot,1,-8,14,True
+Clint Capela,4,7,31,0,Layup Shot,2,-13,17,True
+Clint Capela,3,7,26,1,Layup Shot,1,-8,13,True
+Clint Capela,2,6,1,1,Layup Shot,0,2,8,True
+Clint Capela,1,6,40,0,Layup Shot,2,24,11,True
+Clint Capela,2,6,10,0,Layup Shot,3,-16,27,True
+Clint Capela,2,7,41,1,Layup Shot,2,1,26,True
+Clint Capela,1,5,47,1,Layup Shot,1,5,10,True
+Clint Capela,2,10,27,0,Layup Shot,2,19,7,True
+Clint Capela,2,10,8,1,Layup Shot,1,3,13,True
+Clint Capela,3,10,22,1,Layup Shot,1,0,17,True
+Clint Capela,2,11,44,0,Layup Shot,1,-6,11,True
+Clint Capela,3,6,55,0,Layup Shot,2,25,14,True
+Clint Capela,3,2,33,0,Layup Shot,0,3,5,True
+Clint Capela,1,6,54,0,Layup Shot,1,-18,0,True
+Clint Capela,1,8,21,0,Layup Shot,1,0,18,True
+Clint Capela,4,6,38,0,Layup Shot,3,11,30,True
+Clint Capela,4,7,45,1,Layup Shot,2,2,22,True
+Clint Capela,4,7,40,0,Layup Shot,1,-8,11,True
+Clint Capela,2,8,16,1,Layup Shot,1,-2,13,True
+Clint Capela,3,2,35,1,Layup Shot,1,7,9,True
+Clint Capela,4,6,9,1,Layup Shot,0,-6,7,True
+Clint Capela,4,7,39,0,Layup Shot,2,16,15,True
+Clint Capela,2,6,57,1,Layup Shot,2,4,25,True
+Clint Capela,1,10,2,0,Layup Shot,1,-5,15,True
+Clint Capela,3,11,30,0,Layup Shot,1,-9,13,True
+Clint Capela,1,7,47,0,Layup Shot,2,17,14,True
+Clint Capela,3,7,1,1,Layup Shot,1,-8,6,True
+Clint Capela,3,8,17,0,Layup Shot,1,-5,13,True
+Clint Capela,4,4,43,1,Layup Shot,0,-7,6,True
+Clint Capela,3,7,0,0,Layup Shot,2,3,23,True
+Clint Capela,1,10,22,1,Layup Shot,1,7,8,True
+Clint Capela,4,6,53,0,Layup Shot,0,3,8,True
+Clint Capela,3,7,45,0,Layup Shot,0,3,8,True
+Clint Capela,3,9,7,1,Layup Shot,1,-18,7,True
+Clint Capela,4,7,10,1,Layup Shot,1,11,16,True
+Clint Capela,4,6,35,0,Layup Shot,3,25,17,True
+Clint Capela,3,9,28,0,Layup Shot,4,-15,47,True
+Clint Capela,2,6,20,1,Putback Dunk Shot,1,4,16,True
+Clint Capela,4,10,17,1,Putback Dunk Shot,1,3,14,True
+Clint Capela,4,3,45,1,Putback Dunk Shot,0,0,-6,True
+Clint Capela,4,8,0,1,Putback Dunk Shot,0,0,-6,True
+Clint Capela,3,6,25,1,Putback Dunk Shot,0,0,-6,True
+Clint Capela,4,4,54,0,Putback Dunk Shot,0,0,-6,True
+Clint Capela,4,0,10,1,Putback Layup Shot,1,-8,9,True
+Clint Capela,1,9,14,1,Putback Layup Shot,0,0,-6,True
+Clint Capela,2,4,17,1,Putback Layup Shot,0,0,-6,True
+Clint Capela,3,8,1,1,Putback Layup Shot,2,11,20,True
+Clint Capela,2,4,0,1,Putback Layup Shot,1,-8,10,True
+Clint Capela,2,0,41,1,Putback Layup Shot,0,0,-6,True
+Clint Capela,3,7,40,1,Putback Layup Shot,0,2,5,True
+Clint Capela,1,4,58,0,Putback Layup Shot,1,-13,5,True
+Clint Capela,1,5,31,1,Putback Layup Shot,0,0,-6,True
+Clint Capela,3,7,28,1,Putback Layup Shot,3,0,31,True
+Clint Capela,3,11,12,1,Reverse Dunk Shot,1,0,16,True
+Clint Capela,2,10,39,1,Reverse Dunk Shot,1,-2,10,True
+Clint Capela,2,7,17,0,Reverse Layup Shot,1,16,7,True
+Clint Capela,2,3,52,1,Reverse Layup Shot,1,7,14,True
+Clint Capela,1,9,37,0,Reverse Layup Shot,2,-24,11,True
+Clint Capela,4,9,34,1,Reverse Layup Shot,1,3,17,True
+Clint Capela,3,7,33,1,Reverse Layup Shot,1,-17,2,True
+Clint Capela,4,3,38,0,Reverse Layup Shot,2,20,4,True
+Clint Capela,2,2,40,1,Reverse Layup Shot,1,-16,-4,True
+Clint Capela,3,1,20,1,Reverse Layup Shot,1,-18,2,True
+Clint Capela,2,8,7,0,Reverse Layup Shot,0,5,7,True
+Clint Capela,3,9,15,1,Reverse Layup Shot,1,6,9,True
+Clint Capela,1,8,10,0,Reverse Layup Shot,0,0,-6,True
+Clint Capela,3,4,6,1,Running Alley Oop Dunk Shot,1,7,14,True
+Clint Capela,2,0,43,1,Running Alley Oop Dunk Shot,1,-2,17,True
+Clint Capela,4,4,47,1,Running Dunk Shot,2,-9,27,True
+Clint Capela,4,8,32,1,Running Dunk Shot,2,6,20,True
+Clint Capela,3,8,11,1,Running Dunk Shot,1,-2,16,True
+Clint Capela,4,4,12,1,Running Dunk Shot,0,2,5,True
+Clint Capela,3,5,30,1,Running Dunk Shot,1,5,11,True
+Clint Capela,1,5,59,1,Running Jump Shot,8,-3,88,True
+Clint Capela,2,1,41,1,Running Layup Shot,3,-34,-13,True
+Clint Capela,3,8,40,1,Running Layup Shot,1,8,13,True
+Clint Capela,2,8,28,1,Tip Dunk Shot,0,0,-6,True
+Clint Capela,2,9,43,0,Tip Layup Shot,0,0,-6,True
+Clint Capela,2,4,17,0,Tip Layup Shot,2,1,21,True
+Clint Capela,1,4,57,1,Tip Layup Shot,0,0,-6,True
+Clint Capela,2,0,26,0,Tip Layup Shot,0,-5,-1,True
+Clint Capela,1,10,32,1,Tip Layup Shot,0,0,-6,True
+Clint Capela,1,4,56,0,Tip Layup Shot,0,0,-6,True
+Clint Capela,2,11,40,1,Tip Layup Shot,0,0,-6,True
+Clint Capela,2,7,8,1,Tip Layup Shot,0,0,-6,True
+Clint Capela,4,5,28,0,Tip Layup Shot,0,4,7,True
+Clint Capela,4,3,13,0,Tip Layup Shot,0,0,-6,True
+Clint Capela,3,8,11,1,Tip Layup Shot,0,0,-6,True
+Clint Capela,2,6,1,0,Tip Layup Shot,1,14,6,True
+Clint Capela,4,4,5,0,Tip Layup Shot,0,7,2,True
+Clint Capela,4,9,41,1,Tip Layup Shot,0,0,-6,True
+Clint Capela,2,5,7,1,Tip Layup Shot,0,0,-6,True
+Clint Capela,1,8,24,0,Tip Layup Shot,0,0,-6,True
+Clint Capela,4,3,31,1,Tip Layup Shot,0,0,-6,True
+Clint Capela,1,5,53,1,Tip Layup Shot,0,0,-6,True
+Clint Capela,2,0,0,1,Tip Layup Shot,0,0,-6,True
+Clint Capela,3,9,4,0,Tip Layup Shot,0,0,-6,True
+Clint Capela,3,5,16,1,Tip Layup Shot,0,0,-6,True
+Clint Capela,1,11,38,0,Tip Layup Shot,2,-14,18,True
+Clint Capela,1,5,44,0,Tip Layup Shot,0,0,-6,True
+Clint Capela,4,4,23,1,Tip Layup Shot,0,0,-6,True
+Clint Capela,2,2,40,1,Tip Layup Shot,0,0,-6,True
+Clint Capela,4,6,39,1,Tip Layup Shot,0,0,-6,True
+Clint Capela,1,8,14,0,Tip Layup Shot,0,0,-6,True
+Clint Capela,1,5,3,1,Tip Layup Shot,0,0,-6,True
+Clint Capela,1,11,33,0,Tip Layup Shot,0,0,-6,True
+Clint Capela,4,1,55,0,Tip Layup Shot,0,0,-6,True
+Clint Capela,3,11,41,0,Tip Layup Shot,1,-6,17,True
+Clint Capela,2,7,18,0,Tip Layup Shot,0,0,-6,True
+Clint Capela,2,6,0,1,Tip Layup Shot,1,11,8,True
+Clint Capela,1,10,51,0,Tip Layup Shot,0,3,1,True
+Clint Capela,4,6,23,1,Tip Layup Shot,0,0,-6,True
+Clint Capela,3,9,56,0,Turnaround Fadeaway shot,12,54,109,True
+Clint Capela,2,4,59,1,Turnaround Hook Shot,10,-89,47,True
+Clint Capela,4,8,10,0,Turnaround Hook Shot,9,-92,-4,True
+Clint Capela,1,8,32,1,Turnaround Hook Shot,2,16,20,True
+Clint Capela,1,10,47,1,Turnaround Hook Shot,7,-11,74,True
+Clint Capela,4,6,39,1,Turnaround Hook Shot,5,53,10,True
+Clint Capela,3,7,26,1,Turnaround Hook Shot,5,2,51,True
+Clint Capela,1,11,39,1,Turnaround Hook Shot,3,35,3,True
+Clint Capela,3,4,49,0,Turnaround Hook Shot,5,2,58,True
+Clint Capela,3,11,41,0,Turnaround Hook Shot,2,-24,8,True
+Clint Capela,1,11,30,1,Turnaround Hook Shot,5,28,46,True
+Clint Capela,2,3,47,0,Turnaround Hook Shot,8,-82,25,True
+Clint Capela,1,10,46,0,Turnaround Hook Shot,8,71,47,True
+Clint Capela,2,6,38,1,Turnaround Hook Shot,1,8,15,True
+Clint Capela,4,5,38,0,Turnaround Hook Shot,5,-52,20,True
+Clint Capela,4,4,37,0,Turnaround Hook Shot,2,21,13,True
+Clint Capela,3,10,46,1,Turnaround Hook Shot,7,13,78,True

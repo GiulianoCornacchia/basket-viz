@@ -1,0 +1,210 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Tyler Ennis,3,8,22,0,Cutting Layup Shot,1,-10,14,True
+Tyler Ennis,4,7,6,1,Cutting Layup Shot,2,14,17,True
+Tyler Ennis,2,9,31,0,Cutting Layup Shot,2,-14,19,True
+Tyler Ennis,4,1,21,1,Cutting Layup Shot,2,-3,24,True
+Tyler Ennis,1,0,44,1,Driving Bank Hook Shot,3,-26,15,True
+Tyler Ennis,4,4,26,1,Driving Bank Hook Shot,7,45,55,True
+Tyler Ennis,2,5,32,0,Driving Finger Roll Layup Shot,2,-7,28,True
+Tyler Ennis,2,8,26,1,Driving Finger Roll Layup Shot,3,4,37,True
+Tyler Ennis,3,4,24,0,Driving Finger Roll Layup Shot,2,11,22,True
+Tyler Ennis,2,5,14,1,Driving Finger Roll Layup Shot,0,2,5,True
+Tyler Ennis,1,3,30,1,Driving Finger Roll Layup Shot,4,-9,41,True
+Tyler Ennis,1,0,20,0,Driving Finger Roll Layup Shot,2,-8,19,True
+Tyler Ennis,4,0,32,1,Driving Finger Roll Layup Shot,2,-14,25,True
+Tyler Ennis,2,8,40,1,Driving Floating Jump Shot,9,39,82,True
+Tyler Ennis,4,10,13,1,Driving Floating Jump Shot,9,3,95,True
+Tyler Ennis,4,4,20,0,Driving Floating Jump Shot,11,-91,66,True
+Tyler Ennis,1,0,7,1,Driving Floating Jump Shot,2,-25,12,True
+Tyler Ennis,4,0,32,0,Driving Floating Jump Shot,9,-30,95,True
+Tyler Ennis,4,7,58,1,Driving Floating Jump Shot,16,95,130,True
+Tyler Ennis,1,1,23,1,Driving Floating Jump Shot,7,30,73,True
+Tyler Ennis,3,4,54,0,Driving Floating Jump Shot,8,33,73,True
+Tyler Ennis,1,1,57,0,Driving Floating Jump Shot,15,-73,134,True
+Tyler Ennis,1,3,36,1,Driving Hook Shot,3,8,34,True
+Tyler Ennis,4,8,41,0,Driving Hook Shot,2,-6,27,True
+Tyler Ennis,2,11,41,0,Driving Hook Shot,4,47,9,True
+Tyler Ennis,2,5,9,1,Driving Hook Shot,4,11,41,True
+Tyler Ennis,4,8,9,0,Driving Hook Shot,3,35,14,True
+Tyler Ennis,1,0,33,0,Driving Hook Shot,5,-3,54,True
+Tyler Ennis,4,4,55,1,Driving Hook Shot,3,2,38,True
+Tyler Ennis,3,2,1,0,Driving Hook Shot,7,-6,74,True
+Tyler Ennis,2,2,28,0,Driving Layup Shot,2,11,23,True
+Tyler Ennis,4,11,18,0,Driving Layup Shot,3,-18,27,True
+Tyler Ennis,2,10,3,0,Driving Layup Shot,1,16,10,True
+Tyler Ennis,3,9,5,1,Driving Layup Shot,0,2,6,True
+Tyler Ennis,3,9,59,1,Driving Layup Shot,2,2,20,True
+Tyler Ennis,3,9,38,0,Driving Layup Shot,3,-25,31,True
+Tyler Ennis,2,8,53,0,Driving Layup Shot,2,14,22,True
+Tyler Ennis,2,8,5,1,Driving Layup Shot,2,-8,24,True
+Tyler Ennis,4,0,43,1,Driving Layup Shot,3,29,13,True
+Tyler Ennis,4,9,55,0,Driving Layup Shot,3,25,21,True
+Tyler Ennis,4,10,53,0,Driving Layup Shot,2,-25,10,True
+Tyler Ennis,5,3,31,0,Driving Layup Shot,1,3,11,True
+Tyler Ennis,3,2,21,1,Driving Layup Shot,4,-33,34,True
+Tyler Ennis,4,9,11,0,Driving Layup Shot,2,-18,21,True
+Tyler Ennis,4,8,50,1,Driving Layup Shot,2,-1,25,True
+Tyler Ennis,4,7,54,0,Driving Layup Shot,1,2,13,True
+Tyler Ennis,4,8,45,0,Driving Layup Shot,1,10,4,True
+Tyler Ennis,2,11,14,0,Driving Layup Shot,4,-43,13,True
+Tyler Ennis,2,10,52,1,Driving Layup Shot,1,9,10,True
+Tyler Ennis,1,9,29,1,Driving Layup Shot,0,2,-1,True
+Tyler Ennis,4,2,42,1,Driving Layup Shot,2,2,29,True
+Tyler Ennis,1,2,38,0,Driving Layup Shot,0,-5,8,True
+Tyler Ennis,3,0,44,0,Driving Layup Shot,5,15,53,True
+Tyler Ennis,3,0,36,0,Driving Layup Shot,2,-27,7,True
+Tyler Ennis,2,6,18,0,Driving Layup Shot,2,3,29,True
+Tyler Ennis,4,3,48,0,Driving Layup Shot,1,-19,5,True
+Tyler Ennis,3,10,12,0,Driving Layup Shot,1,-10,11,True
+Tyler Ennis,2,10,14,1,Driving Layup Shot,2,6,24,True
+Tyler Ennis,3,10,11,0,Driving Layup Shot,2,-3,27,True
+Tyler Ennis,3,9,34,1,Driving Layup Shot,0,0,0,True
+Tyler Ennis,3,4,36,1,Driving Layup Shot,1,16,8,True
+Tyler Ennis,2,0,37,0,Driving Layup Shot,5,-46,20,True
+Tyler Ennis,3,2,3,1,Driving Layup Shot,2,-3,27,True
+Tyler Ennis,2,9,48,1,Driving Layup Shot,1,16,7,True
+Tyler Ennis,2,10,9,1,Driving Layup Shot,0,2,5,True
+Tyler Ennis,4,8,25,0,Driving Layup Shot,3,20,28,True
+Tyler Ennis,3,7,25,0,Driving Layup Shot,2,-17,16,True
+Tyler Ennis,4,9,35,0,Driving Layup Shot,1,2,10,True
+Tyler Ennis,6,4,7,1,Driving Layup Shot,1,-6,17,True
+Tyler Ennis,3,1,12,0,Driving Layup Shot,2,-6,20,True
+Tyler Ennis,4,0,9,1,Driving Layup Shot,1,4,10,True
+Tyler Ennis,3,0,14,1,Driving Reverse Layup Shot,2,-13,17,True
+Tyler Ennis,4,11,13,0,Driving Reverse Layup Shot,2,11,17,True
+Tyler Ennis,2,4,22,1,Driving Reverse Layup Shot,1,-13,0,True
+Tyler Ennis,6,2,23,1,Driving Reverse Layup Shot,1,0,17,True
+Tyler Ennis,3,2,40,1,Driving Reverse Layup Shot,1,-11,8,True
+Tyler Ennis,1,8,25,1,Driving Reverse Layup Shot,1,1,17,True
+Tyler Ennis,4,4,14,0,Driving Reverse Layup Shot,3,-24,24,True
+Tyler Ennis,1,10,55,1,Driving Reverse Layup Shot,2,0,29,True
+Tyler Ennis,2,8,24,0,Driving Reverse Layup Shot,1,16,4,True
+Tyler Ennis,3,9,9,0,Driving Reverse Layup Shot,1,-13,1,True
+Tyler Ennis,1,9,1,0,Floating Jump shot,3,13,30,True
+Tyler Ennis,2,6,33,0,Floating Jump shot,9,75,55,True
+Tyler Ennis,4,7,42,0,Floating Jump shot,3,-14,33,True
+Tyler Ennis,2,0,4,0,Floating Jump shot,3,-5,34,True
+Tyler Ennis,4,9,53,0,Floating Jump shot,6,43,50,True
+Tyler Ennis,4,10,41,0,Floating Jump shot,10,83,62,True
+Tyler Ennis,2,10,40,0,Floating Jump shot,5,-22,49,True
+Tyler Ennis,2,9,46,0,Floating Jump shot,5,13,57,True
+Tyler Ennis,4,4,13,0,Floating Jump shot,13,92,94,True
+Tyler Ennis,2,10,59,0,Jump Bank Shot,26,96,242,False
+Tyler Ennis,4,4,3,1,Jump Bank Shot,2,-6,28,True
+Tyler Ennis,4,4,38,0,Jump Shot,25,139,215,False
+Tyler Ennis,2,10,48,1,Jump Shot,27,-110,252,False
+Tyler Ennis,3,4,26,0,Jump Shot,25,-206,148,False
+Tyler Ennis,2,2,34,0,Jump Shot,22,-224,38,False
+Tyler Ennis,4,1,33,0,Jump Shot,25,230,101,False
+Tyler Ennis,3,6,42,0,Jump Shot,25,134,214,False
+Tyler Ennis,4,1,24,0,Jump Shot,16,-11,160,True
+Tyler Ennis,2,3,43,1,Jump Shot,24,-228,84,False
+Tyler Ennis,4,7,18,0,Jump Shot,25,-166,195,False
+Tyler Ennis,1,1,2,0,Jump Shot,24,-144,204,False
+Tyler Ennis,4,3,22,0,Jump Shot,25,40,256,False
+Tyler Ennis,4,5,20,1,Jump Shot,22,-226,37,False
+Tyler Ennis,3,2,42,0,Jump Shot,27,145,229,False
+Tyler Ennis,2,2,45,0,Jump Shot,27,95,255,False
+Tyler Ennis,5,2,21,0,Jump Shot,26,-87,247,False
+Tyler Ennis,2,10,15,0,Jump Shot,25,166,189,False
+Tyler Ennis,2,9,30,0,Jump Shot,23,-228,41,False
+Tyler Ennis,1,6,32,1,Jump Shot,25,8,253,False
+Tyler Ennis,2,2,50,1,Jump Shot,24,-226,85,False
+Tyler Ennis,3,4,9,0,Jump Shot,24,126,208,False
+Tyler Ennis,4,6,26,0,Jump Shot,26,117,233,False
+Tyler Ennis,6,1,15,0,Jump Shot,26,-61,259,False
+Tyler Ennis,4,0,47,0,Jump Shot,27,-130,246,False
+Tyler Ennis,4,1,58,0,Jump Shot,13,-47,128,True
+Tyler Ennis,2,8,54,0,Jump Shot,18,-165,82,True
+Tyler Ennis,6,3,9,0,Jump Shot,28,2,286,False
+Tyler Ennis,3,9,6,0,Jump Shot,25,3,251,False
+Tyler Ennis,4,2,33,0,Jump Shot,17,156,73,True
+Tyler Ennis,4,3,24,0,Jump Shot,23,-225,69,False
+Tyler Ennis,1,8,55,0,Jump Shot,25,-48,246,False
+Tyler Ennis,4,2,36,1,Jump Shot,17,109,141,True
+Tyler Ennis,4,7,43,1,Jump Shot,23,233,13,False
+Tyler Ennis,2,11,21,1,Jump Shot,26,-193,175,False
+Tyler Ennis,3,8,54,1,Jump Shot,26,-16,263,False
+Tyler Ennis,4,10,34,0,Jump Shot,25,-201,157,False
+Tyler Ennis,4,0,59,0,Jump Shot,26,-105,241,False
+Tyler Ennis,3,3,58,1,Jump Shot,23,230,31,False
+Tyler Ennis,2,11,42,0,Jump Shot,25,85,245,False
+Tyler Ennis,2,9,19,0,Jump Shot,24,236,64,False
+Tyler Ennis,4,9,39,0,Jump Shot,27,46,267,False
+Tyler Ennis,1,10,54,0,Jump Shot,25,-166,193,False
+Tyler Ennis,1,7,31,0,Jump Shot,25,59,244,False
+Tyler Ennis,4,7,36,0,Jump Shot,27,-22,273,False
+Tyler Ennis,1,0,0,0,Jump Shot,67,-20,671,False
+Tyler Ennis,2,10,3,0,Jump Shot,28,-102,266,False
+Tyler Ennis,1,1,49,0,Jump Shot,24,-82,229,False
+Tyler Ennis,1,3,20,0,Jump Shot,25,-81,242,False
+Tyler Ennis,3,2,2,0,Layup Shot,2,9,23,True
+Tyler Ennis,1,8,11,0,Layup Shot,1,14,8,True
+Tyler Ennis,4,1,8,1,Layup Shot,2,-2,22,True
+Tyler Ennis,1,9,10,1,Layup Shot,1,-17,7,True
+Tyler Ennis,4,2,29,0,Layup Shot,1,2,10,True
+Tyler Ennis,2,11,17,1,Layup Shot,1,0,14,True
+Tyler Ennis,3,6,44,0,Layup Shot,1,3,16,True
+Tyler Ennis,4,9,30,0,Layup Shot,5,-20,50,True
+Tyler Ennis,4,9,45,0,Layup Shot,1,6,15,True
+Tyler Ennis,4,2,39,0,Pullup Jump shot,20,-35,206,True
+Tyler Ennis,2,10,11,1,Pullup Jump shot,16,-135,98,True
+Tyler Ennis,3,8,11,0,Pullup Jump shot,22,-58,214,True
+Tyler Ennis,4,8,28,1,Pullup Jump shot,17,57,164,True
+Tyler Ennis,4,11,9,1,Pullup Jump shot,16,118,121,True
+Tyler Ennis,4,1,53,0,Pullup Jump shot,17,-92,143,True
+Tyler Ennis,1,4,31,1,Pullup Jump shot,16,-132,102,True
+Tyler Ennis,4,11,47,0,Pullup Jump shot,16,60,152,True
+Tyler Ennis,1,0,15,1,Pullup Jump shot,24,-32,240,False
+Tyler Ennis,1,2,18,0,Pullup Jump shot,16,-49,157,True
+Tyler Ennis,2,8,15,0,Pullup Jump shot,24,217,111,False
+Tyler Ennis,4,5,46,0,Pullup Jump shot,17,100,141,True
+Tyler Ennis,4,4,45,1,Pullup Jump shot,17,-117,127,True
+Tyler Ennis,4,7,29,1,Pullup Jump shot,25,-38,257,False
+Tyler Ennis,2,5,39,0,Pullup Jump shot,25,-125,225,False
+Tyler Ennis,2,10,32,0,Pullup Jump shot,15,76,130,True
+Tyler Ennis,4,11,5,0,Pullup Jump shot,17,-153,76,True
+Tyler Ennis,4,2,44,0,Pullup Jump shot,14,57,134,True
+Tyler Ennis,4,6,4,0,Pullup Jump shot,16,63,150,True
+Tyler Ennis,3,3,6,1,Pullup Jump shot,16,-130,96,True
+Tyler Ennis,2,4,7,0,Pullup Jump shot,25,49,252,False
+Tyler Ennis,4,3,34,0,Pullup Jump shot,8,-1,85,True
+Tyler Ennis,4,6,16,1,Pullup Jump shot,16,94,130,True
+Tyler Ennis,4,5,28,0,Pullup Jump shot,16,-93,139,True
+Tyler Ennis,1,0,2,1,Reverse Layup Shot,1,16,-5,True
+Tyler Ennis,1,6,38,0,Reverse Layup Shot,3,-9,29,True
+Tyler Ennis,1,6,53,1,Reverse Layup Shot,1,-2,16,True
+Tyler Ennis,4,4,4,1,Reverse Layup Shot,1,11,9,True
+Tyler Ennis,4,9,6,1,Reverse Layup Shot,3,9,31,True
+Tyler Ennis,1,2,16,1,Reverse Layup Shot,1,3,14,True
+Tyler Ennis,3,8,47,1,Running Finger Roll Layup Shot,1,16,0,True
+Tyler Ennis,3,1,36,1,Running Finger Roll Layup Shot,1,1,15,True
+Tyler Ennis,2,0,1,0,Running Jump Shot,31,139,288,False
+Tyler Ennis,2,10,58,0,Running Jump Shot,14,73,131,True
+Tyler Ennis,3,0,0,0,Running Jump Shot,53,-34,529,False
+Tyler Ennis,1,5,24,0,Running Layup Shot,1,-11,8,True
+Tyler Ennis,4,4,35,1,Running Layup Shot,1,7,9,True
+Tyler Ennis,4,6,7,1,Running Layup Shot,1,-9,12,True
+Tyler Ennis,3,8,22,0,Running Layup Shot,1,-8,11,True
+Tyler Ennis,3,8,3,0,Running Layup Shot,2,-6,27,True
+Tyler Ennis,2,7,38,1,Running Layup Shot,0,2,2,True
+Tyler Ennis,2,10,37,1,Running Layup Shot,2,3,22,True
+Tyler Ennis,4,9,59,0,Running Layup Shot,1,14,13,True
+Tyler Ennis,4,8,14,1,Running Layup Shot,1,15,8,True
+Tyler Ennis,4,0,24,1,Running Layup Shot,1,-7,17,True
+Tyler Ennis,1,4,2,1,Running Layup Shot,1,8,17,True
+Tyler Ennis,6,3,45,0,Running Layup Shot,1,-1,13,True
+Tyler Ennis,3,6,23,1,Running Layup Shot,1,4,12,True
+Tyler Ennis,2,3,58,0,Running Pull-Up Jump Shot,25,-41,255,False
+Tyler Ennis,3,9,25,1,Running Reverse Layup Shot,1,-15,9,True
+Tyler Ennis,1,1,24,1,Running Reverse Layup Shot,0,6,3,True
+Tyler Ennis,2,5,37,0,Step Back Jump shot,16,58,159,True
+Tyler Ennis,1,5,58,0,Step Back Jump shot,11,89,67,True
+Tyler Ennis,1,1,11,0,Step Back Jump shot,24,55,242,False
+Tyler Ennis,3,0,44,1,Tip Layup Shot,0,0,-6,True
+Tyler Ennis,3,1,58,1,Turnaround Jump Shot,16,75,147,True
+Tyler Ennis,2,9,45,1,Turnaround Jump Shot,18,40,180,True
+Tyler Ennis,2,1,0,0,Turnaround Jump Shot,13,76,106,True
+Tyler Ennis,6,4,38,1,Turnaround Jump Shot,6,-12,59,True
+Tyler Ennis,1,3,6,0,Turnaround Jump Shot,14,-144,15,True
+Tyler Ennis,2,9,11,0,Turnaround Jump Shot,9,90,31,True

@@ -1,0 +1,113 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Dorian FinneySmith,3,8,36,0,Alley Oop Dunk Shot,4,-22,34,True
+Dorian FinneySmith,2,4,59,1,Alley Oop Dunk Shot,0,2,4,True
+Dorian FinneySmith,3,7,0,1,Alley Oop Layup shot,0,5,8,True
+Dorian FinneySmith,4,11,27,0,Alley Oop Layup shot,2,22,16,True
+Dorian FinneySmith,3,11,3,1,Cutting Dunk Shot,0,-5,8,True
+Dorian FinneySmith,2,8,57,1,Cutting Dunk Shot,1,7,8,True
+Dorian FinneySmith,3,2,50,1,Cutting Dunk Shot,0,-3,3,True
+Dorian FinneySmith,1,8,39,1,Cutting Layup Shot,1,10,10,True
+Dorian FinneySmith,1,3,11,1,Cutting Layup Shot,1,14,8,True
+Dorian FinneySmith,3,7,41,1,Cutting Layup Shot,3,13,32,True
+Dorian FinneySmith,4,10,24,1,Driving Dunk Shot,0,8,-1,True
+Dorian FinneySmith,3,3,50,0,Driving Dunk Shot,2,-15,14,True
+Dorian FinneySmith,2,2,34,0,Driving Finger Roll Layup Shot,5,-49,22,True
+Dorian FinneySmith,1,3,35,0,Driving Floating Bank Jump Shot,9,57,81,True
+Dorian FinneySmith,2,11,11,1,Driving Floating Bank Jump Shot,6,-39,49,True
+Dorian FinneySmith,4,7,54,1,Driving Floating Bank Jump Shot,4,42,10,True
+Dorian FinneySmith,3,1,6,0,Driving Floating Jump Shot,6,-60,35,True
+Dorian FinneySmith,2,6,52,0,Driving Hook Shot,7,71,4,True
+Dorian FinneySmith,3,10,14,0,Driving Hook Shot,4,-30,31,True
+Dorian FinneySmith,3,9,31,0,Driving Hook Shot,8,-29,75,True
+Dorian FinneySmith,2,7,29,1,Driving Hook Shot,5,-22,55,True
+Dorian FinneySmith,3,0,23,1,Driving Layup Shot,0,-3,7,True
+Dorian FinneySmith,4,7,16,0,Driving Layup Shot,1,-8,7,True
+Dorian FinneySmith,2,8,40,1,Fadeaway Jump Shot,17,161,75,True
+Dorian FinneySmith,2,3,59,0,Floating Jump shot,10,66,80,True
+Dorian FinneySmith,3,7,19,1,Jump Shot,26,135,231,False
+Dorian FinneySmith,1,2,59,0,Jump Shot,25,106,231,False
+Dorian FinneySmith,4,9,25,0,Jump Shot,25,-51,248,False
+Dorian FinneySmith,4,10,55,0,Jump Shot,17,63,168,True
+Dorian FinneySmith,4,4,28,0,Jump Shot,25,146,210,False
+Dorian FinneySmith,1,9,49,0,Jump Shot,15,-150,6,True
+Dorian FinneySmith,3,2,17,1,Jump Shot,19,133,149,True
+Dorian FinneySmith,3,8,17,0,Jump Shot,24,111,223,False
+Dorian FinneySmith,3,10,55,1,Jump Shot,25,240,96,False
+Dorian FinneySmith,3,8,35,0,Jump Shot,11,119,4,True
+Dorian FinneySmith,1,9,37,0,Jump Shot,23,230,48,False
+Dorian FinneySmith,1,4,29,1,Jump Shot,24,242,54,False
+Dorian FinneySmith,4,9,32,0,Jump Shot,27,115,247,False
+Dorian FinneySmith,2,11,39,1,Jump Shot,23,228,58,False
+Dorian FinneySmith,4,5,8,1,Jump Shot,28,-158,236,False
+Dorian FinneySmith,5,1,55,0,Jump Shot,13,69,115,True
+Dorian FinneySmith,1,6,12,0,Jump Shot,26,195,173,False
+Dorian FinneySmith,2,10,36,0,Jump Shot,25,-178,189,False
+Dorian FinneySmith,4,2,49,0,Jump Shot,25,214,138,False
+Dorian FinneySmith,4,9,7,1,Jump Shot,27,106,259,False
+Dorian FinneySmith,4,2,6,0,Jump Shot,25,177,182,False
+Dorian FinneySmith,2,5,55,1,Jump Shot,24,71,239,False
+Dorian FinneySmith,2,8,17,0,Jump Shot,22,-226,26,False
+Dorian FinneySmith,4,0,9,0,Jump Shot,25,-195,169,False
+Dorian FinneySmith,1,5,30,1,Jump Shot,22,-227,13,False
+Dorian FinneySmith,2,0,0,0,Jump Shot,25,-206,155,False
+Dorian FinneySmith,3,4,34,0,Jump Shot,26,-197,170,False
+Dorian FinneySmith,1,8,20,0,Jump Shot,25,169,193,False
+Dorian FinneySmith,4,3,56,0,Jump Shot,26,-163,205,False
+Dorian FinneySmith,2,3,11,0,Jump Shot,22,209,90,True
+Dorian FinneySmith,3,4,15,0,Jump Shot,26,122,233,False
+Dorian FinneySmith,2,8,58,0,Jump Shot,23,-231,-13,False
+Dorian FinneySmith,1,2,57,1,Jump Shot,23,228,33,False
+Dorian FinneySmith,3,2,32,0,Jump Shot,23,231,27,False
+Dorian FinneySmith,2,4,42,0,Jump Shot,26,155,209,False
+Dorian FinneySmith,3,4,6,1,Jump Shot,25,236,91,False
+Dorian FinneySmith,2,6,10,0,Jump Shot,23,232,56,False
+Dorian FinneySmith,2,6,14,0,Jump Shot,25,107,233,False
+Dorian FinneySmith,2,6,57,0,Jump Shot,25,-18,252,False
+Dorian FinneySmith,2,9,58,1,Jump Shot,21,-95,195,True
+Dorian FinneySmith,2,7,30,1,Jump Shot,23,234,-13,False
+Dorian FinneySmith,2,8,23,0,Jump Shot,26,-192,189,False
+Dorian FinneySmith,4,5,33,1,Jump Shot,23,230,19,False
+Dorian FinneySmith,4,10,26,1,Jump Shot,22,228,0,False
+Dorian FinneySmith,2,10,3,0,Jump Shot,23,-233,5,False
+Dorian FinneySmith,2,11,27,0,Jump Shot,23,229,34,False
+Dorian FinneySmith,3,7,54,0,Jump Shot,26,136,227,False
+Dorian FinneySmith,2,3,48,0,Jump Shot,23,237,36,False
+Dorian FinneySmith,2,2,21,0,Jump Shot,24,-205,143,False
+Dorian FinneySmith,3,4,59,1,Jump Shot,23,-234,23,False
+Dorian FinneySmith,3,9,11,0,Jump Shot,29,-198,217,False
+Dorian FinneySmith,1,5,37,0,Jump Shot,25,128,226,False
+Dorian FinneySmith,1,8,51,0,Jump Shot,22,228,-9,False
+Dorian FinneySmith,1,6,18,0,Jump Shot,25,93,235,False
+Dorian FinneySmith,1,6,47,0,Jump Shot,22,-186,130,True
+Dorian FinneySmith,3,9,7,1,Jump Shot,23,229,53,False
+Dorian FinneySmith,3,7,40,0,Jump Shot,22,-226,3,False
+Dorian FinneySmith,3,0,35,0,Jump Shot,23,224,78,False
+Dorian FinneySmith,2,2,13,0,Jump Shot,22,220,5,False
+Dorian FinneySmith,1,7,2,0,Jump Shot,26,41,258,False
+Dorian FinneySmith,1,5,13,1,Jump Shot,25,101,237,False
+Dorian FinneySmith,1,10,13,0,Jump Shot,25,-175,185,False
+Dorian FinneySmith,1,5,39,0,Jump Shot,25,48,251,False
+Dorian FinneySmith,3,6,38,0,Jump Shot,22,-229,-3,False
+Dorian FinneySmith,3,8,5,1,Jump Shot,24,-214,127,False
+Dorian FinneySmith,3,6,52,0,Layup Shot,1,-5,9,True
+Dorian FinneySmith,3,0,59,0,Layup Shot,3,-17,27,True
+Dorian FinneySmith,3,9,47,0,Pullup Jump shot,26,110,246,False
+Dorian FinneySmith,1,5,51,0,Pullup Jump shot,24,51,243,False
+Dorian FinneySmith,3,1,37,1,Pullup Jump shot,25,-33,253,False
+Dorian FinneySmith,1,6,15,1,Pullup Jump shot,16,152,67,True
+Dorian FinneySmith,3,3,20,0,Pullup Jump shot,16,-155,65,True
+Dorian FinneySmith,2,3,33,0,Pullup Jump shot,24,-3,243,False
+Dorian FinneySmith,1,5,11,1,Putback Dunk Shot,0,0,-6,True
+Dorian FinneySmith,2,5,48,0,Putback Layup Shot,4,44,-1,True
+Dorian FinneySmith,1,0,0,0,Putback Layup Shot,0,0,-6,True
+Dorian FinneySmith,1,6,20,1,Running Finger Roll Layup Shot,1,8,7,True
+Dorian FinneySmith,2,4,32,0,Running Jump Shot,13,52,123,True
+Dorian FinneySmith,2,0,58,0,Step Back Jump shot,18,131,126,True
+Dorian FinneySmith,1,3,28,1,Step Back Jump shot,25,131,215,False
+Dorian FinneySmith,5,3,49,0,Step Back Jump shot,16,125,112,True
+Dorian FinneySmith,1,10,47,0,Tip Layup Shot,1,8,10,True
+Dorian FinneySmith,4,7,16,1,Tip Layup Shot,0,0,-6,True
+Dorian FinneySmith,2,5,47,1,Tip Layup Shot,0,0,-6,True
+Dorian FinneySmith,2,10,18,1,Tip Layup Shot,0,0,-6,True
+Dorian FinneySmith,4,6,29,1,Tip Layup Shot,0,0,-6,True
+Dorian FinneySmith,3,4,27,1,Tip Layup Shot,0,0,-6,True

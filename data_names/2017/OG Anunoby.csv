@@ -1,0 +1,341 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+OG Anunoby,1,11,48,1,Alley Oop Dunk Shot,1,11,11,True
+OG Anunoby,2,2,45,1,Alley Oop Dunk Shot,0,3,1,True
+OG Anunoby,3,8,16,1,Alley Oop Layup shot,1,-10,13,True
+OG Anunoby,2,6,17,1,Alley Oop Layup shot,1,3,19,True
+OG Anunoby,3,8,50,1,Cutting Dunk Shot,0,0,5,True
+OG Anunoby,1,3,54,1,Cutting Dunk Shot,1,-5,12,True
+OG Anunoby,1,9,30,1,Cutting Dunk Shot,1,-11,0,True
+OG Anunoby,2,4,25,1,Cutting Dunk Shot,2,11,21,True
+OG Anunoby,3,5,37,1,Cutting Dunk Shot,1,8,8,True
+OG Anunoby,4,0,38,1,Cutting Dunk Shot,0,4,4,True
+OG Anunoby,2,8,8,1,Cutting Dunk Shot,1,11,11,True
+OG Anunoby,1,6,39,1,Cutting Dunk Shot,0,2,8,True
+OG Anunoby,1,1,17,0,Cutting Layup Shot,7,-41,58,True
+OG Anunoby,2,0,37,1,Cutting Layup Shot,1,0,17,True
+OG Anunoby,3,7,53,1,Cutting Layup Shot,0,-3,9,True
+OG Anunoby,1,0,31,0,Cutting Layup Shot,2,3,21,True
+OG Anunoby,1,4,35,0,Cutting Layup Shot,1,13,7,True
+OG Anunoby,3,9,0,1,Cutting Layup Shot,1,2,15,True
+OG Anunoby,1,9,25,1,Cutting Layup Shot,1,15,1,True
+OG Anunoby,2,1,38,1,Cutting Layup Shot,1,13,-2,True
+OG Anunoby,3,5,22,1,Cutting Layup Shot,1,1,16,True
+OG Anunoby,3,7,9,1,Cutting Layup Shot,1,19,2,True
+OG Anunoby,1,9,24,0,Cutting Layup Shot,6,-19,62,True
+OG Anunoby,1,5,36,1,Cutting Layup Shot,2,-20,20,True
+OG Anunoby,3,6,13,0,Driving Dunk Shot,0,2,-5,True
+OG Anunoby,4,5,57,1,Driving Dunk Shot,1,-6,-12,True
+OG Anunoby,1,8,56,1,Driving Dunk Shot,1,-4,14,True
+OG Anunoby,3,6,58,1,Driving Dunk Shot,0,0,-4,True
+OG Anunoby,1,9,45,1,Driving Dunk Shot,0,-5,6,True
+OG Anunoby,3,10,56,1,Driving Finger Roll Layup Shot,0,-3,8,True
+OG Anunoby,2,5,14,1,Driving Finger Roll Layup Shot,2,-5,25,True
+OG Anunoby,1,9,9,1,Driving Floating Bank Jump Shot,3,-33,16,True
+OG Anunoby,3,7,50,0,Driving Floating Jump Shot,11,92,77,True
+OG Anunoby,3,0,47,0,Driving Floating Jump Shot,1,8,15,True
+OG Anunoby,1,9,30,0,Driving Floating Jump Shot,4,35,22,True
+OG Anunoby,3,9,40,1,Driving Hook Shot,4,30,27,True
+OG Anunoby,1,0,1,1,Driving Hook Shot,2,-20,10,True
+OG Anunoby,1,5,12,1,Driving Hook Shot,2,24,16,True
+OG Anunoby,3,7,58,0,Driving Hook Shot,3,26,25,True
+OG Anunoby,1,1,58,0,Driving Hook Shot,2,3,25,True
+OG Anunoby,3,8,41,0,Driving Layup Shot,0,2,8,True
+OG Anunoby,4,6,4,0,Driving Layup Shot,2,-27,3,True
+OG Anunoby,1,9,16,0,Driving Layup Shot,2,20,14,True
+OG Anunoby,3,11,26,0,Driving Layup Shot,1,-8,12,True
+OG Anunoby,1,6,26,0,Driving Layup Shot,6,24,56,True
+OG Anunoby,1,3,55,1,Driving Layup Shot,1,8,13,True
+OG Anunoby,1,5,48,0,Driving Layup Shot,4,41,22,True
+OG Anunoby,3,1,34,0,Driving Layup Shot,2,-25,-6,True
+OG Anunoby,1,5,38,1,Driving Layup Shot,0,-5,5,True
+OG Anunoby,3,8,57,1,Driving Layup Shot,1,18,1,True
+OG Anunoby,2,3,52,1,Driving Layup Shot,1,6,11,True
+OG Anunoby,3,11,22,1,Driving Layup Shot,1,12,13,True
+OG Anunoby,1,9,50,1,Driving Layup Shot,1,-19,1,True
+OG Anunoby,3,9,7,0,Driving Layup Shot,1,-19,5,True
+OG Anunoby,1,5,55,0,Driving Layup Shot,4,13,46,True
+OG Anunoby,4,9,0,1,Driving Layup Shot,1,12,14,True
+OG Anunoby,3,9,46,0,Driving Layup Shot,2,16,16,True
+OG Anunoby,3,6,27,0,Driving Layup Shot,1,3,16,True
+OG Anunoby,3,8,47,1,Driving Layup Shot,1,11,6,True
+OG Anunoby,3,8,18,0,Driving Layup Shot,1,-8,11,True
+OG Anunoby,3,4,50,0,Driving Layup Shot,2,22,8,True
+OG Anunoby,1,8,1,1,Driving Layup Shot,2,24,10,True
+OG Anunoby,4,2,10,0,Driving Layup Shot,1,16,5,True
+OG Anunoby,2,4,26,1,Driving Layup Shot,0,6,2,True
+OG Anunoby,1,0,0,0,Driving Layup Shot,3,38,8,True
+OG Anunoby,1,4,45,1,Driving Reverse Dunk Shot,1,11,12,True
+OG Anunoby,1,5,33,1,Driving Reverse Dunk Shot,0,5,6,True
+OG Anunoby,1,7,13,1,Driving Reverse Layup Shot,1,1,17,True
+OG Anunoby,1,9,47,1,Driving Reverse Layup Shot,1,-12,-3,True
+OG Anunoby,2,2,35,1,Driving Reverse Layup Shot,3,-23,21,True
+OG Anunoby,2,10,21,0,Driving Reverse Layup Shot,2,-3,22,True
+OG Anunoby,3,9,16,1,Driving Reverse Layup Shot,0,-3,0,True
+OG Anunoby,1,9,52,1,Driving Reverse Layup Shot,1,-6,10,True
+OG Anunoby,1,6,9,1,Driving Reverse Layup Shot,1,14,-1,True
+OG Anunoby,3,4,48,0,Driving Reverse Layup Shot,1,-18,8,True
+OG Anunoby,1,8,32,0,Driving Reverse Layup Shot,1,-7,16,True
+OG Anunoby,2,11,39,1,Dunk Shot,2,2,21,True
+OG Anunoby,1,6,53,0,Dunk Shot,1,10,2,True
+OG Anunoby,1,6,52,1,Dunk Shot,1,-5,11,True
+OG Anunoby,1,6,26,1,Dunk Shot,0,5,-4,True
+OG Anunoby,3,11,47,1,Dunk Shot,0,6,-2,True
+OG Anunoby,3,6,9,1,Dunk Shot,0,1,3,True
+OG Anunoby,3,4,46,0,Fadeaway Jump Shot,15,144,47,True
+OG Anunoby,1,4,3,1,Floating Jump shot,2,6,29,True
+OG Anunoby,4,1,46,0,Jump Bank Shot,25,185,176,False
+OG Anunoby,1,10,37,0,Jump Shot,24,-240,-8,False
+OG Anunoby,3,11,23,1,Jump Shot,22,-226,6,False
+OG Anunoby,3,7,33,0,Jump Shot,22,223,20,False
+OG Anunoby,1,7,53,0,Jump Shot,25,228,113,False
+OG Anunoby,4,6,8,0,Jump Shot,25,225,130,False
+OG Anunoby,3,5,37,0,Jump Shot,23,-230,6,False
+OG Anunoby,1,7,11,1,Jump Shot,23,-232,-15,False
+OG Anunoby,3,3,55,0,Jump Shot,24,-225,107,False
+OG Anunoby,1,6,3,0,Jump Shot,25,125,226,False
+OG Anunoby,1,3,55,1,Jump Shot,23,230,-2,False
+OG Anunoby,3,6,48,1,Jump Shot,24,233,70,False
+OG Anunoby,3,9,2,1,Jump Shot,22,-227,-15,False
+OG Anunoby,3,10,23,1,Jump Shot,26,213,151,False
+OG Anunoby,1,9,31,0,Jump Shot,25,74,246,False
+OG Anunoby,4,6,1,0,Jump Shot,24,242,4,False
+OG Anunoby,1,10,3,1,Jump Shot,22,228,16,False
+OG Anunoby,3,3,42,1,Jump Shot,23,232,-6,False
+OG Anunoby,1,5,0,1,Jump Shot,22,228,5,False
+OG Anunoby,1,5,53,0,Jump Shot,23,-230,8,False
+OG Anunoby,3,11,31,0,Jump Shot,23,231,21,False
+OG Anunoby,3,11,2,0,Jump Shot,24,-244,5,False
+OG Anunoby,2,0,0,1,Jump Shot,21,-218,25,False
+OG Anunoby,1,9,19,0,Jump Shot,25,153,204,False
+OG Anunoby,3,8,19,0,Jump Shot,25,149,204,False
+OG Anunoby,3,8,17,0,Jump Shot,24,232,87,False
+OG Anunoby,1,5,18,1,Jump Shot,23,-232,17,False
+OG Anunoby,1,6,10,1,Jump Shot,23,-230,-4,False
+OG Anunoby,1,6,55,0,Jump Shot,23,226,58,False
+OG Anunoby,1,7,1,1,Jump Shot,25,-147,205,False
+OG Anunoby,3,6,40,0,Jump Shot,25,166,200,False
+OG Anunoby,1,5,4,0,Jump Shot,23,231,37,False
+OG Anunoby,1,7,33,1,Jump Shot,24,-105,225,False
+OG Anunoby,1,7,54,0,Jump Shot,23,-239,5,False
+OG Anunoby,1,4,43,1,Jump Shot,22,228,2,False
+OG Anunoby,2,5,12,0,Jump Shot,22,227,11,False
+OG Anunoby,1,7,52,1,Jump Shot,23,-232,50,False
+OG Anunoby,1,5,40,1,Jump Shot,25,82,243,False
+OG Anunoby,1,5,59,0,Jump Shot,23,-229,-24,False
+OG Anunoby,3,4,7,0,Jump Shot,25,-112,226,False
+OG Anunoby,1,4,3,0,Jump Shot,25,86,242,False
+OG Anunoby,3,3,10,0,Jump Shot,23,-232,-2,False
+OG Anunoby,1,8,21,1,Jump Shot,24,179,173,False
+OG Anunoby,1,9,48,0,Jump Shot,22,-226,-8,False
+OG Anunoby,2,2,55,0,Jump Shot,25,188,165,False
+OG Anunoby,1,5,57,0,Jump Shot,22,-223,8,False
+OG Anunoby,1,4,44,1,Jump Shot,22,227,6,False
+OG Anunoby,3,7,31,0,Jump Shot,24,-165,187,False
+OG Anunoby,2,2,13,0,Jump Shot,24,-240,6,False
+OG Anunoby,3,6,38,0,Jump Shot,25,-165,197,False
+OG Anunoby,1,5,46,0,Jump Shot,26,125,236,False
+OG Anunoby,4,4,57,0,Jump Shot,25,139,211,False
+OG Anunoby,1,4,40,0,Jump Shot,25,136,219,False
+OG Anunoby,1,4,44,1,Jump Shot,25,-228,103,False
+OG Anunoby,2,0,13,0,Jump Shot,29,137,261,False
+OG Anunoby,1,3,39,1,Jump Shot,23,236,38,False
+OG Anunoby,1,2,2,1,Jump Shot,24,180,168,False
+OG Anunoby,3,9,25,0,Jump Shot,25,212,136,False
+OG Anunoby,3,8,27,1,Jump Shot,22,-222,-15,False
+OG Anunoby,3,3,46,0,Jump Shot,23,236,-5,False
+OG Anunoby,1,10,49,0,Jump Shot,22,220,37,False
+OG Anunoby,1,8,18,0,Jump Shot,23,-236,-8,False
+OG Anunoby,3,7,54,0,Jump Shot,25,-187,178,False
+OG Anunoby,3,4,20,1,Jump Shot,24,139,200,False
+OG Anunoby,3,8,26,1,Jump Shot,26,23,261,False
+OG Anunoby,1,4,58,0,Jump Shot,21,-219,7,False
+OG Anunoby,2,4,46,1,Jump Shot,23,230,18,False
+OG Anunoby,2,3,19,0,Jump Shot,25,-169,196,False
+OG Anunoby,1,8,13,0,Jump Shot,25,-199,163,False
+OG Anunoby,2,1,58,0,Jump Shot,1,-13,1,True
+OG Anunoby,2,1,45,0,Jump Shot,23,-232,-15,False
+OG Anunoby,3,6,57,0,Jump Shot,22,-223,-4,False
+OG Anunoby,1,7,27,0,Jump Shot,23,234,-2,False
+OG Anunoby,2,4,7,0,Jump Shot,24,172,178,False
+OG Anunoby,1,5,30,0,Jump Shot,24,-210,128,False
+OG Anunoby,3,5,49,0,Jump Shot,25,128,216,False
+OG Anunoby,3,5,57,0,Jump Shot,25,179,177,False
+OG Anunoby,3,2,23,0,Jump Shot,25,171,183,False
+OG Anunoby,1,7,5,0,Jump Shot,25,139,211,False
+OG Anunoby,3,1,52,1,Jump Shot,22,-221,-23,False
+OG Anunoby,2,4,44,0,Jump Shot,22,223,41,False
+OG Anunoby,1,5,48,0,Jump Shot,22,226,-2,False
+OG Anunoby,3,9,18,0,Jump Shot,25,-219,131,False
+OG Anunoby,2,6,22,1,Jump Shot,23,-228,48,False
+OG Anunoby,1,6,45,0,Jump Shot,27,105,251,False
+OG Anunoby,4,5,5,0,Jump Shot,26,-7,268,False
+OG Anunoby,2,4,17,0,Jump Shot,22,-226,27,False
+OG Anunoby,3,11,9,1,Jump Shot,2,23,11,True
+OG Anunoby,2,3,0,0,Jump Shot,25,147,214,False
+OG Anunoby,3,8,58,0,Jump Shot,25,127,226,False
+OG Anunoby,1,11,7,0,Jump Shot,26,144,226,False
+OG Anunoby,1,10,14,1,Jump Shot,24,151,197,False
+OG Anunoby,3,9,0,1,Jump Shot,26,106,239,False
+OG Anunoby,4,2,45,0,Jump Shot,22,-226,-2,False
+OG Anunoby,3,10,39,1,Jump Shot,22,-228,6,False
+OG Anunoby,1,5,46,1,Jump Shot,22,-225,9,False
+OG Anunoby,1,7,23,1,Jump Shot,23,232,26,False
+OG Anunoby,3,8,11,1,Jump Shot,24,-174,176,False
+OG Anunoby,1,9,0,0,Jump Shot,22,-225,-2,False
+OG Anunoby,3,6,6,0,Jump Shot,25,-190,171,False
+OG Anunoby,1,6,47,0,Jump Shot,23,-229,23,False
+OG Anunoby,3,5,52,1,Jump Shot,24,199,145,False
+OG Anunoby,3,7,16,1,Jump Shot,25,-188,167,False
+OG Anunoby,1,8,11,1,Jump Shot,23,231,25,False
+OG Anunoby,1,10,10,0,Jump Shot,24,229,78,False
+OG Anunoby,4,10,38,0,Jump Shot,23,-232,13,False
+OG Anunoby,1,10,8,1,Jump Shot,23,-232,1,False
+OG Anunoby,2,1,22,0,Jump Shot,23,-225,74,False
+OG Anunoby,3,8,24,0,Jump Shot,23,236,-2,False
+OG Anunoby,2,3,57,1,Jump Shot,23,231,54,False
+OG Anunoby,2,1,21,0,Jump Shot,25,123,223,False
+OG Anunoby,3,10,5,0,Jump Shot,23,231,6,False
+OG Anunoby,3,9,26,1,Jump Shot,23,233,6,False
+OG Anunoby,1,8,7,0,Jump Shot,25,-147,203,False
+OG Anunoby,2,1,4,1,Jump Shot,10,105,-26,True
+OG Anunoby,3,8,40,0,Jump Shot,25,182,175,False
+OG Anunoby,2,3,15,1,Jump Shot,23,235,35,False
+OG Anunoby,1,0,36,1,Jump Shot,24,237,53,False
+OG Anunoby,4,6,25,1,Jump Shot,23,232,7,False
+OG Anunoby,2,5,23,0,Jump Shot,26,-182,195,False
+OG Anunoby,4,3,58,0,Jump Shot,25,-166,199,False
+OG Anunoby,4,9,20,1,Jump Shot,23,-236,-18,False
+OG Anunoby,4,8,28,1,Jump Shot,25,-149,205,False
+OG Anunoby,2,10,9,0,Jump Shot,23,-236,27,False
+OG Anunoby,2,11,6,1,Jump Shot,22,-225,-1,False
+OG Anunoby,2,9,18,0,Jump Shot,25,130,219,False
+OG Anunoby,3,2,51,1,Jump Shot,25,134,218,False
+OG Anunoby,4,9,20,1,Jump Shot,25,177,181,False
+OG Anunoby,2,10,55,0,Jump Shot,25,208,148,False
+OG Anunoby,4,2,52,1,Jump Shot,26,-29,264,False
+OG Anunoby,4,2,30,0,Jump Shot,22,-221,11,False
+OG Anunoby,4,7,31,0,Jump Shot,22,-225,-9,False
+OG Anunoby,2,11,37,0,Jump Shot,25,196,159,False
+OG Anunoby,2,10,11,0,Jump Shot,25,7,251,False
+OG Anunoby,1,1,52,0,Jump Shot,22,221,4,False
+OG Anunoby,4,6,38,1,Jump Shot,23,230,32,False
+OG Anunoby,4,10,3,0,Jump Shot,3,-30,17,True
+OG Anunoby,4,7,11,0,Jump Shot,24,230,71,False
+OG Anunoby,1,1,38,0,Jump Shot,22,228,29,False
+OG Anunoby,1,4,45,0,Jump Shot,22,228,27,False
+OG Anunoby,2,6,21,1,Jump Shot,23,226,64,False
+OG Anunoby,4,9,27,1,Jump Shot,28,-79,270,False
+OG Anunoby,3,1,44,0,Jump Shot,23,-230,5,False
+OG Anunoby,1,4,16,0,Jump Shot,25,-108,234,False
+OG Anunoby,4,8,35,0,Jump Shot,23,-234,5,False
+OG Anunoby,1,1,9,1,Jump Shot,22,-229,-8,False
+OG Anunoby,2,11,43,0,Jump Shot,22,-225,5,False
+OG Anunoby,1,6,45,0,Jump Shot,26,173,204,False
+OG Anunoby,3,0,25,0,Jump Shot,23,236,3,False
+OG Anunoby,1,4,36,1,Jump Shot,24,-225,97,False
+OG Anunoby,4,9,26,0,Jump Shot,23,234,11,False
+OG Anunoby,2,0,51,0,Jump Shot,22,-223,-4,False
+OG Anunoby,2,9,20,0,Jump Shot,22,227,21,False
+OG Anunoby,3,1,8,1,Jump Shot,22,229,-4,False
+OG Anunoby,4,9,31,0,Jump Shot,23,230,1,False
+OG Anunoby,2,11,45,0,Jump Shot,22,-229,-4,False
+OG Anunoby,3,9,1,0,Jump Shot,22,-228,5,False
+OG Anunoby,4,2,12,1,Jump Shot,23,232,26,False
+OG Anunoby,1,6,22,0,Jump Shot,25,207,154,False
+OG Anunoby,1,10,19,0,Jump Shot,26,-66,254,False
+OG Anunoby,1,5,33,1,Jump Shot,23,232,-3,False
+OG Anunoby,4,0,56,0,Jump Shot,22,-223,-8,False
+OG Anunoby,2,6,22,0,Jump Shot,24,101,228,False
+OG Anunoby,2,2,16,0,Jump Shot,25,93,241,False
+OG Anunoby,2,4,3,0,Jump Shot,23,231,-3,False
+OG Anunoby,3,9,5,0,Jump Shot,26,178,201,False
+OG Anunoby,2,4,39,0,Jump Shot,23,-231,-12,False
+OG Anunoby,2,5,0,0,Jump Shot,23,-231,-12,False
+OG Anunoby,2,9,17,0,Jump Shot,22,-225,1,False
+OG Anunoby,3,10,18,0,Jump Shot,19,147,127,True
+OG Anunoby,4,3,21,0,Jump Shot,26,133,232,False
+OG Anunoby,1,6,50,0,Jump Shot,22,226,11,False
+OG Anunoby,4,8,11,0,Jump Shot,25,-219,128,False
+OG Anunoby,3,6,39,1,Jump Shot,23,230,1,False
+OG Anunoby,4,6,40,1,Jump Shot,23,-230,18,False
+OG Anunoby,3,4,6,1,Jump Shot,23,230,11,False
+OG Anunoby,3,3,36,1,Jump Shot,25,138,216,False
+OG Anunoby,2,5,34,1,Jump Shot,24,230,71,False
+OG Anunoby,2,7,53,1,Jump Shot,22,-228,26,False
+OG Anunoby,1,8,1,1,Jump Shot,26,-152,212,False
+OG Anunoby,2,7,16,0,Jump Shot,26,-93,252,False
+OG Anunoby,1,10,38,1,Jump Shot,26,-225,146,False
+OG Anunoby,3,1,3,0,Jump Shot,23,-230,-7,False
+OG Anunoby,3,5,5,0,Jump Shot,26,202,164,False
+OG Anunoby,3,0,34,1,Jump Shot,23,231,-7,False
+OG Anunoby,3,6,21,0,Jump Shot,22,-229,-19,False
+OG Anunoby,1,9,45,1,Jump Shot,24,-215,119,False
+OG Anunoby,1,5,21,0,Jump Shot,0,-9,4,True
+OG Anunoby,1,4,26,1,Jump Shot,22,-229,16,False
+OG Anunoby,3,11,16,0,Jump Shot,25,237,96,False
+OG Anunoby,1,7,15,0,Jump Shot,25,-208,149,False
+OG Anunoby,4,8,43,1,Layup Shot,0,-2,6,True
+OG Anunoby,3,11,41,0,Layup Shot,2,-29,-5,True
+OG Anunoby,3,8,40,1,Layup Shot,0,3,5,True
+OG Anunoby,2,1,24,0,Layup Shot,2,-24,8,True
+OG Anunoby,3,8,40,1,Layup Shot,2,23,8,True
+OG Anunoby,2,3,22,1,Layup Shot,1,6,13,True
+OG Anunoby,3,11,32,1,Layup Shot,0,8,1,True
+OG Anunoby,1,11,0,1,Layup Shot,2,-14,25,True
+OG Anunoby,1,8,57,1,Layup Shot,2,6,21,True
+OG Anunoby,1,7,12,0,Layup Shot,3,-24,28,True
+OG Anunoby,1,2,58,0,Layup Shot,3,-25,22,True
+OG Anunoby,3,7,31,0,Layup Shot,2,-17,20,True
+OG Anunoby,3,4,21,0,Pullup Jump shot,18,-180,0,True
+OG Anunoby,1,7,3,0,Pullup Jump shot,25,36,254,False
+OG Anunoby,3,11,44,0,Pullup Jump shot,16,137,99,True
+OG Anunoby,1,10,3,0,Pullup Jump shot,27,74,269,False
+OG Anunoby,3,11,6,0,Pullup Jump shot,19,-163,99,True
+OG Anunoby,3,9,15,1,Putback Dunk Shot,2,20,2,True
+OG Anunoby,4,1,44,1,Putback Dunk Shot,0,0,-6,True
+OG Anunoby,1,7,54,0,Putback Layup Shot,0,0,-6,True
+OG Anunoby,1,6,25,1,Putback Layup Shot,0,0,-6,True
+OG Anunoby,3,4,25,1,Putback Layup Shot,3,-27,16,True
+OG Anunoby,4,6,2,1,Putback Layup Shot,0,0,-6,True
+OG Anunoby,3,6,24,1,Reverse Dunk Shot,0,6,5,True
+OG Anunoby,1,8,25,1,Reverse Dunk Shot,1,-7,18,True
+OG Anunoby,1,2,10,1,Reverse Dunk Shot,1,-3,13,True
+OG Anunoby,3,1,32,1,Reverse Layup Shot,1,-1,11,True
+OG Anunoby,2,4,47,0,Running Dunk Shot,1,5,10,True
+OG Anunoby,1,7,46,1,Running Dunk Shot,1,10,7,True
+OG Anunoby,1,6,43,1,Running Dunk Shot,0,2,7,True
+OG Anunoby,1,9,8,1,Running Dunk Shot,1,2,18,True
+OG Anunoby,1,8,43,0,Running Dunk Shot,0,-3,-8,True
+OG Anunoby,3,11,25,1,Running Dunk Shot,1,10,17,True
+OG Anunoby,2,2,8,1,Running Dunk Shot,0,-2,0,True
+OG Anunoby,2,10,14,1,Running Dunk Shot,2,10,20,True
+OG Anunoby,4,0,17,1,Running Dunk Shot,2,8,21,True
+OG Anunoby,2,7,26,1,Running Dunk Shot,0,-6,6,True
+OG Anunoby,1,4,13,1,Running Dunk Shot,1,13,-1,True
+OG Anunoby,2,3,26,1,Running Dunk Shot,0,-6,5,True
+OG Anunoby,3,8,51,1,Running Dunk Shot,1,5,16,True
+OG Anunoby,3,6,13,1,Running Dunk Shot,1,3,12,True
+OG Anunoby,1,8,33,1,Running Dunk Shot,1,11,7,True
+OG Anunoby,3,9,51,1,Running Dunk Shot,0,3,1,True
+OG Anunoby,2,1,23,1,Running Finger Roll Layup Shot,1,-8,15,True
+OG Anunoby,1,0,0,0,Running Jump Shot,22,-50,218,True
+OG Anunoby,1,7,57,1,Running Jump Shot,25,178,176,False
+OG Anunoby,2,4,9,1,Running Jump Shot,23,-235,29,False
+OG Anunoby,1,9,9,0,Running Layup Shot,1,6,13,True
+OG Anunoby,1,6,31,0,Running Layup Shot,2,19,12,True
+OG Anunoby,4,7,4,0,Running Layup Shot,4,38,26,True
+OG Anunoby,3,8,44,0,Running Layup Shot,1,5,15,True
+OG Anunoby,1,5,34,0,Running Layup Shot,3,29,23,True
+OG Anunoby,3,7,15,0,Running Layup Shot,1,-13,9,True
+OG Anunoby,3,6,18,0,Running Layup Shot,0,-8,0,True
+OG Anunoby,2,2,15,1,Running Layup Shot,1,10,7,True
+OG Anunoby,1,4,48,0,Running Reverse Layup Shot,1,-10,5,True
+OG Anunoby,4,8,57,0,Step Back Jump shot,15,-68,135,True
+OG Anunoby,1,5,24,0,Step Back Jump shot,14,133,46,True
+OG Anunoby,2,6,32,1,Step Back Jump shot,24,-235,62,False
+OG Anunoby,1,6,53,1,Step Back Jump shot,22,-228,6,False
+OG Anunoby,3,9,44,0,Step Back Jump shot,24,232,67,False
+OG Anunoby,2,0,32,1,Tip Dunk Shot,0,0,-6,True
+OG Anunoby,3,7,37,1,Tip Dunk Shot,0,0,-6,True
+OG Anunoby,1,7,56,0,Tip Dunk Shot,0,0,-6,True
+OG Anunoby,2,6,24,0,Tip Layup Shot,0,0,-6,True

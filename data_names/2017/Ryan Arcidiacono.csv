@@ -1,0 +1,42 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Ryan Arcidiacono,2,3,22,1,Cutting Layup Shot,1,10,17,True
+Ryan Arcidiacono,2,8,25,1,Driving Finger Roll Layup Shot,2,14,17,True
+Ryan Arcidiacono,4,11,13,1,Driving Floating Bank Jump Shot,3,0,34,True
+Ryan Arcidiacono,4,8,29,0,Driving Floating Jump Shot,8,24,83,True
+Ryan Arcidiacono,4,7,46,1,Driving Floating Jump Shot,9,57,80,True
+Ryan Arcidiacono,4,5,17,0,Driving Hook Shot,7,-6,74,True
+Ryan Arcidiacono,4,2,20,1,Driving Reverse Layup Shot,0,6,5,True
+Ryan Arcidiacono,1,0,0,0,Floating Jump shot,38,-42,383,False
+Ryan Arcidiacono,4,0,51,0,Jump Shot,25,-193,163,False
+Ryan Arcidiacono,4,7,8,0,Jump Shot,24,-234,69,False
+Ryan Arcidiacono,4,3,2,1,Jump Shot,22,-228,-1,False
+Ryan Arcidiacono,4,8,19,0,Jump Shot,22,227,-22,False
+Ryan Arcidiacono,4,1,45,0,Jump Shot,26,101,248,False
+Ryan Arcidiacono,4,11,17,1,Jump Shot,23,-230,31,False
+Ryan Arcidiacono,4,2,29,1,Jump Shot,22,-225,20,False
+Ryan Arcidiacono,4,5,58,0,Jump Shot,26,134,225,False
+Ryan Arcidiacono,2,11,32,0,Jump Shot,25,-109,231,False
+Ryan Arcidiacono,2,10,53,0,Jump Shot,25,169,193,False
+Ryan Arcidiacono,4,11,42,0,Jump Shot,24,-115,220,False
+Ryan Arcidiacono,3,0,57,0,Jump Shot,25,-109,226,False
+Ryan Arcidiacono,2,6,50,1,Jump Shot,23,231,16,False
+Ryan Arcidiacono,3,2,35,0,Jump Shot,22,227,27,False
+Ryan Arcidiacono,3,1,53,0,Jump Shot,25,87,242,False
+Ryan Arcidiacono,1,1,30,0,Jump Shot,25,-81,242,False
+Ryan Arcidiacono,2,11,6,0,Jump Shot,24,177,172,False
+Ryan Arcidiacono,2,10,50,1,Jump Shot,25,15,259,False
+Ryan Arcidiacono,4,6,34,1,Jump Shot,24,231,79,False
+Ryan Arcidiacono,4,7,20,0,Jump Shot,24,151,199,False
+Ryan Arcidiacono,4,3,29,0,Jump Shot,26,-111,240,False
+Ryan Arcidiacono,4,9,16,1,Jump Shot,23,-230,-2,False
+Ryan Arcidiacono,4,10,6,0,Jump Shot,25,27,251,False
+Ryan Arcidiacono,3,3,27,0,Jump Shot,25,108,232,False
+Ryan Arcidiacono,4,3,15,0,Jump Shot,26,-87,246,False
+Ryan Arcidiacono,2,7,36,0,Jump Shot,24,-113,221,False
+Ryan Arcidiacono,1,0,48,1,Jump Shot,23,239,-2,False
+Ryan Arcidiacono,4,8,39,0,Jump Shot,24,-242,27,False
+Ryan Arcidiacono,1,0,0,0,Jump Shot,60,-188,578,False
+Ryan Arcidiacono,1,0,5,1,Pullup Jump shot,16,2,161,True
+Ryan Arcidiacono,2,11,48,1,Pullup Jump shot,20,44,198,True
+Ryan Arcidiacono,2,8,39,1,Pullup Jump shot,24,-157,189,False
+Ryan Arcidiacono,4,3,39,1,Running Layup Shot,0,-6,-2,True

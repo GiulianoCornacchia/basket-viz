@@ -1,0 +1,212 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Channing Frye,3,2,2,1,Cutting Dunk Shot,0,7,5,True
+Channing Frye,4,8,46,1,Cutting Layup Shot,0,3,6,True
+Channing Frye,3,0,29,1,Cutting Layup Shot,0,1,6,True
+Channing Frye,2,7,15,1,Cutting Layup Shot,1,-6,15,True
+Channing Frye,1,3,21,1,Cutting Layup Shot,1,-13,0,True
+Channing Frye,3,2,10,1,Cutting Layup Shot,1,-7,17,True
+Channing Frye,4,5,45,1,Cutting Layup Shot,1,-8,17,True
+Channing Frye,4,5,26,1,Cutting Layup Shot,1,11,11,True
+Channing Frye,3,6,37,1,Cutting Layup Shot,1,8,18,True
+Channing Frye,3,0,15,0,Driving Floating Jump Shot,2,4,29,True
+Channing Frye,4,3,7,1,Driving Floating Jump Shot,13,19,135,True
+Channing Frye,4,9,12,1,Driving Hook Shot,3,30,24,True
+Channing Frye,2,6,44,1,Driving Layup Shot,1,10,13,True
+Channing Frye,2,9,57,0,Driving Layup Shot,1,-13,10,True
+Channing Frye,2,8,37,0,Driving Layup Shot,1,9,15,True
+Channing Frye,3,0,5,1,Driving Layup Shot,1,-8,16,True
+Channing Frye,1,0,34,0,Driving Layup Shot,0,-3,4,True
+Channing Frye,2,9,6,1,Driving Layup Shot,1,5,18,True
+Channing Frye,2,8,54,1,Driving Layup Shot,5,47,33,True
+Channing Frye,1,3,25,1,Dunk Shot,0,-2,7,True
+Channing Frye,4,11,12,0,Dunk Shot,2,12,21,True
+Channing Frye,1,0,37,0,Fadeaway Jump Shot,12,78,102,True
+Channing Frye,2,11,2,1,Hook Shot,3,19,32,True
+Channing Frye,4,8,18,0,Hook Shot,10,20,108,True
+Channing Frye,4,9,3,0,Hook Shot,4,15,40,True
+Channing Frye,4,10,7,1,Hook Shot,8,74,31,True
+Channing Frye,4,11,24,1,Hook Shot,3,-13,31,True
+Channing Frye,3,3,40,1,Hook Shot,5,51,9,True
+Channing Frye,4,10,49,1,Hook Shot,2,18,10,True
+Channing Frye,4,3,16,0,Jump Shot,23,-232,-1,False
+Channing Frye,4,4,56,0,Jump Shot,24,-214,114,False
+Channing Frye,4,4,48,1,Jump Shot,21,-184,120,True
+Channing Frye,3,1,48,0,Jump Shot,23,236,22,False
+Channing Frye,4,5,26,0,Jump Shot,22,-226,-2,False
+Channing Frye,4,2,12,0,Jump Shot,24,-73,236,False
+Channing Frye,3,3,11,0,Jump Shot,25,144,211,False
+Channing Frye,4,1,37,1,Jump Shot,25,-75,243,False
+Channing Frye,3,0,3,0,Jump Shot,25,-79,246,False
+Channing Frye,4,1,7,0,Jump Shot,26,133,227,False
+Channing Frye,4,7,28,0,Jump Shot,25,-49,250,False
+Channing Frye,4,2,15,0,Jump Shot,15,72,134,True
+Channing Frye,2,7,42,0,Jump Shot,23,227,58,False
+Channing Frye,3,3,58,1,Jump Shot,26,172,205,False
+Channing Frye,2,9,23,1,Jump Shot,26,-145,222,False
+Channing Frye,3,4,57,1,Jump Shot,22,-141,177,True
+Channing Frye,3,6,21,0,Jump Shot,25,95,235,False
+Channing Frye,2,11,47,0,Jump Shot,26,-11,262,False
+Channing Frye,3,4,7,1,Jump Shot,24,-214,123,False
+Channing Frye,1,2,53,0,Jump Shot,22,221,61,False
+Channing Frye,3,6,50,1,Jump Shot,25,177,185,False
+Channing Frye,3,2,17,0,Jump Shot,26,185,189,False
+Channing Frye,4,1,34,1,Jump Shot,28,62,277,False
+Channing Frye,3,0,54,1,Jump Shot,25,5,257,False
+Channing Frye,1,1,50,0,Jump Shot,22,-172,152,True
+Channing Frye,2,10,44,0,Jump Shot,26,-103,242,False
+Channing Frye,4,4,10,0,Jump Shot,24,-155,190,False
+Channing Frye,1,3,26,1,Jump Shot,23,230,-5,False
+Channing Frye,4,11,31,0,Jump Shot,26,157,213,False
+Channing Frye,2,5,36,1,Jump Shot,20,-154,140,True
+Channing Frye,2,11,40,0,Jump Shot,23,-231,33,False
+Channing Frye,4,0,24,1,Jump Shot,26,96,242,False
+Channing Frye,4,0,32,1,Jump Shot,27,-163,221,False
+Channing Frye,1,0,37,0,Jump Shot,26,122,236,False
+Channing Frye,1,1,36,1,Jump Shot,18,157,96,True
+Channing Frye,3,1,26,0,Jump Shot,26,149,225,False
+Channing Frye,1,1,37,0,Jump Shot,25,127,225,False
+Channing Frye,4,10,6,1,Jump Shot,26,153,215,False
+Channing Frye,3,4,45,0,Jump Shot,27,-79,267,False
+Channing Frye,2,7,20,0,Jump Shot,27,16,272,False
+Channing Frye,2,8,18,0,Jump Shot,24,-90,229,False
+Channing Frye,2,9,4,0,Jump Shot,24,-120,214,False
+Channing Frye,1,3,45,0,Jump Shot,25,-92,242,False
+Channing Frye,2,9,26,1,Jump Shot,26,-81,248,False
+Channing Frye,4,10,27,1,Jump Shot,26,138,221,False
+Channing Frye,3,3,18,1,Jump Shot,24,240,42,False
+Channing Frye,3,1,15,1,Jump Shot,24,139,206,False
+Channing Frye,4,0,11,0,Jump Shot,23,230,-9,False
+Channing Frye,4,9,8,0,Jump Shot,24,225,90,False
+Channing Frye,2,11,30,1,Jump Shot,24,-76,236,False
+Channing Frye,2,9,22,1,Jump Shot,24,-134,201,False
+Channing Frye,3,0,34,1,Jump Shot,25,-8,253,False
+Channing Frye,3,3,25,0,Jump Shot,25,171,194,False
+Channing Frye,2,9,1,0,Jump Shot,24,-98,229,False
+Channing Frye,4,10,6,0,Jump Shot,25,129,221,False
+Channing Frye,3,2,43,0,Jump Shot,25,-139,210,False
+Channing Frye,3,0,46,0,Jump Shot,19,146,130,True
+Channing Frye,2,10,37,0,Jump Shot,26,-70,257,False
+Channing Frye,2,10,44,1,Jump Shot,26,-139,224,False
+Channing Frye,2,11,47,0,Jump Shot,14,86,117,True
+Channing Frye,1,2,38,0,Jump Shot,25,57,253,False
+Channing Frye,4,11,21,0,Jump Shot,23,84,221,True
+Channing Frye,3,1,28,0,Jump Shot,25,104,234,False
+Channing Frye,1,0,30,0,Jump Shot,27,-234,136,False
+Channing Frye,3,2,12,1,Jump Shot,25,-19,259,False
+Channing Frye,4,7,26,0,Jump Shot,23,-233,40,False
+Channing Frye,1,0,58,1,Jump Shot,26,-144,218,False
+Channing Frye,2,6,13,0,Jump Shot,23,230,5,False
+Channing Frye,4,8,44,1,Jump Shot,25,-3,256,False
+Channing Frye,1,1,2,0,Jump Shot,22,228,22,False
+Channing Frye,2,9,55,0,Jump Shot,24,-85,235,False
+Channing Frye,4,8,36,0,Jump Shot,27,177,205,False
+Channing Frye,2,10,11,1,Jump Shot,26,187,192,False
+Channing Frye,2,9,36,1,Jump Shot,24,-194,157,False
+Channing Frye,2,10,52,0,Jump Shot,28,-134,256,False
+Channing Frye,4,6,59,1,Jump Shot,16,129,99,True
+Channing Frye,4,10,1,1,Jump Shot,25,119,223,False
+Channing Frye,4,4,38,0,Jump Shot,26,-66,259,False
+Channing Frye,2,10,46,0,Jump Shot,25,139,211,False
+Channing Frye,3,0,25,0,Jump Shot,25,-111,233,False
+Channing Frye,4,8,15,1,Jump Shot,23,-224,69,False
+Channing Frye,4,3,0,0,Jump Shot,25,-45,248,False
+Channing Frye,2,11,48,0,Jump Shot,24,93,225,False
+Channing Frye,2,9,13,0,Jump Shot,26,154,218,False
+Channing Frye,4,2,16,1,Jump Shot,25,-117,228,False
+Channing Frye,1,2,30,1,Jump Shot,23,-232,46,False
+Channing Frye,2,11,4,1,Jump Shot,20,56,198,True
+Channing Frye,4,0,3,0,Jump Shot,25,162,194,False
+Channing Frye,3,5,16,0,Jump Shot,25,57,244,False
+Channing Frye,3,6,10,1,Jump Shot,24,108,225,False
+Channing Frye,4,11,28,0,Jump Shot,27,-186,205,False
+Channing Frye,2,9,11,0,Jump Shot,23,230,64,False
+Channing Frye,4,0,13,0,Jump Shot,26,-62,262,False
+Channing Frye,2,7,5,0,Jump Shot,26,145,222,False
+Channing Frye,4,11,8,0,Jump Shot,24,218,121,False
+Channing Frye,4,3,27,0,Jump Shot,22,-168,154,True
+Channing Frye,2,9,5,0,Jump Shot,26,-150,218,False
+Channing Frye,3,4,40,0,Jump Shot,25,152,204,False
+Channing Frye,1,1,36,1,Jump Shot,25,53,246,False
+Channing Frye,4,7,5,1,Jump Shot,17,159,83,True
+Channing Frye,4,1,19,1,Jump Shot,23,236,37,False
+Channing Frye,4,6,37,0,Jump Shot,20,203,-20,True
+Channing Frye,4,2,26,0,Jump Shot,26,201,176,False
+Channing Frye,4,4,44,0,Jump Shot,22,-206,100,True
+Channing Frye,4,1,16,1,Jump Shot,24,82,232,False
+Channing Frye,4,2,19,1,Jump Shot,25,-196,159,False
+Channing Frye,4,2,41,0,Jump Shot,21,-183,121,True
+Channing Frye,4,1,48,0,Jump Shot,22,-227,-2,False
+Channing Frye,4,3,14,1,Jump Shot,24,-87,230,False
+Channing Frye,4,4,6,0,Jump Shot,25,78,247,False
+Channing Frye,4,3,10,0,Jump Shot,24,128,211,False
+Channing Frye,4,2,51,0,Jump Shot,15,36,149,True
+Channing Frye,4,4,13,1,Jump Shot,22,-160,165,True
+Channing Frye,2,9,11,1,Jump Shot,25,-179,179,False
+Channing Frye,2,7,23,0,Jump Shot,24,-214,122,False
+Channing Frye,3,3,38,0,Jump Shot,22,-13,221,True
+Channing Frye,1,7,17,0,Jump Shot,26,-117,237,False
+Channing Frye,2,8,43,1,Jump Shot,22,-176,136,True
+Channing Frye,4,6,23,0,Jump Shot,23,192,141,False
+Channing Frye,2,5,42,1,Jump Shot,26,-27,262,False
+Channing Frye,2,6,50,1,Jump Shot,22,-101,203,True
+Channing Frye,2,6,17,0,Jump Shot,25,111,226,False
+Channing Frye,2,8,35,0,Jump Shot,26,-131,227,False
+Channing Frye,4,5,25,0,Jump Shot,23,198,122,True
+Channing Frye,3,1,52,1,Jump Shot,23,-207,102,True
+Channing Frye,2,11,32,1,Jump Shot,17,-131,121,True
+Channing Frye,2,5,6,0,Jump Shot,17,138,106,True
+Channing Frye,1,0,0,0,Jump Shot,25,54,252,False
+Channing Frye,4,9,53,0,Jump Shot,27,15,275,False
+Channing Frye,4,9,50,0,Jump Shot,26,-198,180,False
+Channing Frye,1,0,1,0,Jump Shot,27,179,208,False
+Channing Frye,2,11,10,1,Jump Shot,26,-139,226,False
+Channing Frye,2,8,5,0,Jump Shot,25,57,246,False
+Channing Frye,4,7,54,0,Jump Shot,25,92,240,False
+Channing Frye,1,1,41,0,Jump Shot,24,161,189,False
+Channing Frye,4,5,25,0,Jump Shot,22,165,147,True
+Channing Frye,3,2,11,1,Jump Shot,22,-128,182,True
+Channing Frye,3,1,18,0,Jump Shot,22,-112,199,True
+Channing Frye,2,10,30,1,Jump Shot,21,-104,188,True
+Channing Frye,2,11,20,0,Jump Shot,24,-164,186,False
+Channing Frye,3,1,47,0,Jump Shot,24,101,221,False
+Channing Frye,1,6,50,1,Layup Shot,0,-5,8,True
+Channing Frye,2,7,52,1,Layup Shot,1,8,9,True
+Channing Frye,2,10,27,1,Layup Shot,0,6,6,True
+Channing Frye,1,0,1,1,Layup Shot,0,3,3,True
+Channing Frye,2,10,27,0,Layup Shot,3,16,26,True
+Channing Frye,2,10,2,1,Layup Shot,1,-9,16,True
+Channing Frye,2,9,49,1,Layup Shot,0,-7,6,True
+Channing Frye,4,9,35,1,Layup Shot,4,18,36,True
+Channing Frye,2,8,54,1,Layup Shot,1,-5,15,True
+Channing Frye,2,11,46,1,Layup Shot,1,-10,5,True
+Channing Frye,4,9,37,0,Layup Shot,2,18,14,True
+Channing Frye,4,7,31,1,Layup Shot,2,-11,18,True
+Channing Frye,4,11,19,0,Pullup Jump shot,21,130,172,True
+Channing Frye,3,2,5,1,Pullup Jump shot,26,-138,228,False
+Channing Frye,2,7,44,1,Putback Dunk Shot,0,0,-6,True
+Channing Frye,3,1,41,1,Putback Layup Shot,0,0,-6,True
+Channing Frye,3,0,0,0,Running Jump Shot,52,-158,501,False
+Channing Frye,4,9,47,1,Running Layup Shot,2,7,25,True
+Channing Frye,2,7,22,1,Step Back Jump shot,15,69,134,True
+Channing Frye,2,10,40,1,Step Back Jump shot,18,60,176,True
+Channing Frye,2,11,26,1,Tip Layup Shot,1,15,3,True
+Channing Frye,4,7,49,1,Tip Layup Shot,0,0,-6,True
+Channing Frye,4,7,51,0,Tip Layup Shot,0,0,-6,True
+Channing Frye,3,0,14,1,Tip Layup Shot,0,0,-6,True
+Channing Frye,4,2,17,1,Turnaround Bank Hook Shot,8,28,80,True
+Channing Frye,3,0,20,1,Turnaround Fadeaway shot,9,91,28,True
+Channing Frye,3,2,50,1,Turnaround Fadeaway shot,15,128,90,True
+Channing Frye,2,8,23,1,Turnaround Fadeaway shot,11,-97,58,True
+Channing Frye,2,7,50,0,Turnaround Fadeaway shot,16,96,128,True
+Channing Frye,2,1,6,1,Turnaround Fadeaway shot,12,0,127,True
+Channing Frye,2,8,37,0,Turnaround Fadeaway shot,19,154,122,True
+Channing Frye,4,0,55,1,Turnaround Fadeaway shot,15,150,3,True
+Channing Frye,4,4,53,0,Turnaround Hook Shot,11,23,110,True
+Channing Frye,4,1,42,1,Turnaround Hook Shot,9,-21,94,True
+Channing Frye,2,9,47,0,Turnaround Hook Shot,2,-15,25,True
+Channing Frye,1,2,17,1,Turnaround Hook Shot,2,-18,21,True
+Channing Frye,3,0,45,0,Turnaround Hook Shot,7,23,69,True
+Channing Frye,4,10,51,1,Turnaround Hook Shot,2,5,29,True
+Channing Frye,2,8,49,1,Turnaround Jump Shot,12,90,85,True
+Channing Frye,1,1,42,1,Turnaround Jump Shot,15,136,67,True
+Channing Frye,4,2,14,1,Turnaround Jump Shot,11,-14,111,True

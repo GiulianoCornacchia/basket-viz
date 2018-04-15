@@ -1,0 +1,564 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Joe Harris,1,0,56,1,Alley Oop Layup shot,1,11,10,True
+Joe Harris,4,8,39,1,Cutting Dunk Shot,0,2,6,True
+Joe Harris,4,8,56,1,Cutting Layup Shot,1,19,-1,True
+Joe Harris,3,10,5,1,Cutting Layup Shot,1,9,10,True
+Joe Harris,4,4,57,1,Cutting Layup Shot,0,1,-5,True
+Joe Harris,2,1,7,1,Cutting Layup Shot,1,-14,8,True
+Joe Harris,2,2,46,0,Cutting Layup Shot,2,-13,26,True
+Joe Harris,3,6,35,1,Cutting Layup Shot,1,3,15,True
+Joe Harris,2,7,1,1,Cutting Layup Shot,3,-33,17,True
+Joe Harris,1,1,57,1,Cutting Layup Shot,0,8,4,True
+Joe Harris,3,9,14,1,Cutting Layup Shot,1,13,13,True
+Joe Harris,1,3,12,1,Cutting Layup Shot,0,0,2,True
+Joe Harris,4,8,46,1,Cutting Layup Shot,3,30,21,True
+Joe Harris,2,1,52,1,Cutting Layup Shot,1,-11,2,True
+Joe Harris,2,10,11,0,Cutting Layup Shot,5,13,57,True
+Joe Harris,3,3,33,1,Cutting Layup Shot,1,17,4,True
+Joe Harris,1,1,2,0,Cutting Layup Shot,0,-2,9,True
+Joe Harris,3,0,24,1,Cutting Layup Shot,1,10,11,True
+Joe Harris,4,6,9,1,Cutting Layup Shot,1,-13,6,True
+Joe Harris,2,7,3,0,Cutting Layup Shot,0,-9,0,True
+Joe Harris,3,1,19,0,Cutting Layup Shot,2,7,26,True
+Joe Harris,2,10,55,1,Cutting Layup Shot,2,-8,22,True
+Joe Harris,1,0,10,1,Cutting Layup Shot,2,-23,4,True
+Joe Harris,1,10,24,1,Cutting Layup Shot,0,-5,5,True
+Joe Harris,3,4,9,1,Cutting Layup Shot,0,5,6,True
+Joe Harris,2,0,19,0,Cutting Layup Shot,3,26,20,True
+Joe Harris,2,2,18,1,Driving Dunk Shot,0,-5,-6,True
+Joe Harris,2,7,5,0,Driving Dunk Shot,2,5,21,True
+Joe Harris,2,2,58,1,Driving Dunk Shot,2,0,20,True
+Joe Harris,1,3,55,0,Driving Finger Roll Layup Shot,3,32,20,True
+Joe Harris,2,11,32,0,Driving Finger Roll Layup Shot,2,20,1,True
+Joe Harris,3,6,31,1,Driving Finger Roll Layup Shot,0,-5,6,True
+Joe Harris,1,1,59,1,Driving Finger Roll Layup Shot,3,-24,31,True
+Joe Harris,4,7,10,0,Driving Finger Roll Layup Shot,5,27,47,True
+Joe Harris,2,0,52,1,Driving Finger Roll Layup Shot,0,-1,6,True
+Joe Harris,2,10,16,1,Driving Finger Roll Layup Shot,1,-14,1,True
+Joe Harris,4,4,39,0,Driving Finger Roll Layup Shot,2,11,26,True
+Joe Harris,1,10,59,0,Driving Finger Roll Layup Shot,4,5,41,True
+Joe Harris,2,9,40,1,Driving Finger Roll Layup Shot,2,2,22,True
+Joe Harris,2,1,1,0,Driving Floating Bank Jump Shot,8,-86,20,True
+Joe Harris,2,3,49,1,Driving Floating Bank Jump Shot,9,-5,94,True
+Joe Harris,3,2,48,1,Driving Floating Bank Jump Shot,10,-84,65,True
+Joe Harris,2,10,1,1,Driving Floating Bank Jump Shot,1,-2,18,True
+Joe Harris,1,9,45,1,Driving Floating Bank Jump Shot,1,-14,8,True
+Joe Harris,3,4,34,1,Driving Floating Jump Shot,5,45,31,True
+Joe Harris,1,2,33,1,Driving Floating Jump Shot,7,-32,64,True
+Joe Harris,2,7,40,1,Driving Floating Jump Shot,7,-47,58,True
+Joe Harris,4,10,21,1,Driving Floating Jump Shot,7,-46,58,True
+Joe Harris,4,11,36,1,Driving Floating Jump Shot,2,-9,26,True
+Joe Harris,2,2,5,0,Driving Floating Jump Shot,12,-46,115,True
+Joe Harris,3,1,16,1,Driving Floating Jump Shot,9,1,90,True
+Joe Harris,2,8,12,1,Driving Floating Jump Shot,5,-1,59,True
+Joe Harris,2,9,35,0,Driving Floating Jump Shot,13,25,134,True
+Joe Harris,3,8,40,1,Driving Layup Shot,1,6,13,True
+Joe Harris,1,10,32,1,Driving Layup Shot,1,17,10,True
+Joe Harris,2,0,8,1,Driving Layup Shot,1,-9,14,True
+Joe Harris,2,8,19,1,Driving Layup Shot,1,-6,10,True
+Joe Harris,4,4,6,1,Driving Layup Shot,5,55,4,True
+Joe Harris,2,5,48,1,Driving Layup Shot,2,6,24,True
+Joe Harris,1,6,21,1,Driving Layup Shot,1,-13,12,True
+Joe Harris,4,2,8,1,Driving Layup Shot,0,-2,8,True
+Joe Harris,4,7,38,1,Driving Layup Shot,1,-11,12,True
+Joe Harris,4,5,0,1,Driving Layup Shot,2,20,3,True
+Joe Harris,3,8,57,1,Driving Layup Shot,1,13,-1,True
+Joe Harris,5,3,44,1,Driving Layup Shot,1,14,10,True
+Joe Harris,1,5,25,0,Driving Layup Shot,2,4,23,True
+Joe Harris,3,7,54,0,Driving Layup Shot,4,33,28,True
+Joe Harris,1,5,22,0,Driving Layup Shot,5,-51,22,True
+Joe Harris,1,1,30,1,Driving Layup Shot,1,-11,0,True
+Joe Harris,1,10,11,0,Driving Layup Shot,3,-5,35,True
+Joe Harris,3,9,15,0,Driving Layup Shot,4,-9,40,True
+Joe Harris,3,2,53,0,Driving Layup Shot,1,-16,11,True
+Joe Harris,1,3,32,1,Driving Layup Shot,1,-10,14,True
+Joe Harris,1,2,41,1,Driving Layup Shot,2,26,11,True
+Joe Harris,1,1,53,1,Driving Layup Shot,3,-28,15,True
+Joe Harris,3,2,53,0,Driving Layup Shot,3,23,22,True
+Joe Harris,1,2,23,0,Driving Layup Shot,6,-8,62,True
+Joe Harris,2,8,53,1,Driving Layup Shot,1,1,19,True
+Joe Harris,4,10,31,1,Driving Layup Shot,3,-19,24,True
+Joe Harris,3,6,36,0,Driving Layup Shot,1,12,13,True
+Joe Harris,4,5,41,0,Driving Layup Shot,0,2,8,True
+Joe Harris,2,6,5,1,Driving Layup Shot,1,-17,5,True
+Joe Harris,2,5,28,0,Driving Layup Shot,7,-28,67,True
+Joe Harris,3,5,23,1,Driving Layup Shot,1,-4,11,True
+Joe Harris,3,3,56,1,Driving Layup Shot,1,-10,4,True
+Joe Harris,1,0,0,0,Driving Layup Shot,1,12,13,True
+Joe Harris,4,1,30,0,Driving Layup Shot,4,-35,29,True
+Joe Harris,3,0,2,0,Driving Layup Shot,1,-2,13,True
+Joe Harris,3,1,28,0,Driving Layup Shot,2,-19,13,True
+Joe Harris,1,0,25,1,Driving Layup Shot,1,14,11,True
+Joe Harris,3,2,35,1,Driving Layup Shot,1,1,10,True
+Joe Harris,4,11,13,1,Driving Layup Shot,0,-9,4,True
+Joe Harris,1,10,35,0,Driving Layup Shot,5,52,29,True
+Joe Harris,3,0,6,1,Driving Layup Shot,3,29,17,True
+Joe Harris,2,9,29,0,Driving Layup Shot,2,20,13,True
+Joe Harris,2,9,25,1,Driving Layup Shot,2,-14,17,True
+Joe Harris,2,9,45,0,Driving Layup Shot,3,-27,25,True
+Joe Harris,2,8,26,1,Driving Layup Shot,1,18,-4,True
+Joe Harris,1,2,32,0,Driving Layup Shot,3,-6,37,True
+Joe Harris,4,5,4,1,Driving Layup Shot,6,-43,43,True
+Joe Harris,1,2,18,0,Driving Layup Shot,4,30,34,True
+Joe Harris,4,11,12,0,Driving Layup Shot,4,29,30,True
+Joe Harris,4,10,31,1,Driving Layup Shot,1,12,10,True
+Joe Harris,1,3,41,0,Driving Layup Shot,4,-49,6,True
+Joe Harris,4,8,38,1,Driving Layup Shot,4,-47,4,True
+Joe Harris,2,1,8,0,Driving Layup Shot,2,-11,20,True
+Joe Harris,2,7,44,1,Driving Layup Shot,1,-13,2,True
+Joe Harris,4,5,16,0,Driving Layup Shot,1,2,15,True
+Joe Harris,4,11,19,1,Driving Layup Shot,2,-3,20,True
+Joe Harris,1,3,44,0,Driving Layup Shot,3,6,37,True
+Joe Harris,3,3,59,1,Driving Layup Shot,1,-3,16,True
+Joe Harris,2,6,17,1,Driving Layup Shot,3,-33,10,True
+Joe Harris,1,3,38,1,Driving Layup Shot,1,-14,8,True
+Joe Harris,3,3,29,1,Driving Layup Shot,0,6,-1,True
+Joe Harris,3,6,53,0,Driving Layup Shot,1,-14,-4,True
+Joe Harris,1,0,31,1,Driving Layup Shot,1,9,6,True
+Joe Harris,2,3,23,1,Driving Layup Shot,2,-17,18,True
+Joe Harris,2,10,46,0,Driving Layup Shot,2,9,19,True
+Joe Harris,2,11,26,0,Driving Layup Shot,5,18,53,True
+Joe Harris,3,5,2,0,Driving Layup Shot,5,-4,55,True
+Joe Harris,5,2,24,0,Driving Layup Shot,2,25,3,True
+Joe Harris,4,11,22,0,Driving Layup Shot,4,-39,25,True
+Joe Harris,3,1,48,1,Driving Layup Shot,0,5,-1,True
+Joe Harris,4,7,38,1,Driving Layup Shot,2,23,3,True
+Joe Harris,1,0,31,1,Driving Layup Shot,2,15,23,True
+Joe Harris,4,11,22,0,Driving Layup Shot,1,-5,9,True
+Joe Harris,1,2,0,1,Driving Reverse Layup Shot,1,-7,17,True
+Joe Harris,2,3,6,0,Driving Reverse Layup Shot,1,13,1,True
+Joe Harris,2,7,15,1,Driving Reverse Layup Shot,1,13,2,True
+Joe Harris,1,3,34,1,Driving Reverse Layup Shot,0,2,5,True
+Joe Harris,2,2,21,0,Driving Reverse Layup Shot,2,-19,18,True
+Joe Harris,4,10,52,0,Driving Reverse Layup Shot,1,13,6,True
+Joe Harris,4,4,27,1,Driving Reverse Layup Shot,1,11,3,True
+Joe Harris,2,9,36,0,Driving Reverse Layup Shot,1,16,10,True
+Joe Harris,4,6,51,1,Driving Reverse Layup Shot,2,-23,12,True
+Joe Harris,2,8,1,1,Driving Reverse Layup Shot,1,11,10,True
+Joe Harris,2,0,49,1,Driving Reverse Layup Shot,0,-5,6,True
+Joe Harris,2,8,16,1,Driving Reverse Layup Shot,2,-21,10,True
+Joe Harris,2,5,58,1,Driving Reverse Layup Shot,1,13,0,True
+Joe Harris,3,1,10,1,Driving Reverse Layup Shot,1,-18,4,True
+Joe Harris,2,11,9,0,Driving Reverse Layup Shot,2,21,8,True
+Joe Harris,4,9,26,1,Driving Reverse Layup Shot,2,-2,20,True
+Joe Harris,2,9,17,1,Driving Reverse Layup Shot,1,8,8,True
+Joe Harris,4,9,50,0,Dunk Shot,1,13,8,True
+Joe Harris,4,6,30,0,Floating Jump shot,24,-178,164,False
+Joe Harris,2,4,14,0,Floating Jump shot,8,4,81,True
+Joe Harris,4,10,39,1,Floating Jump shot,7,-35,67,True
+Joe Harris,3,8,29,1,Floating Jump shot,8,50,66,True
+Joe Harris,1,3,33,1,Jump Bank Shot,5,-55,20,True
+Joe Harris,4,6,1,1,Jump Shot,22,220,40,False
+Joe Harris,4,6,51,0,Jump Shot,25,-8,253,False
+Joe Harris,4,11,49,0,Jump Shot,26,94,252,False
+Joe Harris,2,7,57,0,Jump Shot,25,231,100,False
+Joe Harris,3,1,40,1,Jump Shot,25,94,240,False
+Joe Harris,3,2,59,1,Jump Shot,26,191,188,False
+Joe Harris,3,10,58,1,Jump Shot,26,-150,214,False
+Joe Harris,3,10,26,1,Jump Shot,25,-55,248,False
+Joe Harris,4,7,3,1,Jump Shot,25,200,159,False
+Joe Harris,2,8,40,1,Jump Shot,25,-48,246,False
+Joe Harris,3,7,45,0,Jump Shot,25,151,205,False
+Joe Harris,4,3,27,1,Jump Shot,26,25,260,False
+Joe Harris,1,11,21,1,Jump Shot,26,-122,232,False
+Joe Harris,1,10,54,0,Jump Shot,23,233,48,False
+Joe Harris,2,10,38,1,Jump Shot,22,-226,1,False
+Joe Harris,4,10,32,0,Jump Shot,23,-231,14,False
+Joe Harris,1,10,53,0,Jump Shot,25,171,189,False
+Joe Harris,2,3,45,1,Jump Shot,25,-171,193,False
+Joe Harris,1,10,6,0,Jump Shot,26,123,231,False
+Joe Harris,3,9,56,0,Jump Shot,25,127,225,False
+Joe Harris,1,5,25,1,Jump Shot,27,176,213,False
+Joe Harris,1,8,31,1,Jump Shot,25,-16,256,False
+Joe Harris,1,9,3,0,Jump Shot,25,-165,200,False
+Joe Harris,2,8,10,0,Jump Shot,24,204,141,False
+Joe Harris,4,0,29,0,Jump Shot,25,159,198,False
+Joe Harris,4,5,28,0,Jump Shot,25,-138,210,False
+Joe Harris,2,7,11,0,Jump Shot,25,133,222,False
+Joe Harris,4,8,2,0,Jump Shot,23,230,36,False
+Joe Harris,3,1,2,1,Jump Shot,22,228,11,False
+Joe Harris,2,1,16,1,Jump Shot,26,-60,262,False
+Joe Harris,3,4,33,0,Jump Shot,25,-179,180,False
+Joe Harris,4,8,36,0,Jump Shot,24,176,176,False
+Joe Harris,3,0,50,1,Jump Shot,25,-181,179,False
+Joe Harris,3,1,12,0,Jump Shot,23,-234,50,False
+Joe Harris,4,9,12,1,Jump Shot,27,74,264,False
+Joe Harris,1,2,16,1,Jump Shot,23,-228,36,False
+Joe Harris,2,8,4,1,Jump Shot,26,-159,212,False
+Joe Harris,1,2,50,1,Jump Shot,24,205,125,False
+Joe Harris,3,2,59,0,Jump Shot,22,226,9,False
+Joe Harris,3,0,43,1,Jump Shot,25,19,255,False
+Joe Harris,2,10,26,1,Jump Shot,25,-213,134,False
+Joe Harris,4,3,3,1,Jump Shot,24,13,248,False
+Joe Harris,2,9,2,1,Jump Shot,23,-230,-17,False
+Joe Harris,4,6,12,0,Jump Shot,24,177,169,False
+Joe Harris,1,0,33,0,Jump Shot,26,-155,212,False
+Joe Harris,4,9,25,0,Jump Shot,22,225,11,False
+Joe Harris,2,7,0,0,Jump Shot,24,37,244,False
+Joe Harris,3,0,1,0,Jump Shot,24,-32,246,False
+Joe Harris,2,9,54,1,Jump Shot,24,-201,147,False
+Joe Harris,3,3,1,0,Jump Shot,22,-228,-10,False
+Joe Harris,2,6,20,0,Jump Shot,22,222,22,False
+Joe Harris,2,8,15,0,Jump Shot,22,-225,1,False
+Joe Harris,4,10,44,1,Jump Shot,26,133,226,False
+Joe Harris,1,10,5,1,Jump Shot,26,-169,200,False
+Joe Harris,1,11,22,0,Jump Shot,25,2,253,False
+Joe Harris,4,6,43,1,Jump Shot,26,-181,191,False
+Joe Harris,1,6,44,0,Jump Shot,25,128,220,False
+Joe Harris,4,7,19,0,Jump Shot,25,-24,257,False
+Joe Harris,4,7,54,1,Jump Shot,25,93,237,False
+Joe Harris,1,4,26,0,Jump Shot,25,128,224,False
+Joe Harris,4,7,20,1,Jump Shot,26,-58,260,False
+Joe Harris,2,5,26,0,Jump Shot,25,44,255,False
+Joe Harris,4,0,2,0,Jump Shot,27,165,215,False
+Joe Harris,4,0,0,0,Jump Shot,26,-6,260,False
+Joe Harris,3,4,28,1,Jump Shot,26,169,198,False
+Joe Harris,4,7,12,0,Jump Shot,27,-147,230,False
+Joe Harris,1,1,43,0,Jump Shot,24,163,189,False
+Joe Harris,2,8,25,1,Jump Shot,26,-212,153,False
+Joe Harris,1,3,41,0,Jump Shot,25,169,197,False
+Joe Harris,1,3,19,0,Jump Shot,26,-159,206,False
+Joe Harris,4,8,48,1,Jump Shot,22,226,29,False
+Joe Harris,4,7,4,1,Jump Shot,25,54,253,False
+Joe Harris,3,1,3,1,Jump Shot,25,17,255,False
+Joe Harris,2,6,51,0,Jump Shot,26,-214,151,False
+Joe Harris,1,3,27,0,Jump Shot,23,-230,1,False
+Joe Harris,3,3,59,1,Jump Shot,14,60,136,True
+Joe Harris,3,5,57,0,Jump Shot,24,159,186,False
+Joe Harris,1,1,0,0,Jump Shot,22,221,29,False
+Joe Harris,3,2,33,1,Jump Shot,26,128,236,False
+Joe Harris,3,1,54,0,Jump Shot,22,-221,24,False
+Joe Harris,1,9,18,0,Jump Shot,25,0,252,False
+Joe Harris,1,5,35,1,Jump Shot,25,-133,223,False
+Joe Harris,2,6,13,0,Jump Shot,4,-41,10,True
+Joe Harris,3,7,33,1,Jump Shot,25,-10,251,False
+Joe Harris,1,6,49,0,Jump Shot,23,223,82,False
+Joe Harris,4,6,47,0,Jump Shot,24,-220,117,False
+Joe Harris,4,3,0,1,Jump Shot,26,-193,185,False
+Joe Harris,3,4,35,1,Jump Shot,23,-230,14,False
+Joe Harris,3,8,9,0,Jump Shot,23,232,5,False
+Joe Harris,1,8,31,1,Jump Shot,24,118,219,False
+Joe Harris,3,5,43,0,Jump Shot,7,-2,73,True
+Joe Harris,3,10,25,0,Jump Shot,17,132,109,True
+Joe Harris,3,11,9,0,Jump Shot,25,18,251,False
+Joe Harris,3,6,30,1,Jump Shot,25,214,137,False
+Joe Harris,1,8,8,0,Jump Shot,24,-242,10,False
+Joe Harris,3,10,17,0,Jump Shot,25,192,166,False
+Joe Harris,1,5,5,0,Jump Shot,22,-225,-9,False
+Joe Harris,2,8,49,0,Jump Shot,22,220,2,False
+Joe Harris,4,4,45,0,Jump Shot,24,-57,243,False
+Joe Harris,2,8,32,1,Jump Shot,22,223,53,False
+Joe Harris,3,11,6,0,Jump Shot,25,-135,216,False
+Joe Harris,1,2,31,0,Jump Shot,27,-28,275,False
+Joe Harris,4,9,24,1,Jump Shot,23,236,20,False
+Joe Harris,1,0,32,0,Jump Shot,25,33,257,False
+Joe Harris,4,9,49,0,Jump Shot,25,-180,187,False
+Joe Harris,1,0,55,0,Jump Shot,23,-234,-5,False
+Joe Harris,4,7,33,0,Jump Shot,24,-218,117,False
+Joe Harris,4,0,1,0,Jump Shot,24,-222,111,False
+Joe Harris,2,0,46,1,Jump Shot,27,-187,195,False
+Joe Harris,2,1,59,1,Jump Shot,25,-50,247,False
+Joe Harris,4,11,23,0,Jump Shot,25,-141,213,False
+Joe Harris,2,9,42,0,Jump Shot,25,-152,205,False
+Joe Harris,1,2,25,0,Jump Shot,25,86,244,False
+Joe Harris,1,1,48,1,Jump Shot,25,-100,239,False
+Joe Harris,1,4,7,0,Jump Shot,23,-15,239,True
+Joe Harris,3,10,33,1,Jump Shot,25,-157,200,False
+Joe Harris,3,9,21,1,Jump Shot,26,-106,246,False
+Joe Harris,4,8,3,0,Jump Shot,26,204,167,False
+Joe Harris,4,8,29,0,Jump Shot,14,-135,58,True
+Joe Harris,2,11,47,1,Jump Shot,27,-41,267,False
+Joe Harris,2,9,9,1,Jump Shot,24,-69,232,False
+Joe Harris,4,7,44,1,Jump Shot,26,-134,227,False
+Joe Harris,1,0,37,1,Jump Shot,24,-81,230,False
+Joe Harris,2,10,51,1,Jump Shot,25,13,255,False
+Joe Harris,1,0,7,0,Jump Shot,26,-154,220,False
+Joe Harris,3,1,57,0,Jump Shot,26,-141,220,False
+Joe Harris,2,6,35,1,Jump Shot,26,-144,227,False
+Joe Harris,1,3,23,1,Jump Shot,24,-47,244,False
+Joe Harris,1,1,52,1,Jump Shot,22,-225,-10,False
+Joe Harris,4,3,45,0,Jump Shot,22,-222,46,False
+Joe Harris,4,1,14,0,Jump Shot,26,196,174,False
+Joe Harris,1,0,56,0,Jump Shot,25,66,250,False
+Joe Harris,4,8,14,0,Jump Shot,26,109,242,False
+Joe Harris,4,10,3,1,Jump Shot,26,29,259,False
+Joe Harris,2,6,24,0,Jump Shot,25,-177,177,False
+Joe Harris,2,9,18,0,Jump Shot,22,-228,-5,False
+Joe Harris,4,8,46,1,Jump Shot,26,-12,264,False
+Joe Harris,4,7,4,1,Jump Shot,22,-228,-15,False
+Joe Harris,2,10,39,1,Jump Shot,25,-174,188,False
+Joe Harris,1,3,1,0,Jump Shot,23,230,41,False
+Joe Harris,2,8,18,1,Jump Shot,22,225,10,False
+Joe Harris,2,7,11,1,Jump Shot,25,-37,250,False
+Joe Harris,2,8,3,0,Jump Shot,25,-14,256,False
+Joe Harris,3,8,18,0,Jump Shot,24,-195,143,False
+Joe Harris,1,7,15,1,Jump Shot,27,-29,272,False
+Joe Harris,3,6,35,0,Jump Shot,22,223,-4,False
+Joe Harris,4,3,14,1,Jump Shot,24,11,242,False
+Joe Harris,3,11,16,1,Jump Shot,22,-152,164,True
+Joe Harris,3,1,17,0,Jump Shot,25,109,230,False
+Joe Harris,4,1,45,1,Jump Shot,23,-217,101,False
+Joe Harris,1,11,41,0,Jump Shot,24,168,183,False
+Joe Harris,3,4,13,0,Jump Shot,24,-214,122,False
+Joe Harris,4,10,37,0,Jump Shot,24,142,198,False
+Joe Harris,3,0,47,1,Jump Shot,24,229,100,False
+Joe Harris,1,2,59,1,Jump Shot,25,-123,218,False
+Joe Harris,1,6,37,1,Jump Shot,23,228,36,False
+Joe Harris,3,6,30,1,Jump Shot,22,228,-25,False
+Joe Harris,2,8,2,0,Jump Shot,25,-123,219,False
+Joe Harris,3,8,6,0,Jump Shot,25,135,220,False
+Joe Harris,4,6,26,0,Jump Shot,26,21,267,False
+Joe Harris,1,11,9,0,Jump Shot,24,-97,227,False
+Joe Harris,1,2,48,0,Jump Shot,22,223,0,False
+Joe Harris,4,10,59,1,Jump Shot,24,31,246,False
+Joe Harris,4,8,54,1,Jump Shot,24,-34,246,False
+Joe Harris,2,6,42,1,Jump Shot,27,-133,237,False
+Joe Harris,4,4,16,0,Jump Shot,25,-9,258,False
+Joe Harris,3,5,52,1,Jump Shot,24,239,47,False
+Joe Harris,2,10,16,0,Jump Shot,28,-81,274,False
+Joe Harris,4,2,11,0,Jump Shot,22,-227,11,False
+Joe Harris,1,2,41,1,Jump Shot,24,-235,52,False
+Joe Harris,1,4,19,1,Jump Shot,22,228,23,False
+Joe Harris,4,10,56,0,Jump Shot,25,-193,159,False
+Joe Harris,1,0,50,0,Jump Shot,25,16,253,False
+Joe Harris,2,9,2,0,Jump Shot,22,221,-4,False
+Joe Harris,4,11,42,0,Jump Shot,25,78,246,False
+Joe Harris,4,9,32,0,Jump Shot,22,225,-13,False
+Joe Harris,1,3,23,1,Jump Shot,24,-205,135,False
+Joe Harris,2,11,35,0,Jump Shot,24,-206,139,False
+Joe Harris,4,11,48,0,Jump Shot,23,230,-10,False
+Joe Harris,4,9,36,0,Jump Shot,24,44,242,False
+Joe Harris,1,1,43,1,Jump Shot,22,-227,-4,False
+Joe Harris,3,4,20,0,Jump Shot,24,127,214,False
+Joe Harris,4,8,42,0,Jump Shot,22,222,-8,False
+Joe Harris,1,0,41,0,Jump Shot,25,-22,251,False
+Joe Harris,1,1,1,1,Jump Shot,25,-98,237,False
+Joe Harris,1,0,0,0,Jump Shot,26,123,233,False
+Joe Harris,2,11,9,0,Jump Shot,25,14,253,False
+Joe Harris,2,9,22,1,Jump Shot,25,80,245,False
+Joe Harris,1,0,50,0,Jump Shot,22,-228,0,False
+Joe Harris,4,0,2,1,Jump Shot,22,225,5,False
+Joe Harris,2,8,41,1,Jump Shot,23,231,31,False
+Joe Harris,4,11,29,1,Jump Shot,25,176,180,False
+Joe Harris,2,11,44,0,Jump Shot,24,175,178,False
+Joe Harris,4,10,43,1,Jump Shot,25,19,254,False
+Joe Harris,4,7,30,0,Jump Shot,22,-224,-5,False
+Joe Harris,4,10,8,0,Jump Shot,24,-10,246,False
+Joe Harris,4,5,9,1,Jump Shot,25,-4,251,False
+Joe Harris,3,0,38,0,Jump Shot,24,164,187,False
+Joe Harris,1,3,11,0,Jump Shot,25,-106,227,False
+Joe Harris,3,1,49,0,Jump Shot,25,-80,237,False
+Joe Harris,1,2,35,0,Jump Shot,22,-223,-4,False
+Joe Harris,2,6,58,1,Jump Shot,22,225,39,False
+Joe Harris,3,11,18,0,Jump Shot,23,234,24,False
+Joe Harris,3,8,54,1,Jump Shot,24,202,140,False
+Joe Harris,2,10,34,0,Jump Shot,26,117,237,False
+Joe Harris,2,10,7,0,Jump Shot,26,158,210,False
+Joe Harris,3,0,35,0,Jump Shot,25,174,193,False
+Joe Harris,4,2,22,1,Jump Shot,24,92,231,False
+Joe Harris,4,10,12,0,Jump Shot,24,5,247,False
+Joe Harris,4,10,53,0,Jump Shot,25,-28,249,False
+Joe Harris,2,10,41,0,Jump Shot,25,6,250,False
+Joe Harris,1,1,24,1,Jump Shot,25,212,143,False
+Joe Harris,4,4,4,0,Jump Shot,23,234,38,False
+Joe Harris,3,1,10,1,Jump Shot,4,2,41,True
+Joe Harris,2,10,36,1,Jump Shot,26,52,259,False
+Joe Harris,3,0,0,0,Jump Shot,45,-127,441,False
+Joe Harris,2,4,24,0,Jump Shot,22,-221,48,False
+Joe Harris,1,3,9,1,Jump Shot,26,18,267,False
+Joe Harris,4,0,6,0,Jump Shot,23,-233,-2,False
+Joe Harris,3,0,13,1,Jump Shot,23,-234,-5,False
+Joe Harris,1,1,9,1,Jump Shot,26,-88,251,False
+Joe Harris,3,0,35,1,Jump Shot,26,-150,213,False
+Joe Harris,4,11,32,0,Jump Shot,16,122,111,True
+Joe Harris,4,9,26,0,Jump Shot,23,228,57,False
+Joe Harris,2,9,17,0,Jump Shot,18,-65,172,True
+Joe Harris,3,0,6,0,Jump Shot,25,-3,252,False
+Joe Harris,3,1,55,1,Jump Shot,26,158,208,False
+Joe Harris,2,10,19,0,Jump Shot,22,-225,5,False
+Joe Harris,1,1,29,1,Jump Shot,27,189,193,False
+Joe Harris,4,9,30,1,Jump Shot,24,221,103,False
+Joe Harris,4,7,21,0,Jump Shot,22,223,25,False
+Joe Harris,1,0,0,0,Jump Shot,32,24,321,False
+Joe Harris,2,11,13,0,Jump Shot,22,221,60,False
+Joe Harris,2,11,14,0,Jump Shot,26,-43,258,False
+Joe Harris,4,8,3,0,Jump Shot,25,-168,196,False
+Joe Harris,4,9,31,0,Jump Shot,24,234,59,False
+Joe Harris,2,8,44,1,Jump Shot,22,225,6,False
+Joe Harris,4,7,50,0,Jump Shot,22,225,29,False
+Joe Harris,1,1,40,0,Jump Shot,21,-208,36,True
+Joe Harris,2,7,13,1,Jump Shot,25,164,199,False
+Joe Harris,3,0,8,0,Jump Shot,24,-165,185,False
+Joe Harris,3,2,0,1,Jump Shot,24,109,218,False
+Joe Harris,4,6,50,0,Jump Shot,24,196,155,False
+Joe Harris,4,11,39,0,Jump Shot,24,-209,132,False
+Joe Harris,2,3,22,1,Jump Shot,25,116,232,False
+Joe Harris,1,5,55,1,Jump Shot,25,-40,253,False
+Joe Harris,1,6,15,0,Jump Shot,26,-46,257,False
+Joe Harris,3,8,29,0,Jump Shot,22,-221,3,False
+Joe Harris,2,11,47,1,Jump Shot,22,228,-10,False
+Joe Harris,2,11,12,0,Jump Shot,26,43,262,False
+Joe Harris,4,2,44,1,Jump Shot,3,36,4,True
+Joe Harris,1,0,24,1,Jump Shot,24,-192,159,False
+Joe Harris,4,10,49,1,Jump Shot,25,134,215,False
+Joe Harris,2,11,24,1,Jump Shot,26,99,241,False
+Joe Harris,1,2,48,1,Jump Shot,25,-2,258,False
+Joe Harris,1,3,22,0,Jump Shot,25,10,258,False
+Joe Harris,3,5,53,0,Jump Shot,22,-225,-2,False
+Joe Harris,4,10,53,0,Jump Shot,26,-3,260,False
+Joe Harris,2,8,28,0,Jump Shot,27,-61,264,False
+Joe Harris,3,2,41,0,Jump Shot,24,-171,177,False
+Joe Harris,3,0,22,1,Jump Shot,25,121,230,False
+Joe Harris,1,1,38,0,Jump Shot,24,-229,76,False
+Joe Harris,1,4,19,0,Jump Shot,27,-193,191,False
+Joe Harris,1,3,41,0,Jump Shot,12,124,17,True
+Joe Harris,2,8,13,1,Jump Shot,27,-133,243,False
+Joe Harris,2,8,2,0,Jump Shot,22,-228,6,False
+Joe Harris,3,0,44,0,Jump Shot,25,-167,193,False
+Joe Harris,4,1,0,1,Jump Shot,25,134,215,False
+Joe Harris,4,11,29,0,Jump Shot,27,-53,273,False
+Joe Harris,1,1,24,0,Jump Shot,24,-236,64,False
+Joe Harris,3,0,39,0,Jump Shot,25,-179,182,False
+Joe Harris,2,9,37,0,Jump Shot,27,-18,279,False
+Joe Harris,4,5,50,0,Jump Shot,25,-215,137,False
+Joe Harris,4,8,2,1,Jump Shot,25,-135,220,False
+Joe Harris,2,10,52,1,Jump Shot,26,-14,265,False
+Joe Harris,2,10,20,0,Jump Shot,25,25,257,False
+Joe Harris,4,5,4,0,Jump Shot,25,-20,257,False
+Joe Harris,2,10,23,0,Jump Shot,23,-229,39,False
+Joe Harris,1,1,55,1,Jump Shot,26,-35,262,False
+Joe Harris,4,0,37,0,Jump Shot,22,-225,-1,False
+Joe Harris,2,8,51,1,Jump Shot,26,185,183,False
+Joe Harris,2,9,28,0,Jump Shot,25,40,247,False
+Joe Harris,1,3,8,0,Jump Shot,26,-107,239,False
+Joe Harris,3,1,15,0,Jump Shot,25,-207,143,False
+Joe Harris,3,0,33,0,Jump Shot,22,225,13,False
+Joe Harris,4,8,46,0,Jump Shot,23,230,13,False
+Joe Harris,1,2,35,0,Jump Shot,26,212,163,False
+Joe Harris,2,7,34,1,Jump Shot,22,226,36,False
+Joe Harris,1,2,31,1,Jump Shot,25,214,130,False
+Joe Harris,2,11,45,0,Jump Shot,23,223,75,False
+Joe Harris,3,5,6,0,Jump Shot,26,18,262,False
+Joe Harris,3,4,0,0,Jump Shot,24,-210,134,False
+Joe Harris,1,0,23,1,Jump Shot,19,-193,33,True
+Joe Harris,2,10,21,0,Jump Shot,26,214,153,False
+Joe Harris,2,1,55,0,Jump Shot,24,159,185,False
+Joe Harris,1,3,54,1,Jump Shot,24,-135,206,False
+Joe Harris,3,3,39,0,Jump Shot,25,189,167,False
+Joe Harris,2,9,50,0,Jump Shot,23,231,47,False
+Joe Harris,3,1,56,0,Jump Shot,26,-141,223,False
+Joe Harris,2,2,15,1,Jump Shot,26,164,204,False
+Joe Harris,3,3,37,0,Jump Shot,24,79,237,False
+Joe Harris,1,2,53,0,Jump Shot,25,-40,250,False
+Joe Harris,2,3,1,1,Jump Shot,24,-174,178,False
+Joe Harris,2,5,35,0,Jump Shot,19,16,192,True
+Joe Harris,3,4,42,1,Jump Shot,25,-41,251,False
+Joe Harris,4,7,49,0,Jump Shot,22,225,2,False
+Joe Harris,3,4,5,1,Jump Shot,24,-35,244,False
+Joe Harris,1,1,50,0,Jump Shot,25,-80,239,False
+Joe Harris,1,2,25,1,Jump Shot,25,-150,201,False
+Joe Harris,3,0,43,1,Jump Shot,24,199,137,False
+Joe Harris,2,7,54,1,Jump Shot,25,54,247,False
+Joe Harris,2,6,15,0,Jump Shot,23,226,78,False
+Joe Harris,1,6,49,0,Jump Shot,24,-142,205,False
+Joe Harris,4,1,32,1,Jump Shot,25,114,229,False
+Joe Harris,3,6,12,0,Jump Shot,24,207,132,False
+Joe Harris,3,8,20,0,Jump Shot,25,119,224,False
+Joe Harris,4,1,11,1,Jump Shot,24,204,141,False
+Joe Harris,1,9,49,1,Jump Shot,25,97,237,False
+Joe Harris,2,3,43,0,Jump Shot,25,116,225,False
+Joe Harris,4,1,31,0,Jump Shot,24,166,182,False
+Joe Harris,3,4,40,1,Layup Shot,3,-22,25,True
+Joe Harris,4,6,6,0,Layup Shot,3,-5,39,True
+Joe Harris,2,11,2,0,Layup Shot,2,10,23,True
+Joe Harris,3,10,24,1,Layup Shot,0,3,3,True
+Joe Harris,1,1,22,0,Layup Shot,1,-10,5,True
+Joe Harris,4,5,55,1,Layup Shot,2,18,11,True
+Joe Harris,2,3,23,0,Layup Shot,4,1,47,True
+Joe Harris,3,7,11,0,Layup Shot,0,6,-4,True
+Joe Harris,4,5,39,0,Layup Shot,3,8,31,True
+Joe Harris,1,3,55,0,Layup Shot,3,0,34,True
+Joe Harris,2,7,17,1,Layup Shot,0,-2,7,True
+Joe Harris,2,9,44,0,Layup Shot,2,29,4,True
+Joe Harris,5,0,54,1,Layup Shot,2,-21,1,True
+Joe Harris,2,10,42,1,Layup Shot,2,17,14,True
+Joe Harris,4,6,3,0,Layup Shot,3,-5,31,True
+Joe Harris,4,9,14,0,Layup Shot,1,-19,5,True
+Joe Harris,2,10,37,1,Layup Shot,0,9,4,True
+Joe Harris,2,11,46,0,Layup Shot,5,49,27,True
+Joe Harris,4,6,22,0,Layup Shot,2,-29,-5,True
+Joe Harris,2,7,53,1,Layup Shot,2,2,29,True
+Joe Harris,4,11,20,1,Layup Shot,1,-7,12,True
+Joe Harris,4,6,53,1,Layup Shot,3,32,15,True
+Joe Harris,3,2,51,1,Layup Shot,0,-6,6,True
+Joe Harris,1,3,51,1,Layup Shot,1,-2,16,True
+Joe Harris,2,11,32,1,Layup Shot,2,-10,27,True
+Joe Harris,3,1,17,0,Layup Shot,3,36,14,True
+Joe Harris,4,10,2,0,Layup Shot,1,9,13,True
+Joe Harris,4,5,42,0,Layup Shot,5,-6,54,True
+Joe Harris,4,11,45,1,Layup Shot,2,-27,6,True
+Joe Harris,2,7,43,0,Layup Shot,2,-14,23,True
+Joe Harris,1,1,25,0,Pullup Jump shot,17,-131,117,True
+Joe Harris,2,8,9,1,Pullup Jump shot,24,-1,249,False
+Joe Harris,3,5,0,0,Pullup Jump shot,26,57,255,False
+Joe Harris,2,3,46,0,Pullup Jump shot,19,-67,188,True
+Joe Harris,4,11,1,1,Pullup Jump shot,15,-155,-4,True
+Joe Harris,3,5,23,1,Pullup Jump shot,24,-206,134,False
+Joe Harris,3,11,10,0,Pullup Jump shot,18,152,99,True
+Joe Harris,3,2,53,1,Pullup Jump shot,15,-79,139,True
+Joe Harris,2,10,19,1,Pullup Jump shot,26,134,225,False
+Joe Harris,4,9,28,0,Pullup Jump shot,25,-133,214,False
+Joe Harris,4,11,10,1,Pullup Jump shot,26,143,229,False
+Joe Harris,1,8,9,0,Pullup Jump shot,26,-161,212,False
+Joe Harris,1,0,40,1,Pullup Jump shot,24,199,149,False
+Joe Harris,2,10,0,1,Pullup Jump shot,26,41,264,False
+Joe Harris,3,8,35,0,Pullup Jump shot,12,56,114,True
+Joe Harris,4,6,25,1,Pullup Jump shot,14,120,88,True
+Joe Harris,2,10,56,1,Pullup Jump shot,8,-43,72,True
+Joe Harris,3,2,20,1,Pullup Jump shot,25,41,247,False
+Joe Harris,3,1,41,1,Pullup Jump shot,20,163,120,True
+Joe Harris,3,4,29,0,Pullup Jump shot,18,-109,144,True
+Joe Harris,4,7,13,1,Pullup Jump shot,25,21,256,False
+Joe Harris,3,5,12,0,Pullup Jump shot,7,-38,64,True
+Joe Harris,2,11,40,1,Pullup Jump shot,12,-78,98,True
+Joe Harris,2,10,51,1,Pullup Jump shot,25,-51,248,False
+Joe Harris,4,8,26,1,Pullup Jump shot,25,6,251,False
+Joe Harris,2,10,41,0,Pullup Jump shot,24,-182,161,False
+Joe Harris,2,9,53,0,Pullup Jump shot,27,-131,239,False
+Joe Harris,2,7,49,1,Pullup Jump shot,8,-24,83,True
+Joe Harris,4,5,34,1,Pullup Jump shot,15,155,19,True
+Joe Harris,2,10,31,0,Pullup Jump shot,17,-173,3,True
+Joe Harris,3,2,42,1,Pullup Jump shot,9,-41,85,True
+Joe Harris,2,8,16,0,Pullup Jump shot,25,162,195,False
+Joe Harris,3,2,47,1,Putback Layup Shot,2,-5,22,True
+Joe Harris,2,7,42,0,Putback Layup Shot,2,-23,16,True
+Joe Harris,4,5,12,0,Putback Layup Shot,1,-8,15,True
+Joe Harris,3,4,42,0,Putback Layup Shot,2,13,18,True
+Joe Harris,1,3,6,1,Reverse Layup Shot,1,-15,10,True
+Joe Harris,4,9,26,0,Reverse Layup Shot,0,3,6,True
+Joe Harris,2,9,37,1,Reverse Layup Shot,2,-20,17,True
+Joe Harris,1,0,10,1,Running Finger Roll Layup Shot,1,7,13,True
+Joe Harris,3,2,25,1,Running Jump Shot,24,154,196,False
+Joe Harris,3,8,11,0,Running Jump Shot,23,-230,-2,False
+Joe Harris,3,0,0,0,Running Jump Shot,25,204,147,False
+Joe Harris,1,4,48,0,Running Jump Shot,24,216,116,False
+Joe Harris,4,8,6,1,Running Layup Shot,1,-11,11,True
+Joe Harris,3,3,57,0,Running Layup Shot,3,33,22,True
+Joe Harris,1,0,33,1,Running Layup Shot,1,2,-10,True
+Joe Harris,2,8,5,1,Running Layup Shot,0,2,5,True
+Joe Harris,3,6,21,1,Running Layup Shot,0,9,4,True
+Joe Harris,1,1,2,1,Running Layup Shot,1,4,16,True
+Joe Harris,3,7,21,1,Running Layup Shot,1,3,13,True
+Joe Harris,4,1,8,1,Running Layup Shot,2,25,14,True
+Joe Harris,4,10,37,1,Running Pull-Up Jump Shot,26,187,193,False
+Joe Harris,1,2,57,1,Step Back Jump shot,25,168,196,False
+Joe Harris,3,0,34,1,Step Back Jump shot,12,-129,-2,True
+Joe Harris,4,6,59,0,Tip Layup Shot,1,-11,3,True
+Joe Harris,4,6,27,1,Tip Layup Shot,0,0,-6,True
+Joe Harris,4,5,9,1,Tip Layup Shot,1,-9,8,True
+Joe Harris,3,4,41,0,Tip Layup Shot,1,-11,6,True
+Joe Harris,2,11,18,1,Tip Layup Shot,0,0,-6,True
+Joe Harris,1,2,23,0,Tip Layup Shot,2,-8,20,True
+Joe Harris,1,3,42,0,Turnaround Fadeaway shot,14,127,69,True
+Joe Harris,2,10,33,1,Turnaround Fadeaway shot,9,-77,58,True
+Joe Harris,1,3,32,1,Turnaround Jump Shot,10,49,95,True

@@ -1,0 +1,6 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Vincent Hunter,4,0,6,1,Cutting Layup Shot,0,6,4,True
+Vincent Hunter,4,0,26,1,Driving Reverse Layup Shot,1,-12,7,True
+Vincent Hunter,4,0,46,1,Jump Shot,18,130,128,True
+Vincent Hunter,4,2,6,0,Jump Shot,10,6,100,True
+Vincent Hunter,4,1,24,0,Tip Layup Shot,0,0,-6,True

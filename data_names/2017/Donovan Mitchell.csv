@@ -1,0 +1,1240 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Donovan Mitchell,2,3,42,1,Alley Oop Dunk Shot,1,9,5,True
+Donovan Mitchell,1,11,26,1,Alley Oop Dunk Shot,1,3,16,True
+Donovan Mitchell,1,5,41,1,Alley Oop Dunk Shot,2,-3,26,True
+Donovan Mitchell,3,5,45,1,Alley Oop Dunk Shot,1,-1,10,True
+Donovan Mitchell,3,8,4,1,Alley Oop Dunk Shot,0,7,5,True
+Donovan Mitchell,3,6,53,1,Alley Oop Dunk Shot,0,-1,5,True
+Donovan Mitchell,3,10,26,1,Alley Oop Dunk Shot,1,-16,1,True
+Donovan Mitchell,3,11,42,0,Alley Oop Dunk Shot,1,10,13,True
+Donovan Mitchell,1,8,26,1,Alley Oop Dunk Shot,2,-11,20,True
+Donovan Mitchell,1,4,51,1,Alley Oop Dunk Shot,1,-14,8,True
+Donovan Mitchell,1,10,41,0,Alley Oop Dunk Shot,0,-6,-6,True
+Donovan Mitchell,3,3,23,1,Alley Oop Dunk Shot,2,-4,20,True
+Donovan Mitchell,2,4,57,1,Alley Oop Dunk Shot,2,-19,13,True
+Donovan Mitchell,1,7,59,0,Cutting Dunk Shot,1,-10,10,True
+Donovan Mitchell,2,4,53,1,Cutting Finger Roll Layup Shot,0,-3,8,True
+Donovan Mitchell,3,11,35,1,Cutting Layup Shot,1,13,9,True
+Donovan Mitchell,2,4,30,1,Driving Dunk Shot,0,-5,8,True
+Donovan Mitchell,4,6,24,1,Driving Dunk Shot,2,7,24,True
+Donovan Mitchell,4,2,58,1,Driving Dunk Shot,1,11,13,True
+Donovan Mitchell,2,4,27,0,Driving Dunk Shot,1,2,15,True
+Donovan Mitchell,3,7,41,0,Driving Dunk Shot,1,-13,5,True
+Donovan Mitchell,4,2,57,1,Driving Dunk Shot,1,0,15,True
+Donovan Mitchell,3,10,57,1,Driving Dunk Shot,2,2,28,True
+Donovan Mitchell,4,8,27,1,Driving Dunk Shot,1,7,16,True
+Donovan Mitchell,3,1,43,1,Driving Dunk Shot,1,-1,16,True
+Donovan Mitchell,3,11,21,1,Driving Dunk Shot,1,-11,14,True
+Donovan Mitchell,3,5,28,0,Driving Dunk Shot,1,-13,13,True
+Donovan Mitchell,4,3,15,1,Driving Dunk Shot,1,6,11,True
+Donovan Mitchell,3,6,14,1,Driving Dunk Shot,1,4,12,True
+Donovan Mitchell,2,7,21,1,Driving Dunk Shot,2,-3,21,True
+Donovan Mitchell,4,4,9,0,Driving Finger Roll Layup Shot,4,9,40,True
+Donovan Mitchell,3,3,41,1,Driving Finger Roll Layup Shot,1,-8,15,True
+Donovan Mitchell,3,6,22,1,Driving Finger Roll Layup Shot,0,2,4,True
+Donovan Mitchell,1,7,33,1,Driving Finger Roll Layup Shot,0,5,7,True
+Donovan Mitchell,2,0,0,1,Driving Finger Roll Layup Shot,1,-9,15,True
+Donovan Mitchell,2,5,30,1,Driving Finger Roll Layup Shot,2,6,25,True
+Donovan Mitchell,1,8,25,1,Driving Finger Roll Layup Shot,0,3,4,True
+Donovan Mitchell,2,0,40,1,Driving Finger Roll Layup Shot,1,9,16,True
+Donovan Mitchell,2,9,31,0,Driving Finger Roll Layup Shot,1,14,2,True
+Donovan Mitchell,4,0,47,1,Driving Finger Roll Layup Shot,1,9,5,True
+Donovan Mitchell,3,3,35,0,Driving Finger Roll Layup Shot,10,74,69,True
+Donovan Mitchell,2,6,0,1,Driving Finger Roll Layup Shot,1,1,11,True
+Donovan Mitchell,4,7,8,1,Driving Finger Roll Layup Shot,5,-36,35,True
+Donovan Mitchell,1,3,53,1,Driving Finger Roll Layup Shot,2,2,25,True
+Donovan Mitchell,1,0,4,1,Driving Floating Bank Jump Shot,5,43,30,True
+Donovan Mitchell,4,6,6,1,Driving Floating Bank Jump Shot,5,44,40,True
+Donovan Mitchell,1,6,9,0,Driving Floating Bank Jump Shot,23,127,196,True
+Donovan Mitchell,2,6,34,1,Driving Floating Bank Jump Shot,2,19,11,True
+Donovan Mitchell,4,8,7,1,Driving Floating Bank Jump Shot,4,-27,38,True
+Donovan Mitchell,4,7,19,0,Driving Floating Bank Jump Shot,8,35,77,True
+Donovan Mitchell,2,4,37,1,Driving Floating Bank Jump Shot,8,75,28,True
+Donovan Mitchell,4,5,58,1,Driving Floating Bank Jump Shot,8,42,76,True
+Donovan Mitchell,4,2,34,0,Driving Floating Bank Jump Shot,3,-27,17,True
+Donovan Mitchell,3,6,52,1,Driving Floating Bank Jump Shot,3,29,13,True
+Donovan Mitchell,1,10,27,1,Driving Floating Bank Jump Shot,8,-32,81,True
+Donovan Mitchell,4,6,19,0,Driving Floating Bank Jump Shot,9,10,92,True
+Donovan Mitchell,4,6,4,1,Driving Floating Bank Jump Shot,6,28,63,True
+Donovan Mitchell,3,4,56,0,Driving Floating Jump Shot,14,-55,132,True
+Donovan Mitchell,1,5,26,0,Driving Floating Jump Shot,14,-1,144,True
+Donovan Mitchell,4,5,35,0,Driving Floating Jump Shot,7,-63,48,True
+Donovan Mitchell,3,11,22,0,Driving Floating Jump Shot,9,68,72,True
+Donovan Mitchell,4,6,6,1,Driving Floating Jump Shot,6,13,64,True
+Donovan Mitchell,3,5,22,0,Driving Floating Jump Shot,11,-34,109,True
+Donovan Mitchell,2,6,2,0,Driving Floating Jump Shot,6,-2,65,True
+Donovan Mitchell,3,8,9,0,Driving Floating Jump Shot,10,22,100,True
+Donovan Mitchell,1,5,17,0,Driving Floating Jump Shot,9,-41,90,True
+Donovan Mitchell,1,3,14,1,Driving Floating Jump Shot,14,40,136,True
+Donovan Mitchell,2,0,37,1,Driving Floating Jump Shot,8,-35,79,True
+Donovan Mitchell,2,7,7,0,Driving Floating Jump Shot,10,22,100,True
+Donovan Mitchell,2,5,41,1,Driving Floating Jump Shot,6,26,63,True
+Donovan Mitchell,1,9,36,1,Driving Floating Jump Shot,9,-44,88,True
+Donovan Mitchell,2,6,27,0,Driving Floating Jump Shot,14,10,148,True
+Donovan Mitchell,4,5,19,1,Driving Floating Jump Shot,7,12,75,True
+Donovan Mitchell,1,8,41,1,Driving Floating Jump Shot,8,-8,88,True
+Donovan Mitchell,3,6,40,0,Driving Floating Jump Shot,10,-58,89,True
+Donovan Mitchell,4,1,28,0,Driving Floating Jump Shot,5,24,54,True
+Donovan Mitchell,2,0,57,1,Driving Floating Jump Shot,3,25,19,True
+Donovan Mitchell,4,6,52,1,Driving Floating Jump Shot,4,11,40,True
+Donovan Mitchell,3,3,33,0,Driving Floating Jump Shot,12,92,82,True
+Donovan Mitchell,1,8,59,0,Driving Floating Jump Shot,12,-3,122,True
+Donovan Mitchell,1,11,4,1,Driving Floating Jump Shot,13,38,127,True
+Donovan Mitchell,2,3,24,1,Driving Floating Jump Shot,6,-23,65,True
+Donovan Mitchell,1,2,42,1,Driving Floating Jump Shot,11,-90,78,True
+Donovan Mitchell,4,1,4,0,Driving Floating Jump Shot,13,-14,131,True
+Donovan Mitchell,4,1,0,0,Driving Floating Jump Shot,11,-5,118,True
+Donovan Mitchell,2,0,35,0,Driving Floating Jump Shot,6,-36,49,True
+Donovan Mitchell,3,11,50,0,Driving Floating Jump Shot,9,2,93,True
+Donovan Mitchell,4,4,21,0,Driving Floating Jump Shot,10,1,109,True
+Donovan Mitchell,1,4,30,1,Driving Floating Jump Shot,10,-25,99,True
+Donovan Mitchell,4,8,40,1,Driving Floating Jump Shot,8,-30,80,True
+Donovan Mitchell,3,2,48,1,Driving Floating Jump Shot,7,5,77,True
+Donovan Mitchell,2,9,4,0,Driving Floating Jump Shot,5,44,32,True
+Donovan Mitchell,1,10,3,1,Driving Floating Jump Shot,9,0,96,True
+Donovan Mitchell,2,2,30,0,Driving Floating Jump Shot,12,75,104,True
+Donovan Mitchell,3,7,1,1,Driving Floating Jump Shot,10,-44,96,True
+Donovan Mitchell,1,6,47,0,Driving Floating Jump Shot,14,60,137,True
+Donovan Mitchell,3,11,40,1,Driving Floating Jump Shot,8,-13,85,True
+Donovan Mitchell,1,8,22,0,Driving Floating Jump Shot,12,-7,127,True
+Donovan Mitchell,3,0,8,1,Driving Floating Jump Shot,7,-6,73,True
+Donovan Mitchell,2,2,43,0,Driving Floating Jump Shot,11,-24,111,True
+Donovan Mitchell,1,10,48,1,Driving Floating Jump Shot,8,-14,83,True
+Donovan Mitchell,2,0,49,1,Driving Floating Jump Shot,12,2,124,True
+Donovan Mitchell,2,4,47,1,Driving Floating Jump Shot,9,-2,91,True
+Donovan Mitchell,1,11,8,0,Driving Hook Shot,5,-27,52,True
+Donovan Mitchell,4,2,32,1,Driving Layup Shot,0,3,4,True
+Donovan Mitchell,4,4,29,1,Driving Layup Shot,1,-5,-10,True
+Donovan Mitchell,2,0,4,1,Driving Layup Shot,2,3,22,True
+Donovan Mitchell,4,3,50,0,Driving Layup Shot,1,-14,9,True
+Donovan Mitchell,1,3,34,0,Driving Layup Shot,1,-16,4,True
+Donovan Mitchell,1,4,38,1,Driving Layup Shot,2,19,18,True
+Donovan Mitchell,2,2,37,0,Driving Layup Shot,3,-27,28,True
+Donovan Mitchell,4,5,55,1,Driving Layup Shot,1,-15,1,True
+Donovan Mitchell,4,3,14,1,Driving Layup Shot,1,16,9,True
+Donovan Mitchell,2,0,57,1,Driving Layup Shot,2,-20,6,True
+Donovan Mitchell,3,3,33,0,Driving Layup Shot,1,-11,15,True
+Donovan Mitchell,1,4,39,0,Driving Layup Shot,0,8,5,True
+Donovan Mitchell,1,5,56,1,Driving Layup Shot,4,31,32,True
+Donovan Mitchell,1,9,35,0,Driving Layup Shot,1,15,10,True
+Donovan Mitchell,1,11,39,1,Driving Layup Shot,2,-22,4,True
+Donovan Mitchell,2,7,7,1,Driving Layup Shot,1,-16,10,True
+Donovan Mitchell,2,5,58,0,Driving Layup Shot,4,41,27,True
+Donovan Mitchell,1,11,46,1,Driving Layup Shot,1,18,6,True
+Donovan Mitchell,2,0,51,1,Driving Layup Shot,10,-65,88,True
+Donovan Mitchell,3,8,42,1,Driving Layup Shot,2,28,4,True
+Donovan Mitchell,3,10,23,0,Driving Layup Shot,3,29,9,True
+Donovan Mitchell,1,10,31,1,Driving Layup Shot,0,5,0,True
+Donovan Mitchell,4,10,17,0,Driving Layup Shot,0,-3,6,True
+Donovan Mitchell,4,7,33,1,Driving Layup Shot,0,2,8,True
+Donovan Mitchell,4,7,59,0,Driving Layup Shot,2,19,16,True
+Donovan Mitchell,4,9,4,0,Driving Layup Shot,1,14,0,True
+Donovan Mitchell,4,1,8,0,Driving Layup Shot,5,18,56,True
+Donovan Mitchell,4,3,25,1,Driving Layup Shot,2,18,14,True
+Donovan Mitchell,2,5,53,1,Driving Layup Shot,3,27,18,True
+Donovan Mitchell,2,1,30,0,Driving Layup Shot,3,32,17,True
+Donovan Mitchell,4,9,0,1,Driving Layup Shot,3,22,22,True
+Donovan Mitchell,4,0,35,1,Driving Layup Shot,1,14,0,True
+Donovan Mitchell,2,1,5,1,Driving Layup Shot,1,15,0,True
+Donovan Mitchell,2,4,46,0,Driving Layup Shot,1,-2,15,True
+Donovan Mitchell,1,4,3,1,Driving Layup Shot,1,10,5,True
+Donovan Mitchell,3,9,53,1,Driving Layup Shot,5,-24,50,True
+Donovan Mitchell,4,8,47,0,Driving Layup Shot,6,39,55,True
+Donovan Mitchell,2,5,45,1,Driving Layup Shot,2,24,5,True
+Donovan Mitchell,4,4,54,1,Driving Layup Shot,1,-14,11,True
+Donovan Mitchell,4,9,26,0,Driving Layup Shot,4,22,36,True
+Donovan Mitchell,3,4,36,0,Driving Layup Shot,5,28,53,True
+Donovan Mitchell,2,0,26,0,Driving Layup Shot,1,18,4,True
+Donovan Mitchell,3,11,7,1,Driving Layup Shot,3,-2,32,True
+Donovan Mitchell,4,7,39,1,Driving Layup Shot,2,-14,22,True
+Donovan Mitchell,3,7,57,0,Driving Layup Shot,2,-21,11,True
+Donovan Mitchell,4,8,48,1,Driving Layup Shot,1,-6,9,True
+Donovan Mitchell,4,7,41,0,Driving Layup Shot,3,-27,27,True
+Donovan Mitchell,3,1,40,1,Driving Layup Shot,1,-16,4,True
+Donovan Mitchell,4,3,52,0,Driving Layup Shot,4,-20,43,True
+Donovan Mitchell,2,3,48,1,Driving Layup Shot,1,-8,13,True
+Donovan Mitchell,3,8,54,0,Driving Layup Shot,1,11,5,True
+Donovan Mitchell,1,4,21,1,Driving Layup Shot,1,10,11,True
+Donovan Mitchell,1,5,55,0,Driving Layup Shot,1,11,16,True
+Donovan Mitchell,3,11,45,1,Driving Layup Shot,0,4,0,True
+Donovan Mitchell,4,0,5,0,Driving Layup Shot,4,-2,42,True
+Donovan Mitchell,1,5,53,0,Driving Layup Shot,2,12,21,True
+Donovan Mitchell,5,3,47,0,Driving Layup Shot,2,26,4,True
+Donovan Mitchell,2,8,11,0,Driving Layup Shot,2,6,27,True
+Donovan Mitchell,4,6,27,0,Driving Layup Shot,1,4,15,True
+Donovan Mitchell,2,0,31,0,Driving Layup Shot,1,-14,13,True
+Donovan Mitchell,2,11,18,1,Driving Layup Shot,1,11,15,True
+Donovan Mitchell,3,5,16,1,Driving Layup Shot,2,-2,21,True
+Donovan Mitchell,3,6,48,1,Driving Layup Shot,2,23,10,True
+Donovan Mitchell,1,11,45,0,Driving Layup Shot,1,0,18,True
+Donovan Mitchell,4,8,31,0,Driving Layup Shot,7,27,68,True
+Donovan Mitchell,4,1,30,1,Driving Layup Shot,2,20,4,True
+Donovan Mitchell,4,7,30,1,Driving Layup Shot,2,25,6,True
+Donovan Mitchell,2,7,6,1,Driving Layup Shot,2,21,15,True
+Donovan Mitchell,4,4,13,0,Driving Layup Shot,4,32,34,True
+Donovan Mitchell,4,4,10,0,Driving Layup Shot,3,5,36,True
+Donovan Mitchell,3,11,46,0,Driving Layup Shot,2,28,10,True
+Donovan Mitchell,1,9,38,1,Driving Layup Shot,0,-3,2,True
+Donovan Mitchell,3,9,45,1,Driving Layup Shot,2,-20,11,True
+Donovan Mitchell,4,7,54,1,Driving Layup Shot,2,20,7,True
+Donovan Mitchell,3,4,33,1,Driving Layup Shot,1,10,12,True
+Donovan Mitchell,4,0,33,1,Driving Layup Shot,0,6,6,True
+Donovan Mitchell,1,8,25,1,Driving Layup Shot,1,11,3,True
+Donovan Mitchell,2,4,48,0,Driving Layup Shot,3,27,29,True
+Donovan Mitchell,1,2,3,0,Driving Layup Shot,5,40,31,True
+Donovan Mitchell,4,5,3,0,Driving Layup Shot,3,-11,28,True
+Donovan Mitchell,4,9,26,0,Driving Layup Shot,1,-9,14,True
+Donovan Mitchell,1,2,44,1,Driving Layup Shot,2,19,15,True
+Donovan Mitchell,4,1,50,0,Driving Layup Shot,2,18,11,True
+Donovan Mitchell,3,1,40,0,Driving Layup Shot,2,-19,18,True
+Donovan Mitchell,3,7,23,1,Driving Layup Shot,2,-24,6,True
+Donovan Mitchell,1,0,52,0,Driving Layup Shot,3,19,24,True
+Donovan Mitchell,2,1,57,1,Driving Layup Shot,2,18,17,True
+Donovan Mitchell,4,10,46,1,Driving Layup Shot,1,-11,15,True
+Donovan Mitchell,1,5,18,0,Driving Layup Shot,2,-20,9,True
+Donovan Mitchell,2,3,31,0,Driving Layup Shot,1,-9,5,True
+Donovan Mitchell,4,7,6,0,Driving Layup Shot,2,-18,21,True
+Donovan Mitchell,1,6,3,0,Driving Layup Shot,4,13,40,True
+Donovan Mitchell,1,1,51,1,Driving Layup Shot,3,12,36,True
+Donovan Mitchell,2,2,52,0,Driving Layup Shot,1,16,4,True
+Donovan Mitchell,1,10,32,1,Driving Layup Shot,1,3,17,True
+Donovan Mitchell,1,2,51,0,Driving Layup Shot,1,-2,16,True
+Donovan Mitchell,4,7,47,0,Driving Layup Shot,2,25,8,True
+Donovan Mitchell,3,7,14,1,Driving Layup Shot,2,24,16,True
+Donovan Mitchell,4,3,38,1,Driving Layup Shot,2,24,9,True
+Donovan Mitchell,2,0,7,0,Driving Layup Shot,2,13,16,True
+Donovan Mitchell,2,3,56,0,Driving Layup Shot,4,25,32,True
+Donovan Mitchell,4,10,6,1,Driving Layup Shot,1,-18,4,True
+Donovan Mitchell,4,9,13,0,Driving Layup Shot,2,7,27,True
+Donovan Mitchell,4,1,43,1,Driving Layup Shot,1,13,-2,True
+Donovan Mitchell,3,8,37,0,Driving Layup Shot,2,22,16,True
+Donovan Mitchell,4,4,3,1,Driving Layup Shot,1,16,-1,True
+Donovan Mitchell,3,1,59,1,Driving Layup Shot,1,19,-1,True
+Donovan Mitchell,4,0,56,0,Driving Layup Shot,1,18,8,True
+Donovan Mitchell,3,8,56,1,Driving Layup Shot,2,23,4,True
+Donovan Mitchell,4,7,39,1,Driving Layup Shot,4,-41,26,True
+Donovan Mitchell,3,3,26,1,Driving Layup Shot,2,20,6,True
+Donovan Mitchell,4,4,13,0,Driving Layup Shot,3,22,26,True
+Donovan Mitchell,4,3,18,1,Driving Layup Shot,4,-41,15,True
+Donovan Mitchell,1,5,7,1,Driving Layup Shot,1,14,14,True
+Donovan Mitchell,2,6,0,0,Driving Layup Shot,2,-18,12,True
+Donovan Mitchell,4,5,25,1,Driving Layup Shot,1,12,14,True
+Donovan Mitchell,2,1,54,0,Driving Layup Shot,5,-7,55,True
+Donovan Mitchell,3,5,55,1,Driving Layup Shot,5,2,53,True
+Donovan Mitchell,3,9,36,0,Driving Layup Shot,4,-32,37,True
+Donovan Mitchell,3,4,9,1,Driving Layup Shot,2,9,20,True
+Donovan Mitchell,1,3,48,0,Driving Layup Shot,1,-12,10,True
+Donovan Mitchell,2,6,48,0,Driving Layup Shot,2,16,13,True
+Donovan Mitchell,2,2,49,1,Driving Layup Shot,0,9,0,True
+Donovan Mitchell,1,0,15,1,Driving Layup Shot,2,-20,3,True
+Donovan Mitchell,3,6,32,0,Driving Layup Shot,6,-16,59,True
+Donovan Mitchell,2,1,21,1,Driving Layup Shot,1,-17,10,True
+Donovan Mitchell,3,3,6,1,Driving Layup Shot,2,-8,22,True
+Donovan Mitchell,2,3,53,0,Driving Layup Shot,6,28,61,True
+Donovan Mitchell,3,3,18,1,Driving Layup Shot,1,-7,12,True
+Donovan Mitchell,2,4,10,0,Driving Layup Shot,3,-20,23,True
+Donovan Mitchell,1,4,46,0,Driving Layup Shot,2,-23,12,True
+Donovan Mitchell,1,2,42,0,Driving Layup Shot,2,15,16,True
+Donovan Mitchell,3,1,9,1,Driving Layup Shot,1,-13,13,True
+Donovan Mitchell,1,9,13,0,Driving Layup Shot,2,-20,12,True
+Donovan Mitchell,4,4,44,0,Driving Layup Shot,3,29,27,True
+Donovan Mitchell,4,6,47,1,Driving Layup Shot,5,38,39,True
+Donovan Mitchell,4,2,10,0,Driving Layup Shot,4,-1,42,True
+Donovan Mitchell,4,8,0,1,Driving Layup Shot,2,12,17,True
+Donovan Mitchell,4,1,57,0,Driving Layup Shot,5,-9,53,True
+Donovan Mitchell,3,4,23,1,Driving Layup Shot,2,-19,16,True
+Donovan Mitchell,1,2,51,1,Driving Layup Shot,3,29,9,True
+Donovan Mitchell,3,9,2,0,Driving Layup Shot,1,-17,2,True
+Donovan Mitchell,1,11,27,0,Driving Layup Shot,2,18,15,True
+Donovan Mitchell,4,1,17,1,Driving Layup Shot,2,-21,11,True
+Donovan Mitchell,1,5,14,0,Driving Layup Shot,4,25,36,True
+Donovan Mitchell,4,1,51,1,Driving Layup Shot,1,17,4,True
+Donovan Mitchell,3,2,27,0,Driving Layup Shot,4,25,38,True
+Donovan Mitchell,1,11,14,1,Driving Layup Shot,1,-17,10,True
+Donovan Mitchell,2,2,57,1,Driving Layup Shot,1,11,4,True
+Donovan Mitchell,3,11,11,1,Driving Layup Shot,1,3,16,True
+Donovan Mitchell,4,3,3,1,Driving Layup Shot,1,8,13,True
+Donovan Mitchell,4,5,34,0,Driving Layup Shot,3,20,27,True
+Donovan Mitchell,4,5,55,0,Driving Layup Shot,2,-17,18,True
+Donovan Mitchell,1,2,54,0,Driving Layup Shot,4,33,31,True
+Donovan Mitchell,1,11,45,1,Driving Layup Shot,1,-14,2,True
+Donovan Mitchell,4,0,19,1,Driving Layup Shot,0,0,6,True
+Donovan Mitchell,4,8,6,1,Driving Layup Shot,2,24,14,True
+Donovan Mitchell,3,5,15,0,Driving Layup Shot,1,8,7,True
+Donovan Mitchell,1,4,23,0,Driving Layup Shot,1,2,16,True
+Donovan Mitchell,1,10,33,0,Driving Layup Shot,2,-13,16,True
+Donovan Mitchell,4,3,43,1,Driving Layup Shot,5,25,50,True
+Donovan Mitchell,1,1,39,0,Driving Layup Shot,4,29,29,True
+Donovan Mitchell,2,5,28,1,Driving Layup Shot,2,-19,11,True
+Donovan Mitchell,1,1,31,1,Driving Layup Shot,2,24,11,True
+Donovan Mitchell,4,8,44,0,Driving Layup Shot,1,13,5,True
+Donovan Mitchell,1,10,37,0,Driving Layup Shot,2,19,21,True
+Donovan Mitchell,2,0,5,1,Driving Layup Shot,1,11,4,True
+Donovan Mitchell,2,0,47,1,Driving Layup Shot,1,15,5,True
+Donovan Mitchell,4,4,55,0,Driving Layup Shot,4,-13,43,True
+Donovan Mitchell,1,7,36,0,Driving Layup Shot,1,16,10,True
+Donovan Mitchell,3,7,39,0,Driving Layup Shot,4,-8,43,True
+Donovan Mitchell,4,2,52,1,Driving Layup Shot,1,11,8,True
+Donovan Mitchell,4,7,22,1,Driving Layup Shot,1,11,10,True
+Donovan Mitchell,3,7,58,1,Driving Layup Shot,2,-22,-2,True
+Donovan Mitchell,1,3,1,0,Driving Layup Shot,2,-19,15,True
+Donovan Mitchell,1,1,23,0,Driving Layup Shot,1,-14,11,True
+Donovan Mitchell,4,4,20,1,Driving Layup Shot,1,-15,11,True
+Donovan Mitchell,3,6,38,1,Driving Layup Shot,1,-13,4,True
+Donovan Mitchell,3,4,21,1,Driving Layup Shot,0,-9,0,True
+Donovan Mitchell,4,1,51,0,Driving Layup Shot,1,2,16,True
+Donovan Mitchell,4,4,48,1,Driving Layup Shot,2,20,12,True
+Donovan Mitchell,3,4,8,0,Driving Layup Shot,3,-32,6,True
+Donovan Mitchell,2,4,58,0,Driving Layup Shot,2,19,22,True
+Donovan Mitchell,2,0,15,0,Driving Layup Shot,2,20,12,True
+Donovan Mitchell,3,0,2,0,Driving Layup Shot,6,-20,59,True
+Donovan Mitchell,4,7,12,0,Driving Layup Shot,4,16,43,True
+Donovan Mitchell,2,1,56,1,Driving Layup Shot,2,16,21,True
+Donovan Mitchell,1,10,4,1,Driving Layup Shot,1,-16,1,True
+Donovan Mitchell,3,11,31,0,Driving Layup Shot,2,18,13,True
+Donovan Mitchell,2,2,24,1,Driving Layup Shot,4,22,38,True
+Donovan Mitchell,4,8,39,0,Driving Layup Shot,4,30,28,True
+Donovan Mitchell,1,11,28,1,Driving Layup Shot,2,13,16,True
+Donovan Mitchell,4,1,28,1,Driving Layup Shot,0,-9,4,True
+Donovan Mitchell,3,5,12,1,Driving Layup Shot,2,19,17,True
+Donovan Mitchell,4,4,58,1,Driving Layup Shot,2,2,23,True
+Donovan Mitchell,4,7,46,1,Driving Layup Shot,1,10,1,True
+Donovan Mitchell,1,6,30,1,Driving Layup Shot,0,-4,0,True
+Donovan Mitchell,3,10,55,1,Driving Layup Shot,0,-1,6,True
+Donovan Mitchell,4,1,52,1,Driving Layup Shot,1,6,17,True
+Donovan Mitchell,4,8,10,1,Driving Layup Shot,3,14,27,True
+Donovan Mitchell,4,1,14,1,Driving Layup Shot,2,11,26,True
+Donovan Mitchell,3,8,11,0,Driving Layup Shot,2,10,25,True
+Donovan Mitchell,4,4,6,0,Driving Layup Shot,2,17,14,True
+Donovan Mitchell,1,2,41,0,Driving Layup Shot,2,-13,17,True
+Donovan Mitchell,3,3,53,1,Driving Layup Shot,4,16,43,True
+Donovan Mitchell,1,8,7,1,Driving Layup Shot,1,11,2,True
+Donovan Mitchell,3,5,39,1,Driving Layup Shot,0,7,4,True
+Donovan Mitchell,4,4,8,0,Driving Layup Shot,5,49,24,True
+Donovan Mitchell,1,1,5,1,Driving Layup Shot,0,3,-1,True
+Donovan Mitchell,4,9,45,0,Driving Layup Shot,2,25,10,True
+Donovan Mitchell,3,11,22,0,Driving Layup Shot,2,-24,-1,True
+Donovan Mitchell,4,1,6,0,Driving Layup Shot,2,20,14,True
+Donovan Mitchell,1,10,18,1,Driving Layup Shot,2,22,4,True
+Donovan Mitchell,1,6,35,1,Driving Layup Shot,1,-12,1,True
+Donovan Mitchell,3,7,46,0,Driving Layup Shot,2,6,22,True
+Donovan Mitchell,4,1,2,1,Driving Layup Shot,1,3,11,True
+Donovan Mitchell,4,0,35,1,Driving Layup Shot,0,3,0,True
+Donovan Mitchell,2,8,10,0,Driving Reverse Layup Shot,1,-2,19,True
+Donovan Mitchell,2,6,57,1,Driving Reverse Layup Shot,2,-22,5,True
+Donovan Mitchell,3,2,3,0,Driving Reverse Layup Shot,2,-15,19,True
+Donovan Mitchell,3,9,10,0,Driving Reverse Layup Shot,1,7,17,True
+Donovan Mitchell,3,10,24,0,Driving Reverse Layup Shot,2,-24,-1,True
+Donovan Mitchell,3,4,43,0,Driving Reverse Layup Shot,2,-19,10,True
+Donovan Mitchell,4,4,51,0,Driving Reverse Layup Shot,1,-11,13,True
+Donovan Mitchell,3,3,0,1,Driving Reverse Layup Shot,1,-18,3,True
+Donovan Mitchell,4,4,50,1,Driving Reverse Layup Shot,1,-1,10,True
+Donovan Mitchell,3,4,19,0,Driving Reverse Layup Shot,4,20,35,True
+Donovan Mitchell,1,5,8,1,Driving Reverse Layup Shot,1,-11,4,True
+Donovan Mitchell,4,8,7,1,Driving Reverse Layup Shot,1,-9,5,True
+Donovan Mitchell,3,9,18,1,Driving Reverse Layup Shot,1,8,9,True
+Donovan Mitchell,2,0,3,0,Driving Reverse Layup Shot,1,-13,5,True
+Donovan Mitchell,3,0,58,0,Driving Reverse Layup Shot,2,-13,16,True
+Donovan Mitchell,4,2,56,1,Driving Reverse Layup Shot,1,-18,6,True
+Donovan Mitchell,3,8,50,1,Dunk Shot,2,-18,14,True
+Donovan Mitchell,4,8,53,1,Dunk Shot,0,3,4,True
+Donovan Mitchell,2,4,12,0,Dunk Shot,2,-24,15,True
+Donovan Mitchell,4,4,48,1,Dunk Shot,2,-9,20,True
+Donovan Mitchell,1,7,53,1,Dunk Shot,2,-13,16,True
+Donovan Mitchell,3,5,36,1,Dunk Shot,1,-11,13,True
+Donovan Mitchell,2,4,21,1,Dunk Shot,5,3,58,True
+Donovan Mitchell,3,7,20,1,Fadeaway Jump Shot,15,-87,133,True
+Donovan Mitchell,3,2,22,1,Fadeaway Jump Shot,9,-71,58,True
+Donovan Mitchell,3,8,31,1,Fadeaway Jump Shot,8,-74,49,True
+Donovan Mitchell,2,2,31,0,Fadeaway Jump Shot,19,125,148,True
+Donovan Mitchell,4,7,16,1,Fadeaway Jump Shot,17,-112,134,True
+Donovan Mitchell,1,11,32,0,Finger Roll Layup Shot,2,22,9,True
+Donovan Mitchell,3,3,37,0,Finger Roll Layup Shot,5,50,26,True
+Donovan Mitchell,4,2,12,1,Finger Roll Layup Shot,2,-3,22,True
+Donovan Mitchell,4,0,31,0,Floating Jump shot,9,25,96,True
+Donovan Mitchell,3,3,34,1,Floating Jump shot,8,38,79,True
+Donovan Mitchell,2,4,41,1,Floating Jump shot,14,-60,134,True
+Donovan Mitchell,4,5,59,0,Floating Jump shot,8,-11,88,True
+Donovan Mitchell,3,9,25,0,Floating Jump shot,7,2,77,True
+Donovan Mitchell,4,6,18,1,Floating Jump shot,13,44,129,True
+Donovan Mitchell,2,3,26,0,Floating Jump shot,15,102,110,True
+Donovan Mitchell,1,1,57,0,Floating Jump shot,15,-147,43,True
+Donovan Mitchell,1,4,28,0,Floating Jump shot,12,-81,96,True
+Donovan Mitchell,2,2,18,0,Floating Jump shot,8,8,85,True
+Donovan Mitchell,3,10,53,0,Floating Jump shot,8,43,77,True
+Donovan Mitchell,3,8,28,1,Floating Jump shot,6,27,57,True
+Donovan Mitchell,2,2,40,0,Floating Jump shot,18,-114,141,True
+Donovan Mitchell,3,7,16,0,Floating Jump shot,8,25,84,True
+Donovan Mitchell,2,6,32,1,Floating Jump shot,11,-44,108,True
+Donovan Mitchell,4,10,24,1,Floating Jump shot,13,-2,132,True
+Donovan Mitchell,2,5,46,0,Floating Jump shot,9,-50,86,True
+Donovan Mitchell,1,2,56,1,Floating Jump shot,12,-8,127,True
+Donovan Mitchell,3,11,23,0,Floating Jump shot,12,-3,120,True
+Donovan Mitchell,3,0,0,0,Floating Jump shot,59,183,565,False
+Donovan Mitchell,4,0,14,1,Floating Jump shot,11,-67,98,True
+Donovan Mitchell,1,10,19,0,Floating Jump shot,11,91,78,True
+Donovan Mitchell,4,6,58,0,Floating Jump shot,6,-50,44,True
+Donovan Mitchell,3,9,38,1,Floating Jump shot,5,0,53,True
+Donovan Mitchell,4,8,11,1,Floating Jump shot,10,5,105,True
+Donovan Mitchell,1,5,24,0,Floating Jump shot,14,-99,99,True
+Donovan Mitchell,2,5,20,0,Floating Jump shot,11,11,114,True
+Donovan Mitchell,2,6,16,1,Floating Jump shot,7,8,70,True
+Donovan Mitchell,1,7,53,0,Floating Jump shot,8,48,74,True
+Donovan Mitchell,1,3,29,1,Floating Jump shot,13,92,105,True
+Donovan Mitchell,3,6,49,1,Floating Jump shot,8,-9,84,True
+Donovan Mitchell,1,4,56,1,Floating Jump shot,11,54,99,True
+Donovan Mitchell,4,6,58,0,Floating Jump shot,13,2,138,True
+Donovan Mitchell,1,11,44,0,Floating Jump shot,8,84,6,True
+Donovan Mitchell,4,5,49,0,Floating Jump shot,13,7,134,True
+Donovan Mitchell,4,3,3,0,Floating Jump shot,10,16,101,True
+Donovan Mitchell,4,1,29,0,Floating Jump shot,14,13,141,True
+Donovan Mitchell,1,5,47,1,Floating Jump shot,7,-16,78,True
+Donovan Mitchell,3,4,9,0,Floating Jump shot,8,-24,83,True
+Donovan Mitchell,4,2,3,0,Floating Jump shot,12,-41,113,True
+Donovan Mitchell,2,0,34,0,Floating Jump shot,5,12,53,True
+Donovan Mitchell,3,2,45,1,Floating Jump shot,10,-3,106,True
+Donovan Mitchell,3,4,5,0,Floating Jump shot,9,-46,82,True
+Donovan Mitchell,3,6,24,0,Floating Jump shot,13,-51,130,True
+Donovan Mitchell,3,9,26,0,Floating Jump shot,10,16,106,True
+Donovan Mitchell,2,5,21,1,Floating Jump shot,5,-11,49,True
+Donovan Mitchell,4,8,25,0,Floating Jump shot,20,24,201,True
+Donovan Mitchell,3,0,45,0,Floating Jump shot,6,2,63,True
+Donovan Mitchell,3,10,6,0,Floating Jump shot,10,-12,101,True
+Donovan Mitchell,4,4,39,0,Floating Jump shot,11,-82,81,True
+Donovan Mitchell,3,4,54,1,Floating Jump shot,9,10,94,True
+Donovan Mitchell,3,9,15,1,Floating Jump shot,8,-51,65,True
+Donovan Mitchell,4,3,52,0,Floating Jump shot,15,2,156,True
+Donovan Mitchell,2,1,10,0,Floating Jump shot,16,75,148,True
+Donovan Mitchell,3,9,0,1,Floating Jump shot,7,49,62,True
+Donovan Mitchell,4,3,47,0,Floating Jump shot,7,5,74,True
+Donovan Mitchell,4,8,35,0,Floating Jump shot,24,67,240,False
+Donovan Mitchell,1,3,56,0,Floating Jump shot,6,56,40,True
+Donovan Mitchell,3,11,46,1,Floating Jump shot,7,36,63,True
+Donovan Mitchell,4,1,29,0,Floating Jump shot,11,-95,70,True
+Donovan Mitchell,4,3,32,1,Floating Jump shot,9,-7,90,True
+Donovan Mitchell,1,4,30,0,Floating Jump shot,11,86,75,True
+Donovan Mitchell,4,9,29,0,Floating Jump shot,11,-58,101,True
+Donovan Mitchell,3,3,51,0,Floating Jump shot,6,16,62,True
+Donovan Mitchell,2,6,40,0,Floating Jump shot,11,-79,79,True
+Donovan Mitchell,4,11,21,0,Floating Jump shot,9,32,89,True
+Donovan Mitchell,2,5,53,0,Floating Jump shot,13,129,36,True
+Donovan Mitchell,4,1,12,0,Floating Jump shot,3,3,34,True
+Donovan Mitchell,4,8,48,0,Floating Jump shot,9,51,85,True
+Donovan Mitchell,1,1,20,1,Floating Jump shot,7,12,79,True
+Donovan Mitchell,2,0,53,0,Floating Jump shot,9,-3,92,True
+Donovan Mitchell,2,5,38,1,Floating Jump shot,13,10,133,True
+Donovan Mitchell,1,7,41,1,Floating Jump shot,3,19,31,True
+Donovan Mitchell,4,10,4,0,Floating Jump shot,12,-71,108,True
+Donovan Mitchell,2,1,45,0,Floating Jump shot,14,96,114,True
+Donovan Mitchell,2,4,16,1,Floating Jump shot,12,-51,117,True
+Donovan Mitchell,2,4,38,0,Floating Jump shot,11,62,96,True
+Donovan Mitchell,4,6,10,0,Hook Bank Shot,9,71,68,True
+Donovan Mitchell,4,0,0,0,Jump Bank Shot,29,188,232,False
+Donovan Mitchell,2,5,25,0,Jump Bank Shot,10,84,55,True
+Donovan Mitchell,4,6,40,1,Jump Bank Shot,10,-2,105,True
+Donovan Mitchell,4,3,24,1,Jump Bank Shot,26,-155,216,False
+Donovan Mitchell,1,8,17,0,Jump Bank Shot,26,121,231,False
+Donovan Mitchell,3,8,40,0,Jump Bank Shot,25,114,226,False
+Donovan Mitchell,4,7,15,0,Jump Bank Shot,7,51,50,True
+Donovan Mitchell,4,4,37,0,Jump Bank Shot,7,66,45,True
+Donovan Mitchell,4,9,56,0,Jump Shot,23,232,0,False
+Donovan Mitchell,4,5,59,0,Jump Shot,26,-101,240,False
+Donovan Mitchell,2,1,40,1,Jump Shot,24,-229,92,False
+Donovan Mitchell,1,5,29,1,Jump Shot,24,-230,89,False
+Donovan Mitchell,1,3,52,0,Jump Shot,23,-231,-8,False
+Donovan Mitchell,3,6,48,1,Jump Shot,22,-228,15,False
+Donovan Mitchell,4,2,54,1,Jump Shot,25,140,210,False
+Donovan Mitchell,3,3,30,0,Jump Shot,25,-84,244,False
+Donovan Mitchell,3,8,44,0,Jump Shot,27,138,233,False
+Donovan Mitchell,1,6,0,1,Jump Shot,25,185,172,False
+Donovan Mitchell,1,2,10,0,Jump Shot,26,-145,220,False
+Donovan Mitchell,4,8,55,0,Jump Shot,25,2,256,False
+Donovan Mitchell,1,8,57,1,Jump Shot,26,139,227,False
+Donovan Mitchell,2,1,21,0,Jump Shot,25,97,235,False
+Donovan Mitchell,1,9,7,0,Jump Shot,25,-174,185,False
+Donovan Mitchell,3,3,41,1,Jump Shot,25,-60,250,False
+Donovan Mitchell,3,3,8,1,Jump Shot,28,-116,255,False
+Donovan Mitchell,3,5,5,1,Jump Shot,23,231,16,False
+Donovan Mitchell,4,8,14,1,Jump Shot,22,229,6,False
+Donovan Mitchell,2,6,49,0,Jump Shot,22,226,4,False
+Donovan Mitchell,4,1,45,0,Jump Shot,25,232,95,False
+Donovan Mitchell,2,0,55,0,Jump Shot,25,-142,210,False
+Donovan Mitchell,2,5,16,0,Jump Shot,22,-225,20,False
+Donovan Mitchell,4,8,42,1,Jump Shot,26,79,256,False
+Donovan Mitchell,1,6,26,0,Jump Shot,30,-170,257,False
+Donovan Mitchell,3,3,41,0,Jump Shot,19,-109,158,True
+Donovan Mitchell,1,3,32,0,Jump Shot,24,68,239,False
+Donovan Mitchell,1,9,13,1,Jump Shot,27,29,277,False
+Donovan Mitchell,1,1,37,1,Jump Shot,10,2,103,True
+Donovan Mitchell,2,4,51,0,Jump Shot,26,8,263,False
+Donovan Mitchell,2,0,1,0,Jump Shot,12,14,129,True
+Donovan Mitchell,2,5,18,0,Jump Shot,25,-134,218,False
+Donovan Mitchell,3,8,45,1,Jump Shot,28,-187,216,False
+Donovan Mitchell,3,2,14,0,Jump Shot,25,-165,195,False
+Donovan Mitchell,1,2,15,1,Jump Shot,22,-222,41,False
+Donovan Mitchell,3,3,10,0,Jump Shot,10,-68,75,True
+Donovan Mitchell,1,1,34,0,Jump Shot,25,-85,240,False
+Donovan Mitchell,3,9,42,0,Jump Shot,27,219,163,False
+Donovan Mitchell,4,5,50,1,Jump Shot,28,138,252,False
+Donovan Mitchell,1,8,7,1,Jump Shot,23,227,73,False
+Donovan Mitchell,1,9,8,0,Jump Shot,27,68,264,False
+Donovan Mitchell,3,4,45,1,Jump Shot,25,-216,141,False
+Donovan Mitchell,1,11,19,0,Jump Shot,20,116,165,True
+Donovan Mitchell,1,6,21,0,Jump Shot,27,-166,216,False
+Donovan Mitchell,2,0,0,0,Jump Shot,40,89,398,False
+Donovan Mitchell,4,5,58,0,Jump Shot,7,11,77,True
+Donovan Mitchell,4,0,16,1,Jump Shot,26,20,266,False
+Donovan Mitchell,5,2,18,1,Jump Shot,19,149,119,True
+Donovan Mitchell,2,7,33,0,Jump Shot,24,57,239,False
+Donovan Mitchell,2,6,5,0,Jump Shot,25,117,223,False
+Donovan Mitchell,1,10,44,0,Jump Shot,24,226,97,False
+Donovan Mitchell,5,0,59,0,Jump Shot,28,171,222,False
+Donovan Mitchell,5,0,31,0,Jump Shot,23,232,34,False
+Donovan Mitchell,5,0,0,0,Jump Shot,50,-111,488,False
+Donovan Mitchell,2,4,14,0,Jump Shot,23,-234,50,False
+Donovan Mitchell,3,2,37,0,Jump Shot,25,112,224,False
+Donovan Mitchell,1,9,20,0,Jump Shot,22,226,38,False
+Donovan Mitchell,4,4,1,0,Jump Shot,24,226,83,False
+Donovan Mitchell,1,5,50,1,Jump Shot,25,-100,233,False
+Donovan Mitchell,1,6,25,0,Jump Shot,24,-162,187,False
+Donovan Mitchell,4,0,1,0,Jump Shot,25,95,242,False
+Donovan Mitchell,3,8,9,0,Jump Shot,26,-95,244,False
+Donovan Mitchell,3,3,27,0,Jump Shot,25,114,227,False
+Donovan Mitchell,3,2,29,0,Jump Shot,26,-87,248,False
+Donovan Mitchell,2,6,37,0,Jump Shot,24,-220,105,False
+Donovan Mitchell,4,4,56,0,Jump Shot,23,230,17,False
+Donovan Mitchell,2,0,3,0,Jump Shot,25,161,193,False
+Donovan Mitchell,1,2,36,1,Jump Shot,12,12,127,True
+Donovan Mitchell,4,6,0,0,Jump Shot,26,134,231,False
+Donovan Mitchell,4,2,52,0,Jump Shot,24,83,232,False
+Donovan Mitchell,2,3,7,0,Jump Shot,25,199,157,False
+Donovan Mitchell,3,5,19,1,Jump Shot,19,133,140,True
+Donovan Mitchell,1,3,7,0,Jump Shot,25,146,211,False
+Donovan Mitchell,4,5,39,0,Jump Shot,26,-114,239,False
+Donovan Mitchell,2,4,53,0,Jump Shot,27,86,257,False
+Donovan Mitchell,1,8,32,0,Jump Shot,27,-33,275,False
+Donovan Mitchell,2,1,35,1,Jump Shot,25,-144,206,False
+Donovan Mitchell,4,4,43,0,Jump Shot,27,-176,215,False
+Donovan Mitchell,3,4,36,1,Jump Shot,26,-40,262,False
+Donovan Mitchell,2,8,12,0,Jump Shot,23,-230,5,False
+Donovan Mitchell,1,4,37,0,Jump Shot,24,-97,227,False
+Donovan Mitchell,2,6,9,1,Jump Shot,24,-212,130,False
+Donovan Mitchell,1,7,32,0,Jump Shot,26,78,258,False
+Donovan Mitchell,3,11,19,0,Jump Shot,22,226,22,False
+Donovan Mitchell,4,4,23,0,Jump Shot,24,-27,242,False
+Donovan Mitchell,2,0,4,0,Jump Shot,25,171,186,False
+Donovan Mitchell,1,9,3,0,Jump Shot,28,-81,274,False
+Donovan Mitchell,3,5,28,0,Jump Shot,25,-138,210,False
+Donovan Mitchell,2,7,23,0,Jump Shot,25,-161,204,False
+Donovan Mitchell,1,4,49,0,Jump Shot,25,102,239,False
+Donovan Mitchell,4,7,55,0,Jump Shot,25,-30,255,False
+Donovan Mitchell,4,3,41,0,Jump Shot,26,204,168,False
+Donovan Mitchell,1,10,33,1,Jump Shot,22,-221,41,False
+Donovan Mitchell,1,8,58,0,Jump Shot,25,-177,186,False
+Donovan Mitchell,4,0,49,0,Jump Shot,9,39,87,True
+Donovan Mitchell,4,6,11,0,Jump Shot,25,-44,252,False
+Donovan Mitchell,4,8,3,0,Jump Shot,28,-133,251,False
+Donovan Mitchell,3,9,41,0,Jump Shot,28,-2,289,False
+Donovan Mitchell,1,8,13,0,Jump Shot,26,-14,268,False
+Donovan Mitchell,3,7,32,0,Jump Shot,25,-103,232,False
+Donovan Mitchell,4,7,32,1,Jump Shot,25,217,142,False
+Donovan Mitchell,4,7,4,0,Jump Shot,26,200,172,False
+Donovan Mitchell,4,2,19,0,Jump Shot,23,-222,88,False
+Donovan Mitchell,3,8,26,0,Jump Shot,25,-111,225,False
+Donovan Mitchell,4,4,19,0,Jump Shot,25,-60,248,False
+Donovan Mitchell,1,9,4,0,Jump Shot,24,226,89,False
+Donovan Mitchell,2,0,18,1,Jump Shot,25,162,196,False
+Donovan Mitchell,4,0,50,1,Jump Shot,25,39,248,False
+Donovan Mitchell,1,2,7,1,Jump Shot,27,-148,230,False
+Donovan Mitchell,2,4,13,0,Jump Shot,26,-123,235,False
+Donovan Mitchell,1,6,20,0,Jump Shot,24,-105,226,False
+Donovan Mitchell,4,3,37,0,Jump Shot,24,-189,159,False
+Donovan Mitchell,3,0,0,0,Jump Shot,29,12,292,False
+Donovan Mitchell,3,10,48,1,Jump Shot,22,-223,51,False
+Donovan Mitchell,3,6,12,1,Jump Shot,22,-225,16,False
+Donovan Mitchell,1,6,18,1,Jump Shot,23,227,62,False
+Donovan Mitchell,3,8,39,0,Jump Shot,19,-116,155,True
+Donovan Mitchell,4,5,42,0,Jump Shot,24,-10,245,False
+Donovan Mitchell,3,3,43,0,Jump Shot,28,-194,206,False
+Donovan Mitchell,4,4,9,0,Jump Shot,26,-66,260,False
+Donovan Mitchell,4,0,56,1,Jump Shot,25,111,226,False
+Donovan Mitchell,4,4,53,1,Jump Shot,25,62,244,False
+Donovan Mitchell,1,5,44,0,Jump Shot,25,174,183,False
+Donovan Mitchell,1,11,15,0,Jump Shot,26,58,261,False
+Donovan Mitchell,2,0,20,0,Jump Shot,26,55,262,False
+Donovan Mitchell,2,4,9,1,Jump Shot,9,55,82,True
+Donovan Mitchell,1,10,45,0,Jump Shot,23,220,80,False
+Donovan Mitchell,1,2,50,1,Jump Shot,17,16,172,True
+Donovan Mitchell,1,1,17,1,Jump Shot,22,226,38,False
+Donovan Mitchell,3,3,15,0,Jump Shot,25,-67,245,False
+Donovan Mitchell,2,4,51,0,Jump Shot,25,46,253,False
+Donovan Mitchell,1,4,44,1,Jump Shot,25,-138,217,False
+Donovan Mitchell,4,7,29,0,Jump Shot,26,-128,229,False
+Donovan Mitchell,2,7,13,0,Jump Shot,25,-157,198,False
+Donovan Mitchell,3,8,15,1,Jump Shot,24,235,75,False
+Donovan Mitchell,1,3,1,0,Jump Shot,25,-109,231,False
+Donovan Mitchell,3,10,20,0,Jump Shot,26,-161,216,False
+Donovan Mitchell,2,5,37,0,Jump Shot,10,-13,101,True
+Donovan Mitchell,1,11,30,0,Jump Shot,24,217,118,False
+Donovan Mitchell,2,6,33,0,Jump Shot,5,-7,57,True
+Donovan Mitchell,1,4,47,1,Jump Shot,25,-229,102,False
+Donovan Mitchell,3,9,16,0,Jump Shot,24,-13,246,False
+Donovan Mitchell,3,9,10,1,Jump Shot,24,-54,241,False
+Donovan Mitchell,2,4,48,1,Jump Shot,25,-134,220,False
+Donovan Mitchell,3,6,42,1,Jump Shot,25,168,190,False
+Donovan Mitchell,2,3,37,1,Jump Shot,26,-92,247,False
+Donovan Mitchell,1,9,0,1,Jump Shot,24,116,221,False
+Donovan Mitchell,4,9,45,1,Jump Shot,25,186,171,False
+Donovan Mitchell,3,5,49,0,Jump Shot,22,228,17,False
+Donovan Mitchell,1,10,0,0,Jump Shot,24,4,248,False
+Donovan Mitchell,4,7,15,1,Jump Shot,25,63,252,False
+Donovan Mitchell,3,7,40,0,Jump Shot,25,-76,245,False
+Donovan Mitchell,1,6,38,0,Jump Shot,26,26,259,False
+Donovan Mitchell,5,4,32,0,Jump Shot,26,150,221,False
+Donovan Mitchell,3,9,4,0,Jump Shot,25,-157,197,False
+Donovan Mitchell,3,4,47,0,Jump Shot,28,187,215,False
+Donovan Mitchell,4,8,48,0,Jump Shot,20,-160,121,True
+Donovan Mitchell,1,11,23,1,Jump Shot,21,-137,170,True
+Donovan Mitchell,2,0,23,0,Jump Shot,23,236,-4,False
+Donovan Mitchell,5,0,17,0,Jump Shot,27,-3,271,False
+Donovan Mitchell,5,3,3,1,Jump Shot,25,-101,236,False
+Donovan Mitchell,4,4,44,0,Jump Shot,7,-53,57,True
+Donovan Mitchell,3,11,30,0,Jump Shot,25,-179,178,False
+Donovan Mitchell,4,8,44,0,Jump Shot,24,133,207,False
+Donovan Mitchell,2,6,36,1,Jump Shot,26,128,230,False
+Donovan Mitchell,4,6,33,0,Jump Shot,25,44,249,False
+Donovan Mitchell,4,7,56,1,Jump Shot,24,236,60,False
+Donovan Mitchell,4,9,4,0,Jump Shot,26,-117,243,False
+Donovan Mitchell,4,1,32,0,Jump Shot,25,161,201,False
+Donovan Mitchell,1,7,9,0,Jump Shot,25,1,258,False
+Donovan Mitchell,1,7,33,0,Jump Shot,24,-165,187,False
+Donovan Mitchell,4,4,56,0,Jump Shot,24,-229,89,False
+Donovan Mitchell,3,2,59,1,Jump Shot,26,175,196,False
+Donovan Mitchell,1,9,8,0,Jump Shot,14,69,131,True
+Donovan Mitchell,2,5,43,0,Jump Shot,25,154,209,False
+Donovan Mitchell,4,4,15,0,Jump Shot,29,116,269,False
+Donovan Mitchell,1,9,33,1,Jump Shot,26,25,260,False
+Donovan Mitchell,4,5,58,1,Jump Shot,29,70,285,False
+Donovan Mitchell,1,3,7,0,Jump Shot,26,89,249,False
+Donovan Mitchell,1,11,30,1,Jump Shot,25,-2,259,False
+Donovan Mitchell,2,1,12,1,Jump Shot,11,95,63,True
+Donovan Mitchell,4,1,44,0,Jump Shot,26,-36,261,False
+Donovan Mitchell,2,3,46,0,Jump Shot,29,180,237,False
+Donovan Mitchell,4,0,28,0,Jump Shot,27,150,231,False
+Donovan Mitchell,1,7,49,1,Jump Shot,25,-197,162,False
+Donovan Mitchell,3,9,9,1,Jump Shot,31,147,283,False
+Donovan Mitchell,4,0,1,1,Jump Shot,25,-107,236,False
+Donovan Mitchell,2,3,54,0,Jump Shot,28,-163,238,False
+Donovan Mitchell,2,1,15,0,Jump Shot,24,-239,26,False
+Donovan Mitchell,4,6,27,0,Jump Shot,25,-76,246,False
+Donovan Mitchell,4,0,23,0,Jump Shot,25,-95,236,False
+Donovan Mitchell,3,10,3,0,Jump Shot,24,225,87,False
+Donovan Mitchell,1,9,32,0,Jump Shot,25,139,214,False
+Donovan Mitchell,4,3,34,0,Jump Shot,24,150,198,False
+Donovan Mitchell,1,11,39,1,Jump Shot,25,108,231,False
+Donovan Mitchell,3,7,17,1,Jump Shot,26,54,264,False
+Donovan Mitchell,3,8,42,0,Jump Shot,27,73,269,False
+Donovan Mitchell,1,10,4,0,Jump Shot,24,95,226,False
+Donovan Mitchell,4,4,6,0,Jump Shot,32,141,295,False
+Donovan Mitchell,1,7,37,0,Jump Shot,36,-20,369,False
+Donovan Mitchell,4,4,53,0,Jump Shot,23,230,64,False
+Donovan Mitchell,4,0,37,0,Jump Shot,27,65,263,False
+Donovan Mitchell,2,5,41,1,Jump Shot,25,-81,239,False
+Donovan Mitchell,3,5,46,0,Jump Shot,25,-11,253,False
+Donovan Mitchell,1,3,30,0,Jump Shot,23,-232,34,False
+Donovan Mitchell,1,6,44,0,Jump Shot,25,-143,210,False
+Donovan Mitchell,4,0,1,0,Jump Shot,19,136,139,True
+Donovan Mitchell,1,4,27,1,Jump Shot,27,9,272,False
+Donovan Mitchell,1,7,56,0,Jump Shot,16,-87,141,True
+Donovan Mitchell,3,8,22,0,Jump Shot,26,-129,235,False
+Donovan Mitchell,4,6,3,0,Jump Shot,25,-207,148,False
+Donovan Mitchell,1,9,40,0,Jump Shot,25,123,227,False
+Donovan Mitchell,3,9,57,1,Jump Shot,25,-171,193,False
+Donovan Mitchell,3,9,7,0,Jump Shot,23,226,48,False
+Donovan Mitchell,4,1,31,1,Jump Shot,23,230,63,False
+Donovan Mitchell,2,7,0,1,Jump Shot,25,176,180,False
+Donovan Mitchell,1,6,56,1,Jump Shot,26,-16,260,False
+Donovan Mitchell,2,5,41,0,Jump Shot,24,69,232,False
+Donovan Mitchell,4,0,0,0,Jump Shot,36,153,326,False
+Donovan Mitchell,4,0,7,1,Jump Shot,23,230,50,False
+Donovan Mitchell,4,5,4,0,Jump Shot,22,229,3,False
+Donovan Mitchell,1,2,46,0,Jump Shot,28,-144,249,False
+Donovan Mitchell,1,3,11,0,Jump Shot,27,-127,241,False
+Donovan Mitchell,4,1,15,0,Jump Shot,24,93,231,False
+Donovan Mitchell,4,8,55,0,Jump Shot,28,116,260,False
+Donovan Mitchell,3,10,19,1,Jump Shot,24,-33,245,False
+Donovan Mitchell,1,7,10,1,Jump Shot,22,228,-16,False
+Donovan Mitchell,2,0,0,0,Jump Shot,32,-9,328,False
+Donovan Mitchell,3,2,39,0,Jump Shot,27,-122,246,False
+Donovan Mitchell,4,7,4,0,Jump Shot,24,117,220,False
+Donovan Mitchell,3,3,55,1,Jump Shot,22,229,16,False
+Donovan Mitchell,3,8,24,0,Jump Shot,24,-133,204,False
+Donovan Mitchell,4,6,15,0,Jump Shot,24,-168,183,False
+Donovan Mitchell,3,10,23,0,Jump Shot,14,58,129,True
+Donovan Mitchell,2,1,28,0,Jump Shot,25,156,204,False
+Donovan Mitchell,1,5,37,1,Jump Shot,27,112,251,False
+Donovan Mitchell,2,4,45,0,Jump Shot,28,-160,239,False
+Donovan Mitchell,4,7,41,0,Jump Shot,28,-10,284,False
+Donovan Mitchell,4,9,6,1,Jump Shot,20,147,148,True
+Donovan Mitchell,1,3,50,0,Jump Shot,26,155,211,False
+Donovan Mitchell,2,2,36,0,Jump Shot,19,118,149,True
+Donovan Mitchell,1,3,31,0,Jump Shot,5,4,52,True
+Donovan Mitchell,2,7,0,0,Jump Shot,25,187,180,False
+Donovan Mitchell,4,6,43,0,Jump Shot,25,122,226,False
+Donovan Mitchell,3,3,16,0,Jump Shot,11,0,117,True
+Donovan Mitchell,4,7,3,1,Jump Shot,24,-230,96,False
+Donovan Mitchell,3,10,10,0,Jump Shot,24,204,136,False
+Donovan Mitchell,3,4,39,1,Jump Shot,22,182,127,True
+Donovan Mitchell,1,9,35,0,Jump Shot,27,-174,214,False
+Donovan Mitchell,2,10,56,0,Jump Shot,25,168,196,False
+Donovan Mitchell,3,9,34,1,Jump Shot,20,-80,192,True
+Donovan Mitchell,3,0,34,1,Jump Shot,29,154,253,False
+Donovan Mitchell,4,3,24,1,Jump Shot,25,143,216,False
+Donovan Mitchell,2,6,38,0,Jump Shot,27,15,278,False
+Donovan Mitchell,1,11,44,1,Jump Shot,23,-226,43,False
+Donovan Mitchell,1,9,6,1,Jump Shot,25,-78,242,False
+Donovan Mitchell,3,3,59,0,Jump Shot,25,161,193,False
+Donovan Mitchell,1,8,41,0,Jump Shot,24,209,130,False
+Donovan Mitchell,1,11,29,0,Jump Shot,24,131,203,False
+Donovan Mitchell,4,6,38,0,Jump Shot,22,-224,15,False
+Donovan Mitchell,3,8,8,0,Jump Shot,20,-173,105,True
+Donovan Mitchell,4,5,43,1,Jump Shot,23,-226,63,False
+Donovan Mitchell,3,11,9,1,Jump Shot,23,-236,37,False
+Donovan Mitchell,3,2,37,1,Jump Shot,18,82,163,True
+Donovan Mitchell,4,2,17,0,Jump Shot,27,45,274,False
+Donovan Mitchell,3,0,20,0,Jump Shot,26,0,269,False
+Donovan Mitchell,3,3,52,0,Jump Shot,18,92,157,True
+Donovan Mitchell,1,5,11,0,Jump Shot,27,-111,249,False
+Donovan Mitchell,1,4,6,0,Jump Shot,25,-192,167,False
+Donovan Mitchell,1,8,11,0,Jump Shot,26,111,237,False
+Donovan Mitchell,3,8,29,0,Jump Shot,24,-20,248,False
+Donovan Mitchell,3,6,17,1,Jump Shot,27,45,269,False
+Donovan Mitchell,3,4,48,1,Jump Shot,25,74,248,False
+Donovan Mitchell,3,11,44,1,Jump Shot,25,210,137,False
+Donovan Mitchell,4,7,4,0,Jump Shot,25,-183,174,False
+Donovan Mitchell,4,5,47,1,Jump Shot,23,-231,11,False
+Donovan Mitchell,2,2,10,0,Jump Shot,22,-228,6,False
+Donovan Mitchell,1,4,56,1,Jump Shot,26,126,236,False
+Donovan Mitchell,3,11,7,0,Jump Shot,25,31,252,False
+Donovan Mitchell,3,10,22,0,Jump Shot,23,236,4,False
+Donovan Mitchell,3,2,46,0,Jump Shot,29,78,289,False
+Donovan Mitchell,2,2,25,0,Jump Shot,26,-6,263,False
+Donovan Mitchell,3,3,26,1,Jump Shot,24,228,87,False
+Donovan Mitchell,3,9,22,0,Jump Shot,3,0,36,True
+Donovan Mitchell,1,8,29,1,Jump Shot,27,-159,228,False
+Donovan Mitchell,3,8,45,1,Jump Shot,22,-225,22,False
+Donovan Mitchell,4,7,43,0,Jump Shot,24,214,117,False
+Donovan Mitchell,1,9,52,0,Jump Shot,25,-129,219,False
+Donovan Mitchell,1,7,0,0,Jump Shot,24,-92,230,False
+Donovan Mitchell,4,3,3,1,Jump Shot,25,155,200,False
+Donovan Mitchell,2,2,36,0,Jump Shot,27,-166,225,False
+Donovan Mitchell,4,9,30,0,Jump Shot,7,40,62,True
+Donovan Mitchell,4,5,36,1,Jump Shot,29,81,282,False
+Donovan Mitchell,4,9,27,0,Jump Shot,28,145,240,False
+Donovan Mitchell,3,0,0,0,Jump Shot,23,119,198,True
+Donovan Mitchell,4,6,12,1,Jump Shot,25,-80,241,False
+Donovan Mitchell,4,1,22,0,Jump Shot,26,-171,204,False
+Donovan Mitchell,1,8,19,1,Jump Shot,23,-235,20,False
+Donovan Mitchell,3,4,18,0,Jump Shot,24,235,53,False
+Donovan Mitchell,3,7,33,1,Jump Shot,22,-226,-12,False
+Donovan Mitchell,4,6,32,1,Jump Shot,27,92,261,False
+Donovan Mitchell,3,5,40,1,Jump Shot,24,-150,198,False
+Donovan Mitchell,1,11,15,1,Jump Shot,25,-127,222,False
+Donovan Mitchell,4,2,47,1,Jump Shot,22,-223,-10,False
+Donovan Mitchell,2,0,57,0,Jump Shot,27,114,249,False
+Donovan Mitchell,3,6,1,0,Jump Shot,5,-11,57,True
+Donovan Mitchell,2,4,6,0,Jump Shot,25,-58,247,False
+Donovan Mitchell,2,6,4,0,Jump Shot,24,217,112,False
+Donovan Mitchell,1,1,14,0,Jump Shot,25,-221,118,False
+Donovan Mitchell,2,6,50,0,Jump Shot,25,142,216,False
+Donovan Mitchell,3,5,10,1,Jump Shot,23,230,11,False
+Donovan Mitchell,1,10,52,0,Jump Shot,26,-85,256,False
+Donovan Mitchell,3,9,43,0,Jump Shot,26,4,267,False
+Donovan Mitchell,4,8,10,0,Jump Shot,25,134,218,False
+Donovan Mitchell,2,3,3,0,Jump Shot,25,-137,214,False
+Donovan Mitchell,1,10,39,1,Jump Shot,27,-95,263,False
+Donovan Mitchell,4,3,9,1,Jump Shot,26,125,234,False
+Donovan Mitchell,2,2,33,0,Jump Shot,24,122,218,False
+Donovan Mitchell,4,5,20,0,Jump Shot,24,45,242,False
+Donovan Mitchell,1,0,28,1,Jump Shot,25,-6,252,False
+Donovan Mitchell,3,0,14,0,Jump Shot,27,133,241,False
+Donovan Mitchell,1,5,37,0,Jump Shot,24,-105,226,False
+Donovan Mitchell,3,8,19,1,Jump Shot,25,197,167,False
+Donovan Mitchell,4,11,21,1,Jump Shot,23,-234,29,False
+Donovan Mitchell,3,7,40,1,Jump Shot,26,-143,221,False
+Donovan Mitchell,1,4,5,1,Jump Shot,26,114,243,False
+Donovan Mitchell,4,6,2,1,Jump Shot,25,-176,178,False
+Donovan Mitchell,3,6,16,0,Jump Shot,5,2,50,True
+Donovan Mitchell,4,6,46,0,Jump Shot,26,-125,228,False
+Donovan Mitchell,2,4,34,0,Jump Shot,25,-100,237,False
+Donovan Mitchell,1,9,37,1,Jump Shot,26,-41,262,False
+Donovan Mitchell,2,1,14,1,Jump Shot,22,-223,-9,False
+Donovan Mitchell,2,3,43,1,Jump Shot,25,32,253,False
+Donovan Mitchell,3,0,34,0,Jump Shot,19,-84,172,True
+Donovan Mitchell,1,3,14,0,Jump Shot,25,-107,226,False
+Donovan Mitchell,3,4,26,0,Jump Shot,27,83,263,False
+Donovan Mitchell,1,8,48,0,Jump Shot,24,210,133,False
+Donovan Mitchell,4,2,35,0,Jump Shot,14,-85,119,True
+Donovan Mitchell,2,6,0,1,Jump Shot,29,155,246,False
+Donovan Mitchell,4,3,4,0,Jump Shot,27,217,162,False
+Donovan Mitchell,1,10,58,0,Jump Shot,25,-215,134,False
+Donovan Mitchell,1,5,26,0,Jump Shot,24,227,79,False
+Donovan Mitchell,3,10,31,0,Jump Shot,24,-165,182,False
+Donovan Mitchell,2,9,36,1,Jump Shot,10,57,84,True
+Donovan Mitchell,3,7,54,0,Jump Shot,15,65,146,True
+Donovan Mitchell,1,8,18,0,Jump Shot,25,-187,172,False
+Donovan Mitchell,1,7,27,0,Jump Shot,7,-57,50,True
+Donovan Mitchell,4,2,32,1,Jump Shot,25,121,226,False
+Donovan Mitchell,2,5,31,0,Jump Shot,25,-165,188,False
+Donovan Mitchell,4,6,29,1,Jump Shot,27,147,227,False
+Donovan Mitchell,4,8,31,0,Jump Shot,25,-63,247,False
+Donovan Mitchell,1,9,45,1,Jump Shot,24,-216,119,False
+Donovan Mitchell,1,5,17,0,Jump Shot,25,-93,234,False
+Donovan Mitchell,1,9,14,0,Jump Shot,25,-124,220,False
+Donovan Mitchell,2,0,20,1,Jump Shot,10,-9,106,True
+Donovan Mitchell,2,6,10,1,Jump Shot,25,-143,215,False
+Donovan Mitchell,4,0,28,0,Jump Shot,24,-11,246,False
+Donovan Mitchell,1,10,8,0,Jump Shot,15,-1,155,True
+Donovan Mitchell,3,2,19,0,Jump Shot,28,81,272,False
+Donovan Mitchell,4,6,2,0,Jump Shot,24,-14,245,False
+Donovan Mitchell,3,6,5,0,Jump Shot,24,-44,245,False
+Donovan Mitchell,2,4,24,1,Jump Shot,26,143,227,False
+Donovan Mitchell,2,3,32,0,Jump Shot,25,224,129,False
+Donovan Mitchell,4,9,58,1,Jump Shot,24,-236,79,False
+Donovan Mitchell,4,6,9,0,Jump Shot,24,-231,74,False
+Donovan Mitchell,1,1,16,0,Jump Shot,24,224,104,False
+Donovan Mitchell,1,6,26,0,Jump Shot,25,-160,194,False
+Donovan Mitchell,2,0,1,1,Jump Shot,29,101,282,False
+Donovan Mitchell,4,6,41,0,Jump Shot,26,-145,220,False
+Donovan Mitchell,4,2,24,0,Jump Shot,25,11,259,False
+Donovan Mitchell,1,4,36,0,Jump Shot,7,9,78,True
+Donovan Mitchell,1,0,0,0,Jump Shot,22,8,226,True
+Donovan Mitchell,2,1,29,0,Jump Shot,14,-24,143,True
+Donovan Mitchell,3,9,37,0,Jump Shot,24,119,218,False
+Donovan Mitchell,3,2,46,0,Jump Shot,23,225,73,False
+Donovan Mitchell,4,10,7,0,Jump Shot,25,-125,227,False
+Donovan Mitchell,1,3,1,1,Jump Shot,27,-141,231,False
+Donovan Mitchell,4,9,32,1,Jump Shot,26,175,204,False
+Donovan Mitchell,3,0,34,0,Jump Shot,24,136,209,False
+Donovan Mitchell,1,4,32,1,Jump Shot,25,-166,189,False
+Donovan Mitchell,2,6,51,0,Jump Shot,3,3,39,True
+Donovan Mitchell,2,7,18,1,Jump Shot,13,-96,90,True
+Donovan Mitchell,2,4,46,0,Jump Shot,17,84,148,True
+Donovan Mitchell,4,5,8,0,Jump Shot,24,-143,195,False
+Donovan Mitchell,3,3,56,1,Jump Shot,27,-141,236,False
+Donovan Mitchell,4,2,39,1,Jump Shot,24,-163,187,False
+Donovan Mitchell,1,5,48,1,Jump Shot,24,193,157,False
+Donovan Mitchell,3,2,23,0,Jump Shot,24,133,209,False
+Donovan Mitchell,3,1,42,0,Jump Shot,3,20,25,True
+Donovan Mitchell,4,9,56,1,Jump Shot,29,-161,247,False
+Donovan Mitchell,5,3,46,0,Jump Shot,27,-138,235,False
+Donovan Mitchell,1,2,10,1,Jump Shot,24,226,88,False
+Donovan Mitchell,4,3,24,1,Jump Shot,22,228,14,False
+Donovan Mitchell,1,5,10,1,Jump Shot,25,29,253,False
+Donovan Mitchell,1,3,26,0,Jump Shot,25,-128,216,False
+Donovan Mitchell,1,4,33,0,Jump Shot,23,233,-17,False
+Donovan Mitchell,3,0,33,0,Jump Shot,15,-141,52,True
+Donovan Mitchell,1,5,0,0,Jump Shot,25,91,238,False
+Donovan Mitchell,3,11,17,0,Jump Shot,26,-134,223,False
+Donovan Mitchell,1,10,42,0,Jump Shot,25,78,245,False
+Donovan Mitchell,3,7,14,0,Jump Shot,26,78,251,False
+Donovan Mitchell,1,9,35,0,Jump Shot,27,-145,234,False
+Donovan Mitchell,4,10,23,0,Jump Shot,27,-49,267,False
+Donovan Mitchell,4,8,12,1,Jump Shot,27,-9,275,False
+Donovan Mitchell,4,7,48,1,Jump Shot,26,102,241,False
+Donovan Mitchell,4,7,9,0,Jump Shot,25,-2,257,False
+Donovan Mitchell,1,8,23,0,Jump Shot,24,228,89,False
+Donovan Mitchell,2,6,24,0,Jump Shot,24,124,215,False
+Donovan Mitchell,1,7,53,0,Jump Shot,22,223,52,False
+Donovan Mitchell,1,5,26,0,Jump Shot,10,-13,100,True
+Donovan Mitchell,1,0,38,0,Jump Shot,24,208,122,False
+Donovan Mitchell,2,9,28,0,Jump Shot,16,-75,151,True
+Donovan Mitchell,3,0,28,0,Jump Shot,25,117,232,False
+Donovan Mitchell,1,5,43,1,Jump Shot,5,14,53,True
+Donovan Mitchell,1,0,59,0,Jump Shot,25,-229,107,False
+Donovan Mitchell,2,0,4,0,Jump Shot,22,-79,206,True
+Donovan Mitchell,2,3,1,0,Jump Shot,26,36,259,False
+Donovan Mitchell,4,1,48,1,Jump Shot,23,-231,-1,False
+Donovan Mitchell,2,6,30,0,Jump Shot,23,-230,44,False
+Donovan Mitchell,4,2,51,0,Jump Shot,24,-90,231,False
+Donovan Mitchell,3,0,43,1,Jump Shot,25,-33,251,False
+Donovan Mitchell,5,1,38,0,Layup Shot,5,-52,21,True
+Donovan Mitchell,2,0,29,0,Layup Shot,2,-17,17,True
+Donovan Mitchell,1,3,23,0,Layup Shot,1,13,6,True
+Donovan Mitchell,4,0,59,1,Layup Shot,0,5,7,True
+Donovan Mitchell,1,4,51,0,Layup Shot,2,25,16,True
+Donovan Mitchell,4,8,55,0,Layup Shot,1,-9,11,True
+Donovan Mitchell,5,1,33,0,Layup Shot,3,12,35,True
+Donovan Mitchell,4,1,13,0,Layup Shot,2,-7,23,True
+Donovan Mitchell,2,0,30,0,Layup Shot,3,25,22,True
+Donovan Mitchell,3,3,46,1,Layup Shot,3,30,10,True
+Donovan Mitchell,2,0,28,0,Layup Shot,2,-23,6,True
+Donovan Mitchell,2,10,24,0,Layup Shot,1,-4,10,True
+Donovan Mitchell,2,0,33,0,Layup Shot,2,20,13,True
+Donovan Mitchell,3,3,28,1,Layup Shot,2,0,24,True
+Donovan Mitchell,4,1,7,0,Layup Shot,4,40,28,True
+Donovan Mitchell,4,8,42,0,Layup Shot,14,5,144,True
+Donovan Mitchell,4,1,24,1,Layup Shot,2,19,20,True
+Donovan Mitchell,3,0,44,0,Layup Shot,2,-16,15,True
+Donovan Mitchell,2,7,1,0,Layup Shot,6,38,52,True
+Donovan Mitchell,1,6,37,0,Layup Shot,0,-2,8,True
+Donovan Mitchell,1,7,20,1,Layup Shot,3,30,22,True
+Donovan Mitchell,4,4,43,1,Layup Shot,0,-1,4,True
+Donovan Mitchell,4,8,21,0,Layup Shot,1,-18,6,True
+Donovan Mitchell,3,2,34,0,Layup Shot,1,9,16,True
+Donovan Mitchell,3,3,37,0,Layup Shot,3,29,20,True
+Donovan Mitchell,3,7,18,1,Layup Shot,2,29,1,True
+Donovan Mitchell,3,1,31,0,Layup Shot,3,18,30,True
+Donovan Mitchell,2,7,14,0,Layup Shot,2,18,15,True
+Donovan Mitchell,4,7,55,0,Layup Shot,2,24,9,True
+Donovan Mitchell,2,9,17,0,Layup Shot,3,36,16,True
+Donovan Mitchell,2,4,49,1,Layup Shot,1,4,10,True
+Donovan Mitchell,1,1,50,0,Layup Shot,1,13,-1,True
+Donovan Mitchell,4,9,23,0,Layup Shot,2,27,3,True
+Donovan Mitchell,2,0,5,0,Layup Shot,4,-38,20,True
+Donovan Mitchell,2,2,32,0,Layup Shot,2,-19,22,True
+Donovan Mitchell,1,8,39,0,Layup Shot,2,20,18,True
+Donovan Mitchell,1,8,18,0,Layup Shot,0,-3,5,True
+Donovan Mitchell,1,8,36,1,Layup Shot,3,-20,29,True
+Donovan Mitchell,3,6,44,0,Layup Shot,4,27,41,True
+Donovan Mitchell,3,6,45,1,Layup Shot,4,20,38,True
+Donovan Mitchell,4,9,35,1,Layup Shot,2,16,16,True
+Donovan Mitchell,3,3,10,0,Layup Shot,7,-63,45,True
+Donovan Mitchell,3,8,53,0,Layup Shot,1,2,10,True
+Donovan Mitchell,4,6,6,1,Layup Shot,1,13,13,True
+Donovan Mitchell,3,8,39,1,Layup Shot,2,-19,17,True
+Donovan Mitchell,1,4,2,0,Layup Shot,3,8,38,True
+Donovan Mitchell,3,0,2,0,Layup Shot,1,0,19,True
+Donovan Mitchell,2,0,31,0,Layup Shot,1,-11,1,True
+Donovan Mitchell,1,9,24,0,Layup Shot,2,16,13,True
+Donovan Mitchell,4,8,43,1,Layup Shot,2,-9,26,True
+Donovan Mitchell,1,10,41,0,Layup Shot,1,-16,5,True
+Donovan Mitchell,4,6,39,0,Layup Shot,8,-11,80,True
+Donovan Mitchell,2,3,32,0,Layup Shot,2,-24,-1,True
+Donovan Mitchell,3,7,8,1,Pullup Jump shot,17,73,159,True
+Donovan Mitchell,2,8,22,0,Pullup Jump shot,25,47,248,False
+Donovan Mitchell,4,5,44,1,Pullup Jump shot,20,-93,183,True
+Donovan Mitchell,1,2,44,0,Pullup Jump shot,24,133,209,False
+Donovan Mitchell,4,3,25,0,Pullup Jump shot,26,36,258,False
+Donovan Mitchell,4,1,5,0,Pullup Jump shot,27,-121,251,False
+Donovan Mitchell,3,5,52,1,Pullup Jump shot,13,16,134,True
+Donovan Mitchell,1,8,45,0,Pullup Jump shot,12,-51,111,True
+Donovan Mitchell,1,2,51,0,Pullup Jump shot,24,-86,231,False
+Donovan Mitchell,2,6,45,0,Pullup Jump shot,26,-106,239,False
+Donovan Mitchell,2,2,51,0,Pullup Jump shot,24,-135,200,False
+Donovan Mitchell,3,11,12,0,Pullup Jump shot,26,-26,262,False
+Donovan Mitchell,2,3,23,0,Pullup Jump shot,25,92,238,False
+Donovan Mitchell,1,9,56,1,Pullup Jump shot,25,119,230,False
+Donovan Mitchell,1,4,36,0,Pullup Jump shot,25,49,248,False
+Donovan Mitchell,1,3,49,1,Pullup Jump shot,18,-153,96,True
+Donovan Mitchell,3,5,20,1,Pullup Jump shot,25,-74,242,False
+Donovan Mitchell,1,9,1,0,Pullup Jump shot,26,72,250,False
+Donovan Mitchell,4,5,7,0,Pullup Jump shot,17,117,133,True
+Donovan Mitchell,4,1,28,0,Pullup Jump shot,28,-43,283,False
+Donovan Mitchell,3,9,34,1,Pullup Jump shot,26,2,267,False
+Donovan Mitchell,2,0,36,0,Pullup Jump shot,25,-118,222,False
+Donovan Mitchell,2,8,50,1,Pullup Jump shot,25,-101,236,False
+Donovan Mitchell,1,5,51,1,Pullup Jump shot,17,88,153,True
+Donovan Mitchell,1,3,35,1,Pullup Jump shot,17,-120,124,True
+Donovan Mitchell,2,7,31,1,Pullup Jump shot,24,95,225,False
+Donovan Mitchell,3,0,58,0,Pullup Jump shot,27,63,268,False
+Donovan Mitchell,1,9,5,0,Pullup Jump shot,8,-36,74,True
+Donovan Mitchell,3,2,0,0,Pullup Jump shot,28,-127,257,False
+Donovan Mitchell,1,2,26,0,Pullup Jump shot,25,2,259,False
+Donovan Mitchell,2,4,27,0,Pullup Jump shot,21,-94,197,True
+Donovan Mitchell,4,11,51,1,Pullup Jump shot,20,-35,201,True
+Donovan Mitchell,4,4,26,0,Pullup Jump shot,26,-92,246,False
+Donovan Mitchell,2,3,44,1,Pullup Jump shot,18,165,80,True
+Donovan Mitchell,4,2,25,0,Pullup Jump shot,25,-138,217,False
+Donovan Mitchell,1,0,11,0,Pullup Jump shot,25,-12,251,False
+Donovan Mitchell,2,0,8,0,Pullup Jump shot,19,148,131,True
+Donovan Mitchell,3,9,3,0,Pullup Jump shot,12,-62,113,True
+Donovan Mitchell,1,6,15,1,Pullup Jump shot,20,-92,178,True
+Donovan Mitchell,2,8,26,0,Pullup Jump shot,29,106,275,False
+Donovan Mitchell,1,3,16,1,Pullup Jump shot,25,93,241,False
+Donovan Mitchell,4,3,22,0,Pullup Jump shot,21,-127,169,True
+Donovan Mitchell,1,3,59,1,Pullup Jump shot,25,-15,255,False
+Donovan Mitchell,2,8,9,1,Pullup Jump shot,26,12,266,False
+Donovan Mitchell,4,0,0,0,Pullup Jump shot,30,157,264,False
+Donovan Mitchell,3,4,27,0,Pullup Jump shot,18,144,118,True
+Donovan Mitchell,3,10,18,0,Pullup Jump shot,12,-100,71,True
+Donovan Mitchell,2,1,37,1,Pullup Jump shot,25,-87,240,False
+Donovan Mitchell,3,1,54,1,Pullup Jump shot,19,76,183,True
+Donovan Mitchell,3,0,38,0,Pullup Jump shot,26,-159,211,False
+Donovan Mitchell,1,5,30,0,Pullup Jump shot,26,-128,227,False
+Donovan Mitchell,2,6,39,1,Pullup Jump shot,14,105,100,True
+Donovan Mitchell,4,2,55,1,Pullup Jump shot,22,-116,193,True
+Donovan Mitchell,4,2,50,0,Pullup Jump shot,26,40,265,False
+Donovan Mitchell,2,8,14,1,Pullup Jump shot,16,-111,121,True
+Donovan Mitchell,1,6,16,0,Pullup Jump shot,15,96,125,True
+Donovan Mitchell,4,5,12,1,Pullup Jump shot,18,-3,188,True
+Donovan Mitchell,3,1,28,0,Pullup Jump shot,25,-71,246,False
+Donovan Mitchell,3,0,38,1,Pullup Jump shot,19,127,146,True
+Donovan Mitchell,1,0,2,0,Pullup Jump shot,25,107,228,False
+Donovan Mitchell,3,2,3,1,Pullup Jump shot,25,58,248,False
+Donovan Mitchell,1,2,44,0,Pullup Jump shot,20,32,198,True
+Donovan Mitchell,1,0,59,0,Pullup Jump shot,20,-49,194,True
+Donovan Mitchell,3,0,5,0,Pullup Jump shot,19,93,172,True
+Donovan Mitchell,4,2,45,0,Pullup Jump shot,20,126,167,True
+Donovan Mitchell,4,5,21,1,Pullup Jump shot,9,-72,69,True
+Donovan Mitchell,3,4,54,1,Pullup Jump shot,20,-115,168,True
+Donovan Mitchell,2,6,59,0,Pullup Jump shot,17,23,177,True
+Donovan Mitchell,2,3,59,1,Pullup Jump shot,11,29,116,True
+Donovan Mitchell,2,4,21,0,Pullup Jump shot,18,16,181,True
+Donovan Mitchell,4,7,14,0,Pullup Jump shot,15,-2,158,True
+Donovan Mitchell,1,3,54,1,Pullup Jump shot,25,-52,246,False
+Donovan Mitchell,3,10,27,1,Pullup Jump shot,19,-89,178,True
+Donovan Mitchell,2,1,30,0,Pullup Jump shot,18,133,129,True
+Donovan Mitchell,1,3,55,0,Pullup Jump shot,20,-63,195,True
+Donovan Mitchell,4,0,4,0,Pullup Jump shot,26,223,137,False
+Donovan Mitchell,4,8,31,0,Pullup Jump shot,25,20,254,False
+Donovan Mitchell,4,8,8,1,Pullup Jump shot,24,-78,232,False
+Donovan Mitchell,3,2,52,0,Pullup Jump shot,24,-20,241,False
+Donovan Mitchell,3,11,13,1,Pullup Jump shot,25,-92,235,False
+Donovan Mitchell,4,8,0,1,Pullup Jump shot,21,-62,204,True
+Donovan Mitchell,1,8,7,0,Pullup Jump shot,25,158,199,False
+Donovan Mitchell,2,0,33,0,Pullup Jump shot,26,10,260,False
+Donovan Mitchell,3,10,30,0,Pullup Jump shot,26,71,257,False
+Donovan Mitchell,4,4,44,0,Pullup Jump shot,26,155,221,False
+Donovan Mitchell,4,6,34,1,Pullup Jump shot,17,-79,155,True
+Donovan Mitchell,3,3,5,1,Pullup Jump shot,12,-23,127,True
+Donovan Mitchell,3,10,45,1,Pullup Jump shot,18,4,186,True
+Donovan Mitchell,1,9,33,0,Pullup Jump shot,25,79,241,False
+Donovan Mitchell,4,0,3,1,Pullup Jump shot,26,191,177,False
+Donovan Mitchell,4,2,4,0,Pullup Jump shot,29,-75,290,False
+Donovan Mitchell,2,7,5,1,Pullup Jump shot,18,11,183,True
+Donovan Mitchell,4,5,18,0,Pullup Jump shot,15,40,147,True
+Donovan Mitchell,2,2,52,1,Pullup Jump shot,16,-53,161,True
+Donovan Mitchell,3,6,58,0,Pullup Jump shot,26,-101,240,False
+Donovan Mitchell,2,1,47,1,Pullup Jump shot,26,52,263,False
+Donovan Mitchell,2,6,11,0,Pullup Jump shot,21,-96,195,True
+Donovan Mitchell,1,8,1,0,Pullup Jump shot,17,-60,168,True
+Donovan Mitchell,2,6,47,1,Pullup Jump shot,17,51,167,True
+Donovan Mitchell,3,11,4,1,Pullup Jump shot,17,-24,176,True
+Donovan Mitchell,2,2,52,0,Pullup Jump shot,15,89,126,True
+Donovan Mitchell,2,7,41,0,Pullup Jump shot,17,122,132,True
+Donovan Mitchell,1,6,0,0,Pullup Jump shot,25,-104,231,False
+Donovan Mitchell,3,3,30,1,Pullup Jump shot,25,-82,237,False
+Donovan Mitchell,3,10,33,1,Pullup Jump shot,26,5,261,False
+Donovan Mitchell,3,9,0,1,Pullup Jump shot,21,-121,176,True
+Donovan Mitchell,1,4,44,0,Pullup Jump shot,15,67,136,True
+Donovan Mitchell,4,1,47,1,Pullup Jump shot,24,-32,246,False
+Donovan Mitchell,4,2,36,0,Pullup Jump shot,26,116,239,False
+Donovan Mitchell,1,9,51,0,Pullup Jump shot,12,-14,126,True
+Donovan Mitchell,3,8,42,0,Pullup Jump shot,8,83,4,True
+Donovan Mitchell,1,9,12,1,Pullup Jump shot,15,-23,154,True
+Donovan Mitchell,3,0,47,0,Pullup Jump shot,25,5,251,False
+Donovan Mitchell,3,8,23,0,Pullup Jump shot,26,119,241,False
+Donovan Mitchell,2,2,12,0,Pullup Jump shot,24,-111,220,False
+Donovan Mitchell,1,9,19,0,Pullup Jump shot,18,113,148,True
+Donovan Mitchell,3,10,20,0,Pullup Jump shot,18,-80,171,True
+Donovan Mitchell,2,3,5,1,Pullup Jump shot,25,6,259,False
+Donovan Mitchell,4,5,41,0,Pullup Jump shot,19,-21,189,True
+Donovan Mitchell,3,7,24,1,Pullup Jump shot,19,30,190,True
+Donovan Mitchell,3,4,6,1,Pullup Jump shot,26,50,257,False
+Donovan Mitchell,1,8,36,0,Pullup Jump shot,28,-40,279,False
+Donovan Mitchell,1,1,59,0,Pullup Jump shot,25,-88,242,False
+Donovan Mitchell,1,4,49,0,Pullup Jump shot,28,46,277,False
+Donovan Mitchell,4,6,43,0,Pullup Jump shot,25,87,240,False
+Donovan Mitchell,3,1,40,1,Pullup Jump shot,26,55,255,False
+Donovan Mitchell,3,9,43,1,Pullup Jump shot,25,-5,256,False
+Donovan Mitchell,1,0,49,0,Pullup Jump shot,25,-134,218,False
+Donovan Mitchell,4,3,42,0,Pullup Jump shot,25,-104,231,False
+Donovan Mitchell,1,9,30,0,Pullup Jump shot,18,113,148,True
+Donovan Mitchell,4,5,19,0,Pullup Jump shot,16,-54,152,True
+Donovan Mitchell,3,5,42,0,Pullup Jump shot,24,204,141,False
+Donovan Mitchell,4,3,5,0,Pullup Jump shot,13,34,130,True
+Donovan Mitchell,2,4,57,0,Pullup Jump shot,18,2,183,True
+Donovan Mitchell,3,9,18,0,Pullup Jump shot,19,-86,173,True
+Donovan Mitchell,2,5,31,0,Pullup Jump shot,16,82,143,True
+Donovan Mitchell,4,5,42,1,Pullup Jump shot,20,19,208,True
+Donovan Mitchell,2,7,45,0,Pullup Jump shot,16,128,101,True
+Donovan Mitchell,1,0,0,0,Pullup Jump shot,32,127,300,False
+Donovan Mitchell,4,7,8,1,Pullup Jump shot,16,11,164,True
+Donovan Mitchell,2,0,11,1,Pullup Jump shot,25,144,212,False
+Donovan Mitchell,1,1,49,1,Pullup Jump shot,25,22,251,False
+Donovan Mitchell,3,0,1,0,Pullup Jump shot,31,-14,316,False
+Donovan Mitchell,4,3,48,1,Pullup Jump shot,13,-89,96,True
+Donovan Mitchell,4,4,39,1,Pullup Jump shot,30,39,300,False
+Donovan Mitchell,2,0,19,0,Pullup Jump shot,26,129,235,False
+Donovan Mitchell,3,4,14,0,Pullup Jump shot,25,90,237,False
+Donovan Mitchell,2,7,47,1,Pullup Jump shot,25,201,163,False
+Donovan Mitchell,2,6,16,0,Pullup Jump shot,23,-16,238,True
+Donovan Mitchell,1,4,3,0,Pullup Jump shot,25,120,225,False
+Donovan Mitchell,4,1,21,0,Pullup Jump shot,26,119,232,False
+Donovan Mitchell,1,10,28,1,Pullup Jump shot,20,-157,136,True
+Donovan Mitchell,1,8,49,0,Pullup Jump shot,18,-84,162,True
+Donovan Mitchell,3,7,1,0,Pullup Jump shot,12,1,127,True
+Donovan Mitchell,1,11,8,0,Pullup Jump shot,18,-126,136,True
+Donovan Mitchell,4,6,16,0,Pullup Jump shot,25,-55,253,False
+Donovan Mitchell,4,2,17,1,Pullup Jump shot,20,107,179,True
+Donovan Mitchell,3,8,55,1,Pullup Jump shot,25,204,161,False
+Donovan Mitchell,4,11,48,0,Pullup Jump shot,25,207,147,False
+Donovan Mitchell,3,1,33,0,Pullup Jump shot,16,-48,162,True
+Donovan Mitchell,2,3,55,0,Pullup Jump shot,18,54,178,True
+Donovan Mitchell,3,4,12,0,Pullup Jump shot,24,-20,247,False
+Donovan Mitchell,3,0,3,0,Pullup Jump shot,28,116,264,False
+Donovan Mitchell,3,6,2,1,Pullup Jump shot,24,138,206,False
+Donovan Mitchell,3,8,42,1,Pullup Jump shot,17,-6,172,True
+Donovan Mitchell,3,3,41,0,Pullup Jump shot,20,-100,174,True
+Donovan Mitchell,3,2,7,0,Pullup Jump shot,28,-62,276,False
+Donovan Mitchell,3,7,35,1,Pullup Jump shot,17,76,160,True
+Donovan Mitchell,1,1,39,0,Pullup Jump shot,22,93,209,True
+Donovan Mitchell,1,8,51,1,Pullup Jump shot,15,-61,138,True
+Donovan Mitchell,2,3,32,0,Pullup Jump shot,26,123,237,False
+Donovan Mitchell,4,0,39,1,Pullup Jump shot,18,105,147,True
+Donovan Mitchell,1,6,19,1,Pullup Jump shot,24,-58,236,False
+Donovan Mitchell,1,10,26,0,Pullup Jump shot,11,20,115,True
+Donovan Mitchell,3,10,37,0,Pullup Jump shot,18,85,169,True
+Donovan Mitchell,4,9,46,0,Pullup Jump shot,26,-67,252,False
+Donovan Mitchell,2,3,30,1,Pullup Jump shot,26,76,251,False
+Donovan Mitchell,2,6,7,1,Pullup Jump shot,15,-42,147,True
+Donovan Mitchell,2,3,2,0,Pullup Jump shot,9,2,94,True
+Donovan Mitchell,4,0,24,0,Pullup Jump shot,16,-5,164,True
+Donovan Mitchell,2,0,38,1,Pullup Jump shot,24,-29,246,False
+Donovan Mitchell,2,3,42,0,Pullup Jump shot,25,40,251,False
+Donovan Mitchell,1,7,9,0,Pullup Jump shot,20,14,206,True
+Donovan Mitchell,4,11,23,0,Pullup Jump shot,15,98,123,True
+Donovan Mitchell,3,11,32,0,Pullup Jump shot,24,-155,189,False
+Donovan Mitchell,4,4,9,1,Putback Dunk Shot,0,0,-6,True
+Donovan Mitchell,3,0,55,1,Putback Dunk Shot,0,0,-6,True
+Donovan Mitchell,4,8,39,0,Putback Layup Shot,3,8,33,True
+Donovan Mitchell,3,3,33,1,Putback Layup Shot,0,0,-6,True
+Donovan Mitchell,4,1,26,1,Putback Layup Shot,0,0,-6,True
+Donovan Mitchell,4,8,23,0,Reverse Layup Shot,1,-13,15,True
+Donovan Mitchell,2,1,3,0,Reverse Layup Shot,4,-21,42,True
+Donovan Mitchell,2,3,45,1,Reverse Layup Shot,2,-6,22,True
+Donovan Mitchell,4,0,43,1,Reverse Layup Shot,2,-21,4,True
+Donovan Mitchell,1,11,4,1,Reverse Layup Shot,1,-17,6,True
+Donovan Mitchell,4,5,18,1,Reverse Layup Shot,1,-14,6,True
+Donovan Mitchell,2,1,48,0,Reverse Layup Shot,2,21,-1,True
+Donovan Mitchell,3,9,13,0,Reverse Layup Shot,0,-1,4,True
+Donovan Mitchell,2,7,3,1,Running Alley Oop Dunk Shot,2,-18,11,True
+Donovan Mitchell,1,5,41,1,Running Dunk Shot,3,-20,27,True
+Donovan Mitchell,1,3,41,1,Running Dunk Shot,0,-2,6,True
+Donovan Mitchell,2,5,55,1,Running Dunk Shot,2,4,25,True
+Donovan Mitchell,4,6,56,1,Running Dunk Shot,0,0,7,True
+Donovan Mitchell,3,6,0,1,Running Dunk Shot,0,3,1,True
+Donovan Mitchell,1,7,30,1,Running Finger Roll Layup Shot,1,8,10,True
+Donovan Mitchell,2,0,32,1,Running Finger Roll Layup Shot,2,5,27,True
+Donovan Mitchell,4,7,1,1,Running Finger Roll Layup Shot,1,-11,8,True
+Donovan Mitchell,2,2,39,0,Running Finger Roll Layup Shot,2,-5,21,True
+Donovan Mitchell,4,3,45,1,Running Finger Roll Layup Shot,1,-6,13,True
+Donovan Mitchell,2,0,0,0,Running Jump Shot,25,178,183,False
+Donovan Mitchell,4,3,41,1,Running Layup Shot,2,11,22,True
+Donovan Mitchell,3,7,41,1,Running Layup Shot,2,16,22,True
+Donovan Mitchell,1,11,30,1,Running Layup Shot,2,-26,6,True
+Donovan Mitchell,1,5,51,0,Running Layup Shot,2,20,18,True
+Donovan Mitchell,1,3,48,1,Running Layup Shot,1,14,8,True
+Donovan Mitchell,2,0,0,0,Running Layup Shot,2,22,11,True
+Donovan Mitchell,2,0,31,1,Running Layup Shot,0,9,1,True
+Donovan Mitchell,3,7,47,1,Running Layup Shot,2,18,15,True
+Donovan Mitchell,4,0,4,1,Running Layup Shot,0,4,6,True
+Donovan Mitchell,1,9,14,0,Running Layup Shot,4,41,8,True
+Donovan Mitchell,3,10,19,1,Running Layup Shot,1,6,10,True
+Donovan Mitchell,3,4,1,1,Running Layup Shot,0,4,8,True
+Donovan Mitchell,4,0,4,0,Running Layup Shot,2,20,6,True
+Donovan Mitchell,2,4,12,1,Running Layup Shot,1,15,6,True
+Donovan Mitchell,3,5,10,1,Running Layup Shot,1,-16,-6,True
+Donovan Mitchell,2,4,26,1,Running Layup Shot,1,13,4,True
+Donovan Mitchell,1,4,27,1,Running Layup Shot,3,-27,18,True
+Donovan Mitchell,4,5,25,1,Running Layup Shot,1,19,3,True
+Donovan Mitchell,3,0,55,0,Running Layup Shot,4,38,21,True
+Donovan Mitchell,4,4,26,1,Running Layup Shot,2,22,-2,True
+Donovan Mitchell,4,5,4,1,Running Layup Shot,0,-2,-1,True
+Donovan Mitchell,2,3,3,0,Running Layup Shot,2,24,17,True
+Donovan Mitchell,3,11,26,1,Running Layup Shot,4,8,47,True
+Donovan Mitchell,4,6,39,1,Running Layup Shot,1,7,14,True
+Donovan Mitchell,2,4,26,1,Running Layup Shot,0,-1,-1,True
+Donovan Mitchell,3,5,39,1,Running Layup Shot,1,12,14,True
+Donovan Mitchell,1,0,39,1,Running Layup Shot,2,23,4,True
+Donovan Mitchell,3,0,0,1,Running Layup Shot,2,8,19,True
+Donovan Mitchell,3,7,25,1,Running Layup Shot,1,-9,6,True
+Donovan Mitchell,3,8,7,1,Running Layup Shot,1,8,7,True
+Donovan Mitchell,1,2,23,1,Running Layup Shot,2,-16,12,True
+Donovan Mitchell,1,9,38,1,Running Layup Shot,0,-4,5,True
+Donovan Mitchell,1,3,41,1,Running Layup Shot,3,16,27,True
+Donovan Mitchell,2,4,24,0,Running Layup Shot,2,14,20,True
+Donovan Mitchell,3,6,2,0,Running Pull-Up Jump Shot,20,61,193,True
+Donovan Mitchell,3,10,50,1,Running Reverse Layup Shot,2,17,11,True
+Donovan Mitchell,1,6,31,1,Running Reverse Layup Shot,1,15,7,True
+Donovan Mitchell,1,10,41,0,Step Back Bank Jump Shot,12,105,59,True
+Donovan Mitchell,2,3,30,0,Step Back Jump shot,25,-211,141,False
+Donovan Mitchell,3,2,1,0,Step Back Jump shot,16,-135,93,True
+Donovan Mitchell,4,6,22,0,Step Back Jump shot,11,116,1,True
+Donovan Mitchell,2,0,7,0,Step Back Jump shot,25,11,251,False
+Donovan Mitchell,2,0,44,0,Step Back Jump shot,25,-181,173,False
+Donovan Mitchell,3,8,8,1,Step Back Jump shot,25,-128,220,False
+Donovan Mitchell,3,2,32,1,Step Back Jump shot,20,90,184,True
+Donovan Mitchell,4,1,31,0,Step Back Jump shot,24,133,210,False
+Donovan Mitchell,2,5,50,0,Step Back Jump shot,25,58,246,False
+Donovan Mitchell,2,0,4,1,Step Back Jump shot,22,-84,212,True
+Donovan Mitchell,2,6,25,0,Step Back Jump shot,24,-42,245,False
+Donovan Mitchell,1,4,45,1,Step Back Jump shot,26,-137,223,False
+Donovan Mitchell,2,7,31,0,Step Back Jump shot,26,-145,217,False
+Donovan Mitchell,1,10,8,1,Step Back Jump shot,25,-157,204,False
+Donovan Mitchell,3,2,40,0,Step Back Jump shot,26,82,248,False
+Donovan Mitchell,1,5,52,1,Step Back Jump shot,16,166,4,True
+Donovan Mitchell,4,5,59,1,Step Back Jump shot,13,136,18,True
+Donovan Mitchell,4,4,9,1,Step Back Jump shot,24,-96,227,False
+Donovan Mitchell,4,6,2,0,Step Back Jump shot,17,-101,141,True
+Donovan Mitchell,4,3,54,0,Step Back Jump shot,21,125,169,True
+Donovan Mitchell,4,7,58,0,Step Back Jump shot,24,95,227,False
+Donovan Mitchell,4,5,50,1,Step Back Jump shot,19,-86,171,True
+Donovan Mitchell,4,8,15,1,Step Back Jump shot,16,98,136,True
+Donovan Mitchell,4,9,16,1,Step Back Jump shot,17,106,137,True
+Donovan Mitchell,2,6,34,1,Step Back Jump shot,19,60,183,True
+Donovan Mitchell,1,4,12,0,Step Back Jump shot,19,-93,168,True
+Donovan Mitchell,4,10,19,0,Step Back Jump shot,24,29,248,False
+Donovan Mitchell,3,0,10,1,Step Back Jump shot,12,-14,125,True
+Donovan Mitchell,3,11,43,0,Step Back Jump shot,10,43,101,True
+Donovan Mitchell,3,2,30,0,Step Back Jump shot,22,120,189,True
+Donovan Mitchell,2,1,12,0,Step Back Jump shot,13,1,132,True
+Donovan Mitchell,1,0,1,1,Step Back Jump shot,25,-76,242,False
+Donovan Mitchell,3,6,23,0,Step Back Jump shot,25,68,246,False
+Donovan Mitchell,1,9,5,1,Step Back Jump shot,15,79,138,True
+Donovan Mitchell,1,7,3,1,Step Back Jump shot,15,-150,52,True
+Donovan Mitchell,3,9,20,0,Step Back Jump shot,21,-145,152,True
+Donovan Mitchell,2,9,6,0,Step Back Jump shot,22,89,203,True
+Donovan Mitchell,2,0,18,1,Step Back Jump shot,24,92,231,False
+Donovan Mitchell,4,8,45,1,Step Back Jump shot,22,-114,195,True
+Donovan Mitchell,2,2,52,0,Step Back Jump shot,20,-67,195,True
+Donovan Mitchell,2,6,8,0,Step Back Jump shot,24,109,222,False
+Donovan Mitchell,1,11,20,1,Step Back Jump shot,22,-95,203,True
+Donovan Mitchell,3,2,4,1,Step Back Jump shot,14,-64,128,True
+Donovan Mitchell,4,9,6,1,Step Back Jump shot,24,149,199,False
+Donovan Mitchell,1,8,27,0,Step Back Jump shot,11,65,89,True
+Donovan Mitchell,5,4,48,1,Step Back Jump shot,25,-29,252,False
+Donovan Mitchell,3,4,18,1,Step Back Jump shot,25,191,169,False
+Donovan Mitchell,3,2,53,0,Step Back Jump shot,15,-100,115,True
+Donovan Mitchell,4,0,50,1,Step Back Jump shot,25,130,219,False
+Donovan Mitchell,4,2,33,0,Step Back Jump shot,24,-106,219,False
+Donovan Mitchell,1,5,22,1,Step Back Jump shot,24,168,176,False
+Donovan Mitchell,1,3,2,0,Step Back Jump shot,16,-43,158,True
+Donovan Mitchell,1,11,23,1,Step Back Jump shot,15,-132,76,True
+Donovan Mitchell,1,9,53,1,Step Back Jump shot,14,-131,54,True
+Donovan Mitchell,1,10,24,1,Step Back Jump shot,25,66,246,False
+Donovan Mitchell,3,3,37,1,Tip Dunk Shot,2,22,3,True
+Donovan Mitchell,2,6,23,1,Tip Dunk Shot,0,0,-6,True
+Donovan Mitchell,3,8,44,0,Tip Layup Shot,5,14,50,True
+Donovan Mitchell,4,4,34,1,Tip Layup Shot,0,0,-6,True
+Donovan Mitchell,2,0,28,0,Tip Layup Shot,0,0,-6,True
+Donovan Mitchell,2,9,11,1,Tip Layup Shot,0,0,-6,True
+Donovan Mitchell,3,5,17,1,Tip Layup Shot,0,0,-6,True
+Donovan Mitchell,3,9,6,0,Tip Layup Shot,2,5,21,True
+Donovan Mitchell,2,5,45,1,Tip Layup Shot,0,0,-6,True
+Donovan Mitchell,4,0,32,1,Tip Layup Shot,0,0,-6,True
+Donovan Mitchell,4,8,58,1,Turnaround Fadeaway shot,9,8,95,True
+Donovan Mitchell,1,11,45,1,Turnaround Fadeaway shot,5,-58,6,True
+Donovan Mitchell,2,1,58,1,Turnaround Fadeaway shot,17,105,138,True
+Donovan Mitchell,1,9,39,1,Turnaround Fadeaway shot,12,117,41,True
+Donovan Mitchell,3,7,58,0,Turnaround Jump Shot,10,36,99,True
+Donovan Mitchell,4,1,51,0,Turnaround Jump Shot,8,15,85,True
+Donovan Mitchell,4,6,28,1,Turnaround Jump Shot,11,-52,106,True
+Donovan Mitchell,1,3,33,1,Turnaround Jump Shot,10,47,97,True
+Donovan Mitchell,2,5,14,0,Turnaround Jump Shot,12,0,123,True
+Donovan Mitchell,2,7,41,0,Turnaround Jump Shot,26,141,224,False
+Donovan Mitchell,2,0,52,1,Turnaround Jump Shot,9,-53,77,True
+Donovan Mitchell,3,2,53,1,Turnaround Jump Shot,13,-55,120,True
+Donovan Mitchell,1,7,4,1,Turnaround Jump Shot,4,-29,34,True
+Donovan Mitchell,1,6,39,1,Turnaround Jump Shot,9,-35,90,True

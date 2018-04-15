@@ -1,0 +1,245 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jerryd Bayless,1,1,0,1,Alley Oop Dunk Shot,0,0,8,True
+Jerryd Bayless,2,3,7,1,Alley Oop Layup shot,1,16,4,True
+Jerryd Bayless,1,3,8,1,Alley Oop Layup shot,0,-1,6,True
+Jerryd Bayless,1,3,26,1,Alley Oop Layup shot,4,44,-1,True
+Jerryd Bayless,2,5,55,0,Alley Oop Layup shot,1,-14,-3,True
+Jerryd Bayless,3,2,50,1,Alley Oop Layup shot,2,25,4,True
+Jerryd Bayless,1,8,23,1,Alley Oop Layup shot,2,20,4,True
+Jerryd Bayless,3,3,17,1,Alley Oop Layup shot,0,6,4,True
+Jerryd Bayless,2,7,51,0,Cutting Finger Roll Layup Shot,0,8,-1,True
+Jerryd Bayless,2,6,27,1,Cutting Layup Shot,0,-1,-3,True
+Jerryd Bayless,1,11,8,1,Cutting Layup Shot,0,9,-1,True
+Jerryd Bayless,3,3,39,0,Cutting Layup Shot,0,-1,8,True
+Jerryd Bayless,1,4,30,1,Cutting Layup Shot,1,13,15,True
+Jerryd Bayless,4,11,31,1,Cutting Layup Shot,2,-9,28,True
+Jerryd Bayless,3,1,58,1,Cutting Layup Shot,3,33,17,True
+Jerryd Bayless,1,5,23,1,Cutting Layup Shot,3,25,17,True
+Jerryd Bayless,3,3,29,0,Cutting Layup Shot,1,5,19,True
+Jerryd Bayless,2,6,56,1,Cutting Layup Shot,1,5,10,True
+Jerryd Bayless,2,0,35,1,Driving Floating Bank Jump Shot,8,83,25,True
+Jerryd Bayless,3,8,13,1,Driving Floating Bank Jump Shot,3,36,6,True
+Jerryd Bayless,4,9,7,1,Driving Floating Jump Shot,6,12,68,True
+Jerryd Bayless,2,5,6,0,Driving Floating Jump Shot,8,-8,84,True
+Jerryd Bayless,3,1,23,1,Driving Floating Jump Shot,13,-17,131,True
+Jerryd Bayless,4,9,9,1,Driving Floating Jump Shot,11,109,16,True
+Jerryd Bayless,1,5,9,1,Driving Floating Jump Shot,8,-8,88,True
+Jerryd Bayless,3,5,56,1,Driving Floating Jump Shot,6,36,60,True
+Jerryd Bayless,1,5,39,0,Driving Floating Jump Shot,11,11,119,True
+Jerryd Bayless,4,10,12,0,Driving Floating Jump Shot,4,19,44,True
+Jerryd Bayless,3,8,19,0,Driving Floating Jump Shot,8,-39,80,True
+Jerryd Bayless,2,0,1,0,Driving Layup Shot,1,10,6,True
+Jerryd Bayless,3,5,17,0,Driving Layup Shot,4,22,34,True
+Jerryd Bayless,3,0,5,1,Driving Layup Shot,0,4,2,True
+Jerryd Bayless,2,9,35,0,Driving Layup Shot,1,0,14,True
+Jerryd Bayless,2,2,42,1,Driving Layup Shot,3,6,38,True
+Jerryd Bayless,4,10,51,1,Driving Layup Shot,0,-4,6,True
+Jerryd Bayless,4,1,56,1,Driving Layup Shot,1,-10,11,True
+Jerryd Bayless,2,0,10,1,Driving Layup Shot,1,12,13,True
+Jerryd Bayless,4,4,18,0,Driving Layup Shot,2,18,13,True
+Jerryd Bayless,1,9,40,1,Driving Layup Shot,2,25,15,True
+Jerryd Bayless,3,2,26,0,Driving Layup Shot,4,16,46,True
+Jerryd Bayless,2,7,34,1,Driving Layup Shot,4,39,24,True
+Jerryd Bayless,2,2,13,1,Driving Layup Shot,2,27,3,True
+Jerryd Bayless,1,0,38,1,Driving Layup Shot,1,16,6,True
+Jerryd Bayless,2,9,21,0,Driving Layup Shot,4,18,37,True
+Jerryd Bayless,3,0,59,0,Driving Reverse Layup Shot,2,-20,2,True
+Jerryd Bayless,1,8,53,0,Driving Reverse Layup Shot,1,-11,4,True
+Jerryd Bayless,4,1,14,0,Fadeaway Jump Shot,14,-146,15,True
+Jerryd Bayless,4,11,22,1,Fadeaway Jump Shot,10,99,30,True
+Jerryd Bayless,1,4,47,0,Fadeaway Jump Shot,14,145,-11,True
+Jerryd Bayless,1,10,56,0,Floating Jump shot,10,73,73,True
+Jerryd Bayless,3,9,19,0,Floating Jump shot,8,-28,76,True
+Jerryd Bayless,2,6,37,0,Floating Jump shot,8,0,83,True
+Jerryd Bayless,1,4,21,0,Floating Jump shot,9,55,74,True
+Jerryd Bayless,2,4,42,0,Floating Jump shot,8,78,34,True
+Jerryd Bayless,1,3,36,0,Floating Jump shot,5,-24,53,True
+Jerryd Bayless,1,4,5,0,Floating Jump shot,10,7,100,True
+Jerryd Bayless,3,9,50,0,Floating Jump shot,11,33,113,True
+Jerryd Bayless,2,2,33,0,Jump Shot,18,-94,155,True
+Jerryd Bayless,1,1,22,0,Jump Shot,25,-228,113,False
+Jerryd Bayless,2,8,10,0,Jump Shot,25,230,100,False
+Jerryd Bayless,3,2,16,0,Jump Shot,25,-149,206,False
+Jerryd Bayless,1,0,44,0,Jump Shot,25,5,252,False
+Jerryd Bayless,1,1,18,0,Jump Shot,23,-239,-4,False
+Jerryd Bayless,3,0,44,1,Jump Shot,22,223,48,False
+Jerryd Bayless,1,0,51,1,Jump Shot,25,-207,148,False
+Jerryd Bayless,3,7,27,0,Jump Shot,23,233,48,False
+Jerryd Bayless,2,6,27,1,Jump Shot,25,226,117,False
+Jerryd Bayless,4,9,5,0,Jump Shot,25,130,225,False
+Jerryd Bayless,4,8,19,0,Jump Shot,26,-147,219,False
+Jerryd Bayless,3,1,30,0,Jump Shot,27,83,261,False
+Jerryd Bayless,3,6,11,0,Jump Shot,1,0,12,True
+Jerryd Bayless,2,7,23,0,Jump Shot,17,166,64,True
+Jerryd Bayless,2,0,11,0,Jump Shot,24,234,69,False
+Jerryd Bayless,3,0,5,0,Jump Shot,20,-1,206,True
+Jerryd Bayless,4,9,48,0,Jump Shot,23,223,65,False
+Jerryd Bayless,1,6,33,1,Jump Shot,23,229,68,False
+Jerryd Bayless,4,10,32,1,Jump Shot,24,230,79,False
+Jerryd Bayless,2,7,54,1,Jump Shot,26,-129,230,False
+Jerryd Bayless,4,10,41,0,Jump Shot,21,211,40,True
+Jerryd Bayless,4,6,14,0,Jump Shot,26,147,216,False
+Jerryd Bayless,2,9,39,1,Jump Shot,23,-232,-12,False
+Jerryd Bayless,1,6,28,0,Jump Shot,24,244,8,False
+Jerryd Bayless,3,6,16,0,Jump Shot,26,123,235,False
+Jerryd Bayless,4,11,42,0,Jump Shot,25,-49,251,False
+Jerryd Bayless,2,6,47,0,Jump Shot,24,124,217,False
+Jerryd Bayless,4,8,11,0,Jump Shot,21,-211,-2,True
+Jerryd Bayless,1,5,52,1,Jump Shot,22,-228,20,False
+Jerryd Bayless,2,5,46,1,Jump Shot,22,226,20,False
+Jerryd Bayless,2,3,39,0,Jump Shot,23,230,14,False
+Jerryd Bayless,2,8,29,1,Jump Shot,21,-124,172,True
+Jerryd Bayless,4,6,46,0,Jump Shot,24,237,57,False
+Jerryd Bayless,3,3,33,0,Jump Shot,26,-157,216,False
+Jerryd Bayless,2,4,25,1,Jump Shot,25,-12,254,False
+Jerryd Bayless,4,9,35,0,Jump Shot,23,-230,10,False
+Jerryd Bayless,2,7,7,0,Jump Shot,23,-230,-19,False
+Jerryd Bayless,1,1,3,0,Jump Shot,26,-125,237,False
+Jerryd Bayless,1,2,36,0,Jump Shot,20,-202,-9,True
+Jerryd Bayless,4,11,46,1,Jump Shot,25,157,195,False
+Jerryd Bayless,3,0,4,0,Jump Shot,23,230,0,False
+Jerryd Bayless,4,10,54,1,Jump Shot,23,231,14,False
+Jerryd Bayless,3,6,37,0,Jump Shot,25,-46,246,False
+Jerryd Bayless,4,9,11,0,Jump Shot,23,234,19,False
+Jerryd Bayless,1,2,22,0,Jump Shot,26,118,241,False
+Jerryd Bayless,4,7,56,1,Jump Shot,23,230,30,False
+Jerryd Bayless,4,8,45,0,Jump Shot,22,229,-18,False
+Jerryd Bayless,4,11,5,0,Jump Shot,23,-238,-7,False
+Jerryd Bayless,1,5,18,1,Jump Shot,27,86,259,False
+Jerryd Bayless,1,4,31,0,Jump Shot,25,211,138,False
+Jerryd Bayless,4,5,10,0,Jump Shot,23,-237,-16,False
+Jerryd Bayless,1,7,1,0,Jump Shot,24,-111,219,False
+Jerryd Bayless,4,5,39,0,Jump Shot,27,-84,258,False
+Jerryd Bayless,1,11,41,0,Jump Shot,22,-225,15,False
+Jerryd Bayless,2,5,13,0,Jump Shot,25,239,90,False
+Jerryd Bayless,2,4,0,0,Jump Shot,19,-93,172,True
+Jerryd Bayless,1,8,54,1,Jump Shot,25,168,194,False
+Jerryd Bayless,4,3,32,0,Jump Shot,27,-78,259,False
+Jerryd Bayless,4,5,24,0,Jump Shot,24,162,189,False
+Jerryd Bayless,4,3,58,1,Jump Shot,25,179,175,False
+Jerryd Bayless,1,4,34,1,Jump Shot,23,-234,15,False
+Jerryd Bayless,4,5,16,1,Jump Shot,22,-229,-6,False
+Jerryd Bayless,4,11,43,0,Jump Shot,26,96,242,False
+Jerryd Bayless,1,3,19,0,Jump Shot,26,133,231,False
+Jerryd Bayless,4,11,35,0,Jump Shot,26,-121,235,False
+Jerryd Bayless,3,0,46,0,Jump Shot,25,179,185,False
+Jerryd Bayless,3,0,41,0,Jump Shot,22,228,2,False
+Jerryd Bayless,3,3,9,1,Jump Shot,22,-228,-6,False
+Jerryd Bayless,2,5,54,1,Jump Shot,25,-103,230,False
+Jerryd Bayless,1,1,5,0,Jump Shot,24,221,106,False
+Jerryd Bayless,3,1,4,0,Jump Shot,26,58,255,False
+Jerryd Bayless,2,10,38,0,Jump Shot,25,-138,218,False
+Jerryd Bayless,4,10,57,1,Jump Shot,23,232,11,False
+Jerryd Bayless,2,11,9,0,Jump Shot,25,163,196,False
+Jerryd Bayless,2,2,42,0,Jump Shot,20,-144,143,True
+Jerryd Bayless,1,4,18,0,Jump Shot,25,-120,228,False
+Jerryd Bayless,2,9,5,0,Jump Shot,26,-198,173,False
+Jerryd Bayless,1,2,34,0,Jump Shot,26,111,237,False
+Jerryd Bayless,2,9,14,0,Jump Shot,4,-3,41,True
+Jerryd Bayless,1,4,1,0,Jump Shot,25,240,71,False
+Jerryd Bayless,2,8,56,0,Jump Shot,26,5,262,False
+Jerryd Bayless,2,6,31,0,Jump Shot,22,228,17,False
+Jerryd Bayless,2,11,41,0,Jump Shot,25,-230,109,False
+Jerryd Bayless,1,5,20,1,Jump Shot,25,-213,134,False
+Jerryd Bayless,2,3,51,0,Jump Shot,23,-230,1,False
+Jerryd Bayless,2,5,21,1,Jump Shot,17,-30,170,True
+Jerryd Bayless,4,5,19,1,Jump Shot,22,-221,37,False
+Jerryd Bayless,2,11,31,1,Jump Shot,25,106,228,False
+Jerryd Bayless,3,5,55,1,Jump Shot,25,220,125,False
+Jerryd Bayless,4,5,19,0,Jump Shot,25,6,252,False
+Jerryd Bayless,3,3,15,0,Jump Shot,22,-228,26,False
+Jerryd Bayless,2,2,7,0,Jump Shot,25,178,176,False
+Jerryd Bayless,2,5,56,1,Jump Shot,22,-226,0,False
+Jerryd Bayless,2,11,35,0,Jump Shot,22,-223,17,False
+Jerryd Bayless,2,0,6,0,Jump Shot,25,128,216,False
+Jerryd Bayless,4,8,7,0,Jump Shot,24,227,83,False
+Jerryd Bayless,2,5,8,0,Jump Shot,25,-58,248,False
+Jerryd Bayless,3,1,33,1,Jump Shot,24,196,149,False
+Jerryd Bayless,4,0,5,0,Jump Shot,11,-29,115,True
+Jerryd Bayless,4,9,9,0,Jump Shot,19,193,49,True
+Jerryd Bayless,1,10,14,1,Jump Shot,26,-156,208,False
+Jerryd Bayless,1,9,30,0,Jump Shot,26,-165,209,False
+Jerryd Bayless,1,3,46,1,Jump Shot,25,107,235,False
+Jerryd Bayless,2,1,24,0,Jump Shot,26,-100,243,False
+Jerryd Bayless,2,1,51,0,Jump Shot,26,94,248,False
+Jerryd Bayless,2,1,57,0,Jump Shot,25,-206,158,False
+Jerryd Bayless,3,0,48,0,Jump Shot,24,244,42,False
+Jerryd Bayless,2,4,41,1,Jump Shot,23,-234,19,False
+Jerryd Bayless,1,3,1,0,Jump Shot,25,-176,190,False
+Jerryd Bayless,2,0,0,0,Jump Shot,21,132,174,True
+Jerryd Bayless,2,4,7,1,Jump Shot,25,52,248,False
+Jerryd Bayless,2,9,52,0,Jump Shot,25,123,224,False
+Jerryd Bayless,1,9,16,1,Jump Shot,22,222,37,False
+Jerryd Bayless,4,10,1,1,Jump Shot,24,138,206,False
+Jerryd Bayless,1,1,35,0,Jump Shot,24,125,214,False
+Jerryd Bayless,4,8,18,0,Jump Shot,17,63,166,True
+Jerryd Bayless,3,0,27,0,Jump Shot,23,235,48,False
+Jerryd Bayless,3,11,35,1,Jump Shot,16,45,161,True
+Jerryd Bayless,2,5,42,1,Jump Shot,24,97,225,False
+Jerryd Bayless,1,7,27,1,Jump Shot,23,224,68,False
+Jerryd Bayless,1,9,23,0,Jump Shot,25,-102,235,False
+Jerryd Bayless,4,9,29,1,Jump Shot,25,141,210,False
+Jerryd Bayless,4,4,30,0,Jump Shot,24,206,134,False
+Jerryd Bayless,4,7,33,0,Jump Shot,25,-24,251,False
+Jerryd Bayless,4,9,8,1,Jump Shot,26,179,193,False
+Jerryd Bayless,2,8,1,0,Jump Shot,25,168,186,False
+Jerryd Bayless,2,0,54,0,Jump Shot,25,84,243,False
+Jerryd Bayless,3,1,20,1,Jump Shot,26,116,239,False
+Jerryd Bayless,2,7,38,0,Jump Shot,26,166,209,False
+Jerryd Bayless,1,4,2,0,Jump Shot,23,231,-1,False
+Jerryd Bayless,2,8,26,0,Jump Shot,26,-25,267,False
+Jerryd Bayless,2,6,26,1,Jump Shot,23,231,9,False
+Jerryd Bayless,3,0,59,1,Jump Shot,25,106,233,False
+Jerryd Bayless,2,8,20,0,Jump Shot,26,-214,156,False
+Jerryd Bayless,2,4,1,0,Jump Shot,23,-230,11,False
+Jerryd Bayless,3,1,22,0,Jump Shot,27,-138,243,False
+Jerryd Bayless,4,10,58,0,Jump Shot,23,235,13,False
+Jerryd Bayless,4,8,23,0,Layup Shot,3,21,31,True
+Jerryd Bayless,4,8,3,1,Layup Shot,1,10,6,True
+Jerryd Bayless,1,7,32,1,Layup Shot,4,32,34,True
+Jerryd Bayless,1,0,1,0,Layup Shot,4,47,-7,True
+Jerryd Bayless,3,5,54,0,Layup Shot,2,0,25,True
+Jerryd Bayless,2,5,18,0,Layup Shot,7,34,68,True
+Jerryd Bayless,2,5,11,1,Layup Shot,2,27,5,True
+Jerryd Bayless,3,6,3,0,Layup Shot,0,-6,-5,True
+Jerryd Bayless,3,0,14,1,Pullup Jump shot,25,-195,163,False
+Jerryd Bayless,2,5,8,1,Pullup Jump shot,14,77,127,True
+Jerryd Bayless,2,7,16,1,Pullup Jump shot,27,188,197,False
+Jerryd Bayless,3,6,42,1,Pullup Jump shot,26,94,245,False
+Jerryd Bayless,1,2,31,1,Pullup Jump shot,22,227,-1,False
+Jerryd Bayless,1,1,52,1,Pullup Jump shot,26,-139,226,False
+Jerryd Bayless,1,6,51,0,Pullup Jump shot,20,203,5,True
+Jerryd Bayless,1,2,41,0,Pullup Jump shot,17,-65,160,True
+Jerryd Bayless,1,1,53,0,Pullup Jump shot,17,135,115,True
+Jerryd Bayless,1,1,44,1,Pullup Jump shot,20,127,157,True
+Jerryd Bayless,1,8,51,0,Pullup Jump shot,19,43,191,True
+Jerryd Bayless,1,7,59,0,Pullup Jump shot,25,218,134,False
+Jerryd Bayless,3,10,49,0,Pullup Jump shot,26,-123,232,False
+Jerryd Bayless,3,4,34,0,Pullup Jump shot,16,-55,154,True
+Jerryd Bayless,4,7,38,0,Pullup Jump shot,19,146,122,True
+Jerryd Bayless,3,0,0,1,Pullup Jump shot,17,-103,136,True
+Jerryd Bayless,1,8,8,1,Pullup Jump shot,27,101,257,False
+Jerryd Bayless,3,2,31,1,Pullup Jump shot,18,-20,185,True
+Jerryd Bayless,3,4,9,1,Pullup Jump shot,21,-130,173,True
+Jerryd Bayless,2,7,4,0,Pullup Jump shot,16,-159,44,True
+Jerryd Bayless,1,5,58,0,Pullup Jump shot,17,90,151,True
+Jerryd Bayless,2,4,22,1,Reverse Layup Shot,2,20,5,True
+Jerryd Bayless,4,10,51,1,Reverse Layup Shot,1,16,-1,True
+Jerryd Bayless,2,4,33,1,Reverse Layup Shot,3,36,15,True
+Jerryd Bayless,1,8,9,1,Reverse Layup Shot,0,-9,1,True
+Jerryd Bayless,1,11,37,1,Reverse Layup Shot,1,-6,15,True
+Jerryd Bayless,2,7,40,1,Running Finger Roll Layup Shot,1,-11,10,True
+Jerryd Bayless,2,8,18,1,Running Jump Shot,25,179,179,False
+Jerryd Bayless,4,0,36,0,Running Jump Shot,6,5,61,True
+Jerryd Bayless,1,2,10,0,Running Jump Shot,11,94,61,True
+Jerryd Bayless,2,11,30,0,Running Jump Shot,9,-22,88,True
+Jerryd Bayless,1,6,6,1,Running Layup Shot,1,12,15,True
+Jerryd Bayless,4,6,54,1,Running Layup Shot,2,25,-1,True
+Jerryd Bayless,3,6,28,0,Running Layup Shot,2,-14,22,True
+Jerryd Bayless,3,9,35,1,Running Layup Shot,0,5,8,True
+Jerryd Bayless,1,0,0,0,Running Layup Shot,2,-5,21,True
+Jerryd Bayless,4,10,48,1,Running Layup Shot,3,-4,35,True
+Jerryd Bayless,4,2,39,0,Running Pull-Up Jump Shot,20,206,7,True
+Jerryd Bayless,2,5,48,1,Running Reverse Layup Shot,1,-5,12,True
+Jerryd Bayless,2,8,23,0,Step Back Jump shot,11,36,110,True
+Jerryd Bayless,3,4,1,1,Step Back Jump shot,17,-169,30,True

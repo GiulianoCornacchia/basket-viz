@@ -1,0 +1,27 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Richard Jefferson,2,9,28,1,Alley Oop Dunk Shot,1,-13,-4,True
+Richard Jefferson,2,9,53,0,Cutting Layup Shot,3,-23,22,True
+Richard Jefferson,1,0,32,1,Driving Hook Shot,5,18,55,True
+Richard Jefferson,4,3,15,0,Driving Reverse Layup Shot,2,5,29,True
+Richard Jefferson,3,2,12,0,Fadeaway Jump Shot,8,-79,16,True
+Richard Jefferson,4,11,26,0,Fadeaway Jump Shot,16,134,104,True
+Richard Jefferson,4,9,1,1,Fadeaway Jump Shot,14,145,5,True
+Richard Jefferson,2,11,11,1,Floating Jump shot,9,-5,93,True
+Richard Jefferson,4,10,21,0,Floating Jump shot,10,-12,104,True
+Richard Jefferson,4,0,22,1,Jump Shot,25,-6,256,False
+Richard Jefferson,4,4,53,0,Jump Shot,26,-172,201,False
+Richard Jefferson,2,11,14,0,Jump Shot,24,105,221,False
+Richard Jefferson,2,7,22,0,Jump Shot,24,-204,143,False
+Richard Jefferson,4,11,25,0,Jump Shot,25,175,184,False
+Richard Jefferson,4,1,26,0,Jump Shot,25,-62,244,False
+Richard Jefferson,4,3,45,0,Layup Shot,3,-11,30,True
+Richard Jefferson,2,10,31,1,Layup Shot,1,12,-1,True
+Richard Jefferson,4,3,27,1,Pullup Jump shot,7,56,55,True
+Richard Jefferson,4,6,48,1,Reverse Layup Shot,1,-19,6,True
+Richard Jefferson,1,1,13,1,Reverse Layup Shot,0,6,1,True
+Richard Jefferson,4,0,20,1,Reverse Layup Shot,6,-35,54,True
+Richard Jefferson,1,0,15,0,Running Layup Shot,8,-8,89,True
+Richard Jefferson,4,8,21,1,Step Back Jump shot,24,-183,170,False
+Richard Jefferson,4,7,2,0,Tip Layup Shot,0,0,-6,True
+Richard Jefferson,2,11,43,1,Turnaround Fadeaway shot,13,42,131,True
+Richard Jefferson,2,11,10,0,Turnaround Fadeaway shot,5,-4,53,True

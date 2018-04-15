@@ -1,0 +1,42 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Solomon Hill,4,11,21,1,Cutting Dunk Shot,0,1,5,True
+Solomon Hill,3,0,6,0,Cutting Finger Roll Layup Shot,5,30,44,True
+Solomon Hill,2,10,47,0,Cutting Layup Shot,8,46,71,True
+Solomon Hill,2,6,12,1,Driving Finger Roll Layup Shot,2,23,16,True
+Solomon Hill,2,9,2,0,Driving Layup Shot,4,-32,36,True
+Solomon Hill,1,1,29,0,Driving Layup Shot,8,27,84,True
+Solomon Hill,3,4,5,0,Driving Layup Shot,4,5,42,True
+Solomon Hill,3,0,47,0,Driving Layup Shot,3,21,22,True
+Solomon Hill,4,3,6,0,Driving Layup Shot,9,64,64,True
+Solomon Hill,2,7,17,0,Driving Reverse Layup Shot,6,52,34,True
+Solomon Hill,4,10,57,1,Driving Reverse Layup Shot,5,-56,13,True
+Solomon Hill,1,6,26,1,Jump Shot,25,-91,237,False
+Solomon Hill,3,5,15,0,Jump Shot,27,-228,160,False
+Solomon Hill,2,4,45,0,Jump Shot,29,17,293,False
+Solomon Hill,4,1,46,0,Jump Shot,25,143,211,False
+Solomon Hill,4,5,57,1,Jump Shot,23,-230,13,False
+Solomon Hill,2,7,51,1,Jump Shot,27,-144,236,False
+Solomon Hill,1,0,0,0,Jump Shot,57,-74,571,False
+Solomon Hill,1,3,42,0,Jump Shot,20,135,149,True
+Solomon Hill,2,1,31,0,Jump Shot,22,-227,-17,False
+Solomon Hill,1,3,31,0,Jump Shot,25,9,255,False
+Solomon Hill,1,0,0,0,Jump Shot,33,12,334,False
+Solomon Hill,1,4,29,0,Jump Shot,24,227,101,False
+Solomon Hill,4,2,4,0,Jump Shot,23,232,35,False
+Solomon Hill,1,0,0,0,Jump Shot,25,-153,207,False
+Solomon Hill,2,10,24,0,Jump Shot,25,-174,186,False
+Solomon Hill,1,5,16,0,Jump Shot,27,171,209,False
+Solomon Hill,4,8,54,0,Jump Shot,26,94,251,False
+Solomon Hill,3,1,26,0,Jump Shot,25,-192,169,False
+Solomon Hill,2,3,39,1,Jump Shot,27,-215,167,False
+Solomon Hill,1,4,32,0,Jump Shot,26,-116,239,False
+Solomon Hill,2,1,17,0,Jump Shot,22,-226,13,False
+Solomon Hill,1,8,39,0,Jump Shot,26,84,254,False
+Solomon Hill,1,10,12,1,Jump Shot,17,-139,102,True
+Solomon Hill,4,8,43,0,Layup Shot,1,-11,13,True
+Solomon Hill,2,8,1,1,Layup Shot,2,9,25,True
+Solomon Hill,4,1,20,1,Running Layup Shot,0,-2,1,True
+Solomon Hill,3,2,47,0,Step Back Jump shot,8,-3,85,True
+Solomon Hill,3,2,49,0,Tip Layup Shot,0,0,-6,True
+Solomon Hill,3,2,49,0,Tip Layup Shot,0,0,-6,True
+Solomon Hill,1,3,29,1,Tip Layup Shot,0,0,-6,True

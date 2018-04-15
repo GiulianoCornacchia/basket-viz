@@ -1,0 +1,17 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+DJ Wilson,4,0,39,1,Alley Oop Layup shot,1,-19,6,True
+DJ Wilson,4,6,25,1,Driving Dunk Shot,1,-5,9,True
+DJ Wilson,4,5,36,1,Floating Jump shot,9,71,66,True
+DJ Wilson,4,0,26,1,Jump Shot,26,141,230,False
+DJ Wilson,4,10,6,0,Jump Shot,15,152,6,True
+DJ Wilson,4,3,18,1,Jump Shot,7,51,53,True
+DJ Wilson,4,1,51,1,Jump Shot,22,-227,19,False
+DJ Wilson,2,11,44,0,Jump Shot,25,147,205,False
+DJ Wilson,4,1,6,0,Jump Shot,25,114,225,False
+DJ Wilson,2,6,47,0,Jump Shot,27,-13,270,False
+DJ Wilson,4,9,1,1,Layup Shot,3,17,31,True
+DJ Wilson,4,3,43,1,Running Dunk Shot,1,-5,9,True
+DJ Wilson,4,4,39,0,Step Back Jump shot,20,-8,209,True
+DJ Wilson,4,6,51,0,Step Back Jump shot,17,-147,97,True
+DJ Wilson,4,1,6,0,Tip Layup Shot,0,0,-6,True
+DJ Wilson,4,3,0,1,Tip Layup Shot,0,0,-6,True

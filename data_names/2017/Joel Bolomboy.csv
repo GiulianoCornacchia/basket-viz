@@ -1,0 +1,7 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Joel Bolomboy,3,2,4,0,Cutting Layup Shot,0,-1,4,True
+Joel Bolomboy,1,1,13,1,Dunk Shot,0,1,0,True
+Joel Bolomboy,2,11,12,0,Jump Shot,25,30,252,False
+Joel Bolomboy,2,10,21,1,Pullup Jump shot,12,-91,88,True
+Joel Bolomboy,4,0,40,1,Running Dunk Shot,0,-3,5,True
+Joel Bolomboy,2,10,2,0,Running Layup Shot,2,2,20,True

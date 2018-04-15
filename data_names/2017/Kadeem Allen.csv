@@ -1,0 +1,23 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Kadeem Allen,4,6,45,1,Cutting Layup Shot,2,-11,18,True
+Kadeem Allen,4,1,39,1,Driving Layup Shot,3,23,21,True
+Kadeem Allen,2,4,54,0,Driving Layup Shot,2,21,12,True
+Kadeem Allen,1,11,6,1,Floating Jump shot,13,5,139,True
+Kadeem Allen,1,2,5,0,Jump Shot,22,-227,-8,False
+Kadeem Allen,2,4,3,0,Jump Shot,26,-182,195,False
+Kadeem Allen,4,8,17,0,Jump Shot,26,-52,258,False
+Kadeem Allen,2,11,8,0,Jump Shot,27,-136,236,False
+Kadeem Allen,4,8,58,0,Jump Shot,24,-232,77,False
+Kadeem Allen,1,5,8,0,Jump Shot,25,-212,138,False
+Kadeem Allen,2,4,14,0,Jump Shot,24,242,26,False
+Kadeem Allen,1,2,8,0,Jump Shot,14,-111,94,True
+Kadeem Allen,4,1,40,0,Jump Shot,26,88,252,False
+Kadeem Allen,4,1,21,0,Jump Shot,25,-123,221,False
+Kadeem Allen,2,11,39,0,Jump Shot,23,227,65,False
+Kadeem Allen,4,0,52,1,Layup Shot,1,-19,3,True
+Kadeem Allen,4,1,45,0,Layup Shot,2,27,5,True
+Kadeem Allen,3,7,48,0,Layup Shot,4,-4,45,True
+Kadeem Allen,4,0,23,0,Pullup Jump shot,27,-104,251,False
+Kadeem Allen,4,0,16,1,Putback Layup Shot,0,0,-6,True
+Kadeem Allen,4,4,20,1,Running Dunk Shot,0,2,2,True
+Kadeem Allen,4,1,38,0,Running Jump Shot,1,11,16,True

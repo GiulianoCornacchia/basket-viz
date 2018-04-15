@@ -1,0 +1,101 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jason Smith,4,0,47,0,Alley Oop Layup shot,0,-9,3,True
+Jason Smith,2,2,44,0,Alley Oop Layup shot,1,4,11,True
+Jason Smith,2,9,43,1,Cutting Dunk Shot,0,0,7,True
+Jason Smith,4,6,54,1,Cutting Finger Roll Layup Shot,1,-2,18,True
+Jason Smith,4,9,37,1,Cutting Layup Shot,2,21,13,True
+Jason Smith,4,2,48,0,Driving Layup Shot,2,-4,22,True
+Jason Smith,4,9,41,1,Driving Layup Shot,1,13,11,True
+Jason Smith,4,8,15,1,Driving Layup Shot,0,0,3,True
+Jason Smith,2,8,17,0,Driving Layup Shot,2,25,15,True
+Jason Smith,3,1,47,1,Driving Layup Shot,1,-4,16,True
+Jason Smith,2,11,22,1,Dunk Shot,0,0,8,True
+Jason Smith,2,8,13,1,Dunk Shot,0,-2,7,True
+Jason Smith,4,7,25,1,Dunk Shot,0,5,8,True
+Jason Smith,4,5,31,0,Fadeaway Jump Shot,13,20,132,True
+Jason Smith,4,8,39,0,Fadeaway Jump Shot,8,-35,78,True
+Jason Smith,3,0,49,0,Hook Shot,4,-35,23,True
+Jason Smith,3,0,52,0,Jump Bank Shot,7,-45,64,True
+Jason Smith,2,9,0,0,Jump Shot,26,-117,237,False
+Jason Smith,4,4,22,1,Jump Shot,22,41,220,True
+Jason Smith,4,3,54,0,Jump Shot,25,-75,248,False
+Jason Smith,4,5,53,0,Jump Shot,21,45,206,True
+Jason Smith,4,2,50,0,Jump Shot,22,228,11,False
+Jason Smith,2,9,30,0,Jump Shot,19,-62,190,True
+Jason Smith,4,2,18,0,Jump Shot,22,-20,221,True
+Jason Smith,4,3,36,1,Jump Shot,14,-136,54,True
+Jason Smith,4,0,26,1,Jump Shot,18,65,170,True
+Jason Smith,4,1,22,0,Jump Shot,8,65,60,True
+Jason Smith,4,1,53,0,Jump Shot,19,-112,162,True
+Jason Smith,4,5,24,0,Jump Shot,19,47,188,True
+Jason Smith,4,11,12,0,Jump Shot,14,145,5,True
+Jason Smith,4,0,19,0,Jump Shot,21,92,194,True
+Jason Smith,4,1,23,0,Jump Shot,19,198,15,True
+Jason Smith,4,2,37,1,Jump Shot,20,201,49,True
+Jason Smith,4,11,9,0,Jump Shot,15,-152,15,True
+Jason Smith,4,5,50,0,Jump Shot,20,-93,188,True
+Jason Smith,4,11,40,0,Jump Shot,18,-65,176,True
+Jason Smith,4,8,53,0,Jump Shot,17,-54,164,True
+Jason Smith,4,3,59,1,Jump Shot,14,141,27,True
+Jason Smith,4,6,38,1,Jump Shot,18,48,183,True
+Jason Smith,4,7,55,1,Jump Shot,20,57,194,True
+Jason Smith,2,1,23,0,Jump Shot,23,-237,-22,False
+Jason Smith,4,0,58,0,Jump Shot,15,-149,37,True
+Jason Smith,4,0,34,0,Jump Shot,23,231,47,False
+Jason Smith,4,10,5,0,Jump Shot,18,136,127,True
+Jason Smith,2,8,1,0,Jump Shot,15,152,4,True
+Jason Smith,2,10,3,1,Jump Shot,13,-131,0,True
+Jason Smith,2,11,30,1,Jump Shot,19,139,138,True
+Jason Smith,1,1,30,1,Jump Shot,19,-74,179,True
+Jason Smith,1,1,9,1,Jump Shot,16,138,89,True
+Jason Smith,4,11,27,1,Jump Shot,20,94,177,True
+Jason Smith,4,10,47,0,Jump Shot,17,-133,119,True
+Jason Smith,1,1,27,0,Jump Shot,25,-28,252,False
+Jason Smith,4,0,21,0,Jump Shot,25,213,146,False
+Jason Smith,4,6,9,0,Jump Shot,17,-168,54,True
+Jason Smith,4,3,14,0,Jump Shot,23,231,43,False
+Jason Smith,4,0,43,0,Jump Shot,23,-234,4,False
+Jason Smith,4,0,14,1,Jump Shot,25,109,233,False
+Jason Smith,2,7,30,0,Jump Shot,24,133,202,False
+Jason Smith,2,9,29,1,Jump Shot,17,-101,144,True
+Jason Smith,4,9,1,0,Jump Shot,15,98,122,True
+Jason Smith,4,11,12,1,Jump Shot,12,50,117,True
+Jason Smith,4,7,47,1,Jump Shot,18,186,3,True
+Jason Smith,4,6,27,0,Jump Shot,27,159,219,False
+Jason Smith,2,9,21,0,Jump Shot,26,2,266,False
+Jason Smith,4,11,42,0,Jump Shot,24,-239,48,False
+Jason Smith,1,8,44,0,Jump Shot,26,-119,235,False
+Jason Smith,3,5,37,1,Jump Shot,19,-166,110,True
+Jason Smith,3,9,56,0,Jump Shot,25,221,122,False
+Jason Smith,1,9,34,0,Jump Shot,23,229,57,False
+Jason Smith,2,4,35,1,Jump Shot,24,-190,160,False
+Jason Smith,4,0,45,0,Jump Shot,3,33,15,True
+Jason Smith,2,1,44,0,Jump Shot,18,-181,2,True
+Jason Smith,2,7,31,0,Jump Shot,22,-226,21,False
+Jason Smith,2,4,47,0,Jump Shot,25,11,256,False
+Jason Smith,2,9,15,0,Jump Shot,25,-1,251,False
+Jason Smith,3,0,41,0,Jump Shot,17,94,151,True
+Jason Smith,4,9,7,0,Jump Shot,26,101,247,False
+Jason Smith,4,10,0,0,Jump Shot,26,-93,243,False
+Jason Smith,2,6,24,0,Jump Shot,23,230,4,False
+Jason Smith,4,7,24,0,Jump Shot,22,222,10,False
+Jason Smith,3,1,16,1,Jump Shot,21,-52,204,True
+Jason Smith,4,9,23,0,Jump Shot,20,-62,200,True
+Jason Smith,4,11,48,1,Jump Shot,19,-98,167,True
+Jason Smith,4,8,29,1,Jump Shot,4,-6,47,True
+Jason Smith,2,6,30,0,Jump Shot,25,61,247,False
+Jason Smith,2,7,29,1,Layup Shot,1,-1,13,True
+Jason Smith,4,0,53,0,Layup Shot,3,-27,20,True
+Jason Smith,4,10,11,1,Layup Shot,2,-13,16,True
+Jason Smith,1,8,15,0,Pullup Jump shot,25,-154,201,False
+Jason Smith,4,9,33,1,Pullup Jump shot,18,128,129,True
+Jason Smith,4,4,24,1,Pullup Jump shot,11,21,110,True
+Jason Smith,4,4,42,0,Pullup Jump shot,12,-129,5,True
+Jason Smith,2,7,24,0,Putback Layup Shot,4,-44,13,True
+Jason Smith,1,1,55,0,Putback Layup Shot,1,6,17,True
+Jason Smith,4,5,50,1,Putback Layup Shot,1,-1,12,True
+Jason Smith,4,11,47,0,Running Jump Shot,3,-3,31,True
+Jason Smith,4,9,42,1,Running Reverse Layup Shot,1,13,14,True
+Jason Smith,3,0,25,0,Tip Layup Shot,3,8,37,True
+Jason Smith,3,2,43,1,Tip Layup Shot,0,0,-6,True
+Jason Smith,2,11,37,1,Turnaround Fadeaway Bank Jump Shot,17,174,35,True

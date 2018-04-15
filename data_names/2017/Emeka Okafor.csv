@@ -1,0 +1,62 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Emeka Okafor,1,10,25,1,Alley Oop Dunk Shot,0,3,-4,True
+Emeka Okafor,3,11,16,0,Alley Oop Layup shot,4,38,13,True
+Emeka Okafor,4,2,37,1,Cutting Dunk Shot,0,-3,3,True
+Emeka Okafor,1,0,58,1,Cutting Dunk Shot,0,-3,4,True
+Emeka Okafor,1,6,7,1,Cutting Dunk Shot,0,0,-2,True
+Emeka Okafor,4,0,15,1,Cutting Layup Shot,0,6,-2,True
+Emeka Okafor,1,7,1,1,Cutting Layup Shot,4,40,25,True
+Emeka Okafor,1,4,47,0,Dunk Shot,5,36,42,True
+Emeka Okafor,3,11,27,1,Dunk Shot,1,9,12,True
+Emeka Okafor,1,6,4,1,Dunk Shot,0,3,-1,True
+Emeka Okafor,3,10,49,1,Dunk Shot,1,-5,11,True
+Emeka Okafor,4,3,39,0,Dunk Shot,0,2,6,True
+Emeka Okafor,3,11,2,1,Dunk Shot,1,9,13,True
+Emeka Okafor,4,0,3,1,Dunk Shot,1,4,17,True
+Emeka Okafor,4,5,46,0,Fadeaway Jump Shot,14,-78,120,True
+Emeka Okafor,3,10,8,1,Floating Jump shot,9,-5,97,True
+Emeka Okafor,1,5,58,1,Hook Shot,10,57,87,True
+Emeka Okafor,3,9,23,0,Hook Shot,5,-49,-16,True
+Emeka Okafor,4,2,6,0,Hook Shot,3,-22,32,True
+Emeka Okafor,1,11,35,0,Jump Shot,16,-145,82,True
+Emeka Okafor,1,10,16,0,Jump Shot,14,-148,10,True
+Emeka Okafor,1,5,17,0,Jump Shot,13,-12,134,True
+Emeka Okafor,1,11,43,0,Jump Shot,16,163,6,True
+Emeka Okafor,3,10,38,0,Jump Shot,4,47,16,True
+Emeka Okafor,3,11,3,0,Jump Shot,15,1,156,True
+Emeka Okafor,3,3,18,1,Jump Shot,15,152,31,True
+Emeka Okafor,1,1,40,0,Jump Shot,8,82,23,True
+Emeka Okafor,1,9,53,1,Jump Shot,8,-37,72,True
+Emeka Okafor,3,3,4,1,Jump Shot,16,-161,6,True
+Emeka Okafor,2,9,15,1,Jump Shot,16,-159,22,True
+Emeka Okafor,3,9,44,0,Layup Shot,3,20,32,True
+Emeka Okafor,1,11,7,0,Layup Shot,2,11,19,True
+Emeka Okafor,1,7,53,0,Layup Shot,1,-8,16,True
+Emeka Okafor,3,9,26,0,Layup Shot,6,-33,57,True
+Emeka Okafor,1,8,34,0,Layup Shot,7,-65,39,True
+Emeka Okafor,1,4,44,0,Layup Shot,4,0,41,True
+Emeka Okafor,1,10,18,0,Layup Shot,1,-16,5,True
+Emeka Okafor,1,10,18,0,Layup Shot,1,18,6,True
+Emeka Okafor,3,10,32,1,Layup Shot,0,9,-1,True
+Emeka Okafor,1,9,34,0,Layup Shot,1,12,9,True
+Emeka Okafor,3,6,21,0,Layup Shot,3,4,34,True
+Emeka Okafor,1,9,46,0,Layup Shot,1,-12,0,True
+Emeka Okafor,3,8,1,0,Layup Shot,4,37,31,True
+Emeka Okafor,1,4,53,0,Layup Shot,3,-32,20,True
+Emeka Okafor,4,0,51,1,Putback Layup Shot,1,3,12,True
+Emeka Okafor,3,8,39,0,Putback Layup Shot,2,-14,26,True
+Emeka Okafor,3,11,32,1,Putback Layup Shot,0,0,-6,True
+Emeka Okafor,1,5,35,1,Reverse Layup Shot,4,-30,31,True
+Emeka Okafor,1,9,3,0,Tip Layup Shot,0,0,-6,True
+Emeka Okafor,1,1,13,0,Tip Layup Shot,0,0,-6,True
+Emeka Okafor,1,8,59,1,Tip Layup Shot,0,0,-6,True
+Emeka Okafor,1,10,34,1,Tip Layup Shot,0,0,-6,True
+Emeka Okafor,1,7,29,1,Tip Layup Shot,3,3,35,True
+Emeka Okafor,4,10,7,1,Tip Layup Shot,0,0,-6,True
+Emeka Okafor,3,10,20,0,Tip Layup Shot,0,0,-6,True
+Emeka Okafor,4,0,37,0,Turnaround Fadeaway shot,14,-134,62,True
+Emeka Okafor,4,1,53,0,Turnaround Hook Shot,8,-20,86,True
+Emeka Okafor,4,2,58,0,Turnaround Hook Shot,11,18,113,True
+Emeka Okafor,4,2,12,1,Turnaround Jump Shot,12,-116,50,True
+Emeka Okafor,4,11,6,0,Turnaround Jump Shot,16,115,124,True
+Emeka Okafor,3,4,22,0,Turnaround Jump Shot,9,88,43,True

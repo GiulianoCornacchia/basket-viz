@@ -1,0 +1,42 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Josh Gray,1,3,49,0,Cutting Layup Shot,1,-11,4,True
+Josh Gray,2,11,35,1,Driving Finger Roll Layup Shot,0,1,6,True
+Josh Gray,4,8,41,1,Driving Finger Roll Layup Shot,1,14,6,True
+Josh Gray,2,11,47,1,Driving Floating Bank Jump Shot,10,89,55,True
+Josh Gray,2,4,13,0,Driving Floating Bank Jump Shot,2,-22,10,True
+Josh Gray,4,4,37,0,Driving Floating Jump Shot,6,16,64,True
+Josh Gray,1,0,1,0,Driving Floating Jump Shot,8,46,71,True
+Josh Gray,4,5,7,1,Driving Layup Shot,0,-1,2,True
+Josh Gray,3,0,54,0,Driving Layup Shot,1,-5,13,True
+Josh Gray,4,1,23,0,Driving Layup Shot,0,6,-5,True
+Josh Gray,4,10,19,0,Driving Layup Shot,0,3,6,True
+Josh Gray,1,2,42,1,Driving Layup Shot,1,9,11,True
+Josh Gray,2,0,57,0,Driving Layup Shot,1,-13,13,True
+Josh Gray,2,9,32,1,Driving Layup Shot,2,3,22,True
+Josh Gray,4,1,14,0,Driving Layup Shot,2,2,20,True
+Josh Gray,4,7,40,1,Driving Reverse Layup Shot,0,2,0,True
+Josh Gray,3,0,5,0,Floating Jump shot,5,1,54,True
+Josh Gray,4,3,23,0,Floating Jump shot,11,-5,116,True
+Josh Gray,4,3,43,1,Jump Shot,24,184,162,False
+Josh Gray,4,0,56,0,Jump Shot,24,-173,177,False
+Josh Gray,4,4,4,0,Jump Shot,24,-146,199,False
+Josh Gray,2,0,1,0,Jump Shot,30,-131,274,False
+Josh Gray,3,2,41,0,Jump Shot,24,11,242,False
+Josh Gray,4,1,25,0,Jump Shot,25,41,256,False
+Josh Gray,3,8,17,0,Jump Shot,26,-131,233,False
+Josh Gray,1,0,46,0,Jump Shot,24,-73,232,False
+Josh Gray,4,5,21,0,Jump Shot,26,-63,253,False
+Josh Gray,1,5,15,1,Jump Shot,25,-149,210,False
+Josh Gray,1,1,34,0,Jump Shot,24,-44,246,False
+Josh Gray,1,3,16,1,Jump Shot,25,-125,220,False
+Josh Gray,4,3,18,0,Layup Shot,1,3,10,True
+Josh Gray,4,3,37,0,Layup Shot,1,-5,11,True
+Josh Gray,1,0,53,0,Layup Shot,0,4,7,True
+Josh Gray,2,9,52,0,Pullup Jump shot,17,117,127,True
+Josh Gray,1,5,14,1,Pullup Jump shot,16,-33,158,True
+Josh Gray,1,3,39,0,Pullup Jump shot,12,56,116,True
+Josh Gray,4,6,49,0,Pullup Jump shot,25,-63,252,False
+Josh Gray,4,0,56,0,Step Back Jump shot,17,173,8,True
+Josh Gray,4,2,54,0,Step Back Jump shot,20,-1,204,True
+Josh Gray,2,0,18,0,Step Back Jump shot,21,145,155,True
+Josh Gray,2,0,9,0,Step Back Jump shot,15,-129,92,True

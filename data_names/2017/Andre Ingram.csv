@@ -1,0 +1,18 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Andre Ingram,4,3,57,1,Driving Floating Jump Shot,11,-46,105,True
+Andre Ingram,3,11,47,0,Floating Jump shot,15,-85,126,True
+Andre Ingram,3,7,14,0,Floating Jump shot,14,-11,141,True
+Andre Ingram,1,8,52,1,Floating Jump shot,13,-36,131,True
+Andre Ingram,1,1,40,0,Floating Jump shot,9,-29,91,True
+Andre Ingram,3,2,14,1,Jump Shot,27,158,227,False
+Andre Ingram,3,7,22,0,Jump Shot,25,-128,220,False
+Andre Ingram,1,5,55,0,Jump Shot,26,-171,196,False
+Andre Ingram,1,7,30,1,Jump Shot,23,-231,36,False
+Andre Ingram,2,7,22,1,Jump Shot,13,-93,95,True
+Andre Ingram,2,10,46,1,Jump Shot,26,-111,241,False
+Andre Ingram,4,2,31,0,Jump Shot,26,-203,168,False
+Andre Ingram,4,0,51,1,Jump Shot,25,177,190,False
+Andre Ingram,2,9,47,1,Jump Shot,25,105,236,False
+Andre Ingram,2,5,3,0,Pullup Jump shot,15,131,74,True
+Andre Ingram,1,8,28,0,Pullup Jump shot,25,35,252,False
+Andre Ingram,4,5,2,0,Running Layup Shot,4,2,41,True

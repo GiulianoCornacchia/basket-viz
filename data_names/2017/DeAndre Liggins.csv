@@ -1,0 +1,98 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+DeAndre Liggins,1,6,14,0,Cutting Layup Shot,0,-3,9,True
+DeAndre Liggins,2,11,2,0,Driving Finger Roll Layup Shot,2,13,27,True
+DeAndre Liggins,2,6,51,0,Driving Layup Shot,7,36,63,True
+DeAndre Liggins,4,0,52,0,Driving Layup Shot,5,-9,56,True
+DeAndre Liggins,4,1,54,0,Driving Layup Shot,3,29,8,True
+DeAndre Liggins,4,1,21,0,Driving Layup Shot,2,20,16,True
+DeAndre Liggins,4,1,11,0,Driving Layup Shot,0,9,0,True
+DeAndre Liggins,1,1,10,0,Driving Layup Shot,3,9,34,True
+DeAndre Liggins,4,2,1,1,Driving Layup Shot,1,14,-3,True
+DeAndre Liggins,3,2,44,0,Driving Layup Shot,1,0,11,True
+DeAndre Liggins,3,0,25,0,Driving Layup Shot,1,15,8,True
+DeAndre Liggins,2,3,5,1,Driving Layup Shot,1,-6,9,True
+DeAndre Liggins,2,9,0,0,Driving Layup Shot,5,-30,48,True
+DeAndre Liggins,1,0,41,1,Driving Reverse Layup Shot,1,5,10,True
+DeAndre Liggins,4,10,37,1,Floating Jump shot,0,2,0,True
+DeAndre Liggins,4,3,44,1,Floating Jump shot,8,66,59,True
+DeAndre Liggins,3,0,16,1,Jump Shot,25,-139,213,False
+DeAndre Liggins,2,10,15,0,Jump Shot,22,-100,205,True
+DeAndre Liggins,4,11,16,1,Jump Shot,21,81,201,True
+DeAndre Liggins,2,2,33,0,Jump Shot,22,-225,18,False
+DeAndre Liggins,1,3,3,1,Jump Shot,15,-153,-11,True
+DeAndre Liggins,1,0,46,0,Jump Shot,25,92,242,False
+DeAndre Liggins,1,4,14,0,Jump Shot,22,-226,-5,False
+DeAndre Liggins,2,10,15,0,Jump Shot,22,226,33,False
+DeAndre Liggins,3,0,3,0,Jump Shot,23,226,61,False
+DeAndre Liggins,4,8,31,1,Jump Shot,21,211,4,True
+DeAndre Liggins,2,2,36,1,Jump Shot,25,-8,253,False
+DeAndre Liggins,2,9,19,1,Jump Shot,21,-74,204,True
+DeAndre Liggins,4,8,48,0,Jump Shot,20,-77,185,True
+DeAndre Liggins,3,0,10,0,Jump Shot,14,147,-4,True
+DeAndre Liggins,2,6,38,0,Jump Shot,22,223,33,False
+DeAndre Liggins,1,5,30,0,Jump Shot,26,120,231,False
+DeAndre Liggins,4,0,35,0,Jump Shot,23,228,55,False
+DeAndre Liggins,4,0,52,0,Jump Shot,22,222,-5,False
+DeAndre Liggins,3,10,16,0,Jump Shot,23,236,-6,False
+DeAndre Liggins,2,4,16,0,Jump Shot,21,130,177,True
+DeAndre Liggins,4,5,17,0,Jump Shot,20,15,207,True
+DeAndre Liggins,3,7,51,0,Jump Shot,22,-225,45,False
+DeAndre Liggins,1,9,13,1,Jump Shot,23,231,-4,False
+DeAndre Liggins,1,6,35,0,Jump Shot,15,35,148,True
+DeAndre Liggins,2,10,54,1,Jump Shot,24,-35,242,False
+DeAndre Liggins,4,2,11,1,Jump Shot,25,-20,255,False
+DeAndre Liggins,3,3,28,0,Jump Shot,22,228,0,False
+DeAndre Liggins,3,9,40,0,Jump Shot,23,226,43,False
+DeAndre Liggins,4,0,24,0,Jump Shot,25,128,216,False
+DeAndre Liggins,3,2,15,0,Jump Shot,22,-228,0,False
+DeAndre Liggins,4,7,47,1,Jump Shot,24,217,104,False
+DeAndre Liggins,3,3,56,0,Jump Shot,23,-232,17,False
+DeAndre Liggins,2,6,50,1,Jump Shot,22,228,27,False
+DeAndre Liggins,1,1,31,1,Jump Shot,19,-125,153,True
+DeAndre Liggins,4,8,18,0,Jump Shot,21,141,158,True
+DeAndre Liggins,2,9,26,1,Jump Shot,26,161,206,False
+DeAndre Liggins,2,6,46,0,Jump Shot,23,-234,14,False
+DeAndre Liggins,2,8,49,1,Jump Shot,23,-233,-20,False
+DeAndre Liggins,2,3,26,0,Jump Shot,57,144,552,False
+DeAndre Liggins,2,11,2,1,Jump Shot,25,202,151,False
+DeAndre Liggins,2,11,9,0,Jump Shot,23,229,22,False
+DeAndre Liggins,4,1,21,1,Jump Shot,25,207,155,False
+DeAndre Liggins,1,3,42,1,Jump Shot,19,188,42,True
+DeAndre Liggins,3,3,2,1,Jump Shot,22,228,27,False
+DeAndre Liggins,4,10,37,0,Jump Shot,26,109,246,False
+DeAndre Liggins,4,3,36,0,Jump Shot,23,227,69,False
+DeAndre Liggins,2,10,28,0,Jump Shot,22,228,23,False
+DeAndre Liggins,1,0,40,0,Jump Shot,22,-105,194,True
+DeAndre Liggins,2,4,18,0,Jump Shot,24,-180,167,False
+DeAndre Liggins,4,4,46,0,Jump Shot,25,-9,256,False
+DeAndre Liggins,4,10,31,1,Jump Shot,25,143,206,False
+DeAndre Liggins,4,8,37,0,Jump Shot,22,223,-14,False
+DeAndre Liggins,1,4,29,0,Jump Shot,22,225,21,False
+DeAndre Liggins,5,2,54,0,Jump Shot,27,-193,197,False
+DeAndre Liggins,3,8,8,0,Jump Shot,23,233,-20,False
+DeAndre Liggins,5,1,28,1,Jump Shot,22,-199,105,True
+DeAndre Liggins,1,1,55,1,Jump Shot,22,225,42,False
+DeAndre Liggins,4,9,37,0,Jump Shot,18,183,3,True
+DeAndre Liggins,2,11,44,0,Jump Shot,25,24,258,False
+DeAndre Liggins,2,11,6,1,Jump Shot,23,230,49,False
+DeAndre Liggins,3,0,1,0,Jump Shot,4,-5,47,True
+DeAndre Liggins,1,4,21,0,Jump Shot,24,-49,237,False
+DeAndre Liggins,4,3,27,0,Jump Shot,24,165,185,False
+DeAndre Liggins,4,2,46,0,Jump Shot,23,223,59,False
+DeAndre Liggins,1,5,50,0,Jump Shot,22,222,23,False
+DeAndre Liggins,3,0,7,1,Jump Shot,25,223,130,False
+DeAndre Liggins,1,4,53,0,Layup Shot,1,3,10,True
+DeAndre Liggins,1,0,42,0,Layup Shot,1,0,11,True
+DeAndre Liggins,2,8,42,0,Layup Shot,2,8,26,True
+DeAndre Liggins,2,11,42,1,Layup Shot,1,10,1,True
+DeAndre Liggins,2,7,55,1,Layup Shot,2,20,4,True
+DeAndre Liggins,4,2,21,0,Layup Shot,3,16,34,True
+DeAndre Liggins,4,6,43,1,Pullup Jump shot,24,229,75,False
+DeAndre Liggins,4,1,6,0,Pullup Jump shot,17,49,163,True
+DeAndre Liggins,4,7,26,0,Pullup Jump shot,18,65,176,True
+DeAndre Liggins,1,0,0,1,Running Layup Shot,6,54,35,True
+DeAndre Liggins,3,0,31,1,Running Layup Shot,1,14,4,True
+DeAndre Liggins,3,2,12,0,Running Layup Shot,3,-4,31,True
+DeAndre Liggins,4,7,44,1,Running Layup Shot,0,-5,1,True
+DeAndre Liggins,3,8,37,0,Step Back Jump shot,24,-196,143,False
+DeAndre Liggins,2,7,52,1,Tip Layup Shot,0,0,-6,True

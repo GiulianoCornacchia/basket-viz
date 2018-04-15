@@ -37,6 +37,7 @@ function build_graph(data,names)
 {
 	console.log("Building graph..")
 	
+	
 	w=1200
 	h=600
 	radius=6
@@ -128,6 +129,8 @@ function build_graph(data,names)
 	
 	nodes = shuffle(nodes2)
 	
+	
+	
 ///----------------------------------------------------------------------------------------------------
 	
 
@@ -160,7 +163,14 @@ var simulation = d3.forceSimulation()
           .on("start", dragstarted)
           .on("drag", dragged)
           .on("end", dragended))
-	      .on("click", function(){setURL(this.id.replace("-"," ")); update()})
+	      .on("click", function(){
+		  y =document.getElementById('anno').value
+		  current_year = y
+		  setURL(this.id.replace("-"," "))
+		  set_tags(y)
+		  update()
+		  
+		  })
 		  .on("mouseover", function(){d3.select("#"+this.id).transition().duration(300).attr("r",10)})
 		  .on("mouseout", function(){d3.select("#"+this.id).transition().duration(300).attr("r",6)})
 

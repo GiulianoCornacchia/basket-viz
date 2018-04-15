@@ -1,0 +1,236 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Sam Dekker,2,9,25,1,Alley Oop Dunk Shot,0,-7,6,True
+Sam Dekker,2,8,54,1,Alley Oop Dunk Shot,0,-3,6,True
+Sam Dekker,2,3,33,1,Alley Oop Dunk Shot,1,8,9,True
+Sam Dekker,2,4,50,0,Alley Oop Layup shot,2,0,26,True
+Sam Dekker,4,0,50,1,Cutting Dunk Shot,2,-20,7,True
+Sam Dekker,2,11,32,1,Cutting Dunk Shot,0,9,-4,True
+Sam Dekker,4,9,46,1,Cutting Dunk Shot,0,-2,2,True
+Sam Dekker,4,8,15,1,Cutting Dunk Shot,1,-3,15,True
+Sam Dekker,2,10,24,1,Cutting Dunk Shot,1,16,6,True
+Sam Dekker,4,6,41,1,Cutting Dunk Shot,0,-3,7,True
+Sam Dekker,1,0,11,1,Cutting Dunk Shot,0,3,8,True
+Sam Dekker,1,2,28,1,Cutting Dunk Shot,1,-11,2,True
+Sam Dekker,2,10,56,1,Cutting Dunk Shot,2,20,15,True
+Sam Dekker,4,10,5,1,Cutting Dunk Shot,0,7,0,True
+Sam Dekker,4,0,48,1,Cutting Dunk Shot,1,1,15,True
+Sam Dekker,4,11,48,0,Cutting Finger Roll Layup Shot,2,-12,22,True
+Sam Dekker,2,4,18,1,Cutting Finger Roll Layup Shot,0,8,4,True
+Sam Dekker,4,7,21,1,Cutting Finger Roll Layup Shot,1,13,4,True
+Sam Dekker,2,6,29,1,Cutting Layup Shot,1,9,6,True
+Sam Dekker,4,9,17,0,Cutting Layup Shot,1,-9,7,True
+Sam Dekker,4,10,7,1,Cutting Layup Shot,1,1,17,True
+Sam Dekker,4,4,37,1,Cutting Layup Shot,1,10,11,True
+Sam Dekker,1,0,39,1,Cutting Layup Shot,0,0,8,True
+Sam Dekker,4,9,33,0,Cutting Layup Shot,3,-14,30,True
+Sam Dekker,2,10,50,1,Cutting Layup Shot,1,2,15,True
+Sam Dekker,2,11,21,0,Cutting Layup Shot,0,2,5,True
+Sam Dekker,3,0,53,1,Cutting Layup Shot,0,3,1,True
+Sam Dekker,1,0,54,1,Cutting Layup Shot,2,8,21,True
+Sam Dekker,4,8,57,1,Cutting Layup Shot,1,9,8,True
+Sam Dekker,4,3,53,1,Cutting Layup Shot,0,5,6,True
+Sam Dekker,4,6,31,0,Cutting Layup Shot,1,-3,15,True
+Sam Dekker,4,3,6,1,Cutting Layup Shot,1,-8,11,True
+Sam Dekker,1,0,46,1,Cutting Layup Shot,2,-25,11,True
+Sam Dekker,2,11,39,0,Cutting Layup Shot,1,6,15,True
+Sam Dekker,4,9,27,1,Cutting Layup Shot,2,9,27,True
+Sam Dekker,3,2,44,1,Cutting Layup Shot,1,4,12,True
+Sam Dekker,3,8,22,0,Cutting Layup Shot,1,-7,8,True
+Sam Dekker,2,8,42,1,Cutting Layup Shot,1,0,19,True
+Sam Dekker,4,11,5,1,Cutting Layup Shot,1,2,11,True
+Sam Dekker,2,10,23,0,Cutting Layup Shot,5,-46,31,True
+Sam Dekker,1,0,36,1,Cutting Layup Shot,1,-10,3,True
+Sam Dekker,3,0,39,1,Cutting Layup Shot,1,14,7,True
+Sam Dekker,4,8,48,1,Driving Dunk Shot,2,-9,22,True
+Sam Dekker,3,0,44,0,Driving Dunk Shot,2,-5,21,True
+Sam Dekker,2,9,7,0,Driving Dunk Shot,2,-17,15,True
+Sam Dekker,2,11,44,1,Driving Finger Roll Layup Shot,1,-15,9,True
+Sam Dekker,4,0,24,1,Driving Finger Roll Layup Shot,1,-11,5,True
+Sam Dekker,2,10,17,0,Driving Finger Roll Layup Shot,3,-11,34,True
+Sam Dekker,4,11,41,0,Driving Floating Bank Jump Shot,2,9,18,True
+Sam Dekker,4,10,36,0,Driving Floating Jump Shot,2,16,24,True
+Sam Dekker,4,8,12,0,Driving Hook Shot,5,11,55,True
+Sam Dekker,4,11,15,1,Driving Hook Shot,6,-1,65,True
+Sam Dekker,4,8,57,0,Driving Hook Shot,6,-8,65,True
+Sam Dekker,4,0,34,1,Driving Hook Shot,3,-14,27,True
+Sam Dekker,2,10,21,0,Driving Layup Shot,2,20,-5,True
+Sam Dekker,2,7,26,1,Driving Layup Shot,1,11,15,True
+Sam Dekker,1,4,32,0,Driving Layup Shot,2,-9,26,True
+Sam Dekker,4,10,1,1,Driving Layup Shot,1,7,16,True
+Sam Dekker,2,9,24,1,Driving Layup Shot,2,18,9,True
+Sam Dekker,4,11,43,1,Driving Layup Shot,1,9,17,True
+Sam Dekker,1,0,7,1,Driving Layup Shot,2,-19,15,True
+Sam Dekker,1,1,10,0,Driving Layup Shot,2,-5,27,True
+Sam Dekker,2,11,27,1,Driving Layup Shot,0,-5,-1,True
+Sam Dekker,2,8,42,1,Driving Layup Shot,1,2,11,True
+Sam Dekker,4,5,42,1,Driving Layup Shot,1,12,8,True
+Sam Dekker,4,9,32,0,Driving Layup Shot,2,0,26,True
+Sam Dekker,1,0,19,0,Driving Layup Shot,2,-23,19,True
+Sam Dekker,4,8,57,1,Driving Layup Shot,1,8,14,True
+Sam Dekker,4,10,22,0,Driving Layup Shot,3,37,10,True
+Sam Dekker,2,10,37,1,Driving Layup Shot,1,14,3,True
+Sam Dekker,4,7,9,1,Driving Layup Shot,2,6,29,True
+Sam Dekker,4,8,43,1,Driving Layup Shot,1,3,15,True
+Sam Dekker,2,10,42,1,Driving Reverse Layup Shot,2,15,25,True
+Sam Dekker,4,10,52,1,Driving Reverse Layup Shot,1,7,15,True
+Sam Dekker,3,3,58,1,Dunk Shot,0,2,5,True
+Sam Dekker,1,0,19,1,Dunk Shot,0,5,8,True
+Sam Dekker,1,1,27,0,Dunk Shot,2,-19,13,True
+Sam Dekker,3,4,48,0,Dunk Shot,0,2,8,True
+Sam Dekker,3,0,3,1,Fadeaway Jump Shot,11,-41,109,True
+Sam Dekker,3,0,34,0,Fadeaway Jump Shot,13,-46,126,True
+Sam Dekker,4,9,34,0,Fadeaway Jump Shot,21,124,172,True
+Sam Dekker,4,11,3,0,Fadeaway Jump Shot,17,76,159,True
+Sam Dekker,4,6,14,1,Floating Jump shot,17,66,163,True
+Sam Dekker,4,2,30,0,Floating Jump shot,4,-19,39,True
+Sam Dekker,2,7,28,1,Floating Jump shot,9,7,92,True
+Sam Dekker,2,9,20,1,Floating Jump shot,6,-19,63,True
+Sam Dekker,2,10,36,0,Floating Jump shot,7,-16,78,True
+Sam Dekker,4,8,52,0,Hook Shot,3,2,31,True
+Sam Dekker,4,4,39,0,Hook Shot,3,21,23,True
+Sam Dekker,4,6,53,0,Hook Shot,3,17,29,True
+Sam Dekker,4,10,16,1,Jump Bank Shot,5,-27,46,True
+Sam Dekker,2,7,57,0,Jump Bank Shot,6,56,35,True
+Sam Dekker,3,2,0,0,Jump Shot,24,-237,49,False
+Sam Dekker,4,2,22,0,Jump Shot,25,-159,195,False
+Sam Dekker,2,11,35,1,Jump Shot,22,229,-12,False
+Sam Dekker,2,7,15,0,Jump Shot,22,224,42,False
+Sam Dekker,2,9,42,0,Jump Shot,22,-225,-15,False
+Sam Dekker,2,9,36,1,Jump Shot,24,-122,215,False
+Sam Dekker,4,9,23,1,Jump Shot,25,-35,256,False
+Sam Dekker,4,10,31,0,Jump Shot,24,-234,63,False
+Sam Dekker,2,7,13,0,Jump Shot,25,141,209,False
+Sam Dekker,4,5,25,0,Jump Shot,25,-107,227,False
+Sam Dekker,2,11,42,0,Jump Shot,22,-228,-5,False
+Sam Dekker,3,1,42,0,Jump Shot,25,-108,236,False
+Sam Dekker,4,9,31,0,Jump Shot,24,242,0,False
+Sam Dekker,3,4,17,0,Jump Shot,26,180,198,False
+Sam Dekker,2,4,2,0,Jump Shot,25,-160,199,False
+Sam Dekker,2,7,30,1,Jump Shot,5,2,53,True
+Sam Dekker,4,5,19,0,Jump Shot,24,-80,236,False
+Sam Dekker,2,11,21,0,Jump Shot,25,-170,185,False
+Sam Dekker,3,0,43,0,Jump Shot,1,-19,-1,True
+Sam Dekker,1,5,15,0,Jump Shot,24,183,163,False
+Sam Dekker,2,10,29,0,Jump Shot,25,141,214,False
+Sam Dekker,4,2,30,0,Jump Shot,25,-168,193,False
+Sam Dekker,4,5,41,1,Jump Shot,25,-157,198,False
+Sam Dekker,3,2,54,1,Jump Shot,26,94,243,False
+Sam Dekker,4,1,34,0,Jump Shot,25,-139,217,False
+Sam Dekker,1,5,18,0,Jump Shot,27,208,176,False
+Sam Dekker,3,3,28,0,Jump Shot,27,-78,260,False
+Sam Dekker,2,9,17,0,Jump Shot,18,56,172,True
+Sam Dekker,3,0,43,0,Jump Shot,24,-139,203,False
+Sam Dekker,1,1,48,0,Jump Shot,25,109,231,False
+Sam Dekker,4,7,22,0,Jump Shot,24,-91,224,False
+Sam Dekker,1,3,38,1,Jump Shot,22,-226,13,False
+Sam Dekker,4,10,7,0,Jump Shot,19,172,95,True
+Sam Dekker,1,7,25,0,Jump Shot,23,-226,78,False
+Sam Dekker,2,11,21,0,Jump Shot,19,-196,4,True
+Sam Dekker,4,11,14,0,Jump Shot,22,-228,11,False
+Sam Dekker,3,4,21,0,Jump Shot,25,-158,200,False
+Sam Dekker,1,3,2,0,Jump Shot,23,230,28,False
+Sam Dekker,4,9,18,0,Jump Shot,25,104,230,False
+Sam Dekker,4,9,41,0,Jump Shot,26,67,256,False
+Sam Dekker,3,0,37,0,Jump Shot,25,-63,246,False
+Sam Dekker,1,0,0,0,Jump Shot,26,-190,179,False
+Sam Dekker,1,0,41,1,Jump Shot,21,-199,89,True
+Sam Dekker,4,9,17,0,Jump Shot,25,-192,168,False
+Sam Dekker,1,0,4,0,Jump Shot,25,19,251,False
+Sam Dekker,4,11,42,0,Jump Shot,25,-168,189,False
+Sam Dekker,2,8,24,0,Jump Shot,23,230,61,False
+Sam Dekker,4,11,25,0,Jump Shot,26,-96,244,False
+Sam Dekker,4,2,39,0,Jump Shot,26,128,233,False
+Sam Dekker,2,7,14,1,Jump Shot,23,230,11,False
+Sam Dekker,1,1,48,0,Jump Shot,24,-111,222,False
+Sam Dekker,4,10,35,0,Jump Shot,23,228,31,False
+Sam Dekker,2,2,51,0,Jump Shot,23,231,36,False
+Sam Dekker,2,10,14,0,Jump Shot,25,-2,253,False
+Sam Dekker,1,0,49,0,Jump Shot,22,-226,26,False
+Sam Dekker,4,10,35,0,Jump Shot,25,139,214,False
+Sam Dekker,4,1,46,1,Jump Shot,24,223,102,False
+Sam Dekker,4,0,8,0,Jump Shot,17,-103,136,True
+Sam Dekker,4,1,36,0,Jump Shot,26,119,237,False
+Sam Dekker,1,1,33,0,Jump Shot,25,93,239,False
+Sam Dekker,3,0,36,1,Jump Shot,25,158,206,False
+Sam Dekker,4,0,45,1,Jump Shot,17,161,59,True
+Sam Dekker,4,6,52,0,Jump Shot,25,131,219,False
+Sam Dekker,2,8,2,0,Layup Shot,1,2,14,True
+Sam Dekker,1,0,27,0,Layup Shot,0,-1,8,True
+Sam Dekker,1,3,14,0,Layup Shot,1,2,13,True
+Sam Dekker,3,0,29,1,Layup Shot,0,-2,4,True
+Sam Dekker,4,1,46,1,Layup Shot,3,-28,11,True
+Sam Dekker,2,9,14,1,Layup Shot,2,20,9,True
+Sam Dekker,4,5,57,0,Layup Shot,4,-17,41,True
+Sam Dekker,1,3,4,1,Layup Shot,2,13,22,True
+Sam Dekker,2,11,32,0,Layup Shot,3,24,31,True
+Sam Dekker,3,0,0,1,Layup Shot,1,10,15,True
+Sam Dekker,2,10,37,0,Layup Shot,1,13,8,True
+Sam Dekker,2,9,44,1,Layup Shot,5,45,36,True
+Sam Dekker,2,9,19,1,Layup Shot,1,5,16,True
+Sam Dekker,2,10,7,1,Layup Shot,2,-18,9,True
+Sam Dekker,2,3,25,0,Pullup Jump shot,17,-177,11,True
+Sam Dekker,1,2,5,0,Pullup Jump shot,12,51,114,True
+Sam Dekker,2,7,46,1,Pullup Jump shot,25,123,223,False
+Sam Dekker,1,0,15,0,Pullup Jump shot,20,-143,148,True
+Sam Dekker,2,10,22,1,Putback Layup Shot,0,0,-6,True
+Sam Dekker,2,8,44,1,Putback Layup Shot,0,0,-6,True
+Sam Dekker,4,8,40,0,Putback Layup Shot,1,9,7,True
+Sam Dekker,2,10,14,0,Reverse Dunk Shot,1,13,14,True
+Sam Dekker,2,8,48,1,Reverse Layup Shot,1,9,11,True
+Sam Dekker,2,11,37,1,Reverse Layup Shot,1,14,-4,True
+Sam Dekker,1,0,37,1,Reverse Layup Shot,1,-5,13,True
+Sam Dekker,4,10,43,0,Reverse Layup Shot,1,-14,13,True
+Sam Dekker,3,0,39,0,Reverse Layup Shot,0,4,1,True
+Sam Dekker,4,2,2,0,Reverse Layup Shot,1,-4,14,True
+Sam Dekker,1,0,19,1,Reverse Layup Shot,1,-15,4,True
+Sam Dekker,3,2,34,1,Reverse Layup Shot,2,0,25,True
+Sam Dekker,4,2,22,1,Reverse Layup Shot,1,-9,10,True
+Sam Dekker,2,8,26,0,Running Alley Oop Dunk Shot,1,4,16,True
+Sam Dekker,4,2,45,1,Running Alley Oop Dunk Shot,0,-1,2,True
+Sam Dekker,3,5,23,1,Running Alley Oop Dunk Shot,1,0,13,True
+Sam Dekker,2,9,38,1,Running Alley Oop Dunk Shot,1,3,14,True
+Sam Dekker,4,4,30,1,Running Dunk Shot,1,1,19,True
+Sam Dekker,4,11,19,1,Running Dunk Shot,1,8,9,True
+Sam Dekker,2,8,10,1,Running Dunk Shot,1,6,14,True
+Sam Dekker,4,1,58,1,Running Dunk Shot,0,0,6,True
+Sam Dekker,4,8,5,1,Running Dunk Shot,0,0,0,True
+Sam Dekker,2,9,52,1,Running Dunk Shot,1,3,13,True
+Sam Dekker,2,8,43,1,Running Dunk Shot,1,-11,9,True
+Sam Dekker,2,7,53,0,Running Dunk Shot,1,-2,16,True
+Sam Dekker,4,3,54,1,Running Finger Roll Layup Shot,0,0,8,True
+Sam Dekker,4,0,59,1,Running Finger Roll Layup Shot,2,-14,15,True
+Sam Dekker,4,7,0,1,Running Finger Roll Layup Shot,2,-7,26,True
+Sam Dekker,2,5,5,1,Running Finger Roll Layup Shot,1,11,16,True
+Sam Dekker,4,9,28,1,Running Finger Roll Layup Shot,0,2,4,True
+Sam Dekker,1,0,0,0,Running Jump Shot,51,-178,487,False
+Sam Dekker,2,7,31,0,Running Layup Shot,2,14,25,True
+Sam Dekker,2,3,28,1,Running Layup Shot,3,12,29,True
+Sam Dekker,1,3,55,0,Running Layup Shot,1,-11,11,True
+Sam Dekker,4,2,57,1,Running Layup Shot,1,-12,5,True
+Sam Dekker,4,7,54,1,Running Layup Shot,1,-3,12,True
+Sam Dekker,2,9,59,0,Running Layup Shot,1,-13,3,True
+Sam Dekker,1,2,21,0,Running Layup Shot,3,-1,32,True
+Sam Dekker,4,5,31,0,Running Layup Shot,5,-12,58,True
+Sam Dekker,4,7,35,1,Running Layup Shot,0,3,7,True
+Sam Dekker,1,1,40,0,Running Layup Shot,2,1,25,True
+Sam Dekker,2,10,5,0,Running Layup Shot,1,-18,6,True
+Sam Dekker,4,7,15,0,Tip Layup Shot,0,0,-6,True
+Sam Dekker,4,9,5,1,Tip Layup Shot,0,0,-6,True
+Sam Dekker,2,10,8,1,Tip Layup Shot,0,0,-6,True
+Sam Dekker,3,2,1,1,Tip Layup Shot,0,0,-6,True
+Sam Dekker,3,0,22,0,Tip Layup Shot,0,0,-6,True
+Sam Dekker,4,4,11,1,Tip Layup Shot,0,0,-6,True
+Sam Dekker,2,6,51,1,Tip Layup Shot,0,0,-6,True
+Sam Dekker,2,6,36,1,Tip Layup Shot,0,0,-6,True
+Sam Dekker,4,0,31,0,Tip Layup Shot,0,0,-6,True
+Sam Dekker,2,4,48,0,Tip Layup Shot,1,-8,6,True
+Sam Dekker,3,0,0,1,Tip Layup Shot,0,0,-6,True
+Sam Dekker,1,1,10,0,Tip Layup Shot,0,0,-6,True
+Sam Dekker,1,0,0,1,Turnaround Bank Hook Shot,7,-71,28,True
+Sam Dekker,2,11,0,0,Turnaround Fadeaway Bank Jump Shot,7,11,71,True
+Sam Dekker,4,4,24,1,Turnaround Fadeaway shot,7,72,19,True
+Sam Dekker,3,4,49,0,Turnaround Fadeaway shot,10,-104,34,True
+Sam Dekker,2,10,11,1,Turnaround Hook Shot,12,-38,121,True
+Sam Dekker,4,10,15,0,Turnaround Hook Shot,8,-4,84,True
+Sam Dekker,4,8,43,1,Turnaround Jump Shot,5,-25,52,True
+Sam Dekker,3,5,23,0,Turnaround Jump Shot,8,9,80,True

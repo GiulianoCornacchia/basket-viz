@@ -1,0 +1,610 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Wayne Ellington,4,0,56,0,Alley Oop Layup shot,3,37,6,True
+Wayne Ellington,1,3,36,1,Cutting Dunk Shot,2,0,22,True
+Wayne Ellington,2,9,14,1,Cutting Finger Roll Layup Shot,0,3,5,True
+Wayne Ellington,3,3,12,1,Cutting Finger Roll Layup Shot,1,4,13,True
+Wayne Ellington,3,9,48,1,Cutting Layup Shot,1,8,12,True
+Wayne Ellington,2,7,58,1,Cutting Layup Shot,1,11,8,True
+Wayne Ellington,2,11,14,1,Cutting Layup Shot,1,-11,10,True
+Wayne Ellington,4,10,55,0,Cutting Layup Shot,0,-6,-6,True
+Wayne Ellington,1,0,49,1,Cutting Layup Shot,1,-13,13,True
+Wayne Ellington,2,5,23,0,Cutting Layup Shot,2,23,8,True
+Wayne Ellington,3,4,5,1,Cutting Layup Shot,2,-18,12,True
+Wayne Ellington,5,1,53,1,Driving Finger Roll Layup Shot,1,4,17,True
+Wayne Ellington,4,6,27,1,Driving Finger Roll Layup Shot,1,6,10,True
+Wayne Ellington,2,6,39,1,Driving Layup Shot,1,-5,15,True
+Wayne Ellington,2,11,5,1,Driving Layup Shot,0,-2,2,True
+Wayne Ellington,2,10,49,0,Driving Layup Shot,0,0,8,True
+Wayne Ellington,4,8,50,0,Driving Layup Shot,1,11,0,True
+Wayne Ellington,4,11,18,0,Driving Layup Shot,2,10,20,True
+Wayne Ellington,2,6,52,0,Driving Layup Shot,1,-8,8,True
+Wayne Ellington,3,0,0,0,Driving Layup Shot,7,63,32,True
+Wayne Ellington,1,1,29,1,Driving Layup Shot,1,3,11,True
+Wayne Ellington,4,10,35,1,Driving Layup Shot,1,-13,-8,True
+Wayne Ellington,2,4,42,0,Driving Layup Shot,2,-14,20,True
+Wayne Ellington,4,1,1,0,Driving Layup Shot,6,58,31,True
+Wayne Ellington,3,3,45,0,Driving Layup Shot,0,2,1,True
+Wayne Ellington,4,4,18,0,Fadeaway Jump Shot,8,80,37,True
+Wayne Ellington,2,3,38,0,Fadeaway Jump Shot,3,-37,9,True
+Wayne Ellington,2,8,11,0,Fadeaway Jump Shot,12,-124,10,True
+Wayne Ellington,2,9,14,1,Floating Jump shot,25,-101,231,False
+Wayne Ellington,2,10,0,1,Floating Jump shot,17,-95,148,True
+Wayne Ellington,1,10,36,0,Floating Jump shot,8,78,20,True
+Wayne Ellington,1,1,13,0,Floating Jump shot,4,-27,41,True
+Wayne Ellington,3,3,25,1,Floating Jump shot,9,0,94,True
+Wayne Ellington,4,6,1,0,Floating Jump shot,10,-16,101,True
+Wayne Ellington,4,7,4,1,Floating Jump shot,25,150,206,False
+Wayne Ellington,4,10,31,1,Hook Shot,3,12,37,True
+Wayne Ellington,2,11,4,1,Jump Bank Shot,23,-230,-5,False
+Wayne Ellington,2,5,33,1,Jump Bank Shot,4,-8,40,True
+Wayne Ellington,2,11,16,1,Jump Shot,26,174,194,False
+Wayne Ellington,3,1,2,0,Jump Shot,25,214,147,False
+Wayne Ellington,1,0,31,0,Jump Shot,25,-148,207,False
+Wayne Ellington,2,0,0,1,Jump Shot,24,-165,183,False
+Wayne Ellington,2,0,32,0,Jump Shot,26,147,216,False
+Wayne Ellington,4,7,24,0,Jump Shot,24,-51,243,False
+Wayne Ellington,1,1,30,0,Jump Shot,24,-176,173,False
+Wayne Ellington,4,11,43,0,Jump Shot,26,-149,214,False
+Wayne Ellington,2,2,3,0,Jump Shot,25,-143,208,False
+Wayne Ellington,3,4,3,0,Jump Shot,26,-163,204,False
+Wayne Ellington,1,0,55,1,Jump Shot,26,195,172,False
+Wayne Ellington,2,5,16,0,Jump Shot,25,169,194,False
+Wayne Ellington,4,10,19,0,Jump Shot,23,-232,44,False
+Wayne Ellington,3,1,55,0,Jump Shot,24,-188,163,False
+Wayne Ellington,1,1,39,1,Jump Shot,23,235,3,False
+Wayne Ellington,4,10,43,1,Jump Shot,23,237,17,False
+Wayne Ellington,1,3,4,0,Jump Shot,25,-31,257,False
+Wayne Ellington,4,11,47,0,Jump Shot,26,151,222,False
+Wayne Ellington,4,6,57,0,Jump Shot,23,226,48,False
+Wayne Ellington,3,5,15,0,Jump Shot,29,113,274,False
+Wayne Ellington,1,4,41,1,Jump Shot,26,-29,268,False
+Wayne Ellington,4,9,37,0,Jump Shot,26,-165,210,False
+Wayne Ellington,1,0,37,0,Jump Shot,21,183,116,True
+Wayne Ellington,2,10,29,0,Jump Shot,26,-68,252,False
+Wayne Ellington,4,3,57,0,Jump Shot,24,94,230,False
+Wayne Ellington,4,6,8,1,Jump Shot,24,1,241,False
+Wayne Ellington,2,7,54,0,Jump Shot,24,-185,168,False
+Wayne Ellington,1,4,31,0,Jump Shot,19,61,182,True
+Wayne Ellington,1,0,27,1,Jump Shot,25,-78,245,False
+Wayne Ellington,1,1,54,0,Jump Shot,24,204,136,False
+Wayne Ellington,4,9,51,0,Jump Shot,24,-107,220,False
+Wayne Ellington,3,3,40,1,Jump Shot,22,226,7,False
+Wayne Ellington,2,10,27,1,Jump Shot,24,-211,132,False
+Wayne Ellington,4,9,3,1,Jump Shot,25,-160,200,False
+Wayne Ellington,3,3,37,0,Jump Shot,24,-146,199,False
+Wayne Ellington,4,8,20,0,Jump Shot,24,-145,199,False
+Wayne Ellington,1,4,19,0,Jump Shot,25,205,147,False
+Wayne Ellington,3,0,43,0,Jump Shot,22,-171,150,True
+Wayne Ellington,1,1,50,0,Jump Shot,26,180,197,False
+Wayne Ellington,1,1,24,0,Jump Shot,25,-198,157,False
+Wayne Ellington,4,3,55,1,Jump Shot,23,-229,36,False
+Wayne Ellington,3,1,41,0,Jump Shot,27,-163,216,False
+Wayne Ellington,3,2,5,1,Jump Shot,24,84,231,False
+Wayne Ellington,1,2,30,1,Jump Shot,24,-100,229,False
+Wayne Ellington,2,10,50,0,Jump Shot,25,46,251,False
+Wayne Ellington,4,9,9,0,Jump Shot,27,159,225,False
+Wayne Ellington,3,3,13,1,Jump Shot,23,-235,41,False
+Wayne Ellington,4,1,41,0,Jump Shot,24,-154,193,False
+Wayne Ellington,2,10,10,1,Jump Shot,24,185,163,False
+Wayne Ellington,4,11,13,1,Jump Shot,26,-193,183,False
+Wayne Ellington,4,8,59,0,Jump Shot,26,-181,194,False
+Wayne Ellington,1,3,18,0,Jump Shot,26,-90,245,False
+Wayne Ellington,3,0,39,0,Jump Shot,27,-160,221,False
+Wayne Ellington,4,11,20,0,Jump Shot,25,120,224,False
+Wayne Ellington,3,1,48,0,Jump Shot,25,-95,236,False
+Wayne Ellington,4,0,15,0,Jump Shot,25,-64,245,False
+Wayne Ellington,2,9,38,0,Jump Shot,25,-208,144,False
+Wayne Ellington,1,3,20,1,Jump Shot,25,55,251,False
+Wayne Ellington,1,0,31,0,Jump Shot,26,141,223,False
+Wayne Ellington,2,3,0,0,Jump Shot,24,-241,41,False
+Wayne Ellington,2,1,20,0,Jump Shot,22,-220,-16,False
+Wayne Ellington,4,10,48,1,Jump Shot,25,154,201,False
+Wayne Ellington,2,9,32,1,Jump Shot,23,230,-7,False
+Wayne Ellington,4,2,40,0,Jump Shot,25,-174,180,False
+Wayne Ellington,4,9,16,0,Jump Shot,24,177,176,False
+Wayne Ellington,2,10,35,0,Jump Shot,25,65,247,False
+Wayne Ellington,2,11,39,1,Jump Shot,26,145,218,False
+Wayne Ellington,4,7,13,0,Jump Shot,23,-219,96,False
+Wayne Ellington,4,0,6,1,Jump Shot,22,-225,-5,False
+Wayne Ellington,1,3,12,0,Jump Shot,25,-70,241,False
+Wayne Ellington,4,9,31,1,Jump Shot,22,223,-3,False
+Wayne Ellington,4,8,49,1,Jump Shot,25,120,230,False
+Wayne Ellington,1,0,26,0,Jump Shot,23,-230,27,False
+Wayne Ellington,4,0,14,1,Jump Shot,26,-1,260,False
+Wayne Ellington,2,3,44,0,Jump Shot,26,-135,229,False
+Wayne Ellington,1,2,3,0,Jump Shot,26,136,227,False
+Wayne Ellington,4,6,43,0,Jump Shot,22,-152,164,True
+Wayne Ellington,3,2,45,0,Jump Shot,24,214,127,False
+Wayne Ellington,1,4,5,0,Jump Shot,23,231,50,False
+Wayne Ellington,3,2,5,0,Jump Shot,25,-150,209,False
+Wayne Ellington,2,3,5,0,Jump Shot,25,170,192,False
+Wayne Ellington,2,10,51,0,Jump Shot,26,-25,261,False
+Wayne Ellington,4,6,3,0,Jump Shot,24,62,241,False
+Wayne Ellington,2,4,35,0,Jump Shot,23,-228,35,False
+Wayne Ellington,4,9,9,0,Jump Shot,24,-235,85,False
+Wayne Ellington,3,4,59,0,Jump Shot,25,-121,230,False
+Wayne Ellington,2,7,17,0,Jump Shot,24,245,27,False
+Wayne Ellington,4,7,13,1,Jump Shot,26,154,214,False
+Wayne Ellington,1,1,3,0,Jump Shot,26,210,161,False
+Wayne Ellington,4,4,16,1,Jump Shot,26,221,153,False
+Wayne Ellington,1,4,44,0,Jump Shot,24,-131,206,False
+Wayne Ellington,2,9,0,0,Jump Shot,26,212,158,False
+Wayne Ellington,3,3,56,0,Jump Shot,23,-236,21,False
+Wayne Ellington,1,4,50,1,Jump Shot,26,-218,152,False
+Wayne Ellington,4,4,25,0,Jump Shot,25,24,257,False
+Wayne Ellington,2,7,29,0,Jump Shot,26,160,215,False
+Wayne Ellington,2,8,44,0,Jump Shot,7,55,44,True
+Wayne Ellington,4,0,24,1,Jump Shot,26,-78,257,False
+Wayne Ellington,4,7,17,0,Jump Shot,23,-232,29,False
+Wayne Ellington,1,0,1,0,Jump Shot,24,-207,130,False
+Wayne Ellington,4,0,18,1,Jump Shot,23,-230,42,False
+Wayne Ellington,1,4,10,1,Jump Shot,24,-168,180,False
+Wayne Ellington,4,4,4,0,Jump Shot,22,222,27,False
+Wayne Ellington,4,11,23,1,Jump Shot,24,-5,247,False
+Wayne Ellington,1,2,50,0,Jump Shot,25,-203,150,False
+Wayne Ellington,4,5,53,1,Jump Shot,25,-148,210,False
+Wayne Ellington,4,2,0,1,Jump Shot,25,149,204,False
+Wayne Ellington,2,9,13,1,Jump Shot,25,175,190,False
+Wayne Ellington,4,3,38,1,Jump Shot,24,-231,80,False
+Wayne Ellington,2,8,45,0,Jump Shot,25,-20,258,False
+Wayne Ellington,3,2,40,0,Jump Shot,25,-158,204,False
+Wayne Ellington,4,3,14,1,Jump Shot,25,-174,186,False
+Wayne Ellington,4,9,24,0,Jump Shot,25,116,225,False
+Wayne Ellington,4,11,24,1,Jump Shot,25,-137,210,False
+Wayne Ellington,4,7,24,0,Jump Shot,24,113,218,False
+Wayne Ellington,4,8,23,0,Jump Shot,25,-121,222,False
+Wayne Ellington,1,4,44,0,Jump Shot,22,-162,156,True
+Wayne Ellington,2,10,59,0,Jump Shot,25,170,189,False
+Wayne Ellington,4,6,52,0,Jump Shot,24,-123,215,False
+Wayne Ellington,4,4,20,1,Jump Shot,23,-234,-16,False
+Wayne Ellington,3,1,22,0,Jump Shot,25,68,246,False
+Wayne Ellington,3,0,26,0,Jump Shot,25,200,155,False
+Wayne Ellington,4,0,49,0,Jump Shot,25,-182,180,False
+Wayne Ellington,2,8,2,1,Jump Shot,23,-231,-8,False
+Wayne Ellington,4,10,41,1,Jump Shot,24,-133,206,False
+Wayne Ellington,1,0,54,0,Jump Shot,24,-177,173,False
+Wayne Ellington,2,5,16,0,Jump Shot,25,-13,252,False
+Wayne Ellington,3,0,2,0,Jump Shot,23,226,55,False
+Wayne Ellington,2,7,11,1,Jump Shot,25,-150,209,False
+Wayne Ellington,1,2,44,0,Jump Shot,25,-119,221,False
+Wayne Ellington,2,9,2,1,Jump Shot,22,-226,26,False
+Wayne Ellington,3,5,16,0,Jump Shot,25,230,116,False
+Wayne Ellington,2,5,40,0,Jump Shot,26,135,223,False
+Wayne Ellington,4,9,35,0,Jump Shot,25,182,183,False
+Wayne Ellington,2,6,56,0,Jump Shot,26,183,186,False
+Wayne Ellington,3,1,3,1,Jump Shot,23,229,29,False
+Wayne Ellington,2,8,15,0,Jump Shot,26,-176,193,False
+Wayne Ellington,3,1,41,0,Jump Shot,26,186,184,False
+Wayne Ellington,1,1,6,1,Jump Shot,26,-208,159,False
+Wayne Ellington,4,6,55,0,Jump Shot,24,-163,188,False
+Wayne Ellington,2,7,42,0,Jump Shot,25,118,223,False
+Wayne Ellington,2,10,34,1,Jump Shot,24,163,189,False
+Wayne Ellington,4,2,44,0,Jump Shot,28,-153,242,False
+Wayne Ellington,2,9,46,1,Jump Shot,25,-163,192,False
+Wayne Ellington,2,11,48,0,Jump Shot,26,111,243,False
+Wayne Ellington,3,0,35,1,Jump Shot,25,182,178,False
+Wayne Ellington,4,5,1,1,Jump Shot,27,156,221,False
+Wayne Ellington,4,8,27,1,Jump Shot,27,-188,195,False
+Wayne Ellington,4,10,0,0,Jump Shot,24,225,91,False
+Wayne Ellington,2,5,14,0,Jump Shot,26,-144,227,False
+Wayne Ellington,1,1,23,0,Jump Shot,26,190,184,False
+Wayne Ellington,2,11,21,1,Jump Shot,23,230,3,False
+Wayne Ellington,1,1,47,1,Jump Shot,22,-225,-22,False
+Wayne Ellington,2,5,4,0,Jump Shot,25,180,183,False
+Wayne Ellington,2,3,15,0,Jump Shot,29,161,245,False
+Wayne Ellington,2,9,51,1,Jump Shot,25,-147,204,False
+Wayne Ellington,2,11,21,1,Jump Shot,25,-226,109,False
+Wayne Ellington,2,9,40,1,Jump Shot,24,-22,245,False
+Wayne Ellington,2,9,21,1,Jump Shot,24,242,21,False
+Wayne Ellington,2,6,9,0,Jump Shot,28,68,272,False
+Wayne Ellington,3,0,34,0,Jump Shot,24,196,152,False
+Wayne Ellington,2,6,58,1,Jump Shot,26,-166,204,False
+Wayne Ellington,4,11,29,0,Jump Shot,25,-9,252,False
+Wayne Ellington,2,10,13,1,Jump Shot,24,150,198,False
+Wayne Ellington,3,5,50,1,Jump Shot,29,25,291,False
+Wayne Ellington,4,10,19,0,Jump Shot,26,215,158,False
+Wayne Ellington,2,2,45,0,Jump Shot,24,168,185,False
+Wayne Ellington,4,8,25,0,Jump Shot,24,-228,76,False
+Wayne Ellington,2,7,39,0,Jump Shot,25,-215,131,False
+Wayne Ellington,2,10,39,1,Jump Shot,23,229,43,False
+Wayne Ellington,4,11,47,1,Jump Shot,26,48,257,False
+Wayne Ellington,3,2,54,0,Jump Shot,26,156,209,False
+Wayne Ellington,1,0,55,0,Jump Shot,25,-9,255,False
+Wayne Ellington,4,1,48,0,Jump Shot,26,-101,249,False
+Wayne Ellington,4,9,25,0,Jump Shot,10,16,106,True
+Wayne Ellington,2,5,2,0,Jump Shot,22,-227,-2,False
+Wayne Ellington,4,0,25,1,Jump Shot,26,-152,214,False
+Wayne Ellington,4,11,48,0,Jump Shot,25,6,258,False
+Wayne Ellington,2,0,25,1,Jump Shot,25,-133,215,False
+Wayne Ellington,3,0,41,1,Jump Shot,22,229,0,False
+Wayne Ellington,1,0,30,0,Jump Shot,25,-121,227,False
+Wayne Ellington,3,1,48,1,Jump Shot,26,84,255,False
+Wayne Ellington,4,9,0,0,Jump Shot,26,63,258,False
+Wayne Ellington,2,9,31,0,Jump Shot,23,-232,26,False
+Wayne Ellington,2,6,29,1,Jump Shot,23,-229,22,False
+Wayne Ellington,2,1,21,0,Jump Shot,23,237,-10,False
+Wayne Ellington,2,0,53,0,Jump Shot,23,239,9,False
+Wayne Ellington,2,3,30,0,Jump Shot,25,-200,159,False
+Wayne Ellington,4,8,2,0,Jump Shot,24,-34,246,False
+Wayne Ellington,4,1,40,0,Jump Shot,21,-83,200,True
+Wayne Ellington,4,2,54,1,Jump Shot,25,-166,189,False
+Wayne Ellington,1,1,21,1,Jump Shot,26,171,201,False
+Wayne Ellington,1,0,42,0,Jump Shot,26,172,201,False
+Wayne Ellington,2,9,42,0,Jump Shot,25,165,194,False
+Wayne Ellington,4,11,36,0,Jump Shot,23,230,68,False
+Wayne Ellington,2,11,24,0,Jump Shot,23,-232,16,False
+Wayne Ellington,2,5,31,0,Jump Shot,26,-215,150,False
+Wayne Ellington,3,0,58,0,Jump Shot,23,-222,83,False
+Wayne Ellington,2,5,31,0,Jump Shot,26,-92,246,False
+Wayne Ellington,2,3,57,0,Jump Shot,16,160,42,True
+Wayne Ellington,3,1,44,1,Jump Shot,23,231,50,False
+Wayne Ellington,4,7,13,0,Jump Shot,25,121,229,False
+Wayne Ellington,2,7,21,0,Jump Shot,26,-163,205,False
+Wayne Ellington,3,0,17,0,Jump Shot,22,225,6,False
+Wayne Ellington,2,10,3,1,Jump Shot,27,-13,279,False
+Wayne Ellington,4,11,9,0,Jump Shot,25,169,193,False
+Wayne Ellington,2,4,15,1,Jump Shot,25,-165,195,False
+Wayne Ellington,1,0,39,0,Jump Shot,3,-3,36,True
+Wayne Ellington,2,5,36,1,Jump Shot,25,-14,253,False
+Wayne Ellington,2,6,55,1,Jump Shot,25,-134,217,False
+Wayne Ellington,2,9,32,0,Jump Shot,25,-190,172,False
+Wayne Ellington,2,1,27,1,Jump Shot,22,228,-6,False
+Wayne Ellington,2,7,46,1,Jump Shot,25,-45,251,False
+Wayne Ellington,2,7,42,0,Jump Shot,22,-225,40,False
+Wayne Ellington,1,0,20,0,Jump Shot,25,-130,216,False
+Wayne Ellington,4,6,54,0,Jump Shot,23,228,36,False
+Wayne Ellington,4,11,5,0,Jump Shot,24,-236,79,False
+Wayne Ellington,4,10,19,1,Jump Shot,26,-104,246,False
+Wayne Ellington,4,7,32,1,Jump Shot,25,160,195,False
+Wayne Ellington,2,9,51,0,Jump Shot,25,9,253,False
+Wayne Ellington,2,7,37,0,Jump Shot,26,-123,233,False
+Wayne Ellington,3,0,0,0,Jump Shot,28,-124,253,False
+Wayne Ellington,2,11,24,0,Jump Shot,24,-157,192,False
+Wayne Ellington,2,8,50,0,Jump Shot,25,-130,215,False
+Wayne Ellington,1,0,0,0,Jump Shot,25,9,256,False
+Wayne Ellington,4,7,43,0,Jump Shot,23,226,71,False
+Wayne Ellington,4,10,24,0,Jump Shot,24,232,85,False
+Wayne Ellington,3,3,4,0,Jump Shot,24,-228,91,False
+Wayne Ellington,1,3,40,0,Jump Shot,24,-13,245,False
+Wayne Ellington,3,4,54,1,Jump Shot,23,232,-10,False
+Wayne Ellington,3,5,58,0,Jump Shot,26,-107,238,False
+Wayne Ellington,4,4,20,0,Jump Shot,26,-111,239,False
+Wayne Ellington,2,8,34,1,Jump Shot,23,236,32,False
+Wayne Ellington,4,9,38,0,Jump Shot,25,-17,257,False
+Wayne Ellington,1,0,5,0,Jump Shot,25,239,74,False
+Wayne Ellington,2,8,8,0,Jump Shot,27,11,275,False
+Wayne Ellington,4,0,46,0,Jump Shot,25,183,173,False
+Wayne Ellington,4,11,42,0,Jump Shot,25,-158,202,False
+Wayne Ellington,4,0,4,1,Jump Shot,26,-120,238,False
+Wayne Ellington,1,1,46,0,Jump Shot,17,-122,124,True
+Wayne Ellington,3,1,16,1,Jump Shot,23,238,-10,False
+Wayne Ellington,2,10,0,1,Jump Shot,25,79,246,False
+Wayne Ellington,3,6,57,0,Jump Shot,26,35,259,False
+Wayne Ellington,1,4,49,1,Jump Shot,25,-138,218,False
+Wayne Ellington,4,10,33,0,Jump Shot,30,-159,259,False
+Wayne Ellington,1,1,10,1,Jump Shot,27,181,208,False
+Wayne Ellington,3,2,50,0,Jump Shot,25,189,167,False
+Wayne Ellington,4,1,52,0,Jump Shot,26,-163,210,False
+Wayne Ellington,1,3,0,0,Jump Shot,18,183,-15,True
+Wayne Ellington,3,1,6,1,Jump Shot,25,-171,185,False
+Wayne Ellington,3,1,57,0,Jump Shot,27,-217,165,False
+Wayne Ellington,3,1,39,1,Jump Shot,26,-144,225,False
+Wayne Ellington,2,8,14,0,Jump Shot,26,-189,187,False
+Wayne Ellington,3,5,18,0,Jump Shot,30,62,302,False
+Wayne Ellington,4,11,43,1,Jump Shot,25,40,247,False
+Wayne Ellington,3,6,4,0,Jump Shot,26,-196,183,False
+Wayne Ellington,4,3,33,0,Jump Shot,31,-114,295,False
+Wayne Ellington,1,6,27,1,Jump Shot,25,-187,168,False
+Wayne Ellington,3,10,15,0,Jump Shot,27,-185,199,False
+Wayne Ellington,3,0,35,1,Jump Shot,20,-201,7,True
+Wayne Ellington,1,5,25,1,Jump Shot,26,-46,266,False
+Wayne Ellington,1,8,21,0,Jump Shot,24,235,63,False
+Wayne Ellington,2,11,27,0,Jump Shot,24,240,34,False
+Wayne Ellington,2,0,37,0,Jump Shot,26,-206,161,False
+Wayne Ellington,3,4,3,0,Jump Shot,25,91,238,False
+Wayne Ellington,4,1,23,1,Jump Shot,25,-188,165,False
+Wayne Ellington,2,7,3,0,Jump Shot,26,29,262,False
+Wayne Ellington,4,3,43,1,Jump Shot,25,201,154,False
+Wayne Ellington,3,2,31,0,Jump Shot,25,-99,239,False
+Wayne Ellington,3,10,57,1,Jump Shot,18,-112,141,True
+Wayne Ellington,1,7,13,1,Jump Shot,24,101,227,False
+Wayne Ellington,1,8,39,1,Jump Shot,22,-90,201,True
+Wayne Ellington,2,5,43,1,Jump Shot,25,203,153,False
+Wayne Ellington,4,6,33,1,Jump Shot,28,-68,273,False
+Wayne Ellington,2,3,57,0,Jump Shot,31,-38,314,False
+Wayne Ellington,3,6,19,1,Jump Shot,24,-230,79,False
+Wayne Ellington,2,6,36,1,Jump Shot,20,166,117,True
+Wayne Ellington,3,0,5,0,Jump Shot,24,-127,215,False
+Wayne Ellington,2,4,33,0,Jump Shot,24,193,155,False
+Wayne Ellington,2,6,29,1,Jump Shot,24,3,248,False
+Wayne Ellington,4,11,14,0,Jump Shot,25,-101,238,False
+Wayne Ellington,2,11,17,0,Jump Shot,22,-221,5,False
+Wayne Ellington,3,3,45,0,Jump Shot,22,-224,8,False
+Wayne Ellington,4,11,42,1,Jump Shot,22,223,55,False
+Wayne Ellington,3,2,12,0,Jump Shot,28,-186,220,False
+Wayne Ellington,4,5,39,0,Jump Shot,28,-112,267,False
+Wayne Ellington,2,6,47,1,Jump Shot,22,-223,17,False
+Wayne Ellington,4,8,7,0,Jump Shot,26,105,248,False
+Wayne Ellington,1,3,52,1,Jump Shot,25,225,119,False
+Wayne Ellington,3,0,32,1,Jump Shot,26,-217,148,False
+Wayne Ellington,2,3,19,0,Jump Shot,25,-47,248,False
+Wayne Ellington,2,9,0,1,Jump Shot,24,-200,146,False
+Wayne Ellington,4,7,11,0,Jump Shot,25,114,223,False
+Wayne Ellington,2,10,13,0,Jump Shot,28,152,236,False
+Wayne Ellington,2,7,47,0,Jump Shot,25,147,213,False
+Wayne Ellington,4,3,8,0,Jump Shot,24,145,197,False
+Wayne Ellington,1,1,32,0,Jump Shot,22,228,6,False
+Wayne Ellington,4,11,45,1,Jump Shot,13,-95,102,True
+Wayne Ellington,2,8,49,0,Jump Shot,25,-3,258,False
+Wayne Ellington,2,6,38,0,Jump Shot,22,223,30,False
+Wayne Ellington,1,2,47,0,Jump Shot,27,176,208,False
+Wayne Ellington,1,5,3,0,Jump Shot,26,209,167,False
+Wayne Ellington,3,0,44,1,Jump Shot,27,-183,211,False
+Wayne Ellington,4,0,25,1,Jump Shot,30,-179,249,False
+Wayne Ellington,4,11,43,0,Jump Shot,20,200,11,True
+Wayne Ellington,2,5,14,0,Jump Shot,28,183,218,False
+Wayne Ellington,2,3,33,0,Jump Shot,26,-135,232,False
+Wayne Ellington,3,3,58,1,Jump Shot,26,205,160,False
+Wayne Ellington,3,2,23,1,Jump Shot,28,-150,242,False
+Wayne Ellington,2,8,46,0,Jump Shot,27,143,239,False
+Wayne Ellington,4,10,16,0,Jump Shot,23,223,58,False
+Wayne Ellington,1,3,38,1,Jump Shot,25,187,169,False
+Wayne Ellington,2,4,49,0,Jump Shot,27,-122,241,False
+Wayne Ellington,1,1,0,1,Jump Shot,26,111,237,False
+Wayne Ellington,4,1,2,0,Jump Shot,28,-174,227,False
+Wayne Ellington,1,1,13,0,Jump Shot,26,148,224,False
+Wayne Ellington,3,0,1,0,Jump Shot,2,21,-4,True
+Wayne Ellington,2,1,18,0,Jump Shot,25,-6,253,False
+Wayne Ellington,3,1,40,1,Jump Shot,25,-138,211,False
+Wayne Ellington,2,1,10,0,Jump Shot,19,161,113,True
+Wayne Ellington,4,11,40,0,Jump Shot,22,-220,32,False
+Wayne Ellington,2,6,54,0,Jump Shot,24,210,131,False
+Wayne Ellington,2,8,26,1,Jump Shot,25,-5,257,False
+Wayne Ellington,4,8,22,0,Jump Shot,23,-230,24,False
+Wayne Ellington,1,2,37,1,Jump Shot,25,-35,256,False
+Wayne Ellington,5,2,22,1,Jump Shot,25,-155,206,False
+Wayne Ellington,4,4,8,1,Jump Shot,19,-11,193,True
+Wayne Ellington,4,2,3,0,Jump Shot,24,183,167,False
+Wayne Ellington,1,1,14,0,Jump Shot,25,147,209,False
+Wayne Ellington,1,5,2,0,Jump Shot,26,192,189,False
+Wayne Ellington,2,11,44,0,Jump Shot,26,137,231,False
+Wayne Ellington,4,0,0,0,Jump Shot,55,-191,519,False
+Wayne Ellington,4,7,49,1,Jump Shot,24,239,28,False
+Wayne Ellington,4,11,29,0,Jump Shot,24,-3,249,False
+Wayne Ellington,3,2,46,0,Jump Shot,24,-187,154,False
+Wayne Ellington,4,10,14,0,Jump Shot,23,228,54,False
+Wayne Ellington,3,0,48,0,Jump Shot,26,143,218,False
+Wayne Ellington,1,2,38,1,Jump Shot,25,-100,234,False
+Wayne Ellington,2,7,14,1,Jump Shot,23,-221,82,False
+Wayne Ellington,1,0,46,1,Jump Shot,24,-201,148,False
+Wayne Ellington,3,4,56,0,Jump Shot,25,160,193,False
+Wayne Ellington,3,3,45,1,Jump Shot,25,105,232,False
+Wayne Ellington,3,5,16,1,Jump Shot,25,140,210,False
+Wayne Ellington,4,2,7,0,Jump Shot,25,-147,212,False
+Wayne Ellington,2,2,28,0,Jump Shot,28,95,264,False
+Wayne Ellington,4,9,46,0,Jump Shot,15,154,8,True
+Wayne Ellington,4,5,29,0,Jump Shot,25,133,220,False
+Wayne Ellington,4,6,39,1,Jump Shot,25,174,190,False
+Wayne Ellington,2,9,23,0,Jump Shot,25,-214,132,False
+Wayne Ellington,2,9,40,0,Jump Shot,24,-113,221,False
+Wayne Ellington,3,3,12,0,Jump Shot,22,226,13,False
+Wayne Ellington,1,0,54,0,Jump Shot,24,231,71,False
+Wayne Ellington,2,11,23,1,Jump Shot,25,-158,197,False
+Wayne Ellington,1,4,50,0,Jump Shot,26,-95,243,False
+Wayne Ellington,4,6,55,0,Jump Shot,24,-93,230,False
+Wayne Ellington,4,11,45,0,Jump Shot,25,-167,188,False
+Wayne Ellington,2,10,35,1,Jump Shot,25,139,214,False
+Wayne Ellington,2,2,17,1,Jump Shot,24,242,-6,False
+Wayne Ellington,4,5,12,1,Jump Shot,22,226,-26,False
+Wayne Ellington,1,3,42,0,Jump Shot,24,-105,225,False
+Wayne Ellington,2,7,28,1,Jump Shot,25,2,256,False
+Wayne Ellington,1,3,4,0,Jump Shot,25,-190,175,False
+Wayne Ellington,3,3,51,0,Jump Shot,24,-207,137,False
+Wayne Ellington,4,7,22,0,Jump Shot,25,217,143,False
+Wayne Ellington,1,4,59,0,Jump Shot,28,-145,249,False
+Wayne Ellington,2,0,15,0,Jump Shot,21,120,183,True
+Wayne Ellington,3,1,37,0,Jump Shot,25,207,152,False
+Wayne Ellington,2,8,0,0,Jump Shot,27,169,216,False
+Wayne Ellington,4,5,17,1,Jump Shot,28,-180,220,False
+Wayne Ellington,4,1,41,0,Jump Shot,27,140,242,False
+Wayne Ellington,2,0,24,0,Jump Shot,23,-231,11,False
+Wayne Ellington,4,4,9,1,Jump Shot,27,-179,204,False
+Wayne Ellington,2,3,13,1,Jump Shot,26,-95,245,False
+Wayne Ellington,1,6,18,0,Jump Shot,25,-200,156,False
+Wayne Ellington,4,7,28,1,Jump Shot,28,-180,227,False
+Wayne Ellington,1,3,31,0,Jump Shot,7,43,63,True
+Wayne Ellington,4,6,2,1,Jump Shot,28,-164,228,False
+Wayne Ellington,3,3,26,1,Jump Shot,27,-215,169,False
+Wayne Ellington,1,0,11,1,Jump Shot,26,148,218,False
+Wayne Ellington,4,0,36,1,Jump Shot,27,-139,233,False
+Wayne Ellington,2,9,28,0,Jump Shot,26,141,229,False
+Wayne Ellington,3,1,23,0,Jump Shot,26,-219,151,False
+Wayne Ellington,4,10,13,0,Jump Shot,27,-150,225,False
+Wayne Ellington,2,10,19,0,Jump Shot,28,145,242,False
+Wayne Ellington,3,3,14,0,Jump Shot,27,-114,251,False
+Wayne Ellington,2,6,11,0,Jump Shot,26,149,225,False
+Wayne Ellington,2,8,18,0,Jump Shot,26,57,260,False
+Wayne Ellington,2,1,41,1,Jump Shot,25,-228,108,False
+Wayne Ellington,3,8,42,1,Jump Shot,23,-230,55,False
+Wayne Ellington,3,10,48,1,Jump Shot,25,210,139,False
+Wayne Ellington,2,0,0,0,Jump Shot,24,-216,124,False
+Wayne Ellington,1,0,3,0,Jump Shot,23,230,35,False
+Wayne Ellington,2,5,54,1,Jump Shot,23,-225,68,False
+Wayne Ellington,4,11,3,0,Jump Shot,25,187,174,False
+Wayne Ellington,4,7,36,1,Jump Shot,25,198,158,False
+Wayne Ellington,2,8,34,0,Jump Shot,25,116,226,False
+Wayne Ellington,1,5,34,1,Jump Shot,25,191,171,False
+Wayne Ellington,4,1,17,1,Jump Shot,23,-232,11,False
+Wayne Ellington,2,10,20,0,Jump Shot,16,-161,-10,True
+Wayne Ellington,2,11,22,0,Jump Shot,28,157,239,False
+Wayne Ellington,4,3,21,0,Jump Shot,26,-63,257,False
+Wayne Ellington,2,9,3,0,Jump Shot,23,235,22,False
+Wayne Ellington,4,10,38,0,Jump Shot,25,-213,131,False
+Wayne Ellington,2,8,19,1,Jump Shot,24,160,183,False
+Wayne Ellington,4,9,17,0,Jump Shot,23,232,54,False
+Wayne Ellington,1,0,31,0,Jump Shot,26,43,262,False
+Wayne Ellington,1,2,19,1,Jump Shot,25,159,200,False
+Wayne Ellington,2,9,20,0,Jump Shot,23,-227,45,False
+Wayne Ellington,2,11,36,0,Jump Shot,24,239,55,False
+Wayne Ellington,1,2,54,1,Jump Shot,23,-234,-15,False
+Wayne Ellington,3,4,24,0,Jump Shot,24,106,218,False
+Wayne Ellington,1,6,20,1,Jump Shot,25,149,209,False
+Wayne Ellington,2,7,34,1,Jump Shot,25,-186,180,False
+Wayne Ellington,4,5,56,1,Jump Shot,25,147,209,False
+Wayne Ellington,2,11,22,0,Jump Shot,26,-136,230,False
+Wayne Ellington,3,2,2,0,Jump Shot,25,-46,247,False
+Wayne Ellington,3,6,50,0,Jump Shot,25,-124,220,False
+Wayne Ellington,3,5,32,0,Jump Shot,25,168,195,False
+Wayne Ellington,3,3,30,1,Jump Shot,26,38,266,False
+Wayne Ellington,1,2,51,0,Jump Shot,25,-145,215,False
+Wayne Ellington,1,0,13,1,Jump Shot,24,172,175,False
+Wayne Ellington,2,6,42,0,Jump Shot,26,-111,241,False
+Wayne Ellington,1,1,1,1,Jump Shot,28,15,283,False
+Wayne Ellington,3,1,15,0,Jump Shot,25,-149,204,False
+Wayne Ellington,1,3,5,1,Jump Shot,25,118,223,False
+Wayne Ellington,1,3,28,1,Jump Shot,23,231,23,False
+Wayne Ellington,2,0,51,1,Jump Shot,22,-228,-19,False
+Wayne Ellington,4,4,53,0,Jump Shot,25,-101,234,False
+Wayne Ellington,3,2,34,1,Jump Shot,25,107,232,False
+Wayne Ellington,4,0,5,1,Jump Shot,26,-2,261,False
+Wayne Ellington,2,8,38,0,Jump Shot,24,179,174,False
+Wayne Ellington,4,6,20,0,Jump Shot,24,-129,204,False
+Wayne Ellington,3,2,11,1,Jump Shot,23,-68,220,True
+Wayne Ellington,3,4,3,1,Jump Shot,24,-169,173,False
+Wayne Ellington,3,2,39,0,Jump Shot,23,93,220,False
+Wayne Ellington,1,0,44,1,Jump Shot,23,232,4,False
+Wayne Ellington,2,11,20,0,Jump Shot,24,-168,185,False
+Wayne Ellington,4,8,48,0,Jump Shot,24,-204,143,False
+Wayne Ellington,2,8,4,0,Jump Shot,24,-158,192,False
+Wayne Ellington,4,6,45,1,Jump Shot,25,203,148,False
+Wayne Ellington,2,7,53,1,Jump Shot,23,232,20,False
+Wayne Ellington,2,4,52,1,Jump Shot,24,-184,169,False
+Wayne Ellington,2,11,4,0,Jump Shot,23,-233,-11,False
+Wayne Ellington,4,2,18,0,Jump Shot,23,-226,65,False
+Wayne Ellington,4,4,53,0,Jump Shot,25,-54,251,False
+Wayne Ellington,1,1,41,1,Jump Shot,22,-223,53,False
+Wayne Ellington,4,2,50,0,Jump Shot,25,-29,252,False
+Wayne Ellington,3,2,17,0,Jump Shot,25,-195,162,False
+Wayne Ellington,4,11,37,0,Jump Shot,23,-231,38,False
+Wayne Ellington,4,8,39,0,Jump Shot,23,233,54,False
+Wayne Ellington,2,11,47,1,Jump Shot,24,-107,220,False
+Wayne Ellington,4,10,13,0,Jump Shot,23,222,73,False
+Wayne Ellington,2,10,8,1,Jump Shot,23,229,48,False
+Wayne Ellington,1,0,15,1,Jump Shot,23,231,36,False
+Wayne Ellington,2,5,41,0,Jump Shot,25,143,206,False
+Wayne Ellington,2,7,22,0,Jump Shot,25,106,229,False
+Wayne Ellington,2,6,41,1,Jump Shot,26,144,227,False
+Wayne Ellington,4,10,24,0,Jump Shot,23,232,32,False
+Wayne Ellington,4,10,54,0,Jump Shot,25,-217,134,False
+Wayne Ellington,4,2,18,0,Jump Shot,23,233,-9,False
+Wayne Ellington,1,4,22,0,Jump Shot,26,-9,260,False
+Wayne Ellington,2,6,39,0,Jump Shot,26,96,245,False
+Wayne Ellington,2,9,50,1,Jump Shot,24,-154,195,False
+Wayne Ellington,4,5,53,0,Jump Shot,25,-51,254,False
+Wayne Ellington,4,11,40,0,Jump Shot,28,-110,264,False
+Wayne Ellington,1,3,3,0,Jump Shot,28,190,211,False
+Wayne Ellington,4,10,39,0,Jump Shot,24,183,168,False
+Wayne Ellington,1,0,7,0,Jump Shot,22,-221,-8,False
+Wayne Ellington,2,10,52,1,Jump Shot,25,-197,160,False
+Wayne Ellington,2,3,55,0,Jump Shot,25,97,233,False
+Wayne Ellington,1,0,22,0,Jump Shot,25,-130,221,False
+Wayne Ellington,3,2,29,0,Jump Shot,22,-220,-7,False
+Wayne Ellington,4,2,59,1,Jump Shot,22,-226,-12,False
+Wayne Ellington,2,7,30,1,Jump Shot,25,163,191,False
+Wayne Ellington,4,8,13,1,Jump Shot,25,60,243,False
+Wayne Ellington,2,8,33,1,Jump Shot,26,-214,155,False
+Wayne Ellington,2,9,36,1,Jump Shot,26,-99,244,False
+Wayne Ellington,4,6,22,1,Jump Shot,22,229,-1,False
+Wayne Ellington,4,8,20,1,Jump Shot,24,218,113,False
+Wayne Ellington,4,4,2,0,Jump Shot,22,229,0,False
+Wayne Ellington,1,0,32,1,Jump Shot,25,97,232,False
+Wayne Ellington,4,4,58,1,Jump Shot,23,230,46,False
+Wayne Ellington,4,6,50,0,Jump Shot,27,144,234,False
+Wayne Ellington,2,7,0,1,Jump Shot,23,231,20,False
+Wayne Ellington,2,8,27,0,Jump Shot,23,-231,-9,False
+Wayne Ellington,2,8,25,0,Jump Shot,25,-169,197,False
+Wayne Ellington,4,6,5,1,Layup Shot,1,-9,16,True
+Wayne Ellington,4,3,25,1,Layup Shot,1,12,15,True
+Wayne Ellington,4,6,22,0,Layup Shot,1,11,5,True
+Wayne Ellington,4,5,31,1,Layup Shot,1,-17,6,True
+Wayne Ellington,4,1,39,1,Layup Shot,2,-23,15,True
+Wayne Ellington,3,3,12,0,Layup Shot,4,-2,41,True
+Wayne Ellington,2,7,32,0,Layup Shot,2,28,6,True
+Wayne Ellington,2,6,32,1,Layup Shot,2,14,21,True
+Wayne Ellington,4,6,56,0,Layup Shot,0,2,6,True
+Wayne Ellington,2,2,54,0,Layup Shot,3,17,34,True
+Wayne Ellington,2,5,38,0,Layup Shot,2,-14,15,True
+Wayne Ellington,4,0,0,1,Layup Shot,0,3,2,True
+Wayne Ellington,4,10,6,1,Pullup Jump shot,26,73,254,False
+Wayne Ellington,3,1,30,0,Pullup Jump shot,25,9,257,False
+Wayne Ellington,2,8,26,0,Pullup Jump shot,25,-156,198,False
+Wayne Ellington,1,1,44,0,Pullup Jump shot,25,-130,225,False
+Wayne Ellington,2,0,54,1,Pullup Jump shot,24,206,139,False
+Wayne Ellington,2,3,58,0,Pullup Jump shot,26,-196,174,False
+Wayne Ellington,4,4,19,1,Pullup Jump shot,23,-230,54,False
+Wayne Ellington,2,10,51,0,Pullup Jump shot,21,141,160,True
+Wayne Ellington,1,0,0,0,Pullup Jump shot,16,7,168,True
+Wayne Ellington,1,3,44,0,Pullup Jump shot,26,-181,195,False
+Wayne Ellington,2,5,18,0,Pullup Jump shot,14,84,116,True
+Wayne Ellington,1,4,44,1,Pullup Jump shot,12,95,85,True
+Wayne Ellington,2,11,26,1,Pullup Jump shot,15,6,159,True
+Wayne Ellington,2,8,6,1,Pullup Jump shot,18,117,148,True
+Wayne Ellington,2,1,30,0,Pullup Jump shot,24,-221,104,False
+Wayne Ellington,2,6,55,0,Pullup Jump shot,20,78,187,True
+Wayne Ellington,4,3,28,1,Pullup Jump shot,21,0,215,True
+Wayne Ellington,3,3,42,0,Pullup Jump shot,23,-226,71,False
+Wayne Ellington,2,10,13,0,Pullup Jump shot,26,72,255,False
+Wayne Ellington,1,5,4,0,Pullup Jump shot,27,8,277,False
+Wayne Ellington,4,8,42,1,Pullup Jump shot,25,-176,180,False
+Wayne Ellington,2,7,14,1,Pullup Jump shot,22,-222,37,False
+Wayne Ellington,3,0,59,1,Pullup Jump shot,23,-234,25,False
+Wayne Ellington,4,0,10,0,Pullup Jump shot,28,-131,253,False
+Wayne Ellington,4,8,12,0,Pullup Jump shot,20,-111,172,True
+Wayne Ellington,4,10,6,1,Pullup Jump shot,24,23,239,False
+Wayne Ellington,2,2,39,0,Pullup Jump shot,18,188,-1,True
+Wayne Ellington,1,6,3,0,Pullup Jump shot,27,143,239,False
+Wayne Ellington,4,10,20,1,Pullup Jump shot,26,-124,229,False
+Wayne Ellington,2,9,16,1,Pullup Jump shot,17,94,148,True
+Wayne Ellington,4,11,49,0,Pullup Jump shot,26,-67,258,False
+Wayne Ellington,2,1,32,0,Pullup Jump shot,17,176,32,True
+Wayne Ellington,2,9,55,0,Pullup Jump shot,8,-2,88,True
+Wayne Ellington,1,5,41,0,Pullup Jump shot,24,-39,243,False
+Wayne Ellington,2,8,5,1,Pullup Jump shot,20,-80,193,True
+Wayne Ellington,3,2,53,0,Pullup Jump shot,24,-101,224,False
+Wayne Ellington,4,0,43,1,Pullup Jump shot,27,73,264,False
+Wayne Ellington,4,10,49,1,Pullup Jump shot,18,133,135,True
+Wayne Ellington,4,1,18,0,Pullup Jump shot,14,-63,130,True
+Wayne Ellington,2,3,21,1,Pullup Jump shot,15,96,127,True
+Wayne Ellington,1,3,11,0,Pullup Jump shot,11,106,52,True
+Wayne Ellington,1,3,8,1,Pullup Jump shot,25,143,214,False
+Wayne Ellington,1,1,4,0,Pullup Jump shot,25,-122,222,False
+Wayne Ellington,3,1,11,0,Pullup Jump shot,23,174,165,False
+Wayne Ellington,3,2,12,0,Pullup Jump shot,25,225,115,False
+Wayne Ellington,4,5,57,1,Pullup Jump shot,25,-105,236,False
+Wayne Ellington,3,3,26,1,Reverse Layup Shot,0,4,2,True
+Wayne Ellington,3,1,46,1,Reverse Layup Shot,1,9,6,True
+Wayne Ellington,4,8,18,1,Running Dunk Shot,0,-5,1,True
+Wayne Ellington,2,4,6,0,Running Dunk Shot,2,-16,21,True
+Wayne Ellington,2,7,2,1,Running Dunk Shot,0,-2,-1,True
+Wayne Ellington,1,2,24,1,Running Jump Shot,24,195,151,False
+Wayne Ellington,4,9,28,0,Running Jump Shot,24,175,178,False
+Wayne Ellington,3,1,45,1,Running Jump Shot,23,229,51,False
+Wayne Ellington,4,7,52,1,Running Layup Shot,1,-4,17,True
+Wayne Ellington,2,6,21,1,Running Layup Shot,0,-3,3,True
+Wayne Ellington,2,6,9,1,Running Layup Shot,1,14,10,True
+Wayne Ellington,2,11,34,1,Running Layup Shot,3,25,22,True
+Wayne Ellington,4,9,37,1,Running Layup Shot,0,-5,-3,True
+Wayne Ellington,2,8,30,1,Running Layup Shot,0,-3,4,True
+Wayne Ellington,2,9,6,1,Running Layup Shot,0,3,0,True
+Wayne Ellington,1,2,11,0,Running Layup Shot,2,-11,21,True
+Wayne Ellington,3,0,29,1,Running Layup Shot,3,-6,37,True
+Wayne Ellington,2,9,1,1,Step Back Jump shot,26,214,162,False
+Wayne Ellington,2,10,35,0,Step Back Jump shot,26,0,260,False
+Wayne Ellington,4,6,2,1,Step Back Jump shot,16,-150,68,True
+Wayne Ellington,4,5,19,1,Step Back Jump shot,24,-67,238,False
+Wayne Ellington,2,8,11,1,Step Back Jump shot,22,-228,-1,False
+Wayne Ellington,4,8,38,0,Step Back Jump shot,26,0,262,False
+Wayne Ellington,2,7,48,0,Turnaround Jump Shot,27,131,242,False
+Wayne Ellington,2,4,26,0,Turnaround Jump Shot,26,206,169,False
+Wayne Ellington,4,8,4,1,Turnaround Jump Shot,26,-154,211,False
+Wayne Ellington,4,5,4,0,Turnaround Jump Shot,26,-149,217,False

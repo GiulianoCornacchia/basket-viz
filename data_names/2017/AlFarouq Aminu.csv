@@ -1,0 +1,529 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+AlFarouq Aminu,4,4,51,1,Cutting Dunk Shot,0,7,3,True
+AlFarouq Aminu,1,11,35,1,Cutting Dunk Shot,0,8,5,True
+AlFarouq Aminu,4,1,56,1,Cutting Dunk Shot,1,-1,15,True
+AlFarouq Aminu,4,2,53,1,Cutting Dunk Shot,0,-2,8,True
+AlFarouq Aminu,2,2,12,1,Cutting Dunk Shot,0,-3,7,True
+AlFarouq Aminu,3,9,1,1,Cutting Dunk Shot,1,-5,15,True
+AlFarouq Aminu,1,10,30,1,Cutting Dunk Shot,0,-2,-1,True
+AlFarouq Aminu,3,8,26,1,Cutting Dunk Shot,0,-2,0,True
+AlFarouq Aminu,3,6,23,1,Cutting Layup Shot,1,12,14,True
+AlFarouq Aminu,4,5,49,0,Cutting Layup Shot,0,6,3,True
+AlFarouq Aminu,2,4,0,1,Cutting Layup Shot,1,9,17,True
+AlFarouq Aminu,4,9,41,0,Cutting Layup Shot,1,8,11,True
+AlFarouq Aminu,3,9,21,0,Cutting Layup Shot,2,-8,19,True
+AlFarouq Aminu,1,11,45,1,Driving Dunk Shot,0,-3,7,True
+AlFarouq Aminu,1,10,16,1,Driving Dunk Shot,0,-3,-1,True
+AlFarouq Aminu,1,7,27,1,Driving Dunk Shot,1,8,6,True
+AlFarouq Aminu,3,6,55,1,Driving Dunk Shot,0,0,4,True
+AlFarouq Aminu,2,1,16,1,Driving Dunk Shot,0,-6,7,True
+AlFarouq Aminu,1,8,31,1,Driving Finger Roll Layup Shot,2,-23,17,True
+AlFarouq Aminu,1,5,16,1,Driving Finger Roll Layup Shot,2,3,20,True
+AlFarouq Aminu,1,10,20,1,Driving Finger Roll Layup Shot,1,-3,11,True
+AlFarouq Aminu,4,3,57,1,Driving Finger Roll Layup Shot,1,-16,3,True
+AlFarouq Aminu,3,9,50,0,Driving Floating Bank Jump Shot,5,30,43,True
+AlFarouq Aminu,1,4,33,1,Driving Floating Bank Jump Shot,2,25,12,True
+AlFarouq Aminu,2,5,12,1,Driving Floating Bank Jump Shot,4,15,42,True
+AlFarouq Aminu,1,10,46,0,Driving Floating Bank Jump Shot,9,2,90,True
+AlFarouq Aminu,3,8,5,1,Driving Floating Bank Jump Shot,4,-30,29,True
+AlFarouq Aminu,2,1,4,0,Driving Floating Jump Shot,6,2,68,True
+AlFarouq Aminu,2,1,57,1,Driving Floating Jump Shot,6,-43,46,True
+AlFarouq Aminu,2,4,2,0,Driving Floating Jump Shot,18,84,162,True
+AlFarouq Aminu,3,11,21,0,Driving Floating Jump Shot,11,105,55,True
+AlFarouq Aminu,2,0,48,1,Driving Floating Jump Shot,8,10,84,True
+AlFarouq Aminu,1,5,24,0,Driving Floating Jump Shot,7,-19,68,True
+AlFarouq Aminu,1,7,45,1,Driving Floating Jump Shot,5,47,37,True
+AlFarouq Aminu,3,11,17,0,Driving Floating Jump Shot,14,-14,145,True
+AlFarouq Aminu,2,10,45,1,Driving Floating Jump Shot,4,-18,44,True
+AlFarouq Aminu,4,4,8,0,Driving Floating Jump Shot,5,-3,51,True
+AlFarouq Aminu,3,10,9,0,Driving Floating Jump Shot,9,77,50,True
+AlFarouq Aminu,1,8,51,0,Driving Floating Jump Shot,6,-19,60,True
+AlFarouq Aminu,3,9,54,1,Driving Floating Jump Shot,3,-33,8,True
+AlFarouq Aminu,1,5,14,1,Driving Floating Jump Shot,6,61,5,True
+AlFarouq Aminu,2,7,7,1,Driving Floating Jump Shot,11,3,119,True
+AlFarouq Aminu,2,1,20,0,Driving Floating Jump Shot,11,-44,107,True
+AlFarouq Aminu,1,5,54,1,Driving Floating Jump Shot,5,48,20,True
+AlFarouq Aminu,1,4,13,0,Driving Hook Shot,6,3,65,True
+AlFarouq Aminu,4,6,25,0,Driving Hook Shot,7,60,40,True
+AlFarouq Aminu,3,8,28,0,Driving Hook Shot,6,-5,60,True
+AlFarouq Aminu,2,5,43,1,Driving Layup Shot,1,1,11,True
+AlFarouq Aminu,3,9,11,0,Driving Layup Shot,3,7,39,True
+AlFarouq Aminu,2,5,13,0,Driving Layup Shot,2,6,21,True
+AlFarouq Aminu,3,4,54,0,Driving Layup Shot,2,14,24,True
+AlFarouq Aminu,1,10,18,1,Driving Layup Shot,1,-12,7,True
+AlFarouq Aminu,1,6,36,1,Driving Layup Shot,1,-6,13,True
+AlFarouq Aminu,1,6,14,0,Driving Layup Shot,2,9,20,True
+AlFarouq Aminu,3,11,43,0,Driving Layup Shot,1,-16,6,True
+AlFarouq Aminu,1,3,11,0,Driving Layup Shot,4,5,46,True
+AlFarouq Aminu,1,4,48,0,Driving Layup Shot,2,-20,16,True
+AlFarouq Aminu,3,8,28,1,Driving Layup Shot,1,11,9,True
+AlFarouq Aminu,1,7,41,0,Driving Layup Shot,0,6,7,True
+AlFarouq Aminu,1,9,9,0,Driving Layup Shot,7,-2,76,True
+AlFarouq Aminu,3,8,3,1,Driving Layup Shot,5,44,24,True
+AlFarouq Aminu,3,7,14,0,Driving Layup Shot,2,-5,22,True
+AlFarouq Aminu,4,8,11,0,Driving Layup Shot,6,14,59,True
+AlFarouq Aminu,3,10,17,1,Driving Layup Shot,0,4,4,True
+AlFarouq Aminu,4,7,33,1,Driving Layup Shot,1,-8,11,True
+AlFarouq Aminu,3,7,50,1,Driving Layup Shot,1,16,5,True
+AlFarouq Aminu,4,10,13,0,Driving Layup Shot,2,-27,3,True
+AlFarouq Aminu,1,8,1,0,Driving Layup Shot,0,-8,1,True
+AlFarouq Aminu,3,9,49,0,Driving Layup Shot,3,5,33,True
+AlFarouq Aminu,3,8,0,0,Driving Layup Shot,1,-16,10,True
+AlFarouq Aminu,3,6,33,0,Driving Layup Shot,1,2,14,True
+AlFarouq Aminu,1,10,12,1,Driving Layup Shot,1,3,14,True
+AlFarouq Aminu,1,9,57,0,Driving Layup Shot,2,-15,16,True
+AlFarouq Aminu,1,3,56,0,Driving Layup Shot,3,10,29,True
+AlFarouq Aminu,4,1,52,0,Driving Layup Shot,1,-14,0,True
+AlFarouq Aminu,3,1,39,1,Driving Layup Shot,1,5,15,True
+AlFarouq Aminu,4,5,57,0,Driving Layup Shot,2,24,17,True
+AlFarouq Aminu,1,11,42,0,Driving Layup Shot,2,17,17,True
+AlFarouq Aminu,1,7,5,0,Driving Layup Shot,1,11,16,True
+AlFarouq Aminu,2,3,48,1,Driving Reverse Layup Shot,0,-5,5,True
+AlFarouq Aminu,1,10,33,0,Driving Reverse Layup Shot,2,-22,10,True
+AlFarouq Aminu,1,10,10,1,Dunk Shot,1,10,-3,True
+AlFarouq Aminu,3,9,54,1,Dunk Shot,0,3,8,True
+AlFarouq Aminu,2,0,43,1,Dunk Shot,0,-5,1,True
+AlFarouq Aminu,2,0,2,0,Dunk Shot,4,-43,23,True
+AlFarouq Aminu,3,8,35,1,Dunk Shot,3,25,19,True
+AlFarouq Aminu,4,8,42,0,Fadeaway Jump Shot,17,145,89,True
+AlFarouq Aminu,4,0,6,1,Floating Jump shot,11,9,117,True
+AlFarouq Aminu,1,5,44,1,Floating Jump shot,7,-32,68,True
+AlFarouq Aminu,4,2,34,0,Floating Jump shot,10,7,103,True
+AlFarouq Aminu,3,7,54,1,Floating Jump shot,7,-6,73,True
+AlFarouq Aminu,1,9,20,1,Floating Jump shot,8,-11,88,True
+AlFarouq Aminu,3,5,51,0,Floating Jump shot,10,107,4,True
+AlFarouq Aminu,2,3,11,1,Floating Jump shot,8,89,0,True
+AlFarouq Aminu,1,8,57,0,Floating Jump shot,4,-48,7,True
+AlFarouq Aminu,3,11,5,0,Floating Jump shot,11,-109,-25,True
+AlFarouq Aminu,1,3,51,0,Floating Jump shot,5,-16,55,True
+AlFarouq Aminu,4,5,17,0,Floating Jump shot,8,1,87,True
+AlFarouq Aminu,3,8,52,0,Floating Jump shot,7,-33,71,True
+AlFarouq Aminu,1,6,58,1,Hook Bank Shot,3,22,26,True
+AlFarouq Aminu,1,11,31,0,Hook Shot,5,9,50,True
+AlFarouq Aminu,2,2,46,0,Hook Shot,3,-30,23,True
+AlFarouq Aminu,3,1,52,1,Hook Shot,3,-31,20,True
+AlFarouq Aminu,2,3,2,0,Jump Bank Shot,25,149,204,False
+AlFarouq Aminu,4,2,53,0,Jump Bank Shot,5,53,9,True
+AlFarouq Aminu,1,9,38,0,Jump Bank Shot,25,96,232,False
+AlFarouq Aminu,1,3,53,0,Jump Bank Shot,19,-70,184,True
+AlFarouq Aminu,3,6,16,0,Jump Bank Shot,5,-18,52,True
+AlFarouq Aminu,3,6,36,0,Jump Shot,23,232,53,False
+AlFarouq Aminu,3,5,20,0,Jump Shot,25,-193,164,False
+AlFarouq Aminu,3,3,21,0,Jump Shot,25,-230,117,False
+AlFarouq Aminu,1,8,54,1,Jump Shot,23,-231,17,False
+AlFarouq Aminu,3,5,10,0,Jump Shot,25,-58,247,False
+AlFarouq Aminu,1,9,20,0,Jump Shot,24,-161,191,False
+AlFarouq Aminu,3,11,43,0,Jump Shot,19,-138,143,True
+AlFarouq Aminu,4,4,47,1,Jump Shot,26,-101,245,False
+AlFarouq Aminu,2,1,42,1,Jump Shot,22,227,-4,False
+AlFarouq Aminu,4,5,15,0,Jump Shot,26,145,218,False
+AlFarouq Aminu,3,6,5,0,Jump Shot,18,-113,146,True
+AlFarouq Aminu,3,8,8,0,Jump Shot,24,-21,246,False
+AlFarouq Aminu,1,5,39,0,Jump Shot,26,-35,262,False
+AlFarouq Aminu,1,9,45,0,Jump Shot,27,-110,256,False
+AlFarouq Aminu,1,8,27,1,Jump Shot,22,225,6,False
+AlFarouq Aminu,2,5,14,0,Jump Shot,24,167,184,False
+AlFarouq Aminu,4,3,14,0,Jump Shot,27,142,237,False
+AlFarouq Aminu,3,6,6,0,Jump Shot,27,112,250,False
+AlFarouq Aminu,2,3,11,0,Jump Shot,26,-63,253,False
+AlFarouq Aminu,2,3,42,1,Jump Shot,23,231,26,False
+AlFarouq Aminu,3,7,46,1,Jump Shot,26,145,225,False
+AlFarouq Aminu,4,8,53,0,Jump Shot,28,159,231,False
+AlFarouq Aminu,3,5,25,1,Jump Shot,26,187,193,False
+AlFarouq Aminu,3,8,51,1,Jump Shot,25,145,209,False
+AlFarouq Aminu,3,4,26,1,Jump Shot,25,133,212,False
+AlFarouq Aminu,3,11,31,0,Jump Shot,26,-125,238,False
+AlFarouq Aminu,2,6,27,0,Jump Shot,25,185,174,False
+AlFarouq Aminu,2,4,5,1,Jump Shot,26,-131,236,False
+AlFarouq Aminu,4,4,23,0,Jump Shot,26,238,117,False
+AlFarouq Aminu,4,2,42,0,Jump Shot,23,230,67,False
+AlFarouq Aminu,2,1,35,0,Jump Shot,26,150,215,False
+AlFarouq Aminu,3,4,14,0,Jump Shot,19,7,198,True
+AlFarouq Aminu,2,2,17,1,Jump Shot,26,-119,236,False
+AlFarouq Aminu,1,7,18,0,Jump Shot,25,167,191,False
+AlFarouq Aminu,2,4,52,0,Jump Shot,22,226,7,False
+AlFarouq Aminu,3,1,19,1,Jump Shot,23,225,80,False
+AlFarouq Aminu,1,10,49,0,Jump Shot,23,226,67,False
+AlFarouq Aminu,3,10,3,1,Jump Shot,26,35,258,False
+AlFarouq Aminu,2,1,10,1,Jump Shot,24,106,218,False
+AlFarouq Aminu,3,8,56,1,Jump Shot,24,-36,247,False
+AlFarouq Aminu,1,5,18,0,Jump Shot,25,-150,200,False
+AlFarouq Aminu,3,9,42,0,Jump Shot,24,130,206,False
+AlFarouq Aminu,4,2,59,0,Jump Shot,24,186,158,False
+AlFarouq Aminu,1,9,55,0,Jump Shot,25,-160,199,False
+AlFarouq Aminu,4,6,31,0,Jump Shot,24,-4,245,False
+AlFarouq Aminu,4,4,3,0,Jump Shot,25,-151,209,False
+AlFarouq Aminu,3,4,44,1,Jump Shot,23,230,0,False
+AlFarouq Aminu,3,8,19,0,Jump Shot,15,-126,83,True
+AlFarouq Aminu,1,6,45,0,Jump Shot,22,-225,37,False
+AlFarouq Aminu,4,3,33,0,Jump Shot,24,179,171,False
+AlFarouq Aminu,3,8,49,0,Jump Shot,25,25,252,False
+AlFarouq Aminu,2,5,32,0,Jump Shot,25,-170,186,False
+AlFarouq Aminu,3,11,23,0,Jump Shot,24,120,218,False
+AlFarouq Aminu,2,4,41,0,Jump Shot,24,55,239,False
+AlFarouq Aminu,3,8,18,1,Jump Shot,22,224,-12,False
+AlFarouq Aminu,3,7,27,0,Jump Shot,25,38,256,False
+AlFarouq Aminu,2,5,36,1,Jump Shot,22,225,16,False
+AlFarouq Aminu,3,0,59,0,Jump Shot,22,-222,-15,False
+AlFarouq Aminu,2,2,48,0,Jump Shot,25,-154,207,False
+AlFarouq Aminu,1,6,45,0,Jump Shot,21,-182,118,True
+AlFarouq Aminu,1,8,14,1,Jump Shot,24,183,163,False
+AlFarouq Aminu,1,8,47,0,Jump Shot,24,188,154,False
+AlFarouq Aminu,4,3,45,0,Jump Shot,25,169,195,False
+AlFarouq Aminu,2,1,17,0,Jump Shot,25,111,226,False
+AlFarouq Aminu,3,8,35,0,Jump Shot,24,57,242,False
+AlFarouq Aminu,4,1,54,0,Jump Shot,26,52,255,False
+AlFarouq Aminu,2,4,18,0,Jump Shot,25,26,254,False
+AlFarouq Aminu,2,0,1,0,Jump Shot,25,-196,159,False
+AlFarouq Aminu,1,7,47,0,Jump Shot,24,18,249,False
+AlFarouq Aminu,1,5,26,1,Jump Shot,25,62,244,False
+AlFarouq Aminu,4,1,12,1,Jump Shot,25,-192,162,False
+AlFarouq Aminu,2,5,6,1,Jump Shot,25,71,244,False
+AlFarouq Aminu,1,9,4,0,Jump Shot,22,-224,4,False
+AlFarouq Aminu,2,2,34,1,Jump Shot,25,173,190,False
+AlFarouq Aminu,1,11,38,0,Jump Shot,24,116,215,False
+AlFarouq Aminu,3,10,29,0,Jump Shot,22,-222,8,False
+AlFarouq Aminu,3,10,16,0,Jump Shot,25,177,179,False
+AlFarouq Aminu,4,6,19,0,Jump Shot,26,28,260,False
+AlFarouq Aminu,2,1,13,0,Jump Shot,26,-153,212,False
+AlFarouq Aminu,3,11,0,0,Jump Shot,20,188,74,True
+AlFarouq Aminu,2,6,29,0,Jump Shot,25,149,210,False
+AlFarouq Aminu,2,0,48,0,Jump Shot,23,-238,5,False
+AlFarouq Aminu,2,5,2,0,Jump Shot,25,-125,220,False
+AlFarouq Aminu,1,7,16,0,Jump Shot,25,99,232,False
+AlFarouq Aminu,3,9,5,0,Jump Shot,23,233,1,False
+AlFarouq Aminu,2,7,0,0,Jump Shot,9,51,78,True
+AlFarouq Aminu,2,3,59,0,Jump Shot,27,-22,270,False
+AlFarouq Aminu,3,6,26,0,Jump Shot,25,226,125,False
+AlFarouq Aminu,1,9,27,0,Jump Shot,26,75,256,False
+AlFarouq Aminu,2,8,11,0,Jump Shot,26,68,259,False
+AlFarouq Aminu,4,7,11,0,Jump Shot,25,-152,201,False
+AlFarouq Aminu,1,11,45,0,Jump Shot,26,158,214,False
+AlFarouq Aminu,2,0,26,1,Jump Shot,23,228,43,False
+AlFarouq Aminu,2,1,26,1,Jump Shot,23,-235,17,False
+AlFarouq Aminu,4,6,41,0,Jump Shot,27,-141,236,False
+AlFarouq Aminu,1,4,0,0,Jump Shot,26,183,191,False
+AlFarouq Aminu,1,7,49,1,Jump Shot,18,5,180,True
+AlFarouq Aminu,3,8,23,0,Jump Shot,25,-5,259,False
+AlFarouq Aminu,1,7,7,1,Jump Shot,25,127,219,False
+AlFarouq Aminu,4,5,26,0,Jump Shot,24,49,243,False
+AlFarouq Aminu,2,3,35,0,Jump Shot,25,152,200,False
+AlFarouq Aminu,4,1,25,0,Jump Shot,22,222,2,False
+AlFarouq Aminu,1,2,58,1,Jump Shot,24,121,218,False
+AlFarouq Aminu,4,6,41,0,Jump Shot,24,135,209,False
+AlFarouq Aminu,2,1,24,0,Jump Shot,24,144,197,False
+AlFarouq Aminu,3,10,11,1,Jump Shot,22,226,32,False
+AlFarouq Aminu,4,2,42,0,Jump Shot,24,-27,246,False
+AlFarouq Aminu,1,7,42,0,Jump Shot,22,-225,29,False
+AlFarouq Aminu,1,1,21,1,Jump Shot,23,232,11,False
+AlFarouq Aminu,3,9,12,1,Jump Shot,23,-221,77,False
+AlFarouq Aminu,1,2,33,1,Jump Shot,24,6,247,False
+AlFarouq Aminu,1,11,1,1,Jump Shot,24,231,69,False
+AlFarouq Aminu,3,5,51,1,Jump Shot,22,-223,6,False
+AlFarouq Aminu,1,11,36,1,Jump Shot,25,-115,228,False
+AlFarouq Aminu,1,10,4,0,Jump Shot,26,127,231,False
+AlFarouq Aminu,1,1,55,0,Jump Shot,22,-225,8,False
+AlFarouq Aminu,4,3,58,1,Jump Shot,24,-245,12,False
+AlFarouq Aminu,1,3,20,0,Jump Shot,25,224,119,False
+AlFarouq Aminu,1,6,15,1,Jump Shot,26,-18,261,False
+AlFarouq Aminu,4,4,55,1,Jump Shot,26,-175,197,False
+AlFarouq Aminu,3,10,56,0,Jump Shot,26,-32,259,False
+AlFarouq Aminu,1,4,28,0,Jump Shot,26,111,246,False
+AlFarouq Aminu,2,3,14,1,Jump Shot,23,-231,16,False
+AlFarouq Aminu,4,1,13,0,Jump Shot,23,225,67,False
+AlFarouq Aminu,4,3,37,1,Jump Shot,23,224,64,False
+AlFarouq Aminu,1,6,48,0,Jump Shot,24,173,168,False
+AlFarouq Aminu,3,10,14,0,Jump Shot,25,132,218,False
+AlFarouq Aminu,1,10,43,0,Jump Shot,22,228,1,False
+AlFarouq Aminu,1,6,26,1,Jump Shot,23,-231,-17,False
+AlFarouq Aminu,3,0,27,0,Jump Shot,18,-115,144,True
+AlFarouq Aminu,2,3,44,0,Jump Shot,26,-106,239,False
+AlFarouq Aminu,4,8,30,0,Jump Shot,22,221,47,False
+AlFarouq Aminu,1,4,20,1,Jump Shot,26,90,245,False
+AlFarouq Aminu,3,7,20,1,Jump Shot,22,224,19,False
+AlFarouq Aminu,2,5,7,0,Jump Shot,22,223,17,False
+AlFarouq Aminu,1,7,23,0,Jump Shot,24,141,206,False
+AlFarouq Aminu,4,4,58,1,Jump Shot,27,77,267,False
+AlFarouq Aminu,4,2,6,0,Jump Shot,24,219,105,False
+AlFarouq Aminu,1,8,37,0,Jump Shot,22,227,21,False
+AlFarouq Aminu,2,4,0,0,Jump Shot,16,-130,106,True
+AlFarouq Aminu,3,6,10,0,Jump Shot,26,-103,240,False
+AlFarouq Aminu,3,4,34,0,Jump Shot,25,-136,214,False
+AlFarouq Aminu,3,7,15,1,Jump Shot,23,229,62,False
+AlFarouq Aminu,1,3,32,0,Jump Shot,26,4,264,False
+AlFarouq Aminu,4,5,1,0,Jump Shot,23,-233,1,False
+AlFarouq Aminu,4,2,39,0,Jump Shot,22,226,14,False
+AlFarouq Aminu,3,6,29,1,Jump Shot,25,116,231,False
+AlFarouq Aminu,4,0,40,0,Jump Shot,7,-43,57,True
+AlFarouq Aminu,1,11,47,1,Jump Shot,26,123,233,False
+AlFarouq Aminu,1,7,6,1,Jump Shot,23,-231,17,False
+AlFarouq Aminu,1,4,28,1,Jump Shot,23,234,9,False
+AlFarouq Aminu,1,9,31,1,Jump Shot,25,58,251,False
+AlFarouq Aminu,3,4,50,0,Jump Shot,25,57,249,False
+AlFarouq Aminu,1,3,55,0,Jump Shot,25,165,194,False
+AlFarouq Aminu,3,5,7,0,Jump Shot,24,241,12,False
+AlFarouq Aminu,2,7,26,0,Jump Shot,7,74,-6,True
+AlFarouq Aminu,4,6,25,0,Jump Shot,6,-2,65,True
+AlFarouq Aminu,5,3,27,1,Jump Shot,23,-230,2,False
+AlFarouq Aminu,2,4,47,0,Jump Shot,24,74,235,False
+AlFarouq Aminu,3,11,2,0,Jump Shot,25,177,178,False
+AlFarouq Aminu,1,4,52,0,Jump Shot,25,-154,199,False
+AlFarouq Aminu,4,4,7,0,Jump Shot,25,161,199,False
+AlFarouq Aminu,3,4,27,0,Jump Shot,24,227,81,False
+AlFarouq Aminu,2,0,11,0,Jump Shot,22,229,11,False
+AlFarouq Aminu,4,0,35,0,Jump Shot,27,-157,222,False
+AlFarouq Aminu,2,0,0,0,Jump Shot,24,-4,248,False
+AlFarouq Aminu,1,11,12,1,Jump Shot,25,-190,171,False
+AlFarouq Aminu,2,3,2,0,Jump Shot,25,-131,216,False
+AlFarouq Aminu,1,9,3,1,Jump Shot,23,231,-15,False
+AlFarouq Aminu,3,5,19,0,Jump Shot,23,-230,-1,False
+AlFarouq Aminu,4,8,33,0,Jump Shot,26,-150,214,False
+AlFarouq Aminu,4,8,3,0,Jump Shot,26,103,242,False
+AlFarouq Aminu,3,5,53,0,Jump Shot,24,-222,99,False
+AlFarouq Aminu,4,6,17,0,Jump Shot,26,22,269,False
+AlFarouq Aminu,4,4,14,0,Jump Shot,24,116,220,False
+AlFarouq Aminu,4,9,41,0,Jump Shot,25,0,252,False
+AlFarouq Aminu,3,6,3,1,Jump Shot,25,-127,220,False
+AlFarouq Aminu,3,11,19,0,Jump Shot,24,-210,132,False
+AlFarouq Aminu,4,0,21,0,Jump Shot,27,-155,231,False
+AlFarouq Aminu,2,0,39,1,Jump Shot,25,-93,234,False
+AlFarouq Aminu,4,7,22,0,Jump Shot,7,68,32,True
+AlFarouq Aminu,2,1,4,0,Jump Shot,12,-5,121,True
+AlFarouq Aminu,4,0,33,0,Jump Shot,26,142,229,False
+AlFarouq Aminu,2,2,8,1,Jump Shot,19,32,188,True
+AlFarouq Aminu,3,11,23,0,Jump Shot,25,-114,232,False
+AlFarouq Aminu,1,4,40,0,Jump Shot,28,-210,191,False
+AlFarouq Aminu,1,4,50,0,Jump Shot,15,-137,80,True
+AlFarouq Aminu,2,0,39,0,Jump Shot,22,225,47,False
+AlFarouq Aminu,2,3,56,0,Jump Shot,8,33,80,True
+AlFarouq Aminu,1,6,10,0,Jump Shot,26,-179,193,False
+AlFarouq Aminu,3,7,17,0,Jump Shot,5,16,48,True
+AlFarouq Aminu,4,11,18,0,Jump Shot,24,-155,188,False
+AlFarouq Aminu,3,2,23,1,Jump Shot,25,105,230,False
+AlFarouq Aminu,3,4,11,0,Jump Shot,24,-97,227,False
+AlFarouq Aminu,4,6,13,0,Jump Shot,22,223,16,False
+AlFarouq Aminu,4,4,30,0,Jump Shot,22,-222,-12,False
+AlFarouq Aminu,2,10,37,1,Jump Shot,24,118,216,False
+AlFarouq Aminu,1,4,24,0,Jump Shot,25,-133,217,False
+AlFarouq Aminu,2,11,43,1,Jump Shot,24,139,204,False
+AlFarouq Aminu,3,9,3,0,Jump Shot,27,30,271,False
+AlFarouq Aminu,2,5,54,0,Jump Shot,22,199,101,True
+AlFarouq Aminu,2,3,13,1,Jump Shot,25,-130,218,False
+AlFarouq Aminu,3,11,7,0,Jump Shot,25,166,190,False
+AlFarouq Aminu,3,10,35,1,Jump Shot,23,226,43,False
+AlFarouq Aminu,2,4,15,0,Jump Shot,5,-1,59,True
+AlFarouq Aminu,4,1,4,0,Jump Shot,23,228,46,False
+AlFarouq Aminu,3,5,45,0,Jump Shot,25,159,201,False
+AlFarouq Aminu,3,9,49,0,Jump Shot,24,-204,129,False
+AlFarouq Aminu,2,0,49,0,Jump Shot,24,95,227,False
+AlFarouq Aminu,3,2,30,0,Jump Shot,22,-228,-2,False
+AlFarouq Aminu,1,3,16,1,Jump Shot,23,-230,14,False
+AlFarouq Aminu,3,3,22,0,Jump Shot,23,-226,59,False
+AlFarouq Aminu,3,7,22,0,Jump Shot,25,-109,230,False
+AlFarouq Aminu,3,5,16,0,Jump Shot,16,-71,145,True
+AlFarouq Aminu,3,5,54,1,Jump Shot,24,224,104,False
+AlFarouq Aminu,2,5,44,1,Jump Shot,24,128,210,False
+AlFarouq Aminu,3,11,40,0,Jump Shot,25,176,185,False
+AlFarouq Aminu,3,11,4,1,Jump Shot,24,-201,132,False
+AlFarouq Aminu,2,1,54,0,Jump Shot,22,223,20,False
+AlFarouq Aminu,1,4,12,0,Jump Shot,26,-18,269,False
+AlFarouq Aminu,3,4,2,1,Jump Shot,26,93,250,False
+AlFarouq Aminu,4,4,27,0,Jump Shot,27,203,182,False
+AlFarouq Aminu,3,2,52,1,Jump Shot,6,25,59,True
+AlFarouq Aminu,1,5,55,1,Jump Shot,22,-226,16,False
+AlFarouq Aminu,4,7,35,1,Jump Shot,23,224,61,False
+AlFarouq Aminu,1,4,54,0,Jump Shot,23,-231,-3,False
+AlFarouq Aminu,2,0,50,1,Jump Shot,25,140,215,False
+AlFarouq Aminu,4,8,3,1,Jump Shot,23,225,59,False
+AlFarouq Aminu,2,1,16,1,Jump Shot,29,176,234,False
+AlFarouq Aminu,3,8,46,0,Jump Shot,25,11,258,False
+AlFarouq Aminu,2,1,47,1,Jump Shot,24,-92,226,False
+AlFarouq Aminu,1,1,47,0,Jump Shot,18,72,173,True
+AlFarouq Aminu,1,2,34,1,Jump Shot,24,-136,208,False
+AlFarouq Aminu,4,9,9,0,Jump Shot,25,-180,181,False
+AlFarouq Aminu,4,11,9,1,Jump Shot,23,228,54,False
+AlFarouq Aminu,1,11,37,0,Jump Shot,23,232,41,False
+AlFarouq Aminu,4,8,52,1,Jump Shot,27,144,231,False
+AlFarouq Aminu,2,0,47,0,Jump Shot,22,-228,5,False
+AlFarouq Aminu,1,7,16,1,Jump Shot,26,-143,223,False
+AlFarouq Aminu,3,3,46,1,Jump Shot,24,-220,110,False
+AlFarouq Aminu,3,11,20,0,Jump Shot,22,-222,-6,False
+AlFarouq Aminu,3,4,28,1,Jump Shot,26,143,218,False
+AlFarouq Aminu,3,4,7,0,Jump Shot,29,76,283,False
+AlFarouq Aminu,1,4,54,1,Jump Shot,24,125,216,False
+AlFarouq Aminu,4,9,12,0,Jump Shot,26,1,269,False
+AlFarouq Aminu,3,7,25,1,Jump Shot,27,126,241,False
+AlFarouq Aminu,1,10,58,0,Jump Shot,25,-148,206,False
+AlFarouq Aminu,4,3,34,1,Jump Shot,23,230,36,False
+AlFarouq Aminu,4,1,28,1,Jump Shot,23,-230,-4,False
+AlFarouq Aminu,2,7,41,1,Jump Shot,25,108,235,False
+AlFarouq Aminu,3,5,52,0,Jump Shot,26,136,225,False
+AlFarouq Aminu,2,2,39,1,Jump Shot,26,-143,223,False
+AlFarouq Aminu,3,4,48,1,Jump Shot,25,119,226,False
+AlFarouq Aminu,4,8,21,1,Jump Shot,25,5,255,False
+AlFarouq Aminu,1,11,41,0,Jump Shot,24,136,201,False
+AlFarouq Aminu,4,3,47,0,Jump Shot,24,-123,211,False
+AlFarouq Aminu,1,7,35,1,Jump Shot,25,90,235,False
+AlFarouq Aminu,3,8,55,0,Jump Shot,25,-2,253,False
+AlFarouq Aminu,4,6,17,0,Jump Shot,25,137,210,False
+AlFarouq Aminu,3,2,47,0,Jump Shot,22,-222,6,False
+AlFarouq Aminu,2,5,5,1,Jump Shot,25,-81,239,False
+AlFarouq Aminu,4,8,47,1,Jump Shot,24,141,198,False
+AlFarouq Aminu,4,6,52,0,Jump Shot,26,147,225,False
+AlFarouq Aminu,3,8,55,1,Jump Shot,22,-226,16,False
+AlFarouq Aminu,4,3,19,0,Jump Shot,25,148,213,False
+AlFarouq Aminu,1,6,51,0,Jump Shot,23,-235,0,False
+AlFarouq Aminu,1,9,41,1,Jump Shot,23,221,68,False
+AlFarouq Aminu,3,8,6,0,Jump Shot,26,40,257,False
+AlFarouq Aminu,2,5,26,0,Jump Shot,25,157,202,False
+AlFarouq Aminu,2,5,32,1,Jump Shot,26,-129,232,False
+AlFarouq Aminu,4,1,12,1,Jump Shot,23,-230,2,False
+AlFarouq Aminu,3,9,46,0,Jump Shot,25,174,181,False
+AlFarouq Aminu,3,10,33,1,Jump Shot,25,-170,194,False
+AlFarouq Aminu,3,4,31,0,Jump Shot,25,-139,216,False
+AlFarouq Aminu,4,3,30,1,Jump Shot,23,-230,-4,False
+AlFarouq Aminu,2,3,25,0,Jump Shot,26,87,248,False
+AlFarouq Aminu,3,10,47,0,Jump Shot,25,-18,257,False
+AlFarouq Aminu,3,8,5,0,Jump Shot,27,115,250,False
+AlFarouq Aminu,2,0,0,0,Jump Shot,28,-95,272,False
+AlFarouq Aminu,1,4,33,0,Jump Shot,24,210,134,False
+AlFarouq Aminu,4,2,33,0,Jump Shot,23,-230,-1,False
+AlFarouq Aminu,3,11,37,1,Jump Shot,23,-232,6,False
+AlFarouq Aminu,4,3,51,0,Jump Shot,22,-225,-2,False
+AlFarouq Aminu,1,10,14,1,Jump Shot,26,-82,253,False
+AlFarouq Aminu,4,1,42,0,Jump Shot,26,11,267,False
+AlFarouq Aminu,2,1,21,1,Jump Shot,25,146,205,False
+AlFarouq Aminu,3,10,42,1,Jump Shot,22,-222,-11,False
+AlFarouq Aminu,1,8,14,0,Jump Shot,27,120,242,False
+AlFarouq Aminu,1,9,11,1,Jump Shot,26,162,211,False
+AlFarouq Aminu,2,7,19,0,Jump Shot,26,195,180,False
+AlFarouq Aminu,3,7,0,1,Jump Shot,25,-5,251,False
+AlFarouq Aminu,4,5,47,0,Jump Shot,25,2,258,False
+AlFarouq Aminu,3,7,32,1,Jump Shot,22,228,17,False
+AlFarouq Aminu,3,6,20,0,Jump Shot,23,-232,-3,False
+AlFarouq Aminu,2,5,17,0,Jump Shot,24,-21,245,False
+AlFarouq Aminu,4,8,21,1,Jump Shot,25,10,254,False
+AlFarouq Aminu,4,5,3,0,Jump Shot,22,-226,10,False
+AlFarouq Aminu,1,5,31,0,Jump Shot,25,-119,220,False
+AlFarouq Aminu,2,6,40,0,Jump Shot,25,68,245,False
+AlFarouq Aminu,3,5,14,0,Jump Shot,23,-224,55,False
+AlFarouq Aminu,2,0,32,0,Jump Shot,27,109,251,False
+AlFarouq Aminu,2,3,32,0,Jump Shot,27,90,256,False
+AlFarouq Aminu,1,10,41,0,Jump Shot,24,-177,174,False
+AlFarouq Aminu,1,4,11,0,Jump Shot,23,228,42,False
+AlFarouq Aminu,3,9,34,1,Jump Shot,25,-20,258,False
+AlFarouq Aminu,3,6,56,1,Jump Shot,21,5,212,True
+AlFarouq Aminu,1,11,2,0,Jump Shot,23,-230,47,False
+AlFarouq Aminu,4,8,42,0,Jump Shot,25,-92,237,False
+AlFarouq Aminu,1,11,36,1,Jump Shot,23,228,53,False
+AlFarouq Aminu,2,6,33,0,Jump Shot,25,136,215,False
+AlFarouq Aminu,2,1,59,0,Jump Shot,23,-232,0,False
+AlFarouq Aminu,4,2,1,1,Jump Shot,25,-30,253,False
+AlFarouq Aminu,4,9,53,1,Jump Shot,25,63,248,False
+AlFarouq Aminu,4,9,12,1,Jump Shot,24,141,205,False
+AlFarouq Aminu,1,8,54,1,Jump Shot,18,-188,-15,True
+AlFarouq Aminu,5,1,32,0,Jump Shot,15,-81,134,True
+AlFarouq Aminu,4,1,40,1,Jump Shot,28,-19,280,False
+AlFarouq Aminu,5,2,49,0,Jump Shot,21,-88,191,True
+AlFarouq Aminu,3,7,22,0,Layup Shot,0,4,6,True
+AlFarouq Aminu,3,11,18,0,Layup Shot,2,19,10,True
+AlFarouq Aminu,1,4,33,0,Layup Shot,7,73,10,True
+AlFarouq Aminu,2,1,54,0,Layup Shot,1,-9,11,True
+AlFarouq Aminu,1,11,27,0,Layup Shot,0,-8,3,True
+AlFarouq Aminu,4,11,21,1,Layup Shot,2,13,16,True
+AlFarouq Aminu,2,3,31,1,Layup Shot,3,35,10,True
+AlFarouq Aminu,2,3,53,0,Layup Shot,3,-10,34,True
+AlFarouq Aminu,1,3,28,1,Layup Shot,0,9,4,True
+AlFarouq Aminu,3,10,30,0,Layup Shot,1,-13,6,True
+AlFarouq Aminu,3,10,33,0,Layup Shot,1,8,15,True
+AlFarouq Aminu,1,1,2,1,Layup Shot,0,6,0,True
+AlFarouq Aminu,3,9,22,1,Layup Shot,1,13,5,True
+AlFarouq Aminu,3,5,30,0,Layup Shot,5,0,58,True
+AlFarouq Aminu,1,10,26,0,Layup Shot,2,29,5,True
+AlFarouq Aminu,2,3,52,0,Layup Shot,2,-9,21,True
+AlFarouq Aminu,2,3,59,0,Layup Shot,2,0,26,True
+AlFarouq Aminu,3,4,38,1,Layup Shot,2,24,11,True
+AlFarouq Aminu,3,5,39,1,Layup Shot,0,8,5,True
+AlFarouq Aminu,2,6,15,0,Layup Shot,1,9,13,True
+AlFarouq Aminu,2,0,31,1,Layup Shot,0,0,1,True
+AlFarouq Aminu,3,5,26,1,Layup Shot,2,-3,25,True
+AlFarouq Aminu,3,11,15,0,Pullup Jump shot,18,12,185,True
+AlFarouq Aminu,1,1,48,0,Pullup Jump shot,17,-141,97,True
+AlFarouq Aminu,2,3,59,0,Pullup Jump shot,17,-24,172,True
+AlFarouq Aminu,2,2,23,0,Pullup Jump shot,14,-149,-1,True
+AlFarouq Aminu,4,5,19,0,Pullup Jump shot,21,-103,185,True
+AlFarouq Aminu,3,9,43,0,Pullup Jump shot,20,44,199,True
+AlFarouq Aminu,1,6,48,0,Pullup Jump shot,19,-134,143,True
+AlFarouq Aminu,2,4,47,1,Pullup Jump shot,25,103,236,False
+AlFarouq Aminu,1,10,51,0,Pullup Jump shot,24,47,245,False
+AlFarouq Aminu,3,9,24,1,Pullup Jump shot,24,-227,94,False
+AlFarouq Aminu,1,10,36,0,Pullup Jump shot,24,124,216,False
+AlFarouq Aminu,3,8,7,1,Pullup Jump shot,3,11,36,True
+AlFarouq Aminu,3,9,22,1,Pullup Jump shot,21,129,168,True
+AlFarouq Aminu,3,2,35,0,Pullup Jump shot,26,62,254,False
+AlFarouq Aminu,1,3,18,0,Pullup Jump shot,23,-222,74,False
+AlFarouq Aminu,3,5,2,0,Pullup Jump shot,27,136,239,False
+AlFarouq Aminu,1,5,50,0,Pullup Jump shot,17,-3,179,True
+AlFarouq Aminu,1,5,14,0,Pullup Jump shot,16,138,84,True
+AlFarouq Aminu,1,1,43,1,Pullup Jump shot,9,-8,95,True
+AlFarouq Aminu,1,10,24,0,Pullup Jump shot,16,-3,163,True
+AlFarouq Aminu,3,6,37,1,Putback Dunk Shot,0,0,-6,True
+AlFarouq Aminu,2,3,56,1,Putback Layup Shot,1,1,15,True
+AlFarouq Aminu,2,1,45,0,Putback Layup Shot,0,0,-6,True
+AlFarouq Aminu,1,3,28,1,Putback Layup Shot,1,19,1,True
+AlFarouq Aminu,1,8,31,1,Putback Layup Shot,0,0,-6,True
+AlFarouq Aminu,2,0,56,0,Putback Layup Shot,1,11,12,True
+AlFarouq Aminu,3,7,30,1,Putback Layup Shot,2,20,9,True
+AlFarouq Aminu,3,7,33,0,Putback Layup Shot,5,49,13,True
+AlFarouq Aminu,2,3,30,1,Putback Layup Shot,0,0,-6,True
+AlFarouq Aminu,2,1,6,0,Putback Layup Shot,3,26,26,True
+AlFarouq Aminu,1,11,9,1,Reverse Layup Shot,1,9,8,True
+AlFarouq Aminu,4,6,51,0,Reverse Layup Shot,1,10,5,True
+AlFarouq Aminu,1,6,3,1,Reverse Layup Shot,1,-16,0,True
+AlFarouq Aminu,3,5,54,1,Reverse Layup Shot,0,2,8,True
+AlFarouq Aminu,3,7,51,1,Reverse Layup Shot,1,7,17,True
+AlFarouq Aminu,1,11,19,0,Reverse Layup Shot,0,5,-5,True
+AlFarouq Aminu,1,9,27,1,Running Dunk Shot,1,2,14,True
+AlFarouq Aminu,3,6,22,1,Running Dunk Shot,0,7,1,True
+AlFarouq Aminu,3,11,7,1,Running Dunk Shot,1,-5,15,True
+AlFarouq Aminu,2,0,43,1,Running Finger Roll Layup Shot,1,-1,18,True
+AlFarouq Aminu,2,4,8,1,Running Finger Roll Layup Shot,2,0,29,True
+AlFarouq Aminu,3,5,28,0,Running Jump Shot,25,-188,165,False
+AlFarouq Aminu,4,5,23,1,Running Layup Shot,1,4,13,True
+AlFarouq Aminu,1,4,29,1,Running Layup Shot,2,0,24,True
+AlFarouq Aminu,1,7,11,1,Running Layup Shot,0,3,0,True
+AlFarouq Aminu,1,3,59,0,Running Layup Shot,2,-9,20,True
+AlFarouq Aminu,1,6,42,1,Running Layup Shot,0,-2,5,True
+AlFarouq Aminu,1,9,5,0,Running Layup Shot,2,6,20,True
+AlFarouq Aminu,3,10,56,1,Step Back Jump shot,24,223,111,False
+AlFarouq Aminu,2,0,16,0,Step Back Jump shot,28,4,280,False
+AlFarouq Aminu,1,5,38,0,Step Back Jump shot,20,48,199,True
+AlFarouq Aminu,3,3,7,0,Step Back Jump shot,17,157,68,True
+AlFarouq Aminu,4,6,6,0,Step Back Jump shot,25,-3,253,False
+AlFarouq Aminu,4,3,26,0,Step Back Jump shot,25,-25,252,False
+AlFarouq Aminu,2,6,32,0,Step Back Jump shot,19,-101,169,True
+AlFarouq Aminu,3,7,36,0,Step Back Jump shot,22,229,19,False
+AlFarouq Aminu,4,0,28,1,Tip Layup Shot,0,0,-6,True
+AlFarouq Aminu,3,11,23,0,Tip Layup Shot,2,22,9,True
+AlFarouq Aminu,1,5,57,1,Tip Layup Shot,0,0,-6,True
+AlFarouq Aminu,1,5,23,0,Tip Layup Shot,0,0,-6,True
+AlFarouq Aminu,1,10,12,0,Tip Layup Shot,0,0,-6,True
+AlFarouq Aminu,4,3,55,1,Tip Layup Shot,0,0,-6,True
+AlFarouq Aminu,4,3,57,0,Tip Layup Shot,0,0,-6,True
+AlFarouq Aminu,3,7,32,0,Tip Layup Shot,1,11,10,True
+AlFarouq Aminu,2,1,0,0,Tip Layup Shot,1,-9,10,True
+AlFarouq Aminu,1,10,3,1,Tip Layup Shot,0,0,-6,True
+AlFarouq Aminu,3,7,20,1,Tip Layup Shot,0,0,-6,True
+AlFarouq Aminu,4,4,36,1,Tip Layup Shot,0,0,-6,True
+AlFarouq Aminu,4,9,21,1,Tip Layup Shot,0,0,-6,True
+AlFarouq Aminu,1,3,8,1,Tip Layup Shot,0,0,-6,True
+AlFarouq Aminu,1,5,7,0,Turnaround Hook Shot,2,25,8,True
+AlFarouq Aminu,3,9,45,1,Turnaround Hook Shot,1,7,10,True
+AlFarouq Aminu,3,4,58,0,Turnaround Hook Shot,6,-27,61,True
+AlFarouq Aminu,1,9,19,0,Turnaround Hook Shot,9,18,89,True
+AlFarouq Aminu,1,2,55,0,Turnaround Hook Shot,2,-20,18,True
+AlFarouq Aminu,2,0,49,0,Turnaround Jump Shot,7,-75,5,True
+AlFarouq Aminu,1,6,59,0,Turnaround Jump Shot,12,40,117,True
+AlFarouq Aminu,4,7,7,0,Turnaround Jump Shot,7,7,75,True
+AlFarouq Aminu,3,8,28,0,Turnaround Jump Shot,6,1,66,True
+AlFarouq Aminu,2,1,47,0,Turnaround Jump Shot,2,24,12,True

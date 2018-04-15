@@ -1,0 +1,379 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Malik Monk,2,8,51,1,Alley Oop Layup shot,0,-3,1,True
+Malik Monk,2,0,39,1,Cutting Layup Shot,0,6,-3,True
+Malik Monk,4,4,34,1,Driving Dunk Shot,0,7,3,True
+Malik Monk,2,11,28,1,Driving Dunk Shot,1,7,9,True
+Malik Monk,4,11,52,1,Driving Finger Roll Layup Shot,0,-2,4,True
+Malik Monk,1,1,19,1,Driving Finger Roll Layup Shot,4,-11,40,True
+Malik Monk,4,11,16,1,Driving Finger Roll Layup Shot,1,15,12,True
+Malik Monk,2,8,52,0,Driving Finger Roll Layup Shot,6,55,34,True
+Malik Monk,1,0,33,1,Driving Finger Roll Layup Shot,5,57,-5,True
+Malik Monk,3,0,0,0,Driving Floating Bank Jump Shot,14,95,109,True
+Malik Monk,4,11,18,1,Driving Floating Bank Jump Shot,10,94,55,True
+Malik Monk,3,3,56,1,Driving Floating Bank Jump Shot,9,60,71,True
+Malik Monk,2,5,28,0,Driving Floating Bank Jump Shot,9,-28,90,True
+Malik Monk,4,5,42,1,Driving Floating Jump Shot,6,-46,47,True
+Malik Monk,2,9,38,0,Driving Floating Jump Shot,9,50,83,True
+Malik Monk,2,4,11,0,Driving Floating Jump Shot,7,7,74,True
+Malik Monk,2,9,5,1,Driving Floating Jump Shot,5,-14,50,True
+Malik Monk,3,2,32,0,Driving Floating Jump Shot,12,70,103,True
+Malik Monk,4,5,23,1,Driving Floating Jump Shot,8,54,64,True
+Malik Monk,4,1,50,0,Driving Floating Jump Shot,10,30,105,True
+Malik Monk,2,6,45,0,Driving Floating Jump Shot,3,-29,19,True
+Malik Monk,4,11,22,0,Driving Floating Jump Shot,9,70,71,True
+Malik Monk,4,8,49,1,Driving Floating Jump Shot,1,6,19,True
+Malik Monk,3,0,47,0,Driving Floating Jump Shot,8,-41,78,True
+Malik Monk,4,6,50,0,Driving Floating Jump Shot,8,65,53,True
+Malik Monk,3,1,10,0,Driving Floating Jump Shot,3,33,12,True
+Malik Monk,2,8,36,0,Driving Floating Jump Shot,12,-43,122,True
+Malik Monk,4,1,35,0,Driving Hook Shot,9,-71,65,True
+Malik Monk,2,10,4,1,Driving Layup Shot,1,6,9,True
+Malik Monk,4,11,49,1,Driving Layup Shot,0,2,-1,True
+Malik Monk,4,7,30,1,Driving Layup Shot,2,25,0,True
+Malik Monk,2,7,29,1,Driving Layup Shot,1,9,8,True
+Malik Monk,2,11,16,0,Driving Layup Shot,1,10,7,True
+Malik Monk,2,10,38,0,Driving Layup Shot,2,-22,11,True
+Malik Monk,4,5,0,0,Driving Layup Shot,1,-13,6,True
+Malik Monk,4,3,23,0,Driving Layup Shot,7,64,39,True
+Malik Monk,2,10,10,1,Driving Layup Shot,1,-8,14,True
+Malik Monk,2,7,5,0,Driving Layup Shot,1,9,11,True
+Malik Monk,3,0,5,1,Driving Layup Shot,3,-5,34,True
+Malik Monk,1,0,0,1,Driving Layup Shot,3,30,18,True
+Malik Monk,3,1,45,0,Driving Layup Shot,3,27,20,True
+Malik Monk,3,2,26,1,Driving Reverse Layup Shot,0,-2,-4,True
+Malik Monk,1,0,6,1,Dunk Shot,1,-3,11,True
+Malik Monk,4,1,24,0,Fadeaway Jump Shot,14,63,128,True
+Malik Monk,2,9,23,1,Fadeaway Jump Shot,11,101,47,True
+Malik Monk,2,8,1,0,Fadeaway Jump Shot,10,102,0,True
+Malik Monk,2,8,22,0,Floating Jump shot,6,68,16,True
+Malik Monk,1,3,36,0,Floating Jump shot,7,-13,74,True
+Malik Monk,2,6,18,1,Floating Jump shot,12,-121,7,True
+Malik Monk,4,1,46,1,Floating Jump shot,6,8,66,True
+Malik Monk,4,10,50,1,Floating Jump shot,4,6,47,True
+Malik Monk,2,7,56,1,Floating Jump shot,11,-5,117,True
+Malik Monk,4,1,49,1,Floating Jump shot,4,41,21,True
+Malik Monk,2,10,58,0,Floating Jump shot,13,100,86,True
+Malik Monk,4,10,56,0,Floating Jump shot,10,73,72,True
+Malik Monk,4,1,23,0,Floating Jump shot,7,37,66,True
+Malik Monk,4,10,59,0,Floating Jump shot,14,-68,125,True
+Malik Monk,2,11,24,0,Jump Bank Shot,4,31,28,True
+Malik Monk,2,11,7,0,Jump Bank Shot,1,-11,16,True
+Malik Monk,4,8,27,0,Jump Shot,16,2,168,True
+Malik Monk,2,7,24,1,Jump Shot,25,224,120,False
+Malik Monk,4,1,19,1,Jump Shot,28,-133,257,False
+Malik Monk,2,8,1,0,Jump Shot,23,-231,-13,False
+Malik Monk,4,4,9,0,Jump Shot,26,131,232,False
+Malik Monk,2,5,12,0,Jump Shot,23,-230,64,False
+Malik Monk,2,4,42,0,Jump Shot,7,2,78,True
+Malik Monk,2,6,16,0,Jump Shot,28,-105,260,False
+Malik Monk,4,7,10,0,Jump Shot,24,230,90,False
+Malik Monk,2,6,0,0,Jump Shot,27,95,253,False
+Malik Monk,2,11,27,1,Jump Shot,25,-63,251,False
+Malik Monk,4,7,6,1,Jump Shot,27,141,239,False
+Malik Monk,1,1,45,1,Jump Shot,19,38,193,True
+Malik Monk,2,7,38,1,Jump Shot,24,-236,57,False
+Malik Monk,1,0,22,0,Jump Shot,17,24,176,True
+Malik Monk,4,9,31,1,Jump Shot,25,8,252,False
+Malik Monk,4,4,2,0,Jump Shot,22,-226,-28,False
+Malik Monk,4,0,5,0,Jump Shot,25,-30,253,False
+Malik Monk,2,9,51,0,Jump Shot,22,-229,16,False
+Malik Monk,4,10,23,1,Jump Shot,25,-135,215,False
+Malik Monk,4,8,47,1,Jump Shot,24,67,240,False
+Malik Monk,4,0,38,0,Jump Shot,26,-171,201,False
+Malik Monk,4,8,20,0,Jump Shot,24,-97,230,False
+Malik Monk,3,0,45,1,Jump Shot,25,-183,171,False
+Malik Monk,4,9,50,1,Jump Shot,25,17,252,False
+Malik Monk,3,1,33,1,Jump Shot,24,-138,200,False
+Malik Monk,4,5,39,0,Jump Shot,22,221,46,False
+Malik Monk,4,10,23,0,Jump Shot,22,29,220,True
+Malik Monk,2,9,40,0,Jump Shot,25,112,228,False
+Malik Monk,4,10,1,0,Jump Shot,26,-123,232,False
+Malik Monk,1,0,7,0,Jump Shot,26,69,251,False
+Malik Monk,4,6,41,1,Jump Shot,24,-131,210,False
+Malik Monk,2,7,6,0,Jump Shot,6,57,32,True
+Malik Monk,1,0,30,1,Jump Shot,26,-136,223,False
+Malik Monk,4,3,12,0,Jump Shot,24,44,246,False
+Malik Monk,4,5,11,0,Jump Shot,28,172,229,False
+Malik Monk,4,8,27,1,Jump Shot,25,193,171,False
+Malik Monk,3,1,51,1,Jump Shot,22,229,19,False
+Malik Monk,2,6,24,1,Jump Shot,24,226,95,False
+Malik Monk,2,5,52,0,Jump Shot,30,-131,270,False
+Malik Monk,4,8,55,0,Jump Shot,25,-33,255,False
+Malik Monk,4,11,0,1,Jump Shot,18,-189,11,True
+Malik Monk,4,11,39,1,Jump Shot,26,-164,202,False
+Malik Monk,4,1,35,0,Jump Shot,24,198,151,False
+Malik Monk,2,10,43,0,Jump Shot,25,-180,184,False
+Malik Monk,4,4,38,0,Jump Shot,25,212,136,False
+Malik Monk,4,4,18,0,Jump Shot,12,123,-3,True
+Malik Monk,2,7,46,0,Jump Shot,26,162,204,False
+Malik Monk,1,1,11,1,Jump Shot,25,127,221,False
+Malik Monk,4,8,16,1,Jump Shot,25,-69,246,False
+Malik Monk,1,0,1,0,Jump Shot,25,190,169,False
+Malik Monk,2,9,8,0,Jump Shot,30,-119,279,False
+Malik Monk,3,0,40,1,Jump Shot,22,226,15,False
+Malik Monk,1,2,3,0,Jump Shot,25,-125,227,False
+Malik Monk,1,0,4,0,Jump Shot,24,-136,204,False
+Malik Monk,2,9,27,1,Jump Shot,24,112,222,False
+Malik Monk,4,4,32,0,Jump Shot,24,-188,157,False
+Malik Monk,4,0,37,1,Jump Shot,24,-79,235,False
+Malik Monk,2,9,17,0,Jump Shot,20,187,75,True
+Malik Monk,4,10,51,0,Jump Shot,24,-46,242,False
+Malik Monk,4,9,42,1,Jump Shot,25,-161,203,False
+Malik Monk,4,9,54,1,Jump Shot,15,-151,-13,True
+Malik Monk,4,0,13,0,Jump Shot,23,229,61,False
+Malik Monk,4,1,21,1,Jump Shot,23,230,57,False
+Malik Monk,4,7,33,0,Jump Shot,19,38,188,True
+Malik Monk,4,2,19,0,Jump Shot,25,-213,148,False
+Malik Monk,4,11,27,1,Jump Shot,25,-81,243,False
+Malik Monk,4,1,29,1,Jump Shot,25,130,216,False
+Malik Monk,4,0,49,1,Jump Shot,24,114,220,False
+Malik Monk,2,11,2,0,Jump Shot,16,160,2,True
+Malik Monk,2,9,35,0,Jump Shot,25,38,257,False
+Malik Monk,2,8,9,0,Jump Shot,21,-70,204,True
+Malik Monk,4,7,37,0,Jump Shot,25,20,258,False
+Malik Monk,1,0,48,0,Jump Shot,20,-58,200,True
+Malik Monk,3,2,36,0,Jump Shot,18,78,164,True
+Malik Monk,2,9,47,1,Jump Shot,23,231,42,False
+Malik Monk,4,11,17,0,Jump Shot,25,-63,251,False
+Malik Monk,5,0,28,0,Jump Shot,26,157,219,False
+Malik Monk,4,10,19,0,Jump Shot,16,-154,47,True
+Malik Monk,2,8,42,0,Jump Shot,21,-176,121,True
+Malik Monk,4,0,39,0,Jump Shot,23,231,30,False
+Malik Monk,4,7,25,0,Jump Shot,24,202,138,False
+Malik Monk,4,11,17,0,Jump Shot,23,234,15,False
+Malik Monk,4,10,12,0,Jump Shot,22,-165,160,True
+Malik Monk,4,11,20,1,Jump Shot,27,-109,254,False
+Malik Monk,4,1,10,0,Jump Shot,26,206,169,False
+Malik Monk,4,11,46,0,Jump Shot,26,69,254,False
+Malik Monk,2,8,17,1,Jump Shot,23,-230,-17,False
+Malik Monk,1,0,0,0,Jump Shot,69,136,680,False
+Malik Monk,2,8,51,1,Jump Shot,25,178,184,False
+Malik Monk,4,9,50,0,Jump Shot,26,-172,195,False
+Malik Monk,4,9,14,0,Jump Shot,24,131,212,False
+Malik Monk,4,1,40,0,Jump Shot,23,-235,29,False
+Malik Monk,2,9,37,0,Jump Shot,23,-230,15,False
+Malik Monk,4,0,8,0,Jump Shot,25,16,258,False
+Malik Monk,2,8,31,1,Jump Shot,26,6,260,False
+Malik Monk,2,6,39,0,Jump Shot,24,-120,215,False
+Malik Monk,4,9,55,1,Jump Shot,22,-228,10,False
+Malik Monk,2,2,26,1,Jump Shot,26,-163,203,False
+Malik Monk,2,0,26,0,Jump Shot,25,112,231,False
+Malik Monk,1,0,44,1,Jump Shot,22,229,19,False
+Malik Monk,2,7,18,1,Jump Shot,23,230,34,False
+Malik Monk,4,2,13,0,Jump Shot,23,-231,0,False
+Malik Monk,1,1,13,0,Jump Shot,15,101,124,True
+Malik Monk,3,3,37,0,Jump Shot,18,168,72,True
+Malik Monk,2,9,22,0,Jump Shot,26,-40,265,False
+Malik Monk,3,0,9,0,Jump Shot,25,-120,220,False
+Malik Monk,2,11,1,0,Jump Shot,28,-6,281,False
+Malik Monk,2,9,47,0,Jump Shot,28,119,263,False
+Malik Monk,1,0,0,0,Jump Shot,51,-141,498,False
+Malik Monk,2,11,7,0,Jump Shot,25,-70,243,False
+Malik Monk,4,6,15,0,Jump Shot,18,-180,52,True
+Malik Monk,4,9,40,0,Jump Shot,25,-145,206,False
+Malik Monk,2,5,30,0,Jump Shot,26,-81,251,False
+Malik Monk,4,8,13,0,Jump Shot,20,142,146,True
+Malik Monk,4,7,4,0,Jump Shot,19,77,182,True
+Malik Monk,4,11,8,1,Jump Shot,25,206,143,False
+Malik Monk,4,9,27,1,Jump Shot,25,-109,225,False
+Malik Monk,4,8,2,1,Jump Shot,25,179,183,False
+Malik Monk,1,0,1,0,Jump Shot,26,59,254,False
+Malik Monk,2,11,44,1,Jump Shot,25,173,186,False
+Malik Monk,4,11,29,1,Jump Shot,20,50,200,True
+Malik Monk,2,6,9,0,Jump Shot,19,-77,176,True
+Malik Monk,4,4,17,0,Jump Shot,26,144,225,False
+Malik Monk,4,8,48,1,Jump Shot,26,206,169,False
+Malik Monk,4,8,9,0,Jump Shot,25,-27,255,False
+Malik Monk,1,0,5,0,Jump Shot,26,-126,228,False
+Malik Monk,2,4,13,1,Jump Shot,25,129,217,False
+Malik Monk,3,3,8,0,Jump Shot,25,-53,251,False
+Malik Monk,1,1,56,0,Jump Shot,26,-228,127,False
+Malik Monk,1,0,0,0,Jump Shot,22,-34,221,True
+Malik Monk,2,0,0,0,Jump Shot,31,-54,306,False
+Malik Monk,1,0,29,0,Jump Shot,25,-61,252,False
+Malik Monk,4,6,6,0,Jump Shot,28,67,272,False
+Malik Monk,3,3,39,1,Jump Shot,24,-129,214,False
+Malik Monk,2,9,33,0,Jump Shot,23,221,71,False
+Malik Monk,2,10,23,0,Jump Shot,26,147,225,False
+Malik Monk,4,8,52,1,Jump Shot,24,-71,237,False
+Malik Monk,3,2,32,0,Jump Shot,28,127,257,False
+Malik Monk,2,10,58,1,Jump Shot,18,120,143,True
+Malik Monk,1,2,1,0,Jump Shot,25,-183,178,False
+Malik Monk,4,7,45,0,Jump Shot,24,239,37,False
+Malik Monk,2,6,27,1,Jump Shot,25,98,233,False
+Malik Monk,3,2,56,1,Jump Shot,26,-79,248,False
+Malik Monk,2,11,31,0,Jump Shot,25,98,236,False
+Malik Monk,2,5,38,0,Jump Shot,25,-176,185,False
+Malik Monk,4,9,0,0,Jump Shot,25,-30,250,False
+Malik Monk,1,2,53,0,Jump Shot,24,-226,94,False
+Malik Monk,3,1,14,0,Jump Shot,18,51,180,True
+Malik Monk,2,8,53,0,Jump Shot,28,107,263,False
+Malik Monk,1,0,0,0,Jump Shot,16,-138,96,True
+Malik Monk,2,5,31,0,Jump Shot,27,120,242,False
+Malik Monk,1,0,0,0,Jump Shot,62,125,617,False
+Malik Monk,4,5,57,0,Jump Shot,20,27,199,True
+Malik Monk,4,5,21,1,Jump Shot,22,228,-10,False
+Malik Monk,2,9,56,0,Jump Shot,26,208,161,False
+Malik Monk,4,7,37,0,Jump Shot,23,228,37,False
+Malik Monk,4,7,19,0,Jump Shot,23,226,67,False
+Malik Monk,3,0,27,0,Jump Shot,19,52,193,True
+Malik Monk,4,5,23,0,Jump Shot,22,226,12,False
+Malik Monk,3,0,45,1,Jump Shot,23,230,6,False
+Malik Monk,4,9,48,0,Jump Shot,26,-52,257,False
+Malik Monk,2,9,16,0,Jump Shot,25,118,228,False
+Malik Monk,2,6,37,0,Jump Shot,26,-94,244,False
+Malik Monk,2,7,5,0,Jump Shot,20,-201,20,True
+Malik Monk,2,11,4,0,Jump Shot,25,-144,206,False
+Malik Monk,4,6,32,0,Jump Shot,24,226,81,False
+Malik Monk,4,9,53,1,Jump Shot,27,193,193,False
+Malik Monk,2,8,2,0,Jump Shot,28,-120,256,False
+Malik Monk,4,10,52,1,Jump Shot,25,-140,214,False
+Malik Monk,4,11,44,0,Jump Shot,25,218,128,False
+Malik Monk,1,1,8,0,Jump Shot,20,-86,182,True
+Malik Monk,1,0,11,0,Jump Shot,24,78,237,False
+Malik Monk,4,5,30,1,Jump Shot,25,-85,238,False
+Malik Monk,3,2,6,0,Jump Shot,14,-88,120,True
+Malik Monk,2,8,34,1,Jump Shot,26,-116,241,False
+Malik Monk,4,9,50,1,Jump Shot,23,-121,196,True
+Malik Monk,2,6,34,0,Jump Shot,23,-233,-18,False
+Malik Monk,1,0,0,0,Jump Shot,63,210,602,False
+Malik Monk,4,6,30,1,Jump Shot,27,116,246,False
+Malik Monk,2,8,5,0,Jump Shot,24,38,247,False
+Malik Monk,3,0,1,0,Jump Shot,31,-187,251,False
+Malik Monk,3,0,14,0,Jump Shot,22,223,-4,False
+Malik Monk,4,1,21,0,Jump Shot,25,-100,232,False
+Malik Monk,4,0,52,0,Jump Shot,10,104,5,True
+Malik Monk,4,0,21,0,Jump Shot,25,23,255,False
+Malik Monk,4,1,52,0,Jump Shot,25,157,204,False
+Malik Monk,4,2,53,0,Jump Shot,22,225,19,False
+Malik Monk,4,6,25,0,Jump Shot,25,180,178,False
+Malik Monk,4,2,49,1,Jump Shot,23,230,58,False
+Malik Monk,4,1,22,0,Jump Shot,25,206,155,False
+Malik Monk,4,4,15,0,Jump Shot,23,234,32,False
+Malik Monk,4,2,11,1,Jump Shot,24,-191,155,False
+Malik Monk,4,1,15,0,Jump Shot,26,172,197,False
+Malik Monk,4,1,58,0,Jump Shot,22,-228,27,False
+Malik Monk,4,0,27,1,Jump Shot,24,224,94,False
+Malik Monk,1,0,28,0,Jump Shot,25,25,253,False
+Malik Monk,2,8,13,0,Jump Shot,9,-98,0,True
+Malik Monk,4,3,18,0,Jump Shot,27,94,255,False
+Malik Monk,4,0,37,1,Jump Shot,26,-144,220,False
+Malik Monk,4,3,47,0,Jump Shot,16,-59,158,True
+Malik Monk,4,1,33,0,Jump Shot,25,-206,147,False
+Malik Monk,4,9,25,0,Jump Shot,24,6,247,False
+Malik Monk,2,8,19,1,Jump Shot,19,48,189,True
+Malik Monk,2,9,12,1,Jump Shot,23,-229,31,False
+Malik Monk,2,10,46,0,Jump Shot,22,228,27,False
+Malik Monk,4,10,20,1,Jump Shot,24,-95,230,False
+Malik Monk,4,6,34,1,Jump Shot,25,139,209,False
+Malik Monk,3,1,35,0,Jump Shot,27,110,250,False
+Malik Monk,4,5,52,0,Jump Shot,24,228,87,False
+Malik Monk,4,2,17,0,Jump Shot,22,-226,26,False
+Malik Monk,4,0,59,0,Jump Shot,26,-146,219,False
+Malik Monk,4,3,53,0,Jump Shot,25,-133,212,False
+Malik Monk,2,3,42,1,Layup Shot,0,3,6,True
+Malik Monk,4,9,5,0,Layup Shot,4,45,20,True
+Malik Monk,1,3,34,1,Layup Shot,1,5,10,True
+Malik Monk,2,7,48,0,Layup Shot,1,13,10,True
+Malik Monk,4,10,29,0,Layup Shot,2,-7,21,True
+Malik Monk,2,5,22,0,Layup Shot,2,-12,16,True
+Malik Monk,2,6,27,1,Layup Shot,1,-4,16,True
+Malik Monk,2,9,14,0,Layup Shot,2,-11,20,True
+Malik Monk,2,10,22,1,Layup Shot,0,2,5,True
+Malik Monk,2,7,52,1,Layup Shot,2,-2,26,True
+Malik Monk,4,0,25,1,Layup Shot,1,12,11,True
+Malik Monk,4,10,17,0,Layup Shot,2,-19,7,True
+Malik Monk,4,9,28,0,Layup Shot,5,50,16,True
+Malik Monk,1,2,20,0,Pullup Jump shot,14,81,126,True
+Malik Monk,1,2,54,0,Pullup Jump shot,28,106,260,False
+Malik Monk,1,0,46,0,Pullup Jump shot,14,-137,33,True
+Malik Monk,2,11,37,0,Pullup Jump shot,15,-78,130,True
+Malik Monk,4,2,48,0,Pullup Jump shot,25,-190,167,False
+Malik Monk,3,1,15,1,Pullup Jump shot,26,149,216,False
+Malik Monk,2,9,6,0,Pullup Jump shot,28,-187,213,False
+Malik Monk,2,11,3,0,Pullup Jump shot,9,-49,82,True
+Malik Monk,1,1,19,1,Pullup Jump shot,25,49,255,False
+Malik Monk,4,6,6,0,Pullup Jump shot,26,-171,207,False
+Malik Monk,2,7,31,1,Pullup Jump shot,25,127,224,False
+Malik Monk,4,0,10,0,Pullup Jump shot,25,-97,234,False
+Malik Monk,3,0,9,0,Pullup Jump shot,25,-83,242,False
+Malik Monk,4,11,10,1,Pullup Jump shot,21,-27,209,True
+Malik Monk,3,0,8,0,Pullup Jump shot,19,-44,195,True
+Malik Monk,2,6,43,0,Pullup Jump shot,19,146,136,True
+Malik Monk,2,9,57,0,Pullup Jump shot,15,-96,126,True
+Malik Monk,4,9,51,0,Pullup Jump shot,25,41,248,False
+Malik Monk,4,9,47,0,Pullup Jump shot,26,40,258,False
+Malik Monk,2,8,25,0,Pullup Jump shot,25,-141,218,False
+Malik Monk,2,7,27,0,Pullup Jump shot,25,-180,180,False
+Malik Monk,2,11,20,0,Pullup Jump shot,25,-82,239,False
+Malik Monk,1,0,20,1,Pullup Jump shot,26,196,185,False
+Malik Monk,1,1,13,0,Pullup Jump shot,18,81,168,True
+Malik Monk,3,1,37,0,Pullup Jump shot,25,97,231,False
+Malik Monk,4,6,14,0,Pullup Jump shot,24,-189,158,False
+Malik Monk,1,2,52,0,Pullup Jump shot,21,137,164,True
+Malik Monk,2,10,19,1,Pullup Jump shot,12,-50,118,True
+Malik Monk,2,6,30,1,Pullup Jump shot,24,-154,190,False
+Malik Monk,4,9,57,0,Pullup Jump shot,25,55,246,False
+Malik Monk,2,10,27,0,Pullup Jump shot,14,-70,132,True
+Malik Monk,2,11,37,0,Pullup Jump shot,25,-106,231,False
+Malik Monk,4,11,37,1,Pullup Jump shot,25,117,223,False
+Malik Monk,4,2,34,0,Pullup Jump shot,18,-100,158,True
+Malik Monk,2,9,44,1,Pullup Jump shot,26,-33,262,False
+Malik Monk,4,3,51,0,Pullup Jump shot,12,54,113,True
+Malik Monk,2,8,27,1,Pullup Jump shot,26,-123,235,False
+Malik Monk,2,6,53,1,Pullup Jump shot,27,206,189,False
+Malik Monk,4,8,12,1,Pullup Jump shot,20,61,194,True
+Malik Monk,4,8,28,0,Pullup Jump shot,18,-71,175,True
+Malik Monk,4,7,59,0,Pullup Jump shot,25,41,248,False
+Malik Monk,4,10,48,0,Pullup Jump shot,25,218,137,False
+Malik Monk,1,0,0,0,Pullup Jump shot,28,-101,265,False
+Malik Monk,4,5,7,0,Pullup Jump shot,24,122,207,False
+Malik Monk,2,6,33,0,Pullup Jump shot,17,105,140,True
+Malik Monk,4,0,41,0,Pullup Jump shot,28,19,284,False
+Malik Monk,2,5,14,1,Pullup Jump shot,18,52,175,True
+Malik Monk,1,2,26,0,Pullup Jump shot,24,-230,73,False
+Malik Monk,3,0,39,1,Pullup Jump shot,24,76,234,False
+Malik Monk,4,11,17,0,Pullup Jump shot,15,130,85,True
+Malik Monk,2,11,27,0,Pullup Jump shot,19,151,116,True
+Malik Monk,2,10,17,0,Pullup Jump shot,21,-62,202,True
+Malik Monk,1,2,50,1,Pullup Jump shot,21,-36,217,True
+Malik Monk,1,2,25,0,Pullup Jump shot,15,-109,108,True
+Malik Monk,2,3,56,1,Pullup Jump shot,20,-47,199,True
+Malik Monk,3,0,40,1,Pullup Jump shot,26,147,222,False
+Malik Monk,1,3,38,0,Pullup Jump shot,22,-223,24,False
+Malik Monk,2,11,19,1,Pullup Jump shot,26,-57,261,False
+Malik Monk,4,1,23,0,Pullup Jump shot,23,-87,213,True
+Malik Monk,3,0,51,1,Pullup Jump shot,24,200,149,False
+Malik Monk,2,7,7,0,Pullup Jump shot,26,-112,237,False
+Malik Monk,3,0,31,0,Pullup Jump shot,25,-196,167,False
+Malik Monk,3,0,16,0,Pullup Jump shot,14,97,110,True
+Malik Monk,4,10,22,1,Pullup Jump shot,21,96,195,True
+Malik Monk,4,10,25,0,Pullup Jump shot,20,-153,142,True
+Malik Monk,3,0,4,1,Pullup Jump shot,20,-8,209,True
+Malik Monk,2,8,55,0,Pullup Jump shot,22,-101,197,True
+Malik Monk,2,7,25,0,Pullup Jump shot,13,89,97,True
+Malik Monk,2,0,0,0,Pullup Jump shot,25,116,232,False
+Malik Monk,4,10,46,1,Pullup Jump shot,19,-91,176,True
+Malik Monk,4,8,37,1,Pullup Jump shot,23,-166,173,False
+Malik Monk,2,6,28,1,Pullup Jump shot,25,100,231,False
+Malik Monk,3,0,14,0,Pullup Jump shot,17,51,164,True
+Malik Monk,4,6,12,1,Running Alley Oop Dunk Shot,1,-3,17,True
+Malik Monk,4,6,16,1,Running Dunk Shot,2,18,22,True
+Malik Monk,3,4,31,1,Running Jump Shot,24,58,242,False
+Malik Monk,4,7,45,1,Running Jump Shot,25,128,226,False
+Malik Monk,2,11,29,0,Running Jump Shot,18,-52,179,True
+Malik Monk,2,7,1,1,Running Layup Shot,1,-6,17,True
+Malik Monk,2,8,39,0,Running Layup Shot,0,8,4,True
+Malik Monk,4,1,37,0,Running Layup Shot,0,-3,9,True
+Malik Monk,4,11,28,0,Running Layup Shot,1,-10,4,True
+Malik Monk,2,9,3,0,Running Pull-Up Jump Shot,12,-53,116,True
+Malik Monk,4,2,21,1,Running Reverse Layup Shot,1,6,10,True
+Malik Monk,3,0,45,0,Step Back Jump shot,24,225,89,False
+Malik Monk,2,7,42,1,Step Back Jump shot,10,35,94,True
+Malik Monk,2,7,46,0,Step Back Jump shot,25,157,200,False
+Malik Monk,4,0,36,0,Step Back Jump shot,21,-109,181,True
+Malik Monk,2,9,10,0,Step Back Jump shot,20,111,170,True
+Malik Monk,2,11,17,1,Step Back Jump shot,23,-231,60,False
+Malik Monk,4,5,41,0,Step Back Jump shot,20,31,205,True
+Malik Monk,4,3,59,0,Step Back Jump shot,25,-30,249,False
+Malik Monk,2,11,28,0,Step Back Jump shot,16,94,138,True

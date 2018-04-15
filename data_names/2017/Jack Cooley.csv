@@ -1,0 +1,22 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jack Cooley,1,0,53,0,Alley Oop Layup shot,1,-6,13,True
+Jack Cooley,4,8,30,0,Cutting Layup Shot,3,-12,38,True
+Jack Cooley,4,6,22,1,Cutting Layup Shot,2,13,16,True
+Jack Cooley,3,4,25,1,Cutting Layup Shot,2,-6,25,True
+Jack Cooley,4,9,22,1,Floating Jump shot,10,46,96,True
+Jack Cooley,1,1,58,0,Floating Jump shot,10,-5,101,True
+Jack Cooley,1,7,15,0,Floating Jump shot,7,-6,76,True
+Jack Cooley,2,11,20,1,Hook Shot,2,2,24,True
+Jack Cooley,4,0,44,0,Jump Shot,21,11,217,True
+Jack Cooley,1,0,34,0,Jump Shot,11,-117,15,True
+Jack Cooley,2,8,17,0,Layup Shot,4,-38,13,True
+Jack Cooley,1,2,2,1,Layup Shot,2,-24,4,True
+Jack Cooley,2,1,59,1,Layup Shot,1,14,6,True
+Jack Cooley,4,8,27,0,Layup Shot,3,-3,33,True
+Jack Cooley,2,2,55,0,Layup Shot,1,-9,15,True
+Jack Cooley,1,1,24,0,Layup Shot,0,-3,8,True
+Jack Cooley,3,0,15,1,Putback Layup Shot,0,-6,6,True
+Jack Cooley,3,1,15,0,Tip Layup Shot,0,-9,2,True
+Jack Cooley,2,0,33,1,Tip Layup Shot,0,0,-6,True
+Jack Cooley,1,4,10,0,Tip Layup Shot,0,0,-6,True
+Jack Cooley,4,4,54,1,Turnaround Hook Shot,7,-71,31,True

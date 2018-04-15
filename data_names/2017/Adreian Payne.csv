@@ -1,0 +1,11 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Adreian Payne,2,9,10,1,Driving Hook Shot,4,23,38,True
+Adreian Payne,1,4,13,1,Jump Shot,23,-227,63,False
+Adreian Payne,4,0,41,0,Jump Shot,18,-131,137,True
+Adreian Payne,4,5,39,0,Jump Shot,22,-132,184,True
+Adreian Payne,4,4,45,1,Jump Shot,20,39,197,True
+Adreian Payne,4,3,9,1,Jump Shot,7,77,-5,True
+Adreian Payne,4,2,40,1,Jump Shot,24,-43,239,False
+Adreian Payne,4,8,11,0,Jump Shot,25,19,251,False
+Adreian Payne,4,2,26,1,Pullup Jump shot,17,86,157,True
+Adreian Payne,1,3,3,1,Tip Layup Shot,2,17,24,True

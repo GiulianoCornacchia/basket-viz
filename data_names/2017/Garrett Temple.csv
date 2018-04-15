@@ -1,0 +1,426 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Garrett Temple,3,6,56,1,Alley Oop Dunk Shot,0,2,7,True
+Garrett Temple,1,7,53,1,Cutting Finger Roll Layup Shot,0,4,2,True
+Garrett Temple,1,10,18,1,Cutting Layup Shot,2,13,17,True
+Garrett Temple,1,8,5,0,Cutting Layup Shot,2,-11,17,True
+Garrett Temple,4,11,46,1,Cutting Layup Shot,2,-5,26,True
+Garrett Temple,2,7,37,1,Cutting Layup Shot,0,-8,5,True
+Garrett Temple,2,2,52,1,Cutting Layup Shot,1,-14,8,True
+Garrett Temple,3,8,44,0,Cutting Layup Shot,1,3,11,True
+Garrett Temple,2,7,38,1,Cutting Layup Shot,1,16,11,True
+Garrett Temple,1,0,30,0,Cutting Layup Shot,1,7,16,True
+Garrett Temple,3,2,29,1,Cutting Layup Shot,2,-17,18,True
+Garrett Temple,4,6,7,1,Driving Finger Roll Layup Shot,2,-26,0,True
+Garrett Temple,3,6,52,0,Driving Floating Jump Shot,10,-17,100,True
+Garrett Temple,3,8,30,0,Driving Floating Jump Shot,10,2,101,True
+Garrett Temple,4,10,46,0,Driving Floating Jump Shot,8,10,80,True
+Garrett Temple,3,9,3,0,Driving Floating Jump Shot,10,8,104,True
+Garrett Temple,2,8,47,0,Driving Floating Jump Shot,10,-24,107,True
+Garrett Temple,3,11,6,0,Driving Hook Shot,3,-6,39,True
+Garrett Temple,4,7,56,1,Driving Layup Shot,2,16,15,True
+Garrett Temple,1,10,57,1,Driving Layup Shot,2,-24,3,True
+Garrett Temple,1,6,33,1,Driving Layup Shot,1,-7,12,True
+Garrett Temple,2,6,15,0,Driving Layup Shot,2,2,26,True
+Garrett Temple,3,2,11,0,Driving Layup Shot,2,-24,13,True
+Garrett Temple,2,7,21,0,Driving Layup Shot,3,-29,22,True
+Garrett Temple,3,4,5,0,Driving Layup Shot,2,-29,0,True
+Garrett Temple,4,2,15,0,Driving Layup Shot,6,66,-14,True
+Garrett Temple,1,11,9,1,Driving Layup Shot,2,-25,11,True
+Garrett Temple,1,1,24,1,Driving Layup Shot,1,-13,8,True
+Garrett Temple,3,1,57,1,Driving Layup Shot,1,2,10,True
+Garrett Temple,1,3,17,1,Driving Layup Shot,0,-5,7,True
+Garrett Temple,4,1,37,0,Driving Layup Shot,2,-24,8,True
+Garrett Temple,3,11,40,0,Driving Layup Shot,4,-4,40,True
+Garrett Temple,4,8,0,0,Driving Layup Shot,1,-14,1,True
+Garrett Temple,2,9,23,1,Driving Layup Shot,1,-16,0,True
+Garrett Temple,2,3,47,0,Driving Layup Shot,2,-25,-2,True
+Garrett Temple,3,0,37,0,Driving Layup Shot,3,-25,23,True
+Garrett Temple,2,9,26,0,Driving Layup Shot,1,13,9,True
+Garrett Temple,1,0,59,1,Driving Layup Shot,2,-20,5,True
+Garrett Temple,3,0,53,0,Driving Layup Shot,1,-14,10,True
+Garrett Temple,1,1,27,0,Driving Layup Shot,2,14,20,True
+Garrett Temple,4,1,27,0,Driving Reverse Layup Shot,4,-38,16,True
+Garrett Temple,2,3,0,1,Driving Reverse Layup Shot,1,-13,8,True
+Garrett Temple,2,1,27,1,Driving Reverse Layup Shot,2,-20,11,True
+Garrett Temple,1,8,13,0,Driving Reverse Layup Shot,4,-16,47,True
+Garrett Temple,1,2,37,0,Fadeaway Jump Shot,17,-77,158,True
+Garrett Temple,3,0,1,0,Fadeaway Jump Shot,16,-114,124,True
+Garrett Temple,4,5,44,0,Fadeaway Jump Shot,12,89,81,True
+Garrett Temple,2,11,31,1,Fadeaway Jump Shot,13,0,135,True
+Garrett Temple,1,3,29,0,Fadeaway Jump Shot,25,35,253,False
+Garrett Temple,3,2,34,0,Fadeaway Jump Shot,8,19,83,True
+Garrett Temple,2,5,12,0,Fadeaway Jump Shot,6,-63,6,True
+Garrett Temple,4,8,57,0,Fadeaway Jump Shot,15,-144,42,True
+Garrett Temple,1,1,55,0,Fadeaway Jump Shot,18,70,169,True
+Garrett Temple,3,2,2,1,Fadeaway Jump Shot,17,68,159,True
+Garrett Temple,3,5,11,0,Fadeaway Jump Shot,17,122,130,True
+Garrett Temple,3,2,54,1,Fadeaway Jump Shot,4,3,46,True
+Garrett Temple,1,11,38,1,Fadeaway Jump Shot,15,-150,5,True
+Garrett Temple,1,6,9,1,Fadeaway Jump Shot,8,-89,1,True
+Garrett Temple,4,3,24,1,Fadeaway Jump Shot,10,-69,84,True
+Garrett Temple,4,7,37,0,Fadeaway Jump Shot,15,-33,153,True
+Garrett Temple,4,1,31,1,Fadeaway Jump Shot,18,-131,127,True
+Garrett Temple,1,3,0,1,Fadeaway Jump Shot,15,-80,130,True
+Garrett Temple,3,1,8,0,Fadeaway Jump Shot,17,-172,16,True
+Garrett Temple,4,7,29,0,Floating Jump shot,10,-32,104,True
+Garrett Temple,3,9,54,1,Floating Jump shot,10,-62,79,True
+Garrett Temple,1,2,9,0,Floating Jump shot,3,-12,37,True
+Garrett Temple,2,2,31,0,Floating Jump shot,13,0,130,True
+Garrett Temple,4,5,15,0,Floating Jump shot,10,0,108,True
+Garrett Temple,1,7,20,0,Floating Jump shot,5,38,43,True
+Garrett Temple,1,9,57,1,Hook Shot,5,16,52,True
+Garrett Temple,4,10,11,0,Jump Bank Shot,6,-57,21,True
+Garrett Temple,1,0,35,0,Jump Shot,12,27,120,True
+Garrett Temple,4,11,12,1,Jump Shot,24,-180,172,False
+Garrett Temple,2,5,56,0,Jump Shot,25,18,257,False
+Garrett Temple,3,5,56,1,Jump Shot,22,229,11,False
+Garrett Temple,4,3,31,0,Jump Shot,3,-29,9,True
+Garrett Temple,3,2,16,1,Jump Shot,21,-206,72,True
+Garrett Temple,4,0,50,0,Jump Shot,24,-237,50,False
+Garrett Temple,1,1,52,1,Jump Shot,20,-70,193,True
+Garrett Temple,1,11,8,1,Jump Shot,25,67,243,False
+Garrett Temple,2,8,4,0,Jump Shot,25,-165,188,False
+Garrett Temple,2,9,32,1,Jump Shot,25,209,142,False
+Garrett Temple,1,0,19,0,Jump Shot,21,58,204,True
+Garrett Temple,2,6,57,1,Jump Shot,25,-108,230,False
+Garrett Temple,3,1,36,1,Jump Shot,23,-207,107,True
+Garrett Temple,1,0,11,1,Jump Shot,25,192,171,False
+Garrett Temple,2,0,25,1,Jump Shot,22,-227,-10,False
+Garrett Temple,2,10,23,0,Jump Shot,25,199,166,False
+Garrett Temple,2,11,6,0,Jump Shot,25,204,151,False
+Garrett Temple,4,6,30,0,Jump Shot,17,105,139,True
+Garrett Temple,1,1,33,0,Jump Shot,25,-130,216,False
+Garrett Temple,4,8,27,0,Jump Shot,27,100,252,False
+Garrett Temple,4,9,19,0,Jump Shot,25,-172,194,False
+Garrett Temple,2,7,18,1,Jump Shot,24,-43,243,False
+Garrett Temple,1,0,11,1,Jump Shot,25,141,213,False
+Garrett Temple,1,5,39,1,Jump Shot,25,-157,203,False
+Garrett Temple,2,2,50,1,Jump Shot,24,-149,200,False
+Garrett Temple,3,5,48,1,Jump Shot,24,168,185,False
+Garrett Temple,1,8,4,0,Jump Shot,25,45,253,False
+Garrett Temple,4,1,14,0,Jump Shot,26,-148,214,False
+Garrett Temple,3,4,33,0,Jump Shot,23,-160,172,True
+Garrett Temple,4,1,5,1,Jump Shot,25,-154,204,False
+Garrett Temple,3,4,58,0,Jump Shot,22,225,25,False
+Garrett Temple,4,9,40,0,Jump Shot,25,204,154,False
+Garrett Temple,2,8,10,0,Jump Shot,25,107,232,False
+Garrett Temple,2,7,0,1,Jump Shot,25,137,214,False
+Garrett Temple,4,10,39,1,Jump Shot,25,-103,236,False
+Garrett Temple,1,1,49,0,Jump Shot,25,139,209,False
+Garrett Temple,4,7,20,1,Jump Shot,22,-227,0,False
+Garrett Temple,4,6,17,1,Jump Shot,25,-63,248,False
+Garrett Temple,2,11,49,0,Jump Shot,19,-120,154,True
+Garrett Temple,3,1,30,0,Jump Shot,24,-31,240,False
+Garrett Temple,2,10,20,0,Jump Shot,19,-92,170,True
+Garrett Temple,3,2,7,0,Jump Shot,25,-79,241,False
+Garrett Temple,2,3,21,0,Jump Shot,21,162,148,True
+Garrett Temple,2,7,8,1,Jump Shot,24,-221,108,False
+Garrett Temple,2,4,49,1,Jump Shot,25,-20,253,False
+Garrett Temple,4,11,14,0,Jump Shot,25,67,246,False
+Garrett Temple,3,0,29,0,Jump Shot,24,-49,243,False
+Garrett Temple,3,0,6,0,Jump Shot,23,-235,31,False
+Garrett Temple,1,3,10,1,Jump Shot,9,-67,71,True
+Garrett Temple,3,0,40,1,Jump Shot,22,228,23,False
+Garrett Temple,3,2,52,1,Jump Shot,18,96,153,True
+Garrett Temple,2,9,31,1,Jump Shot,20,-200,-2,True
+Garrett Temple,4,2,10,0,Jump Shot,25,-119,228,False
+Garrett Temple,2,11,8,1,Jump Shot,15,32,147,True
+Garrett Temple,1,1,28,0,Jump Shot,25,137,216,False
+Garrett Temple,1,4,32,0,Jump Shot,20,-18,200,True
+Garrett Temple,1,4,7,0,Jump Shot,25,-140,208,False
+Garrett Temple,2,6,49,0,Jump Shot,16,-59,158,True
+Garrett Temple,2,4,27,1,Jump Shot,24,-147,201,False
+Garrett Temple,2,8,2,0,Jump Shot,27,-197,190,False
+Garrett Temple,1,1,46,0,Jump Shot,8,18,80,True
+Garrett Temple,1,2,23,1,Jump Shot,18,102,160,True
+Garrett Temple,4,9,16,0,Jump Shot,23,-230,0,False
+Garrett Temple,4,10,49,0,Jump Shot,19,57,185,True
+Garrett Temple,4,6,22,1,Jump Shot,25,43,253,False
+Garrett Temple,4,2,42,1,Jump Shot,25,-10,252,False
+Garrett Temple,2,8,32,1,Jump Shot,18,112,149,True
+Garrett Temple,4,5,15,1,Jump Shot,24,230,82,False
+Garrett Temple,3,3,50,0,Jump Shot,23,-228,52,False
+Garrett Temple,3,11,5,0,Jump Shot,25,-145,209,False
+Garrett Temple,2,3,33,1,Jump Shot,25,-210,139,False
+Garrett Temple,2,7,16,0,Jump Shot,23,-229,69,False
+Garrett Temple,4,11,30,1,Jump Shot,23,225,52,False
+Garrett Temple,3,0,43,0,Jump Shot,15,-151,4,True
+Garrett Temple,1,8,3,0,Jump Shot,22,228,8,False
+Garrett Temple,3,10,26,0,Jump Shot,25,-165,189,False
+Garrett Temple,4,0,9,0,Jump Shot,23,-229,32,False
+Garrett Temple,3,10,22,1,Jump Shot,25,234,99,False
+Garrett Temple,1,6,26,0,Jump Shot,23,-230,48,False
+Garrett Temple,3,6,31,0,Jump Shot,25,-179,186,False
+Garrett Temple,3,1,22,1,Jump Shot,22,-228,25,False
+Garrett Temple,3,3,16,0,Jump Shot,26,-181,195,False
+Garrett Temple,3,0,0,0,Jump Shot,33,90,319,False
+Garrett Temple,2,1,4,0,Jump Shot,20,-127,166,True
+Garrett Temple,3,3,36,1,Jump Shot,25,-207,151,False
+Garrett Temple,4,3,19,1,Jump Shot,23,-230,4,False
+Garrett Temple,2,5,20,1,Jump Shot,23,-236,8,False
+Garrett Temple,2,7,8,0,Jump Shot,25,-121,228,False
+Garrett Temple,2,0,58,0,Jump Shot,23,-234,-14,False
+Garrett Temple,4,9,23,1,Jump Shot,24,-207,122,False
+Garrett Temple,3,0,2,1,Jump Shot,25,141,215,False
+Garrett Temple,3,9,32,1,Jump Shot,19,6,199,True
+Garrett Temple,1,8,18,1,Jump Shot,23,-233,5,False
+Garrett Temple,1,9,32,1,Jump Shot,23,-231,41,False
+Garrett Temple,3,3,48,0,Jump Shot,18,179,26,True
+Garrett Temple,3,5,23,0,Jump Shot,17,95,141,True
+Garrett Temple,3,7,50,1,Jump Shot,25,-164,196,False
+Garrett Temple,3,8,20,0,Jump Shot,18,90,167,True
+Garrett Temple,2,0,1,0,Jump Shot,22,-227,9,False
+Garrett Temple,2,4,22,1,Jump Shot,25,177,179,False
+Garrett Temple,3,2,57,0,Jump Shot,25,58,251,False
+Garrett Temple,2,3,22,0,Jump Shot,25,174,188,False
+Garrett Temple,4,1,55,1,Jump Shot,16,167,31,True
+Garrett Temple,2,9,49,0,Jump Shot,26,-185,183,False
+Garrett Temple,3,2,55,0,Jump Shot,25,-226,117,False
+Garrett Temple,4,8,51,0,Jump Shot,22,226,17,False
+Garrett Temple,4,8,30,0,Jump Shot,25,-32,252,False
+Garrett Temple,1,1,14,0,Jump Shot,14,-65,126,True
+Garrett Temple,4,3,23,0,Jump Shot,23,-230,20,False
+Garrett Temple,2,1,30,0,Jump Shot,24,-149,195,False
+Garrett Temple,1,9,43,0,Jump Shot,23,-228,67,False
+Garrett Temple,2,3,51,0,Jump Shot,22,164,152,True
+Garrett Temple,3,7,25,0,Jump Shot,22,158,159,True
+Garrett Temple,2,6,4,1,Jump Shot,23,-230,19,False
+Garrett Temple,1,6,15,0,Jump Shot,16,-144,77,True
+Garrett Temple,1,10,21,0,Jump Shot,21,-33,213,True
+Garrett Temple,1,9,58,0,Jump Shot,24,-204,138,False
+Garrett Temple,3,11,17,0,Jump Shot,25,198,153,False
+Garrett Temple,1,4,56,0,Jump Shot,22,-228,17,False
+Garrett Temple,4,3,27,0,Jump Shot,15,-125,95,True
+Garrett Temple,3,6,17,0,Jump Shot,23,-228,73,False
+Garrett Temple,1,8,34,0,Jump Shot,22,127,182,True
+Garrett Temple,2,3,23,0,Jump Shot,16,-49,156,True
+Garrett Temple,3,9,2,0,Jump Shot,18,116,150,True
+Garrett Temple,2,0,0,0,Jump Shot,26,195,174,False
+Garrett Temple,1,8,15,1,Jump Shot,25,9,256,False
+Garrett Temple,3,10,7,1,Jump Shot,16,23,159,True
+Garrett Temple,1,4,53,0,Jump Shot,24,157,190,False
+Garrett Temple,1,8,27,0,Jump Shot,23,234,32,False
+Garrett Temple,3,8,21,1,Jump Shot,22,229,21,False
+Garrett Temple,2,0,38,0,Jump Shot,22,-131,177,True
+Garrett Temple,1,7,26,0,Jump Shot,23,-234,16,False
+Garrett Temple,2,0,40,0,Jump Shot,22,-222,45,False
+Garrett Temple,1,9,21,1,Jump Shot,27,55,266,False
+Garrett Temple,3,10,10,1,Jump Shot,18,-106,153,True
+Garrett Temple,2,4,5,0,Jump Shot,23,225,59,False
+Garrett Temple,2,0,55,0,Jump Shot,24,224,103,False
+Garrett Temple,1,10,10,1,Jump Shot,25,-93,234,False
+Garrett Temple,2,1,51,1,Jump Shot,20,152,143,True
+Garrett Temple,1,10,42,0,Jump Shot,22,-225,-12,False
+Garrett Temple,3,5,15,0,Jump Shot,8,-87,2,True
+Garrett Temple,4,0,50,1,Jump Shot,25,134,213,False
+Garrett Temple,3,5,24,0,Jump Shot,24,-183,168,False
+Garrett Temple,3,5,45,1,Jump Shot,24,-161,189,False
+Garrett Temple,4,1,30,0,Jump Shot,25,117,230,False
+Garrett Temple,3,8,2,0,Jump Shot,23,-230,46,False
+Garrett Temple,2,3,4,1,Jump Shot,24,175,173,False
+Garrett Temple,1,8,35,0,Jump Shot,21,165,140,True
+Garrett Temple,2,2,1,0,Jump Shot,23,-232,-4,False
+Garrett Temple,3,6,29,0,Jump Shot,22,184,134,True
+Garrett Temple,2,0,28,1,Jump Shot,23,230,11,False
+Garrett Temple,1,7,56,0,Jump Shot,24,-139,205,False
+Garrett Temple,2,4,33,0,Jump Shot,22,-221,-18,False
+Garrett Temple,3,1,25,0,Jump Shot,22,-224,12,False
+Garrett Temple,3,7,42,1,Jump Shot,23,-235,33,False
+Garrett Temple,3,6,23,1,Jump Shot,23,228,41,False
+Garrett Temple,1,7,14,0,Jump Shot,23,-237,21,False
+Garrett Temple,1,9,57,0,Jump Shot,23,226,49,False
+Garrett Temple,2,2,26,0,Jump Shot,15,-149,46,True
+Garrett Temple,4,9,12,0,Jump Shot,30,192,239,False
+Garrett Temple,2,3,20,0,Jump Shot,21,-100,188,True
+Garrett Temple,3,0,59,1,Jump Shot,24,-208,137,False
+Garrett Temple,3,3,0,0,Jump Shot,23,-230,50,False
+Garrett Temple,3,3,24,0,Jump Shot,20,-66,196,True
+Garrett Temple,4,6,56,0,Jump Shot,25,-176,178,False
+Garrett Temple,2,6,36,0,Jump Shot,23,-230,8,False
+Garrett Temple,1,2,35,0,Jump Shot,24,122,215,False
+Garrett Temple,2,8,34,1,Jump Shot,24,-174,176,False
+Garrett Temple,4,4,49,0,Jump Shot,22,-223,26,False
+Garrett Temple,4,1,44,1,Jump Shot,26,-177,197,False
+Garrett Temple,4,9,51,1,Jump Shot,24,-230,81,False
+Garrett Temple,3,0,24,1,Jump Shot,14,127,73,True
+Garrett Temple,4,5,54,1,Jump Shot,25,-95,239,False
+Garrett Temple,1,1,44,1,Jump Shot,25,215,134,False
+Garrett Temple,4,1,20,1,Jump Shot,29,6,298,False
+Garrett Temple,4,8,21,0,Jump Shot,26,101,242,False
+Garrett Temple,2,11,27,0,Jump Shot,25,-138,213,False
+Garrett Temple,1,1,49,1,Jump Shot,23,-233,38,False
+Garrett Temple,4,10,47,0,Jump Shot,22,226,8,False
+Garrett Temple,2,4,54,1,Jump Shot,22,-226,-18,False
+Garrett Temple,1,2,43,1,Jump Shot,24,-190,153,False
+Garrett Temple,2,6,45,0,Jump Shot,25,16,251,False
+Garrett Temple,4,9,59,0,Jump Shot,25,3,258,False
+Garrett Temple,3,2,1,0,Jump Shot,24,225,105,False
+Garrett Temple,1,0,46,0,Jump Shot,22,138,179,True
+Garrett Temple,4,7,24,0,Jump Shot,24,-123,216,False
+Garrett Temple,1,4,51,1,Jump Shot,24,-212,122,False
+Garrett Temple,1,1,6,0,Jump Shot,24,-233,58,False
+Garrett Temple,3,9,12,1,Jump Shot,17,85,151,True
+Garrett Temple,1,9,36,0,Jump Shot,24,-52,242,False
+Garrett Temple,3,8,17,0,Jump Shot,19,6,194,True
+Garrett Temple,1,11,12,0,Jump Shot,23,-237,-10,False
+Garrett Temple,3,4,7,1,Jump Shot,18,70,173,True
+Garrett Temple,3,4,40,1,Jump Shot,25,-199,158,False
+Garrett Temple,1,4,56,0,Jump Shot,10,-46,89,True
+Garrett Temple,1,7,48,1,Jump Shot,25,13,256,False
+Garrett Temple,1,8,48,0,Jump Shot,24,165,185,False
+Garrett Temple,2,1,33,1,Jump Shot,24,-235,60,False
+Garrett Temple,3,10,36,0,Jump Shot,19,181,72,True
+Garrett Temple,1,10,53,1,Jump Shot,26,-139,221,False
+Garrett Temple,4,2,22,1,Jump Shot,26,182,191,False
+Garrett Temple,1,5,4,0,Jump Shot,25,-131,222,False
+Garrett Temple,3,8,32,0,Jump Shot,22,-228,18,False
+Garrett Temple,2,2,24,0,Jump Shot,25,206,153,False
+Garrett Temple,1,9,19,0,Jump Shot,24,-162,187,False
+Garrett Temple,1,3,24,0,Jump Shot,22,228,-1,False
+Garrett Temple,1,7,7,0,Jump Shot,25,-172,184,False
+Garrett Temple,1,2,3,0,Jump Shot,13,114,79,True
+Garrett Temple,4,0,49,1,Jump Shot,24,-233,79,False
+Garrett Temple,4,10,23,0,Jump Shot,22,-226,17,False
+Garrett Temple,1,5,41,1,Jump Shot,25,-224,113,False
+Garrett Temple,3,5,9,0,Jump Shot,24,-204,136,False
+Garrett Temple,3,1,44,0,Jump Shot,24,206,138,False
+Garrett Temple,1,9,53,1,Jump Shot,25,-35,257,False
+Garrett Temple,1,4,46,1,Jump Shot,23,234,0,False
+Garrett Temple,3,11,42,1,Jump Shot,18,134,130,True
+Garrett Temple,4,0,30,0,Jump Shot,24,-242,-4,False
+Garrett Temple,4,2,44,0,Jump Shot,24,-231,73,False
+Garrett Temple,4,0,44,0,Jump Shot,22,-220,19,False
+Garrett Temple,4,8,40,0,Jump Shot,25,230,116,False
+Garrett Temple,3,9,6,1,Jump Shot,25,80,243,False
+Garrett Temple,3,7,7,0,Jump Shot,23,-231,44,False
+Garrett Temple,4,5,41,1,Jump Shot,24,205,139,False
+Garrett Temple,4,6,54,0,Jump Shot,23,-234,49,False
+Garrett Temple,3,5,32,0,Jump Shot,15,-150,8,True
+Garrett Temple,4,1,12,0,Jump Shot,28,-112,267,False
+Garrett Temple,3,4,16,0,Jump Shot,25,23,250,False
+Garrett Temple,1,6,2,1,Jump Shot,22,-228,27,False
+Garrett Temple,1,6,14,0,Jump Shot,15,-153,11,True
+Garrett Temple,3,9,28,0,Jump Shot,24,104,221,False
+Garrett Temple,3,7,29,0,Jump Shot,16,-22,167,True
+Garrett Temple,1,5,1,0,Jump Shot,23,-230,26,False
+Garrett Temple,1,10,6,0,Jump Shot,15,-112,101,True
+Garrett Temple,1,9,27,0,Jump Shot,20,95,179,True
+Garrett Temple,2,3,0,0,Jump Shot,25,158,205,False
+Garrett Temple,3,6,16,0,Jump Shot,23,-232,12,False
+Garrett Temple,1,6,31,0,Jump Shot,43,-117,416,False
+Garrett Temple,2,0,26,0,Jump Shot,23,-233,46,False
+Garrett Temple,3,9,3,0,Jump Shot,26,-231,120,False
+Garrett Temple,1,8,17,0,Jump Shot,23,232,53,False
+Garrett Temple,1,4,14,1,Jump Shot,22,-227,24,False
+Garrett Temple,1,6,40,0,Jump Shot,23,236,24,False
+Garrett Temple,1,10,25,0,Jump Shot,28,125,260,False
+Garrett Temple,3,9,32,0,Jump Shot,26,139,231,False
+Garrett Temple,4,5,21,0,Layup Shot,2,14,23,True
+Garrett Temple,4,6,58,1,Layup Shot,2,13,22,True
+Garrett Temple,1,6,25,1,Layup Shot,1,-13,5,True
+Garrett Temple,1,1,39,0,Layup Shot,2,-24,11,True
+Garrett Temple,3,0,35,1,Layup Shot,0,2,3,True
+Garrett Temple,1,10,30,1,Layup Shot,1,-9,10,True
+Garrett Temple,3,11,43,1,Layup Shot,2,0,27,True
+Garrett Temple,1,2,37,1,Layup Shot,2,-5,21,True
+Garrett Temple,2,2,8,0,Layup Shot,0,-4,9,True
+Garrett Temple,1,6,56,0,Layup Shot,2,3,29,True
+Garrett Temple,3,10,13,0,Layup Shot,2,2,29,True
+Garrett Temple,2,2,39,1,Layup Shot,1,15,13,True
+Garrett Temple,2,5,3,1,Layup Shot,1,-19,-2,True
+Garrett Temple,1,8,32,0,Layup Shot,4,-43,13,True
+Garrett Temple,3,1,12,1,Pullup Jump shot,18,60,176,True
+Garrett Temple,2,9,48,0,Pullup Jump shot,16,-54,156,True
+Garrett Temple,3,10,15,1,Pullup Jump shot,17,-179,11,True
+Garrett Temple,4,9,1,1,Pullup Jump shot,17,-169,53,True
+Garrett Temple,2,8,9,1,Pullup Jump shot,20,-111,174,True
+Garrett Temple,1,9,4,0,Pullup Jump shot,16,27,165,True
+Garrett Temple,1,1,17,0,Pullup Jump shot,18,88,158,True
+Garrett Temple,3,1,54,0,Pullup Jump shot,22,-153,170,True
+Garrett Temple,4,2,19,0,Pullup Jump shot,16,-95,140,True
+Garrett Temple,2,3,2,0,Pullup Jump shot,17,11,172,True
+Garrett Temple,3,3,9,1,Pullup Jump shot,14,146,11,True
+Garrett Temple,1,5,8,0,Pullup Jump shot,11,112,6,True
+Garrett Temple,3,3,42,1,Pullup Jump shot,19,96,172,True
+Garrett Temple,1,11,6,0,Pullup Jump shot,15,139,61,True
+Garrett Temple,2,6,48,1,Pullup Jump shot,16,168,13,True
+Garrett Temple,1,7,14,1,Pullup Jump shot,8,32,83,True
+Garrett Temple,3,3,41,1,Pullup Jump shot,25,167,196,False
+Garrett Temple,1,5,10,0,Pullup Jump shot,17,46,167,True
+Garrett Temple,3,8,14,0,Pullup Jump shot,18,-38,180,True
+Garrett Temple,2,5,51,1,Pullup Jump shot,12,-82,92,True
+Garrett Temple,1,6,32,0,Pullup Jump shot,20,-11,208,True
+Garrett Temple,1,10,47,0,Pullup Jump shot,18,-22,181,True
+Garrett Temple,4,5,38,1,Pullup Jump shot,16,109,129,True
+Garrett Temple,1,2,0,1,Pullup Jump shot,19,55,185,True
+Garrett Temple,4,9,43,1,Pullup Jump shot,18,122,134,True
+Garrett Temple,1,7,11,1,Pullup Jump shot,18,125,134,True
+Garrett Temple,1,8,43,0,Pullup Jump shot,30,174,253,False
+Garrett Temple,1,4,16,1,Pullup Jump shot,13,10,137,True
+Garrett Temple,1,1,17,1,Pullup Jump shot,16,-132,97,True
+Garrett Temple,2,3,0,0,Pullup Jump shot,17,-86,150,True
+Garrett Temple,1,3,50,0,Pullup Jump shot,17,65,162,True
+Garrett Temple,1,3,59,1,Pullup Jump shot,13,127,52,True
+Garrett Temple,4,0,18,1,Pullup Jump shot,28,64,280,False
+Garrett Temple,3,9,37,0,Pullup Jump shot,18,42,183,True
+Garrett Temple,1,7,11,1,Pullup Jump shot,19,123,146,True
+Garrett Temple,4,2,43,1,Pullup Jump shot,26,-137,221,False
+Garrett Temple,4,10,38,0,Pullup Jump shot,18,102,154,True
+Garrett Temple,2,7,52,1,Pullup Jump shot,18,106,151,True
+Garrett Temple,1,6,40,0,Pullup Jump shot,14,144,23,True
+Garrett Temple,4,0,32,1,Putback Layup Shot,0,0,-6,True
+Garrett Temple,2,7,32,0,Reverse Layup Shot,1,10,12,True
+Garrett Temple,1,6,42,0,Reverse Layup Shot,1,-11,-5,True
+Garrett Temple,2,2,10,0,Reverse Layup Shot,1,2,18,True
+Garrett Temple,3,9,22,1,Running Dunk Shot,0,-3,1,True
+Garrett Temple,3,0,51,1,Running Dunk Shot,0,-1,7,True
+Garrett Temple,1,7,47,1,Running Dunk Shot,2,-17,13,True
+Garrett Temple,4,7,1,1,Running Dunk Shot,0,0,4,True
+Garrett Temple,2,0,0,1,Running Finger Roll Layup Shot,2,-6,29,True
+Garrett Temple,1,0,0,0,Running Jump Shot,39,-130,369,False
+Garrett Temple,3,1,25,0,Running Jump Shot,25,-160,195,False
+Garrett Temple,1,5,4,0,Running Layup Shot,1,10,6,True
+Garrett Temple,2,9,29,0,Running Layup Shot,2,-21,5,True
+Garrett Temple,1,5,22,1,Running Layup Shot,1,14,9,True
+Garrett Temple,2,3,31,0,Running Layup Shot,1,-15,1,True
+Garrett Temple,2,0,51,0,Running Layup Shot,2,-16,15,True
+Garrett Temple,3,4,0,0,Running Layup Shot,1,-16,0,True
+Garrett Temple,3,8,32,1,Running Layup Shot,1,11,6,True
+Garrett Temple,1,7,21,0,Running Layup Shot,2,-24,5,True
+Garrett Temple,4,0,1,0,Running Pull-Up Jump Shot,25,11,255,False
+Garrett Temple,4,4,17,1,Running Reverse Layup Shot,1,-3,10,True
+Garrett Temple,3,1,13,1,Step Back Jump shot,21,204,53,True
+Garrett Temple,3,2,20,1,Step Back Jump shot,20,-199,33,True
+Garrett Temple,2,5,17,0,Step Back Jump shot,17,61,159,True
+Garrett Temple,3,0,0,1,Step Back Jump shot,20,-144,152,True
+Garrett Temple,1,3,49,1,Step Back Jump shot,14,-88,115,True
+Garrett Temple,3,6,0,1,Step Back Jump shot,25,-13,258,False
+Garrett Temple,2,1,5,1,Step Back Jump shot,16,11,166,True
+Garrett Temple,2,8,26,1,Step Back Jump shot,26,131,225,False
+Garrett Temple,1,1,16,0,Step Back Jump shot,24,-231,71,False
+Garrett Temple,3,9,24,1,Step Back Jump shot,17,125,118,True
+Garrett Temple,2,3,27,0,Step Back Jump shot,21,-127,178,True
+Garrett Temple,3,3,44,0,Step Back Jump shot,25,-212,141,False
+Garrett Temple,1,11,36,0,Step Back Jump shot,23,229,38,False
+Garrett Temple,3,10,54,0,Step Back Jump shot,26,76,254,False
+Garrett Temple,4,8,11,0,Step Back Jump shot,17,54,169,True
+Garrett Temple,4,10,20,1,Step Back Jump shot,20,-160,136,True
+Garrett Temple,2,8,52,1,Step Back Jump shot,23,-22,229,True
+Garrett Temple,2,10,26,1,Step Back Jump shot,17,-5,171,True
+Garrett Temple,3,9,10,0,Step Back Jump shot,13,135,36,True
+Garrett Temple,2,9,27,0,Step Back Jump shot,26,-6,261,False
+Garrett Temple,2,6,37,0,Step Back Jump shot,25,3,257,False
+Garrett Temple,1,1,9,0,Step Back Jump shot,19,8,197,True
+Garrett Temple,3,3,53,0,Step Back Jump shot,27,89,257,False
+Garrett Temple,3,5,52,1,Step Back Jump shot,12,-126,-8,True
+Garrett Temple,3,0,15,0,Step Back Jump shot,18,-149,115,True
+Garrett Temple,1,2,47,0,Step Back Jump shot,21,-125,174,True
+Garrett Temple,1,9,23,0,Step Back Jump shot,25,59,243,False
+Garrett Temple,2,10,24,1,Step Back Jump shot,24,138,203,False
+Garrett Temple,3,5,35,0,Step Back Jump shot,27,-103,260,False
+Garrett Temple,3,11,0,1,Step Back Jump shot,22,-226,-4,False
+Garrett Temple,2,3,36,0,Step Back Jump shot,10,-97,31,True
+Garrett Temple,1,7,1,1,Tip Layup Shot,2,-12,17,True
+Garrett Temple,2,1,30,1,Tip Layup Shot,0,0,-6,True
+Garrett Temple,2,9,2,0,Turnaround Fadeaway shot,9,26,91,True
+Garrett Temple,3,2,42,0,Turnaround Jump Shot,5,57,-1,True

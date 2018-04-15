@@ -1,0 +1,68 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Juan Hernangomez,2,7,47,1,Cutting Dunk Shot,3,-28,13,True
+Juan Hernangomez,3,0,41,0,Cutting Layup Shot,1,-5,12,True
+Juan Hernangomez,4,1,0,1,Cutting Layup Shot,0,3,7,True
+Juan Hernangomez,4,6,21,1,Cutting Layup Shot,2,3,24,True
+Juancho Hernangomez,3,3,57,0,Jump Shot,22,224,9,False
+Juancho Hernangomez,2,6,7,0,Jump Shot,25,-179,184,False
+Juancho Hernangomez,4,0,6,0,Jump Shot,25,-227,111,False
+Juancho Hernangomez,4,1,35,1,Jump Shot,25,-152,205,False
+Juan Hernangomez,4,4,38,0,Jump Shot,26,-17,265,False
+Juan Hernangomez,4,10,55,0,Jump Shot,24,112,221,False
+Juan Hernangomez,3,0,22,0,Jump Shot,24,183,163,False
+Juan Hernangomez,4,3,2,0,Jump Shot,26,-14,262,False
+Juan Hernangomez,2,8,0,0,Jump Shot,26,-180,189,False
+Juan Hernangomez,2,9,9,0,Jump Shot,24,-202,146,False
+Juancho Hernangomez,1,0,51,0,Jump Shot,22,225,1,False
+Juancho Hernangomez,2,10,49,1,Jump Shot,22,222,46,False
+Juancho Hernangomez,3,1,23,1,Jump Shot,24,-37,246,False
+Juan Hernangomez,4,0,30,0,Jump Shot,25,-206,151,False
+Juan Hernangomez,4,1,4,1,Jump Shot,25,-183,175,False
+Juan Hernangomez,4,1,34,1,Jump Shot,27,-130,237,False
+Juan Hernangomez,4,5,43,0,Jump Shot,23,228,60,False
+Juan Hernangomez,1,0,18,0,Jump Shot,25,105,230,False
+Juan Hernangomez,2,9,20,0,Jump Shot,22,-223,13,False
+Juan Hernangomez,1,1,12,0,Jump Shot,25,90,239,False
+Juan Hernangomez,4,1,26,0,Jump Shot,4,24,37,True
+Juan Hernangomez,4,7,19,1,Jump Shot,23,236,25,False
+Juan Hernangomez,2,2,39,1,Jump Shot,23,-230,4,False
+Juan Hernangomez,4,9,53,0,Jump Shot,22,-221,-4,False
+Juan Hernangomez,3,0,59,1,Jump Shot,22,-222,46,False
+Juan Hernangomez,4,6,42,0,Jump Shot,26,55,255,False
+Juan Hernangomez,4,2,52,1,Jump Shot,23,228,43,False
+Juan Hernangomez,4,0,44,0,Jump Shot,25,-193,164,False
+Juancho Hernangomez,4,1,23,0,Jump Shot,26,166,205,False
+Juan Hernangomez,4,8,48,0,Jump Shot,23,226,44,False
+Juan Hernangomez,2,9,4,0,Jump Shot,27,-40,273,False
+Juan Hernangomez,4,0,9,1,Jump Shot,25,116,225,False
+Juan Hernangomez,1,0,5,1,Jump Shot,24,-155,190,False
+Juan Hernangomez,1,3,21,0,Jump Shot,24,-207,125,False
+Juan Hernangomez,3,6,35,0,Jump Shot,24,157,188,False
+Juan Hernangomez,3,10,59,0,Jump Shot,23,234,42,False
+Juan Hernangomez,1,10,27,1,Jump Shot,22,225,44,False
+Juan Hernangomez,1,10,23,0,Jump Shot,24,-131,212,False
+Juan Hernangomez,3,10,19,0,Jump Shot,24,-169,180,False
+Juan Hernangomez,1,7,28,0,Jump Shot,23,232,10,False
+Juan Hernangomez,4,5,18,0,Jump Shot,25,193,160,False
+Juan Hernangomez,4,1,7,0,Jump Shot,28,-153,237,False
+Juan Hernangomez,4,0,47,0,Jump Shot,25,-169,194,False
+Juan Hernangomez,4,0,52,0,Jump Shot,25,-170,184,False
+Juan Hernangomez,1,8,19,0,Jump Shot,25,-209,140,False
+Juan Hernangomez,1,7,1,1,Jump Shot,23,-223,72,False
+Juan Hernangomez,4,5,9,1,Jump Shot,24,120,214,False
+Juan Hernangomez,4,9,24,0,Layup Shot,3,-11,37,True
+Juan Hernangomez,1,1,55,0,Layup Shot,4,43,20,True
+Juan Hernangomez,2,8,0,0,Layup Shot,7,-41,57,True
+Juan Hernangomez,4,7,17,0,Layup Shot,1,-9,8,True
+Juan Hernangomez,4,0,58,0,Pullup Jump shot,25,139,210,False
+Juan Hernangomez,4,9,57,0,Putback Layup Shot,3,1,31,True
+Juan Hernangomez,4,3,24,1,Putback Layup Shot,0,0,-6,True
+Juan Hernangomez,1,9,34,1,Reverse Layup Shot,1,17,3,True
+Juan Hernangomez,1,2,35,1,Running Dunk Shot,0,-6,-2,True
+Juan Hernangomez,4,8,2,1,Running Layup Shot,4,29,31,True
+Juan Hernangomez,4,9,7,1,Tip Layup Shot,0,0,-6,True
+Juan Hernangomez,4,9,57,0,Tip Layup Shot,1,-16,1,True
+Juan Hernangomez,4,0,15,0,Tip Layup Shot,0,0,-6,True
+Juan Hernangomez,2,10,27,1,Tip Layup Shot,0,0,-6,True
+Juan Hernangomez,4,11,17,1,Tip Layup Shot,0,0,-6,True
+Juan Hernangomez,4,4,1,1,Tip Layup Shot,0,0,-6,True

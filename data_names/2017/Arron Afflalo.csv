@@ -1,0 +1,152 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Arron Afflalo,3,1,3,1,Cutting Layup Shot,1,5,9,True
+Arron Afflalo,1,7,58,1,Cutting Layup Shot,1,4,11,True
+Arron Afflalo,1,0,33,1,Driving Layup Shot,1,13,13,True
+Arron Afflalo,2,8,56,0,Driving Layup Shot,3,23,26,True
+Arron Afflalo,1,0,29,0,Driving Layup Shot,1,-4,16,True
+Arron Afflalo,4,7,43,1,Driving Layup Shot,2,9,26,True
+Arron Afflalo,4,8,2,1,Driving Layup Shot,2,23,9,True
+Arron Afflalo,4,10,14,0,Driving Layup Shot,2,-8,25,True
+Arron Afflalo,2,9,9,0,Driving Layup Shot,3,30,25,True
+Arron Afflalo,3,9,53,1,Driving Reverse Layup Shot,2,18,13,True
+Arron Afflalo,4,3,6,1,Fadeaway Jump Shot,17,174,3,True
+Arron Afflalo,2,8,5,0,Fadeaway Jump Shot,17,174,31,True
+Arron Afflalo,3,3,56,0,Fadeaway Jump Shot,12,-118,45,True
+Arron Afflalo,1,1,11,0,Fadeaway Jump Shot,16,68,155,True
+Arron Afflalo,2,3,49,1,Fadeaway Jump Shot,12,77,102,True
+Arron Afflalo,2,4,38,1,Jump Bank Shot,25,109,226,False
+Arron Afflalo,4,10,54,1,Jump Shot,26,-148,216,False
+Arron Afflalo,4,9,13,0,Jump Shot,25,69,247,False
+Arron Afflalo,2,11,3,1,Jump Shot,25,-202,155,False
+Arron Afflalo,4,4,2,0,Jump Shot,21,-218,-7,False
+Arron Afflalo,4,9,5,0,Jump Shot,14,73,129,True
+Arron Afflalo,2,3,57,0,Jump Shot,23,-234,11,False
+Arron Afflalo,2,8,11,1,Jump Shot,26,-163,205,False
+Arron Afflalo,2,11,1,0,Jump Shot,25,-25,258,False
+Arron Afflalo,1,0,0,0,Jump Shot,19,-84,173,True
+Arron Afflalo,4,10,31,0,Jump Shot,23,-231,42,False
+Arron Afflalo,2,6,55,0,Jump Shot,25,-85,237,False
+Arron Afflalo,2,6,34,0,Jump Shot,7,-53,53,True
+Arron Afflalo,4,11,35,0,Jump Shot,23,-230,25,False
+Arron Afflalo,2,2,21,0,Jump Shot,23,-230,31,False
+Arron Afflalo,2,10,19,1,Jump Shot,22,-220,6,False
+Arron Afflalo,2,3,15,1,Jump Shot,15,-125,84,True
+Arron Afflalo,2,11,35,0,Jump Shot,23,230,59,False
+Arron Afflalo,2,3,57,0,Jump Shot,22,-228,22,False
+Arron Afflalo,4,9,44,1,Jump Shot,25,81,246,False
+Arron Afflalo,1,0,7,0,Jump Shot,22,-227,-8,False
+Arron Afflalo,2,10,4,1,Jump Shot,16,-165,16,True
+Arron Afflalo,1,1,58,0,Jump Shot,25,-127,224,False
+Arron Afflalo,2,8,15,0,Jump Shot,23,-230,32,False
+Arron Afflalo,4,3,9,0,Jump Shot,22,-199,108,True
+Arron Afflalo,2,8,6,0,Jump Shot,26,-192,179,False
+Arron Afflalo,4,7,22,1,Jump Shot,24,230,72,False
+Arron Afflalo,2,9,13,1,Jump Shot,24,65,236,False
+Arron Afflalo,2,10,45,1,Jump Shot,22,133,177,True
+Arron Afflalo,4,2,27,1,Jump Shot,22,-225,17,False
+Arron Afflalo,4,1,40,0,Jump Shot,23,-228,31,False
+Arron Afflalo,1,1,33,0,Jump Shot,22,-225,20,False
+Arron Afflalo,1,0,30,1,Jump Shot,25,-190,169,False
+Arron Afflalo,4,9,47,1,Jump Shot,23,-232,27,False
+Arron Afflalo,1,1,39,0,Jump Shot,25,-218,129,False
+Arron Afflalo,3,2,2,1,Jump Shot,24,-141,205,False
+Arron Afflalo,2,11,37,0,Jump Shot,24,-193,158,False
+Arron Afflalo,2,11,8,0,Jump Shot,22,-188,119,True
+Arron Afflalo,3,2,26,1,Jump Shot,19,-196,-8,True
+Arron Afflalo,3,3,2,0,Jump Shot,17,89,146,True
+Arron Afflalo,2,11,36,0,Jump Shot,25,122,222,False
+Arron Afflalo,1,0,0,0,Jump Shot,27,-25,272,False
+Arron Afflalo,1,4,48,0,Jump Shot,25,211,147,False
+Arron Afflalo,4,9,2,0,Jump Shot,22,226,27,False
+Arron Afflalo,2,4,8,0,Jump Shot,20,-206,19,True
+Arron Afflalo,1,9,50,0,Jump Shot,18,114,140,True
+Arron Afflalo,1,0,0,0,Jump Shot,45,183,414,False
+Arron Afflalo,2,9,15,1,Jump Shot,20,-204,14,True
+Arron Afflalo,2,8,34,0,Jump Shot,15,77,137,True
+Arron Afflalo,4,6,20,0,Jump Shot,25,151,204,False
+Arron Afflalo,4,7,28,1,Jump Shot,31,146,275,False
+Arron Afflalo,4,3,14,0,Jump Shot,13,130,27,True
+Arron Afflalo,2,9,8,0,Jump Shot,21,145,155,True
+Arron Afflalo,3,4,41,0,Jump Shot,23,231,31,False
+Arron Afflalo,4,2,39,0,Jump Shot,8,-12,86,True
+Arron Afflalo,4,11,36,0,Jump Shot,14,129,64,True
+Arron Afflalo,4,0,39,1,Jump Shot,24,-159,190,False
+Arron Afflalo,4,9,0,1,Jump Shot,22,-229,21,False
+Arron Afflalo,2,8,9,1,Jump Shot,24,204,142,False
+Arron Afflalo,2,6,6,0,Jump Shot,22,-225,46,False
+Arron Afflalo,4,5,44,0,Jump Shot,25,168,197,False
+Arron Afflalo,4,8,0,0,Jump Shot,16,-163,13,True
+Arron Afflalo,4,2,40,0,Jump Shot,22,-228,16,False
+Arron Afflalo,2,10,58,0,Jump Shot,22,222,13,False
+Arron Afflalo,2,8,30,0,Jump Shot,22,228,10,False
+Arron Afflalo,4,0,44,0,Jump Shot,26,167,210,False
+Arron Afflalo,3,3,42,1,Jump Shot,23,-231,54,False
+Arron Afflalo,4,5,11,0,Jump Shot,11,-110,21,True
+Arron Afflalo,2,10,4,0,Jump Shot,14,148,-5,True
+Arron Afflalo,3,0,0,0,Jump Shot,44,-175,404,False
+Arron Afflalo,2,11,39,0,Jump Shot,26,-143,226,False
+Arron Afflalo,3,2,42,0,Jump Shot,23,-231,38,False
+Arron Afflalo,2,5,50,0,Jump Shot,22,-222,13,False
+Arron Afflalo,4,10,50,0,Jump Shot,24,-150,197,False
+Arron Afflalo,4,4,57,0,Jump Shot,26,183,186,False
+Arron Afflalo,2,6,36,0,Jump Shot,23,231,26,False
+Arron Afflalo,1,1,35,0,Jump Shot,25,134,221,False
+Arron Afflalo,4,6,13,0,Jump Shot,20,-193,68,True
+Arron Afflalo,2,9,2,0,Jump Shot,23,230,10,False
+Arron Afflalo,4,5,7,1,Jump Shot,24,114,222,False
+Arron Afflalo,4,0,37,1,Jump Shot,23,-232,20,False
+Arron Afflalo,4,7,21,1,Jump Shot,16,19,168,True
+Arron Afflalo,2,5,16,0,Jump Shot,23,-233,30,False
+Arron Afflalo,4,10,2,0,Jump Shot,22,-144,172,True
+Arron Afflalo,2,7,4,1,Jump Shot,25,198,164,False
+Arron Afflalo,2,9,49,1,Jump Shot,26,-199,182,False
+Arron Afflalo,4,10,23,0,Jump Shot,20,-202,7,True
+Arron Afflalo,2,10,41,0,Jump Shot,26,204,166,False
+Arron Afflalo,2,10,5,1,Layup Shot,2,20,14,True
+Arron Afflalo,2,11,30,0,Layup Shot,3,20,23,True
+Arron Afflalo,3,1,19,1,Layup Shot,4,-24,39,True
+Arron Afflalo,2,2,29,0,Layup Shot,3,12,29,True
+Arron Afflalo,2,9,51,1,Layup Shot,1,-2,15,True
+Arron Afflalo,2,9,59,0,Layup Shot,1,14,3,True
+Arron Afflalo,2,6,57,0,Layup Shot,2,1,20,True
+Arron Afflalo,2,10,7,0,Layup Shot,3,-11,35,True
+Arron Afflalo,1,0,25,0,Pullup Jump shot,16,157,64,True
+Arron Afflalo,4,10,19,1,Pullup Jump shot,25,128,216,False
+Arron Afflalo,1,3,7,0,Pullup Jump shot,19,-86,180,True
+Arron Afflalo,4,11,38,1,Pullup Jump shot,15,126,84,True
+Arron Afflalo,2,8,39,1,Pullup Jump shot,13,139,4,True
+Arron Afflalo,4,2,50,1,Pullup Jump shot,23,-234,42,False
+Arron Afflalo,2,11,36,0,Pullup Jump shot,19,-41,189,True
+Arron Afflalo,1,0,38,0,Pullup Jump shot,14,19,145,True
+Arron Afflalo,2,10,39,1,Pullup Jump shot,16,-47,153,True
+Arron Afflalo,4,4,16,0,Pullup Jump shot,18,-102,153,True
+Arron Afflalo,2,11,35,0,Pullup Jump shot,16,-160,32,True
+Arron Afflalo,4,1,26,1,Running Layup Shot,2,-7,20,True
+Arron Afflalo,2,9,30,1,Running Layup Shot,1,-14,7,True
+Arron Afflalo,4,7,3,1,Running Layup Shot,4,2,46,True
+Arron Afflalo,4,9,42,1,Running Layup Shot,2,2,26,True
+Arron Afflalo,2,10,31,1,Running Layup Shot,4,-30,34,True
+Arron Afflalo,2,8,6,0,Running Layup Shot,5,-16,48,True
+Arron Afflalo,2,7,43,1,Step Back Jump shot,15,-128,87,True
+Arron Afflalo,2,8,57,0,Step Back Jump shot,13,-136,32,True
+Arron Afflalo,2,9,15,1,Step Back Jump shot,26,138,225,False
+Arron Afflalo,2,7,33,1,Step Back Jump shot,9,28,93,True
+Arron Afflalo,4,10,42,0,Step Back Jump shot,16,84,141,True
+Arron Afflalo,2,9,5,0,Step Back Jump shot,9,20,95,True
+Arron Afflalo,1,6,51,0,Step Back Jump shot,16,22,161,True
+Arron Afflalo,2,3,21,0,Turnaround Fadeaway Bank Jump Shot,10,-87,62,True
+Arron Afflalo,3,1,27,1,Turnaround Fadeaway shot,12,123,-7,True
+Arron Afflalo,4,10,40,1,Turnaround Fadeaway shot,7,25,69,True
+Arron Afflalo,2,8,24,1,Turnaround Fadeaway shot,12,123,0,True
+Arron Afflalo,4,5,47,0,Turnaround Fadeaway shot,8,-40,72,True
+Arron Afflalo,4,5,2,1,Turnaround Fadeaway shot,9,-33,86,True
+Arron Afflalo,4,2,48,1,Turnaround Fadeaway shot,7,14,75,True
+Arron Afflalo,3,10,11,0,Turnaround Jump Shot,10,109,-8,True
+Arron Afflalo,4,7,40,0,Turnaround Jump Shot,16,-160,43,True
+Arron Afflalo,1,10,14,1,Turnaround Jump Shot,13,-102,88,True
+Arron Afflalo,4,2,53,0,Turnaround Jump Shot,17,70,158,True
+Arron Afflalo,1,2,55,0,Turnaround Jump Shot,7,47,61,True
+Arron Afflalo,2,7,5,1,Turnaround Jump Shot,16,-9,166,True
+Arron Afflalo,4,8,48,0,Turnaround Jump Shot,10,105,13,True
+Arron Afflalo,4,5,29,0,Turnaround Jump Shot,13,-103,82,True
+Arron Afflalo,4,8,17,1,Turnaround Jump Shot,9,84,34,True

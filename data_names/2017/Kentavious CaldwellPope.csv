@@ -1,0 +1,684 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Kentavious CaldwellPope,2,6,57,1,Alley Oop Dunk Shot,1,-12,15,True
+Kentavious CaldwellPope,3,10,50,1,Alley Oop Layup shot,3,6,31,True
+Kentavious CaldwellPope,3,5,3,1,Alley Oop Layup shot,1,11,6,True
+Kentavious CaldwellPope,4,11,34,0,Alley Oop Layup shot,1,3,19,True
+Kentavious CaldwellPope,1,6,52,1,Cutting Finger Roll Layup Shot,2,6,25,True
+Kentavious CaldwellPope,4,4,30,1,Cutting Layup Shot,2,-1,23,True
+Kentavious CaldwellPope,3,2,53,1,Cutting Layup Shot,1,-13,6,True
+Kentavious CaldwellPope,3,3,55,1,Cutting Layup Shot,2,20,20,True
+Kentavious CaldwellPope,1,10,27,1,Cutting Layup Shot,1,-3,16,True
+Kentavious CaldwellPope,2,0,53,1,Cutting Layup Shot,1,8,7,True
+Kentavious CaldwellPope,4,3,36,1,Cutting Layup Shot,1,7,11,True
+Kentavious CaldwellPope,1,7,41,0,Cutting Layup Shot,2,-19,16,True
+Kentavious CaldwellPope,1,0,50,0,Cutting Layup Shot,2,2,20,True
+Kentavious CaldwellPope,2,2,34,1,Cutting Layup Shot,2,11,24,True
+Kentavious CaldwellPope,1,4,27,1,Cutting Layup Shot,0,2,7,True
+Kentavious CaldwellPope,2,2,5,1,Cutting Layup Shot,2,1,20,True
+Kentavious CaldwellPope,4,4,43,1,Cutting Layup Shot,1,-11,12,True
+Kentavious CaldwellPope,2,1,19,1,Cutting Layup Shot,1,11,8,True
+Kentavious CaldwellPope,1,10,48,0,Cutting Layup Shot,4,-44,8,True
+Kentavious CaldwellPope,1,6,41,1,Cutting Layup Shot,2,3,27,True
+Kentavious CaldwellPope,2,5,26,1,Cutting Layup Shot,1,-8,9,True
+Kentavious CaldwellPope,3,0,50,1,Cutting Layup Shot,0,7,3,True
+Kentavious CaldwellPope,4,5,59,1,Cutting Layup Shot,1,-11,-2,True
+Kentavious CaldwellPope,1,9,27,0,Cutting Layup Shot,1,11,5,True
+Kentavious CaldwellPope,2,7,45,1,Driving Dunk Shot,2,14,21,True
+Kentavious CaldwellPope,3,6,18,0,Driving Dunk Shot,1,-5,14,True
+Kentavious CaldwellPope,1,9,56,1,Driving Dunk Shot,1,6,8,True
+Kentavious CaldwellPope,1,3,44,1,Driving Dunk Shot,2,7,19,True
+Kentavious CaldwellPope,1,11,40,1,Driving Finger Roll Layup Shot,3,0,32,True
+Kentavious CaldwellPope,2,1,45,0,Driving Finger Roll Layup Shot,2,25,15,True
+Kentavious CaldwellPope,2,0,30,0,Driving Finger Roll Layup Shot,1,-3,16,True
+Kentavious CaldwellPope,2,5,43,0,Driving Finger Roll Layup Shot,2,-2,24,True
+Kentavious CaldwellPope,4,7,49,0,Driving Finger Roll Layup Shot,2,16,15,True
+Kentavious CaldwellPope,3,7,53,1,Driving Finger Roll Layup Shot,2,1,27,True
+Kentavious CaldwellPope,3,8,4,0,Driving Floating Bank Jump Shot,2,2,26,True
+Kentavious CaldwellPope,4,11,6,0,Driving Floating Jump Shot,4,46,8,True
+Kentavious CaldwellPope,1,7,29,0,Driving Floating Jump Shot,7,-61,41,True
+Kentavious CaldwellPope,4,6,23,1,Driving Floating Jump Shot,13,-23,134,True
+Kentavious CaldwellPope,2,1,58,1,Driving Floating Jump Shot,9,89,44,True
+Kentavious CaldwellPope,4,0,56,1,Driving Floating Jump Shot,4,-8,43,True
+Kentavious CaldwellPope,4,1,53,0,Driving Floating Jump Shot,9,-90,5,True
+Kentavious CaldwellPope,1,5,35,1,Driving Floating Jump Shot,10,0,106,True
+Kentavious CaldwellPope,4,9,54,0,Driving Floating Jump Shot,14,52,134,True
+Kentavious CaldwellPope,1,1,35,1,Driving Floating Jump Shot,6,-25,64,True
+Kentavious CaldwellPope,2,3,52,1,Driving Floating Jump Shot,6,-28,58,True
+Kentavious CaldwellPope,3,10,5,1,Driving Hook Shot,3,9,29,True
+Kentavious CaldwellPope,3,9,43,1,Driving Hook Shot,3,-11,34,True
+Kentavious CaldwellPope,2,5,2,0,Driving Hook Shot,2,2,26,True
+Kentavious CaldwellPope,2,0,0,0,Driving Hook Shot,4,-5,40,True
+Kentavious CaldwellPope,1,2,27,0,Driving Layup Shot,2,-20,5,True
+Kentavious CaldwellPope,3,2,50,0,Driving Layup Shot,2,-19,14,True
+Kentavious CaldwellPope,2,0,59,0,Driving Layup Shot,0,9,0,True
+Kentavious CaldwellPope,3,0,0,0,Driving Layup Shot,6,8,67,True
+Kentavious CaldwellPope,4,0,58,0,Driving Layup Shot,1,-5,17,True
+Kentavious CaldwellPope,1,5,47,1,Driving Layup Shot,1,7,13,True
+Kentavious CaldwellPope,2,3,17,1,Driving Layup Shot,4,-32,26,True
+Kentavious CaldwellPope,2,8,34,0,Driving Layup Shot,1,15,-1,True
+Kentavious CaldwellPope,1,11,38,1,Driving Layup Shot,1,-12,12,True
+Kentavious CaldwellPope,4,9,21,1,Driving Layup Shot,0,-5,4,True
+Kentavious CaldwellPope,4,3,33,1,Driving Layup Shot,2,-2,20,True
+Kentavious CaldwellPope,4,9,56,1,Driving Layup Shot,1,-10,15,True
+Kentavious CaldwellPope,1,4,57,1,Driving Layup Shot,3,8,36,True
+Kentavious CaldwellPope,2,6,44,0,Driving Layup Shot,1,15,2,True
+Kentavious CaldwellPope,2,4,8,1,Driving Layup Shot,1,8,8,True
+Kentavious CaldwellPope,2,0,26,1,Driving Layup Shot,2,-13,17,True
+Kentavious CaldwellPope,3,7,32,0,Driving Layup Shot,7,-54,53,True
+Kentavious CaldwellPope,3,9,46,1,Driving Layup Shot,3,2,31,True
+Kentavious CaldwellPope,1,11,47,1,Driving Layup Shot,2,5,25,True
+Kentavious CaldwellPope,2,2,14,1,Driving Layup Shot,1,12,9,True
+Kentavious CaldwellPope,1,10,47,0,Driving Layup Shot,1,18,5,True
+Kentavious CaldwellPope,1,8,56,0,Driving Layup Shot,7,-18,72,True
+Kentavious CaldwellPope,3,5,51,0,Driving Layup Shot,4,44,22,True
+Kentavious CaldwellPope,1,8,30,1,Driving Layup Shot,0,-2,6,True
+Kentavious CaldwellPope,1,7,51,1,Driving Layup Shot,2,-3,24,True
+Kentavious CaldwellPope,1,4,1,0,Driving Layup Shot,1,8,-10,True
+Kentavious CaldwellPope,2,0,27,0,Driving Layup Shot,0,3,6,True
+Kentavious CaldwellPope,4,6,1,1,Driving Layup Shot,2,17,17,True
+Kentavious CaldwellPope,2,2,16,1,Driving Layup Shot,2,-25,9,True
+Kentavious CaldwellPope,1,8,54,1,Driving Layup Shot,2,18,13,True
+Kentavious CaldwellPope,3,8,40,1,Driving Layup Shot,0,-7,6,True
+Kentavious CaldwellPope,1,2,16,1,Driving Layup Shot,0,-3,4,True
+Kentavious CaldwellPope,1,3,42,0,Driving Layup Shot,2,20,13,True
+Kentavious CaldwellPope,3,7,7,0,Driving Layup Shot,1,-12,8,True
+Kentavious CaldwellPope,4,7,52,0,Driving Reverse Layup Shot,2,18,11,True
+Kentavious CaldwellPope,3,3,15,1,Driving Reverse Layup Shot,1,5,16,True
+Kentavious CaldwellPope,4,1,16,1,Dunk Shot,0,3,6,True
+Kentavious CaldwellPope,1,2,33,0,Fadeaway Jump Shot,22,227,31,False
+Kentavious CaldwellPope,2,2,49,0,Fadeaway Jump Shot,24,-229,91,False
+Kentavious CaldwellPope,4,6,52,1,Fadeaway Jump Shot,14,-106,95,True
+Kentavious CaldwellPope,2,0,0,0,Fadeaway Jump Shot,25,-143,209,False
+Kentavious CaldwellPope,3,8,16,0,Finger Roll Layup Shot,1,0,18,True
+Kentavious CaldwellPope,3,9,47,1,Floating Jump shot,8,-2,83,True
+Kentavious CaldwellPope,5,2,9,1,Floating Jump shot,6,-23,57,True
+Kentavious CaldwellPope,3,6,4,0,Floating Jump shot,1,-6,16,True
+Kentavious CaldwellPope,1,7,50,0,Floating Jump shot,11,-84,80,True
+Kentavious CaldwellPope,2,5,37,0,Floating Jump shot,12,78,95,True
+Kentavious CaldwellPope,2,1,19,0,Floating Jump shot,8,-79,27,True
+Kentavious CaldwellPope,3,5,3,0,Floating Jump shot,8,-20,85,True
+Kentavious CaldwellPope,3,9,16,0,Floating Jump shot,7,-3,78,True
+Kentavious CaldwellPope,2,6,20,0,Floating Jump shot,11,25,110,True
+Kentavious CaldwellPope,4,3,33,0,Floating Jump shot,8,-14,85,True
+Kentavious CaldwellPope,4,5,1,0,Floating Jump shot,2,-11,24,True
+Kentavious CaldwellPope,3,4,8,0,Floating Jump shot,11,-110,2,True
+Kentavious CaldwellPope,1,9,30,1,Hook Shot,5,18,53,True
+Kentavious CaldwellPope,2,1,19,0,Jump Bank Shot,4,-36,24,True
+Kentavious CaldwellPope,3,5,53,1,Jump Shot,25,134,218,False
+Kentavious CaldwellPope,3,7,14,1,Jump Shot,25,-182,179,False
+Kentavious CaldwellPope,3,4,7,1,Jump Shot,24,-24,243,False
+Kentavious CaldwellPope,2,6,43,0,Jump Shot,26,134,226,False
+Kentavious CaldwellPope,2,7,22,0,Jump Shot,19,112,161,True
+Kentavious CaldwellPope,3,1,20,1,Jump Shot,23,236,25,False
+Kentavious CaldwellPope,3,10,57,1,Jump Shot,26,-117,243,False
+Kentavious CaldwellPope,2,5,56,0,Jump Shot,26,-98,250,False
+Kentavious CaldwellPope,3,9,54,1,Jump Shot,25,-202,158,False
+Kentavious CaldwellPope,3,3,5,0,Jump Shot,13,-7,139,True
+Kentavious CaldwellPope,4,7,55,0,Jump Shot,16,70,152,True
+Kentavious CaldwellPope,3,8,39,1,Jump Shot,26,183,189,False
+Kentavious CaldwellPope,1,3,9,0,Jump Shot,24,157,190,False
+Kentavious CaldwellPope,4,0,8,0,Jump Shot,22,-229,15,False
+Kentavious CaldwellPope,1,7,35,1,Jump Shot,25,9,255,False
+Kentavious CaldwellPope,2,9,21,1,Jump Shot,25,-21,257,False
+Kentavious CaldwellPope,1,8,34,0,Jump Shot,24,-169,183,False
+Kentavious CaldwellPope,3,3,11,0,Jump Shot,27,59,267,False
+Kentavious CaldwellPope,2,4,56,1,Jump Shot,26,110,237,False
+Kentavious CaldwellPope,2,6,53,1,Jump Shot,23,231,5,False
+Kentavious CaldwellPope,2,1,26,1,Jump Shot,23,231,5,False
+Kentavious CaldwellPope,3,6,17,0,Jump Shot,25,-218,141,False
+Kentavious CaldwellPope,3,8,51,1,Jump Shot,25,149,211,False
+Kentavious CaldwellPope,3,3,56,0,Jump Shot,26,221,143,False
+Kentavious CaldwellPope,1,3,37,0,Jump Shot,25,62,252,False
+Kentavious CaldwellPope,3,0,48,0,Jump Shot,25,-30,254,False
+Kentavious CaldwellPope,3,1,55,0,Jump Shot,9,-98,10,True
+Kentavious CaldwellPope,3,11,38,0,Jump Shot,27,137,240,False
+Kentavious CaldwellPope,3,4,11,1,Jump Shot,21,83,199,True
+Kentavious CaldwellPope,5,1,11,1,Jump Shot,26,81,257,False
+Kentavious CaldwellPope,2,4,19,1,Jump Shot,25,114,228,False
+Kentavious CaldwellPope,4,6,3,0,Jump Shot,24,178,172,False
+Kentavious CaldwellPope,4,2,43,0,Jump Shot,23,227,58,False
+Kentavious CaldwellPope,1,10,59,1,Jump Shot,25,224,115,False
+Kentavious CaldwellPope,2,10,24,1,Jump Shot,25,154,201,False
+Kentavious CaldwellPope,3,0,31,1,Jump Shot,25,-30,249,False
+Kentavious CaldwellPope,3,11,39,0,Jump Shot,24,207,131,False
+Kentavious CaldwellPope,1,7,57,1,Jump Shot,25,-167,190,False
+Kentavious CaldwellPope,4,6,40,1,Jump Shot,25,-72,249,False
+Kentavious CaldwellPope,3,10,4,0,Jump Shot,25,-141,218,False
+Kentavious CaldwellPope,4,0,6,0,Jump Shot,23,-228,33,False
+Kentavious CaldwellPope,1,1,59,0,Jump Shot,24,-136,206,False
+Kentavious CaldwellPope,3,8,27,0,Jump Shot,21,74,201,True
+Kentavious CaldwellPope,2,2,7,0,Jump Shot,25,-125,218,False
+Kentavious CaldwellPope,2,6,30,0,Jump Shot,25,-218,126,False
+Kentavious CaldwellPope,1,0,1,0,Jump Shot,25,225,126,False
+Kentavious CaldwellPope,2,8,19,0,Jump Shot,22,-228,25,False
+Kentavious CaldwellPope,2,3,41,0,Jump Shot,27,107,251,False
+Kentavious CaldwellPope,1,5,29,0,Jump Shot,24,-204,136,False
+Kentavious CaldwellPope,1,8,31,0,Jump Shot,22,-220,62,False
+Kentavious CaldwellPope,4,4,53,0,Jump Shot,23,-235,8,False
+Kentavious CaldwellPope,4,11,44,0,Jump Shot,23,228,67,False
+Kentavious CaldwellPope,1,5,33,1,Jump Shot,24,-154,194,False
+Kentavious CaldwellPope,3,10,20,0,Jump Shot,25,172,186,False
+Kentavious CaldwellPope,1,10,48,0,Jump Shot,26,120,231,False
+Kentavious CaldwellPope,1,9,42,0,Jump Shot,15,67,142,True
+Kentavious CaldwellPope,3,2,21,0,Jump Shot,25,214,142,False
+Kentavious CaldwellPope,3,11,17,1,Jump Shot,26,112,238,False
+Kentavious CaldwellPope,4,3,20,0,Jump Shot,22,-116,191,True
+Kentavious CaldwellPope,2,4,33,0,Jump Shot,26,-64,255,False
+Kentavious CaldwellPope,1,7,35,1,Jump Shot,24,-169,174,False
+Kentavious CaldwellPope,1,4,32,0,Jump Shot,25,-118,224,False
+Kentavious CaldwellPope,1,9,2,0,Jump Shot,26,86,246,False
+Kentavious CaldwellPope,4,9,13,1,Jump Shot,24,57,241,False
+Kentavious CaldwellPope,2,6,26,0,Jump Shot,26,190,179,False
+Kentavious CaldwellPope,1,6,33,0,Jump Shot,25,155,207,False
+Kentavious CaldwellPope,2,0,39,1,Jump Shot,26,-16,264,False
+Kentavious CaldwellPope,3,3,53,0,Jump Shot,26,-176,194,False
+Kentavious CaldwellPope,3,6,2,1,Jump Shot,25,-49,250,False
+Kentavious CaldwellPope,1,10,42,1,Jump Shot,28,139,246,False
+Kentavious CaldwellPope,1,9,50,1,Jump Shot,27,169,211,False
+Kentavious CaldwellPope,4,2,54,0,Jump Shot,19,-17,196,True
+Kentavious CaldwellPope,4,9,10,1,Jump Shot,26,168,202,False
+Kentavious CaldwellPope,3,0,1,0,Jump Shot,28,-172,228,False
+Kentavious CaldwellPope,2,1,10,0,Jump Shot,24,-209,137,False
+Kentavious CaldwellPope,1,6,2,1,Jump Shot,27,100,258,False
+Kentavious CaldwellPope,3,1,10,1,Jump Shot,25,-95,241,False
+Kentavious CaldwellPope,1,10,19,1,Jump Shot,26,-32,260,False
+Kentavious CaldwellPope,4,6,24,0,Jump Shot,28,-105,265,False
+Kentavious CaldwellPope,3,5,51,0,Jump Shot,17,-71,157,True
+Kentavious CaldwellPope,4,10,40,0,Jump Shot,25,218,136,False
+Kentavious CaldwellPope,1,2,10,1,Jump Shot,25,-187,174,False
+Kentavious CaldwellPope,4,8,34,0,Jump Shot,23,232,28,False
+Kentavious CaldwellPope,1,4,45,1,Jump Shot,26,14,260,False
+Kentavious CaldwellPope,2,3,40,0,Jump Shot,25,-30,253,False
+Kentavious CaldwellPope,1,0,39,0,Jump Shot,25,-223,119,False
+Kentavious CaldwellPope,1,10,8,0,Jump Shot,25,218,141,False
+Kentavious CaldwellPope,2,0,17,0,Jump Shot,24,-147,199,False
+Kentavious CaldwellPope,1,6,52,0,Jump Shot,26,128,232,False
+Kentavious CaldwellPope,1,3,9,0,Jump Shot,20,-197,38,True
+Kentavious CaldwellPope,2,3,10,1,Jump Shot,25,108,233,False
+Kentavious CaldwellPope,1,5,12,1,Jump Shot,15,-38,147,True
+Kentavious CaldwellPope,3,4,36,0,Jump Shot,25,74,247,False
+Kentavious CaldwellPope,4,1,17,0,Jump Shot,15,6,159,True
+Kentavious CaldwellPope,1,10,39,0,Jump Shot,25,215,137,False
+Kentavious CaldwellPope,3,3,49,0,Jump Shot,16,168,6,True
+Kentavious CaldwellPope,3,5,26,1,Jump Shot,26,122,232,False
+Kentavious CaldwellPope,4,11,14,0,Jump Shot,25,134,218,False
+Kentavious CaldwellPope,1,0,2,0,Jump Shot,9,71,64,True
+Kentavious CaldwellPope,4,3,45,1,Jump Shot,26,-61,256,False
+Kentavious CaldwellPope,3,5,30,1,Jump Shot,15,-2,155,True
+Kentavious CaldwellPope,2,11,29,1,Jump Shot,22,229,5,False
+Kentavious CaldwellPope,3,4,35,1,Jump Shot,25,2,251,False
+Kentavious CaldwellPope,2,7,13,0,Jump Shot,25,-49,253,False
+Kentavious CaldwellPope,1,5,14,0,Jump Shot,25,-5,252,False
+Kentavious CaldwellPope,1,8,0,0,Jump Shot,7,9,79,True
+Kentavious CaldwellPope,4,9,11,1,Jump Shot,26,143,219,False
+Kentavious CaldwellPope,1,8,26,1,Jump Shot,26,-2,260,False
+Kentavious CaldwellPope,1,5,55,1,Jump Shot,3,-1,36,True
+Kentavious CaldwellPope,2,1,28,0,Jump Shot,25,-155,201,False
+Kentavious CaldwellPope,3,10,23,0,Jump Shot,25,-200,156,False
+Kentavious CaldwellPope,3,11,18,1,Jump Shot,27,99,252,False
+Kentavious CaldwellPope,4,0,33,1,Jump Shot,25,172,185,False
+Kentavious CaldwellPope,2,1,42,1,Jump Shot,12,4,128,True
+Kentavious CaldwellPope,3,1,31,0,Jump Shot,24,-228,99,False
+Kentavious CaldwellPope,3,9,6,1,Jump Shot,25,161,195,False
+Kentavious CaldwellPope,3,8,10,1,Jump Shot,25,155,199,False
+Kentavious CaldwellPope,1,7,7,1,Jump Shot,25,182,175,False
+Kentavious CaldwellPope,1,11,46,0,Jump Shot,13,117,69,True
+Kentavious CaldwellPope,1,0,49,0,Jump Shot,20,-155,136,True
+Kentavious CaldwellPope,1,8,50,1,Jump Shot,25,178,176,False
+Kentavious CaldwellPope,1,6,14,1,Jump Shot,25,-51,249,False
+Kentavious CaldwellPope,3,9,38,0,Jump Shot,32,183,266,False
+Kentavious CaldwellPope,4,7,20,0,Jump Shot,25,123,222,False
+Kentavious CaldwellPope,3,3,51,0,Jump Shot,25,-212,140,False
+Kentavious CaldwellPope,3,9,57,0,Jump Shot,24,-226,105,False
+Kentavious CaldwellPope,1,10,56,0,Jump Shot,25,-16,252,False
+Kentavious CaldwellPope,3,9,30,1,Jump Shot,25,198,153,False
+Kentavious CaldwellPope,2,0,33,0,Jump Shot,26,10,262,False
+Kentavious CaldwellPope,3,1,17,0,Jump Shot,8,-86,-5,True
+Kentavious CaldwellPope,3,5,8,0,Jump Shot,23,231,25,False
+Kentavious CaldwellPope,1,7,4,0,Jump Shot,25,-19,256,False
+Kentavious CaldwellPope,1,4,5,0,Jump Shot,24,-162,185,False
+Kentavious CaldwellPope,3,11,49,0,Jump Shot,15,-17,157,True
+Kentavious CaldwellPope,2,2,59,0,Jump Shot,25,149,205,False
+Kentavious CaldwellPope,4,8,44,0,Jump Shot,25,-119,226,False
+Kentavious CaldwellPope,4,4,12,0,Jump Shot,19,66,182,True
+Kentavious CaldwellPope,4,4,49,1,Jump Shot,25,-113,234,False
+Kentavious CaldwellPope,3,0,42,0,Jump Shot,26,-102,246,False
+Kentavious CaldwellPope,1,8,51,0,Jump Shot,25,-78,245,False
+Kentavious CaldwellPope,3,10,0,1,Jump Shot,23,-231,4,False
+Kentavious CaldwellPope,4,2,41,1,Jump Shot,26,-168,200,False
+Kentavious CaldwellPope,1,7,9,1,Jump Shot,25,-19,258,False
+Kentavious CaldwellPope,3,6,41,0,Jump Shot,25,-212,143,False
+Kentavious CaldwellPope,3,6,27,1,Jump Shot,27,61,266,False
+Kentavious CaldwellPope,1,11,48,0,Jump Shot,26,-117,237,False
+Kentavious CaldwellPope,3,8,41,1,Jump Shot,26,177,200,False
+Kentavious CaldwellPope,3,2,10,0,Jump Shot,25,-4,258,False
+Kentavious CaldwellPope,3,8,8,0,Jump Shot,26,-91,245,False
+Kentavious CaldwellPope,2,5,45,0,Jump Shot,24,129,211,False
+Kentavious CaldwellPope,1,7,51,1,Jump Shot,23,-229,25,False
+Kentavious CaldwellPope,1,3,13,1,Jump Shot,25,-181,184,False
+Kentavious CaldwellPope,1,5,24,1,Jump Shot,23,-180,158,False
+Kentavious CaldwellPope,2,1,55,0,Jump Shot,23,-230,-4,False
+Kentavious CaldwellPope,1,6,28,0,Jump Shot,19,-35,193,True
+Kentavious CaldwellPope,4,2,53,1,Jump Shot,26,-127,228,False
+Kentavious CaldwellPope,3,5,2,1,Jump Shot,25,103,234,False
+Kentavious CaldwellPope,1,11,45,0,Jump Shot,22,-228,1,False
+Kentavious CaldwellPope,3,3,13,0,Jump Shot,25,76,242,False
+Kentavious CaldwellPope,3,1,13,1,Jump Shot,25,119,231,False
+Kentavious CaldwellPope,1,5,58,0,Jump Shot,25,-176,178,False
+Kentavious CaldwellPope,3,9,20,0,Jump Shot,21,-114,183,True
+Kentavious CaldwellPope,1,3,56,0,Jump Shot,26,117,234,False
+Kentavious CaldwellPope,1,11,46,1,Jump Shot,25,-192,168,False
+Kentavious CaldwellPope,3,8,14,1,Jump Shot,25,-182,181,False
+Kentavious CaldwellPope,1,6,17,0,Jump Shot,25,-141,214,False
+Kentavious CaldwellPope,1,2,8,0,Jump Shot,26,-81,252,False
+Kentavious CaldwellPope,2,3,9,0,Jump Shot,23,228,57,False
+Kentavious CaldwellPope,1,3,22,1,Jump Shot,24,-108,224,False
+Kentavious CaldwellPope,2,5,37,1,Jump Shot,25,-143,215,False
+Kentavious CaldwellPope,2,2,30,0,Jump Shot,26,105,242,False
+Kentavious CaldwellPope,3,10,5,0,Jump Shot,25,85,239,False
+Kentavious CaldwellPope,3,7,20,0,Jump Shot,27,-51,273,False
+Kentavious CaldwellPope,3,4,14,1,Jump Shot,25,83,239,False
+Kentavious CaldwellPope,2,2,21,1,Jump Shot,16,-94,137,True
+Kentavious CaldwellPope,1,7,42,1,Jump Shot,23,233,48,False
+Kentavious CaldwellPope,2,4,58,0,Jump Shot,24,223,110,False
+Kentavious CaldwellPope,2,0,47,1,Jump Shot,26,-137,223,False
+Kentavious CaldwellPope,3,11,12,0,Jump Shot,25,-171,195,False
+Kentavious CaldwellPope,2,6,1,0,Jump Shot,24,-209,135,False
+Kentavious CaldwellPope,1,10,52,0,Jump Shot,24,-85,231,False
+Kentavious CaldwellPope,3,9,2,0,Jump Shot,13,-27,130,True
+Kentavious CaldwellPope,2,4,49,0,Jump Shot,18,106,150,True
+Kentavious CaldwellPope,3,8,16,1,Jump Shot,26,122,231,False
+Kentavious CaldwellPope,3,3,39,1,Jump Shot,25,242,80,False
+Kentavious CaldwellPope,3,8,14,0,Jump Shot,22,-228,11,False
+Kentavious CaldwellPope,3,6,47,0,Jump Shot,27,-57,267,False
+Kentavious CaldwellPope,3,10,44,0,Jump Shot,25,154,197,False
+Kentavious CaldwellPope,4,5,0,1,Jump Shot,23,228,36,False
+Kentavious CaldwellPope,3,0,50,0,Jump Shot,25,-41,251,False
+Kentavious CaldwellPope,3,1,45,0,Jump Shot,25,-130,223,False
+Kentavious CaldwellPope,2,2,23,1,Jump Shot,27,161,220,False
+Kentavious CaldwellPope,3,10,25,0,Jump Shot,23,236,27,False
+Kentavious CaldwellPope,1,2,0,0,Jump Shot,20,85,188,True
+Kentavious CaldwellPope,4,0,12,0,Jump Shot,22,-227,13,False
+Kentavious CaldwellPope,2,6,22,1,Jump Shot,26,-122,230,False
+Kentavious CaldwellPope,4,0,7,0,Jump Shot,26,94,250,False
+Kentavious CaldwellPope,2,0,53,0,Jump Shot,23,-229,59,False
+Kentavious CaldwellPope,3,2,56,0,Jump Shot,24,-72,236,False
+Kentavious CaldwellPope,4,0,45,0,Jump Shot,25,161,200,False
+Kentavious CaldwellPope,2,5,5,0,Jump Shot,22,224,30,False
+Kentavious CaldwellPope,2,3,55,0,Jump Shot,25,-140,216,False
+Kentavious CaldwellPope,1,9,26,0,Jump Shot,25,82,246,False
+Kentavious CaldwellPope,4,6,53,0,Jump Shot,20,-199,57,True
+Kentavious CaldwellPope,2,8,15,0,Jump Shot,27,111,251,False
+Kentavious CaldwellPope,2,7,46,0,Jump Shot,25,-80,245,False
+Kentavious CaldwellPope,3,11,3,0,Jump Shot,26,-188,183,False
+Kentavious CaldwellPope,4,2,22,0,Jump Shot,27,-9,273,False
+Kentavious CaldwellPope,2,0,0,0,Jump Shot,25,-101,231,False
+Kentavious CaldwellPope,3,9,3,0,Jump Shot,26,106,241,False
+Kentavious CaldwellPope,2,0,27,1,Jump Shot,23,-230,-12,False
+Kentavious CaldwellPope,3,3,19,0,Jump Shot,24,-210,134,False
+Kentavious CaldwellPope,3,10,23,1,Jump Shot,24,-47,244,False
+Kentavious CaldwellPope,4,2,49,0,Jump Shot,26,-168,200,False
+Kentavious CaldwellPope,5,1,49,0,Jump Shot,24,-207,138,False
+Kentavious CaldwellPope,3,0,1,0,Jump Shot,24,222,102,False
+Kentavious CaldwellPope,2,0,39,0,Jump Shot,25,-81,246,False
+Kentavious CaldwellPope,3,3,14,1,Jump Shot,22,-226,-10,False
+Kentavious CaldwellPope,3,6,21,0,Jump Shot,25,189,174,False
+Kentavious CaldwellPope,1,9,51,1,Jump Shot,24,-241,55,False
+Kentavious CaldwellPope,5,0,33,0,Jump Shot,24,-201,138,False
+Kentavious CaldwellPope,2,6,19,0,Jump Shot,24,-218,119,False
+Kentavious CaldwellPope,3,9,38,0,Jump Shot,25,-209,151,False
+Kentavious CaldwellPope,2,0,0,1,Jump Shot,25,161,198,False
+Kentavious CaldwellPope,1,4,48,0,Jump Shot,13,-55,127,True
+Kentavious CaldwellPope,3,5,40,1,Jump Shot,25,-11,256,False
+Kentavious CaldwellPope,1,6,40,1,Jump Shot,20,181,105,True
+Kentavious CaldwellPope,4,5,19,1,Jump Shot,26,-138,223,False
+Kentavious CaldwellPope,3,10,7,0,Jump Shot,16,-38,159,True
+Kentavious CaldwellPope,2,2,7,1,Jump Shot,13,-51,121,True
+Kentavious CaldwellPope,1,3,11,1,Jump Shot,27,-144,236,False
+Kentavious CaldwellPope,3,4,55,0,Jump Shot,21,22,216,True
+Kentavious CaldwellPope,1,6,29,1,Jump Shot,23,-164,168,True
+Kentavious CaldwellPope,3,0,1,0,Jump Shot,25,-144,216,False
+Kentavious CaldwellPope,2,1,55,1,Jump Shot,27,145,230,False
+Kentavious CaldwellPope,3,6,46,0,Jump Shot,16,-124,105,True
+Kentavious CaldwellPope,2,5,49,0,Jump Shot,26,191,189,False
+Kentavious CaldwellPope,3,7,17,1,Jump Shot,24,232,79,False
+Kentavious CaldwellPope,3,4,18,0,Jump Shot,23,-230,6,False
+Kentavious CaldwellPope,4,3,58,0,Jump Shot,22,-81,207,True
+Kentavious CaldwellPope,1,1,40,0,Jump Shot,24,-239,24,False
+Kentavious CaldwellPope,3,3,29,0,Jump Shot,19,-136,144,True
+Kentavious CaldwellPope,1,3,11,1,Jump Shot,26,-215,161,False
+Kentavious CaldwellPope,3,10,45,1,Jump Shot,24,-185,168,False
+Kentavious CaldwellPope,1,8,54,0,Jump Shot,24,-169,172,False
+Kentavious CaldwellPope,3,8,29,0,Jump Shot,25,-190,172,False
+Kentavious CaldwellPope,1,6,9,0,Jump Shot,22,-222,-13,False
+Kentavious CaldwellPope,3,5,36,0,Jump Shot,18,86,164,True
+Kentavious CaldwellPope,3,10,5,0,Jump Shot,26,-33,262,False
+Kentavious CaldwellPope,4,9,15,0,Jump Shot,26,-147,226,False
+Kentavious CaldwellPope,1,3,34,0,Jump Shot,24,214,124,False
+Kentavious CaldwellPope,4,2,18,0,Jump Shot,28,-107,262,False
+Kentavious CaldwellPope,1,11,12,0,Jump Shot,26,203,168,False
+Kentavious CaldwellPope,5,3,11,0,Jump Shot,25,-230,117,False
+Kentavious CaldwellPope,2,1,24,1,Jump Shot,25,219,136,False
+Kentavious CaldwellPope,3,11,2,0,Jump Shot,16,-24,162,True
+Kentavious CaldwellPope,4,10,28,1,Jump Shot,26,-30,262,False
+Kentavious CaldwellPope,4,5,25,0,Jump Shot,23,230,14,False
+Kentavious CaldwellPope,1,2,18,0,Jump Shot,26,-6,263,False
+Kentavious CaldwellPope,1,0,31,1,Jump Shot,23,-230,2,False
+Kentavious CaldwellPope,2,0,0,0,Jump Shot,25,-166,195,False
+Kentavious CaldwellPope,3,10,39,0,Jump Shot,25,-128,224,False
+Kentavious CaldwellPope,1,5,2,1,Jump Shot,22,-224,5,False
+Kentavious CaldwellPope,4,7,5,0,Jump Shot,26,-82,247,False
+Kentavious CaldwellPope,4,1,51,0,Jump Shot,21,-117,180,True
+Kentavious CaldwellPope,1,6,45,1,Jump Shot,23,225,76,False
+Kentavious CaldwellPope,2,1,25,0,Jump Shot,22,-116,197,True
+Kentavious CaldwellPope,3,3,19,1,Jump Shot,26,30,264,False
+Kentavious CaldwellPope,3,11,24,0,Jump Shot,15,84,126,True
+Kentavious CaldwellPope,2,3,40,0,Jump Shot,26,-117,238,False
+Kentavious CaldwellPope,3,5,53,0,Jump Shot,24,-177,164,False
+Kentavious CaldwellPope,1,11,8,1,Jump Shot,22,-229,13,False
+Kentavious CaldwellPope,2,2,21,0,Jump Shot,20,8,205,True
+Kentavious CaldwellPope,4,5,33,0,Jump Shot,22,172,143,True
+Kentavious CaldwellPope,4,6,26,1,Jump Shot,25,138,215,False
+Kentavious CaldwellPope,1,11,31,0,Jump Shot,25,203,162,False
+Kentavious CaldwellPope,4,1,37,1,Jump Shot,24,157,188,False
+Kentavious CaldwellPope,4,0,9,1,Jump Shot,26,134,229,False
+Kentavious CaldwellPope,3,0,34,0,Jump Shot,26,-34,264,False
+Kentavious CaldwellPope,4,5,24,1,Jump Shot,24,-229,83,False
+Kentavious CaldwellPope,3,5,18,1,Jump Shot,20,124,167,True
+Kentavious CaldwellPope,2,1,1,0,Jump Shot,23,-160,178,False
+Kentavious CaldwellPope,1,10,1,0,Jump Shot,25,-173,190,False
+Kentavious CaldwellPope,3,6,33,1,Jump Shot,27,113,247,False
+Kentavious CaldwellPope,1,3,34,1,Jump Shot,22,-223,45,False
+Kentavious CaldwellPope,2,5,57,0,Jump Shot,23,230,-1,False
+Kentavious CaldwellPope,4,1,27,0,Jump Shot,25,145,210,False
+Kentavious CaldwellPope,2,3,34,1,Jump Shot,25,103,232,False
+Kentavious CaldwellPope,4,5,26,0,Jump Shot,24,-242,20,False
+Kentavious CaldwellPope,4,1,0,0,Jump Shot,26,110,236,False
+Kentavious CaldwellPope,1,5,7,0,Jump Shot,13,93,104,True
+Kentavious CaldwellPope,2,1,23,1,Jump Shot,24,-228,97,False
+Kentavious CaldwellPope,4,4,27,1,Jump Shot,21,171,127,True
+Kentavious CaldwellPope,3,2,18,0,Jump Shot,23,-232,14,False
+Kentavious CaldwellPope,3,2,37,0,Jump Shot,26,-7,269,False
+Kentavious CaldwellPope,1,7,22,1,Jump Shot,22,-225,0,False
+Kentavious CaldwellPope,1,1,54,1,Jump Shot,26,-203,173,False
+Kentavious CaldwellPope,2,3,51,0,Jump Shot,26,182,198,False
+Kentavious CaldwellPope,3,3,56,0,Jump Shot,25,106,231,False
+Kentavious CaldwellPope,2,1,11,1,Jump Shot,25,-84,243,False
+Kentavious CaldwellPope,2,5,52,0,Jump Shot,19,188,56,True
+Kentavious CaldwellPope,1,8,14,0,Jump Shot,23,230,53,False
+Kentavious CaldwellPope,3,8,11,0,Jump Shot,27,-32,274,False
+Kentavious CaldwellPope,4,6,26,0,Jump Shot,26,116,243,False
+Kentavious CaldwellPope,2,3,53,1,Jump Shot,27,-5,278,False
+Kentavious CaldwellPope,2,4,15,0,Jump Shot,30,94,288,False
+Kentavious CaldwellPope,3,9,2,0,Jump Shot,26,-213,152,False
+Kentavious CaldwellPope,4,3,58,0,Jump Shot,26,21,260,False
+Kentavious CaldwellPope,3,6,24,1,Jump Shot,21,-81,202,True
+Kentavious CaldwellPope,4,5,47,0,Jump Shot,25,-89,239,False
+Kentavious CaldwellPope,1,9,16,0,Jump Shot,22,-221,9,False
+Kentavious CaldwellPope,3,1,53,0,Jump Shot,25,116,230,False
+Kentavious CaldwellPope,2,4,20,0,Jump Shot,27,131,240,False
+Kentavious CaldwellPope,2,5,43,1,Jump Shot,26,-163,205,False
+Kentavious CaldwellPope,2,5,7,1,Jump Shot,22,-223,14,False
+Kentavious CaldwellPope,3,5,50,1,Jump Shot,26,-223,137,False
+Kentavious CaldwellPope,3,11,20,0,Jump Shot,25,127,218,False
+Kentavious CaldwellPope,1,5,58,0,Jump Shot,23,-231,-11,False
+Kentavious CaldwellPope,3,9,29,0,Jump Shot,25,-176,180,False
+Kentavious CaldwellPope,4,3,3,0,Jump Shot,26,145,227,False
+Kentavious CaldwellPope,1,4,5,0,Jump Shot,17,-90,148,True
+Kentavious CaldwellPope,3,4,44,0,Jump Shot,23,228,74,False
+Kentavious CaldwellPope,1,6,3,0,Jump Shot,24,-153,195,False
+Kentavious CaldwellPope,4,1,43,0,Jump Shot,24,2,248,False
+Kentavious CaldwellPope,3,9,34,0,Jump Shot,25,138,210,False
+Kentavious CaldwellPope,3,10,25,1,Jump Shot,26,-109,237,False
+Kentavious CaldwellPope,1,5,21,1,Jump Shot,22,226,40,False
+Kentavious CaldwellPope,1,7,29,0,Jump Shot,25,88,240,False
+Kentavious CaldwellPope,3,4,44,0,Jump Shot,23,230,41,False
+Kentavious CaldwellPope,3,3,36,0,Jump Shot,20,193,64,True
+Kentavious CaldwellPope,1,8,13,0,Jump Shot,24,-160,185,False
+Kentavious CaldwellPope,2,7,26,0,Jump Shot,23,-234,-12,False
+Kentavious CaldwellPope,2,0,1,0,Jump Shot,24,150,193,False
+Kentavious CaldwellPope,1,10,35,0,Jump Shot,24,141,200,False
+Kentavious CaldwellPope,3,11,10,0,Jump Shot,25,129,215,False
+Kentavious CaldwellPope,3,5,8,0,Jump Shot,23,215,105,False
+Kentavious CaldwellPope,5,2,40,0,Jump Shot,26,207,169,False
+Kentavious CaldwellPope,2,1,4,0,Jump Shot,25,-116,231,False
+Kentavious CaldwellPope,4,3,51,1,Jump Shot,26,-143,223,False
+Kentavious CaldwellPope,2,5,22,1,Jump Shot,27,104,251,False
+Kentavious CaldwellPope,1,4,1,1,Jump Shot,18,60,180,True
+Kentavious CaldwellPope,5,0,58,1,Jump Shot,23,-232,41,False
+Kentavious CaldwellPope,2,7,36,0,Jump Shot,22,-18,222,True
+Kentavious CaldwellPope,4,0,26,0,Jump Shot,23,-228,50,False
+Kentavious CaldwellPope,3,5,22,0,Jump Shot,23,223,63,False
+Kentavious CaldwellPope,4,1,45,0,Jump Shot,13,-90,100,True
+Kentavious CaldwellPope,1,10,38,0,Jump Shot,26,-125,235,False
+Kentavious CaldwellPope,2,0,21,0,Layup Shot,0,1,4,True
+Kentavious CaldwellPope,3,6,58,1,Layup Shot,2,0,27,True
+Kentavious CaldwellPope,1,5,47,0,Layup Shot,1,6,17,True
+Kentavious CaldwellPope,3,5,16,1,Layup Shot,0,3,8,True
+Kentavious CaldwellPope,1,5,25,0,Layup Shot,1,3,16,True
+Kentavious CaldwellPope,1,2,49,1,Layup Shot,1,0,18,True
+Kentavious CaldwellPope,4,10,15,0,Layup Shot,7,15,69,True
+Kentavious CaldwellPope,1,8,0,0,Layup Shot,1,4,12,True
+Kentavious CaldwellPope,2,3,0,1,Layup Shot,2,-20,14,True
+Kentavious CaldwellPope,1,7,44,0,Layup Shot,1,-1,11,True
+Kentavious CaldwellPope,1,9,24,0,Layup Shot,6,-58,26,True
+Kentavious CaldwellPope,2,5,26,0,Layup Shot,2,-16,15,True
+Kentavious CaldwellPope,3,3,1,0,Layup Shot,1,2,11,True
+Kentavious CaldwellPope,1,8,7,0,Layup Shot,1,1,19,True
+Kentavious CaldwellPope,3,9,16,1,Layup Shot,1,5,14,True
+Kentavious CaldwellPope,1,5,40,0,Layup Shot,0,-6,0,True
+Kentavious CaldwellPope,3,11,7,0,Layup Shot,2,26,5,True
+Kentavious CaldwellPope,3,2,41,0,Layup Shot,2,18,10,True
+Kentavious CaldwellPope,4,5,29,0,Pullup Jump shot,24,186,166,False
+Kentavious CaldwellPope,1,9,40,0,Pullup Jump shot,13,-130,-12,True
+Kentavious CaldwellPope,4,9,51,0,Pullup Jump shot,18,120,142,True
+Kentavious CaldwellPope,1,7,19,0,Pullup Jump shot,15,95,122,True
+Kentavious CaldwellPope,4,6,40,1,Pullup Jump shot,17,106,138,True
+Kentavious CaldwellPope,1,9,37,1,Pullup Jump shot,18,55,179,True
+Kentavious CaldwellPope,4,11,20,0,Pullup Jump shot,18,81,161,True
+Kentavious CaldwellPope,1,11,17,1,Pullup Jump shot,20,-176,112,True
+Kentavious CaldwellPope,1,9,37,0,Pullup Jump shot,25,161,199,False
+Kentavious CaldwellPope,1,2,30,0,Pullup Jump shot,20,110,177,True
+Kentavious CaldwellPope,3,1,44,0,Pullup Jump shot,16,-116,120,True
+Kentavious CaldwellPope,2,3,27,0,Pullup Jump shot,15,-25,150,True
+Kentavious CaldwellPope,3,2,20,0,Pullup Jump shot,20,109,169,True
+Kentavious CaldwellPope,3,8,4,0,Pullup Jump shot,17,89,146,True
+Kentavious CaldwellPope,1,4,54,0,Pullup Jump shot,14,13,147,True
+Kentavious CaldwellPope,3,0,56,0,Pullup Jump shot,17,50,166,True
+Kentavious CaldwellPope,2,0,8,0,Pullup Jump shot,18,-24,186,True
+Kentavious CaldwellPope,3,8,27,0,Pullup Jump shot,19,145,123,True
+Kentavious CaldwellPope,3,5,33,0,Pullup Jump shot,17,117,130,True
+Kentavious CaldwellPope,3,4,6,1,Pullup Jump shot,25,134,216,False
+Kentavious CaldwellPope,3,4,50,1,Pullup Jump shot,10,104,15,True
+Kentavious CaldwellPope,4,7,0,1,Pullup Jump shot,25,-150,207,False
+Kentavious CaldwellPope,3,11,34,1,Pullup Jump shot,26,205,167,False
+Kentavious CaldwellPope,2,3,25,1,Pullup Jump shot,18,-134,130,True
+Kentavious CaldwellPope,2,7,9,0,Pullup Jump shot,13,-57,122,True
+Kentavious CaldwellPope,2,2,25,0,Pullup Jump shot,18,90,163,True
+Kentavious CaldwellPope,4,4,41,1,Pullup Jump shot,19,195,-1,True
+Kentavious CaldwellPope,3,4,16,0,Pullup Jump shot,21,-58,210,True
+Kentavious CaldwellPope,4,4,1,0,Pullup Jump shot,13,-57,126,True
+Kentavious CaldwellPope,3,11,11,0,Pullup Jump shot,25,-198,154,False
+Kentavious CaldwellPope,1,2,34,1,Pullup Jump shot,18,123,135,True
+Kentavious CaldwellPope,1,1,21,0,Pullup Jump shot,25,171,185,False
+Kentavious CaldwellPope,3,5,57,1,Pullup Jump shot,26,-164,206,False
+Kentavious CaldwellPope,1,1,56,0,Pullup Jump shot,17,90,145,True
+Kentavious CaldwellPope,1,6,37,0,Pullup Jump shot,24,129,212,False
+Kentavious CaldwellPope,4,5,32,1,Pullup Jump shot,16,16,160,True
+Kentavious CaldwellPope,1,7,12,1,Pullup Jump shot,18,-169,80,True
+Kentavious CaldwellPope,1,4,54,0,Pullup Jump shot,17,89,147,True
+Kentavious CaldwellPope,1,9,10,1,Pullup Jump shot,17,-95,143,True
+Kentavious CaldwellPope,1,7,49,0,Pullup Jump shot,21,99,190,True
+Kentavious CaldwellPope,4,6,42,0,Pullup Jump shot,25,-162,197,False
+Kentavious CaldwellPope,1,7,16,0,Pullup Jump shot,26,-65,256,False
+Kentavious CaldwellPope,3,3,18,0,Pullup Jump shot,17,51,169,True
+Kentavious CaldwellPope,1,6,35,1,Pullup Jump shot,19,-125,151,True
+Kentavious CaldwellPope,2,7,23,0,Pullup Jump shot,27,54,268,False
+Kentavious CaldwellPope,3,1,16,0,Pullup Jump shot,20,98,179,True
+Kentavious CaldwellPope,1,7,41,0,Pullup Jump shot,16,-66,153,True
+Kentavious CaldwellPope,4,3,47,0,Pullup Jump shot,25,135,214,False
+Kentavious CaldwellPope,3,8,27,0,Pullup Jump shot,16,133,105,True
+Kentavious CaldwellPope,3,3,8,0,Pullup Jump shot,22,-38,220,True
+Kentavious CaldwellPope,4,3,2,0,Pullup Jump shot,15,93,125,True
+Kentavious CaldwellPope,1,9,2,0,Pullup Jump shot,25,163,194,False
+Kentavious CaldwellPope,3,8,29,0,Pullup Jump shot,8,60,53,True
+Kentavious CaldwellPope,1,6,19,1,Pullup Jump shot,11,-117,10,True
+Kentavious CaldwellPope,3,2,8,1,Pullup Jump shot,16,110,125,True
+Kentavious CaldwellPope,4,4,32,0,Pullup Jump shot,24,-77,236,False
+Kentavious CaldwellPope,3,0,54,0,Pullup Jump shot,18,122,143,True
+Kentavious CaldwellPope,1,10,22,0,Pullup Jump shot,17,2,179,True
+Kentavious CaldwellPope,1,9,16,1,Pullup Jump shot,16,-119,108,True
+Kentavious CaldwellPope,3,5,35,1,Pullup Jump shot,17,-102,145,True
+Kentavious CaldwellPope,3,9,39,0,Pullup Jump shot,27,-141,231,False
+Kentavious CaldwellPope,1,5,19,0,Pullup Jump shot,16,90,143,True
+Kentavious CaldwellPope,2,6,45,0,Pullup Jump shot,16,91,133,True
+Kentavious CaldwellPope,3,8,19,1,Pullup Jump shot,13,-9,131,True
+Kentavious CaldwellPope,3,11,6,1,Pullup Jump shot,13,-139,12,True
+Kentavious CaldwellPope,3,4,13,1,Pullup Jump shot,15,82,136,True
+Kentavious CaldwellPope,3,6,32,1,Pullup Jump shot,20,-72,194,True
+Kentavious CaldwellPope,1,7,21,0,Pullup Jump shot,13,125,63,True
+Kentavious CaldwellPope,3,4,18,0,Pullup Jump shot,15,-7,152,True
+Kentavious CaldwellPope,3,5,31,1,Pullup Jump shot,18,-158,90,True
+Kentavious CaldwellPope,4,6,58,1,Pullup Jump shot,16,-28,163,True
+Kentavious CaldwellPope,1,11,23,0,Pullup Jump shot,25,132,214,False
+Kentavious CaldwellPope,4,7,29,1,Pullup Jump shot,19,-62,190,True
+Kentavious CaldwellPope,4,0,24,0,Pullup Jump shot,25,-114,228,False
+Kentavious CaldwellPope,2,5,6,0,Pullup Jump shot,16,-160,8,True
+Kentavious CaldwellPope,2,4,45,0,Pullup Jump shot,18,105,153,True
+Kentavious CaldwellPope,3,6,3,1,Pullup Jump shot,19,92,168,True
+Kentavious CaldwellPope,2,5,16,0,Pullup Jump shot,20,25,206,True
+Kentavious CaldwellPope,4,0,19,1,Pullup Jump shot,18,-78,164,True
+Kentavious CaldwellPope,4,7,34,0,Pullup Jump shot,18,98,162,True
+Kentavious CaldwellPope,2,2,35,0,Pullup Jump shot,18,-139,128,True
+Kentavious CaldwellPope,1,1,18,1,Pullup Jump shot,27,-51,272,False
+Kentavious CaldwellPope,3,7,47,1,Pullup Jump shot,17,49,170,True
+Kentavious CaldwellPope,2,2,25,1,Pullup Jump shot,17,-115,130,True
+Kentavious CaldwellPope,3,7,24,1,Pullup Jump shot,28,-153,241,False
+Kentavious CaldwellPope,4,8,9,1,Pullup Jump shot,27,-130,238,False
+Kentavious CaldwellPope,3,8,36,1,Pullup Jump shot,14,14,147,True
+Kentavious CaldwellPope,2,4,57,0,Pullup Jump shot,16,96,131,True
+Kentavious CaldwellPope,3,10,4,0,Pullup Jump shot,13,16,133,True
+Kentavious CaldwellPope,2,0,26,0,Pullup Jump shot,15,-54,143,True
+Kentavious CaldwellPope,1,11,38,0,Pullup Jump shot,16,65,151,True
+Kentavious CaldwellPope,2,1,54,0,Pullup Jump shot,21,32,216,True
+Kentavious CaldwellPope,2,1,24,1,Pullup Jump shot,25,184,178,False
+Kentavious CaldwellPope,3,3,26,0,Pullup Jump shot,26,-119,232,False
+Kentavious CaldwellPope,3,7,27,1,Pullup Jump shot,14,100,107,True
+Kentavious CaldwellPope,1,2,40,0,Pullup Jump shot,25,121,220,False
+Kentavious CaldwellPope,2,0,35,0,Pullup Jump shot,17,80,152,True
+Kentavious CaldwellPope,1,6,39,1,Pullup Jump shot,19,-29,194,True
+Kentavious CaldwellPope,1,7,11,0,Pullup Jump shot,25,150,209,False
+Kentavious CaldwellPope,3,6,24,0,Pullup Jump shot,18,-92,155,True
+Kentavious CaldwellPope,3,8,50,0,Pullup Jump shot,25,-148,206,False
+Kentavious CaldwellPope,3,6,25,0,Pullup Jump shot,25,-55,252,False
+Kentavious CaldwellPope,2,3,14,0,Pullup Jump shot,25,98,235,False
+Kentavious CaldwellPope,1,10,53,1,Pullup Jump shot,16,-169,10,True
+Kentavious CaldwellPope,1,10,17,0,Pullup Jump shot,19,-107,161,True
+Kentavious CaldwellPope,4,0,34,0,Pullup Jump shot,11,-114,-1,True
+Kentavious CaldwellPope,1,0,37,0,Pullup Jump shot,20,-79,193,True
+Kentavious CaldwellPope,4,3,56,1,Pullup Jump shot,18,21,185,True
+Kentavious CaldwellPope,2,3,55,1,Putback Layup Shot,0,0,-6,True
+Kentavious CaldwellPope,4,0,5,0,Putback Layup Shot,2,4,22,True
+Kentavious CaldwellPope,1,9,55,1,Putback Layup Shot,0,0,-6,True
+Kentavious CaldwellPope,3,8,37,0,Reverse Layup Shot,3,-14,27,True
+Kentavious CaldwellPope,1,5,11,1,Reverse Layup Shot,2,-6,25,True
+Kentavious CaldwellPope,1,7,8,1,Reverse Layup Shot,1,9,10,True
+Kentavious CaldwellPope,4,7,26,1,Running Dunk Shot,1,-2,10,True
+Kentavious CaldwellPope,2,1,6,1,Running Dunk Shot,1,-2,13,True
+Kentavious CaldwellPope,4,5,48,1,Running Dunk Shot,1,-2,13,True
+Kentavious CaldwellPope,3,6,5,1,Running Dunk Shot,1,-1,10,True
+Kentavious CaldwellPope,3,9,8,1,Running Dunk Shot,1,-3,12,True
+Kentavious CaldwellPope,1,7,4,1,Running Dunk Shot,0,3,9,True
+Kentavious CaldwellPope,3,0,14,1,Running Dunk Shot,1,-11,9,True
+Kentavious CaldwellPope,1,7,4,1,Running Dunk Shot,0,0,9,True
+Kentavious CaldwellPope,1,5,4,1,Running Dunk Shot,1,3,17,True
+Kentavious CaldwellPope,3,2,21,1,Running Dunk Shot,2,-8,20,True
+Kentavious CaldwellPope,3,5,19,1,Running Dunk Shot,0,1,8,True
+Kentavious CaldwellPope,1,2,43,1,Running Dunk Shot,0,1,8,True
+Kentavious CaldwellPope,1,8,44,1,Running Dunk Shot,2,-5,25,True
+Kentavious CaldwellPope,3,4,46,1,Running Dunk Shot,0,-3,6,True
+Kentavious CaldwellPope,2,4,48,1,Running Finger Roll Layup Shot,1,-2,14,True
+Kentavious CaldwellPope,3,0,24,1,Running Finger Roll Layup Shot,0,2,7,True
+Kentavious CaldwellPope,3,5,4,1,Running Finger Roll Layup Shot,0,-1,5,True
+Kentavious CaldwellPope,3,0,9,1,Running Finger Roll Layup Shot,0,6,3,True
+Kentavious CaldwellPope,4,8,27,1,Running Jump Shot,3,-17,33,True
+Kentavious CaldwellPope,3,10,11,0,Running Jump Shot,10,-103,27,True
+Kentavious CaldwellPope,4,4,53,0,Running Jump Shot,8,41,79,True
+Kentavious CaldwellPope,4,0,51,0,Running Jump Shot,5,9,57,True
+Kentavious CaldwellPope,3,9,59,0,Running Jump Shot,27,-172,218,False
+Kentavious CaldwellPope,1,7,55,0,Running Jump Shot,26,-161,206,False
+Kentavious CaldwellPope,3,7,28,0,Running Jump Shot,10,55,92,True
+Kentavious CaldwellPope,3,9,56,1,Running Jump Shot,19,197,-26,True
+Kentavious CaldwellPope,3,7,5,1,Running Jump Shot,9,51,77,True
+Kentavious CaldwellPope,1,2,40,0,Running Jump Shot,26,-84,253,False
+Kentavious CaldwellPope,1,9,43,1,Running Layup Shot,2,9,19,True
+Kentavious CaldwellPope,3,5,29,1,Running Layup Shot,0,-7,0,True
+Kentavious CaldwellPope,2,5,32,1,Running Layup Shot,1,-13,3,True
+Kentavious CaldwellPope,1,7,50,1,Running Layup Shot,0,-2,6,True
+Kentavious CaldwellPope,3,10,12,0,Running Layup Shot,3,-20,27,True
+Kentavious CaldwellPope,4,2,16,0,Running Layup Shot,2,-14,16,True
+Kentavious CaldwellPope,1,5,27,0,Running Layup Shot,6,-31,62,True
+Kentavious CaldwellPope,2,0,17,0,Running Layup Shot,4,30,37,True
+Kentavious CaldwellPope,2,2,15,1,Running Layup Shot,2,3,21,True
+Kentavious CaldwellPope,1,2,49,1,Running Layup Shot,2,1,26,True
+Kentavious CaldwellPope,1,7,1,0,Running Layup Shot,0,1,-1,True
+Kentavious CaldwellPope,1,4,36,1,Running Layup Shot,2,-16,13,True
+Kentavious CaldwellPope,2,0,27,1,Running Layup Shot,1,-3,12,True
+Kentavious CaldwellPope,1,8,18,1,Running Layup Shot,0,0,-6,True
+Kentavious CaldwellPope,1,8,10,0,Running Layup Shot,2,12,22,True
+Kentavious CaldwellPope,1,2,28,1,Running Layup Shot,0,0,9,True
+Kentavious CaldwellPope,1,5,53,1,Running Layup Shot,1,11,9,True
+Kentavious CaldwellPope,1,6,38,0,Running Layup Shot,1,16,3,True
+Kentavious CaldwellPope,4,3,1,1,Running Layup Shot,1,-13,11,True
+Kentavious CaldwellPope,1,7,15,1,Running Layup Shot,1,4,10,True
+Kentavious CaldwellPope,3,4,3,1,Running Layup Shot,2,-2,20,True
+Kentavious CaldwellPope,1,6,51,1,Running Layup Shot,0,-5,6,True
+Kentavious CaldwellPope,2,2,41,1,Running Layup Shot,1,11,5,True
+Kentavious CaldwellPope,1,9,56,1,Running Pull-Up Jump Shot,21,-186,110,True
+Kentavious CaldwellPope,1,0,32,0,Running Pull-Up Jump Shot,16,6,164,True
+Kentavious CaldwellPope,3,5,3,1,Running Pull-Up Jump Shot,27,157,221,False
+Kentavious CaldwellPope,3,10,3,0,Running Pull-Up Jump Shot,12,85,86,True
+Kentavious CaldwellPope,3,5,27,0,Running Pull-Up Jump Shot,26,-138,227,False
+Kentavious CaldwellPope,4,2,28,0,Running Pull-Up Jump Shot,26,-150,221,False
+Kentavious CaldwellPope,4,2,26,0,Running Pull-Up Jump Shot,23,234,39,False
+Kentavious CaldwellPope,3,4,22,0,Running Pull-Up Jump Shot,25,-59,248,False
+Kentavious CaldwellPope,2,1,11,1,Running Pull-Up Jump Shot,25,14,253,False
+Kentavious CaldwellPope,1,7,29,0,Running Pull-Up Jump Shot,19,137,135,True
+Kentavious CaldwellPope,3,7,8,0,Running Pull-Up Jump Shot,25,127,218,False
+Kentavious CaldwellPope,1,2,42,1,Running Pull-Up Jump Shot,24,-128,207,False
+Kentavious CaldwellPope,4,3,40,1,Running Pull-Up Jump Shot,15,55,141,True
+Kentavious CaldwellPope,3,1,56,0,Running Pull-Up Jump Shot,25,75,239,False
+Kentavious CaldwellPope,2,5,41,0,Step Back Jump shot,18,117,138,True
+Kentavious CaldwellPope,2,2,11,0,Step Back Jump shot,17,90,152,True
+Kentavious CaldwellPope,1,0,25,0,Step Back Jump shot,19,111,155,True
+Kentavious CaldwellPope,2,0,27,0,Step Back Jump shot,25,-113,229,False
+Kentavious CaldwellPope,3,6,36,0,Step Back Jump shot,26,-99,246,False
+Kentavious CaldwellPope,3,5,27,1,Step Back Jump shot,26,123,239,False
+Kentavious CaldwellPope,3,7,51,1,Step Back Jump shot,25,-67,244,False
+Kentavious CaldwellPope,2,4,5,0,Step Back Jump shot,20,125,159,True
+Kentavious CaldwellPope,3,5,54,1,Step Back Jump shot,17,24,178,True
+Kentavious CaldwellPope,4,1,37,0,Step Back Jump shot,25,177,179,False
+Kentavious CaldwellPope,4,4,33,1,Step Back Jump shot,20,196,50,True
+Kentavious CaldwellPope,4,5,57,1,Step Back Jump shot,17,87,155,True
+Kentavious CaldwellPope,4,9,7,1,Step Back Jump shot,24,205,142,False
+Kentavious CaldwellPope,3,2,38,0,Tip Layup Shot,0,0,-6,True
+Kentavious CaldwellPope,1,9,46,1,Tip Layup Shot,0,0,-6,True
+Kentavious CaldwellPope,1,5,45,0,Tip Layup Shot,0,0,-6,True
+Kentavious CaldwellPope,1,6,40,0,Tip Layup Shot,2,4,26,True
+Kentavious CaldwellPope,4,5,40,1,Tip Layup Shot,0,0,-6,True
+Kentavious CaldwellPope,3,4,48,0,Tip Layup Shot,2,23,15,True
+Kentavious CaldwellPope,5,0,1,1,Tip Layup Shot,0,0,-6,True
+Kentavious CaldwellPope,2,1,24,1,Tip Layup Shot,0,0,-6,True
+Kentavious CaldwellPope,4,0,49,1,Tip Layup Shot,0,0,-6,True
+Kentavious CaldwellPope,1,6,47,1,Tip Layup Shot,0,0,-6,True
+Kentavious CaldwellPope,2,3,18,1,Tip Layup Shot,0,0,-6,True
+Kentavious CaldwellPope,3,4,46,1,Tip Layup Shot,0,0,-6,True
+Kentavious CaldwellPope,1,5,43,1,Tip Layup Shot,0,0,-6,True
+Kentavious CaldwellPope,3,9,52,0,Tip Layup Shot,0,0,-6,True
+Kentavious CaldwellPope,3,1,19,0,Tip Layup Shot,0,0,-6,True
+Kentavious CaldwellPope,4,0,48,1,Turnaround Fadeaway shot,17,-22,173,True
+Kentavious CaldwellPope,4,2,51,0,Turnaround Fadeaway shot,15,-14,158,True
+Kentavious CaldwellPope,4,3,6,0,Turnaround Jump Shot,16,125,100,True
+Kentavious CaldwellPope,4,0,16,1,Turnaround Jump Shot,25,-177,181,False
+Kentavious CaldwellPope,1,10,6,0,Turnaround Jump Shot,11,-9,117,True
+Kentavious CaldwellPope,2,1,38,1,Turnaround Jump Shot,25,-32,252,False

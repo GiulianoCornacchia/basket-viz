@@ -1,0 +1,342 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Gerald Green,3,1,42,1,Alley Oop Dunk Shot,0,6,5,True
+Gerald Green,3,0,0,1,Alley Oop Dunk Shot,0,4,2,True
+Gerald Green,2,0,56,1,Alley Oop Dunk Shot,0,-7,2,True
+Gerald Green,2,5,23,0,Alley Oop Layup shot,1,5,16,True
+Gerald Green,3,5,17,0,Alley Oop Layup shot,2,-20,5,True
+Gerald Green,2,9,17,1,Cutting Dunk Shot,0,-1,8,True
+Gerald Green,4,3,5,1,Cutting Dunk Shot,0,8,1,True
+Gerald Green,2,7,29,0,Cutting Layup Shot,2,5,22,True
+Gerald Green,1,2,25,1,Cutting Layup Shot,0,5,0,True
+Gerald Green,4,11,12,1,Cutting Layup Shot,1,-2,16,True
+Gerald Green,4,8,29,1,Driving Dunk Shot,0,0,2,True
+Gerald Green,1,4,9,1,Driving Dunk Shot,0,-8,4,True
+Gerald Green,4,4,41,1,Driving Dunk Shot,1,13,12,True
+Gerald Green,2,11,42,1,Driving Dunk Shot,1,-12,-1,True
+Gerald Green,1,3,30,1,Driving Dunk Shot,0,-2,1,True
+Gerald Green,3,3,58,1,Driving Dunk Shot,1,9,16,True
+Gerald Green,2,8,16,1,Driving Finger Roll Layup Shot,2,-13,20,True
+Gerald Green,4,1,57,0,Driving Finger Roll Layup Shot,2,-15,22,True
+Gerald Green,1,6,18,0,Driving Finger Roll Layup Shot,1,-11,-7,True
+Gerald Green,4,1,35,1,Driving Finger Roll Layup Shot,0,4,2,True
+Gerald Green,1,1,37,0,Driving Finger Roll Layup Shot,0,3,4,True
+Gerald Green,2,1,52,1,Driving Finger Roll Layup Shot,1,2,11,True
+Gerald Green,2,6,35,0,Driving Floating Bank Jump Shot,2,-18,11,True
+Gerald Green,3,1,7,1,Driving Floating Bank Jump Shot,3,-18,32,True
+Gerald Green,2,8,19,1,Driving Floating Jump Shot,12,-24,125,True
+Gerald Green,3,4,4,0,Driving Floating Jump Shot,10,-14,101,True
+Gerald Green,4,11,40,0,Driving Hook Shot,6,-3,66,True
+Gerald Green,4,1,30,1,Driving Hook Shot,5,33,48,True
+Gerald Green,3,2,37,0,Driving Layup Shot,0,8,5,True
+Gerald Green,4,0,19,0,Driving Layup Shot,0,9,4,True
+Gerald Green,3,0,42,0,Driving Layup Shot,1,11,-1,True
+Gerald Green,1,3,40,1,Driving Layup Shot,1,16,1,True
+Gerald Green,4,6,7,0,Driving Layup Shot,6,-2,64,True
+Gerald Green,2,7,58,1,Driving Layup Shot,0,8,-1,True
+Gerald Green,1,1,7,0,Driving Layup Shot,2,14,20,True
+Gerald Green,4,3,43,0,Driving Layup Shot,2,-3,23,True
+Gerald Green,2,11,24,1,Driving Layup Shot,2,6,27,True
+Gerald Green,4,4,57,0,Driving Layup Shot,1,8,13,True
+Gerald Green,4,5,17,0,Driving Layup Shot,1,10,13,True
+Gerald Green,1,9,43,1,Driving Layup Shot,1,16,6,True
+Gerald Green,4,2,8,1,Driving Layup Shot,1,0,10,True
+Gerald Green,4,7,31,1,Fadeaway Jump Shot,15,-155,-20,True
+Gerald Green,4,2,40,1,Fadeaway Jump Shot,12,46,114,True
+Gerald Green,2,10,51,1,Floating Jump shot,6,52,44,True
+Gerald Green,4,7,9,1,Hook Shot,5,-4,53,True
+Gerald Green,4,7,49,0,Jump Bank Shot,24,-244,-20,False
+Gerald Green,3,3,6,1,Jump Bank Shot,25,158,199,False
+Gerald Green,2,9,5,0,Jump Shot,25,-207,157,False
+Gerald Green,4,0,0,1,Jump Shot,23,231,7,False
+Gerald Green,3,7,40,0,Jump Shot,24,-183,165,False
+Gerald Green,4,6,30,1,Jump Shot,22,-226,17,False
+Gerald Green,4,3,49,0,Jump Shot,24,-226,96,False
+Gerald Green,3,1,46,0,Jump Shot,25,117,231,False
+Gerald Green,4,7,14,0,Jump Shot,25,144,211,False
+Gerald Green,3,2,53,0,Jump Shot,25,-126,225,False
+Gerald Green,2,8,28,0,Jump Shot,25,196,163,False
+Gerald Green,4,4,41,0,Jump Shot,26,-181,188,False
+Gerald Green,1,2,7,0,Jump Shot,25,71,246,False
+Gerald Green,3,4,10,0,Jump Shot,25,-229,106,False
+Gerald Green,4,5,8,1,Jump Shot,25,-114,230,False
+Gerald Green,1,4,47,0,Jump Shot,26,-223,138,False
+Gerald Green,4,9,31,0,Jump Shot,22,-228,22,False
+Gerald Green,4,10,59,0,Jump Shot,25,-45,253,False
+Gerald Green,3,0,8,1,Jump Shot,25,101,233,False
+Gerald Green,1,4,25,0,Jump Shot,25,-239,75,False
+Gerald Green,2,11,14,1,Jump Shot,22,221,10,False
+Gerald Green,4,7,45,1,Jump Shot,25,68,243,False
+Gerald Green,1,0,36,0,Jump Shot,25,126,222,False
+Gerald Green,3,0,54,1,Jump Shot,23,-234,13,False
+Gerald Green,4,10,19,1,Jump Shot,26,-78,256,False
+Gerald Green,1,0,46,0,Jump Shot,28,141,242,False
+Gerald Green,3,5,49,0,Jump Shot,26,122,230,False
+Gerald Green,4,4,12,0,Jump Shot,15,150,50,True
+Gerald Green,2,7,14,0,Jump Shot,22,-224,26,False
+Gerald Green,4,5,50,0,Jump Shot,26,112,235,False
+Gerald Green,2,6,52,0,Jump Shot,25,90,239,False
+Gerald Green,3,4,1,0,Jump Shot,24,-228,101,False
+Gerald Green,3,6,44,0,Jump Shot,24,203,142,False
+Gerald Green,1,6,16,1,Jump Shot,24,-180,162,False
+Gerald Green,1,11,28,0,Jump Shot,22,228,10,False
+Gerald Green,3,8,55,0,Jump Shot,24,19,248,False
+Gerald Green,3,9,57,1,Jump Shot,25,96,231,False
+Gerald Green,1,3,35,1,Jump Shot,18,188,20,True
+Gerald Green,2,3,42,0,Jump Shot,23,228,68,False
+Gerald Green,1,8,6,0,Jump Shot,25,-144,205,False
+Gerald Green,2,4,34,1,Jump Shot,22,-229,10,False
+Gerald Green,1,5,21,0,Jump Shot,25,-41,252,False
+Gerald Green,2,1,39,0,Jump Shot,24,-171,175,False
+Gerald Green,1,6,58,0,Jump Shot,24,-164,186,False
+Gerald Green,1,2,6,0,Jump Shot,25,163,196,False
+Gerald Green,2,5,23,0,Jump Shot,26,-165,209,False
+Gerald Green,2,4,9,1,Jump Shot,26,-199,169,False
+Gerald Green,2,11,7,1,Jump Shot,27,-174,211,False
+Gerald Green,4,2,40,0,Jump Shot,25,-124,220,False
+Gerald Green,2,6,28,1,Jump Shot,26,-158,212,False
+Gerald Green,1,6,27,0,Jump Shot,22,225,-25,False
+Gerald Green,2,7,44,1,Jump Shot,25,-143,210,False
+Gerald Green,1,4,6,0,Jump Shot,24,-214,122,False
+Gerald Green,3,5,32,0,Jump Shot,25,-6,256,False
+Gerald Green,2,9,5,0,Jump Shot,22,228,-5,False
+Gerald Green,3,2,10,1,Jump Shot,24,125,208,False
+Gerald Green,3,3,46,0,Jump Shot,23,-230,11,False
+Gerald Green,4,2,28,0,Jump Shot,23,-229,23,False
+Gerald Green,2,8,6,0,Jump Shot,23,232,24,False
+Gerald Green,4,2,56,0,Jump Shot,24,-232,64,False
+Gerald Green,4,9,35,0,Jump Shot,23,236,8,False
+Gerald Green,2,10,28,1,Jump Shot,25,-236,90,False
+Gerald Green,1,0,4,1,Jump Shot,24,-241,20,False
+Gerald Green,2,8,8,0,Jump Shot,25,160,202,False
+Gerald Green,4,10,43,1,Jump Shot,23,-230,40,False
+Gerald Green,1,0,43,1,Jump Shot,25,169,189,False
+Gerald Green,4,2,56,0,Jump Shot,25,-167,190,False
+Gerald Green,3,1,47,0,Jump Shot,23,-232,27,False
+Gerald Green,2,9,46,1,Jump Shot,25,149,211,False
+Gerald Green,2,10,48,0,Jump Shot,25,-122,221,False
+Gerald Green,4,11,11,1,Jump Shot,23,-231,37,False
+Gerald Green,3,7,57,1,Jump Shot,25,-166,195,False
+Gerald Green,2,11,29,0,Jump Shot,25,-11,255,False
+Gerald Green,4,2,44,1,Jump Shot,25,-148,206,False
+Gerald Green,2,0,47,0,Jump Shot,25,-195,163,False
+Gerald Green,4,9,59,0,Jump Shot,23,-228,31,False
+Gerald Green,3,7,9,1,Jump Shot,11,58,105,True
+Gerald Green,4,10,27,1,Jump Shot,25,-231,117,False
+Gerald Green,4,6,12,0,Jump Shot,26,185,185,False
+Gerald Green,2,9,17,0,Jump Shot,24,235,52,False
+Gerald Green,2,8,50,1,Jump Shot,26,-189,188,False
+Gerald Green,4,5,10,0,Jump Shot,23,-236,4,False
+Gerald Green,4,1,31,0,Jump Shot,25,33,257,False
+Gerald Green,4,4,54,0,Jump Shot,25,-66,249,False
+Gerald Green,2,2,15,0,Jump Shot,23,231,37,False
+Gerald Green,3,4,40,0,Jump Shot,26,-9,264,False
+Gerald Green,3,7,8,0,Jump Shot,25,-131,222,False
+Gerald Green,2,11,50,0,Jump Shot,24,12,243,False
+Gerald Green,2,8,4,0,Jump Shot,25,137,211,False
+Gerald Green,3,4,2,0,Jump Shot,26,-40,262,False
+Gerald Green,1,2,58,0,Jump Shot,25,128,222,False
+Gerald Green,4,10,4,1,Jump Shot,27,-96,253,False
+Gerald Green,2,0,28,0,Jump Shot,27,-4,272,False
+Gerald Green,1,3,57,1,Jump Shot,26,-22,264,False
+Gerald Green,3,6,11,1,Jump Shot,23,-231,11,False
+Gerald Green,4,6,18,1,Jump Shot,25,64,251,False
+Gerald Green,4,7,0,1,Jump Shot,17,-121,132,True
+Gerald Green,3,4,7,0,Jump Shot,24,-92,232,False
+Gerald Green,3,0,33,1,Jump Shot,25,-71,240,False
+Gerald Green,4,10,11,0,Jump Shot,24,-125,208,False
+Gerald Green,2,7,52,0,Jump Shot,22,227,-13,False
+Gerald Green,2,0,22,1,Jump Shot,26,-84,254,False
+Gerald Green,1,5,6,1,Jump Shot,22,-229,-16,False
+Gerald Green,2,0,56,1,Jump Shot,16,-122,107,True
+Gerald Green,1,1,27,0,Jump Shot,26,-127,231,False
+Gerald Green,3,5,40,0,Jump Shot,25,237,103,False
+Gerald Green,2,11,50,1,Jump Shot,27,-114,249,False
+Gerald Green,3,0,0,0,Jump Shot,43,2,430,False
+Gerald Green,1,4,21,0,Jump Shot,24,-204,144,False
+Gerald Green,4,2,9,0,Jump Shot,26,-203,174,False
+Gerald Green,2,0,33,1,Jump Shot,24,214,122,False
+Gerald Green,4,2,45,0,Jump Shot,25,-166,187,False
+Gerald Green,1,3,43,1,Jump Shot,22,228,-3,False
+Gerald Green,2,3,44,1,Jump Shot,23,230,15,False
+Gerald Green,1,3,26,0,Jump Shot,17,118,125,True
+Gerald Green,3,0,43,1,Jump Shot,27,58,268,False
+Gerald Green,2,10,57,1,Jump Shot,25,237,90,False
+Gerald Green,4,7,47,1,Jump Shot,25,217,132,False
+Gerald Green,4,1,53,1,Jump Shot,25,-221,125,False
+Gerald Green,3,1,55,1,Jump Shot,25,216,136,False
+Gerald Green,1,2,48,0,Jump Shot,24,-169,183,False
+Gerald Green,3,4,19,0,Jump Shot,23,-230,48,False
+Gerald Green,1,2,8,0,Jump Shot,25,228,115,False
+Gerald Green,3,0,37,0,Jump Shot,23,231,5,False
+Gerald Green,4,10,51,1,Jump Shot,30,-166,253,False
+Gerald Green,1,0,38,1,Jump Shot,25,219,122,False
+Gerald Green,2,6,41,0,Jump Shot,26,-86,255,False
+Gerald Green,1,3,52,1,Jump Shot,23,-230,-2,False
+Gerald Green,3,1,33,0,Jump Shot,27,-139,235,False
+Gerald Green,4,8,22,0,Jump Shot,27,-144,230,False
+Gerald Green,2,1,43,1,Jump Shot,24,237,68,False
+Gerald Green,2,2,21,1,Jump Shot,26,171,197,False
+Gerald Green,2,5,2,0,Jump Shot,26,148,221,False
+Gerald Green,3,3,24,0,Jump Shot,25,-150,206,False
+Gerald Green,4,6,17,1,Jump Shot,23,236,30,False
+Gerald Green,4,0,59,1,Jump Shot,23,229,25,False
+Gerald Green,3,5,35,0,Jump Shot,25,-198,157,False
+Gerald Green,3,3,7,1,Jump Shot,23,-227,47,False
+Gerald Green,3,6,21,1,Jump Shot,25,158,201,False
+Gerald Green,4,4,17,0,Jump Shot,22,-226,22,False
+Gerald Green,2,0,37,0,Jump Shot,26,-68,257,False
+Gerald Green,2,3,28,1,Jump Shot,26,179,194,False
+Gerald Green,1,0,26,1,Jump Shot,25,-52,246,False
+Gerald Green,3,7,12,1,Jump Shot,26,-120,239,False
+Gerald Green,3,5,22,1,Jump Shot,24,-123,215,False
+Gerald Green,3,3,23,0,Jump Shot,25,47,248,False
+Gerald Green,2,11,44,0,Jump Shot,22,226,-6,False
+Gerald Green,4,0,17,1,Jump Shot,23,-223,88,False
+Gerald Green,4,3,1,1,Jump Shot,25,-239,77,False
+Gerald Green,3,1,11,0,Jump Shot,23,-234,14,False
+Gerald Green,2,2,18,1,Jump Shot,22,-225,26,False
+Gerald Green,1,1,27,0,Jump Shot,25,112,227,False
+Gerald Green,3,4,49,0,Jump Shot,25,183,173,False
+Gerald Green,4,10,56,0,Jump Shot,24,177,169,False
+Gerald Green,3,1,26,0,Jump Shot,24,93,231,False
+Gerald Green,4,7,55,0,Jump Shot,23,229,24,False
+Gerald Green,1,0,49,0,Jump Shot,24,239,37,False
+Gerald Green,3,2,0,1,Jump Shot,23,222,64,False
+Gerald Green,2,10,6,1,Jump Shot,24,-163,189,False
+Gerald Green,1,3,18,1,Jump Shot,24,177,168,False
+Gerald Green,1,0,53,0,Jump Shot,23,235,38,False
+Gerald Green,1,3,51,0,Jump Shot,24,-101,227,False
+Gerald Green,1,1,22,0,Jump Shot,25,141,218,False
+Gerald Green,3,1,11,0,Jump Shot,26,-100,246,False
+Gerald Green,2,10,9,1,Jump Shot,25,155,203,False
+Gerald Green,2,8,4,0,Jump Shot,25,167,191,False
+Gerald Green,2,8,49,0,Jump Shot,23,-230,23,False
+Gerald Green,1,1,38,0,Jump Shot,27,-221,159,False
+Gerald Green,1,4,52,0,Jump Shot,26,-172,200,False
+Gerald Green,1,2,5,0,Jump Shot,10,5,102,True
+Gerald Green,2,8,54,0,Jump Shot,23,-235,42,False
+Gerald Green,3,1,42,0,Jump Shot,25,-41,256,False
+Gerald Green,2,8,32,0,Jump Shot,23,-232,21,False
+Gerald Green,2,11,1,1,Jump Shot,26,-131,233,False
+Gerald Green,4,11,8,0,Jump Shot,25,70,240,False
+Gerald Green,3,0,54,0,Jump Shot,23,231,47,False
+Gerald Green,1,3,18,1,Jump Shot,24,-186,155,False
+Gerald Green,1,5,21,0,Jump Shot,22,228,7,False
+Gerald Green,3,3,50,0,Jump Shot,25,104,232,False
+Gerald Green,2,7,36,1,Jump Shot,22,222,-5,False
+Gerald Green,1,2,26,1,Jump Shot,25,143,207,False
+Gerald Green,4,10,57,0,Jump Shot,28,131,248,False
+Gerald Green,2,10,10,1,Jump Shot,28,-197,202,False
+Gerald Green,1,0,6,0,Jump Shot,26,-137,228,False
+Gerald Green,2,11,23,0,Jump Shot,25,-232,99,False
+Gerald Green,3,1,17,0,Jump Shot,23,234,35,False
+Gerald Green,2,8,11,0,Jump Shot,25,100,232,False
+Gerald Green,1,0,31,0,Jump Shot,25,-171,195,False
+Gerald Green,1,0,53,1,Jump Shot,25,203,149,False
+Gerald Green,4,9,38,1,Jump Shot,23,-232,30,False
+Gerald Green,4,8,19,0,Jump Shot,25,-74,240,False
+Gerald Green,4,1,9,1,Jump Shot,25,56,245,False
+Gerald Green,1,4,22,1,Jump Shot,21,-210,57,True
+Gerald Green,4,10,43,0,Jump Shot,22,229,14,False
+Gerald Green,1,1,16,1,Jump Shot,25,-45,249,False
+Gerald Green,4,9,29,0,Jump Shot,25,-86,243,False
+Gerald Green,2,11,42,0,Jump Shot,24,125,211,False
+Gerald Green,1,6,34,0,Jump Shot,10,-41,92,True
+Gerald Green,2,8,27,0,Jump Shot,26,-107,242,False
+Gerald Green,2,7,59,0,Jump Shot,24,171,179,False
+Gerald Green,3,2,30,1,Jump Shot,24,86,232,False
+Gerald Green,1,0,2,0,Jump Shot,26,-133,227,False
+Gerald Green,2,8,58,0,Jump Shot,25,-187,166,False
+Gerald Green,3,0,6,1,Jump Shot,26,-190,183,False
+Gerald Green,4,0,47,0,Jump Shot,26,-219,157,False
+Gerald Green,4,7,16,0,Jump Shot,22,222,5,False
+Gerald Green,3,4,30,0,Jump Shot,19,35,193,True
+Gerald Green,3,2,44,0,Jump Shot,25,-116,225,False
+Gerald Green,3,1,47,1,Jump Shot,12,118,47,True
+Gerald Green,3,4,56,0,Jump Shot,26,49,256,False
+Gerald Green,4,8,53,0,Jump Shot,25,160,196,False
+Gerald Green,2,3,22,0,Jump Shot,25,112,226,False
+Gerald Green,4,7,24,0,Jump Shot,26,199,172,False
+Gerald Green,4,10,53,0,Jump Shot,25,211,142,False
+Gerald Green,2,5,40,1,Jump Shot,25,6,253,False
+Gerald Green,2,11,21,1,Jump Shot,25,-193,164,False
+Gerald Green,1,3,52,1,Jump Shot,26,-153,214,False
+Gerald Green,4,11,5,0,Jump Shot,25,-139,210,False
+Gerald Green,2,1,25,0,Jump Shot,23,-228,49,False
+Gerald Green,1,0,0,0,Jump Shot,60,174,578,False
+Gerald Green,1,1,35,0,Jump Shot,27,178,209,False
+Gerald Green,3,1,16,0,Jump Shot,26,92,248,False
+Gerald Green,1,6,42,0,Jump Shot,15,143,52,True
+Gerald Green,3,7,14,0,Jump Shot,10,84,71,True
+Gerald Green,4,0,36,0,Layup Shot,2,5,24,True
+Gerald Green,2,9,46,0,Layup Shot,1,-7,11,True
+Gerald Green,4,2,17,0,Layup Shot,3,-25,19,True
+Gerald Green,1,2,51,1,Pullup Jump shot,11,-109,29,True
+Gerald Green,1,1,0,1,Pullup Jump shot,24,56,237,False
+Gerald Green,2,8,51,0,Pullup Jump shot,24,140,205,False
+Gerald Green,4,2,56,0,Pullup Jump shot,26,-15,263,False
+Gerald Green,2,9,58,1,Pullup Jump shot,19,-75,177,True
+Gerald Green,3,11,33,1,Pullup Jump shot,14,-1,147,True
+Gerald Green,3,0,5,0,Pullup Jump shot,16,-165,30,True
+Gerald Green,1,1,3,1,Pullup Jump shot,27,-120,244,False
+Gerald Green,2,7,53,1,Pullup Jump shot,23,-230,43,False
+Gerald Green,1,0,23,0,Pullup Jump shot,13,-114,75,True
+Gerald Green,3,2,49,1,Pullup Jump shot,15,65,138,True
+Gerald Green,2,11,47,0,Pullup Jump shot,19,68,180,True
+Gerald Green,4,11,37,0,Pullup Jump shot,10,107,-1,True
+Gerald Green,1,1,24,1,Pullup Jump shot,13,-56,128,True
+Gerald Green,2,10,19,1,Pullup Jump shot,14,24,148,True
+Gerald Green,1,3,55,1,Pullup Jump shot,26,-165,201,False
+Gerald Green,4,1,53,0,Pullup Jump shot,24,-102,227,False
+Gerald Green,2,11,11,0,Pullup Jump shot,25,-96,239,False
+Gerald Green,1,8,53,0,Pullup Jump shot,25,-4,257,False
+Gerald Green,4,3,41,0,Pullup Jump shot,25,-69,247,False
+Gerald Green,4,4,27,0,Pullup Jump shot,14,-14,141,True
+Gerald Green,4,1,57,0,Pullup Jump shot,26,-122,230,False
+Gerald Green,1,1,46,0,Pullup Jump shot,21,119,185,True
+Gerald Green,2,8,2,0,Pullup Jump shot,25,-111,227,False
+Gerald Green,4,9,31,0,Pullup Jump shot,25,-10,250,False
+Gerald Green,4,10,33,0,Pullup Jump shot,25,-92,237,False
+Gerald Green,2,9,35,1,Pullup Jump shot,25,112,228,False
+Gerald Green,1,2,11,1,Pullup Jump shot,25,-129,216,False
+Gerald Green,1,11,42,0,Pullup Jump shot,25,0,255,False
+Gerald Green,3,0,0,0,Pullup Jump shot,31,166,269,False
+Gerald Green,5,3,13,1,Pullup Jump shot,5,-35,36,True
+Gerald Green,4,0,29,0,Pullup Jump shot,25,-141,215,False
+Gerald Green,2,7,52,1,Pullup Jump shot,26,-80,251,False
+Gerald Green,3,5,57,1,Pullup Jump shot,16,19,164,True
+Gerald Green,4,10,10,1,Pullup Jump shot,25,-128,219,False
+Gerald Green,2,7,43,0,Pullup Jump shot,25,-171,190,False
+Gerald Green,2,0,21,1,Pullup Jump shot,24,-199,138,False
+Gerald Green,3,5,48,1,Pullup Jump shot,25,114,230,False
+Gerald Green,2,0,52,1,Pullup Jump shot,18,51,183,True
+Gerald Green,4,0,5,0,Pullup Jump shot,30,147,263,False
+Gerald Green,4,1,14,1,Pullup Jump shot,26,-127,231,False
+Gerald Green,1,5,5,1,Pullup Jump shot,10,104,-17,True
+Gerald Green,4,8,30,0,Pullup Jump shot,13,-1,139,True
+Gerald Green,3,1,40,1,Pullup Jump shot,25,-195,169,False
+Gerald Green,4,6,37,0,Pullup Jump shot,17,-3,175,True
+Gerald Green,2,9,34,1,Pullup Jump shot,26,-176,192,False
+Gerald Green,4,0,39,1,Pullup Jump shot,27,114,246,False
+Gerald Green,1,3,7,1,Putback Layup Shot,0,0,-6,True
+Gerald Green,2,2,12,0,Putback Layup Shot,1,-13,1,True
+Gerald Green,3,4,4,0,Running Alley Oop Dunk Shot,1,-5,13,True
+Gerald Green,2,8,34,0,Running Finger Roll Layup Shot,3,12,32,True
+Gerald Green,1,1,23,1,Running Jump Shot,25,-137,216,False
+Gerald Green,2,2,13,0,Running Layup Shot,1,-11,6,True
+Gerald Green,4,4,8,1,Running Layup Shot,1,7,16,True
+Gerald Green,3,1,6,1,Running Pull-Up Jump Shot,26,68,251,False
+Gerald Green,4,8,40,0,Step Back Jump shot,16,141,93,True
+Gerald Green,4,11,45,1,Step Back Jump shot,19,26,197,True
+Gerald Green,4,9,25,0,Step Back Jump shot,24,18,248,False
+Gerald Green,1,0,36,1,Step Back Jump shot,22,226,-12,False
+Gerald Green,4,10,49,0,Step Back Jump shot,21,147,152,True
+Gerald Green,2,2,49,1,Step Back Jump shot,22,-225,22,False
+Gerald Green,4,8,32,1,Step Back Jump shot,20,32,199,True
+Gerald Green,4,0,33,0,Step Back Jump shot,6,35,57,True
+Gerald Green,1,4,32,0,Step Back Jump shot,24,-90,229,False
+Gerald Green,4,1,38,0,Step Back Jump shot,20,-195,58,True
+Gerald Green,2,6,31,0,Tip Layup Shot,0,0,-6,True
+Gerald Green,1,3,59,1,Turnaround Fadeaway shot,9,-5,97,True
+Gerald Green,1,3,23,0,Turnaround Jump Shot,9,-25,93,True
+Gerald Green,1,6,19,0,Turnaround Jump Shot,9,-41,84,True

@@ -1,0 +1,455 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Bryn Forbes,4,9,45,1,Alley Oop Layup shot,1,12,11,True
+Bryn Forbes,4,4,17,0,Cutting Finger Roll Layup Shot,1,-11,15,True
+Bryn Forbes,4,0,56,1,Cutting Layup Shot,1,-2,15,True
+Bryn Forbes,3,2,33,0,Cutting Layup Shot,6,20,57,True
+Bryn Forbes,4,1,27,1,Cutting Layup Shot,2,0,20,True
+Bryn Forbes,4,4,24,0,Cutting Layup Shot,1,2,10,True
+Bryn Forbes,4,10,3,1,Cutting Layup Shot,0,2,5,True
+Bryn Forbes,4,2,30,0,Driving Finger Roll Layup Shot,1,11,4,True
+Bryn Forbes,2,3,46,1,Driving Finger Roll Layup Shot,0,-7,7,True
+Bryn Forbes,4,7,4,0,Driving Finger Roll Layup Shot,6,66,1,True
+Bryn Forbes,3,11,22,0,Driving Finger Roll Layup Shot,2,-8,22,True
+Bryn Forbes,4,3,57,1,Driving Finger Roll Layup Shot,2,19,9,True
+Bryn Forbes,4,10,58,1,Driving Finger Roll Layup Shot,1,-14,3,True
+Bryn Forbes,3,0,1,0,Driving Finger Roll Layup Shot,1,17,-4,True
+Bryn Forbes,1,7,44,1,Driving Finger Roll Layup Shot,1,-11,5,True
+Bryn Forbes,3,9,19,1,Driving Finger Roll Layup Shot,0,-7,5,True
+Bryn Forbes,4,0,11,0,Driving Finger Roll Layup Shot,0,0,6,True
+Bryn Forbes,3,1,48,0,Driving Floating Bank Jump Shot,5,-52,15,True
+Bryn Forbes,2,3,17,0,Driving Floating Bank Jump Shot,10,-82,70,True
+Bryn Forbes,4,4,35,0,Driving Floating Bank Jump Shot,6,-5,67,True
+Bryn Forbes,2,7,46,1,Driving Floating Bank Jump Shot,8,-22,85,True
+Bryn Forbes,2,9,12,0,Driving Floating Jump Shot,9,-78,54,True
+Bryn Forbes,4,0,59,0,Driving Floating Jump Shot,7,-35,69,True
+Bryn Forbes,4,5,26,0,Driving Floating Jump Shot,5,9,55,True
+Bryn Forbes,2,7,9,1,Driving Floating Jump Shot,6,-5,60,True
+Bryn Forbes,2,8,45,1,Driving Floating Jump Shot,8,-84,23,True
+Bryn Forbes,2,7,49,1,Driving Floating Jump Shot,10,-8,105,True
+Bryn Forbes,3,5,33,0,Driving Floating Jump Shot,4,6,47,True
+Bryn Forbes,3,0,25,0,Driving Floating Jump Shot,9,70,68,True
+Bryn Forbes,1,6,18,1,Driving Floating Jump Shot,9,-2,96,True
+Bryn Forbes,3,1,35,1,Driving Floating Jump Shot,2,-26,9,True
+Bryn Forbes,2,6,34,1,Driving Floating Jump Shot,10,43,100,True
+Bryn Forbes,3,4,39,0,Driving Floating Jump Shot,2,-16,13,True
+Bryn Forbes,2,7,44,1,Driving Floating Jump Shot,12,0,120,True
+Bryn Forbes,4,0,59,0,Driving Floating Jump Shot,8,10,86,True
+Bryn Forbes,2,2,35,0,Driving Floating Jump Shot,8,57,57,True
+Bryn Forbes,3,5,44,1,Driving Floating Jump Shot,9,-55,81,True
+Bryn Forbes,4,8,35,0,Driving Floating Jump Shot,5,25,52,True
+Bryn Forbes,1,4,10,1,Driving Floating Jump Shot,6,13,67,True
+Bryn Forbes,4,4,37,0,Driving Floating Jump Shot,9,40,81,True
+Bryn Forbes,2,5,41,1,Driving Floating Jump Shot,6,-40,48,True
+Bryn Forbes,4,5,54,1,Driving Floating Jump Shot,6,17,64,True
+Bryn Forbes,4,5,40,1,Driving Floating Jump Shot,6,3,66,True
+Bryn Forbes,4,8,11,1,Driving Floating Jump Shot,9,6,96,True
+Bryn Forbes,2,10,30,0,Driving Floating Jump Shot,5,34,41,True
+Bryn Forbes,2,2,10,1,Driving Floating Jump Shot,5,1,56,True
+Bryn Forbes,1,3,1,1,Driving Floating Jump Shot,6,6,60,True
+Bryn Forbes,3,8,16,0,Driving Floating Jump Shot,6,-33,57,True
+Bryn Forbes,3,0,0,1,Driving Floating Jump Shot,9,93,-29,True
+Bryn Forbes,2,8,51,1,Driving Floating Jump Shot,8,6,86,True
+Bryn Forbes,1,2,4,0,Driving Floating Jump Shot,7,-2,71,True
+Bryn Forbes,1,2,37,1,Driving Floating Jump Shot,3,5,38,True
+Bryn Forbes,2,3,0,1,Driving Floating Jump Shot,7,-12,79,True
+Bryn Forbes,2,7,11,0,Driving Floating Jump Shot,11,0,116,True
+Bryn Forbes,2,6,8,1,Driving Floating Jump Shot,7,-28,73,True
+Bryn Forbes,2,2,28,1,Driving Floating Jump Shot,6,-9,68,True
+Bryn Forbes,1,5,3,0,Driving Floating Jump Shot,10,-57,94,True
+Bryn Forbes,2,10,1,0,Driving Floating Jump Shot,8,52,64,True
+Bryn Forbes,4,8,13,1,Driving Floating Jump Shot,9,60,75,True
+Bryn Forbes,1,8,21,1,Driving Floating Jump Shot,8,-39,74,True
+Bryn Forbes,3,4,46,1,Driving Layup Shot,1,10,12,True
+Bryn Forbes,3,1,49,0,Driving Layup Shot,6,-65,22,True
+Bryn Forbes,1,1,23,0,Driving Layup Shot,3,22,21,True
+Bryn Forbes,3,4,38,0,Driving Layup Shot,0,0,8,True
+Bryn Forbes,1,0,14,0,Driving Layup Shot,8,20,80,True
+Bryn Forbes,4,0,55,0,Driving Layup Shot,0,6,5,True
+Bryn Forbes,4,0,52,0,Driving Layup Shot,1,-14,8,True
+Bryn Forbes,3,10,20,0,Driving Layup Shot,5,54,13,True
+Bryn Forbes,4,0,32,0,Driving Layup Shot,5,-14,57,True
+Bryn Forbes,3,3,43,0,Driving Layup Shot,3,-12,32,True
+Bryn Forbes,4,10,37,1,Driving Reverse Layup Shot,0,-2,0,True
+Bryn Forbes,3,2,37,0,Driving Reverse Layup Shot,0,8,0,True
+Bryn Forbes,4,5,58,1,Driving Reverse Layup Shot,1,-5,9,True
+Bryn Forbes,3,3,23,1,Driving Reverse Layup Shot,0,0,0,True
+Bryn Forbes,4,2,7,1,Driving Reverse Layup Shot,2,7,21,True
+Bryn Forbes,4,11,11,1,Fadeaway Jump Shot,20,-8,209,True
+Bryn Forbes,2,11,23,0,Fadeaway Jump Shot,12,44,122,True
+Bryn Forbes,1,0,11,0,Fadeaway Jump Shot,15,-159,7,True
+Bryn Forbes,2,7,46,1,Fadeaway Jump Shot,16,-119,116,True
+Bryn Forbes,4,9,48,1,Floating Jump shot,5,-8,52,True
+Bryn Forbes,2,7,36,0,Floating Jump shot,8,-58,65,True
+Bryn Forbes,3,5,14,0,Floating Jump shot,12,-117,27,True
+Bryn Forbes,4,6,23,1,Floating Jump shot,9,-96,5,True
+Bryn Forbes,3,2,0,0,Floating Jump shot,11,98,50,True
+Bryn Forbes,4,1,22,0,Floating Jump shot,6,54,32,True
+Bryn Forbes,3,5,17,0,Floating Jump shot,10,5,101,True
+Bryn Forbes,3,8,51,0,Floating Jump shot,9,-16,89,True
+Bryn Forbes,2,7,35,1,Floating Jump shot,8,40,76,True
+Bryn Forbes,4,9,57,1,Floating Jump shot,9,73,63,True
+Bryn Forbes,2,11,3,0,Floating Jump shot,8,17,87,True
+Bryn Forbes,2,0,0,1,Jump Bank Shot,25,158,201,False
+Bryn Forbes,4,7,43,0,Jump Bank Shot,24,-145,203,False
+Bryn Forbes,1,0,0,1,Jump Bank Shot,29,139,258,False
+Bryn Forbes,2,3,41,1,Jump Bank Shot,25,-164,196,False
+Bryn Forbes,1,3,38,0,Jump Bank Shot,25,-104,238,False
+Bryn Forbes,3,0,40,0,Jump Bank Shot,25,220,120,False
+Bryn Forbes,4,6,43,0,Jump Shot,25,-37,248,False
+Bryn Forbes,4,1,39,0,Jump Shot,27,57,268,False
+Bryn Forbes,3,2,1,0,Jump Shot,15,149,20,True
+Bryn Forbes,3,4,44,1,Jump Shot,26,57,262,False
+Bryn Forbes,3,6,4,1,Jump Shot,17,38,173,True
+Bryn Forbes,2,10,19,1,Jump Shot,27,-115,252,False
+Bryn Forbes,2,0,0,0,Jump Shot,26,190,179,False
+Bryn Forbes,4,5,53,1,Jump Shot,22,-228,-7,False
+Bryn Forbes,4,4,59,0,Jump Shot,23,230,26,False
+Bryn Forbes,3,2,12,0,Jump Shot,20,-209,16,True
+Bryn Forbes,2,6,2,0,Jump Shot,25,-138,213,False
+Bryn Forbes,4,10,32,0,Jump Shot,26,113,239,False
+Bryn Forbes,3,3,21,1,Jump Shot,24,238,32,False
+Bryn Forbes,4,10,7,0,Jump Shot,25,143,210,False
+Bryn Forbes,3,0,53,1,Jump Shot,26,-178,203,False
+Bryn Forbes,3,2,7,0,Jump Shot,26,-173,198,False
+Bryn Forbes,2,8,42,0,Jump Shot,26,92,246,False
+Bryn Forbes,2,7,22,1,Jump Shot,23,230,13,False
+Bryn Forbes,3,0,4,1,Jump Shot,17,-160,77,True
+Bryn Forbes,2,8,0,0,Jump Shot,23,-230,16,False
+Bryn Forbes,2,8,39,0,Jump Shot,24,189,158,False
+Bryn Forbes,2,6,6,0,Jump Shot,24,-110,221,False
+Bryn Forbes,4,6,41,0,Jump Shot,24,123,216,False
+Bryn Forbes,3,2,15,0,Jump Shot,24,-157,184,False
+Bryn Forbes,2,7,18,0,Jump Shot,26,155,209,False
+Bryn Forbes,4,8,4,0,Jump Shot,25,-134,220,False
+Bryn Forbes,1,3,1,0,Jump Shot,25,118,231,False
+Bryn Forbes,4,8,50,0,Jump Shot,24,190,159,False
+Bryn Forbes,4,11,51,0,Jump Shot,25,-102,231,False
+Bryn Forbes,2,9,49,0,Jump Shot,16,-161,18,True
+Bryn Forbes,3,4,9,0,Jump Shot,25,-69,243,False
+Bryn Forbes,3,4,40,0,Jump Shot,22,-226,-21,False
+Bryn Forbes,4,9,24,0,Jump Shot,25,-4,252,False
+Bryn Forbes,4,3,6,0,Jump Shot,22,-228,-11,False
+Bryn Forbes,3,2,31,0,Jump Shot,24,-118,211,False
+Bryn Forbes,4,2,49,1,Jump Shot,24,240,4,False
+Bryn Forbes,4,9,17,0,Jump Shot,25,130,216,False
+Bryn Forbes,4,8,9,0,Jump Shot,24,122,208,False
+Bryn Forbes,3,10,27,1,Jump Shot,24,24,246,False
+Bryn Forbes,4,7,11,0,Jump Shot,25,-150,205,False
+Bryn Forbes,2,4,11,0,Jump Shot,22,227,2,False
+Bryn Forbes,3,4,43,1,Jump Shot,25,207,146,False
+Bryn Forbes,2,5,33,1,Jump Shot,25,-67,244,False
+Bryn Forbes,3,8,23,1,Jump Shot,26,88,246,False
+Bryn Forbes,4,1,0,0,Jump Shot,25,73,241,False
+Bryn Forbes,3,0,38,1,Jump Shot,24,200,149,False
+Bryn Forbes,4,11,27,0,Jump Shot,25,103,228,False
+Bryn Forbes,3,1,5,1,Jump Shot,25,103,237,False
+Bryn Forbes,3,3,30,0,Jump Shot,25,-139,214,False
+Bryn Forbes,2,1,2,0,Jump Shot,25,-124,219,False
+Bryn Forbes,2,1,24,0,Jump Shot,24,-14,247,False
+Bryn Forbes,2,8,58,1,Jump Shot,25,-76,243,False
+Bryn Forbes,2,6,43,1,Jump Shot,25,-134,218,False
+Bryn Forbes,1,7,54,0,Jump Shot,25,-101,233,False
+Bryn Forbes,1,5,16,0,Jump Shot,25,-144,210,False
+Bryn Forbes,2,4,25,0,Jump Shot,25,2,256,False
+Bryn Forbes,2,4,5,0,Jump Shot,25,-147,214,False
+Bryn Forbes,2,0,48,1,Jump Shot,24,107,218,False
+Bryn Forbes,2,7,36,0,Jump Shot,25,136,214,False
+Bryn Forbes,3,1,8,0,Jump Shot,25,-116,225,False
+Bryn Forbes,4,0,23,1,Jump Shot,24,166,184,False
+Bryn Forbes,4,7,19,1,Jump Shot,25,-4,255,False
+Bryn Forbes,4,7,48,0,Jump Shot,22,-228,-18,False
+Bryn Forbes,4,6,53,1,Jump Shot,23,-232,-15,False
+Bryn Forbes,4,11,5,0,Jump Shot,25,163,201,False
+Bryn Forbes,4,8,32,1,Jump Shot,25,-141,211,False
+Bryn Forbes,3,10,47,1,Jump Shot,26,-137,227,False
+Bryn Forbes,3,6,42,1,Jump Shot,25,-182,181,False
+Bryn Forbes,2,7,44,0,Jump Shot,28,141,246,False
+Bryn Forbes,4,10,50,0,Jump Shot,25,-150,209,False
+Bryn Forbes,3,5,25,0,Jump Shot,12,26,123,True
+Bryn Forbes,2,3,58,1,Jump Shot,24,-101,226,False
+Bryn Forbes,2,0,0,0,Jump Shot,24,-171,177,False
+Bryn Forbes,2,6,18,0,Jump Shot,25,3,251,False
+Bryn Forbes,4,10,11,1,Jump Shot,26,127,227,False
+Bryn Forbes,3,6,10,0,Jump Shot,25,150,201,False
+Bryn Forbes,4,6,41,1,Jump Shot,6,8,64,True
+Bryn Forbes,1,9,57,0,Jump Shot,25,-198,158,False
+Bryn Forbes,4,4,51,1,Jump Shot,23,-229,23,False
+Bryn Forbes,3,7,0,1,Jump Shot,22,196,119,True
+Bryn Forbes,3,4,26,0,Jump Shot,23,-230,1,False
+Bryn Forbes,3,8,0,0,Jump Shot,25,136,210,False
+Bryn Forbes,1,10,2,0,Jump Shot,24,51,243,False
+Bryn Forbes,1,10,28,1,Jump Shot,24,-65,240,False
+Bryn Forbes,1,6,36,0,Jump Shot,24,-113,221,False
+Bryn Forbes,2,4,46,1,Jump Shot,16,120,114,True
+Bryn Forbes,2,1,39,0,Jump Shot,24,-59,242,False
+Bryn Forbes,4,7,40,0,Jump Shot,24,-241,10,False
+Bryn Forbes,1,4,47,1,Jump Shot,25,183,180,False
+Bryn Forbes,3,7,52,0,Jump Shot,28,155,242,False
+Bryn Forbes,1,11,11,1,Jump Shot,19,67,182,True
+Bryn Forbes,3,0,7,0,Jump Shot,25,157,207,False
+Bryn Forbes,4,0,19,0,Jump Shot,24,-226,95,False
+Bryn Forbes,2,11,21,1,Jump Shot,24,201,142,False
+Bryn Forbes,4,4,48,0,Jump Shot,21,-218,11,False
+Bryn Forbes,4,1,18,0,Jump Shot,13,7,132,True
+Bryn Forbes,1,0,54,0,Jump Shot,11,-81,83,True
+Bryn Forbes,3,3,30,1,Jump Shot,22,-227,7,False
+Bryn Forbes,3,6,8,0,Jump Shot,26,-4,262,False
+Bryn Forbes,3,4,4,0,Jump Shot,23,-226,75,False
+Bryn Forbes,4,10,15,0,Jump Shot,28,20,284,False
+Bryn Forbes,1,1,4,0,Jump Shot,20,205,-24,True
+Bryn Forbes,3,5,16,0,Jump Shot,24,224,111,False
+Bryn Forbes,2,3,26,0,Jump Shot,23,-236,-30,False
+Bryn Forbes,4,3,4,1,Jump Shot,22,-227,0,False
+Bryn Forbes,2,10,1,1,Jump Shot,25,-152,199,False
+Bryn Forbes,3,8,10,0,Jump Shot,25,-24,256,False
+Bryn Forbes,1,7,47,1,Jump Shot,26,139,226,False
+Bryn Forbes,1,7,22,0,Jump Shot,25,175,185,False
+Bryn Forbes,1,6,4,1,Jump Shot,25,131,218,False
+Bryn Forbes,2,9,24,0,Jump Shot,25,198,155,False
+Bryn Forbes,2,2,34,1,Jump Shot,25,-165,199,False
+Bryn Forbes,1,8,4,1,Jump Shot,25,103,230,False
+Bryn Forbes,1,11,14,0,Jump Shot,25,-155,200,False
+Bryn Forbes,2,10,4,1,Jump Shot,25,-158,202,False
+Bryn Forbes,3,8,45,0,Jump Shot,24,-122,215,False
+Bryn Forbes,1,6,51,0,Jump Shot,24,149,199,False
+Bryn Forbes,3,6,56,0,Jump Shot,25,112,229,False
+Bryn Forbes,4,7,34,0,Jump Shot,25,-80,239,False
+Bryn Forbes,3,9,51,0,Jump Shot,25,13,256,False
+Bryn Forbes,4,2,13,1,Jump Shot,22,-220,26,False
+Bryn Forbes,2,7,57,0,Jump Shot,25,179,180,False
+Bryn Forbes,3,3,19,0,Jump Shot,24,-195,145,False
+Bryn Forbes,4,10,35,0,Jump Shot,22,-222,-4,False
+Bryn Forbes,3,0,2,0,Jump Shot,24,185,166,False
+Bryn Forbes,4,3,21,0,Jump Shot,26,-180,189,False
+Bryn Forbes,1,10,49,0,Jump Shot,25,173,191,False
+Bryn Forbes,1,8,57,0,Jump Shot,24,215,111,False
+Bryn Forbes,4,0,21,1,Jump Shot,24,-223,113,False
+Bryn Forbes,3,11,21,1,Jump Shot,22,-225,-5,False
+Bryn Forbes,4,8,39,0,Jump Shot,23,-226,59,False
+Bryn Forbes,4,6,7,1,Jump Shot,24,154,193,False
+Bryn Forbes,2,7,42,1,Jump Shot,23,-234,0,False
+Bryn Forbes,3,6,35,1,Jump Shot,25,218,135,False
+Bryn Forbes,3,3,42,1,Jump Shot,24,161,184,False
+Bryn Forbes,3,8,45,1,Jump Shot,24,119,215,False
+Bryn Forbes,4,4,8,0,Jump Shot,23,-231,18,False
+Bryn Forbes,4,2,26,1,Jump Shot,24,-11,248,False
+Bryn Forbes,3,1,28,1,Jump Shot,22,89,207,True
+Bryn Forbes,1,0,48,0,Jump Shot,24,224,110,False
+Bryn Forbes,1,1,10,0,Jump Shot,25,103,230,False
+Bryn Forbes,2,10,10,0,Jump Shot,24,-124,216,False
+Bryn Forbes,4,4,34,1,Jump Shot,22,-225,38,False
+Bryn Forbes,2,9,16,1,Jump Shot,25,-161,194,False
+Bryn Forbes,2,3,53,0,Jump Shot,23,-236,-7,False
+Bryn Forbes,1,1,47,0,Jump Shot,26,-197,170,False
+Bryn Forbes,1,1,9,0,Jump Shot,22,222,-1,False
+Bryn Forbes,3,2,7,1,Jump Shot,24,-73,236,False
+Bryn Forbes,4,8,38,0,Jump Shot,23,-233,-11,False
+Bryn Forbes,2,9,44,1,Jump Shot,22,226,-6,False
+Bryn Forbes,4,5,5,1,Jump Shot,25,198,168,False
+Bryn Forbes,4,7,43,0,Jump Shot,25,131,218,False
+Bryn Forbes,3,0,45,0,Jump Shot,24,-162,187,False
+Bryn Forbes,4,8,19,1,Jump Shot,27,177,204,False
+Bryn Forbes,4,11,20,1,Jump Shot,24,-44,241,False
+Bryn Forbes,1,0,46,0,Jump Shot,19,59,185,True
+Bryn Forbes,1,1,1,0,Jump Shot,27,136,236,False
+Bryn Forbes,2,10,39,0,Jump Shot,27,125,244,False
+Bryn Forbes,1,2,23,0,Jump Shot,27,196,194,False
+Bryn Forbes,4,9,11,0,Jump Shot,24,-198,150,False
+Bryn Forbes,4,6,2,1,Jump Shot,24,-185,161,False
+Bryn Forbes,4,6,35,0,Jump Shot,25,-134,215,False
+Bryn Forbes,3,0,17,0,Jump Shot,15,-38,155,True
+Bryn Forbes,4,9,35,0,Jump Shot,25,-177,180,False
+Bryn Forbes,2,6,1,1,Jump Shot,24,-112,218,False
+Bryn Forbes,4,10,34,0,Jump Shot,26,-154,210,False
+Bryn Forbes,2,4,48,0,Jump Shot,25,141,209,False
+Bryn Forbes,1,0,22,0,Jump Shot,22,-225,16,False
+Bryn Forbes,1,0,10,1,Jump Shot,25,104,231,False
+Bryn Forbes,1,1,28,1,Jump Shot,23,232,5,False
+Bryn Forbes,4,10,44,0,Jump Shot,19,-2,190,True
+Bryn Forbes,1,2,33,0,Jump Shot,23,-226,54,False
+Bryn Forbes,2,2,50,0,Jump Shot,25,5,254,False
+Bryn Forbes,2,6,36,0,Jump Shot,26,-111,239,False
+Bryn Forbes,3,1,10,0,Jump Shot,24,155,195,False
+Bryn Forbes,2,7,55,1,Jump Shot,24,165,184,False
+Bryn Forbes,1,7,25,1,Jump Shot,24,-230,95,False
+Bryn Forbes,4,4,24,1,Jump Shot,23,-231,-32,False
+Bryn Forbes,4,8,55,1,Jump Shot,25,204,146,False
+Bryn Forbes,4,11,11,0,Jump Shot,26,139,227,False
+Bryn Forbes,3,1,15,1,Jump Shot,23,230,21,False
+Bryn Forbes,2,0,43,0,Jump Shot,25,-180,178,False
+Bryn Forbes,1,4,14,1,Jump Shot,22,-226,-16,False
+Bryn Forbes,4,1,40,0,Jump Shot,26,173,201,False
+Bryn Forbes,4,3,41,0,Jump Shot,20,-201,39,True
+Bryn Forbes,3,4,15,1,Jump Shot,23,-236,-13,False
+Bryn Forbes,4,5,14,1,Jump Shot,25,203,151,False
+Bryn Forbes,3,5,9,1,Jump Shot,26,202,166,False
+Bryn Forbes,4,9,44,0,Jump Shot,22,-222,-1,False
+Bryn Forbes,2,4,53,1,Jump Shot,23,-231,33,False
+Bryn Forbes,2,3,46,0,Jump Shot,25,-141,211,False
+Bryn Forbes,4,5,8,1,Jump Shot,17,78,153,True
+Bryn Forbes,2,10,11,0,Jump Shot,24,177,176,False
+Bryn Forbes,2,8,39,1,Jump Shot,25,75,247,False
+Bryn Forbes,4,3,47,0,Jump Shot,22,-226,-2,False
+Bryn Forbes,2,9,45,1,Jump Shot,26,-40,267,False
+Bryn Forbes,2,0,10,0,Jump Shot,25,123,227,False
+Bryn Forbes,2,1,20,0,Jump Shot,24,-135,210,False
+Bryn Forbes,2,0,39,1,Jump Shot,22,-223,-6,False
+Bryn Forbes,2,3,1,0,Jump Shot,12,94,84,True
+Bryn Forbes,4,6,47,0,Jump Shot,21,-161,146,True
+Bryn Forbes,2,3,28,0,Jump Shot,25,-89,237,False
+Bryn Forbes,2,11,24,0,Jump Shot,18,181,5,True
+Bryn Forbes,2,9,3,0,Jump Shot,20,137,157,True
+Bryn Forbes,3,1,56,0,Jump Shot,17,136,104,True
+Bryn Forbes,4,9,27,0,Jump Shot,8,-88,-4,True
+Bryn Forbes,3,2,3,0,Jump Shot,25,-99,237,False
+Bryn Forbes,1,1,16,1,Jump Shot,15,73,142,True
+Bryn Forbes,4,6,0,1,Jump Shot,10,-101,11,True
+Bryn Forbes,3,0,0,0,Jump Shot,22,-174,136,True
+Bryn Forbes,2,2,53,0,Jump Shot,27,-100,252,False
+Bryn Forbes,2,10,16,0,Jump Shot,19,-109,159,True
+Bryn Forbes,4,6,13,0,Jump Shot,25,120,220,False
+Bryn Forbes,4,4,20,1,Jump Shot,25,-129,225,False
+Bryn Forbes,3,1,7,0,Layup Shot,1,11,8,True
+Bryn Forbes,3,0,27,0,Layup Shot,4,-36,26,True
+Bryn Forbes,3,1,21,0,Layup Shot,4,20,36,True
+Bryn Forbes,2,10,38,0,Layup Shot,1,-10,16,True
+Bryn Forbes,4,8,15,0,Layup Shot,21,-214,-19,True
+Bryn Forbes,4,2,20,0,Layup Shot,1,18,4,True
+Bryn Forbes,3,11,8,0,Layup Shot,3,-17,27,True
+Bryn Forbes,2,6,44,0,Layup Shot,2,-16,13,True
+Bryn Forbes,3,8,41,0,Layup Shot,8,-78,36,True
+Bryn Forbes,2,8,50,0,Pullup Jump shot,11,33,105,True
+Bryn Forbes,4,0,54,0,Pullup Jump shot,25,-92,236,False
+Bryn Forbes,4,8,15,1,Pullup Jump shot,26,111,236,False
+Bryn Forbes,4,6,23,1,Pullup Jump shot,20,-163,128,True
+Bryn Forbes,3,1,54,0,Pullup Jump shot,13,100,92,True
+Bryn Forbes,4,9,29,1,Pullup Jump shot,18,-57,180,True
+Bryn Forbes,1,11,29,0,Pullup Jump shot,20,22,201,True
+Bryn Forbes,1,7,51,1,Pullup Jump shot,12,-3,125,True
+Bryn Forbes,3,1,44,0,Pullup Jump shot,14,23,143,True
+Bryn Forbes,4,7,8,1,Pullup Jump shot,19,96,167,True
+Bryn Forbes,2,0,0,1,Pullup Jump shot,13,129,47,True
+Bryn Forbes,1,0,45,0,Pullup Jump shot,13,57,125,True
+Bryn Forbes,2,1,9,0,Pullup Jump shot,14,-143,11,True
+Bryn Forbes,3,11,7,0,Pullup Jump shot,14,-3,149,True
+Bryn Forbes,3,6,57,0,Pullup Jump shot,12,106,73,True
+Bryn Forbes,4,10,17,1,Pullup Jump shot,18,63,169,True
+Bryn Forbes,2,5,1,1,Pullup Jump shot,16,11,162,True
+Bryn Forbes,4,1,3,0,Pullup Jump shot,15,107,113,True
+Bryn Forbes,4,8,46,0,Pullup Jump shot,16,-100,132,True
+Bryn Forbes,4,5,33,0,Pullup Jump shot,22,227,28,False
+Bryn Forbes,3,9,20,1,Pullup Jump shot,15,13,158,True
+Bryn Forbes,3,5,41,0,Pullup Jump shot,15,-16,158,True
+Bryn Forbes,2,7,26,1,Pullup Jump shot,20,64,200,True
+Bryn Forbes,3,7,26,1,Pullup Jump shot,17,-150,85,True
+Bryn Forbes,1,10,0,1,Pullup Jump shot,14,0,148,True
+Bryn Forbes,4,11,37,1,Pullup Jump shot,12,122,10,True
+Bryn Forbes,2,3,50,1,Pullup Jump shot,19,55,185,True
+Bryn Forbes,4,4,2,0,Pullup Jump shot,17,163,62,True
+Bryn Forbes,3,0,28,0,Pullup Jump shot,15,-68,138,True
+Bryn Forbes,1,9,45,1,Pullup Jump shot,17,41,174,True
+Bryn Forbes,4,0,25,1,Pullup Jump shot,18,93,155,True
+Bryn Forbes,4,10,36,1,Pullup Jump shot,9,-55,83,True
+Bryn Forbes,4,3,25,0,Pullup Jump shot,25,157,206,False
+Bryn Forbes,4,8,56,0,Pullup Jump shot,18,66,177,True
+Bryn Forbes,4,7,2,1,Pullup Jump shot,18,-74,167,True
+Bryn Forbes,3,10,16,0,Pullup Jump shot,21,-154,146,True
+Bryn Forbes,1,4,46,1,Pullup Jump shot,16,-115,121,True
+Bryn Forbes,2,6,21,0,Pullup Jump shot,21,105,193,True
+Bryn Forbes,4,9,42,1,Pullup Jump shot,7,67,43,True
+Bryn Forbes,4,10,51,0,Pullup Jump shot,23,-70,222,True
+Bryn Forbes,2,7,3,0,Pullup Jump shot,20,-79,193,True
+Bryn Forbes,2,7,33,0,Pullup Jump shot,18,103,159,True
+Bryn Forbes,4,11,27,1,Pullup Jump shot,15,41,148,True
+Bryn Forbes,4,5,19,1,Pullup Jump shot,13,106,79,True
+Bryn Forbes,2,5,8,0,Pullup Jump shot,25,-122,224,False
+Bryn Forbes,4,4,28,0,Pullup Jump shot,25,-93,242,False
+Bryn Forbes,4,8,40,1,Pullup Jump shot,9,92,27,True
+Bryn Forbes,2,2,52,0,Pullup Jump shot,17,-38,175,True
+Bryn Forbes,3,11,21,1,Pullup Jump shot,12,85,92,True
+Bryn Forbes,3,0,54,1,Pullup Jump shot,18,-55,178,True
+Bryn Forbes,4,1,16,0,Pullup Jump shot,25,143,211,False
+Bryn Forbes,4,5,37,1,Pullup Jump shot,16,47,162,True
+Bryn Forbes,3,3,5,1,Pullup Jump shot,19,-60,185,True
+Bryn Forbes,3,3,4,1,Pullup Jump shot,15,57,141,True
+Bryn Forbes,4,8,28,0,Pullup Jump shot,16,3,166,True
+Bryn Forbes,3,3,31,0,Pullup Jump shot,16,-68,148,True
+Bryn Forbes,3,5,28,1,Pullup Jump shot,17,-76,153,True
+Bryn Forbes,2,1,26,0,Pullup Jump shot,8,-57,60,True
+Bryn Forbes,4,8,5,0,Pullup Jump shot,25,70,246,False
+Bryn Forbes,2,10,36,0,Pullup Jump shot,18,55,179,True
+Bryn Forbes,4,4,37,0,Pullup Jump shot,19,50,189,True
+Bryn Forbes,1,2,20,1,Pullup Jump shot,17,-95,151,True
+Bryn Forbes,3,8,46,0,Pullup Jump shot,24,219,104,False
+Bryn Forbes,4,0,6,1,Pullup Jump shot,29,92,282,False
+Bryn Forbes,1,7,25,0,Pullup Jump shot,16,-152,69,True
+Bryn Forbes,4,6,52,0,Pullup Jump shot,18,142,119,True
+Bryn Forbes,2,8,28,1,Pullup Jump shot,12,-92,80,True
+Bryn Forbes,3,7,59,1,Pullup Jump shot,15,-63,147,True
+Bryn Forbes,4,11,17,0,Pullup Jump shot,14,-58,137,True
+Bryn Forbes,4,10,38,1,Pullup Jump shot,17,39,166,True
+Bryn Forbes,2,7,53,1,Pullup Jump shot,17,112,138,True
+Bryn Forbes,3,9,52,0,Pullup Jump shot,15,11,154,True
+Bryn Forbes,1,4,36,1,Pullup Jump shot,25,-175,181,False
+Bryn Forbes,3,3,1,0,Pullup Jump shot,16,138,99,True
+Bryn Forbes,4,11,37,0,Pullup Jump shot,9,-52,80,True
+Bryn Forbes,3,9,59,1,Pullup Jump shot,27,-187,206,False
+Bryn Forbes,2,8,31,0,Pullup Jump shot,18,177,61,True
+Bryn Forbes,1,0,36,0,Pullup Jump shot,13,110,75,True
+Bryn Forbes,4,0,17,0,Pullup Jump shot,18,173,69,True
+Bryn Forbes,2,11,37,0,Pullup Jump shot,17,96,148,True
+Bryn Forbes,3,0,7,1,Pullup Jump shot,18,-80,169,True
+Bryn Forbes,4,1,38,0,Pullup Jump shot,15,-25,152,True
+Bryn Forbes,2,3,36,0,Pullup Jump shot,18,109,155,True
+Bryn Forbes,4,10,13,1,Pullup Jump shot,13,7,132,True
+Bryn Forbes,3,1,47,1,Pullup Jump shot,17,179,-5,True
+Bryn Forbes,3,2,55,1,Pullup Jump shot,19,-43,189,True
+Bryn Forbes,4,9,46,0,Pullup Jump shot,14,57,134,True
+Bryn Forbes,4,10,44,1,Pullup Jump shot,21,-126,170,True
+Bryn Forbes,4,6,14,0,Pullup Jump shot,19,-37,188,True
+Bryn Forbes,4,10,40,0,Pullup Jump shot,22,45,220,True
+Bryn Forbes,2,9,22,0,Pullup Jump shot,14,-142,2,True
+Bryn Forbes,3,9,34,1,Pullup Jump shot,25,143,216,False
+Bryn Forbes,3,6,13,0,Pullup Jump shot,14,1,145,True
+Bryn Forbes,3,9,25,0,Pullup Jump shot,16,-2,168,True
+Bryn Forbes,4,11,41,1,Pullup Jump shot,18,158,89,True
+Bryn Forbes,3,9,50,0,Pullup Jump shot,19,-176,87,True
+Bryn Forbes,4,9,28,1,Pullup Jump shot,25,1,250,False
+Bryn Forbes,4,11,26,0,Pullup Jump shot,18,176,62,True
+Bryn Forbes,4,8,43,1,Pullup Jump shot,14,6,142,True
+Bryn Forbes,3,5,1,1,Pullup Jump shot,16,95,137,True
+Bryn Forbes,3,1,54,1,Pullup Jump shot,14,34,146,True
+Bryn Forbes,1,0,0,0,Pullup Jump shot,21,-6,214,True
+Bryn Forbes,4,5,7,0,Pullup Jump shot,17,-84,150,True
+Bryn Forbes,4,5,10,0,Pullup Jump shot,14,-24,148,True
+Bryn Forbes,4,5,17,0,Pullup Jump shot,17,75,153,True
+Bryn Forbes,4,2,36,1,Pullup Jump shot,14,32,141,True
+Bryn Forbes,2,11,16,0,Pullup Jump shot,20,-79,189,True
+Bryn Forbes,4,2,59,1,Reverse Layup Shot,2,-4,20,True
+Bryn Forbes,2,6,25,1,Running Dunk Shot,0,-6,4,True
+Bryn Forbes,4,10,18,1,Running Finger Roll Layup Shot,1,2,15,True
+Bryn Forbes,3,2,18,1,Running Finger Roll Layup Shot,1,-10,1,True
+Bryn Forbes,3,6,5,0,Running Jump Shot,24,-133,209,False
+Bryn Forbes,4,11,46,0,Running Jump Shot,9,-40,84,True
+Bryn Forbes,2,10,23,0,Running Jump Shot,23,231,58,False
+Bryn Forbes,3,0,0,0,Running Jump Shot,46,-5,461,False
+Bryn Forbes,4,4,14,1,Running Layup Shot,0,0,0,True
+Bryn Forbes,1,6,51,0,Running Layup Shot,1,-13,10,True
+Bryn Forbes,1,7,32,1,Running Layup Shot,0,-9,1,True
+Bryn Forbes,4,6,16,0,Running Layup Shot,12,-17,123,True
+Bryn Forbes,3,6,11,0,Running Pull-Up Jump Shot,25,-225,124,False
+Bryn Forbes,1,2,20,1,Running Pull-Up Jump Shot,26,-172,197,False
+Bryn Forbes,4,9,4,0,Step Back Jump shot,17,-117,134,True
+Bryn Forbes,4,8,18,0,Step Back Jump shot,20,11,202,True
+Bryn Forbes,3,1,16,1,Step Back Jump shot,22,-132,178,True
+Bryn Forbes,1,7,17,0,Step Back Jump shot,24,-1,249,False
+Bryn Forbes,2,7,32,1,Step Back Jump shot,15,-154,26,True
+Bryn Forbes,2,8,7,0,Step Back Jump shot,16,9,169,True
+Bryn Forbes,2,0,5,0,Step Back Jump shot,19,-94,168,True
+Bryn Forbes,1,1,17,1,Step Back Jump shot,20,-7,201,True
+Bryn Forbes,2,11,21,1,Step Back Jump shot,16,-120,115,True
+Bryn Forbes,2,3,24,0,Step Back Jump shot,18,142,120,True
+Bryn Forbes,3,8,18,0,Turnaround Fadeaway shot,13,3,134,True
+Bryn Forbes,2,10,35,1,Turnaround Fadeaway shot,9,57,82,True
+Bryn Forbes,2,1,56,1,Turnaround Jump Shot,12,-9,122,True
+Bryn Forbes,3,5,51,0,Turnaround Jump Shot,14,-38,139,True

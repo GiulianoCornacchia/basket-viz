@@ -1,0 +1,473 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+George Hill,3,11,43,1,Cutting Dunk Shot,0,7,-4,True
+George Hill,1,2,58,0,Cutting Layup Shot,2,-13,23,True
+George Hill,1,10,53,0,Cutting Layup Shot,1,5,10,True
+George Hill,4,4,59,1,Cutting Layup Shot,1,6,11,True
+George Hill,3,3,20,1,Cutting Layup Shot,2,-20,17,True
+George Hill,1,8,19,1,Cutting Layup Shot,1,5,18,True
+George Hill,4,4,25,1,Cutting Layup Shot,2,20,10,True
+George Hill,1,8,59,1,Cutting Layup Shot,2,-18,15,True
+George Hill,2,2,49,1,Cutting Layup Shot,2,20,15,True
+George Hill,1,11,28,1,Cutting Layup Shot,0,3,8,True
+George Hill,4,4,6,1,Cutting Layup Shot,2,0,21,True
+George Hill,3,10,7,1,Driving Finger Roll Layup Shot,1,-6,11,True
+George Hill,2,1,27,0,Driving Finger Roll Layup Shot,1,14,4,True
+George Hill,2,7,9,1,Driving Finger Roll Layup Shot,0,2,8,True
+George Hill,3,0,7,1,Driving Finger Roll Layup Shot,2,-11,17,True
+George Hill,3,9,38,1,Driving Finger Roll Layup Shot,1,-6,8,True
+George Hill,4,3,11,1,Driving Finger Roll Layup Shot,1,8,8,True
+George Hill,3,8,38,0,Driving Finger Roll Layup Shot,2,-22,2,True
+George Hill,4,3,31,1,Driving Finger Roll Layup Shot,1,-11,1,True
+George Hill,3,7,17,1,Driving Finger Roll Layup Shot,7,22,69,True
+George Hill,1,7,42,1,Driving Finger Roll Layup Shot,0,-1,5,True
+George Hill,3,8,47,0,Driving Finger Roll Layup Shot,4,7,41,True
+George Hill,3,3,35,0,Driving Floating Bank Jump Shot,6,48,37,True
+George Hill,3,1,45,1,Driving Floating Bank Jump Shot,8,87,20,True
+George Hill,1,2,35,1,Driving Floating Bank Jump Shot,0,2,1,True
+George Hill,2,11,12,1,Driving Floating Jump Shot,2,0,26,True
+George Hill,1,3,27,0,Driving Floating Jump Shot,10,-33,102,True
+George Hill,2,3,31,0,Driving Floating Jump Shot,15,18,152,True
+George Hill,2,0,32,0,Driving Floating Jump Shot,7,-22,68,True
+George Hill,3,5,17,0,Driving Floating Jump Shot,8,45,72,True
+George Hill,1,4,0,0,Driving Floating Jump Shot,8,1,85,True
+George Hill,3,5,12,0,Driving Floating Jump Shot,5,44,31,True
+George Hill,2,2,17,0,Driving Floating Jump Shot,10,74,75,True
+George Hill,1,0,38,1,Driving Floating Jump Shot,12,-29,117,True
+George Hill,4,9,2,0,Driving Floating Jump Shot,6,4,64,True
+George Hill,2,0,37,0,Driving Floating Jump Shot,13,83,105,True
+George Hill,3,8,56,0,Driving Floating Jump Shot,5,-50,21,True
+George Hill,1,4,28,0,Driving Floating Jump Shot,9,8,99,True
+George Hill,1,9,30,1,Driving Floating Jump Shot,8,19,86,True
+George Hill,3,4,15,1,Driving Floating Jump Shot,12,116,36,True
+George Hill,1,3,58,0,Driving Floating Jump Shot,6,68,11,True
+George Hill,4,6,3,1,Driving Floating Jump Shot,9,59,76,True
+George Hill,1,4,30,0,Driving Floating Jump Shot,6,25,62,True
+George Hill,4,1,44,1,Driving Floating Jump Shot,12,2,125,True
+George Hill,1,5,6,0,Driving Floating Jump Shot,7,-13,78,True
+George Hill,3,2,59,1,Driving Floating Jump Shot,7,-69,37,True
+George Hill,1,2,16,1,Driving Floating Jump Shot,10,-78,71,True
+George Hill,3,11,17,0,Driving Floating Jump Shot,6,28,63,True
+George Hill,1,5,49,1,Driving Hook Shot,5,11,52,True
+George Hill,3,4,40,1,Driving Hook Shot,6,3,66,True
+George Hill,1,10,44,0,Driving Layup Shot,2,14,15,True
+George Hill,3,5,38,1,Driving Layup Shot,0,1,0,True
+George Hill,3,6,28,0,Driving Layup Shot,1,-9,16,True
+George Hill,2,1,35,0,Driving Layup Shot,3,19,25,True
+George Hill,3,3,37,1,Driving Layup Shot,1,0,14,True
+George Hill,3,4,29,1,Driving Layup Shot,1,10,2,True
+George Hill,3,9,35,1,Driving Layup Shot,1,9,13,True
+George Hill,4,5,58,1,Driving Layup Shot,2,-22,-5,True
+George Hill,3,11,6,0,Driving Layup Shot,1,10,7,True
+George Hill,3,1,30,1,Driving Layup Shot,1,12,6,True
+George Hill,3,2,37,0,Driving Layup Shot,0,2,2,True
+George Hill,4,2,4,1,Driving Layup Shot,1,4,-13,True
+George Hill,3,8,45,0,Driving Layup Shot,6,-8,64,True
+George Hill,3,8,18,0,Driving Layup Shot,4,-45,16,True
+George Hill,3,10,54,0,Driving Layup Shot,3,6,33,True
+George Hill,3,6,3,1,Driving Layup Shot,2,25,9,True
+George Hill,1,4,59,1,Driving Layup Shot,0,-6,5,True
+George Hill,3,10,15,1,Driving Layup Shot,4,-13,38,True
+George Hill,2,2,53,0,Driving Layup Shot,4,44,20,True
+George Hill,1,6,35,1,Driving Layup Shot,0,-7,-1,True
+George Hill,1,6,21,0,Driving Layup Shot,5,34,43,True
+George Hill,1,4,22,1,Driving Layup Shot,1,16,2,True
+George Hill,3,7,49,1,Driving Layup Shot,1,-3,15,True
+George Hill,1,9,3,1,Driving Layup Shot,0,8,4,True
+George Hill,3,4,42,0,Driving Layup Shot,8,-34,79,True
+George Hill,1,5,44,0,Driving Layup Shot,0,-6,-4,True
+George Hill,2,3,40,0,Driving Layup Shot,0,2,7,True
+George Hill,4,6,41,0,Driving Layup Shot,2,-11,23,True
+George Hill,2,2,32,1,Driving Layup Shot,1,-1,17,True
+George Hill,1,7,9,0,Driving Layup Shot,1,-8,-6,True
+George Hill,2,0,4,0,Driving Layup Shot,5,43,26,True
+George Hill,2,1,53,1,Driving Layup Shot,0,-6,6,True
+George Hill,2,0,9,1,Driving Layup Shot,3,26,20,True
+George Hill,2,0,17,1,Driving Layup Shot,1,8,17,True
+George Hill,4,1,58,0,Driving Reverse Layup Shot,2,-20,2,True
+George Hill,2,1,27,1,Driving Reverse Layup Shot,1,2,16,True
+George Hill,3,8,57,1,Dunk Shot,0,-1,8,True
+George Hill,1,9,1,0,Fadeaway Jump Shot,15,-155,-1,True
+George Hill,1,10,5,0,Fadeaway Jump Shot,14,145,17,True
+George Hill,1,8,51,0,Fadeaway Jump Shot,6,-67,17,True
+George Hill,3,8,20,1,Fadeaway Jump Shot,8,-71,42,True
+George Hill,3,10,16,0,Fadeaway Jump Shot,11,0,111,True
+George Hill,2,0,27,0,Fadeaway Jump Shot,17,72,164,True
+George Hill,2,5,32,0,Fadeaway Jump Shot,8,-63,63,True
+George Hill,1,2,34,1,Fadeaway Jump Shot,12,2,122,True
+George Hill,1,6,43,0,Fadeaway Jump Shot,11,119,12,True
+George Hill,3,8,43,1,Fadeaway Jump Shot,7,-8,70,True
+George Hill,3,7,9,0,Fadeaway Jump Shot,14,143,-31,True
+George Hill,1,8,26,1,Fadeaway Jump Shot,14,-123,78,True
+George Hill,4,9,11,0,Finger Roll Layup Shot,2,-8,26,True
+George Hill,3,8,45,1,Finger Roll Layup Shot,6,52,46,True
+George Hill,1,3,6,0,Floating Jump shot,6,-44,47,True
+George Hill,2,1,23,0,Floating Jump shot,3,35,9,True
+George Hill,3,11,23,1,Floating Jump shot,14,-25,139,True
+George Hill,3,1,23,1,Floating Jump shot,14,-106,104,True
+George Hill,3,8,15,1,Floating Jump shot,10,-20,101,True
+George Hill,1,5,9,0,Floating Jump shot,8,0,83,True
+George Hill,2,1,3,1,Floating Jump shot,7,3,76,True
+George Hill,3,0,1,1,Floating Jump shot,8,-3,84,True
+George Hill,4,4,7,1,Floating Jump shot,6,-16,58,True
+George Hill,1,3,10,0,Floating Jump shot,8,-6,89,True
+George Hill,2,3,22,1,Floating Jump shot,11,27,116,True
+George Hill,4,2,6,0,Floating Jump shot,11,-35,113,True
+George Hill,1,11,21,0,Floating Jump shot,12,22,122,True
+George Hill,3,10,3,1,Floating Jump shot,7,-8,78,True
+George Hill,3,9,59,0,Floating Jump shot,6,67,17,True
+George Hill,1,10,33,0,Floating Jump shot,5,-5,58,True
+George Hill,2,2,24,1,Floating Jump shot,13,8,134,True
+George Hill,1,5,38,0,Floating Jump shot,6,21,62,True
+George Hill,1,5,59,1,Floating Jump shot,5,29,46,True
+George Hill,4,3,35,0,Floating Jump shot,12,-16,128,True
+George Hill,1,7,27,1,Floating Jump shot,6,6,62,True
+George Hill,3,11,47,0,Floating Jump shot,9,6,91,True
+George Hill,2,1,46,0,Floating Jump shot,10,78,72,True
+George Hill,3,7,25,1,Floating Jump shot,9,41,90,True
+George Hill,3,8,46,1,Floating Jump shot,8,37,81,True
+George Hill,3,2,10,1,Floating Jump shot,10,6,106,True
+George Hill,1,9,34,0,Jump Shot,18,-116,139,True
+George Hill,3,10,14,1,Jump Shot,23,232,-16,False
+George Hill,3,9,45,0,Jump Shot,25,93,237,False
+George Hill,2,11,9,0,Jump Shot,23,-232,-16,False
+George Hill,3,11,15,1,Jump Shot,17,-29,169,True
+George Hill,3,10,40,0,Jump Shot,15,17,158,True
+George Hill,3,3,47,0,Jump Shot,23,-232,17,False
+George Hill,2,2,14,0,Jump Shot,22,-225,11,False
+George Hill,1,4,36,0,Jump Shot,23,230,67,False
+George Hill,1,9,36,0,Jump Shot,17,-47,164,True
+George Hill,4,8,25,0,Jump Shot,20,198,49,True
+George Hill,3,7,54,0,Jump Shot,19,-9,190,True
+George Hill,1,8,45,0,Jump Shot,25,223,114,False
+George Hill,1,5,32,0,Jump Shot,9,-93,6,True
+George Hill,1,11,17,1,Jump Shot,16,12,163,True
+George Hill,4,4,23,1,Jump Shot,22,227,23,False
+George Hill,2,6,22,0,Jump Shot,5,59,0,True
+George Hill,1,6,13,0,Jump Shot,25,-161,195,False
+George Hill,3,7,53,0,Jump Shot,25,6,251,False
+George Hill,2,7,44,0,Jump Shot,22,228,6,False
+George Hill,2,0,0,1,Jump Shot,21,-218,3,False
+George Hill,3,4,51,1,Jump Shot,22,222,-20,False
+George Hill,1,7,27,0,Jump Shot,23,-230,-11,False
+George Hill,3,10,2,1,Jump Shot,22,-228,-5,False
+George Hill,4,5,14,0,Jump Shot,25,-2,257,False
+George Hill,4,5,24,1,Jump Shot,22,-228,1,False
+George Hill,3,6,12,1,Jump Shot,23,230,16,False
+George Hill,1,7,40,0,Jump Shot,26,112,243,False
+George Hill,1,8,56,0,Jump Shot,24,232,73,False
+George Hill,3,8,59,0,Jump Shot,25,-106,232,False
+George Hill,1,10,35,0,Jump Shot,23,-232,11,False
+George Hill,1,10,10,0,Jump Shot,21,-8,210,True
+George Hill,1,10,53,1,Jump Shot,25,136,218,False
+George Hill,1,3,29,1,Jump Shot,20,162,122,True
+George Hill,3,6,12,0,Jump Shot,23,232,26,False
+George Hill,3,11,44,1,Jump Shot,16,25,165,True
+George Hill,3,5,31,1,Jump Shot,15,123,101,True
+George Hill,3,4,56,1,Jump Shot,22,226,23,False
+George Hill,3,6,27,1,Jump Shot,23,228,67,False
+George Hill,2,1,34,0,Jump Shot,20,148,136,True
+George Hill,3,3,27,0,Jump Shot,23,231,16,False
+George Hill,1,8,35,0,Jump Shot,23,232,29,False
+George Hill,2,1,31,1,Jump Shot,22,226,5,False
+George Hill,3,11,28,0,Jump Shot,23,232,13,False
+George Hill,1,0,58,0,Jump Shot,22,-228,11,False
+George Hill,2,4,53,0,Jump Shot,24,-133,209,False
+George Hill,3,3,15,0,Jump Shot,25,-65,242,False
+George Hill,3,7,3,0,Jump Shot,23,237,21,False
+George Hill,3,10,2,0,Jump Shot,24,-116,220,False
+George Hill,2,2,26,0,Jump Shot,14,93,117,True
+George Hill,1,11,28,0,Jump Shot,25,129,218,False
+George Hill,3,4,44,1,Jump Shot,22,-228,-2,False
+George Hill,2,1,12,0,Jump Shot,25,67,242,False
+George Hill,3,5,28,0,Jump Shot,23,232,19,False
+George Hill,3,11,15,1,Jump Shot,23,-230,13,False
+George Hill,3,3,37,0,Jump Shot,26,-112,236,False
+George Hill,3,5,56,0,Jump Shot,28,-170,227,False
+George Hill,2,5,51,0,Jump Shot,20,-143,148,True
+George Hill,2,8,17,1,Jump Shot,25,109,231,False
+George Hill,3,6,41,1,Jump Shot,24,-183,165,False
+George Hill,3,3,1,0,Jump Shot,25,-149,204,False
+George Hill,2,6,27,0,Jump Shot,23,234,30,False
+George Hill,4,3,24,1,Jump Shot,24,195,154,False
+George Hill,4,5,32,0,Jump Shot,23,-231,-11,False
+George Hill,2,8,58,0,Jump Shot,25,145,211,False
+George Hill,4,10,8,1,Jump Shot,25,-116,230,False
+George Hill,4,6,2,1,Jump Shot,24,195,149,False
+George Hill,4,11,11,0,Jump Shot,26,-116,235,False
+George Hill,1,0,0,0,Jump Shot,43,201,381,False
+George Hill,4,9,40,0,Jump Shot,26,145,225,False
+George Hill,1,7,0,0,Jump Shot,15,140,67,True
+George Hill,1,2,50,1,Jump Shot,24,108,223,False
+George Hill,3,8,19,1,Jump Shot,24,-102,222,False
+George Hill,1,0,0,0,Jump Shot,25,-230,115,False
+George Hill,1,11,45,0,Jump Shot,22,-224,47,False
+George Hill,1,6,27,0,Jump Shot,24,201,142,False
+George Hill,4,6,49,1,Jump Shot,18,133,130,True
+George Hill,4,2,40,0,Jump Shot,18,-49,179,True
+George Hill,1,8,46,0,Jump Shot,24,-192,157,False
+George Hill,4,7,38,0,Jump Shot,16,120,116,True
+George Hill,2,11,46,0,Jump Shot,21,-167,131,True
+George Hill,3,9,39,1,Jump Shot,22,222,11,False
+George Hill,4,0,2,0,Jump Shot,27,37,277,False
+George Hill,4,11,4,1,Jump Shot,25,-198,163,False
+George Hill,2,11,3,0,Jump Shot,20,66,198,True
+George Hill,2,9,20,1,Jump Shot,24,179,173,False
+George Hill,4,9,50,1,Jump Shot,23,-229,48,False
+George Hill,3,9,50,0,Jump Shot,26,40,265,False
+George Hill,2,5,36,1,Jump Shot,25,47,247,False
+George Hill,2,4,50,1,Jump Shot,21,92,192,True
+George Hill,1,7,19,0,Jump Shot,25,-81,240,False
+George Hill,2,0,7,0,Jump Shot,24,-108,220,False
+George Hill,1,0,6,0,Jump Shot,23,-230,4,False
+George Hill,1,0,37,0,Jump Shot,19,131,143,True
+George Hill,3,7,52,1,Jump Shot,24,105,222,False
+George Hill,1,11,34,0,Jump Shot,20,-195,57,False
+George Hill,4,2,13,0,Jump Shot,5,44,36,True
+George Hill,2,0,8,0,Jump Shot,26,155,209,False
+George Hill,1,2,22,0,Jump Shot,23,231,55,False
+George Hill,3,6,47,0,Jump Shot,22,-228,13,False
+George Hill,3,0,13,0,Jump Shot,25,-22,257,False
+George Hill,2,0,41,0,Jump Shot,25,169,192,False
+George Hill,1,9,49,0,Jump Shot,23,-230,63,False
+George Hill,4,1,41,0,Jump Shot,25,217,142,False
+George Hill,3,0,38,1,Jump Shot,25,-152,208,False
+George Hill,3,2,50,1,Jump Shot,27,90,256,False
+George Hill,1,3,31,1,Jump Shot,27,179,208,False
+George Hill,3,3,28,1,Jump Shot,23,225,59,False
+George Hill,4,5,20,0,Jump Shot,18,-93,160,True
+George Hill,2,2,4,1,Jump Shot,26,177,198,False
+George Hill,4,5,9,0,Jump Shot,24,165,186,False
+George Hill,3,4,51,0,Jump Shot,23,232,3,False
+George Hill,4,1,34,0,Jump Shot,26,16,262,False
+George Hill,4,0,39,1,Jump Shot,26,68,256,False
+George Hill,1,7,43,1,Jump Shot,22,228,-6,False
+George Hill,3,9,39,1,Jump Shot,25,195,164,False
+George Hill,2,0,3,1,Jump Shot,29,-66,288,False
+George Hill,1,3,33,0,Jump Shot,22,-224,4,False
+George Hill,1,3,29,1,Jump Shot,22,222,15,False
+George Hill,1,9,23,0,Jump Shot,25,155,202,False
+George Hill,3,0,29,0,Jump Shot,18,128,129,True
+George Hill,1,6,59,1,Jump Shot,25,-17,251,False
+George Hill,3,6,5,0,Jump Shot,27,-206,188,False
+George Hill,1,8,59,0,Jump Shot,26,95,247,False
+George Hill,3,7,54,1,Jump Shot,25,158,197,False
+George Hill,3,7,55,1,Jump Shot,26,-114,236,False
+George Hill,3,4,3,0,Jump Shot,18,114,147,True
+George Hill,3,11,40,1,Jump Shot,26,35,262,False
+George Hill,1,9,12,0,Jump Shot,26,-105,239,False
+George Hill,4,0,8,0,Jump Shot,26,47,256,False
+George Hill,3,7,14,0,Jump Shot,26,-150,220,False
+George Hill,2,1,25,0,Jump Shot,25,77,248,False
+George Hill,3,6,23,0,Jump Shot,24,235,52,False
+George Hill,3,3,1,0,Jump Shot,24,9,241,False
+George Hill,3,8,46,0,Jump Shot,25,-44,248,False
+George Hill,3,6,15,0,Jump Shot,25,207,142,False
+George Hill,1,9,52,1,Jump Shot,24,62,237,False
+George Hill,1,3,51,0,Jump Shot,26,-65,257,False
+George Hill,3,10,45,1,Jump Shot,23,-234,50,False
+George Hill,3,9,37,0,Jump Shot,24,201,133,False
+George Hill,1,11,3,1,Jump Shot,23,231,22,False
+George Hill,1,7,7,0,Jump Shot,17,-150,98,True
+George Hill,1,8,5,0,Jump Shot,24,-203,138,False
+George Hill,4,9,0,1,Jump Shot,25,-3,257,False
+George Hill,2,3,30,1,Jump Shot,24,-183,159,False
+George Hill,3,5,22,1,Jump Shot,23,-230,7,False
+George Hill,2,0,0,0,Jump Shot,59,25,593,False
+George Hill,3,3,16,0,Jump Shot,22,221,37,False
+George Hill,1,9,10,1,Jump Shot,24,-112,222,False
+George Hill,3,8,28,0,Jump Shot,12,89,88,True
+George Hill,4,3,8,0,Jump Shot,24,122,216,False
+George Hill,1,9,57,0,Jump Shot,23,-230,12,False
+George Hill,3,8,56,0,Jump Shot,19,-103,171,True
+George Hill,4,0,14,0,Jump Shot,13,-33,129,True
+George Hill,1,10,47,1,Jump Shot,23,227,75,False
+George Hill,3,5,0,1,Jump Shot,23,232,16,False
+George Hill,3,5,33,0,Jump Shot,26,95,243,False
+George Hill,1,9,42,0,Jump Shot,25,102,239,False
+George Hill,1,6,14,0,Jump Shot,24,-147,197,False
+George Hill,1,10,29,1,Jump Shot,25,-80,239,False
+George Hill,1,3,56,1,Jump Shot,22,-222,15,False
+George Hill,1,1,11,1,Jump Shot,19,144,125,True
+George Hill,1,0,14,0,Jump Shot,19,143,130,True
+George Hill,3,9,24,0,Jump Shot,24,71,238,False
+George Hill,1,9,0,1,Jump Shot,25,54,248,False
+George Hill,2,0,1,0,Jump Shot,22,-90,210,True
+George Hill,1,6,15,0,Jump Shot,25,175,190,False
+George Hill,3,11,4,0,Jump Shot,24,6,243,False
+George Hill,3,9,53,0,Jump Shot,25,60,246,False
+George Hill,1,9,20,0,Jump Shot,22,228,22,False
+George Hill,1,10,31,1,Jump Shot,25,146,206,False
+George Hill,3,7,35,0,Jump Shot,13,-41,127,True
+George Hill,3,9,47,1,Jump Shot,25,152,201,False
+George Hill,1,2,21,0,Jump Shot,27,152,235,False
+George Hill,3,4,44,0,Jump Shot,14,145,15,True
+George Hill,3,1,55,0,Jump Shot,13,-70,117,True
+George Hill,1,11,23,0,Jump Shot,26,152,221,False
+George Hill,3,6,43,1,Jump Shot,24,108,225,False
+George Hill,2,0,47,1,Jump Shot,25,95,238,False
+George Hill,2,6,58,0,Jump Shot,22,161,158,True
+George Hill,2,4,26,0,Jump Shot,25,93,233,False
+George Hill,1,8,41,0,Jump Shot,22,-226,-20,False
+George Hill,1,9,38,0,Jump Shot,16,92,142,True
+George Hill,3,2,36,1,Jump Shot,22,-225,-8,False
+George Hill,4,4,33,0,Jump Shot,23,231,21,False
+George Hill,3,1,17,1,Jump Shot,24,-139,201,False
+George Hill,1,6,13,0,Jump Shot,25,174,185,False
+George Hill,3,9,47,1,Jump Shot,19,133,142,True
+George Hill,2,0,55,0,Jump Shot,25,95,235,False
+George Hill,2,3,48,0,Jump Shot,23,-239,15,False
+George Hill,1,11,38,0,Jump Shot,18,-153,102,True
+George Hill,2,1,52,0,Jump Shot,17,-92,150,True
+George Hill,2,4,48,1,Jump Shot,22,-222,-6,False
+George Hill,4,11,4,0,Jump Shot,20,-45,197,True
+George Hill,1,10,50,0,Jump Shot,24,-215,111,False
+George Hill,3,9,19,0,Jump Shot,28,-84,274,False
+George Hill,2,1,57,1,Jump Shot,20,145,138,True
+George Hill,1,7,36,0,Jump Shot,15,13,152,True
+George Hill,2,0,1,1,Jump Shot,25,-120,226,False
+George Hill,2,0,50,0,Jump Shot,12,43,117,True
+George Hill,3,7,27,1,Jump Shot,24,109,222,False
+George Hill,4,1,24,1,Jump Shot,27,-137,242,False
+George Hill,3,0,42,0,Jump Shot,20,209,-11,True
+George Hill,3,9,16,1,Jump Shot,18,73,170,True
+George Hill,2,3,18,1,Jump Shot,21,119,174,True
+George Hill,3,11,29,0,Jump Shot,20,-123,160,True
+George Hill,4,3,12,0,Jump Shot,9,-39,84,True
+George Hill,3,6,22,0,Jump Shot,24,15,244,False
+George Hill,1,10,19,1,Jump Shot,25,215,134,False
+George Hill,1,9,38,0,Layup Shot,3,34,17,True
+George Hill,3,5,44,1,Layup Shot,1,4,11,True
+George Hill,3,10,15,1,Layup Shot,1,18,8,True
+George Hill,2,4,52,0,Layup Shot,8,-58,56,True
+George Hill,1,1,30,0,Layup Shot,1,15,8,True
+George Hill,1,2,59,1,Layup Shot,2,12,26,True
+George Hill,3,8,29,0,Layup Shot,1,15,1,True
+George Hill,3,4,24,0,Layup Shot,2,-16,17,True
+George Hill,2,3,24,1,Layup Shot,0,-6,6,True
+George Hill,1,0,41,1,Layup Shot,1,-2,13,True
+George Hill,2,3,7,0,Layup Shot,7,-32,67,True
+George Hill,1,11,5,1,Layup Shot,1,-2,12,True
+George Hill,3,9,23,1,Layup Shot,1,-13,9,True
+George Hill,2,4,31,0,Layup Shot,2,-9,21,True
+George Hill,2,1,19,1,Layup Shot,2,19,12,True
+George Hill,4,5,12,1,Layup Shot,3,30,8,True
+George Hill,1,6,49,0,Layup Shot,2,8,20,True
+George Hill,3,5,49,0,Layup Shot,1,11,6,True
+George Hill,1,6,13,1,Pullup Jump shot,15,-13,158,True
+George Hill,1,5,34,0,Pullup Jump shot,17,100,140,True
+George Hill,2,0,32,1,Pullup Jump shot,12,-27,121,True
+George Hill,2,1,6,1,Pullup Jump shot,13,-120,57,True
+George Hill,1,2,26,1,Pullup Jump shot,21,-6,210,True
+George Hill,2,8,57,1,Pullup Jump shot,21,78,195,True
+George Hill,2,4,31,0,Pullup Jump shot,15,58,143,True
+George Hill,3,4,30,0,Pullup Jump shot,25,3,255,False
+George Hill,2,11,27,1,Pullup Jump shot,13,-64,114,True
+George Hill,3,11,45,1,Pullup Jump shot,16,-74,148,True
+George Hill,3,8,49,1,Pullup Jump shot,13,1,135,True
+George Hill,3,11,3,0,Pullup Jump shot,10,-87,59,True
+George Hill,2,2,52,1,Pullup Jump shot,26,-108,243,False
+George Hill,3,2,43,1,Pullup Jump shot,19,0,195,True
+George Hill,2,0,3,0,Pullup Jump shot,19,157,112,True
+George Hill,2,0,45,1,Pullup Jump shot,25,-111,226,False
+George Hill,4,8,4,0,Pullup Jump shot,21,9,216,True
+George Hill,2,1,51,0,Pullup Jump shot,18,109,155,True
+George Hill,2,2,37,0,Pullup Jump shot,7,-1,76,True
+George Hill,1,10,16,1,Pullup Jump shot,12,-6,122,True
+George Hill,3,5,6,0,Pullup Jump shot,17,-68,164,True
+George Hill,1,7,18,1,Pullup Jump shot,26,135,223,False
+George Hill,1,9,48,1,Pullup Jump shot,20,71,188,True
+George Hill,1,0,53,0,Pullup Jump shot,18,-124,138,True
+George Hill,1,7,1,0,Pullup Jump shot,19,101,167,True
+George Hill,3,2,43,0,Pullup Jump shot,15,-3,159,True
+George Hill,1,4,30,1,Pullup Jump shot,13,-67,122,True
+George Hill,2,5,23,1,Pullup Jump shot,17,149,100,True
+George Hill,3,7,27,0,Pullup Jump shot,15,64,142,True
+George Hill,2,1,7,1,Pullup Jump shot,17,-162,58,True
+George Hill,3,9,47,0,Pullup Jump shot,16,-22,162,True
+George Hill,2,0,1,0,Pullup Jump shot,27,68,264,False
+George Hill,2,1,30,1,Pullup Jump shot,11,31,110,True
+George Hill,1,6,42,0,Pullup Jump shot,17,-171,42,True
+George Hill,1,8,13,0,Pullup Jump shot,14,2,144,True
+George Hill,1,9,49,0,Pullup Jump shot,13,-55,123,True
+George Hill,4,7,15,0,Pullup Jump shot,20,-7,206,True
+George Hill,4,2,1,0,Pullup Jump shot,16,-79,141,True
+George Hill,3,0,12,1,Pullup Jump shot,18,85,167,True
+George Hill,4,11,42,0,Pullup Jump shot,24,-131,212,False
+George Hill,3,5,6,1,Pullup Jump shot,26,-9,262,False
+George Hill,3,6,8,1,Pullup Jump shot,23,-234,49,False
+George Hill,4,6,17,0,Pullup Jump shot,26,24,259,False
+George Hill,2,10,25,0,Pullup Jump shot,17,-105,141,True
+George Hill,2,1,10,0,Pullup Jump shot,18,-131,135,True
+George Hill,1,2,47,0,Pullup Jump shot,16,-62,151,True
+George Hill,2,2,35,0,Pullup Jump shot,16,3,160,True
+George Hill,1,9,20,0,Pullup Jump shot,25,61,246,False
+George Hill,1,10,9,0,Pullup Jump shot,25,-11,256,False
+George Hill,1,7,46,1,Pullup Jump shot,21,196,83,True
+George Hill,2,6,20,0,Pullup Jump shot,14,-126,65,True
+George Hill,4,0,26,1,Pullup Jump shot,25,-80,242,False
+George Hill,3,6,26,0,Pullup Jump shot,20,120,167,True
+George Hill,3,5,13,1,Pullup Jump shot,24,-48,245,False
+George Hill,2,4,34,1,Pullup Jump shot,15,9,150,True
+George Hill,4,4,25,1,Pullup Jump shot,26,-104,239,False
+George Hill,1,6,26,1,Pullup Jump shot,23,231,14,False
+George Hill,1,2,8,0,Pullup Jump shot,17,51,169,True
+George Hill,3,6,56,1,Pullup Jump shot,16,-142,89,True
+George Hill,1,0,38,1,Pullup Jump shot,19,110,161,True
+George Hill,4,0,13,0,Pullup Jump shot,25,165,196,False
+George Hill,3,5,3,0,Pullup Jump shot,13,-133,42,True
+George Hill,2,6,35,1,Pullup Jump shot,16,0,162,True
+George Hill,3,5,49,1,Pullup Jump shot,16,114,117,True
+George Hill,1,10,22,1,Pullup Jump shot,15,-67,136,True
+George Hill,4,6,50,1,Pullup Jump shot,28,-109,259,False
+George Hill,1,6,56,0,Pullup Jump shot,17,71,158,True
+George Hill,4,0,16,1,Pullup Jump shot,17,68,157,True
+George Hill,3,3,56,1,Putback Dunk Shot,0,0,-6,True
+George Hill,3,6,12,0,Putback Layup Shot,0,0,-6,True
+George Hill,1,10,39,1,Putback Layup Shot,0,0,-6,True
+George Hill,1,1,20,0,Reverse Layup Shot,2,14,17,True
+George Hill,2,2,25,1,Running Dunk Shot,0,-4,5,True
+George Hill,1,7,2,1,Running Dunk Shot,1,3,12,True
+George Hill,1,11,38,1,Running Finger Roll Layup Shot,1,-9,-6,True
+George Hill,1,8,14,1,Running Finger Roll Layup Shot,2,-5,20,True
+George Hill,3,8,9,1,Running Finger Roll Layup Shot,2,25,10,True
+George Hill,1,4,8,1,Running Finger Roll Layup Shot,1,-13,13,True
+George Hill,2,0,0,1,Running Jump Shot,45,201,411,False
+George Hill,2,1,40,0,Running Layup Shot,0,5,-3,True
+George Hill,1,5,31,1,Running Layup Shot,4,-11,39,True
+George Hill,3,10,7,1,Running Layup Shot,1,11,11,True
+George Hill,3,10,27,1,Running Layup Shot,1,14,11,True
+George Hill,1,9,54,1,Running Layup Shot,2,22,10,True
+George Hill,3,7,53,1,Running Layup Shot,1,13,14,True
+George Hill,3,8,15,1,Running Layup Shot,1,11,10,True
+George Hill,4,0,14,1,Running Layup Shot,1,14,8,True
+George Hill,2,0,57,1,Running Layup Shot,1,-11,4,True
+George Hill,3,2,20,0,Running Layup Shot,1,3,16,True
+George Hill,2,5,2,1,Running Layup Shot,14,149,9,True
+George Hill,1,10,59,0,Running Layup Shot,1,6,15,True
+George Hill,1,5,38,1,Running Layup Shot,2,16,16,True
+George Hill,3,5,37,1,Running Layup Shot,0,-6,4,True
+George Hill,1,11,30,1,Running Layup Shot,1,-8,12,True
+George Hill,3,6,35,0,Running Layup Shot,0,-2,0,True
+George Hill,3,3,6,0,Running Pull-Up Jump Shot,9,-82,49,True
+George Hill,4,1,37,0,Running Pull-Up Jump Shot,24,-25,246,False
+George Hill,3,0,0,0,Running Pull-Up Jump Shot,26,-149,214,False
+George Hill,2,0,4,1,Step Back Jump shot,20,-30,204,True
+George Hill,2,3,42,1,Step Back Jump shot,14,-6,148,True
+George Hill,1,9,7,1,Step Back Jump shot,17,-40,174,True
+George Hill,3,5,40,0,Step Back Jump shot,17,169,37,True
+George Hill,2,6,0,1,Step Back Jump shot,22,-220,-7,False
+George Hill,1,5,47,0,Step Back Jump shot,25,-204,153,False
+George Hill,1,10,30,1,Step Back Jump shot,18,-166,73,True
+George Hill,2,0,24,1,Tip Layup Shot,0,0,-6,True
+George Hill,3,2,28,0,Tip Layup Shot,0,0,-6,True
+George Hill,4,2,4,0,Tip Layup Shot,0,0,-6,True
+George Hill,1,5,5,1,Tip Layup Shot,0,0,-6,True
+George Hill,2,3,48,0,Tip Layup Shot,2,22,18,True
+George Hill,2,2,19,0,Turnaround Fadeaway shot,9,-94,-1,True
+George Hill,2,2,38,1,Turnaround Fadeaway shot,11,41,111,True
+George Hill,4,11,34,0,Turnaround Fadeaway shot,10,-9,107,True
+George Hill,1,8,40,0,Turnaround Fadeaway shot,14,-139,22,True
+George Hill,3,9,39,1,Turnaround Hook Shot,6,27,57,True
+George Hill,3,5,17,0,Turnaround Jump Shot,5,-46,20,True
+George Hill,1,0,1,0,Turnaround Jump Shot,11,5,117,True
+George Hill,1,4,50,0,Turnaround Jump Shot,14,90,109,True

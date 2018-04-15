@@ -1,0 +1,539 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+CJ Miles,3,3,50,1,Cutting Dunk Shot,1,-9,8,True
+CJ Miles,4,4,18,1,Cutting Dunk Shot,0,-6,-5,True
+CJ Miles,3,3,45,1,Cutting Finger Roll Layup Shot,2,-24,14,True
+CJ Miles,1,9,38,0,Cutting Finger Roll Layup Shot,0,-3,3,True
+CJ Miles,1,4,10,1,Cutting Layup Shot,1,15,5,True
+CJ Miles,4,10,15,0,Cutting Layup Shot,10,22,100,True
+CJ Miles,4,11,16,0,Cutting Layup Shot,1,-3,14,True
+CJ Miles,2,8,16,1,Cutting Layup Shot,1,18,1,True
+CJ Miles,2,11,48,0,Driving Bank Hook Shot,6,-54,28,True
+CJ Miles,4,9,33,1,Driving Dunk Shot,0,-2,4,True
+CJ Miles,2,8,56,1,Driving Dunk Shot,0,-7,7,True
+CJ Miles,3,5,5,1,Driving Dunk Shot,1,8,-7,True
+CJ Miles,3,4,1,0,Driving Dunk Shot,3,4,32,True
+CJ Miles,2,9,10,1,Driving Dunk Shot,1,-3,13,True
+CJ Miles,2,4,34,0,Driving Dunk Shot,0,2,5,True
+CJ Miles,4,0,55,1,Driving Finger Roll Layup Shot,1,2,13,True
+CJ Miles,3,4,34,1,Driving Finger Roll Layup Shot,1,-7,15,True
+CJ Miles,4,11,47,1,Driving Finger Roll Layup Shot,8,24,78,True
+CJ Miles,3,4,15,1,Driving Finger Roll Layup Shot,0,0,7,True
+CJ Miles,1,3,3,1,Driving Finger Roll Layup Shot,6,16,63,True
+CJ Miles,3,5,2,0,Driving Finger Roll Layup Shot,3,-8,36,True
+CJ Miles,4,10,40,1,Driving Finger Roll Layup Shot,1,-2,13,True
+CJ Miles,3,3,9,1,Driving Floating Bank Jump Shot,11,76,88,True
+CJ Miles,1,0,40,0,Driving Floating Bank Jump Shot,7,54,55,True
+CJ Miles,2,10,56,0,Driving Floating Bank Jump Shot,10,104,26,True
+CJ Miles,3,5,21,1,Driving Floating Bank Jump Shot,6,-53,29,True
+CJ Miles,2,10,17,1,Driving Floating Bank Jump Shot,10,101,25,True
+CJ Miles,1,11,20,0,Driving Floating Jump Shot,10,20,108,True
+CJ Miles,3,1,33,0,Driving Floating Jump Shot,17,100,139,True
+CJ Miles,2,10,31,1,Driving Floating Jump Shot,5,-28,49,True
+CJ Miles,2,8,47,0,Driving Floating Jump Shot,3,-28,27,True
+CJ Miles,1,1,8,0,Driving Floating Jump Shot,7,0,76,True
+CJ Miles,4,8,41,0,Driving Floating Jump Shot,7,9,73,True
+CJ Miles,1,0,0,0,Driving Floating Jump Shot,49,-167,462,False
+CJ Miles,1,1,28,0,Driving Floating Jump Shot,14,14,149,True
+CJ Miles,3,10,42,1,Driving Floating Jump Shot,5,2,57,True
+CJ Miles,3,5,27,0,Driving Floating Jump Shot,7,3,74,True
+CJ Miles,4,7,21,0,Driving Floating Jump Shot,7,56,55,True
+CJ Miles,1,1,23,0,Driving Floating Jump Shot,16,105,131,True
+CJ Miles,3,0,38,0,Driving Floating Jump Shot,6,-2,61,True
+CJ Miles,4,10,26,1,Driving Floating Jump Shot,4,23,38,True
+CJ Miles,4,11,3,1,Driving Hook Shot,6,-38,49,True
+CJ Miles,2,10,34,0,Driving Hook Shot,8,-36,78,True
+CJ Miles,2,8,18,1,Driving Layup Shot,4,-30,36,True
+CJ Miles,2,8,24,0,Driving Layup Shot,3,-23,21,True
+CJ Miles,2,6,43,0,Driving Layup Shot,2,19,15,True
+CJ Miles,2,11,3,1,Driving Layup Shot,1,8,9,True
+CJ Miles,1,0,56,1,Driving Layup Shot,1,6,8,True
+CJ Miles,3,0,35,0,Driving Layup Shot,2,24,4,True
+CJ Miles,2,6,21,1,Driving Layup Shot,1,-7,17,True
+CJ Miles,4,9,30,1,Driving Layup Shot,0,-5,-7,True
+CJ Miles,2,11,23,0,Driving Layup Shot,2,-12,16,True
+CJ Miles,2,10,36,0,Driving Layup Shot,2,-17,12,True
+CJ Miles,4,10,15,0,Driving Layup Shot,2,-6,27,True
+CJ Miles,4,11,34,0,Driving Layup Shot,1,5,17,True
+CJ Miles,1,0,57,1,Driving Layup Shot,2,16,15,True
+CJ Miles,2,8,30,1,Driving Layup Shot,0,-4,4,True
+CJ Miles,2,6,15,0,Driving Layup Shot,2,-18,10,True
+CJ Miles,2,8,36,1,Driving Layup Shot,1,-12,7,True
+CJ Miles,2,11,28,0,Driving Layup Shot,1,-14,9,True
+CJ Miles,3,2,49,0,Driving Layup Shot,2,-16,20,True
+CJ Miles,2,10,6,1,Driving Layup Shot,2,-14,23,True
+CJ Miles,1,3,4,1,Driving Layup Shot,3,-3,30,True
+CJ Miles,4,10,11,0,Driving Layup Shot,1,18,4,True
+CJ Miles,4,6,34,1,Driving Layup Shot,0,-2,1,True
+CJ Miles,4,11,23,0,Driving Layup Shot,3,-26,21,True
+CJ Miles,1,6,14,0,Driving Layup Shot,5,-16,52,True
+CJ Miles,2,1,7,1,Driving Layup Shot,2,-6,21,True
+CJ Miles,4,5,49,1,Driving Layup Shot,2,-22,8,True
+CJ Miles,1,5,45,0,Driving Layup Shot,5,-36,44,True
+CJ Miles,4,2,50,0,Driving Reverse Layup Shot,1,-6,13,True
+CJ Miles,4,0,15,1,Dunk Shot,0,3,-4,True
+CJ Miles,1,0,27,1,Dunk Shot,0,5,3,True
+CJ Miles,4,11,40,1,Dunk Shot,1,-7,10,True
+CJ Miles,3,1,49,0,Fadeaway Jump Shot,7,75,-11,True
+CJ Miles,4,4,12,0,Fadeaway Jump Shot,27,147,236,False
+CJ Miles,2,10,13,0,Floating Jump shot,4,41,7,True
+CJ Miles,3,1,34,0,Floating Jump shot,10,30,96,True
+CJ Miles,4,6,5,0,Floating Jump shot,21,39,211,True
+CJ Miles,1,2,34,0,Hook Shot,5,-57,5,True
+CJ Miles,3,2,29,0,Hook Shot,3,-15,34,True
+CJ Miles,3,1,54,0,Jump Bank Shot,30,193,230,False
+CJ Miles,1,1,48,0,Jump Bank Shot,26,118,238,False
+CJ Miles,3,2,55,1,Jump Shot,23,234,3,False
+CJ Miles,3,1,7,0,Jump Shot,25,-112,226,False
+CJ Miles,3,0,9,1,Jump Shot,25,87,237,False
+CJ Miles,3,0,53,1,Jump Shot,25,206,147,False
+CJ Miles,4,9,59,1,Jump Shot,26,-219,151,False
+CJ Miles,4,9,13,0,Jump Shot,24,-18,247,False
+CJ Miles,4,8,42,0,Jump Shot,24,141,206,False
+CJ Miles,4,3,7,1,Jump Shot,24,-241,-10,False
+CJ Miles,4,4,37,0,Jump Shot,25,97,231,False
+CJ Miles,4,6,1,1,Jump Shot,26,-30,262,False
+CJ Miles,1,0,1,0,Jump Shot,30,-143,273,False
+CJ Miles,4,7,49,0,Jump Shot,24,-133,208,False
+CJ Miles,2,10,56,0,Jump Shot,25,209,138,False
+CJ Miles,1,0,31,1,Jump Shot,25,-206,153,False
+CJ Miles,1,0,54,1,Jump Shot,23,-230,39,False
+CJ Miles,4,10,22,0,Jump Shot,22,-225,13,False
+CJ Miles,4,5,45,0,Jump Shot,23,230,26,False
+CJ Miles,1,1,7,0,Jump Shot,25,-208,146,False
+CJ Miles,4,9,50,0,Jump Shot,22,225,9,False
+CJ Miles,2,11,47,0,Jump Shot,25,24,251,False
+CJ Miles,2,10,27,1,Jump Shot,25,195,163,False
+CJ Miles,3,1,51,0,Jump Shot,24,201,134,False
+CJ Miles,2,9,10,1,Jump Shot,24,204,136,False
+CJ Miles,3,5,7,0,Jump Shot,25,179,180,False
+CJ Miles,1,0,1,0,Jump Shot,25,-76,244,False
+CJ Miles,4,10,45,0,Jump Shot,25,-146,204,False
+CJ Miles,1,3,16,1,Jump Shot,22,227,0,False
+CJ Miles,3,0,6,0,Jump Shot,23,234,-2,False
+CJ Miles,2,10,39,1,Jump Shot,23,-232,-20,False
+CJ Miles,4,7,49,0,Jump Shot,25,43,248,False
+CJ Miles,1,0,3,1,Jump Shot,26,82,252,False
+CJ Miles,4,7,5,0,Jump Shot,25,-9,255,False
+CJ Miles,1,0,31,0,Jump Shot,23,230,28,False
+CJ Miles,4,8,41,0,Jump Shot,25,88,239,False
+CJ Miles,2,7,40,1,Jump Shot,23,230,23,False
+CJ Miles,1,1,35,0,Jump Shot,24,204,141,False
+CJ Miles,1,4,35,0,Jump Shot,22,-228,4,False
+CJ Miles,1,4,4,0,Jump Shot,22,-224,11,False
+CJ Miles,1,2,45,0,Jump Shot,26,54,261,False
+CJ Miles,1,1,34,0,Jump Shot,23,-231,3,False
+CJ Miles,4,11,3,1,Jump Shot,27,161,218,False
+CJ Miles,2,11,51,1,Jump Shot,25,117,229,False
+CJ Miles,4,7,39,1,Jump Shot,27,-154,227,False
+CJ Miles,3,0,8,0,Jump Shot,26,150,214,False
+CJ Miles,4,8,20,1,Jump Shot,23,-230,18,False
+CJ Miles,1,0,10,1,Jump Shot,25,193,162,False
+CJ Miles,2,8,5,1,Jump Shot,25,182,174,False
+CJ Miles,4,10,53,0,Jump Shot,25,138,210,False
+CJ Miles,2,7,24,0,Jump Shot,24,-163,188,False
+CJ Miles,4,7,2,1,Jump Shot,25,-5,256,False
+CJ Miles,4,8,35,1,Jump Shot,25,-73,245,False
+CJ Miles,3,1,58,0,Jump Shot,13,35,129,True
+CJ Miles,3,0,2,1,Jump Shot,25,2,256,False
+CJ Miles,4,4,16,1,Jump Shot,27,-95,258,False
+CJ Miles,2,8,11,1,Jump Shot,25,208,152,False
+CJ Miles,4,9,57,1,Jump Shot,23,-231,38,False
+CJ Miles,4,5,24,1,Jump Shot,26,-174,201,False
+CJ Miles,2,9,22,0,Jump Shot,23,232,1,False
+CJ Miles,4,11,44,1,Jump Shot,23,-235,2,False
+CJ Miles,4,9,21,0,Jump Shot,20,-78,190,True
+CJ Miles,4,7,1,0,Jump Shot,24,-140,201,False
+CJ Miles,4,10,45,1,Jump Shot,26,198,176,False
+CJ Miles,4,2,54,0,Jump Shot,28,137,247,False
+CJ Miles,3,1,8,0,Jump Shot,24,242,-2,False
+CJ Miles,2,9,41,0,Jump Shot,15,-154,16,True
+CJ Miles,4,9,5,1,Jump Shot,25,25,252,False
+CJ Miles,2,10,20,0,Jump Shot,27,-160,218,False
+CJ Miles,3,0,3,0,Jump Shot,27,96,261,False
+CJ Miles,4,7,20,1,Jump Shot,22,229,6,False
+CJ Miles,4,10,39,1,Jump Shot,26,-92,246,False
+CJ Miles,4,7,44,0,Jump Shot,25,80,247,False
+CJ Miles,1,1,12,1,Jump Shot,26,-49,262,False
+CJ Miles,2,10,14,0,Jump Shot,25,115,232,False
+CJ Miles,2,8,39,0,Jump Shot,23,230,-8,False
+CJ Miles,4,11,27,1,Jump Shot,23,220,94,False
+CJ Miles,2,9,33,0,Jump Shot,25,-112,228,False
+CJ Miles,1,0,34,1,Jump Shot,16,162,29,True
+CJ Miles,4,9,34,1,Jump Shot,22,224,36,False
+CJ Miles,2,10,27,0,Jump Shot,22,-219,31,False
+CJ Miles,2,10,34,0,Jump Shot,26,-24,262,False
+CJ Miles,1,3,53,0,Jump Shot,26,-90,251,False
+CJ Miles,1,1,25,1,Jump Shot,27,-164,215,False
+CJ Miles,4,10,54,0,Jump Shot,26,111,246,False
+CJ Miles,2,8,53,0,Jump Shot,25,74,247,False
+CJ Miles,3,1,36,0,Jump Shot,21,163,140,True
+CJ Miles,3,0,52,0,Jump Shot,24,234,72,False
+CJ Miles,2,11,20,1,Jump Shot,25,119,222,False
+CJ Miles,1,1,56,0,Jump Shot,25,-42,250,False
+CJ Miles,4,11,48,0,Jump Shot,26,92,244,False
+CJ Miles,3,4,39,0,Jump Shot,23,-230,-9,False
+CJ Miles,4,11,14,0,Jump Shot,23,-233,-23,False
+CJ Miles,1,1,1,1,Jump Shot,25,216,137,False
+CJ Miles,2,10,17,1,Jump Shot,25,-195,167,False
+CJ Miles,1,0,32,0,Jump Shot,26,-164,214,False
+CJ Miles,4,1,26,0,Jump Shot,22,-228,-11,False
+CJ Miles,4,11,44,0,Jump Shot,23,-233,-10,False
+CJ Miles,4,9,19,1,Jump Shot,26,-193,184,False
+CJ Miles,2,8,6,0,Jump Shot,26,27,267,False
+CJ Miles,1,0,0,0,Jump Shot,24,220,118,False
+CJ Miles,2,11,30,0,Jump Shot,25,-13,256,False
+CJ Miles,4,4,50,1,Jump Shot,25,-58,252,False
+CJ Miles,2,7,31,0,Jump Shot,24,194,155,False
+CJ Miles,4,10,31,1,Jump Shot,26,81,248,False
+CJ Miles,2,10,14,0,Jump Shot,26,-185,185,False
+CJ Miles,3,0,33,0,Jump Shot,25,45,251,False
+CJ Miles,1,0,53,0,Jump Shot,25,95,232,False
+CJ Miles,1,7,28,0,Jump Shot,25,-120,225,False
+CJ Miles,3,5,26,0,Jump Shot,24,122,218,False
+CJ Miles,1,9,50,1,Jump Shot,22,223,15,False
+CJ Miles,1,1,33,1,Jump Shot,25,130,215,False
+CJ Miles,4,10,37,0,Jump Shot,26,177,201,False
+CJ Miles,2,6,8,0,Jump Shot,28,173,222,False
+CJ Miles,1,2,42,1,Jump Shot,25,18,251,False
+CJ Miles,3,2,28,0,Jump Shot,23,-223,77,False
+CJ Miles,2,9,26,0,Jump Shot,25,173,185,False
+CJ Miles,5,0,58,0,Jump Shot,23,-232,-5,False
+CJ Miles,2,5,26,0,Jump Shot,25,143,212,False
+CJ Miles,2,10,21,0,Jump Shot,25,-193,164,False
+CJ Miles,2,9,51,0,Jump Shot,28,130,253,False
+CJ Miles,2,8,52,0,Jump Shot,25,-205,148,False
+CJ Miles,2,11,36,0,Jump Shot,23,94,213,True
+CJ Miles,4,3,44,0,Jump Shot,30,203,228,False
+CJ Miles,3,2,41,0,Jump Shot,25,-199,152,False
+CJ Miles,2,7,44,0,Jump Shot,24,-30,246,False
+CJ Miles,1,1,4,1,Jump Shot,25,-73,241,False
+CJ Miles,2,11,16,0,Jump Shot,24,221,111,False
+CJ Miles,1,0,5,1,Jump Shot,25,54,252,False
+CJ Miles,1,1,15,1,Jump Shot,23,232,2,False
+CJ Miles,2,4,16,0,Jump Shot,26,58,257,False
+CJ Miles,3,0,26,0,Jump Shot,20,207,9,True
+CJ Miles,2,6,46,0,Jump Shot,27,-225,164,False
+CJ Miles,2,10,38,1,Jump Shot,29,-120,274,False
+CJ Miles,4,9,47,0,Jump Shot,25,136,214,False
+CJ Miles,3,0,51,1,Jump Shot,22,-225,-4,False
+CJ Miles,3,3,8,1,Jump Shot,26,176,198,False
+CJ Miles,4,7,20,0,Jump Shot,25,-59,245,False
+CJ Miles,4,4,3,0,Jump Shot,25,-129,215,False
+CJ Miles,2,9,12,0,Jump Shot,22,227,16,False
+CJ Miles,2,6,15,0,Jump Shot,24,-200,138,False
+CJ Miles,2,11,25,0,Jump Shot,27,-130,239,False
+CJ Miles,2,6,44,1,Jump Shot,25,218,126,False
+CJ Miles,4,9,54,0,Jump Shot,25,116,223,False
+CJ Miles,2,9,8,0,Jump Shot,24,-211,132,False
+CJ Miles,2,7,34,0,Jump Shot,25,221,122,False
+CJ Miles,4,0,45,1,Jump Shot,29,-148,254,False
+CJ Miles,4,8,11,0,Jump Shot,28,-88,273,False
+CJ Miles,2,8,17,1,Jump Shot,25,-76,243,False
+CJ Miles,4,10,3,0,Jump Shot,25,130,222,False
+CJ Miles,2,11,48,0,Jump Shot,26,0,269,False
+CJ Miles,1,0,34,0,Jump Shot,27,132,243,False
+CJ Miles,3,3,43,0,Jump Shot,24,206,137,False
+CJ Miles,4,10,34,0,Jump Shot,24,124,206,False
+CJ Miles,4,1,54,0,Jump Shot,24,198,151,False
+CJ Miles,1,0,54,0,Jump Shot,25,41,247,False
+CJ Miles,4,8,30,1,Jump Shot,23,239,-4,False
+CJ Miles,2,9,34,0,Jump Shot,24,95,228,False
+CJ Miles,4,5,34,0,Jump Shot,22,-223,-18,False
+CJ Miles,3,0,48,0,Jump Shot,25,13,251,False
+CJ Miles,3,3,51,0,Jump Shot,23,152,185,False
+CJ Miles,3,1,19,0,Jump Shot,25,7,252,False
+CJ Miles,4,0,47,0,Jump Shot,24,175,173,False
+CJ Miles,3,0,32,0,Jump Shot,25,-46,246,False
+CJ Miles,3,3,25,0,Jump Shot,23,230,-1,False
+CJ Miles,1,0,12,1,Jump Shot,25,-8,257,False
+CJ Miles,1,1,10,0,Jump Shot,25,-3,257,False
+CJ Miles,1,1,19,0,Jump Shot,25,84,244,False
+CJ Miles,1,3,24,0,Jump Shot,20,-204,10,True
+CJ Miles,4,11,5,0,Jump Shot,26,197,177,False
+CJ Miles,1,0,0,0,Jump Shot,24,227,88,False
+CJ Miles,2,11,13,0,Jump Shot,25,-105,235,False
+CJ Miles,3,1,1,0,Jump Shot,23,230,-18,False
+CJ Miles,3,3,35,0,Jump Shot,23,228,72,False
+CJ Miles,3,3,59,1,Jump Shot,25,-4,251,False
+CJ Miles,3,5,36,1,Jump Shot,26,-85,248,False
+CJ Miles,2,10,21,0,Jump Shot,28,78,275,False
+CJ Miles,2,11,25,1,Jump Shot,26,131,232,False
+CJ Miles,4,5,34,1,Jump Shot,23,-236,-15,False
+CJ Miles,2,10,1,0,Jump Shot,27,71,264,False
+CJ Miles,4,10,44,0,Jump Shot,26,-43,257,False
+CJ Miles,4,11,48,0,Jump Shot,25,119,224,False
+CJ Miles,3,1,3,0,Jump Shot,11,5,119,True
+CJ Miles,3,1,59,0,Jump Shot,15,79,137,True
+CJ Miles,2,10,43,0,Jump Shot,26,51,262,False
+CJ Miles,2,9,27,0,Jump Shot,29,-20,298,False
+CJ Miles,2,9,49,1,Jump Shot,25,124,223,False
+CJ Miles,1,0,5,0,Jump Shot,26,20,262,False
+CJ Miles,4,10,29,0,Jump Shot,25,-20,256,False
+CJ Miles,2,8,16,0,Jump Shot,26,195,173,False
+CJ Miles,2,10,9,0,Jump Shot,25,125,218,False
+CJ Miles,4,11,0,0,Jump Shot,25,-204,148,False
+CJ Miles,3,0,33,0,Jump Shot,25,181,177,False
+CJ Miles,1,2,12,0,Jump Shot,2,16,13,True
+CJ Miles,3,0,23,0,Jump Shot,25,20,252,False
+CJ Miles,4,9,49,0,Jump Shot,25,128,226,False
+CJ Miles,3,2,23,1,Jump Shot,23,239,-1,False
+CJ Miles,2,10,45,0,Jump Shot,22,-227,-8,False
+CJ Miles,4,10,42,1,Jump Shot,23,-236,-21,False
+CJ Miles,2,9,54,0,Jump Shot,25,100,237,False
+CJ Miles,3,6,54,0,Jump Shot,23,234,9,False
+CJ Miles,3,4,29,1,Jump Shot,22,226,9,False
+CJ Miles,1,0,32,1,Jump Shot,22,-224,-3,False
+CJ Miles,3,1,10,0,Jump Shot,26,161,206,False
+CJ Miles,1,0,55,0,Jump Shot,27,101,256,False
+CJ Miles,3,3,25,0,Jump Shot,27,89,257,False
+CJ Miles,4,8,11,1,Jump Shot,24,241,34,False
+CJ Miles,1,1,3,0,Jump Shot,26,3,265,False
+CJ Miles,2,11,43,1,Jump Shot,23,135,193,True
+CJ Miles,4,5,22,1,Jump Shot,22,224,19,False
+CJ Miles,4,7,50,1,Jump Shot,23,-232,-18,False
+CJ Miles,4,6,35,0,Jump Shot,26,-169,204,False
+CJ Miles,4,9,43,1,Jump Shot,27,-132,236,False
+CJ Miles,2,11,47,1,Jump Shot,24,126,215,False
+CJ Miles,1,0,0,0,Jump Shot,24,-130,211,False
+CJ Miles,1,0,29,0,Jump Shot,25,229,117,False
+CJ Miles,1,0,53,0,Jump Shot,25,240,78,False
+CJ Miles,1,1,46,1,Jump Shot,24,-201,147,False
+CJ Miles,1,2,53,1,Jump Shot,26,33,267,False
+CJ Miles,1,3,35,0,Jump Shot,6,-4,69,True
+CJ Miles,3,0,46,1,Jump Shot,25,-107,232,False
+CJ Miles,3,1,37,1,Jump Shot,25,55,248,False
+CJ Miles,2,11,51,0,Jump Shot,25,210,151,False
+CJ Miles,1,2,46,1,Jump Shot,26,-150,222,False
+CJ Miles,1,3,30,1,Jump Shot,24,-158,192,False
+CJ Miles,1,2,6,0,Jump Shot,25,-160,203,False
+CJ Miles,4,11,52,1,Jump Shot,26,-174,199,False
+CJ Miles,4,10,24,0,Jump Shot,27,30,269,False
+CJ Miles,3,1,4,1,Jump Shot,27,-164,217,False
+CJ Miles,3,2,27,1,Jump Shot,24,161,185,False
+CJ Miles,4,6,15,0,Jump Shot,25,-57,244,False
+CJ Miles,3,3,9,1,Jump Shot,25,-179,176,False
+CJ Miles,1,2,9,0,Jump Shot,27,32,274,False
+CJ Miles,2,11,10,0,Jump Shot,25,177,183,False
+CJ Miles,3,0,25,0,Jump Shot,25,-112,232,False
+CJ Miles,1,4,42,1,Jump Shot,26,200,168,False
+CJ Miles,1,1,12,0,Jump Shot,28,-157,242,False
+CJ Miles,2,10,11,0,Jump Shot,5,-52,29,True
+CJ Miles,3,4,24,0,Jump Shot,25,-211,141,False
+CJ Miles,1,2,55,0,Jump Shot,26,-19,268,False
+CJ Miles,2,1,47,0,Jump Shot,24,189,160,False
+CJ Miles,4,10,11,0,Jump Shot,25,40,252,False
+CJ Miles,1,0,34,1,Jump Shot,25,-179,176,False
+CJ Miles,4,11,17,0,Jump Shot,25,71,242,False
+CJ Miles,3,1,38,1,Jump Shot,25,138,210,False
+CJ Miles,2,9,4,0,Jump Shot,25,155,200,False
+CJ Miles,2,11,39,0,Jump Shot,24,-226,95,False
+CJ Miles,3,1,59,1,Jump Shot,23,231,26,False
+CJ Miles,4,7,45,1,Jump Shot,26,116,235,False
+CJ Miles,1,2,44,0,Jump Shot,25,-142,216,False
+CJ Miles,3,0,3,0,Jump Shot,31,47,315,False
+CJ Miles,4,9,27,0,Jump Shot,25,73,243,False
+CJ Miles,2,11,30,0,Jump Shot,24,131,211,False
+CJ Miles,2,4,51,0,Jump Shot,22,-225,-7,False
+CJ Miles,2,6,29,0,Jump Shot,31,111,290,False
+CJ Miles,1,1,48,0,Jump Shot,30,-4,303,False
+CJ Miles,2,11,12,1,Jump Shot,27,7,276,False
+CJ Miles,4,8,43,0,Jump Shot,24,38,246,False
+CJ Miles,2,1,17,0,Jump Shot,25,139,218,False
+CJ Miles,2,9,5,0,Jump Shot,24,209,124,False
+CJ Miles,4,9,19,1,Jump Shot,22,223,-3,False
+CJ Miles,1,3,11,0,Jump Shot,25,220,130,False
+CJ Miles,4,0,4,1,Jump Shot,25,113,230,False
+CJ Miles,3,0,0,0,Jump Shot,24,74,236,False
+CJ Miles,4,11,44,0,Jump Shot,24,188,162,False
+CJ Miles,4,10,13,0,Jump Shot,25,134,220,False
+CJ Miles,4,8,53,1,Jump Shot,28,115,264,False
+CJ Miles,2,7,56,0,Jump Shot,26,87,248,False
+CJ Miles,1,0,32,0,Jump Shot,28,-185,217,False
+CJ Miles,1,0,32,1,Jump Shot,24,-148,200,False
+CJ Miles,2,9,50,1,Jump Shot,22,-226,1,False
+CJ Miles,2,7,11,1,Jump Shot,26,184,197,False
+CJ Miles,3,0,39,0,Jump Shot,25,-156,203,False
+CJ Miles,4,7,22,0,Jump Shot,26,72,251,False
+CJ Miles,4,6,21,1,Jump Shot,25,158,205,False
+CJ Miles,4,5,30,1,Jump Shot,23,-236,9,False
+CJ Miles,2,11,21,1,Jump Shot,25,73,246,False
+CJ Miles,2,7,38,0,Jump Shot,25,124,220,False
+CJ Miles,4,11,1,0,Jump Shot,26,-93,246,False
+CJ Miles,1,1,30,1,Jump Shot,26,147,223,False
+CJ Miles,3,3,11,0,Jump Shot,23,-232,11,False
+CJ Miles,3,11,25,1,Jump Shot,25,29,250,False
+CJ Miles,1,11,40,0,Jump Shot,22,227,13,False
+CJ Miles,1,8,30,1,Jump Shot,23,233,5,False
+CJ Miles,3,9,11,1,Jump Shot,22,-225,-6,False
+CJ Miles,3,1,14,1,Jump Shot,25,-63,245,False
+CJ Miles,2,10,35,1,Jump Shot,26,196,172,False
+CJ Miles,3,5,36,0,Jump Shot,27,-100,252,False
+CJ Miles,4,10,51,0,Jump Shot,23,-234,-5,False
+CJ Miles,3,0,37,1,Jump Shot,27,142,237,False
+CJ Miles,2,10,20,0,Jump Shot,23,183,155,False
+CJ Miles,4,9,58,0,Jump Shot,22,226,-4,False
+CJ Miles,2,11,48,0,Jump Shot,25,74,241,False
+CJ Miles,1,4,24,0,Jump Shot,24,-149,198,False
+CJ Miles,2,8,13,0,Jump Shot,25,199,164,False
+CJ Miles,3,0,4,1,Jump Shot,24,96,226,False
+CJ Miles,2,10,46,0,Jump Shot,26,101,242,False
+CJ Miles,4,7,17,0,Jump Shot,30,-166,253,False
+CJ Miles,4,5,59,0,Jump Shot,27,92,258,False
+CJ Miles,1,2,10,0,Jump Shot,23,231,16,False
+CJ Miles,1,0,30,1,Jump Shot,30,20,303,False
+CJ Miles,2,11,36,1,Jump Shot,28,115,261,False
+CJ Miles,4,9,46,0,Jump Shot,24,109,221,False
+CJ Miles,1,2,38,0,Jump Shot,26,-154,214,False
+CJ Miles,1,1,46,0,Jump Shot,25,-81,244,False
+CJ Miles,3,0,19,1,Jump Shot,27,100,255,False
+CJ Miles,4,10,55,0,Jump Shot,25,-116,227,False
+CJ Miles,1,3,33,1,Jump Shot,24,145,201,False
+CJ Miles,3,0,0,0,Jump Shot,43,-71,428,False
+CJ Miles,2,10,11,0,Jump Shot,22,226,-1,False
+CJ Miles,4,9,35,0,Jump Shot,25,137,213,False
+CJ Miles,1,1,12,1,Jump Shot,25,107,226,False
+CJ Miles,3,4,51,1,Jump Shot,22,-226,-16,False
+CJ Miles,3,10,12,1,Jump Shot,26,91,254,False
+CJ Miles,2,5,10,0,Jump Shot,24,-199,145,False
+CJ Miles,1,7,2,0,Jump Shot,25,49,246,False
+CJ Miles,2,1,13,1,Jump Shot,25,-149,210,False
+CJ Miles,1,9,19,1,Jump Shot,23,-231,-8,False
+CJ Miles,3,0,54,0,Jump Shot,23,232,5,False
+CJ Miles,4,4,59,0,Jump Shot,23,234,-16,False
+CJ Miles,3,5,55,1,Jump Shot,24,232,77,False
+CJ Miles,1,3,22,0,Jump Shot,26,-193,178,False
+CJ Miles,3,2,59,1,Jump Shot,22,-227,-8,False
+CJ Miles,1,0,0,1,Jump Shot,31,-161,274,False
+CJ Miles,1,2,4,1,Jump Shot,22,228,23,False
+CJ Miles,2,11,12,1,Jump Shot,22,223,28,False
+CJ Miles,1,2,31,1,Jump Shot,24,3,246,False
+CJ Miles,3,0,57,0,Jump Shot,24,230,78,False
+CJ Miles,1,1,32,0,Jump Shot,26,143,226,False
+CJ Miles,3,4,38,1,Jump Shot,22,229,-15,False
+CJ Miles,1,11,23,1,Jump Shot,28,-163,235,False
+CJ Miles,3,7,43,0,Jump Shot,27,-176,205,False
+CJ Miles,3,11,15,0,Jump Shot,23,229,46,False
+CJ Miles,3,11,48,0,Jump Shot,25,-200,159,False
+CJ Miles,3,5,12,0,Jump Shot,22,-226,-21,False
+CJ Miles,1,9,31,0,Jump Shot,25,-191,167,False
+CJ Miles,1,0,31,1,Jump Shot,25,5,257,False
+CJ Miles,4,10,29,0,Jump Shot,26,-121,231,False
+CJ Miles,1,1,28,1,Jump Shot,25,-123,221,False
+CJ Miles,4,0,9,1,Jump Shot,25,239,80,False
+CJ Miles,2,9,14,1,Jump Shot,25,146,206,False
+CJ Miles,4,11,13,0,Jump Shot,26,130,234,False
+CJ Miles,2,9,44,0,Jump Shot,22,94,207,True
+CJ Miles,1,0,24,0,Jump Shot,25,-87,235,False
+CJ Miles,3,0,10,0,Jump Shot,26,144,222,False
+CJ Miles,1,3,51,0,Jump Shot,25,107,228,False
+CJ Miles,2,7,50,1,Jump Shot,26,192,176,False
+CJ Miles,1,0,0,0,Jump Shot,42,81,417,False
+CJ Miles,1,1,54,0,Jump Shot,25,192,165,False
+CJ Miles,2,5,48,0,Jump Shot,24,203,143,False
+CJ Miles,4,6,36,0,Jump Shot,25,84,241,False
+CJ Miles,4,6,30,1,Jump Shot,13,85,109,True
+CJ Miles,1,2,10,0,Jump Shot,25,177,189,False
+CJ Miles,1,0,59,0,Jump Shot,26,96,244,False
+CJ Miles,4,10,33,0,Jump Shot,26,-116,234,False
+CJ Miles,3,0,57,1,Jump Shot,25,116,227,False
+CJ Miles,4,11,15,0,Jump Shot,25,161,197,False
+CJ Miles,1,3,33,0,Jump Shot,25,157,197,False
+CJ Miles,2,10,0,0,Jump Shot,25,62,250,False
+CJ Miles,1,1,12,1,Jump Shot,24,-166,184,False
+CJ Miles,2,7,44,1,Jump Shot,24,168,184,False
+CJ Miles,4,8,52,0,Jump Shot,26,-131,234,False
+CJ Miles,2,11,51,1,Jump Shot,26,51,257,False
+CJ Miles,2,10,33,0,Jump Shot,27,-95,254,False
+CJ Miles,3,4,8,0,Jump Shot,25,217,127,False
+CJ Miles,2,11,38,0,Jump Shot,25,111,225,False
+CJ Miles,4,7,14,0,Jump Shot,20,185,86,True
+CJ Miles,3,3,32,0,Jump Shot,25,143,206,False
+CJ Miles,2,6,27,0,Jump Shot,25,134,214,False
+CJ Miles,2,8,54,1,Jump Shot,27,-127,247,False
+CJ Miles,4,8,27,0,Layup Shot,6,9,63,True
+CJ Miles,3,6,50,0,Layup Shot,5,-19,50,True
+CJ Miles,4,3,36,1,Layup Shot,1,-9,12,True
+CJ Miles,2,11,30,1,Pullup Jump shot,14,73,121,True
+CJ Miles,1,0,4,0,Pullup Jump shot,25,-145,208,False
+CJ Miles,2,11,17,0,Pullup Jump shot,16,9,160,True
+CJ Miles,4,0,11,0,Pullup Jump shot,27,111,255,False
+CJ Miles,2,8,48,0,Pullup Jump shot,16,29,164,True
+CJ Miles,2,8,28,0,Pullup Jump shot,25,133,223,False
+CJ Miles,4,11,47,0,Pullup Jump shot,13,136,26,True
+CJ Miles,3,2,59,0,Pullup Jump shot,29,85,287,False
+CJ Miles,2,7,7,1,Pullup Jump shot,17,128,117,True
+CJ Miles,2,6,37,0,Pullup Jump shot,22,-5,227,True
+CJ Miles,4,6,56,1,Pullup Jump shot,23,-234,41,False
+CJ Miles,1,0,38,1,Pullup Jump shot,19,-11,196,True
+CJ Miles,1,2,10,1,Pullup Jump shot,25,-147,211,False
+CJ Miles,1,2,31,1,Pullup Jump shot,20,75,191,True
+CJ Miles,2,11,28,0,Pullup Jump shot,24,-120,218,False
+CJ Miles,3,3,51,0,Pullup Jump shot,24,126,206,False
+CJ Miles,3,0,50,0,Pullup Jump shot,24,-168,185,False
+CJ Miles,4,8,15,0,Pullup Jump shot,29,103,272,False
+CJ Miles,2,9,43,1,Pullup Jump shot,29,88,277,False
+CJ Miles,1,1,47,1,Pullup Jump shot,25,101,234,False
+CJ Miles,2,9,16,1,Pullup Jump shot,18,165,82,True
+CJ Miles,2,8,58,1,Pullup Jump shot,18,62,170,True
+CJ Miles,4,10,14,0,Pullup Jump shot,26,119,240,False
+CJ Miles,4,8,34,0,Pullup Jump shot,26,0,260,False
+CJ Miles,2,10,41,0,Pullup Jump shot,25,-62,249,False
+CJ Miles,4,7,17,0,Pullup Jump shot,25,-172,189,False
+CJ Miles,4,7,16,0,Pullup Jump shot,12,-55,116,True
+CJ Miles,2,10,10,0,Pullup Jump shot,24,-162,190,False
+CJ Miles,1,5,18,0,Pullup Jump shot,16,-108,121,True
+CJ Miles,3,0,2,1,Pullup Jump shot,24,-215,125,False
+CJ Miles,4,9,36,0,Pullup Jump shot,25,-150,211,False
+CJ Miles,2,9,45,1,Pullup Jump shot,25,-145,207,False
+CJ Miles,4,5,31,0,Pullup Jump shot,25,19,258,False
+CJ Miles,1,0,7,0,Pullup Jump shot,16,57,158,True
+CJ Miles,1,4,8,1,Pullup Jump shot,27,-11,276,False
+CJ Miles,1,1,32,0,Pullup Jump shot,20,112,174,True
+CJ Miles,1,2,40,0,Pullup Jump shot,25,146,204,False
+CJ Miles,2,7,54,0,Pullup Jump shot,26,156,210,False
+CJ Miles,1,3,14,0,Pullup Jump shot,24,-219,120,False
+CJ Miles,2,8,46,1,Pullup Jump shot,26,123,236,False
+CJ Miles,2,0,34,1,Pullup Jump shot,24,217,110,False
+CJ Miles,4,11,36,0,Pullup Jump shot,24,138,200,False
+CJ Miles,2,11,11,0,Pullup Jump shot,25,-9,252,False
+CJ Miles,4,6,56,1,Putback Dunk Shot,0,-4,4,True
+CJ Miles,1,5,24,1,Putback Layup Shot,2,-24,16,True
+CJ Miles,4,9,11,1,Reverse Layup Shot,1,-16,4,True
+CJ Miles,1,4,29,0,Reverse Layup Shot,1,-8,16,True
+CJ Miles,2,5,19,0,Running Dunk Shot,1,4,12,True
+CJ Miles,3,0,36,1,Running Dunk Shot,1,-9,11,True
+CJ Miles,4,10,40,1,Running Dunk Shot,1,-2,17,True
+CJ Miles,2,6,20,1,Running Finger Roll Layup Shot,0,-1,7,True
+CJ Miles,3,1,33,0,Running Jump Shot,25,36,251,False
+CJ Miles,3,0,29,0,Running Jump Shot,22,228,22,False
+CJ Miles,4,11,19,0,Running Jump Shot,24,190,158,False
+CJ Miles,4,11,21,1,Running Jump Shot,25,119,220,False
+CJ Miles,4,10,39,0,Running Jump Shot,27,170,214,False
+CJ Miles,2,7,29,0,Running Jump Shot,23,-228,71,False
+CJ Miles,2,8,34,0,Running Jump Shot,6,27,62,True
+CJ Miles,2,7,55,0,Running Jump Shot,25,158,198,False
+CJ Miles,3,1,46,1,Running Jump Shot,23,-232,24,False
+CJ Miles,4,6,33,1,Running Jump Shot,25,-131,218,False
+CJ Miles,2,6,10,0,Running Jump Shot,25,200,157,False
+CJ Miles,3,3,10,0,Running Layup Shot,7,-22,70,True
+CJ Miles,4,6,43,1,Running Layup Shot,1,6,8,True
+CJ Miles,3,0,7,1,Running Layup Shot,1,11,11,True
+CJ Miles,1,10,52,0,Running Pull-Up Jump Shot,25,25,257,False
+CJ Miles,2,8,15,0,Running Pull-Up Jump Shot,27,-137,235,False
+CJ Miles,3,4,13,1,Step Back Jump shot,22,-225,46,False
+CJ Miles,2,10,54,1,Step Back Jump shot,16,114,125,True
+CJ Miles,3,3,39,0,Step Back Jump shot,22,-225,0,False
+CJ Miles,3,4,6,0,Step Back Jump shot,21,11,213,True
+CJ Miles,1,2,41,0,Step Back Jump shot,22,-192,119,True
+CJ Miles,3,1,32,1,Step Back Jump shot,26,41,262,False
+CJ Miles,2,11,43,0,Step Back Jump shot,22,-9,226,True
+CJ Miles,2,10,39,0,Step Back Jump shot,25,96,237,False
+CJ Miles,2,11,42,0,Step Back Jump shot,19,193,20,True
+CJ Miles,4,5,34,0,Step Back Jump shot,25,-184,171,False
+CJ Miles,1,2,35,1,Step Back Jump shot,26,-195,179,False
+CJ Miles,4,0,2,0,Tip Layup Shot,0,0,-6,True
+CJ Miles,1,2,58,0,Turnaround Fadeaway Bank Jump Shot,7,67,34,True
+CJ Miles,2,6,52,1,Turnaround Fadeaway Bank Jump Shot,11,114,36,True
+CJ Miles,4,10,13,1,Turnaround Fadeaway shot,12,-18,122,True
+CJ Miles,2,9,5,0,Turnaround Jump Shot,22,-226,15,False
+CJ Miles,1,5,32,0,Turnaround Jump Shot,15,-82,134,True

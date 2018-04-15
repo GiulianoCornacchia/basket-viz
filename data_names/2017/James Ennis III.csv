@@ -1,0 +1,346 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+James Ennis III,4,0,19,1,Alley Oop Dunk Shot,1,-6,15,True
+James Ennis III,4,5,33,1,Alley Oop Layup shot,0,-7,7,True
+James Ennis III,3,0,29,0,Alley Oop Layup shot,1,-13,14,True
+James Ennis III,3,0,24,1,Cutting Dunk Shot,1,-2,13,True
+James Ennis III,3,3,30,1,Cutting Dunk Shot,0,-8,5,True
+James Ennis III,2,0,37,1,Cutting Dunk Shot,0,6,3,True
+James Ennis III,4,11,50,1,Cutting Finger Roll Layup Shot,1,-6,10,True
+James Ennis III,4,0,34,0,Cutting Layup Shot,3,26,16,True
+James Ennis III,3,9,6,1,Cutting Layup Shot,2,12,20,True
+James Ennis III,3,9,38,1,Cutting Layup Shot,1,1,19,True
+James Ennis III,1,10,42,1,Cutting Layup Shot,0,-2,4,True
+James Ennis III,3,5,28,1,Cutting Layup Shot,1,13,13,True
+James Ennis III,2,9,26,1,Cutting Layup Shot,1,4,15,True
+James Ennis III,3,10,16,1,Cutting Layup Shot,1,8,12,True
+James Ennis III,2,3,42,1,Cutting Layup Shot,1,3,19,True
+James Ennis III,3,7,7,0,Cutting Layup Shot,2,13,16,True
+James Ennis III,2,9,54,1,Cutting Layup Shot,0,0,3,True
+James Ennis III,1,6,7,0,Cutting Layup Shot,1,13,8,True
+James Ennis III,2,0,43,0,Cutting Layup Shot,0,-2,5,True
+James Ennis III,2,8,45,1,Cutting Layup Shot,1,-9,8,True
+James Ennis III,1,1,24,1,Cutting Layup Shot,1,1,10,True
+James Ennis III,3,0,30,0,Cutting Layup Shot,2,20,21,True
+James Ennis III,3,7,11,1,Cutting Layup Shot,4,-1,47,True
+James Ennis III,2,3,10,1,Cutting Layup Shot,1,13,-4,True
+James Ennis III,4,8,8,0,Driving Dunk Shot,4,-47,15,True
+James Ennis III,3,11,30,1,Driving Dunk Shot,0,0,9,True
+James Ennis III,2,3,11,1,Driving Dunk Shot,0,5,3,True
+James Ennis III,4,11,25,1,Driving Dunk Shot,2,3,23,True
+James Ennis III,3,9,34,1,Driving Dunk Shot,1,-3,13,True
+James Ennis III,1,11,50,0,Driving Finger Roll Layup Shot,3,-30,15,True
+James Ennis III,4,11,19,0,Driving Floating Bank Jump Shot,8,57,57,True
+James Ennis III,1,4,27,0,Driving Floating Bank Jump Shot,4,-9,44,True
+James Ennis III,1,0,45,0,Driving Floating Jump Shot,3,21,33,True
+James Ennis III,1,2,54,0,Driving Floating Jump Shot,8,-82,16,True
+James Ennis III,4,5,27,1,Driving Hook Shot,8,61,60,True
+James Ennis III,2,9,33,0,Driving Layup Shot,3,25,23,True
+James Ennis III,1,4,5,1,Driving Layup Shot,1,-2,12,True
+James Ennis III,4,9,54,1,Driving Layup Shot,0,-6,-4,True
+James Ennis III,4,8,8,0,Driving Layup Shot,9,72,59,True
+James Ennis III,2,6,54,0,Driving Layup Shot,4,11,39,True
+James Ennis III,1,5,24,0,Driving Layup Shot,9,-46,78,True
+James Ennis III,4,11,37,0,Driving Layup Shot,3,3,33,True
+James Ennis III,1,4,50,1,Driving Layup Shot,0,1,0,True
+James Ennis III,4,10,43,0,Driving Layup Shot,3,-13,28,True
+James Ennis III,2,9,30,0,Driving Layup Shot,4,22,41,True
+James Ennis III,1,2,17,1,Driving Layup Shot,1,-5,10,True
+James Ennis III,1,1,10,1,Driving Layup Shot,1,-11,6,True
+James Ennis III,4,10,55,0,Driving Layup Shot,1,-10,11,True
+James Ennis III,2,8,33,0,Driving Layup Shot,3,-32,13,True
+James Ennis III,2,0,47,1,Driving Layup Shot,0,3,3,True
+James Ennis III,2,3,50,1,Driving Layup Shot,2,9,19,True
+James Ennis III,2,4,23,1,Driving Layup Shot,0,-3,-5,True
+James Ennis III,3,6,54,0,Driving Layup Shot,2,20,10,True
+James Ennis III,1,7,6,0,Driving Layup Shot,1,-3,11,True
+James Ennis III,2,9,18,0,Driving Layup Shot,0,0,6,True
+James Ennis III,1,4,18,0,Driving Layup Shot,2,-19,8,True
+James Ennis III,1,0,19,1,Driving Layup Shot,1,-3,13,True
+James Ennis III,1,0,59,1,Driving Layup Shot,1,14,-3,True
+James Ennis III,3,8,10,0,Driving Layup Shot,3,-26,15,True
+James Ennis III,3,9,2,1,Driving Reverse Layup Shot,1,14,0,True
+James Ennis III,4,2,50,0,Driving Reverse Layup Shot,3,-37,13,True
+James Ennis III,3,2,43,0,Driving Reverse Layup Shot,3,24,20,True
+James Ennis III,2,7,20,1,Driving Reverse Layup Shot,1,7,13,True
+James Ennis III,4,1,54,1,Dunk Shot,0,-3,2,True
+James Ennis III,2,5,1,1,Dunk Shot,1,3,10,True
+James Ennis III,2,5,1,1,Dunk Shot,0,-2,4,True
+James Ennis III,3,0,16,1,Dunk Shot,1,-1,13,True
+James Ennis III,3,3,12,1,Dunk Shot,0,-7,-5,True
+James Ennis III,3,0,52,1,Dunk Shot,0,-2,5,True
+James Ennis III,4,5,28,0,Dunk Shot,0,5,2,True
+James Ennis III,4,8,47,0,Fadeaway Jump Shot,9,-58,76,True
+James Ennis III,2,6,56,0,Fadeaway Jump Shot,10,-2,104,True
+James Ennis III,4,9,22,0,Fadeaway Jump Shot,7,-15,75,True
+James Ennis III,2,6,11,0,Fadeaway Jump Shot,13,-74,118,True
+James Ennis III,2,1,58,0,Fadeaway Jump Shot,24,234,66,False
+James Ennis III,2,8,50,0,Fadeaway Jump Shot,15,99,121,True
+James Ennis III,3,0,27,1,Fadeaway Jump Shot,9,96,13,True
+James Ennis III,2,5,20,0,Fadeaway Jump Shot,11,53,106,True
+James Ennis III,4,10,57,0,Fadeaway Jump Shot,7,44,63,True
+James Ennis III,4,11,10,0,Floating Jump shot,8,-72,42,True
+James Ennis III,4,8,3,1,Floating Jump shot,12,62,111,True
+James Ennis III,4,5,37,0,Jump Shot,23,234,21,False
+James Ennis III,2,5,39,0,Jump Shot,24,-188,160,False
+James Ennis III,1,1,27,0,Jump Shot,23,-230,52,False
+James Ennis III,1,2,17,1,Jump Shot,20,-111,178,True
+James Ennis III,4,11,24,0,Jump Shot,26,5,268,False
+James Ennis III,4,6,57,0,Jump Shot,25,-21,256,False
+James Ennis III,4,7,44,1,Jump Shot,23,-232,15,False
+James Ennis III,4,8,42,1,Jump Shot,23,-236,34,False
+James Ennis III,2,8,40,0,Jump Shot,26,147,216,False
+James Ennis III,4,7,0,0,Jump Shot,25,110,232,False
+James Ennis III,2,5,5,1,Jump Shot,26,176,195,False
+James Ennis III,2,9,50,0,Jump Shot,25,207,149,False
+James Ennis III,2,11,2,0,Jump Shot,24,-241,34,False
+James Ennis III,2,11,3,1,Jump Shot,24,174,173,False
+James Ennis III,1,2,45,0,Jump Shot,18,-98,158,True
+James Ennis III,2,9,56,0,Jump Shot,25,198,156,False
+James Ennis III,4,10,24,0,Jump Shot,28,226,177,False
+James Ennis III,3,2,32,0,Jump Shot,23,232,3,False
+James Ennis III,4,8,29,0,Jump Shot,24,-185,162,False
+James Ennis III,4,10,51,1,Jump Shot,22,-223,45,False
+James Ennis III,4,4,9,0,Jump Shot,25,215,134,False
+James Ennis III,4,11,18,0,Jump Shot,25,-119,222,False
+James Ennis III,1,3,28,0,Jump Shot,25,-236,96,False
+James Ennis III,1,0,58,0,Jump Shot,25,221,120,False
+James Ennis III,4,2,59,0,Jump Shot,18,-182,-9,True
+James Ennis III,4,4,56,1,Jump Shot,25,173,193,False
+James Ennis III,4,7,40,0,Jump Shot,28,-18,280,False
+James Ennis III,4,6,9,1,Jump Shot,26,65,262,False
+James Ennis III,2,8,26,0,Jump Shot,22,-227,-8,False
+James Ennis III,4,8,13,0,Jump Shot,27,137,237,False
+James Ennis III,4,5,20,0,Jump Shot,24,42,244,False
+James Ennis III,3,10,50,0,Jump Shot,23,228,32,False
+James Ennis III,3,7,45,0,Jump Shot,26,-226,131,False
+James Ennis III,1,11,23,0,Jump Shot,23,-226,64,False
+James Ennis III,1,10,23,1,Jump Shot,26,175,194,False
+James Ennis III,3,10,29,0,Jump Shot,23,229,48,False
+James Ennis III,2,0,38,1,Jump Shot,22,227,36,False
+James Ennis III,3,6,22,0,Jump Shot,27,169,218,False
+James Ennis III,2,5,5,0,Jump Shot,26,-150,223,False
+James Ennis III,3,8,28,1,Jump Shot,20,24,199,True
+James Ennis III,3,5,1,1,Jump Shot,25,215,134,False
+James Ennis III,3,10,54,1,Jump Shot,25,-167,192,False
+James Ennis III,1,8,15,1,Jump Shot,23,-229,59,False
+James Ennis III,1,7,41,1,Jump Shot,24,231,79,False
+James Ennis III,2,3,38,0,Jump Shot,25,-203,159,False
+James Ennis III,1,10,52,0,Jump Shot,26,-197,175,False
+James Ennis III,4,3,20,0,Jump Shot,28,-134,257,False
+James Ennis III,3,3,11,0,Jump Shot,22,228,15,False
+James Ennis III,4,9,41,1,Jump Shot,25,-164,199,False
+James Ennis III,2,7,7,0,Jump Shot,21,-217,-11,True
+James Ennis III,3,1,11,1,Jump Shot,22,-223,20,False
+James Ennis III,3,2,7,1,Jump Shot,25,165,196,False
+James Ennis III,2,8,56,0,Jump Shot,2,-14,19,True
+James Ennis III,3,1,4,0,Jump Shot,23,233,32,False
+James Ennis III,3,1,23,0,Jump Shot,25,222,126,False
+James Ennis III,1,0,4,0,Jump Shot,23,-233,38,False
+James Ennis III,4,10,50,1,Jump Shot,26,-214,148,False
+James Ennis III,3,1,15,0,Jump Shot,26,-197,174,False
+James Ennis III,4,5,8,0,Jump Shot,24,-241,43,False
+James Ennis III,2,4,51,0,Jump Shot,23,230,7,False
+James Ennis III,2,6,48,0,Jump Shot,24,-116,221,False
+James Ennis III,3,1,12,1,Jump Shot,25,104,229,False
+James Ennis III,3,0,0,0,Jump Shot,21,114,178,True
+James Ennis III,2,9,20,1,Jump Shot,15,154,6,True
+James Ennis III,4,2,25,1,Jump Shot,26,195,182,False
+James Ennis III,1,1,49,0,Jump Shot,26,-103,243,False
+James Ennis III,4,8,29,0,Jump Shot,26,82,250,False
+James Ennis III,4,2,53,0,Jump Shot,25,148,203,False
+James Ennis III,1,4,22,0,Jump Shot,25,134,212,False
+James Ennis III,4,9,26,1,Jump Shot,27,-190,195,False
+James Ennis III,2,0,31,0,Jump Shot,25,-95,239,False
+James Ennis III,1,1,7,1,Jump Shot,22,66,218,True
+James Ennis III,4,2,52,1,Jump Shot,17,-170,-10,True
+James Ennis III,2,1,15,1,Jump Shot,22,223,4,False
+James Ennis III,4,0,21,0,Jump Shot,26,154,212,False
+James Ennis III,2,0,25,0,Jump Shot,22,228,29,False
+James Ennis III,2,2,35,0,Jump Shot,26,-32,260,False
+James Ennis III,3,1,53,0,Jump Shot,24,-243,-5,False
+James Ennis III,3,6,27,0,Jump Shot,25,190,168,False
+James Ennis III,3,5,55,1,Jump Shot,26,168,199,False
+James Ennis III,1,2,36,0,Jump Shot,25,-179,175,False
+James Ennis III,4,2,2,0,Jump Shot,21,-9,210,True
+James Ennis III,3,2,1,1,Jump Shot,26,90,248,False
+James Ennis III,3,1,42,1,Jump Shot,27,117,253,False
+James Ennis III,3,6,44,1,Jump Shot,25,-155,200,False
+James Ennis III,4,0,27,0,Jump Shot,7,70,18,True
+James Ennis III,2,4,8,0,Jump Shot,22,-228,-8,False
+James Ennis III,2,11,46,0,Jump Shot,25,-179,177,False
+James Ennis III,1,3,8,1,Jump Shot,23,232,0,False
+James Ennis III,3,1,2,1,Jump Shot,22,-224,18,False
+James Ennis III,2,11,4,0,Jump Shot,26,119,232,False
+James Ennis III,2,11,25,0,Jump Shot,14,145,26,True
+James Ennis III,2,4,28,0,Jump Shot,22,-223,-8,False
+James Ennis III,1,2,0,0,Jump Shot,26,-142,220,False
+James Ennis III,4,9,57,0,Jump Shot,24,-183,165,False
+James Ennis III,3,3,7,1,Jump Shot,20,-13,209,True
+James Ennis III,2,11,2,0,Jump Shot,25,-165,195,False
+James Ennis III,4,9,56,1,Jump Shot,26,-122,237,False
+James Ennis III,3,0,47,0,Jump Shot,22,226,-13,False
+James Ennis III,2,1,54,0,Jump Shot,23,231,27,False
+James Ennis III,4,10,12,1,Jump Shot,22,-229,-6,False
+James Ennis III,2,0,9,0,Jump Shot,23,231,26,False
+James Ennis III,3,3,10,0,Jump Shot,25,-96,238,False
+James Ennis III,1,0,39,0,Jump Shot,25,-203,159,False
+James Ennis III,2,1,23,1,Jump Shot,25,-102,236,False
+James Ennis III,4,9,10,0,Jump Shot,19,-89,173,True
+James Ennis III,2,11,37,1,Jump Shot,25,-149,213,False
+James Ennis III,2,11,15,1,Jump Shot,25,161,195,False
+James Ennis III,2,9,56,0,Jump Shot,24,-177,164,False
+James Ennis III,3,3,23,0,Jump Shot,24,180,164,False
+James Ennis III,3,2,40,0,Jump Shot,22,227,17,False
+James Ennis III,2,1,17,0,Jump Shot,24,207,126,False
+James Ennis III,4,7,38,1,Jump Shot,22,-228,-1,False
+James Ennis III,4,4,33,0,Jump Shot,25,-189,177,False
+James Ennis III,4,0,49,0,Jump Shot,26,145,220,False
+James Ennis III,3,1,34,0,Jump Shot,26,-121,238,False
+James Ennis III,1,2,58,0,Jump Shot,24,-226,92,False
+James Ennis III,4,6,50,0,Jump Shot,25,81,247,False
+James Ennis III,4,1,30,0,Jump Shot,26,-153,214,False
+James Ennis III,2,2,33,0,Jump Shot,24,234,72,False
+James Ennis III,2,7,2,1,Jump Shot,24,-117,218,False
+James Ennis III,4,5,7,0,Jump Shot,24,-240,-11,False
+James Ennis III,1,11,40,0,Jump Shot,26,-230,122,False
+James Ennis III,3,2,17,1,Jump Shot,26,-141,227,False
+James Ennis III,4,3,20,0,Jump Shot,25,117,229,False
+James Ennis III,1,4,56,0,Jump Shot,26,160,205,False
+James Ennis III,1,8,24,0,Jump Shot,26,151,215,False
+James Ennis III,1,4,24,1,Jump Shot,27,-191,202,False
+James Ennis III,2,6,7,1,Jump Shot,23,-231,15,False
+James Ennis III,4,4,57,1,Jump Shot,23,-230,-5,False
+James Ennis III,3,9,39,0,Jump Shot,22,-227,-6,False
+James Ennis III,1,2,22,0,Jump Shot,22,-228,-5,False
+James Ennis III,1,10,11,0,Jump Shot,11,29,113,True
+James Ennis III,2,9,31,1,Jump Shot,23,-232,-6,False
+James Ennis III,2,7,41,0,Jump Shot,27,157,225,False
+James Ennis III,1,8,5,0,Jump Shot,22,-222,37,False
+James Ennis III,2,6,38,0,Jump Shot,23,230,35,False
+James Ennis III,1,5,16,0,Jump Shot,22,-221,-26,False
+James Ennis III,1,9,28,0,Jump Shot,23,-233,13,False
+James Ennis III,3,10,56,0,Jump Shot,24,2,248,False
+James Ennis III,1,8,16,0,Jump Shot,18,-89,159,True
+James Ennis III,4,6,10,0,Jump Shot,25,-158,200,False
+James Ennis III,3,6,59,0,Jump Shot,5,-25,49,True
+James Ennis III,4,10,50,1,Jump Shot,12,24,122,True
+James Ennis III,3,4,27,1,Jump Shot,12,-51,119,True
+James Ennis III,1,11,41,1,Jump Shot,23,231,14,False
+James Ennis III,1,2,47,1,Jump Shot,23,232,20,False
+James Ennis III,1,3,19,1,Jump Shot,26,132,229,False
+James Ennis III,3,0,5,0,Jump Shot,25,-177,179,False
+James Ennis III,3,2,56,0,Jump Shot,25,-156,200,False
+James Ennis III,1,6,35,0,Layup Shot,3,-30,18,True
+James Ennis III,2,5,24,0,Layup Shot,3,-13,28,True
+James Ennis III,3,3,56,0,Layup Shot,2,24,8,True
+James Ennis III,4,2,35,1,Layup Shot,3,-22,22,True
+James Ennis III,4,8,17,1,Layup Shot,4,-31,36,True
+James Ennis III,1,1,23,1,Layup Shot,1,9,8,True
+James Ennis III,2,0,3,1,Layup Shot,1,-2,13,True
+James Ennis III,1,0,59,0,Layup Shot,2,-11,17,True
+James Ennis III,4,9,27,1,Layup Shot,1,-12,4,True
+James Ennis III,2,10,23,1,Layup Shot,2,7,20,True
+James Ennis III,3,0,45,1,Layup Shot,1,0,15,True
+James Ennis III,4,10,28,0,Layup Shot,1,-6,16,True
+James Ennis III,1,4,49,0,Layup Shot,1,8,8,True
+James Ennis III,1,9,10,0,Layup Shot,1,-12,6,True
+James Ennis III,3,2,19,1,Layup Shot,0,-3,8,True
+James Ennis III,2,10,28,0,Layup Shot,3,-30,5,True
+James Ennis III,2,0,30,1,Layup Shot,2,-27,5,True
+James Ennis III,1,11,45,1,Layup Shot,1,-8,17,True
+James Ennis III,2,7,17,0,Layup Shot,3,-38,4,True
+James Ennis III,2,1,43,0,Layup Shot,1,-6,13,True
+James Ennis III,2,4,49,1,Layup Shot,0,0,-2,True
+James Ennis III,4,10,47,0,Layup Shot,0,-2,-6,True
+James Ennis III,1,5,37,1,Layup Shot,0,9,3,True
+James Ennis III,4,7,49,0,Layup Shot,1,-17,8,True
+James Ennis III,2,10,10,1,Layup Shot,2,-27,3,True
+James Ennis III,1,4,54,0,Layup Shot,3,-10,31,True
+James Ennis III,2,7,52,1,Pullup Jump shot,21,32,213,True
+James Ennis III,1,4,37,1,Pullup Jump shot,14,-145,-16,True
+James Ennis III,2,5,13,0,Pullup Jump shot,26,133,227,False
+James Ennis III,1,1,41,1,Pullup Jump shot,20,-125,159,True
+James Ennis III,2,8,0,1,Pullup Jump shot,15,6,156,True
+James Ennis III,2,10,15,1,Pullup Jump shot,18,-63,172,True
+James Ennis III,1,5,36,0,Pullup Jump shot,19,81,179,True
+James Ennis III,4,0,19,0,Pullup Jump shot,17,172,38,True
+James Ennis III,4,2,42,1,Pullup Jump shot,12,126,-18,True
+James Ennis III,2,5,12,0,Pullup Jump shot,18,120,147,True
+James Ennis III,4,6,46,0,Pullup Jump shot,26,144,217,False
+James Ennis III,4,8,53,1,Pullup Jump shot,27,113,248,False
+James Ennis III,3,1,41,1,Pullup Jump shot,15,-150,18,True
+James Ennis III,3,4,24,1,Putback Dunk Shot,0,0,-6,True
+James Ennis III,1,1,9,0,Putback Layup Shot,0,0,-6,True
+James Ennis III,4,10,39,1,Putback Layup Shot,0,0,-6,True
+James Ennis III,4,9,58,1,Putback Layup Shot,0,0,-6,True
+James Ennis III,3,7,0,1,Putback Layup Shot,0,0,-6,True
+James Ennis III,1,11,11,1,Putback Layup Shot,2,17,16,True
+James Ennis III,2,2,0,1,Putback Layup Shot,0,-3,1,True
+James Ennis III,2,4,56,0,Reverse Layup Shot,0,-2,6,True
+James Ennis III,1,9,25,1,Reverse Layup Shot,1,-13,6,True
+James Ennis III,4,11,55,0,Reverse Layup Shot,1,-3,12,True
+James Ennis III,3,0,0,1,Reverse Layup Shot,1,13,2,True
+James Ennis III,3,1,9,0,Reverse Layup Shot,1,3,13,True
+James Ennis III,1,8,32,1,Reverse Layup Shot,1,5,11,True
+James Ennis III,4,11,45,1,Reverse Layup Shot,1,1,15,True
+James Ennis III,3,7,59,1,Running Alley Oop Dunk Shot,0,-1,5,True
+James Ennis III,4,10,14,1,Running Alley Oop Layup Shot,3,-32,11,True
+James Ennis III,1,8,46,1,Running Alley Oop Layup Shot,1,6,8,True
+James Ennis III,3,9,50,1,Running Dunk Shot,1,-6,14,True
+James Ennis III,1,4,58,1,Running Dunk Shot,0,2,1,True
+James Ennis III,4,9,43,1,Running Dunk Shot,3,5,34,True
+James Ennis III,3,9,46,1,Running Dunk Shot,1,-5,10,True
+James Ennis III,4,0,7,1,Running Dunk Shot,2,2,21,True
+James Ennis III,1,8,10,1,Running Dunk Shot,1,-5,9,True
+James Ennis III,4,3,57,1,Running Dunk Shot,0,-6,2,True
+James Ennis III,1,5,24,1,Running Jump Shot,26,159,213,False
+James Ennis III,2,11,9,1,Running Layup Shot,1,-2,11,True
+James Ennis III,1,7,54,1,Running Layup Shot,7,46,55,True
+James Ennis III,4,4,34,1,Running Layup Shot,0,0,-1,True
+James Ennis III,4,6,21,1,Running Layup Shot,0,-3,0,True
+James Ennis III,1,2,21,1,Running Layup Shot,2,-26,3,True
+James Ennis III,2,3,33,0,Running Layup Shot,1,-16,5,True
+James Ennis III,4,10,32,0,Running Layup Shot,0,-1,8,True
+James Ennis III,3,2,27,1,Running Layup Shot,1,-11,5,True
+James Ennis III,1,4,23,1,Running Layup Shot,1,8,13,True
+James Ennis III,4,8,59,0,Running Layup Shot,1,4,15,True
+James Ennis III,4,10,58,0,Running Layup Shot,1,2,12,True
+James Ennis III,4,2,9,1,Running Layup Shot,2,-24,8,True
+James Ennis III,4,0,56,1,Running Layup Shot,0,4,8,True
+James Ennis III,4,1,27,0,Running Layup Shot,4,26,31,True
+James Ennis III,2,11,26,1,Running Layup Shot,1,-7,13,True
+James Ennis III,2,1,33,0,Running Pull-Up Jump Shot,10,-40,98,True
+James Ennis III,1,1,17,1,Running Reverse Layup Shot,1,8,8,True
+James Ennis III,2,0,7,1,Running Reverse Layup Shot,0,6,-7,True
+James Ennis III,3,0,17,1,Running Reverse Layup Shot,1,0,16,True
+James Ennis III,2,6,49,1,Running Reverse Layup Shot,2,-20,4,True
+James Ennis III,2,0,40,1,Running Reverse Layup Shot,1,-15,8,True
+James Ennis III,3,6,32,1,Running Reverse Layup Shot,0,-3,4,True
+James Ennis III,3,5,12,1,Step Back Jump shot,15,-89,122,True
+James Ennis III,1,6,13,0,Step Back Jump shot,22,-95,201,True
+James Ennis III,3,3,35,0,Step Back Jump shot,14,141,2,True
+James Ennis III,2,4,24,0,Step Back Jump shot,15,11,158,True
+James Ennis III,2,3,42,1,Step Back Jump shot,21,219,17,False
+James Ennis III,2,8,55,0,Step Back Jump shot,22,-81,210,True
+James Ennis III,2,9,17,0,Step Back Jump shot,22,-138,176,True
+James Ennis III,3,4,56,1,Step Back Jump shot,11,116,12,True
+James Ennis III,2,8,20,0,Step Back Jump shot,24,156,185,False
+James Ennis III,1,3,0,0,Step Back Jump shot,21,-88,200,True
+James Ennis III,3,5,47,0,Tip Dunk Shot,0,0,-6,True
+James Ennis III,4,3,34,0,Tip Layup Shot,0,0,-6,True
+James Ennis III,2,5,17,1,Tip Layup Shot,0,0,-6,True
+James Ennis III,2,10,47,1,Tip Layup Shot,0,0,-6,True
+James Ennis III,2,7,38,0,Tip Layup Shot,0,0,-6,True
+James Ennis III,4,3,7,1,Tip Layup Shot,0,0,-6,True
+James Ennis III,4,3,22,0,Tip Layup Shot,2,12,18,True
+James Ennis III,2,10,32,1,Tip Layup Shot,0,0,-6,True
+James Ennis III,1,3,43,0,Tip Layup Shot,0,0,-6,True
+James Ennis III,4,1,23,1,Turnaround Fadeaway Bank Jump Shot,11,-101,45,True
+James Ennis III,2,0,0,0,Turnaround Fadeaway shot,18,127,141,True
+James Ennis III,2,6,30,0,Turnaround Fadeaway shot,12,-107,64,True
+James Ennis III,4,10,15,0,Turnaround Fadeaway shot,12,116,57,True
+James Ennis III,2,9,40,1,Turnaround Hook Shot,4,-2,42,True
+James Ennis III,2,6,52,1,Turnaround Jump Shot,9,-95,9,True
+James Ennis III,1,1,16,1,Turnaround Jump Shot,12,87,88,True
+James Ennis III,4,11,32,0,Turnaround Jump Shot,4,0,43,True
+James Ennis III,3,2,10,0,Turnaround Jump Shot,10,-101,-10,True

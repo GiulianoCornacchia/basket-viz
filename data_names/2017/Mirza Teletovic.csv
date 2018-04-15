@@ -1,0 +1,58 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Mirza Teletovic,2,10,21,1,Cutting Layup Shot,0,6,-1,True
+Mirza Teletovic,4,4,20,0,Jump Bank Shot,3,-32,14,True
+Mirza Teletovic,4,8,42,1,Jump Bank Shot,7,-65,45,True
+Mirza Teletovic,4,9,25,1,Jump Shot,27,-84,260,False
+Mirza Teletovic,4,11,41,1,Jump Shot,26,48,265,False
+Mirza Teletovic,4,7,33,1,Jump Shot,23,-230,62,False
+Mirza Teletovic,2,7,19,1,Jump Shot,13,-127,38,True
+Mirza Teletovic,1,0,54,0,Jump Shot,25,-157,198,False
+Mirza Teletovic,2,8,31,0,Jump Shot,22,-226,-4,False
+Mirza Teletovic,2,10,49,0,Jump Shot,20,207,26,True
+Mirza Teletovic,2,5,59,0,Jump Shot,12,-120,11,True
+Mirza Teletovic,3,1,53,1,Jump Shot,28,-98,263,False
+Mirza Teletovic,3,1,9,0,Jump Shot,25,-72,247,False
+Mirza Teletovic,3,5,41,0,Jump Shot,25,8,259,False
+Mirza Teletovic,1,1,55,0,Jump Shot,25,-14,258,False
+Mirza Teletovic,4,5,34,0,Jump Shot,26,-220,147,False
+Mirza Teletovic,1,0,14,0,Jump Shot,27,180,211,False
+Mirza Teletovic,2,11,33,0,Jump Shot,25,-214,137,False
+Mirza Teletovic,3,3,56,0,Jump Shot,26,-110,244,False
+Mirza Teletovic,1,2,39,1,Jump Shot,26,11,261,False
+Mirza Teletovic,4,8,33,1,Jump Shot,26,-9,268,False
+Mirza Teletovic,2,7,25,0,Jump Shot,23,-228,36,False
+Mirza Teletovic,1,3,41,1,Jump Shot,26,-118,234,False
+Mirza Teletovic,1,1,37,1,Jump Shot,22,-225,20,False
+Mirza Teletovic,4,6,49,0,Jump Shot,25,-211,135,False
+Mirza Teletovic,4,9,27,0,Jump Shot,16,157,47,True
+Mirza Teletovic,4,7,58,1,Jump Shot,25,-200,162,False
+Mirza Teletovic,4,6,53,0,Jump Shot,27,77,268,False
+Mirza Teletovic,1,4,32,0,Jump Shot,26,3,268,False
+Mirza Teletovic,1,0,37,1,Jump Shot,25,156,207,False
+Mirza Teletovic,2,9,11,0,Jump Shot,25,218,136,False
+Mirza Teletovic,2,10,35,1,Jump Shot,26,-147,215,False
+Mirza Teletovic,2,11,20,0,Jump Shot,25,-56,252,False
+Mirza Teletovic,1,2,44,0,Jump Shot,27,139,238,False
+Mirza Teletovic,1,1,2,0,Jump Shot,24,225,95,False
+Mirza Teletovic,4,11,17,1,Jump Shot,26,-55,262,False
+Mirza Teletovic,4,10,0,0,Jump Shot,29,-74,282,False
+Mirza Teletovic,2,11,15,1,Jump Shot,26,68,258,False
+Mirza Teletovic,3,0,30,0,Jump Shot,22,-228,30,False
+Mirza Teletovic,4,9,29,0,Jump Shot,26,-194,182,False
+Mirza Teletovic,3,0,0,1,Jump Shot,27,-18,272,False
+Mirza Teletovic,1,2,41,0,Jump Shot,26,-33,264,False
+Mirza Teletovic,3,1,6,1,Jump Shot,23,-233,5,False
+Mirza Teletovic,1,6,30,0,Jump Shot,25,172,191,False
+Mirza Teletovic,3,3,32,1,Jump Shot,25,-217,126,False
+Mirza Teletovic,1,0,14,1,Jump Shot,26,205,172,False
+Mirza Teletovic,1,4,6,0,Jump Shot,11,10,117,True
+Mirza Teletovic,1,5,19,1,Jump Shot,26,-207,164,False
+Mirza Teletovic,1,4,3,1,Jump Shot,26,-171,199,False
+Mirza Teletovic,3,3,8,0,Jump Shot,25,113,233,False
+Mirza Teletovic,3,5,18,1,Jump Shot,26,-19,262,False
+Mirza Teletovic,2,10,4,1,Jump Shot,27,118,243,False
+Mirza Teletovic,2,7,23,0,Jump Shot,25,4,259,False
+Mirza Teletovic,4,11,46,0,Layup Shot,6,-60,1,True
+Mirza Teletovic,2,6,49,0,Layup Shot,2,19,9,True
+Mirza Teletovic,2,10,2,1,Pullup Jump shot,18,140,115,True
+Mirza Teletovic,2,8,54,0,Tip Layup Shot,1,-4,12,True

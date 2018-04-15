@@ -1,0 +1,17 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Marquis Teague,3,5,17,0,Driving Finger Roll Layup Shot,2,27,13,True
+Marquis Teague,3,3,5,1,Driving Floating Bank Jump Shot,7,70,38,True
+Marquis Teague,4,8,0,0,Driving Layup Shot,1,18,2,True
+Marquis Teague,4,3,21,1,Floating Jump shot,1,-16,10,True
+Marquis Teague,2,0,0,0,Jump Shot,63,-177,610,False
+Marquis Teague,2,10,41,0,Jump Shot,21,40,214,True
+Marquis Teague,3,2,39,1,Jump Shot,24,-49,244,False
+Marquis Teague,3,3,10,0,Jump Shot,22,-223,42,False
+Marquis Teague,1,6,17,0,Pullup Jump shot,15,-32,152,True
+Marquis Teague,1,0,36,0,Pullup Jump shot,19,57,190,True
+Marquis Teague,1,1,36,0,Pullup Jump shot,20,139,157,True
+Marquis Teague,4,2,46,0,Pullup Jump shot,11,-46,109,True
+Marquis Teague,1,0,0,0,Pullup Jump shot,25,-96,232,False
+Marquis Teague,2,8,52,1,Running Layup Shot,2,22,6,True
+Marquis Teague,1,3,9,0,Step Back Jump shot,17,-147,94,True
+Marquis Teague,1,4,32,0,Step Back Jump shot,19,90,169,True

@@ -1,0 +1,768 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jaylen Brown,3,2,33,1,Alley Oop Dunk Shot,0,-3,-1,True
+Jaylen Brown,4,4,51,1,Alley Oop Dunk Shot,0,-5,5,True
+Jaylen Brown,4,1,38,0,Alley Oop Layup shot,1,2,11,True
+Jaylen Brown,1,0,42,1,Alley Oop Layup shot,0,-8,4,True
+Jaylen Brown,3,4,7,0,Alley Oop Layup shot,1,9,13,True
+Jaylen Brown,2,0,44,0,Alley Oop Layup shot,4,33,31,True
+Jaylen Brown,3,3,42,0,Alley Oop Layup shot,1,19,0,True
+Jaylen Brown,2,11,5,0,Alley Oop Layup shot,1,5,9,True
+Jaylen Brown,1,6,4,1,Cutting Dunk Shot,1,-5,16,True
+Jaylen Brown,3,4,13,1,Cutting Dunk Shot,1,-1,12,True
+Jaylen Brown,4,5,44,1,Cutting Dunk Shot,2,3,25,True
+Jaylen Brown,4,9,16,1,Cutting Dunk Shot,1,2,17,True
+Jaylen Brown,1,3,57,1,Cutting Dunk Shot,0,-1,-1,True
+Jaylen Brown,2,0,38,1,Cutting Dunk Shot,1,0,19,True
+Jaylen Brown,3,4,50,1,Cutting Dunk Shot,0,-4,9,True
+Jaylen Brown,4,6,18,1,Cutting Dunk Shot,0,-3,3,True
+Jaylen Brown,1,6,14,1,Cutting Dunk Shot,0,-8,0,True
+Jaylen Brown,1,6,17,1,Cutting Dunk Shot,0,-4,9,True
+Jaylen Brown,2,3,45,1,Cutting Dunk Shot,1,-7,8,True
+Jaylen Brown,1,8,54,1,Cutting Dunk Shot,1,-18,4,True
+Jaylen Brown,3,6,9,0,Cutting Dunk Shot,1,11,9,True
+Jaylen Brown,3,11,46,0,Cutting Layup Shot,0,5,-1,True
+Jaylen Brown,2,4,53,1,Cutting Layup Shot,2,14,26,True
+Jaylen Brown,1,0,19,1,Cutting Layup Shot,1,-8,10,True
+Jaylen Brown,4,5,30,0,Cutting Layup Shot,6,55,27,True
+Jaylen Brown,1,4,19,0,Cutting Layup Shot,1,-4,10,True
+Jaylen Brown,3,8,49,1,Cutting Layup Shot,2,3,20,True
+Jaylen Brown,1,4,26,1,Cutting Layup Shot,1,9,14,True
+Jaylen Brown,3,8,33,1,Cutting Layup Shot,3,24,20,True
+Jaylen Brown,3,2,41,1,Cutting Layup Shot,2,11,17,True
+Jaylen Brown,1,4,14,1,Cutting Layup Shot,1,-1,15,True
+Jaylen Brown,2,5,0,0,Cutting Layup Shot,3,16,36,True
+Jaylen Brown,1,8,39,1,Cutting Layup Shot,0,3,6,True
+Jaylen Brown,1,1,17,1,Cutting Layup Shot,1,16,11,True
+Jaylen Brown,3,7,57,1,Cutting Layup Shot,2,3,29,True
+Jaylen Brown,3,8,38,1,Cutting Layup Shot,1,-16,7,True
+Jaylen Brown,2,1,52,1,Cutting Layup Shot,1,-6,11,True
+Jaylen Brown,3,0,58,0,Cutting Layup Shot,2,-26,6,True
+Jaylen Brown,1,8,17,1,Cutting Layup Shot,0,-5,2,True
+Jaylen Brown,3,9,25,1,Cutting Layup Shot,0,-2,8,True
+Jaylen Brown,3,0,46,1,Cutting Layup Shot,2,12,19,True
+Jaylen Brown,1,4,6,0,Cutting Layup Shot,3,29,22,True
+Jaylen Brown,2,3,40,1,Cutting Layup Shot,2,-10,20,True
+Jaylen Brown,1,4,54,1,Driving Dunk Shot,0,-1,6,True
+Jaylen Brown,4,2,57,1,Driving Dunk Shot,2,-1,25,True
+Jaylen Brown,3,3,26,1,Driving Dunk Shot,2,-4,22,True
+Jaylen Brown,4,10,1,1,Driving Dunk Shot,1,3,17,True
+Jaylen Brown,2,1,58,1,Driving Dunk Shot,1,-3,18,True
+Jaylen Brown,3,11,40,0,Driving Dunk Shot,3,9,29,True
+Jaylen Brown,3,10,29,0,Driving Dunk Shot,0,-5,5,True
+Jaylen Brown,2,1,37,1,Driving Dunk Shot,1,14,8,True
+Jaylen Brown,4,3,8,0,Driving Dunk Shot,3,-2,30,True
+Jaylen Brown,1,2,51,1,Driving Dunk Shot,1,-1,11,True
+Jaylen Brown,1,10,21,1,Driving Dunk Shot,3,7,30,True
+Jaylen Brown,1,3,48,1,Driving Dunk Shot,0,2,2,True
+Jaylen Brown,3,7,3,1,Driving Dunk Shot,1,-7,13,True
+Jaylen Brown,3,8,7,1,Driving Dunk Shot,1,-1,10,True
+Jaylen Brown,1,11,40,1,Driving Dunk Shot,0,5,1,True
+Jaylen Brown,1,9,33,0,Driving Dunk Shot,1,-11,6,True
+Jaylen Brown,3,2,2,1,Driving Dunk Shot,1,5,11,True
+Jaylen Brown,3,8,22,1,Driving Dunk Shot,1,8,16,True
+Jaylen Brown,2,7,33,0,Driving Dunk Shot,3,5,34,True
+Jaylen Brown,4,2,38,1,Driving Finger Roll Layup Shot,1,-14,6,True
+Jaylen Brown,4,0,59,0,Driving Finger Roll Layup Shot,2,14,16,True
+Jaylen Brown,1,9,53,1,Driving Finger Roll Layup Shot,0,5,-5,True
+Jaylen Brown,3,7,38,1,Driving Finger Roll Layup Shot,1,0,11,True
+Jaylen Brown,3,2,11,1,Driving Finger Roll Layup Shot,1,7,8,True
+Jaylen Brown,3,4,43,0,Driving Finger Roll Layup Shot,2,-24,6,True
+Jaylen Brown,1,10,22,1,Driving Finger Roll Layup Shot,2,-2,25,True
+Jaylen Brown,4,7,41,1,Driving Finger Roll Layup Shot,1,12,15,True
+Jaylen Brown,1,6,3,1,Driving Finger Roll Layup Shot,4,-24,33,True
+Jaylen Brown,2,10,6,1,Driving Finger Roll Layup Shot,1,-1,15,True
+Jaylen Brown,1,4,12,1,Driving Finger Roll Layup Shot,1,-9,16,True
+Jaylen Brown,2,8,12,1,Driving Finger Roll Layup Shot,0,0,2,True
+Jaylen Brown,2,1,3,0,Driving Finger Roll Layup Shot,1,-6,16,True
+Jaylen Brown,1,3,36,1,Driving Finger Roll Layup Shot,1,-6,15,True
+Jaylen Brown,4,4,18,0,Driving Finger Roll Layup Shot,2,1,22,True
+Jaylen Brown,2,6,55,1,Driving Finger Roll Layup Shot,3,-33,6,True
+Jaylen Brown,4,6,19,1,Driving Floating Bank Jump Shot,2,-13,17,True
+Jaylen Brown,3,7,54,1,Driving Floating Bank Jump Shot,12,6,125,True
+Jaylen Brown,1,7,16,1,Driving Floating Bank Jump Shot,6,-60,34,True
+Jaylen Brown,1,10,19,0,Driving Floating Jump Shot,6,0,62,True
+Jaylen Brown,3,8,27,1,Driving Floating Jump Shot,6,22,57,True
+Jaylen Brown,3,6,24,0,Driving Floating Jump Shot,3,35,16,True
+Jaylen Brown,1,8,48,0,Driving Floating Jump Shot,6,-7,63,True
+Jaylen Brown,3,4,45,1,Driving Floating Jump Shot,10,-31,100,True
+Jaylen Brown,2,4,3,0,Driving Floating Jump Shot,6,33,58,True
+Jaylen Brown,1,2,13,0,Driving Floating Jump Shot,6,-2,60,True
+Jaylen Brown,2,9,40,0,Driving Floating Jump Shot,15,46,146,True
+Jaylen Brown,2,4,41,1,Driving Floating Jump Shot,5,-30,48,True
+Jaylen Brown,3,6,57,0,Driving Floating Jump Shot,3,-2,36,True
+Jaylen Brown,3,11,16,1,Driving Floating Jump Shot,5,-4,50,True
+Jaylen Brown,2,11,16,0,Driving Floating Jump Shot,7,-38,62,True
+Jaylen Brown,4,1,24,0,Driving Floating Jump Shot,7,-20,69,True
+Jaylen Brown,1,11,31,1,Driving Floating Jump Shot,10,-28,99,True
+Jaylen Brown,1,6,33,0,Driving Floating Jump Shot,2,25,6,True
+Jaylen Brown,1,8,54,1,Driving Hook Shot,9,-76,55,True
+Jaylen Brown,4,3,27,1,Driving Hook Shot,1,0,13,True
+Jaylen Brown,1,11,46,0,Driving Layup Shot,2,18,13,True
+Jaylen Brown,2,0,0,0,Driving Layup Shot,0,-7,2,True
+Jaylen Brown,1,8,36,0,Driving Layup Shot,2,-25,6,True
+Jaylen Brown,3,10,52,0,Driving Layup Shot,3,-16,34,True
+Jaylen Brown,2,3,57,1,Driving Layup Shot,0,7,6,True
+Jaylen Brown,2,8,32,1,Driving Layup Shot,1,0,16,True
+Jaylen Brown,3,10,30,0,Driving Layup Shot,0,-9,0,True
+Jaylen Brown,3,5,12,1,Driving Layup Shot,1,12,11,True
+Jaylen Brown,2,11,46,1,Driving Layup Shot,0,4,-8,True
+Jaylen Brown,2,11,21,0,Driving Layup Shot,1,-12,0,True
+Jaylen Brown,3,8,52,0,Driving Layup Shot,4,22,35,True
+Jaylen Brown,1,2,56,0,Driving Layup Shot,3,-29,18,True
+Jaylen Brown,3,3,6,1,Driving Layup Shot,2,1,22,True
+Jaylen Brown,2,10,53,0,Driving Layup Shot,1,-12,4,True
+Jaylen Brown,3,11,22,0,Driving Layup Shot,3,32,13,True
+Jaylen Brown,4,5,26,0,Driving Layup Shot,5,12,52,True
+Jaylen Brown,1,8,39,1,Driving Layup Shot,2,19,11,True
+Jaylen Brown,3,11,49,0,Driving Layup Shot,1,3,13,True
+Jaylen Brown,4,6,0,0,Driving Layup Shot,1,8,11,True
+Jaylen Brown,1,7,2,1,Driving Layup Shot,1,-17,4,True
+Jaylen Brown,3,10,24,1,Driving Layup Shot,2,23,16,True
+Jaylen Brown,3,5,3,0,Driving Layup Shot,8,-3,88,True
+Jaylen Brown,1,10,9,0,Driving Layup Shot,4,46,8,True
+Jaylen Brown,1,11,24,0,Driving Layup Shot,1,17,8,True
+Jaylen Brown,3,0,42,1,Driving Layup Shot,1,5,17,True
+Jaylen Brown,1,8,21,0,Driving Layup Shot,1,11,7,True
+Jaylen Brown,1,11,22,1,Driving Layup Shot,2,22,3,True
+Jaylen Brown,1,5,28,0,Driving Layup Shot,0,-2,8,True
+Jaylen Brown,4,3,36,1,Driving Layup Shot,1,-2,13,True
+Jaylen Brown,3,0,55,1,Driving Layup Shot,1,-11,16,True
+Jaylen Brown,2,1,3,0,Driving Layup Shot,1,-3,17,True
+Jaylen Brown,4,8,25,1,Driving Layup Shot,2,3,23,True
+Jaylen Brown,1,7,38,1,Driving Layup Shot,2,18,9,True
+Jaylen Brown,1,3,52,0,Driving Layup Shot,6,56,24,True
+Jaylen Brown,3,5,0,1,Driving Layup Shot,2,24,7,True
+Jaylen Brown,2,4,32,0,Driving Layup Shot,1,11,6,True
+Jaylen Brown,1,8,24,0,Driving Layup Shot,1,-16,8,True
+Jaylen Brown,1,4,40,0,Driving Layup Shot,3,-8,33,True
+Jaylen Brown,3,8,11,0,Driving Layup Shot,3,-14,37,True
+Jaylen Brown,3,5,44,1,Driving Layup Shot,1,14,10,True
+Jaylen Brown,3,10,20,1,Driving Layup Shot,1,-1,13,True
+Jaylen Brown,3,2,33,0,Driving Layup Shot,3,35,11,True
+Jaylen Brown,1,11,4,1,Driving Layup Shot,0,-1,-4,True
+Jaylen Brown,3,4,40,0,Driving Layup Shot,1,0,15,True
+Jaylen Brown,1,11,24,1,Driving Layup Shot,1,0,11,True
+Jaylen Brown,1,4,24,0,Driving Layup Shot,1,-13,2,True
+Jaylen Brown,3,6,41,0,Driving Layup Shot,3,18,31,True
+Jaylen Brown,1,11,10,0,Driving Layup Shot,7,65,36,True
+Jaylen Brown,4,4,31,0,Driving Layup Shot,2,18,18,True
+Jaylen Brown,2,1,15,0,Driving Layup Shot,1,9,8,True
+Jaylen Brown,1,2,7,0,Driving Layup Shot,0,-7,2,True
+Jaylen Brown,3,10,40,1,Driving Layup Shot,1,-11,5,True
+Jaylen Brown,1,3,41,1,Driving Layup Shot,1,4,12,True
+Jaylen Brown,3,8,2,0,Driving Layup Shot,1,-5,9,True
+Jaylen Brown,1,6,27,1,Driving Layup Shot,4,-40,28,True
+Jaylen Brown,1,6,15,1,Driving Layup Shot,1,-3,16,True
+Jaylen Brown,4,11,46,1,Driving Layup Shot,2,1,20,True
+Jaylen Brown,1,1,0,0,Driving Layup Shot,2,-18,15,True
+Jaylen Brown,1,10,28,0,Driving Layup Shot,6,-62,13,True
+Jaylen Brown,4,10,51,0,Driving Layup Shot,2,22,10,True
+Jaylen Brown,3,10,52,0,Driving Layup Shot,1,13,8,True
+Jaylen Brown,3,9,45,1,Driving Layup Shot,2,12,20,True
+Jaylen Brown,1,5,15,0,Driving Layup Shot,0,4,-6,True
+Jaylen Brown,4,5,55,0,Driving Layup Shot,2,-19,13,True
+Jaylen Brown,1,3,3,1,Driving Layup Shot,1,-12,6,True
+Jaylen Brown,4,10,12,1,Driving Layup Shot,2,28,1,True
+Jaylen Brown,1,9,28,0,Driving Layup Shot,1,-11,11,True
+Jaylen Brown,2,1,46,0,Driving Layup Shot,2,25,1,True
+Jaylen Brown,1,2,20,1,Driving Layup Shot,4,6,41,True
+Jaylen Brown,1,6,50,1,Driving Layup Shot,2,6,28,True
+Jaylen Brown,4,2,54,1,Driving Layup Shot,2,-4,29,True
+Jaylen Brown,3,6,54,0,Driving Layup Shot,2,-18,19,True
+Jaylen Brown,3,8,22,1,Driving Layup Shot,0,6,6,True
+Jaylen Brown,1,6,52,1,Driving Layup Shot,0,-3,5,True
+Jaylen Brown,1,0,59,0,Driving Layup Shot,5,-7,52,True
+Jaylen Brown,2,0,3,0,Driving Layup Shot,8,43,68,True
+Jaylen Brown,1,10,18,0,Driving Layup Shot,3,-19,27,True
+Jaylen Brown,4,6,54,0,Driving Layup Shot,1,7,11,True
+Jaylen Brown,1,10,25,0,Driving Layup Shot,0,-2,-5,True
+Jaylen Brown,2,10,2,0,Driving Layup Shot,1,-5,13,True
+Jaylen Brown,3,7,9,0,Driving Layup Shot,2,11,26,True
+Jaylen Brown,1,0,19,1,Driving Layup Shot,1,15,11,True
+Jaylen Brown,4,8,31,0,Driving Layup Shot,4,-4,42,True
+Jaylen Brown,1,7,35,0,Driving Layup Shot,1,9,15,True
+Jaylen Brown,1,0,50,0,Driving Layup Shot,2,19,20,True
+Jaylen Brown,4,5,37,1,Driving Layup Shot,3,-2,38,True
+Jaylen Brown,3,2,46,1,Driving Layup Shot,7,12,69,True
+Jaylen Brown,4,7,26,0,Driving Layup Shot,2,7,26,True
+Jaylen Brown,4,6,21,1,Driving Layup Shot,2,20,14,True
+Jaylen Brown,3,4,53,1,Driving Layup Shot,3,0,30,True
+Jaylen Brown,1,0,25,0,Driving Layup Shot,2,-24,-3,True
+Jaylen Brown,1,1,38,1,Driving Layup Shot,2,8,19,True
+Jaylen Brown,4,5,56,1,Driving Layup Shot,2,10,20,True
+Jaylen Brown,4,5,55,1,Driving Layup Shot,1,-17,8,True
+Jaylen Brown,2,3,49,0,Driving Layup Shot,2,20,14,True
+Jaylen Brown,1,8,32,0,Driving Layup Shot,1,-16,4,True
+Jaylen Brown,1,7,37,1,Driving Layup Shot,1,16,3,True
+Jaylen Brown,4,4,8,1,Driving Layup Shot,0,3,5,True
+Jaylen Brown,3,6,46,1,Driving Layup Shot,0,0,7,True
+Jaylen Brown,4,0,52,0,Driving Layup Shot,2,13,26,True
+Jaylen Brown,1,9,10,0,Driving Layup Shot,3,2,30,True
+Jaylen Brown,1,10,56,0,Driving Reverse Layup Shot,2,-1,25,True
+Jaylen Brown,2,6,16,1,Driving Reverse Layup Shot,0,1,9,True
+Jaylen Brown,1,5,52,1,Driving Reverse Layup Shot,0,-8,4,True
+Jaylen Brown,3,10,55,0,Driving Reverse Layup Shot,1,-11,15,True
+Jaylen Brown,3,10,32,0,Driving Reverse Layup Shot,1,-11,14,True
+Jaylen Brown,3,4,45,1,Driving Reverse Layup Shot,2,14,21,True
+Jaylen Brown,3,10,18,0,Driving Reverse Layup Shot,3,24,26,True
+Jaylen Brown,3,9,14,1,Driving Reverse Layup Shot,1,6,16,True
+Jaylen Brown,4,1,52,1,Dunk Shot,0,3,6,True
+Jaylen Brown,4,0,59,1,Dunk Shot,1,9,10,True
+Jaylen Brown,3,9,38,1,Dunk Shot,2,2,21,True
+Jaylen Brown,1,9,26,1,Dunk Shot,1,-14,0,True
+Jaylen Brown,1,4,39,1,Dunk Shot,0,7,5,True
+Jaylen Brown,3,6,2,1,Dunk Shot,3,0,30,True
+Jaylen Brown,3,10,33,1,Dunk Shot,2,-11,18,True
+Jaylen Brown,3,2,59,1,Dunk Shot,1,-8,11,True
+Jaylen Brown,4,6,42,1,Fadeaway Jump Shot,6,11,68,True
+Jaylen Brown,1,11,39,0,Fadeaway Jump Shot,16,160,-3,True
+Jaylen Brown,1,4,2,0,Fadeaway Jump Shot,13,-3,130,True
+Jaylen Brown,2,4,12,0,Fadeaway Jump Shot,16,-160,50,True
+Jaylen Brown,4,0,50,0,Fadeaway Jump Shot,16,125,115,True
+Jaylen Brown,1,9,41,0,Fadeaway Jump Shot,14,93,106,True
+Jaylen Brown,3,7,58,1,Fadeaway Jump Shot,11,113,4,True
+Jaylen Brown,4,3,51,1,Fadeaway Jump Shot,7,2,74,True
+Jaylen Brown,1,9,55,0,Fadeaway Jump Shot,10,27,97,True
+Jaylen Brown,1,3,51,0,Fadeaway Jump Shot,13,55,128,True
+Jaylen Brown,3,2,59,0,Fadeaway Jump Shot,21,109,185,True
+Jaylen Brown,1,2,10,0,Fadeaway Jump Shot,11,114,1,True
+Jaylen Brown,3,3,56,0,Fadeaway Jump Shot,13,-76,111,True
+Jaylen Brown,1,7,12,1,Finger Roll Layup Shot,2,16,13,True
+Jaylen Brown,1,5,14,0,Finger Roll Layup Shot,3,0,30,True
+Jaylen Brown,2,4,48,0,Finger Roll Layup Shot,2,3,21,True
+Jaylen Brown,4,7,59,1,Floating Jump shot,8,6,82,True
+Jaylen Brown,3,4,9,1,Floating Jump shot,6,14,66,True
+Jaylen Brown,1,8,19,1,Floating Jump shot,12,49,115,True
+Jaylen Brown,3,7,42,1,Floating Jump shot,7,-40,69,True
+Jaylen Brown,3,10,54,0,Hook Shot,8,-6,80,True
+Jaylen Brown,3,8,42,1,Hook Shot,2,-19,17,True
+Jaylen Brown,2,1,25,1,Hook Shot,3,-5,38,True
+Jaylen Brown,1,9,22,0,Hook Shot,2,19,8,True
+Jaylen Brown,1,6,54,0,Hook Shot,5,-33,47,True
+Jaylen Brown,3,2,13,0,Jump Bank Shot,9,-41,86,True
+Jaylen Brown,1,2,17,0,Jump Shot,25,-160,200,False
+Jaylen Brown,1,1,5,1,Jump Shot,27,-169,222,False
+Jaylen Brown,1,0,36,0,Jump Shot,28,-93,267,False
+Jaylen Brown,1,8,44,1,Jump Shot,26,-92,249,False
+Jaylen Brown,1,3,28,1,Jump Shot,23,-228,37,False
+Jaylen Brown,4,9,27,0,Jump Shot,26,201,172,False
+Jaylen Brown,4,8,43,1,Jump Shot,26,-222,142,False
+Jaylen Brown,4,6,3,0,Jump Shot,26,130,230,False
+Jaylen Brown,1,10,3,1,Jump Shot,23,-232,16,False
+Jaylen Brown,3,10,0,0,Jump Shot,25,-165,194,False
+Jaylen Brown,1,8,58,0,Jump Shot,27,52,274,False
+Jaylen Brown,2,3,11,1,Jump Shot,23,-234,20,False
+Jaylen Brown,1,10,0,0,Jump Shot,24,122,207,False
+Jaylen Brown,4,0,36,1,Jump Shot,25,-150,210,False
+Jaylen Brown,3,8,27,1,Jump Shot,28,152,237,False
+Jaylen Brown,4,3,46,1,Jump Shot,25,240,89,False
+Jaylen Brown,3,10,43,1,Jump Shot,24,229,74,False
+Jaylen Brown,1,9,55,1,Jump Shot,24,190,153,False
+Jaylen Brown,3,6,34,0,Jump Shot,28,94,264,False
+Jaylen Brown,4,1,42,1,Jump Shot,28,57,277,False
+Jaylen Brown,2,6,18,0,Jump Shot,19,79,178,True
+Jaylen Brown,2,6,41,0,Jump Shot,24,-34,244,False
+Jaylen Brown,3,7,36,0,Jump Shot,16,-24,163,True
+Jaylen Brown,1,7,52,1,Jump Shot,23,226,46,False
+Jaylen Brown,3,8,26,1,Jump Shot,26,-140,230,False
+Jaylen Brown,1,11,46,0,Jump Shot,20,-3,204,True
+Jaylen Brown,3,4,11,0,Jump Shot,27,83,266,False
+Jaylen Brown,3,6,35,1,Jump Shot,17,117,131,True
+Jaylen Brown,3,7,49,0,Jump Shot,26,-190,179,False
+Jaylen Brown,4,0,1,1,Jump Shot,26,56,260,False
+Jaylen Brown,2,1,35,1,Jump Shot,25,204,148,False
+Jaylen Brown,1,11,14,0,Jump Shot,18,21,180,True
+Jaylen Brown,2,3,47,1,Jump Shot,26,73,251,False
+Jaylen Brown,2,10,36,1,Jump Shot,27,9,272,False
+Jaylen Brown,2,5,50,1,Jump Shot,24,-85,234,False
+Jaylen Brown,3,7,15,0,Jump Shot,14,22,146,True
+Jaylen Brown,4,0,15,0,Jump Shot,26,-188,191,False
+Jaylen Brown,4,0,45,0,Jump Shot,25,-98,239,False
+Jaylen Brown,2,2,19,0,Jump Shot,25,153,209,False
+Jaylen Brown,1,5,5,1,Jump Shot,22,226,1,False
+Jaylen Brown,3,0,57,0,Jump Shot,23,233,-16,False
+Jaylen Brown,1,3,44,0,Jump Shot,25,12,253,False
+Jaylen Brown,1,7,10,1,Jump Shot,25,-181,175,False
+Jaylen Brown,3,5,28,0,Jump Shot,24,-238,63,False
+Jaylen Brown,1,8,49,1,Jump Shot,16,-120,120,True
+Jaylen Brown,1,10,44,1,Jump Shot,18,182,38,True
+Jaylen Brown,1,6,50,1,Jump Shot,23,-237,4,False
+Jaylen Brown,2,1,36,0,Jump Shot,22,-226,16,False
+Jaylen Brown,4,7,19,0,Jump Shot,26,-168,204,False
+Jaylen Brown,1,7,28,1,Jump Shot,27,166,217,False
+Jaylen Brown,2,3,48,0,Jump Shot,24,-242,2,False
+Jaylen Brown,1,5,32,1,Jump Shot,23,-230,7,False
+Jaylen Brown,3,7,56,0,Jump Shot,26,185,183,False
+Jaylen Brown,1,7,54,1,Jump Shot,24,230,81,False
+Jaylen Brown,1,11,46,0,Jump Shot,26,-103,243,False
+Jaylen Brown,1,8,28,0,Jump Shot,22,-228,6,False
+Jaylen Brown,3,5,7,0,Jump Shot,24,-177,164,False
+Jaylen Brown,3,3,15,0,Jump Shot,24,-196,153,False
+Jaylen Brown,4,6,54,1,Jump Shot,23,-231,-7,False
+Jaylen Brown,3,5,54,0,Jump Shot,23,229,62,False
+Jaylen Brown,1,10,4,1,Jump Shot,22,-228,6,False
+Jaylen Brown,1,10,51,0,Jump Shot,17,162,52,True
+Jaylen Brown,2,3,43,0,Jump Shot,24,151,197,False
+Jaylen Brown,4,5,2,0,Jump Shot,27,157,231,False
+Jaylen Brown,2,11,6,0,Jump Shot,26,-195,183,False
+Jaylen Brown,3,10,55,0,Jump Shot,22,-226,11,False
+Jaylen Brown,2,5,47,0,Jump Shot,25,69,243,False
+Jaylen Brown,4,6,40,0,Jump Shot,26,-49,261,False
+Jaylen Brown,3,8,6,0,Jump Shot,25,-168,198,False
+Jaylen Brown,4,7,9,1,Jump Shot,16,11,166,True
+Jaylen Brown,2,8,2,0,Jump Shot,25,-172,183,False
+Jaylen Brown,3,9,13,1,Jump Shot,22,-228,8,False
+Jaylen Brown,3,7,16,0,Jump Shot,25,-14,250,False
+Jaylen Brown,4,2,35,0,Jump Shot,26,77,251,False
+Jaylen Brown,3,1,39,1,Jump Shot,26,104,248,False
+Jaylen Brown,1,11,32,0,Jump Shot,25,-126,225,False
+Jaylen Brown,2,4,41,0,Jump Shot,24,218,121,False
+Jaylen Brown,2,7,31,0,Jump Shot,24,90,231,False
+Jaylen Brown,1,8,20,0,Jump Shot,24,138,207,False
+Jaylen Brown,1,10,32,1,Jump Shot,25,220,120,False
+Jaylen Brown,5,1,0,0,Jump Shot,24,239,53,False
+Jaylen Brown,3,4,13,1,Jump Shot,25,-215,138,False
+Jaylen Brown,1,0,1,0,Jump Shot,67,-178,652,False
+Jaylen Brown,1,7,20,0,Jump Shot,21,201,83,True
+Jaylen Brown,4,1,13,1,Jump Shot,24,-237,52,False
+Jaylen Brown,3,7,29,1,Jump Shot,25,-72,247,False
+Jaylen Brown,2,1,37,0,Jump Shot,26,157,214,False
+Jaylen Brown,3,6,52,0,Jump Shot,23,-235,16,False
+Jaylen Brown,1,4,47,1,Jump Shot,26,119,235,False
+Jaylen Brown,1,10,52,1,Jump Shot,25,-176,184,False
+Jaylen Brown,2,3,29,0,Jump Shot,28,89,268,False
+Jaylen Brown,4,9,55,1,Jump Shot,25,148,207,False
+Jaylen Brown,2,1,59,0,Jump Shot,24,-100,225,False
+Jaylen Brown,3,10,56,1,Jump Shot,25,-185,170,False
+Jaylen Brown,3,5,8,0,Jump Shot,25,-146,214,False
+Jaylen Brown,1,9,50,1,Jump Shot,24,-198,152,False
+Jaylen Brown,1,7,25,0,Jump Shot,25,156,206,False
+Jaylen Brown,3,5,56,0,Jump Shot,23,-161,177,False
+Jaylen Brown,1,7,36,0,Jump Shot,22,-225,4,False
+Jaylen Brown,4,0,34,1,Jump Shot,22,-222,-4,False
+Jaylen Brown,3,5,28,0,Jump Shot,22,-221,-8,False
+Jaylen Brown,3,9,17,0,Jump Shot,8,-3,85,True
+Jaylen Brown,2,3,16,0,Jump Shot,22,-224,37,False
+Jaylen Brown,3,3,1,0,Jump Shot,25,163,202,False
+Jaylen Brown,3,9,36,0,Jump Shot,25,149,211,False
+Jaylen Brown,2,2,47,0,Jump Shot,24,232,85,False
+Jaylen Brown,1,3,36,0,Jump Shot,27,-36,273,False
+Jaylen Brown,1,6,47,1,Jump Shot,26,150,224,False
+Jaylen Brown,3,5,47,0,Jump Shot,26,139,222,False
+Jaylen Brown,4,5,0,0,Jump Shot,22,-221,33,False
+Jaylen Brown,3,6,34,0,Jump Shot,27,-164,217,False
+Jaylen Brown,3,7,28,0,Jump Shot,27,-14,276,False
+Jaylen Brown,3,7,48,1,Jump Shot,22,228,1,False
+Jaylen Brown,3,6,34,0,Jump Shot,25,151,204,False
+Jaylen Brown,3,10,53,0,Jump Shot,27,-164,217,False
+Jaylen Brown,1,11,32,0,Jump Shot,23,230,21,False
+Jaylen Brown,4,1,2,0,Jump Shot,27,-83,260,False
+Jaylen Brown,3,11,38,0,Jump Shot,25,-203,152,False
+Jaylen Brown,1,9,39,0,Jump Shot,25,-195,162,False
+Jaylen Brown,2,4,54,0,Jump Shot,23,-231,23,False
+Jaylen Brown,3,8,8,1,Jump Shot,22,-228,6,False
+Jaylen Brown,4,9,34,0,Jump Shot,27,172,210,False
+Jaylen Brown,2,6,13,0,Jump Shot,25,210,139,False
+Jaylen Brown,4,7,1,1,Jump Shot,24,240,34,False
+Jaylen Brown,3,8,52,0,Jump Shot,22,228,30,False
+Jaylen Brown,1,3,37,0,Jump Shot,25,139,211,False
+Jaylen Brown,2,6,3,1,Jump Shot,22,227,20,False
+Jaylen Brown,4,9,7,0,Jump Shot,9,52,82,True
+Jaylen Brown,3,8,49,0,Jump Shot,24,-120,214,False
+Jaylen Brown,1,8,0,1,Jump Shot,27,-94,257,False
+Jaylen Brown,3,9,52,1,Jump Shot,17,82,156,True
+Jaylen Brown,4,2,28,0,Jump Shot,16,-47,156,True
+Jaylen Brown,3,10,59,0,Jump Shot,23,229,26,False
+Jaylen Brown,2,1,45,1,Jump Shot,25,-157,201,False
+Jaylen Brown,2,3,54,0,Jump Shot,25,-155,204,False
+Jaylen Brown,3,9,17,0,Jump Shot,25,130,225,False
+Jaylen Brown,3,8,10,0,Jump Shot,25,-120,225,False
+Jaylen Brown,3,8,6,0,Jump Shot,25,-188,169,False
+Jaylen Brown,3,7,59,0,Jump Shot,22,-227,13,False
+Jaylen Brown,1,5,9,0,Jump Shot,25,-203,146,False
+Jaylen Brown,3,3,42,0,Jump Shot,26,177,201,False
+Jaylen Brown,1,4,57,0,Jump Shot,23,-235,25,False
+Jaylen Brown,3,4,54,0,Jump Shot,23,230,19,False
+Jaylen Brown,3,10,46,1,Jump Shot,24,-217,115,False
+Jaylen Brown,2,1,58,1,Jump Shot,23,-231,1,False
+Jaylen Brown,1,5,6,0,Jump Shot,23,232,20,False
+Jaylen Brown,3,6,32,1,Jump Shot,25,203,152,False
+Jaylen Brown,3,1,52,1,Jump Shot,23,-232,4,False
+Jaylen Brown,1,8,27,1,Jump Shot,26,-167,203,False
+Jaylen Brown,1,10,6,0,Jump Shot,26,-198,177,False
+Jaylen Brown,3,10,13,0,Jump Shot,27,102,259,False
+Jaylen Brown,2,0,27,0,Jump Shot,23,-237,25,False
+Jaylen Brown,1,9,40,0,Jump Shot,22,223,-1,False
+Jaylen Brown,1,3,57,0,Jump Shot,22,228,-1,False
+Jaylen Brown,4,1,42,0,Jump Shot,23,-230,-1,False
+Jaylen Brown,1,11,16,0,Jump Shot,22,225,-1,False
+Jaylen Brown,1,3,8,1,Jump Shot,26,-133,231,False
+Jaylen Brown,3,7,54,1,Jump Shot,23,-223,78,False
+Jaylen Brown,3,4,8,0,Jump Shot,26,89,247,False
+Jaylen Brown,2,2,25,0,Jump Shot,23,231,33,False
+Jaylen Brown,3,10,43,1,Jump Shot,24,236,55,False
+Jaylen Brown,2,2,51,1,Jump Shot,24,177,175,False
+Jaylen Brown,3,8,45,0,Jump Shot,28,141,252,False
+Jaylen Brown,4,1,31,1,Jump Shot,26,120,241,False
+Jaylen Brown,3,6,0,0,Jump Shot,22,-223,1,False
+Jaylen Brown,1,1,47,1,Jump Shot,25,-106,237,False
+Jaylen Brown,1,7,18,1,Jump Shot,22,223,-8,False
+Jaylen Brown,4,0,41,0,Jump Shot,22,-229,-6,False
+Jaylen Brown,2,4,48,0,Jump Shot,26,-48,256,False
+Jaylen Brown,3,2,18,0,Jump Shot,6,-29,62,True
+Jaylen Brown,1,4,46,1,Jump Shot,22,-226,1,False
+Jaylen Brown,2,4,0,1,Jump Shot,24,229,90,False
+Jaylen Brown,3,10,4,0,Jump Shot,23,231,4,False
+Jaylen Brown,4,3,10,0,Jump Shot,26,-90,254,False
+Jaylen Brown,3,8,23,1,Jump Shot,22,-227,9,False
+Jaylen Brown,4,0,41,1,Jump Shot,22,-225,-8,False
+Jaylen Brown,3,2,49,1,Jump Shot,25,-62,246,False
+Jaylen Brown,3,11,21,0,Jump Shot,22,-227,8,False
+Jaylen Brown,3,4,4,1,Jump Shot,9,-19,90,True
+Jaylen Brown,3,9,9,0,Jump Shot,23,-231,-13,False
+Jaylen Brown,2,10,11,0,Jump Shot,22,-92,203,True
+Jaylen Brown,3,5,15,1,Jump Shot,25,129,218,False
+Jaylen Brown,3,4,24,0,Jump Shot,24,-183,168,False
+Jaylen Brown,1,0,24,1,Jump Shot,22,-225,8,False
+Jaylen Brown,3,0,0,0,Jump Shot,23,230,-14,False
+Jaylen Brown,2,11,36,1,Jump Shot,24,78,237,False
+Jaylen Brown,2,7,19,0,Jump Shot,25,24,250,False
+Jaylen Brown,4,3,29,1,Jump Shot,5,-46,35,True
+Jaylen Brown,1,10,40,0,Jump Shot,20,-71,196,True
+Jaylen Brown,2,0,0,0,Jump Shot,37,26,379,False
+Jaylen Brown,3,1,41,1,Jump Shot,6,18,64,True
+Jaylen Brown,2,0,48,0,Jump Shot,23,232,22,False
+Jaylen Brown,3,10,53,0,Jump Shot,20,209,20,True
+Jaylen Brown,3,6,42,0,Jump Shot,25,-147,206,False
+Jaylen Brown,2,3,37,0,Jump Shot,23,226,44,False
+Jaylen Brown,4,4,49,1,Jump Shot,25,-127,225,False
+Jaylen Brown,3,10,22,1,Jump Shot,10,93,43,True
+Jaylen Brown,1,10,27,0,Jump Shot,25,151,203,False
+Jaylen Brown,4,2,7,0,Jump Shot,24,-28,245,False
+Jaylen Brown,1,10,21,0,Jump Shot,25,-150,210,False
+Jaylen Brown,1,9,10,1,Jump Shot,22,-221,-12,False
+Jaylen Brown,1,8,8,0,Jump Shot,28,142,243,False
+Jaylen Brown,1,2,19,1,Jump Shot,23,231,38,False
+Jaylen Brown,2,2,2,1,Jump Shot,25,15,258,False
+Jaylen Brown,4,4,46,0,Jump Shot,17,81,159,True
+Jaylen Brown,3,4,40,0,Jump Shot,23,231,8,False
+Jaylen Brown,3,4,5,0,Jump Shot,23,-230,1,False
+Jaylen Brown,1,7,28,0,Jump Shot,22,-226,4,False
+Jaylen Brown,1,3,23,1,Jump Shot,23,-230,-5,False
+Jaylen Brown,1,2,49,0,Jump Shot,23,-234,-25,False
+Jaylen Brown,1,10,18,0,Jump Shot,24,117,217,False
+Jaylen Brown,1,11,16,0,Jump Shot,24,-153,194,False
+Jaylen Brown,1,0,52,0,Jump Shot,24,97,230,False
+Jaylen Brown,1,5,15,1,Jump Shot,23,227,75,False
+Jaylen Brown,1,1,8,1,Jump Shot,22,-224,7,False
+Jaylen Brown,2,2,17,1,Jump Shot,23,236,29,False
+Jaylen Brown,1,3,30,0,Jump Shot,23,234,17,False
+Jaylen Brown,1,10,55,0,Jump Shot,17,172,-6,True
+Jaylen Brown,1,2,8,1,Jump Shot,24,-217,121,False
+Jaylen Brown,4,7,2,1,Jump Shot,24,-194,142,False
+Jaylen Brown,1,4,46,1,Jump Shot,26,172,200,False
+Jaylen Brown,3,0,0,0,Jump Shot,12,-123,-1,True
+Jaylen Brown,3,9,10,0,Jump Shot,23,229,66,False
+Jaylen Brown,1,10,1,0,Jump Shot,23,230,33,False
+Jaylen Brown,4,1,56,0,Jump Shot,25,-220,119,False
+Jaylen Brown,1,5,47,1,Jump Shot,22,223,4,False
+Jaylen Brown,3,6,20,1,Jump Shot,22,-226,32,False
+Jaylen Brown,1,11,7,1,Jump Shot,23,-231,17,False
+Jaylen Brown,1,8,26,0,Jump Shot,23,231,59,False
+Jaylen Brown,3,5,51,1,Jump Shot,22,-225,20,False
+Jaylen Brown,2,1,57,1,Jump Shot,24,-162,184,False
+Jaylen Brown,4,2,20,0,Jump Shot,25,24,252,False
+Jaylen Brown,1,10,39,1,Jump Shot,15,133,77,True
+Jaylen Brown,2,1,57,0,Jump Shot,23,-231,-10,False
+Jaylen Brown,4,2,37,0,Jump Shot,23,229,45,False
+Jaylen Brown,1,3,7,0,Jump Shot,24,-170,176,False
+Jaylen Brown,1,9,30,0,Jump Shot,22,223,-3,False
+Jaylen Brown,2,1,47,0,Jump Shot,23,231,-14,False
+Jaylen Brown,1,6,12,0,Jump Shot,24,182,162,False
+Jaylen Brown,1,4,19,0,Jump Shot,23,-224,60,False
+Jaylen Brown,1,1,43,0,Jump Shot,24,-76,232,False
+Jaylen Brown,3,7,58,1,Jump Shot,26,-58,263,False
+Jaylen Brown,3,4,8,1,Jump Shot,22,-222,22,False
+Jaylen Brown,2,5,58,0,Jump Shot,3,-24,18,True
+Jaylen Brown,3,8,23,0,Jump Shot,7,-64,37,True
+Jaylen Brown,1,8,7,0,Jump Shot,23,157,181,False
+Jaylen Brown,3,6,14,0,Jump Shot,14,4,146,True
+Jaylen Brown,4,10,11,0,Jump Shot,27,128,241,False
+Jaylen Brown,2,1,22,0,Jump Shot,27,-8,273,False
+Jaylen Brown,2,0,23,0,Jump Shot,25,-193,170,False
+Jaylen Brown,2,1,30,0,Jump Shot,26,-198,174,False
+Jaylen Brown,2,2,57,0,Jump Shot,6,-40,53,True
+Jaylen Brown,3,0,1,0,Jump Shot,26,-173,205,False
+Jaylen Brown,1,5,57,0,Jump Shot,24,127,206,False
+Jaylen Brown,3,10,56,1,Jump Shot,17,-93,146,True
+Jaylen Brown,4,10,16,0,Jump Shot,25,-128,216,False
+Jaylen Brown,2,2,13,1,Jump Shot,25,105,231,False
+Jaylen Brown,3,7,27,1,Jump Shot,16,-136,89,True
+Jaylen Brown,3,10,15,0,Jump Shot,24,-223,104,False
+Jaylen Brown,4,6,43,0,Jump Shot,25,5,251,False
+Jaylen Brown,4,4,21,0,Jump Shot,22,225,12,False
+Jaylen Brown,1,2,13,0,Jump Shot,25,-128,216,False
+Jaylen Brown,1,11,13,0,Jump Shot,25,-52,252,False
+Jaylen Brown,1,2,45,1,Jump Shot,25,-114,224,False
+Jaylen Brown,2,3,19,1,Jump Shot,15,17,153,True
+Jaylen Brown,3,10,57,1,Jump Shot,25,105,233,False
+Jaylen Brown,3,4,48,1,Jump Shot,23,228,33,False
+Jaylen Brown,1,5,17,0,Jump Shot,16,141,85,True
+Jaylen Brown,3,7,35,0,Jump Shot,25,70,246,False
+Jaylen Brown,3,4,58,1,Jump Shot,22,-224,-15,False
+Jaylen Brown,1,2,2,0,Jump Shot,22,-222,27,False
+Jaylen Brown,3,4,5,1,Jump Shot,25,225,122,False
+Jaylen Brown,1,1,45,1,Jump Shot,23,231,4,False
+Jaylen Brown,3,8,41,1,Jump Shot,24,234,56,False
+Jaylen Brown,3,5,39,0,Jump Shot,26,-131,236,False
+Jaylen Brown,1,10,56,1,Jump Shot,23,230,36,False
+Jaylen Brown,3,4,31,1,Jump Shot,26,-178,193,False
+Jaylen Brown,3,7,37,0,Jump Shot,23,-231,17,False
+Jaylen Brown,3,0,32,1,Jump Shot,26,167,204,False
+Jaylen Brown,3,8,40,0,Jump Shot,23,-229,26,False
+Jaylen Brown,1,10,29,0,Jump Shot,25,-119,229,False
+Jaylen Brown,3,5,10,0,Jump Shot,23,231,10,False
+Jaylen Brown,3,9,17,0,Jump Shot,7,-36,69,True
+Jaylen Brown,2,10,28,0,Jump Shot,23,231,14,False
+Jaylen Brown,2,7,56,0,Jump Shot,22,-221,20,False
+Jaylen Brown,3,1,0,1,Jump Shot,25,223,130,False
+Jaylen Brown,2,11,37,0,Jump Shot,25,-210,138,False
+Jaylen Brown,1,5,47,0,Jump Shot,26,-109,239,False
+Jaylen Brown,3,5,28,1,Jump Shot,27,-197,186,False
+Jaylen Brown,1,3,30,0,Jump Shot,23,-235,-15,False
+Jaylen Brown,1,4,3,1,Jump Shot,26,-110,237,False
+Jaylen Brown,2,1,46,1,Jump Shot,22,227,4,False
+Jaylen Brown,4,4,29,0,Jump Shot,22,-228,0,False
+Jaylen Brown,1,2,30,1,Jump Shot,23,230,20,False
+Jaylen Brown,3,7,39,0,Jump Shot,12,111,50,True
+Jaylen Brown,1,8,10,0,Jump Shot,22,225,-9,False
+Jaylen Brown,4,0,50,0,Jump Shot,25,-210,138,False
+Jaylen Brown,2,11,48,1,Jump Shot,26,149,220,False
+Jaylen Brown,3,7,0,0,Jump Shot,4,-43,0,True
+Jaylen Brown,3,7,35,0,Jump Shot,22,220,8,False
+Jaylen Brown,3,7,20,0,Jump Shot,26,-90,253,False
+Jaylen Brown,3,1,26,1,Jump Shot,28,130,248,False
+Jaylen Brown,3,9,25,1,Jump Shot,23,229,56,False
+Jaylen Brown,1,7,35,0,Jump Shot,24,217,116,False
+Jaylen Brown,1,3,52,0,Jump Shot,26,-164,202,False
+Jaylen Brown,4,0,2,0,Jump Shot,25,-118,224,False
+Jaylen Brown,1,7,9,0,Jump Shot,25,-218,141,False
+Jaylen Brown,4,3,29,0,Jump Shot,23,-231,15,False
+Jaylen Brown,4,2,41,1,Jump Shot,17,-177,-10,True
+Jaylen Brown,4,1,31,0,Jump Shot,23,231,51,False
+Jaylen Brown,3,4,8,0,Jump Shot,25,-223,129,False
+Jaylen Brown,4,4,12,1,Jump Shot,23,-230,24,False
+Jaylen Brown,2,6,45,1,Jump Shot,22,222,-3,False
+Jaylen Brown,1,8,16,1,Jump Shot,25,196,157,False
+Jaylen Brown,1,9,33,0,Layup Shot,1,-6,12,True
+Jaylen Brown,4,8,55,1,Layup Shot,1,18,4,True
+Jaylen Brown,1,7,37,1,Layup Shot,2,-22,-6,True
+Jaylen Brown,4,8,30,1,Layup Shot,2,8,20,True
+Jaylen Brown,3,4,48,1,Layup Shot,2,25,10,True
+Jaylen Brown,1,5,3,0,Layup Shot,5,58,-2,True
+Jaylen Brown,2,5,33,0,Layup Shot,1,-9,10,True
+Jaylen Brown,4,10,53,0,Layup Shot,0,-5,6,True
+Jaylen Brown,3,5,6,0,Layup Shot,3,23,25,True
+Jaylen Brown,3,0,55,0,Layup Shot,1,-11,10,True
+Jaylen Brown,3,5,3,0,Layup Shot,3,30,0,True
+Jaylen Brown,3,4,59,1,Layup Shot,0,0,4,True
+Jaylen Brown,2,8,58,1,Layup Shot,0,-3,-3,True
+Jaylen Brown,3,7,33,0,Layup Shot,2,-8,25,True
+Jaylen Brown,1,8,58,1,Layup Shot,0,-9,0,True
+Jaylen Brown,1,2,27,0,Layup Shot,3,-14,35,True
+Jaylen Brown,1,9,7,0,Layup Shot,1,-9,-9,True
+Jaylen Brown,3,5,34,0,Layup Shot,3,-25,27,True
+Jaylen Brown,3,3,57,0,Layup Shot,3,-36,16,True
+Jaylen Brown,1,4,26,1,Layup Shot,0,2,6,True
+Jaylen Brown,5,2,32,1,Layup Shot,3,18,27,True
+Jaylen Brown,2,1,49,1,Layup Shot,2,2,25,True
+Jaylen Brown,2,3,4,1,Layup Shot,1,9,12,True
+Jaylen Brown,5,1,53,0,Layup Shot,2,2,26,True
+Jaylen Brown,2,3,17,1,Layup Shot,2,13,17,True
+Jaylen Brown,2,5,44,1,Layup Shot,1,-11,15,True
+Jaylen Brown,2,1,12,1,Layup Shot,0,3,-1,True
+Jaylen Brown,2,9,43,0,Layup Shot,2,-20,2,True
+Jaylen Brown,3,6,23,0,Layup Shot,1,11,14,True
+Jaylen Brown,3,3,8,0,Layup Shot,3,29,27,True
+Jaylen Brown,2,4,22,0,Layup Shot,2,-25,14,True
+Jaylen Brown,1,10,30,0,Layup Shot,2,21,6,True
+Jaylen Brown,4,4,30,1,Layup Shot,1,8,13,True
+Jaylen Brown,3,4,16,1,Layup Shot,2,14,25,True
+Jaylen Brown,1,4,45,0,Layup Shot,1,8,8,True
+Jaylen Brown,1,5,50,1,Layup Shot,1,-11,1,True
+Jaylen Brown,2,4,40,0,Layup Shot,2,-18,11,True
+Jaylen Brown,1,10,50,0,Layup Shot,1,2,13,True
+Jaylen Brown,4,4,5,1,Layup Shot,1,11,7,True
+Jaylen Brown,2,3,55,1,Layup Shot,0,5,8,True
+Jaylen Brown,4,4,25,0,Layup Shot,0,9,1,True
+Jaylen Brown,3,3,35,0,Layup Shot,3,-6,37,True
+Jaylen Brown,3,2,37,0,Layup Shot,1,3,13,True
+Jaylen Brown,1,11,45,0,Layup Shot,5,46,20,True
+Jaylen Brown,1,1,8,0,Layup Shot,1,-19,-3,True
+Jaylen Brown,2,0,45,0,Layup Shot,0,-5,0,True
+Jaylen Brown,3,6,51,1,Layup Shot,1,11,13,True
+Jaylen Brown,1,6,9,0,Layup Shot,3,8,29,True
+Jaylen Brown,1,6,45,1,Layup Shot,1,-5,13,True
+Jaylen Brown,3,11,32,0,Layup Shot,2,-20,10,True
+Jaylen Brown,2,4,19,0,Layup Shot,1,5,13,True
+Jaylen Brown,1,4,26,1,Layup Shot,1,-5,10,True
+Jaylen Brown,1,9,5,0,Layup Shot,2,5,23,True
+Jaylen Brown,1,11,8,1,Layup Shot,1,6,13,True
+Jaylen Brown,1,10,11,1,Layup Shot,1,-17,8,True
+Jaylen Brown,3,9,25,0,Layup Shot,2,12,25,True
+Jaylen Brown,3,7,42,0,Pullup Jump shot,7,30,65,True
+Jaylen Brown,1,0,36,1,Pullup Jump shot,25,-148,207,False
+Jaylen Brown,4,5,18,0,Pullup Jump shot,14,35,136,True
+Jaylen Brown,3,2,11,0,Pullup Jump shot,27,-8,272,False
+Jaylen Brown,4,5,3,0,Pullup Jump shot,19,-108,158,True
+Jaylen Brown,3,3,48,1,Pullup Jump shot,26,188,192,False
+Jaylen Brown,1,9,43,1,Pullup Jump shot,9,-96,-1,True
+Jaylen Brown,2,1,43,1,Pullup Jump shot,24,222,107,False
+Jaylen Brown,1,6,44,0,Pullup Jump shot,15,20,158,True
+Jaylen Brown,3,3,20,1,Pullup Jump shot,26,-86,255,False
+Jaylen Brown,1,8,23,0,Pullup Jump shot,20,135,159,True
+Jaylen Brown,1,10,45,0,Pullup Jump shot,14,16,142,True
+Jaylen Brown,2,1,17,0,Pullup Jump shot,23,230,7,False
+Jaylen Brown,3,4,9,1,Pullup Jump shot,15,-64,141,True
+Jaylen Brown,3,10,12,0,Pullup Jump shot,10,-53,85,True
+Jaylen Brown,1,8,16,0,Pullup Jump shot,21,-14,211,True
+Jaylen Brown,1,2,32,1,Pullup Jump shot,25,-224,115,False
+Jaylen Brown,1,11,16,0,Pullup Jump shot,19,-39,190,True
+Jaylen Brown,3,3,25,1,Pullup Jump shot,19,52,188,True
+Jaylen Brown,1,10,36,1,Pullup Jump shot,16,76,141,True
+Jaylen Brown,3,10,52,0,Pullup Jump shot,28,-55,278,False
+Jaylen Brown,1,11,3,1,Pullup Jump shot,13,-14,132,True
+Jaylen Brown,4,7,55,1,Pullup Jump shot,28,128,251,False
+Jaylen Brown,1,11,6,0,Pullup Jump shot,20,-11,202,True
+Jaylen Brown,1,11,6,0,Pullup Jump shot,18,-45,178,True
+Jaylen Brown,3,3,0,0,Pullup Jump shot,16,-41,158,True
+Jaylen Brown,4,2,25,1,Pullup Jump shot,25,-110,230,False
+Jaylen Brown,2,0,1,0,Pullup Jump shot,26,-50,265,False
+Jaylen Brown,1,5,12,1,Pullup Jump shot,22,67,211,True
+Jaylen Brown,1,10,41,0,Pullup Jump shot,17,2,176,True
+Jaylen Brown,1,10,57,0,Pullup Jump shot,20,99,180,True
+Jaylen Brown,4,1,28,0,Pullup Jump shot,20,23,201,True
+Jaylen Brown,3,9,19,1,Pullup Jump shot,17,20,171,True
+Jaylen Brown,3,9,1,0,Pullup Jump shot,25,-69,243,False
+Jaylen Brown,1,1,40,0,Pullup Jump shot,19,19,195,True
+Jaylen Brown,1,0,5,1,Pullup Jump shot,25,-185,180,False
+Jaylen Brown,1,10,25,1,Pullup Jump shot,26,144,217,False
+Jaylen Brown,2,2,42,0,Pullup Jump shot,20,134,155,True
+Jaylen Brown,4,9,58,1,Pullup Jump shot,26,-94,243,False
+Jaylen Brown,1,5,5,0,Pullup Jump shot,26,-157,210,False
+Jaylen Brown,2,2,52,0,Pullup Jump shot,11,-107,48,True
+Jaylen Brown,2,0,0,0,Pullup Jump shot,24,-181,167,False
+Jaylen Brown,4,6,8,1,Pullup Jump shot,11,-84,84,True
+Jaylen Brown,1,5,26,0,Pullup Jump shot,26,97,247,False
+Jaylen Brown,2,5,44,0,Pullup Jump shot,15,-63,142,True
+Jaylen Brown,4,9,3,1,Pullup Jump shot,15,-52,143,True
+Jaylen Brown,3,8,50,1,Pullup Jump shot,27,-71,265,False
+Jaylen Brown,4,11,28,0,Pullup Jump shot,20,-170,106,True
+Jaylen Brown,3,0,31,0,Pullup Jump shot,17,-71,156,True
+Jaylen Brown,1,3,22,1,Pullup Jump shot,19,75,179,True
+Jaylen Brown,1,0,1,0,Pullup Jump shot,47,-136,454,False
+Jaylen Brown,1,5,53,1,Pullup Jump shot,19,55,190,True
+Jaylen Brown,2,8,3,0,Pullup Jump shot,19,-103,162,True
+Jaylen Brown,1,6,9,1,Pullup Jump shot,20,168,110,True
+Jaylen Brown,1,7,20,1,Pullup Jump shot,18,-40,180,True
+Jaylen Brown,3,1,30,1,Putback Dunk Shot,0,0,-6,True
+Jaylen Brown,2,0,7,1,Putback Dunk Shot,0,0,-6,True
+Jaylen Brown,3,7,32,0,Putback Layup Shot,2,-6,21,True
+Jaylen Brown,1,7,54,1,Putback Layup Shot,1,6,9,True
+Jaylen Brown,1,10,48,0,Putback Layup Shot,3,-12,31,True
+Jaylen Brown,5,2,38,1,Putback Layup Shot,2,8,20,True
+Jaylen Brown,2,2,47,0,Putback Layup Shot,3,9,29,True
+Jaylen Brown,1,4,4,0,Putback Layup Shot,2,16,18,True
+Jaylen Brown,2,7,18,0,Putback Layup Shot,1,6,12,True
+Jaylen Brown,1,11,41,0,Putback Layup Shot,2,2,22,True
+Jaylen Brown,1,7,27,1,Reverse Dunk Shot,1,-11,-6,True
+Jaylen Brown,2,1,13,1,Reverse Dunk Shot,0,2,5,True
+Jaylen Brown,1,2,30,1,Reverse Layup Shot,1,-9,17,True
+Jaylen Brown,1,5,26,0,Reverse Layup Shot,2,20,2,True
+Jaylen Brown,1,4,29,0,Reverse Layup Shot,0,-2,6,True
+Jaylen Brown,2,7,22,0,Reverse Layup Shot,1,-8,15,True
+Jaylen Brown,3,3,52,0,Reverse Layup Shot,1,-3,15,True
+Jaylen Brown,4,5,54,0,Running Alley Oop Dunk Shot,1,10,15,True
+Jaylen Brown,1,5,4,1,Running Dunk Shot,2,0,21,True
+Jaylen Brown,3,6,3,1,Running Dunk Shot,2,15,15,True
+Jaylen Brown,3,11,3,1,Running Dunk Shot,1,7,8,True
+Jaylen Brown,1,4,43,1,Running Dunk Shot,0,-5,-3,True
+Jaylen Brown,1,3,36,1,Running Dunk Shot,1,2,11,True
+Jaylen Brown,4,9,50,1,Running Dunk Shot,1,11,10,True
+Jaylen Brown,2,7,20,1,Running Dunk Shot,0,5,-6,True
+Jaylen Brown,1,7,42,1,Running Dunk Shot,1,2,16,True
+Jaylen Brown,4,5,46,1,Running Finger Roll Layup Shot,2,10,26,True
+Jaylen Brown,1,5,56,1,Running Finger Roll Layup Shot,1,-6,10,True
+Jaylen Brown,2,1,27,1,Running Finger Roll Layup Shot,0,5,7,True
+Jaylen Brown,4,9,8,1,Running Finger Roll Layup Shot,1,19,6,True
+Jaylen Brown,1,5,38,1,Running Finger Roll Layup Shot,1,-13,1,True
+Jaylen Brown,1,9,19,1,Running Finger Roll Layup Shot,0,4,6,True
+Jaylen Brown,3,5,32,1,Running Finger Roll Layup Shot,2,19,22,True
+Jaylen Brown,1,2,47,1,Running Finger Roll Layup Shot,2,-1,26,True
+Jaylen Brown,1,4,38,1,Running Finger Roll Layup Shot,0,2,4,True
+Jaylen Brown,3,2,4,0,Running Finger Roll Layup Shot,4,24,41,True
+Jaylen Brown,4,5,29,1,Running Finger Roll Layup Shot,1,3,16,True
+Jaylen Brown,2,7,50,1,Running Jump Shot,11,-105,-34,True
+Jaylen Brown,1,5,20,0,Running Layup Shot,3,-2,37,True
+Jaylen Brown,1,10,35,1,Running Layup Shot,2,14,15,True
+Jaylen Brown,1,9,46,0,Running Layup Shot,0,-3,5,True
+Jaylen Brown,3,3,19,1,Running Layup Shot,1,-14,-2,True
+Jaylen Brown,4,0,0,1,Running Layup Shot,1,-16,10,True
+Jaylen Brown,3,9,37,0,Running Layup Shot,2,-3,22,True
+Jaylen Brown,1,5,31,1,Running Layup Shot,2,0,22,True
+Jaylen Brown,1,7,28,1,Running Layup Shot,1,-9,11,True
+Jaylen Brown,1,9,37,0,Running Layup Shot,1,15,8,True
+Jaylen Brown,1,4,53,1,Running Layup Shot,3,22,21,True
+Jaylen Brown,1,1,23,1,Running Layup Shot,1,6,15,True
+Jaylen Brown,1,1,28,1,Running Layup Shot,1,10,-13,True
+Jaylen Brown,1,2,18,1,Running Layup Shot,1,14,-3,True
+Jaylen Brown,1,3,30,0,Running Layup Shot,1,-3,10,True
+Jaylen Brown,3,5,53,0,Running Layup Shot,1,10,8,True
+Jaylen Brown,4,0,53,0,Running Layup Shot,0,0,-1,True
+Jaylen Brown,3,9,1,0,Running Layup Shot,3,-30,15,True
+Jaylen Brown,1,10,30,1,Running Layup Shot,1,-7,8,True
+Jaylen Brown,4,8,30,1,Running Layup Shot,0,-2,-2,True
+Jaylen Brown,1,7,34,1,Running Layup Shot,0,-1,6,True
+Jaylen Brown,1,9,36,1,Running Layup Shot,0,9,-3,True
+Jaylen Brown,3,8,9,1,Running Layup Shot,2,8,21,True
+Jaylen Brown,2,5,14,1,Running Layup Shot,0,2,7,True
+Jaylen Brown,2,4,43,0,Running Pull-Up Jump Shot,14,-6,149,True
+Jaylen Brown,1,5,53,1,Running Reverse Dunk Shot,0,-7,4,True
+Jaylen Brown,3,1,10,1,Running Reverse Dunk Shot,1,2,13,True
+Jaylen Brown,3,10,51,0,Running Reverse Layup Shot,1,18,7,True
+Jaylen Brown,1,2,55,0,Step Back Jump shot,10,95,45,True
+Jaylen Brown,3,7,28,0,Step Back Jump shot,10,0,103,True
+Jaylen Brown,1,9,28,1,Step Back Jump shot,20,203,22,True
+Jaylen Brown,5,1,39,1,Step Back Jump shot,19,130,151,True
+Jaylen Brown,1,6,36,0,Step Back Jump shot,19,-31,195,True
+Jaylen Brown,5,1,43,1,Step Back Jump shot,23,-223,67,False
+Jaylen Brown,3,3,11,0,Tip Dunk Shot,0,0,-6,True
+Jaylen Brown,4,10,7,1,Tip Layup Shot,0,0,-6,True
+Jaylen Brown,3,11,17,1,Tip Layup Shot,0,0,-6,True
+Jaylen Brown,3,11,20,0,Tip Layup Shot,0,0,-6,True
+Jaylen Brown,2,9,28,0,Tip Layup Shot,1,-2,18,True
+Jaylen Brown,3,9,32,0,Tip Layup Shot,4,-40,10,True
+Jaylen Brown,1,5,22,0,Tip Layup Shot,0,0,-6,True
+Jaylen Brown,1,11,17,0,Tip Layup Shot,0,0,-6,True
+Jaylen Brown,1,2,6,1,Tip Layup Shot,0,0,-6,True
+Jaylen Brown,1,6,8,0,Tip Layup Shot,9,92,34,True
+Jaylen Brown,3,6,45,1,Turnaround Fadeaway Bank Jump Shot,3,-30,22,True
+Jaylen Brown,5,3,26,0,Turnaround Fadeaway Bank Jump Shot,4,-33,25,True
+Jaylen Brown,1,4,52,1,Turnaround Fadeaway shot,5,15,50,True
+Jaylen Brown,1,8,57,1,Turnaround Fadeaway shot,11,-110,14,True
+Jaylen Brown,4,3,6,1,Turnaround Fadeaway shot,11,81,85,True
+Jaylen Brown,3,9,54,0,Turnaround Fadeaway shot,10,107,-16,True
+Jaylen Brown,1,11,7,0,Turnaround Fadeaway shot,9,-25,92,True
+Jaylen Brown,1,10,28,1,Turnaround Fadeaway shot,14,131,63,True
+Jaylen Brown,2,1,48,1,Turnaround Fadeaway shot,8,67,52,True
+Jaylen Brown,3,5,58,0,Turnaround Fadeaway shot,8,-49,68,True
+Jaylen Brown,1,9,9,1,Turnaround Fadeaway shot,6,-23,58,True
+Jaylen Brown,1,7,19,0,Turnaround Fadeaway shot,8,-36,75,True
+Jaylen Brown,2,0,30,0,Turnaround Hook Shot,10,-6,105,True
+Jaylen Brown,4,0,15,1,Turnaround Jump Shot,16,2,162,True
+Jaylen Brown,3,8,28,0,Turnaround Jump Shot,11,-63,92,True
+Jaylen Brown,3,2,43,1,Turnaround Jump Shot,8,76,26,True
+Jaylen Brown,4,10,7,0,Turnaround Jump Shot,16,169,-5,True
+Jaylen Brown,3,11,20,0,Turnaround Jump Shot,6,8,68,True
+Jaylen Brown,3,11,49,1,Turnaround Jump Shot,7,45,56,True
+Jaylen Brown,2,6,16,0,Turnaround Jump Shot,14,-45,133,True

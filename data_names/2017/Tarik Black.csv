@@ -1,0 +1,113 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Tarik Black,4,4,52,1,Alley Oop Dunk Shot,0,1,3,True
+Tarik Black,1,4,44,1,Alley Oop Dunk Shot,2,12,16,True
+Tarik Black,1,1,31,1,Alley Oop Dunk Shot,1,6,15,True
+Tarik Black,1,2,56,1,Alley Oop Dunk Shot,1,-8,6,True
+Tarik Black,1,1,41,1,Alley Oop Dunk Shot,0,-6,1,True
+Tarik Black,3,3,40,1,Alley Oop Dunk Shot,0,6,6,True
+Tarik Black,1,4,12,1,Cutting Dunk Shot,1,-8,15,True
+Tarik Black,3,6,44,1,Cutting Dunk Shot,0,-8,-1,True
+Tarik Black,3,3,10,1,Cutting Dunk Shot,0,2,-8,True
+Tarik Black,4,2,25,0,Cutting Dunk Shot,1,-3,10,True
+Tarik Black,6,3,30,1,Cutting Dunk Shot,0,7,6,True
+Tarik Black,1,0,8,1,Cutting Dunk Shot,2,11,17,True
+Tarik Black,4,8,2,1,Cutting Dunk Shot,2,-1,20,True
+Tarik Black,3,11,15,1,Cutting Dunk Shot,2,-4,24,True
+Tarik Black,1,3,7,1,Cutting Dunk Shot,0,3,4,True
+Tarik Black,4,2,54,1,Cutting Dunk Shot,1,-7,15,True
+Tarik Black,1,3,1,1,Cutting Dunk Shot,0,2,3,True
+Tarik Black,4,9,56,0,Cutting Dunk Shot,0,-2,0,True
+Tarik Black,4,5,12,1,Cutting Dunk Shot,0,2,5,True
+Tarik Black,3,1,35,1,Cutting Dunk Shot,2,-1,20,True
+Tarik Black,2,3,10,1,Cutting Dunk Shot,1,11,6,True
+Tarik Black,3,5,43,1,Cutting Dunk Shot,0,-5,1,True
+Tarik Black,1,0,15,1,Cutting Layup Shot,0,3,3,True
+Tarik Black,4,10,54,1,Cutting Layup Shot,0,1,5,True
+Tarik Black,4,11,8,0,Cutting Layup Shot,0,0,9,True
+Tarik Black,4,10,29,1,Cutting Layup Shot,1,-2,13,True
+Tarik Black,2,8,16,1,Cutting Layup Shot,2,-13,21,True
+Tarik Black,4,0,51,1,Cutting Layup Shot,2,9,27,True
+Tarik Black,1,0,46,0,Cutting Layup Shot,2,0,23,True
+Tarik Black,4,6,14,1,Cutting Layup Shot,0,2,-4,True
+Tarik Black,1,4,19,1,Cutting Layup Shot,2,-18,22,True
+Tarik Black,3,2,48,1,Cutting Layup Shot,1,13,10,True
+Tarik Black,3,4,16,1,Cutting Layup Shot,1,7,11,True
+Tarik Black,1,3,25,1,Cutting Layup Shot,2,-20,21,True
+Tarik Black,1,3,11,1,Cutting Layup Shot,2,16,25,True
+Tarik Black,1,4,14,0,Cutting Layup Shot,2,-3,26,True
+Tarik Black,2,4,33,1,Cutting Layup Shot,2,23,10,True
+Tarik Black,4,6,13,0,Cutting Layup Shot,2,12,20,True
+Tarik Black,1,1,8,1,Cutting Layup Shot,1,1,15,True
+Tarik Black,3,1,42,0,Driving Dunk Shot,3,4,37,True
+Tarik Black,1,4,38,1,Driving Dunk Shot,1,5,16,True
+Tarik Black,2,0,57,1,Driving Floating Jump Shot,3,3,33,True
+Tarik Black,4,1,44,0,Driving Floating Jump Shot,7,34,72,True
+Tarik Black,1,3,18,1,Driving Layup Shot,2,-7,20,True
+Tarik Black,2,11,4,0,Driving Layup Shot,6,41,53,True
+Tarik Black,2,10,22,1,Driving Layup Shot,7,-38,59,True
+Tarik Black,4,4,23,1,Driving Layup Shot,2,3,29,True
+Tarik Black,3,1,1,0,Driving Layup Shot,3,-17,32,True
+Tarik Black,4,3,18,1,Driving Layup Shot,0,6,7,True
+Tarik Black,3,5,37,0,Driving Layup Shot,1,0,15,True
+Tarik Black,4,0,35,0,Driving Layup Shot,1,1,11,True
+Tarik Black,4,11,38,0,Driving Layup Shot,5,36,46,True
+Tarik Black,2,9,42,0,Driving Layup Shot,1,-11,15,True
+Tarik Black,2,11,22,0,Driving Reverse Layup Shot,3,-29,22,True
+Tarik Black,5,0,47,1,Dunk Shot,1,9,14,True
+Tarik Black,4,9,15,1,Dunk Shot,0,4,-9,True
+Tarik Black,1,1,11,1,Dunk Shot,2,16,15,True
+Tarik Black,4,2,40,1,Dunk Shot,1,-11,4,True
+Tarik Black,3,8,57,1,Dunk Shot,1,-2,12,True
+Tarik Black,2,5,48,1,Dunk Shot,1,6,17,True
+Tarik Black,1,3,49,1,Dunk Shot,1,5,11,True
+Tarik Black,4,11,47,1,Dunk Shot,0,6,6,True
+Tarik Black,4,10,57,0,Hook Shot,2,16,20,True
+Tarik Black,1,10,5,1,Hook Shot,6,-59,27,True
+Tarik Black,4,3,12,0,Hook Shot,4,-27,37,True
+Tarik Black,4,4,11,1,Hook Shot,0,4,-6,True
+Tarik Black,4,7,52,0,Hook Shot,4,-16,37,True
+Tarik Black,4,4,58,0,Hook Shot,4,2,40,True
+Tarik Black,3,11,19,0,Hook Shot,5,29,41,True
+Tarik Black,4,1,20,0,Jump Shot,25,1,250,False
+Tarik Black,4,0,57,0,Jump Shot,23,-231,41,False
+Tarik Black,2,11,5,0,Jump Shot,18,161,87,True
+Tarik Black,4,8,0,0,Jump Shot,22,-226,11,False
+Tarik Black,4,0,50,0,Jump Shot,26,133,232,False
+Tarik Black,1,0,0,0,Jump Shot,61,-2,615,False
+Tarik Black,3,0,2,0,Jump Shot,21,139,170,True
+Tarik Black,1,2,33,0,Jump Shot,5,-3,50,True
+Tarik Black,4,3,41,0,Jump Shot,25,-173,184,False
+Tarik Black,3,1,27,1,Jump Shot,22,224,40,False
+Tarik Black,4,3,41,0,Jump Shot,26,5,260,False
+Tarik Black,4,1,8,0,Jump Shot,25,58,248,False
+Tarik Black,3,4,17,0,Jump Shot,26,199,178,False
+Tarik Black,4,11,7,1,Layup Shot,1,6,9,True
+Tarik Black,1,1,44,1,Layup Shot,2,20,9,True
+Tarik Black,2,6,13,1,Layup Shot,3,27,25,True
+Tarik Black,3,0,50,0,Layup Shot,1,-8,6,True
+Tarik Black,2,2,10,0,Layup Shot,3,-27,16,True
+Tarik Black,1,6,10,0,Layup Shot,2,-20,7,True
+Tarik Black,4,7,3,1,Layup Shot,1,7,9,True
+Tarik Black,1,10,50,0,Layup Shot,4,2,42,True
+Tarik Black,4,1,16,1,Layup Shot,0,6,-5,True
+Tarik Black,4,6,1,0,Layup Shot,0,2,1,True
+Tarik Black,3,4,55,0,Layup Shot,0,-8,0,True
+Tarik Black,1,8,52,1,Layup Shot,3,24,31,True
+Tarik Black,2,10,40,1,Layup Shot,0,3,8,True
+Tarik Black,2,10,17,1,Layup Shot,1,1,19,True
+Tarik Black,4,5,2,0,Layup Shot,2,18,18,True
+Tarik Black,4,11,36,0,Layup Shot,2,-2,22,True
+Tarik Black,4,0,0,0,Pullup Jump shot,28,156,238,False
+Tarik Black,1,3,33,1,Putback Dunk Shot,0,0,-6,True
+Tarik Black,4,5,56,1,Putback Layup Shot,1,8,9,True
+Tarik Black,4,11,2,0,Putback Layup Shot,0,-3,2,True
+Tarik Black,4,3,11,0,Putback Layup Shot,0,2,-1,True
+Tarik Black,4,11,6,0,Reverse Layup Shot,2,-13,18,True
+Tarik Black,1,5,43,0,Reverse Layup Shot,2,-9,27,True
+Tarik Black,2,3,8,0,Step Back Jump shot,16,136,90,True
+Tarik Black,4,7,38,0,Tip Dunk Shot,0,0,-6,True
+Tarik Black,4,4,26,1,Tip Dunk Shot,0,0,-6,True
+Tarik Black,6,2,52,0,Tip Layup Shot,0,0,-6,True
+Tarik Black,2,7,48,1,Tip Layup Shot,0,0,-6,True
+Tarik Black,4,1,36,1,Turnaround Fadeaway Bank Jump Shot,8,-6,84,True
+Tarik Black,3,6,39,0,Turnaround Jump Shot,3,10,32,True

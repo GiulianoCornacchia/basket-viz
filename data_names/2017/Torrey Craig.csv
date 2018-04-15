@@ -1,0 +1,121 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Torrey Craig,1,2,4,0,Alley Oop Dunk Shot,0,-3,0,True
+Torrey Craig,2,7,12,1,Alley Oop Dunk Shot,1,0,11,True
+Torrey Craig,1,4,2,1,Cutting Dunk Shot,0,-3,4,True
+Torrey Craig,2,8,23,1,Cutting Dunk Shot,0,-1,7,True
+Torrey Craig,1,1,42,1,Cutting Dunk Shot,1,-8,8,True
+Torrey Craig,2,9,58,1,Cutting Dunk Shot,1,-11,3,True
+Torrey Craig,1,3,25,1,Cutting Dunk Shot,2,-11,20,True
+Torrey Craig,1,0,40,1,Cutting Dunk Shot,2,8,20,True
+Torrey Craig,3,4,4,1,Cutting Layup Shot,2,20,10,True
+Torrey Craig,2,8,13,1,Cutting Layup Shot,2,-20,8,True
+Torrey Craig,3,5,41,1,Cutting Layup Shot,1,-15,-1,True
+Torrey Craig,2,2,41,1,Cutting Layup Shot,1,-17,10,True
+Torrey Craig,1,1,1,1,Cutting Layup Shot,1,9,6,True
+Torrey Craig,4,4,2,0,Cutting Layup Shot,1,-6,10,True
+Torrey Craig,2,6,23,0,Driving Finger Roll Layup Shot,1,10,6,True
+Torrey Craig,1,1,56,0,Driving Layup Shot,5,43,32,True
+Torrey Craig,2,11,21,0,Driving Layup Shot,4,27,37,True
+Torrey Craig,1,8,40,1,Driving Layup Shot,2,24,8,True
+Torrey Craig,1,0,36,0,Driving Layup Shot,0,-2,7,True
+Torrey Craig,4,8,39,0,Driving Layup Shot,1,-15,8,True
+Torrey Craig,4,9,19,0,Driving Layup Shot,2,8,20,True
+Torrey Craig,4,5,33,0,Driving Layup Shot,0,-3,7,True
+Torrey Craig,2,6,21,0,Driving Layup Shot,2,27,13,True
+Torrey Craig,2,6,21,1,Driving Layup Shot,2,14,16,True
+Torrey Craig,4,8,19,1,Driving Layup Shot,1,4,12,True
+Torrey Craig,2,10,59,0,Driving Layup Shot,2,-7,27,True
+Torrey Craig,4,4,35,1,Driving Layup Shot,1,17,8,True
+Torrey Craig,4,3,7,1,Driving Reverse Layup Shot,2,17,11,True
+Torrey Craig,4,2,24,1,Dunk Shot,0,-2,1,True
+Torrey Craig,4,2,51,1,Dunk Shot,0,-1,7,True
+Torrey Craig,3,0,0,0,Fadeaway Jump Shot,6,5,64,True
+Torrey Craig,3,3,39,0,Fadeaway Jump Shot,10,32,104,True
+Torrey Craig,3,0,41,0,Jump Shot,25,-128,218,False
+Torrey Craig,2,11,46,0,Jump Shot,25,-166,197,False
+Torrey Craig,1,1,46,0,Jump Shot,23,222,64,False
+Torrey Craig,4,7,2,0,Jump Shot,24,-227,80,False
+Torrey Craig,1,1,55,0,Jump Shot,22,222,10,False
+Torrey Craig,3,2,12,0,Jump Shot,23,232,47,False
+Torrey Craig,1,7,46,1,Jump Shot,20,209,18,True
+Torrey Craig,5,4,10,1,Jump Shot,23,232,47,False
+Torrey Craig,1,6,53,0,Jump Shot,22,-228,28,False
+Torrey Craig,4,10,42,0,Jump Shot,24,98,229,False
+Torrey Craig,1,5,44,0,Jump Shot,22,222,39,False
+Torrey Craig,4,11,20,0,Jump Shot,24,235,59,False
+Torrey Craig,3,1,17,1,Jump Shot,22,-223,-4,False
+Torrey Craig,2,7,28,1,Jump Shot,24,-187,153,False
+Torrey Craig,2,9,17,1,Jump Shot,26,225,131,False
+Torrey Craig,4,1,6,0,Jump Shot,16,60,156,True
+Torrey Craig,4,3,37,0,Jump Shot,25,-87,240,False
+Torrey Craig,3,0,0,0,Jump Shot,26,-107,237,False
+Torrey Craig,1,1,37,0,Jump Shot,25,231,103,False
+Torrey Craig,4,8,32,1,Jump Shot,20,-204,31,True
+Torrey Craig,4,5,27,0,Jump Shot,8,74,37,True
+Torrey Craig,1,0,6,1,Jump Shot,10,-85,61,True
+Torrey Craig,4,8,18,1,Jump Shot,23,-238,3,False
+Torrey Craig,2,10,46,0,Jump Shot,25,187,180,False
+Torrey Craig,3,5,18,0,Jump Shot,22,223,3,False
+Torrey Craig,4,9,51,0,Jump Shot,24,-30,242,False
+Torrey Craig,1,5,53,1,Jump Shot,9,84,49,True
+Torrey Craig,1,3,23,1,Jump Shot,22,-223,34,False
+Torrey Craig,2,9,25,0,Jump Shot,26,-130,231,False
+Torrey Craig,2,0,0,0,Jump Shot,68,-203,657,False
+Torrey Craig,3,3,28,0,Jump Shot,24,109,223,False
+Torrey Craig,1,11,11,1,Jump Shot,26,179,196,False
+Torrey Craig,2,0,19,0,Jump Shot,26,-172,196,False
+Torrey Craig,3,9,54,0,Jump Shot,22,-227,-1,False
+Torrey Craig,4,0,30,1,Jump Shot,24,212,131,False
+Torrey Craig,2,7,45,1,Jump Shot,24,-123,211,False
+Torrey Craig,2,10,19,0,Jump Shot,24,-169,183,False
+Torrey Craig,3,0,40,0,Jump Shot,24,-188,156,False
+Torrey Craig,1,1,27,0,Jump Shot,25,161,193,False
+Torrey Craig,2,5,39,0,Jump Shot,24,-161,187,False
+Torrey Craig,1,4,21,0,Jump Shot,22,225,9,False
+Torrey Craig,2,10,29,0,Jump Shot,25,118,228,False
+Torrey Craig,2,10,6,0,Jump Shot,6,11,62,True
+Torrey Craig,1,0,38,0,Jump Shot,27,96,261,False
+Torrey Craig,3,1,41,0,Jump Shot,25,106,233,False
+Torrey Craig,1,1,34,0,Jump Shot,26,131,225,False
+Torrey Craig,1,1,59,0,Jump Shot,22,-227,0,False
+Torrey Craig,2,11,42,0,Jump Shot,27,-155,222,False
+Torrey Craig,2,7,25,0,Jump Shot,22,-223,22,False
+Torrey Craig,3,6,41,1,Jump Shot,22,-226,24,False
+Torrey Craig,1,10,33,1,Jump Shot,25,-203,147,False
+Torrey Craig,4,3,10,0,Layup Shot,2,-13,21,True
+Torrey Craig,3,2,26,0,Layup Shot,2,26,0,True
+Torrey Craig,1,4,34,0,Layup Shot,1,-3,17,True
+Torrey Craig,4,5,0,0,Layup Shot,1,10,17,True
+Torrey Craig,4,7,0,1,Layup Shot,0,-1,8,True
+Torrey Craig,4,10,13,1,Layup Shot,1,-6,14,True
+Torrey Craig,2,10,20,1,Layup Shot,2,-4,20,True
+Torrey Craig,4,1,22,0,Layup Shot,1,18,-1,True
+Torrey Craig,1,0,54,0,Layup Shot,2,12,25,True
+Torrey Craig,4,3,7,0,Pullup Jump shot,24,55,242,False
+Torrey Craig,1,0,0,0,Pullup Jump shot,49,-116,477,False
+Torrey Craig,3,2,9,1,Pullup Jump shot,16,149,64,True
+Torrey Craig,2,1,7,1,Putback Dunk Shot,0,0,-6,True
+Torrey Craig,1,2,9,1,Putback Dunk Shot,0,0,-6,True
+Torrey Craig,2,8,9,0,Putback Layup Shot,3,3,31,True
+Torrey Craig,1,3,32,1,Putback Layup Shot,0,0,4,True
+Torrey Craig,4,3,7,0,Putback Layup Shot,2,-9,19,True
+Torrey Craig,2,1,3,1,Putback Layup Shot,0,0,-6,True
+Torrey Craig,1,2,24,0,Putback Layup Shot,2,-27,11,True
+Torrey Craig,4,4,4,1,Putback Layup Shot,1,-9,13,True
+Torrey Craig,3,0,2,1,Putback Layup Shot,0,0,-6,True
+Torrey Craig,1,2,22,1,Putback Layup Shot,1,5,12,True
+Torrey Craig,2,7,47,0,Putback Layup Shot,2,-12,22,True
+Torrey Craig,3,5,3,1,Putback Layup Shot,1,-14,8,True
+Torrey Craig,1,2,26,0,Running Finger Roll Layup Shot,2,-11,25,True
+Torrey Craig,4,1,26,0,Running Finger Roll Layup Shot,2,8,25,True
+Torrey Craig,3,0,0,0,Running Jump Shot,55,158,535,False
+Torrey Craig,1,8,4,1,Running Layup Shot,3,31,13,True
+Torrey Craig,3,1,39,0,Running Layup Shot,2,23,6,True
+Torrey Craig,1,0,27,0,Running Layup Shot,3,-23,29,True
+Torrey Craig,2,2,14,1,Tip Dunk Shot,0,0,-6,True
+Torrey Craig,1,0,4,1,Tip Layup Shot,0,0,-6,True
+Torrey Craig,4,8,35,1,Tip Layup Shot,0,0,-6,True
+Torrey Craig,1,2,47,1,Tip Layup Shot,0,0,-6,True
+Torrey Craig,4,8,9,0,Tip Layup Shot,0,0,-6,True
+Torrey Craig,2,6,21,1,Tip Layup Shot,0,0,-6,True
+Torrey Craig,3,2,21,1,Tip Layup Shot,0,0,-6,True

@@ -1,0 +1,818 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Buddy Hield,4,4,55,0,Cutting Dunk Shot,2,-20,15,True
+Buddy Hield,2,3,39,1,Cutting Finger Roll Layup Shot,1,-4,11,True
+Buddy Hield,1,1,32,1,Cutting Finger Roll Layup Shot,1,5,10,True
+Buddy Hield,2,5,9,1,Cutting Layup Shot,0,-1,0,True
+Buddy Hield,4,4,47,0,Cutting Layup Shot,3,29,10,True
+Buddy Hield,3,6,46,1,Cutting Layup Shot,0,4,4,True
+Buddy Hield,4,2,51,0,Cutting Layup Shot,2,6,21,True
+Buddy Hield,2,0,42,0,Cutting Layup Shot,1,-12,12,True
+Buddy Hield,2,9,21,1,Cutting Layup Shot,1,-5,11,True
+Buddy Hield,2,3,9,0,Cutting Layup Shot,2,-25,13,True
+Buddy Hield,1,1,57,1,Cutting Layup Shot,1,-14,8,True
+Buddy Hield,1,2,1,1,Cutting Layup Shot,1,-16,4,True
+Buddy Hield,1,9,26,1,Cutting Layup Shot,2,-19,7,True
+Buddy Hield,4,2,19,1,Cutting Layup Shot,1,18,8,True
+Buddy Hield,1,6,11,1,Cutting Layup Shot,0,0,5,True
+Buddy Hield,1,2,42,1,Cutting Layup Shot,2,16,16,True
+Buddy Hield,4,5,16,1,Driving Dunk Shot,0,-3,8,True
+Buddy Hield,4,9,2,1,Driving Finger Roll Layup Shot,1,-7,8,True
+Buddy Hield,2,10,52,1,Driving Finger Roll Layup Shot,1,-1,16,True
+Buddy Hield,4,6,32,1,Driving Finger Roll Layup Shot,0,-8,1,True
+Buddy Hield,3,1,52,0,Driving Finger Roll Layup Shot,0,-3,8,True
+Buddy Hield,3,5,2,1,Driving Floating Bank Jump Shot,7,68,26,True
+Buddy Hield,4,2,45,0,Driving Floating Bank Jump Shot,6,-55,31,True
+Buddy Hield,4,9,28,1,Driving Floating Bank Jump Shot,8,74,41,True
+Buddy Hield,2,8,20,1,Driving Floating Bank Jump Shot,3,36,14,True
+Buddy Hield,4,11,3,0,Driving Floating Bank Jump Shot,15,-110,110,True
+Buddy Hield,2,4,11,1,Driving Floating Bank Jump Shot,3,-10,30,True
+Buddy Hield,3,5,13,1,Driving Floating Jump Shot,7,24,72,True
+Buddy Hield,4,9,14,0,Driving Floating Jump Shot,10,48,89,True
+Buddy Hield,1,3,59,0,Driving Floating Jump Shot,17,50,163,True
+Buddy Hield,3,1,38,0,Driving Floating Jump Shot,8,-84,5,True
+Buddy Hield,4,1,42,0,Driving Floating Jump Shot,15,-24,151,True
+Buddy Hield,3,2,50,0,Driving Floating Jump Shot,17,139,101,True
+Buddy Hield,2,10,25,1,Driving Layup Shot,3,-28,20,True
+Buddy Hield,3,5,40,0,Driving Layup Shot,2,-18,10,True
+Buddy Hield,2,7,37,0,Driving Layup Shot,3,25,27,True
+Buddy Hield,3,6,29,0,Driving Layup Shot,0,-3,6,True
+Buddy Hield,1,1,52,0,Driving Layup Shot,2,20,22,True
+Buddy Hield,2,4,45,1,Driving Layup Shot,3,21,25,True
+Buddy Hield,4,0,33,0,Driving Layup Shot,2,13,16,True
+Buddy Hield,2,3,47,0,Driving Layup Shot,2,-25,6,True
+Buddy Hield,4,0,41,1,Driving Layup Shot,1,10,5,True
+Buddy Hield,1,1,35,1,Driving Layup Shot,3,20,27,True
+Buddy Hield,3,0,4,1,Driving Layup Shot,5,-31,40,True
+Buddy Hield,2,7,27,0,Driving Layup Shot,6,-58,17,True
+Buddy Hield,4,4,42,1,Driving Layup Shot,2,-9,27,True
+Buddy Hield,2,5,19,0,Driving Layup Shot,2,20,16,True
+Buddy Hield,1,0,39,0,Driving Layup Shot,3,3,36,True
+Buddy Hield,4,0,7,1,Driving Layup Shot,2,-24,1,True
+Buddy Hield,3,9,30,1,Driving Layup Shot,1,-16,10,True
+Buddy Hield,2,11,13,1,Driving Layup Shot,3,19,25,True
+Buddy Hield,4,7,45,0,Driving Layup Shot,2,-23,4,True
+Buddy Hield,4,5,34,0,Driving Layup Shot,4,-40,20,True
+Buddy Hield,3,0,21,1,Driving Layup Shot,1,3,16,True
+Buddy Hield,1,0,27,1,Driving Layup Shot,0,-3,1,True
+Buddy Hield,2,11,40,0,Driving Layup Shot,3,17,27,True
+Buddy Hield,2,3,7,1,Driving Layup Shot,2,18,10,True
+Buddy Hield,2,2,49,0,Driving Layup Shot,0,0,8,True
+Buddy Hield,2,7,31,1,Driving Layup Shot,2,22,17,True
+Buddy Hield,4,5,1,1,Driving Layup Shot,2,22,-1,True
+Buddy Hield,3,6,1,1,Driving Layup Shot,2,-26,0,True
+Buddy Hield,4,5,28,0,Driving Layup Shot,1,19,3,True
+Buddy Hield,4,11,40,0,Driving Layup Shot,4,32,37,True
+Buddy Hield,4,3,54,0,Driving Layup Shot,1,5,10,True
+Buddy Hield,2,2,51,0,Driving Layup Shot,2,-19,8,True
+Buddy Hield,4,10,44,0,Driving Layup Shot,1,-18,7,True
+Buddy Hield,4,5,51,1,Driving Layup Shot,1,-1,15,True
+Buddy Hield,1,8,38,0,Driving Layup Shot,2,-11,24,True
+Buddy Hield,4,0,33,0,Driving Layup Shot,4,-36,20,True
+Buddy Hield,3,4,32,0,Driving Layup Shot,2,-25,5,True
+Buddy Hield,2,10,33,1,Driving Layup Shot,5,50,13,True
+Buddy Hield,2,2,20,0,Driving Layup Shot,3,-26,19,True
+Buddy Hield,2,3,19,0,Driving Layup Shot,1,-3,17,True
+Buddy Hield,4,2,31,0,Driving Layup Shot,3,-24,25,True
+Buddy Hield,2,8,58,1,Driving Layup Shot,3,-32,9,True
+Buddy Hield,3,4,6,1,Driving Layup Shot,3,-29,25,True
+Buddy Hield,2,9,29,0,Driving Layup Shot,2,8,25,True
+Buddy Hield,2,6,30,1,Driving Layup Shot,3,27,19,True
+Buddy Hield,1,11,39,1,Driving Layup Shot,0,-2,8,True
+Buddy Hield,4,0,0,0,Driving Layup Shot,4,-27,34,True
+Buddy Hield,4,6,20,0,Driving Layup Shot,2,-23,10,True
+Buddy Hield,4,11,6,1,Driving Layup Shot,3,-29,11,True
+Buddy Hield,4,0,8,0,Driving Layup Shot,5,33,41,True
+Buddy Hield,3,3,38,0,Driving Layup Shot,3,-18,26,True
+Buddy Hield,3,3,59,0,Driving Layup Shot,2,-8,22,True
+Buddy Hield,3,5,18,0,Driving Layup Shot,2,-7,21,True
+Buddy Hield,1,2,18,1,Driving Layup Shot,2,-24,-1,True
+Buddy Hield,2,8,13,1,Driving Layup Shot,2,-26,4,True
+Buddy Hield,3,1,57,1,Driving Layup Shot,2,-20,20,True
+Buddy Hield,2,2,56,1,Driving Reverse Layup Shot,2,16,13,True
+Buddy Hield,1,6,4,0,Driving Reverse Layup Shot,2,18,16,True
+Buddy Hield,1,0,30,1,Dunk Shot,0,0,6,True
+Buddy Hield,4,1,25,1,Dunk Shot,2,-16,20,True
+Buddy Hield,1,6,11,0,Fadeaway Jump Shot,17,173,15,True
+Buddy Hield,2,4,42,0,Fadeaway Jump Shot,6,-63,11,True
+Buddy Hield,1,5,27,1,Fadeaway Jump Shot,5,-48,24,True
+Buddy Hield,2,10,48,0,Fadeaway Jump Shot,15,67,145,True
+Buddy Hield,2,8,8,0,Fadeaway Jump Shot,12,122,30,True
+Buddy Hield,2,11,22,1,Fadeaway Jump Shot,8,-80,41,True
+Buddy Hield,1,0,7,1,Fadeaway Jump Shot,14,-145,-5,True
+Buddy Hield,2,9,4,1,Fadeaway Jump Shot,25,-208,139,False
+Buddy Hield,4,11,26,0,Fadeaway Jump Shot,10,-86,63,True
+Buddy Hield,3,0,10,1,Fadeaway Jump Shot,25,-153,209,False
+Buddy Hield,1,0,59,1,Fadeaway Jump Shot,18,-187,15,True
+Buddy Hield,4,9,48,1,Fadeaway Jump Shot,19,-130,146,True
+Buddy Hield,2,9,42,0,Fadeaway Jump Shot,11,107,52,True
+Buddy Hield,4,4,47,0,Fadeaway Jump Shot,22,221,26,False
+Buddy Hield,3,2,40,0,Fadeaway Jump Shot,17,-131,117,True
+Buddy Hield,2,5,30,1,Fadeaway Jump Shot,13,-134,13,True
+Buddy Hield,4,4,51,0,Fadeaway Jump Shot,9,-72,57,True
+Buddy Hield,4,0,11,1,Fadeaway Jump Shot,23,226,80,False
+Buddy Hield,2,10,56,0,Fadeaway Jump Shot,7,74,2,True
+Buddy Hield,4,1,13,0,Fadeaway Jump Shot,12,2,122,True
+Buddy Hield,2,8,20,0,Fadeaway Jump Shot,18,-54,179,True
+Buddy Hield,4,5,59,1,Fadeaway Jump Shot,17,45,171,True
+Buddy Hield,4,2,56,0,Fadeaway Jump Shot,16,-160,10,True
+Buddy Hield,4,5,40,1,Fadeaway Jump Shot,7,-29,64,True
+Buddy Hield,3,5,57,0,Fadeaway Jump Shot,19,-134,147,True
+Buddy Hield,2,9,57,0,Fadeaway Jump Shot,18,-128,138,True
+Buddy Hield,4,1,18,0,Fadeaway Jump Shot,15,-146,50,True
+Buddy Hield,1,1,29,0,Fadeaway Jump Shot,9,-96,0,True
+Buddy Hield,1,10,51,1,Fadeaway Jump Shot,16,160,7,True
+Buddy Hield,2,8,47,0,Fadeaway Jump Shot,24,28,245,False
+Buddy Hield,1,5,51,1,Fadeaway Jump Shot,13,-109,75,True
+Buddy Hield,2,10,47,0,Fadeaway Jump Shot,20,123,167,True
+Buddy Hield,2,10,56,1,Fadeaway Jump Shot,15,-29,157,True
+Buddy Hield,3,0,35,0,Fadeaway Jump Shot,14,-83,118,True
+Buddy Hield,3,0,0,0,Fadeaway Jump Shot,24,-186,162,False
+Buddy Hield,3,3,45,0,Fadeaway Jump Shot,12,-46,120,True
+Buddy Hield,4,0,13,1,Fadeaway Jump Shot,19,-193,33,True
+Buddy Hield,4,9,22,0,Fadeaway Jump Shot,19,-163,99,True
+Buddy Hield,1,7,4,0,Fadeaway Jump Shot,18,-81,163,True
+Buddy Hield,4,7,20,1,Fadeaway Jump Shot,7,26,67,True
+Buddy Hield,3,1,22,0,Fadeaway Jump Shot,12,-57,106,True
+Buddy Hield,2,4,30,0,Fadeaway Jump Shot,23,231,27,False
+Buddy Hield,1,0,23,1,Finger Roll Layup Shot,3,-2,30,True
+Buddy Hield,4,11,25,0,Floating Jump shot,11,14,114,True
+Buddy Hield,2,6,41,0,Floating Jump shot,11,-109,46,True
+Buddy Hield,2,2,32,0,Floating Jump shot,13,139,7,True
+Buddy Hield,3,10,58,0,Floating Jump shot,12,-52,110,True
+Buddy Hield,1,0,0,0,Floating Jump shot,20,-182,103,True
+Buddy Hield,4,8,21,0,Floating Jump shot,16,51,155,True
+Buddy Hield,2,4,59,0,Floating Jump shot,14,42,136,True
+Buddy Hield,2,7,5,0,Floating Jump shot,6,-65,25,True
+Buddy Hield,4,0,0,0,Floating Jump shot,16,-145,86,True
+Buddy Hield,2,9,53,0,Floating Jump shot,6,-53,29,True
+Buddy Hield,3,3,18,0,Floating Jump shot,14,-96,112,True
+Buddy Hield,1,1,12,0,Floating Jump shot,10,12,105,True
+Buddy Hield,3,0,0,0,Floating Jump shot,39,151,362,False
+Buddy Hield,3,4,13,0,Floating Jump shot,8,-12,88,True
+Buddy Hield,1,2,49,1,Hook Shot,3,-13,32,True
+Buddy Hield,1,3,56,0,Hook Shot,12,-103,78,True
+Buddy Hield,3,0,0,0,Jump Bank Shot,24,-230,71,False
+Buddy Hield,2,11,13,1,Jump Bank Shot,10,-103,37,True
+Buddy Hield,4,5,51,1,Jump Bank Shot,14,-103,97,True
+Buddy Hield,1,6,22,0,Jump Bank Shot,4,48,10,True
+Buddy Hield,2,11,2,0,Jump Shot,24,142,203,False
+Buddy Hield,2,11,21,0,Jump Shot,22,-228,17,False
+Buddy Hield,1,9,27,0,Jump Shot,19,152,114,True
+Buddy Hield,2,8,11,0,Jump Shot,6,-58,39,True
+Buddy Hield,2,3,43,1,Jump Shot,24,216,121,False
+Buddy Hield,2,0,24,0,Jump Shot,25,101,230,False
+Buddy Hield,2,10,11,0,Jump Shot,26,-198,174,False
+Buddy Hield,4,10,14,0,Jump Shot,24,-225,106,False
+Buddy Hield,4,8,34,1,Jump Shot,20,-18,201,True
+Buddy Hield,2,6,25,0,Jump Shot,16,-2,168,True
+Buddy Hield,2,2,32,0,Jump Shot,25,-204,146,False
+Buddy Hield,2,3,59,0,Jump Shot,25,106,227,False
+Buddy Hield,2,3,36,0,Jump Shot,25,25,252,False
+Buddy Hield,4,7,50,1,Jump Shot,24,-195,152,False
+Buddy Hield,4,1,56,0,Jump Shot,23,-231,63,False
+Buddy Hield,4,8,27,1,Jump Shot,25,61,245,False
+Buddy Hield,4,5,52,1,Jump Shot,25,76,240,False
+Buddy Hield,2,4,41,0,Jump Shot,27,-93,260,False
+Buddy Hield,4,6,48,1,Jump Shot,22,-226,20,False
+Buddy Hield,4,1,33,1,Jump Shot,24,169,176,False
+Buddy Hield,4,5,4,0,Jump Shot,25,-182,179,False
+Buddy Hield,1,2,3,0,Jump Shot,25,-162,193,False
+Buddy Hield,1,2,46,1,Jump Shot,23,-232,15,False
+Buddy Hield,4,3,22,0,Jump Shot,23,-236,-9,False
+Buddy Hield,4,5,46,1,Jump Shot,25,-38,248,False
+Buddy Hield,4,7,20,0,Jump Shot,24,-187,162,False
+Buddy Hield,4,0,0,1,Jump Shot,25,-220,132,False
+Buddy Hield,4,0,42,0,Jump Shot,23,233,34,False
+Buddy Hield,4,6,41,0,Jump Shot,28,62,281,False
+Buddy Hield,4,2,47,0,Jump Shot,14,2,142,True
+Buddy Hield,2,4,6,1,Jump Shot,24,-151,197,False
+Buddy Hield,2,7,14,0,Jump Shot,18,85,161,True
+Buddy Hield,2,1,4,0,Jump Shot,23,-226,77,False
+Buddy Hield,2,8,21,1,Jump Shot,23,-234,4,False
+Buddy Hield,4,2,48,1,Jump Shot,12,-49,111,True
+Buddy Hield,1,0,36,1,Jump Shot,24,-187,159,False
+Buddy Hield,4,11,9,0,Jump Shot,25,67,243,False
+Buddy Hield,3,1,31,1,Jump Shot,24,175,177,False
+Buddy Hield,2,4,25,0,Jump Shot,24,-230,87,False
+Buddy Hield,1,1,56,0,Jump Shot,17,-72,159,True
+Buddy Hield,4,5,19,0,Jump Shot,15,-9,151,True
+Buddy Hield,4,7,50,0,Jump Shot,23,-233,21,False
+Buddy Hield,4,8,44,1,Jump Shot,18,179,32,True
+Buddy Hield,3,5,25,0,Jump Shot,26,-85,246,False
+Buddy Hield,4,9,48,1,Jump Shot,11,46,109,True
+Buddy Hield,2,10,58,1,Jump Shot,17,-84,153,True
+Buddy Hield,4,6,17,0,Jump Shot,25,24,253,False
+Buddy Hield,4,7,56,1,Jump Shot,25,36,256,False
+Buddy Hield,1,6,8,0,Jump Shot,15,119,106,True
+Buddy Hield,4,3,33,1,Jump Shot,25,-128,215,False
+Buddy Hield,1,5,18,1,Jump Shot,24,193,158,False
+Buddy Hield,2,0,3,0,Jump Shot,25,193,159,False
+Buddy Hield,3,11,41,0,Jump Shot,18,-186,37,True
+Buddy Hield,3,4,56,1,Jump Shot,20,-121,162,True
+Buddy Hield,3,1,19,0,Jump Shot,25,-145,207,False
+Buddy Hield,4,9,30,1,Jump Shot,23,-232,47,False
+Buddy Hield,2,0,42,0,Jump Shot,19,186,62,True
+Buddy Hield,2,6,47,1,Jump Shot,25,136,218,False
+Buddy Hield,4,2,30,0,Jump Shot,25,-179,181,False
+Buddy Hield,2,4,29,1,Jump Shot,25,-217,138,False
+Buddy Hield,4,10,31,0,Jump Shot,24,-176,175,False
+Buddy Hield,1,5,35,0,Jump Shot,24,-205,137,False
+Buddy Hield,1,2,51,0,Jump Shot,28,159,239,False
+Buddy Hield,2,7,11,0,Jump Shot,23,-232,32,False
+Buddy Hield,2,6,28,0,Jump Shot,25,-185,177,False
+Buddy Hield,1,8,33,0,Jump Shot,23,-233,9,False
+Buddy Hield,4,0,28,1,Jump Shot,27,-117,252,False
+Buddy Hield,3,0,8,1,Jump Shot,23,85,215,True
+Buddy Hield,3,11,18,0,Jump Shot,17,-35,168,True
+Buddy Hield,2,4,0,1,Jump Shot,16,139,92,True
+Buddy Hield,4,4,28,1,Jump Shot,26,169,198,False
+Buddy Hield,2,2,26,1,Jump Shot,20,-198,66,True
+Buddy Hield,2,10,23,1,Jump Shot,25,216,143,False
+Buddy Hield,2,4,58,1,Jump Shot,26,86,246,False
+Buddy Hield,4,3,55,0,Jump Shot,25,228,124,False
+Buddy Hield,2,7,37,0,Jump Shot,18,29,180,True
+Buddy Hield,2,0,0,0,Jump Shot,23,225,75,False
+Buddy Hield,2,6,42,0,Jump Shot,26,146,217,False
+Buddy Hield,3,2,29,1,Jump Shot,22,225,35,False
+Buddy Hield,2,10,48,0,Jump Shot,18,185,-31,True
+Buddy Hield,2,0,0,0,Jump Shot,48,2,489,False
+Buddy Hield,4,10,32,0,Jump Shot,26,136,226,False
+Buddy Hield,4,10,37,0,Jump Shot,27,-12,274,False
+Buddy Hield,3,4,44,1,Jump Shot,23,-230,16,False
+Buddy Hield,2,6,33,0,Jump Shot,9,-90,9,True
+Buddy Hield,2,11,44,1,Jump Shot,24,93,232,False
+Buddy Hield,4,1,3,0,Jump Shot,26,-100,249,False
+Buddy Hield,4,1,45,1,Jump Shot,27,-169,214,False
+Buddy Hield,2,6,59,0,Jump Shot,17,-14,172,True
+Buddy Hield,1,1,45,1,Jump Shot,15,125,93,True
+Buddy Hield,1,0,5,1,Jump Shot,22,-223,5,False
+Buddy Hield,1,2,37,0,Jump Shot,24,-25,245,False
+Buddy Hield,4,3,13,1,Jump Shot,15,128,94,True
+Buddy Hield,4,5,27,1,Jump Shot,23,228,63,False
+Buddy Hield,2,8,57,1,Jump Shot,25,-128,220,False
+Buddy Hield,4,2,28,0,Jump Shot,24,44,246,False
+Buddy Hield,4,2,1,0,Jump Shot,25,-91,241,False
+Buddy Hield,4,3,4,1,Jump Shot,27,123,246,False
+Buddy Hield,4,10,1,0,Jump Shot,25,135,220,False
+Buddy Hield,3,3,39,0,Jump Shot,21,-105,187,True
+Buddy Hield,2,11,10,1,Jump Shot,24,-221,107,False
+Buddy Hield,1,3,26,0,Jump Shot,24,223,91,False
+Buddy Hield,1,2,10,0,Jump Shot,20,-104,174,True
+Buddy Hield,3,5,45,1,Jump Shot,25,-221,123,False
+Buddy Hield,3,1,27,0,Jump Shot,24,-44,243,False
+Buddy Hield,4,11,41,1,Jump Shot,22,-24,221,True
+Buddy Hield,2,11,14,0,Jump Shot,20,56,201,True
+Buddy Hield,4,10,41,1,Jump Shot,24,-240,39,False
+Buddy Hield,2,3,51,0,Jump Shot,24,-165,183,False
+Buddy Hield,2,4,7,0,Jump Shot,24,-112,221,False
+Buddy Hield,1,0,23,1,Jump Shot,28,-136,248,False
+Buddy Hield,4,7,19,0,Jump Shot,24,-207,130,False
+Buddy Hield,2,4,29,1,Jump Shot,17,110,141,True
+Buddy Hield,3,2,0,0,Jump Shot,16,0,160,True
+Buddy Hield,4,10,33,0,Jump Shot,25,-165,190,False
+Buddy Hield,2,10,3,1,Jump Shot,24,-218,109,False
+Buddy Hield,4,5,16,0,Jump Shot,16,79,147,True
+Buddy Hield,4,10,6,0,Jump Shot,26,-137,223,False
+Buddy Hield,2,10,23,0,Jump Shot,25,-135,215,False
+Buddy Hield,2,7,10,1,Jump Shot,24,-4,246,False
+Buddy Hield,2,3,39,0,Jump Shot,23,-230,45,False
+Buddy Hield,4,11,19,1,Jump Shot,19,99,164,True
+Buddy Hield,3,0,28,0,Jump Shot,24,-211,130,False
+Buddy Hield,1,7,11,0,Jump Shot,24,144,201,False
+Buddy Hield,2,0,35,1,Jump Shot,26,3,260,False
+Buddy Hield,4,10,9,0,Jump Shot,10,-96,40,True
+Buddy Hield,3,0,47,0,Jump Shot,25,122,227,False
+Buddy Hield,2,0,4,1,Jump Shot,22,-225,-17,False
+Buddy Hield,4,9,16,1,Jump Shot,25,6,258,False
+Buddy Hield,2,11,14,0,Jump Shot,24,-229,95,False
+Buddy Hield,1,5,52,0,Jump Shot,25,156,197,False
+Buddy Hield,4,7,46,0,Jump Shot,23,-232,14,False
+Buddy Hield,4,9,18,0,Jump Shot,22,226,19,False
+Buddy Hield,4,5,16,0,Jump Shot,18,157,98,True
+Buddy Hield,2,2,34,1,Jump Shot,25,-183,172,False
+Buddy Hield,4,5,1,0,Jump Shot,14,74,122,True
+Buddy Hield,1,7,52,1,Jump Shot,25,-198,155,False
+Buddy Hield,3,0,0,0,Jump Shot,26,214,156,False
+Buddy Hield,1,2,26,0,Jump Shot,24,114,218,False
+Buddy Hield,1,10,14,0,Jump Shot,25,-174,185,False
+Buddy Hield,3,2,10,0,Jump Shot,24,182,169,False
+Buddy Hield,2,5,11,1,Jump Shot,25,-98,230,False
+Buddy Hield,2,3,21,1,Jump Shot,25,24,251,False
+Buddy Hield,4,0,3,1,Jump Shot,26,-57,254,False
+Buddy Hield,4,4,0,1,Jump Shot,16,-2,167,True
+Buddy Hield,4,4,31,1,Jump Shot,24,-188,159,False
+Buddy Hield,4,11,11,0,Jump Shot,26,-224,147,False
+Buddy Hield,2,4,44,1,Jump Shot,25,-207,153,False
+Buddy Hield,2,8,47,0,Jump Shot,21,114,184,True
+Buddy Hield,2,9,12,0,Jump Shot,25,8,253,False
+Buddy Hield,2,11,39,0,Jump Shot,23,-232,34,False
+Buddy Hield,1,0,17,1,Jump Shot,23,230,10,False
+Buddy Hield,2,3,0,0,Jump Shot,25,235,90,False
+Buddy Hield,2,7,28,0,Jump Shot,24,-205,140,False
+Buddy Hield,4,11,14,1,Jump Shot,24,-223,105,False
+Buddy Hield,4,4,38,0,Jump Shot,24,-203,132,False
+Buddy Hield,3,0,19,1,Jump Shot,24,-192,159,False
+Buddy Hield,4,0,21,1,Jump Shot,16,141,90,True
+Buddy Hield,4,7,8,0,Jump Shot,23,-234,48,False
+Buddy Hield,1,1,53,0,Jump Shot,22,-79,210,True
+Buddy Hield,4,10,49,1,Jump Shot,17,86,153,True
+Buddy Hield,4,0,27,0,Jump Shot,26,113,241,False
+Buddy Hield,1,0,47,1,Jump Shot,26,-146,220,False
+Buddy Hield,4,8,17,0,Jump Shot,17,58,160,True
+Buddy Hield,1,1,57,1,Jump Shot,27,-143,230,False
+Buddy Hield,2,7,27,1,Jump Shot,26,94,252,False
+Buddy Hield,4,7,1,0,Jump Shot,27,-160,227,False
+Buddy Hield,4,0,3,1,Jump Shot,23,-228,43,False
+Buddy Hield,3,1,50,0,Jump Shot,14,4,141,True
+Buddy Hield,1,0,24,0,Jump Shot,6,-1,64,True
+Buddy Hield,2,8,3,0,Jump Shot,22,-187,127,True
+Buddy Hield,1,2,24,0,Jump Shot,25,88,240,False
+Buddy Hield,4,7,34,1,Jump Shot,25,-3,254,False
+Buddy Hield,2,6,5,0,Jump Shot,20,-109,176,True
+Buddy Hield,4,4,11,0,Jump Shot,23,232,34,False
+Buddy Hield,2,9,20,0,Jump Shot,15,114,98,True
+Buddy Hield,1,4,7,0,Jump Shot,24,206,131,False
+Buddy Hield,2,6,22,0,Jump Shot,24,-78,235,False
+Buddy Hield,2,5,21,0,Jump Shot,17,96,150,True
+Buddy Hield,4,1,20,1,Jump Shot,25,2,256,False
+Buddy Hield,4,4,28,1,Jump Shot,25,225,112,False
+Buddy Hield,2,4,47,1,Jump Shot,24,-29,247,False
+Buddy Hield,3,3,17,1,Jump Shot,25,-51,248,False
+Buddy Hield,3,1,48,0,Jump Shot,9,-98,15,True
+Buddy Hield,2,8,42,1,Jump Shot,23,236,21,False
+Buddy Hield,4,4,58,1,Jump Shot,25,-62,243,False
+Buddy Hield,4,6,5,1,Jump Shot,12,71,105,True
+Buddy Hield,4,10,3,0,Jump Shot,25,207,146,False
+Buddy Hield,1,3,4,0,Jump Shot,25,-55,250,False
+Buddy Hield,2,9,0,1,Jump Shot,25,153,199,False
+Buddy Hield,4,0,15,1,Jump Shot,25,-107,236,False
+Buddy Hield,4,11,10,1,Jump Shot,9,-34,89,True
+Buddy Hield,2,8,3,0,Jump Shot,12,-127,16,True
+Buddy Hield,2,9,28,0,Jump Shot,24,231,90,False
+Buddy Hield,4,8,22,0,Jump Shot,5,-36,41,True
+Buddy Hield,4,8,32,1,Jump Shot,25,0,258,False
+Buddy Hield,4,7,32,1,Jump Shot,24,-218,122,False
+Buddy Hield,2,7,30,0,Jump Shot,25,179,179,False
+Buddy Hield,3,0,24,0,Jump Shot,24,-112,219,False
+Buddy Hield,2,11,49,1,Jump Shot,24,-226,96,False
+Buddy Hield,1,0,42,1,Jump Shot,16,-52,152,True
+Buddy Hield,4,9,51,1,Jump Shot,24,183,164,False
+Buddy Hield,2,6,17,0,Jump Shot,21,-103,193,True
+Buddy Hield,4,10,43,0,Jump Shot,24,-183,167,False
+Buddy Hield,3,0,32,0,Jump Shot,26,105,240,False
+Buddy Hield,1,0,0,0,Jump Shot,23,203,125,False
+Buddy Hield,2,1,43,0,Jump Shot,24,147,199,False
+Buddy Hield,2,5,46,0,Jump Shot,14,-81,120,True
+Buddy Hield,4,7,10,0,Jump Shot,24,-215,122,False
+Buddy Hield,4,2,54,0,Jump Shot,25,36,256,False
+Buddy Hield,4,7,40,1,Jump Shot,5,59,-3,True
+Buddy Hield,4,1,6,1,Jump Shot,23,233,49,False
+Buddy Hield,2,6,53,1,Jump Shot,23,-228,47,False
+Buddy Hield,3,0,4,1,Jump Shot,25,-198,167,False
+Buddy Hield,4,9,39,1,Jump Shot,22,-103,197,True
+Buddy Hield,2,9,4,1,Jump Shot,22,-226,27,False
+Buddy Hield,2,10,46,1,Jump Shot,25,-86,239,False
+Buddy Hield,2,6,54,1,Jump Shot,17,33,176,True
+Buddy Hield,4,5,22,1,Jump Shot,26,-58,254,False
+Buddy Hield,1,7,32,1,Jump Shot,23,-232,0,False
+Buddy Hield,1,9,47,1,Jump Shot,23,159,179,False
+Buddy Hield,1,0,51,1,Jump Shot,24,-131,209,False
+Buddy Hield,1,3,2,1,Jump Shot,22,219,47,False
+Buddy Hield,4,0,9,0,Jump Shot,26,123,237,False
+Buddy Hield,1,7,19,0,Jump Shot,26,161,216,False
+Buddy Hield,2,6,31,0,Jump Shot,23,179,157,False
+Buddy Hield,4,5,42,0,Jump Shot,26,123,231,False
+Buddy Hield,4,11,3,0,Jump Shot,25,-139,214,False
+Buddy Hield,3,8,15,0,Jump Shot,24,122,218,False
+Buddy Hield,4,1,33,1,Jump Shot,25,-101,237,False
+Buddy Hield,1,2,42,1,Jump Shot,24,172,177,False
+Buddy Hield,2,5,11,0,Jump Shot,23,230,58,False
+Buddy Hield,4,6,37,0,Jump Shot,25,173,189,False
+Buddy Hield,2,5,33,1,Jump Shot,25,55,248,False
+Buddy Hield,4,4,6,0,Jump Shot,24,-107,224,False
+Buddy Hield,1,4,26,0,Jump Shot,11,12,117,True
+Buddy Hield,2,1,7,0,Jump Shot,13,24,137,True
+Buddy Hield,2,9,58,1,Jump Shot,25,204,150,False
+Buddy Hield,4,2,10,1,Jump Shot,22,224,-17,False
+Buddy Hield,2,11,46,0,Jump Shot,25,-68,242,False
+Buddy Hield,2,6,6,1,Jump Shot,24,-179,170,False
+Buddy Hield,4,7,43,0,Jump Shot,21,219,13,False
+Buddy Hield,1,0,55,1,Jump Shot,22,-30,227,True
+Buddy Hield,3,8,35,0,Jump Shot,17,147,90,True
+Buddy Hield,1,8,21,0,Jump Shot,23,-230,51,False
+Buddy Hield,2,5,26,1,Jump Shot,24,-173,178,False
+Buddy Hield,3,4,21,0,Jump Shot,26,9,268,False
+Buddy Hield,3,7,5,0,Jump Shot,24,-8,249,False
+Buddy Hield,4,7,8,0,Jump Shot,25,-130,221,False
+Buddy Hield,3,2,58,1,Jump Shot,24,-214,128,False
+Buddy Hield,3,0,0,0,Jump Shot,28,-121,258,False
+Buddy Hield,3,11,13,1,Jump Shot,24,-175,174,False
+Buddy Hield,4,1,55,1,Jump Shot,25,-51,246,False
+Buddy Hield,1,3,29,0,Jump Shot,25,-172,189,False
+Buddy Hield,1,0,0,1,Jump Shot,25,-131,224,False
+Buddy Hield,2,4,49,0,Jump Shot,26,107,241,False
+Buddy Hield,3,0,1,1,Jump Shot,18,119,143,True
+Buddy Hield,1,1,18,1,Jump Shot,25,133,214,False
+Buddy Hield,2,10,16,1,Jump Shot,22,229,3,False
+Buddy Hield,3,0,31,0,Jump Shot,26,133,228,False
+Buddy Hield,3,3,33,1,Jump Shot,24,-175,175,False
+Buddy Hield,4,6,2,0,Jump Shot,27,-150,230,False
+Buddy Hield,2,2,10,0,Jump Shot,25,-92,234,False
+Buddy Hield,4,7,12,0,Jump Shot,26,-90,248,False
+Buddy Hield,2,4,5,0,Jump Shot,18,73,171,True
+Buddy Hield,3,4,55,0,Jump Shot,22,-229,20,False
+Buddy Hield,3,0,0,0,Jump Shot,35,-136,332,False
+Buddy Hield,4,7,52,0,Jump Shot,24,178,174,False
+Buddy Hield,1,4,51,1,Jump Shot,24,208,132,False
+Buddy Hield,3,5,28,1,Jump Shot,24,204,141,False
+Buddy Hield,3,6,44,0,Jump Shot,24,-211,126,False
+Buddy Hield,3,2,41,1,Jump Shot,16,-152,66,True
+Buddy Hield,1,3,31,0,Jump Shot,25,-152,200,False
+Buddy Hield,2,9,30,0,Jump Shot,23,-229,49,False
+Buddy Hield,2,11,7,0,Jump Shot,24,117,216,False
+Buddy Hield,4,9,33,0,Jump Shot,23,-221,82,False
+Buddy Hield,3,9,32,0,Jump Shot,17,-107,139,True
+Buddy Hield,1,9,56,0,Jump Shot,25,-60,251,False
+Buddy Hield,3,2,14,0,Jump Shot,24,168,183,False
+Buddy Hield,2,4,35,0,Jump Shot,19,63,183,True
+Buddy Hield,3,2,32,0,Jump Shot,25,-13,257,False
+Buddy Hield,3,6,13,1,Jump Shot,24,232,62,False
+Buddy Hield,2,8,41,0,Jump Shot,25,-131,219,False
+Buddy Hield,2,6,56,1,Jump Shot,18,95,158,True
+Buddy Hield,1,0,48,1,Jump Shot,20,-135,153,True
+Buddy Hield,4,1,55,1,Jump Shot,24,68,237,False
+Buddy Hield,1,1,28,1,Jump Shot,22,-228,-1,False
+Buddy Hield,1,9,0,0,Jump Shot,25,168,192,False
+Buddy Hield,4,0,36,0,Jump Shot,29,-150,251,False
+Buddy Hield,4,2,41,0,Jump Shot,25,-35,252,False
+Buddy Hield,4,10,33,0,Jump Shot,25,190,169,False
+Buddy Hield,4,8,37,1,Jump Shot,25,-202,148,False
+Buddy Hield,1,1,9,1,Jump Shot,24,-220,117,False
+Buddy Hield,2,6,34,1,Jump Shot,25,-10,256,False
+Buddy Hield,3,0,31,1,Jump Shot,24,86,232,False
+Buddy Hield,2,0,20,1,Jump Shot,14,-144,-1,True
+Buddy Hield,4,6,18,0,Jump Shot,24,-226,85,False
+Buddy Hield,3,1,33,1,Jump Shot,24,222,109,False
+Buddy Hield,3,9,39,0,Jump Shot,22,-228,1,False
+Buddy Hield,2,11,2,1,Jump Shot,24,-106,225,False
+Buddy Hield,1,0,37,0,Jump Shot,25,-11,251,False
+Buddy Hield,3,4,32,1,Jump Shot,22,-13,223,True
+Buddy Hield,1,2,8,1,Jump Shot,23,232,34,False
+Buddy Hield,1,3,7,0,Jump Shot,24,-232,90,False
+Buddy Hield,3,3,28,0,Jump Shot,25,100,235,False
+Buddy Hield,3,2,44,1,Jump Shot,26,-197,172,False
+Buddy Hield,2,11,0,0,Jump Shot,26,176,192,False
+Buddy Hield,3,1,7,0,Jump Shot,26,-179,201,False
+Buddy Hield,2,2,12,0,Jump Shot,27,122,242,False
+Buddy Hield,2,0,50,0,Jump Shot,23,-226,69,False
+Buddy Hield,4,0,2,0,Jump Shot,24,220,112,False
+Buddy Hield,3,1,58,1,Jump Shot,26,-131,230,False
+Buddy Hield,2,6,54,0,Jump Shot,25,-2,257,False
+Buddy Hield,1,0,13,1,Jump Shot,21,198,82,True
+Buddy Hield,1,10,47,1,Jump Shot,24,-180,173,False
+Buddy Hield,4,10,5,1,Jump Shot,24,29,245,False
+Buddy Hield,4,6,55,0,Jump Shot,24,-211,131,False
+Buddy Hield,2,8,2,0,Jump Shot,23,-230,47,False
+Buddy Hield,2,11,17,0,Jump Shot,27,-109,251,False
+Buddy Hield,3,0,40,0,Jump Shot,22,-226,38,False
+Buddy Hield,3,3,8,0,Jump Shot,25,-175,191,False
+Buddy Hield,4,8,59,0,Jump Shot,20,82,189,True
+Buddy Hield,3,2,15,1,Jump Shot,25,-176,188,False
+Buddy Hield,2,0,26,0,Jump Shot,24,-226,99,False
+Buddy Hield,2,8,20,1,Jump Shot,25,-192,169,False
+Buddy Hield,2,5,8,0,Jump Shot,24,190,158,False
+Buddy Hield,4,3,46,1,Jump Shot,24,-230,80,False
+Buddy Hield,4,10,14,1,Jump Shot,19,-32,189,True
+Buddy Hield,2,6,56,1,Jump Shot,25,-180,174,False
+Buddy Hield,1,0,6,0,Jump Shot,25,-130,215,False
+Buddy Hield,4,2,47,0,Jump Shot,25,58,244,False
+Buddy Hield,4,10,5,1,Jump Shot,26,-8,260,False
+Buddy Hield,3,3,35,1,Jump Shot,23,226,44,False
+Buddy Hield,1,1,12,1,Jump Shot,16,-79,141,True
+Buddy Hield,1,3,41,1,Jump Shot,23,231,22,False
+Buddy Hield,2,6,43,1,Jump Shot,25,-48,250,False
+Buddy Hield,2,6,5,1,Jump Shot,19,-27,190,True
+Buddy Hield,4,2,20,1,Jump Shot,25,20,256,False
+Buddy Hield,4,11,10,0,Jump Shot,22,-217,73,True
+Buddy Hield,2,8,32,0,Jump Shot,14,57,135,True
+Buddy Hield,4,0,36,1,Jump Shot,25,97,235,False
+Buddy Hield,2,5,17,0,Jump Shot,23,-233,15,False
+Buddy Hield,2,9,54,1,Jump Shot,23,-231,64,False
+Buddy Hield,2,5,9,1,Jump Shot,25,-152,209,False
+Buddy Hield,1,3,8,0,Jump Shot,6,-13,59,True
+Buddy Hield,3,0,0,0,Jump Shot,26,-132,232,False
+Buddy Hield,4,10,45,0,Jump Shot,11,80,81,True
+Buddy Hield,2,5,28,1,Jump Shot,26,145,225,False
+Buddy Hield,2,9,8,0,Jump Shot,25,-199,152,False
+Buddy Hield,2,4,39,1,Jump Shot,18,-64,172,True
+Buddy Hield,4,8,9,1,Jump Shot,26,-186,191,False
+Buddy Hield,1,0,44,1,Jump Shot,8,-55,63,True
+Buddy Hield,4,0,0,0,Jump Shot,26,160,215,False
+Buddy Hield,4,0,13,0,Jump Shot,25,-103,236,False
+Buddy Hield,2,6,45,0,Jump Shot,24,157,191,False
+Buddy Hield,2,11,21,0,Jump Shot,16,-166,25,True
+Buddy Hield,2,8,43,0,Jump Shot,24,-21,247,False
+Buddy Hield,2,4,16,1,Jump Shot,25,-225,109,False
+Buddy Hield,3,4,19,1,Jump Shot,25,-32,253,False
+Buddy Hield,2,4,48,1,Jump Shot,23,231,26,False
+Buddy Hield,3,0,52,0,Jump Shot,25,-121,223,False
+Buddy Hield,2,1,14,0,Jump Shot,29,-187,227,False
+Buddy Hield,1,8,52,1,Jump Shot,24,241,34,False
+Buddy Hield,3,7,24,1,Jump Shot,25,-90,242,False
+Buddy Hield,1,5,56,0,Jump Shot,25,106,235,False
+Buddy Hield,4,2,43,0,Jump Shot,26,14,269,False
+Buddy Hield,3,7,49,0,Jump Shot,27,-96,260,False
+Buddy Hield,3,0,7,1,Jump Shot,25,99,232,False
+Buddy Hield,3,10,7,0,Jump Shot,25,-102,229,False
+Buddy Hield,4,8,1,0,Jump Shot,16,-49,162,True
+Buddy Hield,1,8,39,1,Jump Shot,23,-229,68,False
+Buddy Hield,2,7,17,0,Jump Shot,21,78,204,True
+Buddy Hield,4,11,24,0,Jump Shot,25,-98,231,False
+Buddy Hield,4,4,16,0,Jump Shot,18,54,178,True
+Buddy Hield,2,11,49,1,Jump Shot,24,125,216,False
+Buddy Hield,2,5,52,0,Jump Shot,25,127,222,False
+Buddy Hield,2,11,21,1,Jump Shot,24,-151,198,False
+Buddy Hield,2,6,27,1,Jump Shot,25,-177,183,False
+Buddy Hield,1,3,43,1,Jump Shot,24,-236,52,False
+Buddy Hield,4,3,55,1,Jump Shot,25,-35,249,False
+Buddy Hield,3,0,24,0,Jump Shot,24,-122,218,False
+Buddy Hield,4,8,25,0,Jump Shot,24,-68,236,False
+Buddy Hield,2,7,24,1,Jump Shot,20,-82,193,True
+Buddy Hield,1,2,8,0,Jump Shot,25,-187,180,False
+Buddy Hield,1,0,26,1,Jump Shot,22,101,204,True
+Buddy Hield,4,10,15,0,Jump Shot,25,-85,239,False
+Buddy Hield,2,4,37,1,Jump Shot,25,163,196,False
+Buddy Hield,4,6,37,0,Jump Shot,20,76,194,True
+Buddy Hield,4,3,19,1,Jump Shot,25,-157,199,False
+Buddy Hield,2,0,0,1,Jump Shot,24,-122,214,False
+Buddy Hield,2,9,33,0,Jump Shot,10,15,102,True
+Buddy Hield,2,5,56,0,Jump Shot,25,172,190,False
+Buddy Hield,4,9,48,1,Jump Shot,25,-53,253,False
+Buddy Hield,2,4,49,0,Jump Shot,25,-179,188,False
+Buddy Hield,4,6,59,0,Jump Shot,11,-112,10,True
+Buddy Hield,2,6,12,0,Jump Shot,25,128,215,False
+Buddy Hield,4,8,10,0,Jump Shot,24,-14,246,False
+Buddy Hield,3,5,18,1,Jump Shot,24,-8,249,False
+Buddy Hield,4,6,51,0,Layup Shot,3,-26,25,True
+Buddy Hield,3,7,53,0,Layup Shot,3,-20,25,True
+Buddy Hield,4,1,48,0,Layup Shot,2,20,16,True
+Buddy Hield,4,2,41,1,Layup Shot,2,16,13,True
+Buddy Hield,3,6,54,1,Layup Shot,3,-8,36,True
+Buddy Hield,2,7,22,0,Layup Shot,2,14,22,True
+Buddy Hield,1,2,1,0,Layup Shot,5,-47,34,True
+Buddy Hield,3,10,46,0,Layup Shot,5,41,31,True
+Buddy Hield,2,3,49,1,Layup Shot,1,3,19,True
+Buddy Hield,4,4,2,1,Layup Shot,3,-12,28,True
+Buddy Hield,2,8,25,0,Layup Shot,2,-25,10,True
+Buddy Hield,2,9,15,1,Layup Shot,1,-6,9,True
+Buddy Hield,1,0,52,0,Layup Shot,4,-38,21,True
+Buddy Hield,2,10,44,0,Layup Shot,6,-14,62,True
+Buddy Hield,4,8,33,0,Layup Shot,1,15,2,True
+Buddy Hield,1,2,20,1,Layup Shot,0,3,9,True
+Buddy Hield,3,0,0,0,Layup Shot,1,8,10,True
+Buddy Hield,4,11,42,0,Layup Shot,2,-9,26,True
+Buddy Hield,4,5,18,0,Layup Shot,2,-16,23,True
+Buddy Hield,3,0,2,0,Layup Shot,2,15,20,True
+Buddy Hield,3,2,12,0,Layup Shot,2,-12,23,True
+Buddy Hield,3,0,28,0,Layup Shot,1,-13,12,True
+Buddy Hield,4,6,47,0,Layup Shot,3,31,13,True
+Buddy Hield,4,8,39,1,Layup Shot,1,-13,8,True
+Buddy Hield,4,8,6,1,Layup Shot,1,-13,13,True
+Buddy Hield,4,7,9,1,Layup Shot,1,3,11,True
+Buddy Hield,2,9,21,1,Layup Shot,4,39,30,True
+Buddy Hield,1,10,38,1,Layup Shot,1,-9,14,True
+Buddy Hield,1,9,48,0,Layup Shot,5,35,40,True
+Buddy Hield,2,4,5,0,Layup Shot,3,-19,31,True
+Buddy Hield,2,0,51,0,Layup Shot,3,-9,32,True
+Buddy Hield,3,2,9,0,Layup Shot,2,17,13,True
+Buddy Hield,4,7,55,1,Layup Shot,1,-6,18,True
+Buddy Hield,2,7,22,0,Layup Shot,3,6,37,True
+Buddy Hield,1,2,27,1,Layup Shot,2,-18,10,True
+Buddy Hield,2,2,14,1,Layup Shot,1,-3,15,True
+Buddy Hield,1,6,25,1,Layup Shot,1,5,9,True
+Buddy Hield,2,5,33,0,Layup Shot,6,25,64,True
+Buddy Hield,4,10,2,0,Layup Shot,2,18,17,True
+Buddy Hield,4,8,50,0,Pullup Jump shot,19,-56,183,True
+Buddy Hield,1,5,33,0,Pullup Jump shot,18,180,-15,True
+Buddy Hield,3,2,29,1,Pullup Jump shot,16,-5,165,True
+Buddy Hield,2,7,18,0,Pullup Jump shot,9,7,95,True
+Buddy Hield,4,10,5,1,Pullup Jump shot,25,136,217,False
+Buddy Hield,2,4,50,1,Pullup Jump shot,19,126,150,True
+Buddy Hield,1,2,20,0,Pullup Jump shot,15,-19,153,True
+Buddy Hield,4,8,9,0,Pullup Jump shot,20,93,188,True
+Buddy Hield,1,1,39,0,Pullup Jump shot,26,-57,257,False
+Buddy Hield,3,1,7,0,Pullup Jump shot,14,-20,146,True
+Buddy Hield,1,1,45,0,Pullup Jump shot,17,74,163,True
+Buddy Hield,4,10,6,0,Pullup Jump shot,21,-165,130,True
+Buddy Hield,1,1,17,1,Pullup Jump shot,15,112,105,True
+Buddy Hield,3,6,39,0,Pullup Jump shot,17,112,131,True
+Buddy Hield,4,7,37,0,Pullup Jump shot,8,-62,62,True
+Buddy Hield,1,6,19,0,Pullup Jump shot,15,-150,3,True
+Buddy Hield,1,10,25,1,Pullup Jump shot,21,-184,108,True
+Buddy Hield,4,8,32,0,Pullup Jump shot,17,-147,97,True
+Buddy Hield,3,0,23,1,Pullup Jump shot,19,78,175,True
+Buddy Hield,2,10,42,1,Pullup Jump shot,15,52,147,True
+Buddy Hield,4,9,13,1,Pullup Jump shot,12,36,118,True
+Buddy Hield,3,0,57,1,Pullup Jump shot,25,136,214,False
+Buddy Hield,2,6,5,1,Pullup Jump shot,25,-79,239,False
+Buddy Hield,4,11,1,1,Pullup Jump shot,18,135,133,True
+Buddy Hield,1,0,49,1,Pullup Jump shot,25,164,194,False
+Buddy Hield,2,11,25,0,Pullup Jump shot,16,56,156,True
+Buddy Hield,3,2,7,0,Pullup Jump shot,18,46,180,True
+Buddy Hield,3,4,5,1,Pullup Jump shot,15,155,-2,True
+Buddy Hield,4,11,9,0,Pullup Jump shot,26,125,239,False
+Buddy Hield,4,6,16,0,Pullup Jump shot,15,0,158,True
+Buddy Hield,4,7,28,0,Pullup Jump shot,25,125,220,False
+Buddy Hield,2,11,46,0,Pullup Jump shot,20,-147,149,True
+Buddy Hield,4,4,11,0,Pullup Jump shot,16,38,156,True
+Buddy Hield,4,4,46,1,Pullup Jump shot,26,141,225,False
+Buddy Hield,4,6,50,1,Pullup Jump shot,19,-122,155,True
+Buddy Hield,1,0,58,0,Pullup Jump shot,20,109,168,True
+Buddy Hield,2,0,6,1,Pullup Jump shot,12,-123,26,True
+Buddy Hield,2,1,36,0,Pullup Jump shot,8,-26,85,True
+Buddy Hield,3,8,23,1,Pullup Jump shot,24,172,170,False
+Buddy Hield,2,6,17,0,Pullup Jump shot,8,44,75,True
+Buddy Hield,1,3,18,1,Pullup Jump shot,17,-24,169,True
+Buddy Hield,1,0,58,1,Pullup Jump shot,17,107,140,True
+Buddy Hield,2,6,49,0,Pullup Jump shot,9,11,94,True
+Buddy Hield,3,1,0,0,Pullup Jump shot,12,-128,7,True
+Buddy Hield,4,10,41,0,Pullup Jump shot,25,44,254,False
+Buddy Hield,2,7,59,0,Pullup Jump shot,25,67,242,False
+Buddy Hield,1,1,17,0,Pullup Jump shot,17,8,176,True
+Buddy Hield,1,0,41,1,Pullup Jump shot,21,100,191,True
+Buddy Hield,2,9,39,0,Pullup Jump shot,15,-27,155,True
+Buddy Hield,2,2,14,1,Pullup Jump shot,26,-6,262,False
+Buddy Hield,1,2,12,0,Pullup Jump shot,20,-120,167,True
+Buddy Hield,4,6,57,1,Pullup Jump shot,16,-41,159,True
+Buddy Hield,1,5,7,1,Pullup Jump shot,18,166,91,True
+Buddy Hield,2,0,2,1,Pullup Jump shot,18,180,36,True
+Buddy Hield,2,9,37,1,Pullup Jump shot,21,84,194,True
+Buddy Hield,4,7,55,0,Pullup Jump shot,18,-73,171,True
+Buddy Hield,4,10,47,0,Pullup Jump shot,18,114,151,True
+Buddy Hield,4,2,31,1,Pullup Jump shot,19,-82,180,True
+Buddy Hield,4,7,9,0,Pullup Jump shot,17,-33,172,True
+Buddy Hield,4,8,55,0,Pullup Jump shot,10,-14,107,True
+Buddy Hield,2,5,3,0,Pullup Jump shot,20,-132,154,True
+Buddy Hield,4,8,6,0,Pullup Jump shot,22,-52,221,True
+Buddy Hield,4,7,18,0,Pullup Jump shot,16,128,102,True
+Buddy Hield,3,4,10,1,Pullup Jump shot,17,-75,153,True
+Buddy Hield,3,10,50,0,Pullup Jump shot,15,77,135,True
+Buddy Hield,4,8,55,1,Pullup Jump shot,8,-85,16,True
+Buddy Hield,3,10,57,0,Pullup Jump shot,25,-67,243,False
+Buddy Hield,4,8,58,1,Pullup Jump shot,18,-90,159,True
+Buddy Hield,4,4,53,1,Pullup Jump shot,16,74,146,True
+Buddy Hield,2,8,39,1,Pullup Jump shot,21,-81,204,True
+Buddy Hield,4,8,30,1,Pullup Jump shot,14,-110,90,True
+Buddy Hield,4,7,24,0,Pullup Jump shot,21,-12,218,True
+Buddy Hield,2,9,33,1,Pullup Jump shot,17,-109,141,True
+Buddy Hield,2,10,23,0,Pullup Jump shot,17,-115,130,True
+Buddy Hield,2,6,13,1,Pullup Jump shot,19,198,11,True
+Buddy Hield,4,9,20,0,Pullup Jump shot,25,130,215,False
+Buddy Hield,2,10,30,1,Pullup Jump shot,15,-134,83,True
+Buddy Hield,2,10,40,0,Pullup Jump shot,18,68,175,True
+Buddy Hield,1,1,19,1,Pullup Jump shot,15,-18,158,True
+Buddy Hield,3,0,29,0,Pullup Jump shot,20,-85,185,True
+Buddy Hield,1,0,31,1,Pullup Jump shot,16,-138,85,True
+Buddy Hield,2,9,47,0,Pullup Jump shot,24,139,207,False
+Buddy Hield,3,6,3,0,Pullup Jump shot,21,105,185,True
+Buddy Hield,1,2,3,0,Pullup Jump shot,16,-12,168,True
+Buddy Hield,4,9,54,0,Pullup Jump shot,24,59,236,False
+Buddy Hield,4,10,32,0,Pullup Jump shot,17,139,99,True
+Buddy Hield,4,8,59,0,Pullup Jump shot,24,2,245,False
+Buddy Hield,1,2,29,1,Pullup Jump shot,25,198,162,False
+Buddy Hield,1,1,0,0,Pullup Jump shot,20,-31,206,True
+Buddy Hield,1,6,52,0,Pullup Jump shot,6,-16,64,True
+Buddy Hield,1,10,31,0,Pullup Jump shot,16,3,162,True
+Buddy Hield,3,10,25,1,Pullup Jump shot,20,-8,205,True
+Buddy Hield,3,10,44,1,Pullup Jump shot,18,75,165,True
+Buddy Hield,3,5,38,1,Pullup Jump shot,25,-40,249,False
+Buddy Hield,4,4,19,1,Pullup Jump shot,25,-72,247,False
+Buddy Hield,1,7,25,1,Putback Dunk Shot,0,0,-6,True
+Buddy Hield,4,1,14,1,Putback Layup Shot,1,9,13,True
+Buddy Hield,3,2,43,0,Reverse Layup Shot,1,16,-1,True
+Buddy Hield,4,6,0,0,Reverse Layup Shot,2,-17,17,True
+Buddy Hield,1,4,11,0,Reverse Layup Shot,2,-24,4,True
+Buddy Hield,4,1,33,1,Reverse Layup Shot,0,4,6,True
+Buddy Hield,3,3,39,0,Reverse Layup Shot,3,-30,16,True
+Buddy Hield,3,9,27,0,Reverse Layup Shot,1,16,-10,True
+Buddy Hield,2,4,41,1,Reverse Layup Shot,0,3,4,True
+Buddy Hield,4,4,23,1,Running Dunk Shot,0,0,4,True
+Buddy Hield,3,1,29,1,Running Dunk Shot,0,0,6,True
+Buddy Hield,2,5,15,1,Running Dunk Shot,1,14,11,True
+Buddy Hield,4,0,37,1,Running Dunk Shot,1,-3,10,True
+Buddy Hield,4,4,20,1,Running Dunk Shot,1,-1,13,True
+Buddy Hield,1,2,37,1,Running Dunk Shot,1,3,15,True
+Buddy Hield,2,10,17,1,Running Dunk Shot,0,0,9,True
+Buddy Hield,1,2,10,1,Running Dunk Shot,0,-8,1,True
+Buddy Hield,3,10,44,1,Running Dunk Shot,0,3,5,True
+Buddy Hield,1,1,24,1,Running Finger Roll Layup Shot,0,3,5,True
+Buddy Hield,2,7,10,0,Running Jump Shot,25,-174,184,False
+Buddy Hield,1,1,31,1,Running Jump Shot,22,-225,29,False
+Buddy Hield,4,1,57,0,Running Jump Shot,7,70,33,True
+Buddy Hield,3,1,49,1,Running Jump Shot,25,-118,224,False
+Buddy Hield,1,0,1,0,Running Jump Shot,50,60,503,False
+Buddy Hield,2,10,51,0,Running Layup Shot,3,27,23,True
+Buddy Hield,4,2,48,1,Running Layup Shot,0,0,7,True
+Buddy Hield,4,4,0,0,Running Layup Shot,2,-14,17,True
+Buddy Hield,3,6,40,1,Running Layup Shot,2,9,26,True
+Buddy Hield,1,2,5,1,Running Layup Shot,2,22,8,True
+Buddy Hield,4,0,56,0,Running Layup Shot,1,-6,14,True
+Buddy Hield,2,2,17,1,Running Layup Shot,1,7,9,True
+Buddy Hield,4,5,10,1,Running Layup Shot,2,-13,17,True
+Buddy Hield,4,10,37,1,Running Layup Shot,0,3,9,True
+Buddy Hield,4,9,40,0,Running Layup Shot,2,5,21,True
+Buddy Hield,3,0,0,0,Running Layup Shot,4,17,47,True
+Buddy Hield,4,1,8,1,Running Layup Shot,1,17,5,True
+Buddy Hield,3,2,1,0,Running Layup Shot,4,29,34,True
+Buddy Hield,3,1,32,1,Running Layup Shot,2,-18,17,True
+Buddy Hield,3,7,43,0,Running Layup Shot,4,-1,41,True
+Buddy Hield,3,7,40,1,Running Layup Shot,0,3,7,True
+Buddy Hield,4,7,30,1,Running Layup Shot,1,2,12,True
+Buddy Hield,1,3,57,1,Running Layup Shot,0,6,1,True
+Buddy Hield,4,2,26,1,Running Layup Shot,1,15,10,True
+Buddy Hield,1,8,34,0,Running Layup Shot,2,-4,20,True
+Buddy Hield,3,6,14,1,Running Layup Shot,0,-2,0,True
+Buddy Hield,3,6,56,1,Running Layup Shot,0,5,4,True
+Buddy Hield,4,11,14,1,Running Layup Shot,0,-3,6,True
+Buddy Hield,3,3,30,1,Running Layup Shot,2,-6,23,True
+Buddy Hield,2,10,39,0,Running Layup Shot,0,9,1,True
+Buddy Hield,2,6,34,1,Running Layup Shot,2,-3,20,True
+Buddy Hield,4,2,12,1,Running Layup Shot,2,3,22,True
+Buddy Hield,1,1,46,0,Running Layup Shot,3,-10,30,True
+Buddy Hield,1,2,26,1,Running Layup Shot,0,3,-4,True
+Buddy Hield,1,0,0,0,Running Pull-Up Jump Shot,28,-13,283,False
+Buddy Hield,1,9,6,0,Running Pull-Up Jump Shot,25,-146,203,False
+Buddy Hield,2,0,28,1,Running Pull-Up Jump Shot,12,47,120,True
+Buddy Hield,2,0,40,1,Running Pull-Up Jump Shot,25,188,167,False
+Buddy Hield,2,7,30,1,Running Pull-Up Jump Shot,6,58,16,True
+Buddy Hield,2,7,57,0,Running Pull-Up Jump Shot,20,-11,202,True
+Buddy Hield,4,8,7,0,Running Reverse Layup Shot,2,-20,4,True
+Buddy Hield,3,5,34,1,Running Reverse Layup Shot,1,11,1,True
+Buddy Hield,3,5,29,1,Step Back Jump shot,12,-11,125,True
+Buddy Hield,2,5,32,1,Step Back Jump shot,13,0,131,True
+Buddy Hield,2,4,10,1,Step Back Jump shot,17,-165,53,True
+Buddy Hield,4,7,24,1,Step Back Jump shot,24,235,50,False
+Buddy Hield,2,9,19,0,Step Back Jump shot,12,-118,26,True
+Buddy Hield,2,10,51,1,Step Back Jump shot,22,-227,31,False
+Buddy Hield,4,11,18,1,Step Back Jump shot,12,-86,90,True
+Buddy Hield,2,4,9,1,Step Back Jump shot,18,32,184,True
+Buddy Hield,2,6,30,1,Step Back Jump shot,17,155,71,True
+Buddy Hield,2,6,24,0,Step Back Jump shot,26,183,192,False
+Buddy Hield,2,11,43,0,Step Back Jump shot,13,-86,109,True
+Buddy Hield,2,8,49,0,Step Back Jump shot,16,-118,122,True
+Buddy Hield,3,11,31,0,Step Back Jump shot,13,-119,53,True
+Buddy Hield,4,8,30,1,Step Back Jump shot,11,-112,14,True
+Buddy Hield,2,11,44,1,Step Back Jump shot,13,76,109,True
+Buddy Hield,2,2,2,1,Step Back Jump shot,26,161,209,False
+Buddy Hield,2,1,1,0,Step Back Jump shot,26,-134,228,False
+Buddy Hield,4,5,46,1,Step Back Jump shot,17,176,-34,True
+Buddy Hield,2,3,44,0,Step Back Jump shot,27,132,245,False
+Buddy Hield,2,4,38,1,Step Back Jump shot,8,-84,-1,True
+Buddy Hield,4,0,14,0,Step Back Jump shot,20,157,125,True
+Buddy Hield,4,6,59,0,Step Back Jump shot,12,43,114,True
+Buddy Hield,4,11,42,0,Step Back Jump shot,15,-154,5,True
+Buddy Hield,2,8,38,1,Step Back Jump shot,19,-46,193,True
+Buddy Hield,4,0,17,1,Step Back Jump shot,19,-157,113,True
+Buddy Hield,4,6,17,1,Step Back Jump shot,25,-49,248,False
+Buddy Hield,3,11,5,0,Step Back Jump shot,17,-175,-5,True
+Buddy Hield,2,6,12,1,Step Back Jump shot,25,195,157,False
+Buddy Hield,4,3,29,0,Step Back Jump shot,25,-152,204,False
+Buddy Hield,3,2,2,0,Step Back Jump shot,17,145,106,True
+Buddy Hield,4,9,47,0,Step Back Jump shot,25,-119,223,False
+Buddy Hield,4,0,26,0,Step Back Jump shot,23,212,105,True
+Buddy Hield,1,4,48,1,Step Back Jump shot,12,101,74,True
+Buddy Hield,3,3,17,1,Step Back Jump shot,23,-228,59,False
+Buddy Hield,4,4,27,0,Step Back Jump shot,14,63,131,True
+Buddy Hield,3,3,44,0,Step Back Jump shot,22,227,5,False
+Buddy Hield,2,4,11,1,Step Back Jump shot,15,33,150,True
+Buddy Hield,2,11,41,1,Step Back Jump shot,25,121,222,False
+Buddy Hield,2,8,35,1,Step Back Jump shot,16,76,145,True
+Buddy Hield,4,0,41,0,Step Back Jump shot,11,-58,97,True
+Buddy Hield,3,7,17,0,Step Back Jump shot,25,-136,221,False
+Buddy Hield,4,10,46,0,Step Back Jump shot,20,-11,205,True
+Buddy Hield,4,2,22,0,Step Back Jump shot,24,225,89,False
+Buddy Hield,4,3,52,0,Step Back Jump shot,25,149,212,False
+Buddy Hield,1,0,40,0,Step Back Jump shot,18,-127,138,True
+Buddy Hield,3,1,18,1,Step Back Jump shot,19,-147,123,True
+Buddy Hield,2,11,22,0,Step Back Jump shot,11,-30,113,True
+Buddy Hield,4,11,17,0,Step Back Jump shot,19,-158,106,True
+Buddy Hield,1,5,7,1,Step Back Jump shot,12,-19,127,True
+Buddy Hield,4,11,15,1,Step Back Jump shot,24,119,218,False
+Buddy Hield,3,4,59,1,Step Back Jump shot,14,-52,130,True
+Buddy Hield,4,8,41,0,Step Back Jump shot,13,3,131,True
+Buddy Hield,1,2,36,1,Step Back Jump shot,19,-195,25,True
+Buddy Hield,4,0,5,0,Tip Layup Shot,0,0,-6,True
+Buddy Hield,4,11,8,0,Tip Layup Shot,0,0,-6,True
+Buddy Hield,2,10,27,1,Tip Layup Shot,0,0,-6,True
+Buddy Hield,3,0,41,1,Tip Layup Shot,0,0,-6,True
+Buddy Hield,3,1,11,0,Tip Layup Shot,0,0,-6,True
+Buddy Hield,2,7,52,1,Turnaround Fadeaway shot,9,68,60,True
+Buddy Hield,2,6,16,0,Turnaround Fadeaway shot,13,-14,131,True
+Buddy Hield,1,0,6,0,Turnaround Fadeaway shot,11,-87,80,True
+Buddy Hield,4,10,41,1,Turnaround Fadeaway shot,5,-40,31,True
+Buddy Hield,4,4,0,0,Turnaround Hook Shot,9,71,65,True
+Buddy Hield,1,0,35,1,Turnaround Jump Shot,12,-47,118,True
+Buddy Hield,1,3,34,0,Turnaround Jump Shot,10,56,85,True
+Buddy Hield,4,10,30,0,Turnaround Jump Shot,9,33,89,True
+Buddy Hield,1,6,53,0,Turnaround Jump Shot,8,-64,59,True
+Buddy Hield,2,2,58,0,Turnaround Jump Shot,11,-29,108,True

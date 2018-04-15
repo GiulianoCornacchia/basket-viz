@@ -1,0 +1,13 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Udonis Haslem,4,0,49,1,Dunk Shot,4,30,27,True
+Udonis Haslem,4,3,57,0,Jump Shot,16,167,-9,True
+Udonis Haslem,4,1,27,0,Jump Shot,25,-105,236,False
+Udonis Haslem,4,1,56,0,Jump Shot,26,60,255,False
+Udonis Haslem,4,0,47,0,Jump Shot,19,166,108,True
+Udonis Haslem,4,3,22,0,Jump Shot,23,-133,190,True
+Udonis Haslem,4,1,37,0,Jump Shot,25,47,248,False
+Udonis Haslem,4,1,25,1,Jump Shot,23,231,14,False
+Udonis Haslem,4,4,6,0,Jump Shot,25,-47,253,False
+Udonis Haslem,4,5,2,0,Jump Shot,27,64,265,False
+Udonis Haslem,2,8,2,0,Jump Shot,14,143,-2,True
+Udonis Haslem,4,1,10,0,Jump Shot,22,222,6,False

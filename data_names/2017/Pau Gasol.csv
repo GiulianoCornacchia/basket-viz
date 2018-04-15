@@ -1,0 +1,585 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Pau Gasol,4,11,32,1,Alley Oop Dunk Shot,1,0,13,True
+Pau Gasol,4,11,33,1,Alley Oop Dunk Shot,0,-8,-4,True
+Pau Gasol,1,2,7,1,Cutting Dunk Shot,0,6,3,True
+Pau Gasol,3,10,50,1,Cutting Dunk Shot,1,0,14,True
+Pau Gasol,1,8,55,1,Cutting Dunk Shot,2,0,21,True
+Pau Gasol,3,3,28,0,Cutting Dunk Shot,1,0,13,True
+Pau Gasol,2,10,52,1,Cutting Dunk Shot,0,-1,-3,True
+Pau Gasol,2,7,37,1,Cutting Dunk Shot,0,-3,1,True
+Pau Gasol,3,10,25,1,Cutting Dunk Shot,1,1,11,True
+Pau Gasol,3,8,46,1,Cutting Dunk Shot,1,8,6,True
+Pau Gasol,3,6,15,1,Cutting Dunk Shot,1,-4,14,True
+Pau Gasol,1,10,42,1,Cutting Dunk Shot,1,1,14,True
+Pau Gasol,2,11,45,1,Cutting Dunk Shot,1,9,11,True
+Pau Gasol,2,7,21,1,Cutting Finger Roll Layup Shot,1,-7,8,True
+Pau Gasol,2,10,3,1,Cutting Finger Roll Layup Shot,1,9,6,True
+Pau Gasol,3,0,32,1,Cutting Finger Roll Layup Shot,2,23,-6,True
+Pau Gasol,2,11,1,0,Cutting Finger Roll Layup Shot,2,6,20,True
+Pau Gasol,4,10,28,1,Cutting Finger Roll Layup Shot,1,3,10,True
+Pau Gasol,1,6,9,0,Cutting Layup Shot,1,5,15,True
+Pau Gasol,3,4,19,1,Cutting Layup Shot,1,3,10,True
+Pau Gasol,3,0,23,1,Cutting Layup Shot,2,21,7,True
+Pau Gasol,1,7,51,1,Cutting Layup Shot,2,3,22,True
+Pau Gasol,4,10,59,1,Cutting Layup Shot,1,3,13,True
+Pau Gasol,3,1,2,1,Cutting Layup Shot,1,2,17,True
+Pau Gasol,1,10,35,0,Cutting Layup Shot,0,0,4,True
+Pau Gasol,3,9,21,1,Cutting Layup Shot,1,0,15,True
+Pau Gasol,2,10,59,1,Cutting Layup Shot,0,6,7,True
+Pau Gasol,3,7,38,0,Cutting Layup Shot,4,47,6,True
+Pau Gasol,2,3,35,0,Cutting Layup Shot,1,-2,18,True
+Pau Gasol,3,8,17,0,Cutting Layup Shot,2,20,5,True
+Pau Gasol,1,11,11,1,Cutting Layup Shot,0,6,-5,True
+Pau Gasol,1,1,50,1,Cutting Layup Shot,2,3,25,True
+Pau Gasol,4,10,1,1,Cutting Layup Shot,1,2,11,True
+Pau Gasol,2,8,42,1,Cutting Layup Shot,5,58,0,True
+Pau Gasol,1,0,59,0,Cutting Layup Shot,2,-3,24,True
+Pau Gasol,2,2,36,1,Cutting Layup Shot,1,1,19,True
+Pau Gasol,3,9,4,1,Cutting Layup Shot,1,10,8,True
+Pau Gasol,3,8,3,1,Driving Dunk Shot,1,14,8,True
+Pau Gasol,2,0,54,1,Driving Dunk Shot,1,-3,10,True
+Pau Gasol,2,1,5,1,Driving Dunk Shot,0,1,5,True
+Pau Gasol,4,11,7,1,Driving Dunk Shot,0,-3,-2,True
+Pau Gasol,3,10,20,0,Driving Dunk Shot,7,-49,62,True
+Pau Gasol,4,9,1,1,Driving Finger Roll Layup Shot,3,14,31,True
+Pau Gasol,1,0,32,1,Driving Finger Roll Layup Shot,7,-71,20,True
+Pau Gasol,4,6,59,0,Driving Finger Roll Layup Shot,1,-3,16,True
+Pau Gasol,2,10,2,1,Driving Finger Roll Layup Shot,2,5,25,True
+Pau Gasol,2,11,27,0,Driving Finger Roll Layup Shot,0,-3,6,True
+Pau Gasol,3,0,51,0,Driving Finger Roll Layup Shot,2,-5,29,True
+Pau Gasol,2,7,14,0,Driving Finger Roll Layup Shot,3,18,28,True
+Pau Gasol,2,8,11,1,Driving Finger Roll Layup Shot,3,-6,37,True
+Pau Gasol,3,11,42,1,Driving Finger Roll Layup Shot,1,-14,14,True
+Pau Gasol,3,0,44,1,Driving Finger Roll Layup Shot,1,-8,9,True
+Pau Gasol,4,8,27,0,Driving Floating Bank Jump Shot,6,52,31,True
+Pau Gasol,3,10,22,0,Driving Floating Jump Shot,8,27,85,True
+Pau Gasol,3,0,1,1,Driving Floating Jump Shot,0,-6,3,True
+Pau Gasol,1,11,45,1,Driving Floating Jump Shot,7,67,25,True
+Pau Gasol,4,10,33,1,Driving Floating Jump Shot,7,-4,73,True
+Pau Gasol,2,11,42,0,Driving Floating Jump Shot,11,-13,112,True
+Pau Gasol,1,7,13,1,Driving Floating Jump Shot,6,-44,50,True
+Pau Gasol,1,8,26,1,Driving Hook Shot,7,-7,78,True
+Pau Gasol,2,10,4,0,Driving Hook Shot,4,-40,27,True
+Pau Gasol,1,11,41,0,Driving Hook Shot,3,-28,28,True
+Pau Gasol,4,10,0,0,Driving Hook Shot,2,21,17,True
+Pau Gasol,4,6,46,0,Driving Hook Shot,6,-7,67,True
+Pau Gasol,2,8,57,1,Driving Hook Shot,1,0,15,True
+Pau Gasol,1,1,32,0,Driving Hook Shot,3,-39,4,True
+Pau Gasol,2,8,18,0,Driving Hook Shot,6,-55,27,True
+Pau Gasol,2,7,32,1,Driving Hook Shot,3,-28,28,True
+Pau Gasol,1,6,33,1,Driving Hook Shot,5,-5,59,True
+Pau Gasol,2,4,43,1,Driving Hook Shot,7,31,63,True
+Pau Gasol,3,10,48,1,Driving Hook Shot,8,0,80,True
+Pau Gasol,3,7,50,0,Driving Hook Shot,10,19,103,True
+Pau Gasol,4,10,59,0,Driving Hook Shot,2,17,16,True
+Pau Gasol,2,9,14,1,Driving Layup Shot,0,-7,4,True
+Pau Gasol,2,7,56,1,Driving Layup Shot,0,2,3,True
+Pau Gasol,4,2,40,0,Driving Layup Shot,6,30,57,True
+Pau Gasol,2,10,54,0,Driving Layup Shot,0,2,9,True
+Pau Gasol,1,9,32,1,Driving Layup Shot,1,11,12,True
+Pau Gasol,3,0,56,0,Driving Layup Shot,5,11,49,True
+Pau Gasol,3,0,14,0,Driving Layup Shot,2,16,21,True
+Pau Gasol,2,6,57,1,Driving Layup Shot,0,-7,7,True
+Pau Gasol,1,9,41,0,Driving Layup Shot,7,-5,75,True
+Pau Gasol,2,9,9,0,Driving Layup Shot,5,32,41,True
+Pau Gasol,4,8,27,0,Driving Layup Shot,3,-33,8,True
+Pau Gasol,2,3,10,1,Driving Layup Shot,2,-20,5,True
+Pau Gasol,3,2,17,0,Driving Layup Shot,9,32,85,True
+Pau Gasol,3,1,56,0,Driving Layup Shot,7,47,57,True
+Pau Gasol,3,3,5,1,Driving Layup Shot,1,-9,10,True
+Pau Gasol,2,0,34,0,Driving Layup Shot,3,31,10,True
+Pau Gasol,3,6,52,0,Driving Layup Shot,1,-5,13,True
+Pau Gasol,4,7,28,0,Driving Layup Shot,3,-5,36,True
+Pau Gasol,1,7,49,0,Driving Layup Shot,0,-8,3,True
+Pau Gasol,3,1,52,1,Driving Reverse Layup Shot,0,0,0,True
+Pau Gasol,1,6,27,0,Driving Reverse Layup Shot,3,11,35,True
+Pau Gasol,2,0,23,1,Dunk Shot,0,4,4,True
+Pau Gasol,2,6,24,1,Dunk Shot,0,-3,3,True
+Pau Gasol,1,0,53,1,Dunk Shot,0,-9,0,True
+Pau Gasol,4,10,15,1,Dunk Shot,1,5,14,True
+Pau Gasol,3,7,23,0,Fadeaway Jump Shot,11,-35,113,True
+Pau Gasol,1,8,0,0,Fadeaway Jump Shot,9,-56,73,True
+Pau Gasol,4,6,58,0,Fadeaway Jump Shot,7,39,67,True
+Pau Gasol,1,0,42,0,Fadeaway Jump Shot,11,32,106,True
+Pau Gasol,3,8,28,1,Fadeaway Jump Shot,9,-7,91,True
+Pau Gasol,3,7,6,1,Fadeaway Jump Shot,8,55,71,True
+Pau Gasol,1,5,48,0,Fadeaway Jump Shot,8,19,84,True
+Pau Gasol,3,8,23,1,Fadeaway Jump Shot,6,16,67,True
+Pau Gasol,3,4,46,0,Fadeaway Jump Shot,9,-16,90,True
+Pau Gasol,4,11,37,0,Fadeaway Jump Shot,12,9,121,True
+Pau Gasol,2,8,44,1,Finger Roll Layup Shot,1,-18,8,True
+Pau Gasol,1,10,44,1,Finger Roll Layup Shot,2,3,29,True
+Pau Gasol,3,3,54,0,Floating Jump shot,8,-4,87,True
+Pau Gasol,3,6,9,0,Floating Jump shot,6,20,61,True
+Pau Gasol,1,6,39,1,Floating Jump shot,13,9,130,True
+Pau Gasol,1,8,15,0,Floating Jump shot,7,18,75,True
+Pau Gasol,1,2,25,0,Floating Jump shot,2,-24,2,True
+Pau Gasol,3,3,57,0,Hook Shot,6,-10,67,True
+Pau Gasol,4,9,14,1,Hook Shot,4,-3,40,True
+Pau Gasol,3,3,43,1,Hook Shot,2,2,26,True
+Pau Gasol,1,7,26,0,Hook Shot,9,72,69,True
+Pau Gasol,2,11,5,1,Hook Shot,1,0,16,True
+Pau Gasol,3,2,45,0,Hook Shot,7,3,78,True
+Pau Gasol,4,5,13,0,Hook Shot,11,60,96,True
+Pau Gasol,4,11,48,1,Hook Shot,8,5,83,True
+Pau Gasol,1,10,7,0,Hook Shot,7,-77,21,True
+Pau Gasol,2,11,34,1,Hook Shot,0,-2,8,True
+Pau Gasol,2,10,14,1,Hook Shot,2,-7,20,True
+Pau Gasol,1,7,44,1,Hook Shot,6,-3,69,True
+Pau Gasol,2,10,36,0,Hook Shot,9,-5,90,True
+Pau Gasol,1,5,26,0,Hook Shot,6,7,69,True
+Pau Gasol,2,9,45,0,Hook Shot,6,9,62,True
+Pau Gasol,3,5,8,1,Hook Shot,3,-36,17,True
+Pau Gasol,4,8,30,1,Hook Shot,2,11,21,True
+Pau Gasol,1,10,54,1,Hook Shot,5,57,10,True
+Pau Gasol,1,8,9,0,Hook Shot,23,0,231,True
+Pau Gasol,2,8,7,0,Hook Shot,6,32,54,True
+Pau Gasol,2,10,48,1,Jump Bank Shot,1,14,5,True
+Pau Gasol,4,8,31,0,Jump Bank Shot,6,-68,13,True
+Pau Gasol,1,8,38,1,Jump Bank Shot,5,43,26,True
+Pau Gasol,2,3,17,1,Jump Shot,16,3,162,True
+Pau Gasol,3,8,6,0,Jump Shot,17,-73,156,True
+Pau Gasol,2,4,32,1,Jump Shot,11,96,62,True
+Pau Gasol,3,7,35,0,Jump Shot,16,169,15,True
+Pau Gasol,1,7,48,1,Jump Shot,25,-2,256,False
+Pau Gasol,2,9,37,0,Jump Shot,23,228,36,False
+Pau Gasol,2,9,8,0,Jump Shot,26,23,262,False
+Pau Gasol,4,11,5,0,Jump Shot,25,-27,257,False
+Pau Gasol,1,11,44,0,Jump Shot,17,-26,176,True
+Pau Gasol,1,5,38,1,Jump Shot,27,141,231,False
+Pau Gasol,4,9,33,0,Jump Shot,23,-235,41,False
+Pau Gasol,1,6,12,0,Jump Shot,23,-230,22,False
+Pau Gasol,3,7,22,1,Jump Shot,16,73,147,True
+Pau Gasol,1,11,2,0,Jump Shot,20,131,158,True
+Pau Gasol,1,7,15,1,Jump Shot,14,43,136,True
+Pau Gasol,4,8,39,0,Jump Shot,26,-96,248,False
+Pau Gasol,2,9,13,1,Jump Shot,21,-82,203,True
+Pau Gasol,2,10,57,0,Jump Shot,18,-182,43,True
+Pau Gasol,2,6,18,0,Jump Shot,25,-54,247,False
+Pau Gasol,3,11,42,1,Jump Shot,18,104,158,True
+Pau Gasol,3,8,43,0,Jump Shot,26,1,266,False
+Pau Gasol,3,4,31,0,Jump Shot,13,132,36,True
+Pau Gasol,3,0,36,0,Jump Shot,26,-4,266,False
+Pau Gasol,4,9,5,0,Jump Shot,15,126,87,True
+Pau Gasol,3,1,24,1,Jump Shot,14,-58,132,True
+Pau Gasol,1,1,15,0,Jump Shot,11,-20,114,True
+Pau Gasol,4,11,30,0,Jump Shot,8,-9,84,True
+Pau Gasol,1,2,28,0,Jump Shot,17,-65,159,True
+Pau Gasol,4,11,44,0,Jump Shot,25,70,250,False
+Pau Gasol,4,0,56,0,Jump Shot,24,-68,239,False
+Pau Gasol,2,11,26,1,Jump Shot,20,-94,181,True
+Pau Gasol,1,3,8,1,Jump Shot,17,-3,170,True
+Pau Gasol,1,3,56,0,Jump Shot,10,93,43,True
+Pau Gasol,1,5,27,0,Jump Shot,22,109,194,True
+Pau Gasol,3,9,5,0,Jump Shot,25,-131,218,False
+Pau Gasol,1,9,31,0,Jump Shot,24,86,231,False
+Pau Gasol,4,9,1,0,Jump Shot,25,-15,252,False
+Pau Gasol,1,8,7,0,Jump Shot,25,-122,228,False
+Pau Gasol,4,1,35,1,Jump Shot,19,-119,150,True
+Pau Gasol,3,10,11,0,Jump Shot,12,-27,117,True
+Pau Gasol,4,9,47,0,Jump Shot,14,77,127,True
+Pau Gasol,3,10,49,1,Jump Shot,21,18,211,True
+Pau Gasol,2,2,52,0,Jump Shot,4,-5,41,True
+Pau Gasol,4,9,22,1,Jump Shot,20,153,130,True
+Pau Gasol,1,7,36,1,Jump Shot,17,25,172,True
+Pau Gasol,3,11,34,0,Jump Shot,23,19,235,True
+Pau Gasol,2,3,54,0,Jump Shot,22,-226,15,False
+Pau Gasol,1,9,8,0,Jump Shot,18,-83,163,True
+Pau Gasol,1,7,10,1,Jump Shot,25,135,211,False
+Pau Gasol,1,7,20,0,Jump Shot,25,-191,162,False
+Pau Gasol,3,8,44,0,Jump Shot,14,-43,134,True
+Pau Gasol,3,9,48,1,Jump Shot,9,-51,78,True
+Pau Gasol,1,9,34,0,Jump Shot,20,24,204,True
+Pau Gasol,2,1,58,0,Jump Shot,13,55,120,True
+Pau Gasol,1,11,40,0,Jump Shot,25,-5,258,False
+Pau Gasol,3,10,27,0,Jump Shot,26,-2,261,False
+Pau Gasol,2,10,57,0,Jump Shot,19,31,189,True
+Pau Gasol,3,4,29,0,Jump Shot,5,9,59,True
+Pau Gasol,2,3,39,0,Jump Shot,19,0,196,True
+Pau Gasol,1,0,33,0,Jump Shot,22,228,11,False
+Pau Gasol,3,5,7,0,Jump Shot,23,-14,230,True
+Pau Gasol,1,7,12,1,Jump Shot,25,107,231,False
+Pau Gasol,1,0,32,0,Jump Shot,16,-155,59,True
+Pau Gasol,1,7,40,1,Jump Shot,22,228,5,False
+Pau Gasol,1,6,51,1,Jump Shot,15,-6,152,True
+Pau Gasol,1,9,12,1,Jump Shot,19,69,179,True
+Pau Gasol,4,7,52,1,Jump Shot,19,-89,169,True
+Pau Gasol,2,8,39,0,Jump Shot,23,112,201,True
+Pau Gasol,1,9,31,0,Jump Shot,24,0,249,False
+Pau Gasol,1,4,57,0,Jump Shot,22,228,-15,False
+Pau Gasol,1,7,10,0,Jump Shot,13,52,125,True
+Pau Gasol,4,10,39,0,Jump Shot,20,-47,200,True
+Pau Gasol,3,8,44,0,Jump Shot,20,-1,200,True
+Pau Gasol,1,0,40,1,Jump Shot,17,-103,138,True
+Pau Gasol,2,9,49,0,Jump Shot,25,-105,236,False
+Pau Gasol,1,1,1,1,Jump Shot,19,-3,195,True
+Pau Gasol,4,10,59,0,Jump Shot,25,-19,253,False
+Pau Gasol,1,3,11,0,Jump Shot,16,-8,160,True
+Pau Gasol,1,4,54,1,Jump Shot,15,-9,152,True
+Pau Gasol,1,8,14,0,Jump Shot,22,-83,212,True
+Pau Gasol,1,11,25,1,Jump Shot,19,-114,159,True
+Pau Gasol,1,11,28,1,Jump Shot,21,-44,212,True
+Pau Gasol,1,10,44,1,Jump Shot,19,-47,190,True
+Pau Gasol,3,7,31,1,Jump Shot,25,83,241,False
+Pau Gasol,3,11,24,0,Jump Shot,17,110,131,True
+Pau Gasol,1,8,45,1,Jump Shot,20,9,206,True
+Pau Gasol,3,7,16,1,Jump Shot,23,229,22,False
+Pau Gasol,1,11,18,1,Jump Shot,18,139,116,True
+Pau Gasol,1,0,0,0,Jump Shot,4,24,42,True
+Pau Gasol,3,10,22,0,Jump Shot,16,28,162,True
+Pau Gasol,2,2,1,1,Jump Shot,23,232,11,False
+Pau Gasol,1,10,15,0,Jump Shot,13,-98,94,True
+Pau Gasol,1,6,4,0,Jump Shot,19,-98,169,True
+Pau Gasol,2,0,30,0,Jump Shot,23,230,-13,False
+Pau Gasol,1,11,7,0,Jump Shot,21,7,219,True
+Pau Gasol,1,7,9,0,Jump Shot,22,-38,220,True
+Pau Gasol,3,10,40,0,Jump Shot,25,-160,199,False
+Pau Gasol,1,5,49,0,Jump Shot,21,31,215,True
+Pau Gasol,4,9,5,0,Jump Shot,22,228,8,False
+Pau Gasol,2,8,56,0,Jump Shot,19,102,164,True
+Pau Gasol,1,11,11,1,Jump Shot,22,221,48,False
+Pau Gasol,4,10,0,1,Jump Shot,25,40,248,False
+Pau Gasol,2,10,19,0,Jump Shot,23,232,-16,False
+Pau Gasol,3,10,46,1,Jump Shot,25,-12,256,False
+Pau Gasol,2,3,46,1,Jump Shot,18,70,171,True
+Pau Gasol,3,11,26,1,Jump Shot,18,125,143,True
+Pau Gasol,1,6,50,0,Jump Shot,9,65,64,True
+Pau Gasol,2,8,21,0,Jump Shot,14,-86,121,True
+Pau Gasol,1,8,27,0,Jump Shot,21,104,183,True
+Pau Gasol,3,11,18,0,Jump Shot,26,-141,222,False
+Pau Gasol,1,1,39,0,Jump Shot,22,-84,212,True
+Pau Gasol,4,8,47,0,Jump Shot,23,-231,-13,False
+Pau Gasol,3,9,41,0,Jump Shot,14,25,141,True
+Pau Gasol,1,10,11,1,Jump Shot,22,-226,21,False
+Pau Gasol,1,9,27,0,Jump Shot,7,78,13,True
+Pau Gasol,1,9,9,1,Jump Shot,10,-12,101,True
+Pau Gasol,1,6,26,0,Jump Shot,22,-229,-3,False
+Pau Gasol,1,4,44,0,Jump Shot,25,103,231,False
+Pau Gasol,1,11,10,0,Jump Shot,22,-224,6,False
+Pau Gasol,3,2,5,1,Jump Shot,25,-174,184,False
+Pau Gasol,2,0,56,1,Jump Shot,17,-150,84,True
+Pau Gasol,1,2,5,1,Jump Shot,14,-29,144,True
+Pau Gasol,2,11,0,0,Jump Shot,18,-58,176,True
+Pau Gasol,3,8,52,1,Jump Shot,20,6,201,True
+Pau Gasol,2,11,24,0,Jump Shot,24,-236,64,False
+Pau Gasol,4,5,45,0,Jump Shot,13,133,13,True
+Pau Gasol,1,6,23,0,Jump Shot,15,23,157,True
+Pau Gasol,3,9,39,1,Jump Shot,24,67,239,False
+Pau Gasol,3,6,28,1,Jump Shot,22,-229,11,False
+Pau Gasol,3,1,52,0,Jump Shot,25,-36,251,False
+Pau Gasol,1,9,16,0,Jump Shot,16,50,162,True
+Pau Gasol,2,1,27,1,Jump Shot,25,203,153,False
+Pau Gasol,4,11,42,0,Jump Shot,17,-163,76,True
+Pau Gasol,1,8,49,0,Jump Shot,22,229,20,False
+Pau Gasol,1,10,29,1,Jump Shot,23,231,25,False
+Pau Gasol,3,5,33,0,Jump Shot,14,-84,112,True
+Pau Gasol,4,2,26,0,Jump Shot,25,-78,242,False
+Pau Gasol,1,0,2,1,Jump Shot,25,11,253,False
+Pau Gasol,1,11,9,1,Jump Shot,20,105,175,True
+Pau Gasol,1,9,36,0,Jump Shot,24,-2,249,False
+Pau Gasol,1,9,10,0,Jump Shot,11,42,107,True
+Pau Gasol,3,7,53,1,Jump Shot,15,127,80,True
+Pau Gasol,1,11,11,0,Jump Shot,15,-6,152,True
+Pau Gasol,2,4,14,0,Jump Shot,25,46,251,False
+Pau Gasol,3,1,19,1,Jump Shot,16,-1,164,True
+Pau Gasol,1,9,40,0,Jump Shot,19,13,194,True
+Pau Gasol,3,6,27,1,Jump Shot,18,105,155,True
+Pau Gasol,1,8,17,0,Jump Shot,25,-37,257,False
+Pau Gasol,1,10,14,0,Jump Shot,17,-79,157,True
+Pau Gasol,3,10,8,0,Jump Shot,22,-224,-5,False
+Pau Gasol,1,9,58,0,Jump Shot,16,92,136,True
+Pau Gasol,4,8,5,0,Jump Shot,17,153,79,True
+Pau Gasol,1,7,18,1,Jump Shot,23,-234,15,False
+Pau Gasol,3,0,23,0,Jump Shot,24,-46,242,False
+Pau Gasol,2,10,45,0,Jump Shot,20,29,200,True
+Pau Gasol,1,10,39,0,Jump Shot,24,74,231,False
+Pau Gasol,1,9,36,0,Jump Shot,14,-86,111,True
+Pau Gasol,3,9,18,0,Jump Shot,25,67,248,False
+Pau Gasol,1,10,14,1,Jump Shot,20,-93,185,True
+Pau Gasol,2,4,19,0,Jump Shot,15,155,10,True
+Pau Gasol,1,1,15,0,Jump Shot,7,-23,76,True
+Pau Gasol,4,9,6,0,Jump Shot,21,-21,218,True
+Pau Gasol,2,10,29,1,Jump Shot,19,-5,196,True
+Pau Gasol,1,11,42,1,Jump Shot,25,220,128,False
+Pau Gasol,3,10,8,1,Jump Shot,24,90,229,False
+Pau Gasol,4,1,30,1,Jump Shot,25,11,252,False
+Pau Gasol,3,11,28,0,Jump Shot,20,-21,204,True
+Pau Gasol,1,9,46,0,Jump Shot,27,-2,273,False
+Pau Gasol,1,0,0,0,Jump Shot,21,-71,207,True
+Pau Gasol,1,10,23,0,Jump Shot,27,111,252,False
+Pau Gasol,1,9,21,1,Jump Shot,26,127,236,False
+Pau Gasol,3,5,35,0,Jump Shot,26,7,261,False
+Pau Gasol,1,7,27,0,Jump Shot,28,0,281,False
+Pau Gasol,3,6,20,0,Jump Shot,26,-26,268,False
+Pau Gasol,3,11,13,1,Jump Shot,23,-232,35,False
+Pau Gasol,3,9,32,0,Jump Shot,18,-4,183,True
+Pau Gasol,3,1,16,1,Jump Shot,18,30,182,True
+Pau Gasol,3,9,49,0,Jump Shot,25,-18,256,False
+Pau Gasol,3,6,51,1,Jump Shot,15,-35,152,True
+Pau Gasol,3,5,11,0,Jump Shot,16,-55,153,True
+Pau Gasol,1,10,42,0,Jump Shot,25,24,254,False
+Pau Gasol,1,8,5,1,Jump Shot,25,84,244,False
+Pau Gasol,1,11,14,1,Jump Shot,23,231,5,False
+Pau Gasol,3,9,33,1,Jump Shot,25,126,220,False
+Pau Gasol,2,4,26,0,Jump Shot,12,120,0,True
+Pau Gasol,2,6,48,0,Jump Shot,25,-11,253,False
+Pau Gasol,1,8,44,0,Jump Shot,25,-33,251,False
+Pau Gasol,2,2,4,1,Jump Shot,19,-195,6,True
+Pau Gasol,1,7,18,0,Jump Shot,9,47,88,True
+Pau Gasol,4,2,36,0,Jump Shot,23,-230,0,False
+Pau Gasol,1,6,56,0,Jump Shot,20,33,199,True
+Pau Gasol,2,7,53,1,Jump Shot,25,-14,259,False
+Pau Gasol,3,6,19,1,Jump Shot,24,-40,246,False
+Pau Gasol,1,10,18,0,Jump Shot,20,35,200,True
+Pau Gasol,3,10,8,0,Jump Shot,22,-225,11,False
+Pau Gasol,3,10,43,1,Jump Shot,11,114,26,True
+Pau Gasol,1,4,56,0,Jump Shot,25,14,252,False
+Pau Gasol,1,9,13,1,Jump Shot,16,12,162,True
+Pau Gasol,2,4,8,0,Jump Shot,16,-9,169,True
+Pau Gasol,3,7,18,0,Jump Shot,22,-225,1,False
+Pau Gasol,1,10,45,1,Jump Shot,22,-95,202,True
+Pau Gasol,3,8,53,0,Jump Shot,25,0,250,False
+Pau Gasol,4,8,54,1,Jump Shot,17,-146,100,True
+Pau Gasol,2,1,43,1,Jump Shot,18,-13,187,True
+Pau Gasol,1,3,48,0,Jump Shot,18,132,136,True
+Pau Gasol,4,10,37,0,Jump Shot,13,116,73,True
+Pau Gasol,3,1,57,1,Jump Shot,19,-106,164,True
+Pau Gasol,1,3,14,1,Jump Shot,25,-11,254,False
+Pau Gasol,3,5,24,0,Jump Shot,17,-123,124,True
+Pau Gasol,3,5,54,1,Jump Shot,24,-27,241,False
+Pau Gasol,3,7,17,1,Jump Shot,14,147,22,True
+Pau Gasol,2,5,10,0,Jump Shot,18,-117,139,True
+Pau Gasol,1,8,10,1,Jump Shot,25,15,253,False
+Pau Gasol,1,0,26,1,Jump Shot,7,-13,69,True
+Pau Gasol,1,9,4,1,Jump Shot,24,-25,247,False
+Pau Gasol,4,6,28,0,Jump Shot,26,120,239,False
+Pau Gasol,3,3,25,0,Jump Shot,11,-117,9,True
+Pau Gasol,1,7,57,1,Jump Shot,23,230,-10,False
+Pau Gasol,3,0,1,1,Jump Shot,26,82,248,False
+Pau Gasol,4,9,52,1,Jump Shot,25,17,257,False
+Pau Gasol,2,9,45,1,Jump Shot,11,109,17,True
+Pau Gasol,1,9,59,0,Jump Shot,22,226,16,False
+Pau Gasol,1,0,1,1,Jump Shot,23,-237,-26,False
+Pau Gasol,4,9,14,0,Jump Shot,25,-9,253,False
+Pau Gasol,2,10,25,0,Jump Shot,21,111,184,True
+Pau Gasol,2,3,36,0,Jump Shot,18,-101,158,True
+Pau Gasol,3,8,39,0,Jump Shot,18,73,165,True
+Pau Gasol,3,11,0,1,Jump Shot,15,-95,126,True
+Pau Gasol,1,11,16,0,Jump Shot,18,152,103,True
+Pau Gasol,3,7,54,0,Jump Shot,16,3,162,True
+Pau Gasol,1,10,59,0,Jump Shot,22,227,7,False
+Pau Gasol,4,9,19,0,Jump Shot,14,24,145,True
+Pau Gasol,3,6,46,0,Jump Shot,24,27,248,False
+Pau Gasol,3,7,0,1,Jump Shot,19,47,190,True
+Pau Gasol,1,10,0,1,Jump Shot,22,-229,-16,False
+Pau Gasol,1,7,53,0,Jump Shot,23,-231,22,False
+Pau Gasol,2,9,36,1,Jump Shot,18,-5,180,True
+Pau Gasol,1,9,58,1,Jump Shot,25,-36,256,False
+Pau Gasol,2,7,52,1,Jump Shot,10,44,97,True
+Pau Gasol,1,8,3,0,Jump Shot,23,227,63,False
+Pau Gasol,3,7,27,0,Jump Shot,16,-2,164,True
+Pau Gasol,3,11,19,0,Jump Shot,20,-152,142,True
+Pau Gasol,2,8,41,1,Jump Shot,14,-4,144,True
+Pau Gasol,2,7,44,1,Jump Shot,26,46,259,False
+Pau Gasol,4,5,58,0,Jump Shot,25,210,140,False
+Pau Gasol,2,10,58,0,Jump Shot,10,-18,102,True
+Pau Gasol,1,1,55,0,Jump Shot,16,-5,165,True
+Pau Gasol,4,9,13,1,Jump Shot,15,-135,67,True
+Pau Gasol,2,8,5,0,Jump Shot,7,-9,75,True
+Pau Gasol,3,6,50,1,Jump Shot,16,-1,163,True
+Pau Gasol,4,5,47,0,Jump Shot,9,-25,89,True
+Pau Gasol,1,8,55,1,Jump Shot,20,-40,206,True
+Pau Gasol,1,1,51,0,Jump Shot,26,111,236,False
+Pau Gasol,1,11,29,1,Jump Shot,8,8,84,True
+Pau Gasol,3,11,26,0,Jump Shot,24,16,246,False
+Pau Gasol,1,5,44,0,Jump Shot,20,2,209,True
+Pau Gasol,1,8,34,0,Jump Shot,25,-8,255,False
+Pau Gasol,3,10,21,0,Jump Shot,6,0,67,True
+Pau Gasol,1,4,55,0,Jump Shot,10,-98,31,True
+Pau Gasol,1,9,2,1,Jump Shot,25,44,247,False
+Pau Gasol,4,5,43,0,Jump Shot,24,-65,239,False
+Pau Gasol,1,0,27,0,Jump Shot,22,225,-17,False
+Pau Gasol,1,4,39,0,Layup Shot,3,21,26,True
+Pau Gasol,4,9,31,1,Layup Shot,0,7,5,True
+Pau Gasol,3,1,30,0,Layup Shot,1,5,11,True
+Pau Gasol,3,7,58,1,Layup Shot,1,1,13,True
+Pau Gasol,3,11,35,0,Layup Shot,1,-9,6,True
+Pau Gasol,3,2,51,0,Layup Shot,1,-2,13,True
+Pau Gasol,4,11,34,1,Layup Shot,1,9,12,True
+Pau Gasol,3,2,48,1,Layup Shot,1,-11,5,True
+Pau Gasol,4,3,53,0,Layup Shot,1,11,1,True
+Pau Gasol,3,6,14,1,Layup Shot,1,-1,17,True
+Pau Gasol,2,1,32,0,Layup Shot,0,4,1,True
+Pau Gasol,4,7,55,0,Layup Shot,2,17,14,True
+Pau Gasol,2,10,6,1,Layup Shot,0,-1,-1,True
+Pau Gasol,3,6,51,0,Layup Shot,5,24,51,True
+Pau Gasol,1,10,15,0,Layup Shot,2,-2,29,True
+Pau Gasol,4,11,44,1,Layup Shot,3,7,36,True
+Pau Gasol,4,8,10,1,Layup Shot,2,24,0,True
+Pau Gasol,4,3,24,0,Layup Shot,2,25,1,True
+Pau Gasol,3,9,20,1,Layup Shot,0,-2,5,True
+Pau Gasol,3,7,1,1,Layup Shot,2,-27,6,True
+Pau Gasol,2,1,12,0,Layup Shot,7,-65,31,True
+Pau Gasol,1,0,12,1,Layup Shot,0,3,9,True
+Pau Gasol,1,0,49,1,Layup Shot,1,-4,17,True
+Pau Gasol,1,6,56,1,Layup Shot,0,4,5,True
+Pau Gasol,2,6,13,0,Layup Shot,2,-24,15,True
+Pau Gasol,1,10,24,0,Layup Shot,4,24,41,True
+Pau Gasol,4,4,25,0,Layup Shot,2,21,10,True
+Pau Gasol,2,10,39,0,Layup Shot,0,-2,-5,True
+Pau Gasol,1,6,19,1,Layup Shot,1,-3,12,True
+Pau Gasol,3,6,1,1,Layup Shot,3,20,26,True
+Pau Gasol,2,4,11,0,Layup Shot,2,19,10,True
+Pau Gasol,1,7,3,0,Layup Shot,2,-1,21,True
+Pau Gasol,3,10,16,0,Layup Shot,1,15,12,True
+Pau Gasol,4,7,29,1,Layup Shot,2,-22,1,True
+Pau Gasol,3,11,8,0,Layup Shot,3,-11,37,True
+Pau Gasol,2,9,50,0,Layup Shot,1,-8,8,True
+Pau Gasol,3,2,11,1,Layup Shot,1,2,13,True
+Pau Gasol,2,11,15,0,Layup Shot,3,27,16,True
+Pau Gasol,1,10,16,1,Layup Shot,0,0,8,True
+Pau Gasol,1,11,21,0,Layup Shot,2,5,21,True
+Pau Gasol,2,11,10,1,Layup Shot,1,-2,-12,True
+Pau Gasol,1,10,39,0,Layup Shot,0,-8,1,True
+Pau Gasol,1,2,46,0,Layup Shot,2,15,15,True
+Pau Gasol,4,4,2,1,Layup Shot,4,-16,43,True
+Pau Gasol,3,8,15,1,Layup Shot,2,0,27,True
+Pau Gasol,3,8,31,1,Layup Shot,2,17,17,True
+Pau Gasol,1,11,20,1,Layup Shot,2,-23,-6,True
+Pau Gasol,1,1,22,1,Layup Shot,4,-22,34,True
+Pau Gasol,2,0,0,0,Layup Shot,1,-12,8,True
+Pau Gasol,3,11,10,1,Layup Shot,2,6,29,True
+Pau Gasol,1,1,6,1,Layup Shot,0,-2,8,True
+Pau Gasol,1,8,15,1,Layup Shot,2,25,14,True
+Pau Gasol,4,11,49,1,Layup Shot,0,-8,4,True
+Pau Gasol,1,5,24,1,Layup Shot,2,2,25,True
+Pau Gasol,4,8,15,1,Layup Shot,2,-13,26,True
+Pau Gasol,1,1,19,0,Layup Shot,1,13,-13,True
+Pau Gasol,2,1,12,0,Layup Shot,0,0,4,True
+Pau Gasol,2,10,34,1,Layup Shot,1,-11,-1,True
+Pau Gasol,1,2,47,1,Layup Shot,1,12,3,True
+Pau Gasol,3,11,21,1,Layup Shot,0,3,7,True
+Pau Gasol,1,1,6,0,Pullup Jump shot,20,-78,190,True
+Pau Gasol,1,10,25,1,Pullup Jump shot,15,145,54,True
+Pau Gasol,1,10,38,0,Pullup Jump shot,19,-55,185,True
+Pau Gasol,3,10,35,0,Pullup Jump shot,18,-69,171,True
+Pau Gasol,1,11,29,0,Pullup Jump shot,15,-82,134,True
+Pau Gasol,4,2,47,0,Pullup Jump shot,16,-11,167,True
+Pau Gasol,2,6,32,0,Pullup Jump shot,5,-4,51,True
+Pau Gasol,1,5,34,0,Pullup Jump shot,6,-13,67,True
+Pau Gasol,3,2,3,1,Putback Dunk Shot,0,0,-6,True
+Pau Gasol,4,11,5,1,Putback Layup Shot,0,0,-6,True
+Pau Gasol,4,4,6,1,Putback Layup Shot,0,0,-6,True
+Pau Gasol,1,10,28,0,Putback Layup Shot,2,-22,5,True
+Pau Gasol,2,6,7,0,Putback Layup Shot,0,0,-6,True
+Pau Gasol,1,6,58,1,Putback Layup Shot,0,0,-6,True
+Pau Gasol,3,0,53,1,Putback Layup Shot,0,0,-6,True
+Pau Gasol,2,11,3,0,Putback Layup Shot,3,30,2,True
+Pau Gasol,2,0,3,1,Putback Layup Shot,0,0,-6,True
+Pau Gasol,4,0,35,1,Putback Layup Shot,1,-8,13,True
+Pau Gasol,2,10,32,1,Putback Layup Shot,0,0,-6,True
+Pau Gasol,4,0,1,1,Putback Layup Shot,2,18,9,True
+Pau Gasol,4,11,40,0,Putback Layup Shot,0,0,-6,True
+Pau Gasol,1,0,20,0,Putback Layup Shot,2,-10,19,True
+Pau Gasol,4,8,22,0,Putback Layup Shot,0,0,-6,True
+Pau Gasol,1,6,55,0,Reverse Layup Shot,2,21,12,True
+Pau Gasol,1,7,4,1,Reverse Layup Shot,1,-14,5,True
+Pau Gasol,1,1,16,1,Reverse Layup Shot,2,-25,5,True
+Pau Gasol,3,6,50,1,Running Finger Roll Layup Shot,1,1,14,True
+Pau Gasol,4,3,45,0,Running Jump Shot,6,62,31,True
+Pau Gasol,3,3,52,1,Running Layup Shot,0,-2,-2,True
+Pau Gasol,3,4,7,1,Running Reverse Layup Shot,1,-5,9,True
+Pau Gasol,4,8,40,0,Step Back Jump shot,23,-230,62,False
+Pau Gasol,3,11,9,0,Step Back Jump shot,9,79,52,True
+Pau Gasol,2,2,38,0,Step Back Jump shot,4,-13,41,True
+Pau Gasol,1,2,6,0,Tip Layup Shot,0,0,-6,True
+Pau Gasol,3,0,40,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,1,2,3,0,Tip Layup Shot,0,0,-6,True
+Pau Gasol,3,0,0,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,4,5,10,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,3,4,4,0,Tip Layup Shot,0,6,6,True
+Pau Gasol,3,3,25,0,Tip Layup Shot,0,0,-6,True
+Pau Gasol,4,8,33,0,Tip Layup Shot,0,0,-6,True
+Pau Gasol,3,1,50,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,4,7,37,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,1,8,25,0,Tip Layup Shot,0,0,-6,True
+Pau Gasol,3,0,1,0,Tip Layup Shot,0,0,-6,True
+Pau Gasol,2,0,35,0,Tip Layup Shot,0,0,-6,True
+Pau Gasol,4,8,0,0,Tip Layup Shot,0,0,-6,True
+Pau Gasol,2,0,35,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,2,11,20,0,Tip Layup Shot,0,0,-6,True
+Pau Gasol,2,2,31,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,1,1,22,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,3,4,34,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,2,11,19,0,Tip Layup Shot,0,0,-6,True
+Pau Gasol,1,10,27,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,1,1,33,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,3,4,35,0,Tip Layup Shot,0,0,-6,True
+Pau Gasol,2,4,35,0,Tip Layup Shot,0,0,-6,True
+Pau Gasol,1,5,33,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,4,1,48,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,4,10,21,0,Tip Layup Shot,2,19,18,True
+Pau Gasol,2,9,11,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,3,2,45,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,1,11,9,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,1,2,14,0,Tip Layup Shot,1,-3,16,True
+Pau Gasol,4,4,23,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,3,10,59,1,Tip Layup Shot,0,0,-6,True
+Pau Gasol,1,2,12,0,Tip Layup Shot,2,2,25,True
+Pau Gasol,3,7,25,1,Turnaround Bank Hook Shot,5,51,4,True
+Pau Gasol,1,8,1,1,Turnaround Fadeaway Bank Jump Shot,14,117,84,True
+Pau Gasol,1,9,13,0,Turnaround Fadeaway Bank Jump Shot,7,45,61,True
+Pau Gasol,1,0,14,0,Turnaround Fadeaway Bank Jump Shot,6,-32,62,True
+Pau Gasol,1,10,13,0,Turnaround Fadeaway Bank Jump Shot,2,24,6,True
+Pau Gasol,2,3,11,1,Turnaround Fadeaway shot,10,96,37,True
+Pau Gasol,4,10,30,1,Turnaround Fadeaway shot,9,-91,31,True
+Pau Gasol,4,3,30,1,Turnaround Fadeaway shot,8,33,79,True
+Pau Gasol,1,6,53,1,Turnaround Fadeaway shot,11,113,-6,True
+Pau Gasol,1,10,54,0,Turnaround Fadeaway shot,10,108,7,True
+Pau Gasol,2,4,14,1,Turnaround Fadeaway shot,13,49,122,True
+Pau Gasol,1,5,35,1,Turnaround Fadeaway shot,6,-69,10,True
+Pau Gasol,3,2,45,0,Turnaround Fadeaway shot,14,93,114,True
+Pau Gasol,3,8,39,0,Turnaround Fadeaway shot,11,41,104,True
+Pau Gasol,3,8,12,0,Turnaround Fadeaway shot,15,-53,141,True
+Pau Gasol,3,9,44,0,Turnaround Fadeaway shot,19,-193,-2,True
+Pau Gasol,1,1,19,0,Turnaround Fadeaway shot,11,-110,47,True
+Pau Gasol,1,1,42,1,Turnaround Hook Shot,2,-2,27,True
+Pau Gasol,3,10,48,1,Turnaround Hook Shot,6,-63,29,True
+Pau Gasol,4,7,6,0,Turnaround Hook Shot,4,-35,31,True
+Pau Gasol,1,0,31,1,Turnaround Hook Shot,2,-3,22,True
+Pau Gasol,4,11,42,1,Turnaround Hook Shot,2,2,21,True
+Pau Gasol,2,1,9,1,Turnaround Hook Shot,3,-36,13,True
+Pau Gasol,4,9,37,0,Turnaround Hook Shot,6,-64,19,True
+Pau Gasol,2,3,57,1,Turnaround Hook Shot,4,45,3,True
+Pau Gasol,1,6,13,0,Turnaround Hook Shot,9,-90,11,True
+Pau Gasol,2,8,39,1,Turnaround Hook Shot,3,-5,36,True
+Pau Gasol,2,7,3,1,Turnaround Hook Shot,3,14,36,True
+Pau Gasol,2,5,22,1,Turnaround Hook Shot,4,-7,44,True
+Pau Gasol,4,9,19,1,Turnaround Hook Shot,5,27,47,True
+Pau Gasol,2,2,22,0,Turnaround Hook Shot,8,-85,4,True
+Pau Gasol,1,7,10,0,Turnaround Jump Shot,10,0,107,True
+Pau Gasol,1,5,55,1,Turnaround Jump Shot,15,-154,16,True
+Pau Gasol,1,11,42,1,Turnaround Jump Shot,13,-28,136,True
+Pau Gasol,3,11,15,0,Turnaround Jump Shot,9,60,75,True
+Pau Gasol,2,9,0,0,Turnaround Jump Shot,10,44,91,True
+Pau Gasol,1,8,36,0,Turnaround Jump Shot,7,-63,47,True
+Pau Gasol,2,1,23,0,Turnaround Jump Shot,7,-74,-11,True
+Pau Gasol,3,0,33,0,Turnaround Jump Shot,4,40,25,True
+Pau Gasol,1,10,48,1,Turnaround Jump Shot,6,-64,-8,True
+Pau Gasol,2,7,29,0,Turnaround Jump Shot,5,0,58,True
+Pau Gasol,1,9,30,0,Turnaround Jump Shot,8,2,89,True
+Pau Gasol,4,8,42,0,Turnaround Jump Shot,17,83,159,True
+Pau Gasol,3,0,4,0,Turnaround Jump Shot,9,-44,87,True
+Pau Gasol,2,9,37,0,Turnaround Jump Shot,12,-109,63,True
+Pau Gasol,4,1,52,0,Turnaround Jump Shot,11,-116,11,True
+Pau Gasol,3,1,18,0,Turnaround Jump Shot,11,-111,32,True
+Pau Gasol,2,9,11,0,Turnaround Jump Shot,6,41,48,True
+Pau Gasol,2,9,42,1,Turnaround Jump Shot,10,-99,31,True
+Pau Gasol,4,10,26,1,Turnaround Jump Shot,11,117,6,True
+Pau Gasol,3,3,12,1,Turnaround Jump Shot,10,-108,13,True
+Pau Gasol,2,11,3,1,Turnaround Jump Shot,10,-104,32,True
+Pau Gasol,1,7,23,1,Turnaround Jump Shot,8,35,81,True
+Pau Gasol,3,3,16,0,Turnaround Jump Shot,14,18,147,True
+Pau Gasol,2,2,56,0,Turnaround Jump Shot,6,3,69,True
+Pau Gasol,1,8,37,1,Turnaround Jump Shot,12,2,121,True
+Pau Gasol,2,10,24,1,Turnaround Jump Shot,7,-14,73,True

@@ -1,0 +1,255 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Danilo Gallinari,2,0,10,1,Alley Oop Layup shot,0,6,3,True
+Danilo Gallinari,4,3,44,1,Cutting Dunk Shot,2,14,19,True
+Danilo Gallinari,2,2,55,1,Cutting Dunk Shot,1,-12,4,True
+Danilo Gallinari,4,0,21,1,Cutting Dunk Shot,1,1,16,True
+Danilo Gallinari,4,8,47,1,Cutting Dunk Shot,1,5,13,True
+Danilo Gallinari,2,7,10,1,Cutting Dunk Shot,1,3,14,True
+Danilo Gallinari,2,3,16,1,Cutting Dunk Shot,1,8,8,True
+Danilo Gallinari,1,7,46,1,Cutting Dunk Shot,0,1,5,True
+Danilo Gallinari,1,5,15,0,Cutting Layup Shot,1,5,17,True
+Danilo Gallinari,1,11,3,1,Cutting Layup Shot,0,-5,-2,True
+Danilo Gallinari,1,7,55,1,Cutting Layup Shot,2,3,25,True
+Danilo Gallinari,4,1,17,1,Cutting Layup Shot,1,-8,11,True
+Danilo Gallinari,1,11,4,1,Driving Dunk Shot,0,-3,8,True
+Danilo Gallinari,4,0,54,0,Driving Dunk Shot,1,-3,15,True
+Danilo Gallinari,3,5,12,0,Driving Dunk Shot,1,-17,4,True
+Danilo Gallinari,3,11,20,1,Driving Dunk Shot,1,-4,13,True
+Danilo Gallinari,2,2,9,0,Driving Dunk Shot,0,1,9,True
+Danilo Gallinari,3,3,51,1,Driving Dunk Shot,0,1,6,True
+Danilo Gallinari,4,6,31,1,Driving Dunk Shot,1,-13,4,True
+Danilo Gallinari,4,1,44,1,Driving Dunk Shot,2,-10,21,True
+Danilo Gallinari,4,11,17,1,Driving Floating Jump Shot,5,52,11,True
+Danilo Gallinari,1,5,22,0,Driving Floating Jump Shot,8,44,78,True
+Danilo Gallinari,1,9,18,0,Driving Floating Jump Shot,12,-27,122,True
+Danilo Gallinari,3,3,55,1,Driving Layup Shot,2,5,23,True
+Danilo Gallinari,1,8,32,1,Driving Layup Shot,1,-11,8,True
+Danilo Gallinari,3,9,32,0,Driving Layup Shot,1,-11,13,True
+Danilo Gallinari,3,10,44,1,Driving Layup Shot,1,-14,8,True
+Danilo Gallinari,1,3,25,1,Driving Layup Shot,5,-3,59,True
+Danilo Gallinari,2,8,50,1,Driving Layup Shot,1,8,11,True
+Danilo Gallinari,3,11,12,1,Driving Layup Shot,0,-8,4,True
+Danilo Gallinari,1,10,58,0,Driving Layup Shot,2,-10,27,True
+Danilo Gallinari,3,8,4,1,Driving Layup Shot,2,-11,20,True
+Danilo Gallinari,2,0,36,1,Driving Layup Shot,2,-13,18,True
+Danilo Gallinari,4,3,2,0,Driving Layup Shot,2,20,5,True
+Danilo Gallinari,1,10,28,0,Driving Layup Shot,1,-13,13,True
+Danilo Gallinari,1,7,52,0,Driving Layup Shot,1,17,9,True
+Danilo Gallinari,2,7,3,0,Driving Layup Shot,2,-5,24,True
+Danilo Gallinari,2,6,6,1,Dunk Shot,0,6,-4,True
+Danilo Gallinari,1,10,21,0,Dunk Shot,1,11,9,True
+Danilo Gallinari,3,9,54,1,Fadeaway Jump Shot,6,-45,50,True
+Danilo Gallinari,2,3,4,0,Fadeaway Jump Shot,11,-33,109,True
+Danilo Gallinari,1,10,12,0,Fadeaway Jump Shot,8,-13,83,True
+Danilo Gallinari,3,8,13,0,Fadeaway Jump Shot,12,107,59,True
+Danilo Gallinari,1,11,41,0,Fadeaway Jump Shot,16,-82,142,True
+Danilo Gallinari,3,10,47,0,Fadeaway Jump Shot,10,45,92,True
+Danilo Gallinari,1,10,56,1,Fadeaway Jump Shot,13,133,15,True
+Danilo Gallinari,3,9,48,1,Fadeaway Jump Shot,12,123,32,True
+Danilo Gallinari,2,0,5,0,Fadeaway Jump Shot,5,-30,46,True
+Danilo Gallinari,1,11,40,0,Finger Roll Layup Shot,2,-12,22,True
+Danilo Gallinari,2,8,24,1,Finger Roll Layup Shot,1,-2,17,True
+Danilo Gallinari,2,10,0,0,Floating Jump shot,25,-14,258,False
+Danilo Gallinari,2,5,1,0,Jump Bank Shot,11,15,116,True
+Danilo Gallinari,4,1,52,1,Jump Shot,26,-6,264,False
+Danilo Gallinari,2,4,42,0,Jump Shot,25,-4,257,False
+Danilo Gallinari,2,9,56,0,Jump Shot,24,-136,208,False
+Danilo Gallinari,1,7,13,0,Jump Shot,25,22,256,False
+Danilo Gallinari,4,0,18,0,Jump Shot,22,13,225,True
+Danilo Gallinari,1,7,49,0,Jump Shot,22,-189,117,True
+Danilo Gallinari,3,8,53,1,Jump Shot,21,52,209,True
+Danilo Gallinari,2,10,10,1,Jump Shot,23,232,45,False
+Danilo Gallinari,3,7,23,1,Jump Shot,25,-153,209,False
+Danilo Gallinari,1,7,3,0,Jump Shot,22,-223,6,False
+Danilo Gallinari,2,8,57,1,Jump Shot,22,14,226,True
+Danilo Gallinari,3,8,29,0,Jump Shot,27,-103,252,False
+Danilo Gallinari,2,4,40,1,Jump Shot,20,-200,-7,True
+Danilo Gallinari,3,6,1,0,Jump Shot,13,54,123,True
+Danilo Gallinari,3,11,32,0,Jump Shot,14,-141,50,True
+Danilo Gallinari,1,4,48,0,Jump Shot,26,159,211,False
+Danilo Gallinari,2,6,3,0,Jump Shot,21,-147,162,True
+Danilo Gallinari,2,7,58,0,Jump Shot,7,-47,62,True
+Danilo Gallinari,4,10,5,0,Jump Shot,26,-172,200,False
+Danilo Gallinari,4,5,28,1,Jump Shot,20,205,6,True
+Danilo Gallinari,1,4,3,0,Jump Shot,25,123,227,False
+Danilo Gallinari,3,2,50,0,Jump Shot,23,228,32,False
+Danilo Gallinari,3,11,49,0,Jump Shot,17,70,158,True
+Danilo Gallinari,3,3,30,1,Jump Shot,26,-217,155,False
+Danilo Gallinari,2,5,17,0,Jump Shot,24,-234,67,False
+Danilo Gallinari,2,3,4,0,Jump Shot,23,230,48,False
+Danilo Gallinari,4,8,3,0,Jump Shot,25,-216,131,False
+Danilo Gallinari,1,6,31,1,Jump Shot,24,237,63,False
+Danilo Gallinari,2,8,29,0,Jump Shot,25,150,207,False
+Danilo Gallinari,2,0,55,0,Jump Shot,26,189,191,False
+Danilo Gallinari,3,10,2,0,Jump Shot,26,-3,262,False
+Danilo Gallinari,3,4,57,1,Jump Shot,23,-228,43,False
+Danilo Gallinari,1,8,16,1,Jump Shot,24,-189,159,False
+Danilo Gallinari,3,7,3,0,Jump Shot,26,195,179,False
+Danilo Gallinari,1,11,19,0,Jump Shot,24,-209,134,False
+Danilo Gallinari,1,6,26,1,Jump Shot,19,191,16,True
+Danilo Gallinari,3,6,35,1,Jump Shot,26,-179,195,False
+Danilo Gallinari,2,0,19,0,Jump Shot,26,88,247,False
+Danilo Gallinari,4,9,3,0,Jump Shot,24,226,88,False
+Danilo Gallinari,3,5,25,0,Jump Shot,25,26,253,False
+Danilo Gallinari,1,5,53,1,Jump Shot,24,-101,219,False
+Danilo Gallinari,3,6,56,0,Jump Shot,19,135,146,True
+Danilo Gallinari,1,4,14,0,Jump Shot,24,-172,174,False
+Danilo Gallinari,3,10,26,1,Jump Shot,22,226,41,False
+Danilo Gallinari,4,7,9,0,Jump Shot,16,-164,31,True
+Danilo Gallinari,1,11,39,1,Jump Shot,13,-128,56,True
+Danilo Gallinari,4,2,54,1,Jump Shot,22,227,15,False
+Danilo Gallinari,3,10,3,1,Jump Shot,25,86,244,False
+Danilo Gallinari,3,8,3,0,Jump Shot,16,-35,162,True
+Danilo Gallinari,1,1,14,0,Jump Shot,25,-113,232,False
+Danilo Gallinari,2,8,48,1,Jump Shot,25,141,208,False
+Danilo Gallinari,4,10,30,1,Jump Shot,26,-121,236,False
+Danilo Gallinari,2,7,15,1,Jump Shot,20,-200,-15,True
+Danilo Gallinari,3,8,47,0,Jump Shot,23,-148,178,True
+Danilo Gallinari,1,9,14,0,Jump Shot,25,-146,204,False
+Danilo Gallinari,1,10,44,0,Jump Shot,16,-95,129,True
+Danilo Gallinari,4,3,7,1,Jump Shot,18,163,92,True
+Danilo Gallinari,1,5,2,0,Jump Shot,24,-143,203,False
+Danilo Gallinari,4,3,28,0,Jump Shot,26,15,268,False
+Danilo Gallinari,4,7,40,0,Jump Shot,26,165,209,False
+Danilo Gallinari,3,9,54,0,Jump Shot,19,-187,38,True
+Danilo Gallinari,2,5,2,1,Jump Shot,24,-57,240,False
+Danilo Gallinari,2,4,53,0,Jump Shot,25,-9,253,False
+Danilo Gallinari,4,6,8,0,Jump Shot,28,-187,217,False
+Danilo Gallinari,4,2,27,0,Jump Shot,25,-136,213,False
+Danilo Gallinari,1,4,23,0,Jump Shot,22,-227,-17,False
+Danilo Gallinari,1,5,5,1,Jump Shot,25,-26,253,False
+Danilo Gallinari,2,9,23,0,Jump Shot,24,-92,222,False
+Danilo Gallinari,2,11,18,0,Jump Shot,25,100,231,False
+Danilo Gallinari,4,9,54,1,Jump Shot,20,-201,7,True
+Danilo Gallinari,3,8,21,0,Jump Shot,23,228,41,False
+Danilo Gallinari,4,9,7,0,Jump Shot,25,-60,247,False
+Danilo Gallinari,3,8,7,0,Jump Shot,25,206,144,False
+Danilo Gallinari,2,6,44,0,Jump Shot,25,163,201,False
+Danilo Gallinari,3,9,56,0,Jump Shot,25,-144,210,False
+Danilo Gallinari,3,9,46,1,Jump Shot,15,-152,15,True
+Danilo Gallinari,1,11,15,1,Jump Shot,18,-183,9,True
+Danilo Gallinari,1,0,1,0,Jump Shot,60,-176,583,False
+Danilo Gallinari,2,7,6,0,Jump Shot,25,-19,252,False
+Danilo Gallinari,4,10,6,0,Jump Shot,26,23,263,False
+Danilo Gallinari,1,8,19,1,Jump Shot,24,-176,173,False
+Danilo Gallinari,1,6,29,0,Jump Shot,18,103,148,True
+Danilo Gallinari,4,11,20,1,Jump Shot,25,-92,243,False
+Danilo Gallinari,3,9,13,1,Jump Shot,23,227,62,False
+Danilo Gallinari,1,5,48,0,Jump Shot,25,128,219,False
+Danilo Gallinari,2,2,15,0,Jump Shot,26,70,253,False
+Danilo Gallinari,3,11,27,1,Jump Shot,17,29,172,True
+Danilo Gallinari,3,7,12,1,Jump Shot,25,227,113,False
+Danilo Gallinari,3,10,48,0,Jump Shot,23,-230,37,False
+Danilo Gallinari,1,6,35,0,Jump Shot,25,36,251,False
+Danilo Gallinari,3,5,55,1,Jump Shot,26,-166,201,False
+Danilo Gallinari,3,3,48,0,Jump Shot,24,146,199,False
+Danilo Gallinari,4,6,6,0,Jump Shot,26,-159,209,False
+Danilo Gallinari,1,4,12,0,Jump Shot,12,-107,58,True
+Danilo Gallinari,3,7,43,0,Jump Shot,22,221,0,False
+Danilo Gallinari,1,11,40,1,Jump Shot,16,-161,-1,True
+Danilo Gallinari,4,8,17,0,Jump Shot,16,-157,50,True
+Danilo Gallinari,3,5,29,0,Jump Shot,24,134,205,False
+Danilo Gallinari,3,4,54,1,Jump Shot,24,185,165,False
+Danilo Gallinari,1,7,1,0,Jump Shot,22,-226,-13,False
+Danilo Gallinari,4,0,29,0,Jump Shot,25,199,167,False
+Danilo Gallinari,4,7,54,0,Jump Shot,20,-125,159,True
+Danilo Gallinari,3,3,11,0,Jump Shot,25,-1,253,False
+Danilo Gallinari,4,0,22,0,Jump Shot,27,130,241,False
+Danilo Gallinari,1,3,38,0,Jump Shot,25,161,203,False
+Danilo Gallinari,1,4,42,0,Jump Shot,22,-221,-1,False
+Danilo Gallinari,3,6,23,0,Jump Shot,24,5,249,False
+Danilo Gallinari,4,7,21,0,Jump Shot,5,-6,53,True
+Danilo Gallinari,2,5,46,0,Jump Shot,24,16,249,False
+Danilo Gallinari,2,9,42,0,Jump Shot,26,84,249,False
+Danilo Gallinari,2,10,57,1,Jump Shot,24,160,191,False
+Danilo Gallinari,1,10,21,1,Jump Shot,25,11,251,False
+Danilo Gallinari,2,3,31,0,Jump Shot,24,217,115,False
+Danilo Gallinari,1,6,7,1,Jump Shot,25,139,215,False
+Danilo Gallinari,3,4,20,0,Jump Shot,26,133,224,False
+Danilo Gallinari,2,4,54,0,Jump Shot,13,-133,26,True
+Danilo Gallinari,3,8,6,0,Jump Shot,24,-152,189,False
+Danilo Gallinari,3,9,37,1,Jump Shot,25,-228,108,False
+Danilo Gallinari,3,5,6,1,Jump Shot,25,82,246,False
+Danilo Gallinari,2,5,24,0,Jump Shot,26,157,210,False
+Danilo Gallinari,4,10,25,0,Jump Shot,28,143,241,False
+Danilo Gallinari,2,5,4,0,Jump Shot,23,-226,76,False
+Danilo Gallinari,2,7,23,0,Jump Shot,6,0,65,True
+Danilo Gallinari,3,11,18,0,Jump Shot,26,-14,269,False
+Danilo Gallinari,1,10,18,0,Jump Shot,26,-36,263,False
+Danilo Gallinari,2,4,29,0,Jump Shot,16,-23,159,True
+Danilo Gallinari,1,7,10,1,Jump Shot,26,49,257,False
+Danilo Gallinari,3,10,5,0,Jump Shot,23,131,191,True
+Danilo Gallinari,1,5,22,0,Jump Shot,26,174,197,False
+Danilo Gallinari,4,9,16,1,Jump Shot,25,-136,215,False
+Danilo Gallinari,4,0,55,0,Jump Shot,25,-182,172,False
+Danilo Gallinari,3,10,30,0,Layup Shot,1,-11,10,True
+Danilo Gallinari,4,10,34,0,Layup Shot,4,-40,6,True
+Danilo Gallinari,3,11,22,0,Layup Shot,1,13,15,True
+Danilo Gallinari,3,3,17,0,Layup Shot,1,-11,11,True
+Danilo Gallinari,1,6,41,0,Layup Shot,2,-2,21,True
+Danilo Gallinari,4,9,17,0,Layup Shot,1,9,10,True
+Danilo Gallinari,4,8,17,0,Layup Shot,7,-33,65,True
+Danilo Gallinari,4,4,48,0,Layup Shot,3,30,15,True
+Danilo Gallinari,2,1,56,0,Layup Shot,2,5,20,True
+Danilo Gallinari,2,7,38,1,Layup Shot,3,5,34,True
+Danilo Gallinari,2,11,22,0,Layup Shot,1,6,8,True
+Danilo Gallinari,1,8,13,1,Pullup Jump shot,18,-82,163,True
+Danilo Gallinari,1,5,15,0,Pullup Jump shot,19,181,67,True
+Danilo Gallinari,3,5,1,0,Pullup Jump shot,25,160,193,False
+Danilo Gallinari,4,1,27,1,Pullup Jump shot,26,30,265,False
+Danilo Gallinari,3,0,6,0,Pullup Jump shot,13,-70,111,True
+Danilo Gallinari,1,11,42,0,Pullup Jump shot,20,126,166,True
+Danilo Gallinari,2,2,24,0,Pullup Jump shot,19,123,148,True
+Danilo Gallinari,2,3,30,1,Pullup Jump shot,12,52,119,True
+Danilo Gallinari,1,8,25,0,Pullup Jump shot,14,-93,111,True
+Danilo Gallinari,3,11,10,0,Pullup Jump shot,15,85,135,True
+Danilo Gallinari,2,8,20,1,Pullup Jump shot,26,29,264,False
+Danilo Gallinari,3,11,0,0,Pullup Jump shot,6,-60,-15,True
+Danilo Gallinari,4,3,56,0,Pullup Jump shot,18,125,134,True
+Danilo Gallinari,1,8,31,0,Pullup Jump shot,26,120,234,False
+Danilo Gallinari,1,9,22,1,Pullup Jump shot,16,-14,169,True
+Danilo Gallinari,1,9,54,0,Pullup Jump shot,14,-130,64,True
+Danilo Gallinari,2,3,59,1,Running Dunk Shot,1,-9,14,True
+Danilo Gallinari,1,1,59,1,Running Finger Roll Layup Shot,0,5,1,True
+Danilo Gallinari,1,4,39,1,Running Finger Roll Layup Shot,0,1,9,True
+Danilo Gallinari,2,0,1,1,Running Jump Shot,42,-117,408,False
+Danilo Gallinari,1,0,2,1,Running Layup Shot,1,-17,5,True
+Danilo Gallinari,3,7,9,1,Running Layup Shot,1,-14,5,True
+Danilo Gallinari,4,5,32,0,Running Layup Shot,1,-11,11,True
+Danilo Gallinari,3,5,14,1,Running Layup Shot,7,7,79,True
+Danilo Gallinari,1,6,17,1,Running Layup Shot,1,8,-8,True
+Danilo Gallinari,2,2,40,0,Running Pull-Up Jump Shot,26,122,239,False
+Danilo Gallinari,2,6,2,0,Running Pull-Up Jump Shot,24,-152,198,False
+Danilo Gallinari,3,2,59,0,Running Pull-Up Jump Shot,25,110,235,False
+Danilo Gallinari,1,10,42,1,Step Back Jump shot,26,45,260,False
+Danilo Gallinari,2,4,28,1,Step Back Jump shot,25,-31,252,False
+Danilo Gallinari,2,1,41,0,Step Back Jump shot,23,107,204,True
+Danilo Gallinari,3,7,14,1,Step Back Jump shot,26,-183,185,False
+Danilo Gallinari,4,7,24,0,Step Back Jump shot,22,-134,181,True
+Danilo Gallinari,1,0,26,1,Step Back Jump shot,17,-4,177,True
+Danilo Gallinari,2,8,20,0,Step Back Jump shot,15,-65,141,True
+Danilo Gallinari,1,10,48,0,Step Back Jump shot,23,33,230,True
+Danilo Gallinari,3,10,35,0,Step Back Jump shot,19,-29,190,True
+Danilo Gallinari,4,8,40,0,Step Back Jump shot,17,-8,173,True
+Danilo Gallinari,2,2,47,0,Step Back Jump shot,10,-108,-1,True
+Danilo Gallinari,2,7,56,1,Step Back Jump shot,22,-109,195,True
+Danilo Gallinari,2,8,29,1,Step Back Jump shot,18,-171,57,True
+Danilo Gallinari,2,6,36,1,Step Back Jump shot,14,-65,127,True
+Danilo Gallinari,2,0,53,1,Step Back Jump shot,24,-75,237,False
+Danilo Gallinari,2,9,22,1,Step Back Jump shot,20,71,188,True
+Danilo Gallinari,3,4,21,1,Step Back Jump shot,20,-115,164,True
+Danilo Gallinari,4,10,32,0,Step Back Jump shot,24,108,223,False
+Danilo Gallinari,2,1,34,0,Step Back Jump shot,26,-147,219,False
+Danilo Gallinari,3,6,42,0,Step Back Jump shot,18,-179,55,True
+Danilo Gallinari,1,6,14,0,Tip Layup Shot,0,0,-6,True
+Danilo Gallinari,1,5,20,0,Tip Layup Shot,0,0,-6,True
+Danilo Gallinari,1,9,10,0,Tip Layup Shot,0,0,-6,True
+Danilo Gallinari,1,6,36,1,Turnaround Fadeaway shot,10,-100,29,True
+Danilo Gallinari,1,7,53,1,Turnaround Fadeaway shot,15,-3,157,True
+Danilo Gallinari,2,6,6,1,Turnaround Fadeaway shot,14,-57,137,True
+Danilo Gallinari,4,5,7,0,Turnaround Fadeaway shot,10,-67,83,True
+Danilo Gallinari,2,11,47,1,Turnaround Jump Shot,18,6,183,True
+Danilo Gallinari,1,10,2,0,Turnaround Jump Shot,10,-27,103,True
+Danilo Gallinari,4,2,49,1,Turnaround Jump Shot,16,155,61,True
+Danilo Gallinari,1,6,39,1,Turnaround Jump Shot,16,-60,150,True
+Danilo Gallinari,1,6,52,0,Turnaround Jump Shot,16,139,86,True

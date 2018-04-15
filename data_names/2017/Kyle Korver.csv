@@ -1,0 +1,437 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Kyle Korver,4,9,55,1,Cutting Layup Shot,1,14,11,True
+Kyle Korver,2,11,8,1,Cutting Layup Shot,0,-3,8,True
+Kyle Korver,1,1,10,1,Cutting Layup Shot,2,20,11,True
+Kyle Korver,3,2,48,1,Cutting Layup Shot,2,22,17,True
+Kyle Korver,2,6,44,0,Cutting Layup Shot,1,3,11,True
+Kyle Korver,4,3,7,1,Cutting Layup Shot,1,11,10,True
+Kyle Korver,1,2,2,0,Cutting Layup Shot,1,-2,12,True
+Kyle Korver,3,1,16,1,Cutting Layup Shot,1,-8,15,True
+Kyle Korver,1,10,29,1,Cutting Layup Shot,0,-3,7,True
+Kyle Korver,4,1,44,1,Cutting Layup Shot,1,-5,15,True
+Kyle Korver,2,9,20,1,Cutting Layup Shot,1,2,15,True
+Kyle Korver,4,7,23,1,Cutting Layup Shot,1,14,-6,True
+Kyle Korver,1,3,30,0,Cutting Layup Shot,2,22,20,True
+Kyle Korver,3,3,20,1,Cutting Layup Shot,5,44,38,True
+Kyle Korver,2,7,56,1,Driving Finger Roll Layup Shot,1,0,15,True
+Kyle Korver,2,5,21,0,Driving Finger Roll Layup Shot,0,5,8,True
+Kyle Korver,4,7,43,1,Driving Floating Bank Jump Shot,11,-70,96,True
+Kyle Korver,1,1,13,0,Driving Floating Jump Shot,11,70,96,True
+Kyle Korver,2,11,44,0,Driving Layup Shot,3,8,35,True
+Kyle Korver,2,8,10,1,Driving Layup Shot,1,2,16,True
+Kyle Korver,2,5,0,1,Driving Layup Shot,0,2,6,True
+Kyle Korver,2,11,42,0,Driving Layup Shot,1,6,16,True
+Kyle Korver,3,3,40,0,Driving Layup Shot,7,24,74,True
+Kyle Korver,4,1,57,1,Driving Layup Shot,0,-2,1,True
+Kyle Korver,4,3,45,0,Driving Layup Shot,0,-2,1,True
+Kyle Korver,2,7,25,1,Driving Layup Shot,1,3,13,True
+Kyle Korver,2,8,21,1,Driving Reverse Layup Shot,0,-4,9,True
+Kyle Korver,1,0,32,1,Fadeaway Jump Shot,14,-144,3,True
+Kyle Korver,4,10,19,0,Fadeaway Jump Shot,16,95,132,True
+Kyle Korver,2,9,28,1,Hook Shot,3,36,16,True
+Kyle Korver,2,8,58,1,Jump Bank Shot,16,138,87,True
+Kyle Korver,2,10,4,1,Jump Bank Shot,19,172,82,True
+Kyle Korver,4,4,14,0,Jump Bank Shot,7,63,46,True
+Kyle Korver,3,2,59,1,Jump Shot,17,-111,141,True
+Kyle Korver,2,4,18,0,Jump Shot,25,-95,235,False
+Kyle Korver,2,7,46,1,Jump Shot,25,-196,161,False
+Kyle Korver,2,4,6,1,Jump Shot,15,147,30,True
+Kyle Korver,2,6,12,0,Jump Shot,18,-91,161,True
+Kyle Korver,2,10,24,0,Jump Shot,25,-22,256,False
+Kyle Korver,4,3,50,0,Jump Shot,20,-208,-5,True
+Kyle Korver,2,7,18,1,Jump Shot,26,18,261,False
+Kyle Korver,2,9,30,1,Jump Shot,24,190,161,False
+Kyle Korver,2,6,44,1,Jump Shot,25,77,243,False
+Kyle Korver,4,4,47,1,Jump Shot,24,-237,65,False
+Kyle Korver,2,8,11,0,Jump Shot,25,-109,227,False
+Kyle Korver,4,9,11,0,Jump Shot,22,-220,42,False
+Kyle Korver,4,9,7,1,Jump Shot,23,-232,-5,False
+Kyle Korver,1,2,0,0,Jump Shot,33,142,305,False
+Kyle Korver,4,0,51,0,Jump Shot,22,225,6,False
+Kyle Korver,4,5,0,0,Jump Shot,23,230,2,False
+Kyle Korver,4,2,37,1,Jump Shot,26,-129,226,False
+Kyle Korver,4,4,46,0,Jump Shot,17,-84,152,True
+Kyle Korver,4,6,35,0,Jump Shot,25,78,243,False
+Kyle Korver,4,7,44,0,Jump Shot,27,126,243,False
+Kyle Korver,4,0,5,0,Jump Shot,22,-227,14,False
+Kyle Korver,4,9,42,1,Jump Shot,25,-40,250,False
+Kyle Korver,3,1,4,1,Jump Shot,25,181,184,False
+Kyle Korver,4,8,32,0,Jump Shot,22,-220,0,False
+Kyle Korver,2,9,17,0,Jump Shot,21,-213,41,True
+Kyle Korver,4,6,51,0,Jump Shot,25,-117,230,False
+Kyle Korver,4,5,43,1,Jump Shot,25,-117,232,False
+Kyle Korver,2,11,48,1,Jump Shot,26,-76,251,False
+Kyle Korver,3,2,21,1,Jump Shot,22,-221,40,False
+Kyle Korver,4,5,9,1,Jump Shot,18,163,93,True
+Kyle Korver,1,0,15,1,Jump Shot,22,165,152,True
+Kyle Korver,2,11,11,1,Jump Shot,27,171,210,False
+Kyle Korver,2,6,23,0,Jump Shot,23,-235,-9,False
+Kyle Korver,4,4,2,0,Jump Shot,25,-76,247,False
+Kyle Korver,3,0,0,1,Jump Shot,26,154,219,False
+Kyle Korver,4,2,34,0,Jump Shot,25,-178,176,False
+Kyle Korver,2,5,22,1,Jump Shot,25,-65,246,False
+Kyle Korver,4,7,23,0,Jump Shot,23,232,24,False
+Kyle Korver,4,5,33,0,Jump Shot,22,-222,30,False
+Kyle Korver,4,9,10,1,Jump Shot,25,-192,161,False
+Kyle Korver,2,8,56,1,Jump Shot,22,221,28,False
+Kyle Korver,4,7,21,1,Jump Shot,25,11,256,False
+Kyle Korver,4,7,31,0,Jump Shot,27,95,262,False
+Kyle Korver,2,9,51,1,Jump Shot,23,-228,70,False
+Kyle Korver,3,1,18,0,Jump Shot,25,164,190,False
+Kyle Korver,4,7,59,0,Jump Shot,24,-177,173,False
+Kyle Korver,2,11,10,1,Jump Shot,25,-147,205,False
+Kyle Korver,4,10,7,0,Jump Shot,25,-203,153,False
+Kyle Korver,2,5,26,0,Jump Shot,23,-230,34,False
+Kyle Korver,2,11,24,0,Jump Shot,23,-239,10,False
+Kyle Korver,1,2,50,0,Jump Shot,23,-231,7,False
+Kyle Korver,2,7,58,0,Jump Shot,22,226,-1,False
+Kyle Korver,4,11,30,1,Jump Shot,28,-170,228,False
+Kyle Korver,4,6,35,1,Jump Shot,22,-226,3,False
+Kyle Korver,4,8,50,0,Jump Shot,25,130,215,False
+Kyle Korver,4,4,58,0,Jump Shot,28,6,281,False
+Kyle Korver,2,8,7,1,Jump Shot,26,-68,257,False
+Kyle Korver,4,7,41,1,Jump Shot,26,-159,217,False
+Kyle Korver,4,6,17,0,Jump Shot,26,-70,253,False
+Kyle Korver,4,1,51,0,Jump Shot,27,-123,244,False
+Kyle Korver,3,3,17,0,Jump Shot,31,-175,264,False
+Kyle Korver,4,3,0,0,Jump Shot,27,-169,212,False
+Kyle Korver,4,7,8,1,Jump Shot,27,-175,209,False
+Kyle Korver,3,0,54,0,Jump Shot,23,234,6,False
+Kyle Korver,4,0,30,1,Jump Shot,25,-89,237,False
+Kyle Korver,2,6,21,0,Jump Shot,24,95,231,False
+Kyle Korver,3,1,53,1,Jump Shot,23,-231,5,False
+Kyle Korver,4,7,15,1,Jump Shot,25,-68,243,False
+Kyle Korver,2,8,51,0,Jump Shot,22,225,1,False
+Kyle Korver,2,7,48,0,Jump Shot,28,-148,246,False
+Kyle Korver,4,8,35,0,Jump Shot,24,-128,208,False
+Kyle Korver,2,8,3,0,Jump Shot,24,-171,182,False
+Kyle Korver,4,10,14,0,Jump Shot,26,-202,167,False
+Kyle Korver,3,0,56,0,Jump Shot,25,-141,211,False
+Kyle Korver,2,7,16,1,Jump Shot,25,226,121,False
+Kyle Korver,4,7,43,0,Jump Shot,22,-228,-16,False
+Kyle Korver,4,11,31,1,Jump Shot,25,18,256,False
+Kyle Korver,2,10,37,0,Jump Shot,23,-234,8,False
+Kyle Korver,2,6,14,1,Jump Shot,26,75,249,False
+Kyle Korver,1,1,25,0,Jump Shot,26,-104,242,False
+Kyle Korver,2,9,21,0,Jump Shot,26,-128,236,False
+Kyle Korver,4,7,49,0,Jump Shot,26,-149,217,False
+Kyle Korver,4,11,46,0,Jump Shot,27,53,273,False
+Kyle Korver,1,2,24,0,Jump Shot,23,-230,5,False
+Kyle Korver,2,11,1,0,Jump Shot,24,-60,241,False
+Kyle Korver,4,3,14,0,Jump Shot,25,-12,257,False
+Kyle Korver,4,0,20,0,Jump Shot,24,-226,91,False
+Kyle Korver,4,5,45,1,Jump Shot,22,226,20,False
+Kyle Korver,4,7,25,0,Jump Shot,21,-135,164,True
+Kyle Korver,4,10,21,1,Jump Shot,23,231,6,False
+Kyle Korver,4,1,16,1,Jump Shot,24,-207,127,False
+Kyle Korver,4,4,54,0,Jump Shot,24,-105,224,False
+Kyle Korver,4,11,11,1,Jump Shot,24,-47,240,False
+Kyle Korver,4,6,59,1,Jump Shot,20,23,199,True
+Kyle Korver,2,8,10,1,Jump Shot,25,103,231,False
+Kyle Korver,3,2,57,1,Jump Shot,20,30,198,True
+Kyle Korver,2,9,48,0,Jump Shot,26,-56,257,False
+Kyle Korver,2,11,17,0,Jump Shot,22,227,0,False
+Kyle Korver,4,8,7,1,Jump Shot,25,-107,229,False
+Kyle Korver,4,7,48,0,Jump Shot,26,-134,231,False
+Kyle Korver,3,2,17,1,Jump Shot,24,168,179,False
+Kyle Korver,2,9,12,1,Jump Shot,26,-160,206,False
+Kyle Korver,3,4,45,0,Jump Shot,18,-90,167,True
+Kyle Korver,2,5,17,0,Jump Shot,25,-127,225,False
+Kyle Korver,2,8,34,1,Jump Shot,25,-212,136,False
+Kyle Korver,2,10,24,0,Jump Shot,26,-176,198,False
+Kyle Korver,2,6,34,1,Jump Shot,22,229,8,False
+Kyle Korver,4,6,51,0,Jump Shot,16,49,154,True
+Kyle Korver,2,7,59,1,Jump Shot,26,-127,235,False
+Kyle Korver,2,7,42,0,Jump Shot,16,154,55,True
+Kyle Korver,2,9,23,1,Jump Shot,20,-149,142,True
+Kyle Korver,4,0,54,1,Jump Shot,25,-234,106,False
+Kyle Korver,4,3,23,0,Jump Shot,25,15,258,False
+Kyle Korver,4,2,51,1,Jump Shot,27,-105,251,False
+Kyle Korver,2,5,38,0,Jump Shot,18,177,55,True
+Kyle Korver,2,7,40,0,Jump Shot,26,-112,236,False
+Kyle Korver,4,9,7,0,Jump Shot,24,-50,244,False
+Kyle Korver,3,0,51,0,Jump Shot,29,-136,263,False
+Kyle Korver,2,5,34,0,Jump Shot,25,239,84,False
+Kyle Korver,4,8,21,1,Jump Shot,24,-53,240,False
+Kyle Korver,4,9,45,0,Jump Shot,25,193,166,False
+Kyle Korver,4,5,58,1,Jump Shot,25,-226,109,False
+Kyle Korver,2,4,38,0,Jump Shot,25,-153,199,False
+Kyle Korver,4,6,25,0,Jump Shot,24,-169,184,False
+Kyle Korver,1,0,21,1,Jump Shot,26,-141,226,False
+Kyle Korver,1,2,11,0,Jump Shot,12,55,117,True
+Kyle Korver,2,7,33,0,Jump Shot,27,123,242,False
+Kyle Korver,4,5,33,1,Jump Shot,21,210,20,True
+Kyle Korver,4,4,43,1,Jump Shot,25,-100,234,False
+Kyle Korver,2,9,5,1,Jump Shot,23,220,79,False
+Kyle Korver,4,6,5,0,Jump Shot,26,147,220,False
+Kyle Korver,4,10,15,1,Jump Shot,25,154,205,False
+Kyle Korver,2,7,29,1,Jump Shot,23,-231,23,False
+Kyle Korver,1,2,19,0,Jump Shot,30,-172,249,False
+Kyle Korver,2,11,51,0,Jump Shot,17,116,134,True
+Kyle Korver,4,1,7,0,Jump Shot,22,221,2,False
+Kyle Korver,4,10,37,0,Jump Shot,26,19,267,False
+Kyle Korver,4,0,29,0,Jump Shot,28,-12,286,False
+Kyle Korver,4,3,22,0,Jump Shot,26,107,243,False
+Kyle Korver,4,9,41,1,Jump Shot,23,-230,36,False
+Kyle Korver,3,7,6,0,Jump Shot,25,-142,211,False
+Kyle Korver,2,5,18,0,Jump Shot,24,-116,220,False
+Kyle Korver,2,8,27,0,Jump Shot,26,53,264,False
+Kyle Korver,1,1,1,1,Jump Shot,21,-116,184,True
+Kyle Korver,1,0,7,1,Jump Shot,28,-55,284,False
+Kyle Korver,2,8,33,0,Jump Shot,27,63,265,False
+Kyle Korver,1,1,54,1,Jump Shot,23,-235,4,False
+Kyle Korver,4,1,19,1,Jump Shot,22,-226,-20,False
+Kyle Korver,4,3,41,0,Jump Shot,24,-150,192,False
+Kyle Korver,1,3,4,1,Jump Shot,23,-234,33,False
+Kyle Korver,4,10,38,0,Jump Shot,24,112,220,False
+Kyle Korver,4,8,49,0,Jump Shot,25,-163,194,False
+Kyle Korver,2,9,57,1,Jump Shot,16,-163,18,True
+Kyle Korver,1,4,24,1,Jump Shot,35,-183,300,False
+Kyle Korver,4,1,56,0,Jump Shot,27,209,182,False
+Kyle Korver,2,0,23,1,Jump Shot,23,231,62,False
+Kyle Korver,3,4,57,0,Jump Shot,19,-71,177,True
+Kyle Korver,2,1,20,0,Jump Shot,22,227,-17,False
+Kyle Korver,1,9,55,1,Jump Shot,23,-234,-15,False
+Kyle Korver,3,10,44,0,Jump Shot,22,-227,-17,False
+Kyle Korver,3,3,2,1,Jump Shot,24,-89,231,False
+Kyle Korver,2,6,46,1,Jump Shot,23,-237,-27,False
+Kyle Korver,4,5,47,0,Jump Shot,22,-221,-12,False
+Kyle Korver,2,5,35,0,Jump Shot,23,-237,-3,False
+Kyle Korver,2,9,14,0,Jump Shot,23,-234,10,False
+Kyle Korver,4,11,43,1,Jump Shot,23,230,10,False
+Kyle Korver,2,11,19,0,Jump Shot,24,47,244,False
+Kyle Korver,2,11,12,0,Jump Shot,17,-133,121,True
+Kyle Korver,2,5,15,0,Jump Shot,29,147,251,False
+Kyle Korver,2,11,3,1,Jump Shot,26,5,265,False
+Kyle Korver,2,9,18,0,Jump Shot,25,195,160,False
+Kyle Korver,3,0,6,0,Jump Shot,26,-138,223,False
+Kyle Korver,2,4,19,0,Jump Shot,26,184,186,False
+Kyle Korver,4,9,31,0,Jump Shot,24,-135,210,False
+Kyle Korver,2,3,23,1,Jump Shot,26,-215,158,False
+Kyle Korver,4,10,30,1,Jump Shot,24,-71,236,False
+Kyle Korver,3,0,0,0,Jump Shot,48,95,476,False
+Kyle Korver,3,2,11,0,Jump Shot,23,229,31,False
+Kyle Korver,3,2,43,0,Jump Shot,25,103,236,False
+Kyle Korver,1,2,20,0,Jump Shot,20,-167,123,True
+Kyle Korver,1,3,47,0,Jump Shot,19,-120,154,True
+Kyle Korver,3,2,34,1,Jump Shot,15,-96,121,True
+Kyle Korver,3,0,0,0,Jump Shot,20,-174,100,True
+Kyle Korver,2,3,1,1,Jump Shot,26,-212,152,False
+Kyle Korver,3,3,8,1,Jump Shot,26,-164,214,False
+Kyle Korver,4,0,59,1,Jump Shot,3,-1,39,True
+Kyle Korver,2,3,54,1,Jump Shot,28,122,257,False
+Kyle Korver,3,0,44,0,Jump Shot,25,218,141,False
+Kyle Korver,4,6,10,1,Jump Shot,25,-36,251,False
+Kyle Korver,4,9,49,0,Jump Shot,30,164,257,False
+Kyle Korver,3,2,44,1,Jump Shot,26,203,163,False
+Kyle Korver,3,4,9,0,Jump Shot,26,-39,264,False
+Kyle Korver,3,3,52,1,Jump Shot,27,-206,178,False
+Kyle Korver,2,8,22,0,Jump Shot,25,130,218,False
+Kyle Korver,2,7,13,0,Jump Shot,27,-124,250,False
+Kyle Korver,4,4,35,1,Jump Shot,25,97,238,False
+Kyle Korver,4,8,55,0,Jump Shot,25,157,206,False
+Kyle Korver,4,11,24,0,Jump Shot,25,139,211,False
+Kyle Korver,4,9,6,0,Jump Shot,24,-210,132,False
+Kyle Korver,2,9,32,0,Jump Shot,25,106,229,False
+Kyle Korver,4,6,53,1,Jump Shot,22,-223,1,False
+Kyle Korver,4,7,29,1,Jump Shot,25,-95,232,False
+Kyle Korver,3,5,40,0,Jump Shot,26,-160,207,False
+Kyle Korver,4,8,12,1,Jump Shot,10,97,49,True
+Kyle Korver,2,9,42,1,Jump Shot,26,-82,252,False
+Kyle Korver,4,11,30,0,Jump Shot,25,-52,246,False
+Kyle Korver,2,11,8,0,Jump Shot,14,145,-8,True
+Kyle Korver,4,9,11,1,Jump Shot,25,-13,259,False
+Kyle Korver,4,7,25,0,Jump Shot,25,82,239,False
+Kyle Korver,4,10,30,1,Jump Shot,27,-96,262,False
+Kyle Korver,2,7,20,0,Jump Shot,19,179,72,True
+Kyle Korver,4,3,35,1,Jump Shot,22,-118,190,True
+Kyle Korver,4,5,10,0,Jump Shot,20,3,200,True
+Kyle Korver,4,9,58,1,Jump Shot,17,179,-13,True
+Kyle Korver,4,10,7,0,Jump Shot,25,-100,231,False
+Kyle Korver,2,6,18,0,Jump Shot,25,-228,107,False
+Kyle Korver,2,8,15,1,Jump Shot,24,226,94,False
+Kyle Korver,2,11,9,1,Jump Shot,20,-111,172,True
+Kyle Korver,4,11,1,1,Jump Shot,22,-81,214,True
+Kyle Korver,3,0,33,0,Jump Shot,27,-72,262,False
+Kyle Korver,4,6,44,1,Jump Shot,22,225,36,False
+Kyle Korver,2,4,52,0,Jump Shot,24,-93,229,False
+Kyle Korver,4,10,26,1,Jump Shot,26,-153,221,False
+Kyle Korver,2,5,55,1,Jump Shot,22,-225,-11,False
+Kyle Korver,4,11,45,0,Jump Shot,27,-119,253,False
+Kyle Korver,1,0,27,1,Jump Shot,30,169,251,False
+Kyle Korver,1,1,3,1,Jump Shot,22,-227,-6,False
+Kyle Korver,2,4,42,1,Jump Shot,25,-119,220,False
+Kyle Korver,2,7,58,0,Jump Shot,26,3,267,False
+Kyle Korver,2,10,7,0,Jump Shot,30,199,236,False
+Kyle Korver,4,3,21,0,Jump Shot,31,-158,267,False
+Kyle Korver,4,6,2,1,Jump Shot,27,-147,233,False
+Kyle Korver,1,0,25,1,Jump Shot,25,-53,246,False
+Kyle Korver,4,3,43,1,Jump Shot,22,225,17,False
+Kyle Korver,2,10,27,1,Jump Shot,25,-136,213,False
+Kyle Korver,4,8,50,0,Jump Shot,25,-12,259,False
+Kyle Korver,4,3,31,0,Jump Shot,29,-188,225,False
+Kyle Korver,4,11,5,0,Jump Shot,26,-17,267,False
+Kyle Korver,4,6,29,0,Jump Shot,22,-47,222,True
+Kyle Korver,4,4,25,0,Jump Shot,24,-240,32,False
+Kyle Korver,2,5,57,0,Jump Shot,28,143,252,False
+Kyle Korver,4,7,0,0,Jump Shot,25,234,89,False
+Kyle Korver,4,10,37,1,Jump Shot,27,-81,261,False
+Kyle Korver,4,11,36,1,Jump Shot,24,-37,245,False
+Kyle Korver,2,9,1,0,Jump Shot,24,-235,58,False
+Kyle Korver,2,5,15,0,Jump Shot,25,27,256,False
+Kyle Korver,4,11,3,1,Jump Shot,25,-74,240,False
+Kyle Korver,2,8,48,1,Jump Shot,23,-231,58,False
+Kyle Korver,4,7,53,0,Jump Shot,24,160,189,False
+Kyle Korver,3,0,52,1,Jump Shot,19,196,-12,True
+Kyle Korver,3,0,35,0,Jump Shot,25,23,255,False
+Kyle Korver,2,6,12,1,Jump Shot,23,-231,21,False
+Kyle Korver,1,1,55,0,Jump Shot,26,-154,212,False
+Kyle Korver,3,1,34,0,Jump Shot,20,-203,20,True
+Kyle Korver,2,8,4,0,Jump Shot,25,-241,90,False
+Kyle Korver,2,6,40,1,Jump Shot,25,-120,228,False
+Kyle Korver,4,5,1,0,Jump Shot,24,221,109,False
+Kyle Korver,4,7,54,0,Jump Shot,25,-124,218,False
+Kyle Korver,2,5,36,1,Jump Shot,24,156,195,False
+Kyle Korver,3,2,45,0,Jump Shot,25,-196,162,False
+Kyle Korver,2,9,48,1,Jump Shot,25,-220,122,False
+Kyle Korver,2,8,46,0,Jump Shot,25,20,252,False
+Kyle Korver,2,5,56,0,Jump Shot,22,226,-9,False
+Kyle Korver,2,11,7,0,Jump Shot,17,-70,159,True
+Kyle Korver,1,0,55,1,Jump Shot,22,-225,7,False
+Kyle Korver,4,10,26,1,Jump Shot,25,-15,253,False
+Kyle Korver,3,2,21,0,Jump Shot,24,-167,185,False
+Kyle Korver,2,11,48,1,Jump Shot,26,-195,184,False
+Kyle Korver,1,0,0,0,Jump Shot,28,-157,238,False
+Kyle Korver,2,2,25,0,Jump Shot,22,226,4,False
+Kyle Korver,2,5,51,1,Jump Shot,23,225,58,False
+Kyle Korver,4,4,59,0,Jump Shot,24,-44,245,False
+Kyle Korver,4,2,10,0,Jump Shot,26,-13,261,False
+Kyle Korver,4,8,59,1,Jump Shot,32,98,305,False
+Kyle Korver,4,9,13,1,Jump Shot,25,158,203,False
+Kyle Korver,4,10,12,1,Jump Shot,25,-15,253,False
+Kyle Korver,3,2,53,1,Jump Shot,25,-9,250,False
+Kyle Korver,1,4,23,0,Jump Shot,23,-235,1,False
+Kyle Korver,2,11,44,0,Jump Shot,26,-60,257,False
+Kyle Korver,2,7,45,1,Jump Shot,31,-150,281,False
+Kyle Korver,4,3,55,0,Jump Shot,23,-233,-2,False
+Kyle Korver,4,6,4,1,Jump Shot,22,-95,201,True
+Kyle Korver,3,4,9,1,Jump Shot,22,-223,-15,False
+Kyle Korver,4,5,16,0,Jump Shot,22,-226,-5,False
+Kyle Korver,2,11,23,0,Jump Shot,15,-5,159,True
+Kyle Korver,1,0,55,1,Jump Shot,25,-87,243,False
+Kyle Korver,3,2,23,0,Jump Shot,24,230,69,False
+Kyle Korver,1,0,6,0,Jump Shot,22,226,14,False
+Kyle Korver,4,0,40,0,Jump Shot,23,-230,12,False
+Kyle Korver,2,11,13,0,Jump Shot,26,206,167,False
+Kyle Korver,3,3,58,1,Jump Shot,26,-190,185,False
+Kyle Korver,2,5,57,1,Jump Shot,23,234,36,False
+Kyle Korver,3,4,30,1,Jump Shot,12,112,49,True
+Kyle Korver,3,2,51,0,Jump Shot,22,-228,-3,False
+Kyle Korver,1,0,35,0,Jump Shot,25,-32,255,False
+Kyle Korver,4,11,3,0,Jump Shot,23,-237,20,False
+Kyle Korver,2,4,50,1,Jump Shot,24,241,24,False
+Kyle Korver,2,3,43,1,Jump Shot,23,232,34,False
+Kyle Korver,4,6,15,0,Jump Shot,24,-102,224,False
+Kyle Korver,2,9,56,0,Jump Shot,27,-100,254,False
+Kyle Korver,4,5,14,1,Jump Shot,27,-79,262,False
+Kyle Korver,4,2,32,0,Jump Shot,27,116,251,False
+Kyle Korver,4,6,43,1,Jump Shot,25,45,253,False
+Kyle Korver,4,11,11,1,Jump Shot,27,-17,273,False
+Kyle Korver,2,6,39,0,Jump Shot,25,-168,193,False
+Kyle Korver,2,8,33,0,Jump Shot,25,121,227,False
+Kyle Korver,1,2,2,1,Jump Shot,28,122,256,False
+Kyle Korver,4,5,22,0,Jump Shot,22,228,12,False
+Kyle Korver,4,8,49,0,Jump Shot,25,190,167,False
+Kyle Korver,2,9,33,0,Jump Shot,25,-155,203,False
+Kyle Korver,3,0,50,0,Jump Shot,28,-141,253,False
+Kyle Korver,3,1,13,1,Jump Shot,27,79,260,False
+Kyle Korver,3,1,46,0,Jump Shot,25,109,228,False
+Kyle Korver,4,3,34,1,Jump Shot,24,15,249,False
+Kyle Korver,3,4,7,0,Jump Shot,25,-74,246,False
+Kyle Korver,4,6,8,1,Jump Shot,22,-229,-5,False
+Kyle Korver,4,6,33,0,Jump Shot,25,-50,254,False
+Kyle Korver,2,7,39,0,Jump Shot,24,-101,222,False
+Kyle Korver,2,11,21,0,Jump Shot,24,-21,248,False
+Kyle Korver,1,0,48,0,Jump Shot,20,-199,37,True
+Kyle Korver,1,0,33,0,Jump Shot,25,-41,251,False
+Kyle Korver,1,1,50,1,Jump Shot,26,88,245,False
+Kyle Korver,4,10,28,0,Jump Shot,25,-72,242,False
+Kyle Korver,2,7,3,0,Jump Shot,25,93,235,False
+Kyle Korver,1,0,1,1,Jump Shot,25,71,249,False
+Kyle Korver,2,6,51,0,Jump Shot,27,11,274,False
+Kyle Korver,3,0,29,0,Jump Shot,24,-22,244,False
+Kyle Korver,2,11,48,0,Jump Shot,26,88,247,False
+Kyle Korver,4,0,22,1,Jump Shot,26,40,258,False
+Kyle Korver,4,8,49,1,Jump Shot,27,-180,204,False
+Kyle Korver,4,4,29,1,Jump Shot,23,-232,15,False
+Kyle Korver,4,7,17,1,Jump Shot,25,2,257,False
+Kyle Korver,4,1,11,0,Jump Shot,26,-106,241,False
+Kyle Korver,4,3,14,1,Jump Shot,23,-230,18,False
+Kyle Korver,2,10,24,0,Jump Shot,25,-81,237,False
+Kyle Korver,4,8,15,1,Jump Shot,14,140,41,True
+Kyle Korver,2,9,34,0,Jump Shot,27,225,157,False
+Kyle Korver,4,6,22,0,Jump Shot,24,-236,63,False
+Kyle Korver,3,4,55,1,Jump Shot,25,-154,204,False
+Kyle Korver,3,4,20,0,Jump Shot,25,-187,175,False
+Kyle Korver,3,0,45,1,Jump Shot,24,123,214,False
+Kyle Korver,3,2,34,0,Jump Shot,24,222,107,False
+Kyle Korver,2,10,5,0,Jump Shot,29,96,281,False
+Kyle Korver,3,0,0,0,Jump Shot,25,-62,246,False
+Kyle Korver,2,8,7,1,Jump Shot,25,103,236,False
+Kyle Korver,2,6,59,1,Jump Shot,19,-110,164,True
+Kyle Korver,2,9,25,0,Jump Shot,25,-79,242,False
+Kyle Korver,4,6,28,0,Jump Shot,28,148,246,False
+Kyle Korver,3,2,5,0,Jump Shot,25,-178,188,False
+Kyle Korver,4,5,58,0,Jump Shot,24,241,36,False
+Kyle Korver,4,9,15,1,Jump Shot,25,55,252,False
+Kyle Korver,2,7,45,1,Jump Shot,19,157,115,True
+Kyle Korver,4,10,14,1,Jump Shot,26,-162,210,False
+Kyle Korver,4,4,3,1,Jump Shot,34,165,300,False
+Kyle Korver,4,9,56,0,Jump Shot,28,-131,254,False
+Kyle Korver,1,1,31,0,Jump Shot,27,-113,251,False
+Kyle Korver,2,9,31,1,Jump Shot,18,145,113,True
+Kyle Korver,2,2,40,1,Jump Shot,26,-114,243,False
+Kyle Korver,3,2,9,1,Jump Shot,23,-234,-19,False
+Kyle Korver,1,1,19,0,Jump Shot,26,-130,234,False
+Kyle Korver,2,6,43,1,Jump Shot,25,-106,231,False
+Kyle Korver,2,10,31,0,Jump Shot,26,210,163,False
+Kyle Korver,4,7,2,0,Jump Shot,26,-58,256,False
+Kyle Korver,2,5,34,0,Jump Shot,25,95,237,False
+Kyle Korver,4,9,56,0,Jump Shot,25,204,147,False
+Kyle Korver,4,0,25,1,Jump Shot,26,76,254,False
+Kyle Korver,4,2,6,1,Jump Shot,27,-70,262,False
+Kyle Korver,1,3,7,1,Jump Shot,26,38,267,False
+Kyle Korver,4,10,29,1,Jump Shot,23,227,58,False
+Kyle Korver,4,11,50,0,Jump Shot,25,-78,246,False
+Kyle Korver,4,9,57,1,Jump Shot,25,-46,248,False
+Kyle Korver,2,8,30,1,Layup Shot,0,2,-1,True
+Kyle Korver,2,5,20,1,Layup Shot,1,11,11,True
+Kyle Korver,2,10,31,1,Layup Shot,0,-3,6,True
+Kyle Korver,3,1,22,1,Pullup Jump shot,24,-37,247,False
+Kyle Korver,4,6,57,0,Pullup Jump shot,26,88,248,False
+Kyle Korver,2,9,27,1,Pullup Jump shot,18,-53,174,True
+Kyle Korver,3,1,59,1,Pullup Jump shot,25,-108,229,False
+Kyle Korver,4,11,0,0,Pullup Jump shot,20,0,206,True
+Kyle Korver,4,11,3,0,Pullup Jump shot,24,133,209,False
+Kyle Korver,4,11,23,1,Pullup Jump shot,24,102,227,False
+Kyle Korver,3,0,34,0,Pullup Jump shot,27,102,254,False
+Kyle Korver,2,6,4,0,Pullup Jump shot,23,235,4,False
+Kyle Korver,2,10,8,0,Pullup Jump shot,20,-3,200,True
+Kyle Korver,1,4,14,0,Pullup Jump shot,24,172,175,False
+Kyle Korver,2,5,5,1,Pullup Jump shot,25,-148,202,False
+Kyle Korver,2,9,14,1,Pullup Jump shot,26,-136,223,False
+Kyle Korver,2,7,19,1,Pullup Jump shot,14,-58,138,True
+Kyle Korver,2,10,49,0,Pullup Jump shot,17,139,112,True
+Kyle Korver,2,10,22,0,Pullup Jump shot,25,-119,228,False
+Kyle Korver,2,10,49,0,Pullup Jump shot,23,-74,221,True
+Kyle Korver,3,1,55,1,Reverse Layup Shot,0,-3,1,True
+Kyle Korver,2,8,38,1,Reverse Layup Shot,6,-60,-2,True
+Kyle Korver,2,8,40,0,Running Jump Shot,24,163,178,False
+Kyle Korver,1,1,45,0,Turnaround Fadeaway shot,10,-2,109,True
+Kyle Korver,1,1,40,0,Turnaround Jump Shot,11,-79,87,True
+Kyle Korver,4,9,22,0,Turnaround Jump Shot,24,-2,248,False
+Kyle Korver,3,3,22,0,Turnaround Jump Shot,5,-33,42,True
+Kyle Korver,3,0,43,0,Turnaround Jump Shot,13,134,22,True
+Kyle Korver,4,9,0,1,Turnaround Jump Shot,26,-23,262,False
+Kyle Korver,4,8,12,1,Turnaround Jump Shot,27,69,262,False
+Kyle Korver,4,2,43,0,Turnaround Jump Shot,25,-92,236,False

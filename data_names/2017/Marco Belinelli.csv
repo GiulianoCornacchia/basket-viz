@@ -1,0 +1,700 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Marco Belinelli,1,5,56,1,Alley Oop Layup shot,2,-5,21,True
+Marco Belinelli,1,4,38,1,Cutting Dunk Shot,1,1,11,True
+Marco Belinelli,1,7,25,1,Cutting Dunk Shot,0,3,8,True
+Marco Belinelli,2,4,23,1,Cutting Finger Roll Layup Shot,5,33,50,True
+Marco Belinelli,4,9,43,0,Cutting Finger Roll Layup Shot,2,-27,13,True
+Marco Belinelli,1,4,37,0,Cutting Finger Roll Layup Shot,4,-44,18,True
+Marco Belinelli,2,9,23,0,Cutting Layup Shot,1,-8,13,True
+Marco Belinelli,4,3,41,0,Cutting Layup Shot,3,26,18,True
+Marco Belinelli,2,10,37,0,Cutting Layup Shot,0,-6,7,True
+Marco Belinelli,1,2,47,1,Cutting Layup Shot,1,-2,15,True
+Marco Belinelli,3,7,37,1,Cutting Layup Shot,1,-11,10,True
+Marco Belinelli,4,9,45,0,Cutting Layup Shot,2,-4,22,True
+Marco Belinelli,2,4,41,0,Cutting Layup Shot,3,27,17,True
+Marco Belinelli,3,2,37,1,Cutting Layup Shot,1,-11,6,True
+Marco Belinelli,1,5,59,1,Cutting Layup Shot,2,16,13,True
+Marco Belinelli,2,10,14,0,Cutting Layup Shot,2,3,20,True
+Marco Belinelli,2,6,31,0,Cutting Layup Shot,9,-3,99,True
+Marco Belinelli,2,0,34,0,Cutting Layup Shot,4,-42,11,True
+Marco Belinelli,4,1,48,1,Cutting Layup Shot,3,-28,11,True
+Marco Belinelli,2,1,52,1,Cutting Layup Shot,1,-7,10,True
+Marco Belinelli,1,3,20,1,Cutting Layup Shot,2,-23,12,True
+Marco Belinelli,2,3,11,1,Cutting Layup Shot,1,9,15,True
+Marco Belinelli,4,6,37,1,Cutting Layup Shot,1,9,16,True
+Marco Belinelli,4,5,24,1,Cutting Layup Shot,1,11,10,True
+Marco Belinelli,4,6,15,1,Cutting Layup Shot,1,-1,10,True
+Marco Belinelli,1,3,8,1,Cutting Layup Shot,0,2,9,True
+Marco Belinelli,1,2,3,1,Cutting Layup Shot,2,0,26,True
+Marco Belinelli,3,0,38,0,Cutting Layup Shot,5,3,59,True
+Marco Belinelli,2,3,46,1,Cutting Layup Shot,1,9,6,True
+Marco Belinelli,3,1,39,0,Cutting Layup Shot,2,-9,25,True
+Marco Belinelli,3,5,53,0,Cutting Layup Shot,3,35,11,True
+Marco Belinelli,1,3,31,1,Cutting Layup Shot,1,-2,19,True
+Marco Belinelli,3,1,31,0,Driving Dunk Shot,1,-4,13,True
+Marco Belinelli,2,4,22,1,Driving Finger Roll Layup Shot,2,-27,6,True
+Marco Belinelli,1,4,31,1,Driving Finger Roll Layup Shot,3,9,29,True
+Marco Belinelli,2,6,20,0,Driving Finger Roll Layup Shot,2,9,20,True
+Marco Belinelli,4,2,25,1,Driving Finger Roll Layup Shot,2,-13,22,True
+Marco Belinelli,2,8,13,1,Driving Finger Roll Layup Shot,4,17,47,True
+Marco Belinelli,3,1,8,0,Driving Finger Roll Layup Shot,1,10,4,True
+Marco Belinelli,1,1,9,1,Driving Finger Roll Layup Shot,2,-22,15,True
+Marco Belinelli,2,1,1,1,Driving Finger Roll Layup Shot,3,11,32,True
+Marco Belinelli,1,5,39,1,Driving Finger Roll Layup Shot,2,-7,27,True
+Marco Belinelli,3,6,43,1,Driving Floating Bank Jump Shot,1,9,15,True
+Marco Belinelli,2,4,40,0,Driving Floating Bank Jump Shot,9,0,94,True
+Marco Belinelli,1,0,1,0,Driving Floating Bank Jump Shot,11,-87,76,True
+Marco Belinelli,1,5,28,1,Driving Floating Bank Jump Shot,11,-76,84,True
+Marco Belinelli,1,0,27,1,Driving Floating Jump Shot,8,54,69,True
+Marco Belinelli,2,0,39,0,Driving Floating Jump Shot,10,-105,15,True
+Marco Belinelli,1,5,40,0,Driving Floating Jump Shot,15,22,152,True
+Marco Belinelli,3,5,0,1,Driving Floating Jump Shot,3,-3,36,True
+Marco Belinelli,1,0,4,0,Driving Floating Jump Shot,11,-52,99,True
+Marco Belinelli,2,4,58,0,Driving Floating Jump Shot,11,11,113,True
+Marco Belinelli,2,9,29,0,Driving Floating Jump Shot,7,-71,9,True
+Marco Belinelli,2,3,8,0,Driving Floating Jump Shot,11,35,113,True
+Marco Belinelli,2,10,35,0,Driving Floating Jump Shot,2,21,13,True
+Marco Belinelli,4,2,34,1,Driving Floating Jump Shot,5,12,57,True
+Marco Belinelli,2,9,41,0,Driving Floating Jump Shot,10,-17,104,True
+Marco Belinelli,4,8,45,0,Driving Hook Shot,14,61,130,True
+Marco Belinelli,1,7,48,1,Driving Layup Shot,1,5,10,True
+Marco Belinelli,4,2,19,0,Driving Layup Shot,3,-22,21,True
+Marco Belinelli,1,1,0,1,Driving Layup Shot,6,33,52,True
+Marco Belinelli,3,4,54,0,Driving Layup Shot,2,-26,4,True
+Marco Belinelli,2,7,54,1,Driving Layup Shot,1,18,5,True
+Marco Belinelli,2,9,0,0,Driving Layup Shot,2,-15,22,True
+Marco Belinelli,1,1,11,1,Driving Layup Shot,0,8,-5,True
+Marco Belinelli,3,3,13,1,Driving Layup Shot,3,-13,33,True
+Marco Belinelli,2,9,15,0,Driving Layup Shot,2,-4,27,True
+Marco Belinelli,1,1,51,0,Driving Layup Shot,2,-16,15,True
+Marco Belinelli,3,9,52,0,Driving Layup Shot,1,-4,16,True
+Marco Belinelli,4,4,38,0,Driving Layup Shot,1,-16,8,True
+Marco Belinelli,4,10,6,0,Driving Layup Shot,12,75,104,True
+Marco Belinelli,2,2,31,0,Driving Layup Shot,5,-40,33,True
+Marco Belinelli,4,9,28,1,Driving Layup Shot,1,-8,11,True
+Marco Belinelli,1,2,51,0,Driving Layup Shot,6,-10,61,True
+Marco Belinelli,4,7,42,0,Driving Layup Shot,6,15,67,True
+Marco Belinelli,1,2,29,0,Driving Layup Shot,19,193,27,True
+Marco Belinelli,3,3,9,0,Driving Layup Shot,2,-3,22,True
+Marco Belinelli,3,2,17,1,Driving Layup Shot,1,2,14,True
+Marco Belinelli,4,4,1,0,Driving Layup Shot,1,0,16,True
+Marco Belinelli,3,0,36,1,Driving Layup Shot,1,-10,9,True
+Marco Belinelli,3,2,8,0,Driving Layup Shot,4,-21,38,True
+Marco Belinelli,2,10,1,0,Driving Layup Shot,1,15,2,True
+Marco Belinelli,2,3,18,1,Driving Reverse Layup Shot,1,-15,-6,True
+Marco Belinelli,4,5,32,1,Driving Reverse Layup Shot,1,11,10,True
+Marco Belinelli,2,1,16,0,Driving Reverse Layup Shot,2,-6,23,True
+Marco Belinelli,3,0,3,1,Dunk Shot,2,13,17,True
+Marco Belinelli,2,1,43,0,Fadeaway Jump Shot,15,157,10,True
+Marco Belinelli,4,5,20,1,Fadeaway Jump Shot,10,40,94,True
+Marco Belinelli,3,1,47,1,Fadeaway Jump Shot,25,193,173,False
+Marco Belinelli,1,1,26,1,Fadeaway Jump Shot,15,-6,153,True
+Marco Belinelli,4,9,43,1,Fadeaway Jump Shot,20,206,4,True
+Marco Belinelli,3,5,50,1,Fadeaway Jump Shot,15,-103,114,True
+Marco Belinelli,1,6,43,0,Fadeaway Jump Shot,16,87,138,True
+Marco Belinelli,1,2,8,0,Fadeaway Jump Shot,12,90,84,True
+Marco Belinelli,2,0,0,0,Fadeaway Jump Shot,27,174,215,False
+Marco Belinelli,2,5,43,0,Fadeaway Jump Shot,21,27,215,True
+Marco Belinelli,1,5,7,1,Fadeaway Jump Shot,15,77,135,True
+Marco Belinelli,2,10,26,0,Fadeaway Jump Shot,18,172,68,True
+Marco Belinelli,2,10,49,0,Fadeaway Jump Shot,18,107,154,True
+Marco Belinelli,4,4,18,1,Fadeaway Jump Shot,20,32,203,True
+Marco Belinelli,1,0,0,0,Fadeaway Jump Shot,24,230,80,False
+Marco Belinelli,3,0,52,0,Fadeaway Jump Shot,19,-142,128,True
+Marco Belinelli,1,4,7,1,Fadeaway Jump Shot,21,125,174,True
+Marco Belinelli,1,3,49,0,Fadeaway Jump Shot,21,-123,177,True
+Marco Belinelli,1,3,18,1,Fadeaway Jump Shot,13,6,132,True
+Marco Belinelli,3,3,35,1,Fadeaway Jump Shot,26,66,261,False
+Marco Belinelli,1,3,8,0,Fadeaway Jump Shot,19,-50,185,True
+Marco Belinelli,1,4,13,0,Fadeaway Jump Shot,19,3,190,True
+Marco Belinelli,4,5,5,0,Fadeaway Jump Shot,13,82,104,True
+Marco Belinelli,4,2,54,0,Fadeaway Jump Shot,21,210,39,True
+Marco Belinelli,2,4,33,1,Floating Jump shot,15,-39,151,True
+Marco Belinelli,1,0,4,1,Floating Jump shot,11,-7,112,True
+Marco Belinelli,4,11,51,1,Floating Jump shot,12,16,129,True
+Marco Belinelli,1,4,29,0,Floating Jump shot,7,10,71,True
+Marco Belinelli,3,1,27,1,Floating Jump shot,24,-73,232,False
+Marco Belinelli,2,6,28,0,Hook Shot,2,21,10,True
+Marco Belinelli,4,6,34,1,Jump Bank Shot,24,127,214,False
+Marco Belinelli,4,10,3,1,Jump Shot,25,109,232,False
+Marco Belinelli,2,4,13,1,Jump Shot,25,-116,227,False
+Marco Belinelli,2,5,34,0,Jump Shot,20,-60,193,True
+Marco Belinelli,4,8,37,0,Jump Shot,25,190,164,False
+Marco Belinelli,4,9,52,1,Jump Shot,24,200,133,False
+Marco Belinelli,3,3,45,0,Jump Shot,24,210,123,False
+Marco Belinelli,3,4,0,0,Jump Shot,26,-188,190,False
+Marco Belinelli,3,4,11,0,Jump Shot,28,15,286,False
+Marco Belinelli,3,1,28,0,Jump Shot,24,-242,4,False
+Marco Belinelli,3,3,9,1,Jump Shot,26,14,269,False
+Marco Belinelli,4,2,6,1,Jump Shot,21,-23,211,True
+Marco Belinelli,1,4,3,0,Jump Shot,26,-16,267,False
+Marco Belinelli,4,9,20,1,Jump Shot,22,-223,30,False
+Marco Belinelli,2,4,56,0,Jump Shot,26,-106,244,False
+Marco Belinelli,3,3,28,0,Jump Shot,25,101,235,False
+Marco Belinelli,4,11,5,1,Jump Shot,25,53,247,False
+Marco Belinelli,4,10,4,0,Jump Shot,29,-172,235,False
+Marco Belinelli,4,8,45,1,Jump Shot,25,16,259,False
+Marco Belinelli,3,0,54,1,Jump Shot,16,-8,167,True
+Marco Belinelli,4,8,6,0,Jump Shot,26,0,267,False
+Marco Belinelli,4,9,16,1,Jump Shot,24,-20,249,False
+Marco Belinelli,4,11,33,1,Jump Shot,24,-103,226,False
+Marco Belinelli,4,10,4,0,Jump Shot,24,-143,205,False
+Marco Belinelli,3,4,1,0,Jump Shot,18,-52,182,True
+Marco Belinelli,1,3,54,0,Jump Shot,36,-150,331,False
+Marco Belinelli,2,2,58,1,Jump Shot,25,-34,257,False
+Marco Belinelli,2,2,30,1,Jump Shot,20,-110,168,True
+Marco Belinelli,1,0,2,0,Jump Shot,25,-126,227,False
+Marco Belinelli,2,3,19,1,Jump Shot,22,-227,9,False
+Marco Belinelli,3,1,46,0,Jump Shot,22,-90,203,True
+Marco Belinelli,3,6,1,0,Jump Shot,26,-157,211,False
+Marco Belinelli,2,3,35,0,Jump Shot,25,-230,99,False
+Marco Belinelli,1,1,27,1,Jump Shot,26,-96,248,False
+Marco Belinelli,3,2,48,1,Jump Shot,23,-224,75,False
+Marco Belinelli,4,9,2,0,Jump Shot,24,-52,241,False
+Marco Belinelli,3,5,55,1,Jump Shot,24,-158,189,False
+Marco Belinelli,3,2,10,0,Jump Shot,24,-20,241,False
+Marco Belinelli,1,0,32,1,Jump Shot,20,-15,204,True
+Marco Belinelli,3,0,5,0,Jump Shot,16,-166,-5,True
+Marco Belinelli,1,2,7,0,Jump Shot,23,-228,53,False
+Marco Belinelli,1,4,28,0,Jump Shot,26,-6,260,False
+Marco Belinelli,4,1,0,0,Jump Shot,25,57,248,False
+Marco Belinelli,1,5,20,1,Jump Shot,25,202,163,False
+Marco Belinelli,3,3,30,0,Jump Shot,25,116,228,False
+Marco Belinelli,3,3,54,1,Jump Shot,16,-52,159,True
+Marco Belinelli,4,10,50,0,Jump Shot,15,-51,150,True
+Marco Belinelli,1,2,56,1,Jump Shot,12,-35,116,True
+Marco Belinelli,1,1,10,1,Jump Shot,25,-54,251,False
+Marco Belinelli,1,5,43,0,Jump Shot,27,-116,246,False
+Marco Belinelli,4,11,19,0,Jump Shot,20,34,199,True
+Marco Belinelli,3,2,22,0,Jump Shot,25,228,113,False
+Marco Belinelli,1,2,1,0,Jump Shot,13,37,130,True
+Marco Belinelli,1,0,4,0,Jump Shot,25,-155,201,False
+Marco Belinelli,1,11,54,1,Jump Shot,26,148,218,False
+Marco Belinelli,1,9,28,0,Jump Shot,25,-182,182,False
+Marco Belinelli,3,6,57,0,Jump Shot,26,-16,267,False
+Marco Belinelli,1,7,56,1,Jump Shot,25,-49,255,False
+Marco Belinelli,2,9,3,0,Jump Shot,26,7,268,False
+Marco Belinelli,1,9,44,0,Jump Shot,19,11,190,True
+Marco Belinelli,1,5,52,0,Jump Shot,18,42,179,True
+Marco Belinelli,3,2,49,1,Jump Shot,23,234,37,False
+Marco Belinelli,3,1,5,1,Jump Shot,24,-38,245,False
+Marco Belinelli,1,3,18,1,Jump Shot,20,30,205,True
+Marco Belinelli,2,9,36,1,Jump Shot,22,225,-2,False
+Marco Belinelli,2,0,28,0,Jump Shot,23,239,2,False
+Marco Belinelli,3,0,33,0,Jump Shot,24,-232,89,False
+Marco Belinelli,2,0,39,0,Jump Shot,22,225,12,False
+Marco Belinelli,4,6,6,0,Jump Shot,25,5,251,False
+Marco Belinelli,3,5,6,0,Jump Shot,23,221,67,False
+Marco Belinelli,2,8,14,1,Jump Shot,19,-116,151,True
+Marco Belinelli,3,3,59,0,Jump Shot,26,-7,264,False
+Marco Belinelli,2,9,45,0,Jump Shot,26,-149,222,False
+Marco Belinelli,3,1,47,0,Jump Shot,20,-60,191,True
+Marco Belinelli,3,6,31,0,Jump Shot,27,-193,190,False
+Marco Belinelli,3,5,32,1,Jump Shot,20,-114,167,True
+Marco Belinelli,1,3,1,0,Jump Shot,20,-79,188,True
+Marco Belinelli,1,2,40,0,Jump Shot,26,204,166,False
+Marco Belinelli,3,0,3,0,Jump Shot,26,-30,262,False
+Marco Belinelli,4,7,28,0,Jump Shot,26,58,259,False
+Marco Belinelli,2,5,52,1,Jump Shot,30,202,230,False
+Marco Belinelli,2,4,13,0,Jump Shot,25,-165,195,False
+Marco Belinelli,2,5,26,1,Jump Shot,25,-122,220,False
+Marco Belinelli,4,6,5,0,Jump Shot,25,82,244,False
+Marco Belinelli,3,3,43,1,Jump Shot,26,199,179,False
+Marco Belinelli,1,4,49,1,Jump Shot,26,186,183,False
+Marco Belinelli,1,5,18,0,Jump Shot,25,-106,231,False
+Marco Belinelli,3,2,43,1,Jump Shot,25,227,113,False
+Marco Belinelli,2,3,48,1,Jump Shot,27,206,176,False
+Marco Belinelli,1,1,49,0,Jump Shot,26,128,236,False
+Marco Belinelli,1,1,9,0,Jump Shot,26,-106,240,False
+Marco Belinelli,1,5,58,0,Jump Shot,19,99,172,True
+Marco Belinelli,2,1,37,0,Jump Shot,15,46,151,True
+Marco Belinelli,2,5,14,0,Jump Shot,26,136,225,False
+Marco Belinelli,2,7,57,1,Jump Shot,23,231,34,False
+Marco Belinelli,4,5,58,1,Jump Shot,26,152,223,False
+Marco Belinelli,3,7,13,1,Jump Shot,27,-93,257,False
+Marco Belinelli,3,2,42,0,Jump Shot,25,-125,219,False
+Marco Belinelli,1,5,3,0,Jump Shot,23,230,46,False
+Marco Belinelli,4,6,38,0,Jump Shot,24,-124,214,False
+Marco Belinelli,1,7,4,1,Jump Shot,22,19,225,True
+Marco Belinelli,1,5,54,1,Jump Shot,18,144,110,True
+Marco Belinelli,2,7,25,1,Jump Shot,25,-105,231,False
+Marco Belinelli,4,3,22,1,Jump Shot,26,96,242,False
+Marco Belinelli,2,1,32,1,Jump Shot,16,-30,164,True
+Marco Belinelli,3,5,50,1,Jump Shot,21,11,215,True
+Marco Belinelli,3,1,31,1,Jump Shot,26,-141,226,False
+Marco Belinelli,2,0,59,1,Jump Shot,17,-59,162,True
+Marco Belinelli,2,0,0,0,Jump Shot,33,190,278,False
+Marco Belinelli,3,6,47,1,Jump Shot,18,14,184,True
+Marco Belinelli,3,5,45,0,Jump Shot,20,70,195,True
+Marco Belinelli,4,2,33,0,Jump Shot,22,-223,41,False
+Marco Belinelli,2,6,44,1,Jump Shot,15,101,118,True
+Marco Belinelli,4,3,10,0,Jump Shot,25,-29,251,False
+Marco Belinelli,3,1,8,1,Jump Shot,25,-152,204,False
+Marco Belinelli,3,1,14,0,Jump Shot,25,60,248,False
+Marco Belinelli,1,3,6,0,Jump Shot,25,157,200,False
+Marco Belinelli,2,7,6,0,Jump Shot,25,10,254,False
+Marco Belinelli,4,8,53,0,Jump Shot,25,-131,214,False
+Marco Belinelli,3,3,9,1,Jump Shot,25,-192,173,False
+Marco Belinelli,1,1,48,1,Jump Shot,23,230,48,False
+Marco Belinelli,3,3,59,0,Jump Shot,25,-193,172,False
+Marco Belinelli,2,6,7,1,Jump Shot,20,65,195,True
+Marco Belinelli,3,3,57,0,Jump Shot,25,-5,251,False
+Marco Belinelli,2,3,54,1,Jump Shot,26,165,203,False
+Marco Belinelli,3,5,41,1,Jump Shot,11,97,64,True
+Marco Belinelli,3,4,49,0,Jump Shot,30,-145,269,False
+Marco Belinelli,2,7,6,0,Jump Shot,25,76,246,False
+Marco Belinelli,3,0,40,1,Jump Shot,22,-172,151,True
+Marco Belinelli,1,4,1,1,Jump Shot,25,-167,194,False
+Marco Belinelli,1,4,38,1,Jump Shot,24,-118,218,False
+Marco Belinelli,2,3,49,0,Jump Shot,22,-225,20,False
+Marco Belinelli,3,1,9,0,Jump Shot,23,-230,22,False
+Marco Belinelli,2,5,23,0,Jump Shot,18,-127,128,True
+Marco Belinelli,1,3,40,1,Jump Shot,20,-142,142,True
+Marco Belinelli,1,5,33,1,Jump Shot,21,192,97,True
+Marco Belinelli,3,2,28,1,Jump Shot,27,14,274,False
+Marco Belinelli,4,3,54,0,Jump Shot,26,117,239,False
+Marco Belinelli,3,3,45,1,Jump Shot,18,57,181,True
+Marco Belinelli,4,3,35,0,Jump Shot,27,-116,247,False
+Marco Belinelli,1,5,45,1,Jump Shot,19,101,167,True
+Marco Belinelli,3,1,9,1,Jump Shot,27,-61,264,False
+Marco Belinelli,3,6,57,1,Jump Shot,27,71,262,False
+Marco Belinelli,2,5,48,0,Jump Shot,27,-205,179,False
+Marco Belinelli,4,7,38,0,Jump Shot,27,-115,247,False
+Marco Belinelli,4,2,2,0,Jump Shot,21,80,199,True
+Marco Belinelli,3,3,49,1,Jump Shot,25,-202,162,False
+Marco Belinelli,3,3,25,1,Jump Shot,25,174,183,False
+Marco Belinelli,3,2,55,0,Jump Shot,26,216,149,False
+Marco Belinelli,4,4,10,1,Jump Shot,25,-126,227,False
+Marco Belinelli,3,4,59,0,Jump Shot,26,221,138,False
+Marco Belinelli,4,6,5,1,Jump Shot,19,-196,22,True
+Marco Belinelli,2,3,11,0,Jump Shot,28,234,157,False
+Marco Belinelli,3,4,15,1,Jump Shot,25,67,251,False
+Marco Belinelli,4,1,15,1,Jump Shot,23,-236,1,False
+Marco Belinelli,2,7,13,0,Jump Shot,25,9,256,False
+Marco Belinelli,2,0,31,1,Jump Shot,26,129,226,False
+Marco Belinelli,1,2,24,0,Jump Shot,27,207,179,False
+Marco Belinelli,2,7,58,0,Jump Shot,17,-139,110,True
+Marco Belinelli,4,2,21,1,Jump Shot,15,74,138,True
+Marco Belinelli,2,4,38,1,Jump Shot,24,231,95,False
+Marco Belinelli,2,3,7,0,Jump Shot,28,73,276,False
+Marco Belinelli,1,8,11,0,Jump Shot,18,-185,16,True
+Marco Belinelli,2,7,36,1,Jump Shot,26,100,240,False
+Marco Belinelli,2,10,52,0,Jump Shot,25,-10,256,False
+Marco Belinelli,2,8,28,1,Jump Shot,25,-22,255,False
+Marco Belinelli,3,7,55,0,Jump Shot,25,-180,176,False
+Marco Belinelli,4,8,43,0,Jump Shot,25,-133,218,False
+Marco Belinelli,4,10,35,1,Jump Shot,26,16,263,False
+Marco Belinelli,2,6,49,0,Jump Shot,22,8,222,True
+Marco Belinelli,2,2,50,0,Jump Shot,24,165,185,False
+Marco Belinelli,4,11,13,0,Jump Shot,24,-172,174,False
+Marco Belinelli,1,4,43,0,Jump Shot,23,-230,22,False
+Marco Belinelli,1,6,22,0,Jump Shot,21,-138,168,True
+Marco Belinelli,4,2,53,1,Jump Shot,22,168,152,True
+Marco Belinelli,4,1,1,0,Jump Shot,23,231,30,False
+Marco Belinelli,2,2,42,0,Jump Shot,25,70,244,False
+Marco Belinelli,1,1,46,0,Jump Shot,25,89,234,False
+Marco Belinelli,2,0,26,0,Jump Shot,25,-20,252,False
+Marco Belinelli,4,8,30,0,Jump Shot,23,230,32,False
+Marco Belinelli,3,5,34,0,Jump Shot,25,26,253,False
+Marco Belinelli,2,2,1,0,Jump Shot,23,229,27,False
+Marco Belinelli,1,1,47,0,Jump Shot,24,25,240,False
+Marco Belinelli,2,3,13,0,Jump Shot,24,-52,240,False
+Marco Belinelli,3,5,22,1,Jump Shot,24,-14,244,False
+Marco Belinelli,3,4,43,1,Jump Shot,25,-119,226,False
+Marco Belinelli,2,0,37,0,Jump Shot,26,64,252,False
+Marco Belinelli,2,11,19,0,Jump Shot,25,14,251,False
+Marco Belinelli,3,3,2,0,Jump Shot,22,-223,-15,False
+Marco Belinelli,4,10,29,0,Jump Shot,24,201,139,False
+Marco Belinelli,4,7,43,0,Jump Shot,25,116,226,False
+Marco Belinelli,1,0,22,0,Jump Shot,22,117,195,True
+Marco Belinelli,3,0,1,0,Jump Shot,22,226,16,False
+Marco Belinelli,3,0,20,0,Jump Shot,25,-9,259,False
+Marco Belinelli,3,0,46,0,Jump Shot,25,-169,193,False
+Marco Belinelli,2,1,50,1,Jump Shot,22,-226,-10,False
+Marco Belinelli,4,9,58,0,Jump Shot,26,97,247,False
+Marco Belinelli,1,1,22,0,Jump Shot,16,-43,164,True
+Marco Belinelli,3,1,1,1,Jump Shot,26,135,227,False
+Marco Belinelli,3,0,34,0,Jump Shot,26,-85,251,False
+Marco Belinelli,3,0,39,1,Jump Shot,26,-3,261,False
+Marco Belinelli,4,10,47,0,Jump Shot,19,87,169,True
+Marco Belinelli,3,2,0,0,Jump Shot,24,-230,88,False
+Marco Belinelli,3,2,7,0,Jump Shot,22,-114,189,True
+Marco Belinelli,3,0,6,0,Jump Shot,26,-109,239,False
+Marco Belinelli,2,10,19,1,Jump Shot,26,97,244,False
+Marco Belinelli,1,0,6,0,Jump Shot,25,98,230,False
+Marco Belinelli,2,9,28,1,Jump Shot,19,-121,158,True
+Marco Belinelli,2,10,15,1,Jump Shot,28,150,238,False
+Marco Belinelli,4,10,22,1,Jump Shot,20,65,198,True
+Marco Belinelli,3,5,36,0,Jump Shot,24,202,146,False
+Marco Belinelli,1,1,26,1,Jump Shot,20,16,208,True
+Marco Belinelli,4,8,57,0,Jump Shot,19,-2,199,True
+Marco Belinelli,3,1,15,1,Jump Shot,10,-103,18,True
+Marco Belinelli,1,2,25,1,Jump Shot,24,45,245,False
+Marco Belinelli,2,0,49,0,Jump Shot,28,36,285,False
+Marco Belinelli,3,2,0,1,Jump Shot,20,-187,86,True
+Marco Belinelli,1,5,2,0,Jump Shot,17,8,176,True
+Marco Belinelli,3,4,31,0,Jump Shot,24,120,217,False
+Marco Belinelli,3,9,26,0,Jump Shot,30,-96,289,False
+Marco Belinelli,2,8,43,0,Jump Shot,23,230,1,False
+Marco Belinelli,2,7,15,0,Jump Shot,21,-114,187,True
+Marco Belinelli,2,0,0,0,Jump Shot,22,221,16,False
+Marco Belinelli,4,8,3,1,Jump Shot,18,109,154,True
+Marco Belinelli,2,11,18,0,Jump Shot,25,-16,251,False
+Marco Belinelli,1,2,59,1,Jump Shot,21,85,193,True
+Marco Belinelli,1,0,3,1,Jump Shot,22,-222,10,False
+Marco Belinelli,2,0,47,0,Jump Shot,26,19,260,False
+Marco Belinelli,4,11,37,0,Jump Shot,25,-216,132,False
+Marco Belinelli,3,2,33,1,Jump Shot,25,-60,250,False
+Marco Belinelli,3,1,15,0,Jump Shot,22,-3,222,True
+Marco Belinelli,1,2,12,1,Jump Shot,26,-2,264,False
+Marco Belinelli,3,0,0,0,Jump Shot,51,-141,499,False
+Marco Belinelli,3,0,44,1,Jump Shot,11,-100,57,True
+Marco Belinelli,4,11,45,0,Jump Shot,26,83,248,False
+Marco Belinelli,2,2,45,1,Jump Shot,23,-58,227,True
+Marco Belinelli,1,1,18,0,Jump Shot,24,-230,91,False
+Marco Belinelli,1,1,51,0,Jump Shot,26,-63,253,False
+Marco Belinelli,2,11,12,0,Jump Shot,26,-157,211,False
+Marco Belinelli,4,0,52,0,Jump Shot,26,219,150,False
+Marco Belinelli,3,2,10,0,Jump Shot,26,-5,268,False
+Marco Belinelli,4,8,40,1,Jump Shot,24,-88,232,False
+Marco Belinelli,2,10,33,0,Jump Shot,24,11,247,False
+Marco Belinelli,3,2,43,0,Jump Shot,22,-223,-4,False
+Marco Belinelli,4,2,50,0,Jump Shot,25,-72,242,False
+Marco Belinelli,1,2,10,1,Jump Shot,24,-22,245,False
+Marco Belinelli,2,2,21,0,Jump Shot,27,111,250,False
+Marco Belinelli,5,2,59,0,Jump Shot,23,233,7,False
+Marco Belinelli,5,2,19,1,Jump Shot,27,-186,197,False
+Marco Belinelli,4,5,14,0,Jump Shot,25,167,191,False
+Marco Belinelli,2,11,46,1,Jump Shot,20,-169,121,True
+Marco Belinelli,3,1,34,0,Jump Shot,25,95,237,False
+Marco Belinelli,4,9,20,0,Jump Shot,19,-91,176,True
+Marco Belinelli,1,0,59,1,Jump Shot,16,18,168,True
+Marco Belinelli,2,11,16,0,Jump Shot,25,-41,248,False
+Marco Belinelli,3,3,55,0,Jump Shot,25,-6,250,False
+Marco Belinelli,1,4,10,0,Jump Shot,24,-49,243,False
+Marco Belinelli,4,8,42,0,Jump Shot,7,-9,79,True
+Marco Belinelli,2,10,16,0,Jump Shot,19,193,32,True
+Marco Belinelli,1,0,0,0,Jump Shot,45,-76,451,False
+Marco Belinelli,2,11,27,1,Jump Shot,25,55,245,False
+Marco Belinelli,2,8,6,0,Jump Shot,10,12,100,True
+Marco Belinelli,4,5,20,0,Jump Shot,25,-195,158,False
+Marco Belinelli,4,0,17,0,Jump Shot,25,100,231,False
+Marco Belinelli,2,11,47,0,Jump Shot,24,70,236,False
+Marco Belinelli,1,2,47,1,Jump Shot,25,133,221,False
+Marco Belinelli,1,3,23,0,Jump Shot,24,114,220,False
+Marco Belinelli,1,5,14,1,Jump Shot,23,229,25,False
+Marco Belinelli,2,11,34,1,Jump Shot,22,226,37,False
+Marco Belinelli,2,11,48,0,Jump Shot,24,235,66,False
+Marco Belinelli,1,3,18,0,Jump Shot,21,110,184,True
+Marco Belinelli,1,2,0,0,Jump Shot,21,65,210,True
+Marco Belinelli,1,1,0,1,Jump Shot,25,188,167,False
+Marco Belinelli,2,3,59,1,Jump Shot,19,-67,188,True
+Marco Belinelli,3,3,27,0,Jump Shot,24,-24,243,False
+Marco Belinelli,2,9,58,0,Jump Shot,24,51,242,False
+Marco Belinelli,4,11,3,0,Jump Shot,24,-138,203,False
+Marco Belinelli,2,10,44,0,Jump Shot,26,46,266,False
+Marco Belinelli,4,3,5,0,Jump Shot,25,-54,247,False
+Marco Belinelli,3,1,34,0,Jump Shot,25,44,248,False
+Marco Belinelli,2,0,58,0,Jump Shot,24,124,216,False
+Marco Belinelli,3,0,51,1,Jump Shot,20,-197,52,True
+Marco Belinelli,4,10,47,0,Jump Shot,26,-62,255,False
+Marco Belinelli,3,5,19,1,Jump Shot,19,152,116,True
+Marco Belinelli,1,0,35,0,Jump Shot,25,-223,121,False
+Marco Belinelli,1,0,0,0,Jump Shot,22,-222,1,False
+Marco Belinelli,2,10,58,0,Jump Shot,25,-8,259,False
+Marco Belinelli,1,1,35,1,Jump Shot,22,135,178,True
+Marco Belinelli,1,5,8,1,Jump Shot,25,6,253,False
+Marco Belinelli,1,0,32,1,Jump Shot,25,-116,228,False
+Marco Belinelli,3,5,7,0,Jump Shot,22,-57,219,True
+Marco Belinelli,2,2,33,1,Jump Shot,24,-175,175,False
+Marco Belinelli,2,1,42,0,Jump Shot,25,139,209,False
+Marco Belinelli,1,5,2,0,Jump Shot,15,19,157,True
+Marco Belinelli,4,10,40,1,Jump Shot,27,159,224,False
+Marco Belinelli,2,11,40,0,Jump Shot,28,-136,249,False
+Marco Belinelli,4,9,30,0,Jump Shot,24,-216,124,False
+Marco Belinelli,4,9,47,0,Jump Shot,25,-173,183,False
+Marco Belinelli,3,6,8,1,Jump Shot,25,36,256,False
+Marco Belinelli,2,8,11,0,Jump Shot,14,71,126,True
+Marco Belinelli,3,0,45,0,Jump Shot,15,-98,114,True
+Marco Belinelli,4,10,51,0,Jump Shot,18,134,122,True
+Marco Belinelli,1,0,30,0,Jump Shot,25,207,147,False
+Marco Belinelli,3,2,59,0,Jump Shot,24,146,202,False
+Marco Belinelli,4,11,19,0,Jump Shot,25,31,251,False
+Marco Belinelli,1,5,18,0,Jump Shot,27,-185,197,False
+Marco Belinelli,1,0,40,0,Jump Shot,25,127,219,False
+Marco Belinelli,1,5,28,0,Jump Shot,25,-134,218,False
+Marco Belinelli,4,10,38,0,Jump Shot,20,-83,190,True
+Marco Belinelli,2,2,43,0,Jump Shot,20,-203,13,True
+Marco Belinelli,2,3,43,0,Jump Shot,24,236,71,False
+Marco Belinelli,2,0,2,0,Jump Shot,25,-242,83,False
+Marco Belinelli,2,10,8,0,Jump Shot,25,-106,232,False
+Marco Belinelli,4,4,20,0,Jump Shot,23,-231,-19,False
+Marco Belinelli,3,4,55,1,Jump Shot,25,-6,259,False
+Marco Belinelli,1,2,9,1,Jump Shot,26,9,263,False
+Marco Belinelli,4,1,52,1,Jump Shot,25,9,252,False
+Marco Belinelli,1,5,10,0,Jump Shot,27,30,276,False
+Marco Belinelli,4,10,31,1,Jump Shot,25,-99,232,False
+Marco Belinelli,2,10,59,1,Jump Shot,26,-136,231,False
+Marco Belinelli,4,2,17,1,Jump Shot,25,-190,175,False
+Marco Belinelli,4,2,24,0,Jump Shot,27,41,272,False
+Marco Belinelli,4,7,20,1,Jump Shot,25,218,123,False
+Marco Belinelli,2,2,32,0,Jump Shot,19,92,173,True
+Marco Belinelli,1,5,14,0,Jump Shot,25,-187,176,False
+Marco Belinelli,4,1,48,1,Jump Shot,26,-101,244,False
+Marco Belinelli,4,0,1,0,Jump Shot,23,-234,26,False
+Marco Belinelli,2,5,53,1,Jump Shot,0,-8,4,True
+Marco Belinelli,4,0,6,0,Jump Shot,27,-145,228,False
+Marco Belinelli,4,3,16,1,Jump Shot,25,-159,199,False
+Marco Belinelli,4,4,56,0,Jump Shot,16,-36,159,True
+Marco Belinelli,4,10,44,0,Jump Shot,25,-196,168,False
+Marco Belinelli,4,11,35,1,Jump Shot,16,-106,131,True
+Marco Belinelli,1,3,8,1,Jump Shot,24,-119,219,False
+Marco Belinelli,2,3,41,0,Jump Shot,24,-221,100,False
+Marco Belinelli,2,1,36,1,Jump Shot,20,157,132,True
+Marco Belinelli,4,7,21,1,Jump Shot,23,226,48,False
+Marco Belinelli,1,6,25,1,Jump Shot,24,-144,198,False
+Marco Belinelli,3,3,25,0,Jump Shot,23,-226,57,False
+Marco Belinelli,1,6,33,0,Jump Shot,21,66,205,True
+Marco Belinelli,2,4,25,1,Jump Shot,16,69,154,True
+Marco Belinelli,2,3,35,0,Jump Shot,25,-14,256,False
+Marco Belinelli,4,10,56,1,Jump Shot,16,130,99,True
+Marco Belinelli,2,4,3,1,Jump Shot,25,-20,250,False
+Marco Belinelli,2,2,7,1,Jump Shot,16,165,1,True
+Marco Belinelli,1,4,9,0,Jump Shot,22,47,216,True
+Marco Belinelli,4,10,41,1,Jump Shot,25,225,112,False
+Marco Belinelli,4,4,1,0,Jump Shot,24,-108,222,False
+Marco Belinelli,3,0,52,1,Jump Shot,27,176,208,False
+Marco Belinelli,2,4,55,1,Jump Shot,23,-228,40,False
+Marco Belinelli,1,9,55,1,Jump Shot,24,-113,221,False
+Marco Belinelli,4,0,11,0,Jump Shot,21,95,191,True
+Marco Belinelli,4,7,34,0,Jump Shot,25,66,246,False
+Marco Belinelli,2,4,41,1,Jump Shot,27,-96,258,False
+Marco Belinelli,3,5,8,0,Jump Shot,26,0,269,False
+Marco Belinelli,4,5,6,0,Jump Shot,20,79,187,True
+Marco Belinelli,4,2,54,0,Jump Shot,19,-3,190,True
+Marco Belinelli,2,4,9,0,Jump Shot,20,32,200,True
+Marco Belinelli,1,3,53,0,Jump Shot,19,-13,191,True
+Marco Belinelli,1,4,45,1,Jump Shot,26,-112,244,False
+Marco Belinelli,3,2,42,0,Jump Shot,24,-2,242,False
+Marco Belinelli,4,9,52,0,Jump Shot,23,-231,-11,False
+Marco Belinelli,4,0,15,0,Jump Shot,21,134,169,True
+Marco Belinelli,3,3,19,1,Jump Shot,24,99,226,False
+Marco Belinelli,4,11,36,0,Jump Shot,20,-68,195,True
+Marco Belinelli,1,1,4,0,Jump Shot,24,11,248,False
+Marco Belinelli,2,1,41,0,Jump Shot,25,96,233,False
+Marco Belinelli,2,10,39,1,Jump Shot,27,22,273,False
+Marco Belinelli,3,0,42,0,Jump Shot,22,114,190,True
+Marco Belinelli,4,1,56,1,Jump Shot,25,-180,177,False
+Marco Belinelli,3,1,45,0,Jump Shot,28,-163,230,False
+Marco Belinelli,1,3,26,0,Jump Shot,20,-133,152,True
+Marco Belinelli,3,0,35,1,Jump Shot,23,231,52,False
+Marco Belinelli,4,0,45,0,Jump Shot,25,-167,194,False
+Marco Belinelli,3,0,0,0,Jump Shot,30,-192,234,False
+Marco Belinelli,3,6,38,0,Jump Shot,17,133,117,True
+Marco Belinelli,1,0,2,1,Layup Shot,3,-23,20,True
+Marco Belinelli,3,3,56,0,Layup Shot,5,-8,54,True
+Marco Belinelli,3,6,44,0,Layup Shot,6,40,55,True
+Marco Belinelli,3,4,15,1,Layup Shot,1,0,13,True
+Marco Belinelli,3,2,5,0,Layup Shot,3,-24,19,True
+Marco Belinelli,4,11,20,0,Layup Shot,5,-55,22,True
+Marco Belinelli,2,2,8,0,Layup Shot,6,16,59,True
+Marco Belinelli,2,0,48,0,Layup Shot,3,-34,-6,True
+Marco Belinelli,2,8,5,1,Layup Shot,1,11,16,True
+Marco Belinelli,2,3,20,0,Layup Shot,2,4,26,True
+Marco Belinelli,3,3,17,0,Layup Shot,2,-21,3,True
+Marco Belinelli,2,9,3,0,Layup Shot,1,-2,16,True
+Marco Belinelli,2,10,2,1,Layup Shot,0,2,9,True
+Marco Belinelli,2,6,14,1,Layup Shot,1,-7,12,True
+Marco Belinelli,4,1,9,1,Layup Shot,1,6,15,True
+Marco Belinelli,2,9,54,0,Layup Shot,2,25,11,True
+Marco Belinelli,2,4,21,1,Pullup Jump shot,25,-143,209,False
+Marco Belinelli,3,0,34,0,Pullup Jump shot,20,-61,200,True
+Marco Belinelli,2,3,45,0,Pullup Jump shot,23,-231,4,False
+Marco Belinelli,3,3,8,1,Pullup Jump shot,19,-138,139,True
+Marco Belinelli,3,4,6,1,Pullup Jump shot,20,26,202,True
+Marco Belinelli,2,3,21,0,Pullup Jump shot,21,-20,218,True
+Marco Belinelli,2,4,29,0,Pullup Jump shot,21,-55,211,True
+Marco Belinelli,3,4,39,1,Pullup Jump shot,24,-22,239,False
+Marco Belinelli,2,9,42,1,Pullup Jump shot,11,-94,70,True
+Marco Belinelli,1,3,3,0,Pullup Jump shot,24,-78,237,False
+Marco Belinelli,1,1,19,0,Pullup Jump shot,25,67,247,False
+Marco Belinelli,4,3,23,1,Pullup Jump shot,25,32,256,False
+Marco Belinelli,1,2,11,0,Pullup Jump shot,25,-45,246,False
+Marco Belinelli,3,2,1,0,Pullup Jump shot,16,-33,159,True
+Marco Belinelli,1,2,49,0,Pullup Jump shot,24,-62,242,False
+Marco Belinelli,1,6,41,1,Pullup Jump shot,9,-38,92,True
+Marco Belinelli,2,11,45,0,Pullup Jump shot,23,-239,-4,False
+Marco Belinelli,1,1,9,0,Pullup Jump shot,20,-103,176,True
+Marco Belinelli,2,11,15,1,Pullup Jump shot,21,148,153,True
+Marco Belinelli,1,4,8,1,Pullup Jump shot,16,29,164,True
+Marco Belinelli,1,3,53,1,Pullup Jump shot,20,107,169,True
+Marco Belinelli,2,11,24,1,Pullup Jump shot,18,-138,123,True
+Marco Belinelli,3,2,6,1,Pullup Jump shot,24,-107,221,False
+Marco Belinelli,1,2,15,1,Pullup Jump shot,22,66,215,True
+Marco Belinelli,4,10,8,1,Pullup Jump shot,14,58,137,True
+Marco Belinelli,3,0,56,1,Pullup Jump shot,26,196,181,False
+Marco Belinelli,3,6,15,1,Pullup Jump shot,25,96,233,False
+Marco Belinelli,4,1,28,1,Pullup Jump shot,25,218,131,False
+Marco Belinelli,1,3,41,1,Pullup Jump shot,20,62,194,True
+Marco Belinelli,4,8,57,0,Pullup Jump shot,20,5,208,True
+Marco Belinelli,3,8,29,1,Pullup Jump shot,20,-127,163,True
+Marco Belinelli,2,8,41,0,Pullup Jump shot,18,8,185,True
+Marco Belinelli,4,10,8,1,Pullup Jump shot,14,-140,14,True
+Marco Belinelli,1,2,29,1,Pullup Jump shot,13,54,120,True
+Marco Belinelli,1,2,56,1,Pullup Jump shot,21,59,205,True
+Marco Belinelli,1,5,8,0,Pullup Jump shot,17,-22,176,True
+Marco Belinelli,3,3,20,0,Pullup Jump shot,15,154,29,True
+Marco Belinelli,2,3,20,1,Pullup Jump shot,25,117,222,False
+Marco Belinelli,1,0,33,1,Pullup Jump shot,24,131,206,False
+Marco Belinelli,2,1,57,0,Pullup Jump shot,24,116,218,False
+Marco Belinelli,1,1,9,1,Pullup Jump shot,29,-88,280,False
+Marco Belinelli,3,5,34,1,Pullup Jump shot,15,75,139,True
+Marco Belinelli,1,3,15,1,Pullup Jump shot,19,6,193,True
+Marco Belinelli,1,1,58,0,Pullup Jump shot,15,99,120,True
+Marco Belinelli,1,1,33,0,Pullup Jump shot,17,109,134,True
+Marco Belinelli,4,7,39,1,Pullup Jump shot,20,-2,206,True
+Marco Belinelli,3,2,8,1,Pullup Jump shot,23,-31,237,False
+Marco Belinelli,1,0,7,0,Pullup Jump shot,22,27,222,True
+Marco Belinelli,3,0,59,1,Pullup Jump shot,17,-105,136,True
+Marco Belinelli,4,11,24,1,Pullup Jump shot,19,106,164,True
+Marco Belinelli,3,3,52,0,Pullup Jump shot,17,54,162,True
+Marco Belinelli,2,8,12,0,Pullup Jump shot,16,2,161,True
+Marco Belinelli,3,0,20,0,Pullup Jump shot,27,-87,256,False
+Marco Belinelli,2,1,49,0,Pullup Jump shot,17,69,162,True
+Marco Belinelli,1,1,4,0,Pullup Jump shot,21,149,152,True
+Marco Belinelli,2,2,20,1,Pullup Jump shot,21,-19,210,True
+Marco Belinelli,1,3,10,0,Pullup Jump shot,17,-18,179,True
+Marco Belinelli,1,3,47,0,Pullup Jump shot,16,-138,84,True
+Marco Belinelli,3,0,27,0,Pullup Jump shot,26,9,266,False
+Marco Belinelli,3,2,4,1,Pullup Jump shot,26,118,233,False
+Marco Belinelli,2,4,26,0,Pullup Jump shot,15,-111,110,True
+Marco Belinelli,1,0,4,0,Pullup Jump shot,15,45,145,True
+Marco Belinelli,3,10,27,1,Pullup Jump shot,18,-121,144,True
+Marco Belinelli,4,8,9,1,Pullup Jump shot,14,-24,147,True
+Marco Belinelli,2,8,27,0,Pullup Jump shot,17,-18,173,True
+Marco Belinelli,2,10,43,1,Pullup Jump shot,25,-214,143,False
+Marco Belinelli,1,5,41,0,Pullup Jump shot,21,49,205,True
+Marco Belinelli,1,3,52,0,Pullup Jump shot,25,-212,137,False
+Marco Belinelli,2,11,18,0,Pullup Jump shot,19,71,179,True
+Marco Belinelli,2,9,44,0,Pullup Jump shot,26,-40,257,False
+Marco Belinelli,1,4,16,0,Pullup Jump shot,24,49,242,False
+Marco Belinelli,4,8,50,1,Pullup Jump shot,22,-49,216,True
+Marco Belinelli,2,2,29,1,Pullup Jump shot,20,-90,184,True
+Marco Belinelli,3,2,7,1,Pullup Jump shot,19,102,169,True
+Marco Belinelli,3,1,9,0,Pullup Jump shot,16,164,0,True
+Marco Belinelli,2,11,44,0,Pullup Jump shot,23,-102,209,True
+Marco Belinelli,1,0,33,0,Pullup Jump shot,16,33,160,True
+Marco Belinelli,2,8,59,1,Pullup Jump shot,18,-132,132,True
+Marco Belinelli,3,0,8,0,Pullup Jump shot,26,209,155,False
+Marco Belinelli,4,10,38,1,Pullup Jump shot,25,-16,254,False
+Marco Belinelli,4,4,6,1,Pullup Jump shot,19,-17,193,True
+Marco Belinelli,3,0,21,0,Pullup Jump shot,25,184,176,False
+Marco Belinelli,3,0,46,1,Pullup Jump shot,21,-123,174,True
+Marco Belinelli,2,1,37,0,Pullup Jump shot,25,32,255,False
+Marco Belinelli,1,4,16,0,Pullup Jump shot,22,-141,179,True
+Marco Belinelli,2,6,47,0,Pullup Jump shot,25,-49,246,False
+Marco Belinelli,4,7,55,1,Pullup Jump shot,20,-17,206,True
+Marco Belinelli,1,6,59,0,Pullup Jump shot,17,15,173,True
+Marco Belinelli,4,4,6,0,Pullup Jump shot,25,-139,215,False
+Marco Belinelli,1,3,42,0,Pullup Jump shot,27,120,252,False
+Marco Belinelli,2,8,23,1,Pullup Jump shot,21,-107,184,True
+Marco Belinelli,2,7,17,1,Pullup Jump shot,16,168,21,True
+Marco Belinelli,4,5,1,0,Pullup Jump shot,25,-18,251,False
+Marco Belinelli,1,2,47,0,Pullup Jump shot,26,124,230,False
+Marco Belinelli,2,10,2,1,Pullup Jump shot,21,-87,200,True
+Marco Belinelli,3,3,53,0,Pullup Jump shot,17,89,146,True
+Marco Belinelli,2,4,15,1,Pullup Jump shot,20,45,198,True
+Marco Belinelli,1,3,19,1,Pullup Jump shot,29,-94,277,False
+Marco Belinelli,3,3,40,1,Pullup Jump shot,20,-147,143,True
+Marco Belinelli,1,0,26,1,Pullup Jump shot,22,221,58,False
+Marco Belinelli,3,5,42,0,Pullup Jump shot,17,15,178,True
+Marco Belinelli,3,2,54,0,Pullup Jump shot,24,170,178,False
+Marco Belinelli,4,3,3,0,Pullup Jump shot,18,-27,181,True
+Marco Belinelli,1,11,9,0,Pullup Jump shot,24,-129,213,False
+Marco Belinelli,4,2,28,1,Pullup Jump shot,25,108,232,False
+Marco Belinelli,1,1,1,0,Pullup Jump shot,21,27,216,True
+Marco Belinelli,1,4,31,1,Pullup Jump shot,25,152,208,False
+Marco Belinelli,4,9,33,1,Pullup Jump shot,19,71,186,True
+Marco Belinelli,1,3,8,1,Pullup Jump shot,22,14,220,True
+Marco Belinelli,1,0,41,1,Pullup Jump shot,13,41,131,True
+Marco Belinelli,3,6,30,0,Pullup Jump shot,18,31,180,True
+Marco Belinelli,3,4,36,0,Pullup Jump shot,25,70,240,False
+Marco Belinelli,2,6,2,0,Pullup Jump shot,27,-33,268,False
+Marco Belinelli,3,5,34,1,Pullup Jump shot,26,-57,263,False
+Marco Belinelli,1,0,19,0,Pullup Jump shot,18,81,161,True
+Marco Belinelli,1,1,22,1,Pullup Jump shot,27,-18,273,False
+Marco Belinelli,4,9,33,0,Pullup Jump shot,17,-171,12,True
+Marco Belinelli,4,10,17,0,Putback Layup Shot,4,-49,-5,True
+Marco Belinelli,3,0,0,0,Putback Layup Shot,1,-11,6,True
+Marco Belinelli,2,8,11,0,Reverse Layup Shot,3,-32,1,True
+Marco Belinelli,1,2,27,1,Reverse Layup Shot,1,-3,10,True
+Marco Belinelli,2,1,36,1,Reverse Layup Shot,1,-2,11,True
+Marco Belinelli,4,8,13,1,Reverse Layup Shot,0,0,9,True
+Marco Belinelli,1,4,38,1,Reverse Layup Shot,1,1,14,True
+Marco Belinelli,1,1,57,1,Reverse Layup Shot,0,-2,9,True
+Marco Belinelli,4,4,13,1,Reverse Layup Shot,2,8,20,True
+Marco Belinelli,3,5,1,1,Reverse Layup Shot,1,-16,8,True
+Marco Belinelli,2,5,22,0,Reverse Layup Shot,1,10,8,True
+Marco Belinelli,2,1,46,1,Reverse Layup Shot,0,5,6,True
+Marco Belinelli,1,6,7,1,Reverse Layup Shot,0,-6,4,True
+Marco Belinelli,2,7,1,1,Reverse Layup Shot,1,-6,10,True
+Marco Belinelli,4,10,34,1,Reverse Layup Shot,1,3,10,True
+Marco Belinelli,4,11,12,1,Reverse Layup Shot,1,2,11,True
+Marco Belinelli,4,10,34,0,Running Dunk Shot,1,-3,13,True
+Marco Belinelli,2,9,29,1,Running Dunk Shot,1,1,14,True
+Marco Belinelli,3,4,14,1,Running Jump Shot,27,130,240,False
+Marco Belinelli,4,9,55,1,Running Jump Shot,23,232,42,False
+Marco Belinelli,4,11,17,0,Running Jump Shot,24,49,241,False
+Marco Belinelli,3,2,1,0,Running Jump Shot,25,-130,217,False
+Marco Belinelli,3,0,46,0,Running Jump Shot,24,143,205,False
+Marco Belinelli,4,8,24,1,Running Jump Shot,25,183,172,False
+Marco Belinelli,1,2,27,0,Running Jump Shot,26,38,260,False
+Marco Belinelli,3,0,0,0,Running Jump Shot,25,178,186,False
+Marco Belinelli,4,1,14,0,Running Jump Shot,25,-174,183,False
+Marco Belinelli,2,9,32,1,Running Layup Shot,1,-3,13,True
+Marco Belinelli,4,5,50,0,Running Layup Shot,9,4,92,True
+Marco Belinelli,1,4,52,1,Running Layup Shot,0,-5,5,True
+Marco Belinelli,4,5,12,0,Running Pull-Up Jump Shot,19,0,195,True
+Marco Belinelli,2,3,18,0,Running Pull-Up Jump Shot,26,-68,255,False
+Marco Belinelli,2,1,31,1,Running Pull-Up Jump Shot,28,-94,267,False
+Marco Belinelli,4,9,29,0,Running Pull-Up Jump Shot,26,-68,251,False
+Marco Belinelli,1,0,24,0,Running Pull-Up Jump Shot,27,-131,243,False
+Marco Belinelli,4,6,15,0,Running Pull-Up Jump Shot,25,-50,253,False
+Marco Belinelli,1,2,48,1,Running Pull-Up Jump Shot,20,80,193,True
+Marco Belinelli,2,1,16,1,Running Pull-Up Jump Shot,25,132,220,False
+Marco Belinelli,4,5,49,1,Running Reverse Layup Shot,2,-22,5,True
+Marco Belinelli,2,7,29,1,Running Reverse Layup Shot,0,7,4,True
+Marco Belinelli,3,4,30,0,Step Back Bank Jump Shot,19,-66,183,True
+Marco Belinelli,2,11,18,1,Step Back Jump shot,20,-199,63,True
+Marco Belinelli,2,2,12,0,Step Back Jump shot,24,123,214,False
+Marco Belinelli,4,5,50,0,Step Back Jump shot,26,-190,188,False
+Marco Belinelli,3,3,51,0,Step Back Jump shot,24,211,115,False
+Marco Belinelli,4,7,38,1,Step Back Jump shot,22,-222,9,False
+Marco Belinelli,2,4,15,0,Step Back Jump shot,25,91,242,False
+Marco Belinelli,1,6,44,1,Step Back Jump shot,25,-174,182,False
+Marco Belinelli,3,5,47,1,Step Back Jump shot,25,119,226,False
+Marco Belinelli,2,8,23,1,Step Back Jump shot,15,150,-14,True
+Marco Belinelli,2,2,34,1,Step Back Jump shot,25,-171,183,False
+Marco Belinelli,4,10,41,1,Step Back Jump shot,25,-199,167,False
+Marco Belinelli,3,1,34,1,Step Back Jump shot,12,124,17,True
+Marco Belinelli,4,5,19,1,Step Back Jump shot,23,229,34,False
+Marco Belinelli,1,0,1,0,Step Back Jump shot,26,-20,267,False
+Marco Belinelli,1,2,32,1,Step Back Jump shot,24,3,244,False
+Marco Belinelli,4,4,7,0,Step Back Jump shot,22,-228,4,False
+Marco Belinelli,2,3,57,0,Step Back Jump shot,19,-191,21,True
+Marco Belinelli,4,3,59,1,Step Back Jump shot,24,-206,134,False
+Marco Belinelli,2,10,20,1,Step Back Jump shot,24,236,71,False
+Marco Belinelli,3,0,40,0,Step Back Jump shot,25,120,220,False
+Marco Belinelli,1,1,24,0,Step Back Jump shot,25,11,258,False
+Marco Belinelli,3,4,10,0,Step Back Jump shot,24,-228,100,False
+Marco Belinelli,1,5,36,0,Tip Layup Shot,0,0,-6,True
+Marco Belinelli,2,0,24,1,Tip Layup Shot,0,0,-6,True
+Marco Belinelli,2,10,45,0,Turnaround Fadeaway Bank Jump Shot,17,139,110,True
+Marco Belinelli,1,1,20,1,Turnaround Fadeaway Bank Jump Shot,18,38,181,True
+Marco Belinelli,1,0,1,0,Turnaround Fadeaway shot,25,225,118,False
+Marco Belinelli,2,10,8,0,Turnaround Fadeaway shot,18,0,184,True
+Marco Belinelli,2,9,12,1,Turnaround Jump Shot,21,-112,181,True
+Marco Belinelli,1,2,45,0,Turnaround Jump Shot,23,-226,68,False
+Marco Belinelli,4,6,30,1,Turnaround Jump Shot,23,236,20,False
+Marco Belinelli,1,0,46,0,Turnaround Jump Shot,14,97,101,True
+Marco Belinelli,1,1,20,0,Turnaround Jump Shot,25,143,215,False

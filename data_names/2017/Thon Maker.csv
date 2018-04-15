@@ -1,0 +1,299 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Thon Maker,1,0,55,1,Alley Oop Dunk Shot,1,-2,13,True
+Thon Maker,2,3,39,0,Alley Oop Dunk Shot,1,-5,15,True
+Thon Maker,2,9,29,1,Alley Oop Dunk Shot,1,13,14,True
+Thon Maker,3,1,52,0,Alley Oop Dunk Shot,3,-23,23,True
+Thon Maker,1,2,40,1,Alley Oop Dunk Shot,1,0,11,True
+Thon Maker,2,6,23,1,Alley Oop Dunk Shot,2,17,16,True
+Thon Maker,1,0,58,1,Alley Oop Dunk Shot,1,6,10,True
+Thon Maker,2,9,44,1,Alley Oop Dunk Shot,0,-1,8,True
+Thon Maker,4,10,19,0,Alley Oop Dunk Shot,0,-3,5,True
+Thon Maker,3,2,36,0,Alley Oop Layup shot,2,-22,20,True
+Thon Maker,1,4,53,0,Alley Oop Layup shot,1,4,15,True
+Thon Maker,4,6,31,0,Alley Oop Layup shot,2,-16,16,True
+Thon Maker,3,2,23,1,Alley Oop Layup shot,0,0,6,True
+Thon Maker,2,7,41,0,Alley Oop Layup shot,0,4,6,True
+Thon Maker,1,3,4,1,Alley Oop Layup shot,1,-3,11,True
+Thon Maker,2,11,20,0,Cutting Dunk Shot,1,-9,6,True
+Thon Maker,4,6,5,1,Cutting Dunk Shot,0,-2,9,True
+Thon Maker,2,10,1,0,Cutting Dunk Shot,2,16,15,True
+Thon Maker,3,8,57,1,Cutting Dunk Shot,2,5,27,True
+Thon Maker,4,11,13,0,Cutting Layup Shot,3,0,33,True
+Thon Maker,2,9,14,0,Cutting Layup Shot,2,0,21,True
+Thon Maker,1,6,10,0,Cutting Layup Shot,3,11,37,True
+Thon Maker,1,4,7,0,Cutting Layup Shot,0,0,-2,True
+Thon Maker,1,7,54,1,Cutting Layup Shot,1,-4,19,True
+Thon Maker,1,2,35,0,Cutting Layup Shot,4,-24,38,True
+Thon Maker,1,6,31,1,Cutting Layup Shot,1,2,14,True
+Thon Maker,2,2,12,1,Cutting Layup Shot,1,-4,11,True
+Thon Maker,1,10,45,0,Cutting Layup Shot,0,-3,6,True
+Thon Maker,1,4,28,0,Cutting Layup Shot,2,-17,11,True
+Thon Maker,4,8,18,1,Driving Dunk Shot,0,1,1,True
+Thon Maker,4,8,32,1,Driving Finger Roll Layup Shot,1,-9,11,True
+Thon Maker,1,3,4,0,Driving Hook Shot,3,16,29,True
+Thon Maker,4,7,30,0,Driving Hook Shot,5,25,46,True
+Thon Maker,4,10,56,0,Driving Layup Shot,4,5,47,True
+Thon Maker,2,8,46,0,Driving Layup Shot,1,-14,14,True
+Thon Maker,4,6,57,0,Driving Layup Shot,2,14,20,True
+Thon Maker,3,8,24,1,Driving Layup Shot,2,-18,14,True
+Thon Maker,4,6,37,1,Driving Layup Shot,1,-10,14,True
+Thon Maker,3,8,4,1,Driving Reverse Layup Shot,1,6,13,True
+Thon Maker,1,7,13,1,Dunk Shot,2,2,21,True
+Thon Maker,3,9,2,1,Dunk Shot,0,-6,1,True
+Thon Maker,2,10,7,1,Dunk Shot,1,4,11,True
+Thon Maker,1,11,17,1,Dunk Shot,1,8,18,True
+Thon Maker,2,10,39,1,Dunk Shot,0,-3,2,True
+Thon Maker,3,2,18,1,Dunk Shot,1,3,17,True
+Thon Maker,1,10,35,1,Dunk Shot,1,6,10,True
+Thon Maker,4,0,29,1,Dunk Shot,1,1,10,True
+Thon Maker,4,5,40,1,Dunk Shot,1,6,11,True
+Thon Maker,4,7,45,1,Dunk Shot,1,8,15,True
+Thon Maker,4,1,21,1,Dunk Shot,0,-4,5,True
+Thon Maker,2,6,57,1,Dunk Shot,1,-13,12,True
+Thon Maker,2,6,2,1,Finger Roll Layup Shot,2,0,20,True
+Thon Maker,1,5,49,0,Floating Jump shot,9,-46,79,True
+Thon Maker,3,2,36,1,Floating Jump shot,3,-29,15,True
+Thon Maker,2,8,10,0,Hook Shot,6,-57,38,True
+Thon Maker,1,0,38,0,Hook Shot,8,-7,89,True
+Thon Maker,2,8,24,1,Hook Shot,4,-3,44,True
+Thon Maker,4,11,43,0,Hook Shot,0,2,8,True
+Thon Maker,4,8,35,1,Hook Shot,4,42,21,True
+Thon Maker,1,7,27,0,Hook Shot,1,-5,10,True
+Thon Maker,3,9,9,0,Hook Shot,2,-23,0,True
+Thon Maker,2,4,22,0,Hook Shot,6,24,57,True
+Thon Maker,4,8,6,0,Hook Shot,3,8,31,True
+Thon Maker,1,9,13,0,Hook Shot,2,-14,22,True
+Thon Maker,4,10,0,0,Hook Shot,4,23,43,True
+Thon Maker,3,1,55,1,Hook Shot,3,-33,20,True
+Thon Maker,4,8,34,0,Hook Shot,1,-14,9,True
+Thon Maker,2,5,39,1,Hook Shot,9,23,93,True
+Thon Maker,2,4,47,1,Hook Shot,9,63,67,True
+Thon Maker,3,2,48,1,Hook Shot,6,47,50,True
+Thon Maker,3,4,50,0,Hook Shot,3,-9,37,True
+Thon Maker,3,2,4,0,Hook Shot,8,-84,27,True
+Thon Maker,3,10,22,0,Hook Shot,0,3,6,True
+Thon Maker,4,0,41,1,Jump Bank Shot,11,77,90,True
+Thon Maker,3,0,25,0,Jump Shot,15,-155,-12,True
+Thon Maker,4,0,23,1,Jump Shot,23,-230,10,False
+Thon Maker,1,2,40,0,Jump Shot,13,-137,2,True
+Thon Maker,1,0,0,0,Jump Shot,13,-136,-14,True
+Thon Maker,4,6,32,0,Jump Shot,15,-97,120,True
+Thon Maker,2,11,37,1,Jump Shot,23,230,8,False
+Thon Maker,2,10,50,0,Jump Shot,24,174,170,False
+Thon Maker,1,9,17,0,Jump Shot,15,70,139,True
+Thon Maker,3,0,10,0,Jump Shot,26,114,236,False
+Thon Maker,1,1,54,1,Jump Shot,24,-182,162,False
+Thon Maker,2,7,24,1,Jump Shot,15,74,136,True
+Thon Maker,2,11,8,0,Jump Shot,12,30,125,True
+Thon Maker,2,11,23,0,Jump Shot,23,231,28,False
+Thon Maker,1,3,42,1,Jump Shot,8,-55,64,True
+Thon Maker,2,3,12,0,Jump Shot,22,225,46,False
+Thon Maker,1,2,33,0,Jump Shot,22,223,29,False
+Thon Maker,2,9,26,0,Jump Shot,18,-112,152,True
+Thon Maker,2,8,35,0,Jump Shot,19,-39,193,True
+Thon Maker,4,5,49,1,Jump Shot,25,220,132,False
+Thon Maker,4,5,46,0,Jump Shot,26,181,194,False
+Thon Maker,2,4,4,0,Jump Shot,27,145,230,False
+Thon Maker,2,5,2,0,Jump Shot,23,230,31,False
+Thon Maker,2,11,22,1,Jump Shot,26,145,220,False
+Thon Maker,4,9,28,0,Jump Shot,21,-14,210,True
+Thon Maker,1,3,19,1,Jump Shot,15,-155,-4,True
+Thon Maker,3,2,28,0,Jump Shot,11,109,33,True
+Thon Maker,2,7,56,0,Jump Shot,23,-227,38,False
+Thon Maker,2,8,2,0,Jump Shot,6,21,60,True
+Thon Maker,4,11,16,0,Jump Shot,25,-86,240,False
+Thon Maker,1,3,28,0,Jump Shot,18,36,181,True
+Thon Maker,3,1,42,1,Jump Shot,15,131,79,True
+Thon Maker,4,6,35,1,Jump Shot,17,38,174,True
+Thon Maker,4,1,31,0,Jump Shot,23,230,66,False
+Thon Maker,2,9,21,0,Jump Shot,18,-52,173,True
+Thon Maker,4,4,36,0,Jump Shot,22,223,10,False
+Thon Maker,2,11,6,0,Jump Shot,25,38,257,False
+Thon Maker,3,5,25,1,Jump Shot,20,107,180,True
+Thon Maker,2,9,6,0,Jump Shot,15,2,153,True
+Thon Maker,1,0,2,1,Jump Shot,26,-151,222,False
+Thon Maker,3,1,47,1,Jump Shot,23,233,11,False
+Thon Maker,2,10,55,1,Jump Shot,18,71,168,True
+Thon Maker,2,4,55,0,Jump Shot,25,-13,253,False
+Thon Maker,3,7,16,0,Jump Shot,24,241,8,False
+Thon Maker,2,1,17,0,Jump Shot,23,228,38,False
+Thon Maker,3,1,49,0,Jump Shot,27,-125,246,False
+Thon Maker,2,11,47,1,Jump Shot,22,229,15,False
+Thon Maker,1,0,26,0,Jump Shot,25,232,110,False
+Thon Maker,4,9,24,0,Jump Shot,27,133,236,False
+Thon Maker,2,10,25,1,Jump Shot,25,176,178,False
+Thon Maker,3,0,45,0,Jump Shot,24,117,218,False
+Thon Maker,3,3,55,1,Jump Shot,25,105,230,False
+Thon Maker,4,9,26,0,Jump Shot,25,-94,235,False
+Thon Maker,4,11,27,0,Jump Shot,22,-229,-3,False
+Thon Maker,2,5,12,0,Jump Shot,27,-147,234,False
+Thon Maker,3,6,27,1,Jump Shot,26,151,215,False
+Thon Maker,3,10,22,0,Jump Shot,27,136,243,False
+Thon Maker,3,11,26,1,Jump Shot,26,170,203,False
+Thon Maker,3,3,15,0,Jump Shot,22,229,-12,False
+Thon Maker,1,5,12,0,Jump Shot,18,-111,143,True
+Thon Maker,1,9,52,1,Jump Shot,20,147,138,True
+Thon Maker,2,9,31,1,Jump Shot,20,-201,23,True
+Thon Maker,1,8,4,1,Jump Shot,16,119,121,True
+Thon Maker,2,3,47,1,Jump Shot,23,230,0,False
+Thon Maker,3,10,25,0,Jump Shot,23,232,27,False
+Thon Maker,1,0,40,1,Jump Shot,11,119,-12,True
+Thon Maker,1,1,47,0,Jump Shot,23,230,21,False
+Thon Maker,3,0,54,0,Jump Shot,21,217,12,True
+Thon Maker,2,10,2,1,Jump Shot,19,-60,184,True
+Thon Maker,2,9,35,1,Jump Shot,26,58,254,False
+Thon Maker,4,11,0,0,Jump Shot,26,-42,261,False
+Thon Maker,4,6,12,0,Jump Shot,23,230,43,False
+Thon Maker,4,8,32,0,Jump Shot,23,230,32,False
+Thon Maker,3,0,55,0,Jump Shot,19,-14,190,True
+Thon Maker,1,1,11,1,Jump Shot,13,-3,137,True
+Thon Maker,3,0,28,0,Jump Shot,14,62,135,True
+Thon Maker,3,3,14,0,Jump Shot,21,-218,-1,False
+Thon Maker,4,7,43,0,Jump Shot,19,-41,193,True
+Thon Maker,3,0,55,0,Jump Shot,14,138,25,True
+Thon Maker,2,11,25,0,Jump Shot,13,-133,-6,True
+Thon Maker,1,5,58,1,Jump Shot,16,-128,100,True
+Thon Maker,2,5,12,0,Jump Shot,22,-49,221,True
+Thon Maker,2,3,7,0,Jump Shot,23,230,32,False
+Thon Maker,4,8,45,0,Jump Shot,3,-4,31,True
+Thon Maker,2,7,58,1,Jump Shot,22,226,18,False
+Thon Maker,4,8,25,0,Jump Shot,16,-76,145,True
+Thon Maker,2,11,27,0,Jump Shot,13,57,126,True
+Thon Maker,4,11,32,0,Jump Shot,18,87,167,True
+Thon Maker,4,9,54,0,Jump Shot,23,229,50,False
+Thon Maker,1,4,36,0,Jump Shot,4,-47,5,True
+Thon Maker,2,10,59,1,Jump Shot,18,-56,172,True
+Thon Maker,3,0,51,1,Jump Shot,22,-222,21,False
+Thon Maker,1,4,28,1,Jump Shot,19,-177,88,True
+Thon Maker,1,1,45,0,Jump Shot,26,106,245,False
+Thon Maker,4,7,11,1,Jump Shot,23,-230,55,False
+Thon Maker,1,4,47,0,Jump Shot,25,-105,236,False
+Thon Maker,2,6,59,1,Jump Shot,25,-158,198,False
+Thon Maker,1,5,45,0,Jump Shot,12,-101,66,True
+Thon Maker,4,9,1,1,Jump Shot,16,-168,16,True
+Thon Maker,2,5,45,0,Jump Shot,26,-166,206,False
+Thon Maker,2,5,14,0,Jump Shot,25,225,127,False
+Thon Maker,2,1,35,1,Jump Shot,26,146,217,False
+Thon Maker,3,11,2,0,Jump Shot,23,-232,-5,False
+Thon Maker,2,4,6,1,Jump Shot,23,-236,12,False
+Thon Maker,3,9,3,0,Jump Shot,26,111,246,False
+Thon Maker,3,5,11,0,Jump Shot,26,-144,221,False
+Thon Maker,3,10,28,1,Jump Shot,28,87,271,False
+Thon Maker,1,7,28,0,Jump Shot,23,-234,21,False
+Thon Maker,3,8,46,0,Jump Shot,14,-27,140,True
+Thon Maker,3,9,35,0,Jump Shot,26,110,246,False
+Thon Maker,2,2,37,0,Jump Shot,27,117,244,False
+Thon Maker,2,5,22,0,Jump Shot,26,124,235,False
+Thon Maker,2,3,18,1,Jump Shot,22,-221,18,False
+Thon Maker,3,10,38,1,Jump Shot,27,83,261,False
+Thon Maker,3,9,41,0,Jump Shot,27,-131,247,False
+Thon Maker,4,9,57,0,Jump Shot,25,-139,218,False
+Thon Maker,3,6,57,1,Jump Shot,26,-116,242,False
+Thon Maker,1,11,26,0,Jump Shot,25,130,218,False
+Thon Maker,2,8,2,0,Jump Shot,19,-196,26,True
+Thon Maker,2,9,55,0,Jump Shot,7,5,78,True
+Thon Maker,1,0,0,0,Jump Shot,23,231,0,False
+Thon Maker,2,8,43,1,Jump Shot,25,-154,202,False
+Thon Maker,4,11,49,0,Jump Shot,22,223,15,False
+Thon Maker,1,1,11,0,Jump Shot,23,231,-1,False
+Thon Maker,2,10,14,0,Jump Shot,17,92,143,True
+Thon Maker,2,8,32,1,Jump Shot,13,-135,-13,True
+Thon Maker,1,3,45,1,Jump Shot,19,13,193,True
+Thon Maker,1,0,0,0,Jump Shot,66,131,654,False
+Thon Maker,4,11,3,1,Jump Shot,22,225,27,False
+Thon Maker,1,1,49,1,Jump Shot,16,84,147,True
+Thon Maker,4,7,45,0,Jump Shot,23,228,60,False
+Thon Maker,3,4,7,1,Jump Shot,18,-71,166,True
+Thon Maker,3,1,33,0,Jump Shot,8,29,85,True
+Thon Maker,3,0,46,0,Jump Shot,15,149,26,True
+Thon Maker,3,4,36,0,Jump Shot,22,223,56,False
+Thon Maker,4,0,21,0,Jump Shot,25,-218,141,False
+Thon Maker,4,2,4,1,Jump Shot,14,142,-16,True
+Thon Maker,3,0,5,0,Jump Shot,22,227,25,False
+Thon Maker,3,0,32,1,Jump Shot,22,228,7,False
+Thon Maker,1,4,39,1,Jump Shot,22,228,24,False
+Thon Maker,1,1,31,1,Jump Shot,22,224,10,False
+Thon Maker,4,3,2,0,Jump Shot,12,125,-12,True
+Thon Maker,1,2,54,0,Jump Shot,19,79,176,True
+Thon Maker,2,8,36,0,Jump Shot,20,-136,154,True
+Thon Maker,1,0,34,1,Jump Shot,17,-111,132,True
+Thon Maker,4,6,41,0,Jump Shot,18,58,171,True
+Thon Maker,1,4,54,1,Jump Shot,12,13,123,True
+Thon Maker,4,9,19,0,Jump Shot,18,-111,147,True
+Thon Maker,1,3,13,1,Jump Shot,22,-67,215,True
+Thon Maker,4,10,45,1,Jump Shot,17,-174,-12,True
+Thon Maker,1,3,40,1,Jump Shot,21,111,189,True
+Thon Maker,3,2,20,0,Jump Shot,23,231,10,False
+Thon Maker,4,8,35,0,Jump Shot,22,-228,-1,False
+Thon Maker,4,7,16,0,Jump Shot,21,7,211,True
+Thon Maker,4,0,3,0,Jump Shot,10,-39,99,True
+Thon Maker,2,4,9,0,Jump Shot,20,-207,-13,True
+Thon Maker,3,5,28,1,Jump Shot,21,-161,144,True
+Thon Maker,3,9,50,0,Jump Shot,20,-94,179,True
+Thon Maker,4,5,32,1,Jump Shot,20,-133,154,True
+Thon Maker,4,1,12,1,Jump Shot,15,157,28,True
+Thon Maker,4,4,7,1,Jump Shot,20,-96,185,True
+Thon Maker,1,0,0,1,Jump Shot,17,173,13,True
+Thon Maker,3,1,19,0,Jump Shot,25,66,251,False
+Thon Maker,1,1,31,0,Jump Shot,26,139,224,False
+Thon Maker,2,7,48,0,Jump Shot,25,131,220,False
+Thon Maker,4,11,12,0,Jump Shot,15,-150,42,True
+Thon Maker,4,6,37,0,Jump Shot,14,-142,39,True
+Thon Maker,4,6,11,0,Jump Shot,26,-111,240,False
+Thon Maker,1,0,57,1,Jump Shot,12,-119,-21,True
+Thon Maker,4,11,38,0,Jump Shot,27,143,231,False
+Thon Maker,2,10,17,0,Jump Shot,7,76,4,True
+Thon Maker,1,5,19,1,Jump Shot,16,119,121,True
+Thon Maker,3,4,9,0,Jump Shot,16,-158,31,True
+Thon Maker,1,3,12,0,Jump Shot,25,-51,248,False
+Thon Maker,3,0,3,0,Jump Shot,31,-145,281,False
+Thon Maker,1,4,41,1,Jump Shot,23,235,42,False
+Thon Maker,1,8,18,0,Jump Shot,25,-65,243,False
+Thon Maker,4,1,4,0,Layup Shot,0,2,7,True
+Thon Maker,4,8,56,0,Layup Shot,1,11,2,True
+Thon Maker,3,6,5,0,Layup Shot,2,-2,27,True
+Thon Maker,3,1,53,0,Layup Shot,1,6,19,True
+Thon Maker,3,2,36,0,Layup Shot,1,12,8,True
+Thon Maker,4,7,5,0,Layup Shot,2,-23,10,True
+Thon Maker,2,5,45,1,Layup Shot,1,-11,5,True
+Thon Maker,1,3,40,1,Layup Shot,1,0,12,True
+Thon Maker,3,7,57,0,Layup Shot,2,-18,14,True
+Thon Maker,2,3,38,1,Layup Shot,1,1,13,True
+Thon Maker,4,9,17,1,Layup Shot,1,-2,11,True
+Thon Maker,3,0,43,0,Layup Shot,4,-40,23,True
+Thon Maker,3,0,0,0,Layup Shot,0,8,-3,True
+Thon Maker,2,10,29,0,Layup Shot,2,-3,21,True
+Thon Maker,1,0,35,0,Layup Shot,2,4,27,True
+Thon Maker,1,4,24,0,Layup Shot,0,3,3,True
+Thon Maker,4,0,18,1,Layup Shot,5,47,20,True
+Thon Maker,4,7,10,1,Layup Shot,1,-13,9,True
+Thon Maker,2,0,19,0,Pullup Jump shot,7,64,39,True
+Thon Maker,2,11,39,1,Putback Layup Shot,0,0,-6,True
+Thon Maker,2,10,13,0,Putback Layup Shot,2,12,25,True
+Thon Maker,3,0,0,0,Putback Layup Shot,0,5,5,True
+Thon Maker,2,5,22,0,Putback Layup Shot,1,5,11,True
+Thon Maker,1,1,19,1,Putback Layup Shot,3,38,9,True
+Thon Maker,4,7,35,0,Putback Layup Shot,0,0,-6,True
+Thon Maker,4,8,42,0,Putback Layup Shot,1,3,13,True
+Thon Maker,1,9,11,0,Putback Layup Shot,2,-1,20,True
+Thon Maker,1,1,27,1,Putback Layup Shot,1,4,13,True
+Thon Maker,3,1,41,1,Reverse Layup Shot,0,3,7,True
+Thon Maker,4,1,36,1,Running Dunk Shot,1,4,17,True
+Thon Maker,4,8,39,1,Running Dunk Shot,0,-3,6,True
+Thon Maker,1,2,56,1,Running Dunk Shot,0,6,3,True
+Thon Maker,1,0,41,0,Step Back Jump shot,12,120,41,True
+Thon Maker,2,9,13,1,Tip Dunk Shot,0,0,-6,True
+Thon Maker,1,2,8,1,Tip Layup Shot,0,0,-6,True
+Thon Maker,4,7,4,0,Tip Layup Shot,0,0,-6,True
+Thon Maker,2,10,11,1,Tip Layup Shot,0,0,-6,True
+Thon Maker,1,0,0,0,Tip Layup Shot,1,-6,11,True
+Thon Maker,3,5,59,1,Turnaround Hook Shot,9,14,99,True
+Thon Maker,4,8,36,0,Turnaround Hook Shot,8,-85,23,True
+Thon Maker,3,0,0,0,Turnaround Hook Shot,8,19,80,True
+Thon Maker,3,11,4,1,Turnaround Hook Shot,8,-67,60,True
+Thon Maker,4,7,32,0,Turnaround Hook Shot,8,2,81,True
+Thon Maker,3,7,58,0,Turnaround Hook Shot,2,13,20,True
+Thon Maker,2,6,50,1,Turnaround Hook Shot,7,8,77,True
+Thon Maker,1,3,27,0,Turnaround Hook Shot,4,13,42,True
+Thon Maker,1,0,30,0,Turnaround Hook Shot,1,1,14,True
+Thon Maker,4,1,33,0,Turnaround Jump Shot,22,225,43,False

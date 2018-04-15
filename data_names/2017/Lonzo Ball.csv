@@ -1,0 +1,466 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Lonzo Ball,2,8,17,1,Alley Oop Dunk Shot,2,10,28,True
+Lonzo Ball,3,6,3,1,Alley Oop Dunk Shot,0,-5,7,True
+Lonzo Ball,4,9,53,1,Alley Oop Layup shot,1,10,16,True
+Lonzo Ball,2,3,47,1,Cutting Dunk Shot,1,-2,10,True
+Lonzo Ball,3,3,4,1,Cutting Dunk Shot,1,-8,8,True
+Lonzo Ball,3,0,47,1,Cutting Dunk Shot,0,-2,4,True
+Lonzo Ball,1,8,5,1,Cutting Layup Shot,4,-42,6,True
+Lonzo Ball,1,4,45,1,Cutting Layup Shot,2,-3,22,True
+Lonzo Ball,4,5,16,1,Driving Finger Roll Layup Shot,3,-14,29,True
+Lonzo Ball,4,5,41,0,Driving Finger Roll Layup Shot,2,-7,29,True
+Lonzo Ball,3,8,31,1,Driving Finger Roll Layup Shot,2,16,15,True
+Lonzo Ball,4,7,13,1,Driving Finger Roll Layup Shot,2,12,21,True
+Lonzo Ball,4,4,29,0,Driving Finger Roll Layup Shot,2,11,17,True
+Lonzo Ball,3,1,6,1,Driving Floating Bank Jump Shot,8,61,61,True
+Lonzo Ball,1,9,54,0,Driving Floating Bank Jump Shot,5,-15,51,True
+Lonzo Ball,2,10,33,0,Driving Floating Bank Jump Shot,5,-38,46,True
+Lonzo Ball,1,8,19,0,Driving Floating Bank Jump Shot,1,-11,16,True
+Lonzo Ball,2,6,33,0,Driving Floating Jump Shot,11,-52,100,True
+Lonzo Ball,2,7,18,0,Driving Floating Jump Shot,5,34,38,True
+Lonzo Ball,1,7,55,0,Driving Floating Jump Shot,9,2,95,True
+Lonzo Ball,1,11,37,1,Driving Floating Jump Shot,8,2,80,True
+Lonzo Ball,3,6,29,1,Driving Floating Jump Shot,15,-35,149,True
+Lonzo Ball,3,1,26,1,Driving Floating Jump Shot,11,-16,114,True
+Lonzo Ball,3,5,43,0,Driving Floating Jump Shot,7,-18,74,True
+Lonzo Ball,1,2,14,0,Driving Floating Jump Shot,8,-22,84,True
+Lonzo Ball,5,0,19,0,Driving Floating Jump Shot,3,20,29,True
+Lonzo Ball,3,5,2,0,Driving Floating Jump Shot,3,37,-1,True
+Lonzo Ball,4,4,16,0,Driving Floating Jump Shot,14,-67,126,True
+Lonzo Ball,1,8,39,0,Driving Layup Shot,2,-16,24,True
+Lonzo Ball,3,11,30,1,Driving Layup Shot,0,3,8,True
+Lonzo Ball,1,8,37,0,Driving Layup Shot,4,-1,43,True
+Lonzo Ball,4,2,4,1,Driving Layup Shot,1,-7,15,True
+Lonzo Ball,3,7,33,1,Driving Layup Shot,1,-6,16,True
+Lonzo Ball,4,5,20,1,Driving Layup Shot,0,4,8,True
+Lonzo Ball,3,9,7,1,Driving Layup Shot,2,-3,25,True
+Lonzo Ball,3,9,44,1,Driving Layup Shot,1,2,15,True
+Lonzo Ball,2,0,29,0,Driving Layup Shot,1,12,4,True
+Lonzo Ball,2,2,35,1,Driving Layup Shot,1,-1,15,True
+Lonzo Ball,1,7,26,1,Driving Layup Shot,1,-4,13,True
+Lonzo Ball,2,2,56,1,Driving Layup Shot,1,6,15,True
+Lonzo Ball,2,3,9,0,Driving Layup Shot,3,14,34,True
+Lonzo Ball,4,2,20,0,Driving Layup Shot,4,3,49,True
+Lonzo Ball,1,1,44,0,Driving Layup Shot,2,18,15,True
+Lonzo Ball,2,3,21,0,Driving Layup Shot,4,34,25,True
+Lonzo Ball,3,5,14,0,Driving Layup Shot,2,-16,25,True
+Lonzo Ball,2,3,55,0,Driving Layup Shot,3,18,27,True
+Lonzo Ball,5,3,39,1,Driving Layup Shot,1,15,10,True
+Lonzo Ball,1,10,35,1,Driving Layup Shot,1,3,11,True
+Lonzo Ball,2,5,10,1,Driving Layup Shot,2,2,29,True
+Lonzo Ball,3,8,41,1,Driving Layup Shot,0,8,-1,True
+Lonzo Ball,4,3,29,0,Driving Layup Shot,1,6,18,True
+Lonzo Ball,2,3,48,0,Driving Layup Shot,2,22,13,True
+Lonzo Ball,4,5,8,0,Driving Layup Shot,0,4,-3,True
+Lonzo Ball,4,5,30,0,Driving Layup Shot,2,5,23,True
+Lonzo Ball,4,1,35,1,Driving Layup Shot,0,-9,4,True
+Lonzo Ball,1,6,36,0,Driving Layup Shot,1,-15,4,True
+Lonzo Ball,3,8,28,0,Driving Layup Shot,1,15,2,True
+Lonzo Ball,3,8,6,0,Driving Layup Shot,3,25,20,True
+Lonzo Ball,2,0,8,1,Driving Layup Shot,1,0,17,True
+Lonzo Ball,3,11,21,1,Driving Layup Shot,1,-6,13,True
+Lonzo Ball,4,3,1,1,Driving Layup Shot,2,3,22,True
+Lonzo Ball,3,2,58,0,Driving Layup Shot,1,16,6,True
+Lonzo Ball,3,9,33,1,Driving Layup Shot,2,-20,5,True
+Lonzo Ball,1,2,28,0,Driving Layup Shot,1,7,17,True
+Lonzo Ball,2,1,35,0,Driving Layup Shot,1,-6,11,True
+Lonzo Ball,4,0,45,1,Driving Layup Shot,2,18,21,True
+Lonzo Ball,5,3,19,1,Driving Layup Shot,2,2,28,True
+Lonzo Ball,3,9,33,0,Driving Layup Shot,4,3,41,True
+Lonzo Ball,3,7,52,0,Driving Layup Shot,1,5,17,True
+Lonzo Ball,2,7,30,0,Driving Layup Shot,2,1,20,True
+Lonzo Ball,3,9,8,0,Driving Layup Shot,2,-2,27,True
+Lonzo Ball,3,0,59,0,Driving Layup Shot,2,17,16,True
+Lonzo Ball,3,5,55,1,Driving Reverse Layup Shot,0,-7,-3,True
+Lonzo Ball,3,1,12,0,Driving Reverse Layup Shot,1,-19,6,True
+Lonzo Ball,2,3,37,1,Driving Reverse Layup Shot,2,-6,22,True
+Lonzo Ball,4,4,49,1,Driving Reverse Layup Shot,0,0,6,True
+Lonzo Ball,3,9,46,1,Driving Reverse Layup Shot,0,-7,-3,True
+Lonzo Ball,1,2,31,0,Driving Reverse Layup Shot,1,-13,0,True
+Lonzo Ball,2,1,33,1,Dunk Shot,1,7,11,True
+Lonzo Ball,3,5,31,0,Fadeaway Jump Shot,18,22,181,True
+Lonzo Ball,1,11,40,0,Fadeaway Jump Shot,12,129,-9,True
+Lonzo Ball,3,0,34,1,Finger Roll Layup Shot,1,7,11,True
+Lonzo Ball,1,5,39,0,Floating Jump shot,11,-68,91,True
+Lonzo Ball,3,8,12,0,Floating Jump shot,5,13,55,True
+Lonzo Ball,3,2,16,0,Floating Jump shot,8,-1,89,True
+Lonzo Ball,3,6,54,0,Floating Jump shot,14,-3,147,True
+Lonzo Ball,2,6,45,0,Floating Jump shot,4,-8,44,True
+Lonzo Ball,4,3,31,0,Floating Jump shot,8,-6,80,True
+Lonzo Ball,2,4,28,1,Floating Jump shot,16,-4,162,True
+Lonzo Ball,2,4,56,1,Floating Jump shot,3,8,30,True
+Lonzo Ball,1,8,32,0,Floating Jump shot,6,-7,60,True
+Lonzo Ball,3,1,42,0,Floating Jump shot,12,-57,113,True
+Lonzo Ball,4,11,25,1,Floating Jump shot,7,-43,63,True
+Lonzo Ball,3,10,14,0,Floating Jump shot,11,-43,112,True
+Lonzo Ball,1,1,44,1,Floating Jump shot,9,-13,94,True
+Lonzo Ball,1,5,35,0,Floating Jump shot,7,0,72,True
+Lonzo Ball,3,1,0,0,Floating Jump shot,7,13,76,True
+Lonzo Ball,1,6,50,0,Floating Jump shot,7,-19,69,True
+Lonzo Ball,2,3,52,0,Floating Jump shot,11,73,95,True
+Lonzo Ball,1,6,36,0,Jump Shot,25,-180,184,False
+Lonzo Ball,3,0,44,0,Jump Shot,29,-5,298,False
+Lonzo Ball,3,6,49,0,Jump Shot,29,-195,220,False
+Lonzo Ball,1,11,21,1,Jump Shot,26,-119,236,False
+Lonzo Ball,3,1,22,1,Jump Shot,24,150,197,False
+Lonzo Ball,1,8,58,0,Jump Shot,16,-147,75,True
+Lonzo Ball,4,2,4,0,Jump Shot,31,22,312,False
+Lonzo Ball,2,1,12,1,Jump Shot,20,-75,188,True
+Lonzo Ball,1,8,8,0,Jump Shot,26,-120,235,False
+Lonzo Ball,3,10,56,0,Jump Shot,22,-228,7,False
+Lonzo Ball,2,5,0,0,Jump Shot,24,-204,141,False
+Lonzo Ball,1,8,53,1,Jump Shot,25,-118,226,False
+Lonzo Ball,1,11,35,0,Jump Shot,26,-141,227,False
+Lonzo Ball,3,9,9,0,Jump Shot,25,144,209,False
+Lonzo Ball,2,5,51,0,Jump Shot,26,-163,214,False
+Lonzo Ball,4,9,55,0,Jump Shot,26,77,257,False
+Lonzo Ball,1,8,35,0,Jump Shot,28,-146,241,False
+Lonzo Ball,2,3,12,0,Jump Shot,27,202,184,False
+Lonzo Ball,4,4,40,0,Jump Shot,29,-166,242,False
+Lonzo Ball,3,4,52,0,Jump Shot,23,230,-3,False
+Lonzo Ball,3,0,0,0,Jump Shot,72,73,722,False
+Lonzo Ball,4,1,51,1,Jump Shot,25,-169,195,False
+Lonzo Ball,4,6,42,1,Jump Shot,25,247,71,False
+Lonzo Ball,4,3,29,0,Jump Shot,23,231,21,False
+Lonzo Ball,2,10,51,0,Jump Shot,13,-76,110,True
+Lonzo Ball,2,6,5,1,Jump Shot,26,-168,204,False
+Lonzo Ball,1,9,43,0,Jump Shot,27,-72,264,False
+Lonzo Ball,2,5,22,0,Jump Shot,25,127,226,False
+Lonzo Ball,3,5,35,0,Jump Shot,25,187,168,False
+Lonzo Ball,3,5,55,1,Jump Shot,26,35,262,False
+Lonzo Ball,4,1,15,1,Jump Shot,25,-144,215,False
+Lonzo Ball,3,3,28,0,Jump Shot,26,151,223,False
+Lonzo Ball,3,3,4,1,Jump Shot,22,227,-4,False
+Lonzo Ball,4,6,2,0,Jump Shot,25,102,236,False
+Lonzo Ball,2,11,29,1,Jump Shot,25,-157,206,False
+Lonzo Ball,3,9,31,1,Jump Shot,23,-232,-6,False
+Lonzo Ball,4,3,27,1,Jump Shot,10,28,99,True
+Lonzo Ball,3,1,48,0,Jump Shot,26,208,166,False
+Lonzo Ball,2,6,38,1,Jump Shot,24,220,101,False
+Lonzo Ball,3,3,22,1,Jump Shot,25,-135,213,False
+Lonzo Ball,1,5,46,1,Jump Shot,25,159,193,False
+Lonzo Ball,1,5,12,0,Jump Shot,26,0,260,False
+Lonzo Ball,1,0,8,0,Jump Shot,25,-74,245,False
+Lonzo Ball,2,9,6,0,Jump Shot,11,101,46,True
+Lonzo Ball,2,9,57,1,Jump Shot,26,-147,222,False
+Lonzo Ball,3,3,27,0,Jump Shot,26,210,154,False
+Lonzo Ball,2,10,17,0,Jump Shot,24,-225,92,False
+Lonzo Ball,3,8,42,0,Jump Shot,25,-92,242,False
+Lonzo Ball,2,9,47,0,Jump Shot,24,-127,215,False
+Lonzo Ball,3,10,7,1,Jump Shot,23,230,-6,False
+Lonzo Ball,4,0,17,0,Jump Shot,27,150,231,False
+Lonzo Ball,3,5,0,0,Jump Shot,26,-210,155,False
+Lonzo Ball,2,11,40,0,Jump Shot,26,139,222,False
+Lonzo Ball,4,4,36,0,Jump Shot,26,-203,167,False
+Lonzo Ball,2,7,16,1,Jump Shot,25,-202,151,False
+Lonzo Ball,4,7,33,0,Jump Shot,26,-20,260,False
+Lonzo Ball,4,3,11,1,Jump Shot,24,-150,195,False
+Lonzo Ball,3,9,39,0,Jump Shot,25,-133,215,False
+Lonzo Ball,2,5,34,1,Jump Shot,24,155,195,False
+Lonzo Ball,1,6,51,1,Jump Shot,25,-8,258,False
+Lonzo Ball,4,6,5,0,Jump Shot,26,-146,225,False
+Lonzo Ball,1,10,23,0,Jump Shot,25,-64,246,False
+Lonzo Ball,2,3,4,1,Jump Shot,25,-163,201,False
+Lonzo Ball,4,2,8,0,Jump Shot,23,-232,41,False
+Lonzo Ball,2,5,33,0,Jump Shot,25,99,235,False
+Lonzo Ball,3,5,21,0,Jump Shot,41,-198,362,False
+Lonzo Ball,2,6,30,0,Jump Shot,22,-228,15,False
+Lonzo Ball,2,7,45,1,Jump Shot,24,232,63,False
+Lonzo Ball,2,8,53,1,Jump Shot,25,-158,206,False
+Lonzo Ball,2,5,55,0,Jump Shot,22,-228,26,False
+Lonzo Ball,1,10,45,0,Jump Shot,26,-181,188,False
+Lonzo Ball,2,6,15,0,Jump Shot,26,226,131,False
+Lonzo Ball,4,4,39,0,Jump Shot,25,-114,231,False
+Lonzo Ball,3,6,17,1,Jump Shot,26,176,199,False
+Lonzo Ball,1,8,25,0,Jump Shot,23,234,20,False
+Lonzo Ball,3,7,45,0,Jump Shot,27,-177,208,False
+Lonzo Ball,2,5,3,0,Jump Shot,26,79,256,False
+Lonzo Ball,3,10,44,1,Jump Shot,27,-121,252,False
+Lonzo Ball,2,8,5,1,Jump Shot,25,-234,93,False
+Lonzo Ball,1,7,56,0,Jump Shot,27,90,256,False
+Lonzo Ball,1,11,34,0,Jump Shot,23,-233,21,False
+Lonzo Ball,3,11,46,1,Jump Shot,23,-231,50,False
+Lonzo Ball,3,8,3,0,Jump Shot,25,-119,226,False
+Lonzo Ball,1,10,19,1,Jump Shot,26,-93,246,False
+Lonzo Ball,1,7,44,0,Jump Shot,27,-112,252,False
+Lonzo Ball,3,7,55,0,Jump Shot,22,-227,-2,False
+Lonzo Ball,3,9,49,0,Jump Shot,25,-216,126,False
+Lonzo Ball,1,9,48,0,Jump Shot,25,46,253,False
+Lonzo Ball,4,3,56,1,Jump Shot,5,21,47,True
+Lonzo Ball,1,3,45,1,Jump Shot,25,-182,178,False
+Lonzo Ball,3,11,13,0,Jump Shot,26,-144,221,False
+Lonzo Ball,2,2,19,1,Jump Shot,25,-21,252,False
+Lonzo Ball,4,2,32,0,Jump Shot,6,-20,58,True
+Lonzo Ball,1,3,9,1,Jump Shot,25,-201,159,False
+Lonzo Ball,1,10,49,1,Jump Shot,26,-185,184,False
+Lonzo Ball,2,0,48,0,Jump Shot,20,-15,201,True
+Lonzo Ball,3,11,2,0,Jump Shot,24,-231,81,False
+Lonzo Ball,3,2,6,0,Jump Shot,25,55,251,False
+Lonzo Ball,1,10,43,1,Jump Shot,25,-131,215,False
+Lonzo Ball,1,4,47,0,Jump Shot,23,-227,53,False
+Lonzo Ball,3,4,48,1,Jump Shot,23,233,46,False
+Lonzo Ball,3,1,37,1,Jump Shot,20,-8,202,True
+Lonzo Ball,1,6,32,0,Jump Shot,27,51,274,False
+Lonzo Ball,2,3,52,0,Jump Shot,24,-138,208,False
+Lonzo Ball,3,9,12,0,Jump Shot,25,-169,193,False
+Lonzo Ball,3,3,2,1,Jump Shot,26,25,264,False
+Lonzo Ball,1,4,32,0,Jump Shot,25,-205,150,False
+Lonzo Ball,1,6,9,0,Jump Shot,27,90,255,False
+Lonzo Ball,3,5,18,1,Jump Shot,25,-35,248,False
+Lonzo Ball,1,4,25,1,Jump Shot,25,47,251,False
+Lonzo Ball,1,3,7,0,Jump Shot,22,220,43,False
+Lonzo Ball,1,8,43,0,Jump Shot,25,-96,237,False
+Lonzo Ball,3,9,42,1,Jump Shot,25,-225,123,False
+Lonzo Ball,2,2,29,0,Jump Shot,23,-231,0,False
+Lonzo Ball,4,0,0,0,Jump Shot,20,-29,202,True
+Lonzo Ball,4,9,44,0,Jump Shot,25,-3,258,False
+Lonzo Ball,2,0,30,0,Jump Shot,30,122,279,False
+Lonzo Ball,1,9,59,1,Jump Shot,25,88,240,False
+Lonzo Ball,1,5,24,0,Jump Shot,26,115,234,False
+Lonzo Ball,3,4,49,0,Jump Shot,14,9,148,True
+Lonzo Ball,3,7,18,0,Jump Shot,26,215,148,False
+Lonzo Ball,1,5,23,0,Jump Shot,26,-14,269,False
+Lonzo Ball,3,8,46,0,Jump Shot,25,116,226,False
+Lonzo Ball,1,4,47,0,Jump Shot,26,109,242,False
+Lonzo Ball,1,11,12,0,Jump Shot,25,183,184,False
+Lonzo Ball,3,3,27,0,Jump Shot,25,-138,217,False
+Lonzo Ball,1,8,20,0,Jump Shot,25,-92,242,False
+Lonzo Ball,4,4,5,0,Jump Shot,25,118,221,False
+Lonzo Ball,3,2,41,0,Jump Shot,25,43,252,False
+Lonzo Ball,3,9,40,0,Jump Shot,27,-122,249,False
+Lonzo Ball,1,1,52,0,Jump Shot,26,138,229,False
+Lonzo Ball,3,7,53,1,Jump Shot,28,-157,236,False
+Lonzo Ball,3,4,35,1,Jump Shot,26,84,251,False
+Lonzo Ball,3,8,43,1,Jump Shot,24,30,243,False
+Lonzo Ball,5,4,15,0,Jump Shot,26,-70,251,False
+Lonzo Ball,1,4,34,1,Jump Shot,23,-229,27,False
+Lonzo Ball,2,3,2,0,Jump Shot,24,-119,217,False
+Lonzo Ball,2,2,55,0,Jump Shot,25,-208,142,False
+Lonzo Ball,4,0,8,0,Jump Shot,26,-117,240,False
+Lonzo Ball,1,10,56,0,Jump Shot,24,237,64,False
+Lonzo Ball,4,2,31,1,Jump Shot,24,-95,231,False
+Lonzo Ball,1,10,38,0,Jump Shot,23,230,48,False
+Lonzo Ball,4,2,7,1,Jump Shot,26,-9,260,False
+Lonzo Ball,2,3,40,0,Jump Shot,25,26,252,False
+Lonzo Ball,2,4,59,1,Jump Shot,26,108,237,False
+Lonzo Ball,2,6,2,0,Jump Shot,8,19,79,True
+Lonzo Ball,2,2,13,1,Jump Shot,25,-166,188,False
+Lonzo Ball,2,1,37,0,Jump Shot,25,-135,214,False
+Lonzo Ball,1,11,20,0,Jump Shot,25,143,214,False
+Lonzo Ball,2,0,0,0,Jump Shot,37,174,331,False
+Lonzo Ball,3,7,4,0,Jump Shot,28,194,210,False
+Lonzo Ball,2,2,28,0,Jump Shot,26,7,267,False
+Lonzo Ball,2,4,52,1,Jump Shot,27,-154,230,False
+Lonzo Ball,3,10,50,0,Jump Shot,26,117,243,False
+Lonzo Ball,2,10,10,0,Jump Shot,27,87,260,False
+Lonzo Ball,1,10,49,1,Jump Shot,26,-8,266,False
+Lonzo Ball,1,4,50,1,Jump Shot,26,-171,201,False
+Lonzo Ball,2,0,29,0,Jump Shot,26,56,260,False
+Lonzo Ball,1,10,3,0,Jump Shot,19,114,156,True
+Lonzo Ball,2,7,0,0,Jump Shot,26,175,201,False
+Lonzo Ball,4,5,3,0,Jump Shot,27,-106,253,False
+Lonzo Ball,3,7,38,0,Jump Shot,23,-237,0,False
+Lonzo Ball,3,11,14,1,Jump Shot,26,47,259,False
+Lonzo Ball,4,3,21,0,Jump Shot,26,-128,237,False
+Lonzo Ball,2,5,43,0,Jump Shot,22,-221,-5,False
+Lonzo Ball,1,8,58,0,Jump Shot,27,-114,250,False
+Lonzo Ball,2,9,1,0,Jump Shot,26,-138,231,False
+Lonzo Ball,3,1,17,0,Jump Shot,23,232,54,False
+Lonzo Ball,2,9,28,1,Jump Shot,26,-196,183,False
+Lonzo Ball,2,0,4,0,Jump Shot,23,-231,29,False
+Lonzo Ball,3,7,57,0,Jump Shot,25,-133,217,False
+Lonzo Ball,1,10,16,0,Jump Shot,25,-165,193,False
+Lonzo Ball,3,3,34,0,Jump Shot,25,37,249,False
+Lonzo Ball,4,2,7,0,Jump Shot,26,107,244,False
+Lonzo Ball,1,3,32,0,Jump Shot,28,-18,282,False
+Lonzo Ball,3,8,23,1,Jump Shot,25,98,237,False
+Lonzo Ball,4,4,40,0,Jump Shot,26,-160,215,False
+Lonzo Ball,1,10,13,0,Jump Shot,3,-7,32,True
+Lonzo Ball,1,11,52,0,Jump Shot,26,-145,220,False
+Lonzo Ball,4,4,9,0,Jump Shot,25,107,236,False
+Lonzo Ball,3,7,31,0,Jump Shot,23,228,57,False
+Lonzo Ball,3,1,56,0,Jump Shot,16,-76,151,True
+Lonzo Ball,2,0,42,0,Jump Shot,25,-109,226,False
+Lonzo Ball,3,9,29,1,Jump Shot,25,130,214,False
+Lonzo Ball,1,2,11,1,Jump Shot,22,-223,10,False
+Lonzo Ball,2,4,25,1,Jump Shot,24,-140,200,False
+Lonzo Ball,1,6,8,0,Jump Shot,28,-165,229,False
+Lonzo Ball,4,1,37,0,Jump Shot,22,225,27,False
+Lonzo Ball,3,3,23,0,Jump Shot,26,154,215,False
+Lonzo Ball,2,7,3,0,Jump Shot,25,-8,255,False
+Lonzo Ball,4,3,48,0,Jump Shot,25,42,252,False
+Lonzo Ball,1,4,37,0,Jump Shot,25,-105,229,False
+Lonzo Ball,4,9,49,0,Jump Shot,25,190,174,False
+Lonzo Ball,4,6,57,0,Jump Shot,25,-139,217,False
+Lonzo Ball,3,10,1,0,Jump Shot,25,-20,258,False
+Lonzo Ball,5,1,45,0,Jump Shot,26,116,233,False
+Lonzo Ball,5,4,29,0,Jump Shot,25,-138,220,False
+Lonzo Ball,1,8,19,0,Jump Shot,25,-117,231,False
+Lonzo Ball,3,2,56,0,Jump Shot,26,-133,230,False
+Lonzo Ball,1,3,34,0,Jump Shot,25,-131,220,False
+Lonzo Ball,4,2,42,0,Jump Shot,26,-103,244,False
+Lonzo Ball,2,5,30,0,Jump Shot,26,-85,246,False
+Lonzo Ball,1,8,45,0,Jump Shot,19,-198,27,True
+Lonzo Ball,1,5,11,1,Jump Shot,24,199,148,False
+Lonzo Ball,1,7,32,0,Jump Shot,23,232,-4,False
+Lonzo Ball,4,3,54,0,Jump Shot,25,13,259,False
+Lonzo Ball,3,10,42,0,Jump Shot,25,203,149,False
+Lonzo Ball,1,2,17,0,Jump Shot,25,-145,206,False
+Lonzo Ball,2,4,49,1,Jump Shot,26,-187,190,False
+Lonzo Ball,3,6,25,0,Jump Shot,26,156,210,False
+Lonzo Ball,1,4,27,0,Jump Shot,25,-168,188,False
+Lonzo Ball,3,3,50,0,Layup Shot,2,13,23,True
+Lonzo Ball,2,6,9,1,Layup Shot,5,34,43,True
+Lonzo Ball,4,5,52,0,Layup Shot,1,0,11,True
+Lonzo Ball,4,6,18,0,Layup Shot,1,4,11,True
+Lonzo Ball,2,1,24,0,Layup Shot,1,10,10,True
+Lonzo Ball,3,8,20,0,Layup Shot,2,16,19,True
+Lonzo Ball,3,7,3,0,Layup Shot,2,-9,26,True
+Lonzo Ball,3,4,56,1,Layup Shot,1,-9,6,True
+Lonzo Ball,4,11,40,0,Layup Shot,1,-13,10,True
+Lonzo Ball,3,11,10,0,Layup Shot,1,8,18,True
+Lonzo Ball,3,10,40,0,Layup Shot,1,4,15,True
+Lonzo Ball,1,2,6,0,Layup Shot,0,-2,8,True
+Lonzo Ball,3,7,7,0,Layup Shot,3,22,31,True
+Lonzo Ball,2,6,20,0,Layup Shot,4,-30,36,True
+Lonzo Ball,3,8,7,0,Layup Shot,2,20,22,True
+Lonzo Ball,3,4,57,0,Layup Shot,4,44,11,True
+Lonzo Ball,1,5,43,0,Layup Shot,1,-11,6,True
+Lonzo Ball,1,2,38,0,Layup Shot,1,7,14,True
+Lonzo Ball,2,3,30,0,Layup Shot,2,-21,15,True
+Lonzo Ball,3,2,15,1,Layup Shot,1,-2,11,True
+Lonzo Ball,2,3,0,0,Layup Shot,0,8,5,True
+Lonzo Ball,2,2,44,0,Layup Shot,16,152,56,True
+Lonzo Ball,2,2,20,0,Layup Shot,2,6,26,True
+Lonzo Ball,4,9,35,0,Layup Shot,2,20,14,True
+Lonzo Ball,2,8,58,0,Layup Shot,6,39,57,True
+Lonzo Ball,2,5,32,1,Pullup Jump shot,13,29,132,True
+Lonzo Ball,3,2,22,0,Pullup Jump shot,26,136,226,False
+Lonzo Ball,1,0,0,0,Pullup Jump shot,46,98,452,False
+Lonzo Ball,3,4,35,1,Pullup Jump shot,17,-142,106,True
+Lonzo Ball,4,0,58,0,Pullup Jump shot,27,-1,278,False
+Lonzo Ball,1,7,44,0,Pullup Jump shot,17,-14,179,True
+Lonzo Ball,3,7,31,0,Pullup Jump shot,17,-95,143,True
+Lonzo Ball,1,10,20,0,Pullup Jump shot,25,60,249,False
+Lonzo Ball,3,4,41,0,Pullup Jump shot,20,49,194,True
+Lonzo Ball,1,6,18,1,Pullup Jump shot,15,-55,150,True
+Lonzo Ball,2,6,5,1,Pullup Jump shot,3,-21,27,True
+Lonzo Ball,2,3,10,1,Pullup Jump shot,17,95,149,True
+Lonzo Ball,4,2,44,1,Pullup Jump shot,24,151,199,False
+Lonzo Ball,4,0,42,1,Pullup Jump shot,25,-104,235,False
+Lonzo Ball,4,5,33,1,Pullup Jump shot,18,123,135,True
+Lonzo Ball,4,2,46,1,Pullup Jump shot,26,-79,253,False
+Lonzo Ball,2,3,24,0,Pullup Jump shot,20,117,167,True
+Lonzo Ball,1,2,24,1,Pullup Jump shot,25,94,240,False
+Lonzo Ball,4,0,29,0,Pullup Jump shot,27,-25,274,False
+Lonzo Ball,1,7,14,0,Pullup Jump shot,23,127,203,False
+Lonzo Ball,1,4,47,0,Pullup Jump shot,18,101,153,True
+Lonzo Ball,2,0,38,0,Pullup Jump shot,27,77,267,False
+Lonzo Ball,3,2,40,0,Pullup Jump shot,10,80,74,True
+Lonzo Ball,2,2,59,1,Pullup Jump shot,9,23,88,True
+Lonzo Ball,2,4,4,0,Pullup Jump shot,4,27,34,True
+Lonzo Ball,2,5,36,0,Pullup Jump shot,15,21,158,True
+Lonzo Ball,4,6,41,0,Pullup Jump shot,15,75,131,True
+Lonzo Ball,2,4,23,1,Pullup Jump shot,25,65,250,False
+Lonzo Ball,2,3,9,0,Pullup Jump shot,22,-128,180,True
+Lonzo Ball,3,3,14,1,Pullup Jump shot,16,128,104,True
+Lonzo Ball,2,0,49,1,Pullup Jump shot,27,-54,271,False
+Lonzo Ball,1,9,13,0,Pullup Jump shot,13,-119,55,True
+Lonzo Ball,2,10,5,0,Pullup Jump shot,26,-178,195,False
+Lonzo Ball,2,0,2,0,Pullup Jump shot,28,-81,271,False
+Lonzo Ball,4,2,13,0,Pullup Jump shot,26,109,244,False
+Lonzo Ball,2,4,58,0,Putback Dunk Shot,0,0,-6,True
+Lonzo Ball,1,2,21,1,Putback Layup Shot,0,0,-6,True
+Lonzo Ball,3,0,24,0,Putback Layup Shot,1,-2,11,True
+Lonzo Ball,2,5,45,1,Putback Layup Shot,0,0,-6,True
+Lonzo Ball,2,2,52,0,Reverse Layup Shot,2,2,24,True
+Lonzo Ball,1,11,37,1,Reverse Layup Shot,0,-2,4,True
+Lonzo Ball,2,0,51,0,Reverse Layup Shot,2,-11,19,True
+Lonzo Ball,1,8,51,0,Reverse Layup Shot,2,-16,19,True
+Lonzo Ball,3,7,48,1,Reverse Layup Shot,1,-14,5,True
+Lonzo Ball,3,11,5,1,Running Dunk Shot,0,0,-4,True
+Lonzo Ball,1,5,2,1,Running Dunk Shot,1,1,13,True
+Lonzo Ball,4,8,59,1,Running Dunk Shot,1,8,13,True
+Lonzo Ball,3,10,11,1,Running Dunk Shot,0,-1,2,True
+Lonzo Ball,1,1,28,1,Running Dunk Shot,0,0,6,True
+Lonzo Ball,2,7,38,1,Running Dunk Shot,0,5,6,True
+Lonzo Ball,1,9,49,1,Running Jump Shot,24,-143,200,False
+Lonzo Ball,2,0,0,0,Running Jump Shot,79,168,772,False
+Lonzo Ball,2,5,45,1,Running Layup Shot,1,-11,16,True
+Lonzo Ball,1,9,10,0,Running Layup Shot,1,5,13,True
+Lonzo Ball,2,0,7,1,Running Layup Shot,1,-9,15,True
+Lonzo Ball,1,6,10,1,Running Layup Shot,9,-34,85,True
+Lonzo Ball,4,0,22,1,Running Layup Shot,1,6,13,True
+Lonzo Ball,3,5,54,0,Running Layup Shot,0,-2,-7,True
+Lonzo Ball,3,10,19,1,Running Layup Shot,3,12,32,True
+Lonzo Ball,1,4,4,1,Running Layup Shot,2,11,27,True
+Lonzo Ball,2,5,16,1,Running Layup Shot,2,2,24,True
+Lonzo Ball,2,3,32,0,Running Layup Shot,2,13,16,True
+Lonzo Ball,3,10,0,1,Running Layup Shot,1,11,11,True
+Lonzo Ball,2,7,38,0,Running Layup Shot,1,14,10,True
+Lonzo Ball,1,8,29,0,Running Layup Shot,1,-3,10,True
+Lonzo Ball,1,7,19,0,Running Layup Shot,7,9,77,True
+Lonzo Ball,2,8,17,1,Running Layup Shot,2,0,22,True
+Lonzo Ball,4,3,55,0,Running Layup Shot,2,5,29,True
+Lonzo Ball,4,5,25,0,Running Layup Shot,2,-8,25,True
+Lonzo Ball,1,7,58,1,Running Layup Shot,1,6,9,True
+Lonzo Ball,1,3,17,1,Running Layup Shot,1,6,13,True
+Lonzo Ball,3,3,37,0,Running Layup Shot,2,19,16,True
+Lonzo Ball,3,10,12,0,Running Layup Shot,2,-12,17,True
+Lonzo Ball,4,3,16,0,Running Layup Shot,2,4,21,True
+Lonzo Ball,1,5,50,1,Running Layup Shot,1,19,6,True
+Lonzo Ball,2,2,46,1,Running Layup Shot,1,-7,13,True
+Lonzo Ball,4,2,18,0,Running Layup Shot,2,-9,20,True
+Lonzo Ball,2,8,30,1,Running Layup Shot,0,-6,3,True
+Lonzo Ball,2,9,43,0,Running Pull-Up Jump Shot,25,85,243,False
+Lonzo Ball,3,1,27,1,Running Pull-Up Jump Shot,26,-196,178,False
+Lonzo Ball,4,2,3,0,Running Pull-Up Jump Shot,25,-105,231,False
+Lonzo Ball,1,4,47,0,Running Reverse Layup Shot,2,-3,22,True
+Lonzo Ball,1,1,31,1,Step Back Jump shot,28,-198,206,False
+Lonzo Ball,2,10,16,1,Step Back Jump shot,17,-28,172,True
+Lonzo Ball,4,5,41,0,Step Back Jump shot,20,-89,184,True
+Lonzo Ball,4,0,41,0,Step Back Jump shot,23,-215,90,True
+Lonzo Ball,2,2,3,0,Step Back Jump shot,25,-123,229,False
+Lonzo Ball,4,1,59,1,Step Back Jump shot,25,47,254,False
+Lonzo Ball,4,1,45,1,Step Back Jump shot,27,88,260,False
+Lonzo Ball,2,0,11,0,Step Back Jump shot,22,-226,-5,False
+Lonzo Ball,3,8,37,0,Step Back Jump shot,26,-89,249,False
+Lonzo Ball,1,2,32,1,Step Back Jump shot,25,163,197,False
+Lonzo Ball,2,8,18,1,Step Back Jump shot,26,-80,248,False
+Lonzo Ball,3,5,15,1,Step Back Jump shot,30,-188,246,False
+Lonzo Ball,4,5,51,0,Step Back Jump shot,19,-41,195,True
+Lonzo Ball,3,8,40,1,Step Back Jump shot,25,95,232,False
+Lonzo Ball,2,5,56,1,Step Back Jump shot,25,-149,204,False
+Lonzo Ball,2,6,50,0,Step Back Jump shot,27,73,269,False
+Lonzo Ball,3,6,18,1,Step Back Jump shot,25,-143,212,False
+Lonzo Ball,3,9,30,1,Step Back Jump shot,10,-46,94,True
+Lonzo Ball,1,3,34,1,Step Back Jump shot,24,-69,240,False
+Lonzo Ball,2,3,0,1,Step Back Jump shot,22,-210,79,True
+Lonzo Ball,4,10,26,0,Step Back Jump shot,27,139,233,False
+Lonzo Ball,3,5,16,1,Step Back Jump shot,23,70,220,True
+Lonzo Ball,1,3,45,1,Step Back Jump shot,24,126,215,False
+Lonzo Ball,3,0,54,0,Step Back Jump shot,21,-82,194,True
+Lonzo Ball,1,8,15,0,Step Back Jump shot,20,34,198,True
+Lonzo Ball,3,7,53,0,Step Back Jump shot,26,-140,222,False
+Lonzo Ball,4,10,6,0,Tip Layup Shot,0,0,-6,True
+Lonzo Ball,1,8,28,0,Tip Layup Shot,2,-2,28,True
+Lonzo Ball,3,8,32,1,Tip Layup Shot,0,0,-6,True
+Lonzo Ball,4,7,42,0,Tip Layup Shot,0,0,-6,True
+Lonzo Ball,2,0,29,1,Tip Layup Shot,0,0,-6,True
+Lonzo Ball,1,5,37,0,Tip Layup Shot,0,0,-6,True
+Lonzo Ball,2,8,6,0,Tip Layup Shot,1,-3,10,True
+Lonzo Ball,3,5,51,1,Tip Layup Shot,0,0,-6,True
+Lonzo Ball,3,0,58,0,Tip Layup Shot,0,-2,-3,True
+Lonzo Ball,3,6,35,1,Tip Layup Shot,0,0,-6,True
+Lonzo Ball,2,2,20,0,Tip Layup Shot,0,0,-6,True
+Lonzo Ball,2,11,15,1,Tip Layup Shot,0,0,-6,True
+Lonzo Ball,1,4,4,0,Tip Layup Shot,1,-1,12,True
+Lonzo Ball,1,6,56,1,Tip Layup Shot,0,0,-6,True
+Lonzo Ball,3,7,50,0,Tip Layup Shot,0,0,-6,True
+Lonzo Ball,3,10,53,0,Tip Layup Shot,0,0,-6,True
+Lonzo Ball,4,8,25,0,Turnaround Fadeaway Bank Jump Shot,5,-9,50,True
+Lonzo Ball,3,1,45,1,Turnaround Jump Shot,10,-14,104,True
+Lonzo Ball,1,4,5,0,Turnaround Jump Shot,17,120,125,True
+Lonzo Ball,2,10,35,0,Turnaround Jump Shot,3,-27,15,True
+Lonzo Ball,2,0,41,0,Turnaround Jump Shot,13,79,105,True
+Lonzo Ball,1,3,56,1,Turnaround Jump Shot,12,-70,106,True

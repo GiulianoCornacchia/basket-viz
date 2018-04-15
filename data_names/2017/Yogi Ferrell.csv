@@ -1,0 +1,682 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Yogi Ferrell,2,7,40,1,Cutting Finger Roll Layup Shot,1,9,17,True
+Yogi Ferrell,2,9,25,1,Cutting Layup Shot,1,0,19,True
+Yogi Ferrell,4,11,14,1,Cutting Layup Shot,0,-4,-1,True
+Yogi Ferrell,4,10,54,0,Cutting Layup Shot,0,0,-5,True
+Yogi Ferrell,4,7,14,0,Cutting Layup Shot,1,8,15,True
+Yogi Ferrell,3,9,28,1,Cutting Layup Shot,1,10,10,True
+Yogi Ferrell,1,3,38,0,Cutting Layup Shot,1,-8,6,True
+Yogi Ferrell,1,1,17,1,Cutting Layup Shot,1,-9,12,True
+Yogi Ferrell,2,8,41,1,Driving Finger Roll Layup Shot,0,3,9,True
+Yogi Ferrell,1,3,56,0,Driving Finger Roll Layup Shot,4,39,10,True
+Yogi Ferrell,2,11,5,0,Driving Finger Roll Layup Shot,4,-34,23,True
+Yogi Ferrell,4,2,29,1,Driving Finger Roll Layup Shot,1,-14,7,True
+Yogi Ferrell,3,5,23,1,Driving Finger Roll Layup Shot,2,-12,18,True
+Yogi Ferrell,2,11,39,0,Driving Finger Roll Layup Shot,2,8,24,True
+Yogi Ferrell,4,1,27,1,Driving Finger Roll Layup Shot,3,29,27,True
+Yogi Ferrell,2,3,57,0,Driving Finger Roll Layup Shot,0,-2,9,True
+Yogi Ferrell,3,3,17,0,Driving Finger Roll Layup Shot,1,11,10,True
+Yogi Ferrell,1,1,25,0,Driving Finger Roll Layup Shot,3,27,28,True
+Yogi Ferrell,3,3,20,1,Driving Finger Roll Layup Shot,0,6,7,True
+Yogi Ferrell,2,7,22,0,Driving Finger Roll Layup Shot,1,2,15,True
+Yogi Ferrell,3,5,0,1,Driving Floating Bank Jump Shot,2,19,9,True
+Yogi Ferrell,3,5,25,0,Driving Floating Bank Jump Shot,6,-58,25,True
+Yogi Ferrell,1,0,41,0,Driving Floating Bank Jump Shot,6,-52,37,True
+Yogi Ferrell,1,0,51,1,Driving Floating Bank Jump Shot,5,-53,14,True
+Yogi Ferrell,4,5,6,1,Driving Floating Bank Jump Shot,12,-95,80,True
+Yogi Ferrell,2,11,22,0,Driving Floating Bank Jump Shot,9,-88,34,True
+Yogi Ferrell,3,1,58,0,Driving Floating Bank Jump Shot,5,45,25,True
+Yogi Ferrell,2,7,56,1,Driving Floating Bank Jump Shot,4,-41,6,True
+Yogi Ferrell,1,0,25,1,Driving Floating Bank Jump Shot,5,-20,52,True
+Yogi Ferrell,4,9,15,0,Driving Floating Bank Jump Shot,4,-42,6,True
+Yogi Ferrell,4,10,0,0,Driving Floating Jump Shot,9,4,95,True
+Yogi Ferrell,2,2,43,1,Driving Floating Jump Shot,2,8,26,True
+Yogi Ferrell,3,2,56,0,Driving Floating Jump Shot,5,-46,22,True
+Yogi Ferrell,4,8,24,0,Driving Floating Jump Shot,6,50,45,True
+Yogi Ferrell,1,1,45,1,Driving Floating Jump Shot,6,-9,63,True
+Yogi Ferrell,1,1,45,1,Driving Floating Jump Shot,5,21,48,True
+Yogi Ferrell,4,10,27,0,Driving Floating Jump Shot,10,-59,89,True
+Yogi Ferrell,3,1,38,0,Driving Floating Jump Shot,6,-62,-1,True
+Yogi Ferrell,4,0,38,1,Driving Floating Jump Shot,17,-78,155,True
+Yogi Ferrell,2,9,14,0,Driving Floating Jump Shot,7,71,17,True
+Yogi Ferrell,1,0,28,1,Driving Floating Jump Shot,8,13,86,True
+Yogi Ferrell,1,2,16,0,Driving Floating Jump Shot,11,41,109,True
+Yogi Ferrell,3,2,29,1,Driving Floating Jump Shot,14,130,67,True
+Yogi Ferrell,2,8,51,0,Driving Floating Jump Shot,14,32,146,True
+Yogi Ferrell,3,2,18,1,Driving Floating Jump Shot,4,27,36,True
+Yogi Ferrell,2,6,58,1,Driving Floating Jump Shot,10,29,103,True
+Yogi Ferrell,2,2,17,1,Driving Floating Jump Shot,4,-19,36,True
+Yogi Ferrell,2,5,8,0,Driving Floating Jump Shot,2,4,28,True
+Yogi Ferrell,1,2,47,1,Driving Floating Jump Shot,11,-29,114,True
+Yogi Ferrell,4,6,16,1,Driving Floating Jump Shot,9,20,90,True
+Yogi Ferrell,4,10,47,0,Driving Floating Jump Shot,9,-5,91,True
+Yogi Ferrell,4,9,42,0,Driving Floating Jump Shot,12,-44,117,True
+Yogi Ferrell,3,1,39,0,Driving Floating Jump Shot,12,9,121,True
+Yogi Ferrell,3,2,25,0,Driving Floating Jump Shot,12,52,119,True
+Yogi Ferrell,3,5,35,0,Driving Hook Shot,4,-40,13,True
+Yogi Ferrell,3,3,42,0,Driving Layup Shot,1,-13,15,True
+Yogi Ferrell,2,3,49,1,Driving Layup Shot,2,-11,21,True
+Yogi Ferrell,4,7,50,0,Driving Layup Shot,2,-5,25,True
+Yogi Ferrell,3,11,2,0,Driving Layup Shot,2,16,16,True
+Yogi Ferrell,4,8,0,0,Driving Layup Shot,0,-8,4,True
+Yogi Ferrell,4,9,19,1,Driving Layup Shot,2,4,27,True
+Yogi Ferrell,2,7,39,1,Driving Layup Shot,4,44,22,True
+Yogi Ferrell,4,0,12,0,Driving Layup Shot,4,-13,39,True
+Yogi Ferrell,4,2,45,0,Driving Layup Shot,3,10,34,True
+Yogi Ferrell,4,4,56,1,Driving Layup Shot,1,-13,-1,True
+Yogi Ferrell,4,10,55,1,Driving Layup Shot,1,3,16,True
+Yogi Ferrell,3,3,42,1,Driving Layup Shot,1,14,8,True
+Yogi Ferrell,4,9,3,0,Driving Layup Shot,1,7,16,True
+Yogi Ferrell,3,5,6,1,Driving Layup Shot,2,24,10,True
+Yogi Ferrell,4,11,31,1,Driving Layup Shot,1,-11,11,True
+Yogi Ferrell,4,5,52,0,Driving Layup Shot,4,-31,37,True
+Yogi Ferrell,2,2,36,1,Driving Layup Shot,3,-32,11,True
+Yogi Ferrell,4,1,34,0,Driving Layup Shot,3,25,20,True
+Yogi Ferrell,4,0,31,0,Driving Layup Shot,1,0,14,True
+Yogi Ferrell,2,11,1,0,Driving Layup Shot,2,25,5,True
+Yogi Ferrell,2,10,8,0,Driving Layup Shot,3,27,15,True
+Yogi Ferrell,2,9,29,0,Driving Layup Shot,3,-31,11,True
+Yogi Ferrell,1,5,7,0,Driving Layup Shot,3,-29,14,True
+Yogi Ferrell,4,8,29,1,Driving Layup Shot,1,2,10,True
+Yogi Ferrell,3,9,43,0,Driving Layup Shot,3,-26,22,True
+Yogi Ferrell,2,5,28,1,Driving Layup Shot,0,-2,9,True
+Yogi Ferrell,2,8,24,0,Driving Layup Shot,2,-13,21,True
+Yogi Ferrell,4,10,1,1,Driving Layup Shot,2,20,7,True
+Yogi Ferrell,3,4,46,0,Driving Layup Shot,2,24,12,True
+Yogi Ferrell,4,3,12,1,Driving Layup Shot,1,5,10,True
+Yogi Ferrell,2,9,40,1,Driving Layup Shot,1,8,11,True
+Yogi Ferrell,4,7,55,0,Driving Layup Shot,1,-14,-3,True
+Yogi Ferrell,1,1,28,1,Driving Layup Shot,0,-3,7,True
+Yogi Ferrell,4,7,15,1,Driving Layup Shot,0,-3,5,True
+Yogi Ferrell,4,11,12,0,Driving Layup Shot,1,-2,11,True
+Yogi Ferrell,4,6,36,0,Driving Layup Shot,1,-14,11,True
+Yogi Ferrell,3,2,34,0,Driving Layup Shot,1,16,0,True
+Yogi Ferrell,2,8,27,1,Driving Layup Shot,1,-13,7,True
+Yogi Ferrell,1,1,51,1,Driving Layup Shot,1,-16,6,True
+Yogi Ferrell,1,7,31,1,Driving Layup Shot,2,-18,10,True
+Yogi Ferrell,3,4,8,1,Driving Layup Shot,1,-13,4,True
+Yogi Ferrell,2,7,58,1,Driving Layup Shot,1,15,12,True
+Yogi Ferrell,2,3,47,0,Driving Layup Shot,4,16,46,True
+Yogi Ferrell,3,3,30,0,Driving Layup Shot,1,1,13,True
+Yogi Ferrell,1,0,42,1,Driving Layup Shot,0,4,5,True
+Yogi Ferrell,3,11,46,0,Driving Layup Shot,0,2,-5,True
+Yogi Ferrell,2,7,56,1,Driving Layup Shot,0,-3,6,True
+Yogi Ferrell,1,8,6,0,Driving Layup Shot,3,5,37,True
+Yogi Ferrell,2,7,29,1,Driving Layup Shot,2,6,21,True
+Yogi Ferrell,1,7,5,1,Driving Layup Shot,2,20,14,True
+Yogi Ferrell,4,5,18,0,Driving Layup Shot,1,6,18,True
+Yogi Ferrell,4,0,7,0,Driving Layup Shot,1,11,10,True
+Yogi Ferrell,2,4,55,1,Driving Layup Shot,2,-5,20,True
+Yogi Ferrell,1,8,40,1,Driving Layup Shot,1,-12,8,True
+Yogi Ferrell,4,5,46,0,Driving Layup Shot,2,-9,25,True
+Yogi Ferrell,2,2,42,1,Driving Layup Shot,1,-8,10,True
+Yogi Ferrell,3,0,4,1,Driving Layup Shot,0,-6,7,True
+Yogi Ferrell,3,3,15,1,Driving Layup Shot,1,-11,8,True
+Yogi Ferrell,1,9,33,1,Driving Layup Shot,1,-9,6,True
+Yogi Ferrell,3,9,17,0,Driving Layup Shot,0,3,8,True
+Yogi Ferrell,2,7,14,1,Driving Reverse Layup Shot,1,0,15,True
+Yogi Ferrell,2,5,31,1,Driving Reverse Layup Shot,0,7,1,True
+Yogi Ferrell,1,4,42,1,Driving Reverse Layup Shot,2,20,10,True
+Yogi Ferrell,2,3,10,0,Driving Reverse Layup Shot,1,-13,8,True
+Yogi Ferrell,4,7,24,1,Driving Reverse Layup Shot,1,13,11,True
+Yogi Ferrell,2,5,45,0,Driving Reverse Layup Shot,2,14,17,True
+Yogi Ferrell,2,11,48,1,Driving Reverse Layup Shot,1,-1,16,True
+Yogi Ferrell,4,1,50,1,Fadeaway Jump Shot,8,-79,15,True
+Yogi Ferrell,1,0,49,0,Fadeaway Jump Shot,13,-101,94,True
+Yogi Ferrell,4,1,9,0,Fadeaway Jump Shot,7,-72,14,True
+Yogi Ferrell,4,3,43,0,Fadeaway Jump Shot,11,-101,58,True
+Yogi Ferrell,3,0,1,0,Fadeaway Jump Shot,16,134,103,True
+Yogi Ferrell,4,7,36,0,Fadeaway Jump Shot,16,-158,43,True
+Yogi Ferrell,4,1,35,0,Fadeaway Jump Shot,12,15,126,True
+Yogi Ferrell,2,0,11,0,Fadeaway Jump Shot,17,110,135,True
+Yogi Ferrell,2,10,25,0,Fadeaway Jump Shot,16,-162,14,True
+Yogi Ferrell,4,0,1,1,Fadeaway Jump Shot,23,-230,31,False
+Yogi Ferrell,4,6,30,1,Fadeaway Jump Shot,10,-108,-6,True
+Yogi Ferrell,1,1,3,1,Fadeaway Jump Shot,14,46,134,True
+Yogi Ferrell,4,6,11,0,Fadeaway Jump Shot,9,-77,53,True
+Yogi Ferrell,4,1,58,0,Fadeaway Jump Shot,6,-42,51,True
+Yogi Ferrell,1,6,26,0,Floating Jump shot,8,-6,83,True
+Yogi Ferrell,2,10,57,0,Floating Jump shot,2,-25,-1,True
+Yogi Ferrell,4,5,50,0,Floating Jump shot,16,32,157,True
+Yogi Ferrell,2,11,40,1,Floating Jump shot,25,66,243,False
+Yogi Ferrell,1,0,0,1,Jump Bank Shot,27,168,215,False
+Yogi Ferrell,2,4,27,1,Jump Shot,26,154,220,False
+Yogi Ferrell,2,7,40,1,Jump Shot,24,-174,177,False
+Yogi Ferrell,2,7,20,0,Jump Shot,26,55,262,False
+Yogi Ferrell,4,9,11,0,Jump Shot,26,-173,197,False
+Yogi Ferrell,2,5,37,0,Jump Shot,27,189,197,False
+Yogi Ferrell,4,1,50,1,Jump Shot,26,210,155,False
+Yogi Ferrell,2,10,1,0,Jump Shot,25,-199,159,False
+Yogi Ferrell,4,6,55,1,Jump Shot,22,227,1,False
+Yogi Ferrell,4,9,39,0,Jump Shot,25,-196,165,False
+Yogi Ferrell,2,4,22,0,Jump Shot,25,-7,251,False
+Yogi Ferrell,3,4,24,0,Jump Shot,25,-176,184,False
+Yogi Ferrell,2,0,33,0,Jump Shot,26,-3,262,False
+Yogi Ferrell,4,7,46,1,Jump Shot,24,212,116,False
+Yogi Ferrell,1,0,47,0,Jump Shot,24,-174,178,False
+Yogi Ferrell,2,7,36,0,Jump Shot,16,-85,142,True
+Yogi Ferrell,4,4,5,1,Jump Shot,13,-66,118,True
+Yogi Ferrell,4,8,50,0,Jump Shot,25,26,253,False
+Yogi Ferrell,2,7,40,1,Jump Shot,19,144,130,True
+Yogi Ferrell,2,6,11,0,Jump Shot,25,-25,257,False
+Yogi Ferrell,4,6,4,0,Jump Shot,27,-181,204,False
+Yogi Ferrell,2,9,58,1,Jump Shot,26,2,264,False
+Yogi Ferrell,4,1,39,0,Jump Shot,25,87,241,False
+Yogi Ferrell,1,0,29,0,Jump Shot,23,217,101,False
+Yogi Ferrell,2,7,53,1,Jump Shot,25,-78,239,False
+Yogi Ferrell,4,4,12,1,Jump Shot,18,77,173,True
+Yogi Ferrell,4,6,54,0,Jump Shot,25,-4,251,False
+Yogi Ferrell,4,9,43,0,Jump Shot,25,186,171,False
+Yogi Ferrell,2,11,47,0,Jump Shot,24,59,238,False
+Yogi Ferrell,4,8,17,1,Jump Shot,25,-10,250,False
+Yogi Ferrell,1,1,28,0,Jump Shot,25,-147,204,False
+Yogi Ferrell,2,11,44,0,Jump Shot,25,101,236,False
+Yogi Ferrell,4,6,0,1,Jump Shot,25,-200,152,False
+Yogi Ferrell,4,4,10,0,Jump Shot,24,-9,248,False
+Yogi Ferrell,1,0,1,0,Jump Shot,25,-161,204,False
+Yogi Ferrell,4,8,32,0,Jump Shot,22,226,3,False
+Yogi Ferrell,2,11,4,0,Jump Shot,23,-230,-3,False
+Yogi Ferrell,2,2,41,1,Jump Shot,17,-172,13,True
+Yogi Ferrell,4,1,50,1,Jump Shot,22,-226,6,False
+Yogi Ferrell,3,4,28,0,Jump Shot,23,231,-1,False
+Yogi Ferrell,2,0,14,0,Jump Shot,25,-51,250,False
+Yogi Ferrell,1,0,0,0,Jump Shot,25,-177,187,False
+Yogi Ferrell,4,11,22,1,Jump Shot,26,-3,263,False
+Yogi Ferrell,1,2,12,1,Jump Shot,22,107,201,True
+Yogi Ferrell,4,4,29,1,Jump Shot,21,95,197,True
+Yogi Ferrell,4,10,25,0,Jump Shot,10,33,99,True
+Yogi Ferrell,2,1,47,0,Jump Shot,26,-27,261,False
+Yogi Ferrell,3,0,20,1,Jump Shot,18,-35,178,True
+Yogi Ferrell,2,0,34,0,Jump Shot,26,-111,245,False
+Yogi Ferrell,2,3,57,0,Jump Shot,3,-10,35,True
+Yogi Ferrell,4,3,27,1,Jump Shot,26,-25,267,False
+Yogi Ferrell,4,0,55,0,Jump Shot,26,129,230,False
+Yogi Ferrell,3,2,54,0,Jump Shot,26,10,265,False
+Yogi Ferrell,4,0,18,0,Jump Shot,25,64,251,False
+Yogi Ferrell,3,3,23,1,Jump Shot,8,48,71,True
+Yogi Ferrell,3,1,28,0,Jump Shot,25,13,258,False
+Yogi Ferrell,4,11,19,1,Jump Shot,24,172,179,False
+Yogi Ferrell,3,1,52,1,Jump Shot,25,41,251,False
+Yogi Ferrell,2,4,39,1,Jump Shot,25,9,257,False
+Yogi Ferrell,4,1,32,1,Jump Shot,24,-35,246,False
+Yogi Ferrell,3,9,40,0,Jump Shot,25,106,232,False
+Yogi Ferrell,4,1,41,0,Jump Shot,25,115,232,False
+Yogi Ferrell,3,0,0,0,Jump Shot,25,134,213,False
+Yogi Ferrell,1,5,6,0,Jump Shot,25,-84,241,False
+Yogi Ferrell,5,3,58,0,Jump Shot,23,-230,25,False
+Yogi Ferrell,1,4,43,0,Jump Shot,25,42,248,False
+Yogi Ferrell,4,8,4,1,Jump Shot,24,226,105,False
+Yogi Ferrell,4,10,33,0,Jump Shot,26,92,249,False
+Yogi Ferrell,1,4,56,0,Jump Shot,25,104,231,False
+Yogi Ferrell,3,0,33,0,Jump Shot,27,-40,276,False
+Yogi Ferrell,4,1,12,0,Jump Shot,26,-171,201,False
+Yogi Ferrell,2,5,48,0,Jump Shot,25,-185,169,False
+Yogi Ferrell,1,4,56,0,Jump Shot,25,-50,252,False
+Yogi Ferrell,1,2,26,0,Jump Shot,14,122,80,True
+Yogi Ferrell,1,4,33,1,Jump Shot,25,-180,175,False
+Yogi Ferrell,3,1,0,1,Jump Shot,21,-157,147,True
+Yogi Ferrell,4,9,24,1,Jump Shot,24,239,41,False
+Yogi Ferrell,4,11,29,0,Jump Shot,26,134,234,False
+Yogi Ferrell,4,3,52,1,Jump Shot,23,236,21,False
+Yogi Ferrell,4,6,26,0,Jump Shot,25,44,254,False
+Yogi Ferrell,4,8,39,1,Jump Shot,26,173,201,False
+Yogi Ferrell,3,8,10,0,Jump Shot,27,188,197,False
+Yogi Ferrell,4,7,42,1,Jump Shot,25,-3,258,False
+Yogi Ferrell,1,0,25,0,Jump Shot,25,195,159,False
+Yogi Ferrell,4,0,51,1,Jump Shot,23,236,12,False
+Yogi Ferrell,2,5,25,0,Jump Shot,25,181,180,False
+Yogi Ferrell,5,0,3,0,Jump Shot,32,-179,277,False
+Yogi Ferrell,5,0,36,0,Jump Shot,26,130,228,False
+Yogi Ferrell,2,1,12,1,Jump Shot,15,-152,-17,True
+Yogi Ferrell,3,3,55,0,Jump Shot,24,-206,141,False
+Yogi Ferrell,3,2,34,0,Jump Shot,22,-46,224,True
+Yogi Ferrell,2,7,57,0,Jump Shot,19,141,136,True
+Yogi Ferrell,2,11,48,0,Jump Shot,26,-9,263,False
+Yogi Ferrell,3,1,15,0,Jump Shot,24,-228,89,False
+Yogi Ferrell,2,5,8,0,Jump Shot,16,-143,84,True
+Yogi Ferrell,4,10,26,0,Jump Shot,19,123,157,True
+Yogi Ferrell,1,5,20,0,Jump Shot,22,-228,0,False
+Yogi Ferrell,4,4,7,0,Jump Shot,24,-188,161,False
+Yogi Ferrell,1,9,31,0,Jump Shot,25,58,248,False
+Yogi Ferrell,4,0,7,0,Jump Shot,24,-63,234,False
+Yogi Ferrell,2,6,13,0,Jump Shot,25,-120,222,False
+Yogi Ferrell,3,3,16,0,Jump Shot,25,141,218,False
+Yogi Ferrell,4,6,53,1,Jump Shot,22,-227,15,False
+Yogi Ferrell,2,11,46,1,Jump Shot,23,228,39,False
+Yogi Ferrell,1,2,24,0,Jump Shot,23,223,59,False
+Yogi Ferrell,2,9,40,0,Jump Shot,25,-182,174,False
+Yogi Ferrell,2,3,47,0,Jump Shot,25,-223,122,False
+Yogi Ferrell,4,10,38,1,Jump Shot,22,224,-1,False
+Yogi Ferrell,2,1,14,0,Jump Shot,25,-190,167,False
+Yogi Ferrell,4,11,31,1,Jump Shot,24,-10,247,False
+Yogi Ferrell,4,3,40,1,Jump Shot,22,225,-9,False
+Yogi Ferrell,4,8,7,0,Jump Shot,23,-234,47,False
+Yogi Ferrell,4,2,13,0,Jump Shot,25,78,241,False
+Yogi Ferrell,2,10,7,1,Jump Shot,25,8,257,False
+Yogi Ferrell,4,10,44,0,Jump Shot,25,9,257,False
+Yogi Ferrell,3,0,0,0,Jump Shot,27,-5,274,False
+Yogi Ferrell,2,9,45,0,Jump Shot,26,-27,262,False
+Yogi Ferrell,2,10,11,0,Jump Shot,25,-187,176,False
+Yogi Ferrell,4,7,25,0,Jump Shot,21,-122,180,True
+Yogi Ferrell,4,6,1,0,Jump Shot,16,-29,162,True
+Yogi Ferrell,2,7,43,0,Jump Shot,25,-41,252,False
+Yogi Ferrell,3,0,2,0,Jump Shot,26,5,264,False
+Yogi Ferrell,4,11,28,0,Jump Shot,23,230,44,False
+Yogi Ferrell,4,10,26,0,Jump Shot,22,-228,4,False
+Yogi Ferrell,2,2,0,0,Jump Shot,25,65,248,False
+Yogi Ferrell,3,4,0,0,Jump Shot,23,231,63,False
+Yogi Ferrell,4,1,45,0,Jump Shot,22,-224,27,False
+Yogi Ferrell,2,10,18,0,Jump Shot,25,111,226,False
+Yogi Ferrell,4,11,50,0,Jump Shot,25,54,254,False
+Yogi Ferrell,4,1,40,1,Jump Shot,23,-230,4,False
+Yogi Ferrell,3,6,15,1,Jump Shot,25,-217,131,False
+Yogi Ferrell,4,2,31,1,Jump Shot,24,-54,243,False
+Yogi Ferrell,2,10,12,1,Jump Shot,25,193,160,False
+Yogi Ferrell,1,4,9,0,Jump Shot,25,-199,162,False
+Yogi Ferrell,1,1,19,0,Jump Shot,24,221,115,False
+Yogi Ferrell,4,1,5,1,Jump Shot,24,-167,184,False
+Yogi Ferrell,3,7,42,0,Jump Shot,25,161,193,False
+Yogi Ferrell,1,5,58,1,Jump Shot,26,-139,225,False
+Yogi Ferrell,1,0,18,0,Jump Shot,25,8,258,False
+Yogi Ferrell,3,1,59,0,Jump Shot,24,16,243,False
+Yogi Ferrell,3,7,28,0,Jump Shot,26,-153,212,False
+Yogi Ferrell,1,4,18,0,Jump Shot,24,-133,205,False
+Yogi Ferrell,1,0,0,0,Jump Shot,24,232,92,False
+Yogi Ferrell,4,9,13,0,Jump Shot,25,-119,220,False
+Yogi Ferrell,3,7,30,0,Jump Shot,24,-81,229,False
+Yogi Ferrell,5,0,12,0,Jump Shot,25,143,208,False
+Yogi Ferrell,4,8,13,0,Jump Shot,24,110,224,False
+Yogi Ferrell,4,4,22,0,Jump Shot,24,223,105,False
+Yogi Ferrell,1,9,25,0,Jump Shot,24,87,231,False
+Yogi Ferrell,2,4,10,0,Jump Shot,23,230,60,False
+Yogi Ferrell,2,2,13,1,Jump Shot,24,205,130,False
+Yogi Ferrell,1,2,7,0,Jump Shot,23,-230,-4,False
+Yogi Ferrell,5,1,11,0,Jump Shot,25,19,251,False
+Yogi Ferrell,5,3,58,1,Jump Shot,15,-154,35,True
+Yogi Ferrell,3,10,32,1,Jump Shot,23,233,26,False
+Yogi Ferrell,2,3,29,1,Jump Shot,24,231,87,False
+Yogi Ferrell,4,5,4,0,Jump Shot,26,-61,259,False
+Yogi Ferrell,1,7,53,1,Jump Shot,27,122,245,False
+Yogi Ferrell,4,0,53,0,Jump Shot,26,82,247,False
+Yogi Ferrell,3,6,28,1,Jump Shot,26,133,225,False
+Yogi Ferrell,1,6,40,0,Jump Shot,25,213,134,False
+Yogi Ferrell,4,1,48,1,Jump Shot,25,-12,256,False
+Yogi Ferrell,1,0,21,1,Jump Shot,25,231,101,False
+Yogi Ferrell,3,9,43,1,Jump Shot,24,199,149,False
+Yogi Ferrell,1,1,29,0,Jump Shot,24,221,106,False
+Yogi Ferrell,1,5,41,1,Jump Shot,25,-65,243,False
+Yogi Ferrell,2,2,28,1,Jump Shot,21,58,207,True
+Yogi Ferrell,3,2,53,1,Jump Shot,21,-81,203,True
+Yogi Ferrell,1,0,1,0,Jump Shot,22,225,22,False
+Yogi Ferrell,4,3,14,0,Jump Shot,24,-55,243,False
+Yogi Ferrell,4,0,0,0,Jump Shot,24,-187,158,False
+Yogi Ferrell,1,2,45,1,Jump Shot,26,86,249,False
+Yogi Ferrell,4,8,58,1,Jump Shot,25,54,245,False
+Yogi Ferrell,2,10,46,1,Jump Shot,23,-232,6,False
+Yogi Ferrell,3,1,46,1,Jump Shot,22,-220,3,False
+Yogi Ferrell,3,1,14,0,Jump Shot,24,-141,206,False
+Yogi Ferrell,4,1,25,0,Jump Shot,22,228,6,False
+Yogi Ferrell,2,7,21,0,Jump Shot,25,150,204,False
+Yogi Ferrell,4,2,28,1,Jump Shot,22,229,6,False
+Yogi Ferrell,3,5,5,0,Jump Shot,22,228,6,False
+Yogi Ferrell,4,9,41,0,Jump Shot,24,-212,116,False
+Yogi Ferrell,2,3,4,0,Jump Shot,23,-230,2,False
+Yogi Ferrell,2,9,16,0,Jump Shot,22,226,22,False
+Yogi Ferrell,4,6,56,1,Jump Shot,26,-157,209,False
+Yogi Ferrell,4,8,27,0,Jump Shot,25,183,176,False
+Yogi Ferrell,4,2,9,1,Jump Shot,24,-230,69,False
+Yogi Ferrell,2,0,28,0,Jump Shot,27,-158,227,False
+Yogi Ferrell,3,1,0,1,Jump Shot,23,-231,11,False
+Yogi Ferrell,1,0,58,0,Jump Shot,25,-158,204,False
+Yogi Ferrell,4,5,23,0,Jump Shot,24,-210,117,False
+Yogi Ferrell,4,6,50,0,Jump Shot,22,-222,0,False
+Yogi Ferrell,4,3,13,1,Jump Shot,25,-212,138,False
+Yogi Ferrell,1,4,47,1,Jump Shot,25,141,210,False
+Yogi Ferrell,1,3,44,1,Jump Shot,27,-101,260,False
+Yogi Ferrell,2,2,49,0,Jump Shot,25,150,202,False
+Yogi Ferrell,4,0,48,0,Jump Shot,25,13,257,False
+Yogi Ferrell,4,1,12,1,Jump Shot,24,-193,158,False
+Yogi Ferrell,3,8,29,1,Jump Shot,26,202,169,False
+Yogi Ferrell,2,10,1,0,Jump Shot,8,-19,83,True
+Yogi Ferrell,2,8,41,0,Jump Shot,25,11,251,False
+Yogi Ferrell,1,5,19,1,Jump Shot,24,-125,215,False
+Yogi Ferrell,1,3,25,0,Jump Shot,24,-183,168,False
+Yogi Ferrell,4,5,45,0,Jump Shot,23,-232,-7,False
+Yogi Ferrell,3,6,50,1,Jump Shot,24,-93,232,False
+Yogi Ferrell,1,5,21,0,Jump Shot,26,-148,215,False
+Yogi Ferrell,2,10,26,1,Jump Shot,27,-56,265,False
+Yogi Ferrell,1,6,37,1,Jump Shot,25,171,185,False
+Yogi Ferrell,3,11,48,0,Jump Shot,26,-153,216,False
+Yogi Ferrell,3,7,20,0,Jump Shot,25,125,227,False
+Yogi Ferrell,4,2,50,1,Jump Shot,25,-176,183,False
+Yogi Ferrell,3,11,13,0,Jump Shot,21,119,174,True
+Yogi Ferrell,3,8,4,1,Jump Shot,27,-218,165,False
+Yogi Ferrell,2,3,14,0,Jump Shot,26,-74,253,False
+Yogi Ferrell,1,3,59,0,Jump Shot,25,136,213,False
+Yogi Ferrell,1,9,59,0,Jump Shot,27,7,273,False
+Yogi Ferrell,4,6,3,1,Jump Shot,26,5,260,False
+Yogi Ferrell,1,10,24,1,Jump Shot,25,34,255,False
+Yogi Ferrell,2,3,58,1,Jump Shot,16,68,147,True
+Yogi Ferrell,1,9,38,1,Jump Shot,21,-62,205,True
+Yogi Ferrell,2,2,0,0,Jump Shot,26,-62,262,False
+Yogi Ferrell,3,3,44,0,Jump Shot,24,-112,218,False
+Yogi Ferrell,2,6,2,0,Jump Shot,26,55,256,False
+Yogi Ferrell,3,6,31,1,Jump Shot,27,-58,265,False
+Yogi Ferrell,4,8,43,1,Jump Shot,14,136,55,True
+Yogi Ferrell,4,1,31,1,Jump Shot,23,-231,-23,False
+Yogi Ferrell,2,2,48,0,Jump Shot,25,57,246,False
+Yogi Ferrell,1,0,55,1,Jump Shot,22,222,38,False
+Yogi Ferrell,4,4,6,0,Jump Shot,25,-114,230,False
+Yogi Ferrell,4,1,5,0,Jump Shot,25,-127,218,False
+Yogi Ferrell,2,4,51,0,Jump Shot,25,-182,183,False
+Yogi Ferrell,2,4,31,0,Jump Shot,23,-226,68,False
+Yogi Ferrell,4,7,7,1,Jump Shot,22,-226,-27,False
+Yogi Ferrell,2,1,58,0,Jump Shot,25,-49,251,False
+Yogi Ferrell,1,5,48,0,Jump Shot,26,-119,235,False
+Yogi Ferrell,2,3,40,1,Jump Shot,24,-203,145,False
+Yogi Ferrell,1,3,47,0,Jump Shot,17,-9,174,True
+Yogi Ferrell,1,1,2,0,Jump Shot,24,-209,122,False
+Yogi Ferrell,3,1,12,0,Jump Shot,24,-181,172,False
+Yogi Ferrell,3,2,7,0,Jump Shot,23,-234,-11,False
+Yogi Ferrell,1,6,12,0,Jump Shot,26,6,263,False
+Yogi Ferrell,4,8,25,0,Jump Shot,25,176,189,False
+Yogi Ferrell,4,4,13,1,Jump Shot,25,133,214,False
+Yogi Ferrell,4,7,53,0,Jump Shot,21,-208,33,True
+Yogi Ferrell,3,2,19,1,Jump Shot,24,-196,148,False
+Yogi Ferrell,1,0,2,0,Jump Shot,24,-29,243,False
+Yogi Ferrell,5,0,22,0,Jump Shot,22,-224,-13,False
+Yogi Ferrell,3,4,51,0,Jump Shot,25,-212,143,False
+Yogi Ferrell,4,4,33,0,Jump Shot,25,209,140,False
+Yogi Ferrell,1,5,55,1,Jump Shot,26,-123,231,False
+Yogi Ferrell,2,7,34,0,Jump Shot,27,-95,257,False
+Yogi Ferrell,4,3,11,1,Jump Shot,26,78,257,False
+Yogi Ferrell,4,0,27,1,Jump Shot,18,117,142,True
+Yogi Ferrell,4,2,46,0,Jump Shot,24,-156,188,False
+Yogi Ferrell,1,3,32,1,Jump Shot,25,-17,256,False
+Yogi Ferrell,4,1,27,1,Jump Shot,24,-116,215,False
+Yogi Ferrell,1,3,52,0,Jump Shot,22,-229,13,False
+Yogi Ferrell,3,6,6,0,Jump Shot,25,133,214,False
+Yogi Ferrell,3,1,55,0,Jump Shot,24,157,194,False
+Yogi Ferrell,2,5,52,0,Jump Shot,25,-204,145,False
+Yogi Ferrell,2,1,34,0,Jump Shot,24,197,153,False
+Yogi Ferrell,1,1,19,1,Jump Shot,23,226,60,False
+Yogi Ferrell,1,10,53,1,Jump Shot,15,-136,83,True
+Yogi Ferrell,2,2,11,0,Jump Shot,25,198,157,False
+Yogi Ferrell,4,0,57,1,Jump Shot,13,-60,116,True
+Yogi Ferrell,4,6,4,1,Jump Shot,24,-162,184,False
+Yogi Ferrell,4,11,37,0,Jump Shot,24,28,241,False
+Yogi Ferrell,4,2,57,0,Jump Shot,24,-85,231,False
+Yogi Ferrell,4,1,48,1,Jump Shot,21,79,198,True
+Yogi Ferrell,4,10,18,0,Jump Shot,22,228,19,False
+Yogi Ferrell,2,6,13,0,Jump Shot,25,182,173,False
+Yogi Ferrell,1,0,29,1,Jump Shot,25,210,139,False
+Yogi Ferrell,2,8,13,0,Jump Shot,26,-67,260,False
+Yogi Ferrell,4,0,37,1,Jump Shot,25,95,242,False
+Yogi Ferrell,4,11,29,0,Jump Shot,25,72,248,False
+Yogi Ferrell,2,3,17,0,Jump Shot,24,-72,238,False
+Yogi Ferrell,1,9,25,0,Jump Shot,24,31,248,False
+Yogi Ferrell,1,7,48,1,Jump Shot,25,69,248,False
+Yogi Ferrell,1,6,36,1,Jump Shot,25,77,248,False
+Yogi Ferrell,2,0,59,0,Jump Shot,25,177,190,False
+Yogi Ferrell,4,3,17,0,Jump Shot,26,-143,221,False
+Yogi Ferrell,2,7,27,0,Jump Shot,24,103,225,False
+Yogi Ferrell,4,4,54,0,Jump Shot,10,33,104,True
+Yogi Ferrell,4,9,37,0,Jump Shot,24,-2,246,False
+Yogi Ferrell,4,1,36,0,Jump Shot,16,-134,95,True
+Yogi Ferrell,4,2,9,0,Jump Shot,25,74,246,False
+Yogi Ferrell,1,7,53,1,Jump Shot,25,98,230,False
+Yogi Ferrell,4,0,42,0,Jump Shot,26,131,235,False
+Yogi Ferrell,2,8,38,1,Jump Shot,24,130,209,False
+Yogi Ferrell,3,0,8,0,Jump Shot,24,161,178,False
+Yogi Ferrell,1,3,0,1,Jump Shot,19,-49,193,True
+Yogi Ferrell,1,4,3,0,Jump Shot,25,-218,125,False
+Yogi Ferrell,4,8,14,0,Jump Shot,25,-81,239,False
+Yogi Ferrell,4,9,49,0,Jump Shot,24,-163,178,False
+Yogi Ferrell,2,7,42,0,Jump Shot,26,-76,252,False
+Yogi Ferrell,4,1,41,1,Jump Shot,22,-228,8,False
+Yogi Ferrell,3,4,38,0,Jump Shot,12,-5,124,True
+Yogi Ferrell,2,0,0,0,Jump Shot,68,-76,682,False
+Yogi Ferrell,4,1,46,1,Jump Shot,24,-87,231,False
+Yogi Ferrell,1,4,38,1,Jump Shot,25,112,232,False
+Yogi Ferrell,2,6,7,1,Jump Shot,26,-122,230,False
+Yogi Ferrell,3,5,50,0,Jump Shot,22,-226,5,False
+Yogi Ferrell,4,11,9,1,Jump Shot,14,-7,145,True
+Yogi Ferrell,4,5,43,0,Jump Shot,11,111,1,True
+Yogi Ferrell,3,11,30,0,Jump Shot,23,-230,22,False
+Yogi Ferrell,1,10,26,1,Jump Shot,25,-140,208,False
+Yogi Ferrell,2,7,27,0,Jump Shot,22,-129,180,True
+Yogi Ferrell,4,6,46,0,Jump Shot,5,-16,49,True
+Yogi Ferrell,3,2,24,1,Jump Shot,25,3,259,False
+Yogi Ferrell,4,1,38,0,Jump Shot,25,51,251,False
+Yogi Ferrell,4,11,14,0,Jump Shot,19,-2,190,True
+Yogi Ferrell,4,4,29,1,Jump Shot,26,5,260,False
+Yogi Ferrell,2,7,44,0,Jump Shot,25,85,241,False
+Yogi Ferrell,3,9,22,1,Jump Shot,22,-226,5,False
+Yogi Ferrell,2,5,20,0,Jump Shot,26,-90,249,False
+Yogi Ferrell,1,3,3,0,Jump Shot,6,-18,62,True
+Yogi Ferrell,1,6,22,0,Jump Shot,25,127,225,False
+Yogi Ferrell,2,6,33,1,Jump Shot,24,30,246,False
+Yogi Ferrell,2,0,33,0,Jump Shot,28,-40,279,False
+Yogi Ferrell,3,11,39,1,Jump Shot,25,-145,214,False
+Yogi Ferrell,1,4,30,1,Jump Shot,24,-185,158,False
+Yogi Ferrell,3,6,49,0,Jump Shot,25,96,239,False
+Yogi Ferrell,4,6,10,1,Jump Shot,23,-230,34,False
+Yogi Ferrell,4,7,35,0,Layup Shot,4,-34,23,True
+Yogi Ferrell,4,1,30,0,Layup Shot,2,-14,17,True
+Yogi Ferrell,1,3,2,0,Layup Shot,1,14,6,True
+Yogi Ferrell,3,3,15,0,Layup Shot,2,21,10,True
+Yogi Ferrell,2,5,11,0,Layup Shot,1,-13,10,True
+Yogi Ferrell,1,8,7,1,Layup Shot,1,-12,13,True
+Yogi Ferrell,2,3,52,0,Layup Shot,1,8,15,True
+Yogi Ferrell,3,5,58,0,Layup Shot,2,11,19,True
+Yogi Ferrell,2,7,15,0,Layup Shot,2,15,20,True
+Yogi Ferrell,1,4,3,1,Layup Shot,2,-9,22,True
+Yogi Ferrell,3,6,4,1,Pullup Jump shot,18,-34,181,True
+Yogi Ferrell,4,1,21,1,Pullup Jump shot,19,92,167,True
+Yogi Ferrell,2,11,46,0,Pullup Jump shot,15,34,148,True
+Yogi Ferrell,3,10,11,0,Pullup Jump shot,16,117,120,True
+Yogi Ferrell,3,2,18,0,Pullup Jump shot,25,42,247,False
+Yogi Ferrell,2,1,49,0,Pullup Jump shot,17,71,157,True
+Yogi Ferrell,3,1,47,0,Pullup Jump shot,22,104,199,True
+Yogi Ferrell,4,6,31,1,Pullup Jump shot,20,67,191,True
+Yogi Ferrell,3,4,35,1,Pullup Jump shot,16,82,142,True
+Yogi Ferrell,3,4,4,1,Pullup Jump shot,15,-14,156,True
+Yogi Ferrell,3,0,24,0,Pullup Jump shot,22,-129,181,True
+Yogi Ferrell,2,7,6,1,Pullup Jump shot,16,-54,152,True
+Yogi Ferrell,1,2,40,1,Pullup Jump shot,18,-31,179,True
+Yogi Ferrell,2,1,41,0,Pullup Jump shot,24,-81,236,False
+Yogi Ferrell,3,10,35,0,Pullup Jump shot,19,110,162,True
+Yogi Ferrell,2,5,47,0,Pullup Jump shot,17,157,85,True
+Yogi Ferrell,3,3,14,0,Pullup Jump shot,13,-4,138,True
+Yogi Ferrell,1,0,49,1,Pullup Jump shot,6,-54,32,True
+Yogi Ferrell,1,9,59,1,Pullup Jump shot,16,20,160,True
+Yogi Ferrell,2,8,4,1,Pullup Jump shot,17,93,143,True
+Yogi Ferrell,3,2,17,1,Pullup Jump shot,25,109,231,False
+Yogi Ferrell,2,4,29,1,Pullup Jump shot,15,-79,139,True
+Yogi Ferrell,4,0,22,0,Pullup Jump shot,27,-105,258,False
+Yogi Ferrell,1,0,11,0,Pullup Jump shot,13,130,5,True
+Yogi Ferrell,2,6,59,0,Pullup Jump shot,24,83,230,False
+Yogi Ferrell,1,0,3,0,Pullup Jump shot,20,36,206,True
+Yogi Ferrell,1,8,1,1,Pullup Jump shot,13,136,-26,True
+Yogi Ferrell,1,1,25,0,Pullup Jump shot,11,-15,111,True
+Yogi Ferrell,3,9,6,0,Pullup Jump shot,17,56,168,True
+Yogi Ferrell,2,8,28,1,Pullup Jump shot,16,89,136,True
+Yogi Ferrell,1,4,30,1,Pullup Jump shot,14,-21,142,True
+Yogi Ferrell,3,5,32,0,Pullup Jump shot,26,157,214,False
+Yogi Ferrell,1,7,54,0,Pullup Jump shot,25,123,222,False
+Yogi Ferrell,1,4,13,1,Pullup Jump shot,18,-125,132,True
+Yogi Ferrell,4,8,33,0,Pullup Jump shot,14,141,49,True
+Yogi Ferrell,2,3,10,1,Pullup Jump shot,15,39,155,True
+Yogi Ferrell,4,9,54,0,Pullup Jump shot,17,-36,167,True
+Yogi Ferrell,1,7,23,0,Pullup Jump shot,17,160,77,True
+Yogi Ferrell,1,6,3,1,Pullup Jump shot,13,132,8,True
+Yogi Ferrell,1,1,5,1,Pullup Jump shot,19,196,-2,True
+Yogi Ferrell,1,5,21,1,Pullup Jump shot,16,-6,160,True
+Yogi Ferrell,3,4,9,0,Pullup Jump shot,18,-85,168,True
+Yogi Ferrell,1,2,0,0,Pullup Jump shot,14,-63,126,True
+Yogi Ferrell,2,3,42,0,Pullup Jump shot,15,151,26,True
+Yogi Ferrell,2,5,23,0,Pullup Jump shot,21,-125,176,True
+Yogi Ferrell,4,5,26,0,Pullup Jump shot,22,115,189,True
+Yogi Ferrell,2,6,56,1,Pullup Jump shot,12,-58,111,True
+Yogi Ferrell,2,0,34,1,Pullup Jump shot,26,-71,251,False
+Yogi Ferrell,3,2,52,0,Pullup Jump shot,14,-147,8,True
+Yogi Ferrell,1,3,3,0,Pullup Jump shot,27,-76,265,False
+Yogi Ferrell,2,4,4,1,Pullup Jump shot,25,-19,251,False
+Yogi Ferrell,2,1,41,1,Pullup Jump shot,21,109,185,True
+Yogi Ferrell,1,8,41,0,Pullup Jump shot,27,-107,250,False
+Yogi Ferrell,4,9,31,1,Pullup Jump shot,17,176,1,True
+Yogi Ferrell,2,3,57,0,Pullup Jump shot,18,68,174,True
+Yogi Ferrell,3,3,33,0,Pullup Jump shot,19,-119,149,True
+Yogi Ferrell,5,2,43,0,Pullup Jump shot,20,-199,38,True
+Yogi Ferrell,2,9,5,1,Pullup Jump shot,14,-59,134,True
+Yogi Ferrell,2,2,36,1,Pullup Jump shot,21,112,184,True
+Yogi Ferrell,2,7,7,0,Pullup Jump shot,16,-18,164,True
+Yogi Ferrell,4,4,40,1,Pullup Jump shot,18,-28,178,True
+Yogi Ferrell,3,0,29,1,Pullup Jump shot,21,-112,180,True
+Yogi Ferrell,3,7,20,0,Pullup Jump shot,23,107,209,True
+Yogi Ferrell,4,6,0,1,Pullup Jump shot,25,22,254,False
+Yogi Ferrell,4,5,9,1,Pullup Jump shot,24,34,240,False
+Yogi Ferrell,2,9,32,0,Pullup Jump shot,26,151,216,False
+Yogi Ferrell,1,2,2,1,Pullup Jump shot,17,63,164,True
+Yogi Ferrell,2,9,16,1,Pullup Jump shot,15,152,20,True
+Yogi Ferrell,3,4,58,0,Pullup Jump shot,17,-93,152,True
+Yogi Ferrell,1,3,54,0,Pullup Jump shot,11,114,-4,True
+Yogi Ferrell,1,8,18,1,Pullup Jump shot,10,-18,101,True
+Yogi Ferrell,2,5,55,0,Pullup Jump shot,18,-145,120,True
+Yogi Ferrell,2,3,21,0,Pullup Jump shot,17,57,164,True
+Yogi Ferrell,4,2,7,1,Pullup Jump shot,26,109,237,False
+Yogi Ferrell,2,5,29,1,Pullup Jump shot,11,86,81,True
+Yogi Ferrell,2,10,41,1,Pullup Jump shot,16,132,99,True
+Yogi Ferrell,1,4,45,1,Pullup Jump shot,14,24,148,True
+Yogi Ferrell,2,9,9,1,Pullup Jump shot,18,31,180,True
+Yogi Ferrell,3,3,37,0,Pullup Jump shot,14,-92,110,True
+Yogi Ferrell,4,8,49,1,Pullup Jump shot,25,-142,209,False
+Yogi Ferrell,2,7,36,0,Pullup Jump shot,16,54,155,True
+Yogi Ferrell,3,2,56,1,Pullup Jump shot,27,-156,226,False
+Yogi Ferrell,2,10,58,0,Pullup Jump shot,19,52,183,True
+Yogi Ferrell,4,7,45,0,Pullup Jump shot,19,54,186,True
+Yogi Ferrell,2,2,48,0,Pullup Jump shot,20,-85,185,True
+Yogi Ferrell,4,9,37,1,Pullup Jump shot,9,75,53,True
+Yogi Ferrell,2,10,3,0,Pullup Jump shot,25,-103,235,False
+Yogi Ferrell,3,1,53,1,Pullup Jump shot,21,101,188,True
+Yogi Ferrell,1,5,11,1,Pullup Jump shot,14,-137,53,True
+Yogi Ferrell,3,1,50,0,Pullup Jump shot,24,-105,222,False
+Yogi Ferrell,1,10,50,1,Pullup Jump shot,18,107,150,True
+Yogi Ferrell,1,5,11,1,Pullup Jump shot,24,-46,240,False
+Yogi Ferrell,3,4,31,0,Pullup Jump shot,17,58,164,True
+Yogi Ferrell,4,5,27,0,Pullup Jump shot,19,193,25,True
+Yogi Ferrell,2,8,4,0,Pullup Jump shot,22,-134,175,True
+Yogi Ferrell,3,0,8,0,Pullup Jump shot,11,-59,96,True
+Yogi Ferrell,1,10,45,1,Pullup Jump shot,26,-6,269,False
+Yogi Ferrell,3,1,29,0,Pullup Jump shot,14,-37,136,True
+Yogi Ferrell,4,0,0,1,Pullup Jump shot,25,96,239,False
+Yogi Ferrell,1,10,55,1,Pullup Jump shot,12,-32,121,True
+Yogi Ferrell,4,3,25,1,Pullup Jump shot,25,-106,236,False
+Yogi Ferrell,3,1,36,1,Pullup Jump shot,22,-228,-8,False
+Yogi Ferrell,1,0,3,1,Pullup Jump shot,16,-103,127,True
+Yogi Ferrell,4,5,34,1,Pullup Jump shot,24,172,178,False
+Yogi Ferrell,4,1,32,0,Pullup Jump shot,16,158,41,True
+Yogi Ferrell,4,6,49,1,Pullup Jump shot,16,84,139,True
+Yogi Ferrell,4,10,41,0,Pullup Jump shot,25,84,236,False
+Yogi Ferrell,1,5,0,0,Pullup Jump shot,20,-138,148,True
+Yogi Ferrell,3,0,53,1,Pullup Jump shot,13,111,78,True
+Yogi Ferrell,4,6,52,1,Pullup Jump shot,24,-120,217,False
+Yogi Ferrell,2,8,22,1,Pullup Jump shot,15,-6,155,True
+Yogi Ferrell,4,4,58,0,Pullup Jump shot,19,-155,110,True
+Yogi Ferrell,4,0,11,0,Pullup Jump shot,26,159,206,False
+Yogi Ferrell,2,11,11,0,Pullup Jump shot,19,158,107,True
+Yogi Ferrell,4,4,37,1,Pullup Jump shot,17,-53,167,True
+Yogi Ferrell,4,7,55,0,Pullup Jump shot,28,-101,262,False
+Yogi Ferrell,1,6,20,0,Pullup Jump shot,26,-33,267,False
+Yogi Ferrell,1,0,33,0,Pullup Jump shot,24,-24,243,False
+Yogi Ferrell,2,5,9,0,Pullup Jump shot,25,198,168,False
+Yogi Ferrell,1,5,47,0,Pullup Jump shot,26,-79,251,False
+Yogi Ferrell,3,3,9,0,Pullup Jump shot,13,-13,138,True
+Yogi Ferrell,4,10,34,0,Pullup Jump shot,19,7,193,True
+Yogi Ferrell,3,9,16,1,Pullup Jump shot,13,117,69,True
+Yogi Ferrell,1,1,9,0,Pullup Jump shot,25,86,238,False
+Yogi Ferrell,1,5,2,0,Pullup Jump shot,16,-30,158,True
+Yogi Ferrell,2,2,32,0,Pullup Jump shot,12,-69,106,True
+Yogi Ferrell,4,4,45,0,Pullup Jump shot,24,-156,193,False
+Yogi Ferrell,2,2,42,0,Pullup Jump shot,17,-176,29,True
+Yogi Ferrell,4,5,59,1,Pullup Jump shot,19,186,63,True
+Yogi Ferrell,3,3,13,0,Pullup Jump shot,15,-128,87,True
+Yogi Ferrell,4,6,16,0,Pullup Jump shot,20,103,177,True
+Yogi Ferrell,3,3,45,1,Pullup Jump shot,25,-192,169,False
+Yogi Ferrell,1,0,58,0,Pullup Jump shot,18,85,165,True
+Yogi Ferrell,4,10,52,1,Pullup Jump shot,19,-10,197,True
+Yogi Ferrell,2,7,44,0,Pullup Jump shot,18,-82,161,True
+Yogi Ferrell,4,9,25,1,Pullup Jump shot,11,30,109,True
+Yogi Ferrell,5,2,38,1,Pullup Jump shot,17,57,168,True
+Yogi Ferrell,3,1,18,1,Pullup Jump shot,15,-154,11,True
+Yogi Ferrell,2,5,2,0,Pullup Jump shot,17,133,113,True
+Yogi Ferrell,2,4,40,0,Pullup Jump shot,19,54,184,True
+Yogi Ferrell,3,4,4,1,Pullup Jump shot,18,100,155,True
+Yogi Ferrell,2,9,26,1,Pullup Jump shot,1,6,15,True
+Yogi Ferrell,3,1,33,1,Pullup Jump shot,16,-119,119,True
+Yogi Ferrell,3,4,40,1,Pullup Jump shot,13,-52,128,True
+Yogi Ferrell,2,9,40,1,Pullup Jump shot,17,-22,178,True
+Yogi Ferrell,1,10,32,1,Pullup Jump shot,20,109,177,True
+Yogi Ferrell,2,1,26,1,Pullup Jump shot,18,-149,104,True
+Yogi Ferrell,2,10,46,0,Pullup Jump shot,24,22,248,False
+Yogi Ferrell,3,5,52,0,Pullup Jump shot,12,-85,88,True
+Yogi Ferrell,2,5,20,0,Pullup Jump shot,25,67,248,False
+Yogi Ferrell,4,4,32,1,Putback Layup Shot,0,0,-6,True
+Yogi Ferrell,1,1,51,0,Reverse Layup Shot,3,27,14,True
+Yogi Ferrell,2,7,3,0,Reverse Layup Shot,0,-2,7,True
+Yogi Ferrell,2,10,52,1,Reverse Layup Shot,2,2,21,True
+Yogi Ferrell,3,10,35,0,Reverse Layup Shot,2,-23,18,True
+Yogi Ferrell,3,10,5,1,Running Finger Roll Layup Shot,1,10,13,True
+Yogi Ferrell,1,3,2,0,Running Finger Roll Layup Shot,1,-1,13,True
+Yogi Ferrell,4,5,45,0,Running Finger Roll Layup Shot,4,34,24,True
+Yogi Ferrell,1,0,0,0,Running Jump Shot,31,-79,302,False
+Yogi Ferrell,2,2,2,1,Running Jump Shot,26,134,227,False
+Yogi Ferrell,1,0,24,0,Running Layup Shot,1,-11,16,True
+Yogi Ferrell,2,8,29,1,Running Layup Shot,0,5,8,True
+Yogi Ferrell,4,4,8,1,Running Layup Shot,0,7,6,True
+Yogi Ferrell,1,1,43,0,Running Layup Shot,0,-8,4,True
+Yogi Ferrell,2,9,43,0,Running Layup Shot,3,-16,33,True
+Yogi Ferrell,1,3,36,1,Running Layup Shot,0,-5,8,True
+Yogi Ferrell,3,5,33,1,Running Layup Shot,1,19,6,True
+Yogi Ferrell,3,0,0,0,Running Layup Shot,1,2,13,True
+Yogi Ferrell,1,5,29,0,Running Layup Shot,2,-20,21,True
+Yogi Ferrell,2,9,4,1,Running Layup Shot,1,-5,12,True
+Yogi Ferrell,1,0,49,0,Running Layup Shot,2,14,17,True
+Yogi Ferrell,4,5,52,0,Running Pull-Up Jump Shot,25,-69,245,False
+Yogi Ferrell,4,7,59,1,Running Pull-Up Jump Shot,24,93,231,False
+Yogi Ferrell,4,5,56,1,Running Pull-Up Jump Shot,24,105,221,False
+Yogi Ferrell,3,0,53,0,Running Pull-Up Jump Shot,26,-169,206,False
+Yogi Ferrell,4,8,54,1,Running Reverse Layup Shot,0,-5,3,True
+Yogi Ferrell,2,10,15,1,Running Reverse Layup Shot,1,-7,13,True
+Yogi Ferrell,4,5,10,1,Running Reverse Layup Shot,2,-12,18,True
+Yogi Ferrell,2,7,5,1,Running Reverse Layup Shot,2,-11,22,True
+Yogi Ferrell,4,1,4,1,Step Back Jump shot,14,39,143,True
+Yogi Ferrell,2,2,45,0,Step Back Jump shot,10,91,48,True
+Yogi Ferrell,4,8,2,1,Step Back Jump shot,26,174,195,False
+Yogi Ferrell,3,0,0,1,Step Back Jump shot,22,-228,-6,False
+Yogi Ferrell,4,7,16,0,Step Back Jump shot,23,-228,58,False
+Yogi Ferrell,4,2,3,1,Step Back Jump shot,24,2,249,False
+Yogi Ferrell,2,11,44,1,Step Back Jump shot,17,16,175,True
+Yogi Ferrell,1,5,6,0,Step Back Jump shot,16,114,120,True
+Yogi Ferrell,2,6,17,1,Step Back Jump shot,25,-110,231,False
+Yogi Ferrell,4,1,38,1,Step Back Jump shot,19,-193,0,True
+Yogi Ferrell,4,10,17,0,Step Back Jump shot,22,-168,145,True
+Yogi Ferrell,4,6,16,1,Step Back Jump shot,19,89,177,True
+Yogi Ferrell,4,5,24,0,Step Back Jump shot,14,131,52,True
+Yogi Ferrell,3,1,13,1,Step Back Jump shot,17,28,168,True
+Yogi Ferrell,3,1,5,1,Step Back Jump shot,19,-194,15,True
+Yogi Ferrell,2,9,28,0,Step Back Jump shot,24,128,214,False
+Yogi Ferrell,1,1,5,0,Step Back Jump shot,24,225,93,False
+Yogi Ferrell,2,1,16,0,Step Back Jump shot,20,-205,-22,True
+Yogi Ferrell,3,11,48,0,Step Back Jump shot,25,-217,126,False
+Yogi Ferrell,4,1,13,1,Step Back Jump shot,21,133,164,True
+Yogi Ferrell,1,4,10,0,Step Back Jump shot,20,44,204,True
+Yogi Ferrell,4,11,16,1,Step Back Jump shot,25,94,241,False
+Yogi Ferrell,1,3,9,0,Step Back Jump shot,19,176,79,True
+Yogi Ferrell,4,6,3,1,Step Back Jump shot,25,-217,139,False
+Yogi Ferrell,2,8,18,0,Step Back Jump shot,20,-63,200,True
+Yogi Ferrell,2,8,42,1,Turnaround Fadeaway Bank Jump Shot,4,25,32,True
+Yogi Ferrell,3,0,25,1,Turnaround Fadeaway Bank Jump Shot,1,14,13,True
+Yogi Ferrell,2,9,39,0,Turnaround Jump Shot,14,-82,124,True
+Yogi Ferrell,4,6,32,0,Turnaround Jump Shot,10,98,29,True
+Yogi Ferrell,3,1,1,0,Turnaround Jump Shot,7,44,63,True

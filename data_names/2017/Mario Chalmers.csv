@@ -1,0 +1,414 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Mario Chalmers,3,4,45,0,Cutting Finger Roll Layup Shot,2,20,6,True
+Mario Chalmers,4,6,11,1,Cutting Finger Roll Layup Shot,1,3,13,True
+Mario Chalmers,2,10,54,1,Cutting Layup Shot,1,5,18,True
+Mario Chalmers,3,7,45,1,Cutting Layup Shot,1,-14,-1,True
+Mario Chalmers,4,4,44,0,Cutting Layup Shot,1,5,14,True
+Mario Chalmers,1,7,41,1,Cutting Layup Shot,2,25,8,True
+Mario Chalmers,4,5,3,1,Cutting Layup Shot,0,0,4,True
+Mario Chalmers,1,2,16,0,Driving Finger Roll Layup Shot,8,6,83,True
+Mario Chalmers,3,10,41,1,Driving Finger Roll Layup Shot,4,-5,44,True
+Mario Chalmers,2,9,6,1,Driving Finger Roll Layup Shot,1,11,13,True
+Mario Chalmers,3,6,54,0,Driving Finger Roll Layup Shot,6,3,62,True
+Mario Chalmers,3,2,40,1,Driving Finger Roll Layup Shot,2,8,25,True
+Mario Chalmers,2,6,51,1,Driving Finger Roll Layup Shot,0,4,-1,True
+Mario Chalmers,2,6,16,1,Driving Finger Roll Layup Shot,3,27,15,True
+Mario Chalmers,2,9,39,1,Driving Finger Roll Layup Shot,1,-18,2,True
+Mario Chalmers,2,4,53,1,Driving Finger Roll Layup Shot,3,27,19,True
+Mario Chalmers,4,9,32,1,Driving Finger Roll Layup Shot,1,-13,8,True
+Mario Chalmers,1,1,24,1,Driving Finger Roll Layup Shot,1,12,11,True
+Mario Chalmers,4,4,21,1,Driving Finger Roll Layup Shot,2,4,22,True
+Mario Chalmers,2,6,12,0,Driving Finger Roll Layup Shot,4,34,24,True
+Mario Chalmers,3,2,12,0,Driving Floating Bank Jump Shot,7,63,44,True
+Mario Chalmers,4,1,22,1,Driving Floating Bank Jump Shot,10,-88,55,True
+Mario Chalmers,3,2,0,1,Driving Floating Bank Jump Shot,11,97,62,True
+Mario Chalmers,1,0,0,1,Driving Floating Bank Jump Shot,8,70,55,True
+Mario Chalmers,2,10,26,0,Driving Floating Bank Jump Shot,10,94,55,True
+Mario Chalmers,2,8,18,0,Driving Floating Bank Jump Shot,11,52,106,True
+Mario Chalmers,1,5,50,0,Driving Floating Bank Jump Shot,10,60,89,True
+Mario Chalmers,3,0,41,1,Driving Floating Bank Jump Shot,5,40,37,True
+Mario Chalmers,1,9,20,0,Driving Floating Jump Shot,1,8,13,True
+Mario Chalmers,3,7,7,0,Driving Floating Jump Shot,10,-61,81,True
+Mario Chalmers,3,2,59,0,Driving Floating Jump Shot,12,-41,113,True
+Mario Chalmers,4,3,42,1,Driving Floating Jump Shot,0,-2,1,True
+Mario Chalmers,1,3,32,1,Driving Floating Jump Shot,8,-66,58,True
+Mario Chalmers,4,2,55,0,Driving Floating Jump Shot,3,15,29,True
+Mario Chalmers,4,3,24,0,Driving Floating Jump Shot,7,44,57,True
+Mario Chalmers,1,3,58,0,Driving Floating Jump Shot,11,-54,104,True
+Mario Chalmers,2,0,0,0,Driving Floating Jump Shot,43,-85,431,False
+Mario Chalmers,1,2,6,1,Driving Floating Jump Shot,7,62,42,True
+Mario Chalmers,4,6,47,0,Driving Floating Jump Shot,7,76,-4,True
+Mario Chalmers,1,3,15,1,Driving Floating Jump Shot,2,-11,21,True
+Mario Chalmers,4,10,47,0,Driving Floating Jump Shot,16,-160,0,True
+Mario Chalmers,2,0,6,1,Driving Floating Jump Shot,16,79,150,True
+Mario Chalmers,4,11,50,1,Driving Floating Jump Shot,1,6,15,True
+Mario Chalmers,3,11,24,0,Driving Floating Jump Shot,6,49,49,True
+Mario Chalmers,1,3,7,1,Driving Floating Jump Shot,11,35,109,True
+Mario Chalmers,2,9,32,0,Driving Floating Jump Shot,4,-23,33,True
+Mario Chalmers,4,0,51,0,Driving Floating Jump Shot,6,60,26,True
+Mario Chalmers,2,10,47,1,Driving Floating Jump Shot,4,-8,49,True
+Mario Chalmers,4,3,26,0,Driving Floating Jump Shot,5,9,59,True
+Mario Chalmers,3,0,0,0,Driving Floating Jump Shot,1,-3,15,True
+Mario Chalmers,1,0,30,0,Driving Floating Jump Shot,10,-64,77,True
+Mario Chalmers,3,5,16,1,Driving Floating Jump Shot,10,-59,82,True
+Mario Chalmers,3,7,53,1,Driving Hook Shot,9,55,73,True
+Mario Chalmers,1,1,51,1,Driving Hook Shot,5,24,53,True
+Mario Chalmers,2,7,49,1,Driving Layup Shot,0,9,1,True
+Mario Chalmers,3,5,5,0,Driving Layup Shot,1,-1,16,True
+Mario Chalmers,1,4,37,0,Driving Layup Shot,4,12,47,True
+Mario Chalmers,2,4,35,1,Driving Layup Shot,1,12,11,True
+Mario Chalmers,3,6,9,0,Driving Layup Shot,1,13,12,True
+Mario Chalmers,4,11,13,0,Driving Layup Shot,2,-16,20,True
+Mario Chalmers,2,4,6,0,Driving Layup Shot,2,17,22,True
+Mario Chalmers,4,10,57,1,Driving Layup Shot,0,-3,8,True
+Mario Chalmers,4,4,11,1,Driving Layup Shot,1,-11,2,True
+Mario Chalmers,2,6,23,1,Driving Layup Shot,1,9,9,True
+Mario Chalmers,3,1,54,0,Driving Layup Shot,3,21,22,True
+Mario Chalmers,2,11,0,1,Driving Layup Shot,1,11,12,True
+Mario Chalmers,1,3,19,1,Driving Layup Shot,1,-7,18,True
+Mario Chalmers,2,10,55,1,Driving Layup Shot,0,-3,3,True
+Mario Chalmers,3,3,56,0,Driving Layup Shot,1,6,13,True
+Mario Chalmers,3,2,27,1,Driving Layup Shot,2,21,11,True
+Mario Chalmers,2,7,18,0,Driving Layup Shot,2,23,15,True
+Mario Chalmers,1,3,23,1,Driving Layup Shot,0,5,7,True
+Mario Chalmers,4,9,26,0,Driving Layup Shot,2,20,7,True
+Mario Chalmers,4,8,32,0,Driving Layup Shot,1,-14,2,True
+Mario Chalmers,4,3,52,1,Driving Layup Shot,1,14,12,True
+Mario Chalmers,2,9,37,0,Driving Layup Shot,2,12,16,True
+Mario Chalmers,2,8,39,0,Driving Layup Shot,6,41,45,True
+Mario Chalmers,1,3,27,1,Driving Layup Shot,0,0,3,True
+Mario Chalmers,3,0,3,0,Driving Layup Shot,2,-23,15,True
+Mario Chalmers,1,9,11,0,Driving Layup Shot,1,6,8,True
+Mario Chalmers,2,5,8,1,Driving Layup Shot,0,-5,3,True
+Mario Chalmers,3,10,34,1,Driving Layup Shot,1,8,11,True
+Mario Chalmers,1,0,0,0,Driving Layup Shot,2,15,15,True
+Mario Chalmers,3,6,24,0,Driving Layup Shot,1,7,11,True
+Mario Chalmers,3,7,16,1,Driving Layup Shot,1,9,11,True
+Mario Chalmers,1,11,23,0,Driving Layup Shot,4,-19,39,True
+Mario Chalmers,3,5,18,1,Driving Layup Shot,1,-6,9,True
+Mario Chalmers,3,7,4,1,Driving Layup Shot,1,-11,5,True
+Mario Chalmers,2,7,42,0,Driving Layup Shot,4,40,3,True
+Mario Chalmers,1,5,23,0,Driving Layup Shot,1,2,16,True
+Mario Chalmers,3,1,6,0,Driving Layup Shot,2,13,16,True
+Mario Chalmers,1,11,5,1,Driving Layup Shot,2,19,11,True
+Mario Chalmers,3,3,5,1,Driving Layup Shot,12,-43,113,True
+Mario Chalmers,3,9,6,0,Driving Layup Shot,3,26,22,True
+Mario Chalmers,4,5,1,0,Driving Layup Shot,2,16,15,True
+Mario Chalmers,1,2,50,0,Driving Layup Shot,1,12,15,True
+Mario Chalmers,1,0,17,0,Driving Layup Shot,2,25,10,True
+Mario Chalmers,1,1,13,0,Driving Layup Shot,2,1,20,True
+Mario Chalmers,2,1,13,1,Driving Layup Shot,1,6,8,True
+Mario Chalmers,4,5,29,1,Driving Layup Shot,1,7,17,True
+Mario Chalmers,2,7,15,1,Driving Layup Shot,1,11,13,True
+Mario Chalmers,2,11,9,0,Driving Layup Shot,1,-8,17,True
+Mario Chalmers,2,7,42,0,Driving Reverse Layup Shot,1,-2,13,True
+Mario Chalmers,2,6,17,0,Driving Reverse Layup Shot,1,3,13,True
+Mario Chalmers,3,0,22,0,Driving Reverse Layup Shot,1,-9,13,True
+Mario Chalmers,1,2,53,0,Driving Reverse Layup Shot,1,0,13,True
+Mario Chalmers,2,7,36,0,Driving Reverse Layup Shot,0,-3,3,True
+Mario Chalmers,3,7,43,1,Driving Reverse Layup Shot,0,-2,2,True
+Mario Chalmers,1,3,38,0,Driving Reverse Layup Shot,2,27,8,True
+Mario Chalmers,3,7,26,0,Driving Reverse Layup Shot,1,-15,-1,True
+Mario Chalmers,3,0,33,1,Driving Reverse Layup Shot,4,30,27,True
+Mario Chalmers,4,7,54,1,Driving Reverse Layup Shot,2,23,11,True
+Mario Chalmers,1,4,41,1,Driving Reverse Layup Shot,1,-3,15,True
+Mario Chalmers,1,6,21,0,Driving Reverse Layup Shot,2,22,20,True
+Mario Chalmers,3,4,36,0,Driving Reverse Layup Shot,1,-11,4,True
+Mario Chalmers,4,10,33,1,Driving Reverse Layup Shot,1,-9,10,True
+Mario Chalmers,2,8,44,1,Fadeaway Jump Shot,12,-31,119,True
+Mario Chalmers,2,5,2,1,Fadeaway Jump Shot,9,90,-4,True
+Mario Chalmers,2,3,2,0,Fadeaway Jump Shot,12,-52,109,True
+Mario Chalmers,1,1,24,0,Fadeaway Jump Shot,6,-67,-1,True
+Mario Chalmers,1,0,1,0,Finger Roll Layup Shot,6,5,67,True
+Mario Chalmers,4,4,49,0,Floating Jump shot,12,-2,121,True
+Mario Chalmers,3,2,55,0,Floating Jump shot,12,63,106,True
+Mario Chalmers,2,5,38,1,Floating Jump shot,10,28,103,True
+Mario Chalmers,2,3,43,0,Floating Jump shot,11,-6,111,True
+Mario Chalmers,1,9,30,0,Floating Jump shot,6,64,16,True
+Mario Chalmers,2,11,47,1,Floating Jump shot,9,-11,97,True
+Mario Chalmers,2,9,19,1,Floating Jump shot,13,21,134,True
+Mario Chalmers,4,1,47,1,Floating Jump shot,8,-22,84,True
+Mario Chalmers,3,5,38,1,Floating Jump shot,11,29,107,True
+Mario Chalmers,4,4,12,0,Floating Jump shot,8,-2,80,True
+Mario Chalmers,4,7,44,0,Floating Jump shot,7,-22,73,True
+Mario Chalmers,1,1,33,0,Floating Jump shot,15,94,119,True
+Mario Chalmers,3,2,36,0,Floating Jump shot,12,-47,121,True
+Mario Chalmers,3,5,51,1,Floating Jump shot,15,30,148,True
+Mario Chalmers,1,0,33,0,Floating Jump shot,5,-4,59,True
+Mario Chalmers,4,1,44,1,Floating Jump shot,6,58,-26,True
+Mario Chalmers,3,2,7,0,Floating Jump shot,7,41,58,True
+Mario Chalmers,4,1,42,1,Floating Jump shot,10,-56,89,True
+Mario Chalmers,1,6,37,0,Floating Jump shot,6,68,13,True
+Mario Chalmers,2,8,8,1,Floating Jump shot,4,38,23,True
+Mario Chalmers,4,8,51,0,Hook Shot,10,102,11,True
+Mario Chalmers,2,2,19,1,Jump Bank Shot,11,98,51,True
+Mario Chalmers,2,8,24,1,Jump Shot,25,236,92,False
+Mario Chalmers,4,6,31,0,Jump Shot,24,-70,235,False
+Mario Chalmers,2,8,40,0,Jump Shot,25,86,239,False
+Mario Chalmers,4,9,12,1,Jump Shot,25,225,115,False
+Mario Chalmers,2,5,15,1,Jump Shot,25,-89,244,False
+Mario Chalmers,2,10,7,1,Jump Shot,20,-92,186,True
+Mario Chalmers,1,0,58,0,Jump Shot,25,80,242,False
+Mario Chalmers,1,2,54,0,Jump Shot,25,-119,231,False
+Mario Chalmers,4,2,45,0,Jump Shot,22,-225,26,False
+Mario Chalmers,4,0,32,1,Jump Shot,25,174,193,False
+Mario Chalmers,4,11,23,0,Jump Shot,26,25,264,False
+Mario Chalmers,2,6,31,0,Jump Shot,10,103,-26,True
+Mario Chalmers,2,3,58,0,Jump Shot,25,-105,234,False
+Mario Chalmers,2,4,11,1,Jump Shot,24,-210,128,False
+Mario Chalmers,3,6,35,0,Jump Shot,13,-134,-10,True
+Mario Chalmers,3,10,29,1,Jump Shot,23,-233,-10,False
+Mario Chalmers,2,9,51,1,Jump Shot,20,157,134,True
+Mario Chalmers,2,0,34,1,Jump Shot,5,-11,58,True
+Mario Chalmers,1,1,53,0,Jump Shot,25,-175,183,False
+Mario Chalmers,3,8,5,1,Jump Shot,21,-78,199,True
+Mario Chalmers,3,1,43,0,Jump Shot,22,-224,20,False
+Mario Chalmers,4,6,56,0,Jump Shot,25,124,227,False
+Mario Chalmers,3,4,54,0,Jump Shot,25,-147,205,False
+Mario Chalmers,3,1,55,0,Jump Shot,28,-84,268,False
+Mario Chalmers,4,7,15,1,Jump Shot,27,193,195,False
+Mario Chalmers,3,3,30,0,Jump Shot,25,105,236,False
+Mario Chalmers,4,6,12,1,Jump Shot,27,89,258,False
+Mario Chalmers,4,5,24,0,Jump Shot,26,115,242,False
+Mario Chalmers,3,8,40,1,Jump Shot,25,-212,142,False
+Mario Chalmers,2,5,35,1,Jump Shot,23,231,18,False
+Mario Chalmers,2,8,40,1,Jump Shot,26,-136,230,False
+Mario Chalmers,4,6,42,0,Jump Shot,25,-117,225,False
+Mario Chalmers,4,6,5,0,Jump Shot,26,51,260,False
+Mario Chalmers,1,10,48,1,Jump Shot,24,-238,31,False
+Mario Chalmers,4,9,53,1,Jump Shot,25,-161,196,False
+Mario Chalmers,1,9,44,0,Jump Shot,25,-154,208,False
+Mario Chalmers,4,5,35,0,Jump Shot,25,-223,115,False
+Mario Chalmers,2,2,16,0,Jump Shot,26,-78,250,False
+Mario Chalmers,3,8,6,0,Jump Shot,25,88,235,False
+Mario Chalmers,4,10,37,1,Jump Shot,25,76,246,False
+Mario Chalmers,2,9,56,0,Jump Shot,25,235,105,False
+Mario Chalmers,3,3,17,0,Jump Shot,24,-240,32,False
+Mario Chalmers,1,4,3,1,Jump Shot,25,-61,243,False
+Mario Chalmers,1,2,42,0,Jump Shot,25,114,232,False
+Mario Chalmers,3,7,36,0,Jump Shot,22,-229,8,False
+Mario Chalmers,2,5,4,0,Jump Shot,24,-194,153,False
+Mario Chalmers,1,2,22,0,Jump Shot,23,228,33,False
+Mario Chalmers,4,0,53,0,Jump Shot,10,-47,98,True
+Mario Chalmers,1,4,40,1,Jump Shot,16,156,58,True
+Mario Chalmers,4,2,57,0,Jump Shot,24,-123,216,False
+Mario Chalmers,4,0,0,1,Jump Shot,33,-10,330,False
+Mario Chalmers,1,2,14,0,Jump Shot,23,-226,74,False
+Mario Chalmers,2,8,3,1,Jump Shot,25,167,188,False
+Mario Chalmers,3,4,58,0,Jump Shot,23,-231,0,False
+Mario Chalmers,2,5,6,0,Jump Shot,23,-232,-2,False
+Mario Chalmers,1,3,5,1,Jump Shot,23,231,0,False
+Mario Chalmers,1,3,7,1,Jump Shot,24,160,188,False
+Mario Chalmers,2,8,22,0,Jump Shot,22,84,209,True
+Mario Chalmers,4,10,44,1,Jump Shot,23,230,-10,False
+Mario Chalmers,2,5,52,0,Jump Shot,26,-56,258,False
+Mario Chalmers,1,5,16,0,Jump Shot,23,230,1,False
+Mario Chalmers,2,3,57,0,Jump Shot,24,-27,247,False
+Mario Chalmers,3,0,53,1,Jump Shot,20,97,178,True
+Mario Chalmers,1,5,30,0,Jump Shot,25,125,226,False
+Mario Chalmers,2,5,25,1,Jump Shot,22,-227,3,False
+Mario Chalmers,1,6,15,0,Jump Shot,23,228,74,False
+Mario Chalmers,1,1,18,1,Jump Shot,24,223,98,False
+Mario Chalmers,3,0,33,0,Jump Shot,22,-228,7,False
+Mario Chalmers,4,0,25,0,Jump Shot,23,237,-16,False
+Mario Chalmers,3,3,41,0,Jump Shot,26,-33,264,False
+Mario Chalmers,1,5,57,0,Jump Shot,14,89,113,True
+Mario Chalmers,3,4,23,1,Jump Shot,25,-46,252,False
+Mario Chalmers,4,4,7,0,Jump Shot,25,103,228,False
+Mario Chalmers,1,0,17,0,Jump Shot,25,-95,241,False
+Mario Chalmers,2,0,0,0,Jump Shot,71,-123,704,False
+Mario Chalmers,3,0,59,0,Jump Shot,27,152,232,False
+Mario Chalmers,4,0,32,0,Jump Shot,24,-81,232,False
+Mario Chalmers,3,6,44,1,Jump Shot,25,-222,120,False
+Mario Chalmers,4,0,6,0,Jump Shot,27,-173,208,False
+Mario Chalmers,3,1,2,0,Jump Shot,25,58,252,False
+Mario Chalmers,3,4,15,0,Jump Shot,25,-78,245,False
+Mario Chalmers,1,0,52,1,Jump Shot,25,-111,230,False
+Mario Chalmers,1,2,6,1,Jump Shot,24,-228,86,False
+Mario Chalmers,4,10,52,0,Jump Shot,7,-2,76,True
+Mario Chalmers,3,0,0,0,Jump Shot,18,149,110,True
+Mario Chalmers,4,9,10,1,Jump Shot,24,229,74,False
+Mario Chalmers,1,0,1,0,Jump Shot,31,-169,268,False
+Mario Chalmers,2,4,3,1,Jump Shot,24,-210,127,False
+Mario Chalmers,4,11,39,0,Jump Shot,11,-35,105,True
+Mario Chalmers,4,2,37,1,Jump Shot,25,-187,180,False
+Mario Chalmers,4,1,45,0,Jump Shot,25,80,243,False
+Mario Chalmers,3,1,6,0,Jump Shot,25,122,221,False
+Mario Chalmers,1,6,22,1,Jump Shot,26,68,257,False
+Mario Chalmers,1,4,25,0,Jump Shot,23,-227,40,False
+Mario Chalmers,4,2,19,1,Jump Shot,23,232,-2,False
+Mario Chalmers,3,5,0,0,Jump Shot,23,236,27,False
+Mario Chalmers,4,1,22,0,Jump Shot,27,74,262,False
+Mario Chalmers,4,9,49,0,Jump Shot,25,-147,209,False
+Mario Chalmers,3,0,0,0,Jump Shot,51,-168,484,False
+Mario Chalmers,4,7,27,0,Jump Shot,25,157,198,False
+Mario Chalmers,4,7,21,0,Jump Shot,26,49,259,False
+Mario Chalmers,4,10,44,0,Jump Shot,27,-57,264,False
+Mario Chalmers,1,0,6,0,Jump Shot,25,-58,247,False
+Mario Chalmers,2,7,4,1,Jump Shot,22,-225,20,False
+Mario Chalmers,1,6,57,0,Jump Shot,22,229,1,False
+Mario Chalmers,1,5,12,0,Jump Shot,25,89,234,False
+Mario Chalmers,3,5,16,0,Jump Shot,25,117,230,False
+Mario Chalmers,4,3,18,0,Jump Shot,23,238,-15,False
+Mario Chalmers,1,5,13,1,Jump Shot,25,-16,250,False
+Mario Chalmers,4,0,10,1,Jump Shot,26,-171,196,False
+Mario Chalmers,3,0,1,0,Jump Shot,23,234,-20,False
+Mario Chalmers,3,0,0,0,Jump Shot,63,7,637,False
+Mario Chalmers,3,2,31,0,Jump Shot,23,222,91,False
+Mario Chalmers,1,1,16,0,Jump Shot,15,-75,132,True
+Mario Chalmers,1,3,13,1,Jump Shot,1,-15,10,True
+Mario Chalmers,2,3,2,0,Jump Shot,25,163,200,False
+Mario Chalmers,3,0,43,0,Jump Shot,25,-145,209,False
+Mario Chalmers,3,3,9,0,Jump Shot,25,119,225,False
+Mario Chalmers,4,1,5,0,Jump Shot,25,-27,252,False
+Mario Chalmers,1,9,39,1,Jump Shot,26,52,257,False
+Mario Chalmers,1,5,42,0,Jump Shot,24,159,189,False
+Mario Chalmers,4,1,8,0,Jump Shot,26,-76,249,False
+Mario Chalmers,2,5,8,0,Jump Shot,22,-227,-17,False
+Mario Chalmers,1,5,14,0,Jump Shot,22,-227,-22,False
+Mario Chalmers,3,4,9,0,Jump Shot,25,-114,231,False
+Mario Chalmers,3,5,37,0,Jump Shot,26,-123,237,False
+Mario Chalmers,1,5,47,0,Jump Shot,22,-228,-20,False
+Mario Chalmers,1,8,10,0,Jump Shot,23,233,-14,False
+Mario Chalmers,2,3,14,1,Jump Shot,26,188,186,False
+Mario Chalmers,3,6,16,0,Jump Shot,19,105,163,True
+Mario Chalmers,4,0,27,0,Jump Shot,25,-2,256,False
+Mario Chalmers,3,9,2,0,Jump Shot,25,230,117,False
+Mario Chalmers,2,1,54,0,Jump Shot,25,7,258,False
+Mario Chalmers,4,8,26,0,Jump Shot,25,161,193,False
+Mario Chalmers,4,1,41,0,Jump Shot,25,-120,227,False
+Mario Chalmers,1,7,58,0,Jump Shot,25,-9,257,False
+Mario Chalmers,4,4,55,0,Jump Shot,25,217,128,False
+Mario Chalmers,4,5,16,0,Jump Shot,23,233,-27,False
+Mario Chalmers,2,4,26,1,Jump Shot,12,-98,78,True
+Mario Chalmers,2,11,30,0,Jump Shot,23,-232,19,False
+Mario Chalmers,2,4,57,1,Jump Shot,27,-122,242,False
+Mario Chalmers,3,2,53,0,Jump Shot,25,-138,212,False
+Mario Chalmers,1,5,6,1,Jump Shot,26,110,236,False
+Mario Chalmers,4,7,39,1,Jump Shot,19,-111,156,True
+Mario Chalmers,1,0,22,0,Jump Shot,25,57,253,False
+Mario Chalmers,4,9,10,0,Jump Shot,27,-59,264,False
+Mario Chalmers,1,2,52,0,Jump Shot,24,-225,100,False
+Mario Chalmers,2,5,22,0,Jump Shot,25,-133,214,False
+Mario Chalmers,4,9,39,0,Jump Shot,22,-227,21,False
+Mario Chalmers,3,1,48,1,Jump Shot,14,-131,50,True
+Mario Chalmers,1,4,50,1,Jump Shot,24,198,148,False
+Mario Chalmers,3,3,41,0,Jump Shot,20,-203,-1,True
+Mario Chalmers,3,7,32,0,Jump Shot,23,225,50,False
+Mario Chalmers,4,0,17,0,Jump Shot,25,25,257,False
+Mario Chalmers,3,1,33,0,Jump Shot,26,80,249,False
+Mario Chalmers,3,2,23,0,Jump Shot,26,-152,221,False
+Mario Chalmers,1,1,44,0,Jump Shot,26,68,253,False
+Mario Chalmers,4,5,26,1,Jump Shot,26,-90,253,False
+Mario Chalmers,4,10,45,1,Jump Shot,23,232,4,False
+Mario Chalmers,4,4,12,0,Jump Shot,23,233,-6,False
+Mario Chalmers,1,4,37,0,Jump Shot,23,-232,8,False
+Mario Chalmers,3,3,55,0,Jump Shot,25,62,244,False
+Mario Chalmers,3,0,52,0,Jump Shot,4,-8,49,True
+Mario Chalmers,4,11,37,0,Jump Shot,27,-117,254,False
+Mario Chalmers,4,7,42,1,Jump Shot,21,-92,195,True
+Mario Chalmers,4,8,12,0,Jump Shot,20,-206,8,True
+Mario Chalmers,1,0,50,1,Jump Shot,25,195,169,False
+Mario Chalmers,2,8,2,0,Jump Shot,25,23,253,False
+Mario Chalmers,1,1,39,0,Jump Shot,25,-13,258,False
+Mario Chalmers,3,0,0,0,Jump Shot,44,103,436,False
+Mario Chalmers,4,1,15,0,Jump Shot,25,-5,257,False
+Mario Chalmers,4,5,46,1,Jump Shot,24,198,151,False
+Mario Chalmers,4,9,5,0,Jump Shot,24,49,244,False
+Mario Chalmers,2,3,47,0,Jump Shot,26,-138,232,False
+Mario Chalmers,4,9,49,0,Jump Shot,24,201,147,False
+Mario Chalmers,2,7,58,1,Layup Shot,1,0,19,True
+Mario Chalmers,1,1,13,1,Layup Shot,0,-2,8,True
+Mario Chalmers,4,3,53,0,Layup Shot,1,0,17,True
+Mario Chalmers,3,0,10,0,Layup Shot,1,-14,1,True
+Mario Chalmers,1,2,4,0,Layup Shot,4,-25,36,True
+Mario Chalmers,1,3,40,1,Layup Shot,0,5,-3,True
+Mario Chalmers,2,5,41,0,Layup Shot,6,46,41,True
+Mario Chalmers,4,7,30,0,Layup Shot,4,45,11,True
+Mario Chalmers,1,0,1,0,Layup Shot,3,9,30,True
+Mario Chalmers,1,0,28,1,Layup Shot,1,10,10,True
+Mario Chalmers,3,5,0,1,Layup Shot,3,-17,27,True
+Mario Chalmers,1,3,16,1,Layup Shot,1,-6,15,True
+Mario Chalmers,3,6,45,0,Layup Shot,3,26,25,True
+Mario Chalmers,4,11,26,0,Layup Shot,5,-13,50,True
+Mario Chalmers,3,3,52,0,Layup Shot,0,2,7,True
+Mario Chalmers,1,0,11,0,Pullup Jump shot,19,82,173,True
+Mario Chalmers,2,7,42,1,Pullup Jump shot,10,20,102,True
+Mario Chalmers,4,0,49,0,Pullup Jump shot,18,-99,151,True
+Mario Chalmers,4,9,28,0,Pullup Jump shot,26,29,262,False
+Mario Chalmers,3,0,23,0,Pullup Jump shot,22,-83,214,True
+Mario Chalmers,4,11,22,0,Pullup Jump shot,24,236,78,False
+Mario Chalmers,2,1,41,1,Pullup Jump shot,14,65,127,True
+Mario Chalmers,1,0,1,0,Pullup Jump shot,25,0,256,False
+Mario Chalmers,1,0,35,1,Pullup Jump shot,19,40,188,True
+Mario Chalmers,1,4,26,0,Pullup Jump shot,28,-100,269,False
+Mario Chalmers,3,0,1,0,Pullup Jump shot,17,85,157,True
+Mario Chalmers,2,10,19,0,Pullup Jump shot,24,98,224,False
+Mario Chalmers,1,0,7,1,Pullup Jump shot,18,-98,156,True
+Mario Chalmers,2,9,1,0,Pullup Jump shot,25,-47,253,False
+Mario Chalmers,2,5,14,0,Pullup Jump shot,27,40,273,False
+Mario Chalmers,2,11,31,0,Pullup Jump shot,16,-35,158,True
+Mario Chalmers,4,1,57,1,Pullup Jump shot,26,-107,244,False
+Mario Chalmers,1,8,44,1,Pullup Jump shot,20,-49,204,True
+Mario Chalmers,1,3,12,0,Pullup Jump shot,16,14,166,True
+Mario Chalmers,4,8,34,0,Pullup Jump shot,19,107,161,True
+Mario Chalmers,1,4,12,1,Pullup Jump shot,15,-145,50,True
+Mario Chalmers,3,1,38,0,Pullup Jump shot,14,44,143,True
+Mario Chalmers,2,10,47,0,Pullup Jump shot,11,-36,104,True
+Mario Chalmers,2,1,48,1,Pullup Jump shot,10,72,82,True
+Mario Chalmers,3,6,41,0,Pullup Jump shot,25,88,243,False
+Mario Chalmers,2,0,58,0,Pullup Jump shot,17,98,140,True
+Mario Chalmers,2,5,52,1,Pullup Jump shot,13,70,110,True
+Mario Chalmers,3,10,46,0,Pullup Jump shot,7,-36,69,True
+Mario Chalmers,3,3,16,0,Pullup Jump shot,27,-89,256,False
+Mario Chalmers,2,11,25,0,Pullup Jump shot,12,-81,99,True
+Mario Chalmers,3,2,39,1,Pullup Jump shot,21,-93,193,True
+Mario Chalmers,2,1,47,0,Pullup Jump shot,14,-14,143,True
+Mario Chalmers,2,3,28,1,Reverse Layup Shot,2,20,10,True
+Mario Chalmers,2,1,40,0,Reverse Layup Shot,1,-9,8,True
+Mario Chalmers,2,10,15,0,Reverse Layup Shot,1,8,10,True
+Mario Chalmers,1,0,0,0,Running Jump Shot,66,-199,631,False
+Mario Chalmers,1,6,49,0,Running Jump Shot,25,-109,231,False
+Mario Chalmers,3,0,0,0,Running Jump Shot,50,-179,468,False
+Mario Chalmers,3,1,4,0,Running Jump Shot,26,122,236,False
+Mario Chalmers,1,0,0,0,Running Jump Shot,25,-97,240,False
+Mario Chalmers,1,7,32,0,Running Jump Shot,8,-22,82,True
+Mario Chalmers,2,3,8,0,Running Jump Shot,7,51,50,True
+Mario Chalmers,3,6,48,0,Running Jump Shot,24,222,97,False
+Mario Chalmers,3,8,55,0,Running Jump Shot,7,-43,59,True
+Mario Chalmers,4,0,46,0,Running Jump Shot,23,232,-10,False
+Mario Chalmers,2,0,0,0,Running Jump Shot,42,153,395,False
+Mario Chalmers,1,1,8,0,Running Jump Shot,26,136,229,False
+Mario Chalmers,2,0,1,0,Running Jump Shot,37,-8,379,False
+Mario Chalmers,4,0,30,0,Running Layup Shot,1,6,11,True
+Mario Chalmers,4,10,20,0,Running Layup Shot,5,20,53,True
+Mario Chalmers,3,2,42,1,Running Layup Shot,1,-11,14,True
+Mario Chalmers,3,4,56,0,Running Layup Shot,3,-18,27,True
+Mario Chalmers,2,9,1,1,Running Layup Shot,1,11,13,True
+Mario Chalmers,1,5,12,0,Running Layup Shot,5,34,42,True
+Mario Chalmers,3,8,17,1,Running Layup Shot,3,20,32,True
+Mario Chalmers,3,3,41,0,Running Layup Shot,0,3,-8,True
+Mario Chalmers,4,10,55,1,Running Layup Shot,0,0,-1,True
+Mario Chalmers,2,2,39,1,Running Layup Shot,0,-3,-1,True
+Mario Chalmers,3,4,1,0,Running Layup Shot,1,13,10,True
+Mario Chalmers,4,5,42,0,Running Pull-Up Jump Shot,24,-135,206,False
+Mario Chalmers,4,0,30,0,Running Pull-Up Jump Shot,12,7,121,True
+Mario Chalmers,4,2,21,1,Running Reverse Layup Shot,0,2,8,True
+Mario Chalmers,1,4,37,1,Running Reverse Layup Shot,2,17,20,True
+Mario Chalmers,1,1,59,1,Running Reverse Layup Shot,1,8,8,True
+Mario Chalmers,3,0,0,0,Step Back Jump shot,20,-189,75,True
+Mario Chalmers,2,2,58,1,Step Back Jump shot,20,122,162,True
+Mario Chalmers,3,7,15,1,Step Back Jump shot,22,226,1,False
+Mario Chalmers,4,7,32,1,Step Back Jump shot,24,-217,122,False
+Mario Chalmers,1,0,3,0,Step Back Jump shot,17,-94,151,True
+Mario Chalmers,1,0,56,1,Step Back Jump shot,21,8,211,True
+Mario Chalmers,4,11,44,0,Step Back Jump shot,25,109,228,False
+Mario Chalmers,3,2,29,0,Step Back Jump shot,14,141,46,True
+Mario Chalmers,4,8,27,0,Step Back Jump shot,10,90,46,True
+Mario Chalmers,3,3,7,1,Step Back Jump shot,27,-60,272,False
+Mario Chalmers,4,11,39,0,Step Back Jump shot,19,-170,101,True
+Mario Chalmers,1,0,2,0,Step Back Jump shot,26,-37,262,False
+Mario Chalmers,3,5,16,1,Step Back Jump shot,21,107,187,True
+Mario Chalmers,4,1,52,0,Step Back Jump shot,20,-21,204,True
+Mario Chalmers,1,3,39,0,Step Back Jump shot,10,107,7,True
+Mario Chalmers,1,7,28,0,Step Back Jump shot,24,-193,146,False

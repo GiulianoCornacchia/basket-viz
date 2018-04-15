@@ -1,0 +1,401 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Kyle Anderson,3,3,54,0,Alley Oop Dunk Shot,1,-2,13,True
+Kyle Anderson,1,9,53,0,Alley Oop Layup shot,1,12,0,True
+Kyle Anderson,1,4,45,0,Alley Oop Layup shot,2,20,16,True
+Kyle Anderson,2,4,27,1,Alley Oop Layup shot,1,9,6,True
+Kyle Anderson,1,7,36,0,Alley Oop Layup shot,2,20,5,True
+Kyle Anderson,3,10,34,1,Cutting Dunk Shot,0,-2,4,True
+Kyle Anderson,1,5,9,1,Cutting Dunk Shot,2,13,22,True
+Kyle Anderson,3,10,6,1,Cutting Dunk Shot,1,-6,10,True
+Kyle Anderson,4,10,22,1,Cutting Finger Roll Layup Shot,0,0,-1,True
+Kyle Anderson,3,6,22,1,Cutting Finger Roll Layup Shot,1,-6,8,True
+Kyle Anderson,3,7,25,1,Cutting Layup Shot,2,22,0,True
+Kyle Anderson,2,6,33,1,Cutting Layup Shot,1,-3,17,True
+Kyle Anderson,3,1,8,0,Cutting Layup Shot,1,-15,9,True
+Kyle Anderson,3,11,2,0,Cutting Layup Shot,2,-13,16,True
+Kyle Anderson,3,9,4,1,Cutting Layup Shot,1,0,16,True
+Kyle Anderson,3,3,17,1,Cutting Layup Shot,4,-13,44,True
+Kyle Anderson,3,9,41,1,Cutting Layup Shot,1,-4,15,True
+Kyle Anderson,3,5,36,1,Cutting Layup Shot,1,-4,15,True
+Kyle Anderson,3,6,38,1,Cutting Layup Shot,1,2,10,True
+Kyle Anderson,3,9,40,1,Cutting Layup Shot,0,2,1,True
+Kyle Anderson,3,6,7,1,Cutting Layup Shot,0,-6,2,True
+Kyle Anderson,4,2,40,1,Cutting Layup Shot,2,8,21,True
+Kyle Anderson,2,9,18,1,Driving Dunk Shot,0,-2,5,True
+Kyle Anderson,3,1,10,1,Driving Dunk Shot,0,9,3,True
+Kyle Anderson,1,8,22,1,Driving Finger Roll Layup Shot,2,9,21,True
+Kyle Anderson,3,0,51,0,Driving Finger Roll Layup Shot,1,-10,1,True
+Kyle Anderson,3,3,41,1,Driving Finger Roll Layup Shot,3,35,10,True
+Kyle Anderson,1,10,52,0,Driving Finger Roll Layup Shot,1,0,17,True
+Kyle Anderson,3,2,17,1,Driving Finger Roll Layup Shot,2,13,25,True
+Kyle Anderson,4,5,5,1,Driving Finger Roll Layup Shot,1,-14,0,True
+Kyle Anderson,2,5,33,0,Driving Finger Roll Layup Shot,2,-20,9,True
+Kyle Anderson,2,4,15,0,Driving Finger Roll Layup Shot,1,-14,5,True
+Kyle Anderson,4,3,44,1,Driving Finger Roll Layup Shot,3,-36,3,True
+Kyle Anderson,4,11,15,1,Driving Finger Roll Layup Shot,4,-14,42,True
+Kyle Anderson,4,2,14,1,Driving Finger Roll Layup Shot,1,0,10,True
+Kyle Anderson,2,7,35,1,Driving Finger Roll Layup Shot,0,-7,7,True
+Kyle Anderson,1,10,20,1,Driving Finger Roll Layup Shot,1,6,15,True
+Kyle Anderson,1,11,7,0,Driving Finger Roll Layup Shot,0,6,6,True
+Kyle Anderson,4,3,8,1,Driving Finger Roll Layup Shot,0,7,0,True
+Kyle Anderson,4,11,15,1,Driving Finger Roll Layup Shot,3,30,-4,True
+Kyle Anderson,1,7,43,1,Driving Floating Bank Jump Shot,5,-55,4,True
+Kyle Anderson,1,6,38,0,Driving Floating Bank Jump Shot,8,81,37,True
+Kyle Anderson,2,0,40,1,Driving Floating Bank Jump Shot,3,-7,38,True
+Kyle Anderson,2,6,32,0,Driving Floating Bank Jump Shot,4,47,15,True
+Kyle Anderson,3,4,22,1,Driving Floating Bank Jump Shot,9,76,50,True
+Kyle Anderson,2,9,14,0,Driving Floating Bank Jump Shot,10,-1,101,True
+Kyle Anderson,1,5,48,1,Driving Floating Bank Jump Shot,6,48,47,True
+Kyle Anderson,1,2,52,0,Driving Floating Bank Jump Shot,1,10,4,True
+Kyle Anderson,1,3,24,1,Driving Floating Bank Jump Shot,11,90,69,True
+Kyle Anderson,3,8,37,1,Driving Floating Bank Jump Shot,7,60,50,True
+Kyle Anderson,3,11,27,0,Driving Floating Jump Shot,7,-18,74,True
+Kyle Anderson,2,5,29,1,Driving Floating Jump Shot,1,-12,12,True
+Kyle Anderson,2,8,12,1,Driving Floating Jump Shot,7,70,-8,True
+Kyle Anderson,1,10,5,0,Driving Floating Jump Shot,6,63,7,True
+Kyle Anderson,3,10,5,0,Driving Floating Jump Shot,10,18,101,True
+Kyle Anderson,1,8,10,1,Driving Floating Jump Shot,10,56,87,True
+Kyle Anderson,2,4,44,0,Driving Floating Jump Shot,5,30,47,True
+Kyle Anderson,2,2,50,1,Driving Floating Jump Shot,5,11,50,True
+Kyle Anderson,1,6,22,0,Driving Floating Jump Shot,8,-12,89,True
+Kyle Anderson,1,11,39,0,Driving Floating Jump Shot,12,-2,121,True
+Kyle Anderson,4,5,51,1,Driving Floating Jump Shot,9,90,6,True
+Kyle Anderson,4,3,59,1,Driving Floating Jump Shot,11,83,77,True
+Kyle Anderson,1,8,13,0,Driving Floating Jump Shot,6,-29,63,True
+Kyle Anderson,4,7,26,0,Driving Floating Jump Shot,5,-2,53,True
+Kyle Anderson,1,6,10,0,Driving Hook Shot,6,-13,67,True
+Kyle Anderson,2,3,17,0,Driving Hook Shot,0,-2,5,True
+Kyle Anderson,2,5,16,1,Driving Hook Shot,4,16,42,True
+Kyle Anderson,1,10,32,1,Driving Hook Shot,6,10,65,True
+Kyle Anderson,4,8,25,0,Driving Layup Shot,4,24,37,True
+Kyle Anderson,1,11,45,0,Driving Layup Shot,1,-10,8,True
+Kyle Anderson,4,7,13,1,Driving Layup Shot,1,17,3,True
+Kyle Anderson,2,6,5,0,Driving Layup Shot,4,-3,48,True
+Kyle Anderson,2,0,51,0,Driving Layup Shot,2,20,22,True
+Kyle Anderson,2,4,12,0,Driving Layup Shot,0,0,8,True
+Kyle Anderson,1,11,50,1,Driving Layup Shot,1,15,7,True
+Kyle Anderson,3,1,44,1,Driving Layup Shot,2,-23,1,True
+Kyle Anderson,4,3,52,1,Driving Layup Shot,2,-22,1,True
+Kyle Anderson,1,2,16,1,Driving Layup Shot,0,0,4,True
+Kyle Anderson,2,5,5,1,Driving Layup Shot,1,18,-3,True
+Kyle Anderson,4,10,14,1,Driving Layup Shot,1,-13,12,True
+Kyle Anderson,4,3,25,0,Driving Layup Shot,2,-16,22,True
+Kyle Anderson,3,10,11,0,Driving Layup Shot,1,0,10,True
+Kyle Anderson,3,5,29,1,Driving Layup Shot,0,-9,-1,True
+Kyle Anderson,2,7,38,1,Driving Layup Shot,3,3,32,True
+Kyle Anderson,3,3,50,0,Driving Layup Shot,1,-18,6,True
+Kyle Anderson,2,9,27,0,Driving Layup Shot,1,-14,8,True
+Kyle Anderson,1,8,37,0,Driving Layup Shot,9,-13,94,True
+Kyle Anderson,3,7,28,1,Driving Layup Shot,0,-3,-4,True
+Kyle Anderson,4,6,32,0,Driving Layup Shot,1,3,12,True
+Kyle Anderson,3,10,26,1,Driving Layup Shot,3,14,27,True
+Kyle Anderson,1,7,53,0,Driving Layup Shot,3,-6,31,True
+Kyle Anderson,4,10,30,0,Driving Layup Shot,1,13,5,True
+Kyle Anderson,2,1,0,1,Driving Layup Shot,3,-33,15,True
+Kyle Anderson,3,11,24,1,Driving Layup Shot,0,-6,3,True
+Kyle Anderson,1,5,40,1,Driving Layup Shot,2,-9,19,True
+Kyle Anderson,3,9,27,1,Driving Layup Shot,0,1,9,True
+Kyle Anderson,1,10,29,1,Driving Layup Shot,2,20,14,True
+Kyle Anderson,2,5,34,1,Driving Reverse Layup Shot,1,-3,19,True
+Kyle Anderson,3,5,50,1,Driving Reverse Layup Shot,1,-6,14,True
+Kyle Anderson,1,8,33,1,Driving Reverse Layup Shot,2,15,20,True
+Kyle Anderson,2,3,48,1,Driving Reverse Layup Shot,2,5,26,True
+Kyle Anderson,3,10,36,1,Driving Reverse Layup Shot,1,-4,15,True
+Kyle Anderson,3,0,0,1,Driving Reverse Layup Shot,1,-16,5,True
+Kyle Anderson,4,4,43,1,Dunk Shot,0,0,5,True
+Kyle Anderson,2,5,44,1,Dunk Shot,1,-5,10,True
+Kyle Anderson,3,7,34,1,Dunk Shot,0,2,8,True
+Kyle Anderson,2,3,28,1,Dunk Shot,1,5,10,True
+Kyle Anderson,3,6,35,1,Dunk Shot,0,-6,5,True
+Kyle Anderson,2,0,2,0,Fadeaway Jump Shot,19,132,142,True
+Kyle Anderson,4,2,8,0,Fadeaway Jump Shot,10,-9,105,True
+Kyle Anderson,2,6,2,0,Fadeaway Jump Shot,11,30,110,True
+Kyle Anderson,3,2,28,1,Fadeaway Jump Shot,13,38,125,True
+Kyle Anderson,1,6,37,0,Fadeaway Jump Shot,10,38,97,True
+Kyle Anderson,4,6,3,0,Fadeaway Jump Shot,11,-100,46,True
+Kyle Anderson,2,3,2,1,Fadeaway Jump Shot,14,41,135,True
+Kyle Anderson,3,0,0,0,Finger Roll Layup Shot,1,0,15,True
+Kyle Anderson,4,7,40,1,Finger Roll Layup Shot,0,-2,2,True
+Kyle Anderson,1,9,10,0,Finger Roll Layup Shot,1,-10,16,True
+Kyle Anderson,4,5,45,0,Finger Roll Layup Shot,1,16,9,True
+Kyle Anderson,4,6,31,1,Finger Roll Layup Shot,1,-14,8,True
+Kyle Anderson,3,2,39,1,Finger Roll Layup Shot,1,3,15,True
+Kyle Anderson,4,3,17,1,Floating Jump shot,8,30,83,True
+Kyle Anderson,1,6,41,1,Floating Jump shot,8,-11,86,True
+Kyle Anderson,2,8,6,0,Floating Jump shot,7,-5,75,True
+Kyle Anderson,3,11,30,0,Floating Jump shot,3,-24,27,True
+Kyle Anderson,4,7,48,1,Floating Jump shot,9,-18,89,True
+Kyle Anderson,1,7,59,0,Floating Jump shot,5,32,48,True
+Kyle Anderson,2,5,14,1,Floating Jump shot,8,45,73,True
+Kyle Anderson,3,5,6,0,Floating Jump shot,5,-41,38,True
+Kyle Anderson,1,1,8,0,Floating Jump shot,11,11,111,True
+Kyle Anderson,1,4,27,0,Floating Jump shot,11,-17,111,True
+Kyle Anderson,1,10,44,0,Floating Jump shot,8,-7,83,True
+Kyle Anderson,1,8,31,1,Floating Jump shot,7,-18,69,True
+Kyle Anderson,3,9,26,0,Floating Jump shot,10,-107,8,True
+Kyle Anderson,2,1,27,1,Floating Jump shot,12,3,121,True
+Kyle Anderson,2,3,44,0,Floating Jump shot,4,5,49,True
+Kyle Anderson,1,7,42,1,Floating Jump shot,11,-112,-6,True
+Kyle Anderson,1,11,40,1,Floating Jump shot,10,4,107,True
+Kyle Anderson,3,7,23,1,Floating Jump shot,3,-9,37,True
+Kyle Anderson,4,1,6,0,Floating Jump shot,12,-13,124,True
+Kyle Anderson,1,10,37,0,Hook Bank Shot,8,69,47,True
+Kyle Anderson,3,6,52,1,Hook Shot,10,72,71,True
+Kyle Anderson,1,8,34,1,Hook Shot,7,0,79,True
+Kyle Anderson,1,1,28,0,Hook Shot,0,-2,8,True
+Kyle Anderson,4,10,1,1,Hook Shot,12,-80,99,True
+Kyle Anderson,1,8,11,0,Hook Shot,10,-100,22,True
+Kyle Anderson,2,8,33,1,Hook Shot,7,21,73,True
+Kyle Anderson,3,4,20,1,Jump Bank Shot,3,-14,31,True
+Kyle Anderson,3,10,13,0,Jump Bank Shot,6,53,34,True
+Kyle Anderson,1,9,36,1,Jump Bank Shot,10,-101,29,True
+Kyle Anderson,1,2,43,1,Jump Bank Shot,11,96,64,True
+Kyle Anderson,2,0,0,1,Jump Bank Shot,1,18,-6,True
+Kyle Anderson,4,0,28,1,Jump Bank Shot,6,64,26,True
+Kyle Anderson,2,3,9,1,Jump Bank Shot,7,-78,-4,True
+Kyle Anderson,2,8,34,1,Jump Shot,23,230,68,False
+Kyle Anderson,4,7,18,1,Jump Shot,18,183,31,True
+Kyle Anderson,2,0,44,0,Jump Shot,21,-212,-5,True
+Kyle Anderson,3,8,36,1,Jump Shot,22,-89,210,True
+Kyle Anderson,1,11,37,0,Jump Shot,20,151,143,True
+Kyle Anderson,3,9,31,1,Jump Shot,23,234,26,False
+Kyle Anderson,4,7,13,0,Jump Shot,20,67,194,True
+Kyle Anderson,3,5,30,0,Jump Shot,25,5,252,False
+Kyle Anderson,4,0,15,1,Jump Shot,15,-43,152,True
+Kyle Anderson,1,5,22,0,Jump Shot,22,-225,11,False
+Kyle Anderson,1,7,5,0,Jump Shot,10,-4,104,True
+Kyle Anderson,4,10,33,1,Jump Shot,4,6,48,True
+Kyle Anderson,2,8,15,1,Jump Shot,22,-226,10,False
+Kyle Anderson,1,9,32,0,Jump Shot,22,226,4,False
+Kyle Anderson,2,7,56,0,Jump Shot,11,-103,53,True
+Kyle Anderson,2,3,32,1,Jump Shot,20,209,-10,True
+Kyle Anderson,3,1,6,0,Jump Shot,19,-199,-7,True
+Kyle Anderson,2,1,37,0,Jump Shot,22,8,228,True
+Kyle Anderson,1,6,7,1,Jump Shot,24,-243,-28,False
+Kyle Anderson,4,7,19,0,Jump Shot,23,-230,13,False
+Kyle Anderson,2,2,51,0,Jump Shot,13,-119,73,True
+Kyle Anderson,3,8,6,0,Jump Shot,14,-36,142,True
+Kyle Anderson,2,6,5,0,Jump Shot,19,-34,196,True
+Kyle Anderson,1,10,35,0,Jump Shot,22,-226,1,False
+Kyle Anderson,4,0,47,0,Jump Shot,11,16,113,True
+Kyle Anderson,1,5,38,0,Jump Shot,16,-72,147,True
+Kyle Anderson,1,0,0,0,Jump Shot,49,-172,467,False
+Kyle Anderson,2,0,52,1,Jump Shot,20,4,205,True
+Kyle Anderson,3,5,7,0,Jump Shot,24,230,75,False
+Kyle Anderson,3,6,47,0,Jump Shot,17,-127,125,True
+Kyle Anderson,3,7,50,0,Jump Shot,5,1,52,True
+Kyle Anderson,1,10,7,1,Jump Shot,23,-232,7,False
+Kyle Anderson,2,8,33,0,Jump Shot,19,-52,193,True
+Kyle Anderson,3,9,1,0,Jump Shot,3,8,32,True
+Kyle Anderson,1,9,56,0,Jump Shot,23,223,67,False
+Kyle Anderson,3,1,31,0,Jump Shot,20,-209,-18,True
+Kyle Anderson,1,7,16,1,Jump Shot,22,228,27,False
+Kyle Anderson,2,6,51,0,Jump Shot,25,-29,251,False
+Kyle Anderson,3,8,53,1,Jump Shot,24,237,38,False
+Kyle Anderson,2,5,4,1,Jump Shot,23,235,25,False
+Kyle Anderson,1,7,47,0,Jump Shot,22,225,-10,False
+Kyle Anderson,4,4,18,1,Jump Shot,17,-69,156,True
+Kyle Anderson,2,6,0,1,Jump Shot,11,114,-14,True
+Kyle Anderson,3,9,3,0,Jump Shot,23,232,-17,False
+Kyle Anderson,1,9,2,0,Jump Shot,7,28,68,True
+Kyle Anderson,4,5,58,0,Jump Shot,20,-114,169,True
+Kyle Anderson,4,6,50,0,Jump Shot,8,-6,81,True
+Kyle Anderson,2,6,30,1,Jump Shot,9,1,94,True
+Kyle Anderson,3,3,19,1,Jump Shot,20,204,0,True
+Kyle Anderson,2,6,28,0,Jump Shot,9,93,30,True
+Kyle Anderson,2,8,14,1,Jump Shot,10,44,92,True
+Kyle Anderson,4,2,52,0,Jump Shot,23,232,25,False
+Kyle Anderson,1,7,41,0,Jump Shot,17,-174,30,True
+Kyle Anderson,1,11,8,0,Jump Shot,16,-139,92,True
+Kyle Anderson,3,6,14,0,Jump Shot,3,18,29,True
+Kyle Anderson,1,11,31,0,Jump Shot,25,-154,203,False
+Kyle Anderson,4,1,59,0,Jump Shot,24,-30,240,False
+Kyle Anderson,3,8,27,0,Jump Shot,11,103,52,True
+Kyle Anderson,3,1,16,1,Jump Shot,23,230,46,False
+Kyle Anderson,2,8,47,0,Jump Shot,24,223,98,False
+Kyle Anderson,2,0,37,1,Jump Shot,20,127,158,True
+Kyle Anderson,3,7,24,0,Jump Shot,25,78,240,False
+Kyle Anderson,2,9,5,1,Jump Shot,26,229,130,False
+Kyle Anderson,3,11,11,0,Jump Shot,17,-41,174,True
+Kyle Anderson,3,8,5,1,Jump Shot,22,-225,-26,False
+Kyle Anderson,2,0,21,0,Jump Shot,22,-229,-16,False
+Kyle Anderson,4,0,1,0,Jump Shot,26,-10,269,False
+Kyle Anderson,1,5,8,1,Jump Shot,25,-44,254,False
+Kyle Anderson,3,11,20,0,Jump Shot,26,-66,259,False
+Kyle Anderson,3,11,20,0,Jump Shot,25,-141,216,False
+Kyle Anderson,3,6,21,1,Jump Shot,22,228,4,False
+Kyle Anderson,4,5,25,1,Jump Shot,27,11,276,False
+Kyle Anderson,2,4,20,0,Jump Shot,22,-224,5,False
+Kyle Anderson,3,1,28,1,Jump Shot,5,15,49,True
+Kyle Anderson,4,5,8,1,Jump Shot,4,3,48,True
+Kyle Anderson,4,2,49,0,Jump Shot,22,-226,-18,False
+Kyle Anderson,3,0,53,0,Jump Shot,20,201,38,True
+Kyle Anderson,2,0,56,0,Jump Shot,22,-228,5,False
+Kyle Anderson,1,2,10,1,Jump Shot,21,-212,-1,True
+Kyle Anderson,1,6,38,0,Jump Shot,18,-94,165,True
+Kyle Anderson,1,5,44,1,Jump Shot,21,-20,214,True
+Kyle Anderson,1,10,24,0,Jump Shot,22,-227,21,False
+Kyle Anderson,2,11,5,1,Jump Shot,15,-120,101,True
+Kyle Anderson,2,1,52,0,Jump Shot,22,-226,25,False
+Kyle Anderson,1,10,57,1,Jump Shot,23,225,75,False
+Kyle Anderson,2,6,48,0,Jump Shot,26,-9,262,False
+Kyle Anderson,3,11,15,0,Jump Shot,22,-226,-4,False
+Kyle Anderson,1,0,31,1,Jump Shot,9,19,90,True
+Kyle Anderson,3,4,25,1,Jump Shot,20,209,6,True
+Kyle Anderson,3,9,45,1,Jump Shot,23,-233,-26,False
+Kyle Anderson,4,6,46,0,Jump Shot,20,2,209,True
+Kyle Anderson,3,11,17,0,Jump Shot,6,60,10,True
+Kyle Anderson,3,9,13,0,Jump Shot,20,-88,185,True
+Kyle Anderson,3,8,32,0,Jump Shot,21,-94,194,True
+Kyle Anderson,2,4,45,0,Jump Shot,23,231,11,False
+Kyle Anderson,4,6,11,0,Jump Shot,22,-221,3,False
+Kyle Anderson,2,10,37,0,Jump Shot,22,-229,-11,False
+Kyle Anderson,1,9,32,1,Jump Shot,1,-2,16,True
+Kyle Anderson,2,5,2,1,Jump Shot,20,-201,-17,True
+Kyle Anderson,1,4,17,1,Jump Shot,16,122,114,True
+Kyle Anderson,4,5,27,1,Layup Shot,1,11,14,True
+Kyle Anderson,2,3,20,1,Layup Shot,0,9,-3,True
+Kyle Anderson,2,4,27,0,Layup Shot,0,0,0,True
+Kyle Anderson,4,8,25,1,Layup Shot,1,13,5,True
+Kyle Anderson,1,9,7,0,Layup Shot,5,11,52,True
+Kyle Anderson,1,11,5,1,Layup Shot,1,-11,10,True
+Kyle Anderson,3,6,44,1,Layup Shot,3,5,30,True
+Kyle Anderson,2,0,0,1,Layup Shot,2,0,22,True
+Kyle Anderson,3,9,38,0,Layup Shot,4,-30,36,True
+Kyle Anderson,1,5,24,1,Layup Shot,1,-5,11,True
+Kyle Anderson,3,11,34,0,Layup Shot,4,-2,47,True
+Kyle Anderson,2,4,14,1,Layup Shot,0,9,4,True
+Kyle Anderson,4,7,42,1,Layup Shot,5,5,50,True
+Kyle Anderson,2,4,18,1,Layup Shot,2,20,-3,True
+Kyle Anderson,3,7,35,0,Layup Shot,2,-2,27,True
+Kyle Anderson,3,7,35,0,Layup Shot,1,-2,10,True
+Kyle Anderson,4,0,36,1,Layup Shot,2,-2,20,True
+Kyle Anderson,4,3,15,0,Layup Shot,3,23,26,True
+Kyle Anderson,3,7,42,0,Layup Shot,3,-27,22,True
+Kyle Anderson,3,3,17,0,Layup Shot,6,41,48,True
+Kyle Anderson,3,5,57,1,Layup Shot,1,13,-1,True
+Kyle Anderson,2,10,9,0,Layup Shot,4,45,12,True
+Kyle Anderson,3,10,9,1,Layup Shot,2,-25,14,True
+Kyle Anderson,3,9,12,0,Layup Shot,14,2,143,True
+Kyle Anderson,2,6,30,1,Layup Shot,2,7,25,True
+Kyle Anderson,2,2,7,1,Layup Shot,1,-8,17,True
+Kyle Anderson,1,4,37,0,Layup Shot,2,24,8,True
+Kyle Anderson,1,10,56,0,Layup Shot,5,-55,4,True
+Kyle Anderson,3,8,39,0,Layup Shot,1,-8,12,True
+Kyle Anderson,4,10,43,1,Layup Shot,4,-48,-2,True
+Kyle Anderson,1,10,31,0,Layup Shot,1,8,7,True
+Kyle Anderson,2,5,51,0,Layup Shot,3,-6,39,True
+Kyle Anderson,2,1,51,1,Layup Shot,1,9,9,True
+Kyle Anderson,2,3,56,1,Layup Shot,0,3,4,True
+Kyle Anderson,2,2,27,1,Layup Shot,1,-6,9,True
+Kyle Anderson,3,9,39,0,Layup Shot,3,-3,39,True
+Kyle Anderson,4,5,38,0,Layup Shot,1,-5,16,True
+Kyle Anderson,1,6,47,1,Layup Shot,4,-45,21,True
+Kyle Anderson,4,6,29,1,Layup Shot,1,-14,-1,True
+Kyle Anderson,3,11,0,1,Layup Shot,0,9,0,True
+Kyle Anderson,3,7,0,1,Layup Shot,2,24,0,True
+Kyle Anderson,2,7,16,0,Pullup Jump shot,18,-94,159,True
+Kyle Anderson,4,0,46,0,Pullup Jump shot,21,186,100,True
+Kyle Anderson,1,8,13,0,Pullup Jump shot,10,105,4,True
+Kyle Anderson,2,2,2,1,Pullup Jump shot,10,-43,101,True
+Kyle Anderson,4,7,12,1,Pullup Jump shot,17,-85,154,True
+Kyle Anderson,3,11,28,1,Pullup Jump shot,15,57,148,True
+Kyle Anderson,2,4,12,1,Pullup Jump shot,17,102,141,True
+Kyle Anderson,1,6,34,0,Pullup Jump shot,9,26,91,True
+Kyle Anderson,4,7,13,1,Pullup Jump shot,17,88,155,True
+Kyle Anderson,1,7,41,0,Pullup Jump shot,9,-35,84,True
+Kyle Anderson,3,0,44,1,Pullup Jump shot,18,-81,161,True
+Kyle Anderson,4,0,49,0,Pullup Jump shot,4,-46,9,True
+Kyle Anderson,1,9,42,0,Pullup Jump shot,4,13,45,True
+Kyle Anderson,2,8,37,0,Pullup Jump shot,18,-99,160,True
+Kyle Anderson,3,8,43,1,Pullup Jump shot,13,132,35,True
+Kyle Anderson,3,0,4,1,Pullup Jump shot,10,4,107,True
+Kyle Anderson,3,6,4,0,Pullup Jump shot,12,-128,3,True
+Kyle Anderson,3,0,34,1,Pullup Jump shot,15,78,132,True
+Kyle Anderson,1,11,0,1,Pullup Jump shot,11,6,113,True
+Kyle Anderson,3,3,45,0,Pullup Jump shot,11,117,-5,True
+Kyle Anderson,1,4,58,0,Pullup Jump shot,17,106,134,True
+Kyle Anderson,3,10,1,0,Pullup Jump shot,7,29,69,True
+Kyle Anderson,2,4,21,1,Pullup Jump shot,15,5,153,True
+Kyle Anderson,3,10,8,0,Pullup Jump shot,6,-53,41,True
+Kyle Anderson,4,6,49,0,Pullup Jump shot,7,0,79,True
+Kyle Anderson,2,6,58,1,Pullup Jump shot,17,96,142,True
+Kyle Anderson,1,9,56,1,Pullup Jump shot,7,4,75,True
+Kyle Anderson,2,0,34,0,Pullup Jump shot,17,0,173,True
+Kyle Anderson,3,11,15,0,Pullup Jump shot,15,106,115,True
+Kyle Anderson,2,7,40,1,Putback Dunk Shot,0,0,-6,True
+Kyle Anderson,1,5,21,1,Putback Dunk Shot,0,0,-6,True
+Kyle Anderson,3,10,1,1,Putback Layup Shot,0,-1,8,True
+Kyle Anderson,4,8,25,1,Putback Layup Shot,0,0,-6,True
+Kyle Anderson,1,5,50,0,Putback Layup Shot,0,0,-6,True
+Kyle Anderson,3,8,12,1,Putback Layup Shot,0,0,-6,True
+Kyle Anderson,3,10,0,1,Putback Layup Shot,0,0,-6,True
+Kyle Anderson,1,9,5,1,Putback Layup Shot,0,0,-6,True
+Kyle Anderson,4,6,35,0,Putback Layup Shot,2,2,22,True
+Kyle Anderson,1,8,9,0,Putback Layup Shot,2,-2,22,True
+Kyle Anderson,2,5,35,1,Reverse Layup Shot,1,8,8,True
+Kyle Anderson,4,2,22,1,Reverse Layup Shot,0,-2,5,True
+Kyle Anderson,4,6,44,1,Reverse Layup Shot,1,8,6,True
+Kyle Anderson,2,10,17,1,Reverse Layup Shot,1,-10,-1,True
+Kyle Anderson,1,1,52,1,Reverse Layup Shot,1,2,10,True
+Kyle Anderson,3,10,9,1,Reverse Layup Shot,1,-10,16,True
+Kyle Anderson,2,6,52,1,Reverse Layup Shot,1,14,8,True
+Kyle Anderson,2,7,35,1,Reverse Layup Shot,3,8,30,True
+Kyle Anderson,2,5,54,1,Running Dunk Shot,3,-19,25,True
+Kyle Anderson,1,11,43,1,Running Dunk Shot,0,-2,4,True
+Kyle Anderson,4,6,17,1,Running Finger Roll Layup Shot,1,12,13,True
+Kyle Anderson,1,9,20,0,Running Finger Roll Layup Shot,7,-41,62,True
+Kyle Anderson,4,7,47,1,Running Finger Roll Layup Shot,0,2,-3,True
+Kyle Anderson,3,10,26,1,Running Finger Roll Layup Shot,0,1,0,True
+Kyle Anderson,2,0,0,0,Running Jump Shot,41,-33,413,False
+Kyle Anderson,3,5,12,1,Running Jump Shot,4,-23,41,True
+Kyle Anderson,1,5,41,0,Running Layup Shot,2,-24,10,True
+Kyle Anderson,1,9,26,1,Running Layup Shot,1,5,10,True
+Kyle Anderson,4,9,50,1,Running Layup Shot,1,11,10,True
+Kyle Anderson,2,5,40,1,Running Layup Shot,3,36,17,True
+Kyle Anderson,3,0,0,1,Running Pull-Up Jump Shot,26,0,260,False
+Kyle Anderson,3,0,30,0,Running Reverse Layup Shot,1,-19,6,True
+Kyle Anderson,1,1,3,0,Step Back Jump shot,12,-33,116,True
+Kyle Anderson,3,0,8,0,Step Back Jump shot,17,58,166,True
+Kyle Anderson,3,0,3,0,Step Back Jump shot,19,-110,162,True
+Kyle Anderson,2,0,22,1,Step Back Jump shot,18,-69,169,True
+Kyle Anderson,1,8,57,1,Tip Layup Shot,7,1,72,True
+Kyle Anderson,3,9,43,1,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,2,3,34,0,Tip Layup Shot,2,-16,15,True
+Kyle Anderson,4,5,49,0,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,1,11,37,1,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,1,10,39,1,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,3,10,47,1,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,4,6,29,0,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,2,6,52,1,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,1,6,30,1,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,2,6,12,1,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,4,11,11,1,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,2,6,32,0,Tip Layup Shot,1,1,14,True
+Kyle Anderson,1,6,8,1,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,3,11,21,1,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,1,10,2,0,Tip Layup Shot,1,5,18,True
+Kyle Anderson,2,6,55,1,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,3,10,27,1,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,3,5,56,0,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,4,6,34,0,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,2,8,2,1,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,1,6,15,0,Tip Layup Shot,0,0,-6,True
+Kyle Anderson,3,11,42,0,Turnaround Fadeaway Bank Jump Shot,8,-57,65,True
+Kyle Anderson,4,3,10,0,Turnaround Fadeaway Bank Jump Shot,4,31,37,True
+Kyle Anderson,2,1,45,0,Turnaround Fadeaway Bank Jump Shot,6,-63,8,True
+Kyle Anderson,3,9,39,1,Turnaround Fadeaway Bank Jump Shot,9,-86,40,True
+Kyle Anderson,3,5,3,0,Turnaround Fadeaway Bank Jump Shot,12,-63,109,True
+Kyle Anderson,2,8,51,0,Turnaround Fadeaway shot,12,-30,125,True
+Kyle Anderson,4,7,25,0,Turnaround Fadeaway shot,6,65,5,True
+Kyle Anderson,4,1,35,1,Turnaround Fadeaway shot,15,145,48,True
+Kyle Anderson,4,4,8,1,Turnaround Hook Shot,2,-14,20,True
+Kyle Anderson,3,8,36,0,Turnaround Hook Shot,14,-55,134,True
+Kyle Anderson,3,2,41,0,Turnaround Hook Shot,7,61,41,True
+Kyle Anderson,2,3,40,0,Turnaround Jump Shot,4,-14,44,True
+Kyle Anderson,4,9,2,1,Turnaround Jump Shot,5,3,50,True
+Kyle Anderson,4,3,10,0,Turnaround Jump Shot,3,-31,19,True
+Kyle Anderson,4,6,58,0,Turnaround Jump Shot,2,24,9,True
+Kyle Anderson,1,4,3,1,Turnaround Jump Shot,9,-5,97,True
+Kyle Anderson,1,9,40,0,Turnaround Jump Shot,8,87,-11,True
+Kyle Anderson,4,8,41,1,Turnaround Jump Shot,7,-71,21,True

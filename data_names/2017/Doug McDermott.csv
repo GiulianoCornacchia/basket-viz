@@ -1,0 +1,463 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Doug McDermott,4,4,48,1,Alley Oop Layup shot,0,0,6,True
+Doug McDermott,4,9,57,1,Alley Oop Layup shot,2,-25,3,True
+Doug McDermott,1,1,42,1,Alley Oop Layup shot,1,7,16,True
+Doug McDermott,4,7,34,0,Alley Oop Layup shot,1,-9,8,True
+Doug McDermott,1,2,0,1,Cutting Dunk Shot,0,-2,5,True
+Doug McDermott,2,8,34,1,Cutting Dunk Shot,1,5,13,True
+Doug McDermott,4,4,53,1,Cutting Dunk Shot,0,-3,0,True
+Doug McDermott,2,11,10,1,Cutting Dunk Shot,0,1,0,True
+Doug McDermott,1,10,8,1,Cutting Dunk Shot,1,11,8,True
+Doug McDermott,2,11,30,1,Cutting Dunk Shot,1,14,13,True
+Doug McDermott,2,7,37,1,Cutting Dunk Shot,0,-2,-1,True
+Doug McDermott,3,6,30,1,Cutting Finger Roll Layup Shot,2,3,20,True
+Doug McDermott,1,3,54,1,Cutting Finger Roll Layup Shot,1,14,9,True
+Doug McDermott,4,0,41,1,Cutting Layup Shot,0,-5,8,True
+Doug McDermott,1,3,10,0,Cutting Layup Shot,2,3,22,True
+Doug McDermott,4,6,53,1,Cutting Layup Shot,0,-3,6,True
+Doug McDermott,4,8,7,1,Cutting Layup Shot,1,-7,15,True
+Doug McDermott,2,8,15,1,Cutting Layup Shot,2,19,11,True
+Doug McDermott,2,9,49,1,Cutting Layup Shot,2,-20,9,True
+Doug McDermott,4,8,13,1,Cutting Layup Shot,1,-11,9,True
+Doug McDermott,2,9,2,1,Cutting Layup Shot,1,8,-6,True
+Doug McDermott,3,7,5,0,Cutting Layup Shot,1,-16,6,True
+Doug McDermott,4,2,22,1,Cutting Layup Shot,1,-8,8,True
+Doug McDermott,2,10,15,1,Cutting Layup Shot,1,-8,10,True
+Doug McDermott,2,11,47,1,Cutting Layup Shot,1,8,10,True
+Doug McDermott,2,10,56,1,Cutting Layup Shot,0,3,2,True
+Doug McDermott,4,9,29,1,Cutting Layup Shot,2,-21,6,True
+Doug McDermott,3,0,17,1,Cutting Layup Shot,1,3,10,True
+Doug McDermott,2,8,53,1,Cutting Layup Shot,1,-4,16,True
+Doug McDermott,3,1,30,1,Cutting Layup Shot,0,2,4,True
+Doug McDermott,2,9,25,1,Cutting Layup Shot,1,-10,16,True
+Doug McDermott,4,7,25,1,Cutting Layup Shot,1,-7,11,True
+Doug McDermott,1,0,54,1,Cutting Layup Shot,1,2,14,True
+Doug McDermott,2,5,32,1,Cutting Layup Shot,4,32,25,True
+Doug McDermott,4,7,50,1,Cutting Layup Shot,1,11,0,True
+Doug McDermott,4,5,38,1,Cutting Layup Shot,0,6,4,True
+Doug McDermott,1,1,1,1,Cutting Layup Shot,1,-16,9,True
+Doug McDermott,3,1,0,1,Driving Dunk Shot,1,7,10,True
+Doug McDermott,4,7,39,1,Driving Dunk Shot,0,-2,2,True
+Doug McDermott,4,0,46,1,Driving Dunk Shot,0,-3,8,True
+Doug McDermott,2,7,57,1,Driving Dunk Shot,0,-4,-1,True
+Doug McDermott,4,11,37,0,Driving Finger Roll Layup Shot,3,-11,34,True
+Doug McDermott,3,2,13,1,Driving Finger Roll Layup Shot,1,6,11,True
+Doug McDermott,2,11,27,0,Driving Finger Roll Layup Shot,0,5,2,True
+Doug McDermott,2,7,38,0,Driving Finger Roll Layup Shot,1,11,-4,True
+Doug McDermott,3,0,42,1,Driving Finger Roll Layup Shot,2,18,22,True
+Doug McDermott,4,9,33,0,Driving Floating Bank Jump Shot,11,106,42,True
+Doug McDermott,2,10,0,1,Driving Floating Jump Shot,3,27,21,True
+Doug McDermott,2,8,52,0,Driving Floating Jump Shot,16,90,139,True
+Doug McDermott,2,8,38,1,Driving Floating Jump Shot,12,-100,68,True
+Doug McDermott,2,10,26,0,Driving Floating Jump Shot,13,36,126,True
+Doug McDermott,2,10,55,0,Driving Floating Jump Shot,3,33,15,True
+Doug McDermott,1,2,7,0,Driving Floating Jump Shot,3,21,26,True
+Doug McDermott,2,5,13,0,Driving Floating Jump Shot,11,89,69,True
+Doug McDermott,4,6,39,1,Driving Floating Jump Shot,6,15,64,True
+Doug McDermott,4,10,13,1,Driving Floating Jump Shot,5,58,11,True
+Doug McDermott,4,11,3,1,Driving Floating Jump Shot,8,-84,0,True
+Doug McDermott,2,7,58,0,Driving Floating Jump Shot,10,-92,58,True
+Doug McDermott,3,2,30,0,Driving Layup Shot,1,-2,11,True
+Doug McDermott,1,3,36,0,Driving Layup Shot,1,-10,9,True
+Doug McDermott,4,6,42,1,Driving Layup Shot,2,-12,22,True
+Doug McDermott,2,8,46,0,Driving Layup Shot,7,38,61,True
+Doug McDermott,2,7,3,0,Driving Layup Shot,2,-18,17,True
+Doug McDermott,3,0,33,0,Driving Layup Shot,3,-7,32,True
+Doug McDermott,1,4,42,0,Driving Layup Shot,6,61,32,True
+Doug McDermott,3,2,57,0,Driving Layup Shot,1,1,11,True
+Doug McDermott,1,5,28,1,Driving Layup Shot,1,13,6,True
+Doug McDermott,4,8,11,1,Driving Layup Shot,1,-6,10,True
+Doug McDermott,2,6,38,0,Driving Layup Shot,2,0,20,True
+Doug McDermott,2,10,10,1,Driving Layup Shot,0,3,8,True
+Doug McDermott,1,2,31,1,Driving Layup Shot,1,3,18,True
+Doug McDermott,4,1,9,0,Driving Layup Shot,1,14,5,True
+Doug McDermott,4,0,26,1,Driving Layup Shot,1,18,4,True
+Doug McDermott,1,3,49,1,Driving Layup Shot,3,-33,8,True
+Doug McDermott,4,7,51,0,Driving Layup Shot,2,-8,21,True
+Doug McDermott,1,1,48,0,Driving Layup Shot,5,-25,52,True
+Doug McDermott,1,2,8,0,Driving Layup Shot,1,8,10,True
+Doug McDermott,3,1,23,1,Driving Layup Shot,2,16,25,True
+Doug McDermott,4,5,42,1,Driving Layup Shot,1,11,9,True
+Doug McDermott,2,5,34,1,Driving Layup Shot,5,-6,53,True
+Doug McDermott,2,9,23,0,Driving Layup Shot,1,11,2,True
+Doug McDermott,4,4,46,0,Driving Layup Shot,1,11,15,True
+Doug McDermott,2,3,50,1,Driving Reverse Dunk Shot,0,3,3,True
+Doug McDermott,2,11,18,0,Driving Reverse Layup Shot,1,-9,5,True
+Doug McDermott,4,7,0,0,Driving Reverse Layup Shot,3,-20,24,True
+Doug McDermott,2,8,21,0,Driving Reverse Layup Shot,0,-6,4,True
+Doug McDermott,2,10,2,1,Driving Reverse Layup Shot,1,14,4,True
+Doug McDermott,4,0,54,0,Dunk Shot,2,8,24,True
+Doug McDermott,3,0,37,1,Dunk Shot,0,-8,2,True
+Doug McDermott,4,4,0,1,Dunk Shot,1,-2,11,True
+Doug McDermott,4,0,40,1,Dunk Shot,0,5,5,True
+Doug McDermott,3,2,41,0,Fadeaway Jump Shot,15,14,150,True
+Doug McDermott,2,9,55,1,Fadeaway Jump Shot,19,106,159,True
+Doug McDermott,2,9,15,0,Fadeaway Jump Shot,4,47,17,True
+Doug McDermott,2,10,25,0,Fadeaway Jump Shot,9,61,75,True
+Doug McDermott,4,9,15,0,Fadeaway Jump Shot,17,-73,164,True
+Doug McDermott,3,3,33,0,Fadeaway Jump Shot,7,0,77,True
+Doug McDermott,4,9,33,0,Floating Jump shot,11,49,99,True
+Doug McDermott,2,10,43,1,Floating Jump shot,8,18,88,True
+Doug McDermott,1,2,12,0,Floating Jump shot,7,-75,-8,True
+Doug McDermott,3,0,2,1,Floating Jump shot,11,-110,21,True
+Doug McDermott,2,7,10,0,Floating Jump shot,15,2,157,True
+Doug McDermott,4,2,26,1,Floating Jump shot,11,9,111,True
+Doug McDermott,2,7,30,0,Floating Jump shot,3,17,34,True
+Doug McDermott,2,10,40,1,Floating Jump shot,11,-12,117,True
+Doug McDermott,1,2,46,1,Hook Shot,6,3,65,True
+Doug McDermott,4,6,17,0,Hook Shot,2,-12,27,True
+Doug McDermott,1,4,28,0,Jump Shot,20,-90,183,True
+Doug McDermott,1,0,41,0,Jump Shot,19,192,53,True
+Doug McDermott,4,10,57,0,Jump Shot,25,-233,105,False
+Doug McDermott,4,9,45,0,Jump Shot,26,71,251,False
+Doug McDermott,2,6,54,0,Jump Shot,25,-47,249,False
+Doug McDermott,2,2,30,1,Jump Shot,26,-195,172,False
+Doug McDermott,4,8,51,0,Jump Shot,22,-221,38,False
+Doug McDermott,4,9,39,0,Jump Shot,26,70,256,False
+Doug McDermott,2,0,44,1,Jump Shot,27,-131,244,False
+Doug McDermott,4,9,58,1,Jump Shot,24,243,20,False
+Doug McDermott,3,6,24,0,Jump Shot,26,150,214,False
+Doug McDermott,3,9,48,0,Jump Shot,16,85,146,True
+Doug McDermott,2,5,34,0,Jump Shot,24,-177,172,False
+Doug McDermott,4,5,25,0,Jump Shot,26,-67,254,False
+Doug McDermott,2,9,39,0,Jump Shot,24,72,236,False
+Doug McDermott,2,5,56,1,Jump Shot,22,-223,0,False
+Doug McDermott,4,6,49,0,Jump Shot,25,-38,257,False
+Doug McDermott,2,11,47,1,Jump Shot,25,11,251,False
+Doug McDermott,2,7,25,1,Jump Shot,25,57,248,False
+Doug McDermott,2,9,37,0,Jump Shot,20,15,209,True
+Doug McDermott,2,5,31,0,Jump Shot,23,-235,-8,False
+Doug McDermott,2,11,10,0,Jump Shot,27,-177,209,False
+Doug McDermott,4,7,30,1,Jump Shot,19,-32,193,True
+Doug McDermott,2,11,12,1,Jump Shot,23,233,-5,False
+Doug McDermott,1,3,52,1,Jump Shot,25,-82,246,False
+Doug McDermott,3,0,33,0,Jump Shot,24,92,227,False
+Doug McDermott,4,10,32,1,Jump Shot,21,219,-1,False
+Doug McDermott,3,1,25,1,Jump Shot,23,236,24,False
+Doug McDermott,1,5,33,0,Jump Shot,25,-88,241,False
+Doug McDermott,3,1,48,1,Jump Shot,22,-226,15,False
+Doug McDermott,1,0,18,0,Jump Shot,25,146,204,False
+Doug McDermott,1,1,46,1,Jump Shot,23,232,-16,False
+Doug McDermott,1,3,19,1,Jump Shot,26,139,226,False
+Doug McDermott,3,5,17,0,Jump Shot,25,222,121,False
+Doug McDermott,4,10,54,0,Jump Shot,16,71,146,True
+Doug McDermott,3,4,50,0,Jump Shot,18,-27,188,True
+Doug McDermott,2,8,40,1,Jump Shot,9,92,-36,True
+Doug McDermott,1,5,1,1,Jump Shot,25,-103,237,False
+Doug McDermott,2,11,48,0,Jump Shot,26,96,246,False
+Doug McDermott,3,4,13,0,Jump Shot,23,-138,185,True
+Doug McDermott,2,0,54,0,Jump Shot,18,105,148,True
+Doug McDermott,2,5,24,0,Jump Shot,22,-221,0,False
+Doug McDermott,2,6,1,1,Jump Shot,22,-228,-6,False
+Doug McDermott,4,8,20,1,Jump Shot,26,-2,263,False
+Doug McDermott,1,5,27,0,Jump Shot,23,232,-15,False
+Doug McDermott,3,2,17,0,Jump Shot,15,12,150,True
+Doug McDermott,3,3,14,1,Jump Shot,26,51,258,False
+Doug McDermott,4,0,26,1,Jump Shot,22,-223,-1,False
+Doug McDermott,2,8,33,0,Jump Shot,20,-61,195,True
+Doug McDermott,3,1,15,0,Jump Shot,21,62,205,True
+Doug McDermott,2,6,48,0,Jump Shot,18,144,121,True
+Doug McDermott,1,0,12,1,Jump Shot,26,-74,257,False
+Doug McDermott,3,4,20,1,Jump Shot,23,230,52,False
+Doug McDermott,4,11,25,1,Jump Shot,22,-227,-4,False
+Doug McDermott,4,10,34,0,Jump Shot,25,-112,232,False
+Doug McDermott,4,10,54,0,Jump Shot,24,-178,174,False
+Doug McDermott,1,0,5,1,Jump Shot,26,-2,269,False
+Doug McDermott,4,7,6,1,Jump Shot,22,-225,1,False
+Doug McDermott,4,10,54,1,Jump Shot,22,-222,6,False
+Doug McDermott,2,8,29,1,Jump Shot,25,89,239,False
+Doug McDermott,4,9,30,1,Jump Shot,23,232,23,False
+Doug McDermott,2,3,45,0,Jump Shot,22,224,27,False
+Doug McDermott,2,6,41,1,Jump Shot,26,-16,266,False
+Doug McDermott,4,8,25,0,Jump Shot,24,-241,27,False
+Doug McDermott,2,2,46,1,Jump Shot,26,-188,184,False
+Doug McDermott,1,0,31,0,Jump Shot,27,-36,270,False
+Doug McDermott,1,3,5,1,Jump Shot,26,-237,125,False
+Doug McDermott,2,4,10,0,Jump Shot,24,184,169,False
+Doug McDermott,1,6,17,0,Jump Shot,25,-149,203,False
+Doug McDermott,3,9,34,0,Jump Shot,25,-208,149,False
+Doug McDermott,1,4,36,1,Jump Shot,25,-200,153,False
+Doug McDermott,1,4,9,0,Jump Shot,25,47,252,False
+Doug McDermott,3,11,30,1,Jump Shot,26,-24,259,False
+Doug McDermott,4,9,30,0,Jump Shot,26,-8,267,False
+Doug McDermott,2,7,7,0,Jump Shot,25,190,169,False
+Doug McDermott,2,10,43,0,Jump Shot,13,58,127,True
+Doug McDermott,4,4,34,0,Jump Shot,24,-205,136,False
+Doug McDermott,2,2,29,0,Jump Shot,25,152,199,False
+Doug McDermott,1,3,41,0,Jump Shot,26,105,242,False
+Doug McDermott,2,6,45,0,Jump Shot,26,101,241,False
+Doug McDermott,4,8,55,0,Jump Shot,23,-231,-11,False
+Doug McDermott,2,8,24,0,Jump Shot,22,229,-12,False
+Doug McDermott,4,0,45,1,Jump Shot,23,232,5,False
+Doug McDermott,2,10,33,1,Jump Shot,25,-11,253,False
+Doug McDermott,3,3,52,0,Jump Shot,25,202,158,False
+Doug McDermott,1,0,0,0,Jump Shot,25,-111,234,False
+Doug McDermott,1,1,15,0,Jump Shot,25,-226,118,False
+Doug McDermott,2,10,31,1,Jump Shot,27,64,264,False
+Doug McDermott,1,1,23,1,Jump Shot,25,154,209,False
+Doug McDermott,3,1,50,1,Jump Shot,24,220,99,False
+Doug McDermott,3,3,0,0,Jump Shot,22,-228,-20,False
+Doug McDermott,3,1,1,1,Jump Shot,25,20,253,False
+Doug McDermott,1,4,37,1,Jump Shot,23,-234,25,False
+Doug McDermott,3,2,40,0,Jump Shot,25,96,233,False
+Doug McDermott,2,9,2,0,Jump Shot,28,89,267,False
+Doug McDermott,1,0,0,0,Jump Shot,25,226,116,False
+Doug McDermott,4,5,39,0,Jump Shot,24,-113,221,False
+Doug McDermott,4,11,9,1,Jump Shot,24,-218,119,False
+Doug McDermott,4,0,1,1,Jump Shot,23,232,57,False
+Doug McDermott,4,4,35,1,Jump Shot,26,-154,210,False
+Doug McDermott,2,8,46,0,Jump Shot,22,-226,22,False
+Doug McDermott,3,0,40,0,Jump Shot,26,-174,200,False
+Doug McDermott,3,3,28,0,Jump Shot,25,177,190,False
+Doug McDermott,2,4,39,0,Jump Shot,25,-95,237,False
+Doug McDermott,1,0,34,1,Jump Shot,28,-138,247,False
+Doug McDermott,4,9,5,0,Jump Shot,28,-188,217,False
+Doug McDermott,3,1,27,0,Jump Shot,29,-142,262,False
+Doug McDermott,4,10,46,0,Jump Shot,23,230,10,False
+Doug McDermott,2,9,13,0,Jump Shot,8,56,64,True
+Doug McDermott,2,10,51,0,Jump Shot,19,-22,195,True
+Doug McDermott,1,0,54,0,Jump Shot,23,230,47,False
+Doug McDermott,4,11,27,0,Jump Shot,25,48,253,False
+Doug McDermott,2,9,45,1,Jump Shot,22,-222,45,False
+Doug McDermott,2,10,47,0,Jump Shot,25,148,211,False
+Doug McDermott,1,8,54,0,Jump Shot,25,-164,200,False
+Doug McDermott,2,7,5,0,Jump Shot,26,-112,237,False
+Doug McDermott,3,1,28,1,Jump Shot,26,-104,247,False
+Doug McDermott,3,1,58,0,Jump Shot,22,-225,25,False
+Doug McDermott,3,2,30,0,Jump Shot,12,92,84,True
+Doug McDermott,2,8,54,0,Jump Shot,19,-194,-6,True
+Doug McDermott,4,7,43,1,Jump Shot,25,-250,-3,False
+Doug McDermott,3,1,12,0,Jump Shot,10,-100,33,True
+Doug McDermott,3,1,38,1,Jump Shot,12,-128,-2,True
+Doug McDermott,3,0,27,0,Jump Shot,9,-98,12,True
+Doug McDermott,1,0,0,0,Jump Shot,24,-247,-5,False
+Doug McDermott,1,2,16,1,Jump Shot,16,90,141,True
+Doug McDermott,4,2,19,1,Jump Shot,25,33,256,False
+Doug McDermott,4,10,21,0,Jump Shot,16,29,159,True
+Doug McDermott,2,9,6,1,Jump Shot,26,103,248,False
+Doug McDermott,1,3,14,0,Jump Shot,25,109,226,False
+Doug McDermott,4,6,3,1,Jump Shot,25,230,103,False
+Doug McDermott,4,5,27,0,Jump Shot,22,224,14,False
+Doug McDermott,3,2,53,1,Jump Shot,25,-129,216,False
+Doug McDermott,4,9,40,1,Jump Shot,25,-63,246,False
+Doug McDermott,4,10,18,1,Jump Shot,23,-32,232,True
+Doug McDermott,1,1,57,1,Jump Shot,20,195,52,True
+Doug McDermott,1,4,41,1,Jump Shot,23,-226,80,False
+Doug McDermott,4,11,45,0,Jump Shot,19,-111,155,True
+Doug McDermott,1,5,47,0,Jump Shot,26,179,201,False
+Doug McDermott,2,6,45,0,Jump Shot,25,141,210,False
+Doug McDermott,1,3,17,0,Jump Shot,24,-191,160,False
+Doug McDermott,5,3,48,0,Jump Shot,20,71,187,True
+Doug McDermott,3,2,24,0,Jump Shot,23,-232,-3,False
+Doug McDermott,2,1,28,1,Jump Shot,25,-2,255,False
+Doug McDermott,3,4,12,0,Jump Shot,11,-109,30,True
+Doug McDermott,3,4,53,1,Jump Shot,22,225,-12,False
+Doug McDermott,2,4,29,0,Jump Shot,24,-135,201,False
+Doug McDermott,4,7,3,1,Jump Shot,24,-155,188,False
+Doug McDermott,1,0,49,1,Jump Shot,26,-153,211,False
+Doug McDermott,2,11,42,0,Jump Shot,23,-230,27,False
+Doug McDermott,4,9,37,1,Jump Shot,23,232,36,False
+Doug McDermott,4,11,16,0,Jump Shot,16,31,167,True
+Doug McDermott,2,9,54,0,Jump Shot,25,-107,226,False
+Doug McDermott,4,1,8,0,Jump Shot,23,234,13,False
+Doug McDermott,3,5,49,0,Jump Shot,23,-233,-8,False
+Doug McDermott,4,7,20,0,Jump Shot,34,177,296,False
+Doug McDermott,4,10,36,0,Jump Shot,23,-232,18,False
+Doug McDermott,2,0,41,1,Jump Shot,26,199,178,False
+Doug McDermott,4,11,50,1,Jump Shot,19,-9,194,True
+Doug McDermott,4,11,28,0,Jump Shot,24,-100,229,False
+Doug McDermott,2,0,2,1,Jump Shot,22,-226,-6,False
+Doug McDermott,1,4,9,0,Jump Shot,25,-160,195,False
+Doug McDermott,3,3,54,1,Jump Shot,20,-108,179,True
+Doug McDermott,4,1,9,0,Jump Shot,13,136,14,True
+Doug McDermott,3,2,1,1,Jump Shot,21,191,104,True
+Doug McDermott,3,1,34,0,Jump Shot,9,4,96,True
+Doug McDermott,2,11,34,0,Jump Shot,19,-3,192,True
+Doug McDermott,4,2,13,0,Jump Shot,23,230,8,False
+Doug McDermott,3,3,52,0,Jump Shot,24,-155,193,False
+Doug McDermott,2,5,2,0,Jump Shot,26,-87,253,False
+Doug McDermott,3,3,4,0,Jump Shot,24,-180,173,False
+Doug McDermott,2,5,42,1,Jump Shot,23,-229,43,False
+Doug McDermott,3,0,56,0,Jump Shot,26,98,248,False
+Doug McDermott,1,3,14,0,Jump Shot,23,-236,-15,False
+Doug McDermott,3,1,58,0,Jump Shot,27,145,230,False
+Doug McDermott,3,4,26,1,Jump Shot,23,-236,24,False
+Doug McDermott,4,5,28,1,Jump Shot,25,-160,199,False
+Doug McDermott,2,11,39,0,Jump Shot,19,-34,195,True
+Doug McDermott,2,8,37,1,Jump Shot,23,233,11,False
+Doug McDermott,3,6,4,1,Jump Shot,26,237,108,False
+Doug McDermott,2,6,38,0,Jump Shot,23,-234,-15,False
+Doug McDermott,3,2,23,1,Jump Shot,26,46,262,False
+Doug McDermott,3,0,7,0,Jump Shot,10,85,63,True
+Doug McDermott,1,3,49,1,Jump Shot,23,-231,-16,False
+Doug McDermott,2,9,40,0,Jump Shot,25,-86,242,False
+Doug McDermott,2,4,19,0,Jump Shot,26,-151,216,False
+Doug McDermott,2,10,11,1,Jump Shot,22,-220,-6,False
+Doug McDermott,4,6,0,0,Jump Shot,22,-228,22,False
+Doug McDermott,4,5,22,0,Jump Shot,25,98,235,False
+Doug McDermott,2,6,44,0,Jump Shot,22,-223,2,False
+Doug McDermott,4,7,42,0,Jump Shot,23,-230,5,False
+Doug McDermott,3,3,27,0,Jump Shot,22,225,21,False
+Doug McDermott,1,3,19,0,Jump Shot,6,-1,68,True
+Doug McDermott,1,0,0,1,Jump Shot,15,-153,6,True
+Doug McDermott,4,2,22,1,Jump Shot,24,-131,206,False
+Doug McDermott,2,9,28,1,Jump Shot,26,-136,230,False
+Doug McDermott,3,0,35,1,Jump Shot,26,144,227,False
+Doug McDermott,4,8,42,1,Jump Shot,26,45,266,False
+Doug McDermott,4,3,8,1,Jump Shot,23,-233,3,False
+Doug McDermott,4,11,32,1,Jump Shot,25,-127,219,False
+Doug McDermott,4,8,1,0,Jump Shot,26,-82,247,False
+Doug McDermott,4,10,16,0,Jump Shot,25,18,253,False
+Doug McDermott,4,10,2,0,Jump Shot,22,-226,5,False
+Doug McDermott,2,4,24,0,Jump Shot,26,123,232,False
+Doug McDermott,2,2,3,0,Jump Shot,25,104,234,False
+Doug McDermott,2,1,7,1,Jump Shot,23,-234,-16,False
+Doug McDermott,4,8,56,1,Jump Shot,27,92,255,False
+Doug McDermott,2,9,49,0,Jump Shot,17,-165,43,True
+Doug McDermott,4,0,33,0,Jump Shot,23,-231,-12,False
+Doug McDermott,4,10,0,0,Jump Shot,5,-47,29,True
+Doug McDermott,4,5,47,0,Jump Shot,21,82,195,True
+Doug McDermott,2,8,19,0,Jump Shot,23,231,8,False
+Doug McDermott,1,0,7,1,Jump Shot,25,-115,233,False
+Doug McDermott,2,10,23,0,Jump Shot,24,-223,112,False
+Doug McDermott,2,3,55,1,Jump Shot,23,-236,-6,False
+Doug McDermott,2,5,18,0,Jump Shot,25,-132,215,False
+Doug McDermott,3,0,42,0,Jump Shot,25,-178,179,False
+Doug McDermott,3,1,9,1,Jump Shot,25,-194,162,False
+Doug McDermott,2,10,39,1,Jump Shot,25,-102,236,False
+Doug McDermott,4,8,15,0,Jump Shot,24,-202,142,False
+Doug McDermott,3,1,29,0,Jump Shot,25,-11,253,False
+Doug McDermott,2,9,50,1,Jump Shot,25,-177,189,False
+Doug McDermott,3,1,49,1,Jump Shot,23,231,13,False
+Doug McDermott,4,9,46,0,Jump Shot,26,94,246,False
+Doug McDermott,3,1,43,1,Jump Shot,22,-228,-27,False
+Doug McDermott,1,1,10,0,Jump Shot,25,-101,233,False
+Doug McDermott,4,3,42,0,Jump Shot,26,106,247,False
+Doug McDermott,3,2,4,0,Jump Shot,16,-86,136,True
+Doug McDermott,5,2,34,0,Layup Shot,1,6,14,True
+Doug McDermott,2,11,21,1,Layup Shot,0,7,4,True
+Doug McDermott,4,9,32,1,Layup Shot,2,-18,22,True
+Doug McDermott,4,2,30,0,Layup Shot,2,-27,-1,True
+Doug McDermott,4,10,47,0,Layup Shot,1,-11,8,True
+Doug McDermott,2,6,38,1,Layup Shot,2,9,24,True
+Doug McDermott,5,3,21,1,Layup Shot,1,-10,14,True
+Doug McDermott,1,2,4,0,Layup Shot,1,-14,4,True
+Doug McDermott,4,5,46,1,Layup Shot,2,-20,13,True
+Doug McDermott,2,6,9,1,Layup Shot,6,55,38,True
+Doug McDermott,2,8,52,1,Layup Shot,2,-20,16,True
+Doug McDermott,2,7,28,0,Layup Shot,2,-27,3,True
+Doug McDermott,2,6,3,0,Layup Shot,1,-5,15,True
+Doug McDermott,4,1,13,0,Layup Shot,3,-8,30,True
+Doug McDermott,4,1,30,1,Layup Shot,0,-3,6,True
+Doug McDermott,3,5,6,1,Layup Shot,1,-6,8,True
+Doug McDermott,4,9,46,0,Layup Shot,3,-22,32,True
+Doug McDermott,4,11,22,1,Layup Shot,1,10,15,True
+Doug McDermott,4,9,52,1,Layup Shot,1,-4,11,True
+Doug McDermott,4,7,23,0,Layup Shot,1,16,-2,True
+Doug McDermott,3,10,46,0,Layup Shot,4,41,13,True
+Doug McDermott,3,2,1,1,Layup Shot,1,0,11,True
+Doug McDermott,2,2,42,0,Layup Shot,0,5,-1,True
+Doug McDermott,1,0,32,1,Layup Shot,0,0,7,True
+Doug McDermott,1,3,16,0,Layup Shot,1,13,-1,True
+Doug McDermott,4,10,50,1,Layup Shot,0,9,-1,True
+Doug McDermott,3,0,47,0,Layup Shot,1,-11,0,True
+Doug McDermott,4,8,18,1,Layup Shot,2,-23,5,True
+Doug McDermott,3,0,21,0,Layup Shot,0,6,-5,True
+Doug McDermott,4,9,42,1,Layup Shot,2,18,11,True
+Doug McDermott,4,8,33,1,Layup Shot,1,12,3,True
+Doug McDermott,2,3,46,1,Layup Shot,0,-6,5,True
+Doug McDermott,4,11,43,1,Layup Shot,0,-5,8,True
+Doug McDermott,2,10,59,1,Layup Shot,1,-11,11,True
+Doug McDermott,1,0,26,1,Layup Shot,1,5,10,True
+Doug McDermott,1,2,39,1,Layup Shot,0,6,2,True
+Doug McDermott,2,10,23,1,Layup Shot,1,-12,-6,True
+Doug McDermott,5,2,0,1,Layup Shot,1,-9,11,True
+Doug McDermott,1,2,46,0,Layup Shot,1,8,10,True
+Doug McDermott,4,9,36,0,Layup Shot,3,25,18,True
+Doug McDermott,4,6,21,0,Pullup Jump shot,9,-43,84,True
+Doug McDermott,4,2,6,0,Pullup Jump shot,20,-7,205,True
+Doug McDermott,2,8,35,1,Pullup Jump shot,13,-38,127,True
+Doug McDermott,2,10,43,0,Pullup Jump shot,20,62,197,True
+Doug McDermott,2,11,49,0,Pullup Jump shot,15,9,150,True
+Doug McDermott,3,1,52,0,Pullup Jump shot,14,46,142,True
+Doug McDermott,2,7,49,0,Pullup Jump shot,26,-55,262,False
+Doug McDermott,4,10,44,0,Pullup Jump shot,19,131,146,True
+Doug McDermott,1,1,34,1,Pullup Jump shot,19,-3,199,True
+Doug McDermott,4,8,43,0,Pullup Jump shot,17,73,158,True
+Doug McDermott,4,9,4,0,Pullup Jump shot,21,78,201,True
+Doug McDermott,2,11,24,0,Pullup Jump shot,18,163,94,True
+Doug McDermott,1,3,0,0,Pullup Jump shot,24,103,227,False
+Doug McDermott,1,0,47,1,Pullup Jump shot,6,55,34,True
+Doug McDermott,3,0,13,1,Pullup Jump shot,19,-22,196,True
+Doug McDermott,2,5,51,0,Pullup Jump shot,15,-95,120,True
+Doug McDermott,3,0,0,1,Pullup Jump shot,27,191,201,False
+Doug McDermott,2,6,7,0,Pullup Jump shot,20,-89,188,True
+Doug McDermott,2,11,17,0,Pullup Jump shot,25,-164,199,False
+Doug McDermott,4,10,44,0,Pullup Jump shot,19,171,103,True
+Doug McDermott,4,2,23,0,Pullup Jump shot,16,58,153,True
+Doug McDermott,2,8,5,0,Pullup Jump shot,28,-14,282,False
+Doug McDermott,1,0,36,0,Pullup Jump shot,26,-80,256,False
+Doug McDermott,2,6,43,1,Pullup Jump shot,20,-74,195,True
+Doug McDermott,1,6,1,0,Pullup Jump shot,20,171,111,True
+Doug McDermott,4,10,39,0,Pullup Jump shot,26,76,250,False
+Doug McDermott,3,4,5,0,Pullup Jump shot,25,-143,215,False
+Doug McDermott,2,11,49,1,Pullup Jump shot,16,3,160,True
+Doug McDermott,2,4,30,1,Putback Dunk Shot,0,0,-6,True
+Doug McDermott,2,9,23,0,Putback Layup Shot,1,-1,12,True
+Doug McDermott,3,0,2,1,Putback Layup Shot,1,-5,15,True
+Doug McDermott,4,11,3,1,Putback Layup Shot,0,0,-6,True
+Doug McDermott,2,1,13,1,Putback Layup Shot,0,0,-6,True
+Doug McDermott,3,0,17,1,Putback Layup Shot,1,-9,8,True
+Doug McDermott,1,0,34,1,Reverse Layup Shot,0,1,9,True
+Doug McDermott,1,3,53,1,Reverse Layup Shot,1,-6,10,True
+Doug McDermott,1,3,14,1,Reverse Layup Shot,0,-1,7,True
+Doug McDermott,3,3,51,1,Reverse Layup Shot,1,-8,12,True
+Doug McDermott,1,1,40,0,Reverse Layup Shot,1,16,5,True
+Doug McDermott,2,8,30,0,Reverse Layup Shot,1,8,14,True
+Doug McDermott,1,3,48,0,Reverse Layup Shot,1,-1,11,True
+Doug McDermott,2,11,44,1,Reverse Layup Shot,1,-5,16,True
+Doug McDermott,1,1,39,1,Reverse Layup Shot,1,6,12,True
+Doug McDermott,1,1,24,1,Reverse Layup Shot,0,-9,1,True
+Doug McDermott,1,2,8,1,Reverse Layup Shot,1,8,7,True
+Doug McDermott,2,10,10,1,Reverse Layup Shot,0,-8,-4,True
+Doug McDermott,2,10,54,1,Reverse Layup Shot,1,-11,6,True
+Doug McDermott,3,1,46,1,Reverse Layup Shot,1,-13,10,True
+Doug McDermott,4,11,26,1,Reverse Layup Shot,1,-18,4,True
+Doug McDermott,2,10,30,1,Reverse Layup Shot,1,-17,7,True
+Doug McDermott,2,9,10,1,Running Alley Oop Layup Shot,0,-6,-5,True
+Doug McDermott,1,1,7,1,Running Dunk Shot,0,-5,2,True
+Doug McDermott,4,3,15,1,Running Layup Shot,0,1,3,True
+Doug McDermott,3,4,39,0,Running Layup Shot,2,-3,27,True
+Doug McDermott,1,4,37,1,Running Layup Shot,0,0,1,True
+Doug McDermott,1,8,30,0,Running Layup Shot,1,-15,-4,True
+Doug McDermott,3,3,34,0,Running Layup Shot,2,-23,7,True
+Doug McDermott,2,10,37,1,Running Pull-Up Jump Shot,25,-150,212,False
+Doug McDermott,3,3,0,0,Running Pull-Up Jump Shot,25,-130,220,False
+Doug McDermott,1,10,27,1,Running Reverse Layup Shot,1,0,11,True
+Doug McDermott,4,1,35,1,Running Reverse Layup Shot,1,9,8,True
+Doug McDermott,3,2,55,0,Running Reverse Layup Shot,1,13,6,True
+Doug McDermott,1,8,27,0,Running Reverse Layup Shot,2,-26,13,True
+Doug McDermott,2,10,26,0,Running Reverse Layup Shot,0,4,5,True
+Doug McDermott,4,11,23,0,Step Back Jump shot,16,-115,113,True
+Doug McDermott,4,2,34,1,Step Back Jump shot,18,-107,153,True
+Doug McDermott,1,0,0,0,Step Back Jump shot,25,145,212,False
+Doug McDermott,3,4,45,0,Tip Layup Shot,0,0,-6,True
+Doug McDermott,4,11,35,0,Tip Layup Shot,2,-19,9,True
+Doug McDermott,1,1,27,0,Tip Layup Shot,0,0,5,True
+Doug McDermott,4,1,43,1,Tip Layup Shot,0,0,-6,True
+Doug McDermott,4,11,38,0,Tip Layup Shot,0,0,-6,True
+Doug McDermott,2,11,15,0,Tip Layup Shot,2,-12,18,True
+Doug McDermott,1,1,35,0,Tip Layup Shot,2,20,6,True
+Doug McDermott,4,2,18,0,Tip Layup Shot,0,0,-6,True
+Doug McDermott,4,9,53,0,Tip Layup Shot,1,0,15,True
+Doug McDermott,2,6,42,0,Tip Layup Shot,2,-22,1,True
+Doug McDermott,4,6,41,0,Turnaround Fadeaway shot,8,-86,14,True
+Doug McDermott,2,5,29,1,Turnaround Fadeaway shot,14,107,95,True
+Doug McDermott,4,2,0,0,Turnaround Fadeaway shot,12,121,4,True
+Doug McDermott,3,3,38,0,Turnaround Fadeaway shot,11,-111,27,True
+Doug McDermott,4,10,31,1,Turnaround Fadeaway shot,12,110,68,True
+Doug McDermott,3,4,19,0,Turnaround Fadeaway shot,11,44,106,True
+Doug McDermott,4,5,5,1,Turnaround Fadeaway shot,9,-82,57,True
+Doug McDermott,1,8,58,0,Turnaround Fadeaway shot,12,-41,116,True
+Doug McDermott,4,1,38,0,Turnaround Jump Shot,8,-65,57,True
+Doug McDermott,2,0,53,0,Turnaround Jump Shot,20,-130,162,True

@@ -1,0 +1,1518 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Russell Westbrook,3,4,37,0,Alley Oop Dunk Shot,0,2,-1,True
+Russell Westbrook,3,5,21,0,Alley Oop Layup shot,0,8,5,True
+Russell Westbrook,2,6,49,1,Cutting Dunk Shot,1,-9,6,True
+Russell Westbrook,3,6,32,0,Cutting Dunk Shot,0,-5,7,True
+Russell Westbrook,2,1,36,1,Cutting Dunk Shot,1,5,18,True
+Russell Westbrook,1,5,17,1,Cutting Dunk Shot,1,9,9,True
+Russell Westbrook,2,5,5,1,Cutting Dunk Shot,0,2,4,True
+Russell Westbrook,3,5,33,0,Cutting Dunk Shot,1,1,17,True
+Russell Westbrook,3,9,54,1,Cutting Dunk Shot,0,-3,5,True
+Russell Westbrook,4,0,6,1,Cutting Finger Roll Layup Shot,0,5,1,True
+Russell Westbrook,3,10,27,1,Cutting Layup Shot,1,0,11,True
+Russell Westbrook,3,8,59,0,Cutting Layup Shot,1,16,11,True
+Russell Westbrook,1,8,1,1,Cutting Layup Shot,1,14,1,True
+Russell Westbrook,3,2,43,1,Cutting Layup Shot,1,-14,0,True
+Russell Westbrook,1,8,6,1,Cutting Layup Shot,0,1,4,True
+Russell Westbrook,1,2,45,0,Driving Dunk Shot,0,0,0,True
+Russell Westbrook,3,2,18,0,Driving Dunk Shot,1,14,5,True
+Russell Westbrook,2,5,8,1,Driving Dunk Shot,0,2,-5,True
+Russell Westbrook,4,5,32,1,Driving Dunk Shot,0,3,4,True
+Russell Westbrook,3,6,38,0,Driving Dunk Shot,1,-11,13,True
+Russell Westbrook,3,10,40,0,Driving Dunk Shot,1,-7,17,True
+Russell Westbrook,1,3,11,1,Driving Dunk Shot,0,5,0,True
+Russell Westbrook,2,0,7,1,Driving Dunk Shot,1,3,11,True
+Russell Westbrook,4,0,25,1,Driving Dunk Shot,0,-2,0,True
+Russell Westbrook,2,7,8,1,Driving Dunk Shot,1,0,14,True
+Russell Westbrook,3,3,1,1,Driving Dunk Shot,0,-3,-8,True
+Russell Westbrook,1,4,44,0,Driving Dunk Shot,0,0,8,True
+Russell Westbrook,1,3,13,0,Driving Dunk Shot,1,-3,10,True
+Russell Westbrook,4,7,58,1,Driving Dunk Shot,0,-3,6,True
+Russell Westbrook,2,5,58,1,Driving Dunk Shot,0,-9,-1,True
+Russell Westbrook,2,3,17,1,Driving Dunk Shot,1,5,9,True
+Russell Westbrook,2,1,41,1,Driving Dunk Shot,0,-6,1,True
+Russell Westbrook,1,6,12,0,Driving Dunk Shot,1,12,8,True
+Russell Westbrook,3,1,16,1,Driving Dunk Shot,1,5,17,True
+Russell Westbrook,4,9,24,1,Driving Dunk Shot,0,0,5,True
+Russell Westbrook,4,0,15,1,Driving Dunk Shot,0,-1,7,True
+Russell Westbrook,2,5,20,1,Driving Dunk Shot,1,2,13,True
+Russell Westbrook,1,3,53,1,Driving Finger Roll Layup Shot,2,-2,20,True
+Russell Westbrook,4,6,0,1,Driving Finger Roll Layup Shot,1,15,12,True
+Russell Westbrook,2,1,37,1,Driving Finger Roll Layup Shot,1,-2,15,True
+Russell Westbrook,3,4,32,1,Driving Finger Roll Layup Shot,1,-5,10,True
+Russell Westbrook,3,0,29,0,Driving Finger Roll Layup Shot,1,-16,4,True
+Russell Westbrook,1,3,42,1,Driving Finger Roll Layup Shot,0,0,0,True
+Russell Westbrook,4,1,44,1,Driving Finger Roll Layup Shot,0,3,6,True
+Russell Westbrook,3,7,28,0,Driving Finger Roll Layup Shot,1,-14,1,True
+Russell Westbrook,2,2,32,1,Driving Finger Roll Layup Shot,2,5,23,True
+Russell Westbrook,4,3,2,1,Driving Finger Roll Layup Shot,1,-12,2,True
+Russell Westbrook,3,2,47,1,Driving Finger Roll Layup Shot,0,0,-9,True
+Russell Westbrook,1,9,14,0,Driving Finger Roll Layup Shot,1,-18,-8,True
+Russell Westbrook,3,1,28,1,Driving Finger Roll Layup Shot,0,3,4,True
+Russell Westbrook,1,10,41,1,Driving Finger Roll Layup Shot,2,19,15,True
+Russell Westbrook,2,7,48,1,Driving Finger Roll Layup Shot,1,0,10,True
+Russell Westbrook,4,0,28,1,Driving Finger Roll Layup Shot,1,-8,18,True
+Russell Westbrook,2,0,37,1,Driving Finger Roll Layup Shot,3,-27,15,True
+Russell Westbrook,3,5,5,0,Driving Finger Roll Layup Shot,1,-1,17,True
+Russell Westbrook,3,4,28,1,Driving Finger Roll Layup Shot,1,-13,0,True
+Russell Westbrook,3,5,19,0,Driving Finger Roll Layup Shot,3,-25,17,True
+Russell Westbrook,5,2,56,1,Driving Finger Roll Layup Shot,2,-25,12,True
+Russell Westbrook,4,1,44,1,Driving Finger Roll Layup Shot,1,-3,17,True
+Russell Westbrook,2,4,18,1,Driving Finger Roll Layup Shot,1,5,15,True
+Russell Westbrook,2,5,7,0,Driving Finger Roll Layup Shot,1,-2,13,True
+Russell Westbrook,1,3,18,1,Driving Finger Roll Layup Shot,0,1,8,True
+Russell Westbrook,2,4,6,0,Driving Finger Roll Layup Shot,1,-12,11,True
+Russell Westbrook,4,1,22,0,Driving Finger Roll Layup Shot,1,15,12,True
+Russell Westbrook,5,0,13,1,Driving Finger Roll Layup Shot,0,0,5,True
+Russell Westbrook,2,3,21,1,Driving Finger Roll Layup Shot,0,1,8,True
+Russell Westbrook,1,1,55,1,Driving Finger Roll Layup Shot,0,6,5,True
+Russell Westbrook,1,6,10,1,Driving Finger Roll Layup Shot,2,-22,13,True
+Russell Westbrook,1,6,18,1,Driving Finger Roll Layup Shot,0,0,5,True
+Russell Westbrook,3,7,33,1,Driving Finger Roll Layup Shot,1,14,13,True
+Russell Westbrook,4,5,1,1,Driving Finger Roll Layup Shot,0,3,4,True
+Russell Westbrook,4,1,47,0,Driving Finger Roll Layup Shot,1,-1,13,True
+Russell Westbrook,3,3,15,1,Driving Finger Roll Layup Shot,0,-7,-1,True
+Russell Westbrook,4,3,47,1,Driving Finger Roll Layup Shot,0,-6,4,True
+Russell Westbrook,1,4,38,1,Driving Finger Roll Layup Shot,2,19,14,True
+Russell Westbrook,1,8,11,0,Driving Floating Bank Jump Shot,9,-91,36,True
+Russell Westbrook,2,6,57,1,Driving Floating Bank Jump Shot,7,67,41,True
+Russell Westbrook,2,7,5,1,Driving Floating Bank Jump Shot,7,41,59,True
+Russell Westbrook,3,5,28,0,Driving Floating Bank Jump Shot,9,-81,50,True
+Russell Westbrook,1,5,26,0,Driving Floating Bank Jump Shot,4,17,38,True
+Russell Westbrook,2,8,46,1,Driving Floating Bank Jump Shot,6,-54,30,True
+Russell Westbrook,1,4,26,1,Driving Floating Bank Jump Shot,6,-55,27,True
+Russell Westbrook,3,4,26,1,Driving Floating Bank Jump Shot,2,-3,21,True
+Russell Westbrook,1,3,37,0,Driving Floating Bank Jump Shot,4,40,16,True
+Russell Westbrook,4,0,51,1,Driving Floating Bank Jump Shot,1,-7,16,True
+Russell Westbrook,2,6,43,0,Driving Floating Bank Jump Shot,5,-41,34,True
+Russell Westbrook,2,5,8,1,Driving Floating Bank Jump Shot,7,-69,25,True
+Russell Westbrook,1,5,25,1,Driving Floating Bank Jump Shot,11,-44,103,True
+Russell Westbrook,1,2,38,1,Driving Floating Bank Jump Shot,7,-63,38,True
+Russell Westbrook,3,10,47,0,Driving Floating Bank Jump Shot,12,-81,101,True
+Russell Westbrook,4,4,43,0,Driving Floating Jump Shot,10,-81,71,True
+Russell Westbrook,1,2,42,0,Driving Floating Jump Shot,3,-33,4,True
+Russell Westbrook,4,4,52,1,Driving Floating Jump Shot,3,-33,20,True
+Russell Westbrook,2,6,42,0,Driving Floating Jump Shot,8,-8,88,True
+Russell Westbrook,1,3,33,1,Driving Floating Jump Shot,4,9,48,True
+Russell Westbrook,1,0,32,1,Driving Floating Jump Shot,7,-65,27,True
+Russell Westbrook,1,5,50,0,Driving Floating Jump Shot,4,44,16,True
+Russell Westbrook,3,7,32,0,Driving Layup Shot,0,5,1,True
+Russell Westbrook,1,10,36,1,Driving Layup Shot,2,-11,22,True
+Russell Westbrook,1,6,39,0,Driving Layup Shot,4,-32,31,True
+Russell Westbrook,1,6,7,0,Driving Layup Shot,0,-9,-1,True
+Russell Westbrook,3,7,31,0,Driving Layup Shot,1,4,16,True
+Russell Westbrook,3,4,10,1,Driving Layup Shot,1,-7,15,True
+Russell Westbrook,1,9,32,0,Driving Layup Shot,0,0,3,True
+Russell Westbrook,2,4,38,1,Driving Layup Shot,1,4,11,True
+Russell Westbrook,3,5,45,1,Driving Layup Shot,1,-9,5,True
+Russell Westbrook,3,8,23,1,Driving Layup Shot,1,2,13,True
+Russell Westbrook,1,3,47,0,Driving Layup Shot,2,17,20,True
+Russell Westbrook,4,7,56,1,Driving Layup Shot,1,-12,0,True
+Russell Westbrook,1,3,16,0,Driving Layup Shot,3,18,27,True
+Russell Westbrook,4,0,39,1,Driving Layup Shot,1,-16,2,True
+Russell Westbrook,3,3,59,0,Driving Layup Shot,1,16,7,True
+Russell Westbrook,1,7,39,1,Driving Layup Shot,4,-44,9,True
+Russell Westbrook,3,9,49,0,Driving Layup Shot,3,-22,21,True
+Russell Westbrook,3,7,11,1,Driving Layup Shot,0,5,8,True
+Russell Westbrook,4,6,34,0,Driving Layup Shot,2,24,8,True
+Russell Westbrook,1,8,50,0,Driving Layup Shot,0,-5,3,True
+Russell Westbrook,2,5,30,0,Driving Layup Shot,1,9,5,True
+Russell Westbrook,2,0,30,1,Driving Layup Shot,1,13,3,True
+Russell Westbrook,1,6,57,0,Driving Layup Shot,0,2,8,True
+Russell Westbrook,3,8,19,1,Driving Layup Shot,1,14,6,True
+Russell Westbrook,1,5,38,0,Driving Layup Shot,1,-9,13,True
+Russell Westbrook,3,6,26,0,Driving Layup Shot,2,20,4,True
+Russell Westbrook,3,6,13,0,Driving Layup Shot,0,8,0,True
+Russell Westbrook,1,3,21,1,Driving Layup Shot,1,8,11,True
+Russell Westbrook,3,3,25,0,Driving Layup Shot,3,30,5,True
+Russell Westbrook,1,7,15,0,Driving Layup Shot,0,8,5,True
+Russell Westbrook,1,9,6,0,Driving Layup Shot,1,-9,11,True
+Russell Westbrook,4,6,47,1,Driving Layup Shot,0,8,1,True
+Russell Westbrook,2,6,5,1,Driving Layup Shot,1,-12,4,True
+Russell Westbrook,1,0,6,0,Driving Layup Shot,1,-13,6,True
+Russell Westbrook,4,6,16,0,Driving Layup Shot,0,7,4,True
+Russell Westbrook,3,2,8,0,Driving Layup Shot,2,-1,25,True
+Russell Westbrook,2,0,27,1,Driving Layup Shot,0,2,-2,True
+Russell Westbrook,3,2,34,1,Driving Layup Shot,0,5,4,True
+Russell Westbrook,2,7,16,1,Driving Layup Shot,0,7,6,True
+Russell Westbrook,4,3,27,0,Driving Layup Shot,1,-6,12,True
+Russell Westbrook,4,1,4,1,Driving Layup Shot,1,-13,8,True
+Russell Westbrook,3,8,40,0,Driving Layup Shot,1,0,17,True
+Russell Westbrook,3,8,6,1,Driving Layup Shot,2,2,27,True
+Russell Westbrook,1,10,6,0,Driving Layup Shot,1,-6,11,True
+Russell Westbrook,4,3,42,0,Driving Layup Shot,1,10,4,True
+Russell Westbrook,4,4,8,1,Driving Layup Shot,1,10,2,True
+Russell Westbrook,1,2,25,1,Driving Layup Shot,0,-6,0,True
+Russell Westbrook,2,4,19,0,Driving Layup Shot,1,-10,8,True
+Russell Westbrook,4,9,6,1,Driving Layup Shot,0,-2,-4,True
+Russell Westbrook,1,3,58,0,Driving Layup Shot,1,17,10,True
+Russell Westbrook,4,4,9,1,Driving Layup Shot,1,3,13,True
+Russell Westbrook,1,7,2,1,Driving Layup Shot,1,3,18,True
+Russell Westbrook,4,4,19,1,Driving Layup Shot,1,14,8,True
+Russell Westbrook,1,5,50,1,Driving Layup Shot,1,10,10,True
+Russell Westbrook,3,3,38,1,Driving Layup Shot,1,-6,13,True
+Russell Westbrook,3,7,10,0,Driving Layup Shot,1,14,7,True
+Russell Westbrook,4,0,56,0,Driving Layup Shot,5,-51,20,True
+Russell Westbrook,4,0,28,1,Driving Layup Shot,1,11,5,True
+Russell Westbrook,2,2,59,0,Driving Layup Shot,0,-3,3,True
+Russell Westbrook,1,3,46,1,Driving Layup Shot,1,14,9,True
+Russell Westbrook,4,2,20,1,Driving Layup Shot,1,-5,13,True
+Russell Westbrook,1,11,44,0,Driving Layup Shot,1,7,8,True
+Russell Westbrook,4,6,26,1,Driving Layup Shot,1,-8,10,True
+Russell Westbrook,3,9,39,1,Driving Layup Shot,1,-9,7,True
+Russell Westbrook,4,1,50,1,Driving Layup Shot,0,-6,7,True
+Russell Westbrook,5,0,38,1,Driving Layup Shot,2,14,15,True
+Russell Westbrook,3,11,52,0,Driving Layup Shot,3,29,10,True
+Russell Westbrook,1,3,30,0,Driving Layup Shot,3,-9,31,True
+Russell Westbrook,4,1,35,0,Driving Layup Shot,0,-5,8,True
+Russell Westbrook,2,6,1,0,Driving Layup Shot,1,-15,1,True
+Russell Westbrook,2,7,55,1,Driving Layup Shot,3,2,30,True
+Russell Westbrook,2,8,31,1,Driving Layup Shot,0,-4,8,True
+Russell Westbrook,4,0,13,1,Driving Layup Shot,2,4,21,True
+Russell Westbrook,3,3,54,1,Driving Layup Shot,0,5,5,True
+Russell Westbrook,3,7,31,1,Driving Layup Shot,1,-3,18,True
+Russell Westbrook,2,5,39,1,Driving Layup Shot,2,-9,19,True
+Russell Westbrook,4,4,0,0,Driving Layup Shot,3,-33,10,True
+Russell Westbrook,3,4,6,0,Driving Layup Shot,2,-15,19,True
+Russell Westbrook,2,3,58,1,Driving Layup Shot,1,18,5,True
+Russell Westbrook,1,8,41,0,Driving Layup Shot,1,-4,14,True
+Russell Westbrook,1,11,41,1,Driving Layup Shot,3,-18,34,True
+Russell Westbrook,4,2,59,0,Driving Layup Shot,0,7,6,True
+Russell Westbrook,3,8,13,0,Driving Layup Shot,0,-4,3,True
+Russell Westbrook,3,5,52,1,Driving Layup Shot,1,-8,7,True
+Russell Westbrook,4,6,30,0,Driving Layup Shot,6,47,44,True
+Russell Westbrook,2,6,24,0,Driving Layup Shot,4,25,35,True
+Russell Westbrook,1,3,21,0,Driving Layup Shot,3,-25,25,True
+Russell Westbrook,2,4,26,1,Driving Layup Shot,1,16,11,True
+Russell Westbrook,4,8,18,1,Driving Layup Shot,1,14,-6,True
+Russell Westbrook,1,4,7,1,Driving Layup Shot,0,-8,5,True
+Russell Westbrook,1,5,10,1,Driving Layup Shot,0,-2,4,True
+Russell Westbrook,2,2,9,1,Driving Layup Shot,0,5,-4,True
+Russell Westbrook,2,2,28,1,Driving Layup Shot,0,8,3,True
+Russell Westbrook,1,3,1,1,Driving Layup Shot,0,6,3,True
+Russell Westbrook,4,1,27,1,Driving Layup Shot,2,3,21,True
+Russell Westbrook,4,4,6,0,Driving Layup Shot,1,-5,18,True
+Russell Westbrook,3,2,45,0,Driving Layup Shot,1,17,-1,True
+Russell Westbrook,4,2,17,0,Driving Layup Shot,2,22,18,True
+Russell Westbrook,2,5,38,1,Driving Layup Shot,0,2,-5,True
+Russell Westbrook,1,3,39,0,Driving Layup Shot,2,-8,19,True
+Russell Westbrook,1,8,30,1,Driving Layup Shot,1,6,10,True
+Russell Westbrook,2,0,7,0,Driving Layup Shot,1,7,17,True
+Russell Westbrook,4,2,3,1,Driving Layup Shot,1,8,12,True
+Russell Westbrook,3,2,31,1,Driving Layup Shot,2,-9,20,True
+Russell Westbrook,1,5,56,1,Driving Layup Shot,2,-15,17,True
+Russell Westbrook,2,0,59,1,Driving Layup Shot,1,14,-10,True
+Russell Westbrook,4,6,55,1,Driving Layup Shot,0,8,-1,True
+Russell Westbrook,3,5,13,0,Driving Layup Shot,0,-6,-3,True
+Russell Westbrook,1,9,45,0,Driving Layup Shot,1,-10,0,True
+Russell Westbrook,3,2,50,1,Driving Layup Shot,0,4,7,True
+Russell Westbrook,1,6,3,0,Driving Layup Shot,2,-16,-15,True
+Russell Westbrook,2,1,0,0,Driving Layup Shot,1,-6,10,True
+Russell Westbrook,2,2,54,1,Driving Layup Shot,1,14,14,True
+Russell Westbrook,1,11,38,1,Driving Layup Shot,1,8,9,True
+Russell Westbrook,2,1,46,1,Driving Layup Shot,2,-13,17,True
+Russell Westbrook,4,5,45,1,Driving Layup Shot,1,-9,10,True
+Russell Westbrook,2,8,47,1,Driving Layup Shot,1,-10,3,True
+Russell Westbrook,3,9,36,0,Driving Layup Shot,1,10,5,True
+Russell Westbrook,3,7,38,0,Driving Layup Shot,1,4,13,True
+Russell Westbrook,4,0,3,1,Driving Layup Shot,1,16,3,True
+Russell Westbrook,3,11,48,1,Driving Layup Shot,0,-8,-3,True
+Russell Westbrook,2,6,2,1,Driving Layup Shot,0,6,5,True
+Russell Westbrook,2,9,10,0,Driving Layup Shot,1,9,13,True
+Russell Westbrook,2,0,28,0,Driving Layup Shot,1,-11,10,True
+Russell Westbrook,3,5,11,0,Driving Layup Shot,0,9,2,True
+Russell Westbrook,2,5,29,1,Driving Layup Shot,0,-6,5,True
+Russell Westbrook,2,2,35,0,Driving Layup Shot,1,-14,9,True
+Russell Westbrook,2,4,33,0,Driving Layup Shot,2,-3,23,True
+Russell Westbrook,3,2,29,0,Driving Layup Shot,1,-4,16,True
+Russell Westbrook,1,5,42,1,Driving Layup Shot,0,-6,-5,True
+Russell Westbrook,2,7,49,0,Driving Layup Shot,0,9,3,True
+Russell Westbrook,2,2,7,0,Driving Layup Shot,1,-18,4,True
+Russell Westbrook,3,8,15,0,Driving Layup Shot,1,-2,11,True
+Russell Westbrook,2,2,7,0,Driving Layup Shot,1,2,14,True
+Russell Westbrook,2,1,17,1,Driving Layup Shot,2,-11,17,True
+Russell Westbrook,1,3,31,0,Driving Layup Shot,1,2,17,True
+Russell Westbrook,4,5,43,1,Driving Layup Shot,2,-20,4,True
+Russell Westbrook,3,8,19,1,Driving Layup Shot,2,-5,20,True
+Russell Westbrook,4,4,8,0,Driving Layup Shot,1,-8,11,True
+Russell Westbrook,2,4,30,1,Driving Layup Shot,1,-4,16,True
+Russell Westbrook,3,6,48,1,Driving Layup Shot,1,-11,12,True
+Russell Westbrook,4,5,49,0,Driving Layup Shot,1,-9,13,True
+Russell Westbrook,2,0,34,0,Driving Layup Shot,2,18,20,True
+Russell Westbrook,4,3,20,0,Driving Layup Shot,2,-10,21,True
+Russell Westbrook,1,3,15,0,Driving Layup Shot,0,-3,4,True
+Russell Westbrook,3,8,57,1,Driving Layup Shot,0,-2,3,True
+Russell Westbrook,1,7,39,1,Driving Layup Shot,2,-6,27,True
+Russell Westbrook,1,9,4,1,Driving Layup Shot,0,0,5,True
+Russell Westbrook,1,6,56,1,Driving Layup Shot,1,11,2,True
+Russell Westbrook,3,3,58,1,Driving Layup Shot,0,9,3,True
+Russell Westbrook,3,8,49,0,Driving Layup Shot,2,20,12,True
+Russell Westbrook,1,4,31,1,Driving Layup Shot,2,2,21,True
+Russell Westbrook,4,7,48,1,Driving Layup Shot,0,-8,4,True
+Russell Westbrook,4,1,38,1,Driving Layup Shot,1,12,9,True
+Russell Westbrook,2,0,35,1,Driving Layup Shot,2,3,23,True
+Russell Westbrook,3,5,48,1,Driving Layup Shot,0,5,4,True
+Russell Westbrook,1,3,28,0,Driving Layup Shot,2,-9,18,True
+Russell Westbrook,2,0,24,1,Driving Layup Shot,2,18,10,True
+Russell Westbrook,4,6,27,0,Driving Layup Shot,3,5,34,True
+Russell Westbrook,1,5,52,0,Driving Layup Shot,6,25,64,True
+Russell Westbrook,4,2,18,1,Driving Layup Shot,1,-11,2,True
+Russell Westbrook,2,8,36,0,Driving Layup Shot,0,3,-2,True
+Russell Westbrook,2,3,48,1,Driving Layup Shot,1,7,8,True
+Russell Westbrook,2,2,42,1,Driving Layup Shot,0,-5,6,True
+Russell Westbrook,2,4,45,1,Driving Layup Shot,0,1,5,True
+Russell Westbrook,3,6,4,1,Driving Layup Shot,1,-2,13,True
+Russell Westbrook,3,4,45,0,Driving Layup Shot,5,-44,37,True
+Russell Westbrook,2,7,7,0,Driving Layup Shot,1,11,16,True
+Russell Westbrook,4,5,49,1,Driving Layup Shot,1,-6,17,True
+Russell Westbrook,1,3,1,1,Driving Layup Shot,2,14,26,True
+Russell Westbrook,3,3,9,0,Driving Layup Shot,2,10,18,True
+Russell Westbrook,2,8,53,1,Driving Layup Shot,0,0,6,True
+Russell Westbrook,1,2,4,0,Driving Layup Shot,1,14,9,True
+Russell Westbrook,2,2,39,0,Driving Layup Shot,0,2,9,True
+Russell Westbrook,1,2,39,0,Driving Layup Shot,2,-22,8,True
+Russell Westbrook,2,0,29,0,Driving Layup Shot,1,-9,5,True
+Russell Westbrook,4,2,5,0,Driving Layup Shot,1,14,4,True
+Russell Westbrook,3,3,18,0,Driving Layup Shot,3,-8,31,True
+Russell Westbrook,1,9,41,0,Driving Layup Shot,1,-8,11,True
+Russell Westbrook,4,7,53,0,Driving Layup Shot,3,29,21,True
+Russell Westbrook,2,3,34,0,Driving Layup Shot,1,-1,18,True
+Russell Westbrook,1,4,43,0,Driving Layup Shot,1,-3,11,True
+Russell Westbrook,3,6,16,1,Driving Layup Shot,0,-6,7,True
+Russell Westbrook,2,0,36,1,Driving Layup Shot,1,-16,8,True
+Russell Westbrook,3,8,39,1,Driving Layup Shot,1,9,12,True
+Russell Westbrook,4,1,32,1,Driving Layup Shot,0,3,8,True
+Russell Westbrook,3,4,24,1,Driving Layup Shot,1,-12,10,True
+Russell Westbrook,3,9,25,1,Driving Layup Shot,1,2,10,True
+Russell Westbrook,2,5,53,1,Driving Layup Shot,1,14,5,True
+Russell Westbrook,2,2,9,1,Driving Layup Shot,0,5,4,True
+Russell Westbrook,1,0,28,1,Driving Layup Shot,0,-3,6,True
+Russell Westbrook,3,8,12,0,Driving Layup Shot,2,22,13,True
+Russell Westbrook,1,6,42,0,Driving Layup Shot,1,19,4,True
+Russell Westbrook,3,9,4,1,Driving Layup Shot,0,-6,6,True
+Russell Westbrook,3,7,33,0,Driving Layup Shot,1,11,9,True
+Russell Westbrook,1,2,23,1,Driving Layup Shot,0,0,8,True
+Russell Westbrook,2,1,2,0,Driving Layup Shot,0,9,2,True
+Russell Westbrook,4,0,13,1,Driving Layup Shot,1,-13,-4,True
+Russell Westbrook,3,7,19,0,Driving Layup Shot,0,-5,0,True
+Russell Westbrook,4,5,4,0,Driving Layup Shot,2,-5,27,True
+Russell Westbrook,1,3,42,0,Driving Layup Shot,1,-15,8,True
+Russell Westbrook,1,8,56,0,Driving Layup Shot,3,34,-2,True
+Russell Westbrook,2,5,33,1,Driving Layup Shot,1,2,11,True
+Russell Westbrook,5,0,22,0,Driving Layup Shot,2,-24,1,True
+Russell Westbrook,1,5,18,1,Driving Layup Shot,0,7,4,True
+Russell Westbrook,3,3,9,0,Driving Layup Shot,1,-13,8,True
+Russell Westbrook,1,11,20,1,Driving Layup Shot,0,1,8,True
+Russell Westbrook,2,4,14,1,Driving Layup Shot,1,-13,-5,True
+Russell Westbrook,2,2,28,0,Driving Layup Shot,1,2,13,True
+Russell Westbrook,1,3,20,0,Driving Layup Shot,1,14,13,True
+Russell Westbrook,1,2,47,1,Driving Layup Shot,1,-6,13,True
+Russell Westbrook,2,2,34,1,Driving Layup Shot,0,6,-2,True
+Russell Westbrook,4,5,14,0,Driving Layup Shot,0,6,6,True
+Russell Westbrook,2,5,59,0,Driving Layup Shot,0,-3,4,True
+Russell Westbrook,2,6,26,1,Driving Layup Shot,1,3,10,True
+Russell Westbrook,1,4,31,1,Driving Layup Shot,1,-4,11,True
+Russell Westbrook,3,7,33,0,Driving Layup Shot,1,13,10,True
+Russell Westbrook,2,3,29,0,Driving Layup Shot,1,-4,13,True
+Russell Westbrook,1,11,39,0,Driving Layup Shot,0,7,0,True
+Russell Westbrook,3,6,9,1,Driving Layup Shot,0,-1,-4,True
+Russell Westbrook,4,2,39,0,Driving Layup Shot,0,-6,3,True
+Russell Westbrook,4,4,21,1,Driving Layup Shot,0,-6,0,True
+Russell Westbrook,1,6,37,0,Driving Layup Shot,2,13,17,True
+Russell Westbrook,2,0,0,0,Driving Layup Shot,1,3,19,True
+Russell Westbrook,4,8,40,1,Driving Layup Shot,0,8,3,True
+Russell Westbrook,1,4,18,1,Driving Layup Shot,1,6,14,True
+Russell Westbrook,4,2,29,1,Driving Layup Shot,2,13,16,True
+Russell Westbrook,3,9,18,1,Driving Layup Shot,0,6,4,True
+Russell Westbrook,2,0,47,0,Driving Layup Shot,1,3,15,True
+Russell Westbrook,4,8,31,1,Driving Layup Shot,1,7,13,True
+Russell Westbrook,2,1,9,1,Driving Layup Shot,1,14,6,True
+Russell Westbrook,4,5,14,0,Driving Layup Shot,2,3,20,True
+Russell Westbrook,3,7,26,1,Driving Layup Shot,2,-6,22,True
+Russell Westbrook,2,2,22,0,Driving Layup Shot,1,-6,12,True
+Russell Westbrook,4,2,4,1,Driving Layup Shot,1,1,14,True
+Russell Westbrook,2,5,53,0,Driving Layup Shot,2,20,17,True
+Russell Westbrook,4,6,17,1,Driving Layup Shot,1,-12,12,True
+Russell Westbrook,2,2,42,1,Driving Layup Shot,0,1,-2,True
+Russell Westbrook,1,4,12,1,Driving Layup Shot,0,7,-6,True
+Russell Westbrook,2,5,52,1,Driving Layup Shot,1,-10,-6,True
+Russell Westbrook,3,8,51,0,Driving Layup Shot,2,12,16,True
+Russell Westbrook,4,0,40,0,Driving Layup Shot,1,5,13,True
+Russell Westbrook,3,4,22,1,Driving Layup Shot,1,-6,16,True
+Russell Westbrook,4,0,20,1,Driving Layup Shot,2,7,25,True
+Russell Westbrook,4,2,54,0,Driving Layup Shot,0,3,8,True
+Russell Westbrook,1,2,41,0,Driving Layup Shot,1,11,11,True
+Russell Westbrook,3,11,17,1,Driving Layup Shot,0,4,8,True
+Russell Westbrook,3,8,21,1,Driving Layup Shot,0,3,6,True
+Russell Westbrook,2,0,7,0,Driving Layup Shot,1,-9,13,True
+Russell Westbrook,3,5,43,1,Driving Layup Shot,1,-13,0,True
+Russell Westbrook,2,3,55,0,Driving Layup Shot,1,-9,17,True
+Russell Westbrook,4,5,48,1,Driving Layup Shot,1,9,11,True
+Russell Westbrook,1,8,24,1,Driving Layup Shot,0,2,-2,True
+Russell Westbrook,2,3,33,1,Driving Layup Shot,1,-10,9,True
+Russell Westbrook,1,8,53,1,Driving Layup Shot,1,-8,11,True
+Russell Westbrook,1,2,55,0,Driving Layup Shot,0,-8,3,True
+Russell Westbrook,4,2,7,1,Driving Layup Shot,3,-1,36,True
+Russell Westbrook,4,7,11,0,Driving Layup Shot,0,8,0,True
+Russell Westbrook,2,0,28,0,Driving Layup Shot,0,-5,5,True
+Russell Westbrook,1,11,51,1,Driving Layup Shot,0,7,3,True
+Russell Westbrook,3,5,3,0,Driving Layup Shot,7,13,69,True
+Russell Westbrook,3,2,5,0,Driving Layup Shot,3,27,28,True
+Russell Westbrook,1,2,7,1,Driving Layup Shot,1,19,4,True
+Russell Westbrook,3,11,47,0,Driving Layup Shot,2,21,13,True
+Russell Westbrook,3,10,0,0,Driving Layup Shot,0,9,0,True
+Russell Westbrook,4,4,13,0,Driving Layup Shot,0,-9,2,True
+Russell Westbrook,4,6,44,0,Driving Layup Shot,1,5,17,True
+Russell Westbrook,4,6,14,0,Driving Layup Shot,1,5,13,True
+Russell Westbrook,1,2,53,1,Driving Layup Shot,0,1,-2,True
+Russell Westbrook,4,6,50,0,Driving Layup Shot,1,10,1,True
+Russell Westbrook,4,4,44,0,Driving Layup Shot,0,8,0,True
+Russell Westbrook,4,0,36,1,Driving Layup Shot,2,-19,11,True
+Russell Westbrook,2,6,8,1,Driving Layup Shot,0,-3,1,True
+Russell Westbrook,1,10,29,1,Driving Reverse Layup Shot,1,-11,5,True
+Russell Westbrook,3,10,14,1,Driving Reverse Layup Shot,0,3,8,True
+Russell Westbrook,1,8,51,0,Driving Reverse Layup Shot,1,-8,15,True
+Russell Westbrook,2,10,11,0,Driving Reverse Layup Shot,0,7,0,True
+Russell Westbrook,1,4,57,0,Driving Reverse Layup Shot,0,6,5,True
+Russell Westbrook,3,8,12,0,Driving Reverse Layup Shot,0,8,-4,True
+Russell Westbrook,3,4,56,0,Driving Reverse Layup Shot,1,18,7,True
+Russell Westbrook,3,7,35,1,Dunk Shot,0,2,1,True
+Russell Westbrook,1,7,55,1,Dunk Shot,1,8,8,True
+Russell Westbrook,3,3,16,1,Dunk Shot,0,0,5,True
+Russell Westbrook,3,1,37,1,Dunk Shot,3,4,31,True
+Russell Westbrook,2,4,15,0,Dunk Shot,1,-2,10,True
+Russell Westbrook,3,4,32,0,Fadeaway Jump Shot,9,-13,90,True
+Russell Westbrook,3,8,13,1,Fadeaway Jump Shot,16,141,94,True
+Russell Westbrook,1,8,29,0,Fadeaway Jump Shot,10,-106,13,True
+Russell Westbrook,3,4,34,1,Fadeaway Jump Shot,14,103,104,True
+Russell Westbrook,3,5,46,0,Fadeaway Jump Shot,11,63,92,True
+Russell Westbrook,3,5,7,1,Fadeaway Jump Shot,10,-16,102,True
+Russell Westbrook,1,9,12,0,Fadeaway Jump Shot,16,82,142,True
+Russell Westbrook,2,0,34,0,Fadeaway Jump Shot,20,133,161,True
+Russell Westbrook,3,3,18,0,Fadeaway Jump Shot,10,0,105,True
+Russell Westbrook,2,4,45,1,Fadeaway Jump Shot,11,90,68,True
+Russell Westbrook,4,5,55,1,Fadeaway Jump Shot,16,87,141,True
+Russell Westbrook,3,8,15,1,Finger Roll Layup Shot,2,-25,1,True
+Russell Westbrook,1,8,15,0,Finger Roll Layup Shot,3,32,20,True
+Russell Westbrook,4,4,59,0,Floating Jump shot,5,-3,55,True
+Russell Westbrook,3,5,46,0,Floating Jump shot,11,51,104,True
+Russell Westbrook,4,6,0,1,Floating Jump shot,9,-15,94,True
+Russell Westbrook,3,1,21,0,Floating Jump shot,9,22,93,True
+Russell Westbrook,3,7,9,0,Floating Jump shot,9,2,96,True
+Russell Westbrook,4,2,32,1,Floating Jump shot,11,-103,42,True
+Russell Westbrook,4,3,38,0,Floating Jump shot,4,6,49,True
+Russell Westbrook,4,6,30,1,Jump Bank Shot,27,-135,234,False
+Russell Westbrook,1,6,10,0,Jump Bank Shot,7,-57,52,True
+Russell Westbrook,3,3,43,0,Jump Bank Shot,17,-136,115,True
+Russell Westbrook,2,8,49,0,Jump Bank Shot,2,-20,10,True
+Russell Westbrook,2,5,53,1,Jump Bank Shot,15,-143,71,True
+Russell Westbrook,3,0,27,0,Jump Bank Shot,4,-35,32,True
+Russell Westbrook,3,2,47,1,Jump Bank Shot,6,56,22,True
+Russell Westbrook,2,0,51,1,Jump Bank Shot,15,-130,83,True
+Russell Westbrook,2,5,27,1,Jump Bank Shot,14,-109,101,True
+Russell Westbrook,3,5,22,1,Jump Bank Shot,9,-82,46,True
+Russell Westbrook,4,7,18,0,Jump Shot,27,-136,236,False
+Russell Westbrook,3,6,17,0,Jump Shot,24,-26,247,False
+Russell Westbrook,4,0,53,0,Jump Shot,25,119,226,False
+Russell Westbrook,2,3,34,0,Jump Shot,25,131,222,False
+Russell Westbrook,4,0,19,0,Jump Shot,16,-152,55,True
+Russell Westbrook,3,1,22,1,Jump Shot,27,-80,264,False
+Russell Westbrook,2,1,19,1,Jump Shot,26,57,261,False
+Russell Westbrook,1,8,27,0,Jump Shot,17,-150,80,True
+Russell Westbrook,3,2,55,0,Jump Shot,16,1,162,True
+Russell Westbrook,4,3,34,1,Jump Shot,25,147,204,False
+Russell Westbrook,1,1,58,1,Jump Shot,22,223,18,False
+Russell Westbrook,1,4,0,0,Jump Shot,17,-72,154,True
+Russell Westbrook,4,0,0,1,Jump Shot,25,8,258,False
+Russell Westbrook,1,9,24,1,Jump Shot,19,33,193,True
+Russell Westbrook,4,1,38,0,Jump Shot,24,44,243,False
+Russell Westbrook,3,4,29,0,Jump Shot,20,28,199,True
+Russell Westbrook,2,7,13,0,Jump Shot,25,-68,241,False
+Russell Westbrook,1,4,39,0,Jump Shot,13,-106,88,True
+Russell Westbrook,3,10,6,0,Jump Shot,24,115,220,False
+Russell Westbrook,4,0,0,0,Jump Shot,28,-157,242,False
+Russell Westbrook,1,10,54,1,Jump Shot,12,82,99,True
+Russell Westbrook,1,3,55,1,Jump Shot,17,135,117,True
+Russell Westbrook,2,4,0,0,Jump Shot,11,3,110,True
+Russell Westbrook,3,7,50,0,Jump Shot,26,126,237,False
+Russell Westbrook,1,8,24,0,Jump Shot,19,174,95,True
+Russell Westbrook,1,2,33,1,Jump Shot,13,78,114,True
+Russell Westbrook,2,0,1,0,Jump Shot,26,66,253,False
+Russell Westbrook,1,4,30,0,Jump Shot,21,141,164,True
+Russell Westbrook,1,4,35,0,Jump Shot,2,13,27,True
+Russell Westbrook,4,1,36,1,Jump Shot,16,114,113,True
+Russell Westbrook,2,6,49,1,Jump Shot,14,110,98,True
+Russell Westbrook,3,9,54,0,Jump Shot,19,-88,173,True
+Russell Westbrook,3,2,48,1,Jump Shot,24,209,125,False
+Russell Westbrook,4,4,26,0,Jump Shot,26,-148,217,False
+Russell Westbrook,2,2,57,0,Jump Shot,22,229,-2,False
+Russell Westbrook,3,5,28,0,Jump Shot,24,-169,184,False
+Russell Westbrook,1,11,14,1,Jump Shot,20,122,166,True
+Russell Westbrook,4,5,34,1,Jump Shot,25,162,193,False
+Russell Westbrook,4,8,36,0,Jump Shot,25,176,178,False
+Russell Westbrook,2,0,33,0,Jump Shot,25,-140,208,False
+Russell Westbrook,3,3,17,0,Jump Shot,31,-143,284,False
+Russell Westbrook,2,1,57,0,Jump Shot,29,1,290,False
+Russell Westbrook,4,3,5,1,Jump Shot,24,96,230,False
+Russell Westbrook,4,1,44,1,Jump Shot,22,222,13,False
+Russell Westbrook,1,1,9,0,Jump Shot,24,-9,243,False
+Russell Westbrook,3,6,0,0,Jump Shot,25,-99,233,False
+Russell Westbrook,1,5,36,1,Jump Shot,11,-112,19,True
+Russell Westbrook,4,4,39,1,Jump Shot,26,38,260,False
+Russell Westbrook,4,8,0,0,Jump Shot,26,-103,241,False
+Russell Westbrook,4,3,46,1,Jump Shot,25,157,202,False
+Russell Westbrook,3,7,3,1,Jump Shot,25,152,206,False
+Russell Westbrook,4,6,20,1,Jump Shot,25,188,168,False
+Russell Westbrook,3,5,35,0,Jump Shot,20,-44,204,True
+Russell Westbrook,3,9,10,0,Jump Shot,19,-143,138,True
+Russell Westbrook,4,1,45,0,Jump Shot,17,-58,167,True
+Russell Westbrook,2,6,2,0,Jump Shot,18,-80,172,True
+Russell Westbrook,4,3,25,0,Jump Shot,28,-67,272,False
+Russell Westbrook,3,0,52,0,Jump Shot,21,-154,144,True
+Russell Westbrook,4,0,9,0,Jump Shot,32,-183,264,False
+Russell Westbrook,2,6,28,1,Jump Shot,20,-80,184,True
+Russell Westbrook,3,2,40,0,Jump Shot,26,-144,218,False
+Russell Westbrook,2,3,31,1,Jump Shot,25,5,252,False
+Russell Westbrook,3,11,23,0,Jump Shot,26,-122,232,False
+Russell Westbrook,1,11,15,1,Jump Shot,18,-112,153,True
+Russell Westbrook,1,5,17,0,Jump Shot,19,101,167,True
+Russell Westbrook,1,7,52,0,Jump Shot,24,-82,231,False
+Russell Westbrook,2,0,46,0,Jump Shot,25,-140,210,False
+Russell Westbrook,1,8,31,0,Jump Shot,19,160,113,True
+Russell Westbrook,4,3,21,1,Jump Shot,25,-111,235,False
+Russell Westbrook,3,8,44,1,Jump Shot,26,160,206,False
+Russell Westbrook,1,3,21,0,Jump Shot,17,152,84,True
+Russell Westbrook,4,6,11,0,Jump Shot,25,151,205,False
+Russell Westbrook,1,3,13,0,Jump Shot,13,-128,46,True
+Russell Westbrook,3,10,56,0,Jump Shot,17,2,179,True
+Russell Westbrook,4,1,17,0,Jump Shot,23,-231,2,False
+Russell Westbrook,4,0,56,1,Jump Shot,25,-196,159,False
+Russell Westbrook,1,2,50,1,Jump Shot,24,-146,199,False
+Russell Westbrook,1,11,21,0,Jump Shot,24,-168,183,False
+Russell Westbrook,3,6,46,1,Jump Shot,25,-8,254,False
+Russell Westbrook,2,1,44,0,Jump Shot,20,-44,200,True
+Russell Westbrook,2,8,23,0,Jump Shot,13,14,132,True
+Russell Westbrook,3,5,12,0,Jump Shot,12,117,44,True
+Russell Westbrook,3,3,56,1,Jump Shot,24,11,247,False
+Russell Westbrook,3,11,24,0,Jump Shot,24,185,163,False
+Russell Westbrook,4,0,55,0,Jump Shot,21,-100,193,True
+Russell Westbrook,1,8,33,0,Jump Shot,20,169,124,True
+Russell Westbrook,4,5,50,1,Jump Shot,19,-103,165,True
+Russell Westbrook,2,1,21,0,Jump Shot,27,-11,273,False
+Russell Westbrook,2,7,13,0,Jump Shot,15,76,138,True
+Russell Westbrook,1,3,54,0,Jump Shot,28,71,272,False
+Russell Westbrook,4,0,0,0,Jump Shot,23,-136,187,True
+Russell Westbrook,1,4,15,0,Jump Shot,13,87,107,True
+Russell Westbrook,4,0,20,0,Jump Shot,25,-9,253,False
+Russell Westbrook,1,8,43,0,Jump Shot,20,140,154,True
+Russell Westbrook,2,5,9,0,Jump Shot,24,112,223,False
+Russell Westbrook,4,8,12,0,Jump Shot,17,-68,161,True
+Russell Westbrook,3,8,16,0,Jump Shot,25,109,225,False
+Russell Westbrook,3,3,7,0,Jump Shot,25,-33,257,False
+Russell Westbrook,3,7,5,0,Jump Shot,26,139,221,False
+Russell Westbrook,4,0,16,1,Jump Shot,25,36,255,False
+Russell Westbrook,4,4,0,1,Jump Shot,26,158,213,False
+Russell Westbrook,3,3,56,0,Jump Shot,26,139,222,False
+Russell Westbrook,2,4,3,1,Jump Shot,26,127,232,False
+Russell Westbrook,4,5,53,1,Jump Shot,26,-182,193,False
+Russell Westbrook,4,0,21,0,Jump Shot,26,-86,246,False
+Russell Westbrook,4,1,10,1,Jump Shot,23,-227,42,False
+Russell Westbrook,2,6,23,0,Jump Shot,26,70,256,False
+Russell Westbrook,4,6,5,0,Jump Shot,24,105,217,False
+Russell Westbrook,3,6,38,0,Jump Shot,16,-81,148,True
+Russell Westbrook,4,7,59,0,Jump Shot,25,205,147,False
+Russell Westbrook,1,6,12,0,Jump Shot,24,-193,155,False
+Russell Westbrook,4,4,30,0,Jump Shot,25,-217,126,False
+Russell Westbrook,3,5,34,0,Jump Shot,24,166,180,False
+Russell Westbrook,2,5,14,0,Jump Shot,15,68,143,True
+Russell Westbrook,3,10,1,0,Jump Shot,25,-232,102,False
+Russell Westbrook,2,2,37,1,Jump Shot,21,127,171,True
+Russell Westbrook,3,5,57,0,Jump Shot,14,62,131,True
+Russell Westbrook,4,3,34,0,Jump Shot,26,177,195,False
+Russell Westbrook,3,10,17,0,Jump Shot,26,129,227,False
+Russell Westbrook,1,9,47,1,Jump Shot,20,38,199,True
+Russell Westbrook,4,5,16,0,Jump Shot,26,-179,189,False
+Russell Westbrook,2,4,57,0,Jump Shot,25,-33,250,False
+Russell Westbrook,1,6,5,1,Jump Shot,19,103,163,True
+Russell Westbrook,4,0,2,0,Jump Shot,26,161,207,False
+Russell Westbrook,1,9,38,0,Jump Shot,10,-100,1,True
+Russell Westbrook,4,0,46,0,Jump Shot,24,128,214,False
+Russell Westbrook,4,8,29,0,Jump Shot,16,-60,152,True
+Russell Westbrook,3,4,13,0,Jump Shot,24,-229,76,False
+Russell Westbrook,4,6,45,0,Jump Shot,12,106,71,True
+Russell Westbrook,2,1,45,1,Jump Shot,13,123,57,True
+Russell Westbrook,3,0,30,0,Jump Shot,25,110,225,False
+Russell Westbrook,1,7,50,0,Jump Shot,24,-199,150,False
+Russell Westbrook,2,6,52,0,Jump Shot,24,-101,220,False
+Russell Westbrook,4,4,44,1,Jump Shot,21,-29,215,True
+Russell Westbrook,4,5,10,1,Jump Shot,25,-56,244,False
+Russell Westbrook,1,3,34,1,Jump Shot,24,-118,220,False
+Russell Westbrook,4,8,33,0,Jump Shot,26,-122,230,False
+Russell Westbrook,3,7,45,1,Jump Shot,16,-131,100,True
+Russell Westbrook,5,1,16,0,Jump Shot,25,211,139,False
+Russell Westbrook,2,8,1,1,Jump Shot,25,181,176,False
+Russell Westbrook,2,3,9,1,Jump Shot,21,-218,-5,False
+Russell Westbrook,4,1,33,0,Jump Shot,9,30,95,True
+Russell Westbrook,3,9,2,0,Jump Shot,14,101,108,True
+Russell Westbrook,3,7,18,0,Jump Shot,24,-183,163,False
+Russell Westbrook,3,6,3,1,Jump Shot,24,142,198,False
+Russell Westbrook,4,7,24,0,Jump Shot,25,31,257,False
+Russell Westbrook,1,7,9,0,Jump Shot,9,84,53,True
+Russell Westbrook,1,8,43,0,Jump Shot,26,143,221,False
+Russell Westbrook,2,4,40,0,Jump Shot,17,-139,114,True
+Russell Westbrook,4,7,26,0,Jump Shot,12,105,70,True
+Russell Westbrook,1,3,47,1,Jump Shot,19,183,78,True
+Russell Westbrook,4,6,7,1,Jump Shot,25,-111,230,False
+Russell Westbrook,3,7,39,1,Jump Shot,25,-218,134,False
+Russell Westbrook,1,7,26,0,Jump Shot,17,30,173,True
+Russell Westbrook,3,2,20,0,Jump Shot,19,-103,165,True
+Russell Westbrook,1,0,1,0,Jump Shot,26,-163,205,False
+Russell Westbrook,3,8,12,0,Jump Shot,17,-76,163,True
+Russell Westbrook,1,1,40,0,Jump Shot,13,-35,131,True
+Russell Westbrook,3,2,51,0,Jump Shot,28,63,278,False
+Russell Westbrook,2,4,4,0,Jump Shot,26,116,239,False
+Russell Westbrook,1,3,10,0,Jump Shot,23,234,36,False
+Russell Westbrook,3,3,26,0,Jump Shot,24,-149,196,False
+Russell Westbrook,4,3,58,0,Jump Shot,25,-38,253,False
+Russell Westbrook,4,0,54,1,Jump Shot,34,-177,294,False
+Russell Westbrook,2,8,30,1,Jump Shot,16,-90,135,True
+Russell Westbrook,3,7,25,1,Jump Shot,17,-174,32,True
+Russell Westbrook,4,4,36,0,Jump Shot,19,38,188,True
+Russell Westbrook,3,8,46,0,Jump Shot,16,1,162,True
+Russell Westbrook,4,6,8,0,Jump Shot,20,96,176,True
+Russell Westbrook,2,3,37,0,Jump Shot,27,9,273,False
+Russell Westbrook,1,9,17,1,Jump Shot,11,113,13,True
+Russell Westbrook,3,0,29,0,Jump Shot,26,-147,216,False
+Russell Westbrook,3,10,21,1,Jump Shot,25,147,214,False
+Russell Westbrook,2,4,54,0,Jump Shot,25,241,75,False
+Russell Westbrook,4,1,42,0,Jump Shot,25,-131,217,False
+Russell Westbrook,2,0,0,0,Jump Shot,28,125,251,False
+Russell Westbrook,4,4,3,0,Jump Shot,24,232,62,False
+Russell Westbrook,4,0,54,0,Jump Shot,28,101,268,False
+Russell Westbrook,4,3,34,0,Jump Shot,18,172,55,True
+Russell Westbrook,1,7,58,0,Jump Shot,21,158,149,True
+Russell Westbrook,2,6,42,0,Jump Shot,15,-155,5,True
+Russell Westbrook,1,7,25,1,Jump Shot,20,-32,199,True
+Russell Westbrook,3,7,46,0,Jump Shot,12,108,69,True
+Russell Westbrook,3,2,22,0,Jump Shot,13,125,50,True
+Russell Westbrook,4,2,8,1,Jump Shot,25,-166,195,False
+Russell Westbrook,4,2,40,1,Jump Shot,24,-144,200,False
+Russell Westbrook,3,8,8,0,Jump Shot,14,-126,62,True
+Russell Westbrook,1,1,49,1,Jump Shot,26,70,260,False
+Russell Westbrook,4,0,9,0,Jump Shot,26,176,194,False
+Russell Westbrook,4,5,31,0,Jump Shot,24,-113,214,False
+Russell Westbrook,1,11,25,0,Jump Shot,25,160,195,False
+Russell Westbrook,1,10,27,0,Jump Shot,3,-15,29,True
+Russell Westbrook,2,0,27,0,Jump Shot,11,-113,-8,True
+Russell Westbrook,2,6,7,0,Jump Shot,10,-100,14,True
+Russell Westbrook,3,2,44,0,Jump Shot,24,102,223,False
+Russell Westbrook,1,11,21,1,Jump Shot,18,188,1,True
+Russell Westbrook,4,0,0,0,Jump Shot,27,-68,267,False
+Russell Westbrook,5,4,17,0,Jump Shot,6,5,69,True
+Russell Westbrook,3,0,32,0,Jump Shot,26,68,257,False
+Russell Westbrook,2,6,51,0,Jump Shot,25,-209,152,False
+Russell Westbrook,2,8,17,0,Jump Shot,11,70,90,True
+Russell Westbrook,3,9,32,0,Jump Shot,24,228,84,False
+Russell Westbrook,2,8,8,0,Jump Shot,27,177,211,False
+Russell Westbrook,1,8,23,0,Jump Shot,19,177,73,True
+Russell Westbrook,3,1,36,1,Jump Shot,25,-225,122,False
+Russell Westbrook,3,4,3,0,Jump Shot,25,-81,242,False
+Russell Westbrook,4,10,10,1,Jump Shot,22,-225,12,False
+Russell Westbrook,4,7,1,1,Jump Shot,24,-112,223,False
+Russell Westbrook,2,1,51,0,Jump Shot,17,76,161,True
+Russell Westbrook,1,0,1,0,Jump Shot,25,142,213,False
+Russell Westbrook,1,7,29,0,Jump Shot,17,163,53,True
+Russell Westbrook,1,1,29,1,Jump Shot,18,131,131,True
+Russell Westbrook,3,9,20,0,Jump Shot,26,141,225,False
+Russell Westbrook,3,8,42,1,Jump Shot,25,98,236,False
+Russell Westbrook,3,7,7,0,Jump Shot,24,221,116,False
+Russell Westbrook,1,3,59,0,Jump Shot,14,-73,125,True
+Russell Westbrook,2,8,40,0,Jump Shot,15,-73,132,True
+Russell Westbrook,2,3,42,1,Jump Shot,11,94,58,True
+Russell Westbrook,3,9,34,0,Jump Shot,27,-6,270,False
+Russell Westbrook,3,7,57,0,Jump Shot,16,-86,145,True
+Russell Westbrook,2,1,41,0,Jump Shot,25,150,203,False
+Russell Westbrook,4,6,4,0,Jump Shot,27,-28,270,False
+Russell Westbrook,2,7,1,0,Jump Shot,24,172,176,False
+Russell Westbrook,1,6,50,1,Jump Shot,9,-91,-6,True
+Russell Westbrook,2,6,1,0,Jump Shot,23,-231,-10,False
+Russell Westbrook,3,4,56,0,Jump Shot,26,-18,267,False
+Russell Westbrook,3,9,20,0,Jump Shot,19,-145,127,True
+Russell Westbrook,3,4,2,0,Jump Shot,20,-142,154,True
+Russell Westbrook,3,7,44,0,Jump Shot,17,-175,17,True
+Russell Westbrook,3,0,5,0,Jump Shot,28,-101,270,False
+Russell Westbrook,1,11,12,0,Jump Shot,14,-105,97,True
+Russell Westbrook,3,9,44,1,Jump Shot,24,-201,145,False
+Russell Westbrook,3,1,30,0,Jump Shot,25,-8,258,False
+Russell Westbrook,3,5,16,0,Jump Shot,24,-123,211,False
+Russell Westbrook,1,4,58,0,Jump Shot,25,-192,172,False
+Russell Westbrook,3,5,58,1,Jump Shot,24,124,216,False
+Russell Westbrook,2,7,52,1,Jump Shot,24,140,206,False
+Russell Westbrook,4,0,25,0,Jump Shot,26,11,260,False
+Russell Westbrook,2,3,39,0,Jump Shot,14,-90,109,True
+Russell Westbrook,4,1,52,0,Jump Shot,14,120,73,True
+Russell Westbrook,4,3,46,0,Jump Shot,26,-125,235,False
+Russell Westbrook,4,4,41,0,Jump Shot,25,-132,221,False
+Russell Westbrook,2,7,46,0,Jump Shot,16,-70,153,True
+Russell Westbrook,2,1,44,1,Jump Shot,24,-195,146,False
+Russell Westbrook,3,5,13,0,Jump Shot,25,-225,122,False
+Russell Westbrook,1,10,33,0,Jump Shot,26,-30,264,False
+Russell Westbrook,2,8,48,0,Jump Shot,23,230,28,False
+Russell Westbrook,1,6,37,1,Jump Shot,1,11,4,True
+Russell Westbrook,1,11,18,0,Jump Shot,24,-129,214,False
+Russell Westbrook,2,7,17,1,Layup Shot,2,16,22,True
+Russell Westbrook,1,9,41,0,Layup Shot,1,-2,10,True
+Russell Westbrook,3,5,0,1,Layup Shot,1,-6,8,True
+Russell Westbrook,4,4,36,0,Layup Shot,3,28,17,True
+Russell Westbrook,2,0,3,0,Layup Shot,1,7,17,True
+Russell Westbrook,1,3,6,0,Layup Shot,1,7,9,True
+Russell Westbrook,1,3,21,1,Layup Shot,0,8,3,True
+Russell Westbrook,1,11,5,0,Layup Shot,1,-11,5,True
+Russell Westbrook,3,6,22,0,Layup Shot,2,3,29,True
+Russell Westbrook,2,3,59,1,Layup Shot,1,-16,-3,True
+Russell Westbrook,3,10,33,1,Layup Shot,0,-5,1,True
+Russell Westbrook,2,6,19,0,Layup Shot,3,20,24,True
+Russell Westbrook,2,7,53,1,Layup Shot,1,10,-3,True
+Russell Westbrook,3,6,6,1,Layup Shot,1,-12,1,True
+Russell Westbrook,4,1,39,0,Layup Shot,2,-24,16,True
+Russell Westbrook,3,5,0,0,Layup Shot,1,-18,6,True
+Russell Westbrook,1,1,0,1,Layup Shot,1,-5,18,True
+Russell Westbrook,2,2,50,1,Layup Shot,1,-19,5,True
+Russell Westbrook,3,4,17,1,Layup Shot,0,3,8,True
+Russell Westbrook,3,2,53,0,Layup Shot,2,18,18,True
+Russell Westbrook,3,7,22,1,Layup Shot,2,-16,12,True
+Russell Westbrook,3,5,7,0,Layup Shot,1,16,11,True
+Russell Westbrook,3,2,46,0,Layup Shot,4,30,29,True
+Russell Westbrook,1,7,15,0,Layup Shot,2,-10,22,True
+Russell Westbrook,2,1,2,1,Layup Shot,0,1,3,True
+Russell Westbrook,4,5,58,1,Layup Shot,3,13,37,True
+Russell Westbrook,2,6,55,0,Layup Shot,2,18,9,True
+Russell Westbrook,4,7,35,1,Layup Shot,0,-2,1,True
+Russell Westbrook,2,3,21,1,Layup Shot,2,8,21,True
+Russell Westbrook,1,8,15,1,Layup Shot,0,6,0,True
+Russell Westbrook,4,1,5,1,Layup Shot,2,-8,28,True
+Russell Westbrook,1,7,58,0,Layup Shot,3,2,30,True
+Russell Westbrook,2,3,43,0,Layup Shot,3,6,34,True
+Russell Westbrook,2,2,2,0,Layup Shot,0,7,1,True
+Russell Westbrook,1,6,9,0,Layup Shot,0,1,-4,True
+Russell Westbrook,3,3,23,0,Layup Shot,1,1,16,True
+Russell Westbrook,3,4,38,1,Layup Shot,2,-12,22,True
+Russell Westbrook,4,4,45,0,Layup Shot,2,16,13,True
+Russell Westbrook,1,4,15,0,Layup Shot,3,-6,32,True
+Russell Westbrook,1,6,37,0,Layup Shot,2,8,21,True
+Russell Westbrook,1,5,3,0,Layup Shot,3,-22,23,True
+Russell Westbrook,4,4,21,0,Layup Shot,1,-19,6,True
+Russell Westbrook,1,6,45,1,Layup Shot,0,6,5,True
+Russell Westbrook,2,1,40,1,Layup Shot,1,14,14,True
+Russell Westbrook,3,9,38,0,Layup Shot,4,-38,23,True
+Russell Westbrook,1,6,1,0,Layup Shot,4,-5,44,True
+Russell Westbrook,4,6,43,0,Layup Shot,2,24,16,True
+Russell Westbrook,1,4,4,1,Layup Shot,1,3,17,True
+Russell Westbrook,2,2,20,0,Layup Shot,5,-58,13,True
+Russell Westbrook,1,9,12,0,Layup Shot,2,14,21,True
+Russell Westbrook,1,6,55,0,Layup Shot,1,-11,4,True
+Russell Westbrook,2,2,49,0,Layup Shot,1,-10,9,True
+Russell Westbrook,4,2,17,1,Layup Shot,1,14,12,True
+Russell Westbrook,2,2,26,1,Layup Shot,2,-14,18,True
+Russell Westbrook,4,0,54,0,Pullup Jump shot,24,154,188,False
+Russell Westbrook,1,4,23,0,Pullup Jump shot,16,-112,120,True
+Russell Westbrook,1,7,12,0,Pullup Jump shot,17,-95,146,True
+Russell Westbrook,4,5,57,0,Pullup Jump shot,14,78,124,True
+Russell Westbrook,2,8,21,1,Pullup Jump shot,17,62,159,True
+Russell Westbrook,2,6,10,1,Pullup Jump shot,19,-116,157,True
+Russell Westbrook,3,8,26,0,Pullup Jump shot,22,-134,176,True
+Russell Westbrook,2,4,17,0,Pullup Jump shot,24,-82,234,False
+Russell Westbrook,2,7,53,1,Pullup Jump shot,15,-88,122,True
+Russell Westbrook,1,3,29,1,Pullup Jump shot,11,66,100,True
+Russell Westbrook,1,11,2,1,Pullup Jump shot,17,-69,162,True
+Russell Westbrook,1,8,27,1,Pullup Jump shot,24,-6,248,False
+Russell Westbrook,2,1,15,0,Pullup Jump shot,24,200,133,False
+Russell Westbrook,1,6,35,0,Pullup Jump shot,18,158,89,True
+Russell Westbrook,3,3,39,1,Pullup Jump shot,19,-71,183,True
+Russell Westbrook,4,1,14,0,Pullup Jump shot,24,176,174,False
+Russell Westbrook,1,3,8,0,Pullup Jump shot,25,-96,231,False
+Russell Westbrook,1,7,39,0,Pullup Jump shot,14,67,126,True
+Russell Westbrook,2,2,11,0,Pullup Jump shot,14,127,60,True
+Russell Westbrook,2,7,21,0,Pullup Jump shot,17,-109,139,True
+Russell Westbrook,1,4,26,1,Pullup Jump shot,17,82,157,True
+Russell Westbrook,3,7,40,1,Pullup Jump shot,24,-5,247,False
+Russell Westbrook,3,10,57,1,Pullup Jump shot,13,13,134,True
+Russell Westbrook,3,9,22,0,Pullup Jump shot,4,11,43,True
+Russell Westbrook,3,7,29,0,Pullup Jump shot,25,196,160,False
+Russell Westbrook,2,0,7,0,Pullup Jump shot,25,54,251,False
+Russell Westbrook,2,5,55,0,Pullup Jump shot,14,149,17,True
+Russell Westbrook,4,5,1,0,Pullup Jump shot,16,145,72,True
+Russell Westbrook,1,6,22,0,Pullup Jump shot,11,111,36,True
+Russell Westbrook,2,2,56,0,Pullup Jump shot,21,-78,203,True
+Russell Westbrook,2,2,50,1,Pullup Jump shot,17,-153,76,True
+Russell Westbrook,3,10,16,0,Pullup Jump shot,24,-219,118,False
+Russell Westbrook,2,0,28,1,Pullup Jump shot,24,-79,237,False
+Russell Westbrook,1,5,54,0,Pullup Jump shot,14,147,13,True
+Russell Westbrook,2,6,43,1,Pullup Jump shot,24,136,208,False
+Russell Westbrook,1,9,4,0,Pullup Jump shot,16,-128,98,True
+Russell Westbrook,1,9,46,0,Pullup Jump shot,21,36,215,True
+Russell Westbrook,1,11,25,0,Pullup Jump shot,21,-30,211,True
+Russell Westbrook,2,2,32,0,Pullup Jump shot,12,55,116,True
+Russell Westbrook,2,4,24,0,Pullup Jump shot,16,89,137,True
+Russell Westbrook,1,6,32,1,Pullup Jump shot,20,101,176,True
+Russell Westbrook,4,3,20,0,Pullup Jump shot,27,-149,237,False
+Russell Westbrook,1,4,58,1,Pullup Jump shot,15,-143,65,True
+Russell Westbrook,4,7,44,0,Pullup Jump shot,15,107,112,True
+Russell Westbrook,4,5,10,0,Pullup Jump shot,18,73,174,True
+Russell Westbrook,4,1,38,0,Pullup Jump shot,20,-41,202,True
+Russell Westbrook,2,8,28,0,Pullup Jump shot,17,84,148,True
+Russell Westbrook,4,0,2,0,Pullup Jump shot,26,-122,235,False
+Russell Westbrook,1,4,49,0,Pullup Jump shot,11,-105,58,True
+Russell Westbrook,4,6,37,0,Pullup Jump shot,25,190,170,False
+Russell Westbrook,3,7,21,0,Pullup Jump shot,27,7,271,False
+Russell Westbrook,3,4,43,0,Pullup Jump shot,18,-182,10,True
+Russell Westbrook,4,1,6,0,Pullup Jump shot,19,49,184,True
+Russell Westbrook,4,4,35,1,Pullup Jump shot,13,-126,60,True
+Russell Westbrook,3,3,6,0,Pullup Jump shot,25,-36,248,False
+Russell Westbrook,3,9,43,0,Pullup Jump shot,17,-140,113,True
+Russell Westbrook,2,0,1,0,Pullup Jump shot,25,117,222,False
+Russell Westbrook,4,4,54,1,Pullup Jump shot,15,36,151,True
+Russell Westbrook,1,6,30,0,Pullup Jump shot,25,-155,202,False
+Russell Westbrook,3,4,46,0,Pullup Jump shot,18,96,153,True
+Russell Westbrook,1,4,10,0,Pullup Jump shot,25,33,257,False
+Russell Westbrook,2,2,44,1,Pullup Jump shot,18,-141,117,True
+Russell Westbrook,1,5,2,1,Pullup Jump shot,12,29,125,True
+Russell Westbrook,3,8,32,1,Pullup Jump shot,12,54,113,True
+Russell Westbrook,3,3,29,1,Pullup Jump shot,24,-41,242,False
+Russell Westbrook,2,3,56,0,Pullup Jump shot,14,3,145,True
+Russell Westbrook,4,1,48,0,Pullup Jump shot,26,-136,223,False
+Russell Westbrook,4,2,27,0,Pullup Jump shot,24,71,233,False
+Russell Westbrook,4,0,2,0,Pullup Jump shot,26,-65,254,False
+Russell Westbrook,4,5,36,0,Pullup Jump shot,10,80,67,True
+Russell Westbrook,5,1,45,1,Pullup Jump shot,20,-81,190,True
+Russell Westbrook,3,4,43,0,Pullup Jump shot,10,13,105,True
+Russell Westbrook,2,2,24,1,Pullup Jump shot,25,85,237,False
+Russell Westbrook,2,5,17,0,Pullup Jump shot,14,55,137,True
+Russell Westbrook,2,1,58,0,Pullup Jump shot,25,84,236,False
+Russell Westbrook,4,7,9,0,Pullup Jump shot,24,-58,241,False
+Russell Westbrook,1,3,37,0,Pullup Jump shot,3,2,30,True
+Russell Westbrook,1,11,18,1,Pullup Jump shot,16,78,141,True
+Russell Westbrook,3,8,19,1,Pullup Jump shot,16,70,148,True
+Russell Westbrook,3,5,8,0,Pullup Jump shot,20,18,205,True
+Russell Westbrook,1,4,24,1,Pullup Jump shot,17,107,144,True
+Russell Westbrook,4,6,56,0,Pullup Jump shot,25,169,190,False
+Russell Westbrook,4,7,55,1,Pullup Jump shot,25,-125,226,False
+Russell Westbrook,4,0,30,1,Pullup Jump shot,24,44,246,False
+Russell Westbrook,3,10,46,1,Pullup Jump shot,14,19,146,True
+Russell Westbrook,2,4,39,1,Pullup Jump shot,19,-55,183,True
+Russell Westbrook,3,7,43,0,Pullup Jump shot,16,144,78,True
+Russell Westbrook,2,5,46,1,Pullup Jump shot,18,-140,116,True
+Russell Westbrook,4,7,59,1,Pullup Jump shot,18,-6,189,True
+Russell Westbrook,1,5,18,0,Pullup Jump shot,13,9,138,True
+Russell Westbrook,1,3,21,1,Pullup Jump shot,10,-80,67,True
+Russell Westbrook,3,5,5,0,Pullup Jump shot,20,-103,174,True
+Russell Westbrook,4,3,1,0,Pullup Jump shot,20,-22,199,True
+Russell Westbrook,1,5,40,1,Pullup Jump shot,19,-47,194,True
+Russell Westbrook,4,2,5,1,Pullup Jump shot,14,-106,97,True
+Russell Westbrook,2,5,22,0,Pullup Jump shot,15,-57,142,True
+Russell Westbrook,4,4,19,1,Pullup Jump shot,19,-6,194,True
+Russell Westbrook,4,7,55,0,Pullup Jump shot,9,64,68,True
+Russell Westbrook,4,6,31,1,Pullup Jump shot,15,86,130,True
+Russell Westbrook,4,5,49,1,Pullup Jump shot,16,90,141,True
+Russell Westbrook,1,10,36,1,Pullup Jump shot,18,-74,166,True
+Russell Westbrook,2,7,4,0,Pullup Jump shot,18,89,161,True
+Russell Westbrook,3,0,3,0,Pullup Jump shot,25,129,223,False
+Russell Westbrook,3,7,28,0,Pullup Jump shot,18,-103,155,True
+Russell Westbrook,3,1,27,1,Pullup Jump shot,18,-98,153,True
+Russell Westbrook,4,8,29,1,Pullup Jump shot,27,8,278,False
+Russell Westbrook,1,9,51,0,Pullup Jump shot,17,-73,164,True
+Russell Westbrook,3,5,53,0,Pullup Jump shot,9,69,62,True
+Russell Westbrook,4,4,15,1,Pullup Jump shot,24,-132,206,False
+Russell Westbrook,1,6,32,1,Pullup Jump shot,14,-124,72,True
+Russell Westbrook,4,3,8,0,Pullup Jump shot,25,-109,225,False
+Russell Westbrook,4,5,35,0,Pullup Jump shot,25,174,188,False
+Russell Westbrook,4,5,56,0,Pullup Jump shot,14,73,130,True
+Russell Westbrook,3,3,54,1,Pullup Jump shot,16,22,163,True
+Russell Westbrook,3,1,59,1,Pullup Jump shot,13,-2,134,True
+Russell Westbrook,2,2,37,0,Pullup Jump shot,26,148,214,False
+Russell Westbrook,1,5,28,0,Pullup Jump shot,24,-115,216,False
+Russell Westbrook,2,7,38,1,Pullup Jump shot,24,-79,236,False
+Russell Westbrook,3,6,19,0,Pullup Jump shot,26,-137,221,False
+Russell Westbrook,1,6,38,1,Pullup Jump shot,11,106,46,True
+Russell Westbrook,3,4,39,0,Pullup Jump shot,15,-82,130,True
+Russell Westbrook,4,1,3,0,Pullup Jump shot,25,127,219,False
+Russell Westbrook,1,10,49,0,Pullup Jump shot,13,116,60,True
+Russell Westbrook,3,2,41,0,Pullup Jump shot,15,101,119,True
+Russell Westbrook,4,0,51,1,Pullup Jump shot,24,46,244,False
+Russell Westbrook,3,7,47,0,Pullup Jump shot,25,0,250,False
+Russell Westbrook,1,6,0,0,Pullup Jump shot,16,8,167,True
+Russell Westbrook,2,3,44,1,Pullup Jump shot,12,7,126,True
+Russell Westbrook,3,0,7,0,Pullup Jump shot,25,-132,218,False
+Russell Westbrook,4,8,23,0,Pullup Jump shot,24,96,228,False
+Russell Westbrook,4,1,57,1,Pullup Jump shot,16,36,158,True
+Russell Westbrook,2,5,15,1,Pullup Jump shot,13,-86,105,True
+Russell Westbrook,1,4,15,1,Pullup Jump shot,13,44,126,True
+Russell Westbrook,3,8,50,0,Pullup Jump shot,25,-63,244,False
+Russell Westbrook,2,4,57,1,Pullup Jump shot,15,104,116,True
+Russell Westbrook,2,7,59,0,Pullup Jump shot,13,-75,108,True
+Russell Westbrook,3,1,25,0,Pullup Jump shot,25,-58,249,False
+Russell Westbrook,2,7,22,0,Pullup Jump shot,16,2,166,True
+Russell Westbrook,1,7,45,0,Pullup Jump shot,19,-102,161,True
+Russell Westbrook,4,3,41,1,Pullup Jump shot,8,64,60,True
+Russell Westbrook,3,8,34,0,Pullup Jump shot,17,-96,144,True
+Russell Westbrook,2,0,54,0,Pullup Jump shot,24,-143,203,False
+Russell Westbrook,1,7,44,0,Pullup Jump shot,9,77,58,True
+Russell Westbrook,2,8,49,0,Pullup Jump shot,24,-76,237,False
+Russell Westbrook,4,4,22,0,Pullup Jump shot,26,3,263,False
+Russell Westbrook,3,11,48,0,Pullup Jump shot,16,67,149,True
+Russell Westbrook,2,6,38,0,Pullup Jump shot,14,107,92,True
+Russell Westbrook,1,8,35,0,Pullup Jump shot,19,-41,190,True
+Russell Westbrook,1,3,48,1,Pullup Jump shot,21,-110,180,True
+Russell Westbrook,4,8,17,0,Pullup Jump shot,18,-101,159,True
+Russell Westbrook,1,8,35,0,Pullup Jump shot,10,100,34,True
+Russell Westbrook,2,2,59,0,Pullup Jump shot,18,-137,123,True
+Russell Westbrook,3,8,11,1,Pullup Jump shot,16,-14,164,True
+Russell Westbrook,5,1,28,0,Pullup Jump shot,25,-22,250,False
+Russell Westbrook,3,8,2,0,Pullup Jump shot,24,14,246,False
+Russell Westbrook,1,6,22,1,Pullup Jump shot,20,-106,173,True
+Russell Westbrook,1,10,22,1,Pullup Jump shot,17,73,164,True
+Russell Westbrook,4,7,43,1,Pullup Jump shot,16,54,155,True
+Russell Westbrook,4,3,0,0,Pullup Jump shot,14,-86,111,True
+Russell Westbrook,4,8,8,1,Pullup Jump shot,20,-115,172,True
+Russell Westbrook,4,6,55,0,Pullup Jump shot,13,4,130,True
+Russell Westbrook,1,5,3,0,Pullup Jump shot,20,55,194,True
+Russell Westbrook,4,2,41,1,Pullup Jump shot,22,114,191,True
+Russell Westbrook,2,9,46,1,Pullup Jump shot,25,-98,239,False
+Russell Westbrook,3,8,0,0,Pullup Jump shot,8,-52,73,True
+Russell Westbrook,4,5,58,0,Pullup Jump shot,15,-13,155,True
+Russell Westbrook,3,7,15,0,Pullup Jump shot,16,138,88,True
+Russell Westbrook,3,1,46,0,Pullup Jump shot,26,70,258,False
+Russell Westbrook,3,8,54,0,Pullup Jump shot,13,30,127,True
+Russell Westbrook,2,7,30,0,Pullup Jump shot,18,100,153,True
+Russell Westbrook,4,3,33,1,Pullup Jump shot,20,-112,168,True
+Russell Westbrook,1,8,25,0,Pullup Jump shot,25,-99,239,False
+Russell Westbrook,5,0,49,0,Pullup Jump shot,25,-123,225,False
+Russell Westbrook,3,2,53,0,Pullup Jump shot,17,-67,167,True
+Russell Westbrook,3,1,33,0,Pullup Jump shot,26,-79,249,False
+Russell Westbrook,4,0,43,0,Pullup Jump shot,26,63,260,False
+Russell Westbrook,4,2,41,1,Pullup Jump shot,26,-81,248,False
+Russell Westbrook,5,4,22,0,Pullup Jump shot,15,-16,150,True
+Russell Westbrook,2,2,53,1,Pullup Jump shot,11,-112,-7,True
+Russell Westbrook,2,3,8,1,Pullup Jump shot,17,23,176,True
+Russell Westbrook,2,1,21,0,Pullup Jump shot,19,115,163,True
+Russell Westbrook,2,6,37,1,Pullup Jump shot,17,-2,171,True
+Russell Westbrook,1,7,13,0,Pullup Jump shot,19,72,182,True
+Russell Westbrook,3,6,49,0,Pullup Jump shot,11,-16,115,True
+Russell Westbrook,4,4,37,0,Pullup Jump shot,14,100,107,True
+Russell Westbrook,4,7,24,0,Pullup Jump shot,17,118,123,True
+Russell Westbrook,4,7,16,0,Pullup Jump shot,19,-165,108,True
+Russell Westbrook,2,6,9,0,Pullup Jump shot,25,149,205,False
+Russell Westbrook,1,4,11,0,Pullup Jump shot,18,-86,169,True
+Russell Westbrook,2,7,47,0,Pullup Jump shot,16,-128,96,True
+Russell Westbrook,4,5,15,0,Pullup Jump shot,20,19,209,True
+Russell Westbrook,1,3,34,1,Pullup Jump shot,26,-19,261,False
+Russell Westbrook,2,4,56,0,Pullup Jump shot,20,-81,187,True
+Russell Westbrook,2,0,46,1,Pullup Jump shot,20,73,188,True
+Russell Westbrook,1,2,15,0,Pullup Jump shot,19,-52,189,True
+Russell Westbrook,3,4,34,1,Pullup Jump shot,18,144,110,True
+Russell Westbrook,3,11,26,0,Pullup Jump shot,16,43,164,True
+Russell Westbrook,2,9,6,1,Pullup Jump shot,19,-134,144,True
+Russell Westbrook,3,5,52,0,Pullup Jump shot,26,-3,261,False
+Russell Westbrook,3,6,39,0,Pullup Jump shot,21,-158,148,True
+Russell Westbrook,4,5,38,0,Pullup Jump shot,17,-127,126,True
+Russell Westbrook,1,9,16,1,Pullup Jump shot,19,171,88,True
+Russell Westbrook,4,4,0,0,Pullup Jump shot,18,59,172,True
+Russell Westbrook,4,0,27,0,Pullup Jump shot,12,76,102,True
+Russell Westbrook,1,6,34,0,Pullup Jump shot,18,38,183,True
+Russell Westbrook,1,11,15,0,Pullup Jump shot,18,-5,185,True
+Russell Westbrook,4,1,29,0,Pullup Jump shot,21,-100,189,True
+Russell Westbrook,4,7,8,0,Pullup Jump shot,25,180,184,False
+Russell Westbrook,2,7,50,1,Pullup Jump shot,20,-128,163,True
+Russell Westbrook,1,10,19,0,Pullup Jump shot,17,-1,170,True
+Russell Westbrook,4,5,16,0,Pullup Jump shot,26,105,243,False
+Russell Westbrook,2,7,57,0,Pullup Jump shot,18,93,165,True
+Russell Westbrook,1,6,3,0,Pullup Jump shot,15,130,90,True
+Russell Westbrook,2,6,6,0,Pullup Jump shot,10,-7,109,True
+Russell Westbrook,1,9,24,0,Pullup Jump shot,13,86,100,True
+Russell Westbrook,4,6,14,0,Pullup Jump shot,24,-152,195,False
+Russell Westbrook,1,9,38,0,Pullup Jump shot,13,-93,104,True
+Russell Westbrook,2,2,40,1,Pullup Jump shot,18,-139,127,True
+Russell Westbrook,3,2,47,0,Pullup Jump shot,17,-122,128,True
+Russell Westbrook,3,1,50,1,Pullup Jump shot,19,-70,184,True
+Russell Westbrook,3,9,1,0,Pullup Jump shot,15,-106,116,True
+Russell Westbrook,1,1,49,0,Pullup Jump shot,18,120,143,True
+Russell Westbrook,1,10,0,0,Pullup Jump shot,15,120,101,True
+Russell Westbrook,2,3,29,0,Pullup Jump shot,19,-96,173,True
+Russell Westbrook,2,1,2,1,Pullup Jump shot,16,43,160,True
+Russell Westbrook,3,7,13,0,Pullup Jump shot,9,24,92,True
+Russell Westbrook,1,6,54,0,Pullup Jump shot,15,-134,83,True
+Russell Westbrook,3,11,21,0,Pullup Jump shot,17,19,169,True
+Russell Westbrook,2,4,21,1,Pullup Jump shot,18,-70,176,True
+Russell Westbrook,4,6,51,1,Pullup Jump shot,13,-118,68,True
+Russell Westbrook,3,7,55,0,Pullup Jump shot,13,133,38,True
+Russell Westbrook,1,10,11,0,Pullup Jump shot,11,30,113,True
+Russell Westbrook,3,10,30,1,Pullup Jump shot,11,102,47,True
+Russell Westbrook,1,11,42,1,Pullup Jump shot,15,2,159,True
+Russell Westbrook,2,7,49,0,Pullup Jump shot,25,-60,252,False
+Russell Westbrook,2,7,54,0,Pullup Jump shot,17,67,164,True
+Russell Westbrook,1,4,26,0,Pullup Jump shot,20,134,152,True
+Russell Westbrook,4,6,14,1,Pullup Jump shot,14,76,127,True
+Russell Westbrook,1,9,1,1,Pullup Jump shot,20,92,178,True
+Russell Westbrook,3,3,29,0,Pullup Jump shot,19,-30,193,True
+Russell Westbrook,1,7,3,0,Pullup Jump shot,18,95,157,True
+Russell Westbrook,1,9,5,0,Pullup Jump shot,16,101,136,True
+Russell Westbrook,1,8,52,0,Pullup Jump shot,19,-127,147,True
+Russell Westbrook,1,6,36,0,Pullup Jump shot,11,114,25,True
+Russell Westbrook,2,0,4,0,Pullup Jump shot,24,0,247,False
+Russell Westbrook,4,3,29,1,Pullup Jump shot,24,162,190,False
+Russell Westbrook,1,5,47,0,Pullup Jump shot,18,149,101,True
+Russell Westbrook,3,2,55,1,Pullup Jump shot,13,103,84,True
+Russell Westbrook,4,4,19,0,Pullup Jump shot,25,-30,251,False
+Russell Westbrook,3,11,22,0,Pullup Jump shot,14,138,41,True
+Russell Westbrook,1,6,21,1,Pullup Jump shot,14,-114,92,True
+Russell Westbrook,3,4,18,0,Pullup Jump shot,28,60,278,False
+Russell Westbrook,3,3,21,0,Pullup Jump shot,13,47,130,True
+Russell Westbrook,2,0,5,0,Pullup Jump shot,17,-29,176,True
+Russell Westbrook,3,8,10,0,Pullup Jump shot,13,54,124,True
+Russell Westbrook,2,5,10,0,Pullup Jump shot,26,195,174,False
+Russell Westbrook,4,1,10,1,Pullup Jump shot,10,11,109,True
+Russell Westbrook,1,4,20,0,Pullup Jump shot,17,-93,144,True
+Russell Westbrook,1,10,44,0,Pullup Jump shot,11,80,85,True
+Russell Westbrook,4,7,48,1,Pullup Jump shot,21,54,210,True
+Russell Westbrook,4,2,31,0,Pullup Jump shot,16,54,159,True
+Russell Westbrook,4,4,13,1,Pullup Jump shot,17,33,174,True
+Russell Westbrook,2,2,38,0,Pullup Jump shot,17,-99,142,True
+Russell Westbrook,2,0,3,1,Pullup Jump shot,25,173,190,False
+Russell Westbrook,3,5,16,0,Pullup Jump shot,20,-5,209,True
+Russell Westbrook,3,9,10,1,Pullup Jump shot,13,-114,64,True
+Russell Westbrook,1,1,23,1,Pullup Jump shot,12,-58,115,True
+Russell Westbrook,2,2,49,0,Pullup Jump shot,18,-6,183,True
+Russell Westbrook,3,9,12,1,Pullup Jump shot,18,73,169,True
+Russell Westbrook,2,5,8,1,Pullup Jump shot,17,114,130,True
+Russell Westbrook,1,2,33,1,Pullup Jump shot,26,130,230,False
+Russell Westbrook,1,1,1,1,Pullup Jump shot,25,-140,210,False
+Russell Westbrook,2,0,52,0,Pullup Jump shot,26,8,261,False
+Russell Westbrook,4,0,36,0,Pullup Jump shot,17,0,174,True
+Russell Westbrook,1,9,2,1,Pullup Jump shot,16,-113,117,True
+Russell Westbrook,3,6,37,0,Pullup Jump shot,18,-132,125,True
+Russell Westbrook,2,4,6,0,Pullup Jump shot,18,109,151,True
+Russell Westbrook,2,4,57,0,Pullup Jump shot,14,-142,18,True
+Russell Westbrook,1,3,36,0,Pullup Jump shot,17,-90,151,True
+Russell Westbrook,1,8,53,0,Pullup Jump shot,19,-95,171,True
+Russell Westbrook,4,8,48,1,Pullup Jump shot,19,-13,198,True
+Russell Westbrook,4,6,42,0,Pullup Jump shot,25,-70,250,False
+Russell Westbrook,4,3,58,1,Pullup Jump shot,21,-81,196,True
+Russell Westbrook,2,6,54,0,Pullup Jump shot,19,-121,157,True
+Russell Westbrook,4,7,12,1,Pullup Jump shot,18,-46,184,True
+Russell Westbrook,2,5,45,1,Pullup Jump shot,15,67,136,True
+Russell Westbrook,2,7,26,1,Pullup Jump shot,24,-175,176,False
+Russell Westbrook,3,4,50,0,Pullup Jump shot,16,-2,164,True
+Russell Westbrook,4,2,10,1,Pullup Jump shot,25,3,252,False
+Russell Westbrook,4,6,37,0,Pullup Jump shot,18,128,128,True
+Russell Westbrook,3,3,32,0,Pullup Jump shot,15,-90,127,True
+Russell Westbrook,2,7,53,0,Pullup Jump shot,16,82,143,True
+Russell Westbrook,1,2,49,1,Pullup Jump shot,18,90,159,True
+Russell Westbrook,2,1,24,0,Pullup Jump shot,14,47,138,True
+Russell Westbrook,1,5,48,1,Pullup Jump shot,18,117,147,True
+Russell Westbrook,2,8,33,0,Pullup Jump shot,14,-147,9,True
+Russell Westbrook,3,5,41,0,Pullup Jump shot,16,122,109,True
+Russell Westbrook,1,9,21,1,Pullup Jump shot,15,82,127,True
+Russell Westbrook,3,10,12,0,Pullup Jump shot,14,52,132,True
+Russell Westbrook,3,5,24,1,Pullup Jump shot,20,25,205,True
+Russell Westbrook,3,9,48,0,Pullup Jump shot,27,-160,223,False
+Russell Westbrook,1,3,19,0,Pullup Jump shot,24,-37,247,False
+Russell Westbrook,1,10,49,1,Pullup Jump shot,13,8,137,True
+Russell Westbrook,1,10,20,0,Pullup Jump shot,14,-32,141,True
+Russell Westbrook,3,3,29,1,Pullup Jump shot,15,4,154,True
+Russell Westbrook,2,2,0,0,Pullup Jump shot,19,-2,193,True
+Russell Westbrook,1,5,16,1,Pullup Jump shot,7,-40,63,True
+Russell Westbrook,4,4,55,0,Pullup Jump shot,13,4,138,True
+Russell Westbrook,3,1,57,1,Pullup Jump shot,25,-109,226,False
+Russell Westbrook,2,1,18,1,Pullup Jump shot,11,98,57,True
+Russell Westbrook,3,6,15,0,Pullup Jump shot,19,45,187,True
+Russell Westbrook,2,6,35,0,Pullup Jump shot,19,-33,193,True
+Russell Westbrook,2,5,50,1,Pullup Jump shot,19,108,157,True
+Russell Westbrook,3,6,14,1,Pullup Jump shot,16,-54,157,True
+Russell Westbrook,3,6,43,1,Pullup Jump shot,11,-56,105,True
+Russell Westbrook,1,6,15,0,Pullup Jump shot,14,-100,110,True
+Russell Westbrook,3,7,36,0,Pullup Jump shot,22,-38,218,True
+Russell Westbrook,2,0,40,1,Pullup Jump shot,22,-222,5,False
+Russell Westbrook,2,7,9,0,Pullup Jump shot,18,159,85,True
+Russell Westbrook,1,2,52,0,Pullup Jump shot,14,-58,138,True
+Russell Westbrook,4,8,8,1,Pullup Jump shot,20,-52,197,True
+Russell Westbrook,3,8,58,1,Pullup Jump shot,18,42,176,True
+Russell Westbrook,2,7,4,1,Pullup Jump shot,16,-75,148,True
+Russell Westbrook,2,7,11,0,Pullup Jump shot,17,165,68,True
+Russell Westbrook,1,6,23,0,Pullup Jump shot,14,99,104,True
+Russell Westbrook,4,7,33,0,Pullup Jump shot,15,-150,53,True
+Russell Westbrook,4,0,15,1,Pullup Jump shot,25,-95,241,False
+Russell Westbrook,2,3,14,0,Pullup Jump shot,15,-14,155,True
+Russell Westbrook,4,5,19,1,Pullup Jump shot,15,16,152,True
+Russell Westbrook,2,2,40,1,Pullup Jump shot,22,-226,16,False
+Russell Westbrook,2,6,29,1,Pullup Jump shot,20,-49,201,True
+Russell Westbrook,4,2,57,1,Pullup Jump shot,19,75,178,True
+Russell Westbrook,4,1,1,0,Pullup Jump shot,19,-18,194,True
+Russell Westbrook,2,6,34,0,Pullup Jump shot,11,-12,113,True
+Russell Westbrook,3,0,5,0,Pullup Jump shot,24,-13,241,False
+Russell Westbrook,4,7,59,1,Pullup Jump shot,15,65,136,True
+Russell Westbrook,1,2,33,0,Pullup Jump shot,24,-144,202,False
+Russell Westbrook,4,7,26,1,Pullup Jump shot,13,24,130,True
+Russell Westbrook,3,11,33,0,Pullup Jump shot,16,112,121,True
+Russell Westbrook,1,6,13,0,Pullup Jump shot,19,121,147,True
+Russell Westbrook,2,5,39,1,Pullup Jump shot,13,-112,80,True
+Russell Westbrook,4,3,15,1,Pullup Jump shot,19,-2,196,True
+Russell Westbrook,4,2,46,1,Pullup Jump shot,20,36,204,True
+Russell Westbrook,2,8,50,1,Pullup Jump shot,14,-2,144,True
+Russell Westbrook,1,5,34,0,Pullup Jump shot,15,-99,125,True
+Russell Westbrook,3,0,59,0,Pullup Jump shot,24,72,231,False
+Russell Westbrook,3,3,17,1,Pullup Jump shot,14,67,127,True
+Russell Westbrook,3,4,24,0,Pullup Jump shot,20,-85,190,True
+Russell Westbrook,4,7,43,1,Pullup Jump shot,21,18,211,True
+Russell Westbrook,4,4,57,1,Pullup Jump shot,17,51,168,True
+Russell Westbrook,4,6,39,0,Pullup Jump shot,20,54,199,True
+Russell Westbrook,4,2,44,0,Pullup Jump shot,18,111,142,True
+Russell Westbrook,3,1,39,0,Pullup Jump shot,25,97,238,False
+Russell Westbrook,4,0,20,0,Pullup Jump shot,26,-101,246,False
+Russell Westbrook,4,5,17,1,Pullup Jump shot,18,-99,162,True
+Russell Westbrook,3,2,18,1,Pullup Jump shot,19,-159,121,True
+Russell Westbrook,2,2,41,0,Pullup Jump shot,25,35,251,False
+Russell Westbrook,3,2,2,1,Pullup Jump shot,12,7,126,True
+Russell Westbrook,2,6,18,0,Pullup Jump shot,18,-126,131,True
+Russell Westbrook,3,11,14,0,Pullup Jump shot,17,-175,7,True
+Russell Westbrook,2,0,28,0,Pullup Jump shot,24,-123,214,False
+Russell Westbrook,1,9,25,0,Pullup Jump shot,17,-98,147,True
+Russell Westbrook,2,7,28,1,Pullup Jump shot,25,-52,251,False
+Russell Westbrook,4,2,3,0,Pullup Jump shot,23,152,174,True
+Russell Westbrook,3,10,30,0,Pullup Jump shot,18,103,151,True
+Russell Westbrook,4,6,40,0,Pullup Jump shot,8,-71,54,True
+Russell Westbrook,1,10,21,0,Pullup Jump shot,14,133,55,True
+Russell Westbrook,2,6,19,0,Pullup Jump shot,13,-2,136,True
+Russell Westbrook,3,4,52,1,Pullup Jump shot,25,-79,244,False
+Russell Westbrook,4,0,48,0,Pullup Jump shot,18,-159,96,True
+Russell Westbrook,1,5,51,0,Pullup Jump shot,13,58,119,True
+Russell Westbrook,4,0,28,0,Pullup Jump shot,12,-47,117,True
+Russell Westbrook,1,1,45,0,Pullup Jump shot,24,-112,218,False
+Russell Westbrook,4,2,50,0,Pullup Jump shot,12,52,110,True
+Russell Westbrook,2,1,58,0,Pullup Jump shot,15,99,113,True
+Russell Westbrook,3,0,30,0,Pullup Jump shot,25,-56,253,False
+Russell Westbrook,1,2,33,1,Pullup Jump shot,13,-3,136,True
+Russell Westbrook,2,1,13,0,Pullup Jump shot,24,159,187,False
+Russell Westbrook,2,5,33,0,Pullup Jump shot,20,30,199,True
+Russell Westbrook,3,6,7,0,Pullup Jump shot,20,4,201,True
+Russell Westbrook,4,5,35,0,Pullup Jump shot,19,90,169,True
+Russell Westbrook,2,6,31,1,Pullup Jump shot,17,-163,62,True
+Russell Westbrook,2,0,43,0,Pullup Jump shot,16,-106,131,True
+Russell Westbrook,2,0,1,0,Pullup Jump shot,24,176,174,False
+Russell Westbrook,1,9,49,0,Pullup Jump shot,21,149,161,True
+Russell Westbrook,3,6,37,1,Pullup Jump shot,17,5,178,True
+Russell Westbrook,3,1,28,1,Pullup Jump shot,27,-17,277,False
+Russell Westbrook,2,9,18,0,Pullup Jump shot,24,-131,211,False
+Russell Westbrook,2,1,57,0,Pullup Jump shot,11,63,95,True
+Russell Westbrook,3,5,28,1,Pullup Jump shot,25,-161,196,False
+Russell Westbrook,1,6,57,1,Pullup Jump shot,14,-116,94,True
+Russell Westbrook,2,6,41,0,Pullup Jump shot,19,27,193,True
+Russell Westbrook,1,5,24,1,Pullup Jump shot,17,105,140,True
+Russell Westbrook,2,4,37,0,Pullup Jump shot,23,-226,47,False
+Russell Westbrook,1,10,10,1,Pullup Jump shot,19,-47,187,True
+Russell Westbrook,2,0,36,1,Pullup Jump shot,25,55,250,False
+Russell Westbrook,1,7,23,1,Pullup Jump shot,17,72,161,True
+Russell Westbrook,3,4,54,0,Pullup Jump shot,15,127,80,True
+Russell Westbrook,4,3,16,0,Pullup Jump shot,24,134,211,False
+Russell Westbrook,4,2,30,1,Pullup Jump shot,19,112,157,True
+Russell Westbrook,3,1,11,1,Pullup Jump shot,15,-141,67,True
+Russell Westbrook,2,0,0,0,Pullup Jump shot,25,-162,198,False
+Russell Westbrook,3,9,21,1,Pullup Jump shot,19,-25,194,True
+Russell Westbrook,2,5,44,0,Pullup Jump shot,13,-55,119,True
+Russell Westbrook,4,3,17,1,Pullup Jump shot,17,-125,121,True
+Russell Westbrook,3,10,48,0,Pullup Jump shot,25,32,251,False
+Russell Westbrook,3,11,34,0,Pullup Jump shot,14,116,81,True
+Russell Westbrook,1,2,57,1,Pullup Jump shot,13,1,132,True
+Russell Westbrook,4,5,42,1,Pullup Jump shot,20,-107,175,True
+Russell Westbrook,4,4,8,0,Pullup Jump shot,21,14,212,True
+Russell Westbrook,3,9,10,1,Pullup Jump shot,16,151,73,True
+Russell Westbrook,4,5,49,1,Pullup Jump shot,18,109,155,True
+Russell Westbrook,3,10,44,1,Pullup Jump shot,16,92,133,True
+Russell Westbrook,3,5,59,1,Pullup Jump shot,22,-25,228,True
+Russell Westbrook,4,0,14,0,Pullup Jump shot,24,105,223,False
+Russell Westbrook,3,3,35,1,Pullup Jump shot,25,-109,235,False
+Russell Westbrook,4,2,34,1,Pullup Jump shot,16,-12,162,True
+Russell Westbrook,1,3,39,0,Pullup Jump shot,19,-59,189,True
+Russell Westbrook,2,7,21,0,Pullup Jump shot,13,18,135,True
+Russell Westbrook,1,4,49,1,Pullup Jump shot,28,11,285,False
+Russell Westbrook,2,7,12,0,Pullup Jump shot,5,-44,29,True
+Russell Westbrook,3,5,40,1,Pullup Jump shot,18,-99,152,True
+Russell Westbrook,4,5,20,1,Pullup Jump shot,29,19,291,False
+Russell Westbrook,4,0,41,0,Pullup Jump shot,20,-54,200,True
+Russell Westbrook,4,2,7,0,Pullup Jump shot,27,67,264,False
+Russell Westbrook,2,7,14,0,Pullup Jump shot,19,-37,188,True
+Russell Westbrook,1,10,40,0,Pullup Jump shot,17,127,125,True
+Russell Westbrook,3,7,2,0,Pullup Jump shot,16,111,116,True
+Russell Westbrook,3,2,47,0,Pullup Jump shot,25,176,186,False
+Russell Westbrook,4,0,29,0,Pullup Jump shot,23,234,33,False
+Russell Westbrook,3,7,31,0,Pullup Jump shot,25,91,233,False
+Russell Westbrook,2,6,17,0,Pullup Jump shot,24,-20,247,False
+Russell Westbrook,1,6,6,0,Pullup Jump shot,25,148,206,False
+Russell Westbrook,4,6,49,0,Pullup Jump shot,15,69,141,True
+Russell Westbrook,2,5,18,0,Pullup Jump shot,24,-198,150,False
+Russell Westbrook,3,4,39,1,Pullup Jump shot,24,33,246,False
+Russell Westbrook,2,0,34,0,Pullup Jump shot,24,112,222,False
+Russell Westbrook,4,4,42,1,Pullup Jump shot,17,-90,145,True
+Russell Westbrook,1,10,16,1,Pullup Jump shot,13,-92,96,True
+Russell Westbrook,1,3,21,0,Pullup Jump shot,16,-57,151,True
+Russell Westbrook,2,5,22,1,Pullup Jump shot,16,-65,156,True
+Russell Westbrook,1,7,17,0,Pullup Jump shot,17,-49,164,True
+Russell Westbrook,1,6,20,0,Pullup Jump shot,14,54,136,True
+Russell Westbrook,4,7,10,0,Pullup Jump shot,16,-6,169,True
+Russell Westbrook,1,3,39,0,Pullup Jump shot,19,-117,151,True
+Russell Westbrook,3,8,31,0,Pullup Jump shot,19,-55,189,True
+Russell Westbrook,3,6,26,0,Pullup Jump shot,20,-82,184,True
+Russell Westbrook,3,8,52,0,Pullup Jump shot,12,-115,57,True
+Russell Westbrook,2,5,59,0,Pullup Jump shot,25,-154,201,False
+Russell Westbrook,3,4,32,0,Pullup Jump shot,25,185,172,False
+Russell Westbrook,4,0,5,1,Pullup Jump shot,26,162,206,False
+Russell Westbrook,2,1,10,0,Pullup Jump shot,9,87,25,True
+Russell Westbrook,2,6,2,1,Pullup Jump shot,12,40,114,True
+Russell Westbrook,4,0,42,0,Pullup Jump shot,24,205,136,False
+Russell Westbrook,1,6,26,0,Pullup Jump shot,17,-134,119,True
+Russell Westbrook,4,1,58,1,Pullup Jump shot,21,-117,179,True
+Russell Westbrook,2,1,5,1,Pullup Jump shot,15,88,122,True
+Russell Westbrook,1,7,47,0,Pullup Jump shot,17,88,155,True
+Russell Westbrook,1,5,29,0,Pullup Jump shot,17,112,136,True
+Russell Westbrook,3,4,1,0,Pullup Jump shot,24,26,247,False
+Russell Westbrook,3,3,38,1,Pullup Jump shot,20,81,191,True
+Russell Westbrook,1,5,8,0,Pullup Jump shot,14,71,126,True
+Russell Westbrook,2,3,42,0,Pullup Jump shot,22,-228,3,False
+Russell Westbrook,4,5,5,0,Pullup Jump shot,16,60,154,True
+Russell Westbrook,3,6,13,0,Pullup Jump shot,13,-125,45,True
+Russell Westbrook,4,6,57,1,Pullup Jump shot,25,-33,248,False
+Russell Westbrook,2,4,49,1,Pullup Jump shot,16,-64,151,True
+Russell Westbrook,4,9,4,0,Pullup Jump shot,24,14,249,False
+Russell Westbrook,4,7,37,1,Pullup Jump shot,20,38,204,True
+Russell Westbrook,3,10,35,0,Pullup Jump shot,17,24,170,True
+Russell Westbrook,1,8,44,0,Pullup Jump shot,13,133,21,True
+Russell Westbrook,2,4,14,1,Pullup Jump shot,16,-74,152,True
+Russell Westbrook,4,7,53,1,Pullup Jump shot,25,157,201,False
+Russell Westbrook,2,1,42,0,Pullup Jump shot,25,-71,244,False
+Russell Westbrook,4,0,12,1,Pullup Jump shot,16,-138,89,True
+Russell Westbrook,2,7,37,0,Pullup Jump shot,21,-43,209,True
+Russell Westbrook,2,5,6,0,Pullup Jump shot,13,3,138,True
+Russell Westbrook,2,6,14,1,Pullup Jump shot,11,79,78,True
+Russell Westbrook,2,4,40,0,Pullup Jump shot,20,101,174,True
+Russell Westbrook,2,3,13,1,Pullup Jump shot,21,7,210,True
+Russell Westbrook,3,5,56,0,Pullup Jump shot,16,154,46,True
+Russell Westbrook,3,10,32,0,Pullup Jump shot,16,161,44,True
+Russell Westbrook,3,9,34,1,Pullup Jump shot,15,-61,144,True
+Russell Westbrook,3,6,16,0,Pullup Jump shot,21,-84,197,True
+Russell Westbrook,4,4,30,0,Pullup Jump shot,14,37,141,True
+Russell Westbrook,4,2,15,0,Pullup Jump shot,25,106,236,False
+Russell Westbrook,4,0,2,1,Pullup Jump shot,26,90,248,False
+Russell Westbrook,4,1,52,1,Pullup Jump shot,17,117,124,True
+Russell Westbrook,1,6,7,0,Pullup Jump shot,15,52,151,True
+Russell Westbrook,3,2,35,0,Pullup Jump shot,17,70,160,True
+Russell Westbrook,3,3,25,0,Pullup Jump shot,34,-120,319,False
+Russell Westbrook,2,7,8,0,Pullup Jump shot,19,-155,122,True
+Russell Westbrook,2,5,16,0,Pullup Jump shot,19,88,169,True
+Russell Westbrook,1,2,33,1,Pullup Jump shot,18,-55,174,True
+Russell Westbrook,2,0,3,0,Pullup Jump shot,24,-16,240,False
+Russell Westbrook,2,6,27,0,Pullup Jump shot,15,76,136,True
+Russell Westbrook,4,1,45,0,Pullup Jump shot,24,-93,226,False
+Russell Westbrook,4,7,52,0,Pullup Jump shot,18,-63,179,True
+Russell Westbrook,4,5,56,0,Pullup Jump shot,6,3,63,True
+Russell Westbrook,1,9,54,1,Pullup Jump shot,16,110,129,True
+Russell Westbrook,1,3,8,0,Pullup Jump shot,9,39,83,True
+Russell Westbrook,3,3,23,1,Pullup Jump shot,18,-137,122,True
+Russell Westbrook,2,0,29,0,Pullup Jump shot,10,28,100,True
+Russell Westbrook,1,0,3,1,Pullup Jump shot,24,-49,241,False
+Russell Westbrook,4,3,41,0,Pullup Jump shot,15,-2,159,True
+Russell Westbrook,2,5,4,1,Putback Dunk Shot,0,0,-6,True
+Russell Westbrook,1,1,41,0,Putback Layup Shot,2,-24,17,True
+Russell Westbrook,3,3,50,1,Putback Layup Shot,0,2,-3,True
+Russell Westbrook,4,4,46,1,Putback Layup Shot,0,0,-6,True
+Russell Westbrook,2,0,31,1,Putback Layup Shot,0,-3,6,True
+Russell Westbrook,4,0,23,0,Putback Layup Shot,0,4,-3,True
+Russell Westbrook,3,7,41,1,Putback Layup Shot,0,0,-6,True
+Russell Westbrook,4,4,39,0,Putback Layup Shot,2,20,6,True
+Russell Westbrook,2,0,58,0,Putback Layup Shot,0,-9,1,True
+Russell Westbrook,1,5,36,1,Putback Layup Shot,0,-5,4,True
+Russell Westbrook,2,6,4,0,Putback Layup Shot,1,-14,4,True
+Russell Westbrook,4,0,17,0,Putback Layup Shot,2,15,17,True
+Russell Westbrook,3,5,34,1,Putback Layup Shot,0,3,5,True
+Russell Westbrook,3,7,45,0,Putback Layup Shot,8,81,6,True
+Russell Westbrook,3,3,5,1,Putback Layup Shot,1,10,8,True
+Russell Westbrook,3,5,0,1,Putback Layup Shot,0,5,5,True
+Russell Westbrook,2,3,31,0,Putback Layup Shot,1,-11,6,True
+Russell Westbrook,1,4,55,1,Putback Layup Shot,5,-43,32,True
+Russell Westbrook,1,1,43,0,Putback Layup Shot,0,0,-6,True
+Russell Westbrook,3,7,32,1,Reverse Layup Shot,2,-5,26,True
+Russell Westbrook,3,10,8,0,Reverse Layup Shot,0,4,4,True
+Russell Westbrook,3,5,5,1,Reverse Layup Shot,1,-4,13,True
+Russell Westbrook,1,0,25,0,Reverse Layup Shot,2,-5,25,True
+Russell Westbrook,1,10,26,0,Reverse Layup Shot,2,-20,6,True
+Russell Westbrook,1,8,37,1,Reverse Layup Shot,1,-18,1,True
+Russell Westbrook,4,7,23,0,Reverse Layup Shot,0,9,0,True
+Russell Westbrook,4,6,30,1,Running Dunk Shot,0,-3,0,True
+Russell Westbrook,2,8,58,1,Running Dunk Shot,0,-3,9,True
+Russell Westbrook,3,5,56,1,Running Dunk Shot,1,2,12,True
+Russell Westbrook,2,6,46,1,Running Dunk Shot,0,-5,5,True
+Russell Westbrook,3,10,33,1,Running Dunk Shot,2,16,16,True
+Russell Westbrook,1,8,0,0,Running Dunk Shot,4,-21,36,True
+Russell Westbrook,3,6,5,1,Running Dunk Shot,0,-3,4,True
+Russell Westbrook,3,7,53,1,Running Dunk Shot,0,8,1,True
+Russell Westbrook,1,7,46,1,Running Dunk Shot,2,5,27,True
+Russell Westbrook,1,6,28,1,Running Dunk Shot,0,6,4,True
+Russell Westbrook,3,9,26,1,Running Dunk Shot,1,-11,2,True
+Russell Westbrook,1,5,55,1,Running Dunk Shot,1,8,8,True
+Russell Westbrook,1,6,26,1,Running Dunk Shot,1,12,8,True
+Russell Westbrook,2,5,29,1,Running Dunk Shot,0,4,5,True
+Russell Westbrook,1,2,20,1,Running Dunk Shot,1,7,-13,True
+Russell Westbrook,4,0,10,1,Running Dunk Shot,0,0,1,True
+Russell Westbrook,4,5,39,1,Running Dunk Shot,0,2,5,True
+Russell Westbrook,2,0,59,1,Running Dunk Shot,1,-2,11,True
+Russell Westbrook,4,7,10,1,Running Dunk Shot,1,-5,11,True
+Russell Westbrook,4,0,4,1,Running Dunk Shot,0,-7,6,True
+Russell Westbrook,2,6,38,1,Running Dunk Shot,0,3,6,True
+Russell Westbrook,1,4,18,0,Running Dunk Shot,1,11,4,True
+Russell Westbrook,3,7,43,1,Running Dunk Shot,1,0,12,True
+Russell Westbrook,1,3,3,1,Running Dunk Shot,1,7,9,True
+Russell Westbrook,2,3,42,1,Running Dunk Shot,0,3,3,True
+Russell Westbrook,4,1,2,1,Running Dunk Shot,0,5,2,True
+Russell Westbrook,4,6,41,1,Running Dunk Shot,1,-3,15,True
+Russell Westbrook,4,3,17,0,Running Dunk Shot,1,-7,8,True
+Russell Westbrook,2,3,49,1,Running Dunk Shot,2,1,24,True
+Russell Westbrook,1,5,0,1,Running Dunk Shot,2,13,22,True
+Russell Westbrook,3,8,43,1,Running Dunk Shot,1,2,10,True
+Russell Westbrook,1,0,27,0,Running Finger Roll Layup Shot,4,2,41,True
+Russell Westbrook,1,5,42,1,Running Finger Roll Layup Shot,1,-8,10,True
+Russell Westbrook,1,6,42,0,Running Finger Roll Layup Shot,2,7,22,True
+Russell Westbrook,4,7,23,0,Running Finger Roll Layup Shot,2,19,18,True
+Russell Westbrook,2,4,32,1,Running Finger Roll Layup Shot,1,5,11,True
+Russell Westbrook,4,4,19,0,Running Finger Roll Layup Shot,2,3,26,True
+Russell Westbrook,2,5,25,1,Running Finger Roll Layup Shot,1,2,14,True
+Russell Westbrook,4,5,9,1,Running Finger Roll Layup Shot,0,-5,6,True
+Russell Westbrook,2,1,13,1,Running Finger Roll Layup Shot,2,9,19,True
+Russell Westbrook,3,2,55,0,Running Finger Roll Layup Shot,0,6,4,True
+Russell Westbrook,2,7,52,1,Running Finger Roll Layup Shot,2,20,1,True
+Russell Westbrook,1,5,56,1,Running Finger Roll Layup Shot,0,-9,-3,True
+Russell Westbrook,2,6,22,1,Running Finger Roll Layup Shot,1,6,8,True
+Russell Westbrook,1,5,37,0,Running Finger Roll Layup Shot,0,8,1,True
+Russell Westbrook,3,5,1,0,Running Jump Shot,18,78,163,True
+Russell Westbrook,3,7,1,0,Running Jump Shot,25,-152,210,False
+Russell Westbrook,2,0,37,0,Running Jump Shot,26,122,237,False
+Russell Westbrook,2,2,58,0,Running Jump Shot,13,98,94,True
+Russell Westbrook,1,8,33,1,Running Jump Shot,13,-122,48,True
+Russell Westbrook,4,0,0,0,Running Jump Shot,68,176,666,False
+Russell Westbrook,3,2,14,0,Running Jump Shot,16,52,158,True
+Russell Westbrook,1,8,59,0,Running Jump Shot,9,-5,97,True
+Russell Westbrook,3,2,46,1,Running Layup Shot,0,0,1,True
+Russell Westbrook,1,3,32,0,Running Layup Shot,1,-9,11,True
+Russell Westbrook,4,8,52,0,Running Layup Shot,0,7,-4,True
+Russell Westbrook,1,11,17,1,Running Layup Shot,2,-20,4,True
+Russell Westbrook,3,3,6,1,Running Layup Shot,0,6,2,True
+Russell Westbrook,2,1,6,0,Running Layup Shot,1,9,10,True
+Russell Westbrook,3,3,13,0,Running Layup Shot,1,1,11,True
+Russell Westbrook,2,2,46,0,Running Layup Shot,0,-4,9,True
+Russell Westbrook,3,2,3,0,Running Layup Shot,0,-6,6,True
+Russell Westbrook,3,8,25,1,Running Layup Shot,0,-8,-1,True
+Russell Westbrook,4,7,39,0,Running Layup Shot,0,-6,7,True
+Russell Westbrook,4,5,0,1,Running Layup Shot,1,9,10,True
+Russell Westbrook,3,3,23,1,Running Layup Shot,0,0,7,True
+Russell Westbrook,1,4,9,1,Running Layup Shot,3,-18,27,True
+Russell Westbrook,3,6,31,1,Running Layup Shot,2,-4,24,True
+Russell Westbrook,3,3,21,1,Running Layup Shot,0,8,0,True
+Russell Westbrook,1,8,29,0,Running Layup Shot,1,1,14,True
+Russell Westbrook,1,5,8,0,Running Layup Shot,3,-26,25,True
+Russell Westbrook,4,4,27,1,Running Layup Shot,2,5,20,True
+Russell Westbrook,3,2,56,0,Running Layup Shot,0,-9,0,True
+Russell Westbrook,2,5,39,0,Running Layup Shot,0,0,6,True
+Russell Westbrook,1,4,16,1,Running Layup Shot,0,3,5,True
+Russell Westbrook,3,6,47,1,Running Layup Shot,1,5,13,True
+Russell Westbrook,2,7,32,1,Running Layup Shot,0,0,0,True
+Russell Westbrook,1,1,57,1,Running Layup Shot,1,9,6,True
+Russell Westbrook,1,4,2,1,Running Layup Shot,1,-14,10,True
+Russell Westbrook,3,6,31,1,Running Layup Shot,1,-8,10,True
+Russell Westbrook,1,5,8,0,Running Layup Shot,2,-27,10,True
+Russell Westbrook,2,7,4,1,Running Layup Shot,0,2,2,True
+Russell Westbrook,4,7,54,1,Running Layup Shot,1,11,6,True
+Russell Westbrook,1,9,14,0,Running Layup Shot,0,6,5,True
+Russell Westbrook,3,5,6,0,Running Layup Shot,1,10,15,True
+Russell Westbrook,1,11,27,1,Running Layup Shot,1,-11,2,True
+Russell Westbrook,4,3,15,1,Running Layup Shot,1,-3,13,True
+Russell Westbrook,4,4,10,1,Running Layup Shot,0,3,8,True
+Russell Westbrook,1,11,19,0,Running Layup Shot,0,0,1,True
+Russell Westbrook,3,4,53,0,Running Layup Shot,1,3,12,True
+Russell Westbrook,1,6,45,1,Running Layup Shot,1,14,1,True
+Russell Westbrook,3,1,1,1,Running Layup Shot,0,-5,8,True
+Russell Westbrook,2,4,20,1,Running Layup Shot,0,9,3,True
+Russell Westbrook,3,7,22,1,Running Layup Shot,0,7,0,True
+Russell Westbrook,3,3,17,1,Running Layup Shot,0,9,2,True
+Russell Westbrook,3,11,0,0,Running Layup Shot,0,5,0,True
+Russell Westbrook,1,5,44,1,Running Layup Shot,1,-5,17,True
+Russell Westbrook,1,7,49,0,Running Layup Shot,1,13,4,True
+Russell Westbrook,3,10,56,1,Running Layup Shot,1,14,8,True
+Russell Westbrook,3,6,34,1,Running Layup Shot,1,14,11,True
+Russell Westbrook,1,4,7,0,Running Layup Shot,2,24,0,True
+Russell Westbrook,2,9,6,1,Running Layup Shot,5,-42,30,True
+Russell Westbrook,1,2,45,0,Running Layup Shot,1,-19,-5,True
+Russell Westbrook,3,8,3,1,Running Layup Shot,0,-2,1,True
+Russell Westbrook,3,3,51,0,Running Layup Shot,2,-8,21,True
+Russell Westbrook,2,5,32,1,Running Layup Shot,1,-13,5,True
+Russell Westbrook,3,8,46,1,Running Layup Shot,0,-9,-4,True
+Russell Westbrook,1,5,18,1,Running Layup Shot,1,11,5,True
+Russell Westbrook,1,4,5,1,Running Layup Shot,0,7,-1,True
+Russell Westbrook,4,8,7,1,Running Layup Shot,1,-11,7,True
+Russell Westbrook,2,1,4,1,Running Layup Shot,1,-6,15,True
+Russell Westbrook,1,9,15,0,Running Layup Shot,2,20,10,True
+Russell Westbrook,1,5,13,0,Running Layup Shot,2,8,19,True
+Russell Westbrook,1,4,16,1,Running Layup Shot,1,-8,6,True
+Russell Westbrook,2,4,51,0,Running Layup Shot,2,16,16,True
+Russell Westbrook,3,1,44,1,Running Layup Shot,1,-2,11,True
+Russell Westbrook,1,3,15,1,Running Layup Shot,0,-9,4,True
+Russell Westbrook,4,3,51,0,Running Layup Shot,0,2,-5,True
+Russell Westbrook,1,5,15,1,Running Layup Shot,1,13,1,True
+Russell Westbrook,3,9,51,1,Running Layup Shot,2,-11,20,True
+Russell Westbrook,2,7,6,1,Running Layup Shot,1,12,5,True
+Russell Westbrook,2,8,36,1,Running Layup Shot,1,9,6,True
+Russell Westbrook,2,1,36,1,Running Layup Shot,1,0,12,True
+Russell Westbrook,2,2,5,1,Running Layup Shot,0,6,0,True
+Russell Westbrook,3,9,9,1,Running Layup Shot,0,3,4,True
+Russell Westbrook,3,10,14,0,Running Layup Shot,2,-5,20,True
+Russell Westbrook,4,4,22,1,Running Layup Shot,2,-17,13,True
+Russell Westbrook,2,6,6,1,Running Layup Shot,1,2,12,True
+Russell Westbrook,1,2,35,1,Running Layup Shot,0,6,0,True
+Russell Westbrook,4,2,41,0,Running Layup Shot,0,-2,6,True
+Russell Westbrook,3,9,50,1,Running Layup Shot,1,10,6,True
+Russell Westbrook,2,4,42,0,Running Layup Shot,1,-6,10,True
+Russell Westbrook,1,10,39,1,Running Layup Shot,0,8,3,True
+Russell Westbrook,2,7,10,1,Running Layup Shot,1,0,10,True
+Russell Westbrook,3,8,31,1,Running Layup Shot,2,4,23,True
+Russell Westbrook,2,5,18,1,Running Layup Shot,1,14,0,True
+Russell Westbrook,2,6,52,1,Running Layup Shot,1,13,8,True
+Russell Westbrook,4,6,54,1,Running Layup Shot,1,5,11,True
+Russell Westbrook,3,2,21,1,Running Layup Shot,1,-8,13,True
+Russell Westbrook,2,8,0,1,Running Layup Shot,1,-14,3,True
+Russell Westbrook,4,3,47,1,Running Layup Shot,1,5,17,True
+Russell Westbrook,1,8,29,1,Running Pull-Up Jump Shot,15,-77,130,True
+Russell Westbrook,4,1,51,1,Running Pull-Up Jump Shot,25,-96,236,False
+Russell Westbrook,3,5,0,0,Running Pull-Up Jump Shot,24,90,230,False
+Russell Westbrook,4,2,8,1,Running Pull-Up Jump Shot,24,112,218,False
+Russell Westbrook,2,0,23,1,Running Pull-Up Jump Shot,26,-130,235,False
+Russell Westbrook,1,6,19,1,Running Pull-Up Jump Shot,14,54,137,True
+Russell Westbrook,3,0,1,0,Running Pull-Up Jump Shot,42,149,394,False
+Russell Westbrook,2,1,33,0,Running Pull-Up Jump Shot,25,-126,218,False
+Russell Westbrook,1,4,44,0,Running Pull-Up Jump Shot,17,-97,150,True
+Russell Westbrook,3,3,23,0,Running Pull-Up Jump Shot,13,-93,100,True
+Russell Westbrook,1,8,17,1,Running Pull-Up Jump Shot,18,-133,133,True
+Russell Westbrook,1,5,4,1,Running Pull-Up Jump Shot,19,-121,159,True
+Russell Westbrook,2,0,0,0,Running Pull-Up Jump Shot,34,-104,325,False
+Russell Westbrook,4,0,1,0,Running Pull-Up Jump Shot,40,179,364,False
+Russell Westbrook,1,5,37,1,Running Pull-Up Jump Shot,18,103,158,True
+Russell Westbrook,3,2,4,0,Running Pull-Up Jump Shot,16,-1,168,True
+Russell Westbrook,2,0,32,1,Running Pull-Up Jump Shot,29,-179,238,False
+Russell Westbrook,2,0,33,0,Running Pull-Up Jump Shot,25,133,221,False
+Russell Westbrook,3,6,26,1,Running Pull-Up Jump Shot,20,122,170,True
+Russell Westbrook,4,5,38,0,Running Pull-Up Jump Shot,19,172,100,True
+Russell Westbrook,4,0,6,0,Running Pull-Up Jump Shot,27,-82,260,False
+Russell Westbrook,3,2,21,1,Running Pull-Up Jump Shot,24,-96,229,False
+Russell Westbrook,4,0,15,0,Running Pull-Up Jump Shot,26,-185,184,False
+Russell Westbrook,4,9,29,1,Running Pull-Up Jump Shot,26,92,247,False
+Russell Westbrook,2,3,31,0,Running Pull-Up Jump Shot,25,55,252,False
+Russell Westbrook,1,7,55,0,Running Pull-Up Jump Shot,23,-117,206,True
+Russell Westbrook,3,7,15,0,Running Pull-Up Jump Shot,25,161,200,False
+Russell Westbrook,2,0,37,0,Running Pull-Up Jump Shot,24,-92,229,False
+Russell Westbrook,3,5,41,1,Running Pull-Up Jump Shot,17,89,151,True
+Russell Westbrook,3,4,51,1,Running Pull-Up Jump Shot,25,98,235,False
+Russell Westbrook,3,1,34,1,Running Pull-Up Jump Shot,19,139,140,True
+Russell Westbrook,1,2,59,0,Running Reverse Layup Shot,1,2,13,True
+Russell Westbrook,3,2,39,1,Running Reverse Layup Shot,0,-9,1,True
+Russell Westbrook,2,8,4,0,Running Reverse Layup Shot,1,-13,-4,True
+Russell Westbrook,2,4,52,1,Running Reverse Layup Shot,0,-9,0,True
+Russell Westbrook,2,1,40,0,Step Back Jump shot,20,4,207,True
+Russell Westbrook,1,5,8,0,Step Back Jump shot,16,125,109,True
+Russell Westbrook,2,8,26,0,Step Back Jump shot,11,85,82,True
+Russell Westbrook,2,6,42,1,Step Back Jump shot,16,91,134,True
+Russell Westbrook,3,0,2,0,Step Back Jump shot,26,127,237,False
+Russell Westbrook,3,2,50,0,Step Back Jump shot,12,-105,69,True
+Russell Westbrook,4,6,18,0,Step Back Jump shot,25,93,235,False
+Russell Westbrook,2,6,40,1,Step Back Jump shot,7,-63,31,True
+Russell Westbrook,2,7,41,0,Step Back Jump shot,11,90,64,True
+Russell Westbrook,4,6,49,0,Step Back Jump shot,17,150,98,True
+Russell Westbrook,1,9,29,0,Step Back Jump shot,14,141,20,True
+Russell Westbrook,3,9,25,1,Step Back Jump shot,15,30,155,True
+Russell Westbrook,4,6,14,1,Step Back Jump shot,10,84,55,True
+Russell Westbrook,2,1,37,0,Step Back Jump shot,16,105,124,True
+Russell Westbrook,2,3,27,1,Step Back Jump shot,11,87,72,True
+Russell Westbrook,2,7,10,0,Step Back Jump shot,24,150,189,False
+Russell Westbrook,1,6,7,0,Step Back Jump shot,14,87,119,True
+Russell Westbrook,1,7,18,0,Step Back Jump shot,11,-108,38,True
+Russell Westbrook,4,1,15,0,Step Back Jump shot,18,44,179,True
+Russell Westbrook,1,3,46,0,Step Back Jump shot,12,101,71,True
+Russell Westbrook,3,8,24,0,Step Back Jump shot,14,130,60,True
+Russell Westbrook,2,1,47,1,Step Back Jump shot,11,112,37,True
+Russell Westbrook,2,4,58,0,Step Back Jump shot,22,224,36,False
+Russell Westbrook,3,1,47,1,Step Back Jump shot,14,133,60,True
+Russell Westbrook,3,10,37,0,Tip Layup Shot,1,9,10,True
+Russell Westbrook,3,9,34,1,Tip Layup Shot,0,0,-6,True
+Russell Westbrook,1,11,26,0,Tip Layup Shot,0,-3,8,True
+Russell Westbrook,4,4,17,0,Tip Layup Shot,0,-3,0,True
+Russell Westbrook,4,4,35,1,Tip Layup Shot,0,0,-6,True
+Russell Westbrook,3,9,14,1,Tip Layup Shot,0,0,-6,True
+Russell Westbrook,2,1,53,0,Tip Layup Shot,0,0,-6,True
+Russell Westbrook,2,0,29,1,Tip Layup Shot,1,5,15,True
+Russell Westbrook,4,1,17,1,Tip Layup Shot,0,0,-6,True
+Russell Westbrook,2,2,31,0,Tip Layup Shot,0,0,-6,True
+Russell Westbrook,3,2,52,1,Tip Layup Shot,0,0,-6,True
+Russell Westbrook,2,3,12,0,Tip Layup Shot,0,0,-6,True
+Russell Westbrook,2,6,7,0,Tip Layup Shot,0,0,-6,True
+Russell Westbrook,1,3,24,1,Tip Layup Shot,0,0,-6,True
+Russell Westbrook,1,11,35,1,Tip Layup Shot,0,0,-6,True
+Russell Westbrook,4,3,11,1,Tip Layup Shot,0,0,-6,True
+Russell Westbrook,1,0,2,0,Tip Layup Shot,0,0,-6,True
+Russell Westbrook,1,4,9,0,Tip Layup Shot,0,0,-6,True
+Russell Westbrook,3,2,53,0,Tip Layup Shot,0,0,-6,True
+Russell Westbrook,2,1,38,1,Tip Layup Shot,0,0,-6,True
+Russell Westbrook,3,6,41,0,Tip Layup Shot,0,9,4,True
+Russell Westbrook,4,6,56,0,Turnaround Fadeaway Bank Jump Shot,11,-93,64,True
+Russell Westbrook,2,3,8,0,Turnaround Fadeaway Bank Jump Shot,12,-78,93,True
+Russell Westbrook,1,3,2,0,Turnaround Fadeaway Bank Jump Shot,10,-100,15,True
+Russell Westbrook,2,5,43,1,Turnaround Fadeaway Bank Jump Shot,11,-110,34,True
+Russell Westbrook,3,6,50,0,Turnaround Fadeaway Bank Jump Shot,9,-87,42,True
+Russell Westbrook,4,5,51,1,Turnaround Fadeaway Bank Jump Shot,12,-117,49,True
+Russell Westbrook,1,8,23,1,Turnaround Fadeaway Bank Jump Shot,8,-64,61,True
+Russell Westbrook,3,8,28,1,Turnaround Fadeaway Bank Jump Shot,13,-105,88,True
+Russell Westbrook,1,3,58,0,Turnaround Fadeaway Bank Jump Shot,10,-60,82,True
+Russell Westbrook,5,3,26,0,Turnaround Fadeaway Bank Jump Shot,13,-125,58,True
+Russell Westbrook,1,2,37,0,Turnaround Fadeaway Bank Jump Shot,1,3,10,True
+Russell Westbrook,1,9,35,1,Turnaround Fadeaway Bank Jump Shot,2,-22,14,True
+Russell Westbrook,1,8,4,0,Turnaround Fadeaway shot,11,30,110,True
+Russell Westbrook,1,5,1,0,Turnaround Fadeaway shot,15,115,106,True
+Russell Westbrook,3,7,30,0,Turnaround Fadeaway shot,10,-57,83,True
+Russell Westbrook,4,4,6,0,Turnaround Fadeaway shot,17,-170,47,True
+Russell Westbrook,3,8,12,1,Turnaround Fadeaway shot,10,85,55,True
+Russell Westbrook,1,1,53,0,Turnaround Fadeaway shot,6,-69,1,True
+Russell Westbrook,3,11,9,0,Turnaround Fadeaway shot,11,-94,67,True
+Russell Westbrook,1,9,18,1,Turnaround Fadeaway shot,14,88,114,True
+Russell Westbrook,1,9,27,0,Turnaround Fadeaway shot,16,84,147,True
+Russell Westbrook,3,7,34,1,Turnaround Fadeaway shot,16,97,132,True
+Russell Westbrook,3,8,30,0,Turnaround Fadeaway shot,13,65,116,True
+Russell Westbrook,1,4,45,0,Turnaround Hook Shot,4,-5,41,True
+Russell Westbrook,2,2,2,0,Turnaround Jump Shot,7,56,56,True
+Russell Westbrook,4,0,16,0,Turnaround Jump Shot,29,-142,259,False
+Russell Westbrook,3,3,25,0,Turnaround Jump Shot,10,-87,63,True
+Russell Westbrook,3,1,19,0,Turnaround Jump Shot,10,9,105,True
+Russell Westbrook,3,6,38,0,Turnaround Jump Shot,8,49,65,True
+Russell Westbrook,1,8,43,0,Turnaround Jump Shot,8,51,67,True
+Russell Westbrook,3,10,10,1,Turnaround Jump Shot,9,86,43,True
+Russell Westbrook,4,0,29,0,Turnaround Jump Shot,6,54,39,True
+Russell Westbrook,2,4,14,1,Turnaround Jump Shot,8,-54,71,True
+Russell Westbrook,2,1,17,1,Turnaround Jump Shot,7,71,34,True
+Russell Westbrook,1,5,34,1,Turnaround Jump Shot,14,115,82,True
+Russell Westbrook,3,9,19,1,Turnaround Jump Shot,10,25,104,True
+Russell Westbrook,2,8,0,0,Turnaround Jump Shot,5,-21,51,True
+Russell Westbrook,2,8,17,0,Turnaround Jump Shot,15,112,110,True
+Russell Westbrook,3,5,51,1,Turnaround Jump Shot,8,74,41,True
+Russell Westbrook,4,5,51,0,Turnaround Jump Shot,10,-14,109,True
+Russell Westbrook,3,1,11,0,Turnaround Jump Shot,15,110,116,True
+Russell Westbrook,2,3,33,0,Turnaround Jump Shot,6,-32,62,True
+Russell Westbrook,2,6,52,1,Turnaround Jump Shot,11,95,66,True
+Russell Westbrook,2,2,10,1,Turnaround Jump Shot,5,46,26,True
+Russell Westbrook,1,5,25,1,Turnaround Jump Shot,14,136,58,True
+Russell Westbrook,4,6,38,0,Turnaround Jump Shot,12,76,105,True
+Russell Westbrook,1,6,18,0,Turnaround Jump Shot,13,-118,55,True
+Russell Westbrook,3,8,56,0,Turnaround Jump Shot,16,135,97,True
+Russell Westbrook,2,7,56,0,Turnaround Jump Shot,13,123,63,True
+Russell Westbrook,1,1,41,1,Turnaround Jump Shot,14,125,66,True

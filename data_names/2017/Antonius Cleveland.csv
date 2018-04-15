@@ -1,0 +1,22 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Antonius Cleveland,2,11,42,1,Alley Oop Dunk Shot,1,-10,13,True
+Antonius Cleveland,2,11,49,0,Alley Oop Layup shot,1,10,16,True
+Antonius Cleveland,4,10,54,0,Driving Floating Jump Shot,5,-27,52,True
+Antonius Cleveland,4,10,30,1,Jump Shot,22,-223,49,False
+Antonius Cleveland,1,0,28,1,Jump Shot,25,212,148,False
+Antonius Cleveland,2,0,47,0,Jump Shot,19,-71,179,True
+Antonius Cleveland,4,1,4,0,Jump Shot,13,-57,127,True
+Antonius Cleveland,2,10,3,0,Jump Shot,24,-209,121,False
+Antonius Cleveland,1,1,36,1,Jump Shot,22,-187,120,True
+Antonius Cleveland,2,11,9,0,Jump Shot,10,-33,100,True
+Antonius Cleveland,2,11,31,0,Jump Shot,20,-201,-27,True
+Antonius Cleveland,4,0,48,1,Jump Shot,21,-85,193,True
+Antonius Cleveland,4,9,51,0,Jump Shot,19,90,169,True
+Antonius Cleveland,2,8,56,0,Jump Shot,20,-86,182,True
+Antonius Cleveland,2,10,12,0,Pullup Jump shot,16,74,148,True
+Antonius Cleveland,2,11,42,0,Pullup Jump shot,16,-103,131,True
+Antonius Cleveland,4,3,11,1,Putback Dunk Shot,0,0,-6,True
+Antonius Cleveland,1,4,11,0,Running Layup Shot,2,-8,21,True
+Antonius Cleveland,2,11,23,0,Running Layup Shot,1,-13,11,True
+Antonius Cleveland,1,0,1,1,Running Pull-Up Jump Shot,25,126,218,False
+Antonius Cleveland,4,11,42,1,Turnaround Jump Shot,15,74,141,True

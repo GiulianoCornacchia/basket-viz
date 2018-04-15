@@ -1,0 +1,442 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Dewayne Dedmon,3,2,40,1,Alley Oop Dunk Shot,1,6,17,True
+Dewayne Dedmon,1,5,30,1,Alley Oop Dunk Shot,0,-2,5,True
+Dewayne Dedmon,4,9,1,1,Alley Oop Dunk Shot,1,4,11,True
+Dewayne Dedmon,4,5,2,1,Alley Oop Dunk Shot,1,-2,18,True
+Dewayne Dedmon,4,4,42,0,Alley Oop Dunk Shot,1,-2,16,True
+Dewayne Dedmon,1,10,47,1,Alley Oop Dunk Shot,2,-9,18,True
+Dewayne Dedmon,1,9,52,1,Alley Oop Dunk Shot,2,-2,20,True
+Dewayne Dedmon,3,3,3,1,Alley Oop Dunk Shot,1,5,12,True
+Dewayne Dedmon,3,9,14,1,Alley Oop Dunk Shot,1,11,4,True
+Dewayne Dedmon,1,7,12,1,Alley Oop Layup shot,1,-7,8,True
+Dewayne Dedmon,1,9,39,0,Alley Oop Layup shot,2,19,19,True
+Dewayne Dedmon,3,11,42,1,Cutting Dunk Shot,2,-14,15,True
+Dewayne Dedmon,2,11,42,1,Cutting Dunk Shot,1,14,1,True
+Dewayne Dedmon,4,8,33,1,Cutting Dunk Shot,1,-11,10,True
+Dewayne Dedmon,4,11,18,1,Cutting Dunk Shot,1,4,15,True
+Dewayne Dedmon,2,10,13,1,Cutting Dunk Shot,1,9,17,True
+Dewayne Dedmon,2,8,15,1,Cutting Dunk Shot,0,0,9,True
+Dewayne Dedmon,3,3,42,1,Cutting Dunk Shot,1,-6,13,True
+Dewayne Dedmon,3,8,27,1,Cutting Dunk Shot,3,-2,31,True
+Dewayne Dedmon,3,7,44,0,Cutting Dunk Shot,2,-6,29,True
+Dewayne Dedmon,4,7,2,1,Cutting Dunk Shot,1,1,10,True
+Dewayne Dedmon,4,1,1,1,Cutting Dunk Shot,1,2,15,True
+Dewayne Dedmon,1,9,53,1,Cutting Dunk Shot,1,6,9,True
+Dewayne Dedmon,2,2,5,1,Cutting Dunk Shot,0,3,9,True
+Dewayne Dedmon,1,7,13,1,Cutting Dunk Shot,0,2,6,True
+Dewayne Dedmon,4,7,13,1,Cutting Dunk Shot,1,3,18,True
+Dewayne Dedmon,1,11,3,0,Cutting Layup Shot,2,-17,21,True
+Dewayne Dedmon,1,10,17,0,Cutting Layup Shot,7,2,74,True
+Dewayne Dedmon,4,2,25,0,Cutting Layup Shot,1,6,15,True
+Dewayne Dedmon,1,9,45,1,Cutting Layup Shot,2,9,21,True
+Dewayne Dedmon,2,9,38,1,Cutting Layup Shot,2,11,17,True
+Dewayne Dedmon,2,6,46,1,Cutting Layup Shot,1,3,16,True
+Dewayne Dedmon,4,2,42,1,Cutting Layup Shot,1,-10,1,True
+Dewayne Dedmon,4,8,30,1,Cutting Layup Shot,2,27,1,True
+Dewayne Dedmon,4,8,10,1,Cutting Layup Shot,0,1,4,True
+Dewayne Dedmon,1,2,39,0,Cutting Layup Shot,2,20,21,True
+Dewayne Dedmon,1,6,47,0,Cutting Layup Shot,6,-4,61,True
+Dewayne Dedmon,3,5,57,1,Cutting Layup Shot,2,-3,27,True
+Dewayne Dedmon,2,0,38,0,Cutting Layup Shot,1,3,16,True
+Dewayne Dedmon,1,7,54,1,Cutting Layup Shot,0,0,6,True
+Dewayne Dedmon,1,7,8,1,Cutting Layup Shot,1,19,-1,True
+Dewayne Dedmon,2,3,51,1,Cutting Layup Shot,2,-17,21,True
+Dewayne Dedmon,4,2,58,1,Cutting Layup Shot,0,-7,0,True
+Dewayne Dedmon,3,4,24,1,Driving Dunk Shot,0,0,7,True
+Dewayne Dedmon,1,7,42,1,Driving Dunk Shot,1,5,19,True
+Dewayne Dedmon,2,5,43,1,Driving Dunk Shot,0,2,5,True
+Dewayne Dedmon,2,7,43,1,Driving Dunk Shot,6,-14,65,True
+Dewayne Dedmon,4,4,23,1,Driving Floating Bank Jump Shot,6,37,50,True
+Dewayne Dedmon,3,0,0,0,Driving Floating Jump Shot,19,46,185,True
+Dewayne Dedmon,1,5,55,0,Driving Floating Jump Shot,12,6,127,True
+Dewayne Dedmon,2,6,55,0,Driving Floating Jump Shot,8,2,83,True
+Dewayne Dedmon,1,9,6,0,Driving Floating Jump Shot,9,74,52,True
+Dewayne Dedmon,1,10,23,1,Driving Floating Jump Shot,11,-106,38,True
+Dewayne Dedmon,2,3,29,0,Driving Hook Shot,6,-9,68,True
+Dewayne Dedmon,1,9,16,0,Driving Hook Shot,13,17,130,True
+Dewayne Dedmon,3,4,39,1,Driving Hook Shot,14,-13,143,True
+Dewayne Dedmon,1,7,22,0,Driving Hook Shot,4,20,40,True
+Dewayne Dedmon,2,7,7,1,Driving Layup Shot,1,0,15,True
+Dewayne Dedmon,2,1,26,0,Driving Layup Shot,2,5,21,True
+Dewayne Dedmon,1,9,35,0,Driving Layup Shot,5,30,43,True
+Dewayne Dedmon,4,0,22,1,Dunk Shot,0,9,-4,True
+Dewayne Dedmon,3,9,33,1,Dunk Shot,0,-3,8,True
+Dewayne Dedmon,3,6,13,1,Dunk Shot,1,2,11,True
+Dewayne Dedmon,4,4,47,1,Dunk Shot,1,11,13,True
+Dewayne Dedmon,3,11,34,1,Dunk Shot,0,-1,-4,True
+Dewayne Dedmon,2,9,47,1,Dunk Shot,2,-20,10,True
+Dewayne Dedmon,3,6,5,1,Dunk Shot,1,13,15,True
+Dewayne Dedmon,3,5,52,1,Dunk Shot,1,0,16,True
+Dewayne Dedmon,1,2,4,1,Dunk Shot,0,-6,5,True
+Dewayne Dedmon,1,5,28,1,Dunk Shot,2,25,1,True
+Dewayne Dedmon,2,9,54,1,Dunk Shot,0,-2,1,True
+Dewayne Dedmon,3,4,12,1,Dunk Shot,1,6,9,True
+Dewayne Dedmon,3,7,52,0,Dunk Shot,1,3,10,True
+Dewayne Dedmon,2,7,50,1,Dunk Shot,1,1,17,True
+Dewayne Dedmon,4,8,26,1,Fadeaway Jump Shot,11,-25,112,True
+Dewayne Dedmon,3,11,40,0,Fadeaway Jump Shot,16,-161,37,True
+Dewayne Dedmon,1,9,48,1,Fadeaway Jump Shot,15,-68,136,True
+Dewayne Dedmon,4,8,13,1,Fadeaway Jump Shot,6,-55,35,True
+Dewayne Dedmon,3,8,32,1,Fadeaway Jump Shot,9,-7,90,True
+Dewayne Dedmon,4,6,27,1,Floating Jump shot,9,-5,92,True
+Dewayne Dedmon,2,6,44,1,Floating Jump shot,8,19,87,True
+Dewayne Dedmon,2,6,26,1,Floating Jump shot,13,49,131,True
+Dewayne Dedmon,2,10,36,1,Floating Jump shot,11,-34,105,True
+Dewayne Dedmon,3,9,47,1,Floating Jump shot,2,-3,23,True
+Dewayne Dedmon,1,3,38,1,Floating Jump shot,11,55,103,True
+Dewayne Dedmon,1,4,39,0,Floating Jump shot,7,-19,77,True
+Dewayne Dedmon,2,8,7,1,Floating Jump shot,10,-7,109,True
+Dewayne Dedmon,4,7,31,1,Floating Jump shot,14,67,125,True
+Dewayne Dedmon,1,11,26,0,Floating Jump shot,7,1,78,True
+Dewayne Dedmon,2,11,28,0,Floating Jump shot,12,-36,121,True
+Dewayne Dedmon,1,6,57,1,Floating Jump shot,1,-3,17,True
+Dewayne Dedmon,4,9,8,0,Floating Jump shot,12,-20,127,True
+Dewayne Dedmon,3,10,27,0,Floating Jump shot,10,8,108,True
+Dewayne Dedmon,3,11,10,0,Floating Jump shot,11,0,116,True
+Dewayne Dedmon,4,10,37,1,Floating Jump shot,5,26,43,True
+Dewayne Dedmon,4,3,24,0,Floating Jump shot,8,-35,78,True
+Dewayne Dedmon,1,4,17,0,Floating Jump shot,10,-60,88,True
+Dewayne Dedmon,3,5,21,0,Floating Jump shot,12,7,121,True
+Dewayne Dedmon,2,0,28,0,Floating Jump shot,14,24,141,True
+Dewayne Dedmon,4,8,0,0,Hook Shot,4,-25,37,True
+Dewayne Dedmon,2,0,6,1,Hook Shot,7,-34,70,True
+Dewayne Dedmon,3,11,25,0,Hook Shot,7,-65,26,True
+Dewayne Dedmon,3,6,5,1,Hook Shot,7,23,75,True
+Dewayne Dedmon,1,9,55,0,Hook Shot,7,33,62,True
+Dewayne Dedmon,1,6,25,0,Hook Shot,7,-8,72,True
+Dewayne Dedmon,3,9,7,0,Hook Shot,8,43,74,True
+Dewayne Dedmon,4,7,32,1,Hook Shot,1,1,15,True
+Dewayne Dedmon,1,11,11,1,Hook Shot,2,0,27,True
+Dewayne Dedmon,2,9,19,0,Hook Shot,4,14,41,True
+Dewayne Dedmon,1,11,39,0,Hook Shot,4,7,46,True
+Dewayne Dedmon,1,11,7,1,Hook Shot,4,-12,47,True
+Dewayne Dedmon,4,1,14,1,Hook Shot,6,30,62,True
+Dewayne Dedmon,1,10,14,0,Hook Shot,6,28,64,True
+Dewayne Dedmon,1,4,45,0,Hook Shot,10,23,101,True
+Dewayne Dedmon,3,3,26,0,Hook Shot,4,1,48,True
+Dewayne Dedmon,4,9,7,0,Hook Shot,9,0,95,True
+Dewayne Dedmon,4,3,44,1,Hook Shot,5,-21,53,True
+Dewayne Dedmon,2,6,36,1,Hook Shot,9,-22,89,True
+Dewayne Dedmon,1,6,43,0,Jump Bank Shot,12,34,116,True
+Dewayne Dedmon,4,1,13,0,Jump Bank Shot,7,-11,72,True
+Dewayne Dedmon,4,7,11,1,Jump Bank Shot,7,51,56,True
+Dewayne Dedmon,3,10,38,1,Jump Bank Shot,9,75,65,True
+Dewayne Dedmon,2,6,6,1,Jump Bank Shot,10,65,77,True
+Dewayne Dedmon,3,4,31,1,Jump Bank Shot,3,-32,-1,True
+Dewayne Dedmon,2,5,39,0,Jump Shot,5,8,56,True
+Dewayne Dedmon,4,0,18,0,Jump Shot,24,155,193,False
+Dewayne Dedmon,1,8,47,0,Jump Shot,26,192,179,False
+Dewayne Dedmon,3,10,38,1,Jump Shot,26,57,262,False
+Dewayne Dedmon,3,7,49,0,Jump Shot,17,-33,169,True
+Dewayne Dedmon,4,1,31,1,Jump Shot,23,-232,32,False
+Dewayne Dedmon,1,8,28,0,Jump Shot,25,233,96,False
+Dewayne Dedmon,2,11,19,1,Jump Shot,17,161,77,True
+Dewayne Dedmon,2,10,40,0,Jump Shot,22,225,46,False
+Dewayne Dedmon,3,3,36,0,Jump Shot,18,51,175,True
+Dewayne Dedmon,2,5,6,1,Jump Shot,25,-8,255,False
+Dewayne Dedmon,3,7,22,1,Jump Shot,22,-228,26,False
+Dewayne Dedmon,1,6,44,0,Jump Shot,25,-138,213,False
+Dewayne Dedmon,1,8,56,0,Jump Shot,23,225,58,False
+Dewayne Dedmon,1,8,5,0,Jump Shot,22,-130,183,True
+Dewayne Dedmon,3,7,45,0,Jump Shot,23,-229,32,False
+Dewayne Dedmon,4,9,22,0,Jump Shot,25,145,207,False
+Dewayne Dedmon,2,6,58,1,Jump Shot,25,-103,234,False
+Dewayne Dedmon,1,4,40,0,Jump Shot,12,-3,129,True
+Dewayne Dedmon,1,8,9,1,Jump Shot,25,-206,145,False
+Dewayne Dedmon,3,5,34,0,Jump Shot,24,109,222,False
+Dewayne Dedmon,3,9,33,0,Jump Shot,24,160,191,False
+Dewayne Dedmon,4,2,58,1,Jump Shot,25,-104,231,False
+Dewayne Dedmon,4,4,0,0,Jump Shot,14,10,141,True
+Dewayne Dedmon,3,3,49,0,Jump Shot,22,-220,5,False
+Dewayne Dedmon,3,8,40,1,Jump Shot,24,-6,248,False
+Dewayne Dedmon,4,2,26,0,Jump Shot,17,-83,152,True
+Dewayne Dedmon,1,9,16,0,Jump Shot,20,51,195,True
+Dewayne Dedmon,1,6,58,1,Jump Shot,10,-35,95,True
+Dewayne Dedmon,1,7,45,1,Jump Shot,12,70,104,True
+Dewayne Dedmon,3,10,53,0,Jump Shot,16,-157,37,True
+Dewayne Dedmon,4,5,12,0,Jump Shot,23,230,17,False
+Dewayne Dedmon,3,3,47,0,Jump Shot,23,-236,24,False
+Dewayne Dedmon,3,4,27,0,Jump Shot,23,-236,14,False
+Dewayne Dedmon,1,7,15,0,Jump Shot,24,237,43,False
+Dewayne Dedmon,3,6,12,0,Jump Shot,25,-180,187,False
+Dewayne Dedmon,3,11,21,0,Jump Shot,23,234,32,False
+Dewayne Dedmon,3,8,5,0,Jump Shot,18,106,153,True
+Dewayne Dedmon,4,2,7,0,Jump Shot,18,-111,150,True
+Dewayne Dedmon,1,7,26,0,Jump Shot,26,0,267,False
+Dewayne Dedmon,3,9,21,1,Jump Shot,24,-112,220,False
+Dewayne Dedmon,3,9,32,0,Jump Shot,24,236,57,False
+Dewayne Dedmon,2,5,2,0,Jump Shot,10,-3,104,True
+Dewayne Dedmon,3,6,41,1,Jump Shot,18,-52,181,True
+Dewayne Dedmon,4,11,36,0,Jump Shot,23,-228,37,False
+Dewayne Dedmon,3,7,7,1,Jump Shot,23,226,73,False
+Dewayne Dedmon,1,9,11,0,Jump Shot,25,73,242,False
+Dewayne Dedmon,4,7,57,0,Jump Shot,25,223,119,False
+Dewayne Dedmon,3,9,37,0,Jump Shot,22,-220,-5,False
+Dewayne Dedmon,1,5,31,1,Jump Shot,22,-112,196,True
+Dewayne Dedmon,3,5,4,0,Jump Shot,24,0,246,False
+Dewayne Dedmon,4,5,8,0,Jump Shot,14,57,131,True
+Dewayne Dedmon,4,0,14,0,Jump Shot,25,209,138,False
+Dewayne Dedmon,2,7,29,0,Jump Shot,26,63,259,False
+Dewayne Dedmon,3,9,59,1,Jump Shot,23,-233,38,False
+Dewayne Dedmon,3,8,0,1,Jump Shot,23,228,64,False
+Dewayne Dedmon,1,5,53,0,Jump Shot,17,75,158,True
+Dewayne Dedmon,2,3,34,0,Jump Shot,25,43,247,False
+Dewayne Dedmon,3,10,39,0,Jump Shot,24,-119,219,False
+Dewayne Dedmon,2,5,22,0,Jump Shot,23,-229,43,False
+Dewayne Dedmon,3,7,58,0,Jump Shot,22,-228,29,False
+Dewayne Dedmon,2,9,18,0,Jump Shot,24,-125,216,False
+Dewayne Dedmon,3,9,54,0,Jump Shot,24,105,226,False
+Dewayne Dedmon,3,9,27,0,Jump Shot,14,144,21,True
+Dewayne Dedmon,2,7,41,0,Jump Shot,13,1,136,True
+Dewayne Dedmon,2,5,38,1,Jump Shot,25,47,250,False
+Dewayne Dedmon,1,10,39,1,Jump Shot,25,-73,241,False
+Dewayne Dedmon,1,7,45,1,Jump Shot,23,-227,48,False
+Dewayne Dedmon,3,8,55,1,Jump Shot,13,52,122,True
+Dewayne Dedmon,1,7,59,1,Jump Shot,22,-228,26,False
+Dewayne Dedmon,1,7,7,0,Jump Shot,25,-25,256,False
+Dewayne Dedmon,2,0,25,0,Jump Shot,25,-54,250,False
+Dewayne Dedmon,3,8,9,1,Jump Shot,15,-112,109,True
+Dewayne Dedmon,2,6,58,1,Jump Shot,28,-190,218,False
+Dewayne Dedmon,2,4,26,0,Jump Shot,26,-212,165,False
+Dewayne Dedmon,2,4,11,0,Jump Shot,25,-153,206,False
+Dewayne Dedmon,3,9,59,0,Jump Shot,25,166,192,False
+Dewayne Dedmon,3,10,29,0,Jump Shot,23,232,55,False
+Dewayne Dedmon,2,2,0,0,Jump Shot,26,-154,218,False
+Dewayne Dedmon,4,0,30,1,Jump Shot,26,-13,260,False
+Dewayne Dedmon,2,6,40,1,Jump Shot,27,-182,204,False
+Dewayne Dedmon,1,6,3,0,Jump Shot,14,-138,37,True
+Dewayne Dedmon,3,5,41,1,Jump Shot,15,85,130,True
+Dewayne Dedmon,4,0,56,1,Jump Shot,24,220,109,False
+Dewayne Dedmon,3,3,53,1,Jump Shot,22,-221,34,False
+Dewayne Dedmon,4,2,0,0,Jump Shot,25,178,183,False
+Dewayne Dedmon,2,3,4,0,Jump Shot,15,82,131,True
+Dewayne Dedmon,2,1,44,0,Jump Shot,23,232,26,False
+Dewayne Dedmon,2,1,37,0,Jump Shot,26,5,263,False
+Dewayne Dedmon,1,1,50,1,Jump Shot,23,231,17,False
+Dewayne Dedmon,4,0,48,0,Jump Shot,26,-131,236,False
+Dewayne Dedmon,1,0,56,0,Jump Shot,26,-9,264,False
+Dewayne Dedmon,4,4,0,0,Jump Shot,26,43,257,False
+Dewayne Dedmon,2,3,16,1,Jump Shot,25,28,253,False
+Dewayne Dedmon,1,3,20,1,Jump Shot,16,-136,100,True
+Dewayne Dedmon,4,9,46,1,Jump Shot,18,-105,152,True
+Dewayne Dedmon,1,1,15,1,Jump Shot,12,-123,25,True
+Dewayne Dedmon,1,9,2,0,Jump Shot,26,156,210,False
+Dewayne Dedmon,3,9,19,0,Jump Shot,26,-3,260,False
+Dewayne Dedmon,3,10,5,1,Jump Shot,26,149,218,False
+Dewayne Dedmon,2,8,13,0,Jump Shot,16,124,102,True
+Dewayne Dedmon,3,3,8,0,Jump Shot,24,121,214,False
+Dewayne Dedmon,2,0,54,0,Jump Shot,22,228,17,False
+Dewayne Dedmon,4,2,56,1,Jump Shot,23,234,50,False
+Dewayne Dedmon,2,0,7,0,Jump Shot,10,-96,32,True
+Dewayne Dedmon,4,4,35,1,Jump Shot,24,27,247,False
+Dewayne Dedmon,1,2,36,1,Jump Shot,14,49,137,True
+Dewayne Dedmon,1,3,54,1,Jump Shot,22,221,38,False
+Dewayne Dedmon,2,11,31,1,Jump Shot,23,-218,75,False
+Dewayne Dedmon,3,2,58,0,Jump Shot,20,78,186,True
+Dewayne Dedmon,1,3,58,0,Jump Shot,23,225,72,False
+Dewayne Dedmon,1,1,32,1,Jump Shot,20,17,204,True
+Dewayne Dedmon,4,7,42,1,Jump Shot,17,-109,141,True
+Dewayne Dedmon,3,3,33,0,Jump Shot,25,-87,245,False
+Dewayne Dedmon,1,0,44,0,Jump Shot,12,3,121,True
+Dewayne Dedmon,1,4,7,0,Jump Shot,19,44,185,True
+Dewayne Dedmon,2,2,36,1,Jump Shot,18,-9,181,True
+Dewayne Dedmon,1,2,55,1,Jump Shot,17,-164,50,True
+Dewayne Dedmon,3,2,49,1,Jump Shot,22,-226,25,False
+Dewayne Dedmon,1,0,32,0,Jump Shot,25,97,237,False
+Dewayne Dedmon,2,1,29,0,Jump Shot,25,27,253,False
+Dewayne Dedmon,1,2,56,1,Jump Shot,24,234,74,False
+Dewayne Dedmon,3,4,55,0,Jump Shot,25,58,247,False
+Dewayne Dedmon,2,2,8,0,Jump Shot,23,-232,9,False
+Dewayne Dedmon,3,0,41,0,Jump Shot,21,141,168,True
+Dewayne Dedmon,3,3,13,1,Jump Shot,19,62,184,True
+Dewayne Dedmon,1,5,20,0,Jump Shot,23,-230,31,False
+Dewayne Dedmon,3,2,31,1,Jump Shot,21,82,202,True
+Dewayne Dedmon,3,0,4,0,Jump Shot,24,32,246,False
+Dewayne Dedmon,1,3,5,0,Jump Shot,24,-68,239,False
+Dewayne Dedmon,3,1,28,0,Jump Shot,25,123,220,False
+Dewayne Dedmon,1,3,22,0,Jump Shot,19,12,198,True
+Dewayne Dedmon,3,3,55,1,Jump Shot,19,190,-17,True
+Dewayne Dedmon,1,2,8,0,Jump Shot,18,-172,69,True
+Dewayne Dedmon,4,2,37,1,Jump Shot,25,78,247,False
+Dewayne Dedmon,1,1,25,0,Jump Shot,24,-130,209,False
+Dewayne Dedmon,3,1,53,0,Jump Shot,24,-150,199,False
+Dewayne Dedmon,1,0,0,0,Jump Shot,23,232,39,False
+Dewayne Dedmon,3,6,16,1,Jump Shot,19,76,179,True
+Dewayne Dedmon,3,3,17,0,Jump Shot,19,-13,190,True
+Dewayne Dedmon,3,4,12,0,Jump Shot,18,132,126,True
+Dewayne Dedmon,1,2,45,0,Jump Shot,25,138,209,False
+Dewayne Dedmon,2,0,2,0,Jump Shot,24,11,242,False
+Dewayne Dedmon,2,0,51,0,Jump Shot,22,-221,-2,False
+Dewayne Dedmon,1,7,58,0,Jump Shot,23,229,32,False
+Dewayne Dedmon,3,5,38,0,Jump Shot,19,-20,194,True
+Dewayne Dedmon,1,4,11,1,Jump Shot,17,106,136,True
+Dewayne Dedmon,3,11,48,0,Jump Shot,22,-225,33,False
+Dewayne Dedmon,2,8,21,1,Jump Shot,22,-221,16,False
+Dewayne Dedmon,1,9,14,0,Jump Shot,12,2,126,True
+Dewayne Dedmon,1,8,3,1,Jump Shot,24,-135,206,False
+Dewayne Dedmon,1,2,29,0,Jump Shot,23,-228,43,False
+Dewayne Dedmon,1,8,19,0,Jump Shot,16,83,148,True
+Dewayne Dedmon,1,8,41,1,Jump Shot,24,90,229,False
+Dewayne Dedmon,4,2,8,0,Jump Shot,24,218,121,False
+Dewayne Dedmon,4,5,53,1,Jump Shot,23,230,48,False
+Dewayne Dedmon,3,8,7,1,Jump Shot,24,227,86,False
+Dewayne Dedmon,1,2,23,1,Jump Shot,19,71,181,True
+Dewayne Dedmon,3,3,51,0,Jump Shot,17,-60,162,True
+Dewayne Dedmon,1,4,9,1,Jump Shot,23,-232,16,False
+Dewayne Dedmon,1,8,49,1,Jump Shot,23,229,47,False
+Dewayne Dedmon,2,1,31,1,Jump Shot,19,-55,189,True
+Dewayne Dedmon,2,0,27,1,Jump Shot,10,35,99,True
+Dewayne Dedmon,3,11,5,1,Jump Shot,24,235,62,False
+Dewayne Dedmon,3,7,23,0,Jump Shot,23,-228,62,False
+Dewayne Dedmon,3,4,38,0,Jump Shot,23,-234,29,False
+Dewayne Dedmon,1,5,22,1,Jump Shot,5,8,58,True
+Dewayne Dedmon,1,8,6,0,Jump Shot,23,226,49,False
+Dewayne Dedmon,2,0,54,1,Jump Shot,23,230,7,False
+Dewayne Dedmon,2,4,36,1,Jump Shot,17,59,162,True
+Dewayne Dedmon,2,3,32,1,Jump Shot,12,4,123,True
+Dewayne Dedmon,2,6,50,1,Jump Shot,19,-198,-14,True
+Dewayne Dedmon,4,1,8,0,Jump Shot,15,12,158,True
+Dewayne Dedmon,1,9,24,0,Jump Shot,18,102,157,True
+Dewayne Dedmon,1,5,7,1,Jump Shot,24,-230,73,False
+Dewayne Dedmon,3,11,9,1,Jump Shot,15,128,90,True
+Dewayne Dedmon,2,11,5,0,Jump Shot,23,-231,34,False
+Dewayne Dedmon,4,5,45,1,Jump Shot,18,93,157,True
+Dewayne Dedmon,3,10,22,1,Jump Shot,18,146,110,True
+Dewayne Dedmon,3,7,11,1,Jump Shot,23,236,8,False
+Dewayne Dedmon,3,6,17,0,Jump Shot,23,-230,8,False
+Dewayne Dedmon,3,10,14,1,Jump Shot,15,144,68,True
+Dewayne Dedmon,4,11,16,0,Jump Shot,23,230,67,False
+Dewayne Dedmon,2,6,36,1,Jump Shot,22,228,25,False
+Dewayne Dedmon,3,6,12,1,Jump Shot,15,-8,152,True
+Dewayne Dedmon,1,9,14,0,Jump Shot,22,-222,-4,False
+Dewayne Dedmon,1,10,22,0,Jump Shot,17,158,78,True
+Dewayne Dedmon,3,11,3,0,Jump Shot,20,-17,200,True
+Dewayne Dedmon,1,11,41,1,Jump Shot,15,-149,42,True
+Dewayne Dedmon,1,10,46,0,Jump Shot,22,-228,24,False
+Dewayne Dedmon,1,7,51,0,Jump Shot,20,-27,203,True
+Dewayne Dedmon,3,6,26,0,Jump Shot,22,228,20,False
+Dewayne Dedmon,4,8,42,0,Jump Shot,9,-3,94,True
+Dewayne Dedmon,3,10,47,1,Jump Shot,13,5,130,True
+Dewayne Dedmon,4,4,12,0,Jump Shot,22,-223,-5,False
+Dewayne Dedmon,2,10,11,1,Jump Shot,22,-224,2,False
+Dewayne Dedmon,2,9,3,1,Jump Shot,13,51,126,True
+Dewayne Dedmon,2,11,19,0,Jump Shot,22,227,25,False
+Dewayne Dedmon,1,10,32,1,Jump Shot,21,-209,44,True
+Dewayne Dedmon,3,0,58,0,Jump Shot,10,12,109,True
+Dewayne Dedmon,3,8,6,0,Jump Shot,18,67,169,True
+Dewayne Dedmon,1,9,17,1,Jump Shot,23,231,47,False
+Dewayne Dedmon,2,3,13,1,Jump Shot,21,-17,210,True
+Dewayne Dedmon,4,4,15,1,Jump Shot,19,60,189,True
+Dewayne Dedmon,4,4,31,0,Jump Shot,5,28,50,True
+Dewayne Dedmon,3,11,19,0,Jump Shot,15,-151,15,True
+Dewayne Dedmon,3,8,51,1,Jump Shot,11,28,109,True
+Dewayne Dedmon,1,10,6,0,Jump Shot,16,19,159,True
+Dewayne Dedmon,3,10,1,0,Jump Shot,17,79,160,True
+Dewayne Dedmon,4,9,19,0,Jump Shot,15,3,153,True
+Dewayne Dedmon,4,11,25,0,Jump Shot,7,-55,50,True
+Dewayne Dedmon,3,6,54,0,Layup Shot,2,2,26,True
+Dewayne Dedmon,2,2,51,1,Layup Shot,1,8,15,True
+Dewayne Dedmon,3,11,17,1,Layup Shot,1,6,11,True
+Dewayne Dedmon,3,4,7,1,Layup Shot,3,3,35,True
+Dewayne Dedmon,1,6,1,1,Layup Shot,1,8,18,True
+Dewayne Dedmon,4,10,43,1,Layup Shot,1,-12,1,True
+Dewayne Dedmon,4,7,26,0,Layup Shot,3,0,31,True
+Dewayne Dedmon,2,8,9,1,Layup Shot,3,18,32,True
+Dewayne Dedmon,3,8,49,0,Layup Shot,0,3,8,True
+Dewayne Dedmon,3,2,45,1,Layup Shot,1,-6,17,True
+Dewayne Dedmon,2,5,21,1,Layup Shot,2,13,25,True
+Dewayne Dedmon,3,9,12,1,Layup Shot,3,1,30,True
+Dewayne Dedmon,4,7,15,1,Layup Shot,0,8,4,True
+Dewayne Dedmon,2,10,8,0,Layup Shot,7,-17,70,True
+Dewayne Dedmon,2,5,37,0,Layup Shot,1,-9,13,True
+Dewayne Dedmon,3,10,29,0,Layup Shot,4,28,29,True
+Dewayne Dedmon,1,9,53,0,Layup Shot,1,15,13,True
+Dewayne Dedmon,3,7,22,1,Layup Shot,2,2,20,True
+Dewayne Dedmon,3,7,47,1,Layup Shot,1,-4,10,True
+Dewayne Dedmon,2,7,39,1,Layup Shot,2,20,-5,True
+Dewayne Dedmon,4,5,53,1,Layup Shot,0,-2,-3,True
+Dewayne Dedmon,4,2,22,0,Layup Shot,1,0,12,True
+Dewayne Dedmon,1,9,32,0,Layup Shot,0,-8,3,True
+Dewayne Dedmon,1,3,15,1,Layup Shot,2,11,27,True
+Dewayne Dedmon,2,7,41,0,Layup Shot,1,-2,11,True
+Dewayne Dedmon,4,9,1,1,Layup Shot,2,9,19,True
+Dewayne Dedmon,4,7,12,1,Layup Shot,1,-4,17,True
+Dewayne Dedmon,4,4,54,1,Layup Shot,5,-50,27,True
+Dewayne Dedmon,1,10,51,0,Layup Shot,2,13,24,True
+Dewayne Dedmon,1,6,31,1,Layup Shot,1,8,16,True
+Dewayne Dedmon,1,9,7,1,Layup Shot,1,8,9,True
+Dewayne Dedmon,1,11,21,0,Layup Shot,3,34,8,True
+Dewayne Dedmon,1,6,38,0,Layup Shot,4,12,41,True
+Dewayne Dedmon,1,10,12,1,Layup Shot,3,14,29,True
+Dewayne Dedmon,1,2,52,1,Layup Shot,2,-2,25,True
+Dewayne Dedmon,3,8,34,1,Layup Shot,3,0,37,True
+Dewayne Dedmon,4,0,37,1,Pullup Jump shot,22,228,21,False
+Dewayne Dedmon,2,7,52,1,Pullup Jump shot,17,20,175,True
+Dewayne Dedmon,3,4,35,0,Pullup Jump shot,17,-104,143,True
+Dewayne Dedmon,4,7,51,1,Pullup Jump shot,12,0,128,True
+Dewayne Dedmon,1,11,4,1,Pullup Jump shot,21,-84,196,True
+Dewayne Dedmon,4,10,5,1,Pullup Jump shot,21,134,166,True
+Dewayne Dedmon,2,8,25,1,Pullup Jump shot,15,-41,146,True
+Dewayne Dedmon,2,3,17,1,Pullup Jump shot,18,-170,68,True
+Dewayne Dedmon,3,4,52,0,Pullup Jump shot,20,67,197,True
+Dewayne Dedmon,1,7,18,0,Pullup Jump shot,15,-36,153,True
+Dewayne Dedmon,4,0,41,1,Pullup Jump shot,17,37,168,True
+Dewayne Dedmon,3,0,20,1,Putback Dunk Shot,1,-13,2,True
+Dewayne Dedmon,3,5,7,1,Putback Dunk Shot,0,0,-6,True
+Dewayne Dedmon,2,4,19,1,Putback Dunk Shot,2,7,27,True
+Dewayne Dedmon,3,1,36,1,Putback Dunk Shot,0,0,-6,True
+Dewayne Dedmon,1,4,43,1,Putback Layup Shot,1,7,9,True
+Dewayne Dedmon,2,8,19,1,Putback Layup Shot,1,19,6,True
+Dewayne Dedmon,1,2,3,1,Putback Layup Shot,3,23,26,True
+Dewayne Dedmon,4,3,56,0,Putback Layup Shot,3,19,24,True
+Dewayne Dedmon,2,4,1,1,Putback Layup Shot,2,14,24,True
+Dewayne Dedmon,2,5,46,1,Putback Layup Shot,3,-6,35,True
+Dewayne Dedmon,4,0,58,1,Putback Layup Shot,0,-2,0,True
+Dewayne Dedmon,4,1,34,1,Putback Layup Shot,0,-3,-6,True
+Dewayne Dedmon,3,7,24,1,Reverse Dunk Shot,1,-13,8,True
+Dewayne Dedmon,3,8,17,0,Reverse Layup Shot,2,-13,19,True
+Dewayne Dedmon,4,5,1,1,Reverse Layup Shot,2,-1,20,True
+Dewayne Dedmon,2,10,6,1,Reverse Layup Shot,2,28,-2,True
+Dewayne Dedmon,1,6,27,1,Running Dunk Shot,0,-6,7,True
+Dewayne Dedmon,1,9,40,1,Running Dunk Shot,1,2,10,True
+Dewayne Dedmon,1,10,6,1,Running Dunk Shot,2,17,21,True
+Dewayne Dedmon,1,5,22,1,Running Jump Shot,23,222,65,False
+Dewayne Dedmon,1,11,18,0,Running Layup Shot,1,7,17,True
+Dewayne Dedmon,4,0,1,1,Running Layup Shot,1,-14,13,True
+Dewayne Dedmon,1,4,43,1,Running Layup Shot,1,3,16,True
+Dewayne Dedmon,3,7,46,1,Running Layup Shot,2,22,19,True
+Dewayne Dedmon,1,9,53,0,Step Back Jump shot,24,-24,241,False
+Dewayne Dedmon,4,0,7,0,Step Back Jump shot,27,140,236,False
+Dewayne Dedmon,4,5,36,0,Tip Dunk Shot,0,0,-6,True
+Dewayne Dedmon,2,7,41,1,Tip Layup Shot,0,0,-6,True
+Dewayne Dedmon,4,5,2,1,Tip Layup Shot,0,0,-6,True
+Dewayne Dedmon,3,6,39,0,Tip Layup Shot,0,0,-6,True
+Dewayne Dedmon,3,4,53,1,Tip Layup Shot,0,0,-6,True
+Dewayne Dedmon,1,7,42,1,Tip Layup Shot,0,0,-6,True
+Dewayne Dedmon,4,7,13,0,Tip Layup Shot,1,5,15,True
+Dewayne Dedmon,4,5,6,0,Tip Layup Shot,0,0,-6,True
+Dewayne Dedmon,1,10,18,1,Tip Layup Shot,0,0,-6,True
+Dewayne Dedmon,1,4,33,1,Tip Layup Shot,0,0,-6,True
+Dewayne Dedmon,2,2,4,0,Tip Layup Shot,0,0,-6,True
+Dewayne Dedmon,1,2,33,0,Tip Layup Shot,0,0,-6,True
+Dewayne Dedmon,4,7,21,0,Tip Layup Shot,1,6,10,True
+Dewayne Dedmon,2,7,57,0,Tip Layup Shot,0,0,-6,True
+Dewayne Dedmon,3,1,22,1,Turnaround Fadeaway Bank Jump Shot,6,46,48,True
+Dewayne Dedmon,4,7,41,1,Turnaround Fadeaway shot,13,24,137,True
+Dewayne Dedmon,1,8,18,0,Turnaround Fadeaway shot,12,-106,65,True
+Dewayne Dedmon,3,10,38,0,Turnaround Fadeaway shot,14,60,136,True
+Dewayne Dedmon,3,6,37,1,Turnaround Fadeaway shot,8,51,72,True
+Dewayne Dedmon,2,5,11,0,Turnaround Fadeaway shot,11,119,8,True
+Dewayne Dedmon,3,5,53,0,Turnaround Hook Shot,6,19,59,True
+Dewayne Dedmon,2,5,44,0,Turnaround Hook Shot,11,9,115,True
+Dewayne Dedmon,3,3,30,0,Turnaround Hook Shot,14,125,79,True
+Dewayne Dedmon,4,1,41,0,Turnaround Hook Shot,5,-2,59,True
+Dewayne Dedmon,3,4,53,0,Turnaround Hook Shot,8,-24,78,True
+Dewayne Dedmon,4,2,50,0,Turnaround Hook Shot,2,11,22,True
+Dewayne Dedmon,1,5,32,1,Turnaround Hook Shot,3,-9,34,True
+Dewayne Dedmon,3,2,0,1,Turnaround Jump Shot,11,5,116,True
+Dewayne Dedmon,3,7,41,0,Turnaround Jump Shot,12,-125,34,True
+Dewayne Dedmon,3,5,51,0,Turnaround Jump Shot,11,115,-2,True
+Dewayne Dedmon,1,11,14,0,Turnaround Jump Shot,14,-71,130,True
+Dewayne Dedmon,4,8,6,0,Turnaround Jump Shot,16,-51,158,True
+Dewayne Dedmon,1,2,45,1,Turnaround Jump Shot,12,-8,126,True

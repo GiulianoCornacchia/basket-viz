@@ -1,0 +1,60 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Caleb Swanigan,4,11,21,1,Cutting Dunk Shot,1,-6,8,True
+Caleb Swanigan,2,0,57,1,Cutting Layup Shot,2,18,13,True
+Caleb Swanigan,1,5,4,1,Cutting Layup Shot,1,11,13,True
+Caleb Swanigan,3,1,18,1,Cutting Layup Shot,1,16,8,True
+Caleb Swanigan,2,9,35,1,Driving Hook Shot,2,-8,27,True
+Caleb Swanigan,4,0,40,1,Driving Layup Shot,1,-3,15,True
+Caleb Swanigan,4,4,51,0,Driving Layup Shot,3,-4,35,True
+Caleb Swanigan,1,9,33,1,Driving Layup Shot,0,-2,7,True
+Caleb Swanigan,4,8,30,1,Driving Layup Shot,5,-30,46,True
+Caleb Swanigan,2,11,11,0,Fadeaway Jump Shot,9,-95,-6,True
+Caleb Swanigan,4,2,6,0,Fadeaway Jump Shot,18,138,126,True
+Caleb Swanigan,4,0,48,0,Floating Jump shot,12,-43,118,True
+Caleb Swanigan,2,1,16,0,Floating Jump shot,7,0,76,True
+Caleb Swanigan,1,0,3,1,Hook Bank Shot,2,-27,13,True
+Caleb Swanigan,1,3,10,0,Hook Shot,5,9,54,True
+Caleb Swanigan,4,0,4,0,Hook Shot,9,20,90,True
+Caleb Swanigan,3,0,1,1,Hook Shot,0,0,-6,True
+Caleb Swanigan,4,9,5,0,Hook Shot,2,17,20,True
+Caleb Swanigan,3,0,29,1,Hook Shot,4,22,37,True
+Caleb Swanigan,4,4,21,1,Hook Shot,2,2,26,True
+Caleb Swanigan,1,2,28,1,Hook Shot,2,-1,23,True
+Caleb Swanigan,4,3,48,1,Jump Shot,11,66,92,True
+Caleb Swanigan,1,2,15,0,Jump Shot,22,70,216,True
+Caleb Swanigan,4,1,34,1,Jump Shot,21,109,190,True
+Caleb Swanigan,4,7,29,1,Jump Shot,25,170,192,False
+Caleb Swanigan,2,8,5,0,Jump Shot,25,-84,243,False
+Caleb Swanigan,2,8,34,0,Jump Shot,25,-197,158,False
+Caleb Swanigan,4,9,12,0,Jump Shot,26,-203,163,False
+Caleb Swanigan,4,2,18,0,Jump Shot,22,-228,1,False
+Caleb Swanigan,2,7,23,0,Jump Shot,24,136,202,False
+Caleb Swanigan,4,4,20,0,Jump Shot,24,-125,216,False
+Caleb Swanigan,2,11,16,0,Jump Shot,24,-95,227,False
+Caleb Swanigan,2,8,45,0,Jump Shot,19,20,195,True
+Caleb Swanigan,2,7,7,0,Layup Shot,1,0,17,True
+Caleb Swanigan,4,1,32,1,Layup Shot,1,6,9,True
+Caleb Swanigan,3,10,43,0,Layup Shot,4,-24,37,True
+Caleb Swanigan,4,4,49,0,Layup Shot,2,7,20,True
+Caleb Swanigan,1,1,14,1,Layup Shot,1,9,15,True
+Caleb Swanigan,4,8,40,1,Layup Shot,1,14,3,True
+Caleb Swanigan,3,4,40,0,Layup Shot,1,-3,19,True
+Caleb Swanigan,3,3,56,0,Layup Shot,1,6,12,True
+Caleb Swanigan,1,2,3,1,Layup Shot,0,6,5,True
+Caleb Swanigan,3,0,26,0,Layup Shot,1,11,8,True
+Caleb Swanigan,1,2,30,0,Layup Shot,1,6,11,True
+Caleb Swanigan,4,0,39,0,Layup Shot,2,0,22,True
+Caleb Swanigan,4,0,11,0,Layup Shot,3,-5,31,True
+Caleb Swanigan,4,2,48,0,Pullup Jump shot,22,-12,222,True
+Caleb Swanigan,2,10,48,0,Pullup Jump shot,17,71,164,True
+Caleb Swanigan,4,11,37,0,Reverse Layup Shot,1,-5,16,True
+Caleb Swanigan,1,2,2,0,Tip Dunk Shot,2,10,25,True
+Caleb Swanigan,3,10,29,1,Tip Dunk Shot,3,-30,15,True
+Caleb Swanigan,2,11,31,1,Tip Layup Shot,0,0,-6,True
+Caleb Swanigan,2,11,27,0,Tip Layup Shot,0,0,-6,True
+Caleb Swanigan,2,7,28,0,Tip Layup Shot,0,0,-6,True
+Caleb Swanigan,2,4,48,0,Turnaround Bank Hook Shot,2,27,8,True
+Caleb Swanigan,1,3,53,0,Turnaround Fadeaway shot,8,58,58,True
+Caleb Swanigan,2,9,11,1,Turnaround Fadeaway shot,9,91,33,True
+Caleb Swanigan,2,6,22,0,Turnaround Fadeaway shot,2,16,20,True
+Caleb Swanigan,4,10,40,0,Turnaround Hook Shot,4,24,37,True

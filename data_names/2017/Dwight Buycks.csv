@@ -1,0 +1,159 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Dwight Buycks,2,11,35,1,Cutting Layup Shot,1,-11,6,True
+Dwight Buycks,4,9,21,1,Cutting Layup Shot,0,-9,4,True
+Dwight Buycks,4,3,5,1,Cutting Layup Shot,0,7,3,True
+Dwight Buycks,2,6,59,1,Cutting Layup Shot,3,-29,16,True
+Dwight Buycks,4,7,33,1,Cutting Layup Shot,1,-11,10,True
+Dwight Buycks,2,10,23,1,Driving Finger Roll Layup Shot,1,17,-4,True
+Dwight Buycks,4,2,4,1,Driving Finger Roll Layup Shot,1,-9,15,True
+Dwight Buycks,1,2,4,1,Driving Finger Roll Layup Shot,1,0,14,True
+Dwight Buycks,1,3,42,0,Driving Floating Bank Jump Shot,6,38,50,True
+Dwight Buycks,2,7,53,0,Driving Floating Jump Shot,4,28,30,True
+Dwight Buycks,2,0,49,0,Driving Floating Jump Shot,10,-87,57,True
+Dwight Buycks,4,10,37,1,Driving Floating Jump Shot,7,46,57,True
+Dwight Buycks,2,11,28,1,Driving Layup Shot,2,25,11,True
+Dwight Buycks,1,2,59,0,Driving Layup Shot,3,27,17,True
+Dwight Buycks,4,11,14,0,Driving Layup Shot,9,92,26,True
+Dwight Buycks,4,9,10,0,Driving Layup Shot,3,-27,27,True
+Dwight Buycks,4,1,17,1,Driving Layup Shot,3,-24,29,True
+Dwight Buycks,2,11,1,0,Driving Layup Shot,1,-16,5,True
+Dwight Buycks,4,9,25,1,Driving Layup Shot,1,18,0,True
+Dwight Buycks,3,1,29,0,Driving Layup Shot,2,11,17,True
+Dwight Buycks,1,1,43,1,Driving Layup Shot,1,-13,13,True
+Dwight Buycks,3,2,48,1,Driving Layup Shot,1,16,10,True
+Dwight Buycks,4,11,27,0,Driving Layup Shot,3,20,25,True
+Dwight Buycks,4,5,29,1,Driving Layup Shot,1,-6,16,True
+Dwight Buycks,4,1,24,0,Driving Layup Shot,3,29,22,True
+Dwight Buycks,4,11,40,1,Driving Layup Shot,2,-18,15,True
+Dwight Buycks,3,3,41,0,Driving Layup Shot,1,-3,11,True
+Dwight Buycks,4,5,52,1,Driving Layup Shot,1,-2,13,True
+Dwight Buycks,2,1,12,1,Driving Layup Shot,1,13,5,True
+Dwight Buycks,4,0,9,0,Driving Layup Shot,8,-71,43,True
+Dwight Buycks,1,1,16,0,Driving Layup Shot,2,27,-11,True
+Dwight Buycks,2,11,22,1,Driving Layup Shot,2,20,10,True
+Dwight Buycks,1,0,6,0,Driving Layup Shot,1,8,11,True
+Dwight Buycks,2,8,14,1,Driving Layup Shot,1,19,2,True
+Dwight Buycks,2,6,46,1,Driving Layup Shot,0,-3,1,True
+Dwight Buycks,2,9,10,0,Driving Layup Shot,2,-17,20,True
+Dwight Buycks,1,1,24,0,Driving Layup Shot,6,63,20,True
+Dwight Buycks,4,7,16,0,Driving Layup Shot,1,-10,1,True
+Dwight Buycks,3,0,59,0,Driving Layup Shot,3,31,6,True
+Dwight Buycks,4,9,4,0,Driving Layup Shot,3,-16,26,True
+Dwight Buycks,4,9,51,0,Driving Layup Shot,2,6,29,True
+Dwight Buycks,2,0,15,0,Driving Layup Shot,2,-21,1,True
+Dwight Buycks,2,4,0,0,Driving Layup Shot,2,-27,11,True
+Dwight Buycks,4,2,11,0,Driving Layup Shot,2,-2,29,True
+Dwight Buycks,4,7,41,0,Driving Layup Shot,5,44,27,True
+Dwight Buycks,4,11,0,1,Driving Layup Shot,0,-8,1,True
+Dwight Buycks,1,0,48,0,Driving Layup Shot,4,-39,15,True
+Dwight Buycks,4,11,34,0,Driving Layup Shot,7,-64,38,True
+Dwight Buycks,2,10,35,0,Driving Reverse Layup Shot,1,-18,1,True
+Dwight Buycks,4,8,47,1,Driving Reverse Layup Shot,0,-7,4,True
+Dwight Buycks,4,7,34,0,Driving Reverse Layup Shot,3,13,30,True
+Dwight Buycks,2,8,30,1,Driving Reverse Layup Shot,0,0,8,True
+Dwight Buycks,2,11,3,0,Driving Reverse Layup Shot,2,-17,21,True
+Dwight Buycks,3,2,12,1,Fadeaway Jump Shot,4,39,25,True
+Dwight Buycks,4,10,29,1,Fadeaway Jump Shot,16,-128,109,True
+Dwight Buycks,2,7,17,0,Fadeaway Jump Shot,9,-71,57,True
+Dwight Buycks,4,9,39,1,Floating Jump shot,7,-76,-8,True
+Dwight Buycks,1,0,39,0,Jump Bank Shot,12,-111,57,True
+Dwight Buycks,2,9,41,1,Jump Shot,24,-151,197,False
+Dwight Buycks,1,0,36,0,Jump Shot,24,-128,210,False
+Dwight Buycks,3,0,49,0,Jump Shot,25,151,204,False
+Dwight Buycks,1,0,0,0,Jump Shot,50,116,488,False
+Dwight Buycks,2,5,56,1,Jump Shot,19,-48,188,True
+Dwight Buycks,1,2,57,0,Jump Shot,19,-110,155,True
+Dwight Buycks,3,0,0,0,Jump Shot,40,-112,386,False
+Dwight Buycks,3,2,16,0,Jump Shot,13,-67,114,True
+Dwight Buycks,4,3,34,0,Jump Shot,24,-215,127,False
+Dwight Buycks,2,8,30,0,Jump Shot,24,-147,201,False
+Dwight Buycks,2,11,7,0,Jump Shot,24,-162,182,False
+Dwight Buycks,3,0,29,0,Jump Shot,15,-50,144,True
+Dwight Buycks,1,1,17,0,Jump Shot,16,-162,6,True
+Dwight Buycks,3,0,44,0,Jump Shot,12,75,105,True
+Dwight Buycks,4,4,22,1,Jump Shot,23,-84,216,True
+Dwight Buycks,4,0,14,0,Jump Shot,28,-193,215,False
+Dwight Buycks,4,7,48,0,Jump Shot,25,-196,161,False
+Dwight Buycks,1,2,52,0,Jump Shot,24,-7,249,False
+Dwight Buycks,4,8,33,1,Jump Shot,25,150,210,False
+Dwight Buycks,3,0,45,0,Jump Shot,15,-95,126,True
+Dwight Buycks,2,10,34,1,Jump Shot,18,-81,165,True
+Dwight Buycks,2,9,28,0,Jump Shot,11,81,88,True
+Dwight Buycks,3,0,46,0,Jump Shot,26,14,265,False
+Dwight Buycks,4,11,4,1,Jump Shot,28,-92,268,False
+Dwight Buycks,3,1,5,0,Jump Shot,25,109,225,False
+Dwight Buycks,3,0,2,0,Jump Shot,13,112,80,True
+Dwight Buycks,4,5,8,0,Jump Shot,7,44,64,True
+Dwight Buycks,4,6,58,0,Jump Shot,23,-233,6,False
+Dwight Buycks,4,7,50,1,Jump Shot,23,234,-17,False
+Dwight Buycks,4,0,42,0,Jump Shot,13,-136,-4,True
+Dwight Buycks,2,0,0,0,Jump Shot,29,-133,263,False
+Dwight Buycks,4,1,18,0,Jump Shot,19,-100,162,True
+Dwight Buycks,1,0,16,1,Jump Shot,20,124,163,True
+Dwight Buycks,2,10,29,1,Jump Shot,21,158,146,True
+Dwight Buycks,1,0,0,0,Jump Shot,25,2,253,False
+Dwight Buycks,3,0,47,0,Jump Shot,4,24,43,True
+Dwight Buycks,4,9,22,0,Jump Shot,25,177,190,False
+Dwight Buycks,2,9,4,1,Jump Shot,21,137,162,True
+Dwight Buycks,4,1,18,1,Layup Shot,1,10,13,True
+Dwight Buycks,1,3,20,1,Layup Shot,0,2,4,True
+Dwight Buycks,4,10,22,0,Layup Shot,2,-6,29,True
+Dwight Buycks,1,1,23,1,Layup Shot,1,0,15,True
+Dwight Buycks,2,10,33,0,Layup Shot,2,5,22,True
+Dwight Buycks,3,2,12,1,Layup Shot,3,-6,34,True
+Dwight Buycks,3,3,22,0,Layup Shot,6,-69,-8,True
+Dwight Buycks,2,7,57,1,Layup Shot,0,0,6,True
+Dwight Buycks,1,1,52,1,Layup Shot,1,-1,16,True
+Dwight Buycks,1,0,47,0,Layup Shot,1,3,18,True
+Dwight Buycks,4,9,56,0,Layup Shot,2,25,16,True
+Dwight Buycks,4,2,15,0,Layup Shot,2,8,24,True
+Dwight Buycks,4,10,27,0,Pullup Jump shot,18,-67,172,True
+Dwight Buycks,2,10,51,0,Pullup Jump shot,17,33,170,True
+Dwight Buycks,3,2,7,0,Pullup Jump shot,19,140,131,True
+Dwight Buycks,4,0,43,0,Pullup Jump shot,25,88,236,False
+Dwight Buycks,4,6,54,1,Pullup Jump shot,17,95,141,True
+Dwight Buycks,4,2,6,0,Pullup Jump shot,16,-133,95,True
+Dwight Buycks,4,9,52,1,Pullup Jump shot,16,-135,92,True
+Dwight Buycks,2,9,37,1,Pullup Jump shot,16,78,143,True
+Dwight Buycks,2,9,16,0,Pullup Jump shot,23,-12,236,True
+Dwight Buycks,3,0,3,1,Pullup Jump shot,17,-89,152,True
+Dwight Buycks,4,8,0,0,Pullup Jump shot,21,90,197,True
+Dwight Buycks,3,0,35,0,Pullup Jump shot,16,109,124,True
+Dwight Buycks,2,11,0,0,Pullup Jump shot,20,107,173,True
+Dwight Buycks,2,10,50,0,Pullup Jump shot,25,-119,225,False
+Dwight Buycks,4,8,44,1,Pullup Jump shot,14,-89,109,True
+Dwight Buycks,1,2,55,0,Pullup Jump shot,19,71,180,True
+Dwight Buycks,1,0,1,1,Pullup Jump shot,25,147,205,False
+Dwight Buycks,4,0,9,0,Pullup Jump shot,25,13,257,False
+Dwight Buycks,2,8,21,0,Pullup Jump shot,26,130,232,False
+Dwight Buycks,4,9,44,1,Pullup Jump shot,20,-198,43,True
+Dwight Buycks,1,0,0,0,Pullup Jump shot,25,-176,185,False
+Dwight Buycks,4,1,38,0,Pullup Jump shot,16,32,161,True
+Dwight Buycks,3,3,43,0,Pullup Jump shot,18,-73,168,True
+Dwight Buycks,1,1,28,1,Pullup Jump shot,15,14,151,True
+Dwight Buycks,3,5,20,1,Pullup Jump shot,25,-85,243,False
+Dwight Buycks,4,7,45,0,Pullup Jump shot,10,-91,45,True
+Dwight Buycks,2,9,14,0,Reverse Layup Shot,2,19,17,True
+Dwight Buycks,2,9,36,1,Reverse Layup Shot,2,-24,7,True
+Dwight Buycks,4,7,10,1,Running Layup Shot,2,25,5,True
+Dwight Buycks,3,0,35,0,Running Layup Shot,2,21,6,True
+Dwight Buycks,3,1,25,1,Running Layup Shot,1,14,5,True
+Dwight Buycks,4,0,52,0,Running Layup Shot,0,-1,-4,True
+Dwight Buycks,1,3,38,0,Running Pull-Up Jump Shot,24,-70,235,False
+Dwight Buycks,2,10,19,1,Running Reverse Layup Shot,1,-13,8,True
+Dwight Buycks,1,0,24,0,Step Back Jump shot,23,-70,222,True
+Dwight Buycks,1,0,14,0,Step Back Jump shot,18,-185,29,True
+Dwight Buycks,4,9,10,1,Step Back Jump shot,24,-130,213,False
+Dwight Buycks,4,9,45,0,Step Back Jump shot,18,147,117,True
+Dwight Buycks,2,9,19,1,Step Back Jump shot,20,-119,168,True
+Dwight Buycks,3,0,9,0,Step Back Jump shot,20,-50,196,True
+Dwight Buycks,4,9,41,1,Step Back Jump shot,16,-107,129,True
+Dwight Buycks,1,2,35,0,Step Back Jump shot,16,84,142,True
+Dwight Buycks,4,9,15,0,Step Back Jump shot,25,174,188,False
+Dwight Buycks,2,9,45,1,Step Back Jump shot,21,-99,193,True
+Dwight Buycks,4,6,9,0,Step Back Jump shot,20,48,195,True
+Dwight Buycks,2,10,0,0,Step Back Jump shot,27,-130,238,False
+Dwight Buycks,4,2,22,1,Step Back Jump shot,24,96,225,False
+Dwight Buycks,3,3,3,1,Step Back Jump shot,20,133,153,True
+Dwight Buycks,4,9,7,1,Step Back Jump shot,25,-157,205,False
+Dwight Buycks,3,0,46,1,Turnaround Fadeaway shot,11,105,57,True

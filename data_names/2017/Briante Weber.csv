@@ -1,0 +1,39 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Briante Weber,4,3,30,1,Driving Dunk Shot,1,5,18,True
+Briante Weber,3,4,21,0,Driving Finger Roll Layup Shot,5,-39,34,True
+Briante Weber,3,7,25,1,Driving Finger Roll Layup Shot,1,14,4,True
+Briante Weber,2,9,30,0,Driving Floating Jump Shot,7,-19,68,True
+Briante Weber,1,4,59,0,Driving Floating Jump Shot,19,-126,149,True
+Briante Weber,2,4,6,1,Driving Floating Jump Shot,7,2,74,True
+Briante Weber,1,0,54,1,Driving Floating Jump Shot,7,-4,70,True
+Briante Weber,2,0,33,0,Driving Layup Shot,2,9,24,True
+Briante Weber,3,4,59,0,Driving Layup Shot,1,14,13,True
+Briante Weber,2,8,30,1,Driving Layup Shot,1,0,13,True
+Briante Weber,3,3,37,0,Driving Layup Shot,3,25,25,True
+Briante Weber,4,11,26,0,Floating Jump shot,8,7,89,True
+Briante Weber,1,2,1,1,Hook Shot,7,-39,65,True
+Briante Weber,2,9,34,0,Jump Shot,26,193,183,False
+Briante Weber,3,4,37,0,Jump Shot,2,20,1,True
+Briante Weber,3,2,18,0,Jump Shot,26,0,261,False
+Briante Weber,3,2,7,0,Jump Shot,26,-155,213,False
+Briante Weber,1,3,44,0,Jump Shot,22,228,1,False
+Briante Weber,4,3,10,0,Jump Shot,12,-31,124,True
+Briante Weber,3,0,11,1,Layup Shot,2,-20,14,True
+Briante Weber,4,11,4,0,Layup Shot,5,-3,50,True
+Briante Weber,2,11,10,0,Pullup Jump shot,24,-8,247,False
+Briante Weber,3,1,33,1,Pullup Jump shot,16,62,153,True
+Briante Weber,4,8,50,0,Pullup Jump shot,17,119,129,True
+Briante Weber,4,0,52,0,Pullup Jump shot,25,89,243,False
+Briante Weber,4,3,47,1,Pullup Jump shot,25,163,202,False
+Briante Weber,4,10,22,0,Pullup Jump shot,25,161,195,False
+Briante Weber,2,0,15,1,Pullup Jump shot,20,49,203,True
+Briante Weber,2,11,49,1,Pullup Jump shot,19,23,197,True
+Briante Weber,2,8,36,0,Pullup Jump shot,8,46,69,True
+Briante Weber,2,8,24,0,Pullup Jump shot,15,122,89,True
+Briante Weber,4,0,0,1,Pullup Jump shot,25,200,165,False
+Briante Weber,4,2,13,1,Pullup Jump shot,24,130,210,False
+Briante Weber,3,0,59,1,Putback Layup Shot,1,-16,1,True
+Briante Weber,1,4,32,1,Running Jump Shot,15,9,150,True
+Briante Weber,3,6,13,1,Running Layup Shot,1,-13,2,True
+Briante Weber,4,5,53,0,Running Layup Shot,1,6,15,True
+Briante Weber,1,3,58,1,Running Layup Shot,1,9,9,True

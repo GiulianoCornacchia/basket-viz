@@ -1,0 +1,43 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+John Holland,4,0,57,0,Driving Floating Jump Shot,11,11,117,True
+John Holland,4,2,42,0,Driving Layup Shot,1,16,11,True
+John Holland,2,11,8,1,Dunk Shot,0,-7,1,True
+John Holland,4,6,17,0,Fadeaway Jump Shot,9,-89,41,True
+John Holland,2,6,27,0,Jump Shot,13,128,46,True
+John Holland,4,6,8,0,Jump Shot,22,226,4,False
+John Holland,4,8,18,0,Jump Shot,24,-22,247,False
+John Holland,1,0,48,0,Jump Shot,22,-229,7,False
+John Holland,3,3,53,0,Jump Shot,21,133,164,True
+John Holland,4,10,20,0,Jump Shot,25,123,220,False
+John Holland,4,3,42,0,Jump Shot,24,70,234,False
+John Holland,4,0,21,0,Jump Shot,25,-209,154,False
+John Holland,4,9,54,0,Jump Shot,24,228,79,False
+John Holland,4,6,22,0,Jump Shot,24,-166,180,False
+John Holland,4,9,20,1,Jump Shot,22,-226,22,False
+John Holland,4,3,33,0,Jump Shot,23,234,14,False
+John Holland,4,10,38,0,Jump Shot,25,-174,184,False
+John Holland,4,4,17,1,Jump Shot,25,188,174,False
+John Holland,4,6,12,0,Jump Shot,25,-218,124,False
+John Holland,3,11,13,1,Jump Shot,25,-24,257,False
+John Holland,3,6,54,0,Jump Shot,25,-55,247,False
+John Holland,2,1,28,0,Jump Shot,23,230,12,False
+John Holland,3,0,56,1,Jump Shot,26,160,211,False
+John Holland,2,0,4,0,Jump Shot,24,35,244,False
+John Holland,2,8,24,1,Jump Shot,24,106,226,False
+John Holland,4,1,13,0,Jump Shot,25,-198,156,False
+John Holland,4,2,29,0,Jump Shot,18,101,151,True
+John Holland,4,0,32,0,Jump Shot,25,-133,213,False
+John Holland,4,2,44,0,Jump Shot,26,-195,176,False
+John Holland,2,10,13,0,Jump Shot,22,228,-9,False
+John Holland,4,11,27,1,Jump Shot,24,134,203,False
+John Holland,2,7,34,0,Jump Shot,25,15,259,False
+John Holland,2,10,1,0,Layup Shot,1,-5,10,True
+John Holland,2,3,24,1,Pullup Jump shot,11,-55,102,True
+John Holland,4,2,0,0,Pullup Jump shot,18,-10,188,True
+John Holland,2,4,1,1,Putback Layup Shot,1,-7,11,True
+John Holland,4,11,1,1,Running Dunk Shot,2,20,1,True
+John Holland,4,10,5,0,Running Layup Shot,2,9,19,True
+John Holland,4,0,37,1,Step Back Jump shot,26,89,245,False
+John Holland,3,7,37,0,Step Back Jump shot,21,153,158,True
+John Holland,4,0,40,1,Step Back Jump shot,25,163,193,False
+John Holland,3,0,58,0,Turnaround Fadeaway shot,15,119,98,True

@@ -1,0 +1,11 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Joakim Noah,4,2,45,1,Cutting Dunk Shot,3,11,29,True
+Joakim Noah,4,6,40,1,Driving Layup Shot,5,-41,36,True
+Joakim Noah,4,4,26,0,Driving Layup Shot,3,14,27,True
+Joakim Noah,2,2,7,0,Driving Layup Shot,1,-15,5,True
+Joakim Noah,2,1,45,0,Hook Shot,1,-19,6,True
+Joakim Noah,2,5,46,1,Hook Shot,5,45,38,True
+Joakim Noah,2,0,0,0,Tip Layup Shot,0,0,-6,True
+Joakim Noah,4,9,23,0,Tip Layup Shot,4,5,48,True
+Joakim Noah,4,9,1,1,Tip Layup Shot,0,0,-6,True
+Joakim Noah,4,7,9,1,Turnaround Hook Shot,6,8,63,True

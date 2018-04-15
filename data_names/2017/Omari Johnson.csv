@@ -1,0 +1,22 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Omari Johnson,2,3,45,1,Driving Layup Shot,2,2,25,True
+Omari Johnson,1,2,12,1,Fadeaway Jump Shot,8,-85,8,True
+Omari Johnson,2,5,51,1,Jump Shot,25,135,212,False
+Omari Johnson,3,6,54,1,Jump Shot,26,84,250,False
+Omari Johnson,3,2,49,1,Jump Shot,25,187,168,False
+Omari Johnson,4,9,40,0,Jump Shot,24,-63,241,False
+Omari Johnson,2,4,8,0,Jump Shot,26,-44,263,False
+Omari Johnson,1,5,54,0,Jump Shot,24,215,113,False
+Omari Johnson,2,11,48,0,Jump Shot,19,-193,12,True
+Omari Johnson,2,10,1,1,Jump Shot,23,-233,-12,False
+Omari Johnson,4,10,18,0,Jump Shot,23,234,-13,False
+Omari Johnson,3,0,3,0,Jump Shot,25,-172,183,False
+Omari Johnson,3,8,14,0,Jump Shot,23,226,79,False
+Omari Johnson,2,10,33,0,Jump Shot,26,136,231,False
+Omari Johnson,3,1,48,0,Jump Shot,25,232,107,False
+Omari Johnson,1,1,50,1,Layup Shot,0,2,7,True
+Omari Johnson,2,4,52,0,Putback Layup Shot,0,1,-2,True
+Omari Johnson,1,5,28,1,Putback Layup Shot,0,-2,7,True
+Omari Johnson,3,1,26,0,Step Back Jump shot,23,-104,206,True
+Omari Johnson,3,0,14,1,Tip Layup Shot,0,0,-6,True
+Omari Johnson,2,11,4,0,Turnaround Jump Shot,9,91,13,True

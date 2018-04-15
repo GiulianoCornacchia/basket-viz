@@ -1,0 +1,167 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Kevon Looney,1,7,23,1,Alley Oop Layup shot,2,-5,23,True
+Kevon Looney,2,4,13,1,Cutting Dunk Shot,1,3,18,True
+Kevon Looney,4,10,34,1,Cutting Dunk Shot,0,2,7,True
+Kevon Looney,1,2,13,1,Cutting Dunk Shot,2,2,21,True
+Kevon Looney,1,2,14,1,Cutting Dunk Shot,0,8,-4,True
+Kevon Looney,1,5,31,1,Cutting Dunk Shot,0,3,6,True
+Kevon Looney,1,5,44,1,Cutting Dunk Shot,0,3,-4,True
+Kevon Looney,3,7,43,1,Cutting Dunk Shot,1,0,16,True
+Kevon Looney,2,5,17,1,Cutting Dunk Shot,1,-2,13,True
+Kevon Looney,4,4,21,1,Cutting Dunk Shot,1,6,17,True
+Kevon Looney,4,2,6,1,Cutting Dunk Shot,1,-6,11,True
+Kevon Looney,3,0,31,1,Cutting Dunk Shot,0,-2,5,True
+Kevon Looney,2,11,41,1,Cutting Dunk Shot,1,4,10,True
+Kevon Looney,3,1,0,1,Cutting Dunk Shot,2,-1,21,True
+Kevon Looney,3,7,1,1,Cutting Dunk Shot,0,3,4,True
+Kevon Looney,1,5,53,1,Cutting Dunk Shot,0,-7,7,True
+Kevon Looney,4,1,40,1,Cutting Dunk Shot,0,-3,1,True
+Kevon Looney,2,5,55,1,Cutting Dunk Shot,2,-7,20,True
+Kevon Looney,3,3,43,1,Cutting Dunk Shot,1,-2,17,True
+Kevon Looney,2,0,4,1,Cutting Dunk Shot,1,-7,13,True
+Kevon Looney,3,1,49,1,Cutting Dunk Shot,1,-3,10,True
+Kevon Looney,2,4,51,0,Cutting Layup Shot,3,-18,24,True
+Kevon Looney,1,4,54,1,Cutting Layup Shot,1,-11,4,True
+Kevon Looney,3,0,17,0,Cutting Layup Shot,5,-36,36,True
+Kevon Looney,3,6,37,1,Cutting Layup Shot,2,10,18,True
+Kevon Looney,2,10,58,0,Cutting Layup Shot,2,11,27,True
+Kevon Looney,1,0,45,1,Cutting Layup Shot,1,2,17,True
+Kevon Looney,3,3,21,1,Cutting Layup Shot,1,-7,16,True
+Kevon Looney,1,4,54,0,Cutting Layup Shot,2,21,8,True
+Kevon Looney,2,1,56,0,Cutting Layup Shot,0,-7,7,True
+Kevon Looney,2,1,29,1,Cutting Layup Shot,1,16,10,True
+Kevon Looney,4,2,56,1,Cutting Layup Shot,1,3,17,True
+Kevon Looney,2,3,59,1,Cutting Layup Shot,2,23,10,True
+Kevon Looney,4,6,39,1,Cutting Layup Shot,0,-4,4,True
+Kevon Looney,2,1,27,0,Cutting Layup Shot,1,16,10,True
+Kevon Looney,4,3,13,1,Driving Dunk Shot,1,11,3,True
+Kevon Looney,3,10,0,0,Driving Finger Roll Layup Shot,1,8,13,True
+Kevon Looney,1,3,31,1,Driving Finger Roll Layup Shot,1,-10,17,True
+Kevon Looney,3,7,42,0,Driving Finger Roll Layup Shot,1,-11,5,True
+Kevon Looney,4,9,53,1,Driving Floating Bank Jump Shot,7,60,38,True
+Kevon Looney,4,6,18,1,Driving Floating Bank Jump Shot,4,17,44,True
+Kevon Looney,4,2,59,0,Driving Floating Jump Shot,10,8,109,True
+Kevon Looney,4,0,50,1,Driving Floating Jump Shot,6,-67,10,True
+Kevon Looney,4,0,37,1,Driving Layup Shot,1,16,6,True
+Kevon Looney,4,0,37,1,Driving Layup Shot,1,-13,6,True
+Kevon Looney,1,4,44,1,Driving Layup Shot,1,9,7,True
+Kevon Looney,1,4,17,0,Driving Layup Shot,2,8,26,True
+Kevon Looney,2,6,57,1,Driving Layup Shot,1,13,11,True
+Kevon Looney,1,0,27,0,Driving Layup Shot,1,7,15,True
+Kevon Looney,1,4,48,1,Driving Layup Shot,1,5,11,True
+Kevon Looney,1,5,8,1,Driving Layup Shot,2,3,23,True
+Kevon Looney,4,11,43,1,Driving Reverse Layup Shot,2,6,26,True
+Kevon Looney,2,2,8,1,Driving Reverse Layup Shot,1,-8,16,True
+Kevon Looney,3,0,45,1,Dunk Shot,1,-13,15,True
+Kevon Looney,1,5,6,1,Dunk Shot,1,14,11,True
+Kevon Looney,3,2,45,1,Dunk Shot,1,9,11,True
+Kevon Looney,2,1,52,1,Dunk Shot,1,-4,15,True
+Kevon Looney,2,0,16,1,Dunk Shot,1,2,10,True
+Kevon Looney,4,8,35,0,Dunk Shot,2,14,15,True
+Kevon Looney,4,2,40,1,Dunk Shot,1,-5,13,True
+Kevon Looney,1,1,16,1,Dunk Shot,0,-8,5,True
+Kevon Looney,3,0,55,1,Dunk Shot,1,0,15,True
+Kevon Looney,4,3,22,0,Dunk Shot,0,-8,3,True
+Kevon Looney,3,1,27,1,Dunk Shot,1,-3,10,True
+Kevon Looney,4,4,53,1,Dunk Shot,0,1,9,True
+Kevon Looney,2,3,24,1,Fadeaway Jump Shot,6,59,33,True
+Kevon Looney,4,1,7,1,Fadeaway Jump Shot,15,153,21,True
+Kevon Looney,3,5,25,1,Finger Roll Layup Shot,2,7,22,True
+Kevon Looney,4,7,41,0,Floating Jump shot,8,0,83,True
+Kevon Looney,2,11,11,0,Floating Jump shot,7,56,50,True
+Kevon Looney,1,2,17,1,Hook Bank Shot,4,35,20,True
+Kevon Looney,1,3,45,0,Hook Shot,3,-18,25,True
+Kevon Looney,4,1,24,0,Hook Shot,7,-53,57,True
+Kevon Looney,3,6,11,0,Hook Shot,2,13,22,True
+Kevon Looney,1,4,59,0,Hook Shot,2,-20,16,True
+Kevon Looney,2,4,23,0,Hook Shot,6,-8,60,True
+Kevon Looney,4,1,58,0,Hook Shot,10,23,106,True
+Kevon Looney,4,11,42,0,Hook Shot,9,70,69,True
+Kevon Looney,4,0,19,0,Hook Shot,8,5,89,True
+Kevon Looney,1,3,49,0,Jump Bank Shot,6,-39,47,True
+Kevon Looney,1,1,51,1,Jump Shot,20,128,158,True
+Kevon Looney,2,11,41,1,Jump Shot,2,0,22,True
+Kevon Looney,4,9,13,1,Jump Shot,19,-90,173,True
+Kevon Looney,4,1,20,0,Jump Shot,20,-90,184,True
+Kevon Looney,4,3,56,0,Jump Shot,27,-206,186,False
+Kevon Looney,4,6,57,0,Jump Shot,4,21,38,True
+Kevon Looney,1,6,40,0,Jump Shot,16,11,164,True
+Kevon Looney,2,5,54,0,Jump Shot,19,-176,94,True
+Kevon Looney,3,0,49,0,Jump Shot,24,-154,193,False
+Kevon Looney,4,3,25,1,Jump Shot,24,126,211,False
+Kevon Looney,1,4,16,0,Jump Shot,15,112,108,True
+Kevon Looney,2,5,48,0,Jump Shot,16,-112,122,True
+Kevon Looney,3,0,2,1,Jump Shot,16,131,101,True
+Kevon Looney,3,1,1,1,Jump Shot,15,36,153,True
+Kevon Looney,1,3,9,0,Jump Shot,22,179,135,True
+Kevon Looney,3,0,1,0,Jump Shot,68,-3,687,False
+Kevon Looney,4,7,45,0,Jump Shot,17,-25,170,True
+Kevon Looney,1,0,0,0,Jump Shot,47,-135,451,False
+Kevon Looney,4,1,59,0,Jump Shot,7,-70,21,True
+Kevon Looney,3,1,46,0,Jump Shot,19,119,149,True
+Kevon Looney,3,10,45,0,Jump Shot,3,36,17,True
+Kevon Looney,4,1,15,1,Jump Shot,14,-144,37,True
+Kevon Looney,3,1,20,0,Jump Shot,13,95,100,True
+Kevon Looney,4,0,38,0,Jump Shot,16,163,30,True
+Kevon Looney,3,2,13,0,Jump Shot,9,94,24,True
+Kevon Looney,3,2,18,0,Jump Shot,5,-33,41,True
+Kevon Looney,4,1,46,0,Jump Shot,20,120,163,True
+Kevon Looney,4,3,8,0,Layup Shot,3,26,27,True
+Kevon Looney,4,9,16,1,Layup Shot,2,20,17,True
+Kevon Looney,4,1,52,1,Layup Shot,2,0,26,True
+Kevon Looney,2,11,28,0,Layup Shot,3,25,19,True
+Kevon Looney,2,3,12,0,Layup Shot,2,-5,26,True
+Kevon Looney,1,0,48,0,Layup Shot,3,9,31,True
+Kevon Looney,3,0,21,0,Layup Shot,2,-14,16,True
+Kevon Looney,2,6,50,1,Layup Shot,2,25,1,True
+Kevon Looney,4,1,52,1,Layup Shot,1,5,10,True
+Kevon Looney,4,5,51,0,Layup Shot,4,32,24,True
+Kevon Looney,2,5,18,0,Layup Shot,1,0,16,True
+Kevon Looney,4,6,56,0,Layup Shot,1,-14,0,True
+Kevon Looney,2,1,47,1,Layup Shot,1,1,11,True
+Kevon Looney,1,9,4,0,Layup Shot,7,-9,74,True
+Kevon Looney,2,3,3,1,Layup Shot,0,-4,3,True
+Kevon Looney,3,2,20,0,Layup Shot,4,-4,43,True
+Kevon Looney,2,4,49,0,Layup Shot,3,-32,8,True
+Kevon Looney,3,6,29,0,Layup Shot,3,15,28,True
+Kevon Looney,2,8,9,1,Layup Shot,2,-18,10,True
+Kevon Looney,4,5,19,1,Layup Shot,0,6,4,True
+Kevon Looney,4,1,14,0,Layup Shot,1,0,16,True
+Kevon Looney,2,3,38,0,Layup Shot,0,2,-2,True
+Kevon Looney,2,5,17,1,Layup Shot,0,-2,8,True
+Kevon Looney,3,5,53,0,Layup Shot,3,3,37,True
+Kevon Looney,4,10,21,1,Layup Shot,3,-25,17,True
+Kevon Looney,1,4,31,1,Layup Shot,1,-8,18,True
+Kevon Looney,3,0,47,1,Layup Shot,1,6,11,True
+Kevon Looney,3,2,49,0,Layup Shot,2,-14,21,True
+Kevon Looney,4,2,20,1,Pullup Jump shot,12,31,117,True
+Kevon Looney,2,3,52,1,Pullup Jump shot,14,51,131,True
+Kevon Looney,3,4,8,1,Pullup Jump shot,15,152,29,True
+Kevon Looney,2,3,31,1,Putback Dunk Shot,0,0,-6,True
+Kevon Looney,4,0,24,1,Putback Dunk Shot,1,-5,13,True
+Kevon Looney,3,1,18,1,Putback Layup Shot,3,20,29,True
+Kevon Looney,4,3,41,1,Reverse Dunk Shot,1,7,11,True
+Kevon Looney,4,5,36,0,Reverse Layup Shot,2,-13,26,True
+Kevon Looney,2,4,54,1,Running Dunk Shot,1,-2,10,True
+Kevon Looney,2,5,42,0,Running Layup Shot,1,-18,4,True
+Kevon Looney,2,4,44,1,Tip Layup Shot,0,0,-6,True
+Kevon Looney,3,0,16,0,Tip Layup Shot,3,-22,21,True
+Kevon Looney,4,1,59,0,Tip Layup Shot,0,0,-6,True
+Kevon Looney,3,2,28,1,Tip Layup Shot,2,-24,16,True
+Kevon Looney,1,1,40,1,Tip Layup Shot,0,0,-6,True
+Kevon Looney,1,0,52,1,Tip Layup Shot,0,0,-6,True
+Kevon Looney,3,2,14,0,Tip Layup Shot,0,0,-6,True
+Kevon Looney,3,0,58,1,Tip Layup Shot,0,0,-6,True
+Kevon Looney,4,3,48,1,Tip Layup Shot,0,0,-6,True
+Kevon Looney,4,7,48,0,Tip Layup Shot,3,-1,34,True
+Kevon Looney,3,0,46,1,Tip Layup Shot,0,0,-6,True
+Kevon Looney,4,7,45,0,Tip Layup Shot,0,0,-6,True
+Kevon Looney,4,5,6,1,Tip Layup Shot,0,0,-6,True
+Kevon Looney,2,7,4,1,Tip Layup Shot,0,0,-6,True
+Kevon Looney,2,4,41,0,Tip Layup Shot,0,0,-6,True
+Kevon Looney,1,0,58,1,Tip Layup Shot,1,6,11,True
+Kevon Looney,2,5,22,1,Turnaround Fadeaway Bank Jump Shot,2,-15,15,True
+Kevon Looney,3,2,16,0,Turnaround Fadeaway Bank Jump Shot,4,-25,42,True
+Kevon Looney,1,2,53,0,Turnaround Hook Shot,4,-32,34,True
+Kevon Looney,3,1,35,1,Turnaround Jump Shot,20,-175,109,True
+Kevon Looney,1,1,56,1,Turnaround Jump Shot,10,-9,107,True

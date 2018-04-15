@@ -1,0 +1,697 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Bobby Portis,2,1,23,1,Alley Oop Dunk Shot,2,0,21,True
+Bobby Portis,1,0,55,0,Alley Oop Layup shot,2,23,1,True
+Bobby Portis,4,7,11,1,Cutting Dunk Shot,2,13,25,True
+Bobby Portis,3,0,58,1,Cutting Dunk Shot,1,-6,12,True
+Bobby Portis,2,11,37,1,Cutting Dunk Shot,2,17,11,True
+Bobby Portis,2,10,26,1,Cutting Dunk Shot,1,11,4,True
+Bobby Portis,4,4,8,1,Cutting Dunk Shot,0,-2,8,True
+Bobby Portis,3,1,12,1,Cutting Dunk Shot,0,2,1,True
+Bobby Portis,4,8,57,1,Cutting Layup Shot,4,34,22,True
+Bobby Portis,2,5,1,0,Cutting Layup Shot,0,-8,4,True
+Bobby Portis,2,11,28,0,Cutting Layup Shot,1,9,6,True
+Bobby Portis,4,1,22,0,Cutting Layup Shot,2,20,10,True
+Bobby Portis,3,1,8,0,Cutting Layup Shot,4,19,37,True
+Bobby Portis,4,0,4,1,Cutting Layup Shot,0,4,7,True
+Bobby Portis,1,3,9,1,Cutting Layup Shot,2,24,5,True
+Bobby Portis,4,10,4,1,Cutting Layup Shot,1,11,8,True
+Bobby Portis,2,4,3,1,Cutting Layup Shot,1,-5,15,True
+Bobby Portis,2,10,7,1,Cutting Layup Shot,1,8,11,True
+Bobby Portis,2,6,11,1,Cutting Layup Shot,3,-11,34,True
+Bobby Portis,3,1,17,1,Cutting Layup Shot,1,15,8,True
+Bobby Portis,1,1,32,1,Driving Dunk Shot,0,-4,8,True
+Bobby Portis,2,2,22,0,Driving Dunk Shot,0,-7,4,True
+Bobby Portis,4,7,27,1,Driving Floating Bank Jump Shot,11,95,68,True
+Bobby Portis,3,7,55,1,Driving Floating Bank Jump Shot,7,68,17,True
+Bobby Portis,4,8,4,1,Driving Floating Bank Jump Shot,4,46,15,True
+Bobby Portis,3,2,41,1,Driving Floating Bank Jump Shot,9,88,43,True
+Bobby Portis,4,4,9,1,Driving Floating Bank Jump Shot,0,-7,6,True
+Bobby Portis,3,0,38,1,Driving Floating Bank Jump Shot,9,84,49,True
+Bobby Portis,1,4,30,1,Driving Floating Bank Jump Shot,3,31,10,True
+Bobby Portis,2,9,32,1,Driving Floating Bank Jump Shot,10,39,101,True
+Bobby Portis,4,10,15,1,Driving Floating Bank Jump Shot,8,67,57,True
+Bobby Portis,2,11,47,1,Driving Floating Bank Jump Shot,8,85,15,True
+Bobby Portis,3,3,13,1,Driving Floating Jump Shot,4,42,11,True
+Bobby Portis,2,6,53,0,Driving Floating Jump Shot,7,44,55,True
+Bobby Portis,1,4,25,1,Driving Floating Jump Shot,11,115,-16,True
+Bobby Portis,2,1,39,0,Driving Floating Jump Shot,12,-2,125,True
+Bobby Portis,3,0,30,0,Driving Floating Jump Shot,4,21,43,True
+Bobby Portis,3,4,42,0,Driving Floating Jump Shot,13,20,132,True
+Bobby Portis,4,2,56,1,Driving Floating Jump Shot,6,20,62,True
+Bobby Portis,1,8,24,1,Driving Floating Jump Shot,10,-9,104,True
+Bobby Portis,1,1,38,1,Driving Floating Jump Shot,5,34,42,True
+Bobby Portis,1,1,34,1,Driving Floating Jump Shot,13,43,131,True
+Bobby Portis,4,6,35,1,Driving Floating Jump Shot,13,116,69,True
+Bobby Portis,3,4,31,0,Driving Floating Jump Shot,8,-18,85,True
+Bobby Portis,2,1,27,1,Driving Floating Jump Shot,14,32,138,True
+Bobby Portis,3,8,50,0,Driving Hook Shot,7,61,38,True
+Bobby Portis,2,11,27,1,Driving Hook Shot,4,32,30,True
+Bobby Portis,3,3,11,1,Driving Hook Shot,7,41,64,True
+Bobby Portis,1,2,53,0,Driving Hook Shot,7,-2,75,True
+Bobby Portis,4,8,9,0,Driving Hook Shot,5,-16,57,True
+Bobby Portis,4,5,35,0,Driving Layup Shot,3,26,20,True
+Bobby Portis,1,1,58,0,Driving Layup Shot,2,20,13,True
+Bobby Portis,2,4,9,1,Driving Layup Shot,0,-5,8,True
+Bobby Portis,3,1,46,0,Driving Layup Shot,1,-16,6,True
+Bobby Portis,2,8,41,0,Driving Layup Shot,3,18,27,True
+Bobby Portis,3,1,13,1,Driving Layup Shot,1,3,10,True
+Bobby Portis,1,0,40,0,Driving Layup Shot,1,-9,16,True
+Bobby Portis,4,9,53,1,Driving Layup Shot,1,-10,9,True
+Bobby Portis,2,10,16,0,Driving Layup Shot,4,29,34,True
+Bobby Portis,1,3,16,1,Driving Layup Shot,1,12,6,True
+Bobby Portis,2,7,9,1,Driving Layup Shot,1,7,14,True
+Bobby Portis,1,1,14,1,Driving Layup Shot,2,18,16,True
+Bobby Portis,1,0,53,0,Driving Layup Shot,3,18,30,True
+Bobby Portis,3,4,1,1,Driving Layup Shot,3,-7,31,True
+Bobby Portis,2,9,40,0,Driving Layup Shot,3,22,26,True
+Bobby Portis,2,6,58,1,Driving Layup Shot,1,19,-2,True
+Bobby Portis,3,0,47,0,Driving Layup Shot,2,18,18,True
+Bobby Portis,1,9,15,1,Driving Layup Shot,1,2,16,True
+Bobby Portis,1,2,4,0,Driving Layup Shot,2,-20,15,True
+Bobby Portis,2,9,56,1,Driving Layup Shot,2,20,-5,True
+Bobby Portis,3,7,43,0,Driving Layup Shot,2,17,22,True
+Bobby Portis,4,8,58,1,Driving Layup Shot,1,-14,13,True
+Bobby Portis,4,11,48,0,Driving Layup Shot,2,14,26,True
+Bobby Portis,4,5,59,1,Driving Layup Shot,0,4,-3,True
+Bobby Portis,3,2,7,1,Driving Layup Shot,2,-8,19,True
+Bobby Portis,2,10,20,0,Driving Layup Shot,3,32,5,True
+Bobby Portis,2,10,16,1,Driving Layup Shot,1,-11,11,True
+Bobby Portis,4,7,12,1,Driving Layup Shot,2,22,6,True
+Bobby Portis,2,11,8,1,Driving Layup Shot,1,5,13,True
+Bobby Portis,2,10,46,0,Driving Layup Shot,6,60,13,True
+Bobby Portis,2,7,21,1,Driving Layup Shot,1,-13,9,True
+Bobby Portis,2,10,13,1,Driving Layup Shot,1,2,12,True
+Bobby Portis,2,6,40,0,Driving Layup Shot,2,18,20,True
+Bobby Portis,2,8,40,0,Driving Layup Shot,3,-10,30,True
+Bobby Portis,1,5,56,1,Driving Layup Shot,0,8,4,True
+Bobby Portis,4,7,21,1,Driving Layup Shot,1,2,10,True
+Bobby Portis,4,3,11,1,Driving Layup Shot,1,10,1,True
+Bobby Portis,1,1,49,0,Driving Layup Shot,3,-35,16,True
+Bobby Portis,4,11,47,1,Driving Layup Shot,2,17,13,True
+Bobby Portis,4,10,14,0,Driving Layup Shot,2,24,16,True
+Bobby Portis,2,4,20,0,Driving Layup Shot,1,11,1,True
+Bobby Portis,1,2,55,1,Driving Layup Shot,0,6,5,True
+Bobby Portis,4,9,14,0,Driving Layup Shot,3,27,23,True
+Bobby Portis,2,7,24,0,Driving Reverse Layup Shot,1,-8,8,True
+Bobby Portis,2,10,34,1,Dunk Shot,1,-11,11,True
+Bobby Portis,4,10,39,1,Dunk Shot,0,-1,6,True
+Bobby Portis,2,6,7,1,Dunk Shot,1,-1,10,True
+Bobby Portis,2,7,44,1,Dunk Shot,0,7,1,True
+Bobby Portis,2,1,24,1,Dunk Shot,0,6,4,True
+Bobby Portis,1,3,55,0,Dunk Shot,0,3,7,True
+Bobby Portis,4,11,5,1,Dunk Shot,0,0,8,True
+Bobby Portis,4,1,24,0,Dunk Shot,2,-24,17,True
+Bobby Portis,1,1,58,1,Fadeaway Jump Shot,17,179,-6,True
+Bobby Portis,4,7,20,1,Finger Roll Layup Shot,1,-6,11,True
+Bobby Portis,1,0,25,1,Floating Jump shot,7,4,73,True
+Bobby Portis,2,9,42,1,Floating Jump shot,12,24,127,True
+Bobby Portis,2,11,37,1,Floating Jump shot,7,34,67,True
+Bobby Portis,4,9,21,1,Floating Jump shot,8,3,85,True
+Bobby Portis,1,1,48,1,Floating Jump shot,11,81,79,True
+Bobby Portis,3,1,34,1,Floating Jump shot,10,-12,105,True
+Bobby Portis,4,10,40,1,Floating Jump shot,11,7,119,True
+Bobby Portis,2,9,21,0,Floating Jump shot,14,29,137,True
+Bobby Portis,2,6,59,1,Floating Jump shot,10,98,43,True
+Bobby Portis,2,8,50,1,Floating Jump shot,15,-36,150,True
+Bobby Portis,4,8,21,0,Floating Jump shot,9,2,91,True
+Bobby Portis,4,3,25,1,Floating Jump shot,15,158,0,True
+Bobby Portis,1,2,15,1,Floating Jump shot,7,71,-4,True
+Bobby Portis,2,7,24,0,Floating Jump shot,11,53,100,True
+Bobby Portis,4,8,37,0,Hook Bank Shot,10,98,41,True
+Bobby Portis,4,10,13,1,Hook Shot,11,-5,117,True
+Bobby Portis,2,8,9,0,Hook Shot,7,3,72,True
+Bobby Portis,2,7,34,1,Hook Shot,3,8,37,True
+Bobby Portis,2,8,35,1,Hook Shot,6,64,12,True
+Bobby Portis,2,7,51,1,Hook Shot,4,3,43,True
+Bobby Portis,1,2,57,0,Hook Shot,4,-35,32,True
+Bobby Portis,2,5,38,1,Hook Shot,4,1,48,True
+Bobby Portis,2,6,54,0,Hook Shot,5,28,45,True
+Bobby Portis,3,3,46,1,Hook Shot,1,-13,13,True
+Bobby Portis,1,0,45,0,Hook Shot,11,114,8,True
+Bobby Portis,2,10,28,1,Hook Shot,5,8,55,True
+Bobby Portis,2,6,3,1,Hook Shot,2,-22,19,True
+Bobby Portis,3,1,48,1,Hook Shot,7,-63,49,True
+Bobby Portis,4,6,41,0,Hook Shot,13,132,15,True
+Bobby Portis,1,4,31,1,Hook Shot,7,-18,73,True
+Bobby Portis,4,3,44,0,Hook Shot,5,-41,40,True
+Bobby Portis,3,0,58,1,Hook Shot,11,-93,64,True
+Bobby Portis,3,2,52,0,Hook Shot,6,2,69,True
+Bobby Portis,4,10,19,0,Hook Shot,2,3,26,True
+Bobby Portis,3,10,19,1,Hook Shot,12,24,127,True
+Bobby Portis,4,9,4,0,Hook Shot,1,-1,16,True
+Bobby Portis,4,8,32,1,Hook Shot,3,4,33,True
+Bobby Portis,3,2,7,0,Hook Shot,3,14,35,True
+Bobby Portis,4,3,37,0,Hook Shot,12,-8,127,True
+Bobby Portis,1,3,33,0,Hook Shot,5,-20,52,True
+Bobby Portis,4,10,49,0,Hook Shot,7,51,53,True
+Bobby Portis,1,3,30,0,Hook Shot,3,-20,34,True
+Bobby Portis,2,10,57,1,Jump Bank Shot,1,-6,14,True
+Bobby Portis,3,3,10,0,Jump Bank Shot,6,45,41,True
+Bobby Portis,2,3,0,1,Jump Bank Shot,5,7,52,True
+Bobby Portis,3,1,59,1,Jump Bank Shot,10,100,20,True
+Bobby Portis,3,9,40,0,Jump Bank Shot,3,25,19,True
+Bobby Portis,2,0,52,1,Jump Bank Shot,5,47,34,True
+Bobby Portis,4,7,16,1,Jump Bank Shot,3,-29,19,True
+Bobby Portis,4,7,43,1,Jump Shot,25,63,251,False
+Bobby Portis,4,4,19,0,Jump Shot,12,35,120,True
+Bobby Portis,1,2,28,0,Jump Shot,18,180,59,True
+Bobby Portis,4,5,50,1,Jump Shot,23,-239,-13,False
+Bobby Portis,1,3,43,0,Jump Shot,25,232,117,False
+Bobby Portis,4,11,3,0,Jump Shot,26,97,243,False
+Bobby Portis,4,10,19,1,Jump Shot,3,27,15,True
+Bobby Portis,3,5,2,0,Jump Shot,8,79,42,True
+Bobby Portis,1,1,50,0,Jump Shot,28,100,263,False
+Bobby Portis,3,4,9,0,Jump Shot,22,-228,8,False
+Bobby Portis,2,11,34,1,Jump Shot,6,58,19,True
+Bobby Portis,2,9,2,1,Jump Shot,19,196,20,True
+Bobby Portis,3,4,38,0,Jump Shot,19,160,111,True
+Bobby Portis,1,1,7,0,Jump Shot,11,-88,70,True
+Bobby Portis,1,7,50,0,Jump Shot,26,-76,254,False
+Bobby Portis,4,7,18,0,Jump Shot,24,-38,246,False
+Bobby Portis,1,7,2,0,Jump Shot,6,-3,65,True
+Bobby Portis,4,7,49,1,Jump Shot,25,79,243,False
+Bobby Portis,1,2,25,1,Jump Shot,4,8,42,True
+Bobby Portis,1,1,59,1,Jump Shot,17,-112,134,True
+Bobby Portis,3,1,42,1,Jump Shot,25,-88,237,False
+Bobby Portis,3,8,29,0,Jump Shot,22,-43,218,True
+Bobby Portis,1,1,54,0,Jump Shot,25,-189,173,False
+Bobby Portis,2,0,1,1,Jump Shot,25,-63,246,False
+Bobby Portis,2,8,24,1,Jump Shot,14,-8,142,True
+Bobby Portis,3,5,30,0,Jump Shot,25,-72,244,False
+Bobby Portis,2,11,29,1,Jump Shot,5,7,58,True
+Bobby Portis,1,0,17,0,Jump Shot,1,7,11,True
+Bobby Portis,1,0,44,1,Jump Shot,24,90,226,False
+Bobby Portis,1,1,39,1,Jump Shot,24,-86,229,False
+Bobby Portis,4,11,43,0,Jump Shot,24,-147,200,False
+Bobby Portis,4,9,53,1,Jump Shot,25,102,230,False
+Bobby Portis,1,2,8,1,Jump Shot,25,90,236,False
+Bobby Portis,3,2,5,1,Jump Shot,13,-32,127,True
+Bobby Portis,4,10,25,0,Jump Shot,16,169,2,True
+Bobby Portis,3,3,6,0,Jump Shot,25,62,252,False
+Bobby Portis,2,8,11,1,Jump Shot,25,-152,210,False
+Bobby Portis,1,2,26,0,Jump Shot,26,-41,259,False
+Bobby Portis,2,4,57,0,Jump Shot,24,140,206,False
+Bobby Portis,4,8,13,0,Jump Shot,24,-145,198,False
+Bobby Portis,4,1,27,1,Jump Shot,18,142,126,True
+Bobby Portis,1,3,25,1,Jump Shot,3,3,32,True
+Bobby Portis,3,0,28,0,Jump Shot,25,148,204,False
+Bobby Portis,2,8,10,0,Jump Shot,12,118,-25,True
+Bobby Portis,3,0,50,1,Jump Shot,25,-93,241,False
+Bobby Portis,1,2,26,1,Jump Shot,18,128,132,True
+Bobby Portis,3,0,51,1,Jump Shot,17,-119,124,True
+Bobby Portis,3,3,17,0,Jump Shot,14,17,145,True
+Bobby Portis,4,5,23,0,Jump Shot,27,136,240,False
+Bobby Portis,2,10,23,0,Jump Shot,22,-195,104,True
+Bobby Portis,2,1,40,0,Jump Shot,28,-175,223,False
+Bobby Portis,4,8,1,1,Jump Shot,22,-229,-20,False
+Bobby Portis,1,4,11,1,Jump Shot,26,148,225,False
+Bobby Portis,4,8,38,0,Jump Shot,25,16,257,False
+Bobby Portis,3,4,58,0,Jump Shot,20,-172,120,True
+Bobby Portis,3,1,12,1,Jump Shot,25,59,243,False
+Bobby Portis,2,8,19,0,Jump Shot,13,-131,-15,True
+Bobby Portis,1,3,50,1,Jump Shot,24,-22,248,False
+Bobby Portis,1,0,46,1,Jump Shot,15,-22,157,True
+Bobby Portis,3,3,23,0,Jump Shot,25,-95,242,False
+Bobby Portis,2,0,30,0,Jump Shot,22,-227,25,False
+Bobby Portis,1,1,55,0,Jump Shot,25,7,252,False
+Bobby Portis,2,11,46,1,Jump Shot,10,-101,21,True
+Bobby Portis,1,2,57,1,Jump Shot,12,111,49,True
+Bobby Portis,2,5,1,1,Jump Shot,26,-117,237,False
+Bobby Portis,2,11,46,1,Jump Shot,13,108,84,True
+Bobby Portis,1,2,1,0,Jump Shot,25,-87,239,False
+Bobby Portis,3,3,42,1,Jump Shot,23,232,28,False
+Bobby Portis,4,9,3,0,Jump Shot,25,-134,215,False
+Bobby Portis,2,2,18,1,Jump Shot,4,-3,43,True
+Bobby Portis,2,8,2,0,Jump Shot,18,71,175,True
+Bobby Portis,1,11,1,0,Jump Shot,23,234,-10,False
+Bobby Portis,2,0,0,0,Jump Shot,26,-67,258,False
+Bobby Portis,3,9,51,1,Jump Shot,21,29,216,True
+Bobby Portis,3,6,30,0,Jump Shot,24,122,210,False
+Bobby Portis,4,10,14,0,Jump Shot,25,49,246,False
+Bobby Portis,4,3,43,1,Jump Shot,6,-17,58,True
+Bobby Portis,2,8,13,0,Jump Shot,17,-102,136,True
+Bobby Portis,3,4,38,1,Jump Shot,26,-92,244,False
+Bobby Portis,1,3,41,0,Jump Shot,16,164,32,True
+Bobby Portis,3,1,32,0,Jump Shot,26,-144,223,False
+Bobby Portis,3,4,58,1,Jump Shot,18,143,116,True
+Bobby Portis,2,11,15,0,Jump Shot,25,5,255,False
+Bobby Portis,2,0,50,0,Jump Shot,3,33,19,True
+Bobby Portis,1,2,28,1,Jump Shot,25,89,240,False
+Bobby Portis,2,8,17,0,Jump Shot,7,70,30,True
+Bobby Portis,3,2,10,1,Jump Shot,21,162,146,True
+Bobby Portis,4,9,39,0,Jump Shot,22,226,32,False
+Bobby Portis,3,0,44,1,Jump Shot,26,-60,263,False
+Bobby Portis,2,9,15,0,Jump Shot,20,14,203,True
+Bobby Portis,2,11,0,1,Jump Shot,25,-46,252,False
+Bobby Portis,4,10,55,0,Jump Shot,26,-148,222,False
+Bobby Portis,4,8,30,0,Jump Shot,15,152,4,True
+Bobby Portis,3,0,57,0,Jump Shot,26,15,262,False
+Bobby Portis,4,9,44,0,Jump Shot,23,-230,8,False
+Bobby Portis,1,1,46,0,Jump Shot,21,6,210,True
+Bobby Portis,4,8,39,0,Jump Shot,20,90,185,True
+Bobby Portis,2,8,48,0,Jump Shot,25,0,258,False
+Bobby Portis,2,0,58,1,Jump Shot,25,-66,246,False
+Bobby Portis,3,0,39,1,Jump Shot,18,-31,185,True
+Bobby Portis,3,4,33,0,Jump Shot,17,168,64,True
+Bobby Portis,3,1,7,0,Jump Shot,18,35,184,True
+Bobby Portis,4,6,14,1,Jump Shot,18,-3,184,True
+Bobby Portis,2,1,37,0,Jump Shot,26,148,214,False
+Bobby Portis,2,9,31,1,Jump Shot,25,137,214,False
+Bobby Portis,2,9,1,1,Jump Shot,25,169,192,False
+Bobby Portis,2,1,51,1,Jump Shot,24,144,204,False
+Bobby Portis,4,0,43,0,Jump Shot,22,30,221,True
+Bobby Portis,4,3,3,0,Jump Shot,4,-33,29,True
+Bobby Portis,4,9,2,1,Jump Shot,27,-161,227,False
+Bobby Portis,4,0,1,0,Jump Shot,5,-54,18,True
+Bobby Portis,2,8,30,1,Jump Shot,25,-59,245,False
+Bobby Portis,1,3,45,0,Jump Shot,25,116,227,False
+Bobby Portis,4,7,10,0,Jump Shot,18,-172,75,True
+Bobby Portis,3,1,47,1,Jump Shot,25,-72,243,False
+Bobby Portis,3,1,23,0,Jump Shot,25,-95,239,False
+Bobby Portis,1,2,21,0,Jump Shot,25,5,252,False
+Bobby Portis,2,10,32,0,Jump Shot,5,8,53,True
+Bobby Portis,2,9,25,1,Jump Shot,15,22,151,True
+Bobby Portis,3,3,55,0,Jump Shot,25,-132,220,False
+Bobby Portis,3,4,30,1,Jump Shot,21,-161,139,True
+Bobby Portis,3,3,24,0,Jump Shot,19,-1,194,True
+Bobby Portis,1,3,4,1,Jump Shot,25,27,252,False
+Bobby Portis,2,5,20,0,Jump Shot,24,122,214,False
+Bobby Portis,2,9,36,1,Jump Shot,18,71,174,True
+Bobby Portis,4,11,48,1,Jump Shot,25,-165,191,False
+Bobby Portis,2,10,57,0,Jump Shot,24,122,209,False
+Bobby Portis,1,0,3,0,Jump Shot,21,139,169,True
+Bobby Portis,4,8,53,0,Jump Shot,26,-101,242,False
+Bobby Portis,4,2,29,1,Jump Shot,25,-92,241,False
+Bobby Portis,3,1,41,0,Jump Shot,22,32,221,True
+Bobby Portis,2,6,37,1,Jump Shot,19,-37,195,True
+Bobby Portis,1,0,8,1,Jump Shot,24,-140,205,False
+Bobby Portis,2,11,46,0,Jump Shot,22,225,15,False
+Bobby Portis,4,6,25,0,Jump Shot,26,-5,260,False
+Bobby Portis,2,10,7,0,Jump Shot,24,30,247,False
+Bobby Portis,4,10,52,1,Jump Shot,20,-100,178,True
+Bobby Portis,2,11,19,1,Jump Shot,19,84,177,True
+Bobby Portis,4,9,47,0,Jump Shot,26,65,252,False
+Bobby Portis,2,7,3,1,Jump Shot,25,61,251,False
+Bobby Portis,4,7,47,0,Jump Shot,25,44,248,False
+Bobby Portis,4,0,25,0,Jump Shot,25,62,243,False
+Bobby Portis,3,11,26,1,Jump Shot,22,-222,11,False
+Bobby Portis,3,2,2,1,Jump Shot,20,62,194,True
+Bobby Portis,3,5,24,1,Jump Shot,9,23,94,True
+Bobby Portis,3,10,39,0,Jump Shot,25,-178,178,False
+Bobby Portis,4,1,15,1,Jump Shot,25,85,241,False
+Bobby Portis,1,10,38,0,Jump Shot,24,212,131,False
+Bobby Portis,4,1,54,0,Jump Shot,20,-120,163,True
+Bobby Portis,1,8,27,0,Jump Shot,25,-5,253,False
+Bobby Portis,2,1,38,1,Jump Shot,19,48,191,True
+Bobby Portis,2,11,30,0,Jump Shot,17,-136,111,True
+Bobby Portis,4,8,23,0,Jump Shot,24,-129,208,False
+Bobby Portis,2,9,34,0,Jump Shot,19,140,137,True
+Bobby Portis,2,1,32,0,Jump Shot,25,64,251,False
+Bobby Portis,1,2,13,0,Jump Shot,24,-160,190,False
+Bobby Portis,2,9,38,0,Jump Shot,23,230,14,False
+Bobby Portis,2,2,0,0,Jump Shot,24,-151,192,False
+Bobby Portis,2,4,29,0,Jump Shot,25,-111,231,False
+Bobby Portis,1,4,4,0,Jump Shot,26,134,226,False
+Bobby Portis,3,9,33,0,Jump Shot,24,189,162,False
+Bobby Portis,3,1,30,0,Jump Shot,25,-2,254,False
+Bobby Portis,2,10,26,0,Jump Shot,25,143,206,False
+Bobby Portis,4,9,38,0,Jump Shot,25,-114,233,False
+Bobby Portis,2,7,11,1,Jump Shot,24,-10,248,False
+Bobby Portis,2,11,51,0,Jump Shot,25,43,253,False
+Bobby Portis,1,0,55,1,Jump Shot,24,-114,221,False
+Bobby Portis,2,5,55,0,Jump Shot,17,-168,53,True
+Bobby Portis,2,8,5,0,Jump Shot,20,55,199,True
+Bobby Portis,2,10,42,0,Jump Shot,10,103,20,True
+Bobby Portis,4,6,58,0,Jump Shot,22,-13,222,True
+Bobby Portis,2,8,7,0,Jump Shot,26,-130,232,False
+Bobby Portis,3,0,0,0,Jump Shot,18,-103,150,True
+Bobby Portis,4,9,45,1,Jump Shot,26,33,263,False
+Bobby Portis,1,0,58,0,Jump Shot,21,-40,212,True
+Bobby Portis,4,4,29,0,Jump Shot,21,-115,183,True
+Bobby Portis,4,6,58,0,Jump Shot,26,-47,259,False
+Bobby Portis,2,10,11,0,Jump Shot,26,70,255,False
+Bobby Portis,1,1,23,0,Jump Shot,19,1,198,True
+Bobby Portis,4,8,48,1,Jump Shot,25,105,232,False
+Bobby Portis,2,8,31,1,Jump Shot,25,16,252,False
+Bobby Portis,3,1,18,1,Jump Shot,18,100,160,True
+Bobby Portis,4,8,50,0,Jump Shot,26,-150,223,False
+Bobby Portis,2,8,8,0,Jump Shot,22,-223,3,False
+Bobby Portis,2,6,25,0,Jump Shot,24,76,236,False
+Bobby Portis,2,10,15,1,Jump Shot,9,33,88,True
+Bobby Portis,2,4,3,0,Jump Shot,15,-26,148,True
+Bobby Portis,2,3,2,0,Jump Shot,25,83,236,False
+Bobby Portis,4,9,17,1,Jump Shot,26,-119,241,False
+Bobby Portis,4,5,56,1,Jump Shot,25,112,225,False
+Bobby Portis,4,7,4,1,Jump Shot,20,127,155,True
+Bobby Portis,4,10,45,0,Jump Shot,25,-209,147,False
+Bobby Portis,2,9,22,0,Jump Shot,25,138,215,False
+Bobby Portis,1,0,57,0,Jump Shot,19,-69,185,True
+Bobby Portis,4,8,23,0,Jump Shot,25,-143,217,False
+Bobby Portis,1,1,19,0,Jump Shot,24,121,211,False
+Bobby Portis,2,4,38,1,Jump Shot,17,77,159,True
+Bobby Portis,4,3,42,0,Jump Shot,11,-112,36,True
+Bobby Portis,1,1,54,1,Jump Shot,25,-135,213,False
+Bobby Portis,4,5,41,1,Jump Shot,21,210,29,True
+Bobby Portis,2,6,29,1,Jump Shot,17,-27,172,True
+Bobby Portis,4,7,54,0,Jump Shot,4,36,18,True
+Bobby Portis,1,2,24,0,Jump Shot,21,44,214,True
+Bobby Portis,3,0,24,0,Jump Shot,26,46,257,False
+Bobby Portis,2,7,39,1,Jump Shot,15,-151,3,True
+Bobby Portis,2,7,41,0,Jump Shot,21,68,199,True
+Bobby Portis,2,10,46,1,Jump Shot,15,154,-12,True
+Bobby Portis,3,0,43,0,Jump Shot,15,8,151,True
+Bobby Portis,2,10,0,0,Jump Shot,25,83,236,False
+Bobby Portis,2,10,47,0,Jump Shot,4,46,15,True
+Bobby Portis,4,10,13,0,Jump Shot,21,60,206,True
+Bobby Portis,2,11,33,1,Jump Shot,20,24,204,True
+Bobby Portis,3,1,18,1,Jump Shot,25,60,248,False
+Bobby Portis,2,10,21,0,Jump Shot,25,92,236,False
+Bobby Portis,4,7,12,0,Jump Shot,2,8,20,True
+Bobby Portis,4,9,19,1,Jump Shot,21,49,212,True
+Bobby Portis,3,2,16,1,Jump Shot,13,129,36,True
+Bobby Portis,2,9,30,0,Jump Shot,17,161,73,True
+Bobby Portis,2,10,57,0,Jump Shot,25,70,242,False
+Bobby Portis,2,11,31,1,Jump Shot,22,143,174,True
+Bobby Portis,2,6,28,0,Jump Shot,14,144,-6,True
+Bobby Portis,3,1,27,0,Jump Shot,24,226,106,False
+Bobby Portis,3,2,19,0,Jump Shot,15,60,142,True
+Bobby Portis,1,1,9,0,Jump Shot,20,119,168,True
+Bobby Portis,3,1,59,0,Jump Shot,18,-7,185,True
+Bobby Portis,2,10,20,0,Jump Shot,27,127,241,False
+Bobby Portis,2,5,20,0,Jump Shot,25,10,254,False
+Bobby Portis,2,5,11,0,Jump Shot,11,-58,104,True
+Bobby Portis,1,0,28,1,Jump Shot,4,14,40,True
+Bobby Portis,1,0,14,1,Jump Shot,24,-86,230,False
+Bobby Portis,2,10,16,1,Jump Shot,26,145,218,False
+Bobby Portis,2,8,12,0,Jump Shot,24,70,237,False
+Bobby Portis,4,6,29,0,Jump Shot,24,128,212,False
+Bobby Portis,2,11,24,0,Jump Shot,24,96,230,False
+Bobby Portis,4,11,35,0,Jump Shot,10,103,-11,True
+Bobby Portis,3,1,5,0,Jump Shot,24,16,241,False
+Bobby Portis,4,10,6,1,Jump Shot,25,-129,218,False
+Bobby Portis,2,10,20,0,Jump Shot,24,189,151,False
+Bobby Portis,2,7,1,1,Jump Shot,25,-38,253,False
+Bobby Portis,1,0,3,1,Jump Shot,25,-1,257,False
+Bobby Portis,3,2,50,0,Jump Shot,18,177,40,True
+Bobby Portis,2,9,30,1,Jump Shot,26,-34,258,False
+Bobby Portis,3,2,16,0,Jump Shot,18,186,9,True
+Bobby Portis,4,5,34,0,Jump Shot,21,51,210,True
+Bobby Portis,3,0,43,1,Jump Shot,22,-118,187,True
+Bobby Portis,2,10,44,0,Jump Shot,26,55,262,False
+Bobby Portis,2,7,48,1,Jump Shot,15,137,82,True
+Bobby Portis,4,8,24,1,Jump Shot,19,57,187,True
+Bobby Portis,2,7,40,1,Jump Shot,15,141,54,True
+Bobby Portis,1,0,35,1,Jump Shot,14,-114,88,True
+Bobby Portis,2,10,0,0,Jump Shot,25,83,236,False
+Bobby Portis,4,11,10,1,Jump Shot,18,74,174,True
+Bobby Portis,4,6,57,1,Jump Shot,25,-36,253,False
+Bobby Portis,4,9,5,0,Jump Shot,28,-81,275,False
+Bobby Portis,2,11,22,0,Jump Shot,19,-113,163,True
+Bobby Portis,1,1,51,1,Jump Shot,27,169,220,False
+Bobby Portis,2,6,21,0,Jump Shot,21,-38,213,True
+Bobby Portis,2,10,36,0,Jump Shot,26,-58,258,False
+Bobby Portis,4,9,40,1,Jump Shot,22,-227,8,False
+Bobby Portis,4,1,20,0,Jump Shot,24,146,199,False
+Bobby Portis,4,9,9,0,Jump Shot,5,-3,59,True
+Bobby Portis,2,11,26,0,Jump Shot,22,-221,4,False
+Bobby Portis,4,11,11,0,Jump Shot,13,-136,7,True
+Bobby Portis,1,2,39,0,Jump Shot,16,120,110,True
+Bobby Portis,1,2,6,1,Jump Shot,24,-158,189,False
+Bobby Portis,4,0,21,0,Jump Shot,24,241,44,False
+Bobby Portis,1,1,24,0,Jump Shot,26,152,218,False
+Bobby Portis,4,8,16,0,Jump Shot,7,33,62,True
+Bobby Portis,1,3,31,0,Jump Shot,24,-127,204,False
+Bobby Portis,2,7,6,1,Jump Shot,15,77,130,True
+Bobby Portis,4,10,16,1,Jump Shot,20,15,205,True
+Bobby Portis,3,2,13,1,Jump Shot,14,123,77,True
+Bobby Portis,2,8,7,1,Jump Shot,25,-141,214,False
+Bobby Portis,2,7,26,0,Jump Shot,25,114,233,False
+Bobby Portis,3,2,16,1,Jump Shot,26,-163,204,False
+Bobby Portis,4,5,6,0,Jump Shot,10,101,8,True
+Bobby Portis,2,9,55,0,Jump Shot,12,16,129,True
+Bobby Portis,3,0,32,0,Jump Shot,26,-5,263,False
+Bobby Portis,3,0,1,0,Jump Shot,23,231,63,False
+Bobby Portis,3,2,1,0,Jump Shot,16,119,117,True
+Bobby Portis,4,6,25,0,Jump Shot,4,-2,46,True
+Bobby Portis,2,8,46,0,Jump Shot,24,-134,204,False
+Bobby Portis,2,8,17,0,Jump Shot,22,-227,34,False
+Bobby Portis,4,6,36,0,Jump Shot,8,-41,71,True
+Bobby Portis,2,5,5,0,Jump Shot,25,-127,218,False
+Bobby Portis,1,0,33,0,Jump Shot,26,-60,257,False
+Bobby Portis,4,11,22,0,Jump Shot,26,9,262,False
+Bobby Portis,2,10,40,0,Jump Shot,18,-143,121,True
+Bobby Portis,4,10,2,1,Jump Shot,22,228,26,False
+Bobby Portis,3,1,53,0,Jump Shot,24,215,122,False
+Bobby Portis,1,1,1,0,Jump Shot,24,114,222,False
+Bobby Portis,4,11,43,1,Jump Shot,22,226,-1,False
+Bobby Portis,3,2,2,0,Jump Shot,25,48,247,False
+Bobby Portis,4,8,18,0,Jump Shot,27,-14,270,False
+Bobby Portis,4,9,37,0,Jump Shot,25,-134,217,False
+Bobby Portis,4,10,32,1,Jump Shot,25,101,232,False
+Bobby Portis,4,11,7,0,Jump Shot,13,135,18,True
+Bobby Portis,2,9,11,0,Jump Shot,18,-180,27,True
+Bobby Portis,2,9,50,0,Jump Shot,26,-62,257,False
+Bobby Portis,1,0,22,0,Jump Shot,14,-139,43,True
+Bobby Portis,4,9,23,0,Jump Shot,23,230,31,False
+Bobby Portis,3,1,31,1,Jump Shot,22,-226,-25,False
+Bobby Portis,1,2,55,0,Jump Shot,24,-95,225,False
+Bobby Portis,1,2,6,1,Jump Shot,25,13,257,False
+Bobby Portis,3,5,39,1,Jump Shot,25,65,242,False
+Bobby Portis,4,7,34,0,Jump Shot,26,-29,259,False
+Bobby Portis,3,11,42,0,Jump Shot,11,112,23,True
+Bobby Portis,1,3,29,0,Jump Shot,24,7,246,False
+Bobby Portis,4,11,2,1,Jump Shot,17,-170,54,True
+Bobby Portis,1,0,46,0,Jump Shot,17,-101,145,True
+Bobby Portis,3,0,56,1,Jump Shot,22,-229,8,False
+Bobby Portis,3,1,14,0,Jump Shot,24,127,214,False
+Bobby Portis,2,9,59,0,Jump Shot,20,-201,-13,True
+Bobby Portis,4,5,36,0,Jump Shot,26,51,257,False
+Bobby Portis,4,2,36,0,Jump Shot,27,-115,254,False
+Bobby Portis,4,9,24,1,Jump Shot,25,205,155,False
+Bobby Portis,4,10,38,0,Jump Shot,13,133,21,True
+Bobby Portis,4,7,34,0,Layup Shot,3,-7,39,True
+Bobby Portis,4,8,0,1,Layup Shot,2,9,22,True
+Bobby Portis,3,4,55,0,Layup Shot,5,-3,53,True
+Bobby Portis,2,7,15,0,Layup Shot,2,-3,21,True
+Bobby Portis,4,7,33,0,Layup Shot,1,-13,15,True
+Bobby Portis,1,2,36,1,Layup Shot,2,-20,5,True
+Bobby Portis,2,7,19,0,Layup Shot,3,-30,7,True
+Bobby Portis,1,0,55,1,Layup Shot,0,2,1,True
+Bobby Portis,4,11,26,0,Layup Shot,1,-11,11,True
+Bobby Portis,4,11,40,1,Layup Shot,0,0,8,True
+Bobby Portis,1,1,35,0,Layup Shot,2,22,10,True
+Bobby Portis,1,5,20,0,Layup Shot,1,12,15,True
+Bobby Portis,2,10,59,0,Layup Shot,4,14,44,True
+Bobby Portis,2,11,41,1,Layup Shot,2,20,16,True
+Bobby Portis,1,0,4,0,Layup Shot,2,-19,7,True
+Bobby Portis,4,10,3,1,Layup Shot,2,12,22,True
+Bobby Portis,4,7,37,0,Layup Shot,3,25,21,True
+Bobby Portis,2,6,33,1,Layup Shot,1,14,5,True
+Bobby Portis,2,9,19,1,Layup Shot,1,-14,10,True
+Bobby Portis,1,1,49,1,Layup Shot,1,11,15,True
+Bobby Portis,4,7,36,1,Layup Shot,2,19,10,True
+Bobby Portis,3,1,48,0,Layup Shot,3,11,29,True
+Bobby Portis,2,8,50,1,Layup Shot,3,-37,-4,True
+Bobby Portis,2,7,4,0,Layup Shot,1,9,17,True
+Bobby Portis,4,1,24,0,Layup Shot,4,-46,8,True
+Bobby Portis,4,8,30,0,Layup Shot,1,-10,10,True
+Bobby Portis,2,9,21,1,Layup Shot,0,-3,4,True
+Bobby Portis,3,1,58,0,Layup Shot,3,-22,26,True
+Bobby Portis,4,4,46,0,Layup Shot,1,8,16,True
+Bobby Portis,1,8,10,1,Layup Shot,0,5,8,True
+Bobby Portis,4,3,57,0,Layup Shot,4,-7,47,True
+Bobby Portis,3,0,42,1,Layup Shot,1,-1,12,True
+Bobby Portis,4,8,35,1,Layup Shot,2,-19,22,True
+Bobby Portis,4,8,54,0,Layup Shot,1,-13,8,True
+Bobby Portis,4,11,44,0,Layup Shot,4,16,37,True
+Bobby Portis,2,10,54,1,Layup Shot,1,-13,8,True
+Bobby Portis,2,2,16,0,Layup Shot,1,-9,10,True
+Bobby Portis,2,8,48,0,Layup Shot,2,16,19,True
+Bobby Portis,3,3,6,0,Layup Shot,2,3,27,True
+Bobby Portis,2,6,13,1,Layup Shot,4,39,10,True
+Bobby Portis,1,0,56,0,Layup Shot,2,19,11,True
+Bobby Portis,1,1,39,1,Layup Shot,3,3,31,True
+Bobby Portis,4,9,1,0,Layup Shot,2,6,22,True
+Bobby Portis,4,11,12,0,Layup Shot,3,6,31,True
+Bobby Portis,2,9,59,0,Layup Shot,2,5,20,True
+Bobby Portis,2,6,38,1,Layup Shot,2,18,15,True
+Bobby Portis,3,2,39,1,Layup Shot,0,1,9,True
+Bobby Portis,4,10,52,1,Layup Shot,1,11,-4,True
+Bobby Portis,1,2,30,1,Layup Shot,2,18,19,True
+Bobby Portis,2,3,22,0,Layup Shot,1,16,4,True
+Bobby Portis,4,9,55,1,Layup Shot,1,14,10,True
+Bobby Portis,2,11,42,0,Layup Shot,4,43,24,True
+Bobby Portis,4,3,32,0,Layup Shot,3,32,7,True
+Bobby Portis,3,1,13,0,Layup Shot,1,-15,5,True
+Bobby Portis,2,2,31,0,Layup Shot,1,-9,17,True
+Bobby Portis,4,4,3,0,Layup Shot,1,-6,10,True
+Bobby Portis,4,3,29,1,Layup Shot,1,8,17,True
+Bobby Portis,4,9,33,1,Layup Shot,1,6,13,True
+Bobby Portis,3,0,2,0,Layup Shot,7,-18,68,True
+Bobby Portis,4,3,30,0,Layup Shot,1,2,16,True
+Bobby Portis,2,7,27,1,Layup Shot,1,0,17,True
+Bobby Portis,1,4,53,0,Layup Shot,1,-15,3,True
+Bobby Portis,2,11,9,0,Layup Shot,7,63,46,True
+Bobby Portis,4,8,49,0,Layup Shot,3,33,17,True
+Bobby Portis,2,10,21,1,Layup Shot,0,-6,5,True
+Bobby Portis,4,4,22,1,Layup Shot,1,-5,11,True
+Bobby Portis,3,3,16,0,Layup Shot,2,-20,21,True
+Bobby Portis,4,9,12,0,Layup Shot,5,-3,52,True
+Bobby Portis,4,3,10,0,Layup Shot,1,-14,10,True
+Bobby Portis,2,8,51,0,Layup Shot,1,14,12,True
+Bobby Portis,3,2,50,0,Layup Shot,3,29,21,True
+Bobby Portis,3,3,50,1,Layup Shot,1,14,13,True
+Bobby Portis,1,1,13,1,Layup Shot,1,-17,10,True
+Bobby Portis,4,4,31,0,Layup Shot,1,11,10,True
+Bobby Portis,2,10,14,0,Layup Shot,2,13,22,True
+Bobby Portis,3,3,46,0,Layup Shot,2,-19,14,True
+Bobby Portis,4,0,4,1,Layup Shot,1,-13,6,True
+Bobby Portis,4,9,56,1,Layup Shot,0,0,6,True
+Bobby Portis,4,2,15,1,Layup Shot,0,-2,3,True
+Bobby Portis,1,1,53,1,Pullup Jump shot,19,192,-10,True
+Bobby Portis,1,3,53,0,Pullup Jump shot,21,107,185,True
+Bobby Portis,4,5,58,0,Pullup Jump shot,19,-47,188,True
+Bobby Portis,4,6,13,1,Pullup Jump shot,21,-7,211,True
+Bobby Portis,2,5,27,0,Pullup Jump shot,18,38,183,True
+Bobby Portis,4,11,29,1,Pullup Jump shot,15,-11,153,True
+Bobby Portis,2,11,24,0,Pullup Jump shot,21,-83,194,True
+Bobby Portis,3,9,1,0,Pullup Jump shot,16,-49,156,True
+Bobby Portis,2,10,38,1,Pullup Jump shot,25,-172,188,False
+Bobby Portis,4,8,3,0,Pullup Jump shot,0,0,-6,True
+Bobby Portis,2,9,22,1,Pullup Jump shot,16,162,15,True
+Bobby Portis,1,2,15,1,Pullup Jump shot,15,-89,132,True
+Bobby Portis,2,7,10,0,Pullup Jump shot,26,-5,268,False
+Bobby Portis,4,6,7,0,Pullup Jump shot,12,-36,120,True
+Bobby Portis,4,7,42,0,Pullup Jump shot,11,115,13,True
+Bobby Portis,4,10,42,0,Pullup Jump shot,25,-145,209,False
+Bobby Portis,2,11,44,1,Pullup Jump shot,16,-11,162,True
+Bobby Portis,4,9,41,0,Pullup Jump shot,16,96,140,True
+Bobby Portis,1,3,19,1,Pullup Jump shot,14,85,115,True
+Bobby Portis,1,2,49,1,Pullup Jump shot,15,-35,146,True
+Bobby Portis,4,6,21,1,Pullup Jump shot,20,-139,149,True
+Bobby Portis,3,2,38,0,Pullup Jump shot,18,39,184,True
+Bobby Portis,1,0,0,1,Pullup Jump shot,15,159,17,True
+Bobby Portis,2,8,5,0,Pullup Jump shot,21,114,187,True
+Bobby Portis,2,10,6,0,Pullup Jump shot,15,128,82,True
+Bobby Portis,4,10,40,1,Pullup Jump shot,18,162,91,True
+Bobby Portis,1,0,40,1,Pullup Jump shot,25,105,237,False
+Bobby Portis,4,10,52,0,Pullup Jump shot,18,104,153,True
+Bobby Portis,2,5,32,1,Putback Dunk Shot,0,8,3,True
+Bobby Portis,2,11,2,1,Putback Layup Shot,1,0,12,True
+Bobby Portis,2,0,38,1,Putback Layup Shot,0,-5,0,True
+Bobby Portis,4,8,40,1,Putback Layup Shot,2,3,23,True
+Bobby Portis,1,1,35,0,Putback Layup Shot,1,3,14,True
+Bobby Portis,2,11,51,0,Putback Layup Shot,1,13,11,True
+Bobby Portis,2,3,50,1,Putback Layup Shot,0,0,-6,True
+Bobby Portis,2,2,21,1,Putback Layup Shot,1,-11,6,True
+Bobby Portis,4,10,49,1,Putback Layup Shot,0,0,-6,True
+Bobby Portis,4,5,3,1,Putback Layup Shot,0,0,-6,True
+Bobby Portis,4,7,55,1,Putback Layup Shot,1,13,10,True
+Bobby Portis,2,8,42,1,Putback Layup Shot,3,25,20,True
+Bobby Portis,3,1,41,1,Putback Layup Shot,0,6,4,True
+Bobby Portis,2,1,18,0,Putback Layup Shot,2,-20,8,True
+Bobby Portis,4,9,57,1,Putback Layup Shot,3,20,32,True
+Bobby Portis,4,4,53,0,Putback Layup Shot,0,0,-6,True
+Bobby Portis,2,0,0,0,Putback Layup Shot,0,0,-6,True
+Bobby Portis,2,8,39,1,Putback Layup Shot,0,0,-6,True
+Bobby Portis,2,6,48,1,Reverse Layup Shot,1,17,8,True
+Bobby Portis,4,6,21,1,Reverse Layup Shot,1,6,10,True
+Bobby Portis,2,6,19,1,Reverse Layup Shot,2,1,20,True
+Bobby Portis,4,8,11,1,Running Dunk Shot,1,0,10,True
+Bobby Portis,4,10,24,1,Running Dunk Shot,1,-7,12,True
+Bobby Portis,2,11,28,0,Running Jump Shot,25,220,127,False
+Bobby Portis,2,9,22,0,Running Layup Shot,3,24,31,True
+Bobby Portis,1,10,12,0,Running Layup Shot,1,9,8,True
+Bobby Portis,2,9,37,1,Running Layup Shot,1,3,15,True
+Bobby Portis,3,3,4,1,Running Layup Shot,1,11,10,True
+Bobby Portis,1,0,32,1,Running Layup Shot,0,5,6,True
+Bobby Portis,1,5,28,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,2,6,10,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,2,11,41,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,4,5,58,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,4,0,12,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,4,10,45,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,4,10,48,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,1,3,8,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,4,7,37,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,2,10,10,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,4,9,30,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,2,4,37,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,4,8,55,0,Tip Layup Shot,0,-5,4,True
+Bobby Portis,1,1,0,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,4,9,27,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,2,11,14,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,4,9,24,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,4,5,58,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,3,2,16,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,4,9,47,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,3,2,18,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,3,3,16,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,2,5,53,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,2,9,4,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,2,6,9,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,1,4,9,0,Tip Layup Shot,2,11,20,True
+Bobby Portis,4,5,58,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,3,0,37,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,3,0,28,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,2,1,4,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,4,9,25,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,4,3,5,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,2,0,1,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,2,7,56,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,3,3,11,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,4,9,45,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,3,0,0,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,2,4,16,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,3,7,41,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,2,9,35,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,1,0,0,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,4,1,32,0,Tip Layup Shot,2,-7,20,True
+Bobby Portis,1,0,3,0,Tip Layup Shot,1,1,10,True
+Bobby Portis,2,8,58,0,Tip Layup Shot,2,-6,21,True
+Bobby Portis,3,0,0,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,4,3,10,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,2,1,21,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,3,0,55,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,1,0,33,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,2,9,56,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,1,8,20,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,3,0,51,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,2,9,54,0,Tip Layup Shot,0,0,-6,True
+Bobby Portis,1,2,10,1,Tip Layup Shot,0,0,-6,True
+Bobby Portis,1,0,1,1,Turnaround Bank Hook Shot,4,24,33,True
+Bobby Portis,2,10,33,1,Turnaround Bank Hook Shot,5,51,11,True
+Bobby Portis,2,11,31,1,Turnaround Fadeaway Bank Jump Shot,10,100,22,True
+Bobby Portis,4,10,19,1,Turnaround Fadeaway Bank Jump Shot,6,63,21,True
+Bobby Portis,2,7,44,1,Turnaround Fadeaway Bank Jump Shot,7,74,17,True
+Bobby Portis,1,1,38,1,Turnaround Fadeaway Bank Jump Shot,3,36,13,True
+Bobby Portis,4,9,26,0,Turnaround Fadeaway shot,8,87,18,True
+Bobby Portis,1,0,41,1,Turnaround Hook Shot,6,57,29,True
+Bobby Portis,2,11,6,1,Turnaround Hook Shot,5,29,50,True
+Bobby Portis,2,11,39,1,Turnaround Hook Shot,9,99,-2,True
+Bobby Portis,3,2,6,1,Turnaround Hook Shot,12,123,25,True
+Bobby Portis,2,10,51,0,Turnaround Hook Shot,8,81,9,True
+Bobby Portis,1,1,35,1,Turnaround Hook Shot,5,-49,10,True
+Bobby Portis,1,1,24,1,Turnaround Hook Shot,7,76,17,True
+Bobby Portis,3,10,49,0,Turnaround Hook Shot,3,36,-6,True
+Bobby Portis,1,0,25,0,Turnaround Hook Shot,4,17,47,True
+Bobby Portis,1,2,2,1,Turnaround Hook Shot,7,20,77,True
+Bobby Portis,1,3,27,0,Turnaround Hook Shot,9,99,-6,True
+Bobby Portis,3,2,17,1,Turnaround Hook Shot,6,-1,63,True
+Bobby Portis,3,1,36,0,Turnaround Hook Shot,9,-7,99,True
+Bobby Portis,4,0,41,1,Turnaround Hook Shot,7,-41,60,True
+Bobby Portis,3,0,21,0,Turnaround Hook Shot,6,-2,63,True
+Bobby Portis,1,0,30,0,Turnaround Hook Shot,6,69,10,True
+Bobby Portis,4,8,56,0,Turnaround Jump Shot,7,20,77,True
+Bobby Portis,3,0,0,0,Turnaround Jump Shot,17,-8,170,True
+Bobby Portis,3,1,47,1,Turnaround Jump Shot,6,59,12,True
+Bobby Portis,1,0,23,1,Turnaround Jump Shot,7,70,27,True
+Bobby Portis,4,6,5,1,Turnaround Jump Shot,6,68,15,True
+Bobby Portis,2,7,58,1,Turnaround Jump Shot,8,-17,80,True
+Bobby Portis,1,3,19,1,Turnaround Jump Shot,11,-114,16,True
+Bobby Portis,3,0,32,1,Turnaround Jump Shot,10,93,42,True
+Bobby Portis,4,7,38,1,Turnaround Jump Shot,5,-12,50,True
+Bobby Portis,1,4,5,0,Turnaround Jump Shot,10,101,2,True
+Bobby Portis,4,11,23,0,Turnaround Jump Shot,3,33,10,True
+Bobby Portis,4,9,24,1,Turnaround Jump Shot,3,38,10,True
+Bobby Portis,1,3,54,0,Turnaround Jump Shot,10,-95,40,True

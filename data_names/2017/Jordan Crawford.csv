@@ -1,0 +1,18 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jordan Crawford,3,0,4,1,Fadeaway Jump Shot,9,-58,72,True
+Jordan Crawford,4,3,10,0,Floating Jump shot,7,-39,60,True
+Jordan Crawford,4,1,2,0,Jump Shot,25,-48,247,False
+Jordan Crawford,4,0,45,0,Jump Shot,21,98,188,True
+Jordan Crawford,4,3,19,0,Jump Shot,25,3,252,False
+Jordan Crawford,4,2,29,0,Jump Shot,16,-144,80,True
+Jordan Crawford,2,2,47,0,Jump Shot,25,70,247,False
+Jordan Crawford,4,3,44,1,Jump Shot,29,102,275,False
+Jordan Crawford,4,4,14,1,Jump Shot,27,-93,260,False
+Jordan Crawford,4,3,26,1,Jump Shot,25,75,241,False
+Jordan Crawford,4,0,52,1,Jump Shot,27,-174,216,False
+Jordan Crawford,4,3,30,0,Jump Shot,24,173,174,False
+Jordan Crawford,1,0,14,1,Jump Shot,28,-70,281,False
+Jordan Crawford,4,1,10,1,Jump Shot,9,42,89,True
+Jordan Crawford,4,5,27,0,Jump Shot,27,-54,272,False
+Jordan Crawford,2,9,48,0,Pullup Jump shot,13,-54,120,True
+Jordan Crawford,4,2,17,0,Step Back Jump shot,25,92,242,False

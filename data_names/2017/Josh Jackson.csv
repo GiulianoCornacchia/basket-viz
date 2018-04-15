@@ -1,0 +1,888 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Josh Jackson,2,7,28,1,Alley Oop Dunk Shot,0,-2,-2,True
+Josh Jackson,1,11,10,1,Alley Oop Dunk Shot,0,3,-3,True
+Josh Jackson,3,11,52,1,Alley Oop Dunk Shot,0,-1,5,True
+Josh Jackson,2,9,35,1,Alley Oop Dunk Shot,0,7,-1,True
+Josh Jackson,3,1,39,1,Alley Oop Dunk Shot,0,-1,5,True
+Josh Jackson,2,3,25,0,Alley Oop Dunk Shot,0,9,2,True
+Josh Jackson,4,4,51,1,Alley Oop Dunk Shot,2,24,8,True
+Josh Jackson,3,11,6,1,Alley Oop Layup shot,2,22,15,True
+Josh Jackson,4,4,35,1,Alley Oop Layup shot,1,-18,-1,True
+Josh Jackson,2,2,20,0,Alley Oop Layup shot,0,3,-6,True
+Josh Jackson,1,3,50,1,Cutting Dunk Shot,0,-3,2,True
+Josh Jackson,4,5,55,1,Cutting Dunk Shot,0,3,4,True
+Josh Jackson,3,2,14,0,Cutting Dunk Shot,0,0,-3,True
+Josh Jackson,4,8,29,1,Cutting Dunk Shot,0,-2,6,True
+Josh Jackson,3,0,32,1,Cutting Dunk Shot,0,-3,0,True
+Josh Jackson,2,11,0,1,Cutting Dunk Shot,0,2,2,True
+Josh Jackson,3,3,3,1,Cutting Dunk Shot,3,30,13,True
+Josh Jackson,4,11,23,1,Cutting Dunk Shot,1,8,11,True
+Josh Jackson,2,3,51,1,Cutting Dunk Shot,0,-5,3,True
+Josh Jackson,2,9,39,1,Cutting Dunk Shot,0,4,-3,True
+Josh Jackson,3,0,53,1,Cutting Dunk Shot,0,5,5,True
+Josh Jackson,4,3,0,1,Cutting Dunk Shot,1,12,11,True
+Josh Jackson,1,2,17,1,Cutting Dunk Shot,2,-11,21,True
+Josh Jackson,4,8,16,1,Cutting Dunk Shot,0,2,-4,True
+Josh Jackson,2,2,3,1,Cutting Dunk Shot,1,-10,-2,True
+Josh Jackson,4,9,11,1,Cutting Dunk Shot,1,-5,13,True
+Josh Jackson,1,2,24,1,Cutting Dunk Shot,0,-6,-1,True
+Josh Jackson,1,5,57,1,Cutting Layup Shot,0,-6,-1,True
+Josh Jackson,1,10,6,1,Cutting Layup Shot,0,-3,4,True
+Josh Jackson,1,6,32,1,Cutting Layup Shot,2,-6,22,True
+Josh Jackson,4,5,57,1,Cutting Layup Shot,1,-14,7,True
+Josh Jackson,2,4,59,1,Cutting Layup Shot,1,0,13,True
+Josh Jackson,2,5,37,0,Cutting Layup Shot,0,2,9,True
+Josh Jackson,1,6,37,1,Cutting Layup Shot,0,-5,4,True
+Josh Jackson,3,2,15,1,Cutting Layup Shot,0,-3,3,True
+Josh Jackson,4,8,8,0,Cutting Layup Shot,1,14,3,True
+Josh Jackson,2,2,31,0,Cutting Layup Shot,1,-3,13,True
+Josh Jackson,1,10,43,1,Cutting Layup Shot,9,84,38,True
+Josh Jackson,4,6,41,1,Cutting Layup Shot,1,-11,3,True
+Josh Jackson,3,2,14,0,Cutting Layup Shot,0,-2,5,True
+Josh Jackson,1,1,11,1,Cutting Layup Shot,0,0,4,True
+Josh Jackson,2,7,55,1,Cutting Layup Shot,0,3,7,True
+Josh Jackson,3,1,21,1,Cutting Layup Shot,0,-5,6,True
+Josh Jackson,4,1,36,0,Cutting Layup Shot,1,-8,6,True
+Josh Jackson,2,7,29,1,Cutting Layup Shot,2,2,22,True
+Josh Jackson,1,8,52,1,Cutting Layup Shot,1,-9,5,True
+Josh Jackson,1,11,44,0,Cutting Layup Shot,1,15,12,True
+Josh Jackson,4,11,24,0,Cutting Layup Shot,4,-48,4,True
+Josh Jackson,3,6,18,1,Driving Dunk Shot,2,-16,13,True
+Josh Jackson,4,10,44,0,Driving Dunk Shot,0,-2,8,True
+Josh Jackson,3,10,28,0,Driving Dunk Shot,0,2,5,True
+Josh Jackson,2,8,57,0,Driving Dunk Shot,1,11,6,True
+Josh Jackson,4,7,47,1,Driving Dunk Shot,0,0,6,True
+Josh Jackson,2,11,42,1,Driving Dunk Shot,0,-1,6,True
+Josh Jackson,2,4,44,1,Driving Dunk Shot,2,9,19,True
+Josh Jackson,1,2,55,1,Driving Finger Roll Layup Shot,0,-7,7,True
+Josh Jackson,1,10,50,0,Driving Finger Roll Layup Shot,1,-5,13,True
+Josh Jackson,2,7,59,1,Driving Finger Roll Layup Shot,1,1,14,True
+Josh Jackson,2,8,45,1,Driving Finger Roll Layup Shot,3,6,33,True
+Josh Jackson,4,11,43,0,Driving Finger Roll Layup Shot,3,6,33,True
+Josh Jackson,2,10,13,1,Driving Finger Roll Layup Shot,1,5,12,True
+Josh Jackson,1,2,11,0,Driving Finger Roll Layup Shot,5,-43,34,True
+Josh Jackson,1,1,44,0,Driving Finger Roll Layup Shot,2,20,6,True
+Josh Jackson,4,0,51,1,Driving Finger Roll Layup Shot,0,-4,6,True
+Josh Jackson,4,0,26,0,Driving Finger Roll Layup Shot,1,-13,8,True
+Josh Jackson,1,3,20,1,Driving Finger Roll Layup Shot,1,9,5,True
+Josh Jackson,1,3,48,0,Driving Finger Roll Layup Shot,1,12,15,True
+Josh Jackson,2,9,15,0,Driving Finger Roll Layup Shot,2,-11,17,True
+Josh Jackson,2,10,47,1,Driving Finger Roll Layup Shot,5,0,50,True
+Josh Jackson,4,10,56,0,Driving Finger Roll Layup Shot,1,-2,15,True
+Josh Jackson,2,6,59,0,Driving Finger Roll Layup Shot,1,0,16,True
+Josh Jackson,2,8,28,0,Driving Finger Roll Layup Shot,0,-7,0,True
+Josh Jackson,4,1,5,1,Driving Finger Roll Layup Shot,2,11,20,True
+Josh Jackson,2,5,43,1,Driving Finger Roll Layup Shot,1,11,14,True
+Josh Jackson,3,10,22,1,Driving Finger Roll Layup Shot,1,3,16,True
+Josh Jackson,3,3,20,1,Driving Finger Roll Layup Shot,1,-8,11,True
+Josh Jackson,1,9,27,0,Driving Finger Roll Layup Shot,3,4,36,True
+Josh Jackson,1,1,35,1,Driving Finger Roll Layup Shot,1,6,13,True
+Josh Jackson,4,2,28,1,Driving Floating Bank Jump Shot,4,2,42,True
+Josh Jackson,3,6,43,1,Driving Floating Bank Jump Shot,3,3,36,True
+Josh Jackson,3,1,28,0,Driving Floating Bank Jump Shot,6,55,31,True
+Josh Jackson,3,10,0,0,Driving Floating Bank Jump Shot,1,-10,6,True
+Josh Jackson,1,5,50,1,Driving Floating Bank Jump Shot,7,52,48,True
+Josh Jackson,1,11,20,1,Driving Floating Bank Jump Shot,6,34,56,True
+Josh Jackson,2,5,13,1,Driving Floating Bank Jump Shot,8,60,64,True
+Josh Jackson,4,5,15,0,Driving Floating Bank Jump Shot,7,67,31,True
+Josh Jackson,3,3,18,0,Driving Floating Bank Jump Shot,8,44,72,True
+Josh Jackson,1,5,15,1,Driving Floating Bank Jump Shot,4,-41,16,True
+Josh Jackson,4,2,57,0,Driving Floating Bank Jump Shot,2,-24,9,True
+Josh Jackson,3,0,47,0,Driving Floating Bank Jump Shot,7,-70,25,True
+Josh Jackson,3,3,58,1,Driving Floating Bank Jump Shot,3,-18,31,True
+Josh Jackson,1,1,3,0,Driving Floating Bank Jump Shot,4,-42,5,True
+Josh Jackson,1,1,38,0,Driving Floating Bank Jump Shot,1,17,5,True
+Josh Jackson,2,9,18,1,Driving Floating Bank Jump Shot,9,-96,5,True
+Josh Jackson,4,7,9,1,Driving Floating Bank Jump Shot,11,96,59,True
+Josh Jackson,1,1,6,1,Driving Floating Bank Jump Shot,8,75,28,True
+Josh Jackson,2,0,0,1,Driving Floating Bank Jump Shot,24,36,242,False
+Josh Jackson,2,9,49,1,Driving Floating Bank Jump Shot,9,85,42,True
+Josh Jackson,4,5,34,1,Driving Floating Bank Jump Shot,5,50,16,True
+Josh Jackson,3,1,48,0,Driving Floating Bank Jump Shot,4,-36,34,True
+Josh Jackson,4,8,58,1,Driving Floating Bank Jump Shot,3,-32,4,True
+Josh Jackson,3,1,6,1,Driving Floating Bank Jump Shot,11,-104,48,True
+Josh Jackson,2,10,6,0,Driving Floating Bank Jump Shot,2,-13,25,True
+Josh Jackson,1,7,52,1,Driving Floating Bank Jump Shot,5,-41,38,True
+Josh Jackson,2,7,59,1,Driving Floating Bank Jump Shot,6,-46,45,True
+Josh Jackson,3,7,57,1,Driving Floating Jump Shot,4,1,42,True
+Josh Jackson,2,3,53,1,Driving Floating Jump Shot,7,8,76,True
+Josh Jackson,3,10,45,1,Driving Floating Jump Shot,7,-37,68,True
+Josh Jackson,4,11,20,0,Driving Floating Jump Shot,12,56,109,True
+Josh Jackson,1,10,39,0,Driving Floating Jump Shot,6,6,60,True
+Josh Jackson,2,2,23,1,Driving Floating Jump Shot,7,-3,71,True
+Josh Jackson,1,5,33,1,Driving Floating Jump Shot,5,-3,50,True
+Josh Jackson,1,0,34,0,Driving Floating Jump Shot,4,4,46,True
+Josh Jackson,2,6,8,1,Driving Floating Jump Shot,13,23,134,True
+Josh Jackson,2,0,27,1,Driving Floating Jump Shot,5,-13,55,True
+Josh Jackson,3,2,27,0,Driving Floating Jump Shot,10,96,37,True
+Josh Jackson,1,6,19,0,Driving Floating Jump Shot,6,-8,62,True
+Josh Jackson,3,0,39,0,Driving Floating Jump Shot,4,0,45,True
+Josh Jackson,1,7,15,0,Driving Floating Jump Shot,11,-36,106,True
+Josh Jackson,3,2,26,1,Driving Floating Jump Shot,9,-71,63,True
+Josh Jackson,4,8,40,0,Driving Floating Jump Shot,5,-5,59,True
+Josh Jackson,4,9,32,1,Driving Floating Jump Shot,8,-2,81,True
+Josh Jackson,2,10,1,0,Driving Floating Jump Shot,8,43,72,True
+Josh Jackson,2,10,9,0,Driving Floating Jump Shot,10,-99,37,True
+Josh Jackson,3,1,49,0,Driving Floating Jump Shot,7,-67,32,True
+Josh Jackson,3,2,26,1,Driving Floating Jump Shot,12,-2,120,True
+Josh Jackson,2,0,49,1,Driving Floating Jump Shot,9,-32,93,True
+Josh Jackson,3,5,54,1,Driving Floating Jump Shot,10,-5,109,True
+Josh Jackson,1,6,29,0,Driving Floating Jump Shot,11,-14,117,True
+Josh Jackson,1,9,23,0,Driving Floating Jump Shot,3,-30,19,True
+Josh Jackson,2,1,44,1,Driving Floating Jump Shot,12,22,122,True
+Josh Jackson,1,2,49,0,Driving Floating Jump Shot,6,15,64,True
+Josh Jackson,4,8,30,1,Driving Floating Jump Shot,14,-120,88,True
+Josh Jackson,2,9,46,1,Driving Floating Jump Shot,5,-4,50,True
+Josh Jackson,4,9,45,1,Driving Floating Jump Shot,7,-3,71,True
+Josh Jackson,4,5,46,0,Driving Floating Jump Shot,12,61,106,True
+Josh Jackson,1,3,26,0,Driving Floating Jump Shot,7,0,70,True
+Josh Jackson,4,4,9,1,Driving Floating Jump Shot,10,-20,98,True
+Josh Jackson,2,3,39,1,Driving Floating Jump Shot,12,92,79,True
+Josh Jackson,1,3,14,0,Driving Floating Jump Shot,9,3,97,True
+Josh Jackson,1,1,47,0,Driving Floating Jump Shot,9,-41,88,True
+Josh Jackson,4,5,10,0,Driving Floating Jump Shot,4,-13,40,True
+Josh Jackson,3,6,12,0,Driving Floating Jump Shot,9,49,84,True
+Josh Jackson,1,4,6,0,Driving Floating Jump Shot,7,8,78,True
+Josh Jackson,2,9,25,1,Driving Floating Jump Shot,7,57,42,True
+Josh Jackson,2,9,4,1,Driving Hook Shot,4,2,49,True
+Josh Jackson,2,9,48,1,Driving Hook Shot,9,-9,98,True
+Josh Jackson,4,3,50,0,Driving Hook Shot,9,16,92,True
+Josh Jackson,1,7,11,1,Driving Layup Shot,1,-9,8,True
+Josh Jackson,2,5,59,1,Driving Layup Shot,3,18,30,True
+Josh Jackson,3,6,20,0,Driving Layup Shot,1,5,10,True
+Josh Jackson,1,0,32,0,Driving Layup Shot,6,41,55,True
+Josh Jackson,1,0,0,0,Driving Layup Shot,1,-14,-6,True
+Josh Jackson,3,0,35,1,Driving Layup Shot,2,-2,29,True
+Josh Jackson,2,5,43,0,Driving Layup Shot,2,-17,23,True
+Josh Jackson,2,3,28,1,Driving Layup Shot,0,6,7,True
+Josh Jackson,1,2,53,1,Driving Layup Shot,3,-30,6,True
+Josh Jackson,3,0,49,1,Driving Layup Shot,5,8,52,True
+Josh Jackson,1,2,1,1,Driving Layup Shot,0,-1,4,True
+Josh Jackson,2,7,21,0,Driving Layup Shot,1,8,12,True
+Josh Jackson,1,2,24,1,Driving Layup Shot,0,-2,7,True
+Josh Jackson,4,7,37,0,Driving Layup Shot,1,14,13,True
+Josh Jackson,4,8,46,0,Driving Layup Shot,11,-41,106,True
+Josh Jackson,1,9,31,0,Driving Layup Shot,0,-1,2,True
+Josh Jackson,3,10,34,0,Driving Layup Shot,8,-54,71,True
+Josh Jackson,3,4,12,0,Driving Layup Shot,3,-27,25,True
+Josh Jackson,2,2,35,0,Driving Layup Shot,1,-10,13,True
+Josh Jackson,1,3,43,1,Driving Layup Shot,0,-4,6,True
+Josh Jackson,1,9,17,1,Driving Layup Shot,0,-6,-1,True
+Josh Jackson,3,0,35,0,Driving Layup Shot,0,-4,9,True
+Josh Jackson,3,2,23,1,Driving Layup Shot,6,22,58,True
+Josh Jackson,3,4,52,0,Driving Layup Shot,1,-6,13,True
+Josh Jackson,1,6,12,0,Driving Layup Shot,1,6,11,True
+Josh Jackson,1,6,50,0,Driving Layup Shot,0,-5,2,True
+Josh Jackson,2,10,9,0,Driving Layup Shot,1,6,8,True
+Josh Jackson,2,9,9,1,Driving Layup Shot,3,-28,25,True
+Josh Jackson,1,4,13,0,Driving Layup Shot,3,-12,28,True
+Josh Jackson,4,2,55,1,Driving Layup Shot,0,0,3,True
+Josh Jackson,2,10,23,1,Driving Layup Shot,3,-16,34,True
+Josh Jackson,4,1,15,1,Driving Layup Shot,2,-21,19,True
+Josh Jackson,1,11,25,0,Driving Layup Shot,2,-13,20,True
+Josh Jackson,1,5,49,0,Driving Layup Shot,0,-2,9,True
+Josh Jackson,3,9,1,0,Driving Layup Shot,6,54,29,True
+Josh Jackson,3,8,29,0,Driving Layup Shot,1,-14,11,True
+Josh Jackson,4,1,2,0,Driving Layup Shot,1,-4,17,True
+Josh Jackson,3,9,21,1,Driving Layup Shot,1,-2,17,True
+Josh Jackson,3,1,51,1,Driving Layup Shot,0,3,6,True
+Josh Jackson,1,8,34,0,Driving Layup Shot,0,-6,7,True
+Josh Jackson,2,2,19,0,Driving Layup Shot,1,-6,11,True
+Josh Jackson,4,11,20,1,Driving Layup Shot,0,3,6,True
+Josh Jackson,1,1,29,0,Driving Layup Shot,1,13,5,True
+Josh Jackson,2,10,48,0,Driving Layup Shot,7,57,52,True
+Josh Jackson,1,4,46,0,Driving Layup Shot,10,5,106,True
+Josh Jackson,4,10,25,0,Driving Layup Shot,4,37,23,True
+Josh Jackson,1,4,12,0,Driving Layup Shot,1,-3,17,True
+Josh Jackson,4,10,34,0,Driving Layup Shot,1,-16,4,True
+Josh Jackson,4,10,26,1,Driving Layup Shot,2,-21,9,True
+Josh Jackson,4,6,48,1,Driving Layup Shot,0,2,3,True
+Josh Jackson,4,3,6,1,Driving Layup Shot,1,1,13,True
+Josh Jackson,2,10,36,0,Driving Layup Shot,1,11,12,True
+Josh Jackson,2,1,22,0,Driving Layup Shot,2,-7,21,True
+Josh Jackson,2,2,7,0,Driving Layup Shot,1,-4,13,True
+Josh Jackson,4,2,45,0,Driving Layup Shot,3,-16,26,True
+Josh Jackson,2,6,36,0,Driving Layup Shot,6,-51,36,True
+Josh Jackson,1,7,9,1,Driving Layup Shot,1,10,1,True
+Josh Jackson,3,0,37,0,Driving Layup Shot,3,30,24,True
+Josh Jackson,2,10,8,0,Driving Layup Shot,1,15,10,True
+Josh Jackson,1,10,39,0,Driving Layup Shot,4,40,6,True
+Josh Jackson,4,1,18,0,Driving Layup Shot,1,-14,14,True
+Josh Jackson,1,2,45,0,Driving Layup Shot,4,36,24,True
+Josh Jackson,1,11,27,1,Driving Layup Shot,0,9,1,True
+Josh Jackson,1,9,54,0,Driving Layup Shot,1,-1,10,True
+Josh Jackson,4,8,8,1,Driving Layup Shot,1,7,8,True
+Josh Jackson,3,1,13,0,Driving Layup Shot,0,-4,4,True
+Josh Jackson,4,4,53,0,Driving Layup Shot,2,9,27,True
+Josh Jackson,3,11,37,0,Driving Layup Shot,2,11,20,True
+Josh Jackson,4,2,50,0,Driving Layup Shot,1,8,13,True
+Josh Jackson,1,9,53,1,Driving Layup Shot,2,-8,26,True
+Josh Jackson,2,7,58,1,Driving Layup Shot,3,29,10,True
+Josh Jackson,1,7,38,0,Driving Layup Shot,2,-19,7,True
+Josh Jackson,2,4,0,0,Driving Layup Shot,9,89,22,True
+Josh Jackson,4,6,48,0,Driving Layup Shot,1,-6,8,True
+Josh Jackson,3,3,42,0,Driving Layup Shot,11,-27,112,True
+Josh Jackson,1,9,58,0,Driving Layup Shot,7,54,57,True
+Josh Jackson,1,4,14,1,Driving Layup Shot,1,-3,17,True
+Josh Jackson,2,7,38,1,Driving Layup Shot,0,2,7,True
+Josh Jackson,2,1,9,0,Driving Layup Shot,3,-20,27,True
+Josh Jackson,1,6,12,0,Driving Layup Shot,2,-20,6,True
+Josh Jackson,1,0,0,0,Driving Layup Shot,0,-3,8,True
+Josh Jackson,3,3,10,0,Driving Layup Shot,1,-15,8,True
+Josh Jackson,4,1,36,0,Driving Layup Shot,4,29,29,True
+Josh Jackson,4,5,10,0,Driving Layup Shot,5,40,31,True
+Josh Jackson,1,1,36,0,Driving Layup Shot,3,-3,31,True
+Josh Jackson,3,11,26,1,Driving Layup Shot,3,-33,7,True
+Josh Jackson,3,7,15,0,Driving Layup Shot,6,-24,57,True
+Josh Jackson,1,4,12,0,Driving Layup Shot,4,-39,17,True
+Josh Jackson,2,2,41,0,Driving Layup Shot,2,11,27,True
+Josh Jackson,1,3,16,1,Driving Layup Shot,0,0,-3,True
+Josh Jackson,4,9,35,0,Driving Layup Shot,5,-49,-10,True
+Josh Jackson,3,1,14,0,Driving Layup Shot,0,-4,8,True
+Josh Jackson,4,1,39,1,Driving Layup Shot,2,23,11,True
+Josh Jackson,2,3,37,1,Driving Layup Shot,8,-89,9,True
+Josh Jackson,3,8,40,0,Driving Layup Shot,7,68,36,True
+Josh Jackson,3,2,54,0,Driving Layup Shot,2,-13,16,True
+Josh Jackson,1,3,56,0,Driving Reverse Layup Shot,1,2,-11,True
+Josh Jackson,3,5,49,0,Driving Reverse Layup Shot,0,5,3,True
+Josh Jackson,1,7,13,1,Driving Reverse Layup Shot,1,9,14,True
+Josh Jackson,1,3,36,0,Driving Reverse Layup Shot,0,4,-5,True
+Josh Jackson,4,2,31,1,Dunk Shot,1,7,8,True
+Josh Jackson,2,3,9,1,Dunk Shot,1,0,18,True
+Josh Jackson,3,2,26,1,Dunk Shot,0,-9,-2,True
+Josh Jackson,2,2,32,1,Dunk Shot,1,-16,6,True
+Josh Jackson,1,7,10,1,Dunk Shot,0,-3,1,True
+Josh Jackson,4,8,14,1,Dunk Shot,0,-2,9,True
+Josh Jackson,3,4,45,0,Dunk Shot,0,0,5,True
+Josh Jackson,3,2,42,0,Fadeaway Jump Shot,9,-85,42,True
+Josh Jackson,1,4,8,0,Fadeaway Jump Shot,11,-80,88,True
+Josh Jackson,4,7,52,0,Fadeaway Jump Shot,15,-133,78,True
+Josh Jackson,2,7,15,1,Fadeaway Jump Shot,19,-93,172,True
+Josh Jackson,3,10,40,0,Fadeaway Jump Shot,11,1,115,True
+Josh Jackson,3,10,13,0,Finger Roll Layup Shot,1,6,16,True
+Josh Jackson,1,9,35,1,Finger Roll Layup Shot,6,2,61,True
+Josh Jackson,3,9,13,0,Finger Roll Layup Shot,10,76,70,True
+Josh Jackson,3,6,51,0,Finger Roll Layup Shot,7,-14,72,True
+Josh Jackson,2,7,47,0,Floating Jump shot,11,56,96,True
+Josh Jackson,1,8,38,1,Floating Jump shot,7,62,48,True
+Josh Jackson,3,10,18,0,Floating Jump shot,12,67,111,True
+Josh Jackson,1,8,58,1,Floating Jump shot,5,-15,58,True
+Josh Jackson,2,10,36,0,Floating Jump shot,13,11,138,True
+Josh Jackson,2,1,49,0,Floating Jump shot,11,51,108,True
+Josh Jackson,1,0,49,0,Floating Jump shot,10,22,98,True
+Josh Jackson,1,1,2,0,Floating Jump shot,7,-41,62,True
+Josh Jackson,2,3,29,0,Floating Jump shot,8,13,84,True
+Josh Jackson,4,7,57,0,Floating Jump shot,13,92,99,True
+Josh Jackson,1,11,27,0,Floating Jump shot,6,-6,66,True
+Josh Jackson,4,6,25,1,Floating Jump shot,12,-25,127,True
+Josh Jackson,1,1,22,0,Floating Jump shot,12,2,126,True
+Josh Jackson,2,9,20,0,Floating Jump shot,12,86,88,True
+Josh Jackson,4,5,46,0,Floating Jump shot,10,-103,22,True
+Josh Jackson,4,10,6,0,Floating Jump shot,10,17,100,True
+Josh Jackson,1,4,44,0,Floating Jump shot,3,20,31,True
+Josh Jackson,4,7,33,0,Floating Jump shot,7,7,72,True
+Josh Jackson,1,5,53,0,Floating Jump shot,14,9,149,True
+Josh Jackson,2,2,7,1,Floating Jump shot,5,5,59,True
+Josh Jackson,2,11,48,0,Floating Jump shot,15,0,154,True
+Josh Jackson,3,3,25,1,Floating Jump shot,9,11,94,True
+Josh Jackson,4,8,17,0,Floating Jump shot,5,18,55,True
+Josh Jackson,1,1,54,1,Floating Jump shot,5,-41,31,True
+Josh Jackson,3,9,46,0,Floating Jump shot,8,-20,82,True
+Josh Jackson,3,8,12,0,Floating Jump shot,4,-12,48,True
+Josh Jackson,1,11,18,0,Floating Jump shot,6,0,63,True
+Josh Jackson,2,4,17,0,Floating Jump shot,3,0,33,True
+Josh Jackson,4,6,57,1,Floating Jump shot,9,35,87,True
+Josh Jackson,2,7,57,1,Floating Jump shot,9,-96,11,True
+Josh Jackson,1,10,43,0,Floating Jump shot,9,-64,68,True
+Josh Jackson,1,1,21,1,Hook Bank Shot,13,120,50,True
+Josh Jackson,3,3,35,0,Hook Shot,6,11,63,True
+Josh Jackson,3,6,58,1,Hook Shot,9,40,84,True
+Josh Jackson,4,8,24,0,Hook Shot,3,20,26,True
+Josh Jackson,2,9,41,1,Hook Shot,3,-29,23,True
+Josh Jackson,1,2,9,1,Hook Shot,10,-101,14,True
+Josh Jackson,3,2,18,0,Hook Shot,10,32,95,True
+Josh Jackson,2,1,31,0,Hook Shot,8,-37,75,True
+Josh Jackson,4,11,29,1,Hook Shot,4,49,-8,True
+Josh Jackson,2,10,58,0,Hook Shot,11,-76,81,True
+Josh Jackson,3,6,54,1,Jump Bank Shot,7,-64,47,True
+Josh Jackson,2,9,26,1,Jump Bank Shot,15,133,84,True
+Josh Jackson,4,5,21,0,Jump Bank Shot,5,46,20,True
+Josh Jackson,4,2,35,0,Jump Bank Shot,8,-77,33,True
+Josh Jackson,1,1,46,1,Jump Shot,24,-166,184,False
+Josh Jackson,4,10,33,0,Jump Shot,21,73,204,True
+Josh Jackson,1,9,1,0,Jump Shot,25,-232,113,False
+Josh Jackson,2,5,26,0,Jump Shot,25,-239,101,False
+Josh Jackson,2,2,48,0,Jump Shot,22,-226,29,False
+Josh Jackson,2,5,44,0,Jump Shot,20,188,80,True
+Josh Jackson,1,0,6,0,Jump Shot,27,-137,244,False
+Josh Jackson,2,7,16,0,Jump Shot,14,-130,71,True
+Josh Jackson,3,10,23,0,Jump Shot,27,133,242,False
+Josh Jackson,1,1,23,0,Jump Shot,25,148,206,False
+Josh Jackson,4,4,26,1,Jump Shot,23,-224,70,False
+Josh Jackson,2,11,41,0,Jump Shot,23,229,30,False
+Josh Jackson,3,0,3,0,Jump Shot,25,149,201,False
+Josh Jackson,4,3,35,0,Jump Shot,24,237,75,False
+Josh Jackson,1,2,50,1,Jump Shot,24,-237,49,False
+Josh Jackson,3,11,26,0,Jump Shot,25,-115,232,False
+Josh Jackson,4,3,1,0,Jump Shot,24,-3,245,False
+Josh Jackson,1,0,2,1,Jump Shot,27,-77,269,False
+Josh Jackson,3,9,47,0,Jump Shot,25,122,223,False
+Josh Jackson,4,5,15,0,Jump Shot,22,225,37,False
+Josh Jackson,4,0,0,0,Jump Shot,53,8,537,False
+Josh Jackson,2,4,49,1,Jump Shot,22,-225,36,False
+Josh Jackson,3,0,4,0,Jump Shot,31,148,282,False
+Josh Jackson,4,0,48,0,Jump Shot,25,-112,229,False
+Josh Jackson,4,7,55,0,Jump Shot,24,-226,95,False
+Josh Jackson,3,7,5,0,Jump Shot,21,144,157,True
+Josh Jackson,1,11,43,1,Jump Shot,28,158,232,False
+Josh Jackson,4,8,18,0,Jump Shot,23,230,59,False
+Josh Jackson,1,6,0,0,Jump Shot,23,-231,62,False
+Josh Jackson,3,3,14,0,Jump Shot,26,194,183,False
+Josh Jackson,3,1,40,1,Jump Shot,24,-222,101,False
+Josh Jackson,4,10,20,0,Jump Shot,23,231,3,False
+Josh Jackson,1,6,27,1,Jump Shot,25,-226,110,False
+Josh Jackson,3,0,23,1,Jump Shot,26,-128,235,False
+Josh Jackson,2,1,36,0,Jump Shot,16,155,60,True
+Josh Jackson,1,9,52,0,Jump Shot,24,-197,151,False
+Josh Jackson,1,0,2,0,Jump Shot,17,97,147,True
+Josh Jackson,2,0,41,0,Jump Shot,26,-87,252,False
+Josh Jackson,2,11,1,0,Jump Shot,22,-226,18,False
+Josh Jackson,2,3,42,0,Jump Shot,21,-148,155,True
+Josh Jackson,1,10,28,0,Jump Shot,25,112,228,False
+Josh Jackson,1,7,8,1,Jump Shot,25,129,217,False
+Josh Jackson,1,3,47,0,Jump Shot,20,-67,193,True
+Josh Jackson,3,9,45,0,Jump Shot,25,93,236,False
+Josh Jackson,2,2,16,0,Jump Shot,22,-227,-20,False
+Josh Jackson,1,7,43,0,Jump Shot,24,-147,200,False
+Josh Jackson,1,7,37,0,Jump Shot,18,-51,176,True
+Josh Jackson,4,2,30,0,Jump Shot,23,-230,2,False
+Josh Jackson,4,9,49,0,Jump Shot,28,-152,237,False
+Josh Jackson,4,0,19,0,Jump Shot,26,82,252,False
+Josh Jackson,3,9,47,0,Jump Shot,23,235,4,False
+Josh Jackson,1,0,42,0,Jump Shot,25,172,189,False
+Josh Jackson,4,7,54,1,Jump Shot,25,-163,200,False
+Josh Jackson,4,0,1,1,Jump Shot,26,7,260,False
+Josh Jackson,4,4,14,0,Jump Shot,25,152,206,False
+Josh Jackson,2,4,28,1,Jump Shot,25,84,237,False
+Josh Jackson,2,3,53,1,Jump Shot,22,-229,17,False
+Josh Jackson,4,1,19,0,Jump Shot,26,127,228,False
+Josh Jackson,1,6,7,1,Jump Shot,25,-229,115,False
+Josh Jackson,2,5,7,0,Jump Shot,23,225,78,False
+Josh Jackson,3,11,9,0,Jump Shot,25,-215,129,False
+Josh Jackson,2,5,3,1,Jump Shot,23,230,6,False
+Josh Jackson,2,3,48,0,Jump Shot,18,99,157,True
+Josh Jackson,2,3,18,1,Jump Shot,24,-212,130,False
+Josh Jackson,1,11,8,0,Jump Shot,1,-10,11,True
+Josh Jackson,1,9,14,0,Jump Shot,12,-125,24,True
+Josh Jackson,4,6,25,0,Jump Shot,26,-100,248,False
+Josh Jackson,3,9,22,1,Jump Shot,25,-69,242,False
+Josh Jackson,2,5,24,0,Jump Shot,25,-191,170,False
+Josh Jackson,1,7,10,0,Jump Shot,26,-204,168,False
+Josh Jackson,4,11,26,0,Jump Shot,24,220,107,False
+Josh Jackson,1,2,7,0,Jump Shot,15,13,153,True
+Josh Jackson,3,1,21,1,Jump Shot,25,-175,183,False
+Josh Jackson,3,3,41,0,Jump Shot,25,210,138,False
+Josh Jackson,1,0,24,0,Jump Shot,26,-4,261,False
+Josh Jackson,2,1,44,1,Jump Shot,26,82,251,False
+Josh Jackson,4,2,51,1,Jump Shot,20,-3,200,True
+Josh Jackson,2,10,50,0,Jump Shot,26,95,244,False
+Josh Jackson,3,5,1,0,Jump Shot,26,204,164,False
+Josh Jackson,2,9,40,1,Jump Shot,22,-225,4,False
+Josh Jackson,2,8,46,0,Jump Shot,25,21,252,False
+Josh Jackson,4,9,55,1,Jump Shot,24,-216,111,False
+Josh Jackson,2,6,35,0,Jump Shot,23,-228,65,False
+Josh Jackson,2,8,45,0,Jump Shot,25,120,222,False
+Josh Jackson,4,2,47,0,Jump Shot,7,-51,55,True
+Josh Jackson,3,9,24,0,Jump Shot,25,-187,178,False
+Josh Jackson,3,9,54,0,Jump Shot,23,232,50,False
+Josh Jackson,2,11,47,0,Jump Shot,25,139,209,False
+Josh Jackson,4,7,11,1,Jump Shot,26,190,189,False
+Josh Jackson,1,6,33,0,Jump Shot,23,230,65,False
+Josh Jackson,2,3,34,0,Jump Shot,27,-163,218,False
+Josh Jackson,1,10,22,1,Jump Shot,23,231,59,False
+Josh Jackson,3,10,59,1,Jump Shot,26,174,206,False
+Josh Jackson,4,8,17,0,Jump Shot,24,-237,78,False
+Josh Jackson,2,2,57,0,Jump Shot,25,41,256,False
+Josh Jackson,2,11,17,0,Jump Shot,20,94,187,True
+Josh Jackson,3,0,32,1,Jump Shot,24,-223,109,False
+Josh Jackson,4,6,13,0,Jump Shot,24,-174,173,False
+Josh Jackson,2,2,36,1,Jump Shot,25,-52,253,False
+Josh Jackson,4,3,52,1,Jump Shot,23,232,20,False
+Josh Jackson,3,4,22,0,Jump Shot,19,-190,-2,True
+Josh Jackson,2,6,35,0,Jump Shot,23,226,57,False
+Josh Jackson,4,0,3,0,Jump Shot,29,133,264,False
+Josh Jackson,2,2,32,0,Jump Shot,23,227,57,False
+Josh Jackson,4,0,35,0,Jump Shot,25,-92,236,False
+Josh Jackson,2,9,52,0,Jump Shot,28,-121,260,False
+Josh Jackson,3,6,7,0,Jump Shot,19,-2,193,True
+Josh Jackson,3,3,7,0,Jump Shot,5,57,-6,True
+Josh Jackson,4,2,17,0,Jump Shot,23,236,36,False
+Josh Jackson,3,2,0,0,Jump Shot,21,201,71,True
+Josh Jackson,2,7,9,0,Jump Shot,27,-145,236,False
+Josh Jackson,3,3,57,1,Jump Shot,24,-223,108,False
+Josh Jackson,4,0,53,0,Jump Shot,27,204,187,False
+Josh Jackson,3,7,24,1,Jump Shot,27,-192,190,False
+Josh Jackson,3,4,33,0,Jump Shot,23,-233,22,False
+Josh Jackson,1,3,56,0,Jump Shot,19,32,195,True
+Josh Jackson,4,8,5,1,Jump Shot,22,221,32,False
+Josh Jackson,1,0,54,0,Jump Shot,24,-225,104,False
+Josh Jackson,1,3,18,0,Jump Shot,23,229,69,False
+Josh Jackson,3,9,29,1,Jump Shot,24,-163,185,False
+Josh Jackson,1,11,7,1,Jump Shot,22,228,14,False
+Josh Jackson,1,5,37,0,Jump Shot,9,39,89,True
+Josh Jackson,2,2,59,0,Jump Shot,24,-171,180,False
+Josh Jackson,2,11,1,0,Jump Shot,25,-122,223,False
+Josh Jackson,4,6,19,1,Jump Shot,24,-140,205,False
+Josh Jackson,1,8,8,0,Jump Shot,25,-220,131,False
+Josh Jackson,4,7,8,1,Jump Shot,25,-129,216,False
+Josh Jackson,4,5,8,0,Jump Shot,23,232,15,False
+Josh Jackson,1,6,3,0,Jump Shot,19,44,186,True
+Josh Jackson,2,3,25,1,Jump Shot,25,-207,155,False
+Josh Jackson,1,5,18,1,Jump Shot,24,-182,166,False
+Josh Jackson,3,10,58,0,Jump Shot,7,-35,64,True
+Josh Jackson,3,10,31,0,Jump Shot,17,-73,163,True
+Josh Jackson,3,1,55,0,Jump Shot,20,-119,173,True
+Josh Jackson,1,6,48,0,Jump Shot,24,-21,245,False
+Josh Jackson,2,8,15,0,Jump Shot,21,141,159,True
+Josh Jackson,3,7,46,0,Jump Shot,24,180,164,False
+Josh Jackson,2,4,9,0,Jump Shot,25,-124,219,False
+Josh Jackson,3,6,53,0,Jump Shot,25,-167,195,False
+Josh Jackson,2,0,32,0,Jump Shot,25,-39,257,False
+Josh Jackson,2,2,59,0,Jump Shot,25,-192,163,False
+Josh Jackson,1,9,25,0,Jump Shot,25,38,251,False
+Josh Jackson,2,9,41,1,Jump Shot,24,-141,206,False
+Josh Jackson,3,8,26,0,Jump Shot,24,223,111,False
+Josh Jackson,3,11,0,0,Jump Shot,24,176,173,False
+Josh Jackson,2,8,48,0,Jump Shot,16,164,25,True
+Josh Jackson,3,2,49,0,Jump Shot,14,3,146,True
+Josh Jackson,2,11,2,0,Jump Shot,23,-230,0,False
+Josh Jackson,2,4,44,0,Jump Shot,25,157,201,False
+Josh Jackson,1,5,6,0,Jump Shot,25,90,239,False
+Josh Jackson,1,7,9,1,Jump Shot,25,-72,249,False
+Josh Jackson,4,5,25,0,Jump Shot,22,-225,-2,False
+Josh Jackson,4,0,31,0,Jump Shot,25,111,225,False
+Josh Jackson,3,3,33,0,Jump Shot,16,-5,169,True
+Josh Jackson,2,1,57,0,Jump Shot,26,55,260,False
+Josh Jackson,1,2,20,1,Jump Shot,24,219,119,False
+Josh Jackson,2,10,59,0,Jump Shot,21,-195,99,True
+Josh Jackson,1,3,15,1,Jump Shot,16,31,163,True
+Josh Jackson,3,2,55,0,Jump Shot,25,99,236,False
+Josh Jackson,3,4,43,0,Jump Shot,5,20,52,True
+Josh Jackson,2,11,41,0,Jump Shot,24,-244,33,False
+Josh Jackson,4,8,42,1,Jump Shot,14,141,-38,True
+Josh Jackson,3,4,55,0,Jump Shot,11,58,104,True
+Josh Jackson,3,2,50,0,Jump Shot,23,-229,31,False
+Josh Jackson,2,4,51,0,Jump Shot,26,46,257,False
+Josh Jackson,3,8,27,0,Jump Shot,25,-131,221,False
+Josh Jackson,2,5,34,1,Jump Shot,22,-226,36,False
+Josh Jackson,3,9,57,0,Jump Shot,23,-231,13,False
+Josh Jackson,1,10,52,0,Jump Shot,9,65,63,True
+Josh Jackson,4,9,12,0,Jump Shot,24,-123,215,False
+Josh Jackson,3,5,43,0,Jump Shot,27,171,218,False
+Josh Jackson,4,0,22,0,Jump Shot,25,-118,222,False
+Josh Jackson,1,0,16,0,Jump Shot,25,195,165,False
+Josh Jackson,2,1,7,0,Jump Shot,25,-228,111,False
+Josh Jackson,4,11,32,0,Jump Shot,25,-2,257,False
+Josh Jackson,4,8,35,0,Jump Shot,24,234,65,False
+Josh Jackson,1,5,39,1,Jump Shot,18,-103,159,True
+Josh Jackson,3,3,4,0,Jump Shot,14,-138,57,True
+Josh Jackson,3,3,2,0,Jump Shot,22,-228,-1,False
+Josh Jackson,1,3,41,1,Jump Shot,25,-217,134,False
+Josh Jackson,4,5,46,0,Jump Shot,23,231,22,False
+Josh Jackson,4,8,25,0,Jump Shot,25,-52,248,False
+Josh Jackson,2,9,34,0,Jump Shot,14,127,59,True
+Josh Jackson,3,10,31,0,Jump Shot,23,-231,-8,False
+Josh Jackson,2,0,52,0,Jump Shot,24,-226,99,False
+Josh Jackson,3,1,22,0,Jump Shot,25,-35,257,False
+Josh Jackson,2,4,16,1,Jump Shot,19,24,190,True
+Josh Jackson,1,0,0,0,Jump Shot,41,154,390,False
+Josh Jackson,2,5,33,0,Jump Shot,25,-228,113,False
+Josh Jackson,2,8,12,0,Jump Shot,25,135,215,False
+Josh Jackson,2,1,28,0,Jump Shot,24,-230,84,False
+Josh Jackson,2,6,26,0,Jump Shot,28,3,285,False
+Josh Jackson,2,1,47,0,Jump Shot,25,201,149,False
+Josh Jackson,1,1,29,0,Jump Shot,24,-226,105,False
+Josh Jackson,2,0,35,0,Jump Shot,24,-231,75,False
+Josh Jackson,1,3,8,0,Jump Shot,22,223,32,False
+Josh Jackson,4,8,5,0,Jump Shot,17,107,136,True
+Josh Jackson,1,2,0,0,Jump Shot,28,111,266,False
+Josh Jackson,1,5,37,0,Jump Shot,21,-106,184,True
+Josh Jackson,3,6,31,0,Jump Shot,25,-123,219,False
+Josh Jackson,2,10,45,1,Jump Shot,22,226,-13,False
+Josh Jackson,1,11,13,0,Jump Shot,26,-138,225,False
+Josh Jackson,1,3,1,0,Jump Shot,25,160,200,False
+Josh Jackson,4,1,28,1,Jump Shot,27,148,226,False
+Josh Jackson,2,11,27,0,Jump Shot,24,-202,144,False
+Josh Jackson,1,9,18,0,Jump Shot,18,134,132,True
+Josh Jackson,3,9,36,1,Jump Shot,24,204,141,False
+Josh Jackson,3,8,5,0,Jump Shot,20,169,121,True
+Josh Jackson,4,10,36,0,Jump Shot,25,-171,184,False
+Josh Jackson,4,7,0,0,Jump Shot,24,-210,121,False
+Josh Jackson,1,0,55,0,Jump Shot,26,-103,243,False
+Josh Jackson,3,0,42,1,Jump Shot,27,138,240,False
+Josh Jackson,4,7,52,0,Jump Shot,27,145,234,False
+Josh Jackson,1,8,15,0,Jump Shot,25,-136,210,False
+Josh Jackson,4,3,30,1,Jump Shot,26,29,261,False
+Josh Jackson,1,1,27,0,Jump Shot,23,-231,-4,False
+Josh Jackson,3,0,45,1,Jump Shot,24,-211,115,False
+Josh Jackson,1,0,23,0,Jump Shot,26,-109,238,False
+Josh Jackson,2,11,23,0,Jump Shot,23,231,-11,False
+Josh Jackson,4,7,9,1,Jump Shot,25,-56,251,False
+Josh Jackson,2,5,11,1,Jump Shot,25,157,197,False
+Josh Jackson,1,3,48,0,Jump Shot,25,237,85,False
+Josh Jackson,2,2,51,0,Jump Shot,25,-155,197,False
+Josh Jackson,3,7,17,0,Jump Shot,13,48,126,True
+Josh Jackson,1,7,55,0,Jump Shot,16,107,120,True
+Josh Jackson,3,11,9,1,Jump Shot,26,214,158,False
+Josh Jackson,4,10,48,0,Jump Shot,25,-206,148,False
+Josh Jackson,1,5,40,0,Jump Shot,25,-184,173,False
+Josh Jackson,3,9,41,0,Jump Shot,23,229,71,False
+Josh Jackson,4,4,52,0,Layup Shot,4,24,43,True
+Josh Jackson,1,7,5,0,Layup Shot,9,91,33,True
+Josh Jackson,2,0,29,1,Layup Shot,1,6,11,True
+Josh Jackson,2,3,45,1,Layup Shot,1,7,11,True
+Josh Jackson,4,9,20,0,Layup Shot,1,1,13,True
+Josh Jackson,2,10,0,0,Layup Shot,5,44,24,True
+Josh Jackson,1,6,59,1,Layup Shot,0,-6,2,True
+Josh Jackson,1,2,14,0,Layup Shot,0,5,2,True
+Josh Jackson,3,8,7,0,Layup Shot,0,6,1,True
+Josh Jackson,4,11,26,1,Layup Shot,2,-12,16,True
+Josh Jackson,1,3,8,0,Layup Shot,1,8,12,True
+Josh Jackson,4,5,28,1,Layup Shot,1,-2,11,True
+Josh Jackson,2,8,25,0,Layup Shot,4,-11,46,True
+Josh Jackson,1,5,55,0,Layup Shot,4,-36,19,True
+Josh Jackson,1,10,50,0,Layup Shot,1,-6,8,True
+Josh Jackson,4,11,22,0,Layup Shot,1,0,15,True
+Josh Jackson,3,2,31,0,Layup Shot,2,-14,16,True
+Josh Jackson,4,7,22,1,Layup Shot,4,-43,-1,True
+Josh Jackson,1,1,14,1,Layup Shot,1,6,10,True
+Josh Jackson,2,9,59,0,Layup Shot,1,-16,-1,True
+Josh Jackson,1,2,11,1,Layup Shot,2,-8,25,True
+Josh Jackson,1,1,42,0,Layup Shot,0,-1,6,True
+Josh Jackson,4,10,29,1,Layup Shot,2,18,17,True
+Josh Jackson,3,2,53,0,Layup Shot,1,-11,11,True
+Josh Jackson,4,11,26,0,Layup Shot,1,-4,15,True
+Josh Jackson,1,3,9,0,Layup Shot,1,2,10,True
+Josh Jackson,4,1,16,1,Layup Shot,2,4,28,True
+Josh Jackson,3,1,3,0,Layup Shot,2,3,21,True
+Josh Jackson,3,10,34,0,Layup Shot,2,-5,24,True
+Josh Jackson,2,10,5,0,Pullup Jump shot,19,114,162,True
+Josh Jackson,1,3,30,0,Pullup Jump shot,19,65,188,True
+Josh Jackson,4,4,30,0,Pullup Jump shot,7,-18,75,True
+Josh Jackson,3,11,6,0,Pullup Jump shot,25,92,241,False
+Josh Jackson,1,6,27,1,Pullup Jump shot,20,-46,202,True
+Josh Jackson,2,6,10,1,Pullup Jump shot,19,84,179,True
+Josh Jackson,1,6,32,1,Pullup Jump shot,18,-16,188,True
+Josh Jackson,2,9,33,0,Pullup Jump shot,19,90,168,True
+Josh Jackson,4,9,35,0,Pullup Jump shot,18,-80,166,True
+Josh Jackson,4,5,1,0,Pullup Jump shot,18,-27,178,True
+Josh Jackson,4,8,22,0,Pullup Jump shot,14,145,37,True
+Josh Jackson,4,6,2,1,Pullup Jump shot,3,0,30,True
+Josh Jackson,2,6,56,0,Pullup Jump shot,19,-78,177,True
+Josh Jackson,4,0,38,0,Pullup Jump shot,25,159,194,False
+Josh Jackson,3,6,41,1,Pullup Jump shot,18,-16,185,True
+Josh Jackson,2,3,46,0,Pullup Jump shot,12,-38,120,True
+Josh Jackson,3,11,6,1,Pullup Jump shot,18,-181,-11,True
+Josh Jackson,3,6,2,1,Pullup Jump shot,16,-2,167,True
+Josh Jackson,4,0,1,1,Pullup Jump shot,16,82,145,True
+Josh Jackson,4,0,21,0,Pullup Jump shot,26,-18,266,False
+Josh Jackson,4,6,25,0,Pullup Jump shot,17,-92,145,True
+Josh Jackson,3,3,2,1,Pullup Jump shot,18,172,58,True
+Josh Jackson,2,2,45,1,Pullup Jump shot,17,118,125,True
+Josh Jackson,1,7,25,1,Pullup Jump shot,15,122,98,True
+Josh Jackson,1,11,44,0,Pullup Jump shot,11,13,118,True
+Josh Jackson,4,7,12,0,Pullup Jump shot,15,87,124,True
+Josh Jackson,4,0,9,0,Pullup Jump shot,25,158,201,False
+Josh Jackson,4,8,50,1,Pullup Jump shot,21,-120,178,True
+Josh Jackson,4,5,32,0,Pullup Jump shot,18,41,184,True
+Josh Jackson,1,1,45,0,Pullup Jump shot,15,-152,31,True
+Josh Jackson,3,0,0,0,Pullup Jump shot,49,83,484,False
+Josh Jackson,3,11,11,1,Pullup Jump shot,18,-117,137,True
+Josh Jackson,2,3,45,0,Pullup Jump shot,18,-11,188,True
+Josh Jackson,2,8,25,0,Pullup Jump shot,25,-68,249,False
+Josh Jackson,2,7,17,0,Pullup Jump shot,10,-105,31,True
+Josh Jackson,4,9,47,1,Pullup Jump shot,20,155,127,True
+Josh Jackson,2,9,33,0,Pullup Jump shot,8,-46,73,True
+Josh Jackson,4,3,48,0,Pullup Jump shot,18,89,159,True
+Josh Jackson,1,2,43,0,Pullup Jump shot,18,127,132,True
+Josh Jackson,1,0,9,1,Pullup Jump shot,12,47,111,True
+Josh Jackson,2,7,52,0,Pullup Jump shot,24,54,242,False
+Josh Jackson,4,9,22,0,Pullup Jump shot,17,82,154,True
+Josh Jackson,3,6,58,0,Pullup Jump shot,9,-75,58,True
+Josh Jackson,1,1,11,0,Pullup Jump shot,13,107,75,True
+Josh Jackson,1,2,36,1,Pullup Jump shot,18,-56,175,True
+Josh Jackson,3,7,12,0,Pullup Jump shot,12,111,48,True
+Josh Jackson,2,7,30,0,Pullup Jump shot,10,100,39,True
+Josh Jackson,2,8,13,0,Pullup Jump shot,11,-1,113,True
+Josh Jackson,4,11,7,0,Pullup Jump shot,6,9,61,True
+Josh Jackson,2,1,34,0,Pullup Jump shot,19,-3,197,True
+Josh Jackson,2,7,11,0,Pullup Jump shot,24,-122,216,False
+Josh Jackson,2,5,30,1,Pullup Jump shot,25,-60,248,False
+Josh Jackson,4,8,49,0,Pullup Jump shot,20,78,189,True
+Josh Jackson,4,6,9,0,Pullup Jump shot,18,80,165,True
+Josh Jackson,3,1,8,0,Pullup Jump shot,8,-87,3,True
+Josh Jackson,3,1,47,1,Pullup Jump shot,15,14,158,True
+Josh Jackson,4,2,10,0,Pullup Jump shot,16,16,162,True
+Josh Jackson,2,4,44,0,Pullup Jump shot,17,83,153,True
+Josh Jackson,1,1,58,1,Pullup Jump shot,20,-52,195,True
+Josh Jackson,1,7,25,1,Pullup Jump shot,22,-71,210,True
+Josh Jackson,4,8,46,1,Pullup Jump shot,12,-51,115,True
+Josh Jackson,4,5,26,0,Pullup Jump shot,16,17,169,True
+Josh Jackson,2,3,18,1,Putback Dunk Shot,0,0,-6,True
+Josh Jackson,1,2,28,1,Putback Dunk Shot,0,0,-6,True
+Josh Jackson,3,7,34,1,Putback Dunk Shot,0,0,-6,True
+Josh Jackson,3,7,30,0,Putback Dunk Shot,2,19,8,True
+Josh Jackson,3,4,39,1,Putback Layup Shot,0,-3,2,True
+Josh Jackson,1,9,23,1,Putback Layup Shot,0,4,7,True
+Josh Jackson,1,1,32,1,Putback Layup Shot,1,2,11,True
+Josh Jackson,3,0,34,1,Putback Layup Shot,0,0,-6,True
+Josh Jackson,1,0,31,0,Putback Layup Shot,3,-28,15,True
+Josh Jackson,1,9,51,0,Putback Layup Shot,0,-6,6,True
+Josh Jackson,4,6,28,0,Putback Layup Shot,0,6,5,True
+Josh Jackson,2,5,59,1,Putback Layup Shot,0,-5,6,True
+Josh Jackson,1,3,6,0,Putback Layup Shot,0,2,7,True
+Josh Jackson,1,7,36,1,Putback Layup Shot,1,-11,2,True
+Josh Jackson,4,2,57,1,Reverse Layup Shot,2,-5,22,True
+Josh Jackson,2,11,12,0,Reverse Layup Shot,0,-9,1,True
+Josh Jackson,4,10,56,1,Reverse Layup Shot,2,11,26,True
+Josh Jackson,4,3,15,1,Reverse Layup Shot,0,0,-6,True
+Josh Jackson,1,8,28,1,Running Alley Oop Dunk Shot,0,-2,4,True
+Josh Jackson,4,8,32,1,Running Alley Oop Dunk Shot,1,-1,17,True
+Josh Jackson,3,11,37,0,Running Alley Oop Dunk Shot,0,5,-1,True
+Josh Jackson,4,2,47,1,Running Dunk Shot,0,0,9,True
+Josh Jackson,2,11,29,1,Running Dunk Shot,0,4,7,True
+Josh Jackson,4,2,45,1,Running Dunk Shot,0,-4,5,True
+Josh Jackson,3,0,27,1,Running Dunk Shot,1,0,10,True
+Josh Jackson,4,4,7,1,Running Dunk Shot,2,3,25,True
+Josh Jackson,2,9,4,1,Running Dunk Shot,0,3,-4,True
+Josh Jackson,4,9,49,1,Running Dunk Shot,0,0,-4,True
+Josh Jackson,4,11,33,0,Running Dunk Shot,0,0,5,True
+Josh Jackson,1,9,4,1,Running Dunk Shot,1,1,-11,True
+Josh Jackson,4,2,20,1,Running Dunk Shot,1,6,11,True
+Josh Jackson,1,9,34,1,Running Dunk Shot,0,-4,-2,True
+Josh Jackson,3,0,29,1,Running Dunk Shot,0,6,4,True
+Josh Jackson,1,1,15,1,Running Dunk Shot,0,6,-3,True
+Josh Jackson,3,11,46,1,Running Dunk Shot,2,14,22,True
+Josh Jackson,1,3,21,1,Running Dunk Shot,1,0,10,True
+Josh Jackson,4,9,5,1,Running Dunk Shot,0,-3,4,True
+Josh Jackson,1,6,19,1,Running Dunk Shot,0,3,5,True
+Josh Jackson,3,2,38,1,Running Dunk Shot,0,2,-6,True
+Josh Jackson,4,1,56,1,Running Dunk Shot,0,-2,6,True
+Josh Jackson,2,5,8,0,Running Dunk Shot,0,-4,8,True
+Josh Jackson,3,6,38,1,Running Dunk Shot,1,3,13,True
+Josh Jackson,2,10,23,0,Running Finger Roll Layup Shot,1,11,7,True
+Josh Jackson,4,11,1,1,Running Finger Roll Layup Shot,1,9,6,True
+Josh Jackson,4,9,24,1,Running Finger Roll Layup Shot,0,3,4,True
+Josh Jackson,1,0,42,0,Running Finger Roll Layup Shot,6,0,63,True
+Josh Jackson,3,4,11,0,Running Finger Roll Layup Shot,1,3,15,True
+Josh Jackson,2,0,0,1,Running Finger Roll Layup Shot,17,3,170,True
+Josh Jackson,3,4,19,0,Running Finger Roll Layup Shot,1,-11,15,True
+Josh Jackson,4,6,13,0,Running Finger Roll Layup Shot,2,16,17,True
+Josh Jackson,2,7,23,1,Running Finger Roll Layup Shot,0,2,7,True
+Josh Jackson,4,0,23,1,Running Finger Roll Layup Shot,2,12,21,True
+Josh Jackson,4,5,38,0,Running Jump Shot,26,197,171,False
+Josh Jackson,3,0,0,0,Running Jump Shot,55,-145,531,False
+Josh Jackson,1,3,44,0,Running Jump Shot,25,176,180,False
+Josh Jackson,3,3,43,0,Running Jump Shot,28,228,169,False
+Josh Jackson,4,6,57,0,Running Jump Shot,2,18,15,True
+Josh Jackson,2,4,30,0,Running Jump Shot,7,60,41,True
+Josh Jackson,1,0,0,1,Running Layup Shot,2,15,18,True
+Josh Jackson,2,3,31,1,Running Layup Shot,1,16,2,True
+Josh Jackson,1,0,36,1,Running Layup Shot,4,30,31,True
+Josh Jackson,2,1,32,1,Running Layup Shot,1,0,16,True
+Josh Jackson,3,7,0,1,Running Layup Shot,1,14,10,True
+Josh Jackson,3,1,5,0,Running Layup Shot,1,-2,13,True
+Josh Jackson,3,9,53,1,Running Layup Shot,1,5,14,True
+Josh Jackson,2,8,39,0,Running Layup Shot,1,-8,15,True
+Josh Jackson,2,6,4,0,Running Layup Shot,1,4,15,True
+Josh Jackson,4,0,37,1,Running Layup Shot,7,62,35,True
+Josh Jackson,4,0,29,1,Running Layup Shot,1,-2,17,True
+Josh Jackson,4,4,31,0,Running Layup Shot,1,-2,11,True
+Josh Jackson,4,11,18,0,Running Layup Shot,3,-2,32,True
+Josh Jackson,2,4,24,1,Running Layup Shot,3,-22,33,True
+Josh Jackson,2,3,49,1,Running Layup Shot,0,2,2,True
+Josh Jackson,3,8,52,0,Running Layup Shot,2,-22,11,True
+Josh Jackson,1,11,3,1,Running Layup Shot,0,-5,0,True
+Josh Jackson,2,3,28,1,Running Layup Shot,0,-6,4,True
+Josh Jackson,2,5,52,1,Running Layup Shot,1,-2,14,True
+Josh Jackson,2,2,32,0,Running Layup Shot,0,-3,7,True
+Josh Jackson,1,11,14,0,Running Layup Shot,1,9,7,True
+Josh Jackson,1,9,53,1,Running Layup Shot,0,0,2,True
+Josh Jackson,3,8,10,1,Running Layup Shot,2,-7,26,True
+Josh Jackson,4,7,38,1,Running Layup Shot,1,-13,11,True
+Josh Jackson,4,10,38,1,Running Layup Shot,9,87,34,True
+Josh Jackson,1,4,35,0,Running Layup Shot,1,1,11,True
+Josh Jackson,1,7,41,0,Running Layup Shot,1,3,16,True
+Josh Jackson,1,0,0,1,Running Layup Shot,2,20,13,True
+Josh Jackson,1,5,49,0,Running Layup Shot,6,52,32,True
+Josh Jackson,2,11,8,1,Running Layup Shot,1,-16,10,True
+Josh Jackson,4,6,2,1,Running Layup Shot,0,-3,-1,True
+Josh Jackson,1,3,38,1,Running Layup Shot,0,1,3,True
+Josh Jackson,4,2,14,1,Running Layup Shot,0,2,8,True
+Josh Jackson,1,8,8,0,Running Layup Shot,0,0,8,True
+Josh Jackson,4,9,37,0,Running Layup Shot,1,12,10,True
+Josh Jackson,1,2,2,1,Running Layup Shot,1,3,11,True
+Josh Jackson,1,8,15,0,Running Layup Shot,5,-24,50,True
+Josh Jackson,4,9,32,0,Running Layup Shot,9,85,32,True
+Josh Jackson,3,4,59,0,Running Layup Shot,9,-40,85,True
+Josh Jackson,2,4,55,1,Running Layup Shot,0,6,1,True
+Josh Jackson,1,2,11,1,Running Layup Shot,5,0,57,True
+Josh Jackson,4,3,53,0,Running Layup Shot,1,7,16,True
+Josh Jackson,1,2,11,1,Running Layup Shot,0,3,6,True
+Josh Jackson,3,2,19,1,Running Layup Shot,1,-1,17,True
+Josh Jackson,3,3,47,1,Running Layup Shot,9,95,14,True
+Josh Jackson,4,8,59,1,Running Layup Shot,0,-4,-6,True
+Josh Jackson,1,5,18,0,Running Layup Shot,0,-8,-4,True
+Josh Jackson,3,2,49,0,Running Layup Shot,0,5,-1,True
+Josh Jackson,4,10,39,1,Running Layup Shot,0,6,6,True
+Josh Jackson,1,0,50,1,Running Layup Shot,1,9,11,True
+Josh Jackson,2,9,38,0,Running Layup Shot,1,-8,7,True
+Josh Jackson,2,8,17,1,Running Layup Shot,1,9,7,True
+Josh Jackson,1,8,45,1,Running Layup Shot,0,3,-3,True
+Josh Jackson,3,3,38,0,Running Layup Shot,1,-4,10,True
+Josh Jackson,4,1,35,0,Running Layup Shot,0,0,9,True
+Josh Jackson,1,10,41,1,Running Layup Shot,2,10,26,True
+Josh Jackson,3,6,16,1,Running Layup Shot,1,2,14,True
+Josh Jackson,3,6,33,1,Running Layup Shot,0,-2,5,True
+Josh Jackson,4,9,30,1,Running Layup Shot,3,33,17,True
+Josh Jackson,1,0,35,1,Running Layup Shot,2,21,11,True
+Josh Jackson,4,10,37,1,Running Layup Shot,0,-5,1,True
+Josh Jackson,2,1,56,0,Running Layup Shot,3,-23,21,True
+Josh Jackson,1,10,0,1,Running Layup Shot,1,-3,10,True
+Josh Jackson,3,8,52,0,Running Layup Shot,0,3,-1,True
+Josh Jackson,1,6,59,1,Running Layup Shot,1,0,12,True
+Josh Jackson,3,7,33,0,Running Layup Shot,0,9,-2,True
+Josh Jackson,1,0,42,1,Running Layup Shot,4,11,46,True
+Josh Jackson,1,3,13,1,Running Layup Shot,0,-1,-3,True
+Josh Jackson,3,5,45,1,Running Layup Shot,0,1,-5,True
+Josh Jackson,4,4,19,1,Running Layup Shot,0,-7,5,True
+Josh Jackson,2,3,55,1,Running Layup Shot,2,2,20,True
+Josh Jackson,4,9,16,0,Running Layup Shot,0,5,4,True
+Josh Jackson,2,4,33,1,Running Pull-Up Jump Shot,16,87,144,True
+Josh Jackson,3,0,1,0,Running Pull-Up Jump Shot,25,-127,220,False
+Josh Jackson,3,2,47,1,Running Pull-Up Jump Shot,23,-133,188,True
+Josh Jackson,4,8,14,0,Running Pull-Up Jump Shot,17,96,148,True
+Josh Jackson,3,4,4,1,Running Reverse Layup Shot,1,8,17,True
+Josh Jackson,4,5,33,0,Running Reverse Layup Shot,0,0,-7,True
+Josh Jackson,3,3,15,1,Step Back Bank Jump Shot,11,-106,45,True
+Josh Jackson,3,1,15,0,Step Back Bank Jump Shot,11,-112,15,True
+Josh Jackson,4,4,31,0,Step Back Jump shot,12,126,13,True
+Josh Jackson,3,6,2,1,Step Back Jump shot,17,17,171,True
+Josh Jackson,2,9,59,1,Step Back Jump shot,15,-152,-4,True
+Josh Jackson,3,0,6,1,Step Back Jump shot,22,-226,-6,False
+Josh Jackson,3,2,47,0,Step Back Jump shot,20,-119,166,True
+Josh Jackson,3,0,40,0,Step Back Jump shot,17,-100,142,True
+Josh Jackson,4,0,54,0,Step Back Jump shot,21,-7,214,True
+Josh Jackson,1,5,58,1,Step Back Jump shot,18,-119,139,True
+Josh Jackson,3,0,1,1,Step Back Jump shot,16,-157,34,True
+Josh Jackson,4,0,28,0,Step Back Jump shot,25,-96,239,False
+Josh Jackson,4,7,8,0,Step Back Jump shot,25,-2,253,False
+Josh Jackson,4,10,8,0,Step Back Jump shot,20,99,182,True
+Josh Jackson,1,0,44,0,Step Back Jump shot,18,184,10,True
+Josh Jackson,2,2,42,0,Step Back Jump shot,17,-136,111,True
+Josh Jackson,2,9,58,0,Step Back Jump shot,19,-163,106,True
+Josh Jackson,4,7,10,1,Step Back Jump shot,11,-58,100,True
+Josh Jackson,3,8,18,1,Step Back Jump shot,19,-190,61,True
+Josh Jackson,2,7,35,0,Step Back Jump shot,25,12,258,False
+Josh Jackson,2,4,40,0,Step Back Jump shot,25,-201,164,False
+Josh Jackson,4,0,57,0,Step Back Jump shot,17,-62,164,True
+Josh Jackson,4,3,24,0,Step Back Jump shot,20,104,171,True
+Josh Jackson,3,8,50,1,Step Back Jump shot,20,17,206,True
+Josh Jackson,2,2,6,0,Step Back Jump shot,19,20,190,True
+Josh Jackson,2,6,24,0,Step Back Jump shot,22,-93,210,True
+Josh Jackson,1,11,36,0,Step Back Jump shot,12,-127,16,True
+Josh Jackson,4,1,7,0,Step Back Jump shot,17,73,158,True
+Josh Jackson,2,10,2,1,Step Back Jump shot,20,0,202,True
+Josh Jackson,2,0,40,0,Step Back Jump shot,17,-1,173,True
+Josh Jackson,3,7,32,0,Step Back Jump shot,18,-62,172,True
+Josh Jackson,3,0,13,0,Step Back Jump shot,18,109,154,True
+Josh Jackson,3,4,52,0,Step Back Jump shot,14,-70,126,True
+Josh Jackson,2,1,3,1,Step Back Jump shot,20,-70,194,True
+Josh Jackson,3,1,13,1,Step Back Jump shot,17,17,176,True
+Josh Jackson,4,5,32,1,Step Back Jump shot,15,122,95,True
+Josh Jackson,1,0,1,0,Step Back Jump shot,26,18,267,False
+Josh Jackson,1,1,41,1,Step Back Jump shot,25,-99,238,False
+Josh Jackson,2,2,2,0,Step Back Jump shot,25,46,251,False
+Josh Jackson,3,5,59,0,Step Back Jump shot,24,119,214,False
+Josh Jackson,4,8,9,0,Step Back Jump shot,24,-92,230,False
+Josh Jackson,1,1,29,0,Step Back Jump shot,19,-131,147,True
+Josh Jackson,2,9,56,0,Step Back Jump shot,13,111,69,True
+Josh Jackson,3,0,13,0,Step Back Jump shot,13,-33,130,True
+Josh Jackson,4,6,15,0,Step Back Jump shot,18,9,184,True
+Josh Jackson,2,6,40,1,Step Back Jump shot,14,-137,34,True
+Josh Jackson,2,5,25,1,Step Back Jump shot,19,-141,128,True
+Josh Jackson,3,9,55,0,Step Back Jump shot,12,19,124,True
+Josh Jackson,1,11,3,0,Step Back Jump shot,15,-103,117,True
+Josh Jackson,1,2,5,1,Step Back Jump shot,21,27,210,True
+Josh Jackson,1,10,21,1,Step Back Jump shot,14,19,148,True
+Josh Jackson,2,10,30,1,Step Back Jump shot,15,-153,44,True
+Josh Jackson,4,8,16,1,Step Back Jump shot,16,46,158,True
+Josh Jackson,2,2,10,0,Step Back Jump shot,26,76,249,False
+Josh Jackson,1,4,52,1,Step Back Jump shot,11,-113,29,True
+Josh Jackson,2,10,51,1,Step Back Jump shot,13,-132,12,True
+Josh Jackson,2,8,8,0,Step Back Jump shot,17,-81,158,True
+Josh Jackson,3,2,15,0,Step Back Jump shot,10,-32,98,True
+Josh Jackson,4,1,50,1,Step Back Jump shot,19,74,180,True
+Josh Jackson,4,2,12,0,Step Back Jump shot,27,120,249,False
+Josh Jackson,1,5,38,0,Step Back Jump shot,20,86,188,True
+Josh Jackson,2,3,49,1,Step Back Jump shot,15,-6,157,True
+Josh Jackson,4,8,30,1,Tip Dunk Shot,0,0,-6,True
+Josh Jackson,2,3,3,1,Tip Dunk Shot,0,0,-6,True
+Josh Jackson,1,8,30,1,Tip Dunk Shot,0,0,-6,True
+Josh Jackson,4,11,3,1,Tip Dunk Shot,0,0,-6,True
+Josh Jackson,2,7,26,1,Tip Dunk Shot,0,0,-6,True
+Josh Jackson,1,4,7,1,Tip Dunk Shot,0,0,-6,True
+Josh Jackson,2,2,27,0,Tip Layup Shot,0,0,-6,True
+Josh Jackson,3,0,34,0,Tip Layup Shot,0,0,-6,True
+Josh Jackson,2,0,0,1,Tip Layup Shot,2,-25,10,True
+Josh Jackson,4,3,55,1,Tip Layup Shot,0,0,9,True
+Josh Jackson,3,2,47,0,Tip Layup Shot,0,0,-6,True
+Josh Jackson,2,10,53,1,Tip Layup Shot,0,0,-6,True
+Josh Jackson,4,7,13,0,Tip Layup Shot,0,0,-6,True
+Josh Jackson,3,6,6,1,Tip Layup Shot,0,1,6,True
+Josh Jackson,2,10,14,1,Tip Layup Shot,0,0,-6,True
+Josh Jackson,3,8,48,1,Tip Layup Shot,0,0,-6,True
+Josh Jackson,1,9,23,1,Tip Layup Shot,0,0,-6,True
+Josh Jackson,3,4,39,0,Tip Layup Shot,2,-7,26,True
+Josh Jackson,2,9,57,0,Tip Layup Shot,0,0,-6,True
+Josh Jackson,4,8,13,0,Tip Layup Shot,0,0,-6,True
+Josh Jackson,3,3,39,1,Tip Layup Shot,0,0,-6,True
+Josh Jackson,4,5,7,0,Tip Layup Shot,0,0,-6,True
+Josh Jackson,1,0,47,1,Tip Layup Shot,0,0,-6,True
+Josh Jackson,3,0,36,0,Tip Layup Shot,0,6,4,True
+Josh Jackson,4,5,11,1,Tip Layup Shot,0,2,5,True
+Josh Jackson,3,2,47,0,Tip Layup Shot,0,0,-6,True
+Josh Jackson,1,3,43,0,Tip Layup Shot,0,0,-6,True
+Josh Jackson,4,5,7,0,Tip Layup Shot,0,0,-6,True
+Josh Jackson,4,1,51,0,Turnaround Bank Hook Shot,6,58,28,True
+Josh Jackson,2,9,14,1,Turnaround Fadeaway Bank Jump Shot,6,62,17,True
+Josh Jackson,4,6,30,0,Turnaround Fadeaway Bank Jump Shot,14,107,103,True
+Josh Jackson,3,10,36,1,Turnaround Fadeaway Bank Jump Shot,5,56,21,True
+Josh Jackson,2,1,15,0,Turnaround Fadeaway Bank Jump Shot,9,82,52,True
+Josh Jackson,1,11,22,0,Turnaround Fadeaway Bank Jump Shot,10,-77,75,True
+Josh Jackson,1,9,40,0,Turnaround Fadeaway shot,12,-39,120,True
+Josh Jackson,2,6,2,0,Turnaround Fadeaway shot,12,-127,0,True
+Josh Jackson,3,4,7,0,Turnaround Hook Shot,8,-67,48,True
+Josh Jackson,1,3,7,1,Turnaround Hook Shot,6,-55,27,True
+Josh Jackson,2,1,28,1,Turnaround Hook Shot,9,-67,69,True
+Josh Jackson,2,8,4,1,Turnaround Hook Shot,9,-58,79,True
+Josh Jackson,1,2,22,0,Turnaround Hook Shot,9,88,37,True
+Josh Jackson,1,3,24,0,Turnaround Hook Shot,7,-41,58,True
+Josh Jackson,2,4,52,1,Turnaround Hook Shot,4,-29,28,True
+Josh Jackson,4,0,36,1,Turnaround Hook Shot,5,-55,7,True
+Josh Jackson,4,8,35,1,Turnaround Hook Shot,4,-41,17,True
+Josh Jackson,4,10,8,1,Turnaround Hook Shot,7,66,34,True
+Josh Jackson,3,3,45,0,Turnaround Hook Shot,12,60,109,True
+Josh Jackson,1,1,5,1,Turnaround Hook Shot,2,2,27,True
+Josh Jackson,3,11,9,0,Turnaround Jump Shot,5,51,27,True
+Josh Jackson,1,0,45,0,Turnaround Jump Shot,21,179,111,True
+Josh Jackson,2,4,18,0,Turnaround Jump Shot,14,-67,128,True
+Josh Jackson,2,7,42,0,Turnaround Jump Shot,14,145,26,True
+Josh Jackson,4,4,58,1,Turnaround Jump Shot,10,5,106,True
+Josh Jackson,1,8,45,0,Turnaround Jump Shot,5,-57,11,True
+Josh Jackson,1,9,46,0,Turnaround Jump Shot,6,-43,44,True
+Josh Jackson,1,9,38,0,Turnaround Jump Shot,17,-112,136,True
+Josh Jackson,3,4,3,0,Turnaround Jump Shot,11,-51,104,True
+Josh Jackson,3,9,4,0,Turnaround Jump Shot,12,14,122,True
+Josh Jackson,1,3,52,0,Turnaround Jump Shot,13,-37,135,True
+Josh Jackson,3,4,21,0,Turnaround Jump Shot,11,-46,101,True

@@ -1,0 +1,98 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Brandan Wright,3,4,11,1,Alley Oop Dunk Shot,2,11,17,True
+Brandan Wright,2,11,7,1,Alley Oop Dunk Shot,1,5,10,True
+Brandan Wright,1,1,10,1,Alley Oop Dunk Shot,0,1,-5,True
+Brandan Wright,2,1,42,1,Alley Oop Dunk Shot,0,-5,6,True
+Brandan Wright,4,8,26,1,Alley Oop Dunk Shot,0,6,4,True
+Brandan Wright,2,11,26,1,Alley Oop Dunk Shot,1,-3,15,True
+Brandan Wright,3,1,5,1,Alley Oop Dunk Shot,0,-3,9,True
+Brandan Wright,2,1,21,1,Alley Oop Dunk Shot,1,7,13,True
+Brandan Wright,4,11,28,1,Alley Oop Dunk Shot,1,9,17,True
+Brandan Wright,3,3,41,0,Alley Oop Layup shot,2,-18,17,True
+Brandan Wright,3,1,44,0,Alley Oop Layup shot,0,0,7,True
+Brandan Wright,1,3,6,0,Cutting Dunk Shot,0,-3,-6,True
+Brandan Wright,2,9,54,1,Cutting Dunk Shot,1,7,8,True
+Brandan Wright,3,1,33,1,Cutting Dunk Shot,0,-6,4,True
+Brandan Wright,4,8,28,1,Cutting Dunk Shot,0,-7,-3,True
+Brandan Wright,2,10,57,1,Cutting Dunk Shot,1,0,14,True
+Brandan Wright,4,0,43,0,Cutting Dunk Shot,1,6,12,True
+Brandan Wright,1,0,48,0,Cutting Dunk Shot,1,5,16,True
+Brandan Wright,1,4,51,1,Cutting Dunk Shot,1,7,8,True
+Brandan Wright,1,5,18,1,Cutting Finger Roll Layup Shot,1,5,10,True
+Brandan Wright,2,11,31,1,Cutting Layup Shot,2,-3,22,True
+Brandan Wright,2,1,37,1,Cutting Layup Shot,2,-13,21,True
+Brandan Wright,1,7,5,1,Cutting Layup Shot,1,5,10,True
+Brandan Wright,3,8,31,1,Cutting Layup Shot,1,-2,11,True
+Brandan Wright,1,1,46,0,Cutting Layup Shot,4,-9,48,True
+Brandan Wright,3,4,39,0,Cutting Layup Shot,4,9,42,True
+Brandan Wright,2,11,13,1,Cutting Layup Shot,0,2,9,True
+Brandan Wright,3,4,29,1,Cutting Layup Shot,1,6,8,True
+Brandan Wright,1,1,8,1,Cutting Layup Shot,0,6,5,True
+Brandan Wright,4,9,9,1,Driving Dunk Shot,1,2,16,True
+Brandan Wright,3,0,24,1,Driving Finger Roll Layup Shot,2,-18,10,True
+Brandan Wright,4,7,41,0,Driving Floating Jump Shot,2,3,22,True
+Brandan Wright,2,10,55,1,Driving Floating Jump Shot,11,83,78,True
+Brandan Wright,3,3,45,0,Driving Layup Shot,2,3,27,True
+Brandan Wright,1,1,36,1,Dunk Shot,2,-2,20,True
+Brandan Wright,1,1,0,1,Dunk Shot,1,7,9,True
+Brandan Wright,4,7,27,1,Dunk Shot,0,2,4,True
+Brandan Wright,2,10,19,0,Dunk Shot,0,0,6,True
+Brandan Wright,1,0,16,0,Finger Roll Layup Shot,1,8,14,True
+Brandan Wright,4,1,7,0,Floating Jump shot,8,-25,82,True
+Brandan Wright,4,7,54,1,Floating Jump shot,6,63,2,True
+Brandan Wright,1,8,0,0,Floating Jump shot,11,50,105,True
+Brandan Wright,3,0,26,0,Floating Jump shot,8,-8,83,True
+Brandan Wright,4,0,33,1,Floating Jump shot,11,-32,111,True
+Brandan Wright,3,0,32,1,Hook Shot,11,-46,101,True
+Brandan Wright,3,2,48,0,Hook Shot,6,36,57,True
+Brandan Wright,4,7,19,0,Hook Shot,12,-35,121,True
+Brandan Wright,4,8,20,0,Hook Shot,0,0,2,True
+Brandan Wright,3,1,22,0,Hook Shot,7,3,78,True
+Brandan Wright,3,2,29,0,Hook Shot,13,-56,122,True
+Brandan Wright,2,0,52,0,Hook Shot,13,-62,116,True
+Brandan Wright,2,11,29,0,Hook Shot,11,105,55,True
+Brandan Wright,1,6,48,0,Hook Shot,1,7,14,True
+Brandan Wright,3,5,51,0,Hook Shot,7,-3,75,True
+Brandan Wright,2,9,44,0,Hook Shot,8,-14,83,True
+Brandan Wright,2,3,1,1,Hook Shot,9,-92,16,True
+Brandan Wright,2,8,42,1,Hook Shot,8,45,68,True
+Brandan Wright,4,2,57,0,Hook Shot,10,-99,37,True
+Brandan Wright,2,0,13,0,Jump Shot,16,168,-15,True
+Brandan Wright,1,0,0,0,Jump Shot,7,-43,64,True
+Brandan Wright,3,0,43,1,Jump Shot,17,1,177,True
+Brandan Wright,2,11,40,0,Layup Shot,1,6,15,True
+Brandan Wright,2,7,54,1,Layup Shot,1,-2,14,True
+Brandan Wright,1,4,25,0,Layup Shot,3,23,30,True
+Brandan Wright,3,1,5,1,Layup Shot,1,-11,7,True
+Brandan Wright,2,1,23,0,Layup Shot,1,-16,10,True
+Brandan Wright,1,1,28,0,Pullup Jump shot,15,4,153,True
+Brandan Wright,1,0,15,0,Putback Dunk Shot,0,0,-6,True
+Brandan Wright,3,0,19,1,Putback Dunk Shot,0,-6,1,True
+Brandan Wright,1,4,22,1,Putback Layup Shot,1,0,15,True
+Brandan Wright,1,1,42,1,Putback Layup Shot,0,-3,3,True
+Brandan Wright,2,5,28,1,Putback Layup Shot,2,-2,23,True
+Brandan Wright,3,2,53,1,Reverse Layup Shot,1,-9,7,True
+Brandan Wright,3,1,4,0,Reverse Layup Shot,1,-7,12,True
+Brandan Wright,2,2,48,1,Reverse Layup Shot,2,-6,21,True
+Brandan Wright,4,6,52,1,Running Alley Oop Dunk Shot,0,-5,2,True
+Brandan Wright,2,0,1,1,Running Dunk Shot,0,6,4,True
+Brandan Wright,3,3,32,1,Running Dunk Shot,1,-2,12,True
+Brandan Wright,1,0,1,1,Running Layup Shot,1,-14,13,True
+Brandan Wright,2,8,23,1,Running Layup Shot,1,-2,15,True
+Brandan Wright,4,0,41,0,Running Layup Shot,1,-1,10,True
+Brandan Wright,1,0,38,1,Running Layup Shot,0,1,-2,True
+Brandan Wright,1,4,23,1,Running Layup Shot,0,-4,0,True
+Brandan Wright,2,1,48,1,Tip Layup Shot,0,0,-6,True
+Brandan Wright,1,0,12,0,Tip Layup Shot,0,0,-6,True
+Brandan Wright,1,2,15,0,Tip Layup Shot,0,0,-6,True
+Brandan Wright,4,5,48,1,Tip Layup Shot,0,0,-6,True
+Brandan Wright,2,11,4,0,Tip Layup Shot,0,0,-6,True
+Brandan Wright,4,10,52,0,Tip Layup Shot,0,0,-6,True
+Brandan Wright,2,8,55,1,Tip Layup Shot,0,0,-6,True
+Brandan Wright,4,9,18,1,Tip Layup Shot,0,0,-6,True
+Brandan Wright,1,0,46,0,Turnaround Fadeaway shot,11,109,21,True
+Brandan Wright,2,11,15,0,Turnaround Hook Shot,8,43,75,True
+Brandan Wright,2,9,3,1,Turnaround Hook Shot,3,-18,30,True
+Brandan Wright,1,3,25,0,Turnaround Hook Shot,6,-17,67,True
+Brandan Wright,1,1,8,1,Turnaround Hook Shot,5,-3,52,True
+Brandan Wright,1,2,12,1,Turnaround Hook Shot,12,-44,112,True

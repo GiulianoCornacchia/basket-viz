@@ -1,0 +1,12 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Daniel Hamilton,4,3,13,0,Driving Layup Shot,2,20,13,True
+Daniel Hamilton,4,0,39,1,Driving Layup Shot,1,-2,13,True
+Daniel Hamilton,4,10,20,0,Driving Layup Shot,4,-10,41,True
+Daniel Hamilton,4,0,30,0,Jump Shot,25,185,175,False
+Daniel Hamilton,4,1,34,1,Jump Shot,28,-53,279,False
+Daniel Hamilton,4,3,36,1,Jump Shot,23,-234,26,False
+Daniel Hamilton,4,7,47,0,Jump Shot,23,-234,9,False
+Daniel Hamilton,4,0,58,0,Jump Shot,23,-228,59,False
+Daniel Hamilton,4,3,41,1,Pullup Jump shot,11,1,113,True
+Daniel Hamilton,3,0,26,1,Running Layup Shot,1,2,15,True
+Daniel Hamilton,4,1,28,0,Step Back Jump shot,18,124,137,True

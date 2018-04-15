@@ -1,0 +1,74 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Glenn Robinson III,1,0,28,1,Alley Oop Layup shot,0,3,1,True
+Glenn Robinson III,2,11,47,1,Alley Oop Layup shot,0,8,-4,True
+Glenn Robinson III,2,6,24,1,Alley Oop Layup shot,0,6,4,True
+Glenn Robinson III,3,4,47,1,Cutting Dunk Shot,1,-6,16,True
+Glenn Robinson III,3,0,34,0,Driving Floating Jump Shot,7,-44,55,True
+Glenn Robinson III,1,3,3,1,Driving Floating Jump Shot,8,-51,63,True
+Glenn Robinson III,2,8,42,0,Driving Layup Shot,1,-11,1,True
+Glenn Robinson III,4,1,58,1,Driving Layup Shot,3,6,33,True
+Glenn Robinson III,3,2,3,0,Driving Layup Shot,5,-8,55,True
+Glenn Robinson III,3,2,51,1,Dunk Shot,2,-6,27,True
+Glenn Robinson III,1,1,32,1,Fadeaway Jump Shot,17,157,68,True
+Glenn Robinson III,2,8,51,0,Fadeaway Jump Shot,7,-67,33,True
+Glenn Robinson III,4,8,20,1,Jump Shot,23,231,11,False
+Glenn Robinson III,1,3,32,0,Jump Shot,23,234,4,False
+Glenn Robinson III,4,8,56,1,Jump Shot,25,-125,225,False
+Glenn Robinson III,4,0,40,0,Jump Shot,24,201,147,False
+Glenn Robinson III,1,0,2,1,Jump Shot,22,-220,-13,False
+Glenn Robinson III,4,3,6,0,Jump Shot,25,231,115,False
+Glenn Robinson III,2,11,43,0,Jump Shot,24,-196,155,False
+Glenn Robinson III,3,2,6,0,Jump Shot,23,-230,-6,False
+Glenn Robinson III,3,1,18,0,Jump Shot,27,-183,200,False
+Glenn Robinson III,3,6,8,0,Jump Shot,25,163,196,False
+Glenn Robinson III,4,7,30,1,Jump Shot,28,187,211,False
+Glenn Robinson III,4,11,33,1,Jump Shot,23,-230,-10,False
+Glenn Robinson III,3,6,17,0,Jump Shot,19,-6,195,True
+Glenn Robinson III,3,11,5,0,Jump Shot,23,234,22,False
+Glenn Robinson III,3,9,7,1,Jump Shot,23,229,66,False
+Glenn Robinson III,2,8,50,1,Jump Shot,23,231,15,False
+Glenn Robinson III,4,5,54,0,Jump Shot,23,-228,34,False
+Glenn Robinson III,2,9,54,1,Jump Shot,23,230,14,False
+Glenn Robinson III,2,11,14,1,Jump Shot,19,-109,158,True
+Glenn Robinson III,4,6,25,0,Jump Shot,25,-218,131,False
+Glenn Robinson III,2,8,23,1,Jump Shot,25,96,239,False
+Glenn Robinson III,2,11,24,1,Jump Shot,23,231,16,False
+Glenn Robinson III,2,11,44,1,Jump Shot,22,222,-1,False
+Glenn Robinson III,3,0,22,1,Jump Shot,22,-225,-22,False
+Glenn Robinson III,4,0,58,0,Jump Shot,26,-210,154,False
+Glenn Robinson III,2,10,31,0,Jump Shot,26,-167,205,False
+Glenn Robinson III,2,11,42,1,Jump Shot,23,-222,72,False
+Glenn Robinson III,1,3,6,0,Jump Shot,28,56,276,False
+Glenn Robinson III,1,0,1,0,Jump Shot,4,39,25,True
+Glenn Robinson III,2,10,11,0,Jump Shot,24,-78,231,False
+Glenn Robinson III,3,3,55,0,Jump Shot,22,226,33,False
+Glenn Robinson III,1,2,38,0,Jump Shot,19,-160,103,True
+Glenn Robinson III,4,3,1,0,Layup Shot,1,7,11,True
+Glenn Robinson III,1,1,16,1,Layup Shot,1,-9,16,True
+Glenn Robinson III,1,1,44,0,Layup Shot,2,-6,24,True
+Glenn Robinson III,2,8,29,0,Layup Shot,2,3,29,True
+Glenn Robinson III,3,0,59,0,Layup Shot,1,-15,13,True
+Glenn Robinson III,4,7,52,0,Layup Shot,3,-32,-2,True
+Glenn Robinson III,4,8,28,0,Pullup Jump shot,20,140,147,True
+Glenn Robinson III,3,10,28,0,Pullup Jump shot,13,-69,116,True
+Glenn Robinson III,1,1,6,0,Pullup Jump shot,18,-89,164,True
+Glenn Robinson III,3,0,52,0,Pullup Jump shot,19,-132,139,True
+Glenn Robinson III,1,1,11,1,Pullup Jump shot,20,89,187,True
+Glenn Robinson III,1,2,30,0,Pullup Jump shot,18,-92,160,True
+Glenn Robinson III,3,2,4,0,Pullup Jump shot,18,92,162,True
+Glenn Robinson III,4,9,40,0,Pullup Jump shot,26,156,216,False
+Glenn Robinson III,2,9,40,0,Pullup Jump shot,12,-38,124,True
+Glenn Robinson III,3,1,18,0,Pullup Jump shot,18,90,162,True
+Glenn Robinson III,3,0,29,1,Putback Dunk Shot,0,0,-6,True
+Glenn Robinson III,2,7,52,1,Putback Layup Shot,5,49,16,True
+Glenn Robinson III,1,1,10,0,Running Jump Shot,10,49,88,True
+Glenn Robinson III,2,10,57,0,Running Jump Shot,4,16,37,True
+Glenn Robinson III,4,0,38,0,Running Jump Shot,11,-78,80,True
+Glenn Robinson III,4,8,31,0,Running Layup Shot,3,-30,22,True
+Glenn Robinson III,3,1,19,0,Step Back Jump shot,24,225,105,False
+Glenn Robinson III,1,3,7,0,Step Back Jump shot,19,-97,174,True
+Glenn Robinson III,4,7,3,0,Step Back Jump shot,19,-120,148,True
+Glenn Robinson III,2,10,47,1,Tip Layup Shot,0,0,-6,True
+Glenn Robinson III,2,0,53,1,Turnaround Fadeaway Bank Jump Shot,3,20,34,True
+Glenn Robinson III,1,2,4,1,Turnaround Fadeaway shot,11,107,35,True
+Glenn Robinson III,3,2,25,1,Turnaround Jump Shot,14,55,131,True

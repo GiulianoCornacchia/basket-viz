@@ -1,0 +1,707 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Justin Holiday,2,3,25,1,Cutting Dunk Shot,0,5,8,True
+Justin Holiday,2,0,50,1,Cutting Dunk Shot,0,3,-4,True
+Justin Holiday,3,1,17,1,Cutting Dunk Shot,0,-1,4,True
+Justin Holiday,1,1,1,1,Cutting Dunk Shot,0,6,-1,True
+Justin Holiday,1,10,6,1,Cutting Dunk Shot,0,3,5,True
+Justin Holiday,1,5,3,1,Cutting Dunk Shot,0,5,0,True
+Justin Holiday,1,10,33,1,Cutting Finger Roll Layup Shot,2,24,4,True
+Justin Holiday,1,10,11,1,Cutting Layup Shot,1,-14,6,True
+Justin Holiday,3,2,29,1,Cutting Layup Shot,1,11,7,True
+Justin Holiday,2,0,51,1,Cutting Layup Shot,2,0,25,True
+Justin Holiday,3,10,59,0,Cutting Layup Shot,3,21,22,True
+Justin Holiday,4,6,5,1,Cutting Layup Shot,0,-3,6,True
+Justin Holiday,2,3,35,1,Cutting Layup Shot,2,-17,20,True
+Justin Holiday,2,0,52,1,Driving Dunk Shot,1,5,9,True
+Justin Holiday,1,3,19,1,Driving Dunk Shot,1,-5,11,True
+Justin Holiday,1,4,42,1,Driving Dunk Shot,1,16,-5,True
+Justin Holiday,3,6,21,1,Driving Dunk Shot,0,-2,7,True
+Justin Holiday,4,1,51,1,Driving Dunk Shot,1,-2,12,True
+Justin Holiday,3,9,27,0,Driving Finger Roll Layup Shot,2,4,21,True
+Justin Holiday,1,6,39,0,Driving Finger Roll Layup Shot,7,52,56,True
+Justin Holiday,4,4,26,0,Driving Finger Roll Layup Shot,8,-6,85,True
+Justin Holiday,3,8,43,0,Driving Finger Roll Layup Shot,6,-12,59,True
+Justin Holiday,1,8,39,1,Driving Floating Bank Jump Shot,13,120,62,True
+Justin Holiday,2,1,13,1,Driving Floating Bank Jump Shot,8,22,81,True
+Justin Holiday,3,7,50,0,Driving Floating Jump Shot,13,53,125,True
+Justin Holiday,3,2,25,0,Driving Floating Jump Shot,12,-6,122,True
+Justin Holiday,3,7,57,0,Driving Floating Jump Shot,17,-96,152,True
+Justin Holiday,3,5,14,1,Driving Floating Jump Shot,6,-3,69,True
+Justin Holiday,1,0,0,0,Driving Floating Jump Shot,20,120,167,True
+Justin Holiday,1,3,37,1,Driving Floating Jump Shot,5,8,57,True
+Justin Holiday,2,4,1,0,Driving Floating Jump Shot,4,36,29,True
+Justin Holiday,1,9,41,0,Driving Floating Jump Shot,9,-90,3,True
+Justin Holiday,2,0,0,0,Driving Floating Jump Shot,7,70,8,True
+Justin Holiday,3,4,17,1,Driving Floating Jump Shot,6,62,5,True
+Justin Holiday,3,3,31,0,Driving Floating Jump Shot,11,-7,112,True
+Justin Holiday,3,2,25,1,Driving Hook Shot,12,5,121,True
+Justin Holiday,3,5,59,1,Driving Layup Shot,5,43,27,True
+Justin Holiday,3,7,32,0,Driving Layup Shot,1,14,5,True
+Justin Holiday,2,6,8,0,Driving Layup Shot,2,3,21,True
+Justin Holiday,4,3,58,1,Driving Layup Shot,1,-17,10,True
+Justin Holiday,3,1,42,0,Driving Layup Shot,1,11,13,True
+Justin Holiday,2,3,4,0,Driving Layup Shot,7,61,43,True
+Justin Holiday,1,6,54,1,Driving Layup Shot,1,14,-1,True
+Justin Holiday,1,1,37,1,Driving Layup Shot,2,-14,18,True
+Justin Holiday,2,7,25,0,Driving Layup Shot,2,-13,22,True
+Justin Holiday,4,0,49,0,Driving Layup Shot,3,9,34,True
+Justin Holiday,3,3,33,1,Driving Layup Shot,3,33,4,True
+Justin Holiday,1,11,45,0,Driving Layup Shot,1,9,17,True
+Justin Holiday,3,9,57,1,Driving Layup Shot,0,5,0,True
+Justin Holiday,1,5,19,0,Driving Layup Shot,1,-9,17,True
+Justin Holiday,1,5,6,1,Driving Layup Shot,1,2,11,True
+Justin Holiday,1,4,14,1,Driving Layup Shot,1,14,13,True
+Justin Holiday,4,2,44,0,Driving Layup Shot,2,3,26,True
+Justin Holiday,3,5,31,0,Driving Layup Shot,3,0,37,True
+Justin Holiday,3,8,29,0,Driving Layup Shot,1,18,4,True
+Justin Holiday,3,10,1,0,Driving Layup Shot,1,12,5,True
+Justin Holiday,3,2,59,0,Driving Layup Shot,1,14,-1,True
+Justin Holiday,3,2,45,0,Driving Layup Shot,1,15,5,True
+Justin Holiday,2,1,27,0,Driving Layup Shot,1,-4,11,True
+Justin Holiday,2,0,49,1,Driving Layup Shot,2,-20,8,True
+Justin Holiday,5,0,6,1,Driving Layup Shot,1,13,7,True
+Justin Holiday,5,1,54,0,Driving Layup Shot,6,68,10,True
+Justin Holiday,4,2,21,1,Driving Layup Shot,0,8,3,True
+Justin Holiday,3,3,22,0,Driving Layup Shot,2,14,21,True
+Justin Holiday,3,5,32,0,Driving Layup Shot,5,44,36,True
+Justin Holiday,1,10,50,0,Driving Layup Shot,1,-13,8,True
+Justin Holiday,1,9,45,0,Driving Layup Shot,1,-9,10,True
+Justin Holiday,4,6,1,0,Driving Layup Shot,7,40,63,True
+Justin Holiday,3,3,21,1,Driving Layup Shot,1,16,0,True
+Justin Holiday,1,11,12,1,Driving Layup Shot,1,2,15,True
+Justin Holiday,1,8,26,0,Driving Layup Shot,1,15,7,True
+Justin Holiday,6,3,17,0,Driving Reverse Layup Shot,1,13,1,True
+Justin Holiday,3,3,1,1,Dunk Shot,0,-2,4,True
+Justin Holiday,2,0,58,1,Dunk Shot,0,-3,6,True
+Justin Holiday,1,3,27,1,Dunk Shot,1,-8,10,True
+Justin Holiday,4,2,40,0,Fadeaway Jump Shot,10,-9,100,True
+Justin Holiday,4,4,29,0,Fadeaway Jump Shot,16,161,33,True
+Justin Holiday,4,4,47,1,Fadeaway Jump Shot,17,-125,117,True
+Justin Holiday,3,1,44,1,Fadeaway Jump Shot,17,-32,175,True
+Justin Holiday,4,1,27,0,Fadeaway Jump Shot,8,76,41,True
+Justin Holiday,1,1,48,0,Floating Jump shot,6,5,62,True
+Justin Holiday,1,8,19,0,Floating Jump shot,12,126,29,True
+Justin Holiday,1,2,58,1,Floating Jump shot,11,-30,106,True
+Justin Holiday,3,1,19,0,Floating Jump shot,8,-23,78,True
+Justin Holiday,3,5,51,0,Floating Jump shot,10,96,37,True
+Justin Holiday,1,8,39,1,Floating Jump shot,5,30,45,True
+Justin Holiday,1,9,12,1,Floating Jump shot,5,51,21,True
+Justin Holiday,4,1,36,0,Floating Jump shot,12,-5,122,True
+Justin Holiday,4,8,7,1,Floating Jump shot,8,17,85,True
+Justin Holiday,3,5,49,0,Hook Shot,3,-33,-5,True
+Justin Holiday,3,3,54,0,Jump Bank Shot,15,27,149,True
+Justin Holiday,3,0,0,1,Jump Bank Shot,31,86,307,False
+Justin Holiday,2,3,12,1,Jump Bank Shot,25,-219,121,False
+Justin Holiday,3,0,28,1,Jump Bank Shot,17,114,130,True
+Justin Holiday,3,4,1,1,Jump Bank Shot,6,59,25,True
+Justin Holiday,4,2,12,1,Jump Bank Shot,4,-36,25,True
+Justin Holiday,3,3,55,0,Jump Bank Shot,4,0,47,True
+Justin Holiday,3,2,34,1,Jump Shot,25,-43,252,False
+Justin Holiday,1,8,5,0,Jump Shot,25,-60,249,False
+Justin Holiday,1,4,0,1,Jump Shot,24,204,134,False
+Justin Holiday,3,6,25,1,Jump Shot,23,-230,8,False
+Justin Holiday,1,11,39,1,Jump Shot,23,-231,8,False
+Justin Holiday,1,0,44,1,Jump Shot,19,-52,189,True
+Justin Holiday,1,9,45,1,Jump Shot,25,165,190,False
+Justin Holiday,3,1,40,0,Jump Shot,25,17,251,False
+Justin Holiday,1,9,8,0,Jump Shot,17,75,155,True
+Justin Holiday,4,4,15,0,Jump Shot,25,217,132,False
+Justin Holiday,1,10,5,0,Jump Shot,22,-226,13,False
+Justin Holiday,3,4,20,1,Jump Shot,22,-225,0,False
+Justin Holiday,3,9,37,0,Jump Shot,25,225,120,False
+Justin Holiday,3,2,58,0,Jump Shot,23,234,5,False
+Justin Holiday,4,1,9,0,Jump Shot,24,-218,120,False
+Justin Holiday,4,3,22,0,Jump Shot,23,232,57,False
+Justin Holiday,2,4,42,0,Jump Shot,25,-72,248,False
+Justin Holiday,1,4,28,1,Jump Shot,26,30,260,False
+Justin Holiday,1,11,42,0,Jump Shot,23,230,16,False
+Justin Holiday,2,3,52,0,Jump Shot,22,-222,-2,False
+Justin Holiday,1,6,51,0,Jump Shot,24,202,147,False
+Justin Holiday,3,10,9,1,Jump Shot,23,226,48,False
+Justin Holiday,1,3,5,1,Jump Shot,25,137,211,False
+Justin Holiday,3,2,54,0,Jump Shot,24,158,188,False
+Justin Holiday,3,7,43,0,Jump Shot,24,218,115,False
+Justin Holiday,1,9,35,0,Jump Shot,26,104,243,False
+Justin Holiday,3,4,43,1,Jump Shot,22,-229,-13,False
+Justin Holiday,2,4,21,0,Jump Shot,20,164,121,True
+Justin Holiday,3,0,4,1,Jump Shot,22,226,-6,False
+Justin Holiday,3,7,33,0,Jump Shot,25,74,244,False
+Justin Holiday,2,3,25,1,Jump Shot,23,239,8,False
+Justin Holiday,3,0,0,0,Jump Shot,34,-73,338,False
+Justin Holiday,1,9,14,0,Jump Shot,21,179,121,True
+Justin Holiday,1,2,3,0,Jump Shot,23,-230,-13,False
+Justin Holiday,3,11,52,0,Jump Shot,25,25,254,False
+Justin Holiday,3,10,19,1,Jump Shot,24,-242,-22,False
+Justin Holiday,4,7,47,0,Jump Shot,12,127,16,True
+Justin Holiday,2,0,59,0,Jump Shot,23,230,4,False
+Justin Holiday,2,4,59,1,Jump Shot,24,-98,227,False
+Justin Holiday,2,0,1,0,Jump Shot,24,-127,214,False
+Justin Holiday,3,7,26,0,Jump Shot,27,-89,255,False
+Justin Holiday,2,0,12,0,Jump Shot,27,53,268,False
+Justin Holiday,1,5,26,0,Jump Shot,25,-49,246,False
+Justin Holiday,1,9,14,0,Jump Shot,11,74,94,True
+Justin Holiday,4,4,2,1,Jump Shot,25,174,192,False
+Justin Holiday,2,0,0,0,Jump Shot,17,-172,42,True
+Justin Holiday,4,3,31,0,Jump Shot,25,164,200,False
+Justin Holiday,1,1,42,0,Jump Shot,26,-9,260,False
+Justin Holiday,3,10,44,0,Jump Shot,25,-11,256,False
+Justin Holiday,3,5,42,0,Jump Shot,25,87,237,False
+Justin Holiday,1,2,36,0,Jump Shot,23,237,10,False
+Justin Holiday,1,6,36,0,Jump Shot,23,234,24,False
+Justin Holiday,3,2,54,1,Jump Shot,25,18,257,False
+Justin Holiday,1,0,1,0,Jump Shot,48,-152,465,False
+Justin Holiday,3,1,48,1,Jump Shot,23,-196,122,True
+Justin Holiday,1,9,52,0,Jump Shot,22,228,14,False
+Justin Holiday,4,2,34,0,Jump Shot,25,75,243,False
+Justin Holiday,3,5,45,0,Jump Shot,13,11,135,True
+Justin Holiday,4,1,16,1,Jump Shot,26,159,215,False
+Justin Holiday,4,2,49,1,Jump Shot,24,-139,205,False
+Justin Holiday,1,7,52,0,Jump Shot,20,-204,31,True
+Justin Holiday,1,7,25,1,Jump Shot,22,-221,-13,False
+Justin Holiday,2,3,32,0,Jump Shot,23,232,34,False
+Justin Holiday,4,2,16,0,Jump Shot,25,198,165,False
+Justin Holiday,1,9,29,0,Jump Shot,23,234,-2,False
+Justin Holiday,3,4,5,0,Jump Shot,24,89,228,False
+Justin Holiday,1,0,29,1,Jump Shot,25,70,241,False
+Justin Holiday,4,0,50,0,Jump Shot,22,226,-6,False
+Justin Holiday,3,6,56,0,Jump Shot,25,-95,239,False
+Justin Holiday,2,1,22,0,Jump Shot,7,61,48,True
+Justin Holiday,2,1,13,0,Jump Shot,13,-36,125,True
+Justin Holiday,1,4,11,1,Jump Shot,22,-223,31,False
+Justin Holiday,2,4,46,0,Jump Shot,21,-195,88,True
+Justin Holiday,3,8,35,0,Jump Shot,16,44,162,True
+Justin Holiday,3,3,53,0,Jump Shot,25,-150,207,False
+Justin Holiday,4,5,0,0,Jump Shot,22,-229,-3,False
+Justin Holiday,2,0,57,1,Jump Shot,25,37,256,False
+Justin Holiday,1,2,33,1,Jump Shot,22,228,8,False
+Justin Holiday,4,11,24,1,Jump Shot,25,-215,128,False
+Justin Holiday,1,8,53,1,Jump Shot,24,237,41,False
+Justin Holiday,1,5,18,1,Jump Shot,23,-228,56,False
+Justin Holiday,3,6,0,0,Jump Shot,22,221,20,False
+Justin Holiday,1,9,5,0,Jump Shot,22,-225,9,False
+Justin Holiday,1,3,52,0,Jump Shot,24,230,73,False
+Justin Holiday,1,7,4,1,Jump Shot,24,-19,247,False
+Justin Holiday,3,6,36,0,Jump Shot,24,119,219,False
+Justin Holiday,4,2,8,0,Jump Shot,25,95,236,False
+Justin Holiday,2,3,17,0,Jump Shot,26,-137,226,False
+Justin Holiday,3,2,47,0,Jump Shot,25,-131,213,False
+Justin Holiday,1,9,46,0,Jump Shot,25,15,254,False
+Justin Holiday,1,5,45,1,Jump Shot,21,-62,211,True
+Justin Holiday,3,7,10,1,Jump Shot,2,27,6,True
+Justin Holiday,3,8,19,0,Jump Shot,25,-36,250,False
+Justin Holiday,3,6,30,1,Jump Shot,24,234,77,False
+Justin Holiday,4,5,59,0,Jump Shot,25,169,192,False
+Justin Holiday,3,10,2,0,Jump Shot,22,228,21,False
+Justin Holiday,4,1,6,0,Jump Shot,23,225,64,False
+Justin Holiday,2,1,54,0,Jump Shot,19,-16,193,True
+Justin Holiday,3,4,16,0,Jump Shot,20,176,99,True
+Justin Holiday,4,2,1,0,Jump Shot,23,-230,15,False
+Justin Holiday,3,3,41,1,Jump Shot,24,225,99,False
+Justin Holiday,1,6,51,0,Jump Shot,26,112,235,False
+Justin Holiday,2,1,43,1,Jump Shot,25,-89,237,False
+Justin Holiday,3,0,0,0,Jump Shot,5,8,59,True
+Justin Holiday,4,11,48,0,Jump Shot,25,-27,249,False
+Justin Holiday,2,6,47,0,Jump Shot,12,88,93,True
+Justin Holiday,2,4,4,0,Jump Shot,24,-222,114,False
+Justin Holiday,4,6,43,1,Jump Shot,25,129,217,False
+Justin Holiday,2,0,43,1,Jump Shot,24,-85,230,False
+Justin Holiday,3,10,11,0,Jump Shot,25,-33,249,False
+Justin Holiday,1,8,0,0,Jump Shot,25,1,253,False
+Justin Holiday,2,5,14,0,Jump Shot,20,206,-27,True
+Justin Holiday,1,2,52,1,Jump Shot,24,-97,222,False
+Justin Holiday,1,7,6,1,Jump Shot,24,114,219,False
+Justin Holiday,1,6,19,0,Jump Shot,26,123,235,False
+Justin Holiday,2,4,20,0,Jump Shot,23,-230,34,False
+Justin Holiday,2,3,33,1,Jump Shot,22,-229,20,False
+Justin Holiday,3,8,57,1,Jump Shot,25,-15,250,False
+Justin Holiday,2,0,12,1,Jump Shot,25,119,221,False
+Justin Holiday,2,1,16,0,Jump Shot,24,105,225,False
+Justin Holiday,4,2,10,1,Jump Shot,24,121,215,False
+Justin Holiday,1,7,4,0,Jump Shot,23,230,-1,False
+Justin Holiday,4,0,57,0,Jump Shot,28,82,269,False
+Justin Holiday,3,11,8,0,Jump Shot,25,234,96,False
+Justin Holiday,1,3,18,0,Jump Shot,24,232,92,False
+Justin Holiday,2,0,8,0,Jump Shot,24,59,241,False
+Justin Holiday,3,9,36,0,Jump Shot,12,111,47,True
+Justin Holiday,2,2,8,0,Jump Shot,24,-18,248,False
+Justin Holiday,2,1,47,0,Jump Shot,25,-78,241,False
+Justin Holiday,3,7,39,0,Jump Shot,23,237,37,False
+Justin Holiday,1,10,43,0,Jump Shot,23,231,55,False
+Justin Holiday,2,0,31,0,Jump Shot,25,95,236,False
+Justin Holiday,1,8,26,0,Jump Shot,23,-234,23,False
+Justin Holiday,2,0,1,0,Jump Shot,23,232,25,False
+Justin Holiday,2,0,23,0,Jump Shot,26,122,230,False
+Justin Holiday,1,5,6,1,Jump Shot,25,3,255,False
+Justin Holiday,1,7,31,0,Jump Shot,23,235,17,False
+Justin Holiday,1,3,44,0,Jump Shot,20,-9,203,True
+Justin Holiday,1,11,28,0,Jump Shot,18,95,158,True
+Justin Holiday,2,4,4,0,Jump Shot,25,-155,199,False
+Justin Holiday,2,5,43,0,Jump Shot,25,-14,251,False
+Justin Holiday,3,7,35,1,Jump Shot,22,222,-6,False
+Justin Holiday,1,6,11,0,Jump Shot,25,-84,239,False
+Justin Holiday,3,5,3,0,Jump Shot,14,127,78,True
+Justin Holiday,1,11,22,0,Jump Shot,25,-142,214,False
+Justin Holiday,1,7,38,0,Jump Shot,25,144,205,False
+Justin Holiday,1,3,59,0,Jump Shot,25,210,153,False
+Justin Holiday,3,11,15,0,Jump Shot,26,-6,265,False
+Justin Holiday,1,4,26,0,Jump Shot,25,68,241,False
+Justin Holiday,4,6,4,0,Jump Shot,26,-213,164,False
+Justin Holiday,1,10,42,0,Jump Shot,25,-169,197,False
+Justin Holiday,1,3,46,0,Jump Shot,24,-129,210,False
+Justin Holiday,4,1,3,0,Jump Shot,26,38,258,False
+Justin Holiday,1,5,22,0,Jump Shot,24,-55,243,False
+Justin Holiday,2,1,46,0,Jump Shot,25,119,225,False
+Justin Holiday,1,1,34,1,Jump Shot,26,120,231,False
+Justin Holiday,1,0,0,0,Jump Shot,28,3,284,False
+Justin Holiday,1,3,30,1,Jump Shot,24,165,177,False
+Justin Holiday,2,0,0,0,Jump Shot,22,226,3,False
+Justin Holiday,2,1,1,0,Jump Shot,26,-151,214,False
+Justin Holiday,3,7,39,0,Jump Shot,23,-236,-19,False
+Justin Holiday,1,7,54,0,Jump Shot,17,-112,136,True
+Justin Holiday,3,5,31,0,Jump Shot,23,-234,6,False
+Justin Holiday,3,8,42,1,Jump Shot,23,230,-10,False
+Justin Holiday,1,1,0,1,Jump Shot,4,20,37,True
+Justin Holiday,1,7,25,0,Jump Shot,24,-220,109,False
+Justin Holiday,4,4,14,1,Jump Shot,23,234,-6,False
+Justin Holiday,3,7,19,1,Jump Shot,25,-116,231,False
+Justin Holiday,3,0,0,0,Jump Shot,25,-101,233,False
+Justin Holiday,1,9,48,0,Jump Shot,25,177,185,False
+Justin Holiday,1,10,19,0,Jump Shot,24,-91,230,False
+Justin Holiday,2,4,37,0,Jump Shot,23,230,-7,False
+Justin Holiday,1,2,14,0,Jump Shot,25,93,236,False
+Justin Holiday,2,0,33,1,Jump Shot,24,-201,137,False
+Justin Holiday,3,8,39,0,Jump Shot,25,-56,251,False
+Justin Holiday,4,5,14,0,Jump Shot,24,-237,49,False
+Justin Holiday,4,1,53,0,Jump Shot,25,92,236,False
+Justin Holiday,1,7,56,1,Jump Shot,14,136,36,True
+Justin Holiday,1,1,0,1,Jump Shot,24,240,8,False
+Justin Holiday,4,6,7,0,Jump Shot,25,-165,191,False
+Justin Holiday,1,5,8,0,Jump Shot,24,174,171,False
+Justin Holiday,1,3,36,0,Jump Shot,24,-64,237,False
+Justin Holiday,1,8,37,0,Jump Shot,25,214,130,False
+Justin Holiday,3,6,14,0,Jump Shot,19,-166,111,True
+Justin Holiday,4,0,38,0,Jump Shot,24,123,217,False
+Justin Holiday,2,4,53,1,Jump Shot,25,69,246,False
+Justin Holiday,1,7,12,1,Jump Shot,23,234,22,False
+Justin Holiday,4,1,50,1,Jump Shot,24,-71,236,False
+Justin Holiday,3,8,29,0,Jump Shot,26,18,263,False
+Justin Holiday,4,6,59,1,Jump Shot,24,7,243,False
+Justin Holiday,1,8,21,0,Jump Shot,25,-123,220,False
+Justin Holiday,1,9,43,1,Jump Shot,25,-84,242,False
+Justin Holiday,4,4,39,0,Jump Shot,23,232,40,False
+Justin Holiday,3,0,9,0,Jump Shot,23,-70,227,True
+Justin Holiday,3,6,16,1,Jump Shot,24,142,200,False
+Justin Holiday,4,1,11,1,Jump Shot,24,187,155,False
+Justin Holiday,3,9,42,0,Jump Shot,25,-119,231,False
+Justin Holiday,4,2,8,0,Jump Shot,25,-159,200,False
+Justin Holiday,3,4,55,0,Jump Shot,25,-150,211,False
+Justin Holiday,4,0,35,0,Jump Shot,25,178,179,False
+Justin Holiday,2,4,42,1,Jump Shot,25,-73,245,False
+Justin Holiday,1,9,31,1,Jump Shot,23,236,26,False
+Justin Holiday,2,2,55,1,Jump Shot,22,99,199,True
+Justin Holiday,1,11,35,0,Jump Shot,22,-222,1,False
+Justin Holiday,1,10,59,0,Jump Shot,23,231,21,False
+Justin Holiday,2,2,27,0,Jump Shot,19,106,161,True
+Justin Holiday,3,6,57,1,Jump Shot,26,-14,264,False
+Justin Holiday,1,1,0,0,Jump Shot,24,-136,199,False
+Justin Holiday,3,5,10,0,Jump Shot,25,-133,216,False
+Justin Holiday,1,7,35,1,Jump Shot,24,239,22,False
+Justin Holiday,1,7,56,1,Jump Shot,24,62,241,False
+Justin Holiday,1,4,13,0,Jump Shot,19,196,22,True
+Justin Holiday,1,4,14,0,Jump Shot,26,201,167,False
+Justin Holiday,3,8,44,0,Jump Shot,25,192,165,False
+Justin Holiday,1,3,54,1,Jump Shot,26,99,245,False
+Justin Holiday,4,4,6,0,Jump Shot,25,-223,128,False
+Justin Holiday,1,1,54,1,Jump Shot,24,-90,232,False
+Justin Holiday,3,6,31,1,Jump Shot,24,206,136,False
+Justin Holiday,2,3,49,0,Jump Shot,18,181,11,True
+Justin Holiday,4,0,8,0,Jump Shot,22,-229,1,False
+Justin Holiday,3,8,17,0,Jump Shot,23,234,46,False
+Justin Holiday,3,3,53,0,Jump Shot,25,160,201,False
+Justin Holiday,3,4,15,0,Jump Shot,23,232,32,False
+Justin Holiday,1,10,46,0,Jump Shot,16,-158,32,True
+Justin Holiday,1,3,46,0,Jump Shot,24,-59,234,False
+Justin Holiday,3,8,47,1,Jump Shot,23,230,49,False
+Justin Holiday,1,9,35,0,Jump Shot,18,104,148,True
+Justin Holiday,2,5,17,1,Jump Shot,24,-116,219,False
+Justin Holiday,3,10,27,0,Jump Shot,25,206,146,False
+Justin Holiday,3,1,17,1,Jump Shot,20,-30,201,True
+Justin Holiday,4,2,3,1,Jump Shot,25,158,197,False
+Justin Holiday,2,2,25,0,Jump Shot,23,231,37,False
+Justin Holiday,3,4,53,0,Jump Shot,26,-218,154,False
+Justin Holiday,3,10,26,0,Jump Shot,11,-45,107,True
+Justin Holiday,1,7,9,0,Jump Shot,25,-47,246,False
+Justin Holiday,1,5,3,0,Jump Shot,23,230,52,False
+Justin Holiday,1,6,48,1,Jump Shot,23,-222,83,False
+Justin Holiday,3,9,43,1,Jump Shot,14,87,110,True
+Justin Holiday,1,4,53,0,Jump Shot,25,196,157,False
+Justin Holiday,1,9,19,1,Jump Shot,23,231,11,False
+Justin Holiday,1,8,45,0,Jump Shot,12,22,122,True
+Justin Holiday,2,5,36,0,Jump Shot,23,231,50,False
+Justin Holiday,3,11,16,0,Jump Shot,23,230,29,False
+Justin Holiday,3,5,7,1,Jump Shot,21,-114,179,True
+Justin Holiday,2,3,18,0,Jump Shot,24,208,130,False
+Justin Holiday,1,3,24,0,Jump Shot,23,236,6,False
+Justin Holiday,5,1,15,0,Jump Shot,25,86,236,False
+Justin Holiday,3,5,49,1,Jump Shot,3,-1,39,True
+Justin Holiday,3,6,25,1,Jump Shot,24,237,79,False
+Justin Holiday,1,5,35,1,Jump Shot,20,-80,184,True
+Justin Holiday,3,5,31,0,Jump Shot,25,-78,246,False
+Justin Holiday,3,11,30,0,Jump Shot,20,-66,195,True
+Justin Holiday,1,1,56,1,Jump Shot,24,33,241,False
+Justin Holiday,2,6,16,0,Jump Shot,24,-128,205,False
+Justin Holiday,1,6,34,0,Jump Shot,23,230,64,False
+Justin Holiday,5,4,32,0,Jump Shot,25,-165,194,False
+Justin Holiday,3,9,29,1,Jump Shot,25,165,188,False
+Justin Holiday,1,0,30,0,Jump Shot,24,-119,211,False
+Justin Holiday,1,6,55,0,Jump Shot,22,225,13,False
+Justin Holiday,1,10,19,1,Jump Shot,26,-153,214,False
+Justin Holiday,1,0,0,0,Jump Shot,45,129,441,False
+Justin Holiday,3,0,5,0,Jump Shot,27,128,246,False
+Justin Holiday,3,10,46,1,Jump Shot,25,-177,184,False
+Justin Holiday,2,0,1,0,Jump Shot,30,152,259,False
+Justin Holiday,1,5,37,1,Jump Shot,18,79,167,True
+Justin Holiday,3,0,49,0,Jump Shot,16,2,168,True
+Justin Holiday,2,0,28,0,Jump Shot,23,-231,38,False
+Justin Holiday,3,8,20,0,Jump Shot,25,-209,141,False
+Justin Holiday,1,7,54,0,Jump Shot,23,230,6,False
+Justin Holiday,4,0,59,1,Jump Shot,23,232,31,False
+Justin Holiday,2,5,58,0,Jump Shot,25,-163,202,False
+Justin Holiday,4,3,13,0,Jump Shot,26,106,239,False
+Justin Holiday,1,8,13,0,Jump Shot,22,-111,190,True
+Justin Holiday,1,9,15,0,Jump Shot,25,199,155,False
+Justin Holiday,1,3,19,0,Jump Shot,23,-231,59,False
+Justin Holiday,2,2,16,0,Jump Shot,25,99,232,False
+Justin Holiday,3,8,38,0,Jump Shot,24,156,195,False
+Justin Holiday,2,4,51,0,Jump Shot,21,133,163,True
+Justin Holiday,3,3,17,0,Jump Shot,27,36,273,False
+Justin Holiday,1,4,26,1,Jump Shot,25,131,213,False
+Justin Holiday,3,9,16,0,Jump Shot,23,230,26,False
+Justin Holiday,1,10,6,0,Jump Shot,22,229,-5,False
+Justin Holiday,3,7,37,0,Jump Shot,20,-82,184,True
+Justin Holiday,2,3,20,0,Jump Shot,23,229,51,False
+Justin Holiday,1,2,30,0,Jump Shot,16,43,155,True
+Justin Holiday,1,2,15,1,Jump Shot,26,100,240,False
+Justin Holiday,3,0,27,0,Jump Shot,25,-19,252,False
+Justin Holiday,3,8,9,1,Jump Shot,20,129,155,True
+Justin Holiday,3,4,5,1,Jump Shot,23,-232,1,False
+Justin Holiday,2,3,32,0,Jump Shot,25,-188,168,False
+Justin Holiday,1,5,21,0,Jump Shot,26,-150,217,False
+Justin Holiday,4,1,54,0,Jump Shot,25,142,215,False
+Justin Holiday,3,8,4,0,Jump Shot,23,235,31,False
+Justin Holiday,3,6,14,1,Jump Shot,25,142,216,False
+Justin Holiday,2,4,20,0,Jump Shot,22,-229,-1,False
+Justin Holiday,2,3,5,1,Jump Shot,23,227,64,False
+Justin Holiday,3,0,47,0,Jump Shot,9,-89,16,True
+Justin Holiday,1,2,46,0,Jump Shot,17,172,17,True
+Justin Holiday,3,3,38,1,Jump Shot,24,-237,73,False
+Justin Holiday,2,2,6,1,Jump Shot,25,106,235,False
+Justin Holiday,3,3,14,0,Jump Shot,24,130,212,False
+Justin Holiday,1,6,35,1,Jump Shot,14,-81,119,True
+Justin Holiday,3,6,18,1,Jump Shot,23,223,75,False
+Justin Holiday,1,3,18,0,Jump Shot,25,-117,227,False
+Justin Holiday,4,0,27,0,Jump Shot,23,-234,50,False
+Justin Holiday,2,3,33,1,Jump Shot,12,125,0,True
+Justin Holiday,1,9,13,0,Jump Shot,25,-81,240,False
+Justin Holiday,3,4,46,0,Jump Shot,26,-109,246,False
+Justin Holiday,4,4,29,0,Jump Shot,16,10,162,True
+Justin Holiday,1,1,23,1,Jump Shot,25,71,245,False
+Justin Holiday,1,11,6,0,Jump Shot,26,-9,268,False
+Justin Holiday,1,8,5,0,Jump Shot,14,139,38,True
+Justin Holiday,4,2,29,1,Jump Shot,25,-62,246,False
+Justin Holiday,3,3,53,0,Jump Shot,25,159,199,False
+Justin Holiday,3,6,6,0,Jump Shot,20,-65,193,True
+Justin Holiday,3,7,4,0,Jump Shot,3,-3,31,True
+Justin Holiday,1,6,43,1,Jump Shot,25,-99,237,False
+Justin Holiday,3,8,49,0,Jump Shot,25,112,230,False
+Justin Holiday,1,0,32,0,Jump Shot,26,-110,237,False
+Justin Holiday,1,4,45,0,Jump Shot,5,-24,52,True
+Justin Holiday,1,0,57,0,Jump Shot,10,-104,6,True
+Justin Holiday,1,2,29,1,Jump Shot,25,91,239,False
+Justin Holiday,4,1,33,0,Jump Shot,28,13,286,False
+Justin Holiday,1,7,24,0,Jump Shot,14,143,26,True
+Justin Holiday,1,7,58,1,Jump Shot,22,-221,-8,False
+Justin Holiday,2,3,20,0,Jump Shot,22,221,16,False
+Justin Holiday,3,9,45,0,Jump Shot,22,-225,-8,False
+Justin Holiday,1,3,18,0,Jump Shot,26,201,171,False
+Justin Holiday,1,5,13,1,Jump Shot,21,0,218,True
+Justin Holiday,3,6,11,1,Jump Shot,26,120,231,False
+Justin Holiday,1,10,38,0,Jump Shot,25,-37,253,False
+Justin Holiday,4,7,9,0,Jump Shot,23,226,53,False
+Justin Holiday,4,3,19,1,Jump Shot,24,228,95,False
+Justin Holiday,3,7,24,0,Jump Shot,22,226,41,False
+Justin Holiday,1,7,25,0,Jump Shot,23,230,32,False
+Justin Holiday,2,5,35,0,Jump Shot,20,-162,127,True
+Justin Holiday,3,11,11,0,Jump Shot,25,133,212,False
+Justin Holiday,1,0,54,1,Jump Shot,26,110,241,False
+Justin Holiday,5,3,28,0,Jump Shot,25,130,225,False
+Justin Holiday,1,3,19,0,Jump Shot,17,-86,157,True
+Justin Holiday,1,6,38,0,Jump Shot,25,159,199,False
+Justin Holiday,4,2,57,1,Jump Shot,25,190,170,False
+Justin Holiday,1,7,58,0,Jump Shot,22,117,189,True
+Justin Holiday,3,9,59,0,Jump Shot,20,201,-9,True
+Justin Holiday,4,8,27,0,Jump Shot,25,-95,239,False
+Justin Holiday,1,7,12,1,Jump Shot,25,-81,240,False
+Justin Holiday,1,3,15,0,Jump Shot,24,-62,235,False
+Justin Holiday,3,10,35,0,Jump Shot,22,225,4,False
+Justin Holiday,3,5,26,0,Jump Shot,23,-230,-15,False
+Justin Holiday,4,4,34,1,Jump Shot,19,-35,194,True
+Justin Holiday,1,9,12,1,Jump Shot,22,-225,13,False
+Justin Holiday,3,4,22,1,Jump Shot,22,-228,22,False
+Justin Holiday,4,4,9,1,Jump Shot,24,190,160,False
+Justin Holiday,1,1,46,1,Jump Shot,22,-226,-5,False
+Justin Holiday,3,1,31,1,Jump Shot,25,-39,257,False
+Justin Holiday,2,1,19,0,Jump Shot,27,55,272,False
+Justin Holiday,2,0,50,1,Jump Shot,24,126,206,False
+Justin Holiday,4,0,9,1,Jump Shot,25,-159,199,False
+Justin Holiday,3,0,2,1,Jump Shot,24,82,236,False
+Justin Holiday,2,5,17,1,Jump Shot,23,230,66,False
+Justin Holiday,4,0,49,1,Jump Shot,22,-228,-9,False
+Justin Holiday,3,9,50,0,Jump Shot,24,-230,83,False
+Justin Holiday,4,2,26,0,Jump Shot,25,6,256,False
+Justin Holiday,1,0,4,1,Jump Shot,24,-74,232,False
+Justin Holiday,3,10,55,0,Jump Shot,24,97,228,False
+Justin Holiday,3,0,45,1,Jump Shot,23,239,-15,False
+Justin Holiday,5,3,40,0,Jump Shot,23,230,47,False
+Justin Holiday,2,1,16,1,Jump Shot,19,-73,185,True
+Justin Holiday,3,9,6,0,Jump Shot,24,139,204,False
+Justin Holiday,1,3,14,0,Jump Shot,25,-107,230,False
+Justin Holiday,1,5,29,0,Jump Shot,25,-203,159,False
+Justin Holiday,2,3,34,0,Jump Shot,26,193,184,False
+Justin Holiday,3,0,3,0,Jump Shot,24,13,248,False
+Justin Holiday,1,11,10,0,Jump Shot,26,125,239,False
+Justin Holiday,4,0,36,0,Jump Shot,23,230,21,False
+Justin Holiday,1,4,21,1,Jump Shot,17,-98,143,True
+Justin Holiday,3,3,7,0,Jump Shot,24,-106,218,False
+Justin Holiday,2,4,47,0,Jump Shot,21,83,193,True
+Justin Holiday,1,9,34,1,Jump Shot,24,231,78,False
+Justin Holiday,2,6,3,0,Jump Shot,27,93,255,False
+Justin Holiday,2,2,59,0,Jump Shot,25,143,215,False
+Justin Holiday,1,6,41,0,Jump Shot,25,164,194,False
+Justin Holiday,3,3,48,1,Jump Shot,24,-231,90,False
+Justin Holiday,1,3,33,0,Jump Shot,17,112,131,True
+Justin Holiday,3,8,37,0,Jump Shot,25,87,237,False
+Justin Holiday,2,0,3,1,Jump Shot,24,74,231,False
+Justin Holiday,4,3,1,1,Jump Shot,22,223,-16,False
+Justin Holiday,4,5,22,1,Jump Shot,25,138,211,False
+Justin Holiday,3,7,44,0,Jump Shot,23,-234,13,False
+Justin Holiday,3,9,22,1,Jump Shot,26,162,207,False
+Justin Holiday,1,4,24,0,Jump Shot,20,54,195,True
+Justin Holiday,3,3,44,0,Jump Shot,16,138,96,True
+Justin Holiday,1,2,9,0,Jump Shot,23,230,1,False
+Justin Holiday,1,2,20,0,Jump Shot,24,235,57,False
+Justin Holiday,3,11,41,0,Jump Shot,23,226,44,False
+Justin Holiday,3,0,2,0,Jump Shot,14,105,96,True
+Justin Holiday,1,0,0,0,Jump Shot,50,198,462,False
+Justin Holiday,3,6,12,1,Jump Shot,23,228,41,False
+Justin Holiday,1,2,26,0,Jump Shot,19,-178,74,True
+Justin Holiday,1,8,54,1,Jump Shot,25,-84,237,False
+Justin Holiday,2,2,20,1,Jump Shot,21,188,103,True
+Justin Holiday,3,9,2,1,Jump Shot,24,-30,247,False
+Justin Holiday,1,0,41,0,Jump Shot,18,71,169,True
+Justin Holiday,1,8,18,0,Jump Shot,25,130,215,False
+Justin Holiday,2,0,51,1,Jump Shot,24,88,231,False
+Justin Holiday,3,2,6,0,Jump Shot,22,226,34,False
+Justin Holiday,1,9,33,0,Jump Shot,24,158,193,False
+Justin Holiday,3,8,17,1,Jump Shot,25,117,227,False
+Justin Holiday,3,6,29,0,Jump Shot,16,160,48,True
+Justin Holiday,3,4,59,0,Jump Shot,24,61,241,False
+Justin Holiday,1,11,11,0,Jump Shot,26,-109,239,False
+Justin Holiday,1,4,21,0,Jump Shot,25,-168,191,False
+Justin Holiday,3,4,32,0,Jump Shot,18,159,94,True
+Justin Holiday,3,6,47,1,Jump Shot,24,-69,239,False
+Justin Holiday,3,1,50,1,Jump Shot,24,-117,218,False
+Justin Holiday,1,3,52,0,Jump Shot,18,-138,122,True
+Justin Holiday,2,1,32,0,Jump Shot,22,-112,190,True
+Justin Holiday,3,2,11,0,Jump Shot,24,-198,150,False
+Justin Holiday,2,4,38,0,Jump Shot,21,141,157,True
+Justin Holiday,1,1,28,0,Jump Shot,23,230,-18,False
+Justin Holiday,3,2,20,0,Jump Shot,23,-231,58,False
+Justin Holiday,1,5,15,1,Jump Shot,25,-114,226,False
+Justin Holiday,3,8,48,0,Jump Shot,22,226,10,False
+Justin Holiday,3,1,27,1,Jump Shot,14,-132,53,True
+Justin Holiday,1,5,39,0,Jump Shot,17,-9,173,True
+Justin Holiday,3,2,19,1,Jump Shot,21,38,210,True
+Justin Holiday,1,9,35,0,Jump Shot,27,65,263,False
+Justin Holiday,4,4,56,0,Jump Shot,22,227,25,False
+Justin Holiday,2,1,1,1,Jump Shot,23,232,31,False
+Justin Holiday,3,5,44,0,Jump Shot,23,234,-11,False
+Justin Holiday,2,3,12,0,Jump Shot,24,241,3,False
+Justin Holiday,3,10,14,0,Jump Shot,25,210,146,False
+Justin Holiday,1,5,56,0,Jump Shot,25,-122,224,False
+Justin Holiday,3,0,27,0,Jump Shot,13,127,53,True
+Justin Holiday,2,5,40,1,Jump Shot,16,164,8,True
+Justin Holiday,1,9,30,1,Jump Shot,24,121,216,False
+Justin Holiday,3,0,45,1,Jump Shot,23,-231,0,False
+Justin Holiday,1,4,1,0,Jump Shot,24,-62,239,False
+Justin Holiday,1,2,3,1,Jump Shot,24,231,75,False
+Justin Holiday,4,6,11,0,Jump Shot,26,-101,242,False
+Justin Holiday,3,1,27,0,Jump Shot,16,-164,17,True
+Justin Holiday,2,4,16,1,Jump Shot,25,88,237,False
+Justin Holiday,4,3,38,0,Jump Shot,24,165,186,False
+Justin Holiday,3,11,26,0,Jump Shot,22,221,4,False
+Justin Holiday,4,6,42,0,Layup Shot,3,20,33,True
+Justin Holiday,1,9,57,0,Layup Shot,2,-18,17,True
+Justin Holiday,1,0,30,1,Layup Shot,2,20,10,True
+Justin Holiday,3,9,39,0,Layup Shot,1,-3,13,True
+Justin Holiday,1,4,41,0,Layup Shot,1,1,10,True
+Justin Holiday,1,8,0,0,Layup Shot,3,6,30,True
+Justin Holiday,3,3,2,0,Layup Shot,2,-20,21,True
+Justin Holiday,2,4,4,1,Layup Shot,2,20,8,True
+Justin Holiday,2,5,35,0,Layup Shot,0,-5,8,True
+Justin Holiday,2,3,7,0,Layup Shot,1,14,5,True
+Justin Holiday,3,2,21,0,Layup Shot,1,19,1,True
+Justin Holiday,2,3,19,0,Layup Shot,2,27,-5,True
+Justin Holiday,1,10,4,0,Layup Shot,1,9,8,True
+Justin Holiday,3,0,56,1,Layup Shot,1,13,8,True
+Justin Holiday,3,7,5,0,Layup Shot,1,13,6,True
+Justin Holiday,3,9,22,0,Layup Shot,2,18,12,True
+Justin Holiday,2,2,57,0,Layup Shot,0,6,7,True
+Justin Holiday,1,8,30,1,Layup Shot,1,14,10,True
+Justin Holiday,3,1,54,0,Layup Shot,1,-3,16,True
+Justin Holiday,4,6,29,0,Layup Shot,1,13,0,True
+Justin Holiday,1,7,7,0,Layup Shot,1,-14,-1,True
+Justin Holiday,1,8,23,0,Layup Shot,3,29,13,True
+Justin Holiday,2,4,32,0,Layup Shot,3,14,29,True
+Justin Holiday,3,7,25,0,Layup Shot,7,-5,73,True
+Justin Holiday,1,1,54,0,Pullup Jump shot,25,-154,201,False
+Justin Holiday,3,7,26,1,Pullup Jump shot,24,51,243,False
+Justin Holiday,1,3,5,1,Pullup Jump shot,17,-51,168,True
+Justin Holiday,4,0,48,0,Pullup Jump shot,21,-54,213,True
+Justin Holiday,2,0,44,1,Pullup Jump shot,18,112,142,True
+Justin Holiday,4,5,17,0,Pullup Jump shot,10,101,-8,True
+Justin Holiday,2,4,6,1,Pullup Jump shot,14,148,3,True
+Justin Holiday,3,2,54,1,Pullup Jump shot,17,-176,0,True
+Justin Holiday,1,6,7,1,Pullup Jump shot,20,79,194,True
+Justin Holiday,1,6,38,1,Pullup Jump shot,14,112,98,True
+Justin Holiday,1,6,44,1,Pullup Jump shot,19,87,169,True
+Justin Holiday,1,10,16,1,Pullup Jump shot,27,-67,264,False
+Justin Holiday,4,4,24,1,Pullup Jump shot,18,114,151,True
+Justin Holiday,1,5,37,1,Pullup Jump shot,17,-70,161,True
+Justin Holiday,1,9,36,0,Pullup Jump shot,27,-3,270,False
+Justin Holiday,1,7,41,0,Pullup Jump shot,25,-13,254,False
+Justin Holiday,3,7,58,1,Pullup Jump shot,13,-16,139,True
+Justin Holiday,3,2,55,1,Pullup Jump shot,25,95,238,False
+Justin Holiday,3,8,19,0,Pullup Jump shot,13,-117,63,True
+Justin Holiday,1,7,40,0,Pullup Jump shot,14,93,107,True
+Justin Holiday,4,4,44,1,Pullup Jump shot,16,29,164,True
+Justin Holiday,4,4,35,1,Pullup Jump shot,14,11,148,True
+Justin Holiday,4,2,17,0,Pullup Jump shot,24,-231,79,False
+Justin Holiday,1,4,9,1,Pullup Jump shot,17,-153,85,True
+Justin Holiday,1,2,2,0,Pullup Jump shot,19,88,176,True
+Justin Holiday,1,0,0,1,Pullup Jump shot,27,152,226,False
+Justin Holiday,1,9,20,0,Pullup Jump shot,13,23,129,True
+Justin Holiday,3,10,10,0,Pullup Jump shot,17,-89,153,True
+Justin Holiday,4,0,7,1,Pullup Jump shot,24,81,234,False
+Justin Holiday,1,1,14,0,Pullup Jump shot,25,27,249,False
+Justin Holiday,2,7,7,0,Pullup Jump shot,25,110,229,False
+Justin Holiday,4,1,59,0,Pullup Jump shot,20,20,204,True
+Justin Holiday,2,3,44,1,Pullup Jump shot,25,-166,190,False
+Justin Holiday,3,10,40,0,Pullup Jump shot,25,-7,256,False
+Justin Holiday,5,1,24,0,Pullup Jump shot,27,-96,263,False
+Justin Holiday,4,5,23,0,Pullup Jump shot,12,106,68,True
+Justin Holiday,1,4,27,0,Pullup Jump shot,14,49,135,True
+Justin Holiday,3,1,28,0,Pullup Jump shot,25,3,257,False
+Justin Holiday,1,9,41,1,Pullup Jump shot,16,117,114,True
+Justin Holiday,1,5,51,1,Pullup Jump shot,15,13,155,True
+Justin Holiday,1,4,34,0,Pullup Jump shot,19,179,64,True
+Justin Holiday,4,3,34,0,Pullup Jump shot,16,1,162,True
+Justin Holiday,4,3,38,0,Pullup Jump shot,5,3,55,True
+Justin Holiday,3,4,24,0,Pullup Jump shot,16,134,100,True
+Justin Holiday,3,10,41,0,Pullup Jump shot,15,93,128,True
+Justin Holiday,1,0,8,1,Pullup Jump shot,29,106,272,False
+Justin Holiday,2,0,1,0,Pullup Jump shot,26,196,174,False
+Justin Holiday,1,4,36,0,Pullup Jump shot,23,-187,150,False
+Justin Holiday,2,0,58,1,Pullup Jump shot,16,110,120,True
+Justin Holiday,3,9,14,0,Pullup Jump shot,19,47,193,True
+Justin Holiday,1,3,28,1,Pullup Jump shot,16,142,78,True
+Justin Holiday,2,2,13,0,Pullup Jump shot,16,46,155,True
+Justin Holiday,3,1,49,0,Pullup Jump shot,25,-95,239,False
+Justin Holiday,1,11,10,0,Pullup Jump shot,19,191,3,True
+Justin Holiday,1,7,54,1,Pullup Jump shot,18,83,161,True
+Justin Holiday,4,6,6,0,Pullup Jump shot,20,-140,149,True
+Justin Holiday,1,10,40,0,Pullup Jump shot,11,97,55,True
+Justin Holiday,2,5,35,0,Pullup Jump shot,25,191,166,False
+Justin Holiday,3,7,43,0,Pullup Jump shot,16,-103,131,True
+Justin Holiday,1,1,24,0,Pullup Jump shot,14,66,124,True
+Justin Holiday,3,10,44,0,Pullup Jump shot,16,30,162,True
+Justin Holiday,3,11,44,0,Pullup Jump shot,15,-79,131,True
+Justin Holiday,2,2,5,0,Pullup Jump shot,24,-192,155,False
+Justin Holiday,1,6,32,1,Pullup Jump shot,26,-92,251,False
+Justin Holiday,1,8,21,0,Pullup Jump shot,12,122,41,True
+Justin Holiday,1,11,13,0,Pullup Jump shot,21,38,208,True
+Justin Holiday,1,7,13,0,Pullup Jump shot,25,-17,257,False
+Justin Holiday,3,9,50,0,Pullup Jump shot,17,-106,144,True
+Justin Holiday,3,1,43,0,Pullup Jump shot,19,-81,180,True
+Justin Holiday,3,8,6,0,Pullup Jump shot,14,-79,126,True
+Justin Holiday,3,3,40,1,Pullup Jump shot,19,15,197,True
+Justin Holiday,1,9,59,0,Pullup Jump shot,17,61,163,True
+Justin Holiday,1,11,28,0,Pullup Jump shot,6,40,49,True
+Justin Holiday,1,11,7,0,Pullup Jump shot,24,-97,224,False
+Justin Holiday,3,6,43,1,Pullup Jump shot,16,-70,153,True
+Justin Holiday,3,11,37,1,Pullup Jump shot,20,-130,161,True
+Justin Holiday,1,3,23,0,Pullup Jump shot,17,143,96,True
+Justin Holiday,1,10,30,0,Pullup Jump shot,10,99,40,True
+Justin Holiday,1,4,51,0,Pullup Jump shot,25,3,253,False
+Justin Holiday,1,4,9,0,Pullup Jump shot,25,-101,237,False
+Justin Holiday,3,5,34,1,Pullup Jump shot,26,-137,221,False
+Justin Holiday,2,6,27,1,Pullup Jump shot,23,228,59,False
+Justin Holiday,3,9,57,0,Pullup Jump shot,21,5,211,True
+Justin Holiday,2,5,9,0,Pullup Jump shot,22,94,203,True
+Justin Holiday,2,4,18,1,Pullup Jump shot,19,99,173,True
+Justin Holiday,1,1,29,1,Pullup Jump shot,10,32,104,True
+Justin Holiday,3,8,0,0,Putback Layup Shot,5,-50,31,True
+Justin Holiday,3,8,15,1,Putback Layup Shot,1,-12,6,True
+Justin Holiday,4,1,54,0,Putback Layup Shot,1,-8,8,True
+Justin Holiday,4,6,33,1,Putback Layup Shot,0,0,-6,True
+Justin Holiday,1,5,10,1,Reverse Dunk Shot,0,-3,1,True
+Justin Holiday,4,1,35,1,Reverse Layup Shot,1,5,9,True
+Justin Holiday,3,10,41,1,Reverse Layup Shot,1,-14,-1,True
+Justin Holiday,2,0,24,1,Running Dunk Shot,1,13,6,True
+Justin Holiday,4,7,46,1,Running Dunk Shot,0,2,-1,True
+Justin Holiday,2,7,11,1,Running Dunk Shot,0,-3,-2,True
+Justin Holiday,3,6,51,1,Running Finger Roll Layup Shot,1,-2,12,True
+Justin Holiday,1,8,14,0,Running Jump Shot,4,20,41,True
+Justin Holiday,3,4,11,1,Running Jump Shot,3,30,7,True
+Justin Holiday,2,1,29,1,Running Layup Shot,1,-6,8,True
+Justin Holiday,1,4,22,1,Running Layup Shot,1,16,10,True
+Justin Holiday,3,4,35,0,Running Layup Shot,2,4,28,True
+Justin Holiday,1,4,54,1,Running Layup Shot,1,-6,8,True
+Justin Holiday,1,9,26,1,Running Layup Shot,2,14,26,True
+Justin Holiday,1,0,42,1,Running Layup Shot,2,22,3,True
+Justin Holiday,2,2,44,1,Running Pull-Up Jump Shot,24,-224,102,False
+Justin Holiday,4,0,0,1,Step Back Jump shot,23,-230,20,False
+Justin Holiday,3,7,2,0,Step Back Jump shot,19,-82,175,True
+Justin Holiday,2,1,54,1,Step Back Jump shot,18,-139,125,True
+Justin Holiday,4,3,59,1,Step Back Jump shot,25,209,143,False
+Justin Holiday,2,1,3,0,Step Back Jump shot,12,2,122,True
+Justin Holiday,1,3,1,1,Step Back Jump shot,22,-225,5,False
+Justin Holiday,2,1,34,0,Step Back Jump shot,26,-122,235,False
+Justin Holiday,1,0,23,0,Step Back Jump shot,21,14,215,True
+Justin Holiday,3,7,59,1,Step Back Jump shot,13,91,106,True
+Justin Holiday,4,9,25,0,Step Back Jump shot,24,232,88,False
+Justin Holiday,3,9,40,0,Step Back Jump shot,19,2,193,True
+Justin Holiday,1,2,42,0,Step Back Jump shot,24,-220,103,False
+Justin Holiday,1,6,26,0,Step Back Jump shot,25,218,126,False
+Justin Holiday,3,3,54,0,Step Back Jump shot,19,194,7,True
+Justin Holiday,1,11,34,0,Step Back Jump shot,23,81,221,True
+Justin Holiday,1,3,58,1,Step Back Jump shot,21,58,208,True
+Justin Holiday,3,4,42,0,Step Back Jump shot,25,-86,237,False
+Justin Holiday,4,4,47,0,Step Back Jump shot,25,-224,121,False
+Justin Holiday,1,4,41,1,Step Back Jump shot,25,112,232,False
+Justin Holiday,2,5,11,1,Step Back Jump shot,14,-136,45,True
+Justin Holiday,2,2,7,0,Step Back Jump shot,14,-102,109,True
+Justin Holiday,1,0,13,1,Step Back Jump shot,25,-199,153,False
+Justin Holiday,3,11,17,1,Step Back Jump shot,19,-120,157,True
+Justin Holiday,3,6,30,0,Step Back Jump shot,23,231,50,False
+Justin Holiday,2,3,17,0,Tip Layup Shot,0,0,-6,True
+Justin Holiday,1,7,5,1,Tip Layup Shot,0,0,-6,True
+Justin Holiday,3,8,59,0,Tip Layup Shot,0,0,-6,True
+Justin Holiday,1,5,17,1,Tip Layup Shot,0,0,-6,True
+Justin Holiday,1,5,18,0,Tip Layup Shot,0,2,8,True
+Justin Holiday,1,2,38,0,Tip Layup Shot,0,0,-6,True
+Justin Holiday,1,2,34,1,Turnaround Fadeaway shot,7,-58,40,True
+Justin Holiday,1,6,16,0,Turnaround Jump Shot,20,93,186,True
+Justin Holiday,1,11,26,0,Turnaround Jump Shot,10,55,88,True
+Justin Holiday,3,0,0,0,Turnaround Jump Shot,24,187,155,False
+Justin Holiday,3,11,9,0,Turnaround Jump Shot,2,-28,8,True

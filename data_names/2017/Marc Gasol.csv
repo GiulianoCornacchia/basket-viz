@@ -1,0 +1,946 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Marc Gasol,2,2,11,1,Alley Oop Layup shot,0,-5,4,True
+Marc Gasol,2,1,18,0,Alley Oop Layup shot,1,-13,0,True
+Marc Gasol,1,11,42,1,Alley Oop Layup shot,2,-14,16,True
+Marc Gasol,2,3,34,1,Cutting Dunk Shot,0,0,1,True
+Marc Gasol,4,2,38,1,Cutting Dunk Shot,0,-3,8,True
+Marc Gasol,1,3,54,1,Cutting Dunk Shot,0,1,1,True
+Marc Gasol,4,3,6,1,Cutting Dunk Shot,1,0,16,True
+Marc Gasol,1,8,48,1,Cutting Dunk Shot,1,-5,10,True
+Marc Gasol,1,11,41,1,Cutting Dunk Shot,0,-2,5,True
+Marc Gasol,2,7,28,1,Cutting Dunk Shot,0,-5,3,True
+Marc Gasol,3,4,52,1,Cutting Dunk Shot,1,-9,6,True
+Marc Gasol,2,4,0,1,Cutting Dunk Shot,1,8,12,True
+Marc Gasol,1,4,17,1,Cutting Dunk Shot,2,11,20,True
+Marc Gasol,3,3,53,1,Cutting Dunk Shot,1,-5,13,True
+Marc Gasol,4,3,25,1,Cutting Dunk Shot,1,-1,13,True
+Marc Gasol,1,6,24,1,Cutting Dunk Shot,1,9,6,True
+Marc Gasol,4,1,22,1,Cutting Dunk Shot,1,3,11,True
+Marc Gasol,1,6,16,1,Cutting Dunk Shot,1,2,15,True
+Marc Gasol,2,7,17,1,Cutting Dunk Shot,1,7,8,True
+Marc Gasol,1,6,14,1,Cutting Dunk Shot,1,13,11,True
+Marc Gasol,2,4,42,1,Cutting Finger Roll Layup Shot,0,0,5,True
+Marc Gasol,3,3,51,1,Cutting Finger Roll Layup Shot,1,-1,10,True
+Marc Gasol,2,3,1,0,Cutting Finger Roll Layup Shot,1,-12,6,True
+Marc Gasol,4,7,29,1,Cutting Finger Roll Layup Shot,1,-6,10,True
+Marc Gasol,4,2,22,1,Cutting Layup Shot,1,-3,10,True
+Marc Gasol,2,0,34,1,Cutting Layup Shot,4,-40,4,True
+Marc Gasol,1,3,25,1,Cutting Layup Shot,1,7,13,True
+Marc Gasol,1,3,55,1,Cutting Layup Shot,1,2,14,True
+Marc Gasol,1,8,35,1,Cutting Layup Shot,1,-2,16,True
+Marc Gasol,1,6,46,0,Cutting Layup Shot,0,-5,7,True
+Marc Gasol,3,6,9,0,Cutting Layup Shot,0,5,5,True
+Marc Gasol,3,3,34,1,Cutting Layup Shot,0,-8,5,True
+Marc Gasol,3,9,7,1,Cutting Layup Shot,1,-1,10,True
+Marc Gasol,2,5,45,0,Cutting Layup Shot,2,-11,21,True
+Marc Gasol,3,5,30,0,Cutting Layup Shot,1,16,5,True
+Marc Gasol,4,4,47,0,Cutting Layup Shot,3,26,18,True
+Marc Gasol,2,9,11,1,Cutting Layup Shot,1,7,14,True
+Marc Gasol,3,4,35,1,Cutting Layup Shot,0,0,-4,True
+Marc Gasol,1,6,14,1,Cutting Layup Shot,1,9,10,True
+Marc Gasol,4,6,59,1,Cutting Layup Shot,1,-14,7,True
+Marc Gasol,1,8,22,1,Cutting Layup Shot,0,-3,9,True
+Marc Gasol,3,10,18,0,Cutting Layup Shot,2,20,13,True
+Marc Gasol,3,7,59,0,Cutting Layup Shot,0,-1,4,True
+Marc Gasol,4,6,5,1,Cutting Layup Shot,0,6,-3,True
+Marc Gasol,3,6,3,0,Cutting Layup Shot,0,7,6,True
+Marc Gasol,3,5,44,1,Driving Bank Hook Shot,4,38,19,True
+Marc Gasol,4,6,4,1,Driving Bank Hook Shot,5,2,58,True
+Marc Gasol,1,10,3,1,Driving Dunk Shot,0,-4,6,True
+Marc Gasol,3,8,42,1,Driving Dunk Shot,1,0,13,True
+Marc Gasol,1,8,43,1,Driving Dunk Shot,1,2,10,True
+Marc Gasol,2,6,56,1,Driving Dunk Shot,0,-3,-1,True
+Marc Gasol,4,0,44,1,Driving Dunk Shot,2,2,22,True
+Marc Gasol,4,2,35,0,Driving Dunk Shot,0,2,-5,True
+Marc Gasol,3,3,44,1,Driving Dunk Shot,0,-3,5,True
+Marc Gasol,1,9,51,1,Driving Dunk Shot,14,-4,146,True
+Marc Gasol,1,2,45,1,Driving Dunk Shot,1,13,14,True
+Marc Gasol,3,4,55,1,Driving Finger Roll Layup Shot,1,3,11,True
+Marc Gasol,1,8,47,0,Driving Finger Roll Layup Shot,2,12,19,True
+Marc Gasol,1,5,44,1,Driving Finger Roll Layup Shot,1,12,10,True
+Marc Gasol,1,6,56,1,Driving Finger Roll Layup Shot,0,-1,7,True
+Marc Gasol,1,6,21,1,Driving Finger Roll Layup Shot,1,11,14,True
+Marc Gasol,3,6,40,1,Driving Floating Bank Jump Shot,3,30,-5,True
+Marc Gasol,4,1,4,1,Driving Floating Bank Jump Shot,4,36,31,True
+Marc Gasol,4,3,6,1,Driving Floating Bank Jump Shot,9,-62,70,True
+Marc Gasol,3,9,52,1,Driving Floating Bank Jump Shot,9,55,74,True
+Marc Gasol,3,7,32,1,Driving Floating Bank Jump Shot,8,-65,55,True
+Marc Gasol,3,6,44,0,Driving Floating Bank Jump Shot,7,22,73,True
+Marc Gasol,4,1,27,0,Driving Floating Jump Shot,8,40,71,True
+Marc Gasol,2,5,8,1,Driving Floating Jump Shot,8,-33,81,True
+Marc Gasol,4,8,51,1,Driving Floating Jump Shot,7,18,69,True
+Marc Gasol,2,1,10,0,Driving Floating Jump Shot,8,-9,89,True
+Marc Gasol,2,4,31,1,Driving Floating Jump Shot,10,-16,105,True
+Marc Gasol,2,4,16,0,Driving Floating Jump Shot,3,-21,34,True
+Marc Gasol,4,6,26,0,Driving Floating Jump Shot,5,37,44,True
+Marc Gasol,1,6,56,0,Driving Floating Jump Shot,5,6,57,True
+Marc Gasol,3,1,29,0,Driving Floating Jump Shot,8,-47,70,True
+Marc Gasol,1,4,41,0,Driving Floating Jump Shot,1,7,16,True
+Marc Gasol,2,2,40,0,Driving Floating Jump Shot,10,38,94,True
+Marc Gasol,1,3,22,0,Driving Floating Jump Shot,9,29,89,True
+Marc Gasol,4,5,6,1,Driving Floating Jump Shot,0,3,6,True
+Marc Gasol,1,7,19,1,Driving Floating Jump Shot,6,38,57,True
+Marc Gasol,4,0,51,0,Driving Floating Jump Shot,9,-5,92,True
+Marc Gasol,3,7,30,0,Driving Floating Jump Shot,5,-7,59,True
+Marc Gasol,1,4,3,0,Driving Floating Jump Shot,13,95,90,True
+Marc Gasol,1,4,2,1,Driving Floating Jump Shot,6,-2,69,True
+Marc Gasol,2,2,35,0,Driving Floating Jump Shot,1,-9,11,True
+Marc Gasol,4,9,19,0,Driving Floating Jump Shot,8,-5,80,True
+Marc Gasol,3,9,55,0,Driving Floating Jump Shot,6,0,64,True
+Marc Gasol,2,6,5,0,Driving Floating Jump Shot,7,5,73,True
+Marc Gasol,2,5,46,0,Driving Hook Shot,3,-5,36,True
+Marc Gasol,2,5,9,1,Driving Hook Shot,2,13,17,True
+Marc Gasol,1,3,30,0,Driving Hook Shot,4,30,36,True
+Marc Gasol,3,6,48,0,Driving Hook Shot,7,45,59,True
+Marc Gasol,4,8,8,1,Driving Hook Shot,4,-2,47,True
+Marc Gasol,1,7,21,1,Driving Hook Shot,7,12,72,True
+Marc Gasol,2,4,51,0,Driving Hook Shot,6,39,57,True
+Marc Gasol,3,11,6,0,Driving Hook Shot,3,0,38,True
+Marc Gasol,2,4,50,1,Driving Hook Shot,10,-11,101,True
+Marc Gasol,1,3,56,1,Driving Hook Shot,5,15,52,True
+Marc Gasol,1,6,26,0,Driving Hook Shot,4,3,41,True
+Marc Gasol,1,7,12,0,Driving Hook Shot,10,56,83,True
+Marc Gasol,3,4,1,1,Driving Hook Shot,7,29,64,True
+Marc Gasol,1,4,1,0,Driving Hook Shot,5,41,32,True
+Marc Gasol,3,8,26,0,Driving Hook Shot,8,17,79,True
+Marc Gasol,2,3,0,1,Driving Hook Shot,6,38,55,True
+Marc Gasol,3,6,43,0,Driving Hook Shot,9,0,99,True
+Marc Gasol,1,5,48,0,Driving Hook Shot,11,32,107,True
+Marc Gasol,3,7,12,1,Driving Hook Shot,10,-72,73,True
+Marc Gasol,4,2,25,0,Driving Hook Shot,3,11,28,True
+Marc Gasol,3,10,26,0,Driving Hook Shot,8,29,78,True
+Marc Gasol,3,5,14,1,Driving Hook Shot,9,-23,90,True
+Marc Gasol,1,10,57,0,Driving Hook Shot,5,20,55,True
+Marc Gasol,3,11,18,0,Driving Hook Shot,5,7,53,True
+Marc Gasol,1,8,4,0,Driving Layup Shot,1,2,13,True
+Marc Gasol,1,9,58,1,Driving Layup Shot,1,-10,8,True
+Marc Gasol,3,7,55,0,Driving Layup Shot,8,-6,80,True
+Marc Gasol,3,4,8,0,Driving Layup Shot,2,-24,16,True
+Marc Gasol,1,10,24,1,Driving Layup Shot,1,2,11,True
+Marc Gasol,1,5,7,1,Driving Layup Shot,6,-28,55,True
+Marc Gasol,4,2,1,0,Driving Layup Shot,1,6,13,True
+Marc Gasol,1,9,53,1,Driving Layup Shot,1,11,0,True
+Marc Gasol,1,5,20,0,Driving Layup Shot,2,-27,-1,True
+Marc Gasol,2,5,6,0,Driving Layup Shot,1,-9,11,True
+Marc Gasol,1,4,48,1,Driving Layup Shot,0,1,6,True
+Marc Gasol,1,11,32,0,Driving Layup Shot,0,0,6,True
+Marc Gasol,1,4,30,1,Driving Layup Shot,0,0,4,True
+Marc Gasol,1,5,17,0,Driving Layup Shot,6,17,66,True
+Marc Gasol,2,1,26,0,Driving Layup Shot,1,11,11,True
+Marc Gasol,1,10,29,0,Driving Layup Shot,2,20,9,True
+Marc Gasol,4,5,59,1,Driving Layup Shot,0,4,4,True
+Marc Gasol,2,2,58,0,Driving Layup Shot,1,1,17,True
+Marc Gasol,3,8,39,0,Driving Layup Shot,0,-9,4,True
+Marc Gasol,1,6,58,0,Driving Layup Shot,4,-24,38,True
+Marc Gasol,1,7,32,1,Driving Layup Shot,1,-2,14,True
+Marc Gasol,4,7,21,0,Driving Layup Shot,0,9,4,True
+Marc Gasol,1,7,36,1,Driving Layup Shot,0,1,6,True
+Marc Gasol,3,10,0,1,Driving Reverse Dunk Shot,1,-3,13,True
+Marc Gasol,1,6,44,1,Driving Reverse Layup Shot,1,6,15,True
+Marc Gasol,2,6,31,0,Driving Reverse Layup Shot,0,0,5,True
+Marc Gasol,4,5,26,0,Driving Reverse Layup Shot,4,25,34,True
+Marc Gasol,2,2,12,1,Driving Reverse Layup Shot,1,-11,11,True
+Marc Gasol,4,5,22,1,Driving Reverse Layup Shot,1,-3,10,True
+Marc Gasol,2,0,56,1,Driving Reverse Layup Shot,1,16,3,True
+Marc Gasol,1,11,41,1,Dunk Shot,0,1,6,True
+Marc Gasol,2,3,44,1,Dunk Shot,0,1,8,True
+Marc Gasol,3,7,33,1,Dunk Shot,1,3,15,True
+Marc Gasol,2,3,47,0,Dunk Shot,0,0,5,True
+Marc Gasol,2,0,59,1,Dunk Shot,0,0,8,True
+Marc Gasol,3,10,4,1,Dunk Shot,0,-5,8,True
+Marc Gasol,2,7,23,1,Dunk Shot,0,0,-6,True
+Marc Gasol,1,5,11,1,Dunk Shot,0,3,7,True
+Marc Gasol,4,4,9,0,Fadeaway Jump Shot,7,4,74,True
+Marc Gasol,2,4,40,0,Fadeaway Jump Shot,13,2,131,True
+Marc Gasol,2,6,45,0,Fadeaway Jump Shot,12,-125,31,True
+Marc Gasol,4,7,27,0,Fadeaway Jump Shot,6,65,22,True
+Marc Gasol,2,2,31,0,Fadeaway Jump Shot,5,18,52,True
+Marc Gasol,1,7,52,0,Fadeaway Jump Shot,12,-42,114,True
+Marc Gasol,2,0,16,0,Fadeaway Jump Shot,9,24,93,True
+Marc Gasol,1,9,10,1,Fadeaway Jump Shot,8,-69,41,True
+Marc Gasol,3,7,45,1,Fadeaway Jump Shot,9,-95,10,True
+Marc Gasol,4,7,26,0,Fadeaway Jump Shot,14,-65,126,True
+Marc Gasol,3,10,36,0,Fadeaway Jump Shot,7,-2,75,True
+Marc Gasol,1,10,20,0,Fadeaway Jump Shot,11,-100,55,True
+Marc Gasol,2,1,28,1,Fadeaway Jump Shot,3,-31,1,True
+Marc Gasol,1,4,9,0,Fadeaway Jump Shot,7,-60,44,True
+Marc Gasol,2,0,0,0,Fadeaway Jump Shot,13,3,133,True
+Marc Gasol,4,0,47,0,Fadeaway Jump Shot,11,96,66,True
+Marc Gasol,4,3,52,1,Fadeaway Jump Shot,7,-5,78,True
+Marc Gasol,1,3,26,0,Fadeaway Jump Shot,11,-107,30,True
+Marc Gasol,1,5,29,0,Fadeaway Jump Shot,10,-86,53,True
+Marc Gasol,4,5,24,0,Fadeaway Jump Shot,14,8,142,True
+Marc Gasol,4,0,12,1,Fadeaway Jump Shot,10,-58,88,True
+Marc Gasol,3,7,51,0,Finger Roll Layup Shot,1,-9,13,True
+Marc Gasol,4,6,32,0,Finger Roll Layup Shot,3,-39,6,True
+Marc Gasol,2,4,35,1,Finger Roll Layup Shot,1,6,9,True
+Marc Gasol,1,5,24,0,Finger Roll Layup Shot,2,3,21,True
+Marc Gasol,3,7,22,1,Floating Jump shot,10,-12,104,True
+Marc Gasol,3,4,15,1,Floating Jump shot,8,8,89,True
+Marc Gasol,3,7,35,0,Floating Jump shot,1,14,4,True
+Marc Gasol,1,7,1,0,Floating Jump shot,10,25,100,True
+Marc Gasol,4,4,15,1,Floating Jump shot,8,8,83,True
+Marc Gasol,2,0,5,0,Floating Jump shot,8,2,83,True
+Marc Gasol,1,8,50,0,Floating Jump shot,9,-5,98,True
+Marc Gasol,5,0,26,0,Floating Jump shot,10,-72,78,True
+Marc Gasol,2,7,5,1,Floating Jump shot,17,-17,175,True
+Marc Gasol,2,3,36,1,Hook Shot,9,-58,71,True
+Marc Gasol,1,4,5,0,Hook Shot,12,0,125,True
+Marc Gasol,1,11,21,0,Hook Shot,4,-13,46,True
+Marc Gasol,1,4,24,0,Hook Shot,2,-2,25,True
+Marc Gasol,3,6,45,1,Hook Shot,11,-95,62,True
+Marc Gasol,1,10,4,0,Hook Shot,7,-57,55,True
+Marc Gasol,1,5,53,0,Hook Shot,7,-58,46,True
+Marc Gasol,2,5,24,1,Hook Shot,4,-13,45,True
+Marc Gasol,4,5,39,0,Hook Shot,6,-12,59,True
+Marc Gasol,1,6,7,0,Hook Shot,6,0,68,True
+Marc Gasol,3,6,6,0,Hook Shot,4,-40,6,True
+Marc Gasol,4,5,2,0,Hook Shot,7,-29,68,True
+Marc Gasol,4,5,16,0,Hook Shot,1,-2,15,True
+Marc Gasol,3,6,30,0,Hook Shot,6,11,68,True
+Marc Gasol,1,3,58,0,Hook Shot,6,-3,62,True
+Marc Gasol,3,6,24,1,Hook Shot,6,65,23,True
+Marc Gasol,2,4,1,0,Hook Shot,12,59,110,True
+Marc Gasol,3,7,30,0,Hook Shot,7,73,25,True
+Marc Gasol,2,5,34,1,Hook Shot,0,-4,9,True
+Marc Gasol,2,4,15,0,Hook Shot,7,18,73,True
+Marc Gasol,2,8,55,1,Hook Shot,8,-2,85,True
+Marc Gasol,4,8,31,1,Hook Shot,6,-6,65,True
+Marc Gasol,4,2,26,1,Hook Shot,8,-35,79,True
+Marc Gasol,4,0,15,0,Hook Shot,8,87,-3,True
+Marc Gasol,1,3,4,1,Hook Shot,7,-76,4,True
+Marc Gasol,3,5,10,0,Hook Shot,5,-55,-2,True
+Marc Gasol,1,6,15,0,Hook Shot,4,-5,43,True
+Marc Gasol,2,6,27,1,Hook Shot,7,-72,2,True
+Marc Gasol,1,2,44,0,Hook Shot,4,21,37,True
+Marc Gasol,1,2,51,0,Hook Shot,11,-1,112,True
+Marc Gasol,1,8,17,1,Hook Shot,11,38,106,True
+Marc Gasol,2,4,18,0,Hook Shot,7,-6,70,True
+Marc Gasol,4,8,16,0,Hook Shot,3,-32,13,True
+Marc Gasol,3,6,38,0,Hook Shot,2,4,29,True
+Marc Gasol,1,3,13,0,Hook Shot,6,24,57,True
+Marc Gasol,1,5,25,1,Hook Shot,5,-27,53,True
+Marc Gasol,4,0,0,1,Jump Bank Shot,23,157,177,True
+Marc Gasol,3,11,26,0,Jump Shot,22,-105,198,True
+Marc Gasol,2,2,0,1,Jump Shot,18,145,110,True
+Marc Gasol,3,11,12,1,Jump Shot,25,-43,248,False
+Marc Gasol,1,8,41,0,Jump Shot,19,-192,37,True
+Marc Gasol,1,9,30,0,Jump Shot,24,9,249,False
+Marc Gasol,2,4,48,0,Jump Shot,8,79,35,True
+Marc Gasol,2,5,36,0,Jump Shot,19,-121,149,True
+Marc Gasol,2,0,46,0,Jump Shot,26,18,262,False
+Marc Gasol,2,4,28,1,Jump Shot,15,98,125,True
+Marc Gasol,1,10,59,0,Jump Shot,11,96,58,True
+Marc Gasol,3,10,31,0,Jump Shot,21,-47,205,True
+Marc Gasol,2,7,42,0,Jump Shot,19,75,181,True
+Marc Gasol,2,1,37,0,Jump Shot,21,-117,179,True
+Marc Gasol,2,5,16,0,Jump Shot,20,15,200,True
+Marc Gasol,3,8,3,1,Jump Shot,20,-9,206,True
+Marc Gasol,4,5,56,1,Jump Shot,25,-76,240,False
+Marc Gasol,2,1,57,0,Jump Shot,18,22,185,True
+Marc Gasol,4,5,36,0,Jump Shot,25,-14,255,False
+Marc Gasol,3,9,46,0,Jump Shot,25,6,252,False
+Marc Gasol,2,10,5,1,Jump Shot,19,-130,140,True
+Marc Gasol,3,9,48,1,Jump Shot,21,-161,143,True
+Marc Gasol,2,9,4,0,Jump Shot,25,-71,245,False
+Marc Gasol,3,0,3,0,Jump Shot,25,73,248,False
+Marc Gasol,1,7,9,0,Jump Shot,21,110,179,True
+Marc Gasol,1,7,23,0,Jump Shot,14,-147,22,True
+Marc Gasol,3,8,32,1,Jump Shot,25,-85,241,False
+Marc Gasol,3,7,13,0,Jump Shot,26,-33,259,False
+Marc Gasol,3,6,5,1,Jump Shot,15,-101,111,True
+Marc Gasol,4,5,35,0,Jump Shot,25,-78,246,False
+Marc Gasol,1,0,40,0,Jump Shot,25,-32,250,False
+Marc Gasol,3,4,1,0,Jump Shot,26,-18,260,False
+Marc Gasol,2,10,54,0,Jump Shot,21,-2,210,True
+Marc Gasol,1,6,30,1,Jump Shot,25,59,244,False
+Marc Gasol,2,4,39,1,Jump Shot,25,60,248,False
+Marc Gasol,1,11,22,0,Jump Shot,25,109,236,False
+Marc Gasol,2,4,1,0,Jump Shot,12,-109,55,True
+Marc Gasol,2,4,34,1,Jump Shot,21,70,201,True
+Marc Gasol,4,3,37,1,Jump Shot,25,5,255,False
+Marc Gasol,1,8,8,1,Jump Shot,25,27,251,False
+Marc Gasol,3,9,27,0,Jump Shot,25,-29,255,False
+Marc Gasol,1,6,23,1,Jump Shot,14,-94,115,True
+Marc Gasol,3,3,55,0,Jump Shot,26,-143,222,False
+Marc Gasol,1,10,18,1,Jump Shot,13,-112,71,True
+Marc Gasol,1,3,22,0,Jump Shot,26,-35,259,False
+Marc Gasol,2,1,54,1,Jump Shot,16,-167,8,True
+Marc Gasol,4,0,45,0,Jump Shot,26,-122,230,False
+Marc Gasol,4,11,9,1,Jump Shot,25,-35,248,False
+Marc Gasol,1,9,40,0,Jump Shot,22,-227,-11,False
+Marc Gasol,3,8,3,0,Jump Shot,26,-96,242,False
+Marc Gasol,1,7,6,1,Jump Shot,20,-176,103,True
+Marc Gasol,1,5,33,0,Jump Shot,28,-75,279,False
+Marc Gasol,4,5,31,0,Jump Shot,25,-35,252,False
+Marc Gasol,1,4,34,0,Jump Shot,17,-42,172,True
+Marc Gasol,3,1,59,1,Jump Shot,13,-131,42,True
+Marc Gasol,2,4,2,1,Jump Shot,26,-119,240,False
+Marc Gasol,1,6,44,0,Jump Shot,10,14,101,True
+Marc Gasol,1,6,6,1,Jump Shot,7,70,37,True
+Marc Gasol,1,8,20,1,Jump Shot,19,117,161,True
+Marc Gasol,2,6,6,0,Jump Shot,17,114,127,True
+Marc Gasol,3,2,52,1,Jump Shot,28,-193,205,False
+Marc Gasol,3,11,21,1,Jump Shot,25,96,233,False
+Marc Gasol,1,10,52,1,Jump Shot,25,-221,120,False
+Marc Gasol,3,4,47,0,Jump Shot,28,-186,221,False
+Marc Gasol,4,7,5,0,Jump Shot,28,-144,248,False
+Marc Gasol,2,3,44,0,Jump Shot,13,-42,127,True
+Marc Gasol,3,9,28,1,Jump Shot,26,-88,252,False
+Marc Gasol,4,4,4,0,Jump Shot,7,-22,68,True
+Marc Gasol,2,2,45,0,Jump Shot,26,-148,216,False
+Marc Gasol,2,1,46,1,Jump Shot,19,-117,160,True
+Marc Gasol,3,8,23,0,Jump Shot,28,6,281,False
+Marc Gasol,3,11,2,0,Jump Shot,25,-44,248,False
+Marc Gasol,1,6,22,0,Jump Shot,26,-112,241,False
+Marc Gasol,4,7,53,1,Jump Shot,25,-32,251,False
+Marc Gasol,2,6,56,0,Jump Shot,26,-106,239,False
+Marc Gasol,1,1,7,0,Jump Shot,25,79,242,False
+Marc Gasol,4,8,6,0,Jump Shot,25,100,237,False
+Marc Gasol,1,6,56,0,Jump Shot,22,94,200,True
+Marc Gasol,1,5,10,0,Jump Shot,25,71,246,False
+Marc Gasol,4,5,6,0,Jump Shot,23,5,233,True
+Marc Gasol,2,6,47,1,Jump Shot,24,-29,248,False
+Marc Gasol,3,7,0,1,Jump Shot,25,-51,254,False
+Marc Gasol,1,8,46,0,Jump Shot,15,-114,101,True
+Marc Gasol,4,5,4,1,Jump Shot,26,39,267,False
+Marc Gasol,1,10,28,0,Jump Shot,26,-111,238,False
+Marc Gasol,3,5,35,0,Jump Shot,25,-123,221,False
+Marc Gasol,4,0,1,0,Jump Shot,24,-163,182,False
+Marc Gasol,1,9,3,0,Jump Shot,25,-23,253,False
+Marc Gasol,3,10,49,0,Jump Shot,26,-97,243,False
+Marc Gasol,2,0,26,1,Jump Shot,25,117,225,False
+Marc Gasol,1,4,31,0,Jump Shot,21,109,180,True
+Marc Gasol,4,0,50,0,Jump Shot,29,-197,221,False
+Marc Gasol,3,11,48,0,Jump Shot,26,131,230,False
+Marc Gasol,4,1,24,0,Jump Shot,9,-88,-24,True
+Marc Gasol,3,9,27,1,Jump Shot,12,123,10,True
+Marc Gasol,2,3,9,0,Jump Shot,26,-209,155,False
+Marc Gasol,1,5,41,0,Jump Shot,26,145,218,False
+Marc Gasol,1,8,15,0,Jump Shot,24,96,226,False
+Marc Gasol,4,0,0,0,Jump Shot,36,22,364,False
+Marc Gasol,4,10,46,0,Jump Shot,26,-106,248,False
+Marc Gasol,1,8,35,0,Jump Shot,20,-34,205,True
+Marc Gasol,3,10,7,1,Jump Shot,25,84,246,False
+Marc Gasol,1,7,34,1,Jump Shot,21,-68,206,True
+Marc Gasol,4,0,14,0,Jump Shot,26,-44,260,False
+Marc Gasol,3,5,22,0,Jump Shot,13,-115,65,True
+Marc Gasol,1,7,54,1,Jump Shot,25,-103,232,False
+Marc Gasol,4,7,24,0,Jump Shot,25,-73,243,False
+Marc Gasol,3,9,10,0,Jump Shot,25,152,202,False
+Marc Gasol,1,5,26,1,Jump Shot,26,-168,201,False
+Marc Gasol,1,8,57,0,Jump Shot,15,103,119,True
+Marc Gasol,4,10,13,0,Jump Shot,15,149,32,True
+Marc Gasol,4,0,3,0,Jump Shot,28,21,283,False
+Marc Gasol,1,10,19,1,Jump Shot,26,-130,226,False
+Marc Gasol,4,5,47,0,Jump Shot,26,-100,243,False
+Marc Gasol,3,10,15,1,Jump Shot,17,121,120,True
+Marc Gasol,3,7,56,0,Jump Shot,26,104,243,False
+Marc Gasol,3,10,39,1,Jump Shot,13,-130,21,True
+Marc Gasol,2,3,52,0,Jump Shot,25,-13,254,False
+Marc Gasol,2,6,24,1,Jump Shot,21,-145,160,True
+Marc Gasol,3,4,8,0,Jump Shot,24,69,238,False
+Marc Gasol,3,0,27,0,Jump Shot,26,24,264,False
+Marc Gasol,3,5,42,1,Jump Shot,25,-9,251,False
+Marc Gasol,1,4,59,0,Jump Shot,24,-81,232,False
+Marc Gasol,3,9,14,0,Jump Shot,19,-115,152,True
+Marc Gasol,4,3,44,0,Jump Shot,24,-237,78,False
+Marc Gasol,4,7,29,0,Jump Shot,26,-49,257,False
+Marc Gasol,1,9,3,0,Jump Shot,21,57,206,True
+Marc Gasol,1,7,16,1,Jump Shot,25,52,247,False
+Marc Gasol,3,11,27,1,Jump Shot,21,-89,193,True
+Marc Gasol,1,4,2,1,Jump Shot,11,-102,52,True
+Marc Gasol,3,11,43,1,Jump Shot,20,-114,168,True
+Marc Gasol,1,7,35,0,Jump Shot,10,-105,21,True
+Marc Gasol,4,8,58,1,Jump Shot,26,-40,260,False
+Marc Gasol,3,4,55,0,Jump Shot,25,90,239,False
+Marc Gasol,1,8,56,0,Jump Shot,25,-41,252,False
+Marc Gasol,1,4,17,0,Jump Shot,20,-109,179,True
+Marc Gasol,3,10,2,1,Jump Shot,25,-85,243,False
+Marc Gasol,4,0,15,0,Jump Shot,25,-126,222,False
+Marc Gasol,4,5,48,0,Jump Shot,25,81,243,False
+Marc Gasol,4,4,20,1,Jump Shot,24,172,180,False
+Marc Gasol,1,11,7,0,Jump Shot,21,-90,195,True
+Marc Gasol,3,11,13,0,Jump Shot,15,13,155,True
+Marc Gasol,4,0,48,0,Jump Shot,25,5,259,False
+Marc Gasol,1,3,54,0,Jump Shot,24,-134,206,False
+Marc Gasol,3,11,8,0,Jump Shot,25,-84,241,False
+Marc Gasol,3,7,49,1,Jump Shot,25,101,237,False
+Marc Gasol,4,0,0,0,Jump Shot,51,-8,510,False
+Marc Gasol,4,6,40,0,Jump Shot,16,48,153,True
+Marc Gasol,4,0,34,0,Jump Shot,18,-22,179,True
+Marc Gasol,1,6,52,1,Jump Shot,18,-20,188,True
+Marc Gasol,4,4,54,0,Jump Shot,26,-133,227,False
+Marc Gasol,2,6,55,0,Jump Shot,25,-81,241,False
+Marc Gasol,1,10,30,0,Jump Shot,25,-96,232,False
+Marc Gasol,3,1,47,0,Jump Shot,20,-2,205,True
+Marc Gasol,4,7,22,0,Jump Shot,22,-132,179,True
+Marc Gasol,2,4,2,0,Jump Shot,19,-166,101,True
+Marc Gasol,3,11,5,1,Jump Shot,19,-128,152,True
+Marc Gasol,2,1,14,1,Jump Shot,12,-43,117,True
+Marc Gasol,1,7,53,1,Jump Shot,25,-71,241,False
+Marc Gasol,3,10,43,1,Jump Shot,27,-127,247,False
+Marc Gasol,1,5,17,1,Jump Shot,25,-169,189,False
+Marc Gasol,3,10,16,1,Jump Shot,26,-16,267,False
+Marc Gasol,1,11,37,0,Jump Shot,19,77,174,True
+Marc Gasol,1,10,41,1,Jump Shot,18,73,172,True
+Marc Gasol,1,10,54,1,Jump Shot,20,-24,206,True
+Marc Gasol,4,5,14,0,Jump Shot,6,60,6,True
+Marc Gasol,2,4,3,0,Jump Shot,25,-106,227,False
+Marc Gasol,3,10,49,1,Jump Shot,26,24,259,False
+Marc Gasol,1,6,59,1,Jump Shot,22,-3,223,True
+Marc Gasol,2,2,2,1,Jump Shot,14,-74,126,True
+Marc Gasol,3,7,9,0,Jump Shot,28,129,259,False
+Marc Gasol,2,2,59,0,Jump Shot,26,85,246,False
+Marc Gasol,1,9,10,0,Jump Shot,25,143,211,False
+Marc Gasol,3,4,13,0,Jump Shot,14,41,136,True
+Marc Gasol,1,7,12,1,Jump Shot,25,0,256,False
+Marc Gasol,2,4,28,0,Jump Shot,19,-44,190,True
+Marc Gasol,4,6,58,0,Jump Shot,24,113,222,False
+Marc Gasol,2,4,42,1,Jump Shot,14,-106,94,True
+Marc Gasol,1,9,38,0,Jump Shot,16,-48,153,True
+Marc Gasol,4,9,49,1,Jump Shot,27,-5,273,False
+Marc Gasol,4,7,27,0,Jump Shot,25,71,246,False
+Marc Gasol,1,7,8,0,Jump Shot,26,15,267,False
+Marc Gasol,3,0,8,1,Jump Shot,26,-111,243,False
+Marc Gasol,3,1,18,1,Jump Shot,25,-125,222,False
+Marc Gasol,4,6,48,0,Jump Shot,22,-51,218,True
+Marc Gasol,1,10,45,1,Jump Shot,18,-126,142,True
+Marc Gasol,3,11,46,0,Jump Shot,25,0,255,False
+Marc Gasol,3,3,9,1,Jump Shot,20,-100,174,True
+Marc Gasol,2,2,24,1,Jump Shot,19,-106,164,True
+Marc Gasol,3,1,53,1,Jump Shot,25,-118,229,False
+Marc Gasol,2,1,51,1,Jump Shot,17,27,168,True
+Marc Gasol,3,0,48,0,Jump Shot,7,-44,58,True
+Marc Gasol,3,6,51,1,Jump Shot,26,51,255,False
+Marc Gasol,3,7,58,1,Jump Shot,19,-129,142,True
+Marc Gasol,1,9,41,0,Jump Shot,24,-3,241,False
+Marc Gasol,1,5,57,0,Jump Shot,24,-116,219,False
+Marc Gasol,3,11,18,0,Jump Shot,26,-125,238,False
+Marc Gasol,3,10,10,1,Jump Shot,26,-61,257,False
+Marc Gasol,2,4,29,0,Jump Shot,19,131,149,True
+Marc Gasol,2,2,0,1,Jump Shot,20,-153,132,True
+Marc Gasol,2,0,0,0,Jump Shot,50,95,495,False
+Marc Gasol,1,8,36,0,Jump Shot,25,84,238,False
+Marc Gasol,3,5,31,0,Jump Shot,24,-152,194,False
+Marc Gasol,1,5,22,1,Jump Shot,26,36,263,False
+Marc Gasol,1,5,12,0,Jump Shot,22,-86,209,True
+Marc Gasol,3,9,5,0,Jump Shot,25,128,226,False
+Marc Gasol,4,0,41,0,Jump Shot,27,-163,217,False
+Marc Gasol,4,7,45,1,Jump Shot,24,114,221,False
+Marc Gasol,1,10,39,1,Jump Shot,17,-51,167,True
+Marc Gasol,2,5,55,1,Jump Shot,25,20,252,False
+Marc Gasol,2,3,16,1,Jump Shot,24,67,240,False
+Marc Gasol,3,11,31,1,Jump Shot,22,228,17,False
+Marc Gasol,2,7,42,1,Jump Shot,12,-103,79,True
+Marc Gasol,3,6,33,1,Jump Shot,25,69,248,False
+Marc Gasol,2,1,1,1,Jump Shot,24,-89,231,False
+Marc Gasol,2,2,9,1,Jump Shot,24,-218,121,False
+Marc Gasol,1,8,27,1,Jump Shot,16,-145,68,True
+Marc Gasol,2,5,53,1,Jump Shot,23,-232,3,False
+Marc Gasol,3,6,5,1,Jump Shot,25,-5,254,False
+Marc Gasol,3,7,54,0,Jump Shot,29,11,299,False
+Marc Gasol,3,8,29,1,Jump Shot,20,-201,6,True
+Marc Gasol,1,5,13,0,Jump Shot,25,66,243,False
+Marc Gasol,3,11,9,0,Jump Shot,15,-147,48,True
+Marc Gasol,3,7,15,1,Jump Shot,25,69,242,False
+Marc Gasol,3,6,43,1,Jump Shot,25,2,258,False
+Marc Gasol,3,10,13,1,Jump Shot,25,136,212,False
+Marc Gasol,3,9,53,0,Jump Shot,25,209,147,False
+Marc Gasol,4,4,0,1,Jump Shot,26,-106,238,False
+Marc Gasol,2,7,3,1,Jump Shot,21,-105,188,True
+Marc Gasol,2,5,59,0,Jump Shot,26,88,248,False
+Marc Gasol,3,8,46,1,Jump Shot,13,-13,132,True
+Marc Gasol,4,0,29,1,Jump Shot,25,91,236,False
+Marc Gasol,3,9,40,0,Jump Shot,24,-116,221,False
+Marc Gasol,3,6,6,0,Jump Shot,20,-105,176,True
+Marc Gasol,1,10,25,0,Jump Shot,21,-40,210,True
+Marc Gasol,3,11,31,0,Jump Shot,26,-30,265,False
+Marc Gasol,3,5,55,0,Jump Shot,25,11,251,False
+Marc Gasol,1,11,14,1,Jump Shot,25,-125,222,False
+Marc Gasol,3,9,20,1,Jump Shot,18,-183,-14,True
+Marc Gasol,1,6,16,0,Jump Shot,26,43,263,False
+Marc Gasol,2,2,30,0,Jump Shot,25,11,256,False
+Marc Gasol,4,0,3,0,Jump Shot,23,-234,-6,False
+Marc Gasol,1,9,56,0,Jump Shot,12,126,26,True
+Marc Gasol,4,10,3,1,Jump Shot,18,-107,152,True
+Marc Gasol,1,7,14,0,Jump Shot,22,-220,27,False
+Marc Gasol,4,6,28,0,Jump Shot,25,3,259,False
+Marc Gasol,2,6,53,1,Jump Shot,24,-2,245,False
+Marc Gasol,4,9,38,0,Jump Shot,25,172,186,False
+Marc Gasol,4,2,10,0,Jump Shot,8,81,16,True
+Marc Gasol,4,8,19,1,Jump Shot,25,-85,244,False
+Marc Gasol,3,9,19,1,Jump Shot,25,18,252,False
+Marc Gasol,2,5,38,1,Jump Shot,25,-43,248,False
+Marc Gasol,1,10,37,1,Jump Shot,15,88,125,True
+Marc Gasol,1,5,38,1,Jump Shot,20,-88,181,True
+Marc Gasol,3,6,46,0,Jump Shot,19,-139,137,True
+Marc Gasol,4,9,6,1,Jump Shot,25,-151,205,False
+Marc Gasol,2,0,32,1,Jump Shot,18,154,107,True
+Marc Gasol,3,10,42,0,Jump Shot,20,121,171,True
+Marc Gasol,2,8,19,1,Jump Shot,21,-106,187,True
+Marc Gasol,4,4,39,0,Jump Shot,18,-114,149,True
+Marc Gasol,3,4,9,0,Jump Shot,19,-109,167,True
+Marc Gasol,2,4,42,1,Jump Shot,26,98,242,False
+Marc Gasol,4,5,54,0,Jump Shot,25,-128,222,False
+Marc Gasol,4,1,2,0,Jump Shot,25,65,248,False
+Marc Gasol,1,11,36,1,Jump Shot,11,-103,53,True
+Marc Gasol,2,0,53,0,Jump Shot,25,9,253,False
+Marc Gasol,1,11,43,0,Jump Shot,10,-101,27,True
+Marc Gasol,3,1,32,0,Jump Shot,27,-86,258,False
+Marc Gasol,4,10,32,1,Jump Shot,20,-18,207,True
+Marc Gasol,4,0,0,0,Jump Shot,27,-115,248,False
+Marc Gasol,2,2,14,0,Jump Shot,26,131,226,False
+Marc Gasol,3,5,51,0,Jump Shot,12,-128,-1,True
+Marc Gasol,1,10,2,0,Jump Shot,28,-118,263,False
+Marc Gasol,4,0,8,0,Jump Shot,31,2,311,False
+Marc Gasol,2,11,50,0,Jump Shot,13,-136,24,True
+Marc Gasol,4,1,52,1,Jump Shot,20,-201,-16,True
+Marc Gasol,3,0,12,1,Jump Shot,17,145,96,True
+Marc Gasol,4,11,47,1,Jump Shot,25,-24,254,False
+Marc Gasol,1,2,8,0,Jump Shot,21,-107,190,True
+Marc Gasol,2,1,38,1,Jump Shot,19,35,187,True
+Marc Gasol,2,1,49,0,Jump Shot,17,-150,82,True
+Marc Gasol,1,11,15,1,Jump Shot,18,27,188,True
+Marc Gasol,4,0,27,1,Jump Shot,30,-17,306,False
+Marc Gasol,2,4,54,0,Jump Shot,25,-89,242,False
+Marc Gasol,1,6,27,1,Jump Shot,14,-143,20,True
+Marc Gasol,1,4,26,1,Jump Shot,19,-65,185,True
+Marc Gasol,2,3,52,1,Jump Shot,14,-98,110,True
+Marc Gasol,2,2,36,0,Jump Shot,22,81,206,True
+Marc Gasol,3,8,13,0,Jump Shot,25,-82,243,False
+Marc Gasol,1,10,36,1,Jump Shot,26,-97,242,False
+Marc Gasol,4,2,3,0,Jump Shot,25,111,235,False
+Marc Gasol,2,6,54,0,Jump Shot,17,-33,172,True
+Marc Gasol,1,10,53,1,Jump Shot,25,33,255,False
+Marc Gasol,3,7,30,1,Jump Shot,12,-89,89,True
+Marc Gasol,3,6,51,0,Jump Shot,25,10,257,False
+Marc Gasol,4,8,18,0,Jump Shot,27,-115,247,False
+Marc Gasol,2,11,6,0,Jump Shot,20,71,187,True
+Marc Gasol,2,9,30,0,Jump Shot,20,66,197,True
+Marc Gasol,3,7,56,1,Jump Shot,27,2,273,False
+Marc Gasol,4,7,49,1,Jump Shot,25,-159,197,False
+Marc Gasol,1,1,46,0,Jump Shot,25,-154,198,False
+Marc Gasol,3,9,29,0,Jump Shot,27,-70,262,False
+Marc Gasol,2,0,34,0,Jump Shot,25,-193,161,False
+Marc Gasol,1,1,8,1,Jump Shot,5,-31,40,True
+Marc Gasol,4,4,51,0,Jump Shot,25,-172,191,False
+Marc Gasol,2,4,23,1,Jump Shot,20,-5,205,True
+Marc Gasol,1,11,2,1,Jump Shot,19,-86,178,True
+Marc Gasol,3,9,1,1,Jump Shot,25,-58,244,False
+Marc Gasol,1,9,49,0,Jump Shot,25,-176,184,False
+Marc Gasol,2,9,29,0,Jump Shot,6,25,58,True
+Marc Gasol,3,8,20,0,Jump Shot,25,188,173,False
+Marc Gasol,3,2,47,0,Jump Shot,25,-123,227,False
+Marc Gasol,2,2,18,0,Jump Shot,23,230,29,False
+Marc Gasol,4,3,8,0,Jump Shot,20,103,183,True
+Marc Gasol,1,8,15,1,Jump Shot,16,-107,124,True
+Marc Gasol,3,6,11,0,Jump Shot,25,-136,220,False
+Marc Gasol,4,11,41,1,Jump Shot,19,82,173,True
+Marc Gasol,1,5,19,1,Jump Shot,26,112,237,False
+Marc Gasol,3,7,17,0,Jump Shot,22,-83,206,True
+Marc Gasol,4,5,38,0,Jump Shot,27,-134,238,False
+Marc Gasol,1,11,34,0,Jump Shot,15,127,93,True
+Marc Gasol,1,8,28,1,Jump Shot,20,105,176,True
+Marc Gasol,3,11,40,1,Jump Shot,16,-79,147,True
+Marc Gasol,1,6,23,0,Jump Shot,24,-106,220,False
+Marc Gasol,3,11,5,0,Jump Shot,26,54,258,False
+Marc Gasol,3,8,7,0,Jump Shot,8,-57,62,True
+Marc Gasol,1,11,29,1,Jump Shot,21,29,218,True
+Marc Gasol,4,7,8,0,Jump Shot,19,4,199,True
+Marc Gasol,3,8,55,0,Jump Shot,26,-58,254,False
+Marc Gasol,3,4,33,0,Jump Shot,24,100,225,False
+Marc Gasol,4,8,24,0,Jump Shot,25,2,259,False
+Marc Gasol,1,5,17,0,Jump Shot,25,-160,198,False
+Marc Gasol,3,0,6,0,Jump Shot,25,18,252,False
+Marc Gasol,3,10,33,0,Jump Shot,24,-143,200,False
+Marc Gasol,2,6,14,0,Jump Shot,11,-117,0,True
+Marc Gasol,2,5,5,1,Jump Shot,16,-37,156,True
+Marc Gasol,2,2,22,0,Jump Shot,14,-96,106,True
+Marc Gasol,1,7,51,0,Jump Shot,26,-15,263,False
+Marc Gasol,5,2,26,1,Jump Shot,13,-109,84,True
+Marc Gasol,2,8,7,1,Jump Shot,6,0,66,True
+Marc Gasol,3,8,30,1,Jump Shot,25,-18,256,False
+Marc Gasol,2,0,20,1,Jump Shot,26,-59,258,False
+Marc Gasol,1,9,36,0,Jump Shot,25,-96,239,False
+Marc Gasol,4,6,10,0,Jump Shot,9,-98,12,True
+Marc Gasol,1,5,12,0,Jump Shot,15,1,157,True
+Marc Gasol,3,5,52,0,Jump Shot,15,-154,7,True
+Marc Gasol,3,7,8,0,Jump Shot,26,-196,179,False
+Marc Gasol,1,10,8,1,Jump Shot,17,-46,173,True
+Marc Gasol,1,6,29,0,Jump Shot,16,-103,135,True
+Marc Gasol,3,10,30,0,Jump Shot,14,14,147,True
+Marc Gasol,2,7,6,0,Jump Shot,25,-166,190,False
+Marc Gasol,2,3,58,0,Jump Shot,25,-33,252,False
+Marc Gasol,2,7,37,1,Jump Shot,25,-113,225,False
+Marc Gasol,1,10,0,1,Jump Shot,27,46,272,False
+Marc Gasol,1,11,46,0,Jump Shot,10,1,105,True
+Marc Gasol,3,7,33,0,Jump Shot,18,9,181,True
+Marc Gasol,4,6,19,1,Jump Shot,25,-57,253,False
+Marc Gasol,4,5,47,0,Jump Shot,26,63,254,False
+Marc Gasol,4,10,47,0,Jump Shot,13,-60,121,True
+Marc Gasol,3,9,52,0,Jump Shot,26,-112,236,False
+Marc Gasol,1,9,2,1,Jump Shot,22,-90,203,True
+Marc Gasol,1,5,42,1,Jump Shot,14,-143,7,True
+Marc Gasol,2,1,3,0,Jump Shot,26,1,262,False
+Marc Gasol,2,1,44,1,Jump Shot,19,-102,172,True
+Marc Gasol,4,1,41,0,Jump Shot,26,47,256,False
+Marc Gasol,4,6,29,0,Jump Shot,25,101,238,False
+Marc Gasol,1,8,17,0,Jump Shot,22,-150,163,True
+Marc Gasol,1,6,15,0,Jump Shot,19,-139,134,True
+Marc Gasol,3,8,15,1,Jump Shot,26,-119,236,False
+Marc Gasol,4,7,23,0,Jump Shot,26,-130,228,False
+Marc Gasol,1,7,56,0,Jump Shot,20,138,152,True
+Marc Gasol,3,11,35,1,Jump Shot,24,108,223,False
+Marc Gasol,2,6,39,1,Jump Shot,19,130,141,True
+Marc Gasol,2,10,59,0,Jump Shot,17,-125,125,True
+Marc Gasol,4,0,35,0,Jump Shot,23,230,-5,False
+Marc Gasol,4,5,0,1,Jump Shot,25,-100,235,False
+Marc Gasol,1,6,19,0,Jump Shot,13,-96,100,True
+Marc Gasol,4,10,21,1,Jump Shot,25,82,243,False
+Marc Gasol,1,7,52,0,Jump Shot,25,-78,245,False
+Marc Gasol,3,5,13,0,Jump Shot,27,13,277,False
+Marc Gasol,3,3,55,1,Jump Shot,24,-224,102,False
+Marc Gasol,1,6,57,1,Jump Shot,25,19,252,False
+Marc Gasol,3,11,28,1,Jump Shot,14,141,33,True
+Marc Gasol,3,5,7,0,Jump Shot,25,-41,250,False
+Marc Gasol,3,2,39,1,Jump Shot,22,-225,16,False
+Marc Gasol,1,4,0,0,Jump Shot,26,37,262,False
+Marc Gasol,1,5,5,0,Jump Shot,28,-100,265,False
+Marc Gasol,4,3,27,1,Jump Shot,21,-154,154,True
+Marc Gasol,4,10,17,0,Jump Shot,26,-88,253,False
+Marc Gasol,1,6,12,0,Jump Shot,16,-149,71,True
+Marc Gasol,4,0,43,0,Jump Shot,27,-136,244,False
+Marc Gasol,3,7,7,0,Jump Shot,25,74,246,False
+Marc Gasol,3,9,29,0,Jump Shot,26,-141,225,False
+Marc Gasol,3,7,18,0,Jump Shot,25,-36,256,False
+Marc Gasol,2,1,15,1,Jump Shot,26,-62,261,False
+Marc Gasol,3,3,23,0,Jump Shot,24,41,243,False
+Marc Gasol,4,1,46,0,Jump Shot,25,-76,246,False
+Marc Gasol,2,1,28,0,Jump Shot,24,77,234,False
+Marc Gasol,1,8,33,0,Jump Shot,23,103,215,False
+Marc Gasol,4,8,10,1,Jump Shot,10,-45,90,True
+Marc Gasol,1,10,11,0,Jump Shot,13,-103,80,True
+Marc Gasol,2,8,16,1,Jump Shot,18,-159,104,True
+Marc Gasol,3,6,26,0,Jump Shot,24,-128,211,False
+Marc Gasol,2,7,26,0,Jump Shot,26,-101,241,False
+Marc Gasol,1,10,31,0,Jump Shot,13,95,92,True
+Marc Gasol,1,10,16,1,Jump Shot,14,-41,142,True
+Marc Gasol,4,3,33,0,Jump Shot,24,-234,86,False
+Marc Gasol,4,5,44,1,Jump Shot,26,-78,254,False
+Marc Gasol,1,7,23,0,Jump Shot,25,38,251,False
+Marc Gasol,3,6,37,0,Jump Shot,25,-60,252,False
+Marc Gasol,2,11,29,1,Jump Shot,19,127,149,True
+Marc Gasol,2,6,38,0,Jump Shot,21,-31,214,True
+Marc Gasol,1,7,5,0,Jump Shot,17,128,116,True
+Marc Gasol,2,2,5,0,Jump Shot,24,-49,240,False
+Marc Gasol,1,10,19,0,Jump Shot,19,-180,71,True
+Marc Gasol,3,10,58,0,Jump Shot,16,90,137,True
+Marc Gasol,3,8,49,0,Jump Shot,24,170,182,False
+Marc Gasol,3,10,53,1,Jump Shot,24,92,232,False
+Marc Gasol,4,4,16,1,Jump Shot,25,-82,245,False
+Marc Gasol,1,10,51,1,Jump Shot,25,-70,247,False
+Marc Gasol,1,7,42,0,Jump Shot,24,-96,223,False
+Marc Gasol,1,8,18,0,Jump Shot,17,-127,114,True
+Marc Gasol,1,3,37,1,Jump Shot,24,-143,199,False
+Marc Gasol,3,9,43,1,Jump Shot,15,-145,64,True
+Marc Gasol,2,2,43,0,Jump Shot,25,114,230,False
+Marc Gasol,1,9,38,1,Jump Shot,25,-143,207,False
+Marc Gasol,4,5,17,0,Jump Shot,25,-131,220,False
+Marc Gasol,1,6,47,1,Jump Shot,17,127,115,True
+Marc Gasol,1,10,44,1,Jump Shot,25,88,235,False
+Marc Gasol,2,3,8,1,Jump Shot,25,-75,242,False
+Marc Gasol,2,7,41,0,Jump Shot,24,-64,241,False
+Marc Gasol,2,5,34,0,Jump Shot,25,-7,257,False
+Marc Gasol,3,5,0,1,Jump Shot,25,28,257,False
+Marc Gasol,4,1,46,0,Jump Shot,24,0,248,False
+Marc Gasol,2,8,0,0,Jump Shot,25,-119,227,False
+Marc Gasol,1,5,12,0,Jump Shot,27,-20,279,False
+Marc Gasol,4,6,41,0,Jump Shot,10,-107,6,True
+Marc Gasol,2,3,57,1,Jump Shot,16,-95,137,True
+Marc Gasol,1,11,43,0,Jump Shot,22,-155,157,True
+Marc Gasol,2,3,30,1,Jump Shot,25,10,254,False
+Marc Gasol,4,5,24,0,Jump Shot,26,-112,241,False
+Marc Gasol,1,8,53,0,Jump Shot,16,-92,132,True
+Marc Gasol,4,1,5,0,Jump Shot,26,-147,216,False
+Marc Gasol,1,5,38,1,Jump Shot,26,-144,222,False
+Marc Gasol,4,9,25,0,Jump Shot,26,27,266,False
+Marc Gasol,3,8,43,1,Jump Shot,26,-90,248,False
+Marc Gasol,4,2,14,0,Jump Shot,25,-76,243,False
+Marc Gasol,3,10,17,1,Jump Shot,9,90,13,True
+Marc Gasol,2,1,3,1,Jump Shot,8,-67,44,True
+Marc Gasol,3,8,40,0,Jump Shot,16,-5,164,True
+Marc Gasol,3,5,7,0,Jump Shot,26,-170,197,False
+Marc Gasol,2,2,22,0,Layup Shot,3,-33,5,True
+Marc Gasol,2,8,10,1,Layup Shot,1,-3,13,True
+Marc Gasol,1,2,49,1,Layup Shot,2,9,20,True
+Marc Gasol,1,11,43,1,Layup Shot,2,3,25,True
+Marc Gasol,3,1,37,0,Layup Shot,4,-14,42,True
+Marc Gasol,2,0,37,1,Layup Shot,1,7,13,True
+Marc Gasol,3,9,54,0,Layup Shot,9,46,88,True
+Marc Gasol,4,2,59,0,Layup Shot,5,-5,50,True
+Marc Gasol,1,5,39,1,Layup Shot,0,7,5,True
+Marc Gasol,2,4,19,0,Layup Shot,3,-4,35,True
+Marc Gasol,3,3,40,0,Layup Shot,0,-2,-4,True
+Marc Gasol,4,6,25,0,Layup Shot,6,54,43,True
+Marc Gasol,4,5,56,0,Layup Shot,1,3,11,True
+Marc Gasol,3,8,12,0,Layup Shot,0,-5,7,True
+Marc Gasol,2,6,13,0,Layup Shot,3,-38,11,True
+Marc Gasol,3,0,53,0,Layup Shot,3,-5,31,True
+Marc Gasol,4,7,11,0,Layup Shot,4,42,21,True
+Marc Gasol,1,6,25,0,Layup Shot,3,2,31,True
+Marc Gasol,3,5,0,1,Layup Shot,1,5,15,True
+Marc Gasol,4,7,3,1,Layup Shot,3,0,34,True
+Marc Gasol,4,10,12,1,Layup Shot,1,-1,18,True
+Marc Gasol,3,5,32,0,Layup Shot,3,-22,33,True
+Marc Gasol,3,7,6,0,Layup Shot,7,-57,45,True
+Marc Gasol,4,2,34,1,Layup Shot,0,6,7,True
+Marc Gasol,2,2,18,0,Layup Shot,2,-21,17,True
+Marc Gasol,2,5,40,1,Layup Shot,2,2,20,True
+Marc Gasol,1,3,19,1,Layup Shot,1,6,16,True
+Marc Gasol,2,3,53,1,Layup Shot,1,-14,14,True
+Marc Gasol,4,2,50,0,Layup Shot,2,-20,13,True
+Marc Gasol,4,8,23,0,Layup Shot,10,-1,100,True
+Marc Gasol,4,4,22,0,Layup Shot,5,-17,54,True
+Marc Gasol,4,3,49,0,Layup Shot,1,2,19,True
+Marc Gasol,1,3,49,1,Layup Shot,2,-3,22,True
+Marc Gasol,1,6,2,1,Layup Shot,2,-5,21,True
+Marc Gasol,3,6,26,0,Pullup Jump shot,24,-25,244,False
+Marc Gasol,1,8,40,0,Pullup Jump shot,9,66,71,True
+Marc Gasol,4,3,54,1,Pullup Jump shot,14,-55,132,True
+Marc Gasol,3,7,16,1,Pullup Jump shot,10,-87,62,True
+Marc Gasol,2,7,18,1,Pullup Jump shot,15,139,57,True
+Marc Gasol,3,7,34,1,Pullup Jump shot,11,-94,63,True
+Marc Gasol,3,2,12,0,Pullup Jump shot,11,32,112,True
+Marc Gasol,1,11,29,0,Pullup Jump shot,24,-146,200,False
+Marc Gasol,1,4,43,1,Pullup Jump shot,6,-8,66,True
+Marc Gasol,3,5,13,1,Pullup Jump shot,11,-83,79,True
+Marc Gasol,4,5,0,0,Pullup Jump shot,20,-71,188,True
+Marc Gasol,1,2,40,0,Pullup Jump shot,13,-118,61,True
+Marc Gasol,1,10,18,0,Pullup Jump shot,12,38,120,True
+Marc Gasol,1,3,35,0,Pullup Jump shot,3,9,30,True
+Marc Gasol,3,10,31,0,Pullup Jump shot,12,-66,107,True
+Marc Gasol,1,7,31,1,Pullup Jump shot,17,-12,178,True
+Marc Gasol,3,5,55,1,Pullup Jump shot,15,-137,80,True
+Marc Gasol,3,5,36,0,Pullup Jump shot,11,-69,98,True
+Marc Gasol,1,8,8,1,Pullup Jump shot,11,101,50,True
+Marc Gasol,1,11,15,0,Pullup Jump shot,12,-5,125,True
+Marc Gasol,4,4,32,0,Pullup Jump shot,12,-9,125,True
+Marc Gasol,2,0,1,0,Putback Layup Shot,2,1,20,True
+Marc Gasol,3,9,49,1,Putback Layup Shot,0,4,-3,True
+Marc Gasol,1,6,19,1,Putback Layup Shot,0,0,-6,True
+Marc Gasol,1,9,14,0,Putback Layup Shot,1,6,11,True
+Marc Gasol,3,8,18,1,Putback Layup Shot,0,6,6,True
+Marc Gasol,1,7,2,1,Putback Layup Shot,1,1,14,True
+Marc Gasol,2,8,10,0,Reverse Layup Shot,1,-11,10,True
+Marc Gasol,2,2,15,0,Reverse Layup Shot,2,-9,20,True
+Marc Gasol,4,5,55,0,Reverse Layup Shot,1,-6,16,True
+Marc Gasol,4,2,41,1,Reverse Layup Shot,0,-3,-3,True
+Marc Gasol,1,3,29,1,Reverse Layup Shot,0,3,1,True
+Marc Gasol,1,5,13,0,Running Finger Roll Layup Shot,4,11,42,True
+Marc Gasol,2,6,55,0,Running Jump Shot,24,-63,239,False
+Marc Gasol,2,6,0,1,Running Jump Shot,1,0,13,True
+Marc Gasol,2,9,3,0,Running Jump Shot,5,-13,57,True
+Marc Gasol,3,3,10,0,Running Jump Shot,26,-22,264,False
+Marc Gasol,2,4,9,0,Running Jump Shot,25,-31,250,False
+Marc Gasol,4,7,11,0,Running Jump Shot,26,-98,241,False
+Marc Gasol,3,7,28,1,Running Jump Shot,26,-92,244,False
+Marc Gasol,4,2,10,0,Running Jump Shot,26,-18,263,False
+Marc Gasol,2,2,29,0,Running Jump Shot,26,-118,241,False
+Marc Gasol,4,5,38,0,Running Jump Shot,25,22,259,False
+Marc Gasol,3,6,38,1,Running Jump Shot,26,-180,200,False
+Marc Gasol,2,2,58,0,Running Jump Shot,7,-21,67,True
+Marc Gasol,2,7,42,0,Running Jump Shot,26,18,260,False
+Marc Gasol,1,5,55,0,Running Jump Shot,25,-230,105,False
+Marc Gasol,1,9,51,0,Running Jump Shot,28,-107,266,False
+Marc Gasol,1,3,33,1,Running Jump Shot,16,-10,166,True
+Marc Gasol,1,7,44,0,Running Jump Shot,25,26,254,False
+Marc Gasol,2,7,47,0,Running Jump Shot,27,95,257,False
+Marc Gasol,4,2,33,0,Running Jump Shot,8,36,73,True
+Marc Gasol,1,8,40,0,Running Layup Shot,3,-36,0,True
+Marc Gasol,1,5,44,0,Running Reverse Layup Shot,1,9,13,True
+Marc Gasol,3,5,49,0,Step Back Jump shot,17,6,178,True
+Marc Gasol,3,3,8,0,Step Back Jump shot,24,10,249,False
+Marc Gasol,1,10,6,0,Step Back Jump shot,11,-79,86,True
+Marc Gasol,3,2,57,1,Step Back Jump shot,25,107,232,False
+Marc Gasol,2,3,7,1,Step Back Jump shot,21,62,208,True
+Marc Gasol,3,4,4,0,Step Back Jump shot,18,-112,143,True
+Marc Gasol,4,5,0,0,Step Back Jump shot,25,92,239,False
+Marc Gasol,1,7,1,1,Step Back Jump shot,24,-54,243,False
+Marc Gasol,1,4,3,1,Step Back Jump shot,25,-67,249,False
+Marc Gasol,3,5,3,0,Step Back Jump shot,19,98,164,True
+Marc Gasol,4,8,26,0,Step Back Jump shot,26,52,259,False
+Marc Gasol,3,10,55,0,Step Back Jump shot,25,-113,229,False
+Marc Gasol,3,6,52,0,Step Back Jump shot,25,138,214,False
+Marc Gasol,3,9,23,0,Step Back Jump shot,25,-172,185,False
+Marc Gasol,1,4,3,0,Step Back Jump shot,16,-116,111,True
+Marc Gasol,4,3,20,0,Step Back Jump shot,26,-127,238,False
+Marc Gasol,1,8,7,1,Step Back Jump shot,25,74,245,False
+Marc Gasol,3,8,32,0,Step Back Jump shot,28,-114,262,False
+Marc Gasol,3,6,33,0,Step Back Jump shot,12,113,41,True
+Marc Gasol,1,8,51,1,Step Back Jump shot,25,150,212,False
+Marc Gasol,1,3,42,1,Step Back Jump shot,21,-83,199,True
+Marc Gasol,1,2,40,0,Step Back Jump shot,25,107,226,False
+Marc Gasol,1,4,32,0,Step Back Jump shot,14,74,123,True
+Marc Gasol,4,1,50,0,Tip Layup Shot,0,0,8,True
+Marc Gasol,4,2,13,0,Tip Layup Shot,0,0,-6,True
+Marc Gasol,2,0,39,0,Tip Layup Shot,0,0,-6,True
+Marc Gasol,4,2,13,0,Tip Layup Shot,1,-1,13,True
+Marc Gasol,3,3,53,1,Tip Layup Shot,0,0,-6,True
+Marc Gasol,3,2,54,1,Tip Layup Shot,0,0,-6,True
+Marc Gasol,1,4,40,0,Tip Layup Shot,0,0,-6,True
+Marc Gasol,3,7,49,0,Tip Layup Shot,0,0,-6,True
+Marc Gasol,1,4,33,1,Tip Layup Shot,0,0,-6,True
+Marc Gasol,4,10,18,0,Turnaround Fadeaway Bank Jump Shot,6,-40,46,True
+Marc Gasol,1,2,33,1,Turnaround Fadeaway Bank Jump Shot,9,70,68,True
+Marc Gasol,1,6,52,0,Turnaround Fadeaway Bank Jump Shot,11,50,99,True
+Marc Gasol,1,7,57,0,Turnaround Fadeaway Bank Jump Shot,7,-2,75,True
+Marc Gasol,2,6,28,1,Turnaround Fadeaway Bank Jump Shot,6,29,62,True
+Marc Gasol,2,8,36,1,Turnaround Fadeaway Bank Jump Shot,6,-41,54,True
+Marc Gasol,3,2,42,0,Turnaround Fadeaway Bank Jump Shot,8,-54,64,True
+Marc Gasol,2,2,44,0,Turnaround Fadeaway Bank Jump Shot,9,-89,30,True
+Marc Gasol,2,6,46,1,Turnaround Fadeaway Bank Jump Shot,6,49,36,True
+Marc Gasol,1,3,58,1,Turnaround Fadeaway Bank Jump Shot,6,-2,69,True
+Marc Gasol,4,5,41,1,Turnaround Fadeaway Bank Jump Shot,10,49,89,True
+Marc Gasol,1,7,29,1,Turnaround Fadeaway Bank Jump Shot,2,-18,22,True
+Marc Gasol,4,1,15,1,Turnaround Fadeaway Bank Jump Shot,12,-69,102,True
+Marc Gasol,1,4,15,0,Turnaround Fadeaway shot,6,-59,31,True
+Marc Gasol,3,5,13,0,Turnaround Fadeaway shot,12,0,124,True
+Marc Gasol,3,9,41,1,Turnaround Fadeaway shot,11,-1,112,True
+Marc Gasol,1,10,4,1,Turnaround Fadeaway shot,12,40,115,True
+Marc Gasol,1,5,17,0,Turnaround Fadeaway shot,9,-91,38,True
+Marc Gasol,1,8,55,0,Turnaround Fadeaway shot,10,-97,25,True
+Marc Gasol,3,0,55,0,Turnaround Fadeaway shot,8,0,82,True
+Marc Gasol,3,4,42,0,Turnaround Fadeaway shot,7,-79,4,True
+Marc Gasol,2,4,22,0,Turnaround Fadeaway shot,9,-98,19,True
+Marc Gasol,1,7,53,1,Turnaround Fadeaway shot,8,-85,29,True
+Marc Gasol,1,4,16,0,Turnaround Fadeaway shot,11,65,96,True
+Marc Gasol,1,6,35,0,Turnaround Fadeaway shot,8,-76,30,True
+Marc Gasol,3,8,39,1,Turnaround Fadeaway shot,18,-108,153,True
+Marc Gasol,2,5,30,0,Turnaround Fadeaway shot,9,-91,-8,True
+Marc Gasol,2,4,9,0,Turnaround Fadeaway shot,8,-8,80,True
+Marc Gasol,3,9,7,0,Turnaround Fadeaway shot,11,-98,57,True
+Marc Gasol,1,4,4,0,Turnaround Fadeaway shot,9,-90,26,True
+Marc Gasol,1,4,38,1,Turnaround Fadeaway shot,7,39,62,True
+Marc Gasol,1,4,30,0,Turnaround Fadeaway shot,10,58,92,True
+Marc Gasol,2,7,26,0,Turnaround Fadeaway shot,9,-38,92,True
+Marc Gasol,4,4,46,0,Turnaround Fadeaway shot,5,14,58,True
+Marc Gasol,1,2,10,1,Turnaround Fadeaway shot,9,-87,40,True
+Marc Gasol,3,2,35,0,Turnaround Fadeaway shot,15,-47,143,True
+Marc Gasol,1,11,32,1,Turnaround Fadeaway shot,10,4,100,True
+Marc Gasol,1,5,11,0,Turnaround Fadeaway shot,9,91,5,True
+Marc Gasol,3,0,50,0,Turnaround Fadeaway shot,10,-108,0,True
+Marc Gasol,3,9,11,1,Turnaround Fadeaway shot,18,-127,134,True
+Marc Gasol,2,3,31,0,Turnaround Fadeaway shot,12,61,105,True
+Marc Gasol,2,5,33,0,Turnaround Fadeaway shot,6,-62,14,True
+Marc Gasol,2,6,17,0,Turnaround Fadeaway shot,13,-127,41,True
+Marc Gasol,1,4,42,0,Turnaround Fadeaway shot,9,-49,83,True
+Marc Gasol,3,11,38,1,Turnaround Fadeaway shot,13,-99,88,True
+Marc Gasol,1,11,20,1,Turnaround Fadeaway shot,13,78,109,True
+Marc Gasol,3,9,52,0,Turnaround Fadeaway shot,9,38,92,True
+Marc Gasol,1,1,25,1,Turnaround Fadeaway shot,9,-59,69,True
+Marc Gasol,1,0,29,0,Turnaround Fadeaway shot,13,38,132,True
+Marc Gasol,3,8,58,1,Turnaround Fadeaway shot,11,112,27,True
+Marc Gasol,2,6,1,0,Turnaround Fadeaway shot,13,4,132,True
+Marc Gasol,1,4,33,1,Turnaround Fadeaway shot,8,8,83,True
+Marc Gasol,3,7,42,0,Turnaround Fadeaway shot,6,-55,32,True
+Marc Gasol,1,7,38,1,Turnaround Fadeaway shot,15,-25,152,True
+Marc Gasol,4,7,26,1,Turnaround Fadeaway shot,8,-63,53,True
+Marc Gasol,1,10,3,0,Turnaround Fadeaway shot,10,-65,80,True
+Marc Gasol,3,5,58,1,Turnaround Fadeaway shot,11,-114,20,True
+Marc Gasol,4,7,38,0,Turnaround Fadeaway shot,11,-99,54,True
+Marc Gasol,3,7,57,0,Turnaround Fadeaway shot,14,-117,80,True
+Marc Gasol,4,5,33,1,Turnaround Fadeaway shot,12,-112,58,True
+Marc Gasol,1,6,8,1,Turnaround Fadeaway shot,11,-82,75,True
+Marc Gasol,3,1,33,0,Turnaround Fadeaway shot,11,-114,28,True
+Marc Gasol,4,1,4,0,Turnaround Fadeaway shot,12,-47,113,True
+Marc Gasol,1,4,2,0,Turnaround Fadeaway shot,10,-71,73,True
+Marc Gasol,1,9,27,0,Turnaround Fadeaway shot,11,39,106,True
+Marc Gasol,3,4,11,0,Turnaround Fadeaway shot,11,-69,93,True
+Marc Gasol,1,7,1,0,Turnaround Fadeaway shot,11,-114,-7,True
+Marc Gasol,3,7,44,0,Turnaround Fadeaway shot,12,-123,5,True
+Marc Gasol,4,1,45,1,Turnaround Fadeaway shot,6,-58,17,True
+Marc Gasol,1,8,31,1,Turnaround Fadeaway shot,7,-52,56,True
+Marc Gasol,1,6,55,1,Turnaround Fadeaway shot,10,-105,26,True
+Marc Gasol,2,5,45,1,Turnaround Fadeaway shot,12,-119,21,True
+Marc Gasol,4,5,3,0,Turnaround Fadeaway shot,15,-9,150,True
+Marc Gasol,2,7,56,0,Turnaround Fadeaway shot,9,-90,34,True
+Marc Gasol,3,4,9,0,Turnaround Fadeaway shot,10,51,94,True
+Marc Gasol,2,3,34,0,Turnaround Fadeaway shot,7,-27,75,True
+Marc Gasol,2,2,48,1,Turnaround Fadeaway shot,14,-139,17,True
+Marc Gasol,3,9,50,1,Turnaround Fadeaway shot,11,-99,50,True
+Marc Gasol,4,4,31,0,Turnaround Fadeaway shot,14,-135,63,True
+Marc Gasol,2,8,12,0,Turnaround Fadeaway shot,10,-90,55,True
+Marc Gasol,4,8,2,1,Turnaround Fadeaway shot,5,-6,58,True
+Marc Gasol,3,1,15,0,Turnaround Fadeaway shot,12,2,127,True
+Marc Gasol,4,5,27,0,Turnaround Fadeaway shot,10,62,84,True
+Marc Gasol,3,11,1,1,Turnaround Fadeaway shot,11,-99,54,True
+Marc Gasol,1,10,38,1,Turnaround Fadeaway shot,12,-123,27,True
+Marc Gasol,3,0,9,0,Turnaround Fadeaway shot,10,-61,89,True
+Marc Gasol,3,9,2,0,Turnaround Fadeaway shot,9,-98,7,True
+Marc Gasol,4,10,12,0,Turnaround Fadeaway shot,8,-72,38,True
+Marc Gasol,1,11,41,0,Turnaround Fadeaway shot,7,-67,26,True
+Marc Gasol,3,7,13,1,Turnaround Fadeaway shot,8,-28,81,True
+Marc Gasol,3,8,37,0,Turnaround Fadeaway shot,11,-111,3,True
+Marc Gasol,3,8,29,0,Turnaround Fadeaway shot,17,81,155,True
+Marc Gasol,1,4,35,0,Turnaround Fadeaway shot,12,-101,78,True
+Marc Gasol,2,6,9,0,Turnaround Fadeaway shot,13,46,122,True
+Marc Gasol,1,5,34,1,Turnaround Fadeaway shot,14,-121,81,True
+Marc Gasol,4,2,40,1,Turnaround Fadeaway shot,6,-28,59,True
+Marc Gasol,3,7,51,0,Turnaround Fadeaway shot,9,-65,63,True
+Marc Gasol,1,6,52,0,Turnaround Hook Shot,10,41,92,True
+Marc Gasol,1,7,47,1,Turnaround Hook Shot,6,64,23,True
+Marc Gasol,1,4,55,0,Turnaround Hook Shot,5,39,35,True
+Marc Gasol,1,6,0,0,Turnaround Hook Shot,6,35,52,True
+Marc Gasol,3,5,45,0,Turnaround Hook Shot,3,9,32,True
+Marc Gasol,4,9,55,0,Turnaround Hook Shot,6,-6,68,True
+Marc Gasol,1,7,27,0,Turnaround Hook Shot,3,-2,35,True
+Marc Gasol,3,1,58,0,Turnaround Hook Shot,10,-71,80,True
+Marc Gasol,1,4,7,0,Turnaround Hook Shot,7,74,19,True
+Marc Gasol,1,2,13,1,Turnaround Hook Shot,1,-4,11,True
+Marc Gasol,4,5,45,1,Turnaround Hook Shot,0,0,9,True
+Marc Gasol,1,6,49,1,Turnaround Hook Shot,9,93,31,True
+Marc Gasol,1,9,44,1,Turnaround Hook Shot,5,-18,48,True
+Marc Gasol,1,11,17,0,Turnaround Hook Shot,1,-13,1,True
+Marc Gasol,1,4,31,1,Turnaround Hook Shot,4,22,34,True
+Marc Gasol,3,8,36,1,Turnaround Hook Shot,7,6,79,True
+Marc Gasol,1,3,44,1,Turnaround Hook Shot,0,0,1,True
+Marc Gasol,1,7,10,1,Turnaround Hook Shot,6,-16,62,True
+Marc Gasol,2,5,44,0,Turnaround Hook Shot,12,-120,-22,True
+Marc Gasol,4,5,38,1,Turnaround Hook Shot,4,18,43,True
+Marc Gasol,1,11,21,1,Turnaround Jump Shot,16,-106,124,True
+Marc Gasol,2,1,21,1,Turnaround Jump Shot,6,4,69,True
+Marc Gasol,2,4,30,0,Turnaround Jump Shot,7,-76,12,True
+Marc Gasol,3,2,52,0,Turnaround Jump Shot,8,80,8,True
+Marc Gasol,1,5,44,1,Turnaround Jump Shot,11,-54,107,True
+Marc Gasol,2,8,11,0,Turnaround Jump Shot,12,-104,70,True
+Marc Gasol,2,10,9,1,Turnaround Jump Shot,17,112,133,True
+Marc Gasol,3,3,34,0,Turnaround Jump Shot,7,-50,53,True
+Marc Gasol,1,7,52,0,Turnaround Jump Shot,13,-110,79,True
+Marc Gasol,1,4,54,1,Turnaround Jump Shot,12,-117,50,True
+Marc Gasol,3,8,38,0,Turnaround Jump Shot,10,-99,18,True
+Marc Gasol,3,11,27,0,Turnaround Jump Shot,12,41,113,True
+Marc Gasol,2,10,6,1,Turnaround Jump Shot,9,9,98,True
+Marc Gasol,1,7,30,0,Turnaround Jump Shot,12,106,67,True
+Marc Gasol,2,4,33,1,Turnaround Jump Shot,15,-127,94,True
+Marc Gasol,4,5,29,1,Turnaround Jump Shot,14,-134,59,True
+Marc Gasol,3,7,22,0,Turnaround Jump Shot,8,-24,85,True
+Marc Gasol,3,10,14,0,Turnaround Jump Shot,9,21,92,True
+Marc Gasol,1,8,57,0,Turnaround Jump Shot,10,-42,98,True
+Marc Gasol,2,5,33,1,Turnaround Jump Shot,8,-6,89,True
+Marc Gasol,1,9,24,0,Turnaround Jump Shot,12,-61,113,True
+Marc Gasol,1,3,42,0,Turnaround Jump Shot,3,-4,32,True
+Marc Gasol,1,11,40,1,Turnaround Jump Shot,11,-101,46,True
+Marc Gasol,2,1,24,0,Turnaround Jump Shot,7,43,66,True
+Marc Gasol,3,3,3,0,Turnaround Jump Shot,15,-121,90,True
+Marc Gasol,2,4,56,1,Turnaround Jump Shot,1,-17,8,True
+Marc Gasol,1,9,19,1,Turnaround Jump Shot,12,22,120,True
+Marc Gasol,2,3,22,0,Turnaround Jump Shot,11,-57,103,True
+Marc Gasol,2,2,23,0,Turnaround Jump Shot,10,-20,98,True
+Marc Gasol,1,2,5,0,Turnaround Jump Shot,12,-62,104,True
+Marc Gasol,1,10,39,0,Turnaround Jump Shot,14,12,141,True
+Marc Gasol,4,6,12,0,Turnaround Jump Shot,16,14,160,True
+Marc Gasol,4,0,15,0,Turnaround Jump Shot,10,-77,78,True
+Marc Gasol,2,0,45,0,Turnaround Jump Shot,4,-38,17,True
+Marc Gasol,2,2,40,0,Turnaround Jump Shot,4,-20,38,True
+Marc Gasol,4,7,57,0,Turnaround Jump Shot,5,-26,46,True

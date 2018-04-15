@@ -1,0 +1,335 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Norman Powell,1,1,5,1,Cutting Layup Shot,1,-14,10,True
+Norman Powell,4,8,17,1,Cutting Layup Shot,1,-7,16,True
+Norman Powell,2,10,51,1,Cutting Layup Shot,3,-12,32,True
+Norman Powell,4,0,39,1,Driving Dunk Shot,0,-2,7,True
+Norman Powell,3,3,37,1,Driving Dunk Shot,2,14,26,True
+Norman Powell,4,8,16,1,Driving Dunk Shot,0,2,-6,True
+Norman Powell,1,8,52,1,Driving Dunk Shot,0,-3,4,True
+Norman Powell,1,10,47,1,Driving Dunk Shot,3,11,31,True
+Norman Powell,1,1,12,1,Driving Finger Roll Layup Shot,1,1,10,True
+Norman Powell,4,0,29,0,Driving Finger Roll Layup Shot,1,-12,13,True
+Norman Powell,4,8,57,1,Driving Finger Roll Layup Shot,1,3,11,True
+Norman Powell,2,9,2,1,Driving Finger Roll Layup Shot,3,-6,34,True
+Norman Powell,3,3,16,1,Driving Finger Roll Layup Shot,1,13,11,True
+Norman Powell,2,8,14,0,Driving Finger Roll Layup Shot,1,6,13,True
+Norman Powell,4,6,36,1,Driving Finger Roll Layup Shot,1,7,16,True
+Norman Powell,4,1,24,1,Driving Finger Roll Layup Shot,1,11,-5,True
+Norman Powell,4,1,33,1,Driving Finger Roll Layup Shot,0,3,7,True
+Norman Powell,2,9,27,1,Driving Finger Roll Layup Shot,0,2,5,True
+Norman Powell,4,0,59,1,Driving Floating Bank Jump Shot,10,96,37,True
+Norman Powell,3,0,0,0,Driving Floating Bank Jump Shot,7,-71,11,True
+Norman Powell,4,2,20,1,Driving Floating Bank Jump Shot,7,-63,41,True
+Norman Powell,4,2,57,1,Driving Floating Bank Jump Shot,4,40,18,True
+Norman Powell,2,1,49,0,Driving Floating Jump Shot,8,87,23,True
+Norman Powell,2,6,48,1,Driving Floating Jump Shot,11,-52,100,True
+Norman Powell,2,2,40,0,Driving Floating Jump Shot,6,-31,57,True
+Norman Powell,4,8,58,0,Driving Floating Jump Shot,6,13,68,True
+Norman Powell,2,7,7,0,Driving Floating Jump Shot,6,-29,63,True
+Norman Powell,4,3,23,0,Driving Floating Jump Shot,7,-74,4,True
+Norman Powell,4,10,0,1,Driving Floating Jump Shot,5,-4,53,True
+Norman Powell,4,2,5,1,Driving Floating Jump Shot,2,8,22,True
+Norman Powell,4,9,48,0,Driving Floating Jump Shot,10,30,99,True
+Norman Powell,4,9,29,0,Driving Floating Jump Shot,10,-52,92,True
+Norman Powell,4,11,39,1,Driving Floating Jump Shot,7,-11,74,True
+Norman Powell,2,7,28,0,Driving Floating Jump Shot,10,-103,3,True
+Norman Powell,3,6,11,0,Driving Floating Jump Shot,4,-11,47,True
+Norman Powell,4,10,49,0,Driving Floating Jump Shot,10,-33,100,True
+Norman Powell,2,3,26,0,Driving Floating Jump Shot,3,-32,10,True
+Norman Powell,2,11,15,0,Driving Floating Jump Shot,4,26,33,True
+Norman Powell,1,3,21,1,Driving Hook Shot,2,11,17,True
+Norman Powell,4,5,20,1,Driving Layup Shot,0,-4,9,True
+Norman Powell,4,10,21,0,Driving Layup Shot,0,2,0,True
+Norman Powell,4,5,4,0,Driving Layup Shot,4,4,42,True
+Norman Powell,3,7,33,0,Driving Layup Shot,4,3,42,True
+Norman Powell,3,7,56,0,Driving Layup Shot,1,-16,5,True
+Norman Powell,4,2,38,0,Driving Layup Shot,1,-5,18,True
+Norman Powell,2,2,53,1,Driving Layup Shot,2,13,18,True
+Norman Powell,1,7,8,1,Driving Layup Shot,2,-25,16,True
+Norman Powell,4,6,12,0,Driving Layup Shot,2,-22,-3,True
+Norman Powell,3,3,35,0,Driving Layup Shot,2,0,26,True
+Norman Powell,4,5,8,0,Driving Layup Shot,2,-24,4,True
+Norman Powell,2,6,44,1,Driving Layup Shot,1,-13,11,True
+Norman Powell,3,7,12,0,Driving Layup Shot,4,35,30,True
+Norman Powell,4,10,6,1,Driving Layup Shot,1,-8,6,True
+Norman Powell,2,8,44,0,Driving Layup Shot,2,-22,15,True
+Norman Powell,1,4,46,0,Driving Layup Shot,3,-19,28,True
+Norman Powell,1,7,55,0,Driving Layup Shot,2,18,11,True
+Norman Powell,4,9,40,0,Driving Layup Shot,3,22,23,True
+Norman Powell,2,10,27,1,Driving Layup Shot,1,5,18,True
+Norman Powell,2,10,0,0,Driving Layup Shot,2,18,15,True
+Norman Powell,2,0,32,0,Driving Layup Shot,3,28,13,True
+Norman Powell,2,4,59,1,Driving Layup Shot,3,-8,29,True
+Norman Powell,4,7,51,1,Driving Layup Shot,5,30,41,True
+Norman Powell,1,7,32,0,Driving Layup Shot,3,-11,29,True
+Norman Powell,2,8,8,1,Driving Layup Shot,7,-9,74,True
+Norman Powell,1,0,35,0,Driving Layup Shot,4,30,38,True
+Norman Powell,4,0,45,0,Driving Layup Shot,1,7,17,True
+Norman Powell,2,11,7,1,Driving Layup Shot,1,6,13,True
+Norman Powell,4,3,46,0,Driving Layup Shot,1,-16,0,True
+Norman Powell,3,1,33,1,Driving Layup Shot,1,-15,8,True
+Norman Powell,4,6,19,1,Driving Layup Shot,1,5,9,True
+Norman Powell,2,11,11,0,Driving Layup Shot,2,13,17,True
+Norman Powell,4,11,17,0,Driving Layup Shot,1,-6,10,True
+Norman Powell,2,6,39,1,Driving Layup Shot,1,18,7,True
+Norman Powell,4,9,20,0,Driving Layup Shot,2,13,27,True
+Norman Powell,3,9,12,0,Driving Layup Shot,2,27,11,True
+Norman Powell,2,1,38,0,Driving Layup Shot,3,29,19,True
+Norman Powell,4,8,26,1,Driving Layup Shot,3,-18,31,True
+Norman Powell,1,8,3,0,Driving Layup Shot,2,-16,12,True
+Norman Powell,4,8,20,0,Driving Layup Shot,2,-11,20,True
+Norman Powell,2,5,55,0,Driving Layup Shot,1,14,8,True
+Norman Powell,2,10,31,0,Driving Layup Shot,2,21,-5,True
+Norman Powell,1,9,13,0,Driving Layup Shot,1,9,5,True
+Norman Powell,2,1,23,1,Driving Layup Shot,1,11,-1,True
+Norman Powell,4,7,12,1,Driving Layup Shot,2,25,13,True
+Norman Powell,3,11,42,1,Driving Layup Shot,1,16,0,True
+Norman Powell,2,5,19,0,Driving Layup Shot,2,18,20,True
+Norman Powell,2,2,5,1,Driving Layup Shot,2,-24,4,True
+Norman Powell,3,6,51,1,Driving Reverse Layup Shot,1,-16,6,True
+Norman Powell,3,0,3,1,Driving Reverse Layup Shot,4,-43,13,True
+Norman Powell,3,8,33,0,Driving Reverse Layup Shot,2,23,19,True
+Norman Powell,4,5,47,1,Driving Reverse Layup Shot,2,-20,-4,True
+Norman Powell,1,0,33,1,Driving Reverse Layup Shot,1,-2,10,True
+Norman Powell,1,11,11,0,Driving Reverse Layup Shot,1,11,14,True
+Norman Powell,2,1,53,1,Driving Reverse Layup Shot,3,30,21,True
+Norman Powell,4,8,31,1,Driving Reverse Layup Shot,2,24,5,True
+Norman Powell,3,9,51,1,Dunk Shot,1,9,11,True
+Norman Powell,4,1,59,1,Dunk Shot,2,-14,21,True
+Norman Powell,4,1,12,1,Floating Jump shot,16,-44,157,True
+Norman Powell,4,0,11,1,Floating Jump shot,15,-116,110,True
+Norman Powell,4,8,28,1,Floating Jump shot,8,-44,70,True
+Norman Powell,4,10,8,0,Floating Jump shot,7,-5,73,True
+Norman Powell,2,10,2,0,Floating Jump shot,7,-60,43,True
+Norman Powell,1,8,10,1,Floating Jump shot,12,6,125,True
+Norman Powell,2,10,43,0,Jump Shot,24,-150,193,False
+Norman Powell,2,8,11,0,Jump Shot,25,-100,232,False
+Norman Powell,3,0,0,0,Jump Shot,34,-87,338,False
+Norman Powell,3,1,59,0,Jump Shot,25,-144,211,False
+Norman Powell,2,10,47,0,Jump Shot,22,-223,-6,False
+Norman Powell,4,6,48,0,Jump Shot,23,-230,11,False
+Norman Powell,2,5,20,1,Jump Shot,26,-223,137,False
+Norman Powell,2,8,8,1,Jump Shot,23,-230,1,False
+Norman Powell,4,10,55,0,Jump Shot,25,-90,236,False
+Norman Powell,4,0,2,0,Jump Shot,26,-215,157,False
+Norman Powell,4,0,21,1,Jump Shot,27,-217,173,False
+Norman Powell,4,7,2,0,Jump Shot,25,64,243,False
+Norman Powell,4,4,40,0,Jump Shot,24,-174,178,False
+Norman Powell,2,2,11,1,Jump Shot,24,214,128,False
+Norman Powell,2,1,0,0,Jump Shot,22,-224,7,False
+Norman Powell,2,10,46,0,Jump Shot,25,-140,218,False
+Norman Powell,2,7,8,0,Jump Shot,25,-27,256,False
+Norman Powell,2,4,49,1,Jump Shot,23,221,84,False
+Norman Powell,2,7,34,1,Jump Shot,27,-143,235,False
+Norman Powell,2,3,20,0,Jump Shot,22,220,29,False
+Norman Powell,2,8,48,0,Jump Shot,26,-150,222,False
+Norman Powell,2,1,10,0,Jump Shot,23,230,10,False
+Norman Powell,1,0,7,1,Jump Shot,29,-158,251,False
+Norman Powell,2,3,27,0,Jump Shot,24,19,249,False
+Norman Powell,2,0,6,0,Jump Shot,22,222,20,False
+Norman Powell,2,0,38,0,Jump Shot,24,228,102,False
+Norman Powell,4,5,17,1,Jump Shot,25,55,246,False
+Norman Powell,2,0,51,0,Jump Shot,25,76,242,False
+Norman Powell,4,0,36,0,Jump Shot,24,228,95,False
+Norman Powell,4,1,48,0,Jump Shot,25,130,218,False
+Norman Powell,2,3,55,0,Jump Shot,23,-230,1,False
+Norman Powell,4,3,36,0,Jump Shot,23,-228,57,False
+Norman Powell,4,0,38,0,Jump Shot,23,-230,12,False
+Norman Powell,4,1,6,0,Jump Shot,22,-222,-2,False
+Norman Powell,4,2,17,1,Jump Shot,23,230,16,False
+Norman Powell,4,10,40,1,Jump Shot,23,-232,32,False
+Norman Powell,1,1,44,0,Jump Shot,25,3,259,False
+Norman Powell,4,8,25,1,Jump Shot,22,226,20,False
+Norman Powell,1,1,7,0,Jump Shot,25,-111,232,False
+Norman Powell,2,9,13,1,Jump Shot,25,-218,130,False
+Norman Powell,4,7,5,0,Jump Shot,25,159,199,False
+Norman Powell,2,9,42,0,Jump Shot,22,-2,222,True
+Norman Powell,2,10,6,1,Jump Shot,22,-225,18,False
+Norman Powell,2,8,17,1,Jump Shot,25,-29,249,False
+Norman Powell,2,5,48,0,Jump Shot,14,138,31,True
+Norman Powell,2,10,56,0,Jump Shot,22,-225,4,False
+Norman Powell,4,0,35,0,Jump Shot,26,148,216,False
+Norman Powell,3,1,48,0,Jump Shot,17,125,129,True
+Norman Powell,4,11,30,0,Jump Shot,26,-113,240,False
+Norman Powell,4,1,45,0,Jump Shot,26,-196,180,False
+Norman Powell,4,0,55,0,Jump Shot,17,59,167,True
+Norman Powell,2,0,29,0,Jump Shot,23,-236,-21,False
+Norman Powell,2,5,23,0,Jump Shot,25,125,227,False
+Norman Powell,2,11,36,1,Jump Shot,23,237,6,False
+Norman Powell,4,10,5,0,Jump Shot,22,-229,6,False
+Norman Powell,4,7,6,0,Jump Shot,26,143,226,False
+Norman Powell,4,6,48,0,Jump Shot,22,-226,0,False
+Norman Powell,4,0,13,0,Jump Shot,24,14,242,False
+Norman Powell,4,9,36,0,Jump Shot,24,-125,214,False
+Norman Powell,4,11,3,1,Jump Shot,6,-62,-5,True
+Norman Powell,4,8,51,0,Jump Shot,25,-28,252,False
+Norman Powell,4,10,4,1,Jump Shot,23,-232,11,False
+Norman Powell,4,10,16,0,Jump Shot,25,22,254,False
+Norman Powell,4,8,28,0,Jump Shot,26,-12,263,False
+Norman Powell,4,0,34,0,Jump Shot,23,-230,20,False
+Norman Powell,2,8,14,0,Jump Shot,23,-230,63,False
+Norman Powell,4,11,21,1,Jump Shot,25,-152,205,False
+Norman Powell,4,11,14,0,Jump Shot,24,-241,15,False
+Norman Powell,2,8,26,0,Jump Shot,22,-226,-4,False
+Norman Powell,4,4,57,0,Jump Shot,25,108,230,False
+Norman Powell,4,5,54,0,Jump Shot,26,-74,256,False
+Norman Powell,1,0,53,0,Jump Shot,22,-226,24,False
+Norman Powell,4,9,59,0,Jump Shot,26,-157,209,False
+Norman Powell,2,10,43,0,Jump Shot,23,-222,82,False
+Norman Powell,2,7,4,0,Jump Shot,23,-229,33,False
+Norman Powell,2,4,11,0,Jump Shot,24,-147,202,False
+Norman Powell,2,5,54,0,Jump Shot,26,-25,267,False
+Norman Powell,4,8,34,0,Jump Shot,25,-44,250,False
+Norman Powell,2,10,54,1,Jump Shot,20,-101,174,True
+Norman Powell,2,3,16,0,Jump Shot,24,225,95,False
+Norman Powell,4,10,24,0,Jump Shot,22,-228,-6,False
+Norman Powell,2,5,40,0,Jump Shot,25,-133,220,False
+Norman Powell,2,7,16,0,Jump Shot,25,-217,137,False
+Norman Powell,2,8,48,0,Jump Shot,23,-237,-10,False
+Norman Powell,4,8,46,1,Jump Shot,27,-44,267,False
+Norman Powell,1,0,0,0,Jump Shot,43,-183,398,False
+Norman Powell,2,9,11,1,Jump Shot,23,230,15,False
+Norman Powell,4,10,22,0,Jump Shot,22,-227,-17,False
+Norman Powell,4,10,5,1,Jump Shot,23,229,61,False
+Norman Powell,2,4,46,0,Jump Shot,25,122,220,False
+Norman Powell,2,10,1,1,Jump Shot,22,-225,1,False
+Norman Powell,4,3,0,0,Jump Shot,1,11,15,True
+Norman Powell,2,6,29,1,Jump Shot,25,-125,217,False
+Norman Powell,2,9,46,0,Jump Shot,25,-112,226,False
+Norman Powell,4,7,49,0,Jump Shot,25,-3,256,False
+Norman Powell,2,1,40,0,Jump Shot,26,-190,190,False
+Norman Powell,3,1,13,0,Jump Shot,19,-89,168,True
+Norman Powell,4,8,26,0,Jump Shot,24,-239,36,False
+Norman Powell,3,5,27,1,Jump Shot,25,212,142,False
+Norman Powell,1,3,36,0,Jump Shot,24,-230,89,False
+Norman Powell,1,2,0,1,Jump Shot,24,224,94,False
+Norman Powell,1,0,55,1,Jump Shot,26,92,248,False
+Norman Powell,2,10,18,0,Jump Shot,26,-30,260,False
+Norman Powell,1,2,36,1,Jump Shot,25,-171,193,False
+Norman Powell,1,10,56,1,Jump Shot,26,-152,223,False
+Norman Powell,3,8,0,0,Jump Shot,25,214,138,False
+Norman Powell,3,9,45,0,Jump Shot,26,16,264,False
+Norman Powell,2,2,11,1,Jump Shot,26,-158,214,False
+Norman Powell,3,9,58,0,Jump Shot,23,230,9,False
+Norman Powell,2,6,14,1,Jump Shot,26,-142,223,False
+Norman Powell,3,5,25,0,Jump Shot,27,171,221,False
+Norman Powell,2,3,19,1,Jump Shot,24,-230,74,False
+Norman Powell,4,0,56,0,Jump Shot,26,57,257,False
+Norman Powell,4,0,17,0,Jump Shot,19,-80,177,True
+Norman Powell,1,5,46,0,Jump Shot,24,-172,173,False
+Norman Powell,4,6,7,1,Jump Shot,24,234,63,False
+Norman Powell,3,9,14,1,Jump Shot,24,183,169,False
+Norman Powell,2,6,13,0,Jump Shot,22,-222,-6,False
+Norman Powell,2,9,11,0,Jump Shot,26,148,215,False
+Norman Powell,3,8,19,1,Jump Shot,25,98,238,False
+Norman Powell,3,1,41,0,Jump Shot,25,-109,230,False
+Norman Powell,3,8,45,0,Jump Shot,23,-231,58,False
+Norman Powell,3,4,58,0,Jump Shot,25,38,253,False
+Norman Powell,3,7,21,1,Jump Shot,24,-1,244,False
+Norman Powell,3,6,44,0,Jump Shot,22,-226,-10,False
+Norman Powell,3,6,26,1,Jump Shot,25,-201,152,False
+Norman Powell,1,7,11,0,Jump Shot,24,-127,214,False
+Norman Powell,3,6,25,0,Jump Shot,24,-180,169,False
+Norman Powell,3,10,59,0,Jump Shot,25,-90,243,False
+Norman Powell,3,11,20,0,Jump Shot,23,-231,20,False
+Norman Powell,3,6,29,0,Jump Shot,23,223,86,False
+Norman Powell,4,2,19,0,Jump Shot,23,-230,16,False
+Norman Powell,2,0,29,0,Jump Shot,27,92,254,False
+Norman Powell,2,2,12,1,Jump Shot,23,232,22,False
+Norman Powell,1,8,9,1,Jump Shot,26,-132,227,False
+Norman Powell,1,2,48,1,Jump Shot,25,152,207,False
+Norman Powell,1,0,41,0,Jump Shot,22,-223,0,False
+Norman Powell,1,1,5,0,Jump Shot,23,236,-5,False
+Norman Powell,3,4,53,0,Jump Shot,25,206,143,False
+Norman Powell,2,10,27,0,Jump Shot,26,-125,238,False
+Norman Powell,2,7,13,0,Jump Shot,26,182,189,False
+Norman Powell,3,2,50,0,Jump Shot,25,-2,257,False
+Norman Powell,4,11,8,0,Layup Shot,7,-67,27,True
+Norman Powell,4,7,29,1,Layup Shot,2,9,18,True
+Norman Powell,3,0,48,1,Layup Shot,0,-2,4,True
+Norman Powell,4,2,30,1,Layup Shot,0,2,7,True
+Norman Powell,4,1,41,0,Layup Shot,1,9,17,True
+Norman Powell,4,3,49,0,Layup Shot,2,22,16,True
+Norman Powell,4,0,30,0,Layup Shot,0,0,-2,True
+Norman Powell,2,10,53,1,Layup Shot,0,-3,7,True
+Norman Powell,3,5,17,1,Layup Shot,1,-16,8,True
+Norman Powell,4,2,3,0,Pullup Jump shot,24,-217,115,False
+Norman Powell,2,1,15,0,Pullup Jump shot,15,-80,136,True
+Norman Powell,2,9,11,0,Pullup Jump shot,17,-57,162,True
+Norman Powell,1,1,57,0,Pullup Jump shot,24,108,222,False
+Norman Powell,2,8,47,1,Pullup Jump shot,26,-67,257,False
+Norman Powell,2,7,36,1,Pullup Jump shot,24,47,244,False
+Norman Powell,2,0,0,0,Pullup Jump shot,26,57,263,False
+Norman Powell,2,9,41,0,Pullup Jump shot,16,-42,155,True
+Norman Powell,3,0,1,0,Pullup Jump shot,18,177,46,True
+Norman Powell,2,2,30,0,Pullup Jump shot,19,-8,197,True
+Norman Powell,4,4,12,0,Pullup Jump shot,24,-150,199,False
+Norman Powell,1,9,16,0,Pullup Jump shot,25,-117,232,False
+Norman Powell,2,8,28,1,Pullup Jump shot,17,161,71,True
+Norman Powell,1,0,0,0,Pullup Jump shot,25,42,253,False
+Norman Powell,4,6,49,1,Pullup Jump shot,21,5,211,True
+Norman Powell,4,2,35,0,Pullup Jump shot,25,225,112,False
+Norman Powell,2,7,14,1,Pullup Jump shot,28,47,278,False
+Norman Powell,3,6,30,0,Pullup Jump shot,26,102,241,False
+Norman Powell,4,9,37,0,Pullup Jump shot,25,-69,247,False
+Norman Powell,4,11,45,1,Pullup Jump shot,26,-108,237,False
+Norman Powell,2,6,43,1,Pullup Jump shot,11,3,113,True
+Norman Powell,4,11,3,1,Pullup Jump shot,22,2,221,True
+Norman Powell,4,9,39,0,Pullup Jump shot,25,-130,215,False
+Norman Powell,2,7,56,0,Pullup Jump shot,25,-36,253,False
+Norman Powell,4,1,4,0,Pullup Jump shot,15,3,156,True
+Norman Powell,4,8,16,1,Putback Layup Shot,4,-39,11,True
+Norman Powell,2,10,37,0,Reverse Layup Shot,1,-3,15,True
+Norman Powell,4,1,23,1,Running Alley Oop Layup Shot,2,27,4,True
+Norman Powell,3,2,32,1,Running Dunk Shot,2,9,20,True
+Norman Powell,4,1,23,1,Running Dunk Shot,1,10,6,True
+Norman Powell,2,6,59,1,Running Dunk Shot,1,-5,13,True
+Norman Powell,4,11,14,1,Running Dunk Shot,1,7,10,True
+Norman Powell,1,2,43,1,Running Dunk Shot,1,-9,6,True
+Norman Powell,3,7,37,0,Running Finger Roll Layup Shot,2,-12,20,True
+Norman Powell,4,5,22,1,Running Jump Shot,14,-102,99,True
+Norman Powell,3,11,36,0,Running Jump Shot,23,-225,71,False
+Norman Powell,1,3,35,1,Running Jump Shot,23,-230,0,False
+Norman Powell,1,7,2,0,Running Jump Shot,27,131,238,False
+Norman Powell,3,0,2,0,Running Jump Shot,25,-125,225,False
+Norman Powell,2,9,28,0,Running Jump Shot,24,-128,213,False
+Norman Powell,1,4,48,0,Running Jump Shot,23,230,5,False
+Norman Powell,3,2,48,1,Running Jump Shot,23,232,17,False
+Norman Powell,2,3,19,0,Running Jump Shot,27,-148,226,False
+Norman Powell,2,3,14,0,Running Jump Shot,23,-235,-4,False
+Norman Powell,3,6,15,1,Running Jump Shot,5,-8,57,True
+Norman Powell,3,8,5,0,Running Jump Shot,25,201,153,False
+Norman Powell,2,6,37,0,Running Jump Shot,23,-230,4,False
+Norman Powell,2,8,13,0,Running Layup Shot,2,27,0,True
+Norman Powell,4,1,7,1,Running Layup Shot,0,-3,-4,True
+Norman Powell,4,8,29,0,Running Layup Shot,3,31,20,True
+Norman Powell,3,7,39,1,Running Layup Shot,1,14,6,True
+Norman Powell,2,9,6,1,Running Layup Shot,2,18,10,True
+Norman Powell,4,8,17,1,Running Layup Shot,1,8,8,True
+Norman Powell,2,4,50,0,Running Layup Shot,3,11,33,True
+Norman Powell,2,3,21,0,Running Layup Shot,2,-16,12,True
+Norman Powell,2,9,14,0,Running Layup Shot,0,-5,8,True
+Norman Powell,2,11,6,1,Running Layup Shot,1,-7,17,True
+Norman Powell,4,10,42,0,Running Layup Shot,1,11,8,True
+Norman Powell,4,2,13,0,Running Layup Shot,0,-1,4,True
+Norman Powell,3,4,38,0,Running Layup Shot,3,28,17,True
+Norman Powell,1,8,36,1,Running Layup Shot,1,-12,1,True
+Norman Powell,2,4,18,1,Running Layup Shot,1,-11,5,True
+Norman Powell,3,11,31,1,Running Layup Shot,1,10,8,True
+Norman Powell,1,0,37,0,Running Pull-Up Jump Shot,22,-226,-11,False
+Norman Powell,2,6,20,1,Running Reverse Layup Shot,2,-13,20,True
+Norman Powell,3,9,42,0,Running Reverse Layup Shot,2,-15,14,True
+Norman Powell,2,8,39,1,Running Reverse Layup Shot,1,-14,-4,True
+Norman Powell,2,7,57,1,Step Back Jump shot,18,96,155,True
+Norman Powell,2,0,58,0,Step Back Jump shot,25,-210,137,False
+Norman Powell,2,9,40,0,Step Back Jump shot,16,-1,160,True
+Norman Powell,4,10,43,1,Step Back Jump shot,24,88,231,False
+Norman Powell,1,8,36,0,Step Back Jump shot,22,98,206,True
+Norman Powell,1,11,18,0,Step Back Jump shot,26,195,184,False
+Norman Powell,2,9,17,1,Step Back Jump shot,27,182,204,False
+Norman Powell,2,3,54,0,Step Back Jump shot,26,-155,216,False
+Norman Powell,3,7,45,0,Step Back Jump shot,25,57,253,False
+Norman Powell,2,6,31,0,Step Back Jump shot,14,-144,6,True
+Norman Powell,1,4,54,0,Step Back Jump shot,15,-150,4,True
+Norman Powell,3,4,40,0,Step Back Jump shot,25,16,258,False
+Norman Powell,1,10,0,0,Turnaround Hook Shot,8,-3,88,True

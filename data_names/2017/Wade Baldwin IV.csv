@@ -1,0 +1,22 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Wade Baldwin IV,2,11,2,0,Driving Finger Roll Layup Shot,1,16,6,True
+Wade Baldwin IV,4,8,48,1,Driving Floating Bank Jump Shot,7,-29,69,True
+Wade Baldwin IV,4,2,46,1,Driving Floating Jump Shot,7,38,66,True
+Wade Baldwin IV,1,1,11,0,Driving Floating Jump Shot,10,28,100,True
+Wade Baldwin IV,1,2,59,1,Driving Floating Jump Shot,8,51,63,True
+Wade Baldwin IV,4,0,56,0,Driving Floating Jump Shot,5,51,24,True
+Wade Baldwin IV,2,1,49,1,Driving Layup Shot,1,-11,9,True
+Wade Baldwin IV,4,3,38,1,Driving Layup Shot,2,-21,19,True
+Wade Baldwin IV,4,9,59,1,Driving Layup Shot,0,6,4,True
+Wade Baldwin IV,2,5,18,0,Fadeaway Jump Shot,11,58,105,True
+Wade Baldwin IV,3,2,44,1,Jump Shot,25,82,246,False
+Wade Baldwin IV,2,10,7,1,Jump Shot,3,4,36,True
+Wade Baldwin IV,2,7,56,1,Jump Shot,25,146,205,False
+Wade Baldwin IV,2,9,20,1,Jump Shot,25,-180,186,False
+Wade Baldwin IV,2,3,34,1,Jump Shot,25,127,218,False
+Wade Baldwin IV,3,0,53,0,Pullup Jump shot,18,96,159,True
+Wade Baldwin IV,4,0,27,1,Pullup Jump shot,15,-150,8,True
+Wade Baldwin IV,2,10,31,0,Pullup Jump shot,11,61,93,True
+Wade Baldwin IV,2,4,30,1,Running Dunk Shot,0,2,1,True
+Wade Baldwin IV,4,9,31,1,Running Layup Shot,0,9,1,True
+Wade Baldwin IV,4,1,48,0,Step Back Jump shot,25,9,258,False

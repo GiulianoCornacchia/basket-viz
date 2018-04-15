@@ -1,0 +1,441 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Ryan Anderson,4,11,35,1,Cutting Dunk Shot,0,1,3,True
+Ryan Anderson,4,9,2,1,Cutting Dunk Shot,1,11,8,True
+Ryan Anderson,1,3,27,1,Cutting Dunk Shot,0,0,8,True
+Ryan Anderson,3,5,17,1,Cutting Layup Shot,0,5,6,True
+Ryan Anderson,1,6,13,0,Cutting Layup Shot,1,-9,8,True
+Ryan Anderson,4,9,14,1,Driving Dunk Shot,0,4,-1,True
+Ryan Anderson,4,10,49,1,Driving Dunk Shot,1,0,16,True
+Ryan Anderson,4,9,21,1,Driving Dunk Shot,1,-9,12,True
+Ryan Anderson,2,2,27,0,Driving Floating Jump Shot,5,-13,52,True
+Ryan Anderson,1,8,47,1,Driving Floating Jump Shot,3,-29,10,True
+Ryan Anderson,1,5,34,0,Driving Layup Shot,2,-24,15,True
+Ryan Anderson,4,8,23,0,Driving Layup Shot,1,-14,9,True
+Ryan Anderson,3,11,24,1,Driving Layup Shot,2,-14,19,True
+Ryan Anderson,4,10,20,1,Driving Layup Shot,2,-7,29,True
+Ryan Anderson,2,9,35,0,Driving Layup Shot,3,0,37,True
+Ryan Anderson,4,3,40,1,Driving Layup Shot,1,-2,10,True
+Ryan Anderson,2,11,30,0,Driving Layup Shot,3,8,32,True
+Ryan Anderson,3,11,10,1,Driving Layup Shot,0,4,7,True
+Ryan Anderson,2,3,31,0,Driving Layup Shot,5,18,57,True
+Ryan Anderson,3,0,26,1,Dunk Shot,1,3,11,True
+Ryan Anderson,4,11,44,1,Fadeaway Jump Shot,12,-26,126,True
+Ryan Anderson,2,10,26,1,Fadeaway Jump Shot,15,133,83,True
+Ryan Anderson,2,8,50,0,Fadeaway Jump Shot,18,-41,180,True
+Ryan Anderson,4,6,26,0,Fadeaway Jump Shot,11,57,96,True
+Ryan Anderson,4,10,37,1,Fadeaway Jump Shot,16,103,126,True
+Ryan Anderson,3,5,36,0,Fadeaway Jump Shot,8,-87,21,True
+Ryan Anderson,2,8,46,1,Fadeaway Jump Shot,16,88,135,True
+Ryan Anderson,2,7,0,0,Fadeaway Jump Shot,8,70,44,True
+Ryan Anderson,4,8,24,1,Fadeaway Jump Shot,14,-138,27,True
+Ryan Anderson,4,10,10,0,Fadeaway Jump Shot,12,90,90,True
+Ryan Anderson,2,8,51,1,Fadeaway Jump Shot,15,-153,11,True
+Ryan Anderson,2,10,15,1,Fadeaway Jump Shot,18,126,132,True
+Ryan Anderson,4,1,41,0,Fadeaway Jump Shot,14,-51,141,True
+Ryan Anderson,2,1,37,0,Fadeaway Jump Shot,13,-122,62,True
+Ryan Anderson,1,11,46,0,Fadeaway Jump Shot,10,-52,92,True
+Ryan Anderson,2,11,3,0,Fadeaway Jump Shot,9,2,97,True
+Ryan Anderson,4,5,14,0,Fadeaway Jump Shot,12,-118,47,True
+Ryan Anderson,1,5,52,0,Fadeaway Jump Shot,18,-187,5,True
+Ryan Anderson,4,1,53,1,Fadeaway Jump Shot,15,95,121,True
+Ryan Anderson,3,11,17,1,Fadeaway Jump Shot,12,-85,94,True
+Ryan Anderson,3,1,51,1,Hook Shot,2,-1,25,True
+Ryan Anderson,2,3,5,1,Hook Shot,5,0,53,True
+Ryan Anderson,2,11,54,0,Jump Bank Shot,28,132,250,False
+Ryan Anderson,4,10,32,1,Jump Shot,25,-4,253,False
+Ryan Anderson,4,6,36,0,Jump Shot,28,-105,266,False
+Ryan Anderson,4,9,59,1,Jump Shot,25,153,208,False
+Ryan Anderson,4,2,32,0,Jump Shot,25,-27,257,False
+Ryan Anderson,1,0,57,1,Jump Shot,25,103,236,False
+Ryan Anderson,1,3,50,0,Jump Shot,24,155,193,False
+Ryan Anderson,3,6,3,1,Jump Shot,25,224,121,False
+Ryan Anderson,3,1,24,0,Jump Shot,25,-230,105,False
+Ryan Anderson,4,7,40,1,Jump Shot,25,-93,236,False
+Ryan Anderson,4,7,14,1,Jump Shot,28,24,283,False
+Ryan Anderson,4,7,28,0,Jump Shot,28,-2,285,False
+Ryan Anderson,4,7,57,0,Jump Shot,27,-151,235,False
+Ryan Anderson,1,2,52,0,Jump Shot,30,-210,228,False
+Ryan Anderson,1,2,20,1,Jump Shot,27,-99,252,False
+Ryan Anderson,4,10,37,1,Jump Shot,24,160,189,False
+Ryan Anderson,3,0,0,1,Jump Shot,26,-196,172,False
+Ryan Anderson,2,8,16,1,Jump Shot,29,196,214,False
+Ryan Anderson,2,9,47,1,Jump Shot,23,229,38,False
+Ryan Anderson,3,10,23,0,Jump Shot,30,-172,249,False
+Ryan Anderson,3,11,30,1,Jump Shot,30,184,241,False
+Ryan Anderson,1,8,49,0,Jump Shot,30,201,234,False
+Ryan Anderson,2,7,33,0,Jump Shot,26,187,187,False
+Ryan Anderson,4,8,50,1,Jump Shot,23,228,38,False
+Ryan Anderson,4,9,54,0,Jump Shot,28,-187,215,False
+Ryan Anderson,3,2,23,1,Jump Shot,26,-188,189,False
+Ryan Anderson,1,8,11,1,Jump Shot,25,-168,193,False
+Ryan Anderson,2,2,45,0,Jump Shot,25,217,127,False
+Ryan Anderson,1,8,37,1,Jump Shot,24,-85,234,False
+Ryan Anderson,3,4,53,0,Jump Shot,25,154,209,False
+Ryan Anderson,2,6,15,1,Jump Shot,28,-168,233,False
+Ryan Anderson,3,5,15,1,Jump Shot,27,-176,209,False
+Ryan Anderson,1,7,37,0,Jump Shot,6,-20,62,True
+Ryan Anderson,1,10,35,0,Jump Shot,26,1,267,False
+Ryan Anderson,4,8,34,1,Jump Shot,26,165,212,False
+Ryan Anderson,4,7,36,1,Jump Shot,27,125,243,False
+Ryan Anderson,4,2,41,0,Jump Shot,28,86,272,False
+Ryan Anderson,3,10,27,0,Jump Shot,26,182,196,False
+Ryan Anderson,3,10,54,0,Jump Shot,26,85,254,False
+Ryan Anderson,1,7,12,0,Jump Shot,28,161,230,False
+Ryan Anderson,1,10,41,0,Jump Shot,9,-10,95,True
+Ryan Anderson,1,6,48,0,Jump Shot,27,83,264,False
+Ryan Anderson,1,8,23,1,Jump Shot,26,3,264,False
+Ryan Anderson,3,11,49,0,Jump Shot,26,194,181,False
+Ryan Anderson,3,10,44,1,Jump Shot,22,-226,2,False
+Ryan Anderson,2,7,42,0,Jump Shot,27,-205,183,False
+Ryan Anderson,2,10,48,0,Jump Shot,29,187,227,False
+Ryan Anderson,3,10,54,0,Jump Shot,30,133,279,False
+Ryan Anderson,2,2,54,1,Jump Shot,26,166,204,False
+Ryan Anderson,2,6,18,1,Jump Shot,29,205,207,False
+Ryan Anderson,2,2,29,0,Jump Shot,27,71,263,False
+Ryan Anderson,2,4,3,0,Jump Shot,27,-111,257,False
+Ryan Anderson,1,11,3,0,Jump Shot,30,-164,254,False
+Ryan Anderson,1,2,1,0,Jump Shot,30,-172,253,False
+Ryan Anderson,1,0,2,0,Jump Shot,27,62,272,False
+Ryan Anderson,1,5,5,1,Jump Shot,27,137,241,False
+Ryan Anderson,1,7,39,1,Jump Shot,27,148,232,False
+Ryan Anderson,3,8,20,1,Jump Shot,26,-81,252,False
+Ryan Anderson,1,8,57,0,Jump Shot,26,-163,214,False
+Ryan Anderson,2,9,33,1,Jump Shot,27,-177,208,False
+Ryan Anderson,2,11,8,0,Jump Shot,28,-158,236,False
+Ryan Anderson,2,3,21,0,Jump Shot,24,235,66,False
+Ryan Anderson,2,1,57,0,Jump Shot,26,-156,215,False
+Ryan Anderson,3,0,4,0,Jump Shot,26,168,210,False
+Ryan Anderson,2,11,30,1,Jump Shot,26,210,159,False
+Ryan Anderson,4,11,48,0,Jump Shot,26,193,184,False
+Ryan Anderson,3,4,23,1,Jump Shot,28,-5,284,False
+Ryan Anderson,1,3,21,0,Jump Shot,24,168,181,False
+Ryan Anderson,4,6,8,1,Jump Shot,27,-178,205,False
+Ryan Anderson,4,1,51,1,Jump Shot,25,144,215,False
+Ryan Anderson,4,1,11,0,Jump Shot,30,-155,257,False
+Ryan Anderson,2,4,25,0,Jump Shot,20,-142,141,True
+Ryan Anderson,1,1,53,0,Jump Shot,26,-177,201,False
+Ryan Anderson,2,10,42,1,Jump Shot,29,-71,284,False
+Ryan Anderson,2,8,22,1,Jump Shot,16,53,152,True
+Ryan Anderson,1,2,9,0,Jump Shot,26,3,260,False
+Ryan Anderson,4,9,29,0,Jump Shot,26,-75,255,False
+Ryan Anderson,2,11,51,1,Jump Shot,26,154,221,False
+Ryan Anderson,2,8,37,0,Jump Shot,28,125,256,False
+Ryan Anderson,2,10,37,1,Jump Shot,26,-3,262,False
+Ryan Anderson,1,4,59,1,Jump Shot,25,-57,247,False
+Ryan Anderson,2,10,12,0,Jump Shot,24,-17,246,False
+Ryan Anderson,1,1,44,1,Jump Shot,26,73,254,False
+Ryan Anderson,2,7,57,1,Jump Shot,29,-179,238,False
+Ryan Anderson,1,0,59,0,Jump Shot,25,-165,197,False
+Ryan Anderson,2,10,40,0,Jump Shot,26,-147,220,False
+Ryan Anderson,3,3,37,0,Jump Shot,25,128,218,False
+Ryan Anderson,4,9,1,0,Jump Shot,25,133,212,False
+Ryan Anderson,4,9,43,0,Jump Shot,27,-173,220,False
+Ryan Anderson,1,1,41,1,Jump Shot,26,-111,241,False
+Ryan Anderson,1,0,30,0,Jump Shot,28,-89,269,False
+Ryan Anderson,4,9,12,0,Jump Shot,26,180,201,False
+Ryan Anderson,2,9,4,0,Jump Shot,30,-150,263,False
+Ryan Anderson,3,4,4,1,Jump Shot,27,-68,267,False
+Ryan Anderson,4,10,0,1,Jump Shot,27,3,277,False
+Ryan Anderson,3,2,20,1,Jump Shot,26,163,210,False
+Ryan Anderson,2,0,52,0,Jump Shot,26,89,247,False
+Ryan Anderson,4,8,45,0,Jump Shot,27,149,230,False
+Ryan Anderson,1,3,24,0,Jump Shot,25,-174,193,False
+Ryan Anderson,2,3,1,0,Jump Shot,26,-12,268,False
+Ryan Anderson,3,1,14,0,Jump Shot,28,-166,235,False
+Ryan Anderson,2,7,10,0,Jump Shot,25,-130,218,False
+Ryan Anderson,1,9,24,0,Jump Shot,22,225,20,False
+Ryan Anderson,1,6,33,1,Jump Shot,22,225,-17,False
+Ryan Anderson,4,11,37,0,Jump Shot,27,-17,278,False
+Ryan Anderson,2,11,42,0,Jump Shot,31,164,271,False
+Ryan Anderson,2,4,7,0,Jump Shot,27,-158,231,False
+Ryan Anderson,2,10,43,1,Jump Shot,26,144,220,False
+Ryan Anderson,2,4,55,1,Jump Shot,11,-26,116,True
+Ryan Anderson,2,9,0,1,Jump Shot,27,-188,194,False
+Ryan Anderson,1,7,50,0,Jump Shot,29,153,250,False
+Ryan Anderson,4,0,48,0,Jump Shot,26,90,254,False
+Ryan Anderson,3,5,41,0,Jump Shot,25,-101,238,False
+Ryan Anderson,1,2,16,0,Jump Shot,27,206,185,False
+Ryan Anderson,1,7,45,1,Jump Shot,26,156,212,False
+Ryan Anderson,2,0,33,0,Jump Shot,23,227,49,False
+Ryan Anderson,2,2,32,0,Jump Shot,26,15,268,False
+Ryan Anderson,1,10,23,0,Jump Shot,25,162,193,False
+Ryan Anderson,2,10,12,0,Jump Shot,26,123,235,False
+Ryan Anderson,1,9,21,1,Jump Shot,25,44,248,False
+Ryan Anderson,4,0,32,0,Jump Shot,23,227,65,False
+Ryan Anderson,2,2,40,1,Jump Shot,27,158,230,False
+Ryan Anderson,2,1,46,0,Jump Shot,23,-231,-7,False
+Ryan Anderson,3,2,36,0,Jump Shot,28,-202,200,False
+Ryan Anderson,4,2,29,1,Jump Shot,22,228,25,False
+Ryan Anderson,2,5,23,0,Jump Shot,28,103,266,False
+Ryan Anderson,1,10,6,1,Jump Shot,26,87,247,False
+Ryan Anderson,4,1,24,0,Jump Shot,29,-85,285,False
+Ryan Anderson,2,1,3,0,Jump Shot,25,-133,213,False
+Ryan Anderson,1,9,35,0,Jump Shot,25,-119,226,False
+Ryan Anderson,1,11,26,1,Jump Shot,26,-89,248,False
+Ryan Anderson,3,9,41,0,Jump Shot,27,-65,270,False
+Ryan Anderson,2,11,22,0,Jump Shot,28,-3,282,False
+Ryan Anderson,1,8,33,0,Jump Shot,30,137,274,False
+Ryan Anderson,4,3,45,0,Jump Shot,28,-70,280,False
+Ryan Anderson,2,5,36,0,Jump Shot,24,-42,245,False
+Ryan Anderson,2,8,55,1,Jump Shot,23,235,19,False
+Ryan Anderson,3,7,45,1,Jump Shot,30,-114,280,False
+Ryan Anderson,1,9,21,1,Jump Shot,22,-227,6,False
+Ryan Anderson,1,1,15,1,Jump Shot,25,150,210,False
+Ryan Anderson,3,10,51,0,Jump Shot,27,107,248,False
+Ryan Anderson,1,0,21,1,Jump Shot,25,135,220,False
+Ryan Anderson,3,7,38,0,Jump Shot,25,89,243,False
+Ryan Anderson,3,1,24,1,Jump Shot,27,-54,274,False
+Ryan Anderson,2,7,17,1,Jump Shot,29,-67,283,False
+Ryan Anderson,2,11,36,0,Jump Shot,25,168,194,False
+Ryan Anderson,4,11,10,0,Jump Shot,22,-223,46,False
+Ryan Anderson,2,5,9,0,Jump Shot,26,-9,265,False
+Ryan Anderson,4,0,17,0,Jump Shot,26,114,242,False
+Ryan Anderson,2,1,56,0,Jump Shot,27,177,215,False
+Ryan Anderson,2,3,10,0,Jump Shot,27,173,215,False
+Ryan Anderson,4,9,8,1,Jump Shot,22,-225,25,False
+Ryan Anderson,2,10,40,0,Jump Shot,25,47,246,False
+Ryan Anderson,2,2,58,0,Jump Shot,26,162,209,False
+Ryan Anderson,2,7,13,0,Jump Shot,26,129,232,False
+Ryan Anderson,1,8,46,1,Jump Shot,27,-141,241,False
+Ryan Anderson,1,6,13,1,Jump Shot,27,-175,215,False
+Ryan Anderson,1,9,14,0,Jump Shot,25,101,237,False
+Ryan Anderson,3,9,59,1,Jump Shot,26,95,247,False
+Ryan Anderson,3,6,44,0,Jump Shot,25,-184,176,False
+Ryan Anderson,1,10,4,0,Jump Shot,27,5,273,False
+Ryan Anderson,1,7,32,0,Jump Shot,24,-112,214,False
+Ryan Anderson,2,5,31,0,Jump Shot,24,218,122,False
+Ryan Anderson,3,5,17,0,Jump Shot,28,-71,281,False
+Ryan Anderson,3,8,57,1,Jump Shot,26,-168,204,False
+Ryan Anderson,4,7,40,0,Jump Shot,19,173,90,True
+Ryan Anderson,1,3,15,1,Jump Shot,26,62,262,False
+Ryan Anderson,3,9,41,0,Jump Shot,24,128,212,False
+Ryan Anderson,3,8,39,1,Jump Shot,25,160,204,False
+Ryan Anderson,3,6,50,0,Jump Shot,22,228,10,False
+Ryan Anderson,1,7,3,0,Jump Shot,26,153,214,False
+Ryan Anderson,2,4,47,0,Jump Shot,24,212,122,False
+Ryan Anderson,3,10,44,1,Jump Shot,26,89,253,False
+Ryan Anderson,1,9,42,1,Jump Shot,24,177,173,False
+Ryan Anderson,3,8,20,1,Jump Shot,28,68,274,False
+Ryan Anderson,4,1,57,0,Jump Shot,17,47,172,True
+Ryan Anderson,1,11,43,0,Jump Shot,25,143,215,False
+Ryan Anderson,4,10,12,0,Jump Shot,26,-182,187,False
+Ryan Anderson,2,9,55,1,Jump Shot,23,-234,18,False
+Ryan Anderson,4,9,29,0,Jump Shot,26,-130,235,False
+Ryan Anderson,1,0,34,1,Jump Shot,26,32,263,False
+Ryan Anderson,3,8,11,0,Jump Shot,30,204,222,False
+Ryan Anderson,2,10,50,0,Jump Shot,29,117,272,False
+Ryan Anderson,3,1,31,0,Jump Shot,30,-206,230,False
+Ryan Anderson,3,7,25,1,Jump Shot,25,-159,198,False
+Ryan Anderson,3,1,1,0,Jump Shot,2,-11,27,True
+Ryan Anderson,2,11,42,1,Jump Shot,24,-210,127,False
+Ryan Anderson,2,11,50,0,Jump Shot,23,-234,2,False
+Ryan Anderson,2,9,59,0,Jump Shot,22,228,-7,False
+Ryan Anderson,4,10,12,0,Jump Shot,27,-72,262,False
+Ryan Anderson,4,6,25,1,Jump Shot,26,51,263,False
+Ryan Anderson,2,11,24,0,Jump Shot,25,95,239,False
+Ryan Anderson,2,8,5,1,Jump Shot,17,87,153,True
+Ryan Anderson,4,10,24,0,Jump Shot,27,-202,183,False
+Ryan Anderson,1,6,58,1,Jump Shot,26,199,177,False
+Ryan Anderson,2,1,28,0,Jump Shot,27,174,209,False
+Ryan Anderson,2,4,55,0,Jump Shot,26,-210,164,False
+Ryan Anderson,2,3,41,0,Jump Shot,22,222,-15,False
+Ryan Anderson,3,9,57,0,Jump Shot,24,-130,211,False
+Ryan Anderson,3,7,13,0,Jump Shot,25,-96,232,False
+Ryan Anderson,4,7,45,1,Jump Shot,26,150,218,False
+Ryan Anderson,4,10,19,0,Jump Shot,26,149,221,False
+Ryan Anderson,1,6,8,1,Jump Shot,22,226,7,False
+Ryan Anderson,2,4,52,0,Jump Shot,23,-235,1,False
+Ryan Anderson,1,8,2,0,Jump Shot,26,183,194,False
+Ryan Anderson,1,9,28,0,Jump Shot,24,-231,91,False
+Ryan Anderson,1,7,6,1,Jump Shot,23,-230,37,False
+Ryan Anderson,4,7,43,0,Jump Shot,26,-143,224,False
+Ryan Anderson,2,1,4,0,Jump Shot,27,-106,250,False
+Ryan Anderson,1,6,44,0,Jump Shot,25,-135,213,False
+Ryan Anderson,3,6,0,0,Jump Shot,29,40,288,False
+Ryan Anderson,2,2,51,0,Jump Shot,22,-227,36,False
+Ryan Anderson,1,8,34,0,Jump Shot,30,171,247,False
+Ryan Anderson,3,11,22,0,Jump Shot,23,-231,-13,False
+Ryan Anderson,3,7,52,1,Jump Shot,27,-188,207,False
+Ryan Anderson,2,4,57,0,Jump Shot,26,-152,215,False
+Ryan Anderson,1,8,22,0,Jump Shot,28,169,226,False
+Ryan Anderson,1,10,31,1,Jump Shot,26,207,166,False
+Ryan Anderson,2,2,20,0,Jump Shot,27,-51,271,False
+Ryan Anderson,1,11,46,0,Jump Shot,22,-226,38,False
+Ryan Anderson,1,5,38,1,Jump Shot,32,175,269,False
+Ryan Anderson,4,9,8,0,Jump Shot,25,-87,240,False
+Ryan Anderson,3,11,47,0,Jump Shot,22,-225,3,False
+Ryan Anderson,1,1,20,0,Jump Shot,28,-171,228,False
+Ryan Anderson,4,6,52,1,Jump Shot,25,-155,197,False
+Ryan Anderson,1,10,20,1,Jump Shot,27,-210,184,False
+Ryan Anderson,2,5,54,0,Jump Shot,27,143,233,False
+Ryan Anderson,3,10,11,0,Jump Shot,27,-67,266,False
+Ryan Anderson,4,11,50,0,Jump Shot,29,218,201,False
+Ryan Anderson,2,10,37,0,Jump Shot,31,-187,248,False
+Ryan Anderson,2,5,39,0,Jump Shot,23,237,0,False
+Ryan Anderson,1,6,52,0,Jump Shot,24,206,141,False
+Ryan Anderson,2,5,23,0,Jump Shot,26,-171,204,False
+Ryan Anderson,1,2,4,0,Jump Shot,22,222,2,False
+Ryan Anderson,2,11,26,1,Jump Shot,26,-149,218,False
+Ryan Anderson,2,9,21,0,Jump Shot,23,-226,53,False
+Ryan Anderson,2,7,51,0,Jump Shot,3,22,22,True
+Ryan Anderson,3,10,33,0,Jump Shot,26,-149,222,False
+Ryan Anderson,3,5,2,0,Jump Shot,24,98,229,False
+Ryan Anderson,4,11,37,0,Jump Shot,25,-90,234,False
+Ryan Anderson,3,9,13,0,Jump Shot,20,-147,140,True
+Ryan Anderson,1,8,22,1,Jump Shot,28,-161,237,False
+Ryan Anderson,3,11,17,0,Jump Shot,23,230,-22,False
+Ryan Anderson,1,7,50,0,Jump Shot,28,15,284,False
+Ryan Anderson,2,6,42,0,Jump Shot,23,231,33,False
+Ryan Anderson,3,7,12,0,Jump Shot,24,201,139,False
+Ryan Anderson,3,7,45,1,Jump Shot,26,180,188,False
+Ryan Anderson,3,7,23,0,Jump Shot,29,-171,237,False
+Ryan Anderson,2,6,8,0,Jump Shot,26,130,236,False
+Ryan Anderson,1,6,32,0,Jump Shot,28,-141,249,False
+Ryan Anderson,1,6,58,1,Jump Shot,27,151,233,False
+Ryan Anderson,1,9,59,0,Jump Shot,19,-195,17,True
+Ryan Anderson,1,9,27,0,Jump Shot,25,120,225,False
+Ryan Anderson,3,9,32,1,Jump Shot,25,223,129,False
+Ryan Anderson,3,11,24,0,Jump Shot,25,-149,213,False
+Ryan Anderson,4,6,2,1,Jump Shot,29,181,227,False
+Ryan Anderson,1,6,17,1,Jump Shot,26,5,263,False
+Ryan Anderson,3,10,17,0,Jump Shot,25,168,187,False
+Ryan Anderson,1,7,8,1,Jump Shot,25,-232,96,False
+Ryan Anderson,4,4,17,1,Jump Shot,24,-210,130,False
+Ryan Anderson,2,9,59,1,Jump Shot,25,100,230,False
+Ryan Anderson,4,9,4,1,Jump Shot,27,-29,275,False
+Ryan Anderson,3,7,28,0,Jump Shot,25,-209,143,False
+Ryan Anderson,1,6,31,0,Jump Shot,24,138,205,False
+Ryan Anderson,1,8,17,0,Jump Shot,22,-222,-16,False
+Ryan Anderson,3,10,59,1,Jump Shot,24,214,128,False
+Ryan Anderson,3,0,1,1,Jump Shot,28,-194,210,False
+Ryan Anderson,2,7,28,0,Jump Shot,26,-199,168,False
+Ryan Anderson,1,0,59,1,Jump Shot,30,4,300,False
+Ryan Anderson,2,11,47,0,Jump Shot,28,-190,211,False
+Ryan Anderson,2,7,7,0,Jump Shot,4,20,37,True
+Ryan Anderson,1,0,36,1,Jump Shot,29,-196,218,False
+Ryan Anderson,1,11,33,1,Jump Shot,23,230,-21,False
+Ryan Anderson,4,8,18,1,Jump Shot,24,-144,204,False
+Ryan Anderson,4,10,2,1,Jump Shot,23,232,41,False
+Ryan Anderson,4,11,35,0,Jump Shot,26,187,187,False
+Ryan Anderson,1,9,20,0,Jump Shot,27,-114,246,False
+Ryan Anderson,4,8,59,1,Jump Shot,30,-214,222,False
+Ryan Anderson,4,10,45,1,Jump Shot,23,234,6,False
+Ryan Anderson,1,0,26,0,Jump Shot,25,90,242,False
+Ryan Anderson,1,7,57,0,Jump Shot,26,145,216,False
+Ryan Anderson,2,4,5,1,Jump Shot,26,152,220,False
+Ryan Anderson,2,2,59,0,Jump Shot,25,16,257,False
+Ryan Anderson,3,9,49,0,Jump Shot,26,63,260,False
+Ryan Anderson,4,11,45,0,Jump Shot,27,3,277,False
+Ryan Anderson,1,9,9,1,Jump Shot,26,-18,264,False
+Ryan Anderson,2,7,26,0,Jump Shot,27,-87,261,False
+Ryan Anderson,2,8,51,1,Jump Shot,19,5,195,True
+Ryan Anderson,2,3,57,0,Jump Shot,26,-22,260,False
+Ryan Anderson,3,1,31,1,Jump Shot,24,-214,117,False
+Ryan Anderson,3,10,22,0,Jump Shot,25,171,188,False
+Ryan Anderson,1,7,49,0,Jump Shot,25,43,252,False
+Ryan Anderson,1,10,16,1,Jump Shot,25,140,212,False
+Ryan Anderson,4,8,52,0,Jump Shot,24,-133,211,False
+Ryan Anderson,3,9,17,0,Jump Shot,28,99,272,False
+Ryan Anderson,1,11,37,0,Jump Shot,25,-218,130,False
+Ryan Anderson,3,10,28,0,Jump Shot,28,-187,211,False
+Ryan Anderson,2,11,45,1,Jump Shot,26,-166,209,False
+Ryan Anderson,1,8,46,0,Jump Shot,23,-231,11,False
+Ryan Anderson,1,6,50,1,Jump Shot,26,-73,258,False
+Ryan Anderson,1,4,45,0,Jump Shot,24,-112,222,False
+Ryan Anderson,2,10,28,0,Jump Shot,27,17,272,False
+Ryan Anderson,1,8,29,1,Jump Shot,24,150,193,False
+Ryan Anderson,1,11,29,0,Jump Shot,24,163,183,False
+Ryan Anderson,3,9,56,0,Jump Shot,25,-152,210,False
+Ryan Anderson,3,9,34,1,Jump Shot,25,166,199,False
+Ryan Anderson,1,6,47,1,Jump Shot,24,127,214,False
+Ryan Anderson,2,3,50,0,Jump Shot,26,-35,264,False
+Ryan Anderson,2,2,26,0,Jump Shot,25,220,130,False
+Ryan Anderson,2,11,46,0,Jump Shot,27,6,279,False
+Ryan Anderson,4,8,42,0,Jump Shot,26,111,246,False
+Ryan Anderson,2,6,53,0,Layup Shot,1,6,12,True
+Ryan Anderson,2,5,9,1,Layup Shot,3,-29,16,True
+Ryan Anderson,4,9,4,0,Layup Shot,5,-47,27,True
+Ryan Anderson,4,0,18,1,Layup Shot,1,18,4,True
+Ryan Anderson,1,2,0,0,Layup Shot,1,2,10,True
+Ryan Anderson,4,5,19,1,Layup Shot,1,3,10,True
+Ryan Anderson,4,11,3,0,Layup Shot,5,-14,50,True
+Ryan Anderson,4,2,21,0,Layup Shot,1,13,12,True
+Ryan Anderson,4,6,46,1,Layup Shot,1,-1,18,True
+Ryan Anderson,4,8,52,0,Layup Shot,3,3,39,True
+Ryan Anderson,4,0,5,0,Layup Shot,2,18,19,True
+Ryan Anderson,2,9,50,0,Layup Shot,2,-24,16,True
+Ryan Anderson,2,8,25,0,Layup Shot,2,2,20,True
+Ryan Anderson,2,8,57,0,Layup Shot,3,29,11,True
+Ryan Anderson,3,7,19,1,Layup Shot,0,6,-4,True
+Ryan Anderson,3,8,12,0,Layup Shot,1,4,19,True
+Ryan Anderson,1,6,32,1,Layup Shot,1,-4,13,True
+Ryan Anderson,1,4,56,1,Pullup Jump shot,26,214,152,False
+Ryan Anderson,2,0,42,1,Pullup Jump shot,13,-118,62,True
+Ryan Anderson,3,8,37,0,Pullup Jump shot,30,-145,264,False
+Ryan Anderson,1,10,13,0,Pullup Jump shot,22,55,220,True
+Ryan Anderson,2,10,21,1,Pullup Jump shot,25,-180,184,False
+Ryan Anderson,4,6,36,0,Pullup Jump shot,25,8,251,False
+Ryan Anderson,1,4,36,0,Pullup Jump shot,29,116,267,False
+Ryan Anderson,3,9,41,1,Putback Dunk Shot,0,0,-6,True
+Ryan Anderson,4,10,47,1,Putback Dunk Shot,0,0,-6,True
+Ryan Anderson,2,6,8,1,Putback Layup Shot,1,0,13,True
+Ryan Anderson,2,9,17,1,Putback Layup Shot,0,8,5,True
+Ryan Anderson,4,1,20,0,Putback Layup Shot,0,0,-6,True
+Ryan Anderson,1,2,7,1,Putback Layup Shot,0,0,-6,True
+Ryan Anderson,3,6,12,1,Putback Layup Shot,0,0,-6,True
+Ryan Anderson,1,8,51,0,Putback Layup Shot,2,-3,24,True
+Ryan Anderson,2,10,13,1,Putback Layup Shot,1,-8,6,True
+Ryan Anderson,3,1,20,1,Reverse Layup Shot,1,2,17,True
+Ryan Anderson,1,0,6,1,Reverse Layup Shot,0,5,4,True
+Ryan Anderson,1,10,54,1,Reverse Layup Shot,1,-9,11,True
+Ryan Anderson,3,9,35,1,Reverse Layup Shot,1,-15,4,True
+Ryan Anderson,2,8,48,1,Reverse Layup Shot,1,-3,10,True
+Ryan Anderson,2,11,17,1,Running Jump Shot,28,-132,249,False
+Ryan Anderson,1,10,10,1,Running Jump Shot,25,171,193,False
+Ryan Anderson,3,8,30,1,Running Jump Shot,24,-211,117,False
+Ryan Anderson,3,10,55,0,Running Jump Shot,25,-201,164,False
+Ryan Anderson,1,2,13,1,Running Jump Shot,27,109,251,False
+Ryan Anderson,4,11,21,0,Step Back Jump shot,17,-20,172,True
+Ryan Anderson,3,2,55,0,Step Back Jump shot,25,50,253,False
+Ryan Anderson,4,5,58,0,Step Back Jump shot,15,-147,37,True
+Ryan Anderson,3,10,8,0,Step Back Jump shot,19,54,186,True
+Ryan Anderson,1,10,46,1,Step Back Jump shot,16,-158,29,True
+Ryan Anderson,2,4,45,1,Step Back Jump shot,26,107,246,False
+Ryan Anderson,2,3,11,1,Step Back Jump shot,23,17,231,True
+Ryan Anderson,2,1,21,1,Step Back Jump shot,18,-1,185,True
+Ryan Anderson,2,9,47,0,Step Back Jump shot,20,-201,-5,True
+Ryan Anderson,3,10,45,1,Step Back Jump shot,23,79,218,True
+Ryan Anderson,4,5,41,1,Step Back Jump shot,16,65,155,True
+Ryan Anderson,1,3,5,0,Step Back Jump shot,25,119,226,False
+Ryan Anderson,2,7,31,1,Step Back Jump shot,18,109,147,True
+Ryan Anderson,3,7,15,0,Step Back Jump shot,18,149,101,True
+Ryan Anderson,1,11,32,1,Step Back Jump shot,18,-131,133,True
+Ryan Anderson,4,4,1,0,Step Back Jump shot,18,27,184,True
+Ryan Anderson,2,2,53,1,Step Back Jump shot,26,-101,242,False
+Ryan Anderson,1,10,33,0,Step Back Jump shot,24,98,229,False
+Ryan Anderson,3,1,7,1,Step Back Jump shot,22,-40,220,True
+Ryan Anderson,3,7,11,1,Step Back Jump shot,22,55,221,True
+Ryan Anderson,1,5,37,0,Tip Layup Shot,0,0,-6,True
+Ryan Anderson,1,2,36,1,Tip Layup Shot,0,0,-6,True
+Ryan Anderson,4,4,7,0,Tip Layup Shot,0,0,-6,True
+Ryan Anderson,3,7,42,1,Tip Layup Shot,0,0,-6,True
+Ryan Anderson,2,5,47,1,Tip Layup Shot,0,0,-6,True
+Ryan Anderson,1,7,14,0,Tip Layup Shot,0,0,-6,True
+Ryan Anderson,2,6,38,1,Tip Layup Shot,0,0,-6,True
+Ryan Anderson,2,11,43,1,Tip Layup Shot,0,0,-6,True
+Ryan Anderson,3,2,5,1,Tip Layup Shot,0,0,-6,True
+Ryan Anderson,2,9,23,0,Tip Layup Shot,0,0,-6,True
+Ryan Anderson,1,6,34,0,Tip Layup Shot,1,2,15,True
+Ryan Anderson,2,9,22,1,Tip Layup Shot,0,0,-6,True
+Ryan Anderson,3,8,52,1,Tip Layup Shot,0,0,-6,True
+Ryan Anderson,1,7,28,0,Tip Layup Shot,0,0,-6,True
+Ryan Anderson,4,0,6,0,Tip Layup Shot,1,7,9,True
+Ryan Anderson,2,3,30,1,Tip Layup Shot,0,0,-6,True
+Ryan Anderson,2,5,52,1,Turnaround Fadeaway Bank Jump Shot,16,103,127,True
+Ryan Anderson,2,5,12,1,Turnaround Fadeaway Bank Jump Shot,10,-73,72,True
+Ryan Anderson,2,8,16,1,Turnaround Fadeaway shot,10,102,-6,True
+Ryan Anderson,1,1,15,1,Turnaround Fadeaway shot,21,110,190,True
+Ryan Anderson,2,11,19,0,Turnaround Jump Shot,7,44,62,True
+Ryan Anderson,1,7,23,0,Turnaround Jump Shot,15,-81,130,True
+Ryan Anderson,2,4,33,0,Turnaround Jump Shot,4,-19,40,True
+Ryan Anderson,1,8,35,1,Turnaround Jump Shot,15,123,92,True

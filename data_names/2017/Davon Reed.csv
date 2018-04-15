@@ -1,0 +1,58 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Davon Reed,1,5,58,1,Driving Finger Roll Layup Shot,3,-2,33,True
+Davon Reed,2,5,57,1,Driving Floating Jump Shot,6,0,62,True
+Davon Reed,4,0,42,0,Driving Layup Shot,7,57,53,True
+Davon Reed,4,9,51,1,Driving Layup Shot,0,3,0,True
+Davon Reed,4,8,19,0,Driving Layup Shot,1,13,8,True
+Davon Reed,4,1,50,0,Driving Layup Shot,1,18,1,True
+Davon Reed,2,10,36,0,Driving Layup Shot,0,-9,1,True
+Davon Reed,4,3,19,0,Driving Layup Shot,1,13,-6,True
+Davon Reed,4,6,20,0,Driving Layup Shot,5,-19,52,True
+Davon Reed,4,6,24,1,Driving Layup Shot,1,-12,15,True
+Davon Reed,4,9,9,0,Driving Reverse Layup Shot,1,-10,3,True
+Davon Reed,4,11,23,1,Hook Shot,8,28,84,True
+Davon Reed,2,8,5,1,Jump Shot,19,-3,190,True
+Davon Reed,4,7,59,0,Jump Shot,20,-62,195,True
+Davon Reed,2,2,13,0,Jump Shot,25,-192,173,False
+Davon Reed,2,7,15,1,Jump Shot,26,-139,230,False
+Davon Reed,2,4,52,0,Jump Shot,19,24,195,True
+Davon Reed,2,7,1,0,Jump Shot,26,215,158,False
+Davon Reed,4,6,41,0,Jump Shot,27,-149,226,False
+Davon Reed,2,7,8,0,Jump Shot,24,241,26,False
+Davon Reed,1,2,0,0,Jump Shot,27,161,224,False
+Davon Reed,2,8,55,1,Jump Shot,28,32,281,False
+Davon Reed,4,5,14,1,Jump Shot,25,119,220,False
+Davon Reed,2,7,30,0,Jump Shot,24,-241,38,False
+Davon Reed,4,2,30,0,Jump Shot,22,35,218,True
+Davon Reed,3,9,12,0,Jump Shot,25,-29,253,False
+Davon Reed,2,0,35,0,Jump Shot,25,-57,247,False
+Davon Reed,2,10,10,0,Jump Shot,24,176,175,False
+Davon Reed,1,4,21,0,Jump Shot,26,-201,165,False
+Davon Reed,4,2,49,0,Jump Shot,26,-174,195,False
+Davon Reed,4,3,55,1,Jump Shot,16,-2,165,True
+Davon Reed,4,5,26,0,Jump Shot,19,-3,198,True
+Davon Reed,4,0,20,0,Jump Shot,25,147,208,False
+Davon Reed,3,3,46,1,Jump Shot,25,22,250,False
+Davon Reed,4,9,27,0,Jump Shot,26,115,240,False
+Davon Reed,1,4,24,0,Jump Shot,22,-145,170,True
+Davon Reed,1,10,10,0,Jump Shot,21,89,196,True
+Davon Reed,2,10,57,0,Jump Shot,27,-163,220,False
+Davon Reed,3,3,40,0,Jump Shot,26,185,189,False
+Davon Reed,4,6,36,0,Jump Shot,24,-236,72,False
+Davon Reed,2,8,19,1,Jump Shot,27,-29,275,False
+Davon Reed,4,10,13,0,Jump Shot,25,93,240,False
+Davon Reed,4,8,42,0,Jump Shot,24,-212,126,False
+Davon Reed,4,7,15,0,Jump Shot,24,-218,105,False
+Davon Reed,1,1,9,1,Jump Shot,24,16,247,False
+Davon Reed,2,3,31,0,Jump Shot,22,222,0,False
+Davon Reed,3,3,59,0,Jump Shot,25,-161,195,False
+Davon Reed,4,11,51,0,Jump Shot,26,-57,257,False
+Davon Reed,4,1,52,1,Jump Shot,24,-229,90,False
+Davon Reed,2,9,20,0,Layup Shot,1,-6,10,True
+Davon Reed,2,11,12,0,Pullup Jump shot,16,158,46,True
+Davon Reed,4,8,58,0,Pullup Jump shot,19,90,174,True
+Davon Reed,2,3,29,0,Pullup Jump shot,20,-44,203,True
+Davon Reed,4,6,5,0,Pullup Jump shot,21,127,173,True
+Davon Reed,4,3,49,0,Step Back Jump shot,25,-147,205,False
+Davon Reed,4,0,2,1,Tip Layup Shot,1,-6,18,True
+Davon Reed,2,5,2,0,Turnaround Jump Shot,14,-101,99,True

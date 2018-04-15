@@ -1,0 +1,406 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Aron Baynes,2,11,50,1,Alley Oop Dunk Shot,0,-1,-9,True
+Aron Baynes,4,2,28,1,Alley Oop Dunk Shot,1,-13,15,True
+Aron Baynes,1,4,39,1,Alley Oop Dunk Shot,1,2,17,True
+Aron Baynes,3,11,15,0,Alley Oop Dunk Shot,2,-14,18,True
+Aron Baynes,1,3,26,1,Alley Oop Dunk Shot,0,-3,9,True
+Aron Baynes,2,6,59,0,Alley Oop Dunk Shot,1,2,13,True
+Aron Baynes,1,4,23,0,Alley Oop Dunk Shot,1,-11,-9,True
+Aron Baynes,1,10,0,1,Alley Oop Dunk Shot,1,-14,-1,True
+Aron Baynes,3,10,50,0,Alley Oop Dunk Shot,1,-13,1,True
+Aron Baynes,3,6,52,1,Alley Oop Dunk Shot,0,-5,1,True
+Aron Baynes,1,0,8,1,Alley Oop Layup shot,1,-14,8,True
+Aron Baynes,4,4,20,1,Alley Oop Layup shot,0,-3,4,True
+Aron Baynes,1,7,34,0,Alley Oop Layup shot,3,30,6,True
+Aron Baynes,2,3,12,0,Alley Oop Layup shot,1,-4,13,True
+Aron Baynes,3,7,39,1,Alley Oop Layup shot,0,-7,4,True
+Aron Baynes,2,1,28,1,Alley Oop Layup shot,1,-8,8,True
+Aron Baynes,4,10,55,1,Alley Oop Layup shot,1,-5,16,True
+Aron Baynes,3,10,33,1,Alley Oop Layup shot,1,1,11,True
+Aron Baynes,1,11,48,1,Cutting Dunk Shot,0,-5,4,True
+Aron Baynes,1,9,22,1,Cutting Dunk Shot,1,1,10,True
+Aron Baynes,1,11,45,1,Cutting Dunk Shot,1,-7,-13,True
+Aron Baynes,4,6,25,1,Cutting Dunk Shot,1,0,19,True
+Aron Baynes,1,8,11,0,Cutting Dunk Shot,2,-13,17,True
+Aron Baynes,1,6,21,1,Cutting Dunk Shot,0,-5,1,True
+Aron Baynes,4,9,30,1,Cutting Dunk Shot,0,-3,-3,True
+Aron Baynes,1,3,12,0,Cutting Dunk Shot,1,-17,2,True
+Aron Baynes,3,9,56,1,Cutting Dunk Shot,1,6,19,True
+Aron Baynes,1,11,21,1,Cutting Dunk Shot,1,-8,-13,True
+Aron Baynes,1,8,40,1,Cutting Dunk Shot,1,-8,-9,True
+Aron Baynes,1,2,7,1,Cutting Dunk Shot,1,-3,18,True
+Aron Baynes,4,6,30,1,Cutting Dunk Shot,1,6,15,True
+Aron Baynes,1,3,50,1,Cutting Dunk Shot,0,-2,0,True
+Aron Baynes,1,4,21,1,Cutting Dunk Shot,0,-1,-4,True
+Aron Baynes,4,2,9,1,Cutting Dunk Shot,0,3,9,True
+Aron Baynes,1,7,29,1,Cutting Dunk Shot,0,4,4,True
+Aron Baynes,1,5,9,1,Cutting Dunk Shot,0,2,0,True
+Aron Baynes,1,6,15,1,Cutting Dunk Shot,0,7,5,True
+Aron Baynes,2,1,56,0,Cutting Dunk Shot,1,-1,12,True
+Aron Baynes,3,8,33,1,Cutting Dunk Shot,2,2,21,True
+Aron Baynes,1,4,6,1,Cutting Layup Shot,1,9,10,True
+Aron Baynes,1,4,35,1,Cutting Layup Shot,1,5,19,True
+Aron Baynes,2,5,28,1,Cutting Layup Shot,2,14,17,True
+Aron Baynes,3,5,49,1,Cutting Layup Shot,0,2,7,True
+Aron Baynes,3,5,36,1,Cutting Layup Shot,0,2,4,True
+Aron Baynes,1,7,25,1,Cutting Layup Shot,1,-5,12,True
+Aron Baynes,4,5,35,0,Cutting Layup Shot,5,-43,37,True
+Aron Baynes,1,7,1,0,Cutting Layup Shot,2,2,24,True
+Aron Baynes,1,11,30,0,Cutting Layup Shot,2,-21,12,True
+Aron Baynes,2,0,48,0,Cutting Layup Shot,0,0,8,True
+Aron Baynes,1,8,32,1,Cutting Layup Shot,0,6,-4,True
+Aron Baynes,2,2,3,1,Cutting Layup Shot,0,2,1,True
+Aron Baynes,1,5,28,1,Cutting Layup Shot,3,37,7,True
+Aron Baynes,3,9,1,1,Cutting Layup Shot,2,-20,8,True
+Aron Baynes,4,10,33,1,Cutting Layup Shot,1,-6,17,True
+Aron Baynes,4,2,27,1,Cutting Layup Shot,1,0,13,True
+Aron Baynes,3,6,10,0,Cutting Layup Shot,2,20,14,True
+Aron Baynes,1,7,46,1,Cutting Layup Shot,1,14,7,True
+Aron Baynes,4,4,8,0,Driving Dunk Shot,1,3,17,True
+Aron Baynes,2,0,36,0,Driving Dunk Shot,1,0,13,True
+Aron Baynes,1,8,17,0,Driving Floating Jump Shot,10,-5,100,True
+Aron Baynes,3,2,19,0,Driving Floating Jump Shot,8,51,66,True
+Aron Baynes,1,11,26,1,Driving Hook Shot,1,-2,13,True
+Aron Baynes,1,9,58,0,Driving Hook Shot,10,-47,89,True
+Aron Baynes,4,9,58,1,Driving Hook Shot,5,-14,58,True
+Aron Baynes,2,0,25,1,Driving Hook Shot,8,-83,12,True
+Aron Baynes,4,1,33,0,Driving Hook Shot,5,-13,56,True
+Aron Baynes,1,7,20,0,Driving Hook Shot,10,66,83,True
+Aron Baynes,1,8,48,1,Driving Hook Shot,0,2,0,True
+Aron Baynes,3,8,51,1,Driving Hook Shot,6,-30,52,True
+Aron Baynes,1,5,16,1,Driving Reverse Layup Shot,1,-11,2,True
+Aron Baynes,1,11,3,0,Dunk Shot,0,3,-6,True
+Aron Baynes,3,5,35,0,Dunk Shot,1,16,8,True
+Aron Baynes,4,1,40,0,Dunk Shot,1,14,-4,True
+Aron Baynes,4,1,39,1,Dunk Shot,0,2,5,True
+Aron Baynes,1,10,4,1,Dunk Shot,1,13,6,True
+Aron Baynes,2,9,14,0,Dunk Shot,2,18,11,True
+Aron Baynes,4,11,33,1,Dunk Shot,1,14,8,True
+Aron Baynes,1,8,32,1,Dunk Shot,0,-5,-6,True
+Aron Baynes,1,7,47,1,Dunk Shot,0,7,3,True
+Aron Baynes,2,2,16,0,Dunk Shot,1,2,12,True
+Aron Baynes,1,0,21,1,Hook Bank Shot,4,-25,32,True
+Aron Baynes,1,1,21,0,Hook Bank Shot,1,16,1,True
+Aron Baynes,3,8,39,0,Hook Shot,5,12,51,True
+Aron Baynes,1,11,17,0,Hook Shot,3,5,36,True
+Aron Baynes,1,11,17,0,Hook Shot,10,-3,102,True
+Aron Baynes,4,11,42,0,Hook Shot,0,-9,2,True
+Aron Baynes,4,2,54,0,Hook Shot,3,-27,27,True
+Aron Baynes,3,7,55,0,Hook Shot,9,62,73,True
+Aron Baynes,1,11,27,0,Hook Shot,7,-73,2,True
+Aron Baynes,1,0,41,0,Hook Shot,1,-6,8,True
+Aron Baynes,3,10,27,0,Hook Shot,4,29,31,True
+Aron Baynes,3,1,58,1,Hook Shot,6,37,49,True
+Aron Baynes,1,3,29,1,Hook Shot,6,-46,39,True
+Aron Baynes,3,11,12,1,Hook Shot,7,70,18,True
+Aron Baynes,1,8,57,0,Hook Shot,10,-88,53,True
+Aron Baynes,4,3,18,1,Hook Shot,11,3,113,True
+Aron Baynes,1,11,45,0,Hook Shot,6,-16,64,True
+Aron Baynes,1,8,43,1,Hook Shot,9,-95,21,True
+Aron Baynes,2,2,30,0,Hook Shot,4,-44,18,True
+Aron Baynes,1,11,3,0,Hook Shot,4,13,48,True
+Aron Baynes,3,8,0,1,Hook Shot,7,7,75,True
+Aron Baynes,1,4,49,0,Hook Shot,4,-28,34,True
+Aron Baynes,3,7,25,1,Hook Shot,5,20,46,True
+Aron Baynes,1,11,1,0,Hook Shot,10,17,99,True
+Aron Baynes,3,4,1,1,Hook Shot,6,36,58,True
+Aron Baynes,3,6,32,0,Hook Shot,2,-19,22,True
+Aron Baynes,2,4,26,0,Hook Shot,5,19,52,True
+Aron Baynes,3,4,22,1,Hook Shot,10,-72,78,True
+Aron Baynes,2,10,13,0,Hook Shot,5,26,47,True
+Aron Baynes,2,5,49,0,Hook Shot,10,-100,21,True
+Aron Baynes,3,9,50,1,Hook Shot,14,-89,116,True
+Aron Baynes,1,8,9,0,Hook Shot,8,-80,34,True
+Aron Baynes,2,2,59,1,Hook Shot,2,-17,24,True
+Aron Baynes,2,1,54,0,Hook Shot,3,-6,34,True
+Aron Baynes,3,0,36,0,Hook Shot,12,-43,117,True
+Aron Baynes,1,11,34,0,Hook Shot,5,54,24,True
+Aron Baynes,3,10,35,0,Hook Shot,4,14,46,True
+Aron Baynes,3,11,45,0,Hook Shot,3,-6,34,True
+Aron Baynes,3,10,12,0,Hook Shot,9,90,-1,True
+Aron Baynes,3,11,20,1,Hook Shot,5,-56,8,True
+Aron Baynes,1,7,27,0,Hook Shot,4,11,42,True
+Aron Baynes,1,3,6,0,Hook Shot,2,18,11,True
+Aron Baynes,4,4,53,1,Jump Bank Shot,8,-79,34,True
+Aron Baynes,4,2,24,1,Jump Bank Shot,2,1,21,True
+Aron Baynes,1,10,42,1,Jump Bank Shot,11,90,65,True
+Aron Baynes,2,11,14,0,Jump Bank Shot,11,105,46,True
+Aron Baynes,1,10,48,0,Jump Bank Shot,13,127,53,True
+Aron Baynes,1,0,58,1,Jump Bank Shot,9,79,50,True
+Aron Baynes,2,1,21,1,Jump Shot,16,69,146,True
+Aron Baynes,2,4,14,0,Jump Shot,26,2,264,False
+Aron Baynes,1,5,25,0,Jump Shot,19,63,187,True
+Aron Baynes,1,3,45,1,Jump Shot,14,119,75,True
+Aron Baynes,3,8,8,0,Jump Shot,14,0,146,True
+Aron Baynes,3,10,12,1,Jump Shot,19,-23,191,True
+Aron Baynes,1,11,47,0,Jump Shot,15,43,152,True
+Aron Baynes,1,11,13,0,Jump Shot,16,-58,151,True
+Aron Baynes,2,1,27,0,Jump Shot,16,-5,164,True
+Aron Baynes,2,5,41,1,Jump Shot,15,8,159,True
+Aron Baynes,1,7,31,0,Jump Shot,14,67,127,True
+Aron Baynes,3,7,26,0,Jump Shot,26,28,261,False
+Aron Baynes,1,10,48,1,Jump Shot,25,233,104,False
+Aron Baynes,1,8,26,0,Jump Shot,22,220,63,False
+Aron Baynes,2,4,2,0,Jump Shot,26,145,222,False
+Aron Baynes,4,4,50,0,Jump Shot,16,165,13,True
+Aron Baynes,1,8,8,0,Jump Shot,24,54,237,False
+Aron Baynes,1,4,20,0,Jump Shot,17,174,-16,True
+Aron Baynes,3,10,1,0,Jump Shot,25,235,93,False
+Aron Baynes,1,5,35,1,Jump Shot,22,222,44,False
+Aron Baynes,1,9,13,1,Jump Shot,17,-13,174,True
+Aron Baynes,1,8,44,1,Jump Shot,13,24,132,True
+Aron Baynes,1,4,31,1,Jump Shot,24,136,201,False
+Aron Baynes,2,2,38,0,Jump Shot,14,-144,-6,True
+Aron Baynes,3,9,25,1,Jump Shot,17,25,173,True
+Aron Baynes,4,10,28,0,Jump Shot,10,39,101,True
+Aron Baynes,1,4,21,1,Jump Shot,14,-5,146,True
+Aron Baynes,2,4,52,1,Jump Shot,13,21,131,True
+Aron Baynes,2,2,13,1,Jump Shot,17,49,173,True
+Aron Baynes,3,4,47,1,Jump Shot,11,24,117,True
+Aron Baynes,2,9,41,0,Jump Shot,11,96,64,True
+Aron Baynes,3,8,23,1,Jump Shot,15,2,152,True
+Aron Baynes,3,7,48,0,Jump Shot,20,28,199,True
+Aron Baynes,3,5,34,0,Jump Shot,23,236,21,False
+Aron Baynes,1,11,19,1,Jump Shot,22,18,226,True
+Aron Baynes,1,10,22,0,Jump Shot,12,-67,111,True
+Aron Baynes,1,9,17,0,Jump Shot,12,122,-5,True
+Aron Baynes,4,9,1,0,Jump Shot,16,11,167,True
+Aron Baynes,3,10,59,0,Jump Shot,24,234,65,False
+Aron Baynes,1,7,45,0,Jump Shot,12,33,122,True
+Aron Baynes,1,9,36,1,Jump Shot,16,-62,158,True
+Aron Baynes,2,3,13,1,Jump Shot,17,-95,141,True
+Aron Baynes,2,1,19,1,Jump Shot,16,-16,165,True
+Aron Baynes,3,11,21,1,Jump Shot,17,84,155,True
+Aron Baynes,1,8,49,1,Jump Shot,11,-6,113,True
+Aron Baynes,1,8,4,1,Jump Shot,12,125,5,True
+Aron Baynes,3,5,27,1,Jump Shot,15,71,136,True
+Aron Baynes,1,8,27,0,Jump Shot,19,-5,199,True
+Aron Baynes,3,1,48,1,Jump Shot,14,145,8,True
+Aron Baynes,4,8,0,0,Jump Shot,15,-156,19,True
+Aron Baynes,1,5,27,0,Jump Shot,23,-229,-26,False
+Aron Baynes,2,5,8,0,Jump Shot,18,-9,186,True
+Aron Baynes,3,8,9,0,Jump Shot,20,-3,203,True
+Aron Baynes,2,6,37,1,Jump Shot,13,-23,138,True
+Aron Baynes,3,11,20,1,Jump Shot,10,-35,94,True
+Aron Baynes,4,2,40,1,Jump Shot,18,8,188,True
+Aron Baynes,3,8,31,1,Jump Shot,12,128,13,True
+Aron Baynes,3,5,35,1,Jump Shot,13,74,118,True
+Aron Baynes,1,9,28,0,Jump Shot,17,-68,164,True
+Aron Baynes,1,11,32,0,Jump Shot,19,7,195,True
+Aron Baynes,1,9,3,1,Jump Shot,18,-184,38,True
+Aron Baynes,3,10,32,1,Jump Shot,1,3,14,True
+Aron Baynes,1,6,50,1,Jump Shot,16,-27,163,True
+Aron Baynes,3,8,39,1,Jump Shot,13,-14,137,True
+Aron Baynes,3,6,0,0,Jump Shot,13,-134,-2,True
+Aron Baynes,1,11,18,0,Jump Shot,14,140,5,True
+Aron Baynes,3,7,58,0,Jump Shot,12,126,17,True
+Aron Baynes,1,2,36,1,Jump Shot,19,-65,188,True
+Aron Baynes,4,1,1,0,Jump Shot,17,102,141,True
+Aron Baynes,1,7,53,1,Jump Shot,12,-114,43,True
+Aron Baynes,3,8,22,0,Jump Shot,24,239,37,False
+Aron Baynes,3,10,29,0,Jump Shot,13,22,130,True
+Aron Baynes,3,9,48,0,Jump Shot,23,-235,8,False
+Aron Baynes,3,1,35,0,Jump Shot,16,-62,148,True
+Aron Baynes,3,11,46,0,Jump Shot,10,-103,-4,True
+Aron Baynes,1,6,57,1,Jump Shot,14,-116,90,True
+Aron Baynes,3,4,24,0,Jump Shot,8,79,26,True
+Aron Baynes,2,10,39,0,Jump Shot,20,-202,20,True
+Aron Baynes,4,6,35,0,Jump Shot,18,49,179,True
+Aron Baynes,1,10,17,0,Jump Shot,13,131,17,True
+Aron Baynes,4,11,21,1,Jump Shot,18,-63,178,True
+Aron Baynes,2,11,2,1,Jump Shot,7,44,61,True
+Aron Baynes,1,10,30,1,Jump Shot,18,-5,183,True
+Aron Baynes,3,5,22,1,Jump Shot,8,-4,84,True
+Aron Baynes,3,6,29,1,Jump Shot,18,9,188,True
+Aron Baynes,1,11,46,0,Jump Shot,11,-32,106,True
+Aron Baynes,3,3,20,0,Jump Shot,17,-85,155,True
+Aron Baynes,3,8,15,0,Jump Shot,7,2,72,True
+Aron Baynes,3,6,57,0,Jump Shot,22,228,11,False
+Aron Baynes,3,6,37,0,Jump Shot,19,63,188,True
+Aron Baynes,2,4,38,0,Jump Shot,21,-29,215,True
+Aron Baynes,1,5,7,0,Jump Shot,19,-195,12,True
+Aron Baynes,1,10,9,0,Jump Shot,22,221,-5,False
+Aron Baynes,1,9,5,1,Jump Shot,14,147,-16,True
+Aron Baynes,1,11,1,1,Jump Shot,13,-139,-15,True
+Aron Baynes,1,9,24,0,Jump Shot,18,109,150,True
+Aron Baynes,3,3,24,1,Jump Shot,14,-4,148,True
+Aron Baynes,2,2,53,1,Jump Shot,14,108,100,True
+Aron Baynes,1,8,52,1,Jump Shot,12,20,127,True
+Aron Baynes,3,9,51,0,Jump Shot,8,-14,88,True
+Aron Baynes,3,10,59,1,Jump Shot,21,-88,200,True
+Aron Baynes,4,2,22,0,Jump Shot,13,134,-39,True
+Aron Baynes,3,4,39,1,Jump Shot,20,-4,200,True
+Aron Baynes,4,4,33,0,Jump Shot,23,234,15,False
+Aron Baynes,3,0,30,0,Jump Shot,9,-97,0,True
+Aron Baynes,3,7,29,0,Jump Shot,21,82,195,True
+Aron Baynes,1,9,9,1,Jump Shot,19,-43,194,True
+Aron Baynes,3,7,38,0,Jump Shot,16,60,152,True
+Aron Baynes,1,6,4,0,Jump Shot,12,6,125,True
+Aron Baynes,3,1,38,0,Jump Shot,18,-1,180,True
+Aron Baynes,1,6,32,1,Jump Shot,12,125,-2,True
+Aron Baynes,1,10,16,0,Jump Shot,20,98,177,True
+Aron Baynes,1,0,1,0,Jump Shot,31,-121,295,False
+Aron Baynes,2,7,44,1,Jump Shot,16,69,151,True
+Aron Baynes,1,6,34,1,Jump Shot,17,-75,162,True
+Aron Baynes,1,8,8,0,Jump Shot,14,-69,125,True
+Aron Baynes,4,5,37,0,Jump Shot,22,-226,5,False
+Aron Baynes,3,11,4,0,Jump Shot,19,-2,195,True
+Aron Baynes,3,10,23,0,Jump Shot,17,-22,178,True
+Aron Baynes,4,4,17,0,Jump Shot,17,-49,171,True
+Aron Baynes,1,8,46,1,Jump Shot,15,-19,157,True
+Aron Baynes,1,6,9,0,Jump Shot,18,-33,183,True
+Aron Baynes,2,10,56,1,Jump Shot,18,166,82,True
+Aron Baynes,1,6,27,0,Jump Shot,22,229,19,False
+Aron Baynes,2,8,13,0,Jump Shot,12,9,125,True
+Aron Baynes,2,10,18,0,Jump Shot,18,54,180,True
+Aron Baynes,1,8,53,0,Jump Shot,18,-29,184,True
+Aron Baynes,4,11,19,1,Jump Shot,18,38,179,True
+Aron Baynes,4,8,9,1,Jump Shot,17,33,175,True
+Aron Baynes,3,0,6,0,Jump Shot,7,74,4,True
+Aron Baynes,2,2,47,0,Jump Shot,10,-60,85,True
+Aron Baynes,3,3,10,0,Jump Shot,11,90,79,True
+Aron Baynes,1,6,51,1,Jump Shot,13,-3,135,True
+Aron Baynes,3,8,34,0,Jump Shot,11,112,18,True
+Aron Baynes,1,0,51,0,Jump Shot,18,-27,187,True
+Aron Baynes,1,10,7,1,Jump Shot,16,92,131,True
+Aron Baynes,3,4,25,1,Jump Shot,14,0,146,True
+Aron Baynes,2,2,20,1,Jump Shot,13,-129,20,True
+Aron Baynes,3,9,24,0,Jump Shot,12,124,-6,True
+Aron Baynes,2,1,8,1,Jump Shot,16,164,-1,True
+Aron Baynes,1,6,11,1,Jump Shot,11,-118,-11,True
+Aron Baynes,4,11,7,0,Jump Shot,19,11,195,True
+Aron Baynes,3,2,9,1,Jump Shot,18,-88,162,True
+Aron Baynes,1,10,5,0,Jump Shot,13,-93,95,True
+Aron Baynes,3,11,20,0,Jump Shot,17,-28,173,True
+Aron Baynes,1,9,53,1,Jump Shot,19,22,193,True
+Aron Baynes,4,9,13,1,Jump Shot,20,49,197,True
+Aron Baynes,2,0,44,1,Jump Shot,9,-28,90,True
+Aron Baynes,3,8,38,1,Jump Shot,15,-45,151,True
+Aron Baynes,3,11,15,0,Layup Shot,1,15,7,True
+Aron Baynes,1,6,12,0,Layup Shot,1,-17,6,True
+Aron Baynes,2,4,47,0,Layup Shot,1,4,13,True
+Aron Baynes,2,4,14,0,Layup Shot,2,-22,16,True
+Aron Baynes,3,7,11,0,Layup Shot,2,16,24,True
+Aron Baynes,2,9,52,0,Layup Shot,1,-3,19,True
+Aron Baynes,3,11,8,1,Layup Shot,0,2,-1,True
+Aron Baynes,3,0,7,0,Layup Shot,3,-13,32,True
+Aron Baynes,2,4,14,1,Layup Shot,1,13,10,True
+Aron Baynes,3,11,26,0,Layup Shot,3,35,15,True
+Aron Baynes,2,0,23,0,Layup Shot,4,39,27,True
+Aron Baynes,1,7,59,0,Layup Shot,1,1,14,True
+Aron Baynes,1,5,4,0,Layup Shot,1,-11,16,True
+Aron Baynes,1,8,21,0,Layup Shot,1,-2,19,True
+Aron Baynes,1,11,44,0,Layup Shot,7,63,47,True
+Aron Baynes,1,11,14,0,Layup Shot,3,-13,35,True
+Aron Baynes,3,7,43,0,Layup Shot,1,11,6,True
+Aron Baynes,1,10,27,0,Layup Shot,1,-13,15,True
+Aron Baynes,3,4,17,1,Layup Shot,0,5,-1,True
+Aron Baynes,1,10,40,1,Pullup Jump shot,18,-3,184,True
+Aron Baynes,1,2,16,0,Pullup Jump shot,16,-84,139,True
+Aron Baynes,2,1,1,0,Pullup Jump shot,9,96,17,True
+Aron Baynes,1,3,57,1,Putback Dunk Shot,0,0,-6,True
+Aron Baynes,4,10,23,1,Putback Dunk Shot,0,0,-6,True
+Aron Baynes,3,10,25,1,Putback Dunk Shot,0,-5,4,True
+Aron Baynes,3,8,58,1,Putback Dunk Shot,0,-3,5,True
+Aron Baynes,2,5,27,1,Putback Dunk Shot,1,-9,10,True
+Aron Baynes,1,6,15,1,Putback Layup Shot,1,-8,14,True
+Aron Baynes,3,7,41,1,Putback Layup Shot,1,-12,10,True
+Aron Baynes,3,9,30,1,Putback Layup Shot,0,-2,6,True
+Aron Baynes,4,11,15,1,Putback Layup Shot,1,11,9,True
+Aron Baynes,1,9,45,1,Putback Layup Shot,0,3,-2,True
+Aron Baynes,2,0,45,1,Putback Layup Shot,2,-7,20,True
+Aron Baynes,1,4,46,0,Putback Layup Shot,0,-2,0,True
+Aron Baynes,1,8,21,1,Putback Layup Shot,1,-11,7,True
+Aron Baynes,1,1,23,0,Putback Layup Shot,2,-2,21,True
+Aron Baynes,3,11,38,1,Putback Layup Shot,0,0,-6,True
+Aron Baynes,3,3,35,1,Putback Layup Shot,1,0,12,True
+Aron Baynes,1,7,2,1,Putback Layup Shot,0,0,-6,True
+Aron Baynes,2,8,44,1,Putback Layup Shot,1,11,1,True
+Aron Baynes,1,3,45,0,Reverse Layup Shot,2,-12,17,True
+Aron Baynes,3,6,28,1,Reverse Layup Shot,2,-8,23,True
+Aron Baynes,2,5,24,1,Reverse Layup Shot,1,11,7,True
+Aron Baynes,2,7,15,1,Reverse Layup Shot,1,11,4,True
+Aron Baynes,1,7,25,1,Reverse Layup Shot,3,-29,8,True
+Aron Baynes,1,7,46,1,Reverse Layup Shot,1,13,11,True
+Aron Baynes,3,6,24,0,Reverse Layup Shot,2,-21,5,True
+Aron Baynes,2,0,49,0,Reverse Layup Shot,2,9,25,True
+Aron Baynes,3,11,25,0,Reverse Layup Shot,2,-25,-1,True
+Aron Baynes,4,3,58,1,Reverse Layup Shot,1,12,1,True
+Aron Baynes,3,6,48,1,Tip Dunk Shot,0,0,-6,True
+Aron Baynes,3,9,25,1,Tip Dunk Shot,0,0,-6,True
+Aron Baynes,1,10,34,1,Tip Dunk Shot,1,-4,17,True
+Aron Baynes,2,0,31,1,Tip Dunk Shot,0,1,-1,True
+Aron Baynes,4,0,16,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,3,4,36,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,2,4,53,0,Tip Layup Shot,1,11,5,True
+Aron Baynes,4,6,9,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,1,8,7,1,Tip Layup Shot,0,0,-6,True
+Aron Baynes,1,10,20,1,Tip Layup Shot,0,0,-6,True
+Aron Baynes,4,0,18,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,1,11,2,0,Tip Layup Shot,1,-1,17,True
+Aron Baynes,1,4,17,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,2,1,9,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,1,10,59,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,3,9,17,1,Tip Layup Shot,0,0,-6,True
+Aron Baynes,1,3,49,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,3,11,44,1,Tip Layup Shot,0,0,-6,True
+Aron Baynes,2,1,1,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,2,2,52,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,1,10,45,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,3,0,0,1,Tip Layup Shot,0,0,-6,True
+Aron Baynes,3,9,26,1,Tip Layup Shot,0,0,-6,True
+Aron Baynes,1,5,56,1,Tip Layup Shot,0,0,-6,True
+Aron Baynes,3,1,14,0,Tip Layup Shot,1,3,18,True
+Aron Baynes,1,5,59,0,Tip Layup Shot,3,-1,38,True
+Aron Baynes,3,6,46,1,Tip Layup Shot,0,0,-6,True
+Aron Baynes,3,6,21,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,2,6,57,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,3,9,46,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,2,2,51,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,3,11,18,1,Tip Layup Shot,2,11,22,True
+Aron Baynes,1,10,17,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,3,10,17,1,Tip Layup Shot,0,0,-6,True
+Aron Baynes,2,0,23,1,Tip Layup Shot,0,0,-6,True
+Aron Baynes,1,6,4,1,Tip Layup Shot,0,0,-6,True
+Aron Baynes,3,8,28,0,Tip Layup Shot,2,22,1,True
+Aron Baynes,2,7,13,1,Tip Layup Shot,0,-2,4,True
+Aron Baynes,3,11,41,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,2,1,13,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,2,0,41,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,1,1,38,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,1,11,15,0,Tip Layup Shot,0,0,-6,True
+Aron Baynes,4,4,53,1,Tip Layup Shot,0,0,-6,True
+Aron Baynes,3,7,59,0,Turnaround Hook Shot,8,-59,59,True
+Aron Baynes,1,4,39,0,Turnaround Hook Shot,5,-57,16,True
+Aron Baynes,1,6,27,0,Turnaround Hook Shot,4,-36,22,True
+Aron Baynes,3,11,38,0,Turnaround Hook Shot,6,35,52,True
+Aron Baynes,3,7,6,0,Turnaround Hook Shot,10,-74,70,True
+Aron Baynes,1,8,26,0,Turnaround Hook Shot,8,-28,75,True
+Aron Baynes,4,3,35,1,Turnaround Hook Shot,7,57,50,True
+Aron Baynes,1,6,11,0,Turnaround Hook Shot,4,-18,41,True
+Aron Baynes,3,5,24,1,Turnaround Hook Shot,2,5,20,True
+Aron Baynes,2,0,25,1,Turnaround Hook Shot,9,-17,95,True
+Aron Baynes,1,9,31,0,Turnaround Hook Shot,2,14,15,True
+Aron Baynes,2,10,2,1,Turnaround Hook Shot,10,-101,38,True
+Aron Baynes,3,7,17,0,Turnaround Hook Shot,6,-58,22,True
+Aron Baynes,3,9,9,0,Turnaround Hook Shot,6,-60,32,True
+Aron Baynes,2,2,4,1,Turnaround Hook Shot,8,0,80,True
+Aron Baynes,1,7,58,1,Turnaround Hook Shot,5,3,53,True
+Aron Baynes,1,1,32,0,Turnaround Hook Shot,8,-85,27,True
+Aron Baynes,1,7,33,1,Turnaround Hook Shot,4,-35,26,True
+Aron Baynes,3,2,46,1,Turnaround Hook Shot,2,2,21,True
+Aron Baynes,1,8,51,0,Turnaround Hook Shot,5,-58,8,True
+Aron Baynes,1,3,22,0,Turnaround Hook Shot,7,-41,62,True
+Aron Baynes,1,5,24,1,Turnaround Hook Shot,3,27,23,True
+Aron Baynes,3,10,43,1,Turnaround Hook Shot,7,-73,22,True
+Aron Baynes,3,8,50,0,Turnaround Hook Shot,6,-22,56,True
+Aron Baynes,2,8,11,0,Turnaround Hook Shot,10,90,54,True
+Aron Baynes,4,11,43,0,Turnaround Hook Shot,6,-53,34,True
+Aron Baynes,2,11,13,1,Turnaround Hook Shot,7,-14,71,True
+Aron Baynes,3,1,10,0,Turnaround Hook Shot,5,-56,16,True
+Aron Baynes,2,4,30,1,Turnaround Jump Shot,18,73,165,True
+Aron Baynes,3,6,11,0,Turnaround Jump Shot,16,74,143,True
+Aron Baynes,1,4,13,0,Turnaround Jump Shot,16,-99,138,True
+Aron Baynes,2,2,42,0,Turnaround Jump Shot,16,3,169,True
+Aron Baynes,4,3,5,0,Turnaround Jump Shot,13,-103,94,True
+Aron Baynes,3,10,9,1,Turnaround Jump Shot,15,-5,153,True

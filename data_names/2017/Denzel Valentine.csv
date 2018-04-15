@@ -1,0 +1,643 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Denzel Valentine,4,0,19,1,Cutting Layup Shot,2,22,6,True
+Denzel Valentine,3,7,45,1,Cutting Layup Shot,0,3,9,True
+Denzel Valentine,3,10,26,1,Cutting Layup Shot,2,-20,5,True
+Denzel Valentine,1,11,41,1,Cutting Layup Shot,1,18,8,True
+Denzel Valentine,3,4,17,1,Driving Dunk Shot,0,-3,0,True
+Denzel Valentine,2,6,38,1,Driving Finger Roll Layup Shot,0,7,6,True
+Denzel Valentine,2,1,49,0,Driving Finger Roll Layup Shot,3,1,34,True
+Denzel Valentine,1,11,44,1,Driving Finger Roll Layup Shot,3,-6,31,True
+Denzel Valentine,2,8,36,1,Driving Finger Roll Layup Shot,2,16,15,True
+Denzel Valentine,2,9,38,1,Driving Floating Bank Jump Shot,12,4,126,True
+Denzel Valentine,4,10,17,0,Driving Floating Bank Jump Shot,9,-17,94,True
+Denzel Valentine,4,3,4,1,Driving Floating Bank Jump Shot,8,67,51,True
+Denzel Valentine,4,2,38,1,Driving Floating Jump Shot,6,3,63,True
+Denzel Valentine,2,6,59,1,Driving Floating Jump Shot,13,-88,102,True
+Denzel Valentine,2,9,9,1,Driving Floating Jump Shot,13,132,10,True
+Denzel Valentine,1,11,2,1,Driving Floating Jump Shot,5,3,53,True
+Denzel Valentine,2,8,44,0,Driving Floating Jump Shot,13,72,117,True
+Denzel Valentine,1,10,19,0,Driving Floating Jump Shot,2,5,25,True
+Denzel Valentine,1,1,42,0,Driving Floating Jump Shot,7,-16,75,True
+Denzel Valentine,2,2,22,1,Driving Floating Jump Shot,13,67,120,True
+Denzel Valentine,4,9,5,0,Driving Floating Jump Shot,13,18,132,True
+Denzel Valentine,3,4,48,1,Driving Floating Jump Shot,13,-62,115,True
+Denzel Valentine,4,6,57,0,Driving Floating Jump Shot,9,2,96,True
+Denzel Valentine,3,0,27,0,Driving Floating Jump Shot,12,-5,122,True
+Denzel Valentine,1,1,4,0,Driving Floating Jump Shot,3,13,30,True
+Denzel Valentine,2,10,22,0,Driving Floating Jump Shot,11,32,114,True
+Denzel Valentine,3,0,53,1,Driving Floating Jump Shot,5,30,48,True
+Denzel Valentine,4,1,44,0,Driving Floating Jump Shot,9,74,57,True
+Denzel Valentine,2,1,19,1,Driving Floating Jump Shot,3,2,38,True
+Denzel Valentine,1,2,42,1,Driving Floating Jump Shot,10,35,101,True
+Denzel Valentine,1,7,36,0,Driving Floating Jump Shot,6,7,66,True
+Denzel Valentine,4,2,37,1,Driving Floating Jump Shot,8,45,74,True
+Denzel Valentine,1,2,55,1,Driving Floating Jump Shot,8,88,8,True
+Denzel Valentine,1,3,15,0,Driving Floating Jump Shot,6,22,66,True
+Denzel Valentine,3,8,33,0,Driving Floating Jump Shot,7,-16,70,True
+Denzel Valentine,3,7,58,1,Driving Floating Jump Shot,11,-19,118,True
+Denzel Valentine,4,2,29,0,Driving Floating Jump Shot,13,-40,133,True
+Denzel Valentine,1,5,6,0,Driving Floating Jump Shot,8,-13,79,True
+Denzel Valentine,1,2,35,0,Driving Floating Jump Shot,3,22,27,True
+Denzel Valentine,2,11,46,0,Driving Floating Jump Shot,5,22,51,True
+Denzel Valentine,2,5,9,0,Driving Floating Jump Shot,6,43,52,True
+Denzel Valentine,1,11,28,0,Driving Floating Jump Shot,8,23,77,True
+Denzel Valentine,4,3,48,0,Driving Floating Jump Shot,7,-5,75,True
+Denzel Valentine,4,9,4,1,Driving Layup Shot,0,3,6,True
+Denzel Valentine,1,4,35,1,Driving Layup Shot,0,3,-2,True
+Denzel Valentine,3,2,29,0,Driving Layup Shot,2,-20,3,True
+Denzel Valentine,4,0,46,1,Driving Layup Shot,0,0,3,True
+Denzel Valentine,4,0,14,1,Driving Layup Shot,0,0,6,True
+Denzel Valentine,4,8,2,1,Driving Layup Shot,1,-7,11,True
+Denzel Valentine,2,9,22,0,Driving Layup Shot,1,13,3,True
+Denzel Valentine,4,2,31,1,Driving Layup Shot,11,55,106,True
+Denzel Valentine,3,5,42,0,Driving Layup Shot,2,-27,5,True
+Denzel Valentine,3,3,28,1,Driving Layup Shot,6,-43,54,True
+Denzel Valentine,3,5,57,0,Driving Layup Shot,0,0,8,True
+Denzel Valentine,2,0,46,1,Driving Layup Shot,2,22,-4,True
+Denzel Valentine,2,10,54,0,Driving Layup Shot,2,25,15,True
+Denzel Valentine,1,5,55,1,Driving Layup Shot,0,3,0,True
+Denzel Valentine,4,11,19,0,Driving Layup Shot,2,18,11,True
+Denzel Valentine,3,10,55,1,Driving Layup Shot,1,-18,5,True
+Denzel Valentine,1,0,28,0,Driving Layup Shot,4,40,21,True
+Denzel Valentine,4,2,49,1,Driving Layup Shot,2,20,3,True
+Denzel Valentine,1,0,33,1,Driving Layup Shot,1,12,3,True
+Denzel Valentine,4,9,3,0,Driving Layup Shot,3,-16,26,True
+Denzel Valentine,3,8,18,1,Driving Layup Shot,1,9,13,True
+Denzel Valentine,2,3,59,1,Driving Layup Shot,2,23,11,True
+Denzel Valentine,1,4,22,0,Driving Layup Shot,3,32,18,True
+Denzel Valentine,4,0,13,1,Driving Layup Shot,0,3,5,True
+Denzel Valentine,4,4,5,1,Driving Layup Shot,3,24,24,True
+Denzel Valentine,1,9,49,1,Driving Layup Shot,2,-2,22,True
+Denzel Valentine,1,6,12,1,Driving Layup Shot,1,-11,8,True
+Denzel Valentine,2,10,14,0,Driving Layup Shot,1,-14,11,True
+Denzel Valentine,2,10,36,1,Driving Layup Shot,2,-28,1,True
+Denzel Valentine,2,5,47,0,Driving Reverse Layup Shot,1,17,9,True
+Denzel Valentine,1,8,0,1,Driving Reverse Layup Shot,1,-14,0,True
+Denzel Valentine,1,6,4,1,Driving Reverse Layup Shot,1,-18,-4,True
+Denzel Valentine,1,10,11,0,Driving Reverse Layup Shot,1,9,17,True
+Denzel Valentine,4,9,19,1,Dunk Shot,0,-2,5,True
+Denzel Valentine,3,7,14,0,Dunk Shot,1,-6,13,True
+Denzel Valentine,2,6,37,0,Fadeaway Jump Shot,14,93,113,True
+Denzel Valentine,2,1,11,1,Fadeaway Jump Shot,18,93,164,True
+Denzel Valentine,2,10,50,0,Fadeaway Jump Shot,14,121,82,True
+Denzel Valentine,4,10,47,0,Fadeaway Jump Shot,7,-18,70,True
+Denzel Valentine,4,2,33,1,Fadeaway Jump Shot,13,129,20,True
+Denzel Valentine,1,4,7,0,Fadeaway Jump Shot,10,104,34,True
+Denzel Valentine,3,9,12,0,Fadeaway Jump Shot,15,-6,154,True
+Denzel Valentine,1,10,43,0,Fadeaway Jump Shot,12,-103,78,True
+Denzel Valentine,1,8,10,0,Fadeaway Jump Shot,18,127,141,True
+Denzel Valentine,3,8,37,0,Fadeaway Jump Shot,13,130,39,True
+Denzel Valentine,3,9,19,1,Fadeaway Jump Shot,11,28,116,True
+Denzel Valentine,4,11,32,1,Finger Roll Layup Shot,2,14,19,True
+Denzel Valentine,3,0,7,1,Floating Jump shot,11,40,103,True
+Denzel Valentine,1,3,33,0,Floating Jump shot,14,4,149,True
+Denzel Valentine,4,7,46,0,Floating Jump shot,17,-11,173,True
+Denzel Valentine,2,6,8,1,Floating Jump shot,9,-22,91,True
+Denzel Valentine,3,6,5,0,Floating Jump shot,7,-12,76,True
+Denzel Valentine,1,1,25,0,Floating Jump shot,12,-19,127,True
+Denzel Valentine,3,3,24,1,Floating Jump shot,7,6,74,True
+Denzel Valentine,2,8,29,1,Floating Jump shot,10,-17,101,True
+Denzel Valentine,4,6,59,0,Floating Jump shot,13,-24,137,True
+Denzel Valentine,3,1,54,1,Floating Jump shot,15,-83,125,True
+Denzel Valentine,4,8,29,1,Floating Jump shot,7,-6,75,True
+Denzel Valentine,3,10,36,1,Floating Jump shot,10,-1,105,True
+Denzel Valentine,2,10,37,1,Floating Jump shot,11,33,111,True
+Denzel Valentine,2,10,57,0,Floating Jump shot,7,-66,38,True
+Denzel Valentine,3,6,1,1,Floating Jump shot,4,14,44,True
+Denzel Valentine,2,9,11,1,Floating Jump shot,10,19,106,True
+Denzel Valentine,2,11,16,0,Floating Jump shot,12,101,72,True
+Denzel Valentine,3,4,16,1,Floating Jump shot,8,13,79,True
+Denzel Valentine,2,8,37,0,Floating Jump shot,14,66,126,True
+Denzel Valentine,1,3,17,0,Floating Jump shot,7,35,69,True
+Denzel Valentine,3,7,0,1,Floating Jump shot,12,-27,122,True
+Denzel Valentine,3,5,7,0,Floating Jump shot,18,-92,165,True
+Denzel Valentine,1,4,34,0,Floating Jump shot,6,-6,68,True
+Denzel Valentine,2,9,16,0,Floating Jump shot,9,18,92,True
+Denzel Valentine,2,4,31,1,Floating Jump shot,10,49,95,True
+Denzel Valentine,1,4,0,0,Floating Jump shot,10,25,98,True
+Denzel Valentine,1,8,50,0,Floating Jump shot,10,57,94,True
+Denzel Valentine,2,5,19,0,Floating Jump shot,12,-13,125,True
+Denzel Valentine,1,4,29,1,Floating Jump shot,12,-19,127,True
+Denzel Valentine,4,3,34,1,Floating Jump shot,17,17,172,True
+Denzel Valentine,1,11,21,0,Floating Jump shot,5,-35,41,True
+Denzel Valentine,2,7,54,0,Floating Jump shot,3,12,32,True
+Denzel Valentine,3,0,0,0,Floating Jump shot,27,-22,270,False
+Denzel Valentine,2,2,15,0,Floating Jump shot,9,98,1,True
+Denzel Valentine,4,1,3,1,Floating Jump shot,6,14,65,True
+Denzel Valentine,3,9,33,0,Floating Jump shot,17,2,173,True
+Denzel Valentine,3,10,42,1,Floating Jump shot,15,3,158,True
+Denzel Valentine,2,7,35,0,Floating Jump shot,10,77,77,True
+Denzel Valentine,3,2,53,1,Floating Jump shot,3,-11,28,True
+Denzel Valentine,3,3,38,1,Hook Shot,7,-28,65,True
+Denzel Valentine,4,0,10,0,Hook Shot,5,-20,54,True
+Denzel Valentine,3,8,52,0,Jump Bank Shot,4,38,16,True
+Denzel Valentine,4,6,34,0,Jump Bank Shot,24,-210,133,False
+Denzel Valentine,1,3,42,1,Jump Shot,11,114,-13,True
+Denzel Valentine,1,3,12,1,Jump Shot,10,28,101,True
+Denzel Valentine,2,11,12,1,Jump Shot,12,-112,50,True
+Denzel Valentine,4,8,53,0,Jump Shot,16,-16,169,True
+Denzel Valentine,4,9,4,1,Jump Shot,25,-179,183,False
+Denzel Valentine,2,7,41,0,Jump Shot,23,232,-10,False
+Denzel Valentine,3,2,42,0,Jump Shot,26,63,257,False
+Denzel Valentine,2,6,28,1,Jump Shot,24,242,-15,False
+Denzel Valentine,4,5,38,1,Jump Shot,25,-38,252,False
+Denzel Valentine,4,2,32,0,Jump Shot,27,99,261,False
+Denzel Valentine,2,2,56,0,Jump Shot,25,-153,200,False
+Denzel Valentine,4,3,3,0,Jump Shot,28,137,246,False
+Denzel Valentine,1,0,47,0,Jump Shot,26,29,259,False
+Denzel Valentine,1,2,32,1,Jump Shot,22,-228,4,False
+Denzel Valentine,3,1,0,1,Jump Shot,25,-20,252,False
+Denzel Valentine,2,7,23,0,Jump Shot,24,-162,187,False
+Denzel Valentine,1,0,28,0,Jump Shot,25,-200,162,False
+Denzel Valentine,4,11,21,1,Jump Shot,25,-11,258,False
+Denzel Valentine,5,0,54,0,Jump Shot,26,-33,267,False
+Denzel Valentine,4,8,16,0,Jump Shot,24,-157,193,False
+Denzel Valentine,3,4,7,0,Jump Shot,26,115,234,False
+Denzel Valentine,4,9,43,1,Jump Shot,26,123,231,False
+Denzel Valentine,1,1,59,1,Jump Shot,24,-78,233,False
+Denzel Valentine,4,7,48,0,Jump Shot,23,231,14,False
+Denzel Valentine,2,2,22,1,Jump Shot,25,-65,244,False
+Denzel Valentine,2,0,57,1,Jump Shot,23,234,13,False
+Denzel Valentine,3,2,16,0,Jump Shot,22,-141,175,True
+Denzel Valentine,1,5,8,0,Jump Shot,9,-5,99,True
+Denzel Valentine,4,8,32,0,Jump Shot,25,-9,256,False
+Denzel Valentine,2,2,37,0,Jump Shot,24,-180,168,False
+Denzel Valentine,4,0,59,0,Jump Shot,23,-231,-21,False
+Denzel Valentine,4,11,25,0,Jump Shot,18,-116,143,True
+Denzel Valentine,1,6,48,0,Jump Shot,25,-108,227,False
+Denzel Valentine,3,9,11,0,Jump Shot,24,196,148,False
+Denzel Valentine,2,4,30,0,Jump Shot,24,236,57,False
+Denzel Valentine,1,0,0,0,Jump Shot,42,-147,400,False
+Denzel Valentine,2,7,10,1,Jump Shot,25,-92,235,False
+Denzel Valentine,3,6,58,0,Jump Shot,26,-147,220,False
+Denzel Valentine,2,10,0,1,Jump Shot,27,162,216,False
+Denzel Valentine,3,11,49,1,Jump Shot,23,-230,16,False
+Denzel Valentine,3,3,12,0,Jump Shot,24,-203,141,False
+Denzel Valentine,3,0,29,0,Jump Shot,17,-49,169,True
+Denzel Valentine,4,10,54,0,Jump Shot,25,181,183,False
+Denzel Valentine,4,5,23,0,Jump Shot,25,166,197,False
+Denzel Valentine,2,7,37,0,Jump Shot,25,162,199,False
+Denzel Valentine,2,11,17,1,Jump Shot,10,3,101,True
+Denzel Valentine,4,6,47,0,Jump Shot,21,187,113,True
+Denzel Valentine,1,4,6,0,Jump Shot,23,27,231,True
+Denzel Valentine,4,1,56,0,Jump Shot,23,234,42,False
+Denzel Valentine,3,3,7,0,Jump Shot,25,-222,117,False
+Denzel Valentine,2,8,46,1,Jump Shot,27,114,246,False
+Denzel Valentine,3,2,1,0,Jump Shot,27,134,235,False
+Denzel Valentine,4,2,32,0,Jump Shot,22,-30,219,True
+Denzel Valentine,4,1,10,0,Jump Shot,23,-236,5,False
+Denzel Valentine,2,7,54,0,Jump Shot,25,-67,243,False
+Denzel Valentine,1,0,49,1,Jump Shot,23,-231,-22,False
+Denzel Valentine,2,3,13,0,Jump Shot,29,-183,235,False
+Denzel Valentine,4,9,40,0,Jump Shot,14,-54,132,True
+Denzel Valentine,2,5,31,1,Jump Shot,28,-154,238,False
+Denzel Valentine,1,4,35,1,Jump Shot,26,192,176,False
+Denzel Valentine,4,6,12,1,Jump Shot,25,-26,256,False
+Denzel Valentine,2,1,27,1,Jump Shot,24,143,204,False
+Denzel Valentine,2,4,29,0,Jump Shot,23,230,33,False
+Denzel Valentine,2,6,34,1,Jump Shot,25,-129,216,False
+Denzel Valentine,1,9,38,1,Jump Shot,25,143,209,False
+Denzel Valentine,3,7,17,1,Jump Shot,25,119,221,False
+Denzel Valentine,2,3,10,0,Jump Shot,22,-228,-17,False
+Denzel Valentine,2,3,33,0,Jump Shot,25,193,159,False
+Denzel Valentine,1,7,37,0,Jump Shot,24,-119,210,False
+Denzel Valentine,4,3,21,1,Jump Shot,24,-58,243,False
+Denzel Valentine,2,1,20,0,Jump Shot,23,231,42,False
+Denzel Valentine,2,6,7,0,Jump Shot,6,43,51,True
+Denzel Valentine,2,2,26,0,Jump Shot,22,-221,11,False
+Denzel Valentine,1,6,25,0,Jump Shot,23,230,41,False
+Denzel Valentine,2,2,55,1,Jump Shot,23,-232,-12,False
+Denzel Valentine,2,0,2,0,Jump Shot,24,46,237,False
+Denzel Valentine,1,6,4,0,Jump Shot,25,-91,234,False
+Denzel Valentine,2,4,58,0,Jump Shot,25,134,222,False
+Denzel Valentine,3,5,54,1,Jump Shot,26,-122,236,False
+Denzel Valentine,3,4,43,0,Jump Shot,7,33,65,True
+Denzel Valentine,2,1,6,0,Jump Shot,26,8,260,False
+Denzel Valentine,1,5,59,0,Jump Shot,22,-229,-16,False
+Denzel Valentine,1,4,39,0,Jump Shot,24,-230,85,False
+Denzel Valentine,4,7,23,0,Jump Shot,22,225,6,False
+Denzel Valentine,4,4,13,1,Jump Shot,26,62,253,False
+Denzel Valentine,3,10,29,1,Jump Shot,25,-125,227,False
+Denzel Valentine,2,6,37,1,Jump Shot,24,89,229,False
+Denzel Valentine,4,5,10,0,Jump Shot,22,228,-13,False
+Denzel Valentine,3,2,22,1,Jump Shot,26,140,221,False
+Denzel Valentine,1,5,13,1,Jump Shot,25,82,240,False
+Denzel Valentine,1,4,50,0,Jump Shot,18,-140,116,True
+Denzel Valentine,4,2,15,0,Jump Shot,25,-134,217,False
+Denzel Valentine,2,0,21,0,Jump Shot,24,46,245,False
+Denzel Valentine,2,7,54,1,Jump Shot,26,147,215,False
+Denzel Valentine,3,0,30,1,Jump Shot,21,4,217,True
+Denzel Valentine,4,6,51,1,Jump Shot,25,-87,239,False
+Denzel Valentine,3,1,58,1,Jump Shot,20,-36,204,True
+Denzel Valentine,2,11,51,0,Jump Shot,21,-85,194,True
+Denzel Valentine,1,3,30,1,Jump Shot,21,-100,189,True
+Denzel Valentine,1,0,23,1,Jump Shot,25,35,252,False
+Denzel Valentine,4,3,26,0,Jump Shot,23,236,-2,False
+Denzel Valentine,4,11,35,1,Jump Shot,24,-30,240,False
+Denzel Valentine,3,3,24,1,Jump Shot,24,234,82,False
+Denzel Valentine,4,11,14,0,Jump Shot,24,240,16,False
+Denzel Valentine,1,0,3,0,Jump Shot,25,-76,240,False
+Denzel Valentine,3,4,4,1,Jump Shot,24,-240,-8,False
+Denzel Valentine,3,2,36,0,Jump Shot,24,-242,32,False
+Denzel Valentine,1,2,47,0,Jump Shot,4,40,21,True
+Denzel Valentine,4,6,8,0,Jump Shot,26,-147,215,False
+Denzel Valentine,3,1,28,1,Jump Shot,25,-150,209,False
+Denzel Valentine,4,1,28,1,Jump Shot,16,-51,158,True
+Denzel Valentine,1,0,5,1,Jump Shot,25,57,250,False
+Denzel Valentine,2,10,33,0,Jump Shot,28,-4,281,False
+Denzel Valentine,4,11,21,1,Jump Shot,15,-104,112,True
+Denzel Valentine,4,8,42,0,Jump Shot,19,-29,189,True
+Denzel Valentine,2,5,0,0,Jump Shot,25,39,248,False
+Denzel Valentine,2,7,30,0,Jump Shot,25,106,237,False
+Denzel Valentine,4,11,13,0,Jump Shot,25,-12,259,False
+Denzel Valentine,4,11,38,1,Jump Shot,26,-176,199,False
+Denzel Valentine,1,0,59,0,Jump Shot,25,-129,215,False
+Denzel Valentine,2,0,35,1,Jump Shot,25,134,220,False
+Denzel Valentine,4,7,1,1,Jump Shot,18,47,180,True
+Denzel Valentine,3,1,26,1,Jump Shot,20,171,115,True
+Denzel Valentine,1,0,0,0,Jump Shot,58,80,577,False
+Denzel Valentine,1,2,20,1,Jump Shot,25,-1,256,False
+Denzel Valentine,1,2,57,1,Jump Shot,24,130,208,False
+Denzel Valentine,1,0,25,1,Jump Shot,22,-221,22,False
+Denzel Valentine,4,0,0,0,Jump Shot,9,95,26,True
+Denzel Valentine,3,4,24,0,Jump Shot,22,-228,-9,False
+Denzel Valentine,4,1,57,0,Jump Shot,22,222,22,False
+Denzel Valentine,2,10,7,0,Jump Shot,24,-140,206,False
+Denzel Valentine,3,0,7,0,Jump Shot,25,97,237,False
+Denzel Valentine,1,0,0,0,Jump Shot,26,2,269,False
+Denzel Valentine,4,6,50,0,Jump Shot,22,145,170,True
+Denzel Valentine,3,3,5,0,Jump Shot,25,-130,216,False
+Denzel Valentine,2,9,58,1,Jump Shot,24,58,243,False
+Denzel Valentine,2,8,36,0,Jump Shot,25,85,239,False
+Denzel Valentine,2,5,53,0,Jump Shot,25,-63,242,False
+Denzel Valentine,2,5,31,1,Jump Shot,22,-226,-2,False
+Denzel Valentine,3,7,48,0,Jump Shot,23,-228,34,False
+Denzel Valentine,2,2,15,0,Jump Shot,25,78,242,False
+Denzel Valentine,2,9,14,1,Jump Shot,25,74,242,False
+Denzel Valentine,3,8,45,0,Jump Shot,26,200,169,False
+Denzel Valentine,4,9,23,0,Jump Shot,23,-104,206,True
+Denzel Valentine,3,2,7,0,Jump Shot,23,-232,-20,False
+Denzel Valentine,3,1,54,0,Jump Shot,28,-22,280,False
+Denzel Valentine,4,11,48,0,Jump Shot,25,-40,256,False
+Denzel Valentine,4,9,0,0,Jump Shot,25,-90,243,False
+Denzel Valentine,4,8,25,0,Jump Shot,25,-49,251,False
+Denzel Valentine,4,6,4,0,Jump Shot,24,-217,114,False
+Denzel Valentine,2,6,51,0,Jump Shot,26,-100,246,False
+Denzel Valentine,4,10,12,0,Jump Shot,26,11,264,False
+Denzel Valentine,3,2,36,0,Jump Shot,26,-69,251,False
+Denzel Valentine,1,3,25,0,Jump Shot,23,-234,11,False
+Denzel Valentine,2,10,3,0,Jump Shot,26,-101,249,False
+Denzel Valentine,2,8,6,0,Jump Shot,23,-235,2,False
+Denzel Valentine,2,7,41,0,Jump Shot,26,150,219,False
+Denzel Valentine,1,6,26,1,Jump Shot,22,-222,-4,False
+Denzel Valentine,2,8,13,0,Jump Shot,22,-222,10,False
+Denzel Valentine,3,4,0,0,Jump Shot,23,-231,7,False
+Denzel Valentine,2,1,18,1,Jump Shot,25,179,188,False
+Denzel Valentine,2,8,20,0,Jump Shot,25,208,155,False
+Denzel Valentine,2,7,14,1,Jump Shot,23,235,3,False
+Denzel Valentine,4,10,56,0,Jump Shot,26,-171,196,False
+Denzel Valentine,2,5,32,0,Jump Shot,25,154,198,False
+Denzel Valentine,4,6,46,1,Jump Shot,12,41,121,True
+Denzel Valentine,1,1,3,0,Jump Shot,23,-231,-27,False
+Denzel Valentine,3,7,40,0,Jump Shot,25,215,144,False
+Denzel Valentine,1,7,45,1,Jump Shot,23,-231,-23,False
+Denzel Valentine,2,9,24,0,Jump Shot,23,-230,-21,False
+Denzel Valentine,1,2,38,1,Jump Shot,25,186,169,False
+Denzel Valentine,4,3,6,0,Jump Shot,23,232,33,False
+Denzel Valentine,1,8,17,0,Jump Shot,25,158,201,False
+Denzel Valentine,1,1,48,0,Jump Shot,24,133,208,False
+Denzel Valentine,1,11,26,1,Jump Shot,20,50,194,True
+Denzel Valentine,3,10,10,0,Jump Shot,24,-241,20,False
+Denzel Valentine,1,6,56,1,Jump Shot,25,152,201,False
+Denzel Valentine,1,6,17,0,Jump Shot,23,-114,210,False
+Denzel Valentine,3,5,18,0,Jump Shot,25,-73,249,False
+Denzel Valentine,4,1,42,0,Jump Shot,22,-228,-3,False
+Denzel Valentine,2,8,24,1,Jump Shot,23,-233,-7,False
+Denzel Valentine,4,7,35,0,Jump Shot,24,-211,126,False
+Denzel Valentine,3,5,1,0,Jump Shot,23,234,14,False
+Denzel Valentine,4,8,51,0,Jump Shot,24,-157,192,False
+Denzel Valentine,2,8,23,0,Jump Shot,23,234,-8,False
+Denzel Valentine,3,5,36,1,Jump Shot,25,-128,219,False
+Denzel Valentine,4,4,9,0,Jump Shot,31,-9,314,False
+Denzel Valentine,2,7,52,1,Jump Shot,27,139,235,False
+Denzel Valentine,1,7,20,0,Jump Shot,21,-41,209,True
+Denzel Valentine,2,0,1,0,Jump Shot,14,74,127,True
+Denzel Valentine,1,0,28,0,Jump Shot,24,144,199,False
+Denzel Valentine,1,9,47,0,Jump Shot,10,106,0,True
+Denzel Valentine,2,9,34,1,Jump Shot,24,20,248,False
+Denzel Valentine,4,10,49,1,Jump Shot,24,-154,190,False
+Denzel Valentine,3,10,15,1,Jump Shot,26,-195,175,False
+Denzel Valentine,3,7,12,0,Jump Shot,14,146,-5,True
+Denzel Valentine,1,8,27,1,Jump Shot,22,-220,-16,False
+Denzel Valentine,3,8,3,0,Jump Shot,26,-186,191,False
+Denzel Valentine,2,6,4,0,Jump Shot,22,-221,-18,False
+Denzel Valentine,1,3,14,0,Jump Shot,18,-8,185,True
+Denzel Valentine,1,8,8,0,Jump Shot,26,117,235,False
+Denzel Valentine,1,5,11,1,Jump Shot,29,171,243,False
+Denzel Valentine,2,3,3,0,Jump Shot,25,-36,248,False
+Denzel Valentine,2,1,23,0,Jump Shot,24,-128,208,False
+Denzel Valentine,2,3,34,0,Jump Shot,24,-119,215,False
+Denzel Valentine,2,4,32,0,Jump Shot,25,157,198,False
+Denzel Valentine,4,3,5,1,Jump Shot,25,133,214,False
+Denzel Valentine,3,11,23,1,Jump Shot,23,230,33,False
+Denzel Valentine,3,10,53,0,Jump Shot,23,230,15,False
+Denzel Valentine,4,4,15,0,Jump Shot,15,109,107,True
+Denzel Valentine,3,8,14,1,Jump Shot,25,-36,257,False
+Denzel Valentine,3,3,37,0,Jump Shot,21,-49,206,True
+Denzel Valentine,4,2,50,1,Jump Shot,26,-49,256,False
+Denzel Valentine,2,2,56,0,Jump Shot,16,-36,156,True
+Denzel Valentine,3,4,47,1,Jump Shot,25,-126,223,False
+Denzel Valentine,3,3,22,0,Jump Shot,23,-230,-10,False
+Denzel Valentine,2,0,10,0,Jump Shot,24,6,247,False
+Denzel Valentine,3,2,6,0,Jump Shot,24,-42,245,False
+Denzel Valentine,3,3,54,0,Jump Shot,24,-48,243,False
+Denzel Valentine,3,6,5,1,Jump Shot,24,-71,239,False
+Denzel Valentine,2,2,48,1,Jump Shot,22,225,31,False
+Denzel Valentine,4,10,30,0,Jump Shot,19,-17,199,True
+Denzel Valentine,2,9,54,0,Jump Shot,22,-228,20,False
+Denzel Valentine,3,2,45,0,Jump Shot,26,22,264,False
+Denzel Valentine,4,11,48,0,Jump Shot,23,-230,-5,False
+Denzel Valentine,3,6,33,1,Jump Shot,25,143,210,False
+Denzel Valentine,2,7,16,0,Jump Shot,11,-107,50,True
+Denzel Valentine,1,2,55,0,Jump Shot,20,-42,201,True
+Denzel Valentine,3,7,27,0,Jump Shot,19,6,199,True
+Denzel Valentine,4,0,8,0,Jump Shot,26,-169,199,False
+Denzel Valentine,3,0,25,1,Jump Shot,24,-232,67,False
+Denzel Valentine,2,2,51,0,Jump Shot,23,-231,-18,False
+Denzel Valentine,4,11,49,0,Jump Shot,26,29,260,False
+Denzel Valentine,1,1,4,0,Jump Shot,25,-8,257,False
+Denzel Valentine,3,2,2,1,Jump Shot,26,-78,258,False
+Denzel Valentine,4,3,33,1,Jump Shot,12,0,125,True
+Denzel Valentine,4,3,1,0,Jump Shot,24,-236,74,False
+Denzel Valentine,2,0,55,1,Jump Shot,20,-36,197,True
+Denzel Valentine,2,10,15,0,Jump Shot,25,43,247,False
+Denzel Valentine,5,0,40,0,Jump Shot,25,174,190,False
+Denzel Valentine,4,2,28,1,Jump Shot,25,133,220,False
+Denzel Valentine,2,11,20,1,Jump Shot,26,-136,227,False
+Denzel Valentine,3,3,37,0,Jump Shot,23,236,-3,False
+Denzel Valentine,3,1,22,1,Jump Shot,25,-134,217,False
+Denzel Valentine,2,1,29,1,Jump Shot,18,-59,177,True
+Denzel Valentine,4,5,32,1,Jump Shot,25,-94,237,False
+Denzel Valentine,3,0,31,0,Jump Shot,25,-135,220,False
+Denzel Valentine,1,2,6,0,Jump Shot,22,222,31,False
+Denzel Valentine,4,9,46,1,Jump Shot,26,24,267,False
+Denzel Valentine,4,9,5,0,Jump Shot,23,-225,78,False
+Denzel Valentine,1,4,8,1,Jump Shot,25,-177,181,False
+Denzel Valentine,1,2,6,0,Jump Shot,24,210,134,False
+Denzel Valentine,4,7,4,0,Jump Shot,25,166,194,False
+Denzel Valentine,4,10,18,0,Jump Shot,25,150,209,False
+Denzel Valentine,2,0,3,0,Jump Shot,24,-112,218,False
+Denzel Valentine,3,2,34,0,Jump Shot,25,-144,211,False
+Denzel Valentine,4,0,25,0,Jump Shot,26,-123,233,False
+Denzel Valentine,4,6,51,1,Jump Shot,26,60,258,False
+Denzel Valentine,4,1,8,0,Jump Shot,8,-11,89,True
+Denzel Valentine,4,3,50,0,Jump Shot,10,-2,105,True
+Denzel Valentine,4,1,3,0,Jump Shot,21,125,176,True
+Denzel Valentine,4,11,25,0,Jump Shot,16,-168,23,True
+Denzel Valentine,1,0,35,1,Jump Shot,24,116,216,False
+Denzel Valentine,3,10,50,0,Jump Shot,24,-100,226,False
+Denzel Valentine,3,10,2,0,Jump Shot,21,-218,24,False
+Denzel Valentine,2,7,56,0,Jump Shot,26,-120,232,False
+Denzel Valentine,3,11,47,1,Jump Shot,22,-223,30,False
+Denzel Valentine,4,4,32,0,Jump Shot,22,-3,224,True
+Denzel Valentine,4,3,48,0,Jump Shot,26,98,245,False
+Denzel Valentine,2,11,46,0,Jump Shot,27,-139,236,False
+Denzel Valentine,4,10,26,0,Jump Shot,25,137,214,False
+Denzel Valentine,4,0,19,0,Jump Shot,25,105,237,False
+Denzel Valentine,4,10,20,0,Jump Shot,9,62,75,True
+Denzel Valentine,4,7,38,1,Jump Shot,26,213,159,False
+Denzel Valentine,2,0,26,0,Jump Shot,14,140,-4,True
+Denzel Valentine,3,5,42,0,Jump Shot,15,152,-13,True
+Denzel Valentine,4,2,53,1,Jump Shot,9,17,98,True
+Denzel Valentine,3,2,26,1,Jump Shot,22,223,16,False
+Denzel Valentine,3,1,32,0,Jump Shot,19,131,144,True
+Denzel Valentine,4,9,13,1,Jump Shot,19,29,196,True
+Denzel Valentine,3,4,8,0,Jump Shot,31,-98,304,False
+Denzel Valentine,4,7,54,1,Jump Shot,26,65,253,False
+Denzel Valentine,2,7,34,0,Jump Shot,15,-135,79,True
+Denzel Valentine,2,9,7,1,Jump Shot,23,225,83,False
+Denzel Valentine,3,4,53,0,Jump Shot,19,147,134,True
+Denzel Valentine,3,0,59,0,Jump Shot,25,95,241,False
+Denzel Valentine,2,8,11,0,Jump Shot,25,163,199,False
+Denzel Valentine,1,3,9,0,Jump Shot,26,21,262,False
+Denzel Valentine,2,3,55,0,Jump Shot,14,-122,83,True
+Denzel Valentine,1,1,0,0,Jump Shot,23,225,53,False
+Denzel Valentine,3,3,56,1,Jump Shot,23,233,22,False
+Denzel Valentine,4,6,10,1,Jump Shot,26,177,201,False
+Denzel Valentine,3,9,39,1,Jump Shot,25,-228,122,False
+Denzel Valentine,1,10,48,1,Jump Shot,22,-225,-16,False
+Denzel Valentine,4,0,2,0,Jump Shot,28,-183,215,False
+Denzel Valentine,4,6,43,0,Jump Shot,22,225,43,False
+Denzel Valentine,3,8,51,0,Jump Shot,25,13,258,False
+Denzel Valentine,3,8,16,1,Jump Shot,27,-8,272,False
+Denzel Valentine,3,11,7,1,Jump Shot,27,-18,272,False
+Denzel Valentine,2,5,30,0,Jump Shot,18,120,142,True
+Denzel Valentine,2,3,48,1,Jump Shot,23,230,10,False
+Denzel Valentine,1,10,42,1,Jump Shot,22,-222,11,False
+Denzel Valentine,3,7,16,0,Jump Shot,25,-14,258,False
+Denzel Valentine,3,8,33,1,Jump Shot,12,-54,116,True
+Denzel Valentine,2,6,1,0,Jump Shot,10,-100,29,True
+Denzel Valentine,4,4,3,0,Jump Shot,24,-187,163,False
+Denzel Valentine,4,7,44,1,Jump Shot,26,-41,259,False
+Denzel Valentine,2,1,45,1,Jump Shot,25,152,203,False
+Denzel Valentine,4,9,13,0,Jump Shot,22,-229,5,False
+Denzel Valentine,3,11,30,1,Jump Shot,25,-96,235,False
+Denzel Valentine,2,9,7,1,Jump Shot,24,-68,235,False
+Denzel Valentine,2,6,47,0,Jump Shot,25,-154,198,False
+Denzel Valentine,3,8,27,0,Jump Shot,25,119,223,False
+Denzel Valentine,1,6,29,0,Jump Shot,17,-9,171,True
+Denzel Valentine,2,9,33,0,Jump Shot,24,139,206,False
+Denzel Valentine,4,1,21,1,Jump Shot,25,-23,254,False
+Denzel Valentine,3,1,53,1,Jump Shot,26,-158,217,False
+Denzel Valentine,3,4,54,1,Jump Shot,22,223,-13,False
+Denzel Valentine,1,6,25,0,Jump Shot,24,-89,230,False
+Denzel Valentine,3,10,35,0,Jump Shot,25,100,233,False
+Denzel Valentine,2,4,36,0,Jump Shot,25,-168,186,False
+Denzel Valentine,1,6,11,1,Jump Shot,26,145,225,False
+Denzel Valentine,4,1,51,0,Jump Shot,25,-116,230,False
+Denzel Valentine,3,11,23,0,Jump Shot,26,-87,253,False
+Denzel Valentine,3,4,52,1,Jump Shot,25,234,91,False
+Denzel Valentine,1,10,29,0,Jump Shot,24,-228,77,False
+Denzel Valentine,3,6,43,0,Jump Shot,5,-9,53,True
+Denzel Valentine,3,5,54,0,Jump Shot,14,78,122,True
+Denzel Valentine,2,9,13,1,Jump Shot,16,42,160,True
+Denzel Valentine,2,4,26,0,Jump Shot,25,-36,256,False
+Denzel Valentine,3,2,13,0,Jump Shot,23,234,24,False
+Denzel Valentine,4,5,21,0,Jump Shot,25,-178,179,False
+Denzel Valentine,4,6,53,1,Jump Shot,24,-75,232,False
+Denzel Valentine,3,2,59,0,Jump Shot,23,237,0,False
+Denzel Valentine,4,0,0,0,Jump Shot,57,168,546,False
+Denzel Valentine,4,4,46,1,Jump Shot,25,-4,253,False
+Denzel Valentine,1,9,29,0,Jump Shot,25,-55,247,False
+Denzel Valentine,2,8,59,0,Jump Shot,24,-125,213,False
+Denzel Valentine,2,0,58,0,Jump Shot,23,-230,10,False
+Denzel Valentine,2,2,57,1,Jump Shot,17,7,177,True
+Denzel Valentine,2,1,42,1,Jump Shot,24,-96,225,False
+Denzel Valentine,1,8,58,0,Jump Shot,26,-18,263,False
+Denzel Valentine,2,3,47,0,Jump Shot,24,-145,194,False
+Denzel Valentine,3,7,2,1,Jump Shot,24,215,117,False
+Denzel Valentine,3,8,16,0,Jump Shot,28,-45,283,False
+Denzel Valentine,1,10,55,1,Jump Shot,17,165,66,True
+Denzel Valentine,1,7,5,1,Jump Shot,23,232,57,False
+Denzel Valentine,2,0,41,0,Jump Shot,27,150,229,False
+Denzel Valentine,1,10,24,0,Jump Shot,26,-87,248,False
+Denzel Valentine,1,9,50,1,Jump Shot,22,-227,-6,False
+Denzel Valentine,4,0,27,0,Jump Shot,23,-235,27,False
+Denzel Valentine,1,9,44,1,Jump Shot,22,-225,13,False
+Denzel Valentine,1,0,26,1,Jump Shot,26,-85,251,False
+Denzel Valentine,1,2,33,0,Jump Shot,25,165,189,False
+Denzel Valentine,2,0,30,0,Jump Shot,21,60,207,True
+Denzel Valentine,4,5,26,0,Jump Shot,24,6,245,False
+Denzel Valentine,3,9,5,0,Jump Shot,25,153,209,False
+Denzel Valentine,4,10,27,1,Jump Shot,15,-156,15,True
+Denzel Valentine,1,7,36,0,Jump Shot,12,-96,83,True
+Denzel Valentine,1,10,53,0,Jump Shot,25,-126,220,False
+Denzel Valentine,3,11,14,0,Jump Shot,24,-105,226,False
+Denzel Valentine,3,6,15,0,Jump Shot,25,192,174,False
+Denzel Valentine,2,0,26,0,Jump Shot,24,241,22,False
+Denzel Valentine,1,9,56,0,Jump Shot,24,-106,225,False
+Denzel Valentine,3,4,29,0,Jump Shot,26,114,238,False
+Denzel Valentine,3,9,7,0,Jump Shot,18,-164,91,True
+Denzel Valentine,1,7,54,0,Jump Shot,17,25,177,True
+Denzel Valentine,1,7,27,0,Jump Shot,26,-31,260,False
+Denzel Valentine,2,8,53,0,Jump Shot,18,-122,135,True
+Denzel Valentine,2,5,30,0,Jump Shot,10,51,87,True
+Denzel Valentine,3,5,7,1,Jump Shot,32,-182,272,False
+Denzel Valentine,2,8,36,1,Jump Shot,26,-185,189,False
+Denzel Valentine,2,9,49,1,Jump Shot,23,230,26,False
+Denzel Valentine,2,2,11,0,Layup Shot,2,18,12,True
+Denzel Valentine,4,11,39,0,Layup Shot,2,16,18,True
+Denzel Valentine,3,10,51,1,Layup Shot,1,13,-1,True
+Denzel Valentine,1,7,56,0,Layup Shot,6,-66,10,True
+Denzel Valentine,2,9,5,0,Layup Shot,1,11,7,True
+Denzel Valentine,3,5,26,0,Layup Shot,2,22,12,True
+Denzel Valentine,3,0,43,0,Layup Shot,2,13,22,True
+Denzel Valentine,4,8,20,0,Layup Shot,2,-24,13,True
+Denzel Valentine,4,9,29,0,Layup Shot,1,2,17,True
+Denzel Valentine,4,8,17,1,Layup Shot,1,16,9,True
+Denzel Valentine,4,10,42,0,Layup Shot,0,-4,6,True
+Denzel Valentine,1,7,34,0,Layup Shot,3,6,37,True
+Denzel Valentine,2,11,6,1,Layup Shot,8,49,72,True
+Denzel Valentine,2,3,10,0,Layup Shot,1,-16,10,True
+Denzel Valentine,2,2,47,1,Layup Shot,3,-3,31,True
+Denzel Valentine,3,2,39,0,Layup Shot,1,-18,1,True
+Denzel Valentine,1,1,14,0,Layup Shot,2,23,3,True
+Denzel Valentine,3,3,22,1,Layup Shot,1,15,10,True
+Denzel Valentine,5,1,52,0,Layup Shot,0,2,-1,True
+Denzel Valentine,2,4,55,0,Layup Shot,2,20,6,True
+Denzel Valentine,1,5,24,1,Layup Shot,0,9,-1,True
+Denzel Valentine,3,11,26,0,Layup Shot,1,0,18,True
+Denzel Valentine,4,11,11,1,Layup Shot,2,-20,7,True
+Denzel Valentine,2,9,47,0,Layup Shot,1,11,5,True
+Denzel Valentine,1,0,7,1,Layup Shot,0,5,8,True
+Denzel Valentine,3,9,50,0,Layup Shot,3,-32,15,True
+Denzel Valentine,4,7,17,1,Layup Shot,2,14,20,True
+Denzel Valentine,2,11,10,0,Layup Shot,1,-16,5,True
+Denzel Valentine,1,5,13,0,Pullup Jump shot,15,-20,152,True
+Denzel Valentine,1,3,34,1,Pullup Jump shot,20,-87,188,True
+Denzel Valentine,4,3,5,1,Pullup Jump shot,19,43,189,True
+Denzel Valentine,1,10,47,0,Pullup Jump shot,18,-27,184,True
+Denzel Valentine,1,0,55,1,Pullup Jump shot,19,-60,185,True
+Denzel Valentine,1,10,31,1,Pullup Jump shot,18,-85,164,True
+Denzel Valentine,2,9,32,0,Pullup Jump shot,20,-138,150,True
+Denzel Valentine,2,0,1,0,Pullup Jump shot,30,125,273,False
+Denzel Valentine,1,8,18,0,Pullup Jump shot,24,-76,234,False
+Denzel Valentine,4,0,43,1,Pullup Jump shot,26,-63,260,False
+Denzel Valentine,1,4,32,1,Pullup Jump shot,18,-25,187,True
+Denzel Valentine,1,8,10,0,Pullup Jump shot,19,-199,12,True
+Denzel Valentine,1,2,54,1,Pullup Jump shot,19,-92,172,True
+Denzel Valentine,4,8,43,0,Pullup Jump shot,20,31,199,True
+Denzel Valentine,2,7,21,0,Pullup Jump shot,24,-59,242,False
+Denzel Valentine,2,0,39,0,Pullup Jump shot,24,-68,240,False
+Denzel Valentine,1,0,51,0,Pullup Jump shot,18,63,170,True
+Denzel Valentine,2,3,38,1,Pullup Jump shot,17,-9,171,True
+Denzel Valentine,2,8,39,1,Pullup Jump shot,20,133,153,True
+Denzel Valentine,2,9,1,1,Pullup Jump shot,16,49,154,True
+Denzel Valentine,3,9,40,1,Pullup Jump shot,25,-100,237,False
+Denzel Valentine,3,8,14,0,Pullup Jump shot,27,125,242,False
+Denzel Valentine,3,0,0,0,Pullup Jump shot,25,5,251,False
+Denzel Valentine,1,9,1,0,Pullup Jump shot,20,106,177,True
+Denzel Valentine,3,0,0,0,Pullup Jump shot,25,212,147,False
+Denzel Valentine,4,7,45,1,Pullup Jump shot,16,-36,158,True
+Denzel Valentine,2,2,40,1,Pullup Jump shot,25,131,215,False
+Denzel Valentine,1,3,1,1,Pullup Jump shot,25,-6,256,False
+Denzel Valentine,2,8,2,1,Pullup Jump shot,25,0,257,False
+Denzel Valentine,1,2,8,0,Pullup Jump shot,15,77,140,True
+Denzel Valentine,3,1,20,1,Pullup Jump shot,25,-133,220,False
+Denzel Valentine,3,11,4,0,Pullup Jump shot,20,45,199,True
+Denzel Valentine,1,8,35,1,Pullup Jump shot,25,112,229,False
+Denzel Valentine,1,4,41,1,Pullup Jump shot,21,68,200,True
+Denzel Valentine,1,5,2,0,Pullup Jump shot,15,-76,134,True
+Denzel Valentine,2,2,20,0,Pullup Jump shot,15,22,152,True
+Denzel Valentine,1,4,22,0,Pullup Jump shot,22,122,187,True
+Denzel Valentine,2,4,10,1,Pullup Jump shot,20,-131,159,True
+Denzel Valentine,1,6,28,0,Pullup Jump shot,24,-64,237,False
+Denzel Valentine,2,8,32,0,Pullup Jump shot,25,178,179,False
+Denzel Valentine,3,5,25,0,Pullup Jump shot,24,-127,214,False
+Denzel Valentine,3,8,44,1,Pullup Jump shot,24,211,117,False
+Denzel Valentine,4,10,36,1,Pullup Jump shot,25,162,197,False
+Denzel Valentine,2,10,29,1,Pullup Jump shot,24,232,63,False
+Denzel Valentine,1,1,54,0,Pullup Jump shot,21,121,172,True
+Denzel Valentine,2,8,2,1,Pullup Jump shot,24,31,247,False
+Denzel Valentine,4,2,26,0,Pullup Jump shot,26,-128,235,False
+Denzel Valentine,4,3,24,0,Pullup Jump shot,14,-147,2,True
+Denzel Valentine,2,5,20,0,Pullup Jump shot,25,-55,247,False
+Denzel Valentine,4,6,41,1,Pullup Jump shot,20,-137,147,True
+Denzel Valentine,2,9,7,1,Pullup Jump shot,24,204,127,False
+Denzel Valentine,4,10,48,0,Pullup Jump shot,18,-84,165,True
+Denzel Valentine,1,7,24,1,Pullup Jump shot,24,5,247,False
+Denzel Valentine,3,2,12,1,Pullup Jump shot,18,68,170,True
+Denzel Valentine,4,6,18,0,Pullup Jump shot,13,37,134,True
+Denzel Valentine,3,0,0,1,Putback Layup Shot,0,0,-6,True
+Denzel Valentine,2,11,6,0,Putback Layup Shot,0,0,-6,True
+Denzel Valentine,3,6,41,1,Reverse Layup Shot,1,9,16,True
+Denzel Valentine,4,2,30,1,Reverse Layup Shot,1,-2,15,True
+Denzel Valentine,4,8,35,1,Reverse Layup Shot,3,-29,8,True
+Denzel Valentine,2,2,34,1,Reverse Layup Shot,1,10,13,True
+Denzel Valentine,4,9,26,1,Running Jump Shot,26,199,168,False
+Denzel Valentine,4,11,49,0,Running Jump Shot,2,19,17,True
+Denzel Valentine,4,7,11,0,Running Jump Shot,25,134,221,False
+Denzel Valentine,3,2,33,0,Running Jump Shot,12,-101,68,True
+Denzel Valentine,2,8,31,0,Running Jump Shot,25,-114,232,False
+Denzel Valentine,1,7,1,1,Running Jump Shot,5,-2,56,True
+Denzel Valentine,1,2,4,0,Running Jump Shot,4,41,26,True
+Denzel Valentine,4,5,42,0,Running Jump Shot,10,-43,92,True
+Denzel Valentine,2,3,18,0,Running Jump Shot,25,123,222,False
+Denzel Valentine,2,3,48,1,Running Layup Shot,1,12,9,True
+Denzel Valentine,4,2,2,1,Running Layup Shot,1,5,10,True
+Denzel Valentine,1,6,27,1,Running Layup Shot,0,7,6,True
+Denzel Valentine,1,7,24,1,Running Layup Shot,1,3,13,True
+Denzel Valentine,2,4,11,1,Running Layup Shot,2,-8,19,True
+Denzel Valentine,3,8,18,0,Running Layup Shot,1,15,12,True
+Denzel Valentine,3,1,10,1,Running Reverse Layup Shot,0,8,-1,True
+Denzel Valentine,3,10,12,1,Running Reverse Layup Shot,0,-3,2,True
+Denzel Valentine,4,10,20,1,Step Back Bank Jump Shot,14,119,78,True
+Denzel Valentine,3,10,58,1,Step Back Jump shot,26,6,262,False
+Denzel Valentine,4,2,36,0,Step Back Jump shot,18,41,180,True
+Denzel Valentine,3,4,32,0,Step Back Jump shot,25,-191,167,False
+Denzel Valentine,1,6,2,0,Step Back Jump shot,25,78,247,False
+Denzel Valentine,4,3,6,1,Step Back Jump shot,26,133,226,False
+Denzel Valentine,4,6,33,0,Step Back Jump shot,28,-145,241,False
+Denzel Valentine,1,4,46,1,Step Back Jump shot,13,46,129,True
+Denzel Valentine,1,0,8,1,Step Back Jump shot,26,174,199,False
+Denzel Valentine,4,0,19,0,Step Back Jump shot,26,92,252,False
+Denzel Valentine,1,3,29,0,Step Back Jump shot,25,-143,207,False
+Denzel Valentine,3,8,21,0,Step Back Jump shot,18,-173,62,True
+Denzel Valentine,3,11,2,0,Step Back Jump shot,18,-188,17,True
+Denzel Valentine,2,0,5,1,Step Back Jump shot,17,-42,168,True
+Denzel Valentine,4,9,33,1,Turnaround Fadeaway Bank Jump Shot,16,-70,153,True
+Denzel Valentine,3,10,8,1,Turnaround Fadeaway shot,7,67,39,True
+Denzel Valentine,3,4,23,0,Turnaround Fadeaway shot,12,4,126,True
+Denzel Valentine,2,7,55,0,Turnaround Hook Shot,9,-93,15,True
+Denzel Valentine,2,8,55,0,Turnaround Hook Shot,9,11,95,True
+Denzel Valentine,2,0,44,0,Turnaround Hook Shot,14,-2,142,True
+Denzel Valentine,1,7,32,1,Turnaround Hook Shot,3,5,34,True
+Denzel Valentine,2,9,35,0,Turnaround Hook Shot,13,-44,125,True
+Denzel Valentine,2,10,53,1,Turnaround Hook Shot,9,22,88,True
+Denzel Valentine,1,3,48,1,Turnaround Hook Shot,6,-40,50,True
+Denzel Valentine,3,5,14,1,Turnaround Jump Shot,3,33,13,True
+Denzel Valentine,4,11,37,1,Turnaround Jump Shot,11,-19,113,True
+Denzel Valentine,1,6,46,1,Turnaround Jump Shot,8,19,85,True
+Denzel Valentine,2,5,59,0,Turnaround Jump Shot,6,14,64,True
+Denzel Valentine,2,11,32,1,Turnaround Jump Shot,5,9,54,True
+Denzel Valentine,2,7,32,0,Turnaround Jump Shot,10,-2,106,True

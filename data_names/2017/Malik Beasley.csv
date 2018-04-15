@@ -1,0 +1,161 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Malik Beasley,1,1,11,1,Alley Oop Dunk Shot,0,0,-4,True
+Malik Beasley,3,0,0,1,Alley Oop Layup shot,2,15,25,True
+Malik Beasley,4,2,35,1,Cutting Dunk Shot,3,-11,32,True
+Malik Beasley,3,1,18,0,Cutting Layup Shot,1,-11,14,True
+Malik Beasley,4,11,4,1,Cutting Layup Shot,2,-17,20,True
+Malik Beasley,4,1,51,1,Cutting Layup Shot,1,2,10,True
+Malik Beasley,1,2,10,0,Cutting Layup Shot,2,-19,21,True
+Malik Beasley,2,6,3,1,Cutting Layup Shot,1,5,11,True
+Malik Beasley,3,3,18,1,Driving Dunk Shot,0,-1,5,True
+Malik Beasley,2,10,25,1,Driving Dunk Shot,0,2,1,True
+Malik Beasley,2,7,5,1,Driving Finger Roll Layup Shot,2,19,10,True
+Malik Beasley,2,11,6,1,Driving Finger Roll Layup Shot,3,26,21,True
+Malik Beasley,4,6,10,1,Driving Finger Roll Layup Shot,1,14,6,True
+Malik Beasley,2,3,53,0,Driving Finger Roll Layup Shot,2,16,21,True
+Malik Beasley,2,11,36,1,Driving Floating Jump Shot,5,19,56,True
+Malik Beasley,2,9,51,0,Driving Floating Jump Shot,7,65,43,True
+Malik Beasley,2,8,41,0,Driving Floating Jump Shot,3,-24,27,True
+Malik Beasley,4,2,24,0,Driving Layup Shot,2,28,8,True
+Malik Beasley,2,5,4,1,Driving Layup Shot,5,49,20,True
+Malik Beasley,4,9,7,0,Driving Layup Shot,1,-14,13,True
+Malik Beasley,4,1,49,1,Driving Layup Shot,8,-71,52,True
+Malik Beasley,4,9,5,0,Driving Layup Shot,5,-40,33,True
+Malik Beasley,4,9,33,0,Driving Layup Shot,4,-11,40,True
+Malik Beasley,4,11,36,0,Driving Layup Shot,2,6,23,True
+Malik Beasley,1,0,46,0,Driving Layup Shot,2,1,27,True
+Malik Beasley,2,9,51,1,Driving Layup Shot,1,-13,0,True
+Malik Beasley,2,9,42,0,Driving Layup Shot,1,-14,11,True
+Malik Beasley,4,7,24,0,Driving Layup Shot,2,3,28,True
+Malik Beasley,2,6,49,1,Driving Layup Shot,4,-17,39,True
+Malik Beasley,4,5,2,0,Driving Layup Shot,6,39,58,True
+Malik Beasley,4,2,11,1,Driving Layup Shot,2,18,21,True
+Malik Beasley,4,3,36,0,Driving Reverse Layup Shot,1,-1,17,True
+Malik Beasley,4,1,8,1,Dunk Shot,4,40,8,True
+Malik Beasley,4,0,39,1,Dunk Shot,1,13,13,True
+Malik Beasley,2,7,25,0,Floating Jump shot,4,-31,38,True
+Malik Beasley,2,7,23,0,Floating Jump shot,8,-76,29,True
+Malik Beasley,2,6,57,1,Floating Jump shot,12,105,63,True
+Malik Beasley,3,0,10,0,Floating Jump shot,7,43,57,True
+Malik Beasley,4,4,0,0,Jump Bank Shot,8,83,13,True
+Malik Beasley,2,9,19,1,Jump Shot,25,111,227,False
+Malik Beasley,4,1,5,1,Jump Shot,22,-228,15,False
+Malik Beasley,4,7,5,1,Jump Shot,26,-178,203,False
+Malik Beasley,4,1,52,0,Jump Shot,25,-128,225,False
+Malik Beasley,2,8,29,0,Jump Shot,15,158,-22,True
+Malik Beasley,2,6,46,1,Jump Shot,23,232,11,False
+Malik Beasley,4,8,46,1,Jump Shot,24,-182,163,False
+Malik Beasley,2,3,14,0,Jump Shot,22,222,0,False
+Malik Beasley,1,0,8,1,Jump Shot,24,174,173,False
+Malik Beasley,2,11,43,0,Jump Shot,22,222,32,False
+Malik Beasley,2,9,41,0,Jump Shot,24,184,168,False
+Malik Beasley,2,8,56,1,Jump Shot,25,41,255,False
+Malik Beasley,3,2,38,0,Jump Shot,25,178,179,False
+Malik Beasley,1,0,7,1,Jump Shot,23,230,3,False
+Malik Beasley,3,0,0,0,Jump Shot,24,-218,117,False
+Malik Beasley,3,0,49,0,Jump Shot,24,232,87,False
+Malik Beasley,2,1,40,0,Jump Shot,25,-165,195,False
+Malik Beasley,2,11,22,1,Jump Shot,24,-176,172,False
+Malik Beasley,4,3,5,0,Jump Shot,26,-107,239,False
+Malik Beasley,4,3,10,0,Jump Shot,26,-104,243,False
+Malik Beasley,4,9,24,0,Jump Shot,22,-226,18,False
+Malik Beasley,2,5,54,0,Jump Shot,25,-174,188,False
+Malik Beasley,1,3,54,0,Jump Shot,23,225,60,False
+Malik Beasley,1,3,0,0,Jump Shot,25,187,168,False
+Malik Beasley,3,1,52,1,Jump Shot,23,214,105,False
+Malik Beasley,1,0,1,0,Jump Shot,22,228,21,False
+Malik Beasley,4,7,58,0,Jump Shot,23,-229,55,False
+Malik Beasley,2,9,22,0,Jump Shot,24,-80,235,False
+Malik Beasley,4,8,24,0,Jump Shot,25,139,215,False
+Malik Beasley,2,11,25,1,Jump Shot,22,228,20,False
+Malik Beasley,1,0,19,0,Jump Shot,26,-154,216,False
+Malik Beasley,2,9,59,1,Jump Shot,22,-223,4,False
+Malik Beasley,3,3,40,0,Jump Shot,24,-168,185,False
+Malik Beasley,4,10,27,0,Jump Shot,24,-144,197,False
+Malik Beasley,4,9,44,0,Jump Shot,24,234,65,False
+Malik Beasley,2,9,8,0,Jump Shot,22,-228,-10,False
+Malik Beasley,4,0,21,0,Jump Shot,11,-81,75,True
+Malik Beasley,3,1,53,0,Jump Shot,9,64,67,True
+Malik Beasley,4,11,14,0,Jump Shot,22,226,17,False
+Malik Beasley,2,8,42,0,Jump Shot,25,63,247,False
+Malik Beasley,1,2,14,0,Jump Shot,26,175,203,False
+Malik Beasley,4,6,44,1,Jump Shot,25,179,187,False
+Malik Beasley,2,2,1,0,Jump Shot,23,230,65,False
+Malik Beasley,2,11,13,1,Jump Shot,15,-36,146,True
+Malik Beasley,2,5,17,1,Jump Shot,25,157,205,False
+Malik Beasley,2,8,10,0,Jump Shot,23,231,-2,False
+Malik Beasley,4,0,15,0,Jump Shot,26,-171,205,False
+Malik Beasley,4,11,25,1,Jump Shot,27,-165,214,False
+Malik Beasley,4,2,37,0,Jump Shot,9,62,78,True
+Malik Beasley,4,2,31,1,Jump Shot,25,140,218,False
+Malik Beasley,4,9,49,0,Jump Shot,24,-229,73,False
+Malik Beasley,4,2,3,1,Jump Shot,23,232,48,False
+Malik Beasley,4,2,26,0,Jump Shot,22,141,174,True
+Malik Beasley,4,2,56,1,Jump Shot,26,-130,236,False
+Malik Beasley,4,1,0,1,Jump Shot,20,56,200,True
+Malik Beasley,4,2,10,1,Jump Shot,26,191,179,False
+Malik Beasley,4,0,50,0,Jump Shot,21,128,177,True
+Malik Beasley,2,9,18,0,Jump Shot,25,-205,147,False
+Malik Beasley,2,7,28,0,Jump Shot,26,-166,202,False
+Malik Beasley,2,9,29,0,Jump Shot,26,-147,226,False
+Malik Beasley,4,6,35,0,Jump Shot,23,-234,16,False
+Malik Beasley,4,9,21,0,Jump Shot,22,-226,5,False
+Malik Beasley,2,11,2,0,Jump Shot,24,-217,108,False
+Malik Beasley,3,4,26,1,Jump Shot,23,237,20,False
+Malik Beasley,4,11,0,0,Jump Shot,25,20,257,False
+Malik Beasley,2,5,25,0,Jump Shot,24,172,176,False
+Malik Beasley,3,0,17,0,Jump Shot,25,49,248,False
+Malik Beasley,4,8,17,0,Jump Shot,23,237,9,False
+Malik Beasley,2,6,34,0,Jump Shot,25,-57,253,False
+Malik Beasley,2,8,30,0,Jump Shot,25,-130,217,False
+Malik Beasley,2,8,1,1,Jump Shot,25,182,179,False
+Malik Beasley,2,10,56,0,Jump Shot,14,-120,88,True
+Malik Beasley,2,9,2,0,Jump Shot,23,-226,60,False
+Malik Beasley,4,0,36,1,Jump Shot,25,149,207,False
+Malik Beasley,2,7,59,0,Jump Shot,25,-123,221,False
+Malik Beasley,4,0,57,1,Jump Shot,24,-96,222,False
+Malik Beasley,2,6,53,1,Layup Shot,2,-6,26,True
+Malik Beasley,4,7,5,0,Layup Shot,5,-51,26,True
+Malik Beasley,1,3,5,0,Layup Shot,1,-5,13,True
+Malik Beasley,4,0,44,0,Layup Shot,2,13,26,True
+Malik Beasley,2,8,58,0,Layup Shot,2,-13,16,True
+Malik Beasley,4,5,25,0,Layup Shot,6,60,19,True
+Malik Beasley,2,2,1,0,Layup Shot,4,31,28,True
+Malik Beasley,2,6,39,1,Layup Shot,2,-16,13,True
+Malik Beasley,2,11,38,0,Pullup Jump shot,22,135,181,True
+Malik Beasley,4,1,3,1,Pullup Jump shot,11,-92,71,True
+Malik Beasley,1,1,55,0,Pullup Jump shot,25,-210,143,False
+Malik Beasley,2,8,21,0,Pullup Jump shot,17,0,178,True
+Malik Beasley,1,1,13,0,Pullup Jump shot,18,-106,151,True
+Malik Beasley,4,0,18,1,Pullup Jump shot,19,-175,91,True
+Malik Beasley,4,9,13,1,Pullup Jump shot,19,-16,196,True
+Malik Beasley,2,11,26,1,Pullup Jump shot,16,-158,-26,True
+Malik Beasley,3,7,9,0,Pullup Jump shot,20,-98,185,True
+Malik Beasley,4,2,5,0,Pullup Jump shot,18,-51,174,True
+Malik Beasley,4,7,10,0,Pullup Jump shot,21,-4,213,True
+Malik Beasley,2,9,13,1,Pullup Jump shot,20,139,152,True
+Malik Beasley,3,2,55,0,Pullup Jump shot,15,32,152,True
+Malik Beasley,4,10,44,0,Pullup Jump shot,14,128,78,True
+Malik Beasley,4,9,56,1,Pullup Jump shot,17,-147,97,True
+Malik Beasley,1,2,57,1,Putback Layup Shot,2,-2,20,True
+Malik Beasley,3,0,40,0,Reverse Layup Shot,5,55,0,True
+Malik Beasley,3,1,0,1,Running Dunk Shot,1,-2,15,True
+Malik Beasley,4,2,14,1,Running Dunk Shot,1,-7,15,True
+Malik Beasley,1,0,48,1,Running Dunk Shot,2,-2,21,True
+Malik Beasley,1,2,24,1,Running Dunk Shot,1,13,10,True
+Malik Beasley,4,6,17,0,Running Jump Shot,25,144,209,False
+Malik Beasley,3,3,49,0,Running Jump Shot,12,3,127,True
+Malik Beasley,4,1,6,1,Running Jump Shot,6,65,13,True
+Malik Beasley,4,7,51,0,Running Layup Shot,2,-9,23,True
+Malik Beasley,4,10,5,0,Running Layup Shot,4,41,22,True
+Malik Beasley,1,2,12,1,Running Layup Shot,0,3,-4,True
+Malik Beasley,4,0,40,1,Running Layup Shot,1,-6,11,True
+Malik Beasley,2,9,46,1,Running Layup Shot,1,-3,17,True
+Malik Beasley,4,11,38,1,Running Layup Shot,2,-1,22,True
+Malik Beasley,2,5,16,1,Running Layup Shot,2,-22,17,True
+Malik Beasley,4,2,39,0,Running Layup Shot,2,1,27,True
+Malik Beasley,2,9,31,1,Running Layup Shot,5,49,32,True
+Malik Beasley,4,0,24,0,Running Layup Shot,6,58,27,True
+Malik Beasley,2,8,5,0,Step Back Jump shot,25,-8,253,False
+Malik Beasley,4,0,27,0,Step Back Jump shot,23,-225,67,False
+Malik Beasley,1,3,47,1,Tip Layup Shot,0,0,-6,True

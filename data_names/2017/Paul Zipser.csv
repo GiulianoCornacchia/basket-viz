@@ -1,0 +1,224 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Paul Zipser,2,6,46,1,Alley Oop Dunk Shot,0,2,7,True
+Paul Zipser,3,8,34,1,Alley Oop Layup shot,1,11,-11,True
+Paul Zipser,4,1,29,1,Alley Oop Layup shot,1,-7,8,True
+Paul Zipser,2,6,44,1,Cutting Finger Roll Layup Shot,1,2,14,True
+Paul Zipser,4,0,52,1,Cutting Layup Shot,0,5,4,True
+Paul Zipser,4,4,8,1,Driving Dunk Shot,0,3,5,True
+Paul Zipser,2,9,54,1,Driving Dunk Shot,0,5,-1,True
+Paul Zipser,1,10,29,0,Driving Floating Bank Jump Shot,3,-26,15,True
+Paul Zipser,4,9,41,0,Driving Floating Jump Shot,4,20,43,True
+Paul Zipser,1,7,26,0,Driving Floating Jump Shot,5,36,41,True
+Paul Zipser,2,6,26,1,Driving Floating Jump Shot,7,30,73,True
+Paul Zipser,2,10,3,0,Driving Floating Jump Shot,6,17,66,True
+Paul Zipser,2,5,7,0,Driving Floating Jump Shot,7,50,59,True
+Paul Zipser,2,10,39,0,Driving Floating Jump Shot,6,-62,19,True
+Paul Zipser,2,8,21,0,Driving Floating Jump Shot,4,9,47,True
+Paul Zipser,1,1,54,0,Driving Floating Jump Shot,2,18,17,True
+Paul Zipser,2,8,59,1,Driving Layup Shot,1,-19,5,True
+Paul Zipser,3,1,34,0,Driving Layup Shot,6,64,7,True
+Paul Zipser,3,3,6,1,Driving Layup Shot,1,11,11,True
+Paul Zipser,4,9,46,0,Driving Layup Shot,6,-67,18,True
+Paul Zipser,4,9,43,0,Driving Layup Shot,2,6,27,True
+Paul Zipser,1,9,39,1,Driving Layup Shot,2,24,10,True
+Paul Zipser,4,4,51,0,Driving Layup Shot,1,-3,17,True
+Paul Zipser,1,1,12,1,Driving Reverse Layup Shot,4,-5,46,True
+Paul Zipser,2,4,59,0,Driving Reverse Layup Shot,0,-4,-1,True
+Paul Zipser,3,9,58,1,Driving Reverse Layup Shot,1,-14,-1,True
+Paul Zipser,2,6,20,1,Dunk Shot,0,5,8,True
+Paul Zipser,4,0,8,1,Dunk Shot,1,13,13,True
+Paul Zipser,4,10,15,1,Fadeaway Jump Shot,15,-150,30,True
+Paul Zipser,2,3,56,0,Fadeaway Jump Shot,25,193,159,False
+Paul Zipser,1,3,51,0,Fadeaway Jump Shot,4,23,41,True
+Paul Zipser,3,1,40,0,Floating Jump shot,10,-36,96,True
+Paul Zipser,1,9,24,1,Floating Jump shot,9,-4,95,True
+Paul Zipser,4,11,0,0,Floating Jump shot,9,-74,63,True
+Paul Zipser,4,7,35,0,Floating Jump shot,6,-37,59,True
+Paul Zipser,4,10,10,1,Floating Jump shot,14,-51,133,True
+Paul Zipser,1,6,23,1,Jump Bank Shot,4,-25,34,True
+Paul Zipser,2,3,36,1,Jump Shot,25,-169,186,False
+Paul Zipser,3,11,47,0,Jump Shot,25,-192,172,False
+Paul Zipser,3,9,8,1,Jump Shot,24,126,213,False
+Paul Zipser,4,0,33,0,Jump Shot,22,-227,31,False
+Paul Zipser,2,7,51,1,Jump Shot,24,-137,206,False
+Paul Zipser,2,6,27,1,Jump Shot,27,-172,212,False
+Paul Zipser,1,5,31,1,Jump Shot,15,37,148,True
+Paul Zipser,2,4,59,1,Jump Shot,27,27,270,False
+Paul Zipser,4,4,55,0,Jump Shot,26,-119,232,False
+Paul Zipser,4,8,26,1,Jump Shot,27,-128,238,False
+Paul Zipser,3,2,16,1,Jump Shot,24,85,231,False
+Paul Zipser,4,3,15,1,Jump Shot,23,230,38,False
+Paul Zipser,4,2,18,0,Jump Shot,23,-233,19,False
+Paul Zipser,2,7,43,0,Jump Shot,22,229,-20,False
+Paul Zipser,2,10,56,0,Jump Shot,20,-33,205,True
+Paul Zipser,4,6,27,0,Jump Shot,25,163,193,False
+Paul Zipser,2,6,6,0,Jump Shot,25,113,228,False
+Paul Zipser,4,10,57,0,Jump Shot,16,-157,45,True
+Paul Zipser,4,8,7,0,Jump Shot,23,-230,0,False
+Paul Zipser,2,8,29,1,Jump Shot,25,104,235,False
+Paul Zipser,2,10,6,1,Jump Shot,25,93,237,False
+Paul Zipser,2,6,52,0,Jump Shot,23,-230,63,False
+Paul Zipser,4,11,21,0,Jump Shot,18,-179,-25,True
+Paul Zipser,2,9,13,1,Jump Shot,22,-228,27,False
+Paul Zipser,3,0,39,0,Jump Shot,27,10,273,False
+Paul Zipser,2,11,47,1,Jump Shot,22,-223,-2,False
+Paul Zipser,2,7,49,1,Jump Shot,15,150,-7,True
+Paul Zipser,2,6,39,0,Jump Shot,24,-216,120,False
+Paul Zipser,4,9,3,0,Jump Shot,25,-150,212,False
+Paul Zipser,4,1,5,0,Jump Shot,27,-85,258,False
+Paul Zipser,4,2,24,1,Jump Shot,25,-106,237,False
+Paul Zipser,4,9,57,0,Jump Shot,11,5,117,True
+Paul Zipser,4,4,8,1,Jump Shot,23,-235,6,False
+Paul Zipser,4,11,3,0,Jump Shot,26,9,260,False
+Paul Zipser,2,6,28,1,Jump Shot,23,-231,-15,False
+Paul Zipser,4,3,2,1,Jump Shot,24,92,232,False
+Paul Zipser,4,11,37,0,Jump Shot,13,134,25,True
+Paul Zipser,2,8,18,0,Jump Shot,10,-84,71,True
+Paul Zipser,2,10,16,0,Jump Shot,28,-220,186,False
+Paul Zipser,1,7,33,1,Jump Shot,24,-114,220,False
+Paul Zipser,1,4,50,0,Jump Shot,24,-92,227,False
+Paul Zipser,3,7,5,0,Jump Shot,25,143,212,False
+Paul Zipser,1,11,24,1,Jump Shot,26,153,211,False
+Paul Zipser,2,2,29,0,Jump Shot,2,12,24,True
+Paul Zipser,3,8,32,0,Jump Shot,24,130,212,False
+Paul Zipser,3,9,44,0,Jump Shot,24,86,233,False
+Paul Zipser,2,3,30,0,Jump Shot,23,236,0,False
+Paul Zipser,1,8,50,0,Jump Shot,22,27,224,True
+Paul Zipser,2,2,10,0,Jump Shot,25,-212,138,False
+Paul Zipser,3,11,11,0,Jump Shot,28,109,258,False
+Paul Zipser,4,2,39,0,Jump Shot,26,68,261,False
+Paul Zipser,1,7,23,0,Jump Shot,25,-148,211,False
+Paul Zipser,3,9,0,0,Jump Shot,10,-103,-17,True
+Paul Zipser,3,9,32,0,Jump Shot,24,217,117,False
+Paul Zipser,2,5,4,1,Jump Shot,24,-76,235,False
+Paul Zipser,3,5,53,0,Jump Shot,13,129,21,True
+Paul Zipser,4,2,43,1,Jump Shot,23,-234,-21,False
+Paul Zipser,1,8,8,1,Jump Shot,24,-29,247,False
+Paul Zipser,2,10,35,1,Jump Shot,20,204,-6,True
+Paul Zipser,2,8,54,0,Jump Shot,25,-100,235,False
+Paul Zipser,4,6,28,0,Jump Shot,22,-228,-13,False
+Paul Zipser,4,8,44,0,Jump Shot,25,26,249,False
+Paul Zipser,2,7,49,0,Jump Shot,25,-127,216,False
+Paul Zipser,2,11,33,0,Jump Shot,24,-140,205,False
+Paul Zipser,1,1,23,1,Jump Shot,25,-128,221,False
+Paul Zipser,2,8,29,1,Jump Shot,25,171,189,False
+Paul Zipser,2,11,0,0,Jump Shot,22,-228,0,False
+Paul Zipser,2,10,1,1,Jump Shot,24,-116,220,False
+Paul Zipser,3,2,38,0,Jump Shot,25,202,159,False
+Paul Zipser,4,7,7,0,Jump Shot,25,-154,199,False
+Paul Zipser,4,11,38,0,Jump Shot,25,-51,253,False
+Paul Zipser,2,7,21,0,Jump Shot,21,-101,195,True
+Paul Zipser,2,8,46,0,Jump Shot,25,-191,164,False
+Paul Zipser,4,7,46,1,Jump Shot,26,139,231,False
+Paul Zipser,2,8,20,0,Jump Shot,24,-225,104,False
+Paul Zipser,2,7,11,1,Jump Shot,19,-3,198,True
+Paul Zipser,1,0,0,0,Jump Shot,20,115,167,True
+Paul Zipser,4,9,49,0,Jump Shot,25,-171,184,False
+Paul Zipser,2,0,36,0,Jump Shot,25,208,140,False
+Paul Zipser,2,0,54,0,Jump Shot,6,16,66,True
+Paul Zipser,4,2,33,0,Jump Shot,17,125,116,True
+Paul Zipser,4,0,7,0,Jump Shot,26,-141,220,False
+Paul Zipser,2,0,19,0,Jump Shot,24,-206,125,False
+Paul Zipser,4,1,1,0,Jump Shot,11,-93,68,True
+Paul Zipser,4,2,13,0,Jump Shot,17,172,7,True
+Paul Zipser,3,0,41,0,Jump Shot,25,171,187,False
+Paul Zipser,1,7,21,0,Jump Shot,24,193,146,False
+Paul Zipser,1,7,52,0,Jump Shot,19,-145,137,True
+Paul Zipser,1,3,43,0,Jump Shot,26,125,229,False
+Paul Zipser,4,8,46,0,Jump Shot,21,-190,104,True
+Paul Zipser,4,9,44,0,Jump Shot,25,89,242,False
+Paul Zipser,2,7,59,0,Jump Shot,22,228,-2,False
+Paul Zipser,4,8,33,0,Jump Shot,26,-86,252,False
+Paul Zipser,4,7,35,0,Jump Shot,25,-149,203,False
+Paul Zipser,2,5,15,0,Jump Shot,9,-74,67,True
+Paul Zipser,2,9,46,1,Jump Shot,26,4,263,False
+Paul Zipser,4,0,55,1,Jump Shot,26,-100,247,False
+Paul Zipser,4,11,14,0,Jump Shot,19,-78,176,True
+Paul Zipser,1,8,0,1,Jump Shot,23,229,53,False
+Paul Zipser,2,7,20,0,Jump Shot,25,-90,241,False
+Paul Zipser,1,11,2,0,Jump Shot,17,-179,-5,True
+Paul Zipser,3,10,18,0,Jump Shot,25,201,160,False
+Paul Zipser,3,9,47,0,Jump Shot,18,187,7,True
+Paul Zipser,2,6,57,0,Jump Shot,19,145,127,True
+Paul Zipser,2,0,0,0,Jump Shot,22,148,171,True
+Paul Zipser,1,11,18,0,Jump Shot,16,133,92,True
+Paul Zipser,4,0,16,0,Jump Shot,5,40,38,True
+Paul Zipser,2,5,15,1,Jump Shot,26,-21,267,False
+Paul Zipser,3,10,39,0,Jump Shot,29,-112,277,False
+Paul Zipser,3,4,2,0,Jump Shot,24,-113,215,False
+Paul Zipser,2,2,35,0,Jump Shot,14,53,138,True
+Paul Zipser,2,0,51,1,Jump Shot,25,-106,231,False
+Paul Zipser,1,4,13,0,Jump Shot,11,32,106,True
+Paul Zipser,1,10,28,0,Jump Shot,20,-116,168,True
+Paul Zipser,3,9,53,0,Jump Shot,25,-209,149,False
+Paul Zipser,4,11,35,1,Jump Shot,19,192,48,True
+Paul Zipser,2,6,35,1,Jump Shot,21,132,171,True
+Paul Zipser,2,7,44,0,Jump Shot,15,-146,41,True
+Paul Zipser,2,11,44,0,Jump Shot,14,139,40,True
+Paul Zipser,2,8,6,1,Jump Shot,26,-222,137,False
+Paul Zipser,4,7,14,1,Jump Shot,23,-231,10,False
+Paul Zipser,2,11,0,0,Jump Shot,26,148,225,False
+Paul Zipser,1,0,0,0,Jump Shot,17,169,20,True
+Paul Zipser,4,4,16,0,Jump Shot,24,130,207,False
+Paul Zipser,4,4,47,0,Jump Shot,25,189,175,False
+Paul Zipser,3,4,20,0,Jump Shot,26,-111,242,False
+Paul Zipser,2,7,54,1,Jump Shot,25,157,204,False
+Paul Zipser,4,10,6,1,Jump Shot,9,-34,91,True
+Paul Zipser,4,8,32,0,Jump Shot,23,-230,-3,False
+Paul Zipser,4,11,24,0,Jump Shot,22,-223,-14,False
+Paul Zipser,3,0,25,0,Jump Shot,6,20,57,True
+Paul Zipser,1,1,27,1,Jump Shot,12,34,125,True
+Paul Zipser,4,7,53,0,Jump Shot,25,158,196,False
+Paul Zipser,1,2,44,0,Jump Shot,22,-223,19,False
+Paul Zipser,2,11,38,1,Jump Shot,21,-32,211,True
+Paul Zipser,3,2,11,1,Jump Shot,26,-128,230,False
+Paul Zipser,2,0,28,1,Jump Shot,26,2,261,False
+Paul Zipser,3,1,37,1,Jump Shot,24,-192,157,False
+Paul Zipser,2,10,12,1,Jump Shot,23,235,9,False
+Paul Zipser,4,11,46,0,Jump Shot,25,-158,204,False
+Paul Zipser,2,11,15,0,Jump Shot,19,81,175,True
+Paul Zipser,2,10,34,0,Jump Shot,25,143,216,False
+Paul Zipser,2,0,50,0,Jump Shot,25,157,199,False
+Paul Zipser,2,6,58,0,Jump Shot,26,-160,205,False
+Paul Zipser,2,9,46,0,Jump Shot,23,-224,59,False
+Paul Zipser,2,8,56,0,Layup Shot,1,1,10,True
+Paul Zipser,3,1,19,0,Layup Shot,1,0,19,True
+Paul Zipser,3,7,31,0,Layup Shot,1,18,7,True
+Paul Zipser,2,7,13,0,Layup Shot,3,33,19,True
+Paul Zipser,1,11,5,1,Layup Shot,1,-9,13,True
+Paul Zipser,1,9,43,0,Layup Shot,2,-8,22,True
+Paul Zipser,4,3,32,0,Layup Shot,3,-22,26,True
+Paul Zipser,4,5,48,0,Layup Shot,1,6,13,True
+Paul Zipser,4,0,33,0,Layup Shot,3,5,32,True
+Paul Zipser,3,2,32,1,Layup Shot,2,-6,20,True
+Paul Zipser,1,11,39,1,Layup Shot,4,-40,13,True
+Paul Zipser,3,9,2,0,Pullup Jump shot,25,-103,237,False
+Paul Zipser,2,6,26,0,Pullup Jump shot,17,48,167,True
+Paul Zipser,4,7,29,1,Pullup Jump shot,21,42,212,True
+Paul Zipser,2,5,45,0,Pullup Jump shot,19,89,174,True
+Paul Zipser,3,1,33,1,Pullup Jump shot,19,-195,42,True
+Paul Zipser,4,11,9,1,Pullup Jump shot,19,-127,152,True
+Paul Zipser,4,10,21,0,Pullup Jump shot,16,2,161,True
+Paul Zipser,1,11,1,0,Pullup Jump shot,21,50,205,True
+Paul Zipser,4,10,59,0,Pullup Jump shot,17,73,157,True
+Paul Zipser,2,11,43,0,Pullup Jump shot,19,43,187,True
+Paul Zipser,2,4,42,0,Pullup Jump shot,22,6,229,True
+Paul Zipser,3,11,18,0,Pullup Jump shot,17,-153,79,True
+Paul Zipser,1,3,35,0,Pullup Jump shot,17,107,142,True
+Paul Zipser,4,7,44,1,Pullup Jump shot,11,-44,109,True
+Paul Zipser,3,7,18,0,Pullup Jump shot,22,153,163,True
+Paul Zipser,3,10,47,1,Pullup Jump shot,14,-73,127,True
+Paul Zipser,2,9,58,0,Pullup Jump shot,20,20,206,True
+Paul Zipser,3,0,21,0,Putback Layup Shot,2,3,26,True
+Paul Zipser,2,7,10,1,Reverse Layup Shot,0,-9,-1,True
+Paul Zipser,4,0,59,1,Reverse Layup Shot,1,-5,13,True
+Paul Zipser,2,2,55,1,Running Dunk Shot,0,5,-5,True
+Paul Zipser,4,9,32,0,Running Finger Roll Layup Shot,0,4,5,True
+Paul Zipser,2,9,2,0,Running Layup Shot,2,20,0,True
+Paul Zipser,4,1,17,0,Step Back Jump shot,19,43,190,True
+Paul Zipser,4,0,0,0,Step Back Jump shot,26,-130,226,False
+Paul Zipser,2,8,12,0,Step Back Jump shot,26,-81,254,False
+Paul Zipser,4,1,37,1,Tip Layup Shot,0,0,-6,True
+Paul Zipser,2,9,5,1,Turnaround Jump Shot,19,123,148,True
+Paul Zipser,4,0,7,0,Turnaround Jump Shot,21,215,-3,True
+Paul Zipser,4,8,25,0,Turnaround Jump Shot,8,-8,84,True

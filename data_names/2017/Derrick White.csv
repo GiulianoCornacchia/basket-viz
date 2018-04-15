@@ -1,0 +1,26 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Derrick White,1,6,13,1,Cutting Layup Shot,4,-1,44,True
+Derrick White,2,6,55,1,Driving Finger Roll Layup Shot,6,43,42,True
+Derrick White,3,4,40,1,Driving Floating Jump Shot,4,47,16,True
+Derrick White,1,4,45,0,Driving Floating Jump Shot,11,118,-1,True
+Derrick White,4,8,56,0,Driving Floating Jump Shot,6,61,34,True
+Derrick White,3,4,15,0,Driving Floating Jump Shot,6,2,65,True
+Derrick White,4,3,21,1,Driving Layup Shot,1,9,14,True
+Derrick White,4,11,48,0,Jump Shot,13,-60,116,True
+Derrick White,4,6,54,0,Jump Shot,26,104,243,False
+Derrick White,1,8,20,0,Jump Shot,26,-98,251,False
+Derrick White,4,11,9,0,Jump Shot,22,185,122,True
+Derrick White,4,6,35,1,Jump Shot,23,230,-13,False
+Derrick White,2,4,59,0,Jump Shot,18,71,168,True
+Derrick White,4,9,20,1,Jump Shot,25,113,233,False
+Derrick White,2,7,57,0,Jump Shot,26,-192,184,False
+Derrick White,4,2,32,0,Jump Shot,25,137,219,False
+Derrick White,1,0,7,1,Layup Shot,3,20,32,True
+Derrick White,4,8,45,0,Layup Shot,2,19,13,True
+Derrick White,4,0,38,1,Pullup Jump shot,25,-128,216,False
+Derrick White,4,2,42,0,Pullup Jump shot,12,-9,129,True
+Derrick White,4,3,44,1,Pullup Jump shot,24,7,246,False
+Derrick White,4,0,10,1,Pullup Jump shot,16,-144,85,True
+Derrick White,2,10,45,1,Running Jump Shot,10,96,52,True
+Derrick White,2,6,44,1,Tip Layup Shot,0,0,-6,True
+Derrick White,4,2,54,0,Turnaround Jump Shot,15,-153,43,True

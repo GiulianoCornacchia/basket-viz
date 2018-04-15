@@ -1,0 +1,79 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Meyers Leonard,4,0,23,1,Alley Oop Layup shot,0,0,2,True
+Meyers Leonard,4,6,55,0,Alley Oop Layup shot,3,-29,10,True
+Meyers Leonard,3,1,50,0,Alley Oop Layup shot,1,2,16,True
+Meyers Leonard,3,5,35,1,Cutting Dunk Shot,1,14,11,True
+Meyers Leonard,4,2,7,1,Cutting Dunk Shot,0,3,3,True
+Meyers Leonard,1,5,35,1,Cutting Dunk Shot,0,-6,0,True
+Meyers Leonard,1,5,44,1,Cutting Dunk Shot,1,5,15,True
+Meyers Leonard,4,0,22,1,Cutting Dunk Shot,0,1,5,True
+Meyers Leonard,3,7,34,1,Cutting Dunk Shot,0,5,4,True
+Meyers Leonard,1,9,15,1,Cutting Layup Shot,0,0,-1,True
+Meyers Leonard,3,8,57,0,Driving Hook Shot,4,44,19,True
+Meyers Leonard,3,3,2,0,Driving Hook Shot,10,65,78,True
+Meyers Leonard,4,11,47,0,Driving Reverse Layup Shot,1,-10,3,True
+Meyers Leonard,4,7,54,1,Dunk Shot,0,1,5,True
+Meyers Leonard,2,1,15,0,Fadeaway Jump Shot,16,-112,116,True
+Meyers Leonard,2,6,0,1,Fadeaway Jump Shot,10,-98,38,True
+Meyers Leonard,1,2,44,1,Finger Roll Layup Shot,2,-19,10,True
+Meyers Leonard,4,10,0,0,Floating Jump shot,10,12,109,True
+Meyers Leonard,2,11,38,1,Floating Jump shot,8,-59,56,True
+Meyers Leonard,1,3,43,1,Floating Jump shot,10,60,80,True
+Meyers Leonard,2,4,51,1,Hook Shot,4,-11,41,True
+Meyers Leonard,3,1,19,1,Hook Shot,3,20,29,True
+Meyers Leonard,4,2,16,0,Hook Shot,1,-15,9,True
+Meyers Leonard,2,7,1,0,Jump Shot,16,-11,163,True
+Meyers Leonard,1,2,15,1,Jump Shot,9,-65,64,True
+Meyers Leonard,2,7,26,0,Jump Shot,24,78,236,False
+Meyers Leonard,2,10,48,0,Jump Shot,25,-103,237,False
+Meyers Leonard,1,1,43,0,Jump Shot,25,-63,251,False
+Meyers Leonard,2,8,50,1,Jump Shot,15,-51,151,True
+Meyers Leonard,4,9,48,1,Jump Shot,3,0,32,True
+Meyers Leonard,2,10,17,1,Jump Shot,18,17,182,True
+Meyers Leonard,2,8,14,0,Jump Shot,26,6,266,False
+Meyers Leonard,3,5,49,0,Jump Shot,25,120,222,False
+Meyers Leonard,3,2,10,0,Jump Shot,22,224,34,False
+Meyers Leonard,2,1,51,0,Jump Shot,17,-56,164,True
+Meyers Leonard,2,0,0,1,Jump Shot,24,-221,112,False
+Meyers Leonard,4,4,30,1,Jump Shot,24,-241,-7,False
+Meyers Leonard,2,1,5,0,Jump Shot,26,-68,255,False
+Meyers Leonard,2,3,46,0,Jump Shot,22,-222,32,False
+Meyers Leonard,4,1,11,1,Jump Shot,16,-155,42,True
+Meyers Leonard,4,2,17,1,Jump Shot,11,111,-17,True
+Meyers Leonard,3,10,11,0,Jump Shot,12,115,53,True
+Meyers Leonard,1,11,33,0,Jump Shot,12,-9,121,True
+Meyers Leonard,3,7,0,1,Jump Shot,26,76,250,False
+Meyers Leonard,2,4,23,1,Jump Shot,24,102,225,False
+Meyers Leonard,1,3,42,0,Jump Shot,27,-141,239,False
+Meyers Leonard,3,1,29,0,Jump Shot,25,158,198,False
+Meyers Leonard,2,11,31,1,Jump Shot,24,97,230,False
+Meyers Leonard,2,10,49,0,Jump Shot,25,9,251,False
+Meyers Leonard,4,6,51,1,Jump Shot,25,81,247,False
+Meyers Leonard,2,10,15,1,Jump Shot,15,25,152,True
+Meyers Leonard,4,9,53,1,Jump Shot,22,-223,1,False
+Meyers Leonard,2,9,14,0,Jump Shot,16,144,89,True
+Meyers Leonard,2,3,45,1,Jump Shot,14,-71,126,True
+Meyers Leonard,2,1,42,1,Jump Shot,24,-9,248,False
+Meyers Leonard,4,3,43,0,Jump Shot,25,-184,178,False
+Meyers Leonard,4,0,54,1,Jump Shot,14,137,43,True
+Meyers Leonard,4,9,42,1,Jump Shot,25,-13,251,False
+Meyers Leonard,1,1,7,1,Jump Shot,25,-61,246,False
+Meyers Leonard,4,9,58,1,Jump Shot,25,-11,252,False
+Meyers Leonard,3,2,9,0,Jump Shot,26,-16,263,False
+Meyers Leonard,4,10,52,0,Jump Shot,22,89,211,True
+Meyers Leonard,4,0,30,1,Jump Shot,16,24,161,True
+Meyers Leonard,1,5,10,0,Jump Shot,26,-167,206,False
+Meyers Leonard,2,8,32,0,Layup Shot,0,2,4,True
+Meyers Leonard,4,4,49,1,Layup Shot,1,3,18,True
+Meyers Leonard,1,5,4,1,Pullup Jump shot,21,-207,59,True
+Meyers Leonard,2,3,8,1,Pullup Jump shot,19,-84,174,True
+Meyers Leonard,2,0,31,0,Pullup Jump shot,24,93,223,False
+Meyers Leonard,4,1,51,1,Reverse Layup Shot,1,16,0,True
+Meyers Leonard,1,5,54,1,Running Dunk Shot,2,-2,25,True
+Meyers Leonard,1,4,38,1,Tip Layup Shot,0,0,-6,True
+Meyers Leonard,4,8,15,1,Tip Layup Shot,0,0,-6,True
+Meyers Leonard,2,9,31,1,Turnaround Fadeaway shot,12,-35,124,True
+Meyers Leonard,2,11,46,0,Turnaround Fadeaway shot,9,15,95,True
+Meyers Leonard,1,0,38,1,Turnaround Hook Shot,8,80,13,True
+Meyers Leonard,3,8,36,0,Turnaround Hook Shot,7,-20,75,True
+Meyers Leonard,1,8,14,1,Turnaround Jump Shot,17,-98,141,True

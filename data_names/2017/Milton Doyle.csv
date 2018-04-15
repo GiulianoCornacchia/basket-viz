@@ -1,0 +1,43 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Milton Doyle,4,8,3,0,Driving Floating Bank Jump Shot,9,78,53,True
+Milton Doyle,2,10,43,0,Driving Layup Shot,1,15,2,True
+Milton Doyle,4,4,35,0,Driving Layup Shot,8,73,37,True
+Milton Doyle,4,3,8,0,Driving Layup Shot,3,-6,38,True
+Milton Doyle,4,1,33,0,Driving Layup Shot,1,-13,-5,True
+Milton Doyle,2,5,9,1,Driving Layup Shot,2,20,2,True
+Milton Doyle,4,10,43,0,Driving Layup Shot,3,27,14,True
+Milton Doyle,4,7,31,1,Driving Layup Shot,1,0,14,True
+Milton Doyle,4,2,8,0,Driving Layup Shot,3,29,22,True
+Milton Doyle,2,9,36,0,Driving Layup Shot,0,-8,-1,True
+Milton Doyle,4,6,20,0,Floating Jump shot,8,54,71,True
+Milton Doyle,4,2,0,1,Floating Jump shot,6,18,59,True
+Milton Doyle,4,11,23,0,Jump Shot,27,99,261,False
+Milton Doyle,2,8,25,0,Jump Shot,27,-130,238,False
+Milton Doyle,4,2,0,0,Jump Shot,25,-194,169,False
+Milton Doyle,4,0,58,0,Jump Shot,22,-225,11,False
+Milton Doyle,1,0,0,0,Jump Shot,32,-95,315,False
+Milton Doyle,4,7,24,1,Jump Shot,24,-199,142,False
+Milton Doyle,4,9,16,1,Jump Shot,25,-26,251,False
+Milton Doyle,4,3,23,0,Jump Shot,7,74,26,True
+Milton Doyle,4,4,1,0,Jump Shot,24,185,158,False
+Milton Doyle,4,8,48,0,Jump Shot,26,108,238,False
+Milton Doyle,4,7,8,1,Jump Shot,24,-227,85,False
+Milton Doyle,2,11,16,0,Jump Shot,27,8,274,False
+Milton Doyle,4,0,36,0,Jump Shot,22,-222,43,False
+Milton Doyle,4,8,43,0,Jump Shot,25,-86,236,False
+Milton Doyle,2,11,23,0,Jump Shot,25,-203,148,False
+Milton Doyle,2,0,40,0,Jump Shot,17,-88,157,True
+Milton Doyle,4,9,4,0,Jump Shot,25,-185,171,False
+Milton Doyle,2,2,21,0,Jump Shot,25,-174,191,False
+Milton Doyle,4,0,9,1,Jump Shot,25,-20,253,False
+Milton Doyle,4,1,15,0,Layup Shot,5,38,45,True
+Milton Doyle,4,7,5,0,Layup Shot,1,-11,5,True
+Milton Doyle,3,0,51,1,Layup Shot,7,60,41,True
+Milton Doyle,4,0,46,0,Pullup Jump shot,7,61,45,True
+Milton Doyle,1,0,53,1,Putback Layup Shot,2,-23,7,True
+Milton Doyle,4,11,36,1,Running Finger Roll Layup Shot,2,-16,21,True
+Milton Doyle,4,3,12,0,Running Layup Shot,3,-39,5,True
+Milton Doyle,3,0,0,0,Running Pull-Up Jump Shot,42,-218,362,False
+Milton Doyle,4,9,46,0,Step Back Jump shot,24,230,75,False
+Milton Doyle,4,0,27,0,Step Back Jump shot,25,154,199,False
+Milton Doyle,4,5,58,1,Turnaround Fadeaway Bank Jump Shot,8,52,61,True

@@ -1,0 +1,359 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Shelvin Mack,4,10,22,1,Cutting Layup Shot,1,10,17,True
+Shelvin Mack,2,9,58,1,Cutting Layup Shot,2,-13,25,True
+Shelvin Mack,4,2,30,1,Cutting Layup Shot,3,11,36,True
+Shelvin Mack,3,1,34,1,Cutting Layup Shot,2,18,16,True
+Shelvin Mack,2,4,53,1,Cutting Layup Shot,1,14,5,True
+Shelvin Mack,3,0,5,0,Driving Finger Roll Layup Shot,3,-36,6,True
+Shelvin Mack,2,6,55,1,Driving Finger Roll Layup Shot,0,3,8,True
+Shelvin Mack,2,8,4,0,Driving Finger Roll Layup Shot,5,25,50,True
+Shelvin Mack,2,8,32,1,Driving Finger Roll Layup Shot,2,-21,14,True
+Shelvin Mack,3,1,51,1,Driving Finger Roll Layup Shot,3,8,29,True
+Shelvin Mack,4,4,41,1,Driving Floating Bank Jump Shot,2,15,22,True
+Shelvin Mack,2,8,6,1,Driving Floating Bank Jump Shot,8,82,32,True
+Shelvin Mack,2,9,14,0,Driving Floating Bank Jump Shot,7,70,20,True
+Shelvin Mack,4,8,28,1,Driving Floating Bank Jump Shot,5,39,45,True
+Shelvin Mack,3,4,44,0,Driving Floating Bank Jump Shot,12,-89,91,True
+Shelvin Mack,2,4,54,1,Driving Floating Jump Shot,8,3,82,True
+Shelvin Mack,4,6,8,0,Driving Floating Jump Shot,5,-3,57,True
+Shelvin Mack,3,3,48,1,Driving Floating Jump Shot,18,23,184,True
+Shelvin Mack,2,0,0,0,Driving Floating Jump Shot,7,-46,56,True
+Shelvin Mack,4,0,43,0,Driving Floating Jump Shot,3,8,32,True
+Shelvin Mack,1,0,35,0,Driving Floating Jump Shot,14,-22,140,True
+Shelvin Mack,4,10,58,0,Driving Floating Jump Shot,9,45,87,True
+Shelvin Mack,2,6,9,0,Driving Floating Jump Shot,2,22,17,True
+Shelvin Mack,1,1,43,0,Driving Floating Jump Shot,9,20,97,True
+Shelvin Mack,1,3,21,1,Driving Floating Jump Shot,12,2,125,True
+Shelvin Mack,3,4,40,0,Driving Floating Jump Shot,12,-50,117,True
+Shelvin Mack,4,10,7,0,Driving Floating Jump Shot,9,8,90,True
+Shelvin Mack,2,11,22,1,Driving Floating Jump Shot,9,40,83,True
+Shelvin Mack,1,2,37,1,Driving Floating Jump Shot,9,33,92,True
+Shelvin Mack,2,10,2,1,Driving Floating Jump Shot,13,14,131,True
+Shelvin Mack,1,0,0,0,Driving Floating Jump Shot,27,-59,273,False
+Shelvin Mack,4,10,35,1,Driving Floating Jump Shot,9,-3,92,True
+Shelvin Mack,2,7,44,1,Driving Floating Jump Shot,2,-27,10,True
+Shelvin Mack,4,10,57,1,Driving Floating Jump Shot,15,56,146,True
+Shelvin Mack,4,6,13,0,Driving Floating Jump Shot,6,-4,66,True
+Shelvin Mack,2,2,47,1,Driving Hook Shot,8,49,72,True
+Shelvin Mack,4,10,3,0,Driving Hook Shot,3,21,31,True
+Shelvin Mack,2,4,33,1,Driving Hook Shot,5,-11,57,True
+Shelvin Mack,4,8,9,1,Driving Layup Shot,2,-12,21,True
+Shelvin Mack,2,5,58,1,Driving Layup Shot,1,11,8,True
+Shelvin Mack,4,4,53,0,Driving Layup Shot,1,8,7,True
+Shelvin Mack,2,7,57,0,Driving Layup Shot,2,13,20,True
+Shelvin Mack,4,6,9,1,Driving Layup Shot,2,20,8,True
+Shelvin Mack,4,1,22,0,Driving Layup Shot,2,25,0,True
+Shelvin Mack,2,5,7,0,Driving Layup Shot,3,-1,31,True
+Shelvin Mack,3,4,32,1,Driving Layup Shot,2,19,11,True
+Shelvin Mack,4,9,4,1,Driving Layup Shot,1,2,16,True
+Shelvin Mack,4,0,0,1,Driving Layup Shot,1,0,17,True
+Shelvin Mack,4,11,2,0,Driving Layup Shot,4,-40,29,True
+Shelvin Mack,2,9,27,1,Driving Layup Shot,2,18,21,True
+Shelvin Mack,1,1,34,0,Driving Layup Shot,5,-49,11,True
+Shelvin Mack,2,11,22,1,Driving Layup Shot,3,-2,32,True
+Shelvin Mack,2,5,56,1,Driving Layup Shot,5,-2,50,True
+Shelvin Mack,2,9,20,0,Driving Layup Shot,5,22,51,True
+Shelvin Mack,2,11,16,0,Driving Layup Shot,3,-3,31,True
+Shelvin Mack,4,8,57,0,Driving Layup Shot,1,-13,12,True
+Shelvin Mack,4,1,35,1,Driving Layup Shot,2,-8,22,True
+Shelvin Mack,3,7,23,1,Driving Layup Shot,0,-6,6,True
+Shelvin Mack,3,0,30,0,Driving Layup Shot,1,-10,11,True
+Shelvin Mack,3,0,6,0,Driving Layup Shot,3,29,16,True
+Shelvin Mack,4,8,40,1,Driving Layup Shot,2,18,17,True
+Shelvin Mack,1,0,11,1,Driving Layup Shot,1,2,11,True
+Shelvin Mack,4,1,33,1,Driving Layup Shot,1,-11,16,True
+Shelvin Mack,2,10,41,1,Driving Layup Shot,1,9,14,True
+Shelvin Mack,3,4,53,0,Driving Layup Shot,4,11,42,True
+Shelvin Mack,3,2,22,1,Driving Layup Shot,2,-17,16,True
+Shelvin Mack,4,11,4,0,Driving Layup Shot,1,11,15,True
+Shelvin Mack,4,4,22,1,Driving Layup Shot,2,-11,26,True
+Shelvin Mack,4,9,26,0,Driving Layup Shot,5,36,41,True
+Shelvin Mack,4,0,27,1,Driving Layup Shot,0,-3,5,True
+Shelvin Mack,4,2,12,0,Driving Layup Shot,2,-18,13,True
+Shelvin Mack,2,8,5,1,Driving Layup Shot,0,0,5,True
+Shelvin Mack,2,10,1,1,Driving Layup Shot,0,5,5,True
+Shelvin Mack,1,0,8,0,Driving Layup Shot,2,11,17,True
+Shelvin Mack,3,8,27,0,Driving Layup Shot,4,41,10,True
+Shelvin Mack,3,0,12,0,Driving Layup Shot,2,17,20,True
+Shelvin Mack,2,10,38,1,Driving Layup Shot,1,-15,9,True
+Shelvin Mack,2,9,18,1,Driving Layup Shot,1,-12,13,True
+Shelvin Mack,2,9,42,1,Driving Layup Shot,3,22,21,True
+Shelvin Mack,2,9,40,0,Driving Layup Shot,5,-13,51,True
+Shelvin Mack,1,3,11,1,Driving Layup Shot,2,10,22,True
+Shelvin Mack,4,10,4,0,Driving Layup Shot,5,52,23,True
+Shelvin Mack,2,9,52,1,Driving Layup Shot,2,-15,14,True
+Shelvin Mack,4,8,42,0,Driving Layup Shot,5,47,28,True
+Shelvin Mack,4,8,8,0,Driving Layup Shot,4,43,10,True
+Shelvin Mack,2,5,16,1,Driving Layup Shot,2,-22,20,True
+Shelvin Mack,4,11,41,0,Driving Layup Shot,3,27,17,True
+Shelvin Mack,4,11,2,1,Driving Layup Shot,2,-4,20,True
+Shelvin Mack,4,0,41,1,Driving Layup Shot,3,16,27,True
+Shelvin Mack,2,10,18,1,Driving Layup Shot,4,40,24,True
+Shelvin Mack,4,11,8,0,Driving Layup Shot,0,3,5,True
+Shelvin Mack,1,0,44,0,Driving Layup Shot,1,-3,10,True
+Shelvin Mack,1,1,2,0,Driving Layup Shot,4,38,32,True
+Shelvin Mack,4,2,10,0,Driving Layup Shot,4,-32,27,True
+Shelvin Mack,4,8,10,1,Driving Layup Shot,1,-10,13,True
+Shelvin Mack,4,11,19,0,Driving Layup Shot,4,24,42,True
+Shelvin Mack,2,4,51,1,Driving Layup Shot,0,-5,5,True
+Shelvin Mack,2,9,20,1,Driving Layup Shot,0,-6,3,True
+Shelvin Mack,3,8,8,0,Driving Layup Shot,3,-6,33,True
+Shelvin Mack,4,7,35,1,Driving Layup Shot,3,-18,25,True
+Shelvin Mack,2,0,3,1,Driving Layup Shot,2,-13,22,True
+Shelvin Mack,4,6,24,1,Driving Layup Shot,1,0,12,True
+Shelvin Mack,2,6,33,1,Driving Layup Shot,1,13,4,True
+Shelvin Mack,4,11,23,1,Driving Layup Shot,3,29,21,True
+Shelvin Mack,4,2,12,1,Driving Layup Shot,1,-16,0,True
+Shelvin Mack,1,1,11,1,Driving Layup Shot,1,8,10,True
+Shelvin Mack,2,11,2,0,Driving Layup Shot,2,13,24,True
+Shelvin Mack,2,8,22,0,Driving Layup Shot,2,-3,24,True
+Shelvin Mack,4,7,36,1,Driving Layup Shot,3,-1,36,True
+Shelvin Mack,1,0,0,1,Driving Layup Shot,0,-4,8,True
+Shelvin Mack,2,8,56,1,Driving Layup Shot,0,6,6,True
+Shelvin Mack,4,8,11,1,Driving Layup Shot,0,-9,3,True
+Shelvin Mack,1,1,9,0,Driving Layup Shot,3,-6,36,True
+Shelvin Mack,4,9,54,1,Driving Layup Shot,2,-17,12,True
+Shelvin Mack,4,5,37,1,Driving Layup Shot,0,4,7,True
+Shelvin Mack,2,9,18,1,Driving Reverse Layup Shot,2,17,13,True
+Shelvin Mack,2,11,25,0,Driving Reverse Layup Shot,4,41,5,True
+Shelvin Mack,2,6,10,0,Driving Reverse Layup Shot,3,-32,18,True
+Shelvin Mack,2,3,36,0,Driving Reverse Layup Shot,2,-14,20,True
+Shelvin Mack,4,6,34,0,Fadeaway Jump Shot,10,-109,8,True
+Shelvin Mack,4,10,38,0,Fadeaway Jump Shot,28,180,217,False
+Shelvin Mack,4,3,58,1,Finger Roll Layup Shot,3,4,39,True
+Shelvin Mack,2,10,40,1,Finger Roll Layup Shot,0,-3,-2,True
+Shelvin Mack,4,7,44,1,Finger Roll Layup Shot,2,14,15,True
+Shelvin Mack,2,7,19,0,Finger Roll Layup Shot,1,3,17,True
+Shelvin Mack,3,3,20,1,Floating Jump shot,3,17,29,True
+Shelvin Mack,4,10,33,0,Floating Jump shot,9,52,83,True
+Shelvin Mack,2,6,11,0,Floating Jump shot,11,-79,87,True
+Shelvin Mack,3,8,42,0,Floating Jump shot,13,-77,105,True
+Shelvin Mack,2,11,0,1,Floating Jump shot,6,-16,62,True
+Shelvin Mack,2,7,6,0,Floating Jump shot,13,104,80,True
+Shelvin Mack,2,8,13,1,Floating Jump shot,10,0,106,True
+Shelvin Mack,3,3,2,1,Floating Jump shot,13,44,125,True
+Shelvin Mack,2,8,15,1,Floating Jump shot,10,18,106,True
+Shelvin Mack,4,7,31,0,Floating Jump shot,7,21,74,True
+Shelvin Mack,1,0,52,1,Floating Jump shot,7,56,55,True
+Shelvin Mack,2,10,50,0,Floating Jump shot,11,78,90,True
+Shelvin Mack,1,0,2,1,Floating Jump shot,8,47,72,True
+Shelvin Mack,4,6,53,1,Floating Jump shot,9,23,88,True
+Shelvin Mack,2,6,46,1,Floating Jump shot,11,-29,116,True
+Shelvin Mack,4,11,15,0,Floating Jump shot,7,40,65,True
+Shelvin Mack,4,4,1,0,Floating Jump shot,9,5,91,True
+Shelvin Mack,2,11,16,0,Floating Jump shot,10,59,86,True
+Shelvin Mack,4,10,59,0,Floating Jump shot,14,65,125,True
+Shelvin Mack,2,6,58,1,Floating Jump shot,10,-20,101,True
+Shelvin Mack,3,0,25,0,Floating Jump shot,5,47,22,True
+Shelvin Mack,2,9,1,0,Floating Jump shot,12,52,109,True
+Shelvin Mack,4,2,58,0,Floating Jump shot,7,-8,71,True
+Shelvin Mack,2,9,33,0,Floating Jump shot,16,88,135,True
+Shelvin Mack,2,7,38,1,Floating Jump shot,12,-3,126,True
+Shelvin Mack,4,0,47,0,Floating Jump shot,7,2,79,True
+Shelvin Mack,2,8,16,0,Floating Jump shot,5,-46,23,True
+Shelvin Mack,1,0,13,0,Floating Jump shot,12,-82,97,True
+Shelvin Mack,2,10,5,1,Floating Jump shot,15,-43,154,True
+Shelvin Mack,2,9,13,0,Floating Jump shot,11,43,108,True
+Shelvin Mack,2,6,51,0,Floating Jump shot,13,90,97,True
+Shelvin Mack,4,10,56,0,Floating Jump shot,13,100,92,True
+Shelvin Mack,4,8,21,0,Floating Jump shot,7,6,72,True
+Shelvin Mack,2,10,7,0,Floating Jump shot,10,37,102,True
+Shelvin Mack,2,11,5,0,Floating Jump shot,10,-102,0,True
+Shelvin Mack,4,9,24,1,Floating Jump shot,11,-38,113,True
+Shelvin Mack,3,1,40,0,Floating Jump shot,11,69,89,True
+Shelvin Mack,2,9,43,0,Floating Jump shot,1,6,18,True
+Shelvin Mack,4,9,23,0,Floating Jump shot,1,-5,9,True
+Shelvin Mack,4,4,51,1,Floating Jump shot,3,20,23,True
+Shelvin Mack,4,6,16,1,Floating Jump shot,2,11,22,True
+Shelvin Mack,2,0,53,0,Hook Shot,9,70,57,True
+Shelvin Mack,4,11,16,1,Jump Shot,24,-231,75,False
+Shelvin Mack,2,11,42,0,Jump Shot,8,-38,73,True
+Shelvin Mack,2,10,24,1,Jump Shot,26,-136,224,False
+Shelvin Mack,2,8,52,0,Jump Shot,27,-84,257,False
+Shelvin Mack,3,0,31,0,Jump Shot,27,129,238,False
+Shelvin Mack,2,6,3,0,Jump Shot,27,-27,277,False
+Shelvin Mack,4,7,25,0,Jump Shot,17,118,132,True
+Shelvin Mack,2,3,56,0,Jump Shot,25,123,229,False
+Shelvin Mack,2,0,37,1,Jump Shot,23,-230,-8,False
+Shelvin Mack,4,9,56,0,Jump Shot,27,-174,209,False
+Shelvin Mack,4,3,50,1,Jump Shot,24,63,237,False
+Shelvin Mack,2,10,35,0,Jump Shot,13,74,109,True
+Shelvin Mack,4,0,28,0,Jump Shot,24,106,226,False
+Shelvin Mack,4,6,58,0,Jump Shot,26,135,223,False
+Shelvin Mack,4,2,58,1,Jump Shot,15,42,152,True
+Shelvin Mack,1,0,51,1,Jump Shot,22,221,40,False
+Shelvin Mack,1,1,48,0,Jump Shot,25,-125,227,False
+Shelvin Mack,4,5,33,0,Jump Shot,22,-226,19,False
+Shelvin Mack,4,10,31,0,Jump Shot,25,-98,235,False
+Shelvin Mack,1,1,59,0,Jump Shot,24,-194,153,False
+Shelvin Mack,3,3,25,0,Jump Shot,25,157,207,False
+Shelvin Mack,3,0,41,0,Jump Shot,25,-225,124,False
+Shelvin Mack,4,4,56,1,Jump Shot,26,-52,255,False
+Shelvin Mack,2,0,0,0,Jump Shot,42,-157,399,False
+Shelvin Mack,3,3,8,1,Jump Shot,24,230,92,False
+Shelvin Mack,4,9,2,0,Jump Shot,25,-189,164,False
+Shelvin Mack,3,3,57,1,Jump Shot,25,-85,243,False
+Shelvin Mack,2,4,57,1,Jump Shot,26,13,263,False
+Shelvin Mack,3,2,19,0,Jump Shot,25,212,141,False
+Shelvin Mack,4,3,48,0,Jump Shot,22,-166,147,True
+Shelvin Mack,2,5,7,0,Jump Shot,25,-111,230,False
+Shelvin Mack,2,1,16,0,Jump Shot,23,236,4,False
+Shelvin Mack,4,5,42,0,Jump Shot,26,-111,245,False
+Shelvin Mack,2,11,16,0,Jump Shot,24,69,238,False
+Shelvin Mack,2,10,2,0,Jump Shot,26,-136,226,False
+Shelvin Mack,1,0,35,1,Jump Shot,27,3,271,False
+Shelvin Mack,4,0,10,0,Jump Shot,23,-232,48,False
+Shelvin Mack,2,9,9,1,Jump Shot,25,-120,227,False
+Shelvin Mack,2,9,52,1,Jump Shot,24,-242,9,False
+Shelvin Mack,1,0,0,0,Jump Shot,22,224,37,False
+Shelvin Mack,4,10,37,0,Jump Shot,26,-112,244,False
+Shelvin Mack,3,2,22,0,Jump Shot,26,64,252,False
+Shelvin Mack,4,9,58,1,Jump Shot,25,-107,227,False
+Shelvin Mack,3,2,51,1,Jump Shot,26,-30,261,False
+Shelvin Mack,2,7,34,1,Jump Shot,26,-18,261,False
+Shelvin Mack,4,9,44,0,Jump Shot,22,-112,197,True
+Shelvin Mack,4,5,56,0,Jump Shot,28,-115,262,False
+Shelvin Mack,2,11,19,0,Jump Shot,24,57,241,False
+Shelvin Mack,3,0,30,0,Jump Shot,25,117,225,False
+Shelvin Mack,1,1,29,1,Jump Shot,26,-139,222,False
+Shelvin Mack,4,8,48,0,Jump Shot,26,68,252,False
+Shelvin Mack,3,3,37,0,Jump Shot,24,-209,122,False
+Shelvin Mack,4,5,29,1,Jump Shot,17,81,155,True
+Shelvin Mack,4,9,46,0,Jump Shot,27,197,195,False
+Shelvin Mack,4,4,45,0,Jump Shot,26,72,258,False
+Shelvin Mack,4,0,32,0,Jump Shot,25,97,235,False
+Shelvin Mack,4,11,41,0,Jump Shot,9,81,52,True
+Shelvin Mack,2,7,1,0,Jump Shot,27,17,272,False
+Shelvin Mack,4,3,24,0,Jump Shot,25,-117,226,False
+Shelvin Mack,2,7,48,1,Jump Shot,10,88,48,True
+Shelvin Mack,2,9,7,0,Jump Shot,24,-188,162,False
+Shelvin Mack,4,10,57,0,Jump Shot,23,231,60,False
+Shelvin Mack,2,5,51,1,Jump Shot,26,-27,261,False
+Shelvin Mack,2,3,58,1,Jump Shot,25,-26,258,False
+Shelvin Mack,2,4,36,0,Jump Shot,27,-46,276,False
+Shelvin Mack,4,7,0,1,Jump Shot,24,150,199,False
+Shelvin Mack,4,10,37,0,Jump Shot,25,109,226,False
+Shelvin Mack,4,10,2,0,Jump Shot,23,-232,26,False
+Shelvin Mack,4,9,22,0,Jump Shot,14,-110,90,True
+Shelvin Mack,2,10,38,0,Jump Shot,5,44,31,True
+Shelvin Mack,2,11,4,0,Jump Shot,22,-90,211,True
+Shelvin Mack,4,4,53,0,Jump Shot,25,-87,240,False
+Shelvin Mack,4,10,29,0,Jump Shot,9,-30,94,True
+Shelvin Mack,2,10,43,0,Jump Shot,26,86,249,False
+Shelvin Mack,4,10,18,1,Jump Shot,18,-133,123,True
+Shelvin Mack,4,0,10,1,Jump Shot,12,30,117,True
+Shelvin Mack,4,6,52,0,Jump Shot,26,13,268,False
+Shelvin Mack,2,9,56,0,Jump Shot,10,-101,15,True
+Shelvin Mack,4,7,3,0,Jump Shot,14,-66,131,True
+Shelvin Mack,2,5,3,0,Jump Shot,26,-146,216,False
+Shelvin Mack,1,4,20,1,Jump Shot,25,224,114,False
+Shelvin Mack,1,8,25,0,Jump Shot,26,158,208,False
+Shelvin Mack,4,1,57,0,Jump Shot,13,87,104,True
+Shelvin Mack,3,2,9,1,Jump Shot,23,230,-6,False
+Shelvin Mack,4,0,20,0,Jump Shot,25,116,222,False
+Shelvin Mack,4,0,55,0,Jump Shot,9,-3,92,True
+Shelvin Mack,2,2,3,0,Jump Shot,25,183,174,False
+Shelvin Mack,4,10,22,0,Jump Shot,25,-52,246,False
+Shelvin Mack,1,11,25,0,Jump Shot,21,-218,-2,False
+Shelvin Mack,2,6,12,0,Jump Shot,27,-125,242,False
+Shelvin Mack,3,11,19,0,Jump Shot,25,-193,174,False
+Shelvin Mack,2,0,31,0,Jump Shot,26,-25,265,False
+Shelvin Mack,2,9,18,0,Jump Shot,17,-135,115,True
+Shelvin Mack,3,2,14,0,Jump Shot,25,-3,256,False
+Shelvin Mack,4,10,16,0,Jump Shot,20,-115,170,True
+Shelvin Mack,2,9,3,1,Jump Shot,17,112,138,True
+Shelvin Mack,2,7,29,0,Jump Shot,8,-18,79,True
+Shelvin Mack,4,11,26,0,Jump Shot,22,226,20,False
+Shelvin Mack,3,2,58,0,Jump Shot,24,-177,166,False
+Shelvin Mack,1,2,0,1,Jump Shot,27,130,241,False
+Shelvin Mack,3,9,56,0,Jump Shot,25,-84,236,False
+Shelvin Mack,3,7,31,1,Jump Shot,24,130,211,False
+Shelvin Mack,4,0,31,1,Jump Shot,7,45,66,True
+Shelvin Mack,4,6,30,1,Jump Shot,25,-185,169,False
+Shelvin Mack,4,0,23,0,Jump Shot,22,-225,-2,False
+Shelvin Mack,2,5,29,1,Jump Shot,22,-224,15,False
+Shelvin Mack,2,0,23,1,Layup Shot,1,9,16,True
+Shelvin Mack,2,6,10,1,Layup Shot,0,-1,6,True
+Shelvin Mack,3,1,28,0,Layup Shot,2,15,17,True
+Shelvin Mack,2,10,33,1,Layup Shot,1,1,17,True
+Shelvin Mack,3,0,43,0,Layup Shot,7,14,71,True
+Shelvin Mack,2,7,10,1,Layup Shot,5,34,42,True
+Shelvin Mack,4,0,21,0,Layup Shot,5,8,52,True
+Shelvin Mack,2,0,55,1,Layup Shot,2,25,14,True
+Shelvin Mack,2,7,43,0,Layup Shot,4,-5,41,True
+Shelvin Mack,2,6,16,0,Layup Shot,2,18,11,True
+Shelvin Mack,4,0,24,1,Layup Shot,0,3,5,True
+Shelvin Mack,2,7,56,1,Layup Shot,1,0,13,True
+Shelvin Mack,2,10,28,0,Pullup Jump shot,12,6,126,True
+Shelvin Mack,4,10,50,0,Pullup Jump shot,17,-68,164,True
+Shelvin Mack,1,0,39,1,Pullup Jump shot,26,-60,257,False
+Shelvin Mack,3,3,54,0,Pullup Jump shot,12,36,117,True
+Shelvin Mack,1,4,42,0,Pullup Jump shot,16,-81,138,True
+Shelvin Mack,2,8,14,0,Pullup Jump shot,24,114,217,False
+Shelvin Mack,2,7,18,1,Pullup Jump shot,25,2,258,False
+Shelvin Mack,2,0,3,0,Pullup Jump shot,24,-59,240,False
+Shelvin Mack,4,0,22,1,Pullup Jump shot,25,174,183,False
+Shelvin Mack,2,11,37,0,Pullup Jump shot,28,25,285,False
+Shelvin Mack,3,0,2,0,Pullup Jump shot,15,-105,118,True
+Shelvin Mack,2,7,2,0,Pullup Jump shot,21,127,178,True
+Shelvin Mack,2,7,40,0,Pullup Jump shot,26,-85,246,False
+Shelvin Mack,3,6,7,1,Pullup Jump shot,16,-107,120,True
+Shelvin Mack,2,5,6,0,Pullup Jump shot,21,-67,204,True
+Shelvin Mack,2,0,33,0,Pullup Jump shot,25,-74,245,False
+Shelvin Mack,4,3,30,0,Pullup Jump shot,25,114,223,False
+Shelvin Mack,2,4,16,0,Pullup Jump shot,25,77,248,False
+Shelvin Mack,3,0,49,1,Pullup Jump shot,26,-77,257,False
+Shelvin Mack,2,6,27,0,Pullup Jump shot,25,-63,251,False
+Shelvin Mack,4,0,18,1,Pullup Jump shot,18,59,172,True
+Shelvin Mack,2,6,28,1,Pullup Jump shot,20,-55,194,True
+Shelvin Mack,1,1,32,1,Pullup Jump shot,25,-46,253,False
+Shelvin Mack,4,1,35,1,Pullup Jump shot,25,0,252,False
+Shelvin Mack,1,0,31,0,Pullup Jump shot,18,41,178,True
+Shelvin Mack,3,0,33,0,Pullup Jump shot,17,79,153,True
+Shelvin Mack,1,0,37,0,Pullup Jump shot,25,52,246,False
+Shelvin Mack,4,10,38,0,Pullup Jump shot,26,-95,246,False
+Shelvin Mack,4,7,47,0,Pullup Jump shot,24,16,248,False
+Shelvin Mack,1,0,1,1,Pullup Jump shot,26,-147,215,False
+Shelvin Mack,2,5,40,0,Pullup Jump shot,12,37,123,True
+Shelvin Mack,4,8,50,1,Pullup Jump shot,21,23,210,True
+Shelvin Mack,1,3,55,1,Pullup Jump shot,26,117,237,False
+Shelvin Mack,2,7,14,0,Pullup Jump shot,25,162,199,False
+Shelvin Mack,2,10,10,1,Pullup Jump shot,18,-55,179,True
+Shelvin Mack,1,3,14,1,Pullup Jump shot,17,-58,162,True
+Shelvin Mack,2,7,15,1,Pullup Jump shot,25,-59,253,False
+Shelvin Mack,1,2,6,0,Pullup Jump shot,18,82,163,True
+Shelvin Mack,4,10,5,0,Pullup Jump shot,19,79,174,True
+Shelvin Mack,2,11,44,0,Pullup Jump shot,25,-114,232,False
+Shelvin Mack,2,10,33,0,Pullup Jump shot,25,-2,259,False
+Shelvin Mack,2,10,32,0,Pullup Jump shot,12,33,123,True
+Shelvin Mack,2,10,50,1,Pullup Jump shot,18,-27,179,True
+Shelvin Mack,3,0,0,0,Pullup Jump shot,25,-206,150,False
+Shelvin Mack,4,5,38,0,Pullup Jump shot,10,-100,-1,True
+Shelvin Mack,3,0,58,0,Pullup Jump shot,25,-30,252,False
+Shelvin Mack,2,11,25,1,Pullup Jump shot,25,28,250,False
+Shelvin Mack,3,0,34,1,Pullup Jump shot,25,-159,201,False
+Shelvin Mack,4,6,45,0,Reverse Layup Shot,0,0,6,True
+Shelvin Mack,3,3,45,1,Running Finger Roll Layup Shot,0,-7,2,True
+Shelvin Mack,3,0,0,0,Running Jump Shot,26,116,240,False
+Shelvin Mack,3,5,58,1,Running Jump Shot,22,226,3,False
+Shelvin Mack,4,4,41,0,Running Layup Shot,1,8,15,True
+Shelvin Mack,2,6,13,1,Running Layup Shot,2,-3,25,True
+Shelvin Mack,4,1,13,1,Running Layup Shot,2,11,25,True
+Shelvin Mack,4,8,4,1,Running Layup Shot,1,-6,17,True
+Shelvin Mack,2,7,27,1,Running Layup Shot,1,12,13,True
+Shelvin Mack,2,6,13,1,Running Layup Shot,0,-2,1,True
+Shelvin Mack,2,8,48,1,Running Layup Shot,5,-43,27,True
+Shelvin Mack,1,2,37,1,Running Layup Shot,1,-4,13,True
+Shelvin Mack,2,6,7,0,Running Layup Shot,1,-1,12,True
+Shelvin Mack,4,8,24,1,Running Layup Shot,0,5,6,True
+Shelvin Mack,2,6,13,1,Running Reverse Layup Shot,3,0,36,True
+Shelvin Mack,2,5,4,1,Step Back Jump shot,19,-101,171,True
+Shelvin Mack,2,6,51,0,Step Back Jump shot,24,-116,221,False
+Shelvin Mack,4,7,57,0,Step Back Jump shot,16,-103,126,True
+Shelvin Mack,2,11,34,0,Step Back Jump shot,21,-74,205,True
+Shelvin Mack,1,4,20,1,Step Back Jump shot,18,-183,19,True
+Shelvin Mack,2,8,54,1,Step Back Jump shot,26,142,222,False
+Shelvin Mack,4,6,36,1,Step Back Jump shot,25,100,232,False
+Shelvin Mack,3,0,45,0,Turnaround Fadeaway shot,8,-80,38,True
+Shelvin Mack,2,7,32,0,Turnaround Fadeaway shot,10,-16,104,True
+Shelvin Mack,3,2,5,0,Turnaround Jump Shot,7,-44,55,True

@@ -1,0 +1,46 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jake Layman,3,0,43,1,Cutting Dunk Shot,1,-4,14,True
+Jake Layman,3,3,9,1,Cutting Dunk Shot,1,6,13,True
+Jake Layman,2,11,40,0,Driving Dunk Shot,3,0,33,True
+Jake Layman,4,0,31,1,Driving Finger Roll Layup Shot,1,-10,4,True
+Jake Layman,4,2,46,0,Driving Floating Bank Jump Shot,25,-177,178,False
+Jake Layman,3,2,31,0,Driving Floating Jump Shot,11,54,98,True
+Jake Layman,4,3,18,0,Driving Hook Shot,5,32,42,True
+Jake Layman,4,3,2,0,Driving Layup Shot,4,-44,4,True
+Jake Layman,3,1,13,0,Driving Layup Shot,0,9,4,True
+Jake Layman,4,0,47,1,Driving Layup Shot,2,22,19,True
+Jake Layman,4,7,36,1,Driving Reverse Layup Shot,1,-11,8,True
+Jake Layman,4,0,18,1,Dunk Shot,0,-5,2,True
+Jake Layman,4,0,10,1,Fadeaway Jump Shot,13,122,45,True
+Jake Layman,4,5,15,0,Fadeaway Jump Shot,12,-125,16,True
+Jake Layman,4,3,56,0,Floating Jump shot,7,-31,71,True
+Jake Layman,1,2,30,0,Jump Shot,25,90,238,False
+Jake Layman,1,1,20,0,Jump Shot,25,178,176,False
+Jake Layman,4,1,24,1,Jump Shot,17,140,105,True
+Jake Layman,4,2,15,0,Jump Shot,26,2,267,False
+Jake Layman,4,1,41,1,Jump Shot,22,-226,-8,False
+Jake Layman,4,2,54,0,Jump Shot,1,-11,9,True
+Jake Layman,4,2,2,0,Jump Shot,24,-187,159,False
+Jake Layman,4,5,1,0,Jump Shot,24,-51,239,False
+Jake Layman,4,1,1,0,Jump Shot,25,134,214,False
+Jake Layman,4,0,34,1,Jump Shot,23,231,63,False
+Jake Layman,4,4,1,0,Jump Shot,27,215,164,False
+Jake Layman,4,9,15,0,Jump Shot,25,-182,174,False
+Jake Layman,2,7,55,0,Jump Shot,19,14,196,True
+Jake Layman,3,4,20,0,Jump Shot,22,-228,-10,False
+Jake Layman,2,8,38,0,Jump Shot,26,-198,169,False
+Jake Layman,4,8,53,0,Jump Shot,23,-231,-20,False
+Jake Layman,4,9,21,0,Jump Shot,25,65,251,False
+Jake Layman,3,3,38,0,Jump Shot,20,150,137,True
+Jake Layman,4,2,14,0,Jump Shot,22,-223,42,False
+Jake Layman,4,1,42,1,Jump Shot,25,-201,155,False
+Jake Layman,4,4,42,0,Jump Shot,21,70,201,True
+Jake Layman,4,2,51,0,Jump Shot,25,-187,167,False
+Jake Layman,3,1,45,0,Running Jump Shot,5,9,55,True
+Jake Layman,4,10,37,1,Running Jump Shot,25,-210,145,False
+Jake Layman,4,8,2,0,Step Back Jump shot,21,134,162,True
+Jake Layman,4,0,37,1,Tip Layup Shot,0,0,-6,True
+Jake Layman,1,7,1,0,Turnaround Fadeaway shot,13,55,118,True
+Jake Layman,4,0,50,1,Turnaround Fadeaway shot,17,-150,84,True
+Jake Layman,2,8,4,0,Turnaround Fadeaway shot,11,14,113,True
+Jake Layman,4,2,42,0,Turnaround Jump Shot,20,57,201,True

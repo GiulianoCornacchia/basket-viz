@@ -1,0 +1,241 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Wayne Selden,2,0,0,0,Alley Oop Layup shot,1,4,10,True
+Wayne Selden,4,3,15,1,Cutting Dunk Shot,2,-1,23,True
+Wayne Selden,4,7,25,1,Cutting Dunk Shot,1,-13,5,True
+Wayne Selden,4,0,7,1,Driving Dunk Shot,1,-3,19,True
+Wayne Selden,2,1,29,1,Driving Dunk Shot,0,9,4,True
+Wayne Selden,2,2,17,1,Driving Dunk Shot,0,-6,3,True
+Wayne Selden,1,6,49,1,Driving Dunk Shot,1,9,14,True
+Wayne Selden,2,11,33,1,Driving Dunk Shot,0,-6,2,True
+Wayne Selden,4,8,44,1,Driving Finger Roll Layup Shot,6,5,62,True
+Wayne Selden,4,11,40,0,Driving Finger Roll Layup Shot,3,15,36,True
+Wayne Selden,4,3,49,0,Driving Finger Roll Layup Shot,2,-5,20,True
+Wayne Selden,3,1,41,0,Driving Finger Roll Layup Shot,5,55,17,True
+Wayne Selden,4,10,56,0,Driving Finger Roll Layup Shot,2,-11,25,True
+Wayne Selden,4,0,21,1,Driving Finger Roll Layup Shot,0,-3,2,True
+Wayne Selden,3,1,48,1,Driving Floating Bank Jump Shot,12,-107,63,True
+Wayne Selden,3,0,37,0,Driving Floating Bank Jump Shot,13,122,52,True
+Wayne Selden,4,6,27,1,Driving Floating Bank Jump Shot,6,38,56,True
+Wayne Selden,3,1,17,1,Driving Floating Bank Jump Shot,5,32,41,True
+Wayne Selden,3,0,57,0,Driving Floating Bank Jump Shot,5,-47,25,True
+Wayne Selden,1,1,13,1,Driving Floating Bank Jump Shot,4,39,29,True
+Wayne Selden,1,5,13,1,Driving Floating Bank Jump Shot,7,46,53,True
+Wayne Selden,3,8,29,0,Driving Floating Bank Jump Shot,6,-50,47,True
+Wayne Selden,4,9,35,1,Driving Floating Bank Jump Shot,6,63,17,True
+Wayne Selden,2,10,2,0,Driving Floating Bank Jump Shot,9,-91,36,True
+Wayne Selden,1,4,0,0,Driving Floating Bank Jump Shot,7,-62,43,True
+Wayne Selden,3,11,44,0,Driving Floating Bank Jump Shot,8,76,29,True
+Wayne Selden,4,3,53,1,Driving Floating Jump Shot,2,-23,15,True
+Wayne Selden,2,3,25,0,Driving Floating Jump Shot,9,-1,91,True
+Wayne Selden,3,2,8,0,Driving Floating Jump Shot,6,18,66,True
+Wayne Selden,2,7,6,1,Driving Floating Jump Shot,6,20,63,True
+Wayne Selden,4,0,34,0,Driving Floating Jump Shot,7,2,76,True
+Wayne Selden,1,2,4,1,Driving Floating Jump Shot,7,0,78,True
+Wayne Selden,4,5,4,0,Driving Floating Jump Shot,3,-2,34,True
+Wayne Selden,1,4,21,1,Driving Floating Jump Shot,8,-37,72,True
+Wayne Selden,1,0,0,0,Driving Floating Jump Shot,13,-21,130,True
+Wayne Selden,3,2,55,0,Driving Floating Jump Shot,6,8,67,True
+Wayne Selden,2,7,7,0,Driving Floating Jump Shot,5,48,22,True
+Wayne Selden,2,10,51,0,Driving Floating Jump Shot,7,-1,75,True
+Wayne Selden,4,6,55,0,Driving Floating Jump Shot,7,-59,50,True
+Wayne Selden,4,4,13,0,Driving Floating Jump Shot,3,-31,-8,True
+Wayne Selden,1,10,6,0,Driving Floating Jump Shot,7,-12,74,True
+Wayne Selden,1,1,27,0,Driving Floating Jump Shot,10,-42,99,True
+Wayne Selden,3,4,43,0,Driving Floating Jump Shot,5,53,15,True
+Wayne Selden,2,5,18,0,Driving Floating Jump Shot,8,5,89,True
+Wayne Selden,4,1,12,1,Driving Layup Shot,5,30,51,True
+Wayne Selden,3,6,58,1,Driving Layup Shot,2,24,11,True
+Wayne Selden,2,9,12,0,Driving Layup Shot,2,19,10,True
+Wayne Selden,4,0,2,0,Driving Layup Shot,3,-17,29,True
+Wayne Selden,1,2,45,1,Driving Layup Shot,1,-6,8,True
+Wayne Selden,1,0,26,0,Driving Layup Shot,2,14,20,True
+Wayne Selden,3,9,27,0,Driving Layup Shot,4,-46,11,True
+Wayne Selden,3,5,59,1,Driving Layup Shot,1,3,15,True
+Wayne Selden,1,1,41,1,Driving Layup Shot,1,6,16,True
+Wayne Selden,4,3,24,0,Driving Layup Shot,1,-17,5,True
+Wayne Selden,4,3,54,0,Driving Layup Shot,8,-40,73,True
+Wayne Selden,2,2,37,1,Driving Layup Shot,0,-5,-1,True
+Wayne Selden,3,1,51,0,Driving Layup Shot,6,-50,36,True
+Wayne Selden,1,0,27,1,Driving Layup Shot,6,-3,62,True
+Wayne Selden,4,6,35,0,Driving Layup Shot,5,-38,39,True
+Wayne Selden,3,11,21,0,Driving Layup Shot,0,5,4,True
+Wayne Selden,1,2,4,0,Driving Layup Shot,1,-14,8,True
+Wayne Selden,4,0,46,0,Fadeaway Jump Shot,11,-30,109,True
+Wayne Selden,4,7,51,0,Fadeaway Jump Shot,4,11,41,True
+Wayne Selden,2,6,0,0,Fadeaway Jump Shot,10,-105,5,True
+Wayne Selden,3,8,45,0,Floating Jump shot,8,49,75,True
+Wayne Selden,1,2,7,1,Floating Jump shot,12,51,110,True
+Wayne Selden,1,0,33,1,Floating Jump shot,10,1,105,True
+Wayne Selden,2,6,9,0,Floating Jump shot,8,66,61,True
+Wayne Selden,2,4,14,0,Jump Bank Shot,11,-66,100,True
+Wayne Selden,3,2,28,1,Jump Bank Shot,11,-94,62,True
+Wayne Selden,4,11,46,0,Jump Bank Shot,14,-135,43,True
+Wayne Selden,3,2,5,0,Jump Shot,22,-228,-9,False
+Wayne Selden,2,9,53,1,Jump Shot,27,115,245,False
+Wayne Selden,3,1,31,0,Jump Shot,24,-228,86,False
+Wayne Selden,3,3,16,1,Jump Shot,25,-236,104,False
+Wayne Selden,1,3,25,0,Jump Shot,31,61,305,False
+Wayne Selden,4,6,49,0,Jump Shot,26,-168,202,False
+Wayne Selden,1,1,22,1,Jump Shot,24,226,87,False
+Wayne Selden,4,11,32,0,Jump Shot,20,-201,45,True
+Wayne Selden,3,0,2,0,Jump Shot,28,-99,272,False
+Wayne Selden,1,0,44,0,Jump Shot,25,74,247,False
+Wayne Selden,3,4,51,0,Jump Shot,23,234,-6,False
+Wayne Selden,1,1,18,0,Jump Shot,24,-65,241,False
+Wayne Selden,1,4,48,0,Jump Shot,25,-185,171,False
+Wayne Selden,3,1,8,0,Jump Shot,16,-123,115,True
+Wayne Selden,4,4,52,1,Jump Shot,27,-126,241,False
+Wayne Selden,2,1,56,0,Jump Shot,18,-13,185,True
+Wayne Selden,1,4,2,1,Jump Shot,18,50,173,True
+Wayne Selden,1,2,18,1,Jump Shot,18,41,185,True
+Wayne Selden,4,10,47,1,Jump Shot,22,-226,0,False
+Wayne Selden,4,3,57,1,Jump Shot,25,142,208,False
+Wayne Selden,4,9,39,1,Jump Shot,25,-11,258,False
+Wayne Selden,1,0,0,0,Jump Shot,30,180,252,False
+Wayne Selden,3,3,7,0,Jump Shot,25,155,206,False
+Wayne Selden,3,4,12,1,Jump Shot,25,-161,198,False
+Wayne Selden,2,6,7,0,Jump Shot,25,133,220,False
+Wayne Selden,4,10,59,0,Jump Shot,19,90,174,True
+Wayne Selden,1,3,23,0,Jump Shot,25,-218,138,False
+Wayne Selden,4,0,4,1,Jump Shot,25,-95,241,False
+Wayne Selden,4,3,24,0,Jump Shot,28,-118,255,False
+Wayne Selden,4,1,56,1,Jump Shot,27,-143,236,False
+Wayne Selden,1,4,46,0,Jump Shot,24,-228,89,False
+Wayne Selden,4,3,11,0,Jump Shot,24,228,88,False
+Wayne Selden,4,1,43,0,Jump Shot,22,221,8,False
+Wayne Selden,4,2,37,1,Jump Shot,24,-187,160,False
+Wayne Selden,3,3,6,1,Jump Shot,25,-191,175,False
+Wayne Selden,3,3,12,1,Jump Shot,22,-224,52,False
+Wayne Selden,3,0,11,1,Jump Shot,26,-139,230,False
+Wayne Selden,1,3,9,1,Jump Shot,24,170,173,False
+Wayne Selden,3,5,12,1,Jump Shot,20,103,176,True
+Wayne Selden,4,4,52,0,Jump Shot,24,242,5,False
+Wayne Selden,1,1,14,1,Jump Shot,24,110,224,False
+Wayne Selden,1,0,1,0,Jump Shot,25,77,242,False
+Wayne Selden,1,2,6,0,Jump Shot,23,-230,4,False
+Wayne Selden,2,9,38,0,Jump Shot,25,-89,236,False
+Wayne Selden,3,3,59,0,Jump Shot,22,-226,31,False
+Wayne Selden,1,7,37,0,Jump Shot,27,0,278,False
+Wayne Selden,4,9,28,0,Jump Shot,26,99,242,False
+Wayne Selden,2,6,6,1,Jump Shot,24,-165,178,False
+Wayne Selden,2,4,56,0,Jump Shot,17,91,153,True
+Wayne Selden,3,10,24,0,Jump Shot,25,188,169,False
+Wayne Selden,4,4,33,0,Jump Shot,25,146,207,False
+Wayne Selden,2,0,56,0,Jump Shot,26,219,157,False
+Wayne Selden,2,8,39,1,Jump Shot,24,-243,36,False
+Wayne Selden,1,6,58,0,Jump Shot,25,145,213,False
+Wayne Selden,1,11,47,0,Jump Shot,24,-54,242,False
+Wayne Selden,4,4,56,0,Jump Shot,10,2,105,True
+Wayne Selden,2,1,9,0,Jump Shot,25,157,203,False
+Wayne Selden,2,10,47,0,Jump Shot,25,-95,232,False
+Wayne Selden,3,4,54,1,Jump Shot,26,30,264,False
+Wayne Selden,1,11,45,0,Jump Shot,26,-2,264,False
+Wayne Selden,4,9,37,1,Jump Shot,25,-240,92,False
+Wayne Selden,3,3,35,0,Jump Shot,29,-198,223,False
+Wayne Selden,4,5,25,0,Jump Shot,27,176,210,False
+Wayne Selden,4,2,51,1,Jump Shot,22,-228,17,False
+Wayne Selden,2,5,50,1,Jump Shot,25,-206,158,False
+Wayne Selden,4,1,57,1,Jump Shot,28,-172,233,False
+Wayne Selden,4,7,9,0,Jump Shot,25,-188,176,False
+Wayne Selden,2,6,30,1,Jump Shot,25,-188,174,False
+Wayne Selden,2,9,10,1,Jump Shot,10,106,25,True
+Wayne Selden,3,0,9,0,Jump Shot,25,-59,243,False
+Wayne Selden,4,2,16,1,Jump Shot,25,-98,234,False
+Wayne Selden,3,7,15,1,Jump Shot,27,84,258,False
+Wayne Selden,1,3,40,0,Jump Shot,24,-36,242,False
+Wayne Selden,1,9,24,0,Jump Shot,22,225,16,False
+Wayne Selden,4,6,2,0,Jump Shot,22,225,18,False
+Wayne Selden,2,7,3,0,Jump Shot,26,-107,238,False
+Wayne Selden,2,1,0,0,Jump Shot,11,114,-14,True
+Wayne Selden,4,4,29,0,Jump Shot,23,-230,14,False
+Wayne Selden,2,2,1,0,Jump Shot,24,-236,69,False
+Wayne Selden,3,0,42,1,Jump Shot,27,-175,211,False
+Wayne Selden,2,1,25,1,Jump Shot,25,-14,253,False
+Wayne Selden,4,10,8,1,Jump Shot,18,-186,26,True
+Wayne Selden,2,3,38,1,Jump Shot,25,-215,132,False
+Wayne Selden,3,4,30,1,Jump Shot,26,-161,216,False
+Wayne Selden,4,0,28,0,Jump Shot,26,-115,235,False
+Wayne Selden,1,4,46,0,Jump Shot,25,179,179,False
+Wayne Selden,2,11,22,1,Jump Shot,18,96,158,True
+Wayne Selden,4,1,32,1,Jump Shot,25,-149,211,False
+Wayne Selden,1,0,0,0,Jump Shot,6,2,67,True
+Wayne Selden,4,2,53,0,Jump Shot,26,14,261,False
+Wayne Selden,2,11,49,0,Jump Shot,23,230,60,False
+Wayne Selden,1,4,25,0,Jump Shot,25,-82,241,False
+Wayne Selden,2,4,47,0,Jump Shot,23,-227,62,False
+Wayne Selden,4,10,6,0,Jump Shot,26,-103,246,False
+Wayne Selden,1,3,53,1,Jump Shot,23,230,36,False
+Wayne Selden,1,3,23,0,Jump Shot,25,-117,229,False
+Wayne Selden,2,7,50,1,Jump Shot,25,234,93,False
+Wayne Selden,3,1,20,0,Jump Shot,26,-115,238,False
+Wayne Selden,2,10,58,0,Jump Shot,26,94,252,False
+Wayne Selden,1,11,26,0,Jump Shot,24,224,87,False
+Wayne Selden,1,5,30,1,Jump Shot,25,-123,226,False
+Wayne Selden,1,4,54,1,Jump Shot,26,-168,201,False
+Wayne Selden,4,3,48,0,Jump Shot,22,-225,13,False
+Wayne Selden,4,0,12,0,Jump Shot,27,-192,200,False
+Wayne Selden,4,1,20,1,Jump Shot,24,-177,173,False
+Wayne Selden,4,3,44,0,Jump Shot,24,57,239,False
+Wayne Selden,2,11,14,0,Jump Shot,25,168,188,False
+Wayne Selden,3,0,56,0,Jump Shot,25,140,216,False
+Wayne Selden,4,3,4,1,Jump Shot,26,-169,207,False
+Wayne Selden,4,2,4,1,Layup Shot,2,6,21,True
+Wayne Selden,1,3,31,0,Layup Shot,1,17,-5,True
+Wayne Selden,1,2,27,1,Layup Shot,1,17,6,True
+Wayne Selden,1,0,0,0,Layup Shot,2,-19,15,True
+Wayne Selden,2,10,30,1,Layup Shot,1,9,15,True
+Wayne Selden,3,0,45,1,Layup Shot,3,16,27,True
+Wayne Selden,4,5,37,0,Layup Shot,2,-7,23,True
+Wayne Selden,2,6,54,0,Layup Shot,1,-16,-8,True
+Wayne Selden,2,0,42,0,Pullup Jump shot,24,166,185,False
+Wayne Selden,1,0,9,0,Pullup Jump shot,24,195,148,False
+Wayne Selden,1,0,14,0,Pullup Jump shot,13,39,131,True
+Wayne Selden,1,0,34,0,Pullup Jump shot,18,-101,157,True
+Wayne Selden,1,3,2,0,Pullup Jump shot,20,-206,6,True
+Wayne Selden,4,11,10,0,Pullup Jump shot,10,95,33,True
+Wayne Selden,2,4,2,1,Pullup Jump shot,20,138,147,True
+Wayne Selden,1,3,3,1,Pullup Jump shot,19,-5,199,True
+Wayne Selden,2,1,22,0,Pullup Jump shot,9,-3,98,True
+Wayne Selden,2,2,13,0,Pullup Jump shot,25,163,194,False
+Wayne Selden,2,10,15,1,Pullup Jump shot,25,73,247,False
+Wayne Selden,3,5,42,0,Pullup Jump shot,28,53,284,False
+Wayne Selden,1,5,43,1,Pullup Jump shot,15,-33,147,True
+Wayne Selden,2,4,54,1,Pullup Jump shot,14,33,138,True
+Wayne Selden,2,10,46,1,Pullup Jump shot,17,-95,141,True
+Wayne Selden,1,0,53,0,Pullup Jump shot,19,-1,199,True
+Wayne Selden,4,6,8,1,Pullup Jump shot,17,176,16,True
+Wayne Selden,1,2,13,1,Pullup Jump shot,15,44,150,True
+Wayne Selden,3,3,45,1,Pullup Jump shot,27,-153,226,False
+Wayne Selden,1,6,21,0,Pullup Jump shot,16,30,160,True
+Wayne Selden,3,0,3,1,Pullup Jump shot,26,-143,226,False
+Wayne Selden,1,1,28,0,Pullup Jump shot,14,2,148,True
+Wayne Selden,2,4,9,0,Putback Layup Shot,3,-18,25,True
+Wayne Selden,4,0,15,1,Putback Layup Shot,1,6,13,True
+Wayne Selden,2,10,55,0,Reverse Layup Shot,1,-14,5,True
+Wayne Selden,4,4,17,1,Reverse Layup Shot,2,10,22,True
+Wayne Selden,2,2,53,1,Running Alley Oop Dunk Shot,0,-5,5,True
+Wayne Selden,3,8,53,1,Running Dunk Shot,0,-5,7,True
+Wayne Selden,1,5,11,0,Running Dunk Shot,2,-29,4,True
+Wayne Selden,1,6,55,0,Running Finger Roll Layup Shot,3,23,26,True
+Wayne Selden,1,7,7,1,Running Finger Roll Layup Shot,0,9,0,True
+Wayne Selden,1,3,45,0,Running Jump Shot,1,-3,17,True
+Wayne Selden,2,2,8,1,Running Jump Shot,26,-177,195,False
+Wayne Selden,4,11,38,1,Running Jump Shot,8,-5,80,True
+Wayne Selden,1,5,57,0,Running Layup Shot,1,-7,13,True
+Wayne Selden,2,3,14,1,Running Layup Shot,1,2,12,True
+Wayne Selden,4,9,27,0,Running Layup Shot,3,8,36,True
+Wayne Selden,3,9,29,0,Running Layup Shot,1,9,13,True
+Wayne Selden,4,1,40,1,Running Layup Shot,1,7,14,True
+Wayne Selden,3,6,53,1,Running Layup Shot,1,11,2,True
+Wayne Selden,2,5,0,1,Running Layup Shot,1,-13,12,True
+Wayne Selden,2,10,26,0,Running Layup Shot,0,-8,3,True
+Wayne Selden,2,2,6,1,Running Layup Shot,1,-10,5,True
+Wayne Selden,1,2,50,0,Running Reverse Layup Shot,2,-18,10,True
+Wayne Selden,1,0,46,1,Step Back Jump shot,19,-185,68,True
+Wayne Selden,4,0,57,1,Step Back Jump shot,15,-149,23,True
+Wayne Selden,4,6,10,1,Step Back Jump shot,23,-230,67,False
+Wayne Selden,4,0,26,1,Step Back Jump shot,25,8,259,False
+Wayne Selden,1,0,8,1,Step Back Jump shot,25,-110,226,False
+Wayne Selden,3,0,35,1,Tip Dunk Shot,0,0,-6,True
+Wayne Selden,2,9,17,1,Tip Layup Shot,0,0,-6,True
+Wayne Selden,4,1,47,0,Turnaround Hook Shot,8,-18,81,True

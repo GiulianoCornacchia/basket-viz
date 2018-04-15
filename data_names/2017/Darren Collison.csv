@@ -1,0 +1,578 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Darren Collison,1,10,20,1,Cutting Finger Roll Layup Shot,0,3,6,True
+Darren Collison,1,9,25,1,Cutting Finger Roll Layup Shot,0,4,7,True
+Darren Collison,1,7,20,1,Cutting Finger Roll Layup Shot,1,0,13,True
+Darren Collison,2,2,22,1,Cutting Layup Shot,1,4,13,True
+Darren Collison,1,11,20,1,Cutting Layup Shot,1,-10,4,True
+Darren Collison,1,10,50,1,Cutting Layup Shot,0,3,8,True
+Darren Collison,3,11,19,1,Cutting Layup Shot,1,1,15,True
+Darren Collison,3,8,10,0,Cutting Layup Shot,1,-6,10,True
+Darren Collison,4,0,59,1,Driving Finger Roll Layup Shot,2,9,18,True
+Darren Collison,1,8,45,0,Driving Finger Roll Layup Shot,1,-2,12,True
+Darren Collison,2,4,52,0,Driving Finger Roll Layup Shot,0,3,8,True
+Darren Collison,3,9,18,1,Driving Finger Roll Layup Shot,1,5,13,True
+Darren Collison,3,1,48,1,Driving Finger Roll Layup Shot,1,5,15,True
+Darren Collison,3,11,4,0,Driving Finger Roll Layup Shot,17,85,151,True
+Darren Collison,4,0,52,1,Driving Finger Roll Layup Shot,1,19,2,True
+Darren Collison,4,0,31,1,Driving Finger Roll Layup Shot,0,-2,6,True
+Darren Collison,5,1,1,0,Driving Finger Roll Layup Shot,0,-2,6,True
+Darren Collison,1,3,54,1,Driving Finger Roll Layup Shot,1,5,13,True
+Darren Collison,1,8,30,1,Driving Finger Roll Layup Shot,5,4,50,True
+Darren Collison,4,1,45,1,Driving Finger Roll Layup Shot,0,-2,6,True
+Darren Collison,3,4,22,1,Driving Finger Roll Layup Shot,1,3,10,True
+Darren Collison,3,2,14,1,Driving Finger Roll Layup Shot,0,-4,-6,True
+Darren Collison,3,5,59,0,Driving Finger Roll Layup Shot,1,11,9,True
+Darren Collison,2,8,17,1,Driving Finger Roll Layup Shot,0,2,8,True
+Darren Collison,1,4,46,1,Driving Finger Roll Layup Shot,0,-3,8,True
+Darren Collison,1,6,19,0,Driving Finger Roll Layup Shot,1,-6,11,True
+Darren Collison,2,4,41,1,Driving Finger Roll Layup Shot,1,2,17,True
+Darren Collison,1,7,33,0,Driving Finger Roll Layup Shot,1,0,12,True
+Darren Collison,1,8,47,1,Driving Finger Roll Layup Shot,0,1,9,True
+Darren Collison,2,6,51,1,Driving Finger Roll Layup Shot,2,9,19,True
+Darren Collison,3,11,37,0,Driving Finger Roll Layup Shot,5,-53,-5,True
+Darren Collison,1,6,34,1,Driving Finger Roll Layup Shot,0,1,6,True
+Darren Collison,3,3,7,1,Driving Finger Roll Layup Shot,0,-2,6,True
+Darren Collison,4,0,25,1,Driving Floating Bank Jump Shot,12,-4,129,True
+Darren Collison,2,10,24,1,Driving Floating Bank Jump Shot,10,-96,50,True
+Darren Collison,3,0,48,0,Driving Floating Bank Jump Shot,12,-14,128,True
+Darren Collison,2,0,0,1,Driving Floating Jump Shot,9,-60,79,True
+Darren Collison,3,5,14,1,Driving Floating Jump Shot,7,7,71,True
+Darren Collison,3,2,41,0,Driving Floating Jump Shot,13,57,117,True
+Darren Collison,3,9,0,1,Driving Floating Jump Shot,8,-40,71,True
+Darren Collison,3,8,52,0,Driving Layup Shot,3,20,25,True
+Darren Collison,2,0,59,0,Driving Layup Shot,1,13,5,True
+Darren Collison,1,9,34,0,Driving Layup Shot,1,17,-7,True
+Darren Collison,1,2,31,0,Driving Layup Shot,2,0,28,True
+Darren Collison,2,0,0,0,Driving Layup Shot,7,-70,9,True
+Darren Collison,1,5,13,1,Driving Layup Shot,1,8,8,True
+Darren Collison,3,6,10,1,Driving Layup Shot,1,-5,12,True
+Darren Collison,1,3,28,1,Driving Layup Shot,1,-9,5,True
+Darren Collison,1,4,59,0,Driving Layup Shot,1,-3,17,True
+Darren Collison,4,4,25,0,Driving Layup Shot,3,20,34,True
+Darren Collison,2,2,52,1,Driving Layup Shot,0,-8,4,True
+Darren Collison,1,9,50,1,Driving Layup Shot,2,-8,22,True
+Darren Collison,1,5,38,1,Driving Layup Shot,2,19,10,True
+Darren Collison,2,5,52,0,Driving Layup Shot,3,25,27,True
+Darren Collison,3,1,36,1,Driving Layup Shot,2,11,23,True
+Darren Collison,1,3,53,0,Driving Layup Shot,2,9,20,True
+Darren Collison,3,9,42,1,Driving Layup Shot,2,-14,16,True
+Darren Collison,4,1,46,0,Driving Layup Shot,2,-7,20,True
+Darren Collison,3,3,3,1,Driving Layup Shot,1,8,13,True
+Darren Collison,2,1,29,0,Driving Layup Shot,1,-3,18,True
+Darren Collison,3,7,2,0,Driving Layup Shot,2,11,21,True
+Darren Collison,1,0,43,0,Driving Layup Shot,2,11,22,True
+Darren Collison,3,0,4,1,Driving Layup Shot,0,3,6,True
+Darren Collison,2,3,40,1,Driving Layup Shot,2,-8,19,True
+Darren Collison,3,11,2,1,Driving Layup Shot,1,11,14,True
+Darren Collison,1,7,7,1,Driving Layup Shot,1,0,12,True
+Darren Collison,3,8,15,1,Driving Layup Shot,2,1,21,True
+Darren Collison,3,4,32,0,Driving Layup Shot,2,2,27,True
+Darren Collison,2,4,10,1,Driving Layup Shot,0,2,8,True
+Darren Collison,4,2,11,0,Driving Layup Shot,2,22,6,True
+Darren Collison,3,10,54,0,Driving Layup Shot,2,2,21,True
+Darren Collison,4,8,47,0,Driving Layup Shot,4,-33,34,True
+Darren Collison,2,9,6,1,Driving Layup Shot,0,6,5,True
+Darren Collison,1,10,56,1,Driving Layup Shot,0,-2,1,True
+Darren Collison,1,11,1,0,Driving Layup Shot,1,-6,15,True
+Darren Collison,1,10,52,0,Driving Layup Shot,5,11,52,True
+Darren Collison,2,11,43,0,Driving Layup Shot,3,4,39,True
+Darren Collison,1,0,47,0,Driving Layup Shot,1,-3,18,True
+Darren Collison,3,7,19,0,Driving Layup Shot,1,-3,15,True
+Darren Collison,3,1,24,1,Driving Layup Shot,1,-4,17,True
+Darren Collison,1,0,3,0,Driving Layup Shot,4,-32,37,True
+Darren Collison,2,0,30,0,Driving Layup Shot,1,14,9,True
+Darren Collison,4,1,49,1,Driving Layup Shot,1,16,2,True
+Darren Collison,1,7,39,1,Driving Layup Shot,1,18,-6,True
+Darren Collison,4,6,53,0,Driving Layup Shot,1,-12,8,True
+Darren Collison,4,0,42,0,Driving Layup Shot,2,20,-3,True
+Darren Collison,4,8,27,1,Driving Layup Shot,3,17,27,True
+Darren Collison,2,2,6,1,Driving Reverse Layup Shot,3,26,15,True
+Darren Collison,1,7,27,0,Driving Reverse Layup Shot,0,-5,8,True
+Darren Collison,1,9,10,0,Driving Reverse Layup Shot,1,10,1,True
+Darren Collison,1,11,36,1,Driving Reverse Layup Shot,1,8,15,True
+Darren Collison,2,2,49,1,Driving Reverse Layup Shot,1,-3,18,True
+Darren Collison,1,7,34,0,Driving Reverse Layup Shot,0,4,-3,True
+Darren Collison,1,6,7,0,Fadeaway Jump Shot,8,3,80,True
+Darren Collison,2,0,58,0,Fadeaway Jump Shot,21,-122,180,True
+Darren Collison,5,0,23,1,Fadeaway Jump Shot,19,190,10,True
+Darren Collison,1,0,9,0,Fadeaway Jump Shot,19,97,164,True
+Darren Collison,3,3,37,0,Fadeaway Jump Shot,8,-31,82,True
+Darren Collison,3,5,59,0,Fadeaway Jump Shot,15,14,157,True
+Darren Collison,1,2,17,1,Floating Jump shot,1,-12,13,True
+Darren Collison,3,11,18,0,Floating Jump shot,8,18,88,True
+Darren Collison,1,4,12,1,Floating Jump shot,15,14,157,True
+Darren Collison,2,7,12,0,Floating Jump shot,9,5,96,True
+Darren Collison,4,4,27,0,Floating Jump shot,6,-5,64,True
+Darren Collison,2,0,35,0,Floating Jump shot,9,-11,99,True
+Darren Collison,1,3,46,0,Jump Shot,19,4,191,True
+Darren Collison,3,9,34,1,Jump Shot,27,-117,246,False
+Darren Collison,1,10,59,1,Jump Shot,24,217,122,False
+Darren Collison,1,5,50,0,Jump Shot,17,-9,172,True
+Darren Collison,3,3,18,0,Jump Shot,27,22,272,False
+Darren Collison,1,7,19,0,Jump Shot,24,231,67,False
+Darren Collison,3,5,19,1,Jump Shot,25,63,251,False
+Darren Collison,1,5,55,0,Jump Shot,24,236,64,False
+Darren Collison,2,0,52,0,Jump Shot,18,-183,-13,True
+Darren Collison,1,10,11,1,Jump Shot,22,76,210,True
+Darren Collison,3,3,14,1,Jump Shot,16,-167,3,True
+Darren Collison,2,2,36,1,Jump Shot,24,-228,102,False
+Darren Collison,1,5,29,1,Jump Shot,24,-138,198,False
+Darren Collison,3,9,23,1,Jump Shot,26,-132,226,False
+Darren Collison,4,0,0,1,Jump Shot,22,-226,5,False
+Darren Collison,2,1,41,1,Jump Shot,19,-3,199,True
+Darren Collison,2,3,38,0,Jump Shot,25,150,201,False
+Darren Collison,4,2,30,1,Jump Shot,20,204,36,True
+Darren Collison,1,9,58,1,Jump Shot,25,76,241,False
+Darren Collison,3,9,55,1,Jump Shot,14,147,-1,True
+Darren Collison,1,7,19,0,Jump Shot,23,135,194,True
+Darren Collison,4,5,23,0,Jump Shot,24,209,126,False
+Darren Collison,2,5,20,0,Jump Shot,16,-31,157,True
+Darren Collison,1,11,18,0,Jump Shot,24,-204,136,False
+Darren Collison,1,5,9,0,Jump Shot,14,144,22,True
+Darren Collison,1,4,11,0,Jump Shot,22,-227,-22,False
+Darren Collison,3,11,18,0,Jump Shot,25,-228,123,False
+Darren Collison,5,0,55,1,Jump Shot,23,236,19,False
+Darren Collison,3,7,10,1,Jump Shot,19,188,47,True
+Darren Collison,5,2,49,1,Jump Shot,22,228,14,False
+Darren Collison,1,11,7,1,Jump Shot,25,166,196,False
+Darren Collison,2,5,7,0,Jump Shot,25,-166,189,False
+Darren Collison,3,6,19,0,Jump Shot,23,238,26,False
+Darren Collison,2,5,26,0,Jump Shot,20,206,-8,True
+Darren Collison,3,5,15,1,Jump Shot,27,-16,272,False
+Darren Collison,4,1,4,0,Jump Shot,26,-156,209,False
+Darren Collison,2,5,10,1,Jump Shot,22,227,23,False
+Darren Collison,3,0,43,1,Jump Shot,25,145,212,False
+Darren Collison,4,10,20,0,Jump Shot,25,136,218,False
+Darren Collison,2,1,41,0,Jump Shot,24,-237,38,False
+Darren Collison,4,11,0,1,Jump Shot,22,-226,27,False
+Darren Collison,2,1,39,0,Jump Shot,25,196,164,False
+Darren Collison,4,7,55,1,Jump Shot,18,186,4,True
+Darren Collison,2,3,39,0,Jump Shot,25,27,251,False
+Darren Collison,3,9,44,1,Jump Shot,22,228,16,False
+Darren Collison,2,6,28,0,Jump Shot,18,185,27,True
+Darren Collison,1,6,15,0,Jump Shot,24,24,248,False
+Darren Collison,2,3,45,0,Jump Shot,26,131,229,False
+Darren Collison,1,4,38,1,Jump Shot,24,-178,171,False
+Darren Collison,3,0,0,0,Jump Shot,53,-89,529,False
+Darren Collison,1,10,33,1,Jump Shot,23,230,8,False
+Darren Collison,3,1,13,0,Jump Shot,27,190,203,False
+Darren Collison,3,3,28,0,Jump Shot,23,-231,10,False
+Darren Collison,1,8,2,1,Jump Shot,17,-179,-3,True
+Darren Collison,4,3,17,0,Jump Shot,26,201,180,False
+Darren Collison,1,7,40,0,Jump Shot,25,135,214,False
+Darren Collison,3,8,42,0,Jump Shot,30,90,289,False
+Darren Collison,3,4,5,1,Jump Shot,22,-228,0,False
+Darren Collison,4,7,30,0,Jump Shot,22,-227,-16,False
+Darren Collison,4,9,29,0,Jump Shot,15,-151,-18,True
+Darren Collison,4,1,11,0,Jump Shot,24,-242,5,False
+Darren Collison,2,6,36,1,Jump Shot,24,-243,57,False
+Darren Collison,3,8,15,1,Jump Shot,26,-235,122,False
+Darren Collison,4,3,43,0,Jump Shot,16,10,163,True
+Darren Collison,3,6,32,0,Jump Shot,12,81,91,True
+Darren Collison,3,8,40,0,Jump Shot,14,113,85,True
+Darren Collison,4,9,42,1,Jump Shot,17,68,164,True
+Darren Collison,1,5,25,1,Jump Shot,26,125,232,False
+Darren Collison,1,4,44,0,Jump Shot,25,-223,122,False
+Darren Collison,3,7,4,1,Jump Shot,25,-177,185,False
+Darren Collison,1,11,5,0,Jump Shot,17,174,19,True
+Darren Collison,1,7,45,0,Jump Shot,15,159,-1,True
+Darren Collison,3,4,32,0,Jump Shot,23,235,48,False
+Darren Collison,2,4,40,0,Jump Shot,23,-230,28,False
+Darren Collison,2,0,3,0,Jump Shot,17,-81,160,True
+Darren Collison,3,10,20,0,Jump Shot,25,-102,235,False
+Darren Collison,1,5,2,0,Jump Shot,26,14,267,False
+Darren Collison,1,4,4,1,Jump Shot,21,-14,217,True
+Darren Collison,1,2,10,1,Jump Shot,27,155,222,False
+Darren Collison,4,3,6,1,Jump Shot,23,-232,5,False
+Darren Collison,3,4,40,1,Jump Shot,23,-231,-8,False
+Darren Collison,1,2,41,1,Jump Shot,22,133,187,True
+Darren Collison,3,2,43,1,Jump Shot,22,222,-17,False
+Darren Collison,1,1,37,1,Jump Shot,22,225,-5,False
+Darren Collison,3,4,18,0,Jump Shot,24,-237,59,False
+Darren Collison,1,1,7,0,Jump Shot,23,235,-20,False
+Darren Collison,3,4,27,1,Jump Shot,26,182,195,False
+Darren Collison,3,3,51,1,Jump Shot,23,225,68,False
+Darren Collison,1,9,0,0,Jump Shot,26,-198,171,False
+Darren Collison,2,2,16,0,Jump Shot,20,88,185,True
+Darren Collison,3,4,21,1,Jump Shot,22,226,20,False
+Darren Collison,1,3,26,1,Jump Shot,15,-156,-4,True
+Darren Collison,2,3,44,1,Jump Shot,25,-224,125,False
+Darren Collison,2,4,47,1,Jump Shot,18,44,183,True
+Darren Collison,3,5,48,0,Jump Shot,24,-134,200,False
+Darren Collison,3,0,2,1,Jump Shot,21,100,194,True
+Darren Collison,1,3,53,0,Jump Shot,4,-45,21,True
+Darren Collison,3,4,25,0,Jump Shot,24,92,225,False
+Darren Collison,1,9,34,0,Jump Shot,5,10,49,True
+Darren Collison,3,6,4,1,Jump Shot,24,-100,226,False
+Darren Collison,3,5,5,1,Jump Shot,16,-9,161,True
+Darren Collison,4,5,53,1,Jump Shot,24,-161,188,False
+Darren Collison,1,4,53,1,Jump Shot,25,65,243,False
+Darren Collison,4,3,27,0,Jump Shot,16,66,150,True
+Darren Collison,1,3,45,0,Jump Shot,17,171,20,True
+Darren Collison,3,10,47,0,Jump Shot,26,107,245,False
+Darren Collison,4,0,7,0,Jump Shot,28,-198,208,False
+Darren Collison,4,5,47,0,Jump Shot,22,-228,-11,False
+Darren Collison,2,6,53,1,Jump Shot,22,228,21,False
+Darren Collison,1,10,5,1,Jump Shot,26,88,248,False
+Darren Collison,1,9,23,0,Jump Shot,28,66,279,False
+Darren Collison,3,3,21,1,Jump Shot,28,-187,215,False
+Darren Collison,3,2,43,0,Jump Shot,27,114,248,False
+Darren Collison,3,9,0,1,Jump Shot,1,3,17,True
+Darren Collison,1,8,10,1,Jump Shot,17,160,58,True
+Darren Collison,1,9,30,1,Jump Shot,22,227,1,False
+Darren Collison,1,1,47,0,Jump Shot,23,-226,75,False
+Darren Collison,2,0,31,0,Jump Shot,8,-70,48,True
+Darren Collison,1,7,54,0,Jump Shot,23,231,32,False
+Darren Collison,1,10,29,1,Jump Shot,27,-154,230,False
+Darren Collison,3,9,54,0,Jump Shot,26,149,219,False
+Darren Collison,3,3,18,1,Jump Shot,26,-44,264,False
+Darren Collison,3,4,46,1,Jump Shot,27,-166,216,False
+Darren Collison,1,4,21,0,Jump Shot,27,-192,200,False
+Darren Collison,3,4,4,0,Jump Shot,26,231,124,False
+Darren Collison,3,5,23,0,Jump Shot,19,91,167,True
+Darren Collison,4,1,17,0,Jump Shot,26,-147,221,False
+Darren Collison,1,7,51,1,Jump Shot,25,145,213,False
+Darren Collison,4,6,10,0,Jump Shot,23,-231,17,False
+Darren Collison,3,5,57,0,Jump Shot,18,-181,4,True
+Darren Collison,1,6,29,0,Jump Shot,22,-225,17,False
+Darren Collison,3,0,15,0,Jump Shot,9,-85,48,True
+Darren Collison,3,6,22,1,Jump Shot,23,229,57,False
+Darren Collison,1,9,29,0,Jump Shot,24,-235,67,False
+Darren Collison,2,3,36,1,Jump Shot,18,-145,109,True
+Darren Collison,1,8,52,1,Jump Shot,23,-230,-18,False
+Darren Collison,3,8,36,0,Jump Shot,25,146,211,False
+Darren Collison,4,2,41,0,Jump Shot,23,-234,47,False
+Darren Collison,4,7,10,0,Jump Shot,23,-234,13,False
+Darren Collison,3,6,22,0,Jump Shot,27,144,239,False
+Darren Collison,1,11,8,1,Jump Shot,26,-148,225,False
+Darren Collison,2,1,22,0,Jump Shot,27,-163,218,False
+Darren Collison,1,5,38,1,Jump Shot,25,218,125,False
+Darren Collison,1,10,13,0,Jump Shot,24,230,74,False
+Darren Collison,3,1,48,0,Jump Shot,19,104,169,True
+Darren Collison,2,1,13,0,Jump Shot,17,-121,132,True
+Darren Collison,3,1,37,0,Jump Shot,17,172,1,True
+Darren Collison,4,1,57,0,Jump Shot,23,-230,22,False
+Darren Collison,2,3,16,0,Jump Shot,27,-202,190,False
+Darren Collison,2,11,32,0,Jump Shot,18,106,146,True
+Darren Collison,3,2,55,1,Jump Shot,20,-46,198,True
+Darren Collison,2,9,34,1,Jump Shot,27,-152,232,False
+Darren Collison,1,7,16,0,Jump Shot,26,-125,237,False
+Darren Collison,4,3,9,1,Jump Shot,23,-233,-17,False
+Darren Collison,2,5,11,1,Jump Shot,20,-110,173,True
+Darren Collison,3,6,49,0,Jump Shot,23,230,-20,False
+Darren Collison,1,4,37,1,Jump Shot,26,-107,243,False
+Darren Collison,1,10,41,1,Jump Shot,26,154,215,False
+Darren Collison,1,6,21,1,Jump Shot,26,-204,170,False
+Darren Collison,3,9,52,1,Jump Shot,16,-168,-10,True
+Darren Collison,3,0,0,0,Jump Shot,39,218,326,False
+Darren Collison,3,6,59,1,Jump Shot,23,231,13,False
+Darren Collison,2,10,41,0,Jump Shot,23,-229,38,False
+Darren Collison,3,7,4,0,Jump Shot,26,-125,232,False
+Darren Collison,2,8,11,0,Jump Shot,16,107,122,True
+Darren Collison,2,10,37,0,Jump Shot,14,147,-5,True
+Darren Collison,3,2,38,0,Jump Shot,26,75,256,False
+Darren Collison,3,6,34,0,Jump Shot,26,-90,244,False
+Darren Collison,3,5,59,1,Jump Shot,19,-197,16,True
+Darren Collison,2,11,16,1,Jump Shot,16,-166,3,True
+Darren Collison,3,0,3,0,Jump Shot,18,46,183,True
+Darren Collison,1,8,30,0,Jump Shot,26,-186,184,False
+Darren Collison,1,4,58,0,Jump Shot,27,-136,244,False
+Darren Collison,4,1,31,1,Jump Shot,23,231,24,False
+Darren Collison,2,8,38,1,Jump Shot,24,-231,67,False
+Darren Collison,3,6,13,1,Jump Shot,18,-169,64,True
+Darren Collison,4,2,33,1,Jump Shot,27,-183,210,False
+Darren Collison,4,3,42,1,Jump Shot,23,3,233,True
+Darren Collison,1,5,19,0,Jump Shot,25,-212,145,False
+Darren Collison,2,9,4,0,Jump Shot,22,-228,-8,False
+Darren Collison,3,7,28,0,Jump Shot,26,-165,205,False
+Darren Collison,2,6,51,0,Jump Shot,20,-202,2,True
+Darren Collison,3,9,53,0,Jump Shot,18,105,153,True
+Darren Collison,1,6,31,0,Jump Shot,25,190,164,False
+Darren Collison,4,0,9,1,Jump Shot,26,-90,251,False
+Darren Collison,3,7,19,1,Jump Shot,26,112,235,False
+Darren Collison,4,4,16,1,Jump Shot,22,222,37,False
+Darren Collison,4,2,19,1,Jump Shot,20,-170,121,True
+Darren Collison,3,8,17,1,Jump Shot,19,-36,195,True
+Darren Collison,3,6,35,0,Jump Shot,26,-168,203,False
+Darren Collison,1,6,12,0,Jump Shot,27,-145,230,False
+Darren Collison,4,0,46,0,Jump Shot,26,67,253,False
+Darren Collison,3,8,38,0,Jump Shot,26,-122,238,False
+Darren Collison,3,10,57,1,Jump Shot,10,107,12,True
+Darren Collison,1,11,26,1,Jump Shot,23,227,41,False
+Darren Collison,1,11,25,0,Jump Shot,22,-229,-3,False
+Darren Collison,3,0,1,0,Jump Shot,31,-110,295,False
+Darren Collison,3,11,15,0,Jump Shot,15,150,23,True
+Darren Collison,1,6,49,1,Jump Shot,22,-138,180,True
+Darren Collison,3,0,48,1,Jump Shot,23,-229,52,False
+Darren Collison,3,9,9,0,Jump Shot,24,-235,54,False
+Darren Collison,3,4,38,0,Jump Shot,15,154,12,True
+Darren Collison,3,8,54,0,Jump Shot,22,225,7,False
+Darren Collison,2,8,3,0,Jump Shot,24,146,201,False
+Darren Collison,4,2,24,0,Jump Shot,24,-51,243,False
+Darren Collison,1,7,50,0,Jump Shot,14,143,28,True
+Darren Collison,2,7,56,0,Jump Shot,23,233,13,False
+Darren Collison,3,0,3,1,Jump Shot,25,-79,241,False
+Darren Collison,2,1,25,0,Jump Shot,23,-232,11,False
+Darren Collison,4,0,34,0,Jump Shot,26,-162,208,False
+Darren Collison,1,5,16,0,Jump Shot,4,21,43,True
+Darren Collison,1,4,25,0,Jump Shot,16,65,154,True
+Darren Collison,4,4,47,0,Jump Shot,25,206,157,False
+Darren Collison,2,1,5,1,Jump Shot,25,90,238,False
+Darren Collison,2,0,12,0,Jump Shot,15,74,137,True
+Darren Collison,1,5,10,1,Jump Shot,22,227,6,False
+Darren Collison,3,1,8,1,Jump Shot,26,-145,217,False
+Darren Collison,1,4,7,0,Jump Shot,25,-133,216,False
+Darren Collison,4,0,27,1,Layup Shot,2,18,19,True
+Darren Collison,1,2,38,0,Layup Shot,2,13,21,True
+Darren Collison,4,2,6,0,Layup Shot,1,-10,11,True
+Darren Collison,2,8,23,1,Layup Shot,2,-16,15,True
+Darren Collison,1,6,5,0,Layup Shot,1,6,16,True
+Darren Collison,2,1,35,0,Layup Shot,4,13,40,True
+Darren Collison,1,4,34,1,Layup Shot,1,-13,10,True
+Darren Collison,1,6,14,1,Layup Shot,0,5,5,True
+Darren Collison,1,5,54,1,Layup Shot,1,5,16,True
+Darren Collison,3,10,1,1,Layup Shot,0,-2,6,True
+Darren Collison,3,8,33,1,Layup Shot,0,-1,2,True
+Darren Collison,1,11,19,1,Layup Shot,1,12,9,True
+Darren Collison,3,5,43,1,Layup Shot,0,-2,2,True
+Darren Collison,1,3,28,0,Layup Shot,2,11,24,True
+Darren Collison,3,1,40,1,Layup Shot,2,-25,13,True
+Darren Collison,4,6,46,1,Layup Shot,0,-3,8,True
+Darren Collison,3,6,59,0,Layup Shot,5,-51,13,True
+Darren Collison,2,0,59,1,Layup Shot,3,3,30,True
+Darren Collison,2,5,27,0,Layup Shot,1,-14,13,True
+Darren Collison,2,7,59,0,Layup Shot,2,17,11,True
+Darren Collison,3,4,5,0,Layup Shot,1,-2,13,True
+Darren Collison,1,5,41,0,Layup Shot,6,65,22,True
+Darren Collison,1,10,51,0,Layup Shot,0,-5,-1,True
+Darren Collison,3,3,57,1,Pullup Jump shot,20,97,176,True
+Darren Collison,3,1,47,0,Pullup Jump shot,16,145,68,True
+Darren Collison,3,9,2,0,Pullup Jump shot,20,-103,174,True
+Darren Collison,1,3,52,1,Pullup Jump shot,25,-177,178,False
+Darren Collison,2,2,51,0,Pullup Jump shot,19,168,95,True
+Darren Collison,4,0,0,0,Pullup Jump shot,29,-152,258,False
+Darren Collison,1,7,27,0,Pullup Jump shot,19,87,176,True
+Darren Collison,2,1,55,0,Pullup Jump shot,19,-38,194,True
+Darren Collison,2,4,1,1,Pullup Jump shot,18,-70,175,True
+Darren Collison,2,1,26,1,Pullup Jump shot,17,70,162,True
+Darren Collison,2,4,29,1,Pullup Jump shot,14,139,-17,True
+Darren Collison,4,0,38,0,Pullup Jump shot,26,109,246,False
+Darren Collison,3,3,6,0,Pullup Jump shot,20,-37,197,True
+Darren Collison,2,0,43,0,Pullup Jump shot,18,76,173,True
+Darren Collison,3,4,48,1,Pullup Jump shot,19,14,190,True
+Darren Collison,4,5,1,0,Pullup Jump shot,15,-109,113,True
+Darren Collison,3,11,16,1,Pullup Jump shot,24,-215,109,False
+Darren Collison,1,8,38,0,Pullup Jump shot,12,111,58,True
+Darren Collison,1,3,50,0,Pullup Jump shot,20,-8,208,True
+Darren Collison,3,3,35,1,Pullup Jump shot,21,87,194,True
+Darren Collison,1,3,31,0,Pullup Jump shot,18,177,53,True
+Darren Collison,3,4,42,1,Pullup Jump shot,19,-88,170,True
+Darren Collison,1,7,8,0,Pullup Jump shot,20,46,200,True
+Darren Collison,4,8,22,1,Pullup Jump shot,15,13,159,True
+Darren Collison,4,5,18,0,Pullup Jump shot,20,79,186,True
+Darren Collison,4,2,55,1,Pullup Jump shot,22,-104,197,True
+Darren Collison,2,2,10,0,Pullup Jump shot,18,143,112,True
+Darren Collison,3,4,30,1,Pullup Jump shot,16,91,139,True
+Darren Collison,4,6,3,1,Pullup Jump shot,19,-180,65,True
+Darren Collison,2,4,46,1,Pullup Jump shot,17,52,165,True
+Darren Collison,4,4,12,1,Pullup Jump shot,16,65,150,True
+Darren Collison,3,8,7,1,Pullup Jump shot,19,83,173,True
+Darren Collison,4,10,52,0,Pullup Jump shot,14,-143,15,True
+Darren Collison,3,1,36,0,Pullup Jump shot,20,21,202,True
+Darren Collison,1,7,30,1,Pullup Jump shot,16,114,116,True
+Darren Collison,3,4,0,1,Pullup Jump shot,21,-35,217,True
+Darren Collison,5,4,48,1,Pullup Jump shot,18,76,168,True
+Darren Collison,4,0,3,1,Pullup Jump shot,27,-112,248,False
+Darren Collison,3,1,42,0,Pullup Jump shot,19,136,142,True
+Darren Collison,3,7,23,1,Pullup Jump shot,14,-75,126,True
+Darren Collison,4,2,39,0,Pullup Jump shot,16,106,130,True
+Darren Collison,2,1,47,0,Pullup Jump shot,15,109,113,True
+Darren Collison,3,5,37,0,Pullup Jump shot,17,51,168,True
+Darren Collison,2,5,7,0,Pullup Jump shot,16,-2,167,True
+Darren Collison,4,7,3,0,Pullup Jump shot,19,-101,169,True
+Darren Collison,3,1,33,1,Pullup Jump shot,16,60,159,True
+Darren Collison,2,0,16,1,Pullup Jump shot,19,-21,195,True
+Darren Collison,2,2,46,0,Pullup Jump shot,19,62,190,True
+Darren Collison,3,7,44,1,Pullup Jump shot,17,24,169,True
+Darren Collison,3,1,48,1,Pullup Jump shot,17,49,172,True
+Darren Collison,4,11,24,0,Pullup Jump shot,19,-109,162,True
+Darren Collison,2,0,0,0,Pullup Jump shot,21,83,200,True
+Darren Collison,1,10,6,0,Pullup Jump shot,18,-51,175,True
+Darren Collison,1,7,49,0,Pullup Jump shot,17,63,159,True
+Darren Collison,3,4,14,1,Pullup Jump shot,20,-4,203,True
+Darren Collison,1,7,21,1,Pullup Jump shot,17,117,134,True
+Darren Collison,4,2,45,1,Pullup Jump shot,22,147,173,True
+Darren Collison,2,6,16,0,Pullup Jump shot,17,-38,169,True
+Darren Collison,3,6,12,0,Pullup Jump shot,20,-30,198,True
+Darren Collison,1,10,50,1,Pullup Jump shot,26,-41,265,False
+Darren Collison,1,5,56,0,Pullup Jump shot,21,-70,198,True
+Darren Collison,3,0,54,1,Pullup Jump shot,20,-109,169,True
+Darren Collison,3,2,59,1,Pullup Jump shot,20,-67,194,True
+Darren Collison,3,11,4,1,Pullup Jump shot,24,-163,188,False
+Darren Collison,2,0,7,1,Pullup Jump shot,17,131,110,True
+Darren Collison,4,11,15,1,Pullup Jump shot,15,43,153,True
+Darren Collison,1,4,10,1,Pullup Jump shot,16,84,143,True
+Darren Collison,4,9,32,0,Pullup Jump shot,25,85,239,False
+Darren Collison,4,2,43,0,Pullup Jump shot,25,-1,252,False
+Darren Collison,4,4,33,1,Pullup Jump shot,19,9,197,True
+Darren Collison,2,9,50,0,Pullup Jump shot,26,87,247,False
+Darren Collison,1,6,36,0,Pullup Jump shot,13,-9,138,True
+Darren Collison,1,5,18,0,Pullup Jump shot,16,-71,144,True
+Darren Collison,3,4,56,0,Pullup Jump shot,14,-58,133,True
+Darren Collison,2,4,13,1,Pullup Jump shot,26,-17,263,False
+Darren Collison,1,11,28,1,Pullup Jump shot,17,78,152,True
+Darren Collison,2,0,1,0,Pullup Jump shot,18,59,179,True
+Darren Collison,2,2,56,0,Pullup Jump shot,15,-5,154,True
+Darren Collison,1,6,36,1,Pullup Jump shot,25,-59,247,False
+Darren Collison,2,0,2,0,Pullup Jump shot,18,-116,139,True
+Darren Collison,1,6,51,1,Pullup Jump shot,26,-170,202,False
+Darren Collison,1,9,50,0,Pullup Jump shot,17,-166,59,True
+Darren Collison,2,0,4,0,Pullup Jump shot,18,75,165,True
+Darren Collison,3,3,24,1,Pullup Jump shot,21,-88,193,True
+Darren Collison,3,0,0,1,Pullup Jump shot,20,2,209,True
+Darren Collison,1,9,7,1,Pullup Jump shot,19,-61,189,True
+Darren Collison,1,3,59,0,Pullup Jump shot,20,-25,206,True
+Darren Collison,4,3,37,0,Pullup Jump shot,23,64,225,True
+Darren Collison,3,3,2,0,Pullup Jump shot,18,-112,143,True
+Darren Collison,1,5,34,1,Pullup Jump shot,19,-138,134,True
+Darren Collison,2,0,1,0,Pullup Jump shot,26,160,207,False
+Darren Collison,3,8,45,1,Pullup Jump shot,26,-68,256,False
+Darren Collison,2,9,51,0,Pullup Jump shot,20,-2,200,True
+Darren Collison,2,1,54,1,Pullup Jump shot,16,160,-12,True
+Darren Collison,1,9,2,0,Pullup Jump shot,16,40,158,True
+Darren Collison,4,4,15,1,Pullup Jump shot,26,-81,249,False
+Darren Collison,2,0,8,0,Pullup Jump shot,18,76,165,True
+Darren Collison,2,0,0,1,Pullup Jump shot,28,122,254,False
+Darren Collison,1,8,17,0,Pullup Jump shot,17,90,152,True
+Darren Collison,1,10,24,1,Pullup Jump shot,18,-5,186,True
+Darren Collison,3,7,8,0,Pullup Jump shot,21,139,158,True
+Darren Collison,1,9,50,1,Pullup Jump shot,15,67,142,True
+Darren Collison,2,6,26,0,Pullup Jump shot,19,79,176,True
+Darren Collison,2,1,53,0,Pullup Jump shot,16,162,21,True
+Darren Collison,3,10,45,0,Pullup Jump shot,18,-55,179,True
+Darren Collison,2,0,1,0,Pullup Jump shot,27,-47,269,False
+Darren Collison,1,11,19,0,Pullup Jump shot,18,-81,163,True
+Darren Collison,1,2,28,1,Pullup Jump shot,27,-215,168,False
+Darren Collison,1,11,4,1,Pullup Jump shot,19,78,177,True
+Darren Collison,1,0,48,0,Pullup Jump shot,18,-87,166,True
+Darren Collison,4,5,42,0,Pullup Jump shot,20,-119,169,True
+Darren Collison,3,1,40,1,Pullup Jump shot,25,-123,223,False
+Darren Collison,3,3,59,1,Pullup Jump shot,14,146,29,True
+Darren Collison,3,0,30,0,Pullup Jump shot,25,-106,237,False
+Darren Collison,4,3,40,0,Pullup Jump shot,15,-47,149,True
+Darren Collison,2,3,27,1,Pullup Jump shot,19,81,177,True
+Darren Collison,3,6,1,1,Pullup Jump shot,18,-93,155,True
+Darren Collison,4,1,51,1,Pullup Jump shot,15,-22,152,True
+Darren Collison,4,3,54,0,Pullup Jump shot,18,111,147,True
+Darren Collison,3,11,38,0,Pullup Jump shot,17,51,168,True
+Darren Collison,1,6,46,0,Pullup Jump shot,17,53,170,True
+Darren Collison,1,10,6,0,Pullup Jump shot,21,-147,153,True
+Darren Collison,2,0,35,0,Pullup Jump shot,19,-31,193,True
+Darren Collison,3,5,37,1,Pullup Jump shot,16,-24,163,True
+Darren Collison,1,6,6,1,Pullup Jump shot,18,-110,152,True
+Darren Collison,3,7,40,1,Pullup Jump shot,24,20,241,False
+Darren Collison,3,6,46,0,Pullup Jump shot,17,84,155,True
+Darren Collison,2,2,12,1,Pullup Jump shot,20,55,193,True
+Darren Collison,1,4,2,0,Pullup Jump shot,19,87,179,True
+Darren Collison,3,3,31,1,Pullup Jump shot,17,-119,133,True
+Darren Collison,1,8,49,0,Pullup Jump shot,16,10,167,True
+Darren Collison,1,9,33,1,Pullup Jump shot,20,-13,205,True
+Darren Collison,3,5,14,1,Pullup Jump shot,15,8,158,True
+Darren Collison,3,9,59,1,Pullup Jump shot,19,107,159,True
+Darren Collison,1,4,34,0,Pullup Jump shot,18,75,170,True
+Darren Collison,4,4,19,0,Pullup Jump shot,17,95,143,True
+Darren Collison,2,3,17,0,Pullup Jump shot,17,106,141,True
+Darren Collison,1,4,8,0,Pullup Jump shot,18,83,163,True
+Darren Collison,2,4,14,1,Pullup Jump shot,20,-39,199,True
+Darren Collison,3,0,10,1,Pullup Jump shot,18,188,-1,True
+Darren Collison,4,9,8,1,Pullup Jump shot,19,84,173,True
+Darren Collison,3,6,17,0,Pullup Jump shot,18,75,168,True
+Darren Collison,1,7,55,0,Pullup Jump shot,20,-72,193,True
+Darren Collison,3,4,31,0,Pullup Jump shot,21,176,117,True
+Darren Collison,3,0,2,1,Pullup Jump shot,22,82,213,True
+Darren Collison,1,6,32,0,Pullup Jump shot,18,-63,175,True
+Darren Collison,1,5,16,1,Pullup Jump shot,10,-73,76,True
+Darren Collison,2,3,30,1,Pullup Jump shot,15,152,7,True
+Darren Collison,4,0,6,1,Putback Layup Shot,0,4,2,True
+Darren Collison,2,2,29,1,Reverse Layup Shot,0,2,1,True
+Darren Collison,2,0,3,0,Reverse Layup Shot,1,-13,10,True
+Darren Collison,2,3,9,0,Reverse Layup Shot,0,0,2,True
+Darren Collison,2,2,59,1,Reverse Layup Shot,0,-3,7,True
+Darren Collison,3,9,23,1,Running Dunk Shot,1,0,10,True
+Darren Collison,3,8,20,1,Running Finger Roll Layup Shot,0,-2,6,True
+Darren Collison,3,8,55,1,Running Finger Roll Layup Shot,0,5,6,True
+Darren Collison,3,11,19,1,Running Finger Roll Layup Shot,0,-2,9,True
+Darren Collison,4,0,12,1,Running Finger Roll Layup Shot,1,-8,13,True
+Darren Collison,1,7,19,1,Running Finger Roll Layup Shot,0,-2,-4,True
+Darren Collison,2,6,32,0,Running Finger Roll Layup Shot,1,6,14,True
+Darren Collison,4,3,54,0,Running Finger Roll Layup Shot,1,-2,11,True
+Darren Collison,3,10,25,0,Running Finger Roll Layup Shot,1,2,16,True
+Darren Collison,1,7,6,0,Running Finger Roll Layup Shot,1,-6,18,True
+Darren Collison,1,9,12,1,Running Finger Roll Layup Shot,0,-1,6,True
+Darren Collison,2,3,0,1,Running Finger Roll Layup Shot,0,-3,6,True
+Darren Collison,3,10,25,1,Running Finger Roll Layup Shot,0,4,2,True
+Darren Collison,3,11,22,1,Running Finger Roll Layup Shot,2,-14,17,True
+Darren Collison,1,4,47,0,Running Jump Shot,22,190,114,True
+Darren Collison,1,9,26,0,Running Jump Shot,25,-159,201,False
+Darren Collison,3,7,57,0,Running Jump Shot,6,-40,51,True
+Darren Collison,1,8,9,1,Running Layup Shot,2,-22,17,True
+Darren Collison,2,3,7,0,Running Layup Shot,7,22,72,True
+Darren Collison,2,3,29,1,Running Layup Shot,1,11,10,True
+Darren Collison,1,4,14,1,Running Layup Shot,0,-9,-1,True
+Darren Collison,1,8,8,1,Running Layup Shot,2,-15,14,True
+Darren Collison,2,0,52,0,Running Layup Shot,2,27,11,True
+Darren Collison,3,6,10,1,Running Layup Shot,3,-18,27,True
+Darren Collison,3,10,54,0,Running Layup Shot,1,10,16,True
+Darren Collison,1,8,7,0,Running Layup Shot,2,-12,18,True
+Darren Collison,1,1,52,1,Running Layup Shot,0,7,6,True
+Darren Collison,4,4,15,1,Running Layup Shot,1,5,12,True
+Darren Collison,3,9,40,1,Running Layup Shot,4,5,41,True
+Darren Collison,1,5,53,1,Running Layup Shot,1,6,11,True
+Darren Collison,3,5,5,1,Running Layup Shot,1,3,10,True
+Darren Collison,3,5,54,0,Running Layup Shot,2,7,19,True
+Darren Collison,3,11,17,1,Running Layup Shot,0,-1,-4,True
+Darren Collison,3,10,22,1,Running Layup Shot,1,14,10,True
+Darren Collison,2,1,14,1,Running Layup Shot,1,-1,11,True
+Darren Collison,4,1,32,0,Running Layup Shot,3,32,12,True
+Darren Collison,2,0,56,0,Running Layup Shot,1,-10,5,True
+Darren Collison,3,10,40,1,Running Layup Shot,1,6,15,True
+Darren Collison,3,8,48,0,Running Layup Shot,1,-4,19,True
+Darren Collison,4,3,12,0,Running Layup Shot,1,2,16,True
+Darren Collison,3,10,5,1,Running Layup Shot,0,-9,4,True
+Darren Collison,4,10,37,1,Running Pull-Up Jump Shot,19,-145,136,True
+Darren Collison,2,8,4,1,Running Reverse Layup Shot,1,-1,17,True
+Darren Collison,3,4,55,1,Running Reverse Layup Shot,1,2,17,True
+Darren Collison,4,9,1,0,Step Back Jump shot,16,-162,-15,True
+Darren Collison,2,6,13,1,Step Back Jump shot,20,-154,134,True
+Darren Collison,1,4,45,0,Step Back Jump shot,26,147,220,False
+Darren Collison,4,10,40,1,Step Back Jump shot,18,-18,187,True
+Darren Collison,1,10,41,1,Step Back Jump shot,15,-93,127,True
+Darren Collison,3,6,24,1,Step Back Jump shot,15,-157,4,True
+Darren Collison,3,1,21,0,Step Back Jump shot,23,-232,13,False
+Darren Collison,1,4,48,1,Step Back Jump shot,21,181,117,True
+Darren Collison,2,8,20,1,Step Back Jump shot,18,-111,145,True
+Darren Collison,4,0,39,0,Step Back Jump shot,20,137,152,True
+Darren Collison,1,9,20,1,Step Back Jump shot,16,167,20,True
+Darren Collison,3,11,25,0,Step Back Jump shot,18,-27,179,True
+Darren Collison,2,0,13,1,Step Back Jump shot,14,-1,143,True
+Darren Collison,4,1,9,1,Step Back Jump shot,18,-15,184,True
+Darren Collison,3,11,19,0,Step Back Jump shot,25,-159,201,False
+Darren Collison,3,3,53,0,Step Back Jump shot,17,-102,147,True
+Darren Collison,3,7,17,0,Step Back Jump shot,20,105,173,True
+Darren Collison,1,2,11,1,Step Back Jump shot,19,3,199,True
+Darren Collison,2,3,20,0,Step Back Jump shot,22,223,11,False
+Darren Collison,2,7,19,0,Step Back Jump shot,18,-44,175,True
+Darren Collison,3,6,14,1,Step Back Jump shot,29,104,273,False
+Darren Collison,3,7,36,0,Step Back Jump shot,19,89,169,True
+Darren Collison,4,5,25,1,Step Back Jump shot,22,-228,26,False
+Darren Collison,3,2,47,0,Step Back Jump shot,25,172,194,False
+Darren Collison,1,4,32,0,Step Back Jump shot,16,100,127,True
+Darren Collison,2,1,52,1,Step Back Jump shot,27,-193,189,False
+Darren Collison,1,11,20,1,Step Back Jump shot,25,166,193,False
+Darren Collison,1,3,14,0,Step Back Jump shot,18,-94,164,True
+Darren Collison,4,1,20,1,Step Back Jump shot,21,-81,195,True
+Darren Collison,3,6,23,1,Tip Layup Shot,0,0,-6,True
+Darren Collison,3,2,19,1,Tip Layup Shot,0,0,-6,True
+Darren Collison,1,0,1,1,Turnaround Fadeaway shot,25,-192,173,False
+Darren Collison,2,3,6,0,Turnaround Jump Shot,5,-23,50,True
+Darren Collison,3,8,7,1,Turnaround Jump Shot,15,-148,37,True

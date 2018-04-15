@@ -1,0 +1,962 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Goran Dragic,3,10,6,0,Cutting Finger Roll Layup Shot,1,3,16,True
+Goran Dragic,2,3,13,0,Cutting Layup Shot,1,5,15,True
+Goran Dragic,3,2,26,1,Cutting Layup Shot,4,-34,28,True
+Goran Dragic,1,7,3,0,Cutting Layup Shot,2,-19,17,True
+Goran Dragic,1,11,48,1,Cutting Layup Shot,1,-18,8,True
+Goran Dragic,4,5,38,0,Cutting Layup Shot,1,-13,13,True
+Goran Dragic,1,9,28,1,Cutting Layup Shot,0,-7,5,True
+Goran Dragic,2,5,26,1,Cutting Layup Shot,1,-8,8,True
+Goran Dragic,3,11,29,0,Cutting Layup Shot,4,-40,7,True
+Goran Dragic,2,0,39,0,Cutting Layup Shot,2,-19,8,True
+Goran Dragic,1,8,43,1,Cutting Layup Shot,2,14,26,True
+Goran Dragic,1,10,7,1,Cutting Layup Shot,0,-6,1,True
+Goran Dragic,4,4,53,1,Cutting Layup Shot,1,-5,11,True
+Goran Dragic,3,8,41,1,Cutting Layup Shot,1,-9,13,True
+Goran Dragic,2,3,36,1,Cutting Layup Shot,1,2,17,True
+Goran Dragic,3,6,40,1,Cutting Layup Shot,1,12,15,True
+Goran Dragic,4,6,40,1,Driving Finger Roll Layup Shot,1,-11,-2,True
+Goran Dragic,1,4,20,1,Driving Finger Roll Layup Shot,1,1,15,True
+Goran Dragic,4,3,46,1,Driving Finger Roll Layup Shot,0,-9,2,True
+Goran Dragic,3,11,35,1,Driving Finger Roll Layup Shot,1,-14,10,True
+Goran Dragic,1,7,17,0,Driving Finger Roll Layup Shot,1,-18,5,True
+Goran Dragic,4,0,5,0,Driving Finger Roll Layup Shot,2,-16,21,True
+Goran Dragic,3,8,53,1,Driving Finger Roll Layup Shot,1,0,15,True
+Goran Dragic,3,5,15,1,Driving Finger Roll Layup Shot,1,0,10,True
+Goran Dragic,3,5,38,0,Driving Finger Roll Layup Shot,1,-16,4,True
+Goran Dragic,3,4,4,1,Driving Finger Roll Layup Shot,1,-9,13,True
+Goran Dragic,2,1,20,1,Driving Finger Roll Layup Shot,0,-8,5,True
+Goran Dragic,3,8,34,1,Driving Finger Roll Layup Shot,2,-22,17,True
+Goran Dragic,3,5,18,1,Driving Finger Roll Layup Shot,1,-11,10,True
+Goran Dragic,3,10,25,0,Driving Finger Roll Layup Shot,4,-42,24,True
+Goran Dragic,1,3,47,1,Driving Finger Roll Layup Shot,1,7,15,True
+Goran Dragic,2,5,57,0,Driving Finger Roll Layup Shot,1,-9,14,True
+Goran Dragic,3,4,40,1,Driving Finger Roll Layup Shot,2,-11,17,True
+Goran Dragic,4,1,37,1,Driving Finger Roll Layup Shot,1,-12,12,True
+Goran Dragic,2,0,33,1,Driving Finger Roll Layup Shot,1,17,3,True
+Goran Dragic,1,2,37,0,Driving Finger Roll Layup Shot,3,-33,21,True
+Goran Dragic,3,10,34,1,Driving Finger Roll Layup Shot,1,-17,10,True
+Goran Dragic,3,11,7,1,Driving Finger Roll Layup Shot,1,16,10,True
+Goran Dragic,4,3,24,1,Driving Finger Roll Layup Shot,2,18,15,True
+Goran Dragic,2,0,0,0,Driving Finger Roll Layup Shot,3,-5,32,True
+Goran Dragic,1,7,48,1,Driving Finger Roll Layup Shot,7,0,76,True
+Goran Dragic,2,0,2,1,Driving Floating Bank Jump Shot,9,-51,78,True
+Goran Dragic,4,2,13,0,Driving Floating Bank Jump Shot,5,-51,10,True
+Goran Dragic,4,2,18,1,Driving Floating Bank Jump Shot,0,3,1,True
+Goran Dragic,1,11,26,1,Driving Floating Bank Jump Shot,6,39,56,True
+Goran Dragic,2,0,57,0,Driving Floating Bank Jump Shot,4,-30,39,True
+Goran Dragic,2,0,51,1,Driving Floating Jump Shot,7,-20,75,True
+Goran Dragic,4,10,17,1,Driving Floating Jump Shot,13,-68,119,True
+Goran Dragic,1,8,40,0,Driving Floating Jump Shot,7,-24,73,True
+Goran Dragic,1,5,23,1,Driving Floating Jump Shot,10,-48,98,True
+Goran Dragic,3,7,35,0,Driving Floating Jump Shot,4,-39,20,True
+Goran Dragic,1,2,14,1,Driving Floating Jump Shot,14,-17,141,True
+Goran Dragic,2,3,18,1,Driving Floating Jump Shot,8,16,84,True
+Goran Dragic,3,7,52,1,Driving Floating Jump Shot,10,-23,105,True
+Goran Dragic,3,5,23,0,Driving Floating Jump Shot,11,38,113,True
+Goran Dragic,3,8,28,0,Driving Floating Jump Shot,12,-40,123,True
+Goran Dragic,2,5,30,1,Driving Floating Jump Shot,7,-52,52,True
+Goran Dragic,1,9,30,0,Driving Floating Jump Shot,8,0,86,True
+Goran Dragic,1,11,22,0,Driving Floating Jump Shot,7,-43,59,True
+Goran Dragic,2,9,57,1,Driving Floating Jump Shot,10,-7,109,True
+Goran Dragic,1,4,8,0,Driving Floating Jump Shot,17,77,157,True
+Goran Dragic,1,9,17,1,Driving Floating Jump Shot,8,-40,79,True
+Goran Dragic,3,0,27,1,Driving Floating Jump Shot,12,-30,119,True
+Goran Dragic,4,0,56,1,Driving Floating Jump Shot,12,-9,125,True
+Goran Dragic,4,6,22,0,Driving Floating Jump Shot,11,-36,105,True
+Goran Dragic,3,7,33,0,Driving Hook Shot,8,-3,89,True
+Goran Dragic,3,9,21,0,Driving Layup Shot,1,-3,16,True
+Goran Dragic,2,2,59,1,Driving Layup Shot,1,12,5,True
+Goran Dragic,2,0,34,1,Driving Layup Shot,1,-9,10,True
+Goran Dragic,2,5,38,1,Driving Layup Shot,0,-5,2,True
+Goran Dragic,1,6,44,1,Driving Layup Shot,1,-14,8,True
+Goran Dragic,2,6,37,0,Driving Layup Shot,1,-4,13,True
+Goran Dragic,1,6,40,1,Driving Layup Shot,1,12,-2,True
+Goran Dragic,2,1,0,0,Driving Layup Shot,1,-16,10,True
+Goran Dragic,4,3,36,0,Driving Layup Shot,8,-24,78,True
+Goran Dragic,1,4,37,0,Driving Layup Shot,3,-30,14,True
+Goran Dragic,2,3,32,1,Driving Layup Shot,2,-16,14,True
+Goran Dragic,2,4,0,1,Driving Layup Shot,1,19,-1,True
+Goran Dragic,1,7,35,0,Driving Layup Shot,1,-11,1,True
+Goran Dragic,3,10,2,0,Driving Layup Shot,1,-8,6,True
+Goran Dragic,3,5,22,0,Driving Layup Shot,1,10,13,True
+Goran Dragic,4,11,16,0,Driving Layup Shot,4,-40,13,True
+Goran Dragic,3,8,19,1,Driving Layup Shot,1,-11,15,True
+Goran Dragic,1,4,2,1,Driving Layup Shot,4,-38,27,True
+Goran Dragic,2,0,0,0,Driving Layup Shot,3,-27,19,True
+Goran Dragic,1,6,56,0,Driving Layup Shot,3,-26,20,True
+Goran Dragic,1,1,48,0,Driving Layup Shot,3,-35,15,True
+Goran Dragic,2,5,41,0,Driving Layup Shot,3,-29,10,True
+Goran Dragic,1,9,16,0,Driving Layup Shot,1,-14,8,True
+Goran Dragic,4,1,35,1,Driving Layup Shot,3,-31,14,True
+Goran Dragic,1,9,24,1,Driving Layup Shot,0,8,4,True
+Goran Dragic,2,1,4,0,Driving Layup Shot,2,-29,4,True
+Goran Dragic,1,3,46,1,Driving Layup Shot,4,-14,47,True
+Goran Dragic,1,5,43,0,Driving Layup Shot,1,-1,13,True
+Goran Dragic,4,0,57,1,Driving Layup Shot,2,5,23,True
+Goran Dragic,2,7,59,1,Driving Layup Shot,1,8,9,True
+Goran Dragic,2,8,17,0,Driving Layup Shot,2,-3,24,True
+Goran Dragic,1,8,57,1,Driving Layup Shot,6,2,62,True
+Goran Dragic,3,5,24,0,Driving Layup Shot,3,-7,32,True
+Goran Dragic,1,10,16,1,Driving Layup Shot,1,-12,5,True
+Goran Dragic,4,9,24,0,Driving Layup Shot,2,-2,25,True
+Goran Dragic,3,9,0,0,Driving Layup Shot,2,-16,20,True
+Goran Dragic,3,8,31,1,Driving Layup Shot,1,-9,10,True
+Goran Dragic,3,3,50,0,Driving Layup Shot,3,-9,37,True
+Goran Dragic,3,1,44,1,Driving Layup Shot,0,-6,1,True
+Goran Dragic,4,4,58,1,Driving Layup Shot,0,-5,1,True
+Goran Dragic,1,6,13,1,Driving Layup Shot,1,11,8,True
+Goran Dragic,1,9,17,1,Driving Layup Shot,1,-11,7,True
+Goran Dragic,3,8,11,0,Driving Layup Shot,0,-9,2,True
+Goran Dragic,1,6,29,0,Driving Layup Shot,3,-26,20,True
+Goran Dragic,2,2,40,1,Driving Layup Shot,1,-12,13,True
+Goran Dragic,1,8,24,1,Driving Layup Shot,1,12,6,True
+Goran Dragic,4,0,19,1,Driving Layup Shot,2,-27,2,True
+Goran Dragic,3,8,32,1,Driving Layup Shot,1,8,10,True
+Goran Dragic,2,2,50,0,Driving Layup Shot,1,-10,16,True
+Goran Dragic,1,3,18,1,Driving Layup Shot,1,-6,11,True
+Goran Dragic,1,3,58,0,Driving Layup Shot,2,-22,3,True
+Goran Dragic,4,2,35,0,Driving Layup Shot,2,27,1,True
+Goran Dragic,1,8,35,1,Driving Layup Shot,0,-6,6,True
+Goran Dragic,3,9,26,1,Driving Layup Shot,2,-18,16,True
+Goran Dragic,2,1,51,1,Driving Layup Shot,3,-25,19,True
+Goran Dragic,4,6,16,0,Driving Layup Shot,1,-10,8,True
+Goran Dragic,4,2,23,0,Driving Layup Shot,1,16,1,True
+Goran Dragic,4,1,49,0,Driving Layup Shot,1,-6,14,True
+Goran Dragic,1,3,11,1,Driving Layup Shot,1,-12,13,True
+Goran Dragic,4,2,45,1,Driving Layup Shot,1,16,4,True
+Goran Dragic,3,5,5,1,Driving Layup Shot,1,11,6,True
+Goran Dragic,1,5,47,1,Driving Layup Shot,0,-6,4,True
+Goran Dragic,4,8,31,1,Driving Layup Shot,1,13,13,True
+Goran Dragic,3,2,42,1,Driving Layup Shot,2,-19,7,True
+Goran Dragic,1,9,57,0,Driving Layup Shot,7,-68,38,True
+Goran Dragic,1,7,26,0,Driving Layup Shot,4,-2,46,True
+Goran Dragic,1,5,7,1,Driving Layup Shot,1,1,16,True
+Goran Dragic,1,11,6,0,Driving Layup Shot,1,-4,14,True
+Goran Dragic,1,3,32,0,Driving Layup Shot,0,-8,-1,True
+Goran Dragic,1,10,19,1,Driving Layup Shot,1,-11,8,True
+Goran Dragic,3,3,16,0,Driving Layup Shot,1,9,17,True
+Goran Dragic,2,1,14,1,Driving Layup Shot,1,-14,13,True
+Goran Dragic,3,7,34,0,Driving Layup Shot,3,-28,17,True
+Goran Dragic,3,11,45,0,Driving Layup Shot,2,8,27,True
+Goran Dragic,2,5,33,1,Driving Layup Shot,1,-2,17,True
+Goran Dragic,2,0,55,1,Driving Layup Shot,1,-9,10,True
+Goran Dragic,3,10,47,1,Driving Layup Shot,2,-5,25,True
+Goran Dragic,2,2,8,0,Driving Layup Shot,3,24,30,True
+Goran Dragic,3,11,44,1,Driving Layup Shot,2,-24,6,True
+Goran Dragic,3,5,6,1,Driving Layup Shot,3,-19,26,True
+Goran Dragic,3,2,40,0,Driving Layup Shot,2,17,17,True
+Goran Dragic,2,3,17,1,Driving Layup Shot,0,5,5,True
+Goran Dragic,2,1,39,0,Driving Layup Shot,1,-9,13,True
+Goran Dragic,4,7,13,0,Driving Layup Shot,3,-30,12,True
+Goran Dragic,4,3,44,0,Driving Layup Shot,5,-52,20,True
+Goran Dragic,3,11,39,1,Driving Layup Shot,0,-6,6,True
+Goran Dragic,3,3,25,1,Driving Layup Shot,1,-13,11,True
+Goran Dragic,3,2,21,0,Driving Layup Shot,2,1,20,True
+Goran Dragic,1,8,58,1,Driving Layup Shot,1,-6,15,True
+Goran Dragic,1,9,40,1,Driving Layup Shot,0,-5,8,True
+Goran Dragic,1,10,0,1,Driving Layup Shot,1,0,18,True
+Goran Dragic,1,4,26,1,Driving Layup Shot,2,-20,10,True
+Goran Dragic,2,5,31,1,Driving Layup Shot,2,-25,16,True
+Goran Dragic,3,5,17,0,Driving Layup Shot,1,3,11,True
+Goran Dragic,3,1,53,1,Driving Layup Shot,0,-2,4,True
+Goran Dragic,1,7,44,0,Driving Layup Shot,1,-4,10,True
+Goran Dragic,1,9,54,0,Driving Layup Shot,1,13,10,True
+Goran Dragic,2,1,26,0,Driving Layup Shot,2,-8,20,True
+Goran Dragic,3,2,50,1,Driving Layup Shot,0,2,7,True
+Goran Dragic,3,1,31,0,Driving Layup Shot,1,-12,8,True
+Goran Dragic,2,5,19,0,Driving Layup Shot,3,5,30,True
+Goran Dragic,3,8,59,0,Driving Layup Shot,5,9,54,True
+Goran Dragic,5,1,45,0,Driving Layup Shot,1,-11,7,True
+Goran Dragic,1,5,29,0,Driving Layup Shot,1,-9,6,True
+Goran Dragic,1,5,54,0,Driving Layup Shot,0,-5,8,True
+Goran Dragic,1,9,40,1,Driving Layup Shot,1,0,16,True
+Goran Dragic,1,6,57,0,Driving Layup Shot,5,-11,51,True
+Goran Dragic,2,2,3,1,Driving Layup Shot,9,-91,36,True
+Goran Dragic,4,1,49,1,Driving Layup Shot,1,-13,5,True
+Goran Dragic,2,1,27,1,Driving Layup Shot,1,-6,15,True
+Goran Dragic,3,7,3,1,Driving Layup Shot,0,-4,9,True
+Goran Dragic,1,4,30,1,Driving Layup Shot,1,11,13,True
+Goran Dragic,4,1,56,0,Driving Layup Shot,1,1,10,True
+Goran Dragic,1,7,49,1,Driving Layup Shot,1,-3,13,True
+Goran Dragic,2,5,44,0,Driving Layup Shot,1,-13,13,True
+Goran Dragic,3,0,39,0,Driving Layup Shot,2,-20,1,True
+Goran Dragic,2,0,13,1,Driving Layup Shot,1,-9,16,True
+Goran Dragic,1,6,31,1,Driving Layup Shot,1,-4,13,True
+Goran Dragic,3,4,30,1,Driving Layup Shot,1,-3,16,True
+Goran Dragic,2,5,1,0,Driving Layup Shot,0,1,5,True
+Goran Dragic,1,6,5,1,Driving Layup Shot,3,-11,29,True
+Goran Dragic,3,2,34,1,Driving Layup Shot,0,-1,5,True
+Goran Dragic,1,5,31,1,Driving Layup Shot,1,8,10,True
+Goran Dragic,3,10,29,0,Driving Layup Shot,1,-10,3,True
+Goran Dragic,3,3,44,0,Driving Layup Shot,2,21,10,True
+Goran Dragic,1,9,54,1,Driving Reverse Layup Shot,1,7,8,True
+Goran Dragic,2,3,32,0,Driving Reverse Layup Shot,1,-7,8,True
+Goran Dragic,2,1,48,1,Driving Reverse Layup Shot,3,-24,26,True
+Goran Dragic,1,5,18,1,Driving Reverse Layup Shot,1,3,15,True
+Goran Dragic,2,3,44,1,Driving Reverse Layup Shot,1,12,1,True
+Goran Dragic,2,4,20,1,Driving Reverse Layup Shot,2,23,15,True
+Goran Dragic,3,7,21,0,Driving Reverse Layup Shot,4,-4,43,True
+Goran Dragic,4,6,10,0,Driving Reverse Layup Shot,2,24,5,True
+Goran Dragic,4,8,42,0,Driving Reverse Layup Shot,0,-2,8,True
+Goran Dragic,4,0,18,1,Driving Reverse Layup Shot,1,-9,-5,True
+Goran Dragic,4,9,7,1,Driving Reverse Layup Shot,2,22,8,True
+Goran Dragic,3,3,54,0,Driving Reverse Layup Shot,1,-7,12,True
+Goran Dragic,3,3,38,1,Driving Reverse Layup Shot,1,-13,-1,True
+Goran Dragic,1,6,39,1,Driving Reverse Layup Shot,1,0,10,True
+Goran Dragic,3,3,49,0,Driving Reverse Layup Shot,5,44,28,True
+Goran Dragic,1,7,20,1,Driving Reverse Layup Shot,1,17,6,True
+Goran Dragic,4,1,26,0,Fadeaway Jump Shot,7,65,44,True
+Goran Dragic,3,11,22,0,Fadeaway Jump Shot,12,122,-8,True
+Goran Dragic,1,3,43,0,Fadeaway Jump Shot,19,55,188,True
+Goran Dragic,2,1,51,1,Fadeaway Jump Shot,13,131,16,True
+Goran Dragic,4,7,21,0,Fadeaway Jump Shot,7,-77,21,True
+Goran Dragic,2,4,44,0,Fadeaway Jump Shot,7,67,22,True
+Goran Dragic,3,9,57,0,Fadeaway Jump Shot,16,111,122,True
+Goran Dragic,3,5,16,1,Fadeaway Jump Shot,12,54,113,True
+Goran Dragic,1,9,44,1,Fadeaway Jump Shot,13,131,-1,True
+Goran Dragic,3,2,54,1,Fadeaway Jump Shot,6,-68,9,True
+Goran Dragic,2,9,21,0,Fadeaway Jump Shot,25,-112,226,False
+Goran Dragic,2,1,50,0,Fadeaway Jump Shot,5,-54,8,True
+Goran Dragic,4,0,0,0,Fadeaway Jump Shot,15,-155,14,True
+Goran Dragic,3,3,11,1,Fadeaway Jump Shot,17,172,7,True
+Goran Dragic,2,3,28,0,Fadeaway Jump Shot,11,112,3,True
+Goran Dragic,3,6,24,1,Fadeaway Jump Shot,11,113,36,True
+Goran Dragic,1,9,7,0,Fadeaway Jump Shot,17,-79,159,True
+Goran Dragic,3,9,21,0,Fadeaway Jump Shot,19,-181,74,True
+Goran Dragic,1,9,3,0,Fadeaway Jump Shot,10,56,94,True
+Goran Dragic,2,1,38,1,Fadeaway Jump Shot,11,116,27,True
+Goran Dragic,2,5,36,1,Fadeaway Jump Shot,7,78,10,True
+Goran Dragic,2,3,39,0,Finger Roll Layup Shot,1,-9,14,True
+Goran Dragic,1,5,18,0,Finger Roll Layup Shot,1,7,16,True
+Goran Dragic,3,0,40,1,Finger Roll Layup Shot,1,-9,16,True
+Goran Dragic,3,4,40,0,Finger Roll Layup Shot,0,-3,4,True
+Goran Dragic,1,11,4,1,Finger Roll Layup Shot,3,-20,27,True
+Goran Dragic,3,9,48,1,Finger Roll Layup Shot,1,-7,11,True
+Goran Dragic,2,0,58,1,Finger Roll Layup Shot,1,3,15,True
+Goran Dragic,1,5,49,1,Finger Roll Layup Shot,2,7,24,True
+Goran Dragic,3,11,1,0,Finger Roll Layup Shot,4,-43,25,True
+Goran Dragic,1,2,52,0,Finger Roll Layup Shot,0,9,3,True
+Goran Dragic,3,4,42,1,Finger Roll Layup Shot,1,-12,12,True
+Goran Dragic,1,3,8,0,Finger Roll Layup Shot,2,-14,15,True
+Goran Dragic,3,2,35,0,Finger Roll Layup Shot,0,5,8,True
+Goran Dragic,2,6,3,1,Finger Roll Layup Shot,0,-5,8,True
+Goran Dragic,4,8,23,0,Floating Jump shot,7,-32,67,True
+Goran Dragic,1,2,57,1,Floating Jump shot,15,70,134,True
+Goran Dragic,2,10,19,1,Floating Jump shot,13,133,34,True
+Goran Dragic,4,6,55,0,Floating Jump shot,6,-11,69,True
+Goran Dragic,1,9,48,0,Floating Jump shot,5,27,52,True
+Goran Dragic,4,2,25,0,Floating Jump shot,10,3,107,True
+Goran Dragic,3,0,0,0,Floating Jump shot,11,-92,71,True
+Goran Dragic,1,8,40,1,Floating Jump shot,12,60,111,True
+Goran Dragic,2,6,3,0,Floating Jump shot,9,-92,0,True
+Goran Dragic,4,0,15,1,Floating Jump shot,9,11,95,True
+Goran Dragic,3,8,45,1,Floating Jump shot,10,43,96,True
+Goran Dragic,1,10,16,0,Floating Jump shot,10,1,103,True
+Goran Dragic,4,7,31,0,Floating Jump shot,3,-20,28,True
+Goran Dragic,3,11,4,1,Floating Jump shot,4,-6,46,True
+Goran Dragic,2,4,42,0,Floating Jump shot,6,57,27,True
+Goran Dragic,3,8,31,1,Floating Jump shot,9,-43,88,True
+Goran Dragic,2,5,47,0,Floating Jump shot,8,-25,80,True
+Goran Dragic,3,7,49,0,Floating Jump shot,11,3,113,True
+Goran Dragic,2,4,49,1,Floating Jump shot,14,-66,124,True
+Goran Dragic,1,5,7,1,Floating Jump shot,7,-11,77,True
+Goran Dragic,2,4,32,0,Floating Jump shot,12,-59,114,True
+Goran Dragic,2,2,56,0,Floating Jump shot,6,44,41,True
+Goran Dragic,4,2,4,1,Floating Jump shot,8,-86,15,True
+Goran Dragic,1,0,15,0,Floating Jump shot,6,-66,7,True
+Goran Dragic,1,10,22,1,Floating Jump shot,13,68,117,True
+Goran Dragic,3,8,48,1,Floating Jump shot,8,26,81,True
+Goran Dragic,3,5,12,0,Floating Jump shot,5,-52,29,True
+Goran Dragic,4,6,45,0,Floating Jump shot,12,41,118,True
+Goran Dragic,1,9,6,0,Floating Jump shot,12,-71,99,True
+Goran Dragic,3,7,59,1,Floating Jump shot,3,-2,34,True
+Goran Dragic,1,4,13,1,Floating Jump shot,13,-54,125,True
+Goran Dragic,1,10,57,1,Floating Jump shot,13,-90,99,True
+Goran Dragic,1,8,32,1,Floating Jump shot,4,3,42,True
+Goran Dragic,4,1,29,0,Floating Jump shot,3,15,31,True
+Goran Dragic,3,2,59,0,Floating Jump shot,6,16,59,True
+Goran Dragic,3,5,52,0,Floating Jump shot,2,-13,25,True
+Goran Dragic,3,8,42,0,Floating Jump shot,10,68,74,True
+Goran Dragic,2,1,24,0,Floating Jump shot,9,2,98,True
+Goran Dragic,1,9,20,0,Floating Jump shot,14,-60,130,True
+Goran Dragic,2,0,19,1,Floating Jump shot,12,43,115,True
+Goran Dragic,1,5,4,0,Floating Jump shot,13,-6,136,True
+Goran Dragic,1,7,45,0,Hook Bank Shot,1,14,9,True
+Goran Dragic,2,0,43,0,Hook Shot,2,20,15,True
+Goran Dragic,1,4,24,0,Hook Shot,8,-78,18,True
+Goran Dragic,4,4,16,0,Hook Shot,5,-43,26,True
+Goran Dragic,5,2,53,0,Hook Shot,1,-14,11,True
+Goran Dragic,3,9,19,1,Hook Shot,1,-14,4,True
+Goran Dragic,1,3,25,1,Hook Shot,7,-25,71,True
+Goran Dragic,4,8,29,0,Hook Shot,4,-38,27,True
+Goran Dragic,3,10,58,1,Jump Bank Shot,13,103,84,True
+Goran Dragic,3,8,43,0,Jump Bank Shot,11,-110,-1,True
+Goran Dragic,3,4,31,1,Jump Bank Shot,13,45,127,True
+Goran Dragic,3,4,14,0,Jump Bank Shot,15,147,36,True
+Goran Dragic,3,11,7,0,Jump Bank Shot,9,-93,21,True
+Goran Dragic,4,0,56,0,Jump Bank Shot,15,-120,100,True
+Goran Dragic,4,0,32,0,Jump Bank Shot,25,-164,193,False
+Goran Dragic,1,7,42,0,Jump Bank Shot,4,18,36,True
+Goran Dragic,3,4,37,1,Jump Bank Shot,7,-56,44,True
+Goran Dragic,4,9,56,0,Jump Bank Shot,11,-103,58,True
+Goran Dragic,1,10,10,1,Jump Bank Shot,3,-28,27,True
+Goran Dragic,4,1,57,0,Jump Shot,27,152,231,False
+Goran Dragic,2,0,45,0,Jump Shot,24,82,234,False
+Goran Dragic,1,3,29,0,Jump Shot,13,126,42,True
+Goran Dragic,1,6,24,0,Jump Shot,24,-112,219,False
+Goran Dragic,2,4,32,1,Jump Shot,16,101,135,True
+Goran Dragic,1,3,3,1,Jump Shot,24,-130,213,False
+Goran Dragic,3,8,23,0,Jump Shot,18,-180,15,True
+Goran Dragic,2,3,48,1,Jump Shot,12,46,120,True
+Goran Dragic,3,7,13,1,Jump Shot,25,229,113,False
+Goran Dragic,2,5,14,1,Jump Shot,17,-116,125,True
+Goran Dragic,3,9,15,1,Jump Shot,22,-225,34,False
+Goran Dragic,2,1,55,1,Jump Shot,22,228,-11,False
+Goran Dragic,4,1,52,0,Jump Shot,25,-92,241,False
+Goran Dragic,1,7,31,0,Jump Shot,12,-3,125,True
+Goran Dragic,3,11,15,0,Jump Shot,7,-76,3,True
+Goran Dragic,4,1,41,0,Jump Shot,17,-81,158,True
+Goran Dragic,1,5,20,1,Jump Shot,25,-185,175,False
+Goran Dragic,4,6,54,0,Jump Shot,25,183,182,False
+Goran Dragic,4,2,37,0,Jump Shot,25,-174,185,False
+Goran Dragic,3,10,49,1,Jump Shot,19,-44,189,True
+Goran Dragic,1,5,11,1,Jump Shot,25,191,166,False
+Goran Dragic,3,1,19,1,Jump Shot,25,149,201,False
+Goran Dragic,2,0,12,0,Jump Shot,26,46,266,False
+Goran Dragic,1,5,21,0,Jump Shot,25,25,253,False
+Goran Dragic,4,5,11,1,Jump Shot,25,-2,253,False
+Goran Dragic,3,7,38,1,Jump Shot,24,-241,46,False
+Goran Dragic,5,3,47,0,Jump Shot,29,184,226,False
+Goran Dragic,1,1,36,0,Jump Shot,25,-108,234,False
+Goran Dragic,3,9,23,0,Jump Shot,24,168,183,False
+Goran Dragic,3,0,0,0,Jump Shot,23,-230,3,False
+Goran Dragic,1,9,46,1,Jump Shot,24,3,249,False
+Goran Dragic,2,0,0,0,Jump Shot,54,186,516,False
+Goran Dragic,1,4,49,0,Jump Shot,24,-201,143,False
+Goran Dragic,3,5,49,0,Jump Shot,25,198,155,False
+Goran Dragic,1,9,22,1,Jump Shot,25,-169,190,False
+Goran Dragic,2,2,14,0,Jump Shot,24,146,196,False
+Goran Dragic,4,5,23,0,Jump Shot,25,-112,230,False
+Goran Dragic,1,11,25,1,Jump Shot,25,-1,256,False
+Goran Dragic,2,4,19,1,Jump Shot,25,133,221,False
+Goran Dragic,3,7,20,0,Jump Shot,26,99,250,False
+Goran Dragic,3,8,10,0,Jump Shot,23,228,42,False
+Goran Dragic,1,4,16,0,Jump Shot,25,49,248,False
+Goran Dragic,2,0,16,0,Jump Shot,28,197,211,False
+Goran Dragic,2,4,40,1,Jump Shot,25,-116,229,False
+Goran Dragic,4,2,24,0,Jump Shot,23,230,33,False
+Goran Dragic,4,7,33,0,Jump Shot,24,143,202,False
+Goran Dragic,2,3,52,0,Jump Shot,5,16,50,True
+Goran Dragic,1,9,43,0,Jump Shot,23,-228,35,False
+Goran Dragic,1,10,52,0,Jump Shot,23,235,30,False
+Goran Dragic,3,9,43,1,Jump Shot,22,223,13,False
+Goran Dragic,2,7,9,1,Jump Shot,25,150,211,False
+Goran Dragic,2,4,7,0,Jump Shot,27,1,272,False
+Goran Dragic,1,6,23,0,Jump Shot,22,-228,21,False
+Goran Dragic,1,7,36,0,Jump Shot,25,234,101,False
+Goran Dragic,3,10,15,0,Jump Shot,24,231,94,False
+Goran Dragic,2,0,3,0,Jump Shot,25,175,180,False
+Goran Dragic,2,4,4,0,Jump Shot,13,-89,98,True
+Goran Dragic,2,5,56,1,Jump Shot,27,83,258,False
+Goran Dragic,5,3,57,1,Jump Shot,26,127,228,False
+Goran Dragic,1,10,45,0,Jump Shot,26,154,218,False
+Goran Dragic,3,9,51,0,Jump Shot,25,-75,245,False
+Goran Dragic,2,2,35,0,Jump Shot,19,-9,194,True
+Goran Dragic,2,0,35,1,Jump Shot,26,-119,232,False
+Goran Dragic,1,5,26,0,Jump Shot,28,151,244,False
+Goran Dragic,3,7,24,0,Jump Shot,26,1,267,False
+Goran Dragic,1,10,39,1,Jump Shot,27,76,267,False
+Goran Dragic,1,7,57,0,Jump Shot,17,-58,165,True
+Goran Dragic,4,1,28,1,Jump Shot,24,122,218,False
+Goran Dragic,2,3,22,0,Jump Shot,24,-218,109,False
+Goran Dragic,3,11,38,1,Jump Shot,24,184,160,False
+Goran Dragic,3,8,57,1,Jump Shot,23,227,64,False
+Goran Dragic,1,8,34,0,Jump Shot,4,27,37,True
+Goran Dragic,3,4,42,0,Jump Shot,24,212,115,False
+Goran Dragic,3,9,18,0,Jump Shot,25,-176,184,False
+Goran Dragic,1,9,5,0,Jump Shot,13,-27,129,True
+Goran Dragic,3,6,25,0,Jump Shot,25,32,253,False
+Goran Dragic,3,5,11,1,Jump Shot,26,205,165,False
+Goran Dragic,2,8,6,0,Jump Shot,15,-156,-2,True
+Goran Dragic,4,10,24,0,Jump Shot,25,-17,254,False
+Goran Dragic,2,5,46,1,Jump Shot,24,-200,145,False
+Goran Dragic,1,9,13,0,Jump Shot,25,219,129,False
+Goran Dragic,3,5,39,0,Jump Shot,19,-63,184,True
+Goran Dragic,1,9,47,1,Jump Shot,24,-27,246,False
+Goran Dragic,1,4,7,0,Jump Shot,13,137,22,True
+Goran Dragic,2,3,54,0,Jump Shot,25,83,245,False
+Goran Dragic,1,8,42,0,Jump Shot,25,-172,185,False
+Goran Dragic,1,2,31,0,Jump Shot,23,-228,37,False
+Goran Dragic,3,8,2,1,Jump Shot,25,105,227,False
+Goran Dragic,1,9,42,0,Jump Shot,17,-81,155,True
+Goran Dragic,1,6,4,0,Jump Shot,25,-15,251,False
+Goran Dragic,3,7,19,1,Jump Shot,28,-111,258,False
+Goran Dragic,3,8,2,0,Jump Shot,16,150,58,True
+Goran Dragic,4,0,32,1,Jump Shot,24,-240,26,False
+Goran Dragic,4,2,18,0,Jump Shot,27,-213,180,False
+Goran Dragic,4,4,57,1,Jump Shot,26,-2,267,False
+Goran Dragic,3,6,28,1,Jump Shot,27,0,273,False
+Goran Dragic,3,7,13,0,Jump Shot,25,-48,246,False
+Goran Dragic,3,10,45,0,Jump Shot,24,143,201,False
+Goran Dragic,1,10,24,1,Jump Shot,11,119,8,True
+Goran Dragic,2,0,0,0,Jump Shot,33,-16,335,False
+Goran Dragic,4,5,11,0,Jump Shot,12,103,73,True
+Goran Dragic,2,0,7,0,Jump Shot,24,-124,214,False
+Goran Dragic,2,2,20,1,Jump Shot,24,103,226,False
+Goran Dragic,3,5,29,1,Jump Shot,16,-39,162,True
+Goran Dragic,1,10,6,1,Jump Shot,15,152,6,True
+Goran Dragic,3,7,50,1,Jump Shot,12,48,113,True
+Goran Dragic,3,6,26,0,Jump Shot,24,102,228,False
+Goran Dragic,1,8,56,0,Jump Shot,25,163,195,False
+Goran Dragic,2,1,9,0,Jump Shot,9,-25,90,True
+Goran Dragic,1,8,52,0,Jump Shot,11,109,-29,True
+Goran Dragic,3,10,10,1,Jump Shot,27,-128,239,False
+Goran Dragic,2,2,42,1,Jump Shot,25,65,242,False
+Goran Dragic,1,5,23,1,Jump Shot,26,83,255,False
+Goran Dragic,1,6,32,0,Jump Shot,24,-92,232,False
+Goran Dragic,4,2,28,0,Jump Shot,25,-193,159,False
+Goran Dragic,4,5,50,0,Jump Shot,28,-77,274,False
+Goran Dragic,3,8,53,1,Jump Shot,22,-12,229,True
+Goran Dragic,1,4,56,0,Jump Shot,24,199,143,False
+Goran Dragic,2,1,30,0,Jump Shot,27,12,276,False
+Goran Dragic,1,1,14,1,Jump Shot,20,6,204,True
+Goran Dragic,1,10,28,0,Jump Shot,26,47,264,False
+Goran Dragic,2,2,2,1,Jump Shot,27,54,266,False
+Goran Dragic,1,9,37,1,Jump Shot,25,207,142,False
+Goran Dragic,3,4,31,0,Jump Shot,3,2,31,True
+Goran Dragic,1,5,11,0,Jump Shot,25,221,126,False
+Goran Dragic,4,4,16,1,Jump Shot,28,-62,280,False
+Goran Dragic,2,5,27,0,Jump Shot,24,182,168,False
+Goran Dragic,4,5,19,1,Jump Shot,29,-192,223,False
+Goran Dragic,3,3,43,1,Jump Shot,10,-105,-11,True
+Goran Dragic,4,2,35,1,Jump Shot,25,-165,200,False
+Goran Dragic,4,0,47,0,Jump Shot,23,-143,181,True
+Goran Dragic,1,11,42,0,Jump Shot,12,41,121,True
+Goran Dragic,3,9,42,1,Jump Shot,26,136,228,False
+Goran Dragic,3,7,5,0,Jump Shot,28,-143,243,False
+Goran Dragic,3,5,56,0,Jump Shot,26,180,189,False
+Goran Dragic,1,8,17,0,Jump Shot,30,-124,283,False
+Goran Dragic,2,4,26,0,Jump Shot,24,-162,190,False
+Goran Dragic,1,8,31,0,Jump Shot,13,-139,-2,True
+Goran Dragic,2,1,22,1,Jump Shot,1,7,11,True
+Goran Dragic,2,3,16,0,Jump Shot,25,-122,221,False
+Goran Dragic,3,2,23,0,Jump Shot,25,7,257,False
+Goran Dragic,3,10,42,1,Jump Shot,24,235,57,False
+Goran Dragic,3,6,57,0,Jump Shot,7,-32,68,True
+Goran Dragic,1,7,27,0,Jump Shot,7,-33,62,True
+Goran Dragic,1,6,33,0,Jump Shot,7,-76,12,True
+Goran Dragic,1,5,39,0,Jump Shot,23,230,21,False
+Goran Dragic,3,8,11,0,Jump Shot,23,-233,25,False
+Goran Dragic,4,6,50,0,Jump Shot,23,-228,60,False
+Goran Dragic,2,0,33,0,Jump Shot,25,2,256,False
+Goran Dragic,2,1,47,1,Jump Shot,26,174,195,False
+Goran Dragic,4,2,48,0,Jump Shot,25,-169,191,False
+Goran Dragic,4,2,41,1,Jump Shot,25,201,161,False
+Goran Dragic,2,0,2,1,Jump Shot,2,-13,17,True
+Goran Dragic,5,4,9,1,Jump Shot,24,-1,249,False
+Goran Dragic,2,0,0,0,Jump Shot,64,-127,631,False
+Goran Dragic,4,6,54,0,Jump Shot,5,-3,52,True
+Goran Dragic,3,4,49,0,Jump Shot,25,-107,230,False
+Goran Dragic,3,6,41,1,Jump Shot,26,-39,262,False
+Goran Dragic,3,3,37,0,Jump Shot,25,-106,231,False
+Goran Dragic,2,4,12,1,Jump Shot,26,11,260,False
+Goran Dragic,4,7,29,1,Jump Shot,11,87,73,True
+Goran Dragic,1,2,59,0,Jump Shot,25,172,188,False
+Goran Dragic,1,3,50,1,Jump Shot,22,-223,43,False
+Goran Dragic,2,0,38,0,Jump Shot,25,-181,183,False
+Goran Dragic,1,9,41,1,Jump Shot,24,-104,225,False
+Goran Dragic,3,10,36,0,Jump Shot,22,-228,-2,False
+Goran Dragic,1,4,4,0,Jump Shot,15,-155,-14,True
+Goran Dragic,2,0,32,0,Jump Shot,16,-41,157,True
+Goran Dragic,1,6,3,1,Jump Shot,11,20,110,True
+Goran Dragic,3,4,47,0,Jump Shot,26,47,260,False
+Goran Dragic,3,10,31,0,Jump Shot,22,-225,4,False
+Goran Dragic,3,7,26,0,Jump Shot,4,8,43,True
+Goran Dragic,1,10,14,0,Jump Shot,26,163,205,False
+Goran Dragic,3,7,2,1,Jump Shot,22,227,-1,False
+Goran Dragic,1,2,15,0,Jump Shot,21,203,80,True
+Goran Dragic,2,5,48,0,Jump Shot,23,-236,24,False
+Goran Dragic,2,4,5,0,Jump Shot,18,185,-23,True
+Goran Dragic,1,3,22,0,Jump Shot,19,77,176,True
+Goran Dragic,3,10,13,0,Jump Shot,26,-181,190,False
+Goran Dragic,1,5,20,0,Jump Shot,27,112,248,False
+Goran Dragic,4,9,20,0,Jump Shot,25,178,181,False
+Goran Dragic,2,0,25,0,Jump Shot,19,139,132,True
+Goran Dragic,4,1,19,1,Jump Shot,11,112,4,True
+Goran Dragic,4,0,39,0,Jump Shot,25,166,195,False
+Goran Dragic,1,9,53,0,Jump Shot,15,14,152,True
+Goran Dragic,1,5,32,1,Jump Shot,25,161,192,False
+Goran Dragic,3,4,33,0,Jump Shot,17,-77,152,True
+Goran Dragic,1,5,5,0,Jump Shot,26,171,199,False
+Goran Dragic,4,2,30,0,Jump Shot,11,-110,22,True
+Goran Dragic,2,5,40,0,Jump Shot,25,225,119,False
+Goran Dragic,1,3,19,1,Jump Shot,26,2,263,False
+Goran Dragic,3,1,37,0,Jump Shot,29,-25,295,False
+Goran Dragic,1,10,44,0,Jump Shot,25,237,92,False
+Goran Dragic,3,6,19,1,Jump Shot,25,-68,241,False
+Goran Dragic,1,7,22,0,Jump Shot,10,108,-8,True
+Goran Dragic,1,5,36,0,Jump Shot,26,78,253,False
+Goran Dragic,1,9,53,0,Jump Shot,16,112,116,True
+Goran Dragic,3,9,9,0,Jump Shot,25,137,220,False
+Goran Dragic,4,9,6,0,Jump Shot,24,157,187,False
+Goran Dragic,4,8,41,1,Jump Shot,25,78,240,False
+Goran Dragic,2,6,21,0,Jump Shot,25,224,119,False
+Goran Dragic,1,11,6,0,Jump Shot,25,-90,237,False
+Goran Dragic,1,5,36,1,Jump Shot,29,126,266,False
+Goran Dragic,3,0,24,1,Jump Shot,24,-44,246,False
+Goran Dragic,1,10,46,1,Jump Shot,26,-11,262,False
+Goran Dragic,1,9,32,0,Jump Shot,13,139,3,True
+Goran Dragic,2,2,59,1,Jump Shot,22,-228,13,False
+Goran Dragic,3,10,20,1,Jump Shot,11,118,8,True
+Goran Dragic,3,8,27,0,Jump Shot,23,231,-9,False
+Goran Dragic,1,11,20,0,Jump Shot,25,154,200,False
+Goran Dragic,1,9,40,0,Jump Shot,22,-227,-5,False
+Goran Dragic,3,11,45,0,Jump Shot,25,62,244,False
+Goran Dragic,1,10,5,0,Jump Shot,14,-29,142,True
+Goran Dragic,1,7,13,0,Jump Shot,23,234,6,False
+Goran Dragic,3,6,3,0,Jump Shot,25,100,231,False
+Goran Dragic,2,9,42,0,Jump Shot,26,-10,261,False
+Goran Dragic,1,10,15,0,Jump Shot,13,136,21,True
+Goran Dragic,3,10,47,0,Jump Shot,26,128,228,False
+Goran Dragic,3,5,33,1,Jump Shot,15,15,159,True
+Goran Dragic,2,6,29,0,Jump Shot,11,-118,10,True
+Goran Dragic,4,0,50,1,Jump Shot,25,136,220,False
+Goran Dragic,4,10,14,0,Jump Shot,26,66,252,False
+Goran Dragic,3,0,51,0,Jump Shot,25,-211,141,False
+Goran Dragic,1,11,21,1,Jump Shot,25,-110,231,False
+Goran Dragic,1,8,2,0,Jump Shot,26,-165,202,False
+Goran Dragic,4,5,52,1,Jump Shot,24,121,216,False
+Goran Dragic,2,3,4,1,Jump Shot,26,-169,200,False
+Goran Dragic,4,8,38,0,Jump Shot,23,-207,116,False
+Goran Dragic,2,1,57,0,Jump Shot,25,91,238,False
+Goran Dragic,4,7,15,1,Jump Shot,24,149,197,False
+Goran Dragic,1,9,30,0,Jump Shot,22,225,11,False
+Goran Dragic,1,6,29,1,Jump Shot,23,233,-1,False
+Goran Dragic,1,10,8,1,Jump Shot,25,-126,218,False
+Goran Dragic,2,6,1,1,Jump Shot,23,-228,39,False
+Goran Dragic,2,2,42,1,Jump Shot,25,27,257,False
+Goran Dragic,3,8,24,0,Jump Shot,25,-215,137,False
+Goran Dragic,4,3,16,0,Jump Shot,9,-97,-5,True
+Goran Dragic,2,0,11,1,Jump Shot,24,179,173,False
+Goran Dragic,2,5,41,0,Jump Shot,25,-185,178,False
+Goran Dragic,2,9,21,1,Jump Shot,25,60,247,False
+Goran Dragic,4,6,14,0,Jump Shot,23,-236,38,False
+Goran Dragic,1,2,36,1,Jump Shot,27,209,172,False
+Goran Dragic,3,5,21,0,Jump Shot,19,-87,174,True
+Goran Dragic,1,7,40,1,Jump Shot,23,230,1,False
+Goran Dragic,2,2,59,0,Jump Shot,26,56,258,False
+Goran Dragic,3,0,37,0,Jump Shot,25,97,232,False
+Goran Dragic,1,10,45,0,Jump Shot,27,136,239,False
+Goran Dragic,1,9,3,0,Jump Shot,6,-38,51,True
+Goran Dragic,4,8,30,0,Jump Shot,26,-169,204,False
+Goran Dragic,1,6,14,0,Jump Shot,1,-13,3,True
+Goran Dragic,1,1,28,0,Jump Shot,18,90,161,True
+Goran Dragic,3,2,20,1,Jump Shot,23,-229,36,False
+Goran Dragic,1,7,16,0,Jump Shot,25,-136,210,False
+Goran Dragic,3,9,44,0,Jump Shot,25,78,238,False
+Goran Dragic,4,10,44,1,Jump Shot,17,-79,157,True
+Goran Dragic,3,4,47,1,Jump Shot,25,-14,258,False
+Goran Dragic,3,10,15,1,Jump Shot,25,-44,254,False
+Goran Dragic,1,0,55,0,Jump Shot,22,-226,34,False
+Goran Dragic,1,4,16,0,Jump Shot,26,-183,195,False
+Goran Dragic,1,7,54,1,Jump Shot,26,196,185,False
+Goran Dragic,3,1,38,0,Jump Shot,26,-117,242,False
+Goran Dragic,1,2,48,1,Jump Shot,19,-139,132,True
+Goran Dragic,1,4,37,1,Jump Shot,22,-226,14,False
+Goran Dragic,2,2,9,0,Jump Shot,24,-123,214,False
+Goran Dragic,4,8,55,1,Jump Shot,25,-133,216,False
+Goran Dragic,4,3,19,0,Jump Shot,11,-45,107,True
+Goran Dragic,1,5,33,0,Jump Shot,24,231,71,False
+Goran Dragic,1,9,28,0,Jump Shot,23,231,5,False
+Goran Dragic,1,7,9,1,Jump Shot,9,99,-1,True
+Goran Dragic,1,6,38,1,Jump Shot,24,177,173,False
+Goran Dragic,1,7,28,1,Jump Shot,25,131,216,False
+Goran Dragic,2,7,59,0,Jump Shot,16,-94,131,True
+Goran Dragic,1,6,8,0,Jump Shot,26,51,259,False
+Goran Dragic,3,8,48,0,Jump Shot,24,179,171,False
+Goran Dragic,4,7,11,0,Jump Shot,25,192,162,False
+Goran Dragic,2,6,47,0,Jump Shot,17,-82,152,True
+Goran Dragic,3,8,30,0,Jump Shot,23,-235,5,False
+Goran Dragic,2,4,39,1,Jump Shot,25,-4,255,False
+Goran Dragic,4,6,19,0,Jump Shot,26,78,253,False
+Goran Dragic,1,8,53,0,Jump Shot,25,-81,245,False
+Goran Dragic,3,8,14,0,Jump Shot,14,91,113,True
+Goran Dragic,3,2,43,0,Jump Shot,18,-150,110,True
+Goran Dragic,2,1,42,0,Jump Shot,26,177,194,False
+Goran Dragic,1,9,6,1,Jump Shot,24,6,248,False
+Goran Dragic,1,8,21,1,Jump Shot,22,229,10,False
+Goran Dragic,4,10,56,0,Jump Shot,25,92,237,False
+Goran Dragic,3,9,27,0,Jump Shot,26,11,262,False
+Goran Dragic,4,5,14,0,Jump Shot,26,-125,228,False
+Goran Dragic,4,6,11,0,Jump Shot,25,182,185,False
+Goran Dragic,1,6,5,1,Jump Shot,23,-236,13,False
+Goran Dragic,3,0,26,1,Jump Shot,25,180,176,False
+Goran Dragic,1,10,43,0,Jump Shot,25,174,192,False
+Goran Dragic,3,2,8,0,Jump Shot,26,-30,264,False
+Goran Dragic,4,7,45,0,Jump Shot,26,107,241,False
+Goran Dragic,3,0,44,1,Jump Shot,20,-153,137,True
+Goran Dragic,4,4,15,0,Jump Shot,27,112,247,False
+Goran Dragic,2,11,19,0,Jump Shot,18,29,178,True
+Goran Dragic,3,4,52,0,Jump Shot,25,161,194,False
+Goran Dragic,1,1,16,1,Jump Shot,26,-158,216,False
+Goran Dragic,3,11,20,1,Jump Shot,8,83,9,True
+Goran Dragic,4,0,4,0,Jump Shot,25,-3,258,False
+Goran Dragic,3,8,30,0,Jump Shot,23,-226,46,False
+Goran Dragic,1,9,54,0,Jump Shot,9,3,96,True
+Goran Dragic,3,3,6,0,Jump Shot,24,-155,194,False
+Goran Dragic,3,8,53,0,Jump Shot,25,-92,234,False
+Goran Dragic,3,7,13,1,Jump Shot,24,209,125,False
+Goran Dragic,3,7,45,0,Jump Shot,10,-90,62,True
+Goran Dragic,4,0,37,0,Jump Shot,21,123,180,True
+Goran Dragic,2,3,26,0,Jump Shot,13,-134,-9,True
+Goran Dragic,4,5,33,1,Jump Shot,23,-231,11,False
+Goran Dragic,3,11,11,1,Jump Shot,25,-181,175,False
+Goran Dragic,2,3,27,1,Jump Shot,25,-106,232,False
+Goran Dragic,4,2,51,1,Jump Shot,6,-52,30,True
+Goran Dragic,4,4,43,0,Jump Shot,23,-230,29,False
+Goran Dragic,2,0,59,0,Jump Shot,18,-32,181,True
+Goran Dragic,1,11,15,0,Jump Shot,23,226,43,False
+Goran Dragic,4,1,9,1,Jump Shot,6,-40,57,True
+Goran Dragic,1,8,34,1,Jump Shot,15,-74,136,True
+Goran Dragic,3,5,9,1,Jump Shot,25,150,205,False
+Goran Dragic,3,1,51,0,Jump Shot,9,89,18,True
+Goran Dragic,1,4,46,1,Jump Shot,25,177,185,False
+Goran Dragic,3,7,3,0,Jump Shot,26,-134,229,False
+Goran Dragic,1,10,50,1,Jump Shot,22,-83,204,True
+Goran Dragic,3,3,46,0,Jump Shot,23,235,9,False
+Goran Dragic,3,8,9,1,Jump Shot,23,234,-12,False
+Goran Dragic,2,2,3,0,Jump Shot,22,227,0,False
+Goran Dragic,1,11,19,0,Jump Shot,15,123,101,True
+Goran Dragic,1,5,38,1,Jump Shot,22,-225,8,False
+Goran Dragic,1,0,44,0,Jump Shot,23,234,-16,False
+Goran Dragic,4,4,45,0,Jump Shot,26,-88,249,False
+Goran Dragic,3,2,46,0,Jump Shot,25,165,199,False
+Goran Dragic,1,5,22,0,Jump Shot,6,-62,3,True
+Goran Dragic,3,6,51,0,Jump Shot,26,-107,243,False
+Goran Dragic,1,11,2,0,Jump Shot,8,45,75,True
+Goran Dragic,4,6,15,0,Jump Shot,26,3,263,False
+Goran Dragic,2,7,54,1,Jump Shot,9,3,92,True
+Goran Dragic,2,1,28,1,Jump Shot,14,-65,129,True
+Goran Dragic,4,6,44,1,Layup Shot,1,16,6,True
+Goran Dragic,1,1,13,1,Layup Shot,1,11,4,True
+Goran Dragic,2,3,20,1,Layup Shot,1,3,14,True
+Goran Dragic,4,2,17,0,Layup Shot,3,-19,33,True
+Goran Dragic,3,1,10,1,Layup Shot,1,-13,15,True
+Goran Dragic,3,5,28,0,Layup Shot,4,2,46,True
+Goran Dragic,2,4,15,0,Layup Shot,3,14,32,True
+Goran Dragic,4,5,16,0,Layup Shot,7,-52,47,True
+Goran Dragic,1,10,46,1,Layup Shot,1,-11,16,True
+Goran Dragic,1,9,34,1,Layup Shot,1,-8,11,True
+Goran Dragic,4,5,11,0,Layup Shot,3,-16,32,True
+Goran Dragic,2,9,53,1,Layup Shot,2,-14,15,True
+Goran Dragic,3,6,9,0,Layup Shot,2,2,24,True
+Goran Dragic,1,6,45,1,Layup Shot,2,-19,11,True
+Goran Dragic,3,7,55,0,Layup Shot,8,37,73,True
+Goran Dragic,2,3,57,1,Layup Shot,1,-2,14,True
+Goran Dragic,1,6,49,0,Layup Shot,2,-26,11,True
+Goran Dragic,3,4,20,1,Layup Shot,2,-20,18,True
+Goran Dragic,1,6,31,1,Layup Shot,4,-43,2,True
+Goran Dragic,2,4,48,1,Layup Shot,1,11,1,True
+Goran Dragic,1,9,9,1,Layup Shot,1,16,6,True
+Goran Dragic,1,5,50,1,Layup Shot,3,-32,14,True
+Goran Dragic,3,6,12,0,Layup Shot,0,-1,0,True
+Goran Dragic,2,5,47,1,Layup Shot,1,16,11,True
+Goran Dragic,3,3,51,1,Layup Shot,4,-33,23,True
+Goran Dragic,1,8,29,0,Layup Shot,3,27,29,True
+Goran Dragic,2,3,29,0,Layup Shot,1,-6,9,True
+Goran Dragic,3,9,14,1,Layup Shot,1,-13,8,True
+Goran Dragic,2,4,56,0,Layup Shot,0,8,5,True
+Goran Dragic,3,11,30,0,Layup Shot,2,-13,19,True
+Goran Dragic,4,6,56,0,Layup Shot,2,22,18,True
+Goran Dragic,1,5,3,1,Layup Shot,2,-10,20,True
+Goran Dragic,2,0,43,0,Layup Shot,4,5,43,True
+Goran Dragic,1,8,58,0,Layup Shot,0,-4,4,True
+Goran Dragic,2,5,21,0,Layup Shot,1,2,16,True
+Goran Dragic,3,0,3,1,Layup Shot,1,19,5,True
+Goran Dragic,4,11,11,1,Layup Shot,1,12,9,True
+Goran Dragic,1,3,50,0,Layup Shot,2,-18,10,True
+Goran Dragic,2,1,57,0,Layup Shot,0,-8,0,True
+Goran Dragic,2,2,48,1,Layup Shot,0,3,9,True
+Goran Dragic,4,5,35,0,Layup Shot,1,-9,16,True
+Goran Dragic,3,7,52,0,Layup Shot,1,-8,12,True
+Goran Dragic,3,5,35,0,Layup Shot,3,2,34,True
+Goran Dragic,2,0,25,1,Layup Shot,3,-1,32,True
+Goran Dragic,3,5,57,0,Layup Shot,1,-14,-4,True
+Goran Dragic,3,9,2,1,Layup Shot,1,-10,11,True
+Goran Dragic,4,8,9,0,Layup Shot,3,11,31,True
+Goran Dragic,4,7,52,1,Layup Shot,0,-2,6,True
+Goran Dragic,2,11,25,1,Layup Shot,1,-11,13,True
+Goran Dragic,2,0,19,0,Layup Shot,1,0,16,True
+Goran Dragic,2,0,43,0,Layup Shot,3,25,31,True
+Goran Dragic,2,5,18,1,Layup Shot,1,5,14,True
+Goran Dragic,1,8,20,0,Layup Shot,1,-8,14,True
+Goran Dragic,4,1,43,0,Layup Shot,3,-35,-14,True
+Goran Dragic,2,3,13,0,Layup Shot,0,1,8,True
+Goran Dragic,4,3,31,1,Layup Shot,3,-21,30,True
+Goran Dragic,3,5,10,0,Layup Shot,1,4,12,True
+Goran Dragic,3,11,13,1,Layup Shot,2,-20,7,True
+Goran Dragic,2,1,2,0,Layup Shot,1,3,17,True
+Goran Dragic,2,2,23,1,Pullup Jump shot,19,-52,190,True
+Goran Dragic,1,5,1,1,Pullup Jump shot,16,-3,162,True
+Goran Dragic,3,9,39,0,Pullup Jump shot,16,-104,134,True
+Goran Dragic,4,5,43,0,Pullup Jump shot,16,-60,159,True
+Goran Dragic,3,6,5,1,Pullup Jump shot,24,0,246,False
+Goran Dragic,1,3,32,0,Pullup Jump shot,15,-1,158,True
+Goran Dragic,4,1,18,0,Pullup Jump shot,10,-106,1,True
+Goran Dragic,1,6,3,0,Pullup Jump shot,17,-40,170,True
+Goran Dragic,1,0,45,1,Pullup Jump shot,13,132,-27,True
+Goran Dragic,2,4,37,1,Pullup Jump shot,13,-7,137,True
+Goran Dragic,1,10,36,0,Pullup Jump shot,18,-104,151,True
+Goran Dragic,3,9,12,1,Pullup Jump shot,16,100,126,True
+Goran Dragic,3,5,13,0,Pullup Jump shot,7,-27,69,True
+Goran Dragic,5,3,29,1,Pullup Jump shot,17,124,127,True
+Goran Dragic,3,8,1,0,Pullup Jump shot,13,0,134,True
+Goran Dragic,2,1,54,0,Pullup Jump shot,14,15,146,True
+Goran Dragic,1,11,11,0,Pullup Jump shot,10,42,94,True
+Goran Dragic,1,7,56,1,Pullup Jump shot,14,63,134,True
+Goran Dragic,3,6,53,0,Pullup Jump shot,17,-79,151,True
+Goran Dragic,1,4,6,0,Pullup Jump shot,7,-25,67,True
+Goran Dragic,3,8,30,1,Pullup Jump shot,7,36,69,True
+Goran Dragic,4,4,3,0,Pullup Jump shot,17,-126,126,True
+Goran Dragic,1,4,55,0,Pullup Jump shot,25,-157,202,False
+Goran Dragic,1,9,43,1,Pullup Jump shot,24,193,152,False
+Goran Dragic,3,10,7,0,Pullup Jump shot,13,-130,17,True
+Goran Dragic,1,3,56,0,Pullup Jump shot,17,81,157,True
+Goran Dragic,2,3,30,0,Pullup Jump shot,16,-87,138,True
+Goran Dragic,2,2,4,0,Pullup Jump shot,19,66,184,True
+Goran Dragic,1,8,54,1,Pullup Jump shot,15,-71,136,True
+Goran Dragic,3,8,17,0,Pullup Jump shot,11,93,62,True
+Goran Dragic,4,2,13,0,Pullup Jump shot,15,92,130,True
+Goran Dragic,3,4,29,0,Pullup Jump shot,16,-67,146,True
+Goran Dragic,3,2,50,1,Pullup Jump shot,17,143,96,True
+Goran Dragic,3,10,15,0,Pullup Jump shot,17,-175,-4,True
+Goran Dragic,3,7,8,0,Pullup Jump shot,25,-112,227,False
+Goran Dragic,2,0,54,0,Pullup Jump shot,8,9,82,True
+Goran Dragic,3,5,23,1,Pullup Jump shot,25,-123,221,False
+Goran Dragic,3,3,11,1,Pullup Jump shot,13,125,53,True
+Goran Dragic,1,4,52,1,Pullup Jump shot,17,121,125,True
+Goran Dragic,3,9,47,0,Pullup Jump shot,15,22,154,True
+Goran Dragic,2,4,21,1,Pullup Jump shot,10,17,101,True
+Goran Dragic,2,3,30,0,Pullup Jump shot,17,82,159,True
+Goran Dragic,4,10,30,0,Pullup Jump shot,18,-161,92,True
+Goran Dragic,1,7,9,0,Pullup Jump shot,14,0,140,True
+Goran Dragic,1,6,47,1,Pullup Jump shot,15,159,3,True
+Goran Dragic,3,3,17,0,Pullup Jump shot,18,-112,142,True
+Goran Dragic,4,2,6,1,Pullup Jump shot,17,51,172,True
+Goran Dragic,2,0,37,1,Pullup Jump shot,13,-70,110,True
+Goran Dragic,3,8,41,1,Pullup Jump shot,15,-54,141,True
+Goran Dragic,4,6,16,1,Pullup Jump shot,18,-19,186,True
+Goran Dragic,4,9,52,1,Pullup Jump shot,10,63,85,True
+Goran Dragic,4,1,10,0,Pullup Jump shot,19,-71,180,True
+Goran Dragic,4,3,36,1,Pullup Jump shot,25,-95,236,False
+Goran Dragic,1,7,41,0,Pullup Jump shot,7,70,-5,True
+Goran Dragic,2,10,53,0,Pullup Jump shot,14,-54,138,True
+Goran Dragic,4,5,39,0,Pullup Jump shot,20,-18,205,True
+Goran Dragic,4,0,24,1,Pullup Jump shot,15,56,142,True
+Goran Dragic,1,7,39,0,Pullup Jump shot,12,8,124,True
+Goran Dragic,1,8,48,0,Pullup Jump shot,6,-41,52,True
+Goran Dragic,1,7,32,1,Pullup Jump shot,18,-74,165,True
+Goran Dragic,3,8,17,0,Pullup Jump shot,12,128,-1,True
+Goran Dragic,1,7,12,1,Pullup Jump shot,9,-43,85,True
+Goran Dragic,1,9,31,1,Pullup Jump shot,19,29,192,True
+Goran Dragic,1,10,54,1,Pullup Jump shot,7,28,71,True
+Goran Dragic,1,9,55,1,Pullup Jump shot,16,58,150,True
+Goran Dragic,1,4,33,1,Pullup Jump shot,5,43,27,True
+Goran Dragic,2,2,59,0,Pullup Jump shot,17,114,135,True
+Goran Dragic,3,2,20,1,Pullup Jump shot,13,-40,132,True
+Goran Dragic,1,6,45,1,Pullup Jump shot,16,83,143,True
+Goran Dragic,2,1,21,0,Pullup Jump shot,19,-74,175,True
+Goran Dragic,2,4,26,0,Pullup Jump shot,13,-22,132,True
+Goran Dragic,2,0,35,0,Pullup Jump shot,14,114,83,True
+Goran Dragic,3,2,40,0,Pullup Jump shot,16,-133,95,True
+Goran Dragic,3,10,55,0,Pullup Jump shot,14,-103,100,True
+Goran Dragic,3,0,44,1,Pullup Jump shot,13,-106,84,True
+Goran Dragic,3,10,9,1,Pullup Jump shot,14,139,17,True
+Goran Dragic,1,10,59,0,Pullup Jump shot,15,158,-10,True
+Goran Dragic,3,6,14,0,Pullup Jump shot,18,-114,149,True
+Goran Dragic,2,5,12,0,Pullup Jump shot,17,111,132,True
+Goran Dragic,4,1,19,0,Pullup Jump shot,15,110,116,True
+Goran Dragic,1,8,52,0,Pullup Jump shot,14,78,121,True
+Goran Dragic,4,2,56,1,Pullup Jump shot,16,-47,163,True
+Goran Dragic,3,8,43,1,Pullup Jump shot,13,-13,139,True
+Goran Dragic,2,4,10,0,Pullup Jump shot,3,-9,29,True
+Goran Dragic,2,4,57,0,Pullup Jump shot,13,-63,123,True
+Goran Dragic,3,7,41,1,Pullup Jump shot,17,-75,158,True
+Goran Dragic,3,8,54,1,Pullup Jump shot,13,73,113,True
+Goran Dragic,1,10,58,0,Pullup Jump shot,13,-93,92,True
+Goran Dragic,2,8,7,0,Pullup Jump shot,16,87,144,True
+Goran Dragic,4,3,40,0,Pullup Jump shot,15,-3,151,True
+Goran Dragic,3,6,52,0,Pullup Jump shot,14,11,146,True
+Goran Dragic,2,9,14,1,Pullup Jump shot,15,73,142,True
+Goran Dragic,3,7,40,0,Pullup Jump shot,14,139,27,True
+Goran Dragic,4,7,56,0,Pullup Jump shot,15,-6,154,True
+Goran Dragic,3,6,57,0,Pullup Jump shot,23,-231,16,False
+Goran Dragic,3,7,10,1,Pullup Jump shot,4,-37,19,True
+Goran Dragic,2,0,54,1,Pullup Jump shot,16,-41,159,True
+Goran Dragic,2,8,57,1,Pullup Jump shot,10,-24,104,True
+Goran Dragic,4,9,23,1,Pullup Jump shot,16,25,160,True
+Goran Dragic,2,10,51,0,Pullup Jump shot,16,18,161,True
+Goran Dragic,2,2,57,1,Pullup Jump shot,11,-1,112,True
+Goran Dragic,2,5,16,0,Pullup Jump shot,8,1,89,True
+Goran Dragic,3,4,22,0,Pullup Jump shot,18,-90,166,True
+Goran Dragic,3,2,35,0,Putback Layup Shot,4,8,48,True
+Goran Dragic,4,1,3,0,Putback Layup Shot,1,7,9,True
+Goran Dragic,4,0,14,1,Putback Layup Shot,0,0,-6,True
+Goran Dragic,3,3,9,0,Putback Layup Shot,0,0,-6,True
+Goran Dragic,4,1,34,0,Reverse Layup Shot,0,0,2,True
+Goran Dragic,1,3,54,1,Reverse Layup Shot,1,-10,17,True
+Goran Dragic,1,9,44,1,Reverse Layup Shot,2,18,11,True
+Goran Dragic,4,10,28,1,Reverse Layup Shot,1,17,8,True
+Goran Dragic,1,9,46,0,Reverse Layup Shot,1,-9,8,True
+Goran Dragic,2,2,51,1,Reverse Layup Shot,1,-4,16,True
+Goran Dragic,3,5,35,1,Reverse Layup Shot,1,17,3,True
+Goran Dragic,1,5,5,1,Reverse Layup Shot,0,-2,7,True
+Goran Dragic,1,0,44,0,Reverse Layup Shot,1,17,8,True
+Goran Dragic,1,2,52,0,Reverse Layup Shot,1,-13,5,True
+Goran Dragic,4,0,25,1,Reverse Layup Shot,1,10,4,True
+Goran Dragic,4,5,9,0,Reverse Layup Shot,1,8,7,True
+Goran Dragic,2,4,11,0,Running Jump Shot,13,-110,74,True
+Goran Dragic,3,5,0,1,Running Layup Shot,0,-6,5,True
+Goran Dragic,1,7,7,0,Running Layup Shot,0,0,1,True
+Goran Dragic,4,0,49,1,Running Layup Shot,0,8,4,True
+Goran Dragic,1,8,10,1,Running Layup Shot,0,3,6,True
+Goran Dragic,2,3,51,1,Running Layup Shot,3,-30,6,True
+Goran Dragic,3,5,10,1,Running Layup Shot,2,-14,17,True
+Goran Dragic,4,1,53,1,Running Layup Shot,2,17,19,True
+Goran Dragic,2,4,37,1,Running Layup Shot,1,-2,11,True
+Goran Dragic,1,5,35,1,Running Layup Shot,1,14,5,True
+Goran Dragic,3,0,12,1,Running Layup Shot,2,-22,17,True
+Goran Dragic,2,5,39,1,Running Layup Shot,0,-5,8,True
+Goran Dragic,1,5,7,1,Running Layup Shot,1,-13,9,True
+Goran Dragic,3,10,57,0,Running Layup Shot,1,-10,6,True
+Goran Dragic,4,4,8,1,Running Layup Shot,2,-11,17,True
+Goran Dragic,2,1,2,1,Running Layup Shot,1,4,10,True
+Goran Dragic,3,10,39,1,Running Layup Shot,2,-22,15,True
+Goran Dragic,1,0,32,1,Running Layup Shot,2,-20,6,True
+Goran Dragic,4,10,38,1,Running Layup Shot,1,9,15,True
+Goran Dragic,1,4,2,1,Running Layup Shot,1,3,13,True
+Goran Dragic,3,8,37,0,Running Layup Shot,10,-105,17,True
+Goran Dragic,3,10,41,1,Running Layup Shot,0,-4,6,True
+Goran Dragic,3,3,20,0,Running Layup Shot,9,-25,94,True
+Goran Dragic,1,9,10,1,Running Layup Shot,0,1,0,True
+Goran Dragic,1,5,56,1,Running Layup Shot,1,-7,12,True
+Goran Dragic,5,0,58,0,Running Layup Shot,4,-40,27,True
+Goran Dragic,1,3,12,1,Running Layup Shot,1,-15,10,True
+Goran Dragic,3,3,22,0,Running Layup Shot,1,-11,6,True
+Goran Dragic,2,3,45,1,Running Layup Shot,1,-2,14,True
+Goran Dragic,2,2,52,1,Running Layup Shot,2,18,11,True
+Goran Dragic,1,4,31,1,Running Layup Shot,4,-30,32,True
+Goran Dragic,3,6,28,1,Running Layup Shot,0,8,1,True
+Goran Dragic,3,8,12,1,Running Pull-Up Jump Shot,22,177,144,True
+Goran Dragic,2,8,0,0,Running Pull-Up Jump Shot,0,-8,4,True
+Goran Dragic,1,9,1,0,Running Reverse Layup Shot,1,11,11,True
+Goran Dragic,3,10,13,1,Running Reverse Layup Shot,1,-11,7,True
+Goran Dragic,4,0,18,1,Running Reverse Layup Shot,1,-14,6,True
+Goran Dragic,2,0,26,1,Running Reverse Layup Shot,1,-16,10,True
+Goran Dragic,1,6,24,0,Running Reverse Layup Shot,2,-20,11,True
+Goran Dragic,3,5,51,0,Step Back Bank Jump Shot,12,9,125,True
+Goran Dragic,4,9,6,0,Step Back Jump shot,10,-2,100,True
+Goran Dragic,2,1,59,1,Step Back Jump shot,13,67,115,True
+Goran Dragic,4,4,25,0,Step Back Jump shot,26,145,216,False
+Goran Dragic,2,3,21,1,Step Back Jump shot,25,-148,206,False
+Goran Dragic,3,10,6,0,Step Back Jump shot,17,51,172,True
+Goran Dragic,1,9,28,1,Step Back Jump shot,12,127,-4,True
+Goran Dragic,2,4,0,0,Step Back Jump shot,13,-54,126,True
+Goran Dragic,1,1,10,0,Step Back Jump shot,12,35,121,True
+Goran Dragic,1,2,31,0,Step Back Jump shot,13,-130,4,True
+Goran Dragic,2,1,36,0,Step Back Jump shot,19,-67,182,True
+Goran Dragic,3,2,54,0,Step Back Jump shot,25,157,200,False
+Goran Dragic,1,9,23,1,Step Back Jump shot,24,-56,242,False
+Goran Dragic,4,1,15,1,Step Back Jump shot,17,-126,125,True
+Goran Dragic,4,1,15,0,Step Back Jump shot,17,43,171,True
+Goran Dragic,2,0,2,1,Step Back Jump shot,15,13,159,True
+Goran Dragic,4,10,46,0,Step Back Jump shot,16,-8,160,True
+Goran Dragic,1,2,30,1,Step Back Jump shot,24,93,230,False
+Goran Dragic,4,2,23,1,Step Back Jump shot,13,-94,100,True
+Goran Dragic,3,3,30,0,Step Back Jump shot,13,52,125,True
+Goran Dragic,3,10,22,1,Step Back Jump shot,17,77,157,True
+Goran Dragic,1,9,37,0,Step Back Jump shot,21,210,27,True
+Goran Dragic,2,0,0,1,Step Back Jump shot,26,-74,256,False
+Goran Dragic,1,10,42,0,Step Back Jump shot,10,107,9,True
+Goran Dragic,2,0,11,1,Step Back Jump shot,25,-33,252,False
+Goran Dragic,3,9,36,0,Step Back Jump shot,11,37,113,True
+Goran Dragic,1,0,0,1,Step Back Jump shot,11,-116,-13,True
+Goran Dragic,3,0,25,1,Step Back Jump shot,8,-3,80,True
+Goran Dragic,1,7,51,1,Step Back Jump shot,15,40,147,True
+Goran Dragic,2,1,36,0,Step Back Jump shot,26,24,260,False
+Goran Dragic,2,5,23,0,Step Back Jump shot,8,85,25,True
+Goran Dragic,4,7,24,1,Step Back Jump shot,12,-121,5,True
+Goran Dragic,2,3,50,0,Step Back Jump shot,17,127,121,True
+Goran Dragic,3,6,16,0,Step Back Jump shot,26,-3,267,False
+Goran Dragic,3,7,23,0,Step Back Jump shot,13,106,84,True
+Goran Dragic,2,0,0,1,Step Back Jump shot,11,55,104,True
+Goran Dragic,2,6,42,0,Step Back Jump shot,15,152,17,True
+Goran Dragic,2,3,46,0,Step Back Jump shot,26,101,243,False
+Goran Dragic,1,10,54,0,Step Back Jump shot,12,-8,120,True
+Goran Dragic,1,7,59,1,Step Back Jump shot,19,91,176,True
+Goran Dragic,4,8,58,1,Step Back Jump shot,25,140,210,False
+Goran Dragic,1,7,30,1,Step Back Jump shot,9,91,-11,True
+Goran Dragic,3,8,22,1,Step Back Jump shot,16,-165,-17,True
+Goran Dragic,2,6,39,0,Step Back Jump shot,12,125,-1,True
+Goran Dragic,2,1,42,1,Step Back Jump shot,13,-62,119,True
+Goran Dragic,4,11,23,0,Step Back Jump shot,18,-93,156,True
+Goran Dragic,4,1,14,0,Step Back Jump shot,20,-136,157,True
+Goran Dragic,1,8,49,1,Step Back Jump shot,17,-72,154,True
+Goran Dragic,4,3,12,1,Step Back Jump shot,25,102,230,False
+Goran Dragic,3,3,39,0,Step Back Jump shot,25,57,247,False
+Goran Dragic,1,3,51,1,Step Back Jump shot,18,-122,142,True
+Goran Dragic,1,7,37,1,Step Back Jump shot,16,24,168,True
+Goran Dragic,1,5,45,0,Step Back Jump shot,21,-183,107,True
+Goran Dragic,4,4,45,0,Step Back Jump shot,18,18,189,True
+Goran Dragic,3,8,25,0,Step Back Jump shot,25,-136,214,False
+Goran Dragic,2,0,33,0,Step Back Jump shot,8,66,57,True
+Goran Dragic,3,6,54,0,Step Back Jump shot,25,-149,211,False
+Goran Dragic,3,7,42,0,Step Back Jump shot,13,55,125,True
+Goran Dragic,4,3,57,0,Step Back Jump shot,25,7,258,False
+Goran Dragic,2,0,49,1,Step Back Jump shot,12,128,-7,True
+Goran Dragic,4,2,58,0,Step Back Jump shot,21,127,172,True
+Goran Dragic,2,1,32,1,Step Back Jump shot,13,106,79,True
+Goran Dragic,1,6,41,1,Step Back Jump shot,15,103,120,True
+Goran Dragic,1,2,22,1,Step Back Jump shot,13,68,122,True
+Goran Dragic,3,7,25,0,Step Back Jump shot,25,-128,218,False
+Goran Dragic,4,5,59,0,Step Back Jump shot,16,-98,130,True
+Goran Dragic,4,9,32,0,Step Back Jump shot,12,-127,15,True
+Goran Dragic,2,2,10,0,Step Back Jump shot,19,115,153,True
+Goran Dragic,2,1,56,0,Step Back Jump shot,27,-59,272,False
+Goran Dragic,2,2,5,1,Step Back Jump shot,14,143,0,True
+Goran Dragic,3,3,47,0,Tip Layup Shot,3,-25,20,True
+Goran Dragic,2,1,44,0,Tip Layup Shot,0,0,4,True
+Goran Dragic,3,9,6,0,Tip Layup Shot,0,0,-6,True
+Goran Dragic,4,10,12,1,Turnaround Fadeaway Bank Jump Shot,5,-55,20,True
+Goran Dragic,2,4,10,0,Turnaround Fadeaway Bank Jump Shot,11,-95,58,True
+Goran Dragic,3,0,39,1,Turnaround Fadeaway Bank Jump Shot,7,-74,26,True
+Goran Dragic,4,9,47,1,Turnaround Fadeaway Bank Jump Shot,14,-109,92,True
+Goran Dragic,3,5,59,1,Turnaround Fadeaway shot,13,0,130,True
+Goran Dragic,2,5,12,1,Turnaround Fadeaway shot,6,67,6,True
+Goran Dragic,1,5,34,1,Turnaround Fadeaway shot,11,111,-12,True
+Goran Dragic,3,6,36,1,Turnaround Fadeaway shot,9,-1,92,True
+Goran Dragic,4,2,50,1,Turnaround Fadeaway shot,6,-36,58,True
+Goran Dragic,1,4,18,0,Turnaround Fadeaway shot,5,34,45,True
+Goran Dragic,4,10,2,0,Turnaround Fadeaway shot,11,-35,110,True
+Goran Dragic,1,6,58,1,Turnaround Fadeaway shot,12,61,111,True
+Goran Dragic,4,9,27,1,Turnaround Fadeaway shot,13,130,3,True
+Goran Dragic,2,0,0,0,Turnaround Fadeaway shot,4,10,47,True
+Goran Dragic,1,3,47,0,Turnaround Jump Shot,11,-51,98,True
+Goran Dragic,1,6,24,1,Turnaround Jump Shot,12,-122,-4,True
+Goran Dragic,2,5,50,1,Turnaround Jump Shot,8,-32,82,True
+Goran Dragic,1,5,27,1,Turnaround Jump Shot,2,20,18,True
+Goran Dragic,4,9,25,0,Turnaround Jump Shot,9,-96,11,True
+Goran Dragic,1,9,59,0,Turnaround Jump Shot,5,-21,52,True
+Goran Dragic,3,5,56,0,Turnaround Jump Shot,10,62,85,True
+Goran Dragic,1,5,42,1,Turnaround Jump Shot,12,121,13,True
+Goran Dragic,2,4,4,0,Turnaround Jump Shot,4,-42,-13,True
+Goran Dragic,2,5,43,0,Turnaround Jump Shot,10,-8,102,True
+Goran Dragic,3,2,38,0,Turnaround Jump Shot,4,0,42,True
+Goran Dragic,2,6,50,1,Turnaround Jump Shot,5,44,32,True
+Goran Dragic,2,0,1,1,Turnaround Jump Shot,10,99,45,True
+Goran Dragic,1,4,2,0,Turnaround Jump Shot,6,-55,27,True
+Goran Dragic,4,1,47,0,Turnaround Jump Shot,17,30,175,True
+Goran Dragic,4,2,16,1,Turnaround Jump Shot,4,23,42,True
+Goran Dragic,3,9,47,0,Turnaround Jump Shot,10,-51,89,True
+Goran Dragic,2,0,0,1,Turnaround Jump Shot,8,-5,88,True

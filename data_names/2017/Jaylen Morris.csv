@@ -1,0 +1,16 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jaylen Morris,4,7,27,1,Driving Floating Jump Shot,5,-53,15,True
+Jaylen Morris,2,9,47,1,Driving Floating Jump Shot,11,-13,117,True
+Jaylen Morris,3,1,33,1,Driving Floating Jump Shot,12,-95,86,True
+Jaylen Morris,3,0,56,0,Driving Layup Shot,4,-9,43,True
+Jaylen Morris,4,7,1,0,Driving Layup Shot,1,5,14,True
+Jaylen Morris,3,2,21,0,Driving Layup Shot,1,2,11,True
+Jaylen Morris,1,0,8,0,Driving Layup Shot,5,35,38,True
+Jaylen Morris,2,2,30,1,Jump Shot,24,-168,185,False
+Jaylen Morris,2,0,0,0,Jump Shot,51,-191,482,False
+Jaylen Morris,4,11,5,0,Jump Shot,22,-228,25,False
+Jaylen Morris,3,1,55,0,Jump Shot,22,-224,11,False
+Jaylen Morris,4,7,40,0,Jump Shot,19,-190,27,True
+Jaylen Morris,1,2,47,1,Putback Layup Shot,2,16,15,True
+Jaylen Morris,1,0,0,0,Running Layup Shot,0,-3,5,True
+Jaylen Morris,4,10,40,0,Running Reverse Layup Shot,0,0,4,True

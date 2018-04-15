@@ -1,0 +1,21 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+RJ Hunter,1,7,23,1,Cutting Layup Shot,1,5,16,True
+RJ Hunter,4,3,36,0,Driving Layup Shot,1,10,0,True
+RJ Hunter,4,1,56,0,Driving Layup Shot,4,-42,9,True
+RJ Hunter,4,3,29,1,Driving Layup Shot,2,-18,15,True
+RJ Hunter,1,10,25,0,Jump Shot,23,232,16,False
+RJ Hunter,4,0,35,0,Jump Shot,28,193,209,False
+RJ Hunter,4,7,33,0,Jump Shot,27,152,232,False
+RJ Hunter,4,6,17,1,Jump Shot,25,-157,199,False
+RJ Hunter,4,5,19,1,Jump Shot,31,174,260,False
+RJ Hunter,2,3,58,0,Jump Shot,25,48,252,False
+RJ Hunter,4,4,15,0,Jump Shot,29,120,271,False
+RJ Hunter,4,5,43,1,Jump Shot,16,-165,6,True
+RJ Hunter,4,0,56,0,Jump Shot,25,124,220,False
+RJ Hunter,1,6,32,0,Jump Shot,24,-174,179,False
+RJ Hunter,1,0,3,0,Jump Shot,28,0,289,False
+RJ Hunter,1,9,14,0,Jump Shot,24,-170,183,False
+RJ Hunter,1,2,26,1,Jump Shot,22,-225,31,False
+RJ Hunter,4,9,43,0,Jump Shot,25,-221,121,False
+RJ Hunter,4,5,13,0,Jump Shot,25,226,117,False
+RJ Hunter,4,10,52,1,Layup Shot,2,-26,-2,True

@@ -1,0 +1,147 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Ivan Rabb,2,0,5,1,Alley Oop Dunk Shot,0,-8,5,True
+Ivan Rabb,2,0,17,1,Alley Oop Dunk Shot,0,-3,3,True
+Ivan Rabb,3,0,35,1,Alley Oop Dunk Shot,1,-1,17,True
+Ivan Rabb,2,11,46,0,Alley Oop Layup shot,0,-3,7,True
+Ivan Rabb,3,3,29,1,Alley Oop Layup shot,2,2,21,True
+Ivan Rabb,2,9,56,1,Alley Oop Layup shot,0,8,4,True
+Ivan Rabb,4,2,17,1,Alley Oop Layup shot,1,-14,5,True
+Ivan Rabb,1,2,45,1,Cutting Dunk Shot,0,-2,6,True
+Ivan Rabb,1,3,41,1,Cutting Dunk Shot,0,-5,2,True
+Ivan Rabb,1,0,18,1,Cutting Dunk Shot,1,-2,11,True
+Ivan Rabb,4,1,40,1,Cutting Dunk Shot,0,4,-4,True
+Ivan Rabb,2,7,2,1,Cutting Dunk Shot,0,-1,7,True
+Ivan Rabb,2,3,28,1,Cutting Dunk Shot,1,5,16,True
+Ivan Rabb,2,3,47,1,Cutting Dunk Shot,0,4,4,True
+Ivan Rabb,2,9,28,1,Cutting Dunk Shot,0,-5,-5,True
+Ivan Rabb,2,2,13,0,Cutting Layup Shot,2,-19,12,True
+Ivan Rabb,3,6,42,0,Cutting Layup Shot,7,-27,67,True
+Ivan Rabb,1,3,27,0,Cutting Layup Shot,1,5,9,True
+Ivan Rabb,1,2,39,0,Cutting Layup Shot,1,-4,16,True
+Ivan Rabb,1,1,18,1,Cutting Layup Shot,3,28,21,True
+Ivan Rabb,2,10,9,0,Cutting Layup Shot,2,4,28,True
+Ivan Rabb,2,9,47,0,Cutting Layup Shot,1,-9,5,True
+Ivan Rabb,3,1,18,1,Driving Floating Bank Jump Shot,2,25,7,True
+Ivan Rabb,4,11,10,1,Driving Floating Jump Shot,5,8,58,True
+Ivan Rabb,1,7,1,1,Dunk Shot,1,-9,-5,True
+Ivan Rabb,4,0,18,0,Dunk Shot,2,-5,20,True
+Ivan Rabb,2,11,34,1,Dunk Shot,1,-9,8,True
+Ivan Rabb,3,3,32,1,Dunk Shot,1,7,8,True
+Ivan Rabb,1,1,4,1,Dunk Shot,0,-7,1,True
+Ivan Rabb,4,2,8,1,Dunk Shot,1,2,10,True
+Ivan Rabb,2,11,46,0,Fadeaway Jump Shot,11,112,10,True
+Ivan Rabb,4,6,56,0,Fadeaway Jump Shot,8,48,73,True
+Ivan Rabb,1,2,41,1,Fadeaway Jump Shot,14,-16,148,True
+Ivan Rabb,1,1,12,1,Fadeaway Jump Shot,14,144,31,True
+Ivan Rabb,4,0,51,1,Hook Shot,6,-62,32,True
+Ivan Rabb,2,10,38,0,Hook Shot,3,5,36,True
+Ivan Rabb,4,0,23,0,Hook Shot,6,-63,23,True
+Ivan Rabb,4,1,12,0,Hook Shot,9,-56,76,True
+Ivan Rabb,1,1,0,0,Hook Shot,4,24,36,True
+Ivan Rabb,2,0,57,1,Hook Shot,2,5,24,True
+Ivan Rabb,3,4,48,0,Hook Shot,4,2,46,True
+Ivan Rabb,4,4,51,1,Hook Shot,5,-50,25,True
+Ivan Rabb,1,7,22,1,Jump Bank Shot,6,-55,34,True
+Ivan Rabb,3,10,18,0,Jump Shot,13,-5,136,True
+Ivan Rabb,3,1,44,1,Jump Shot,18,-13,184,True
+Ivan Rabb,3,11,47,1,Jump Shot,20,-25,201,True
+Ivan Rabb,2,7,21,0,Jump Shot,16,-46,158,True
+Ivan Rabb,1,0,44,1,Jump Shot,13,119,71,True
+Ivan Rabb,3,10,37,0,Jump Shot,17,-9,179,True
+Ivan Rabb,4,1,10,0,Jump Shot,20,10,209,True
+Ivan Rabb,3,6,1,0,Jump Shot,19,-122,147,True
+Ivan Rabb,2,7,18,1,Jump Shot,21,90,192,True
+Ivan Rabb,2,11,49,0,Jump Shot,11,114,25,True
+Ivan Rabb,2,9,17,1,Jump Shot,19,6,197,True
+Ivan Rabb,4,0,51,0,Jump Shot,15,3,153,True
+Ivan Rabb,1,3,16,0,Jump Shot,16,145,74,True
+Ivan Rabb,1,2,48,0,Jump Shot,19,-127,148,True
+Ivan Rabb,2,9,48,1,Jump Shot,13,-130,11,True
+Ivan Rabb,1,6,9,1,Jump Shot,17,-88,153,True
+Ivan Rabb,3,4,17,1,Jump Shot,21,-3,214,True
+Ivan Rabb,2,11,2,1,Jump Shot,18,-105,149,True
+Ivan Rabb,3,2,33,0,Jump Shot,17,87,153,True
+Ivan Rabb,4,3,37,0,Jump Shot,17,43,173,True
+Ivan Rabb,2,1,56,1,Jump Shot,21,53,212,True
+Ivan Rabb,4,1,18,0,Jump Shot,16,131,98,True
+Ivan Rabb,3,3,57,1,Jump Shot,13,19,134,True
+Ivan Rabb,4,9,5,1,Jump Shot,17,171,-18,True
+Ivan Rabb,2,8,26,0,Jump Shot,17,-16,175,True
+Ivan Rabb,4,5,37,0,Jump Shot,20,107,171,True
+Ivan Rabb,4,9,8,1,Jump Shot,15,30,156,True
+Ivan Rabb,1,1,17,0,Jump Shot,13,25,136,True
+Ivan Rabb,1,3,31,0,Jump Shot,14,-134,64,True
+Ivan Rabb,2,5,30,0,Jump Shot,17,-121,131,True
+Ivan Rabb,3,1,4,1,Jump Shot,19,-14,196,True
+Ivan Rabb,3,10,46,0,Jump Shot,18,-9,185,True
+Ivan Rabb,3,8,16,0,Jump Shot,16,14,164,True
+Ivan Rabb,3,8,20,1,Jump Shot,18,-94,157,True
+Ivan Rabb,4,3,22,1,Jump Shot,19,-42,190,True
+Ivan Rabb,1,8,57,1,Jump Shot,12,95,76,True
+Ivan Rabb,4,9,26,0,Jump Shot,20,127,162,True
+Ivan Rabb,3,0,59,1,Jump Shot,16,9,160,True
+Ivan Rabb,4,1,34,1,Jump Shot,8,-8,86,True
+Ivan Rabb,4,1,21,1,Layup Shot,1,0,16,True
+Ivan Rabb,4,9,29,0,Layup Shot,2,-23,18,True
+Ivan Rabb,2,2,1,0,Layup Shot,2,-21,5,True
+Ivan Rabb,4,3,50,1,Layup Shot,0,3,6,True
+Ivan Rabb,3,5,5,1,Layup Shot,1,1,16,True
+Ivan Rabb,2,11,46,1,Layup Shot,1,-9,15,True
+Ivan Rabb,3,7,3,0,Layup Shot,2,6,23,True
+Ivan Rabb,3,4,50,0,Layup Shot,2,-6,29,True
+Ivan Rabb,1,0,57,1,Layup Shot,2,20,11,True
+Ivan Rabb,3,3,28,0,Layup Shot,3,-38,6,True
+Ivan Rabb,4,0,47,0,Layup Shot,1,-19,-1,True
+Ivan Rabb,2,10,6,1,Layup Shot,0,-2,9,True
+Ivan Rabb,1,4,40,1,Layup Shot,1,-18,4,True
+Ivan Rabb,2,9,57,1,Pullup Jump shot,18,81,163,True
+Ivan Rabb,1,9,39,0,Pullup Jump shot,20,-110,169,True
+Ivan Rabb,2,4,33,0,Pullup Jump shot,11,0,111,True
+Ivan Rabb,3,5,40,0,Pullup Jump shot,14,97,105,True
+Ivan Rabb,2,3,21,1,Pullup Jump shot,17,7,171,True
+Ivan Rabb,4,10,21,1,Putback Dunk Shot,0,3,5,True
+Ivan Rabb,3,7,38,1,Putback Dunk Shot,0,0,-6,True
+Ivan Rabb,3,1,59,1,Putback Dunk Shot,0,0,6,True
+Ivan Rabb,2,2,10,1,Putback Dunk Shot,1,-3,16,True
+Ivan Rabb,2,7,24,1,Putback Layup Shot,0,-8,3,True
+Ivan Rabb,3,4,56,1,Putback Layup Shot,1,11,-5,True
+Ivan Rabb,1,0,46,1,Putback Layup Shot,2,-4,27,True
+Ivan Rabb,4,8,37,0,Putback Layup Shot,3,13,32,True
+Ivan Rabb,4,9,32,0,Putback Layup Shot,1,-18,7,True
+Ivan Rabb,4,0,50,0,Putback Layup Shot,1,6,14,True
+Ivan Rabb,3,3,47,1,Reverse Layup Shot,0,-5,8,True
+Ivan Rabb,2,9,14,1,Running Dunk Shot,1,3,11,True
+Ivan Rabb,4,4,35,0,Running Layup Shot,0,-1,-1,True
+Ivan Rabb,4,0,48,1,Running Layup Shot,1,9,13,True
+Ivan Rabb,3,6,10,0,Step Back Jump shot,20,152,134,True
+Ivan Rabb,4,0,12,0,Step Back Jump shot,17,32,172,True
+Ivan Rabb,4,1,45,1,Step Back Jump shot,14,-117,85,True
+Ivan Rabb,4,9,51,1,Step Back Jump shot,10,-78,71,True
+Ivan Rabb,4,8,38,1,Step Back Jump shot,18,98,151,True
+Ivan Rabb,2,5,21,1,Tip Layup Shot,0,0,-6,True
+Ivan Rabb,2,6,27,1,Tip Layup Shot,0,0,-6,True
+Ivan Rabb,4,10,23,1,Tip Layup Shot,0,0,-6,True
+Ivan Rabb,3,2,43,0,Tip Layup Shot,0,0,-6,True
+Ivan Rabb,3,8,55,1,Tip Layup Shot,0,-8,4,True
+Ivan Rabb,2,11,44,1,Tip Layup Shot,0,0,-6,True
+Ivan Rabb,3,2,45,0,Tip Layup Shot,0,0,-6,True
+Ivan Rabb,2,1,39,1,Tip Layup Shot,0,0,-6,True
+Ivan Rabb,3,6,53,1,Tip Layup Shot,0,0,-6,True
+Ivan Rabb,1,4,7,1,Tip Layup Shot,0,0,-6,True
+Ivan Rabb,3,3,22,0,Tip Layup Shot,0,0,-6,True
+Ivan Rabb,2,9,53,1,Tip Layup Shot,0,0,-6,True
+Ivan Rabb,3,1,28,0,Tip Layup Shot,0,0,-6,True
+Ivan Rabb,1,10,52,0,Tip Layup Shot,0,0,-6,True
+Ivan Rabb,3,2,5,0,Turnaround Fadeaway shot,10,107,16,True
+Ivan Rabb,2,6,57,1,Turnaround Fadeaway shot,10,-62,88,True
+Ivan Rabb,2,6,22,0,Turnaround Fadeaway shot,12,-112,64,True
+Ivan Rabb,1,2,36,1,Turnaround Hook Shot,6,-27,58,True
+Ivan Rabb,3,8,0,0,Turnaround Hook Shot,7,-27,73,True
+Ivan Rabb,4,5,23,0,Turnaround Hook Shot,5,52,12,True
+Ivan Rabb,2,10,20,0,Turnaround Hook Shot,2,-20,9,True
+Ivan Rabb,3,3,16,1,Turnaround Hook Shot,6,25,55,True
+Ivan Rabb,1,5,20,0,Turnaround Hook Shot,2,-14,26,True
+Ivan Rabb,3,1,37,0,Turnaround Jump Shot,14,-81,123,True
+Ivan Rabb,4,6,18,1,Turnaround Jump Shot,18,-79,162,True
+Ivan Rabb,3,0,37,1,Turnaround Jump Shot,10,105,29,True
+Ivan Rabb,2,0,27,0,Turnaround Jump Shot,4,-41,6,True

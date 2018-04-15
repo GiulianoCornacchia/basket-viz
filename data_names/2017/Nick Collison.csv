@@ -1,0 +1,12 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Nick Collison,3,0,34,1,Cutting Dunk Shot,0,-2,5,True
+Nick Collison,4,4,1,1,Cutting Dunk Shot,1,-7,18,True
+Nick Collison,4,6,41,1,Cutting Finger Roll Layup Shot,1,0,14,True
+Nick Collison,4,5,19,1,Floating Jump shot,4,-2,48,True
+Nick Collison,1,4,45,1,Hook Shot,5,-3,59,True
+Nick Collison,3,1,37,0,Jump Shot,23,-63,222,True
+Nick Collison,4,3,24,1,Layup Shot,1,-9,5,True
+Nick Collison,4,3,54,0,Layup Shot,2,5,23,True
+Nick Collison,4,7,46,1,Running Layup Shot,1,-5,11,True
+Nick Collison,4,4,10,0,Tip Layup Shot,0,0,-6,True
+Nick Collison,3,5,23,1,Tip Layup Shot,0,0,-6,True

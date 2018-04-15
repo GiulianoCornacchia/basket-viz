@@ -1,0 +1,1193 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Lou Williams,4,5,46,0,Alley Oop Layup shot,1,-1,11,True
+Lou Williams,4,9,27,0,Cutting Dunk Shot,1,6,15,True
+Lou Williams,2,3,11,1,Cutting Dunk Shot,1,-12,10,True
+Lou Williams,4,8,35,1,Cutting Finger Roll Layup Shot,3,31,10,True
+Lou Williams,3,9,49,1,Cutting Layup Shot,3,-31,5,True
+Lou Williams,2,8,9,1,Cutting Layup Shot,2,20,6,True
+Lou Williams,3,3,37,1,Cutting Layup Shot,0,-1,1,True
+Lou Williams,1,5,2,1,Cutting Layup Shot,1,14,8,True
+Lou Williams,2,7,30,1,Cutting Layup Shot,1,-8,12,True
+Lou Williams,1,5,58,0,Cutting Layup Shot,3,2,32,True
+Lou Williams,4,5,47,0,Cutting Layup Shot,1,4,12,True
+Lou Williams,3,1,23,1,Cutting Layup Shot,1,-13,6,True
+Lou Williams,2,7,52,1,Driving Dunk Shot,0,0,3,True
+Lou Williams,2,3,43,1,Driving Dunk Shot,1,-9,16,True
+Lou Williams,3,1,32,1,Driving Dunk Shot,1,4,11,True
+Lou Williams,3,7,6,1,Driving Dunk Shot,0,1,8,True
+Lou Williams,2,4,24,1,Driving Dunk Shot,0,-5,-2,True
+Lou Williams,2,5,23,1,Driving Dunk Shot,1,6,17,True
+Lou Williams,2,4,49,1,Driving Finger Roll Layup Shot,2,1,20,True
+Lou Williams,3,8,58,1,Driving Finger Roll Layup Shot,1,-13,9,True
+Lou Williams,1,9,38,0,Driving Finger Roll Layup Shot,1,6,10,True
+Lou Williams,4,5,57,1,Driving Finger Roll Layup Shot,0,3,-1,True
+Lou Williams,4,3,45,0,Driving Finger Roll Layup Shot,1,17,10,True
+Lou Williams,2,3,1,0,Driving Finger Roll Layup Shot,3,-2,31,True
+Lou Williams,4,8,24,1,Driving Finger Roll Layup Shot,1,3,15,True
+Lou Williams,4,7,6,1,Driving Finger Roll Layup Shot,2,20,14,True
+Lou Williams,2,1,36,1,Driving Finger Roll Layup Shot,6,56,34,True
+Lou Williams,2,3,56,1,Driving Finger Roll Layup Shot,2,-4,20,True
+Lou Williams,4,1,36,1,Driving Finger Roll Layup Shot,1,8,10,True
+Lou Williams,4,10,26,1,Driving Finger Roll Layup Shot,0,0,8,True
+Lou Williams,1,2,52,1,Driving Finger Roll Layup Shot,6,3,67,True
+Lou Williams,5,0,54,1,Driving Finger Roll Layup Shot,4,-9,39,True
+Lou Williams,1,1,42,0,Driving Finger Roll Layup Shot,1,9,9,True
+Lou Williams,4,2,25,1,Driving Finger Roll Layup Shot,1,13,1,True
+Lou Williams,4,11,41,1,Driving Finger Roll Layup Shot,1,0,15,True
+Lou Williams,2,2,31,1,Driving Finger Roll Layup Shot,1,-4,14,True
+Lou Williams,1,2,49,1,Driving Finger Roll Layup Shot,0,-8,-2,True
+Lou Williams,2,2,8,0,Driving Finger Roll Layup Shot,3,28,14,True
+Lou Williams,4,4,57,1,Driving Finger Roll Layup Shot,2,20,17,True
+Lou Williams,1,2,39,1,Driving Finger Roll Layup Shot,1,-2,15,True
+Lou Williams,3,0,49,1,Driving Finger Roll Layup Shot,1,10,12,True
+Lou Williams,3,1,31,1,Driving Finger Roll Layup Shot,1,8,15,True
+Lou Williams,4,7,10,1,Driving Finger Roll Layup Shot,1,2,10,True
+Lou Williams,4,1,56,1,Driving Finger Roll Layup Shot,1,0,10,True
+Lou Williams,1,1,42,1,Driving Finger Roll Layup Shot,0,-9,0,True
+Lou Williams,3,1,0,1,Driving Finger Roll Layup Shot,2,6,26,True
+Lou Williams,4,7,9,0,Driving Finger Roll Layup Shot,0,5,2,True
+Lou Williams,2,11,7,1,Driving Finger Roll Layup Shot,4,-21,37,True
+Lou Williams,4,9,25,1,Driving Finger Roll Layup Shot,0,-1,5,True
+Lou Williams,3,0,5,1,Driving Floating Bank Jump Shot,16,-106,120,True
+Lou Williams,1,3,3,0,Driving Floating Bank Jump Shot,2,20,8,True
+Lou Williams,4,5,5,0,Driving Floating Bank Jump Shot,2,22,17,True
+Lou Williams,1,3,59,0,Driving Floating Bank Jump Shot,7,-62,43,True
+Lou Williams,1,1,20,1,Driving Floating Bank Jump Shot,9,88,35,True
+Lou Williams,3,0,27,0,Driving Floating Bank Jump Shot,9,82,52,True
+Lou Williams,1,1,6,1,Driving Floating Bank Jump Shot,10,98,36,True
+Lou Williams,3,10,17,0,Driving Floating Bank Jump Shot,7,75,11,True
+Lou Williams,1,2,14,1,Driving Floating Bank Jump Shot,2,20,6,True
+Lou Williams,4,7,46,0,Driving Floating Bank Jump Shot,2,13,16,True
+Lou Williams,3,0,47,1,Driving Floating Bank Jump Shot,1,11,7,True
+Lou Williams,4,10,32,1,Driving Floating Bank Jump Shot,3,37,15,True
+Lou Williams,3,0,3,0,Driving Floating Bank Jump Shot,2,18,11,True
+Lou Williams,2,9,46,1,Driving Floating Bank Jump Shot,4,-24,43,True
+Lou Williams,3,2,29,0,Driving Floating Bank Jump Shot,3,32,16,True
+Lou Williams,3,1,7,1,Driving Floating Bank Jump Shot,2,28,8,True
+Lou Williams,4,2,45,1,Driving Floating Jump Shot,3,0,34,True
+Lou Williams,4,3,34,1,Driving Floating Jump Shot,3,14,27,True
+Lou Williams,4,6,41,1,Driving Floating Jump Shot,2,14,20,True
+Lou Williams,3,4,48,0,Driving Floating Jump Shot,2,-17,15,True
+Lou Williams,4,7,28,1,Driving Floating Jump Shot,6,-24,64,True
+Lou Williams,4,4,17,1,Driving Floating Jump Shot,12,71,103,True
+Lou Williams,3,0,25,0,Driving Floating Jump Shot,4,48,11,True
+Lou Williams,3,1,35,1,Driving Floating Jump Shot,6,-2,67,True
+Lou Williams,1,11,7,0,Driving Floating Jump Shot,9,0,98,True
+Lou Williams,2,5,31,1,Driving Floating Jump Shot,6,43,43,True
+Lou Williams,1,4,28,0,Driving Floating Jump Shot,5,-41,40,True
+Lou Williams,1,11,5,0,Driving Floating Jump Shot,7,38,61,True
+Lou Williams,1,1,9,1,Driving Floating Jump Shot,8,-8,88,True
+Lou Williams,1,0,55,0,Driving Floating Jump Shot,12,-89,83,True
+Lou Williams,3,7,59,1,Driving Floating Jump Shot,4,9,46,True
+Lou Williams,4,11,37,1,Driving Floating Jump Shot,5,3,57,True
+Lou Williams,2,11,22,1,Driving Floating Jump Shot,9,44,87,True
+Lou Williams,4,4,3,1,Driving Floating Jump Shot,10,-1,102,True
+Lou Williams,4,7,9,1,Driving Floating Jump Shot,6,63,5,True
+Lou Williams,3,7,2,1,Driving Floating Jump Shot,13,-13,131,True
+Lou Williams,1,3,51,1,Driving Floating Jump Shot,4,-3,43,True
+Lou Williams,2,7,50,1,Driving Floating Jump Shot,8,61,59,True
+Lou Williams,3,8,46,1,Driving Floating Jump Shot,9,20,95,True
+Lou Williams,3,1,52,1,Driving Floating Jump Shot,14,98,107,True
+Lou Williams,2,6,30,1,Driving Floating Jump Shot,5,-6,59,True
+Lou Williams,3,8,3,0,Driving Floating Jump Shot,10,32,101,True
+Lou Williams,2,9,45,1,Driving Floating Jump Shot,4,-40,0,True
+Lou Williams,3,9,54,1,Driving Floating Jump Shot,2,-11,21,True
+Lou Williams,4,11,45,0,Driving Floating Jump Shot,10,-54,85,True
+Lou Williams,2,11,37,0,Driving Floating Jump Shot,10,-106,22,True
+Lou Williams,2,4,29,1,Driving Floating Jump Shot,4,32,30,True
+Lou Williams,4,9,32,1,Driving Floating Jump Shot,3,-9,29,True
+Lou Williams,1,4,0,0,Driving Floating Jump Shot,5,-52,27,True
+Lou Williams,4,11,45,0,Driving Floating Jump Shot,12,49,112,True
+Lou Williams,4,1,26,1,Driving Floating Jump Shot,1,-16,8,True
+Lou Williams,4,8,27,1,Driving Floating Jump Shot,5,4,58,True
+Lou Williams,2,11,27,0,Driving Floating Jump Shot,8,30,83,True
+Lou Williams,4,4,47,1,Driving Floating Jump Shot,9,2,92,True
+Lou Williams,1,0,48,1,Driving Floating Jump Shot,3,0,32,True
+Lou Williams,1,6,34,1,Driving Floating Jump Shot,5,51,9,True
+Lou Williams,4,11,37,1,Driving Floating Jump Shot,13,-119,62,True
+Lou Williams,3,0,6,0,Driving Floating Jump Shot,6,3,64,True
+Lou Williams,4,1,12,1,Driving Floating Jump Shot,9,-12,91,True
+Lou Williams,2,6,43,0,Driving Floating Jump Shot,4,-37,27,True
+Lou Williams,1,4,20,1,Driving Floating Jump Shot,5,-29,50,True
+Lou Williams,2,2,0,0,Driving Floating Jump Shot,12,71,106,True
+Lou Williams,3,0,5,0,Driving Floating Jump Shot,12,-71,102,True
+Lou Williams,4,2,23,1,Driving Floating Jump Shot,6,3,63,True
+Lou Williams,3,8,47,1,Driving Floating Jump Shot,9,-85,37,True
+Lou Williams,4,8,52,0,Driving Floating Jump Shot,3,19,34,True
+Lou Williams,4,10,58,0,Driving Floating Jump Shot,6,-49,43,True
+Lou Williams,2,0,5,1,Driving Floating Jump Shot,9,-84,38,True
+Lou Williams,4,7,13,1,Driving Floating Jump Shot,13,-52,127,True
+Lou Williams,4,1,43,1,Driving Floating Jump Shot,10,0,105,True
+Lou Williams,3,2,15,0,Driving Floating Jump Shot,12,29,117,True
+Lou Williams,3,0,11,0,Driving Floating Jump Shot,9,76,57,True
+Lou Williams,4,9,38,0,Driving Floating Jump Shot,7,69,16,True
+Lou Williams,4,2,47,1,Driving Floating Jump Shot,10,-96,52,True
+Lou Williams,1,0,37,0,Driving Floating Jump Shot,7,32,68,True
+Lou Williams,1,0,0,0,Driving Floating Jump Shot,9,-74,64,True
+Lou Williams,1,2,57,0,Driving Floating Jump Shot,9,-8,93,True
+Lou Williams,2,3,18,1,Driving Floating Jump Shot,11,44,105,True
+Lou Williams,4,10,44,1,Driving Floating Jump Shot,8,-14,85,True
+Lou Williams,4,10,57,0,Driving Floating Jump Shot,12,-3,125,True
+Lou Williams,1,6,48,0,Driving Floating Jump Shot,9,2,94,True
+Lou Williams,2,7,1,1,Driving Floating Jump Shot,11,51,106,True
+Lou Williams,1,3,49,1,Driving Floating Jump Shot,9,61,68,True
+Lou Williams,2,2,6,1,Driving Hook Shot,6,-6,64,True
+Lou Williams,2,4,13,0,Driving Hook Shot,5,54,13,True
+Lou Williams,2,5,56,1,Driving Hook Shot,2,16,25,True
+Lou Williams,1,4,6,0,Driving Layup Shot,2,14,17,True
+Lou Williams,2,8,59,0,Driving Layup Shot,0,7,4,True
+Lou Williams,3,1,0,1,Driving Layup Shot,2,20,11,True
+Lou Williams,2,8,27,1,Driving Layup Shot,1,16,1,True
+Lou Williams,2,8,57,0,Driving Layup Shot,2,22,-1,True
+Lou Williams,2,8,48,0,Driving Layup Shot,3,18,32,True
+Lou Williams,1,0,19,0,Driving Layup Shot,2,18,11,True
+Lou Williams,2,5,14,1,Driving Layup Shot,1,9,15,True
+Lou Williams,4,8,50,0,Driving Layup Shot,2,14,17,True
+Lou Williams,4,2,31,0,Driving Layup Shot,5,-6,50,True
+Lou Williams,4,9,50,1,Driving Layup Shot,1,3,16,True
+Lou Williams,4,9,14,1,Driving Layup Shot,1,11,10,True
+Lou Williams,2,2,57,0,Driving Layup Shot,10,9,100,True
+Lou Williams,4,11,38,1,Driving Layup Shot,2,5,20,True
+Lou Williams,1,0,9,1,Driving Layup Shot,1,12,14,True
+Lou Williams,3,2,39,0,Driving Layup Shot,0,5,5,True
+Lou Williams,1,1,14,1,Driving Layup Shot,0,-2,5,True
+Lou Williams,1,1,43,0,Driving Layup Shot,1,-14,6,True
+Lou Williams,4,9,11,1,Driving Layup Shot,2,13,17,True
+Lou Williams,1,0,59,0,Driving Layup Shot,1,-2,15,True
+Lou Williams,2,5,10,1,Driving Layup Shot,1,13,11,True
+Lou Williams,2,0,58,1,Driving Layup Shot,1,16,0,True
+Lou Williams,2,0,26,0,Driving Layup Shot,2,8,22,True
+Lou Williams,2,0,31,0,Driving Layup Shot,2,-2,24,True
+Lou Williams,3,2,41,0,Driving Layup Shot,3,0,33,True
+Lou Williams,1,5,32,1,Driving Layup Shot,1,-18,5,True
+Lou Williams,1,1,6,1,Driving Layup Shot,1,-9,5,True
+Lou Williams,4,10,56,0,Driving Layup Shot,2,19,10,True
+Lou Williams,1,1,27,0,Driving Layup Shot,3,13,37,True
+Lou Williams,4,5,32,1,Driving Layup Shot,1,7,10,True
+Lou Williams,3,4,16,1,Driving Layup Shot,2,20,6,True
+Lou Williams,4,6,53,1,Driving Layup Shot,1,14,10,True
+Lou Williams,3,9,40,0,Driving Layup Shot,1,1,11,True
+Lou Williams,4,2,33,0,Driving Layup Shot,1,7,10,True
+Lou Williams,1,0,11,0,Driving Layup Shot,2,12,20,True
+Lou Williams,4,7,33,0,Driving Layup Shot,1,18,8,True
+Lou Williams,2,10,13,1,Driving Layup Shot,4,-41,8,True
+Lou Williams,3,7,45,0,Driving Layup Shot,2,0,26,True
+Lou Williams,2,2,1,1,Driving Layup Shot,2,25,0,True
+Lou Williams,3,7,9,0,Driving Layup Shot,4,-9,42,True
+Lou Williams,3,4,32,1,Driving Layup Shot,2,16,21,True
+Lou Williams,4,5,2,0,Driving Layup Shot,1,10,5,True
+Lou Williams,2,11,28,0,Driving Layup Shot,2,-18,22,True
+Lou Williams,3,5,55,1,Driving Layup Shot,1,9,15,True
+Lou Williams,4,3,16,1,Driving Layup Shot,4,28,38,True
+Lou Williams,3,4,43,1,Driving Layup Shot,2,27,4,True
+Lou Williams,3,2,34,1,Driving Layup Shot,2,9,27,True
+Lou Williams,4,1,17,1,Driving Layup Shot,1,-17,4,True
+Lou Williams,1,2,44,1,Driving Layup Shot,1,-8,17,True
+Lou Williams,4,4,39,0,Driving Layup Shot,4,36,32,True
+Lou Williams,2,3,38,1,Driving Layup Shot,1,17,9,True
+Lou Williams,1,1,51,1,Driving Layup Shot,1,-9,9,True
+Lou Williams,1,0,33,0,Driving Layup Shot,1,8,15,True
+Lou Williams,4,4,49,0,Driving Layup Shot,0,9,2,True
+Lou Williams,3,1,0,1,Driving Layup Shot,0,3,4,True
+Lou Williams,2,9,23,1,Driving Layup Shot,2,22,10,True
+Lou Williams,4,7,13,0,Driving Layup Shot,4,40,16,True
+Lou Williams,2,6,5,0,Driving Layup Shot,1,7,13,True
+Lou Williams,2,1,14,0,Driving Layup Shot,0,-6,4,True
+Lou Williams,4,11,35,0,Driving Layup Shot,4,13,43,True
+Lou Williams,4,9,48,1,Driving Layup Shot,1,0,14,True
+Lou Williams,2,9,36,1,Driving Layup Shot,1,11,7,True
+Lou Williams,2,7,21,1,Driving Layup Shot,0,2,0,True
+Lou Williams,2,11,0,0,Driving Layup Shot,6,33,59,True
+Lou Williams,4,10,6,1,Driving Layup Shot,1,-8,13,True
+Lou Williams,4,8,7,1,Driving Layup Shot,1,2,12,True
+Lou Williams,4,3,42,1,Driving Layup Shot,0,6,5,True
+Lou Williams,4,10,22,1,Driving Layup Shot,2,2,24,True
+Lou Williams,1,8,5,0,Driving Layup Shot,1,-13,8,True
+Lou Williams,5,3,10,0,Driving Layup Shot,4,-36,30,True
+Lou Williams,3,3,49,0,Driving Layup Shot,0,-8,5,True
+Lou Williams,4,3,1,0,Driving Layup Shot,1,-19,5,True
+Lou Williams,4,3,21,1,Driving Layup Shot,2,14,20,True
+Lou Williams,4,6,38,0,Driving Layup Shot,4,43,23,True
+Lou Williams,2,10,36,1,Driving Layup Shot,1,-17,1,True
+Lou Williams,3,3,9,0,Driving Layup Shot,2,9,28,True
+Lou Williams,2,9,34,0,Driving Layup Shot,2,28,5,True
+Lou Williams,4,7,2,0,Driving Layup Shot,1,15,8,True
+Lou Williams,4,8,38,0,Driving Layup Shot,1,18,7,True
+Lou Williams,1,1,55,1,Driving Layup Shot,1,-6,12,True
+Lou Williams,1,1,10,0,Driving Layup Shot,2,24,13,True
+Lou Williams,3,1,43,0,Driving Layup Shot,1,14,0,True
+Lou Williams,2,3,55,0,Driving Layup Shot,5,26,46,True
+Lou Williams,2,8,9,0,Driving Layup Shot,0,9,3,True
+Lou Williams,4,8,52,0,Driving Layup Shot,5,46,38,True
+Lou Williams,2,11,16,1,Driving Layup Shot,2,25,16,True
+Lou Williams,1,8,21,1,Driving Layup Shot,2,-21,5,True
+Lou Williams,4,10,25,1,Driving Layup Shot,2,21,16,True
+Lou Williams,3,10,33,1,Driving Layup Shot,1,13,-3,True
+Lou Williams,4,6,37,1,Driving Layup Shot,0,-3,6,True
+Lou Williams,3,3,45,0,Driving Layup Shot,2,18,20,True
+Lou Williams,1,8,1,0,Driving Layup Shot,1,10,10,True
+Lou Williams,2,6,13,0,Driving Layup Shot,1,14,0,True
+Lou Williams,2,2,37,0,Driving Layup Shot,2,25,16,True
+Lou Williams,3,0,45,0,Driving Layup Shot,2,-20,-3,True
+Lou Williams,4,8,13,1,Driving Layup Shot,1,6,8,True
+Lou Williams,3,3,20,1,Driving Layup Shot,1,-5,12,True
+Lou Williams,3,2,41,1,Driving Layup Shot,8,-6,89,True
+Lou Williams,3,6,2,1,Driving Layup Shot,1,8,7,True
+Lou Williams,3,6,55,1,Driving Layup Shot,2,7,20,True
+Lou Williams,3,0,14,1,Driving Layup Shot,1,8,12,True
+Lou Williams,1,0,53,0,Driving Layup Shot,2,16,22,True
+Lou Williams,3,4,36,0,Driving Layup Shot,3,0,35,True
+Lou Williams,2,3,30,0,Driving Layup Shot,1,10,1,True
+Lou Williams,2,6,44,0,Driving Layup Shot,2,8,21,True
+Lou Williams,4,9,6,1,Driving Layup Shot,2,14,18,True
+Lou Williams,1,7,45,1,Driving Layup Shot,1,-10,13,True
+Lou Williams,4,9,46,1,Driving Layup Shot,1,8,16,True
+Lou Williams,2,0,24,0,Driving Layup Shot,2,-9,23,True
+Lou Williams,4,1,34,1,Driving Layup Shot,1,8,17,True
+Lou Williams,4,0,19,1,Driving Layup Shot,0,2,5,True
+Lou Williams,4,7,31,1,Driving Layup Shot,1,2,13,True
+Lou Williams,4,1,57,1,Driving Layup Shot,2,-15,22,True
+Lou Williams,4,9,46,0,Driving Layup Shot,3,30,18,True
+Lou Williams,1,5,0,1,Driving Layup Shot,1,-1,12,True
+Lou Williams,3,1,53,1,Driving Layup Shot,7,-51,53,True
+Lou Williams,3,1,33,0,Driving Layup Shot,3,25,22,True
+Lou Williams,2,2,58,1,Driving Layup Shot,6,-45,49,True
+Lou Williams,4,2,14,0,Driving Layup Shot,1,13,4,True
+Lou Williams,4,10,31,1,Driving Layup Shot,2,1,27,True
+Lou Williams,4,0,32,1,Driving Layup Shot,0,-1,7,True
+Lou Williams,2,8,36,0,Driving Layup Shot,0,-3,-5,True
+Lou Williams,4,6,41,0,Driving Layup Shot,1,10,2,True
+Lou Williams,4,7,12,0,Driving Layup Shot,5,54,7,True
+Lou Williams,3,5,39,0,Driving Layup Shot,1,14,6,True
+Lou Williams,3,0,0,1,Driving Layup Shot,1,11,8,True
+Lou Williams,1,0,2,0,Driving Layup Shot,4,40,5,True
+Lou Williams,2,1,19,0,Driving Layup Shot,1,-8,11,True
+Lou Williams,2,8,9,0,Driving Layup Shot,1,16,5,True
+Lou Williams,2,10,26,0,Driving Layup Shot,1,-11,10,True
+Lou Williams,4,10,31,1,Driving Layup Shot,1,-3,11,True
+Lou Williams,4,8,27,1,Driving Layup Shot,1,5,16,True
+Lou Williams,2,8,56,0,Driving Layup Shot,1,2,19,True
+Lou Williams,2,7,38,0,Driving Layup Shot,1,-5,15,True
+Lou Williams,3,4,24,1,Driving Layup Shot,0,9,3,True
+Lou Williams,4,7,26,0,Driving Layup Shot,2,20,0,True
+Lou Williams,2,7,50,1,Driving Layup Shot,1,12,15,True
+Lou Williams,3,0,6,1,Driving Layup Shot,2,8,20,True
+Lou Williams,2,4,18,1,Driving Layup Shot,2,20,17,True
+Lou Williams,1,1,0,1,Driving Layup Shot,2,8,19,True
+Lou Williams,1,0,47,1,Driving Layup Shot,1,2,12,True
+Lou Williams,2,0,34,1,Driving Layup Shot,2,-12,17,True
+Lou Williams,1,2,2,0,Driving Layup Shot,1,16,10,True
+Lou Williams,3,4,39,0,Driving Layup Shot,2,25,6,True
+Lou Williams,3,1,34,1,Driving Layup Shot,1,9,9,True
+Lou Williams,4,2,31,1,Driving Layup Shot,0,-2,4,True
+Lou Williams,2,9,57,1,Driving Layup Shot,1,9,12,True
+Lou Williams,4,6,4,0,Driving Layup Shot,0,0,8,True
+Lou Williams,4,10,13,0,Driving Layup Shot,0,3,1,True
+Lou Williams,3,6,26,1,Driving Reverse Layup Shot,2,18,13,True
+Lou Williams,1,0,28,1,Driving Reverse Layup Shot,0,2,8,True
+Lou Williams,4,6,36,1,Driving Reverse Layup Shot,1,7,11,True
+Lou Williams,2,3,57,0,Driving Reverse Layup Shot,1,14,5,True
+Lou Williams,2,0,56,1,Dunk Shot,1,1,13,True
+Lou Williams,1,10,45,0,Fadeaway Jump Shot,13,-112,71,True
+Lou Williams,1,1,36,1,Fadeaway Jump Shot,14,-138,32,True
+Lou Williams,1,1,15,0,Fadeaway Jump Shot,13,-128,31,True
+Lou Williams,3,4,50,1,Fadeaway Jump Shot,19,-173,79,True
+Lou Williams,2,6,26,1,Fadeaway Jump Shot,13,-130,22,True
+Lou Williams,2,0,53,1,Fadeaway Jump Shot,15,26,155,True
+Lou Williams,4,5,24,1,Fadeaway Jump Shot,16,-65,152,True
+Lou Williams,2,8,1,0,Fadeaway Jump Shot,18,-144,120,True
+Lou Williams,4,0,8,1,Fadeaway Jump Shot,15,-76,130,True
+Lou Williams,3,4,12,0,Fadeaway Jump Shot,5,-30,42,True
+Lou Williams,2,3,53,1,Fadeaway Jump Shot,15,-151,46,True
+Lou Williams,2,10,40,0,Fadeaway Jump Shot,16,-85,143,True
+Lou Williams,2,5,47,1,Fadeaway Jump Shot,12,-118,53,True
+Lou Williams,1,4,42,0,Fadeaway Jump Shot,12,-70,100,True
+Lou Williams,1,7,24,1,Fadeaway Jump Shot,10,-103,26,True
+Lou Williams,1,0,42,0,Fadeaway Jump Shot,21,125,172,True
+Lou Williams,2,0,28,0,Fadeaway Jump Shot,5,-55,-1,True
+Lou Williams,2,0,35,0,Fadeaway Jump Shot,17,-178,25,True
+Lou Williams,4,1,52,1,Fadeaway Jump Shot,25,-160,193,False
+Lou Williams,2,5,45,0,Fadeaway Jump Shot,19,-182,79,True
+Lou Williams,2,1,23,1,Fadeaway Jump Shot,18,147,111,True
+Lou Williams,2,9,46,1,Fadeaway Jump Shot,13,-128,34,True
+Lou Williams,4,0,59,0,Fadeaway Jump Shot,9,-96,22,True
+Lou Williams,2,1,0,1,Fadeaway Jump Shot,10,-106,27,True
+Lou Williams,1,1,16,1,Fadeaway Jump Shot,13,-130,19,True
+Lou Williams,1,0,0,0,Fadeaway Jump Shot,22,-223,-12,False
+Lou Williams,4,9,30,0,Fadeaway Jump Shot,24,-236,74,False
+Lou Williams,4,2,20,1,Fadeaway Jump Shot,18,-179,32,True
+Lou Williams,2,1,39,0,Fadeaway Jump Shot,15,-15,156,True
+Lou Williams,3,1,6,0,Fadeaway Jump Shot,19,42,194,True
+Lou Williams,3,2,22,1,Fadeaway Jump Shot,14,139,44,True
+Lou Williams,2,9,9,0,Fadeaway Jump Shot,20,-107,179,True
+Lou Williams,4,5,36,0,Fadeaway Jump Shot,12,22,127,True
+Lou Williams,3,2,40,1,Fadeaway Jump Shot,10,55,92,True
+Lou Williams,1,3,11,0,Fadeaway Jump Shot,17,116,135,True
+Lou Williams,3,4,53,0,Fadeaway Jump Shot,10,-109,-10,True
+Lou Williams,3,10,55,1,Fadeaway Jump Shot,28,55,283,False
+Lou Williams,2,8,20,1,Fadeaway Jump Shot,12,-119,22,True
+Lou Williams,2,0,11,1,Fadeaway Jump Shot,19,-114,159,True
+Lou Williams,2,0,3,1,Fadeaway Jump Shot,15,-156,-5,True
+Lou Williams,2,4,20,0,Fadeaway Jump Shot,15,-156,35,True
+Lou Williams,4,6,12,1,Fadeaway Jump Shot,17,175,-20,True
+Lou Williams,3,5,52,1,Fadeaway Jump Shot,10,91,42,True
+Lou Williams,1,0,14,0,Fadeaway Jump Shot,13,-91,98,True
+Lou Williams,1,7,13,1,Fadeaway Jump Shot,14,-86,111,True
+Lou Williams,4,6,2,0,Fadeaway Jump Shot,10,49,97,True
+Lou Williams,2,10,47,0,Fadeaway Jump Shot,16,-152,55,True
+Lou Williams,3,5,29,0,Fadeaway Jump Shot,13,-112,83,True
+Lou Williams,2,4,17,1,Fadeaway Jump Shot,18,-189,-6,True
+Lou Williams,3,2,42,0,Fadeaway Jump Shot,13,-36,131,True
+Lou Williams,4,1,58,1,Fadeaway Jump Shot,14,-96,110,True
+Lou Williams,3,9,25,0,Fadeaway Jump Shot,14,-145,28,True
+Lou Williams,2,7,45,0,Fadeaway Jump Shot,10,-92,58,True
+Lou Williams,3,8,55,0,Fadeaway Jump Shot,16,-128,105,True
+Lou Williams,2,2,45,0,Fadeaway Jump Shot,17,-95,143,True
+Lou Williams,2,1,42,0,Fadeaway Jump Shot,11,-117,-2,True
+Lou Williams,4,11,28,1,Fadeaway Jump Shot,10,-93,48,True
+Lou Williams,1,2,37,0,Fadeaway Jump Shot,22,-225,38,False
+Lou Williams,2,3,53,1,Fadeaway Jump Shot,14,-68,123,True
+Lou Williams,3,5,7,0,Fadeaway Jump Shot,20,123,169,True
+Lou Williams,1,7,55,0,Fadeaway Jump Shot,9,-97,17,True
+Lou Williams,2,5,40,0,Fadeaway Jump Shot,20,-198,31,True
+Lou Williams,3,4,49,1,Fadeaway Jump Shot,20,-186,75,True
+Lou Williams,2,4,30,0,Fadeaway Jump Shot,14,-92,112,True
+Lou Williams,3,0,37,1,Fadeaway Jump Shot,19,110,159,True
+Lou Williams,2,2,28,0,Fadeaway Jump Shot,19,96,168,True
+Lou Williams,3,5,10,0,Fadeaway Jump Shot,12,60,111,True
+Lou Williams,2,5,6,1,Fadeaway Jump Shot,23,-231,16,False
+Lou Williams,1,0,7,1,Fadeaway Jump Shot,15,-75,138,True
+Lou Williams,4,0,55,1,Fadeaway Jump Shot,10,105,4,True
+Lou Williams,4,5,34,0,Finger Roll Layup Shot,5,42,33,True
+Lou Williams,1,0,37,0,Finger Roll Layup Shot,6,30,59,True
+Lou Williams,3,2,28,0,Floating Jump shot,15,-18,158,True
+Lou Williams,1,10,12,0,Floating Jump shot,11,25,109,True
+Lou Williams,1,0,17,0,Floating Jump shot,1,3,18,True
+Lou Williams,1,4,43,0,Floating Jump shot,15,9,151,True
+Lou Williams,1,3,44,0,Floating Jump shot,12,54,108,True
+Lou Williams,1,0,59,1,Floating Jump shot,8,-24,82,True
+Lou Williams,2,2,38,0,Floating Jump shot,0,6,5,True
+Lou Williams,2,3,39,0,Floating Jump shot,7,14,73,True
+Lou Williams,4,11,48,1,Floating Jump shot,9,-1,99,True
+Lou Williams,4,9,4,1,Floating Jump shot,6,41,45,True
+Lou Williams,4,9,16,0,Floating Jump shot,8,35,72,True
+Lou Williams,4,4,11,0,Floating Jump shot,8,85,4,True
+Lou Williams,2,3,0,0,Floating Jump shot,7,-47,62,True
+Lou Williams,4,4,23,1,Floating Jump shot,11,49,105,True
+Lou Williams,3,6,32,0,Floating Jump shot,16,54,153,True
+Lou Williams,4,1,9,0,Floating Jump shot,7,66,43,True
+Lou Williams,2,5,48,0,Floating Jump shot,7,19,73,True
+Lou Williams,4,2,22,0,Floating Jump shot,7,39,66,True
+Lou Williams,2,7,53,0,Floating Jump shot,7,-17,78,True
+Lou Williams,3,4,7,1,Floating Jump shot,18,74,166,True
+Lou Williams,2,10,34,0,Floating Jump shot,8,23,80,True
+Lou Williams,2,7,25,0,Floating Jump shot,1,4,15,True
+Lou Williams,1,4,23,0,Floating Jump shot,8,18,82,True
+Lou Williams,2,9,27,1,Floating Jump shot,4,-38,22,True
+Lou Williams,1,0,4,0,Floating Jump shot,6,-51,42,True
+Lou Williams,2,0,54,1,Floating Jump shot,10,-108,-7,True
+Lou Williams,4,2,18,0,Floating Jump shot,1,-3,15,True
+Lou Williams,1,2,6,1,Floating Jump shot,11,-10,111,True
+Lou Williams,2,4,47,0,Floating Jump shot,12,7,129,True
+Lou Williams,3,1,10,0,Floating Jump shot,7,3,74,True
+Lou Williams,3,3,11,0,Floating Jump shot,10,14,102,True
+Lou Williams,2,1,9,0,Floating Jump shot,7,-67,30,True
+Lou Williams,2,11,40,0,Floating Jump shot,6,41,53,True
+Lou Williams,4,4,23,0,Floating Jump shot,6,-17,65,True
+Lou Williams,1,0,48,0,Floating Jump shot,11,100,52,True
+Lou Williams,4,9,15,0,Floating Jump shot,4,-14,46,True
+Lou Williams,3,1,0,0,Floating Jump shot,6,14,63,True
+Lou Williams,1,2,42,0,Floating Jump shot,7,8,70,True
+Lou Williams,2,11,32,0,Floating Jump shot,7,71,20,True
+Lou Williams,4,0,33,0,Floating Jump shot,8,46,66,True
+Lou Williams,2,5,38,1,Floating Jump shot,4,19,42,True
+Lou Williams,3,1,34,1,Floating Jump shot,11,-78,84,True
+Lou Williams,2,4,15,1,Floating Jump shot,10,-55,92,True
+Lou Williams,1,5,7,0,Floating Jump shot,9,78,62,True
+Lou Williams,4,11,12,0,Floating Jump shot,6,-46,51,True
+Lou Williams,4,0,29,0,Floating Jump shot,7,55,56,True
+Lou Williams,4,1,55,0,Floating Jump shot,8,-21,80,True
+Lou Williams,2,11,11,0,Floating Jump shot,8,79,41,True
+Lou Williams,1,0,30,0,Floating Jump shot,8,-48,68,True
+Lou Williams,1,8,36,0,Floating Jump shot,13,9,134,True
+Lou Williams,2,7,29,0,Floating Jump shot,14,46,136,True
+Lou Williams,2,6,57,0,Floating Jump shot,9,11,96,True
+Lou Williams,4,9,23,0,Floating Jump shot,14,-35,142,True
+Lou Williams,4,4,13,1,Floating Jump shot,6,-12,59,True
+Lou Williams,2,4,50,1,Floating Jump shot,12,-54,115,True
+Lou Williams,1,4,8,0,Floating Jump shot,13,71,112,True
+Lou Williams,2,6,29,0,Floating Jump shot,5,-3,59,True
+Lou Williams,1,4,28,0,Floating Jump shot,7,2,72,True
+Lou Williams,3,6,1,0,Floating Jump shot,3,14,27,True
+Lou Williams,4,5,41,1,Floating Jump shot,12,121,19,True
+Lou Williams,2,9,47,1,Floating Jump shot,7,-33,68,True
+Lou Williams,4,10,30,1,Floating Jump shot,7,-60,43,True
+Lou Williams,3,3,31,1,Floating Jump shot,11,44,101,True
+Lou Williams,3,3,20,1,Floating Jump shot,2,-27,6,True
+Lou Williams,1,4,54,0,Floating Jump shot,4,-28,29,True
+Lou Williams,2,1,2,0,Floating Jump shot,2,-12,27,True
+Lou Williams,2,4,15,0,Floating Jump shot,7,-20,68,True
+Lou Williams,1,5,28,0,Floating Jump shot,2,-11,17,True
+Lou Williams,1,2,47,0,Floating Jump shot,16,-75,144,True
+Lou Williams,3,3,56,1,Floating Jump shot,7,14,69,True
+Lou Williams,4,1,0,0,Floating Jump shot,6,55,25,True
+Lou Williams,1,4,56,0,Floating Jump shot,10,49,98,True
+Lou Williams,3,3,55,1,Hook Shot,10,27,106,True
+Lou Williams,1,3,16,0,Hook Shot,5,3,51,True
+Lou Williams,3,7,35,0,Jump Shot,22,49,215,True
+Lou Williams,3,1,9,1,Jump Shot,24,225,85,False
+Lou Williams,3,7,4,1,Jump Shot,28,2,285,False
+Lou Williams,3,3,59,0,Jump Shot,26,114,243,False
+Lou Williams,4,11,16,0,Jump Shot,4,-20,41,True
+Lou Williams,2,6,25,0,Jump Shot,11,87,75,True
+Lou Williams,3,0,35,1,Jump Shot,22,15,228,True
+Lou Williams,1,0,35,0,Jump Shot,27,-147,233,False
+Lou Williams,2,4,49,1,Jump Shot,27,-125,242,False
+Lou Williams,1,2,4,0,Jump Shot,23,-229,33,False
+Lou Williams,2,9,24,0,Jump Shot,11,14,115,True
+Lou Williams,4,6,53,1,Jump Shot,21,-76,199,True
+Lou Williams,2,3,56,0,Jump Shot,25,-188,167,False
+Lou Williams,4,1,43,1,Jump Shot,30,-212,220,False
+Lou Williams,4,0,40,0,Jump Shot,30,-208,217,False
+Lou Williams,4,1,14,0,Jump Shot,27,-142,231,False
+Lou Williams,1,5,8,0,Jump Shot,15,-91,127,True
+Lou Williams,4,5,5,0,Jump Shot,21,21,216,True
+Lou Williams,2,6,22,0,Jump Shot,17,-130,117,True
+Lou Williams,3,0,47,0,Jump Shot,24,84,231,False
+Lou Williams,2,11,0,0,Jump Shot,19,-196,29,True
+Lou Williams,1,2,21,0,Jump Shot,27,164,219,False
+Lou Williams,4,8,23,1,Jump Shot,26,-66,256,False
+Lou Williams,2,6,27,0,Jump Shot,22,228,-15,False
+Lou Williams,1,0,0,0,Jump Shot,28,-8,288,False
+Lou Williams,4,2,44,1,Jump Shot,25,55,244,False
+Lou Williams,3,5,49,0,Jump Shot,23,-234,44,False
+Lou Williams,2,10,19,1,Jump Shot,17,83,155,True
+Lou Williams,4,5,28,1,Jump Shot,25,-207,153,False
+Lou Williams,2,6,36,0,Jump Shot,24,230,75,False
+Lou Williams,1,3,28,0,Jump Shot,25,-79,246,False
+Lou Williams,3,0,58,0,Jump Shot,24,189,153,False
+Lou Williams,4,5,1,1,Jump Shot,27,116,247,False
+Lou Williams,2,7,3,0,Jump Shot,25,-174,193,False
+Lou Williams,3,6,4,1,Jump Shot,26,-176,196,False
+Lou Williams,2,0,8,0,Jump Shot,27,16,277,False
+Lou Williams,2,1,20,1,Jump Shot,24,-172,176,False
+Lou Williams,3,1,39,0,Jump Shot,20,-6,206,True
+Lou Williams,2,6,41,1,Jump Shot,14,-120,75,True
+Lou Williams,4,2,1,0,Jump Shot,19,-183,74,True
+Lou Williams,2,7,56,0,Jump Shot,21,-64,204,True
+Lou Williams,4,10,2,1,Jump Shot,26,-202,179,False
+Lou Williams,4,6,53,1,Jump Shot,26,87,246,False
+Lou Williams,4,7,17,0,Jump Shot,24,238,52,False
+Lou Williams,1,0,28,0,Jump Shot,23,225,56,False
+Lou Williams,1,3,51,0,Jump Shot,5,51,21,True
+Lou Williams,1,0,34,0,Jump Shot,9,-14,92,True
+Lou Williams,4,11,8,0,Jump Shot,23,232,0,False
+Lou Williams,2,1,9,0,Jump Shot,27,-154,231,False
+Lou Williams,4,7,51,1,Jump Shot,25,-67,247,False
+Lou Williams,4,5,52,0,Jump Shot,17,71,157,True
+Lou Williams,3,4,44,0,Jump Shot,22,-226,-6,False
+Lou Williams,4,4,37,1,Jump Shot,22,-226,35,False
+Lou Williams,2,1,56,0,Jump Shot,25,-170,185,False
+Lou Williams,4,11,20,0,Jump Shot,23,166,173,False
+Lou Williams,2,11,44,0,Jump Shot,25,114,223,False
+Lou Williams,3,5,20,0,Jump Shot,14,-37,140,True
+Lou Williams,2,11,5,0,Jump Shot,26,-127,236,False
+Lou Williams,3,0,9,0,Jump Shot,26,-79,255,False
+Lou Williams,2,8,2,0,Jump Shot,20,-179,99,True
+Lou Williams,4,1,3,0,Jump Shot,24,239,68,False
+Lou Williams,2,9,39,1,Jump Shot,26,-179,191,False
+Lou Williams,4,7,31,0,Jump Shot,18,83,164,True
+Lou Williams,1,1,39,0,Jump Shot,25,-115,233,False
+Lou Williams,3,2,52,1,Jump Shot,15,8,157,True
+Lou Williams,2,0,1,0,Jump Shot,25,-2,252,False
+Lou Williams,4,4,17,0,Jump Shot,28,-155,244,False
+Lou Williams,4,6,11,0,Jump Shot,28,-95,272,False
+Lou Williams,2,9,18,0,Jump Shot,25,234,109,False
+Lou Williams,4,8,41,0,Jump Shot,25,-107,226,False
+Lou Williams,2,1,23,1,Jump Shot,18,-123,138,True
+Lou Williams,2,8,21,0,Jump Shot,23,-234,53,False
+Lou Williams,2,0,43,0,Jump Shot,26,149,225,False
+Lou Williams,1,0,5,1,Jump Shot,24,22,247,False
+Lou Williams,1,4,40,1,Jump Shot,7,17,78,True
+Lou Williams,3,5,36,0,Jump Shot,28,26,281,False
+Lou Williams,1,0,31,0,Jump Shot,24,-79,229,False
+Lou Williams,2,8,46,0,Jump Shot,23,-220,82,False
+Lou Williams,4,10,49,1,Jump Shot,25,-3,256,False
+Lou Williams,1,3,13,0,Jump Shot,24,-134,200,False
+Lou Williams,3,2,39,1,Jump Shot,20,-195,71,True
+Lou Williams,2,10,8,0,Jump Shot,24,-119,218,False
+Lou Williams,2,3,5,1,Jump Shot,22,-227,-15,False
+Lou Williams,3,1,27,0,Jump Shot,27,-148,232,False
+Lou Williams,2,3,55,1,Jump Shot,25,9,257,False
+Lou Williams,2,1,19,0,Jump Shot,26,1,268,False
+Lou Williams,3,5,3,0,Jump Shot,26,-179,191,False
+Lou Williams,3,1,55,1,Jump Shot,11,-38,105,True
+Lou Williams,2,8,4,0,Jump Shot,10,-90,45,True
+Lou Williams,3,1,18,1,Jump Shot,16,6,162,True
+Lou Williams,4,0,31,1,Jump Shot,25,-175,190,False
+Lou Williams,4,9,47,1,Jump Shot,25,133,222,False
+Lou Williams,3,2,57,0,Jump Shot,20,-115,165,True
+Lou Williams,4,7,51,0,Jump Shot,26,-116,233,False
+Lou Williams,4,6,26,0,Jump Shot,24,-202,137,False
+Lou Williams,1,4,23,0,Jump Shot,22,-225,20,False
+Lou Williams,4,11,51,0,Jump Shot,25,11,254,False
+Lou Williams,4,8,3,0,Jump Shot,25,-180,185,False
+Lou Williams,2,1,0,0,Jump Shot,20,-29,199,True
+Lou Williams,4,4,22,0,Jump Shot,19,-176,84,True
+Lou Williams,2,0,5,0,Jump Shot,25,-41,256,False
+Lou Williams,4,2,19,0,Jump Shot,26,220,152,False
+Lou Williams,4,3,29,0,Jump Shot,25,-225,115,False
+Lou Williams,4,0,52,0,Jump Shot,20,-185,92,True
+Lou Williams,1,0,43,1,Jump Shot,30,-183,246,False
+Lou Williams,4,8,28,0,Jump Shot,26,29,261,False
+Lou Williams,2,7,16,1,Jump Shot,26,-163,209,False
+Lou Williams,4,1,23,0,Jump Shot,27,-31,273,False
+Lou Williams,1,4,3,1,Jump Shot,24,-241,-25,False
+Lou Williams,1,0,8,0,Jump Shot,25,-218,133,False
+Lou Williams,4,9,14,1,Jump Shot,25,121,226,False
+Lou Williams,4,10,29,1,Jump Shot,28,182,225,False
+Lou Williams,1,1,54,0,Jump Shot,24,237,43,False
+Lou Williams,3,0,23,1,Jump Shot,25,162,199,False
+Lou Williams,4,4,22,1,Jump Shot,21,-127,176,True
+Lou Williams,2,3,50,0,Jump Shot,29,207,205,False
+Lou Williams,1,3,0,1,Jump Shot,25,-178,188,False
+Lou Williams,4,0,48,1,Jump Shot,30,-125,277,False
+Lou Williams,4,8,36,0,Jump Shot,24,223,101,False
+Lou Williams,1,1,3,0,Jump Shot,23,233,42,False
+Lou Williams,4,2,15,0,Jump Shot,25,-195,160,False
+Lou Williams,3,3,3,0,Jump Shot,25,143,212,False
+Lou Williams,3,0,39,0,Jump Shot,25,-131,218,False
+Lou Williams,1,0,0,1,Jump Shot,29,-60,290,False
+Lou Williams,3,0,2,0,Jump Shot,26,-155,211,False
+Lou Williams,4,4,26,0,Jump Shot,26,-98,241,False
+Lou Williams,4,9,20,0,Jump Shot,25,90,243,False
+Lou Williams,4,6,30,0,Jump Shot,26,44,259,False
+Lou Williams,2,5,49,0,Jump Shot,28,127,255,False
+Lou Williams,2,0,11,0,Jump Shot,25,-166,192,False
+Lou Williams,1,0,4,0,Jump Shot,23,-227,62,False
+Lou Williams,4,0,32,0,Jump Shot,27,134,236,False
+Lou Williams,2,1,45,1,Jump Shot,22,-228,-1,False
+Lou Williams,3,0,53,0,Jump Shot,25,-35,256,False
+Lou Williams,3,0,2,0,Jump Shot,23,-233,19,False
+Lou Williams,4,7,11,0,Jump Shot,26,207,173,False
+Lou Williams,2,5,28,0,Jump Shot,24,179,170,False
+Lou Williams,2,0,13,0,Jump Shot,17,-6,178,True
+Lou Williams,2,11,43,1,Jump Shot,23,221,83,False
+Lou Williams,3,3,43,0,Jump Shot,5,41,42,True
+Lou Williams,3,3,21,0,Jump Shot,23,231,45,False
+Lou Williams,3,3,14,1,Jump Shot,19,-183,71,True
+Lou Williams,4,2,36,0,Jump Shot,16,59,155,True
+Lou Williams,4,7,3,0,Jump Shot,23,-231,-3,False
+Lou Williams,3,2,53,1,Jump Shot,23,-230,23,False
+Lou Williams,2,0,0,0,Jump Shot,28,54,280,False
+Lou Williams,1,2,3,0,Jump Shot,23,227,41,False
+Lou Williams,2,2,10,1,Jump Shot,22,227,36,False
+Lou Williams,2,2,36,0,Jump Shot,24,-234,86,False
+Lou Williams,2,4,20,1,Jump Shot,25,165,189,False
+Lou Williams,3,0,10,1,Jump Shot,25,-43,247,False
+Lou Williams,2,8,48,1,Jump Shot,25,-22,251,False
+Lou Williams,3,2,56,0,Jump Shot,25,1,251,False
+Lou Williams,4,11,47,1,Jump Shot,25,177,187,False
+Lou Williams,4,10,41,1,Jump Shot,18,-182,42,True
+Lou Williams,3,4,1,0,Jump Shot,20,65,194,True
+Lou Williams,1,3,10,0,Jump Shot,25,-225,121,False
+Lou Williams,3,3,34,0,Jump Shot,23,-227,45,False
+Lou Williams,2,0,41,0,Jump Shot,26,-139,223,False
+Lou Williams,4,9,57,0,Jump Shot,10,-32,99,True
+Lou Williams,4,7,35,0,Jump Shot,25,-103,234,False
+Lou Williams,3,0,7,0,Jump Shot,27,71,266,False
+Lou Williams,2,1,40,0,Jump Shot,28,-111,258,False
+Lou Williams,3,5,37,1,Jump Shot,22,223,8,False
+Lou Williams,1,0,32,0,Jump Shot,23,231,63,False
+Lou Williams,4,0,23,0,Jump Shot,26,135,230,False
+Lou Williams,3,0,1,0,Jump Shot,25,-226,107,False
+Lou Williams,2,9,39,0,Jump Shot,24,-8,248,False
+Lou Williams,4,9,54,1,Jump Shot,26,-213,162,False
+Lou Williams,2,8,26,1,Jump Shot,24,-227,82,False
+Lou Williams,2,11,45,0,Jump Shot,25,123,222,False
+Lou Williams,3,4,4,1,Jump Shot,25,48,246,False
+Lou Williams,2,3,45,0,Jump Shot,26,191,179,False
+Lou Williams,4,9,47,1,Jump Shot,28,-188,214,False
+Lou Williams,4,5,45,0,Jump Shot,26,-198,173,False
+Lou Williams,4,0,59,0,Jump Shot,25,-11,253,False
+Lou Williams,4,4,0,0,Jump Shot,25,160,193,False
+Lou Williams,2,2,46,0,Jump Shot,27,-85,258,False
+Lou Williams,2,6,50,0,Jump Shot,25,149,204,False
+Lou Williams,3,0,41,1,Jump Shot,25,-171,188,False
+Lou Williams,3,7,25,0,Jump Shot,25,-210,147,False
+Lou Williams,1,7,30,0,Jump Shot,29,-140,256,False
+Lou Williams,4,10,10,0,Jump Shot,24,20,248,False
+Lou Williams,3,4,26,1,Jump Shot,22,226,-11,False
+Lou Williams,4,3,44,1,Jump Shot,24,-232,90,False
+Lou Williams,2,3,41,0,Jump Shot,26,-184,195,False
+Lou Williams,3,11,8,0,Jump Shot,26,-207,173,False
+Lou Williams,1,10,26,0,Jump Shot,24,239,68,False
+Lou Williams,2,10,44,0,Jump Shot,24,-54,243,False
+Lou Williams,4,8,57,0,Jump Shot,29,71,284,False
+Lou Williams,3,11,45,1,Jump Shot,22,228,-1,False
+Lou Williams,4,1,26,0,Jump Shot,11,-102,50,True
+Lou Williams,3,7,1,0,Jump Shot,22,229,21,False
+Lou Williams,2,0,3,1,Jump Shot,25,-188,170,False
+Lou Williams,1,7,16,0,Jump Shot,25,54,251,False
+Lou Williams,3,0,34,0,Jump Shot,25,-171,183,False
+Lou Williams,2,3,47,0,Jump Shot,22,-168,155,True
+Lou Williams,2,0,59,1,Jump Shot,25,-174,184,False
+Lou Williams,1,11,45,1,Jump Shot,24,-123,217,False
+Lou Williams,4,6,38,0,Jump Shot,22,229,19,False
+Lou Williams,3,3,9,1,Jump Shot,24,-31,247,False
+Lou Williams,1,8,52,0,Jump Shot,23,230,7,False
+Lou Williams,4,4,35,0,Jump Shot,15,-74,141,True
+Lou Williams,3,9,12,0,Jump Shot,25,11,250,False
+Lou Williams,2,4,24,1,Jump Shot,18,-142,120,True
+Lou Williams,3,1,53,0,Jump Shot,25,-146,209,False
+Lou Williams,1,10,54,1,Jump Shot,24,-217,113,False
+Lou Williams,3,5,8,1,Jump Shot,18,-57,179,True
+Lou Williams,3,0,38,0,Jump Shot,26,-73,252,False
+Lou Williams,4,2,6,0,Jump Shot,30,8,302,False
+Lou Williams,2,2,33,1,Jump Shot,24,-218,114,False
+Lou Williams,3,7,57,1,Jump Shot,26,130,230,False
+Lou Williams,4,1,33,0,Jump Shot,25,179,175,False
+Lou Williams,1,4,59,0,Jump Shot,26,150,213,False
+Lou Williams,1,11,11,1,Jump Shot,22,-223,-21,False
+Lou Williams,2,5,2,1,Jump Shot,17,99,148,True
+Lou Williams,2,0,17,0,Jump Shot,25,-160,194,False
+Lou Williams,1,7,45,0,Jump Shot,24,-204,141,False
+Lou Williams,3,0,8,1,Jump Shot,28,-93,265,False
+Lou Williams,4,0,29,1,Jump Shot,29,162,252,False
+Lou Williams,3,3,11,1,Jump Shot,24,166,185,False
+Lou Williams,1,6,46,0,Jump Shot,6,24,61,True
+Lou Williams,2,7,6,0,Jump Shot,24,-187,162,False
+Lou Williams,4,5,0,1,Jump Shot,9,8,90,True
+Lou Williams,1,6,29,1,Jump Shot,20,-200,57,True
+Lou Williams,3,2,53,0,Jump Shot,28,62,278,False
+Lou Williams,2,3,3,1,Jump Shot,24,-44,245,False
+Lou Williams,2,8,59,1,Jump Shot,25,-131,215,False
+Lou Williams,4,8,20,0,Jump Shot,24,87,234,False
+Lou Williams,3,9,29,1,Jump Shot,25,-109,227,False
+Lou Williams,3,5,0,1,Jump Shot,24,50,240,False
+Lou Williams,4,7,36,1,Jump Shot,24,-89,231,False
+Lou Williams,2,2,53,0,Jump Shot,25,-51,252,False
+Lou Williams,2,0,43,0,Jump Shot,32,-77,319,False
+Lou Williams,4,0,16,0,Jump Shot,27,-145,239,False
+Lou Williams,4,7,57,1,Jump Shot,23,-230,43,False
+Lou Williams,3,7,11,0,Jump Shot,23,-230,32,False
+Lou Williams,2,6,30,1,Jump Shot,28,-109,268,False
+Lou Williams,4,5,33,1,Jump Shot,23,230,-16,False
+Lou Williams,4,4,11,1,Jump Shot,26,-136,227,False
+Lou Williams,3,2,26,0,Jump Shot,26,128,233,False
+Lou Williams,3,1,48,0,Jump Shot,30,147,272,False
+Lou Williams,3,5,54,0,Jump Shot,28,-204,196,False
+Lou Williams,2,11,13,0,Jump Shot,26,-150,218,False
+Lou Williams,3,1,46,0,Jump Shot,29,-179,232,False
+Lou Williams,3,2,29,1,Jump Shot,28,-121,257,False
+Lou Williams,2,5,30,0,Jump Shot,23,231,9,False
+Lou Williams,4,7,7,0,Jump Shot,27,-99,257,False
+Lou Williams,1,0,43,1,Jump Shot,24,-155,195,False
+Lou Williams,1,8,46,1,Jump Shot,24,-178,166,False
+Lou Williams,1,5,52,1,Jump Shot,25,-190,164,False
+Lou Williams,1,6,59,1,Jump Shot,24,-187,153,False
+Lou Williams,2,8,53,0,Jump Shot,29,84,287,False
+Lou Williams,4,5,21,1,Jump Shot,26,-132,230,False
+Lou Williams,4,10,28,0,Jump Shot,25,150,200,False
+Lou Williams,3,1,0,1,Jump Shot,24,67,239,False
+Lou Williams,3,4,26,0,Jump Shot,20,-190,78,True
+Lou Williams,2,8,20,0,Jump Shot,22,-225,16,False
+Lou Williams,4,2,12,0,Jump Shot,25,145,212,False
+Lou Williams,1,3,0,0,Jump Shot,25,-187,171,False
+Lou Williams,2,3,34,1,Jump Shot,23,-239,21,False
+Lou Williams,1,2,30,0,Jump Shot,28,-140,251,False
+Lou Williams,2,0,24,0,Jump Shot,26,161,206,False
+Lou Williams,1,0,39,0,Jump Shot,31,-58,310,False
+Lou Williams,4,10,18,0,Jump Shot,24,236,55,False
+Lou Williams,2,8,39,0,Jump Shot,24,-171,181,False
+Lou Williams,4,5,16,1,Jump Shot,25,-134,220,False
+Lou Williams,3,0,36,0,Jump Shot,27,-160,221,False
+Lou Williams,3,3,34,0,Jump Shot,25,-201,157,False
+Lou Williams,3,4,42,0,Jump Shot,26,122,234,False
+Lou Williams,3,5,21,1,Jump Shot,26,-226,130,False
+Lou Williams,4,2,50,0,Jump Shot,25,241,84,False
+Lou Williams,2,7,26,0,Jump Shot,23,-235,32,False
+Lou Williams,4,11,41,0,Jump Shot,27,-111,256,False
+Lou Williams,3,0,46,0,Jump Shot,28,-136,246,False
+Lou Williams,4,10,25,1,Jump Shot,23,233,15,False
+Lou Williams,2,9,56,1,Jump Shot,25,221,135,False
+Lou Williams,1,3,51,1,Jump Shot,26,-131,231,False
+Lou Williams,3,1,52,1,Jump Shot,28,154,235,False
+Lou Williams,1,2,26,0,Jump Shot,19,127,142,True
+Lou Williams,2,8,5,0,Jump Shot,27,-74,260,False
+Lou Williams,1,1,57,0,Jump Shot,17,83,156,True
+Lou Williams,4,1,0,1,Jump Shot,25,-108,235,False
+Lou Williams,4,6,12,0,Jump Shot,26,-128,232,False
+Lou Williams,3,1,17,1,Jump Shot,29,12,299,False
+Lou Williams,3,3,0,0,Jump Shot,25,-139,213,False
+Lou Williams,1,2,1,0,Jump Shot,25,-136,221,False
+Lou Williams,1,4,8,0,Jump Shot,29,-114,275,False
+Lou Williams,2,4,48,1,Jump Shot,25,-177,184,False
+Lou Williams,3,0,32,0,Jump Shot,26,68,261,False
+Lou Williams,4,8,50,1,Jump Shot,25,-163,201,False
+Lou Williams,1,2,50,1,Jump Shot,21,-149,148,True
+Lou Williams,2,2,27,0,Jump Shot,22,226,-21,False
+Lou Williams,4,10,5,0,Jump Shot,18,-182,-18,True
+Lou Williams,1,0,22,0,Jump Shot,23,-230,4,False
+Lou Williams,3,1,34,1,Jump Shot,25,-70,246,False
+Lou Williams,1,4,29,1,Jump Shot,21,-140,163,True
+Lou Williams,2,2,49,0,Jump Shot,24,-171,180,False
+Lou Williams,4,7,51,1,Jump Shot,27,116,251,False
+Lou Williams,4,8,24,1,Jump Shot,26,-188,188,False
+Lou Williams,2,6,6,1,Jump Shot,22,-227,19,False
+Lou Williams,1,2,0,0,Jump Shot,17,-98,142,True
+Lou Williams,1,6,27,0,Jump Shot,26,-172,199,False
+Lou Williams,3,1,9,1,Jump Shot,25,-159,202,False
+Lou Williams,4,1,35,1,Jump Shot,26,-207,165,False
+Lou Williams,4,9,1,1,Jump Shot,25,-210,146,False
+Lou Williams,4,9,37,0,Jump Shot,26,-219,151,False
+Lou Williams,3,0,18,0,Jump Shot,24,-176,177,False
+Lou Williams,4,4,35,1,Jump Shot,26,-108,241,False
+Lou Williams,2,7,13,0,Jump Shot,25,138,218,False
+Lou Williams,4,5,4,0,Jump Shot,7,77,5,True
+Lou Williams,2,6,53,1,Jump Shot,18,-111,153,True
+Lou Williams,2,11,1,0,Jump Shot,26,-193,181,False
+Lou Williams,2,4,54,0,Jump Shot,25,-221,127,False
+Lou Williams,2,0,5,0,Jump Shot,25,-117,228,False
+Lou Williams,1,5,49,0,Jump Shot,15,62,146,True
+Lou Williams,3,8,19,0,Jump Shot,23,-226,72,False
+Lou Williams,3,0,57,0,Jump Shot,28,144,248,False
+Lou Williams,1,1,56,0,Jump Shot,25,152,207,False
+Lou Williams,4,5,34,0,Jump Shot,21,133,167,True
+Lou Williams,2,2,30,0,Jump Shot,13,-138,23,True
+Lou Williams,4,1,50,1,Jump Shot,25,-203,150,False
+Lou Williams,1,10,52,0,Jump Shot,26,-176,202,False
+Lou Williams,2,6,36,1,Jump Shot,25,-110,233,False
+Lou Williams,3,0,0,0,Jump Shot,26,-184,194,False
+Lou Williams,2,4,32,0,Jump Shot,25,227,110,False
+Lou Williams,4,4,38,1,Jump Shot,26,-112,235,False
+Lou Williams,2,5,53,1,Jump Shot,25,116,227,False
+Lou Williams,2,2,33,0,Jump Shot,22,-229,16,False
+Lou Williams,4,7,1,1,Jump Shot,20,51,200,True
+Lou Williams,1,5,9,0,Jump Shot,26,-93,247,False
+Lou Williams,3,6,9,1,Jump Shot,25,242,75,False
+Lou Williams,2,0,47,1,Jump Shot,26,133,227,False
+Lou Williams,3,0,48,0,Jump Shot,30,-128,281,False
+Lou Williams,4,11,26,0,Jump Shot,24,-237,55,False
+Lou Williams,1,3,33,1,Jump Shot,26,84,250,False
+Lou Williams,4,6,34,0,Jump Shot,27,-92,254,False
+Lou Williams,2,10,18,0,Jump Shot,17,168,34,True
+Lou Williams,3,0,31,1,Jump Shot,26,-215,147,False
+Lou Williams,1,3,11,1,Jump Shot,24,-76,235,False
+Lou Williams,3,1,40,1,Jump Shot,27,176,209,False
+Lou Williams,4,11,51,0,Jump Shot,27,79,260,False
+Lou Williams,4,4,3,0,Jump Shot,25,-210,137,False
+Lou Williams,3,0,37,0,Jump Shot,24,-97,221,False
+Lou Williams,1,4,55,0,Jump Shot,23,231,-14,False
+Lou Williams,4,5,43,0,Jump Shot,22,-223,45,False
+Lou Williams,4,2,4,0,Jump Shot,6,4,61,True
+Lou Williams,2,1,0,1,Jump Shot,29,-109,272,False
+Lou Williams,4,11,21,0,Jump Shot,25,202,151,False
+Lou Williams,3,2,5,0,Jump Shot,23,-232,26,False
+Lou Williams,2,0,31,0,Jump Shot,27,-107,257,False
+Lou Williams,2,3,54,0,Jump Shot,21,-130,177,True
+Lou Williams,3,3,23,1,Jump Shot,25,107,233,False
+Lou Williams,2,7,50,0,Jump Shot,23,-230,1,False
+Lou Williams,3,2,49,1,Jump Shot,19,-190,11,True
+Lou Williams,3,11,25,0,Jump Shot,18,188,25,True
+Lou Williams,2,7,9,0,Jump Shot,22,228,5,False
+Lou Williams,1,3,34,0,Jump Shot,4,22,38,True
+Lou Williams,3,0,3,0,Jump Shot,27,-80,267,False
+Lou Williams,3,7,26,1,Jump Shot,25,-182,176,False
+Lou Williams,4,4,41,1,Jump Shot,25,-129,220,False
+Lou Williams,2,0,36,0,Jump Shot,23,-230,52,False
+Lou Williams,4,2,38,0,Jump Shot,20,35,207,True
+Lou Williams,3,9,16,0,Jump Shot,26,-166,206,False
+Lou Williams,3,9,59,1,Jump Shot,23,-146,190,False
+Lou Williams,4,0,33,0,Jump Shot,24,-169,179,False
+Lou Williams,3,11,2,1,Jump Shot,25,-70,246,False
+Lou Williams,3,10,29,1,Jump Shot,23,-230,3,False
+Lou Williams,1,0,10,0,Jump Shot,26,-17,263,False
+Lou Williams,2,11,27,0,Jump Shot,24,168,183,False
+Lou Williams,4,3,52,1,Jump Shot,25,-136,211,False
+Lou Williams,3,6,50,0,Jump Shot,22,-228,30,False
+Lou Williams,2,2,53,1,Jump Shot,25,6,254,False
+Lou Williams,1,11,2,1,Jump Shot,23,231,-3,False
+Lou Williams,2,1,49,0,Jump Shot,26,133,231,False
+Lou Williams,3,1,14,0,Jump Shot,25,-115,231,False
+Lou Williams,1,0,49,0,Jump Shot,20,-112,174,True
+Lou Williams,2,8,55,1,Jump Shot,25,210,137,False
+Lou Williams,2,0,57,0,Jump Shot,22,225,32,False
+Lou Williams,2,11,22,1,Jump Shot,26,-89,246,False
+Lou Williams,4,0,49,1,Jump Shot,18,-40,183,True
+Lou Williams,4,7,8,0,Jump Shot,26,59,254,False
+Lou Williams,4,1,54,0,Jump Shot,10,92,50,True
+Lou Williams,2,10,46,1,Jump Shot,19,-85,178,True
+Lou Williams,4,8,30,1,Jump Shot,25,68,244,False
+Lou Williams,4,5,15,1,Jump Shot,24,-225,104,False
+Lou Williams,2,8,15,1,Jump Shot,15,-124,101,True
+Lou Williams,3,3,35,0,Jump Shot,9,-11,97,True
+Lou Williams,3,2,31,0,Jump Shot,26,-109,241,False
+Lou Williams,2,8,52,0,Jump Shot,15,122,90,True
+Lou Williams,4,5,0,0,Jump Shot,28,-133,248,False
+Lou Williams,2,0,15,0,Jump Shot,25,-143,208,False
+Lou Williams,5,2,10,0,Jump Shot,29,-139,258,False
+Lou Williams,2,6,33,0,Jump Shot,15,-154,-11,True
+Lou Williams,5,0,20,0,Jump Shot,26,52,262,False
+Lou Williams,4,8,1,1,Jump Shot,25,-120,226,False
+Lou Williams,1,0,3,0,Jump Shot,25,-114,228,False
+Lou Williams,4,0,23,0,Jump Shot,26,-118,234,False
+Lou Williams,2,11,12,0,Jump Shot,10,-67,80,True
+Lou Williams,1,0,34,1,Jump Shot,25,141,217,False
+Lou Williams,4,3,3,1,Jump Shot,24,-188,159,False
+Lou Williams,1,0,39,0,Jump Shot,23,230,-1,False
+Lou Williams,2,10,14,0,Jump Shot,22,-220,20,False
+Lou Williams,4,5,37,1,Jump Shot,25,-161,193,False
+Lou Williams,4,7,48,0,Jump Shot,27,-224,153,False
+Lou Williams,4,5,4,0,Jump Shot,7,-35,64,True
+Lou Williams,3,0,4,0,Jump Shot,26,140,227,False
+Lou Williams,2,9,4,0,Jump Shot,11,29,114,True
+Lou Williams,1,0,0,0,Jump Shot,29,-212,208,False
+Lou Williams,4,0,48,0,Jump Shot,17,-174,5,True
+Lou Williams,4,1,10,1,Jump Shot,17,-79,151,True
+Lou Williams,1,1,44,0,Jump Shot,23,-231,21,False
+Lou Williams,3,5,35,0,Jump Shot,17,-152,78,True
+Lou Williams,2,3,21,1,Jump Shot,10,73,72,True
+Lou Williams,2,11,27,1,Jump Shot,28,-84,274,False
+Lou Williams,4,4,1,0,Jump Shot,25,195,167,False
+Lou Williams,3,7,37,0,Jump Shot,7,-78,-12,True
+Lou Williams,4,7,38,1,Jump Shot,25,-102,230,False
+Lou Williams,4,8,30,1,Jump Shot,26,-202,176,False
+Lou Williams,2,5,6,0,Jump Shot,25,150,200,False
+Lou Williams,4,4,18,0,Jump Shot,23,-235,44,False
+Lou Williams,3,1,0,0,Jump Shot,23,-232,6,False
+Lou Williams,4,3,31,0,Jump Shot,25,-110,230,False
+Lou Williams,4,3,19,0,Jump Shot,28,-112,262,False
+Lou Williams,4,5,27,0,Jump Shot,24,116,216,False
+Lou Williams,4,0,27,0,Jump Shot,31,-201,244,False
+Lou Williams,3,3,9,1,Jump Shot,26,143,226,False
+Lou Williams,3,2,37,0,Jump Shot,22,-226,21,False
+Lou Williams,4,5,43,0,Jump Shot,22,221,-20,False
+Lou Williams,4,11,48,1,Jump Shot,25,-218,128,False
+Lou Williams,2,7,40,0,Jump Shot,24,239,32,False
+Lou Williams,2,10,15,1,Jump Shot,25,35,252,False
+Lou Williams,3,1,51,0,Jump Shot,15,-155,13,True
+Lou Williams,2,7,21,1,Jump Shot,16,-106,131,True
+Lou Williams,4,8,10,0,Jump Shot,25,130,216,False
+Lou Williams,2,10,23,1,Jump Shot,24,-169,180,False
+Lou Williams,2,7,24,0,Jump Shot,22,-228,-12,False
+Lou Williams,2,9,26,0,Jump Shot,22,-222,-6,False
+Lou Williams,4,11,33,0,Jump Shot,26,-22,265,False
+Lou Williams,3,1,23,0,Jump Shot,7,29,67,True
+Lou Williams,1,4,1,1,Jump Shot,23,-232,10,False
+Lou Williams,3,2,25,1,Jump Shot,25,-168,193,False
+Lou Williams,4,10,35,0,Jump Shot,25,-176,182,False
+Lou Williams,1,0,27,1,Jump Shot,19,-110,158,True
+Lou Williams,2,8,35,0,Jump Shot,23,-231,21,False
+Lou Williams,4,9,25,0,Jump Shot,30,-2,309,False
+Lou Williams,1,1,1,1,Jump Shot,23,233,15,False
+Lou Williams,4,4,44,0,Jump Shot,19,-194,43,True
+Lou Williams,2,1,1,0,Jump Shot,23,228,44,False
+Lou Williams,2,9,50,0,Jump Shot,24,-223,110,False
+Lou Williams,2,10,23,0,Jump Shot,13,57,127,True
+Lou Williams,1,2,30,0,Jump Shot,24,-218,113,False
+Lou Williams,4,10,6,0,Jump Shot,23,-230,0,False
+Lou Williams,2,7,25,0,Jump Shot,23,-226,77,False
+Lou Williams,4,1,28,0,Jump Shot,26,-127,230,False
+Lou Williams,4,6,45,0,Jump Shot,26,16,268,False
+Lou Williams,4,7,44,1,Jump Shot,23,-239,-6,False
+Lou Williams,3,5,12,1,Jump Shot,27,-41,272,False
+Lou Williams,4,6,38,0,Jump Shot,26,-178,190,False
+Lou Williams,4,3,25,0,Jump Shot,27,-163,218,False
+Lou Williams,2,11,17,0,Jump Shot,23,-231,16,False
+Lou Williams,1,2,55,1,Jump Shot,24,204,131,False
+Lou Williams,2,9,6,0,Jump Shot,25,101,232,False
+Lou Williams,1,5,41,0,Jump Shot,26,-36,258,False
+Lou Williams,4,10,33,1,Jump Shot,12,53,111,True
+Lou Williams,4,10,20,1,Jump Shot,26,-139,225,False
+Lou Williams,3,4,49,0,Jump Shot,25,-185,176,False
+Lou Williams,1,0,1,0,Jump Shot,25,-150,209,False
+Lou Williams,3,3,54,1,Jump Shot,23,-230,13,False
+Lou Williams,4,5,22,0,Jump Shot,25,-202,149,False
+Lou Williams,2,11,1,0,Layup Shot,8,65,50,True
+Lou Williams,2,1,10,0,Layup Shot,1,2,17,True
+Lou Williams,3,4,16,0,Layup Shot,1,-13,11,True
+Lou Williams,1,0,4,0,Layup Shot,2,16,13,True
+Lou Williams,3,5,43,0,Layup Shot,0,2,-4,True
+Lou Williams,3,5,20,0,Layup Shot,2,-2,22,True
+Lou Williams,4,9,49,0,Layup Shot,1,6,15,True
+Lou Williams,3,0,3,0,Layup Shot,3,7,31,True
+Lou Williams,4,9,51,0,Layup Shot,1,14,8,True
+Lou Williams,1,2,31,0,Layup Shot,1,14,0,True
+Lou Williams,4,4,35,1,Layup Shot,0,3,1,True
+Lou Williams,4,7,26,1,Layup Shot,3,28,14,True
+Lou Williams,2,4,5,0,Layup Shot,3,-19,25,True
+Lou Williams,4,7,2,1,Layup Shot,1,2,11,True
+Lou Williams,4,9,50,1,Layup Shot,1,10,5,True
+Lou Williams,3,5,49,0,Layup Shot,2,-26,11,True
+Lou Williams,2,4,29,0,Layup Shot,5,47,30,True
+Lou Williams,3,4,59,0,Layup Shot,1,6,16,True
+Lou Williams,3,2,12,0,Layup Shot,1,3,17,True
+Lou Williams,4,6,54,0,Layup Shot,9,51,78,True
+Lou Williams,3,1,58,1,Layup Shot,2,5,20,True
+Lou Williams,4,3,37,0,Layup Shot,1,12,9,True
+Lou Williams,3,2,53,0,Layup Shot,4,-9,42,True
+Lou Williams,2,0,56,1,Layup Shot,1,8,8,True
+Lou Williams,2,10,3,0,Layup Shot,0,-1,-6,True
+Lou Williams,3,3,45,1,Layup Shot,5,-35,42,True
+Lou Williams,2,7,41,0,Layup Shot,3,33,22,True
+Lou Williams,4,3,14,0,Layup Shot,2,-3,22,True
+Lou Williams,3,2,52,0,Layup Shot,2,-11,19,True
+Lou Williams,2,1,42,0,Layup Shot,2,19,20,True
+Lou Williams,2,0,46,0,Layup Shot,1,2,10,True
+Lou Williams,2,1,48,1,Layup Shot,0,6,4,True
+Lou Williams,2,9,32,0,Layup Shot,4,-19,46,True
+Lou Williams,2,8,30,1,Layup Shot,2,24,10,True
+Lou Williams,2,0,21,1,Layup Shot,1,0,15,True
+Lou Williams,2,1,50,0,Layup Shot,1,-2,15,True
+Lou Williams,4,3,25,1,Layup Shot,1,-13,9,True
+Lou Williams,2,8,54,0,Layup Shot,4,30,28,True
+Lou Williams,2,10,10,0,Layup Shot,1,4,13,True
+Lou Williams,3,1,59,1,Layup Shot,2,4,27,True
+Lou Williams,3,7,12,0,Layup Shot,3,13,31,True
+Lou Williams,1,11,20,0,Layup Shot,2,13,17,True
+Lou Williams,2,4,24,1,Layup Shot,2,17,15,True
+Lou Williams,2,2,49,1,Layup Shot,1,-2,19,True
+Lou Williams,2,2,13,0,Layup Shot,2,22,19,True
+Lou Williams,2,5,4,0,Layup Shot,4,39,13,True
+Lou Williams,1,0,40,0,Layup Shot,5,44,26,True
+Lou Williams,2,1,13,1,Pullup Jump shot,16,-6,162,True
+Lou Williams,3,4,40,0,Pullup Jump shot,26,-85,247,False
+Lou Williams,1,6,18,1,Pullup Jump shot,25,-134,220,False
+Lou Williams,1,1,5,0,Pullup Jump shot,15,150,-5,True
+Lou Williams,1,5,10,1,Pullup Jump shot,20,-127,157,True
+Lou Williams,2,6,11,0,Pullup Jump shot,14,-16,141,True
+Lou Williams,2,1,23,1,Pullup Jump shot,13,46,125,True
+Lou Williams,3,0,5,0,Pullup Jump shot,19,-24,190,True
+Lou Williams,4,11,18,1,Pullup Jump shot,19,-95,166,True
+Lou Williams,4,5,17,1,Pullup Jump shot,26,-182,188,False
+Lou Williams,2,9,36,1,Pullup Jump shot,13,-5,130,True
+Lou Williams,1,2,54,1,Pullup Jump shot,15,-150,22,True
+Lou Williams,3,2,8,0,Pullup Jump shot,9,82,48,True
+Lou Williams,4,0,50,1,Pullup Jump shot,18,-82,167,True
+Lou Williams,3,3,58,0,Pullup Jump shot,10,-78,68,True
+Lou Williams,3,10,42,0,Pullup Jump shot,20,14,200,True
+Lou Williams,2,6,18,1,Pullup Jump shot,9,-95,26,True
+Lou Williams,1,0,15,1,Pullup Jump shot,24,-145,201,False
+Lou Williams,4,10,35,0,Pullup Jump shot,24,-163,183,False
+Lou Williams,1,6,17,1,Pullup Jump shot,25,-141,210,False
+Lou Williams,2,6,56,0,Pullup Jump shot,11,-100,55,True
+Lou Williams,2,4,27,0,Pullup Jump shot,17,65,159,True
+Lou Williams,1,4,56,1,Pullup Jump shot,18,-37,185,True
+Lou Williams,2,7,18,1,Pullup Jump shot,15,-11,151,True
+Lou Williams,3,0,45,1,Pullup Jump shot,21,-67,206,True
+Lou Williams,4,11,51,1,Pullup Jump shot,21,-60,204,True
+Lou Williams,1,2,0,1,Pullup Jump shot,16,-7,167,True
+Lou Williams,3,4,54,1,Pullup Jump shot,25,34,251,False
+Lou Williams,3,1,28,0,Pullup Jump shot,16,85,136,True
+Lou Williams,2,5,35,1,Pullup Jump shot,14,-145,-3,True
+Lou Williams,4,7,43,1,Pullup Jump shot,19,-24,191,True
+Lou Williams,2,10,15,1,Pullup Jump shot,16,-111,127,True
+Lou Williams,1,2,59,1,Pullup Jump shot,10,66,82,True
+Lou Williams,4,10,42,1,Pullup Jump shot,17,-91,148,True
+Lou Williams,4,0,45,0,Pullup Jump shot,26,51,258,False
+Lou Williams,3,4,28,0,Pullup Jump shot,25,40,249,False
+Lou Williams,1,6,33,0,Pullup Jump shot,20,62,200,True
+Lou Williams,3,2,1,0,Pullup Jump shot,8,-35,72,True
+Lou Williams,3,0,5,0,Pullup Jump shot,29,-67,285,False
+Lou Williams,3,0,31,0,Pullup Jump shot,25,-89,236,False
+Lou Williams,1,1,14,0,Pullup Jump shot,18,-82,170,True
+Lou Williams,1,8,18,1,Pullup Jump shot,27,-76,264,False
+Lou Williams,3,0,6,0,Pullup Jump shot,24,-100,227,False
+Lou Williams,1,1,11,0,Pullup Jump shot,19,-199,16,True
+Lou Williams,1,2,6,0,Pullup Jump shot,25,-135,214,False
+Lou Williams,2,11,49,0,Pullup Jump shot,17,-87,157,True
+Lou Williams,2,7,48,1,Pullup Jump shot,8,83,25,True
+Lou Williams,1,4,13,0,Pullup Jump shot,17,-142,110,True
+Lou Williams,4,10,16,0,Pullup Jump shot,17,-35,173,True
+Lou Williams,4,9,10,1,Pullup Jump shot,25,-84,244,False
+Lou Williams,3,0,29,0,Pullup Jump shot,27,-87,259,False
+Lou Williams,4,10,23,1,Pullup Jump shot,17,-100,149,True
+Lou Williams,4,8,15,1,Pullup Jump shot,16,-143,79,True
+Lou Williams,3,0,56,0,Pullup Jump shot,25,-168,197,False
+Lou Williams,2,5,33,0,Pullup Jump shot,24,-147,194,False
+Lou Williams,4,8,7,0,Pullup Jump shot,25,-217,142,False
+Lou Williams,2,10,38,0,Pullup Jump shot,26,-128,232,False
+Lou Williams,4,0,56,0,Pullup Jump shot,21,-204,59,True
+Lou Williams,4,10,4,1,Pullup Jump shot,25,-27,258,False
+Lou Williams,3,0,26,0,Pullup Jump shot,26,-204,169,False
+Lou Williams,2,9,53,0,Pullup Jump shot,25,-179,184,False
+Lou Williams,2,2,31,0,Pullup Jump shot,16,-59,151,True
+Lou Williams,4,9,51,1,Pullup Jump shot,7,48,55,True
+Lou Williams,2,8,49,1,Pullup Jump shot,25,-10,255,False
+Lou Williams,4,7,46,0,Pullup Jump shot,15,-150,-9,True
+Lou Williams,3,1,20,0,Pullup Jump shot,17,94,147,True
+Lou Williams,4,3,53,0,Pullup Jump shot,21,35,211,True
+Lou Williams,1,3,29,0,Pullup Jump shot,18,-139,128,True
+Lou Williams,3,0,49,1,Pullup Jump shot,16,-1,162,True
+Lou Williams,4,7,0,1,Pullup Jump shot,25,106,235,False
+Lou Williams,2,0,40,0,Pullup Jump shot,16,-134,99,True
+Lou Williams,4,0,12,0,Pullup Jump shot,25,-174,183,False
+Lou Williams,4,3,5,0,Pullup Jump shot,11,19,114,True
+Lou Williams,2,10,11,1,Pullup Jump shot,22,-224,13,False
+Lou Williams,4,8,44,0,Pullup Jump shot,24,-161,189,False
+Lou Williams,4,7,14,0,Pullup Jump shot,24,-145,201,False
+Lou Williams,2,5,3,0,Pullup Jump shot,16,52,160,True
+Lou Williams,2,7,0,0,Pullup Jump shot,24,-228,96,False
+Lou Williams,4,2,36,1,Pullup Jump shot,28,-130,256,False
+Lou Williams,2,6,37,0,Pullup Jump shot,27,150,225,False
+Lou Williams,2,1,44,1,Pullup Jump shot,6,60,33,True
+Lou Williams,2,7,9,0,Pullup Jump shot,24,-151,195,False
+Lou Williams,3,0,8,0,Pullup Jump shot,27,98,261,False
+Lou Williams,3,4,29,1,Pullup Jump shot,19,-56,188,True
+Lou Williams,3,2,52,0,Pullup Jump shot,22,60,221,True
+Lou Williams,4,5,45,0,Pullup Jump shot,20,-37,204,True
+Lou Williams,3,2,6,1,Pullup Jump shot,24,-21,243,False
+Lou Williams,1,0,17,1,Pullup Jump shot,25,-109,235,False
+Lou Williams,2,7,51,1,Pullup Jump shot,18,127,137,True
+Lou Williams,3,5,39,1,Pullup Jump shot,16,-71,153,True
+Lou Williams,2,4,4,0,Pullup Jump shot,15,-73,141,True
+Lou Williams,1,0,15,1,Pullup Jump shot,24,-93,226,False
+Lou Williams,4,10,11,1,Pullup Jump shot,26,-174,201,False
+Lou Williams,3,1,31,1,Pullup Jump shot,21,-188,104,True
+Lou Williams,4,6,17,1,Pullup Jump shot,18,-126,130,True
+Lou Williams,1,9,10,1,Pullup Jump shot,26,-166,205,False
+Lou Williams,4,6,40,0,Pullup Jump shot,24,228,75,False
+Lou Williams,3,7,54,0,Pullup Jump shot,15,-152,31,True
+Lou Williams,1,0,40,0,Pullup Jump shot,17,-67,167,True
+Lou Williams,4,2,10,1,Pullup Jump shot,13,-90,107,True
+Lou Williams,1,3,24,0,Pullup Jump shot,17,78,152,True
+Lou Williams,4,4,35,0,Pullup Jump shot,26,-5,260,False
+Lou Williams,4,8,53,0,Pullup Jump shot,27,-163,220,False
+Lou Williams,1,1,43,0,Pullup Jump shot,17,22,173,True
+Lou Williams,2,7,16,0,Pullup Jump shot,19,-101,168,True
+Lou Williams,3,3,35,1,Pullup Jump shot,12,-100,79,True
+Lou Williams,4,11,10,1,Pullup Jump shot,19,-126,146,True
+Lou Williams,4,8,38,1,Pullup Jump shot,24,-182,170,False
+Lou Williams,2,9,13,1,Pullup Jump shot,15,-67,138,True
+Lou Williams,3,4,54,1,Pullup Jump shot,16,110,126,True
+Lou Williams,4,2,35,0,Pullup Jump shot,24,-40,241,False
+Lou Williams,4,0,1,1,Pullup Jump shot,28,58,281,False
+Lou Williams,4,3,25,1,Pullup Jump shot,14,-6,142,True
+Lou Williams,1,7,23,1,Pullup Jump shot,12,55,116,True
+Lou Williams,4,2,14,0,Pullup Jump shot,17,-92,147,True
+Lou Williams,3,6,4,0,Pullup Jump shot,14,52,131,True
+Lou Williams,2,0,9,0,Pullup Jump shot,14,-61,132,True
+Lou Williams,2,8,42,0,Pullup Jump shot,16,-101,136,True
+Lou Williams,2,6,4,0,Pullup Jump shot,18,70,176,True
+Lou Williams,4,8,35,1,Pullup Jump shot,24,-30,245,False
+Lou Williams,2,7,57,1,Pullup Jump shot,21,-29,208,True
+Lou Williams,4,9,0,1,Pullup Jump shot,22,-147,167,True
+Lou Williams,1,10,17,0,Pullup Jump shot,15,-154,24,True
+Lou Williams,3,6,4,0,Pullup Jump shot,21,-180,112,True
+Lou Williams,4,3,40,1,Pullup Jump shot,13,-128,29,True
+Lou Williams,4,0,54,0,Pullup Jump shot,18,-81,167,True
+Lou Williams,4,4,30,1,Pullup Jump shot,17,9,175,True
+Lou Williams,3,2,2,0,Pullup Jump shot,17,-98,150,True
+Lou Williams,3,6,19,0,Pullup Jump shot,18,185,28,True
+Lou Williams,4,10,49,0,Pullup Jump shot,16,-23,165,True
+Lou Williams,2,0,37,0,Pullup Jump shot,24,-152,195,False
+Lou Williams,1,6,28,0,Pullup Jump shot,7,10,76,True
+Lou Williams,1,5,43,0,Pullup Jump shot,15,2,159,True
+Lou Williams,1,4,20,0,Pullup Jump shot,14,-12,148,True
+Lou Williams,2,6,39,1,Putback Layup Shot,0,-3,3,True
+Lou Williams,2,1,1,1,Putback Layup Shot,0,0,-6,True
+Lou Williams,3,5,51,0,Reverse Layup Shot,1,15,6,True
+Lou Williams,2,5,39,1,Reverse Layup Shot,1,-5,19,True
+Lou Williams,2,6,6,1,Running Dunk Shot,0,-4,4,True
+Lou Williams,3,0,2,1,Running Dunk Shot,1,-9,14,True
+Lou Williams,2,10,45,1,Running Dunk Shot,1,7,9,True
+Lou Williams,2,8,54,1,Running Dunk Shot,0,2,9,True
+Lou Williams,4,0,12,1,Running Finger Roll Layup Shot,1,-6,17,True
+Lou Williams,3,0,29,1,Running Finger Roll Layup Shot,2,-6,20,True
+Lou Williams,4,9,51,1,Running Finger Roll Layup Shot,2,-1,23,True
+Lou Williams,1,4,52,1,Running Finger Roll Layup Shot,3,-5,33,True
+Lou Williams,4,9,8,1,Running Finger Roll Layup Shot,1,0,15,True
+Lou Williams,4,6,41,1,Running Finger Roll Layup Shot,1,18,3,True
+Lou Williams,3,0,30,0,Running Finger Roll Layup Shot,3,13,28,True
+Lou Williams,2,5,39,1,Running Finger Roll Layup Shot,1,-3,12,True
+Lou Williams,3,0,31,0,Running Jump Shot,26,-38,266,False
+Lou Williams,3,0,0,1,Running Jump Shot,11,10,111,True
+Lou Williams,1,0,1,0,Running Jump Shot,48,110,471,False
+Lou Williams,4,5,1,0,Running Jump Shot,12,-82,88,True
+Lou Williams,3,0,1,0,Running Jump Shot,46,-87,457,False
+Lou Williams,4,0,44,1,Running Jump Shot,11,95,63,True
+Lou Williams,4,0,0,0,Running Jump Shot,52,-68,518,False
+Lou Williams,4,1,41,0,Running Jump Shot,33,-212,254,False
+Lou Williams,3,4,15,1,Running Jump Shot,24,-241,18,False
+Lou Williams,4,9,45,0,Running Jump Shot,23,238,21,False
+Lou Williams,2,8,12,1,Running Jump Shot,10,-57,89,True
+Lou Williams,1,3,53,1,Running Jump Shot,3,-3,33,True
+Lou Williams,2,0,36,0,Running Jump Shot,26,-231,128,False
+Lou Williams,3,10,31,1,Running Jump Shot,5,-11,50,True
+Lou Williams,1,3,1,0,Running Jump Shot,2,14,17,True
+Lou Williams,3,1,53,1,Running Jump Shot,13,127,55,True
+Lou Williams,2,8,7,0,Running Jump Shot,4,2,46,True
+Lou Williams,2,7,51,0,Running Jump Shot,25,-138,218,False
+Lou Williams,4,4,10,0,Running Layup Shot,0,0,-1,True
+Lou Williams,1,3,59,0,Running Layup Shot,3,0,39,True
+Lou Williams,4,8,5,1,Running Layup Shot,1,16,9,True
+Lou Williams,3,2,52,1,Running Layup Shot,0,5,8,True
+Lou Williams,3,3,29,1,Running Layup Shot,0,6,-4,True
+Lou Williams,3,7,38,1,Running Layup Shot,1,2,15,True
+Lou Williams,2,2,57,0,Running Layup Shot,1,-10,0,True
+Lou Williams,4,3,16,1,Running Layup Shot,2,-16,17,True
+Lou Williams,4,5,45,1,Running Layup Shot,0,9,4,True
+Lou Williams,2,9,28,1,Running Layup Shot,2,13,24,True
+Lou Williams,2,11,9,1,Running Layup Shot,1,-5,12,True
+Lou Williams,1,4,15,1,Running Layup Shot,1,6,16,True
+Lou Williams,4,9,2,1,Running Layup Shot,0,4,6,True
+Lou Williams,1,6,57,0,Running Layup Shot,1,-13,4,True
+Lou Williams,2,4,9,1,Running Layup Shot,2,-25,0,True
+Lou Williams,3,4,17,1,Running Layup Shot,1,11,4,True
+Lou Williams,4,4,32,0,Running Layup Shot,1,15,10,True
+Lou Williams,2,8,5,1,Running Layup Shot,1,-13,12,True
+Lou Williams,1,5,15,0,Running Layup Shot,7,25,70,True
+Lou Williams,4,7,58,1,Running Layup Shot,1,-3,18,True
+Lou Williams,1,1,32,1,Running Layup Shot,0,-4,1,True
+Lou Williams,4,7,35,0,Running Pull-Up Jump Shot,16,34,162,True
+Lou Williams,3,2,24,1,Running Pull-Up Jump Shot,16,-54,161,True
+Lou Williams,3,1,52,0,Running Pull-Up Jump Shot,25,-93,241,False
+Lou Williams,3,5,23,1,Running Pull-Up Jump Shot,24,124,215,False
+Lou Williams,1,2,34,0,Running Pull-Up Jump Shot,27,148,235,False
+Lou Williams,1,0,0,1,Running Pull-Up Jump Shot,46,185,428,False
+Lou Williams,4,8,12,1,Running Pull-Up Jump Shot,6,64,12,True
+Lou Williams,4,4,44,0,Running Pull-Up Jump Shot,24,177,174,False
+Lou Williams,4,6,25,1,Running Pull-Up Jump Shot,24,-109,219,False
+Lou Williams,4,3,21,0,Step Back Jump shot,31,-199,249,False
+Lou Williams,2,1,12,0,Step Back Jump shot,23,-230,16,False
+Lou Williams,1,9,53,1,Step Back Jump shot,16,-157,43,True
+Lou Williams,4,8,17,0,Step Back Jump shot,27,-121,244,False
+Lou Williams,2,10,4,0,Step Back Jump shot,26,-67,261,False
+Lou Williams,2,10,49,0,Step Back Jump shot,23,-230,-16,False
+Lou Williams,3,0,56,0,Step Back Jump shot,17,-87,155,True
+Lou Williams,3,0,29,0,Step Back Jump shot,26,-17,269,False
+Lou Williams,3,0,56,1,Step Back Jump shot,20,179,105,True
+Lou Williams,1,4,19,0,Step Back Jump shot,24,134,206,False
+Lou Williams,1,3,20,0,Step Back Jump shot,19,-179,89,True
+Lou Williams,3,1,29,0,Step Back Jump shot,14,-130,67,True
+Lou Williams,4,9,36,0,Step Back Jump shot,31,158,267,False
+Lou Williams,3,8,29,0,Step Back Jump shot,15,-5,152,True
+Lou Williams,2,0,42,1,Step Back Jump shot,15,28,152,True
+Lou Williams,4,1,43,0,Step Back Jump shot,25,6,259,False
+Lou Williams,3,9,16,0,Step Back Jump shot,25,53,252,False
+Lou Williams,4,11,25,1,Step Back Jump shot,14,-138,42,True
+Lou Williams,2,4,37,0,Step Back Jump shot,17,-171,53,True
+Lou Williams,2,5,42,0,Step Back Jump shot,26,119,235,False
+Lou Williams,2,9,18,0,Step Back Jump shot,16,-53,153,True
+Lou Williams,4,10,59,0,Step Back Jump shot,22,-226,10,False
+Lou Williams,3,8,20,0,Step Back Jump shot,22,-228,-2,False
+Lou Williams,4,3,22,1,Step Back Jump shot,15,141,56,True
+Lou Williams,2,3,34,0,Step Back Jump shot,14,-143,-2,True
+Lou Williams,2,6,32,1,Step Back Jump shot,13,-138,-3,True
+Lou Williams,3,5,53,1,Step Back Jump shot,24,-40,243,False
+Lou Williams,4,7,53,1,Step Back Jump shot,18,-76,170,True
+Lou Williams,4,1,30,1,Step Back Jump shot,21,194,102,True
+Lou Williams,2,0,7,0,Step Back Jump shot,22,-225,-20,False
+Lou Williams,2,7,51,0,Step Back Jump shot,23,-222,67,False
+Lou Williams,2,7,54,0,Step Back Jump shot,23,-230,60,False
+Lou Williams,3,0,8,0,Step Back Jump shot,17,101,143,True
+Lou Williams,1,2,48,0,Tip Layup Shot,2,2,25,True
+Lou Williams,4,2,13,0,Tip Layup Shot,0,0,-6,True
+Lou Williams,1,4,1,1,Tip Layup Shot,0,0,-6,True
+Lou Williams,2,6,37,0,Tip Layup Shot,0,0,-6,True
+Lou Williams,1,1,55,0,Tip Layup Shot,0,0,-6,True
+Lou Williams,3,2,45,1,Tip Layup Shot,0,0,-6,True
+Lou Williams,3,0,0,1,Turnaround Jump Shot,26,117,233,False
+Lou Williams,4,0,31,1,Turnaround Jump Shot,25,225,114,False
+Lou Williams,4,8,21,1,Turnaround Jump Shot,8,82,2,True

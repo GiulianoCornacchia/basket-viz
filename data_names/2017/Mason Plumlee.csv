@@ -1,0 +1,322 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Mason Plumlee,4,6,15,1,Alley Oop Dunk Shot,2,-13,16,True
+Mason Plumlee,4,11,48,1,Alley Oop Dunk Shot,0,3,3,True
+Mason Plumlee,2,6,47,1,Alley Oop Dunk Shot,0,7,6,True
+Mason Plumlee,4,11,8,1,Alley Oop Dunk Shot,1,-13,0,True
+Mason Plumlee,4,7,40,1,Alley Oop Dunk Shot,1,-13,10,True
+Mason Plumlee,3,5,32,1,Alley Oop Dunk Shot,1,8,8,True
+Mason Plumlee,3,4,3,1,Alley Oop Dunk Shot,1,3,13,True
+Mason Plumlee,2,0,55,0,Alley Oop Dunk Shot,2,27,10,True
+Mason Plumlee,1,6,38,0,Alley Oop Dunk Shot,18,79,167,True
+Mason Plumlee,1,5,40,1,Alley Oop Dunk Shot,3,18,24,True
+Mason Plumlee,4,11,1,1,Alley Oop Dunk Shot,0,5,1,True
+Mason Plumlee,3,0,31,0,Alley Oop Dunk Shot,2,18,17,True
+Mason Plumlee,2,11,33,1,Alley Oop Dunk Shot,0,1,-2,True
+Mason Plumlee,3,11,37,1,Alley Oop Dunk Shot,1,-11,5,True
+Mason Plumlee,2,10,55,0,Alley Oop Dunk Shot,1,10,1,True
+Mason Plumlee,2,2,36,1,Alley Oop Dunk Shot,1,-4,13,True
+Mason Plumlee,4,10,26,1,Alley Oop Dunk Shot,0,-8,5,True
+Mason Plumlee,3,4,32,0,Alley Oop Dunk Shot,3,38,10,True
+Mason Plumlee,3,10,47,1,Alley Oop Dunk Shot,0,1,9,True
+Mason Plumlee,3,0,3,1,Alley Oop Dunk Shot,1,8,13,True
+Mason Plumlee,1,6,14,1,Alley Oop Dunk Shot,1,-11,11,True
+Mason Plumlee,3,11,35,1,Alley Oop Dunk Shot,2,21,7,True
+Mason Plumlee,2,8,7,1,Alley Oop Dunk Shot,1,6,13,True
+Mason Plumlee,1,11,8,1,Alley Oop Dunk Shot,2,-12,16,True
+Mason Plumlee,2,7,45,1,Alley Oop Dunk Shot,2,3,21,True
+Mason Plumlee,3,10,33,1,Alley Oop Dunk Shot,1,16,5,True
+Mason Plumlee,2,7,0,1,Alley Oop Dunk Shot,1,12,13,True
+Mason Plumlee,4,4,16,1,Alley Oop Dunk Shot,1,10,15,True
+Mason Plumlee,4,9,12,1,Alley Oop Dunk Shot,2,16,20,True
+Mason Plumlee,3,0,56,1,Alley Oop Dunk Shot,0,-6,1,True
+Mason Plumlee,1,2,27,0,Alley Oop Dunk Shot,1,-6,14,True
+Mason Plumlee,4,10,15,0,Alley Oop Dunk Shot,2,3,21,True
+Mason Plumlee,2,8,2,1,Alley Oop Dunk Shot,1,-13,0,True
+Mason Plumlee,3,1,31,1,Alley Oop Dunk Shot,1,1,14,True
+Mason Plumlee,3,4,25,1,Alley Oop Dunk Shot,0,-4,6,True
+Mason Plumlee,3,8,39,1,Alley Oop Dunk Shot,0,-3,6,True
+Mason Plumlee,1,4,38,1,Alley Oop Dunk Shot,1,0,15,True
+Mason Plumlee,1,4,6,0,Alley Oop Dunk Shot,0,-1,8,True
+Mason Plumlee,3,8,53,1,Alley Oop Layup shot,1,5,16,True
+Mason Plumlee,3,0,38,1,Alley Oop Layup shot,1,-1,15,True
+Mason Plumlee,1,2,28,1,Alley Oop Layup shot,1,-16,8,True
+Mason Plumlee,3,0,47,1,Alley Oop Layup shot,1,-8,11,True
+Mason Plumlee,3,7,49,0,Alley Oop Layup shot,2,-16,18,True
+Mason Plumlee,2,3,44,1,Alley Oop Layup shot,1,-12,4,True
+Mason Plumlee,2,7,13,0,Alley Oop Layup shot,2,-12,18,True
+Mason Plumlee,3,3,34,1,Alley Oop Layup shot,1,12,0,True
+Mason Plumlee,1,4,45,1,Alley Oop Layup shot,1,15,7,True
+Mason Plumlee,3,6,40,0,Alley Oop Layup shot,2,-12,21,True
+Mason Plumlee,3,10,56,0,Alley Oop Layup shot,1,9,12,True
+Mason Plumlee,1,10,32,0,Alley Oop Layup shot,1,-2,13,True
+Mason Plumlee,2,4,41,1,Cutting Dunk Shot,2,-1,20,True
+Mason Plumlee,3,5,54,1,Cutting Dunk Shot,1,-12,15,True
+Mason Plumlee,2,10,37,1,Cutting Dunk Shot,0,3,6,True
+Mason Plumlee,1,11,25,1,Cutting Dunk Shot,0,0,3,True
+Mason Plumlee,4,0,10,1,Cutting Dunk Shot,2,-6,21,True
+Mason Plumlee,4,9,41,1,Cutting Dunk Shot,1,1,19,True
+Mason Plumlee,3,2,30,1,Cutting Dunk Shot,0,3,-3,True
+Mason Plumlee,1,7,9,1,Cutting Dunk Shot,1,-5,14,True
+Mason Plumlee,1,1,2,1,Cutting Dunk Shot,1,15,10,True
+Mason Plumlee,1,5,11,1,Cutting Dunk Shot,2,10,18,True
+Mason Plumlee,4,7,53,1,Cutting Dunk Shot,2,-10,19,True
+Mason Plumlee,2,4,9,1,Cutting Dunk Shot,0,3,6,True
+Mason Plumlee,3,1,24,1,Cutting Layup Shot,4,-19,41,True
+Mason Plumlee,3,4,51,1,Cutting Layup Shot,2,-3,24,True
+Mason Plumlee,1,4,37,0,Cutting Layup Shot,0,-5,4,True
+Mason Plumlee,1,1,25,0,Cutting Layup Shot,1,-10,15,True
+Mason Plumlee,2,0,16,0,Cutting Layup Shot,2,-7,22,True
+Mason Plumlee,1,2,31,0,Cutting Layup Shot,2,-9,23,True
+Mason Plumlee,4,11,12,1,Cutting Layup Shot,2,-16,22,True
+Mason Plumlee,3,2,7,1,Cutting Layup Shot,2,24,11,True
+Mason Plumlee,3,4,59,1,Cutting Layup Shot,1,-10,5,True
+Mason Plumlee,3,4,24,1,Cutting Layup Shot,2,-14,21,True
+Mason Plumlee,1,7,54,1,Cutting Layup Shot,2,8,22,True
+Mason Plumlee,3,4,25,1,Cutting Layup Shot,0,-2,6,True
+Mason Plumlee,1,0,1,0,Cutting Layup Shot,1,-8,15,True
+Mason Plumlee,2,11,34,0,Cutting Layup Shot,2,18,17,True
+Mason Plumlee,3,5,19,1,Cutting Layup Shot,2,-22,10,True
+Mason Plumlee,1,0,28,1,Cutting Layup Shot,2,18,15,True
+Mason Plumlee,3,0,26,0,Driving Dunk Shot,2,-14,26,True
+Mason Plumlee,1,7,22,1,Driving Dunk Shot,1,0,13,True
+Mason Plumlee,4,0,7,1,Driving Dunk Shot,1,-2,12,True
+Mason Plumlee,3,5,30,1,Driving Dunk Shot,0,3,6,True
+Mason Plumlee,1,2,31,1,Driving Floating Jump Shot,2,-16,19,True
+Mason Plumlee,2,0,33,0,Driving Hook Shot,5,-20,48,True
+Mason Plumlee,1,0,47,1,Driving Hook Shot,5,-49,14,True
+Mason Plumlee,3,11,39,0,Driving Hook Shot,6,40,53,True
+Mason Plumlee,1,3,52,1,Driving Hook Shot,6,-7,69,True
+Mason Plumlee,3,0,15,0,Driving Hook Shot,5,0,52,True
+Mason Plumlee,4,0,55,1,Driving Layup Shot,1,13,14,True
+Mason Plumlee,3,8,22,1,Driving Layup Shot,2,18,18,True
+Mason Plumlee,1,2,47,0,Driving Layup Shot,3,30,20,True
+Mason Plumlee,3,1,42,1,Driving Layup Shot,1,11,8,True
+Mason Plumlee,4,4,15,0,Driving Layup Shot,1,-6,18,True
+Mason Plumlee,2,2,42,1,Driving Layup Shot,2,16,25,True
+Mason Plumlee,3,8,21,1,Driving Layup Shot,1,-13,11,True
+Mason Plumlee,2,6,40,1,Driving Layup Shot,2,6,22,True
+Mason Plumlee,1,4,16,0,Driving Layup Shot,2,-24,15,True
+Mason Plumlee,4,2,17,0,Driving Layup Shot,1,-6,17,True
+Mason Plumlee,2,2,31,1,Driving Layup Shot,6,8,62,True
+Mason Plumlee,3,2,59,1,Driving Layup Shot,1,5,-10,True
+Mason Plumlee,4,4,6,0,Driving Reverse Layup Shot,2,-10,21,True
+Mason Plumlee,3,5,17,0,Driving Reverse Layup Shot,2,-16,12,True
+Mason Plumlee,2,4,14,0,Driving Reverse Layup Shot,1,15,-1,True
+Mason Plumlee,3,5,11,1,Dunk Shot,1,-9,10,True
+Mason Plumlee,3,1,21,1,Dunk Shot,1,8,11,True
+Mason Plumlee,3,6,24,1,Dunk Shot,0,-9,4,True
+Mason Plumlee,3,6,52,1,Dunk Shot,1,-8,7,True
+Mason Plumlee,3,1,50,0,Dunk Shot,2,-1,28,True
+Mason Plumlee,3,2,46,1,Dunk Shot,0,-1,6,True
+Mason Plumlee,1,5,53,0,Dunk Shot,2,-17,17,True
+Mason Plumlee,2,11,2,1,Dunk Shot,0,5,6,True
+Mason Plumlee,2,4,55,1,Dunk Shot,1,9,10,True
+Mason Plumlee,2,3,2,1,Dunk Shot,1,-5,14,True
+Mason Plumlee,3,6,38,1,Dunk Shot,2,-2,22,True
+Mason Plumlee,3,9,5,1,Dunk Shot,2,4,27,True
+Mason Plumlee,4,10,44,1,Dunk Shot,1,4,18,True
+Mason Plumlee,3,6,32,1,Dunk Shot,1,8,15,True
+Mason Plumlee,2,11,15,1,Dunk Shot,2,-18,20,True
+Mason Plumlee,1,5,33,1,Dunk Shot,1,-18,0,True
+Mason Plumlee,3,11,49,1,Dunk Shot,1,11,5,True
+Mason Plumlee,3,7,10,1,Dunk Shot,1,-11,13,True
+Mason Plumlee,3,0,25,1,Dunk Shot,0,-1,8,True
+Mason Plumlee,3,11,10,1,Dunk Shot,1,-16,8,True
+Mason Plumlee,3,10,29,1,Dunk Shot,0,9,3,True
+Mason Plumlee,3,10,4,1,Fadeaway Jump Shot,7,36,67,True
+Mason Plumlee,1,9,55,1,Finger Roll Layup Shot,3,21,23,True
+Mason Plumlee,4,3,17,1,Finger Roll Layup Shot,2,-17,21,True
+Mason Plumlee,1,7,22,0,Floating Jump shot,8,-32,75,True
+Mason Plumlee,1,5,30,1,Floating Jump shot,6,-60,25,True
+Mason Plumlee,1,9,46,1,Floating Jump shot,12,3,126,True
+Mason Plumlee,3,9,6,1,Floating Jump shot,13,29,127,True
+Mason Plumlee,1,7,32,0,Floating Jump shot,7,11,77,True
+Mason Plumlee,1,1,11,1,Floating Jump shot,1,-5,19,True
+Mason Plumlee,2,6,45,0,Floating Jump shot,3,1,38,True
+Mason Plumlee,4,5,48,1,Hook Shot,2,-8,25,True
+Mason Plumlee,1,0,40,1,Hook Shot,6,9,62,True
+Mason Plumlee,2,1,33,0,Hook Shot,7,41,68,True
+Mason Plumlee,2,9,41,1,Hook Shot,5,2,56,True
+Mason Plumlee,4,8,44,0,Hook Shot,5,3,57,True
+Mason Plumlee,1,3,59,1,Hook Shot,4,-6,42,True
+Mason Plumlee,1,6,26,0,Hook Shot,4,-5,41,True
+Mason Plumlee,2,2,38,0,Hook Shot,6,3,61,True
+Mason Plumlee,2,5,1,1,Hook Shot,1,4,12,True
+Mason Plumlee,1,0,23,1,Hook Shot,5,-51,17,True
+Mason Plumlee,1,9,23,0,Hook Shot,4,-27,34,True
+Mason Plumlee,1,8,10,0,Hook Shot,6,62,19,True
+Mason Plumlee,2,6,1,0,Hook Shot,2,-5,24,True
+Mason Plumlee,1,1,9,0,Hook Shot,5,-8,54,True
+Mason Plumlee,3,5,28,0,Hook Shot,6,-7,67,True
+Mason Plumlee,1,2,20,0,Hook Shot,6,-11,68,True
+Mason Plumlee,1,6,48,1,Hook Shot,10,0,106,True
+Mason Plumlee,1,2,44,0,Hook Shot,9,12,90,True
+Mason Plumlee,3,5,41,1,Hook Shot,3,-2,36,True
+Mason Plumlee,3,7,56,0,Hook Shot,4,21,37,True
+Mason Plumlee,4,9,14,0,Hook Shot,7,-11,74,True
+Mason Plumlee,1,5,45,0,Hook Shot,6,-67,13,True
+Mason Plumlee,3,8,46,0,Hook Shot,5,2,55,True
+Mason Plumlee,4,5,18,0,Hook Shot,0,0,-6,True
+Mason Plumlee,1,2,27,0,Hook Shot,4,13,44,True
+Mason Plumlee,1,0,7,0,Hook Shot,8,57,63,True
+Mason Plumlee,1,3,59,1,Hook Shot,5,-35,45,True
+Mason Plumlee,1,4,41,0,Hook Shot,3,29,27,True
+Mason Plumlee,2,9,38,1,Hook Shot,3,8,37,True
+Mason Plumlee,1,9,59,0,Hook Shot,4,14,44,True
+Mason Plumlee,3,7,46,1,Hook Shot,5,-2,56,True
+Mason Plumlee,4,10,11,1,Hook Shot,6,9,68,True
+Mason Plumlee,4,1,32,0,Hook Shot,6,-63,26,True
+Mason Plumlee,2,7,10,0,Hook Shot,2,11,25,True
+Mason Plumlee,1,10,29,0,Hook Shot,2,5,26,True
+Mason Plumlee,4,11,29,0,Hook Shot,7,5,70,True
+Mason Plumlee,3,3,10,0,Hook Shot,9,23,95,True
+Mason Plumlee,1,8,25,0,Hook Shot,4,47,7,True
+Mason Plumlee,3,0,1,0,Hook Shot,7,-32,65,True
+Mason Plumlee,1,10,46,0,Jump Shot,17,-38,167,True
+Mason Plumlee,2,1,56,1,Jump Shot,18,-97,157,True
+Mason Plumlee,3,6,10,0,Jump Shot,1,-8,14,True
+Mason Plumlee,3,4,21,1,Jump Shot,8,-4,85,True
+Mason Plumlee,2,4,0,0,Jump Shot,10,102,27,True
+Mason Plumlee,1,7,55,1,Jump Shot,16,-5,162,True
+Mason Plumlee,3,3,26,0,Jump Shot,17,-169,-20,True
+Mason Plumlee,1,9,56,1,Jump Shot,2,-3,26,True
+Mason Plumlee,1,1,18,0,Jump Shot,24,27,242,False
+Mason Plumlee,2,11,39,1,Jump Shot,15,9,157,True
+Mason Plumlee,2,0,37,0,Jump Shot,8,-6,88,True
+Mason Plumlee,1,5,27,1,Jump Shot,1,-8,18,True
+Mason Plumlee,2,9,7,0,Jump Shot,11,-111,25,True
+Mason Plumlee,1,4,50,0,Layup Shot,2,-6,24,True
+Mason Plumlee,1,3,17,1,Layup Shot,3,29,18,True
+Mason Plumlee,2,0,49,0,Layup Shot,2,-24,8,True
+Mason Plumlee,2,8,30,1,Layup Shot,1,-15,9,True
+Mason Plumlee,4,1,26,1,Layup Shot,2,15,17,True
+Mason Plumlee,2,4,44,1,Layup Shot,2,-19,17,True
+Mason Plumlee,3,0,51,1,Layup Shot,4,19,42,True
+Mason Plumlee,4,1,49,0,Layup Shot,3,36,6,True
+Mason Plumlee,4,7,52,0,Layup Shot,1,-8,10,True
+Mason Plumlee,1,8,7,1,Layup Shot,0,1,8,True
+Mason Plumlee,3,2,20,0,Layup Shot,6,45,42,True
+Mason Plumlee,1,6,41,1,Layup Shot,2,19,10,True
+Mason Plumlee,1,6,5,0,Layup Shot,4,-27,38,True
+Mason Plumlee,4,6,18,0,Layup Shot,6,18,64,True
+Mason Plumlee,3,11,8,0,Layup Shot,6,11,64,True
+Mason Plumlee,2,8,34,1,Layup Shot,1,10,17,True
+Mason Plumlee,2,2,13,0,Layup Shot,1,-10,13,True
+Mason Plumlee,1,9,19,1,Layup Shot,0,1,5,True
+Mason Plumlee,1,3,36,0,Layup Shot,5,-20,46,True
+Mason Plumlee,4,7,49,0,Layup Shot,2,-22,16,True
+Mason Plumlee,4,6,50,1,Layup Shot,1,2,15,True
+Mason Plumlee,4,1,5,0,Layup Shot,1,-6,17,True
+Mason Plumlee,2,8,4,0,Layup Shot,6,-29,61,True
+Mason Plumlee,2,10,28,0,Layup Shot,2,27,10,True
+Mason Plumlee,4,3,56,1,Layup Shot,0,-2,8,True
+Mason Plumlee,2,6,33,1,Layup Shot,3,8,29,True
+Mason Plumlee,2,0,6,0,Layup Shot,1,13,12,True
+Mason Plumlee,2,0,52,0,Layup Shot,3,18,26,True
+Mason Plumlee,1,3,48,0,Layup Shot,3,-11,29,True
+Mason Plumlee,3,1,27,1,Layup Shot,3,-9,30,True
+Mason Plumlee,3,4,35,1,Layup Shot,2,14,26,True
+Mason Plumlee,2,8,38,1,Layup Shot,1,13,13,True
+Mason Plumlee,2,11,40,0,Layup Shot,3,31,15,True
+Mason Plumlee,1,1,58,0,Layup Shot,4,-7,44,True
+Mason Plumlee,1,2,27,1,Layup Shot,5,36,39,True
+Mason Plumlee,3,0,54,1,Layup Shot,3,2,31,True
+Mason Plumlee,4,1,53,1,Layup Shot,1,3,16,True
+Mason Plumlee,1,3,13,0,Layup Shot,7,55,55,True
+Mason Plumlee,3,3,34,1,Layup Shot,3,4,31,True
+Mason Plumlee,4,4,2,0,Layup Shot,2,21,20,True
+Mason Plumlee,3,0,38,1,Layup Shot,2,9,25,True
+Mason Plumlee,2,0,47,0,Layup Shot,1,-16,9,True
+Mason Plumlee,3,8,7,0,Pullup Jump shot,6,0,62,True
+Mason Plumlee,3,2,19,1,Pullup Jump shot,16,-68,148,True
+Mason Plumlee,2,8,32,0,Pullup Jump shot,14,-62,132,True
+Mason Plumlee,1,9,30,1,Pullup Jump shot,15,157,-7,True
+Mason Plumlee,1,1,5,0,Pullup Jump shot,16,-87,137,True
+Mason Plumlee,2,4,42,0,Pullup Jump shot,13,-74,111,True
+Mason Plumlee,1,4,17,0,Pullup Jump shot,15,-76,131,True
+Mason Plumlee,1,3,47,1,Putback Dunk Shot,0,5,2,True
+Mason Plumlee,3,4,19,1,Putback Dunk Shot,0,0,-6,True
+Mason Plumlee,1,1,53,1,Putback Dunk Shot,0,0,-6,True
+Mason Plumlee,1,0,0,0,Putback Layup Shot,0,0,-6,True
+Mason Plumlee,2,3,57,1,Putback Layup Shot,1,2,16,True
+Mason Plumlee,2,11,20,1,Putback Layup Shot,0,0,-6,True
+Mason Plumlee,2,10,40,1,Putback Layup Shot,2,16,16,True
+Mason Plumlee,1,0,15,0,Putback Layup Shot,0,0,-6,True
+Mason Plumlee,1,7,14,1,Reverse Dunk Shot,1,-8,15,True
+Mason Plumlee,3,10,45,1,Reverse Dunk Shot,2,9,22,True
+Mason Plumlee,4,5,12,1,Reverse Dunk Shot,1,-5,10,True
+Mason Plumlee,1,5,19,1,Reverse Dunk Shot,1,8,11,True
+Mason Plumlee,3,8,17,1,Reverse Dunk Shot,1,-7,17,True
+Mason Plumlee,3,6,57,1,Reverse Dunk Shot,0,5,6,True
+Mason Plumlee,1,9,0,1,Reverse Dunk Shot,1,-3,17,True
+Mason Plumlee,1,2,28,1,Reverse Dunk Shot,1,4,11,True
+Mason Plumlee,2,3,9,1,Reverse Dunk Shot,1,5,13,True
+Mason Plumlee,4,10,44,1,Reverse Dunk Shot,1,-11,3,True
+Mason Plumlee,3,1,39,1,Reverse Dunk Shot,1,-3,17,True
+Mason Plumlee,1,1,24,1,Reverse Dunk Shot,1,-14,7,True
+Mason Plumlee,3,1,54,1,Reverse Dunk Shot,2,24,17,True
+Mason Plumlee,2,11,1,1,Reverse Dunk Shot,0,6,4,True
+Mason Plumlee,4,7,56,1,Reverse Dunk Shot,0,-8,1,True
+Mason Plumlee,3,10,54,0,Reverse Layup Shot,1,-18,8,True
+Mason Plumlee,2,10,24,0,Reverse Layup Shot,2,-20,1,True
+Mason Plumlee,2,3,6,0,Reverse Layup Shot,3,38,3,True
+Mason Plumlee,1,11,38,1,Reverse Layup Shot,0,0,8,True
+Mason Plumlee,2,6,14,1,Reverse Layup Shot,3,-25,26,True
+Mason Plumlee,2,4,18,1,Reverse Layup Shot,1,9,9,True
+Mason Plumlee,2,6,43,1,Reverse Layup Shot,3,-14,28,True
+Mason Plumlee,2,11,8,1,Reverse Layup Shot,2,3,28,True
+Mason Plumlee,3,9,41,1,Reverse Layup Shot,1,-16,8,True
+Mason Plumlee,3,7,20,1,Reverse Layup Shot,1,-13,10,True
+Mason Plumlee,4,2,23,0,Reverse Layup Shot,2,-14,17,True
+Mason Plumlee,2,0,28,1,Reverse Layup Shot,1,-13,13,True
+Mason Plumlee,4,1,20,1,Running Alley Oop Dunk Shot,2,-6,25,True
+Mason Plumlee,1,0,6,1,Running Alley Oop Dunk Shot,1,13,13,True
+Mason Plumlee,4,5,36,1,Running Dunk Shot,1,5,15,True
+Mason Plumlee,1,8,57,1,Running Dunk Shot,1,6,15,True
+Mason Plumlee,4,0,31,1,Running Dunk Shot,2,0,22,True
+Mason Plumlee,3,11,27,1,Running Dunk Shot,2,-7,20,True
+Mason Plumlee,2,3,18,0,Running Layup Shot,5,7,51,True
+Mason Plumlee,3,3,10,1,Running Layup Shot,3,29,21,True
+Mason Plumlee,2,6,24,0,Running Layup Shot,10,-3,105,True
+Mason Plumlee,4,7,13,1,Running Layup Shot,0,2,7,True
+Mason Plumlee,4,8,40,0,Running Layup Shot,3,-33,21,True
+Mason Plumlee,1,3,39,1,Running Layup Shot,3,3,38,True
+Mason Plumlee,1,4,30,0,Step Back Jump shot,17,-89,149,True
+Mason Plumlee,4,3,53,1,Tip Dunk Shot,0,0,-6,True
+Mason Plumlee,4,3,4,1,Tip Dunk Shot,0,0,-6,True
+Mason Plumlee,4,10,25,1,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,1,0,43,0,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,3,0,3,0,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,1,2,50,0,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,4,9,57,0,Tip Layup Shot,0,4,9,True
+Mason Plumlee,4,9,57,0,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,1,0,55,1,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,3,10,59,0,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,2,0,5,0,Tip Layup Shot,2,11,20,True
+Mason Plumlee,4,10,57,0,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,2,0,19,0,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,2,11,34,1,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,3,0,6,0,Tip Layup Shot,0,0,8,True
+Mason Plumlee,4,11,24,0,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,1,2,28,0,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,1,3,33,1,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,3,2,18,0,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,3,4,26,1,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,2,7,22,1,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,2,3,4,1,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,1,2,24,0,Tip Layup Shot,2,-8,26,True
+Mason Plumlee,2,0,49,0,Tip Layup Shot,0,0,-6,True
+Mason Plumlee,3,9,56,0,Turnaround Hook Shot,6,30,53,True
+Mason Plumlee,1,6,30,0,Turnaround Hook Shot,6,-43,55,True
+Mason Plumlee,4,11,20,0,Turnaround Hook Shot,9,-61,78,True
+Mason Plumlee,3,7,32,1,Turnaround Hook Shot,2,0,25,True
+Mason Plumlee,4,8,34,1,Turnaround Hook Shot,8,85,16,True
+Mason Plumlee,1,11,6,1,Turnaround Hook Shot,5,-49,16,True
+Mason Plumlee,2,10,39,1,Turnaround Hook Shot,8,84,7,True
+Mason Plumlee,4,11,39,0,Turnaround Hook Shot,3,-6,38,True
+Mason Plumlee,3,4,9,1,Turnaround Hook Shot,1,-14,14,True
+Mason Plumlee,4,9,20,0,Turnaround Jump Shot,4,-11,41,True
+Mason Plumlee,4,5,19,1,Turnaround Jump Shot,4,3,45,True
+Mason Plumlee,1,1,8,0,Turnaround Jump Shot,4,-40,12,True
+Mason Plumlee,4,7,43,0,Turnaround Jump Shot,5,-57,5,True
+Mason Plumlee,4,3,59,0,Turnaround Jump Shot,10,17,99,True

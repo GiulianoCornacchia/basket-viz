@@ -1,0 +1,333 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Quincy Acy,4,4,46,1,Cutting Dunk Shot,2,-3,24,True
+Quincy Acy,2,7,37,1,Cutting Dunk Shot,0,2,8,True
+Quincy Acy,3,6,1,1,Cutting Dunk Shot,0,1,3,True
+Quincy Acy,4,11,43,0,Cutting Dunk Shot,1,-8,17,True
+Quincy Acy,3,1,41,0,Cutting Layup Shot,2,-2,26,True
+Quincy Acy,6,0,55,1,Cutting Layup Shot,1,-10,4,True
+Quincy Acy,2,6,17,1,Cutting Layup Shot,2,-2,25,True
+Quincy Acy,4,9,54,1,Cutting Layup Shot,1,18,8,True
+Quincy Acy,2,7,5,0,Cutting Layup Shot,2,-2,29,True
+Quincy Acy,4,9,8,1,Cutting Layup Shot,0,5,5,True
+Quincy Acy,4,1,14,1,Driving Dunk Shot,1,0,10,True
+Quincy Acy,1,2,52,0,Driving Dunk Shot,0,5,3,True
+Quincy Acy,2,0,43,1,Driving Dunk Shot,0,-6,4,True
+Quincy Acy,3,5,47,0,Driving Finger Roll Layup Shot,0,-4,8,True
+Quincy Acy,1,6,45,0,Driving Floating Jump Shot,17,78,152,True
+Quincy Acy,1,1,11,0,Driving Floating Jump Shot,2,5,25,True
+Quincy Acy,2,11,45,0,Driving Layup Shot,3,-23,32,True
+Quincy Acy,3,4,29,0,Driving Layup Shot,3,-27,21,True
+Quincy Acy,2,4,31,1,Driving Layup Shot,0,-6,-4,True
+Quincy Acy,1,0,55,0,Driving Layup Shot,2,25,5,True
+Quincy Acy,4,2,42,0,Driving Layup Shot,2,24,15,True
+Quincy Acy,2,2,16,0,Driving Layup Shot,3,33,17,True
+Quincy Acy,3,3,13,0,Driving Layup Shot,1,-15,-5,True
+Quincy Acy,2,4,10,1,Driving Layup Shot,1,11,0,True
+Quincy Acy,4,8,54,0,Driving Layup Shot,2,13,22,True
+Quincy Acy,3,3,7,0,Driving Layup Shot,1,2,16,True
+Quincy Acy,4,7,37,0,Driving Layup Shot,6,-43,42,True
+Quincy Acy,3,6,11,1,Driving Reverse Layup Shot,1,13,0,True
+Quincy Acy,3,3,39,0,Driving Reverse Layup Shot,2,-22,4,True
+Quincy Acy,4,8,15,0,Dunk Shot,1,9,12,True
+Quincy Acy,3,6,21,1,Dunk Shot,1,-8,14,True
+Quincy Acy,2,3,58,0,Dunk Shot,0,-7,4,True
+Quincy Acy,3,8,3,1,Dunk Shot,1,2,16,True
+Quincy Acy,1,1,34,1,Fadeaway Jump Shot,15,-158,-5,True
+Quincy Acy,3,2,57,0,Fadeaway Jump Shot,14,145,29,True
+Quincy Acy,2,11,25,0,Hook Shot,5,-13,49,True
+Quincy Acy,3,5,15,0,Jump Bank Shot,10,85,66,True
+Quincy Acy,2,5,36,0,Jump Bank Shot,26,-1,264,False
+Quincy Acy,3,5,35,0,Jump Shot,26,-10,260,False
+Quincy Acy,4,8,9,0,Jump Shot,25,-55,246,False
+Quincy Acy,3,10,13,1,Jump Shot,25,30,253,False
+Quincy Acy,1,4,7,1,Jump Shot,25,64,242,False
+Quincy Acy,3,0,51,0,Jump Shot,25,20,252,False
+Quincy Acy,3,2,48,0,Jump Shot,16,114,125,True
+Quincy Acy,2,0,4,0,Jump Shot,24,3,246,False
+Quincy Acy,1,3,1,1,Jump Shot,25,53,247,False
+Quincy Acy,4,10,40,1,Jump Shot,25,148,205,False
+Quincy Acy,1,0,2,0,Jump Shot,27,-65,272,False
+Quincy Acy,2,5,5,0,Jump Shot,24,68,239,False
+Quincy Acy,1,1,1,0,Jump Shot,25,-197,157,False
+Quincy Acy,4,8,21,0,Jump Shot,22,-225,-12,False
+Quincy Acy,2,10,51,1,Jump Shot,25,24,257,False
+Quincy Acy,1,2,5,1,Jump Shot,24,-145,202,False
+Quincy Acy,1,2,25,0,Jump Shot,25,-52,251,False
+Quincy Acy,4,9,5,0,Jump Shot,24,-5,242,False
+Quincy Acy,1,3,7,1,Jump Shot,22,-229,11,False
+Quincy Acy,4,5,41,1,Jump Shot,26,-122,230,False
+Quincy Acy,4,8,40,1,Jump Shot,26,102,242,False
+Quincy Acy,1,0,41,0,Jump Shot,25,-166,193,False
+Quincy Acy,2,11,20,0,Jump Shot,23,-232,11,False
+Quincy Acy,2,7,40,0,Jump Shot,26,113,235,False
+Quincy Acy,4,0,24,0,Jump Shot,25,46,250,False
+Quincy Acy,4,2,46,1,Jump Shot,25,-52,253,False
+Quincy Acy,4,0,45,0,Jump Shot,25,-86,242,False
+Quincy Acy,1,11,20,0,Jump Shot,26,189,183,False
+Quincy Acy,2,0,27,1,Jump Shot,25,-2,256,False
+Quincy Acy,2,3,2,1,Jump Shot,25,-11,254,False
+Quincy Acy,2,3,0,1,Jump Shot,25,-17,256,False
+Quincy Acy,3,7,51,0,Jump Shot,22,226,9,False
+Quincy Acy,2,6,33,0,Jump Shot,23,-235,5,False
+Quincy Acy,1,4,47,1,Jump Shot,25,-89,237,False
+Quincy Acy,1,4,27,0,Jump Shot,22,222,11,False
+Quincy Acy,3,4,40,0,Jump Shot,25,22,256,False
+Quincy Acy,3,2,11,0,Jump Shot,24,-81,236,False
+Quincy Acy,2,4,52,1,Jump Shot,24,111,216,False
+Quincy Acy,3,5,32,0,Jump Shot,25,98,232,False
+Quincy Acy,6,2,41,0,Jump Shot,25,39,252,False
+Quincy Acy,3,2,45,1,Jump Shot,22,225,1,False
+Quincy Acy,5,0,58,0,Jump Shot,22,-225,-1,False
+Quincy Acy,6,3,50,0,Jump Shot,24,-196,150,False
+Quincy Acy,2,7,57,0,Jump Shot,21,217,12,True
+Quincy Acy,4,2,46,0,Jump Shot,24,-177,173,False
+Quincy Acy,2,8,21,0,Jump Shot,25,9,256,False
+Quincy Acy,3,3,34,1,Jump Shot,25,-73,245,False
+Quincy Acy,1,10,49,0,Jump Shot,25,154,201,False
+Quincy Acy,4,9,39,0,Jump Shot,22,-227,-1,False
+Quincy Acy,2,5,19,0,Jump Shot,22,223,2,False
+Quincy Acy,4,10,27,0,Jump Shot,24,24,245,False
+Quincy Acy,3,10,37,1,Jump Shot,25,30,258,False
+Quincy Acy,4,1,17,0,Jump Shot,22,-228,-6,False
+Quincy Acy,4,2,40,0,Jump Shot,24,-174,173,False
+Quincy Acy,1,10,38,1,Jump Shot,23,-236,21,False
+Quincy Acy,1,8,27,0,Jump Shot,23,-230,27,False
+Quincy Acy,1,7,57,0,Jump Shot,26,90,251,False
+Quincy Acy,1,11,21,1,Jump Shot,23,-230,2,False
+Quincy Acy,2,5,17,1,Jump Shot,24,-237,55,False
+Quincy Acy,2,0,1,0,Jump Shot,20,22,201,True
+Quincy Acy,2,10,29,0,Jump Shot,25,2,251,False
+Quincy Acy,3,8,53,0,Jump Shot,26,-134,231,False
+Quincy Acy,2,7,42,0,Jump Shot,23,228,47,False
+Quincy Acy,1,9,19,1,Jump Shot,22,-225,-4,False
+Quincy Acy,3,4,44,0,Jump Shot,23,233,15,False
+Quincy Acy,2,8,6,0,Jump Shot,21,-218,6,False
+Quincy Acy,2,3,40,0,Jump Shot,26,-18,265,False
+Quincy Acy,4,3,25,0,Jump Shot,13,-120,59,True
+Quincy Acy,1,4,11,0,Jump Shot,26,67,257,False
+Quincy Acy,1,4,35,0,Jump Shot,23,-231,36,False
+Quincy Acy,4,4,54,0,Jump Shot,18,57,177,True
+Quincy Acy,3,4,16,0,Jump Shot,23,-230,-3,False
+Quincy Acy,2,6,56,1,Jump Shot,24,-48,240,False
+Quincy Acy,3,4,41,0,Jump Shot,25,29,257,False
+Quincy Acy,3,0,56,0,Jump Shot,25,-150,209,False
+Quincy Acy,1,1,23,1,Jump Shot,23,237,20,False
+Quincy Acy,4,0,43,0,Jump Shot,24,-241,46,False
+Quincy Acy,2,2,43,0,Jump Shot,28,41,281,False
+Quincy Acy,3,1,22,0,Jump Shot,20,209,-1,True
+Quincy Acy,3,4,7,1,Jump Shot,25,51,246,False
+Quincy Acy,2,10,29,1,Jump Shot,22,-225,33,False
+Quincy Acy,2,11,36,0,Jump Shot,24,141,204,False
+Quincy Acy,3,5,26,1,Jump Shot,24,172,169,False
+Quincy Acy,3,4,13,0,Jump Shot,24,-239,71,False
+Quincy Acy,3,3,42,0,Jump Shot,22,225,21,False
+Quincy Acy,1,2,31,0,Jump Shot,24,-26,248,False
+Quincy Acy,3,10,43,1,Jump Shot,26,18,267,False
+Quincy Acy,4,0,9,1,Jump Shot,25,139,214,False
+Quincy Acy,4,6,53,0,Jump Shot,26,-15,262,False
+Quincy Acy,1,9,55,0,Jump Shot,25,-9,256,False
+Quincy Acy,3,10,11,0,Jump Shot,26,-65,261,False
+Quincy Acy,3,3,36,0,Jump Shot,25,178,176,False
+Quincy Acy,2,8,38,1,Jump Shot,25,65,246,False
+Quincy Acy,1,2,33,1,Jump Shot,25,-141,214,False
+Quincy Acy,1,1,38,0,Jump Shot,22,-222,4,False
+Quincy Acy,2,0,48,1,Jump Shot,23,224,74,False
+Quincy Acy,1,0,18,0,Jump Shot,26,0,268,False
+Quincy Acy,1,1,45,0,Jump Shot,26,-159,214,False
+Quincy Acy,2,9,56,0,Jump Shot,24,-24,247,False
+Quincy Acy,3,3,7,0,Jump Shot,24,51,242,False
+Quincy Acy,3,4,37,0,Jump Shot,24,-119,218,False
+Quincy Acy,4,3,19,1,Jump Shot,25,49,250,False
+Quincy Acy,4,4,11,1,Jump Shot,22,-222,-18,False
+Quincy Acy,2,5,36,0,Jump Shot,23,-226,80,False
+Quincy Acy,4,1,25,0,Jump Shot,24,-143,195,False
+Quincy Acy,4,4,29,0,Jump Shot,24,144,201,False
+Quincy Acy,4,7,43,1,Jump Shot,25,164,192,False
+Quincy Acy,4,2,3,0,Jump Shot,24,-6,246,False
+Quincy Acy,4,3,13,0,Jump Shot,24,27,245,False
+Quincy Acy,4,11,32,1,Jump Shot,22,-221,-12,False
+Quincy Acy,1,1,56,0,Jump Shot,22,225,-4,False
+Quincy Acy,4,8,15,0,Jump Shot,26,2,260,False
+Quincy Acy,2,8,50,0,Jump Shot,24,6,246,False
+Quincy Acy,2,5,49,1,Jump Shot,26,-68,256,False
+Quincy Acy,4,10,19,0,Jump Shot,26,-21,268,False
+Quincy Acy,3,3,55,0,Jump Shot,23,230,5,False
+Quincy Acy,4,0,18,1,Jump Shot,26,-158,215,False
+Quincy Acy,1,4,16,1,Jump Shot,26,-203,164,False
+Quincy Acy,2,5,37,1,Jump Shot,23,231,15,False
+Quincy Acy,1,1,31,1,Jump Shot,25,13,257,False
+Quincy Acy,1,0,2,1,Jump Shot,25,-47,251,False
+Quincy Acy,2,11,48,0,Jump Shot,23,227,54,False
+Quincy Acy,4,3,23,1,Jump Shot,19,193,25,True
+Quincy Acy,3,7,11,1,Jump Shot,22,-227,-15,False
+Quincy Acy,3,5,28,1,Jump Shot,25,-188,168,False
+Quincy Acy,4,1,13,0,Jump Shot,22,-228,26,False
+Quincy Acy,2,3,36,0,Jump Shot,22,-226,15,False
+Quincy Acy,2,7,59,0,Jump Shot,25,59,248,False
+Quincy Acy,2,6,12,0,Jump Shot,25,43,249,False
+Quincy Acy,4,8,11,0,Jump Shot,23,229,32,False
+Quincy Acy,3,1,28,0,Jump Shot,24,-216,125,False
+Quincy Acy,3,3,5,0,Jump Shot,22,-226,-16,False
+Quincy Acy,2,4,41,1,Jump Shot,24,14,249,False
+Quincy Acy,2,5,16,1,Jump Shot,23,-235,10,False
+Quincy Acy,4,9,29,0,Jump Shot,24,-60,235,False
+Quincy Acy,3,1,49,1,Jump Shot,24,232,82,False
+Quincy Acy,1,1,51,0,Jump Shot,28,-67,274,False
+Quincy Acy,4,1,35,0,Jump Shot,25,131,224,False
+Quincy Acy,2,6,43,0,Jump Shot,26,80,251,False
+Quincy Acy,1,3,8,0,Jump Shot,26,133,232,False
+Quincy Acy,4,10,54,0,Jump Shot,25,25,250,False
+Quincy Acy,3,0,3,0,Jump Shot,24,-187,159,False
+Quincy Acy,4,2,46,0,Jump Shot,25,70,240,False
+Quincy Acy,3,2,0,1,Jump Shot,25,-112,226,False
+Quincy Acy,3,3,9,0,Jump Shot,26,-27,263,False
+Quincy Acy,1,3,20,0,Jump Shot,25,98,239,False
+Quincy Acy,3,4,23,1,Jump Shot,22,-228,3,False
+Quincy Acy,3,2,28,0,Jump Shot,27,-8,271,False
+Quincy Acy,3,4,11,1,Jump Shot,27,-98,262,False
+Quincy Acy,2,8,56,0,Jump Shot,25,128,217,False
+Quincy Acy,3,3,52,0,Jump Shot,28,125,256,False
+Quincy Acy,1,4,0,1,Jump Shot,22,226,17,False
+Quincy Acy,1,2,44,0,Jump Shot,25,75,239,False
+Quincy Acy,4,3,40,1,Jump Shot,23,-232,26,False
+Quincy Acy,2,9,12,0,Jump Shot,25,11,252,False
+Quincy Acy,3,1,37,1,Jump Shot,22,-223,-1,False
+Quincy Acy,2,9,17,1,Jump Shot,25,122,227,False
+Quincy Acy,4,10,3,0,Jump Shot,27,-112,247,False
+Quincy Acy,4,0,50,0,Jump Shot,23,-230,7,False
+Quincy Acy,3,1,16,1,Jump Shot,22,-229,-10,False
+Quincy Acy,1,0,44,0,Jump Shot,25,152,201,False
+Quincy Acy,4,7,33,0,Jump Shot,26,-84,252,False
+Quincy Acy,3,3,49,1,Jump Shot,25,-149,210,False
+Quincy Acy,4,11,13,1,Jump Shot,23,-232,-15,False
+Quincy Acy,1,0,2,1,Jump Shot,26,141,222,False
+Quincy Acy,1,2,35,0,Jump Shot,26,125,230,False
+Quincy Acy,3,2,34,0,Jump Shot,26,-33,265,False
+Quincy Acy,2,7,32,0,Jump Shot,22,-222,-4,False
+Quincy Acy,2,11,25,1,Jump Shot,22,-221,-16,False
+Quincy Acy,2,2,39,0,Jump Shot,26,-210,154,False
+Quincy Acy,2,1,21,1,Jump Shot,27,-128,242,False
+Quincy Acy,4,9,8,1,Jump Shot,23,-234,41,False
+Quincy Acy,1,2,11,1,Jump Shot,22,-224,-31,False
+Quincy Acy,2,9,54,0,Jump Shot,26,-28,267,False
+Quincy Acy,3,0,20,0,Jump Shot,23,-232,16,False
+Quincy Acy,1,4,52,1,Jump Shot,26,-4,266,False
+Quincy Acy,1,1,54,0,Jump Shot,25,63,246,False
+Quincy Acy,3,3,15,0,Jump Shot,25,150,208,False
+Quincy Acy,3,0,33,0,Jump Shot,25,94,242,False
+Quincy Acy,3,2,6,0,Jump Shot,24,-133,211,False
+Quincy Acy,2,4,25,1,Jump Shot,24,-167,184,False
+Quincy Acy,2,2,12,1,Jump Shot,25,-149,209,False
+Quincy Acy,3,0,14,1,Jump Shot,23,-230,67,False
+Quincy Acy,4,10,34,0,Jump Shot,23,231,27,False
+Quincy Acy,3,7,34,1,Jump Shot,25,-24,250,False
+Quincy Acy,1,3,35,0,Jump Shot,27,-165,222,False
+Quincy Acy,4,1,0,0,Jump Shot,26,36,263,False
+Quincy Acy,1,2,44,1,Jump Shot,26,-7,262,False
+Quincy Acy,3,0,0,0,Jump Shot,23,223,73,False
+Quincy Acy,1,3,12,1,Jump Shot,23,-235,5,False
+Quincy Acy,4,10,16,0,Jump Shot,27,-44,274,False
+Quincy Acy,4,11,3,1,Jump Shot,27,55,267,False
+Quincy Acy,1,5,26,1,Jump Shot,22,-229,-11,False
+Quincy Acy,1,0,43,0,Jump Shot,26,-159,218,False
+Quincy Acy,4,11,39,1,Jump Shot,27,110,247,False
+Quincy Acy,1,5,25,0,Jump Shot,23,-232,0,False
+Quincy Acy,1,6,29,0,Jump Shot,25,232,103,False
+Quincy Acy,3,1,34,1,Jump Shot,23,-231,31,False
+Quincy Acy,1,4,35,1,Jump Shot,22,85,205,True
+Quincy Acy,3,0,33,0,Jump Shot,24,185,162,False
+Quincy Acy,3,9,51,1,Jump Shot,25,-34,251,False
+Quincy Acy,1,4,26,0,Jump Shot,23,126,204,False
+Quincy Acy,1,6,24,0,Jump Shot,25,-55,246,False
+Quincy Acy,4,8,55,1,Jump Shot,25,-76,241,False
+Quincy Acy,3,1,23,1,Jump Shot,27,99,261,False
+Quincy Acy,1,0,51,0,Jump Shot,26,-114,243,False
+Quincy Acy,4,7,37,1,Jump Shot,26,-109,241,False
+Quincy Acy,1,4,0,0,Jump Shot,23,225,48,False
+Quincy Acy,4,4,37,1,Jump Shot,25,-168,193,False
+Quincy Acy,1,0,29,1,Jump Shot,22,227,37,False
+Quincy Acy,1,1,23,0,Jump Shot,26,-161,209,False
+Quincy Acy,4,11,21,0,Jump Shot,24,-174,168,False
+Quincy Acy,2,0,10,1,Jump Shot,23,-234,10,False
+Quincy Acy,1,4,9,0,Jump Shot,25,14,251,False
+Quincy Acy,2,10,1,0,Jump Shot,26,98,244,False
+Quincy Acy,2,10,31,0,Jump Shot,22,-223,12,False
+Quincy Acy,3,2,19,0,Jump Shot,26,-25,260,False
+Quincy Acy,2,0,48,0,Jump Shot,25,-29,250,False
+Quincy Acy,3,2,25,0,Jump Shot,24,-16,248,False
+Quincy Acy,1,0,1,0,Jump Shot,23,-231,-10,False
+Quincy Acy,1,1,29,0,Jump Shot,22,-225,0,False
+Quincy Acy,3,4,23,1,Jump Shot,25,15,252,False
+Quincy Acy,4,7,47,0,Jump Shot,25,-137,214,False
+Quincy Acy,3,4,53,0,Jump Shot,24,-22,249,False
+Quincy Acy,1,2,33,0,Jump Shot,24,-160,185,False
+Quincy Acy,3,0,18,1,Jump Shot,25,92,239,False
+Quincy Acy,2,11,9,1,Jump Shot,24,67,237,False
+Quincy Acy,2,8,12,0,Jump Shot,25,54,248,False
+Quincy Acy,4,3,3,0,Jump Shot,25,-7,251,False
+Quincy Acy,4,2,24,0,Jump Shot,25,-79,241,False
+Quincy Acy,2,7,48,0,Jump Shot,25,40,255,False
+Quincy Acy,4,1,5,1,Jump Shot,24,-8,249,False
+Quincy Acy,2,9,15,1,Jump Shot,22,-222,-8,False
+Quincy Acy,2,10,58,0,Jump Shot,22,224,0,False
+Quincy Acy,4,9,39,0,Jump Shot,24,67,237,False
+Quincy Acy,2,11,10,1,Jump Shot,23,-234,-1,False
+Quincy Acy,3,3,31,0,Jump Shot,25,237,83,False
+Quincy Acy,3,2,27,0,Jump Shot,7,70,10,True
+Quincy Acy,4,5,59,0,Jump Shot,23,225,63,False
+Quincy Acy,1,3,10,0,Jump Shot,25,-174,188,False
+Quincy Acy,1,4,30,0,Jump Shot,23,-231,38,False
+Quincy Acy,4,10,16,0,Jump Shot,25,-101,235,False
+Quincy Acy,1,5,22,0,Jump Shot,24,231,71,False
+Quincy Acy,2,5,19,1,Jump Shot,23,228,68,False
+Quincy Acy,3,1,41,1,Jump Shot,22,224,20,False
+Quincy Acy,1,1,30,0,Jump Shot,9,-85,52,True
+Quincy Acy,3,2,22,0,Jump Shot,22,-228,-17,False
+Quincy Acy,1,5,9,0,Jump Shot,22,-221,-11,False
+Quincy Acy,2,5,52,0,Jump Shot,22,226,7,False
+Quincy Acy,1,1,34,1,Jump Shot,24,42,242,False
+Quincy Acy,4,3,17,0,Jump Shot,22,-225,10,False
+Quincy Acy,2,7,33,1,Jump Shot,24,-26,248,False
+Quincy Acy,1,4,35,0,Jump Shot,15,154,25,True
+Quincy Acy,4,0,11,0,Jump Shot,24,-7,249,False
+Quincy Acy,4,0,51,0,Jump Shot,25,-104,238,False
+Quincy Acy,3,3,38,0,Jump Shot,25,-5,251,False
+Quincy Acy,2,7,37,1,Jump Shot,25,-45,249,False
+Quincy Acy,4,7,49,0,Jump Shot,24,-156,188,False
+Quincy Acy,2,8,23,0,Jump Shot,24,-81,233,False
+Quincy Acy,1,3,51,0,Jump Shot,27,-161,217,False
+Quincy Acy,1,3,17,0,Jump Shot,22,-226,-9,False
+Quincy Acy,3,1,22,1,Jump Shot,25,81,240,False
+Quincy Acy,3,5,42,1,Jump Shot,25,-68,241,False
+Quincy Acy,2,4,15,0,Jump Shot,22,-221,2,False
+Quincy Acy,3,6,58,1,Jump Shot,24,-81,236,False
+Quincy Acy,3,2,47,0,Jump Shot,24,-105,220,False
+Quincy Acy,3,2,6,0,Jump Shot,25,121,227,False
+Quincy Acy,2,6,36,0,Jump Shot,25,-183,176,False
+Quincy Acy,1,3,26,0,Jump Shot,24,-231,73,False
+Quincy Acy,4,9,39,0,Jump Shot,25,0,256,False
+Quincy Acy,1,2,30,0,Jump Shot,25,70,246,False
+Quincy Acy,4,3,55,0,Jump Shot,25,-151,200,False
+Quincy Acy,3,4,45,0,Jump Shot,23,-228,37,False
+Quincy Acy,2,9,56,0,Layup Shot,2,22,1,True
+Quincy Acy,2,10,3,0,Layup Shot,0,6,4,True
+Quincy Acy,1,2,0,0,Layup Shot,2,9,21,True
+Quincy Acy,4,7,45,1,Layup Shot,1,-6,14,True
+Quincy Acy,3,3,26,0,Layup Shot,1,0,15,True
+Quincy Acy,4,6,10,1,Pullup Jump shot,18,-1,180,True
+Quincy Acy,1,6,56,0,Pullup Jump shot,24,-186,160,False
+Quincy Acy,4,1,45,1,Pullup Jump shot,22,-226,-11,False
+Quincy Acy,4,10,32,1,Pullup Jump shot,16,-161,21,True
+Quincy Acy,3,5,59,0,Pullup Jump shot,15,148,27,True
+Quincy Acy,2,0,14,0,Pullup Jump shot,14,-50,139,True
+Quincy Acy,1,0,50,1,Pullup Jump shot,15,-159,-3,True
+Quincy Acy,2,11,21,0,Putback Layup Shot,3,-14,31,True
+Quincy Acy,3,0,26,1,Putback Layup Shot,0,2,5,True
+Quincy Acy,2,8,52,0,Reverse Layup Shot,1,-9,17,True
+Quincy Acy,4,9,50,1,Running Finger Roll Layup Shot,0,0,9,True
+Quincy Acy,1,2,50,0,Running Jump Shot,23,-230,2,False
+Quincy Acy,1,1,29,0,Step Back Jump shot,25,133,215,False
+Quincy Acy,3,3,9,1,Tip Dunk Shot,1,5,11,True
+Quincy Acy,1,2,6,0,Turnaround Fadeaway shot,18,-156,93,True
+Quincy Acy,3,4,39,0,Turnaround Jump Shot,7,-25,68,True
+Quincy Acy,1,2,50,1,Turnaround Jump Shot,11,114,13,True

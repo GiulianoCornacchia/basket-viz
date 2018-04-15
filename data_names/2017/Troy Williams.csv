@@ -1,0 +1,78 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Troy Williams,2,1,38,0,Alley Oop Dunk Shot,0,3,2,True
+Troy Williams,2,4,43,1,Cutting Dunk Shot,0,3,6,True
+Troy Williams,4,9,7,1,Cutting Layup Shot,1,10,15,True
+Troy Williams,4,9,24,1,Cutting Layup Shot,1,-5,19,True
+Troy Williams,3,9,43,1,Cutting Layup Shot,8,70,40,True
+Troy Williams,3,0,30,0,Cutting Layup Shot,2,-12,20,True
+Troy Williams,3,0,53,1,Cutting Layup Shot,0,0,4,True
+Troy Williams,4,11,28,1,Driving Dunk Shot,1,1,10,True
+Troy Williams,3,2,22,1,Driving Dunk Shot,0,-4,-1,True
+Troy Williams,2,11,41,1,Driving Dunk Shot,0,-3,4,True
+Troy Williams,4,0,53,1,Driving Finger Roll Layup Shot,1,3,16,True
+Troy Williams,2,9,9,0,Driving Floating Jump Shot,6,-7,64,True
+Troy Williams,2,5,11,0,Driving Layup Shot,1,-16,7,True
+Troy Williams,4,3,9,0,Driving Layup Shot,1,-3,15,True
+Troy Williams,2,11,3,0,Driving Layup Shot,1,-17,7,True
+Troy Williams,4,1,36,0,Driving Layup Shot,0,2,8,True
+Troy Williams,4,1,54,1,Driving Layup Shot,0,2,7,True
+Troy Williams,2,3,45,1,Driving Layup Shot,4,-6,44,True
+Troy Williams,4,3,35,1,Driving Reverse Layup Shot,1,3,13,True
+Troy Williams,4,6,20,1,Driving Reverse Layup Shot,2,-21,20,True
+Troy Williams,4,11,43,1,Driving Reverse Layup Shot,0,0,5,True
+Troy Williams,2,9,32,1,Dunk Shot,1,5,10,True
+Troy Williams,4,0,30,1,Dunk Shot,0,-5,1,True
+Troy Williams,1,2,11,1,Dunk Shot,0,-1,6,True
+Troy Williams,3,1,36,1,Dunk Shot,0,-3,1,True
+Troy Williams,2,8,58,0,Floating Jump shot,2,26,10,True
+Troy Williams,2,9,17,0,Hook Shot,4,-38,17,True
+Troy Williams,2,9,6,0,Jump Shot,23,228,66,False
+Troy Williams,2,7,6,0,Jump Shot,25,-27,254,False
+Troy Williams,3,0,13,0,Jump Shot,25,-139,214,False
+Troy Williams,4,9,12,0,Jump Shot,26,-131,233,False
+Troy Williams,4,0,59,0,Jump Shot,25,-123,224,False
+Troy Williams,3,0,59,0,Jump Shot,24,-191,153,False
+Troy Williams,4,3,0,0,Jump Shot,25,71,247,False
+Troy Williams,4,1,2,1,Jump Shot,26,-150,220,False
+Troy Williams,4,0,10,0,Jump Shot,26,-134,224,False
+Troy Williams,2,1,55,0,Jump Shot,25,133,218,False
+Troy Williams,1,0,39,0,Jump Shot,23,-231,22,False
+Troy Williams,3,1,30,1,Jump Shot,22,-222,29,False
+Troy Williams,2,8,58,1,Jump Shot,27,-83,259,False
+Troy Williams,4,0,32,1,Jump Shot,25,-97,237,False
+Troy Williams,2,9,58,0,Jump Shot,24,166,185,False
+Troy Williams,4,5,18,0,Jump Shot,22,224,31,False
+Troy Williams,1,8,35,1,Jump Shot,25,161,199,False
+Troy Williams,2,4,29,1,Jump Shot,25,165,196,False
+Troy Williams,4,11,29,0,Jump Shot,25,149,212,False
+Troy Williams,4,1,17,0,Jump Shot,25,-223,131,False
+Troy Williams,4,6,1,0,Jump Shot,25,180,185,False
+Troy Williams,4,11,40,0,Jump Shot,26,-73,257,False
+Troy Williams,4,9,29,0,Jump Shot,19,-158,116,True
+Troy Williams,4,6,6,0,Jump Shot,27,-162,225,False
+Troy Williams,4,2,17,0,Jump Shot,27,159,222,False
+Troy Williams,4,1,59,0,Jump Shot,25,34,256,False
+Troy Williams,2,11,8,1,Jump Shot,27,-194,189,False
+Troy Williams,4,8,31,0,Jump Shot,25,174,185,False
+Troy Williams,2,7,12,0,Jump Shot,25,130,217,False
+Troy Williams,2,9,35,1,Jump Shot,24,-195,144,False
+Troy Williams,2,10,28,0,Layup Shot,3,-33,22,True
+Troy Williams,2,2,42,0,Layup Shot,3,-24,27,True
+Troy Williams,4,11,28,1,Pullup Jump shot,25,-121,228,False
+Troy Williams,4,6,41,1,Putback Dunk Shot,0,0,-6,True
+Troy Williams,2,6,55,1,Putback Dunk Shot,0,0,-6,True
+Troy Williams,4,2,20,1,Reverse Dunk Shot,0,0,1,True
+Troy Williams,2,6,17,1,Reverse Layup Shot,1,-13,0,True
+Troy Williams,1,1,0,0,Reverse Layup Shot,1,-11,-4,True
+Troy Williams,2,6,27,0,Reverse Layup Shot,1,13,6,True
+Troy Williams,2,8,39,1,Running Dunk Shot,1,-8,13,True
+Troy Williams,2,7,55,1,Running Dunk Shot,1,-2,17,True
+Troy Williams,4,2,8,0,Step Back Jump shot,21,-53,209,True
+Troy Williams,4,2,24,1,Step Back Jump shot,20,11,201,True
+Troy Williams,4,6,10,0,Tip Dunk Shot,0,0,-6,True
+Troy Williams,1,1,14,0,Tip Layup Shot,2,0,23,True
+Troy Williams,4,0,54,0,Tip Layup Shot,0,0,-6,True
+Troy Williams,2,7,35,1,Tip Layup Shot,0,0,-6,True
+Troy Williams,3,6,7,0,Tip Layup Shot,0,0,-6,True
+Troy Williams,4,1,12,1,Tip Layup Shot,0,0,-6,True
+Troy Williams,3,0,0,0,Tip Layup Shot,0,0,-6,True

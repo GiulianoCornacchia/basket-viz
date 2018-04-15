@@ -1,0 +1,19 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Alan Williams,4,6,39,1,Cutting Finger Roll Layup Shot,1,2,19,True
+Alan Williams,4,9,0,0,Cutting Layup Shot,3,-3,33,True
+Alan Williams,4,1,59,0,Driving Layup Shot,6,-44,43,True
+Alan Williams,2,7,51,0,Floating Jump shot,10,-18,105,True
+Alan Williams,3,4,37,1,Floating Jump shot,5,-18,53,True
+Alan Williams,3,4,47,0,Floating Jump shot,7,2,77,True
+Alan Williams,3,4,57,0,Hook Shot,9,-19,93,True
+Alan Williams,4,1,8,0,Hook Shot,10,82,61,True
+Alan Williams,2,11,17,1,Jump Shot,2,-1,25,True
+Alan Williams,3,5,21,0,Layup Shot,2,7,29,True
+Alan Williams,2,11,46,1,Layup Shot,0,6,-5,True
+Alan Williams,2,11,34,1,Reverse Layup Shot,0,-3,1,True
+Alan Williams,1,8,41,1,Turnaround Fadeaway Bank Jump Shot,5,24,49,True
+Alan Williams,4,11,17,0,Turnaround Hook Shot,7,44,63,True
+Alan Williams,3,5,54,0,Turnaround Hook Shot,11,-52,105,True
+Alan Williams,2,6,37,0,Turnaround Hook Shot,2,6,29,True
+Alan Williams,3,6,46,1,Turnaround Hook Shot,6,63,-4,True
+Alan Williams,2,10,26,0,Turnaround Jump Shot,6,-66,13,True

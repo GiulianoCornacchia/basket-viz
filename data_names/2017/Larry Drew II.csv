@@ -1,0 +1,25 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Larry Drew II,4,1,16,0,Driving Floating Jump Shot,7,6,73,True
+Larry Drew II,1,4,5,0,Driving Layup Shot,5,-3,58,True
+Larry Drew II,4,10,10,0,Driving Layup Shot,2,24,6,True
+Larry Drew II,4,6,26,1,Driving Layup Shot,0,-7,6,True
+Larry Drew II,4,2,22,0,Driving Layup Shot,5,-6,52,True
+Larry Drew II,4,0,23,1,Driving Layup Shot,1,3,16,True
+Larry Drew II,4,3,50,0,Driving Reverse Layup Shot,0,0,0,True
+Larry Drew II,4,8,37,1,Jump Bank Shot,23,235,8,False
+Larry Drew II,2,10,15,0,Jump Shot,24,-179,172,False
+Larry Drew II,4,0,30,0,Jump Shot,25,158,194,False
+Larry Drew II,1,0,31,1,Jump Shot,19,96,174,True
+Larry Drew II,4,5,13,1,Jump Shot,25,116,230,False
+Larry Drew II,4,7,4,0,Jump Shot,17,-168,41,True
+Larry Drew II,2,6,48,1,Jump Shot,26,231,128,False
+Larry Drew II,2,7,38,0,Jump Shot,25,-170,193,False
+Larry Drew II,4,0,47,0,Jump Shot,27,-34,269,False
+Larry Drew II,4,3,45,0,Jump Shot,23,-231,-7,False
+Larry Drew II,2,9,4,0,Pullup Jump shot,26,-147,222,False
+Larry Drew II,4,6,51,0,Pullup Jump shot,17,95,151,True
+Larry Drew II,4,0,38,0,Step Back Jump shot,21,-35,216,True
+Larry Drew II,4,1,39,0,Step Back Jump shot,13,107,84,True
+Larry Drew II,4,1,2,0,Step Back Jump shot,19,-66,179,True
+Larry Drew II,4,1,46,0,Step Back Jump shot,19,-92,168,True
+Larry Drew II,4,4,2,1,Step Back Jump shot,17,8,172,True

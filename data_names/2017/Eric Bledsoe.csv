@@ -1,0 +1,893 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Eric Bledsoe,4,8,5,1,Alley Oop Dunk Shot,1,10,12,True
+Eric Bledsoe,1,7,20,1,Alley Oop Dunk Shot,0,2,2,True
+Eric Bledsoe,4,8,25,1,Alley Oop Dunk Shot,0,-5,3,True
+Eric Bledsoe,1,5,29,1,Alley Oop Dunk Shot,1,-3,10,True
+Eric Bledsoe,1,11,50,1,Alley Oop Dunk Shot,1,2,15,True
+Eric Bledsoe,3,5,25,0,Alley Oop Layup shot,1,7,11,True
+Eric Bledsoe,1,8,53,1,Alley Oop Layup shot,0,2,9,True
+Eric Bledsoe,1,10,44,1,Alley Oop Layup shot,0,2,8,True
+Eric Bledsoe,4,3,2,1,Cutting Layup Shot,0,4,5,True
+Eric Bledsoe,1,4,37,1,Cutting Layup Shot,1,-11,8,True
+Eric Bledsoe,3,10,24,1,Cutting Layup Shot,0,0,9,True
+Eric Bledsoe,1,3,15,1,Cutting Layup Shot,0,3,5,True
+Eric Bledsoe,1,4,47,0,Cutting Layup Shot,1,11,-10,True
+Eric Bledsoe,3,10,40,1,Cutting Layup Shot,0,-6,1,True
+Eric Bledsoe,4,5,10,0,Cutting Layup Shot,2,14,19,True
+Eric Bledsoe,2,6,49,1,Cutting Layup Shot,1,13,14,True
+Eric Bledsoe,1,5,41,1,Driving Finger Roll Layup Shot,2,-5,25,True
+Eric Bledsoe,2,1,21,1,Driving Finger Roll Layup Shot,1,-10,1,True
+Eric Bledsoe,4,8,12,1,Driving Finger Roll Layup Shot,1,2,10,True
+Eric Bledsoe,1,9,16,1,Driving Finger Roll Layup Shot,1,6,16,True
+Eric Bledsoe,4,10,5,1,Driving Finger Roll Layup Shot,0,-3,5,True
+Eric Bledsoe,1,10,11,0,Driving Finger Roll Layup Shot,0,1,4,True
+Eric Bledsoe,2,9,47,0,Driving Finger Roll Layup Shot,1,-5,14,True
+Eric Bledsoe,3,8,16,1,Driving Finger Roll Layup Shot,1,11,15,True
+Eric Bledsoe,3,8,38,1,Driving Finger Roll Layup Shot,0,1,5,True
+Eric Bledsoe,1,2,18,1,Driving Finger Roll Layup Shot,0,-2,-1,True
+Eric Bledsoe,2,2,10,1,Driving Finger Roll Layup Shot,2,23,3,True
+Eric Bledsoe,4,3,7,0,Driving Finger Roll Layup Shot,5,-29,43,True
+Eric Bledsoe,4,0,36,1,Driving Finger Roll Layup Shot,0,3,4,True
+Eric Bledsoe,2,0,39,1,Driving Finger Roll Layup Shot,1,5,14,True
+Eric Bledsoe,2,8,40,1,Driving Finger Roll Layup Shot,0,-5,0,True
+Eric Bledsoe,4,3,51,0,Driving Finger Roll Layup Shot,3,-8,32,True
+Eric Bledsoe,2,2,47,1,Driving Finger Roll Layup Shot,1,-18,5,True
+Eric Bledsoe,1,5,11,1,Driving Finger Roll Layup Shot,1,8,7,True
+Eric Bledsoe,2,0,3,1,Driving Floating Bank Jump Shot,5,-48,15,True
+Eric Bledsoe,3,3,26,1,Driving Floating Bank Jump Shot,8,-5,86,True
+Eric Bledsoe,1,10,30,0,Driving Floating Bank Jump Shot,5,-44,37,True
+Eric Bledsoe,4,6,34,1,Driving Floating Bank Jump Shot,11,95,58,True
+Eric Bledsoe,4,4,21,0,Driving Floating Bank Jump Shot,4,-38,22,True
+Eric Bledsoe,4,6,35,0,Driving Floating Bank Jump Shot,9,-3,96,True
+Eric Bledsoe,2,5,26,1,Driving Floating Bank Jump Shot,8,-73,50,True
+Eric Bledsoe,5,3,25,0,Driving Floating Jump Shot,7,0,71,True
+Eric Bledsoe,1,10,22,1,Driving Floating Jump Shot,8,-33,83,True
+Eric Bledsoe,4,1,28,0,Driving Floating Jump Shot,7,24,67,True
+Eric Bledsoe,2,2,36,0,Driving Floating Jump Shot,13,55,127,True
+Eric Bledsoe,3,10,3,1,Driving Floating Jump Shot,7,-36,69,True
+Eric Bledsoe,1,3,6,1,Driving Floating Jump Shot,6,-3,66,True
+Eric Bledsoe,2,1,6,0,Driving Floating Jump Shot,6,-35,53,True
+Eric Bledsoe,2,5,13,0,Driving Floating Jump Shot,2,10,22,True
+Eric Bledsoe,3,3,58,1,Driving Floating Jump Shot,8,-20,83,True
+Eric Bledsoe,3,9,34,0,Driving Floating Jump Shot,11,-47,108,True
+Eric Bledsoe,1,2,36,0,Driving Floating Jump Shot,4,-3,41,True
+Eric Bledsoe,1,2,54,0,Driving Floating Jump Shot,10,-25,101,True
+Eric Bledsoe,3,2,27,0,Driving Floating Jump Shot,5,-42,42,True
+Eric Bledsoe,4,2,20,1,Driving Floating Jump Shot,15,46,144,True
+Eric Bledsoe,1,8,32,0,Driving Floating Jump Shot,7,-11,75,True
+Eric Bledsoe,1,8,34,0,Driving Floating Jump Shot,16,107,132,True
+Eric Bledsoe,4,9,0,1,Driving Floating Jump Shot,5,13,49,True
+Eric Bledsoe,2,7,57,0,Driving Floating Jump Shot,14,144,-10,True
+Eric Bledsoe,2,1,22,0,Driving Floating Jump Shot,8,57,68,True
+Eric Bledsoe,1,11,32,1,Driving Floating Jump Shot,8,11,88,True
+Eric Bledsoe,3,5,7,0,Driving Floating Jump Shot,5,20,48,True
+Eric Bledsoe,3,10,48,0,Driving Floating Jump Shot,10,20,100,True
+Eric Bledsoe,1,11,19,0,Driving Floating Jump Shot,8,-29,77,True
+Eric Bledsoe,1,5,39,0,Driving Floating Jump Shot,9,-8,91,True
+Eric Bledsoe,3,6,29,0,Driving Floating Jump Shot,9,-84,54,True
+Eric Bledsoe,1,6,23,1,Driving Floating Jump Shot,7,3,77,True
+Eric Bledsoe,2,7,35,0,Driving Floating Jump Shot,14,21,143,True
+Eric Bledsoe,1,5,21,0,Driving Layup Shot,1,2,10,True
+Eric Bledsoe,1,6,3,1,Driving Layup Shot,0,5,2,True
+Eric Bledsoe,1,10,39,0,Driving Layup Shot,3,-37,11,True
+Eric Bledsoe,4,4,6,0,Driving Layup Shot,0,-2,0,True
+Eric Bledsoe,3,3,38,0,Driving Layup Shot,2,14,24,True
+Eric Bledsoe,2,1,31,0,Driving Layup Shot,1,8,11,True
+Eric Bledsoe,2,4,22,1,Driving Layup Shot,1,5,13,True
+Eric Bledsoe,3,3,6,1,Driving Layup Shot,1,-16,9,True
+Eric Bledsoe,3,11,10,1,Driving Layup Shot,0,-2,5,True
+Eric Bledsoe,1,10,50,1,Driving Layup Shot,2,7,25,True
+Eric Bledsoe,3,5,6,1,Driving Layup Shot,1,14,9,True
+Eric Bledsoe,4,4,19,1,Driving Layup Shot,1,5,11,True
+Eric Bledsoe,3,6,26,0,Driving Layup Shot,4,6,46,True
+Eric Bledsoe,1,6,24,0,Driving Layup Shot,1,-8,7,True
+Eric Bledsoe,1,8,49,1,Driving Layup Shot,1,4,10,True
+Eric Bledsoe,3,7,40,0,Driving Layup Shot,1,-2,15,True
+Eric Bledsoe,5,2,35,1,Driving Layup Shot,1,-6,17,True
+Eric Bledsoe,1,2,25,1,Driving Layup Shot,2,12,16,True
+Eric Bledsoe,3,11,26,1,Driving Layup Shot,1,-3,-10,True
+Eric Bledsoe,4,4,47,0,Driving Layup Shot,0,3,2,True
+Eric Bledsoe,1,0,37,1,Driving Layup Shot,0,0,4,True
+Eric Bledsoe,2,1,17,0,Driving Layup Shot,2,9,21,True
+Eric Bledsoe,2,0,4,0,Driving Layup Shot,2,-16,17,True
+Eric Bledsoe,4,4,40,1,Driving Layup Shot,1,-14,0,True
+Eric Bledsoe,4,0,32,0,Driving Layup Shot,0,-2,-2,True
+Eric Bledsoe,4,8,2,1,Driving Layup Shot,1,2,16,True
+Eric Bledsoe,4,1,20,1,Driving Layup Shot,1,1,13,True
+Eric Bledsoe,5,0,19,1,Driving Layup Shot,2,4,28,True
+Eric Bledsoe,2,0,18,1,Driving Layup Shot,1,-6,9,True
+Eric Bledsoe,4,3,10,0,Driving Layup Shot,1,-3,11,True
+Eric Bledsoe,2,6,47,1,Driving Layup Shot,0,-7,2,True
+Eric Bledsoe,1,10,21,1,Driving Layup Shot,0,5,7,True
+Eric Bledsoe,2,4,22,0,Driving Layup Shot,3,11,38,True
+Eric Bledsoe,2,4,19,1,Driving Layup Shot,2,-10,28,True
+Eric Bledsoe,2,7,17,1,Driving Layup Shot,0,1,5,True
+Eric Bledsoe,1,10,50,1,Driving Layup Shot,0,3,5,True
+Eric Bledsoe,4,8,49,1,Driving Layup Shot,0,6,6,True
+Eric Bledsoe,2,6,52,0,Driving Layup Shot,1,-9,11,True
+Eric Bledsoe,3,2,20,0,Driving Layup Shot,3,20,29,True
+Eric Bledsoe,1,10,50,1,Driving Layup Shot,1,8,11,True
+Eric Bledsoe,1,3,45,0,Driving Layup Shot,5,-27,43,True
+Eric Bledsoe,4,3,0,1,Driving Layup Shot,5,9,50,True
+Eric Bledsoe,4,4,29,0,Driving Layup Shot,2,-5,25,True
+Eric Bledsoe,2,6,9,1,Driving Layup Shot,0,5,4,True
+Eric Bledsoe,3,2,7,1,Driving Layup Shot,1,-6,9,True
+Eric Bledsoe,2,1,24,0,Driving Layup Shot,1,4,13,True
+Eric Bledsoe,2,5,43,0,Driving Layup Shot,2,9,20,True
+Eric Bledsoe,1,4,7,1,Driving Layup Shot,3,14,31,True
+Eric Bledsoe,3,6,7,1,Driving Layup Shot,2,-16,13,True
+Eric Bledsoe,4,7,34,1,Driving Layup Shot,2,14,16,True
+Eric Bledsoe,3,10,19,0,Driving Layup Shot,2,-2,28,True
+Eric Bledsoe,4,3,5,1,Driving Layup Shot,2,-18,12,True
+Eric Bledsoe,2,3,35,1,Driving Layup Shot,1,-10,10,True
+Eric Bledsoe,2,10,0,1,Driving Layup Shot,1,-2,11,True
+Eric Bledsoe,4,1,30,1,Driving Layup Shot,0,2,8,True
+Eric Bledsoe,1,0,0,0,Driving Layup Shot,1,8,8,True
+Eric Bledsoe,3,3,40,1,Driving Layup Shot,1,-2,14,True
+Eric Bledsoe,3,5,31,1,Driving Layup Shot,2,-20,12,True
+Eric Bledsoe,3,11,20,0,Driving Layup Shot,7,-62,34,True
+Eric Bledsoe,3,4,32,0,Driving Layup Shot,2,18,15,True
+Eric Bledsoe,4,3,2,0,Driving Layup Shot,2,-5,25,True
+Eric Bledsoe,2,6,23,1,Driving Layup Shot,1,2,11,True
+Eric Bledsoe,2,5,21,1,Driving Layup Shot,1,16,0,True
+Eric Bledsoe,4,1,49,1,Driving Layup Shot,2,-20,20,True
+Eric Bledsoe,4,0,13,1,Driving Layup Shot,1,-2,13,True
+Eric Bledsoe,5,0,14,0,Driving Layup Shot,4,30,31,True
+Eric Bledsoe,5,4,18,0,Driving Layup Shot,2,26,11,True
+Eric Bledsoe,4,1,46,1,Driving Layup Shot,1,-2,13,True
+Eric Bledsoe,2,8,3,0,Driving Layup Shot,1,-16,11,True
+Eric Bledsoe,4,9,24,1,Driving Layup Shot,0,0,9,True
+Eric Bledsoe,3,7,4,1,Driving Layup Shot,0,-2,4,True
+Eric Bledsoe,3,6,53,0,Driving Layup Shot,2,-22,14,True
+Eric Bledsoe,4,6,24,0,Driving Layup Shot,7,-11,70,True
+Eric Bledsoe,4,3,2,1,Driving Layup Shot,1,1,13,True
+Eric Bledsoe,2,4,38,1,Driving Layup Shot,1,6,15,True
+Eric Bledsoe,3,5,16,1,Driving Layup Shot,2,-16,16,True
+Eric Bledsoe,2,4,48,1,Driving Layup Shot,2,-1,21,True
+Eric Bledsoe,3,6,11,1,Driving Layup Shot,1,11,13,True
+Eric Bledsoe,3,9,35,1,Driving Layup Shot,1,16,10,True
+Eric Bledsoe,1,5,34,1,Driving Layup Shot,2,16,15,True
+Eric Bledsoe,2,5,45,0,Driving Layup Shot,4,18,36,True
+Eric Bledsoe,2,10,46,0,Driving Layup Shot,0,-3,6,True
+Eric Bledsoe,3,6,50,1,Driving Layup Shot,1,15,12,True
+Eric Bledsoe,3,8,2,1,Driving Layup Shot,1,-5,15,True
+Eric Bledsoe,3,5,37,0,Driving Layup Shot,5,-3,56,True
+Eric Bledsoe,1,0,48,1,Driving Layup Shot,0,1,-2,True
+Eric Bledsoe,1,9,27,1,Driving Layup Shot,0,8,5,True
+Eric Bledsoe,4,7,32,1,Driving Layup Shot,1,12,10,True
+Eric Bledsoe,2,0,22,1,Driving Layup Shot,1,3,10,True
+Eric Bledsoe,3,3,16,1,Driving Layup Shot,3,-30,19,True
+Eric Bledsoe,1,5,8,1,Driving Layup Shot,0,-6,-1,True
+Eric Bledsoe,1,9,53,1,Driving Layup Shot,1,16,10,True
+Eric Bledsoe,2,5,20,0,Driving Layup Shot,1,-8,6,True
+Eric Bledsoe,2,6,22,1,Driving Layup Shot,0,0,8,True
+Eric Bledsoe,4,6,2,0,Driving Layup Shot,2,-1,21,True
+Eric Bledsoe,4,2,22,1,Driving Layup Shot,0,-9,4,True
+Eric Bledsoe,1,0,0,0,Driving Layup Shot,10,107,12,True
+Eric Bledsoe,2,5,3,1,Driving Layup Shot,2,10,25,True
+Eric Bledsoe,1,8,41,1,Driving Layup Shot,1,6,15,True
+Eric Bledsoe,2,0,0,0,Driving Layup Shot,7,-79,6,True
+Eric Bledsoe,3,7,31,0,Driving Layup Shot,1,-6,13,True
+Eric Bledsoe,3,4,16,1,Driving Layup Shot,1,-6,10,True
+Eric Bledsoe,4,2,11,1,Driving Layup Shot,1,17,-4,True
+Eric Bledsoe,3,0,4,1,Driving Layup Shot,1,-3,14,True
+Eric Bledsoe,3,8,0,0,Driving Layup Shot,0,-3,5,True
+Eric Bledsoe,2,6,9,0,Driving Layup Shot,2,10,20,True
+Eric Bledsoe,4,2,6,0,Driving Layup Shot,0,-3,1,True
+Eric Bledsoe,3,4,24,0,Driving Layup Shot,1,-6,10,True
+Eric Bledsoe,1,4,45,1,Driving Layup Shot,0,-6,6,True
+Eric Bledsoe,2,1,20,1,Driving Layup Shot,2,6,23,True
+Eric Bledsoe,2,3,45,0,Driving Layup Shot,3,32,4,True
+Eric Bledsoe,1,2,43,0,Driving Layup Shot,1,8,12,True
+Eric Bledsoe,2,5,50,1,Driving Layup Shot,1,-5,15,True
+Eric Bledsoe,4,8,47,1,Driving Layup Shot,0,2,-5,True
+Eric Bledsoe,1,4,36,0,Driving Layup Shot,2,-11,19,True
+Eric Bledsoe,4,6,43,1,Driving Layup Shot,1,-6,12,True
+Eric Bledsoe,2,7,50,1,Driving Layup Shot,1,5,18,True
+Eric Bledsoe,3,9,48,0,Driving Layup Shot,0,-2,2,True
+Eric Bledsoe,4,9,18,0,Driving Layup Shot,3,-11,37,True
+Eric Bledsoe,4,1,17,1,Driving Layup Shot,1,-2,10,True
+Eric Bledsoe,3,6,13,1,Driving Layup Shot,1,3,12,True
+Eric Bledsoe,5,0,7,1,Driving Layup Shot,3,29,12,True
+Eric Bledsoe,4,6,47,0,Driving Layup Shot,1,3,17,True
+Eric Bledsoe,3,0,31,0,Driving Layup Shot,5,-39,32,True
+Eric Bledsoe,3,6,6,1,Driving Layup Shot,1,-14,13,True
+Eric Bledsoe,2,4,48,0,Driving Reverse Layup Shot,0,6,4,True
+Eric Bledsoe,4,1,27,1,Driving Reverse Layup Shot,1,6,8,True
+Eric Bledsoe,2,4,33,0,Driving Reverse Layup Shot,2,20,13,True
+Eric Bledsoe,1,1,2,0,Driving Reverse Layup Shot,1,13,8,True
+Eric Bledsoe,1,7,29,1,Driving Reverse Layup Shot,2,-19,14,True
+Eric Bledsoe,3,5,34,1,Driving Reverse Layup Shot,0,-2,5,True
+Eric Bledsoe,4,5,49,1,Driving Reverse Layup Shot,1,1,15,True
+Eric Bledsoe,4,4,58,1,Driving Reverse Layup Shot,2,-3,21,True
+Eric Bledsoe,1,9,14,0,Driving Reverse Layup Shot,2,-3,22,True
+Eric Bledsoe,2,5,37,0,Fadeaway Jump Shot,12,5,127,True
+Eric Bledsoe,1,8,41,0,Fadeaway Jump Shot,10,-58,87,True
+Eric Bledsoe,3,6,27,1,Fadeaway Jump Shot,14,-139,28,True
+Eric Bledsoe,2,7,47,1,Fadeaway Jump Shot,8,13,79,True
+Eric Bledsoe,1,9,33,1,Fadeaway Jump Shot,12,9,121,True
+Eric Bledsoe,1,5,32,1,Fadeaway Jump Shot,10,-2,105,True
+Eric Bledsoe,1,9,15,1,Fadeaway Jump Shot,11,-114,26,True
+Eric Bledsoe,3,9,28,0,Fadeaway Jump Shot,9,-90,13,True
+Eric Bledsoe,1,3,28,0,Fadeaway Jump Shot,11,-109,16,True
+Eric Bledsoe,4,7,58,0,Fadeaway Jump Shot,8,-35,76,True
+Eric Bledsoe,2,3,41,1,Fadeaway Jump Shot,19,185,59,True
+Eric Bledsoe,2,1,46,0,Fadeaway Jump Shot,26,125,234,False
+Eric Bledsoe,1,10,24,1,Fadeaway Jump Shot,20,90,183,True
+Eric Bledsoe,3,2,44,1,Finger Roll Layup Shot,1,-2,17,True
+Eric Bledsoe,3,1,20,0,Finger Roll Layup Shot,3,26,26,True
+Eric Bledsoe,2,8,7,1,Floating Jump shot,6,35,54,True
+Eric Bledsoe,3,7,41,0,Floating Jump shot,13,15,130,True
+Eric Bledsoe,3,11,38,1,Floating Jump shot,8,-6,85,True
+Eric Bledsoe,3,4,54,1,Floating Jump shot,9,90,20,True
+Eric Bledsoe,4,5,48,1,Floating Jump shot,5,-28,48,True
+Eric Bledsoe,3,3,13,1,Floating Jump shot,7,8,78,True
+Eric Bledsoe,3,4,54,1,Floating Jump shot,9,-36,84,True
+Eric Bledsoe,3,9,28,1,Floating Jump shot,7,3,71,True
+Eric Bledsoe,2,2,6,0,Floating Jump shot,1,-6,18,True
+Eric Bledsoe,4,5,50,0,Floating Jump shot,6,3,63,True
+Eric Bledsoe,3,4,41,1,Floating Jump shot,7,-27,75,True
+Eric Bledsoe,1,8,13,1,Floating Jump shot,12,54,110,True
+Eric Bledsoe,4,2,7,0,Floating Jump shot,9,-13,94,True
+Eric Bledsoe,2,7,13,0,Hook Shot,3,30,11,True
+Eric Bledsoe,2,2,40,1,Jump Bank Shot,7,-48,52,True
+Eric Bledsoe,3,3,48,0,Jump Bank Shot,16,-135,88,True
+Eric Bledsoe,3,9,17,1,Jump Bank Shot,14,73,126,True
+Eric Bledsoe,1,7,15,0,Jump Bank Shot,9,-89,28,True
+Eric Bledsoe,2,0,34,0,Jump Bank Shot,41,-209,355,False
+Eric Bledsoe,4,3,30,1,Jump Bank Shot,11,108,46,True
+Eric Bledsoe,1,7,49,0,Jump Shot,28,-165,230,False
+Eric Bledsoe,3,2,30,1,Jump Shot,25,-124,222,False
+Eric Bledsoe,1,9,3,1,Jump Shot,26,-110,241,False
+Eric Bledsoe,4,5,11,0,Jump Shot,25,-112,231,False
+Eric Bledsoe,2,2,13,0,Jump Shot,27,-96,254,False
+Eric Bledsoe,4,7,41,0,Jump Shot,20,67,194,True
+Eric Bledsoe,1,8,0,0,Jump Shot,23,232,27,False
+Eric Bledsoe,2,8,0,0,Jump Shot,27,-23,274,False
+Eric Bledsoe,2,2,6,0,Jump Shot,26,49,256,False
+Eric Bledsoe,3,11,37,1,Jump Shot,18,185,6,True
+Eric Bledsoe,4,1,33,1,Jump Shot,26,182,194,False
+Eric Bledsoe,3,5,36,1,Jump Shot,22,108,202,True
+Eric Bledsoe,2,6,0,1,Jump Shot,15,45,145,True
+Eric Bledsoe,3,3,34,1,Jump Shot,25,-159,193,False
+Eric Bledsoe,4,4,51,0,Jump Shot,26,-144,228,False
+Eric Bledsoe,1,5,31,0,Jump Shot,27,-133,246,False
+Eric Bledsoe,1,7,21,1,Jump Shot,26,-124,231,False
+Eric Bledsoe,4,0,7,0,Jump Shot,20,112,175,True
+Eric Bledsoe,4,4,56,0,Jump Shot,26,-161,212,False
+Eric Bledsoe,4,1,7,0,Jump Shot,23,234,32,False
+Eric Bledsoe,2,0,28,1,Jump Shot,15,84,136,True
+Eric Bledsoe,3,2,23,1,Jump Shot,23,232,23,False
+Eric Bledsoe,4,2,49,1,Jump Shot,26,139,220,False
+Eric Bledsoe,3,8,2,1,Jump Shot,24,-74,238,False
+Eric Bledsoe,4,6,33,1,Jump Shot,25,138,212,False
+Eric Bledsoe,1,10,39,1,Jump Shot,26,-85,247,False
+Eric Bledsoe,2,2,7,0,Jump Shot,25,-118,225,False
+Eric Bledsoe,1,11,19,1,Jump Shot,23,230,67,False
+Eric Bledsoe,1,4,57,1,Jump Shot,26,6,262,False
+Eric Bledsoe,2,3,28,1,Jump Shot,25,-46,251,False
+Eric Bledsoe,2,0,0,0,Jump Shot,41,16,417,False
+Eric Bledsoe,3,7,33,1,Jump Shot,25,111,231,False
+Eric Bledsoe,3,11,46,1,Jump Shot,26,-165,213,False
+Eric Bledsoe,2,1,54,0,Jump Shot,24,-200,147,False
+Eric Bledsoe,1,6,8,1,Jump Shot,21,-111,184,True
+Eric Bledsoe,4,0,24,0,Jump Shot,25,-27,251,False
+Eric Bledsoe,3,6,41,1,Jump Shot,16,-95,135,True
+Eric Bledsoe,3,8,37,0,Jump Shot,25,-144,216,False
+Eric Bledsoe,3,4,54,0,Jump Shot,24,-24,247,False
+Eric Bledsoe,4,4,46,0,Jump Shot,21,-38,214,True
+Eric Bledsoe,2,0,0,0,Jump Shot,41,-102,398,False
+Eric Bledsoe,4,3,31,1,Jump Shot,15,-29,152,True
+Eric Bledsoe,2,1,11,1,Jump Shot,10,98,29,True
+Eric Bledsoe,4,0,12,0,Jump Shot,28,184,216,False
+Eric Bledsoe,3,10,57,1,Jump Shot,26,222,142,False
+Eric Bledsoe,4,0,31,1,Jump Shot,25,131,213,False
+Eric Bledsoe,3,3,37,0,Jump Shot,24,-22,245,False
+Eric Bledsoe,1,11,47,1,Jump Shot,19,-111,165,True
+Eric Bledsoe,4,4,17,0,Jump Shot,25,9,253,False
+Eric Bledsoe,4,3,54,0,Jump Shot,23,-231,-1,False
+Eric Bledsoe,1,5,56,0,Jump Shot,23,234,12,False
+Eric Bledsoe,4,1,46,1,Jump Shot,26,-106,242,False
+Eric Bledsoe,3,9,40,0,Jump Shot,25,-223,125,False
+Eric Bledsoe,3,6,54,0,Jump Shot,26,-119,235,False
+Eric Bledsoe,3,4,24,0,Jump Shot,26,-164,214,False
+Eric Bledsoe,2,0,2,0,Jump Shot,22,-225,35,False
+Eric Bledsoe,2,3,5,0,Jump Shot,22,110,195,True
+Eric Bledsoe,4,2,16,0,Jump Shot,25,-139,217,False
+Eric Bledsoe,4,1,17,0,Jump Shot,26,-195,186,False
+Eric Bledsoe,1,10,8,0,Jump Shot,23,234,27,False
+Eric Bledsoe,1,8,42,0,Jump Shot,25,-76,243,False
+Eric Bledsoe,2,2,10,0,Jump Shot,14,50,136,True
+Eric Bledsoe,2,5,28,1,Jump Shot,27,-90,261,False
+Eric Bledsoe,4,0,52,0,Jump Shot,17,-114,127,True
+Eric Bledsoe,4,4,55,0,Jump Shot,26,-101,249,False
+Eric Bledsoe,4,8,56,0,Jump Shot,20,122,168,True
+Eric Bledsoe,1,10,25,0,Jump Shot,28,168,227,False
+Eric Bledsoe,4,6,3,0,Jump Shot,27,-181,202,False
+Eric Bledsoe,1,11,10,1,Jump Shot,23,-233,-18,False
+Eric Bledsoe,3,11,39,0,Jump Shot,17,-106,137,True
+Eric Bledsoe,3,1,49,1,Jump Shot,23,-235,15,False
+Eric Bledsoe,4,10,10,0,Jump Shot,26,-116,237,False
+Eric Bledsoe,3,9,11,0,Jump Shot,29,-157,253,False
+Eric Bledsoe,1,3,17,0,Jump Shot,25,11,256,False
+Eric Bledsoe,1,3,52,0,Jump Shot,23,239,6,False
+Eric Bledsoe,3,7,47,0,Jump Shot,25,-49,251,False
+Eric Bledsoe,1,10,49,0,Jump Shot,26,-207,160,False
+Eric Bledsoe,1,0,56,1,Jump Shot,19,8,191,True
+Eric Bledsoe,4,7,5,1,Jump Shot,25,-158,198,False
+Eric Bledsoe,4,11,49,0,Jump Shot,13,133,17,True
+Eric Bledsoe,2,11,12,1,Jump Shot,25,162,196,False
+Eric Bledsoe,3,8,45,0,Jump Shot,26,-147,220,False
+Eric Bledsoe,1,7,18,0,Jump Shot,10,95,39,True
+Eric Bledsoe,3,0,40,0,Jump Shot,16,95,137,True
+Eric Bledsoe,2,10,7,1,Jump Shot,16,-2,162,True
+Eric Bledsoe,4,4,35,1,Jump Shot,26,-144,225,False
+Eric Bledsoe,1,9,11,0,Jump Shot,9,98,-14,True
+Eric Bledsoe,2,3,17,0,Jump Shot,27,-168,212,False
+Eric Bledsoe,1,5,59,0,Jump Shot,14,145,8,True
+Eric Bledsoe,4,0,13,0,Jump Shot,26,158,210,False
+Eric Bledsoe,2,8,31,1,Jump Shot,25,212,147,False
+Eric Bledsoe,3,7,57,0,Jump Shot,26,194,180,False
+Eric Bledsoe,1,3,43,1,Jump Shot,25,122,226,False
+Eric Bledsoe,1,8,49,1,Jump Shot,25,154,198,False
+Eric Bledsoe,3,4,46,0,Jump Shot,26,-147,215,False
+Eric Bledsoe,3,9,15,1,Jump Shot,23,231,32,False
+Eric Bledsoe,4,3,6,0,Jump Shot,27,-167,222,False
+Eric Bledsoe,3,10,22,0,Jump Shot,25,228,114,False
+Eric Bledsoe,2,5,55,1,Jump Shot,26,-103,248,False
+Eric Bledsoe,4,5,52,0,Jump Shot,24,225,103,False
+Eric Bledsoe,4,0,51,0,Jump Shot,27,-113,252,False
+Eric Bledsoe,3,6,20,1,Jump Shot,23,229,57,False
+Eric Bledsoe,3,5,44,0,Jump Shot,14,11,143,True
+Eric Bledsoe,4,4,29,1,Jump Shot,26,-29,264,False
+Eric Bledsoe,3,11,1,0,Jump Shot,20,12,206,True
+Eric Bledsoe,1,5,21,0,Jump Shot,25,-220,138,False
+Eric Bledsoe,3,8,5,0,Jump Shot,18,18,189,True
+Eric Bledsoe,4,4,6,0,Jump Shot,25,-178,179,False
+Eric Bledsoe,1,5,52,1,Jump Shot,28,-70,273,False
+Eric Bledsoe,2,1,52,0,Jump Shot,28,-99,268,False
+Eric Bledsoe,4,0,32,1,Jump Shot,17,104,137,True
+Eric Bledsoe,2,4,21,1,Jump Shot,22,-228,-8,False
+Eric Bledsoe,3,6,30,1,Jump Shot,22,-225,-9,False
+Eric Bledsoe,3,1,27,1,Jump Shot,25,225,122,False
+Eric Bledsoe,2,4,53,0,Jump Shot,18,63,176,True
+Eric Bledsoe,3,7,26,0,Jump Shot,26,-158,216,False
+Eric Bledsoe,1,9,51,0,Jump Shot,24,-225,104,False
+Eric Bledsoe,4,7,48,0,Jump Shot,16,-84,146,True
+Eric Bledsoe,3,5,53,1,Jump Shot,25,70,249,False
+Eric Bledsoe,3,10,18,0,Jump Shot,22,228,29,False
+Eric Bledsoe,1,9,27,0,Jump Shot,16,-9,169,True
+Eric Bledsoe,1,7,20,0,Jump Shot,26,61,262,False
+Eric Bledsoe,4,4,32,1,Jump Shot,26,-114,237,False
+Eric Bledsoe,1,2,59,0,Jump Shot,26,124,230,False
+Eric Bledsoe,3,6,41,1,Jump Shot,26,77,253,False
+Eric Bledsoe,3,3,42,0,Jump Shot,26,68,251,False
+Eric Bledsoe,2,3,18,1,Jump Shot,23,233,2,False
+Eric Bledsoe,4,0,53,1,Jump Shot,24,106,222,False
+Eric Bledsoe,2,0,53,0,Jump Shot,26,-197,181,False
+Eric Bledsoe,3,4,37,0,Jump Shot,25,149,212,False
+Eric Bledsoe,3,7,31,1,Jump Shot,27,51,268,False
+Eric Bledsoe,3,8,21,0,Jump Shot,24,-166,186,False
+Eric Bledsoe,1,3,51,0,Jump Shot,22,-225,14,False
+Eric Bledsoe,2,3,13,0,Jump Shot,25,89,237,False
+Eric Bledsoe,1,7,46,0,Jump Shot,24,-171,180,False
+Eric Bledsoe,4,9,37,0,Jump Shot,26,-154,215,False
+Eric Bledsoe,4,2,24,0,Jump Shot,26,-224,149,False
+Eric Bledsoe,1,7,21,1,Jump Shot,25,-194,172,False
+Eric Bledsoe,1,8,29,0,Jump Shot,23,-232,-12,False
+Eric Bledsoe,1,11,43,0,Jump Shot,19,-64,180,True
+Eric Bledsoe,2,4,48,1,Jump Shot,25,-171,189,False
+Eric Bledsoe,4,4,13,1,Jump Shot,24,192,160,False
+Eric Bledsoe,2,4,10,0,Jump Shot,26,69,253,False
+Eric Bledsoe,3,11,38,1,Jump Shot,22,224,52,False
+Eric Bledsoe,1,10,16,0,Jump Shot,8,49,74,True
+Eric Bledsoe,1,10,53,1,Jump Shot,20,-11,209,True
+Eric Bledsoe,1,9,32,1,Jump Shot,19,-133,138,True
+Eric Bledsoe,2,5,40,0,Jump Shot,26,-104,241,False
+Eric Bledsoe,3,6,25,0,Jump Shot,24,85,232,False
+Eric Bledsoe,1,2,52,0,Jump Shot,25,-107,233,False
+Eric Bledsoe,2,1,32,0,Jump Shot,24,144,204,False
+Eric Bledsoe,1,11,41,0,Jump Shot,25,179,176,False
+Eric Bledsoe,3,5,16,0,Jump Shot,25,-52,247,False
+Eric Bledsoe,1,3,28,1,Jump Shot,25,-137,217,False
+Eric Bledsoe,3,7,47,0,Jump Shot,25,-117,226,False
+Eric Bledsoe,2,5,44,0,Jump Shot,27,83,257,False
+Eric Bledsoe,3,7,32,0,Jump Shot,27,128,238,False
+Eric Bledsoe,3,10,14,0,Jump Shot,25,-214,138,False
+Eric Bledsoe,3,5,6,0,Jump Shot,26,-219,143,False
+Eric Bledsoe,3,5,42,1,Jump Shot,26,-111,244,False
+Eric Bledsoe,1,7,55,0,Jump Shot,19,67,184,True
+Eric Bledsoe,4,5,5,0,Jump Shot,19,107,164,True
+Eric Bledsoe,3,7,55,1,Jump Shot,14,141,-1,True
+Eric Bledsoe,1,9,43,0,Jump Shot,14,-3,142,True
+Eric Bledsoe,3,9,57,0,Jump Shot,17,-136,116,True
+Eric Bledsoe,2,1,45,1,Jump Shot,23,235,22,False
+Eric Bledsoe,4,0,58,1,Jump Shot,27,-213,168,False
+Eric Bledsoe,3,8,52,0,Jump Shot,23,-230,8,False
+Eric Bledsoe,1,10,21,0,Jump Shot,19,-157,120,True
+Eric Bledsoe,2,2,4,0,Jump Shot,4,33,25,True
+Eric Bledsoe,2,6,47,0,Jump Shot,17,-64,163,True
+Eric Bledsoe,1,4,15,1,Jump Shot,9,83,35,True
+Eric Bledsoe,3,1,29,0,Jump Shot,25,74,241,False
+Eric Bledsoe,3,6,23,0,Jump Shot,26,-158,211,False
+Eric Bledsoe,2,1,53,1,Jump Shot,26,-145,223,False
+Eric Bledsoe,3,5,4,1,Jump Shot,16,-98,138,True
+Eric Bledsoe,4,8,41,0,Jump Shot,23,232,19,False
+Eric Bledsoe,4,3,2,0,Jump Shot,23,237,1,False
+Eric Bledsoe,4,0,3,0,Jump Shot,27,138,242,False
+Eric Bledsoe,3,8,19,0,Jump Shot,26,136,231,False
+Eric Bledsoe,1,5,20,0,Jump Shot,25,101,237,False
+Eric Bledsoe,4,5,5,0,Jump Shot,15,-63,138,True
+Eric Bledsoe,3,10,48,0,Jump Shot,18,131,131,True
+Eric Bledsoe,1,4,10,0,Jump Shot,26,-94,248,False
+Eric Bledsoe,3,5,36,0,Jump Shot,11,28,111,True
+Eric Bledsoe,2,1,14,0,Jump Shot,26,118,233,False
+Eric Bledsoe,4,2,1,0,Jump Shot,27,177,209,False
+Eric Bledsoe,3,4,2,0,Jump Shot,24,161,190,False
+Eric Bledsoe,3,0,30,0,Jump Shot,24,-209,122,False
+Eric Bledsoe,4,0,40,0,Jump Shot,25,-113,226,False
+Eric Bledsoe,2,7,22,0,Jump Shot,12,-104,68,True
+Eric Bledsoe,3,10,30,0,Jump Shot,24,40,245,False
+Eric Bledsoe,3,5,57,0,Jump Shot,24,-147,199,False
+Eric Bledsoe,2,6,29,1,Jump Shot,27,-115,248,False
+Eric Bledsoe,4,4,53,0,Jump Shot,23,-230,4,False
+Eric Bledsoe,2,2,50,0,Jump Shot,26,101,243,False
+Eric Bledsoe,3,5,26,1,Jump Shot,25,-177,187,False
+Eric Bledsoe,1,10,5,0,Jump Shot,18,82,165,True
+Eric Bledsoe,1,10,37,1,Jump Shot,28,-132,247,False
+Eric Bledsoe,2,1,31,0,Jump Shot,25,225,116,False
+Eric Bledsoe,2,2,15,1,Jump Shot,23,231,23,False
+Eric Bledsoe,1,2,49,0,Jump Shot,23,-234,12,False
+Eric Bledsoe,1,11,8,0,Jump Shot,28,-131,251,False
+Eric Bledsoe,3,8,19,0,Jump Shot,26,-102,248,False
+Eric Bledsoe,2,4,24,0,Jump Shot,26,-54,259,False
+Eric Bledsoe,3,10,50,0,Jump Shot,26,192,176,False
+Eric Bledsoe,3,9,33,0,Jump Shot,30,-131,273,False
+Eric Bledsoe,1,3,41,0,Jump Shot,28,164,230,False
+Eric Bledsoe,3,6,37,0,Jump Shot,6,-6,69,True
+Eric Bledsoe,2,4,52,0,Jump Shot,28,163,237,False
+Eric Bledsoe,3,2,2,1,Jump Shot,27,-215,169,False
+Eric Bledsoe,2,3,16,0,Jump Shot,22,-227,-6,False
+Eric Bledsoe,3,11,47,0,Jump Shot,27,-4,276,False
+Eric Bledsoe,3,8,39,0,Jump Shot,18,148,119,True
+Eric Bledsoe,2,2,15,1,Jump Shot,22,225,20,False
+Eric Bledsoe,3,3,53,0,Jump Shot,23,-231,-8,False
+Eric Bledsoe,3,6,40,0,Jump Shot,23,231,32,False
+Eric Bledsoe,3,7,50,1,Jump Shot,26,-98,247,False
+Eric Bledsoe,4,4,29,1,Jump Shot,22,-224,26,False
+Eric Bledsoe,5,2,31,1,Jump Shot,25,57,249,False
+Eric Bledsoe,2,3,2,0,Jump Shot,25,8,251,False
+Eric Bledsoe,1,8,12,1,Jump Shot,25,-40,256,False
+Eric Bledsoe,3,7,35,0,Jump Shot,23,230,45,False
+Eric Bledsoe,3,9,37,0,Jump Shot,24,-102,225,False
+Eric Bledsoe,3,10,47,0,Jump Shot,25,220,120,False
+Eric Bledsoe,3,6,29,1,Jump Shot,26,76,257,False
+Eric Bledsoe,1,3,31,0,Jump Shot,22,-228,-11,False
+Eric Bledsoe,4,4,43,0,Jump Shot,26,7,267,False
+Eric Bledsoe,4,2,25,1,Jump Shot,22,-225,-13,False
+Eric Bledsoe,1,9,11,0,Jump Shot,7,0,78,True
+Eric Bledsoe,2,7,35,1,Jump Shot,25,-217,138,False
+Eric Bledsoe,2,8,28,0,Jump Shot,26,-22,264,False
+Eric Bledsoe,4,5,2,0,Jump Shot,25,179,179,False
+Eric Bledsoe,3,9,58,1,Jump Shot,27,35,271,False
+Eric Bledsoe,3,6,37,1,Jump Shot,25,-122,229,False
+Eric Bledsoe,3,6,56,0,Jump Shot,26,-36,261,False
+Eric Bledsoe,3,6,32,0,Jump Shot,27,-74,263,False
+Eric Bledsoe,1,9,46,0,Jump Shot,13,66,121,True
+Eric Bledsoe,1,11,32,1,Jump Shot,15,6,158,True
+Eric Bledsoe,3,8,22,0,Jump Shot,22,228,2,False
+Eric Bledsoe,2,1,29,1,Jump Shot,23,-230,21,False
+Eric Bledsoe,2,6,45,0,Jump Shot,8,6,82,True
+Eric Bledsoe,2,3,14,1,Jump Shot,18,111,148,True
+Eric Bledsoe,2,4,1,0,Jump Shot,26,-186,183,False
+Eric Bledsoe,3,8,6,1,Jump Shot,15,-123,101,True
+Eric Bledsoe,1,9,22,1,Jump Shot,27,-149,230,False
+Eric Bledsoe,4,3,0,0,Jump Shot,24,234,64,False
+Eric Bledsoe,2,0,28,0,Jump Shot,27,149,236,False
+Eric Bledsoe,1,4,21,0,Jump Shot,18,80,168,True
+Eric Bledsoe,4,0,32,0,Jump Shot,27,83,261,False
+Eric Bledsoe,4,4,50,0,Jump Shot,27,-125,243,False
+Eric Bledsoe,3,10,25,0,Jump Shot,25,224,125,False
+Eric Bledsoe,2,4,10,1,Jump Shot,26,-147,223,False
+Eric Bledsoe,4,6,22,0,Jump Shot,26,-156,209,False
+Eric Bledsoe,1,4,15,1,Jump Shot,16,143,85,True
+Eric Bledsoe,1,5,21,0,Jump Shot,26,-99,247,False
+Eric Bledsoe,4,4,25,0,Jump Shot,25,23,255,False
+Eric Bledsoe,3,6,22,1,Jump Shot,26,206,163,False
+Eric Bledsoe,2,1,32,0,Jump Shot,19,-180,68,True
+Eric Bledsoe,2,8,58,1,Jump Shot,25,149,201,False
+Eric Bledsoe,4,1,57,0,Jump Shot,21,205,50,True
+Eric Bledsoe,4,0,2,0,Jump Shot,24,234,86,False
+Eric Bledsoe,2,0,0,0,Jump Shot,49,132,476,False
+Eric Bledsoe,3,4,24,0,Jump Shot,24,151,195,False
+Eric Bledsoe,1,6,43,0,Jump Shot,25,141,208,False
+Eric Bledsoe,4,7,21,0,Jump Shot,25,-175,183,False
+Eric Bledsoe,4,4,56,0,Jump Shot,26,-76,252,False
+Eric Bledsoe,1,5,42,0,Jump Shot,9,-19,89,True
+Eric Bledsoe,2,1,57,1,Jump Shot,10,-31,96,True
+Eric Bledsoe,1,4,57,1,Jump Shot,26,-26,261,False
+Eric Bledsoe,1,11,19,0,Jump Shot,23,231,40,False
+Eric Bledsoe,2,5,40,0,Jump Shot,25,-18,258,False
+Eric Bledsoe,4,0,0,0,Jump Shot,26,-171,204,False
+Eric Bledsoe,3,10,0,1,Jump Shot,25,57,251,False
+Eric Bledsoe,3,7,5,1,Jump Shot,22,225,1,False
+Eric Bledsoe,3,8,18,0,Jump Shot,26,-127,237,False
+Eric Bledsoe,1,3,2,0,Jump Shot,26,103,241,False
+Eric Bledsoe,2,1,5,1,Jump Shot,27,-112,246,False
+Eric Bledsoe,2,0,33,0,Jump Shot,28,62,274,False
+Eric Bledsoe,1,11,13,0,Jump Shot,19,-37,189,True
+Eric Bledsoe,4,5,21,1,Jump Shot,25,227,105,False
+Eric Bledsoe,2,6,15,0,Jump Shot,14,6,143,True
+Eric Bledsoe,4,7,29,0,Jump Shot,26,141,230,False
+Eric Bledsoe,3,11,23,1,Jump Shot,27,-103,258,False
+Eric Bledsoe,3,9,9,0,Jump Shot,19,103,163,True
+Eric Bledsoe,2,6,42,0,Jump Shot,21,-85,199,True
+Eric Bledsoe,3,7,20,0,Jump Shot,25,217,143,False
+Eric Bledsoe,2,5,17,0,Jump Shot,27,-182,200,False
+Eric Bledsoe,1,5,6,0,Jump Shot,27,-126,243,False
+Eric Bledsoe,4,2,33,0,Jump Shot,15,73,134,True
+Eric Bledsoe,4,7,18,1,Jump Shot,27,174,208,False
+Eric Bledsoe,1,11,47,1,Jump Shot,18,-99,160,True
+Eric Bledsoe,1,11,23,0,Jump Shot,12,-17,127,True
+Eric Bledsoe,4,5,20,1,Jump Shot,19,0,197,True
+Eric Bledsoe,3,6,9,0,Jump Shot,26,-150,216,False
+Eric Bledsoe,4,8,51,0,Jump Shot,26,1,267,False
+Eric Bledsoe,4,3,34,0,Jump Shot,27,-129,239,False
+Eric Bledsoe,3,8,31,0,Jump Shot,14,107,100,True
+Eric Bledsoe,2,1,11,0,Jump Shot,27,-192,195,False
+Eric Bledsoe,4,5,34,0,Jump Shot,26,-125,235,False
+Eric Bledsoe,3,1,24,0,Jump Shot,16,6,162,True
+Eric Bledsoe,2,1,17,0,Jump Shot,17,-90,154,True
+Eric Bledsoe,4,1,2,1,Jump Shot,17,73,163,True
+Eric Bledsoe,1,7,27,1,Jump Shot,23,-229,37,False
+Eric Bledsoe,3,2,27,0,Jump Shot,17,-22,177,True
+Eric Bledsoe,2,4,28,1,Jump Shot,27,-127,244,False
+Eric Bledsoe,3,5,23,0,Jump Shot,31,-98,297,False
+Eric Bledsoe,3,1,43,1,Jump Shot,24,-221,109,False
+Eric Bledsoe,4,3,14,0,Jump Shot,25,80,239,False
+Eric Bledsoe,4,0,29,1,Jump Shot,22,227,15,False
+Eric Bledsoe,4,9,4,0,Jump Shot,25,-54,251,False
+Eric Bledsoe,1,6,53,0,Jump Shot,22,-225,5,False
+Eric Bledsoe,3,0,47,1,Jump Shot,18,-138,124,True
+Eric Bledsoe,3,3,23,1,Jump Shot,25,20,257,False
+Eric Bledsoe,2,3,58,1,Jump Shot,27,139,238,False
+Eric Bledsoe,2,0,11,0,Jump Shot,15,19,153,True
+Eric Bledsoe,1,3,16,1,Jump Shot,26,158,214,False
+Eric Bledsoe,3,4,59,0,Jump Shot,27,-155,226,False
+Eric Bledsoe,2,3,25,1,Jump Shot,14,-3,148,True
+Eric Bledsoe,2,1,43,0,Jump Shot,26,79,253,False
+Eric Bledsoe,3,3,47,0,Jump Shot,24,2,244,False
+Eric Bledsoe,1,5,54,0,Jump Shot,18,-123,135,True
+Eric Bledsoe,3,10,34,0,Jump Shot,23,232,41,False
+Eric Bledsoe,1,7,35,1,Jump Shot,22,-221,-12,False
+Eric Bledsoe,2,3,41,1,Jump Shot,25,-208,143,False
+Eric Bledsoe,3,10,55,0,Jump Shot,24,-198,151,False
+Eric Bledsoe,1,10,13,0,Jump Shot,18,25,180,True
+Eric Bledsoe,1,5,21,1,Jump Shot,25,-54,248,False
+Eric Bledsoe,3,9,44,1,Jump Shot,25,3,256,False
+Eric Bledsoe,1,6,22,0,Jump Shot,21,-115,178,True
+Eric Bledsoe,4,4,26,0,Jump Shot,25,178,176,False
+Eric Bledsoe,2,0,42,0,Jump Shot,24,-140,201,False
+Eric Bledsoe,1,10,51,0,Jump Shot,17,-101,141,True
+Eric Bledsoe,3,11,17,1,Jump Shot,23,221,81,False
+Eric Bledsoe,1,7,6,0,Jump Shot,24,-11,245,False
+Eric Bledsoe,3,10,15,0,Jump Shot,12,120,-7,True
+Eric Bledsoe,1,10,33,1,Jump Shot,24,-129,214,False
+Eric Bledsoe,2,3,40,1,Jump Shot,25,-136,215,False
+Eric Bledsoe,2,7,7,0,Jump Shot,24,-168,183,False
+Eric Bledsoe,3,5,4,0,Jump Shot,25,-96,241,False
+Eric Bledsoe,2,9,54,0,Jump Shot,25,116,224,False
+Eric Bledsoe,3,4,40,0,Jump Shot,8,2,86,True
+Eric Bledsoe,3,9,38,0,Jump Shot,22,-19,226,True
+Eric Bledsoe,3,2,11,0,Jump Shot,25,-23,254,False
+Eric Bledsoe,3,9,0,0,Jump Shot,20,-2,200,True
+Eric Bledsoe,3,10,23,1,Jump Shot,15,-3,150,True
+Eric Bledsoe,1,6,3,0,Jump Shot,26,-172,204,False
+Eric Bledsoe,1,8,38,0,Jump Shot,26,-2,260,False
+Eric Bledsoe,4,2,44,1,Jump Shot,27,-6,271,False
+Eric Bledsoe,1,10,41,0,Jump Shot,26,-100,244,False
+Eric Bledsoe,4,0,44,0,Jump Shot,20,52,194,True
+Eric Bledsoe,2,7,27,0,Jump Shot,20,116,172,True
+Eric Bledsoe,1,7,24,1,Jump Shot,23,-232,6,False
+Eric Bledsoe,2,8,28,0,Jump Shot,20,-50,202,True
+Eric Bledsoe,2,5,34,0,Jump Shot,27,-87,264,False
+Eric Bledsoe,2,1,47,0,Jump Shot,26,75,252,False
+Eric Bledsoe,3,9,1,0,Jump Shot,26,-128,227,False
+Eric Bledsoe,1,8,56,0,Jump Shot,26,157,210,False
+Eric Bledsoe,4,7,4,0,Jump Shot,27,2,276,False
+Eric Bledsoe,2,9,59,0,Jump Shot,27,-109,248,False
+Eric Bledsoe,2,1,58,0,Jump Shot,27,-24,270,False
+Eric Bledsoe,4,2,3,0,Jump Shot,26,51,256,False
+Eric Bledsoe,4,6,52,0,Jump Shot,22,228,25,False
+Eric Bledsoe,2,0,14,1,Jump Shot,25,-71,242,False
+Eric Bledsoe,2,10,32,0,Jump Shot,24,-49,242,False
+Eric Bledsoe,4,1,40,1,Jump Shot,13,-85,109,True
+Eric Bledsoe,1,7,4,0,Jump Shot,24,-217,115,False
+Eric Bledsoe,4,2,15,1,Jump Shot,25,192,163,False
+Eric Bledsoe,1,7,46,1,Jump Shot,25,-172,192,False
+Eric Bledsoe,4,5,34,0,Jump Shot,24,-133,208,False
+Eric Bledsoe,3,11,23,0,Jump Shot,25,74,249,False
+Eric Bledsoe,2,9,22,0,Jump Shot,22,-227,0,False
+Eric Bledsoe,1,9,54,0,Jump Shot,24,-141,205,False
+Eric Bledsoe,4,5,14,0,Jump Shot,13,50,126,True
+Eric Bledsoe,1,0,30,0,Jump Shot,26,141,221,False
+Eric Bledsoe,2,0,0,0,Jump Shot,28,-130,256,False
+Eric Bledsoe,4,4,46,1,Jump Shot,26,-216,155,False
+Eric Bledsoe,2,8,49,0,Jump Shot,20,38,202,True
+Eric Bledsoe,1,6,6,0,Layup Shot,4,2,49,True
+Eric Bledsoe,2,5,14,1,Layup Shot,0,5,4,True
+Eric Bledsoe,1,7,7,0,Layup Shot,4,40,21,True
+Eric Bledsoe,3,8,13,0,Layup Shot,2,13,21,True
+Eric Bledsoe,1,10,20,0,Layup Shot,3,18,34,True
+Eric Bledsoe,3,10,16,0,Layup Shot,2,-14,19,True
+Eric Bledsoe,4,5,37,1,Layup Shot,2,-2,21,True
+Eric Bledsoe,2,5,54,1,Layup Shot,5,-3,56,True
+Eric Bledsoe,3,8,19,1,Layup Shot,0,6,7,True
+Eric Bledsoe,2,6,20,0,Layup Shot,2,4,20,True
+Eric Bledsoe,2,0,39,0,Layup Shot,4,45,20,True
+Eric Bledsoe,1,10,31,0,Layup Shot,8,-79,36,True
+Eric Bledsoe,4,9,50,1,Layup Shot,1,2,10,True
+Eric Bledsoe,1,6,13,0,Layup Shot,1,-5,9,True
+Eric Bledsoe,4,3,34,0,Layup Shot,1,-8,12,True
+Eric Bledsoe,4,8,59,1,Layup Shot,2,-3,27,True
+Eric Bledsoe,1,6,11,0,Layup Shot,3,-8,38,True
+Eric Bledsoe,3,2,31,1,Layup Shot,3,6,31,True
+Eric Bledsoe,1,3,46,0,Layup Shot,3,16,31,True
+Eric Bledsoe,3,10,48,0,Layup Shot,3,2,31,True
+Eric Bledsoe,2,5,0,1,Layup Shot,3,-1,39,True
+Eric Bledsoe,4,6,5,0,Layup Shot,2,18,18,True
+Eric Bledsoe,3,4,30,1,Layup Shot,1,14,6,True
+Eric Bledsoe,3,11,0,1,Layup Shot,0,2,-3,True
+Eric Bledsoe,2,10,24,1,Layup Shot,3,-14,30,True
+Eric Bledsoe,3,2,53,0,Layup Shot,7,63,44,True
+Eric Bledsoe,4,2,58,1,Layup Shot,0,2,8,True
+Eric Bledsoe,4,3,59,0,Layup Shot,4,40,6,True
+Eric Bledsoe,2,6,4,0,Layup Shot,1,18,6,True
+Eric Bledsoe,3,7,37,0,Layup Shot,4,-21,45,True
+Eric Bledsoe,1,6,6,0,Layup Shot,1,0,14,True
+Eric Bledsoe,1,8,28,1,Layup Shot,2,-20,11,True
+Eric Bledsoe,1,3,42,0,Pullup Jump shot,9,-90,36,True
+Eric Bledsoe,2,2,33,1,Pullup Jump shot,14,6,148,True
+Eric Bledsoe,2,1,32,1,Pullup Jump shot,8,61,64,True
+Eric Bledsoe,3,7,50,0,Pullup Jump shot,12,-49,118,True
+Eric Bledsoe,4,6,40,0,Pullup Jump shot,20,-14,201,True
+Eric Bledsoe,4,5,3,1,Pullup Jump shot,19,-11,194,True
+Eric Bledsoe,1,4,38,1,Pullup Jump shot,17,-86,147,True
+Eric Bledsoe,3,0,56,0,Pullup Jump shot,26,-88,249,False
+Eric Bledsoe,2,3,4,1,Pullup Jump shot,20,99,178,True
+Eric Bledsoe,1,9,44,0,Pullup Jump shot,16,71,154,True
+Eric Bledsoe,3,5,23,1,Pullup Jump shot,27,5,277,False
+Eric Bledsoe,2,0,10,0,Pullup Jump shot,13,-43,128,True
+Eric Bledsoe,3,4,26,1,Pullup Jump shot,13,103,80,True
+Eric Bledsoe,4,6,59,1,Pullup Jump shot,14,-39,138,True
+Eric Bledsoe,4,0,16,0,Pullup Jump shot,25,-27,258,False
+Eric Bledsoe,4,0,42,1,Pullup Jump shot,14,46,141,True
+Eric Bledsoe,1,5,22,0,Pullup Jump shot,13,66,120,True
+Eric Bledsoe,2,0,41,0,Pullup Jump shot,26,6,263,False
+Eric Bledsoe,2,3,43,1,Pullup Jump shot,9,-3,96,True
+Eric Bledsoe,4,6,4,1,Pullup Jump shot,14,-113,89,True
+Eric Bledsoe,1,8,11,1,Pullup Jump shot,17,-40,172,True
+Eric Bledsoe,3,2,30,1,Pullup Jump shot,16,-124,114,True
+Eric Bledsoe,4,9,24,0,Pullup Jump shot,25,-91,242,False
+Eric Bledsoe,1,9,42,0,Pullup Jump shot,17,-35,175,True
+Eric Bledsoe,3,5,50,1,Pullup Jump shot,8,-58,59,True
+Eric Bledsoe,2,11,49,0,Pullup Jump shot,17,-3,172,True
+Eric Bledsoe,2,2,27,0,Pullup Jump shot,13,40,130,True
+Eric Bledsoe,2,10,33,0,Pullup Jump shot,26,-152,217,False
+Eric Bledsoe,3,8,49,0,Pullup Jump shot,16,-112,127,True
+Eric Bledsoe,5,1,37,0,Pullup Jump shot,24,180,168,False
+Eric Bledsoe,3,10,46,0,Pullup Jump shot,16,27,159,True
+Eric Bledsoe,2,4,8,1,Pullup Jump shot,17,-105,141,True
+Eric Bledsoe,2,3,34,0,Pullup Jump shot,16,46,157,True
+Eric Bledsoe,3,9,26,0,Pullup Jump shot,17,3,175,True
+Eric Bledsoe,3,6,35,0,Pullup Jump shot,25,-174,190,False
+Eric Bledsoe,1,0,3,0,Pullup Jump shot,21,38,209,True
+Eric Bledsoe,3,10,21,0,Pullup Jump shot,10,-4,100,True
+Eric Bledsoe,4,8,38,0,Pullup Jump shot,14,-149,5,True
+Eric Bledsoe,2,3,44,1,Pullup Jump shot,22,-57,222,True
+Eric Bledsoe,3,1,40,1,Pullup Jump shot,10,48,97,True
+Eric Bledsoe,1,7,55,0,Pullup Jump shot,20,-141,142,True
+Eric Bledsoe,1,5,9,0,Pullup Jump shot,18,106,155,True
+Eric Bledsoe,3,3,38,1,Pullup Jump shot,14,-4,146,True
+Eric Bledsoe,3,10,21,0,Pullup Jump shot,25,-149,202,False
+Eric Bledsoe,3,8,54,1,Pullup Jump shot,16,-114,115,True
+Eric Bledsoe,4,7,52,1,Pullup Jump shot,17,-83,159,True
+Eric Bledsoe,2,0,1,0,Pullup Jump shot,24,-9,248,False
+Eric Bledsoe,1,6,9,1,Pullup Jump shot,9,-25,92,True
+Eric Bledsoe,1,3,26,0,Pullup Jump shot,14,66,125,True
+Eric Bledsoe,3,9,41,1,Pullup Jump shot,12,-27,117,True
+Eric Bledsoe,2,5,51,1,Pullup Jump shot,18,125,135,True
+Eric Bledsoe,2,2,48,1,Pullup Jump shot,11,-42,109,True
+Eric Bledsoe,4,2,8,1,Pullup Jump shot,11,57,100,True
+Eric Bledsoe,1,3,11,1,Pullup Jump shot,24,-103,226,False
+Eric Bledsoe,4,3,39,0,Pullup Jump shot,18,96,160,True
+Eric Bledsoe,1,9,49,1,Pullup Jump shot,12,-26,120,True
+Eric Bledsoe,2,1,16,1,Pullup Jump shot,14,-70,132,True
+Eric Bledsoe,3,7,3,0,Pullup Jump shot,16,164,4,True
+Eric Bledsoe,4,7,9,1,Pullup Jump shot,15,-75,140,True
+Eric Bledsoe,2,1,52,1,Pullup Jump shot,15,-6,152,True
+Eric Bledsoe,4,2,6,0,Pullup Jump shot,16,27,158,True
+Eric Bledsoe,1,4,46,0,Pullup Jump shot,16,76,152,True
+Eric Bledsoe,1,1,36,0,Pullup Jump shot,23,-52,226,True
+Eric Bledsoe,5,4,9,0,Pullup Jump shot,26,-43,260,False
+Eric Bledsoe,2,1,44,0,Pullup Jump shot,16,11,160,True
+Eric Bledsoe,4,3,36,1,Pullup Jump shot,20,-58,199,True
+Eric Bledsoe,5,4,41,1,Pullup Jump shot,25,105,230,False
+Eric Bledsoe,2,5,50,1,Pullup Jump shot,17,-29,168,True
+Eric Bledsoe,1,9,37,0,Pullup Jump shot,23,-231,-5,False
+Eric Bledsoe,4,2,13,0,Pullup Jump shot,16,111,121,True
+Eric Bledsoe,4,0,44,0,Pullup Jump shot,14,117,78,True
+Eric Bledsoe,4,0,19,1,Pullup Jump shot,20,115,173,True
+Eric Bledsoe,4,1,25,0,Pullup Jump shot,6,16,64,True
+Eric Bledsoe,3,5,39,0,Pullup Jump shot,26,-9,260,False
+Eric Bledsoe,3,11,30,1,Pullup Jump shot,26,117,233,False
+Eric Bledsoe,4,2,48,0,Pullup Jump shot,19,-40,191,True
+Eric Bledsoe,5,0,41,0,Pullup Jump shot,25,204,153,False
+Eric Bledsoe,4,3,5,1,Pullup Jump shot,17,-5,173,True
+Eric Bledsoe,3,3,55,1,Pullup Jump shot,20,-131,153,True
+Eric Bledsoe,3,8,44,0,Pullup Jump shot,13,-9,134,True
+Eric Bledsoe,4,0,2,0,Pullup Jump shot,33,-179,278,False
+Eric Bledsoe,3,5,57,1,Pullup Jump shot,18,112,152,True
+Eric Bledsoe,1,11,25,1,Pullup Jump shot,14,8,146,True
+Eric Bledsoe,3,4,15,0,Pullup Jump shot,14,-58,138,True
+Eric Bledsoe,2,8,4,1,Pullup Jump shot,14,144,16,True
+Eric Bledsoe,1,4,49,0,Pullup Jump shot,24,223,104,False
+Eric Bledsoe,2,5,44,1,Pullup Jump shot,10,0,108,True
+Eric Bledsoe,5,4,50,1,Pullup Jump shot,16,105,127,True
+Eric Bledsoe,2,4,13,0,Pullup Jump shot,14,-75,129,True
+Eric Bledsoe,2,10,30,0,Pullup Jump shot,18,-21,187,True
+Eric Bledsoe,1,11,24,1,Pullup Jump shot,13,-1,136,True
+Eric Bledsoe,2,8,42,0,Pullup Jump shot,15,-62,147,True
+Eric Bledsoe,4,5,25,1,Pullup Jump shot,17,-52,171,True
+Eric Bledsoe,2,4,3,1,Pullup Jump shot,13,-15,136,True
+Eric Bledsoe,4,2,23,1,Pullup Jump shot,19,22,190,True
+Eric Bledsoe,5,2,59,1,Pullup Jump shot,26,-80,256,False
+Eric Bledsoe,2,5,31,1,Pullup Jump shot,16,95,135,True
+Eric Bledsoe,4,8,37,0,Pullup Jump shot,30,-176,246,False
+Eric Bledsoe,2,3,30,1,Putback Dunk Shot,0,0,-6,True
+Eric Bledsoe,3,10,57,1,Putback Layup Shot,2,-2,25,True
+Eric Bledsoe,4,0,32,1,Putback Layup Shot,0,-4,9,True
+Eric Bledsoe,3,3,46,1,Putback Layup Shot,0,0,-6,True
+Eric Bledsoe,4,6,1,1,Reverse Layup Shot,0,-3,6,True
+Eric Bledsoe,2,3,51,0,Reverse Layup Shot,1,3,12,True
+Eric Bledsoe,4,7,40,1,Reverse Layup Shot,1,-5,11,True
+Eric Bledsoe,4,1,50,0,Reverse Layup Shot,5,-14,51,True
+Eric Bledsoe,4,6,11,1,Running Alley Oop Dunk Shot,0,4,8,True
+Eric Bledsoe,2,11,29,1,Running Alley Oop Layup Shot,2,-5,20,True
+Eric Bledsoe,2,8,49,1,Running Dunk Shot,0,3,6,True
+Eric Bledsoe,3,11,15,1,Running Dunk Shot,4,-19,42,True
+Eric Bledsoe,3,5,9,1,Running Dunk Shot,1,5,12,True
+Eric Bledsoe,2,7,32,1,Running Dunk Shot,1,-3,11,True
+Eric Bledsoe,3,1,57,1,Running Dunk Shot,1,0,14,True
+Eric Bledsoe,1,4,28,1,Running Dunk Shot,1,8,9,True
+Eric Bledsoe,2,0,33,1,Running Dunk Shot,1,3,14,True
+Eric Bledsoe,4,2,1,1,Running Dunk Shot,1,8,8,True
+Eric Bledsoe,3,4,48,1,Running Finger Roll Layup Shot,0,4,1,True
+Eric Bledsoe,3,6,11,1,Running Finger Roll Layup Shot,1,-9,12,True
+Eric Bledsoe,1,7,24,0,Running Jump Shot,22,228,20,False
+Eric Bledsoe,2,3,43,0,Running Layup Shot,1,1,15,True
+Eric Bledsoe,3,10,20,1,Running Layup Shot,0,-2,9,True
+Eric Bledsoe,2,1,0,1,Running Layup Shot,1,8,11,True
+Eric Bledsoe,3,8,6,0,Running Layup Shot,0,7,-1,True
+Eric Bledsoe,1,9,32,1,Running Layup Shot,0,3,4,True
+Eric Bledsoe,4,0,31,0,Running Layup Shot,2,-24,9,True
+Eric Bledsoe,3,9,3,0,Running Layup Shot,0,5,2,True
+Eric Bledsoe,2,3,1,1,Running Layup Shot,1,6,12,True
+Eric Bledsoe,2,3,53,1,Running Layup Shot,1,11,5,True
+Eric Bledsoe,1,10,31,0,Running Layup Shot,1,-3,10,True
+Eric Bledsoe,5,4,8,1,Running Layup Shot,3,17,26,True
+Eric Bledsoe,1,6,24,0,Running Layup Shot,1,-2,17,True
+Eric Bledsoe,1,5,15,0,Running Layup Shot,2,0,25,True
+Eric Bledsoe,2,2,41,0,Running Layup Shot,1,12,6,True
+Eric Bledsoe,2,2,8,1,Running Layup Shot,2,11,23,True
+Eric Bledsoe,1,4,11,1,Running Layup Shot,1,4,18,True
+Eric Bledsoe,1,9,16,1,Running Layup Shot,2,25,1,True
+Eric Bledsoe,1,7,25,1,Running Layup Shot,1,-9,6,True
+Eric Bledsoe,1,6,9,1,Running Layup Shot,0,0,3,True
+Eric Bledsoe,5,0,22,1,Running Layup Shot,1,-6,13,True
+Eric Bledsoe,2,9,43,0,Running Layup Shot,0,5,6,True
+Eric Bledsoe,3,1,31,1,Running Layup Shot,4,3,44,True
+Eric Bledsoe,1,10,54,0,Running Layup Shot,2,-23,18,True
+Eric Bledsoe,3,11,1,1,Running Layup Shot,1,-6,13,True
+Eric Bledsoe,3,5,41,0,Running Layup Shot,2,-11,20,True
+Eric Bledsoe,4,5,31,1,Running Layup Shot,0,1,5,True
+Eric Bledsoe,2,5,10,1,Running Layup Shot,1,14,6,True
+Eric Bledsoe,4,0,29,1,Running Layup Shot,0,-8,-4,True
+Eric Bledsoe,2,1,34,1,Running Layup Shot,1,10,13,True
+Eric Bledsoe,1,6,54,1,Running Layup Shot,1,8,7,True
+Eric Bledsoe,1,5,2,1,Running Layup Shot,1,6,11,True
+Eric Bledsoe,3,6,49,1,Running Layup Shot,3,30,17,True
+Eric Bledsoe,4,7,9,1,Running Layup Shot,0,8,-1,True
+Eric Bledsoe,2,3,37,0,Running Layup Shot,0,3,1,True
+Eric Bledsoe,1,3,14,1,Running Layup Shot,0,3,4,True
+Eric Bledsoe,4,10,27,1,Running Layup Shot,1,-14,12,True
+Eric Bledsoe,5,3,41,1,Running Layup Shot,2,18,22,True
+Eric Bledsoe,4,3,1,1,Running Layup Shot,1,-13,15,True
+Eric Bledsoe,1,9,7,1,Running Layup Shot,0,2,6,True
+Eric Bledsoe,2,7,38,1,Running Layup Shot,1,16,2,True
+Eric Bledsoe,3,9,12,1,Running Layup Shot,1,8,14,True
+Eric Bledsoe,3,9,49,0,Running Layup Shot,2,-2,21,True
+Eric Bledsoe,2,0,31,1,Running Layup Shot,0,-3,6,True
+Eric Bledsoe,1,6,41,1,Running Layup Shot,0,-3,7,True
+Eric Bledsoe,3,4,10,1,Running Layup Shot,0,-8,4,True
+Eric Bledsoe,1,1,31,1,Running Layup Shot,0,4,4,True
+Eric Bledsoe,2,9,53,1,Running Layup Shot,0,5,5,True
+Eric Bledsoe,1,5,41,1,Running Layup Shot,2,-6,22,True
+Eric Bledsoe,4,1,31,1,Running Layup Shot,0,-4,1,True
+Eric Bledsoe,1,4,13,1,Running Layup Shot,1,6,15,True
+Eric Bledsoe,3,8,26,0,Running Layup Shot,3,-33,10,True
+Eric Bledsoe,3,4,53,0,Running Layup Shot,1,13,-4,True
+Eric Bledsoe,4,6,12,0,Running Layup Shot,1,-14,4,True
+Eric Bledsoe,1,10,47,0,Running Layup Shot,0,-6,7,True
+Eric Bledsoe,2,1,57,0,Running Layup Shot,3,-6,32,True
+Eric Bledsoe,3,5,37,1,Running Layup Shot,1,-11,6,True
+Eric Bledsoe,1,8,24,1,Running Layup Shot,2,-18,14,True
+Eric Bledsoe,4,1,6,0,Running Layup Shot,5,-17,49,True
+Eric Bledsoe,3,5,56,1,Running Layup Shot,2,-17,15,True
+Eric Bledsoe,1,7,57,1,Running Layup Shot,0,5,4,True
+Eric Bledsoe,3,6,31,0,Running Layup Shot,1,-3,14,True
+Eric Bledsoe,1,6,52,0,Running Layup Shot,1,-9,11,True
+Eric Bledsoe,3,11,32,0,Running Layup Shot,1,11,13,True
+Eric Bledsoe,2,4,44,1,Running Layup Shot,0,5,7,True
+Eric Bledsoe,3,3,25,1,Running Layup Shot,1,-7,16,True
+Eric Bledsoe,1,0,29,1,Running Pull-Up Jump Shot,25,-62,252,False
+Eric Bledsoe,3,11,10,0,Running Pull-Up Jump Shot,25,14,254,False
+Eric Bledsoe,3,0,26,1,Running Pull-Up Jump Shot,27,147,236,False
+Eric Bledsoe,3,0,0,0,Running Pull-Up Jump Shot,26,144,223,False
+Eric Bledsoe,2,10,40,0,Running Pull-Up Jump Shot,25,62,252,False
+Eric Bledsoe,3,6,58,1,Running Reverse Layup Shot,2,5,21,True
+Eric Bledsoe,3,11,46,1,Running Reverse Layup Shot,0,4,2,True
+Eric Bledsoe,3,5,56,1,Running Reverse Layup Shot,3,-7,31,True
+Eric Bledsoe,2,2,34,1,Running Reverse Layup Shot,1,-5,15,True
+Eric Bledsoe,3,11,32,1,Running Reverse Layup Shot,0,0,4,True
+Eric Bledsoe,3,7,39,0,Running Reverse Layup Shot,3,-20,25,True
+Eric Bledsoe,4,6,34,0,Step Back Jump shot,25,229,105,False
+Eric Bledsoe,1,2,23,0,Step Back Jump shot,14,144,-9,True
+Eric Bledsoe,3,8,48,0,Step Back Jump shot,18,-100,155,True
+Eric Bledsoe,3,8,29,1,Step Back Jump shot,20,-63,194,True
+Eric Bledsoe,5,1,15,0,Step Back Jump shot,27,-109,252,False
+Eric Bledsoe,3,10,0,1,Step Back Jump shot,12,-64,109,True
+Eric Bledsoe,2,4,17,1,Step Back Jump shot,25,-117,227,False
+Eric Bledsoe,3,5,2,1,Step Back Jump shot,26,145,216,False
+Eric Bledsoe,3,7,31,1,Step Back Jump shot,24,194,147,False
+Eric Bledsoe,2,0,1,0,Step Back Jump shot,26,147,225,False
+Eric Bledsoe,5,0,10,1,Step Back Jump shot,24,226,105,False
+Eric Bledsoe,3,11,2,0,Step Back Jump shot,22,-225,6,False
+Eric Bledsoe,5,4,14,0,Step Back Jump shot,19,52,185,True
+Eric Bledsoe,3,10,5,0,Step Back Jump shot,26,-171,196,False
+Eric Bledsoe,2,2,24,0,Step Back Jump shot,12,125,2,True
+Eric Bledsoe,4,0,13,0,Step Back Jump shot,12,-122,-8,True
+Eric Bledsoe,3,7,39,1,Step Back Jump shot,15,83,132,True
+Eric Bledsoe,3,1,19,1,Step Back Jump shot,16,-55,152,True
+Eric Bledsoe,1,10,1,0,Step Back Jump shot,19,-12,193,True
+Eric Bledsoe,4,2,2,1,Step Back Jump shot,5,-3,53,True
+Eric Bledsoe,4,6,46,1,Step Back Jump shot,20,-120,169,True
+Eric Bledsoe,2,2,21,0,Step Back Jump shot,15,146,46,True
+Eric Bledsoe,1,2,48,0,Step Back Jump shot,17,-98,149,True
+Eric Bledsoe,1,10,42,0,Step Back Jump shot,25,121,219,False
+Eric Bledsoe,4,1,33,0,Step Back Jump shot,15,-131,90,True
+Eric Bledsoe,3,9,28,1,Tip Layup Shot,0,0,-6,True
+Eric Bledsoe,2,11,9,1,Tip Layup Shot,0,0,-6,True
+Eric Bledsoe,4,3,6,1,Tip Layup Shot,0,0,-6,True
+Eric Bledsoe,4,0,42,1,Tip Layup Shot,0,0,-6,True
+Eric Bledsoe,4,8,23,0,Tip Layup Shot,0,0,-6,True
+Eric Bledsoe,1,10,52,1,Tip Layup Shot,0,0,-6,True
+Eric Bledsoe,1,3,41,0,Tip Layup Shot,0,0,-6,True
+Eric Bledsoe,2,4,18,0,Tip Layup Shot,0,0,-6,True
+Eric Bledsoe,3,2,15,1,Tip Layup Shot,0,0,-6,True
+Eric Bledsoe,4,7,10,0,Tip Layup Shot,0,0,-6,True
+Eric Bledsoe,3,9,36,0,Tip Layup Shot,0,0,-6,True
+Eric Bledsoe,4,2,7,1,Tip Layup Shot,0,0,-6,True
+Eric Bledsoe,2,8,18,1,Turnaround Fadeaway Bank Jump Shot,7,64,39,True
+Eric Bledsoe,2,4,35,1,Turnaround Fadeaway shot,9,-92,-10,True
+Eric Bledsoe,1,3,2,1,Turnaround Fadeaway shot,7,-6,73,True
+Eric Bledsoe,3,10,0,0,Turnaround Fadeaway shot,12,-127,25,True
+Eric Bledsoe,2,0,0,0,Turnaround Jump Shot,8,-17,84,True
+Eric Bledsoe,1,4,44,1,Turnaround Jump Shot,12,-15,121,True
+Eric Bledsoe,4,10,12,1,Turnaround Jump Shot,11,-6,119,True
+Eric Bledsoe,1,8,11,0,Turnaround Jump Shot,7,-58,51,True
+Eric Bledsoe,1,6,59,1,Turnaround Jump Shot,13,-136,9,True
+Eric Bledsoe,2,2,55,1,Turnaround Jump Shot,15,-153,32,True
+Eric Bledsoe,3,3,51,0,Turnaround Jump Shot,13,135,-3,True
+Eric Bledsoe,3,3,38,0,Turnaround Jump Shot,18,-106,146,True
+Eric Bledsoe,3,10,47,0,Turnaround Jump Shot,12,-34,121,True

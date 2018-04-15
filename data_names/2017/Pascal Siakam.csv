@@ -1,0 +1,447 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Pascal Siakam,4,11,11,1,Alley Oop Dunk Shot,0,-2,7,True
+Pascal Siakam,4,6,39,1,Alley Oop Dunk Shot,1,-11,16,True
+Pascal Siakam,4,0,25,1,Alley Oop Dunk Shot,1,-5,13,True
+Pascal Siakam,3,7,27,1,Alley Oop Dunk Shot,1,3,16,True
+Pascal Siakam,3,4,22,1,Alley Oop Layup shot,0,-3,7,True
+Pascal Siakam,3,2,46,0,Alley Oop Layup shot,1,14,10,True
+Pascal Siakam,2,3,42,0,Alley Oop Layup shot,1,9,-9,True
+Pascal Siakam,4,6,55,1,Alley Oop Layup shot,0,-3,5,True
+Pascal Siakam,4,3,36,1,Alley Oop Layup shot,0,-2,5,True
+Pascal Siakam,2,7,50,1,Alley Oop Layup shot,0,-2,5,True
+Pascal Siakam,2,9,17,1,Alley Oop Layup shot,3,25,17,True
+Pascal Siakam,2,7,38,1,Alley Oop Layup shot,1,9,13,True
+Pascal Siakam,1,1,38,1,Alley Oop Layup shot,1,-8,11,True
+Pascal Siakam,4,10,2,1,Cutting Dunk Shot,1,8,12,True
+Pascal Siakam,2,4,49,1,Cutting Dunk Shot,1,4,10,True
+Pascal Siakam,4,11,47,1,Cutting Dunk Shot,1,0,17,True
+Pascal Siakam,3,5,59,1,Cutting Dunk Shot,0,-2,5,True
+Pascal Siakam,4,3,39,1,Cutting Dunk Shot,1,14,6,True
+Pascal Siakam,2,6,37,1,Cutting Dunk Shot,1,5,15,True
+Pascal Siakam,2,9,26,1,Cutting Dunk Shot,0,-5,7,True
+Pascal Siakam,4,0,53,1,Cutting Dunk Shot,1,-5,12,True
+Pascal Siakam,2,10,56,1,Cutting Finger Roll Layup Shot,2,1,25,True
+Pascal Siakam,2,2,19,1,Cutting Layup Shot,2,-18,12,True
+Pascal Siakam,1,9,1,1,Cutting Layup Shot,1,15,4,True
+Pascal Siakam,3,5,50,1,Cutting Layup Shot,1,-7,16,True
+Pascal Siakam,2,7,17,1,Cutting Layup Shot,1,-2,16,True
+Pascal Siakam,4,5,26,1,Cutting Layup Shot,3,-10,29,True
+Pascal Siakam,4,9,36,0,Cutting Layup Shot,2,8,21,True
+Pascal Siakam,2,9,57,1,Cutting Layup Shot,3,-22,28,True
+Pascal Siakam,1,1,2,1,Cutting Layup Shot,1,-11,7,True
+Pascal Siakam,2,11,9,1,Cutting Layup Shot,1,11,8,True
+Pascal Siakam,1,4,48,1,Cutting Layup Shot,1,-11,7,True
+Pascal Siakam,3,4,14,1,Cutting Layup Shot,2,23,11,True
+Pascal Siakam,4,7,19,0,Cutting Layup Shot,4,17,41,True
+Pascal Siakam,2,11,46,1,Cutting Layup Shot,2,19,15,True
+Pascal Siakam,1,10,12,1,Cutting Layup Shot,2,-15,19,True
+Pascal Siakam,2,9,38,1,Cutting Layup Shot,1,-12,8,True
+Pascal Siakam,3,1,7,1,Cutting Layup Shot,2,20,6,True
+Pascal Siakam,4,8,2,0,Cutting Layup Shot,2,-24,3,True
+Pascal Siakam,2,8,52,0,Cutting Layup Shot,2,18,10,True
+Pascal Siakam,4,10,41,0,Driving Bank Hook Shot,3,25,18,True
+Pascal Siakam,3,1,2,0,Driving Dunk Shot,1,19,-2,True
+Pascal Siakam,2,6,55,1,Driving Dunk Shot,1,9,12,True
+Pascal Siakam,4,8,1,1,Driving Dunk Shot,1,5,13,True
+Pascal Siakam,2,3,30,1,Driving Dunk Shot,1,-2,15,True
+Pascal Siakam,4,0,28,1,Driving Dunk Shot,0,-3,-1,True
+Pascal Siakam,4,1,56,1,Driving Dunk Shot,0,-3,6,True
+Pascal Siakam,4,9,33,1,Driving Dunk Shot,0,6,-5,True
+Pascal Siakam,1,1,55,1,Driving Floating Bank Jump Shot,2,22,12,True
+Pascal Siakam,2,11,15,0,Driving Floating Bank Jump Shot,9,70,67,True
+Pascal Siakam,2,1,10,0,Driving Floating Bank Jump Shot,7,70,38,True
+Pascal Siakam,1,1,49,0,Driving Floating Bank Jump Shot,4,36,27,True
+Pascal Siakam,4,0,56,0,Driving Floating Jump Shot,5,40,41,True
+Pascal Siakam,3,0,40,1,Driving Floating Jump Shot,6,25,55,True
+Pascal Siakam,4,10,46,0,Driving Floating Jump Shot,4,24,37,True
+Pascal Siakam,1,1,0,0,Driving Floating Jump Shot,4,38,23,True
+Pascal Siakam,3,2,39,1,Driving Floating Jump Shot,9,1,90,True
+Pascal Siakam,3,3,56,1,Driving Floating Jump Shot,5,52,20,True
+Pascal Siakam,1,3,15,0,Driving Floating Jump Shot,10,-3,105,True
+Pascal Siakam,2,10,33,1,Driving Floating Jump Shot,4,-3,45,True
+Pascal Siakam,3,4,40,0,Driving Floating Jump Shot,7,-5,75,True
+Pascal Siakam,4,10,44,0,Driving Floating Jump Shot,3,32,-1,True
+Pascal Siakam,4,11,32,0,Driving Floating Jump Shot,7,49,53,True
+Pascal Siakam,4,3,37,1,Driving Floating Jump Shot,6,0,69,True
+Pascal Siakam,1,3,5,1,Driving Floating Jump Shot,8,82,26,True
+Pascal Siakam,2,2,31,1,Driving Floating Jump Shot,11,-7,118,True
+Pascal Siakam,3,2,0,0,Driving Floating Jump Shot,8,55,68,True
+Pascal Siakam,1,0,10,0,Driving Floating Jump Shot,5,-1,55,True
+Pascal Siakam,4,10,1,1,Driving Floating Jump Shot,10,-10,100,True
+Pascal Siakam,3,0,0,0,Driving Floating Jump Shot,48,28,487,False
+Pascal Siakam,2,11,4,0,Driving Floating Jump Shot,10,-99,17,True
+Pascal Siakam,3,0,41,1,Driving Floating Jump Shot,9,-34,85,True
+Pascal Siakam,1,4,22,1,Driving Hook Shot,7,-7,79,True
+Pascal Siakam,3,10,49,0,Driving Hook Shot,13,-82,101,True
+Pascal Siakam,4,10,16,1,Driving Hook Shot,7,30,71,True
+Pascal Siakam,1,1,51,1,Driving Hook Shot,4,2,46,True
+Pascal Siakam,2,7,14,0,Driving Hook Shot,6,0,60,True
+Pascal Siakam,1,1,37,0,Driving Hook Shot,3,-18,24,True
+Pascal Siakam,2,10,31,1,Driving Hook Shot,10,-29,99,True
+Pascal Siakam,3,10,5,1,Driving Hook Shot,3,-1,36,True
+Pascal Siakam,4,5,14,0,Driving Hook Shot,5,24,45,True
+Pascal Siakam,2,6,2,1,Driving Layup Shot,1,14,12,True
+Pascal Siakam,4,8,8,1,Driving Layup Shot,2,18,9,True
+Pascal Siakam,2,6,41,1,Driving Layup Shot,1,-17,8,True
+Pascal Siakam,4,3,20,1,Driving Layup Shot,1,-6,9,True
+Pascal Siakam,2,11,2,0,Driving Layup Shot,2,-11,19,True
+Pascal Siakam,3,7,3,1,Driving Layup Shot,0,0,5,True
+Pascal Siakam,4,6,58,0,Driving Layup Shot,6,-63,11,True
+Pascal Siakam,2,11,34,0,Driving Layup Shot,3,27,27,True
+Pascal Siakam,2,8,14,1,Driving Layup Shot,1,17,5,True
+Pascal Siakam,4,11,41,0,Driving Layup Shot,4,-11,39,True
+Pascal Siakam,3,2,46,0,Driving Layup Shot,3,26,21,True
+Pascal Siakam,4,1,15,0,Driving Layup Shot,2,22,15,True
+Pascal Siakam,4,3,40,0,Driving Layup Shot,1,6,11,True
+Pascal Siakam,1,2,17,0,Driving Layup Shot,2,11,18,True
+Pascal Siakam,4,8,46,0,Driving Layup Shot,2,-19,23,True
+Pascal Siakam,2,11,12,1,Driving Layup Shot,2,8,20,True
+Pascal Siakam,1,1,1,0,Driving Layup Shot,1,-8,7,True
+Pascal Siakam,4,0,27,1,Driving Layup Shot,1,-9,15,True
+Pascal Siakam,4,9,55,1,Driving Layup Shot,1,6,10,True
+Pascal Siakam,1,0,59,1,Driving Layup Shot,1,-7,12,True
+Pascal Siakam,4,9,20,1,Driving Layup Shot,2,-14,24,True
+Pascal Siakam,1,2,51,1,Driving Layup Shot,3,29,25,True
+Pascal Siakam,1,1,6,0,Driving Layup Shot,2,-29,5,True
+Pascal Siakam,4,0,31,0,Driving Layup Shot,2,22,11,True
+Pascal Siakam,4,1,35,1,Driving Layup Shot,1,17,6,True
+Pascal Siakam,4,6,47,0,Driving Layup Shot,2,14,21,True
+Pascal Siakam,2,11,7,1,Driving Layup Shot,2,24,16,True
+Pascal Siakam,3,10,28,1,Driving Layup Shot,2,15,21,True
+Pascal Siakam,2,8,23,0,Driving Layup Shot,2,-14,17,True
+Pascal Siakam,3,1,38,0,Driving Layup Shot,2,-18,21,True
+Pascal Siakam,2,10,10,1,Driving Layup Shot,2,-20,18,True
+Pascal Siakam,3,0,54,0,Driving Layup Shot,2,-20,20,True
+Pascal Siakam,4,7,42,1,Driving Layup Shot,2,23,14,True
+Pascal Siakam,4,10,5,1,Driving Layup Shot,3,20,32,True
+Pascal Siakam,4,6,36,0,Driving Layup Shot,5,-47,27,True
+Pascal Siakam,1,1,11,1,Driving Layup Shot,2,-3,22,True
+Pascal Siakam,2,8,29,1,Driving Layup Shot,1,-10,0,True
+Pascal Siakam,2,8,6,0,Driving Layup Shot,1,-14,8,True
+Pascal Siakam,4,4,6,0,Driving Layup Shot,3,27,22,True
+Pascal Siakam,4,11,44,0,Driving Layup Shot,2,-18,21,True
+Pascal Siakam,3,2,0,0,Driving Layup Shot,2,22,5,True
+Pascal Siakam,4,3,4,1,Driving Layup Shot,2,15,18,True
+Pascal Siakam,4,9,35,0,Driving Layup Shot,2,-19,8,True
+Pascal Siakam,1,0,59,1,Driving Layup Shot,7,-47,53,True
+Pascal Siakam,4,1,35,1,Driving Layup Shot,3,-32,-3,True
+Pascal Siakam,1,1,58,0,Driving Layup Shot,2,26,8,True
+Pascal Siakam,1,0,52,0,Driving Layup Shot,2,-29,-5,True
+Pascal Siakam,4,11,46,1,Driving Layup Shot,4,-43,-2,True
+Pascal Siakam,2,9,6,1,Driving Layup Shot,1,-9,10,True
+Pascal Siakam,4,10,29,0,Driving Layup Shot,5,26,50,True
+Pascal Siakam,2,5,13,0,Driving Layup Shot,4,13,42,True
+Pascal Siakam,3,1,22,1,Driving Reverse Layup Shot,3,32,16,True
+Pascal Siakam,4,7,26,1,Driving Reverse Layup Shot,1,-19,0,True
+Pascal Siakam,4,6,21,1,Dunk Shot,0,2,6,True
+Pascal Siakam,2,0,32,1,Dunk Shot,1,-7,16,True
+Pascal Siakam,3,1,50,0,Dunk Shot,1,9,15,True
+Pascal Siakam,1,7,42,1,Dunk Shot,0,-2,6,True
+Pascal Siakam,4,5,50,1,Dunk Shot,0,-3,9,True
+Pascal Siakam,1,1,31,1,Dunk Shot,1,4,11,True
+Pascal Siakam,2,6,20,1,Dunk Shot,1,8,12,True
+Pascal Siakam,4,11,47,1,Dunk Shot,2,3,20,True
+Pascal Siakam,4,5,16,1,Finger Roll Layup Shot,1,-6,10,True
+Pascal Siakam,1,3,47,0,Floating Jump shot,8,87,18,True
+Pascal Siakam,4,4,52,1,Floating Jump shot,10,33,100,True
+Pascal Siakam,1,2,41,1,Floating Jump shot,13,19,130,True
+Pascal Siakam,4,1,25,1,Floating Jump shot,11,-13,116,True
+Pascal Siakam,1,0,41,1,Floating Jump shot,4,-25,38,True
+Pascal Siakam,1,2,28,0,Floating Jump shot,6,-55,31,True
+Pascal Siakam,2,6,51,0,Floating Jump shot,9,-29,88,True
+Pascal Siakam,4,11,5,1,Floating Jump shot,5,-16,50,True
+Pascal Siakam,2,7,44,0,Floating Jump shot,12,38,114,True
+Pascal Siakam,3,0,59,0,Floating Jump shot,6,55,36,True
+Pascal Siakam,2,9,44,1,Floating Jump shot,6,1,62,True
+Pascal Siakam,2,9,16,0,Floating Jump shot,6,-22,58,True
+Pascal Siakam,2,10,34,0,Floating Jump shot,12,-34,116,True
+Pascal Siakam,2,11,27,1,Floating Jump shot,12,35,115,True
+Pascal Siakam,3,1,33,1,Hook Bank Shot,2,-8,24,True
+Pascal Siakam,2,8,32,0,Hook Shot,6,-11,65,True
+Pascal Siakam,3,8,12,1,Hook Shot,3,14,33,True
+Pascal Siakam,2,9,59,0,Hook Shot,9,-32,88,True
+Pascal Siakam,4,11,39,1,Hook Shot,6,-35,60,True
+Pascal Siakam,1,6,3,0,Hook Shot,5,-24,51,True
+Pascal Siakam,4,0,51,1,Hook Shot,2,-24,2,True
+Pascal Siakam,2,9,0,0,Hook Shot,4,24,34,True
+Pascal Siakam,3,3,22,0,Hook Shot,10,-8,102,True
+Pascal Siakam,4,8,43,1,Hook Shot,2,6,25,True
+Pascal Siakam,2,10,10,0,Jump Bank Shot,26,11,264,False
+Pascal Siakam,1,1,8,0,Jump Bank Shot,1,-4,13,True
+Pascal Siakam,4,9,15,0,Jump Bank Shot,26,-148,214,False
+Pascal Siakam,4,5,33,0,Jump Shot,25,-2,258,False
+Pascal Siakam,4,8,10,0,Jump Shot,23,-226,73,False
+Pascal Siakam,2,4,38,0,Jump Shot,22,-228,1,False
+Pascal Siakam,3,5,9,1,Jump Shot,22,-226,34,False
+Pascal Siakam,1,11,45,1,Jump Shot,22,-222,13,False
+Pascal Siakam,4,4,8,0,Jump Shot,22,225,8,False
+Pascal Siakam,1,2,35,0,Jump Shot,24,-101,224,False
+Pascal Siakam,2,10,8,0,Jump Shot,25,-188,166,False
+Pascal Siakam,1,1,25,0,Jump Shot,24,-110,221,False
+Pascal Siakam,4,4,4,0,Jump Shot,22,228,1,False
+Pascal Siakam,3,2,9,1,Jump Shot,23,232,-6,False
+Pascal Siakam,1,4,6,1,Jump Shot,25,-175,185,False
+Pascal Siakam,1,1,19,1,Jump Shot,23,-230,-6,False
+Pascal Siakam,2,8,37,1,Jump Shot,22,229,9,False
+Pascal Siakam,1,0,0,0,Jump Shot,49,7,491,False
+Pascal Siakam,4,11,35,0,Jump Shot,23,-236,12,False
+Pascal Siakam,2,5,4,1,Jump Shot,22,-220,-11,False
+Pascal Siakam,4,2,5,0,Jump Shot,23,232,0,False
+Pascal Siakam,4,4,53,1,Jump Shot,23,237,-12,False
+Pascal Siakam,4,7,18,0,Jump Shot,22,-223,-6,False
+Pascal Siakam,3,1,20,0,Jump Shot,23,-237,-1,False
+Pascal Siakam,4,7,12,0,Jump Shot,24,167,176,False
+Pascal Siakam,4,11,41,0,Jump Shot,24,223,106,False
+Pascal Siakam,2,8,7,0,Jump Shot,25,-201,153,False
+Pascal Siakam,4,2,0,1,Jump Shot,16,-161,5,True
+Pascal Siakam,4,4,6,1,Jump Shot,23,231,-1,False
+Pascal Siakam,2,8,1,1,Jump Shot,23,233,-10,False
+Pascal Siakam,4,6,34,0,Jump Shot,22,-223,-1,False
+Pascal Siakam,2,9,19,0,Jump Shot,6,49,45,True
+Pascal Siakam,4,6,50,1,Jump Shot,24,-231,76,False
+Pascal Siakam,3,0,21,1,Jump Shot,22,-227,-1,False
+Pascal Siakam,4,1,27,0,Jump Shot,26,78,251,False
+Pascal Siakam,4,9,21,0,Jump Shot,20,-188,80,True
+Pascal Siakam,3,1,54,0,Jump Shot,22,222,10,False
+Pascal Siakam,3,1,22,0,Jump Shot,23,-237,-4,False
+Pascal Siakam,4,7,47,1,Jump Shot,22,-224,6,False
+Pascal Siakam,2,9,29,1,Jump Shot,25,-155,207,False
+Pascal Siakam,3,2,28,0,Jump Shot,27,-191,197,False
+Pascal Siakam,4,1,0,0,Jump Shot,23,229,26,False
+Pascal Siakam,4,7,39,0,Jump Shot,24,-152,193,False
+Pascal Siakam,3,4,56,0,Jump Shot,25,-8,251,False
+Pascal Siakam,1,0,32,0,Jump Shot,25,-217,125,False
+Pascal Siakam,2,8,13,1,Jump Shot,26,-124,229,False
+Pascal Siakam,4,6,34,0,Jump Shot,26,-138,227,False
+Pascal Siakam,4,9,55,1,Jump Shot,26,25,267,False
+Pascal Siakam,2,10,50,0,Jump Shot,22,-225,10,False
+Pascal Siakam,2,2,2,0,Jump Shot,24,147,201,False
+Pascal Siakam,4,2,27,0,Jump Shot,23,-204,124,False
+Pascal Siakam,2,9,21,0,Jump Shot,24,68,239,False
+Pascal Siakam,2,11,4,0,Jump Shot,23,187,150,False
+Pascal Siakam,4,8,54,0,Jump Shot,24,172,175,False
+Pascal Siakam,2,7,17,1,Jump Shot,25,9,252,False
+Pascal Siakam,4,8,31,0,Jump Shot,22,-228,11,False
+Pascal Siakam,2,7,55,0,Jump Shot,22,225,-1,False
+Pascal Siakam,4,3,4,0,Jump Shot,29,-150,253,False
+Pascal Siakam,4,0,21,0,Jump Shot,23,231,20,False
+Pascal Siakam,3,5,0,0,Jump Shot,13,131,34,True
+Pascal Siakam,3,4,52,0,Jump Shot,23,-228,57,False
+Pascal Siakam,4,8,19,0,Jump Shot,26,71,251,False
+Pascal Siakam,2,8,33,1,Jump Shot,26,114,242,False
+Pascal Siakam,4,0,47,0,Jump Shot,23,231,21,False
+Pascal Siakam,4,10,47,0,Jump Shot,23,-232,43,False
+Pascal Siakam,1,3,52,0,Jump Shot,1,-14,9,True
+Pascal Siakam,3,6,35,0,Jump Shot,25,78,244,False
+Pascal Siakam,3,0,44,0,Jump Shot,22,-226,-1,False
+Pascal Siakam,1,0,1,0,Jump Shot,25,-230,121,False
+Pascal Siakam,2,11,39,0,Jump Shot,23,-232,37,False
+Pascal Siakam,1,0,4,0,Jump Shot,26,-206,168,False
+Pascal Siakam,2,9,25,0,Jump Shot,22,228,29,False
+Pascal Siakam,4,4,29,0,Jump Shot,26,-98,243,False
+Pascal Siakam,2,11,1,0,Jump Shot,23,-235,21,False
+Pascal Siakam,2,9,59,0,Jump Shot,2,18,11,True
+Pascal Siakam,4,10,59,0,Jump Shot,26,-2,263,False
+Pascal Siakam,1,1,48,0,Jump Shot,25,-107,228,False
+Pascal Siakam,2,10,12,0,Jump Shot,23,-231,27,False
+Pascal Siakam,1,0,29,0,Jump Shot,24,112,221,False
+Pascal Siakam,2,11,4,0,Jump Shot,23,230,-1,False
+Pascal Siakam,2,10,59,0,Jump Shot,22,-226,-15,False
+Pascal Siakam,4,2,47,0,Jump Shot,23,-230,-25,False
+Pascal Siakam,1,3,5,0,Jump Shot,22,-229,2,False
+Pascal Siakam,4,7,53,0,Jump Shot,25,-123,220,False
+Pascal Siakam,2,7,0,1,Jump Shot,24,-20,247,False
+Pascal Siakam,4,4,13,0,Jump Shot,24,-157,192,False
+Pascal Siakam,3,3,15,0,Jump Shot,27,195,189,False
+Pascal Siakam,4,1,0,0,Jump Shot,26,154,216,False
+Pascal Siakam,3,1,39,0,Jump Shot,23,226,46,False
+Pascal Siakam,2,8,51,0,Jump Shot,22,-226,13,False
+Pascal Siakam,4,10,8,0,Jump Shot,25,38,255,False
+Pascal Siakam,3,9,15,1,Jump Shot,23,-230,23,False
+Pascal Siakam,3,7,45,0,Jump Shot,22,-223,31,False
+Pascal Siakam,2,8,52,0,Jump Shot,26,-3,263,False
+Pascal Siakam,1,4,4,0,Jump Shot,22,-226,5,False
+Pascal Siakam,2,7,16,0,Jump Shot,23,-230,-5,False
+Pascal Siakam,4,4,5,0,Jump Shot,22,225,-1,False
+Pascal Siakam,1,10,24,0,Jump Shot,26,179,191,False
+Pascal Siakam,3,3,4,0,Jump Shot,23,232,-1,False
+Pascal Siakam,2,3,2,0,Jump Shot,25,-137,218,False
+Pascal Siakam,3,10,22,0,Jump Shot,22,224,-6,False
+Pascal Siakam,2,1,46,0,Jump Shot,22,-223,-10,False
+Pascal Siakam,4,8,59,0,Jump Shot,24,-214,127,False
+Pascal Siakam,2,6,2,0,Jump Shot,23,-234,-2,False
+Pascal Siakam,2,10,23,0,Jump Shot,23,236,9,False
+Pascal Siakam,1,4,31,0,Jump Shot,23,-234,-7,False
+Pascal Siakam,2,7,36,0,Jump Shot,27,-76,263,False
+Pascal Siakam,2,7,21,1,Jump Shot,23,228,34,False
+Pascal Siakam,3,0,8,1,Jump Shot,24,26,243,False
+Pascal Siakam,1,2,55,0,Jump Shot,23,-235,-1,False
+Pascal Siakam,3,3,36,1,Jump Shot,22,229,8,False
+Pascal Siakam,1,0,13,0,Jump Shot,25,215,143,False
+Pascal Siakam,4,11,38,0,Jump Shot,6,-5,62,True
+Pascal Siakam,2,9,42,0,Jump Shot,25,-127,221,False
+Pascal Siakam,2,10,24,1,Jump Shot,6,11,62,True
+Pascal Siakam,4,6,49,0,Jump Shot,25,-136,216,False
+Pascal Siakam,4,1,1,1,Jump Shot,23,-230,8,False
+Pascal Siakam,4,11,9,0,Jump Shot,25,-89,236,False
+Pascal Siakam,2,3,35,0,Jump Shot,22,228,4,False
+Pascal Siakam,3,4,58,0,Jump Shot,23,225,48,False
+Pascal Siakam,1,10,54,1,Jump Shot,24,44,244,False
+Pascal Siakam,1,8,51,0,Jump Shot,23,231,15,False
+Pascal Siakam,1,6,0,0,Jump Shot,24,140,204,False
+Pascal Siakam,1,8,12,0,Jump Shot,22,229,-15,False
+Pascal Siakam,3,6,27,1,Jump Shot,25,78,248,False
+Pascal Siakam,3,5,29,1,Jump Shot,23,236,4,False
+Pascal Siakam,4,4,54,0,Jump Shot,23,-232,-16,False
+Pascal Siakam,4,5,24,1,Layup Shot,1,-5,16,True
+Pascal Siakam,4,7,50,1,Layup Shot,3,-18,28,True
+Pascal Siakam,4,10,5,0,Layup Shot,2,0,29,True
+Pascal Siakam,1,2,30,1,Layup Shot,1,8,11,True
+Pascal Siakam,4,2,57,1,Layup Shot,2,20,9,True
+Pascal Siakam,3,1,19,1,Layup Shot,2,13,21,True
+Pascal Siakam,4,8,17,0,Layup Shot,2,18,20,True
+Pascal Siakam,4,3,44,0,Layup Shot,1,6,16,True
+Pascal Siakam,4,1,36,1,Layup Shot,2,24,5,True
+Pascal Siakam,1,5,25,0,Layup Shot,7,67,41,True
+Pascal Siakam,2,7,30,1,Layup Shot,1,11,10,True
+Pascal Siakam,2,9,40,1,Layup Shot,1,-8,7,True
+Pascal Siakam,3,6,33,0,Layup Shot,7,63,33,True
+Pascal Siakam,2,3,50,1,Layup Shot,2,18,20,True
+Pascal Siakam,4,3,19,1,Layup Shot,1,-10,1,True
+Pascal Siakam,1,5,12,0,Layup Shot,2,9,20,True
+Pascal Siakam,2,10,24,1,Layup Shot,1,5,13,True
+Pascal Siakam,1,1,22,0,Layup Shot,5,2,58,True
+Pascal Siakam,4,6,50,1,Layup Shot,1,-2,11,True
+Pascal Siakam,4,1,26,0,Layup Shot,3,-2,39,True
+Pascal Siakam,4,10,21,1,Layup Shot,4,-11,44,True
+Pascal Siakam,4,9,54,1,Layup Shot,3,-17,25,True
+Pascal Siakam,4,10,5,1,Layup Shot,1,9,-5,True
+Pascal Siakam,4,2,37,0,Layup Shot,2,19,18,True
+Pascal Siakam,4,9,27,0,Layup Shot,2,26,4,True
+Pascal Siakam,1,0,19,1,Layup Shot,1,-16,10,True
+Pascal Siakam,2,6,17,0,Layup Shot,2,18,10,True
+Pascal Siakam,2,8,47,1,Layup Shot,2,2,29,True
+Pascal Siakam,3,0,13,0,Layup Shot,1,18,5,True
+Pascal Siakam,4,0,52,0,Layup Shot,1,19,-3,True
+Pascal Siakam,3,1,38,1,Layup Shot,1,-13,14,True
+Pascal Siakam,4,10,11,1,Layup Shot,2,-17,23,True
+Pascal Siakam,3,3,46,0,Layup Shot,1,9,17,True
+Pascal Siakam,2,9,19,1,Layup Shot,2,25,-5,True
+Pascal Siakam,2,10,49,1,Layup Shot,1,5,11,True
+Pascal Siakam,2,5,49,1,Layup Shot,1,5,14,True
+Pascal Siakam,2,8,17,0,Layup Shot,2,22,16,True
+Pascal Siakam,4,4,24,1,Pullup Jump shot,4,-44,14,True
+Pascal Siakam,1,3,54,0,Pullup Jump shot,12,44,112,True
+Pascal Siakam,3,5,53,1,Putback Dunk Shot,0,0,-6,True
+Pascal Siakam,4,3,36,1,Putback Layup Shot,0,0,-6,True
+Pascal Siakam,3,11,18,0,Putback Layup Shot,0,0,-6,True
+Pascal Siakam,2,8,19,1,Putback Layup Shot,2,20,15,True
+Pascal Siakam,4,0,22,0,Putback Layup Shot,2,-2,24,True
+Pascal Siakam,3,1,10,1,Putback Layup Shot,0,0,-6,True
+Pascal Siakam,3,6,21,1,Putback Layup Shot,1,-11,5,True
+Pascal Siakam,4,3,15,1,Putback Layup Shot,2,5,21,True
+Pascal Siakam,4,0,9,1,Putback Layup Shot,2,6,21,True
+Pascal Siakam,4,6,5,0,Putback Layup Shot,0,0,-6,True
+Pascal Siakam,2,9,20,0,Reverse Layup Shot,1,-5,13,True
+Pascal Siakam,4,7,18,1,Reverse Layup Shot,0,-4,5,True
+Pascal Siakam,4,2,34,1,Reverse Layup Shot,1,-11,-2,True
+Pascal Siakam,4,6,24,0,Reverse Layup Shot,1,-5,17,True
+Pascal Siakam,3,10,41,1,Reverse Layup Shot,0,-9,-1,True
+Pascal Siakam,2,10,25,0,Reverse Layup Shot,1,4,15,True
+Pascal Siakam,4,10,41,0,Reverse Layup Shot,3,17,30,True
+Pascal Siakam,2,11,44,1,Reverse Layup Shot,1,15,2,True
+Pascal Siakam,4,10,55,1,Reverse Layup Shot,0,-2,-2,True
+Pascal Siakam,2,6,28,1,Running Alley Oop Dunk Shot,1,2,-11,True
+Pascal Siakam,4,6,52,0,Running Alley Oop Layup Shot,1,-13,11,True
+Pascal Siakam,2,7,50,1,Running Alley Oop Layup Shot,1,7,-10,True
+Pascal Siakam,2,7,7,0,Running Alley Oop Layup Shot,1,11,15,True
+Pascal Siakam,3,5,1,1,Running Alley Oop Layup Shot,0,6,4,True
+Pascal Siakam,2,10,45,0,Running Alley Oop Layup Shot,1,14,-4,True
+Pascal Siakam,2,8,53,1,Running Dunk Shot,1,17,10,True
+Pascal Siakam,4,11,19,1,Running Dunk Shot,0,4,5,True
+Pascal Siakam,1,7,14,1,Running Dunk Shot,0,5,-3,True
+Pascal Siakam,2,10,4,1,Running Dunk Shot,1,-14,5,True
+Pascal Siakam,2,2,35,1,Running Dunk Shot,0,-3,1,True
+Pascal Siakam,4,6,6,1,Running Dunk Shot,1,-3,11,True
+Pascal Siakam,2,5,52,1,Running Dunk Shot,1,-6,8,True
+Pascal Siakam,3,0,52,1,Running Dunk Shot,0,2,8,True
+Pascal Siakam,2,10,55,1,Running Dunk Shot,1,8,6,True
+Pascal Siakam,3,1,15,1,Running Dunk Shot,1,0,13,True
+Pascal Siakam,1,0,0,1,Running Finger Roll Layup Shot,1,2,13,True
+Pascal Siakam,2,7,6,0,Running Finger Roll Layup Shot,9,73,54,True
+Pascal Siakam,4,11,32,0,Running Finger Roll Layup Shot,1,12,9,True
+Pascal Siakam,4,6,53,0,Running Jump Shot,22,221,11,False
+Pascal Siakam,2,8,10,0,Running Jump Shot,10,-4,106,True
+Pascal Siakam,2,0,24,1,Running Layup Shot,2,5,22,True
+Pascal Siakam,4,9,12,0,Running Layup Shot,2,12,20,True
+Pascal Siakam,3,0,52,1,Running Layup Shot,1,-8,6,True
+Pascal Siakam,2,6,2,1,Running Layup Shot,2,-12,16,True
+Pascal Siakam,4,3,54,1,Running Layup Shot,2,18,15,True
+Pascal Siakam,1,1,57,1,Running Layup Shot,2,20,16,True
+Pascal Siakam,4,11,25,0,Running Layup Shot,3,14,36,True
+Pascal Siakam,4,3,18,1,Running Layup Shot,0,-2,0,True
+Pascal Siakam,3,6,9,0,Running Layup Shot,2,26,8,True
+Pascal Siakam,3,0,38,1,Running Layup Shot,1,5,13,True
+Pascal Siakam,1,2,20,1,Running Layup Shot,1,2,11,True
+Pascal Siakam,2,4,10,1,Running Layup Shot,1,-8,15,True
+Pascal Siakam,2,8,39,1,Running Layup Shot,1,18,-3,True
+Pascal Siakam,4,10,33,1,Running Layup Shot,2,27,13,True
+Pascal Siakam,2,4,0,1,Running Layup Shot,0,-3,0,True
+Pascal Siakam,3,0,6,0,Running Layup Shot,2,17,15,True
+Pascal Siakam,2,8,22,1,Running Layup Shot,8,-40,70,True
+Pascal Siakam,3,1,29,1,Running Layup Shot,1,14,3,True
+Pascal Siakam,4,3,16,1,Running Layup Shot,1,-10,-2,True
+Pascal Siakam,2,9,6,0,Running Layup Shot,2,18,18,True
+Pascal Siakam,4,3,42,1,Running Layup Shot,1,9,5,True
+Pascal Siakam,1,3,3,1,Running Layup Shot,0,3,5,True
+Pascal Siakam,4,10,10,1,Running Layup Shot,1,16,11,True
+Pascal Siakam,2,3,19,0,Running Layup Shot,1,6,16,True
+Pascal Siakam,4,8,43,0,Running Layup Shot,1,6,13,True
+Pascal Siakam,2,7,24,1,Running Layup Shot,1,-11,13,True
+Pascal Siakam,1,6,2,1,Running Reverse Layup Shot,1,-2,12,True
+Pascal Siakam,4,2,45,0,Tip Layup Shot,0,0,-6,True
+Pascal Siakam,2,11,11,1,Tip Layup Shot,0,0,-6,True
+Pascal Siakam,4,5,53,1,Tip Layup Shot,0,0,-6,True
+Pascal Siakam,2,7,59,0,Tip Layup Shot,3,-2,39,True
+Pascal Siakam,4,7,35,1,Tip Layup Shot,0,0,-6,True
+Pascal Siakam,3,0,29,1,Tip Layup Shot,0,0,-6,True
+Pascal Siakam,4,0,20,0,Tip Layup Shot,0,0,-6,True
+Pascal Siakam,3,0,51,1,Tip Layup Shot,0,0,-6,True
+Pascal Siakam,4,9,56,0,Tip Layup Shot,0,0,-6,True
+Pascal Siakam,4,9,54,1,Tip Layup Shot,0,0,-6,True
+Pascal Siakam,2,10,22,1,Tip Layup Shot,0,0,-6,True
+Pascal Siakam,4,10,26,1,Tip Layup Shot,0,0,-6,True
+Pascal Siakam,1,2,51,1,Tip Layup Shot,0,0,-6,True
+Pascal Siakam,4,6,7,0,Tip Layup Shot,0,0,-6,True
+Pascal Siakam,4,3,52,1,Turnaround Fadeaway Bank Jump Shot,6,56,38,True
+Pascal Siakam,4,6,17,1,Turnaround Fadeaway Bank Jump Shot,3,35,1,True
+Pascal Siakam,2,6,21,0,Turnaround Fadeaway Bank Jump Shot,6,63,20,True
+Pascal Siakam,4,9,5,1,Turnaround Fadeaway Bank Jump Shot,9,38,83,True
+Pascal Siakam,2,7,52,1,Turnaround Hook Shot,8,49,75,True
+Pascal Siakam,1,2,13,0,Turnaround Hook Shot,5,-54,12,True
+Pascal Siakam,2,4,31,1,Turnaround Hook Shot,10,106,26,True
+Pascal Siakam,4,6,21,1,Turnaround Hook Shot,5,6,57,True
+Pascal Siakam,2,7,39,1,Turnaround Hook Shot,7,-72,25,True
+Pascal Siakam,4,9,39,0,Turnaround Hook Shot,6,2,67,True
+Pascal Siakam,4,5,45,1,Turnaround Hook Shot,7,-44,64,True
+Pascal Siakam,2,9,46,1,Turnaround Hook Shot,6,14,61,True
+Pascal Siakam,4,9,41,1,Turnaround Hook Shot,2,8,26,True
+Pascal Siakam,4,8,13,1,Turnaround Hook Shot,2,-24,16,True
+Pascal Siakam,2,7,0,1,Turnaround Hook Shot,3,-9,38,True
+Pascal Siakam,2,11,25,1,Turnaround Hook Shot,6,-11,69,True
+Pascal Siakam,2,8,30,1,Turnaround Hook Shot,4,27,36,True
+Pascal Siakam,2,4,10,1,Turnaround Hook Shot,6,-11,59,True
+Pascal Siakam,2,9,12,1,Turnaround Hook Shot,2,-19,22,True
+Pascal Siakam,4,10,57,0,Turnaround Hook Shot,6,-13,64,True
+Pascal Siakam,2,9,51,0,Turnaround Hook Shot,9,51,85,True
+Pascal Siakam,3,1,55,0,Turnaround Hook Shot,2,-24,0,True
+Pascal Siakam,1,2,11,0,Turnaround Jump Shot,6,52,30,True
+Pascal Siakam,1,2,16,0,Turnaround Jump Shot,5,10,53,True
+Pascal Siakam,1,1,14,1,Turnaround Jump Shot,9,-87,35,True
+Pascal Siakam,4,11,9,0,Turnaround Jump Shot,4,29,33,True
+Pascal Siakam,2,8,26,0,Turnaround Jump Shot,4,-2,44,True
+Pascal Siakam,1,0,15,0,Turnaround Jump Shot,3,-8,36,True
+Pascal Siakam,1,1,49,0,Turnaround Jump Shot,20,-134,154,True
+Pascal Siakam,1,2,11,0,Turnaround Jump Shot,11,-93,69,True
+Pascal Siakam,3,2,25,0,Turnaround Jump Shot,5,5,53,True
+Pascal Siakam,3,0,42,0,Turnaround Jump Shot,2,-10,26,True

@@ -1,0 +1,70 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Aaron Harrison,2,2,26,1,Cutting Layup Shot,0,1,8,True
+Aaron Harrison,3,2,29,0,Driving Finger Roll Layup Shot,1,-12,15,True
+Aaron Harrison,3,5,25,0,Driving Floating Bank Jump Shot,2,-11,21,True
+Aaron Harrison,2,11,43,1,Driving Floating Bank Jump Shot,5,44,26,True
+Aaron Harrison,4,4,27,0,Driving Floating Jump Shot,13,128,27,True
+Aaron Harrison,2,6,34,0,Driving Floating Jump Shot,18,-98,153,True
+Aaron Harrison,2,8,9,0,Driving Floating Jump Shot,5,12,52,True
+Aaron Harrison,3,0,48,0,Driving Floating Jump Shot,10,64,84,True
+Aaron Harrison,4,4,1,1,Driving Layup Shot,1,7,8,True
+Aaron Harrison,3,6,52,1,Driving Layup Shot,2,-24,11,True
+Aaron Harrison,1,1,18,0,Driving Reverse Layup Shot,3,-12,28,True
+Aaron Harrison,4,3,24,0,Jump Shot,26,-180,199,False
+Aaron Harrison,2,2,14,1,Jump Shot,25,188,178,False
+Aaron Harrison,5,1,49,0,Jump Shot,25,217,134,False
+Aaron Harrison,5,0,10,0,Jump Shot,28,-181,225,False
+Aaron Harrison,3,2,41,1,Jump Shot,25,-166,198,False
+Aaron Harrison,2,0,0,0,Jump Shot,23,234,46,False
+Aaron Harrison,4,2,58,1,Jump Shot,25,-136,218,False
+Aaron Harrison,4,2,54,0,Jump Shot,25,-187,180,False
+Aaron Harrison,2,4,19,0,Jump Shot,24,-174,177,False
+Aaron Harrison,2,3,15,0,Jump Shot,22,-228,10,False
+Aaron Harrison,1,5,39,0,Jump Shot,17,81,151,True
+Aaron Harrison,2,9,44,1,Jump Shot,27,131,243,False
+Aaron Harrison,3,1,35,0,Jump Shot,24,204,137,False
+Aaron Harrison,1,2,9,0,Jump Shot,24,219,120,False
+Aaron Harrison,2,0,1,1,Jump Shot,24,-215,110,False
+Aaron Harrison,1,8,39,0,Jump Shot,25,-139,209,False
+Aaron Harrison,4,0,57,0,Jump Shot,23,231,64,False
+Aaron Harrison,4,7,14,0,Jump Shot,23,230,-6,False
+Aaron Harrison,1,0,2,0,Jump Shot,22,-228,16,False
+Aaron Harrison,2,7,23,0,Jump Shot,24,117,214,False
+Aaron Harrison,4,11,21,0,Jump Shot,27,104,252,False
+Aaron Harrison,3,2,14,0,Jump Shot,22,-225,15,False
+Aaron Harrison,3,4,40,0,Jump Shot,28,179,216,False
+Aaron Harrison,2,1,18,0,Jump Shot,25,196,167,False
+Aaron Harrison,3,10,46,1,Jump Shot,24,-234,80,False
+Aaron Harrison,1,10,28,1,Jump Shot,26,188,184,False
+Aaron Harrison,3,9,51,0,Jump Shot,23,-231,50,False
+Aaron Harrison,4,1,50,0,Jump Shot,24,45,243,False
+Aaron Harrison,1,6,14,0,Jump Shot,25,-203,146,False
+Aaron Harrison,2,5,12,0,Jump Shot,23,-220,80,False
+Aaron Harrison,4,4,52,0,Jump Shot,25,-185,170,False
+Aaron Harrison,3,2,16,0,Jump Shot,26,-181,199,False
+Aaron Harrison,3,10,30,1,Jump Shot,24,-222,105,False
+Aaron Harrison,2,4,16,0,Jump Shot,26,131,233,False
+Aaron Harrison,3,11,5,0,Jump Shot,26,-120,236,False
+Aaron Harrison,2,6,1,0,Jump Shot,22,-223,14,False
+Aaron Harrison,3,0,29,1,Jump Shot,23,232,-10,False
+Aaron Harrison,3,4,7,0,Jump Shot,23,227,69,False
+Aaron Harrison,4,1,38,0,Jump Shot,23,-232,42,False
+Aaron Harrison,2,8,27,0,Jump Shot,13,-82,111,True
+Aaron Harrison,2,8,33,0,Jump Shot,25,65,243,False
+Aaron Harrison,2,10,47,0,Jump Shot,26,-96,250,False
+Aaron Harrison,4,8,22,0,Jump Shot,26,-213,159,False
+Aaron Harrison,4,8,4,0,Jump Shot,22,-226,-4,False
+Aaron Harrison,1,6,0,0,Pullup Jump shot,17,86,151,True
+Aaron Harrison,3,9,22,0,Pullup Jump shot,24,210,126,False
+Aaron Harrison,2,9,23,1,Pullup Jump shot,15,-118,99,True
+Aaron Harrison,4,4,38,0,Pullup Jump shot,17,129,115,True
+Aaron Harrison,2,6,48,0,Pullup Jump shot,15,152,43,True
+Aaron Harrison,4,3,7,1,Pullup Jump shot,12,5,122,True
+Aaron Harrison,2,10,12,0,Pullup Jump shot,17,-5,178,True
+Aaron Harrison,2,1,37,1,Pullup Jump shot,16,-63,152,True
+Aaron Harrison,2,8,5,0,Pullup Jump shot,16,-60,155,True
+Aaron Harrison,4,1,17,1,Pullup Jump shot,16,55,158,True
+Aaron Harrison,4,2,58,1,Putback Layup Shot,1,-19,4,True
+Aaron Harrison,4,8,49,1,Running Layup Shot,1,-2,11,True
+Aaron Harrison,1,1,16,0,Running Reverse Layup Shot,0,-2,9,True
+Aaron Harrison,1,3,24,0,Step Back Jump shot,21,123,178,True

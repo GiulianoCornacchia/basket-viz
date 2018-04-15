@@ -1,0 +1,542 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+JR Smith,3,7,1,1,Cutting Dunk Shot,1,3,15,True
+JR Smith,1,11,7,1,Cutting Dunk Shot,1,-16,2,True
+JR Smith,1,6,14,1,Cutting Finger Roll Layup Shot,7,63,40,True
+JR Smith,1,2,16,1,Cutting Layup Shot,0,3,5,True
+JR Smith,2,3,54,1,Cutting Layup Shot,1,7,13,True
+JR Smith,2,5,44,0,Cutting Layup Shot,1,5,16,True
+JR Smith,1,10,20,1,Cutting Layup Shot,1,-1,11,True
+JR Smith,3,10,13,0,Cutting Layup Shot,5,-36,39,True
+JR Smith,1,1,20,1,Driving Dunk Shot,0,-8,-1,True
+JR Smith,1,6,41,1,Driving Dunk Shot,0,2,8,True
+JR Smith,5,3,31,1,Driving Dunk Shot,2,22,10,True
+JR Smith,2,8,7,1,Driving Finger Roll Layup Shot,1,-3,15,True
+JR Smith,2,5,30,1,Driving Finger Roll Layup Shot,2,1,21,True
+JR Smith,1,4,50,0,Driving Finger Roll Layup Shot,0,-5,8,True
+JR Smith,1,6,30,1,Driving Floating Bank Jump Shot,2,-20,16,True
+JR Smith,1,6,58,0,Driving Floating Bank Jump Shot,4,-48,6,True
+JR Smith,3,9,37,0,Driving Floating Bank Jump Shot,12,9,122,True
+JR Smith,2,0,20,0,Driving Floating Bank Jump Shot,3,12,31,True
+JR Smith,4,8,39,1,Driving Floating Bank Jump Shot,15,136,79,True
+JR Smith,1,3,5,0,Driving Floating Bank Jump Shot,11,-93,67,True
+JR Smith,3,1,21,1,Driving Floating Jump Shot,4,-12,39,True
+JR Smith,3,4,13,1,Driving Floating Jump Shot,5,0,59,True
+JR Smith,3,5,5,0,Driving Floating Jump Shot,7,-3,70,True
+JR Smith,2,2,41,0,Driving Floating Jump Shot,5,52,8,True
+JR Smith,1,6,10,1,Driving Floating Jump Shot,6,-1,60,True
+JR Smith,1,4,18,1,Driving Floating Jump Shot,9,13,92,True
+JR Smith,2,3,1,0,Driving Floating Jump Shot,6,2,63,True
+JR Smith,3,10,25,0,Driving Floating Jump Shot,5,46,22,True
+JR Smith,4,9,15,1,Driving Floating Jump Shot,8,85,16,True
+JR Smith,2,5,42,0,Driving Floating Jump Shot,1,-2,13,True
+JR Smith,1,9,12,0,Driving Floating Jump Shot,6,62,31,True
+JR Smith,2,4,0,0,Driving Floating Jump Shot,9,80,49,True
+JR Smith,3,0,29,1,Driving Floating Jump Shot,11,56,98,True
+JR Smith,4,0,19,0,Driving Floating Jump Shot,11,40,103,True
+JR Smith,2,1,44,1,Driving Layup Shot,2,14,16,True
+JR Smith,2,3,49,1,Driving Layup Shot,1,-1,17,True
+JR Smith,2,6,57,1,Driving Layup Shot,2,-3,24,True
+JR Smith,1,4,19,1,Driving Layup Shot,3,32,-4,True
+JR Smith,3,6,22,0,Driving Layup Shot,5,51,5,True
+JR Smith,3,8,14,1,Driving Layup Shot,5,2,52,True
+JR Smith,3,11,45,1,Driving Layup Shot,1,8,9,True
+JR Smith,2,2,52,1,Driving Layup Shot,1,5,14,True
+JR Smith,1,2,37,0,Driving Layup Shot,2,-14,17,True
+JR Smith,1,4,49,1,Driving Layup Shot,1,-16,11,True
+JR Smith,1,1,19,0,Driving Layup Shot,2,-10,20,True
+JR Smith,3,5,46,0,Driving Layup Shot,1,11,10,True
+JR Smith,1,3,21,0,Driving Layup Shot,3,-33,10,True
+JR Smith,2,3,49,0,Driving Layup Shot,0,3,9,True
+JR Smith,4,8,12,1,Driving Layup Shot,0,9,3,True
+JR Smith,4,5,39,1,Driving Layup Shot,1,14,-5,True
+JR Smith,2,8,1,1,Driving Layup Shot,1,-15,5,True
+JR Smith,3,7,49,0,Driving Layup Shot,9,-60,75,True
+JR Smith,3,8,26,1,Driving Layup Shot,1,2,15,True
+JR Smith,4,3,39,1,Driving Layup Shot,6,-8,64,True
+JR Smith,1,5,53,1,Driving Layup Shot,2,-5,26,True
+JR Smith,3,3,28,0,Driving Layup Shot,1,4,12,True
+JR Smith,4,7,12,0,Driving Reverse Layup Shot,2,14,20,True
+JR Smith,2,0,37,1,Dunk Shot,0,3,4,True
+JR Smith,2,6,42,1,Dunk Shot,1,-5,11,True
+JR Smith,3,2,12,1,Fadeaway Jump Shot,19,-109,162,True
+JR Smith,3,7,14,0,Fadeaway Jump Shot,11,-112,6,True
+JR Smith,1,3,13,0,Fadeaway Jump Shot,12,55,117,True
+JR Smith,2,11,12,1,Fadeaway Jump Shot,16,-134,89,True
+JR Smith,3,2,31,0,Fadeaway Jump Shot,12,-113,47,True
+JR Smith,3,8,34,1,Fadeaway Jump Shot,12,-70,105,True
+JR Smith,1,0,59,0,Fadeaway Jump Shot,14,88,121,True
+JR Smith,4,10,40,0,Fadeaway Jump Shot,17,-122,132,True
+JR Smith,2,8,55,0,Fadeaway Jump Shot,24,-239,31,False
+JR Smith,2,3,9,0,Fadeaway Jump Shot,11,82,80,True
+JR Smith,1,1,44,0,Fadeaway Jump Shot,18,-105,151,True
+JR Smith,2,1,52,0,Fadeaway Jump Shot,14,-84,118,True
+JR Smith,3,2,25,0,Floating Jump shot,7,57,56,True
+JR Smith,3,6,54,0,Floating Jump shot,10,-13,109,True
+JR Smith,3,6,40,0,Floating Jump shot,1,5,16,True
+JR Smith,1,1,2,0,Floating Jump shot,4,44,-1,True
+JR Smith,1,8,37,1,Floating Jump shot,13,79,106,True
+JR Smith,1,3,36,1,Floating Jump shot,9,-45,78,True
+JR Smith,4,10,46,0,Floating Jump shot,3,0,34,True
+JR Smith,3,4,36,0,Floating Jump shot,13,111,75,True
+JR Smith,4,11,23,1,Floating Jump shot,13,-24,130,True
+JR Smith,3,1,7,0,Floating Jump shot,7,70,2,True
+JR Smith,1,9,21,0,Floating Jump shot,14,-90,119,True
+JR Smith,3,4,53,0,Jump Bank Shot,7,53,54,True
+JR Smith,1,5,39,0,Jump Bank Shot,5,9,50,True
+JR Smith,1,6,35,1,Jump Shot,22,226,28,False
+JR Smith,2,0,42,0,Jump Shot,25,-131,218,False
+JR Smith,2,3,58,1,Jump Shot,26,-122,236,False
+JR Smith,3,8,50,0,Jump Shot,25,-204,155,False
+JR Smith,1,11,0,1,Jump Shot,22,-225,-6,False
+JR Smith,3,8,19,1,Jump Shot,25,228,120,False
+JR Smith,3,4,11,1,Jump Shot,25,154,209,False
+JR Smith,2,6,54,0,Jump Shot,25,158,196,False
+JR Smith,2,0,40,0,Jump Shot,25,169,191,False
+JR Smith,2,2,46,1,Jump Shot,28,-141,246,False
+JR Smith,3,4,28,1,Jump Shot,23,235,20,False
+JR Smith,3,7,39,0,Jump Shot,23,-232,-13,False
+JR Smith,1,7,57,1,Jump Shot,25,72,240,False
+JR Smith,2,4,8,1,Jump Shot,23,-239,8,False
+JR Smith,3,6,4,0,Jump Shot,25,190,174,False
+JR Smith,1,4,34,1,Jump Shot,25,147,205,False
+JR Smith,5,1,34,0,Jump Shot,26,231,120,False
+JR Smith,5,1,7,0,Jump Shot,23,-239,-5,False
+JR Smith,3,5,3,0,Jump Shot,17,-162,56,True
+JR Smith,1,9,44,1,Jump Shot,23,228,36,False
+JR Smith,1,11,27,1,Jump Shot,24,232,64,False
+JR Smith,1,4,49,1,Jump Shot,24,222,112,False
+JR Smith,1,8,25,1,Jump Shot,26,-158,214,False
+JR Smith,2,3,39,0,Jump Shot,23,-229,26,False
+JR Smith,1,11,7,1,Jump Shot,23,230,54,False
+JR Smith,1,8,3,0,Jump Shot,23,-231,12,False
+JR Smith,2,3,20,1,Jump Shot,26,-214,148,False
+JR Smith,3,10,12,0,Jump Shot,26,-143,229,False
+JR Smith,3,10,38,1,Jump Shot,24,-210,130,False
+JR Smith,1,7,7,0,Jump Shot,29,124,269,False
+JR Smith,1,6,40,0,Jump Shot,26,-201,165,False
+JR Smith,1,7,50,0,Jump Shot,25,-231,105,False
+JR Smith,2,1,20,0,Jump Shot,25,-231,113,False
+JR Smith,1,8,38,0,Jump Shot,20,10,209,True
+JR Smith,2,2,35,1,Jump Shot,25,62,252,False
+JR Smith,4,3,44,0,Jump Shot,25,-105,227,False
+JR Smith,1,6,0,1,Jump Shot,17,31,176,True
+JR Smith,3,5,25,0,Jump Shot,27,85,261,False
+JR Smith,3,7,31,0,Jump Shot,25,92,239,False
+JR Smith,1,11,35,0,Jump Shot,25,217,135,False
+JR Smith,1,3,52,0,Jump Shot,24,-211,126,False
+JR Smith,3,5,4,0,Jump Shot,22,227,28,False
+JR Smith,1,3,17,1,Jump Shot,10,11,106,True
+JR Smith,4,1,36,1,Jump Shot,24,-134,209,False
+JR Smith,3,3,9,0,Jump Shot,25,40,256,False
+JR Smith,3,9,17,1,Jump Shot,24,-241,15,False
+JR Smith,1,9,59,0,Jump Shot,23,-231,-1,False
+JR Smith,4,2,59,1,Jump Shot,24,231,84,False
+JR Smith,4,2,29,0,Jump Shot,25,-109,230,False
+JR Smith,1,5,44,1,Jump Shot,22,226,-5,False
+JR Smith,3,6,47,1,Jump Shot,24,114,213,False
+JR Smith,4,7,16,0,Jump Shot,24,-135,210,False
+JR Smith,3,7,37,0,Jump Shot,24,-152,190,False
+JR Smith,2,0,32,1,Jump Shot,24,113,218,False
+JR Smith,1,2,16,1,Jump Shot,24,95,226,False
+JR Smith,1,3,34,1,Jump Shot,25,-161,199,False
+JR Smith,2,1,44,1,Jump Shot,22,227,-5,False
+JR Smith,1,8,45,1,Jump Shot,25,165,197,False
+JR Smith,1,5,7,1,Jump Shot,25,179,184,False
+JR Smith,1,6,3,0,Jump Shot,25,80,244,False
+JR Smith,4,5,25,0,Jump Shot,22,225,10,False
+JR Smith,2,3,12,0,Jump Shot,22,228,16,False
+JR Smith,1,11,37,0,Jump Shot,22,228,8,False
+JR Smith,3,6,54,0,Jump Shot,25,114,223,False
+JR Smith,4,4,1,0,Jump Shot,23,-232,2,False
+JR Smith,1,6,11,0,Jump Shot,24,99,225,False
+JR Smith,2,0,0,0,Jump Shot,32,144,296,False
+JR Smith,3,7,55,1,Jump Shot,24,-172,180,False
+JR Smith,3,4,53,1,Jump Shot,26,199,172,False
+JR Smith,1,9,43,0,Jump Shot,23,231,-4,False
+JR Smith,2,1,38,1,Jump Shot,17,6,174,True
+JR Smith,1,3,36,0,Jump Shot,24,231,68,False
+JR Smith,1,5,1,0,Jump Shot,19,-66,186,True
+JR Smith,1,0,25,1,Jump Shot,22,226,32,False
+JR Smith,2,10,12,1,Jump Shot,24,-143,201,False
+JR Smith,1,0,0,0,Jump Shot,37,165,334,False
+JR Smith,2,0,27,1,Jump Shot,25,133,221,False
+JR Smith,4,10,4,0,Jump Shot,25,134,218,False
+JR Smith,2,10,50,1,Jump Shot,25,-146,208,False
+JR Smith,2,6,33,0,Jump Shot,26,120,232,False
+JR Smith,4,8,59,0,Jump Shot,21,-54,206,True
+JR Smith,4,1,25,1,Jump Shot,26,-184,190,False
+JR Smith,1,2,32,0,Jump Shot,26,-71,256,False
+JR Smith,4,6,23,1,Jump Shot,25,-187,166,False
+JR Smith,2,7,4,0,Jump Shot,23,236,39,False
+JR Smith,4,7,30,0,Jump Shot,26,100,241,False
+JR Smith,2,5,1,0,Jump Shot,27,-164,220,False
+JR Smith,2,6,48,1,Jump Shot,23,231,22,False
+JR Smith,2,7,14,1,Jump Shot,23,230,55,False
+JR Smith,2,6,16,0,Jump Shot,23,232,-8,False
+JR Smith,3,3,18,1,Jump Shot,22,-226,-6,False
+JR Smith,3,0,4,1,Jump Shot,20,-209,-2,True
+JR Smith,4,7,45,1,Jump Shot,24,166,177,False
+JR Smith,2,11,5,0,Jump Shot,21,-155,142,True
+JR Smith,4,5,37,0,Jump Shot,24,-203,143,False
+JR Smith,4,9,23,0,Jump Shot,17,122,132,True
+JR Smith,1,0,7,1,Jump Shot,24,228,79,False
+JR Smith,2,10,22,0,Jump Shot,24,-79,236,False
+JR Smith,3,2,23,1,Jump Shot,17,157,81,True
+JR Smith,3,4,32,1,Jump Shot,18,-106,155,True
+JR Smith,4,7,59,1,Jump Shot,25,151,210,False
+JR Smith,4,8,48,0,Jump Shot,24,-135,202,False
+JR Smith,2,7,8,0,Jump Shot,24,171,171,False
+JR Smith,2,7,25,0,Jump Shot,22,-220,-16,False
+JR Smith,4,6,52,0,Jump Shot,15,106,110,True
+JR Smith,3,5,3,0,Jump Shot,28,-212,195,False
+JR Smith,4,4,22,1,Jump Shot,28,-177,227,False
+JR Smith,2,5,57,1,Jump Shot,24,-76,236,False
+JR Smith,4,3,44,0,Jump Shot,24,96,223,False
+JR Smith,2,6,19,1,Jump Shot,25,229,122,False
+JR Smith,4,7,33,1,Jump Shot,19,-195,15,True
+JR Smith,1,3,11,1,Jump Shot,23,231,25,False
+JR Smith,3,0,19,1,Jump Shot,25,-220,129,False
+JR Smith,1,2,11,0,Jump Shot,24,232,73,False
+JR Smith,2,8,14,1,Jump Shot,26,-228,132,False
+JR Smith,4,4,58,0,Jump Shot,23,237,3,False
+JR Smith,3,4,1,0,Jump Shot,22,-220,15,False
+JR Smith,4,9,14,1,Jump Shot,23,235,15,False
+JR Smith,1,1,26,0,Jump Shot,23,-3,230,True
+JR Smith,1,5,20,0,Jump Shot,25,-226,120,False
+JR Smith,1,9,55,0,Jump Shot,21,-95,196,True
+JR Smith,4,9,7,1,Jump Shot,23,235,14,False
+JR Smith,4,1,13,0,Jump Shot,25,-8,250,False
+JR Smith,4,2,10,0,Jump Shot,25,-70,241,False
+JR Smith,4,2,3,0,Jump Shot,24,-194,157,False
+JR Smith,3,11,5,1,Jump Shot,25,-89,241,False
+JR Smith,1,5,43,1,Jump Shot,21,55,211,True
+JR Smith,1,7,7,0,Jump Shot,25,-14,251,False
+JR Smith,3,9,26,0,Jump Shot,18,-105,155,True
+JR Smith,1,3,46,0,Jump Shot,24,-205,140,False
+JR Smith,3,8,33,0,Jump Shot,21,-92,196,True
+JR Smith,1,4,2,0,Jump Shot,24,-107,225,False
+JR Smith,2,3,56,1,Jump Shot,19,-190,30,True
+JR Smith,3,11,23,0,Jump Shot,20,-134,158,True
+JR Smith,2,3,7,0,Jump Shot,25,-11,255,False
+JR Smith,3,10,58,0,Jump Shot,26,-210,164,False
+JR Smith,2,5,27,0,Jump Shot,25,-168,192,False
+JR Smith,1,5,30,0,Jump Shot,25,-93,237,False
+JR Smith,1,8,30,0,Jump Shot,25,-62,250,False
+JR Smith,3,5,42,0,Jump Shot,22,220,-3,False
+JR Smith,3,8,19,0,Jump Shot,25,18,257,False
+JR Smith,2,3,3,0,Jump Shot,24,230,94,False
+JR Smith,1,2,57,1,Jump Shot,18,-152,110,True
+JR Smith,1,5,26,0,Jump Shot,24,232,70,False
+JR Smith,1,7,17,0,Jump Shot,24,93,232,False
+JR Smith,3,2,44,0,Jump Shot,23,232,8,False
+JR Smith,1,3,37,1,Jump Shot,29,144,252,False
+JR Smith,3,6,39,0,Jump Shot,25,-131,222,False
+JR Smith,3,11,16,1,Jump Shot,24,-174,173,False
+JR Smith,1,9,40,1,Jump Shot,21,-43,207,True
+JR Smith,3,2,7,1,Jump Shot,24,-222,99,False
+JR Smith,1,4,25,1,Jump Shot,22,225,4,False
+JR Smith,3,1,34,0,Jump Shot,22,-221,47,False
+JR Smith,1,3,38,1,Jump Shot,22,225,-4,False
+JR Smith,3,5,56,0,Jump Shot,23,236,10,False
+JR Smith,3,8,13,0,Jump Shot,26,-203,176,False
+JR Smith,2,7,40,0,Jump Shot,26,-123,237,False
+JR Smith,3,6,32,1,Jump Shot,25,-203,148,False
+JR Smith,3,3,47,0,Jump Shot,28,122,260,False
+JR Smith,1,8,48,0,Jump Shot,26,-27,259,False
+JR Smith,1,8,23,0,Jump Shot,23,-232,4,False
+JR Smith,5,1,28,0,Jump Shot,24,-151,199,False
+JR Smith,3,8,14,0,Jump Shot,25,-68,242,False
+JR Smith,2,3,16,0,Jump Shot,21,-130,171,True
+JR Smith,2,0,0,0,Jump Shot,41,187,373,False
+JR Smith,2,4,58,0,Jump Shot,22,-221,21,False
+JR Smith,1,1,21,1,Jump Shot,25,183,182,False
+JR Smith,1,5,30,0,Jump Shot,26,112,241,False
+JR Smith,1,7,53,1,Jump Shot,22,-227,-11,False
+JR Smith,2,10,2,0,Jump Shot,25,230,100,False
+JR Smith,4,4,7,1,Jump Shot,22,225,12,False
+JR Smith,1,4,46,0,Jump Shot,25,-119,226,False
+JR Smith,4,1,47,0,Jump Shot,22,227,-25,False
+JR Smith,1,3,58,0,Jump Shot,22,223,51,False
+JR Smith,2,2,22,0,Jump Shot,25,152,200,False
+JR Smith,3,4,48,1,Jump Shot,22,222,44,False
+JR Smith,1,5,56,1,Jump Shot,25,218,134,False
+JR Smith,2,1,33,1,Jump Shot,24,32,245,False
+JR Smith,1,2,23,1,Jump Shot,22,-227,9,False
+JR Smith,1,8,1,0,Jump Shot,18,-189,14,True
+JR Smith,1,10,4,0,Jump Shot,24,-141,195,False
+JR Smith,4,7,18,0,Jump Shot,25,-170,194,False
+JR Smith,2,6,45,0,Jump Shot,22,-226,3,False
+JR Smith,1,8,8,1,Jump Shot,25,180,184,False
+JR Smith,3,7,6,1,Jump Shot,23,236,26,False
+JR Smith,3,10,38,0,Jump Shot,25,194,169,False
+JR Smith,1,4,39,0,Jump Shot,34,-173,303,False
+JR Smith,4,4,11,0,Jump Shot,25,-143,210,False
+JR Smith,2,3,39,0,Jump Shot,22,-226,29,False
+JR Smith,3,7,10,1,Jump Shot,25,-207,141,False
+JR Smith,3,3,53,1,Jump Shot,25,242,63,False
+JR Smith,4,9,53,1,Jump Shot,25,-60,250,False
+JR Smith,3,10,26,0,Jump Shot,25,235,92,False
+JR Smith,1,10,39,1,Jump Shot,24,-237,73,False
+JR Smith,2,2,4,0,Jump Shot,25,-150,207,False
+JR Smith,4,1,53,0,Jump Shot,12,-117,50,True
+JR Smith,4,5,50,1,Jump Shot,25,-235,100,False
+JR Smith,1,3,59,0,Jump Shot,27,29,276,False
+JR Smith,2,4,47,0,Jump Shot,22,-227,-16,False
+JR Smith,1,6,2,0,Jump Shot,25,68,249,False
+JR Smith,2,6,0,1,Jump Shot,25,-154,209,False
+JR Smith,1,7,17,0,Jump Shot,26,-115,235,False
+JR Smith,2,2,20,1,Jump Shot,27,-155,222,False
+JR Smith,3,10,15,0,Jump Shot,27,-65,272,False
+JR Smith,3,8,2,0,Jump Shot,25,-32,255,False
+JR Smith,2,2,45,0,Jump Shot,27,106,252,False
+JR Smith,4,3,24,0,Jump Shot,25,-166,190,False
+JR Smith,4,2,38,0,Jump Shot,18,-93,158,True
+JR Smith,2,5,4,1,Jump Shot,25,130,221,False
+JR Smith,1,8,10,1,Jump Shot,23,231,1,False
+JR Smith,1,5,4,0,Jump Shot,25,-191,167,False
+JR Smith,4,1,53,0,Jump Shot,26,137,229,False
+JR Smith,1,4,14,0,Jump Shot,25,63,246,False
+JR Smith,3,8,12,1,Jump Shot,27,93,257,False
+JR Smith,3,11,46,0,Jump Shot,29,-163,244,False
+JR Smith,3,6,15,0,Jump Shot,22,222,34,False
+JR Smith,2,3,43,0,Jump Shot,26,-122,230,False
+JR Smith,1,4,7,0,Jump Shot,23,-233,20,False
+JR Smith,2,4,25,0,Jump Shot,7,-4,78,True
+JR Smith,3,9,56,0,Jump Shot,24,152,191,False
+JR Smith,3,9,35,0,Jump Shot,23,228,31,False
+JR Smith,4,0,33,0,Jump Shot,27,102,254,False
+JR Smith,2,2,52,0,Jump Shot,25,-12,259,False
+JR Smith,3,8,57,0,Jump Shot,24,-214,119,False
+JR Smith,4,5,36,0,Jump Shot,26,130,234,False
+JR Smith,3,4,34,0,Jump Shot,26,-53,255,False
+JR Smith,1,3,43,0,Jump Shot,26,-120,235,False
+JR Smith,3,9,47,0,Jump Shot,20,105,174,True
+JR Smith,3,8,23,1,Jump Shot,25,-199,152,False
+JR Smith,1,9,43,0,Jump Shot,25,79,243,False
+JR Smith,4,9,11,0,Jump Shot,25,-223,129,False
+JR Smith,3,4,11,0,Jump Shot,25,-122,220,False
+JR Smith,1,4,37,0,Jump Shot,23,-230,22,False
+JR Smith,1,3,20,0,Jump Shot,22,225,8,False
+JR Smith,1,1,52,0,Jump Shot,27,-63,263,False
+JR Smith,1,4,29,0,Jump Shot,23,231,16,False
+JR Smith,3,0,34,0,Jump Shot,25,215,134,False
+JR Smith,4,5,54,1,Jump Shot,27,167,221,False
+JR Smith,4,11,38,1,Jump Shot,20,-186,89,True
+JR Smith,4,6,41,0,Jump Shot,22,226,28,False
+JR Smith,1,3,21,1,Jump Shot,23,232,27,False
+JR Smith,3,5,17,0,Jump Shot,25,178,185,False
+JR Smith,3,0,24,0,Jump Shot,20,151,144,True
+JR Smith,1,4,47,0,Jump Shot,25,-70,243,False
+JR Smith,1,1,26,1,Jump Shot,9,70,63,True
+JR Smith,1,1,14,0,Jump Shot,26,-107,237,False
+JR Smith,2,3,33,0,Jump Shot,22,228,-13,False
+JR Smith,3,5,24,0,Jump Shot,23,-231,-12,False
+JR Smith,3,6,41,0,Jump Shot,25,-178,176,False
+JR Smith,2,1,57,0,Jump Shot,23,227,62,False
+JR Smith,1,4,40,0,Jump Shot,24,-235,53,False
+JR Smith,1,6,59,1,Jump Shot,22,225,-5,False
+JR Smith,1,11,29,1,Jump Shot,23,-230,49,False
+JR Smith,3,2,51,0,Jump Shot,24,-209,130,False
+JR Smith,3,4,47,0,Jump Shot,24,-150,197,False
+JR Smith,3,8,3,0,Jump Shot,23,230,57,False
+JR Smith,2,3,28,0,Jump Shot,23,-237,0,False
+JR Smith,4,1,50,0,Jump Shot,25,225,127,False
+JR Smith,4,2,47,0,Jump Shot,32,-19,323,False
+JR Smith,1,9,53,0,Jump Shot,20,96,178,True
+JR Smith,1,11,46,0,Jump Shot,7,-19,71,True
+JR Smith,3,6,42,1,Jump Shot,23,232,15,False
+JR Smith,1,7,51,0,Jump Shot,25,24,258,False
+JR Smith,3,2,10,0,Jump Shot,25,146,209,False
+JR Smith,3,5,12,0,Jump Shot,25,124,221,False
+JR Smith,1,8,17,0,Jump Shot,18,-9,187,True
+JR Smith,2,1,59,0,Jump Shot,26,-54,263,False
+JR Smith,1,6,54,0,Jump Shot,23,234,-1,False
+JR Smith,3,4,24,0,Jump Shot,22,-226,-4,False
+JR Smith,3,6,23,0,Jump Shot,21,-218,0,False
+JR Smith,2,2,19,0,Jump Shot,26,-98,243,False
+JR Smith,1,8,35,1,Jump Shot,25,-162,203,False
+JR Smith,2,0,2,1,Jump Shot,25,-140,218,False
+JR Smith,3,10,50,0,Jump Shot,26,-224,141,False
+JR Smith,3,7,42,0,Jump Shot,25,-14,258,False
+JR Smith,3,8,53,1,Jump Shot,25,147,204,False
+JR Smith,1,11,36,0,Jump Shot,25,208,145,False
+JR Smith,1,4,30,1,Jump Shot,24,-141,203,False
+JR Smith,3,10,39,0,Jump Shot,23,-239,18,False
+JR Smith,3,11,45,0,Jump Shot,27,-30,274,False
+JR Smith,3,8,57,1,Jump Shot,24,-215,126,False
+JR Smith,1,10,11,0,Jump Shot,23,-234,7,False
+JR Smith,4,3,26,1,Jump Shot,26,161,213,False
+JR Smith,1,11,15,0,Jump Shot,23,58,228,True
+JR Smith,1,2,46,0,Jump Shot,25,180,174,False
+JR Smith,3,11,14,1,Jump Shot,22,-228,22,False
+JR Smith,1,10,7,1,Jump Shot,25,-171,183,False
+JR Smith,3,4,46,1,Jump Shot,24,126,214,False
+JR Smith,1,6,30,0,Jump Shot,22,-226,17,False
+JR Smith,3,7,2,0,Jump Shot,27,-188,194,False
+JR Smith,1,11,4,0,Jump Shot,22,-225,-12,False
+JR Smith,1,6,55,0,Jump Shot,23,-222,83,False
+JR Smith,3,11,35,0,Jump Shot,27,180,206,False
+JR Smith,3,5,25,0,Jump Shot,23,231,28,False
+JR Smith,3,2,38,0,Jump Shot,25,228,122,False
+JR Smith,4,4,23,0,Jump Shot,24,207,127,False
+JR Smith,1,9,1,0,Jump Shot,26,-38,262,False
+JR Smith,3,6,58,0,Jump Shot,25,-176,191,False
+JR Smith,1,8,29,0,Jump Shot,25,-177,188,False
+JR Smith,1,4,28,1,Jump Shot,23,-231,50,False
+JR Smith,3,3,57,0,Jump Shot,24,114,212,False
+JR Smith,1,8,24,0,Jump Shot,24,-149,198,False
+JR Smith,3,10,11,1,Jump Shot,23,-235,-10,False
+JR Smith,2,4,58,1,Jump Shot,23,230,20,False
+JR Smith,3,4,8,0,Jump Shot,25,80,238,False
+JR Smith,3,7,51,1,Jump Shot,24,117,217,False
+JR Smith,1,9,18,1,Jump Shot,27,92,256,False
+JR Smith,2,4,8,1,Jump Shot,27,168,213,False
+JR Smith,3,9,29,0,Jump Shot,19,32,194,True
+JR Smith,3,3,8,0,Jump Shot,25,113,225,False
+JR Smith,3,1,57,0,Jump Shot,24,225,102,False
+JR Smith,4,0,10,1,Jump Shot,23,-231,-10,False
+JR Smith,4,0,56,0,Jump Shot,26,-76,259,False
+JR Smith,4,6,6,1,Jump Shot,23,-239,1,False
+JR Smith,4,0,52,0,Jump Shot,29,-164,244,False
+JR Smith,2,3,0,0,Jump Shot,22,-221,-23,False
+JR Smith,1,3,32,1,Jump Shot,23,-234,6,False
+JR Smith,1,4,7,1,Jump Shot,27,-31,277,False
+JR Smith,4,2,49,1,Jump Shot,28,222,184,False
+JR Smith,4,1,23,0,Jump Shot,26,206,163,False
+JR Smith,4,0,39,0,Jump Shot,25,130,222,False
+JR Smith,2,5,1,0,Jump Shot,25,-9,259,False
+JR Smith,3,6,20,0,Jump Shot,23,-232,1,False
+JR Smith,3,8,40,1,Jump Shot,26,163,211,False
+JR Smith,3,9,34,0,Jump Shot,29,79,284,False
+JR Smith,1,4,1,1,Jump Shot,22,227,25,False
+JR Smith,2,3,34,1,Jump Shot,23,-232,4,False
+JR Smith,3,8,58,0,Jump Shot,25,-146,209,False
+JR Smith,3,3,56,0,Jump Shot,25,-136,221,False
+JR Smith,3,8,42,1,Jump Shot,25,234,101,False
+JR Smith,2,0,34,1,Jump Shot,24,226,91,False
+JR Smith,1,9,39,1,Jump Shot,23,-230,13,False
+JR Smith,3,6,26,0,Jump Shot,22,-225,46,False
+JR Smith,1,3,0,1,Jump Shot,23,231,46,False
+JR Smith,3,5,4,1,Jump Shot,23,231,52,False
+JR Smith,1,9,43,1,Jump Shot,24,-105,226,False
+JR Smith,2,7,3,0,Jump Shot,22,223,0,False
+JR Smith,2,0,36,1,Jump Shot,23,-234,13,False
+JR Smith,3,3,32,0,Jump Shot,25,-13,252,False
+JR Smith,3,7,58,0,Jump Shot,22,-227,-4,False
+JR Smith,4,3,13,0,Jump Shot,27,115,247,False
+JR Smith,1,10,29,0,Jump Shot,30,-190,233,False
+JR Smith,3,0,6,0,Jump Shot,25,95,240,False
+JR Smith,3,0,47,0,Jump Shot,26,-57,256,False
+JR Smith,4,6,5,0,Jump Shot,25,-129,215,False
+JR Smith,3,9,25,1,Jump Shot,28,14,284,False
+JR Smith,3,8,15,1,Jump Shot,22,-223,15,False
+JR Smith,3,10,27,1,Jump Shot,23,239,15,False
+JR Smith,1,8,13,0,Jump Shot,26,136,227,False
+JR Smith,3,9,21,1,Jump Shot,25,129,225,False
+JR Smith,2,0,27,0,Jump Shot,26,-220,144,False
+JR Smith,3,5,3,0,Jump Shot,27,206,183,False
+JR Smith,4,6,23,0,Jump Shot,25,110,235,False
+JR Smith,3,1,12,0,Jump Shot,25,-200,151,False
+JR Smith,2,0,57,0,Jump Shot,28,-225,178,False
+JR Smith,3,5,31,1,Jump Shot,22,-225,6,False
+JR Smith,2,10,38,1,Jump Shot,21,33,211,True
+JR Smith,1,6,56,0,Jump Shot,23,-231,15,False
+JR Smith,3,7,4,1,Jump Shot,22,228,15,False
+JR Smith,3,3,47,1,Jump Shot,26,-217,157,False
+JR Smith,1,1,40,0,Jump Shot,26,145,225,False
+JR Smith,3,11,6,0,Jump Shot,26,81,257,False
+JR Smith,4,7,53,1,Jump Shot,22,-229,8,False
+JR Smith,1,11,40,0,Jump Shot,24,-217,122,False
+JR Smith,2,0,45,1,Jump Shot,27,149,236,False
+JR Smith,1,6,14,1,Layup Shot,1,7,16,True
+JR Smith,4,0,24,1,Layup Shot,0,-5,2,True
+JR Smith,2,7,32,1,Layup Shot,5,-13,56,True
+JR Smith,1,10,29,1,Layup Shot,2,18,13,True
+JR Smith,2,4,31,0,Layup Shot,1,-10,10,True
+JR Smith,3,10,12,0,Layup Shot,2,22,18,True
+JR Smith,1,11,20,1,Pullup Jump shot,24,-2,249,False
+JR Smith,3,3,40,0,Pullup Jump shot,17,90,146,True
+JR Smith,1,11,2,1,Pullup Jump shot,18,105,149,True
+JR Smith,3,7,38,0,Pullup Jump shot,16,162,11,True
+JR Smith,1,11,29,1,Pullup Jump shot,15,-112,100,True
+JR Smith,2,3,35,0,Pullup Jump shot,8,-15,87,True
+JR Smith,3,9,4,0,Pullup Jump shot,20,-143,147,True
+JR Smith,1,8,43,0,Pullup Jump shot,21,-21,210,True
+JR Smith,2,0,0,0,Pullup Jump shot,38,213,326,False
+JR Smith,4,10,36,1,Pullup Jump shot,18,93,156,True
+JR Smith,4,9,36,0,Pullup Jump shot,18,52,174,True
+JR Smith,3,6,45,0,Pullup Jump shot,23,-228,73,False
+JR Smith,3,4,55,0,Pullup Jump shot,26,-139,225,False
+JR Smith,3,8,19,1,Pullup Jump shot,26,155,220,False
+JR Smith,2,4,28,0,Pullup Jump shot,13,63,121,True
+JR Smith,1,7,52,1,Pullup Jump shot,14,-4,148,True
+JR Smith,2,0,0,0,Pullup Jump shot,35,-124,337,False
+JR Smith,3,11,48,0,Pullup Jump shot,25,-171,184,False
+JR Smith,3,3,56,0,Pullup Jump shot,27,-25,274,False
+JR Smith,1,8,12,0,Pullup Jump shot,20,-208,20,True
+JR Smith,2,11,45,0,Pullup Jump shot,18,-105,152,True
+JR Smith,1,3,28,1,Pullup Jump shot,25,-198,161,False
+JR Smith,1,2,9,0,Pullup Jump shot,25,-58,253,False
+JR Smith,3,8,24,0,Pullup Jump shot,16,61,152,True
+JR Smith,1,3,5,0,Pullup Jump shot,26,98,242,False
+JR Smith,1,7,46,1,Pullup Jump shot,20,-78,188,True
+JR Smith,2,0,27,1,Pullup Jump shot,20,82,183,True
+JR Smith,2,11,0,1,Reverse Dunk Shot,0,2,8,True
+JR Smith,3,11,12,0,Running Jump Shot,24,-78,235,False
+JR Smith,2,2,15,1,Running Jump Shot,12,81,89,True
+JR Smith,1,10,59,0,Running Jump Shot,25,174,185,False
+JR Smith,1,7,23,0,Running Layup Shot,2,8,21,True
+JR Smith,2,0,7,0,Running Layup Shot,5,23,52,True
+JR Smith,3,11,25,1,Running Layup Shot,0,-4,-5,True
+JR Smith,2,2,55,0,Running Layup Shot,0,0,9,True
+JR Smith,1,8,43,1,Running Pull-Up Jump Shot,24,131,207,False
+JR Smith,3,2,41,0,Step Back Jump shot,12,-107,55,True
+JR Smith,4,8,42,1,Step Back Jump shot,20,-204,48,True
+JR Smith,1,9,25,1,Step Back Jump shot,22,177,138,True
+JR Smith,2,0,34,1,Step Back Jump shot,25,74,247,False
+JR Smith,2,2,11,1,Step Back Jump shot,24,-236,57,False
+JR Smith,3,1,15,1,Step Back Jump shot,20,89,186,True
+JR Smith,3,9,16,0,Step Back Jump shot,19,-168,92,True
+JR Smith,3,4,27,1,Step Back Jump shot,23,-237,-17,False
+JR Smith,4,4,2,0,Step Back Jump shot,24,-130,213,False
+JR Smith,4,7,32,0,Step Back Jump shot,14,-140,-4,True
+JR Smith,1,4,33,1,Step Back Jump shot,19,-17,199,True
+JR Smith,3,6,1,1,Step Back Jump shot,16,-130,109,True
+JR Smith,2,11,23,0,Step Back Jump shot,20,-83,189,True
+JR Smith,4,11,13,1,Step Back Jump shot,20,-176,105,True
+JR Smith,3,5,35,1,Step Back Jump shot,14,22,143,True
+JR Smith,3,6,26,1,Step Back Jump shot,22,-228,18,False
+JR Smith,1,9,34,0,Step Back Jump shot,19,192,7,True
+JR Smith,4,1,40,0,Step Back Jump shot,18,183,41,True
+JR Smith,4,10,2,1,Step Back Jump shot,15,-151,14,True
+JR Smith,3,6,10,1,Step Back Jump shot,20,-43,200,True
+JR Smith,4,4,1,0,Step Back Jump shot,22,225,11,False
+JR Smith,2,3,34,0,Step Back Jump shot,26,42,257,False
+JR Smith,1,11,16,1,Step Back Jump shot,13,-97,92,True
+JR Smith,1,1,45,1,Step Back Jump shot,18,-188,0,True
+JR Smith,1,6,48,1,Step Back Jump shot,27,-174,214,False
+JR Smith,3,0,2,0,Step Back Jump shot,15,-151,45,True
+JR Smith,4,6,46,1,Step Back Jump shot,15,-127,82,True
+JR Smith,1,7,23,1,Step Back Jump shot,21,76,199,True
+JR Smith,1,4,10,1,Step Back Jump shot,17,-160,60,True
+JR Smith,2,0,31,1,Step Back Jump shot,18,152,109,True
+JR Smith,2,5,43,0,Step Back Jump shot,22,-224,26,False
+JR Smith,3,1,33,0,Step Back Jump shot,24,-177,169,False
+JR Smith,3,6,56,1,Step Back Jump shot,14,149,1,True
+JR Smith,2,11,2,1,Step Back Jump shot,11,105,38,True
+JR Smith,4,7,56,1,Step Back Jump shot,20,168,120,True
+JR Smith,1,3,15,0,Step Back Jump shot,17,-178,5,True
+JR Smith,2,11,44,0,Step Back Jump shot,21,-144,154,True
+JR Smith,4,2,39,0,Step Back Jump shot,18,134,126,True
+JR Smith,1,11,25,1,Step Back Jump shot,23,232,38,False
+JR Smith,1,2,35,0,Tip Layup Shot,1,-9,17,True
+JR Smith,3,6,34,0,Tip Layup Shot,0,0,-6,True
+JR Smith,2,0,0,0,Tip Layup Shot,2,21,9,True
+JR Smith,3,6,24,0,Turnaround Fadeaway Bank Jump Shot,2,19,14,True
+JR Smith,1,3,0,0,Turnaround Fadeaway shot,10,-93,49,True
+JR Smith,4,5,32,0,Turnaround Hook Shot,8,5,82,True
+JR Smith,3,11,8,1,Turnaround Jump Shot,7,-38,61,True
+JR Smith,4,11,19,0,Turnaround Jump Shot,25,-220,129,False
+JR Smith,1,9,11,0,Turnaround Jump Shot,22,223,-9,False
+JR Smith,3,0,24,0,Turnaround Jump Shot,18,108,149,True
+JR Smith,4,4,21,0,Turnaround Jump Shot,17,-142,101,True

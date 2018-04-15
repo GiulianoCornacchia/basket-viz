@@ -1,0 +1,380 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Dion Waiters,1,8,48,1,Alley Oop Layup shot,2,3,24,True
+Dion Waiters,2,4,55,1,Driving Dunk Shot,1,12,8,True
+Dion Waiters,1,6,11,0,Driving Finger Roll Layup Shot,4,34,34,True
+Dion Waiters,2,4,23,1,Driving Finger Roll Layup Shot,1,-6,15,True
+Dion Waiters,1,3,40,0,Driving Finger Roll Layup Shot,1,8,7,True
+Dion Waiters,2,5,11,1,Driving Finger Roll Layup Shot,4,25,40,True
+Dion Waiters,3,5,47,1,Driving Finger Roll Layup Shot,1,-5,12,True
+Dion Waiters,4,4,55,1,Driving Finger Roll Layup Shot,0,-3,5,True
+Dion Waiters,3,9,58,1,Driving Finger Roll Layup Shot,0,3,6,True
+Dion Waiters,2,0,12,0,Driving Finger Roll Layup Shot,1,-11,11,True
+Dion Waiters,2,8,46,0,Driving Finger Roll Layup Shot,6,-55,36,True
+Dion Waiters,2,9,23,1,Driving Finger Roll Layup Shot,1,11,8,True
+Dion Waiters,2,3,15,1,Driving Finger Roll Layup Shot,3,24,25,True
+Dion Waiters,1,4,38,0,Driving Finger Roll Layup Shot,5,41,33,True
+Dion Waiters,2,4,34,1,Driving Floating Bank Jump Shot,13,-5,130,True
+Dion Waiters,4,4,42,1,Driving Floating Bank Jump Shot,3,-23,26,True
+Dion Waiters,3,3,13,1,Driving Floating Bank Jump Shot,10,-65,82,True
+Dion Waiters,2,0,52,1,Driving Layup Shot,1,-2,13,True
+Dion Waiters,4,5,16,0,Driving Layup Shot,5,-56,21,True
+Dion Waiters,4,10,36,1,Driving Layup Shot,3,2,32,True
+Dion Waiters,3,0,14,1,Driving Layup Shot,1,-9,13,True
+Dion Waiters,1,11,5,1,Driving Layup Shot,1,-2,14,True
+Dion Waiters,4,2,50,1,Driving Layup Shot,3,24,26,True
+Dion Waiters,1,0,0,0,Driving Layup Shot,1,-14,8,True
+Dion Waiters,1,9,45,1,Driving Layup Shot,1,10,7,True
+Dion Waiters,2,6,6,0,Driving Layup Shot,1,-8,16,True
+Dion Waiters,3,4,48,0,Driving Layup Shot,1,18,5,True
+Dion Waiters,1,8,9,1,Driving Layup Shot,4,34,34,True
+Dion Waiters,2,6,43,0,Driving Layup Shot,5,-25,45,True
+Dion Waiters,5,0,28,1,Driving Layup Shot,3,-32,18,True
+Dion Waiters,4,4,51,1,Driving Layup Shot,1,-12,6,True
+Dion Waiters,1,4,9,0,Driving Layup Shot,1,-11,1,True
+Dion Waiters,1,7,36,0,Driving Layup Shot,3,22,26,True
+Dion Waiters,2,1,31,1,Driving Layup Shot,1,-13,1,True
+Dion Waiters,2,0,14,0,Driving Layup Shot,3,-33,17,True
+Dion Waiters,3,11,43,0,Driving Layup Shot,2,-14,22,True
+Dion Waiters,1,6,32,1,Driving Layup Shot,1,-17,6,True
+Dion Waiters,4,8,29,1,Driving Layup Shot,0,0,-1,True
+Dion Waiters,4,1,55,1,Driving Layup Shot,3,-29,26,True
+Dion Waiters,1,2,37,1,Driving Layup Shot,0,-4,9,True
+Dion Waiters,1,2,47,0,Driving Layup Shot,0,-9,4,True
+Dion Waiters,1,7,51,1,Driving Layup Shot,6,21,57,True
+Dion Waiters,3,8,38,1,Driving Layup Shot,1,-3,10,True
+Dion Waiters,2,3,25,1,Driving Layup Shot,0,2,1,True
+Dion Waiters,3,8,58,1,Driving Layup Shot,2,19,9,True
+Dion Waiters,1,10,53,0,Driving Layup Shot,4,8,40,True
+Dion Waiters,2,1,47,0,Driving Layup Shot,2,-13,22,True
+Dion Waiters,2,9,8,1,Driving Layup Shot,1,-18,3,True
+Dion Waiters,2,4,6,1,Driving Layup Shot,1,-5,10,True
+Dion Waiters,1,9,56,1,Driving Layup Shot,1,14,1,True
+Dion Waiters,4,0,3,1,Driving Layup Shot,2,22,7,True
+Dion Waiters,1,4,44,1,Driving Layup Shot,1,17,10,True
+Dion Waiters,1,7,29,0,Driving Layup Shot,2,-24,6,True
+Dion Waiters,1,6,37,0,Driving Layup Shot,1,-16,11,True
+Dion Waiters,2,0,21,0,Driving Layup Shot,1,-10,8,True
+Dion Waiters,3,7,9,1,Driving Layup Shot,0,4,-1,True
+Dion Waiters,3,0,34,0,Driving Layup Shot,5,-35,37,True
+Dion Waiters,2,0,3,0,Driving Layup Shot,3,-29,21,True
+Dion Waiters,1,10,32,1,Driving Layup Shot,1,-1,18,True
+Dion Waiters,4,1,47,0,Driving Layup Shot,4,10,42,True
+Dion Waiters,4,10,42,0,Driving Layup Shot,2,21,11,True
+Dion Waiters,2,2,18,1,Driving Layup Shot,2,11,17,True
+Dion Waiters,4,3,44,1,Driving Layup Shot,1,9,11,True
+Dion Waiters,4,4,18,0,Driving Layup Shot,8,-56,60,True
+Dion Waiters,2,3,5,1,Driving Layup Shot,2,19,11,True
+Dion Waiters,4,4,44,1,Driving Layup Shot,2,16,12,True
+Dion Waiters,3,8,0,0,Driving Layup Shot,1,-14,12,True
+Dion Waiters,3,8,58,1,Driving Layup Shot,2,-22,12,True
+Dion Waiters,2,2,39,1,Driving Layup Shot,2,23,15,True
+Dion Waiters,1,11,9,1,Driving Layup Shot,1,13,3,True
+Dion Waiters,1,9,49,1,Driving Layup Shot,1,19,4,True
+Dion Waiters,3,5,53,0,Driving Layup Shot,2,-20,20,True
+Dion Waiters,4,5,22,0,Driving Layup Shot,1,-18,4,True
+Dion Waiters,1,2,11,1,Driving Layup Shot,2,19,16,True
+Dion Waiters,3,2,3,0,Driving Layup Shot,1,-8,18,True
+Dion Waiters,1,7,13,0,Driving Layup Shot,3,-25,24,True
+Dion Waiters,3,9,18,0,Driving Layup Shot,4,-30,27,True
+Dion Waiters,2,1,35,0,Driving Layup Shot,3,-26,15,True
+Dion Waiters,4,0,30,1,Driving Layup Shot,2,-22,18,True
+Dion Waiters,3,1,38,0,Driving Layup Shot,4,-15,43,True
+Dion Waiters,1,9,45,1,Driving Layup Shot,2,-19,13,True
+Dion Waiters,3,8,12,1,Driving Reverse Layup Shot,1,-5,15,True
+Dion Waiters,2,3,16,1,Driving Reverse Layup Shot,1,8,11,True
+Dion Waiters,1,11,3,1,Driving Reverse Layup Shot,0,9,4,True
+Dion Waiters,2,4,32,1,Driving Reverse Layup Shot,0,-3,6,True
+Dion Waiters,4,4,4,1,Driving Reverse Layup Shot,3,25,21,True
+Dion Waiters,2,1,27,0,Driving Reverse Layup Shot,1,3,16,True
+Dion Waiters,3,3,44,1,Driving Reverse Layup Shot,1,17,3,True
+Dion Waiters,1,6,12,1,Driving Reverse Layup Shot,0,3,8,True
+Dion Waiters,4,0,35,1,Dunk Shot,1,9,13,True
+Dion Waiters,3,6,23,0,Fadeaway Jump Shot,20,85,185,True
+Dion Waiters,1,0,0,0,Fadeaway Jump Shot,19,-196,4,True
+Dion Waiters,4,2,9,1,Fadeaway Jump Shot,19,-119,152,True
+Dion Waiters,4,0,5,1,Fadeaway Jump Shot,16,160,57,True
+Dion Waiters,4,10,14,0,Fadeaway Jump Shot,17,-78,156,True
+Dion Waiters,1,7,15,1,Fadeaway Jump Shot,14,-144,11,True
+Dion Waiters,1,11,24,0,Fadeaway Jump Shot,11,-113,13,True
+Dion Waiters,1,8,57,1,Fadeaway Jump Shot,13,135,17,True
+Dion Waiters,5,1,31,0,Finger Roll Layup Shot,4,-35,20,True
+Dion Waiters,2,2,14,1,Finger Roll Layup Shot,1,-14,0,True
+Dion Waiters,2,4,35,1,Finger Roll Layup Shot,0,-5,3,True
+Dion Waiters,4,5,27,0,Floating Jump shot,13,-4,137,True
+Dion Waiters,3,7,0,0,Floating Jump shot,9,3,93,True
+Dion Waiters,3,4,42,0,Floating Jump shot,8,-60,55,True
+Dion Waiters,3,10,49,0,Floating Jump shot,7,-64,32,True
+Dion Waiters,1,8,3,0,Floating Jump shot,9,38,84,True
+Dion Waiters,4,3,55,0,Floating Jump shot,12,-60,115,True
+Dion Waiters,3,10,41,1,Floating Jump shot,5,-3,50,True
+Dion Waiters,1,9,4,0,Hook Shot,7,-2,78,True
+Dion Waiters,3,4,13,0,Jump Shot,19,81,179,True
+Dion Waiters,4,3,39,0,Jump Shot,23,-232,37,False
+Dion Waiters,3,10,6,1,Jump Shot,23,-231,23,False
+Dion Waiters,1,9,5,0,Jump Shot,26,127,234,False
+Dion Waiters,2,7,56,0,Jump Shot,19,186,64,True
+Dion Waiters,1,8,35,1,Jump Shot,24,245,42,False
+Dion Waiters,4,5,50,0,Jump Shot,28,189,217,False
+Dion Waiters,4,7,12,0,Jump Shot,28,-128,257,False
+Dion Waiters,3,4,12,0,Jump Shot,26,-144,223,False
+Dion Waiters,4,2,51,0,Jump Shot,30,86,289,False
+Dion Waiters,3,7,7,0,Jump Shot,22,228,-1,False
+Dion Waiters,1,10,40,0,Jump Shot,3,3,38,True
+Dion Waiters,1,7,22,0,Jump Shot,23,230,35,False
+Dion Waiters,1,6,12,1,Jump Shot,26,114,237,False
+Dion Waiters,3,3,23,0,Jump Shot,26,-65,254,False
+Dion Waiters,1,6,30,0,Jump Shot,26,-187,187,False
+Dion Waiters,4,0,39,0,Jump Shot,24,70,239,False
+Dion Waiters,3,7,52,0,Jump Shot,24,227,86,False
+Dion Waiters,2,3,49,0,Jump Shot,27,134,240,False
+Dion Waiters,3,11,6,1,Jump Shot,26,85,246,False
+Dion Waiters,4,2,16,0,Jump Shot,26,-193,188,False
+Dion Waiters,4,4,18,0,Jump Shot,20,130,157,True
+Dion Waiters,3,9,18,1,Jump Shot,19,195,28,True
+Dion Waiters,1,2,51,0,Jump Shot,22,-226,41,False
+Dion Waiters,2,2,8,1,Jump Shot,24,-24,248,False
+Dion Waiters,2,1,0,1,Jump Shot,22,-226,31,False
+Dion Waiters,1,7,53,0,Jump Shot,24,165,184,False
+Dion Waiters,1,9,34,0,Jump Shot,15,118,99,True
+Dion Waiters,4,7,10,0,Jump Shot,23,228,37,False
+Dion Waiters,1,6,31,0,Jump Shot,25,-190,167,False
+Dion Waiters,3,8,30,1,Jump Shot,22,-225,25,False
+Dion Waiters,3,7,15,0,Jump Shot,12,54,117,True
+Dion Waiters,3,5,11,0,Jump Shot,25,45,253,False
+Dion Waiters,2,6,10,0,Jump Shot,22,227,26,False
+Dion Waiters,1,10,28,0,Jump Shot,24,81,231,False
+Dion Waiters,2,1,2,0,Jump Shot,24,210,131,False
+Dion Waiters,3,10,39,0,Jump Shot,18,36,183,True
+Dion Waiters,4,5,31,0,Jump Shot,23,-231,-9,False
+Dion Waiters,4,0,26,0,Jump Shot,27,-110,251,False
+Dion Waiters,3,3,19,0,Jump Shot,20,-203,7,True
+Dion Waiters,1,6,23,1,Jump Shot,23,-232,29,False
+Dion Waiters,3,5,13,1,Jump Shot,24,86,231,False
+Dion Waiters,2,2,31,1,Jump Shot,25,11,256,False
+Dion Waiters,3,6,55,0,Jump Shot,27,-141,232,False
+Dion Waiters,1,0,6,0,Jump Shot,25,-185,169,False
+Dion Waiters,2,1,39,0,Jump Shot,23,234,43,False
+Dion Waiters,2,0,0,0,Jump Shot,26,-22,263,False
+Dion Waiters,3,5,0,0,Jump Shot,22,-228,26,False
+Dion Waiters,1,7,55,0,Jump Shot,25,94,241,False
+Dion Waiters,3,5,26,1,Jump Shot,22,223,18,False
+Dion Waiters,3,6,21,0,Jump Shot,23,228,70,False
+Dion Waiters,4,5,29,1,Jump Shot,25,-137,218,False
+Dion Waiters,1,11,35,0,Jump Shot,25,-142,212,False
+Dion Waiters,3,7,59,1,Jump Shot,25,-208,155,False
+Dion Waiters,2,2,55,0,Jump Shot,20,-76,195,True
+Dion Waiters,1,4,27,0,Jump Shot,22,-226,21,False
+Dion Waiters,3,4,18,0,Jump Shot,23,230,22,False
+Dion Waiters,4,1,9,1,Jump Shot,23,230,33,False
+Dion Waiters,3,1,11,1,Jump Shot,23,231,65,False
+Dion Waiters,3,8,22,0,Jump Shot,25,-157,200,False
+Dion Waiters,1,5,38,1,Jump Shot,17,-118,126,True
+Dion Waiters,3,10,57,1,Jump Shot,16,-44,162,True
+Dion Waiters,1,10,48,0,Jump Shot,26,63,255,False
+Dion Waiters,3,7,49,0,Jump Shot,23,-232,59,False
+Dion Waiters,3,5,4,0,Jump Shot,26,70,252,False
+Dion Waiters,1,6,45,1,Jump Shot,25,-55,251,False
+Dion Waiters,3,0,0,0,Jump Shot,25,71,243,False
+Dion Waiters,2,0,0,0,Jump Shot,25,-37,255,False
+Dion Waiters,2,0,43,0,Jump Shot,25,73,243,False
+Dion Waiters,2,5,7,0,Jump Shot,27,-29,269,False
+Dion Waiters,1,1,12,1,Jump Shot,25,-89,240,False
+Dion Waiters,1,1,32,1,Jump Shot,17,9,178,True
+Dion Waiters,1,2,37,1,Jump Shot,28,106,262,False
+Dion Waiters,3,9,45,0,Jump Shot,28,-155,243,False
+Dion Waiters,3,11,23,0,Jump Shot,25,-232,97,False
+Dion Waiters,1,4,16,0,Jump Shot,25,77,246,False
+Dion Waiters,2,0,42,1,Jump Shot,26,-88,248,False
+Dion Waiters,3,11,13,1,Jump Shot,1,12,4,True
+Dion Waiters,1,6,6,0,Jump Shot,3,25,29,True
+Dion Waiters,3,7,5,0,Jump Shot,24,240,35,False
+Dion Waiters,1,1,38,0,Jump Shot,21,-90,196,True
+Dion Waiters,1,10,12,0,Jump Shot,23,-232,-15,False
+Dion Waiters,3,10,28,0,Jump Shot,28,132,247,False
+Dion Waiters,1,5,30,0,Jump Shot,26,-126,231,False
+Dion Waiters,3,6,37,0,Jump Shot,22,226,22,False
+Dion Waiters,3,4,38,1,Jump Shot,22,228,16,False
+Dion Waiters,3,5,25,1,Jump Shot,20,101,178,True
+Dion Waiters,1,6,0,1,Jump Shot,22,226,-11,False
+Dion Waiters,3,0,29,0,Jump Shot,3,-21,32,True
+Dion Waiters,3,1,13,0,Jump Shot,25,217,132,False
+Dion Waiters,3,0,0,0,Jump Shot,23,-206,119,False
+Dion Waiters,1,2,7,0,Jump Shot,25,-92,241,False
+Dion Waiters,3,9,43,0,Jump Shot,22,225,1,False
+Dion Waiters,3,3,41,1,Jump Shot,26,-19,263,False
+Dion Waiters,2,3,59,0,Jump Shot,23,-229,63,False
+Dion Waiters,4,1,11,0,Jump Shot,5,-52,29,True
+Dion Waiters,4,1,35,0,Jump Shot,26,169,201,False
+Dion Waiters,3,9,47,0,Jump Shot,23,-227,40,False
+Dion Waiters,3,4,25,0,Jump Shot,25,158,199,False
+Dion Waiters,2,2,22,0,Jump Shot,26,5,262,False
+Dion Waiters,4,2,56,1,Jump Shot,23,-234,40,False
+Dion Waiters,4,0,38,0,Jump Shot,25,11,252,False
+Dion Waiters,1,3,7,0,Jump Shot,26,-153,216,False
+Dion Waiters,1,8,23,1,Jump Shot,23,228,49,False
+Dion Waiters,1,9,32,0,Jump Shot,26,-63,256,False
+Dion Waiters,4,10,32,0,Jump Shot,27,-120,248,False
+Dion Waiters,1,8,16,0,Jump Shot,23,228,34,False
+Dion Waiters,3,9,41,0,Jump Shot,19,118,160,True
+Dion Waiters,1,9,28,0,Jump Shot,26,166,205,False
+Dion Waiters,3,10,46,0,Jump Shot,24,-215,123,False
+Dion Waiters,1,7,29,1,Jump Shot,25,-130,222,False
+Dion Waiters,4,4,36,0,Jump Shot,27,-96,258,False
+Dion Waiters,4,5,45,1,Jump Shot,24,-45,244,False
+Dion Waiters,1,1,27,0,Jump Shot,18,130,130,True
+Dion Waiters,2,0,48,0,Jump Shot,25,-71,250,False
+Dion Waiters,3,8,45,1,Jump Shot,24,161,189,False
+Dion Waiters,3,6,5,1,Jump Shot,25,167,191,False
+Dion Waiters,3,2,49,0,Jump Shot,25,-240,92,False
+Dion Waiters,4,0,11,0,Jump Shot,25,165,194,False
+Dion Waiters,2,4,53,0,Jump Shot,1,-14,14,True
+Dion Waiters,2,2,58,0,Jump Shot,25,-180,178,False
+Dion Waiters,1,5,12,1,Jump Shot,23,234,29,False
+Dion Waiters,3,3,45,0,Jump Shot,25,130,217,False
+Dion Waiters,4,1,0,1,Jump Shot,25,-139,211,False
+Dion Waiters,1,0,0,0,Jump Shot,43,-41,431,False
+Dion Waiters,1,1,45,0,Jump Shot,20,41,203,True
+Dion Waiters,4,2,45,1,Jump Shot,23,236,22,False
+Dion Waiters,2,11,21,0,Jump Shot,26,-123,235,False
+Dion Waiters,4,10,47,0,Jump Shot,25,-160,197,False
+Dion Waiters,4,1,33,1,Jump Shot,27,-224,162,False
+Dion Waiters,2,5,19,0,Jump Shot,26,-54,260,False
+Dion Waiters,3,9,31,0,Jump Shot,25,-111,226,False
+Dion Waiters,2,2,22,1,Jump Shot,25,-176,178,False
+Dion Waiters,4,3,23,1,Jump Shot,26,48,260,False
+Dion Waiters,3,3,51,0,Jump Shot,24,-209,137,False
+Dion Waiters,1,3,24,1,Jump Shot,25,-5,251,False
+Dion Waiters,1,10,21,0,Jump Shot,23,234,0,False
+Dion Waiters,4,1,4,0,Jump Shot,19,-85,176,True
+Dion Waiters,3,5,47,0,Jump Shot,25,-18,252,False
+Dion Waiters,3,6,36,0,Jump Shot,17,-84,149,True
+Dion Waiters,1,3,47,0,Jump Shot,26,101,247,False
+Dion Waiters,4,2,23,1,Jump Shot,25,-36,256,False
+Dion Waiters,2,1,40,1,Jump Shot,20,8,204,True
+Dion Waiters,2,0,3,0,Jump Shot,19,-84,174,True
+Dion Waiters,3,11,27,0,Jump Shot,28,-186,214,False
+Dion Waiters,3,3,58,0,Jump Shot,25,222,128,False
+Dion Waiters,3,10,9,0,Jump Shot,28,-161,236,False
+Dion Waiters,5,2,42,0,Jump Shot,28,-123,259,False
+Dion Waiters,1,4,44,0,Jump Shot,26,-136,224,False
+Dion Waiters,5,3,23,0,Jump Shot,12,128,5,True
+Dion Waiters,1,10,20,1,Jump Shot,24,217,122,False
+Dion Waiters,3,6,1,0,Jump Shot,24,242,45,False
+Dion Waiters,2,5,49,0,Jump Shot,23,234,13,False
+Dion Waiters,1,7,28,0,Jump Shot,25,119,221,False
+Dion Waiters,3,8,3,0,Jump Shot,5,2,55,True
+Dion Waiters,2,6,47,0,Jump Shot,25,127,217,False
+Dion Waiters,2,4,8,1,Jump Shot,23,230,29,False
+Dion Waiters,1,4,21,0,Jump Shot,16,-163,6,True
+Dion Waiters,2,0,8,0,Jump Shot,25,-175,186,False
+Dion Waiters,4,7,42,0,Jump Shot,25,-82,239,False
+Dion Waiters,1,9,17,1,Jump Shot,25,-16,256,False
+Dion Waiters,4,6,23,0,Jump Shot,23,-232,6,False
+Dion Waiters,3,10,26,0,Jump Shot,26,179,192,False
+Dion Waiters,1,7,37,1,Jump Shot,25,-161,199,False
+Dion Waiters,2,11,3,1,Jump Shot,26,-165,207,False
+Dion Waiters,1,9,6,0,Jump Shot,22,-95,199,True
+Dion Waiters,1,7,14,0,Jump Shot,2,-14,15,True
+Dion Waiters,2,0,35,0,Jump Shot,4,-30,27,True
+Dion Waiters,3,8,49,1,Jump Shot,26,185,194,False
+Dion Waiters,4,2,52,0,Jump Shot,25,-225,120,False
+Dion Waiters,3,6,50,0,Jump Shot,26,-163,205,False
+Dion Waiters,2,0,0,0,Jump Shot,25,-67,241,False
+Dion Waiters,2,1,6,1,Jump Shot,24,136,202,False
+Dion Waiters,1,7,53,0,Jump Shot,25,-149,204,False
+Dion Waiters,3,3,50,0,Jump Shot,14,33,139,True
+Dion Waiters,1,9,36,1,Jump Shot,23,-231,29,False
+Dion Waiters,4,0,11,0,Jump Shot,28,161,232,False
+Dion Waiters,4,1,7,0,Jump Shot,24,240,0,False
+Dion Waiters,4,5,19,1,Jump Shot,26,35,262,False
+Dion Waiters,3,9,56,0,Jump Shot,25,-146,209,False
+Dion Waiters,4,5,27,0,Jump Shot,27,-185,207,False
+Dion Waiters,5,0,0,0,Jump Shot,34,225,268,False
+Dion Waiters,5,0,5,1,Jump Shot,25,-164,196,False
+Dion Waiters,1,6,51,0,Layup Shot,1,17,5,True
+Dion Waiters,1,5,58,1,Layup Shot,2,25,8,True
+Dion Waiters,1,2,48,0,Layup Shot,2,23,15,True
+Dion Waiters,2,1,20,0,Layup Shot,0,0,-3,True
+Dion Waiters,3,8,53,0,Layup Shot,0,5,6,True
+Dion Waiters,4,4,16,0,Layup Shot,0,-5,3,True
+Dion Waiters,3,7,49,1,Layup Shot,2,15,15,True
+Dion Waiters,4,4,49,0,Layup Shot,3,-7,31,True
+Dion Waiters,3,4,57,0,Layup Shot,1,-2,11,True
+Dion Waiters,3,7,22,0,Layup Shot,3,-33,15,True
+Dion Waiters,4,8,35,1,Layup Shot,0,-6,-3,True
+Dion Waiters,3,4,15,1,Layup Shot,2,8,20,True
+Dion Waiters,1,4,1,0,Layup Shot,2,14,17,True
+Dion Waiters,2,3,57,0,Layup Shot,1,13,10,True
+Dion Waiters,2,2,23,1,Layup Shot,4,-19,37,True
+Dion Waiters,3,1,27,0,Layup Shot,2,11,23,True
+Dion Waiters,1,2,16,0,Layup Shot,1,-5,19,True
+Dion Waiters,2,2,0,1,Layup Shot,1,0,11,True
+Dion Waiters,2,1,41,0,Layup Shot,5,-3,52,True
+Dion Waiters,1,10,11,1,Layup Shot,1,13,14,True
+Dion Waiters,2,7,31,0,Layup Shot,4,-29,36,True
+Dion Waiters,4,0,22,0,Pullup Jump shot,28,-132,252,False
+Dion Waiters,4,4,9,0,Pullup Jump shot,18,22,188,True
+Dion Waiters,4,1,34,1,Pullup Jump shot,17,-25,170,True
+Dion Waiters,3,6,45,0,Pullup Jump shot,18,165,87,True
+Dion Waiters,2,0,26,0,Pullup Jump shot,25,143,211,False
+Dion Waiters,1,8,58,1,Pullup Jump shot,20,-63,199,True
+Dion Waiters,1,7,51,0,Pullup Jump shot,19,-141,141,True
+Dion Waiters,1,6,10,0,Pullup Jump shot,17,-90,155,True
+Dion Waiters,3,11,13,0,Pullup Jump shot,20,-52,195,True
+Dion Waiters,1,1,41,1,Pullup Jump shot,20,-9,209,True
+Dion Waiters,2,1,31,0,Pullup Jump shot,22,-118,189,True
+Dion Waiters,3,3,44,1,Pullup Jump shot,19,-79,176,True
+Dion Waiters,4,1,37,1,Pullup Jump shot,21,-134,174,True
+Dion Waiters,3,11,43,0,Pullup Jump shot,20,-163,125,True
+Dion Waiters,3,10,47,0,Pullup Jump shot,18,-88,167,True
+Dion Waiters,4,7,15,0,Pullup Jump shot,21,-111,186,True
+Dion Waiters,1,7,50,0,Pullup Jump shot,16,-51,162,True
+Dion Waiters,3,6,45,0,Pullup Jump shot,26,93,244,False
+Dion Waiters,1,11,3,0,Pullup Jump shot,17,-69,159,True
+Dion Waiters,2,2,2,1,Pullup Jump shot,6,20,67,True
+Dion Waiters,4,0,56,1,Pullup Jump shot,28,-132,247,False
+Dion Waiters,2,0,11,1,Pullup Jump shot,25,-133,222,False
+Dion Waiters,3,6,28,0,Pullup Jump shot,20,-105,180,True
+Dion Waiters,4,8,30,0,Pullup Jump shot,25,-114,232,False
+Dion Waiters,1,1,19,0,Pullup Jump shot,26,136,229,False
+Dion Waiters,4,0,0,0,Pullup Jump shot,22,-109,199,True
+Dion Waiters,4,2,31,0,Pullup Jump shot,22,-33,220,True
+Dion Waiters,4,2,1,0,Pullup Jump shot,16,-120,110,True
+Dion Waiters,4,10,53,1,Pullup Jump shot,20,70,195,True
+Dion Waiters,4,4,23,0,Pullup Jump shot,26,-93,253,False
+Dion Waiters,4,6,41,0,Pullup Jump shot,17,-138,112,True
+Dion Waiters,3,11,5,1,Pullup Jump shot,17,104,143,True
+Dion Waiters,3,7,26,1,Pullup Jump shot,25,-11,257,False
+Dion Waiters,1,3,11,1,Reverse Layup Shot,2,9,26,True
+Dion Waiters,1,10,5,1,Reverse Layup Shot,3,20,27,True
+Dion Waiters,3,10,2,0,Reverse Layup Shot,1,18,5,True
+Dion Waiters,4,9,47,0,Reverse Layup Shot,3,19,27,True
+Dion Waiters,4,2,23,1,Running Dunk Shot,3,-28,21,True
+Dion Waiters,2,4,18,0,Running Jump Shot,4,-3,46,True
+Dion Waiters,4,1,36,1,Running Layup Shot,1,8,6,True
+Dion Waiters,1,9,24,0,Running Layup Shot,1,-10,6,True
+Dion Waiters,3,8,26,0,Running Layup Shot,1,9,11,True
+Dion Waiters,5,2,12,1,Running Layup Shot,2,20,13,True
+Dion Waiters,1,0,54,0,Running Layup Shot,1,-4,11,True
+Dion Waiters,1,7,38,0,Running Layup Shot,2,8,27,True
+Dion Waiters,3,3,17,1,Step Back Jump shot,20,-134,150,True
+Dion Waiters,1,9,38,1,Step Back Jump shot,15,-107,115,True
+Dion Waiters,2,2,31,0,Step Back Jump shot,20,87,190,True
+Dion Waiters,1,2,9,0,Step Back Jump shot,12,119,52,True
+Dion Waiters,2,4,45,1,Step Back Jump shot,18,-62,173,True
+Dion Waiters,1,1,7,0,Step Back Jump shot,15,149,41,True
+Dion Waiters,3,2,25,1,Step Back Jump shot,21,130,167,True
+Dion Waiters,3,6,57,1,Step Back Jump shot,10,-80,72,True
+Dion Waiters,1,7,36,1,Step Back Jump shot,16,-31,162,True
+Dion Waiters,3,5,11,0,Step Back Jump shot,19,-34,194,True
+Dion Waiters,3,4,31,0,Step Back Jump shot,15,-126,84,True
+Dion Waiters,1,4,33,0,Step Back Jump shot,19,-133,147,True
+Dion Waiters,2,2,52,0,Step Back Jump shot,22,225,18,False
+Dion Waiters,3,6,10,0,Step Back Jump shot,21,2,218,True
+Dion Waiters,4,2,2,1,Step Back Jump shot,15,119,94,True
+Dion Waiters,1,8,5,0,Step Back Jump shot,18,-84,162,True
+Dion Waiters,3,1,33,1,Step Back Jump shot,21,-101,186,True
+Dion Waiters,4,2,12,1,Step Back Jump shot,22,-225,19,False
+Dion Waiters,3,9,8,0,Step Back Jump shot,17,-73,162,True
+Dion Waiters,1,9,22,0,Turnaround Fadeaway shot,11,-112,-13,True
+Dion Waiters,3,2,40,1,Turnaround Jump Shot,16,-130,99,True

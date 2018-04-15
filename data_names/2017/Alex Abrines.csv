@@ -1,0 +1,261 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Alex Abrines,2,5,2,1,Alley Oop Dunk Shot,0,3,1,True
+Alex Abrines,3,3,54,1,Alley Oop Layup shot,2,-15,16,True
+Alex Abrines,1,1,39,1,Alley Oop Layup shot,1,14,11,True
+Alex Abrines,4,0,19,1,Cutting Dunk Shot,1,11,0,True
+Alex Abrines,2,3,47,1,Cutting Layup Shot,0,5,2,True
+Alex Abrines,2,2,3,1,Cutting Layup Shot,1,11,1,True
+Alex Abrines,1,2,11,1,Driving Dunk Shot,0,5,5,True
+Alex Abrines,2,6,43,1,Driving Dunk Shot,0,-2,2,True
+Alex Abrines,4,7,13,0,Driving Finger Roll Layup Shot,1,8,14,True
+Alex Abrines,1,3,8,1,Driving Floating Bank Jump Shot,11,-9,115,True
+Alex Abrines,3,10,51,0,Driving Floating Jump Shot,11,-6,110,True
+Alex Abrines,2,7,13,0,Driving Layup Shot,3,-25,17,True
+Alex Abrines,2,11,30,1,Driving Layup Shot,3,-28,22,True
+Alex Abrines,4,5,58,0,Driving Layup Shot,1,4,15,True
+Alex Abrines,4,0,20,0,Driving Layup Shot,7,-46,60,True
+Alex Abrines,4,11,14,0,Driving Layup Shot,1,-11,13,True
+Alex Abrines,1,1,13,0,Driving Layup Shot,1,-16,9,True
+Alex Abrines,2,9,38,0,Driving Layup Shot,3,16,30,True
+Alex Abrines,3,1,7,1,Driving Layup Shot,0,2,8,True
+Alex Abrines,1,0,33,0,Driving Layup Shot,5,-30,41,True
+Alex Abrines,4,0,21,0,Driving Reverse Layup Shot,2,18,10,True
+Alex Abrines,4,9,5,1,Dunk Shot,2,-1,25,True
+Alex Abrines,1,3,27,0,Dunk Shot,1,6,17,True
+Alex Abrines,2,9,43,0,Fadeaway Jump Shot,7,-59,48,True
+Alex Abrines,4,0,3,0,Fadeaway Jump Shot,17,168,-39,True
+Alex Abrines,2,5,37,0,Floating Jump shot,4,-4,47,True
+Alex Abrines,1,3,4,0,Floating Jump shot,10,41,98,True
+Alex Abrines,1,4,47,1,Floating Jump shot,13,24,137,True
+Alex Abrines,2,11,44,1,Hook Shot,2,16,20,True
+Alex Abrines,4,9,5,0,Jump Shot,26,-14,263,False
+Alex Abrines,2,6,32,1,Jump Shot,14,13,142,True
+Alex Abrines,4,3,28,0,Jump Shot,24,136,209,False
+Alex Abrines,2,8,24,0,Jump Shot,24,0,247,False
+Alex Abrines,4,8,7,0,Jump Shot,25,-2,257,False
+Alex Abrines,2,11,17,1,Jump Shot,24,-130,209,False
+Alex Abrines,2,7,55,0,Jump Shot,22,229,5,False
+Alex Abrines,2,3,1,0,Jump Shot,24,235,67,False
+Alex Abrines,2,1,59,0,Jump Shot,26,45,263,False
+Alex Abrines,4,5,55,0,Jump Shot,26,169,200,False
+Alex Abrines,2,10,36,1,Jump Shot,24,143,201,False
+Alex Abrines,2,3,14,0,Jump Shot,23,232,22,False
+Alex Abrines,2,5,58,1,Jump Shot,25,131,213,False
+Alex Abrines,2,6,45,0,Jump Shot,24,-173,178,False
+Alex Abrines,2,9,56,0,Jump Shot,25,131,214,False
+Alex Abrines,4,5,5,0,Jump Shot,24,-229,75,False
+Alex Abrines,4,8,30,1,Jump Shot,25,-202,157,False
+Alex Abrines,3,1,18,0,Jump Shot,26,48,258,False
+Alex Abrines,4,6,47,1,Jump Shot,23,-232,29,False
+Alex Abrines,4,2,23,0,Jump Shot,26,201,167,False
+Alex Abrines,4,7,1,0,Jump Shot,23,-228,33,False
+Alex Abrines,1,2,44,0,Jump Shot,22,223,29,False
+Alex Abrines,1,1,29,1,Jump Shot,23,-229,25,False
+Alex Abrines,2,11,30,0,Jump Shot,23,-230,-17,False
+Alex Abrines,1,1,21,0,Jump Shot,23,-222,63,False
+Alex Abrines,4,0,15,0,Jump Shot,26,-82,248,False
+Alex Abrines,4,0,1,0,Jump Shot,25,-181,179,False
+Alex Abrines,1,1,7,0,Jump Shot,25,-213,142,False
+Alex Abrines,2,8,33,0,Jump Shot,27,-107,252,False
+Alex Abrines,3,4,46,0,Jump Shot,25,-221,124,False
+Alex Abrines,3,1,5,1,Jump Shot,25,225,110,False
+Alex Abrines,3,1,26,0,Jump Shot,26,-125,232,False
+Alex Abrines,2,11,48,0,Jump Shot,25,78,241,False
+Alex Abrines,4,7,30,1,Jump Shot,25,-149,207,False
+Alex Abrines,1,0,1,0,Jump Shot,33,126,309,False
+Alex Abrines,2,8,38,0,Jump Shot,23,228,35,False
+Alex Abrines,3,1,51,0,Jump Shot,26,129,237,False
+Alex Abrines,4,11,27,1,Jump Shot,25,-18,259,False
+Alex Abrines,3,6,16,1,Jump Shot,25,-139,218,False
+Alex Abrines,2,11,43,0,Jump Shot,25,-143,206,False
+Alex Abrines,3,5,3,0,Jump Shot,25,13,257,False
+Alex Abrines,2,8,59,0,Jump Shot,25,128,215,False
+Alex Abrines,1,0,31,1,Jump Shot,24,232,77,False
+Alex Abrines,1,3,33,1,Jump Shot,25,126,219,False
+Alex Abrines,1,3,48,0,Jump Shot,22,-223,-16,False
+Alex Abrines,1,0,48,1,Jump Shot,22,-223,-11,False
+Alex Abrines,1,5,3,0,Jump Shot,23,-207,115,False
+Alex Abrines,1,7,3,0,Jump Shot,22,-226,-15,False
+Alex Abrines,3,6,42,1,Jump Shot,25,-154,206,False
+Alex Abrines,4,6,43,1,Jump Shot,26,-179,194,False
+Alex Abrines,4,5,45,0,Jump Shot,27,-214,176,False
+Alex Abrines,4,10,20,0,Jump Shot,25,200,160,False
+Alex Abrines,2,5,43,0,Jump Shot,28,60,276,False
+Alex Abrines,2,7,35,0,Jump Shot,26,149,218,False
+Alex Abrines,2,7,16,0,Jump Shot,27,114,246,False
+Alex Abrines,2,8,11,1,Jump Shot,26,143,226,False
+Alex Abrines,2,6,29,1,Jump Shot,23,230,24,False
+Alex Abrines,4,3,42,0,Jump Shot,23,230,6,False
+Alex Abrines,2,7,20,0,Jump Shot,18,-119,142,True
+Alex Abrines,4,10,37,1,Jump Shot,23,233,11,False
+Alex Abrines,2,8,38,0,Jump Shot,23,235,17,False
+Alex Abrines,2,10,11,1,Jump Shot,23,235,20,False
+Alex Abrines,4,1,40,0,Jump Shot,24,-120,219,False
+Alex Abrines,2,10,23,0,Jump Shot,22,227,6,False
+Alex Abrines,2,11,4,1,Jump Shot,22,225,17,False
+Alex Abrines,3,3,59,0,Jump Shot,24,61,240,False
+Alex Abrines,1,4,40,1,Jump Shot,24,96,229,False
+Alex Abrines,4,8,58,0,Jump Shot,22,-229,16,False
+Alex Abrines,1,2,47,0,Jump Shot,25,125,220,False
+Alex Abrines,2,5,1,0,Jump Shot,23,231,17,False
+Alex Abrines,4,11,47,0,Jump Shot,22,-224,42,False
+Alex Abrines,3,3,32,0,Jump Shot,24,11,249,False
+Alex Abrines,4,3,7,0,Jump Shot,25,100,230,False
+Alex Abrines,4,7,34,0,Jump Shot,25,96,235,False
+Alex Abrines,1,3,34,0,Jump Shot,25,-14,255,False
+Alex Abrines,2,4,27,1,Jump Shot,25,81,247,False
+Alex Abrines,4,9,59,1,Jump Shot,25,-163,197,False
+Alex Abrines,2,0,54,0,Jump Shot,26,185,187,False
+Alex Abrines,3,1,8,0,Jump Shot,28,-133,249,False
+Alex Abrines,2,5,59,0,Jump Shot,22,-226,-4,False
+Alex Abrines,4,10,24,0,Jump Shot,23,-231,8,False
+Alex Abrines,3,4,39,1,Jump Shot,27,-112,247,False
+Alex Abrines,4,4,46,0,Jump Shot,22,228,-1,False
+Alex Abrines,5,0,1,1,Jump Shot,25,-229,122,False
+Alex Abrines,4,5,49,1,Jump Shot,24,70,238,False
+Alex Abrines,4,6,11,0,Jump Shot,25,-27,257,False
+Alex Abrines,2,9,27,0,Jump Shot,24,-230,72,False
+Alex Abrines,4,5,46,1,Jump Shot,26,71,252,False
+Alex Abrines,2,5,3,0,Jump Shot,24,130,211,False
+Alex Abrines,4,6,50,1,Jump Shot,23,231,16,False
+Alex Abrines,2,5,58,1,Jump Shot,25,39,248,False
+Alex Abrines,2,8,6,0,Jump Shot,23,90,212,True
+Alex Abrines,4,11,5,1,Jump Shot,26,-177,197,False
+Alex Abrines,4,7,15,1,Jump Shot,25,51,253,False
+Alex Abrines,2,4,32,0,Jump Shot,26,5,262,False
+Alex Abrines,4,7,8,0,Jump Shot,25,29,251,False
+Alex Abrines,4,0,16,0,Jump Shot,22,226,26,False
+Alex Abrines,4,9,23,0,Jump Shot,28,-188,212,False
+Alex Abrines,2,8,56,0,Jump Shot,24,208,137,False
+Alex Abrines,1,1,6,0,Jump Shot,23,-231,-17,False
+Alex Abrines,2,5,20,1,Jump Shot,23,229,61,False
+Alex Abrines,1,4,47,1,Jump Shot,25,-169,185,False
+Alex Abrines,3,2,29,1,Jump Shot,26,-84,248,False
+Alex Abrines,2,7,29,0,Jump Shot,24,116,219,False
+Alex Abrines,2,10,13,0,Jump Shot,24,116,216,False
+Alex Abrines,4,11,3,0,Jump Shot,23,232,5,False
+Alex Abrines,4,8,26,1,Jump Shot,26,-172,205,False
+Alex Abrines,1,1,5,0,Jump Shot,16,-120,109,True
+Alex Abrines,2,2,41,1,Jump Shot,22,-225,-6,False
+Alex Abrines,1,0,0,0,Jump Shot,44,82,436,False
+Alex Abrines,2,11,1,0,Jump Shot,25,198,164,False
+Alex Abrines,2,0,3,0,Jump Shot,26,106,246,False
+Alex Abrines,2,9,43,0,Jump Shot,27,-190,201,False
+Alex Abrines,4,9,10,0,Jump Shot,25,106,229,False
+Alex Abrines,1,3,32,1,Jump Shot,23,228,59,False
+Alex Abrines,4,7,12,1,Jump Shot,26,55,256,False
+Alex Abrines,4,2,59,1,Jump Shot,22,226,23,False
+Alex Abrines,4,7,50,0,Jump Shot,23,234,21,False
+Alex Abrines,4,5,0,0,Jump Shot,22,9,222,True
+Alex Abrines,1,2,49,0,Jump Shot,25,-150,212,False
+Alex Abrines,1,1,56,0,Jump Shot,26,-9,260,False
+Alex Abrines,4,0,55,0,Jump Shot,25,170,188,False
+Alex Abrines,4,2,0,1,Jump Shot,24,93,232,False
+Alex Abrines,1,0,48,0,Jump Shot,25,-110,231,False
+Alex Abrines,1,2,58,1,Jump Shot,25,-135,214,False
+Alex Abrines,4,1,8,1,Jump Shot,8,-52,64,True
+Alex Abrines,1,0,12,0,Jump Shot,24,219,116,False
+Alex Abrines,1,0,0,0,Jump Shot,35,101,344,False
+Alex Abrines,2,3,12,0,Jump Shot,25,128,216,False
+Alex Abrines,3,3,32,1,Jump Shot,26,-159,212,False
+Alex Abrines,4,2,2,0,Jump Shot,25,51,251,False
+Alex Abrines,1,6,47,1,Jump Shot,23,232,40,False
+Alex Abrines,4,0,18,0,Jump Shot,23,-231,37,False
+Alex Abrines,1,10,21,0,Jump Shot,21,-207,37,True
+Alex Abrines,4,5,11,0,Jump Shot,26,-87,248,False
+Alex Abrines,3,7,1,0,Jump Shot,26,-20,263,False
+Alex Abrines,4,6,7,0,Jump Shot,5,-52,21,True
+Alex Abrines,1,6,53,1,Jump Shot,24,-151,193,False
+Alex Abrines,1,0,47,1,Jump Shot,24,-160,185,False
+Alex Abrines,4,9,43,1,Jump Shot,22,222,50,False
+Alex Abrines,4,11,36,0,Jump Shot,37,-11,370,False
+Alex Abrines,2,0,59,0,Jump Shot,24,65,240,False
+Alex Abrines,1,6,49,0,Jump Shot,24,47,241,False
+Alex Abrines,3,0,1,0,Jump Shot,22,220,20,False
+Alex Abrines,2,11,24,0,Jump Shot,25,188,168,False
+Alex Abrines,3,2,16,0,Jump Shot,25,221,119,False
+Alex Abrines,3,1,36,0,Jump Shot,25,65,242,False
+Alex Abrines,4,3,29,1,Jump Shot,24,70,235,False
+Alex Abrines,3,5,2,0,Jump Shot,25,-166,188,False
+Alex Abrines,3,2,10,0,Jump Shot,25,192,165,False
+Alex Abrines,3,5,40,1,Jump Shot,24,-228,86,False
+Alex Abrines,1,6,23,0,Jump Shot,23,-231,24,False
+Alex Abrines,2,2,6,0,Jump Shot,28,168,230,False
+Alex Abrines,4,5,16,1,Jump Shot,23,236,11,False
+Alex Abrines,2,4,33,1,Jump Shot,27,142,236,False
+Alex Abrines,1,10,21,1,Jump Shot,22,-226,-6,False
+Alex Abrines,1,4,46,0,Jump Shot,22,-225,-8,False
+Alex Abrines,2,0,24,0,Jump Shot,23,235,16,False
+Alex Abrines,2,3,1,1,Jump Shot,25,85,239,False
+Alex Abrines,1,2,21,0,Jump Shot,25,78,247,False
+Alex Abrines,3,12,0,0,Jump Shot,15,-145,57,True
+Alex Abrines,1,1,32,0,Jump Shot,25,131,221,False
+Alex Abrines,1,4,21,1,Jump Shot,22,-222,0,False
+Alex Abrines,1,11,24,0,Jump Shot,24,-160,189,False
+Alex Abrines,1,11,6,1,Jump Shot,25,102,235,False
+Alex Abrines,5,3,52,1,Jump Shot,25,18,251,False
+Alex Abrines,1,9,45,0,Jump Shot,24,217,123,False
+Alex Abrines,1,10,39,0,Jump Shot,26,-121,231,False
+Alex Abrines,5,2,8,1,Jump Shot,25,110,232,False
+Alex Abrines,1,6,13,1,Jump Shot,25,199,162,False
+Alex Abrines,4,2,50,1,Jump Shot,26,127,230,False
+Alex Abrines,2,3,6,0,Jump Shot,24,138,204,False
+Alex Abrines,1,8,38,0,Jump Shot,26,-107,237,False
+Alex Abrines,1,4,12,1,Jump Shot,21,-219,-5,False
+Alex Abrines,2,8,3,0,Jump Shot,24,78,233,False
+Alex Abrines,3,1,49,0,Jump Shot,23,231,57,False
+Alex Abrines,2,2,49,0,Jump Shot,22,222,5,False
+Alex Abrines,3,5,17,1,Jump Shot,24,166,184,False
+Alex Abrines,4,0,18,0,Jump Shot,25,143,215,False
+Alex Abrines,2,4,25,0,Jump Shot,22,228,29,False
+Alex Abrines,1,6,9,1,Jump Shot,26,3,261,False
+Alex Abrines,2,11,34,0,Jump Shot,23,226,71,False
+Alex Abrines,1,2,59,0,Jump Shot,27,67,264,False
+Alex Abrines,4,7,41,0,Jump Shot,26,100,241,False
+Alex Abrines,2,0,52,1,Layup Shot,1,-6,11,True
+Alex Abrines,2,9,45,0,Layup Shot,8,-60,53,True
+Alex Abrines,2,7,39,0,Layup Shot,2,-1,21,True
+Alex Abrines,1,3,21,0,Layup Shot,4,47,9,True
+Alex Abrines,1,8,49,0,Pullup Jump shot,24,152,198,False
+Alex Abrines,1,0,10,1,Pullup Jump shot,25,177,182,False
+Alex Abrines,1,1,59,1,Pullup Jump shot,26,142,225,False
+Alex Abrines,1,7,0,1,Pullup Jump shot,25,123,218,False
+Alex Abrines,4,3,17,0,Pullup Jump shot,26,-67,254,False
+Alex Abrines,2,10,57,0,Pullup Jump shot,24,86,230,False
+Alex Abrines,2,10,7,1,Pullup Jump shot,24,-207,136,False
+Alex Abrines,2,11,3,0,Pullup Jump shot,22,-87,209,True
+Alex Abrines,1,3,25,0,Pullup Jump shot,21,179,115,True
+Alex Abrines,4,0,1,0,Pullup Jump shot,33,163,288,False
+Alex Abrines,4,1,32,1,Pullup Jump shot,9,5,95,True
+Alex Abrines,4,10,0,0,Pullup Jump shot,26,-174,199,False
+Alex Abrines,1,0,0,0,Pullup Jump shot,25,-218,141,False
+Alex Abrines,4,5,6,1,Pullup Jump shot,27,-158,226,False
+Alex Abrines,4,1,42,1,Putback Dunk Shot,0,0,-6,True
+Alex Abrines,4,5,37,0,Putback Layup Shot,0,0,-6,True
+Alex Abrines,2,4,50,0,Putback Layup Shot,0,0,-6,True
+Alex Abrines,1,2,12,0,Putback Layup Shot,0,0,-6,True
+Alex Abrines,4,7,6,0,Reverse Layup Shot,1,-16,4,True
+Alex Abrines,2,8,36,1,Reverse Layup Shot,1,11,10,True
+Alex Abrines,4,7,41,1,Running Dunk Shot,1,4,10,True
+Alex Abrines,1,1,53,1,Running Dunk Shot,1,-2,11,True
+Alex Abrines,3,11,11,1,Running Dunk Shot,2,11,21,True
+Alex Abrines,3,10,31,0,Running Jump Shot,25,-131,218,False
+Alex Abrines,3,0,1,0,Running Jump Shot,25,152,209,False
+Alex Abrines,4,10,50,1,Running Jump Shot,25,78,239,False
+Alex Abrines,4,9,36,1,Running Jump Shot,21,-208,67,True
+Alex Abrines,3,6,31,1,Running Jump Shot,24,-168,183,False
+Alex Abrines,1,6,22,0,Running Jump Shot,24,-141,200,False
+Alex Abrines,4,11,38,1,Running Jump Shot,24,-201,142,False
+Alex Abrines,3,7,24,0,Running Layup Shot,1,-11,11,True
+Alex Abrines,4,9,43,1,Running Layup Shot,1,0,10,True
+Alex Abrines,1,2,3,0,Running Layup Shot,1,14,14,True
+Alex Abrines,2,1,22,0,Running Layup Shot,1,9,14,True
+Alex Abrines,2,0,0,0,Running Pull-Up Jump Shot,25,-27,257,False
+Alex Abrines,3,0,0,0,Running Pull-Up Jump Shot,34,-12,342,False
+Alex Abrines,3,9,18,1,Running Reverse Layup Shot,0,6,6,True
+Alex Abrines,2,0,37,1,Running Reverse Layup Shot,0,0,1,True
+Alex Abrines,4,11,14,0,Step Back Jump shot,17,59,165,True
+Alex Abrines,4,0,27,0,Step Back Jump shot,27,145,228,False
+Alex Abrines,1,2,10,0,Tip Layup Shot,0,0,-6,True
+Alex Abrines,4,0,16,1,Tip Layup Shot,1,-7,11,True
+Alex Abrines,2,11,47,0,Turnaround Jump Shot,24,-111,219,False

@@ -1,0 +1,430 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Darius Miller,4,3,48,1,Driving Dunk Shot,0,0,8,True
+Darius Miller,2,6,47,0,Driving Finger Roll Layup Shot,1,16,4,True
+Darius Miller,1,2,31,1,Driving Floating Bank Jump Shot,7,67,21,True
+Darius Miller,3,1,42,1,Driving Floating Jump Shot,6,-1,68,True
+Darius Miller,1,4,21,1,Driving Floating Jump Shot,7,-13,78,True
+Darius Miller,2,7,17,0,Driving Layup Shot,1,14,4,True
+Darius Miller,3,1,5,0,Driving Layup Shot,2,6,26,True
+Darius Miller,4,0,45,1,Driving Layup Shot,1,6,10,True
+Darius Miller,4,6,58,1,Driving Layup Shot,3,36,9,True
+Darius Miller,1,5,26,0,Driving Layup Shot,2,-23,14,True
+Darius Miller,4,6,23,1,Driving Layup Shot,1,-13,6,True
+Darius Miller,4,4,53,1,Driving Reverse Layup Shot,5,9,52,True
+Darius Miller,3,2,23,1,Fadeaway Jump Shot,10,-49,94,True
+Darius Miller,1,3,3,0,Fadeaway Jump Shot,7,-25,73,True
+Darius Miller,3,3,40,0,Floating Jump shot,15,-15,159,True
+Darius Miller,3,0,31,1,Floating Jump shot,12,-56,109,True
+Darius Miller,4,11,0,1,Floating Jump shot,11,11,111,True
+Darius Miller,2,4,33,0,Floating Jump shot,16,19,163,True
+Darius Miller,3,0,25,0,Floating Jump shot,5,-2,55,True
+Darius Miller,2,11,18,0,Floating Jump shot,13,-3,134,True
+Darius Miller,4,9,55,0,Floating Jump shot,6,-7,60,True
+Darius Miller,1,1,56,1,Floating Jump shot,13,17,131,True
+Darius Miller,4,7,2,0,Jump Bank Shot,7,71,26,True
+Darius Miller,4,0,2,0,Jump Shot,25,-13,251,False
+Darius Miller,2,10,57,0,Jump Shot,24,13,248,False
+Darius Miller,3,0,13,1,Jump Shot,26,43,258,False
+Darius Miller,2,9,46,0,Jump Shot,22,-221,29,False
+Darius Miller,4,10,11,0,Jump Shot,24,-10,247,False
+Darius Miller,1,0,29,1,Jump Shot,25,-149,211,False
+Darius Miller,4,1,57,1,Jump Shot,25,-176,182,False
+Darius Miller,4,6,56,1,Jump Shot,28,-79,273,False
+Darius Miller,4,10,3,1,Jump Shot,25,123,223,False
+Darius Miller,2,11,26,1,Jump Shot,26,138,222,False
+Darius Miller,4,9,8,0,Jump Shot,17,144,97,True
+Darius Miller,2,8,12,0,Jump Shot,21,-218,0,False
+Darius Miller,4,0,0,0,Jump Shot,33,-125,312,False
+Darius Miller,4,2,34,0,Jump Shot,27,-166,218,False
+Darius Miller,2,5,54,1,Jump Shot,28,111,262,False
+Darius Miller,2,11,46,1,Jump Shot,16,67,150,True
+Darius Miller,1,0,30,0,Jump Shot,26,228,127,False
+Darius Miller,1,0,47,0,Jump Shot,26,182,187,False
+Darius Miller,4,11,21,0,Jump Shot,27,-89,257,False
+Darius Miller,3,9,18,0,Jump Shot,25,-153,207,False
+Darius Miller,4,9,14,1,Jump Shot,25,223,125,False
+Darius Miller,3,9,1,1,Jump Shot,25,52,248,False
+Darius Miller,4,8,21,1,Jump Shot,26,176,195,False
+Darius Miller,2,4,40,0,Jump Shot,24,225,85,False
+Darius Miller,1,6,51,0,Jump Shot,26,-103,243,False
+Darius Miller,2,3,42,0,Jump Shot,11,-14,117,True
+Darius Miller,2,6,32,0,Jump Shot,27,105,256,False
+Darius Miller,2,10,46,0,Jump Shot,27,42,275,False
+Darius Miller,2,9,12,1,Jump Shot,26,-240,102,False
+Darius Miller,3,0,50,0,Jump Shot,28,-130,257,False
+Darius Miller,1,0,26,1,Jump Shot,25,-196,157,False
+Darius Miller,4,7,8,0,Jump Shot,22,225,34,False
+Darius Miller,1,4,38,0,Jump Shot,22,-224,5,False
+Darius Miller,1,3,10,0,Jump Shot,26,-202,169,False
+Darius Miller,2,11,35,0,Jump Shot,26,123,230,False
+Darius Miller,3,4,25,0,Jump Shot,16,-19,162,True
+Darius Miller,1,4,47,0,Jump Shot,23,231,13,False
+Darius Miller,2,7,38,1,Jump Shot,23,230,21,False
+Darius Miller,4,11,49,1,Jump Shot,26,25,260,False
+Darius Miller,4,10,30,1,Jump Shot,26,-149,215,False
+Darius Miller,3,2,14,1,Jump Shot,23,234,25,False
+Darius Miller,1,2,9,1,Jump Shot,27,-104,254,False
+Darius Miller,3,6,39,0,Jump Shot,24,-236,55,False
+Darius Miller,4,6,39,0,Jump Shot,25,-217,136,False
+Darius Miller,3,3,46,0,Jump Shot,22,-228,-10,False
+Darius Miller,4,1,50,1,Jump Shot,18,-7,180,True
+Darius Miller,2,9,27,0,Jump Shot,21,-103,194,True
+Darius Miller,3,0,48,1,Jump Shot,26,155,216,False
+Darius Miller,4,2,53,0,Jump Shot,27,179,208,False
+Darius Miller,4,1,38,0,Jump Shot,26,235,115,False
+Darius Miller,2,5,19,0,Jump Shot,26,157,208,False
+Darius Miller,4,7,2,0,Jump Shot,26,-92,244,False
+Darius Miller,3,3,12,1,Jump Shot,25,22,257,False
+Darius Miller,2,7,20,1,Jump Shot,21,34,216,True
+Darius Miller,4,11,42,0,Jump Shot,22,205,101,True
+Darius Miller,4,6,8,0,Jump Shot,23,225,81,False
+Darius Miller,1,2,48,0,Jump Shot,24,-177,167,False
+Darius Miller,2,11,31,1,Jump Shot,15,-27,155,True
+Darius Miller,2,10,30,0,Jump Shot,23,239,-9,False
+Darius Miller,3,2,20,0,Jump Shot,21,136,166,True
+Darius Miller,4,7,27,1,Jump Shot,23,-236,30,False
+Darius Miller,3,5,36,0,Jump Shot,26,112,239,False
+Darius Miller,4,6,55,1,Jump Shot,25,-111,227,False
+Darius Miller,3,0,34,0,Jump Shot,25,158,201,False
+Darius Miller,4,8,18,0,Jump Shot,25,141,210,False
+Darius Miller,3,1,49,0,Jump Shot,24,-169,184,False
+Darius Miller,1,4,54,1,Jump Shot,21,16,214,True
+Darius Miller,4,10,22,0,Jump Shot,25,-123,228,False
+Darius Miller,2,9,56,0,Jump Shot,23,237,37,False
+Darius Miller,4,5,9,1,Jump Shot,25,-154,199,False
+Darius Miller,4,3,23,1,Jump Shot,26,-132,235,False
+Darius Miller,4,10,21,0,Jump Shot,25,-210,143,False
+Darius Miller,3,0,39,0,Jump Shot,25,199,155,False
+Darius Miller,3,3,20,1,Jump Shot,24,231,87,False
+Darius Miller,2,9,56,0,Jump Shot,14,-148,18,True
+Darius Miller,3,2,7,1,Jump Shot,26,117,236,False
+Darius Miller,4,1,46,1,Jump Shot,25,-80,246,False
+Darius Miller,4,5,26,0,Jump Shot,28,-67,279,False
+Darius Miller,2,6,13,1,Jump Shot,25,16,253,False
+Darius Miller,2,8,6,0,Jump Shot,24,-168,184,False
+Darius Miller,2,4,49,0,Jump Shot,24,-100,222,False
+Darius Miller,4,8,27,0,Jump Shot,26,-156,213,False
+Darius Miller,4,11,29,0,Jump Shot,25,117,225,False
+Darius Miller,2,8,46,1,Jump Shot,24,207,137,False
+Darius Miller,2,8,48,1,Jump Shot,24,-198,148,False
+Darius Miller,1,1,4,0,Jump Shot,25,83,246,False
+Darius Miller,1,3,3,1,Jump Shot,23,-227,77,False
+Darius Miller,3,3,9,1,Jump Shot,23,-234,23,False
+Darius Miller,3,1,30,0,Jump Shot,27,96,260,False
+Darius Miller,1,2,36,1,Jump Shot,22,223,32,False
+Darius Miller,3,3,32,1,Jump Shot,25,115,226,False
+Darius Miller,1,0,1,1,Jump Shot,23,-231,17,False
+Darius Miller,2,11,51,1,Jump Shot,25,100,237,False
+Darius Miller,2,10,0,0,Jump Shot,25,33,252,False
+Darius Miller,2,10,59,0,Jump Shot,25,133,213,False
+Darius Miller,4,9,21,1,Jump Shot,25,163,194,False
+Darius Miller,1,0,28,1,Jump Shot,25,117,229,False
+Darius Miller,4,5,46,0,Jump Shot,25,135,218,False
+Darius Miller,3,8,18,0,Jump Shot,24,232,71,False
+Darius Miller,1,4,28,0,Jump Shot,16,167,21,True
+Darius Miller,3,3,52,1,Jump Shot,26,131,227,False
+Darius Miller,4,0,46,1,Jump Shot,21,-188,108,True
+Darius Miller,4,1,25,1,Jump Shot,24,-190,159,False
+Darius Miller,2,8,49,1,Jump Shot,25,132,216,False
+Darius Miller,4,0,28,0,Jump Shot,26,-214,153,False
+Darius Miller,4,2,19,1,Jump Shot,25,107,227,False
+Darius Miller,4,5,45,1,Jump Shot,25,3,252,False
+Darius Miller,1,1,51,1,Jump Shot,22,93,200,True
+Darius Miller,1,0,52,0,Jump Shot,26,138,224,False
+Darius Miller,4,0,55,1,Jump Shot,23,-234,32,False
+Darius Miller,2,7,55,0,Jump Shot,25,-221,130,False
+Darius Miller,4,7,36,1,Jump Shot,17,52,167,True
+Darius Miller,4,3,59,1,Jump Shot,25,-62,249,False
+Darius Miller,2,7,53,0,Jump Shot,17,124,123,True
+Darius Miller,2,11,13,1,Jump Shot,27,-70,264,False
+Darius Miller,4,11,17,1,Jump Shot,25,78,246,False
+Darius Miller,2,8,52,1,Jump Shot,23,236,16,False
+Darius Miller,3,4,2,0,Jump Shot,27,101,254,False
+Darius Miller,2,0,11,0,Jump Shot,23,230,19,False
+Darius Miller,2,8,21,1,Jump Shot,26,-62,257,False
+Darius Miller,4,10,17,1,Jump Shot,28,-177,217,False
+Darius Miller,1,3,2,1,Jump Shot,26,116,240,False
+Darius Miller,2,11,50,0,Jump Shot,27,131,237,False
+Darius Miller,5,1,41,0,Jump Shot,22,-223,-2,False
+Darius Miller,4,9,25,1,Jump Shot,24,-120,215,False
+Darius Miller,3,0,41,1,Jump Shot,20,110,168,True
+Darius Miller,4,9,0,0,Jump Shot,24,-166,177,False
+Darius Miller,3,2,51,1,Jump Shot,24,-116,216,False
+Darius Miller,4,10,56,1,Jump Shot,22,226,34,False
+Darius Miller,2,5,30,0,Jump Shot,26,41,263,False
+Darius Miller,2,8,17,0,Jump Shot,19,-13,197,True
+Darius Miller,3,4,56,0,Jump Shot,25,-202,152,False
+Darius Miller,2,9,57,0,Jump Shot,13,-139,10,True
+Darius Miller,3,1,42,1,Jump Shot,23,-235,23,False
+Darius Miller,2,8,2,1,Jump Shot,22,224,14,False
+Darius Miller,4,11,50,1,Jump Shot,25,129,218,False
+Darius Miller,4,10,32,0,Jump Shot,25,5,256,False
+Darius Miller,4,0,25,0,Jump Shot,25,159,199,False
+Darius Miller,4,3,40,0,Jump Shot,22,-228,16,False
+Darius Miller,4,2,8,0,Jump Shot,26,-67,256,False
+Darius Miller,4,0,55,0,Jump Shot,19,125,147,True
+Darius Miller,1,9,54,0,Jump Shot,22,220,54,False
+Darius Miller,3,6,22,0,Jump Shot,24,-76,236,False
+Darius Miller,2,8,39,0,Jump Shot,25,87,235,False
+Darius Miller,2,5,48,0,Jump Shot,25,-157,197,False
+Darius Miller,3,0,54,0,Jump Shot,22,-223,30,False
+Darius Miller,1,0,44,1,Jump Shot,25,117,222,False
+Darius Miller,4,5,47,0,Jump Shot,18,-112,146,True
+Darius Miller,3,0,43,0,Jump Shot,26,-122,232,False
+Darius Miller,2,1,17,1,Jump Shot,25,-150,208,False
+Darius Miller,3,0,2,1,Jump Shot,22,-229,-8,False
+Darius Miller,2,5,38,0,Jump Shot,23,-234,1,False
+Darius Miller,4,2,16,0,Jump Shot,24,-229,83,False
+Darius Miller,4,8,55,0,Jump Shot,26,5,269,False
+Darius Miller,1,2,15,0,Jump Shot,25,94,237,False
+Darius Miller,4,1,53,1,Jump Shot,24,207,132,False
+Darius Miller,2,9,26,0,Jump Shot,26,197,171,False
+Darius Miller,2,7,38,1,Jump Shot,26,-151,218,False
+Darius Miller,2,11,38,1,Jump Shot,27,-135,235,False
+Darius Miller,2,5,59,0,Jump Shot,27,-54,266,False
+Darius Miller,2,11,46,0,Jump Shot,25,106,236,False
+Darius Miller,1,3,5,0,Jump Shot,26,-190,178,False
+Darius Miller,4,8,5,0,Jump Shot,27,148,226,False
+Darius Miller,4,1,17,0,Jump Shot,24,191,159,False
+Darius Miller,2,7,18,1,Jump Shot,25,-215,138,False
+Darius Miller,4,9,25,1,Jump Shot,22,224,45,False
+Darius Miller,4,4,16,0,Jump Shot,24,-95,230,False
+Darius Miller,4,10,5,1,Jump Shot,19,127,152,True
+Darius Miller,1,4,37,1,Jump Shot,22,-223,44,False
+Darius Miller,2,9,59,0,Jump Shot,25,-20,254,False
+Darius Miller,4,8,10,1,Jump Shot,14,6,140,True
+Darius Miller,4,6,12,1,Jump Shot,25,56,251,False
+Darius Miller,1,6,50,0,Jump Shot,24,225,95,False
+Darius Miller,3,1,14,0,Jump Shot,24,63,239,False
+Darius Miller,4,4,13,1,Jump Shot,25,165,200,False
+Darius Miller,3,4,33,0,Jump Shot,26,193,181,False
+Darius Miller,3,1,44,1,Jump Shot,22,223,27,False
+Darius Miller,3,5,23,1,Jump Shot,25,-225,130,False
+Darius Miller,2,9,12,1,Jump Shot,25,-215,129,False
+Darius Miller,5,1,43,0,Jump Shot,22,225,26,False
+Darius Miller,3,0,0,0,Jump Shot,22,226,11,False
+Darius Miller,2,11,42,1,Jump Shot,22,-223,-7,False
+Darius Miller,3,1,55,0,Jump Shot,26,-118,237,False
+Darius Miller,2,4,12,0,Jump Shot,24,196,152,False
+Darius Miller,2,5,34,1,Jump Shot,24,211,125,False
+Darius Miller,4,2,3,1,Jump Shot,27,137,235,False
+Darius Miller,3,2,28,0,Jump Shot,25,-111,235,False
+Darius Miller,4,9,36,0,Jump Shot,26,-109,243,False
+Darius Miller,1,0,24,0,Jump Shot,25,120,227,False
+Darius Miller,2,8,21,1,Jump Shot,26,-66,254,False
+Darius Miller,2,11,37,1,Jump Shot,16,93,142,True
+Darius Miller,3,4,1,0,Jump Shot,18,-133,128,True
+Darius Miller,2,3,24,0,Jump Shot,15,-63,138,True
+Darius Miller,3,4,30,0,Jump Shot,25,202,163,False
+Darius Miller,2,6,32,0,Jump Shot,26,-90,254,False
+Darius Miller,1,0,31,1,Jump Shot,22,-223,52,False
+Darius Miller,4,10,55,1,Jump Shot,14,147,4,True
+Darius Miller,4,11,13,1,Jump Shot,25,-134,218,False
+Darius Miller,2,10,0,1,Jump Shot,25,130,223,False
+Darius Miller,3,3,43,1,Jump Shot,24,-183,162,False
+Darius Miller,4,11,2,0,Jump Shot,27,130,240,False
+Darius Miller,2,11,51,1,Jump Shot,25,138,215,False
+Darius Miller,1,2,10,1,Jump Shot,23,232,-15,False
+Darius Miller,2,11,19,0,Jump Shot,25,-81,243,False
+Darius Miller,4,8,10,0,Jump Shot,26,-76,251,False
+Darius Miller,1,0,49,0,Jump Shot,26,-40,258,False
+Darius Miller,2,10,25,1,Jump Shot,25,67,249,False
+Darius Miller,3,4,58,0,Jump Shot,25,-214,130,False
+Darius Miller,4,11,13,0,Jump Shot,25,55,252,False
+Darius Miller,4,3,46,0,Jump Shot,23,230,31,False
+Darius Miller,4,11,43,0,Jump Shot,27,125,250,False
+Darius Miller,2,9,48,1,Jump Shot,25,160,195,False
+Darius Miller,4,9,41,1,Jump Shot,23,237,36,False
+Darius Miller,4,8,34,1,Jump Shot,23,237,35,False
+Darius Miller,4,7,15,0,Jump Shot,25,-63,251,False
+Darius Miller,2,11,44,0,Jump Shot,25,135,215,False
+Darius Miller,4,1,52,1,Jump Shot,25,170,189,False
+Darius Miller,3,2,36,0,Jump Shot,26,-13,266,False
+Darius Miller,3,3,16,0,Jump Shot,25,135,216,False
+Darius Miller,2,6,11,1,Jump Shot,23,230,21,False
+Darius Miller,3,0,0,1,Jump Shot,24,230,70,False
+Darius Miller,4,6,54,0,Jump Shot,23,231,-11,False
+Darius Miller,2,5,38,1,Jump Shot,14,-108,94,True
+Darius Miller,4,11,49,0,Jump Shot,25,-116,228,False
+Darius Miller,2,8,49,0,Jump Shot,24,178,168,False
+Darius Miller,4,10,15,1,Jump Shot,25,55,251,False
+Darius Miller,2,8,27,0,Jump Shot,26,-186,183,False
+Darius Miller,1,1,38,1,Jump Shot,26,9,263,False
+Darius Miller,5,0,15,0,Jump Shot,25,120,224,False
+Darius Miller,4,7,40,0,Jump Shot,24,221,96,False
+Darius Miller,4,0,51,0,Jump Shot,25,-216,135,False
+Darius Miller,1,1,2,0,Jump Shot,26,-132,233,False
+Darius Miller,2,5,15,1,Jump Shot,25,-131,220,False
+Darius Miller,2,11,13,0,Jump Shot,24,196,152,False
+Darius Miller,3,3,54,1,Jump Shot,18,128,130,True
+Darius Miller,2,10,48,0,Jump Shot,25,-52,254,False
+Darius Miller,2,4,32,0,Jump Shot,22,227,-1,False
+Darius Miller,2,4,58,1,Jump Shot,23,231,-11,False
+Darius Miller,2,7,31,1,Jump Shot,23,230,20,False
+Darius Miller,2,7,5,0,Jump Shot,25,172,191,False
+Darius Miller,4,9,1,1,Jump Shot,24,95,226,False
+Darius Miller,2,6,49,1,Jump Shot,24,-74,235,False
+Darius Miller,1,2,29,0,Jump Shot,25,179,176,False
+Darius Miller,2,11,34,0,Jump Shot,26,177,203,False
+Darius Miller,1,4,21,0,Jump Shot,26,192,179,False
+Darius Miller,4,9,14,0,Jump Shot,24,188,163,False
+Darius Miller,4,10,5,0,Jump Shot,25,-138,220,False
+Darius Miller,3,2,53,1,Jump Shot,16,-107,130,True
+Darius Miller,1,4,45,0,Jump Shot,13,-125,59,True
+Darius Miller,2,11,44,1,Jump Shot,18,50,182,True
+Darius Miller,1,1,50,0,Jump Shot,25,-162,195,False
+Darius Miller,2,5,51,0,Jump Shot,25,7,251,False
+Darius Miller,2,7,53,0,Jump Shot,27,159,225,False
+Darius Miller,3,0,37,1,Jump Shot,25,225,110,False
+Darius Miller,4,11,24,1,Jump Shot,25,-49,248,False
+Darius Miller,2,11,49,0,Jump Shot,25,119,231,False
+Darius Miller,1,2,45,1,Jump Shot,25,-199,163,False
+Darius Miller,4,6,59,0,Jump Shot,25,150,201,False
+Darius Miller,2,11,49,0,Jump Shot,25,179,185,False
+Darius Miller,2,11,15,0,Jump Shot,25,53,248,False
+Darius Miller,2,8,21,1,Jump Shot,22,-227,-11,False
+Darius Miller,2,0,39,0,Jump Shot,25,90,235,False
+Darius Miller,4,9,25,0,Jump Shot,23,222,75,False
+Darius Miller,2,10,15,1,Jump Shot,24,-131,205,False
+Darius Miller,2,10,50,1,Jump Shot,23,229,64,False
+Darius Miller,2,11,7,1,Jump Shot,23,233,36,False
+Darius Miller,2,9,30,0,Jump Shot,26,124,235,False
+Darius Miller,2,6,23,0,Jump Shot,25,-236,96,False
+Darius Miller,4,7,58,1,Jump Shot,18,67,173,True
+Darius Miller,1,2,25,0,Jump Shot,28,-115,260,False
+Darius Miller,4,8,28,0,Jump Shot,24,239,55,False
+Darius Miller,1,2,44,0,Jump Shot,24,233,71,False
+Darius Miller,2,10,29,0,Jump Shot,26,154,210,False
+Darius Miller,2,7,19,1,Jump Shot,24,-155,195,False
+Darius Miller,3,0,33,0,Jump Shot,26,19,267,False
+Darius Miller,3,2,37,0,Jump Shot,25,173,185,False
+Darius Miller,2,10,48,0,Jump Shot,23,228,37,False
+Darius Miller,4,4,21,1,Jump Shot,26,193,183,False
+Darius Miller,2,11,29,1,Jump Shot,25,195,165,False
+Darius Miller,2,5,15,0,Jump Shot,26,143,223,False
+Darius Miller,2,2,45,0,Jump Shot,26,-126,230,False
+Darius Miller,4,7,22,0,Jump Shot,25,-111,234,False
+Darius Miller,4,10,12,1,Jump Shot,22,-226,-23,False
+Darius Miller,1,1,25,1,Jump Shot,25,-83,237,False
+Darius Miller,4,7,48,1,Jump Shot,25,-158,204,False
+Darius Miller,1,2,31,0,Jump Shot,25,-143,212,False
+Darius Miller,2,5,41,0,Jump Shot,25,167,189,False
+Darius Miller,1,3,49,0,Jump Shot,18,-122,140,True
+Darius Miller,1,0,1,0,Jump Shot,14,104,103,True
+Darius Miller,3,2,18,0,Jump Shot,24,124,209,False
+Darius Miller,2,7,8,1,Jump Shot,22,228,16,False
+Darius Miller,2,6,26,1,Jump Shot,24,-236,64,False
+Darius Miller,3,2,24,0,Jump Shot,27,127,240,False
+Darius Miller,2,4,38,0,Jump Shot,26,231,130,False
+Darius Miller,2,10,49,1,Jump Shot,23,236,-8,False
+Darius Miller,2,9,24,1,Jump Shot,25,68,248,False
+Darius Miller,3,6,16,0,Jump Shot,26,-139,230,False
+Darius Miller,2,3,54,1,Jump Shot,24,-183,161,False
+Darius Miller,2,3,8,0,Jump Shot,26,17,263,False
+Darius Miller,1,8,30,0,Jump Shot,25,-184,178,False
+Darius Miller,3,4,34,0,Jump Shot,26,-193,179,False
+Darius Miller,4,8,18,0,Jump Shot,25,-214,144,False
+Darius Miller,1,0,28,1,Jump Shot,23,229,45,False
+Darius Miller,1,3,56,0,Jump Shot,27,87,257,False
+Darius Miller,3,1,51,0,Jump Shot,26,85,250,False
+Darius Miller,2,8,10,0,Jump Shot,25,-180,183,False
+Darius Miller,3,3,38,1,Jump Shot,15,-75,130,True
+Darius Miller,1,3,24,0,Jump Shot,25,141,207,False
+Darius Miller,1,4,14,1,Jump Shot,25,158,205,False
+Darius Miller,2,11,31,0,Jump Shot,23,230,2,False
+Darius Miller,3,0,34,1,Jump Shot,25,107,236,False
+Darius Miller,3,1,45,0,Jump Shot,25,23,251,False
+Darius Miller,4,0,27,0,Jump Shot,24,235,71,False
+Darius Miller,4,10,33,0,Jump Shot,24,240,32,False
+Darius Miller,2,7,8,0,Jump Shot,26,-22,267,False
+Darius Miller,4,6,47,1,Jump Shot,23,234,45,False
+Darius Miller,4,4,31,0,Jump Shot,26,149,216,False
+Darius Miller,4,5,4,1,Jump Shot,25,159,201,False
+Darius Miller,2,0,27,0,Jump Shot,23,-229,23,False
+Darius Miller,4,2,59,0,Jump Shot,24,231,69,False
+Darius Miller,2,5,12,0,Jump Shot,24,-129,206,False
+Darius Miller,1,2,6,1,Jump Shot,25,-10,256,False
+Darius Miller,3,5,2,0,Jump Shot,24,-141,199,False
+Darius Miller,4,5,21,1,Jump Shot,24,147,193,False
+Darius Miller,4,1,1,0,Jump Shot,24,-138,205,False
+Darius Miller,2,0,0,1,Jump Shot,22,-225,11,False
+Darius Miller,2,11,16,0,Layup Shot,4,-40,10,True
+Darius Miller,2,9,34,1,Layup Shot,2,22,8,True
+Darius Miller,2,1,15,0,Layup Shot,3,2,30,True
+Darius Miller,1,0,15,0,Layup Shot,5,-2,55,True
+Darius Miller,2,7,27,0,Pullup Jump shot,26,179,201,False
+Darius Miller,4,8,11,1,Pullup Jump shot,25,3,254,False
+Darius Miller,3,1,15,1,Pullup Jump shot,18,-93,156,True
+Darius Miller,3,1,34,1,Pullup Jump shot,16,43,164,True
+Darius Miller,2,5,16,1,Pullup Jump shot,24,-193,153,False
+Darius Miller,1,3,30,0,Pullup Jump shot,22,-225,19,False
+Darius Miller,3,1,3,1,Pullup Jump shot,26,130,235,False
+Darius Miller,2,11,30,1,Pullup Jump shot,16,-93,137,True
+Darius Miller,2,7,15,0,Pullup Jump shot,17,-125,124,True
+Darius Miller,2,9,9,1,Pullup Jump shot,11,-51,108,True
+Darius Miller,4,6,18,0,Pullup Jump shot,15,33,152,True
+Darius Miller,4,10,47,1,Pullup Jump shot,25,143,214,False
+Darius Miller,1,4,28,1,Pullup Jump shot,20,155,134,True
+Darius Miller,3,5,48,1,Pullup Jump shot,12,8,121,True
+Darius Miller,4,9,3,1,Pullup Jump shot,26,158,218,False
+Darius Miller,4,10,11,0,Pullup Jump shot,24,-145,203,False
+Darius Miller,2,0,1,0,Pullup Jump shot,27,203,189,False
+Darius Miller,4,7,28,0,Pullup Jump shot,25,-234,91,False
+Darius Miller,3,3,11,1,Pullup Jump shot,17,3,173,True
+Darius Miller,1,1,41,1,Pullup Jump shot,17,177,30,True
+Darius Miller,4,6,34,0,Pullup Jump shot,21,134,168,True
+Darius Miller,1,0,50,1,Pullup Jump shot,22,-176,140,True
+Darius Miller,4,3,28,0,Pullup Jump shot,17,179,16,True
+Darius Miller,2,1,3,1,Pullup Jump shot,20,-109,176,True
+Darius Miller,4,0,17,1,Pullup Jump shot,17,-105,138,True
+Darius Miller,3,0,0,0,Pullup Jump shot,67,124,659,False
+Darius Miller,3,2,15,0,Pullup Jump shot,25,-140,210,False
+Darius Miller,3,4,51,0,Pullup Jump shot,24,-163,188,False
+Darius Miller,3,4,46,0,Pullup Jump shot,27,140,237,False
+Darius Miller,2,11,10,0,Pullup Jump shot,9,75,65,True
+Darius Miller,3,9,8,0,Pullup Jump shot,18,89,163,True
+Darius Miller,2,10,55,0,Pullup Jump shot,26,-131,227,False
+Darius Miller,2,8,12,1,Pullup Jump shot,20,50,199,True
+Darius Miller,3,2,26,0,Pullup Jump shot,16,-78,143,True
+Darius Miller,1,5,14,1,Pullup Jump shot,15,-48,147,True
+Darius Miller,3,7,46,1,Pullup Jump shot,22,183,123,True
+Darius Miller,4,10,58,0,Pullup Jump shot,16,91,137,True
+Darius Miller,2,11,31,0,Pullup Jump shot,11,72,92,True
+Darius Miller,2,1,55,1,Pullup Jump shot,12,-74,96,True
+Darius Miller,2,8,59,1,Pullup Jump shot,23,-73,226,True
+Darius Miller,3,1,39,0,Pullup Jump shot,17,20,175,True
+Darius Miller,1,1,4,1,Pullup Jump shot,19,78,181,True
+Darius Miller,2,8,2,1,Pullup Jump shot,14,7,146,True
+Darius Miller,4,5,59,1,Pullup Jump shot,23,-229,70,False
+Darius Miller,1,1,13,0,Pullup Jump shot,11,11,119,True
+Darius Miller,1,0,40,1,Pullup Jump shot,16,75,147,True
+Darius Miller,4,10,48,1,Pullup Jump shot,22,60,213,True
+Darius Miller,4,5,20,1,Pullup Jump shot,15,14,159,True
+Darius Miller,2,10,47,0,Pullup Jump shot,5,58,-11,True
+Darius Miller,2,11,13,0,Pullup Jump shot,16,14,160,True
+Darius Miller,2,9,17,1,Pullup Jump shot,20,-190,65,True
+Darius Miller,4,6,43,1,Pullup Jump shot,16,70,146,True
+Darius Miller,4,9,33,0,Pullup Jump shot,16,119,120,True
+Darius Miller,2,9,49,0,Pullup Jump shot,20,-81,191,True
+Darius Miller,2,3,26,1,Pullup Jump shot,13,48,121,True
+Darius Miller,4,7,16,1,Pullup Jump shot,16,17,162,True
+Darius Miller,1,2,54,1,Pullup Jump shot,17,-34,174,True
+Darius Miller,4,4,27,0,Pullup Jump shot,20,-165,121,True
+Darius Miller,3,6,0,0,Running Jump Shot,16,-89,143,True
+Darius Miller,3,0,25,0,Running Jump Shot,26,-130,229,False
+Darius Miller,3,0,0,0,Running Jump Shot,31,6,312,False
+Darius Miller,2,8,26,0,Running Jump Shot,29,-163,244,False
+Darius Miller,2,8,56,1,Running Jump Shot,24,-187,160,False
+Darius Miller,2,6,44,1,Running Jump Shot,24,-194,151,False
+Darius Miller,4,9,47,0,Running Jump Shot,24,240,4,False
+Darius Miller,2,9,25,1,Running Jump Shot,22,225,33,False
+Darius Miller,3,1,47,0,Step Back Jump shot,17,70,155,True
+Darius Miller,4,0,56,0,Step Back Jump shot,26,-117,238,False
+Darius Miller,1,0,48,1,Step Back Jump shot,26,-95,251,False
+Darius Miller,2,3,59,1,Step Back Jump shot,24,228,78,False
+Darius Miller,3,2,40,0,Step Back Jump shot,25,120,222,False
+Darius Miller,3,1,13,0,Step Back Jump shot,26,152,220,False
+Darius Miller,3,5,54,1,Step Back Jump shot,24,208,137,False
+Darius Miller,2,6,39,1,Tip Layup Shot,0,0,-6,True
+Darius Miller,2,6,14,0,Turnaround Bank Hook Shot,3,36,15,True
+Darius Miller,3,1,42,0,Turnaround Jump Shot,10,29,97,True

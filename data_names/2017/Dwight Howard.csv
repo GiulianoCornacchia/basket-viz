@@ -1,0 +1,796 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Dwight Howard,3,2,38,1,Alley Oop Dunk Shot,2,-3,22,True
+Dwight Howard,3,7,56,1,Alley Oop Dunk Shot,1,-3,13,True
+Dwight Howard,1,11,51,1,Alley Oop Dunk Shot,1,-6,11,True
+Dwight Howard,1,9,29,1,Alley Oop Dunk Shot,2,-7,22,True
+Dwight Howard,1,6,50,1,Alley Oop Dunk Shot,1,0,11,True
+Dwight Howard,1,9,55,1,Alley Oop Dunk Shot,2,4,21,True
+Dwight Howard,1,8,22,1,Alley Oop Dunk Shot,0,-1,6,True
+Dwight Howard,3,6,40,1,Alley Oop Dunk Shot,2,-2,27,True
+Dwight Howard,3,2,41,0,Alley Oop Dunk Shot,1,3,19,True
+Dwight Howard,1,9,3,1,Alley Oop Dunk Shot,3,-18,25,True
+Dwight Howard,3,4,1,0,Alley Oop Dunk Shot,4,-5,44,True
+Dwight Howard,3,4,20,1,Alley Oop Dunk Shot,1,-11,5,True
+Dwight Howard,3,3,33,1,Alley Oop Dunk Shot,1,-2,13,True
+Dwight Howard,1,11,7,1,Alley Oop Dunk Shot,1,-7,12,True
+Dwight Howard,1,10,3,0,Alley Oop Dunk Shot,2,-3,20,True
+Dwight Howard,1,6,29,1,Alley Oop Dunk Shot,1,-9,8,True
+Dwight Howard,3,11,20,1,Alley Oop Dunk Shot,0,1,9,True
+Dwight Howard,1,6,3,0,Alley Oop Dunk Shot,3,-9,33,True
+Dwight Howard,1,1,4,1,Alley Oop Dunk Shot,1,0,18,True
+Dwight Howard,1,1,40,1,Alley Oop Dunk Shot,0,8,4,True
+Dwight Howard,2,2,48,1,Alley Oop Dunk Shot,0,4,8,True
+Dwight Howard,3,2,46,1,Alley Oop Dunk Shot,2,-18,11,True
+Dwight Howard,2,6,20,1,Alley Oop Dunk Shot,1,4,13,True
+Dwight Howard,1,9,36,1,Alley Oop Dunk Shot,1,2,11,True
+Dwight Howard,4,3,42,1,Alley Oop Dunk Shot,1,1,11,True
+Dwight Howard,1,5,54,0,Alley Oop Dunk Shot,2,-18,16,True
+Dwight Howard,1,7,39,1,Alley Oop Dunk Shot,0,-4,-1,True
+Dwight Howard,1,9,25,1,Alley Oop Dunk Shot,1,0,11,True
+Dwight Howard,1,7,3,1,Alley Oop Dunk Shot,1,-6,16,True
+Dwight Howard,1,6,25,1,Alley Oop Dunk Shot,1,-4,14,True
+Dwight Howard,1,5,35,1,Alley Oop Dunk Shot,1,5,9,True
+Dwight Howard,2,2,49,1,Alley Oop Dunk Shot,0,-1,5,True
+Dwight Howard,3,6,50,1,Alley Oop Dunk Shot,1,13,-5,True
+Dwight Howard,2,6,2,1,Alley Oop Dunk Shot,0,-3,4,True
+Dwight Howard,1,10,54,1,Alley Oop Dunk Shot,0,2,2,True
+Dwight Howard,3,7,3,1,Alley Oop Dunk Shot,1,-2,17,True
+Dwight Howard,1,2,29,1,Alley Oop Dunk Shot,0,-5,8,True
+Dwight Howard,1,6,59,0,Alley Oop Dunk Shot,1,13,11,True
+Dwight Howard,3,6,8,1,Alley Oop Dunk Shot,0,5,-7,True
+Dwight Howard,4,3,58,1,Alley Oop Dunk Shot,0,-2,4,True
+Dwight Howard,1,4,44,1,Alley Oop Dunk Shot,1,-6,11,True
+Dwight Howard,1,6,59,1,Alley Oop Dunk Shot,1,-7,15,True
+Dwight Howard,3,4,49,1,Alley Oop Dunk Shot,0,-3,6,True
+Dwight Howard,3,2,38,1,Alley Oop Dunk Shot,1,11,11,True
+Dwight Howard,3,1,33,1,Alley Oop Dunk Shot,0,-4,5,True
+Dwight Howard,1,3,41,1,Alley Oop Dunk Shot,0,3,6,True
+Dwight Howard,1,2,43,0,Alley Oop Dunk Shot,2,-11,23,True
+Dwight Howard,2,5,27,1,Alley Oop Dunk Shot,1,1,14,True
+Dwight Howard,1,3,58,1,Alley Oop Dunk Shot,1,5,11,True
+Dwight Howard,2,3,21,1,Alley Oop Dunk Shot,0,1,9,True
+Dwight Howard,2,0,26,1,Alley Oop Dunk Shot,1,5,10,True
+Dwight Howard,3,4,21,1,Alley Oop Dunk Shot,1,0,11,True
+Dwight Howard,1,4,37,1,Alley Oop Dunk Shot,0,4,8,True
+Dwight Howard,1,8,4,1,Alley Oop Dunk Shot,1,-6,11,True
+Dwight Howard,1,9,49,1,Alley Oop Dunk Shot,0,-4,6,True
+Dwight Howard,1,2,34,1,Alley Oop Dunk Shot,0,1,6,True
+Dwight Howard,1,6,9,1,Alley Oop Dunk Shot,2,1,25,True
+Dwight Howard,1,0,12,1,Alley Oop Dunk Shot,0,-5,4,True
+Dwight Howard,3,2,43,1,Alley Oop Layup shot,2,18,16,True
+Dwight Howard,1,5,14,1,Alley Oop Layup shot,1,4,12,True
+Dwight Howard,1,5,50,1,Alley Oop Layup shot,0,3,8,True
+Dwight Howard,1,6,19,0,Alley Oop Layup shot,0,-3,9,True
+Dwight Howard,2,3,30,1,Alley Oop Layup shot,2,22,11,True
+Dwight Howard,1,8,5,1,Alley Oop Layup shot,1,-1,16,True
+Dwight Howard,3,11,45,1,Alley Oop Layup shot,13,-50,122,True
+Dwight Howard,1,3,13,1,Alley Oop Layup shot,4,-13,38,True
+Dwight Howard,1,6,33,1,Alley Oop Layup shot,2,-8,25,True
+Dwight Howard,3,8,35,0,Alley Oop Layup shot,1,1,16,True
+Dwight Howard,2,2,42,1,Alley Oop Layup shot,0,-3,9,True
+Dwight Howard,1,3,41,1,Alley Oop Layup shot,1,-9,16,True
+Dwight Howard,4,5,29,1,Alley Oop Layup shot,1,-9,6,True
+Dwight Howard,1,6,29,1,Alley Oop Layup shot,2,-8,22,True
+Dwight Howard,2,2,1,1,Alley Oop Layup shot,1,9,14,True
+Dwight Howard,1,5,17,0,Alley Oop Layup shot,3,-30,9,True
+Dwight Howard,1,10,32,1,Cutting Dunk Shot,1,0,19,True
+Dwight Howard,1,10,32,1,Cutting Dunk Shot,0,3,6,True
+Dwight Howard,1,8,44,1,Cutting Dunk Shot,1,5,16,True
+Dwight Howard,2,4,32,1,Cutting Dunk Shot,2,5,21,True
+Dwight Howard,3,6,34,1,Cutting Dunk Shot,1,-1,10,True
+Dwight Howard,1,7,55,1,Cutting Dunk Shot,1,-16,8,True
+Dwight Howard,1,9,16,1,Cutting Dunk Shot,1,-5,12,True
+Dwight Howard,2,4,50,1,Cutting Dunk Shot,1,6,11,True
+Dwight Howard,2,3,14,1,Cutting Dunk Shot,1,-6,18,True
+Dwight Howard,1,8,39,1,Cutting Dunk Shot,1,4,13,True
+Dwight Howard,1,11,6,1,Cutting Dunk Shot,0,-1,5,True
+Dwight Howard,1,8,6,1,Cutting Dunk Shot,0,-6,7,True
+Dwight Howard,1,5,37,0,Cutting Finger Roll Layup Shot,2,3,24,True
+Dwight Howard,3,3,43,1,Cutting Layup Shot,3,-30,17,True
+Dwight Howard,1,11,17,1,Cutting Layup Shot,0,2,4,True
+Dwight Howard,3,5,21,1,Cutting Layup Shot,1,-3,16,True
+Dwight Howard,4,2,23,1,Cutting Layup Shot,1,14,5,True
+Dwight Howard,2,0,58,0,Cutting Layup Shot,3,-8,35,True
+Dwight Howard,3,9,43,1,Cutting Layup Shot,1,-11,10,True
+Dwight Howard,3,7,37,1,Cutting Layup Shot,1,17,6,True
+Dwight Howard,2,2,2,0,Driving Bank Hook Shot,3,-27,14,True
+Dwight Howard,3,3,10,1,Driving Bank Hook Shot,2,-17,12,True
+Dwight Howard,2,2,53,1,Driving Dunk Shot,1,0,11,True
+Dwight Howard,1,5,29,1,Driving Dunk Shot,0,-4,6,True
+Dwight Howard,1,2,56,1,Driving Dunk Shot,1,-11,10,True
+Dwight Howard,1,6,33,1,Driving Dunk Shot,1,0,15,True
+Dwight Howard,3,8,59,1,Driving Dunk Shot,1,11,9,True
+Dwight Howard,1,7,58,1,Driving Dunk Shot,0,-3,7,True
+Dwight Howard,2,2,48,1,Driving Dunk Shot,1,-9,10,True
+Dwight Howard,2,3,9,1,Driving Dunk Shot,1,-8,16,True
+Dwight Howard,3,6,12,1,Driving Dunk Shot,1,-6,10,True
+Dwight Howard,4,1,47,1,Driving Dunk Shot,1,6,15,True
+Dwight Howard,4,4,45,1,Driving Dunk Shot,1,-5,10,True
+Dwight Howard,3,5,47,1,Driving Finger Roll Layup Shot,0,-3,4,True
+Dwight Howard,1,2,55,0,Driving Finger Roll Layup Shot,6,7,63,True
+Dwight Howard,1,10,18,1,Driving Finger Roll Layup Shot,5,-9,50,True
+Dwight Howard,3,11,13,0,Driving Finger Roll Layup Shot,4,-27,42,True
+Dwight Howard,4,2,26,1,Driving Finger Roll Layup Shot,3,-28,23,True
+Dwight Howard,1,5,28,0,Driving Floating Bank Jump Shot,4,-7,46,True
+Dwight Howard,3,10,13,0,Driving Floating Jump Shot,1,-18,4,True
+Dwight Howard,4,1,5,1,Driving Floating Jump Shot,12,47,114,True
+Dwight Howard,1,10,28,1,Driving Hook Shot,2,6,29,True
+Dwight Howard,1,8,40,0,Driving Hook Shot,4,22,38,True
+Dwight Howard,1,3,8,1,Driving Hook Shot,11,-3,112,True
+Dwight Howard,1,5,16,0,Driving Hook Shot,6,2,63,True
+Dwight Howard,3,3,31,0,Driving Hook Shot,7,-7,78,True
+Dwight Howard,1,3,54,0,Driving Hook Shot,4,-3,45,True
+Dwight Howard,1,4,10,0,Driving Hook Shot,1,-18,5,True
+Dwight Howard,4,3,23,0,Driving Hook Shot,4,33,23,True
+Dwight Howard,4,4,23,0,Driving Hook Shot,8,5,84,True
+Dwight Howard,1,8,31,0,Driving Hook Shot,3,22,30,True
+Dwight Howard,1,8,7,1,Driving Hook Shot,3,-2,34,True
+Dwight Howard,2,5,5,1,Driving Hook Shot,5,-44,35,True
+Dwight Howard,3,1,15,1,Driving Hook Shot,4,-6,43,True
+Dwight Howard,1,4,3,0,Driving Hook Shot,2,19,20,True
+Dwight Howard,3,5,56,1,Driving Hook Shot,6,-35,58,True
+Dwight Howard,2,9,15,0,Driving Hook Shot,5,11,53,True
+Dwight Howard,2,4,58,0,Driving Hook Shot,6,56,35,True
+Dwight Howard,1,9,26,0,Driving Hook Shot,5,-10,53,True
+Dwight Howard,3,7,2,0,Driving Hook Shot,7,-13,73,True
+Dwight Howard,2,5,26,1,Driving Hook Shot,7,5,73,True
+Dwight Howard,1,3,5,0,Driving Layup Shot,2,-21,4,True
+Dwight Howard,3,3,40,1,Driving Layup Shot,0,-4,9,True
+Dwight Howard,3,5,25,1,Driving Layup Shot,2,-5,22,True
+Dwight Howard,4,2,5,1,Driving Layup Shot,0,5,5,True
+Dwight Howard,3,11,49,0,Driving Layup Shot,6,-40,47,True
+Dwight Howard,3,3,2,0,Driving Layup Shot,6,-19,58,True
+Dwight Howard,3,1,16,0,Driving Layup Shot,1,-14,6,True
+Dwight Howard,3,8,3,0,Driving Layup Shot,3,22,27,True
+Dwight Howard,1,7,44,1,Driving Layup Shot,2,7,20,True
+Dwight Howard,1,8,25,1,Driving Layup Shot,6,7,68,True
+Dwight Howard,3,10,18,0,Driving Layup Shot,2,-20,20,True
+Dwight Howard,1,4,28,0,Driving Layup Shot,2,-27,7,True
+Dwight Howard,2,1,30,1,Driving Layup Shot,3,-32,16,True
+Dwight Howard,3,7,41,1,Driving Layup Shot,3,-28,16,True
+Dwight Howard,1,10,15,0,Driving Layup Shot,4,1,47,True
+Dwight Howard,3,10,42,1,Driving Layup Shot,1,11,8,True
+Dwight Howard,3,10,18,1,Driving Layup Shot,1,-8,6,True
+Dwight Howard,2,10,51,1,Driving Layup Shot,1,6,19,True
+Dwight Howard,3,10,15,0,Driving Layup Shot,3,5,32,True
+Dwight Howard,3,3,4,1,Driving Layup Shot,0,-5,3,True
+Dwight Howard,1,4,35,1,Driving Layup Shot,1,8,6,True
+Dwight Howard,2,3,11,1,Driving Layup Shot,3,30,10,True
+Dwight Howard,3,10,2,0,Driving Layup Shot,1,-10,9,True
+Dwight Howard,1,6,0,1,Driving Layup Shot,3,29,24,True
+Dwight Howard,1,5,32,1,Driving Layup Shot,2,27,7,True
+Dwight Howard,1,3,53,1,Driving Layup Shot,3,-24,24,True
+Dwight Howard,3,4,4,0,Driving Layup Shot,2,19,20,True
+Dwight Howard,2,0,31,0,Driving Layup Shot,8,-11,88,True
+Dwight Howard,1,2,12,1,Driving Layup Shot,1,-2,13,True
+Dwight Howard,1,11,8,0,Driving Layup Shot,2,13,16,True
+Dwight Howard,1,4,10,0,Driving Layup Shot,2,16,16,True
+Dwight Howard,3,10,18,1,Driving Layup Shot,2,-9,23,True
+Dwight Howard,1,5,29,0,Driving Layup Shot,0,-5,8,True
+Dwight Howard,3,2,19,1,Driving Reverse Dunk Shot,0,0,3,True
+Dwight Howard,1,8,45,1,Driving Reverse Layup Shot,2,-17,12,True
+Dwight Howard,3,1,0,0,Driving Reverse Layup Shot,1,17,4,True
+Dwight Howard,1,2,19,0,Driving Reverse Layup Shot,3,21,28,True
+Dwight Howard,3,10,45,0,Driving Reverse Layup Shot,4,25,34,True
+Dwight Howard,1,10,50,0,Driving Reverse Layup Shot,1,16,6,True
+Dwight Howard,3,9,42,0,Driving Reverse Layup Shot,1,8,16,True
+Dwight Howard,1,7,28,0,Driving Reverse Layup Shot,2,24,1,True
+Dwight Howard,3,4,55,1,Driving Reverse Layup Shot,1,1,10,True
+Dwight Howard,1,1,43,1,Driving Reverse Layup Shot,1,13,9,True
+Dwight Howard,2,4,29,1,Driving Reverse Layup Shot,2,7,19,True
+Dwight Howard,1,4,56,1,Driving Reverse Layup Shot,1,-13,4,True
+Dwight Howard,3,7,1,0,Driving Reverse Layup Shot,1,13,13,True
+Dwight Howard,1,7,51,1,Driving Reverse Layup Shot,1,5,9,True
+Dwight Howard,3,5,24,0,Driving Reverse Layup Shot,2,20,15,True
+Dwight Howard,2,1,38,1,Driving Reverse Layup Shot,1,16,0,True
+Dwight Howard,4,3,35,0,Driving Reverse Layup Shot,1,-1,11,True
+Dwight Howard,4,3,14,0,Driving Reverse Layup Shot,2,2,20,True
+Dwight Howard,3,10,48,0,Driving Reverse Layup Shot,2,22,13,True
+Dwight Howard,4,4,32,1,Dunk Shot,1,0,13,True
+Dwight Howard,4,0,31,1,Dunk Shot,0,2,0,True
+Dwight Howard,1,6,0,0,Dunk Shot,1,-7,13,True
+Dwight Howard,4,6,48,1,Dunk Shot,0,-3,5,True
+Dwight Howard,1,7,53,1,Dunk Shot,2,-3,20,True
+Dwight Howard,2,1,9,1,Dunk Shot,1,1,15,True
+Dwight Howard,1,9,20,1,Dunk Shot,1,9,6,True
+Dwight Howard,4,3,25,1,Dunk Shot,2,8,19,True
+Dwight Howard,3,5,9,1,Dunk Shot,2,9,21,True
+Dwight Howard,2,1,2,1,Dunk Shot,1,7,16,True
+Dwight Howard,3,9,52,1,Dunk Shot,1,-17,4,True
+Dwight Howard,3,4,20,1,Dunk Shot,0,-7,4,True
+Dwight Howard,3,3,17,1,Dunk Shot,0,5,8,True
+Dwight Howard,3,4,48,1,Dunk Shot,1,3,11,True
+Dwight Howard,1,4,40,1,Dunk Shot,0,2,9,True
+Dwight Howard,1,10,22,1,Dunk Shot,1,9,10,True
+Dwight Howard,1,5,33,1,Dunk Shot,1,-6,8,True
+Dwight Howard,1,4,35,1,Dunk Shot,1,0,11,True
+Dwight Howard,1,4,49,1,Dunk Shot,1,2,11,True
+Dwight Howard,2,3,15,0,Dunk Shot,1,8,15,True
+Dwight Howard,3,0,31,1,Dunk Shot,1,7,11,True
+Dwight Howard,1,7,53,0,Dunk Shot,1,-6,14,True
+Dwight Howard,1,2,36,0,Dunk Shot,2,-3,28,True
+Dwight Howard,3,8,23,1,Dunk Shot,1,9,17,True
+Dwight Howard,2,0,14,1,Dunk Shot,1,9,8,True
+Dwight Howard,4,3,33,1,Dunk Shot,0,2,9,True
+Dwight Howard,1,9,6,1,Dunk Shot,1,2,15,True
+Dwight Howard,3,11,6,1,Dunk Shot,0,0,6,True
+Dwight Howard,4,3,7,1,Dunk Shot,1,-5,11,True
+Dwight Howard,4,5,23,1,Dunk Shot,1,-8,9,True
+Dwight Howard,3,2,46,1,Dunk Shot,0,1,5,True
+Dwight Howard,1,1,14,1,Dunk Shot,1,9,10,True
+Dwight Howard,1,9,53,1,Dunk Shot,0,-6,4,True
+Dwight Howard,2,2,26,1,Dunk Shot,0,-2,5,True
+Dwight Howard,1,11,42,0,Dunk Shot,1,2,12,True
+Dwight Howard,2,7,30,1,Dunk Shot,0,3,4,True
+Dwight Howard,1,8,3,1,Dunk Shot,1,-3,12,True
+Dwight Howard,3,2,42,1,Dunk Shot,1,-4,16,True
+Dwight Howard,1,10,1,1,Dunk Shot,1,8,16,True
+Dwight Howard,3,7,33,1,Dunk Shot,1,-7,12,True
+Dwight Howard,4,2,56,1,Dunk Shot,0,-2,7,True
+Dwight Howard,3,5,34,1,Dunk Shot,1,6,19,True
+Dwight Howard,1,7,26,1,Dunk Shot,1,6,11,True
+Dwight Howard,3,9,39,1,Dunk Shot,3,-8,31,True
+Dwight Howard,3,11,47,0,Dunk Shot,1,8,8,True
+Dwight Howard,2,1,55,1,Finger Roll Layup Shot,1,-3,15,True
+Dwight Howard,3,8,43,1,Finger Roll Layup Shot,2,-2,25,True
+Dwight Howard,3,6,15,0,Finger Roll Layup Shot,0,-3,-3,True
+Dwight Howard,3,6,14,1,Finger Roll Layup Shot,2,-9,18,True
+Dwight Howard,3,2,13,0,Finger Roll Layup Shot,2,-4,26,True
+Dwight Howard,1,10,22,0,Floating Jump shot,11,89,75,True
+Dwight Howard,3,10,36,0,Hook Bank Shot,10,91,44,True
+Dwight Howard,3,6,45,1,Hook Bank Shot,8,52,71,True
+Dwight Howard,1,1,52,1,Hook Bank Shot,4,9,41,True
+Dwight Howard,3,10,9,1,Hook Bank Shot,3,21,22,True
+Dwight Howard,2,4,0,1,Hook Bank Shot,7,52,49,True
+Dwight Howard,3,9,19,1,Hook Bank Shot,0,3,6,True
+Dwight Howard,3,5,17,0,Hook Shot,8,-1,89,True
+Dwight Howard,3,6,29,0,Hook Shot,4,-6,48,True
+Dwight Howard,1,11,46,1,Hook Shot,8,-8,80,True
+Dwight Howard,3,6,48,0,Hook Shot,5,-54,18,True
+Dwight Howard,4,4,0,1,Hook Shot,7,69,12,True
+Dwight Howard,4,2,39,0,Hook Shot,5,-46,30,True
+Dwight Howard,4,5,29,0,Hook Shot,7,5,75,True
+Dwight Howard,3,9,10,0,Hook Shot,5,8,59,True
+Dwight Howard,2,4,32,1,Hook Shot,5,-1,52,True
+Dwight Howard,1,8,1,0,Hook Shot,5,-2,53,True
+Dwight Howard,3,6,2,0,Hook Shot,5,29,47,True
+Dwight Howard,3,3,26,1,Hook Shot,6,-55,42,True
+Dwight Howard,3,5,20,1,Hook Shot,1,-6,10,True
+Dwight Howard,1,11,41,0,Hook Shot,5,-33,39,True
+Dwight Howard,1,11,0,1,Hook Shot,4,2,47,True
+Dwight Howard,2,3,51,1,Hook Shot,6,9,67,True
+Dwight Howard,3,10,52,0,Hook Shot,7,-45,54,True
+Dwight Howard,1,7,23,1,Hook Shot,6,-30,58,True
+Dwight Howard,3,1,47,0,Hook Shot,6,-2,67,True
+Dwight Howard,4,1,30,0,Hook Shot,3,-13,34,True
+Dwight Howard,1,11,9,0,Hook Shot,5,47,19,True
+Dwight Howard,3,6,14,0,Hook Shot,7,-70,1,True
+Dwight Howard,2,1,46,0,Hook Shot,9,6,90,True
+Dwight Howard,3,10,47,0,Hook Shot,7,-58,42,True
+Dwight Howard,1,6,39,0,Hook Shot,2,-18,20,True
+Dwight Howard,2,4,40,1,Hook Shot,3,7,31,True
+Dwight Howard,1,8,12,0,Hook Shot,7,5,74,True
+Dwight Howard,4,6,25,0,Hook Shot,6,4,69,True
+Dwight Howard,1,7,1,0,Hook Shot,2,29,5,True
+Dwight Howard,3,9,56,0,Hook Shot,5,0,52,True
+Dwight Howard,3,10,40,0,Hook Shot,7,4,76,True
+Dwight Howard,3,0,56,0,Hook Shot,6,11,61,True
+Dwight Howard,1,8,54,1,Hook Shot,7,-2,75,True
+Dwight Howard,1,6,32,1,Hook Shot,5,25,54,True
+Dwight Howard,1,7,4,1,Hook Shot,9,-90,17,True
+Dwight Howard,2,6,54,0,Hook Shot,3,32,17,True
+Dwight Howard,1,11,7,0,Hook Shot,6,25,57,True
+Dwight Howard,3,8,46,0,Hook Shot,4,-8,45,True
+Dwight Howard,1,9,42,0,Hook Shot,1,-3,11,True
+Dwight Howard,2,7,54,0,Hook Shot,6,5,62,True
+Dwight Howard,1,10,8,0,Hook Shot,2,-16,15,True
+Dwight Howard,3,7,6,0,Hook Shot,1,-6,17,True
+Dwight Howard,3,6,7,1,Hook Shot,9,-89,25,True
+Dwight Howard,1,5,45,1,Hook Shot,8,60,53,True
+Dwight Howard,3,6,5,0,Hook Shot,5,-54,11,True
+Dwight Howard,3,11,28,1,Hook Shot,5,-16,52,True
+Dwight Howard,2,3,35,0,Hook Shot,5,-51,8,True
+Dwight Howard,1,9,17,1,Hook Shot,9,-71,62,True
+Dwight Howard,3,2,19,1,Hook Shot,6,-63,16,True
+Dwight Howard,3,4,52,0,Hook Shot,6,-17,60,True
+Dwight Howard,3,3,12,1,Hook Shot,7,6,79,True
+Dwight Howard,2,3,39,0,Hook Shot,5,6,54,True
+Dwight Howard,3,9,5,0,Hook Shot,11,-8,115,True
+Dwight Howard,2,2,26,0,Hook Shot,9,-24,93,True
+Dwight Howard,3,8,58,1,Hook Shot,4,22,37,True
+Dwight Howard,3,11,23,1,Hook Shot,3,0,38,True
+Dwight Howard,3,2,6,0,Hook Shot,11,-47,105,True
+Dwight Howard,3,8,41,0,Hook Shot,8,-42,71,True
+Dwight Howard,2,2,45,0,Hook Shot,7,29,66,True
+Dwight Howard,2,2,22,0,Hook Shot,5,20,52,True
+Dwight Howard,1,11,42,0,Hook Shot,8,-81,32,True
+Dwight Howard,1,11,40,0,Hook Shot,7,-62,44,True
+Dwight Howard,1,3,41,0,Hook Shot,7,-7,71,True
+Dwight Howard,1,5,37,1,Hook Shot,9,-5,91,True
+Dwight Howard,4,4,35,0,Hook Shot,7,4,73,True
+Dwight Howard,2,5,13,0,Hook Shot,6,-30,62,True
+Dwight Howard,2,5,18,0,Hook Shot,5,-1,50,True
+Dwight Howard,1,7,12,0,Hook Shot,6,62,-8,True
+Dwight Howard,2,3,15,1,Hook Shot,8,-9,84,True
+Dwight Howard,3,4,21,0,Hook Shot,9,28,88,True
+Dwight Howard,1,5,9,1,Hook Shot,3,27,18,True
+Dwight Howard,2,2,44,0,Hook Shot,9,-19,90,True
+Dwight Howard,3,7,15,0,Hook Shot,7,-11,79,True
+Dwight Howard,1,8,55,0,Hook Shot,5,-3,58,True
+Dwight Howard,4,4,34,1,Hook Shot,0,-4,5,True
+Dwight Howard,1,8,55,0,Hook Shot,3,18,25,True
+Dwight Howard,1,4,39,0,Hook Shot,6,6,60,True
+Dwight Howard,2,6,17,0,Hook Shot,3,16,32,True
+Dwight Howard,2,4,34,0,Hook Shot,2,-23,13,True
+Dwight Howard,4,2,49,1,Hook Shot,7,30,74,True
+Dwight Howard,3,9,38,1,Hook Shot,8,-2,83,True
+Dwight Howard,4,4,9,1,Hook Shot,5,27,47,True
+Dwight Howard,4,3,38,1,Hook Shot,7,76,15,True
+Dwight Howard,3,9,41,0,Hook Shot,5,3,50,True
+Dwight Howard,4,4,36,1,Hook Shot,3,-3,36,True
+Dwight Howard,1,11,13,0,Hook Shot,6,-14,67,True
+Dwight Howard,1,7,42,1,Hook Shot,7,67,32,True
+Dwight Howard,2,0,46,1,Hook Shot,2,-8,26,True
+Dwight Howard,1,2,48,1,Hook Shot,3,-2,34,True
+Dwight Howard,3,11,44,0,Hook Shot,8,62,56,True
+Dwight Howard,3,9,48,1,Jump Bank Shot,9,52,75,True
+Dwight Howard,2,8,19,0,Jump Bank Shot,16,159,30,True
+Dwight Howard,3,1,56,0,Jump Bank Shot,17,142,105,True
+Dwight Howard,1,10,34,1,Jump Bank Shot,15,136,64,True
+Dwight Howard,1,7,15,1,Jump Bank Shot,16,-133,91,True
+Dwight Howard,1,2,47,1,Jump Bank Shot,5,-54,15,True
+Dwight Howard,1,10,9,1,Jump Bank Shot,19,183,56,True
+Dwight Howard,2,1,51,0,Jump Bank Shot,11,110,37,True
+Dwight Howard,1,5,26,0,Jump Bank Shot,13,-115,79,True
+Dwight Howard,1,8,40,1,Jump Bank Shot,12,-117,35,True
+Dwight Howard,3,11,5,0,Jump Bank Shot,8,78,43,True
+Dwight Howard,1,10,18,0,Jump Bank Shot,9,95,27,True
+Dwight Howard,1,3,45,0,Jump Bank Shot,15,121,90,True
+Dwight Howard,3,10,19,1,Jump Bank Shot,23,-5,230,True
+Dwight Howard,1,11,27,0,Jump Bank Shot,16,-113,125,True
+Dwight Howard,2,2,36,0,Jump Bank Shot,16,136,94,True
+Dwight Howard,3,6,20,0,Jump Bank Shot,4,-34,29,True
+Dwight Howard,1,3,42,0,Jump Bank Shot,18,183,-11,True
+Dwight Howard,1,3,36,0,Jump Bank Shot,3,-23,28,True
+Dwight Howard,1,7,11,0,Jump Bank Shot,13,-101,89,True
+Dwight Howard,1,10,50,0,Jump Bank Shot,16,142,92,True
+Dwight Howard,1,3,18,0,Jump Bank Shot,8,70,52,True
+Dwight Howard,1,10,58,0,Jump Bank Shot,10,100,-15,True
+Dwight Howard,1,11,20,0,Jump Bank Shot,15,-125,88,True
+Dwight Howard,3,10,44,1,Jump Bank Shot,14,135,59,True
+Dwight Howard,1,3,51,0,Jump Bank Shot,14,134,53,True
+Dwight Howard,4,8,49,1,Jump Bank Shot,15,139,71,True
+Dwight Howard,1,10,10,1,Jump Bank Shot,12,111,65,True
+Dwight Howard,1,11,11,0,Jump Bank Shot,12,119,46,True
+Dwight Howard,2,6,30,0,Jump Bank Shot,14,135,49,True
+Dwight Howard,3,4,35,0,Jump Bank Shot,15,-120,92,True
+Dwight Howard,2,0,0,0,Jump Shot,55,-48,557,False
+Dwight Howard,3,5,34,1,Jump Shot,19,19,197,True
+Dwight Howard,3,11,24,0,Jump Shot,20,76,188,True
+Dwight Howard,3,1,49,0,Jump Shot,18,-17,184,True
+Dwight Howard,3,7,36,1,Jump Shot,18,-52,181,True
+Dwight Howard,1,4,5,0,Jump Shot,20,-71,197,True
+Dwight Howard,3,10,28,0,Jump Shot,19,96,168,True
+Dwight Howard,3,5,4,0,Jump Shot,20,2,205,True
+Dwight Howard,3,11,12,1,Jump Shot,17,172,19,True
+Dwight Howard,5,0,32,0,Jump Shot,26,38,263,False
+Dwight Howard,3,11,36,0,Jump Shot,18,-24,187,True
+Dwight Howard,3,5,35,0,Jump Shot,19,-122,158,True
+Dwight Howard,1,7,26,1,Jump Shot,18,-136,129,True
+Dwight Howard,3,10,48,0,Jump Shot,20,-132,159,True
+Dwight Howard,1,10,44,0,Jump Shot,19,-106,168,True
+Dwight Howard,3,3,15,1,Jump Shot,20,-201,42,True
+Dwight Howard,3,2,51,0,Jump Shot,19,-94,170,True
+Dwight Howard,3,9,44,0,Jump Shot,21,-92,196,True
+Dwight Howard,3,6,21,0,Jump Shot,15,13,152,True
+Dwight Howard,1,5,34,0,Jump Shot,21,-44,214,True
+Dwight Howard,3,10,6,0,Jump Shot,21,-83,201,True
+Dwight Howard,3,11,16,1,Jump Shot,14,-141,26,True
+Dwight Howard,3,8,13,0,Jump Shot,16,-25,168,True
+Dwight Howard,1,10,56,0,Jump Shot,18,-10,188,True
+Dwight Howard,1,11,3,0,Jump Shot,7,2,76,True
+Dwight Howard,3,11,19,0,Jump Shot,20,-48,195,True
+Dwight Howard,2,2,2,1,Jump Shot,20,-125,159,True
+Dwight Howard,1,9,0,0,Jump Shot,19,87,169,True
+Dwight Howard,2,2,53,0,Jump Shot,3,17,25,True
+Dwight Howard,4,5,6,0,Jump Shot,20,-34,206,True
+Dwight Howard,3,1,33,0,Jump Shot,20,-36,197,True
+Dwight Howard,4,0,0,0,Jump Shot,19,2,190,True
+Dwight Howard,1,8,48,1,Jump Shot,18,160,99,True
+Dwight Howard,3,5,6,1,Jump Shot,17,84,154,True
+Dwight Howard,1,5,2,0,Jump Shot,13,-136,-10,True
+Dwight Howard,3,8,42,1,Jump Shot,17,91,153,True
+Dwight Howard,4,2,30,0,Jump Shot,23,3,233,True
+Dwight Howard,2,8,48,1,Jump Shot,18,-112,142,True
+Dwight Howard,4,0,8,0,Jump Shot,26,-61,254,False
+Dwight Howard,2,4,1,0,Jump Shot,10,-2,105,True
+Dwight Howard,2,0,48,0,Jump Shot,15,112,109,True
+Dwight Howard,1,8,51,0,Jump Shot,13,130,49,True
+Dwight Howard,1,1,42,0,Jump Shot,7,76,14,True
+Dwight Howard,4,0,0,0,Jump Shot,53,125,520,False
+Dwight Howard,1,4,57,0,Jump Shot,13,59,123,True
+Dwight Howard,4,9,5,0,Jump Shot,1,9,13,True
+Dwight Howard,3,9,28,0,Jump Shot,16,126,100,True
+Dwight Howard,2,4,53,0,Jump Shot,14,-109,100,True
+Dwight Howard,1,10,41,0,Jump Shot,4,0,43,True
+Dwight Howard,2,4,54,0,Jump Shot,19,92,172,True
+Dwight Howard,3,10,29,0,Jump Shot,21,104,192,True
+Dwight Howard,2,3,10,0,Jump Shot,19,-58,181,True
+Dwight Howard,4,0,13,0,Jump Shot,24,1,248,False
+Dwight Howard,3,6,20,0,Jump Shot,14,-146,6,True
+Dwight Howard,3,8,20,1,Jump Shot,18,100,158,True
+Dwight Howard,1,8,24,0,Jump Shot,16,-152,70,True
+Dwight Howard,4,5,18,0,Jump Shot,20,-79,193,True
+Dwight Howard,3,7,48,1,Jump Shot,18,85,168,True
+Dwight Howard,1,8,12,1,Jump Shot,19,-55,187,True
+Dwight Howard,2,1,34,0,Jump Shot,18,-42,180,True
+Dwight Howard,1,10,18,0,Jump Shot,17,30,168,True
+Dwight Howard,1,10,59,0,Jump Shot,17,6,172,True
+Dwight Howard,3,10,44,0,Jump Shot,21,-6,216,True
+Dwight Howard,3,9,17,0,Jump Shot,3,13,28,True
+Dwight Howard,1,5,1,0,Jump Shot,21,-110,179,True
+Dwight Howard,1,4,2,1,Jump Shot,19,33,197,True
+Dwight Howard,3,4,52,0,Jump Shot,19,14,199,True
+Dwight Howard,3,0,0,1,Jump Shot,20,68,190,True
+Dwight Howard,3,11,48,0,Jump Shot,3,1,32,True
+Dwight Howard,1,4,46,0,Jump Shot,15,-144,58,True
+Dwight Howard,1,11,29,0,Jump Shot,8,-33,73,True
+Dwight Howard,4,3,58,1,Jump Shot,19,96,173,True
+Dwight Howard,4,0,6,0,Jump Shot,20,-185,83,True
+Dwight Howard,4,3,23,0,Jump Shot,20,-14,203,True
+Dwight Howard,1,8,36,1,Jump Shot,21,-60,206,True
+Dwight Howard,3,11,29,1,Jump Shot,14,-122,85,True
+Dwight Howard,3,11,17,1,Jump Shot,19,-76,176,True
+Dwight Howard,1,10,7,1,Jump Shot,17,177,24,True
+Dwight Howard,4,3,49,1,Jump Shot,0,5,6,True
+Dwight Howard,2,0,0,0,Jump Shot,31,-134,289,False
+Dwight Howard,1,5,47,0,Jump Shot,17,-51,172,True
+Dwight Howard,1,10,19,0,Jump Shot,5,-35,37,True
+Dwight Howard,1,8,43,0,Jump Shot,15,-109,107,True
+Dwight Howard,2,4,59,0,Jump Shot,21,-79,200,True
+Dwight Howard,3,11,9,0,Jump Shot,8,16,80,True
+Dwight Howard,3,7,2,0,Jump Shot,9,25,91,True
+Dwight Howard,1,9,58,0,Jump Shot,21,91,196,True
+Dwight Howard,1,4,45,0,Jump Shot,17,169,46,True
+Dwight Howard,4,3,56,0,Jump Shot,7,-14,73,True
+Dwight Howard,2,1,16,1,Jump Shot,20,-5,206,True
+Dwight Howard,3,11,22,0,Jump Shot,16,161,27,True
+Dwight Howard,1,7,4,0,Jump Shot,6,-6,69,True
+Dwight Howard,1,4,21,0,Jump Shot,2,-12,23,True
+Dwight Howard,2,3,41,1,Layup Shot,1,8,16,True
+Dwight Howard,3,4,49,1,Layup Shot,1,2,17,True
+Dwight Howard,2,6,24,0,Layup Shot,6,29,59,True
+Dwight Howard,1,3,3,1,Layup Shot,0,5,8,True
+Dwight Howard,1,6,40,1,Layup Shot,3,-11,38,True
+Dwight Howard,1,3,23,1,Layup Shot,1,-7,13,True
+Dwight Howard,2,4,45,1,Layup Shot,3,5,38,True
+Dwight Howard,3,0,53,1,Layup Shot,2,-9,21,True
+Dwight Howard,3,6,48,1,Layup Shot,1,-14,11,True
+Dwight Howard,1,9,59,0,Layup Shot,4,-18,37,True
+Dwight Howard,3,9,22,0,Layup Shot,0,2,8,True
+Dwight Howard,2,5,58,1,Layup Shot,1,8,12,True
+Dwight Howard,1,9,53,1,Layup Shot,3,-11,31,True
+Dwight Howard,2,2,13,1,Layup Shot,2,-18,23,True
+Dwight Howard,1,8,8,0,Layup Shot,2,0,23,True
+Dwight Howard,1,11,0,0,Layup Shot,3,30,18,True
+Dwight Howard,1,7,53,1,Layup Shot,2,-16,21,True
+Dwight Howard,1,9,10,0,Layup Shot,1,3,19,True
+Dwight Howard,5,2,14,1,Layup Shot,1,-5,14,True
+Dwight Howard,3,6,18,1,Layup Shot,1,-3,10,True
+Dwight Howard,1,10,45,0,Layup Shot,1,8,9,True
+Dwight Howard,1,8,20,0,Layup Shot,1,14,13,True
+Dwight Howard,3,11,49,1,Layup Shot,1,-6,8,True
+Dwight Howard,2,4,25,1,Layup Shot,3,-18,32,True
+Dwight Howard,2,2,21,1,Layup Shot,3,-17,33,True
+Dwight Howard,4,2,51,0,Layup Shot,3,-21,31,True
+Dwight Howard,3,6,16,1,Layup Shot,0,0,5,True
+Dwight Howard,3,10,13,0,Layup Shot,3,5,33,True
+Dwight Howard,1,9,56,1,Layup Shot,2,2,21,True
+Dwight Howard,1,8,23,0,Layup Shot,2,-3,22,True
+Dwight Howard,2,0,26,0,Layup Shot,4,-5,42,True
+Dwight Howard,1,2,53,0,Layup Shot,3,20,31,True
+Dwight Howard,2,2,59,0,Layup Shot,2,-2,28,True
+Dwight Howard,1,2,30,1,Layup Shot,1,9,15,True
+Dwight Howard,1,3,34,0,Layup Shot,1,-3,10,True
+Dwight Howard,1,2,33,0,Layup Shot,3,-22,31,True
+Dwight Howard,3,5,55,1,Layup Shot,1,-4,19,True
+Dwight Howard,3,5,13,0,Layup Shot,5,0,59,True
+Dwight Howard,1,8,40,1,Layup Shot,0,-4,6,True
+Dwight Howard,1,5,44,0,Layup Shot,4,6,47,True
+Dwight Howard,3,8,50,0,Layup Shot,1,4,10,True
+Dwight Howard,1,5,56,0,Layup Shot,1,-14,6,True
+Dwight Howard,2,5,17,0,Layup Shot,4,-38,31,True
+Dwight Howard,2,2,31,1,Layup Shot,3,10,37,True
+Dwight Howard,3,6,7,1,Layup Shot,2,-3,22,True
+Dwight Howard,4,1,31,0,Layup Shot,2,-27,6,True
+Dwight Howard,2,5,8,1,Layup Shot,1,2,15,True
+Dwight Howard,1,3,3,1,Layup Shot,2,3,23,True
+Dwight Howard,3,3,46,1,Layup Shot,2,1,22,True
+Dwight Howard,1,7,18,0,Layup Shot,2,-10,24,True
+Dwight Howard,4,0,13,1,Layup Shot,1,16,11,True
+Dwight Howard,2,6,17,0,Layup Shot,2,2,21,True
+Dwight Howard,2,5,48,0,Layup Shot,1,-9,9,True
+Dwight Howard,3,6,25,1,Layup Shot,2,-8,21,True
+Dwight Howard,1,0,27,0,Layup Shot,2,18,18,True
+Dwight Howard,3,8,37,0,Layup Shot,1,0,13,True
+Dwight Howard,3,8,18,1,Layup Shot,1,-6,16,True
+Dwight Howard,4,4,47,0,Layup Shot,3,1,31,True
+Dwight Howard,3,10,2,1,Layup Shot,1,11,6,True
+Dwight Howard,1,7,6,0,Layup Shot,5,-51,31,True
+Dwight Howard,4,7,9,1,Layup Shot,1,12,10,True
+Dwight Howard,4,3,47,0,Layup Shot,1,6,17,True
+Dwight Howard,3,6,50,0,Layup Shot,5,-19,55,True
+Dwight Howard,3,2,32,0,Layup Shot,1,13,10,True
+Dwight Howard,1,6,33,1,Layup Shot,1,7,10,True
+Dwight Howard,2,7,51,1,Layup Shot,1,-5,14,True
+Dwight Howard,2,3,23,1,Layup Shot,5,-33,39,True
+Dwight Howard,1,8,3,1,Layup Shot,1,-14,-6,True
+Dwight Howard,3,2,50,0,Layup Shot,5,-28,50,True
+Dwight Howard,1,4,1,1,Layup Shot,1,11,7,True
+Dwight Howard,1,4,32,0,Layup Shot,3,2,34,True
+Dwight Howard,3,1,56,0,Layup Shot,1,-16,6,True
+Dwight Howard,1,0,50,1,Layup Shot,2,-19,13,True
+Dwight Howard,3,3,25,1,Layup Shot,2,22,6,True
+Dwight Howard,4,1,4,1,Layup Shot,6,51,34,True
+Dwight Howard,1,9,52,0,Layup Shot,1,9,13,True
+Dwight Howard,1,10,26,1,Layup Shot,2,-3,22,True
+Dwight Howard,2,2,48,0,Layup Shot,5,-20,46,True
+Dwight Howard,1,6,38,1,Layup Shot,1,-12,15,True
+Dwight Howard,2,7,24,1,Layup Shot,1,-7,17,True
+Dwight Howard,1,3,12,1,Layup Shot,5,-43,32,True
+Dwight Howard,1,2,37,1,Layup Shot,5,-55,22,True
+Dwight Howard,1,3,6,1,Layup Shot,2,-13,21,True
+Dwight Howard,1,9,1,1,Layup Shot,2,15,25,True
+Dwight Howard,2,1,21,1,Layup Shot,1,4,16,True
+Dwight Howard,1,10,40,1,Layup Shot,5,46,21,True
+Dwight Howard,1,10,25,0,Layup Shot,3,-7,32,True
+Dwight Howard,4,3,24,0,Layup Shot,1,0,19,True
+Dwight Howard,1,4,16,0,Layup Shot,2,23,3,True
+Dwight Howard,2,2,25,0,Layup Shot,3,-24,26,True
+Dwight Howard,1,2,2,0,Layup Shot,2,16,22,True
+Dwight Howard,2,6,23,1,Layup Shot,4,2,46,True
+Dwight Howard,3,0,43,1,Layup Shot,1,-9,5,True
+Dwight Howard,3,4,9,0,Layup Shot,3,24,24,True
+Dwight Howard,1,9,42,1,Layup Shot,2,6,21,True
+Dwight Howard,3,5,9,0,Layup Shot,2,14,19,True
+Dwight Howard,1,5,20,0,Layup Shot,3,3,34,True
+Dwight Howard,1,3,21,0,Layup Shot,2,-9,18,True
+Dwight Howard,4,6,2,0,Layup Shot,2,16,13,True
+Dwight Howard,1,3,33,0,Layup Shot,2,21,16,True
+Dwight Howard,3,8,5,0,Layup Shot,4,33,25,True
+Dwight Howard,1,8,40,1,Layup Shot,2,19,20,True
+Dwight Howard,4,9,33,1,Layup Shot,4,-32,25,True
+Dwight Howard,1,11,17,0,Layup Shot,6,-24,55,True
+Dwight Howard,1,4,23,0,Layup Shot,2,13,20,True
+Dwight Howard,4,5,59,1,Layup Shot,0,-7,6,True
+Dwight Howard,3,6,52,0,Layup Shot,7,-3,75,True
+Dwight Howard,3,8,6,1,Layup Shot,0,5,8,True
+Dwight Howard,1,7,30,0,Layup Shot,2,-16,20,True
+Dwight Howard,3,6,9,1,Layup Shot,2,9,20,True
+Dwight Howard,3,1,5,1,Layup Shot,5,-10,52,True
+Dwight Howard,3,9,1,0,Layup Shot,2,-20,9,True
+Dwight Howard,3,3,14,0,Layup Shot,3,-3,30,True
+Dwight Howard,1,9,57,0,Layup Shot,3,-19,26,True
+Dwight Howard,3,10,15,0,Layup Shot,2,-14,15,True
+Dwight Howard,4,4,15,0,Layup Shot,5,-54,21,True
+Dwight Howard,3,9,27,0,Layup Shot,1,8,15,True
+Dwight Howard,1,6,43,1,Layup Shot,2,8,22,True
+Dwight Howard,2,3,48,0,Layup Shot,1,2,13,True
+Dwight Howard,3,11,10,1,Layup Shot,1,-9,17,True
+Dwight Howard,1,11,22,1,Layup Shot,3,-29,11,True
+Dwight Howard,1,2,41,0,Layup Shot,2,-6,20,True
+Dwight Howard,3,8,10,0,Layup Shot,2,4,26,True
+Dwight Howard,1,5,52,1,Layup Shot,1,-5,16,True
+Dwight Howard,3,2,12,1,Layup Shot,2,14,19,True
+Dwight Howard,2,6,8,1,Layup Shot,1,-5,16,True
+Dwight Howard,4,6,2,0,Layup Shot,1,-11,8,True
+Dwight Howard,2,0,34,1,Layup Shot,1,3,15,True
+Dwight Howard,4,6,2,1,Layup Shot,1,1,14,True
+Dwight Howard,3,0,0,0,Layup Shot,2,11,24,True
+Dwight Howard,4,3,11,1,Layup Shot,1,-2,17,True
+Dwight Howard,1,8,17,0,Layup Shot,2,9,26,True
+Dwight Howard,2,0,42,1,Layup Shot,3,-4,31,True
+Dwight Howard,3,10,47,1,Layup Shot,0,-7,4,True
+Dwight Howard,1,5,28,0,Layup Shot,1,-4,13,True
+Dwight Howard,3,3,21,0,Layup Shot,0,6,3,True
+Dwight Howard,3,5,49,0,Layup Shot,1,-9,8,True
+Dwight Howard,2,1,13,0,Layup Shot,2,9,21,True
+Dwight Howard,2,4,42,1,Layup Shot,2,-8,27,True
+Dwight Howard,4,4,10,0,Layup Shot,2,-19,11,True
+Dwight Howard,3,9,26,0,Layup Shot,1,1,13,True
+Dwight Howard,2,1,51,1,Layup Shot,0,-5,4,True
+Dwight Howard,1,5,17,0,Layup Shot,2,15,22,True
+Dwight Howard,2,3,32,1,Layup Shot,3,-23,29,True
+Dwight Howard,3,10,34,0,Layup Shot,3,-3,30,True
+Dwight Howard,2,4,17,0,Layup Shot,2,-13,20,True
+Dwight Howard,3,8,13,1,Layup Shot,1,5,11,True
+Dwight Howard,3,1,49,0,Layup Shot,4,33,36,True
+Dwight Howard,2,3,28,0,Layup Shot,2,8,20,True
+Dwight Howard,4,1,26,0,Layup Shot,0,-1,6,True
+Dwight Howard,1,9,5,1,Layup Shot,1,3,17,True
+Dwight Howard,1,11,19,1,Layup Shot,2,-5,21,True
+Dwight Howard,1,5,45,1,Layup Shot,1,-8,13,True
+Dwight Howard,3,3,51,0,Layup Shot,2,5,28,True
+Dwight Howard,2,3,56,1,Layup Shot,0,2,1,True
+Dwight Howard,1,10,39,1,Layup Shot,2,-7,23,True
+Dwight Howard,2,2,34,1,Layup Shot,0,1,4,True
+Dwight Howard,2,3,12,0,Layup Shot,1,12,4,True
+Dwight Howard,1,8,18,1,Layup Shot,1,6,8,True
+Dwight Howard,2,2,18,0,Layup Shot,2,-16,20,True
+Dwight Howard,3,10,32,1,Layup Shot,1,1,13,True
+Dwight Howard,4,5,7,0,Layup Shot,1,-13,3,True
+Dwight Howard,1,3,40,0,Pullup Jump shot,6,-60,34,True
+Dwight Howard,1,4,44,0,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,3,8,30,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,4,6,12,1,Putback Dunk Shot,1,-18,6,True
+Dwight Howard,2,0,35,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,3,11,3,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,3,5,38,1,Putback Dunk Shot,1,-2,13,True
+Dwight Howard,3,2,25,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,1,3,44,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,3,8,37,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,1,10,59,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,2,0,54,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,4,4,38,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,3,10,53,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,1,2,23,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,2,3,17,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,4,2,30,0,Putback Dunk Shot,0,4,4,True
+Dwight Howard,1,6,16,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,1,1,30,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,3,5,5,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,1,6,37,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,1,6,50,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,3,10,4,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,4,0,54,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,3,3,13,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,3,6,31,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,1,5,33,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,1,3,56,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,1,7,18,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,3,3,18,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,2,3,37,1,Putback Dunk Shot,0,0,-6,True
+Dwight Howard,3,4,28,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,2,4,8,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,1,2,43,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,3,5,43,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,1,7,35,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,1,1,41,1,Putback Layup Shot,5,35,37,True
+Dwight Howard,2,2,36,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,2,7,46,1,Putback Layup Shot,0,0,1,True
+Dwight Howard,2,5,13,0,Putback Layup Shot,1,-3,18,True
+Dwight Howard,1,5,22,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,1,2,9,1,Putback Layup Shot,1,2,12,True
+Dwight Howard,2,1,35,0,Putback Layup Shot,0,0,-6,True
+Dwight Howard,2,5,11,0,Putback Layup Shot,0,0,-6,True
+Dwight Howard,1,6,31,0,Putback Layup Shot,0,0,-6,True
+Dwight Howard,1,4,39,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,1,4,56,1,Putback Layup Shot,1,8,8,True
+Dwight Howard,4,3,33,0,Putback Layup Shot,0,0,-6,True
+Dwight Howard,1,11,29,1,Putback Layup Shot,0,-8,4,True
+Dwight Howard,3,8,20,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,3,8,21,0,Putback Layup Shot,1,1,11,True
+Dwight Howard,1,5,14,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,3,6,58,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,3,4,55,0,Putback Layup Shot,0,0,-6,True
+Dwight Howard,3,11,50,1,Putback Layup Shot,1,-3,15,True
+Dwight Howard,2,1,5,0,Putback Layup Shot,1,-14,14,True
+Dwight Howard,3,11,21,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,2,1,43,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,3,5,0,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,3,7,25,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,1,6,45,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,3,9,50,1,Putback Layup Shot,2,-5,21,True
+Dwight Howard,3,6,34,1,Putback Layup Shot,4,41,22,True
+Dwight Howard,2,0,30,1,Putback Layup Shot,0,0,-6,True
+Dwight Howard,3,2,54,1,Reverse Dunk Shot,2,5,25,True
+Dwight Howard,2,1,21,1,Reverse Layup Shot,1,-1,18,True
+Dwight Howard,3,9,12,1,Reverse Layup Shot,1,-3,16,True
+Dwight Howard,3,8,59,0,Reverse Layup Shot,2,19,8,True
+Dwight Howard,2,4,5,1,Reverse Layup Shot,0,5,7,True
+Dwight Howard,4,7,16,1,Reverse Layup Shot,1,0,11,True
+Dwight Howard,3,9,55,0,Reverse Layup Shot,1,19,5,True
+Dwight Howard,3,8,7,0,Reverse Layup Shot,2,20,12,True
+Dwight Howard,1,10,32,1,Reverse Layup Shot,1,16,1,True
+Dwight Howard,2,2,58,0,Reverse Layup Shot,1,-11,10,True
+Dwight Howard,3,3,15,0,Reverse Layup Shot,1,9,15,True
+Dwight Howard,4,7,2,1,Reverse Layup Shot,1,2,12,True
+Dwight Howard,1,10,35,1,Reverse Layup Shot,0,-5,4,True
+Dwight Howard,2,1,42,0,Reverse Layup Shot,1,1,11,True
+Dwight Howard,3,5,4,0,Reverse Layup Shot,2,17,24,True
+Dwight Howard,1,8,4,0,Reverse Layup Shot,1,13,12,True
+Dwight Howard,1,2,14,1,Reverse Layup Shot,1,11,10,True
+Dwight Howard,1,3,0,1,Reverse Layup Shot,1,9,8,True
+Dwight Howard,3,4,1,1,Reverse Layup Shot,2,14,19,True
+Dwight Howard,3,4,13,1,Running Alley Oop Dunk Shot,1,-6,11,True
+Dwight Howard,2,4,59,1,Running Dunk Shot,1,-6,8,True
+Dwight Howard,2,4,31,1,Running Dunk Shot,0,3,3,True
+Dwight Howard,1,9,40,1,Running Finger Roll Layup Shot,0,-1,7,True
+Dwight Howard,1,8,43,0,Running Layup Shot,0,-8,5,True
+Dwight Howard,1,3,23,1,Running Layup Shot,1,-11,4,True
+Dwight Howard,3,10,44,0,Running Layup Shot,2,-5,27,True
+Dwight Howard,2,3,53,1,Running Layup Shot,3,-20,25,True
+Dwight Howard,1,6,49,1,Running Layup Shot,1,-3,14,True
+Dwight Howard,3,4,50,1,Step Back Bank Jump Shot,14,137,41,True
+Dwight Howard,1,9,44,0,Step Back Jump shot,22,142,169,True
+Dwight Howard,1,1,38,1,Tip Dunk Shot,0,0,-6,True
+Dwight Howard,3,6,26,0,Tip Dunk Shot,0,0,-6,True
+Dwight Howard,1,3,36,0,Tip Dunk Shot,0,0,-6,True
+Dwight Howard,3,9,2,1,Tip Dunk Shot,0,0,-6,True
+Dwight Howard,3,9,45,1,Tip Dunk Shot,0,0,-6,True
+Dwight Howard,3,7,15,1,Tip Dunk Shot,0,0,-6,True
+Dwight Howard,3,10,49,1,Tip Dunk Shot,0,0,-6,True
+Dwight Howard,1,2,51,1,Tip Layup Shot,2,8,19,True
+Dwight Howard,1,8,19,1,Tip Layup Shot,0,0,-6,True
+Dwight Howard,2,6,20,0,Tip Layup Shot,0,0,-6,True
+Dwight Howard,3,10,11,1,Tip Layup Shot,0,0,-6,True
+Dwight Howard,3,10,33,0,Tip Layup Shot,0,0,-6,True
+Dwight Howard,1,11,2,0,Tip Layup Shot,0,0,-6,True
+Dwight Howard,3,4,27,1,Tip Layup Shot,0,0,-6,True
+Dwight Howard,1,11,39,1,Tip Layup Shot,0,0,-6,True
+Dwight Howard,1,3,57,1,Tip Layup Shot,0,0,-6,True
+Dwight Howard,5,0,54,1,Tip Layup Shot,0,0,-6,True
+Dwight Howard,1,7,56,0,Tip Layup Shot,0,0,-6,True
+Dwight Howard,3,2,14,0,Tip Layup Shot,0,0,-6,True
+Dwight Howard,4,0,40,1,Tip Layup Shot,0,0,-6,True
+Dwight Howard,1,9,33,1,Tip Layup Shot,0,0,-6,True
+Dwight Howard,2,0,30,0,Tip Layup Shot,0,0,-6,True
+Dwight Howard,1,10,57,1,Tip Layup Shot,0,0,-6,True
+Dwight Howard,1,4,50,0,Tip Layup Shot,7,2,71,True
+Dwight Howard,1,4,50,0,Tip Layup Shot,0,-2,7,True
+Dwight Howard,1,2,2,1,Tip Layup Shot,0,0,-6,True
+Dwight Howard,1,2,25,0,Tip Layup Shot,0,0,5,True
+Dwight Howard,2,5,15,0,Tip Layup Shot,0,0,-6,True
+Dwight Howard,1,2,5,0,Tip Layup Shot,0,0,-6,True
+Dwight Howard,3,7,39,1,Tip Layup Shot,0,0,-6,True
+Dwight Howard,4,5,39,1,Tip Layup Shot,0,0,-6,True
+Dwight Howard,3,11,28,0,Tip Layup Shot,0,0,-6,True
+Dwight Howard,2,3,39,0,Tip Layup Shot,0,0,-6,True
+Dwight Howard,3,3,3,0,Tip Layup Shot,0,0,-6,True
+Dwight Howard,1,5,6,0,Tip Layup Shot,0,0,-6,True
+Dwight Howard,1,4,5,1,Tip Layup Shot,0,0,-6,True
+Dwight Howard,1,4,7,0,Tip Layup Shot,0,0,-6,True
+Dwight Howard,4,4,49,0,Tip Layup Shot,2,22,7,True
+Dwight Howard,2,0,43,0,Tip Layup Shot,0,0,-6,True
+Dwight Howard,3,4,37,0,Tip Layup Shot,0,0,-6,True
+Dwight Howard,3,5,15,1,Tip Layup Shot,0,0,-6,True
+Dwight Howard,3,11,22,0,Turnaround Bank Hook Shot,6,61,26,True
+Dwight Howard,1,7,13,0,Turnaround Bank Hook Shot,7,38,68,True
+Dwight Howard,4,9,43,1,Turnaround Bank Hook Shot,7,62,48,True
+Dwight Howard,1,8,46,1,Turnaround Bank Hook Shot,2,9,20,True
+Dwight Howard,1,10,26,0,Turnaround Fadeaway Bank Jump Shot,14,121,74,True
+Dwight Howard,1,10,13,1,Turnaround Fadeaway Bank Jump Shot,4,-38,31,True
+Dwight Howard,1,5,25,0,Turnaround Fadeaway Bank Jump Shot,10,-93,52,True
+Dwight Howard,1,2,23,1,Turnaround Fadeaway Bank Jump Shot,3,-31,10,True
+Dwight Howard,1,11,41,1,Turnaround Hook Shot,8,-79,18,True
+Dwight Howard,1,3,43,0,Turnaround Hook Shot,11,-2,110,True
+Dwight Howard,1,6,18,1,Turnaround Hook Shot,6,-33,52,True
+Dwight Howard,1,10,1,1,Turnaround Hook Shot,3,-22,32,True
+Dwight Howard,3,10,36,0,Turnaround Hook Shot,8,-51,67,True
+Dwight Howard,2,4,48,0,Turnaround Hook Shot,5,-17,49,True
+Dwight Howard,3,9,21,1,Turnaround Hook Shot,2,-12,22,True
+Dwight Howard,3,8,5,1,Turnaround Hook Shot,7,-68,23,True
+Dwight Howard,3,8,30,1,Turnaround Hook Shot,7,-55,55,True
+Dwight Howard,1,4,49,0,Turnaround Hook Shot,5,-51,11,True
+Dwight Howard,2,6,26,0,Turnaround Hook Shot,5,-33,48,True
+Dwight Howard,1,10,29,0,Turnaround Hook Shot,3,-36,13,True
+Dwight Howard,4,4,55,1,Turnaround Hook Shot,4,-2,41,True
+Dwight Howard,2,5,4,0,Turnaround Hook Shot,2,8,21,True
+Dwight Howard,3,5,38,0,Turnaround Hook Shot,2,27,6,True
+Dwight Howard,1,3,24,1,Turnaround Hook Shot,5,44,24,True
+Dwight Howard,3,6,18,0,Turnaround Hook Shot,7,-52,47,True
+Dwight Howard,4,4,39,0,Turnaround Hook Shot,9,-93,36,True
+Dwight Howard,1,7,4,1,Turnaround Hook Shot,6,-11,62,True
+Dwight Howard,1,10,36,0,Turnaround Hook Shot,6,-64,27,True
+Dwight Howard,2,4,23,1,Turnaround Hook Shot,5,-5,59,True
+Dwight Howard,1,4,43,1,Turnaround Hook Shot,6,3,66,True
+Dwight Howard,4,5,50,0,Turnaround Hook Shot,8,26,81,True
+Dwight Howard,3,4,1,1,Turnaround Hook Shot,5,-52,9,True
+Dwight Howard,3,8,20,0,Turnaround Hook Shot,3,-35,15,True
+Dwight Howard,3,9,33,1,Turnaround Hook Shot,12,-99,75,True
+Dwight Howard,3,5,54,1,Turnaround Hook Shot,6,17,64,True
+Dwight Howard,5,4,22,1,Turnaround Hook Shot,1,-14,13,True
+Dwight Howard,4,6,54,0,Turnaround Hook Shot,8,-66,46,True
+Dwight Howard,2,9,20,0,Turnaround Hook Shot,7,-65,32,True
+Dwight Howard,3,5,10,0,Turnaround Jump Shot,6,-3,63,True
+Dwight Howard,1,6,48,0,Turnaround Jump Shot,14,-147,10,True

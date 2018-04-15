@@ -1,0 +1,800 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Aaron Gordon,3,4,5,1,Alley Oop Dunk Shot,0,-6,1,True
+Aaron Gordon,1,11,22,1,Alley Oop Dunk Shot,0,-2,-4,True
+Aaron Gordon,1,2,59,1,Alley Oop Dunk Shot,1,-6,10,True
+Aaron Gordon,3,2,9,1,Alley Oop Dunk Shot,1,-11,-1,True
+Aaron Gordon,2,3,37,1,Alley Oop Dunk Shot,3,28,14,True
+Aaron Gordon,1,2,17,1,Alley Oop Dunk Shot,0,3,8,True
+Aaron Gordon,3,10,10,1,Alley Oop Dunk Shot,2,10,22,True
+Aaron Gordon,1,11,28,1,Alley Oop Dunk Shot,1,-6,19,True
+Aaron Gordon,3,10,44,1,Alley Oop Dunk Shot,0,-2,6,True
+Aaron Gordon,1,4,1,1,Alley Oop Dunk Shot,2,-18,14,True
+Aaron Gordon,3,9,22,1,Alley Oop Dunk Shot,0,0,5,True
+Aaron Gordon,1,5,21,1,Alley Oop Dunk Shot,1,1,11,True
+Aaron Gordon,4,2,23,1,Alley Oop Dunk Shot,1,14,1,True
+Aaron Gordon,1,11,6,1,Alley Oop Dunk Shot,1,-5,15,True
+Aaron Gordon,2,2,55,1,Alley Oop Dunk Shot,0,-3,8,True
+Aaron Gordon,3,9,51,0,Alley Oop Dunk Shot,1,-8,15,True
+Aaron Gordon,1,1,34,1,Alley Oop Layup shot,2,0,25,True
+Aaron Gordon,3,8,22,1,Alley Oop Layup shot,1,-13,13,True
+Aaron Gordon,1,10,43,1,Alley Oop Layup shot,0,-3,5,True
+Aaron Gordon,3,11,13,1,Alley Oop Layup shot,1,6,16,True
+Aaron Gordon,1,8,2,0,Alley Oop Layup shot,2,-11,19,True
+Aaron Gordon,2,4,49,1,Alley Oop Layup shot,2,9,21,True
+Aaron Gordon,2,6,24,1,Alley Oop Layup shot,2,6,23,True
+Aaron Gordon,1,3,0,0,Alley Oop Layup shot,0,-4,4,True
+Aaron Gordon,1,5,41,0,Alley Oop Layup shot,2,-13,26,True
+Aaron Gordon,1,8,44,1,Alley Oop Layup shot,1,6,13,True
+Aaron Gordon,4,4,22,1,Cutting Dunk Shot,1,4,11,True
+Aaron Gordon,1,5,46,1,Cutting Dunk Shot,0,-4,8,True
+Aaron Gordon,1,7,17,1,Cutting Dunk Shot,2,2,22,True
+Aaron Gordon,1,2,33,1,Cutting Dunk Shot,1,-5,10,True
+Aaron Gordon,2,1,58,1,Cutting Dunk Shot,1,6,11,True
+Aaron Gordon,3,9,21,1,Cutting Dunk Shot,2,0,26,True
+Aaron Gordon,1,7,43,1,Cutting Dunk Shot,0,-1,7,True
+Aaron Gordon,1,0,58,1,Cutting Dunk Shot,0,9,3,True
+Aaron Gordon,2,1,4,1,Cutting Dunk Shot,1,2,10,True
+Aaron Gordon,1,8,13,1,Cutting Dunk Shot,2,8,24,True
+Aaron Gordon,2,0,21,1,Cutting Finger Roll Layup Shot,1,3,13,True
+Aaron Gordon,4,4,37,1,Cutting Layup Shot,0,9,-1,True
+Aaron Gordon,3,2,49,1,Cutting Layup Shot,5,-14,55,True
+Aaron Gordon,1,4,50,1,Cutting Layup Shot,2,9,19,True
+Aaron Gordon,3,11,1,0,Cutting Layup Shot,0,1,9,True
+Aaron Gordon,4,1,46,1,Cutting Layup Shot,0,-5,8,True
+Aaron Gordon,4,8,8,1,Cutting Layup Shot,1,-10,15,True
+Aaron Gordon,2,4,28,1,Cutting Layup Shot,2,-4,22,True
+Aaron Gordon,1,10,6,0,Cutting Layup Shot,1,-3,19,True
+Aaron Gordon,1,10,9,1,Cutting Layup Shot,1,6,12,True
+Aaron Gordon,2,1,52,1,Driving Dunk Shot,1,-14,13,True
+Aaron Gordon,4,1,47,1,Driving Dunk Shot,0,0,5,True
+Aaron Gordon,1,3,36,1,Driving Dunk Shot,0,-4,9,True
+Aaron Gordon,2,3,21,1,Driving Dunk Shot,2,-15,20,True
+Aaron Gordon,1,8,41,1,Driving Dunk Shot,0,-6,7,True
+Aaron Gordon,1,7,1,1,Driving Dunk Shot,0,2,9,True
+Aaron Gordon,2,5,18,1,Driving Dunk Shot,1,0,19,True
+Aaron Gordon,1,3,38,1,Driving Dunk Shot,0,8,-2,True
+Aaron Gordon,2,0,8,0,Driving Dunk Shot,1,-5,15,True
+Aaron Gordon,1,4,24,1,Driving Dunk Shot,1,-5,9,True
+Aaron Gordon,1,5,16,0,Driving Finger Roll Layup Shot,8,-43,68,True
+Aaron Gordon,2,2,42,0,Driving Finger Roll Layup Shot,1,8,6,True
+Aaron Gordon,2,3,13,1,Driving Finger Roll Layup Shot,4,28,31,True
+Aaron Gordon,3,11,15,1,Driving Finger Roll Layup Shot,1,-8,7,True
+Aaron Gordon,2,1,17,0,Driving Finger Roll Layup Shot,5,-38,42,True
+Aaron Gordon,3,3,58,0,Driving Finger Roll Layup Shot,3,26,20,True
+Aaron Gordon,3,4,20,1,Driving Floating Bank Jump Shot,2,21,15,True
+Aaron Gordon,3,11,41,0,Driving Floating Bank Jump Shot,10,-78,63,True
+Aaron Gordon,3,0,2,0,Driving Floating Jump Shot,4,-35,33,True
+Aaron Gordon,2,2,35,1,Driving Floating Jump Shot,7,62,37,True
+Aaron Gordon,2,6,4,0,Driving Floating Jump Shot,8,-73,52,True
+Aaron Gordon,3,6,46,0,Driving Floating Jump Shot,3,-3,31,True
+Aaron Gordon,3,10,59,0,Driving Floating Jump Shot,12,-101,70,True
+Aaron Gordon,3,10,17,0,Driving Hook Shot,5,51,14,True
+Aaron Gordon,3,2,10,0,Driving Hook Shot,2,-24,-3,True
+Aaron Gordon,3,0,40,0,Driving Hook Shot,4,29,28,True
+Aaron Gordon,2,8,9,0,Driving Hook Shot,2,9,20,True
+Aaron Gordon,1,2,22,1,Driving Layup Shot,0,7,5,True
+Aaron Gordon,3,7,47,1,Driving Layup Shot,0,-1,4,True
+Aaron Gordon,2,4,41,0,Driving Layup Shot,3,11,34,True
+Aaron Gordon,3,0,47,0,Driving Layup Shot,0,2,4,True
+Aaron Gordon,3,4,59,0,Driving Layup Shot,0,-9,4,True
+Aaron Gordon,2,3,20,0,Driving Layup Shot,2,-8,25,True
+Aaron Gordon,3,6,57,0,Driving Layup Shot,5,-41,42,True
+Aaron Gordon,4,7,59,0,Driving Layup Shot,2,-28,10,True
+Aaron Gordon,3,0,41,0,Driving Layup Shot,4,-6,46,True
+Aaron Gordon,1,1,58,1,Driving Layup Shot,1,-13,8,True
+Aaron Gordon,1,2,37,0,Driving Layup Shot,6,35,53,True
+Aaron Gordon,4,8,22,0,Driving Layup Shot,3,-1,31,True
+Aaron Gordon,1,5,29,1,Driving Layup Shot,3,26,29,True
+Aaron Gordon,1,6,46,0,Driving Layup Shot,1,3,17,True
+Aaron Gordon,1,10,48,1,Driving Layup Shot,1,-3,10,True
+Aaron Gordon,2,5,34,0,Driving Layup Shot,2,-15,21,True
+Aaron Gordon,3,3,53,0,Driving Layup Shot,1,0,11,True
+Aaron Gordon,1,0,5,1,Driving Layup Shot,1,9,14,True
+Aaron Gordon,3,7,2,0,Driving Layup Shot,1,-8,16,True
+Aaron Gordon,4,1,14,0,Driving Layup Shot,1,-3,11,True
+Aaron Gordon,4,5,18,0,Driving Layup Shot,6,11,63,True
+Aaron Gordon,1,1,0,1,Driving Layup Shot,3,29,22,True
+Aaron Gordon,2,2,15,0,Driving Layup Shot,1,5,16,True
+Aaron Gordon,3,7,28,1,Driving Layup Shot,2,-14,17,True
+Aaron Gordon,1,1,14,0,Driving Layup Shot,2,-22,20,True
+Aaron Gordon,3,11,31,1,Driving Layup Shot,1,13,15,True
+Aaron Gordon,1,10,44,0,Driving Layup Shot,1,-2,14,True
+Aaron Gordon,4,0,38,0,Driving Layup Shot,3,-24,29,True
+Aaron Gordon,1,0,15,0,Driving Layup Shot,0,5,8,True
+Aaron Gordon,3,11,41,0,Driving Layup Shot,2,-18,11,True
+Aaron Gordon,3,7,37,0,Driving Layup Shot,1,-11,11,True
+Aaron Gordon,3,6,25,1,Driving Layup Shot,1,6,13,True
+Aaron Gordon,3,9,1,1,Driving Layup Shot,0,6,3,True
+Aaron Gordon,1,6,49,1,Driving Layup Shot,1,0,13,True
+Aaron Gordon,1,1,17,1,Driving Layup Shot,3,-3,30,True
+Aaron Gordon,3,7,20,1,Driving Layup Shot,2,-5,25,True
+Aaron Gordon,4,4,41,1,Driving Layup Shot,1,3,15,True
+Aaron Gordon,1,7,37,1,Driving Layup Shot,2,-11,25,True
+Aaron Gordon,4,8,27,0,Driving Layup Shot,1,2,16,True
+Aaron Gordon,1,8,5,1,Driving Layup Shot,1,-1,13,True
+Aaron Gordon,1,8,58,1,Driving Layup Shot,1,16,8,True
+Aaron Gordon,3,3,48,0,Driving Layup Shot,8,5,80,True
+Aaron Gordon,1,3,30,0,Driving Layup Shot,4,-9,45,True
+Aaron Gordon,2,5,36,1,Driving Layup Shot,2,11,20,True
+Aaron Gordon,2,4,58,1,Driving Layup Shot,2,-14,25,True
+Aaron Gordon,3,10,8,1,Driving Layup Shot,3,-11,28,True
+Aaron Gordon,1,9,48,0,Driving Layup Shot,3,-2,34,True
+Aaron Gordon,3,3,13,0,Driving Layup Shot,3,-19,27,True
+Aaron Gordon,2,1,37,1,Driving Layup Shot,3,-3,39,True
+Aaron Gordon,3,5,1,1,Driving Layup Shot,1,-5,15,True
+Aaron Gordon,3,2,36,0,Driving Layup Shot,1,-13,11,True
+Aaron Gordon,3,8,10,1,Driving Layup Shot,2,-12,27,True
+Aaron Gordon,4,5,3,1,Driving Reverse Dunk Shot,1,-3,10,True
+Aaron Gordon,4,0,35,1,Driving Reverse Layup Shot,1,-9,16,True
+Aaron Gordon,4,0,14,1,Driving Reverse Layup Shot,2,16,13,True
+Aaron Gordon,2,1,53,0,Driving Reverse Layup Shot,1,1,15,True
+Aaron Gordon,3,10,14,1,Driving Reverse Layup Shot,2,-22,6,True
+Aaron Gordon,2,1,6,1,Driving Reverse Layup Shot,2,-18,21,True
+Aaron Gordon,3,11,0,0,Dunk Shot,2,10,21,True
+Aaron Gordon,3,4,0,1,Dunk Shot,2,3,22,True
+Aaron Gordon,1,10,29,1,Dunk Shot,2,1,22,True
+Aaron Gordon,1,5,13,1,Dunk Shot,2,-5,22,True
+Aaron Gordon,2,1,23,1,Dunk Shot,1,2,19,True
+Aaron Gordon,3,7,29,1,Dunk Shot,2,-17,23,True
+Aaron Gordon,3,10,31,1,Dunk Shot,1,-3,11,True
+Aaron Gordon,3,1,19,1,Dunk Shot,1,-1,15,True
+Aaron Gordon,4,6,0,1,Dunk Shot,0,0,6,True
+Aaron Gordon,2,2,42,1,Dunk Shot,2,18,16,True
+Aaron Gordon,1,3,49,1,Dunk Shot,1,-2,10,True
+Aaron Gordon,1,8,5,1,Dunk Shot,1,2,14,True
+Aaron Gordon,4,11,40,1,Dunk Shot,1,6,10,True
+Aaron Gordon,3,10,9,1,Dunk Shot,1,-1,18,True
+Aaron Gordon,1,8,53,1,Dunk Shot,1,-10,13,True
+Aaron Gordon,1,6,20,1,Dunk Shot,1,0,14,True
+Aaron Gordon,1,8,7,1,Dunk Shot,1,11,4,True
+Aaron Gordon,3,1,25,1,Dunk Shot,1,0,12,True
+Aaron Gordon,1,10,36,1,Dunk Shot,1,13,1,True
+Aaron Gordon,1,11,45,1,Dunk Shot,0,4,-4,True
+Aaron Gordon,4,0,13,0,Fadeaway Jump Shot,17,52,164,True
+Aaron Gordon,3,7,8,1,Fadeaway Jump Shot,12,122,10,True
+Aaron Gordon,3,9,31,0,Fadeaway Jump Shot,12,98,75,True
+Aaron Gordon,2,3,53,0,Fadeaway Jump Shot,9,92,37,True
+Aaron Gordon,2,7,9,0,Fadeaway Jump Shot,24,-217,110,False
+Aaron Gordon,1,5,1,0,Fadeaway Jump Shot,11,-119,-15,True
+Aaron Gordon,3,11,38,0,Fadeaway Jump Shot,10,-89,62,True
+Aaron Gordon,1,10,29,0,Fadeaway Jump Shot,10,92,59,True
+Aaron Gordon,1,2,59,0,Fadeaway Jump Shot,13,3,130,True
+Aaron Gordon,3,8,19,1,Fadeaway Jump Shot,19,-116,153,True
+Aaron Gordon,2,5,27,0,Fadeaway Jump Shot,12,-4,129,True
+Aaron Gordon,3,0,8,0,Fadeaway Jump Shot,19,-122,158,True
+Aaron Gordon,2,4,9,0,Fadeaway Jump Shot,4,22,34,True
+Aaron Gordon,2,4,28,0,Fadeaway Jump Shot,6,66,9,True
+Aaron Gordon,4,7,18,0,Fadeaway Jump Shot,13,-71,110,True
+Aaron Gordon,3,11,12,1,Fadeaway Jump Shot,11,-16,118,True
+Aaron Gordon,2,3,42,0,Fadeaway Jump Shot,7,-2,76,True
+Aaron Gordon,3,11,42,0,Fadeaway Jump Shot,8,-62,55,True
+Aaron Gordon,3,4,4,1,Fadeaway Jump Shot,13,-81,107,True
+Aaron Gordon,3,10,55,0,Fadeaway Jump Shot,11,8,117,True
+Aaron Gordon,3,8,23,0,Fadeaway Jump Shot,12,65,106,True
+Aaron Gordon,3,8,18,1,Finger Roll Layup Shot,3,-14,34,True
+Aaron Gordon,3,6,19,1,Finger Roll Layup Shot,2,-11,18,True
+Aaron Gordon,3,0,0,0,Floating Jump shot,12,-52,119,True
+Aaron Gordon,3,7,4,0,Floating Jump shot,4,0,40,True
+Aaron Gordon,3,7,44,0,Floating Jump shot,10,-87,59,True
+Aaron Gordon,1,5,43,0,Floating Jump shot,8,8,83,True
+Aaron Gordon,1,4,24,0,Floating Jump shot,7,11,72,True
+Aaron Gordon,4,4,53,0,Floating Jump shot,10,4,104,True
+Aaron Gordon,1,4,2,0,Floating Jump shot,9,41,90,True
+Aaron Gordon,2,1,10,0,Floating Jump shot,10,-4,108,True
+Aaron Gordon,1,9,35,0,Hook Shot,9,3,93,True
+Aaron Gordon,1,11,40,0,Hook Shot,6,-25,62,True
+Aaron Gordon,1,3,42,0,Hook Shot,4,-41,26,True
+Aaron Gordon,3,9,42,0,Jump Bank Shot,24,-171,181,False
+Aaron Gordon,2,0,34,0,Jump Bank Shot,25,-133,222,False
+Aaron Gordon,1,10,48,1,Jump Shot,23,231,40,False
+Aaron Gordon,1,9,57,1,Jump Shot,25,-129,221,False
+Aaron Gordon,1,7,55,0,Jump Shot,23,226,73,False
+Aaron Gordon,1,7,0,0,Jump Shot,17,170,51,True
+Aaron Gordon,1,11,28,1,Jump Shot,26,79,255,False
+Aaron Gordon,3,11,9,1,Jump Shot,22,-228,26,False
+Aaron Gordon,4,10,15,0,Jump Shot,26,-158,215,False
+Aaron Gordon,1,7,2,0,Jump Shot,26,-53,260,False
+Aaron Gordon,3,8,42,0,Jump Shot,19,36,191,True
+Aaron Gordon,1,6,33,0,Jump Shot,24,-230,78,False
+Aaron Gordon,3,4,14,0,Jump Shot,26,-25,264,False
+Aaron Gordon,3,0,4,0,Jump Shot,27,-217,169,False
+Aaron Gordon,2,1,8,0,Jump Shot,15,154,42,True
+Aaron Gordon,3,10,52,0,Jump Shot,26,151,217,False
+Aaron Gordon,3,3,52,0,Jump Shot,25,207,147,False
+Aaron Gordon,3,4,22,1,Jump Shot,26,89,247,False
+Aaron Gordon,1,4,41,1,Jump Shot,19,-78,184,True
+Aaron Gordon,1,4,51,1,Jump Shot,23,-238,-4,False
+Aaron Gordon,3,3,36,0,Jump Shot,25,-71,247,False
+Aaron Gordon,1,9,28,0,Jump Shot,23,-230,-43,False
+Aaron Gordon,1,1,30,0,Jump Shot,23,-234,-13,False
+Aaron Gordon,3,6,0,0,Jump Shot,25,-136,221,False
+Aaron Gordon,3,10,30,0,Jump Shot,22,-229,18,False
+Aaron Gordon,1,1,26,0,Jump Shot,10,2,106,True
+Aaron Gordon,3,2,30,0,Jump Shot,25,-155,204,False
+Aaron Gordon,3,3,50,0,Jump Shot,24,-187,159,False
+Aaron Gordon,3,10,3,0,Jump Shot,25,42,252,False
+Aaron Gordon,2,3,53,0,Jump Shot,23,231,27,False
+Aaron Gordon,2,3,22,0,Jump Shot,25,58,247,False
+Aaron Gordon,1,6,56,1,Jump Shot,12,70,105,True
+Aaron Gordon,3,8,26,0,Jump Shot,11,106,42,True
+Aaron Gordon,3,11,0,1,Jump Shot,25,-24,253,False
+Aaron Gordon,1,2,24,1,Jump Shot,25,97,237,False
+Aaron Gordon,1,5,2,0,Jump Shot,25,105,230,False
+Aaron Gordon,4,7,3,0,Jump Shot,23,231,25,False
+Aaron Gordon,2,2,7,0,Jump Shot,26,-102,245,False
+Aaron Gordon,1,7,15,0,Jump Shot,22,-228,-2,False
+Aaron Gordon,3,9,38,1,Jump Shot,22,228,17,False
+Aaron Gordon,1,0,30,0,Jump Shot,7,-37,61,True
+Aaron Gordon,1,11,12,0,Jump Shot,28,-180,215,False
+Aaron Gordon,4,7,3,0,Jump Shot,25,131,222,False
+Aaron Gordon,2,0,10,0,Jump Shot,27,87,262,False
+Aaron Gordon,3,8,53,0,Jump Shot,16,122,108,True
+Aaron Gordon,4,5,30,1,Jump Shot,25,130,218,False
+Aaron Gordon,1,6,4,0,Jump Shot,25,-106,231,False
+Aaron Gordon,1,4,27,1,Jump Shot,26,-18,264,False
+Aaron Gordon,4,3,3,1,Jump Shot,23,-231,41,False
+Aaron Gordon,3,8,7,0,Jump Shot,16,133,102,True
+Aaron Gordon,3,7,36,0,Jump Shot,25,92,236,False
+Aaron Gordon,3,1,18,0,Jump Shot,16,-132,101,True
+Aaron Gordon,1,11,0,0,Jump Shot,16,166,19,True
+Aaron Gordon,1,5,13,0,Jump Shot,26,143,224,False
+Aaron Gordon,3,1,53,1,Jump Shot,23,228,49,False
+Aaron Gordon,3,6,47,0,Jump Shot,23,-231,4,False
+Aaron Gordon,3,6,19,0,Jump Shot,27,3,272,False
+Aaron Gordon,3,10,45,1,Jump Shot,25,139,218,False
+Aaron Gordon,1,7,25,0,Jump Shot,26,-220,140,False
+Aaron Gordon,4,6,35,0,Jump Shot,26,100,241,False
+Aaron Gordon,4,0,54,0,Jump Shot,26,177,191,False
+Aaron Gordon,3,11,42,0,Jump Shot,16,109,128,True
+Aaron Gordon,1,6,49,0,Jump Shot,22,-222,29,False
+Aaron Gordon,1,9,18,1,Jump Shot,24,-221,113,False
+Aaron Gordon,1,4,33,0,Jump Shot,26,-188,180,False
+Aaron Gordon,4,3,10,1,Jump Shot,25,-13,258,False
+Aaron Gordon,3,11,6,0,Jump Shot,24,-114,222,False
+Aaron Gordon,4,5,35,0,Jump Shot,14,54,131,True
+Aaron Gordon,1,4,20,1,Jump Shot,27,67,271,False
+Aaron Gordon,1,7,18,0,Jump Shot,23,-232,12,False
+Aaron Gordon,1,11,4,1,Jump Shot,25,133,219,False
+Aaron Gordon,2,4,32,0,Jump Shot,24,56,241,False
+Aaron Gordon,1,5,20,1,Jump Shot,27,117,245,False
+Aaron Gordon,2,1,13,0,Jump Shot,25,-57,250,False
+Aaron Gordon,1,0,8,0,Jump Shot,26,-176,202,False
+Aaron Gordon,1,8,54,1,Jump Shot,24,-144,204,False
+Aaron Gordon,3,6,0,0,Jump Shot,9,83,40,True
+Aaron Gordon,4,4,47,0,Jump Shot,25,13,253,False
+Aaron Gordon,2,3,55,0,Jump Shot,23,-232,6,False
+Aaron Gordon,1,11,20,0,Jump Shot,25,-121,230,False
+Aaron Gordon,4,5,30,0,Jump Shot,26,98,245,False
+Aaron Gordon,3,6,34,1,Jump Shot,26,-116,240,False
+Aaron Gordon,2,1,18,0,Jump Shot,26,178,190,False
+Aaron Gordon,3,5,30,1,Jump Shot,25,-127,224,False
+Aaron Gordon,4,3,52,1,Jump Shot,24,239,63,False
+Aaron Gordon,1,9,50,1,Jump Shot,25,103,232,False
+Aaron Gordon,4,0,38,0,Jump Shot,25,70,246,False
+Aaron Gordon,1,7,55,1,Jump Shot,26,1,261,False
+Aaron Gordon,1,5,38,1,Jump Shot,26,111,237,False
+Aaron Gordon,2,5,27,0,Jump Shot,23,229,29,False
+Aaron Gordon,1,7,41,0,Jump Shot,26,-90,245,False
+Aaron Gordon,2,0,53,0,Jump Shot,26,60,261,False
+Aaron Gordon,4,2,36,0,Jump Shot,28,96,265,False
+Aaron Gordon,4,0,12,0,Jump Shot,15,136,75,True
+Aaron Gordon,1,9,35,0,Jump Shot,26,119,242,False
+Aaron Gordon,1,2,47,1,Jump Shot,25,-172,185,False
+Aaron Gordon,2,0,3,0,Jump Shot,25,-204,145,False
+Aaron Gordon,3,9,5,1,Jump Shot,22,223,43,False
+Aaron Gordon,4,0,35,0,Jump Shot,25,-176,184,False
+Aaron Gordon,1,1,46,0,Jump Shot,25,-105,229,False
+Aaron Gordon,1,8,34,0,Jump Shot,25,-40,255,False
+Aaron Gordon,3,3,27,0,Jump Shot,26,-219,151,False
+Aaron Gordon,3,5,10,1,Jump Shot,26,2,269,False
+Aaron Gordon,3,7,16,0,Jump Shot,10,-54,89,True
+Aaron Gordon,2,2,59,0,Jump Shot,26,5,267,False
+Aaron Gordon,1,9,58,0,Jump Shot,22,-228,-5,False
+Aaron Gordon,3,4,24,1,Jump Shot,24,80,236,False
+Aaron Gordon,4,3,2,0,Jump Shot,28,-188,218,False
+Aaron Gordon,4,0,35,0,Jump Shot,23,230,0,False
+Aaron Gordon,3,0,27,0,Jump Shot,26,16,260,False
+Aaron Gordon,4,8,13,0,Jump Shot,22,-228,22,False
+Aaron Gordon,1,7,6,0,Jump Shot,23,229,36,False
+Aaron Gordon,1,10,7,0,Jump Shot,23,-223,73,False
+Aaron Gordon,1,1,45,0,Jump Shot,22,-222,43,False
+Aaron Gordon,1,3,58,0,Jump Shot,25,116,230,False
+Aaron Gordon,3,8,0,0,Jump Shot,23,-236,29,False
+Aaron Gordon,1,6,20,1,Jump Shot,25,-86,239,False
+Aaron Gordon,1,5,22,0,Jump Shot,26,66,257,False
+Aaron Gordon,3,5,11,1,Jump Shot,25,-168,197,False
+Aaron Gordon,4,0,13,0,Jump Shot,23,-235,10,False
+Aaron Gordon,3,4,35,1,Jump Shot,25,52,247,False
+Aaron Gordon,3,11,44,0,Jump Shot,15,-123,97,True
+Aaron Gordon,4,3,31,0,Jump Shot,25,-169,197,False
+Aaron Gordon,3,6,58,0,Jump Shot,23,233,34,False
+Aaron Gordon,3,7,29,1,Jump Shot,25,-142,216,False
+Aaron Gordon,3,6,21,0,Jump Shot,26,55,257,False
+Aaron Gordon,2,7,23,0,Jump Shot,25,-231,98,False
+Aaron Gordon,3,6,52,0,Jump Shot,32,-92,314,False
+Aaron Gordon,3,5,53,0,Jump Shot,26,-89,247,False
+Aaron Gordon,3,7,38,0,Jump Shot,16,-5,169,True
+Aaron Gordon,1,11,35,0,Jump Shot,17,36,173,True
+Aaron Gordon,2,5,26,0,Jump Shot,26,-74,255,False
+Aaron Gordon,4,4,17,1,Jump Shot,19,-198,10,True
+Aaron Gordon,1,2,42,0,Jump Shot,25,169,185,False
+Aaron Gordon,2,9,54,0,Jump Shot,22,225,22,False
+Aaron Gordon,3,6,1,0,Jump Shot,26,-130,226,False
+Aaron Gordon,3,6,24,1,Jump Shot,23,-228,36,False
+Aaron Gordon,4,1,17,0,Jump Shot,26,76,256,False
+Aaron Gordon,3,10,56,0,Jump Shot,23,-229,39,False
+Aaron Gordon,3,8,21,0,Jump Shot,25,-154,201,False
+Aaron Gordon,1,5,16,0,Jump Shot,18,58,172,True
+Aaron Gordon,1,11,1,0,Jump Shot,22,22,222,True
+Aaron Gordon,3,6,45,0,Jump Shot,15,-154,32,True
+Aaron Gordon,1,11,23,0,Jump Shot,27,71,264,False
+Aaron Gordon,3,9,42,1,Jump Shot,22,227,23,False
+Aaron Gordon,3,6,20,0,Jump Shot,18,-52,176,True
+Aaron Gordon,4,5,27,0,Jump Shot,13,133,18,True
+Aaron Gordon,2,5,18,0,Jump Shot,17,-73,156,True
+Aaron Gordon,3,0,35,1,Jump Shot,25,49,248,False
+Aaron Gordon,1,10,37,1,Jump Shot,25,-49,255,False
+Aaron Gordon,4,3,10,0,Jump Shot,25,-20,257,False
+Aaron Gordon,1,4,38,0,Jump Shot,24,-167,178,False
+Aaron Gordon,3,6,26,0,Jump Shot,24,218,104,False
+Aaron Gordon,3,5,49,0,Jump Shot,25,-185,178,False
+Aaron Gordon,4,7,49,0,Jump Shot,25,-43,252,False
+Aaron Gordon,1,11,25,1,Jump Shot,25,29,252,False
+Aaron Gordon,4,0,9,0,Jump Shot,27,57,265,False
+Aaron Gordon,1,2,37,0,Jump Shot,25,-184,183,False
+Aaron Gordon,1,2,57,0,Jump Shot,25,-189,176,False
+Aaron Gordon,2,1,58,1,Jump Shot,25,24,256,False
+Aaron Gordon,2,5,34,1,Jump Shot,25,145,215,False
+Aaron Gordon,4,0,48,0,Jump Shot,24,-219,118,False
+Aaron Gordon,3,5,9,1,Jump Shot,24,42,246,False
+Aaron Gordon,1,10,26,0,Jump Shot,22,-222,-12,False
+Aaron Gordon,3,6,25,0,Jump Shot,25,-72,243,False
+Aaron Gordon,3,3,17,0,Jump Shot,24,-68,237,False
+Aaron Gordon,3,7,52,1,Jump Shot,25,-28,254,False
+Aaron Gordon,4,0,15,0,Jump Shot,25,47,248,False
+Aaron Gordon,2,2,57,1,Jump Shot,24,-217,122,False
+Aaron Gordon,3,11,39,1,Jump Shot,15,130,76,True
+Aaron Gordon,2,5,10,1,Jump Shot,25,101,239,False
+Aaron Gordon,1,11,25,1,Jump Shot,22,-228,19,False
+Aaron Gordon,1,7,45,0,Jump Shot,7,-70,25,True
+Aaron Gordon,1,7,49,0,Jump Shot,21,-124,172,True
+Aaron Gordon,3,2,55,1,Jump Shot,23,-231,41,False
+Aaron Gordon,1,8,38,0,Jump Shot,24,-59,236,False
+Aaron Gordon,1,9,54,0,Jump Shot,25,-189,171,False
+Aaron Gordon,2,3,28,0,Jump Shot,9,60,77,True
+Aaron Gordon,3,10,52,1,Jump Shot,14,128,62,True
+Aaron Gordon,1,11,7,0,Jump Shot,15,-147,38,True
+Aaron Gordon,3,2,38,0,Jump Shot,23,235,14,False
+Aaron Gordon,4,3,12,0,Jump Shot,23,-232,24,False
+Aaron Gordon,3,2,58,0,Jump Shot,26,4,260,False
+Aaron Gordon,2,2,13,0,Jump Shot,25,-13,257,False
+Aaron Gordon,1,3,30,1,Jump Shot,14,-132,62,True
+Aaron Gordon,4,7,17,0,Jump Shot,10,-12,109,True
+Aaron Gordon,4,0,2,0,Jump Shot,29,-157,254,False
+Aaron Gordon,4,6,6,0,Jump Shot,17,-28,169,True
+Aaron Gordon,4,1,22,0,Jump Shot,25,128,225,False
+Aaron Gordon,2,1,0,1,Jump Shot,25,25,252,False
+Aaron Gordon,3,5,14,0,Jump Shot,29,-132,263,False
+Aaron Gordon,2,4,18,0,Jump Shot,17,6,176,True
+Aaron Gordon,3,10,25,1,Jump Shot,25,-45,256,False
+Aaron Gordon,4,5,3,0,Jump Shot,18,40,176,True
+Aaron Gordon,4,7,11,0,Jump Shot,26,-68,256,False
+Aaron Gordon,1,3,52,0,Jump Shot,17,-146,103,True
+Aaron Gordon,2,6,4,0,Jump Shot,16,0,168,True
+Aaron Gordon,3,11,23,0,Jump Shot,25,-148,206,False
+Aaron Gordon,3,1,52,0,Jump Shot,25,-92,239,False
+Aaron Gordon,1,0,31,0,Jump Shot,25,-124,219,False
+Aaron Gordon,1,7,1,0,Jump Shot,25,-86,236,False
+Aaron Gordon,1,6,34,1,Jump Shot,25,-144,209,False
+Aaron Gordon,1,11,45,0,Jump Shot,17,-78,153,True
+Aaron Gordon,2,2,44,0,Jump Shot,22,-225,38,False
+Aaron Gordon,2,5,2,0,Jump Shot,24,178,166,False
+Aaron Gordon,3,10,5,0,Jump Shot,25,-92,237,False
+Aaron Gordon,3,3,57,1,Jump Shot,16,38,165,True
+Aaron Gordon,1,4,3,0,Jump Shot,8,-75,29,True
+Aaron Gordon,3,0,45,1,Jump Shot,25,-154,205,False
+Aaron Gordon,1,3,34,1,Jump Shot,23,-232,14,False
+Aaron Gordon,1,10,5,0,Jump Shot,26,51,264,False
+Aaron Gordon,2,0,27,0,Jump Shot,26,79,258,False
+Aaron Gordon,3,10,45,1,Jump Shot,23,233,21,False
+Aaron Gordon,3,6,15,0,Jump Shot,18,38,176,True
+Aaron Gordon,1,3,8,0,Jump Shot,26,1,262,False
+Aaron Gordon,2,4,13,1,Jump Shot,24,-160,185,False
+Aaron Gordon,4,5,38,0,Jump Shot,25,-149,201,False
+Aaron Gordon,3,5,14,1,Jump Shot,24,-103,227,False
+Aaron Gordon,4,6,6,0,Jump Shot,26,-144,222,False
+Aaron Gordon,1,6,30,1,Jump Shot,26,159,215,False
+Aaron Gordon,1,9,43,0,Jump Shot,26,117,243,False
+Aaron Gordon,4,11,43,1,Jump Shot,25,-13,257,False
+Aaron Gordon,3,8,28,0,Jump Shot,26,151,212,False
+Aaron Gordon,3,5,11,1,Jump Shot,26,3,263,False
+Aaron Gordon,1,10,13,0,Jump Shot,25,-101,239,False
+Aaron Gordon,2,0,0,0,Jump Shot,25,211,148,False
+Aaron Gordon,4,0,57,1,Jump Shot,22,-226,26,False
+Aaron Gordon,2,6,47,1,Jump Shot,26,20,264,False
+Aaron Gordon,3,9,23,1,Jump Shot,25,146,207,False
+Aaron Gordon,3,10,12,0,Jump Shot,26,135,231,False
+Aaron Gordon,1,2,44,1,Jump Shot,25,-136,211,False
+Aaron Gordon,2,4,15,1,Jump Shot,26,11,268,False
+Aaron Gordon,1,10,6,0,Jump Shot,27,-200,187,False
+Aaron Gordon,1,8,19,1,Jump Shot,22,-227,-4,False
+Aaron Gordon,3,10,36,1,Jump Shot,27,-114,252,False
+Aaron Gordon,3,10,52,0,Jump Shot,25,226,122,False
+Aaron Gordon,2,10,39,1,Jump Shot,25,-192,164,False
+Aaron Gordon,1,10,18,0,Jump Shot,21,106,191,True
+Aaron Gordon,4,5,39,1,Jump Shot,24,235,55,False
+Aaron Gordon,4,7,21,0,Jump Shot,28,-18,282,False
+Aaron Gordon,2,9,25,0,Jump Shot,20,167,112,True
+Aaron Gordon,1,6,32,0,Jump Shot,3,22,25,True
+Aaron Gordon,1,6,37,0,Jump Shot,12,62,111,True
+Aaron Gordon,1,2,11,0,Jump Shot,27,38,274,False
+Aaron Gordon,3,4,36,0,Jump Shot,13,30,133,True
+Aaron Gordon,4,3,54,0,Jump Shot,23,229,42,False
+Aaron Gordon,1,1,54,0,Jump Shot,25,-28,254,False
+Aaron Gordon,1,10,58,0,Jump Shot,25,-111,228,False
+Aaron Gordon,4,10,54,0,Jump Shot,26,38,261,False
+Aaron Gordon,2,5,15,1,Jump Shot,22,-228,7,False
+Aaron Gordon,3,4,16,0,Jump Shot,21,-10,218,True
+Aaron Gordon,4,9,0,1,Jump Shot,25,-2,255,False
+Aaron Gordon,3,5,26,0,Jump Shot,22,219,26,False
+Aaron Gordon,4,2,55,1,Jump Shot,23,-234,41,False
+Aaron Gordon,1,5,12,0,Jump Shot,25,-89,241,False
+Aaron Gordon,4,7,0,0,Jump Shot,25,-82,246,False
+Aaron Gordon,4,5,54,0,Jump Shot,25,-104,232,False
+Aaron Gordon,3,6,37,0,Jump Shot,25,-223,116,False
+Aaron Gordon,1,0,35,1,Jump Shot,25,-127,221,False
+Aaron Gordon,3,5,33,0,Jump Shot,25,173,189,False
+Aaron Gordon,3,0,7,0,Jump Shot,26,-180,200,False
+Aaron Gordon,1,5,23,1,Jump Shot,14,95,109,True
+Aaron Gordon,1,2,26,0,Jump Shot,26,-161,207,False
+Aaron Gordon,1,0,12,0,Jump Shot,25,18,256,False
+Aaron Gordon,1,6,21,0,Jump Shot,23,-229,70,False
+Aaron Gordon,1,8,29,1,Jump Shot,25,89,237,False
+Aaron Gordon,1,10,29,1,Jump Shot,24,-151,194,False
+Aaron Gordon,1,8,1,0,Jump Shot,16,114,122,True
+Aaron Gordon,2,1,14,0,Jump Shot,22,226,8,False
+Aaron Gordon,2,5,33,0,Jump Shot,26,-139,220,False
+Aaron Gordon,4,6,40,0,Jump Shot,26,-98,241,False
+Aaron Gordon,1,11,43,0,Jump Shot,24,-123,215,False
+Aaron Gordon,1,7,50,0,Jump Shot,23,-233,0,False
+Aaron Gordon,3,8,23,1,Jump Shot,23,-172,155,True
+Aaron Gordon,1,10,55,0,Jump Shot,22,223,8,False
+Aaron Gordon,4,8,50,0,Jump Shot,18,-121,141,True
+Aaron Gordon,1,7,59,0,Jump Shot,25,-139,218,False
+Aaron Gordon,3,5,37,0,Jump Shot,22,-226,34,False
+Aaron Gordon,3,7,57,1,Jump Shot,25,49,252,False
+Aaron Gordon,2,2,45,1,Jump Shot,22,229,16,False
+Aaron Gordon,3,6,13,1,Jump Shot,26,-159,209,False
+Aaron Gordon,1,10,17,0,Jump Shot,26,81,250,False
+Aaron Gordon,3,8,53,0,Jump Shot,26,-136,225,False
+Aaron Gordon,3,3,30,1,Jump Shot,14,-143,38,True
+Aaron Gordon,2,2,34,1,Jump Shot,25,91,235,False
+Aaron Gordon,4,6,24,1,Jump Shot,24,33,246,False
+Aaron Gordon,4,5,50,0,Jump Shot,25,-116,232,False
+Aaron Gordon,1,5,19,0,Jump Shot,5,0,53,True
+Aaron Gordon,3,9,27,1,Jump Shot,25,152,201,False
+Aaron Gordon,1,7,47,0,Jump Shot,25,22,257,False
+Aaron Gordon,1,10,25,1,Jump Shot,22,-228,7,False
+Aaron Gordon,3,7,37,1,Jump Shot,18,-116,149,True
+Aaron Gordon,2,8,57,0,Jump Shot,24,-145,198,False
+Aaron Gordon,3,10,51,0,Jump Shot,23,-230,-3,False
+Aaron Gordon,2,11,18,1,Jump Shot,25,-20,252,False
+Aaron Gordon,2,8,29,1,Jump Shot,25,-144,208,False
+Aaron Gordon,2,10,52,0,Jump Shot,16,24,159,True
+Aaron Gordon,2,4,45,1,Jump Shot,15,-117,101,True
+Aaron Gordon,3,9,17,1,Jump Shot,23,-229,38,False
+Aaron Gordon,3,4,20,0,Jump Shot,12,-43,115,True
+Aaron Gordon,2,7,14,0,Jump Shot,9,-32,88,True
+Aaron Gordon,1,4,13,0,Jump Shot,23,231,37,False
+Aaron Gordon,1,3,45,0,Jump Shot,10,-12,104,True
+Aaron Gordon,4,6,41,1,Jump Shot,21,100,185,True
+Aaron Gordon,2,3,35,1,Jump Shot,25,159,200,False
+Aaron Gordon,4,3,54,0,Jump Shot,27,-175,216,False
+Aaron Gordon,4,0,31,0,Jump Shot,29,-131,269,False
+Aaron Gordon,3,8,54,0,Jump Shot,12,-63,112,True
+Aaron Gordon,2,4,58,0,Jump Shot,16,34,166,True
+Aaron Gordon,2,0,2,0,Jump Shot,13,-130,35,True
+Aaron Gordon,1,9,53,0,Jump Shot,26,11,264,False
+Aaron Gordon,3,7,30,1,Jump Shot,24,232,85,False
+Aaron Gordon,3,3,31,0,Jump Shot,22,229,21,False
+Aaron Gordon,3,10,26,1,Jump Shot,20,63,193,True
+Aaron Gordon,3,9,3,0,Jump Shot,25,-78,245,False
+Aaron Gordon,3,10,59,1,Jump Shot,14,93,117,True
+Aaron Gordon,3,4,28,1,Jump Shot,25,150,204,False
+Aaron Gordon,2,5,42,1,Jump Shot,25,211,141,False
+Aaron Gordon,1,9,8,1,Jump Shot,26,9,260,False
+Aaron Gordon,2,1,15,1,Jump Shot,26,-103,242,False
+Aaron Gordon,3,3,25,1,Jump Shot,25,-152,206,False
+Aaron Gordon,4,0,36,1,Jump Shot,25,-166,189,False
+Aaron Gordon,1,7,7,1,Jump Shot,26,-143,224,False
+Aaron Gordon,1,2,7,0,Jump Shot,8,5,80,True
+Aaron Gordon,1,6,34,0,Jump Shot,18,-98,159,True
+Aaron Gordon,2,1,4,0,Jump Shot,18,0,185,True
+Aaron Gordon,1,4,17,1,Layup Shot,1,-1,10,True
+Aaron Gordon,1,2,5,0,Layup Shot,3,13,36,True
+Aaron Gordon,4,2,58,0,Layup Shot,1,-11,10,True
+Aaron Gordon,1,10,25,1,Layup Shot,0,0,8,True
+Aaron Gordon,3,11,31,0,Layup Shot,1,14,0,True
+Aaron Gordon,1,4,56,0,Layup Shot,3,-24,19,True
+Aaron Gordon,3,6,37,0,Layup Shot,0,-2,8,True
+Aaron Gordon,3,10,6,1,Layup Shot,4,11,42,True
+Aaron Gordon,1,6,36,1,Layup Shot,3,-27,18,True
+Aaron Gordon,3,5,41,1,Layup Shot,2,-6,23,True
+Aaron Gordon,3,6,22,0,Layup Shot,1,-7,10,True
+Aaron Gordon,1,7,38,0,Layup Shot,1,3,10,True
+Aaron Gordon,3,4,51,0,Layup Shot,2,0,27,True
+Aaron Gordon,1,9,5,0,Layup Shot,2,1,27,True
+Aaron Gordon,4,5,10,0,Layup Shot,4,19,44,True
+Aaron Gordon,1,8,12,0,Layup Shot,1,9,13,True
+Aaron Gordon,2,2,6,0,Layup Shot,6,18,58,True
+Aaron Gordon,4,6,14,1,Layup Shot,2,-22,17,True
+Aaron Gordon,5,0,43,1,Layup Shot,1,15,10,True
+Aaron Gordon,1,0,26,0,Layup Shot,0,-8,-1,True
+Aaron Gordon,3,6,40,0,Layup Shot,4,-11,42,True
+Aaron Gordon,1,2,44,1,Layup Shot,2,13,25,True
+Aaron Gordon,1,4,29,0,Layup Shot,2,-20,9,True
+Aaron Gordon,1,11,19,0,Layup Shot,2,11,19,True
+Aaron Gordon,1,10,34,0,Layup Shot,3,2,32,True
+Aaron Gordon,2,4,18,0,Layup Shot,3,2,31,True
+Aaron Gordon,2,2,11,1,Layup Shot,1,3,11,True
+Aaron Gordon,4,3,2,0,Layup Shot,5,-12,49,True
+Aaron Gordon,1,5,34,0,Layup Shot,5,-30,42,True
+Aaron Gordon,1,11,25,0,Layup Shot,2,24,4,True
+Aaron Gordon,1,1,50,0,Layup Shot,1,-6,9,True
+Aaron Gordon,3,5,17,1,Layup Shot,2,6,20,True
+Aaron Gordon,1,7,14,0,Layup Shot,3,17,31,True
+Aaron Gordon,2,4,14,0,Layup Shot,0,5,5,True
+Aaron Gordon,2,3,9,0,Layup Shot,5,-8,53,True
+Aaron Gordon,4,3,35,1,Layup Shot,3,-12,36,True
+Aaron Gordon,1,9,24,0,Layup Shot,4,4,42,True
+Aaron Gordon,1,9,0,1,Layup Shot,2,3,21,True
+Aaron Gordon,2,1,43,0,Layup Shot,1,-3,14,True
+Aaron Gordon,3,7,47,0,Pullup Jump shot,16,135,91,True
+Aaron Gordon,3,3,49,0,Pullup Jump shot,24,-88,233,False
+Aaron Gordon,1,2,43,0,Pullup Jump shot,25,78,245,False
+Aaron Gordon,3,4,49,0,Pullup Jump shot,18,-88,158,True
+Aaron Gordon,3,6,56,1,Pullup Jump shot,15,79,136,True
+Aaron Gordon,1,5,37,0,Pullup Jump shot,18,176,50,True
+Aaron Gordon,2,4,42,1,Pullup Jump shot,26,-80,248,False
+Aaron Gordon,4,2,41,0,Pullup Jump shot,26,-24,262,False
+Aaron Gordon,3,5,35,1,Pullup Jump shot,14,105,101,True
+Aaron Gordon,1,2,32,1,Pullup Jump shot,16,-14,163,True
+Aaron Gordon,3,7,26,1,Pullup Jump shot,22,-106,193,True
+Aaron Gordon,1,0,49,0,Pullup Jump shot,17,36,170,True
+Aaron Gordon,1,6,26,1,Pullup Jump shot,15,41,153,True
+Aaron Gordon,4,10,25,1,Pullup Jump shot,17,-92,153,True
+Aaron Gordon,1,5,39,0,Pullup Jump shot,20,55,193,True
+Aaron Gordon,3,0,0,1,Pullup Jump shot,25,52,252,False
+Aaron Gordon,3,11,28,1,Pullup Jump shot,21,-52,213,True
+Aaron Gordon,1,3,12,0,Pullup Jump shot,10,52,90,True
+Aaron Gordon,3,0,0,0,Pullup Jump shot,22,-19,222,True
+Aaron Gordon,2,2,34,0,Pullup Jump shot,17,35,173,True
+Aaron Gordon,3,8,57,1,Pullup Jump shot,19,31,188,True
+Aaron Gordon,2,1,8,0,Pullup Jump shot,24,232,68,False
+Aaron Gordon,4,1,56,0,Pullup Jump shot,25,163,200,False
+Aaron Gordon,1,4,3,0,Pullup Jump shot,25,150,207,False
+Aaron Gordon,3,7,0,1,Pullup Jump shot,8,-57,62,True
+Aaron Gordon,2,1,12,0,Pullup Jump shot,13,-119,59,True
+Aaron Gordon,2,0,45,0,Pullup Jump shot,15,2,158,True
+Aaron Gordon,2,5,19,0,Pullup Jump shot,25,165,190,False
+Aaron Gordon,3,1,40,0,Pullup Jump shot,27,-20,274,False
+Aaron Gordon,4,11,7,1,Pullup Jump shot,13,-138,17,True
+Aaron Gordon,4,4,20,0,Pullup Jump shot,16,54,151,True
+Aaron Gordon,3,2,25,1,Pullup Jump shot,16,-138,82,True
+Aaron Gordon,3,6,1,0,Pullup Jump shot,25,-34,257,False
+Aaron Gordon,3,0,0,0,Pullup Jump shot,34,13,346,False
+Aaron Gordon,1,8,33,1,Pullup Jump shot,17,135,118,True
+Aaron Gordon,3,1,13,0,Pullup Jump shot,25,211,146,False
+Aaron Gordon,1,3,52,0,Pullup Jump shot,15,87,130,True
+Aaron Gordon,1,11,16,1,Pullup Jump shot,15,2,155,True
+Aaron Gordon,1,11,41,1,Pullup Jump shot,17,-74,163,True
+Aaron Gordon,4,0,27,0,Pullup Jump shot,26,152,215,False
+Aaron Gordon,3,7,54,0,Pullup Jump shot,4,-20,40,True
+Aaron Gordon,2,4,3,0,Pullup Jump shot,17,69,160,True
+Aaron Gordon,2,1,36,1,Pullup Jump shot,19,20,193,True
+Aaron Gordon,3,3,16,0,Pullup Jump shot,18,-95,159,True
+Aaron Gordon,2,3,8,0,Pullup Jump shot,15,74,132,True
+Aaron Gordon,2,4,18,1,Pullup Jump shot,25,-103,231,False
+Aaron Gordon,4,5,10,0,Pullup Jump shot,19,-41,189,True
+Aaron Gordon,1,0,2,1,Pullup Jump shot,28,-203,200,False
+Aaron Gordon,1,7,23,1,Pullup Jump shot,18,123,141,True
+Aaron Gordon,1,10,7,1,Pullup Jump shot,25,65,249,False
+Aaron Gordon,2,3,17,1,Pullup Jump shot,1,-2,16,True
+Aaron Gordon,1,9,24,0,Pullup Jump shot,27,-15,277,False
+Aaron Gordon,4,9,20,0,Pullup Jump shot,18,-49,180,True
+Aaron Gordon,3,11,36,0,Pullup Jump shot,15,8,157,True
+Aaron Gordon,1,4,59,1,Pullup Jump shot,26,6,264,False
+Aaron Gordon,3,0,57,1,Pullup Jump shot,11,-110,8,True
+Aaron Gordon,2,2,55,0,Pullup Jump shot,16,39,156,True
+Aaron Gordon,2,1,54,0,Pullup Jump shot,8,-5,89,True
+Aaron Gordon,1,5,54,0,Pullup Jump shot,15,36,151,True
+Aaron Gordon,1,2,33,0,Pullup Jump shot,25,-89,236,False
+Aaron Gordon,3,5,5,0,Pullup Jump shot,25,21,259,False
+Aaron Gordon,3,10,13,0,Pullup Jump shot,18,35,183,True
+Aaron Gordon,4,3,16,0,Pullup Jump shot,25,-22,253,False
+Aaron Gordon,3,3,7,0,Pullup Jump shot,16,-141,88,True
+Aaron Gordon,1,10,54,0,Pullup Jump shot,27,188,197,False
+Aaron Gordon,4,5,31,0,Pullup Jump shot,25,-209,143,False
+Aaron Gordon,3,11,40,0,Pullup Jump shot,13,-24,136,True
+Aaron Gordon,3,2,45,0,Pullup Jump shot,18,-104,152,True
+Aaron Gordon,2,4,19,0,Pullup Jump shot,25,1,250,False
+Aaron Gordon,4,8,39,0,Pullup Jump shot,13,17,129,True
+Aaron Gordon,3,4,49,0,Pullup Jump shot,25,162,194,False
+Aaron Gordon,2,2,25,0,Pullup Jump shot,12,-59,105,True
+Aaron Gordon,1,1,58,1,Pullup Jump shot,25,9,257,False
+Aaron Gordon,1,8,27,0,Pullup Jump shot,26,-120,234,False
+Aaron Gordon,2,0,37,0,Pullup Jump shot,24,-106,216,False
+Aaron Gordon,2,0,0,0,Pullup Jump shot,30,-93,286,False
+Aaron Gordon,3,5,24,0,Pullup Jump shot,22,-134,183,True
+Aaron Gordon,3,7,19,0,Pullup Jump shot,26,-90,254,False
+Aaron Gordon,4,0,0,0,Pullup Jump shot,35,185,299,False
+Aaron Gordon,2,2,13,0,Pullup Jump shot,16,69,147,True
+Aaron Gordon,1,4,9,0,Pullup Jump shot,25,-107,235,False
+Aaron Gordon,4,2,30,0,Pullup Jump shot,25,151,201,False
+Aaron Gordon,1,5,6,0,Pullup Jump shot,16,-25,162,True
+Aaron Gordon,1,11,19,1,Pullup Jump shot,14,-9,146,True
+Aaron Gordon,3,11,10,1,Putback Dunk Shot,0,0,-6,True
+Aaron Gordon,2,3,39,1,Putback Dunk Shot,2,-2,20,True
+Aaron Gordon,3,9,24,1,Putback Dunk Shot,0,0,-6,True
+Aaron Gordon,1,6,51,1,Putback Dunk Shot,1,4,15,True
+Aaron Gordon,2,3,2,1,Putback Dunk Shot,0,0,-6,True
+Aaron Gordon,1,5,9,1,Putback Dunk Shot,0,0,-6,True
+Aaron Gordon,1,9,32,0,Putback Layup Shot,0,-5,4,True
+Aaron Gordon,3,2,39,1,Putback Layup Shot,1,-9,5,True
+Aaron Gordon,3,4,7,1,Putback Layup Shot,0,0,-6,True
+Aaron Gordon,3,2,28,1,Putback Layup Shot,0,0,-6,True
+Aaron Gordon,4,2,1,1,Reverse Dunk Shot,0,-3,3,True
+Aaron Gordon,3,7,12,1,Reverse Dunk Shot,0,9,3,True
+Aaron Gordon,1,7,52,1,Reverse Dunk Shot,1,-4,19,True
+Aaron Gordon,3,8,31,1,Reverse Dunk Shot,0,-5,6,True
+Aaron Gordon,1,6,30,1,Reverse Layup Shot,1,-6,13,True
+Aaron Gordon,3,3,0,1,Reverse Layup Shot,1,-1,11,True
+Aaron Gordon,4,2,27,0,Reverse Layup Shot,1,11,1,True
+Aaron Gordon,3,2,7,0,Reverse Layup Shot,2,25,0,True
+Aaron Gordon,1,10,4,1,Reverse Layup Shot,1,-13,11,True
+Aaron Gordon,2,4,3,1,Running Alley Oop Dunk Shot,1,-9,11,True
+Aaron Gordon,1,7,31,1,Running Alley Oop Dunk Shot,1,-2,11,True
+Aaron Gordon,1,4,58,1,Running Alley Oop Dunk Shot,1,11,6,True
+Aaron Gordon,3,10,25,1,Running Alley Oop Dunk Shot,0,-2,3,True
+Aaron Gordon,2,3,15,1,Running Alley Oop Dunk Shot,1,-3,17,True
+Aaron Gordon,1,8,14,1,Running Alley Oop Dunk Shot,2,23,3,True
+Aaron Gordon,1,8,0,1,Running Alley Oop Dunk Shot,1,2,17,True
+Aaron Gordon,2,1,34,1,Running Dunk Shot,0,5,1,True
+Aaron Gordon,4,1,36,1,Running Dunk Shot,1,-9,13,True
+Aaron Gordon,4,8,59,1,Running Dunk Shot,1,-2,12,True
+Aaron Gordon,3,11,37,1,Running Dunk Shot,1,3,10,True
+Aaron Gordon,1,8,58,1,Running Dunk Shot,2,0,25,True
+Aaron Gordon,4,7,41,1,Running Dunk Shot,1,-12,2,True
+Aaron Gordon,1,0,44,1,Running Dunk Shot,0,2,4,True
+Aaron Gordon,1,9,52,1,Running Dunk Shot,3,34,11,True
+Aaron Gordon,1,7,5,1,Running Dunk Shot,1,-8,15,True
+Aaron Gordon,2,2,27,1,Running Dunk Shot,1,0,13,True
+Aaron Gordon,3,9,44,1,Running Dunk Shot,0,0,7,True
+Aaron Gordon,1,1,24,0,Running Finger Roll Layup Shot,2,27,13,True
+Aaron Gordon,2,0,3,1,Running Finger Roll Layup Shot,3,8,31,True
+Aaron Gordon,1,7,11,0,Running Jump Shot,4,-46,15,True
+Aaron Gordon,1,8,18,0,Running Jump Shot,20,82,187,True
+Aaron Gordon,3,1,56,1,Running Jump Shot,13,77,108,True
+Aaron Gordon,1,6,12,0,Running Jump Shot,22,224,-1,False
+Aaron Gordon,1,9,4,0,Running Jump Shot,25,174,193,False
+Aaron Gordon,1,8,22,0,Running Jump Shot,26,157,216,False
+Aaron Gordon,1,9,2,0,Running Jump Shot,3,3,39,True
+Aaron Gordon,2,3,2,1,Running Jump Shot,22,-227,19,False
+Aaron Gordon,1,7,56,0,Running Jump Shot,6,54,35,True
+Aaron Gordon,2,0,27,0,Running Jump Shot,16,-127,100,True
+Aaron Gordon,1,7,25,0,Running Jump Shot,26,92,250,False
+Aaron Gordon,1,9,2,0,Running Layup Shot,4,30,31,True
+Aaron Gordon,3,6,20,1,Running Layup Shot,2,-25,-4,True
+Aaron Gordon,3,4,15,0,Running Layup Shot,1,-4,19,True
+Aaron Gordon,1,10,38,0,Running Layup Shot,2,-20,19,True
+Aaron Gordon,3,9,47,0,Running Layup Shot,1,-1,15,True
+Aaron Gordon,2,9,43,1,Running Layup Shot,1,-14,6,True
+Aaron Gordon,3,10,27,0,Running Layup Shot,6,-30,57,True
+Aaron Gordon,1,11,7,0,Running Layup Shot,1,-13,1,True
+Aaron Gordon,2,3,11,1,Running Layup Shot,2,16,14,True
+Aaron Gordon,2,0,39,1,Running Layup Shot,1,-3,14,True
+Aaron Gordon,1,10,15,1,Running Layup Shot,1,-9,13,True
+Aaron Gordon,4,3,17,1,Running Layup Shot,2,-20,0,True
+Aaron Gordon,1,0,4,0,Running Pull-Up Jump Shot,26,5,260,False
+Aaron Gordon,3,4,48,0,Running Pull-Up Jump Shot,22,-222,-7,False
+Aaron Gordon,2,6,44,1,Running Reverse Dunk Shot,1,-6,9,True
+Aaron Gordon,3,10,27,0,Running Reverse Layup Shot,2,18,17,True
+Aaron Gordon,3,7,31,0,Step Back Bank Jump Shot,7,72,19,True
+Aaron Gordon,3,3,52,0,Step Back Jump shot,27,-112,251,False
+Aaron Gordon,1,4,34,0,Step Back Jump shot,25,-129,216,False
+Aaron Gordon,1,10,3,0,Step Back Jump shot,25,-14,252,False
+Aaron Gordon,4,2,21,0,Step Back Jump shot,25,9,254,False
+Aaron Gordon,4,6,27,0,Step Back Jump shot,17,99,142,True
+Aaron Gordon,3,6,48,1,Step Back Jump shot,24,-143,201,False
+Aaron Gordon,3,8,56,0,Step Back Jump shot,18,-112,146,True
+Aaron Gordon,1,11,19,0,Step Back Jump shot,24,-146,198,False
+Aaron Gordon,1,10,24,0,Step Back Jump shot,13,-52,121,True
+Aaron Gordon,1,1,48,0,Step Back Jump shot,25,-127,217,False
+Aaron Gordon,4,0,51,1,Step Back Jump shot,22,-226,13,False
+Aaron Gordon,2,3,58,0,Step Back Jump shot,20,-25,201,True
+Aaron Gordon,3,5,44,1,Step Back Jump shot,29,-170,244,False
+Aaron Gordon,3,0,22,1,Step Back Jump shot,16,117,116,True
+Aaron Gordon,1,8,7,1,Step Back Jump shot,10,44,99,True
+Aaron Gordon,1,0,51,1,Step Back Jump shot,25,-126,222,False
+Aaron Gordon,1,1,57,0,Step Back Jump shot,18,-187,-11,True
+Aaron Gordon,4,0,16,0,Step Back Jump shot,25,-185,181,False
+Aaron Gordon,4,8,31,0,Step Back Jump shot,28,-107,262,False
+Aaron Gordon,3,8,4,0,Step Back Jump shot,18,93,156,True
+Aaron Gordon,4,6,37,0,Step Back Jump shot,24,-230,75,False
+Aaron Gordon,3,8,42,1,Step Back Jump shot,7,-73,20,True
+Aaron Gordon,3,3,27,0,Step Back Jump shot,11,101,49,True
+Aaron Gordon,1,4,29,1,Step Back Jump shot,18,182,-1,True
+Aaron Gordon,1,2,20,0,Step Back Jump shot,16,-38,162,True
+Aaron Gordon,3,4,27,1,Step Back Jump shot,12,-7,127,True
+Aaron Gordon,2,2,58,0,Step Back Jump shot,16,-162,-2,True
+Aaron Gordon,3,10,42,0,Step Back Jump shot,21,-186,117,True
+Aaron Gordon,1,8,41,1,Step Back Jump shot,25,192,169,False
+Aaron Gordon,1,8,2,0,Step Back Jump shot,26,-89,247,False
+Aaron Gordon,1,11,24,1,Step Back Jump shot,15,159,-12,True
+Aaron Gordon,3,6,55,0,Step Back Jump shot,22,-221,16,False
+Aaron Gordon,4,4,12,1,Step Back Jump shot,13,-133,43,True
+Aaron Gordon,5,4,15,0,Step Back Jump shot,26,116,235,False
+Aaron Gordon,1,1,39,1,Step Back Jump shot,15,67,136,True
+Aaron Gordon,2,2,58,0,Step Back Jump shot,23,-232,19,False
+Aaron Gordon,3,9,18,0,Step Back Jump shot,13,-20,136,True
+Aaron Gordon,3,1,13,1,Step Back Jump shot,26,-212,152,False
+Aaron Gordon,1,2,44,0,Step Back Jump shot,17,-67,157,True
+Aaron Gordon,2,1,28,1,Tip Dunk Shot,0,0,-6,True
+Aaron Gordon,4,1,49,1,Tip Dunk Shot,2,0,22,True
+Aaron Gordon,3,7,4,1,Tip Layup Shot,0,0,-6,True
+Aaron Gordon,1,7,55,0,Tip Layup Shot,0,0,-6,True
+Aaron Gordon,1,5,58,1,Tip Layup Shot,0,0,-6,True
+Aaron Gordon,1,8,12,1,Tip Layup Shot,1,-5,9,True
+Aaron Gordon,1,4,23,0,Tip Layup Shot,1,-5,10,True
+Aaron Gordon,2,1,0,0,Tip Layup Shot,0,0,-6,True
+Aaron Gordon,1,9,23,1,Tip Layup Shot,0,0,-6,True
+Aaron Gordon,1,2,18,1,Tip Layup Shot,0,0,-6,True
+Aaron Gordon,1,11,20,0,Tip Layup Shot,2,1,20,True
+Aaron Gordon,2,2,14,1,Tip Layup Shot,0,0,-6,True
+Aaron Gordon,1,7,34,1,Tip Layup Shot,0,0,-6,True
+Aaron Gordon,1,4,13,1,Tip Layup Shot,0,0,-6,True
+Aaron Gordon,2,2,14,0,Tip Layup Shot,0,0,-6,True
+Aaron Gordon,1,5,37,0,Tip Layup Shot,0,0,-6,True
+Aaron Gordon,2,3,59,0,Tip Layup Shot,0,0,-6,True
+Aaron Gordon,1,7,8,1,Tip Layup Shot,0,0,-6,True
+Aaron Gordon,4,6,20,1,Tip Layup Shot,0,0,-6,True
+Aaron Gordon,4,0,49,1,Turnaround Fadeaway Bank Jump Shot,16,-148,76,True
+Aaron Gordon,1,5,10,1,Turnaround Fadeaway Bank Jump Shot,7,-69,26,True
+Aaron Gordon,1,5,19,1,Turnaround Fadeaway Bank Jump Shot,10,-103,22,True
+Aaron Gordon,1,3,50,0,Turnaround Fadeaway shot,16,101,131,True
+Aaron Gordon,1,6,20,1,Turnaround Fadeaway shot,10,76,74,True
+Aaron Gordon,1,1,19,0,Turnaround Fadeaway shot,7,-41,60,True
+Aaron Gordon,4,1,47,0,Turnaround Fadeaway shot,15,-72,141,True
+Aaron Gordon,3,3,26,0,Turnaround Fadeaway shot,14,-142,36,True
+Aaron Gordon,3,11,42,0,Turnaround Fadeaway shot,13,-131,17,True
+Aaron Gordon,4,5,0,0,Turnaround Fadeaway shot,16,-92,138,True
+Aaron Gordon,1,6,31,1,Turnaround Fadeaway shot,11,-112,1,True
+Aaron Gordon,1,0,58,0,Turnaround Fadeaway shot,13,-116,61,True
+Aaron Gordon,3,8,50,0,Turnaround Fadeaway shot,9,-95,-3,True
+Aaron Gordon,3,2,42,1,Turnaround Fadeaway shot,14,-115,83,True
+Aaron Gordon,1,7,24,1,Turnaround Fadeaway shot,16,106,122,True
+Aaron Gordon,3,11,24,1,Turnaround Fadeaway shot,12,21,122,True
+Aaron Gordon,4,2,24,0,Turnaround Fadeaway shot,12,92,90,True
+Aaron Gordon,1,11,43,1,Turnaround Fadeaway shot,15,-143,50,True
+Aaron Gordon,1,0,31,1,Turnaround Fadeaway shot,8,-36,80,True
+Aaron Gordon,1,1,56,0,Turnaround Jump Shot,16,-166,20,True
+Aaron Gordon,2,3,10,0,Turnaround Jump Shot,9,-27,88,True
+Aaron Gordon,3,9,50,1,Turnaround Jump Shot,8,-84,13,True
+Aaron Gordon,1,8,17,0,Turnaround Jump Shot,13,-93,95,True
+Aaron Gordon,4,7,28,1,Turnaround Jump Shot,17,-93,146,True
+Aaron Gordon,1,7,5,1,Turnaround Jump Shot,11,-31,110,True
+Aaron Gordon,1,4,13,0,Turnaround Jump Shot,12,66,106,True
+Aaron Gordon,1,0,30,1,Turnaround Jump Shot,16,60,151,True
+Aaron Gordon,3,7,3,0,Turnaround Jump Shot,16,-73,144,True
+Aaron Gordon,2,3,7,1,Turnaround Jump Shot,8,-76,26,True
+Aaron Gordon,3,8,30,0,Turnaround Jump Shot,10,-107,-3,True
+Aaron Gordon,2,3,26,1,Turnaround Jump Shot,10,105,4,True
+Aaron Gordon,1,1,23,0,Turnaround Jump Shot,25,-112,232,False
+Aaron Gordon,3,10,56,1,Turnaround Jump Shot,3,-9,37,True
+Aaron Gordon,1,10,30,1,Turnaround Jump Shot,12,50,115,True
+Aaron Gordon,3,9,58,0,Turnaround Jump Shot,17,-57,170,True
+Aaron Gordon,1,3,12,1,Turnaround Jump Shot,15,-22,156,True
+Aaron Gordon,1,8,30,0,Turnaround Jump Shot,7,-70,6,True
+Aaron Gordon,1,5,17,1,Turnaround Jump Shot,7,-5,78,True
+Aaron Gordon,1,9,56,0,Turnaround Jump Shot,19,20,190,True
+Aaron Gordon,3,1,13,1,Turnaround Jump Shot,2,-16,14,True

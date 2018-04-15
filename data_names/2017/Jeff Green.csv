@@ -1,0 +1,554 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Jeff Green,2,3,31,1,Alley Oop Dunk Shot,1,13,4,True
+Jeff Green,4,8,29,1,Alley Oop Dunk Shot,1,-10,0,True
+Jeff Green,2,6,24,1,Alley Oop Dunk Shot,1,-3,12,True
+Jeff Green,2,8,7,1,Alley Oop Dunk Shot,1,-12,12,True
+Jeff Green,1,11,0,1,Alley Oop Dunk Shot,0,-7,4,True
+Jeff Green,4,11,29,1,Alley Oop Dunk Shot,0,-7,7,True
+Jeff Green,4,11,15,1,Alley Oop Dunk Shot,1,5,13,True
+Jeff Green,4,3,5,1,Alley Oop Dunk Shot,0,5,3,True
+Jeff Green,2,7,17,1,Alley Oop Dunk Shot,2,-3,24,True
+Jeff Green,1,9,17,1,Alley Oop Layup shot,1,6,12,True
+Jeff Green,4,10,3,1,Alley Oop Layup shot,2,5,21,True
+Jeff Green,3,4,13,1,Alley Oop Layup shot,1,-9,8,True
+Jeff Green,2,4,28,1,Cutting Dunk Shot,1,-12,7,True
+Jeff Green,4,10,42,1,Cutting Dunk Shot,2,3,26,True
+Jeff Green,4,8,26,1,Cutting Dunk Shot,2,-3,20,True
+Jeff Green,1,3,49,1,Cutting Dunk Shot,0,9,-2,True
+Jeff Green,2,10,34,1,Cutting Dunk Shot,2,3,21,True
+Jeff Green,3,1,29,1,Cutting Dunk Shot,0,0,4,True
+Jeff Green,4,3,16,1,Cutting Dunk Shot,1,-3,11,True
+Jeff Green,2,7,14,1,Cutting Dunk Shot,0,-1,5,True
+Jeff Green,4,2,10,1,Cutting Dunk Shot,1,9,6,True
+Jeff Green,4,6,55,1,Cutting Dunk Shot,0,0,4,True
+Jeff Green,2,2,40,1,Cutting Dunk Shot,1,13,11,True
+Jeff Green,2,10,25,1,Cutting Dunk Shot,2,19,16,True
+Jeff Green,4,1,43,1,Cutting Dunk Shot,1,9,13,True
+Jeff Green,2,11,50,1,Cutting Dunk Shot,1,-6,11,True
+Jeff Green,3,2,41,1,Cutting Dunk Shot,1,5,13,True
+Jeff Green,3,1,31,1,Cutting Dunk Shot,1,14,4,True
+Jeff Green,2,10,59,1,Cutting Dunk Shot,1,-3,10,True
+Jeff Green,1,9,58,1,Cutting Dunk Shot,0,0,0,True
+Jeff Green,2,9,39,1,Cutting Finger Roll Layup Shot,1,-4,16,True
+Jeff Green,3,2,36,1,Cutting Layup Shot,1,-3,17,True
+Jeff Green,2,11,26,1,Cutting Layup Shot,0,7,-4,True
+Jeff Green,2,8,26,0,Cutting Layup Shot,1,-5,12,True
+Jeff Green,2,8,28,1,Cutting Layup Shot,1,10,2,True
+Jeff Green,3,1,34,1,Cutting Layup Shot,2,2,20,True
+Jeff Green,3,9,19,1,Cutting Layup Shot,1,-5,9,True
+Jeff Green,3,4,43,0,Cutting Layup Shot,2,-18,17,True
+Jeff Green,4,9,14,1,Cutting Layup Shot,2,-3,26,True
+Jeff Green,3,8,25,0,Cutting Layup Shot,1,7,11,True
+Jeff Green,2,7,13,0,Cutting Layup Shot,2,-5,24,True
+Jeff Green,2,11,29,1,Cutting Layup Shot,1,-2,16,True
+Jeff Green,4,4,26,1,Cutting Layup Shot,0,-5,-2,True
+Jeff Green,4,11,24,1,Cutting Layup Shot,1,-1,13,True
+Jeff Green,3,7,24,0,Cutting Layup Shot,1,16,10,True
+Jeff Green,2,0,39,0,Cutting Layup Shot,2,11,18,True
+Jeff Green,4,8,50,0,Cutting Layup Shot,3,20,25,True
+Jeff Green,1,2,50,1,Cutting Layup Shot,0,-2,7,True
+Jeff Green,2,10,20,1,Cutting Layup Shot,1,-2,17,True
+Jeff Green,2,6,42,1,Driving Bank Hook Shot,2,16,19,True
+Jeff Green,2,9,8,1,Driving Bank Hook Shot,7,51,56,True
+Jeff Green,2,5,15,1,Driving Dunk Shot,1,5,17,True
+Jeff Green,2,11,19,1,Driving Dunk Shot,2,5,28,True
+Jeff Green,1,2,55,1,Driving Dunk Shot,0,-3,4,True
+Jeff Green,1,11,2,1,Driving Dunk Shot,1,-5,10,True
+Jeff Green,1,2,46,0,Driving Dunk Shot,1,0,11,True
+Jeff Green,2,7,58,1,Driving Dunk Shot,0,-2,9,True
+Jeff Green,4,4,23,1,Driving Dunk Shot,1,6,8,True
+Jeff Green,2,4,48,1,Driving Dunk Shot,0,-1,6,True
+Jeff Green,2,7,12,1,Driving Finger Roll Layup Shot,1,7,14,True
+Jeff Green,2,9,2,1,Driving Finger Roll Layup Shot,1,-8,6,True
+Jeff Green,3,8,1,0,Driving Finger Roll Layup Shot,1,8,16,True
+Jeff Green,2,7,52,1,Driving Finger Roll Layup Shot,0,-3,6,True
+Jeff Green,4,9,16,0,Driving Finger Roll Layup Shot,2,-17,16,True
+Jeff Green,1,2,3,0,Driving Floating Bank Jump Shot,7,54,50,True
+Jeff Green,3,0,58,1,Driving Floating Bank Jump Shot,2,25,16,True
+Jeff Green,4,11,22,1,Driving Floating Jump Shot,6,13,59,True
+Jeff Green,4,10,13,1,Driving Floating Jump Shot,10,94,45,True
+Jeff Green,2,0,3,0,Driving Floating Jump Shot,7,-32,67,True
+Jeff Green,2,3,27,1,Driving Floating Jump Shot,4,-11,46,True
+Jeff Green,4,10,6,1,Driving Floating Jump Shot,6,-5,61,True
+Jeff Green,2,6,59,0,Driving Floating Jump Shot,4,-1,48,True
+Jeff Green,3,0,22,1,Driving Floating Jump Shot,4,1,48,True
+Jeff Green,4,9,5,0,Driving Floating Jump Shot,10,30,101,True
+Jeff Green,3,1,42,0,Driving Floating Jump Shot,6,0,67,True
+Jeff Green,2,5,6,0,Driving Floating Jump Shot,2,0,21,True
+Jeff Green,2,8,45,0,Driving Floating Jump Shot,7,19,68,True
+Jeff Green,4,3,48,0,Driving Hook Shot,9,-13,94,True
+Jeff Green,4,10,51,0,Driving Hook Shot,2,9,26,True
+Jeff Green,2,9,50,1,Driving Hook Shot,6,-5,63,True
+Jeff Green,4,11,39,1,Driving Layup Shot,1,14,5,True
+Jeff Green,1,10,23,0,Driving Layup Shot,2,18,16,True
+Jeff Green,3,1,10,1,Driving Layup Shot,3,34,8,True
+Jeff Green,2,0,10,1,Driving Layup Shot,1,-2,15,True
+Jeff Green,4,9,50,1,Driving Layup Shot,0,8,4,True
+Jeff Green,4,10,11,1,Driving Layup Shot,1,16,8,True
+Jeff Green,4,10,53,1,Driving Layup Shot,1,11,-2,True
+Jeff Green,2,7,41,0,Driving Layup Shot,0,-6,5,True
+Jeff Green,4,10,54,1,Driving Layup Shot,2,14,18,True
+Jeff Green,3,2,25,0,Driving Layup Shot,1,1,14,True
+Jeff Green,2,8,4,1,Driving Layup Shot,2,25,14,True
+Jeff Green,3,1,3,0,Driving Layup Shot,8,-79,31,True
+Jeff Green,2,10,53,0,Driving Layup Shot,3,-27,16,True
+Jeff Green,2,4,0,1,Driving Layup Shot,4,-19,36,True
+Jeff Green,2,7,43,1,Driving Layup Shot,1,-3,13,True
+Jeff Green,3,0,54,1,Driving Layup Shot,3,-23,20,True
+Jeff Green,4,7,45,1,Driving Layup Shot,2,19,21,True
+Jeff Green,4,8,21,0,Driving Layup Shot,1,4,12,True
+Jeff Green,1,4,23,0,Driving Layup Shot,3,-6,38,True
+Jeff Green,2,11,46,0,Driving Layup Shot,4,40,24,True
+Jeff Green,2,7,15,1,Driving Layup Shot,2,8,23,True
+Jeff Green,1,0,55,1,Driving Layup Shot,2,-2,25,True
+Jeff Green,2,10,41,1,Driving Layup Shot,3,-2,31,True
+Jeff Green,3,11,41,1,Driving Layup Shot,2,13,19,True
+Jeff Green,4,3,55,0,Driving Layup Shot,2,-20,8,True
+Jeff Green,2,4,10,0,Driving Layup Shot,4,27,34,True
+Jeff Green,2,9,33,0,Driving Layup Shot,3,35,7,True
+Jeff Green,2,3,17,1,Driving Layup Shot,1,8,16,True
+Jeff Green,3,6,46,1,Driving Layup Shot,3,8,29,True
+Jeff Green,1,2,47,0,Driving Layup Shot,6,49,38,True
+Jeff Green,1,0,10,1,Driving Layup Shot,0,6,0,True
+Jeff Green,2,7,37,0,Driving Layup Shot,3,8,32,True
+Jeff Green,2,3,37,0,Driving Layup Shot,6,29,59,True
+Jeff Green,2,10,37,0,Driving Layup Shot,1,-9,15,True
+Jeff Green,2,11,43,1,Driving Layup Shot,2,-14,15,True
+Jeff Green,1,2,48,1,Driving Layup Shot,2,4,21,True
+Jeff Green,2,6,30,1,Driving Layup Shot,1,2,15,True
+Jeff Green,1,10,50,1,Driving Layup Shot,0,2,6,True
+Jeff Green,4,5,3,1,Driving Layup Shot,2,20,1,True
+Jeff Green,1,1,39,1,Driving Layup Shot,0,6,4,True
+Jeff Green,3,1,28,1,Driving Layup Shot,1,4,15,True
+Jeff Green,2,10,12,0,Driving Layup Shot,1,10,13,True
+Jeff Green,1,2,41,0,Driving Layup Shot,3,26,20,True
+Jeff Green,1,11,22,0,Driving Layup Shot,3,-26,27,True
+Jeff Green,1,0,0,0,Driving Layup Shot,1,9,6,True
+Jeff Green,4,10,54,1,Driving Layup Shot,2,-2,20,True
+Jeff Green,4,9,27,1,Driving Layup Shot,0,4,4,True
+Jeff Green,2,11,54,0,Driving Layup Shot,2,-15,21,True
+Jeff Green,1,2,18,1,Driving Layup Shot,1,-4,10,True
+Jeff Green,4,10,31,1,Driving Layup Shot,0,0,6,True
+Jeff Green,2,9,49,1,Driving Layup Shot,1,-3,11,True
+Jeff Green,4,7,18,0,Driving Layup Shot,1,-10,16,True
+Jeff Green,2,8,50,0,Driving Layup Shot,2,6,27,True
+Jeff Green,2,11,30,0,Driving Layup Shot,3,11,31,True
+Jeff Green,4,7,48,0,Driving Layup Shot,4,-1,41,True
+Jeff Green,4,9,40,0,Driving Layup Shot,3,19,24,True
+Jeff Green,2,8,31,0,Driving Layup Shot,2,19,16,True
+Jeff Green,4,6,8,1,Driving Layup Shot,0,5,6,True
+Jeff Green,3,10,55,1,Driving Layup Shot,1,5,12,True
+Jeff Green,2,5,7,1,Driving Reverse Layup Shot,1,-17,7,True
+Jeff Green,1,2,38,1,Dunk Shot,1,3,17,True
+Jeff Green,2,11,42,1,Dunk Shot,0,3,2,True
+Jeff Green,1,4,45,1,Dunk Shot,0,2,4,True
+Jeff Green,2,6,3,1,Dunk Shot,1,-12,8,True
+Jeff Green,2,4,52,1,Dunk Shot,0,-1,5,True
+Jeff Green,1,0,7,1,Dunk Shot,1,-4,11,True
+Jeff Green,4,5,27,0,Dunk Shot,1,18,0,True
+Jeff Green,2,8,40,0,Dunk Shot,1,-3,10,True
+Jeff Green,4,7,42,1,Dunk Shot,1,3,18,True
+Jeff Green,2,6,32,1,Dunk Shot,1,6,12,True
+Jeff Green,2,9,42,1,Fadeaway Jump Shot,17,161,56,True
+Jeff Green,3,8,48,0,Fadeaway Jump Shot,13,11,132,True
+Jeff Green,2,8,54,0,Floating Jump shot,6,2,68,True
+Jeff Green,4,0,50,0,Floating Jump shot,3,-15,31,True
+Jeff Green,2,6,29,0,Floating Jump shot,6,-5,64,True
+Jeff Green,4,1,18,0,Floating Jump shot,11,-93,69,True
+Jeff Green,2,0,33,0,Floating Jump shot,13,71,116,True
+Jeff Green,2,9,36,1,Floating Jump shot,1,1,17,True
+Jeff Green,2,11,16,0,Hook Bank Shot,2,27,12,True
+Jeff Green,1,11,21,1,Hook Bank Shot,1,11,-6,True
+Jeff Green,1,1,14,0,Hook Shot,10,-70,75,True
+Jeff Green,2,11,29,0,Hook Shot,1,-9,10,True
+Jeff Green,2,9,4,1,Hook Shot,7,-55,49,True
+Jeff Green,3,11,26,0,Hook Shot,8,-21,87,True
+Jeff Green,1,4,51,1,Hook Shot,2,27,6,True
+Jeff Green,4,7,38,0,Hook Shot,9,-36,86,True
+Jeff Green,1,10,15,0,Hook Shot,1,-11,11,True
+Jeff Green,2,8,0,1,Hook Shot,13,-94,102,True
+Jeff Green,4,10,27,0,Hook Shot,2,-8,21,True
+Jeff Green,4,9,37,0,Hook Shot,7,-11,79,True
+Jeff Green,3,0,3,1,Hook Shot,4,-13,42,True
+Jeff Green,1,3,40,1,Hook Shot,7,-13,74,True
+Jeff Green,4,5,30,1,Hook Shot,6,-54,39,True
+Jeff Green,2,11,36,0,Hook Shot,8,-27,83,True
+Jeff Green,3,0,7,0,Jump Bank Shot,16,100,131,True
+Jeff Green,3,11,23,1,Jump Bank Shot,2,16,19,True
+Jeff Green,3,0,0,0,Jump Bank Shot,47,-47,477,False
+Jeff Green,1,1,5,0,Jump Bank Shot,27,187,197,False
+Jeff Green,2,10,44,0,Jump Bank Shot,9,44,80,True
+Jeff Green,4,9,9,0,Jump Shot,23,233,25,False
+Jeff Green,2,8,3,1,Jump Shot,25,-103,230,False
+Jeff Green,1,11,36,0,Jump Shot,23,234,24,False
+Jeff Green,2,9,24,0,Jump Shot,25,-76,241,False
+Jeff Green,1,4,30,1,Jump Shot,26,53,257,False
+Jeff Green,3,6,39,0,Jump Shot,25,147,210,False
+Jeff Green,4,6,48,1,Jump Shot,26,158,215,False
+Jeff Green,2,7,23,0,Jump Shot,26,-147,225,False
+Jeff Green,4,10,38,1,Jump Shot,26,-202,165,False
+Jeff Green,1,9,8,0,Jump Shot,23,-235,16,False
+Jeff Green,4,6,7,0,Jump Shot,25,-102,236,False
+Jeff Green,4,9,23,0,Jump Shot,24,-209,134,False
+Jeff Green,4,7,15,0,Jump Shot,3,15,28,True
+Jeff Green,1,1,57,0,Jump Shot,19,-197,-10,True
+Jeff Green,4,4,31,0,Jump Shot,24,-221,108,False
+Jeff Green,1,6,9,0,Jump Shot,23,230,-5,False
+Jeff Green,1,3,39,1,Jump Shot,25,-95,241,False
+Jeff Green,3,7,18,0,Jump Shot,23,235,40,False
+Jeff Green,1,7,48,1,Jump Shot,23,230,36,False
+Jeff Green,2,0,35,1,Jump Shot,26,-143,218,False
+Jeff Green,2,0,48,0,Jump Shot,24,130,207,False
+Jeff Green,3,5,35,0,Jump Shot,22,-227,8,False
+Jeff Green,4,9,46,0,Jump Shot,25,98,230,False
+Jeff Green,2,4,30,1,Jump Shot,1,9,14,True
+Jeff Green,2,4,55,0,Jump Shot,26,-122,230,False
+Jeff Green,4,8,2,0,Jump Shot,11,-71,85,True
+Jeff Green,4,7,16,0,Jump Shot,23,-233,-12,False
+Jeff Green,4,8,10,0,Jump Shot,26,171,201,False
+Jeff Green,3,5,44,0,Jump Shot,26,168,200,False
+Jeff Green,1,1,8,0,Jump Shot,23,-229,26,False
+Jeff Green,4,11,24,0,Jump Shot,24,-127,214,False
+Jeff Green,4,7,44,0,Jump Shot,25,174,180,False
+Jeff Green,2,9,31,0,Jump Shot,22,227,6,False
+Jeff Green,4,6,49,1,Jump Shot,26,34,258,False
+Jeff Green,4,8,43,1,Jump Shot,22,224,52,False
+Jeff Green,3,10,23,0,Jump Shot,22,228,23,False
+Jeff Green,2,9,12,0,Jump Shot,23,231,41,False
+Jeff Green,3,10,1,1,Jump Shot,17,-154,89,True
+Jeff Green,4,8,21,0,Jump Shot,23,226,58,False
+Jeff Green,3,1,49,1,Jump Shot,22,196,102,True
+Jeff Green,3,6,20,0,Jump Shot,26,-117,236,False
+Jeff Green,2,0,10,0,Jump Shot,28,-142,248,False
+Jeff Green,4,9,25,0,Jump Shot,11,57,96,True
+Jeff Green,1,1,40,0,Jump Shot,16,122,104,True
+Jeff Green,4,9,0,0,Jump Shot,22,-166,151,True
+Jeff Green,2,7,1,1,Jump Shot,23,-234,-5,False
+Jeff Green,2,9,17,0,Jump Shot,25,-165,191,False
+Jeff Green,4,4,48,0,Jump Shot,23,234,4,False
+Jeff Green,3,0,0,0,Jump Shot,23,236,19,False
+Jeff Green,3,7,18,0,Jump Shot,23,-223,68,False
+Jeff Green,2,9,51,1,Jump Shot,16,-165,-11,True
+Jeff Green,2,9,34,0,Jump Shot,14,108,91,True
+Jeff Green,1,3,24,1,Jump Shot,19,138,138,True
+Jeff Green,4,7,3,0,Jump Shot,26,147,218,False
+Jeff Green,1,4,7,0,Jump Shot,22,-187,123,True
+Jeff Green,4,8,30,0,Jump Shot,24,232,68,False
+Jeff Green,1,0,0,0,Jump Shot,65,-136,638,False
+Jeff Green,4,9,2,1,Jump Shot,17,82,151,True
+Jeff Green,3,1,17,0,Jump Shot,11,116,-11,True
+Jeff Green,2,11,45,0,Jump Shot,15,98,115,True
+Jeff Green,4,7,25,0,Jump Shot,4,1,48,True
+Jeff Green,4,4,22,0,Jump Shot,14,-97,106,True
+Jeff Green,3,4,4,0,Jump Shot,14,-67,127,True
+Jeff Green,1,1,23,1,Jump Shot,17,131,111,True
+Jeff Green,2,8,49,0,Jump Shot,24,218,122,False
+Jeff Green,4,7,10,0,Jump Shot,25,-161,193,False
+Jeff Green,3,0,27,1,Jump Shot,22,-226,16,False
+Jeff Green,1,7,51,0,Jump Shot,23,-232,36,False
+Jeff Green,4,8,29,0,Jump Shot,25,-73,249,False
+Jeff Green,4,2,22,0,Jump Shot,22,126,183,True
+Jeff Green,4,10,41,0,Jump Shot,25,201,153,False
+Jeff Green,4,8,57,0,Jump Shot,25,71,240,False
+Jeff Green,4,0,5,1,Jump Shot,25,144,208,False
+Jeff Green,4,0,40,1,Jump Shot,26,79,252,False
+Jeff Green,1,0,20,1,Jump Shot,22,222,-4,False
+Jeff Green,3,2,22,1,Jump Shot,19,-195,15,True
+Jeff Green,4,10,35,0,Jump Shot,20,105,181,True
+Jeff Green,1,0,1,0,Jump Shot,68,191,659,False
+Jeff Green,1,0,51,0,Jump Shot,22,-225,-8,False
+Jeff Green,4,0,14,0,Jump Shot,19,95,172,True
+Jeff Green,2,0,0,0,Jump Shot,54,206,509,False
+Jeff Green,4,1,8,0,Jump Shot,23,233,-6,False
+Jeff Green,1,1,45,0,Jump Shot,23,237,24,False
+Jeff Green,4,7,18,1,Jump Shot,24,233,81,False
+Jeff Green,2,8,59,1,Jump Shot,24,-42,243,False
+Jeff Green,1,2,4,1,Jump Shot,22,-223,-1,False
+Jeff Green,4,5,31,1,Jump Shot,24,105,223,False
+Jeff Green,4,1,59,0,Jump Shot,24,-118,214,False
+Jeff Green,2,7,2,0,Jump Shot,22,225,37,False
+Jeff Green,1,10,6,0,Jump Shot,23,-234,-15,False
+Jeff Green,3,5,55,1,Jump Shot,24,158,190,False
+Jeff Green,3,3,1,0,Jump Shot,7,-2,75,True
+Jeff Green,4,10,5,0,Jump Shot,15,-7,154,True
+Jeff Green,2,10,18,1,Jump Shot,26,115,237,False
+Jeff Green,2,10,57,0,Jump Shot,11,-52,106,True
+Jeff Green,2,8,21,0,Jump Shot,25,220,127,False
+Jeff Green,3,0,0,1,Jump Shot,21,169,130,True
+Jeff Green,1,10,53,0,Jump Shot,24,60,239,False
+Jeff Green,4,7,34,0,Jump Shot,23,-236,29,False
+Jeff Green,2,2,11,0,Jump Shot,25,133,222,False
+Jeff Green,2,6,11,1,Jump Shot,26,126,234,False
+Jeff Green,3,1,50,1,Jump Shot,26,-120,235,False
+Jeff Green,2,11,44,1,Jump Shot,24,242,38,False
+Jeff Green,4,5,47,0,Jump Shot,23,232,20,False
+Jeff Green,4,4,57,0,Jump Shot,8,-16,79,True
+Jeff Green,4,9,26,1,Jump Shot,23,232,19,False
+Jeff Green,4,10,21,0,Jump Shot,17,-154,80,True
+Jeff Green,3,5,23,0,Jump Shot,26,186,183,False
+Jeff Green,4,4,31,1,Jump Shot,16,145,69,True
+Jeff Green,1,0,0,0,Jump Shot,29,191,230,False
+Jeff Green,4,7,21,0,Jump Shot,22,227,27,False
+Jeff Green,3,0,4,0,Jump Shot,18,5,183,True
+Jeff Green,4,1,36,0,Jump Shot,26,-218,155,False
+Jeff Green,2,5,41,0,Jump Shot,17,171,40,True
+Jeff Green,2,11,36,1,Jump Shot,25,1,250,False
+Jeff Green,1,5,45,0,Jump Shot,20,188,75,True
+Jeff Green,2,10,0,0,Jump Shot,11,-78,81,True
+Jeff Green,2,5,11,1,Jump Shot,23,-235,21,False
+Jeff Green,3,5,1,0,Jump Shot,24,240,10,False
+Jeff Green,2,0,0,0,Jump Shot,61,223,570,False
+Jeff Green,2,9,52,0,Jump Shot,7,56,46,True
+Jeff Green,1,0,4,1,Jump Shot,23,-229,25,False
+Jeff Green,1,1,37,1,Jump Shot,16,-123,112,True
+Jeff Green,2,9,10,1,Jump Shot,16,15,164,True
+Jeff Green,4,1,35,0,Jump Shot,2,-15,25,True
+Jeff Green,4,0,55,1,Jump Shot,24,236,46,False
+Jeff Green,2,4,39,0,Jump Shot,12,-3,128,True
+Jeff Green,4,3,15,0,Jump Shot,24,-47,242,False
+Jeff Green,4,6,37,1,Jump Shot,0,-6,4,True
+Jeff Green,4,9,22,0,Jump Shot,23,229,36,False
+Jeff Green,1,0,45,1,Jump Shot,10,100,6,True
+Jeff Green,2,9,43,0,Jump Shot,21,-210,64,True
+Jeff Green,2,10,37,0,Jump Shot,14,135,55,True
+Jeff Green,4,2,38,0,Jump Shot,25,99,239,False
+Jeff Green,2,8,29,0,Jump Shot,13,-120,50,True
+Jeff Green,3,6,7,1,Jump Shot,23,232,13,False
+Jeff Green,4,10,32,0,Jump Shot,22,-150,168,True
+Jeff Green,2,0,14,1,Jump Shot,23,231,41,False
+Jeff Green,4,0,41,0,Jump Shot,29,2,292,False
+Jeff Green,3,7,28,1,Jump Shot,23,235,46,False
+Jeff Green,2,6,35,0,Jump Shot,25,-139,210,False
+Jeff Green,1,0,0,0,Jump Shot,58,52,578,False
+Jeff Green,3,5,6,0,Jump Shot,22,-222,15,False
+Jeff Green,1,0,0,0,Jump Shot,55,5,556,False
+Jeff Green,2,11,36,0,Jump Shot,2,-2,22,True
+Jeff Green,2,8,31,0,Jump Shot,22,12,225,True
+Jeff Green,4,11,48,0,Jump Shot,25,-166,200,False
+Jeff Green,4,6,41,1,Jump Shot,22,227,16,False
+Jeff Green,4,3,6,1,Jump Shot,23,231,5,False
+Jeff Green,4,4,17,0,Jump Shot,24,-237,49,False
+Jeff Green,4,4,49,0,Jump Shot,28,-148,238,False
+Jeff Green,3,0,32,0,Jump Shot,15,-58,144,True
+Jeff Green,4,0,19,0,Jump Shot,26,93,252,False
+Jeff Green,2,6,45,1,Jump Shot,25,-152,203,False
+Jeff Green,4,4,9,0,Jump Shot,1,13,13,True
+Jeff Green,2,8,12,1,Jump Shot,0,-4,-1,True
+Jeff Green,4,8,59,0,Jump Shot,23,-236,32,False
+Jeff Green,3,3,16,0,Jump Shot,18,32,186,True
+Jeff Green,3,0,44,1,Jump Shot,25,-148,209,False
+Jeff Green,4,10,31,0,Jump Shot,23,223,64,False
+Jeff Green,1,0,1,1,Jump Shot,22,169,151,True
+Jeff Green,3,4,40,1,Jump Shot,25,134,217,False
+Jeff Green,4,10,8,0,Jump Shot,22,-134,183,True
+Jeff Green,1,7,49,1,Jump Shot,26,163,204,False
+Jeff Green,2,6,18,1,Jump Shot,24,-236,46,False
+Jeff Green,4,0,0,0,Jump Shot,22,-228,16,False
+Jeff Green,2,7,47,1,Jump Shot,23,232,19,False
+Jeff Green,4,6,29,0,Jump Shot,14,132,55,True
+Jeff Green,4,1,47,1,Jump Shot,25,78,243,False
+Jeff Green,3,2,58,0,Jump Shot,5,-18,47,True
+Jeff Green,4,11,33,0,Jump Shot,25,112,227,False
+Jeff Green,4,9,44,0,Jump Shot,19,-130,139,True
+Jeff Green,2,7,34,0,Jump Shot,22,227,7,False
+Jeff Green,3,0,25,0,Jump Shot,12,61,106,True
+Jeff Green,1,0,10,1,Jump Shot,24,236,54,False
+Jeff Green,2,10,47,0,Jump Shot,20,149,142,True
+Jeff Green,3,1,1,0,Jump Shot,23,235,27,False
+Jeff Green,4,4,14,0,Jump Shot,27,190,199,False
+Jeff Green,2,9,55,0,Jump Shot,23,-230,1,False
+Jeff Green,1,2,26,0,Jump Shot,29,174,237,False
+Jeff Green,2,9,36,1,Jump Shot,25,127,221,False
+Jeff Green,3,0,0,0,Jump Shot,59,113,584,False
+Jeff Green,2,10,0,0,Jump Shot,17,166,48,True
+Jeff Green,1,0,34,0,Jump Shot,28,77,277,False
+Jeff Green,2,11,26,1,Jump Shot,23,231,43,False
+Jeff Green,3,3,57,0,Jump Shot,19,112,162,True
+Jeff Green,4,2,46,0,Jump Shot,22,220,47,False
+Jeff Green,2,9,21,1,Jump Shot,26,-94,243,False
+Jeff Green,3,0,13,0,Jump Shot,21,-217,-8,True
+Jeff Green,2,10,28,1,Jump Shot,18,169,86,True
+Jeff Green,4,11,27,0,Jump Shot,23,237,25,False
+Jeff Green,3,3,27,0,Jump Shot,23,116,200,True
+Jeff Green,4,4,16,0,Jump Shot,23,-234,24,False
+Jeff Green,2,9,10,1,Jump Shot,8,-52,68,True
+Jeff Green,2,10,12,0,Jump Shot,25,213,137,False
+Jeff Green,2,10,57,0,Jump Shot,26,-85,256,False
+Jeff Green,1,0,37,0,Jump Shot,14,23,142,True
+Jeff Green,1,8,5,0,Jump Shot,8,2,83,True
+Jeff Green,4,6,18,0,Jump Shot,22,228,30,False
+Jeff Green,3,10,53,0,Jump Shot,25,14,251,False
+Jeff Green,4,10,1,0,Jump Shot,23,230,6,False
+Jeff Green,2,9,34,0,Layup Shot,1,10,15,True
+Jeff Green,5,3,5,0,Layup Shot,3,35,3,True
+Jeff Green,1,2,37,1,Layup Shot,1,2,14,True
+Jeff Green,4,10,36,0,Layup Shot,1,13,6,True
+Jeff Green,3,1,45,0,Layup Shot,3,14,28,True
+Jeff Green,3,5,30,1,Layup Shot,0,5,6,True
+Jeff Green,1,11,15,1,Layup Shot,1,5,10,True
+Jeff Green,1,2,11,1,Layup Shot,0,-2,2,True
+Jeff Green,2,5,59,0,Layup Shot,2,18,12,True
+Jeff Green,2,10,58,1,Layup Shot,0,-1,6,True
+Jeff Green,4,3,4,1,Layup Shot,1,-16,5,True
+Jeff Green,3,0,50,1,Layup Shot,4,12,45,True
+Jeff Green,2,6,25,1,Layup Shot,0,-5,0,True
+Jeff Green,2,8,50,0,Layup Shot,1,-1,11,True
+Jeff Green,2,3,57,0,Layup Shot,2,4,26,True
+Jeff Green,2,11,44,1,Layup Shot,2,-7,22,True
+Jeff Green,4,3,54,1,Layup Shot,3,-4,31,True
+Jeff Green,3,0,28,1,Layup Shot,1,8,16,True
+Jeff Green,1,1,9,1,Layup Shot,1,-6,15,True
+Jeff Green,4,6,31,1,Layup Shot,1,3,17,True
+Jeff Green,1,2,5,0,Layup Shot,1,13,5,True
+Jeff Green,2,8,22,0,Layup Shot,1,5,15,True
+Jeff Green,2,9,41,0,Layup Shot,1,-6,10,True
+Jeff Green,2,5,44,0,Layup Shot,3,2,33,True
+Jeff Green,4,10,53,1,Layup Shot,0,5,3,True
+Jeff Green,2,8,55,1,Layup Shot,2,-14,15,True
+Jeff Green,1,3,2,0,Layup Shot,5,2,58,True
+Jeff Green,3,0,1,0,Layup Shot,1,0,16,True
+Jeff Green,4,11,24,1,Layup Shot,0,6,4,True
+Jeff Green,1,2,39,0,Layup Shot,0,-5,-1,True
+Jeff Green,4,10,6,0,Layup Shot,2,-18,10,True
+Jeff Green,2,8,18,0,Layup Shot,2,13,21,True
+Jeff Green,2,7,14,0,Layup Shot,10,-16,104,True
+Jeff Green,2,5,42,0,Layup Shot,3,-8,38,True
+Jeff Green,2,5,23,1,Layup Shot,1,5,17,True
+Jeff Green,4,8,3,1,Layup Shot,1,4,18,True
+Jeff Green,3,4,8,1,Layup Shot,2,13,22,True
+Jeff Green,3,2,40,1,Layup Shot,1,6,8,True
+Jeff Green,1,2,5,0,Layup Shot,0,1,0,True
+Jeff Green,2,10,6,0,Layup Shot,0,-9,4,True
+Jeff Green,2,9,46,0,Layup Shot,7,-23,76,True
+Jeff Green,2,6,10,0,Layup Shot,1,3,11,True
+Jeff Green,4,11,28,1,Layup Shot,2,-23,18,True
+Jeff Green,4,11,34,1,Layup Shot,0,2,9,True
+Jeff Green,4,6,18,1,Layup Shot,1,9,10,True
+Jeff Green,4,5,36,1,Layup Shot,4,-12,46,True
+Jeff Green,3,2,29,0,Pullup Jump shot,18,81,164,True
+Jeff Green,2,8,11,1,Pullup Jump shot,20,-110,176,True
+Jeff Green,2,10,52,1,Pullup Jump shot,11,69,95,True
+Jeff Green,2,7,29,1,Pullup Jump shot,25,220,125,False
+Jeff Green,3,0,43,0,Pullup Jump shot,18,3,187,True
+Jeff Green,4,9,7,1,Pullup Jump shot,24,122,211,False
+Jeff Green,1,0,3,1,Pullup Jump shot,20,-6,204,True
+Jeff Green,2,9,32,0,Pullup Jump shot,24,144,201,False
+Jeff Green,4,6,0,0,Pullup Jump shot,5,-12,54,True
+Jeff Green,4,1,39,1,Pullup Jump shot,23,-5,232,True
+Jeff Green,3,5,12,1,Pullup Jump shot,25,-150,201,False
+Jeff Green,4,6,15,1,Pullup Jump shot,18,148,117,True
+Jeff Green,2,9,44,0,Pullup Jump shot,10,75,74,True
+Jeff Green,3,4,43,0,Pullup Jump shot,13,105,82,True
+Jeff Green,3,4,11,1,Pullup Jump shot,16,85,143,True
+Jeff Green,4,8,25,0,Pullup Jump shot,19,100,162,True
+Jeff Green,2,0,45,1,Putback Dunk Shot,0,0,-6,True
+Jeff Green,4,5,15,1,Putback Dunk Shot,0,0,-6,True
+Jeff Green,1,10,18,1,Putback Layup Shot,0,0,-6,True
+Jeff Green,4,1,2,1,Putback Layup Shot,0,0,-6,True
+Jeff Green,2,11,44,0,Putback Layup Shot,2,22,13,True
+Jeff Green,4,4,17,0,Putback Layup Shot,0,0,-6,True
+Jeff Green,3,1,36,1,Putback Layup Shot,0,0,-6,True
+Jeff Green,2,10,48,1,Putback Layup Shot,0,-3,2,True
+Jeff Green,4,3,50,1,Putback Layup Shot,0,0,-6,True
+Jeff Green,3,5,0,0,Putback Layup Shot,1,-14,14,True
+Jeff Green,2,7,32,1,Putback Layup Shot,2,-17,18,True
+Jeff Green,2,3,34,0,Putback Layup Shot,2,25,11,True
+Jeff Green,3,3,19,0,Reverse Layup Shot,1,-14,8,True
+Jeff Green,2,6,14,0,Reverse Layup Shot,1,2,10,True
+Jeff Green,2,9,44,1,Reverse Layup Shot,0,-3,4,True
+Jeff Green,2,5,46,0,Reverse Layup Shot,1,9,6,True
+Jeff Green,4,5,39,0,Reverse Layup Shot,2,-16,13,True
+Jeff Green,2,11,49,1,Running Alley Oop Dunk Shot,0,0,4,True
+Jeff Green,2,9,7,1,Running Alley Oop Layup Shot,1,-13,6,True
+Jeff Green,1,1,59,1,Running Dunk Shot,0,5,4,True
+Jeff Green,4,11,31,1,Running Dunk Shot,2,6,20,True
+Jeff Green,2,4,37,1,Running Dunk Shot,1,2,15,True
+Jeff Green,3,0,22,1,Running Dunk Shot,0,9,4,True
+Jeff Green,2,5,47,1,Running Dunk Shot,1,-10,15,True
+Jeff Green,4,6,13,1,Running Dunk Shot,0,3,4,True
+Jeff Green,3,8,12,1,Running Dunk Shot,1,9,11,True
+Jeff Green,2,10,32,1,Running Dunk Shot,0,8,3,True
+Jeff Green,3,4,3,0,Running Dunk Shot,2,17,24,True
+Jeff Green,2,4,37,1,Running Dunk Shot,0,-9,2,True
+Jeff Green,3,6,24,1,Running Dunk Shot,2,7,20,True
+Jeff Green,4,7,53,1,Running Dunk Shot,0,6,3,True
+Jeff Green,3,0,39,1,Running Dunk Shot,1,-2,16,True
+Jeff Green,2,6,55,0,Running Jump Shot,6,12,59,True
+Jeff Green,4,4,1,0,Running Jump Shot,8,70,42,True
+Jeff Green,1,1,11,1,Running Layup Shot,1,-3,18,True
+Jeff Green,2,10,54,1,Running Layup Shot,2,0,25,True
+Jeff Green,4,10,30,1,Running Layup Shot,0,6,5,True
+Jeff Green,2,10,27,0,Running Layup Shot,1,3,11,True
+Jeff Green,4,6,20,1,Running Layup Shot,1,0,13,True
+Jeff Green,3,2,38,0,Running Layup Shot,2,7,22,True
+Jeff Green,2,8,57,0,Running Layup Shot,2,0,20,True
+Jeff Green,1,0,0,0,Running Pull-Up Jump Shot,31,0,313,False
+Jeff Green,3,0,4,1,Running Reverse Layup Shot,3,11,34,True
+Jeff Green,4,1,25,0,Step Back Jump shot,24,-239,42,False
+Jeff Green,3,0,0,0,Step Back Jump shot,23,228,67,False
+Jeff Green,3,1,22,0,Step Back Jump shot,14,143,42,True
+Jeff Green,3,4,31,0,Step Back Jump shot,18,189,6,True
+Jeff Green,1,0,53,0,Step Back Jump shot,14,20,147,True
+Jeff Green,2,11,43,0,Step Back Jump shot,17,70,161,True
+Jeff Green,1,1,28,1,Step Back Jump shot,18,140,123,True
+Jeff Green,2,2,14,1,Step Back Jump shot,23,236,26,False
+Jeff Green,4,10,21,0,Step Back Jump shot,10,80,67,True
+Jeff Green,4,0,12,1,Step Back Jump shot,23,-231,43,False
+Jeff Green,3,9,1,1,Step Back Jump shot,22,-199,97,True
+Jeff Green,4,10,19,1,Step Back Jump shot,20,67,197,True
+Jeff Green,2,11,2,0,Step Back Jump shot,24,131,203,False
+Jeff Green,2,10,6,1,Tip Layup Shot,0,0,-6,True
+Jeff Green,2,9,36,0,Tip Layup Shot,0,0,-6,True
+Jeff Green,2,10,14,1,Tip Layup Shot,0,0,-6,True
+Jeff Green,1,3,0,0,Tip Layup Shot,2,6,24,True
+Jeff Green,3,1,53,1,Tip Layup Shot,0,0,-6,True
+Jeff Green,1,10,11,1,Tip Layup Shot,0,0,-6,True
+Jeff Green,3,4,56,1,Tip Layup Shot,0,0,-6,True
+Jeff Green,2,9,51,0,Tip Layup Shot,0,1,-1,True
+Jeff Green,1,2,18,1,Tip Layup Shot,0,0,-6,True
+Jeff Green,2,11,23,0,Tip Layup Shot,0,0,-6,True
+Jeff Green,2,8,21,1,Tip Layup Shot,0,0,-6,True
+Jeff Green,3,0,0,1,Tip Layup Shot,2,-1,23,True
+Jeff Green,1,4,22,1,Tip Layup Shot,2,2,27,True
+Jeff Green,2,6,18,1,Tip Layup Shot,0,0,-6,True
+Jeff Green,1,0,57,1,Tip Layup Shot,0,0,-6,True
+Jeff Green,2,0,35,1,Tip Layup Shot,0,0,-6,True
+Jeff Green,3,1,55,1,Turnaround Bank Hook Shot,5,33,39,True
+Jeff Green,1,3,8,1,Turnaround Fadeaway Bank Jump Shot,3,29,13,True
+Jeff Green,1,1,13,1,Turnaround Fadeaway shot,11,-105,35,True
+Jeff Green,1,9,25,1,Turnaround Fadeaway shot,8,84,2,True
+Jeff Green,1,3,50,0,Turnaround Fadeaway shot,10,-105,3,True
+Jeff Green,2,5,6,1,Turnaround Fadeaway shot,8,80,18,True
+Jeff Green,2,10,36,0,Turnaround Fadeaway shot,13,114,69,True
+Jeff Green,4,1,17,0,Turnaround Fadeaway shot,6,29,58,True
+Jeff Green,2,3,3,1,Turnaround Fadeaway shot,13,138,17,True
+Jeff Green,2,2,28,0,Turnaround Fadeaway shot,10,-101,-3,True
+Jeff Green,4,10,49,1,Turnaround Fadeaway shot,17,100,138,True
+Jeff Green,2,9,28,1,Turnaround Hook Shot,7,-35,62,True
+Jeff Green,4,8,20,1,Turnaround Hook Shot,10,95,34,True
+Jeff Green,4,3,23,1,Turnaround Hook Shot,1,2,15,True
+Jeff Green,1,5,15,0,Turnaround Hook Shot,8,28,77,True
+Jeff Green,1,1,6,0,Turnaround Hook Shot,3,-32,20,True
+Jeff Green,4,5,46,1,Turnaround Hook Shot,3,-5,31,True
+Jeff Green,2,7,10,0,Turnaround Hook Shot,7,22,75,True
+Jeff Green,2,7,53,1,Turnaround Hook Shot,6,-8,61,True
+Jeff Green,1,0,43,0,Turnaround Hook Shot,12,-98,81,True
+Jeff Green,3,10,32,0,Turnaround Hook Shot,7,55,55,True
+Jeff Green,2,7,45,0,Turnaround Hook Shot,7,73,18,True
+Jeff Green,3,3,24,1,Turnaround Hook Shot,1,-12,13,True
+Jeff Green,2,11,28,0,Turnaround Jump Shot,4,18,46,True
+Jeff Green,4,8,55,0,Turnaround Jump Shot,25,114,232,False
+Jeff Green,1,2,19,0,Turnaround Jump Shot,8,10,81,True
+Jeff Green,4,11,20,0,Turnaround Jump Shot,12,-127,12,True
+Jeff Green,2,4,6,0,Turnaround Jump Shot,11,-111,27,True
+Jeff Green,4,11,11,1,Turnaround Jump Shot,14,142,21,True
+Jeff Green,3,5,21,1,Turnaround Jump Shot,8,43,73,True
+Jeff Green,1,9,12,0,Turnaround Jump Shot,12,-121,44,True
+Jeff Green,3,1,18,1,Turnaround Jump Shot,9,-96,-1,True
+Jeff Green,4,10,43,1,Turnaround Jump Shot,12,-101,79,True
+Jeff Green,4,7,23,1,Turnaround Jump Shot,10,98,20,True
+Jeff Green,2,7,5,0,Turnaround Jump Shot,17,-86,156,True
+Jeff Green,4,9,17,0,Turnaround Jump Shot,30,19,304,False
+Jeff Green,3,2,42,0,Turnaround Jump Shot,11,56,101,True
+Jeff Green,2,9,57,0,Turnaround Jump Shot,12,128,21,True
+Jeff Green,1,10,35,1,Turnaround Jump Shot,7,78,15,True

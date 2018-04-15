@@ -1,0 +1,1147 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Khris Middleton,4,1,30,1,Alley Oop Dunk Shot,1,3,13,True
+Khris Middleton,3,9,8,1,Alley Oop Layup shot,1,8,8,True
+Khris Middleton,2,5,6,1,Alley Oop Layup shot,1,10,8,True
+Khris Middleton,3,9,18,1,Cutting Finger Roll Layup Shot,4,-16,37,True
+Khris Middleton,1,8,22,0,Cutting Finger Roll Layup Shot,4,-3,41,True
+Khris Middleton,3,10,48,1,Cutting Layup Shot,1,-8,14,True
+Khris Middleton,1,4,23,1,Cutting Layup Shot,1,-8,14,True
+Khris Middleton,3,11,12,1,Cutting Layup Shot,4,32,24,True
+Khris Middleton,4,10,51,1,Driving Bank Hook Shot,6,36,48,True
+Khris Middleton,3,2,0,1,Driving Dunk Shot,1,-11,9,True
+Khris Middleton,2,6,33,1,Driving Dunk Shot,0,-3,7,True
+Khris Middleton,2,0,10,1,Driving Dunk Shot,1,-5,15,True
+Khris Middleton,3,1,4,1,Driving Dunk Shot,0,-1,6,True
+Khris Middleton,4,1,9,1,Driving Dunk Shot,1,5,13,True
+Khris Middleton,2,4,4,0,Driving Dunk Shot,1,-3,13,True
+Khris Middleton,2,9,1,1,Driving Dunk Shot,1,8,7,True
+Khris Middleton,3,7,16,0,Driving Dunk Shot,1,-3,16,True
+Khris Middleton,3,3,57,1,Driving Dunk Shot,1,-9,13,True
+Khris Middleton,4,8,5,1,Driving Finger Roll Layup Shot,1,0,19,True
+Khris Middleton,2,11,35,1,Driving Floating Bank Jump Shot,4,41,6,True
+Khris Middleton,1,1,0,1,Driving Floating Bank Jump Shot,6,-69,-1,True
+Khris Middleton,1,10,2,1,Driving Floating Bank Jump Shot,8,67,52,True
+Khris Middleton,4,8,53,1,Driving Floating Bank Jump Shot,7,-70,4,True
+Khris Middleton,1,5,47,0,Driving Floating Bank Jump Shot,2,-18,22,True
+Khris Middleton,4,7,49,1,Driving Floating Bank Jump Shot,0,0,6,True
+Khris Middleton,1,0,30,0,Driving Floating Bank Jump Shot,8,87,-8,True
+Khris Middleton,3,1,8,1,Driving Floating Bank Jump Shot,4,24,34,True
+Khris Middleton,1,5,41,0,Driving Floating Bank Jump Shot,5,-17,54,True
+Khris Middleton,4,6,53,0,Driving Floating Bank Jump Shot,8,67,53,True
+Khris Middleton,2,0,15,1,Driving Floating Bank Jump Shot,24,-10,248,False
+Khris Middleton,3,4,42,0,Driving Floating Bank Jump Shot,8,60,59,True
+Khris Middleton,2,8,15,1,Driving Floating Bank Jump Shot,9,4,92,True
+Khris Middleton,4,2,25,0,Driving Floating Bank Jump Shot,8,-66,55,True
+Khris Middleton,4,5,22,1,Driving Floating Bank Jump Shot,10,-98,37,True
+Khris Middleton,1,9,26,1,Driving Floating Bank Jump Shot,7,0,75,True
+Khris Middleton,3,8,51,1,Driving Floating Bank Jump Shot,7,58,54,True
+Khris Middleton,3,11,33,0,Driving Floating Bank Jump Shot,6,49,36,True
+Khris Middleton,3,8,9,1,Driving Floating Bank Jump Shot,8,-75,29,True
+Khris Middleton,2,0,2,1,Driving Floating Bank Jump Shot,5,39,33,True
+Khris Middleton,2,7,13,0,Driving Floating Bank Jump Shot,6,41,44,True
+Khris Middleton,3,1,25,0,Driving Floating Jump Shot,7,-8,75,True
+Khris Middleton,1,6,8,1,Driving Floating Jump Shot,8,7,80,True
+Khris Middleton,3,1,11,1,Driving Floating Jump Shot,2,22,18,True
+Khris Middleton,1,7,58,1,Driving Floating Jump Shot,8,87,2,True
+Khris Middleton,3,11,16,0,Driving Floating Jump Shot,0,-8,4,True
+Khris Middleton,1,0,0,1,Driving Floating Jump Shot,14,58,138,True
+Khris Middleton,2,0,8,1,Driving Floating Jump Shot,12,26,125,True
+Khris Middleton,1,0,3,1,Driving Floating Jump Shot,5,-14,58,True
+Khris Middleton,3,8,45,1,Driving Floating Jump Shot,10,-5,109,True
+Khris Middleton,1,3,30,0,Driving Floating Jump Shot,3,22,26,True
+Khris Middleton,2,2,52,1,Driving Floating Jump Shot,5,-44,35,True
+Khris Middleton,1,7,35,0,Driving Floating Jump Shot,8,83,-1,True
+Khris Middleton,3,8,37,0,Driving Floating Jump Shot,3,8,29,True
+Khris Middleton,4,3,40,0,Driving Floating Jump Shot,10,103,-10,True
+Khris Middleton,3,11,6,1,Driving Floating Jump Shot,13,4,132,True
+Khris Middleton,3,4,52,0,Driving Floating Jump Shot,9,96,-3,True
+Khris Middleton,3,2,57,1,Driving Floating Jump Shot,7,-30,70,True
+Khris Middleton,4,0,50,1,Driving Floating Jump Shot,15,150,-13,True
+Khris Middleton,3,11,29,1,Driving Floating Jump Shot,6,60,3,True
+Khris Middleton,2,9,56,0,Driving Floating Jump Shot,13,-132,1,True
+Khris Middleton,1,1,31,0,Driving Floating Jump Shot,12,29,120,True
+Khris Middleton,4,1,28,1,Driving Floating Jump Shot,8,33,79,True
+Khris Middleton,1,9,3,0,Driving Floating Jump Shot,8,79,14,True
+Khris Middleton,4,8,9,1,Driving Floating Jump Shot,11,101,57,True
+Khris Middleton,1,8,31,1,Driving Floating Jump Shot,13,-73,114,True
+Khris Middleton,2,2,54,0,Driving Floating Jump Shot,7,0,70,True
+Khris Middleton,1,3,19,1,Driving Floating Jump Shot,6,-5,63,True
+Khris Middleton,4,8,12,0,Driving Floating Jump Shot,8,27,85,True
+Khris Middleton,3,0,12,1,Driving Floating Jump Shot,4,0,46,True
+Khris Middleton,1,1,56,1,Driving Floating Jump Shot,11,3,119,True
+Khris Middleton,3,2,56,1,Driving Hook Shot,3,0,30,True
+Khris Middleton,2,9,35,1,Driving Hook Shot,6,-29,58,True
+Khris Middleton,1,9,51,1,Driving Hook Shot,6,55,26,True
+Khris Middleton,3,4,29,1,Driving Hook Shot,8,50,63,True
+Khris Middleton,3,6,53,0,Driving Layup Shot,2,2,25,True
+Khris Middleton,3,10,50,1,Driving Layup Shot,1,-12,12,True
+Khris Middleton,3,11,22,1,Driving Layup Shot,1,11,0,True
+Khris Middleton,1,11,18,0,Driving Layup Shot,1,-9,15,True
+Khris Middleton,1,10,27,0,Driving Layup Shot,2,19,22,True
+Khris Middleton,4,2,29,0,Driving Layup Shot,2,-14,25,True
+Khris Middleton,3,7,59,1,Driving Layup Shot,6,-5,63,True
+Khris Middleton,1,6,42,1,Driving Layup Shot,1,2,18,True
+Khris Middleton,1,5,3,0,Driving Layup Shot,4,9,39,True
+Khris Middleton,1,6,0,1,Driving Layup Shot,1,-11,8,True
+Khris Middleton,4,2,20,1,Driving Layup Shot,7,70,26,True
+Khris Middleton,4,9,55,0,Driving Layup Shot,2,1,21,True
+Khris Middleton,3,4,52,0,Driving Layup Shot,1,-8,10,True
+Khris Middleton,3,7,50,0,Driving Layup Shot,5,2,57,True
+Khris Middleton,3,4,16,0,Driving Layup Shot,1,-6,17,True
+Khris Middleton,2,9,7,1,Driving Layup Shot,1,8,8,True
+Khris Middleton,1,8,20,0,Driving Layup Shot,3,-29,22,True
+Khris Middleton,3,9,27,0,Driving Layup Shot,1,2,11,True
+Khris Middleton,3,1,3,1,Driving Layup Shot,1,9,17,True
+Khris Middleton,1,11,11,1,Driving Layup Shot,1,2,14,True
+Khris Middleton,4,10,35,1,Driving Layup Shot,0,6,6,True
+Khris Middleton,2,0,48,0,Driving Layup Shot,1,8,12,True
+Khris Middleton,1,7,25,0,Driving Layup Shot,0,-5,6,True
+Khris Middleton,3,5,48,0,Driving Layup Shot,4,-41,16,True
+Khris Middleton,2,9,47,0,Driving Layup Shot,2,-6,25,True
+Khris Middleton,1,4,37,1,Driving Layup Shot,1,-3,11,True
+Khris Middleton,4,5,26,1,Driving Layup Shot,0,-2,3,True
+Khris Middleton,1,7,54,0,Driving Layup Shot,0,4,4,True
+Khris Middleton,3,7,30,0,Driving Layup Shot,2,-27,1,True
+Khris Middleton,4,1,27,1,Driving Layup Shot,0,3,6,True
+Khris Middleton,2,11,34,1,Driving Layup Shot,1,9,6,True
+Khris Middleton,3,11,20,0,Driving Layup Shot,3,-19,29,True
+Khris Middleton,2,10,26,0,Driving Layup Shot,2,13,22,True
+Khris Middleton,4,1,25,0,Driving Layup Shot,4,11,43,True
+Khris Middleton,3,9,31,0,Driving Layup Shot,1,-16,5,True
+Khris Middleton,1,10,6,0,Driving Layup Shot,2,-8,20,True
+Khris Middleton,3,8,46,0,Driving Layup Shot,2,-11,17,True
+Khris Middleton,3,5,24,1,Driving Layup Shot,2,9,21,True
+Khris Middleton,2,1,8,1,Driving Layup Shot,1,-5,15,True
+Khris Middleton,2,4,26,0,Driving Layup Shot,1,-6,16,True
+Khris Middleton,3,4,19,1,Driving Layup Shot,1,-13,12,True
+Khris Middleton,3,7,16,1,Driving Layup Shot,0,-6,-4,True
+Khris Middleton,3,6,19,1,Driving Layup Shot,1,13,11,True
+Khris Middleton,4,10,3,1,Driving Layup Shot,2,1,20,True
+Khris Middleton,2,5,46,1,Driving Layup Shot,3,25,17,True
+Khris Middleton,1,0,1,0,Driving Layup Shot,4,24,35,True
+Khris Middleton,3,2,25,0,Driving Layup Shot,2,-3,26,True
+Khris Middleton,4,10,52,0,Driving Layup Shot,10,34,98,True
+Khris Middleton,2,7,18,0,Driving Layup Shot,2,1,27,True
+Khris Middleton,3,2,35,1,Driving Layup Shot,2,-14,17,True
+Khris Middleton,1,3,46,0,Driving Layup Shot,0,-7,5,True
+Khris Middleton,1,6,50,1,Driving Layup Shot,1,-4,14,True
+Khris Middleton,3,8,10,0,Driving Layup Shot,1,-5,19,True
+Khris Middleton,1,5,0,0,Driving Layup Shot,2,10,27,True
+Khris Middleton,1,9,36,0,Driving Layup Shot,2,11,20,True
+Khris Middleton,1,2,20,1,Driving Layup Shot,1,-8,8,True
+Khris Middleton,2,2,57,0,Driving Layup Shot,3,5,37,True
+Khris Middleton,1,8,14,0,Driving Layup Shot,3,-11,29,True
+Khris Middleton,4,4,33,0,Driving Layup Shot,3,-13,28,True
+Khris Middleton,1,0,7,0,Driving Layup Shot,6,-18,58,True
+Khris Middleton,1,7,53,1,Driving Layup Shot,1,12,3,True
+Khris Middleton,3,6,23,1,Driving Layup Shot,1,-8,13,True
+Khris Middleton,4,10,3,0,Driving Layup Shot,2,16,21,True
+Khris Middleton,1,3,41,0,Driving Layup Shot,2,-15,14,True
+Khris Middleton,3,0,0,0,Driving Layup Shot,0,6,-4,True
+Khris Middleton,3,4,37,0,Driving Layup Shot,1,4,16,True
+Khris Middleton,3,11,15,1,Driving Reverse Layup Shot,0,0,8,True
+Khris Middleton,2,1,30,0,Driving Reverse Layup Shot,1,6,8,True
+Khris Middleton,1,10,20,1,Driving Reverse Layup Shot,0,-8,2,True
+Khris Middleton,2,5,32,0,Driving Reverse Layup Shot,1,-19,3,True
+Khris Middleton,3,7,12,0,Driving Reverse Layup Shot,1,10,8,True
+Khris Middleton,3,10,29,1,Driving Reverse Layup Shot,0,4,1,True
+Khris Middleton,2,7,15,0,Driving Reverse Layup Shot,2,-20,12,True
+Khris Middleton,3,8,31,1,Driving Reverse Layup Shot,1,13,11,True
+Khris Middleton,1,1,49,1,Driving Reverse Layup Shot,1,17,6,True
+Khris Middleton,2,3,31,0,Driving Reverse Layup Shot,0,3,7,True
+Khris Middleton,4,2,7,1,Dunk Shot,1,15,-1,True
+Khris Middleton,4,1,48,1,Dunk Shot,1,-3,14,True
+Khris Middleton,3,4,18,1,Dunk Shot,2,-9,22,True
+Khris Middleton,4,0,30,1,Dunk Shot,0,-6,7,True
+Khris Middleton,2,9,40,1,Fadeaway Jump Shot,15,152,-8,True
+Khris Middleton,4,5,40,0,Fadeaway Jump Shot,12,-79,92,True
+Khris Middleton,1,3,57,1,Fadeaway Jump Shot,11,117,-5,True
+Khris Middleton,1,5,34,1,Fadeaway Jump Shot,15,-2,159,True
+Khris Middleton,1,1,0,1,Fadeaway Jump Shot,15,152,46,True
+Khris Middleton,3,9,3,1,Fadeaway Jump Shot,8,84,-20,True
+Khris Middleton,2,0,0,0,Fadeaway Jump Shot,4,-46,13,True
+Khris Middleton,4,7,17,0,Fadeaway Jump Shot,8,-14,79,True
+Khris Middleton,1,9,26,0,Fadeaway Jump Shot,16,-82,139,True
+Khris Middleton,2,9,30,1,Fadeaway Jump Shot,10,103,-17,True
+Khris Middleton,3,9,32,0,Fadeaway Jump Shot,19,141,135,True
+Khris Middleton,3,1,43,0,Fadeaway Jump Shot,9,-95,-11,True
+Khris Middleton,3,11,21,0,Fadeaway Jump Shot,18,29,179,True
+Khris Middleton,4,10,41,0,Fadeaway Jump Shot,17,67,162,True
+Khris Middleton,4,11,0,1,Fadeaway Jump Shot,9,89,18,True
+Khris Middleton,1,7,15,1,Fadeaway Jump Shot,16,159,50,True
+Khris Middleton,1,7,6,0,Fadeaway Jump Shot,15,156,-3,True
+Khris Middleton,4,3,44,0,Fadeaway Jump Shot,17,-87,153,True
+Khris Middleton,4,9,23,1,Fadeaway Jump Shot,12,-100,75,True
+Khris Middleton,4,2,14,1,Fadeaway Jump Shot,16,165,0,True
+Khris Middleton,3,1,1,0,Fadeaway Jump Shot,18,179,21,True
+Khris Middleton,4,4,54,0,Fadeaway Jump Shot,10,106,17,True
+Khris Middleton,1,7,35,0,Fadeaway Jump Shot,14,-100,103,True
+Khris Middleton,3,8,55,0,Fadeaway Jump Shot,10,-106,3,True
+Khris Middleton,1,4,24,1,Fadeaway Jump Shot,15,145,46,True
+Khris Middleton,1,8,50,0,Fadeaway Jump Shot,11,109,23,True
+Khris Middleton,3,1,3,1,Fadeaway Jump Shot,16,139,95,True
+Khris Middleton,1,6,34,1,Fadeaway Jump Shot,15,157,21,True
+Khris Middleton,4,9,42,0,Fadeaway Jump Shot,14,-109,89,True
+Khris Middleton,2,0,44,1,Fadeaway Jump Shot,17,-164,50,True
+Khris Middleton,3,8,49,0,Fadeaway Jump Shot,13,-133,-10,True
+Khris Middleton,3,11,17,0,Fadeaway Jump Shot,8,89,-4,True
+Khris Middleton,3,1,21,1,Fadeaway Jump Shot,6,-68,4,True
+Khris Middleton,4,7,49,0,Fadeaway Jump Shot,13,-21,136,True
+Khris Middleton,1,3,32,0,Finger Roll Layup Shot,8,65,47,True
+Khris Middleton,3,11,37,1,Finger Roll Layup Shot,1,-10,9,True
+Khris Middleton,1,9,5,1,Floating Jump shot,11,4,110,True
+Khris Middleton,3,0,43,1,Floating Jump shot,13,67,120,True
+Khris Middleton,3,11,7,1,Floating Jump shot,4,-14,41,True
+Khris Middleton,1,10,38,0,Floating Jump shot,4,-4,41,True
+Khris Middleton,1,8,20,0,Floating Jump shot,2,-3,22,True
+Khris Middleton,1,4,5,1,Floating Jump shot,4,18,45,True
+Khris Middleton,1,2,3,0,Floating Jump shot,10,22,104,True
+Khris Middleton,4,7,1,0,Floating Jump shot,14,-134,50,True
+Khris Middleton,1,9,3,0,Floating Jump shot,13,-139,-15,True
+Khris Middleton,3,10,5,1,Floating Jump shot,11,111,-10,True
+Khris Middleton,3,7,41,0,Floating Jump shot,11,84,79,True
+Khris Middleton,2,11,15,1,Floating Jump shot,16,-68,155,True
+Khris Middleton,4,6,40,0,Floating Jump shot,4,-9,45,True
+Khris Middleton,3,2,41,1,Floating Jump shot,15,-10,150,True
+Khris Middleton,4,4,59,1,Floating Jump shot,9,35,84,True
+Khris Middleton,1,8,22,1,Floating Jump shot,13,-55,118,True
+Khris Middleton,1,6,29,0,Floating Jump shot,25,-82,242,False
+Khris Middleton,5,3,16,0,Floating Jump shot,8,67,59,True
+Khris Middleton,4,2,43,1,Floating Jump shot,13,-16,134,True
+Khris Middleton,1,10,26,0,Floating Jump shot,3,30,0,True
+Khris Middleton,3,8,57,0,Floating Jump shot,2,8,21,True
+Khris Middleton,5,1,50,0,Floating Jump shot,6,67,11,True
+Khris Middleton,3,5,14,1,Floating Jump shot,15,73,138,True
+Khris Middleton,3,6,14,0,Floating Jump shot,5,-8,55,True
+Khris Middleton,1,1,56,1,Floating Jump shot,5,-24,50,True
+Khris Middleton,3,7,10,0,Floating Jump shot,15,22,155,True
+Khris Middleton,1,0,47,1,Floating Jump shot,10,23,98,True
+Khris Middleton,1,3,39,1,Floating Jump shot,9,-47,83,True
+Khris Middleton,2,10,44,0,Floating Jump shot,12,-71,102,True
+Khris Middleton,1,10,56,1,Floating Jump shot,16,69,147,True
+Khris Middleton,2,3,4,0,Floating Jump shot,4,-13,46,True
+Khris Middleton,4,8,56,0,Hook Shot,4,30,34,True
+Khris Middleton,3,1,31,0,Hook Shot,3,22,32,True
+Khris Middleton,2,3,39,0,Hook Shot,6,-17,62,True
+Khris Middleton,3,3,59,0,Hook Shot,8,85,5,True
+Khris Middleton,4,6,42,1,Jump Bank Shot,7,-70,34,True
+Khris Middleton,3,11,28,0,Jump Bank Shot,8,87,21,True
+Khris Middleton,4,0,35,0,Jump Bank Shot,24,-166,185,False
+Khris Middleton,4,2,17,0,Jump Shot,27,-67,267,False
+Khris Middleton,1,8,56,0,Jump Shot,12,120,13,True
+Khris Middleton,1,11,35,0,Jump Shot,18,-79,163,True
+Khris Middleton,1,10,47,0,Jump Shot,25,189,178,False
+Khris Middleton,4,10,31,0,Jump Shot,26,147,225,False
+Khris Middleton,2,0,2,1,Jump Shot,17,-116,132,True
+Khris Middleton,3,2,2,0,Jump Shot,16,-79,142,True
+Khris Middleton,3,10,51,0,Jump Shot,18,70,167,True
+Khris Middleton,1,6,12,0,Jump Shot,22,-225,25,False
+Khris Middleton,3,3,8,1,Jump Shot,17,-171,-2,True
+Khris Middleton,2,5,33,0,Jump Shot,22,-224,-8,False
+Khris Middleton,1,1,24,1,Jump Shot,15,156,-3,True
+Khris Middleton,4,5,33,1,Jump Shot,23,225,56,False
+Khris Middleton,4,5,41,1,Jump Shot,16,149,67,True
+Khris Middleton,3,2,14,0,Jump Shot,18,-60,172,True
+Khris Middleton,1,0,2,0,Jump Shot,25,164,192,False
+Khris Middleton,1,6,32,0,Jump Shot,22,223,24,False
+Khris Middleton,3,7,16,0,Jump Shot,5,33,42,True
+Khris Middleton,1,3,19,0,Jump Shot,15,-155,-12,True
+Khris Middleton,2,2,11,0,Jump Shot,22,-228,-4,False
+Khris Middleton,1,0,30,1,Jump Shot,10,99,25,True
+Khris Middleton,3,1,55,0,Jump Shot,19,5,197,True
+Khris Middleton,1,6,57,1,Jump Shot,25,36,257,False
+Khris Middleton,1,2,57,1,Jump Shot,8,82,19,True
+Khris Middleton,2,1,2,0,Jump Shot,12,107,62,True
+Khris Middleton,3,6,53,1,Jump Shot,22,-223,31,False
+Khris Middleton,4,4,27,0,Jump Shot,22,-229,-10,False
+Khris Middleton,2,2,56,1,Jump Shot,25,115,231,False
+Khris Middleton,3,1,21,0,Jump Shot,22,-226,0,False
+Khris Middleton,4,4,41,0,Jump Shot,27,187,200,False
+Khris Middleton,1,7,45,1,Jump Shot,9,67,72,True
+Khris Middleton,4,0,57,0,Jump Shot,26,-73,256,False
+Khris Middleton,3,9,8,0,Jump Shot,16,-160,-10,True
+Khris Middleton,1,6,51,1,Jump Shot,16,83,141,True
+Khris Middleton,3,9,7,1,Jump Shot,24,154,195,False
+Khris Middleton,1,3,38,0,Jump Shot,22,224,45,False
+Khris Middleton,3,11,48,0,Jump Shot,24,156,194,False
+Khris Middleton,4,3,13,1,Jump Shot,11,-112,21,True
+Khris Middleton,4,0,43,0,Jump Shot,25,64,244,False
+Khris Middleton,4,2,35,0,Jump Shot,25,15,252,False
+Khris Middleton,3,11,28,1,Jump Shot,26,139,230,False
+Khris Middleton,2,2,58,0,Jump Shot,17,-176,-7,True
+Khris Middleton,4,0,41,1,Jump Shot,26,-169,209,False
+Khris Middleton,4,5,26,0,Jump Shot,21,-85,195,True
+Khris Middleton,1,2,19,0,Jump Shot,17,-2,173,True
+Khris Middleton,3,11,29,1,Jump Shot,27,-198,184,False
+Khris Middleton,4,9,27,0,Jump Shot,7,14,71,True
+Khris Middleton,1,11,11,0,Jump Shot,26,203,167,False
+Khris Middleton,2,5,40,1,Jump Shot,18,145,110,True
+Khris Middleton,3,8,57,0,Jump Shot,27,-122,246,False
+Khris Middleton,1,7,51,0,Jump Shot,27,40,268,False
+Khris Middleton,3,6,35,1,Jump Shot,24,242,34,False
+Khris Middleton,4,8,35,1,Jump Shot,16,-88,138,True
+Khris Middleton,4,6,57,0,Jump Shot,15,-57,149,True
+Khris Middleton,1,7,56,0,Jump Shot,24,51,241,False
+Khris Middleton,2,1,40,1,Jump Shot,25,-155,207,False
+Khris Middleton,1,7,9,0,Jump Shot,26,-109,241,False
+Khris Middleton,4,6,40,1,Jump Shot,24,99,222,False
+Khris Middleton,3,11,32,0,Jump Shot,23,-43,236,False
+Khris Middleton,4,2,59,0,Jump Shot,14,-131,67,True
+Khris Middleton,4,7,27,0,Jump Shot,24,-114,221,False
+Khris Middleton,2,2,28,0,Jump Shot,6,-67,2,True
+Khris Middleton,2,1,10,1,Jump Shot,27,-55,268,False
+Khris Middleton,1,2,54,1,Jump Shot,22,-225,2,False
+Khris Middleton,4,0,46,1,Jump Shot,25,117,225,False
+Khris Middleton,1,5,21,0,Jump Shot,15,70,142,True
+Khris Middleton,1,3,6,0,Jump Shot,17,-120,130,True
+Khris Middleton,4,0,21,0,Jump Shot,27,-226,149,False
+Khris Middleton,3,10,59,1,Jump Shot,24,-241,62,False
+Khris Middleton,1,2,56,1,Jump Shot,21,179,121,True
+Khris Middleton,3,3,23,1,Jump Shot,25,-193,167,False
+Khris Middleton,3,9,43,0,Jump Shot,22,223,26,False
+Khris Middleton,1,0,32,0,Jump Shot,24,-160,189,False
+Khris Middleton,4,2,58,1,Jump Shot,23,232,55,False
+Khris Middleton,1,10,41,1,Jump Shot,23,230,25,False
+Khris Middleton,4,0,5,0,Jump Shot,26,-158,216,False
+Khris Middleton,3,0,36,1,Jump Shot,22,-228,-17,False
+Khris Middleton,3,11,24,0,Jump Shot,17,86,151,True
+Khris Middleton,3,9,51,0,Jump Shot,13,-126,50,True
+Khris Middleton,1,8,4,0,Jump Shot,26,62,261,False
+Khris Middleton,3,7,46,1,Jump Shot,11,112,-16,True
+Khris Middleton,3,6,48,1,Jump Shot,26,150,220,False
+Khris Middleton,2,0,27,0,Jump Shot,25,66,248,False
+Khris Middleton,1,8,57,0,Jump Shot,18,180,20,True
+Khris Middleton,4,2,8,0,Jump Shot,17,-114,130,True
+Khris Middleton,2,0,34,0,Jump Shot,18,-101,157,True
+Khris Middleton,3,6,44,0,Jump Shot,26,119,232,False
+Khris Middleton,2,5,33,0,Jump Shot,17,92,146,True
+Khris Middleton,1,7,33,0,Jump Shot,26,-164,204,False
+Khris Middleton,3,10,25,0,Jump Shot,26,96,251,False
+Khris Middleton,4,2,3,0,Jump Shot,16,-76,147,True
+Khris Middleton,3,6,40,0,Jump Shot,27,63,263,False
+Khris Middleton,1,1,42,0,Jump Shot,12,125,-9,True
+Khris Middleton,4,10,20,1,Jump Shot,14,-76,129,True
+Khris Middleton,1,5,24,0,Jump Shot,22,225,27,False
+Khris Middleton,1,5,54,0,Jump Shot,27,-131,238,False
+Khris Middleton,2,2,23,0,Jump Shot,26,-212,155,False
+Khris Middleton,3,10,55,1,Jump Shot,25,171,195,False
+Khris Middleton,3,1,2,1,Jump Shot,11,-5,115,True
+Khris Middleton,1,11,27,0,Jump Shot,17,-25,178,True
+Khris Middleton,4,0,5,0,Jump Shot,22,-226,24,False
+Khris Middleton,4,6,12,1,Jump Shot,27,44,273,False
+Khris Middleton,1,1,8,1,Jump Shot,13,-119,58,True
+Khris Middleton,4,2,55,0,Jump Shot,19,8,193,True
+Khris Middleton,3,7,11,0,Jump Shot,23,-231,15,False
+Khris Middleton,4,10,47,0,Jump Shot,26,171,200,False
+Khris Middleton,1,4,53,1,Jump Shot,22,-225,30,False
+Khris Middleton,3,11,44,0,Jump Shot,19,76,180,True
+Khris Middleton,1,11,25,0,Jump Shot,26,-112,242,False
+Khris Middleton,1,8,34,0,Jump Shot,26,119,235,False
+Khris Middleton,1,10,49,0,Jump Shot,26,91,244,False
+Khris Middleton,2,3,4,0,Jump Shot,26,-32,260,False
+Khris Middleton,4,5,44,0,Jump Shot,19,-31,188,True
+Khris Middleton,3,5,20,1,Jump Shot,19,127,147,True
+Khris Middleton,3,1,57,0,Jump Shot,17,133,115,True
+Khris Middleton,2,3,51,0,Jump Shot,26,134,227,False
+Khris Middleton,2,6,12,0,Jump Shot,20,113,168,True
+Khris Middleton,2,4,43,1,Jump Shot,19,24,190,True
+Khris Middleton,3,10,4,0,Jump Shot,18,46,178,True
+Khris Middleton,3,4,59,0,Jump Shot,27,87,257,False
+Khris Middleton,2,6,23,1,Jump Shot,26,-110,246,False
+Khris Middleton,1,6,7,1,Jump Shot,17,-3,172,True
+Khris Middleton,1,9,58,0,Jump Shot,22,223,34,False
+Khris Middleton,5,4,46,1,Jump Shot,15,-54,147,True
+Khris Middleton,5,0,34,0,Jump Shot,14,-111,100,True
+Khris Middleton,5,1,58,1,Jump Shot,25,-144,207,False
+Khris Middleton,3,9,47,0,Jump Shot,22,-225,7,False
+Khris Middleton,3,3,24,0,Jump Shot,18,-144,121,True
+Khris Middleton,3,2,58,1,Jump Shot,6,-60,-4,True
+Khris Middleton,2,1,4,0,Jump Shot,26,-80,256,False
+Khris Middleton,1,3,18,0,Jump Shot,20,11,204,True
+Khris Middleton,3,9,50,1,Jump Shot,23,228,39,False
+Khris Middleton,1,7,25,0,Jump Shot,22,-223,41,False
+Khris Middleton,4,0,41,1,Jump Shot,11,-88,81,True
+Khris Middleton,1,1,14,0,Jump Shot,25,146,214,False
+Khris Middleton,4,3,4,1,Jump Shot,15,-150,6,True
+Khris Middleton,3,0,35,0,Jump Shot,26,-41,263,False
+Khris Middleton,1,4,58,0,Jump Shot,17,-165,71,True
+Khris Middleton,4,2,20,0,Jump Shot,24,141,206,False
+Khris Middleton,1,2,47,0,Jump Shot,19,98,167,True
+Khris Middleton,4,8,30,0,Jump Shot,25,-139,216,False
+Khris Middleton,4,5,0,0,Jump Shot,4,38,30,True
+Khris Middleton,1,11,12,1,Jump Shot,25,33,248,False
+Khris Middleton,1,0,46,0,Jump Shot,26,-70,260,False
+Khris Middleton,1,7,55,1,Jump Shot,19,-120,159,True
+Khris Middleton,1,5,33,1,Jump Shot,25,-192,164,False
+Khris Middleton,3,5,47,1,Jump Shot,15,-76,136,True
+Khris Middleton,4,1,20,0,Jump Shot,25,237,94,False
+Khris Middleton,3,8,30,0,Jump Shot,22,-225,10,False
+Khris Middleton,1,9,33,1,Jump Shot,24,144,201,False
+Khris Middleton,2,7,32,0,Jump Shot,26,-54,257,False
+Khris Middleton,4,0,34,0,Jump Shot,23,232,11,False
+Khris Middleton,4,3,53,1,Jump Shot,25,132,215,False
+Khris Middleton,2,4,59,1,Jump Shot,24,-13,248,False
+Khris Middleton,4,0,51,0,Jump Shot,24,-127,215,False
+Khris Middleton,1,11,18,0,Jump Shot,25,-83,242,False
+Khris Middleton,4,3,54,0,Jump Shot,10,98,43,True
+Khris Middleton,1,9,56,1,Jump Shot,24,229,73,False
+Khris Middleton,1,2,39,0,Jump Shot,22,114,189,True
+Khris Middleton,1,5,57,0,Jump Shot,26,17,261,False
+Khris Middleton,3,5,30,1,Jump Shot,25,167,197,False
+Khris Middleton,4,6,56,0,Jump Shot,6,-8,63,True
+Khris Middleton,4,2,40,0,Jump Shot,26,-68,258,False
+Khris Middleton,3,6,56,1,Jump Shot,15,-68,142,True
+Khris Middleton,4,1,50,1,Jump Shot,19,-39,194,True
+Khris Middleton,1,11,9,1,Jump Shot,25,-27,250,False
+Khris Middleton,4,5,30,0,Jump Shot,22,228,15,False
+Khris Middleton,1,9,8,1,Jump Shot,17,-57,162,True
+Khris Middleton,3,10,48,1,Jump Shot,23,230,36,False
+Khris Middleton,1,9,7,1,Jump Shot,18,91,159,True
+Khris Middleton,3,4,34,0,Jump Shot,26,-102,241,False
+Khris Middleton,3,1,43,0,Jump Shot,23,-225,71,False
+Khris Middleton,2,7,8,0,Jump Shot,6,32,58,True
+Khris Middleton,4,9,18,0,Jump Shot,24,-128,213,False
+Khris Middleton,2,6,35,1,Jump Shot,25,-106,228,False
+Khris Middleton,3,5,22,0,Jump Shot,17,-65,166,True
+Khris Middleton,2,0,18,0,Jump Shot,25,-160,201,False
+Khris Middleton,4,8,46,0,Jump Shot,22,-227,14,False
+Khris Middleton,4,4,12,0,Jump Shot,26,-16,262,False
+Khris Middleton,3,4,49,0,Jump Shot,13,-139,15,True
+Khris Middleton,3,8,58,1,Jump Shot,24,-124,209,False
+Khris Middleton,2,2,16,0,Jump Shot,22,-225,39,False
+Khris Middleton,1,11,8,0,Jump Shot,16,-90,143,True
+Khris Middleton,3,3,54,1,Jump Shot,26,197,177,False
+Khris Middleton,4,1,37,0,Jump Shot,23,224,55,False
+Khris Middleton,4,4,2,0,Jump Shot,23,-234,30,False
+Khris Middleton,2,2,30,1,Jump Shot,26,-93,248,False
+Khris Middleton,1,4,48,0,Jump Shot,11,-60,99,True
+Khris Middleton,1,9,34,1,Jump Shot,15,-88,130,True
+Khris Middleton,3,4,27,1,Jump Shot,21,120,173,True
+Khris Middleton,3,1,41,0,Jump Shot,20,192,59,True
+Khris Middleton,4,3,8,1,Jump Shot,15,-147,35,True
+Khris Middleton,2,5,17,1,Jump Shot,19,-115,163,True
+Khris Middleton,1,5,42,1,Jump Shot,27,83,262,False
+Khris Middleton,1,9,18,1,Jump Shot,16,-62,150,True
+Khris Middleton,3,6,54,0,Jump Shot,27,-27,273,False
+Khris Middleton,3,11,8,1,Jump Shot,18,82,167,True
+Khris Middleton,1,4,29,1,Jump Shot,27,100,260,False
+Khris Middleton,3,0,5,1,Jump Shot,18,130,133,True
+Khris Middleton,2,2,51,1,Jump Shot,13,-130,38,True
+Khris Middleton,2,2,45,0,Jump Shot,16,120,110,True
+Khris Middleton,1,7,41,0,Jump Shot,27,122,245,False
+Khris Middleton,1,0,52,1,Jump Shot,18,182,50,True
+Khris Middleton,3,3,9,1,Jump Shot,23,231,33,False
+Khris Middleton,1,8,45,1,Jump Shot,25,181,183,False
+Khris Middleton,3,4,40,0,Jump Shot,25,120,227,False
+Khris Middleton,1,7,36,1,Jump Shot,7,2,78,True
+Khris Middleton,1,3,48,0,Jump Shot,23,-234,7,False
+Khris Middleton,2,7,10,1,Jump Shot,26,105,243,False
+Khris Middleton,4,6,32,0,Jump Shot,26,147,222,False
+Khris Middleton,1,11,19,0,Jump Shot,26,-160,215,False
+Khris Middleton,4,3,32,0,Jump Shot,23,-230,48,False
+Khris Middleton,2,8,27,0,Jump Shot,26,-115,235,False
+Khris Middleton,4,0,10,1,Jump Shot,28,18,282,False
+Khris Middleton,4,2,45,0,Jump Shot,27,101,255,False
+Khris Middleton,4,0,43,1,Jump Shot,25,-120,230,False
+Khris Middleton,4,10,56,1,Jump Shot,14,6,141,True
+Khris Middleton,4,6,33,1,Jump Shot,26,-112,239,False
+Khris Middleton,1,0,0,0,Jump Shot,27,-61,273,False
+Khris Middleton,2,2,14,0,Jump Shot,26,-62,262,False
+Khris Middleton,4,11,43,1,Jump Shot,16,9,163,True
+Khris Middleton,4,3,55,0,Jump Shot,26,168,204,False
+Khris Middleton,4,8,3,0,Jump Shot,25,-89,242,False
+Khris Middleton,4,2,22,0,Jump Shot,25,-162,194,False
+Khris Middleton,2,1,18,0,Jump Shot,18,114,141,True
+Khris Middleton,2,11,44,0,Jump Shot,24,151,195,False
+Khris Middleton,1,10,5,1,Jump Shot,25,-137,216,False
+Khris Middleton,2,6,21,0,Jump Shot,23,-231,62,False
+Khris Middleton,4,10,44,0,Jump Shot,24,171,180,False
+Khris Middleton,4,7,38,1,Jump Shot,20,60,201,True
+Khris Middleton,3,9,37,0,Jump Shot,24,-184,162,False
+Khris Middleton,3,11,47,0,Jump Shot,22,224,17,False
+Khris Middleton,1,11,17,0,Jump Shot,27,-67,267,False
+Khris Middleton,2,3,44,0,Jump Shot,26,-8,264,False
+Khris Middleton,4,11,20,0,Jump Shot,19,0,192,True
+Khris Middleton,3,6,1,0,Jump Shot,25,218,135,False
+Khris Middleton,1,3,29,0,Jump Shot,20,10,206,True
+Khris Middleton,1,6,44,0,Jump Shot,10,-109,-9,True
+Khris Middleton,3,9,31,1,Jump Shot,23,232,22,False
+Khris Middleton,2,1,6,0,Jump Shot,23,230,67,False
+Khris Middleton,4,8,1,0,Jump Shot,15,152,45,True
+Khris Middleton,1,0,30,0,Jump Shot,26,-126,237,False
+Khris Middleton,2,0,0,0,Jump Shot,16,82,147,True
+Khris Middleton,4,5,48,0,Jump Shot,27,90,256,False
+Khris Middleton,1,7,3,0,Jump Shot,22,-224,6,False
+Khris Middleton,4,4,47,1,Jump Shot,14,71,130,True
+Khris Middleton,2,11,39,1,Jump Shot,25,213,147,False
+Khris Middleton,1,10,39,1,Jump Shot,26,142,227,False
+Khris Middleton,2,10,49,0,Jump Shot,26,188,190,False
+Khris Middleton,2,1,34,0,Jump Shot,23,-221,90,False
+Khris Middleton,3,4,29,0,Jump Shot,26,205,164,False
+Khris Middleton,3,2,29,0,Jump Shot,26,-27,268,False
+Khris Middleton,3,10,52,0,Jump Shot,17,72,164,True
+Khris Middleton,1,9,6,1,Jump Shot,27,-68,262,False
+Khris Middleton,3,2,5,0,Jump Shot,23,232,17,False
+Khris Middleton,1,4,18,1,Jump Shot,15,-154,25,True
+Khris Middleton,1,5,6,1,Jump Shot,19,9,195,True
+Khris Middleton,1,11,1,1,Jump Shot,18,-19,184,True
+Khris Middleton,4,4,42,0,Jump Shot,23,-222,64,False
+Khris Middleton,1,8,48,1,Jump Shot,26,113,236,False
+Khris Middleton,1,3,42,0,Jump Shot,17,-152,86,True
+Khris Middleton,3,8,18,0,Jump Shot,20,112,171,True
+Khris Middleton,4,7,57,1,Jump Shot,23,-230,3,False
+Khris Middleton,2,0,9,1,Jump Shot,22,-226,33,False
+Khris Middleton,1,8,20,1,Jump Shot,25,-83,246,False
+Khris Middleton,1,9,21,0,Jump Shot,25,214,146,False
+Khris Middleton,3,6,4,0,Jump Shot,24,-107,219,False
+Khris Middleton,2,5,28,0,Jump Shot,26,-68,256,False
+Khris Middleton,3,0,1,0,Jump Shot,26,-103,248,False
+Khris Middleton,2,10,0,1,Jump Shot,27,-116,244,False
+Khris Middleton,1,11,36,0,Jump Shot,11,84,76,True
+Khris Middleton,3,2,36,0,Jump Shot,26,11,269,False
+Khris Middleton,4,7,5,1,Jump Shot,23,234,41,False
+Khris Middleton,1,8,11,0,Jump Shot,26,138,227,False
+Khris Middleton,2,7,6,0,Jump Shot,14,0,149,True
+Khris Middleton,2,10,49,1,Jump Shot,11,-115,32,True
+Khris Middleton,4,3,25,0,Jump Shot,23,236,34,False
+Khris Middleton,4,0,47,0,Jump Shot,25,-218,136,False
+Khris Middleton,1,0,51,1,Jump Shot,25,-11,259,False
+Khris Middleton,4,1,11,1,Jump Shot,26,84,255,False
+Khris Middleton,4,0,35,0,Jump Shot,26,-188,182,False
+Khris Middleton,1,3,50,0,Jump Shot,26,13,268,False
+Khris Middleton,2,0,48,0,Jump Shot,26,-168,201,False
+Khris Middleton,4,5,50,0,Jump Shot,28,36,279,False
+Khris Middleton,4,8,4,0,Jump Shot,18,55,179,True
+Khris Middleton,3,3,31,1,Jump Shot,25,212,136,False
+Khris Middleton,2,2,19,0,Jump Shot,24,-225,90,False
+Khris Middleton,3,5,11,0,Jump Shot,25,-192,173,False
+Khris Middleton,2,10,41,1,Jump Shot,24,-192,155,False
+Khris Middleton,4,9,3,0,Jump Shot,12,41,120,True
+Khris Middleton,4,0,10,0,Jump Shot,18,87,159,True
+Khris Middleton,4,1,44,0,Jump Shot,7,67,34,True
+Khris Middleton,3,7,48,1,Jump Shot,24,195,153,False
+Khris Middleton,1,0,1,0,Jump Shot,34,-122,320,False
+Khris Middleton,4,4,22,0,Jump Shot,18,-174,71,True
+Khris Middleton,4,0,6,1,Jump Shot,24,-237,39,False
+Khris Middleton,2,3,32,0,Jump Shot,26,87,251,False
+Khris Middleton,3,9,34,0,Jump Shot,22,223,23,False
+Khris Middleton,3,8,16,1,Jump Shot,25,4,254,False
+Khris Middleton,1,8,45,0,Jump Shot,24,-43,241,False
+Khris Middleton,1,3,1,1,Jump Shot,10,67,79,True
+Khris Middleton,1,2,32,0,Jump Shot,18,93,159,True
+Khris Middleton,4,4,58,1,Jump Shot,18,-172,63,True
+Khris Middleton,3,3,29,1,Jump Shot,14,-139,36,True
+Khris Middleton,4,2,40,0,Jump Shot,27,163,219,False
+Khris Middleton,3,2,36,0,Jump Shot,27,120,250,False
+Khris Middleton,4,10,18,0,Jump Shot,25,-156,205,False
+Khris Middleton,4,7,10,1,Jump Shot,19,110,158,True
+Khris Middleton,2,4,41,0,Jump Shot,25,223,121,False
+Khris Middleton,3,10,49,1,Jump Shot,26,99,247,False
+Khris Middleton,3,6,13,1,Jump Shot,26,-53,255,False
+Khris Middleton,1,5,1,1,Jump Shot,14,145,5,True
+Khris Middleton,1,6,27,0,Jump Shot,25,-215,136,False
+Khris Middleton,2,3,55,0,Jump Shot,16,-73,147,True
+Khris Middleton,4,6,2,1,Jump Shot,23,230,27,False
+Khris Middleton,2,7,42,1,Jump Shot,20,-55,199,True
+Khris Middleton,1,6,28,1,Jump Shot,19,-99,163,True
+Khris Middleton,2,3,32,0,Jump Shot,26,123,232,False
+Khris Middleton,4,7,38,0,Jump Shot,26,-27,266,False
+Khris Middleton,1,5,44,1,Jump Shot,19,-131,142,True
+Khris Middleton,4,4,56,0,Jump Shot,25,-217,131,False
+Khris Middleton,1,11,42,0,Jump Shot,23,-234,0,False
+Khris Middleton,2,7,7,1,Jump Shot,25,141,217,False
+Khris Middleton,1,3,27,0,Jump Shot,12,-125,-9,True
+Khris Middleton,4,0,14,1,Jump Shot,25,-7,259,False
+Khris Middleton,1,5,0,0,Jump Shot,23,229,38,False
+Khris Middleton,3,8,5,0,Jump Shot,22,226,33,False
+Khris Middleton,1,8,21,1,Jump Shot,26,-85,248,False
+Khris Middleton,3,7,30,0,Jump Shot,24,220,110,False
+Khris Middleton,3,1,32,0,Jump Shot,24,-192,152,False
+Khris Middleton,1,1,55,0,Jump Shot,25,-92,243,False
+Khris Middleton,4,5,34,1,Jump Shot,22,-226,37,False
+Khris Middleton,3,11,18,0,Jump Shot,24,214,118,False
+Khris Middleton,1,5,56,0,Jump Shot,17,-40,167,True
+Khris Middleton,1,3,5,1,Jump Shot,23,-230,-5,False
+Khris Middleton,3,5,44,0,Jump Shot,25,143,214,False
+Khris Middleton,4,2,10,0,Jump Shot,25,-88,243,False
+Khris Middleton,1,10,26,0,Jump Shot,26,104,239,False
+Khris Middleton,4,0,16,0,Jump Shot,29,-154,249,False
+Khris Middleton,4,3,56,0,Jump Shot,28,120,263,False
+Khris Middleton,3,4,16,0,Jump Shot,18,152,102,True
+Khris Middleton,4,5,4,0,Jump Shot,23,-230,13,False
+Khris Middleton,3,0,40,0,Jump Shot,14,-66,131,True
+Khris Middleton,3,3,40,1,Jump Shot,17,100,138,True
+Khris Middleton,1,11,41,0,Jump Shot,23,234,48,False
+Khris Middleton,3,6,45,0,Jump Shot,19,-180,80,True
+Khris Middleton,1,0,0,0,Jump Shot,18,-51,178,True
+Khris Middleton,1,1,0,1,Jump Shot,28,-4,284,False
+Khris Middleton,4,3,28,1,Jump Shot,26,-8,262,False
+Khris Middleton,1,4,57,1,Jump Shot,12,120,-1,True
+Khris Middleton,2,3,46,1,Jump Shot,15,-139,78,True
+Khris Middleton,4,3,3,1,Jump Shot,28,83,276,False
+Khris Middleton,2,3,42,0,Jump Shot,25,-175,190,False
+Khris Middleton,1,11,10,0,Jump Shot,20,-3,204,True
+Khris Middleton,2,7,9,1,Jump Shot,26,-78,258,False
+Khris Middleton,2,8,40,1,Jump Shot,15,-61,142,True
+Khris Middleton,2,10,8,1,Jump Shot,15,-150,-14,True
+Khris Middleton,3,7,39,1,Jump Shot,15,-62,145,True
+Khris Middleton,4,4,57,0,Jump Shot,26,-8,264,False
+Khris Middleton,2,2,20,0,Jump Shot,26,-7,263,False
+Khris Middleton,2,6,29,1,Jump Shot,25,118,229,False
+Khris Middleton,1,8,7,0,Jump Shot,22,224,15,False
+Khris Middleton,2,9,53,1,Jump Shot,18,-41,176,True
+Khris Middleton,4,4,50,0,Jump Shot,28,-2,283,False
+Khris Middleton,2,4,47,1,Jump Shot,20,107,172,True
+Khris Middleton,3,10,10,0,Jump Shot,9,0,97,True
+Khris Middleton,3,1,36,0,Jump Shot,26,-98,248,False
+Khris Middleton,4,2,20,0,Jump Shot,20,43,200,True
+Khris Middleton,2,9,37,1,Jump Shot,22,228,27,False
+Khris Middleton,2,11,7,1,Jump Shot,18,123,138,True
+Khris Middleton,2,10,17,0,Jump Shot,27,-114,247,False
+Khris Middleton,1,10,14,1,Jump Shot,28,-111,259,False
+Khris Middleton,1,0,4,0,Jump Shot,17,163,67,True
+Khris Middleton,2,7,38,1,Jump Shot,19,-58,188,True
+Khris Middleton,3,6,54,1,Jump Shot,26,-13,261,False
+Khris Middleton,4,6,4,0,Jump Shot,26,-127,227,False
+Khris Middleton,3,9,42,1,Jump Shot,23,230,0,False
+Khris Middleton,3,1,37,0,Jump Shot,22,228,11,False
+Khris Middleton,2,3,34,0,Jump Shot,18,121,145,True
+Khris Middleton,3,10,6,0,Jump Shot,25,-157,205,False
+Khris Middleton,1,2,47,0,Jump Shot,25,-174,181,False
+Khris Middleton,1,0,2,0,Jump Shot,24,-110,221,False
+Khris Middleton,2,7,21,1,Jump Shot,24,-190,160,False
+Khris Middleton,1,1,35,1,Jump Shot,25,-36,254,False
+Khris Middleton,2,1,51,0,Jump Shot,24,-188,163,False
+Khris Middleton,4,5,34,0,Jump Shot,25,-92,233,False
+Khris Middleton,4,2,36,0,Jump Shot,25,117,225,False
+Khris Middleton,4,3,31,0,Jump Shot,20,-201,13,True
+Khris Middleton,3,1,15,0,Jump Shot,24,48,241,False
+Khris Middleton,3,10,5,1,Jump Shot,22,225,2,False
+Khris Middleton,3,10,45,1,Jump Shot,25,-166,198,False
+Khris Middleton,5,3,35,0,Jump Shot,24,78,236,False
+Khris Middleton,1,9,14,0,Jump Shot,26,61,256,False
+Khris Middleton,1,5,55,1,Jump Shot,19,-184,66,True
+Khris Middleton,4,0,42,1,Jump Shot,26,-115,235,False
+Khris Middleton,3,2,59,1,Jump Shot,20,-115,167,True
+Khris Middleton,4,8,6,1,Jump Shot,11,-113,19,True
+Khris Middleton,3,8,28,0,Jump Shot,27,36,274,False
+Khris Middleton,4,8,30,0,Jump Shot,26,-52,260,False
+Khris Middleton,3,6,7,1,Jump Shot,15,-75,134,True
+Khris Middleton,1,6,46,0,Jump Shot,26,168,205,False
+Khris Middleton,4,10,6,1,Jump Shot,25,149,201,False
+Khris Middleton,2,1,47,0,Jump Shot,24,54,243,False
+Khris Middleton,1,4,57,1,Jump Shot,24,-4,247,False
+Khris Middleton,4,7,22,1,Jump Shot,22,226,8,False
+Khris Middleton,1,8,46,0,Jump Shot,24,-67,232,False
+Khris Middleton,3,9,42,1,Jump Shot,26,-163,206,False
+Khris Middleton,1,5,5,1,Jump Shot,26,-36,264,False
+Khris Middleton,1,6,8,0,Jump Shot,26,-133,231,False
+Khris Middleton,4,7,13,1,Jump Shot,16,-73,147,True
+Khris Middleton,4,8,32,0,Jump Shot,26,8,263,False
+Khris Middleton,1,1,6,1,Jump Shot,9,-43,83,True
+Khris Middleton,4,9,43,0,Jump Shot,27,138,234,False
+Khris Middleton,4,10,23,1,Jump Shot,15,7,154,True
+Khris Middleton,3,9,3,1,Jump Shot,16,158,36,True
+Khris Middleton,2,3,54,0,Jump Shot,27,118,243,False
+Khris Middleton,2,4,33,1,Jump Shot,26,-95,247,False
+Khris Middleton,1,1,29,0,Jump Shot,8,82,-16,True
+Khris Middleton,4,1,31,0,Jump Shot,7,-74,10,True
+Khris Middleton,3,10,13,0,Jump Shot,6,58,29,True
+Khris Middleton,1,4,44,1,Jump Shot,22,-225,22,False
+Khris Middleton,1,5,44,0,Jump Shot,18,-35,184,True
+Khris Middleton,1,8,49,1,Jump Shot,22,226,17,False
+Khris Middleton,4,1,36,0,Jump Shot,19,148,126,True
+Khris Middleton,1,8,11,1,Jump Shot,25,117,232,False
+Khris Middleton,3,1,39,0,Jump Shot,27,132,236,False
+Khris Middleton,3,0,32,0,Jump Shot,3,6,32,True
+Khris Middleton,4,3,56,1,Jump Shot,25,213,143,False
+Khris Middleton,2,8,17,0,Jump Shot,12,-126,21,True
+Khris Middleton,1,3,32,1,Jump Shot,26,-121,239,False
+Khris Middleton,1,8,21,0,Jump Shot,4,4,47,True
+Khris Middleton,1,11,32,0,Jump Shot,18,-83,160,True
+Khris Middleton,3,11,3,0,Jump Shot,27,63,264,False
+Khris Middleton,2,0,2,1,Jump Shot,18,-155,106,True
+Khris Middleton,1,6,10,0,Jump Shot,14,140,-5,True
+Khris Middleton,3,7,5,0,Jump Shot,28,131,253,False
+Khris Middleton,4,8,54,0,Jump Shot,13,-105,89,True
+Khris Middleton,3,5,9,0,Jump Shot,9,1,98,True
+Khris Middleton,2,5,20,0,Jump Shot,10,-57,83,True
+Khris Middleton,2,11,47,0,Jump Shot,25,-40,253,False
+Khris Middleton,4,4,22,0,Jump Shot,25,-188,178,False
+Khris Middleton,2,7,45,1,Jump Shot,17,138,111,True
+Khris Middleton,3,3,41,0,Jump Shot,16,161,29,True
+Khris Middleton,1,10,21,0,Jump Shot,24,55,235,False
+Khris Middleton,2,6,45,1,Jump Shot,18,-71,168,True
+Khris Middleton,4,0,44,1,Jump Shot,25,25,257,False
+Khris Middleton,2,1,56,0,Jump Shot,24,-85,234,False
+Khris Middleton,2,6,17,0,Jump Shot,27,-74,261,False
+Khris Middleton,2,9,13,1,Jump Shot,24,235,80,False
+Khris Middleton,4,0,11,0,Jump Shot,25,76,239,False
+Khris Middleton,1,0,24,0,Jump Shot,14,-131,61,True
+Khris Middleton,3,2,12,0,Jump Shot,26,-130,228,False
+Khris Middleton,4,2,19,1,Jump Shot,19,-137,143,True
+Khris Middleton,2,0,0,1,Jump Shot,25,-187,176,False
+Khris Middleton,3,0,0,0,Jump Shot,57,145,553,False
+Khris Middleton,4,4,16,0,Jump Shot,19,-65,185,True
+Khris Middleton,4,10,8,0,Jump Shot,16,-166,-3,True
+Khris Middleton,4,11,43,0,Jump Shot,22,-225,10,False
+Khris Middleton,1,4,23,0,Jump Shot,20,-158,134,True
+Khris Middleton,3,10,49,1,Jump Shot,14,90,117,True
+Khris Middleton,1,11,13,0,Jump Shot,25,-133,214,False
+Khris Middleton,4,2,16,1,Jump Shot,15,-101,113,True
+Khris Middleton,2,0,31,0,Jump Shot,22,-4,223,True
+Khris Middleton,1,0,14,0,Jump Shot,11,-116,-15,True
+Khris Middleton,2,4,15,0,Jump Shot,26,73,252,False
+Khris Middleton,4,10,23,0,Jump Shot,9,62,67,True
+Khris Middleton,4,5,5,1,Jump Shot,10,-19,101,True
+Khris Middleton,4,2,28,1,Jump Shot,7,64,32,True
+Khris Middleton,1,0,15,0,Jump Shot,16,23,167,True
+Khris Middleton,4,6,16,0,Jump Shot,11,111,29,True
+Khris Middleton,1,4,29,1,Jump Shot,11,119,15,True
+Khris Middleton,3,3,17,0,Jump Shot,26,-72,257,False
+Khris Middleton,4,0,26,0,Jump Shot,25,124,228,False
+Khris Middleton,4,1,12,1,Jump Shot,26,-116,235,False
+Khris Middleton,4,0,5,1,Jump Shot,26,165,201,False
+Khris Middleton,4,2,1,0,Jump Shot,24,76,238,False
+Khris Middleton,4,10,44,0,Jump Shot,18,-73,175,True
+Khris Middleton,4,0,52,0,Jump Shot,26,-159,209,False
+Khris Middleton,3,4,14,1,Jump Shot,25,-83,243,False
+Khris Middleton,4,6,20,0,Jump Shot,7,58,46,True
+Khris Middleton,3,7,22,1,Jump Shot,25,-174,186,False
+Khris Middleton,1,10,9,1,Jump Shot,12,-44,116,True
+Khris Middleton,4,4,10,1,Jump Shot,25,117,225,False
+Khris Middleton,1,8,25,0,Jump Shot,24,-105,226,False
+Khris Middleton,1,4,12,0,Jump Shot,10,3,104,True
+Khris Middleton,3,1,21,0,Jump Shot,23,229,61,False
+Khris Middleton,2,3,2,0,Jump Shot,26,-17,262,False
+Khris Middleton,2,7,3,0,Jump Shot,26,-177,200,False
+Khris Middleton,2,4,2,1,Jump Shot,12,-123,1,True
+Khris Middleton,1,4,1,0,Jump Shot,19,-6,195,True
+Khris Middleton,1,8,51,0,Jump Shot,17,140,111,True
+Khris Middleton,2,3,34,1,Jump Shot,13,-138,-22,True
+Khris Middleton,1,5,58,0,Jump Shot,26,-16,264,False
+Khris Middleton,3,3,12,0,Jump Shot,26,138,227,False
+Khris Middleton,1,2,19,0,Jump Shot,25,129,222,False
+Khris Middleton,4,4,20,1,Jump Shot,25,-43,247,False
+Khris Middleton,3,1,18,1,Jump Shot,26,100,243,False
+Khris Middleton,3,6,50,1,Jump Shot,25,-59,253,False
+Khris Middleton,4,10,32,0,Jump Shot,27,133,239,False
+Khris Middleton,2,6,9,0,Jump Shot,11,-98,57,True
+Khris Middleton,1,3,5,0,Jump Shot,17,-128,122,True
+Khris Middleton,3,0,35,1,Jump Shot,26,57,256,False
+Khris Middleton,4,0,27,0,Jump Shot,27,-133,243,False
+Khris Middleton,3,1,24,1,Jump Shot,25,-218,130,False
+Khris Middleton,1,6,11,0,Jump Shot,7,-78,-15,True
+Khris Middleton,4,4,10,1,Jump Shot,17,46,172,True
+Khris Middleton,2,7,19,1,Jump Shot,23,225,79,False
+Khris Middleton,4,10,48,1,Jump Shot,22,228,16,False
+Khris Middleton,2,0,50,1,Jump Shot,24,175,178,False
+Khris Middleton,1,1,1,0,Jump Shot,1,8,18,True
+Khris Middleton,1,10,25,0,Jump Shot,18,-185,22,True
+Khris Middleton,1,10,54,0,Jump Shot,25,163,201,False
+Khris Middleton,3,3,56,0,Jump Shot,27,85,264,False
+Khris Middleton,1,5,4,1,Jump Shot,19,74,180,True
+Khris Middleton,1,9,14,0,Jump Shot,10,57,85,True
+Khris Middleton,3,7,3,1,Jump Shot,26,152,219,False
+Khris Middleton,1,7,54,0,Jump Shot,14,-72,126,True
+Khris Middleton,1,11,18,1,Jump Shot,16,112,116,True
+Khris Middleton,3,6,18,0,Jump Shot,14,-143,-1,True
+Khris Middleton,4,0,43,1,Jump Shot,25,32,253,False
+Khris Middleton,1,5,56,0,Jump Shot,14,-73,122,True
+Khris Middleton,1,10,22,0,Jump Shot,26,-164,202,False
+Khris Middleton,1,9,8,0,Jump Shot,26,-163,212,False
+Khris Middleton,2,0,10,0,Jump Shot,16,127,111,True
+Khris Middleton,2,7,8,0,Jump Shot,23,-231,-10,False
+Khris Middleton,3,7,13,0,Jump Shot,26,-90,251,False
+Khris Middleton,3,6,13,1,Jump Shot,15,72,142,True
+Khris Middleton,1,8,1,0,Jump Shot,14,24,144,True
+Khris Middleton,1,7,7,1,Jump Shot,15,5,152,True
+Khris Middleton,4,6,43,0,Jump Shot,11,116,-15,True
+Khris Middleton,4,0,46,0,Jump Shot,15,-7,155,True
+Khris Middleton,2,7,53,0,Jump Shot,26,110,245,False
+Khris Middleton,1,11,43,1,Jump Shot,16,-78,142,True
+Khris Middleton,1,10,33,0,Jump Shot,15,-134,78,True
+Khris Middleton,3,9,44,0,Jump Shot,13,-135,14,True
+Khris Middleton,1,4,6,0,Jump Shot,26,96,247,False
+Khris Middleton,4,1,19,0,Jump Shot,25,-171,194,False
+Khris Middleton,3,6,11,0,Jump Shot,26,123,239,False
+Khris Middleton,1,5,21,1,Jump Shot,1,-2,11,True
+Khris Middleton,3,10,27,0,Jump Shot,23,-231,32,False
+Khris Middleton,1,8,43,0,Jump Shot,25,-183,178,False
+Khris Middleton,2,0,33,1,Jump Shot,9,-65,75,True
+Khris Middleton,1,8,56,0,Jump Shot,25,-169,197,False
+Khris Middleton,2,5,3,1,Jump Shot,26,-60,263,False
+Khris Middleton,1,8,9,1,Jump Shot,14,7,147,True
+Khris Middleton,2,2,53,0,Jump Shot,26,121,241,False
+Khris Middleton,3,8,36,0,Jump Shot,19,-101,167,True
+Khris Middleton,4,4,30,0,Jump Shot,23,-231,12,False
+Khris Middleton,3,6,5,1,Jump Shot,14,143,-23,True
+Khris Middleton,1,10,19,0,Jump Shot,26,59,259,False
+Khris Middleton,2,3,7,1,Jump Shot,27,86,258,False
+Khris Middleton,3,11,26,0,Jump Shot,26,52,262,False
+Khris Middleton,3,10,16,1,Jump Shot,17,-127,116,True
+Khris Middleton,1,5,9,0,Layup Shot,2,-18,9,True
+Khris Middleton,3,7,55,1,Layup Shot,1,-7,17,True
+Khris Middleton,1,11,10,1,Layup Shot,1,-12,4,True
+Khris Middleton,4,1,28,1,Layup Shot,1,12,6,True
+Khris Middleton,3,3,31,0,Layup Shot,2,-9,20,True
+Khris Middleton,1,0,28,0,Layup Shot,3,14,27,True
+Khris Middleton,4,4,58,1,Layup Shot,1,-9,15,True
+Khris Middleton,1,7,26,0,Layup Shot,3,7,35,True
+Khris Middleton,1,9,32,0,Layup Shot,2,-2,29,True
+Khris Middleton,2,3,1,0,Layup Shot,3,-2,32,True
+Khris Middleton,1,6,25,0,Layup Shot,0,6,7,True
+Khris Middleton,3,7,20,0,Layup Shot,2,-4,25,True
+Khris Middleton,2,1,15,1,Layup Shot,1,12,11,True
+Khris Middleton,3,8,28,0,Layup Shot,2,1,25,True
+Khris Middleton,3,8,33,0,Layup Shot,4,38,18,True
+Khris Middleton,1,4,29,0,Layup Shot,3,-25,19,True
+Khris Middleton,3,10,5,1,Layup Shot,1,6,11,True
+Khris Middleton,4,7,41,1,Layup Shot,1,-2,17,True
+Khris Middleton,2,4,15,0,Layup Shot,4,0,44,True
+Khris Middleton,2,4,10,0,Layup Shot,2,-7,25,True
+Khris Middleton,2,4,13,0,Layup Shot,2,9,22,True
+Khris Middleton,3,10,44,1,Layup Shot,2,11,21,True
+Khris Middleton,3,4,30,0,Layup Shot,1,-14,11,True
+Khris Middleton,2,1,23,0,Layup Shot,3,0,38,True
+Khris Middleton,4,2,1,1,Pullup Jump shot,19,165,104,True
+Khris Middleton,3,3,44,0,Pullup Jump shot,14,89,113,True
+Khris Middleton,3,3,8,1,Pullup Jump shot,12,14,123,True
+Khris Middleton,2,3,0,1,Pullup Jump shot,13,-135,-28,True
+Khris Middleton,1,2,44,0,Pullup Jump shot,16,132,92,True
+Khris Middleton,3,0,34,1,Pullup Jump shot,17,112,137,True
+Khris Middleton,3,0,38,0,Pullup Jump shot,18,-187,1,True
+Khris Middleton,1,8,6,1,Pullup Jump shot,14,-67,127,True
+Khris Middleton,3,3,10,0,Pullup Jump shot,14,-45,137,True
+Khris Middleton,4,6,4,1,Pullup Jump shot,12,42,123,True
+Khris Middleton,3,8,29,1,Pullup Jump shot,17,-40,175,True
+Khris Middleton,2,9,10,0,Pullup Jump shot,10,-5,107,True
+Khris Middleton,4,8,2,1,Pullup Jump shot,12,-72,101,True
+Khris Middleton,1,0,0,1,Pullup Jump shot,27,-144,237,False
+Khris Middleton,1,6,27,0,Pullup Jump shot,16,-37,163,True
+Khris Middleton,2,0,32,0,Pullup Jump shot,7,-71,34,True
+Khris Middleton,1,0,19,0,Pullup Jump shot,24,-112,215,False
+Khris Middleton,2,10,17,0,Pullup Jump shot,19,155,121,True
+Khris Middleton,4,7,21,1,Pullup Jump shot,15,113,109,True
+Khris Middleton,2,7,3,1,Pullup Jump shot,20,2,201,True
+Khris Middleton,2,6,22,0,Pullup Jump shot,17,147,100,True
+Khris Middleton,1,0,31,1,Pullup Jump shot,12,-71,105,True
+Khris Middleton,1,2,11,0,Pullup Jump shot,17,-44,167,True
+Khris Middleton,1,5,50,0,Pullup Jump shot,14,-61,128,True
+Khris Middleton,2,4,8,0,Pullup Jump shot,18,-114,148,True
+Khris Middleton,4,0,56,1,Pullup Jump shot,27,-46,268,False
+Khris Middleton,4,7,25,1,Pullup Jump shot,17,74,164,True
+Khris Middleton,1,11,3,0,Pullup Jump shot,20,122,159,True
+Khris Middleton,4,5,3,1,Pullup Jump shot,18,57,175,True
+Khris Middleton,1,0,8,1,Pullup Jump shot,9,96,11,True
+Khris Middleton,2,8,26,1,Pullup Jump shot,16,-41,155,True
+Khris Middleton,1,3,11,0,Pullup Jump shot,14,-146,-22,True
+Khris Middleton,2,3,49,0,Pullup Jump shot,19,190,25,True
+Khris Middleton,1,10,4,1,Pullup Jump shot,15,-63,147,True
+Khris Middleton,4,7,30,0,Pullup Jump shot,13,-138,23,True
+Khris Middleton,1,8,22,0,Pullup Jump shot,15,-27,153,True
+Khris Middleton,3,10,48,1,Pullup Jump shot,11,-117,-17,True
+Khris Middleton,4,6,1,1,Pullup Jump shot,14,111,95,True
+Khris Middleton,1,4,33,1,Pullup Jump shot,14,-100,106,True
+Khris Middleton,3,11,25,0,Pullup Jump shot,13,38,129,True
+Khris Middleton,1,2,5,0,Pullup Jump shot,10,6,107,True
+Khris Middleton,2,7,28,0,Pullup Jump shot,16,147,74,True
+Khris Middleton,3,4,28,0,Pullup Jump shot,26,-28,262,False
+Khris Middleton,3,6,5,0,Pullup Jump shot,15,-2,158,True
+Khris Middleton,4,5,44,0,Pullup Jump shot,2,-27,11,True
+Khris Middleton,3,7,19,1,Pullup Jump shot,18,110,147,True
+Khris Middleton,2,4,33,1,Pullup Jump shot,10,106,-5,True
+Khris Middleton,4,7,35,1,Pullup Jump shot,17,-73,164,True
+Khris Middleton,2,2,3,1,Pullup Jump shot,16,-71,146,True
+Khris Middleton,2,4,2,1,Pullup Jump shot,15,-44,147,True
+Khris Middleton,3,0,3,0,Pullup Jump shot,25,-174,189,False
+Khris Middleton,3,10,16,1,Pullup Jump shot,16,128,111,True
+Khris Middleton,2,0,34,1,Pullup Jump shot,17,-46,164,True
+Khris Middleton,2,6,5,1,Pullup Jump shot,18,116,145,True
+Khris Middleton,1,6,14,1,Pullup Jump shot,11,101,53,True
+Khris Middleton,3,9,1,1,Pullup Jump shot,12,122,0,True
+Khris Middleton,1,2,46,1,Pullup Jump shot,19,152,116,True
+Khris Middleton,4,4,42,0,Pullup Jump shot,26,139,224,False
+Khris Middleton,1,6,47,0,Pullup Jump shot,5,44,29,True
+Khris Middleton,4,0,12,0,Pullup Jump shot,17,144,106,True
+Khris Middleton,1,9,46,0,Pullup Jump shot,13,-99,95,True
+Khris Middleton,4,9,20,1,Pullup Jump shot,17,155,73,True
+Khris Middleton,4,3,17,1,Pullup Jump shot,5,52,24,True
+Khris Middleton,1,7,25,0,Pullup Jump shot,26,-109,247,False
+Khris Middleton,4,3,50,0,Pullup Jump shot,14,-143,43,True
+Khris Middleton,3,7,11,0,Pullup Jump shot,19,-96,167,True
+Khris Middleton,2,3,13,1,Pullup Jump shot,4,-28,29,True
+Khris Middleton,1,10,32,0,Pullup Jump shot,19,57,182,True
+Khris Middleton,3,4,46,0,Pullup Jump shot,17,-98,143,True
+Khris Middleton,1,9,10,1,Pullup Jump shot,16,-78,142,True
+Khris Middleton,2,5,44,1,Pullup Jump shot,15,132,77,True
+Khris Middleton,2,11,2,1,Pullup Jump shot,13,41,130,True
+Khris Middleton,1,2,57,1,Pullup Jump shot,19,152,122,True
+Khris Middleton,3,4,5,0,Pullup Jump shot,20,67,190,True
+Khris Middleton,1,5,57,1,Pullup Jump shot,14,140,39,True
+Khris Middleton,1,8,22,1,Pullup Jump shot,24,107,225,False
+Khris Middleton,1,6,49,1,Pullup Jump shot,9,-92,26,True
+Khris Middleton,1,2,32,0,Pullup Jump shot,4,-22,36,True
+Khris Middleton,3,9,30,0,Pullup Jump shot,13,38,130,True
+Khris Middleton,4,5,52,0,Pullup Jump shot,18,-76,171,True
+Khris Middleton,4,8,20,0,Pullup Jump shot,13,-98,91,True
+Khris Middleton,4,6,12,0,Pullup Jump shot,10,-101,0,True
+Khris Middleton,2,7,1,1,Pullup Jump shot,19,37,189,True
+Khris Middleton,1,1,3,1,Pullup Jump shot,16,-25,163,True
+Khris Middleton,2,0,32,0,Pullup Jump shot,14,101,102,True
+Khris Middleton,2,3,31,0,Pullup Jump shot,19,-6,193,True
+Khris Middleton,3,7,45,1,Pullup Jump shot,19,-148,120,True
+Khris Middleton,3,0,31,1,Pullup Jump shot,10,-84,68,True
+Khris Middleton,1,0,5,1,Pullup Jump shot,15,-20,153,True
+Khris Middleton,3,2,8,0,Pullup Jump shot,14,-85,121,True
+Khris Middleton,3,2,55,0,Pullup Jump shot,15,141,68,True
+Khris Middleton,1,0,0,1,Pullup Jump shot,8,-82,19,True
+Khris Middleton,2,1,46,1,Pullup Jump shot,17,120,134,True
+Khris Middleton,3,3,59,1,Pullup Jump shot,24,-92,232,False
+Khris Middleton,3,6,19,1,Pullup Jump shot,21,188,96,True
+Khris Middleton,2,1,18,0,Pullup Jump shot,25,55,245,False
+Khris Middleton,1,3,25,1,Pullup Jump shot,14,-103,101,True
+Khris Middleton,4,0,2,0,Pullup Jump shot,25,-127,225,False
+Khris Middleton,4,7,18,0,Pullup Jump shot,20,79,189,True
+Khris Middleton,3,3,43,1,Pullup Jump shot,18,69,176,True
+Khris Middleton,4,1,38,1,Pullup Jump shot,17,-125,124,True
+Khris Middleton,4,3,23,1,Pullup Jump shot,16,77,141,True
+Khris Middleton,1,9,21,0,Pullup Jump shot,24,-116,218,False
+Khris Middleton,3,11,8,0,Pullup Jump shot,20,114,167,True
+Khris Middleton,1,5,6,1,Pullup Jump shot,12,128,22,True
+Khris Middleton,3,6,42,0,Pullup Jump shot,14,89,113,True
+Khris Middleton,1,10,12,0,Pullup Jump shot,22,-122,184,True
+Khris Middleton,1,6,36,1,Pullup Jump shot,25,-192,175,False
+Khris Middleton,2,0,4,1,Pullup Jump shot,26,-111,237,False
+Khris Middleton,1,10,7,0,Pullup Jump shot,8,-19,83,True
+Khris Middleton,3,4,8,0,Pullup Jump shot,13,-123,43,True
+Khris Middleton,3,11,32,1,Pullup Jump shot,15,148,50,True
+Khris Middleton,4,7,48,0,Pullup Jump shot,24,56,234,False
+Khris Middleton,1,7,55,0,Pullup Jump shot,17,-93,151,True
+Khris Middleton,3,10,56,0,Pullup Jump shot,17,-11,178,True
+Khris Middleton,5,0,44,0,Pullup Jump shot,27,176,210,False
+Khris Middleton,3,4,51,0,Pullup Jump shot,26,-95,246,False
+Khris Middleton,2,1,18,0,Pullup Jump shot,11,10,111,True
+Khris Middleton,3,6,12,1,Pullup Jump shot,19,-87,176,True
+Khris Middleton,3,9,35,0,Pullup Jump shot,13,39,126,True
+Khris Middleton,5,0,36,0,Pullup Jump shot,21,185,112,True
+Khris Middleton,1,8,15,1,Pullup Jump shot,19,98,168,True
+Khris Middleton,1,2,26,1,Pullup Jump shot,17,87,151,True
+Khris Middleton,3,11,48,0,Pullup Jump shot,19,87,176,True
+Khris Middleton,4,8,21,0,Pullup Jump shot,9,81,51,True
+Khris Middleton,4,6,9,0,Pullup Jump shot,24,-15,243,False
+Khris Middleton,4,9,37,1,Pullup Jump shot,10,-96,46,True
+Khris Middleton,1,3,56,1,Pullup Jump shot,20,2,209,True
+Khris Middleton,4,9,17,1,Pullup Jump shot,8,33,82,True
+Khris Middleton,2,6,11,0,Pullup Jump shot,14,-63,131,True
+Khris Middleton,3,8,52,0,Pullup Jump shot,24,-217,123,False
+Khris Middleton,1,7,24,1,Pullup Jump shot,19,84,179,True
+Khris Middleton,2,4,54,0,Pullup Jump shot,26,179,190,False
+Khris Middleton,3,8,53,0,Pullup Jump shot,14,42,137,True
+Khris Middleton,2,8,12,0,Pullup Jump shot,21,57,203,True
+Khris Middleton,4,3,48,1,Pullup Jump shot,16,-107,124,True
+Khris Middleton,1,9,16,1,Pullup Jump shot,24,231,75,False
+Khris Middleton,3,7,4,0,Pullup Jump shot,18,105,152,True
+Khris Middleton,4,0,55,1,Pullup Jump shot,20,-112,172,True
+Khris Middleton,1,9,15,1,Pullup Jump shot,14,-16,146,True
+Khris Middleton,1,9,3,1,Pullup Jump shot,14,-61,136,True
+Khris Middleton,1,8,42,0,Pullup Jump shot,17,-116,127,True
+Khris Middleton,2,8,2,1,Pullup Jump shot,7,-39,60,True
+Khris Middleton,4,2,37,0,Pullup Jump shot,16,-89,143,True
+Khris Middleton,1,10,45,1,Pullup Jump shot,10,1,106,True
+Khris Middleton,4,6,13,1,Pullup Jump shot,20,41,202,True
+Khris Middleton,1,8,53,1,Pullup Jump shot,14,122,86,True
+Khris Middleton,3,7,23,1,Pullup Jump shot,7,-50,59,True
+Khris Middleton,4,3,35,0,Pullup Jump shot,19,-2,192,True
+Khris Middleton,3,9,8,0,Pullup Jump shot,26,-150,221,False
+Khris Middleton,2,9,14,0,Pullup Jump shot,19,-75,183,True
+Khris Middleton,3,7,42,1,Pullup Jump shot,12,-87,93,True
+Khris Middleton,1,0,32,1,Pullup Jump shot,16,25,167,True
+Khris Middleton,3,11,28,1,Putback Layup Shot,0,-7,0,True
+Khris Middleton,1,4,34,1,Putback Layup Shot,2,6,25,True
+Khris Middleton,4,6,10,1,Putback Layup Shot,0,0,-6,True
+Khris Middleton,1,10,57,1,Putback Layup Shot,0,-3,3,True
+Khris Middleton,3,7,49,0,Putback Layup Shot,2,-14,15,True
+Khris Middleton,1,6,52,1,Reverse Layup Shot,2,2,21,True
+Khris Middleton,2,4,36,1,Reverse Layup Shot,1,10,12,True
+Khris Middleton,3,2,9,1,Reverse Layup Shot,0,9,-2,True
+Khris Middleton,2,5,48,0,Reverse Layup Shot,0,5,4,True
+Khris Middleton,1,3,55,1,Running Dunk Shot,0,2,8,True
+Khris Middleton,2,9,57,1,Running Dunk Shot,0,-2,5,True
+Khris Middleton,1,5,30,1,Running Dunk Shot,0,-2,8,True
+Khris Middleton,2,0,25,1,Running Dunk Shot,1,3,10,True
+Khris Middleton,1,0,23,1,Running Dunk Shot,1,0,12,True
+Khris Middleton,3,4,25,1,Running Dunk Shot,1,-10,8,True
+Khris Middleton,3,3,16,1,Running Dunk Shot,1,5,17,True
+Khris Middleton,4,1,26,1,Running Dunk Shot,0,9,0,True
+Khris Middleton,1,5,17,1,Running Dunk Shot,0,-3,7,True
+Khris Middleton,4,7,12,1,Running Finger Roll Layup Shot,1,-4,14,True
+Khris Middleton,3,3,24,1,Running Finger Roll Layup Shot,0,-2,5,True
+Khris Middleton,2,4,3,1,Running Finger Roll Layup Shot,1,14,12,True
+Khris Middleton,3,0,0,1,Running Finger Roll Layup Shot,2,-11,25,True
+Khris Middleton,1,2,41,1,Running Finger Roll Layup Shot,1,7,11,True
+Khris Middleton,2,8,42,0,Running Jump Shot,24,-92,224,False
+Khris Middleton,1,10,29,1,Running Jump Shot,17,-89,147,True
+Khris Middleton,4,5,5,0,Running Jump Shot,5,-40,37,True
+Khris Middleton,1,6,46,1,Running Jump Shot,3,17,25,True
+Khris Middleton,4,10,15,1,Running Jump Shot,24,-119,215,False
+Khris Middleton,3,5,19,0,Running Jump Shot,1,-14,14,True
+Khris Middleton,1,0,31,0,Running Jump Shot,25,133,218,False
+Khris Middleton,3,11,22,1,Running Jump Shot,2,-13,26,True
+Khris Middleton,4,9,25,0,Running Jump Shot,25,-126,221,False
+Khris Middleton,3,9,10,1,Running Jump Shot,8,-22,81,True
+Khris Middleton,3,0,0,0,Running Jump Shot,24,87,233,False
+Khris Middleton,2,3,21,1,Running Layup Shot,1,5,11,True
+Khris Middleton,1,4,33,0,Running Layup Shot,1,16,8,True
+Khris Middleton,4,5,33,1,Running Layup Shot,1,8,11,True
+Khris Middleton,1,2,8,1,Running Layup Shot,1,3,11,True
+Khris Middleton,3,2,47,0,Running Layup Shot,2,0,20,True
+Khris Middleton,1,1,40,1,Running Layup Shot,1,3,17,True
+Khris Middleton,1,1,37,0,Running Layup Shot,2,4,26,True
+Khris Middleton,3,9,28,0,Running Layup Shot,2,3,25,True
+Khris Middleton,3,8,52,1,Running Layup Shot,1,-3,10,True
+Khris Middleton,2,4,48,0,Running Layup Shot,2,6,22,True
+Khris Middleton,1,9,6,0,Running Layup Shot,2,-7,20,True
+Khris Middleton,2,5,49,1,Running Layup Shot,1,-2,10,True
+Khris Middleton,1,10,39,1,Running Layup Shot,1,9,8,True
+Khris Middleton,3,11,38,1,Running Layup Shot,1,8,13,True
+Khris Middleton,2,5,27,1,Running Layup Shot,0,5,4,True
+Khris Middleton,3,9,34,1,Running Layup Shot,0,-6,3,True
+Khris Middleton,3,10,12,0,Running Layup Shot,3,-6,31,True
+Khris Middleton,1,7,20,1,Running Layup Shot,1,12,13,True
+Khris Middleton,3,10,41,0,Running Layup Shot,2,-3,21,True
+Khris Middleton,3,10,57,1,Running Layup Shot,0,7,6,True
+Khris Middleton,1,5,6,1,Running Layup Shot,2,26,2,True
+Khris Middleton,4,10,52,0,Running Layup Shot,1,-2,15,True
+Khris Middleton,2,7,45,1,Running Layup Shot,3,-29,11,True
+Khris Middleton,2,0,27,0,Running Pull-Up Jump Shot,13,6,133,True
+Khris Middleton,1,4,30,0,Running Pull-Up Jump Shot,16,67,152,True
+Khris Middleton,3,7,36,0,Step Back Jump shot,15,66,141,True
+Khris Middleton,3,0,36,1,Step Back Jump shot,20,-194,62,True
+Khris Middleton,1,9,15,1,Step Back Jump shot,15,-127,95,True
+Khris Middleton,1,8,5,1,Step Back Jump shot,22,-222,50,False
+Khris Middleton,3,7,15,0,Step Back Jump shot,14,-140,37,True
+Khris Middleton,1,4,4,1,Step Back Jump shot,17,68,165,True
+Khris Middleton,3,3,43,1,Step Back Jump shot,19,-197,11,True
+Khris Middleton,1,6,43,1,Step Back Jump shot,19,-173,91,True
+Khris Middleton,4,3,10,1,Step Back Jump shot,14,68,131,True
+Khris Middleton,2,10,29,1,Step Back Jump shot,15,141,65,True
+Khris Middleton,3,0,23,1,Step Back Jump shot,17,-128,120,True
+Khris Middleton,1,6,16,0,Step Back Jump shot,21,-82,198,True
+Khris Middleton,1,7,40,1,Step Back Jump shot,21,-43,207,True
+Khris Middleton,2,3,8,0,Step Back Jump shot,11,-107,47,True
+Khris Middleton,1,7,30,1,Step Back Jump shot,17,-16,174,True
+Khris Middleton,2,11,0,0,Step Back Jump shot,18,42,179,True
+Khris Middleton,1,8,43,1,Step Back Jump shot,14,-11,149,True
+Khris Middleton,3,8,1,1,Step Back Jump shot,15,-64,146,True
+Khris Middleton,4,0,50,1,Step Back Jump shot,13,137,-10,True
+Khris Middleton,3,1,39,0,Step Back Jump shot,12,117,46,True
+Khris Middleton,1,10,58,0,Step Back Jump shot,11,-105,38,True
+Khris Middleton,2,1,40,1,Step Back Jump shot,13,-112,75,True
+Khris Middleton,3,3,7,1,Step Back Jump shot,25,-40,247,False
+Khris Middleton,4,7,3,1,Step Back Jump shot,14,-52,138,True
+Khris Middleton,4,8,38,0,Step Back Jump shot,15,-157,0,True
+Khris Middleton,1,6,52,0,Step Back Jump shot,14,141,4,True
+Khris Middleton,2,2,56,0,Step Back Jump shot,13,-127,36,True
+Khris Middleton,4,8,38,0,Step Back Jump shot,15,-67,144,True
+Khris Middleton,4,9,57,0,Step Back Jump shot,12,-34,116,True
+Khris Middleton,3,8,10,1,Step Back Jump shot,14,-141,-16,True
+Khris Middleton,4,4,18,1,Step Back Jump shot,12,-125,-16,True
+Khris Middleton,3,0,46,0,Step Back Jump shot,26,-51,258,False
+Khris Middleton,1,10,20,1,Step Back Jump shot,16,84,138,True
+Khris Middleton,3,6,38,0,Step Back Jump shot,15,51,149,True
+Khris Middleton,4,11,8,1,Step Back Jump shot,15,19,156,True
+Khris Middleton,1,3,30,1,Step Back Jump shot,11,112,-6,True
+Khris Middleton,1,0,1,0,Step Back Jump shot,18,-102,155,True
+Khris Middleton,3,6,7,0,Step Back Jump shot,16,104,132,True
+Khris Middleton,3,9,53,1,Step Back Jump shot,13,27,137,True
+Khris Middleton,2,11,43,1,Step Back Jump shot,18,-90,165,True
+Khris Middleton,3,3,33,1,Step Back Jump shot,23,-233,1,False
+Khris Middleton,2,8,9,0,Step Back Jump shot,17,82,151,True
+Khris Middleton,1,3,15,0,Step Back Jump shot,17,22,173,True
+Khris Middleton,4,11,4,0,Step Back Jump shot,11,116,-12,True
+Khris Middleton,1,4,31,1,Tip Layup Shot,0,0,-6,True
+Khris Middleton,1,10,59,0,Tip Layup Shot,0,0,-6,True
+Khris Middleton,4,8,21,1,Tip Layup Shot,0,0,-6,True
+Khris Middleton,4,1,57,0,Tip Layup Shot,2,-3,26,True
+Khris Middleton,2,10,43,1,Turnaround Fadeaway Bank Jump Shot,7,78,11,True
+Khris Middleton,2,1,21,0,Turnaround Fadeaway Bank Jump Shot,8,-86,3,True
+Khris Middleton,1,1,54,0,Turnaround Fadeaway Bank Jump Shot,14,-2,145,True
+Khris Middleton,4,8,32,1,Turnaround Fadeaway Bank Jump Shot,13,-128,46,True
+Khris Middleton,4,2,2,1,Turnaround Fadeaway Bank Jump Shot,8,83,13,True
+Khris Middleton,3,8,32,0,Turnaround Fadeaway shot,11,-74,82,True
+Khris Middleton,4,9,42,0,Turnaround Fadeaway shot,12,-129,1,True
+Khris Middleton,2,3,58,0,Turnaround Fadeaway shot,15,73,138,True
+Khris Middleton,2,1,23,0,Turnaround Fadeaway shot,15,-143,52,True
+Khris Middleton,2,2,6,1,Turnaround Fadeaway shot,14,-145,37,True
+Khris Middleton,5,1,50,1,Turnaround Fadeaway shot,14,-67,129,True
+Khris Middleton,1,3,15,1,Turnaround Fadeaway shot,10,-103,24,True
+Khris Middleton,2,0,47,1,Turnaround Fadeaway shot,11,-93,75,True
+Khris Middleton,1,7,12,1,Turnaround Fadeaway shot,13,-73,111,True
+Khris Middleton,4,0,54,1,Turnaround Fadeaway shot,11,-115,-11,True
+Khris Middleton,3,9,58,1,Turnaround Fadeaway shot,15,-70,143,True
+Khris Middleton,4,11,34,1,Turnaround Fadeaway shot,14,-103,105,True
+Khris Middleton,4,0,24,1,Turnaround Fadeaway shot,11,-114,-1,True
+Khris Middleton,1,1,21,0,Turnaround Fadeaway shot,10,66,79,True
+Khris Middleton,3,8,30,0,Turnaround Fadeaway shot,15,-153,46,True
+Khris Middleton,1,5,5,0,Turnaround Fadeaway shot,7,-72,16,True
+Khris Middleton,2,2,35,1,Turnaround Fadeaway shot,10,-72,73,True
+Khris Middleton,1,1,27,1,Turnaround Fadeaway shot,13,109,84,True
+Khris Middleton,3,2,37,0,Turnaround Fadeaway shot,12,-92,84,True
+Khris Middleton,1,6,47,0,Turnaround Fadeaway shot,16,163,16,True
+Khris Middleton,3,2,1,0,Turnaround Fadeaway shot,10,53,89,True
+Khris Middleton,1,3,24,1,Turnaround Fadeaway shot,7,-68,20,True
+Khris Middleton,1,3,55,1,Turnaround Fadeaway shot,13,-36,130,True
+Khris Middleton,2,1,33,0,Turnaround Fadeaway shot,18,-154,111,True
+Khris Middleton,1,2,52,1,Turnaround Fadeaway shot,10,6,108,True
+Khris Middleton,5,1,53,0,Turnaround Fadeaway shot,9,85,36,True
+Khris Middleton,2,4,1,1,Turnaround Fadeaway shot,8,-85,13,True
+Khris Middleton,3,6,32,1,Turnaround Fadeaway shot,11,54,104,True
+Khris Middleton,4,4,38,1,Turnaround Fadeaway shot,7,-48,55,True
+Khris Middleton,1,5,22,0,Turnaround Fadeaway shot,15,-128,79,True
+Khris Middleton,3,8,16,1,Turnaround Fadeaway shot,10,-14,108,True
+Khris Middleton,3,10,40,0,Turnaround Fadeaway shot,11,-116,0,True
+Khris Middleton,1,6,3,1,Turnaround Fadeaway shot,18,-159,102,True
+Khris Middleton,3,8,35,0,Turnaround Fadeaway shot,12,61,110,True
+Khris Middleton,3,0,42,0,Turnaround Fadeaway shot,7,-57,55,True
+Khris Middleton,1,3,17,0,Turnaround Fadeaway shot,16,168,24,True
+Khris Middleton,2,2,46,1,Turnaround Fadeaway shot,16,-64,153,True
+Khris Middleton,1,9,3,0,Turnaround Fadeaway shot,10,-103,17,True
+Khris Middleton,2,9,41,1,Turnaround Fadeaway shot,11,107,27,True
+Khris Middleton,3,0,0,1,Turnaround Fadeaway shot,16,-131,104,True
+Khris Middleton,3,10,3,0,Turnaround Fadeaway shot,13,66,116,True
+Khris Middleton,3,9,44,1,Turnaround Hook Shot,5,3,55,True
+Khris Middleton,3,7,27,1,Turnaround Jump Shot,16,108,131,True
+Khris Middleton,2,4,53,1,Turnaround Jump Shot,10,-76,74,True
+Khris Middleton,1,0,31,0,Turnaround Jump Shot,13,-40,124,True
+Khris Middleton,4,6,8,1,Turnaround Jump Shot,13,-125,36,True
+Khris Middleton,1,9,29,1,Turnaround Jump Shot,13,-118,66,True
+Khris Middleton,1,3,10,0,Turnaround Jump Shot,5,-35,37,True
+Khris Middleton,1,6,40,1,Turnaround Jump Shot,10,107,3,True
+Khris Middleton,3,0,0,0,Turnaround Jump Shot,13,49,122,True
+Khris Middleton,2,6,6,0,Turnaround Jump Shot,8,19,85,True
+Khris Middleton,4,7,56,1,Turnaround Jump Shot,17,-44,168,True
+Khris Middleton,1,7,44,1,Turnaround Jump Shot,12,77,93,True
+Khris Middleton,3,4,53,1,Turnaround Jump Shot,11,114,-15,True
+Khris Middleton,1,8,55,0,Turnaround Jump Shot,17,68,161,True
+Khris Middleton,4,11,40,0,Turnaround Jump Shot,13,-4,132,True
+Khris Middleton,1,8,8,0,Turnaround Jump Shot,12,-2,121,True
+Khris Middleton,1,10,9,0,Turnaround Jump Shot,10,-107,5,True
+Khris Middleton,2,4,49,0,Turnaround Jump Shot,6,-58,30,True
+Khris Middleton,2,8,5,1,Turnaround Jump Shot,13,130,-7,True
+Khris Middleton,1,4,19,1,Turnaround Jump Shot,13,-9,139,True
+Khris Middleton,3,3,42,1,Turnaround Jump Shot,12,53,110,True
+Khris Middleton,1,7,41,0,Turnaround Jump Shot,10,92,43,True
+Khris Middleton,2,5,55,0,Turnaround Jump Shot,10,-15,105,True
+Khris Middleton,1,0,45,0,Turnaround Jump Shot,7,74,10,True
+Khris Middleton,1,2,50,0,Turnaround Jump Shot,15,149,26,True
+Khris Middleton,1,7,55,1,Turnaround Jump Shot,14,-136,58,True
+Khris Middleton,1,6,10,1,Turnaround Jump Shot,2,0,25,True
+Khris Middleton,3,5,6,0,Turnaround Jump Shot,12,-17,123,True
+Khris Middleton,1,4,56,1,Turnaround Jump Shot,15,-65,137,True
+Khris Middleton,4,5,2,0,Turnaround Jump Shot,11,-70,94,True
+Khris Middleton,4,4,23,1,Turnaround Jump Shot,16,-90,133,True
+Khris Middleton,2,1,29,1,Turnaround Jump Shot,13,-7,132,True
+Khris Middleton,2,8,43,1,Turnaround Jump Shot,12,-40,121,True
+Khris Middleton,1,9,48,1,Turnaround Jump Shot,15,77,130,True
+Khris Middleton,1,0,38,0,Turnaround Jump Shot,17,-116,131,True

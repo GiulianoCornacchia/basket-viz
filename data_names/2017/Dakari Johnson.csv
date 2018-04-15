@@ -1,0 +1,35 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Dakari Johnson,4,2,29,1,Cutting Dunk Shot,2,7,21,True
+Dakari Johnson,2,4,50,1,Cutting Layup Shot,1,12,10,True
+Dakari Johnson,1,1,9,0,Cutting Layup Shot,4,6,42,True
+Dakari Johnson,1,10,49,1,Cutting Layup Shot,0,2,-1,True
+Dakari Johnson,4,1,20,0,Hook Shot,1,6,11,True
+Dakari Johnson,4,1,46,1,Jump Shot,10,-82,64,True
+Dakari Johnson,4,2,12,1,Jump Shot,13,124,62,True
+Dakari Johnson,4,1,36,0,Jump Shot,4,-26,34,True
+Dakari Johnson,4,0,57,1,Jump Shot,19,53,186,True
+Dakari Johnson,4,4,45,1,Jump Shot,7,-70,-11,True
+Dakari Johnson,4,2,53,1,Jump Shot,10,-105,8,True
+Dakari Johnson,3,11,6,0,Jump Shot,11,118,10,True
+Dakari Johnson,3,11,9,1,Jump Shot,8,-81,6,True
+Dakari Johnson,1,11,9,0,Jump Shot,13,132,9,True
+Dakari Johnson,3,0,46,0,Layup Shot,4,-3,41,True
+Dakari Johnson,3,2,36,0,Layup Shot,2,0,29,True
+Dakari Johnson,4,1,56,0,Layup Shot,0,9,-1,True
+Dakari Johnson,3,8,3,1,Layup Shot,1,3,15,True
+Dakari Johnson,1,0,23,0,Layup Shot,2,-22,6,True
+Dakari Johnson,1,0,28,0,Layup Shot,2,6,27,True
+Dakari Johnson,4,3,8,1,Layup Shot,2,23,6,True
+Dakari Johnson,4,2,22,1,Layup Shot,0,5,2,True
+Dakari Johnson,1,7,42,0,Layup Shot,0,-9,4,True
+Dakari Johnson,2,2,34,0,Layup Shot,2,5,20,True
+Dakari Johnson,4,1,10,0,Layup Shot,2,-9,22,True
+Dakari Johnson,1,1,18,1,Putback Dunk Shot,2,5,20,True
+Dakari Johnson,1,0,39,1,Putback Dunk Shot,0,0,-6,True
+Dakari Johnson,4,0,53,1,Putback Layup Shot,0,0,4,True
+Dakari Johnson,3,10,42,1,Running Jump Shot,4,-18,44,True
+Dakari Johnson,2,8,3,0,Turnaround Hook Shot,6,3,67,True
+Dakari Johnson,1,9,39,1,Turnaround Hook Shot,3,8,37,True
+Dakari Johnson,1,6,41,0,Turnaround Hook Shot,5,3,59,True
+Dakari Johnson,4,1,18,0,Turnaround Hook Shot,3,-6,37,True
+Dakari Johnson,4,1,8,0,Turnaround Jump Shot,3,-5,39,True

@@ -1,0 +1,404 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Skal Labissiere,1,10,35,1,Alley Oop Dunk Shot,0,3,7,True
+Skal Labissiere,4,8,40,0,Alley Oop Dunk Shot,2,11,20,True
+Skal Labissiere,3,10,59,1,Alley Oop Dunk Shot,0,0,3,True
+Skal Labissiere,2,10,8,1,Alley Oop Dunk Shot,0,0,3,True
+Skal Labissiere,4,6,22,1,Alley Oop Dunk Shot,0,3,5,True
+Skal Labissiere,4,5,9,1,Alley Oop Layup shot,1,-6,11,True
+Skal Labissiere,1,2,49,1,Alley Oop Layup shot,1,8,17,True
+Skal Labissiere,3,10,17,1,Cutting Dunk Shot,1,1,11,True
+Skal Labissiere,1,10,55,1,Cutting Dunk Shot,0,-3,6,True
+Skal Labissiere,1,0,44,1,Cutting Dunk Shot,0,-6,5,True
+Skal Labissiere,3,7,15,1,Cutting Dunk Shot,1,2,10,True
+Skal Labissiere,4,2,0,1,Cutting Dunk Shot,1,-8,16,True
+Skal Labissiere,3,7,2,1,Cutting Dunk Shot,1,-9,5,True
+Skal Labissiere,4,2,41,1,Cutting Dunk Shot,1,1,16,True
+Skal Labissiere,4,0,19,1,Cutting Dunk Shot,1,0,15,True
+Skal Labissiere,4,0,8,1,Cutting Dunk Shot,0,1,9,True
+Skal Labissiere,2,7,28,1,Cutting Layup Shot,1,-5,10,True
+Skal Labissiere,4,11,4,1,Cutting Layup Shot,2,15,18,True
+Skal Labissiere,4,9,12,1,Cutting Layup Shot,2,-16,20,True
+Skal Labissiere,4,3,22,1,Cutting Layup Shot,1,-10,15,True
+Skal Labissiere,2,6,39,0,Cutting Layup Shot,1,14,10,True
+Skal Labissiere,3,2,50,1,Driving Dunk Shot,0,-3,0,True
+Skal Labissiere,3,9,59,1,Driving Dunk Shot,1,-9,15,True
+Skal Labissiere,4,2,29,1,Driving Dunk Shot,2,-9,28,True
+Skal Labissiere,1,8,2,0,Driving Finger Roll Layup Shot,3,7,32,True
+Skal Labissiere,4,0,54,1,Driving Floating Bank Jump Shot,11,11,116,True
+Skal Labissiere,2,4,55,0,Driving Floating Jump Shot,7,2,75,True
+Skal Labissiere,3,8,25,0,Driving Floating Jump Shot,9,-1,90,True
+Skal Labissiere,3,1,28,0,Driving Floating Jump Shot,6,3,60,True
+Skal Labissiere,2,10,51,1,Driving Floating Jump Shot,9,73,59,True
+Skal Labissiere,2,11,23,0,Driving Floating Jump Shot,5,-42,36,True
+Skal Labissiere,1,1,2,0,Driving Floating Jump Shot,8,33,83,True
+Skal Labissiere,3,0,43,0,Driving Hook Shot,4,0,42,True
+Skal Labissiere,2,11,39,1,Driving Hook Shot,10,18,106,True
+Skal Labissiere,4,10,58,1,Driving Hook Shot,2,-8,26,True
+Skal Labissiere,1,2,51,0,Driving Hook Shot,5,19,53,True
+Skal Labissiere,1,9,17,0,Driving Hook Shot,7,5,74,True
+Skal Labissiere,1,7,36,0,Driving Hook Shot,5,-38,43,True
+Skal Labissiere,1,7,30,1,Driving Hook Shot,6,47,38,True
+Skal Labissiere,2,2,22,0,Driving Hook Shot,7,-4,79,True
+Skal Labissiere,3,10,53,0,Driving Layup Shot,1,10,13,True
+Skal Labissiere,2,1,56,1,Driving Layup Shot,3,-30,0,True
+Skal Labissiere,2,11,41,0,Driving Layup Shot,7,33,68,True
+Skal Labissiere,4,7,13,0,Driving Layup Shot,2,-20,13,True
+Skal Labissiere,3,3,9,0,Driving Layup Shot,4,-35,20,True
+Skal Labissiere,1,8,18,1,Driving Layup Shot,1,18,7,True
+Skal Labissiere,2,9,43,0,Driving Layup Shot,3,-26,15,True
+Skal Labissiere,1,3,12,0,Driving Layup Shot,7,-4,77,True
+Skal Labissiere,3,0,50,0,Driving Layup Shot,3,30,9,True
+Skal Labissiere,3,0,45,1,Driving Layup Shot,1,-9,6,True
+Skal Labissiere,3,9,58,0,Driving Layup Shot,3,29,14,True
+Skal Labissiere,2,5,4,1,Driving Layup Shot,1,-12,7,True
+Skal Labissiere,4,6,46,1,Dunk Shot,1,-18,5,True
+Skal Labissiere,1,4,31,1,Dunk Shot,1,-10,9,True
+Skal Labissiere,4,4,33,1,Dunk Shot,0,-4,-6,True
+Skal Labissiere,4,8,20,1,Dunk Shot,1,-17,8,True
+Skal Labissiere,4,0,47,0,Dunk Shot,1,-8,15,True
+Skal Labissiere,1,11,4,1,Dunk Shot,2,-1,21,True
+Skal Labissiere,3,10,43,1,Dunk Shot,1,13,4,True
+Skal Labissiere,4,1,25,1,Dunk Shot,0,0,4,True
+Skal Labissiere,1,9,1,1,Dunk Shot,1,-11,8,True
+Skal Labissiere,1,8,30,1,Dunk Shot,0,-2,4,True
+Skal Labissiere,1,8,11,1,Dunk Shot,1,2,10,True
+Skal Labissiere,4,9,57,1,Dunk Shot,0,3,8,True
+Skal Labissiere,4,7,3,1,Dunk Shot,1,-16,10,True
+Skal Labissiere,4,6,40,0,Dunk Shot,3,-30,16,True
+Skal Labissiere,2,7,10,0,Dunk Shot,2,14,15,True
+Skal Labissiere,2,2,49,0,Fadeaway Jump Shot,13,-107,86,True
+Skal Labissiere,2,1,36,1,Fadeaway Jump Shot,18,-119,148,True
+Skal Labissiere,1,0,6,0,Fadeaway Jump Shot,16,32,159,True
+Skal Labissiere,1,11,35,0,Fadeaway Jump Shot,15,-8,154,True
+Skal Labissiere,2,0,56,0,Fadeaway Jump Shot,13,137,21,True
+Skal Labissiere,4,6,34,0,Fadeaway Jump Shot,9,-54,79,True
+Skal Labissiere,3,10,53,0,Fadeaway Jump Shot,15,96,116,True
+Skal Labissiere,1,1,34,0,Fadeaway Jump Shot,15,114,108,True
+Skal Labissiere,2,9,57,0,Fadeaway Jump Shot,11,-70,94,True
+Skal Labissiere,4,6,12,0,Fadeaway Jump Shot,16,-81,149,True
+Skal Labissiere,4,11,41,1,Finger Roll Layup Shot,1,-12,15,True
+Skal Labissiere,1,6,17,0,Finger Roll Layup Shot,3,-6,35,True
+Skal Labissiere,2,9,17,0,Floating Jump shot,10,3,106,True
+Skal Labissiere,3,2,42,0,Floating Jump shot,7,-7,76,True
+Skal Labissiere,4,10,14,0,Floating Jump shot,11,-22,110,True
+Skal Labissiere,3,8,8,0,Floating Jump shot,11,-115,4,True
+Skal Labissiere,2,5,31,0,Floating Jump shot,7,14,75,True
+Skal Labissiere,2,10,32,0,Floating Jump shot,11,-43,107,True
+Skal Labissiere,1,9,6,1,Floating Jump shot,8,2,88,True
+Skal Labissiere,3,7,0,1,Floating Jump shot,7,-2,70,True
+Skal Labissiere,3,9,50,1,Hook Shot,11,-95,70,True
+Skal Labissiere,1,1,9,1,Hook Shot,3,2,35,True
+Skal Labissiere,3,11,2,0,Hook Shot,6,-34,50,True
+Skal Labissiere,4,7,17,1,Hook Shot,6,63,17,True
+Skal Labissiere,3,2,35,1,Hook Shot,4,15,47,True
+Skal Labissiere,1,3,38,1,Hook Shot,4,-10,47,True
+Skal Labissiere,4,10,53,1,Hook Shot,6,25,61,True
+Skal Labissiere,3,6,0,1,Hook Shot,7,-24,70,True
+Skal Labissiere,1,2,20,0,Hook Shot,7,71,26,True
+Skal Labissiere,4,4,5,1,Hook Shot,6,13,65,True
+Skal Labissiere,3,6,16,1,Hook Shot,5,-2,52,True
+Skal Labissiere,1,1,50,0,Hook Shot,5,43,28,True
+Skal Labissiere,4,10,22,1,Hook Shot,7,11,79,True
+Skal Labissiere,2,6,31,0,Hook Shot,9,-29,88,True
+Skal Labissiere,1,5,28,0,Hook Shot,5,-16,55,True
+Skal Labissiere,4,5,49,0,Hook Shot,7,50,55,True
+Skal Labissiere,4,2,13,1,Hook Shot,6,51,36,True
+Skal Labissiere,2,8,47,0,Hook Shot,8,-18,84,True
+Skal Labissiere,4,10,10,0,Hook Shot,9,-9,92,True
+Skal Labissiere,1,5,55,1,Hook Shot,5,-14,51,True
+Skal Labissiere,1,0,36,1,Hook Shot,3,-35,13,True
+Skal Labissiere,1,1,10,1,Hook Shot,8,-8,80,True
+Skal Labissiere,4,1,14,0,Hook Shot,4,-28,41,True
+Skal Labissiere,4,3,58,0,Hook Shot,11,71,85,True
+Skal Labissiere,3,2,59,1,Hook Shot,9,90,21,True
+Skal Labissiere,2,9,23,1,Hook Shot,7,1,77,True
+Skal Labissiere,1,2,23,0,Hook Shot,5,-14,50,True
+Skal Labissiere,2,5,44,1,Hook Shot,6,-67,14,True
+Skal Labissiere,1,2,21,0,Hook Shot,6,-9,62,True
+Skal Labissiere,1,0,29,0,Hook Shot,4,22,43,True
+Skal Labissiere,3,8,1,1,Hook Shot,10,-5,104,True
+Skal Labissiere,3,8,14,0,Hook Shot,7,76,9,True
+Skal Labissiere,4,10,4,0,Hook Shot,7,-33,66,True
+Skal Labissiere,4,9,21,0,Hook Shot,5,32,43,True
+Skal Labissiere,1,9,58,0,Hook Shot,6,68,9,True
+Skal Labissiere,2,2,52,1,Hook Shot,5,11,58,True
+Skal Labissiere,3,2,10,1,Hook Shot,3,-18,25,True
+Skal Labissiere,1,6,35,0,Hook Shot,2,-22,10,True
+Skal Labissiere,1,9,30,0,Hook Shot,6,56,30,True
+Skal Labissiere,3,7,11,1,Hook Shot,8,-27,85,True
+Skal Labissiere,3,8,9,1,Hook Shot,3,7,31,True
+Skal Labissiere,3,11,46,0,Hook Shot,10,-83,65,True
+Skal Labissiere,2,1,47,1,Hook Shot,5,32,48,True
+Skal Labissiere,3,11,34,1,Hook Shot,1,0,16,True
+Skal Labissiere,1,2,50,0,Hook Shot,6,8,63,True
+Skal Labissiere,4,2,40,0,Hook Shot,9,0,95,True
+Skal Labissiere,1,4,44,1,Hook Shot,9,-40,86,True
+Skal Labissiere,1,1,52,1,Hook Shot,9,19,94,True
+Skal Labissiere,4,11,42,1,Hook Shot,6,-6,63,True
+Skal Labissiere,1,6,38,0,Hook Shot,1,-4,19,True
+Skal Labissiere,2,7,55,1,Hook Shot,9,36,93,True
+Skal Labissiere,4,11,47,0,Hook Shot,2,-7,28,True
+Skal Labissiere,3,3,57,1,Hook Shot,8,-70,39,True
+Skal Labissiere,1,1,54,0,Hook Shot,6,0,69,True
+Skal Labissiere,2,10,13,1,Hook Shot,3,5,36,True
+Skal Labissiere,1,7,47,0,Hook Shot,5,6,58,True
+Skal Labissiere,3,2,55,0,Hook Shot,7,-20,70,True
+Skal Labissiere,2,2,25,0,Hook Shot,9,12,96,True
+Skal Labissiere,4,6,48,1,Hook Shot,7,2,70,True
+Skal Labissiere,4,5,7,0,Jump Bank Shot,11,-89,79,True
+Skal Labissiere,3,10,32,1,Jump Bank Shot,16,54,158,True
+Skal Labissiere,4,11,27,0,Jump Bank Shot,4,-18,42,True
+Skal Labissiere,3,11,48,1,Jump Shot,19,-62,188,True
+Skal Labissiere,2,8,22,0,Jump Shot,14,-107,96,True
+Skal Labissiere,4,2,13,0,Jump Shot,25,131,217,False
+Skal Labissiere,3,10,15,0,Jump Shot,24,-154,196,False
+Skal Labissiere,1,2,27,0,Jump Shot,25,202,148,False
+Skal Labissiere,1,2,53,0,Jump Shot,24,203,135,False
+Skal Labissiere,3,8,32,0,Jump Shot,14,5,149,True
+Skal Labissiere,4,6,36,1,Jump Shot,9,33,86,True
+Skal Labissiere,4,4,24,0,Jump Shot,17,-88,153,True
+Skal Labissiere,1,5,29,0,Jump Shot,7,49,61,True
+Skal Labissiere,1,9,3,0,Jump Shot,24,105,219,False
+Skal Labissiere,3,1,47,1,Jump Shot,19,-94,169,True
+Skal Labissiere,2,0,44,1,Jump Shot,24,231,86,False
+Skal Labissiere,1,2,53,1,Jump Shot,25,-81,244,False
+Skal Labissiere,3,8,2,0,Jump Shot,24,-20,245,False
+Skal Labissiere,1,2,22,0,Jump Shot,26,192,181,False
+Skal Labissiere,4,4,50,0,Jump Shot,14,-9,142,True
+Skal Labissiere,4,5,23,0,Jump Shot,24,40,243,False
+Skal Labissiere,2,6,0,0,Jump Shot,17,62,164,True
+Skal Labissiere,1,10,17,0,Jump Shot,17,76,163,True
+Skal Labissiere,2,7,49,1,Jump Shot,25,127,218,False
+Skal Labissiere,2,8,17,0,Jump Shot,25,18,258,False
+Skal Labissiere,1,0,2,1,Jump Shot,15,-6,159,True
+Skal Labissiere,1,6,59,0,Jump Shot,25,-76,239,False
+Skal Labissiere,1,2,22,1,Jump Shot,15,111,114,True
+Skal Labissiere,1,1,57,0,Jump Shot,25,72,246,False
+Skal Labissiere,4,10,24,0,Jump Shot,15,59,139,True
+Skal Labissiere,4,3,57,1,Jump Shot,19,-143,139,True
+Skal Labissiere,1,5,26,0,Jump Shot,8,33,78,True
+Skal Labissiere,3,6,26,0,Jump Shot,11,-33,106,True
+Skal Labissiere,1,9,53,1,Jump Shot,24,175,168,False
+Skal Labissiere,2,4,39,0,Jump Shot,15,123,94,True
+Skal Labissiere,2,9,56,0,Jump Shot,17,103,137,True
+Skal Labissiere,4,9,55,1,Jump Shot,26,-123,237,False
+Skal Labissiere,4,4,56,1,Jump Shot,26,-29,263,False
+Skal Labissiere,1,0,51,0,Jump Shot,7,44,66,True
+Skal Labissiere,4,10,39,0,Jump Shot,9,-18,92,True
+Skal Labissiere,4,5,28,1,Jump Shot,11,0,113,True
+Skal Labissiere,4,8,20,0,Jump Shot,26,-39,265,False
+Skal Labissiere,1,4,15,1,Jump Shot,23,236,8,False
+Skal Labissiere,4,4,16,1,Jump Shot,13,89,106,True
+Skal Labissiere,1,2,26,0,Jump Shot,18,82,162,True
+Skal Labissiere,4,3,27,0,Jump Shot,19,14,190,True
+Skal Labissiere,1,9,55,1,Jump Shot,14,-69,125,True
+Skal Labissiere,4,0,2,1,Jump Shot,27,-141,235,False
+Skal Labissiere,2,8,35,1,Jump Shot,25,-3,253,False
+Skal Labissiere,4,11,16,0,Jump Shot,16,25,164,True
+Skal Labissiere,1,4,22,0,Jump Shot,15,-117,106,True
+Skal Labissiere,4,5,45,0,Jump Shot,25,-8,253,False
+Skal Labissiere,2,1,16,0,Jump Shot,5,-20,51,True
+Skal Labissiere,3,3,4,1,Jump Shot,25,-1,251,False
+Skal Labissiere,3,10,38,1,Jump Shot,16,-40,165,True
+Skal Labissiere,4,0,25,0,Jump Shot,25,-32,256,False
+Skal Labissiere,2,6,9,0,Jump Shot,25,2,251,False
+Skal Labissiere,2,6,58,0,Jump Shot,6,-10,68,True
+Skal Labissiere,2,7,38,1,Jump Shot,16,43,162,True
+Skal Labissiere,2,1,28,0,Jump Shot,25,-228,105,False
+Skal Labissiere,3,4,11,0,Jump Shot,12,-6,126,True
+Skal Labissiere,4,0,23,0,Jump Shot,7,8,78,True
+Skal Labissiere,1,2,7,0,Jump Shot,15,79,132,True
+Skal Labissiere,4,0,7,1,Jump Shot,27,-17,270,False
+Skal Labissiere,3,3,32,0,Jump Shot,25,-13,258,False
+Skal Labissiere,4,11,32,0,Jump Shot,16,-145,81,True
+Skal Labissiere,2,11,21,0,Jump Shot,25,54,252,False
+Skal Labissiere,2,5,40,0,Jump Shot,22,-14,220,True
+Skal Labissiere,4,11,6,1,Jump Shot,24,-64,240,False
+Skal Labissiere,1,1,9,1,Jump Shot,25,165,190,False
+Skal Labissiere,1,0,37,0,Jump Shot,8,6,80,True
+Skal Labissiere,1,0,37,1,Jump Shot,22,226,20,False
+Skal Labissiere,2,3,10,0,Jump Shot,17,12,178,True
+Skal Labissiere,2,11,9,0,Jump Shot,25,147,205,False
+Skal Labissiere,3,5,25,1,Jump Shot,16,-17,165,True
+Skal Labissiere,3,4,59,0,Jump Shot,17,59,163,True
+Skal Labissiere,4,0,16,0,Jump Shot,17,59,165,True
+Skal Labissiere,1,7,10,1,Jump Shot,11,33,111,True
+Skal Labissiere,2,11,11,0,Jump Shot,19,6,199,True
+Skal Labissiere,1,0,0,0,Jump Shot,28,76,273,False
+Skal Labissiere,2,7,46,0,Jump Shot,18,-68,167,True
+Skal Labissiere,2,10,20,0,Jump Shot,18,-57,172,True
+Skal Labissiere,1,8,58,0,Jump Shot,19,2,195,True
+Skal Labissiere,3,5,49,0,Jump Shot,9,88,34,True
+Skal Labissiere,3,9,39,0,Jump Shot,9,-14,99,True
+Skal Labissiere,3,11,17,1,Jump Shot,12,34,120,True
+Skal Labissiere,1,7,50,0,Jump Shot,14,82,121,True
+Skal Labissiere,1,8,26,0,Jump Shot,5,55,10,True
+Skal Labissiere,1,5,21,0,Jump Shot,20,-11,201,True
+Skal Labissiere,1,10,28,0,Jump Shot,12,123,38,True
+Skal Labissiere,4,8,46,0,Jump Shot,15,-107,118,True
+Skal Labissiere,1,8,46,0,Jump Shot,10,103,4,True
+Skal Labissiere,1,9,18,0,Jump Shot,11,11,113,True
+Skal Labissiere,1,6,0,0,Jump Shot,19,-156,114,True
+Skal Labissiere,1,8,34,0,Jump Shot,25,-28,249,False
+Skal Labissiere,1,9,21,1,Jump Shot,15,-117,100,True
+Skal Labissiere,1,10,0,1,Jump Shot,24,-52,243,False
+Skal Labissiere,1,11,45,0,Jump Shot,7,-27,66,True
+Skal Labissiere,1,8,24,0,Jump Shot,20,22,205,True
+Skal Labissiere,2,2,59,0,Jump Shot,12,-41,113,True
+Skal Labissiere,3,8,6,1,Jump Shot,18,9,180,True
+Skal Labissiere,4,2,6,1,Jump Shot,18,-113,152,True
+Skal Labissiere,4,3,19,0,Jump Shot,17,3,172,True
+Skal Labissiere,2,8,52,0,Jump Shot,17,6,171,True
+Skal Labissiere,4,3,10,0,Jump Shot,15,4,157,True
+Skal Labissiere,4,4,21,1,Jump Shot,26,-95,252,False
+Skal Labissiere,2,7,17,1,Jump Shot,19,9,193,True
+Skal Labissiere,4,5,23,1,Jump Shot,12,-20,122,True
+Skal Labissiere,4,4,46,1,Jump Shot,16,18,167,True
+Skal Labissiere,4,4,23,1,Jump Shot,9,49,76,True
+Skal Labissiere,3,4,12,0,Jump Shot,25,-46,251,False
+Skal Labissiere,2,8,34,1,Jump Shot,15,22,155,True
+Skal Labissiere,3,4,35,0,Jump Shot,21,-90,196,True
+Skal Labissiere,2,10,20,1,Jump Shot,23,5,230,True
+Skal Labissiere,2,9,26,0,Jump Shot,19,-30,194,True
+Skal Labissiere,4,10,22,0,Jump Shot,16,-138,91,True
+Skal Labissiere,4,10,39,0,Jump Shot,27,-83,267,False
+Skal Labissiere,4,7,14,0,Jump Shot,17,-8,175,True
+Skal Labissiere,2,3,58,0,Jump Shot,7,-69,25,True
+Skal Labissiere,3,5,47,0,Jump Shot,19,-126,155,True
+Skal Labissiere,2,5,0,0,Jump Shot,23,202,115,True
+Skal Labissiere,1,1,54,1,Jump Shot,19,100,172,True
+Skal Labissiere,1,1,23,1,Jump Shot,25,181,176,False
+Skal Labissiere,2,11,46,0,Jump Shot,10,-102,11,True
+Skal Labissiere,3,1,23,0,Jump Shot,25,151,204,False
+Skal Labissiere,3,0,0,0,Jump Shot,64,156,625,False
+Skal Labissiere,2,10,50,0,Jump Shot,16,76,148,True
+Skal Labissiere,4,3,29,1,Jump Shot,21,-116,182,True
+Skal Labissiere,4,9,11,0,Jump Shot,17,-81,159,True
+Skal Labissiere,2,0,33,1,Jump Shot,15,-138,80,True
+Skal Labissiere,1,4,2,0,Jump Shot,25,147,204,False
+Skal Labissiere,1,4,50,1,Jump Shot,26,12,260,False
+Skal Labissiere,1,2,43,0,Jump Shot,16,169,6,True
+Skal Labissiere,1,0,29,1,Jump Shot,13,110,75,True
+Skal Labissiere,1,2,11,1,Jump Shot,12,27,125,True
+Skal Labissiere,4,8,46,1,Jump Shot,18,57,181,True
+Skal Labissiere,2,11,12,0,Jump Shot,12,-117,53,True
+Skal Labissiere,2,8,6,0,Jump Shot,15,152,0,True
+Skal Labissiere,2,5,39,0,Jump Shot,22,-92,205,True
+Skal Labissiere,2,3,0,0,Jump Shot,16,-44,157,True
+Skal Labissiere,2,11,40,0,Jump Shot,25,-148,207,False
+Skal Labissiere,4,3,49,0,Jump Shot,18,89,164,True
+Skal Labissiere,2,2,28,0,Jump Shot,15,-146,56,True
+Skal Labissiere,2,1,16,1,Layup Shot,3,1,37,True
+Skal Labissiere,2,10,28,0,Layup Shot,3,25,30,True
+Skal Labissiere,3,1,50,1,Layup Shot,2,4,26,True
+Skal Labissiere,1,3,8,1,Layup Shot,1,-2,17,True
+Skal Labissiere,2,10,6,1,Layup Shot,9,96,25,True
+Skal Labissiere,3,11,18,0,Layup Shot,4,-29,31,True
+Skal Labissiere,2,7,36,0,Layup Shot,1,-2,16,True
+Skal Labissiere,1,6,17,1,Layup Shot,1,-3,16,True
+Skal Labissiere,3,8,24,0,Layup Shot,5,-34,39,True
+Skal Labissiere,4,7,45,1,Layup Shot,1,-6,8,True
+Skal Labissiere,2,7,5,1,Layup Shot,2,15,25,True
+Skal Labissiere,1,3,34,1,Layup Shot,8,18,78,True
+Skal Labissiere,3,5,31,0,Layup Shot,5,47,32,True
+Skal Labissiere,2,11,9,0,Layup Shot,2,0,29,True
+Skal Labissiere,2,7,47,1,Layup Shot,3,-18,25,True
+Skal Labissiere,3,9,43,0,Layup Shot,1,-14,13,True
+Skal Labissiere,1,3,34,0,Layup Shot,2,-26,8,True
+Skal Labissiere,3,8,29,0,Layup Shot,4,-41,20,True
+Skal Labissiere,1,9,59,1,Layup Shot,0,-5,8,True
+Skal Labissiere,3,8,24,1,Layup Shot,2,-1,21,True
+Skal Labissiere,1,11,40,1,Pullup Jump shot,15,46,151,True
+Skal Labissiere,3,1,6,1,Pullup Jump shot,17,8,179,True
+Skal Labissiere,1,6,7,0,Pullup Jump shot,15,50,146,True
+Skal Labissiere,2,9,32,1,Pullup Jump shot,16,107,132,True
+Skal Labissiere,3,11,45,0,Pullup Jump shot,19,-107,164,True
+Skal Labissiere,4,1,22,1,Pullup Jump shot,22,-40,225,True
+Skal Labissiere,1,1,49,1,Pullup Jump shot,7,60,42,True
+Skal Labissiere,1,11,41,0,Pullup Jump shot,6,-41,50,True
+Skal Labissiere,3,3,20,0,Pullup Jump shot,16,160,5,True
+Skal Labissiere,4,3,25,1,Putback Dunk Shot,1,-1,10,True
+Skal Labissiere,1,7,36,1,Putback Dunk Shot,0,1,6,True
+Skal Labissiere,2,6,56,1,Putback Dunk Shot,0,0,-6,True
+Skal Labissiere,3,4,56,1,Putback Dunk Shot,0,0,-6,True
+Skal Labissiere,1,6,50,1,Putback Dunk Shot,0,-9,-2,True
+Skal Labissiere,3,9,54,1,Putback Dunk Shot,0,0,-6,True
+Skal Labissiere,1,5,37,1,Putback Dunk Shot,0,0,-6,True
+Skal Labissiere,4,11,5,1,Putback Dunk Shot,3,30,26,True
+Skal Labissiere,3,6,50,1,Putback Dunk Shot,0,0,-6,True
+Skal Labissiere,2,3,36,1,Putback Dunk Shot,1,2,13,True
+Skal Labissiere,1,3,44,0,Reverse Layup Shot,1,-19,4,True
+Skal Labissiere,2,1,11,1,Running Dunk Shot,1,1,11,True
+Skal Labissiere,1,0,0,0,Running Jump Shot,35,-171,309,False
+Skal Labissiere,2,1,27,1,Running Layup Shot,2,-11,17,True
+Skal Labissiere,3,0,32,1,Running Layup Shot,12,95,78,True
+Skal Labissiere,4,3,40,0,Step Back Jump shot,14,63,126,True
+Skal Labissiere,1,0,46,0,Tip Dunk Shot,0,0,-6,True
+Skal Labissiere,1,6,23,1,Tip Dunk Shot,2,-2,20,True
+Skal Labissiere,3,1,9,1,Tip Dunk Shot,0,0,-6,True
+Skal Labissiere,4,9,51,0,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,4,10,44,0,Tip Layup Shot,1,0,16,True
+Skal Labissiere,4,2,41,0,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,4,10,13,0,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,3,11,2,1,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,3,1,28,1,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,1,0,34,1,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,2,2,14,0,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,2,10,59,0,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,4,10,42,0,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,1,9,10,0,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,2,3,6,0,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,1,7,9,0,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,1,9,25,0,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,1,1,42,0,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,2,5,13,1,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,4,4,28,1,Tip Layup Shot,2,9,25,True
+Skal Labissiere,1,5,6,0,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,4,2,16,1,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,4,2,40,0,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,1,0,30,1,Tip Layup Shot,2,-5,20,True
+Skal Labissiere,3,8,46,0,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,1,6,32,0,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,4,1,47,1,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,1,0,27,1,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,4,9,50,0,Tip Layup Shot,0,0,-6,True
+Skal Labissiere,1,11,23,1,Turnaround Fadeaway Bank Jump Shot,10,-9,109,True
+Skal Labissiere,2,6,12,1,Turnaround Fadeaway Bank Jump Shot,9,94,-10,True
+Skal Labissiere,1,7,28,0,Turnaround Fadeaway shot,10,-103,3,True
+Skal Labissiere,4,9,1,0,Turnaround Fadeaway shot,11,-5,113,True
+Skal Labissiere,3,4,28,0,Turnaround Fadeaway shot,12,95,78,True
+Skal Labissiere,1,9,32,0,Turnaround Fadeaway shot,11,-113,11,True
+Skal Labissiere,4,6,30,1,Turnaround Fadeaway shot,13,37,134,True
+Skal Labissiere,3,1,45,1,Turnaround Fadeaway shot,13,101,86,True
+Skal Labissiere,2,11,17,0,Turnaround Fadeaway shot,12,100,79,True
+Skal Labissiere,3,6,26,1,Turnaround Fadeaway shot,10,61,90,True
+Skal Labissiere,3,4,55,0,Turnaround Fadeaway shot,17,80,152,True
+Skal Labissiere,1,8,23,0,Turnaround Fadeaway shot,10,13,109,True
+Skal Labissiere,1,11,38,1,Turnaround Hook Shot,10,-19,103,True
+Skal Labissiere,1,7,31,0,Turnaround Hook Shot,9,90,31,True
+Skal Labissiere,4,3,4,0,Turnaround Hook Shot,6,-36,51,True
+Skal Labissiere,1,9,42,0,Turnaround Hook Shot,8,43,78,True
+Skal Labissiere,2,8,2,1,Turnaround Hook Shot,11,70,95,True
+Skal Labissiere,1,4,1,0,Turnaround Hook Shot,4,-2,46,True
+Skal Labissiere,1,8,45,1,Turnaround Hook Shot,9,-1,99,True
+Skal Labissiere,2,9,14,1,Turnaround Hook Shot,8,41,69,True
+Skal Labissiere,4,6,0,0,Turnaround Hook Shot,9,69,63,True
+Skal Labissiere,3,6,3,0,Turnaround Hook Shot,9,53,84,True
+Skal Labissiere,2,0,46,0,Turnaround Hook Shot,10,88,62,True
+Skal Labissiere,2,9,12,0,Turnaround Hook Shot,6,-22,65,True
+Skal Labissiere,1,5,56,1,Turnaround Hook Shot,7,76,22,True
+Skal Labissiere,4,4,18,0,Turnaround Hook Shot,5,32,47,True
+Skal Labissiere,4,6,22,1,Turnaround Hook Shot,8,-6,88,True
+Skal Labissiere,3,4,24,1,Turnaround Hook Shot,1,-11,11,True
+Skal Labissiere,1,6,18,0,Turnaround Hook Shot,9,58,74,True
+Skal Labissiere,3,2,2,0,Turnaround Jump Shot,7,49,58,True
+Skal Labissiere,3,1,55,0,Turnaround Jump Shot,9,97,12,True
+Skal Labissiere,1,0,17,0,Turnaround Jump Shot,15,152,-17,True
+Skal Labissiere,2,11,45,0,Turnaround Jump Shot,9,94,22,True
+Skal Labissiere,2,8,13,0,Turnaround Jump Shot,14,99,108,True
+Skal Labissiere,3,3,58,0,Turnaround Jump Shot,13,56,119,True
+Skal Labissiere,2,5,24,1,Turnaround Jump Shot,8,-51,73,True
+Skal Labissiere,4,8,21,0,Turnaround Jump Shot,5,40,32,True
+Skal Labissiere,3,3,31,1,Turnaround Jump Shot,13,-6,131,True
+Skal Labissiere,1,5,54,1,Turnaround Jump Shot,10,63,82,True
+Skal Labissiere,1,10,47,0,Turnaround Jump Shot,16,142,75,True

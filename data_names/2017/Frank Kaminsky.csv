@@ -1,0 +1,636 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Frank Kaminsky,2,5,37,1,Alley Oop Layup shot,1,-14,11,True
+Frank Kaminsky,2,4,30,1,Alley Oop Layup shot,2,-25,4,True
+Frank Kaminsky,4,7,51,1,Cutting Dunk Shot,0,8,0,True
+Frank Kaminsky,4,6,15,1,Cutting Dunk Shot,1,0,13,True
+Frank Kaminsky,2,5,5,1,Cutting Dunk Shot,1,-6,12,True
+Frank Kaminsky,4,7,28,0,Cutting Dunk Shot,3,18,32,True
+Frank Kaminsky,4,8,11,1,Cutting Finger Roll Layup Shot,2,-1,20,True
+Frank Kaminsky,3,4,18,1,Cutting Layup Shot,1,8,8,True
+Frank Kaminsky,1,0,49,0,Cutting Layup Shot,4,19,43,True
+Frank Kaminsky,2,7,35,1,Cutting Layup Shot,3,34,14,True
+Frank Kaminsky,4,2,28,1,Cutting Layup Shot,1,12,13,True
+Frank Kaminsky,4,4,44,1,Cutting Layup Shot,1,5,9,True
+Frank Kaminsky,1,4,1,0,Cutting Layup Shot,2,-17,13,True
+Frank Kaminsky,2,7,0,0,Cutting Layup Shot,3,23,29,True
+Frank Kaminsky,2,5,54,1,Cutting Layup Shot,1,-14,7,True
+Frank Kaminsky,1,1,56,1,Cutting Layup Shot,1,11,16,True
+Frank Kaminsky,4,5,27,0,Cutting Layup Shot,2,-19,8,True
+Frank Kaminsky,2,11,46,0,Cutting Layup Shot,2,14,23,True
+Frank Kaminsky,2,2,58,1,Driving Dunk Shot,2,9,21,True
+Frank Kaminsky,2,6,43,1,Driving Finger Roll Layup Shot,1,0,19,True
+Frank Kaminsky,2,5,17,1,Driving Finger Roll Layup Shot,3,13,35,True
+Frank Kaminsky,2,8,24,1,Driving Finger Roll Layup Shot,6,49,42,True
+Frank Kaminsky,2,8,56,0,Driving Floating Bank Jump Shot,12,-95,76,True
+Frank Kaminsky,1,0,49,0,Driving Floating Bank Jump Shot,5,-43,36,True
+Frank Kaminsky,4,7,38,1,Driving Floating Bank Jump Shot,8,6,87,True
+Frank Kaminsky,1,1,21,0,Driving Floating Bank Jump Shot,6,62,23,True
+Frank Kaminsky,3,0,30,0,Driving Floating Bank Jump Shot,5,42,28,True
+Frank Kaminsky,4,8,23,1,Driving Floating Bank Jump Shot,3,-25,28,True
+Frank Kaminsky,1,3,29,0,Driving Floating Bank Jump Shot,16,130,100,True
+Frank Kaminsky,4,7,27,0,Driving Floating Jump Shot,9,-77,54,True
+Frank Kaminsky,1,0,0,1,Driving Floating Jump Shot,6,-58,34,True
+Frank Kaminsky,2,10,36,0,Driving Floating Jump Shot,11,-21,108,True
+Frank Kaminsky,1,1,18,0,Driving Floating Jump Shot,5,3,59,True
+Frank Kaminsky,2,8,36,1,Driving Floating Jump Shot,9,-2,90,True
+Frank Kaminsky,4,7,40,0,Driving Floating Jump Shot,2,-18,17,True
+Frank Kaminsky,1,1,8,1,Driving Floating Jump Shot,5,25,53,True
+Frank Kaminsky,4,7,31,0,Driving Floating Jump Shot,5,-51,25,True
+Frank Kaminsky,3,11,22,0,Driving Floating Jump Shot,7,39,59,True
+Frank Kaminsky,4,7,56,1,Driving Floating Jump Shot,6,0,68,True
+Frank Kaminsky,2,10,11,0,Driving Floating Jump Shot,11,36,111,True
+Frank Kaminsky,4,11,44,0,Driving Floating Jump Shot,8,-7,84,True
+Frank Kaminsky,4,11,27,0,Driving Floating Jump Shot,4,20,37,True
+Frank Kaminsky,1,1,5,0,Driving Floating Jump Shot,7,6,73,True
+Frank Kaminsky,4,0,41,0,Driving Floating Jump Shot,8,16,88,True
+Frank Kaminsky,4,6,51,0,Driving Floating Jump Shot,10,35,100,True
+Frank Kaminsky,4,2,2,1,Driving Floating Jump Shot,8,76,47,True
+Frank Kaminsky,1,0,55,1,Driving Floating Jump Shot,6,9,68,True
+Frank Kaminsky,3,2,13,1,Driving Floating Jump Shot,9,36,83,True
+Frank Kaminsky,4,7,53,0,Driving Floating Jump Shot,9,-93,22,True
+Frank Kaminsky,4,0,36,1,Driving Floating Jump Shot,6,-14,67,True
+Frank Kaminsky,2,9,59,1,Driving Floating Jump Shot,10,35,103,True
+Frank Kaminsky,1,2,11,0,Driving Floating Jump Shot,15,69,136,True
+Frank Kaminsky,4,11,6,1,Driving Hook Shot,7,75,15,True
+Frank Kaminsky,4,8,6,1,Driving Hook Shot,11,-17,113,True
+Frank Kaminsky,4,11,45,1,Driving Hook Shot,6,6,66,True
+Frank Kaminsky,4,4,23,1,Driving Hook Shot,7,3,73,True
+Frank Kaminsky,2,7,42,0,Driving Hook Shot,3,35,8,True
+Frank Kaminsky,2,8,11,0,Driving Hook Shot,2,-10,26,True
+Frank Kaminsky,4,5,33,0,Driving Hook Shot,8,29,83,True
+Frank Kaminsky,2,2,13,1,Driving Hook Shot,10,73,80,True
+Frank Kaminsky,2,7,47,0,Driving Hook Shot,6,20,57,True
+Frank Kaminsky,2,7,49,0,Driving Layup Shot,1,9,5,True
+Frank Kaminsky,2,8,25,1,Driving Layup Shot,1,6,10,True
+Frank Kaminsky,4,5,39,1,Driving Layup Shot,6,60,31,True
+Frank Kaminsky,2,5,49,0,Driving Layup Shot,2,-13,20,True
+Frank Kaminsky,1,0,41,1,Driving Layup Shot,1,-1,18,True
+Frank Kaminsky,4,7,9,0,Driving Layup Shot,1,-3,10,True
+Frank Kaminsky,1,0,23,0,Driving Layup Shot,3,-2,33,True
+Frank Kaminsky,4,4,17,0,Driving Layup Shot,3,34,20,True
+Frank Kaminsky,2,8,51,0,Driving Layup Shot,2,9,18,True
+Frank Kaminsky,2,11,32,0,Driving Layup Shot,1,8,6,True
+Frank Kaminsky,2,7,16,0,Driving Layup Shot,5,9,54,True
+Frank Kaminsky,4,11,12,1,Driving Layup Shot,1,13,0,True
+Frank Kaminsky,2,8,22,0,Driving Layup Shot,1,13,11,True
+Frank Kaminsky,4,10,19,0,Driving Layup Shot,3,22,29,True
+Frank Kaminsky,4,10,21,1,Driving Layup Shot,2,-2,26,True
+Frank Kaminsky,1,0,30,0,Driving Layup Shot,2,14,21,True
+Frank Kaminsky,3,0,11,0,Driving Layup Shot,1,11,5,True
+Frank Kaminsky,3,2,9,1,Driving Layup Shot,1,-4,13,True
+Frank Kaminsky,3,1,43,1,Driving Layup Shot,1,5,13,True
+Frank Kaminsky,4,7,54,0,Driving Layup Shot,4,25,43,True
+Frank Kaminsky,2,7,35,1,Driving Layup Shot,3,33,13,True
+Frank Kaminsky,4,9,42,1,Driving Layup Shot,2,19,11,True
+Frank Kaminsky,2,11,50,0,Driving Layup Shot,3,29,20,True
+Frank Kaminsky,2,7,47,0,Driving Layup Shot,6,11,64,True
+Frank Kaminsky,4,4,16,1,Driving Layup Shot,6,1,61,True
+Frank Kaminsky,2,10,20,1,Driving Layup Shot,2,-3,26,True
+Frank Kaminsky,1,0,39,1,Driving Layup Shot,2,5,27,True
+Frank Kaminsky,2,7,51,0,Driving Layup Shot,11,89,69,True
+Frank Kaminsky,4,11,7,0,Driving Layup Shot,1,-3,18,True
+Frank Kaminsky,4,8,30,1,Driving Layup Shot,3,11,38,True
+Frank Kaminsky,4,7,58,1,Driving Layup Shot,1,14,6,True
+Frank Kaminsky,1,0,59,1,Driving Layup Shot,1,-8,15,True
+Frank Kaminsky,2,5,6,0,Driving Layup Shot,2,7,25,True
+Frank Kaminsky,4,10,25,1,Driving Layup Shot,7,-7,71,True
+Frank Kaminsky,3,2,0,1,Driving Layup Shot,3,1,34,True
+Frank Kaminsky,2,0,6,1,Driving Layup Shot,5,40,42,True
+Frank Kaminsky,2,10,27,1,Driving Layup Shot,1,9,13,True
+Frank Kaminsky,2,8,30,1,Driving Layup Shot,2,-9,19,True
+Frank Kaminsky,3,0,47,0,Driving Layup Shot,1,-3,17,True
+Frank Kaminsky,2,10,13,0,Driving Layup Shot,4,-5,49,True
+Frank Kaminsky,1,2,8,0,Driving Layup Shot,2,14,20,True
+Frank Kaminsky,2,7,21,0,Driving Layup Shot,1,6,15,True
+Frank Kaminsky,2,7,25,1,Driving Layup Shot,1,-13,10,True
+Frank Kaminsky,4,8,28,1,Driving Layup Shot,0,-2,6,True
+Frank Kaminsky,4,0,17,1,Dunk Shot,0,3,-7,True
+Frank Kaminsky,2,7,16,1,Dunk Shot,0,-3,8,True
+Frank Kaminsky,4,9,16,1,Dunk Shot,1,1,11,True
+Frank Kaminsky,3,1,15,1,Dunk Shot,0,0,6,True
+Frank Kaminsky,4,9,33,0,Fadeaway Jump Shot,15,-23,152,True
+Frank Kaminsky,2,6,54,1,Fadeaway Jump Shot,12,29,126,True
+Frank Kaminsky,3,2,14,0,Fadeaway Jump Shot,16,165,13,True
+Frank Kaminsky,2,9,50,0,Fadeaway Jump Shot,18,27,179,True
+Frank Kaminsky,2,5,42,0,Fadeaway Jump Shot,9,-49,84,True
+Frank Kaminsky,3,11,39,0,Fadeaway Jump Shot,12,-121,26,True
+Frank Kaminsky,4,5,41,0,Fadeaway Jump Shot,11,11,111,True
+Frank Kaminsky,2,8,36,0,Fadeaway Jump Shot,12,-123,32,True
+Frank Kaminsky,2,9,27,0,Fadeaway Jump Shot,16,-152,64,True
+Frank Kaminsky,2,5,55,0,Fadeaway Jump Shot,12,-125,0,True
+Frank Kaminsky,2,9,14,0,Fadeaway Jump Shot,9,-1,95,True
+Frank Kaminsky,4,5,27,1,Fadeaway Jump Shot,10,19,105,True
+Frank Kaminsky,4,11,9,0,Fadeaway Jump Shot,14,89,113,True
+Frank Kaminsky,4,8,21,0,Fadeaway Jump Shot,8,-68,48,True
+Frank Kaminsky,4,1,10,1,Finger Roll Layup Shot,3,16,27,True
+Frank Kaminsky,2,6,34,1,Floating Jump shot,2,-8,24,True
+Frank Kaminsky,1,1,31,1,Floating Jump shot,7,74,11,True
+Frank Kaminsky,1,3,19,0,Floating Jump shot,17,66,162,True
+Frank Kaminsky,2,9,49,1,Floating Jump shot,4,0,42,True
+Frank Kaminsky,3,8,21,1,Floating Jump shot,3,3,39,True
+Frank Kaminsky,2,5,43,0,Floating Jump shot,4,41,21,True
+Frank Kaminsky,3,2,51,1,Floating Jump shot,5,55,13,True
+Frank Kaminsky,3,1,25,0,Floating Jump shot,6,-61,-3,True
+Frank Kaminsky,1,1,45,0,Floating Jump shot,8,-84,16,True
+Frank Kaminsky,4,6,20,0,Floating Jump shot,6,-63,24,True
+Frank Kaminsky,4,3,48,1,Floating Jump shot,11,-89,68,True
+Frank Kaminsky,4,6,23,1,Hook Bank Shot,9,73,55,True
+Frank Kaminsky,2,9,8,0,Hook Shot,9,22,90,True
+Frank Kaminsky,2,7,40,1,Hook Shot,8,0,80,True
+Frank Kaminsky,4,11,26,0,Hook Shot,5,-3,53,True
+Frank Kaminsky,2,0,49,0,Hook Shot,6,13,66,True
+Frank Kaminsky,1,0,48,0,Hook Shot,4,-30,36,True
+Frank Kaminsky,4,7,2,1,Hook Shot,7,3,79,True
+Frank Kaminsky,4,4,36,0,Hook Shot,8,73,41,True
+Frank Kaminsky,3,0,39,0,Hook Shot,6,-2,68,True
+Frank Kaminsky,2,8,30,1,Jump Bank Shot,10,11,105,True
+Frank Kaminsky,2,8,43,1,Jump Bank Shot,4,-13,48,True
+Frank Kaminsky,4,11,42,1,Jump Bank Shot,1,13,5,True
+Frank Kaminsky,1,0,8,0,Jump Bank Shot,1,11,9,True
+Frank Kaminsky,4,9,47,1,Jump Shot,7,62,43,True
+Frank Kaminsky,2,11,40,1,Jump Shot,11,100,63,True
+Frank Kaminsky,4,5,55,0,Jump Shot,25,24,256,False
+Frank Kaminsky,2,7,30,1,Jump Shot,26,-72,257,False
+Frank Kaminsky,3,3,27,1,Jump Shot,13,112,69,True
+Frank Kaminsky,3,1,11,0,Jump Shot,26,-191,184,False
+Frank Kaminsky,4,9,11,0,Jump Shot,26,173,206,False
+Frank Kaminsky,1,2,35,0,Jump Shot,26,-44,261,False
+Frank Kaminsky,2,11,18,0,Jump Shot,26,-117,240,False
+Frank Kaminsky,4,2,43,1,Jump Shot,30,-177,248,False
+Frank Kaminsky,3,1,16,0,Jump Shot,27,-198,194,False
+Frank Kaminsky,4,3,14,1,Jump Shot,27,-175,207,False
+Frank Kaminsky,1,2,54,1,Jump Shot,18,100,155,True
+Frank Kaminsky,1,2,20,1,Jump Shot,13,-133,34,True
+Frank Kaminsky,3,1,26,0,Jump Shot,25,-117,226,False
+Frank Kaminsky,4,10,31,0,Jump Shot,25,16,255,False
+Frank Kaminsky,3,0,35,0,Jump Shot,8,-52,61,True
+Frank Kaminsky,2,8,11,0,Jump Shot,26,-81,253,False
+Frank Kaminsky,4,9,48,0,Jump Shot,25,-80,241,False
+Frank Kaminsky,2,10,15,1,Jump Shot,26,-158,216,False
+Frank Kaminsky,4,5,53,0,Jump Shot,18,81,168,True
+Frank Kaminsky,2,11,23,1,Jump Shot,27,-116,253,False
+Frank Kaminsky,2,7,56,0,Jump Shot,26,-150,221,False
+Frank Kaminsky,4,7,36,0,Jump Shot,25,166,198,False
+Frank Kaminsky,1,2,11,0,Jump Shot,22,222,-17,False
+Frank Kaminsky,2,8,34,0,Jump Shot,8,21,78,True
+Frank Kaminsky,2,9,21,0,Jump Shot,26,-61,256,False
+Frank Kaminsky,4,7,1,0,Jump Shot,24,-141,206,False
+Frank Kaminsky,1,0,54,1,Jump Shot,26,114,237,False
+Frank Kaminsky,4,0,50,0,Jump Shot,26,81,250,False
+Frank Kaminsky,4,7,59,0,Jump Shot,25,-9,256,False
+Frank Kaminsky,2,11,15,0,Jump Shot,23,228,59,False
+Frank Kaminsky,2,8,42,1,Jump Shot,26,107,237,False
+Frank Kaminsky,2,10,36,1,Jump Shot,5,-3,55,True
+Frank Kaminsky,2,8,40,1,Jump Shot,26,-157,214,False
+Frank Kaminsky,3,1,11,0,Jump Shot,11,104,51,True
+Frank Kaminsky,2,10,40,0,Jump Shot,25,109,225,False
+Frank Kaminsky,2,8,59,1,Jump Shot,24,198,152,False
+Frank Kaminsky,4,8,44,0,Jump Shot,12,6,128,True
+Frank Kaminsky,4,11,0,0,Jump Shot,25,-157,195,False
+Frank Kaminsky,4,10,31,1,Jump Shot,25,-73,245,False
+Frank Kaminsky,1,3,2,1,Jump Shot,26,133,227,False
+Frank Kaminsky,3,4,27,1,Jump Shot,25,-73,242,False
+Frank Kaminsky,2,9,46,1,Jump Shot,25,20,259,False
+Frank Kaminsky,1,2,30,0,Jump Shot,25,-69,248,False
+Frank Kaminsky,4,10,36,0,Jump Shot,25,135,217,False
+Frank Kaminsky,2,6,39,0,Jump Shot,25,-32,251,False
+Frank Kaminsky,1,0,44,1,Jump Shot,26,-31,262,False
+Frank Kaminsky,2,5,6,0,Jump Shot,17,143,105,True
+Frank Kaminsky,2,3,9,0,Jump Shot,17,-168,33,True
+Frank Kaminsky,2,6,18,1,Jump Shot,28,-154,243,False
+Frank Kaminsky,1,3,49,1,Jump Shot,26,-106,241,False
+Frank Kaminsky,2,4,55,1,Jump Shot,10,-14,102,True
+Frank Kaminsky,3,2,2,0,Jump Shot,26,-92,246,False
+Frank Kaminsky,2,3,57,0,Jump Shot,26,-6,263,False
+Frank Kaminsky,3,4,2,1,Jump Shot,25,-160,198,False
+Frank Kaminsky,3,0,0,0,Jump Shot,25,-119,225,False
+Frank Kaminsky,2,6,6,0,Jump Shot,28,171,222,False
+Frank Kaminsky,2,1,4,0,Jump Shot,23,237,21,False
+Frank Kaminsky,3,1,28,0,Jump Shot,25,20,252,False
+Frank Kaminsky,2,9,26,1,Jump Shot,17,128,121,True
+Frank Kaminsky,2,8,31,1,Jump Shot,26,-209,157,False
+Frank Kaminsky,2,8,8,0,Jump Shot,13,-71,118,True
+Frank Kaminsky,4,7,19,0,Jump Shot,11,32,106,True
+Frank Kaminsky,1,0,27,1,Jump Shot,25,160,194,False
+Frank Kaminsky,4,10,14,0,Jump Shot,25,-122,222,False
+Frank Kaminsky,3,2,22,1,Jump Shot,26,172,197,False
+Frank Kaminsky,2,8,44,1,Jump Shot,8,46,71,True
+Frank Kaminsky,2,9,17,1,Jump Shot,26,-5,265,False
+Frank Kaminsky,4,9,9,0,Jump Shot,25,138,211,False
+Frank Kaminsky,4,3,32,1,Jump Shot,26,46,256,False
+Frank Kaminsky,1,2,46,0,Jump Shot,25,-108,235,False
+Frank Kaminsky,4,10,40,0,Jump Shot,27,-145,233,False
+Frank Kaminsky,4,2,48,1,Jump Shot,25,204,148,False
+Frank Kaminsky,2,11,42,1,Jump Shot,26,-117,239,False
+Frank Kaminsky,4,7,9,0,Jump Shot,22,-225,-3,False
+Frank Kaminsky,2,8,8,1,Jump Shot,25,-182,176,False
+Frank Kaminsky,2,5,2,0,Jump Shot,9,2,99,True
+Frank Kaminsky,4,10,34,1,Jump Shot,22,-226,8,False
+Frank Kaminsky,2,9,11,1,Jump Shot,25,32,258,False
+Frank Kaminsky,2,11,3,0,Jump Shot,24,155,193,False
+Frank Kaminsky,1,2,32,1,Jump Shot,27,-13,275,False
+Frank Kaminsky,2,7,43,0,Jump Shot,2,-17,21,True
+Frank Kaminsky,4,2,24,1,Jump Shot,25,-73,243,False
+Frank Kaminsky,4,9,15,0,Jump Shot,7,28,68,True
+Frank Kaminsky,4,9,12,0,Jump Shot,23,-230,-1,False
+Frank Kaminsky,3,0,56,0,Jump Shot,26,-124,229,False
+Frank Kaminsky,1,2,46,1,Jump Shot,16,-166,4,True
+Frank Kaminsky,2,10,3,1,Jump Shot,26,7,260,False
+Frank Kaminsky,4,4,0,0,Jump Shot,26,-95,251,False
+Frank Kaminsky,3,2,53,0,Jump Shot,24,-183,167,False
+Frank Kaminsky,1,0,57,0,Jump Shot,25,-122,229,False
+Frank Kaminsky,3,0,52,0,Jump Shot,25,-24,257,False
+Frank Kaminsky,3,3,14,1,Jump Shot,27,-144,230,False
+Frank Kaminsky,4,11,45,1,Jump Shot,26,-120,232,False
+Frank Kaminsky,4,6,29,1,Jump Shot,27,-114,247,False
+Frank Kaminsky,1,1,46,0,Jump Shot,24,-157,190,False
+Frank Kaminsky,4,8,36,0,Jump Shot,26,-128,228,False
+Frank Kaminsky,5,0,6,0,Jump Shot,24,-150,195,False
+Frank Kaminsky,2,7,16,1,Jump Shot,25,103,229,False
+Frank Kaminsky,4,1,9,0,Jump Shot,23,230,64,False
+Frank Kaminsky,3,7,21,0,Jump Shot,27,-98,252,False
+Frank Kaminsky,1,9,16,1,Jump Shot,24,-24,246,False
+Frank Kaminsky,1,6,49,0,Jump Shot,24,-38,247,False
+Frank Kaminsky,2,0,1,0,Jump Shot,25,223,120,False
+Frank Kaminsky,3,8,12,0,Jump Shot,24,-234,74,False
+Frank Kaminsky,1,7,29,0,Jump Shot,24,-163,189,False
+Frank Kaminsky,1,7,36,1,Jump Shot,25,98,233,False
+Frank Kaminsky,1,1,25,1,Jump Shot,26,-143,225,False
+Frank Kaminsky,2,5,12,0,Jump Shot,25,-107,235,False
+Frank Kaminsky,4,4,44,0,Jump Shot,10,41,92,True
+Frank Kaminsky,1,10,34,0,Jump Shot,26,-1,267,False
+Frank Kaminsky,2,11,42,0,Jump Shot,25,73,246,False
+Frank Kaminsky,2,1,22,0,Jump Shot,26,-22,265,False
+Frank Kaminsky,3,11,19,0,Jump Shot,24,126,210,False
+Frank Kaminsky,3,7,1,0,Jump Shot,25,-98,234,False
+Frank Kaminsky,4,9,4,0,Jump Shot,27,-150,232,False
+Frank Kaminsky,3,2,46,0,Jump Shot,27,-17,272,False
+Frank Kaminsky,4,7,57,1,Jump Shot,14,144,8,True
+Frank Kaminsky,4,0,53,0,Jump Shot,27,100,254,False
+Frank Kaminsky,2,5,52,0,Jump Shot,4,35,27,True
+Frank Kaminsky,3,2,13,0,Jump Shot,24,232,77,False
+Frank Kaminsky,2,7,55,0,Jump Shot,25,-153,203,False
+Frank Kaminsky,3,0,55,0,Jump Shot,25,12,257,False
+Frank Kaminsky,2,4,15,0,Jump Shot,10,-93,57,True
+Frank Kaminsky,4,0,0,0,Jump Shot,25,199,167,False
+Frank Kaminsky,2,5,24,0,Jump Shot,26,67,260,False
+Frank Kaminsky,3,0,32,0,Jump Shot,7,4,79,True
+Frank Kaminsky,2,10,43,1,Jump Shot,23,232,8,False
+Frank Kaminsky,4,5,33,0,Jump Shot,26,-119,239,False
+Frank Kaminsky,4,11,33,0,Jump Shot,26,-9,264,False
+Frank Kaminsky,1,2,12,0,Jump Shot,25,-26,251,False
+Frank Kaminsky,1,1,22,0,Jump Shot,25,-71,242,False
+Frank Kaminsky,1,0,28,0,Jump Shot,3,9,32,True
+Frank Kaminsky,2,9,40,1,Jump Shot,28,-131,252,False
+Frank Kaminsky,4,9,31,0,Jump Shot,17,-118,135,True
+Frank Kaminsky,3,0,0,0,Jump Shot,24,-128,209,False
+Frank Kaminsky,4,8,15,0,Jump Shot,25,-108,235,False
+Frank Kaminsky,1,2,26,1,Jump Shot,26,-92,247,False
+Frank Kaminsky,2,9,52,0,Jump Shot,25,127,226,False
+Frank Kaminsky,2,11,30,1,Jump Shot,20,-190,64,True
+Frank Kaminsky,3,2,50,1,Jump Shot,26,120,231,False
+Frank Kaminsky,2,6,20,0,Jump Shot,26,154,216,False
+Frank Kaminsky,3,1,41,1,Jump Shot,26,188,180,False
+Frank Kaminsky,2,8,56,0,Jump Shot,29,-150,252,False
+Frank Kaminsky,4,8,47,0,Jump Shot,26,-85,246,False
+Frank Kaminsky,1,2,13,1,Jump Shot,26,-148,221,False
+Frank Kaminsky,4,10,45,0,Jump Shot,12,125,25,True
+Frank Kaminsky,2,11,4,1,Jump Shot,13,-28,132,True
+Frank Kaminsky,2,5,25,0,Jump Shot,28,-148,244,False
+Frank Kaminsky,1,1,44,0,Jump Shot,16,-9,168,True
+Frank Kaminsky,3,2,2,0,Jump Shot,25,-117,226,False
+Frank Kaminsky,2,10,25,0,Jump Shot,26,49,258,False
+Frank Kaminsky,4,10,47,0,Jump Shot,19,157,113,True
+Frank Kaminsky,4,6,56,0,Jump Shot,25,-43,248,False
+Frank Kaminsky,4,9,29,0,Jump Shot,26,31,260,False
+Frank Kaminsky,2,6,27,0,Jump Shot,17,-143,109,True
+Frank Kaminsky,1,1,35,0,Jump Shot,28,73,272,False
+Frank Kaminsky,3,3,58,0,Jump Shot,25,169,197,False
+Frank Kaminsky,2,0,25,1,Jump Shot,23,-230,16,False
+Frank Kaminsky,2,10,2,0,Jump Shot,18,-76,171,True
+Frank Kaminsky,2,9,24,1,Jump Shot,25,136,216,False
+Frank Kaminsky,2,11,3,1,Jump Shot,10,-74,68,True
+Frank Kaminsky,4,11,49,1,Jump Shot,26,20,263,False
+Frank Kaminsky,4,11,17,0,Jump Shot,18,152,101,True
+Frank Kaminsky,1,1,54,0,Jump Shot,28,-94,274,False
+Frank Kaminsky,3,1,40,0,Jump Shot,12,-76,93,True
+Frank Kaminsky,4,9,54,0,Jump Shot,24,231,94,False
+Frank Kaminsky,3,3,53,0,Jump Shot,26,-117,234,False
+Frank Kaminsky,3,3,35,1,Jump Shot,24,-195,150,False
+Frank Kaminsky,2,5,14,1,Jump Shot,25,139,214,False
+Frank Kaminsky,3,1,1,0,Jump Shot,8,-30,77,True
+Frank Kaminsky,1,0,6,0,Jump Shot,10,65,78,True
+Frank Kaminsky,4,4,55,1,Jump Shot,25,-33,250,False
+Frank Kaminsky,4,9,28,0,Jump Shot,20,161,124,True
+Frank Kaminsky,2,7,22,1,Jump Shot,25,-136,214,False
+Frank Kaminsky,3,3,37,0,Jump Shot,26,145,219,False
+Frank Kaminsky,4,9,4,0,Jump Shot,7,-67,31,True
+Frank Kaminsky,3,1,16,1,Jump Shot,24,-201,147,False
+Frank Kaminsky,2,6,48,1,Jump Shot,26,-119,238,False
+Frank Kaminsky,2,7,13,0,Jump Shot,25,16,252,False
+Frank Kaminsky,2,11,20,0,Jump Shot,15,-104,113,True
+Frank Kaminsky,1,4,20,0,Jump Shot,24,161,186,False
+Frank Kaminsky,4,11,41,1,Jump Shot,16,-143,87,True
+Frank Kaminsky,2,7,23,1,Jump Shot,20,-143,148,True
+Frank Kaminsky,1,3,33,1,Jump Shot,18,-156,108,True
+Frank Kaminsky,4,9,20,0,Jump Shot,28,-159,232,False
+Frank Kaminsky,1,3,29,0,Jump Shot,25,-106,231,False
+Frank Kaminsky,2,11,8,0,Jump Shot,25,33,253,False
+Frank Kaminsky,1,3,25,0,Jump Shot,23,231,5,False
+Frank Kaminsky,4,6,27,0,Jump Shot,25,13,258,False
+Frank Kaminsky,3,3,46,1,Jump Shot,25,-76,242,False
+Frank Kaminsky,4,6,43,0,Jump Shot,27,152,235,False
+Frank Kaminsky,4,7,13,1,Jump Shot,25,-97,240,False
+Frank Kaminsky,1,1,29,0,Jump Shot,8,80,15,True
+Frank Kaminsky,3,3,24,0,Jump Shot,26,-213,163,False
+Frank Kaminsky,1,1,41,0,Jump Shot,23,-231,25,False
+Frank Kaminsky,3,8,45,1,Jump Shot,26,-27,263,False
+Frank Kaminsky,2,9,4,1,Jump Shot,27,63,264,False
+Frank Kaminsky,1,2,52,0,Jump Shot,19,-127,151,True
+Frank Kaminsky,4,8,33,0,Jump Shot,25,143,215,False
+Frank Kaminsky,1,4,29,0,Jump Shot,30,-120,275,False
+Frank Kaminsky,2,8,48,0,Jump Shot,14,95,107,True
+Frank Kaminsky,4,7,12,1,Jump Shot,8,39,79,True
+Frank Kaminsky,1,3,9,0,Jump Shot,6,7,69,True
+Frank Kaminsky,2,8,31,0,Jump Shot,26,223,145,False
+Frank Kaminsky,2,0,36,0,Jump Shot,3,22,25,True
+Frank Kaminsky,2,11,5,1,Jump Shot,12,1,120,True
+Frank Kaminsky,1,2,5,0,Jump Shot,25,-103,235,False
+Frank Kaminsky,4,11,19,1,Jump Shot,11,-81,76,True
+Frank Kaminsky,3,0,33,1,Jump Shot,9,90,15,True
+Frank Kaminsky,1,1,17,0,Jump Shot,24,-79,236,False
+Frank Kaminsky,3,3,3,1,Jump Shot,24,-156,190,False
+Frank Kaminsky,1,2,9,1,Jump Shot,16,155,53,True
+Frank Kaminsky,2,6,25,0,Jump Shot,16,127,107,True
+Frank Kaminsky,2,10,24,0,Jump Shot,25,-13,256,False
+Frank Kaminsky,2,10,1,0,Jump Shot,24,3,249,False
+Frank Kaminsky,1,2,4,0,Jump Shot,2,-16,17,True
+Frank Kaminsky,2,5,18,0,Jump Shot,26,-6,260,False
+Frank Kaminsky,1,4,2,1,Jump Shot,25,54,251,False
+Frank Kaminsky,3,2,8,0,Jump Shot,9,-86,35,True
+Frank Kaminsky,4,6,53,0,Jump Shot,7,0,71,True
+Frank Kaminsky,1,0,4,0,Jump Shot,17,-120,127,True
+Frank Kaminsky,2,6,17,1,Jump Shot,10,-14,107,True
+Frank Kaminsky,2,10,25,0,Jump Shot,12,-105,76,True
+Frank Kaminsky,2,7,41,1,Jump Shot,26,105,238,False
+Frank Kaminsky,4,10,45,0,Jump Shot,24,-138,208,False
+Frank Kaminsky,4,8,2,0,Jump Shot,25,-183,177,False
+Frank Kaminsky,4,1,27,0,Jump Shot,24,108,225,False
+Frank Kaminsky,2,9,54,1,Jump Shot,25,-106,229,False
+Frank Kaminsky,2,10,32,1,Jump Shot,23,-209,115,False
+Frank Kaminsky,4,7,32,0,Jump Shot,16,74,153,True
+Frank Kaminsky,4,10,35,0,Jump Shot,25,-44,251,False
+Frank Kaminsky,2,6,50,0,Jump Shot,26,107,237,False
+Frank Kaminsky,2,3,4,1,Jump Shot,24,-119,216,False
+Frank Kaminsky,4,7,54,0,Jump Shot,23,-234,7,False
+Frank Kaminsky,4,5,43,0,Jump Shot,27,-27,273,False
+Frank Kaminsky,2,0,33,0,Jump Shot,16,-19,163,True
+Frank Kaminsky,2,9,19,1,Jump Shot,26,-96,245,False
+Frank Kaminsky,1,0,0,1,Jump Shot,43,172,400,False
+Frank Kaminsky,4,7,1,0,Jump Shot,25,87,241,False
+Frank Kaminsky,4,11,9,0,Jump Shot,27,-150,235,False
+Frank Kaminsky,2,11,36,0,Jump Shot,14,-46,141,True
+Frank Kaminsky,2,5,11,0,Jump Shot,30,-114,281,False
+Frank Kaminsky,4,2,33,0,Jump Shot,25,170,187,False
+Frank Kaminsky,4,3,11,1,Jump Shot,3,25,22,True
+Frank Kaminsky,3,1,49,1,Jump Shot,25,-145,206,False
+Frank Kaminsky,4,5,53,1,Jump Shot,24,-187,161,False
+Frank Kaminsky,2,9,20,1,Jump Shot,26,-111,238,False
+Frank Kaminsky,1,1,10,1,Jump Shot,7,71,23,True
+Frank Kaminsky,4,7,0,0,Jump Shot,12,120,38,True
+Frank Kaminsky,2,11,42,0,Jump Shot,26,165,204,False
+Frank Kaminsky,1,0,21,1,Jump Shot,26,-117,238,False
+Frank Kaminsky,1,2,54,0,Jump Shot,22,226,32,False
+Frank Kaminsky,4,7,29,0,Jump Shot,26,68,252,False
+Frank Kaminsky,2,0,58,0,Jump Shot,23,230,46,False
+Frank Kaminsky,4,9,33,0,Jump Shot,25,98,239,False
+Frank Kaminsky,4,8,14,0,Jump Shot,9,-90,40,True
+Frank Kaminsky,2,6,29,0,Jump Shot,22,-228,17,False
+Frank Kaminsky,4,11,45,0,Jump Shot,25,-77,246,False
+Frank Kaminsky,1,3,57,1,Jump Shot,27,-127,241,False
+Frank Kaminsky,1,4,43,0,Jump Shot,27,165,222,False
+Frank Kaminsky,2,5,40,1,Jump Shot,28,62,277,False
+Frank Kaminsky,2,6,8,1,Jump Shot,28,49,281,False
+Frank Kaminsky,1,4,4,1,Jump Shot,25,-55,247,False
+Frank Kaminsky,2,9,10,0,Jump Shot,19,-43,189,True
+Frank Kaminsky,2,10,39,0,Jump Shot,25,-135,216,False
+Frank Kaminsky,1,3,58,1,Jump Shot,25,-134,217,False
+Frank Kaminsky,2,11,17,0,Jump Shot,26,-111,238,False
+Frank Kaminsky,3,4,48,0,Jump Shot,24,-16,245,False
+Frank Kaminsky,2,8,17,0,Jump Shot,25,-81,244,False
+Frank Kaminsky,4,5,57,0,Jump Shot,6,10,63,True
+Frank Kaminsky,2,8,0,1,Jump Shot,13,-16,131,True
+Frank Kaminsky,3,2,33,0,Jump Shot,25,43,251,False
+Frank Kaminsky,3,3,24,0,Jump Shot,16,165,19,True
+Frank Kaminsky,2,9,28,1,Jump Shot,25,-145,215,False
+Frank Kaminsky,1,2,24,1,Jump Shot,27,-65,264,False
+Frank Kaminsky,4,2,11,0,Jump Shot,25,-30,257,False
+Frank Kaminsky,4,7,59,0,Jump Shot,13,-134,17,True
+Frank Kaminsky,4,11,35,0,Jump Shot,13,-2,132,True
+Frank Kaminsky,4,6,26,0,Jump Shot,25,-95,235,False
+Frank Kaminsky,1,0,0,0,Jump Shot,23,-231,15,False
+Frank Kaminsky,2,8,41,0,Jump Shot,26,-131,227,False
+Frank Kaminsky,2,7,27,1,Jump Shot,27,-88,258,False
+Frank Kaminsky,4,5,16,0,Jump Shot,11,41,104,True
+Frank Kaminsky,2,0,48,1,Jump Shot,26,-35,260,False
+Frank Kaminsky,4,5,42,0,Jump Shot,25,-90,237,False
+Frank Kaminsky,2,11,23,0,Jump Shot,26,-19,263,False
+Frank Kaminsky,4,11,40,0,Jump Shot,24,-92,231,False
+Frank Kaminsky,2,1,34,1,Jump Shot,26,154,210,False
+Frank Kaminsky,4,3,53,0,Jump Shot,27,135,244,False
+Frank Kaminsky,1,4,27,1,Jump Shot,25,-108,231,False
+Frank Kaminsky,4,3,5,1,Jump Shot,26,135,227,False
+Frank Kaminsky,2,5,14,1,Jump Shot,22,-228,14,False
+Frank Kaminsky,1,0,25,0,Jump Shot,11,100,57,True
+Frank Kaminsky,3,1,59,0,Jump Shot,26,-9,260,False
+Frank Kaminsky,4,1,45,0,Jump Shot,7,-50,49,True
+Frank Kaminsky,4,6,16,0,Jump Shot,25,122,223,False
+Frank Kaminsky,2,0,42,1,Jump Shot,26,150,220,False
+Frank Kaminsky,4,1,1,0,Jump Shot,27,-9,272,False
+Frank Kaminsky,4,11,47,0,Jump Shot,8,-29,81,True
+Frank Kaminsky,2,8,10,0,Jump Shot,25,150,209,False
+Frank Kaminsky,2,7,17,0,Jump Shot,8,-2,83,True
+Frank Kaminsky,1,3,35,0,Jump Shot,26,-102,243,False
+Frank Kaminsky,1,5,37,0,Jump Shot,25,95,242,False
+Frank Kaminsky,3,1,57,0,Jump Shot,27,-213,168,False
+Frank Kaminsky,4,9,46,0,Jump Shot,26,141,222,False
+Frank Kaminsky,2,11,21,1,Jump Shot,5,57,8,True
+Frank Kaminsky,4,10,10,0,Jump Shot,25,-144,211,False
+Frank Kaminsky,1,1,39,0,Jump Shot,26,-119,241,False
+Frank Kaminsky,2,9,53,1,Jump Shot,26,-153,215,False
+Frank Kaminsky,3,3,58,0,Jump Shot,28,-49,278,False
+Frank Kaminsky,3,3,18,0,Jump Shot,25,-148,211,False
+Frank Kaminsky,1,0,0,0,Jump Shot,24,231,92,False
+Frank Kaminsky,4,10,29,0,Jump Shot,25,18,257,False
+Frank Kaminsky,2,7,40,0,Layup Shot,2,16,22,True
+Frank Kaminsky,2,6,59,0,Layup Shot,5,-9,55,True
+Frank Kaminsky,1,3,39,0,Layup Shot,1,12,13,True
+Frank Kaminsky,4,8,29,1,Layup Shot,0,0,7,True
+Frank Kaminsky,4,10,6,0,Layup Shot,9,-3,96,True
+Frank Kaminsky,1,2,18,1,Layup Shot,1,11,11,True
+Frank Kaminsky,1,0,31,0,Layup Shot,3,27,16,True
+Frank Kaminsky,2,6,1,0,Layup Shot,2,-19,9,True
+Frank Kaminsky,2,5,25,1,Layup Shot,7,56,45,True
+Frank Kaminsky,4,8,50,1,Layup Shot,3,-11,29,True
+Frank Kaminsky,2,6,17,0,Layup Shot,5,-5,50,True
+Frank Kaminsky,4,6,52,0,Layup Shot,2,18,20,True
+Frank Kaminsky,4,6,58,0,Layup Shot,9,77,47,True
+Frank Kaminsky,4,11,26,1,Layup Shot,1,4,18,True
+Frank Kaminsky,4,1,16,1,Layup Shot,2,17,11,True
+Frank Kaminsky,2,10,55,1,Layup Shot,5,-34,39,True
+Frank Kaminsky,2,7,29,1,Layup Shot,3,-13,33,True
+Frank Kaminsky,4,7,45,1,Layup Shot,2,18,15,True
+Frank Kaminsky,2,6,59,1,Layup Shot,1,-11,10,True
+Frank Kaminsky,2,6,30,0,Layup Shot,2,25,11,True
+Frank Kaminsky,2,5,45,0,Layup Shot,1,-3,18,True
+Frank Kaminsky,2,11,48,1,Layup Shot,1,18,6,True
+Frank Kaminsky,2,6,51,0,Layup Shot,2,3,23,True
+Frank Kaminsky,2,8,12,1,Layup Shot,2,18,16,True
+Frank Kaminsky,2,3,51,0,Layup Shot,3,26,29,True
+Frank Kaminsky,1,8,44,1,Layup Shot,1,9,6,True
+Frank Kaminsky,2,9,15,1,Layup Shot,10,-101,21,True
+Frank Kaminsky,3,2,1,0,Layup Shot,6,61,5,True
+Frank Kaminsky,2,5,31,0,Layup Shot,2,10,18,True
+Frank Kaminsky,2,10,6,0,Layup Shot,6,44,51,True
+Frank Kaminsky,2,6,15,1,Layup Shot,1,10,17,True
+Frank Kaminsky,4,8,15,1,Layup Shot,1,-2,17,True
+Frank Kaminsky,2,6,51,1,Layup Shot,1,4,12,True
+Frank Kaminsky,4,4,19,1,Layup Shot,5,50,11,True
+Frank Kaminsky,4,11,6,0,Layup Shot,6,52,40,True
+Frank Kaminsky,4,4,45,1,Layup Shot,1,9,15,True
+Frank Kaminsky,1,0,38,0,Layup Shot,1,-11,16,True
+Frank Kaminsky,1,1,36,0,Layup Shot,5,-56,17,True
+Frank Kaminsky,4,7,32,1,Layup Shot,2,-20,10,True
+Frank Kaminsky,2,6,1,0,Layup Shot,3,-27,22,True
+Frank Kaminsky,3,1,28,0,Layup Shot,2,-2,27,True
+Frank Kaminsky,1,1,28,0,Layup Shot,1,3,16,True
+Frank Kaminsky,3,4,13,0,Layup Shot,1,-11,10,True
+Frank Kaminsky,2,7,31,1,Layup Shot,2,5,22,True
+Frank Kaminsky,2,6,56,1,Layup Shot,1,-5,13,True
+Frank Kaminsky,4,2,20,1,Layup Shot,6,-55,26,True
+Frank Kaminsky,3,5,11,0,Layup Shot,5,53,10,True
+Frank Kaminsky,2,2,31,0,Layup Shot,3,0,33,True
+Frank Kaminsky,2,4,22,1,Layup Shot,1,2,13,True
+Frank Kaminsky,2,6,33,0,Layup Shot,3,18,26,True
+Frank Kaminsky,4,4,54,0,Layup Shot,6,51,38,True
+Frank Kaminsky,3,0,55,1,Pullup Jump shot,12,-105,68,True
+Frank Kaminsky,3,2,21,1,Pullup Jump shot,13,-47,126,True
+Frank Kaminsky,3,2,37,0,Pullup Jump shot,8,86,26,True
+Frank Kaminsky,3,0,52,0,Pullup Jump shot,18,-188,4,True
+Frank Kaminsky,1,11,14,0,Pullup Jump shot,17,55,165,True
+Frank Kaminsky,3,1,6,1,Pullup Jump shot,16,-91,132,True
+Frank Kaminsky,2,8,26,0,Pullup Jump shot,20,-157,131,True
+Frank Kaminsky,3,0,52,0,Pullup Jump shot,19,80,174,True
+Frank Kaminsky,2,10,49,0,Pullup Jump shot,8,-14,83,True
+Frank Kaminsky,1,0,8,1,Pullup Jump shot,19,-127,148,True
+Frank Kaminsky,3,0,1,0,Pullup Jump shot,25,-133,221,False
+Frank Kaminsky,2,7,17,1,Pullup Jump shot,17,4,176,True
+Frank Kaminsky,1,0,50,0,Pullup Jump shot,19,-160,115,True
+Frank Kaminsky,2,0,0,0,Pullup Jump shot,26,-188,189,False
+Frank Kaminsky,4,7,10,1,Pullup Jump shot,28,127,254,False
+Frank Kaminsky,4,9,29,1,Pullup Jump shot,8,-8,89,True
+Frank Kaminsky,2,5,8,1,Putback Dunk Shot,0,0,-6,True
+Frank Kaminsky,4,9,8,1,Putback Dunk Shot,0,0,-6,True
+Frank Kaminsky,2,4,34,1,Putback Dunk Shot,0,0,-6,True
+Frank Kaminsky,4,5,53,1,Putback Layup Shot,0,0,-6,True
+Frank Kaminsky,1,2,12,1,Putback Layup Shot,1,-11,16,True
+Frank Kaminsky,1,0,0,1,Putback Layup Shot,0,0,-6,True
+Frank Kaminsky,4,11,45,1,Reverse Layup Shot,1,12,9,True
+Frank Kaminsky,1,0,32,1,Running Dunk Shot,1,-13,13,True
+Frank Kaminsky,2,8,30,1,Running Jump Shot,10,-91,52,True
+Frank Kaminsky,3,1,47,1,Running Jump Shot,28,-150,244,False
+Frank Kaminsky,4,8,9,1,Running Jump Shot,6,-7,69,True
+Frank Kaminsky,1,0,53,1,Running Jump Shot,24,187,165,False
+Frank Kaminsky,3,2,33,1,Running Jump Shot,9,91,27,True
+Frank Kaminsky,4,8,14,0,Running Jump Shot,1,-5,18,True
+Frank Kaminsky,4,11,4,0,Running Jump Shot,7,-46,55,True
+Frank Kaminsky,2,9,40,1,Running Jump Shot,24,-145,196,False
+Frank Kaminsky,4,10,50,1,Running Layup Shot,2,-9,19,True
+Frank Kaminsky,2,7,36,1,Running Layup Shot,1,-8,15,True
+Frank Kaminsky,2,6,0,1,Running Layup Shot,0,2,9,True
+Frank Kaminsky,4,7,17,1,Running Layup Shot,1,-16,8,True
+Frank Kaminsky,3,5,42,1,Step Back Jump shot,13,14,136,True
+Frank Kaminsky,2,8,59,0,Step Back Jump shot,14,15,143,True
+Frank Kaminsky,2,9,42,1,Step Back Jump shot,13,133,10,True
+Frank Kaminsky,3,0,32,0,Step Back Jump shot,16,-15,166,True
+Frank Kaminsky,2,9,39,0,Step Back Jump shot,15,16,150,True
+Frank Kaminsky,4,5,29,0,Step Back Jump shot,18,-136,132,True
+Frank Kaminsky,1,3,41,0,Step Back Jump shot,4,8,49,True
+Frank Kaminsky,4,9,0,0,Step Back Jump shot,14,-142,47,True
+Frank Kaminsky,1,1,24,0,Step Back Jump shot,19,191,0,True
+Frank Kaminsky,4,6,6,1,Step Back Jump shot,18,-104,158,True
+Frank Kaminsky,3,10,36,0,Step Back Jump shot,26,-89,249,False
+Frank Kaminsky,1,1,47,0,Step Back Jump shot,19,183,68,True
+Frank Kaminsky,2,9,55,1,Step Back Jump shot,11,-111,-17,True
+Frank Kaminsky,4,0,1,1,Step Back Jump shot,25,-25,255,False
+Frank Kaminsky,1,0,7,0,Step Back Jump shot,26,-191,188,False
+Frank Kaminsky,2,7,13,1,Step Back Jump shot,25,108,231,False
+Frank Kaminsky,2,10,3,0,Step Back Jump shot,20,109,175,True
+Frank Kaminsky,2,11,27,0,Step Back Jump shot,14,148,10,True
+Frank Kaminsky,3,4,40,0,Step Back Jump shot,16,-9,167,True
+Frank Kaminsky,4,6,30,0,Step Back Jump shot,9,55,74,True
+Frank Kaminsky,1,11,43,0,Step Back Jump shot,13,-139,6,True
+Frank Kaminsky,2,9,5,1,Tip Layup Shot,0,0,-6,True
+Frank Kaminsky,3,1,12,1,Tip Layup Shot,0,0,-6,True
+Frank Kaminsky,4,0,9,0,Tip Layup Shot,2,-2,27,True
+Frank Kaminsky,3,0,12,0,Turnaround Fadeaway Bank Jump Shot,12,-119,22,True
+Frank Kaminsky,3,1,55,1,Turnaround Fadeaway Bank Jump Shot,8,57,59,True
+Frank Kaminsky,2,8,14,0,Turnaround Fadeaway shot,11,-29,111,True
+Frank Kaminsky,3,0,0,1,Turnaround Fadeaway shot,16,-75,145,True
+Frank Kaminsky,2,9,22,0,Turnaround Fadeaway shot,12,-27,122,True
+Frank Kaminsky,3,1,23,1,Turnaround Fadeaway shot,11,35,114,True
+Frank Kaminsky,4,6,30,0,Turnaround Fadeaway shot,15,-158,20,True
+Frank Kaminsky,1,9,45,1,Turnaround Fadeaway shot,11,115,-8,True
+Frank Kaminsky,4,9,4,0,Turnaround Fadeaway shot,8,-81,16,True
+Frank Kaminsky,1,4,4,0,Turnaround Fadeaway shot,12,125,0,True
+Frank Kaminsky,1,1,24,0,Turnaround Fadeaway shot,10,-103,32,True
+Frank Kaminsky,2,8,18,0,Turnaround Fadeaway shot,14,-70,125,True
+Frank Kaminsky,4,5,56,1,Turnaround Fadeaway shot,10,105,28,True
+Frank Kaminsky,4,10,38,0,Turnaround Fadeaway shot,11,110,34,True
+Frank Kaminsky,1,1,40,1,Turnaround Fadeaway shot,15,13,153,True
+Frank Kaminsky,3,0,56,0,Turnaround Fadeaway shot,8,-79,24,True
+Frank Kaminsky,2,10,11,0,Turnaround Fadeaway shot,9,95,12,True
+Frank Kaminsky,4,4,43,1,Turnaround Fadeaway shot,7,-70,36,True
+Frank Kaminsky,3,7,13,1,Turnaround Fadeaway shot,14,112,86,True
+Frank Kaminsky,1,0,46,0,Turnaround Fadeaway shot,10,90,60,True
+Frank Kaminsky,2,6,56,1,Turnaround Hook Shot,13,-99,91,True
+Frank Kaminsky,1,0,6,0,Turnaround Hook Shot,8,80,23,True
+Frank Kaminsky,2,9,19,1,Turnaround Hook Shot,2,0,29,True
+Frank Kaminsky,3,2,57,1,Turnaround Hook Shot,1,-11,15,True
+Frank Kaminsky,4,6,14,1,Turnaround Hook Shot,7,5,73,True
+Frank Kaminsky,2,9,36,1,Turnaround Hook Shot,12,-88,94,True
+Frank Kaminsky,2,10,32,1,Turnaround Hook Shot,6,8,61,True
+Frank Kaminsky,1,3,36,1,Turnaround Hook Shot,5,-18,50,True
+Frank Kaminsky,3,4,0,1,Turnaround Hook Shot,5,-41,41,True
+Frank Kaminsky,4,10,42,1,Turnaround Hook Shot,7,71,26,True
+Frank Kaminsky,3,1,2,0,Turnaround Hook Shot,9,73,57,True
+Frank Kaminsky,3,0,1,0,Turnaround Jump Shot,20,91,186,True
+Frank Kaminsky,1,3,11,0,Turnaround Jump Shot,13,-96,101,True
+Frank Kaminsky,1,1,24,0,Turnaround Jump Shot,7,-3,77,True
+Frank Kaminsky,1,0,17,1,Turnaround Jump Shot,10,-18,107,True
+Frank Kaminsky,2,9,0,1,Turnaround Jump Shot,3,-8,36,True
+Frank Kaminsky,2,5,35,0,Turnaround Jump Shot,6,20,57,True
+Frank Kaminsky,4,10,10,0,Turnaround Jump Shot,11,-6,113,True
+Frank Kaminsky,2,10,59,0,Turnaround Jump Shot,13,127,32,True
+Frank Kaminsky,2,10,48,0,Turnaround Jump Shot,11,-20,114,True
+Frank Kaminsky,2,8,9,0,Turnaround Jump Shot,14,-73,127,True
+Frank Kaminsky,1,1,34,1,Turnaround Jump Shot,9,-3,96,True
+Frank Kaminsky,2,8,21,0,Turnaround Jump Shot,7,24,68,True
+Frank Kaminsky,1,3,22,1,Turnaround Jump Shot,10,87,53,True
+Frank Kaminsky,3,1,10,1,Turnaround Jump Shot,15,134,77,True
+Frank Kaminsky,2,7,11,0,Turnaround Jump Shot,7,15,69,True
+Frank Kaminsky,1,0,55,0,Turnaround Jump Shot,14,141,-1,True
+Frank Kaminsky,1,0,12,1,Turnaround Jump Shot,6,19,58,True
+Frank Kaminsky,3,0,39,1,Turnaround Jump Shot,11,109,38,True
+Frank Kaminsky,4,8,39,0,Turnaround Jump Shot,3,33,14,True
+Frank Kaminsky,4,7,38,0,Turnaround Jump Shot,6,57,31,True
+Frank Kaminsky,2,11,15,1,Turnaround Jump Shot,6,-62,27,True
+Frank Kaminsky,1,3,51,1,Turnaround Jump Shot,8,-44,70,True
+Frank Kaminsky,2,4,36,1,Turnaround Jump Shot,5,31,43,True
+Frank Kaminsky,2,5,27,0,Turnaround Jump Shot,11,103,59,True
+Frank Kaminsky,2,9,50,0,Turnaround Jump Shot,5,13,58,True
+Frank Kaminsky,2,7,38,0,Turnaround Jump Shot,3,-37,15,True
+Frank Kaminsky,1,4,22,0,Turnaround Jump Shot,8,78,42,True
+Frank Kaminsky,2,5,14,1,Turnaround Jump Shot,9,12,96,True
+Frank Kaminsky,4,5,23,1,Turnaround Jump Shot,4,44,-4,True
+Frank Kaminsky,4,9,40,1,Turnaround Jump Shot,12,49,115,True

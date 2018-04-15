@@ -1,0 +1,531 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Wilson Chandler,2,1,0,1,Alley Oop Dunk Shot,0,-4,5,True
+Wilson Chandler,1,9,55,1,Alley Oop Dunk Shot,1,2,10,True
+Wilson Chandler,3,7,41,0,Alley Oop Layup shot,2,14,17,True
+Wilson Chandler,2,6,28,1,Alley Oop Layup shot,0,2,-1,True
+Wilson Chandler,1,8,36,1,Alley Oop Layup shot,3,-17,26,True
+Wilson Chandler,2,9,46,1,Cutting Dunk Shot,1,-15,1,True
+Wilson Chandler,4,4,54,1,Cutting Dunk Shot,1,6,13,True
+Wilson Chandler,3,0,55,1,Cutting Dunk Shot,1,7,11,True
+Wilson Chandler,3,5,6,0,Cutting Finger Roll Layup Shot,3,-24,19,True
+Wilson Chandler,2,7,53,1,Cutting Finger Roll Layup Shot,2,-18,13,True
+Wilson Chandler,3,2,39,0,Cutting Layup Shot,1,15,13,True
+Wilson Chandler,1,6,43,1,Cutting Layup Shot,2,4,29,True
+Wilson Chandler,3,0,49,0,Cutting Layup Shot,4,29,29,True
+Wilson Chandler,1,8,53,0,Cutting Layup Shot,0,9,4,True
+Wilson Chandler,1,4,37,1,Cutting Layup Shot,2,-21,-3,True
+Wilson Chandler,2,4,29,1,Cutting Layup Shot,1,-17,7,True
+Wilson Chandler,3,3,2,1,Cutting Layup Shot,2,2,25,True
+Wilson Chandler,2,6,53,0,Cutting Layup Shot,3,16,36,True
+Wilson Chandler,4,0,38,0,Cutting Layup Shot,0,3,6,True
+Wilson Chandler,3,8,55,1,Cutting Layup Shot,0,-1,6,True
+Wilson Chandler,4,0,50,0,Cutting Layup Shot,2,-1,22,True
+Wilson Chandler,4,11,24,1,Driving Dunk Shot,0,2,7,True
+Wilson Chandler,2,4,13,1,Driving Dunk Shot,1,-13,14,True
+Wilson Chandler,3,11,17,1,Driving Dunk Shot,0,0,7,True
+Wilson Chandler,3,4,27,1,Driving Finger Roll Layup Shot,2,7,22,True
+Wilson Chandler,2,5,55,1,Driving Finger Roll Layup Shot,1,16,8,True
+Wilson Chandler,2,3,4,0,Driving Finger Roll Layup Shot,2,-7,21,True
+Wilson Chandler,1,9,40,0,Driving Finger Roll Layup Shot,0,4,7,True
+Wilson Chandler,1,4,13,1,Driving Finger Roll Layup Shot,2,22,15,True
+Wilson Chandler,3,7,48,0,Driving Finger Roll Layup Shot,3,13,34,True
+Wilson Chandler,1,7,21,1,Driving Finger Roll Layup Shot,0,1,4,True
+Wilson Chandler,1,6,9,1,Driving Finger Roll Layup Shot,1,3,13,True
+Wilson Chandler,3,2,9,1,Driving Floating Bank Jump Shot,6,43,44,True
+Wilson Chandler,1,6,11,0,Driving Floating Bank Jump Shot,5,-49,24,True
+Wilson Chandler,1,11,38,1,Driving Floating Bank Jump Shot,9,-90,25,True
+Wilson Chandler,3,5,3,0,Driving Floating Jump Shot,10,-96,32,True
+Wilson Chandler,3,8,23,0,Driving Floating Jump Shot,4,-9,45,True
+Wilson Chandler,1,9,53,1,Driving Floating Jump Shot,13,-107,88,True
+Wilson Chandler,1,2,0,0,Driving Floating Jump Shot,18,8,185,True
+Wilson Chandler,2,0,1,1,Driving Floating Jump Shot,7,-30,73,True
+Wilson Chandler,4,6,16,0,Driving Floating Jump Shot,7,1,72,True
+Wilson Chandler,3,8,59,1,Driving Floating Jump Shot,6,-5,64,True
+Wilson Chandler,3,5,11,1,Driving Floating Jump Shot,10,-13,106,True
+Wilson Chandler,3,7,23,0,Driving Floating Jump Shot,10,85,68,True
+Wilson Chandler,3,4,22,0,Driving Floating Jump Shot,7,19,75,True
+Wilson Chandler,2,3,9,0,Driving Floating Jump Shot,3,1,38,True
+Wilson Chandler,3,9,34,0,Driving Floating Jump Shot,11,-49,106,True
+Wilson Chandler,4,9,42,1,Driving Hook Shot,4,5,47,True
+Wilson Chandler,4,6,33,0,Driving Layup Shot,4,-35,27,True
+Wilson Chandler,3,7,12,1,Driving Layup Shot,7,-47,62,True
+Wilson Chandler,2,11,37,0,Driving Layup Shot,5,-40,36,True
+Wilson Chandler,2,0,28,1,Driving Layup Shot,1,13,1,True
+Wilson Chandler,1,1,31,0,Driving Layup Shot,1,2,16,True
+Wilson Chandler,3,11,46,0,Driving Layup Shot,2,-17,11,True
+Wilson Chandler,1,9,25,1,Driving Layup Shot,5,30,42,True
+Wilson Chandler,3,6,13,1,Driving Layup Shot,3,38,4,True
+Wilson Chandler,4,6,11,0,Driving Layup Shot,0,-2,5,True
+Wilson Chandler,3,9,0,0,Driving Layup Shot,4,30,28,True
+Wilson Chandler,4,8,25,1,Driving Layup Shot,0,5,8,True
+Wilson Chandler,3,9,7,0,Driving Layup Shot,2,-14,22,True
+Wilson Chandler,4,10,39,1,Driving Layup Shot,2,-8,21,True
+Wilson Chandler,4,2,14,0,Driving Layup Shot,3,-33,14,True
+Wilson Chandler,2,0,39,1,Driving Layup Shot,5,51,17,True
+Wilson Chandler,1,7,18,0,Driving Layup Shot,3,25,17,True
+Wilson Chandler,3,7,37,0,Driving Layup Shot,3,33,11,True
+Wilson Chandler,2,0,31,1,Driving Layup Shot,2,6,27,True
+Wilson Chandler,3,0,51,0,Driving Layup Shot,3,4,33,True
+Wilson Chandler,3,6,57,1,Driving Layup Shot,5,-46,29,True
+Wilson Chandler,4,4,11,1,Driving Layup Shot,3,20,29,True
+Wilson Chandler,4,4,38,1,Driving Layup Shot,1,1,17,True
+Wilson Chandler,1,2,54,0,Driving Layup Shot,3,5,32,True
+Wilson Chandler,3,9,37,1,Driving Layup Shot,2,9,19,True
+Wilson Chandler,1,9,36,1,Driving Layup Shot,1,14,10,True
+Wilson Chandler,3,2,31,1,Driving Layup Shot,2,13,24,True
+Wilson Chandler,3,10,4,1,Driving Layup Shot,2,16,19,True
+Wilson Chandler,2,2,0,1,Driving Layup Shot,4,21,43,True
+Wilson Chandler,3,1,26,0,Driving Layup Shot,3,32,13,True
+Wilson Chandler,2,5,17,0,Driving Layup Shot,2,23,17,True
+Wilson Chandler,1,6,30,1,Driving Layup Shot,6,62,32,True
+Wilson Chandler,4,4,53,0,Driving Layup Shot,3,-25,26,True
+Wilson Chandler,1,8,55,1,Driving Layup Shot,1,-10,9,True
+Wilson Chandler,3,8,40,1,Driving Layup Shot,3,-3,34,True
+Wilson Chandler,2,10,56,1,Driving Layup Shot,3,3,35,True
+Wilson Chandler,1,3,34,0,Driving Layup Shot,2,-14,20,True
+Wilson Chandler,4,9,32,0,Driving Layup Shot,2,16,17,True
+Wilson Chandler,2,3,39,1,Driving Layup Shot,1,-6,16,True
+Wilson Chandler,3,9,45,0,Driving Reverse Layup Shot,3,18,27,True
+Wilson Chandler,1,1,9,0,Driving Reverse Layup Shot,2,11,25,True
+Wilson Chandler,3,9,48,0,Driving Reverse Layup Shot,1,12,11,True
+Wilson Chandler,3,3,30,1,Driving Reverse Layup Shot,2,25,12,True
+Wilson Chandler,3,8,31,0,Driving Reverse Layup Shot,1,16,10,True
+Wilson Chandler,3,2,4,1,Driving Reverse Layup Shot,1,-10,10,True
+Wilson Chandler,3,10,14,1,Driving Reverse Layup Shot,0,-5,8,True
+Wilson Chandler,3,7,46,1,Driving Reverse Layup Shot,0,9,3,True
+Wilson Chandler,2,4,13,1,Driving Reverse Layup Shot,1,-9,15,True
+Wilson Chandler,2,7,7,1,Driving Reverse Layup Shot,2,-24,11,True
+Wilson Chandler,3,3,19,1,Driving Reverse Layup Shot,0,0,6,True
+Wilson Chandler,3,11,38,1,Driving Reverse Layup Shot,1,-13,11,True
+Wilson Chandler,1,7,23,1,Dunk Shot,1,-10,4,True
+Wilson Chandler,2,1,59,1,Dunk Shot,1,6,10,True
+Wilson Chandler,3,9,25,1,Dunk Shot,1,11,13,True
+Wilson Chandler,4,1,16,1,Dunk Shot,0,-8,2,True
+Wilson Chandler,3,3,48,1,Dunk Shot,1,-2,15,True
+Wilson Chandler,4,6,38,0,Fadeaway Jump Shot,9,-7,92,True
+Wilson Chandler,3,2,45,1,Fadeaway Jump Shot,6,36,50,True
+Wilson Chandler,1,6,10,0,Fadeaway Jump Shot,4,-32,35,True
+Wilson Chandler,2,3,10,1,Fadeaway Jump Shot,7,76,20,True
+Wilson Chandler,2,2,19,1,Fadeaway Jump Shot,3,3,31,True
+Wilson Chandler,2,8,15,0,Fadeaway Jump Shot,9,82,47,True
+Wilson Chandler,2,4,14,1,Fadeaway Jump Shot,5,-39,41,True
+Wilson Chandler,3,5,16,1,Fadeaway Jump Shot,1,3,10,True
+Wilson Chandler,2,2,16,0,Fadeaway Jump Shot,17,170,19,True
+Wilson Chandler,5,1,43,0,Fadeaway Jump Shot,25,-225,122,False
+Wilson Chandler,1,9,22,0,Fadeaway Jump Shot,5,-54,13,True
+Wilson Chandler,4,10,16,0,Fadeaway Jump Shot,9,-7,94,True
+Wilson Chandler,4,4,55,1,Fadeaway Jump Shot,17,-85,148,True
+Wilson Chandler,4,4,42,1,Fadeaway Jump Shot,8,-80,11,True
+Wilson Chandler,1,3,54,0,Fadeaway Jump Shot,7,33,63,True
+Wilson Chandler,1,10,16,0,Fadeaway Jump Shot,12,125,15,True
+Wilson Chandler,4,10,48,0,Fadeaway Jump Shot,12,29,123,True
+Wilson Chandler,1,11,38,0,Fadeaway Jump Shot,16,119,117,True
+Wilson Chandler,3,3,55,1,Fadeaway Jump Shot,25,37,251,False
+Wilson Chandler,2,3,18,0,Fadeaway Jump Shot,6,50,42,True
+Wilson Chandler,3,3,33,1,Finger Roll Layup Shot,2,-12,18,True
+Wilson Chandler,3,2,45,1,Floating Jump shot,4,13,43,True
+Wilson Chandler,2,10,16,1,Floating Jump shot,4,-11,39,True
+Wilson Chandler,3,7,52,0,Floating Jump shot,8,63,64,True
+Wilson Chandler,2,1,33,0,Floating Jump shot,7,-55,52,True
+Wilson Chandler,1,10,19,0,Floating Jump shot,7,8,72,True
+Wilson Chandler,2,0,9,1,Floating Jump shot,3,4,37,True
+Wilson Chandler,1,7,14,0,Floating Jump shot,8,3,84,True
+Wilson Chandler,3,10,38,1,Floating Jump shot,11,16,117,True
+Wilson Chandler,3,8,54,0,Floating Jump shot,7,25,66,True
+Wilson Chandler,1,5,52,0,Floating Jump shot,6,35,54,True
+Wilson Chandler,3,4,29,0,Floating Jump shot,13,-5,133,True
+Wilson Chandler,1,7,47,1,Hook Shot,8,-20,85,True
+Wilson Chandler,3,10,46,0,Hook Shot,6,6,62,True
+Wilson Chandler,1,7,39,0,Hook Shot,3,-4,34,True
+Wilson Chandler,3,8,35,0,Hook Shot,5,-2,50,True
+Wilson Chandler,1,10,26,1,Hook Shot,3,-9,36,True
+Wilson Chandler,3,6,57,0,Hook Shot,6,9,64,True
+Wilson Chandler,1,8,41,1,Jump Bank Shot,8,78,41,True
+Wilson Chandler,1,6,8,0,Jump Shot,25,155,202,False
+Wilson Chandler,1,7,26,0,Jump Shot,22,-225,1,False
+Wilson Chandler,3,3,33,0,Jump Shot,25,-25,258,False
+Wilson Chandler,1,4,49,1,Jump Shot,24,150,197,False
+Wilson Chandler,3,7,54,1,Jump Shot,25,120,223,False
+Wilson Chandler,3,4,19,1,Jump Shot,24,187,162,False
+Wilson Chandler,4,4,14,0,Jump Shot,25,-134,213,False
+Wilson Chandler,3,9,54,0,Jump Shot,22,228,22,False
+Wilson Chandler,4,6,30,0,Jump Shot,22,225,1,False
+Wilson Chandler,1,5,8,0,Jump Shot,22,-220,58,False
+Wilson Chandler,3,10,56,1,Jump Shot,24,137,200,False
+Wilson Chandler,3,10,18,1,Jump Shot,22,-225,41,False
+Wilson Chandler,3,5,20,1,Jump Shot,24,180,164,False
+Wilson Chandler,1,9,1,0,Jump Shot,22,221,13,False
+Wilson Chandler,2,6,2,0,Jump Shot,25,36,252,False
+Wilson Chandler,1,8,50,0,Jump Shot,12,127,-4,True
+Wilson Chandler,2,1,46,0,Jump Shot,22,-229,13,False
+Wilson Chandler,1,10,6,0,Jump Shot,4,46,-5,True
+Wilson Chandler,4,0,18,1,Jump Shot,24,-88,232,False
+Wilson Chandler,4,7,55,1,Jump Shot,25,-169,185,False
+Wilson Chandler,1,7,37,0,Jump Shot,22,227,37,False
+Wilson Chandler,1,2,44,0,Jump Shot,27,-137,233,False
+Wilson Chandler,2,4,40,0,Jump Shot,26,-187,184,False
+Wilson Chandler,1,8,1,1,Jump Shot,27,74,263,False
+Wilson Chandler,1,4,39,0,Jump Shot,23,-231,27,False
+Wilson Chandler,3,0,52,1,Jump Shot,26,149,218,False
+Wilson Chandler,3,10,21,0,Jump Shot,22,-222,20,False
+Wilson Chandler,3,6,14,1,Jump Shot,24,133,208,False
+Wilson Chandler,1,11,40,1,Jump Shot,24,114,222,False
+Wilson Chandler,3,8,43,0,Jump Shot,26,166,203,False
+Wilson Chandler,1,7,9,1,Jump Shot,25,141,210,False
+Wilson Chandler,3,3,8,1,Jump Shot,23,-227,58,False
+Wilson Chandler,2,2,51,1,Jump Shot,26,58,256,False
+Wilson Chandler,3,5,33,0,Jump Shot,24,186,163,False
+Wilson Chandler,1,10,26,1,Jump Shot,22,228,1,False
+Wilson Chandler,1,8,56,0,Jump Shot,26,129,230,False
+Wilson Chandler,3,6,46,0,Jump Shot,24,54,244,False
+Wilson Chandler,3,9,21,1,Jump Shot,26,63,257,False
+Wilson Chandler,3,0,10,0,Jump Shot,25,146,211,False
+Wilson Chandler,3,5,27,1,Jump Shot,23,-234,15,False
+Wilson Chandler,3,6,27,0,Jump Shot,22,224,-31,False
+Wilson Chandler,1,11,7,1,Jump Shot,17,179,-15,True
+Wilson Chandler,4,4,5,0,Jump Shot,22,225,30,False
+Wilson Chandler,1,9,3,0,Jump Shot,24,2,249,False
+Wilson Chandler,3,7,7,0,Jump Shot,22,229,3,False
+Wilson Chandler,4,10,2,0,Jump Shot,24,223,96,False
+Wilson Chandler,1,5,31,1,Jump Shot,22,223,4,False
+Wilson Chandler,1,8,45,0,Jump Shot,24,160,186,False
+Wilson Chandler,3,5,26,0,Jump Shot,22,-226,-6,False
+Wilson Chandler,3,8,26,0,Jump Shot,25,37,249,False
+Wilson Chandler,3,4,32,0,Jump Shot,24,162,188,False
+Wilson Chandler,1,8,59,1,Jump Shot,24,171,177,False
+Wilson Chandler,1,1,26,1,Jump Shot,24,-117,218,False
+Wilson Chandler,1,2,22,1,Jump Shot,25,81,240,False
+Wilson Chandler,1,9,59,1,Jump Shot,24,92,231,False
+Wilson Chandler,2,0,5,0,Jump Shot,25,-154,206,False
+Wilson Chandler,3,11,21,0,Jump Shot,7,67,34,True
+Wilson Chandler,1,5,1,0,Jump Shot,25,-29,251,False
+Wilson Chandler,1,5,36,0,Jump Shot,25,145,208,False
+Wilson Chandler,3,9,29,0,Jump Shot,22,226,11,False
+Wilson Chandler,4,2,53,1,Jump Shot,24,232,62,False
+Wilson Chandler,3,10,13,0,Jump Shot,25,112,228,False
+Wilson Chandler,2,0,43,1,Jump Shot,15,5,153,True
+Wilson Chandler,1,7,43,1,Jump Shot,17,-178,0,True
+Wilson Chandler,2,2,3,1,Jump Shot,25,176,188,False
+Wilson Chandler,4,2,1,1,Jump Shot,23,232,18,False
+Wilson Chandler,3,11,22,0,Jump Shot,25,-137,212,False
+Wilson Chandler,2,1,20,1,Jump Shot,24,-149,198,False
+Wilson Chandler,1,5,58,0,Jump Shot,25,136,212,False
+Wilson Chandler,1,7,6,0,Jump Shot,20,154,136,True
+Wilson Chandler,1,10,52,1,Jump Shot,24,131,210,False
+Wilson Chandler,2,1,1,0,Jump Shot,25,-116,231,False
+Wilson Chandler,1,3,36,0,Jump Shot,25,-134,215,False
+Wilson Chandler,1,1,10,1,Jump Shot,24,178,172,False
+Wilson Chandler,3,1,49,0,Jump Shot,24,-116,219,False
+Wilson Chandler,2,2,44,0,Jump Shot,22,222,22,False
+Wilson Chandler,2,11,7,1,Jump Shot,25,-163,196,False
+Wilson Chandler,1,10,15,0,Jump Shot,24,-190,148,False
+Wilson Chandler,3,7,6,0,Jump Shot,25,47,249,False
+Wilson Chandler,1,8,24,0,Jump Shot,22,226,17,False
+Wilson Chandler,3,1,49,0,Jump Shot,24,-156,183,False
+Wilson Chandler,3,3,25,0,Jump Shot,24,171,180,False
+Wilson Chandler,4,8,13,1,Jump Shot,26,87,248,False
+Wilson Chandler,4,7,32,0,Jump Shot,16,-169,16,True
+Wilson Chandler,1,8,25,1,Jump Shot,25,-163,199,False
+Wilson Chandler,1,10,12,1,Jump Shot,24,143,204,False
+Wilson Chandler,3,10,18,0,Jump Shot,23,223,88,False
+Wilson Chandler,2,11,29,1,Jump Shot,25,208,140,False
+Wilson Chandler,4,9,22,0,Jump Shot,24,176,167,False
+Wilson Chandler,1,11,37,0,Jump Shot,22,226,3,False
+Wilson Chandler,2,3,52,0,Jump Shot,24,-163,184,False
+Wilson Chandler,3,9,7,0,Jump Shot,6,-7,67,True
+Wilson Chandler,1,9,15,0,Jump Shot,24,168,177,False
+Wilson Chandler,2,2,39,0,Jump Shot,24,161,188,False
+Wilson Chandler,2,4,40,1,Jump Shot,24,230,74,False
+Wilson Chandler,4,6,8,1,Jump Shot,21,209,21,True
+Wilson Chandler,3,10,19,0,Jump Shot,24,193,154,False
+Wilson Chandler,2,6,58,1,Jump Shot,24,225,103,False
+Wilson Chandler,3,9,52,1,Jump Shot,22,-223,17,False
+Wilson Chandler,2,1,46,0,Jump Shot,26,-86,247,False
+Wilson Chandler,3,11,1,0,Jump Shot,7,-4,73,True
+Wilson Chandler,2,1,53,1,Jump Shot,25,-160,197,False
+Wilson Chandler,1,10,54,1,Jump Shot,24,163,185,False
+Wilson Chandler,4,4,54,0,Jump Shot,26,79,252,False
+Wilson Chandler,3,10,25,0,Jump Shot,4,17,37,True
+Wilson Chandler,3,8,49,0,Jump Shot,23,231,5,False
+Wilson Chandler,3,2,58,0,Jump Shot,24,156,195,False
+Wilson Chandler,4,8,53,0,Jump Shot,27,96,254,False
+Wilson Chandler,2,2,43,0,Jump Shot,27,110,247,False
+Wilson Chandler,4,4,16,0,Jump Shot,26,169,200,False
+Wilson Chandler,3,5,0,1,Jump Shot,26,-158,218,False
+Wilson Chandler,1,7,48,0,Jump Shot,22,-225,-5,False
+Wilson Chandler,3,6,33,0,Jump Shot,27,-63,264,False
+Wilson Chandler,3,3,43,1,Jump Shot,25,125,222,False
+Wilson Chandler,4,2,24,0,Jump Shot,23,228,57,False
+Wilson Chandler,3,7,56,1,Jump Shot,25,-99,239,False
+Wilson Chandler,4,1,48,0,Jump Shot,24,-179,166,False
+Wilson Chandler,1,7,54,0,Jump Shot,24,182,159,False
+Wilson Chandler,1,4,7,0,Jump Shot,25,-198,158,False
+Wilson Chandler,4,3,42,1,Jump Shot,25,170,187,False
+Wilson Chandler,1,6,41,0,Jump Shot,22,225,23,False
+Wilson Chandler,3,6,21,1,Jump Shot,19,195,-17,True
+Wilson Chandler,2,10,32,0,Jump Shot,27,68,268,False
+Wilson Chandler,1,7,32,0,Jump Shot,28,155,235,False
+Wilson Chandler,1,0,4,0,Jump Shot,20,119,171,True
+Wilson Chandler,3,9,19,0,Jump Shot,26,-110,239,False
+Wilson Chandler,2,0,52,1,Jump Shot,22,-226,1,False
+Wilson Chandler,1,8,27,1,Jump Shot,25,203,153,False
+Wilson Chandler,1,6,48,0,Jump Shot,25,220,121,False
+Wilson Chandler,1,4,36,1,Jump Shot,28,169,226,False
+Wilson Chandler,2,3,45,0,Jump Shot,26,-51,262,False
+Wilson Chandler,3,4,16,0,Jump Shot,25,-218,133,False
+Wilson Chandler,2,3,5,0,Jump Shot,31,196,250,False
+Wilson Chandler,3,5,52,0,Jump Shot,29,-76,281,False
+Wilson Chandler,5,0,49,0,Jump Shot,31,59,305,False
+Wilson Chandler,1,5,29,0,Jump Shot,22,-62,215,True
+Wilson Chandler,1,3,11,0,Jump Shot,9,12,90,True
+Wilson Chandler,1,11,44,1,Jump Shot,22,220,32,False
+Wilson Chandler,1,11,5,1,Jump Shot,27,-54,267,False
+Wilson Chandler,3,4,58,1,Jump Shot,25,-167,194,False
+Wilson Chandler,1,4,38,1,Jump Shot,24,186,167,False
+Wilson Chandler,1,9,53,0,Jump Shot,18,147,105,True
+Wilson Chandler,3,8,6,1,Jump Shot,25,108,233,False
+Wilson Chandler,4,10,35,0,Jump Shot,25,129,223,False
+Wilson Chandler,3,6,29,0,Jump Shot,27,-169,215,False
+Wilson Chandler,2,3,45,0,Jump Shot,24,-173,176,False
+Wilson Chandler,4,3,6,0,Jump Shot,26,73,256,False
+Wilson Chandler,1,10,13,0,Jump Shot,19,-36,192,True
+Wilson Chandler,3,6,11,0,Jump Shot,26,-44,257,False
+Wilson Chandler,1,10,33,0,Jump Shot,25,-149,201,False
+Wilson Chandler,1,10,50,0,Jump Shot,25,161,204,False
+Wilson Chandler,2,2,59,1,Jump Shot,25,182,180,False
+Wilson Chandler,3,10,49,0,Jump Shot,28,-94,272,False
+Wilson Chandler,3,1,59,0,Jump Shot,25,150,209,False
+Wilson Chandler,1,10,6,0,Jump Shot,25,88,243,False
+Wilson Chandler,1,8,23,1,Jump Shot,26,-72,256,False
+Wilson Chandler,3,11,38,1,Jump Shot,26,-122,236,False
+Wilson Chandler,3,7,31,0,Jump Shot,25,161,204,False
+Wilson Chandler,2,5,34,0,Jump Shot,26,96,244,False
+Wilson Chandler,1,7,27,0,Jump Shot,27,-92,254,False
+Wilson Chandler,1,9,0,0,Jump Shot,25,-2,254,False
+Wilson Chandler,3,11,9,1,Jump Shot,25,-25,250,False
+Wilson Chandler,1,11,28,0,Jump Shot,25,-141,211,False
+Wilson Chandler,2,10,19,1,Jump Shot,25,-120,223,False
+Wilson Chandler,4,8,17,1,Jump Shot,25,-162,192,False
+Wilson Chandler,4,11,30,0,Jump Shot,25,-154,199,False
+Wilson Chandler,3,9,47,0,Jump Shot,24,-186,159,False
+Wilson Chandler,1,2,42,1,Jump Shot,27,132,243,False
+Wilson Chandler,4,5,37,0,Jump Shot,24,168,179,False
+Wilson Chandler,3,2,31,0,Jump Shot,29,-148,251,False
+Wilson Chandler,2,9,50,1,Jump Shot,21,-139,163,True
+Wilson Chandler,1,9,34,0,Jump Shot,22,-228,25,False
+Wilson Chandler,3,0,35,0,Jump Shot,25,134,213,False
+Wilson Chandler,1,5,7,0,Jump Shot,22,227,16,False
+Wilson Chandler,1,6,35,0,Jump Shot,22,225,18,False
+Wilson Chandler,3,4,17,1,Jump Shot,24,-131,212,False
+Wilson Chandler,4,8,4,0,Jump Shot,25,122,222,False
+Wilson Chandler,1,11,40,0,Jump Shot,24,116,216,False
+Wilson Chandler,1,2,22,1,Jump Shot,25,82,238,False
+Wilson Chandler,2,7,57,0,Jump Shot,24,85,235,False
+Wilson Chandler,4,10,47,1,Jump Shot,24,99,229,False
+Wilson Chandler,3,6,25,1,Jump Shot,25,22,257,False
+Wilson Chandler,4,10,44,0,Jump Shot,23,231,11,False
+Wilson Chandler,3,2,36,0,Jump Shot,24,-154,190,False
+Wilson Chandler,4,4,46,0,Jump Shot,26,98,242,False
+Wilson Chandler,3,5,40,1,Jump Shot,13,-138,7,True
+Wilson Chandler,2,2,10,0,Jump Shot,19,-37,193,True
+Wilson Chandler,1,11,1,0,Jump Shot,10,34,103,True
+Wilson Chandler,1,1,8,0,Jump Shot,25,74,243,False
+Wilson Chandler,1,3,2,0,Jump Shot,22,227,34,False
+Wilson Chandler,4,8,47,1,Jump Shot,25,123,227,False
+Wilson Chandler,3,3,10,0,Jump Shot,5,11,49,True
+Wilson Chandler,1,6,38,0,Jump Shot,26,125,236,False
+Wilson Chandler,3,6,37,0,Jump Shot,24,149,200,False
+Wilson Chandler,2,5,2,0,Jump Shot,23,-230,17,False
+Wilson Chandler,1,1,9,0,Jump Shot,22,225,-4,False
+Wilson Chandler,1,11,22,0,Jump Shot,13,131,11,True
+Wilson Chandler,4,10,34,0,Jump Shot,25,-178,178,False
+Wilson Chandler,4,6,57,1,Jump Shot,25,119,226,False
+Wilson Chandler,1,8,26,0,Jump Shot,15,18,156,True
+Wilson Chandler,1,9,58,0,Jump Shot,23,228,67,False
+Wilson Chandler,1,10,25,0,Jump Shot,22,-225,0,False
+Wilson Chandler,1,0,28,1,Jump Shot,25,-188,167,False
+Wilson Chandler,3,4,57,1,Jump Shot,20,-116,173,True
+Wilson Chandler,4,3,47,0,Jump Shot,25,-170,190,False
+Wilson Chandler,1,3,25,0,Layup Shot,0,6,-6,True
+Wilson Chandler,4,8,49,0,Layup Shot,1,14,8,True
+Wilson Chandler,3,7,12,0,Layup Shot,2,6,20,True
+Wilson Chandler,1,9,33,0,Layup Shot,2,-21,4,True
+Wilson Chandler,1,8,44,0,Layup Shot,3,29,8,True
+Wilson Chandler,1,9,46,1,Layup Shot,3,27,16,True
+Wilson Chandler,3,9,6,0,Layup Shot,3,30,17,True
+Wilson Chandler,1,11,20,1,Layup Shot,2,-12,27,True
+Wilson Chandler,2,2,56,0,Layup Shot,2,-20,10,True
+Wilson Chandler,3,11,27,1,Layup Shot,2,3,21,True
+Wilson Chandler,3,8,24,1,Layup Shot,1,8,6,True
+Wilson Chandler,3,7,19,0,Layup Shot,3,6,34,True
+Wilson Chandler,1,6,24,0,Layup Shot,3,22,27,True
+Wilson Chandler,3,7,29,0,Layup Shot,4,-5,40,True
+Wilson Chandler,2,1,21,0,Layup Shot,2,9,21,True
+Wilson Chandler,3,6,14,1,Layup Shot,2,-20,3,True
+Wilson Chandler,2,4,48,0,Layup Shot,0,8,4,True
+Wilson Chandler,3,3,3,0,Layup Shot,7,14,76,True
+Wilson Chandler,1,7,29,1,Layup Shot,1,11,1,True
+Wilson Chandler,2,5,11,0,Layup Shot,2,0,28,True
+Wilson Chandler,2,3,37,1,Layup Shot,1,1,17,True
+Wilson Chandler,1,5,9,1,Layup Shot,1,2,19,True
+Wilson Chandler,1,11,26,0,Layup Shot,3,-12,32,True
+Wilson Chandler,1,11,13,1,Layup Shot,2,-3,29,True
+Wilson Chandler,2,6,38,1,Layup Shot,3,-9,32,True
+Wilson Chandler,1,8,8,0,Layup Shot,5,49,27,True
+Wilson Chandler,2,3,16,0,Layup Shot,5,46,33,True
+Wilson Chandler,2,8,44,0,Layup Shot,2,27,-1,True
+Wilson Chandler,1,0,16,0,Layup Shot,3,27,19,True
+Wilson Chandler,4,8,19,0,Layup Shot,2,3,21,True
+Wilson Chandler,1,6,13,1,Layup Shot,1,9,6,True
+Wilson Chandler,2,0,53,0,Pullup Jump shot,15,-65,138,True
+Wilson Chandler,4,4,14,0,Pullup Jump shot,12,-110,68,True
+Wilson Chandler,2,3,15,1,Pullup Jump shot,18,158,91,True
+Wilson Chandler,4,6,7,0,Pullup Jump shot,24,237,38,False
+Wilson Chandler,3,7,14,0,Pullup Jump shot,25,170,193,False
+Wilson Chandler,1,8,15,0,Pullup Jump shot,24,128,207,False
+Wilson Chandler,1,3,14,0,Pullup Jump shot,11,14,114,True
+Wilson Chandler,3,1,58,0,Pullup Jump shot,25,169,193,False
+Wilson Chandler,3,8,57,0,Pullup Jump shot,24,166,178,False
+Wilson Chandler,3,9,50,1,Pullup Jump shot,18,160,89,True
+Wilson Chandler,2,6,2,0,Pullup Jump shot,9,78,49,True
+Wilson Chandler,4,8,57,1,Pullup Jump shot,9,-39,89,True
+Wilson Chandler,4,8,46,0,Pullup Jump shot,27,-153,230,False
+Wilson Chandler,4,6,9,1,Pullup Jump shot,7,50,62,True
+Wilson Chandler,3,3,1,0,Pullup Jump shot,28,2,288,False
+Wilson Chandler,1,3,44,0,Pullup Jump shot,10,-103,6,True
+Wilson Chandler,2,2,27,0,Pullup Jump shot,13,-32,136,True
+Wilson Chandler,2,3,2,0,Pullup Jump shot,20,136,156,True
+Wilson Chandler,3,3,39,1,Pullup Jump shot,25,134,217,False
+Wilson Chandler,3,5,40,1,Pullup Jump shot,19,-120,151,True
+Wilson Chandler,1,7,51,0,Pullup Jump shot,16,-135,93,True
+Wilson Chandler,1,8,42,0,Pullup Jump shot,12,-60,107,True
+Wilson Chandler,1,4,6,0,Pullup Jump shot,24,162,190,False
+Wilson Chandler,2,5,52,1,Putback Layup Shot,1,2,16,True
+Wilson Chandler,1,3,30,1,Putback Layup Shot,1,9,9,True
+Wilson Chandler,2,9,25,1,Putback Layup Shot,2,-8,22,True
+Wilson Chandler,2,3,12,0,Putback Layup Shot,6,44,47,True
+Wilson Chandler,3,5,41,1,Putback Layup Shot,1,16,6,True
+Wilson Chandler,3,1,21,0,Putback Layup Shot,1,11,12,True
+Wilson Chandler,3,8,28,1,Putback Layup Shot,1,-17,10,True
+Wilson Chandler,3,2,32,1,Putback Layup Shot,0,2,8,True
+Wilson Chandler,1,9,38,1,Putback Layup Shot,0,0,-6,True
+Wilson Chandler,2,11,21,1,Putback Layup Shot,2,3,27,True
+Wilson Chandler,2,5,6,1,Putback Layup Shot,2,-17,18,True
+Wilson Chandler,2,6,14,1,Reverse Dunk Shot,1,-5,12,True
+Wilson Chandler,1,7,39,0,Reverse Layup Shot,2,-13,17,True
+Wilson Chandler,1,8,16,1,Reverse Layup Shot,2,-20,15,True
+Wilson Chandler,2,3,39,0,Reverse Layup Shot,3,24,20,True
+Wilson Chandler,1,7,44,1,Reverse Layup Shot,1,-10,9,True
+Wilson Chandler,4,4,16,0,Reverse Layup Shot,1,4,15,True
+Wilson Chandler,4,3,49,1,Reverse Layup Shot,1,-6,10,True
+Wilson Chandler,3,8,22,0,Reverse Layup Shot,2,-20,21,True
+Wilson Chandler,4,5,37,1,Reverse Layup Shot,2,-1,22,True
+Wilson Chandler,2,0,19,1,Reverse Layup Shot,1,-14,14,True
+Wilson Chandler,4,3,51,1,Reverse Layup Shot,1,-10,13,True
+Wilson Chandler,3,7,42,1,Reverse Layup Shot,1,-14,9,True
+Wilson Chandler,4,2,38,1,Reverse Layup Shot,2,-18,18,True
+Wilson Chandler,2,9,1,0,Reverse Layup Shot,2,5,27,True
+Wilson Chandler,2,3,15,0,Reverse Layup Shot,2,23,8,True
+Wilson Chandler,2,3,45,1,Reverse Layup Shot,3,27,18,True
+Wilson Chandler,4,0,7,1,Reverse Layup Shot,1,1,11,True
+Wilson Chandler,3,5,56,1,Reverse Layup Shot,2,25,9,True
+Wilson Chandler,2,3,40,1,Reverse Layup Shot,0,7,6,True
+Wilson Chandler,3,6,49,1,Reverse Layup Shot,1,-6,14,True
+Wilson Chandler,3,6,32,1,Reverse Layup Shot,2,-20,14,True
+Wilson Chandler,3,4,55,1,Running Dunk Shot,0,-6,7,True
+Wilson Chandler,2,4,49,1,Running Dunk Shot,1,3,17,True
+Wilson Chandler,2,2,37,1,Running Finger Roll Layup Shot,2,18,13,True
+Wilson Chandler,1,10,46,1,Running Finger Roll Layup Shot,2,18,11,True
+Wilson Chandler,2,10,40,1,Running Finger Roll Layup Shot,2,24,1,True
+Wilson Chandler,1,4,41,0,Running Finger Roll Layup Shot,3,17,27,True
+Wilson Chandler,1,7,38,0,Running Finger Roll Layup Shot,3,12,38,True
+Wilson Chandler,4,4,45,0,Running Jump Shot,26,-3,265,False
+Wilson Chandler,1,9,9,0,Running Layup Shot,1,2,19,True
+Wilson Chandler,1,2,3,1,Running Layup Shot,3,35,17,True
+Wilson Chandler,2,5,32,1,Running Layup Shot,2,-22,20,True
+Wilson Chandler,2,0,3,1,Running Layup Shot,1,-5,14,True
+Wilson Chandler,1,9,49,0,Running Layup Shot,2,-20,15,True
+Wilson Chandler,2,11,11,1,Running Layup Shot,7,-11,71,True
+Wilson Chandler,3,9,42,0,Running Layup Shot,3,-1,37,True
+Wilson Chandler,3,7,31,1,Running Layup Shot,6,-3,61,True
+Wilson Chandler,3,0,0,0,Running Layup Shot,3,0,31,True
+Wilson Chandler,2,0,24,1,Running Layup Shot,3,0,34,True
+Wilson Chandler,3,3,1,1,Running Layup Shot,0,2,4,True
+Wilson Chandler,1,4,10,1,Running Layup Shot,1,9,8,True
+Wilson Chandler,3,5,24,1,Running Layup Shot,2,21,6,True
+Wilson Chandler,3,9,44,1,Running Layup Shot,3,30,17,True
+Wilson Chandler,3,3,19,0,Running Layup Shot,2,-8,24,True
+Wilson Chandler,4,3,19,1,Running Layup Shot,2,-23,12,True
+Wilson Chandler,2,1,31,1,Running Layup Shot,2,-2,26,True
+Wilson Chandler,1,4,2,0,Step Back Bank Jump Shot,11,-66,95,True
+Wilson Chandler,1,9,4,0,Step Back Jump shot,25,171,188,False
+Wilson Chandler,2,4,0,0,Step Back Jump shot,13,-136,10,True
+Wilson Chandler,1,9,53,1,Step Back Jump shot,20,78,189,True
+Wilson Chandler,2,0,9,1,Step Back Jump shot,17,-178,-5,True
+Wilson Chandler,4,7,23,0,Step Back Jump shot,17,-65,166,True
+Wilson Chandler,2,10,56,0,Step Back Jump shot,14,-127,59,True
+Wilson Chandler,1,8,34,1,Step Back Jump shot,26,-69,258,False
+Wilson Chandler,1,3,32,0,Step Back Jump shot,20,-112,168,True
+Wilson Chandler,4,4,8,1,Step Back Jump shot,12,-122,-18,True
+Wilson Chandler,1,6,40,0,Step Back Jump shot,23,-235,6,False
+Wilson Chandler,2,0,41,1,Step Back Jump shot,18,-161,82,True
+Wilson Chandler,4,8,1,0,Step Back Jump shot,18,118,136,True
+Wilson Chandler,4,1,25,1,Step Back Jump shot,11,108,34,True
+Wilson Chandler,1,1,13,0,Step Back Jump shot,20,-207,-6,True
+Wilson Chandler,2,5,39,0,Step Back Jump shot,25,-127,221,False
+Wilson Chandler,1,9,23,0,Step Back Jump shot,19,111,155,True
+Wilson Chandler,2,5,29,0,Step Back Jump shot,24,231,67,False
+Wilson Chandler,1,11,16,0,Step Back Jump shot,22,-229,-5,False
+Wilson Chandler,2,6,56,0,Step Back Jump shot,13,-132,7,True
+Wilson Chandler,4,9,56,0,Step Back Jump shot,25,22,257,False
+Wilson Chandler,4,7,5,1,Step Back Jump shot,17,176,2,True
+Wilson Chandler,1,5,27,0,Step Back Jump shot,22,224,43,False
+Wilson Chandler,1,11,39,0,Step Back Jump shot,23,230,-17,False
+Wilson Chandler,4,1,39,0,Tip Layup Shot,1,9,5,True
+Wilson Chandler,4,5,20,1,Tip Layup Shot,0,0,-6,True
+Wilson Chandler,2,6,39,0,Tip Layup Shot,0,0,-6,True
+Wilson Chandler,3,9,31,0,Tip Layup Shot,0,0,-6,True
+Wilson Chandler,2,0,34,0,Tip Layup Shot,0,0,-6,True
+Wilson Chandler,4,8,16,0,Tip Layup Shot,0,0,-6,True
+Wilson Chandler,4,2,32,0,Tip Layup Shot,0,0,-6,True
+Wilson Chandler,3,6,48,1,Tip Layup Shot,0,0,-6,True
+Wilson Chandler,4,5,39,1,Tip Layup Shot,0,0,-6,True
+Wilson Chandler,2,3,38,0,Tip Layup Shot,1,9,9,True
+Wilson Chandler,2,3,42,0,Tip Layup Shot,0,0,-6,True
+Wilson Chandler,4,6,22,0,Tip Layup Shot,0,0,-6,True
+Wilson Chandler,4,0,34,0,Tip Layup Shot,2,-26,12,True
+Wilson Chandler,4,9,31,0,Tip Layup Shot,2,10,20,True
+Wilson Chandler,1,8,53,0,Tip Layup Shot,0,0,-6,True
+Wilson Chandler,4,9,25,0,Tip Layup Shot,0,0,-6,True
+Wilson Chandler,4,6,34,1,Tip Layup Shot,0,0,-6,True
+Wilson Chandler,1,0,0,0,Turnaround Fadeaway Bank Jump Shot,25,203,151,False
+Wilson Chandler,2,2,56,1,Turnaround Fadeaway shot,7,53,50,True
+Wilson Chandler,3,5,40,0,Turnaround Fadeaway shot,13,133,21,True
+Wilson Chandler,2,6,28,1,Turnaround Fadeaway shot,8,-1,89,True
+Wilson Chandler,2,0,35,0,Turnaround Fadeaway shot,14,145,27,True
+Wilson Chandler,1,11,46,0,Turnaround Fadeaway shot,5,-47,22,True
+Wilson Chandler,1,6,4,0,Turnaround Fadeaway shot,11,101,44,True
+Wilson Chandler,2,11,8,1,Turnaround Fadeaway shot,4,-8,48,True
+Wilson Chandler,1,10,58,0,Turnaround Fadeaway shot,6,33,59,True
+Wilson Chandler,1,4,9,0,Turnaround Fadeaway shot,13,108,88,True
+Wilson Chandler,2,1,44,1,Turnaround Hook Shot,1,-8,16,True
+Wilson Chandler,1,10,37,0,Turnaround Hook Shot,2,-2,22,True
+Wilson Chandler,3,9,9,1,Turnaround Hook Shot,6,-23,63,True
+Wilson Chandler,1,6,44,0,Turnaround Jump Shot,3,3,32,True
+Wilson Chandler,3,2,15,1,Turnaround Jump Shot,3,5,32,True
+Wilson Chandler,1,11,0,0,Turnaround Jump Shot,9,-82,43,True
+Wilson Chandler,3,11,11,0,Turnaround Jump Shot,9,-14,95,True
+Wilson Chandler,3,11,1,0,Turnaround Jump Shot,11,82,77,True
+Wilson Chandler,3,8,36,1,Turnaround Jump Shot,7,-62,43,True
+Wilson Chandler,2,2,27,0,Turnaround Jump Shot,21,-72,200,True
+Wilson Chandler,2,3,32,1,Turnaround Jump Shot,9,46,85,True
+Wilson Chandler,4,9,53,1,Turnaround Jump Shot,9,29,88,True
+Wilson Chandler,3,10,18,1,Turnaround Jump Shot,10,5,109,True
+Wilson Chandler,4,9,3,0,Turnaround Jump Shot,11,-108,36,True
+Wilson Chandler,3,11,45,0,Turnaround Jump Shot,9,3,94,True
+Wilson Chandler,4,5,11,0,Turnaround Jump Shot,3,-29,20,True
+Wilson Chandler,4,7,31,0,Turnaround Jump Shot,8,-45,69,True
+Wilson Chandler,4,8,54,1,Turnaround Jump Shot,11,55,103,True
+Wilson Chandler,3,9,18,1,Turnaround Jump Shot,2,4,25,True
+Wilson Chandler,3,9,32,0,Turnaround Jump Shot,12,-92,84,True
+Wilson Chandler,1,3,17,1,Turnaround Jump Shot,4,13,38,True

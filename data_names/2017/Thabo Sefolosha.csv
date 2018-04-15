@@ -1,0 +1,233 @@
+name,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_distance,x,y,shot_2pnt
+Thabo Sefolosha,2,4,3,1,Alley Oop Dunk Shot,1,14,11,True
+Thabo Sefolosha,3,7,34,1,Cutting Dunk Shot,1,11,11,True
+Thabo Sefolosha,2,0,48,1,Cutting Dunk Shot,0,7,5,True
+Thabo Sefolosha,3,4,54,1,Cutting Finger Roll Layup Shot,2,0,25,True
+Thabo Sefolosha,3,9,20,1,Cutting Finger Roll Layup Shot,2,3,27,True
+Thabo Sefolosha,3,6,4,1,Cutting Layup Shot,1,-15,8,True
+Thabo Sefolosha,4,0,5,1,Cutting Layup Shot,1,0,14,True
+Thabo Sefolosha,2,8,52,1,Cutting Layup Shot,0,1,5,True
+Thabo Sefolosha,3,6,17,0,Cutting Layup Shot,1,6,19,True
+Thabo Sefolosha,3,2,47,1,Cutting Layup Shot,2,17,11,True
+Thabo Sefolosha,2,10,37,1,Cutting Layup Shot,1,-2,11,True
+Thabo Sefolosha,2,8,53,1,Cutting Layup Shot,1,-11,11,True
+Thabo Sefolosha,2,0,23,1,Cutting Layup Shot,1,-11,5,True
+Thabo Sefolosha,3,9,59,1,Cutting Layup Shot,1,13,2,True
+Thabo Sefolosha,4,4,21,1,Driving Dunk Shot,1,-5,11,True
+Thabo Sefolosha,1,6,53,1,Driving Dunk Shot,1,-2,13,True
+Thabo Sefolosha,3,4,7,1,Driving Finger Roll Layup Shot,3,-1,36,True
+Thabo Sefolosha,2,0,23,1,Driving Floating Bank Jump Shot,4,31,29,True
+Thabo Sefolosha,3,0,50,0,Driving Floating Jump Shot,6,54,41,True
+Thabo Sefolosha,1,0,56,1,Driving Hook Shot,5,0,55,True
+Thabo Sefolosha,4,11,42,1,Driving Layup Shot,0,0,-6,True
+Thabo Sefolosha,1,8,13,0,Driving Layup Shot,2,17,14,True
+Thabo Sefolosha,4,4,37,0,Driving Layup Shot,3,29,15,True
+Thabo Sefolosha,2,0,48,1,Driving Layup Shot,1,-10,-4,True
+Thabo Sefolosha,2,9,8,0,Driving Layup Shot,3,-18,24,True
+Thabo Sefolosha,4,6,18,0,Driving Layup Shot,2,18,10,True
+Thabo Sefolosha,1,7,8,0,Driving Layup Shot,2,-6,27,True
+Thabo Sefolosha,2,9,37,1,Driving Layup Shot,1,14,11,True
+Thabo Sefolosha,4,0,47,1,Driving Layup Shot,1,18,6,True
+Thabo Sefolosha,4,9,45,0,Driving Layup Shot,5,30,41,True
+Thabo Sefolosha,1,7,54,0,Driving Layup Shot,4,-40,21,True
+Thabo Sefolosha,2,9,38,0,Driving Layup Shot,1,-12,12,True
+Thabo Sefolosha,4,3,1,1,Driving Layup Shot,1,-18,4,True
+Thabo Sefolosha,4,9,29,1,Driving Layup Shot,3,35,17,True
+Thabo Sefolosha,2,2,28,0,Driving Layup Shot,2,-20,19,True
+Thabo Sefolosha,1,1,2,0,Driving Layup Shot,6,10,65,True
+Thabo Sefolosha,4,4,25,1,Driving Layup Shot,3,13,31,True
+Thabo Sefolosha,1,0,34,1,Driving Layup Shot,2,18,22,True
+Thabo Sefolosha,4,9,16,1,Driving Layup Shot,2,24,4,True
+Thabo Sefolosha,4,9,40,1,Driving Layup Shot,2,19,10,True
+Thabo Sefolosha,1,7,28,0,Driving Layup Shot,3,-19,28,True
+Thabo Sefolosha,2,8,44,0,Driving Layup Shot,3,4,39,True
+Thabo Sefolosha,4,0,47,0,Driving Layup Shot,1,-13,14,True
+Thabo Sefolosha,4,0,34,0,Driving Layup Shot,2,24,11,True
+Thabo Sefolosha,2,9,56,1,Driving Layup Shot,3,-20,26,True
+Thabo Sefolosha,2,8,55,0,Driving Layup Shot,2,19,22,True
+Thabo Sefolosha,2,8,38,1,Driving Layup Shot,2,-22,18,True
+Thabo Sefolosha,2,10,56,1,Driving Layup Shot,3,-24,22,True
+Thabo Sefolosha,1,1,32,0,Driving Layup Shot,7,-52,48,True
+Thabo Sefolosha,2,1,7,1,Driving Layup Shot,2,-19,7,True
+Thabo Sefolosha,1,5,50,0,Driving Layup Shot,3,21,25,True
+Thabo Sefolosha,4,8,59,0,Driving Layup Shot,1,-14,6,True
+Thabo Sefolosha,1,2,38,1,Driving Reverse Layup Shot,2,19,15,True
+Thabo Sefolosha,2,8,10,0,Driving Reverse Layup Shot,2,-16,12,True
+Thabo Sefolosha,4,0,29,0,Dunk Shot,2,-18,23,True
+Thabo Sefolosha,3,9,23,1,Fadeaway Jump Shot,10,-100,12,True
+Thabo Sefolosha,2,9,6,1,Fadeaway Jump Shot,13,-80,110,True
+Thabo Sefolosha,4,4,55,0,Fadeaway Jump Shot,17,-118,125,True
+Thabo Sefolosha,1,0,27,0,Floating Jump shot,10,-8,106,True
+Thabo Sefolosha,3,8,45,1,Floating Jump shot,11,-44,110,True
+Thabo Sefolosha,2,3,56,0,Hook Shot,6,-61,2,True
+Thabo Sefolosha,4,6,10,0,Jump Bank Shot,11,-113,30,True
+Thabo Sefolosha,4,6,10,0,Jump Shot,21,-209,28,True
+Thabo Sefolosha,3,9,49,1,Jump Shot,5,54,20,True
+Thabo Sefolosha,3,10,23,1,Jump Shot,22,-226,11,False
+Thabo Sefolosha,2,7,43,0,Jump Shot,13,135,13,True
+Thabo Sefolosha,1,10,18,1,Jump Shot,22,-227,4,False
+Thabo Sefolosha,1,6,9,0,Jump Shot,21,82,204,True
+Thabo Sefolosha,2,3,40,1,Jump Shot,25,-81,243,False
+Thabo Sefolosha,2,4,41,1,Jump Shot,16,160,5,True
+Thabo Sefolosha,3,7,6,0,Jump Shot,22,229,19,False
+Thabo Sefolosha,2,8,25,0,Jump Shot,24,-185,153,False
+Thabo Sefolosha,4,5,27,0,Jump Shot,22,-225,-17,False
+Thabo Sefolosha,4,2,25,0,Jump Shot,23,237,0,False
+Thabo Sefolosha,1,10,45,0,Jump Shot,23,-230,5,False
+Thabo Sefolosha,1,5,24,0,Jump Shot,25,-133,220,False
+Thabo Sefolosha,3,7,26,0,Jump Shot,25,172,183,False
+Thabo Sefolosha,2,5,51,1,Jump Shot,8,-89,2,True
+Thabo Sefolosha,1,4,30,0,Jump Shot,5,16,50,True
+Thabo Sefolosha,3,8,57,0,Jump Shot,8,-9,83,True
+Thabo Sefolosha,1,7,23,1,Jump Shot,21,-107,189,True
+Thabo Sefolosha,2,0,22,0,Jump Shot,24,-235,53,False
+Thabo Sefolosha,3,7,28,1,Jump Shot,23,-231,-20,False
+Thabo Sefolosha,2,0,51,1,Jump Shot,11,-117,-8,True
+Thabo Sefolosha,4,6,33,0,Jump Shot,25,-40,247,False
+Thabo Sefolosha,2,7,25,1,Jump Shot,23,112,207,True
+Thabo Sefolosha,3,5,11,0,Jump Shot,22,-228,-7,False
+Thabo Sefolosha,4,7,26,0,Jump Shot,24,172,176,False
+Thabo Sefolosha,4,3,33,0,Jump Shot,23,-230,15,False
+Thabo Sefolosha,2,6,19,1,Jump Shot,25,143,208,False
+Thabo Sefolosha,4,1,44,0,Jump Shot,25,80,241,False
+Thabo Sefolosha,2,2,46,0,Jump Shot,24,228,88,False
+Thabo Sefolosha,3,2,31,1,Jump Shot,23,-203,115,True
+Thabo Sefolosha,4,7,33,0,Jump Shot,23,-230,-3,False
+Thabo Sefolosha,3,2,15,1,Jump Shot,22,-226,9,False
+Thabo Sefolosha,1,2,56,1,Jump Shot,11,-5,111,True
+Thabo Sefolosha,2,7,45,1,Jump Shot,25,-183,176,False
+Thabo Sefolosha,2,7,25,0,Jump Shot,20,-106,173,True
+Thabo Sefolosha,4,10,50,0,Jump Shot,23,-230,-3,False
+Thabo Sefolosha,3,1,21,1,Jump Shot,22,225,5,False
+Thabo Sefolosha,1,1,53,0,Jump Shot,23,-231,3,False
+Thabo Sefolosha,3,1,59,0,Jump Shot,22,-228,19,False
+Thabo Sefolosha,4,3,30,0,Jump Shot,24,100,227,False
+Thabo Sefolosha,2,10,37,1,Jump Shot,22,221,17,False
+Thabo Sefolosha,2,7,33,0,Jump Shot,8,-27,84,True
+Thabo Sefolosha,2,5,4,1,Jump Shot,25,-183,175,False
+Thabo Sefolosha,4,7,1,0,Jump Shot,22,225,9,False
+Thabo Sefolosha,3,1,16,1,Jump Shot,24,37,247,False
+Thabo Sefolosha,1,0,6,0,Jump Shot,23,234,17,False
+Thabo Sefolosha,2,0,1,0,Jump Shot,24,173,170,False
+Thabo Sefolosha,2,11,8,1,Jump Shot,24,-155,196,False
+Thabo Sefolosha,2,9,54,0,Jump Shot,24,160,184,False
+Thabo Sefolosha,2,2,1,0,Jump Shot,25,-110,225,False
+Thabo Sefolosha,4,9,14,1,Jump Shot,22,226,-11,False
+Thabo Sefolosha,1,2,54,1,Jump Shot,22,228,22,False
+Thabo Sefolosha,1,4,33,0,Jump Shot,19,-42,190,True
+Thabo Sefolosha,1,5,14,0,Jump Shot,12,55,117,True
+Thabo Sefolosha,4,9,30,1,Jump Shot,23,-230,-1,False
+Thabo Sefolosha,4,5,19,1,Jump Shot,23,-194,127,True
+Thabo Sefolosha,3,5,47,0,Jump Shot,23,231,27,False
+Thabo Sefolosha,3,1,41,0,Jump Shot,24,-152,194,False
+Thabo Sefolosha,1,5,27,1,Jump Shot,10,33,102,True
+Thabo Sefolosha,1,2,6,0,Jump Shot,24,136,205,False
+Thabo Sefolosha,2,11,15,0,Jump Shot,22,227,1,False
+Thabo Sefolosha,3,0,4,1,Jump Shot,22,-222,-17,False
+Thabo Sefolosha,3,1,17,0,Jump Shot,22,-223,11,False
+Thabo Sefolosha,2,8,35,1,Jump Shot,23,-230,18,False
+Thabo Sefolosha,4,0,11,0,Jump Shot,26,-171,198,False
+Thabo Sefolosha,4,5,30,1,Jump Shot,23,232,25,False
+Thabo Sefolosha,1,4,23,0,Jump Shot,18,-123,141,True
+Thabo Sefolosha,2,11,37,1,Jump Shot,25,-148,204,False
+Thabo Sefolosha,4,11,20,1,Jump Shot,22,-226,-17,False
+Thabo Sefolosha,3,1,20,0,Jump Shot,24,114,221,False
+Thabo Sefolosha,4,11,11,1,Jump Shot,24,120,213,False
+Thabo Sefolosha,4,9,18,0,Jump Shot,21,218,1,True
+Thabo Sefolosha,2,10,6,1,Jump Shot,26,102,241,False
+Thabo Sefolosha,1,1,35,0,Jump Shot,25,29,253,False
+Thabo Sefolosha,4,10,37,1,Jump Shot,22,-226,-12,False
+Thabo Sefolosha,2,3,54,0,Jump Shot,5,-36,38,True
+Thabo Sefolosha,3,8,54,0,Jump Shot,23,-230,-9,False
+Thabo Sefolosha,2,4,25,1,Jump Shot,23,-218,92,False
+Thabo Sefolosha,4,9,52,0,Jump Shot,24,224,110,False
+Thabo Sefolosha,3,3,15,0,Jump Shot,8,-52,61,True
+Thabo Sefolosha,1,5,8,0,Jump Shot,22,228,-5,False
+Thabo Sefolosha,1,1,19,1,Jump Shot,23,233,0,False
+Thabo Sefolosha,4,6,20,0,Jump Shot,23,-230,8,False
+Thabo Sefolosha,4,4,21,0,Jump Shot,21,25,214,True
+Thabo Sefolosha,1,1,37,0,Jump Shot,25,-133,215,False
+Thabo Sefolosha,2,10,9,1,Jump Shot,23,-226,50,False
+Thabo Sefolosha,4,0,37,0,Jump Shot,9,79,46,True
+Thabo Sefolosha,4,9,19,0,Jump Shot,26,177,200,False
+Thabo Sefolosha,4,9,45,1,Jump Shot,22,226,36,False
+Thabo Sefolosha,2,6,43,1,Jump Shot,26,30,262,False
+Thabo Sefolosha,2,0,29,0,Jump Shot,24,235,71,False
+Thabo Sefolosha,1,5,35,0,Jump Shot,24,-100,228,False
+Thabo Sefolosha,4,10,20,0,Jump Shot,22,-227,0,False
+Thabo Sefolosha,2,5,9,0,Jump Shot,25,108,228,False
+Thabo Sefolosha,1,3,40,0,Jump Shot,23,-228,37,False
+Thabo Sefolosha,1,1,21,1,Jump Shot,18,-96,159,True
+Thabo Sefolosha,3,3,10,1,Jump Shot,23,232,7,False
+Thabo Sefolosha,4,7,3,0,Jump Shot,22,-222,-7,False
+Thabo Sefolosha,3,0,22,0,Jump Shot,24,-22,248,False
+Thabo Sefolosha,4,9,1,0,Jump Shot,25,29,251,False
+Thabo Sefolosha,4,1,25,1,Jump Shot,22,226,12,False
+Thabo Sefolosha,1,1,39,1,Layup Shot,2,20,5,True
+Thabo Sefolosha,3,11,7,1,Layup Shot,2,-19,13,True
+Thabo Sefolosha,3,4,5,1,Layup Shot,1,12,14,True
+Thabo Sefolosha,4,0,17,0,Layup Shot,1,-4,16,True
+Thabo Sefolosha,2,0,56,0,Layup Shot,1,16,7,True
+Thabo Sefolosha,4,0,51,1,Layup Shot,2,-24,15,True
+Thabo Sefolosha,2,10,16,1,Layup Shot,2,1,22,True
+Thabo Sefolosha,2,11,5,1,Layup Shot,3,13,34,True
+Thabo Sefolosha,4,5,49,1,Layup Shot,1,-3,11,True
+Thabo Sefolosha,4,0,33,1,Layup Shot,1,-14,-1,True
+Thabo Sefolosha,4,6,29,0,Layup Shot,1,8,12,True
+Thabo Sefolosha,2,10,27,0,Layup Shot,1,-18,6,True
+Thabo Sefolosha,1,6,29,0,Layup Shot,1,-18,7,True
+Thabo Sefolosha,1,2,25,1,Layup Shot,1,9,7,True
+Thabo Sefolosha,2,7,44,1,Layup Shot,0,1,6,True
+Thabo Sefolosha,1,0,30,1,Layup Shot,1,-11,16,True
+Thabo Sefolosha,4,8,22,0,Pullup Jump shot,19,-134,138,True
+Thabo Sefolosha,4,2,21,1,Pullup Jump shot,20,-132,155,True
+Thabo Sefolosha,3,5,51,0,Pullup Jump shot,11,-110,37,True
+Thabo Sefolosha,2,8,20,0,Pullup Jump shot,16,-25,162,True
+Thabo Sefolosha,3,3,19,0,Pullup Jump shot,16,-157,53,True
+Thabo Sefolosha,2,6,59,0,Pullup Jump shot,14,85,116,True
+Thabo Sefolosha,1,2,2,0,Pullup Jump shot,21,-127,172,True
+Thabo Sefolosha,4,1,31,1,Pullup Jump shot,21,-160,143,True
+Thabo Sefolosha,1,0,2,0,Pullup Jump shot,24,-104,227,False
+Thabo Sefolosha,1,4,58,0,Pullup Jump shot,14,107,105,True
+Thabo Sefolosha,3,4,0,1,Pullup Jump shot,15,-138,68,True
+Thabo Sefolosha,1,2,32,1,Pullup Jump shot,19,-39,193,True
+Thabo Sefolosha,3,0,14,1,Pullup Jump shot,12,-44,113,True
+Thabo Sefolosha,1,2,36,0,Pullup Jump shot,18,-106,155,True
+Thabo Sefolosha,2,4,16,0,Pullup Jump shot,19,-134,146,True
+Thabo Sefolosha,1,1,36,1,Putback Layup Shot,1,14,3,True
+Thabo Sefolosha,3,0,39,1,Reverse Layup Shot,2,23,6,True
+Thabo Sefolosha,1,0,7,1,Reverse Layup Shot,2,-20,6,True
+Thabo Sefolosha,2,9,25,0,Reverse Layup Shot,1,-13,14,True
+Thabo Sefolosha,3,8,21,0,Reverse Layup Shot,1,-11,11,True
+Thabo Sefolosha,1,0,44,1,Running Dunk Shot,2,0,22,True
+Thabo Sefolosha,2,3,55,1,Running Dunk Shot,1,6,9,True
+Thabo Sefolosha,2,0,49,1,Running Dunk Shot,1,-2,12,True
+Thabo Sefolosha,4,9,3,1,Running Dunk Shot,1,3,19,True
+Thabo Sefolosha,1,4,46,0,Running Jump Shot,24,236,47,False
+Thabo Sefolosha,3,1,19,1,Running Layup Shot,1,18,2,True
+Thabo Sefolosha,4,3,44,1,Running Layup Shot,1,11,6,True
+Thabo Sefolosha,2,6,13,1,Running Layup Shot,1,13,5,True
+Thabo Sefolosha,4,1,55,1,Running Layup Shot,2,-20,21,True
+Thabo Sefolosha,3,2,16,0,Running Layup Shot,1,-7,15,True
+Thabo Sefolosha,4,6,59,1,Running Layup Shot,0,0,8,True
+Thabo Sefolosha,1,0,21,1,Running Layup Shot,2,-11,17,True
+Thabo Sefolosha,2,5,7,1,Running Layup Shot,1,-5,17,True
+Thabo Sefolosha,1,0,9,0,Running Layup Shot,0,0,9,True
+Thabo Sefolosha,1,1,37,0,Running Pull-Up Jump Shot,24,-185,164,False
+Thabo Sefolosha,4,4,57,1,Running Reverse Layup Shot,1,-14,5,True
+Thabo Sefolosha,1,0,13,0,Step Back Jump shot,26,-47,262,False
+Thabo Sefolosha,3,2,52,1,Step Back Jump shot,24,-235,64,False
+Thabo Sefolosha,2,8,52,1,Step Back Jump shot,21,-213,27,True
+Thabo Sefolosha,4,11,18,0,Tip Layup Shot,0,0,-6,True
+Thabo Sefolosha,3,3,3,1,Tip Layup Shot,0,0,-6,True
+Thabo Sefolosha,3,3,7,0,Tip Layup Shot,0,0,-6,True
+Thabo Sefolosha,1,1,57,1,Tip Layup Shot,0,0,-6,True
+Thabo Sefolosha,1,7,52,0,Tip Layup Shot,1,-9,11,True
+Thabo Sefolosha,4,11,18,0,Tip Layup Shot,0,-3,3,True
+Thabo Sefolosha,4,11,0,1,Tip Layup Shot,0,0,-6,True
+Thabo Sefolosha,3,0,58,0,Turnaround Fadeaway shot,12,128,6,True
+Thabo Sefolosha,1,11,23,0,Turnaround Hook Shot,10,-101,37,True
+Thabo Sefolosha,4,7,36,1,Turnaround Jump Shot,10,-47,94,True
+Thabo Sefolosha,4,9,22,1,Turnaround Jump Shot,7,-55,58,True
+Thabo Sefolosha,4,4,55,0,Turnaround Jump Shot,10,109,5,True
+Thabo Sefolosha,4,9,29,0,Turnaround Jump Shot,10,-55,84,True
