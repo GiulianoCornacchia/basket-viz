@@ -40,6 +40,7 @@ function sides_chart(data_ply,w,h,delay)
 
 	var left_line=[]
 	var right_line=[]
+	var diff_line=[]
 	var max=0
 	 for(i=0;i<dim_x;i++)
 	  {		  
@@ -47,13 +48,16 @@ function sides_chart(data_ply,w,h,delay)
 			 max=left[i]
 		 if(right[i]>max)
 			 max=right[i]
+		 
 		  left_line.push({"a":(-left[i]),"b":i})
 		  right_line.push({"a":(right[i]),"b":i})
+		  diff_line.push({"a":(right[i]-left[i]),"b":i})
 		  
 	  }
   
     left_line.push({"a":0,"b":26})
 	right_line.push({"a":0,"b":26})
+	diff_line.push({"a":0,"b":26})
    
 	//findin max n_shot
 	
@@ -66,7 +70,7 @@ function sides_chart(data_ply,w,h,delay)
 	 
 	 var xScale2 = d3.scaleLinear().range([width/2,width]).domain([0,(max+10)]);
 
-     
+     var xScale3 = d3.scaleLinear().range([0,width]).domain([-(max+10),(max+10)]);
 	 
 	 
 	 var asse_x = d3.axisBottom().scale(xScale).ticks(5).tickFormat(function(d,i) {return -d});
@@ -96,6 +100,12 @@ function sides_chart(data_ply,w,h,delay)
 				.curve(d3.curveCardinal);
 	
 	
+	var line_diff= d3.line()
+				.x(function(d){return xScale3(d.a)})
+				.y(function(d){return yScale(d.b)})
+				.curve(d3.curveCardinal);
+	
+	
 
 	
 	
@@ -104,7 +114,7 @@ function sides_chart(data_ply,w,h,delay)
                           .attr("class", "linea")						  
 					      .attr("d", line_left(left_line))
                           .attr("stroke", "red")
-						  .attr("opacity",0.6)
+						  .attr("opacity",1.5)
                           .attr("stroke-width", 1.5)
                           .attr("fill", "none")
 						  
@@ -114,9 +124,18 @@ function sides_chart(data_ply,w,h,delay)
                           .attr("class", "linea")						  
 					      .attr("d", line_right(right_line))
                           .attr("stroke", "blue")
-						  .attr("opacity",0.6)
+						  .attr("opacity",1)
                           .attr("stroke-width", 1.5)
                           .attr("fill", "none")
+						  
+	var path3 = svg.append("path")
+						  .datum(diff_line)
+                          .attr("class", "linea")						  
+					      .attr("d", line_diff(diff_line))
+                          .attr("stroke", "grey")
+						  .attr("opacity",0.3)
+                          .attr("stroke-width", 1)
+                          .attr("fill", "none")					  
 						  					  
 	 var pnt3_line = svg.append('line')				
 							.attr('x1', xScale(0))
