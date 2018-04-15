@@ -188,19 +188,14 @@
 
 
 	
-	
-	
-	
-
-	
-		
-	
 
 <script>
 window.onresize = function(event) {
     update()
 };
 
+
+current_year=2014
 
 function fun1(val)
 {
@@ -212,8 +207,22 @@ function fun1(val)
 	most_similar_player = data
 	build_graph(data,[])
 	graph_active=1
-	}
+}
 );
+
+	d3.csv("./dataset_pc/"+current_year+"/most_similar_players.csv", function(data){ most_similar_player = data});
+	console.log("most_similar_player loaded")
+	
+	d3.csv("./dataset_pc/"+current_year+"/total_assist.csv", function(data){total_assist = data});
+	console.log("total_assist loaded")
+	
+	d3.csv("./dataset_pc/"+current_year+"/name_to_team.csv", function(data){name_to_team = data});
+	console.log("name_to_team loaded")
+	
+
+	d3.csv("./dataset_pc/"+current_year+"/total_defenders.csv", function(data){total_defender = data		
+	});
+
 }
 
 
