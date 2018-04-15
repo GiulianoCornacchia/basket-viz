@@ -216,29 +216,14 @@ function analytics(data_player,name_player,tot_def)
 	line_chart(data_player,w_graph,170,"#grafico4",3500,"freq_min","orange","yellow",1,2000,48,"Freq. vs min (min)");
 	draw_heatmap(data_player,"none");
 	draw_shotchart(data_player,false,q1,m1,q2,m2,505,350,filter_flag,false,"vis")
-	sides_chart(data_player,w_chord,300)
+	sides_chart(data_player,w_chord,300,5000)
 	menu_stats(data_player,total_assist,name_player,name_to_team)
 	chord_diagram(name_player,name_to_team,total_assist,w_chord,310)
 	most_similar_players(most_similar_player,name_player,1)
 	}
 	
-	
-	
-	
-	
-	
-	//work in progress..
-	
-	
-
-	
-	
-	
-	
-	
-
-
 }
+
 
 
 function update()
@@ -247,12 +232,19 @@ function update()
 	
 	name_player=getPar()
 	
+	old_year = current_year
+	
 	current_year=getPar_year()
+	
 
     console.log("Searching "+name_player+" year="+current_year)
 	
 	if(name_player!="" && yearValid(current_year))
 	{	
+	
+
+	
+	
 	
 	
 	d3.csv("./data_names/"+current_year+"/"+name_player+".csv", function(data){
@@ -264,9 +256,9 @@ function update()
 	
 	console.log("CSV of "+name_player+" loaded")
 	
-	document.getElementById('welcome').innerHTML = "";
 	document.getElementById('grafico').innerHTML = "";
 	document.getElementById('grafico2').innerHTML = "";
+	document.getElementById('welcome').innerHTML = "";
 	document.getElementById('grafico3').innerHTML = "";
 	document.getElementById('grafico4').innerHTML = "";
 	document.getElementById('radar').innerHTML = "";
