@@ -19,8 +19,8 @@ function sides_chart(data_ply,w,h,delay)
               .append("g")
               .attr("transform","translate(" + 25 + "," + 0 + ")");	 
 		 
-
 	
+
 	var left=[]
 	var right=[]
 	var dim_x=24
@@ -73,8 +73,17 @@ function sides_chart(data_ply,w,h,delay)
 	 var asse_x2=d3.axisBottom().scale(xScale2).ticks(5);
 	 var asse_y = d3.axisLeft().scale(yScale)
 	 	
+	var area = d3.area()
+	.x(function(d) { return xScale(d.a); })
+	.y0(height)
+	.y1(function(d) { return yScale(d.b); })
+	.curve(d3.curveCardinal);
 	
-	
+	var area2 = d3.area()
+	.x(function(d) { return xScale2(d.a); })
+	.y0(height)
+	.y1(function(d) { return yScale(d.b); })
+	.curve(d3.curveCardinal);
 	
 	var line_left= d3.line()
 				.x(function(d){return xScale(d.a)})
@@ -86,6 +95,21 @@ function sides_chart(data_ply,w,h,delay)
 				.y(function(d){return yScale(d.b)})
 				.curve(d3.curveCardinal);
 	
+	
+	
+	var area_left = svg.append("path")
+						.data(left_line)
+						.attr("class", "area")
+						.attr("fill","orange")
+						.attr("opacity","0.2")
+						.attr("d", area(left_line));
+	
+	var area_right = svg.append("path")
+						.data(right_line)
+						.attr("class", "area")
+						.attr("fill","blue")
+						.attr("opacity","0.2")
+						.attr("d", area2(right_line));
 	
 	
    	 var path = svg.append("path")
