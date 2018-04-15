@@ -264,7 +264,7 @@ function update()
 	
 	console.log("CSV of "+name_player+" loaded")
 	
-	document.getElementById('welcome').innerHTML = "";
+	//document.getElementById('welcome').innerHTML = "";
 	document.getElementById('grafico').innerHTML = "";
 	document.getElementById('grafico2').innerHTML = "";
 	document.getElementById('grafico3').innerHTML = "";
