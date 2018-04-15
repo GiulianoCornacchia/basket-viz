@@ -23,15 +23,15 @@ function sides_chart(data_ply,w,h,delay)
 
 	var left=[]
 	var right=[]
-	var dim_x=24
+	var dim_x=30
 	
 	var acc_l=0
 	
-	sides(data_ply,left,right,24)
+	sides(data_ply,left,right,30)
 	
 	console.log(left)
 	
-	for(i=0;i<24;i++)
+	for(i=0;i<30;i++)
 		acc_l+=left[i]
 	
 	console.log(left)
@@ -55,9 +55,9 @@ function sides_chart(data_ply,w,h,delay)
 		  
 	  }
   
-    left_line.push({"a":0,"b":26})
-	right_line.push({"a":0,"b":26})
-	diff_line.push({"a":0,"b":26})
+    left_line.push({"a":0,"b":30})
+	right_line.push({"a":0,"b":30})
+	diff_line.push({"a":0,"b":30})
    
 	//findin max n_shot
 	
@@ -66,7 +66,7 @@ function sides_chart(data_ply,w,h,delay)
    
      var xScale = d3.scaleLinear().range([0,width/2,]).domain([-(max+10),0]);
 
-     var yScale = d3.scaleLinear().range([height, 10]).domain([0,28]);
+     var yScale = d3.scaleLinear().range([height, 10]).domain([0,dim_x]);
 	 
 	 var xScale2 = d3.scaleLinear().range([width/2,width]).domain([0,(max+10)]);
 
@@ -106,6 +106,15 @@ function sides_chart(data_ply,w,h,delay)
 				.curve(d3.curveCardinal);
 	
 	
+	var pnt3_line = svg.append('line')				
+							.attr('x1', xScale(-(max+10)))
+							.attr('y1', yScale(23.75))
+							.attr('x2', xScale2((max+10)))
+							.attr('y2', yScale(23.75))
+							.attr('stroke', "grey")
+							.attr('opacity',0.6)
+							.attr('stroke-width', 2)
+							.attr('stroke-dasharray',"5, 10")
 
 	
 	
@@ -137,14 +146,7 @@ function sides_chart(data_ply,w,h,delay)
                           .attr("stroke-width", 1)
                           .attr("fill", "none")					  
 						  					  
-	 var pnt3_line = svg.append('line')				
-							.attr('x1', xScale(0))
-							.attr('y1', yScale(0))
-							.attr('x2', xScale(0))
-							.attr('y2', yScale(width))
-							.attr('stroke', "grey")
-							.attr('opacity',0.6)
-							.attr('stroke-width', 1)
+
 											  
 						  
 	 var xAxisGroup = svg.append("g")
