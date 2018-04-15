@@ -116,7 +116,15 @@ function sides_chart(data_ply,w,h,delay)
 							.attr('stroke-width', 2)
 							.attr('stroke-dasharray',"5, 10")
 
-	
+	var line = svg.append('line')				
+							.attr('x1', xScale(0))
+							.attr('y1', yScale(0))
+							.attr('x2', xScale2(0))
+							.attr('y2', yScale(30))
+							.attr('stroke', "grey")
+							.attr('opacity',0.6)
+							.attr('stroke-width', 1)
+							.attr('stroke-dasharray',"5, 10")
 	
    	 var path = svg.append("path")
 						  .datum(left_line)
