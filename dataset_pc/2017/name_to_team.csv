@@ -1,18 +1,13 @@
-name,team_name
-JR Smith,Cleveland Cavaliers
 Andrew Bogut,Los Angeles Lakers
-Kentavious CaldwellPope,Los Angeles Lakers
 Marvin Williams,Charlotte Hornets
 Chris Paul,Houston Rockets
 Raymond Felton,Oklahoma City Thunder
 Channing Frye,Cleveland Cavaliers
-Donovan Mitchell,Utah Jazz
 Gerald Green,Houston Rockets
 Jarrett Jack,New York Knicks
-Jayson Tatum,Boston Celtics
 Ian Mahinmi,Washington Wizards
 CJ Miles,Toronto Raptors
-Ersan Ilyasova,Atlanta Hawks
+Ersan Ilyasova,Philadelphia 76ers
 Lou Williams,LA Clippers
 Amir Johnson,Philadelphia 76ers
 Marcin Gortat,Washington Wizards
@@ -21,20 +16,18 @@ Jahlil Okafor,Brooklyn Nets
 Emmanuel Mudiay,Denver Nuggets
 Tyus Jones,Minnesota Timberwolves
 Justin Anderson,Philadelphia 76ers
-Anthony Brown,Minnesota Timberwolves
-KarlAnthony Towns,Minnesota Timberwolves
 Montrezl Harrell,LA Clippers
 Andrew Harrison,Memphis Grizzlies
 Aaron Harrison,Dallas Mavericks
 Delon Wright,Toronto Raptors
 RJ Hunter,Houston Rockets
 Sam Dekker,LA Clippers
-D'Angelo Russell,Brooklyn Nets
-Karl-Anthony Towns,Minnesota Timberwolves
+DAngelo Russell,Brooklyn Nets
+KarlAnthony Towns,Minnesota Timberwolves
 Richaun Holmes,Philadelphia 76ers
 Justise Winslow,Miami Heat
-Willie Cauley-Stein,Sacramento Kings
-Kelly Oubre,Washington Wizards
+Willie CauleyStein,Sacramento Kings
+Kelly Oubre Jr,Washington Wizards
 Frank Kaminsky,Charlotte Hornets
 Devin Booker,Phoenix Suns
 Cameron Payne,Chicago Bulls
@@ -46,10 +39,12 @@ Bobby Portis,Chicago Bulls
 Kevon Looney,Golden State Warriors
 Rashad Vaughn,Milwaukee Bucks
 Jordan Mickey,Miami Heat
-Rondae Hollis-Jefferson,Brooklyn Nets
+Dakari Johnson,Oklahoma City Thunder
+Rondae HollisJefferson,Brooklyn Nets
 Terry Rozier,Boston Celtics
 Norman Powell,Toronto Raptors
 Jarell Martin,Memphis Grizzlies
+Quinn Cook,Golden State Warriors
 Chris McCullough,Washington Wizards
 Pat Connaughton,Portland Trail Blazers
 Willy Hernangomez,New York Knicks
@@ -57,18 +52,24 @@ Josh Richardson,Miami Heat
 Darrun Hilliard,San Antonio Spurs
 Joe Young,Indiana Pacers
 Treveon Graham,Charlotte Hornets
-Jr. Nance,Los Angeles Lakers
+Larry Nance Jr,Cleveland Cavaliers
+Vincent Hunter,Memphis Grizzlies
 Mario Hezonja,Orlando Magic
 Alan Williams,Phoenix Suns
+Royce ONeale,Utah Jazz
+Cedi Osman,Cleveland Cavaliers
 Cristiano Felicio,Chicago Bulls
 Boban Marjanovic,LA Clippers
 Salah Mejri,Dallas Mavericks
+Malcolm Miller,Toronto Raptors
+Jonathan Gibson,Boston Celtics
 Malcolm Delaney,Atlanta Hawks
+Walter Lemon Jr,New Orleans Pelicans
 Briante Weber,Houston Rockets
 Ben Simmons,Philadelphia 76ers
 Dragan Bender,Phoenix Suns
 Domantas Sabonis,Indiana Pacers
-Wade Baldwin,Portland Trail Blazers
+Wade Baldwin IV,Portland Trail Blazers
 Malik Beasley,Denver Nuggets
 Marquese Chriss,Phoenix Suns
 Deyonta Davis,Memphis Grizzlies
@@ -86,34 +87,128 @@ Dejounte Murray,San Antonio Spurs
 Jamal Murray,Denver Nuggets
 Jakob Poeltl,Toronto Raptors
 Taurean Prince,Atlanta Hawks
+Zhou Qi,Houston Rockets
+Tyler Ulis,Phoenix Suns
 Denzel Valentine,Chicago Bulls
 Ron Baker,New York Knicks
 Jaylen Brown,Boston Celtics
 DeAndre Bembry,Atlanta Hawks
+Joel Bolomboy,Milwaukee Bucks
 Malcolm Brogdon,Milwaukee Bucks
-Kay Felder,Chicago Bulls
+Cheick Diallo,New Orleans Pelicans
+Kay Felder,Detroit Pistons
+Daniel Hamilton,Oklahoma City Thunder
 Jake Layman,Portland Trail Blazers
 Patrick McCaw,Golden State Warriors
-Georges Niang,Utah Jazz
+Marcus Paige,Charlotte Hornets
+Gary Payton II,Milwaukee Bucks
 Malachi Richardson,Sacramento Kings
+Wayne Selden,Memphis Grizzlies
 Pascal Siakam,Toronto Raptors
 Isaiah Whitehead,Brooklyn Nets
 Troy Williams,New York Knicks
-Timothe Luwawu,Philadelphia 76ers
+Furkan Korkmaz,Philadelphia 76ers
+Timothe LuwawuCabarrot,Philadelphia 76ers
+Ante Zizic,Cleveland Cavaliers
+Yogi Ferrell,Dallas Mavericks
+Damion Lee,Atlanta Hawks
+Isaiah Taylor,Atlanta Hawks
+Tyrone Wallace,LA Clippers
+James Webb III,Brooklyn Nets
 Juan Hernangomez,Denver Nuggets
+Guerschon Yabusele,Boston Celtics
 Ivica Zubac,Los Angeles Lakers
-Dorian Finney-Smith,Dallas Mavericks
+Dorian FinneySmith,Dallas Mavericks
 Fred VanVleet,Toronto Raptors
 Georgios Papagiannis,Sacramento Kings
 Paul Zipser,Chicago Bulls
-Marshall Plumlee,Milwaukee Bucks
+Abdel Nader,Boston Celtics
+Ryan Arcidiacono,Chicago Bulls
 Bryn Forbes,San Antonio Spurs
+Okaro White,Miami Heat
+Kyle Collinsworth,Dallas Mavericks
 Danuel House,Phoenix Suns
-Jr. Jones,Miami Heat
+Marcus GeorgesHunt,Minnesota Timberwolves
+Jalen Jones,Dallas Mavericks
+Derrick Jones Jr,Miami Heat
+Shaquille Harrison,Phoenix Suns
+Alex Caruso,Los Angeles Lakers
+Josh Gray,Phoenix Suns
+Myke Henry,Memphis Grizzlies
+David Nwaba,Chicago Bulls
+Alfonzo McKinnie,Toronto Raptors
+Markelle Fultz,Philadelphia 76ers
+Lonzo Ball,Los Angeles Lakers
+Josh Jackson,Phoenix Suns
+DeAaron Fox,Sacramento Kings
+Jayson Tatum,Boston Celtics
+Malik Monk,Charlotte Hornets
+Jonathan Isaac,Orlando Magic
+Dennis Smith Jr,Dallas Mavericks
+Frank Ntilikina,New York Knicks
+Lauri Markkanen,Chicago Bulls
+Donovan Mitchell,Utah Jazz
+Luke Kennard,Detroit Pistons
+Zach Collins,Portland Trail Blazers
+John Collins,Atlanta Hawks
+Justin Jackson,Sacramento Kings
+OG Anunoby,Toronto Raptors
+Jarrett Allen,Brooklyn Nets
+Ike Anigbogu,Indiana Pacers
+TJ Leaf,Indiana Pacers
+Bam Adebayo,Miami Heat
+Terrance Ferguson,Oklahoma City Thunder
+DJ Wilson,Milwaukee Bucks
+Jawun Evans,LA Clippers
+Jordan Bell,Golden State Warriors
+Tony Bradley,Utah Jazz
+Ivan Rabb,Memphis Grizzlies
+Kyle Kuzma,Los Angeles Lakers
+Semi Ojeleye,Boston Celtics
+Derrick White,San Antonio Spurs
+Caleb Swanigan,Portland Trail Blazers
+Josh Hart,Los Angeles Lakers
+Johnathan Motley,Dallas Mavericks
+Dwayne Bacon,Charlotte Hornets
+Alec Peters,Phoenix Suns
+Wes Iwundu,Orlando Magic
+Frank Mason,Sacramento Kings
+Sindarius Thornwell,LA Clippers
+Dillon Brooks,Memphis Grizzlies
+Tyler Dorsey,Atlanta Hawks
+Thomas Bryant,Los Angeles Lakers
+Monte Morris,Denver Nuggets
+Damyean Dotson,New York Knicks
+Kobi Simmons,Memphis Grizzlies
+Sterling Brown,Milwaukee Bucks
+Davon Reed,Phoenix Suns
+Luke Kornet,New York Knicks
+Isaiah Hicks,New York Knicks
+Kadeem Allen,Boston Celtics
+Jabari Bird,Boston Celtics
+Mike James,Phoenix Suns
+Milos Teodosic,LA Clippers
+Tyler Cavanaugh,Atlanta Hawks
+Daniel Theis,Boston Celtics
+Maxi Kleber,Dallas Mavericks
+Antonio Blakeney,Chicago Bulls
+Torrey Craig,Denver Nuggets
+Derrick Walton Jr,Miami Heat
+Gian Clavell,Dallas Mavericks
+Mangok Mathiang,Charlotte Hornets
+Milton Doyle,Brooklyn Nets
+Antonius Cleveland,Dallas Mavericks
+Nigel Hayes,Los Angeles Lakers
+Jamel Artis,Orlando Magic
+Xavier RathanMayes,Memphis Grizzlies
+Andrew White III,Atlanta Hawks
+Jaylen Morris,Atlanta Hawks
+Rodney Purvis,Orlando Magic
 Vince Carter,Sacramento Kings
 Dirk Nowitzki,Dallas Mavericks
 Jason Terry,Milwaukee Bucks
 Manu Ginobili,San Antonio Spurs
+Aaron Jackson,Houston Rockets
 LaMarcus Aldridge,San Antonio Spurs
 Rudy Gay,San Antonio Spurs
 JJ Redick,Philadelphia 76ers
@@ -122,7 +217,7 @@ Rajon Rondo,New Orleans Pelicans
 Kyle Lowry,Toronto Raptors
 PJ Tucker,Houston Rockets
 Paul Millsap,Denver Nuggets
-Jose Barea,Dallas Mavericks
+JJ Barea,Dallas Mavericks
 Kevin Durant,Golden State Warriors
 Al Horford,Boston Celtics
 Mike Conley,Memphis Grizzlies
@@ -139,15 +234,16 @@ Wilson Chandler,Denver Nuggets
 Aaron Brooks,Minnesota Timberwolves
 Arron Afflalo,Orlando Magic
 Marc Gasol,Memphis Grizzlies
-Ramon Sessions,Washington Wizards
+Ramon Sessions,New York Knicks
 Anthony Tolliver,Detroit Pistons
+Andre Ingram,Los Angeles Lakers
 Michael Beasley,New York Knicks
-Derrick Rose,Cleveland Cavaliers
+Derrick Rose,Minnesota Timberwolves
 Russell Westbrook,Oklahoma City Thunder
 Kevin Love,Cleveland Cavaliers
 Danilo Gallinari,LA Clippers
 Eric Gordon,Houston Rockets
-D.J. Augustin,Orlando Magic
+DJ Augustin,Orlando Magic
 Brook Lopez,Los Angeles Lakers
 Jerryd Bayless,Philadelphia 76ers
 Robin Lopez,Chicago Bulls
@@ -158,12 +254,13 @@ Courtney Lee,New York Knicks
 Kosta Koufos,Sacramento Kings
 Serge Ibaka,Toronto Raptors
 Nicolas Batum,Charlotte Hornets
-George Hill,Sacramento Kings
+George Hill,Cleveland Cavaliers
 Darrell Arthur,Denver Nuggets
 Mario Chalmers,Memphis Grizzlies
 DeAndre Jordan,LA Clippers
 Omer Asik,New Orleans Pelicans
-a Mbah,Houston Rockets
+Luc Mbah a Moute,Houston Rockets
+Goran Dragic,Miami Heat
 Bobby Brown,Houston Rockets
 Blake Griffin,Detroit Pistons
 James Harden,Houston Rockets
@@ -180,7 +277,7 @@ Omri Casspi,Golden State Warriors
 Taj Gibson,Minnesota Timberwolves
 DeMarre Carroll,Brooklyn Nets
 Wayne Ellington,Miami Heat
-Dante Cunningham,Brooklyn Nets
+Dante Cunningham,New Orleans Pelicans
 Jonas Jerebko,Utah Jazz
 Jodie Meeks,Washington Wizards
 Patrick Beverley,LA Clippers
@@ -194,8 +291,8 @@ Derrick Favors,Utah Jazz
 Wesley Johnson,LA Clippers
 DeMarcus Cousins,New Orleans Pelicans
 Ekpe Udoh,Utah Jazz
-Greg Monroe,Phoenix Suns
-Al-Farouq Aminu,Portland Trail Blazers
+Greg Monroe,Boston Celtics
+AlFarouq Aminu,Portland Trail Blazers
 Paul George,Oklahoma City Thunder
 Cole Aldrich,Minnesota Timberwolves
 Ed Davis,Portland Trail Blazers
@@ -239,13 +336,13 @@ Shelvin Mack,Orlando Magic
 Chandler Parsons,Memphis Grizzlies
 Jon Leuer,Detroit Pistons
 Davis Bertans,San Antonio Spurs
-DeAndre Liggins,New Orleans Pelicans
-E'Twaun Moore,New Orleans Pelicans
-Isaiah Thomas,Los Angeles Lakers
+DeAndre Liggins,Milwaukee Bucks
+ETwaun Moore,New Orleans Pelicans
+Isaiah Thomas,Cleveland Cavaliers
 Dwight Buycks,Detroit Pistons
 Julyan Stone,Charlotte Hornets
 Anthony Davis,New Orleans Pelicans
-Michael Kidd-Gilchrist,Charlotte Hornets
+Michael KiddGilchrist,Charlotte Hornets
 Bradley Beal,Washington Wizards
 Dion Waiters,Miami Heat
 Damian Lillard,Portland Trail Blazers
@@ -257,18 +354,19 @@ Meyers Leonard,Portland Trail Blazers
 Jeremy Lamb,Charlotte Hornets
 John Henson,Milwaukee Bucks
 Maurice Harkless,Portland Trail Blazers
-Tyler Zeller,Brooklyn Nets
+Tyler Zeller,Milwaukee Bucks
 Evan Fournier,Orlando Magic
 Miles Plumlee,Atlanta Hawks
 Marquis Teague,Memphis Grizzlies
 Tomas Satoransky,Washington Wizards
-Jae Crowder,Utah Jazz
+Jae Crowder,Cleveland Cavaliers
 Draymond Green,Golden State Warriors
 Quincy Acy,Brooklyn Nets
 Khris Middleton,Milwaukee Bucks
 Will Barton,Denver Nuggets
+Mike Scott,Washington Wizards
 Darius Miller,New Orleans Pelicans
-Kyle O'Quinn,New York Knicks
+Kyle OQuinn,New York Knicks
 Mirza Teletovic,Milwaukee Bucks
 Kent Bazemore,Atlanta Hawks
 Willie Reed,LA Clippers
@@ -280,80 +378,83 @@ Alex Len,Phoenix Suns
 Allen Crabbe,Brooklyn Nets
 Andre Roberson,Oklahoma City Thunder
 Ben McLemore,Memphis Grizzlies
+Brandon Paul,San Antonio Spurs
 CJ McCollum,Portland Trail Blazers
 Cody Zeller,Charlotte Hornets
 Dennis Schroder,Atlanta Hawks
 Dewayne Dedmon,Atlanta Hawks
 Gorgui Dieng,Minnesota Timberwolves
 Isaiah Canaan,Phoenix Suns
+Jeff Withey,Dallas Mavericks
 Kelly Olynyk,Miami Heat
+Kentavious CaldwellPope,Los Angeles Lakers
 Lorenzo Brown,Toronto Raptors
 Mason Plumlee,Denver Nuggets
-Michael Carter-Williams,Charlotte Hornets
+Michael CarterWilliams,Charlotte Hornets
 Mike Muscala,Atlanta Hawks
-Nate Wolters,Utah Jazz
-Otto Porter,Washington Wizards
+Otto Porter Jr,Washington Wizards
 Reggie Bullock,Detroit Pistons
 Robert Covington,Philadelphia 76ers
 Rudy Gobert,Utah Jazz
-Shabazz Muhammad,Milwaukee Bucks
+Shabazz Muhammad,Minnesota Timberwolves
 Shane Larkin,Boston Celtics
 Steven Adams,Oklahoma City Thunder
-Jr. Hardaway,New York Knicks
+Tim Hardaway Jr,New York Knicks
 Tony Snell,Milwaukee Bucks
 Trey Burke,New York Knicks
-Vander Blue,Los Angeles Lakers
 Victor Oladipo,Indiana Pacers
 Giannis Antetokounmpo,Milwaukee Bucks
 Lucas Nogueira,Toronto Raptors
-James Ennis,Detroit Pistons
+James Ennis III,Memphis Grizzlies
 Alex Abrines,Oklahoma City Thunder
 Matthew Dellavedova,Milwaukee Bucks
 Solomon Hill,New Orleans Pelicans
 Raul Neto,Utah Jazz
 Joffrey Lauvergne,San Antonio Spurs
 Ian Clark,New Orleans Pelicans
-Larry Drew,New Orleans Pelicans
+Larry Drew II,New Orleans Pelicans
 Troy Daniels,Phoenix Suns
 Rodney McGruder,Miami Heat
 Jonathon Simmons,Orlando Magic
 Jamal Crawford,Minnesota Timberwolves
-Scotty Hopson,Dallas Mavericks
+Josh Magette,Atlanta Hawks
+CJ Williams,LA Clippers
 Shabazz Napier,Portland Trail Blazers
 Zach LaVine,Chicago Bulls
 Tyler Ennis,Los Angeles Lakers
-Markel Brown,Houston Rockets
-Elfrid Payton,Orlando Magic
+Elfrid Payton,Phoenix Suns
 Jordan Clarkson,Los Angeles Lakers
 Gary Harris,Denver Nuggets
 Spencer Dinwiddie,Brooklyn Nets
 Nik Stauskas,Brooklyn Nets
-Rodney Hood,Cleveland Cavaliers
-Glenn Robinson,Indiana Pacers
+Rodney Hood,Utah Jazz
+Khem Birch,Orlando Magic
+Glenn Robinson III,Indiana Pacers
 James Young,Philadelphia 76ers
 Jerami Grant,Oklahoma City Thunder
 Joe Harris,Brooklyn Nets
 Doug McDermott,New York Knicks
-Sean Kilpatrick,Brooklyn Nets
+Sean Kilpatrick,Chicago Bulls
 Aaron Gordon,Orlando Magic
 TJ Warren,Phoenix Suns
 Marcus Smart,Boston Celtics
 Kyle Anderson,San Antonio Spurs
 Dwight Powell,Dallas Mavericks
+Adreian Payne,Orlando Magic
 Noah Vonleh,Portland Trail Blazers
 Julius Randle,Los Angeles Lakers
-Johnny O'Bryant,Charlotte Hornets
+Johnny OBryant III,Charlotte Hornets
 Andrew Wiggins,Minnesota Timberwolves
 Jabari Parker,Milwaukee Bucks
 Joel Embiid,Philadelphia 76ers
 Dante Exum,Utah Jazz
-Lonzo Ball,Los Angeles Lakers
-Kyle Kuzma,Los Angeles Lakers
 JaKarr Sampson,Sacramento Kings
 Eric Moreland,Detroit Pistons
 Josh Huestis,Oklahoma City Thunder
+Jamil Wilson,LA Clippers
 Dario Saric,Philadelphia 76ers
 Clint Capela,Houston Rockets
+Bogdan Bogdanovic,Sacramento Kings
 Jusuf Nurkic,Portland Trail Blazers
 Bruno Caboclo,Sacramento Kings
 Nikola Jokic,Denver Nuggets
@@ -362,14 +463,16 @@ Tyler Johnson,Miami Heat
 Jack Cooley,Sacramento Kings
 Tim Frazier,Washington Wizards
 Tarik Black,Houston Rockets
+name,team_name
 Travis Wear,Los Angeles Lakers
 Langston Galloway,Detroit Pistons
 Joe Ingles,Utah Jazz
 John Holland,Cleveland Cavaliers
-Xavier Munford,Milwaukee Bucks
+Omari Johnson,Memphis Grizzlies
 TJ McConnell,Philadelphia 76ers
 Tyson Chandler,Phoenix Suns
 Pau Gasol,San Antonio Spurs
+Joe Johnson,Utah Jazz
 Richard Jefferson,Denver Nuggets
 Zach Randolph,Sacramento Kings
 Tony Parker,San Antonio Spurs
@@ -379,7 +482,6 @@ Carmelo Anthony,Oklahoma City Thunder
 Dwyane Wade,Cleveland Cavaliers
 Nick Collison,Oklahoma City Thunder
 David West,Golden State Warriors
-Kendrick Perkins,Cleveland Cavaliers
 Zaza Pachulia,Golden State Warriors
 Kyle Korver,Cleveland Cavaliers
 Udonis Haslem,Miami Heat
@@ -389,7 +491,7 @@ Shaun Livingston,Golden State Warriors
 Devin Harris,Dallas Mavericks
 Andre Iguodala,Golden State Warriors
 Al Jefferson,Indiana Pacers
-J.R. Smith,Cleveland Cavaliers
+JR Smith,Cleveland Cavaliers
 Jameer Nelson,New Orleans Pelicans
 Tony Allen,New Orleans Pelicans
 Trevor Ariza,Houston Rockets
