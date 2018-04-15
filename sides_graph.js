@@ -1,7 +1,7 @@
 
 
 
-function sides_chart(data_ply,w,h)
+function sides_chart(data_ply,w,h,delay)
 {
 	
 	
@@ -107,7 +107,7 @@ function sides_chart(data_ply,w,h)
                           .attr("stroke-width", 1.5)
                           .attr("fill", "none")
 						  					  
-		 var pnt3_line = svg.append('line')				
+	 var pnt3_line = svg.append('line')				
 							.attr('x1', xScale(0))
 							.attr('y1', yScale(0))
 							.attr('x2', xScale(0))
@@ -126,6 +126,34 @@ function sides_chart(data_ply,w,h)
                          .call(asse_x2); 
      var yAxisGroup = svg.append("g")
 						 .call(asse_y);					  
+   
+   
+   
+   
+   
+   			  				  
+	  var totalLength = path.node().getTotalLength();					  
+						  
+						  
+						  	
+	  path.attr("stroke-dasharray", totalLength + " " + totalLength)
+      .attr("stroke-dashoffset", totalLength)
+      .transition()
+	    .delay(delay)
+        .duration(2000)
+        .attr("stroke-dashoffset", 0);
+   
+   	  var totalLength = path2.node().getTotalLength();					  
+						  
+						  
+						  	
+	  path2.attr("stroke-dasharray", totalLength + " " + totalLength)
+      .attr("stroke-dashoffset", totalLength)
+      .transition()
+	    .delay(delay)
+        .duration(2000)
+        .attr("stroke-dashoffset", 0);
+   
    
 		 
 		 
