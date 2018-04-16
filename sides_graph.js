@@ -190,7 +190,7 @@ function sides_chart(data_ply,w,h,delay)
 		
 		
 		var txt_right=svg.append("text")
-        .attr("x", xScale2(max))             
+        .attr("x", xScale2(max-37))             
         .attr("y", 0)
         .attr("text-anchor", "left")  
         .style("font-size", "12px")
@@ -254,10 +254,22 @@ function sides_chart(data_ply,w,h,delay)
 		  
 		  var str_right = (right_line[y_bin].a).toString()
 		
+		  var tot=-left_line[y_bin].a+right_line[y_bin].a
+		
+		  var pct_left = ((-left_line[y_bin].a/tot*100).toFixed(2))
+		  
+		  var pct_right = ((right_line[y_bin].a/tot*100).toFixed(2))
+		  
+		  if(tot==0)
+		  {
+			  pct_left=0
+			  pct_right=0
+		  } 
+		
 
-		 txt_left.attr("y",y_line-4).text(str_left)
+		 txt_left.attr("y",y_line-4).text(str_left+" ("+pct_left+"%)")
 		 
-		 txt_right.attr("y",y_line-4).text(str_right)
+		 txt_right.attr("y",y_line-4).text("("+pct_right+"%) "+str_right)
 		  
 	  
 	  })
