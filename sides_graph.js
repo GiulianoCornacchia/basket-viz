@@ -6,7 +6,7 @@ function sides_chart(data_ply,w,h,delay)
 	
 	
 		 
-    var margin = {top: 20, right: 30, bottom: 10, left: 30},
+    var margin = {top: 20, right: 10, bottom: 10, left: 30},
     width = w - margin.left - margin.right,
     height = h - margin.top - margin.bottom;
 		 
@@ -124,7 +124,7 @@ function sides_chart(data_ply,w,h,delay)
 							.attr('stroke', "grey")
 							.attr('opacity',0.6)
 							.attr('stroke-width', 1)
-						
+							
 	
    	 var path = svg.append("path")
 						  .datum(left_line)
@@ -168,9 +168,36 @@ function sides_chart(data_ply,w,h,delay)
 						 .call(asse_y);					  
    
    
+      var mouse_line = svg.append('line')				
+							.attr('x1', xScale(-max-10))
+							.attr('y1', yScale(20))
+							.attr('x2', xScale2(max+10))
+							.attr('y2', yScale(20))
+							.attr('opacity',0)
+							.attr('stroke', "lightgrey")
+							.attr('stroke-width', 1.5)
    
    
-   
+		var txt_left=svg.append("text")
+        .attr("x", 10)             
+        .attr("y", 0)
+        .attr("text-anchor", "right")  
+        .style("font-size", "12px")
+		.attr("fill", "red")
+		.attr("opacity",0) 
+        .text("");
+		
+		
+		
+		var txt_right=svg.append("text")
+        .attr("x", xScale2(max))             
+        .attr("y", 0)
+        .attr("text-anchor", "left")  
+        .style("font-size", "12px")
+		.attr("fill", "blue")
+		.attr("opacity",0) 
+        .text("");
+		
    			  				  
 	  var totalLength = path.node().getTotalLength();					  
 						  
@@ -195,6 +222,44 @@ function sides_chart(data_ply,w,h,delay)
         .attr("stroke-dashoffset", 0);
    
    
+   
+    var r = svg.append('rect')
+	  .attr("id","rect_mouse")
+	  .attr("width", width)
+      .attr("height", height)
+	  .attr("opacity", 0)
+	  .on("mouseover",function(){
+								 mouse_line.attr("opacity",1)
+								 txt_left.attr("opacity",1)
+								 txt_right.attr("opacity",1)
+								 })
+	  .on("mouseout",function(){
+								mouse_line.attr("opacity",0)
+								 txt_left.attr("opacity",0)
+								 txt_right.attr("opacity",0)
+								})
+   
+	  .on("mousemove",function(){ 
+		  x = d3.mouse(this)[0]
+		  y = d3.mouse(this)[1]
+
+		  y_bin = Math.round(yScale.invert(y))
+		  
+		  y_line = yScale(y_bin)
+		  	
+		  mouse_line.attr("y1",y_line).attr("y2",y_line)
+		
+		  var str_left = (left_line[y_bin].a).toString()
+		  str_left=str_left.replace("-","")
+		  
+		  var str_right = (right_line[y_bin].a).toString()
+		
+
+		 txt_left.attr("y",y_line-4).text(str_left)
 		 
+		 txt_right.attr("y",y_line-4).text(str_right)
+		  
+	  
+	  })
 		 
 }
