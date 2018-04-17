@@ -1,12 +1,12 @@
 
 
 
-function sides_chart(data_ply,w,h,delay)
+function sides_chart(data_ply,w,h,delay,legend_text)
 {
 	
 	
 		 
-    var margin = {top: 20, right: 10, bottom: 10, left: 30},
+    var margin = {top: 20, right: 10, bottom: 0, left: 30},
     width = w - margin.left - margin.right,
     height = h - margin.top - margin.bottom;
 		 
@@ -66,7 +66,7 @@ function sides_chart(data_ply,w,h,delay)
    
      var xScale = d3.scaleLinear().range([0,width/2,]).domain([-(max+10),0]);
 
-     var yScale = d3.scaleLinear().range([height, 10]).domain([0,dim_x]);
+     var yScale = d3.scaleLinear().range([height, 20]).domain([0,dim_x]);
 	 
 	 var xScale2 = d3.scaleLinear().range([width/2,width]).domain([0,(max+10)]);
 
@@ -190,15 +190,31 @@ function sides_chart(data_ply,w,h,delay)
 		
 		
 		var txt_right=svg.append("text")
-        .attr("x", xScale2(max-37))             
+        .attr("x", xScale2(max+10)-35)             
         .attr("y", 0)
-        .attr("text-anchor", "left")  
+        .attr("text-anchor", "middle")  
         .style("font-size", "12px")
 		.attr("fill", "blue")
 		.attr("opacity",0) 
         .text("");
 		
-   			  				  
+   		
+
+		var txt_title=svg.append("text")
+        .attr("x", 0)             
+        .attr("y", 15)
+        .attr("text-anchor", "right")  
+        .style("font-size", "13px")
+		.attr("fill", "black")
+		.attr("opacity",1) 
+        .text("Shot Side Chart");
+
+
+
+
+
+
+		
 	  var totalLength = path.node().getTotalLength();					  
 						  
 						  
@@ -245,6 +261,9 @@ function sides_chart(data_ply,w,h,delay)
 
 		  y_bin = Math.round(yScale.invert(y))
 		  
+		  if(y_bin<30)
+		  { 
+		  
 		  y_line = yScale(y_bin)
 		  	
 		  mouse_line.attr("y1",y_line).attr("y2",y_line)
@@ -271,7 +290,7 @@ function sides_chart(data_ply,w,h,delay)
 		 
 		 txt_right.attr("y",y_line-4).text("("+pct_right+"%) "+str_right)
 		  
-	  
+		  }
 	  })
 		 
 }

@@ -9,6 +9,7 @@ var group
 var ribbon
 var chord
 
+
 function ast_from_to(data,f,t)
 {
 	
@@ -46,9 +47,12 @@ function give_teammates(data,name,vector)
 
 
 
-function chord_diagram(name_player,name_to_team,total_assist,w,h)
+function chord_diagram(name_player,name_to_team,total_assist,w,h,text_popup)
 {
 	
+	var pop_w=0
+	var pop_h=0
+	var linee=[]
 	
 	give_teammates(name_to_team,name_player,teammates)
 	teammates.sort()
@@ -109,6 +113,8 @@ function chord_diagram(name_player,name_to_team,total_assist,w,h)
 	color = d3.scaleOrdinal()
     .domain(d3.range(teammates.length))
     .range(colori);
+	
+	
 	
 	g = svg.append("g")
     .attr("transform", "translate(" + (outerRadius+5) + "," + h / 2 + ")")
@@ -183,15 +189,14 @@ group.append("path")
 
 		var legend_txt=svg.append("text")
         .attr("x", 0)             
-        .attr("y", 14)
+        .attr("y", 12)
 		.attr("text-anchor", "left") 
-        .style("font-size", "14px")
+        .style("font-size", "13px")
 		.attr("fill", "black")
 		.attr("opacity",1)
         .text("Team assists")
-		.on("mouseover",function(){document.body.style.cursor = "help"
-		})
-	  
+		.on("mouseover",function(){show_popup(w*0.82,h*0.8,"Chord Diagram",linee,svg); document.body.style.cursor = "help"})
+		.on("mouseout",function(){hide_popup();document.body.style.cursor = "default";})
 
 
 //// DRAWING THE LEGEND ON THE RIGHT
@@ -254,6 +259,24 @@ for(var i=0;i<teammates.length;i++)
 	
 }
 
+var text_chord="This type of diagram shows the inter-relationships between entities."
+text_chord = text_chord+" In this case using assists as relation between players of the same team." 
+text_chord = text_chord+" The players are arranged along a circle, each of them is represented as a circular segment which length is "
+text_chord = text_chord+"proportional at the fraction of assists the player made."
+text_chord = text_chord+" The relation between players A and B is shown as an arch that connects them,"
+text_chord = text_chord+" the width of the arch on A is proportional at the fraction of the assists that A made to B among A's total assist"
+text_chord = text_chord+", the same for B."
+text_chord = text_chord+" The list on the right permits to highlight a player by clicking over the name, double clicking on it"
+text_chord = text_chord+" shows the player's page and over the colored box allows to change the color associated."
+
+create_popup(svg,w*0.8,h*0.8,20,20,0.95)
+create_text((w*0.8-15),text_chord,linee,svg)
+
+
+console.log(linee)
+
+
+
 function legend_opacity(touched,tot)
 {
 	for(i=0;i<=tot;i++)
@@ -315,8 +338,118 @@ function hig_arc(id_target,op)
 	}
 }
 
+
+function create_popup(svg,w,h,x,y,opacity)
+{
+	
+	
+	svg.append('rect')
+	  .attr("id","rect_info")
+	  .attr("x",x)
+	  .attr("y",y)
+	  .attr("width", 0)
+      .attr("height", 0)
+	  .attr("opacity", opacity)
+	  .attr("fill","white")
+	  .attr("stroke","black")
+	  .attr("stroke-width","3")
+	  
+	
 }
 
+}
+
+function show_popup(w,h,title,lines,svg)
+{	
+	d3.select("#rect_info").attr("width",w).attr("height",h)
+	
+	 var text=svg.append("text")
+        .attr("x", 30)             
+        .attr("y", 40)
+		.attr("id","text_pop")
+		.attr("text-anchor", "left") 
+        .style("font-size", "15px")
+		.style("font-style", "italic")
+		.attr("font-weight", "bold")
+		.attr("fill", "black")
+		.attr("opacity",1)
+        .text(title+":")
+	
+	
+	for(var i=0;i<lines.length;i++)
+	{
+		 var text=svg.append("text")
+        .attr("x", 30)             
+        .attr("y", 60+15*i)
+		.attr("id","text_pop")
+		.attr("text-anchor", "left") 
+        .style("font-size", "12px")
+		.attr("fill", "black")
+		.attr("opacity",1)
+        .text(lines[i])
+		
+	}
+
+}
+
+function create_text(w,txt,lines,svg)
+{
+	//the idea is: i split word by word the "txt", adding the word to the current line if it is contained in the svg, otherwise i change line
+	
+	words=txt.split(" ")
+	
+	console.log(words)
+	
+	var line_w=0
+	lines[0]=""
+	var j=0
+	
+	for(var i=0;i<words.length;i++)
+	{
+		
+		 var text=svg.append("text")
+        .attr("x", 0)             
+        .attr("y", 0)
+		.attr("text-anchor", "left") 
+        .style("font-size", "13px")
+		.attr("fill", "black")
+		.attr("opacity",0)
+        .text("")
+		console.log(words[i][words[i].length-1])
+		text.text(words[i]+" ")
+		bbox = text.node().getBBox().width
+		
+		if((line_w+bbox)<=w)
+		{
+			lines[j]=lines[j]+words[i]+" "
+			line_w=line_w+bbox
+            if((words[i][words[i].length-1])==".")
+			{
+				j++;
+				lines[j]=""	
+				line_w=0
+			}
+		}
+		else
+		{
+			j++;
+			lines[j]=""
+			lines[j]=words[i]+" "
+			line_w=bbox		
+		}
+		
+		
+		console.log(bbox)
+		
+	}
+	
+}
+
+function hide_popup()
+{	
+	d3.select("#rect_info").attr("width",0).attr("height",0)
+    d3.selectAll("#text_pop").remove()	
+}
 
 function update_color(color)
 {
