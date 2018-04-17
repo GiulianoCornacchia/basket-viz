@@ -232,26 +232,41 @@
       .attr('height',350)
 	  .attr("viewBox","-250 -60 500 350")
 	 
-  
+     var w = 505
+	 var h = 350
 	
       draw_court(svg,"white","None");
       
+	  var linee=[]
 	 
+	var legend_txt=svg.append("text")
+		.attr("x", -w/2+8)             
+        .attr("y", 260)
+		.attr("text-anchor", "left") 
+        .style("font-size", "13px")
+		.style("font-weight", "bold")
+		.attr("fill", "white")
+		.attr("opacity",1)
+        .text("?")
+		.on("mouseover",function(){show_popup(w*0.82+10,h*0.65,"Heatmap",linee,svg,"heatmap",-w/2,15,"16.5px","14.5px"); document.body.style.cursor = "help"})
+		.on("mouseout",function(){hide_popup("heatmap");document.body.style.cursor = "default";})
+
+		
+	var text_chart="The heatmap shows the court areas where the player shoots more often, hotter is the color of the area higher is the "	
+		text_chart=text_chart+"number of shots taken from that zone. "
+		text_chart=text_chart+"With this data representation we can find the favorite shoot spots of a player. "
+		text_chart=text_chart+"We can see how the plot 'frequency vs distance' reflects the heatmap, in fact, the hotter zone are at a distance"
+		text_chart=text_chart+" such that we have a peak in the plot corresponding at that distance."
+    create_popup(svg,w*0.8,h*0.8,-w/2+10,15,0.95,"heatmap")
+	create_text((w*0.7-15),text_chart,linee,svg,"heatmap")
 
 	  
 	  }
 
 	  
 	  	  
-	  function draw_shotchart(data,to_update,q1,m1,q2,m2,w,h,flags,filter,state)
-     {
-
-
-
-
-
-
-
+function draw_shotchart(data,to_update,q1,m1,q2,m2,w,h,flags,filter,state)
+{
 
 if(to_update)
 {	
@@ -487,8 +502,30 @@ else
 		 .attr('opacity',0.8)
 	 
 
-
+	 var linee=[]
 	 
+	var legend_txt=svg.append("text")
+        .attr("x", -w/2+8)             
+        .attr("y", 285)
+		.attr("text-anchor", "left") 
+        .style("font-size", "13px")
+		.style("font-weight", "bold")
+		.attr("fill", "white")
+		.attr("opacity",1)
+        .text("?")
+		.on("mouseover",function(){show_popup(w*0.82+10,h*0.65,"Shot Chart",linee,svg,"shot_chart",-w/2,260-(h*0.65),"16.5px","14.5px"); document.body.style.cursor = "help"})
+		.on("mouseout",function(){hide_popup("shot_chart");document.body.style.cursor = "default";})
+
+		
+	var text_chart="The shot chart shows in a spatial representation all the shots taken by the player during the selected season. "	
+	text_chart=text_chart+"The cross represents the missed shots while the circle means the shot that was made. "
+	text_chart=text_chart+"It respects the density that we can find in the heatmap, but this representation offers also "
+	text_chart=text_chart+"information about the outcome of every shots. "
+	text_chart=text_chart+"The range slider on the bottom filters the shots showing only the ones that were taken "
+	text_chart=text_chart+"during the selected interval of minutes, and the three buttons on the right handle an animation of the shots minute by minute. "
+		
+    create_popup(svg,w*0.8,h*0.8,-w/2+10,320-(h*0.8),0.95,"shot_chart")
+	create_text((w*0.7-15),text_chart,linee,svg,"shot_chart")
 
 }
 	  

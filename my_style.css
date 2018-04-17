@@ -2,13 +2,11 @@
 width:500px; 
 height:330px; 
 zoom:0.9;
-pointer-events:none;
 }
 #heatmapContainer{
 width:100%;
 height:100%;
 left:0px;
-pointer-events:none
 }
 #msp {
 height:20px;
@@ -50,7 +48,6 @@ background-color: grey;
 width: auto;
 height: 350px;
 zoom:0.9;
-pointer-events:none;
 }
 #hmap{
 width: auto;
@@ -67,7 +64,6 @@ position:absolute;
 top:0px;
 width: 500px;
 height: 300px;
-pointer-events:none;
 }
 .grafico_{
 width: auto;

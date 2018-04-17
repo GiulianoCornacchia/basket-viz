@@ -17,7 +17,7 @@ function create_popup(svg,w,h,x,y,opacity,id)
 }
 
 
-function show_popup(w,h,title,lines,svg,id,off_x,off_y)
+function show_popup(w,h,title,lines,svg,id,off_x,off_y,title_size,font_size)
 {	
 	d3.select("#rect_info"+id).attr("width",w).attr("height",h)
 	
@@ -26,7 +26,7 @@ function show_popup(w,h,title,lines,svg,id,off_x,off_y)
         .attr("y", 40+off_y)
 		.attr("id","text_pop"+id)
 		.attr("text-anchor", "left") 
-        .style("font-size", "15px")
+        .style("font-size", title_size)
 		//.style("font-style", "italic")
 		.attr("font-weight", "bold")
 		.attr("fill", "black")
@@ -41,7 +41,7 @@ function show_popup(w,h,title,lines,svg,id,off_x,off_y)
         .attr("y", off_y+60+15*i)
 		.attr("id","text_pop"+id)
 		.attr("text-anchor", "left") 
-        .style("font-size", "12px")
+        .style("font-size", font_size)
 		.attr("fill", "black")
 		.attr("opacity",1)
         .text(lines[i])
@@ -50,7 +50,7 @@ function show_popup(w,h,title,lines,svg,id,off_x,off_y)
 
 }
 
-function create_text(w,txt,lines,svg,id)
+function create_text(w,txt,lines,svg,id,font_size)
 {
 	//the idea is: i split word by word the "txt", adding the word to the current line if it is contained in the svg, otherwise i change line
 	
@@ -67,7 +67,7 @@ function create_text(w,txt,lines,svg,id)
         .attr("x", 0)             
         .attr("y", 0)
 		.attr("text-anchor", "left") 
-        .style("font-size", "13px")
+        .style("font-size", font_size)
 		.attr("fill", "black")
 		.attr("opacity",0)
         .text("")

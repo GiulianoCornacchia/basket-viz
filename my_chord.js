@@ -193,7 +193,7 @@ group.append("path")
 		.attr("fill", "black")
 		.attr("opacity",1)
         .text("Team assists")
-		.on("mouseover",function(){show_popup(w*0.82,h*0.8,"Chord Diagram",linee,svg,"chord",0,0); document.body.style.cursor = "help"})
+		.on("mouseover",function(){show_popup(w*0.88,h*0.8,"Chord Diagram",linee,svg,"chord",0,0,"15px","12px"); document.body.style.cursor = "help"})
 		.on("mouseout",function(){hide_popup("chord");document.body.style.cursor = "default";})
 
 
@@ -268,7 +268,7 @@ text_chord = text_chord+" The list on the right allows to highlight a player by 
 text_chord = text_chord+" shows the player's page and over the colored box allows to change the color associated."
 
 create_popup(svg,w*0.8,h*0.8,20,20,0.95,"chord")
-create_text((w*0.8-15),text_chord,linee,svg,"chord")
+create_text((w*0.8-15),text_chord,linee,svg,"chord","12px")
 
 
 console.log(linee)

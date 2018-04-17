@@ -294,7 +294,7 @@ function sides_chart(data_ply,w,h,delay,legend_text)
 		.attr("fill", "black")
 		.attr("opacity",1) 
         .text("Shot Side Chart")
-		.on("mouseover",function(){show_popup(w*0.82,h*0.45,"Shot Side Chart",linee,svg,"sides",0,0); document.body.style.cursor = "help"})
+		.on("mouseover",function(){show_popup(w*0.75,h*0.45,"Shot Side Chart",linee,svg,"sides",0,0,"15px","12px"); document.body.style.cursor = "help"})
 		.on("mouseout",function(){hide_popup("sides");document.body.style.cursor = "default";})
 
 	  

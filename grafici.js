@@ -462,43 +462,59 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,le
 		.attr("fill", "black")
 		.attr("opacity",1)
         .text("?")
-		.on("mouseover",function(){show_popup(w*0.82+10,h*0.65,text_line,linee,svg,"line_chart"+fun,-20,-20); document.body.style.cursor = "help"})
+		.on("mouseover",function(){show_popup(w*0.82+10,h*0.7,text_line,linee,svg,"line_chart"+fun,-20,-20,"15px","12px"); document.body.style.cursor = "help"})
 		.on("mouseout",function(){hide_popup("line_chart"+fun);document.body.style.cursor = "default";})
 	
 		var text_line
+		var text_=[]
+		var linee=[]
 	  
 	    if(fun=="fg_dist")
 		{
 			text_line="Plot FG vs dist"
-			
+			text_ = "This plot shows the Field Goal percentage (y-axis) with respect to the rim distance (x-axis). "
+			text_ = text_+"From this plot we can find the spots where the player shoots better, this graph should " 
+			text_ = text_+"be read using also the plot 'freq vs dist' to detect outliers. "
 		}
 		if(fun=="freq_dist")
 		{
 			text_line="Plot Freq vs dist"
+			text_ = "This plot shows the shot frequency (y-axis) with respect to the rim distance (x-axis). "
+			text_ = text_+"The peaks are really useful to inspect the player's tendencies, understanding "
+			text_ = text_+"which kind of offensive game he play (three point shooter, mid-range shooter etc..). "
 		}
 		 if(fun=="fg_clock")
 		{
 			text_line="Plot FG vs shot clock"
+			text_ = "This plot shows the Field Goal percentage (y-axis) with respect to the shot clock (x-axis). "
+			text_ =text_+ "From this plot we can see whether the player shots better when the clock goes down etc."
 		}
 	     if(fun=="freq_clock")
 		{
 			text_line="Plot Freq vs shot clock"
+			text_ = "This plot shows the Field Goal percentage (y-axis) with respect to the shot clock (x-axis). "
+			text_ =text_+" With this plot we can see the player's tendencies according to the time left on the shot clock (0-24 sec)."
 		}
 		 if(fun=="freq_min")
 		{
 			text_line="Plot Freq vs game minute"
+			text_ = "This plot shows the shot frequency (y-axis) with respect to the minute of the game (x-axis). "
+			text_ = text_+"The locals minima could be interpreted as the moment where the player "
+			text_ = text_+"is on the bench, for example, in many starters we can find a minimum across the first and second quarter. "
 		}
 		 if(fun=="fg_min")
 		{
 			text_line="Plot FG vs game minute"
-
+			text_ = "This plot shows the Field Goal percentage (y-axis) with respect to the minute of the game (x-axis). "
+			text_ = text_+"It can be useful to see when a player shoots better during the game, for example, a player who shoots"
+			text_ = text_+" better in the final minutes has to be considered CLUTCH."
 		}
 	  
-	  var linee=["hdbdhbdhbd dhbdh hdhdbd hdhdgdgd dgdgdg"]
+	  
 	  
 
 		create_popup(svg,w*0.8,h*0.8,0,0,0.95,"line_chart"+fun)
-		create_text((w*0.8-15),text_line,linee,svg,"line_chart"+fun)
+		create_text((w*0.8-5),text_,linee,svg,"line_chart"+fun)
 
 
 		
