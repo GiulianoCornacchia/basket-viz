@@ -197,7 +197,7 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,le
 	  
 
 	 
-	  svg = d3.select(id).append("svg")
+	var svg = d3.select(id).append("svg")
               .attr("width", width + margin.left + margin.right)
               .attr("height", height + margin.top + margin.bottom)
               .append("g")
@@ -373,9 +373,6 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,le
 	  var totalLength = path.node().getTotalLength();					  
 						  
 
-	//d3.selectAll(".linea").style("filter", "url(#glow)");
-		
-						  
 						  	
 	  path.attr("stroke-dasharray", totalLength + " " + totalLength)
       .attr("stroke-dashoffset", totalLength)
@@ -408,8 +405,6 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,le
 	
 	  var r = svg.append('rect')
 	  .attr("id",id)
-	 
-	  //.attr("fill","red")
 	  .attr("width", width)
       .attr("height", height)
 	  .attr("opacity", 0)
@@ -430,9 +425,6 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,le
 		  y = d3.mouse(this)[1]
 		  
 		  
-		  
-		  
-
 		 x2 = mouseScale(x)
 		 x2 = Math.round(x2)
 		 
@@ -460,11 +452,56 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,le
 		  })
 	      
 
-	  
+	  					
+		var legend_txt=svg.append("text")
+        .attr("x", -15)             
+        .attr("y", -9)
+		.attr("text-anchor", "left") 
+        .style("font-size", "10px")
+		.style("font-weight", "bold")
+		.attr("fill", "black")
+		.attr("opacity",1)
+        .text("?")
+		.on("mouseover",function(){show_popup(w*0.82+10,h*0.65,text_line,linee,svg,"line_chart"+fun,-20,-20); document.body.style.cursor = "help"})
+		.on("mouseout",function(){hide_popup("line_chart"+fun);document.body.style.cursor = "default";})
 	
- 
+		var text_line
 	  
+	    if(fun=="fg_dist")
+		{
+			text_line="Plot FG vs dist"
+			
+		}
+		if(fun=="freq_dist")
+		{
+			text_line="Plot Freq vs dist"
+		}
+		 if(fun=="fg_clock")
+		{
+			text_line="Plot FG vs shot clock"
+		}
+	     if(fun=="freq_clock")
+		{
+			text_line="Plot Freq vs shot clock"
+		}
+		 if(fun=="freq_min")
+		{
+			text_line="Plot Freq vs game minute"
+		}
+		 if(fun=="fg_min")
+		{
+			text_line="Plot FG vs game minute"
+
+		}
 	  
+	  var linee=["hdbdhbdhbd dhbdh hdhdbd hdhdgdgd dgdgdg"]
+	  
+
+		create_popup(svg,w*0.8,h*0.8,0,0,0.95,"line_chart"+fun)
+		create_text((w*0.8-15),text_line,linee,svg,"line_chart"+fun)
+
+
+		
   
 }
 
@@ -482,10 +519,10 @@ function radar_chart(data_def,w,h,num_elem,r,delay,data_ply,name,legend_text)
     width = w - margin.left - margin.right,
     height = h - margin.top - margin.bottom;
 		 
-		 
+	var linee=[] 
 
 		 
-	svg = d3.select("#radar").append("svg")
+	var svg = d3.select("#radar").append("svg")
               .attr("width", width + margin.left + margin.right)
               .attr("height", height + margin.top + margin.bottom)
               .append("g")
@@ -707,15 +744,16 @@ for(i=0;i<num_elem;i++)
 						.on("mouseout",function(){area_ug.attr("opacity",0.4)})
 						
 						
-			var legend_txt=svg.append("text")
+		var legend_txt=svg.append("text")
         .attr("x", -w/2)             
         .attr("y", -h/2 + 14)
 		.attr("text-anchor", "left") 
         .style("font-size", "14px")
 		.attr("fill", "black")
 		.attr("opacity",1)
-        .text(legend_text);
-								
+        .text(legend_text)
+		.on("mouseover",function(){show_popup(w*0.82+10,h*0.65,"Shot Side Chart",linee,svg,"radar",-w/2,-h/2); document.body.style.cursor = "help"})
+		.on("mouseout",function(){hide_popup("radar");document.body.style.cursor = "default";})						
 		 	  					  
 						  
 area_ug.transition()
@@ -766,6 +804,14 @@ area_ug.transition()
 		d3.selectAll(".a1").style("filter", "url(#glow)");
 		 
 
+		 
+    var text_radar = "This radar chart shows the Field Goal (FG) of the player in his five most frequent match-ups. "
+	text_radar = text_radar+"The blue line is the FG of the player. "
+	text_radar = text_radar+"The green line is the FG of the player when is guarded by the relative player in the axis. "
+	text_radar = text_radar+"The red line is the FG allowed by the relative player in the axis. "
+	
+	create_popup(svg,w*0.8+10,h*0.8,-w/2 + 20,-h/2 + 20,0.95,"radar")
+	create_text((w*0.8-15),text_radar,linee,svg,"radar")
 	
 		 
 		 

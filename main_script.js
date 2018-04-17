@@ -174,6 +174,8 @@ function read_data(msp,tot_ast,tot_def,name_team)
 }
 
 
+
+
 function analytics(data_player,name_player,tot_def)
 {
 	

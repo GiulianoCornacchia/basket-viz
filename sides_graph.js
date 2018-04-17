@@ -13,14 +13,14 @@ function sides_chart(data_ply,w,h,delay,legend_text)
 		 
 
 		 
-	svg = d3.select("#radar").append("svg")
+	var svg = d3.select("#radar").append("svg")
               .attr("width", width + margin.left + margin.right)
               .attr("height", height + margin.top + margin.bottom)
               .append("g")
               .attr("transform","translate(" + 25 + "," + 0 + ")");	 
 		 
 	
-
+	var linee=[]
 	var left=[]
 	var right=[]
 	var dim_x=30
@@ -200,15 +200,6 @@ function sides_chart(data_ply,w,h,delay,legend_text)
 		
    		
 
-		var txt_title=svg.append("text")
-        .attr("x", 0)             
-        .attr("y", 15)
-        .attr("text-anchor", "right")  
-        .style("font-size", "13px")
-		.attr("fill", "black")
-		.attr("opacity",1) 
-        .text("Shot Side Chart");
-
 
 
 
@@ -292,5 +283,28 @@ function sides_chart(data_ply,w,h,delay,legend_text)
 		  
 		  }
 	  })
+	  
+	  
+	  
+		var txt_title=svg.append("text")
+        .attr("x", 0)             
+        .attr("y", 15)
+        .attr("text-anchor", "right")  
+        .style("font-size", "13px")
+		.attr("fill", "black")
+		.attr("opacity",1) 
+        .text("Shot Side Chart")
+		.on("mouseover",function(){show_popup(w*0.82,h*0.45,"Shot Side Chart",linee,svg,"sides",0,0); document.body.style.cursor = "help"})
+		.on("mouseout",function(){hide_popup("sides");document.body.style.cursor = "default";})
+
+	  
+	var text_sides = "This plot shows the shot-side tendencies for a player. "
+	text_sides = text_sides+"In the x-axis we have the number of shot and on the y-axis the distance in feet from the rim. "
+	text_sides = text_sides+"The red line represent the shots made from the left, the blue from the right"
+	text_sides = text_sides+" while the grey line shows the difference between the number of shots."
+	
+	create_popup(svg,w*0.8,h*0.8,20,20,0.95,"sides")
+	create_text((w*0.8-15),text_sides,linee,svg,"sides")
+	  
 		 
 }
