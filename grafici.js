@@ -481,7 +481,7 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,le
 			text_line="Plot Freq vs dist"
 			text_ = "This plot shows the shot frequency (y-axis) with respect to the rim distance (x-axis). "
 			text_ = text_+"The peaks are really useful to inspect the player's tendencies, understanding "
-			text_ = text_+"which kind of offensive game he play (three point shooter, mid-range shooter etc..). "
+			text_ = text_+"which kind of offensive game he plays (three point shooter, mid-range shooter etc..). "
 		}
 		 if(fun=="fg_clock")
 		{
@@ -514,7 +514,7 @@ function line_chart(data,w,h,id,delay,fun,c_line,c_area,scale_dom,delay,dim_x,le
 	  
 
 		create_popup(svg,w*0.8,h*0.8,0,0,0.95,"line_chart"+fun)
-		create_text((w*0.8-5),text_,linee,svg,"line_chart"+fun)
+		create_text((w*0.8-5),text_,linee,svg,"line_chart"+fun,"13px")
 
 
 		
