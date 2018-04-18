@@ -768,7 +768,7 @@ for(i=0;i<num_elem;i++)
 		.attr("fill", "black")
 		.attr("opacity",1)
         .text(legend_text)
-		.on("mouseover",function(){show_popup(w*0.82+10,h*0.65,"Shot Side Chart",linee,svg,"radar",-w/2,-h/2); document.body.style.cursor = "help"})
+		.on("mouseover",function(){show_popup(w*0.82+10,h*0.65,"Radar Chart",linee,svg,"radar",-w/2,-h/2,"15px","12px"); document.body.style.cursor = "help"})
 		.on("mouseout",function(){hide_popup("radar");document.body.style.cursor = "default";})						
 		 	  					  
 						  
